@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 08:21:52
+document_datetime: 2026-02-20 10:34:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kevzara.html
 document_name: kevzara.html
 version: success
-processing_time: 0.275624
-conversion_datetime: 2025-12-30 12:06:00.976656
+processing_time: 0.1129866
+conversion_datetime: 2026-02-21 12:39:49.202265
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Kevzara
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sarilumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -139,7 +137,7 @@ English (EN) (112.89 KB - PDF)
 
 [View](/en/documents/overview/kevzara-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-41)
+[Other languages (22)](#file-language-dropdown-135)
 
 български (BG) (137.99 KB - PDF)
 
@@ -419,17 +417,17 @@ English (EN) (1.3 MB - PDF)
 
 Kevzara : EPAR - Product Information
 
-English (EN) (2.71 MB - PDF)
+English (EN) (2.02 MB - PDF)
 
 **First published:** 29/06/2017
 
-**Last updated:** 28/03/2025
+**Last updated:** 20/02/2026
 
 [View](/en/documents/product-information/kevzara-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-555)
+[Other languages (24)](#file-language-dropdown-661)
 
-български (BG) (2.16 MB - PDF)
+български (BG) (2.49 MB - PDF)
 
 **First published:**
 
@@ -437,11 +435,11 @@ English (EN) (2.71 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/bg/documents/product-information/kevzara-epar-product-information_bg.pdf)
 
-español (ES) (2.33 MB - PDF)
+español (ES) (1.83 MB - PDF)
 
 **First published:**
 
@@ -449,11 +447,11 @@ español (ES) (2.33 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/es/documents/product-information/kevzara-epar-product-information_es.pdf)
 
-čeština (CS) (1.83 MB - PDF)
+čeština (CS) (1.85 MB - PDF)
 
 **First published:**
 
@@ -461,11 +459,11 @@ español (ES) (2.33 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/cs/documents/product-information/kevzara-epar-product-information_cs.pdf)
 
-dansk (DA) (2.23 MB - PDF)
+dansk (DA) (2.21 MB - PDF)
 
 **First published:**
 
@@ -473,11 +471,11 @@ dansk (DA) (2.23 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/da/documents/product-information/kevzara-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.62 MB - PDF)
+Deutsch (DE) (2.99 MB - PDF)
 
 **First published:**
 
@@ -485,11 +483,11 @@ Deutsch (DE) (2.62 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/de/documents/product-information/kevzara-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.04 MB - PDF)
+eesti keel (ET) (1.79 MB - PDF)
 
 **First published:**
 
@@ -497,11 +495,11 @@ eesti keel (ET) (2.04 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/et/documents/product-information/kevzara-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.2 MB - PDF)
+ελληνικά (EL) (2.62 MB - PDF)
 
 **First published:**
 
@@ -509,11 +507,11 @@ eesti keel (ET) (2.04 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/el/documents/product-information/kevzara-epar-product-information_el.pdf)
 
-français (FR) (2.42 MB - PDF)
+français (FR) (2.27 MB - PDF)
 
 **First published:**
 
@@ -521,11 +519,11 @@ français (FR) (2.42 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/fr/documents/product-information/kevzara-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.03 MB - PDF)
+hrvatski (HR) (2.05 MB - PDF)
 
 **First published:**
 
@@ -533,11 +531,11 @@ hrvatski (HR) (2.03 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/hr/documents/product-information/kevzara-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.86 MB - PDF)
+íslenska (IS) (1.79 MB - PDF)
 
 **First published:**
 
@@ -545,11 +543,11 @@ hrvatski (HR) (2.03 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/is/documents/product-information/kevzara-epar-product-information_is.pdf)
 
-italiano (IT) (2.48 MB - PDF)
+italiano (IT) (2.46 MB - PDF)
 
 **First published:**
 
@@ -557,11 +555,11 @@ italiano (IT) (2.48 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/it/documents/product-information/kevzara-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.92 MB - PDF)
+latviešu valoda (LV) (1.76 MB - PDF)
 
 **First published:**
 
@@ -569,11 +567,11 @@ latviešu valoda (LV) (1.92 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/lv/documents/product-information/kevzara-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.26 MB - PDF)
+lietuvių kalba (LT) (2.05 MB - PDF)
 
 **First published:**
 
@@ -581,11 +579,11 @@ lietuvių kalba (LT) (2.26 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/lt/documents/product-information/kevzara-epar-product-information_lt.pdf)
 
-magyar (HU) (1.95 MB - PDF)
+magyar (HU) (2.66 MB - PDF)
 
 **First published:**
 
@@ -593,11 +591,11 @@ magyar (HU) (1.95 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/hu/documents/product-information/kevzara-epar-product-information_hu.pdf)
 
-Malti (MT) (2.34 MB - PDF)
+Malti (MT) (2.31 MB - PDF)
 
 **First published:**
 
@@ -605,11 +603,11 @@ Malti (MT) (2.34 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/mt/documents/product-information/kevzara-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.46 MB - PDF)
+Nederlands (NL) (3.08 MB - PDF)
 
 **First published:**
 
@@ -617,11 +615,11 @@ Nederlands (NL) (2.46 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/nl/documents/product-information/kevzara-epar-product-information_nl.pdf)
 
-norsk (NO) (2.19 MB - PDF)
+norsk (NO) (2.21 MB - PDF)
 
 **First published:**
 
@@ -629,11 +627,11 @@ norsk (NO) (2.19 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/no/documents/product-information/kevzara-epar-product-information_no.pdf)
 
-polski (PL) (2.37 MB - PDF)
+polski (PL) (2.32 MB - PDF)
 
 **First published:**
 
@@ -641,11 +639,11 @@ polski (PL) (2.37 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/pl/documents/product-information/kevzara-epar-product-information_pl.pdf)
 
-português (PT) (2.7 MB - PDF)
+português (PT) (2.09 MB - PDF)
 
 **First published:**
 
@@ -653,11 +651,11 @@ português (PT) (2.7 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/pt/documents/product-information/kevzara-epar-product-information_pt.pdf)
 
-română (RO) (2.3 MB - PDF)
+română (RO) (2.86 MB - PDF)
 
 **First published:**
 
@@ -665,11 +663,11 @@ română (RO) (2.3 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/ro/documents/product-information/kevzara-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.33 MB - PDF)
+slovenčina (SK) (2.29 MB - PDF)
 
 **First published:**
 
@@ -677,11 +675,11 @@ slovenčina (SK) (2.33 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/sk/documents/product-information/kevzara-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.11 MB - PDF)
+slovenščina (SL) (2.09 MB - PDF)
 
 **First published:**
 
@@ -689,11 +687,11 @@ slovenščina (SL) (2.11 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/sl/documents/product-information/kevzara-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.16 MB - PDF)
+Suomi (FI) (3.55 MB - PDF)
 
 **First published:**
 
@@ -701,11 +699,11 @@ Suomi (FI) (2.16 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/fi/documents/product-information/kevzara-epar-product-information_fi.pdf)
 
-svenska (SV) (2.26 MB - PDF)
+svenska (SV) (2.41 MB - PDF)
 
 **First published:**
 
@@ -713,11 +711,11 @@ svenska (SV) (2.26 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+20/02/2026
 
 [View](/sv/documents/product-information/kevzara-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000257751 28/03/2025
+**Latest procedure affecting product information:** VR/0000323506 19/02/2026
 
 icon globe
 
@@ -735,17 +733,17 @@ Product information documents contain:
 
 Kevzara : EPAR - All Authorised presentations
 
-English (EN) (56.88 KB - PDF)
+English (EN) (84.84 KB - PDF)
 
 **First published:** 29/06/2017
 
-**Last updated:** 31/01/2025
+**Last updated:** 20/02/2026
 
 [View](/en/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-672)
+[Other languages (24)](#file-language-dropdown-149)
 
-български (BG) (91.06 KB - PDF)
+български (BG) (76.48 KB - PDF)
 
 **First published:**
 
@@ -753,11 +751,11 @@ English (EN) (56.88 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/bg/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (97.54 KB - PDF)
+español (ES) (116.11 KB - PDF)
 
 **First published:**
 
@@ -765,11 +763,11 @@ español (ES) (97.54 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/es/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (57.69 KB - PDF)
+čeština (CS) (96.26 KB - PDF)
 
 **First published:**
 
@@ -777,11 +775,11 @@ español (ES) (97.54 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/cs/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (65.33 KB - PDF)
+dansk (DA) (70.82 KB - PDF)
 
 **First published:**
 
@@ -789,11 +787,11 @@ dansk (DA) (65.33 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/da/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (42.37 KB - PDF)
+Deutsch (DE) (67.86 KB - PDF)
 
 **First published:**
 
@@ -801,11 +799,11 @@ Deutsch (DE) (42.37 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/de/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (32.48 KB - PDF)
+eesti keel (ET) (43.98 KB - PDF)
 
 **First published:**
 
@@ -813,11 +811,11 @@ eesti keel (ET) (32.48 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/et/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (81.87 KB - PDF)
+ελληνικά (EL) (103.62 KB - PDF)
 
 **First published:**
 
@@ -825,11 +823,11 @@ eesti keel (ET) (32.48 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/el/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (41.56 KB - PDF)
+français (FR) (82.63 KB - PDF)
 
 **First published:**
 
@@ -837,11 +835,11 @@ français (FR) (41.56 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/fr/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (97.89 KB - PDF)
+hrvatski (HR) (91.89 KB - PDF)
 
 **First published:**
 
@@ -849,11 +847,11 @@ hrvatski (HR) (97.89 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/hr/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (55.63 KB - PDF)
+íslenska (IS) (70.57 KB - PDF)
 
 **First published:**
 
@@ -861,11 +859,11 @@ hrvatski (HR) (97.89 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/is/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (45.13 KB - PDF)
+italiano (IT) (79.06 KB - PDF)
 
 **First published:**
 
@@ -873,11 +871,11 @@ italiano (IT) (45.13 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/it/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (67.18 KB - PDF)
+latviešu valoda (LV) (85.55 KB - PDF)
 
 **First published:**
 
@@ -885,11 +883,11 @@ latviešu valoda (LV) (67.18 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/lv/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (62.71 KB - PDF)
+lietuvių kalba (LT) (79.34 KB - PDF)
 
 **First published:**
 
@@ -897,11 +895,11 @@ lietuvių kalba (LT) (62.71 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/lt/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (54.33 KB - PDF)
+magyar (HU) (59.69 KB - PDF)
 
 **First published:**
 
@@ -909,11 +907,11 @@ magyar (HU) (54.33 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/hu/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (121.77 KB - PDF)
+Malti (MT) (91.18 KB - PDF)
 
 **First published:**
 
@@ -921,11 +919,11 @@ Malti (MT) (121.77 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/mt/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (43.37 KB - PDF)
+Nederlands (NL) (79.53 KB - PDF)
 
 **First published:**
 
@@ -933,11 +931,11 @@ Nederlands (NL) (43.37 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/nl/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (65.6 KB - PDF)
+norsk (NO) (102.97 KB - PDF)
 
 **First published:**
 
@@ -945,11 +943,11 @@ norsk (NO) (65.6 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/no/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (67.52 KB - PDF)
+polski (PL) (83.67 KB - PDF)
 
 **First published:**
 
@@ -957,11 +955,11 @@ polski (PL) (67.52 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/pl/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (101.04 KB - PDF)
+português (PT) (51.56 KB - PDF)
 
 **First published:**
 
@@ -969,11 +967,11 @@ português (PT) (101.04 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/pt/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (105.38 KB - PDF)
+română (RO) (108.49 KB - PDF)
 
 **First published:**
 
@@ -981,11 +979,11 @@ română (RO) (105.38 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/ro/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (89.93 KB - PDF)
+slovenčina (SK) (87.89 KB - PDF)
 
 **First published:**
 
@@ -993,11 +991,11 @@ slovenčina (SK) (89.93 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/sk/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (68.46 KB - PDF)
+slovenščina (SL) (80.19 KB - PDF)
 
 **First published:**
 
@@ -1005,11 +1003,11 @@ slovenščina (SL) (68.46 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/sl/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (41.78 KB - PDF)
+Suomi (FI) (74.49 KB - PDF)
 
 **First published:**
 
@@ -1017,11 +1015,11 @@ Suomi (FI) (41.78 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/fi/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (43.56 KB - PDF)
+svenska (SV) (82.19 KB - PDF)
 
 **First published:**
 
@@ -1029,7 +1027,7 @@ svenska (SV) (43.56 KB - PDF)
 
 **Last updated:**
 
-31/01/2025
+20/02/2026
 
 [View](/sv/documents/all-authorised-presentations/kevzara-epar-all-authorised-presentations_sv.pdf)
 
@@ -1043,9 +1041,9 @@ Immunosuppressants
 
 ### Therapeutic indication
 
-Rheumatoid arthritis Kevzara in combination with methotrexate (MTX) is indicated for the treatment of moderately to severely active rheumatoid arthritis (RA) in adult patients who have responded inadequately to, or who are intolerant to one or more disease modifying anti rheumatic drugs (DMARDs). Kevzara can be given as monotherapy in case of intolerance to MTX or when treatment with MTX is inappropriate. Polymyalgia rheumatica Kevzara is indicated for the treatment of polymyalgia rheumatica (PMR) in adult patients who have had an inadequate response to corticosteroids or who experience a relapse during corticosteroid taper.
+**Rheumatoid arthritis** Kevzara in combination with methotrexate (MTX) is indicated for the treatment of moderately to severely active rheumatoid arthritis (RA) in adult patients who have responded inadequately to, or who are intolerant to one or more disease modifying anti rheumatic drugs (DMARDs). Kevzara can be given as monotherapy in case of intolerance to MTX or when treatment with MTX is inappropriate. **Polymyalgia rheumatica** Kevzara is indicated for the treatment of polymyalgia rheumatica (PMR) in adult patients who have had an inadequate response to corticosteroids or who experience a relapse during corticosteroid taper.
 
-Polyarticular juvenile idiopathic arthritis
+**Polyarticular juvenile idiopathic arthritis**
 
 Kevzara is indicated for the treatment of active polyarticular juvenile idiopathic arthritis (pJIA; rheumatoid factor positive or negative polyarthritis and extended oligoarthritis) in patients 2 years of age and older, who have responded inadequately to previous therapy with conventional synthetic DMARDs (csDMARDs). Kevzara may be used as monotherapy or in combination with MTX.
 
@@ -1063,7 +1061,7 @@ Sanofi Winthrop Industrie
 
 82 Avenue Raspail
 
-Opinion adopted 21/04/2017 Marketing authorisation issued 23/06/2017 Revision 15
+Opinion adopted 21/04/2017 Marketing authorisation issued 23/06/2017 Revision 16
 
 ## Assessment history
 
@@ -1075,9 +1073,11 @@ Collapse section
 
 Kevzara : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (140.26 KB - PDF)
+English (EN) (148.61 KB - PDF)
 
 **First published:** 28/03/2025
+
+**Last updated:** 20/02/2026
 
 [View](/en/documents/procedural-steps-after/kevzara-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1219,7 +1219,7 @@ English (EN) (73.46 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 28/03/2025
+**This page was last updated on** 20/02/2026
 
 ## Share this page
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 09:49:32
+document_datetime: 2026-02-19 14:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/adzynma.html
 document_name: adzynma.html
 version: success
-processing_time: 0.1036842
-conversion_datetime: 2025-12-30 09:58:39.199714
+processing_time: 0.0965159
+conversion_datetime: 2026-02-21 12:12:55.81707
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Adzynma
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 rADAMTS13 Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +112,7 @@ English (EN) (131.72 KB - PDF)
 
 [View](/en/documents/overview/adzynma-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-541)
+[Other languages (22)](#file-language-dropdown-639)
 
 български (BG) (167.9 KB - PDF)
 
@@ -294,9 +292,11 @@ svenska (SV) (135.14 KB - PDF)
 
 Adzynma : EPAR - Risk management plan
 
-English (EN) (814.04 KB - PDF)
+English (EN) (1.04 MB - PDF)
 
 **First published:** 07/08/2024
+
+**Last updated:** 19/02/2026
 
 [View](/en/documents/rmp-summary/adzynma-epar-risk-management-plan_en.pdf)
 
@@ -304,207 +304,305 @@ English (EN) (814.04 KB - PDF)
 
 Adzynma : EPAR - Product information
 
-English (EN) (738.65 KB - PDF)
+English (EN) (581.6 KB - PDF)
 
 **First published:** 07/08/2024
 
+**Last updated:** 19/02/2026
+
 [View](/en/documents/product-information/adzynma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-533)
+[Other languages (24)](#file-language-dropdown-626)
 
-български (BG) (1.06 MB - PDF)
+български (BG) (759.87 KB - PDF)
 
 **First published:**
 
 07/08/2024
+
+**Last updated:**
+
+19/02/2026
 
 [View](/bg/documents/product-information/adzynma-epar-product-information_bg.pdf)
 
-español (ES) (719.55 KB - PDF)
+español (ES) (587.27 KB - PDF)
 
 **First published:**
 
 07/08/2024
+
+**Last updated:**
+
+19/02/2026
 
 [View](/es/documents/product-information/adzynma-epar-product-information_es.pdf)
 
-čeština (CS) (1.06 MB - PDF)
+čeština (CS) (708.51 KB - PDF)
 
 **First published:**
 
 07/08/2024
+
+**Last updated:**
+
+19/02/2026
 
 [View](/cs/documents/product-information/adzynma-epar-product-information_cs.pdf)
 
-dansk (DA) (737.54 KB - PDF)
+dansk (DA) (601.38 KB - PDF)
 
 **First published:**
 
 07/08/2024
+
+**Last updated:**
+
+19/02/2026
 
 [View](/da/documents/product-information/adzynma-epar-product-information_da.pdf)
 
-Deutsch (DE) (793.82 KB - PDF)
+Deutsch (DE) (714.47 KB - PDF)
 
 **First published:**
 
 07/08/2024
+
+**Last updated:**
+
+19/02/2026
 
 [View](/de/documents/product-information/adzynma-epar-product-information_de.pdf)
 
-eesti keel (ET) (693.14 KB - PDF)
+eesti keel (ET) (623.05 KB - PDF)
 
 **First published:**
 
 07/08/2024
+
+**Last updated:**
+
+19/02/2026
 
 [View](/et/documents/product-information/adzynma-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.12 MB - PDF)
+ελληνικά (EL) (760.42 KB - PDF)
 
 **First published:**
 
 07/08/2024
+
+**Last updated:**
+
+19/02/2026
 
 [View](/el/documents/product-information/adzynma-epar-product-information_el.pdf)
 
-français (FR) (760.83 KB - PDF)
+français (FR) (693.05 KB - PDF)
 
 **First published:**
 
 07/08/2024
+
+**Last updated:**
+
+19/02/2026
 
 [View](/fr/documents/product-information/adzynma-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.04 MB - PDF)
+hrvatski (HR) (772.27 KB - PDF)
 
 **First published:**
 
 07/08/2024
+
+**Last updated:**
+
+19/02/2026
 
 [View](/hr/documents/product-information/adzynma-epar-product-information_hr.pdf)
 
-íslenska (IS) (743.55 KB - PDF)
+íslenska (IS) (655.55 KB - PDF)
 
 **First published:**
 
 07/08/2024
+
+**Last updated:**
+
+19/02/2026
 
 [View](/is/documents/product-information/adzynma-epar-product-information_is.pdf)
 
-italiano (IT) (759.38 KB - PDF)
+italiano (IT) (659.87 KB - PDF)
 
 **First published:**
 
 07/08/2024
+
+**Last updated:**
+
+19/02/2026
 
 [View](/it/documents/product-information/adzynma-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.06 MB - PDF)
+latviešu valoda (LV) (701.34 KB - PDF)
 
 **First published:**
 
 07/08/2024
+
+**Last updated:**
+
+19/02/2026
 
 [View](/lv/documents/product-information/adzynma-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.11 MB - PDF)
+lietuvių kalba (LT) (748.14 KB - PDF)
 
 **First published:**
 
 07/08/2024
+
+**Last updated:**
+
+19/02/2026
 
 [View](/lt/documents/product-information/adzynma-epar-product-information_lt.pdf)
 
-magyar (HU) (983.21 KB - PDF)
+magyar (HU) (777.87 KB - PDF)
 
 **First published:**
 
 07/08/2024
+
+**Last updated:**
+
+19/02/2026
 
 [View](/hu/documents/product-information/adzynma-epar-product-information_hu.pdf)
 
-Malti (MT) (1.02 MB - PDF)
+Malti (MT) (731.59 KB - PDF)
 
 **First published:**
 
 07/08/2024
+
+**Last updated:**
+
+19/02/2026
 
 [View](/mt/documents/product-information/adzynma-epar-product-information_mt.pdf)
 
-Nederlands (NL) (757.02 KB - PDF)
+Nederlands (NL) (651.45 KB - PDF)
 
 **First published:**
 
 07/08/2024
+
+**Last updated:**
+
+19/02/2026
 
 [View](/nl/documents/product-information/adzynma-epar-product-information_nl.pdf)
 
-norsk (NO) (761.99 KB - PDF)
+norsk (NO) (652.56 KB - PDF)
 
 **First published:**
 
 07/08/2024
+
+**Last updated:**
+
+19/02/2026
 
 [View](/no/documents/product-information/adzynma-epar-product-information_no.pdf)
 
-polski (PL) (1.07 MB - PDF)
+polski (PL) (729.73 KB - PDF)
 
 **First published:**
 
 07/08/2024
+
+**Last updated:**
+
+19/02/2026
 
 [View](/pl/documents/product-information/adzynma-epar-product-information_pl.pdf)
 
-português (PT) (729.62 KB - PDF)
+português (PT) (601.85 KB - PDF)
 
 **First published:**
 
 07/08/2024
+
+**Last updated:**
+
+19/02/2026
 
 [View](/pt/documents/product-information/adzynma-epar-product-information_pt.pdf)
 
-română (RO) (1.01 MB - PDF)
+română (RO) (679.85 KB - PDF)
 
 **First published:**
 
 07/08/2024
+
+**Last updated:**
+
+19/02/2026
 
 [View](/ro/documents/product-information/adzynma-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.04 MB - PDF)
+slovenčina (SK) (708.58 KB - PDF)
 
 **First published:**
 
 07/08/2024
+
+**Last updated:**
+
+19/02/2026
 
 [View](/sk/documents/product-information/adzynma-epar-product-information_sk.pdf)
 
-slovenščina (SL) (982.89 KB - PDF)
+slovenščina (SL) (667.95 KB - PDF)
 
 **First published:**
 
 07/08/2024
+
+**Last updated:**
+
+19/02/2026
 
 [View](/sl/documents/product-information/adzynma-epar-product-information_sl.pdf)
 
-Suomi (FI) (708.89 KB - PDF)
+Suomi (FI) (577.76 KB - PDF)
 
 **First published:**
 
 07/08/2024
+
+**Last updated:**
+
+19/02/2026
 
 [View](/fi/documents/product-information/adzynma-epar-product-information_fi.pdf)
 
-svenska (SV) (704.09 KB - PDF)
+svenska (SV) (582.24 KB - PDF)
 
 **First published:**
 
 07/08/2024
 
+**Last updated:**
+
+19/02/2026
+
 [View](/sv/documents/product-information/adzynma-epar-product-information_sv.pdf)
 
-01/08/2024
+**Latest procedure affecting product information:** VR/0000255553 09/01/2026
 
 icon globe
 
@@ -528,7 +626,7 @@ English (EN) (50.67 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/adzynma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-811)
+[Other languages (24)](#file-language-dropdown-658)
 
 български (BG) (87.22 KB - PDF)
 
@@ -757,9 +855,23 @@ Takeda Manufacturing Austria AG
 
 Industriestrasse 67
 
-Opinion adopted 30/05/2024 Marketing authorisation issued 01/08/2024
+Opinion adopted 30/05/2024 Marketing authorisation issued 01/08/2024 Revision 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Adzynma : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (154.31 KB - PDF)
+
+**First published:** 19/02/2026
+
+[View](/en/documents/procedural-steps-after/adzynma-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -809,8 +921,9 @@ English (EN) (146.38 KB - PDF)
 
 - [EU/3/08/588 - orphan designation for treatment of thrombotic thrombocytopenic purpura](/en/medicines/human/orphan-designations/eu-3-08-588)
 - [EMEA-001160-PIP01-11-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001160-pip01-11-m05)
+- [TAK-755-4007: A Post-Authorization Safety Study (PASS) to Further Evaluate Real-World Safety in Patients with Congenital Thrombotic Thrombocytopenic Purpura (cTTP) Treated with Adzynma - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000870)
 
-**This page was last updated on** 07/08/2024
+**This page was last updated on** 19/02/2026
 
 ## Share this page
 

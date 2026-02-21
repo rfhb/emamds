@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 13:01:26
+document_datetime: 2026-02-19 10:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hulio.html
 document_name: hulio.html
 version: success
-processing_time: 0.112031
-conversion_datetime: 2025-12-30 22:58:10.834577
+processing_time: 0.106426
+conversion_datetime: 2026-02-21 12:49:07.920969
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Hulio
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 adalimumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -129,7 +127,7 @@ English (EN) (83.04 KB - PDF)
 
 [View](/en/documents/overview/hulio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-572)
+[Other languages (22)](#file-language-dropdown-743)
 
 български (BG) (117.84 KB - PDF)
 
@@ -409,17 +407,17 @@ English (EN) (191.2 KB - PDF)
 
 Hulio : EPAR - Product Information
 
-English (EN) (4.2 MB - PDF)
+English (EN) (3.7 MB - PDF)
 
 **First published:** 21/09/2018
 
-**Last updated:** 09/04/2025
+**Last updated:** 19/02/2026
 
 [View](/en/documents/product-information/hulio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-219)
+[Other languages (24)](#file-language-dropdown-332)
 
-български (BG) (10.1 MB - PDF)
+български (BG) (3.92 MB - PDF)
 
 **First published:**
 
@@ -427,11 +425,11 @@ English (EN) (4.2 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/bg/documents/product-information/hulio-epar-product-information_bg.pdf)
 
-español (ES) (8.53 MB - PDF)
+español (ES) (3.69 MB - PDF)
 
 **First published:**
 
@@ -439,11 +437,11 @@ español (ES) (8.53 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/es/documents/product-information/hulio-epar-product-information_es.pdf)
 
-čeština (CS) (10.81 MB - PDF)
+čeština (CS) (3.93 MB - PDF)
 
 **First published:**
 
@@ -451,11 +449,11 @@ español (ES) (8.53 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/cs/documents/product-information/hulio-epar-product-information_cs.pdf)
 
-dansk (DA) (8.85 MB - PDF)
+dansk (DA) (3.23 MB - PDF)
 
 **First published:**
 
@@ -463,11 +461,11 @@ dansk (DA) (8.85 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/da/documents/product-information/hulio-epar-product-information_da.pdf)
 
-Deutsch (DE) (10.79 MB - PDF)
+Deutsch (DE) (3.93 MB - PDF)
 
 **First published:**
 
@@ -475,11 +473,11 @@ Deutsch (DE) (10.79 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/de/documents/product-information/hulio-epar-product-information_de.pdf)
 
-eesti keel (ET) (8.63 MB - PDF)
+eesti keel (ET) (3.31 MB - PDF)
 
 **First published:**
 
@@ -487,11 +485,11 @@ eesti keel (ET) (8.63 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/et/documents/product-information/hulio-epar-product-information_et.pdf)
 
-ελληνικά (EL) (9.04 MB - PDF)
+ελληνικά (EL) (4.02 MB - PDF)
 
 **First published:**
 
@@ -499,11 +497,11 @@ eesti keel (ET) (8.63 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/el/documents/product-information/hulio-epar-product-information_el.pdf)
 
-français (FR) (10.03 MB - PDF)
+français (FR) (3.48 MB - PDF)
 
 **First published:**
 
@@ -511,11 +509,11 @@ français (FR) (10.03 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/fr/documents/product-information/hulio-epar-product-information_fr.pdf)
 
-hrvatski (HR) (9.98 MB - PDF)
+hrvatski (HR) (3.16 MB - PDF)
 
 **First published:**
 
@@ -523,11 +521,11 @@ hrvatski (HR) (9.98 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/hr/documents/product-information/hulio-epar-product-information_hr.pdf)
 
-íslenska (IS) (8.08 MB - PDF)
+íslenska (IS) (2.96 MB - PDF)
 
 **First published:**
 
@@ -535,11 +533,11 @@ hrvatski (HR) (9.98 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/is/documents/product-information/hulio-epar-product-information_is.pdf)
 
-italiano (IT) (8.64 MB - PDF)
+italiano (IT) (2.97 MB - PDF)
 
 **First published:**
 
@@ -547,11 +545,11 @@ italiano (IT) (8.64 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/it/documents/product-information/hulio-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (9.63 MB - PDF)
+latviešu valoda (LV) (3.2 MB - PDF)
 
 **First published:**
 
@@ -559,11 +557,11 @@ latviešu valoda (LV) (9.63 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/lv/documents/product-information/hulio-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (9.1 MB - PDF)
+lietuvių kalba (LT) (3.14 MB - PDF)
 
 **First published:**
 
@@ -571,11 +569,11 @@ lietuvių kalba (LT) (9.1 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/lt/documents/product-information/hulio-epar-product-information_lt.pdf)
 
-magyar (HU) (9.75 MB - PDF)
+magyar (HU) (3.6 MB - PDF)
 
 **First published:**
 
@@ -583,11 +581,11 @@ magyar (HU) (9.75 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/hu/documents/product-information/hulio-epar-product-information_hu.pdf)
 
-Malti (MT) (12.02 MB - PDF)
+Malti (MT) (3.69 MB - PDF)
 
 **First published:**
 
@@ -595,11 +593,11 @@ Malti (MT) (12.02 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/mt/documents/product-information/hulio-epar-product-information_mt.pdf)
 
-Nederlands (NL) (10.29 MB - PDF)
+Nederlands (NL) (3.71 MB - PDF)
 
 **First published:**
 
@@ -607,11 +605,11 @@ Nederlands (NL) (10.29 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/nl/documents/product-information/hulio-epar-product-information_nl.pdf)
 
-norsk (NO) (9.08 MB - PDF)
+norsk (NO) (3.24 MB - PDF)
 
 **First published:**
 
@@ -619,11 +617,11 @@ norsk (NO) (9.08 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/no/documents/product-information/hulio-epar-product-information_no.pdf)
 
-polski (PL) (12.87 MB - PDF)
+polski (PL) (3.48 MB - PDF)
 
 **First published:**
 
@@ -631,11 +629,11 @@ polski (PL) (12.87 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/pl/documents/product-information/hulio-epar-product-information_pl.pdf)
 
-português (PT) (8.87 MB - PDF)
+português (PT) (3.3 MB - PDF)
 
 **First published:**
 
@@ -643,11 +641,11 @@ português (PT) (8.87 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/pt/documents/product-information/hulio-epar-product-information_pt.pdf)
 
-română (RO) (9.38 MB - PDF)
+română (RO) (3.85 MB - PDF)
 
 **First published:**
 
@@ -655,11 +653,11 @@ română (RO) (9.38 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/ro/documents/product-information/hulio-epar-product-information_ro.pdf)
 
-slovenčina (SK) (11.15 MB - PDF)
+slovenčina (SK) (3.66 MB - PDF)
 
 **First published:**
 
@@ -667,11 +665,11 @@ slovenčina (SK) (11.15 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/sk/documents/product-information/hulio-epar-product-information_sk.pdf)
 
-slovenščina (SL) (10.04 MB - PDF)
+slovenščina (SL) (3.61 MB - PDF)
 
 **First published:**
 
@@ -679,11 +677,11 @@ slovenščina (SL) (10.04 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/sl/documents/product-information/hulio-epar-product-information_sl.pdf)
 
-Suomi (FI) (9.8 MB - PDF)
+Suomi (FI) (3.38 MB - PDF)
 
 **First published:**
 
@@ -691,11 +689,11 @@ Suomi (FI) (9.8 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/fi/documents/product-information/hulio-epar-product-information_fi.pdf)
 
-svenska (SV) (8.89 MB - PDF)
+svenska (SV) (3.25 MB - PDF)
 
 **First published:**
 
@@ -703,11 +701,11 @@ svenska (SV) (8.89 MB - PDF)
 
 **Last updated:**
 
-09/04/2025
+19/02/2026
 
 [View](/sv/documents/product-information/hulio-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000264803 08/04/2025
+**Latest procedure affecting product information:** N/0000326205 17/02/2026
 
 icon globe
 
@@ -733,7 +731,7 @@ English (EN) (17.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-576)
+[Other languages (24)](#file-language-dropdown-813)
 
 български (BG) (49.6 KB - PDF)
 
@@ -1043,6 +1041,30 @@ Anatomical therapeutic chemical (ATC) code L04AB04
 - Immunosuppressants
 - Tumor necrosis factor alpha (TNF-α) inhibitors
 
+### Therapeutic indication
+
+**Juvenile idiopathic arthritis**
+
+*Polyarticular juvenile idiopathic arthritis*
+
+Hulio in combination with methotrexate is indicated for the treatment of active polyarticular juvenile idiopathic arthritis, in patients from the age of 2 years who have had an inadequate response to one or more disease-modifying anti-rheumatic drugs (DMARDs). Hulio can be given as monotherapy in case of intolerance to methotrexate or when continued treatment with methotrexate is inappropriate (for the efficacy in monotherapy see section 5.1). Adalimumab has not been studied in patients aged less than 2 years.
+
+*Enthesitis-related arthritis*
+
+Hulio is indicated for the treatment of active enthesitis-related arthritis in patients, 6 years of age and older, who have had an inadequate response to, or who are intolerant of, conventional therapy (see section 5.1).
+
+**Paediatric plaque psoriasis**
+
+Hulio is indicated for the treatment of severe chronic plaque psoriasis in children and adolescents from 4 years of age who have had an inadequate response to or are inappropriate candidates for topical therapy and phototherapies.
+
+**Paediatric Crohn's disease**
+
+Hulio is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients (from 6 years of age) who have had an inadequate response to conventional therapy including primary nutrition therapy and a corticosteroid and/or an immunomodulator, or who are intolerant to or have contraindications for such therapies.
+
+**Paediatric Uveitis**
+
+Hulio is indicated for the treatment of paediatric chronic non-infectious anterior uveitis in patients from 2 years of age who have had an inadequate response to or are intolerant to conventional therapy, or in whom conventional therapy is inappropriate.
+
 ## Authorisation details
 
 EMA product number EMEA/H/C/004429
@@ -1055,9 +1077,9 @@ Marketing authorisation holder
 
 Biosimilar Collaborations Ireland Limited
 
-Unit 35/36
+Unit 35/36 Grange Parade Baldoyle Industrial Estate Dublin 13, D13 R20R Ireland
 
-Marketing authorisation issued 17/09/2018 Revision 18
+Marketing authorisation issued 17/09/2018 Revision 19
 
 ## Assessment history
 
@@ -1069,9 +1091,11 @@ Collapse section
 
 Hulio : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (141.26 KB - PDF)
+English (EN) (147.67 KB - PDF)
 
 **First published:** 09/04/2025
+
+**Last updated:** 19/02/2026
 
 [View](/en/documents/procedural-steps-after/hulio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1128,7 +1152,7 @@ English (EN) (97.6 KB - PDF)
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 09/04/2025
+**This page was last updated on** 19/02/2026
 
 ## Share this page
 

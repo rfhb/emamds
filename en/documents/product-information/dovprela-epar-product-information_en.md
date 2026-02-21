@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-09-04 12:32:57
-document_pages: 37
+document_datetime: 2026-02-19 16:47:49
+document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/dovprela-epar-product-information_en.pdf
 document_name: dovprela-epar-product-information_en.pdf
 version: success
-processing_time: 7.6272236
-conversion_datetime: 2025-12-20 11:47:27.655356
+processing_time: 36.17635
+conversion_datetime: 2026-02-21 13:20:31.72526
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -34,7 +34,7 @@ Dovprela 200 mg tablet
 
 Each tablet contains 200 mg pretomanid.
 
-Excipient with known effect
+## Excipients with known effect
 
 Each tablet contains 294 mg lactose (as monohydrate) and 5 mg sodium.
 
@@ -50,10 +50,13 @@ White to off-white oval tablet debossed with M on one side and P200 on the other
 
 ## 4.1 Therapeutic indications
 
+Dovprela is indicated in combination with bedaquiline, linezolid and moxifloxacin for the treatment of
+
+- -adults with pulmonary tuberculosis (TB) due to Mycobacterium tuberculosis resistant to rifampicin, with or without resistance to isoniazid.
+
 Dovprela is indicated in combination with bedaquiline and linezolid for the treatment of
 
-- -adults with pulmonary tuberculosis (TB) due to Mycobacterium tuberculosis resistant to all of isoniazid, rifampicin, a fluoroquinolone and a second line injectable antibacterial drug and
-- -adults with pulmonary TB due to M. tuberculosis resistant to both isoniazid and rifampicin, who are treatment-intolerant or nonresponsive to standard therapy, (see sections 4.2, 4.4 and 5.1).
+- -adults with pulmonary TB due to M. tuberculosis resistant to rifampicin and a fluoroquinolone,  with or without resistance to isoniazid (see sections 4.2, 4.4 and 5.1).
 
 Consideration should be given to official guidance on the appropriate use of antibacterial agents.
 
@@ -69,29 +72,29 @@ The recommended dosage is 200 mg (one tablet) pretomanid once daily, for 26 week
 
 <div style=\"page-break-after: always\"></div>
 
-A longer duration of therapy may be considered in patients who have not responded adequately to treatment at 26 weeks on a case by case basis (see section 5.1).
+Pretomanid should be administered only in combination with bedaquiline (400 mg once daily for 2 weeks followed by 200 mg 3 times per week [with at least 48 hours between doses] orally for a total of 26 weeks) and linezolid (600 mg daily orally for up to 26 weeks), with or without moxifloxacin (400 mg once daily for 26 weeks). See also below, on treatment duration.
 
-Pretomanid should be administered only in combination with bedaquiline (400 mg once daily for 2 weeks followed by 200 mg 3 times per week [with at least 48 hours between doses] orally for a total of 26 weeks) and linezolid (600 mg daily orally for up to 26 weeks).
+In case of confirmed pulmonary TB resistant to rifampicin and a fluoroquinolone, with or without resistance to isoniazid, pretomanid should be combined with bedaquiline and linezolid, and moxifloxacin should be omitted.
 
-The product information for bedaquiline and linezolid should be consulted for additional information on the use of these medicinal products.
+The product information for bedaquiline, linezolid and moxifloxacin should be consulted for additional information on the use of these medicinal products.
 
 In addition, see section 4.4 for information on the dose modification of linezolid that was applied during the ZeNix clinical study and see section 5.1 for details of the study.
 
-## Discontinuation of the pretomanid-bedaquiline-linezolid treatment regimen (see also sections 4.4, 4.8 and 5.1)
+Discontinuation of the pretomanid-bedaquiline-linezolid +/- moxifloxacin treatment regimen (see also sections 4.4, 4.8 and 5.1)
 
 - If either bedaquiline or pretomanid is discontinued for any reason, the entire combination regimen should be discontinued.
 - If linezolid is permanently discontinued during the initial four consecutive weeks of treatment, the entire combination regimen should be discontinued.
-- If linezolid is discontinued after the initial four weeks of consecutive treatment, the regimen may be continued with only bedaquiline and pretomanid.
+- If linezolid is discontinued after the initial four weeks of consecutive treatment, the regimen may be continued with only bedaquiline, pretomanid and with or without moxifloxacin.
 
 ## Missed doses
 
-Any missed doses of pretomanid and bedaquiline should be made up at the end of treatment. Doses of linezolid that are missed due to linezolid adverse reactions should not be made up at the end of treatment.
+Any missed doses of pretomanid, bedaquiline and moxifloxacin should be made up at the end of treatment. Doses of linezolid that are missed due to linezolid adverse reactions should not be made up at the end of treatment.
 
-Refer to the product information of bedaquiline and linezolid for additional information on these medicinal products.
+Refer to the product information of bedaquiline, linezolid and moxifloxacin for additional information on these medicinal products.
 
 ## Treatment duration
 
-The total duration of treatment with pretomanid in combination with bedaquiline and linezolid is 26 weeks. Data on longer treatment duration is limited. A longer duration of therapy may be considered in patients who have not responded adequately to treatment at 26 weeks on a case by case basis (see section 5.1).
+The total duration of treatment with pretomanid in combination with bedaquiline, linezolid and with or without moxifloxacin is 26 weeks. Pretomanid in combination with bedaquiline and linezolid can be extended to a total of 39 weeks. This extension is justified in cases of failure to convert culture between months 4 and 6 while on treatment and it can be based on the clinical judgement of the treating physician.  (see section 5.1).
 
 ## Elderly population (≥ 65 years of age)
 
@@ -111,9 +114,13 @@ The safety and efficacy of pretomanid in children and adolescents have not yet b
 
 ## Method of administration
 
-For oral use. Pretomanid should be taken with food (see section 5.2). Tablets should be swallowed with water.
-
 <div style=\"page-break-after: always\"></div>
+
+## For oral use.
+
+Pretomanid should be taken with food (see section 5.2).
+
+Tablets should be swallowed with water. If the patient has trouble swallowing a whole tablet, crushing the tablets and mixing with water for administration may be an acceptable alternative. Intake should occur immediately after crushing and mixing with water.
 
 ## 4.3 Contraindications
 
@@ -121,11 +128,13 @@ Hypersensitivity to the active substance, other nitroimidazoles, or to any of th
 
 ## 4.4 Special warnings and precautions for use
 
-Safety and effectiveness of pretomanid have not been established for its use in combination with medicinal products other than bedaquiline and linezolid as part of the recommended dosing regimen, and thus pretomanid should not be used as part of any other regimen.
+Safety and effectiveness of pretomanid have not been established for its use in combination with medicinal products other than bedaquiline, linezolid and with or without moxifloxacin as part of the recommended dosing regimen, and thus pretomanid should not be used as part of any other regimen.
 
 ## Hepatotoxicity
 
-Hepatotoxicity may occur with use of the regimen consisting of pretomanid, bedaquiline and linezolid. Liver-related laboratory tests should be monitored. Alcohol and hepatotoxic medicinal products (including herbal supplements), other than those specified in the indication statement (see section 4.1), should be avoided while on the regimen, especially in patients with impaired hepatic function. Symptoms and signs (such as fatigue, anorexia, nausea, jaundice, dark urine, liver tenderness and hepatomegaly) should be addressed throughout treatment. Laboratory tests (alanine aminotransferase [ALT], aspartate aminotransferase [AST], alkaline phosphatase, and bilirubin) should be monitored at initiation of treatment, and at a minimum once every week during the first month of treatment, every other week during month 2, and monthly thereafter while on treatment, and as needed. If evidence of new or worsening liver dysfunction occurs, a test for viral hepatitis should be performed and other hepatotoxic medicinal products should be discontinued. Treatment with the entire regimen should be interrupted if:
+Hepatotoxicity may occur with use of the regimen consisting of pretomanid, bedaquiline, linezolid and with or without moxifloxacin. Liver-related laboratory tests should be monitored. Alcohol and hepatotoxic medicinal products (including herbal supplements), other than those specified in the indication statement (see section 4.1), should be avoided while on the regimen, especially in patients with impaired hepatic function.
+
+Symptoms and signs (such as fatigue, anorexia, nausea, jaundice, dark urine, liver tenderness and hepatomegaly) should be addressed throughout treatment. Laboratory tests (alanine aminotransferase [ALT], aspartate aminotransferase [AST], alkaline phosphatase, and bilirubin) should be monitored at initiation of treatment, and at a minimum once every week during the first month of treatment, every other week during month 2, and monthly thereafter while on treatment, and as needed. If evidence of new or worsening liver dysfunction occurs, a test for viral hepatitis should be performed and other hepatotoxic medicinal products should be discontinued. Treatment with the entire regimen should be interrupted if:
 
 - Aminotransferase elevations are accompanied by total bilirubin elevation greater than 2 times the upper limit of normal.
 - Aminotransferase elevations are greater than 8 times the upper limit of normal.
@@ -142,16 +151,17 @@ Modification or interruption of linezolid dosing may be needed during the course
 Complete blood counts should be monitored at a minimum at start of treatment, at two weeks, and then monthly in patients receiving linezolid as part of the combination regimen. Haematologic parameters are variable from measurement to measurement, and decreases should be evaluated in the context of the patient's overall medical condition. Guidelines below may be considered when it is likely that linezolid has caused the decrease in blood count. Consider pausing or reducing the dose of linezolid to 300 mg in the following situations.
 
 - Anaemia - if haemoglobin falls below 80 g/l or more than 25% below the start of treatment.
+
+<div style=\"page-break-after: always\"></div>
+
 - Leukopenia - if the Absolute Neutrophil Count (ANC) falls below 0.75 × 10 9 /l or significantly below baseline. Confirm with a repeat test before making further decisions as ANCs can have diurnal and other variability.
 - Thrombocytopenia - if platelets fall below 50 × 10 9 /l or significantly below baseline. Ideally confirm with a repeat test before making further decisions.
 
 When improvement in the myelosuppression is observed, consider resuming linezolid at the initial dose or at half the initial dose.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Peripheral neuropathy and optic neuropathy
 
-Peripheral neuropathy associated with linezolid is generally reversible or improved with interruption, dose reduction, or discontinuation of linezolid dosing. When improvement in the peripheral neuropathy is observed, consider resuming linezolid at 300 mg (half the initial dose). In the clinical studies (section 5.1), the incidence of interruption/reduction/discontinuation of linezolid due to peripheral neuropathy increased steadily from around 2 months of therapy throughout the completion of therapy. Monitor visual symptoms in all patients receiving the combination regimen of pretomanid, bedaquiline, and linezolid. If a patient experiences symptoms of visual impairment, interrupt linezolid dosing and obtain prompt ophthalmologic examination to evaluate for signs of optic neuropathy.
+Peripheral neuropathy associated with linezolid is generally reversible or improved with interruption, dose reduction, or discontinuation of linezolid dosing. When improvement in the peripheral neuropathy is observed, consider resuming linezolid at 300 mg (half the initial dose). In the clinical studies (section 5.1), the incidence of interruption/reduction/discontinuation of linezolid due to peripheral neuropathy increased steadily from around 2 months of therapy throughout the completion of therapy. Monitor visual symptoms in all patients receiving the combination regimen of pretomanid, bedaquiline, linezolid and with or without moxifloxacin. If a patient experiences symptoms of visual impairment, interrupt linezolid dosing and obtain prompt ophthalmologic examination to evaluate for signs of optic neuropathy.
 
 ## Lactic acidosis
 
@@ -159,9 +169,9 @@ Lactic acidosis is a known adverse reaction of linezolid. Patients who develop r
 
 ## QT prolongation
 
-QT prolongation was reported with the combination regimen of pretomanid, bedaquiline, and linezolid. QT prolongation is a known adverse reaction of bedaquiline. Bedaquiline in combination with pretomanid appears to result in a higher QT prolongation than expected with bedaquiline alone. However, the impact of pretomanid has not been fully characterized.
+QT prolongation was reported with the combination regimen of pretomanid, bedaquiline, linezolid and with or without moxifloxacin. QT prolongation is a known adverse reaction of bedaquiline and moxifloxacin. Bedaquiline in combination with pretomanid appears to result in a higher QT prolongation than expected with bedaquiline alone. However, the impact of pretomanid has not been fully characterized.
 
-An ECG should be obtained before initiation of treatment, and at least monthly during treatment with the combination regimen of pretomanid, bedaquiline, and linezolid. Serum potassium, calcium, and magnesium should be obtained at baseline and corrected if abnormal. Follow-up monitoring of electrolytes should be performed if QT prolongation is detected.
+An ECG should be obtained before initiation of treatment, and at least monthly during treatment with the combination regimen of pretomanid, bedaquiline, linezolid and with or without moxifloxacin. Serum potassium, calcium, and magnesium should be obtained at baseline and corrected if abnormal. Follow-up monitoring of electrolytes should be performed if QT prolongation is detected.
 
 The following may increase the risk for QT prolongation:
 
@@ -173,21 +183,19 @@ The following may increase the risk for QT prolongation:
 - QT-interval as corrected by the Fridericia method (QTcF) &gt; 450 ms (confirmed by repeat electrocardiogram) or
 - serum calcium, magnesium, or potassium levels below the lower limits of normal.
 
-The entire regimen of pretomanid, bedaquiline, and linezolid must be discontinued if the patient develops clinically significant ventricular arrhythmia or a QTcF interval of greater than 500 ms (confirmed by repeat ECG). If syncope occurs, an ECG should be obtained to detect QT prolongation.
+The entire regimen of pretomanid, bedaquiline, linezolid and with or without moxifloxacin must be discontinued if the patient develops clinically significant ventricular arrhythmia or a QTcF interval of greater than 500 ms (confirmed by repeat ECG). If syncope occurs, an ECG should be obtained to detect QT prolongation.
+
+<div style=\"page-break-after: always\"></div>
 
 The QT prolongation risk for the combination regimen has not been established at exposures higher than therapeutic levels. The risk may be increased if the systemic exposure of pretomanid is elevated (see sections 4.5 and 5.2).
 
 ## Excipients
 
-Dovprela contains lactose. Patients with rare hereditary problems such as galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
-
-Dovprela contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+Dovprela contains lactose. Patients with rare hereditary problems such as galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine. Dovprela contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-Effects of other medicinal products on pretomanid
-
-<div style=\"page-break-after: always\"></div>
+## Effects of other medicinal products on pretomanid
 
 ## CYP3A4 inducers
 
@@ -213,6 +221,8 @@ In vitro studies indicate that pretomanid is an inhibitor of BCRP, OATP1B3 and P
 
 ## Pregnancy
 
+<div style=\"page-break-after: always\"></div>
+
 There are very limited amount of data from the use of pretomanid in pregnant women. Animal studies do not indicate direct or indirect harmful effects with respect to embryo-foetal development (see section 5.3).
 
 Pretomanid should be used during pregnancy only if the benefit to the patient is considered to outweigh the potential risk to the foetus.
@@ -220,8 +230,6 @@ Pretomanid should be used during pregnancy only if the benefit to the patient is
 ## Breast-feeding
 
 It is unknown whether pretomanid/metabolites are excreted in human milk. Available pharmacodynamic/toxicological data in animals have shown excretion of pretomanid in milk (see section 5.3). A risk to the suckling child cannot be excluded. A decision must be made whether to discontinue breastfeeding or to discontinue pretomanid therapy, taking into account the benefit of breastfeeding for the child and the benefit of therapy for the woman.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Fertility
 
@@ -233,46 +241,59 @@ Pretomanid may have a minor influence on the ability to drive and use machines. 
 
 ## 4.8 Undesirable effects
 
-The most frequent adverse drug reactions during treatment with pretomanid in combination with bedaquiline and linezolid were nausea, vomiting and transaminases increased. Patients experienced peripheral neuropathy and anaemia, which are known adverse reactions to linezolid, respectively. Nausea, vomiting and transaminases increased are possible adverse reactions to all three medicinal products in the regimen. Refer to the Summary of Product Characteristics of bedaquiline and linezolid for more information on adverse reactions caused by these two medicinal products.
+The most frequent adverse drug reactions (ADRs) during treatment with pretomanid in combination with bedaquiline and linezolid were nausea, vomiting and transaminases increased. Patients experienced peripheral neuropathy and anaemia, which are known adverse reactions to linezolid, respectively. Nausea, vomiting and transaminases increased are possible adverse reactions to all three medicinal products in the regimen. The most frequent ADRs during treatment with pretomanid in combination with bedaquiline, linezolid and moxifloxacin were transaminases increased and QTc prolongation.
+
+Refer to the Summary of Product Characteristics of bedaquiline, linezolid and moxifloxacin for more information on adverse reactions caused by these medicinal products.
 
 ## Tabulated list of pretomanid adverse reactions
 
-Adverse drug reactions (ADRs) reported in 109 patients treated with pretomanid in combination with bedaquiline and linezolid (1 200 mg daily) for 26 weeks from the uncontrolled phase 3 trial Nix-TB, together with ADRs reported in 45 patients treated with pretomanid in combination with bedaquiline and linezolid (1 200 mg daily) for 26 weeks and in 45 patients treated with pretomanid in combination with bedaquiline and linezolid (600 mg daily) for 26 weeks in the phase 3 trial ZeNix, are summarized in the table below by system organ class and frequency. The adverse drug reactions list below reflects in part the safety profile of the BPaL study regimen as it is hard to separate causality of one drug from another. ADRs considered attributed to linezolid are marked with Δ.
+The table below displays ADRs, by system organ class and frequency, which are considered at least possibly related to the treatment regimens BPaL and BPaLM (Bedaquiline, Pretomanid, Linezolid and Moxifloxacin) and have been observed during the following clinical trials:
 
-Table 1: Pretomanid Adverse Drug Reactions from Clinical Studies
+- Nix-TB: 109 patients treated with pretomanid in combination with bedaquiline and linezolid (1 200 mg daily) for 26 weeks
+- ZeNix: 45 patients treated with pretomanid in combination with bedaquiline and linezolid (1 200 mg daily) for 26 weeks and 45 patients treated with pretomanid in combination with bedaquiline and linezolid (600 mg daily)
+- TB-PRACTECAL: 273 patients treated with pretomanid in combination with bedaquiline, linezolid (600 mg) with or without moxifloxacin (400 mg) for 24 weeks (N=151 patients in BPaLM arm + N=122 patients in BPaL arm)
 
-| System Organ Class                  | Very Common ≥1/10         | Common ≥1/100 to <1/10                                                    | Uncommon ≥1/1,000 to <1/100                                         |
-|-------------------------------------|---------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------|
-| Infections and infestations         |                           | Oral candidiasis*                                                         |                                                                     |
-| Blood and lymphatic system disorder | Anaemia* ∆                | Leukopenia ∆, neutropenia* ∆, thrombocytopenia* ∆                         | Lymphopenia ∆ pancytopenia ∆                                        |
-| Metabolic and nutrition disorders   | Decreased appetite        | Hypoglycaemia, lactic acidosis* ∆, hypomagnesaemia                        | Dehydration, hypocalcaemia, hypovolaemia,                           |
-| Psychiatric disorders               |                           | Insomnia                                                                  | Anxiety, depression                                                 |
-| Nervous system disorders            | Peripheral neuropathy* ∆, | Dysgeusia, dizziness, headache                                            |                                                                     |
-| Eye disorders                       |                           | Visual impairment*, eye irritation, eye pain, optic neuropathy*∆, dry eye | Lens disorder, eye pruritis, eye swelling, papilloedema, presbyopia |
+The ADR list below reflects in part the safety profile of the study regimens as it is hard to separate causality of one drug from another. An overall population of 472 patients receiving BPaL regimen with or without moxifloxacin has been included.
+
+ADRs considered attributed to linezolid are marked with Δ.
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                                   | Very Common ≥1/10            | Common ≥1/100 to <1/10                                                                                                                                                                                                                      | Uncommon ≥1/1,000 to <1/100                                                                                                      |
-|------------------------------------------------------|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| Ear and labyrinth disorder                           |                              |                                                                                                                                                                                                                                             | Deafness                                                                                                                         |
-| Cardiac disorder                                     |                              |                                                                                                                                                                                                                                             | Palpitations, sinus tachycardia                                                                                                  |
-| Vascular disorders                                   |                              |                                                                                                                                                                                                                                             | Hypotension                                                                                                                      |
-| Respiratory, thoracic and mediastinal disorders      |                              |                                                                                                                                                                                                                                             | Cough, epistaxis                                                                                                                 |
-| Gastrointestinal disorders                           | Nausea, vomiting, dyspepsia, | Gastritis*, diarrhoea, constipation, gastrooesophageal reflux disease, pancreatitis*, abdominal pain*                                                                                                                                       | Abdominal distension, glossodynia, haematemesis                                                                                  |
-| Hepatobiliary disorders                              | Transaminase increased*      | Hyperbilirubinaemia*                                                                                                                                                                                                                        | Hepatomegaly, jaundice                                                                                                           |
-| Skin and subcutaneous tissue disorder                | Acne*                        | Dry skin, alopecia, pruritus*, rash*                                                                                                                                                                                                        | Dermatitis allergic, skin hyperpigmentation                                                                                      |
-| Musculoskeletal and connective tissue disorders      |                              | Musculoskeletal pain*, muscle spasms*                                                                                                                                                                                                       |                                                                                                                                  |
-| Reproductive system and breast disorder              |                              |                                                                                                                                                                                                                                             | Erectile dysfunction, metrorrhagia                                                                                               |
-| General disorders and administration site conditions |                              | Fatigue*                                                                                                                                                                                                                                    | Malaise                                                                                                                          |
-| Investigations                                       |                              | Gamma- glutamyltransferase increased, Electrocardiogram QT prolonged, blood alkaline phosphatase increased, blood creatine phosphokinase increased, blood urea increased, lipase increased*, amylase increased*, blood creatinine increased | Albumin urine present, blood creatine phosphokinaseMB increased, blood uric acid increased, creatinine renal clearance decreased |
+ADRs attributed to moxifloxacin are marked with §.
 
-*Selected terms are collapsed as follows: peripheral neuropathy (burning sensation, hypoesthesia, hyporeflexia, neuropathy peripheral, paraesthesia, peripheral motor neuropathy, peripheral sensorimotor neuropathy, peripheral sensory neuropathy, polyneuropathy); gastritis (gastritis, chronic gastritis); acne (acne, dermatitis acneiform); musculoskeletal pain (arthralgia, back pain,
+Table 1: Adverse Drug Reactions from Clinical Studies
+
+| System Organ Class                              | Very Common ≥1/10                        | Common ≥1/100 to <1/10                                                                                                                                                                              | Uncommon ≥1/1,000 to <1/100                                                                                                  |
+|-------------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                     |                                          | Vulvovaginal candidiasis§, oral candidiasis*                                                                                                                                                        |                                                                                                                              |
+| Blood and lymphatic system disorders            | Leukopenia* ∆, anaemia* ∆, lymphopenia ∆ | Neutropenia* ∆, eosinophilia, thrombocytopenia* ∆                                                                                                                                                   | Pancytopenia ∆                                                                                                               |
+| Metabolism and nutrition disorders              |                                          | Hyponatraemia Δ, hypernatraemia Δ, hypocalcaemia, hypoalbuminaemia Δ, hyperkalaemia § Δ, hypokalaemia Δ, decreased appetite, hyperglycaemia § Δ, hypoglycaemia, lactic acidosis* ∆, hypomagnesaemia | Dehydration, hypovolaemia,                                                                                                   |
+| Psychiatric disorders                           |                                          | Depression, insomnia                                                                                                                                                                                | Anxiety                                                                                                                      |
+| Nervous system disorders                        | Headache, peripheral neuropathy* ∆,      | Dysgeusia, dizziness, tremor §                                                                                                                                                                      |                                                                                                                              |
+| Eye disorders                                   |                                          | Visual impairment*                                                                                                                                                                                  | Lens disorder, eye pruritis, eye swelling, papilloedema, presbyopia, eye irritation, eye pain*, optic neuropathy*∆, cataract |
+| Ear and labyrinth disorders                     |                                          | Deafness*                                                                                                                                                                                           |                                                                                                                              |
+| Cardiac disorders                               |                                          | Palpitations                                                                                                                                                                                        | Sinus bradycardia, sinus tachycardia                                                                                         |
+| Vascular disorders                              |                                          | Hypertension*                                                                                                                                                                                       | Hypotension                                                                                                                  |
+| Respiratory, thoracic and mediastinal disorders |                                          | Haemoptysis, epistaxis                                                                                                                                                                              | Cough*                                                                                                                       |
+| Gastrointestinal disorders                      | Nausea, vomiting,                        | Gastritis*, diarrhoea, constipation, pancreatitis, abdominal pain*, dyspepsia                                                                                                                       | Gastrooesophageal reflux disease, abdominal distension, glossodynia, haematemesis, eructation                                |
 
 <div style=\"page-break-after: always\"></div>
 
-costochondritis, myalgia, pain in extremity, musculoskeletal pain); transaminases increased (alanine aminotransferase (ALT) increased, aspartate aminotransferase (AST) increased, drug-induced liver injury, hepatic enzyme increased, hepatic function abnormal, liver function test increased, transaminases increased); rash (rash, rash erythematous, rash maculo-papular, rash papular, rash vesicular, nodular rash); pruritus (pruritus, pruritus generalized, rash pruritic); abdominal pain (abdominal pain, abdominal pain lower, abdominal pain upper, abdominal tenderness); visual impairment (vision blurred, visual acuity reduced, visual impairment); amylase increased (amylase increased, hyperamylasaemia); lipase increased (hyperlipasaemia, lipase increased); optic neuropathy (optic neuropathy, optic neuritis); pancreatitis (pancreatitis, haemorrhagic pancreatitis); anaemia (anaemia, haemoglobin decrease); thrombocytopenia (thrombocytopenia, platelet count decreased); neutropenia (neutropenia, neutrophil count decreased); hyperbilirubinemia (hyperbilirubinemia, blood bilirubin increased); lactic acidosis (lactic acidosis, acidosis); muscle spasms (muscle spasms, musculoskeletal stiffness); fatigue (fatigue, asthenia); oral candidiasis (oral candidiasis, oral fungal infection, angular cheilitis).
+| System Organ Class                                   | Very Common ≥1/10              | Common ≥1/100 to <1/10                                                                                                                                                                                          | Uncommon ≥1/1,000 to <1/100                                                                                                          |
+|------------------------------------------------------|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Hepatobiliary disorders                              | Transaminase increased*        | Hyperbilirubinaemia                                                                                                                                                                                             | Hepatomegaly, jaundice                                                                                                               |
+| Immune system disorders                              |                                |                                                                                                                                                                                                                 | Hypersensitivity                                                                                                                     |
+| Skin and subcutaneous tissue disorders               | Rash*                          | Acne*, dry skin, , pruritus*, urticaria                                                                                                                                                                         | Alopecia, dermatitis allergic, erythema, skin hyperpigmentation, angioedema                                                          |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal pain*          | Muscle spasms*                                                                                                                                                                                                  | Polyarthritis*                                                                                                                       |
+| General disorders and administration site conditions |                                | Chest pain*, fatigue*                                                                                                                                                                                           |                                                                                                                                      |
+| Investigations                                       | Electrocardiogram QT prolonged | Gamma- glutamyltransferase increased, , blood alkaline phosphatase increased, blood urea increased, lipase increased*, amylase increased*, blood creatinine increased § Δ, creatinine renal clearance decreased | Blood creatine phosphokinase increased, albumin urine present, blood creatine phosphokinase MB increased, blood uric acid increased, |
 
-## ∆: ADRs that are attributed to linezolid
+*Selected terms are collapsed as follows: leukopenia ( leukopenia, white blood cell count decreased ); lymphopenia ( lymphopenia, lymphocyte count decreased ); peripheral neuropathy (burning sensation, hypoesthesia, hyporeflexia, neuropathy peripheral, paraesthesia, peripheral motor neuropathy, peripheral sensory neuropathy, polyneuropathy); gastritis (gastritis, chronic gastritis); acne (acne, dermatitis acneiform); musculoskeletal pain (arthralgia, back pain, costochondritis, myalgia, pain in extremity, musculoskeletal pain, muscle strain); transaminases increased (alanine aminotransferase (ALT) increased, aspartate aminotransferase (AST) increased, drug-induced liver injury, hepatic enzyme increased, hepatic function abnormal, liver function test increased, transaminases increased); rash (rash, rash erythematous, rash maculo-papular, rash papular, rash vesicular, rash pustular, nodular rash); pruritus (pruritus, pruritus generalized, rash pruritic); abdominal pain (abdominal pain, abdominal pain lower, abdominal pain upper, abdominal discomfort); visual impairment (vision blurred, visual acuity reduced, visual impairment); amylase increased (amylase increased, hyperamylasaemia); lipase increased (hyperlipasaemia, lipase increased); optic neuropathy (optic neuropathy, optic neuritis); pancreatitis (pancreatitis, haemorrhagic pancreatitis); anaemia (anaemia, haemoglobin decreased); thrombocytopenia (thrombocytopenia, platelet count decreased); neutropenia (neutropenia, neutrophil count decreased); hyperbilirubinemia (hyperbilirubinemia, blood bilirubin increased); lactic acidosis (lactic acidosis, acidosis, blood lactic acid increased, blood lactate increased); muscle spasms (muscle spasms, musculoskeletal stiffness); fatigue (fatigue, asthenia, malaise); oral candidiasis (oral candidiasis, oral fungal infection, angular cheilitis); erythema (erythema, palmar erythema); polyarthritis (polyarthritis, arthropathy); chest pain (chest pain, angina pectoris); pancreatitis (pancreatitis, haemorrhagic pancreatitis); e ye pain (eye pain, periorbital pain); p eripheral swelling (oedema peripheral, peripheral swelling); deafness (deafness, deafness unilateral, conductive deafness); dry skin (dry skin, xerosis); dermatitis allergic (dermatitis allergic, dermatitis); hyperglycaemia (hyperglycaemia, blood glucose increased); cough (cough, productive cough); hypertension (hypertension, blood pressure increased).
+
+<div style=\"page-break-after: always\"></div>
+
+- Δ: ADRs that are attributed to linezolid.
+- §: ADRs that are attributed to Moxifloxacin
 
 ## Description of selected adverse reactions
 
@@ -280,9 +301,11 @@ costochondritis, myalgia, pain in extremity, musculoskeletal pain); transaminase
 
 In the Nix-TB trial in which 109 patients were treated with pretomanid in combination with bedaquiline and linezolid, combined with the ZeNix patients treated within the arms dosed for 26 weeks with linezolid, 19 % of patients experienced the ADR of increased transaminases (very common). Except for one patient who died due to pneumonia and sepsis, all patients who experienced increased transaminases were able to continue or resume therapy after interruption, and complete the full course of treatment.
 
+In the TB-PRACTECAL trial in which moxifloxacin was administered along with BPaL regimen, ADRs of increased transaminases were reported in 58 (38.4%) patients in BPaLM arm, where one patient could have reported more than one PT which were collapsed into category of Increased transaminases. The majority of the events were of grade 1 or grade 2 category, 6 patients had reported grade 3 severity, the outcome in 5 patients was resolved and in one patient outcome was not known.
+
 ## ECG QT interval prolongation
 
-QT prolongation is a known adverse reaction of bedaquiline. Bedaquiline in combination with pretomanid appears to result in a higher QT prolongation than expected with bedaquiline alone. However, the impact of pretomanid has not been fully characterised. In the Nix-TB trial, 6 patients (5.5%, common) experienced transient treatment-emergent adverse events (TEAEs) of electrocardiogram QT prolongation. In the entire Nix-TB trial, no patient was reported to have a treatment emergent QTcF exceeding 480 ms. One patient was reported to have a change from baseline of QTcF exceeding 60 ms. In the ZeNix trial, no electrocardiogram QT prolongation was observed in the patients from the 26- week treatment arm.
+QT prolongation is a known adverse reaction of bedaquiline. Bedaquiline in combination with pretomanid with or without moxifloxacin appears to result in a higher QT prolongation than expected with bedaquiline alone. However, the impact of pretomanid has not been fully characterised. In the Nix-TB trial, 6 patients (5.5%, common) experienced transient treatment-emergent adverse events (TEAEs) of electrocardiogram QT prolongation. In the entire Nix-TB trial, no patient was reported to have a treatment emergent QTcF exceeding 480 ms. One patient was reported to have a change from baseline of QTcF exceeding 60 ms. In the ZeNix trial, no electrocardiogram QT prolongation was observed in the patients from the 26- week treatment arm. In the TB-PRACTECAL trial, 46 (30.5%) patients reported QT prolongation related to study drugs, out of which only 1 patient reported grade 3 severity of QT prolongation, outcome was resolved.
 
 ## Myelosuppression
 
@@ -292,13 +315,17 @@ In the ZeNix trial, there was a greater incidence of events of myelosuppression,
 
 In the combined study data, 2 patients reported serious events of anaemia with linezolid 1200 mg, and none were reported in the 600 mg group.
 
-## Peripheral neuropathy
+In the TB-PRACTECAL trial, 52 patients reported ADRs of myelosuppression in the BPaLM arm, out of which 27 (18%) patients reported leukopenia, 26 (17.2%) patients reported neutropenia and 21 (14%) patients reported anaemia, one patient could have reported more than one PT. Grade 3 or more severity was observed in 6 patients and outcome was resolved in 4 patients in 2 patients the outcome was not known.
 
 <div style=\"page-break-after: always\"></div>
+
+## Peripheral neuropathy
 
 Peripheral neuropathy is a known ADR of linezolid. In the Nix-TB trial, 81% (very common) of patients experienced peripheral neuropathy. In the ZeNix trial, 17 (37.8%) % of patients reported a treatment emergent event of peripheral neuropathy in the 1200 mg 26-week treatment group; one of these events led to treatment discontinuation. In the 600 mg 26-week treatment group, a lower number of patients reported peripheral neuropathy, 11 (24.4%), and none required linezolid treatment interruption or treatment discontinuation.
 
 Most of these adverse reactions were grade 1 and occurred after 8 weeks.
+
+When pretomanid in BPaL regimen was administered along with moxifloxacin in the TBPRACTECAL trial in BPaLM arm, 13 (8.6%) patients reported PTs collapsed to peripheral neuropathy, most of the events were of grade 1 or grade 2 severity and all the events resolved.
 
 ## Optic neuropathy
 
@@ -326,11 +353,9 @@ The mechanism of action of pretomanid is thought to involve inhibition of the sy
 
 ## Resistance
 
-The activation of pretomanid, which takes place within the bacterial cell, is dependent on enzymes encoded by 5 genes: a co-factor F420-dependent nitroreductase named Ddn; a glucose-6-phosphate dehydrogenase named Fgd1; and the enzymes of the F420 biosynthetic pathway (FbiA, FbiB, and
-
 <div style=\"page-break-after: always\"></div>
 
-FbiC). Mutations in the 5 genes encoding these enzymes ( ddn , fgd1 , fbiA , fbiB , fbiC ) have been associated with high level pretomanid resistance in vitro .
+The activation of pretomanid, which takes place within the bacterial cell, is dependent on enzymes encoded by 5 genes: a co-factor F420-dependent nitroreductase named Ddn; a glucose-6-phosphate dehydrogenase named Fgd1; and the enzymes of the F420 biosynthetic pathway (FbiA, FbiB, and FbiC). Mutations in the 5 genes encoding these enzymes ( ddn , fgd1 , fbiA , fbiB , fbiC ) have been associated with high level pretomanid resistance in vitro .
 
 Not all isolates with increased minimum inhibitory concentrations (MICs) have mutations in these genes, suggesting the existence of at least one other mechanism of resistance.
 
@@ -342,7 +367,7 @@ MIC (minimum inhibitory concentration) interpretive criteria for susceptibility 
 
 ## Clinical efficacy and safety
 
-## Nix-TB trial:
+## Nix-TB trial
 
 Pretomanid was evaluated in a multicentre, open-label study conducted in patients with
 
@@ -357,19 +382,19 @@ The mean age of the patients was 35.6 years with 48% being female and 52% male. 
 
 Table 2: Primary Efficacy Analysis for Nix-TB
 
-|                  | Total    | XDR      | TI/NRMDR   |
-|------------------|----------|----------|------------|
-| N                | 109      | 71 (65%) | 38 (35%)   |
-| Unassessable     | 2        | 1        | 1          |
-| Total Assessable | 107      | 70       | 37         |
-| Favourable       | 98 (92%) | 63 (90%) | 35 (95%)   |
-| Unfavourable     | 9 (8%)   | 7 (10%)  | 2 (5%)     |
+<div style=\"page-break-after: always\"></div>
+
+|                  | Total    | XDR      | TI/NR MDR   |
+|------------------|----------|----------|-------------|
+| N                | 109      | 71 (65%) | 38 (35%)    |
+| Unassessable     | 2        | 1        | 1           |
+| Total Assessable | 107      | 70       | 37          |
+| Favourable       | 98 (92%) | 63 (90%) | 35 (95%)    |
+| Unfavourable     | 9 (8%)   | 7 (10%)  | 2 (5%)      |
 
 XDR (pre-2021 WHO definition): extensively drug resistant (resistance to isoniazid, rifampicin, a fluoroquinolone, and a second line injectable antibacterial drug)
 
 TI/NR MDR: treatment-intolerant or nonresponsive multidrug-resistant (resistance to both isoniazid and rifampicin and with treatment-intolerance or nonresponsive to standard therapy)
-
-<div style=\"page-break-after: always\"></div>
 
 The outcomes were similar in both HIV negative and HIV positive patients. Of the 9 unfavourable outcomes, 6 were deaths while receiving treatment. Two additional patients relapsed in follow-up after the End of Treatment; one of those patients later died.
 
@@ -381,7 +406,7 @@ Pretomanid was evaluated in a phase 3 partially blinded, randomized trial assess
 - -or pulmonary TB due to M. tuberculosis resistant to rifampicin and either a fluoroquinolone or a second line injectable antibacterial drug (pre-XDR-TB, pre-2021 WHO definition),
 - -or pulmonary TB due to M. tuberculosis resistant to both isoniazid and rifampicin who were treatment intolerant or non-responsive to standard therapy (TI/NR MDR-TB).
 
-A total of 181 patients were randomized to receive one of the 4 treatment arms, of which 45 each received 1 200 mg or 600 mg linezolid in the BPaL regimen for 26 weeks, and 46 and 45 patients received 1 200 mg or 600 mg linezolid in the BPaL regimen for 9 weeks, respectively. The mean age of the patients was 37.1 years with 67.4% being males. The majority of participants were white (63.5%), and the remaining participants were black (36.5%). Most participants had a current TB diagnosis (a stratification factor) of pulmonary TB due to M. tuberculosis resistant to rifampicin and either a fluoroquinolone or a second line injectable antibacterial drug (47.0%) or pulmonary TB due to M. tuberculosis resistant to isoniazid, rifampicin, a fluoroquinolone and a second line injectable antibacterial drug (41.4%), and the remainder of participants having  pulmonary TB due to M. tuberculosis resistant to isoniazid and rifampicin who were treatment intolerant or non-responsive to standard therapy(6.6% and 5.0%, respectively).
+A total of 181 patients were randomized to receive one of the 4 treatment arms, of which 45 each received 1 200 mg or 600 mg linezolid in the BPaL regimen for 26 weeks, and 46 and 45 patients received 1 200 mg or 600 mg linezolid in the BPaL regimen for 9 weeks, respectively. The mean age of the patients was 37.1 years with 67.4% being males. The majority of participants were white (63.5%), and the remaining participants were black (36.5%). Most participants had a current TB diagnosis (a stratification factor) of pulmonary TB due to M. tuberculosis resistant to rifampicin and either a fluoroquinolone or a second line injectable antibacterial drug (47.0%) or pulmonary TB due to M. tuberculosis resistant to isoniazid, rifampicin, a fluoroquinolone and a second line injectable antibacterial drug (41.4%), and the remainder of participants having  pulmonary TB due to M. tuberculosis resistant to isoniazid and rifampicin who were treatment intolerant or non-responsive to standard therapy(5.0% and 6.6%, respectively).
 
 The primary efficacy endpoint was the incidence of treatment failure (unfavourable outcome) defined as bacteriologic failure or relapse or clinical failure at 6 months (26 weeks) after the end of therapy. Participants were classified as having a favourable, unfavourable, or unassessable status at 6 months (26 weeks) after the end of treatment.
 
@@ -389,15 +414,52 @@ The outcome of primary efficacy analysis is presented in the table below.
 
 Table 3: Primary Efficacy Analysis for ZeNix
 
-|                               | Linezolid 1 200 mg 26 weeks (N = 45) n (%)   | Linezolid 1 200 mg 9 weeks (N = 46) n (%)   | Linezolid 600 mg 26 weeks (N = 45) n (%)   | Linezolid 600 mg 9 weeks (N = 45) n (%)   | Total (N = 181) n (%)   |
-|-------------------------------|----------------------------------------------|---------------------------------------------|--------------------------------------------|-------------------------------------------|-------------------------|
-| Unassessable Total assessable | 1 44                                         | 1 45                                        | 0 45                                       | 1 44                                      | 3 178                   |
-| Favourable Unfavourable       | 41 (93.2%) 3 (6.8%)                          | 40 (88.9%) 5 (11.1%)                        | 41 (91.1%) 4 (8.9%)                        | 37 (84.1%) 7 (15.9%)                      | 159 (89.3%) 19 (10.7%)  |
-| 95% CI for Favourable         | 81.3% to 98.6%                               | 75.9% to 96.3%                              | 78.8% to 97.5%                             | 69.9% to 93.4%                            | 83.8% to 93.4%          |
+| Linezolid 1 200 mg 26 weeks (N = 45) n (%)   | Linezolid 1 200 mg 9 weeks (N = 46) n (%)   | Linezolid 600 mg 26 weeks (N = 45) n (%)   | Linezolid 600 mg 9 weeks (N = 45) n (%)   | Total (N =181) n (%)   |
+|----------------------------------------------|---------------------------------------------|--------------------------------------------|-------------------------------------------|------------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+| Unassessable Total assessable   | 1 44                | 1 45                 | 0 45                | 1 44                 | 3 178                  | 3 178                  | 3 178                  | 3 178                  | 3 178                  | 3 178                  | 3 178                  | 3 178                  | 3 178                  | 3 178                  | 3 178                  | 3 178                  | 3 178                  |
+|---------------------------------|---------------------|----------------------|---------------------|----------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|
+| Favourable                      |                     |                      |                     |                      |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |
+|                                 | 41 (93.2%) 3 (6.8%) | 40 (88.9%) 5 (11.1%) | 41 (91.1%) 4 (8.9%) | 37 (84.1%) 7 (15.9%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) |
+| Unfavourable                    |                     |                      |                     |                      |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |
+| 95%CI forFavourable             | 81.3% to 98.6%      | 75.9% to             | 78.8% to            |                      | 69.9% to 93.4%         | 69.9% to 93.4%         | 69.9% to 93.4%         | 69.9% to 93.4%         | 69.9% to 93.4%         | 69.9% to 93.4%         | 69.9% to 93.4%         | 69.9% to 93.4%         | 69.9% to 93.4%         | 69.9% to 93.4%         | 69.9% to 93.4%         | 69.9% to 93.4%         | 69.9% to 93.4%         |
+|                                 |                     |                      |                     |                      | 93.4%                  |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |
+|                                 |                     |                      |                     | 97.5%                |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |
+|                                 |                     | 96.3%                |                     |                      |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |
 
 CI = confidence interval; N = total number of participants in the relevant analysis population; n = number of participants in each category.
 
 Favourable and unfavourable status as defined in the statistical analysis plan for the modified intent-to-treat population.
+
+## TB-PRACTECAL trial
+
+Pretomanid was evaluated in an open-label, phase 2-3, multicentre, randomized, controlled noninferiority trial for patients with rifampicin-resistant tuberculosis. Patients' age from the study was ranging from 15 to 72 years. 40.4% of total patients were female. 28% of total patients were diagnosed with HIV.
+
+A BPaLM treatment arm was compared to an arm with WHO standard care treatment. Participants in the standard care group received locally accepted treatments, updated as per WHO guidance. Initially, standard care regimens included both shorter, standardised (36 to 44-week) regimens as well as longer, individualised (72 to 80-week) regimens. From 2017 to 2019, these regimens generally included a second-line injectable agent and criteria for including bedaquiline were stringent. From 2019, participants received all-oral versions of these regimens, and most regimens included bedaquiline.
+
+The primary efficacy outcome was an unfavourable status (a composite of death, treatment failure, treatment discontinuation, loss to follow-up, or recurrence of tuberculosis) at 72 weeks after randomization. In the modified intention-to-treat-excludes-switches population, 56 of 137 patients in the standard-care group (40.9%) and 16 of 138 patients in the BPaLM group (11.7%) had an unfavourable status. The secondary efficacy outcomes, the risk of a composite unfavourable outcome event at 24 and 108 weeks was broadly consistent with that with the primary outcome.
+
+Limitations of the trial include the open-label design, the lack of follow up after treatment discontinuation, and the early stopping for efficacy after an unplanned interim analysis.
+
+Table 4 shows the primary outcome results in patients randomized to BPaLM or SoC during either the phase 2 part or the phase 3 part of the trial.
+
+Table 4: Primary Outcome Results in TB-PRACTECAL
+
+|                               | mITT-excludes-switches Population*   | mITT-excludes-switches Population*   |
+|-------------------------------|--------------------------------------|--------------------------------------|
+|                               | Standard care (n=137) n (%)          | BPaLM(n=138) n (%)                   |
+| No unfavourable outcome       | 81 (59.1%)                           | 121 (87.7%)                          |
+| Unfavourable outcome          | 56 (40.9%)                           | 16 (11.6%)                           |
+| Non-assessable                | 0(0%)                                | 1(0.7%)                              |
+| Reasonsforunfavourableoutcome |                                      |                                      |
+| Deaths                        | 5 (3.7%)                             | 0 (0%)                               |
+| Early discontinuations        | 50 (36.5%)                           | 11 (8.0%)                            |
+| Lost to follow-up at 72 weeks | 1 (0.7%)                             | 4 (2.9%)                             |
+| Recurrence                    | 0 (0%)                               | 1 (0.7%)                             |
+
+* mITT-exclude-switches Population :  modified intent-to-treat population excluding patients in the standard of care arm who were switched to Practecal arm-1 (BPaLM) after 18th March 2021, when enrolment to the study was stopped. It was used as the primary population when reporting mITT outcomes.
 
 ## Paediatric population
 
@@ -609,15 +671,15 @@ An updated RMP should be submitted:
 
 ## A. LABELLING
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 CARTON (BLISTER)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Dovprela 200 mg tablets pretomanid
+Dovprela 200 mg tablets
+
+pretomanid
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -659,13 +721,17 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
+<div style=\"page-break-after: always\"></div>
+
 EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -687,8 +753,10 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+## 15. INSTRUCTIONS ON USE
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Dovprela 200 mg tablets
 
@@ -696,7 +764,8 @@ Dovprela 200 mg tablets
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC:
 
@@ -706,17 +775,17 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS   |
-|--------------------------------------------|
-| BLISTER                                    |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS   |
+|---------------------------------------------|
+| BLISTER                                     |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Dovprela 200 mg tablets pretomanid
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Mylan IRE Healthcare Limited
 
@@ -733,128 +802,153 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
+25
+
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+| PARTICULARS TO APPEAR ON THE OUTER PACKAGING   |
+|------------------------------------------------|
+| OUTER CARTON (BOTTLE)                          |
 
-OUTER CARTON (BOTTLE)
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Dovprela 200 mg tablets pretomanid
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|------|------------------------------------|
 
 Each tablet contains 200 mg pretomanid
 
-## 3. LIST OF EXCIPIENTS
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
 
 Contains lactose.
 
 See leaflet for further information.
 
-## 4. PHARMACEUTICAL FORM AND CONTENTS
+| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
+|------|------------------------------------|
 
 26 tablets
 
-| 5.   | METHODANDROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------|
+| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
+|------|-----------------------------------------|
 
-Read the package leaflet before use. Oral use
+Read the package leaflet before use.
+
+Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+<div style=\"page-break-after: always\"></div>
+
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Mylan IRE Healthcare Limited Unit 35/36 Grange Parade Baldoyle Industrial Estate Dublin 13 Ireland
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/20/1437/003
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Dovprela 200 mg tablets
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC: SN:
-
-NN:
+PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+| PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING   |
+|----------------------------------------------------|
+| BOTTLE LABEL                                       |
 
-BOTTLE LABEL
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Dovprela 200 mg tablets pretomanid
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|------|------------------------------------|
 
 Each tablet contains 200 mg pretomanid.
 
-## 3. LIST OF EXCIPIENTS
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
 
-Contains lactose.
+Contains lactose. See leaflet for further information.
 
-See leaflet for further information.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
+| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
+|------|------------------------------------|
 
 26 tablets
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
+|------|-----------------------------------------|
 
 Read the package leaflet before use. Oral use.
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+| 6.   | SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN   |
+|------|----------------------------------------------------------------------------------------------------|
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Mylan IRE Healthcare Limited Unit 35/36 Grange Parade Baldoyle Industrial Estate Dublin 13 Ireland
 
@@ -880,8 +974,10 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
+
+29
 
 <div style=\"page-break-after: always\"></div>
 
@@ -917,10 +1013,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 Dovprela contains the active substance pretomanid, a type of antibiotic. Antibiotics are medicines used to kill bacteria that cause diseases.
 
-Dovprela is used in adults (18 years and over) in combination with two other medicines called linezolid and bedaquiline to treat tuberculosis that affects the lungs:
+Dovprela is used in adults (18 years and over) in combination with three other medicines called linezolid, bedaquiline and moxifloxacin, to treat tuberculosis that affects the lungs that is resistant to another antibiotic, rifampicin, and may also be resistant to isoniazid.
 
-- that is resistant to multiple other classes of antibiotics (isoniazid, rifampicin, any fluoroquinolone and any second line injectable antimycobacterial drug), or
-- that is resistant to only isoniazid and rifampicin, when you do not respond to or cannot tolerate the standard treatment.
+Dovprela is also used in adults in combination with two other medicines called linezolid and bedaquiline to treat tuberculosis that affects the lungs that is resistant to multiple other classes of antibiotics (rifampicin, any fluoroquinolone) and may also be resistant to isoniazid.
 
 ## 2. What you need to know before you take Dovprela
 
@@ -928,7 +1023,7 @@ Dovprela is used in adults (18 years and over) in combination with two other med
 
 - if you are allergic to pretomanid, antibiotics of the group called nitroimidazoles, or any of the other ingredients of this medicine (listed in section 6)
 
-Since pretomanid must be used in combination with other medicines against tuberculosis - linezolid and bedaquiline - please make sure that you read the 'Do not take' section of the package leaflets for these medicines as well. If you are unsure of any information in the package leaflets, please contact your doctor or pharmacist.
+Since pretomanid must be used in combination with other medicines against tuberculosis  please make sure that you read the 'Do not take' section of the package leaflets for these medicines as well. If you are unsure of any information in the package leaflets, please contact your doctor or pharmacist.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -946,7 +1041,7 @@ Talk to your doctor, pharmacist or nurse before taking Dovprela if you:
 
 ## Liver damage
 
-There is a risk of liver damage when you are treated with Dovprela, linezolid and bedaquiline. Your doctor will therefore monitor you for signs of liver damage and take blood samples before the start of treatment and regularly during treatment.
+There is a risk of liver damage when you are treated with Dovprela in combination with other medicines against tuberculosis. Your doctor will therefore monitor you for signs of liver damage and take blood samples before the start of treatment and regularly during treatment.
 
 Tell your doctor if you experience symptoms such as:
 
@@ -961,9 +1056,7 @@ The doctor will adjust your treatment if your liver is affected.
 
 ## Reduced number of blood cells
 
-Treatment with Dovprela, linezolid and bedaquiline can severely reduce the number of blood cells, such as blood platelets, red blood cells and white blood cells called neutrophils. Contact your doctor immediately about any signs of bruising, bleeding or infections.
-
-Your doctor will monitor complete blood counts before the start of treatment and regularly during treatment. The doctor will adjust your treatment if your blood cell count is reduced.
+Treatment with Dovprela in combination with other medicines against tuberculosis can severely reduce the number of blood cells, such as blood platelets, red blood cells and white blood cells called neutrophils. Contact your doctor immediately about any signs of bruising, bleeding or infections. Your doctor will monitor complete blood counts before the start of treatment and regularly during treatment. The doctor will adjust your treatment if your blood cell count is reduced.
 
 ## Nerve disorders in hands, feet or eyes
 
@@ -977,7 +1070,7 @@ A disorder of blood over-acidification called lactic acidosis may occur during t
 
 A certain heartbeat abnormality known as QT prolongation may occur during treatment. Your doctor will therefore perform an ECG before the start of treatment and regularly during treatment. Your treatment will be adjusted if heartbeat abnormalities occur. In addition, potassium, calcium and magnesium levels will be monitored and corrected if abnormal.
 
-The safety and efficacy of Dovprela has not been studied in combination with medicines other than linezolid and bedaquiline and therefore it should not be used as part of any other treatment combination.
+The safety and efficacy of Dovprela has not been studied in combination with medicines other than linezolid, bedaquiline and moxifloxacin and therefore it should not be used as part of any other treatment combination.
 
 ## Children and adolescents
 
@@ -996,7 +1089,7 @@ Avoid treatment with Dovprela and any of the following medicines at the same tim
 - carbamazepine, phenytoin: medicines to treat epilepsy and certain pain conditions
 - St John's wort: a herbal medicine to treat depression and anxiety
 
-You should also avoid the use of medicines that may have a damaging effect on your liver (other than bedaquiline and linezolid). Talk to you doctor who will be able to tell you which medicines this applies to.
+You should also avoid the use of medicines that may have a damaging effect on your liver (other than bedaquiline, linezolid and moxifloxacin). Talk to you doctor who will be able to tell you which medicines this applies to.
 
 Inform your doctor if you are using:
 
@@ -1037,23 +1130,27 @@ This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to sa
 
 Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
-Dovprela is used in combination with linezolid and bedaquiline. Please also read the package leaflets from these medicines. If you have any questions ask your doctor or pharmacist.
+Dovprela is used in combination with linezolid, bedaquiline and moxifloxacin. Please also read the package leaflets from these medicines. If you have any questions ask your doctor or pharmacist.
 
 ## The recommended dose is
 
 - Dovprela: 1 tablet once daily
 - linezolid: 600 mg daily
-- bedaquiline: 400 mg once daily for 2 weeks, followed by 200 mg 3 times per week (with at least 48 hours between doses). For example you may take bedaquiline on Monday, Wednesday and Friday every week from week 3 onwards.
+- bedaquiline: 400 mg once daily for 2 weeks, followed by 200 mg 3 times per week (with at least 48 hours between doses). For example you may take bedaquiline on Monday, Wednesday and Friday every week from week 3 onwards
+
+If you have been told by your doctor that you will have moxifloxacin as well as Dovprela, linezolid and bedaquiline, the recommended dose is
+
+- moxifloxacin: 400 mg once daily.
 
 ## Method of use
 
-Take Dovprela at the same time as linezolid and bedaquiline. Swallow the tablets with a glass of water and take them with food.
+Take Dovprela at the same time as linezolid, bedaquiline and moxifloxacin. Swallow the tablets with a glass of water and take them with food. If you have trouble swallowing a whole tablet, crushing the tablets and mixing with water for administration may be an acceptable alternative. You should take the tablets immediately after crushing and mixing with water.
 
 The tablets are taken under direct observation of a healthcare professional or in accordance with local practice.
 
 ## Duration of use
 
-The duration of treatment with the combination Dovprela, linezolid and bedaquiline is 26 weeks. Your doctor may decide to expand this period or to interrupt dosing to ensure that the treatment is safe and effective for you.
+The duration of treatment of Dovprela in combination with other medicines against tuberculosis is 26 weeks. Your doctor may decide to expand this period or to interrupt dosing to ensure that the treatment is safe and effective for you.
 
 ## If you take more Dovprela than you should
 
@@ -1063,111 +1160,130 @@ Contact your doctor straight away and take the medicine pack with you.
 
 Do not take a double dose to make up for a forgotten dose.
 
-Any missed dose of pretomanid and bedaquiline is recommended to be made up at the end of treatment. Doses of linezolid missed due to linezolid adverse reactions are not recommended to be made up. Talk to your doctor or pharmacist if you have missed a dose and you are not sure what to do.
+Any missed dose of pretomanid, bedaquiline, or moxifloxacin is recommended to be made up at the end of treatment. Doses of linezolid missed due to linezolid adverse reactions are not recommended to be made up. Talk to your doctor or pharmacist if you have missed a dose and you are not sure what to do.
 
 ## If you stop taking Dovprela
 
-Do not stop taking Dovprela or its combination medicines linezolid or bedaquiline without your doctor's permission. Skipping doses or not completing the full course of therapy may make treatment ineffective and your tuberculosis could get worse. In addition, this would increase the chance that bacteria become resistant to these medicines.
+Do not stop taking Dovprela or its combination medicines linezolid, bedaquiline, or moxifloxacin without your doctor's permission. Skipping doses or not completing the full course of therapy may make treatment ineffective and your tuberculosis could get worse. In addition, this would increase the chance that bacteria become resistant to these medicines.
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-When Dovprela is used together with linezolid and bedaquiline the following side effects have been reported:
+When Dovprela is used together with other medicines against tuberculosis, the following side effects have been reported:
 
-<div style=\"page-break-after: always\"></div>
+## Contact your doctor immediately
 
-## Contact your doctor immediately if you experience any of the following:
+Very common if you experience any of the following: (may affect more than 1 in 10 people)
 
-Very common (may affect more than 1 in 10 people)
-
-- reduced number of red blood cells
-- Possible signs are feeling tired, weakness, shortness of breath, loss of consciousness and increased thirst.
+- reduced number of red blood cells Possible signs are feeling tired, weakness, shortness of breath, loss of consciousness and increased thirst.
+- reduced number of white blood cells Possible signs are infections.
 - increased blood levels of liver enzymes called transaminase such as ALT, AST Tell your doctor if you experience symptoms such as fatigue, lack or loss of appetite, nausea, yellowing of the skin and eyes, dark urine or abdominal pain.
 
 ## Common (may affect up to 1 in 10 people)
 
-- reduced number of white blood cells or platelets
-
-Possible signs are bruising, bleeding or infections.
-
+- reduced number of white blood cells or platelets Possible signs are bruising, bleeding or infections.
 - increased blood levels of a liver enzyme called gamma GT (indicating how well your liver is working)
-- increased blood level of lactic acid
+
+•
+
+increased blood level of lactic acid
 
 Contact your doctor if you have recurrent nausea or vomiting.
+
+## Uncommon (may affect up to 1 in 100 people)
+
+- swelling of the face, lips, tongue or eyes (angioedema)
 
 ## Other side effects may occur with following frequencies:
 
 Very common (may affect more than 1 in 10 people)
 
-- nausea, vomiting, indigestion
-- acne,
-- decreased appetite
+- nausea, vomiting
+- rash
+
+•
+
 - nerve problems in the hands or feet, such as pain, burning, abnormal sensation or numbness
+- abnormal electrical activity of the heart (prolonged electrocardiogram QT interval)
 
 ## Common (may affect up to 1 in 10 people)
 
 - fungal (including candida, yeast, fungi) infection in the mouth or throat, which appears as white patches
-- sleeping difficulties
+- fungal (including candida, yeast, fungi) infection in the vagina, which may cause itching, soreness, burning and redness
+- sleeping difficulties, depression
 - fatigue
+- decreased appetite
 - taste disturbance
 - dizziness
-- headache
-- muscle spasm, muscle and skeleton pain, such as joint pain, back pain, muscle pain
-- diarrhoea, constipation
+- tremor
+- muscle spasm
+- diarrhoea, constipation, indigestion
 - inflammation of stomach lining, pancreas inflammation
-- reflux of stomach juices in the oesophagus
 - abdominal pain
-- hair loss, dry skin, itching skin, rash
-- irritation or pain of the eye, dry eye, vision problems
-- optic nerve damage and/or inflammation with swellings and visual disturbances
-- abnormal electrical activity of the heart (prolonged electrocardiogram QT interval)
+- dry skin, itching skin, hives, acne
+- vision problems
+- deafness
+
+<div style=\"page-break-after: always\"></div>
+
+- feeling of increased heartbeat, chest pain
+- high blood pressure
+- coughing up blood, nosebleed
+- increased number of white blood cells
 - increased blood levels:
 - -amylase
 - -bilirubin, which is the yellow breakdown substance of the blood pigment
 - -lipase
 - -alkaline phosphatase
 - -creatinine
-- -creatine phosphokinase
+- -blood sugar
 - -urea
-- decreased blood sugar level
-- decreased magnesium blood level
+- -sodium
+- -potassium
+- decreased blood levels:
+- -blood sugar
+- -sodium
+- -calcium
+- -albumin
+- -potassium
+- -magnesium
+- decreased elimination of the muscle tissue breakdown product creatinine through kidneys
 
 ## Uncommon (may affect up to 1 in 100 people)
 
-- fungal infection
 - too much fluid loss, reduced body fluid volume
-
-<div style=\"page-break-after: always\"></div>
-
-- anxiety, depression
+- anxiety
 - enlarged liver
 - yellowing of the skin, internal organs and/or the whites of the eyes (jaundice)
 - eye lens disorder
 - worsening ability to focus clearly on close objects
-- eye itching, eye swelling
+- eye itching, eye swelling, irritation or pain of the eye
+- optic nerve damage and/or inflammation with swellings and visual disturbances
 - optic disc swelling (leading to loss of vision)
-- deafness
-- feeling of increased heartbeat
-- increased heartbeat
+- clouding of the eye lens (cataracts)
+- increased or decreased heartbeat
 - low blood pressure
-- cough, nosebleed
-- feeling bloated
+- cough
+- feeling bloated, burping
 - burning tongue, enlargement of the small, nipple-like structures on the upper surface of the tongue
-- eczema, excessive skin pigmentation
-- inability to have or maintain an erection
-- womb bleeding at irregular intervals, particularly between the expected menstrual periods
-- feeling unwell
+- reflux of stomach juices in the oesophagus
+- swelling and pain (arthritis) in several joints
+- allergic reaction
+- eczema, excessive skin pigmentation, skin redness, hair loss
 - abnormal presence of the protein albumin in the urine
 - vomiting blood
-- decreased elimination of the muscle tissue breakdown product creatinine through kidneys
 - lack of white and red blood cells, and blood platelets
-- decreased calcium blood level
 - increased blood levels:
 - -creatine phosphokinase isoenzyme (MB)
 - -uric acid
+- -creatine phosphokinase
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -1182,8 +1298,6 @@ Do not use this medicine after the expiry date which is stated on the carton, bo
 This medicine does not require any special temperature storage conditions.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
@@ -1206,11 +1320,13 @@ Mylan IRE Healthcare Limited Unit 35/36 Grange Parade Baldoyle Industrial Estate
 
 ## Manufacturer
 
-Mylan Hungary Kft.
+Mylan Hungary Kft. H-2900, Komárom Mylan utca 1 Hungary
 
-H-2900, Komárom Mylan utca 1 Hungary
+Rottapharm Limited,
 
-Rottapharm Limited, Damastown Industrial Park, Mulhuddart, Dublin 15, D15 XD71 Ireland
+Damastown Industrial Park, Mulhuddart, Dublin 15, D15 XD71 Ireland
+
+<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1240,13 +1356,17 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 (Belgique/Belgien)
 
-<div style=\"page-break-after: always\"></div>
-
 ## Česká republika
 
 Viatris CZ  s.r.o.
 
 Tel: + 420 222 004 400
+
+## Magyarország
+
+Viatris Healthcare Kft.
+
+Tel.: + 36 1 465 2100
 
 ## Danmark
 
@@ -1254,11 +1374,23 @@ Viatris ApS
 
 Tlf: +45 28 11 69 32
 
+## Malta
+
+V.J. Salomone Pharma Ltd
+
+Tel: + 356 21 22 01 74
+
 ## Deutschland
 
 Viatris Healthcare GmbH
 
 Tel: +49 800 0700 800
+
+## Nederland
+
+Mylan BV
+
+Tel: +31 (0)20 426 3300
 
 ## Eesti
 
@@ -1266,11 +1398,23 @@ Viatris OÜ
 
 Tel: + 372 6363 052
 
+## Norge
+
+Viatris AS
+
+Tlf: + 47 66 75 33 00
+
 ## Ελλάδα
 
 Viatris Hellas Ltd
 
 Τηλ:  +30 2100 100 002
+
+## Österreich
+
+Viatris Austria GmbH
+
+Tel: +43 1 86390
 
 ## España
 
@@ -1278,17 +1422,37 @@ Viatris Pharmaceuticals, S.L.
 
 Tel: + 34 900 102 712
 
+## Polska
+
+Viatris Healthcare Sp. z o.o.
+
+Tel: + 48 22 546 64 00
+
 ## France
 
 Viatris Santé
 
 Tél: +33 1 40 80 15 55
 
+## Portugal
+
+Viatris Healthcare, Lda
+
+Tel: + 351 21 412 72 00
+
 ## Hrvatska
 
 Viatris Hrvatska d.o.o.
 
 Tel: +385 1 23 50 599
+
+## România
+
+BGP Products SRL
+
+Tel: +40 372 579 000
+
+<div style=\"page-break-after: always\"></div>
 
 ## Ireland
 
@@ -1304,58 +1468,6 @@ Sími: +354 540 8000
 
 ## Italia
 
-Viatris Italia S.r.l. Tel: + 39 (0)2 612 46921
-
-## Κύπρος
-
-GPA Pharmaceuticals Ltd Τηλ: +357 22863100
-
-## Magyarország
-
-Viatris Healthcare Kft.
-
-Tel.: + 36 1 465 2100
-
-## Malta
-
-V.J. Salomone Pharma Ltd
-
-Tel: + 356 21 22 01 74
-
-## Nederland
-
-Mylan BV
-
-Tel: +31 (0)20 426 3300
-
-## Norge
-
-Viatris AS
-
-Tlf: + 47 66 75 33 00
-
-## Österreich
-
-Viatris Austria GmbH
-
-Tel: +43 1 86390
-
-## Polska
-
-Viatris Healthcare Sp. z o.o.
-
-Tel: + 48 22 546 64 00
-
-## Portugal
-
-Viatris Healthcare, Lda Tel: + 351 21 412 72 00
-
-## România
-
-BGP Products SRL
-
-Tel: +40 372 579 000
-
 ## Slovenija
 
 Viatris d.o.o.
@@ -1370,19 +1482,21 @@ Tel: +421 2 32 199 100
 
 ## Suomi/Finland
 
+Viatris Italia S.r.l.
+
+Tel: + 39 (0)2 612 46921
+
 Viatris Oy
 
 Puh/Tel: +358 20 720 9555
 
-## Sverige
+## Κύπρος
 
-Viatris AB
+CPO Pharmaceuticals Limited
 
-Tel: + 46 (0) 8 630 19 00
+Τηλ: +357 22863100
 
-<div style=\"page-break-after: always\"></div>
-
-Latvija
+## Latvija
 
 Viatris SIA
 
@@ -1394,8 +1508,8 @@ Tel: +371 676 055 80
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
-## United Kingdom (Northern Ireland)
+## Sverige
 
-Mylan IRE Healthcare Limited
+Viatris AB
 
-Tel: +353 18711600
+Tel: + 46 (0) 8 630 19 00

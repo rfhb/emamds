@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 07:13:43
+document_datetime: 2026-02-17 12:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/uplizna.html
 document_name: uplizna.html
 version: success
-processing_time: 0.1281253
-conversion_datetime: 2025-12-30 09:37:32.546121
+processing_time: 0.1178615
+conversion_datetime: 2026-02-21 12:48:30.251579
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Uplizna
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 inebilizumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +119,7 @@ English (EN) (145.13 KB - PDF)
 
 [View](/en/documents/overview/uplizna-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-479)
+[Other languages (22)](#file-language-dropdown-747)
 
 български (BG) (170.25 KB - PDF)
 
@@ -389,11 +387,11 @@ svenska (SV) (142.76 KB - PDF)
 
 Uplizna : EPAR - Risk management plan
 
-English (EN) (26.42 MB - PDF)
+English (EN) (3.35 MB - PDF)
 
 **First published:** 19/05/2022
 
-**Last updated:** 27/11/2025
+**Last updated:** 17/02/2026
 
 [View](/en/documents/rmp/uplizna-epar-risk-management-plan_en.pdf)
 
@@ -401,17 +399,17 @@ English (EN) (26.42 MB - PDF)
 
 Uplizna : EPAR - Product Information
 
-English (EN) (501.18 KB - PDF)
+English (EN) (571.36 KB - PDF)
 
 **First published:** 19/05/2022
 
-**Last updated:** 27/11/2025
+**Last updated:** 17/02/2026
 
 [View](/en/documents/product-information/uplizna-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-427)
+[Other languages (24)](#file-language-dropdown-351)
 
-български (BG) (594.78 KB - PDF)
+български (BG) (698.42 KB - PDF)
 
 **First published:**
 
@@ -419,11 +417,11 @@ English (EN) (501.18 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/bg/documents/product-information/uplizna-epar-product-information_bg.pdf)
 
-español (ES) (534.18 KB - PDF)
+español (ES) (631.4 KB - PDF)
 
 **First published:**
 
@@ -431,11 +429,11 @@ español (ES) (534.18 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/es/documents/product-information/uplizna-epar-product-information_es.pdf)
 
-čeština (CS) (573.53 KB - PDF)
+čeština (CS) (684.12 KB - PDF)
 
 **First published:**
 
@@ -443,11 +441,11 @@ español (ES) (534.18 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/cs/documents/product-information/uplizna-epar-product-information_cs.pdf)
 
-dansk (DA) (570.28 KB - PDF)
+dansk (DA) (650.82 KB - PDF)
 
 **First published:**
 
@@ -455,11 +453,11 @@ dansk (DA) (570.28 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/da/documents/product-information/uplizna-epar-product-information_da.pdf)
 
-Deutsch (DE) (562.05 KB - PDF)
+Deutsch (DE) (642.42 KB - PDF)
 
 **First published:**
 
@@ -467,11 +465,11 @@ Deutsch (DE) (562.05 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/de/documents/product-information/uplizna-epar-product-information_de.pdf)
 
-eesti keel (ET) (540.05 KB - PDF)
+eesti keel (ET) (620.32 KB - PDF)
 
 **First published:**
 
@@ -479,11 +477,11 @@ eesti keel (ET) (540.05 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/et/documents/product-information/uplizna-epar-product-information_et.pdf)
 
-ελληνικά (EL) (599.5 KB - PDF)
+ελληνικά (EL) (666.96 KB - PDF)
 
 **First published:**
 
@@ -491,11 +489,11 @@ eesti keel (ET) (540.05 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/el/documents/product-information/uplizna-epar-product-information_el.pdf)
 
-français (FR) (572.06 KB - PDF)
+français (FR) (653.77 KB - PDF)
 
 **First published:**
 
@@ -503,11 +501,11 @@ français (FR) (572.06 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/fr/documents/product-information/uplizna-epar-product-information_fr.pdf)
 
-hrvatski (HR) (569.52 KB - PDF)
+hrvatski (HR) (655.04 KB - PDF)
 
 **First published:**
 
@@ -515,11 +513,11 @@ hrvatski (HR) (569.52 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/hr/documents/product-information/uplizna-epar-product-information_hr.pdf)
 
-íslenska (IS) (542.66 KB - PDF)
+íslenska (IS) (616.9 KB - PDF)
 
 **First published:**
 
@@ -527,11 +525,11 @@ hrvatski (HR) (569.52 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/is/documents/product-information/uplizna-epar-product-information_is.pdf)
 
-italiano (IT) (551.16 KB - PDF)
+italiano (IT) (651.92 KB - PDF)
 
 **First published:**
 
@@ -539,11 +537,11 @@ italiano (IT) (551.16 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/it/documents/product-information/uplizna-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (580.81 KB - PDF)
+latviešu valoda (LV) (639.32 KB - PDF)
 
 **First published:**
 
@@ -551,11 +549,11 @@ latviešu valoda (LV) (580.81 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/lv/documents/product-information/uplizna-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (549.08 KB - PDF)
+lietuvių kalba (LT) (650.56 KB - PDF)
 
 **First published:**
 
@@ -563,11 +561,11 @@ lietuvių kalba (LT) (549.08 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/lt/documents/product-information/uplizna-epar-product-information_lt.pdf)
 
-magyar (HU) (580.08 KB - PDF)
+magyar (HU) (670.66 KB - PDF)
 
 **First published:**
 
@@ -575,11 +573,11 @@ magyar (HU) (580.08 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/hu/documents/product-information/uplizna-epar-product-information_hu.pdf)
 
-Malti (MT) (641.08 KB - PDF)
+Malti (MT) (724.14 KB - PDF)
 
 **First published:**
 
@@ -587,11 +585,11 @@ Malti (MT) (641.08 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/mt/documents/product-information/uplizna-epar-product-information_mt.pdf)
 
-Nederlands (NL) (558.89 KB - PDF)
+Nederlands (NL) (631.79 KB - PDF)
 
 **First published:**
 
@@ -599,11 +597,11 @@ Nederlands (NL) (558.89 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/nl/documents/product-information/uplizna-epar-product-information_nl.pdf)
 
-norsk (NO) (545.79 KB - PDF)
+norsk (NO) (633.23 KB - PDF)
 
 **First published:**
 
@@ -611,11 +609,11 @@ norsk (NO) (545.79 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/no/documents/product-information/uplizna-epar-product-information_no.pdf)
 
-polski (PL) (573.09 KB - PDF)
+polski (PL) (635.73 KB - PDF)
 
 **First published:**
 
@@ -623,11 +621,11 @@ polski (PL) (573.09 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/pl/documents/product-information/uplizna-epar-product-information_pl.pdf)
 
-português (PT) (539.75 KB - PDF)
+português (PT) (637.31 KB - PDF)
 
 **First published:**
 
@@ -635,11 +633,11 @@ português (PT) (539.75 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/pt/documents/product-information/uplizna-epar-product-information_pt.pdf)
 
-română (RO) (561.48 KB - PDF)
+română (RO) (644.59 KB - PDF)
 
 **First published:**
 
@@ -647,11 +645,11 @@ română (RO) (561.48 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/ro/documents/product-information/uplizna-epar-product-information_ro.pdf)
 
-slovenčina (SK) (585.88 KB - PDF)
+slovenčina (SK) (672.5 KB - PDF)
 
 **First published:**
 
@@ -659,11 +657,11 @@ slovenčina (SK) (585.88 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/sk/documents/product-information/uplizna-epar-product-information_sk.pdf)
 
-slovenščina (SL) (556.41 KB - PDF)
+slovenščina (SL) (636.95 KB - PDF)
 
 **First published:**
 
@@ -671,11 +669,11 @@ slovenščina (SL) (556.41 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/sl/documents/product-information/uplizna-epar-product-information_sl.pdf)
 
-Suomi (FI) (546 KB - PDF)
+Suomi (FI) (627.79 KB - PDF)
 
 **First published:**
 
@@ -683,11 +681,11 @@ Suomi (FI) (546 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/fi/documents/product-information/uplizna-epar-product-information_fi.pdf)
 
-svenska (SV) (545.23 KB - PDF)
+svenska (SV) (645.17 KB - PDF)
 
 **First published:**
 
@@ -695,11 +693,11 @@ svenska (SV) (545.23 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+17/02/2026
 
 [View](/sv/documents/product-information/uplizna-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0012 10/11/2025
+**Latest procedure affecting product information:** VR/0000257358 10/02/2026
 
 icon globe
 
@@ -723,7 +721,7 @@ English (EN) (44.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/uplizna-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-662)
+[Other languages (24)](#file-language-dropdown-457)
 
 български (BG) (91.92 KB - PDF)
 
@@ -943,7 +941,7 @@ Amgen Europe B.V.
 
 Minervum 7061
 
-Opinion adopted 11/11/2021 Marketing authorisation issued 25/04/2022 Revision 8
+Opinion adopted 11/11/2021 Marketing authorisation issued 25/04/2022 Revision 9
 
 ## Assessment history
 
@@ -955,11 +953,11 @@ Collapse section
 
 Uplizna : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (193.11 KB - PDF)
+English (EN) (129.26 KB - PDF)
 
 **First published:** 27/03/2025
 
-**Last updated:** 15/05/2025
+**Last updated:** 17/02/2026
 
 [View](/en/documents/procedural-steps-after/uplizna-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -972,6 +970,18 @@ English (EN) (131.47 KB - PDF)
 **Last updated:** 27/11/2025
 
 [View](/en/documents/procedural-steps-after/uplizna-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Uplizna-VR-0000257358 : EPAR - Assessment report - Variation
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2662399
+
+English (EN) (6.35 MB - PDF)
+
+**First published:** 17/02/2026
+
+[View](/en/documents/variation-report/uplizna-vr-0000257358-epar-assessment-report-variation_en.pdf)
 
 Uplizna-H-C-005818-II-0012 : EPAR - Assessment report - Variation
 
@@ -1059,7 +1069,7 @@ English (EN) (261.87 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/uplizna-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-680)
+[Other languages (24)](#file-language-dropdown-247)
 
 български (BG) (273.75 KB - DOCX)
 
@@ -1263,10 +1273,10 @@ This product is no longer an orphan medicine. It was originally [designated an o
 - [EMA/PE/0000238005 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000238005)
 - [EMEA-001911-PIP02-22-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001911-pip02-22-m01)
 - [Uplizna - opinion on variation to marketing authorisation](/en/medicines/human/variation/uplizna)
-- [An Observational Pregnancy Safety Study in Women with Neuromyelitis Optica Spectrum Disorder (NMOSD) Exposed to UPLIZNA® (inebilizumab-cdon) during Pregnancy (VIB0551.P4.S4 /20230064) - post-authorisation study](https://catalogues.ema.europa.eu/study/105845)
 - [A real-world observational study of treatment patterns and outcomes for patients with neuromyelitis optica spectrum disorders (NMOSD) treated with inebilizumab (UPLIZNA) in Europe - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000084)
+- [An Observational Pregnancy Safety Study in Women with Neuromyelitis Optica Spectrum Disorder (NMOSD) Exposed to UPLIZNA® (inebilizumab-cdon) during Pregnancy (VIB0551.P4.S4 /20230064) - post-authorisation study](https://catalogues.ema.europa.eu/study/105845)
 
-**This page was last updated on** 27/11/2025
+**This page was last updated on** 17/02/2026
 
 ## Share this page
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-07 14:38:00
+document_datetime: 2026-02-20 13:48:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/apremilast-accord.html
 document_name: apremilast-accord.html
 version: success
-processing_time: 0.117352
-conversion_datetime: 2026-01-10 11:38:06.943457
+processing_time: 0.1002841
+conversion_datetime: 2026-02-21 13:19:43.379591
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.1
-  docling: 2.67.0
-  docling-core: 2.58.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Apremilast Accord
 
@@ -26,8 +26,6 @@ This medicine is authorised for use in the European Union
 
 apremilast Medicine Human Authorised
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
-
 Page contents
 
 ## Page contents
@@ -38,7 +36,6 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Apremilast Accord](#news-on)
-- [Product information - with tracked changes](#product-information-with-tracked-changes-78101)
 
 - Application under evaluation
 - CHMP opinion
@@ -48,13 +45,11 @@ Page contents
 
 Apremilast Accord is a medicine used to treat adults with:
 
-• moderate to severe plaque psoriasis (a disease causing red, scaly patches on the skin). It is used in patients who have not responded to or cannot use other systemic (affecting the whole body) treatments for psoriasis, such as ciclosporin, methotrexate or PUVA (psoralen ultraviolet A). PUVA is a type of treatment where the patient receives a medicine containing a compound called a 'psoralen' before being exposed to ultraviolet light;
+- moderate to severe plaque psoriasis (a disease causing red, scaly patches on the skin). It is used in patients who have not responded to or cannot use other systemic (affecting the whole body) treatments for psoriasis, such as ciclosporin, methotrexate or PUVA (psoralen ultraviolet A). PUVA is a type of treatment where the patient receives a medicine containing a compound called a 'psoralen' before being exposed to ultraviolet light;
+- active psoriatic arthritis (inflammation of the joints associated with psoriasis) in patients who cannot take or who have not responded well enough to other treatments called disease-modifying antirheumatic drugs (DMARDs). Apremilast Accord may be used alone or combined with other DMARDs;
+- ulcers in the mouth caused by Behçet's disease, an inflammatory disease that may affect many parts of the body.
 
-• active psoriatic arthritis (inflammation of the joints associated with psoriasis) in patients who cannot take or who have not responded well enough to other treatments called disease-modifying antirheumatic drugs (DMARDs). Apremilast Accord may be used alone or combined with other DMARDs;
-
-• ulcers in the mouth caused by Behçet's disease, an inflammatory disease that may affect many parts of the body.
-
-Apremilast Accord is a 'generic medicine'. This means that Apremilast Accord contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU. The reference medicine for Apremilast Accord is Otezla. For more information on generic medicines, see the question-and-answer document [here](https://www.ema.europa.eu/en/documents/other/questions-and-answers-generic-medicines_en.pdf) .
+Apremilast Accord is a 'generic medicine'. This means that Apremilast Accord contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU. The reference medicine for Apremilast Accord is Otezla.
 
 Apremilast Accord contains the active substance apremilast.
 
@@ -106,7 +101,7 @@ English (EN) (197.55 KB - PDF)
 
 [View](/en/documents/overview/apremilast-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-107)
+[Other languages (22)](#file-language-dropdown-990)
 
 български (BG) (191.94 KB - PDF)
 
@@ -296,17 +291,17 @@ English (EN) (2.23 MB - PDF)
 
 Apremilast Accord : EPAR - Product information
 
-English (EN) (632.34 KB - PDF)
+English (EN) (635.62 KB - PDF)
 
 **First published:** 21/05/2024
 
-**Last updated:** 07/01/2026
+**Last updated:** 20/02/2026
 
 [View](/en/documents/product-information/apremilast-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-390)
+[Other languages (24)](#file-language-dropdown-959)
 
-български (BG) (875 KB - PDF)
+български (BG) (877.89 KB - PDF)
 
 **First published:**
 
@@ -314,11 +309,11 @@ English (EN) (632.34 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/bg/documents/product-information/apremilast-accord-epar-product-information_bg.pdf)
 
-español (ES) (825.37 KB - PDF)
+español (ES) (827.26 KB - PDF)
 
 **First published:**
 
@@ -326,11 +321,11 @@ español (ES) (825.37 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/es/documents/product-information/apremilast-accord-epar-product-information_es.pdf)
 
-čeština (CS) (799.57 KB - PDF)
+čeština (CS) (794.08 KB - PDF)
 
 **First published:**
 
@@ -338,11 +333,11 @@ español (ES) (825.37 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/cs/documents/product-information/apremilast-accord-epar-product-information_cs.pdf)
 
-dansk (DA) (779.03 KB - PDF)
+dansk (DA) (781.21 KB - PDF)
 
 **First published:**
 
@@ -350,11 +345,11 @@ dansk (DA) (779.03 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/da/documents/product-information/apremilast-accord-epar-product-information_da.pdf)
 
-Deutsch (DE) (802.16 KB - PDF)
+Deutsch (DE) (804.86 KB - PDF)
 
 **First published:**
 
@@ -362,11 +357,11 @@ Deutsch (DE) (802.16 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/de/documents/product-information/apremilast-accord-epar-product-information_de.pdf)
 
-eesti keel (ET) (804.96 KB - PDF)
+eesti keel (ET) (784.63 KB - PDF)
 
 **First published:**
 
@@ -374,11 +369,11 @@ eesti keel (ET) (804.96 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/et/documents/product-information/apremilast-accord-epar-product-information_et.pdf)
 
-ελληνικά (EL) (866.16 KB - PDF)
+ελληνικά (EL) (869.96 KB - PDF)
 
 **First published:**
 
@@ -386,11 +381,11 @@ eesti keel (ET) (804.96 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/el/documents/product-information/apremilast-accord-epar-product-information_el.pdf)
 
-français (FR) (894.02 KB - PDF)
+français (FR) (870.55 KB - PDF)
 
 **First published:**
 
@@ -398,11 +393,11 @@ français (FR) (894.02 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/fr/documents/product-information/apremilast-accord-epar-product-information_fr.pdf)
 
-hrvatski (HR) (834.79 KB - PDF)
+hrvatski (HR) (837.6 KB - PDF)
 
 **First published:**
 
@@ -410,11 +405,11 @@ hrvatski (HR) (834.79 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/hr/documents/product-information/apremilast-accord-epar-product-information_hr.pdf)
 
-íslenska (IS) (775.32 KB - PDF)
+íslenska (IS) (778.94 KB - PDF)
 
 **First published:**
 
@@ -422,11 +417,11 @@ hrvatski (HR) (834.79 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/is/documents/product-information/apremilast-accord-epar-product-information_is.pdf)
 
-italiano (IT) (804.98 KB - PDF)
+italiano (IT) (806.69 KB - PDF)
 
 **First published:**
 
@@ -434,11 +429,11 @@ italiano (IT) (804.98 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/it/documents/product-information/apremilast-accord-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.07 MB - PDF)
+latviešu valoda (LV) (871.21 KB - PDF)
 
 **First published:**
 
@@ -446,11 +441,11 @@ latviešu valoda (LV) (1.07 MB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/lv/documents/product-information/apremilast-accord-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (853.26 KB - PDF)
+lietuvių kalba (LT) (854.39 KB - PDF)
 
 **First published:**
 
@@ -458,11 +453,11 @@ lietuvių kalba (LT) (853.26 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/lt/documents/product-information/apremilast-accord-epar-product-information_lt.pdf)
 
-magyar (HU) (835.65 KB - PDF)
+magyar (HU) (836.88 KB - PDF)
 
 **First published:**
 
@@ -470,11 +465,11 @@ magyar (HU) (835.65 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/hu/documents/product-information/apremilast-accord-epar-product-information_hu.pdf)
 
-Malti (MT) (903.45 KB - PDF)
+Malti (MT) (904.98 KB - PDF)
 
 **First published:**
 
@@ -482,11 +477,11 @@ Malti (MT) (903.45 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/mt/documents/product-information/apremilast-accord-epar-product-information_mt.pdf)
 
-Nederlands (NL) (521.66 KB - PDF)
+Nederlands (NL) (842.8 KB - PDF)
 
 **First published:**
 
@@ -494,11 +489,11 @@ Nederlands (NL) (521.66 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/nl/documents/product-information/apremilast-accord-epar-product-information_nl.pdf)
 
-norsk (NO) (788.68 KB - PDF)
+norsk (NO) (789.63 KB - PDF)
 
 **First published:**
 
@@ -506,11 +501,11 @@ norsk (NO) (788.68 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/no/documents/product-information/apremilast-accord-epar-product-information_no.pdf)
 
-polski (PL) (951.18 KB - PDF)
+polski (PL) (952.61 KB - PDF)
 
 **First published:**
 
@@ -518,11 +513,11 @@ polski (PL) (951.18 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/pl/documents/product-information/apremilast-accord-epar-product-information_pl.pdf)
 
-português (PT) (807.84 KB - PDF)
+português (PT) (808.12 KB - PDF)
 
 **First published:**
 
@@ -530,11 +525,11 @@ português (PT) (807.84 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/pt/documents/product-information/apremilast-accord-epar-product-information_pt.pdf)
 
-română (RO) (874.3 KB - PDF)
+română (RO) (875.11 KB - PDF)
 
 **First published:**
 
@@ -542,11 +537,11 @@ română (RO) (874.3 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/ro/documents/product-information/apremilast-accord-epar-product-information_ro.pdf)
 
-slovenčina (SK) (979.19 KB - PDF)
+slovenčina (SK) (977.39 KB - PDF)
 
 **First published:**
 
@@ -554,11 +549,11 @@ slovenčina (SK) (979.19 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/sk/documents/product-information/apremilast-accord-epar-product-information_sk.pdf)
 
-slovenščina (SL) (888.49 KB - PDF)
+slovenščina (SL) (890.13 KB - PDF)
 
 **First published:**
 
@@ -566,11 +561,11 @@ slovenščina (SL) (888.49 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/sl/documents/product-information/apremilast-accord-epar-product-information_sl.pdf)
 
-Suomi (FI) (790.21 KB - PDF)
+Suomi (FI) (792.78 KB - PDF)
 
 **First published:**
 
@@ -578,11 +573,11 @@ Suomi (FI) (790.21 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/fi/documents/product-information/apremilast-accord-epar-product-information_fi.pdf)
 
-svenska (SV) (782.61 KB - PDF)
+svenska (SV) (785.14 KB - PDF)
 
 **First published:**
 
@@ -590,11 +585,11 @@ svenska (SV) (782.61 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+20/02/2026
 
 [View](/sv/documents/product-information/apremilast-accord-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000317881 07/01/2026
+**Latest procedure affecting product information:** VR/0000326527 19/02/2026
 
 icon globe
 
@@ -620,7 +615,7 @@ English (EN) (70.09 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-246)
+[Other languages (24)](#file-language-dropdown-735)
 
 български (BG) (78.44 KB - PDF)
 
@@ -927,7 +922,13 @@ Immunosuppressants
 
 ### Therapeutic indication
 
-Psoriatic arthritis Apremilast Accord, alone or in combination with Disease Modifying Antirheumatic Drugs (DMARDs), is indicated for the treatment of active psoriatic arthritis (PsA) in adult patients who have had an inadequate response or who have been intolerant to a prior DMARD therapy (see section 5.1). Psoriasis Apremilast Accord is indicated for the treatment of moderate to severe chronic plaque psoriasis in adult patients who failed to respond to or who have a contraindication to, or are intolerant to other systemic therapy including cyclosporine, methotrexate or psoralen and ultraviolet-A light (PUVA). Behçet's disease Apremilast Accord is indicated for the treatment of adult patients with oral ulcers associated with Behçet's disease (BD) who are candidates for systemic therapy.
+**Psoriatic arthritis**
+
+Apremilast Accord, alone or in combination with Disease Modifying Antirheumatic Drugs (DMARDs), is indicated for the treatment of active psoriatic arthritis (PsA) in adult patients who have had an inadequate response or who have been intolerant to a prior DMARD therapy (see section 5.1). **Psoriasis**
+
+Apremilast Accord is indicated for the treatment of moderate to severe chronic plaque psoriasis in adult patients who failed to respond to or who have a contraindication to, or are intolerant to other systemic therapy including cyclosporine, methotrexate or psoralen and ultraviolet-A light (PUVA). **Behçet's disease**
+
+Apremilast Accord is indicated for the treatment of adult patients with oral ulcers associated with Behçet's disease (BD) who are candidates for systemic therapy.
 
 ## Authorisation details
 
@@ -943,7 +944,7 @@ Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a
 
-Opinion adopted 22/02/2024 Marketing authorisation issued 19/04/2024 Revision 2
+Opinion adopted 22/02/2024 Marketing authorisation issued 19/04/2024 Revision 3
 
 ## Assessment history
 
@@ -955,9 +956,11 @@ Collapse section
 
 Apremilast Accord : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (147.72 KB - PDF)
+English (EN) (169.83 KB - PDF)
 
 **First published:** 07/01/2026
+
+**Last updated:** 20/02/2026
 
 [View](/en/documents/procedural-steps-after/apremilast-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1001,19 +1004,7 @@ English (EN) (144.15 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 February 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-february-2024) 23/02/2024
 
-#### Product information - with tracked changes
-
-The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
-
-Apremilast Accord : EPAR - Product information - tracked changes
-
-English (EN) (377.3 KB - DOCX)
-
-**First published:** 18/07/2025
-
-[View](/en/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_en.docx)
-
-**This page was last updated on** 07/01/2026
+**This page was last updated on** 20/02/2026
 
 ## Share this page
 

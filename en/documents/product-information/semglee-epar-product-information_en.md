@@ -1,24 +1,22 @@
 ---
-document_datetime: 2023-12-04 16:02:31
+document_datetime: 2026-02-20 15:58:04
 document_pages: 47
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/semglee-epar-product-information_en.pdf
 document_name: semglee-epar-product-information_en.pdf
 version: success
-processing_time: 9.7481212
-conversion_datetime: 2025-12-27 09:11:51.245611
+processing_time: 13.0462348
+conversion_datetime: 2026-02-21 12:22:34.967994
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -36,7 +34,7 @@ Each pen contains 3 ml of solution for injection, equivalent to 300 units.
 
 For the full list of excipients, see section 6.1.
 
-## 3. PHARMACEUTICAL FORM
+## 3. PHARMACEUTICAL  FORM
 
 Solution for injection
 
@@ -56,7 +54,7 @@ Semglee contains insulin glargine, an insulin analogue, and has a prolonged dura
 
 The dose regimen (dose and timing) should be individually adjusted. In patients with type 2 diabetes mellitus, Semglee can also be given together with orally active antidiabetic medicinal products. The potency of this medicinal product is stated in units. These units are exclusive to Semglee and are not the same as IU or the units used to express the potency of other insulin analogues (see section 5.1).
 
-## Special population Elderly population (≥ 65 years old)
+Special population Elderly population (≥ 65 years old)
 
 In the elderly, progressive deterioration of renal function may lead to a steady decrease in insulin requirements.
 
@@ -295,7 +293,7 @@ Rarely, insulin may cause sodium retention and oedema particularly if previously
 
 In general, the safety profile for children and adolescents (≤ 18 years of age) is similar to the safety profile for adults.
 
-The adverse reaction reports received from post marketing surveillance included relatively more frequent injection site reactions (injection site pain, injection site reaction) and skin reactions (rash, urticaria) in children and adoles cents (≤ 18 years of age) than in adults. Clinical study safety data are not available for children under 2 years.
+The adverse reaction reports received from post marketing surveillance included relatively more frequent injection site reactions (injection site pain, injection site reaction) and skin reactions (rash, urticaria) in children and adolescents (≤ 18 years of age) than in adults. Clinical study safety data are not available for children under 2 years.
 
 ## Reporting of suspected adverse reactions
 
@@ -305,7 +303,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-## Symptoms
+Symptoms
 
 Insulin overdose may lead to severe and sometimes long-term and life-threatening hypoglycaemia.
 
@@ -317,7 +315,7 @@ More severe episodes with coma, seizure, or neurologic impairment may be treated
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
-## 5.1 Pharmacodynamic properties
+## 5.1 Pharmacodynamic  properties
 
 Pharmacotherapeutic group: Drugs used in diabetes, insulins and analogues for injection, long-acting. ATC Code: A10AE04.
 
@@ -333,7 +331,7 @@ Insulin receptor binding: In vitro studies indicate that the affinity of insulin
 
 IGF-1 receptor binding: The affinity of insulin glargine for the human IGF-1 receptor is approximately 5 to 8-fold greater than that of human insulin (but approximately 70 to 80-fold lower than the one of IGF-1), whereas M1 and M2 bind the IGF-1 receptor with slightly lower affinity compared to human insulin.
 
-The total therapeutic insulin concentration (insulin glargine and its metabolites) found in type 1 diabetic patients was markedly lower than what would be required for a half-maximal occupation of the IGF-1 receptor and the subsequent activation of the mitogenic-proliferative pathway initiated by the IGF-1 receptor. Physiological concentrations of endogenous IGF-1 may activate the mitogenic-proliferative pathway; however, the therapeutic concentrations found in insulin therapy, including in insulin glargine therapy, are considerably lower than the pharmacological concentrations required to activate the IGF-1 pathway.
+The total therapeutic insulin concentration (insulin glargine and its metabolites) found in type 1 diabetic patients was markedly lower than what would be required for a half-maximal occupation of the IGF-1 receptor and the subsequent activation of the mitogenic-proliferative pathway initiated by the IGF-1 receptor. Physiological concentrations of endogenous IGF-1 may activate the mitogenicproliferative pathway; however, the therapeutic concentrations found in insulin therapy, including in insulin glargine therapy, are considerably lower than the pharmacological concentrations required to activate the IGF-1 pathway.
 
 The primary activity of insulin, including insulin glargine, is regulation of glucose metabolism. Insulin and its analogues lower blood glucose levels by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production. Insulin inhibits lipolysis in the adipocyte, inhibits proteolysis and enhances protein synthesis.
 
@@ -357,7 +355,7 @@ In clinical studies, antibodies that cross-react with human insulin and insulin 
 
 Effects of insulin glargine (once daily) on diabetic retinopathy were evaluated in an open-label 5-year NPH-controlled study (NPH given bid) in 1024 type 2 diabetic patients in which progression of retinopathy by 3 or more steps on the Early Treatment Diabetic Retinopathy Study (ETDRS) scale was investigated by fundus photography. No significant difference was seen in the progression of diabetic retinopathy when insulin glargine was compared to NPH insulin.
 
-The ORIGIN (Outcome Reduction with Initial Glargine INtervention) study was a multicentre, randomised, 2x2 factorial design study conducted in 12,537 participants at high cardiovascular (CV) risk with impaired fasting glucose (IFG) or impaired glucose tolerance (IGT) (12% of participants) or type 2 diabetes mellitus treated with ≤1 antidiabetic oral age nt (88% of participants). Participants were randomised (1:1) to receive insulin glargine (n=6264), titrated to reach Fasting Plasma Glucose (FPG) ≤ 95 mg/dl (5.3 mM), or standard care (n=6273).
+The ORIGIN (Outcome Reduction with Initial Glargine INtervention) study was a multicentre, randomised, 2x2 factorial design study conducted in 12,537 participants at high cardiovascular (CV) risk with impaired fasting glucose (IFG) or impaired glucose tolerance (IGT) (12% of participants) or type 2 diabetes mellitus treated with ≤1 antidiabetic oral agent (88% of participants). Participants were randomised (1:1) to receive insulin glargine (n=6264), titrated to reach Fasting Plasma Glucose (FPG) ≤ 95 mg/dl (5.3 mM), or standard care (n=6273).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -385,7 +383,7 @@ Glycohaemoglobin and glucose variabilities were comparable in both treatment gro
 
 <div style=\"page-break-after: always\"></div>
 
-## 5.2 Pharmacokinetic properties
+## 5.2 Pharmacokinetic  properties
 
 In healthy subjects and diabetic patients, insulin serum concentrations indicated a slower and much more prolonged absorption and showed a lack of a peak after subcutaneous injection of insulin glargine in comparison to human NPH insulin. Concentrations were thus consistent with the time profile of the pharmacodynamic activity of insulin glargine. The graph above shows the activity profiles over time of insulin glargine and NPH insulin.
 
@@ -407,7 +405,7 @@ Pharmacokinetics in children aged 2 to less than 6 years with type 1 diabetes me
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, carcinogenic potential, toxicity to reproduction.
 
-## 6. PHARMACEUTICAL PARTICULARS
+## 6. PHARMACEUTICAL  PARTICULARS
 
 ## 6.1 List of excipients
 
@@ -481,13 +479,7 @@ Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Ind
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/18/1270/001
-
-EU/1/18/1270/002
-
-EU/1/18/1270/003
-
-EU/1/18/1270/004
+EU/1/18/1270/001 EU/1/18/1270/002 EU/1/18/1270/003 EU/1/18/1270/004
 
 EU/1/18/1270/005
 
@@ -512,7 +504,7 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE   AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
 Name and address of the manufacturer(s) of the biological active substance(s)
 
@@ -613,7 +605,7 @@ Store for a maximum of 4 weeks below 25°C.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Not in-use pens
+## Not in-use pens
 
 Store in a refrigerator.
 
@@ -675,8 +667,8 @@ Semglee
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -684,7 +676,7 @@ PC SN NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON  (with blue box) multipack - 10 (2x5 pens)
+OUTER CARTON (with blue box) multipack - 10 (2x5 pens)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -746,7 +738,9 @@ Do not refrigerate. Keep the pen cap on the pen after each injection in order to
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13 DUBLIN Ireland D13 R20R
+Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13 DUBLIN Ireland
+
+D13 R20R
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -756,13 +750,15 @@ EU/1/18/1270/005
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 Dispense in the sealed carton.
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Semglee
 
@@ -773,8 +769,8 @@ Semglee
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -782,7 +778,7 @@ PC SN NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-IMMEDIATE CARTON  (without blue box) component of multipack - 5 pens
+IMMEDIATE CARTON (without blue box) component of multipack - 5 pens
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -831,7 +827,7 @@ Store for a maximum of 4 weeks below 25°C.
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-Not in-use pens
+## Not in-use pens
 
 Store in a refrigerator.
 
@@ -841,15 +837,17 @@ In-use pen
 
 Do not refrigerate. Keep the pen cap on the pen after each injection in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FORDISPOSALOFUNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|--------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13 DUBLIN Ireland
 
 D13 R20R
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/18/1270/005
 
@@ -857,8 +855,11 @@ EU/1/18/1270/005
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 Dispense in the sealed carton.
 
@@ -872,22 +873,22 @@ Semglee
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| LABEL                                                            |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL                                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Semglee 100 units/ml solution for injection in pre-filled pen insulin glargine Subcutaneous use
+Semglee 100 units/ml solution for injection in pre-filled pen insulin glargine Subcutaneous  use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -899,8 +900,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 3 ml
 
@@ -909,7 +910,7 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## B. PACKAGE LEAFLET
+- B. PACKAGE LEAFLET
 
 ## Package leaflet: Information for the user
 
@@ -951,9 +952,7 @@ Semglee is used to treat diabetes mellitus in adults, adolescents and children a
 
 Semglee in pre-filled pen is only suitable for injecting just under the skin (see also section 3). Speak to your doctor if you need to inject your insulin by another method.
 
-Talk to your doctor, pharmacist or nurse before using Semglee.
-
-Follow closely the instructions for posology, monitoring (blood and urine tests), diet and physical activity (physical work and exercise), injection technique as discussed with your doctor.
+Talk to your doctor, pharmacist or nurse before using Semglee. Follow closely the instructions for posology, monitoring (blood and urine tests), diet and physical activity (physical work and exercise), injection technique as discussed with your doctor.
 
 ## Skin changes at the injection site:
 
@@ -1096,7 +1095,9 @@ Semglee can be used in adolescents and children aged 2 years and above. Use this
 
 ## Frequency of administration
 
-You need one injection of Semglee every day, at the same time of the day. Semglee pen delivers insulin in increments of 1 unit up to a maximum single dose of 80 units.
+You need one injection of Semglee every day, at the same time of the day.
+
+Semglee pen delivers insulin in increments of 1 unit up to a maximum single dose of 80 units.
 
 ## Method of administration
 
@@ -1160,7 +1161,7 @@ Severe allergic reactions (rare, may affect up to 1 in 1,000 people) - the signs
 
 If you inject insulin too often at the same place, the fatty tissue may either shrink (lipoatrophy; may affect up to 1 in 100 people) or thicken (lipohypertrophy; may affect up to 1 in 10 people). Lumps under the skin may also be caused by build-up of a protein called amyloid (cutaneous amyloidosis; how often this occurs is not known). The insulin may not work very well if you inject into a lumpy area. Change the injection site with each injection to help prevent these skin changes.
 
-Common reported side effects (may affect up to 1 in 10 people)
+## Common reported side effects (may affect up to 1 in 10 people)
 
 - Skin and allergic reactions at the injection site
 
@@ -1223,9 +1224,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Semglee looks like and contents of the pack
 
-Semglee 100 units/ml solution for injection in a pre-filled pen is a clear colourless solution. Each pen contains 3 ml of solution for injection (equivalent to 300 units).
-
-Semglee is available in pack sizes of 1, 3, 5, 10 pens and in a multipack compromising of 2 cartons, each containing 5 pens.
+Semglee 100 units/ml solution for injection in a pre-filled pen is a clear colourless solution. Each pen contains 3 ml of solution for injection (equivalent to 300 units). Semglee is available in pack sizes of 1, 3, 5, 10 pens and in a multipack compromising of 2 cartons, each containing 5 pens.
 
 Not all pack sizes may be marketed.
 
@@ -1243,7 +1242,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Biocon Biologics Belgium BV Tél/Tel: 0080008250910
+Biocon Biologics BelgiumBV Tél/Tel: 0080008250910
 
 ## България
 
@@ -1251,11 +1250,11 @@ Biosimilar Collaborations Ireland Limited Тел: 0080008250910
 
 ## Česká republika
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics GermanyGmbH Tel: 0080008250910
 
 ## Danmark
 
-Biocon Biologics Finland OY Tlf: 0080008250910
+Biocon Biologics FinlandOY Tlf: 0080008250910
 
 ## Deutschland
 
@@ -1271,19 +1270,35 @@ Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε Τηλ.: 0080008250910
 
 ## España
 
-Biocon Biologics Spain S.L. Tel: 0080008250910
+Biocon Biologics SpainS.L. Tel: 0080008250910
 
 ## France
 
-Biocon Biologics France S.A.S Tel: 0080008250910
+Biocon Biologics FranceS.A.S Tel: 0080008250910
 
 ## Hrvatska
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics GermanyGmbH Tel: 0080008250910
 
 ## Ireland
 
-Biosimilar Collaborations Ireland Limited Tel: 1800 777 794
+Biosimilar Collaborations Ireland Limited Tel: 1800777 794
+
+## Ísland
+
+Biocon Biologics FinlandOY Sími: +345 800 4316
+
+## Italia
+
+Biocon Biologics SpainS.L . Tel: 0080008250910
+
+Κύπρος
+
+Biosimilar Collaborations Ireland Limited Τηλ: 0080008250910
+
+## Latvija
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Lietuva
 
@@ -1291,27 +1306,27 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Luxembourg/Luxemburg
 
-Biocon Biologics France S.A.S Tél/Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tél/Tel: 0080008250910
 
 ## Magyarország
 
 Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
 
-## Malta
+Malta
 
 Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
 
 ## Nederland
 
-Biocon Biologics France S.A.S Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
-## Norge
+Norge
 
-Biocon Biologics Finland OY Tlf: +47 800 62 671
+Biocon Biologics FinlandOY Tlf: +47 800 62 671
 
-## Österreich
+Österreich
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics GermanyGmbH Tel: 0080008250910
 
 ## Polska
 
@@ -1319,7 +1334,7 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Portugal
 
-Biocon Biologics Spain S.L. Tel: 0080008250910
+Biocon Biologics SpainS.L. Tel: 0080008250910
 
 ## România
 
@@ -1329,41 +1344,23 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
-<div style=\"page-break-after: always\"></div>
-
-## Ísland
-
-Biocon Biologics Finland OY Sími: +345 8004316
-
-## Italia
-
-Biocon Biologics Spain S.L . Tel: 0080008250910
-
-## Κύπρος
-
-Biosimilar Collaborations Ireland Limited Τηλ : 0080008250910
-
-## Latvija
-
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
-
-## This leaflet was last revised in {month YYYY}.
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
-
 ## Slovenská republika
 
 Biocon Biologics Germany GmbH Tel: 0080008250910
 
-## Suomi/Finland
+## Suomi/Finland Biocon Biologics Finland OY
 
-Biocon Biologics Finland OY Puh/Tel: 99980008250910
+Puh/Tel: 99980008250910
 
 ## Sverige
 
 Biocon Biologics Finland OY Tel: 0080008250910
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in {month YYYY}. Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1421,11 +1418,11 @@ Examples include:
 
 ## Warning symptoms of hypoglycaemia
 
-- In your body
+- -In your body
 
 Examples of symptoms that tell you that your blood sugar level is falling too much or too fast: sweating, clammy skin, anxiety, fast heart beat, high blood pressure, palpitations and irregular heartbeat. These symptoms often develop before the symptoms of a low sugar level in the brain.
 
-- In your brain
+- -In your brain
 
 Examples of symptoms that indicate a low sugar level in the brain: headaches, intense hunger, nausea, vomiting, tiredness, sleepiness, sleep disturbances, restlessness, aggressive behaviour, lapses in concentration, impaired reactions, depression, confusion, speech disturbances (sometimes total loss of speech), visual disorders, trembling, paralysis, tingling sensations (paraesthesia), numbness and tingling sensations in the area of the mouth, dizziness, loss of self-control, inability to look after yourself, convulsions, loss of consciousness.
 
@@ -1521,7 +1518,8 @@ Always use a new sterile needle for each injection as this helps stop blocked ne
 
 ## Step 1. Prepare your pen
 
-- A - Inspect the pen: check the purple and white label on the pen to make sure:
+A - Inspect the pen: check the purple and white label on the pen to make sure:
+
 - It is the correct insulin type.
 - The expiry date has not passed.
 
@@ -1597,7 +1595,9 @@ The dose can be corrected by turning the dose knob in either direction until the
 The pen will not let you dial a dose more than the number of units left in the pen. If your dose is more than the number of units left in the pen, either:
 
 - Inject the amount left in your pen and use a new pen to give the rest of your dose,
-- or
+
+or
+
 - Get a new pen and inject the full dose.
 
 Do not force the dose knob to turn beyond 80 units.
@@ -1617,13 +1617,14 @@ Injection sites include your arms, thighs, buttocks and abdomen. You should chan
 - A - If instructed by your healthcare provider you can pinch the cleaned skin between your fingers.
 - B - Push the needle straight into the skin as shown by your healthcare provider. Do not inject with the needle at an angle.
 - C - Press the purple injection button all the way in. The white dose knob will turn and you will hear 'clicks' as you press down.
-- D - Hold the purple injection button down for 10 seconds after the dose window shows '0' to make sure all of the insulin is injected. If you do not keep the injection button pressed down for 10 seconds after '0' is displayed you may get the wrong dose of medicine.
+
+<!-- image -->
+
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-<!-- image -->
+D - Hold the purple injection button down for 10 seconds after the dose window shows '0' to make sure all of the insulin is injected. If you do not keep the injection button pressed down for 10 seconds after '0' is displayed you may get the wrong dose of medicine.
 
 <!-- image -->
 
@@ -1657,7 +1658,7 @@ If you do not have a sharps container, you may use a household container that is
 - made of heavy duty plastic,
 - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
 - upright and stable during use,
-- leak-resistant, and
+- leak-resistant,  and
 - properly labelled to warn of hazardous waste inside the container.
 
 The used pen may be discarded in your household waste after you have removed the needle.

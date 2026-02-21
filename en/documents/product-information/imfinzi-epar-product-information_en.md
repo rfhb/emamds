@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-11 09:50:26
+document_datetime: 2026-02-19 16:10:05
 document_pages: 84
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/imfinzi-epar-product-information_en.pdf
 document_name: imfinzi-epar-product-information_en.pdf
 version: success
-processing_time: 48.7999516
-conversion_datetime: 2025-12-24 00:02:40.972855
+processing_time: 56.4769231
+conversion_datetime: 2026-02-21 12:25:24.025796
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -204,10 +204,6 @@ Table 2. Treatment modifications for IMFINZI or IMFINZI in combination with othe
 | Pure red cell aplasia (PRCA) h                       | Any Grade                             | Permanently discontinue                             |
 | Other non-immune-mediated adverse reactions          | Grade 2 and 3                         | Withhold dose until ≤ Grade 1 or return to baseline |
 | Other non-immune-mediated adverse reactions          | Grade 4                               | Permanently discontinue i                           |
-
-a  Common Terminology Criteria for Adverse Events, version 4.03. ALT: alanine aminotransferase; AST: aspartate aminotransferase; ULN: upper limit of normal; BLV: baseline value.
-
-b  For patients with alternative cause follow the recommendations for AST or ALT increases without concurrent bilirubin elevations.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -553,18 +549,13 @@ Table 3. Adverse drug reactions in patients treated with IMFINZI
 Adverse reaction frequencies may not be fully attributed to durvalumab alone but may contain contributions from the underlying disease or from other medicinal products used in a combination.
 
 * overall study of treatment with up to six 21-day cycles with platinum-based chemotherapy in combination with IMFINZI, followed by IMFINZI in combination with olaparib.
-
-a
-
-includes laryngitis, nasopharyngitis, peritonsillar abscess, pharyngitis, rhinitis, sinusitis, tonsillitis, tracheobronchitis and upper respiratory tract infection.
-
+- a includes laryngitis, nasopharyngitis, peritonsillar abscess, pharyngitis, rhinitis, sinusitis, tonsillitis, tracheobronchitis and upper respiratory tract infection.
 - b  includes pneumocystis jirovecii pneumonia, pneumonia, pneumonia adenoviral, pneumonia bacterial, pneumonia cytomegaloviral, pneumonia haemophilus, pneumonia pneumococcal, pneumonia streptococcal, candida pneumonia, pneumonia klebsiella, and pneumonia legionella.
 
 c including fatal outcome.
 
 - d includes gingivitis, oral infection, periodontitis, pulpitis dental, tooth abscess and tooth infection.
-
-e includes leukopenia and white blood cell count decreased.
+- e includes leukopenia and white blood cell count decreased.
 
 f includes neutropenia and neutrophil count decreased.
 
@@ -575,8 +566,7 @@ f includes neutropenia and neutrophil count decreased.
 j includes drug hypersensitivity and hypersensitivity.
 
 - k  includes autoimmune hypothyroidism, hypothyroidism, immune-mediated hypothyroidism, blood thyroid stimulating hormone increased.
-
-l  includes hyperthyroidism, Grave's disease, immune-mediated hyperthyroidism and blood thyroid stimulating hormone decreased.
+- l  includes hyperthyroidism, Grave's disease, immune-mediated hyperthyroidism and blood thyroid stimulating hormone decreased.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1050,14 +1040,6 @@ Table 6. Efficacy results for the PACIFIC Study
 | HR (95% CI)                   | 0.58 (0.46, 0.73)    | 0.58 (0.46, 0.73)    |                               |                               |
 | p-value                       | p < 0.0001           | p < 0.0001           |                               |                               |
 
-a Primary analysis of PFS at data cut-off 13 February 2017. Primary analysis of OS and PFS2 at data cut-off 22 March 2018.
-
-b  Follow-up OS and PFS analysis at data cut-off 11 January 2021.
-
-c PFS2 is defined as the time from the date of randomisation until the date of second progression (defined by local standard clinical practice) or death.
-
-NR: Not Reached
-
 Kaplan-Meier curves for OS and PFS from the 5-year follow-up analysis are presented in Figures 2 and 3.
 
 <div style=\"page-break-after: always\"></div>
@@ -1311,14 +1293,6 @@ Table 8. Efficacy results for the ADRIATIC study
 | Median PFS (months) (95% CI) b | 16.6 (10.2, 28.2)        | 9.2 (7.4, 12.9)          |
 | HR (95% CI) f                  | 0.76 (0.606, 0.950)      | 0.76 (0.606, 0.950)      |
 | p-value d                      | 0.01608                  | 0.01608                  |
-
-a  Median duration of OS follow-up in censored patients was 37.19 months in the IMFINZI arm and 37.24 months in the placebo arm.
-
-b  Calculated using the Kaplan Meier technique. CI for median derived based on Brookmeyer-Crowley method.
-
-c  The analysis for HR was performed using a stratified Cox proportional hazards model and the 2-sided p-value is based on a stratified log-rank test, both are adjusted for receipt of PCI.
-
-d  p-value based on the results from the pre-planned interim analysis. Based on a Lan-DeMets alpha spending function O'Brien Fleming type boundary and the actual number of events observed, the boundary for declaring
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1665,16 +1639,6 @@ Table 12 . Efficacy results for the DUO-E Study (Patients with dMMR tumour statu
 | DoR b                          |                                              |                                    |
 | Median DoR (months) (95% CI) c | NR (NR, NR)                                  | 10.5 (4.3, NR)                     |
 
-a Investigator assessed.
-
-b Results are based on the first interim analysis (DCO: 12 April 2023).
-
-c  Calculated using the Kaplan-Meier technique.
-
-d  Response: Best objective response as confirmed complete response or partial response. Based on number of
-
-patients in treatment group with measurable disease at baseline (N=42 in platinum-based chemotherapy + IMFINZI arm, N=42 in platinum-based chemotherapy arm). CI=Confidence Interval, HR=Hazard Ratio, NR=Not Reached
-
 | Number of patients at risk:           |                                       |                                       |                                       |                                       |                                       |                                       |                                       |                                       |                                       |
 |---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
 | Platinum-based chemotherapy + IMFINZI | Platinum-based chemotherapy + IMFINZI | Platinum-based chemotherapy + IMFINZI | Platinum-based chemotherapy + IMFINZI | Platinum-based chemotherapy + IMFINZI | Platinum-based chemotherapy + IMFINZI | Platinum-based chemotherapy + IMFINZI | Platinum-based chemotherapy + IMFINZI | Platinum-based chemotherapy + IMFINZI | Platinum-based chemotherapy + IMFINZI |
@@ -1776,10 +1740,6 @@ Table 14: Efficacy Results for the NIAGARA Study
 | Median OS (months) (95% CI) b    | NR (NR, NR)                      | NR (NR, NR)            |
 | HR (95% CI) c                    | 0.75 (0.59, 0.93)                | 0.75 (0.59, 0.93)      |
 | 2-sided p-value d,e              | 0.0106                           | 0.0106                 |
-
-a  Results are based on a pre-planned interim analysis (DCO: 29 April 2024) which occurred 68 months after study initiation.
-
-b  Calculated using the Kaplan-Meier technique.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2056,10 +2016,10 @@ An updated RMP should be submitted:
 
 The MAH shall complete, within the stated timeframe, the below measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Due date                                                                   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| Post-authorisation efficacy study (PAES): In order to further characterise the long-term efficacy of durvalumab in combination with carboplatin and paclitaxel for the first line treatment of adults with primary advanced or recurrent endometrial cancer who are candidates for systemic therapy, followed by maintenance treatment with durvalumab as monotherapy in endometrial cancer that is mismatch repair deficient (dMMR) or in combination with olaparib in endometrial cancer that is mismatch repair proficient (pMMR), the MAHshould submit the results of the second interim OS analysis and the final OS analysis from study D9311C00001 (DUO-E), a phase III randomised double-blind placebo-controlled multicentre study. | Second interim OS analysis: December 2025 Final OS analysis: December 2026 |
-| Post-authorisation efficacy study (PAES): In order to further characterise the long-term efficacy of IMFINZI in combination with platinum-based chemotherapy as neoadjuvant treatment, followed by IMFINZI as monotherapy as adjuvant treatment, for the treatment of adults with resectable NSCLC at high risk of recurrence, the MAHshould submit the results of the final OS analysis from the study D9106C00001 (AEGEAN), a phase III, double-blind, placebo-controlled multicentre international study.                                                                                                                                                                                                                                 | Final OS analysis: Q2 2029                                                 |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Due date                                                                |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Post-authorisation efficacy study (PAES): In order to further characterise the long-term efficacy of durvalumab in combination with carboplatin and paclitaxel for the first line treatment of adults with primary advanced or recurrent endometrial cancer who are candidates for systemic therapy, followed by maintenance treatment with durvalumab as monotherapy in endometrial cancer that is mismatch repair deficient (dMMR) or in combination with olaparib in endometrial cancer that is mismatch repair proficient (pMMR), the MAHshould submit the results of the second interim OS analysis and the final OS analysis from study D9311C00001 (DUO-E), a phase III randomised double-blind placebo-controlled multicentre study. | Second interim OS analysis: March 2027 Final OS analysis: November 2028 |
+| Post-authorisation efficacy study (PAES): In order to further characterise the long-term efficacy of IMFINZI in combination with platinum-based chemotherapy as neoadjuvant treatment, followed by IMFINZI as monotherapy as adjuvant treatment, for the treatment of adults with resectable NSCLC at high risk of recurrence, the MAHshould submit the results of the final OS analysis from the study D9106C00001 (AEGEAN), a phase III, double-blind, placebo-controlled multicentre international study.                                                                                                                                                                                                                                 | Final OS analysis: Q2 2029                                              |
 
 <div style=\"page-break-after: always\"></div>
 

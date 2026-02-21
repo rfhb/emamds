@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 12:24:48
+document_datetime: 2026-02-17 18:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vevzuo.html
 document_name: vevzuo.html
 version: success
-processing_time: 0.1072944
-conversion_datetime: 2025-12-30 09:07:31.091528
+processing_time: 0.0812679
+conversion_datetime: 2026-02-21 12:33:23.799093
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Vevzuo
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 denosumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +115,7 @@ English (EN) (123 KB - PDF)
 
 [View](/en/documents/overview/vevzuo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-209)
+[Other languages (22)](#file-language-dropdown-778)
 
 български (BG) (147.76 KB - PDF)
 
@@ -307,17 +305,17 @@ English (EN) (1.36 MB - PDF)
 
 Vevzuo : EPAR - Product information
 
-English (EN) (644.14 KB - PDF)
+English (EN) (677.35 KB - PDF)
 
 **First published:** 21/08/2025
 
-**Last updated:** 29/08/2025
+**Last updated:** 17/02/2026
 
 [View](/en/documents/product-information/vevzuo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-624)
+[Other languages (24)](#file-language-dropdown-778)
 
-български (BG) (671.55 KB - PDF)
+български (BG) (646.72 KB - PDF)
 
 **First published:**
 
@@ -329,7 +327,7 @@ English (EN) (644.14 KB - PDF)
 
 [View](/bg/documents/product-information/vevzuo-epar-product-information_bg.pdf)
 
-español (ES) (571.18 KB - PDF)
+español (ES) (600.34 KB - PDF)
 
 **First published:**
 
@@ -341,7 +339,7 @@ español (ES) (571.18 KB - PDF)
 
 [View](/es/documents/product-information/vevzuo-epar-product-information_es.pdf)
 
-čeština (CS) (618.04 KB - PDF)
+čeština (CS) (719.58 KB - PDF)
 
 **First published:**
 
@@ -353,7 +351,7 @@ español (ES) (571.18 KB - PDF)
 
 [View](/cs/documents/product-information/vevzuo-epar-product-information_cs.pdf)
 
-dansk (DA) (566.52 KB - PDF)
+dansk (DA) (600.24 KB - PDF)
 
 **First published:**
 
@@ -365,7 +363,7 @@ dansk (DA) (566.52 KB - PDF)
 
 [View](/da/documents/product-information/vevzuo-epar-product-information_da.pdf)
 
-Deutsch (DE) (606.62 KB - PDF)
+Deutsch (DE) (622.17 KB - PDF)
 
 **First published:**
 
@@ -377,7 +375,7 @@ Deutsch (DE) (606.62 KB - PDF)
 
 [View](/de/documents/product-information/vevzuo-epar-product-information_de.pdf)
 
-eesti keel (ET) (542.49 KB - PDF)
+eesti keel (ET) (582.54 KB - PDF)
 
 **First published:**
 
@@ -389,7 +387,7 @@ eesti keel (ET) (542.49 KB - PDF)
 
 [View](/et/documents/product-information/vevzuo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (655.93 KB - PDF)
+ελληνικά (EL) (691.79 KB - PDF)
 
 **First published:**
 
@@ -401,7 +399,7 @@ eesti keel (ET) (542.49 KB - PDF)
 
 [View](/el/documents/product-information/vevzuo-epar-product-information_el.pdf)
 
-français (FR) (566.08 KB - PDF)
+français (FR) (616.39 KB - PDF)
 
 **First published:**
 
@@ -413,7 +411,7 @@ français (FR) (566.08 KB - PDF)
 
 [View](/fr/documents/product-information/vevzuo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (590.01 KB - PDF)
+hrvatski (HR) (629.33 KB - PDF)
 
 **First published:**
 
@@ -425,7 +423,7 @@ hrvatski (HR) (590.01 KB - PDF)
 
 [View](/hr/documents/product-information/vevzuo-epar-product-information_hr.pdf)
 
-íslenska (IS) (568.42 KB - PDF)
+íslenska (IS) (601.92 KB - PDF)
 
 **First published:**
 
@@ -437,7 +435,7 @@ hrvatski (HR) (590.01 KB - PDF)
 
 [View](/is/documents/product-information/vevzuo-epar-product-information_is.pdf)
 
-italiano (IT) (560.15 KB - PDF)
+italiano (IT) (590.83 KB - PDF)
 
 **First published:**
 
@@ -449,7 +447,7 @@ italiano (IT) (560.15 KB - PDF)
 
 [View](/it/documents/product-information/vevzuo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (562.55 KB - PDF)
+latviešu valoda (LV) (631.17 KB - PDF)
 
 **First published:**
 
@@ -461,7 +459,7 @@ latviešu valoda (LV) (562.55 KB - PDF)
 
 [View](/lv/documents/product-information/vevzuo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (638.22 KB - PDF)
+lietuvių kalba (LT) (672.98 KB - PDF)
 
 **First published:**
 
@@ -473,7 +471,7 @@ lietuvių kalba (LT) (638.22 KB - PDF)
 
 [View](/lt/documents/product-information/vevzuo-epar-product-information_lt.pdf)
 
-magyar (HU) (582.81 KB - PDF)
+magyar (HU) (642.33 KB - PDF)
 
 **First published:**
 
@@ -485,7 +483,7 @@ magyar (HU) (582.81 KB - PDF)
 
 [View](/hu/documents/product-information/vevzuo-epar-product-information_hu.pdf)
 
-Malti (MT) (631.02 KB - PDF)
+Malti (MT) (695.24 KB - PDF)
 
 **First published:**
 
@@ -497,7 +495,7 @@ Malti (MT) (631.02 KB - PDF)
 
 [View](/mt/documents/product-information/vevzuo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (559.12 KB - PDF)
+Nederlands (NL) (596.04 KB - PDF)
 
 **First published:**
 
@@ -509,7 +507,7 @@ Nederlands (NL) (559.12 KB - PDF)
 
 [View](/nl/documents/product-information/vevzuo-epar-product-information_nl.pdf)
 
-norsk (NO) (588.62 KB - PDF)
+norsk (NO) (582.47 KB - PDF)
 
 **First published:**
 
@@ -521,7 +519,7 @@ norsk (NO) (588.62 KB - PDF)
 
 [View](/no/documents/product-information/vevzuo-epar-product-information_no.pdf)
 
-polski (PL) (622.52 KB - PDF)
+polski (PL) (657.53 KB - PDF)
 
 **First published:**
 
@@ -533,7 +531,7 @@ polski (PL) (622.52 KB - PDF)
 
 [View](/pl/documents/product-information/vevzuo-epar-product-information_pl.pdf)
 
-português (PT) (678.91 KB - PDF)
+português (PT) (642.86 KB - PDF)
 
 **First published:**
 
@@ -545,7 +543,7 @@ português (PT) (678.91 KB - PDF)
 
 [View](/pt/documents/product-information/vevzuo-epar-product-information_pt.pdf)
 
-română (RO) (571.78 KB - PDF)
+română (RO) (658.21 KB - PDF)
 
 **First published:**
 
@@ -557,7 +555,7 @@ română (RO) (571.78 KB - PDF)
 
 [View](/ro/documents/product-information/vevzuo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (586.49 KB - PDF)
+slovenčina (SK) (671.57 KB - PDF)
 
 **First published:**
 
@@ -569,7 +567,7 @@ slovenčina (SK) (586.49 KB - PDF)
 
 [View](/sk/documents/product-information/vevzuo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (647.68 KB - PDF)
+slovenščina (SL) (614.75 KB - PDF)
 
 **First published:**
 
@@ -581,7 +579,7 @@ slovenščina (SL) (647.68 KB - PDF)
 
 [View](/sl/documents/product-information/vevzuo-epar-product-information_sl.pdf)
 
-Suomi (FI) (563.22 KB - PDF)
+Suomi (FI) (591.12 KB - PDF)
 
 **First published:**
 
@@ -593,7 +591,7 @@ Suomi (FI) (563.22 KB - PDF)
 
 [View](/fi/documents/product-information/vevzuo-epar-product-information_fi.pdf)
 
-svenska (SV) (659.24 KB - PDF)
+svenska (SV) (617.89 KB - PDF)
 
 **First published:**
 
@@ -605,7 +603,7 @@ svenska (SV) (659.24 KB - PDF)
 
 [View](/sv/documents/product-information/vevzuo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000290491 28/08/2025
+**Latest procedure affecting product information:** N/0000326544 13/02/2026
 
 icon globe
 
@@ -631,7 +629,7 @@ English (EN) (60.11 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-462)
+[Other languages (24)](#file-language-dropdown-846)
 
 български (BG) (92.45 KB - PDF)
 
@@ -954,9 +952,9 @@ Marketing authorisation holder
 
 Biosimilar Collaborations Ireland Limited
 
-Unit 35/36
+Unit 35/36 Grange Parade Baldoyle Industrial Estate Dublin 13, D13 R20R Ireland
 
-Opinion adopted 25/04/2025 Marketing authorisation issued 25/06/2025 Revision 1
+Opinion adopted 25/04/2025 Marketing authorisation issued 25/06/2025 Revision 2
 
 ## Assessment history
 
@@ -968,9 +966,11 @@ Collapse section
 
 Vevzuo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (142.46 KB - PDF)
+English (EN) (145.46 KB - PDF)
 
 **First published:** 29/08/2025
+
+**Last updated:** 17/02/2026
 
 [View](/en/documents/procedural-steps-after/vevzuo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1002,7 +1002,7 @@ English (EN) (155.15 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2025) 25/04/2025
 
-**This page was last updated on** 29/08/2025
+**This page was last updated on** 17/02/2026
 
 ## Share this page
 

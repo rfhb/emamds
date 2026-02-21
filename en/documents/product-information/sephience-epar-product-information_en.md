@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-08-29 11:24:13
+document_datetime: 2026-02-20 11:42:47
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/sephience-epar-product-information_en.pdf
 document_name: sephience-epar-product-information_en.pdf
 version: success
-processing_time: 14.4937883
-conversion_datetime: 2025-12-22 17:27:34.572412
+processing_time: 15.334531
+conversion_datetime: 2026-02-21 12:31:09.000206
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -331,8 +331,6 @@ Table 6: Adverse reactions
 | Gastrointestinal disorders         | Common      | Faeces discoloured                |
 | Metabolism and nutrition disorders | Common      | Hypophenylalaninaemia             |
 
-* Grouping of 3 MedDRA Preferred Terms: Abdominal pain, Abdominal pain upper, Abdominal discomfort.
-
 ## Paediatric population
 
 Overall, in PKU clinical studies, sepiapterin was well tolerated in paediatric patients. Frequency, type, and severity of adverse reactions in all age groups of paediatric patients were consistent with those in adults. Long-term safety data are limited.
@@ -406,16 +404,6 @@ Table 8: Mean change in blood Phe levels from baseline to Week 5 and Week 6 in P
 | LS mean estimate for the mean change from baseline | LS mean estimate for the mean change from baseline | LS mean estimate for the mean change from baseline | LS mean estimate for the mean change from baseline | LS mean estimate for the mean change from baseline |
 | LS mean (SE)                                       | -415.75 (24.066)                                   | -19.88 (24.223)                                    | -395.87 (33.848)                                   | < 0.0001                                           |
 | 95% CI                                             | (-463.52, - 367.97)                                | (-67.97, 28.21)                                    | (-463.07, -328.66)                                 |                                                    |
-
-CI, confidence interval; LS, least squares; MMRM, mixed model for repeated measures; Phe, phenylalanine;
-
-SD, standard deviation; SE, standard error
-
-* Baseline is the average of Day -1 and Day 1 blood Phe levels in Part 2.
-
-** Blood Phe concentrations were based on average values during Weeks 5 and 6.
-
-LS means, standard errors, confidence intervals, and p values were from an MMRM with change in blood Phe from baseline to post-baseline assessments as the response variable, and fixed effects for treatment, baseline blood Phe, baseline Phe stratum, visit, and treatment-by-visit interaction.
 
 Similar responses were observed in the population of patients with classical PKU (cPKU), with a 69% reduction in blood Phe at Week 6 in subjects receiving sepiapterin (n=6) versus an increase of 3% after placebo (n=9).
 
@@ -1082,8 +1070,6 @@ Table 3: How to calculate the dose for patients over 2 years of age weighing 16 
 | 14            | 4*                                   | 33.6                                 |
 | 15            | 4*                                   | 36                                   |
 | 16            | 4*                                   | 38.4                                 |
-
-* Instead of the four 250 mg sachets, one full 1 000 mg sachet can be mixed with 36 mL of water or apple juice. This mixture should be administered with a syringe, according with the volume detailed on Table 3.
 
 ## 4. For patients 2 years or older and weighing 16 kg or more (see Table 4)
 

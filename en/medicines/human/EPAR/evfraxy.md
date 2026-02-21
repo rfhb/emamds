@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 13:33:44
+document_datetime: 2026-02-19 10:23:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/evfraxy.html
 document_name: evfraxy.html
 version: success
-processing_time: 0.1037584
-conversion_datetime: 2025-12-30 02:34:50.699988
+processing_time: 0.1019444
+conversion_datetime: 2026-02-21 12:31:22.958754
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Evfraxy
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 denosumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +113,7 @@ English (EN) (211.13 KB - PDF)
 
 [View](/en/documents/overview/evfraxy-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-908)
+[Other languages (22)](#file-language-dropdown-273)
 
 български (BG) (236.43 KB - PDF)
 
@@ -305,207 +303,305 @@ English (EN) (2.09 MB - PDF)
 
 Evfraxy : EPAR - Product Information
 
-English (EN) (806.28 KB - PDF)
+English (EN) (951.79 KB - PDF)
 
 **First published:** 21/08/2025
 
+**Last updated:** 19/02/2026
+
 [View](/en/documents/product-information/evfraxy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-943)
+[Other languages (24)](#file-language-dropdown-848)
 
-български (BG) (1.02 MB - PDF)
+български (BG) (1.16 MB - PDF)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+19/02/2026
 
 [View](/bg/documents/product-information/evfraxy-epar-product-information_bg.pdf)
 
-español (ES) (982.95 KB - PDF)
+español (ES) (1 MB - PDF)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+19/02/2026
 
 [View](/es/documents/product-information/evfraxy-epar-product-information_es.pdf)
 
-čeština (CS) (950.73 KB - PDF)
+čeština (CS) (995.07 KB - PDF)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+19/02/2026
 
 [View](/cs/documents/product-information/evfraxy-epar-product-information_cs.pdf)
 
-dansk (DA) (928.71 KB - PDF)
+dansk (DA) (969.54 KB - PDF)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+19/02/2026
 
 [View](/da/documents/product-information/evfraxy-epar-product-information_da.pdf)
 
-Deutsch (DE) (1013.56 KB - PDF)
+Deutsch (DE) (1.01 MB - PDF)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+19/02/2026
 
 [View](/de/documents/product-information/evfraxy-epar-product-information_de.pdf)
 
-eesti keel (ET) (927 KB - PDF)
+eesti keel (ET) (971.42 KB - PDF)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+19/02/2026
 
 [View](/et/documents/product-information/evfraxy-epar-product-information_et.pdf)
 
-ελληνικά (EL) (632.85 KB - PDF)
+ελληνικά (EL) (1.05 MB - PDF)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+19/02/2026
 
 [View](/el/documents/product-information/evfraxy-epar-product-information_el.pdf)
 
-français (FR) (1.03 MB - PDF)
+français (FR) (1.07 MB - PDF)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+19/02/2026
 
 [View](/fr/documents/product-information/evfraxy-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1020.33 KB - PDF)
+hrvatski (HR) (1013.93 KB - PDF)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+19/02/2026
 
 [View](/hr/documents/product-information/evfraxy-epar-product-information_hr.pdf)
 
-íslenska (IS) (945.32 KB - PDF)
+íslenska (IS) (933.59 KB - PDF)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+19/02/2026
 
 [View](/is/documents/product-information/evfraxy-epar-product-information_is.pdf)
 
-italiano (IT) (967.66 KB - PDF)
+italiano (IT) (1017.95 KB - PDF)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+19/02/2026
 
 [View](/it/documents/product-information/evfraxy-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (928.61 KB - PDF)
+latviešu valoda (LV) (1 MB - PDF)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+19/02/2026
 
 [View](/lv/documents/product-information/evfraxy-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (974.41 KB - PDF)
+lietuvių kalba (LT) (1 MB - PDF)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+19/02/2026
 
 [View](/lt/documents/product-information/evfraxy-epar-product-information_lt.pdf)
 
-magyar (HU) (980.2 KB - PDF)
+magyar (HU) (1 MB - PDF)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+19/02/2026
 
 [View](/hu/documents/product-information/evfraxy-epar-product-information_hu.pdf)
 
-Malti (MT) (1.11 MB - PDF)
+Malti (MT) (1.12 MB - PDF)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+19/02/2026
 
 [View](/mt/documents/product-information/evfraxy-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1006.95 KB - PDF)
+Nederlands (NL) (1.01 MB - PDF)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+19/02/2026
 
 [View](/nl/documents/product-information/evfraxy-epar-product-information_nl.pdf)
 
-norsk (NO) (926.35 KB - PDF)
+norsk (NO) (971.33 KB - PDF)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+19/02/2026
 
 [View](/no/documents/product-information/evfraxy-epar-product-information_no.pdf)
 
-polski (PL) (996.16 KB - PDF)
+polski (PL) (1.04 MB - PDF)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+19/02/2026
 
 [View](/pl/documents/product-information/evfraxy-epar-product-information_pl.pdf)
 
-português (PT) (962.71 KB - PDF)
+português (PT) (1016.8 KB - PDF)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+19/02/2026
 
 [View](/pt/documents/product-information/evfraxy-epar-product-information_pt.pdf)
 
-română (RO) (972.48 KB - PDF)
+română (RO) (1.01 MB - PDF)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+19/02/2026
 
 [View](/ro/documents/product-information/evfraxy-epar-product-information_ro.pdf)
 
-slovenčina (SK) (996.8 KB - PDF)
+slovenčina (SK) (1.03 MB - PDF)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+19/02/2026
 
 [View](/sk/documents/product-information/evfraxy-epar-product-information_sk.pdf)
 
-slovenščina (SL) (994.09 KB - PDF)
+slovenščina (SL) (1.05 MB - PDF)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+19/02/2026
 
 [View](/sl/documents/product-information/evfraxy-epar-product-information_sl.pdf)
 
-Suomi (FI) (964.58 KB - PDF)
+Suomi (FI) (987.45 KB - PDF)
 
 **First published:**
 
 21/08/2025
+
+**Last updated:**
+
+19/02/2026
 
 [View](/fi/documents/product-information/evfraxy-epar-product-information_fi.pdf)
 
-svenska (SV) (936.18 KB - PDF)
+svenska (SV) (997.75 KB - PDF)
 
 **First published:**
 
 21/08/2025
 
+**Last updated:**
+
+19/02/2026
+
 [View](/sv/documents/product-information/evfraxy-epar-product-information_sv.pdf)
 
-30/06/2025
+**Latest procedure affecting product information:** N/0000326541 16/02/2026
 
 icon globe
 
@@ -529,7 +625,7 @@ English (EN) (82.13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/evfraxy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-614)
+[Other languages (24)](#file-language-dropdown-208)
 
 български (BG) (88.41 KB - PDF)
 
@@ -757,7 +853,7 @@ Marketing authorisation holder
 
 Biosimilar Collaborations Ireland Limited
 
-Unit 35/36
+Unit 35/36 Grange Parade Baldoyle Industrial Estate Dublin 13, D13 R20R Ireland
 
 Opinion adopted 25/04/2025 Marketing authorisation issued 30/06/2025
 
@@ -768,6 +864,14 @@ Expand section
 Collapse section
 
 ## Changes since initial authorisation of medicine
+
+Evfraxy : EPAR - Procedural steps taken and scientific information after the authorisation
+
+English (EN) (148.19 KB - PDF)
+
+**First published:** 19/02/2026
+
+[View](/en/documents/procedural-steps-after/evfraxy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Evfraxy-H-C-006526-0000 : EPAR - Assessment report
 
@@ -797,7 +901,7 @@ English (EN) (155.07 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2025) 25/04/2025
 
-**This page was last updated on** 21/08/2025
+**This page was last updated on** 19/02/2026
 
 ## Share this page
 

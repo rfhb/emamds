@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-30 09:29:56
-document_pages: 109
+document_datetime: 2026-02-17 09:35:09
+document_pages: 106
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/usrenty-epar-product-information_en.pdf
 document_name: usrenty-epar-product-information_en.pdf
 version: success
-processing_time: 29.2113551
-conversion_datetime: 2025-12-19 03:29:20.431002
+processing_time: 37.2943726
+conversion_datetime: 2026-02-21 12:37:45.138358
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -69,8 +69,6 @@ Table 1:  Initial intravenous dosing of Usrenty
 | ≤ 55 kg                                        | 260 mg               |                               2 |
 | > 55 kg to ≤ 85 kg                             | 390 mg               |                               3 |
 | > 85 kg                                        | 520 mg               |                               4 |
-
-a Approximately 6 mg/kg
 
 The first subcutaneous dose should be given at week 8 following the intravenous dose. For the posology
 
@@ -200,7 +198,7 @@ No interaction studies have been performed in humans. In the population pharmaco
 
 <div style=\"page-break-after: always\"></div>
 
-on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs (Non-steroidal anti-inflammatory drugs), 6-mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to antiTNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. antiTNFα agents and/or vedolizumab) in patients with ulcerative coli tis.
+on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs (Non-steroidal anti-inflammatory drugs), 6-mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to antiTNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. antiTNFα agents and/or vedolizuma b) in patients with ulcerative colitis.
 
 The results of an in vitro study do not suggest the need for dose adjustments in patients who are receiving concomitant Cytochrome P450 (CYP450) substrates (see section 5.2).
 
@@ -532,7 +530,7 @@ EU/1/25/1973/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 17 September 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -548,7 +546,9 @@ Usrenty 45 mg solution for injection Usrenty 45 mg solution for injection in pre
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Usrenty 45 mg solution for injection Each vial contains 45 mg ustekinumab in 0.5 mL.
+Usrenty 45 mg solution for injection
+
+Each vial contains 45 mg ustekinumab in 0.5 mL.
 
 Usrenty 45 mg solution for injection in pre-filled syringe
 
@@ -865,7 +865,9 @@ Data from a moderate number of prospectively collected pregnancies following exp
 
 Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonic/foetal development, parturition or postnatal development (see section 5.3). However, the available clinical experience is limited. As a precautionary measure, it is preferable to avoid the use of ustekinumab in pregnancy.
 
-Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth.
+
+Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 ## Breast-feeding
 
@@ -1044,10 +1046,6 @@ Table 5:  Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
 | Number of patients > 100 kg     | 96                                | 58                                      | 103                                     |
 | PASI 75 response n (%)          | 43 (45%)                          | 32 (55%)                                | 67 (65%)                                |
 
-a p &lt; 0.001 for ustekinumab 45 mg or 90 mg in comparison with etanercept.
-
-b p = 0.012 for ustekinumab 45 mg in comparison with etanercept.
-
 In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with continuous treatment compared with treatment withdrawal (p &lt; 0.001). Similar results were seen with each dose of ustekinumab. At 1 year (week 52), 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of patients rerandomised to placebo (treatment withdrawal) (p &lt; 0.001). At 18 months (week 76), 84% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal). At 3 years
 
 <div style=\"page-break-after: always\"></div>
@@ -1100,9 +1098,9 @@ Table 6:  Number of patients who achieved clinical response in Psoriatic arthrit
 
 a p &lt; 0.001
 
-b p &lt; 0.05
+- b p &lt; 0.05
 
-- c p = NS
+c p = NS
 
 d Number of patients with ≥ 3% BSA psoriasis skin involvement at baseline
 
@@ -1198,11 +1196,10 @@ Table 8:  Summary of primary and secondary endpoints at week 12 and week 52
 
 | Paediatric psoriasis study (CADMUSJr.) (Age 6-11)   | Paediatric psoriasis study (CADMUSJr.) (Age 6-11)   | Paediatric psoriasis study (CADMUSJr.) (Age 6-11)   |
 |-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-|                                                     | Week 12 Recommended dose ustekinumab                | Week 52 Recommended dose of ustekinumab             |
-|                                                     | of                                                  |                                                     |
-|                                                     | n (%)                                               | n (%)                                               |
-| Patients enrolled                                   | 44                                                  | 41                                                  |
-| PGA                                                 |                                                     |                                                     |
+|                                                     | Week 12 Recommended dose of ustekinumab             | Week 52 Recommended dose of ustekinumab n (%)       |
+|                                                     | (%)                                                 |                                                     |
+|                                                     | 44                                                  | 41                                                  |
+| Patients enrolled                                   | n                                                   |                                                     |
 | PGAof cleared (0) or minimal (1)                    | 34 (77.3%)                                          | 31 (75.6%)                                          |
 | PGA of cleared (0)                                  | 17 (38.6%)                                          | 23 (56.1%)                                          |
 | PASI                                                |                                                     |                                                     |
@@ -1242,11 +1239,14 @@ Table 9:  Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
 | 70 Point Response, week 3             | 67 (27.1%)      | 101 (40.6%) b                           | 66 (31.6%)      | 106 (50.7%) a                           |
 | 70 Point Response, week 6             | 75 (30.4%)      | 109 (43.8%) b                           | 81 (38.8%)      | 135 (64.6%) a                           |
 
-Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission70 point response is defined as reduction in CDAI score by at least 70 points
+Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least
+
+100 points or being in clinical remission70 point response is defined as reduction in CDAI score by at least 70 points
 
 *    AntiTNFα failures
 
-- **  Conventional therapy failures
+**  Conventional therapy failures
+
 - a p &lt; 0.001
 - b p &lt; 0.01
 
@@ -1398,11 +1398,17 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-Usrenty 45 mg solution for injection 18 months
+Usrenty 45 mg solution for injection
 
-Usrenty 45 mg solution for injection in pre-filled syringe 3 years
+18 months
 
-Usrenty 90 mg solution for injection in pre-filled syringe 3 years
+Usrenty 45 mg solution for injection in pre-filled syringe
+
+3 years
+
+Usrenty 90 mg solution for injection in pre-filled syringe
+
+3 years
 
 Individual solution for injection in pre-filled syringes may be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled syringe is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a syringe has been stored at room temperature (up to 30°C), it should not be returned to the refrigerator. Discard the syringe if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
 
@@ -1454,13 +1460,15 @@ Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
 
 USRENTY   45 mg solution for injection EU/1/25/1973/001
 
-USRENTY   45 mg solution for injection in pre-filled syringe EU/1/25/1973/002
+USRENTY   45 mg solution for injection in pre-filled syringe
+
+EU/1/25/1973/002
 
 USRENTY    90 mg solution for injection in pre-filled syringe EU/1/25/1973/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 17 September 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1483,9 +1491,7 @@ Name and address of the manufacturer of the biological active substance
 
 ## Biocon Biologics Limited.
 
-Block No. Bl , B2, B3, B5 Q13 of Q1 and W20 &amp;
-
-Unit S 18, 1st Floor, Block B4 Special Economic Zone, Plot No.2. 3, 4 &amp; 5, Phase IV, Bommasandra-Jigani Link Road, Bommasandra Post, Bengaluru-560 099
+Block No. Bl , B2, B3, B5 Q13 of Q1 and W20 &amp; Unit S 18, 1st Floor, Block B4 Special Economic Zone, Plot No.2. 3, 4 &amp; 5, Phase IV, Bommasandra-Jigani Link Road, Bommasandra Post, Bengaluru-560 099
 
 India
 
@@ -2395,7 +2401,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Biocon Biologics Belgium BV Tél/Tel: 0080008250910
+Biocon Biologics BelgiumBV Tél/Tel: 0080008250910
 
 ## България
 
@@ -2403,11 +2409,11 @@ Biosimilar Collaborations Ireland Limited Тел: 0080008250910
 
 ## Česká republika
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics GermanyGmbH Tel: 0080008250910
 
 ## Danmark
 
-Biocon Biologics Finland OY Tlf: 0080008250910
+Biocon Biologics FinlandOY Tlf: 0080008250910
 
 ## Deutschland
 
@@ -2423,33 +2429,43 @@ Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε Τηλ.: 0080008250910
 
 ## España
 
-Biocon Biologics Spain S.L. Tel: 0080008250910
+Biocon Biologics SpainS.L. Tel: 0080008250910
 
 ## France
 
-Biocon Biologics France S.A.S Tel: 0080008250910
+Laboratoires Biogaran Tél: +33 (0) 800 970 10900
 
 ## Hrvatska
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics GermanyGmbH Tel: 0080008250910
 
 ## Ireland
 
-Biosimilar Collaborations Ireland Limited
-
-Tel: 1800 777 794
+Biosimilar Collaborations Ireland Limited Tel: 1800777 794
 
 ## Ísland
 
-Biocon Biologics Finland OY Sími: +345 800 4316
+Biocon Biologics FinlandOY Sími: +345 800 4316
 
 ## Italia
 
-Biocon Biologics Spain S.L . Tel: 0080008250910
+Biocon Biologics SpainS.L . Tel: 0080008250910
 
 ## Κύπρος
 
 Biosimilar Collaborations Ireland Limited Τηλ: 0080008250910
+
+## Latvija
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+v
+
+## This leaflet was last revised in .
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 ## Lietuva
 
@@ -2457,7 +2473,7 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Luxembourg/Luxemburg
 
-Biocon Biologics France S.A.S Tél/Tel: 0080008250910 (Belgique/Belgien)
+Biosimilar Collaborations Ireland Limited Tél/Tel: 0080008250910
 
 ## Magyarország
 
@@ -2469,15 +2485,15 @@ Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
 
 ## Nederland
 
-Biocon Biologics France S.A.S Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Norge
 
-Biocon Biologics Finland OY Tlf: +47 800 62 671
+Biocon Biologics FinlandOY Tlf: +47 800 62 671
 
 ## Österreich
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics GermanyGmbH Tel: 0080008250910
 
 ## Polska
 
@@ -2485,7 +2501,7 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Portugal
 
-Biocon Biologics Spain S.L. Tel: 0080008250910
+Biocon Biologics SpainS.L. Tel: 0080008250910
 
 ## România
 
@@ -2509,25 +2525,13 @@ Biocon Biologics Finland OY Tel: 0080008250910
 
 <div style=\"page-break-after: always\"></div>
 
-## Latvija
-
-Biosimilar Collaborations Ireland Limited
-
-Tel: 0080008250910
-
-## This leaflet was last revised in .
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
-
-The following information is intended for healthcare professionals only:
-
 ## Traceability:
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded
 
-<div style=\"page-break-after: always\"></div>
+.
+
+The following information is intended for healthcare professionals only:
 
 ## Instructions for dilution:
 
@@ -2544,8 +2548,6 @@ Usrenty concentrate for solution for infusion must be diluted, prepared and infu
 ## Storage
 
 If necessary, the diluted infusion solution may be stored at room temperature. The infusion should be completed within 12 hours of the dilution in the infusion bag. Do not freeze. Do not return to the refrigerator after dilution.
-
-.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2862,7 +2864,9 @@ Usrenty is a clear, colorless to pale yellow solution for injection. It is suppl
 
 Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
 
-## Manufacturers Biosimilar Collaborations Ireland Limited
+## Manufacturers
+
+## Biosimilar Collaborations Ireland Limited
 
 Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
 
@@ -2870,37 +2874,35 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Biocon Biologics Belgium BV Tél/Tel: 0080008250910
-
-## България
-
-Biosimilar Collaborations Ireland Limited
-
-Тел:
-
-0080008250910
-
-## Česká republika
-
-Biocon Biologics Germany GmbH
-
-Tel: 0080008250910
-
-## Danmark
-
-Biocon Biologics Finland OY Tlf: 0080008250910
-
 ## Lietuva
+
+Biocon Biologics BelgiumBV
+
+Tél/Tel: 0080008250910
 
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
+## България
+
+Biosimilar Collaborations Ireland Limited Тел: 0080008250910
+
 ## Luxembourg/Luxemburg
 
-Biocon Biologics France S.A.S Tél/Tel: 0080008250910 (Belgique/Belgien)
+Biosimilar Collaborations Ireland Limited Tél/Tel: 0080008250910
+
+## Česká republika
+
+Biocon Biologics GermanyGmbH Tel: 0080008250910
 
 ## Magyarország
 
-Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
+Biosimilar Collaborations Ireland Limited
+
+Tel.: 0080008250910
+
+## Danmark
+
+Biocon Biologics FinlandOY Tlf: 0080008250910
 
 ## Malta
 
@@ -2908,81 +2910,59 @@ Biosimilar Collaborations Ireland Limited
 
 Tel.: 0080008250910
 
-<div style=\"page-break-after: always\"></div>
-
 ## Deutschland
 
 Biocon Biologics Germany GmbH
 
 Tel: 0080008250910
 
+## Nederland
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+<div style=\"page-break-after: always\"></div>
+
 ## Eesti
 
-Biosimilar Collaborations Ireland Limited
-
-Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Ελλάδα
 
-Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ
-
-Ι.Κ.Ε
-
-Τηλ.:
-
-0080008250910
+Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε Τηλ.: 0080008250910
 
 ## España
 
-Biocon Biologics Spain S.L.
-
-Tel: 0080008250910
+Biocon Biologics SpainS.L. Tel: 0080008250910
 
 ## France
 
-Biocon Biologics France S.A.S
-
-Tel: 0080008250910
+Laboratoires Biogaran Tél: +33 (0) 800 970 10900
 
 ## Hrvatska
 
-Biocon Biologics Germany GmbH
+Biocon Biologics GermanyGmbH
 
 Tel: 0080008250910
 
 ## Ireland
 
-Biosimilar Collaborations Ireland Limited
-
-Tel: 1800 777 794
+Biosimilar Collaborations Ireland Limited Tel: 1800777 794
 
 ## Ísland
 
-Biocon Biologics Finland OY
-
-Sími: +345 800 4316
+Biocon Biologics FinlandOY Sími: +345 800 4316
 
 ## Italia
 
-Biocon Biologics Spain S.L
-
-.
-
-Tel: 0080008250910
+Biocon Biologics SpainS.L . Tel: 0080008250910
 
 ## Κύπρος
 
-Biosimilar Collaborations Ireland Limited
-
-Τηλ:
-
-0080008250910
+Biosimilar Collaborations Ireland Limited Τηλ: 0080008250910
 
 ## Latvija
 
-Biosimilar Collaborations Ireland Limited
-
-Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## This leaflet was last revised in .
 
@@ -2990,19 +2970,17 @@ Tel: 0080008250910
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
-## Nederland
-
-Biocon Biologics France S.A.S
-
-Tel: 0080008250910
-
 ## Norge
 
-Biocon Biologics Finland OY Tlf: +47 800 62 671
+Biocon Biologics FinlandOY
+
+Tlf: +47 800 62 671
 
 ## Österreich
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics GermanyGmbH
+
+Tel: 0080008250910
 
 ## Polska
 
@@ -3010,9 +2988,7 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Portugal
 
-Biocon Biologics Spain S.L.
-
-Tel: 0080008250910
+Biocon Biologics SpainS.L. Tel: 0080008250910
 
 ## România
 
@@ -3026,15 +3002,15 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 Biocon Biologics Germany GmbH Tel: 0080008250910
 
-## Suomi/Finland Biocon Biologics Finland OY
+## Suomi/Finland
+
+## Biocon Biologics Finland OY
 
 Puh/Tel: 99980008250910
 
 ## Sverige
 
-Biocon Biologics Finland OY
-
-Tel: 0080008250910
+Biocon Biologics Finland OY Tel: 0080008250910
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3436,8 +3412,7 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 <div style=\"page-break-after: always\"></div>
 
-be returned to the refrigerator. Discard the syringe if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
-
+- be returned to the refrigerator. Discard the syringe if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
 - Do not shake Usrenty pre-filled syringes. Prolonged vigorous shaking may damage the medicine.
 
 ## Do not use this medicine:
@@ -3467,27 +3442,41 @@ Usrenty is a clear, colorless to pale yellow solution for injection. It is suppl
 
 Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
 
-## Manufacturers Biosimilar Collaborations Ireland Limited
+## Manufacturers
+
+## Biosimilar Collaborations Ireland Limited
 
 Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
 
-<div style=\"page-break-after: always\"></div>
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Biocon Biologics Belgium BV Tél/Tel: 0080008250910
+Biocon Biologics BelgiumBV Tél/Tel: 0080008250910
 
 ## България
 
-Biosimilar Collaborations Ireland Limited Тел: 0080008250910
+Biosimilar Collaborations Ireland Limited
+
+## Lietuva
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## Luxembourg/Luxemburg
+
+Biosimilar Collaborations Ireland Limited Tél/Tel:
+
+Тел: 0080008250910
+
+<div style=\"page-break-after: always\"></div>
 
 ## Česká republika
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics GermanyGmbH Tel: 0080008250910
 
 ## Danmark
 
-Biocon Biologics Finland OY Tlf: 0080008250910
+Biocon Biologics FinlandOY Tlf: 0080008250910
 
 ## Deutschland
 
@@ -3503,39 +3492,43 @@ Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε Τηλ.: 0080008250910
 
 ## España
 
-Biocon Biologics Spain S.L. Tel: 0080008250910
+Biocon Biologics SpainS.L. Tel: 0080008250910
 
 ## France
 
-Biocon Biologics France S.A.S Tel: 0080008250910
+Laboratoires Biogaran Tél: +33 (0) 800 970 10900
 
 ## Hrvatska
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics GermanyGmbH Tel: 0080008250910
 
 ## Ireland
 
-Biosimilar Collaborations Ireland Limited Tel: 1800 777 794
+Biosimilar Collaborations Ireland Limited Tel: 1800777 794
 
 ## Ísland
 
-Biocon Biologics Finland OY Sími: +345 800 4316
+Biocon Biologics FinlandOY Sími: +345 800 4316
 
 ## Italia
 
-Biocon Biologics Spain S.L . Tel: 0080008250910
+Biocon Biologics SpainS.L . Tel: 0080008250910
 
 ## Κύπρος
 
 Biosimilar Collaborations Ireland Limited Τηλ: 0080008250910
 
-## Lietuva
+## Latvija
 
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
-## Luxembourg/Luxemburg
+## This leaflet was last revised in.
 
-Biocon Biologics France S.A.S Tél/Tel: 0080008250910 (Belgique/Belgien)
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+0080008250910
 
 ## Magyarország
 
@@ -3547,15 +3540,15 @@ Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
 
 ## Nederland
 
-Biocon Biologics France S.A.S Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Norge
 
-Biocon Biologics Finland OY Tlf: +47 800 62 671
+Biocon Biologics FinlandOY Tlf: +47 800 62 671
 
 ## Österreich
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics GermanyGmbH Tel: 0080008250910
 
 ## Polska
 
@@ -3563,7 +3556,7 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Portugal
 
-Biocon Biologics Spain S.L. Tel: 0080008250910
+Biocon Biologics SpainS.L. Tel: 0080008250910
 
 ## România
 
@@ -3584,20 +3577,6 @@ Puh/Tel: 99980008250910
 ## Sverige
 
 Biocon Biologics Finland OY Tel: 0080008250910
-
-<div style=\"page-break-after: always\"></div>
-
-## Latvija
-
-Biosimilar Collaborations Ireland Limited
-
-Tel: 0080008250910
-
-## This leaflet was last revised in.
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3635,9 +3614,9 @@ Preparing for use of the pre-filled syringe
 - the solution in the pre-filled syringe is not frozen.
 - Get everything together that you need and lay out on a well-lit clean and flat surface. This includes antiseptic wipes, cotton ball or gauze, and a sharps container
 
-<div style=\"page-break-after: always\"></div>
-
 ## Storage information
+
+<div style=\"page-break-after: always\"></div>
 
 Usrenty prefilled syringes must be refrigerated at 2 °C to 8 °C (36 °F to 46 °F) in the original carton to protect from light until the time of use.
 
@@ -3673,22 +3652,14 @@ Prepare the injection site
 - Choose a well-lit, clean, flat work surface.
 - Wash your hands very well with soap and warm water
 - Wipe the injection site on the skin with an antiseptic wipe
-
-Figure 3
-
-Figure 2
+- Do not touch this area again before giving the injection. Let your skin dry before injecting.
+- Remove prefilled syringe tray from carton
 
 <div style=\"page-break-after: always\"></div>
 
-- Do not touch this area again before giving the injection. Let your skin dry before injecting.
-- Remove prefilled syringe tray from carton
 - Open the tray by peeling away the cover. Hold the Needle safety guard (as shown in the Figure 4) to remove the prefilled syringe from the tray
 - Hold the prefilled syringe with the covered needle pointing upward.
-
-<!-- image -->
-
-## 3. Remove the needle cover (see Figure 5):
-
+3. Remove the needle cover (see Figure 5):
 - The needle cover should not be removed until you are ready to inject the dose
 - Pick up the pre-filled syringe, hold the body of the syringe with one hand
 - Pull the needle cover straight off and throw it away. Do not touch the plunger while you do this
@@ -3696,6 +3667,8 @@ Figure 2
 - Do not touch the needle or allow it to touch any surface
 - Do not use the pre-filled syringe if it is dropped without the needle cover in place. If this happens, please contact your doctor or pharmacist
 - lnject the dose promptly after removing the needle cover.
+
+<!-- image -->
 
 Figure5
 
@@ -3710,11 +3683,15 @@ Figure5
 
 <div style=\"page-break-after: always\"></div>
 
+## 5. After the injection:
+
+FIGURE6
+
 <!-- image -->
 
 Inject all of the medication by pushing in the plunger until the plunger head is completely between the needle guard wings (see Figure 7)
 
-FIGURE 7
+FIGURE7
 
 <!-- image -->
 
@@ -3727,8 +3704,6 @@ Slowly take your thumb off the plunger head to allow the empty syringe to move u
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-## 5. After the injection:
 
 - Press an antiseptic wipe over the injection site for a few seconds after the injection.
 - There may be a small amount of blood or liquid at the injection site. This is normal.
@@ -3750,11 +3725,9 @@ Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
 
 ## Marketed by:
 
-Biosimilar Collaborations Ireland Limited Baldoyle Industrial Estate,
+## Biosimilar Collaborations Ireland Limited
 
-Unit 35/36, Grange Parade, Dublin 13, DUBLIN Ireland, D13 R20R
-
-Revised: MM/YYYY
+Unit 35/36, Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3852,11 +3825,9 @@ Usrenty can cause serious side effects, including allergic reactions and infecti
 
 If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Usrenty.
 
-Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome
-
 <div style=\"page-break-after: always\"></div>
 
-during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
+Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
 
 ## Heart attack and strokes
 
@@ -3891,9 +3862,9 @@ Usrenty has no or negligible influence on the ability to drive and use machines.
 
 This medicine contains 0.04 mg of polysorbate 80 (E 433) in each 90mg/1mL PFS which is equivalent to 0.04 mg/mL (0.0004 mg/kg/day). Polysorbates may cause allergic reactions. Tell your doctor if you have or your child has any known allergies.
 
-## 3. How to use Usrenty
-
 <div style=\"page-break-after: always\"></div>
+
+## 3. How to use Usrenty
 
 Usrenty is intended for use under the guidance and supervision of a doctor experienced in treating conditions for which Usrenty is intended.
 
@@ -4070,31 +4041,39 @@ Usrenty is a clear, colorless to pale yellow solution for injection. It is suppl
 
 ## Biosimilar Collaborations Ireland Limited
 
-Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
+Unit 35/36 Grange Parade,
+
+Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
 
 ## Manufacturers Biosimilar Collaborations Ireland Limited
 
 Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
 
-<div style=\"page-break-after: always\"></div>
-
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Biocon Biologics Belgium BV Tél/Tel: 0080008250910
+Biocon Biologics BelgiumBV Tél/Tel: 0080008250910
 
-## България
+България
+
+## Lietuva
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+Luxembourg/Luxemburg
 
 Biosimilar Collaborations Ireland Limited Тел: 0080008250910
 
+<div style=\"page-break-after: always\"></div>
+
 ## Česká republika
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics GermanyGmbH Tel: 0080008250910
 
 ## Danmark
 
-Biocon Biologics Finland OY Tlf: 0080008250910
+Biocon Biologics FinlandOY Tlf: 0080008250910
 
 ## Deutschland
 
@@ -4110,35 +4089,43 @@ Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε Τηλ.: 0080008250910
 
 ## España
 
-Biocon Biologics Spain S.L. Tel: 0080008250910
+Biocon Biologics SpainS.L. Tel: 0080008250910
 
 ## France
 
-Biocon Biologics France S.A.S Tel: 0080008250910
+Laboratoires Biogaran Tél: +33 (0) 800 970 10900
 
 ## Hrvatska
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics GermanyGmbH Tel: 0080008250910
 
 ## Ireland
 
-Biosimilar Collaborations Ireland Limited Tel: 1800 777 794
+Biosimilar Collaborations Ireland Limited Tel: 1800777 794
 
 ## Ísland
 
-Biocon Biologics Finland OY Sími: +345 800 4316
+Biocon Biologics FinlandOY Sími: +345 800 4316
 
 ## Italia
 
-Biocon Biologics Spain S.L . Tel: 0080008250910
+Biocon Biologics SpainS.L . Tel: 0080008250910
 
-## Lietuva
+## Κύπρος
+
+Biosimilar Collaborations Ireland Limited Τηλ: 0080008250910
+
+## Latvija
 
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
-## Luxembourg/Luxemburg
+## This leaflet was last revised in.
 
-Biocon Biologics France S.A.S Tél/Tel: 0080008250910 (Belgique/Belgien)
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+Biosimilar Collaborations Ireland Limited Tél/Tel: 0080008250910
 
 ## Magyarország
 
@@ -4150,15 +4137,15 @@ Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
 
 ## Nederland
 
-Biocon Biologics France S.A.S Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Norge
 
-Biocon Biologics Finland OY Tlf: +47 800 62 671
+Biocon Biologics FinlandOY Tlf: +47 800 62 671
 
 ## Österreich
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics GermanyGmbH Tel: 0080008250910
 
 ## Polska
 
@@ -4166,7 +4153,7 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Portugal
 
-Biocon Biologics Spain S.L. Tel: 0080008250910
+Biocon Biologics SpainS.L. Tel: 0080008250910
 
 ## România
 
@@ -4182,37 +4169,13 @@ Biocon Biologics Germany GmbH Tel: 0080008250910
 
 ## Suomi/Finland
 
-Biocon Biologics Finland OY
+## Biocon Biologics Finland OY
 
 Puh/Tel: 99980008250910
 
-## Κύπρος
-
-Biosimilar Collaborations Ireland Limited
-
-Τηλ:
-
-0080008250910
-
-## Latvija
-
-Biosimilar Collaborations Ireland Limited
-
-Tel: 0080008250910
-
-<div style=\"page-break-after: always\"></div>
-
-## This leaflet was last revised in.
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
-
 ## Sverige
 
-Biocon Biologics Finland OY
-
-Tel: 0080008250910
+Biocon Biologics Finland OY Tel: 0080008250910
 
 <div style=\"page-break-after: always\"></div>
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-09-19 16:00:10
+document_datetime: 2026-02-19 15:49:55
 document_pages: 24
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/klisyri-epar-product-information_en.pdf
 document_name: klisyri-epar-product-information_en.pdf
 version: success
-processing_time: 5.3686114
-conversion_datetime: 2025-12-19 14:06:33.134844
+processing_time: 6.3336193
+conversion_datetime: 2026-02-21 13:09:52.218069
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -36,13 +36,15 @@ Each gram of ointment contains 10 mg of tirbanibulin.
 
 Each sachet contains 2.5 mg of tirbanibulin in 250 mg ointment.
 
-Excipients with known effects: Propylene glycol 890 mg/g ointment
+## Excipient with known effect
+
+Each gram of ointment contains 890 mg of propylene glycol (E1520).
 
 For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Ointment.
+Ointment
 
 White to off-white ointment.
 
@@ -56,7 +58,7 @@ Klisyri is indicated for the field treatment of non-hyperkeratotic, non-hypertro
 
 ## Posology
 
-Tirbanibulin ointment should be applied to the affected field on the face or scalp once daily for one treatment cycle of 5 consecutive days. A thin layer of ointment should be applied to cover the treatment field of up to 25cm 2 .
+Tirbanibulin ointment should be applied to the affected field on the face or scalp once daily for one treatment cycle of 5 consecutive days. A thin layer of ointment should be applied to cover the treatment field of up to 25 cm 2 .
 
 If a dose is missed, the patient should apply the ointment as soon as he/she remembers and then he/she should continue with the regular schedule. However, the ointment should not be applied more than once a day.
 
@@ -64,9 +66,9 @@ Tirbanibulin ointment should not be applied until the skin is healed from treatm
 
 Therapeutic effect can be assessed approximately 8 weeks after treatment starts. If the treated area does not show complete clearance at the follow-up examination, about 8 weeks after the treatment cycle started or thereafter, the treatment should be re-evaluated and management re-considered.
 
-No clinical data on treatment for more than 1 treatment course of 5 consecutive days are available (see section 4.4). If recurrence occurs, or new lesions develop within the treatment area, other treatment options should be considered.
-
 <div style=\"page-break-after: always\"></div>
+
+No clinical data on treatment for more than 1 treatment course of 5 consecutive days are available (see section 4.4). If recurrence occurs, or new lesions develop within the treatment area, other treatment options should be considered.
 
 ## Special populations
 
@@ -110,9 +112,9 @@ Contact with the eyes should be avoided. Tirbanibulin ointment may cause eye irr
 
 Tirbanibulin ointment must not be ingested. If accidental ingestion occurs, the patient should drink plenty of water and seek medical care.
 
-Tirbanibulin ointment should not be used on the inside of the nostrils, on the inside of the ears, or on the lips.
-
 <div style=\"page-break-after: always\"></div>
+
+Tirbanibulin ointment should not be used on the inside of the nostrils, on the inside of the ears, or on the lips.
 
 Application of tirbanibulin ointment is not recommended until the skin is healed from treatment with any previous medicinal product, procedure or surgical treatment and should not be applied to open wounds or broken skin where the skin barrier is compromised (see section 4.2).
 
@@ -134,7 +136,7 @@ Changes in the appearance of actinic keratosis could suggest progression to inva
 
 ## Propylene glycol
 
-Propylene glycol may cause skin irritation.
+This medicine contains 222.5 mg propylene glycol in each sachet which is equivalent to 890 mg/g.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -166,17 +168,17 @@ No human data on the effect of tirbanibulin ointment on fertility are available.
 
 ## 4.7 Effects on ability to drive and use machines
 
-Tirbanibulin ointment has no or negligible influence on the ability to drive and use machines.
+Klisyri has no or negligible influence on the ability to drive and use machines.
 
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
-The most frequently reported adverse reactions are local skin reactions. Local skin reactions included erythema (91%), flaking/scaling (82%), crusting (46%), swelling (39%), erosion/ulceration (12%), and vesiculation/pustulation (8%) at the application site. Furthermore, application site pruritus (9.1%) and pain (9.9%) have been reported in the treatment area.
+The most frequently reported adverse reactions are local skin reactions. Local skin reactions included erythema (91 %), flaking/scaling (82 %), crusting (46 %), swelling (39 %), erosion/ulceration (12 %), and vesiculation/pustulation (8 %) at the application site. Furthermore, application site pruritus (9.1 %) and pain (9.9 %) have been reported in the treatment area.
 
 ## Tabulated list of adverse reactions
 
-Table 1 lists the adverse reactions that were reported in clinical studies. Frequencies are defined as: very common (≥1/10 ); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (frequency cannot be estimated from the available data).
+Table 1 lists the adverse reactions that were reported in clinical studies. Frequencies are defined as: very common (≥ 1/10 ); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); not known (frequency cannot be estimated from the available data).
 
 Table 1: Adverse reactions
 
@@ -191,15 +193,15 @@ Table 1: Adverse reactions
 | General disorders and administration site conditions | Application site pruritus                          | Common      |
 | General disorders and administration site conditions | Application site vesicles (includes pustules)      | Common      |
 
-a) Application site pain includes pain, tenderness, stinging, and burning sensation at the application site.
-
 ## Description of selected adverse reactions
 
 ## Local skin reactions
 
-Most local skin reactions were transient and mild to moderate in severity. Following the application of tirbanibulin ointment, the incidences of local skin reactions with a severity grade greater than baseline were erythema (91%), flaking/scaling (82%), crusting (46%), swelling (39%), erosion/ulceration (12%), and vesiculation/pustulation (8%). Severe local skin reactions occurred at an overall incidence of 13%. Severe local skin reactions that occurred at an incidence &gt;1% were: flaking/scaling (9%), erythema (6%), and crusting (2%). None of the local skin reactions required treatment.
+Most local skin reactions were transient and mild to moderate in severity. Following the application of tirbanibulin ointment, the incidences of local skin reactions with a severity grade greater than baseline were erythema (91 %), flaking/scaling (82 %), crusting (46 %), swelling (39 %), erosion/ulceration (12 %), and vesiculation/pustulation (8 %). Severe local skin reactions occurred at an overall incidence
 
 <div style=\"page-break-after: always\"></div>
+
+of 13 %. Severe local skin reactions that occurred at an incidence &gt; 1 % were: flaking/scaling (9 %), erythema (6 %), and crusting (2 %). None of the local skin reactions required treatment.
 
 Overall, local skin reactions peaked 8 days after starting the treatment and typically resolved within 2 to 3 weeks after completion of treatment with tirbanibulin ointment.
 
@@ -231,9 +233,9 @@ Tirbanibulin disrupts microtubules by direct binding to tubulin, which induces c
 
 The efficacy and safety of tirbanibulin applied on the face or scalp for 5 consecutive days was studied in 2 pivotal randomised, double-blind, vehicle-controlled Phase III studies (KX01-AK-003 and KX01AK-004) including 702 adult patients (353 patients treated with tirbanibulin and 349 patients treated with vehicle).
 
-Patients had 4 to 8 clinically typical, visible, discrete, non-hyperkeratotic, non-hypertrophic, actinic keratosis lesions within a contiguous 25 cm 2 treatment field on the face or scalp. On each scheduled dosing day, the ointment was applied to the entire treatment field. In the tirbanibulin group, the mean age was 69 years (range 46 to 90 years) and 96% of patients had Fitzpatrick skin type I, II, or III. Efficacy, measured as complete (primary endpoint) and partial clearance rate, was assessed at day 57.
+Patients had 4 to 8 clinically typical, visible, discrete, non-hyperkeratotic, non-hypertrophic, actinic keratosis lesions within a contiguous 25 cm 2 treatment field on the face or scalp. On each scheduled dosing day, the ointment was applied to the entire treatment field. In the tirbanibulin group, the mean age was 69 years (range 46 to 90 years) and 96 % of patients had Fitzpatrick skin type I, II, or III. Efficacy, measured as complete (primary endpoint) and partial clearance rate, was assessed at day 57.
 
-At day 57, patients treated with tirbanibulin had statistically significantly higher complete and partial clearance rates than patients treated with vehicle (p&lt;0.0 001)(see Table 2). Efficacy was less in scalp lesions compared to facial lesions, though still statistically significant (see Table 3).
+At day 57, patients treated with tirbanibulin had statistically significantly higher complete and partial clearance rates than patients treated with vehicle (p&lt; 0.0001)(see Table 2). Efficacy was less in scalp lesions compared to facial lesions, though still statistically significant (see Table 3).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -248,24 +250,20 @@ Table 2: Complete and partial clearance rates at day 57, ITT population (pooled 
 ITT=Intent-to-Treat
 
 - a) Complete clearance rate was defined as the proportion of patients with no (zero) clinically visible actinic keratosis lesions in the treatment field.
-- b) Partial clearance rate was defined as the percentage of patients in whom 75% or more of the number of baseline actinic keratosis lesions in the treatment field were cleared.
-- c) p&lt;0.00 0 1; compared to vehicle by Cochran -Mantel-Hansel stratified by anatomical location and study.
+- b) Partial clearance rate was defined as the percentage of patients in whom 75 % or more of the number of baseline actinic keratosis lesions in the treatment field were cleared.
+- c) p&lt; 0.0001; compared to vehicle by Cochran-Mantel-Hansel stratified by anatomical location and study.
 
 Table 3: Complete and partial clearance rates at day 57 by anatomical location, ITT population (pooled data KX01-AK-003 and KX01-AK-004)
 
-| Location   | Complete (100%)   | Clearance Rate                        | Clearance Rate   | Partial (≥75%) Clearance Rate         | Partial (≥75%) Clearance Rate   |
-|------------|-------------------|---------------------------------------|------------------|---------------------------------------|---------------------------------|
-|            |                   | Tirbanibulin 10 mg/g ointment (N=353) | Vehicle (N=349)  | Tirbanibulin 10 mg/g ointment (N=353) | Vehicle (N=349)                 |
-| Face       | n/N               | 133/238 56%                           | 23/239 10% -     | 185/238 78% - 83%)                    | 49/239 21%                      |
-|            | %                 |                                       |                  |                                       |                                 |
-|            | (95% CI)          | (49% - 62%) a                         | (6% 14%)         | (72% a                                | (16% - 26%)                     |
-| Scalp      | n/N               | 41/115                                | 7/110            | 70/115                                | 14/110                          |
-|            | %                 | 36%                                   | 6%               | 61%                                   | 13%                             |
-|            | (95% CI)          | (27% - 45%) a                         | (3% - 13%)       | (51% - 70%) a                         | (7% - 20%)                      |
+| Location   |                | Complete (100%) Clearance Rate        | Complete (100%) Clearance Rate   | Partial (≥75%) Clearance Rate         | Partial (≥75%) Clearance Rate   |
+|------------|----------------|---------------------------------------|----------------------------------|---------------------------------------|---------------------------------|
+|            |                | Tirbanibulin 10 mg/g ointment (N=353) | Vehicle (N=349)                  | Tirbanibulin 10 mg/g ointment (N=353) | Vehicle (N=349)                 |
+| Face %     | n/N (95% CI)   | 133/238 56% (49% - 62%) a             | 23/239 10% (6% - 14%)            | 185/238 78% (72% - 83%) a             | 49/239 21% (16% - 26%)          |
+| Scalp      | n/N % (95% CI) | 41/115 36% (27% - 45%) a              | 7/110 6% (3% - 13%)              | 70/115 61% (51% - 70%) a              | 14/110 13% (7% - 20%)           |
 
-CI=confidence interval; ITT=Intent -to-Treat
+CI=confidence interval; ITT=Intent-to-Treat
 
-- a) p&lt;0.00 0 1; compared to vehicle by Cochran -Mantel-Haenszel stratified by study.
+- a) p&lt;0.0001; compared to vehicle by Cochran-Mantel-Haenszel stratified by study.
 
 In the individual studies, total and partial clearance rates at day 57 (the primary and key secondary endpoints in these studies) were statistically significantly higher in the group treated with tirbanibulin compared with the vehicle group (p≤0.0003) , both overall and by treatment location (face or scalp).
 
@@ -273,17 +271,17 @@ In the individual studies, total and partial clearance rates at day 57 (the prim
 
 A total of 204 patients achieved complete clearance of actinic keratosis lesions in the treatment field at day 57 (174 treated with tirbanibulin and 30 treated with vehicle) and were eligible for a 1-year follow-up period for safety monitoring and to evaluate sustained efficacy by assessing actinic keratosis lesions in the treatment field.
 
-After one year, the recurrence rate in patients treated with tirbanibulin was 73%. There was a higher recurrence rate for scalp lesions compared to facial lesions. Of the patients who developed recurrences, 86% had either 1 or 2 lesions. Furthermore, 48% of patients developing recurrences reported at least 1 lesion that was not identified at the time of the initial treatment (i.e., newly occurring lesions counted as recurrences).
+After one year, the recurrence rate in patients treated with tirbanibulin was 73 %. There was a higher recurrence rate for scalp lesions compared to facial lesions. Of the patients who developed recurrences, 86 % had either 1 or 2 lesions. Furthermore, 48 % of patients developing recurrences reported at least 1 lesion that was not identified at the time of the initial treatment (i.e., newly occurring lesions counted as recurrences).
 
 ## Risk of progression to squamous cell carcinoma (SCC)
 
-By day 57, there were no reports of SCC in the treatment field in patients treated with tirbanibulin (0 of 353 patients) or vehicle (0 of 349 patients). One isolated SCC in the treatment field was reported in 1 patient following the day 57 assessment ; this event was considered by the investigator not to be related to treatment with tirbanibulin.
+By day 57, there were no reports of SCC in the treatment field in patients treated with tirbanibulin (0 of 353 patients) or vehicle (0 of 349 patients). One isolated SCC in the treatment field was reported in 1 patient following the day 57 assessment; this event was considered by the investigator not to be related to treatment with tirbanibulin.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Elderly population
 
-Of the 353 patients treated with tirbanibulin in the 2 randomised, double-blind, vehicle-controlled Phase III studies conducted, 246 patients (70%) were 65 years of age or older. No overall differences in safety or efficacy were observed between younger and older patients.
+Of the 353 patients treated with tirbanibulin in the 2 randomised, double-blind, vehicle-controlled Phase III studies conducted, 246 patients (70 %) were 65 years of age or older. No overall differences in safety or efficacy were observed between younger and older patients.
 
 ## Paediatric population
 
@@ -297,7 +295,7 @@ Tirbanibulin ointment was minimally absorbed in 18 patients with actinic keratos
 
 ## Distribution
 
-The protein binding of tirbanibulin to human plasma proteins is approximately 88%.
+The protein binding of tirbanibulin to human plasma proteins is approximately 88 %.
 
 ## Biotransformation
 
@@ -317,11 +315,11 @@ No formal studies of tirbanibulin ointment in patients with hepatic or renal imp
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology and repeated dose toxicity. Tirbanibulin was a moderate contact sensitiser in animals but this was not confirmed in humans.
 
-Tirbanibulin was not mutagenic but induced chromosomal damage and micronuclei in genotoxicity studies. Detailed testing suggested that tirbanibulin is clastogenic/aneugenic and associated with a threshold, below which there is no induction of genotoxic events. In vivo , genotoxicity occurred at plasma levels &gt;20 times higher than the human exposure in the maximal use pharmacokinetic study. In embryo-foetal development studies in rats and rabbits, embryonic and foetal toxicity, including foetal malformations, occurred at multiples of 22 times and 65 times greater than human exposure in
+Tirbanibulin was not mutagenic but induced chromosomal damage and micronuclei in genotoxicity studies. Detailed testing suggested that tirbanibulin is clastogenic/aneugenic and associated with a threshold, below which there is no induction of genotoxic events. In vivo , genotoxicity occurred at plasma levels &gt; 20 times higher than the human exposure in the maximal use pharmacokinetic study.
 
 <div style=\"page-break-after: always\"></div>
 
-the maximal use pharmacokinetic human study. In a pre- and postnatal development study in rats, reductions in fertility and increased embryo-foetal lethality were seen in the offspring of treated females.
+In embryo-foetal development studies in rats and rabbits, embryonic and foetal toxicity, including foetal malformations, occurred at multiples of 22 times and 65 times greater than human exposure in the maximal use pharmacokinetic human study. In a pre- and postnatal development study in rats, reductions in fertility and increased embryo-foetal lethality were seen in the offspring of treated females.
 
 In a fertility and early embryonic development study in rats, decrease in testes weight which correlated with decreased sperm count, decreased sperm motility, increased incidences of abnormal sperm, and increased incidence of degeneration of the seminiferous epithelium, considered indicative of male fertility toxicity, occurred at multiples of 58 times greater than human exposure in the maximal use pharmacokinetic human study. However, there were no changes in male mating or fertility indices.
 
@@ -329,7 +327,7 @@ In a fertility and early embryonic development study in rats, decrease in testes
 
 ## 6.1 List of excipients
 
-Propylene glycol Glycerol monostearate 40-55
+Propylene glycol (E1520) Glycerol monostearate 40-55
 
 ## 6.2 Incompatibilities
 
@@ -359,19 +357,21 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Almirall, S.A. Ronda General Mitre, 151 08022 Barcelona Spain
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+<div style=\"page-break-after: always\"></div>
+
+## 8. MARKETING AUTHORISATION NUMBER
 
 EU/1/21/1558/001
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 16 July 2021
 
+Date of latest renewal:
+
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -386,7 +386,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer(s) responsible for batch release
+Name and address of the manufacturer responsible for batch release
 
 Almirall Hermal GmbH Scholtzstrasse 3 21465 Reinbek Germany
 
@@ -399,8 +399,6 @@ Medicinal product subject to medical prescription.
 ## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
-
-The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -435,7 +433,7 @@ The MAH shall complete, within the stated timeframe, the below measure:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON OF 10 mg/g OINTMENT
+OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -447,9 +445,11 @@ Each sachet contains 2.5 mg of tirbanibulin in 250 mg ointment.
 
 ## 3. LIST OF EXCIPIENTS
 
-Propylene glycol
+Propylene glycol (E1520)
 
 Glycerol monostearate 40-55
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -467,13 +467,13 @@ For single use only. Discard the sachet after use.
 
 To be printed on the inside of the carton lid:
 
-<!-- image -->
-
 Open the sachet Squeeze some ointment onto your fingertip Apply the ointment to the affected area Wash your hands See package leaflet for further information.
+
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -489,15 +489,15 @@ Do not refrigerate or freeze.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Almirall, S.A. Ronda General Mitre, 151 08022 Barcelona Spain
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/21/1558/001
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
@@ -509,9 +509,10 @@ Lot
 
 klisyri
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
-
 <div style=\"page-break-after: always\"></div>
+
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -638,7 +639,7 @@ This medicine is not expected to have any effect on your ability to drive or to 
 
 ## Klisyri contains propylene glycol
 
-Propylene glycol may cause skin irritation
+This medicine contains 222.5 mg propylene glycol in each sachet which is equivalent to 890 mg/g.
 
 ## 3. How to use Klisyri
 
@@ -658,11 +659,11 @@ Application instructions:
 6. Apply a thin layer of ointment evenly over the entire affected area (Figure 3).
 7. Wash your hands with soap and water immediately after applying the ointment (Figure 4).
 8. Do not wash or touch the treated area for about 8 hours. After this time, you may wash the treated area with mild soap and water.
-9. Do not cover the treated area with bandages after you have applied Klisyri.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. Repeat the above steps for each day of treatment at around the same time of the day.
+9. Do not cover the treated area with bandages after you have applied Klisyri.
+10. Repeat the above steps for each day of treatment at around the same time of the day.
 
 <!-- image -->
 
@@ -706,15 +707,15 @@ Common (may affect up to 1 in 10 people)
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
 
-## 5. How to store Klisyri
-
-Keep this medicine out of the sight and reach of children.
-
 <!-- image -->
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+## 5. How to store Klisyri
+
+Keep this medicine out of the sight and reach of children.
 
 Do not refrigerate or freeze.
 
@@ -729,7 +730,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Klisyri contains
 
 - -The active substance is tirbanibulin. Each sachet contains 2.5 mg of tirbanibulin in 250 mg ointment. Each gram of ointment contains 10 mg of tirbanibulin.
-- -The other ingredients are propylene glycol and glycerol monostearate 40-55.
+- -The other ingredients are propylene glycol (E1520) and glycerol monostearate 40-55.
 
 ## What Klisyri looks like and contents of the pack
 
@@ -751,7 +752,7 @@ Almirall N.V.
 
 Tél/Tel: +32 (0)2 771 86 37
 
-## Ísland
+Ísland
 
 Vistor hf.
 
@@ -771,7 +772,7 @@ Almirall SpA
 
 Tel.: +39 02 346181
 
-## Česká republika/Slovenská republika
+## Česká republika/ Slovenská republika
 
 Almirall s.r.o
 
@@ -783,7 +784,9 @@ Almirall ApS
 
 Tlf/ Puh/Tel: +45 70 25 75 75
 
-Nederland Almirall B.V.
+## Nederland
+
+Almirall B.V.
 
 Tel: +31 (0) 30 711 15 10
 
@@ -827,4 +830,4 @@ Tel.: +351 21 415 57 50
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu

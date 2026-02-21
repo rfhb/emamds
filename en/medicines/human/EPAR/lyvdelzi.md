@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-29 12:07:51
+document_datetime: 2026-02-20 10:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lyvdelzi.html
 document_name: lyvdelzi.html
 version: success
-processing_time: 0.1122266
-conversion_datetime: 2025-12-31 04:40:49.911248
+processing_time: 0.1000172
+conversion_datetime: 2026-02-21 13:02:58.615528
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Lyvdelzi (previously Seladelpar Gilead)
 
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 seladelpar lysine dihydrate Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +113,7 @@ English (EN) (123.64 KB - PDF)
 
 [View](/en/documents/overview/lyvdelzi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-240)
+[Other languages (22)](#file-language-dropdown-129)
 
 български (BG) (138.91 KB - PDF)
 
@@ -383,9 +381,11 @@ svenska (SV) (111.06 KB - PDF)
 
 Seladelpar Gilead : EPAR - Risk management plan
 
-English (EN) (661.8 KB - PDF)
+English (EN) (487.39 KB - PDF)
 
 **First published:** 25/02/2025
+
+**Last updated:** 20/02/2026
 
 [View](/en/documents/rmp/seladelpar-gilead-epar-risk-management-plan_en.pdf)
 
@@ -393,17 +393,17 @@ English (EN) (661.8 KB - PDF)
 
 Lyvdelzi : EPAR - Product information
 
-English (EN) (277.67 KB - PDF)
+English (EN) (454.15 KB - PDF)
 
 **First published:** 25/02/2025
 
-**Last updated:** 16/05/2025
+**Last updated:** 20/02/2026
 
 [View](/en/documents/product-information/lyvdelzi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-514)
+[Other languages (24)](#file-language-dropdown-228)
 
-български (BG) (415.43 KB - PDF)
+български (BG) (515.68 KB - PDF)
 
 **First published:**
 
@@ -411,11 +411,11 @@ English (EN) (277.67 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/bg/documents/product-information/lyvdelzi-epar-product-information_bg.pdf)
 
-español (ES) (279.4 KB - PDF)
+español (ES) (437.53 KB - PDF)
 
 **First published:**
 
@@ -423,11 +423,11 @@ español (ES) (279.4 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/es/documents/product-information/lyvdelzi-epar-product-information_es.pdf)
 
-čeština (CS) (368.87 KB - PDF)
+čeština (CS) (492.86 KB - PDF)
 
 **First published:**
 
@@ -435,11 +435,11 @@ español (ES) (279.4 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/cs/documents/product-information/lyvdelzi-epar-product-information_cs.pdf)
 
-dansk (DA) (291.53 KB - PDF)
+dansk (DA) (468.08 KB - PDF)
 
 **First published:**
 
@@ -447,11 +447,11 @@ dansk (DA) (291.53 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/da/documents/product-information/lyvdelzi-epar-product-information_da.pdf)
 
-Deutsch (DE) (252.96 KB - PDF)
+Deutsch (DE) (459.73 KB - PDF)
 
 **First published:**
 
@@ -459,11 +459,11 @@ Deutsch (DE) (252.96 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/de/documents/product-information/lyvdelzi-epar-product-information_de.pdf)
 
-eesti keel (ET) (276.14 KB - PDF)
+eesti keel (ET) (451.94 KB - PDF)
 
 **First published:**
 
@@ -471,11 +471,11 @@ eesti keel (ET) (276.14 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/et/documents/product-information/lyvdelzi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (415.76 KB - PDF)
+ελληνικά (EL) (520.29 KB - PDF)
 
 **First published:**
 
@@ -483,11 +483,11 @@ eesti keel (ET) (276.14 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/el/documents/product-information/lyvdelzi-epar-product-information_el.pdf)
 
-français (FR) (287.22 KB - PDF)
+français (FR) (464.15 KB - PDF)
 
 **First published:**
 
@@ -495,11 +495,11 @@ français (FR) (287.22 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/fr/documents/product-information/lyvdelzi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (360.26 KB - PDF)
+hrvatski (HR) (502.89 KB - PDF)
 
 **First published:**
 
@@ -507,11 +507,11 @@ hrvatski (HR) (360.26 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/hr/documents/product-information/lyvdelzi-epar-product-information_hr.pdf)
 
-íslenska (IS) (278.28 KB - PDF)
+íslenska (IS) (457.88 KB - PDF)
 
 **First published:**
 
@@ -519,11 +519,11 @@ hrvatski (HR) (360.26 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/is/documents/product-information/lyvdelzi-epar-product-information_is.pdf)
 
-italiano (IT) (285.46 KB - PDF)
+italiano (IT) (458.66 KB - PDF)
 
 **First published:**
 
@@ -531,11 +531,11 @@ italiano (IT) (285.46 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/it/documents/product-information/lyvdelzi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (362.19 KB - PDF)
+latviešu valoda (LV) (484.23 KB - PDF)
 
 **First published:**
 
@@ -543,11 +543,11 @@ latviešu valoda (LV) (362.19 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/lv/documents/product-information/lyvdelzi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (346.84 KB - PDF)
+lietuvių kalba (LT) (493.15 KB - PDF)
 
 **First published:**
 
@@ -555,11 +555,11 @@ lietuvių kalba (LT) (346.84 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/lt/documents/product-information/lyvdelzi-epar-product-information_lt.pdf)
 
-magyar (HU) (355.11 KB - PDF)
+magyar (HU) (506.12 KB - PDF)
 
 **First published:**
 
@@ -567,11 +567,11 @@ magyar (HU) (355.11 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/hu/documents/product-information/lyvdelzi-epar-product-information_hu.pdf)
 
-Malti (MT) (398.69 KB - PDF)
+Malti (MT) (517.08 KB - PDF)
 
 **First published:**
 
@@ -579,11 +579,11 @@ Malti (MT) (398.69 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/mt/documents/product-information/lyvdelzi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (287.8 KB - PDF)
+Nederlands (NL) (475.21 KB - PDF)
 
 **First published:**
 
@@ -591,11 +591,11 @@ Nederlands (NL) (287.8 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/nl/documents/product-information/lyvdelzi-epar-product-information_nl.pdf)
 
-norsk (NO) (281.38 KB - PDF)
+norsk (NO) (440.71 KB - PDF)
 
 **First published:**
 
@@ -603,11 +603,11 @@ norsk (NO) (281.38 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/no/documents/product-information/lyvdelzi-epar-product-information_no.pdf)
 
-polski (PL) (397.13 KB - PDF)
+polski (PL) (524.94 KB - PDF)
 
 **First published:**
 
@@ -615,11 +615,11 @@ polski (PL) (397.13 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/pl/documents/product-information/lyvdelzi-epar-product-information_pl.pdf)
 
-português (PT) (279.55 KB - PDF)
+português (PT) (455.8 KB - PDF)
 
 **First published:**
 
@@ -627,11 +627,11 @@ português (PT) (279.55 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/pt/documents/product-information/lyvdelzi-epar-product-information_pt.pdf)
 
-română (RO) (362.6 KB - PDF)
+română (RO) (490.52 KB - PDF)
 
 **First published:**
 
@@ -639,11 +639,11 @@ română (RO) (362.6 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/ro/documents/product-information/lyvdelzi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (354.67 KB - PDF)
+slovenčina (SK) (495.27 KB - PDF)
 
 **First published:**
 
@@ -651,11 +651,11 @@ slovenčina (SK) (354.67 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/sk/documents/product-information/lyvdelzi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (355.83 KB - PDF)
+slovenščina (SL) (511.89 KB - PDF)
 
 **First published:**
 
@@ -663,11 +663,11 @@ slovenščina (SL) (355.83 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/sl/documents/product-information/lyvdelzi-epar-product-information_sl.pdf)
 
-Suomi (FI) (287.86 KB - PDF)
+Suomi (FI) (464.72 KB - PDF)
 
 **First published:**
 
@@ -675,11 +675,11 @@ Suomi (FI) (287.86 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/fi/documents/product-information/lyvdelzi-epar-product-information_fi.pdf)
 
-svenska (SV) (274.84 KB - PDF)
+svenska (SV) (447.56 KB - PDF)
 
 **First published:**
 
@@ -687,11 +687,11 @@ svenska (SV) (274.84 KB - PDF)
 
 **Last updated:**
 
-16/05/2025
+20/02/2026
 
 [View](/sv/documents/product-information/lyvdelzi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000265714 16/05/2025
+**Latest procedure affecting product information:** R/0000290389 05/12/2025
 
 icon globe
 
@@ -717,7 +717,7 @@ English (EN) (42.89 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lyvdelzi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-792)
+[Other languages (24)](#file-language-dropdown-707)
 
 български (BG) (40.79 KB - PDF)
 
@@ -1045,7 +1045,7 @@ Gilead Sciences Ireland Unlimited Company
 
 Ida Business And Technology Park
 
-Opinion adopted 12/12/2024 Revision 3
+Opinion adopted 12/12/2024 Revision 4
 
 ## Assessment history
 
@@ -1057,11 +1057,11 @@ Collapse section
 
 Lyvdelzi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (145.27 KB - PDF)
+English (EN) (168.98 KB - PDF)
 
 **First published:** 24/03/2025
 
-**Last updated:** 16/05/2025
+**Last updated:** 20/02/2026
 
 [View](/en/documents/procedural-steps-after/lyvdelzi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1109,7 +1109,7 @@ English (EN) (155.67 KB - PDF)
 
 - [EU/3/17/1930 - orphan designation for treatment of primary biliary cholangitis](/en/medicines/human/orphan-designations/eu-3-17-1930)
 
-**This page was last updated on** 03/07/2025
+**This page was last updated on** 20/02/2026
 
 ## Share this page
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-26 15:10:31
-document_pages: 30
+document_datetime: 2026-02-17 11:33:58
+document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/arexvy-epar-product-information_en.pdf
 document_name: arexvy-epar-product-information_en.pdf
 version: success
-processing_time: 8.0147295
-conversion_datetime: 2025-12-15 01:01:34.953452
+processing_time: 11.0725178
+conversion_datetime: 2026-02-21 12:54:29.965743
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.0
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.1
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -42,13 +42,7 @@ After reconstitution, one dose (0.5 mL) contains: RSVPreF3 1  antigen 2,3
 
 3 adjuvanted with AS01E containing:
 
-plant extract Quillaja saponaria Molina, fraction 21 (QS-21)
-
-25 micrograms
-
-3-O-desacyl4' -monophosphoryl lipid A (MPL) from Salmonella minnesota
-
-25 micrograms
+plant extract Quillaja saponaria Molina, fraction 21 (QS-21) 25 micrograms 3-O-desacyl4' -monophosphoryl lipid A (MPL) from Salmonella minnesota 25 micrograms
 
 For the full list of excipients, see section 6.1.
 
@@ -64,10 +58,7 @@ The suspension is an opalescent, colourless to pale brownish liquid.
 
 ## 4.1 Therapeutic indications
 
-Arexvy is indicated for active immunisation for the prevention of lower respiratory tract disease (LRTD) caused by respiratory syncytial virus in:
-
-- adults 60 years of age and older;
-- adults 50 through 59 years of age who are at increased risk for RSV disease.
+Arexvy is indicated for active immunisation for the prevention of lower respiratory tract disease (LRTD) caused by respiratory syncytial virus in adults 18 years of age and older.
 
 The use of this vaccine should be in accordance with official recommendations.
 
@@ -81,11 +72,9 @@ The need for revaccination with a subsequent dose has not been established (see 
 
 Paediatric population
 
-The safety and efficacy of Arexvy in children have not been established.
+The safety and efficacy of Arexvy in children have not been established. No data are available.
 
 <div style=\"page-break-after: always\"></div>
-
-No data are available.
 
 ## Method of administration
 
@@ -145,7 +134,7 @@ Concomitant administration of Arexvy with other vaccines than those listed above
 
 ## Pregnancy
 
-There are no data from the use of Arexvy in pregnant women. After administration of an investigational unadjuvanted RSVPreF3 vaccine to 3 557 pregnant women in a single clinical study, an increase in preterm births was observed compared to placebo. Currently no conclusion on a causal relationship between administration of unadjuvanted RSVPreF3 and preterm birth can be drawn. Results from animal studies with Arexvy or with an investigational unadjuvanted RSVPreF3 vaccine do not indicate direct or indirect harmful effects with respect to developmental and reproductive toxicity (see section 5.3). Arexvy is not recommended during pregnancy.
+There are no data from the clinical trials on the use of Arexvy in pregnant women. After administration of an investigational unadjuvanted RSVPreF3 vaccine to 3 557 pregnant women in a single clinical study, an increase in preterm births was observed compared to placebo. Currently no conclusion on a causal relationship between administration of unadjuvanted RSVPreF3 and preterm birth can be drawn. Results from animal studies with Arexvy or with an investigational unadjuvanted RSVPreF3 vaccine do not indicate direct or indirect harmful effects with respect to developmental and reproductive toxicity (see section 5.3). Arexvy is not recommended during pregnancy.
 
 ## Breast-feeding
 
@@ -165,17 +154,19 @@ Arexvy has a minor influence on the ability to drive and use machines. Some of t
 
 ## Summary of the safety profile
 
-The safety profile presented in Table 1 is based on a pooled analysis of data generated in two placebocontrolled Phase III clinical studies (conducted in Europe, North America, Asia and Southern hemisphere) in adults ≥ 60, and 50 through 59 years of age, and on post-marketing experience.
+In a phase 3 placebo-controlled study (RSV OA=ADJ-006), participants 60 years of age and older received either one dose of Arexvy (N = 12 469) or placebo (N = 12 503), with a follow-up period of approximately 12 months. The most commonly reported adverse reactions were injection site pain (61%), fatigue (34%), myalgia (29%), headache (28%), and arthralgia (18%).
 
-In study participants 60 years of age and older (more than 12 000 adults received one dose of Arexvy and more than 12 000 received placebo, with a follow-up period of approximately 12 months), the most commonly reported adverse reactions were injection site pain (61%), fatigue (34%), myalgia (29%), headache (28%), and arthralgia (18%). These adverse reactions were usually mild or moderate in intensity and resolved within a few days after vaccination.
+In a phase 3 placebo-controlled study (RSV OA=ADJ-018) that included participants 50 through 59 years of age (N = 769), the most commonly reported adverse reactions were injection site pain (76%), fatigue (40%), myalgia (36%), headache (32%), and arthralgia (23%).
 
 <div style=\"page-break-after: always\"></div>
 
-Most other adverse reactions were uncommon and similarly reported between the study groups.
+In a phase 3 open-label study (RSV OA=ADJ-025) that included participants 18 through 49 years of age (N = 1 029), the most commonly reported adverse reactions were injection site pain (76%), fatigue (60%), myalgia (60%), headache (44%), and arthralgia (28%).
 
-In study participants 50 through 59 years of age (769 participants, including 386 participants with predefined, stable, chronic medical conditions leading to an increased risk for RSV disease), a higher incidence of injection site pain (76%), fatigue (40%), myalgia (36%), headache (32%), and arthralgia (23%) was observed, compared with those 60 years of age and older (381 participants) in the same study. However, the duration and severity of these events were comparable across age groups in the study.
+Across the three studies, these adverse reactions were usually mild or moderate in intensity and resolved within a few days after vaccination.
 
 ## Tabulated list of adverse reactions
+
+The safety profile presented in Table 1 is based on data from phase 3 clinical studies (RSV OA=ADJ-006, -018 and -025) conducted in Europe, North America, Asia and Southern hemisphere in adults ≥ 18 years of age, and on post-marketing experience.
 
 Adverse reactions are listed below by MedDRA system organ class and frequency.
 
@@ -203,27 +194,23 @@ Not known
 
 (Cannot be estimated from the available data)
 
-Table 1 presents adverse reactions observed in clinical trials as well as adverse reactions which have been spontaneously reported during the post-marketing use of Arexvy worldwide.
+## Table 1. Adverse reactions
+
+| System Organ Class                                   | Frequency   | Adverse reactions                                               |
+|------------------------------------------------------|-------------|-----------------------------------------------------------------|
+| Blood and lymphatic system disorders                 | Uncommon    | lymphadenopathy                                                 |
+| Immune system disorders                              | Uncommon    | hypersensitivity reactions (such as rash)                       |
+| Nervous system disorders                             | Very common | headache                                                        |
+| Nervous system disorders                             | Very rare   | Guillain-Barré syndrome                                         |
+| Gastrointestinal disorders                           | Uncommon    | nausea, abdominal pain, vomiting                                |
+| Musculoskeletal and connective tissue disorders      | Very common | myalgia, arthralgia                                             |
+| General disorders and administration site conditions | Very common | injection site pain, fatigue                                    |
+| General disorders and administration site conditions | Common      | injection site erythema, injection site swelling, fever, chills |
+| General disorders and administration site conditions | Uncommon    | injection site pruritus                                         |
+| General disorders and administration site conditions | Uncommon    | pain, malaise                                                   |
+| General disorders and administration site conditions | Not known   | injection site necrosis 1                                       |
 
 <div style=\"page-break-after: always\"></div>
-
-Table 1. Adverse reactions
-
-| System Organ Class                                   | Frequency   | Adverse reactions                                     |
-|------------------------------------------------------|-------------|-------------------------------------------------------|
-| Blood and lymphatic system disorders                 | Uncommon    | lymphadenopathy                                       |
-| Immune system disorders                              | Uncommon    | hypersensitivity reactions (such as rash)             |
-| Nervous system disorders                             | Very common | headache                                              |
-| Nervous system disorders                             | Very rare   | Guillain-Barré syndrome                               |
-| Gastrointestinal disorders                           | Uncommon    | nausea, abdominal pain, vomiting                      |
-| Musculoskeletal and connective tissue disorders      | Very common | myalgia, arthralgia                                   |
-| General disorders and administration site conditions | Very common | injection site pain, injection site erythema, fatigue |
-| General disorders and administration site conditions | Common      | injection site swelling, fever, chills                |
-| General disorders and administration site conditions | Uncommon    | injection site pruritus                               |
-| General disorders and administration site conditions | Uncommon    | pain, malaise                                         |
-| General disorders and administration site conditions | Not known   | injection site necrosis 1                             |
-
-1 Adverse reaction from spontaneous reporting.
 
 ## Description of selected adverse reactions
 
@@ -243,69 +230,61 @@ No case of overdose has been reported in the clinical studies.
 
 Pharmacotherapeutic group: Vaccines, other viral vaccines, ATC code: J07BX05.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Mechanism of action
 
 By combining the RSV-specific antigen, F-protein in prefusion conformation, with an adjuvant system (AS01E), Arexvy is designed to enhance antigen-specific cellular immune response and neutralizing antibodies response in individuals with pre-existing immunity against RSV. The adjuvant AS01E facilitates the recruitment and activation of antigen presenting cells carrying vaccine-derived antigens in the draining lymph node, which in turn leads to the generation of RSVPreF3-specific CD4+ T cells.
 
 ## Efficacy
 
-Efficacy against RSV-associated LRTD in adults 60 years and older was evaluated for up to 3 RSV seasons in a Phase III, randomised, placebo-controlled, observer-blind clinical study conducted in 17 countries from Northern and Southern Hemispheres.
+Efficacy against RSV-associated LRTD in adults 60 years and older was evaluated for up to 3 RSV seasons in a phase 3, randomised, placebo-controlled, observer-blind clinical study conducted in 17 countries from Northern and Southern Hemispheres (RSV OA=ADJ -006).
 
 The primary population for efficacy analysis (referred to as the modified Exposed Set) included adults 60 years of age and older who received 1 dose of Arexvy or placebo and who did not report an RSVconfirmed acute respiratory illness [ARI] prior to Day 15 after vaccination.
 
-Overall, 24 960 participants were randomised equally to receive 1 dose of Arexvy (N= 12 466) or placebo (N= 12 494) during the first season. Pre-Season 2, participants who received Arexvy during the first season were re-randomised to receive placebo (N= 4 991) or a second dose of Arexvy (N= 4 966). Participants who received placebo before Season 1 received a second dose of placebo before Season 2. The participants were followed up to the end of the third RSV season (median follow-up time 30.6 months).
+Overall, 24 960 participants were randomised equally to receive 1 dose of Arexvy (N = 12 466) or placebo (N = 12 494) during the first season. Pre-Season 2, participants who received Arexvy during the first season were re-randomised to receive placebo (N = 4 991) or a second dose of Arexvy (N = 4 966). Participants who received placebo before Season 1 received a second dose of placebo before Season 2. The participants were followed up to the end of the third RSV season (median follow-up time 30.6 months).
 
 The median age of participants was 69 years (range: 59 to 102 years), with approximately 74% over 65 years of age, approximately 44% over 70 years of age and approximately 8% over 80 years of age. Approximately 52% were female.
 
 At baseline, 39.3% of participants had at least one comorbidity of interest; 19.7% of participants had an underlying cardiorespiratory condition (COPD, asthma, any chronic respiratory/pulmonary disease, or chronic heart failure) and 25.8% of participants had endocrinometabolic conditions (diabetes, advanced liver or renal disease).
 
+<div style=\"page-break-after: always\"></div>
+
 Confirmed RSV cases were determined by quantitative Reverse Transcription Polymerase Chain Reaction (qRT-PCR) on nasopharyngeal swab.
 
 LRTD was defined based on the following criteria: the participant must have experienced at least 2 lower respiratory symptoms/signs including at least 1 lower respiratory sign for at least 24 hours, or experienced at least 3 lower respiratory symptoms for at least 24 hours. Lower respiratory symptoms included: new or increased sputum, new or increased cough, new or increased dyspnoea (shortness of breath). Lower respiratory signs included: new or increased wheezing, crackles/rhonchi, respiratory rate ≥ 20 respirations/min, low or decreased oxygen saturation (O2 saturation &lt; 95% or ≤ 90% if baseline is &lt; 95%) or need for oxygen supplementation.
 
-## Efficacy against RSV-associated LRTD during the first RSV season (confirmatory analysis)
+Efficacy against RSV-associated LRTD during the first RSV season (confirmatory analysis)
 
 The primary objective was to demonstrate efficacy in the prevention of a first episode of confirmed RSV-A and/or B associated LRTD during the first RSV season.
 
 Vaccine efficacy overall and by subgroups is presented in Table 2.
 
-Efficacy in preventing first RSV-associated LRTD with an onset from 15 days after vaccination compared to placebo was 82.6% (96.95% confidence interval of 57.9% to 94.1%) in participants 60 years of age and older. Vaccine efficacy against RSV-LRTD was observed through the median
-
-<div style=\"page-break-after: always\"></div>
-
-follow-up period of 6.7 months. Vaccine efficacy against RSV A-associated LRTD and RSV Bassociated LRTD was 84.6% (95% CI [32.1, 98.3]) and 80.9% (95% CI [49.4, 94.3]), respectively.
+Efficacy in preventing first RSV-associated LRTD with an onset from 15 days after vaccination compared to placebo was 82.6% (96.95% confidence interval of 57.9% to 94.1%) in participants 60 years of age and older. Vaccine efficacy against RSV-LRTD was observed through the median follow-up period of 6.7 months. Vaccine efficacy against RSV A-associated LRTD and RSV Bassociated LRTD was 84.6% (95% CI [32.1, 98.3]) and 80.9% (95% CI [49.4, 94.3]), respectively.
 
 Table 2. Efficacy analysis during the first RSV season (confirmatory analysis): First RSVassociated LRTD overall, by age and co-morbidity subgroups (modified Exposed Set)
 
-|                                                      | Arexvy   | Arexvy   | Arexvy                                 | Placebo   | Placebo   | Placebo                                | %Efficacy a       |
+|                                                      | Arexvy   | Arexvy   | Arexvy                                 | Placebo   | Placebo   | Placebo                                | %Efficacy         |
 |------------------------------------------------------|----------|----------|----------------------------------------|-----------|-----------|----------------------------------------|-------------------|
-| Subgroup                                             | N        | n        | Incidence rate per 1 000 person- years | N         | n         | Incidence rate per 1 000 person- years | (CI)              |
+| Subgroup                                             | N        | n        | Incidence rate per 1 000 person- years | N         | n         | Incidence rate per 1 000 person- years | (CI) a            |
 | Overall (≥ 60 years) b                               | 12 466   | 7        | 1.0                                    | 12 494    | 40        | 5.8                                    | 82.6 (57.9, 94.1) |
 | 60-69 years                                          | 6 963    | 4        | 1.0                                    | 6 979     | 21        | 5.5                                    | 81.0 (43.6, 95.3) |
 | 70-79 years                                          | 4 487    | 1        | 0.4                                    | 4 487     | 16        | 6.5                                    | 93.8 (60.2, 99.9) |
 | Participants with at least 1 comorbidity of interest | 4 937    | 1        | 0.4                                    | 4 861     | 18        | 6.6                                    | 94.6 (65.9, 99.9) |
 
-a CI = Confidence Interval (96.95% for the overall (≥ 60 years) and 95% for all subgroup analyses).
-
-Two-sided exact CI for vaccine efficacy is derived based on Poisson model adjusted by age categories and regions.
-
 b Confirmatory objective with pre-specified success criterion of lower limit of the 2-sided CI for vaccine efficacy above 20%
 
-N = Number of participants included in each group n = Number of participants having first occurrence of RSV-confirmed LRTD occurring from Day 15 post vaccination
+N = Number of participants included in each group
+
+n = Number of participants having first occurrence of RSV-confirmed LRTD occurring from Day 15 post vaccination
+
+<div style=\"page-break-after: always\"></div>
 
 Vaccine efficacy in the subgroup of participants 80 years of age and older (1 016 participants in Arexvy vs 1 028 participants in placebo) cannot be reliably estimated due to the low number of total cases accrued (5 cases).
 
 Amongst 18 RSV-LRTD cases with at least 2 lower respiratory signs or preventing everyday activities, 4 cases of severe RSV-LRTD requiring oxygen supplementation occurred in the placebo group compared to none in the Arexvy group.
 
-Efficacy against RSV-associated LRTD over 2 RSV seasons and over 3 RSV seasons
+## Efficacy against RSV-associated LRTD over 2 RSV seasons and over 3 RSV seasons
 
-Participants 60 years of age and older who received 1 dose of Arexvy or placebo were followed over 3 RSV seasons (up to the end of the second and third seasons in the Northern Hemisphere), with a median follow-up time of 17.8 months over 2 RSV seasons and 30.6 months over 3 RSV seasons.
-
-<div style=\"page-break-after: always\"></div>
-
-Vaccine efficacy against RSV-associated LRTD over 2 RSV seasons was 67.2% (97.5% CI [48.2, 80.0]) and over 3 RSV seasons was 62.9% (97.5% CI [46.7, 74.8]).
+Participants 60 years of age and older who received 1 dose of Arexvy or placebo (RSV OA=ADJ-006) were followed over 3 RSV seasons (up to the end of the second and third seasons in the Northern Hemisphere), with a median follow-up time of 17.8 months over 2 RSV seasons and 30.6 months over 3 RSV seasons. Vaccine efficacy against RSV-associated LRTD over 2 RSV seasons was 67.2% (97.5% CI [48.2, 80.0]) and over 3 RSV seasons was 62.9% (97.5% CI [46.7, 74.8]).
 
 Vaccine efficacy against RSV A-associated LRTD and RSV B-associated LRTD over 3 RSV seasons was 69.8% (97.5% CI [42.2, 85.7]) and 58.6% (97.5% CI [35.9, 74.1]), respectively.
 
@@ -313,31 +292,39 @@ Vaccine efficacy against RSV-associated LRTD was similar in the subgroup of part
 
 A second dose of vaccine administered 12 months after the first dose did not confer additional efficacy benefit.
 
-Immunogenicity in adults 50 through 59 years of age at increased risk for RSV disease
+## Immunogenicity in adults 18 through 59 years of age
 
-The non-inferiority of the immune response to Arexvy in adults 50 through 59 years of age compared to adults 60 years of age and older, where vaccine efficacy against RSV-associated LRTD was demonstrated, was evaluated in a Phase III, observer-blind, randomised, placebo-controlled study.
+The non-inferiority of the immune response to Arexvy in adults 18 through 59 years of age compared to adults 60 years of age and older, where vaccine efficacy against RSV-associated LRTD was demonstrated, was evaluated in two studies. The first was a phase 3, observer-blind, randomised, placebo-controlled study (RSV OA=ADJ-018), and the second was a phase 3, open-label study (RSV OA=ADJ-025).
 
-Cohort 1 consisted of participants 50 through 59 years of age separated in 2 sub-cohorts (Adults-AIR and Adults-non-AIR) according to their medical history. Adults-AIR (adults at increased risk) subcohort consisted of participants with pre-defined, stable, chronic medical conditions leading to an increased risk for RSV disease (Arexvy, N= 386; placebo, N= 191) such as chronic pulmonary disease, chronic cardiovascular disease, diabetes, chronic kidney or liver disease. Adults-non-AIR subcohort consisted of participants without pre-defined, stable, chronic medical conditions (Arexvy, N= 383; placebo, N= 192). Cohort 2 (OA; older adults) consisted of participants 60 years of age and older (Arexvy, N= 381).
+In the first study (RSV OA=ADJ-018), Cohort 1 consisted of participants 50 through 59 years of age separated in 2 sub-cohorts (Adults-AIR and Adults-non-AIR) according to their medical history. Adults-AIR (adults at increased risk) sub-cohort consisted of participants with pre-defined, stable, chronic medical conditions leading to an increased risk for RSV disease (Arexvy, N = 386; placebo, N = 191) such as chronic pulmonary disease, chronic cardiovascular disease, diabetes, chronic kidney or liver disease. Adults-non-AIR sub-cohort consisted of participants without pre-defined, stable, chronic medical conditions (Arexvy, N = 383; placebo, N = 192). Cohort 2 (OA; older adults) consisted of participants 60 years of age and older (Arexvy, N = 381) (Table 3).
 
-The primary immunogenicity objectives were to demonstrate non-inferiority of the humoral immune response (in terms of RSV-A and RSV-B neutralising titres) following the administration of Arexvy at 1-month post-vaccination in participants 50 through 59 years of age with and without pre-defined, stable, chronic medical conditions leading to an increased risk for RSV disease, compared to participants 60 years of age and older.
+The second study (RSV OA=ADJ-025) consisted of participants 18 through 49 years of age with predefined, stable, chronic medical conditions leading to an increased risk for RSV disease such as chronic pulmonary disease, chronic cardiovascular disease, diabetes, chronic kidney or liver disease, or neurological or neuromuscular disease (total N = 1 029; 426 of whom were part of the immunogenicity subset), and participants 60 years of age and older (N = 429). All study participants received one dose of Arexvy (Table 4).
+
+The primary immunogenicity objectives were to demonstrate non-inferiority of the humoral immune response (in terms of RSV-A and RSV-B neutralising titres) following the administration of Arexvy at 1-month post-vaccination in participants 50 through 59 years of age with or without pre-defined, stable, chronic medical conditions leading to an increased risk for RSV disease, and participants 18 through 49 years of age with pre-defined, stable, chronic medical conditions leading to an increased risk for RSV disease, compared to participants 60 years of age and older.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 3. Summary  of  adjusted  GMT  and  SRR  values,  and  adjusted  GMT  ratios  and  SRR differences in terms of RSV-A and RSV-B neutralising titres (ED60) in adults 60 years of age and older (OA) relative to adults 50 through 59 years of age with (Adults-AIR) and without (Adultsnon-AIR) pre-defined, stable, chronic medical conditions a  leading to an increased risk for RSV disease -Per Protocol Set
+The non-inferiority criteria of the immune responses for the RSV-A and RSV-B neutralising titres were met in both age groups. The efficacy of Arexvy, in adults 18 through 59 years of age, can be inferred from vaccine efficacy demonstrated in adults 60 years of age and older.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 3. Summary  of  adjusted  GMT  and  SRR  values,  and  adjusted  GMT  ratios  and  SRR differences in terms of RSV-A and RSV-B neutralising titres (ED60) in adults 60 years of age and older (OA) relative to adults 50 through 59 years of age with (Adults-AIR) or without (Adultsnon-AIR) pre-defined, stable, chronic medical conditions a  leading to an increased risk for RSV disease -Per Protocol Set
 
 | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   |
 |------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
-|                                    | AdjustedGMT (95% CI)               | Adjusted GMTratio (95% CI) b       | SRR (%) (95% CI)                   | SRR difference (95% CI) c          |
-| OA                                 | 7 440.1 (6 768.4, 8 178.5)         | 0.8 (0.7, 1.0)                     | 80.4 (75.8, 84.5)                  | -6.5 (-12.1, -0.9)                 |
-| Adults- AIR                        | 8 922.7 (8 118.2, 9 806.9)         | 0.8 (0.7, 1.0)                     | 86.9 (82.8, 90.3)                  | -6.5 (-12.1, -0.9)                 |
-| OA                                 | 7 492.6 (6 819.1, 8 232.7)         | 1.0 (0.8, 1.1)                     | 80.4 (75.8, 84.5)                  | -2.4 (-8.3, 3.5)                   |
-| Adults- non-AIR                    | 7 893.5 (7 167.5, 8 692.9)         | 1.0 (0.8, 1.1)                     | 82.8 (78.3, 86.8)                  | -2.4 (-8.3, 3.5)                   |
+|                                    | AdjustedGMT (95% CI)               | AdjustedGMT ratio (95% CI) b       | SRR (%) (95% CI)                   | SRR difference (95% CI) c          |
+| OA (≥ 60 years)                    | 7 440.1 (6 768.4, 8 178.5)         | 0.83 (0.73, 0.95)                  | 80.4 (75.8, 84.5)                  | -6.5 (-12.1, -0.9)                 |
+| Adults-AIR (50-59 years)           | 8 922.7 (8 118.2, 9 806.9)         | 0.83 (0.73, 0.95)                  | 86.9 (82.8, 90.3)                  | -6.5 (-12.1, -0.9)                 |
+| OA (≥ 60 years)                    | 7 492.6 (6 819.1, 8 232.7)         | 0.95 (0.83, 1.09)                  | 80.4 (75.8, 84.5)                  | -2.4 (-8.3, 3.5)                   |
+| Adults-non-AIR (50-59 years)       | 7 893.5 (7 167.5, 8 692.9)         | 0.95 (0.83, 1.09)                  | 82.8 (78.3, 86.8)                  | -2.4 (-8.3, 3.5)                   |
 | RSV-B neutralising titres (ED60)   | RSV-B neutralising titres (ED60)   | RSV-B neutralising titres (ED60)   | RSV-B neutralising titres (ED60)   | RSV-B neutralising titres (ED60)   |
-|                                    | AdjustedGMT (95% CI)               | Adjusted GMTratio b                | SRR (95% CI)                       | SRR difference c                   |
-| OA (7                              | 8 062.8 395.9, 8 789.9)            | 0.8 (95% CI [0.7, 0.9])            | 74.5 (69.5, 79.0)                  | -7.2 (95% CI [-13.3, -0.9])        |
-| Adults- AIR                        | 10 054.7 (9 225.4, 10 958.7)       | 0.8 (95% CI [0.7, 0.9])            | 81.6 (77.1, 85.6)                  | -7.2 (95% CI [-13.3, -0.9])        |
-| OA                                 | 8 058.2 (7 373.1, 8 807.0)         | 0.9 (97.5% CI [0.8, 1.0])          | 74.5 (69.5, 79.0)                  | -3.7 (97.5% CI [-11.1, 3.7])       |
-| Adults- non-AIR                    | 9 009.5 (8 226.8, 9 866.6)         | 0.9 (97.5% CI [0.8, 1.0])          | 78.2 (73.3, 82.6)                  | -3.7 (97.5% CI [-11.1, 3.7])       |
+|                                    | AdjustedGMT (95% CI)               | AdjustedGMT ratio b                | SRR (95% CI)                       | SRR difference c                   |
+| OA (≥ 60 years)                    | 8 062.8 (7 395.9, 8 789.9)         | 0.80 (95% CI [0.71, 0.91])         | 74.5 (69.5, 79.0)                  | -7.2 (95% CI [-13.3, -0.9])        |
+| Adults-AIR (50-59 years)           | 10 054.7 (9 225.4, 10 958.7)       | 0.80 (95% CI [0.71, 0.91])         | 81.6 (77.1, 85.6)                  | -7.2 (95% CI [-13.3, -0.9])        |
+| OA (≥ 60 years)                    | 8 058.2 (7 373.1, 8 807.0)         | 0.89 (97.5% CI [0.77, 1.03])       | 74.5 (69.5, 79.0)                  | -3.7 (97.5% CI [-11.1, 3.7])       |
+| Adults-non-AIR (50-59 years)       | 9 009.5 (8 226.8, 9 866.6)         | 0.89 (97.5% CI [0.77, 1.03])       | 78.2 (73.3, 82.6)                  | -3.7 (97.5% CI [-11.1, 3.7])       |
+
+<div style=\"page-break-after: always\"></div>
 
 a Pre-defined, stable, chronic medical conditions such as chronic pulmonary disease, chronic cardiovascular disease, diabetes, chronic kidney or liver disease.
 
@@ -345,9 +332,25 @@ b,c The prespecified criteria for non-inferiority of the immune responses were d
 
 ED60: Estimated dilution 60; CI = Confidence interval; GMT = Geometric mean titre; SRR = Seroresponse rate
 
-<div style=\"page-break-after: always\"></div>
+Table 4. Summary  of  adjusted  GMT  and  SRR  values,  and  adjusted  GMT  ratios  and  SRR differences in terms of RSV-A and RSV-B neutralising titres (ED60) in adults 60 years of age and older (OA) relative to adults 18 through 49 years of age with pre-defined, stable, chronic medical conditions a  leading to an increased risk for RSV disease (Adults-AIR) -Per Protocol Set
 
-The non-inferiority criteria of the immune responses for the RSV-A and RSV-B neutralising titres were met. The efficacy of Arexvy, in adults 50 through 59 years of age at increased risk for RSV disease, can be inferred following comparison of the immune response in adults 50 through 59 years of age with the immune response in adults 60 years of age and older in whom vaccine efficacy was demonstrated.
+| RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   |
+|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
+|                                    | AdjustedGMT (95% CI)               | Adjusted GMTratio (95% CI) b       | SRR (%) (95% CI)                   | SRR difference (95% CI) c          |
+| OA (≥ 60 years)                    | 8 591.5 (7 902.7, 9 340.3)         | 0.72 (0.64, 0.81)                  | 77.7 (73.4, 81.6)                  | -9.4 (-14.6, -4.1)                 |
+| Adults-AIR (18-49 years)           | 11 914.6 (10 933.2, 12 984.2)      | 0.72 (0.64, 0.81)                  | 87.1 (83.3, 90.2)                  | -9.4 (-14.6, -4.1)                 |
+| RSV-B neutralising titres (ED60)   | RSV-B neutralising titres (ED60)   | RSV-B neutralising titres (ED60)   | RSV-B neutralising titres (ED60)   | RSV-B neutralising titres (ED60)   |
+|                                    | AdjustedGMT (95% CI)               | Adjusted GMTratio (95% CI) b       | SRR (95% CI)                       | SRR difference (95% CI) c          |
+| OA (≥ 60 years)                    | 9 087.6 (8 372.1, 9 864.2)         | 0.73 (0.65, 0.82)                  | 77.2 (72.9, 81.2)                  | -10.1 (-15.3, -4.8)                |
+| Adults-AIR (18-49 years)           | 12 503.4 (11 490.5, 13 605.4)      | 0.73 (0.65, 0.82)                  | 87.3 (83.6, 90.4)                  | -10.1 (-15.3, -4.8)                |
+
+a Pre-defined, stable, chronic medical conditions such as chronic pulmonary disease, chronic cardiovascular disease, diabetes, chronic kidney or liver disease, or neurological or neuromuscular disease.
+
+b,c The prespecified criteria for non-inferiority of the immune responses were defined as the 2-sided 95% CI upper limits (UL) on the adjusted GMT ratios (OA over AdultsAIR) ≤ 1.5 and the UL of the 2-sided 95% CI on the SRR difference (OA minus AdultsAIR) ≤ 10% in participants 60 years of age and older (OA) relative to participants 18 through 49 years of age with pre-defined, stable, chronic medical conditions leading to an increased risk for RSV disease (Adults-AIR).
+
+ED60: Estimated dilution 60; CI = Confidence interval; GMT = Geometric mean titre; SRR = Seroresponse rate
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -367,11 +370,11 @@ Reproductive and developmental studies in rabbits with Arexvy or with an unadjuv
 
 ## 6.1 List of excipients
 
-Powder (RSVPreF3 antigen)
+## Powder (RSVPreF3 antigen)
 
 Trehalose dihydrate Polysorbate 80 (E 433) Potassium dihydrogen phosphate (E 340) Dipotassium phosphate (E 340)
 
-## Suspension (AS01E Adjuvant System)
+Suspension (AS01E Adjuvant System)
 
 Dioleoyl phosphatidylcholine (E 322) Cholesterol Sodium chloride Disodium phosphate, anhydrous (E 339) Potassium dihydrogen phosphate (E 340) Water for injections
 
@@ -385,13 +388,13 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 3 years
 
-<div style=\"page-break-after: always\"></div>
-
 ## After reconstitution
 
 Chemical and physical in-use stability has been demonstrated for 4 hours at 2 °C -8 °C or at room temperature up to 25 °C.
 
 From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 4 hours.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.4 Special precautions for storage
 
@@ -422,9 +425,9 @@ The powder and the suspension must be reconstituted prior to administration.
 
 <!-- image -->
 
-| Antigen   | Adjuvant   |
-|-----------|------------|
-| Powder    | Suspension |
+| Antigen Powder   | Adjuvant   |
+|------------------|------------|
+|                  | Suspension |
 
 The powder and suspension should be inspected visually for any foreign particulate matter and/or variation of appearance. If either is observed, do not reconstitute the vaccine.
 
@@ -436,13 +439,13 @@ Arexvy must be reconstituted prior to administration.
 2. Add the entire contents of the syringe into the vial containing the powder.
 3. Gently swirl until the powder is completely dissolved.
 
-<div style=\"page-break-after: always\"></div>
-
 The reconstituted vaccine is an opalescent, colourless to pale brownish liquid.
 
 The reconstituted vaccine should be inspected visually for any foreign particulate matter and/or variation of appearance. If either is observed, do not administer the vaccine.
 
 Chemical and physical in-use stability has been demonstrated for 4 hours at 2 °C -8 °C or at room temperature up to 25 °C.
+
+<div style=\"page-break-after: always\"></div>
 
 From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 4 hours.
 
@@ -708,9 +711,9 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Arexvy powder and suspension for suspension for injection
 
@@ -738,9 +741,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## 1. What Arexvy is and what it is used for
 
-Arexvy is a vaccine that helps to protect adults aged 60 years and older against a virus called 'respiratory syncytial virus' (RSV).
-
-Arexvy also helps to protect against RSV in adults 50 through 59 years of age at increased risk for RSV disease.
+Arexvy is a vaccine that helps to protect adults aged 18 years and older against a virus called 'respiratory syncytial virus' (RSV).
 
 RSV is a respiratory virus that spreads very easily.
 
@@ -773,9 +774,9 @@ Do not use Arexvy if any of the above apply to you. If you are not sure, talk to
 
 Talk to your doctor, pharmacist or nurse before you receive Arexvy if:
 
-- you have ever had a severe allergic reaction after the injection of any other vaccine
-- you have a severe infection with a high temperature (fever). If this happens, the vaccination may be delayed until you feel better. A minor infection such as a cold should not be a problem but talk to your doctor first
-- you have a bleeding problem or bruise easily
+- you have ever had a severe allergic reaction after the injection of any other vaccine.
+- you have a severe infection with a high temperature (fever). If this happens, the vaccination may be delayed until you feel better. A minor infection such as a cold should not be a problem but talk to your doctor first.
+- you have a bleeding problem or bruise easily.
 - you have fainted with a previous injection - fainting can happen before or after any needle injection.
 
 If any of the above apply to you, or you are not sure, talk to your doctor or pharmacist before you have Arexvy.
@@ -836,11 +837,11 @@ Very common (these may occur with more than 1 in 10 doses of the vaccine):
 - headache
 - muscle pain (myalgia)
 - joint pain (arthralgia)
-- redness where the injection is given
 
 Common (these may occur with up to 1 in 10 doses of the vaccine):
 
 - swelling where the injection is given
+- redness where the injection is given
 - fever
 - chills
 
@@ -865,7 +866,7 @@ If any of the side effects gets serious, or if you notice any side effects not l
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
 
 <div style=\"page-break-after: always\"></div>
 

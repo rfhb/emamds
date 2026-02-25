@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-23 09:46:49
+document_datetime: 2026-02-23 15:57:09
 document_pages: 27
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/inluriyo-epar-product-information_en.pdf
 document_name: inluriyo-epar-product-information_en.pdf
 version: success
-processing_time: 6.2210567
-conversion_datetime: 2026-01-29 11:47:27.728268
+processing_time: 6.2831514
+conversion_datetime: 2026-02-25 11:56:30.559358
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
   docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -406,24 +406,51 @@ Not applicable.
 
 <div style=\"page-break-after: always\"></div>
 
-| 6.3                                                                                                                                                      | Shelf life                                                                                                                                               |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 3 years.                                                                                                                                                 | 3 years.                                                                                                                                                 |
-| 6.4                                                                                                                                                      | Special precautions for storage                                                                                                                          |
-| This medicinal product does not require any special storage conditions.                                                                                  | This medicinal product does not require any special storage conditions.                                                                                  |
-| 6.5                                                                                                                                                      | Nature and contents of container                                                                                                                         |
-| Polychlorotrifluoroethylene (PCTFE) / Polyvinylchloride (PVC) blister sealed with aluminium foil packs of 14, 28, 42, 56, 70 or 168 film-coated tablets. | Polychlorotrifluoroethylene (PCTFE) / Polyvinylchloride (PVC) blister sealed with aluminium foil packs of 14, 28, 42, 56, 70 or 168 film-coated tablets. |
-| Not all pack sizes may be marketed.                                                                                                                      | Not all pack sizes may be marketed.                                                                                                                      |
-| 6.6                                                                                                                                                      | Special precautions for disposal                                                                                                                         |
-| Any unused medicinal product or waste material should be disposed of in accordance with local requirements.                                              | Any unused medicinal product or waste material should be disposed of in accordance with local requirements.                                              |
-| 7.                                                                                                                                                       | MARKETING AUTHORISATIONHOLDER                                                                                                                            |
-| Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht The Netherlands                                                                               | Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht The Netherlands                                                                               |
-| 8.                                                                                                                                                       | MARKETING AUTHORISATION NUMBER(S)                                                                                                                        |
-| EU/1/25/2003/001 EU/1/25/2003/002 EU/1/25/2003/003 EU/1/25/2003/004 EU/1/25/2003/005 EU/1/25/2003/006                                                    | EU/1/25/2003/001 EU/1/25/2003/002 EU/1/25/2003/003 EU/1/25/2003/004 EU/1/25/2003/005 EU/1/25/2003/006                                                    |
-| 9.                                                                                                                                                       | DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION                                                                                                 |
-| Date of first authorisation:                                                                                                                             | Date of first authorisation:                                                                                                                             |
-| 10.                                                                                                                                                      | DATE OF REVISION OF THE TEXT                                                                                                                             |
-| Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu                    | Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu                    |
+## 6.3 Shelf life
+
+3 years.
+
+## 6.4 Special precautions for storage
+
+This medicinal product does not require any special storage conditions.
+
+## 6.5 Nature and contents of container
+
+Polychlorotrifluoroethylene (PCTFE) / Polyvinylchloride (PVC) blister sealed with aluminium foil in packs of 14, 28, 42, 56, 70 or 168 film-coated tablets.
+
+Not all pack sizes may be marketed.
+
+## 6.6 Special precautions for disposal
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+Eli Lilly Nederland B.V.
+
+Orteliuslaan 1000 3528 BD Utrecht The Netherlands
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/25/2003/001
+
+EU/1/25/2003/002
+
+EU/1/25/2003/003
+
+EU/1/25/2003/004
+
+EU/1/25/2003/005
+
+EU/1/25/2003/006
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 09 January 2026
+
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -532,7 +559,11 @@ Discard unused contents appropriately.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht
+Eli Lilly Nederland B.V.
+
+Orteliuslaan 1000
+
+3528 BD Utrecht
 
 The Netherlands
 
@@ -810,7 +841,7 @@ Not all the pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## Manufacturer
 

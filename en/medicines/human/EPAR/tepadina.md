@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 07:54:08
+document_datetime: 2026-02-24 14:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tepadina.html
 document_name: tepadina.html
 version: success
-processing_time: 0.127923
-conversion_datetime: 2025-12-30 03:20:04.706157
+processing_time: 0.1186343
+conversion_datetime: 2026-02-25 11:40:36.023848
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Tepadina
 
 [RSS](/en/individual-human-medicine.xml/65839)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 thiotepa Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +119,7 @@ English (EN) (87.78 KB - PDF)
 
 [View](/en/documents/overview/tepadina-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-41)
+[Other languages (22)](#file-language-dropdown-151)
 
 български (BG) (117.1 KB - PDF)
 
@@ -401,17 +399,17 @@ English (EN) (1.44 MB - PDF)
 
 Tepadina : EPAR - Product Information
 
-English (EN) (2.05 MB - PDF)
+English (EN) (1.59 MB - PDF)
 
 **First published:** 06/05/2010
 
-**Last updated:** 07/10/2025
+**Last updated:** 24/02/2026
 
 [View](/en/documents/product-information/tepadina-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-994)
+[Other languages (24)](#file-language-dropdown-509)
 
-български (BG) (2.16 MB - PDF)
+български (BG) (2.02 MB - PDF)
 
 **First published:**
 
@@ -419,11 +417,11 @@ English (EN) (2.05 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/bg/documents/product-information/tepadina-epar-product-information_bg.pdf)
 
-español (ES) (2.23 MB - PDF)
+español (ES) (2.15 MB - PDF)
 
 **First published:**
 
@@ -431,11 +429,11 @@ español (ES) (2.23 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/es/documents/product-information/tepadina-epar-product-information_es.pdf)
 
-čeština (CS) (2.39 MB - PDF)
+čeština (CS) (1.92 MB - PDF)
 
 **First published:**
 
@@ -443,11 +441,11 @@ español (ES) (2.23 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/cs/documents/product-information/tepadina-epar-product-information_cs.pdf)
 
-dansk (DA) (2.15 MB - PDF)
+dansk (DA) (2.04 MB - PDF)
 
 **First published:**
 
@@ -455,11 +453,11 @@ dansk (DA) (2.15 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/da/documents/product-information/tepadina-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.82 MB - PDF)
+Deutsch (DE) (2.07 MB - PDF)
 
 **First published:**
 
@@ -467,11 +465,11 @@ Deutsch (DE) (1.82 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/de/documents/product-information/tepadina-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.26 MB - PDF)
+eesti keel (ET) (2.14 MB - PDF)
 
 **First published:**
 
@@ -479,11 +477,11 @@ eesti keel (ET) (2.26 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/et/documents/product-information/tepadina-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.84 MB - PDF)
+ελληνικά (EL) (2.43 MB - PDF)
 
 **First published:**
 
@@ -491,11 +489,11 @@ eesti keel (ET) (2.26 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/el/documents/product-information/tepadina-epar-product-information_el.pdf)
 
-français (FR) (2.31 MB - PDF)
+français (FR) (2.21 MB - PDF)
 
 **First published:**
 
@@ -503,11 +501,11 @@ français (FR) (2.31 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/fr/documents/product-information/tepadina-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.48 MB - PDF)
+hrvatski (HR) (2.39 MB - PDF)
 
 **First published:**
 
@@ -515,11 +513,11 @@ hrvatski (HR) (2.48 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/hr/documents/product-information/tepadina-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.31 MB - PDF)
+íslenska (IS) (1.64 MB - PDF)
 
 **First published:**
 
@@ -527,11 +525,11 @@ hrvatski (HR) (2.48 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/is/documents/product-information/tepadina-epar-product-information_is.pdf)
 
-italiano (IT) (2.15 MB - PDF)
+italiano (IT) (2.02 MB - PDF)
 
 **First published:**
 
@@ -539,11 +537,11 @@ italiano (IT) (2.15 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/it/documents/product-information/tepadina-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.38 MB - PDF)
+latviešu valoda (LV) (2.27 MB - PDF)
 
 **First published:**
 
@@ -551,11 +549,11 @@ latviešu valoda (LV) (2.38 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/lv/documents/product-information/tepadina-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.53 MB - PDF)
+lietuvių kalba (LT) (2.44 MB - PDF)
 
 **First published:**
 
@@ -563,11 +561,11 @@ lietuvių kalba (LT) (2.53 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/lt/documents/product-information/tepadina-epar-product-information_lt.pdf)
 
-magyar (HU) (2.65 MB - PDF)
+magyar (HU) (2.52 MB - PDF)
 
 **First published:**
 
@@ -575,11 +573,11 @@ magyar (HU) (2.65 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/hu/documents/product-information/tepadina-epar-product-information_hu.pdf)
 
-Malti (MT) (2.4 MB - PDF)
+Malti (MT) (2.28 MB - PDF)
 
 **First published:**
 
@@ -587,11 +585,11 @@ Malti (MT) (2.4 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/mt/documents/product-information/tepadina-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.29 MB - PDF)
+Nederlands (NL) (2.18 MB - PDF)
 
 **First published:**
 
@@ -599,11 +597,11 @@ Nederlands (NL) (2.29 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/nl/documents/product-information/tepadina-epar-product-information_nl.pdf)
 
-norsk (NO) (2.19 MB - PDF)
+norsk (NO) (2.11 MB - PDF)
 
 **First published:**
 
@@ -611,11 +609,11 @@ norsk (NO) (2.19 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/no/documents/product-information/tepadina-epar-product-information_no.pdf)
 
-polski (PL) (2.57 MB - PDF)
+polski (PL) (2.52 MB - PDF)
 
 **First published:**
 
@@ -623,11 +621,11 @@ polski (PL) (2.57 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/pl/documents/product-information/tepadina-epar-product-information_pl.pdf)
 
-português (PT) (2.25 MB - PDF)
+português (PT) (2.13 MB - PDF)
 
 **First published:**
 
@@ -635,11 +633,11 @@ português (PT) (2.25 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/pt/documents/product-information/tepadina-epar-product-information_pt.pdf)
 
-română (RO) (2.35 MB - PDF)
+română (RO) (2.22 MB - PDF)
 
 **First published:**
 
@@ -647,11 +645,11 @@ română (RO) (2.35 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/ro/documents/product-information/tepadina-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.55 MB - PDF)
+slovenčina (SK) (2.1 MB - PDF)
 
 **First published:**
 
@@ -659,11 +657,11 @@ slovenčina (SK) (2.55 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/sk/documents/product-information/tepadina-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.52 MB - PDF)
+slovenščina (SL) (2.44 MB - PDF)
 
 **First published:**
 
@@ -671,11 +669,11 @@ slovenščina (SL) (2.52 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/sl/documents/product-information/tepadina-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.98 MB - PDF)
+Suomi (FI) (1.87 MB - PDF)
 
 **First published:**
 
@@ -683,11 +681,11 @@ Suomi (FI) (1.98 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/fi/documents/product-information/tepadina-epar-product-information_fi.pdf)
 
-svenska (SV) (2.11 MB - PDF)
+svenska (SV) (1.99 MB - PDF)
 
 **First published:**
 
@@ -695,11 +693,11 @@ svenska (SV) (2.11 MB - PDF)
 
 **Last updated:**
 
-07/10/2025
+24/02/2026
 
 [View](/sv/documents/product-information/tepadina-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000271832 24/07/2025
+**Latest procedure affecting product information:** VR/0000316469 23/02/2026
 
 icon globe
 
@@ -725,7 +723,7 @@ English (EN) (19.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tepadina-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-29)
+[Other languages (24)](#file-language-dropdown-963)
 
 български (BG) (92.7 KB - PDF)
 
@@ -1035,7 +1033,7 @@ ADIENNE S.r.l. S.U.
 
 Via Galileo Galilei, 19
 
-Opinion adopted 17/12/2009 Marketing authorisation issued 15/03/2010 Revision 23
+Opinion adopted 17/12/2009 Marketing authorisation issued 15/03/2010 Revision 24
 
 ## Assessment history
 
@@ -1047,9 +1045,11 @@ Collapse section
 
 Tepadina : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (142.25 KB - PDF)
+English (EN) (151.29 KB - PDF)
 
 **First published:** 07/10/2025
+
+**Last updated:** 24/02/2026
 
 [View](/en/documents/procedural-steps-after/tepadina-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1089,7 +1089,7 @@ English (EN) (32.34 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-tepadina_en.pdf)
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1101,7 +1101,7 @@ English (EN) (2.17 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/tepadina-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-565)
+[Other languages (24)](#file-language-dropdown-237)
 
 български (BG) (3.87 MB - DOC)
 
@@ -1295,19 +1295,19 @@ svenska (SV) (1.95 MB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/tepadina-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Tepadina
+## More information on Tepadina
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](/en/medicines/human/orphan-designations/eu306424) on 29 January 2007. Tepadina was withdrawn from the Community register of orphan medicinal products in March 2020 at the end of the 10-year period of market exclusivity.
 
-#### More information on Tepadina
+## More information on Tepadina
 
 - [Tepadina - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/tepadina)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 07/10/2025
+**This page was last updated on** 24/02/2026
 
 ## Share this page
 

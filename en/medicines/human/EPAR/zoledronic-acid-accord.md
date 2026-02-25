@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 12:52:14
+document_datetime: 2026-02-24 16:12:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zoledronic-acid-accord.html
 document_name: zoledronic-acid-accord.html
 version: success
-processing_time: 0.1214139
-conversion_datetime: 2025-12-31 05:28:16.23188
+processing_time: 0.1207805
+conversion_datetime: 2026-02-25 11:39:52.240632
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Zoledronic Acid Accord
 
 [RSS](/en/individual-human-medicine.xml/66457)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 zoledronic acid Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +103,7 @@ English (EN) (76.68 KB - PDF)
 
 [View](/en/documents/overview/zoledronic-acid-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-928)
+[Other languages (22)](#file-language-dropdown-255)
 
 български (BG) (110.07 KB - PDF)
 
@@ -383,17 +381,17 @@ English (EN) (261.61 KB - PDF)
 
 Zoledronic Acid Accord : EPAR - Product Information
 
-English (EN) (389 KB - PDF)
+English (EN) (463.3 KB - PDF)
 
 **First published:** 06/02/2014
 
-**Last updated:** 02/05/2025
+**Last updated:** 24/02/2026
 
 [View](/en/documents/product-information/zoledronic-acid-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-363)
+[Other languages (24)](#file-language-dropdown-869)
 
-български (BG) (634.31 KB - PDF)
+български (BG) (671.42 KB - PDF)
 
 **First published:**
 
@@ -401,11 +399,11 @@ English (EN) (389 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+24/02/2026
 
 [View](/bg/documents/product-information/zoledronic-acid-accord-epar-product-information_bg.pdf)
 
-español (ES) (573.58 KB - PDF)
+español (ES) (482.42 KB - PDF)
 
 **First published:**
 
@@ -413,11 +411,11 @@ español (ES) (573.58 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+24/02/2026
 
 [View](/es/documents/product-information/zoledronic-acid-accord-epar-product-information_es.pdf)
 
-čeština (CS) (653.74 KB - PDF)
+čeština (CS) (673.79 KB - PDF)
 
 **First published:**
 
@@ -425,11 +423,11 @@ español (ES) (573.58 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+24/02/2026
 
 [View](/cs/documents/product-information/zoledronic-acid-accord-epar-product-information_cs.pdf)
 
-dansk (DA) (557.81 KB - PDF)
+dansk (DA) (511.93 KB - PDF)
 
 **First published:**
 
@@ -437,11 +435,11 @@ dansk (DA) (557.81 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+24/02/2026
 
 [View](/da/documents/product-information/zoledronic-acid-accord-epar-product-information_da.pdf)
 
-Deutsch (DE) (554.88 KB - PDF)
+Deutsch (DE) (507.31 KB - PDF)
 
 **First published:**
 
@@ -449,11 +447,11 @@ Deutsch (DE) (554.88 KB - PDF)
 
 **Last updated:**
 
-10/11/2025
+24/02/2026
 
 [View](/de/documents/product-information/zoledronic-acid-accord-epar-product-information_de.pdf)
 
-eesti keel (ET) (591.59 KB - PDF)
+eesti keel (ET) (476.3 KB - PDF)
 
 **First published:**
 
@@ -461,11 +459,11 @@ eesti keel (ET) (591.59 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+24/02/2026
 
 [View](/et/documents/product-information/zoledronic-acid-accord-epar-product-information_et.pdf)
 
-ελληνικά (EL) (623.53 KB - PDF)
+ελληνικά (EL) (475.59 KB - PDF)
 
 **First published:**
 
@@ -473,11 +471,11 @@ eesti keel (ET) (591.59 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+24/02/2026
 
 [View](/el/documents/product-information/zoledronic-acid-accord-epar-product-information_el.pdf)
 
-français (FR) (629.59 KB - PDF)
+français (FR) (517.62 KB - PDF)
 
 **First published:**
 
@@ -485,11 +483,11 @@ français (FR) (629.59 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+24/02/2026
 
 [View](/fr/documents/product-information/zoledronic-acid-accord-epar-product-information_fr.pdf)
 
-hrvatski (HR) (567.23 KB - PDF)
+hrvatski (HR) (571.54 KB - PDF)
 
 **First published:**
 
@@ -497,11 +495,11 @@ hrvatski (HR) (567.23 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+24/02/2026
 
 [View](/hr/documents/product-information/zoledronic-acid-accord-epar-product-information_hr.pdf)
 
-íslenska (IS) (627.78 KB - PDF)
+íslenska (IS) (517.98 KB - PDF)
 
 **First published:**
 
@@ -509,11 +507,11 @@ hrvatski (HR) (567.23 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+24/02/2026
 
 [View](/is/documents/product-information/zoledronic-acid-accord-epar-product-information_is.pdf)
 
-italiano (IT) (525.57 KB - PDF)
+italiano (IT) (528.87 KB - PDF)
 
 **First published:**
 
@@ -521,11 +519,11 @@ italiano (IT) (525.57 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+24/02/2026
 
 [View](/it/documents/product-information/zoledronic-acid-accord-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (583.28 KB - PDF)
+latviešu valoda (LV) (589.94 KB - PDF)
 
 **First published:**
 
@@ -533,11 +531,11 @@ latviešu valoda (LV) (583.28 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+24/02/2026
 
 [View](/lv/documents/product-information/zoledronic-acid-accord-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (599.77 KB - PDF)
+lietuvių kalba (LT) (605.28 KB - PDF)
 
 **First published:**
 
@@ -545,11 +543,11 @@ lietuvių kalba (LT) (599.77 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+24/02/2026
 
 [View](/lt/documents/product-information/zoledronic-acid-accord-epar-product-information_lt.pdf)
 
-magyar (HU) (594.99 KB - PDF)
+magyar (HU) (616.85 KB - PDF)
 
 **First published:**
 
@@ -557,11 +555,11 @@ magyar (HU) (594.99 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+24/02/2026
 
 [View](/hu/documents/product-information/zoledronic-acid-accord-epar-product-information_hu.pdf)
 
-Malti (MT) (721.63 KB - PDF)
+Malti (MT) (760.99 KB - PDF)
 
 **First published:**
 
@@ -569,11 +567,11 @@ Malti (MT) (721.63 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+24/02/2026
 
 [View](/mt/documents/product-information/zoledronic-acid-accord-epar-product-information_mt.pdf)
 
-Nederlands (NL) (513.64 KB - PDF)
+Nederlands (NL) (494.8 KB - PDF)
 
 **First published:**
 
@@ -581,11 +579,11 @@ Nederlands (NL) (513.64 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+24/02/2026
 
 [View](/nl/documents/product-information/zoledronic-acid-accord-epar-product-information_nl.pdf)
 
-norsk (NO) (552.28 KB - PDF)
+norsk (NO) (465.23 KB - PDF)
 
 **First published:**
 
@@ -593,11 +591,11 @@ norsk (NO) (552.28 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+24/02/2026
 
 [View](/no/documents/product-information/zoledronic-acid-accord-epar-product-information_no.pdf)
 
-polski (PL) (530.04 KB - PDF)
+polski (PL) (597.25 KB - PDF)
 
 **First published:**
 
@@ -605,11 +603,11 @@ polski (PL) (530.04 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+24/02/2026
 
 [View](/pl/documents/product-information/zoledronic-acid-accord-epar-product-information_pl.pdf)
 
-português (PT) (559.81 KB - PDF)
+português (PT) (488.09 KB - PDF)
 
 **First published:**
 
@@ -617,11 +615,11 @@ português (PT) (559.81 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+24/02/2026
 
 [View](/pt/documents/product-information/zoledronic-acid-accord-epar-product-information_pt.pdf)
 
-română (RO) (585.26 KB - PDF)
+română (RO) (603.17 KB - PDF)
 
 **First published:**
 
@@ -629,11 +627,11 @@ română (RO) (585.26 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+24/02/2026
 
 [View](/ro/documents/product-information/zoledronic-acid-accord-epar-product-information_ro.pdf)
 
-slovenčina (SK) (544.07 KB - PDF)
+slovenčina (SK) (583.09 KB - PDF)
 
 **First published:**
 
@@ -641,11 +639,11 @@ slovenčina (SK) (544.07 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+24/02/2026
 
 [View](/sk/documents/product-information/zoledronic-acid-accord-epar-product-information_sk.pdf)
 
-slovenščina (SL) (517.12 KB - PDF)
+slovenščina (SL) (570.51 KB - PDF)
 
 **First published:**
 
@@ -653,11 +651,11 @@ slovenščina (SL) (517.12 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+24/02/2026
 
 [View](/sl/documents/product-information/zoledronic-acid-accord-epar-product-information_sl.pdf)
 
-Suomi (FI) (578.25 KB - PDF)
+Suomi (FI) (489.44 KB - PDF)
 
 **First published:**
 
@@ -665,11 +663,11 @@ Suomi (FI) (578.25 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+24/02/2026
 
 [View](/fi/documents/product-information/zoledronic-acid-accord-epar-product-information_fi.pdf)
 
-svenska (SV) (558.75 KB - PDF)
+svenska (SV) (483.72 KB - PDF)
 
 **First published:**
 
@@ -677,11 +675,11 @@ svenska (SV) (558.75 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+24/02/2026
 
 [View](/sv/documents/product-information/zoledronic-acid-accord-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000226953 18/03/2025
+**Latest procedure affecting product information:** VR/0000333357 23/02/2026
 
 icon globe
 
@@ -707,7 +705,7 @@ English (EN) (22.45 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zoledronic-acid-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-701)
+[Other languages (24)](#file-language-dropdown-670)
 
 български (BG) (42.16 KB - PDF)
 
@@ -1031,7 +1029,7 @@ Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a
 
-Opinion adopted 21/11/2013 Marketing authorisation issued 16/01/2014 Revision 13
+Opinion adopted 21/11/2013 Marketing authorisation issued 16/01/2014 Revision 14
 
 ## Assessment history
 
@@ -1043,11 +1041,11 @@ Collapse section
 
 Zoledronic Acid Accord : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (150.62 KB - PDF)
+English (EN) (170.1 KB - PDF)
 
 **First published:** 13/11/2024
 
-**Last updated:** 23/05/2025
+**Last updated:** 24/02/2026
 
 [View](/en/documents/procedural-steps-after/zoledronic-acid-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1089,57 +1087,27 @@ English (EN) (79.46 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-zoledronic-acid-accord_en.pdf)
 
-#### News on Zoledronic Acid Accord
+## News on Zoledronic Acid Accord
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 November 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-november-2013) 22/11/2013
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
 Zoledronic Acid Accord : EPAR - Product information - tracked changes
 
-English (EN) (142.17 KB - DOCX)
+English (EN) (146.13 KB - DOCX)
 
 **First published:** 02/05/2025
 
+**Last updated:** 24/02/2026
+
 [View](/en/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-418)
+[Other languages (24)](#file-language-dropdown-561)
 
-български (BG) (178.66 KB - DOCX)
-
-**First published:**
-
-02/05/2025
-
-[View](/bg/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_bg.docx)
-
-español (ES) (158.1 KB - DOCX)
-
-**First published:**
-
-02/05/2025
-
-[View](/es/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_es.docx)
-
-čeština (CS) (166 KB - DOCX)
-
-**First published:**
-
-02/05/2025
-
-[View](/cs/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_cs.docx)
-
-dansk (DA) (151.3 KB - DOCX)
-
-**First published:**
-
-02/05/2025
-
-[View](/da/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_da.docx)
-
-Deutsch (DE) (162.69 KB - DOCX)
+български (BG) (183.8 KB - DOCX)
 
 **First published:**
 
@@ -1147,168 +1115,292 @@ Deutsch (DE) (162.69 KB - DOCX)
 
 **Last updated:**
 
-10/11/2025
+24/02/2026
+
+[View](/bg/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (159.57 KB - DOCX)
+
+**First published:**
+
+02/05/2025
+
+**Last updated:**
+
+24/02/2026
+
+[View](/es/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (168.64 KB - DOCX)
+
+**First published:**
+
+02/05/2025
+
+**Last updated:**
+
+24/02/2026
+
+[View](/cs/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (153.97 KB - DOCX)
+
+**First published:**
+
+02/05/2025
+
+**Last updated:**
+
+24/02/2026
+
+[View](/da/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (146.29 KB - DOCX)
+
+**First published:**
+
+02/05/2025
+
+**Last updated:**
+
+24/02/2026
 
 [View](/de/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (137.83 KB - DOCX)
+eesti keel (ET) (141.83 KB - DOCX)
 
 **First published:**
 
 02/05/2025
+
+**Last updated:**
+
+24/02/2026
 
 [View](/et/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (174.84 KB - DOCX)
+ελληνικά (EL) (179.78 KB - DOCX)
 
 **First published:**
 
 02/05/2025
+
+**Last updated:**
+
+24/02/2026
 
 [View](/el/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (175.42 KB - DOCX)
+français (FR) (179.69 KB - DOCX)
 
 **First published:**
 
 02/05/2025
+
+**Last updated:**
+
+24/02/2026
 
 [View](/fr/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (171.19 KB - DOCX)
+hrvatski (HR) (174.3 KB - DOCX)
 
 **First published:**
 
 02/05/2025
+
+**Last updated:**
+
+24/02/2026
 
 [View](/hr/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (151.24 KB - DOCX)
+íslenska (IS) (153.56 KB - DOCX)
 
 **First published:**
 
 02/05/2025
+
+**Last updated:**
+
+24/02/2026
 
 [View](/is/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_is.docx)
 
-italiano (IT) (167.17 KB - DOCX)
+italiano (IT) (171.11 KB - DOCX)
 
 **First published:**
 
 02/05/2025
+
+**Last updated:**
+
+24/02/2026
 
 [View](/it/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (159.95 KB - DOCX)
+latviešu valoda (LV) (162.55 KB - DOCX)
 
 **First published:**
 
 02/05/2025
+
+**Last updated:**
+
+24/02/2026
 
 [View](/lv/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (144.64 KB - DOCX)
+lietuvių kalba (LT) (147.18 KB - DOCX)
 
 **First published:**
 
 02/05/2025
+
+**Last updated:**
+
+24/02/2026
 
 [View](/lt/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (160.37 KB - DOCX)
+magyar (HU) (164.94 KB - DOCX)
 
 **First published:**
 
 02/05/2025
+
+**Last updated:**
+
+24/02/2026
 
 [View](/hu/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (184.7 KB - DOCX)
+Malti (MT) (176.37 KB - DOCX)
 
 **First published:**
 
 02/05/2025
+
+**Last updated:**
+
+24/02/2026
 
 [View](/mt/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (151.08 KB - DOCX)
+Nederlands (NL) (156.34 KB - DOCX)
 
 **First published:**
 
 02/05/2025
+
+**Last updated:**
+
+24/02/2026
 
 [View](/nl/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (154.32 KB - DOCX)
+norsk (NO) (156.04 KB - DOCX)
 
 **First published:**
 
 02/05/2025
+
+**Last updated:**
+
+24/02/2026
 
 [View](/no/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_no.docx)
 
-polski (PL) (144.97 KB - DOCX)
+polski (PL) (150.56 KB - DOCX)
 
 **First published:**
 
 02/05/2025
+
+**Last updated:**
+
+24/02/2026
 
 [View](/pl/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (145.2 KB - DOCX)
+português (PT) (150.54 KB - DOCX)
 
 **First published:**
 
 02/05/2025
+
+**Last updated:**
+
+24/02/2026
 
 [View](/pt/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (166.54 KB - DOCX)
+română (RO) (171.88 KB - DOCX)
 
 **First published:**
 
 02/05/2025
+
+**Last updated:**
+
+24/02/2026
 
 [View](/ro/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (145.78 KB - DOCX)
+slovenčina (SK) (151.24 KB - DOCX)
 
 **First published:**
 
 02/05/2025
+
+**Last updated:**
+
+24/02/2026
 
 [View](/sk/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (167.31 KB - DOCX)
+slovenščina (SL) (169.72 KB - DOCX)
 
 **First published:**
 
 02/05/2025
+
+**Last updated:**
+
+24/02/2026
 
 [View](/sl/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (175.11 KB - DOCX)
+Suomi (FI) (161.56 KB - DOCX)
 
 **First published:**
 
 02/05/2025
+
+**Last updated:**
+
+24/02/2026
 
 [View](/fi/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (158.47 KB - DOCX)
+svenska (SV) (161.09 KB - DOCX)
 
 **First published:**
 
 02/05/2025
 
+**Last updated:**
+
+24/02/2026
+
 [View](/sv/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_sv.docx)
 
-#### Topics
+## Topics
 
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 23/05/2025
+**This page was last updated on** 24/02/2026
 
 ## Share this page
 

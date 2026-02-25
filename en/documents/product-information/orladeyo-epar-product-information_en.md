@@ -1,30 +1,26 @@
 ---
-document_datetime: 2024-09-23 16:11:17
-document_pages: 27
+document_datetime: 2026-02-18 11:47:17
+document_pages: 25
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/orladeyo-epar-product-information_en.pdf
 document_name: orladeyo-epar-product-information_en.pdf
 version: success
-processing_time: 5.396781
-conversion_datetime: 2025-12-27 13:24:02.735341
+processing_time: 6.403082
+conversion_datetime: 2026-02-25 11:42:48.512156
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -38,7 +34,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Hard capsule (capsule)
+Hard capsule (capsule).
 
 Capsule (19.4 mm × 6.9 mm) with white opaque body imprinted with '150' and light blue opaque cap imprinted with 'BCX'.
 
@@ -70,9 +66,9 @@ No dose adjustment is required for patients above 65 years of age (see sections 
 
 No dose adjustment is required for patients with mild or moderate renal impairment. In patients with severe renal impairment, it is preferable to avoid the use of berotralstat. If treatment is required, appropriate monitoring (e.g. ECGs) should be considered (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 There are no available clinical data for the use of berotralstat in patients with end stage renal disease (ESRD) requiring haemodialysis. As a precautionary measure, it is preferable to avoid the use of berotralstat in patients with ESRD (see section 5.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hepatic impairment
 
@@ -120,7 +116,7 @@ Berotralstat is a P-glycoprotein (P-gp) and breast cancer resistance protein (BC
 
 ## P-gp and BCRP inhibitors
 
-Cyclosporine, a P-gp and BCRP inhibitor, decreased the maximum concentration (Cmax) of a single 150 mg dose of berotralstat by 7% and increased the AUC by 27%. No dose adjustment of berotralstat is recommended for concomitant use with P-gp and BCRP inhibitors.
+Ciclosporine, a P-gp and BCRP inhibitor, decreased the maximum concentration (Cmax) of a single 150 mg dose of berotralstat by 7% and increased the AUC by 27%. No dose adjustment of berotralstat is recommended for concomitant use with P-gp and BCRP inhibitors.
 
 ## P-gp and BCRP inducers
 
@@ -130,25 +126,25 @@ Berotralstat is a substrate of P-gp and BCRP. P-gp and BCRP inducers (e.g. rifam
 
 ## CYP3A4 substrates
 
-Berotralstat is a moderate inhibitor of CYP3A4, increasing the Cmax and AUC of oral midazolam by 45% and 124%, respectively, and the Cmax and AUC of amlodipine by 45% and 77%, respectively. Concomitant administration may increase concentrations of other medicines that are CYP3A4 substrates. Refer to the SmPC for concomitant medicines that are predominantly metabolised by CYP3A4, particularly those with a narrow therapeutic index (e.g. cyclosporine, fentanyl). Dose adjustments of these medicines may be required (see section 5.2).
+Berotralstat is a moderate inhibitor of CYP3A4, increasing the Cmax and AUC of oral midazolam by 45% and 124%, respectively, and the Cmax and AUC of amlodipine by 45% and 77%, respectively. Concomitant administration may increase concentrations of other medicinal products that are CYP3A4 substrates. Refer to the SmPC for concomitant medicinal products that are predominantly metabolised by CYP3A4, particularly those with a narrow therapeutic index (e.g. ciclosporine, fentanyl). Dose adjustments of these medicinal products may be required (see section 5.2).
 
 ## CYP2D6 substrates
 
-Berotralstat is a moderate inhibitor of CYP2D6, increasing the Cmax and AUC of dextromethorphan by 196% and 177%, respectively, and the Cmax and AUC of desipramine by 64% and 87%, respectively. Concomitant administration may increase exposure of other medicines that are CYP2D6 substrates. Refer to the SmPC for concomitant medicines that are predominantly metabolised by CYP2D6, particularly those with a narrow therapeutic index (e.g. thioridazine, pimozide) or whose prescribing information recommends therapeutic monitoring (e.g. tricyclic antidepressants). Dose adjustments of these medicines may be required (see section 5.2).
+Berotralstat is a moderate inhibitor of CYP2D6, increasing the Cmax and AUC of dextromethorphan by 196% and 177%, respectively, and the Cmax and AUC of desipramine by 64% and 87%, respectively. Concomitant administration may increase exposure of other medicinal products that are CYP2D6 substrates. Refer to the SmPC for concomitant medicinal products that are predominantly metabolised by CYP2D6, particularly those with a narrow therapeutic index (e.g. thioridazine, pimozide) or whose prescribing information recommends therapeutic monitoring (e.g. tricyclic antidepressants). Dose adjustments of these medicinal products may be required (see section 5.2).
 
 ## CYP2C9 substrates
 
-Berotralstat is a weak inhibitor of CYP2C9 increasing the Cmax and AUC of tolbutamide by 19% and 73%, respectively. No dose adjustment is recommended for concomitant use of medicines that are predominantly metabolised by CYP2C9 (e.g. tolbutamide) (see section 5.2).
+Berotralstat is a weak inhibitor of CYP2C9 increasing the Cmax and AUC of tolbutamide by 19% and 73%, respectively. No dose adjustment is recommended for concomitant use of medicinal products that are predominantly metabolised by CYP2C9 (e.g. tolbutamide) (see section 5.2).
 
 The effect of berotralstat on the CYP2C9 conversion of desogestrel to etonogestrel (active metabolite) was negligible. No dose adjustment is recommended for concomitant use of desogestrel.
 
 ## CYP2C19 substrates
 
-Berotralstat is not an inhibitor of CYP2C19, as Cmax and AUC of omeprazole were increased by only 21% and 24%, respectively. No dose adjustment is recommended for concomitant use of medicines that are predominantly metabolised by CYP2C19 (e.g. omeprazole) (see section 5.2).
+Berotralstat is not an inhibitor of CYP2C19, as Cmax and AUC of omeprazole were increased by only 21% and 24%, respectively. No dose adjustment is recommended for concomitant use of medicinal products that are predominantly metabolised by CYP2C19 (e.g. omeprazole) (see section 5.2).
 
 ## P-gp substrates
 
-Berotralstat is a weak inhibitor of P-gp and increased the Cmax and AUC of the P-gp substrate digoxin by 58% and 48%, respectively. Refer to the SmPC for concomitant medicines that are P-gp substrates, particularly those with a narrow therapeutic index (e.g. digoxin) or whose prescribing information recommends therapeutic monitoring (e.g. dabigatran). Dose adjustments of these medicines may be required (see section 5.2).
+Berotralstat is a weak inhibitor of P-gp and increased the Cmax and AUC of the P-gp substrate digoxin by 58% and 48%, respectively. Refer to the SmPC for concomitant medicinal products that are P-gp substrates, particularly those with a narrow therapeutic index (e.g. digoxin) or whose prescribing information recommends therapeutic monitoring (e.g. dabigatran etexilate). Dose adjustments of these medicinal products may be required (see section 5.2).
 
 ## Oral contraceptives
 
@@ -190,7 +186,7 @@ The most common adverse reactions are abdominal pain (all locations) (reported b
 
 ## Tabulated list of adverse reactions
 
-The safety of Orladeyo has been evaluated in long term clinical studies in patients with HAE (both uncontrolled, open-label and placebo-controlled, blinded) in 381 patients. Adverse reactions obtained from clinical studies and post-marketing surveillance are listed below by MedDRA system organ class and by frequency. Frequencies are defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The safety of Orladeyo has been evaluated in long term clinical studies in patients with HAE (both uncontrolled, open-label and placebo-controlled, blinded) in 381 patients. Adverse reactions obtained from clinical studies and post-marketing surveillance are listed below by MedDRA system organ class and by frequency. Frequencies are defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -305,7 +301,7 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## Absorption
 
-Following oral administration of berotralstat 150 mg once daily, Cmax and area under the curve over the dosing interval (AUCtau) are 158 ng/mL (range: 110 to 234 ng/mL) and 2770 ng * h/mL (range: 1880 to 3790 ng * h/mL), respectively. The pharmacokinetics of berotralstat in patients with HAE are similar to those of healthy people.
+Following oral administration of berotralstat 150 mg once daily, Cmax and area under the curve over the dosing interval (AUCtau) are 158 ng/mL (range: 110 to 234 ng/mL) and 2770 ng*h/mL (range: 1880 to 3790 ng*h/mL), respectively. The pharmacokinetics of berotralstat in patients with HAE are similar to those of healthy people.
 
 Berotralstat exposure (Cmax and AUC) increases greater than proportionally with dose and steady state is reached by days 6 to 12.
 
@@ -329,9 +325,9 @@ Berotralstat at double the recommended dose is a weak inhibitor of P-gp and is n
 
 After a single dose of 150 mg, the median half-life of berotralstat was approximately 93 hours (range: 39 to 152 hours).
 
-After a single oral radiolabelled berotralstat 300 mg dose, approximately 9% was excreted in urine (3.4% unchanged; range 1.8 to 4.7%) and 79% was excreted in faeces. Additional analyses indicated approximately 50% of the fraction recovered in the faeces was unchanged berotralstat.
-
 <div style=\"page-break-after: always\"></div>
+
+After a single oral radiolabelled berotralstat 300 mg dose, approximately 9% was excreted in urine (3.4% unchanged; range 1.8 to 4.7%) and 79% was excreted in faeces. Additional analyses indicated approximately 50% of the fraction recovered in the faeces was unchanged berotralstat.
 
 ## Special populations
 
@@ -361,9 +357,9 @@ In non-clinical chronic repeat-dose toxicity studies, phospholipidosis (presence
 
 Skeletal myofiber degeneration/necrosis was observed in the 2-year (lifetime) study in rats. Exposure at the no observed adverse effect level (NOAEL) for these findings in rats was 4.5 times the exposure achieved (on an AUC basis) at the clinical 150 mg berotralstat dose.
 
-Non-clinical data reveal no special hazard for humans based on conventional studies of genotoxicity.
-
 <div style=\"page-break-after: always\"></div>
+
+Non-clinical data reveal no special hazard for humans based on conventional studies of genotoxicity.
 
 There was no increase in tumours in a 6-month study in Tg rasH2 transgenic mice. Exposure in this mouse carcinogenicity study was 10 times the exposure achieved (on an AUC basis) at the clinical 150 mg berotralstat dose.
 
@@ -395,11 +391,11 @@ Black iron oxide (E 172) Potassium hydroxide Shellac Propylene glycol (E 1520)
 
 Not applicable.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.3 Shelf life
 
-4 years
-
-<div style=\"page-break-after: always\"></div>
+4 years.
 
 ## 6.4 Special precautions for storage
 
@@ -409,13 +405,17 @@ This medicinal product does not require any special storage conditions.
 
 PCTFE/PVC-Alu blisters in a carton with 7 capsules per blister
 
-Pack size: 28 or 98 hard capsules
+Pack size: 28 or 98 hard capsules.
+
+Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
+
+MARKETING AUTHORISATION HOLDER
 
 BioCryst Ireland Limited
 
@@ -433,6 +433,8 @@ EU/1/21/1544/002
 
 Date of first authorisation: 30 April 2021
 
+Date of latest renewal:
+
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
@@ -443,16 +445,19 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer(s) responsible for batch release
+Name and address of the manufacturer responsible for batch release
 
 Millmount Healthcare Limited Block-7, City North Business Campus Stamullen, Co. Meath, K32 YD60 Ireland
 
@@ -465,8 +470,6 @@ Medicinal product subject to medical prescription.
 ## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
-
-The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -489,15 +492,19 @@ An updated RMP should be submitted:
 
 ## A. LABELLING
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
+|------|--------------------------------|
 
 Orladeyo 150 mg hard capsules berotralstat
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|------|------------------------------------|
 
 Each hard capsule contains 150 mg berotralstat (as dihydrochloride).
 
@@ -511,25 +518,31 @@ hard capsule
 
 98 hard capsules
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+| 5.   | METHODANDROUTE(S) OF ADMINISTRATION   |
+|------|---------------------------------------|
 
-Read the package leaflet before use. Oral use
+Read the package leaflet before use.
 
-6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+Oral use
+
+| 6.   | SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUSTBE STORED OUT OF THE SIGHT AND REACH OF CHILDREN   |
+|------|---------------------------------------------------------------------------------------------------|
 
 Keep out of the sight and reach of children.
 
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
 
-8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-<div style=\"page-break-after: always\"></div>
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -537,9 +550,7 @@ BioCryst Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02H
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1544/001
-
-EU/1/21/1544/002
+EU/1/21/1544/001 EU/1/21/1544/002
 
 ## 13. BATCH NUMBER
 
@@ -571,13 +582,13 @@ NN
 |--------------------------------------------|
 | BLISTER                                    |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
+|------|--------------------------------|
 
 Orladeyo 150 mg capsules berotralstat
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
+|------|---------------------------------------------|
 
 BioCryst Ireland Limited
 
@@ -602,15 +613,11 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 ## Package leaflet: Information for the patient
 
 ## Orladeyo 150 mg hard capsules
 
 ## berotralstat
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -646,13 +653,13 @@ Hereditary angioedema is a condition that often runs in families. It can limit y
 
 In hereditary angioedema your blood does not have enough of a protein called C1 inhibitor, or the protein does not work properly. This leads to too much of the enzyme plasma kallikrein, which in turn increases the levels of bradykinin in your bloodstream. Too much bradykinin leads to symptoms of hereditary angioedema. Berotralstat, the active substance in Orladeyo, blocks the activity of plasma kallikrein and so reduces bradykinin. This prevents the swelling and pain that hereditary angioedema can cause.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 2. What you need to know before you take Orladeyo
 
 ## Do not take Orladeyo
 
 - if you are allergic to berotralstat or any of the other ingredients of this medicine (listed in section 6)
+
+<div style=\"page-break-after: always\"></div>
 
 ## Warnings and precautions
 
@@ -679,7 +686,7 @@ Particularly, tell your doctor before taking Orladeyo if you are using:
 - thioridazine or pimozide, medicines to treat mental disorders
 - amlodipine, a medicine to treat high blood pressure or a type of chest pain called angina
 - ciclosporin, a medicine to suppress the immune system, treat severe skin diseases and severe eye or joint inflammation
-- dabigatran, a medicine to prevent blood clotting
+- dabigatran etexilate, a medicine to prevent blood clotting
 - rifampicin: a medicine to treat tuberculosis or certain other infections
 - desipramine, St. John's wort and other medicines to treat depression called tricyclic antidepressants
 - dextromethorphan, a cough-relieving medicine
@@ -695,13 +702,13 @@ If you are pregnant or breast-feeding, think you may be pregnant or are planning
 
 There is limited information on the use of Orladeyo during pregnancy and breast-feeding. As a precaution, it is preferable to avoid the use of Orladeyo during pregnancy and breast-feeding. Your doctor will discuss with you the risks and benefits of taking this medicine.
 
-<div style=\"page-break-after: always\"></div>
-
 Women of childbearing potential must use effective contraception during treatment and for at least 1 month following the last dose. Orladeyo is not recommended in women of childbearing potential not using contraception.
 
 ## Driving and using machines
 
 Orladeyo has no or negligible influence on the ability to drive and use machines.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 3. How to take Orladeyo
 
@@ -743,8 +750,6 @@ Very common , may affect more than 1 in 10 people
 - stomach pain, including abdominal (belly) discomfort, abdominal tenderness
 - diarrhoea and frequent bowel movements
 
-<div style=\"page-break-after: always\"></div>
-
 ## Common , may affect up to 1 in 10 people
 
 - vomiting
@@ -753,7 +758,9 @@ Very common , may affect more than 1 in 10 people
 - blood tests showing increased levels of liver enzymes called ALT and AST
 - rash
 
-Not known , frequency cannot be estimated from the available data
+## Not known , frequency cannot be estimated from the available data
+
+<div style=\"page-break-after: always\"></div>
 
 - nausea (feeling sick)
 
@@ -775,7 +782,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Orladeyo contains
 
-- The active substance is berotralstat. Each capsule contains 150 mg berotralstat (as dihydrochloride).
+- The active substance is berotralstat. Each hard capsule contains 150 mg berotralstat (as dihydrochloride).
 - The other ingredients are:
 - -starch, pregelatinised, crospovidone (type A), silica, colloidal anhydrous, magnesium stearate, gelatin, titanium dioxide (E 171)
 - -colourants: indigo carmine (E 132), black iron oxide (E 172), red iron oxide (E 172)
@@ -783,19 +790,19 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Orladeyo looks like and contents of the pack
 
-Orladeyo capsules have a white opaque body imprinted with '150' and light blue opaque cap imprinted with 'BCX' (19.4 mm × 6.9 mm). They are packed in plastic/aluminium blisters in a carton with 7 capsules per blister.
+Orladeyo hard capsules (capsule) have a white opaque body imprinted with '150' and light blue opaque cap imprinted with 'BCX' (19.4 mm × 6.9 mm). They are packed in plastic/aluminium blisters in a carton with 7 capsules per blister.
 
-Pack size: 28 or 98 hard capsules
+Pack size: 28 or 98 hard capsules.
 
-## Marketing Authorisation Holder and Manufacturer
+Not all pack sizes may be marketed.
 
-## · Marketing Authorisation Holder
+## Marketing Authorisation Holder
 
 BioCryst Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
 
 <div style=\"page-break-after: always\"></div>
 
-## · Manufacturer
+## Manufacturer
 
 Millmount Healthcare Limited Block-7, City North Business Campus, Stamullen, Co. Meath, K32 YD60 Ireland
 
@@ -804,25 +811,3 @@ Millmount Healthcare Limited Block-7, City North Business Campus, Stamullen, Co.
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR for berotralstat, the scientific conclusions of PRAC are as follows:
-
-In view of available data on nausea from spontaneous reports including in some cases a close temporal relationship, a positive de-challenge and/or re-challenge and in view of a plausible mechanism of action, the PRAC considers that a causal relationship between berotralstat and nausea is at least a reasonable possibility. The PRAC concluded that the product information of products containing berotralstat should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation
-
-On the basis of the scientific conclusions for berotralstat the CHMP is of the opinion that the benefitrisk balance of the medicinal product(s) containing berotralstat is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the marketing authorisation should be varied.

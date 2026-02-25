@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 09:59:40
+document_datetime: 2026-02-24 14:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tivdak.html
 document_name: tivdak.html
 version: success
-processing_time: 0.1082795
-conversion_datetime: 2025-12-31 07:48:15.832496
+processing_time: 0.0989883
+conversion_datetime: 2026-02-25 11:52:19.815337
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Tivdak
 
 [RSS](/en/individual-human-medicine.xml/254539)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 tisotumab vedotin Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +107,7 @@ English (EN) (119.95 KB - PDF)
 
 [View](/en/documents/overview/tivdak-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-139)
+[Other languages (22)](#file-language-dropdown-525)
 
 български (BG) (145.09 KB - PDF)
 
@@ -299,17 +297,17 @@ English (EN) (1.03 MB - PDF)
 
 Tivdak : EPAR - Product information
 
-English (EN) (523.68 KB - PDF)
+English (EN) (392.02 KB - PDF)
 
 **First published:** 07/04/2025
 
-**Last updated:** 04/07/2025
+**Last updated:** 24/02/2026
 
 [View](/en/documents/product-information/tivdak-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-410)
+[Other languages (24)](#file-language-dropdown-26)
 
-български (BG) (360.35 KB - PDF)
+български (BG) (583.5 KB - PDF)
 
 **First published:**
 
@@ -317,11 +315,11 @@ English (EN) (523.68 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/bg/documents/product-information/tivdak-epar-product-information_bg.pdf)
 
-español (ES) (279.11 KB - PDF)
+español (ES) (323.82 KB - PDF)
 
 **First published:**
 
@@ -329,11 +327,11 @@ español (ES) (279.11 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/es/documents/product-information/tivdak-epar-product-information_es.pdf)
 
-čeština (CS) (351.35 KB - PDF)
+čeština (CS) (547.67 KB - PDF)
 
 **First published:**
 
@@ -341,11 +339,11 @@ español (ES) (279.11 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/cs/documents/product-information/tivdak-epar-product-information_cs.pdf)
 
-dansk (DA) (332.21 KB - PDF)
+dansk (DA) (503.62 KB - PDF)
 
 **First published:**
 
@@ -353,11 +351,11 @@ dansk (DA) (332.21 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/da/documents/product-information/tivdak-epar-product-information_da.pdf)
 
-Deutsch (DE) (640.91 KB - PDF)
+Deutsch (DE) (446.26 KB - PDF)
 
 **First published:**
 
@@ -365,11 +363,11 @@ Deutsch (DE) (640.91 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/de/documents/product-information/tivdak-epar-product-information_de.pdf)
 
-eesti keel (ET) (264.21 KB - PDF)
+eesti keel (ET) (471.18 KB - PDF)
 
 **First published:**
 
@@ -377,11 +375,11 @@ eesti keel (ET) (264.21 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/et/documents/product-information/tivdak-epar-product-information_et.pdf)
 
-ελληνικά (EL) (358.08 KB - PDF)
+ελληνικά (EL) (496.99 KB - PDF)
 
 **First published:**
 
@@ -389,11 +387,11 @@ eesti keel (ET) (264.21 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/el/documents/product-information/tivdak-epar-product-information_el.pdf)
 
-français (FR) (313.77 KB - PDF)
+français (FR) (480.23 KB - PDF)
 
 **First published:**
 
@@ -401,11 +399,11 @@ français (FR) (313.77 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/fr/documents/product-information/tivdak-epar-product-information_fr.pdf)
 
-hrvatski (HR) (279.61 KB - PDF)
+hrvatski (HR) (574.19 KB - PDF)
 
 **First published:**
 
@@ -413,11 +411,11 @@ hrvatski (HR) (279.61 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/hr/documents/product-information/tivdak-epar-product-information_hr.pdf)
 
-íslenska (IS) (272.94 KB - PDF)
+íslenska (IS) (322.22 KB - PDF)
 
 **First published:**
 
@@ -425,11 +423,11 @@ hrvatski (HR) (279.61 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/is/documents/product-information/tivdak-epar-product-information_is.pdf)
 
-italiano (IT) (264.37 KB - PDF)
+italiano (IT) (386.24 KB - PDF)
 
 **First published:**
 
@@ -437,11 +435,11 @@ italiano (IT) (264.37 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/it/documents/product-information/tivdak-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (271.97 KB - PDF)
+latviešu valoda (LV) (582.19 KB - PDF)
 
 **First published:**
 
@@ -449,11 +447,11 @@ latviešu valoda (LV) (271.97 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/lv/documents/product-information/tivdak-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (270.41 KB - PDF)
+lietuvių kalba (LT) (504.33 KB - PDF)
 
 **First published:**
 
@@ -461,11 +459,11 @@ lietuvių kalba (LT) (270.41 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/lt/documents/product-information/tivdak-epar-product-information_lt.pdf)
 
-magyar (HU) (289.42 KB - PDF)
+magyar (HU) (430.52 KB - PDF)
 
 **First published:**
 
@@ -473,11 +471,11 @@ magyar (HU) (289.42 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/hu/documents/product-information/tivdak-epar-product-information_hu.pdf)
 
-Malti (MT) (323.48 KB - PDF)
+Malti (MT) (612.3 KB - PDF)
 
 **First published:**
 
@@ -485,11 +483,11 @@ Malti (MT) (323.48 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/mt/documents/product-information/tivdak-epar-product-information_mt.pdf)
 
-Nederlands (NL) (279.24 KB - PDF)
+Nederlands (NL) (293.8 KB - PDF)
 
 **First published:**
 
@@ -497,11 +495,11 @@ Nederlands (NL) (279.24 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/nl/documents/product-information/tivdak-epar-product-information_nl.pdf)
 
-norsk (NO) (263.55 KB - PDF)
+norsk (NO) (506.12 KB - PDF)
 
 **First published:**
 
@@ -509,11 +507,11 @@ norsk (NO) (263.55 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/no/documents/product-information/tivdak-epar-product-information_no.pdf)
 
-polski (PL) (296.5 KB - PDF)
+polski (PL) (634.78 KB - PDF)
 
 **First published:**
 
@@ -521,11 +519,11 @@ polski (PL) (296.5 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/pl/documents/product-information/tivdak-epar-product-information_pl.pdf)
 
-português (PT) (285.7 KB - PDF)
+português (PT) (339.97 KB - PDF)
 
 **First published:**
 
@@ -533,11 +531,11 @@ português (PT) (285.7 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/pt/documents/product-information/tivdak-epar-product-information_pt.pdf)
 
-română (RO) (275.33 KB - PDF)
+română (RO) (581.59 KB - PDF)
 
 **First published:**
 
@@ -545,11 +543,11 @@ română (RO) (275.33 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/ro/documents/product-information/tivdak-epar-product-information_ro.pdf)
 
-slovenčina (SK) (294.38 KB - PDF)
+slovenčina (SK) (591.18 KB - PDF)
 
 **First published:**
 
@@ -557,11 +555,11 @@ slovenčina (SK) (294.38 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/sk/documents/product-information/tivdak-epar-product-information_sk.pdf)
 
-slovenščina (SL) (264.79 KB - PDF)
+slovenščina (SL) (587.23 KB - PDF)
 
 **First published:**
 
@@ -569,11 +567,11 @@ slovenščina (SL) (264.79 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/sl/documents/product-information/tivdak-epar-product-information_sl.pdf)
 
-Suomi (FI) (269.19 KB - PDF)
+Suomi (FI) (480.61 KB - PDF)
 
 **First published:**
 
@@ -581,11 +579,11 @@ Suomi (FI) (269.19 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/fi/documents/product-information/tivdak-epar-product-information_fi.pdf)
 
-svenska (SV) (266.37 KB - PDF)
+svenska (SV) (330.36 KB - PDF)
 
 **First published:**
 
@@ -593,11 +591,11 @@ svenska (SV) (266.37 KB - PDF)
 
 **Last updated:**
 
-04/07/2025
+24/02/2026
 
 [View](/sv/documents/product-information/tivdak-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** T/0000267043 05/06/2025
+**Latest procedure affecting product information:** VR/0000324286 23/02/2026
 
 icon globe
 
@@ -621,7 +619,7 @@ English (EN) (24.33 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tivdak-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-721)
+[Other languages (24)](#file-language-dropdown-420)
 
 български (BG) (26.8 KB - PDF)
 
@@ -841,7 +839,7 @@ Genmab A/S
 
 Carl Jacobsens Vej 30 2500 Valby Denmark
 
-Opinion adopted 30/01/2025 Marketing authorisation issued 28/03/2025 Revision 2
+Opinion adopted 30/01/2025 Marketing authorisation issued 28/03/2025 Revision 3
 
 ## Assessment history
 
@@ -853,11 +851,11 @@ Collapse section
 
 Tivdak : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (143.15 KB - PDF)
+English (EN) (154.16 KB - PDF)
 
 **First published:** 03/07/2025
 
-**Last updated:** 04/07/2025
+**Last updated:** 24/02/2026
 
 [View](/en/documents/procedural-steps-after/tivdak-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -883,11 +881,11 @@ English (EN) (152.05 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-tivdak_en.pdf)
 
-#### News on Tivdak
+## News on Tivdak
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 January 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-january-2025) 31/01/2025
 
-**This page was last updated on** 04/07/2025
+**This page was last updated on** 24/02/2026
 
 ## Share this page
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-05 15:22:49
+document_datetime: 2026-02-24 10:06:09
 document_pages: 55
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/enzalutamide-viatris-epar-product-information_en.pdf
 document_name: enzalutamide-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 27.9706036
-conversion_datetime: 2025-12-14 14:42:13.853937
+processing_time: 25.6007653
+conversion_datetime: 2026-02-25 11:51:51.579082
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -972,6 +972,8 @@ Name and address of the manufacturer(s) responsible for batch release
 
 PharOS MT Ltd. HF62X, Hal Far Industrial Estate Birzebbugia BBG3000 Malta
 
+Pharos Pharmaceutical Oriented Services Ltd. Lesvou Street End, Thesi Loggos Industrial Zone, Metamorfossi, 14452 Greece
+
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 Medicinal product subject to medical prescription.
@@ -1582,7 +1584,7 @@ Headache, feeling anxious, dry skin, itching, difficulty remembering, blockage o
 
 Hallucinations, low white blood cell count, increased liver enzyme levels in blood test (a sign of liver problems)
 
-## Not known (frequency cannot be estimated from the available data)
+Not known (frequency cannot be estimated from the available data)
 
 Muscle pain, muscle spasms, muscular weakness, back pain, changes in ECG (QT prolongation), difficulty swallowing this medicine including choking, upset stomach including feeling sick (nausea), a skin reaction that causes red spots or patches on the skin that may look like a target or 'bulls-eye' with a dark red centre surrounded by paler red rings (erythema multiforme), or another serious skin reaction presenting reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes that can be preceded by fever and flu-like symptoms (Stevens-Johnson syndrome), rash, being sick (vomiting), swelling of the face, lips, tongue and/or throat, reduction in blood platelets (which increases risk of bleeding or bruising), diarrhoea, decreased appetite.
 
@@ -1639,6 +1641,10 @@ PharOS MT Ltd.
 
 HF62X, Hal Far Industrial Estate, Birzebbugia BBG3000, Malta
 
+Pharos Pharmaceutical Oriented Services Ltd.
+
+Lesvou Street End, Thesi Loggos Industrial Zone, Metamorfossi, 14452, Greece
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
@@ -1647,7 +1653,7 @@ Viatris
 
 Tél/Tel: + 32 (0)2 658 61 00
 
-## Lietuva
+Lietuva
 
 Viatris UAB
 
@@ -1667,19 +1673,13 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 (Belgique/Belgien)
 
+<div style=\"page-break-after: always\"></div>
+
 ## Česká republika
 
 Viatris CZ s.r.o.
 
 Tel: + 420 222 004 400
-
-## Magyarország
-
-Viatris Healthcare Kft.
-
-Tel.: + 36 1 465 2100
-
-<div style=\"page-break-after: always\"></div>
 
 ## Danmark
 
@@ -1705,19 +1705,17 @@ Viatris Pharmaceuticals, S.L. Tel: + 34 900 102 712
 
 ## France
 
-Viatris Santé
-
-Tél: +33 4 37 25 75 00
+Viatris Santé Tél: +33 4 37 25 75 00
 
 ## Hrvatska
 
-Viatris Hrvatska d.o.o. Tel: +385 1 23 50 599
+Viatris Hrvatska d.o.o.
+
+Tel: +385 1 23 50 599
 
 ## Ireland
 
-Viatris Limited
-
-Tel:   +353 1 8711600
+Viatris Limited Tel:   +353 1 8711600
 
 ## Ísland
 
@@ -1731,11 +1729,9 @@ Viatris Italia S.r.l. Tel: + 39 (0) 2 612 46921
 
 CPO Pharmaceuticals Limited Τηλ: +357 22863100
 
-## Latvija
+## Magyarország
 
-Viatris SIA
-
-Tel: +371 676 055 80
+Viatris Healthcare Kft. Tel.: + 36 1 465 2100
 
 ## Malta
 
@@ -1747,9 +1743,7 @@ Mylan BV Tel: +31 (0)20 426 3300
 
 ## Norge
 
-Viatris AS
-
-Tlf: + 47 66 75 33 00
+Viatris AS Tlf: + 47 66 75 33 00
 
 ## Österreich
 
@@ -1767,17 +1761,19 @@ Tel: + 351 214 127 200
 
 ## România
 
-BGP Products SRL
-
-Tel: +40 372 579 000
+BGP Products SRL Tel: +40 372 579 000
 
 ## Slovenija
 
-Viatris d.o.o. Tel: + 386 1 23 63 180
+Viatris d.o.o.
+
+Tel: + 386 1 23 63 180
 
 ## Slovenská republika
 
-Viatris Slovakia s.r.o. Tel: +421 2 32 199 100
+Viatris Slovakia s.r.o.
+
+Tel: +421 2 32 199 100
 
 ## Suomi/Finland
 
@@ -1788,6 +1784,12 @@ Viatris Oy Puh/Tel: +358 20 720 9555
 Viatris AB Tel: +46 (0)8 630 19 00
 
 <div style=\"page-break-after: always\"></div>
+
+## Latvija
+
+Viatris SIA
+
+Tel: +371 676 055 80
 
 ## This leaflet was last revised in .
 

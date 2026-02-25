@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 07:15:13
+document_datetime: 2026-02-23 17:12:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ogivri.html
 document_name: ogivri.html
 version: success
-processing_time: 0.1066787
-conversion_datetime: 2025-12-30 01:20:19.088132
+processing_time: 0.1098234
+conversion_datetime: 2026-02-25 11:32:40.6124
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Ogivri
 
 [RSS](/en/individual-human-medicine.xml/65660)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 trastuzumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +113,7 @@ English (EN) (84.13 KB - PDF)
 
 [View](/en/documents/overview/ogivri-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-946)
+[Other languages (22)](#file-language-dropdown-297)
 
 български (BG) (113.16 KB - PDF)
 
@@ -305,17 +303,17 @@ English (EN) (37.57 KB - PDF)
 
 Ogivri : EPAR - Product information
 
-English (EN) (819.76 KB - PDF)
+English (EN) (673.4 KB - PDF)
 
 **First published:** 09/01/2019
 
-**Last updated:** 14/11/2024
+**Last updated:** 23/02/2026
 
 [View](/en/documents/product-information/ogivri-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-22)
+[Other languages (24)](#file-language-dropdown-80)
 
-български (BG) (878.49 KB - PDF)
+български (BG) (693.75 KB - PDF)
 
 **First published:**
 
@@ -323,11 +321,11 @@ English (EN) (819.76 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/bg/documents/product-information/ogivri-epar-product-information_bg.pdf)
 
-español (ES) (720.48 KB - PDF)
+español (ES) (561.56 KB - PDF)
 
 **First published:**
 
@@ -335,11 +333,11 @@ español (ES) (720.48 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/es/documents/product-information/ogivri-epar-product-information_es.pdf)
 
-čeština (CS) (816.57 KB - PDF)
+čeština (CS) (647.13 KB - PDF)
 
 **First published:**
 
@@ -347,11 +345,11 @@ español (ES) (720.48 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/cs/documents/product-information/ogivri-epar-product-information_cs.pdf)
 
-dansk (DA) (841.71 KB - PDF)
+dansk (DA) (695.69 KB - PDF)
 
 **First published:**
 
@@ -359,11 +357,11 @@ dansk (DA) (841.71 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/da/documents/product-information/ogivri-epar-product-information_da.pdf)
 
-Deutsch (DE) (835.24 KB - PDF)
+Deutsch (DE) (679.48 KB - PDF)
 
 **First published:**
 
@@ -371,11 +369,11 @@ Deutsch (DE) (835.24 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/de/documents/product-information/ogivri-epar-product-information_de.pdf)
 
-eesti keel (ET) (768.93 KB - PDF)
+eesti keel (ET) (613.86 KB - PDF)
 
 **First published:**
 
@@ -383,11 +381,11 @@ eesti keel (ET) (768.93 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/et/documents/product-information/ogivri-epar-product-information_et.pdf)
 
-ελληνικά (EL) (845.53 KB - PDF)
+ελληνικά (EL) (661.54 KB - PDF)
 
 **First published:**
 
@@ -395,11 +393,11 @@ eesti keel (ET) (768.93 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/el/documents/product-information/ogivri-epar-product-information_el.pdf)
 
-français (FR) (754.63 KB - PDF)
+français (FR) (603.59 KB - PDF)
 
 **First published:**
 
@@ -407,11 +405,11 @@ français (FR) (754.63 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/fr/documents/product-information/ogivri-epar-product-information_fr.pdf)
 
-hrvatski (HR) (759.61 KB - PDF)
+hrvatski (HR) (606.67 KB - PDF)
 
 **First published:**
 
@@ -419,11 +417,11 @@ hrvatski (HR) (759.61 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/hr/documents/product-information/ogivri-epar-product-information_hr.pdf)
 
-íslenska (IS) (849.45 KB - PDF)
+íslenska (IS) (667.04 KB - PDF)
 
 **First published:**
 
@@ -431,11 +429,11 @@ hrvatski (HR) (759.61 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/is/documents/product-information/ogivri-epar-product-information_is.pdf)
 
-italiano (IT) (799.21 KB - PDF)
+italiano (IT) (615.91 KB - PDF)
 
 **First published:**
 
@@ -443,11 +441,11 @@ italiano (IT) (799.21 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/it/documents/product-information/ogivri-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (778.14 KB - PDF)
+latviešu valoda (LV) (624.77 KB - PDF)
 
 **First published:**
 
@@ -455,11 +453,11 @@ latviešu valoda (LV) (778.14 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/lv/documents/product-information/ogivri-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (783.53 KB - PDF)
+lietuvių kalba (LT) (625.73 KB - PDF)
 
 **First published:**
 
@@ -467,11 +465,11 @@ lietuvių kalba (LT) (783.53 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/lt/documents/product-information/ogivri-epar-product-information_lt.pdf)
 
-magyar (HU) (840.07 KB - PDF)
+magyar (HU) (683.9 KB - PDF)
 
 **First published:**
 
@@ -479,11 +477,11 @@ magyar (HU) (840.07 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/hu/documents/product-information/ogivri-epar-product-information_hu.pdf)
 
-Malti (MT) (857.63 KB - PDF)
+Malti (MT) (694.72 KB - PDF)
 
 **First published:**
 
@@ -491,11 +489,11 @@ Malti (MT) (857.63 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/mt/documents/product-information/ogivri-epar-product-information_mt.pdf)
 
-Nederlands (NL) (831.54 KB - PDF)
+Nederlands (NL) (672.88 KB - PDF)
 
 **First published:**
 
@@ -503,11 +501,11 @@ Nederlands (NL) (831.54 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/nl/documents/product-information/ogivri-epar-product-information_nl.pdf)
 
-norsk (NO) (810.97 KB - PDF)
+norsk (NO) (668.85 KB - PDF)
 
 **First published:**
 
@@ -515,11 +513,11 @@ norsk (NO) (810.97 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/no/documents/product-information/ogivri-epar-product-information_no.pdf)
 
-polski (PL) (946.3 KB - PDF)
+polski (PL) (741.15 KB - PDF)
 
 **First published:**
 
@@ -527,11 +525,11 @@ polski (PL) (946.3 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/pl/documents/product-information/ogivri-epar-product-information_pl.pdf)
 
-português (PT) (775.11 KB - PDF)
+português (PT) (594.89 KB - PDF)
 
 **First published:**
 
@@ -539,11 +537,11 @@ português (PT) (775.11 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/pt/documents/product-information/ogivri-epar-product-information_pt.pdf)
 
-română (RO) (915.18 KB - PDF)
+română (RO) (757.29 KB - PDF)
 
 **First published:**
 
@@ -551,11 +549,11 @@ română (RO) (915.18 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/ro/documents/product-information/ogivri-epar-product-information_ro.pdf)
 
-slovenčina (SK) (853.56 KB - PDF)
+slovenčina (SK) (708.48 KB - PDF)
 
 **First published:**
 
@@ -563,11 +561,11 @@ slovenčina (SK) (853.56 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/sk/documents/product-information/ogivri-epar-product-information_sk.pdf)
 
-slovenščina (SL) (824.26 KB - PDF)
+slovenščina (SL) (669.83 KB - PDF)
 
 **First published:**
 
@@ -575,11 +573,11 @@ slovenščina (SL) (824.26 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/sl/documents/product-information/ogivri-epar-product-information_sl.pdf)
 
-Suomi (FI) (763.61 KB - PDF)
+Suomi (FI) (610.78 KB - PDF)
 
 **First published:**
 
@@ -587,11 +585,11 @@ Suomi (FI) (763.61 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/fi/documents/product-information/ogivri-epar-product-information_fi.pdf)
 
-svenska (SV) (739.17 KB - PDF)
+svenska (SV) (595.38 KB - PDF)
 
 **First published:**
 
@@ -599,11 +597,11 @@ svenska (SV) (739.17 KB - PDF)
 
 **Last updated:**
 
-14/11/2024
+23/02/2026
 
 [View](/sv/documents/product-information/ogivri-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IA/0067 13/11/2024
+**Latest procedure affecting product information:** N/0000326197 20/02/2026
 
 icon globe
 
@@ -629,7 +627,7 @@ English (EN) (11.26 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ogivri-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-195)
+[Other languages (24)](#file-language-dropdown-634)
 
 български (BG) (41.95 KB - PDF)
 
@@ -974,9 +972,9 @@ Marketing authorisation holder
 
 Biosimilar Collaborations Ireland Limited
 
-Unit 35/36
+Unit 35/36 Grange Parade Baldoyle Industrial Estate Dublin 13, D13 R20R Ireland
 
-Opinion adopted 18/10/2018 Marketing authorisation issued 12/12/2018 Revision 12
+Opinion adopted 18/10/2018 Marketing authorisation issued 12/12/2018 Revision 13
 
 ## Assessment history
 
@@ -988,13 +986,21 @@ Collapse section
 
 Ogivri : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (150.56 KB - PDF)
+
+**First published:** 23/02/2026
+
+[View](/en/documents/procedural-steps-after/ogivri-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Ogivri : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (170.43 KB - PDF)
 
 **First published:** 25/04/2019
 
-**Last updated:** 14/11/2024
+**Last updated:** 23/02/2026
 
-[View](/en/documents/procedural-steps-after/ogivri-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/ogivri-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -1020,20 +1026,20 @@ English (EN) (79.24 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-ogivri_en.pdf)
 
-#### News on Ogivri
+## News on Ogivri
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11 to 14 September 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-september-2017) 15/09/2017
 
-#### Related information
+## Related information
 
 - [Biosimilar medicines](/en/human-regulatory-overview/biosimilar-medicines-overview)
 
-#### Topics
+## Topics
 
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 14/11/2024
+**This page was last updated on** 23/02/2026
 
 ## Share this page
 

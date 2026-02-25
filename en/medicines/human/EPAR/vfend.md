@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 12:16:11
+document_datetime: 2026-02-20 15:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vfend.html
 document_name: vfend.html
 version: success
-processing_time: 0.1233878
-conversion_datetime: 2025-12-30 10:01:35.908335
+processing_time: 0.1188748
+conversion_datetime: 2026-02-25 11:43:40.764939
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Vfend
 
 [RSS](/en/individual-human-medicine.xml/65623)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 voriconazole Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -152,17 +150,17 @@ For more information about treatment with Vfend, read the package leaflet (also 
 
 Vfend : EPAR - Summary for the public
 
-English (EN) (87.85 KB - PDF)
+English (EN) (167.01 KB - PDF)
 
 **First published:** 07/11/2006
 
-**Last updated:** 14/08/2014
+**Last updated:** 20/02/2026
 
 [View](/en/documents/overview/vfend-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-220)
+[Other languages (22)](#file-language-dropdown-152)
 
-български (BG) (116.71 KB - PDF)
+български (BG) (178.94 KB - PDF)
 
 **First published:**
 
@@ -170,11 +168,11 @@ English (EN) (87.85 KB - PDF)
 
 **Last updated:**
 
-14/08/2014
+20/02/2026
 
 [View](/bg/documents/overview/vfend-epar-summary-public_bg.pdf)
 
-español (ES) (86.48 KB - PDF)
+español (ES) (153.4 KB - PDF)
 
 **First published:**
 
@@ -182,11 +180,11 @@ español (ES) (86.48 KB - PDF)
 
 **Last updated:**
 
-14/08/2014
+20/02/2026
 
 [View](/es/documents/overview/vfend-epar-summary-public_es.pdf)
 
-čeština (CS) (115.16 KB - PDF)
+čeština (CS) (177.59 KB - PDF)
 
 **First published:**
 
@@ -194,11 +192,11 @@ español (ES) (86.48 KB - PDF)
 
 **Last updated:**
 
-14/08/2014
+20/02/2026
 
 [View](/cs/documents/overview/vfend-epar-summary-public_cs.pdf)
 
-dansk (DA) (85.45 KB - PDF)
+dansk (DA) (151.42 KB - PDF)
 
 **First published:**
 
@@ -206,11 +204,11 @@ dansk (DA) (85.45 KB - PDF)
 
 **Last updated:**
 
-14/08/2014
+20/02/2026
 
 [View](/da/documents/overview/vfend-epar-summary-public_da.pdf)
 
-Deutsch (DE) (87.95 KB - PDF)
+Deutsch (DE) (155.95 KB - PDF)
 
 **First published:**
 
@@ -218,11 +216,11 @@ Deutsch (DE) (87.95 KB - PDF)
 
 **Last updated:**
 
-14/08/2014
+20/02/2026
 
 [View](/de/documents/overview/vfend-epar-summary-public_de.pdf)
 
-eesti keel (ET) (84.98 KB - PDF)
+eesti keel (ET) (150.22 KB - PDF)
 
 **First published:**
 
@@ -230,11 +228,11 @@ eesti keel (ET) (84.98 KB - PDF)
 
 **Last updated:**
 
-14/08/2014
+20/02/2026
 
 [View](/et/documents/overview/vfend-epar-summary-public_et.pdf)
 
-ελληνικά (EL) (118.74 KB - PDF)
+ελληνικά (EL) (187.85 KB - PDF)
 
 **First published:**
 
@@ -242,11 +240,11 @@ eesti keel (ET) (84.98 KB - PDF)
 
 **Last updated:**
 
-14/08/2014
+20/02/2026
 
 [View](/el/documents/overview/vfend-epar-summary-public_el.pdf)
 
-français (FR) (87.73 KB - PDF)
+français (FR) (154.61 KB - PDF)
 
 **First published:**
 
@@ -254,11 +252,11 @@ français (FR) (87.73 KB - PDF)
 
 **Last updated:**
 
-14/08/2014
+20/02/2026
 
 [View](/fr/documents/overview/vfend-epar-summary-public_fr.pdf)
 
-hrvatski (HR) (109.81 KB - PDF)
+hrvatski (HR) (176.48 KB - PDF)
 
 **First published:**
 
@@ -266,11 +264,11 @@ hrvatski (HR) (109.81 KB - PDF)
 
 **Last updated:**
 
-14/08/2014
+20/02/2026
 
 [View](/hr/documents/overview/vfend-epar-summary-public_hr.pdf)
 
-italiano (IT) (86.26 KB - PDF)
+italiano (IT) (151.95 KB - PDF)
 
 **First published:**
 
@@ -278,11 +276,11 @@ italiano (IT) (86.26 KB - PDF)
 
 **Last updated:**
 
-14/08/2014
+20/02/2026
 
 [View](/it/documents/overview/vfend-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (132.92 KB - PDF)
+latviešu valoda (LV) (183.55 KB - PDF)
 
 **First published:**
 
@@ -290,11 +288,11 @@ latviešu valoda (LV) (132.92 KB - PDF)
 
 **Last updated:**
 
-14/08/2014
+20/02/2026
 
 [View](/lv/documents/overview/vfend-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (123.01 KB - PDF)
+lietuvių kalba (LT) (177.67 KB - PDF)
 
 **First published:**
 
@@ -302,11 +300,11 @@ lietuvių kalba (LT) (123.01 KB - PDF)
 
 **Last updated:**
 
-14/08/2014
+20/02/2026
 
 [View](/lt/documents/overview/vfend-epar-summary-public_lt.pdf)
 
-magyar (HU) (110.07 KB - PDF)
+magyar (HU) (176.39 KB - PDF)
 
 **First published:**
 
@@ -314,11 +312,11 @@ magyar (HU) (110.07 KB - PDF)
 
 **Last updated:**
 
-14/08/2014
+20/02/2026
 
 [View](/hu/documents/overview/vfend-epar-summary-public_hu.pdf)
 
-Malti (MT) (139.21 KB - PDF)
+Malti (MT) (178.75 KB - PDF)
 
 **First published:**
 
@@ -326,11 +324,11 @@ Malti (MT) (139.21 KB - PDF)
 
 **Last updated:**
 
-14/08/2014
+20/02/2026
 
 [View](/mt/documents/overview/vfend-epar-summary-public_mt.pdf)
 
-Nederlands (NL) (86.17 KB - PDF)
+Nederlands (NL) (152.23 KB - PDF)
 
 **First published:**
 
@@ -338,11 +336,11 @@ Nederlands (NL) (86.17 KB - PDF)
 
 **Last updated:**
 
-14/08/2014
+20/02/2026
 
 [View](/nl/documents/overview/vfend-epar-summary-public_nl.pdf)
 
-polski (PL) (114.92 KB - PDF)
+polski (PL) (181.22 KB - PDF)
 
 **First published:**
 
@@ -350,11 +348,11 @@ polski (PL) (114.92 KB - PDF)
 
 **Last updated:**
 
-14/08/2014
+20/02/2026
 
 [View](/pl/documents/overview/vfend-epar-summary-public_pl.pdf)
 
-português (PT) (80.08 KB - PDF)
+português (PT) (154.69 KB - PDF)
 
 **First published:**
 
@@ -362,11 +360,11 @@ português (PT) (80.08 KB - PDF)
 
 **Last updated:**
 
-14/08/2014
+20/02/2026
 
 [View](/pt/documents/overview/vfend-epar-summary-public_pt.pdf)
 
-română (RO) (111.33 KB - PDF)
+română (RO) (163.6 KB - PDF)
 
 **First published:**
 
@@ -374,11 +372,11 @@ română (RO) (111.33 KB - PDF)
 
 **Last updated:**
 
-14/08/2014
+20/02/2026
 
 [View](/ro/documents/overview/vfend-epar-summary-public_ro.pdf)
 
-slovenčina (SK) (114.26 KB - PDF)
+slovenčina (SK) (176.48 KB - PDF)
 
 **First published:**
 
@@ -386,11 +384,11 @@ slovenčina (SK) (114.26 KB - PDF)
 
 **Last updated:**
 
-14/08/2014
+20/02/2026
 
 [View](/sk/documents/overview/vfend-epar-summary-public_sk.pdf)
 
-slovenščina (SL) (108.01 KB - PDF)
+slovenščina (SL) (175.6 KB - PDF)
 
 **First published:**
 
@@ -398,11 +396,11 @@ slovenščina (SL) (108.01 KB - PDF)
 
 **Last updated:**
 
-14/08/2014
+20/02/2026
 
 [View](/sl/documents/overview/vfend-epar-summary-public_sl.pdf)
 
-Suomi (FI) (107.97 KB - PDF)
+Suomi (FI) (150.29 KB - PDF)
 
 **First published:**
 
@@ -410,11 +408,11 @@ Suomi (FI) (107.97 KB - PDF)
 
 **Last updated:**
 
-14/08/2014
+20/02/2026
 
 [View](/fi/documents/overview/vfend-epar-summary-public_fi.pdf)
 
-svenska (SV) (86.23 KB - PDF)
+svenska (SV) (151.41 KB - PDF)
 
 **First published:**
 
@@ -422,7 +420,7 @@ svenska (SV) (86.23 KB - PDF)
 
 **Last updated:**
 
-14/08/2014
+20/02/2026
 
 [View](/sv/documents/overview/vfend-epar-summary-public_sv.pdf)
 
@@ -440,17 +438,17 @@ English (EN) (668.42 KB - PDF)
 
 Vfend : EPAR - Product Information
 
-English (EN) (1.51 MB - PDF)
+English (EN) (1.57 MB - PDF)
 
 **First published:** 27/10/2009
 
-**Last updated:** 14/07/2025
+**Last updated:** 20/02/2026
 
 [View](/en/documents/product-information/vfend-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-725)
+[Other languages (24)](#file-language-dropdown-891)
 
-български (BG) (1.07 MB - PDF)
+български (BG) (1.08 MB - PDF)
 
 **First published:**
 
@@ -458,11 +456,11 @@ English (EN) (1.51 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/bg/documents/product-information/vfend-epar-product-information_bg.pdf)
 
-español (ES) (896.8 KB - PDF)
+español (ES) (896.73 KB - PDF)
 
 **First published:**
 
@@ -470,11 +468,11 @@ español (ES) (896.8 KB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/es/documents/product-information/vfend-epar-product-information_es.pdf)
 
-čeština (CS) (983.49 KB - PDF)
+čeština (CS) (985.94 KB - PDF)
 
 **First published:**
 
@@ -482,11 +480,11 @@ español (ES) (896.8 KB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/cs/documents/product-information/vfend-epar-product-information_cs.pdf)
 
-dansk (DA) (937.78 KB - PDF)
+dansk (DA) (968.8 KB - PDF)
 
 **First published:**
 
@@ -494,7 +492,7 @@ dansk (DA) (937.78 KB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/da/documents/product-information/vfend-epar-product-information_da.pdf)
 
@@ -506,11 +504,11 @@ Deutsch (DE) (1.03 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/de/documents/product-information/vfend-epar-product-information_de.pdf)
 
-eesti keel (ET) (932.35 KB - PDF)
+eesti keel (ET) (938.96 KB - PDF)
 
 **First published:**
 
@@ -518,7 +516,7 @@ eesti keel (ET) (932.35 KB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/et/documents/product-information/vfend-epar-product-information_et.pdf)
 
@@ -530,11 +528,11 @@ eesti keel (ET) (932.35 KB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/el/documents/product-information/vfend-epar-product-information_el.pdf)
 
-français (FR) (1.04 MB - PDF)
+français (FR) (1.05 MB - PDF)
 
 **First published:**
 
@@ -542,7 +540,7 @@ français (FR) (1.04 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/fr/documents/product-information/vfend-epar-product-information_fr.pdf)
 
@@ -554,11 +552,11 @@ hrvatski (HR) (1.01 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/hr/documents/product-information/vfend-epar-product-information_hr.pdf)
 
-íslenska (IS) (997.58 KB - PDF)
+íslenska (IS) (995.59 KB - PDF)
 
 **First published:**
 
@@ -566,7 +564,7 @@ hrvatski (HR) (1.01 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/is/documents/product-information/vfend-epar-product-information_is.pdf)
 
@@ -578,7 +576,7 @@ italiano (IT) (1.05 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/it/documents/product-information/vfend-epar-product-information_it.pdf)
 
@@ -590,11 +588,11 @@ latviešu valoda (LV) (1.09 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/lv/documents/product-information/vfend-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (912.29 KB - PDF)
+lietuvių kalba (LT) (915.06 KB - PDF)
 
 **First published:**
 
@@ -602,7 +600,7 @@ lietuvių kalba (LT) (912.29 KB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/lt/documents/product-information/vfend-epar-product-information_lt.pdf)
 
@@ -614,7 +612,7 @@ magyar (HU) (1.16 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/hu/documents/product-information/vfend-epar-product-information_hu.pdf)
 
@@ -626,11 +624,11 @@ Malti (MT) (1.33 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/mt/documents/product-information/vfend-epar-product-information_mt.pdf)
 
-Nederlands (NL) (952.87 KB - PDF)
+Nederlands (NL) (955.51 KB - PDF)
 
 **First published:**
 
@@ -638,11 +636,11 @@ Nederlands (NL) (952.87 KB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/nl/documents/product-information/vfend-epar-product-information_nl.pdf)
 
-norsk (NO) (969.27 KB - PDF)
+norsk (NO) (973.1 KB - PDF)
 
 **First published:**
 
@@ -650,11 +648,11 @@ norsk (NO) (969.27 KB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/no/documents/product-information/vfend-epar-product-information_no.pdf)
 
-polski (PL) (1.04 MB - PDF)
+polski (PL) (1.02 MB - PDF)
 
 **First published:**
 
@@ -662,11 +660,11 @@ polski (PL) (1.04 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/pl/documents/product-information/vfend-epar-product-information_pl.pdf)
 
-português (PT) (1013.82 KB - PDF)
+português (PT) (1016.18 KB - PDF)
 
 **First published:**
 
@@ -674,11 +672,11 @@ português (PT) (1013.82 KB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/pt/documents/product-information/vfend-epar-product-information_pt.pdf)
 
-română (RO) (1015.63 KB - PDF)
+română (RO) (1021.63 KB - PDF)
 
 **First published:**
 
@@ -686,11 +684,11 @@ română (RO) (1015.63 KB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/ro/documents/product-information/vfend-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.02 MB - PDF)
+slovenčina (SK) (1.03 MB - PDF)
 
 **First published:**
 
@@ -698,11 +696,11 @@ slovenčina (SK) (1.02 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/sk/documents/product-information/vfend-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1022.95 KB - PDF)
+slovenščina (SL) (1.01 MB - PDF)
 
 **First published:**
 
@@ -710,7 +708,7 @@ slovenščina (SL) (1022.95 KB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/sl/documents/product-information/vfend-epar-product-information_sl.pdf)
 
@@ -722,11 +720,11 @@ Suomi (FI) (1.03 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/fi/documents/product-information/vfend-epar-product-information_fi.pdf)
 
-svenska (SV) (991.44 KB - PDF)
+svenska (SV) (992.95 KB - PDF)
 
 **First published:**
 
@@ -734,11 +732,11 @@ svenska (SV) (991.44 KB - PDF)
 
 **Last updated:**
 
-14/07/2025
+20/02/2026
 
 [View](/sv/documents/product-information/vfend-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** C/WS2758 23/06/2025
+**Latest procedure affecting product information:** VR/0000284468 10/02/2026
 
 icon globe
 
@@ -764,7 +762,7 @@ English (EN) (34.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vfend-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-151)
+[Other languages (24)](#file-language-dropdown-616)
 
 български (BG) (37.84 KB - PDF)
 
@@ -1089,7 +1087,7 @@ Pfizer Europe MA EEIG
 
 Boulevard de la Plaine 17
 
-Opinion adopted 13/12/2001 Marketing authorisation issued 19/03/2002 Revision 57
+Opinion adopted 13/12/2001 Marketing authorisation issued 19/03/2002 Revision 58
 
 ## Assessment history
 
@@ -1101,11 +1099,11 @@ Collapse section
 
 Vfend : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (507.94 KB - PDF)
+English (EN) (149.85 KB - PDF)
 
 **First published:** 27/10/2009
 
-**Last updated:** 14/07/2025
+**Last updated:** 20/02/2026
 
 [View](/en/documents/procedural-steps-after/vfend-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1227,11 +1225,11 @@ English (EN) (107.47 KB - PDF)
 
 [View](/en/documents/procedural-steps/vfend-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### News on Vfend
+## News on Vfend
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 8-11 December 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-8-11-december-2025) 12/12/2025
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1243,7 +1241,7 @@ English (EN) (537.81 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-#### More information on Vfend
+## More information on Vfend
 
 - [EMEA-000191-PIP01-08-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000191-pip01-08-m05)
 - [Vfend - supply shortage](/en/medicines/human/shortages/vfend)
@@ -1252,11 +1250,11 @@ English (EN) (537.81 KB - DOCX)
 - [Evaluation of the Potential Association Between Voriconazole Use and Squamous Cell Carcinoma (SCC) of Skin Among Patients With Lung or Lung/Heart Transplants - post-authorisation study](https://catalogues.ema.europa.eu/study/28286)
 - [An Active Safety Surveillance Program To Monitor Selected Events In Patients With Long-Term Voriconazole Use - post-authorisation study](https://catalogues.ema.europa.eu/study/48463)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 18/09/2025
+**This page was last updated on** 20/02/2026
 
 ## Share this page
 

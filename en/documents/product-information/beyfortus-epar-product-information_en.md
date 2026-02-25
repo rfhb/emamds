@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-06-17 16:38:57
-document_pages: 32
+document_datetime: 2026-02-23 12:57:26
+document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/beyfortus-epar-product-information_en.pdf
 document_name: beyfortus-epar-product-information_en.pdf
 version: success
-processing_time: 6.9059921
-conversion_datetime: 2025-12-30 21:52:28.321004
+processing_time: 7.2412297
+conversion_datetime: 2026-02-25 11:53:35.046805
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -65,9 +65,9 @@ Beyfortus is indicated for the prevention of Respiratory Syncytial Virus (RSV) l
 
 Beyfortus should be used in accordance with official recommendations.
 
-## 4.2 Posology and method of administration
-
 <div style=\"page-break-after: always\"></div>
+
+## 4.2 Posology and method of administration
 
 ## Posology
 
@@ -174,13 +174,15 @@ Table 1: Adverse reactions
 
 Safety was evaluated in MEDLEY in 918 infants at higher risk for severe RSV disease, including 196 extremely preterm infants (GA &lt;29 weeks) and 306 infants with chronic lung disease of prematurity, or haemodynamically significant congenital heart disease entering their first RSV season, who received nirsevimab (n=614) or palivizumab (n=304). The safety profile of nirsevimab in infants who received nirsevimab in their first RSV season was comparable to the palivizumab comparator and consistent with the safety profile of nirsevimab in term and preterm infants GA ≥29 weeks (D5290C00003 and MELODY).
 
-Infants who remain vulnerable to severe RSV disease in their second season Safety was evaluated in MEDLEY in 220 children with chronic lung disease of prematurity or haemodynamically significant congenital heart disease who received nirsevimab or palivizumab in their first RSV season and went on to receive nirsevimab entering their second RSV season (180 subjects received nirsevimab in both Season 1 and 2, 40 received palivizumab in Season 1 and nirsevimab in Season 2). The safety profile of nirsevimab in children who received nirsevimab in their second RSV season was consistent with the safety profile of nirsevimab in term and preterm infants GA ≥29 weeks (D5290C00003 and MELODY).
+## Infants who remain vulnerable to severe RSV disease in their second season
 
-Safety was also evaluated in MUSIC, an open label, uncontrolled, single dose trial in 100 immunocompromised infants and children ≤ 24 months, who received nirsevimab in their first or second RSV season. This included subjects with at least one of the following conditions:
+Safety was evaluated in MEDLEY in 220 children with chronic lung disease of prematurity or haemodynamically significant congenital heart disease who received nirsevimab or palivizumab in their first RSV season and went on to receive nirsevimab entering their second RSV season (180 subjects received nirsevimab in both Season 1 and 2, 40 received palivizumab in Season 1 and nirsevimab in Season 2). The safety profile of nirsevimab in children who received nirsevimab in their second RSV season was consistent with the safety profile of nirsevimab in term and preterm infants GA ≥29 weeks (D5290C00003 and MELODY).
+
+Safety was also evaluated in MUSIC, an open label, uncontrolled, single dose trial in 100 immunocompromised infants and children ≤ 24 months, who received nirsevimab in their first or
 
 <div style=\"page-break-after: always\"></div>
 
-immunodeficiency (combined, antibody, or other etiology) (n=33); systemic high-dose corticosteroid therapy (n=29); organ or bone marrow transplantation (n=16); receiving immunosuppressive chemotherapy (n=20); other immunosuppressive therapy (n=15), and HIV infection (n=8). The safety profile of nirsevimab was consistent with that expected for a population of immunocompromised children and with the safety profile of nirsevimab in term and preterm infants GA ≥29 weeks (D5290C00003 and MELODY).
+second RSV season. This included subjects with at least one of the following conditions: immunodeficiency (combined, antibody, or other etiology) (n=33); systemic high-dose corticosteroid therapy (n=29); organ or bone marrow transplantation (n=16); receiving immunosuppressive chemotherapy (n=20); other immunosuppressive therapy (n=15), and HIV infection (n=8). The safety profile of nirsevimab was consistent with that expected for a population of immunocompromised children and with the safety profile of nirsevimab in term and preterm infants GA ≥29 weeks (D5290C00003 and MELODY).
 
 The safety profile of nirsevimab in children during their second RSV season was consistent with the safety profile of nirsevimab observed during their first RSV season.
 
@@ -210,11 +212,11 @@ Nirsevimab is a recombinant neutralising human IgG1ĸ long-acting monoclonal ant
 
 ## Antiviral activity
 
-The cell culture neutralisation activity of nirsevimab against RSV was measured in a dose-response model using cultured Hep-2 cells. Nirsevimab neutralised RSV A and RSV B isolates with median EC50 values of 3.2 ng/mL (range 0.48 to 15 ng/mL) and 2.9 ng/mL (range 0.3 to 59.7 ng/mL),
+The cell culture neutralisation activity of nirsevimab against RSV was measured in a dose-response model using cultured Hep-2 cells. Nirsevimab neutralised RSV A and RSV B isolates with median
 
 <div style=\"page-break-after: always\"></div>
 
-respectively. The clinical RSV isolates (70 RSV A and 49 RSV B) were collected between 2003 and 2017 from subjects across the United States, Australia, Netherlands, Italy, China and Israel and encoded the most common RSV F sequence polymorphisms found among circulating strains.
+EC50 values of 3.2 ng/mL (range 0.48 to 15 ng/mL) and 2.9 ng/mL (range 0.3 to 59.7 ng/mL), respectively. The clinical RSV isolates (70 RSV A and 49 RSV B) were collected between 2003 and 2017 from subjects across the United States, Australia, Netherlands, Italy, China and Israel and encoded the most common RSV F sequence polymorphisms found among circulating strains.
 
 Nirsevimab demonstrated in vitro binding to immobilised human FcγRs (FcγRI, FcγRIIA, FcγRIIB, and FcγRIII) and equivalent neutralising activity compared to parental monoclonal antibodies, IG7 and IG7-TM (Fc region modified to reduce FcR binding and effector function). In a cotton rat model of RSV infection, IG7 and IG7-TM exhibited comparable dose-dependent reduction in RSV replication in the lungs and nasal turbinates, strongly suggesting that protection from RSV infection is dependent on nirsevimab neutralisation activity rather than Fc-mediated effector function.
 
@@ -234,7 +236,7 @@ Nirsevimab retained activity against recombinant RSV harbouring palivizumab resi
 
 ## Immunogenicity
 
-## Anti-drug antibodies (ADA) were commonly detected.
+Anti-drug antibodies (ADA) were commonly detected.
 
 The employed immunogenicity assay has limitations in detecting ADAs at early onset (prior to Day 361) in the presence of high concentrations of drug, therefore, the incidence of ADA might not have been conclusively determined. The impact on clearance of nirsevimab is uncertain. Subjects who were
 
@@ -406,7 +408,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-## 3 years
+## 4 years
 
 Beyfortus may be kept at room temperature (20°C - 25°C) when protected from light for a maximum of 8 hours. After this time, the syringe must be discarded.
 
@@ -536,8 +538,7 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency; Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -807,7 +808,8 @@ EXP
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 1 mL
 
@@ -966,9 +968,9 @@ Not all pack sizes may be marketed.
 
 Sanofi Winthrop Industrie
 
-82 avenue Raspail 94250 Gentilly France
-
 <div style=\"page-break-after: always\"></div>
+
+82 avenue Raspail 94250 Gentilly France
 
 ## Manufacturer
 
@@ -992,9 +994,7 @@ Tel: +420 233 086 111
 
 ## Danmark
 
-Sanofi A/S
-
-Tlf: +45 4516 7000
+Sanofi A/S Tlf: +45 4516 7000
 
 ## Deutschland
 
@@ -1018,19 +1018,11 @@ sanofi-aventis, S.A. Tel: +34 93 485 94 00
 
 ## France
 
-Sanofi Winthrop Industrie
-
-Tél: 0 800 222 555
-
-Appel depuis l'étranger : +33 1 57 63 23 23
+Sanofi Winthrop Industrie Tél: 0 800 222 555 Appel depuis l'étranger : +33 1 57 63 23 23
 
 ## Hrvatska
 
 Swixx Biopharma d.o.o. Tel: +385 1 2078 500
-
-## Ireland
-
-sanofi-aventis Ireland T/A SANOFI
 
 ## Lietuva
 
@@ -1058,7 +1050,9 @@ Tel: +31 20 245 4000
 
 ## Norge
 
-Sanofi-aventis Norge AS Tlf: + 47 67 10 71 00
+Sanofi-aventis Norge AS
+
+Tlf: + 47 67 10 71 00
 
 ## Österreich
 
@@ -1080,11 +1074,15 @@ Tel: + 351 21 35 89 400
 
 Sanofi Romania SRL Tel: +40(21) 317 31 36
 
+## Ireland
+
+sanofi-aventis Ireland T/A SANOFI
+
+Tel: + 353 (0) 1 4035 600
+
 ## Slovenija
 
 Swixx Biopharma d.o.o
-
-Tel: + 353 (0) 1 4035 600
 
 Tel: +386 1 235 51 00
 

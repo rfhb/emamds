@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-07-02 14:47:20
+document_datetime: 2026-02-24 14:33:36
 document_pages: 106
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lenalidomide-accord-epar-product-information_en.pdf
 document_name: lenalidomide-accord-epar-product-information_en.pdf
 version: success
-processing_time: 38.7490155
-conversion_datetime: 2025-12-26 20:58:28.956844
+processing_time: 39.319111
+conversion_datetime: 2026-02-25 11:54:59.387095
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -182,11 +182,12 @@ The recommended starting dose is lenalidomide 10 mg orally once daily continuous
 
 ## Thrombocytopenia
 
-| When platelets                                                        | Recommended course                                                                       |
-|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| Falls to < 30 x 10 9 /L                                               | Interrupt lenalidomide treatment                                                         |
-| Returns to ≥ 30 x 10 9 /L                                             | Resume lenalidomide at dose level -1 once daily                                          |
-| For each subsequent drop below 30 x 10 9 /L Returns to ≥ 30 x 10 9 /L | Interrupt lenalidomide treatment Resume lenalidomide at next lower dose level once daily |
+| When platelets                              | Recommended course                                                            |
+|---------------------------------------------|-------------------------------------------------------------------------------|
+| Falls to < 30 x 10 9 /L                     | Interrupt lenalidomide treatment                                              |
+| Returns to ≥ 30 x 10 9 /L                   | Resume lenalidomide at dose level -1 once daily                               |
+| For each subsequent drop below 30 x 10 9 /L | Interrupt lenalidomide treatment Resume lenalidomide at next lower dose level |
+| Returns to ≥ 30 x 10 9 /L                   | once daily                                                                    |
 
 ## Absolute neutrophil count (ANC)-neutropenia
 
@@ -227,8 +228,6 @@ The recommended dose of dexamethasone is 40 mg orally once daily on days 1, 8, 1
 | Falls to < 25 x 10 9 /L   | Stop lenalidomide dosing for remainder of cycleª             |
 | Returns to ≥ 50 x 10 9 /L | Decrease by one dose level when dosing resumed at next cycle |
 
-ª If Dose limiting toxicity (DLT) occurs on &gt; day15 of a cycle, lenalidomide dosing will be interrupted for at least the remainder of the current 28-day cycle.
-
 ## · Absolute neutrophil count (ANC) - neutropenia
 
 | When ANC                                                                                                     | Recommended courseª                                                                       |
@@ -266,12 +265,11 @@ Continued treatment: Lenalidomide in combination with dexamethasone until progre
 
 ## · Thrombocytopenia
 
-| When platelets                              | Recommended course                                      |
-|---------------------------------------------|---------------------------------------------------------|
-| Falls to < 30 x 10 9 /L                     | Interrupt lenalidomide treatment                        |
-| Returns to ≥ 50 x 10 9 /L                   | Resume lenalidomide at dose level -1 once daily         |
-| For each subsequent drop below 30 x 10 9 /L | Interrupt lenalidomide treatment                        |
-| Returns to ≥ 50 x 10 9 /L                   | Resume lenalidomide at next lower dose level once daily |
+| When platelets                                                        | Recommended course                                                                       |
+|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| Falls to < 30 x 10 9 /L                                               | Interrupt lenalidomide treatment                                                         |
+| Returns to ≥ 50 x 10 9 /L                                             | Resume lenalidomide at dose level -1 once daily                                          |
+| For each subsequent drop below 30 x 10 9 /L Returns to ≥ 50 x 10 9 /L | Interrupt lenalidomide treatment Resume lenalidomide at next lower dose level once daily |
 
 ## · Absolute neutrophil count (ANC) - neutropenia
 
@@ -467,15 +465,15 @@ For dose adjustments due to toxicity with rituximab, refer to the corresponding 
 
 ## Tumour lysis syndrome (TLS)
 
-All patients should receive TLS prophylaxis (allopurinol, rasburicase or equivalent as per institutional guidelines) and be well hydrated (orally) during the first week of the first cycle or for a longer period if clinically indicated.  To monitor for TLS, patients should have a chemistry panel drawn weekly during the first cycle and as clinically indicated.
+All patients should receive TLS prophylaxis (allopurinol, rasburicase or equivalent as per institutional guidelines) and be well hydrated (orally) during the first week of the first cycle or for a longer period if clinically indicated.  To monitor for TLS, patients should have a chemistry panel drawn weekly during the first cycle and as clinically indicated. intravenous hydration should be provided and appropriate medical management according to the local
 
-Lenalidomide may be continued (maintain dose) in patients with laboratory TLS or Grade 1 clinical TLS, or at the physician's discretion, reduce dose by one level and continue lenalidomide. Vigorous intravenous hydration should be provided and appropriate medical management according to the local standard of care, until correction of electrolyte abnormalities. Rasburicase therapy may be needed to reduce hyperuricaemia. Hospitalisation of the patient will be at physician's discretion.
+Lenalidomide may be continued (maintain dose) in patients with laboratory TLS or Grade 1 clinical TLS, or at the physician's discretion, reduce dose by one level and continue lenalidomide. Vigorous standard of care, until correction of electrolyte abnormalities. Rasburicase therapy may be needed to reduce hyperuricaemia. Hospitalisation of the patient will be at physician's discretion.
 
 In patients with Grade 2 to 4 clinical TLS, interrupt lenalidomide and obtain a chemistry panel weekly or as clinically indicated. Vigorous intravenous hydration should be provided and appropriate medical management according to the local standard of care, until correction of electrolyte abnormalities. Rasburicase therapy and hospitalisation will be at physician's discretion. When the TLS resolves to Grade 0, restart lenalidomide at next lower dose per physician's discretion (see section 4.4).
 
 ## Tumour flare reaction
 
-At the physician's discretion, lenalidomide may be continued in patients with Grade 1 or 2 tumour flare reaction (TFR) without interruption or modification. At the physician's discretion, therapy with non-steroidal anti-inflammatory drugs (NSAIDs), limited duration corticosteroids, and/or narcotic analgesics may be administered. In patients with Grade 3 or 4 TFR, withhold treatment with lenalidomide and initiate therapy with NSAIDs, corticosteroids and/or narcotic analgesics. When TFR resolves to ≤ Grade 1, restart lenalidomide treatment at the same dose level for the rest of the cycle. Patients may be treated for management of symptoms per the guidance for treatment of Grade 1 and 2 TFR (see section 4.4).
+At the physician's discretion, lenalidomide may be continued in patients with Grade 1 or 2 tumour flare reaction (TFR) without interruption or modification. At the physician's discretion, therapy with non-steroidal anti-inflammatory drugs (NSAIDs), limited duration corticosteroids, and/or narcotic analgesics may be administered. In patients with Grade 3 or 4 TFR, withhold treatment with lenalidomide and initiate therapy with NSAIDs, corticosteroids and/or narcotic analgesics. When TFR resolves to ≤ Grade 1 , restart lenalidomide treatment at the same dose level for the rest of the cycle. Patients may be treated for management of symptoms per the guidance for treatment of Grade 1 and 2 TFR (see section 4.4).
 
 ## All indications
 
@@ -497,7 +495,7 @@ Currently available pharmacokinetic data are described in section 5.2. Lenalidom
 
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it would be prudent to monitor renal function.
 
-Newly diagnosed multiple myeloma: patients who are not eligible for transplant
+## Newly diagnosed multiple myeloma: patients who are not eligible for transplant
 
 Patients with newly diagnosed multiple myeloma aged 75 years and older should be carefully assessed before treatment is considered (see section 4.4).
 
@@ -539,7 +537,7 @@ There are no phase 3 trial experiences with End Stage Renal Disease (ESRD) (CLcr
 
 | Renal function (CLcr)                                                 | Dose adjustment                                                                        |
 |-----------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| Moderate renal impairment (30  CLcr < 50 mL/min)                     | 10 mg once daily 1                                                                     |
+| Moderate renal impairment (30 ≤ CLcr < 50 mL/min)                     | 10 mg once daily 1                                                                     |
 | Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis)    | 7.5 mg once daily 2 15 mg every other day                                              |
 | End Stage Renal Disease (ESRD) (CLcr < 30 mL/min, requiring dialysis) | 5 mg once daily. On dialysis days, the dose should be administered following dialysis. |
 
@@ -547,9 +545,9 @@ There are no phase 3 trial experiences with End Stage Renal Disease (ESRD) (CLcr
 
 | Renal function (CLcr)                                                                                                                       | Dose adjustment   | Dose adjustment                                                      |
 |---------------------------------------------------------------------------------------------------------------------------------------------|-------------------|----------------------------------------------------------------------|
-| Moderate renal impairment (30  CLcr < 50 mL/min)                                                                                           | Starting dose     | 5 mg once daily (days 1 to 21 of repeated 28-day cycles)             |
-| Moderate renal impairment (30  CLcr < 50 mL/min)                                                                                           | Dose level -1*    | 2.5 mg once daily (days 1 to 28 of repeated 28-day cycles)           |
-| Moderate renal impairment (30  CLcr < 50 mL/min)                                                                                           | Dose level -2*    | 2.5 mg once every other day (days 1 to 28 of repeated 28-day cycles) |
+| Moderate renal impairment (30 ≤ CLcr < 50 mL/min)                                                                                           | Starting dose     | 5 mg once daily (days 1 to 21 of repeated 28-day cycles)             |
+| Moderate renal impairment (30 ≤ CLcr < 50 mL/min)                                                                                           | Dose level -1*    | 2.5 mg once daily (days 1 to 28 of repeated 28-day cycles)           |
+| Moderate renal impairment (30 ≤ CLcr < 50 mL/min)                                                                                           | Dose level -2*    | 2.5 mg once every other day (days 1 to 28 of repeated 28-day cycles) |
 | Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis)                                                                          | Starting dose     | 2.5 mg once daily (days 1 to 21 of repeated 28-day cycles)           |
 | Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis)                                                                          | Dose level -1*    | 2.5 mg every other day (days 1 to 28 of repeated 28-day cycles)      |
 | Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis)                                                                          | Dose level -2*    | 2.5 mg twice a week (days 1 to 28 of repeated 28-day cycles)         |
@@ -561,18 +559,19 @@ There are no phase 3 trial experiences with End Stage Renal Disease (ESRD) (CLcr
 
 | Renal function (CLcr)                             | Dose adjustment (days 1 to 21 of repeated 28-day cycles)   |
 |---------------------------------------------------|------------------------------------------------------------|
-| Moderate renal impairment (30  CLcr < 50 mL/min) | 10 mg once daily 1                                         |
+| Moderate renal impairment (30 ≤ CLcr < 50 mL/min) | 10 mg once daily 1                                         |
 
 <div style=\"page-break-after: always\"></div>
 
-| Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis) End Stage Renal Disease (ESRD) (CLcr < 30 mL/min, requiring dialysis)   | 7.5 mg once daily 2 15 mg every other day 5 mg once daily. On dialysis days, the dose should be administered   |
-|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis)    | 7.5 mg once daily 2 15 mg every other day                                              |
+|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| End Stage Renal Disease (ESRD) (CLcr < 30 mL/min, requiring dialysis) | 5 mg once daily. On dialysis days, the dose should be administered following dialysis. |
 
 ## Follicular lymphoma
 
 | Renal function (CLcr)                                                 | Dose adjustment (days 1 to 21 of repeated 28-day cycles)                               |
 |-----------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| Moderate renal impairment (30  CLcr < 60 mL/min)                     | 10 mg once daily 1, 2                                                                  |
+| Moderate renal impairment (30 ≤ CLcr < 60 mL/min)                     | 10 mg once daily 1, 2                                                                  |
 | Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis)    | 5 mg once daily                                                                        |
 | End Stage Renal Disease (ESRD) (CLcr < 30 mL/min, requiring dialysis) | 5 mg once daily. On dialysis days, the dose should be administered following dialysis. |
 
@@ -818,13 +817,13 @@ Lenalidomide  is  not  recommended  for  the  treatment  of  patients  with  hig
 
 ## Early death
 
-In study MCL-002 there was overall an apparent increase in early (within 20 weeks) deaths. Patients with high tumour burden at baseline are at increased risk of early death, there were 16/81 (20 %) early deaths in  the lenalidomide arm and  2/28 (7 %) early  deaths in the control arm. Within 52 weeks corresponding figures  were 32/81 (40 %) and 6/28 (21 %) (See section 5.1).
+In study MCL-002 there was overall an apparent increase in early (within 20 weeks) deaths. Patients with high tumour burden at baseline are at increased risk of early death, there were 16/81 (20 %) early deaths in the  lenalidomide arm  and  2/28  (7 %) early  deaths in  the control arm.  Within 52 weeks corresponding figures  were 32/81 (40 %) and 6/28 (21 %) (See section 5.1).
 
 ## Adverse events
 
 In  study MCL-002, during treatment cycle 1, 11/81 (14 %) patients with high tumour burden were withdrawn  from therapy in the lenalidomide arm vs. 1/28 (4 %) in the control group. The main reason for  treatment withdrawal  for  patients  with  high  tumour  burden  during  treatment  cycle  1  in  the lenalidomide arm was  adverse events, 7/11 (64 %).
 
-Patients with  high  tumour burden should therefore be closely monitored for adverse reactions (see Section 4.8)  including signs  of  tumour  flare  reaction  (TFR).  Please  refer  to  section  4.2  for  dose adjustments for TFR.  High tumour burden was defined as at least one lesion ≥ 5 cm in diameter or 3 lesions ≥ 3 cm.
+Patients with  high  tumour burden  should  therefore be closely  monitored  for adverse reactions (see Section 4.8)  including  signs  of  tumour  flare  reaction  (TFR).  Please  refer  to  section  4.2  for  dose adjustments for TFR.  High tumour burden was defined as at least one lesion ≥ 5 cm in diameter or 3 lesions ≥ 3 cm.
 
 ## Allergic reactions and severe skin reactions
 
@@ -864,11 +863,11 @@ As a consequence, the benefit/risk ratio of lenalidomide when MDS is associated 
 
 ## · TP53 status
 
-A TP53 mutation is present in 20 to 25 % of lower-risk MDS Del 5q patients and is associated with a higher  risk of progression to acute myeloid leukaemia (AML). In a post-hoc analysis of a clinical trial  of lenalidomide  in  low-  or  intermediate-1-risk  myelodysplastic  syndromes  (MDS-004),  the estimated 2-year rate of progression to AML was 27.5 % in patients with IHC-p53 positivity (1 % cut-off level of strong  nuclear staining, using immunohistochemical assessment of p53 protein as a surrogate for TP53 mutation  status) and 3.6 % in patients with IHC-p53 negativity (p=0.0038) (see section 4.8)
+A TP53 mutation is present in 20 to 25 % of lower-risk MDS Del 5q patients and is associated with a higher  risk of progression to acute myeloid leukaemia (AML). In a post-hoc analysis of a clinical trial  of lenalidomide  in  low-  or  intermediate-1-risk  myelodysplastic  syndromes  (MDS-004),  the estimated 2-year rate of progression to AML was 27.5 % in patients with IHC-p53 positivity (1 % cut-off level of strong  nuclear staining, using immunohistochemical assessment of p53 protein as a surrogate for TP53 mutation status) and 3.6 % in patients with IHC-p53 negativity (p=0.0038) (see section 4.8)
 
 ## Progression to other malignancies in mantle cell lymphoma
 
-In mantle cell lymphoma, AML, B-cell malignancies and non-melanoma skin cancer (NMSC) are identified  risks.
+In  mantle cell lymphoma, AML, B-cell malignancies and non-melanoma skin cancer (NMSC) are identified  risks.
 
 ## Second primary malignancies in follicular lymphoma
 
@@ -906,7 +905,7 @@ Reactivation of hepatitis B has been reported rarely in patients receiving lenal
 
 ## Newly diagnosed multiple myeloma patients
 
-There was a higher rate of intolerance (Grade 3 or 4 adverse events, serious adverse events, discontinuation) in patients with age &gt; 75 years, ISS stage III, ECOG PS ≤ 2 or CLcr &lt; 60 mL/min when lenalidomide is given in combination. Patients should be carefully assessed for their ability to tolerate lenalidomide in combination, with consideration to age, ISS stage III, ECOG PS≤ 2 or CLcr&lt; 60 mL/min (see sections 4.2 and 4.8).
+There was a higher rate of intolerance (Grade 3 or 4 adverse events, serious adverse events, discontinuation) in patients with age &gt; 75 years, ISS stage III, ECOG PS ≤ 2 or CLcr &lt; 60 mL/min when lenalidomide is given in combination. Patients should be carefully assessed for their ability to tolerate lenalidomide in combination, with consideration to age , ISS stage III, ECOG PS≤ 2 or CLcr&lt; 60 mL/min (see sections 4.2 and 4.8).
 
 ## Cataract
 
@@ -1048,7 +1047,7 @@ The observed adverse reactions which occurred more frequently with lenalidomide 
 
 The overall safety profile of lenalidomide in patients with myelodysplastic syndromes is based on data from  a total of 286 patients from one phase 2 study and one phase 3 study (see section 5.1). In the phase 2, all 148  patients were on lenalidomide treatment. In the phase 3 study, 69 patients were on lenalidomide 5 mg, 69  patients on lenalidomide 10 mg and 67 patients were on placebo during the double-blind phase of the study.
 
-Most  adverse  reactions  tended  to  occur  during  the first  16 weeks  of  therapy  with lenalidomide.  Serious adverse reactions include:
+Most  adverse  reactions  tended to  occur  during  the first  16 weeks  of  therapy  with lenalidomide.  Serious adverse reactions include:
 
 - Venous thromboembolism (deep vein thrombosis, pulmonary embolism) (see section 4.4)
 - Grade 3 or 4 neutropenia, febrile neutropenia and Grade 3 or 4 thrombocytopenia (see section 4.4).
@@ -1065,7 +1064,7 @@ The serious adverse reactions observed more frequently in  study MCL-002 (with a
 - Pulmonary embolism (3.6 %)
 - Diarrhoea (3.6 %)
 
-The most frequently observed adverse reactions which occurred more frequently in the lenalidomide arm  compared with the control arm in study MCL-002 were neutropenia (50.9 %), anaemia (28.7 %), diarrhoea (22.8 %), fatigue (21.0 %), constipation  (17.4 %),  pyrexia (16.8 %),  and  rash  (including dermatitis allergic)
+The most frequently observed adverse reactions which occurred more frequently in the lenalidomide arm  compared with the control arm in study MCL-002 were neutropenia (50.9 %), anaemia (28.7 %), diarrhoea (22.8 %),  fatigue (21.0 %),  constipation  (17.4 %),  pyrexia (16.8 %),  and  rash  (including dermatitis allergic)
 
 (16.2 %).
 
@@ -1089,7 +1088,7 @@ In the NHL-007 study the adverse reactions observed more frequently in the lenal
 
 ## Tabulated list of adverse reactions
 
-The adverse reactions observed in patients treated with lenalidomide are listed below by system organ class and frequency. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000), not known (cannot be estimated from the available data).
+The adverse reactions observed in patients treated with lenalidomide are listed below by system organ class and frequency. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. Frequencies are defined as: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt; 1/10); uncommon ( ≥ 1/1,000 to &lt; 1/100); rare ( ≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000), not known (cannot be estimated from the available data).
 
 Adverse reactions have been included under the appropriate category in the table below according to the highest frequency observed in any of the main clinical trials.
 
@@ -1107,7 +1106,7 @@ Table 1. ADRs reported in clinical trials in patients with multiple myeloma trea
 
 | System Organ Class/Preferred Term                                   | All ADRs/Frequency                                                                                                 | Grade 3-4 ADRs/Frequency                                                                                                                 |
 |---------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) | Common Myelodysplastic syndrome ◊,*                                                                                |                                                                                                                                          |
+| Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) | Common Myelodysplastic syndrome ◊ ,*                                                                               |                                                                                                                                          |
 | Blood and Lymphatic System Disorders                                | Very common Neutropenia^ ,◊ , Febrile neutropenia^ ,◊ , Thrombocytopenia^ ,◊ , Anaemia, Leucopenia ◊ , Lymphopenia | Very common Neutropenia^ ,◊ , Febrile neutropenia^ ,◊ , Thrombocytopenia^ ,◊ , Anaemia, Leucopenia ◊ , Lymphopenia Common Pancytopenia ◊ |
 | Metabolism and Nutrition Disorders                                  | Very common Hypokalaemia                                                                                           | Common Hypokalaemia, Dehydration                                                                                                         |
 | Nervous System Disorders                                            | Very common Paraesthesia Common Peripheral neuropathy c                                                            | Common Headache                                                                                                                          |
@@ -1119,7 +1118,7 @@ Table 1. ADRs reported in clinical trials in patients with multiple myeloma trea
 | Musculoskeletal and Connective Tissue Disorders                     | Very common Muscle spasms Common Myalgia, Musculoskeletal pain                                                     |                                                                                                                                          |
 | General Disorders and Administration Site Conditions                | Very common Fatigue, Asthenia, Pyrexia                                                                             | Common Fatigue, Asthenia                                                                                                                 |
 
-- ◊  Adverse reactions reported as serious in clinical trials in patients with NDMM who had undergone ASCT
+- ◊ Adverse reactions reported as serious in clinical trials in patients with NDMM who had undergone ASCT
 
 *  Applies to serious adverse drug reactions only
 
@@ -1144,7 +1143,7 @@ Table 2. ADRs reported in clinical studies in patients with multiple myeloma tre
 | System Organ Class / Preferred Term                                 | All ADRs/Frequency                                                                                                                                                                                                                                                                         | Grade 3-4 ADRs/Frequency                                                                                                                                                                                                                                       |
 |---------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Infections and Infestations                                         | Very common Pneumonia ◊,◊◊ , Upper respiratory tract infection ◊ , Bacterial, viral and fungal infections (including opportunistic infections) ◊ , Nasopharyngitis, Pharyngitis, Bronchitis ◊ , Rhinitis Common Sepsis ◊,◊◊ , Lung infection ◊◊ , Urinary tract infection ◊◊ , Sinusitis ◊ | Common Pneumonia ◊,◊◊ , Bacterial, viral and fungal infections (including opportunistic infections) ◊ , Cellulitis ◊ , Sepsis ◊,◊◊ , Lung infection ◊◊ , Bronchitis ◊ , Respiratory tract infection ◊◊ , Urinary tract infection ◊◊ , Enterocolitis infectious |
-| Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) | Uncommon Basal cell carcinoma^ ,◊ , Squamous skin cancer^ ,◊,*                                                                                                                                                                                                                             | Common Acute myeloid leukaemia ◊ , Myelodysplastic syndrome ◊ , Squamous cell carcinoma of skin^ ,◊,** Uncommon T-cell type acute leukaemia ◊ , Basal cell carcinoma^ ,◊ , Tumour lysis syndrome                                                               |
+| Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) | Uncommon Basal cell carcinoma^ ,◊ , Squamous skin cancer^ , ◊, *                                                                                                                                                                                                                           | Common Acute myeloid leukaemia ◊ , Myelodysplastic syndrome ◊ , Squamous cell carcinoma of skin^ ,◊, ** Uncommon T-cell type acute leukaemia ◊ , Basal cell carcinoma^ ,◊ , Tumour lysis syndrome                                                              |
 | Blood and Lymphatic System Disorders                                | Very common Neutropenia^ ,◊,◊◊ , Thrombocytopenia^ ,◊,◊◊ , Anaemia ◊ , Haemorrhagic disorder^, Leucopenia, Lymphopenia Common Febrile neutropenia^ ,◊ , Pancytopenia ◊ Uncommon Haemolysis, Autoimmune haemolytic anaemia, Haemolytic anaemia                                              | Very common Neutropenia^ ,◊,◊◊ , Thrombocytopenia^ ,◊,◊◊ ,Anaemia ◊ , Leucopenia, Lymphopenia Common Febrile neutropenia^ ,◊ , Pancytopenia ◊ , Haemolytic anaemia Uncommon Hypercoagulation, Coagulopathy                                                     |
 | Immune System Disorders                                             | Uncommon Hypersensitivity^                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                |
 | Endocrine Disorders                                                 | Common Hypothyroidism                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                |
@@ -1183,7 +1182,7 @@ Table 2. ADRs reported in clinical studies in patients with multiple myeloma tre
 
 - ^See section 4.8 description of selected adverse reactions
 
-◊  Adverse reactions reported as serious in clinical trials in patients with multiple myeloma treated with lenalidomide in combination with dexamethasone, or with melphalan and prednisone
+◊ Adverse reactions reported as serious in clinical trials in patients with multiple myeloma treated with lenalidomide in combination with dexamethasone, or with melphalan and prednisone
 
 + Applies to serious adverse drug reactions only
 * Squamous skin cancer was reported in clinical trials in previously treated myeloma patients with lenalidomide/dexamethasone compared to controls
@@ -1193,34 +1192,36 @@ Table 2. ADRs reported in clinical studies in patients with multiple myeloma tre
 
 The  following  tables  are  derived  from  data  gathered  during  the  main  studies  in  monotherapy  for myelodysplastic syndromes and mantle cell lymphoma.
 
-Table 3. ADRs reported in clinical trials in patients with myelodysplastic syndromes treated with lenalidomide#
+Table 3. ADRs reported in clinical trials in patients with myelodysplastic syndromes treated with
+
+lenalidomide#
 
 | System Organ Class / Preferred Term   | All ADRs/Frequency                                                                        | Grade 3-4 ADRs/Frequency                                                                                                  |
 |---------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | Infections and Infestations           | Very common Bacterial, viral and fungal infections (including opportunistic infections) ◊ | Very common Pneumonia ◊ Common Bacterial, viral and fungal infections (including opportunistic infections) ◊ , Bronchitis |
-| Blood and Lymphatic System Disorders  | Very common Thrombocytopenia^ ,◊ , Neutropenia^ ,◊ , Anaemia ◊ , Leucopenia               | Very common Thrombocytopenia^ ,◊ , Neutropenia^ ,◊ , Anaemia ◊ , Leucopenia Common Febrile neutropenia^ ,◊                |
+| Blood and Lymphatic System Disorders  | Very common Thrombocytopenia^ ,◊ , Neutropenia^ ,◊ , Anaemia ◊ , Leucopenia               | Very common Thrombocytopenia^ , ◊ , Neutropenia^ , ◊ , Anaemia ◊ , Leucopenia Common Febrile neutropenia^ , ◊             |
 | Endocrine Disorders                   | Very common Hypothyroidism                                                                |                                                                                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
-| Metabolism and Nutrition Disorders                   | Very common Decreased appetite Common Iron overload, Weight decreased                                                                                    | Common Hyperglycaemia ◊ , Decreased appetite                                                       |
-|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| Psychiatric Disorders                                |                                                                                                                                                          | Common Alteredmood ◊,~                                                                             |
-| Nervous System Disorders                             | Very common Dizziness, Headache Common Paraesthesia                                                                                                      |                                                                                                    |
-| Cardiac Disorders                                    |                                                                                                                                                          | Common Acute myocardial infarction^ ,◊ , Atrial fibrillation ◊ ,Cardiacfailure ◊                   |
-| Vascular Disorders                                   | Common Hypertension, Haematoma                                                                                                                           | Common Venous thromboembolic events, predominantly deep vein thrombosis and pulmonary embolism^ ,◊ |
-| Respiratory, Thoracic and Mediastinal Disorders      | Very common Epistaxis^                                                                                                                                   |                                                                                                    |
-| Gastrointestinal Disorders                           | Very common Diarrhoea ◊ , Abdominal pain (including upper), Nausea, Vomiting, Constipation Common Dry mouth, Dyspepsia                                   | Common Diarrhoea ◊ , Nausea, Toothache                                                             |
-| Hepatobiliary Disorders                              | Common Abnormal liver function tests                                                                                                                     | Common Abnormal liver function tests                                                               |
-| Skin and Subcutaneous Tissue Disorders               | Very common Rashes, Dry Skin, Pruritus                                                                                                                   | Common Rashes, Pruritus                                                                            |
-| Musculoskeletal and Connective Tissue Disorders      | Very common Muscle spasms, Musculoskeletal pain (including back pain ◊ and pain in extremity), Arthralgia, Myalgia                                       | Common Backpain ◊                                                                                  |
-| Renal and Urinary Disorders                          |                                                                                                                                                          | Common Renalfailure ◊                                                                              |
-| General Disorders and Administration Site Conditions | Very common Fatigue, Peripheral oedema, Influenza like illness syndrome (including pyrexia, cough, pharyngitis, myalgia, musculoskeletal pain, headache) | Common Pyrexia                                                                                     |
-| Injury, Poisoning and Procedural Complications       |                                                                                                                                                          | Common Fall                                                                                        |
-
-◊ Adverse events reported as serious in myelodysplastic syndromes clinical trials
+| Metabolism and Nutrition Disorders                   | Very common Decreased appetite Common Iron overload, Weight decreased                                                                                    | Common Hyperglycaemia ◊ , Decreased appetite                                                        |
+|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Psychiatric Disorders                                |                                                                                                                                                          | Common Alteredmood ◊,~                                                                              |
+| Nervous System Disorders                             | Very common Dizziness, Headache Common Paraesthesia                                                                                                      |                                                                                                     |
+| Cardiac Disorders                                    |                                                                                                                                                          | Common Acute myocardial infarction^ , ◊ , Atrial fibrillation ◊ ,Cardiacfailure ◊                   |
+| Vascular Disorders                                   | Common Hypertension, Haematoma                                                                                                                           | Common Venous thromboembolic events, predominantly deep vein thrombosis and pulmonary embolism^ , ◊ |
+| Respiratory, Thoracic and Mediastinal Disorders      | Very common Epistaxis^                                                                                                                                   |                                                                                                     |
+| Gastrointestinal Disorders                           | Very common Diarrhoea ◊ , Abdominal pain (including upper), Nausea, Vomiting, Constipation Common Dry mouth, Dyspepsia                                   | Common Diarrhoea ◊ , Nausea, Toothache                                                              |
+| Hepatobiliary Disorders                              | Common Abnormal liver function tests                                                                                                                     | Common Abnormal liver function tests                                                                |
+| Skin and Subcutaneous Tissue Disorders               | Very common Rashes, Dry Skin, Pruritus                                                                                                                   | Common Rashes, Pruritus                                                                             |
+| Musculoskeletal and Connective Tissue Disorders      | Very common Muscle spasms, Musculoskeletal pain (including back pain ◊ and pain in extremity), Arthralgia, Myalgia                                       | Common Backpain ◊                                                                                   |
+| Renal and Urinary Disorders                          |                                                                                                                                                          | Common Renalfailure ◊                                                                               |
+| General Disorders and Administration Site Conditions | Very common Fatigue, Peripheral oedema, Influenza like illness syndrome (including pyrexia, cough, pharyngitis, myalgia, musculoskeletal pain, headache) | Common Pyrexia                                                                                      |
+| Injury, Poisoning and Procedural Complications       |                                                                                                                                                          | Common Fall                                                                                         |
 
 ^see section 4.8 description of selected adverse reactions
+
+◊ Adverse events reported as serious in myelodysplastic syndromes clinical trials
 
 ~Altered mood was reported as a common serious adverse event in the myelodysplastic syndromes phase 3 study; it was not reported as a Grade 3 or 4 adverse event
 
@@ -1234,10 +1235,7 @@ Algorithm applied for inclusion in the SmPC: All ADRs captured by the phase 3 st
 <div style=\"page-break-after: always\"></div>
 
 - o All treatment-emergent Grade 3 or 4 adverse events in 1% of subjects in lenalidomide and at least 1% difference in proportion between lenalidomide and placebo
-- o
-
-All treatment-emergent serious adverse events in 1% of subjects in lenalidomide and at least 1% difference in proportion between lenalidomide and placebo
-
+- o All treatment-emergent serious adverse events in 1% of subjects in lenalidomide and at least 1% difference in proportion between lenalidomide and placebo
 - Myelodysplastic syndromes phase 2 study
 - o All treatment-emergent adverse events with ≥ 5% of lenalidomide treated subjects
 - o All treatment-emergent Grade 3 or 4 adverse\\events in 1% of lenalidomide treated subjects
@@ -1245,18 +1243,18 @@ All treatment-emergent serious adverse events in 1% of subjects in lenalidomide 
 
 Table 4. ADRs reported in clinical trials in patients with mantle cell lymphoma treated with lenalidomide
 
-| System Organ Class / Preferred Term                                 | All ADRs/Frequency                                                                                                                       | Grade 3-4 ADRs/Frequency                                                                              |
-|---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| Infections and Infestations                                         | Very common Bacterial, viral and fungal infections (including opportunistic infections) ◊ , Nasopharyngitis,Pneumonia ◊ Common Sinusitis | Common Bacterial, viral and fungal infections (including opportunistic infections) ◊ , Pneumonia ◊    |
-| Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) | Common Tumour flare reaction                                                                                                             | Common Tumour flare reaction, Squamous skin cancer^ ,◊, Basalcellcarcinoma^ ,◊                        |
-| Blood and Lymphatic System Disorders                                | Very common Thrombocytopenia^,Neutropenia^ ,◊ , Leucopenia ◊ , Anaemia ◊ Common Febrileneutropenia^ ,◊                                   | Very common Thrombocytopenia^,Neutropenia^ ,◊ , Anaemia ◊ Common Febrileneutropenia^ ,◊ ,Leucopenia ◊ |
-| Metabolism and Nutrition Disorders                                  | Very common Decreased appetite, Weight decreased, Hypokalaemia Common Dehydration ◊                                                      | Common Dehydration ◊ ,Hyponatraemia, Hypocalcaemia                                                    |
-| Psychiatric Disorders                                               | Common Insomnia                                                                                                                          |                                                                                                       |
-| Nervous System Disorders                                            | Common Dysgeuesia, Headache, neuropathy peripheral                                                                                       | Common Peripheral sensory neuropathy, Lethargy                                                        |
-| Ear and Labyrinth Disorders                                         | Common Vertigo                                                                                                                           |                                                                                                       |
-| Cardiac Disorders                                                   |                                                                                                                                          | Common Myocardial infarction (including acute)^ ,◊ , Cardiac failure                                  |
-| Vascular Disorders                                                  | Common Hypotension ◊                                                                                                                     | Common Deep vein thrombosis ◊ , pulmonary embolism^ ,◊ , Hypotension ◊                                |
-| Respiratory, Thoracic and Mediastinal Disorders                     | Very common Dyspnoea ◊                                                                                                                   | Common Dyspnoea ◊                                                                                     |
+| System Organ Class / Preferred Term                                 | All ADRs/Frequency                                                                                                                       | Grade 3-4 ADRs/Frequency                                                                                |
+|---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| Infections and Infestations                                         | Very common Bacterial, viral and fungal infections (including opportunistic infections) ◊ , Nasopharyngitis,Pneumonia ◊ Common Sinusitis | Common Bacterial, viral and fungal infections (including opportunistic infections) ◊ , Pneumonia ◊      |
+| Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) | Common Tumour flare reaction                                                                                                             | Common Tumour flare reaction, Squamous skin cancer^ , ◊ , Basalcellcarcinoma^ ,◊                        |
+| Blood and Lymphatic System Disorders                                | Very common Thrombocytopenia^,Neutropenia^ , ◊ , Leucopenia ◊ , Anaemia ◊ Common Febrileneutropenia^ , ◊                                 | Very common Thrombocytopenia^,Neutropenia^ , ◊ , Anaemia ◊ Common Febrileneutropenia^ , ◊ ,Leucopenia ◊ |
+| Metabolism and Nutrition Disorders                                  | Very common Decreased appetite, Weight decreased, Hypokalaemia Common Dehydration ◊                                                      | Common Dehydration ◊ ,Hyponatraemia, Hypocalcaemia                                                      |
+| Psychiatric Disorders                                               | Common Insomnia                                                                                                                          |                                                                                                         |
+| Nervous System Disorders                                            | Common Dysgeuesia, Headache, neuropathy peripheral                                                                                       | Common Peripheral sensory neuropathy, Lethargy                                                          |
+| Ear and Labyrinth Disorders                                         | Common Vertigo                                                                                                                           |                                                                                                         |
+| Cardiac Disorders                                                   |                                                                                                                                          | Common Myocardial infarction (including acute)^ , ◊ , Cardiac failure                                   |
+| Vascular Disorders                                                  | Common Hypotension ◊                                                                                                                     | Common Deep vein thrombosis ◊ , pulmonary embolism^ , ◊ , Hypotension ◊                                 |
+| Respiratory, Thoracic and Mediastinal Disorders                     | Very common Dyspnoea ◊                                                                                                                   | Common Dyspnoea ◊                                                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1268,7 +1266,7 @@ Table 4. ADRs reported in clinical trials in patients with mantle cell lymphoma 
 | Renal and Urinary Disorders                          |                                                                                                                                  | Common Renalfailure ◊                                                 |
 | General Disorders and Administration Site Conditions | Very common Fatigue, Asthenia ◊ , Peripheral oedema, Influenza like illness syndrome (including pyrexia ◊ , cough) Common Chills | Common Pyrexia ◊ ,Asthenia ◊ ,Fatigue                                 |
 
-◊ Adverse events  reported  as  serious in mantle cell lymphoma  clinical trialsAlgorithm applied  for mantle  cell lymphoma:
+◊ Adverse events reported as serious  in mantle cell lymphoma clinical trialsAlgorithm applied for mantle cell lymphoma:
 
 - Mantle cell lymphoma controlled phase 2 study
 - o All treatment-emergent adverse events with ≥ 5% of subjects in lenalidomide arm and at least 2% difference in proportion between lenalidomide and control arm
@@ -1317,15 +1315,15 @@ Algorithm applied for follicular lymphoma:
 
 ## Controlled- Phase 3 trial:
 
-- o NHL-007 ADRs- All treatment-emergent AEs with ≥ 5.0% of subjects in lenalidomide/rituximab arm and at least 2.0% higher frequency (%) in Len arm compared to control arm - (Safety population)
+- o NHL-007 ADRs- All treatmentemergent AEs with ≥ 5.0% of subjects in lenalidomide/rituximab arm and at least 2.0% higher frequency (%) in Len arm compared to control arm - (Safety population)
 - o NHL-007 Gr 3/4 ADRs- All Grades 3 or Grade 4 treatment-emergent AEs with at least 1.0% subjects in lenalidomide/rituximab arm and at least 1.0% higher frequency in lenalidomide arm compared to control arm - (safety population)
 - o NHL-007 Serious ADRs- All serious treatment-emergent AEs with at least 1.0% subjects in lenalidomide/rituximab arm and at least 1.0% higher frequency in lenalidomide/rituximab arm compared to control arm - (safety population)
 
 ## FL single arm - phase 3 trial:
 
-- o NHL-008 ADRs- All treatment-emergent adverse events with ≥ 5.0% of subjects
-- o NHL-008 Gr 3/4 ADRs- All Grade 3/4 treatment-emergent adverse events reported in ≥ 1.0% of subjects
-- o NHL-008 Serious ADRs- All serious treatment-emergent adverse events reported in ≥ 1.0% of subjects
+- o NHL-008 ADRs- All treatmentemergent adverse events with ≥ 5.0% of subjects
+- o NHL-008 Gr 3/4 ADRs- All Grade 3/4 treatmentemergent adverse events reported in ≥ 1.0% of subjects
+- o NHL-008 Serious ADRs- All serious treatmentemergent adverse events reported in ≥ 1.0% of subjects
 - ◊ Adverse events reported as serious in follicular lymphoma clinical trials
 + Applies to serious adverse drug reactions only
 *  Rash includes PT of rash and rash maculo-papular
@@ -1401,7 +1399,7 @@ The combination of lenalidomide with dexamethasone in multiple myeloma patients 
 
 ## · Myelodysplastic syndromes patients
 
-In myelodysplastic syndromes patients, lenalidomide is associated with a higher incidence of Grade 3 or  4 neutropenia (74.6 % in  lenalidomide-treated  patients  compared  with  14.9 %  in patients  on placebo in the  phase 3 study). Grade 3 or 4 febrile neutropenia episodes were observed in 2.2 % of lenalidomide-treated patients  compared  with  0.0 %  in  patients  on  placebo).  Lenalidomide  is associated with a higher incidence of  Grade 3 or 4 thrombocytopenia (37 % in lenalidomide-treated patients compared with 1.5 % in patients on  placebo in the phase 3 study).
+In myelodysplastic syndromes patients, lenalidomide is associated with a higher incidence of Grade 3 or  4 neutropenia  (74.6 % in  lenalidomide-treated  patients  compared  with  14.9 %  in  patients  on placebo in the  phase 3 study). Grade 3 or 4 febrile neutropenia episodes were observed in 2.2 % of lenalidomide-treated patients  compared  with  0.0 %  in  patients  on  placebo).  Lenalidomide  is associated with a higher incidence of  Grade 3 or 4 thrombocytopenia (37 % in lenalidomide-treated patients compared with 1.5 % in patients on  placebo in the phase 3 study).
 
 ## · Mantle cell lymphoma patients
 
@@ -1497,7 +1495,7 @@ Specifically, lenalidomide inhibits proliferation and enhances apoptosis of cert
 
 The combination of lenalidomide and rituximab increases ADCC and direct tumor apoptosis in follicular lymphoma cells.
 
-The lenalidomide mechanism of action also includes additional activities such as anti-angiogenic and pro-erythropoietic properties. Lenalidomide inhibits angiogenesis by blocking the migration and adhesion of endothelial cells and the formation of microvessels, augments foetal haemoglobin production by CD34+ haematopoietic stem cells, and inhibits production of pro-inflammatory cytokines (e.g., TNF-α and IL-6) by monocytes.
+The lenalidomide mechanism of action also includes additional activities such as anti-angiogenic and pro-erythropoietic properties. Lenalidomide inhibits angiogenesis by blocking the migration and adhesion of endothelial cells and the formation of microvessels, augments foetal haemoglobin production by CD34+ haematopoietic stem cells, and inhibits production of pro-inflammatory cytokines (e.g., TNFα and IL -6) by monocytes.
 
 ## Clinical efficacy and safety
 
@@ -1590,7 +1588,7 @@ Table 8. Summary of overall efficacy data
 
 |                                      | Initial treatment                 | Initial treatment                |
 |--------------------------------------|-----------------------------------|----------------------------------|
-|                                      | RVd (3-week cycles  8) (N = 263) | Rd (4-week cycles  6) (N = 260) |
+|                                      | RVd (3-week cycles × 8) (N = 263) | Rd (4-week cycles × 6) (N = 260) |
 | IRAC-assessed PFS (months)           |                                   |                                  |
 | Median a PFS time, months (95 %CI) b | 41.7 (33.1, 51.5)                 | 29.7 (24.2, 37.8)                |
 | HR [95 %CI] c ; p-value d            | 0.76 (0.62, 0.94); 0.010          | 0.76 (0.62, 0.94); 0.010         |
@@ -1673,16 +1671,16 @@ Table 9. Summary of overall efficacy data
 - a    The median is based on the Kaplan-Meier estimate.
 - b    The 95 % CI about the median.
 - c   Based on Cox proportional hazards model comparing the hazard functions associated with the indicated treatment arms.
-- d   The p-value is based on the unstratified log-rank test of Kaplan-Meier curve differences between the indicated treatment arms.
+- d The p-value is based on the unstratified log-rank test of Kaplan-Meier curve differences between the indicated treatment arms.
 - e    Exploratory endpoint (PFS2)
 - f The median is the univariate statistic without adjusting for censoring.
-- g     Best assessment of adjudicated response during the treatment phase of the study (for definitions of each response category, Data cut-off date = 24 May 2013).
+- g Best assessment of adjudicated response during the treatment phase of the study (for definitions of each response category, Data cut-off date = 24 May 2013).
 
 h  data cut 24 May 2013
 
 ## Lenalidomide in combination with melphalan and prednisone followed by maintenance therapy in patients who are not eligible for transplant
 
-The safety and efficacy of lenalidomide was assessed in a phase 3 multicentre, randomised double blind 3 arm study (MM-015) of patients who were 65 years or older and had a serum creatinine &lt; 2.5 mg/dL. The study compared lenalidomide in combination with melphalan and prednisone (MPR) with or without lenalidomide maintenance therapy until disease progression, to that of melphalan and prednisone for a maximum of 9  cycles. Patients were randomised in a 1:1:1 ratio to one of 3 treatment arms. Patients were stratified at randomisation by age (  75 vs. &gt; 75 years) and stage (ISS; Stages I and II vs. stage III).
+The safety and efficacy of lenalidomide was assessed in a phase 3 multicentre, randomised double blind 3 arm study (MM-015) of patients who were 65 years or older and had a serum creatinine &lt; 2.5 mg/dL. The study compared lenalidomide in combination with melphalan and prednisone (MPR) with or without lenalidomide maintenance therapy until disease progression, to that of melphalan and prednisone for a maximum of 9  cycles. Patients were randomised in a 1:1:1 ratio to one of 3 treatment arms. Patients were stratified at randomisation by age ( ≤ 75 vs. &gt; 75 years) and stage (ISS; Stages I and II vs. stage III).
 
 This study investigated the use of combination therapy of MPR (melphalan 0.18 mg/kg orally on days 1 to 4 of repeated 28-day cycles; prednisone 2 mg/kg orally on days 1 to 4 of repeated 28-day cycles; and lenalidomide 10 mg/day orally on days 1 to 21 of repeated 28-day cycles) for induction therapy, up to 9 cycles. Patients who completed 9 cycles or who were unable to complete 9 cycles due to intolerance proceeded to maintenance therapy starting with lenalidomide 10 mg orally on days 1 to 21 of repeated 28-day cycles until disease progression.
 
@@ -1765,7 +1763,7 @@ Table 11. Summary of results of efficacy analyses as of cut-off date for extende
 
 | Endpoint                                         | len/dex (N=353)   | placebo/dex(N=351)   |                                 |
 |--------------------------------------------------|-------------------|----------------------|---------------------------------|
-| Time to event                                    |                   |                      | HR[95 %CI], p-value a           |
+| Time to event                                    |                   |                      | HR [95 %CI], p-value a          |
 | Time to progression Median [95 %CI], weeks       | 60.1 [44.3, 73.1] | 20.1 [17.7, 20.3]    | 0.350 [0.287, 0.426], p < 0.001 |
 | Progression free survival Median [95 %CI], weeks | 48.1 [36.4, 62.1] | 20.0 [16.1, 20.1]    | 0.393 [0.326, 0.473], p < 0.001 |
 
@@ -1793,14 +1791,14 @@ In, study MDS-003, in which 148 patients received lenalidomide at a dose of 10 m
 
 Table 12. Summary of efficacy results - studies MDS-004 (double-blind phase) and MDS-003, intent-  to-treat populationEndpoint
 
-|                                                                  | MDS-004 N = 205   | MDS-004 N = 205   | MDS-004 N = 205   | MDS-003 N = 148   |
-|------------------------------------------------------------------|-------------------|-------------------|-------------------|-------------------|
-|                                                                  | 10 mg † N = 69    | 5 mg †† N = 69    | Placebo* N = 67   | 10 mg N = 148     |
-| Transfusion Independence (≥ 182 days) #                          | 38 (55.1 %)       | 24 (34.8 %)       | 4 (6.0 %)         | 86 (58.1 %)       |
-| Transfusion Independence (≥ 56                                   | 42 (60.9 %)       | 33 (47.8 %)       | 5 (7.5 %)         | 97 (65.5 %)       |
-| days) # Median Time to Transfusion                               | 4.6               | 4.1               | 0.3               | 4.1               |
-| Independence (weeks) Median Duration of Transfusion Independence | NR ∞              | NR                | NR                | 114.4             |
-| (weeks) Median Increase in Hgb, g/dL                             | 6.4               | 5.3               | 2.6               | 5.6               |
+|                                             | MDS-004 N = 205   | MDS-004 N = 205   | MDS-004 N = 205   | MDS-003 N = 148   |
+|---------------------------------------------|-------------------|-------------------|-------------------|-------------------|
+|                                             | 10 mg † N = 69    | 5 mg †† N = 69    | Placebo* N = 67   | 10 mg N = 148     |
+| Transfusion Independence (≥ 182 days) #     | 38 (55.1 %)       | 24 (34.8 %)       | 4 (6.0 %)         | 86 (58.1 %)       |
+| Transfusion Independence (≥ 56              | 42 (60.9 %)       | 33 (47.8 %)       | 5 (7.5 %)         | 97 (65.5 %)       |
+| Median Time to Transfusion                  | 4.6               | 4.1               | 0.3               | 4.1               |
+| Median Duration of Transfusion Independence | NR ∞              | NR                | NR                | 114.4             |
+| Median Increase in Hgb, g/dL                | 6.4               | 5.3               | 2.6               | 5.6               |
 
 † Subjects treated with lenalidomide 10 mg on 21 days of 28-day cycles
 
@@ -1808,7 +1806,7 @@ Table 12. Summary of efficacy results - studies MDS-004 (double-blind phase) and
 
 <div style=\"page-break-after: always\"></div>
 
-*  The  majority of patients  on placebo  discontinued the double-blind  treatment for lack  of efficacy  after 16 weeks  of treatment before entering the open-label phase
+*  The  majority  of patients  on  placebo  discontinued  the  double-blind  treatment for lack  of efficacy  after 16 weeks  of treatment before entering the open-label phase
 
 # Associated with an increase in Hgb of ≥ 1 g/dL
 
@@ -1816,21 +1814,21 @@ Table 12. Summary of efficacy results - studies MDS-004 (double-blind phase) and
 
 In MDS-004, a significant larger proportion of patients with myelodysplastic syndromes achieved the primary endpoint of transfusion independence (&gt; 182 days) on lenalidomide 10 mg compared with placebo (55.1 % vs. 6.0 %). Amongst the 47 patients with an isolated Del (5q) cytogenetic abnormality and  treated with  lenalidomide  10 mg,  27 patients  (57.4 %)  achieved  red  blood  cell  transfusion independence.
 
-The median time to transfusion  independence in  the lenalidomide 10 mg  arm  was 4.6 weeks. The median duration of transfusion independence was not reached in any of the treatment arms but should exceed 2 years  for the lenalidomide-treated subjects. The median increase in haemoglobin (Hgb) from baseline in the 10 mg  arm was 6.4 g/dL.
+The median  time to  transfusion  independence in  the  lenalidomide  10 mg  arm  was  4.6 weeks. The median duration of transfusion independence was not reached in any of the treatment arms but should exceed 2 years  for the lenalidomide-treated subjects. The median increase in haemoglobin (Hgb) from baseline in the 10 mg  arm was 6.4 g/dL.
 
 Additional endpoints of the study included cytogenetic response (in the 10 mg arm major and minor cytogenetic responses were observed in 30.0 % and 24.0 % of subjects, respectively), assessment of Health  Related Quality of Life (HRQoL) and progression to acute myeloid leukaemia. Results of the cytogenetic response and HRQoL were consistent with the findings of the primary endpoint and in favour of  lenalidomide treatment compared to placebo.
 
-In  MDS-003, a large proportion of patients with  myelodysplastic  syndromes achieved  transfusion independence  (&gt; 182 days)  on  lenalidomide  10 mg  (58.1 %).  The  median  time  to  transfusion independence was 4.1 weeks. The median duration of transfusion independence was 114.4 weeks. The median increase in  haemoglobin (Hgb) was 5.6 g/dL. Major and minor cytogenetic responses were observed in 40.9 % and  30.7 % of subjects, respectively.
+In  MDS-003, a large proportion of patients with  myelodysplastic syndromes achieved  transfusion independence  (&gt; 182 days)  on  lenalidomide  10 mg  (58.1 %).  The  median  time  to  transfusion independence was 4.1 weeks. The median duration of transfusion independence was 114.4 weeks. The median increase in  haemoglobin (Hgb) was 5.6 g/dL. Major and minor cytogenetic responses were observed in 40.9 % and  30.7 % of subjects, respectively.
 
 A  large  proportion  of  subjects  enrolled  in  MDS-003  (72.9 %)  and  MDS-004  (52.7 %)  had received prior  erythropoiesis-stimulating agents.
 
 ## Mantle cell lymphoma
 
-The efficacy and safety of lenalidomide were evaluated in patients with mantle cell lymphoma in a phase 2, multicentre,  randomised  open-label  study  versus  single  agent  of  investigator's  choice  in patients who were  refractory to their last regimen or had relapsed one to three times (study MCL-002). Patients who were at least 18 years of age with histologically-proven MCL and CT-measurable disease were  enrolled. Patients were required to have received adequate previous treatment with at least one prior combination chemotherapy  regimen.  Also,  patients  had to be ineligible for intensive chemotherapy and/or  transplant at time of inclusion in the study. Patients were randomised 2:1 to the lenalidomide or the control arm. The investigator's choice treatment was selected before randomisation and  consisted  of  monotherapy with  either  chlorambucil,  cytarabine,  rituximab,  fludarabine,  or gemcitabine.
+The efficacy and safety of lenalidomide were evaluated in patients with mantle cell lymphoma in a phase 2, multicentre,  randomised  open-label  study  versus  single  agent  of  investigator's  choice  in patients who were  refractory to their last regimen or had relapsed one to three times (study MCL-002). Patients who were at least 18 years of age with histologically-proven MCL and CT-measurable disease were  enrolled. Patients were required to have received adequate previous treatment with at least one prior combination chemotherapy  regimen.  Also, patients  had to be ineligible for intensive chemotherapy and/or  transplant at time of inclusion in the study. Patients were randomised 2:1 to the lenalidomide or the control arm. The investigator's choice treatment was selected before randomisation and  consisted  of  monotherapy with  either  chlorambucil,  cytarabine,  rituximab,  fludarabine,  or gemcitabine.
 
 Lenalidomide was administered orally 25 mg once daily for the first 21 days (D1 to D21) of repeating 28-day cycles until progression or unacceptable toxicity. Patients with moderate renal insufficiency were to  receive a lower starting dose of lenalidomide 10 mg daily on the same schedule.
 
-The baseline  demographic were  comparable  between  the lenalidomide  arm  and  control  arm.  Both patient populations presented a median age of 68.5 years with comparable male to female ratio. The ECOG  performance status was comparable between both groups, as was the number of prior therapies.
+The baseline  demographic  were  comparable  between  the  lenalidomide  arm  and  control  arm.  Both patient  populations presented a median age of 68.5 years with comparable male to female ratio. The ECOG  performance status was comparable between both groups, as was the number of prior therapies.
 
 The primary efficacy endpoint in study MCL-002 was progression-free survival (PFS).
 
@@ -1838,22 +1836,23 @@ The efficacy results for the Intent-to-Treat (ITT) population were assessed by t
 
 ## Table 13. Summary of efficacy results - study MCL-002, intent-to-treat population
 
-| Lenalidomide Arm   | Control Arm   |
-|--------------------|---------------|
+Lenalidomide Arm
+
+Control Arm
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                                                             | N = 170                                         | N = 84                               |
-|---------------------------------------------------------------------------------------------|-------------------------------------------------|--------------------------------------|
-| PFS PFS, SequentialHR Sequential log-rank test, p-value e                                   | 0.61 [0.44, 0.004                               | 0.84]                                |
-| median a [95 %CI] b (weeks) [95 %CI] e                                                      | 37.6 [24.0, 52.6]                               | 22.7 [15.9, 30.1]                    |
-| Complete response (CR) Partial response (PR) Stable disease (SD) b Progressive disease (PD) | 8 (4.7) 60 (35.3) 50 (29.4) 34 (20.0) 18 (10.6) | 0 (0.0) 9 (10.7) 44 (52.4) 26 (31.0) |
-| Not done/Missing ORR (CR, CRu, PR) , n (%) [95 %CI] p-value e                               | 68 (40.0) [32.58, 47.78]                        | 5 (6.0) 9 (10.7) d [5.02,            |
-| c c                                                                                         | <                                               | 19.37]                               |
-| CRR (CR, CRu) , n (%) [95 %CI] p-value e                                                    | 8 (4.7)                                         | 0 (0.0) [95.70, 100.00]              |
-|                                                                                             | 0.001 [2.05, 9.06]                              | 0.043                                |
-| Duration of Response, median a [95 %CI] (weeks) Overall Survival c                          | 69.6 [41.1, 86.7]                               | 45.1 [36.3, 80.9]                    |
-| HR [95 %CI] Log-rank test, p-value                                                          | 0.89 [0.62, 1.28] 0.520                         |                                      |
+|                                                                                             | N = 170                               | N = 84                               |
+|---------------------------------------------------------------------------------------------|---------------------------------------|--------------------------------------|
+| PFS PFS, SequentialHR Sequential log-rank test, p-value e                                   | 0.61 [0.44, 0.004                     | 0.84]                                |
+| median a [95 %CI] b (weeks) [95 %CI] e                                                      | 37.6 [24.0, 52.6]                     | 22.7 [15.9, 30.1]                    |
+| Response a , n (%) Complete response (CR) Partial response (PR) b                           | 8 (4.7) 60 (35.3) 50 (29.4) 34 (20.0) | 0 (0.0) 9 (10.7) 44 (52.4) 26 (31.0) |
+| Stable disease (SD) Progressive disease (PD) Not done/Missing ORR (CR, CRu, PR) , n (%) [95 | 18 (10.6) 68 (40.0) [32.58, 47.78]    | 5 (6.0) 9 (10.7) d [5.02,            |
+| %CI] c p-value e                                                                            | <                                     | 19.37]                               |
+| CRR (CR, CRu) , n (%) [95 %CI] c p-value e                                                  |                                       |                                      |
+|                                                                                             | 0.001 8 (4.7) [2.05, 9.06]            | 0 (0.0) [95.70, 100.00] 0.043        |
+| Duration of Response, median a [95 %CI] (weeks) Overall Survival HR [95 %CI] c              | 69.6 [41.1, 86.7]                     | 45.1 [36.3, 80.9]                    |
+| Log-rank test, p-value                                                                      | 0.89 [0.62, 1.28] 0.520               |                                      |
 
 CI  =  confidence  interval;  CRR  =  complete  response  rate;  CR  =  complete  response;  CRu  =  complete  response unconfirmed; DMC = Data Monitoring Committee; ITT = intent-to-treat; HR = hazard ratio; KM = Kaplan-Meier; MIPI = Mantle Cell Lymphoma International Prognostic Index; NA = not applicable; ORR = overall response rate; PD = progressive disease; PFS = progression-free survival; PR= partial response; SCT = stem cell transplantation; SD = stable disease; SE = standard error.
 
@@ -1877,7 +1876,7 @@ The efficacy and safety of lenalidomide in combination with rituximab versus rit
 
 A total of 358 patients who were at least 18 years of age with histologically confirmed MZL or Grade 1, 2 or 3a FL (CD20+ by flow cytometry or histochemistry) as assessed by the investigator or local pathologist were randomised in a 1:1 ratio. Subjects had been previously treated with at least one prior systemic chemotherapy, immunotherapy or chemoimmunotherapy.
 
-Lenalidomide was administered orally 20 mg once daily for the first 21 days of repeating 28-day cycles for 12 cycles or until unacceptable toxicity. The dose of rituximab was 375 mg/m 2  every week in Cycle 1 (days 1, 8, 15, and 22) and on day 1 of every 28-day cycle from cycles 2 through 5. All dosage calculations for rituximab were based on the patient's body surface area (BSA), using actual patient weight.
+Lenalidomide was administered orally 20 mg once daily for the first 21 days of repeating 28-day cycles for 12 cycles or until unacceptable toxicity. The dose of rituximab was 375 mg/m 2 every week in Cycle 1 (days 1, 8, 15, and 22) and on day 1 of every 28-day cycle from cycles 2 through 5. All dosage calculations for rituximab were based on the patient's body surface area (BSA), using actual patient weight.
 
 The demographic and disease-related baseline characteristics were similar across the 2 treatment groups.
 
@@ -1978,7 +1977,7 @@ No dedicated clinical studies have been conducted to evaluate pharmacokinetics o
 
 ## Renal impairment
 
-The pharmacokinetics of lenalidomide was studied in subjects with renal impairment due to nonmalignant conditions. In this study, two methods were used to classify renal function: the urinary creatinine clearance measured over 24 hours and the creatinine clearance estimated by CockcroftGault formula. The results indicate that as renal function decreases (&lt; 50 mL/min), the total lenalidomide clearance decreases proportionally resulting in an increase in AUC. The AUC was increased by approximately 2.5, 4 and 5-fold in subjects with moderate renal impairment, severe renal impairment, and end-stage renal disease, respectively, compared to the group combining subjects with normal renal function and subjects with mild renal impairment. The half-life of lenalidomide increased from approximately 3.5 hours in subjects with creatinine clearance &gt; 50 mL/min to more than 9 hours in subjects with reduced renal function &lt; 50 mL/min. However, renal impairment did not alter the oral absorption of lenalidomide. The Cmax was similar between healthy subjects and patients with renal impairment. Approximately 30 % of the medicinal product in the body was removed during a single 4-hour dialysis session. Recommended dose adjustments in patients with impaired renal function are described in section 4.2.
+The pharmacokinetics of lenalidomide was studied in subjects with renal impairment due to nonmalignant conditions. In this study, two methods were used to classify renal function: the urinary creatinine clearance measured over 24 hours and the creatinine clearance estimated by CockcroftGault formula. The results indicate that as renal function decreases (&lt; 50 mL/min), the total lenalidomide clearance decreases proportionally resulting in an increase in AUC. The AUC was increased by approximately 2.5, 4 and 5-fold in subjects with moderate renal impairment, severe renal impairment, and end-stage renal disease, respectively, compared to the group combining subjects with normal renal function and subjects with mild renal impairment. The half-life of lenalidomide increased from approximately 3.5 hours in subjects with creatinine clearance &gt; 50 mL/min to more than 9 hours in subjects with reduced renal function &lt; 50 mL/min. However, renal impairment did not alter the oral absorption of lenalidomide. The C max was similar between healthy subjects and patients with renal impairment. Approximately 30 % of the medicinal product in the body was removed during a single 4-hour dialysis session. Recommended dose adjustments in patients with impaired renal function are described in section 4.2.
 
 ## Hepatic impairment
 
@@ -2006,11 +2005,11 @@ Developmental toxicity studies were previously conducted in rabbits. In these st
 
 ## 6.1 List of excipients
 
-Capsule contents
+## Capsule contents
 
 Lactose Microcrystalline cellulose Croscarmellose sodium Colloidal anhydrous silica Magnesium stearate
 
-Capsule shell
+## Capsule shell
 
 Lenalidomide Accord 2.5 mg hard capsules Gelatin Iron oxide black (E172) Titanium dioxide (E171)
 
@@ -2028,7 +2027,11 @@ Iron oxide red (E172) Titanium dioxide (E171) Indigo carmine (E132)
 
 ## Lenalidomide Accord 10 mg and Lenalidomide Accord 20 mg hard capsules
 
-Gelatin Indigo carmine (E132) Iron oxide yellow (E172) Titanium dioxide (E171)
+Gelatin Indigo carmine (E132)
+
+Iron oxide yellow (E172)
+
+Titanium dioxide (E171)
 
 ## Lenalidomide Accord 15 mg hard capsules
 
@@ -2080,31 +2083,31 @@ Lenalidomide Accord 2.5 mg hard capsules
 
 EU/1/18/1316/001 EU/1/18/1316/002
 
-## Lenalidomide Accord 5 mg hard capsules
+Lenalidomide Accord 5 mg hard capsules
 
 EU/1/18/1316/003
 
 EU/1/18/1316/004
 
-## Lenalidomide Accord 7.5 mg hard capsules
+Lenalidomide Accord 7.5 mg hard capsules
 
 EU/1/18/1316/005
 
 EU/1/18/1316/012
 
-## Lenalidomide Accord 10 mg hard capsules
+Lenalidomide Accord 10 mg hard capsules
 
 EU/1/18/1316/006
 
 EU/1/18/1316/007
 
-## Lenalidomide Accord 15 mg hard capsules
+Lenalidomide Accord 15 mg hard capsules
 
 EU/1/18/1316/008
 
 EU/1/18/1316/009
 
-## Lenalidomide Accord 20 mg hard capsules
+Lenalidomide Accord 20 mg hard capsules
 
 EU/1/18/1316/010
 
@@ -2120,7 +2123,7 @@ EU/1/18/1316/014
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 20 th  September 2018 Date of latest renewal:
+Date of first authorisation: 20 th September 2018 Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -2209,15 +2212,12 @@ The Educational Health care Professional's Kit shall contain the following eleme
 
 ## Safety advice relevant to all patients
 
-- Description of risk of tumour flare reaction in MCL and FL patients
-- Description of the risk of progression to AML in MDS patients including incidence rates from clinical trials
 - Description of risk of SPM
 - Local country specific arrangements for a prescription for lenalidomide to be dispensed
-
-<div style=\"page-break-after: always\"></div>
-
 - That any unused capsules should be returned to the pharmacist at the end of the treatment
 - That the patient should not donate blood during treatment (including during dose interruptions) and for at least 7 days following discontinuation of Lenalidomide Accord
+
+<div style=\"page-break-after: always\"></div>
 
 ## Description of the PPP and categorisation of patients based on sex and childbearing potential
 
@@ -2254,14 +2254,13 @@ The Educational Health care Professional's Kit shall contain the following eleme
 - Instructions to stop Lenalidomide Accord immediately upon suspicion of pregnancy, if female patient
 - Need to refer patient to physician specialised or experienced in dealing with teratology and its diagnosis for evaluation and advice
 - Local contact details for reporting of any suspected pregnancy immediately
-
-<div style=\"page-break-after: always\"></div>
-
 - Local contact details for reporting adverse reactions
 
 ## Educational Brochures for patients
 
 The Educational brochures for patients should be of 3 types:
+
+<div style=\"page-break-after: always\"></div>
 
 - Brochure for women patients of childbearing potential and their partner
 - Brochure for women patients who are not of childbearing potential
@@ -2301,11 +2300,10 @@ The following information should also be provided in the appropriate brochure:
 - The need to use condoms if sexual partner is pregnant or a WCBP not using effective contraceptions (even if the man has had vasectomy)
 - o During Lenalidomide Accord treatment (including dose interruptions)
 - o For at least 7 days following final dose
-
-<div style=\"page-break-after: always\"></div>
-
 - That if his partner becomes pregnant, he should inform his treating doctor immediately
 - That he should not donate semen or sperm during treatment (including during dose interruptions) and  for at least 7 days following discontinuation of Lenalidomide Accord treatment
+
+<div style=\"page-break-after: always\"></div>
 
 ## Patient Card or equivalent tool
 
@@ -2341,16 +2339,16 @@ Risk awareness forms for women of childbearing potential should also include:
 - that if she is pregnant or plans to be, she must not take lenalidomide
 - that she understands the need to avoid lenalidomide during pregnancy and to apply effective contraceptive measures without interruption, at least 4 weeks before starting treatment, throughout the entire duration of treatment, and at least 4 weeks after the end of treatment
 - that if she needs to change or stop using her method of contraception she should inform:
-- the physician prescribing her contraception that she is taking Lenalidomide Accord
-- the physician prescribing Lenalidomide Accord that she has stopped or changed her method of contraception
+-  the physician prescribing her contraception that she is taking Lenalidomide Accord
+-  the physician prescribing Lenalidomide Accord that she has stopped or changed her method of contraception
 - of the need for pregnancy tests i.e. before treatment, at least every 4 weeks during treatment and after treatment
 - of the need to stop Lenalidomide Accord immediately upon suspicion of pregnancy
 - of the need to contact their doctor immediately upon suspicion of pregnancy
+- that she should not share the medicinal product with any other person
+- that she should not donate blood during treatment (including during dose interruptions) and for at least 7 days following discontinuation of Lenalidomide Accord
 
 <div style=\"page-break-after: always\"></div>
 
-- that she should not share the medicinal product with any other person
-- that she should not donate blood during treatment (including during dose interruptions) and for at least 7 days following discontinuation of Lenalidomide Accord
 - that she should return the unused capsules to the pharmacist at the end of treatment
 
 Risk awareness forms for women with no childbearing potential should also include:
@@ -2466,17 +2464,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lenalidomide Accord 2.5 mg hard capsules lenalidomide
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Accord
 
@@ -2579,17 +2577,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lenalidomide Accord 5 mg hard capsules lenalidomide
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Accord
 
@@ -2662,9 +2660,7 @@ Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/18/1316/012 7x1 hard capsules
-
-EU/1/18/1316/005 21x1 hard capsules
+EU/1/18/1316/012 7x1 hard capsules EU/1/18/1316/005 21x1 hard capsules
 
 ## 13. BATCH NUMBER
 
@@ -2692,16 +2688,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lenalidomide Accord 7.5 mg hard capsules lenalidomide
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Accord
 
@@ -2788,7 +2785,7 @@ Lot:
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Lenalidomide Accord 10 mg
 
@@ -2806,46 +2803,32 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+Lenalidomide Accord 10 mg hard capsules lenalidomide
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+Accord
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
+EXP:
+
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-| 5.   | OTHER   |
-|------|---------|
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-BLISTER
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Lenalidomide Accord 10 mg hard capsules lenalidomide
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-Accord
-
-## 3. EXPIRY DATE
-
-EXP:
-
-## 4. BATCH NUMBER
-
 Lot:
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2931,9 +2914,15 @@ SN
 
 NN
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+<div style=\"page-break-after: always\"></div>
 
-BLISTER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+| 5.   | OTHER   |
+|------|---------|
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2952,11 +2941,6 @@ EXP:
 Lot:
 
 ## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
-
-| 5.   | OTHER   |
-|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2996,9 +2980,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-WARNING: Risk of severe birth defects. Do not use while pregnant or breastfeeding.
-
-You must follow the Lenalidomide Pregnancy Prevention Programme
+WARNING: Risk of severe birth defects. Do not use while pregnant or breastfeeding. You must follow the Lenalidomide Pregnancy Prevention Programme
 
 ## 8. EXPIRY DATE
 
@@ -3046,17 +3028,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lenalidomide Accord 20 mg hard capsules lenalidomide
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Accord
 
@@ -3139,7 +3121,7 @@ EU/1/18/1316/011 21x1 hard capsules
 
 Lot:
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -3161,17 +3143,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lenalidomide Accord 25 mg hard capsules lenalidomide
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Accord
 
@@ -3353,7 +3335,7 @@ You may be evaluated for signs of cardiopulmonary problems before and during the
 
 ## For patients with MDS taking lenalidomide
 
-If  you have MDS, you may be more likely to get a more advanced condition called  acute myeloid leukaemia  (AML). In addition, it is not known how Lenalidomide Accord affects the chances of you getting  AML. Your doctor may therefore do  tests to  check for signs which may  better predict  the likelihood of you getting AML during your  treatment with Lenalidomide Accord.
+If  you have MDS, you may be more likely to get a more advanced condition called  acute myeloid leukaemia  (AML). In addition, it is not known how Lenalidomide Accord affects the chances of you getting  AML. Your doctor may therefore do  tests to  check  for signs which  may  better predict  the likelihood of you getting AML during your  treatment with Lenalidomide Accord.
 
 ## For patients with MCL taking lenalidomide
 
@@ -3628,7 +3610,7 @@ Common (may affect up to 1 in 10 people):
 - Toothache
 - Fall which may result in injury
 
-## Uncommon (may affect up to 1 in 100 people):
+Uncommon (may affect up to 1 in 100 people):
 
 - Bleeding within the skull
 - Circulatory problems

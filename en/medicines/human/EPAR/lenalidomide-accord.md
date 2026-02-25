@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 12:40:28
+document_datetime: 2026-02-24 14:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lenalidomide-accord.html
 document_name: lenalidomide-accord.html
 version: success
-processing_time: 0.1259675
-conversion_datetime: 2025-12-30 21:48:02.084706
+processing_time: 0.1181498
+conversion_datetime: 2026-02-25 11:40:06.098212
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Lenalidomide Accord
 
 [RSS](/en/individual-human-medicine.xml/66452)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 lenalidomide Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +113,7 @@ English (EN) (144.75 KB - PDF)
 
 [View](/en/documents/overview/lenalidomide-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-126)
+[Other languages (21)](#file-language-dropdown-393)
 
 български (BG) (168.57 KB - PDF)
 
@@ -371,11 +369,11 @@ Suomi (FI) (142.63 KB - PDF)
 
 Lenalidomide Accord : EPAR - Risk management plan
 
-English (EN) (1.01 MB - PDF)
+English (EN) (758.78 KB - PDF)
 
 **First published:** 02/06/2021
 
-**Last updated:** 02/07/2024
+**Last updated:** 24/02/2026
 
 [View](/en/documents/rmp-summary/lenalidomide-accord-epar-risk-management-plan_en.pdf)
 
@@ -383,15 +381,15 @@ English (EN) (1.01 MB - PDF)
 
 Lenalidomide Accord : EPAR - Product information
 
-English (EN) (1.05 MB - PDF)
+English (EN) (895.5 KB - PDF)
 
 **First published:** 12/10/2018
 
-**Last updated:** 02/07/2024
+**Last updated:** 24/02/2026
 
 [View](/en/documents/product-information/lenalidomide-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-513)
+[Other languages (24)](#file-language-dropdown-105)
 
 български (BG) (1.2 MB - PDF)
 
@@ -401,11 +399,11 @@ English (EN) (1.05 MB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/bg/documents/product-information/lenalidomide-accord-epar-product-information_bg.pdf)
 
-español (ES) (942.2 KB - PDF)
+español (ES) (1 MB - PDF)
 
 **First published:**
 
@@ -413,11 +411,11 @@ español (ES) (942.2 KB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/es/documents/product-information/lenalidomide-accord-epar-product-information_es.pdf)
 
-čeština (CS) (929.45 KB - PDF)
+čeština (CS) (1019.45 KB - PDF)
 
 **First published:**
 
@@ -425,11 +423,11 @@ español (ES) (942.2 KB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/cs/documents/product-information/lenalidomide-accord-epar-product-information_cs.pdf)
 
-dansk (DA) (1.18 MB - PDF)
+dansk (DA) (805.63 KB - PDF)
 
 **First published:**
 
@@ -437,11 +435,11 @@ dansk (DA) (1.18 MB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/da/documents/product-information/lenalidomide-accord-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.34 MB - PDF)
+Deutsch (DE) (886.67 KB - PDF)
 
 **First published:**
 
@@ -449,11 +447,11 @@ Deutsch (DE) (1.34 MB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/de/documents/product-information/lenalidomide-accord-epar-product-information_de.pdf)
 
-eesti keel (ET) (981.5 KB - PDF)
+eesti keel (ET) (998.1 KB - PDF)
 
 **First published:**
 
@@ -461,11 +459,11 @@ eesti keel (ET) (981.5 KB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/et/documents/product-information/lenalidomide-accord-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.39 MB - PDF)
+ελληνικά (EL) (1.12 MB - PDF)
 
 **First published:**
 
@@ -473,7 +471,7 @@ eesti keel (ET) (981.5 KB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/el/documents/product-information/lenalidomide-accord-epar-product-information_el.pdf)
 
@@ -485,11 +483,11 @@ français (FR) (1.08 MB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/fr/documents/product-information/lenalidomide-accord-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.4 MB - PDF)
+hrvatski (HR) (1017.65 KB - PDF)
 
 **First published:**
 
@@ -497,11 +495,11 @@ hrvatski (HR) (1.4 MB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/hr/documents/product-information/lenalidomide-accord-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.24 MB - PDF)
+íslenska (IS) (827.15 KB - PDF)
 
 **First published:**
 
@@ -509,11 +507,11 @@ hrvatski (HR) (1.4 MB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/is/documents/product-information/lenalidomide-accord-epar-product-information_is.pdf)
 
-italiano (IT) (1.3 MB - PDF)
+italiano (IT) (816.57 KB - PDF)
 
 **First published:**
 
@@ -521,11 +519,11 @@ italiano (IT) (1.3 MB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/it/documents/product-information/lenalidomide-accord-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.22 MB - PDF)
+latviešu valoda (LV) (1.26 MB - PDF)
 
 **First published:**
 
@@ -533,11 +531,11 @@ latviešu valoda (LV) (1.22 MB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/lv/documents/product-information/lenalidomide-accord-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.52 MB - PDF)
+lietuvių kalba (LT) (1.23 MB - PDF)
 
 **First published:**
 
@@ -545,11 +543,11 @@ lietuvių kalba (LT) (1.52 MB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/lt/documents/product-information/lenalidomide-accord-epar-product-information_lt.pdf)
 
-magyar (HU) (1.33 MB - PDF)
+magyar (HU) (969.01 KB - PDF)
 
 **First published:**
 
@@ -557,11 +555,11 @@ magyar (HU) (1.33 MB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/hu/documents/product-information/lenalidomide-accord-epar-product-information_hu.pdf)
 
-Malti (MT) (1.6 MB - PDF)
+Malti (MT) (1.04 MB - PDF)
 
 **First published:**
 
@@ -569,11 +567,11 @@ Malti (MT) (1.6 MB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/mt/documents/product-information/lenalidomide-accord-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.32 MB - PDF)
+Nederlands (NL) (816.6 KB - PDF)
 
 **First published:**
 
@@ -581,11 +579,11 @@ Nederlands (NL) (1.32 MB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/nl/documents/product-information/lenalidomide-accord-epar-product-information_nl.pdf)
 
-norsk (NO) (1.22 MB - PDF)
+norsk (NO) (965.21 KB - PDF)
 
 **First published:**
 
@@ -593,11 +591,11 @@ norsk (NO) (1.22 MB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/no/documents/product-information/lenalidomide-accord-epar-product-information_no.pdf)
 
-polski (PL) (1.4 MB - PDF)
+polski (PL) (1.05 MB - PDF)
 
 **First published:**
 
@@ -605,11 +603,11 @@ polski (PL) (1.4 MB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/pl/documents/product-information/lenalidomide-accord-epar-product-information_pl.pdf)
 
-português (PT) (1.3 MB - PDF)
+português (PT) (846.29 KB - PDF)
 
 **First published:**
 
@@ -617,11 +615,11 @@ português (PT) (1.3 MB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/pt/documents/product-information/lenalidomide-accord-epar-product-information_pt.pdf)
 
-română (RO) (1.36 MB - PDF)
+română (RO) (1.01 MB - PDF)
 
 **First published:**
 
@@ -629,11 +627,11 @@ română (RO) (1.36 MB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/ro/documents/product-information/lenalidomide-accord-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.38 MB - PDF)
+slovenčina (SK) (999.03 KB - PDF)
 
 **First published:**
 
@@ -641,11 +639,11 @@ slovenčina (SK) (1.38 MB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/sk/documents/product-information/lenalidomide-accord-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.26 MB - PDF)
+slovenščina (SL) (953.63 KB - PDF)
 
 **First published:**
 
@@ -653,11 +651,11 @@ slovenščina (SL) (1.26 MB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/sl/documents/product-information/lenalidomide-accord-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.26 MB - PDF)
+Suomi (FI) (856.03 KB - PDF)
 
 **First published:**
 
@@ -665,11 +663,11 @@ Suomi (FI) (1.26 MB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/fi/documents/product-information/lenalidomide-accord-epar-product-information_fi.pdf)
 
-svenska (SV) (1.24 MB - PDF)
+svenska (SV) (814.33 KB - PDF)
 
 **First published:**
 
@@ -677,11 +675,11 @@ svenska (SV) (1.24 MB - PDF)
 
 **Last updated:**
 
-02/07/2024
+24/02/2026
 
 [View](/sv/documents/product-information/lenalidomide-accord-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0025/G 26/06/2024
+**Latest procedure affecting product information:** VR/0000317815 24/02/2026
 
 icon globe
 
@@ -707,7 +705,7 @@ English (EN) (229.77 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lenalidomide-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-435)
+[Other languages (24)](#file-language-dropdown-122)
 
 български (BG) (104.05 KB - PDF)
 
@@ -1029,7 +1027,7 @@ Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a World Trade Center Moll De Barcelona S/n 08039 Barcelona SPAIN
 
-Opinion adopted 26/07/2018 Marketing authorisation issued 20/09/2018 Revision 12
+Opinion adopted 26/07/2018 Marketing authorisation issued 20/09/2018 Revision 13
 
 ## Assessment history
 
@@ -1041,11 +1039,11 @@ Collapse section
 
 Lenalidomide Accord : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (178.45 KB - PDF)
+English (EN) (142.48 KB - PDF)
 
 **First published:** 15/04/2019
 
-**Last updated:** 02/07/2024
+**Last updated:** 24/02/2026
 
 [View](/en/documents/procedural-steps-after/lenalidomide-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1099,11 +1097,11 @@ English (EN) (71.59 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-lenalidomide-accord_en.pdf)
 
-#### News on Lenalidomide Accord
+## News on Lenalidomide Accord
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 July 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-july-2018) 27/07/2018
 
-#### More information on Lenalidomide Accord
+## More information on Lenalidomide Accord
 
 Questions and answers on generic medicines
 
@@ -1117,7 +1115,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-445)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1383,12 +1381,12 @@ svenska (SV) (67.11 KB - PDF)
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-#### Topics
+## Topics
 
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 02/07/2024
+**This page was last updated on** 24/02/2026
 
 ## Share this page
 

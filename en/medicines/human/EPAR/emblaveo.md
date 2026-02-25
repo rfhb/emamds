@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:59:40
+document_datetime: 2026-02-23 16:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/emblaveo.html
 document_name: emblaveo.html
 version: success
-processing_time: 0.1235173
-conversion_datetime: 2025-12-31 07:48:49.046168
+processing_time: 0.1109677
+conversion_datetime: 2026-02-25 11:42:28.795066
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Emblaveo
 
 [RSS](/en/individual-human-medicine.xml/240137)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 aztreonam / avibactam Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +118,7 @@ English (EN) (151.4 KB - PDF)
 
 [View](/en/documents/overview/emblaveo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-532)
+[Other languages (22)](#file-language-dropdown-168)
 
 български (BG) (160.16 KB - PDF)
 
@@ -310,17 +308,17 @@ English (EN) (1.8 MB - PDF)
 
 Emblaveo : EPAR - Product information
 
-English (EN) (228.39 KB - PDF)
+English (EN) (411.42 KB - PDF)
 
 **First published:** 07/05/2024
 
-**Last updated:** 17/09/2025
+**Last updated:** 23/02/2026
 
 [View](/en/documents/product-information/emblaveo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-987)
+[Other languages (24)](#file-language-dropdown-585)
 
-български (BG) (249.29 KB - PDF)
+български (BG) (367.24 KB - PDF)
 
 **First published:**
 
@@ -328,11 +326,11 @@ English (EN) (228.39 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/bg/documents/product-information/emblaveo-epar-product-information_bg.pdf)
 
-español (ES) (237.74 KB - PDF)
+español (ES) (339.44 KB - PDF)
 
 **First published:**
 
@@ -340,11 +338,11 @@ español (ES) (237.74 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/es/documents/product-information/emblaveo-epar-product-information_es.pdf)
 
-čeština (CS) (231.44 KB - PDF)
+čeština (CS) (349.05 KB - PDF)
 
 **First published:**
 
@@ -352,11 +350,11 @@ español (ES) (237.74 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/cs/documents/product-information/emblaveo-epar-product-information_cs.pdf)
 
-dansk (DA) (230.2 KB - PDF)
+dansk (DA) (333.98 KB - PDF)
 
 **First published:**
 
@@ -364,11 +362,11 @@ dansk (DA) (230.2 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/da/documents/product-information/emblaveo-epar-product-information_da.pdf)
 
-Deutsch (DE) (239.07 KB - PDF)
+Deutsch (DE) (343.08 KB - PDF)
 
 **First published:**
 
@@ -376,11 +374,11 @@ Deutsch (DE) (239.07 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/de/documents/product-information/emblaveo-epar-product-information_de.pdf)
 
-eesti keel (ET) (222.34 KB - PDF)
+eesti keel (ET) (326.7 KB - PDF)
 
 **First published:**
 
@@ -388,11 +386,11 @@ eesti keel (ET) (222.34 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/et/documents/product-information/emblaveo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (262.68 KB - PDF)
+ελληνικά (EL) (382.76 KB - PDF)
 
 **First published:**
 
@@ -400,11 +398,11 @@ eesti keel (ET) (222.34 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/el/documents/product-information/emblaveo-epar-product-information_el.pdf)
 
-français (FR) (234.46 KB - PDF)
+français (FR) (352.49 KB - PDF)
 
 **First published:**
 
@@ -412,11 +410,11 @@ français (FR) (234.46 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/fr/documents/product-information/emblaveo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (228.55 KB - PDF)
+hrvatski (HR) (342.14 KB - PDF)
 
 **First published:**
 
@@ -424,11 +422,11 @@ hrvatski (HR) (228.55 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/hr/documents/product-information/emblaveo-epar-product-information_hr.pdf)
 
-íslenska (IS) (226.83 KB - PDF)
+íslenska (IS) (325.65 KB - PDF)
 
 **First published:**
 
@@ -436,11 +434,11 @@ hrvatski (HR) (228.55 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/is/documents/product-information/emblaveo-epar-product-information_is.pdf)
 
-italiano (IT) (226.7 KB - PDF)
+italiano (IT) (342.26 KB - PDF)
 
 **First published:**
 
@@ -448,11 +446,11 @@ italiano (IT) (226.7 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/it/documents/product-information/emblaveo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (225.85 KB - PDF)
+latviešu valoda (LV) (340.44 KB - PDF)
 
 **First published:**
 
@@ -460,11 +458,11 @@ latviešu valoda (LV) (225.85 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/lv/documents/product-information/emblaveo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (225.4 KB - PDF)
+lietuvių kalba (LT) (342.12 KB - PDF)
 
 **First published:**
 
@@ -472,11 +470,11 @@ lietuvių kalba (LT) (225.4 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/lt/documents/product-information/emblaveo-epar-product-information_lt.pdf)
 
-magyar (HU) (241.2 KB - PDF)
+magyar (HU) (356.02 KB - PDF)
 
 **First published:**
 
@@ -484,11 +482,11 @@ magyar (HU) (241.2 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/hu/documents/product-information/emblaveo-epar-product-information_hu.pdf)
 
-Malti (MT) (266.71 KB - PDF)
+Malti (MT) (385.62 KB - PDF)
 
 **First published:**
 
@@ -496,11 +494,11 @@ Malti (MT) (266.71 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/mt/documents/product-information/emblaveo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (231.88 KB - PDF)
+Nederlands (NL) (326.5 KB - PDF)
 
 **First published:**
 
@@ -508,11 +506,11 @@ Nederlands (NL) (231.88 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/nl/documents/product-information/emblaveo-epar-product-information_nl.pdf)
 
-norsk (NO) (224.75 KB - PDF)
+norsk (NO) (328.25 KB - PDF)
 
 **First published:**
 
@@ -520,11 +518,11 @@ norsk (NO) (224.75 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/no/documents/product-information/emblaveo-epar-product-information_no.pdf)
 
-polski (PL) (240.09 KB - PDF)
+polski (PL) (360.32 KB - PDF)
 
 **First published:**
 
@@ -532,11 +530,11 @@ polski (PL) (240.09 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/pl/documents/product-information/emblaveo-epar-product-information_pl.pdf)
 
-português (PT) (223.36 KB - PDF)
+português (PT) (325.15 KB - PDF)
 
 **First published:**
 
@@ -544,11 +542,11 @@ português (PT) (223.36 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/pt/documents/product-information/emblaveo-epar-product-information_pt.pdf)
 
-română (RO) (230.14 KB - PDF)
+română (RO) (345.87 KB - PDF)
 
 **First published:**
 
@@ -556,11 +554,11 @@ română (RO) (230.14 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/ro/documents/product-information/emblaveo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (229.47 KB - PDF)
+slovenčina (SK) (359.97 KB - PDF)
 
 **First published:**
 
@@ -568,11 +566,11 @@ slovenčina (SK) (229.47 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/sk/documents/product-information/emblaveo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (223.18 KB - PDF)
+slovenščina (SL) (337.48 KB - PDF)
 
 **First published:**
 
@@ -580,11 +578,11 @@ slovenščina (SL) (223.18 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/sl/documents/product-information/emblaveo-epar-product-information_sl.pdf)
 
-Suomi (FI) (220.24 KB - PDF)
+Suomi (FI) (220.22 KB - PDF)
 
 **First published:**
 
@@ -592,11 +590,11 @@ Suomi (FI) (220.24 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/fi/documents/product-information/emblaveo-epar-product-information_fi.pdf)
 
-svenska (SV) (220.54 KB - PDF)
+svenska (SV) (322.96 KB - PDF)
 
 **First published:**
 
@@ -604,11 +602,11 @@ svenska (SV) (220.54 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+23/02/2026
 
 [View](/sv/documents/product-information/emblaveo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000278463 11/09/2025
+**Latest procedure affecting product information:** VR/0000326675 20/02/2026
 
 icon globe
 
@@ -632,7 +630,7 @@ English (EN) (23.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/emblaveo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-152)
+[Other languages (24)](#file-language-dropdown-289)
 
 български (BG) (25.94 KB - PDF)
 
@@ -863,7 +861,7 @@ Pfizer Europe MA EEIG
 
 Boulevard de la Plaine 17
 
-Opinion adopted 21/03/2024 Marketing authorisation issued 22/04/2024 Revision 2
+Opinion adopted 21/03/2024 Marketing authorisation issued 22/04/2024 Revision 3
 
 ## Assessment history
 
@@ -875,9 +873,11 @@ Collapse section
 
 Emblaveo : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (209.49 KB - PDF)
+English (EN) (145.43 KB - PDF)
 
 **First published:** 17/09/2025
+
+**Last updated:** 23/02/2026
 
 [View](/en/documents/procedural-steps-after/emblaveo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -915,13 +915,13 @@ English (EN) (169.79 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-emblaveo_en.pdf)
 
-#### News on Emblaveo
+## News on Emblaveo
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 March 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-march-2024) 22/03/2024
 
 [New antibiotic to fight infections caused by multidrug-resistant bacteria](/en/news/new-antibiotic-fight-infections-caused-multidrug-resistant-bacteria) 22/03/2024
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -933,7 +933,7 @@ English (EN) (142.86 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/emblaveo-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-384)
+[Other languages (24)](#file-language-dropdown-126)
 
 български (BG) (157.21 KB - DOCX)
 
@@ -1127,11 +1127,12 @@ svenska (SV) (143.61 KB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/emblaveo-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Emblaveo
+## More information on Emblaveo
 
 - [Emblaveo - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/emblaveo)
+- [Retrospective Multi-center Study of the Burden of MBL-producing Enterobacterales in Critically Ill Adults in Spain - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000733)
 
-**This page was last updated on** 17/09/2025
+**This page was last updated on** 23/02/2026
 
 ## Share this page
 

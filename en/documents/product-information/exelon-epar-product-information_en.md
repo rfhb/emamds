@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-26 15:26:26
-document_pages: 119
+document_datetime: 2026-02-24 09:58:28
+document_pages: 122
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/exelon-epar-product-information_en.pdf
 document_name: exelon-epar-product-information_en.pdf
 version: success
-processing_time: 31.5133787
-conversion_datetime: 2026-02-01 20:43:20.841466
+processing_time: 32.6697968
+conversion_datetime: 2026-02-25 11:33:27.117986
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
   docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -48,7 +48,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-## Hard capsules
+Hard capsules
 
 ## Exelon 1.5 mg hard capsules
 
@@ -202,13 +202,11 @@ In animals, rivastigmine is excreted in milk. It is not known if rivastigmine is
 
 No adverse effects of rivastigmine were observed on fertility or reproductive performance in rats (see section 5.3). Effects of rivastigmine on human fertility are not known.
 
-## 4.7 Effects on ability to drive and use machines
-
-Alzheimer's disease may cause gradual impairment of driving performance or compromise the ability to use machinery. Furthermore, rivastigmine can induce dizziness and somnolence, mainly when initiating treatment or increasing the dose. As a consequence, rivastigmine has minor or moderate influence on the
-
 <div style=\"page-break-after: always\"></div>
 
-ability to drive and use machines. Therefore, the ability of patients with dementia on rivastigmine to continue driving or operating complex machines should be routinely evaluated by the treating physician.
+## 4.7 Effects on ability to drive and use machines
+
+Alzheimer's disease may cause gradual impairment of driving performance or compromise the ability to use machinery. Furthermore, rivastigmine can induce dizziness and somnolence, mainly when initiating treatment or increasing the dose. As a consequence, rivastigmine has minor or moderate influence on the ability to drive and use machines. Therefore, the ability of patients with dementia on rivastigmine to continue driving or operating complex machines should be routinely evaluated by the treating physician.
 
 ## 4.8 Undesirable effects
 
@@ -221,6 +219,8 @@ The most commonly reported adverse reactions (ADRs) are gastrointestinal, includ
 Adverse reactions in Table 1 and Table 2 are listed according to MedDRA system organ class and frequency category. Frequency categories are defined using the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
 
 The following adverse reactions, listed below in Table 1, have been accumulated in patients with Alzheimer's dementia treated with Exelon.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 1
 
@@ -246,67 +246,73 @@ Table 1
 | Common                                  | Tremor                                                                                              |
 | Uncommon                                | Syncope                                                                                             |
 | Rare                                    | Seizures                                                                                            |
-| Very rare                               | Extrapyramidal symptoms (including worsening of Parkinson's disease)                                |
-| Not known                               | Pleurothotonus (Pisa syndrome)                                                                      |
+| Very rare                               | Extrapyramidal symptoms (including worsening of                                                     |
+| Not known                               | Parkinson's disease) Pleurothotonus (Pisa syndrome)                                                 |
 | Cardiac disorders                       |                                                                                                     |
 | Rare                                    | Angina pectoris                                                                                     |
 | Very rare                               | Cardiac arrhythmia (e.g. bradycardia, atrio-ventricular block, atrial fibrillation and tachycardia) |
 | Not known                               | Sick sinus syndrome                                                                                 |
 | Vascular disorders                      |                                                                                                     |
 | Very rare                               | Hypertension                                                                                        |
+| Gastrointestinal disorders              |                                                                                                     |
+| Very common                             | Nausea                                                                                              |
+| Very common                             | Vomiting                                                                                            |
+| Very common                             | Diarrhoea                                                                                           |
+| Common                                  | Abdominal pain and dyspepsia                                                                        |
+| Rare                                    | Gastric and duodenal ulcers                                                                         |
+| Very rare                               | Gastrointestinal haemorrhage                                                                        |
+| Very rare                               | Pancreatitis                                                                                        |
+| Not known                               | Some cases of severe vomiting were associated with                                                  |
+|                                         | oesophageal rupture (see section 4.4).                                                              |
+| Hepatobiliary disorders                 |                                                                                                     |
+| Uncommon                                | Elevated liver function tests                                                                       |
+| Not known                               | Hepatitis                                                                                           |
+| Skin and subcutaneous tissue disorders  |                                                                                                     |
+| Common                                  | Hyperhydrosis                                                                                       |
+| Rare                                    | Rash                                                                                                |
+| Not known                               | Pruritus, allergic dermatitis (disseminated)                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
-| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                |
-|------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| Very common                                          | Nausea                                                                                    |
-| Very common                                          | Vomiting                                                                                  |
-| Very common                                          | Diarrhoea                                                                                 |
-| Common                                               | Abdominal pain and dyspepsia                                                              |
-| Rare                                                 | Gastric and duodenal ulcers                                                               |
-| Very rare                                            | Gastrointestinal haemorrhage                                                              |
-| Very rare                                            | Pancreatitis                                                                              |
-| Not known                                            | Some cases of severe vomiting were associated with oesophageal rupture (see section 4.4). |
-| Hepatobiliary disorders                              |                                                                                           |
-| Uncommon                                             | Elevated liver function tests                                                             |
-| Not known                                            | Hepatitis                                                                                 |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                    |
-| Common                                               | Hyperhydrosis                                                                             |
-| Rare                                                 | Rash                                                                                      |
-| Not known                                            | Pruritus, allergic dermatitis (disseminated)                                              |
-| General disorders and administration site conditions | General disorders and administration site conditions                                      |
-| Common                                               | Fatigue and asthenia                                                                      |
-| Common                                               | Malaise                                                                                   |
-| Uncommon                                             | Fall                                                                                      |
-| Investigations                                       |                                                                                           |
-| Common                                               | Weight loss                                                                               |
+| General disorders and administration site conditions   | General disorders and administration site conditions   |
+|--------------------------------------------------------|--------------------------------------------------------|
+| Common                                                 | Fatigue and asthenia                                   |
+| Common                                                 | Malaise                                                |
+| Uncommon                                               | Fall                                                   |
+| Investigations                                         |                                                        |
+| Common                                                 | Weight loss                                            |
 
 The following additional adverse reactions have been observed with Exelon transdermal patches: delirium, pyrexia, decreased appetite, urinary incontinence (common), psychomotor hyperactivity (uncommon), erythema, urticaria, vesicles, allergic dermatitis (not known).
 
 Table 2 shows the adverse reactions reported in patients with dementia associated with Parkinson's disease treated with Exelon capsules.
 
-Table 2
-
-| Metabolism and nutrition disorders                 | Decreased appetite                                                                            |
-|----------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Common Psychiatric disorders                       | Dehydration                                                                                   |
-| Common Common Not known Nervous system Very common |                                                                                               |
-| Common Common Common                               | Restlessness Hallucination, visual Depression Aggression Tremor Dizziness Somnolence Headache |
-| Common Common Common Common Common                 | Insomnia Anxiety                                                                              |
-| Common                                             |                                                                                               |
-| disorders                                          |                                                                                               |
-|                                                    | Parkinson's disease (worsening)                                                               |
-|                                                    | Bradykinesia                                                                                  |
-|                                                    | Dyskinesia                                                                                    |
-| Common                                             | Hypokinesia                                                                                   |
-| Common                                             | Cogwheel rigidity                                                                             |
-| Uncommon                                           | Dystonia                                                                                      |
-| Not Known                                          | Pleurothotonus (Pisa syndrome)                                                                |
-
 <div style=\"page-break-after: always\"></div>
 
-| Cardiac disorders                         |                                    |
+Table 2
+
+| Metabolism and nutrition disorders        | Decreased appetite                 |
 |-------------------------------------------|------------------------------------|
+| Common Common                             | Dehydration                        |
+| Psychiatric disorders                     |                                    |
+| Common                                    | Insomnia                           |
+| Common                                    | Anxiety                            |
+| Common                                    | Restlessness                       |
+| Common                                    | Hallucination, visual              |
+| Common                                    | Depression                         |
+| Not known                                 | Aggression                         |
+| Nervous system disorders                  |                                    |
+| Very common                               | Tremor                             |
+| Common                                    | Dizziness                          |
+| Common                                    | Somnolence                         |
+| Common                                    | Headache                           |
+| Common                                    | Parkinson's disease (worsening)    |
+| Common                                    | Bradykinesia                       |
+| Common                                    | Dyskinesia                         |
+| Common                                    | Hypokinesia                        |
+| Common                                    | Cogwheel rigidity                  |
+| Uncommon                                  | Dystonia                           |
+| Not Known                                 | Pleurothotonus (Pisa syndrome)     |
+| Cardiac disorders                         |                                    |
 | Common                                    | Bradycardia                        |
 | Uncommon                                  | Atrial Fibrillation                |
 | Uncommon                                  | Atrioventricular block             |
@@ -335,29 +341,28 @@ The following additional adverse reaction has been observed in a study of patien
 
 Table 3 lists the number and percentage of patients from the specific 24-week clinical study conducted with Exelon in patients with dementia associated with Parkinson's disease with pre-defined adverse events that may reflect worsening of parkinsonian symptoms.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 3
 
-| Pre-defined adverse events that may reflect worsening of parkinsonian symptoms in patients with dementia associated with Parkinson's disease   | Exelon n (%)        | Placebo n (%)       |
-|------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|---------------------|
-| Total patients studied Total patients with pre-defined AE(s)                                                                                   | 362 (100) 99 (27.3) | 179 (100) 28 (15.6) |
-| Tremor                                                                                                                                         | 37 (10.2) 21 (5.8)  | 7 (3.9)             |
-| Fall                                                                                                                                           |                     | 11 (6.1)            |
-| Parkinson's disease (worsening)                                                                                                                | 12 (3.3)            | 2 (1.1)             |
-| Salivary hypersecretion                                                                                                                        | 5 (1.4)             | 0                   |
-| Dyskinesia                                                                                                                                     | 5 (1.4)             | 1 (0.6)             |
-| Parkinsonism                                                                                                                                   | 8 (2.2)             | 1 (0.6)             |
-| Hypokinesia                                                                                                                                    | 1 (0.3)             | 0                   |
-| Movement disorder                                                                                                                              | 1 (0.3)             | 0                   |
-| Bradykinesia                                                                                                                                   | 9 (2.5)             | 3 (1.7)             |
-| Dystonia                                                                                                                                       | 3 (0.8)             | 1 (0.6)             |
-| Gait abnormality                                                                                                                               | 5 (1.4)             | 0                   |
-| Muscle rigidity                                                                                                                                | 1 (0.3)             | 0                   |
-| Balance disorder                                                                                                                               | 3 (0.8)             | 2 (1.1)             |
-| Musculoskeletal stiffness                                                                                                                      | 3 (0.8)             | 0                   |
-| Rigors                                                                                                                                         | 1 (0.3)             | 0                   |
-| Motor dysfunction                                                                                                                              | 1 (0.3)             | 0                   |
-
-<div style=\"page-break-after: always\"></div>
+| Pre-defined adverse events that may reflect worsening of parkinsonian symptoms in patients with dementia associated with Parkinson's disease   | Exelon n (%)        | Placebo n (%)            |
+|------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|--------------------------|
+| Total patients studied Total patients with pre-defined AE(s)                                                                                   | 362 (100) 99 (27.3) | 179 (100) 28 (15.6)      |
+| Tremor Fall                                                                                                                                    | 37 (10.2) 21 (5.8)  | 7 (3.9) 11 (6.1) 2 (1.1) |
+| Parkinson's disease (worsening)                                                                                                                | 12 (3.3)            |                          |
+| Salivary hypersecretion                                                                                                                        | 5 (1.4)             | 0                        |
+| Dyskinesia                                                                                                                                     | 5 (1.4)             | 1 (0.6)                  |
+| Parkinsonism                                                                                                                                   | 8 (2.2)             | 1 (0.6)                  |
+| Hypokinesia                                                                                                                                    | 1 (0.3)             | 0                        |
+| Movement disorder                                                                                                                              | 1 (0.3)             | 0                        |
+| Bradykinesia                                                                                                                                   | 9 (2.5)             | 3 (1.7)                  |
+| Dystonia                                                                                                                                       | 3 (0.8)             | 1 (0.6)                  |
+| Gait abnormality                                                                                                                               | 5 (1.4)             | 0                        |
+| Muscle rigidity                                                                                                                                | 1 (0.3)             | 0                        |
+| Balance disorder                                                                                                                               | 3 (0.8)             | 2 (1.1)                  |
+| Musculoskeletal stiffness                                                                                                                      | 3 (0.8)             | 0                        |
+| Rigors                                                                                                                                         | 1 (0.3)             | 0                        |
+| Motor dysfunction                                                                                                                              | 1 (0.3)             | 0                        |
 
 ## Reporting of suspected adverse reactions
 
@@ -379,6 +384,8 @@ Additionally there have been post-marketing cases of dizziness, tremor, headache
 
 As rivastigmine has a plasma half-life of about 1 hour and a duration of acetylcholinesterase inhibition of about 9 hours, it is recommended that in cases of asymptomatic overdose no further dose of rivastigmine should be administered for the next 24 hours. In overdose accompanied by severe nausea and vomiting, the use of antiemetics should be considered. Symptomatic treatment for other adverse reactions should be given as necessary.
 
+<div style=\"page-break-after: always\"></div>
+
 In massive overdose, atropine can be used. An initial dose of 0.03 mg/kg intravenous atropine sulphate is recommended, with subsequent doses based on clinical response. Use of scopolamine as an antidote is not recommended.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
@@ -389,11 +396,7 @@ Pharmacotherapeutic group: psychoanaleptics, anticholinesterases, ATC code: N06D
 
 Rivastigmine is an acetyl- and butyrylcholinesterase inhibitor of the carbamate type, thought to facilitate cholinergic neurotransmission by slowing the degradation of acetylcholine released by functionally intact cholinergic neurones. Thus, rivastigmine may have an ameliorative effect on cholinergicmediated cognitive deficits in dementia associated with Alzheimer's disease and Parkinson's disease.
 
-Rivastigmine interacts with its target enzymes by forming a covalently bound complex that temporarily inactivates the enzymes. In healthy young men, an oral 3 mg dose decreases acetylcholinesterase (AChE) activity in CSF by approximately 40% within the first 1.5 hours after administration. Activity of the enzyme returns to baseline levels about 9 hours after the maximum inhibitory effect has been achieved. In patients with Alzheimer's disease, inhibition of AChE in CSF by rivastigmine was dose-dependent up to 6 mg given twice daily, the highest dose tested. Inhibition
-
-<div style=\"page-break-after: always\"></div>
-
-of butyrylcholinesterase activity in CSF of 14 Alzheimer patients treated by rivastigmine was similar to that of AChE.
+Rivastigmine interacts with its target enzymes by forming a covalently bound complex that temporarily inactivates the enzymes. In healthy young men, an oral 3 mg dose decreases acetylcholinesterase (AChE) activity in CSF by approximately 40% within the first 1.5 hours after administration. Activity of the enzyme returns to baseline levels about 9 hours after the maximum inhibitory effect has been achieved. In patients with Alzheimer's disease, inhibition of AChE in CSF by rivastigmine was dose-dependent up to 6 mg given twice daily, the highest dose tested. Inhibition of butyrylcholinesterase activity in CSF of 14 Alzheimer patients treated by rivastigmine was similar to that of AChE.
 
 ## Clinical studies in Alzheimer's dementia
 
@@ -404,6 +407,8 @@ The patients studied had an MMSE (Mini-Mental State Examination) score of 10 -24
 The results for clinically relevant responders pooled from two flexible dose studies out of the three pivotal 26-week multicentre studies in patients with mild-tomoderately severe Alzheimer's Dementia, are provided in Table 4 below. Clinically relevant improvement in these studies was defined a priori as at least 4-point improvement on the ADAS-Cog, improvement on the CIBIC-Plus, or at least a 10% improvement on the PDS.
 
 In addition, a post-hoc definition of response is provided in the same table. The secondary definition of response required a 4-point or greater improvement on the ADAS-Cog, no worsening on the CIBIC-Plus, and no worsening on the PDS. The mean actual daily dose for responders in the 6 -12 mg group, corresponding to this definition, was 9.3 mg. It is important to note that the scales used in this indication vary and direct comparisons of results for different therapeutic agents are not valid.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 4
 
@@ -420,11 +425,9 @@ Table 4
 
 ## Clinical studies in dementia associated with Parkinson's disease
 
-The efficacy of rivastigmine in dementia associated with Parkinson's disease has been demonstrated in a 24-week multicentre, double-blind, placebo-controlled core study and its 24-week open-label extension phase. Patients involved in this study had an MMSE (Mini-Mental State Examination) score of 10 -24. Efficacy has been established by the use of two independent scales which were assessed at regular intervals during a 6-month treatment period as shown in Table 5 below: the ADAS-Cog, a
+The efficacy of rivastigmine in dementia associated with Parkinson's disease has been demonstrated in a 24-week multicentre, double-blind, placebo-controlled core study and its 24-week open-label extension phase. Patients involved in this study had an MMSE (Mini-Mental State Examination) score of 10 -24. Efficacy has been established by the use of two independent scales which were assessed at regular intervals during a 6-month treatment period as shown in Table 5 below: the ADAS-Cog, a measure of cognition, and the global measure ADCSCGIC (Alzheimer's Disease Cooperative Study -Clinician's Global Impression of Change).
 
 <div style=\"page-break-after: always\"></div>
-
-measure of cognition, and the global measure ADCSCGIC (Alzheimer's Disease Cooperative Study -Clinician's Global Impression of Change).
 
 Table 5
 
@@ -432,25 +435,27 @@ Table 5
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------|----------------------------------------------------------------------|
 | ITT + RDO population Mean baseline ± SD Mean change at 24 weeks ± SD Adjusted treatment difference p-value versus placebo ITT - LOCF population Mean baseline ± SD Mean change at 24 weeks ± SD Adjusted treatment difference p-value versus placebo | (n=329) 23.8 ± 10.2 2.1 ± 8.2 (n=287) 24.0 ± 10.3 2.5 ± 8.4 | (n=161) 24.3 ± 10.5 -0.7 ± 7.5 2.88 1 <0.001 1 (n=154) 24.5 ± 10.6 -0.8 ± 7.5 3.54 1 <0.001 1 | (n=329) n/a 3.8 ± 1.4 (n=289) n/a 3.7 ± 1.4 | (n=165) n/a 4.3 ± 1.5 n/a 0.007 2 (n=158) n/a 4.3 ± 1.5 n/a <0.001 2 |
 
+1 Based on ANCOVA with treatment and country as factors and baseline ADAS-Cog as a covariate. A positive change indicates improvement.
+
+2 Mean data shown for convenience, categorical analysis performed using van Elteren test ITT: Intent-To-Treat; RDO: Retrieved Drop Outs; LOCF: Last Observation Carried Forward
+
 Although a treatment effect was demonstrated in the overall study population, the data suggested that a larger treatment effect relative to placebo was seen in the subgroup of patients with moderate dementia associated with Parkinson's disease. Similarly a larger treatment effect was observed in those patients with visual hallucinations (see Table 6).
 
 <div style=\"page-break-after: always\"></div>
 
 Table 6
 
-| Dementia associated with Parkinson's Disease                                                                              | ADAS-Cog Exelon                     | ADAS-Cog Placebo                    | ADAS-Cog Exelon                        | ADAS-Cog Placebo                       |
-|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------------------------------|----------------------------------------|----------------------------------------|
-|                                                                                                                           | Patients with visual hallucinations | Patients with visual hallucinations | Patients without visual hallucinations | Patients without visual hallucinations |
-| ITT + RDO population Mean baseline ± SD Mean change at 24 weeks ± SD Adjusted treatment difference p-value versus placebo | (n=107) 25.4 ± 1.0 ± 9.2            | (n=60) 27.4 ± 10.4                  | (n=220)                                | (n=101) 22.5 ±                         |
-|                                                                                                                           | 9.9                                 |                                     | 23.1 ± 10.4                            | 10.1                                   |
-|                                                                                                                           |                                     | -2.1 ± 8.3                          | 2.6 ± 7.6                              | 0.1 ± 6.9                              |
-|                                                                                                                           | 4.27 1                              | 4.27 1                              | 2.09 1 1                               | 2.09 1 1                               |
-|                                                                                                                           | 0.002 1 moderate                    | 0.002 1 moderate                    | 0.015 Patients with mild dementia      | 0.015 Patients with mild dementia      |
-|                                                                                                                           | Patients with dementia (MMSE        | 10-17) (n=44)                       | (MMSE 18-24)                           |                                        |
-| ITT + RDO population                                                                                                      | (n=87)                              |                                     | (n=237)                                | (n=115)                                |
-| Mean baseline ± SD                                                                                                        | 32.6 ± 10.4                         | 33.7 ± 10.3                         | 20.6 ± 7.9                             | 20.7 ± 7.9                             |
-| Mean change at 24 weeks ± SD                                                                                              | 2.6 ± 9.4 4.73 1 0.002 1            | -1.8 ± 7.2                          | 1.9 ± 7.7 2.14 1 1                     | -0.2 ± 7.5                             |
-| p-value versus placebo                                                                                                    |                                     |                                     | 0.010                                  | 0.010                                  |
+| Dementia associated with Parkinson's Disease                                                                              | ADAS-Cog Exelon                     | ADAS-Cog Placebo                    | ADAS-Cog Exelon                          | ADAS-Cog Placebo                         |
+|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------------------------------|------------------------------------------|------------------------------------------|
+|                                                                                                                           | Patients with visual hallucinations | Patients with visual hallucinations | Patients without visual hallucinations   | Patients without visual hallucinations   |
+| ITT + RDO population Mean baseline ± SD Mean change at 24 weeks ± SD Adjusted treatment difference p-value versus placebo | (n=107) 25.4 ± 9.9 1.0 ± 9.2        | (n=60) 27.4 ± 10.4 -2.1 ± 8.3       | (n=220) 23.1 ± 2.6 ± 7.6                 | (n=101) 22.5 ± 0.1 ± 6.9                 |
+|                                                                                                                           |                                     |                                     | 10.4                                     | 10.1                                     |
+|                                                                                                                           | 4.27 1 0.002 1                      | 4.27 1 0.002 1                      | 2.09 1 0.015 1                           | 2.09 1 0.015 1                           |
+|                                                                                                                           | with moderate (MMSE 10-17)          | with moderate (MMSE 10-17)          | Patients with mild dementia (MMSE 18-24) | Patients with mild dementia (MMSE 18-24) |
+|                                                                                                                           | Patients dementia                   | (n=44)                              | (n=237)                                  | (n=115)                                  |
+| ITT + RDO population Mean baseline ± SD Mean change at 24 weeks ± SD Adjusted treatment difference p-value versus placebo | (n=87) 32.6 ± 2.6 ± 9.4             | -1.8 ± 7.2                          | 1.9 ± 7.7                                |                                          |
+|                                                                                                                           | 10.4                                | 33.7 ± 10.3                         | 20.6 ± 7.9                               | 20.7 ± 7.9 -0.2 ± 7.5                    |
+|                                                                                                                           | 4.73 1 0.002 1                      | 4.73 1 0.002 1                      | 2.14 1 0.010 1                           | 2.14 1 0.010 1                           |
 
 ITT: Intent-To-Treat; RDO: Retrieved Drop Outs
 
@@ -520,7 +525,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-5 years
+3 years.
 
 ## 6.4 Special precautions for storage
 
@@ -562,7 +567,9 @@ Exelon 6.0 mg hard capsules
 
 EU/1/98/066/010-12
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 12 May 1998
 
@@ -574,7 +581,7 @@ DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
 
-16
+18
 
 <div style=\"page-break-after: always\"></div>
 
@@ -602,7 +609,9 @@ Clear, yellow solution.
 
 ## 4.1 Therapeutic indications
 
-Symptomatic treatment of mild to moderately severe Alzheimer's dementia. Symptomatic treatment of mild to moderately severe dementia in patients with idiopathic Parkinson's disease.
+Symptomatic treatment of mild to moderately severe Alzheimer's dementia.
+
+Symptomatic treatment of mild to moderately severe dementia in patients with idiopathic Parkinson's disease.
 
 ## 4.2 Posology and method of administration
 
@@ -662,11 +671,9 @@ The incidence and severity of adverse reactions generally increase with higher d
 
 Skin application site reactions may occur with rivastigmine patch and are usually mild or moderate in intensity. These reactions are not in themselves an indication of sensitisation. However, use of rivastigmine patch may lead to allergic contact dermatitis.
 
-Allergic contact dermatitis should be suspected if application site reactions spread beyond the patch
-
 <div style=\"page-break-after: always\"></div>
 
-size, if there is evidence of a more intense local reaction (e.g. increasing erythema, oedema, papules, vesicles) and if symptoms do not significantly improve within 48 hours after patch removal. In these cases, treatment should be discontinued (see section 4.3).
+Allergic contact dermatitis should be suspected if application site reactions spread beyond the patch size, if there is evidence of a more intense local reaction (e.g. increasing erythema, oedema, papules, vesicles) and if symptoms do not significantly improve within 48 hours after patch removal. In these cases, treatment should be discontinued (see section 4.3).
 
 Patients who develop application site reactions suggestive of allergic contact dermatitis to rivastigmine patch and who still require rivastigmine treatment should only be switched to oral rivastigmine after negative allergy testing and under close medical supervision. It is possible that some patients sensitised to rivastigmine by exposure to rivastigmine patch may not be able to take rivastigmine in any form.
 
@@ -690,9 +697,9 @@ Rivastigmine may cause increased gastric acid secretions. Care should be exercis
 
 Cholinesterase inhibitors should be prescribed with care to patients with a history of asthma or obstructive pulmonary disease.
 
-Cholinomimetics may induce or exacerbate urinary obstruction and seizures. Caution is recommended in treating patients predisposed to such diseases.
-
 <div style=\"page-break-after: always\"></div>
+
+Cholinomimetics may induce or exacerbate urinary obstruction and seizures. Caution is recommended in treating patients predisposed to such diseases.
 
 The use of rivastigmine in patients with severe dementia of Alzheimer's disease or associated with Parkinson's disease, other types of dementia or other types of memory impairment (e.g. age -related cognitive decline) has not been investigated and therefore use in these patient populations is not recommended.
 
@@ -720,11 +727,9 @@ Additive effects leading to bradycardia (which may result in syncope) have been 
 
 Since bradycardia constitutes a risk factor in the occurrence of torsades de pointes, the combination of rivastigmine with QT prolongation- or torsades de pointes-inducing medicinal products such as antipsychotics i.e. some phenothiazines (chlorpromazine, levomepromazine), benzamides (sulpiride, sultopride, amisulpride, tiapride, veralipride), pimozide, haloperidol, droperidol, cisapride, citalopram, diphemanil, erythromycin IV, halofantrin, mizolastin, methadone, pentamidine and moxifloxacine should be observed with caution and clinical monitoring (ECG) may also be required.
 
-No pharmacokinetic interaction was observed between rivastigmine and digoxin, warfarin, diazepam or fluoxetine in studies in healthy volunteers. The increase in prothrombin time induced by warfarin is not
-
 <div style=\"page-break-after: always\"></div>
 
-affected by administration of rivastigmine. No untoward effects on cardiac conduction were observed following concomitant administration of digoxin and rivastigmine.
+No pharmacokinetic interaction was observed between rivastigmine and digoxin, warfarin, diazepam or fluoxetine in studies in healthy volunteers. The increase in prothrombin time induced by warfarin is not affected by administration of rivastigmine. No untoward effects on cardiac conduction were observed following concomitant administration of digoxin and rivastigmine.
 
 According to its metabolism, metabolic interactions with other medicinal products appear unlikely, although rivastigmine may inhibit the butyrylcholinesterase mediated metabolism of other substances.
 
@@ -824,83 +829,84 @@ The following additional adverse reactions have been observed with Exelon transd
 
 Table 2 shows the adverse reactions reported in patients with dementia associated with Parkinson's disease treated with Exelon capsules.
 
-Table 2
-
-| Metabolism and nutrition disorders   | Decreased appetite              |
-|--------------------------------------|---------------------------------|
-| Common                               | Dehydration                     |
-| Psychiatric disorders                |                                 |
-| Common                               | Insomnia                        |
-| Common                               | Anxiety                         |
-| Common                               | Restlessness                    |
-| Common                               | Hallucination, visual           |
-| Common                               | Depression                      |
-| Not known                            | Aggression                      |
-| Nervous system disorders             |                                 |
-| Very common                          | Tremor                          |
-| Common                               | Dizziness                       |
-| Common                               | Somnolence                      |
-| Common                               | Headache                        |
-| Common                               | Parkinson's disease (worsening) |
-| Common                               | Bradykinesia                    |
-| Common                               | Dyskinesia                      |
-| Common                               | Hypokinesia                     |
-| Common                               | Cogwheel rigidity               |
-| Uncommon                             | Dystonia                        |
-| Not known                            | Pleurothotonus (Pisa syndrome)  |
-| Cardiac disorders                    |                                 |
-| Common                               | Bradycardia                     |
-| Uncommon                             | Atrial Fibrillation             |
-| Uncommon                             | Atrioventricular block          |
-| Not known                            | Sick sinus syndrome             |
-| Vascular disorders                   |                                 |
-| Common                               | Hypertension                    |
-| Uncommon                             | Hypotension                     |
-| Gastrointestinal disorders           |                                 |
-| Very common                          | Nausea                          |
-| Very common                          | Vomiting                        |
-| Common                               | Diarrhoea                       |
-| Common                               | Abdominal pain and dyspepsia    |
-| Common                               | Salivary hypersecretion         |
-| Hepatobiliary disorders              |                                 |
-| Not known                            | Hepatitis                       |
-
 <div style=\"page-break-after: always\"></div>
 
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               |
-|------------------------------------------------------|------------------------------------------------------|
-| Common                                               | Hyperhydrosis                                        |
-| Not known                                            | Allergic dermatitis (disseminated)                   |
-| General disorders and administration site conditions | General disorders and administration site conditions |
-| Very common                                          | Fall                                                 |
-| Common                                               | Fatigue and asthenia                                 |
-| Common                                               | Gait disturbance                                     |
-| Common                                               | Parkinson gait                                       |
+Table 2
+
+| Metabolism and nutrition disorders        | Decreased appetite                 |
+|-------------------------------------------|------------------------------------|
+| Common Common                             | Dehydration                        |
+| Psychiatric disorders                     |                                    |
+| Common                                    | Insomnia                           |
+| Common                                    | Anxiety                            |
+| Common                                    | Restlessness                       |
+| Common                                    | Hallucination, visual              |
+| Common                                    | Depression                         |
+| Not known                                 | Aggression                         |
+| Nervous system disorders                  |                                    |
+| Very common                               | Tremor                             |
+| Common                                    | Dizziness                          |
+| Common                                    | Somnolence                         |
+| Common                                    | Headache                           |
+| Common                                    | Parkinson's disease (worsening)    |
+| Common                                    | Bradykinesia                       |
+| Common                                    | Dyskinesia                         |
+| Common                                    | Hypokinesia                        |
+| Common                                    | Cogwheel rigidity                  |
+| Uncommon                                  | Dystonia                           |
+| Not known                                 | Pleurothotonus (Pisa syndrome)     |
+| Cardiac disorders                         |                                    |
+| Common                                    | Bradycardia                        |
+| Uncommon                                  | Atrial Fibrillation                |
+| Uncommon                                  | Atrioventricular block             |
+| Not known                                 | Sick sinus syndrome                |
+| Vascular disorders                        |                                    |
+| Common                                    | Hypertension                       |
+| Uncommon                                  | Hypotension                        |
+| Gastrointestinal disorders                |                                    |
+| Very common                               | Nausea                             |
+| Very common                               | Vomiting                           |
+| Common                                    | Diarrhoea                          |
+| Common                                    | Abdominal pain and dyspepsia       |
+| Common                                    | Salivary hypersecretion            |
+| Hepatobiliary disorders                   |                                    |
+| Not known                                 | Hepatitis                          |
+| Skin and subcutaneous tissue disorders    |                                    |
+| Common                                    | Hyperhydrosis                      |
+| Not known                                 | Allergic dermatitis (disseminated) |
+| General disorders and administration site | conditions                         |
+| Very common                               | Fall                               |
+| Common                                    | Fatigue and asthenia               |
+| Common                                    | Gait disturbance                   |
+| Common                                    | Parkinson gait                     |
 
 The following additional adverse reaction has been observed in a study of patients with dementia associated with Parkinson's disease treated with Exelon transdermal patches: agitation (common).
 
 Table 3 lists the number and percentage of patients from the specific 24-week clinical study conducted with Exelon in patients with dementia associated with Parkinson's disease with pre-defined adverse events that may reflect worsening of parkinsonian symptoms.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 3
 
-| Pre-defined adverse events that may reflect worsening of parkinsonian symptoms in patients with dementia associated with Parkinson's disease   | Exelon n (%)        | Placebo n (%)       |
-|------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|---------------------|
-| Total patients studied Total patients with pre-defined AE(s)                                                                                   | 362 (100) 99 (27.3) | 179 (100) 28 (15.6) |
-| Tremor Fall                                                                                                                                    | 37 (10.2) 21 (5.8)  | 7 (3.9) 11 (6.1)    |
-| Parkinson's disease (worsening)                                                                                                                | 12 (3.3)            | 2 (1.1)             |
-| Salivary hypersecretion                                                                                                                        | 5 (1.4)             | 0                   |
-| Dyskinesia                                                                                                                                     | 5 (1.4)             | 1 (0.6)             |
-| Parkinsonism                                                                                                                                   | 8 (2.2)             | 1 (0.6)             |
-| Hypokinesia                                                                                                                                    | 1 (0.3)             | 0                   |
-| Movement disorder                                                                                                                              | 1 (0.3)             | 0                   |
-| Bradykinesia                                                                                                                                   | 9 (2.5)             | 3 (1.7)             |
-| Dystonia                                                                                                                                       | 3 (0.8)             | 1 (0.6)             |
-| Gait abnormality                                                                                                                               | 5 (1.4)             | 0                   |
-| Muscle rigidity                                                                                                                                | 1 (0.3)             | 0                   |
-| Balance disorder                                                                                                                               | 3 (0.8)             | 2 (1.1)             |
-| Musculoskeletal stiffness                                                                                                                      | 3 (0.8)             | 0                   |
-| Rigors                                                                                                                                         | 1 (0.3)             | 0                   |
-| Motor dysfunction                                                                                                                              | 1 (0.3)             | 0                   |
+| Pre-defined adverse events that may reflect worsening of parkinsonian symptoms in patients with dementia associated with Parkinson's disease   | Exelon n (%)                | Placebo n (%)       |
+|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|---------------------|
+| Total patients studied Total patients with pre-defined AE(s)                                                                                   | 362 (100) 99 (27.3)         | 179 (100) 28 (15.6) |
+| Tremor                                                                                                                                         | 37 (10.2) 21 (5.8) 12 (3.3) | 7 (3.9) 11 (6.1)    |
+| Fall                                                                                                                                           |                             |                     |
+| Parkinson's disease (worsening)                                                                                                                |                             | 2 (1.1)             |
+| Salivary hypersecretion                                                                                                                        | 5 (1.4)                     | 0                   |
+| Dyskinesia                                                                                                                                     | 5 (1.4)                     | 1 (0.6)             |
+| Parkinsonism                                                                                                                                   | 8 (2.2)                     | 1 (0.6)             |
+| Hypokinesia                                                                                                                                    | 1 (0.3)                     | 0                   |
+| Movement disorder                                                                                                                              | 1 (0.3)                     | 0                   |
+| Bradykinesia                                                                                                                                   | 9 (2.5)                     | 3 (1.7)             |
+| Dystonia                                                                                                                                       | 3 (0.8)                     | 1 (0.6)             |
+| Gait abnormality                                                                                                                               | 5 (1.4)                     | 0                   |
+| Muscle rigidity                                                                                                                                | 1 (0.3)                     | 0                   |
+| Balance disorder                                                                                                                               | 3 (0.8)                     | 2 (1.1)             |
+| Musculoskeletal stiffness                                                                                                                      | 3 (0.8)                     | 0                   |
+| Rigors                                                                                                                                         | 1 (0.3)                     | 0                   |
+| Motor dysfunction                                                                                                                              | 1 (0.3)                     | 0                   |
 
 ## Reporting of suspected adverse reactions
 
@@ -912,11 +918,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Most cases of accidental overdose have not been associated with any clinical signs or symptoms and almost all of the patients concerned continued rivastigmine treatment 24 hours after the overdose.
 
-Cholinergic toxicity has been reported with muscarinic symptoms that are observed with moderate poisonings such as miosis, flushing, digestive disorders including abdominal pain, nausea, vomiting and
-
-<div style=\"page-break-after: always\"></div>
-
-diarrhoea, bradycardia, bronchospasm and increased bronchial secretions, hyperhidrosis, involuntary urination and/or defecation, lacrimation, hypotension and salivary hypersecretion.
+Cholinergic toxicity has been reported with muscarinic symptoms that are observed with moderate poisonings such as miosis, flushing, digestive disorders including abdominal pain, nausea, vomiting and diarrhoea, bradycardia, bronchospasm and increased bronchial secretions, hyperhidrosis, involuntary urination and/or defecation, lacrimation, hypotension and salivary hypersecretion.
 
 In more severe cases nicotinic effects might develop such as muscular weakness, fasciculations, seizures and respiratory arrest with possible fatal outcome.
 
@@ -925,6 +927,8 @@ Additionaly there have been post-marketing cases of dizziness, tremor, headache,
 ## Management
 
 As rivastigmine has a plasma half-life of about 1 hour and a duration of acetylcholinesterase inhibition of about 9 hours, it is recommended that in cases of asymptomatic overdose no further dose of rivastigmine should be administered for the next 24 hours. In overdose accompanied by severe nausea and vomiting, the use of antiemetics should be considered. Symptomatic treatment for other adverse reactions should be given as necessary.
+
+<div style=\"page-break-after: always\"></div>
 
 In massive overdose, atropine can be used. An initial dose of 0.03 mg/kg intravenous atropine sulphate is recommended, with subsequent doses based on clinical response. Use of scopolamine as an antidote is not recommended.
 
@@ -944,11 +948,11 @@ The efficacy of rivastigmine has been established through the use of three indep
 
 The patients studied had an MMSE (Mini-Mental State Examination) score of 10 -24.
 
-<div style=\"page-break-after: always\"></div>
-
 The results for clinically relevant responders pooled from two flexible dose studies out of the three pivotal 26-week multicentre studies in patients with mild-tomoderately severe Alzheimer's Dementia, are provided in Table 4 below. Clinically relevant improvement in these studies was defined a priori as at least 4-point improvement on the ADAS-Cog, improvement on the CIBIC-Plus, or at least a 10% improvement on the PDS.
 
 In addition, a post-hoc definition of response is provided in the same table. The secondary definition of response required a 4-point or greater improvement on the ADAS-Cog, no worsening on the CIBIC-Plus, and no worsening on the PDS. The mean actual daily dose for responders in the 6 -12 mg group, corresponding to this definition, was 9.3 mg. It is important to note that the scales used in this indication vary and direct comparisons of results for different therapeutic agents are not valid.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 4
 
@@ -975,6 +979,8 @@ Table 5
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------|----------------------------------------------------------------------|
 | ITT + RDO population Mean baseline ± SD Mean change at 24 weeks ± SD Adjusted treatment difference p-value versus placebo ITT - LOCF population Mean baseline ± SD Mean change at 24 weeks ± SD Adjusted treatment difference p-value versus placebo | (n=329) 23.8 ± 10.2 2.1 ± 8.2 (n=287) 24.0 ± 10.3 2.5 ± 8.4 | (n=161) 24.3 ± 10.5 -0.7 ± 7.5 2.88 1 <0.001 1 (n=154) 24.5 ± 10.6 -0.8 ± 7.5 3.54 1 <0.001 1 | (n=329) n/a 3.8 ± 1.4 (n=289) n/a 3.7 ± 1.4 | (n=165) n/a 4.3 ± 1.5 n/a 0.007 2 (n=158) n/a 4.3 ± 1.5 n/a <0.001 2 |
 
+1 Based on ANCOVA with treatment and country as factors and baseline ADAS-Cog as a covariate. A positive change indicates improvement.
+
 2 Mean data shown for convenience, categorical analysis performed using van Elteren test ITT: Intent-To-Treat; RDO: Retrieved Drop Outs; LOCF: Last Observation Carried Forward
 
 Although a treatment effect was demonstrated in the overall study population, the data suggested that a larger treatment effect relative to placebo was seen in the subgroup of patients with moderate dementia associated with Parkinson's disease. Similarly a larger treatment effect was observed in those patients with visual hallucinations (see Table 6).
@@ -983,19 +989,17 @@ Although a treatment effect was demonstrated in the overall study population, th
 
 Table 6
 
-| Dementia associated with Parkinson's Disease                                                                              | ADAS-Cog Exelon                     | ADAS-Cog Placebo                    | ADAS-Cog Exelon                        | ADAS-Cog Placebo                       |
-|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------------------------------|----------------------------------------|----------------------------------------|
-|                                                                                                                           | Patients with visual hallucinations | Patients with visual hallucinations | Patients without visual hallucinations | Patients without visual hallucinations |
-| ITT + RDO population Mean baseline ± SD Mean change at 24 weeks ± SD Adjusted treatment difference p-value versus placebo | (n=107) 25.4 ± 9.9 1.0 ± 9.2        | (n=60) 27.4 ± 10.4 -2.1 ± 8.3       | (n=220) 23.1 ± 2.6 ± 7.6               | (n=101) 22.5 ± 0.1 ± 6.9               |
-|                                                                                                                           |                                     |                                     | 10.4                                   | 10.1                                   |
-|                                                                                                                           | 4.27 1 0.002 1                      | 4.27 1 0.002 1                      | 2.09 1 0.015 1                         | 2.09 1 0.015 1                         |
-|                                                                                                                           | with moderate                       | with moderate                       | Patients with mild dementia            | Patients with mild dementia            |
-|                                                                                                                           | Patients dementia (MMSE             | 10-17) (n=44)                       | (MMSE 18-24)                           |                                        |
-| ITT + RDO population                                                                                                      | (n=87)                              |                                     | (n=237)                                | (n=115)                                |
-| Mean baseline ± SD                                                                                                        | 32.6 ± 10.4                         | 33.7 ± 10.3                         | 20.6 ± 7.9                             | 20.7 ± 7.9                             |
-| Mean change at 24 weeks ± SD                                                                                              | 2.6 ± 9.4                           | -1.8 ± 7.2                          | 1.9 ± 7.7                              | -0.2 ± 7.5                             |
-| Adjusted treatment difference                                                                                             | 4.73 1                              | 4.73 1                              | 2.14 1                                 | 2.14 1                                 |
-| p-value versus placebo                                                                                                    | 0.002 1                             | 0.002 1                             | 0.010 1                                | 0.010 1                                |
+| Dementia associated with Parkinson's Disease                                                                              | ADAS-Cog Exelon                     | ADAS-Cog Placebo                    | ADAS-Cog Exelon                          | ADAS-Cog Placebo                         |
+|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------------------------------|------------------------------------------|------------------------------------------|
+|                                                                                                                           | Patients with visual hallucinations | Patients with visual hallucinations | Patients without visual hallucinations   | Patients without visual hallucinations   |
+| ITT + RDO population Mean baseline ± SD Mean change at 24 weeks ± SD Adjusted treatment difference p-value versus placebo | (n=107) 25.4 ± 9.9 1.0 ± 9.2        | (n=60) 27.4 ± 10.4 -2.1 ± 8.3       | (n=220) 23.1 ± 2.6 ± 7.6                 | (n=101) 22.5 ± 0.1 ± 6.9                 |
+|                                                                                                                           |                                     |                                     | 10.4                                     | 10.1                                     |
+|                                                                                                                           | 4.27 1 0.002 1                      | 4.27 1 0.002 1                      | 2.09 1 0.015 1                           | 2.09 1 0.015 1                           |
+|                                                                                                                           | with moderate (MMSE 10-17)          | with moderate (MMSE 10-17)          | Patients with mild dementia (MMSE 18-24) | Patients with mild dementia (MMSE 18-24) |
+|                                                                                                                           | Patients dementia                   | (n=44)                              | (n=237)                                  | (n=115)                                  |
+| ITT + RDO population Mean baseline ± SD Mean change at 24 weeks ± SD Adjusted treatment difference p-value versus placebo | (n=87) 32.6 ± 2.6 ± 9.4             | -1.8 ± 7.2                          | 1.9 ± 7.7                                |                                          |
+|                                                                                                                           | 10.4                                | 33.7 ± 10.3                         | 20.6 ± 7.9                               | 20.7 ± 7.9 -0.2 ± 7.5                    |
+|                                                                                                                           | 4.73 1 0.002 1                      | 4.73 1 0.002 1                      | 2.14 1 0.010 1                           | 2.14 1 0.010 1                           |
 
 ITT: Intent-To-Treat; RDO: Retrieved Drop Outs
 
@@ -1127,7 +1131,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-## Transdermal patch
+Transdermal patch
 
 ## Exelon 4.6 mg/24 h transdermal patch
 
@@ -1337,39 +1341,40 @@ Table 1 displays the adverse reactions reported in 1,670 patients with Alzheimer
 
 Table 1
 
-| Infections and infestations                          | Infections and infestations                                                                                                                                                                                                                                     |
-|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Common                                               | Urinary tract infection                                                                                                                                                                                                                                         |
-| Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                                                                                                                                                                                                                              |
-| Common                                               | Anorexia, decreased appetite                                                                                                                                                                                                                                    |
-| Uncommon                                             | Dehydration                                                                                                                                                                                                                                                     |
-| Psychiatric disorders                                | Psychiatric disorders                                                                                                                                                                                                                                           |
-| Common                                               | Anxiety, depression, delirium, agitation                                                                                                                                                                                                                        |
-| Uncommon                                             | Aggression                                                                                                                                                                                                                                                      |
-| Not known                                            | Hallucinations, restlessness, nightmares                                                                                                                                                                                                                        |
-| Nervous system disorders                             | Nervous system disorders                                                                                                                                                                                                                                        |
-| Common                                               | Headache, syncope, dizziness                                                                                                                                                                                                                                    |
-| Uncommon                                             | Psychomotor hyperactivity                                                                                                                                                                                                                                       |
-| Very rare                                            | Extrapyramidal symptoms                                                                                                                                                                                                                                         |
-| Not known                                            | Worsening of Parkinson's disease, seizure , tremor, somnolence, pleurothotonus (Pisa syndrome)                                                                                                                                                                  |
-| Cardiac disorders                                    | Cardiac disorders                                                                                                                                                                                                                                               |
-| Uncommon                                             | Bradycardia                                                                                                                                                                                                                                                     |
-| Not known                                            | Atrioventricular block, atrial fibrillation, tachycardia, sick sinus syndrome                                                                                                                                                                                   |
-| Vascular disorders                                   | Vascular disorders                                                                                                                                                                                                                                              |
-| Not known                                            | Hypertension                                                                                                                                                                                                                                                    |
-| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                                                                                                                                                      |
-| Common                                               | Nausea, vomiting, diarrhoea, dyspepsia, abdominal pain                                                                                                                                                                                                          |
-| Uncommon                                             | Gastric ulcer                                                                                                                                                                                                                                                   |
-| Not known                                            | Pancreatitis                                                                                                                                                                                                                                                    |
-| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                                                                                                                                                         |
-| Not known                                            | Hepatitis, elevated liver function tests                                                                                                                                                                                                                        |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                          |
-| Common                                               | Rash                                                                                                                                                                                                                                                            |
-| Not known                                            | Pruritus, erythema, urticaria, vesicles, allergic dermatitis (disseminated)                                                                                                                                                                                     |
-| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                                                                                                                                     |
-| Common                                               | Urinary incontinence                                                                                                                                                                                                                                            |
-| General disorders and administration site conditions | General disorders and administration site conditions                                                                                                                                                                                                            |
-| Common Rare                                          | Application site skin reactions (e.g. application site erythema*, application site pruritus*, application site oedema*, application site dermatitis, application site irritation), asthenic conditions (e.g. fatigue, asthenia), pyrexia, weight decreased Fall |
+| Infections and infestations                          | Infections and infestations                                                                                                                                                                                                                                |
+|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Common                                               | Urinary tract infection                                                                                                                                                                                                                                    |
+| Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                                                                                                                                                                                                                         |
+| Common                                               | Anorexia, decreased appetite                                                                                                                                                                                                                               |
+| Uncommon                                             | Dehydration                                                                                                                                                                                                                                                |
+| Psychiatric disorders                                | Psychiatric disorders                                                                                                                                                                                                                                      |
+| Common                                               | Anxiety, depression, delirium, agitation                                                                                                                                                                                                                   |
+| Uncommon                                             | Aggression                                                                                                                                                                                                                                                 |
+| Not known                                            | Hallucinations, restlessness, nightmares                                                                                                                                                                                                                   |
+| Nervous system disorders                             | Nervous system disorders                                                                                                                                                                                                                                   |
+| Common                                               | Headache, syncope, dizziness                                                                                                                                                                                                                               |
+| Uncommon                                             | Psychomotor hyperactivity                                                                                                                                                                                                                                  |
+| Very rare                                            | Extrapyramidal symptoms                                                                                                                                                                                                                                    |
+| Not known                                            | Worsening of Parkinson's disease, seizure , tremor, somnolence, pleurothotonus (Pisa syndrome)                                                                                                                                                             |
+| Cardiac disorders                                    | Cardiac disorders                                                                                                                                                                                                                                          |
+| Uncommon                                             | Bradycardia                                                                                                                                                                                                                                                |
+| Not known                                            | Atrioventricular block, atrial fibrillation, tachycardia, sick sinus syndrome                                                                                                                                                                              |
+| Vascular disorders                                   | Vascular disorders                                                                                                                                                                                                                                         |
+| Not known                                            | Hypertension                                                                                                                                                                                                                                               |
+| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                                                                                                                                                 |
+| Common                                               | Nausea, vomiting, diarrhoea, dyspepsia, abdominal pain                                                                                                                                                                                                     |
+| Uncommon                                             | Gastric ulcer                                                                                                                                                                                                                                              |
+| Not known                                            | Pancreatitis                                                                                                                                                                                                                                               |
+| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                                                                                                                                                    |
+| Not known                                            | Hepatitis, elevated liver function tests                                                                                                                                                                                                                   |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                     |
+| Common                                               | Rash                                                                                                                                                                                                                                                       |
+| Not known                                            | Pruritus, erythema, urticaria, vesicles, allergic dermatitis (disseminated)                                                                                                                                                                                |
+| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                                                                                                                                |
+| Common                                               | Urinary incontinence                                                                                                                                                                                                                                       |
+| General disorders and administration site conditions | General disorders and administration site conditions                                                                                                                                                                                                       |
+| Common                                               | Application site skin reactions (e.g. application site erythema*, application site pruritus*, application site oedema*, application site dermatitis, application site irritation), asthenic conditions (e.g. fatigue, asthenia), pyrexia, weight decreased |
+| Rare                                                 | Fall                                                                                                                                                                                                                                                       |
 
 ## Description of selected adverse reactions
 
@@ -1431,31 +1436,24 @@ Patients involved in the placebo-controlled study had an MMSE (Mini-Mental State
 
 Table 2
 
-| ITT-LOCF population         | Exelon transdermal patches 9.5 mg/24 h N = 251   | Exelon capsules 12 mg/day N = 256   | Placebo N = 282    |
-|-----------------------------|--------------------------------------------------|-------------------------------------|--------------------|
-| ADAS-Cog                    |                                                  |                                     |                    |
-| Mean baseline  SD          | (n=248) 27.0  10.3 -0.6  6.4                   | (n=253) 27.9  9.4 -0.6  6.2       | (n=281) 28.6  9.9 |
-| Mean change at week 24  SD |                                                  |                                     | 1.0  6.8          |
-| p-value versus placebo      | 0.005* 1                                         | 0.003* 1                            |                    |
-| ADCS-CGIC                   |                                                  |                                     |                    |
-|                             | (n=248)                                          | (n=253)                             | (n=278)            |
-| Mean score  SD             | 3.9  1.20                                       | 3.9  1.25                          | 4.2  1.26         |
-| p-value versus placebo      | 0.010* 2                                         | 0.009* 2                            |                    |
-| ADCS-ADL                    |                                                  |                                     |                    |
-|                             | (n=247)                                          | (n=254)                             | (n=281)            |
-| Mean baseline  SD          | 50.1  16.3                                      | 49.3  15.8                         | 49.2  16.0        |
-| Mean change at week 24  SD | -0.1  9.1                                       | -0.5  9.5                          | -2.3  9.4         |
-| p-value versus placebo      | 0.013* 1                                         | 0.039* 1                            |                    |
+| ITT-LOCF population                                                   | Exelon transdermal patches 9.5 mg/24 h N = 251   | Exelon capsules 12 mg/day N = 256      | Placebo N = 282              |
+|-----------------------------------------------------------------------|--------------------------------------------------|----------------------------------------|------------------------------|
+| ADAS-Cog                                                              |                                                  |                                        |                              |
+| Mean baseline  SD Mean change at week 24  SD p-value versus placebo | (n=248) 27.0  10.3 -0.6  6.4 0.005* 1          | (n=253) 27.9  9.4 -0.6  6.2 0.003* 1 | (n=281) 28.6  9.9 1.0  6.8 |
+| ADCS-CGIC                                                             |                                                  |                                        |                              |
+| Mean score  SD                                                       | (n=248) 3.9  1.20 2                             | (n=253) 3.9  1.25 0.009* 2            | (n=278) 4.2  1.26           |
+| p-value versus placebo ADCS-ADL                                       | 0.010* (n=247)                                   | (n=254)                                | (n=281) 49.2  16.0          |
+| Mean baseline  SD Mean change at week 24  SD p-value versus placebo | 50.1  16.3 -0.1  9.1 0.013* 1                  | 49.3  15.8 -0.5  9.5 0.039* 1        | -2.3  9.4                   |
 
 The results for clinically relevant responders from the 24-week placebo-controlled study are provided in Table 3. Clinically relevant improvement was defined a priori as at least 4-point improvement on the ADAS-Cog, no worsening on the ADCS-CGIC, and no worsening on the ADCS-ADL.
 
 Table 3
 
-|                                           | Patients with clinically significant response (%)   | Patients with clinically significant response (%)   | Patients with clinically significant response (%)   |
-|-------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-| ITT-LOCF population                       | Exelon transdermal patches 9.5 mg/24 h N = 251      | Exelon capsules 12 mg/day N = 256                   | Placebo N = 282                                     |
-| At least 4 points improvement on ADAS-Cog | 17.4                                                | 19.0                                                | 10.5                                                |
-| p-value versus placebo                    | 0.037*                                              | 0.004*                                              |                                                     |
+|                        | Patients with clinically significant response (%)   | Patients with clinically significant response (%)   | Patients with clinically significant response (%)   |
+|------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
+| ITT-LOCF population    | Exelon transdermal patches 9.5 mg/24 h N = 251      | Exelon capsules 12 mg/day N = 256                   | Placebo N = 282                                     |
+| At least 4 points      | 17.4                                                | 19.0                                                | 10.5                                                |
+| p-value versus placebo | 0.037*                                              | 0.004*                                              |                                                     |
 
 *p&lt;0.05 versus placebo
 
@@ -1471,17 +1469,17 @@ decline was assessed by the investigator and cognitive decline was defined as a 
 
 Table 4
 
-| Population/Visit   |                | Exelon 15 cm 2 N = 265   | Exelon 15 cm 2 N = 265   | Exelon 10 cm 2 N = 271   | Exelon 10 cm 2 N = 271   | Exelon 15 cm 2   | Exelon 15 cm 2   | Exelon 10 cm 2   |
-|--------------------|----------------|--------------------------|--------------------------|--------------------------|--------------------------|------------------|------------------|------------------|
-|                    |                | n                        | Mean                     | n                        | Mean                     | DLS M            | 95% CI           | p-value          |
-| ADAS-Cog           |                |                          |                          |                          |                          |                  |                  |                  |
-| LOCF               | Baseline       | 264                      | 34.4                     | 268                      | 34.9                     |                  |                  |                  |
-| DB-week 48         | Value          | 264                      | 38.5                     | 268                      | 39.7                     |                  |                  |                  |
-|                    | Change         | 264                      | 4.1                      | 268                      | 4.9                      | -0.8             | (-2.1, 0.5)      | 0.227            |
-| ADCS-IADL          |                |                          |                          |                          |                          |                  |                  |                  |
-| LOCF               | Baseline Value | 265                      | 27.5                     | 271                      | 25.8                     |                  |                  |                  |
-| Week 48            |                | 265                      | 23.1                     | 271                      | 19.6                     |                  |                  |                  |
-|                    | Change         | 265                      | -4.4                     | 271                      | -6.2                     | 2.2              | (0.8, 3.6)       | 0.002*           |
+| Population/Visit   |          | Exelon 15 cm 2 N = 265   | Exelon 15 cm 2 N = 265   | Exelon 10 cm 2 N = 271   | Exelon 10 cm 2 N = 271   | Exelon 15 cm 2   | Exelon 15 cm 2   | Exelon 10 cm 2   |
+|--------------------|----------|--------------------------|--------------------------|--------------------------|--------------------------|------------------|------------------|------------------|
+|                    |          | n                        | Mean                     | n                        | Mean                     | DLS M            | 95% CI           | p-value          |
+| ADAS-Cog           |          |                          |                          |                          |                          |                  |                  |                  |
+| LOCF               | Baseline | 264                      | 34.4                     | 268                      | 34.9                     |                  |                  |                  |
+| DB-week 48         | Value    | 264                      | 38.5                     | 268                      | 39.7                     |                  |                  |                  |
+|                    | Change   | 264                      | 4.1                      | 268                      | 4.9                      | -0.8             | (-2.1, 0.5)      | 0.227            |
+| ADCS-IADL          |          |                          |                          |                          |                          |                  |                  |                  |
+| LOCF               | Baseline | 265                      | 27.5                     | 271                      | 25.8                     |                  |                  |                  |
+| Week 48            | Value    | 265                      | 23.1                     | 271                      | 19.6                     |                  |                  |                  |
+|                    | Change   | 265                      | -4.4                     | 271                      | -6.2                     | 2.2              | (0.8, 3.6)       | 0.002*           |
 
 CI -confidence interval.
 
@@ -1655,15 +1653,11 @@ EU/1/98/066/047-048
 
 ## Exelon 9.5 mg/24 h transdermal patch
 
-EU/1/98/066/023-026
-
-EU/1/98/066/033-034
-
-EU/1/98/066/039-042
+EU/1/98/066/023-026 EU/1/98/066/033-034 EU/1/98/066/039-042
 
 EU/1/98/066/049-050
 
-## Exelon 13.3 mg/24 h transdermal patch
+Exelon 13.3 mg/24 h transdermal patch
 
 EU/1/98/066/027-030
 
@@ -1785,7 +1779,7 @@ rivastigmine
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-28 hard capsules
+- 28 hard capsules
 
 56 hard capsules
 
@@ -1863,17 +1857,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTERS                                             |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Exelon 1.5 mg hard capsules rivastigmine
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Novartis Europharm Limited
 
@@ -1988,17 +1982,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-BLISTERS
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Exelon 3.0 mg hard capsules rivastigmine
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Novartis Europharm Limited
 
@@ -2113,17 +2107,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTERS                                             |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Exelon 4.5 mg hard capsules rivastigmine
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Novartis Europharm Limited
 
@@ -2196,7 +2190,15 @@ Do not store above 30  C.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited
+
+Vista Building
+
+Elm Park, Merrion Road
+
+Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2238,17 +2240,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTERS                                             |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Exelon 6.0 mg hard capsules rivastigmine
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Novartis Europharm Limited
 
@@ -2444,7 +2446,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2456,8 +2458,8 @@ Exelon 4.6 mg/24 h
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -2509,24 +2511,17 @@ Keep the patch in the sachet until use.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited
+
+Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/98/066/021 60 transdermal patches (sachet: paper/PET/alu/PAN)
-
-EU/1/98/066/022 90 transdermal patches (sachet: paper/PET/alu/PAN)
-
-EU/1/98/066/032 84 transdermal patches (sachet: paper/PET/alu/PAN)
-
-EU/1/98/066/037 60 transdermal patches (sachet: paper/PET/PE/alu/PA)
-
-EU/1/98/066/038 90 transdermal patches (sachet: paper/PET/PE/alu/PA)
+EU/1/98/066/021 60 transdermal patches (sachet: paper/PET/alu/PAN) EU/1/98/066/022 90 transdermal patches (sachet: paper/PET/alu/PAN) EU/1/98/066/032 84 transdermal patches (sachet: paper/PET/alu/PAN) EU/1/98/066/037 60 transdermal patches (sachet: paper/PET/PE/alu/PA) EU/1/98/066/038 90 transdermal patches (sachet: paper/PET/PE/alu/PA)
 
 EU/1/98/066/048 84 transdermal patches (sachet: paper/PET/PE/alu/PA)
 
@@ -2537,14 +2532,14 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 Exelon 4.6 mg/24 h
 
-17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2592,9 +2587,11 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 25°C. Keep the patch in the sachet until use.
+Do not store above 25°C.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+Keep the patch in the sachet until use.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2606,7 +2603,15 @@ Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/98/066/021 60 transdermal patches (sachet: paper/PET/alu/PAN) EU/1/98/066/022 90 transdermal patches (sachet: paper/PET/alu/PAN) EU/1/98/066/032 84 transdermal patches (sachet: paper/PET/alu/PAN) EU/1/98/066/037 60 transdermal patches (sachet: paper/PET/PE/alu/PA) EU/1/98/066/038 90 transdermal patches (sachet: paper/PET/PE/alu/PA)
+EU/1/98/066/021 60 transdermal patches (sachet: paper/PET/alu/PAN)
+
+EU/1/98/066/022 90 transdermal patches (sachet: paper/PET/alu/PAN)
+
+EU/1/98/066/032 84 transdermal patches (sachet: paper/PET/alu/PAN)
+
+EU/1/98/066/037 60 transdermal patches (sachet: paper/PET/PE/alu/PA)
+
+EU/1/98/066/038 90 transdermal patches (sachet: paper/PET/PE/alu/PA)
 
 EU/1/98/066/048 84 transdermal patches (sachet: paper/PET/PE/alu/PA)
 
@@ -2616,7 +2621,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2628,8 +2633,8 @@ Exelon 4.6 mg/24 h
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -2716,7 +2721,15 @@ Keep the patch in the sachet until use.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited
+
+Vista Building
+
+Elm Park, Merrion Road
+
+Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2734,7 +2747,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2746,8 +2759,8 @@ Exelon 9.5 mg/24 h
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -2803,7 +2816,9 @@ Keep the patch in the sachet until use.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited
+
+Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2823,13 +2838,15 @@ EU/1/98/066/050 84 transdermal patches (sachet: paper/PET/PE/alu/PA)
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 Exelon 9.5 mg/24 h
 
-17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -2879,7 +2896,9 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 25°C. Keep the patch in the sachet until use.
+Do not store above 25°C.
+
+Keep the patch in the sachet until use.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2887,7 +2906,11 @@ Do not store above 25°C. Keep the patch in the sachet until use.
 
 Novartis Europharm Limited
 
-Vista Building Elm Park, Merrion Road Dublin 4
+Vista Building
+
+Elm Park, Merrion Road
+
+Dublin 4
 
 Ireland
 
@@ -2911,7 +2934,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2923,8 +2946,8 @@ Exelon 9.5 mg/24 h
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -3120,13 +3143,14 @@ EU/1/98/066/046 90 transdermal patches (sachet: paper/PET/PE/alu/PA)
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
 
 Exelon 13.3 mg/24 h
 
-17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -3134,7 +3158,7 @@ Exelon 13.3 mg/24 h
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON OF MULTIPACK (WITH BLUE BOX)
+## OUTER CARTON OF MULTIPACK (WITH BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3549,7 +3573,9 @@ Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+## België/Belgique/Belgien
+
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## Lietuva
 
@@ -3565,59 +3591,105 @@ Novartis Bulgaria EOOD
 
 ## Luxembourg/Luxemburg
 
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
-
-<div style=\"page-break-after: always\"></div>
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## Česká republika
 
-Novartis s.r.o. Tel: +420 225 775 111
+Novartis s.r.o.
+
+Tel: +420 225 775 111
+
+## Magyarország
+
+Novartis Hungária Kft. Tel.: +36 1 457 65 00
 
 ## Danmark
 
 Novartis Healthcare A/S Tlf: +45 39 16 84 00
 
+## Malta
+
+Novartis Pharma Services Inc. Tel: +356 2122 2872
+
 ## Deutschland
 
 Novartis Pharma GmbH Tel: +49 911 273 0
+
+## Nederland
+
+Novartis Pharma B.V. Tel: +31 88 04 52 111
 
 ## Eesti
 
 SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
 
+## Norge
+
+Novartis Norge AS Tlf: +47 23 05 20 00
+
 ## Ελλάδα
 
 Novartis (Hellas) A.E.B.E. Τηλ : +30 210 281 17 12
+
+## Österreich
+
+Novartis Pharma GmbH Tel: +43 1 86 6570
 
 ## España
 
 Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
 
+## Polska
+
+Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
+
 ## France
 
 Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
+
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
 
 ## Hrvatska
 
 Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
 
+## România
+
+Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
+
 ## Ireland
 
 Novartis Ireland Limited Tel: +353 1 260 12 55
+
+## Slovenija
+
+Novartis Pharma Services Inc. Tel: +386 1 300 75 50
 
 ## Ísland
 
 Vistor hf. Sími: +354 535 7000
 
+## Slovenská republika
+
+Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
+
 ## Italia
 
 Novartis Farma S.p.A. Tel: +39 02 96 54 1
 
+## Suomi/Finland
+
+Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
+
 ## Κύπρος
 
 Novartis Pharma Services Inc. Τηλ: +357 22 690 690
+
+## Sverige
+
+Novartis Sverige AB Tel: +46 8 732 32 00
 
 ## Latvija
 
@@ -3625,55 +3697,9 @@ SIA Novartis Baltics
 
 Tel: +371 67 887 070
 
+<div style=\"page-break-after: always\"></div>
+
 ## This leaflet was last revised in
-
-## Magyarország
-
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
-
-## Malta
-
-Novartis Pharma Services Inc. Tel: +356 2122 2872
-
-## Nederland
-
-Novartis Pharma B.V. Tel: +31 88 04 52 111
-
-## Norge
-
-Novartis Norge AS Tlf: +47 23 05 20 00
-
-## Österreich
-
-Novartis Pharma GmbH Tel: +43 1 86 6570
-
-## Polska
-
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
-
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
-
-## România
-
-Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
-
-## Slovenija
-
-Novartis Pharma Services Inc. Tel: +386 1 300 75 50
-
-## Slovenská republika
-
-Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
-
-## Suomi/Finland
-
-Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
-
-## Sverige
-
-Novartis Sverige AB Tel: +46 8 732 32 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3720,13 +3746,16 @@ Exelon is used for the treatment of adult patients with mild to moderately sever
 
 If this applies to you, tell your doctor and do not take Exelon.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Warnings and precautions
 
 Talk to your doctor before taking Exelon:
 
-- -if you have, or have ever had, a heart condition such as an irregular or slow heartbeat, QTc prolongation, a family history of QTc prolongation, torsade de pointes, or have a low blood level of potassium or magnesium.
+- -if you have, or have ever had, a heart condition such as an irregular or slow heartbeat, QTc prolongation, a family history of QTc prolongation, torsade de pointes, or have a low blood level
+
+<div style=\"page-break-after: always\"></div>
+
+of potassium or magnesium.
+
 - -if you have, or have ever had, an active stomach ulcer.
 - -if you have, or have ever had, difficulties in passing urine.
 - -if you have, or have ever had, seizures.
@@ -3767,11 +3796,11 @@ If you are pregnant, the benefits of using Exelon must be assessed against the p
 
 You should not breast-feed during treatment with Exelon.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Driving and using machines
 
 Your doctor will tell you whether your illness allows you to drive vehicles and use machines safely. Exelon may cause dizziness and somnolence, mainly at the start of treatment or when increasing the dose. If you feel dizzy or sleepy, do not drive, use machines or perform any tasks that require your attention.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Exelon contains sodium benzoate (E211) and sodium
 
@@ -3805,9 +3834,13 @@ If you have not taken Exelon for more than three days, do not take the next dose
 
 <!-- image -->
 
+<!-- image -->
+
 1. Preparing the bottle and syringe
 - Take the syringe out of its protective case.
 - Push down and turn the child resistant cap to open bottle.
+2. Attaching the syringe to the bottle
+- Push the nozzle of the syringe into the hole in the white stopper.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3817,12 +3850,6 @@ If you have not taken Exelon for more than three days, do not take the next dose
 
 <!-- image -->
 
-<!-- image -->
-
-<!-- image -->
-
-2. Attaching the syringe to the bottle
-- Push the nozzle of the syringe into the hole in the white stopper.
 3. Filling the syringe
 - Pull the plunger upwards until it reaches the right mark for the dose that your doctor has prescribed.
 4. Removing bubbles
@@ -3833,12 +3860,8 @@ If you have not taken Exelon for more than three days, do not take the next dose
 5. Taking your medicine
 - Swallow your medicine straight from the syringe.
 - You can also mix your medicine with water in a small glass. Stir and drink all of the mixture.
-6. After using the syringe
-- Wipe the outside of the syringe with a clean tissue.
-- Then, put the syringe back in its protective case.
-- Put the child resistant cap back on the bottle to close it.
 
-<div style=\"page-break-after: always\"></div>
+<!-- image -->
 
 ## If you take more Exelon than you should
 
@@ -3849,6 +3872,13 @@ If you accidentally take more Exelon than you should, inform your doctor. You ma
 If you find you have forgotten to take your dose of Exelon, wait and take the next dose at the usual time. Do not take a double dose to make up for a forgotten dose.
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
+
+6. After using the syringe
+- Wipe the outside of the syringe with a clean tissue.
+- Then, put the syringe back in its protective case.
+- Put the child resistant cap back on the bottle to close it.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
 
@@ -3892,8 +3922,6 @@ You may have side effects more often when you start your medicine or when your d
 - Fits (seizures)
 - Ulcers in your stomach or intestine
 
-<div style=\"page-break-after: always\"></div>
-
 ## Very rare (may affect up to 1 in 10,000 people)
 
 - High blood pressure
@@ -3908,7 +3936,12 @@ You may have side effects more often when you start your medicine or when your d
 
 - Being violently sick (vomiting) that can cause tearing of the tube that connects your mouth with your stomach (oesophagus)
 - Dehydration (losing too much fluid)
-- Liver disorders (yellow skin, yellowing of the whites of the eyes, abnormal darkening of the urine or unexplained nausea, vomiting, tiredness and loss of appetite)
+- Liver disorders (yellow skin, yellowing of the whites of the eyes, abnormal darkening of the
+
+<div style=\"page-break-after: always\"></div>
+
+urine or unexplained nausea, vomiting, tiredness and loss of appetite)
+
 - Aggression, feeling restless
 - Uneven heartbeat
 - Pisa syndrome (a condition involving involuntary muscle contraction with abnormal bending of the body and head to one side)
@@ -3945,8 +3978,6 @@ These patients have some side effects more often. They also have some additional
 - Pisa syndrome (a condition involving involuntary muscle contraction with abnormal bending of the body and head to one side)
 - Skin rash
 
-<div style=\"page-break-after: always\"></div>
-
 ## Other side effects seen with Exelon transdermal patches and which may occur with the oral solution:
 
 ## Common (may affect up to 1 in 10 people)
@@ -3955,17 +3986,21 @@ These patients have some side effects more often. They also have some additional
 - Severe confusion
 - Urinary incontinence (inability to retain adequate urine)
 
-Uncommon (may affect up to 1 in 100 people)
+## Uncommon (may affect up to 1 in 100 people)
 
 - Hyperactivity (high level of activity, restlessness)
 
-Not known (frequency cannot be estimated from the available data)
+## Not known (frequency cannot be estimated from the available data)
 
-- Allergic reaction where the patch was used, such as blisters or skin inflammation If you get any of these side effects, contact your doctor as you may need medical assistance.
+- Allergic reaction where the patch was used, such as blisters or skin inflammation
+
+If you get any of these side effects, contact your doctor as you may need medical assistance.
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Exelon
 
@@ -3991,8 +4026,6 @@ Exelon oral solution is supplied as 50 ml or 120 ml of a clear, yellow solution 
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
-<div style=\"page-break-after: always\"></div>
-
 ## Manufacturer
 
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
@@ -4003,11 +4036,11 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-## Lietuva
-
 Novartis Pharma N.V.
 
 Tél/Tel: +32 2 246 16 11
+
+## Lietuva
 
 SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
@@ -4033,9 +4066,7 @@ Tel: +420 225 775 111
 
 ## Magyarország
 
-Novartis Hungária Kft.
-
-Tel.: +36 1 457 65 00
+Novartis Hungária Kft. Tel.: +36 1 457 65 00
 
 ## Danmark
 
@@ -4047,59 +4078,39 @@ Novartis Pharma Services Inc. Tel: +356 2122 2872
 
 ## Deutschland
 
-Novartis Pharma GmbH
-
-Tel: +49 911 273 0
+Novartis Pharma GmbH Tel: +49 911 273 0
 
 ## Nederland
 
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
+Novartis Pharma B.V. Tel: +31 88 04 52 111
 
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal
-
-Tel: +372 66 30 810
+SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
 
 ## Norge
 
-Novartis Norge AS
-
-Tlf: +47 23 05 20 00
+Novartis Norge AS Tlf: +47 23 05 20 00
 
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E.
-
-Τηλ
-
-: +30 210 281 17 12
+Novartis (Hellas) A.E.B.E. Τηλ : +30 210 281 17 12
 
 ## Österreich
 
-Novartis Pharma GmbH
-
-Tel: +43 1 86 6570
+Novartis Pharma GmbH Tel: +43 1 86 6570
 
 ## España
 
-Novartis Farmacéutica, S.A.
-
-Tel: +34 93 306 42 00
+Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
 
 ## Polska
 
-Novartis Poland Sp. z o.o.
-
-Tel.: +48 22 375 4888
+Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
 
 ## France
 
-Novartis Pharma S.A.S.
-
-Tél: +33 1 55 47 66 00
+Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
 
 ## Portugal
 
@@ -4111,69 +4122,51 @@ Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
 
 ## România
 
-Novartis Pharma Services Romania SRL
-
-Tel: +40 21 31299 01
+Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
 
 ## Ireland
 
-Novartis Ireland Limited
-
-Tel: +353 1 260 12 55
+Novartis Ireland Limited Tel: +353 1 260 12 55
 
 ## Slovenija
 
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
+Novartis Pharma Services Inc. Tel: +386 1 300 75 50
 
 ## Ísland
 
-Vistor hf.
-
-Sími: +354 535 7000
+Vistor hf. Sími: +354 535 7000
 
 ## Slovenská republika
 
-Novartis Slovakia s.r.o.
-
-Tel: +421 2 5542 5439
+Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
 
 ## Italia
 
-Novartis Farma S.p.A.
-
-Tel: +39 02 96 54 1
+Novartis Farma S.p.A. Tel: +39 02 96 54 1
 
 ## Suomi/Finland
 
-Novartis Finland Oy
-
-Puh/Tel: +358 (0)10 6133 200
+Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
 
 ## Κύπρος
 
-Novartis Pharma Services Inc.
-
-Τηλ: +357 22 690 690
+Novartis Pharma Services Inc. Τηλ: +357 22 690 690
 
 ## Sverige
 
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00
+Novartis Sverige AB Tel: +46 8 732 32 00
 
 ## Latvija
 
 SIA Novartis Baltics
 
-<div style=\"page-break-after: always\"></div>
-
-SIA Novartis Baltics
-
 Tel: +371 67 887 070
 
+<div style=\"page-break-after: always\"></div>
+
 ## This leaflet was last revised in
+
+<div style=\"page-break-after: always\"></div>
 
 ## Other sources of information
 
@@ -4336,10 +4329,10 @@ Carefully remove the existing patch before putting on a new one.
 
 For patients starting treatment for the first time and for patients restarting Exelon after treatment interruption, please begin with the second picture.
 
-- -Each patch is sealed in its own protective sachet.
-- You should only open the sachet when you are ready to apply the patch.
-
-Cut the sachet along the dotted line with scissors and remove the patch from the sachet.
+- -
+- Each patch is sealed in its own protective sachet. You should only open the sachet when you are ready to
+- apply the patch.
+- Cut the sachet along the dotted line with scissors and remove the patch from the sachet.
 
 <!-- image -->
 
@@ -4381,11 +4374,13 @@ If a patch falls off, apply a new one for the rest of the day, then replace it a
 - To benefit from treatment, you must apply a new patch every day, preferably at the same time of day.
 - Only wear one Exelon patch at a time and replace the patch with a new one after 24 hours.
 
-<div style=\"page-break-after: always\"></div>
-
 ## If you use more Exelon than you should
 
-If you accidentally apply more than one patch, remove all the patches from your skin, then inform your doctor that you have accidentally applied more than one patch. You may require medical attention. Some people who have accidentally taken too much Exelon have experienced feeling sick (nausea), being sick (vomiting), diarrhoea, high blood pressure and hallucinations. Slow heartbeat and fainting may also occur.
+If you accidentally apply more than one patch, remove all the patches from your skin, then inform your doctor that you have accidentally applied more than one patch. You may require medical attention. Some people who have accidentally taken too much Exelon have experienced feeling sick (nausea), being sick (vomiting), diarrhoea, high blood pressure and hallucinations. Slow heartbeat and
+
+<div style=\"page-break-after: always\"></div>
+
+fainting may also occur.
 
 ## If you forget to use Exelon
 
@@ -4434,17 +4429,17 @@ Common (may affect up to 1 in 10 people)
 - Hyperactivity (high level of activity, restlessness)
 - Aggression
 
-<div style=\"page-break-after: always\"></div>
-
-## Rare (may affect up to 1 in 1,000 people)
+Rare (may affect up to 1 in 1,000 people)
 
 - Falling
 
-## Very rare (may affect up to 1 in 10,000 people)
+Very rare (may affect up to 1 in 10,000 people)
 
 - Stiff arms or legs and trembling hands
 
-## Not known (frequency cannot be estimated from the available data)
+<div style=\"page-break-after: always\"></div>
+
+Not known (frequency cannot be estimated from the available data)
 
 - The signs of Parkinson's disease get worse such as tremor, stiffness and shuffling
 - Inflammation of the pancreas -signs include serious upper stomach pain, often with feeling sick (nausea) or being sick (vomiting)
@@ -4487,15 +4482,15 @@ Take off your patch and tell your doctor straight away, if you notice any of the
 - Ulcer in the intestine
 - Chest pain -this may be caused by heart spasm
 
-<div style=\"page-break-after: always\"></div>
-
-Very rare (may affect up to 1 in 10,000 people)
+## Very rare (may affect up to 1 in 10,000 people)
 
 - High blood pressure
 - Inflammation of the pancreas -the signs include serious upper stomach pain, often with feeling sick (nausea) or being sick (vomiting)
 - Bleeding in the gut -shows as blood in stools or when being sick
 - Seeing things that are not there (hallucinations)
 - Some people who have been violently sick have had tearing of the tube that connects your mouth with your stomach (oesophagus)
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -4530,9 +4525,13 @@ Each transdermal patch is a thin patch consisting of three layers. The outer lay
 
 One transdermal patch is sealed in one sachet.
 
-<div style=\"page-break-after: always\"></div>
+Exelon 4.6 mg/24 h transdermal patches and Exelon 9.5 mg/24 h transdermal patches are available in packs containing 7, 30 or 42 sachets and in multipacks containing 60, 84 or 90 sachets.
 
-Exelon 4.6 mg/24 h transdermal patches and Exelon 9.5 mg/24 h transdermal patches are available in packs containing 7, 30 or 42 sachets and in multipacks containing 60, 84 or 90 sachets. Exelon 13.3 mg/24 h transdermal patches are available in packs containing 7 or 30 sachets and in multipacks containing 60 or 90 sachets. Not all pack sizes may be marketed in your country.
+Exelon 13.3 mg/24 h transdermal patches are available in packs containing 7 or 30 sachets and in multipacks containing 60 or 90 sachets.
+
+Not all pack sizes may be marketed in your country.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 
@@ -4548,27 +4547,11 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
-
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## България
 
-Novartis Bulgaria EOOD
-
-Тел:
-
-+359 2 489 98 28
-
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
+Novartis Bulgaria EOOD Тел: +359 2 489 98 28
 
 ## Česká republika
 
@@ -4576,23 +4559,11 @@ Novartis s.r.o.
 
 Tel: +420 225 775 111
 
-## Magyarország
-
-Novartis Hungária Kft.
-
-Tel.: +36 1 457 65 00
-
 ## Danmark
 
 Novartis Healthcare A/S
 
 Tlf: +45 39 16 84 00
-
-## Malta
-
-Novartis Pharma Services Inc.
-
-Tel: +356 2122 2872
 
 ## Deutschland
 
@@ -4600,17 +4571,55 @@ Novartis Pharma GmbH
 
 Tel: +49 911 273 0
 
-## Nederland
-
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
-
 ## Eesti
 
 SIA Novartis Baltics Eesti filiaal
 
 Tel: +372 66 30 810
+
+## Ελλάδα
+
+Novartis (Hellas) A.E.B.E. Τηλ : +30 210 281 17 12
+
+## España
+
+Novartis Farmacéutica, S.A.
+
+Tel: +34 93 306 42 00
+
+## France
+
+Novartis Pharma S.A.S.
+
+Tél: +33 1 55 47 66 00
+
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
+
+## Magyarország
+
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
+
+## Malta
+
+Novartis Pharma Services Inc.
+
+Tel: +356 2122 2872
+
+## Nederland
+
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
 
 ## Norge
 
@@ -4618,39 +4627,17 @@ Novartis Norge AS
 
 Tlf: +47 23 05 20 00
 
-## Ελλάδα
-
-Novartis (Hellas) A.E.B.E.
-
-Τηλ
-
-: +30 210 281 17 12
-
 ## Österreich
 
 Novartis Pharma GmbH
 
 Tel: +43 1 86 6570
 
-<div style=\"page-break-after: always\"></div>
-
-## España
-
 ## Polska
-
-Novartis Farmacéutica, S.A.
-
-Tel: +34 93 306 42 00
 
 Novartis Poland Sp. z o.o.
 
 Tel.: +48 22 375 4888
-
-## France
-
-Novartis Pharma S.A.S.
-
-Tél: +33 1 55 47 66 00
 
 ## Portugal
 
@@ -4723,6 +4710,8 @@ Tel: +46 8 732 32 00
 SIA Novartis Baltics
 
 Tel: +371 67 887 070
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 

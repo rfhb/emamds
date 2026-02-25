@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-01-23 09:55:00
+document_datetime: 2026-02-23 17:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/inluriyo.html
 document_name: inluriyo.html
 version: success
-processing_time: 0.1124673
-conversion_datetime: 2026-01-29 11:39:34.946477
+processing_time: 0.0951969
+conversion_datetime: 2026-02-25 11:33:55.097626
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
   docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Inluriyo
 
 [RSS](/en/individual-human-medicine.xml/270395)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -111,7 +111,7 @@ English (EN) (123.65 KB - PDF)
 
 [View](/en/documents/overview/inluriyo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-960)
+[Other languages (22)](#file-language-dropdown-570)
 
 български (BG) (145.87 KB - PDF)
 
@@ -301,205 +301,305 @@ English (EN) (791.55 KB - PDF)
 
 Inluriyo : EPAR - Product information
 
-English (EN) (563.99 KB - PDF)
+English (EN) (544.74 KB - PDF)
 
 **First published:** 23/01/2026
 
+**Last updated:** 23/02/2026
+
 [View](/en/documents/product-information/inluriyo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-308)
+[Other languages (24)](#file-language-dropdown-193)
 
-български (BG) (687 KB - PDF)
+български (BG) (675.93 KB - PDF)
 
 **First published:**
 
 23/01/2026
+
+**Last updated:**
+
+23/02/2026
 
 [View](/bg/documents/product-information/inluriyo-epar-product-information_bg.pdf)
 
-español (ES) (573.85 KB - PDF)
+español (ES) (559.52 KB - PDF)
 
 **First published:**
 
 23/01/2026
+
+**Last updated:**
+
+23/02/2026
 
 [View](/es/documents/product-information/inluriyo-epar-product-information_es.pdf)
 
-čeština (CS) (660.03 KB - PDF)
+čeština (CS) (643.54 KB - PDF)
 
 **First published:**
 
 23/01/2026
+
+**Last updated:**
+
+23/02/2026
 
 [View](/cs/documents/product-information/inluriyo-epar-product-information_cs.pdf)
 
-dansk (DA) (455.13 KB - PDF)
+dansk (DA) (423.73 KB - PDF)
 
 **First published:**
 
 23/01/2026
+
+**Last updated:**
+
+23/02/2026
 
 [View](/da/documents/product-information/inluriyo-epar-product-information_da.pdf)
 
-Deutsch (DE) (653.6 KB - PDF)
+Deutsch (DE) (657.75 KB - PDF)
 
 **First published:**
 
 23/01/2026
+
+**Last updated:**
+
+23/02/2026
 
 [View](/de/documents/product-information/inluriyo-epar-product-information_de.pdf)
 
-eesti keel (ET) (510.06 KB - PDF)
+eesti keel (ET) (492.26 KB - PDF)
 
 **First published:**
 
 23/01/2026
+
+**Last updated:**
+
+23/02/2026
 
 [View](/et/documents/product-information/inluriyo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (656.27 KB - PDF)
+ελληνικά (EL) (638.45 KB - PDF)
 
 **First published:**
 
 23/01/2026
+
+**Last updated:**
+
+23/02/2026
 
 [View](/el/documents/product-information/inluriyo-epar-product-information_el.pdf)
 
-français (FR) (507.61 KB - PDF)
+français (FR) (498.29 KB - PDF)
 
 **First published:**
 
 23/01/2026
+
+**Last updated:**
+
+23/02/2026
 
 [View](/fr/documents/product-information/inluriyo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (691.63 KB - PDF)
+hrvatski (HR) (663.96 KB - PDF)
 
 **First published:**
 
 23/01/2026
+
+**Last updated:**
+
+23/02/2026
 
 [View](/hr/documents/product-information/inluriyo-epar-product-information_hr.pdf)
 
-íslenska (IS) (493.57 KB - PDF)
+íslenska (IS) (455.06 KB - PDF)
 
 **First published:**
 
 23/01/2026
+
+**Last updated:**
+
+23/02/2026
 
 [View](/is/documents/product-information/inluriyo-epar-product-information_is.pdf)
 
-italiano (IT) (673.98 KB - PDF)
+italiano (IT) (529.86 KB - PDF)
 
 **First published:**
 
 23/01/2026
+
+**Last updated:**
+
+23/02/2026
 
 [View](/it/documents/product-information/inluriyo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (501.39 KB - PDF)
+latviešu valoda (LV) (491.64 KB - PDF)
 
 **First published:**
 
 23/01/2026
+
+**Last updated:**
+
+23/02/2026
 
 [View](/lv/documents/product-information/inluriyo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (744.63 KB - PDF)
+lietuvių kalba (LT) (739.91 KB - PDF)
 
 **First published:**
 
 23/01/2026
+
+**Last updated:**
+
+23/02/2026
 
 [View](/lt/documents/product-information/inluriyo-epar-product-information_lt.pdf)
 
-magyar (HU) (495.32 KB - PDF)
+magyar (HU) (482.13 KB - PDF)
 
 **First published:**
 
 23/01/2026
+
+**Last updated:**
+
+23/02/2026
 
 [View](/hu/documents/product-information/inluriyo-epar-product-information_hu.pdf)
 
-Malti (MT) (555.14 KB - PDF)
+Malti (MT) (547.15 KB - PDF)
 
 **First published:**
 
 23/01/2026
+
+**Last updated:**
+
+23/02/2026
 
 [View](/mt/documents/product-information/inluriyo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (556.25 KB - PDF)
+Nederlands (NL) (544.37 KB - PDF)
 
 **First published:**
 
 23/01/2026
+
+**Last updated:**
+
+23/02/2026
 
 [View](/nl/documents/product-information/inluriyo-epar-product-information_nl.pdf)
 
-norsk (NO) (556.3 KB - PDF)
+norsk (NO) (553.64 KB - PDF)
 
 **First published:**
 
 23/01/2026
+
+**Last updated:**
+
+23/02/2026
 
 [View](/no/documents/product-information/inluriyo-epar-product-information_no.pdf)
 
-polski (PL) (523.85 KB - PDF)
+polski (PL) (504.26 KB - PDF)
 
 **First published:**
 
 23/01/2026
+
+**Last updated:**
+
+23/02/2026
 
 [View](/pl/documents/product-information/inluriyo-epar-product-information_pl.pdf)
 
-português (PT) (548.79 KB - PDF)
+português (PT) (543.17 KB - PDF)
 
 **First published:**
 
 23/01/2026
+
+**Last updated:**
+
+23/02/2026
 
 [View](/pt/documents/product-information/inluriyo-epar-product-information_pt.pdf)
 
-română (RO) (519.7 KB - PDF)
+română (RO) (457.75 KB - PDF)
 
 **First published:**
 
 23/01/2026
+
+**Last updated:**
+
+23/02/2026
 
 [View](/ro/documents/product-information/inluriyo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (557.48 KB - PDF)
+slovenčina (SK) (540.95 KB - PDF)
 
 **First published:**
 
 23/01/2026
+
+**Last updated:**
+
+23/02/2026
 
 [View](/sk/documents/product-information/inluriyo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (538.21 KB - PDF)
+slovenščina (SL) (507.88 KB - PDF)
 
 **First published:**
 
 23/01/2026
+
+**Last updated:**
+
+23/02/2026
 
 [View](/sl/documents/product-information/inluriyo-epar-product-information_sl.pdf)
 
-Suomi (FI) (624.93 KB - PDF)
+Suomi (FI) (611.52 KB - PDF)
 
 **First published:**
 
 23/01/2026
+
+**Last updated:**
+
+23/02/2026
 
 [View](/fi/documents/product-information/inluriyo-epar-product-information_fi.pdf)
 
-svenska (SV) (485.24 KB - PDF)
+svenska (SV) (484.07 KB - PDF)
 
 **First published:**
 
 23/01/2026
 
+**Last updated:**
+
+23/02/2026
+
 [View](/sv/documents/product-information/inluriyo-epar-product-information_sv.pdf)
+
+**Latest procedure affecting product information:** VR/0000333242 20/02/2026
 
 icon globe
 
@@ -523,7 +623,7 @@ English (EN) (74.94 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/inluriyo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-750)
+[Other languages (24)](#file-language-dropdown-609)
 
 български (BG) (83.07 KB - PDF)
 
@@ -741,11 +841,25 @@ Marketing authorisation holder
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83
+Orteliuslaan 1000 3528 BD Utrecht Netherlands
 
-Opinion adopted 13/11/2025 Marketing authorisation issued 09/01/2026
+Opinion adopted 13/11/2025 Marketing authorisation issued 09/01/2026 Revision 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Inluriyo : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (142.55 KB - PDF)
+
+**First published:** 23/02/2026
+
+[View](/en/documents/procedural-steps-after/inluriyo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -773,11 +887,11 @@ English (EN) (146.67 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-inluriyo_en.pdf)
 
-#### News on Inluriyo
+## News on Inluriyo
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 November 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-november-2025) 14/11/2025
 
-**This page was last updated on** 23/01/2026
+**This page was last updated on** 23/02/2026
 
 ## Share this page
 

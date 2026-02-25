@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-20 16:22:47
+document_datetime: 2026-02-24 13:00:35
 document_pages: 108
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/spikevax-epar-product-information_en.pdf
 document_name: spikevax-epar-product-information_en.pdf
 version: success
-processing_time: 38.1172788
-conversion_datetime: 2026-01-20 20:16:14.35154
+processing_time: 32.7431722
+conversion_datetime: 2026-02-25 11:41:46.992379
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -50,7 +50,9 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Dispersion for injection White to off white dispersion (pH: 7.0 - 8.0).
+## Dispersion for injection
+
+White to off white dispersion (pH: 7.0 - 8.0).
 
 ## 4. CLINICAL PARTICULARS
 
@@ -177,9 +179,9 @@ Different injectable vaccines should be given at different injection sites.
 
 ## Pregnancy
 
-No data are available yet regarding the use of SARS-CoV-2 JN.1 mRNA during pregnancy.
+A large amount of observational data from pregnant women vaccinated with Spikevax has not shown an increase in adverse pregnancy outcomes.
 
-However, a large amount of observational data from pregnant women vaccinated with Spikevax (original) during the second and third trimester has not shown an increase in adverse pregnancy outcomes. While data on pregnancy outcomes following vaccination during the first trimester are presently limited, no increased risk for miscarriage has been seen. Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryo/foetal development, parturition or post-natal development (see section 5.3). Since differences between products are confined to the spike protein sequence, and there are no clinically meaningful differences in reactogenicity, SARS-CoV-2 JN.1 mRNA can be used during pregnancy.
+Since differences between products are confined to the spike protein sequence, and there are no clinically meaningful differences in reactogenicity, SARS-CoV-2 JN.1 mRNA can be used during pregnancy.
 
 ## Breast-feeding
 
@@ -195,13 +197,13 @@ Animal studies do not indicate direct or indirect harmful effects with respect t
 
 SARS-CoV-2 JN.1 mRNA has no or negligible influence on the ability to drive and use machines. However, some of the effects mentioned under section 4.8 may temporarily affect the ability to drive or use machines.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
 ## Adults
+
+<div style=\"page-break-after: always\"></div>
 
 The safety of Spikevax (original) was evaluated in a Phase 3 randomised, placebo-controlled, observer-blind clinical study conducted in the United States involving 30 351 participants 18 years of age and older who received at least one dose of Spikevax (original) (n=15 185) or placebo (n=15 166) (NCT04470427). At the time of vaccination, the mean age of the population was 52 years (range 18-95); 22 831 (75.2%) of participants were 18 to 64 years of age and 7 520 (24.8%) of participants were 65 years of age and older.
 
@@ -223,11 +225,11 @@ Safety data for Spikevax (original) in children were collected in a Phase 2/3 tw
 
 The most frequent adverse reactions in participants 6 years through 11 years of age following administration of the primary series (in Part 2) were injection site pain (98.4%), fatigue (73.1%), headache (62.1%), myalgia (35.3%), chills (34.6%), nausea/vomiting (29.3%), axillary swelling/tenderness (27.0%), fever (25.7%), injection site erythema (24.0%), injection site swelling (22.3%), and arthralgia (21.3%).
 
-<div style=\"page-break-after: always\"></div>
-
 The study protocol was amended to include an open-label booster dose phase that included 1 294 participants 6 years through 11 years of age who received a booster dose of Spikevax at least 6 months after the second dose of the primary series. No additional adverse reactions were identified in the open-label portion of the study.
 
 ## Children 6 months through 5 years of age
+
+<div style=\"page-break-after: always\"></div>
 
 A Phase 2/3 randomised, placebo-controlled, observer-blind study to evaluate the safety, tolerability, reactogenicity, and efficacy of Spikevax was conducted in the United States and Canada. This study involved 10 390 participants 6 months through 11 years of age who received at least one dose of Spikevax (n=7 798) or placebo (n=2 592).
 
@@ -251,41 +253,48 @@ The safety profile presented below is based on data generated in several placebo
 
 Adverse reactions reported are listed according to the following frequency convention:
 
-Very common (≥1/10) Common (≥1/100 to &lt;1/10) Uncommon (≥1/1 000 to &lt;1/100) Rare (≥1/10 000 to &lt;1/1 000) Very rare (&lt;1/10 000) Not known (cannot be estimated from the available data)
+Very common (≥1/10) Common (≥1/100 to &lt;1/10) Uncommon (≥1/1 000 to &lt;1/100) Rare (≥1/10 000 to &lt;1/1 000) Very rare (&lt;1/10 000)
+
+Not known (cannot be estimated from the available data)
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness (Table 4).
 
-<div style=\"page-break-after: always\"></div>
+## Table 4. Adverse reactions from Spikevax clinical studies and post authorisation experience in children and individuals 6 months of age and older
 
-Table 4. Adverse reactions from Spikevax clinical studies and post authorisation experience in children and individuals 6 months of age and older
-
-| MedDRA system organ class                            | Frequency   | Adverse reactions                                                                          |
-|------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders                 | Very common | Lymphadenopathy*                                                                           |
-| Immune system disorders                              | Not known   | Anaphylaxis Hypersensitivity                                                               |
-| Metabolism and nutrition disorders                   | Very common | Decreased appetite†                                                                        |
-| Psychiatric disorders                                | Very common | Irritability/crying†                                                                       |
-| Nervous system disorders                             | Very common | Headache Sleepiness†                                                                       |
-| Nervous system disorders                             | Uncommon    | Dizziness                                                                                  |
-| Nervous system disorders                             | Rare        | Acute peripheral facial paralysis‡ Hypoaesthesia Paraesthesia                              |
-| Cardiac disorders                                    | Very rare   | Myocarditis Pericarditis                                                                   |
-| Gastrointestinal disorders                           | Very common | Nausea/vomiting                                                                            |
-| Gastrointestinal disorders                           | Common      | Diarrhoea                                                                                  |
-| Gastrointestinal disorders                           | Uncommon    | Abdominal pain§                                                                            |
-| Skin and subcutaneous tissue disorders               | Common      | Rash                                                                                       |
-| Skin and subcutaneous tissue disorders               | Uncommon    | Urticaria¶                                                                                 |
-| Skin and subcutaneous tissue disorders               | Not known   | Erythema multiforme Mechanical urticaria Chronic urticaria                                 |
-| Musculoskeletal and connective tissue disorders      | Very common | Myalgia Arthralgia                                                                         |
-| Reproductive system and breast disorders             | Not known   | Heavy menstrual bleeding #                                                                 |
-| General disorders and administration site conditions | Very common | Injection site pain Fatigue Chills Pyrexia Injection site swelling Injection site erythema |
-| General disorders and administration site conditions | Common      | Injection site urticaria Injection site rash Delayed injection site reaction ♠             |
-| General disorders and administration site conditions | Uncommon    | Injection site pruritus                                                                    |
-| General disorders and administration site conditions | Rare        | Facial swelling ♥                                                                          |
-| General disorders and administration site conditions | Not known   | Extensive swelling of vaccinated limb                                                      |
+| MedDRA system organ class            | Frequency   | Adverse reactions   |
+|--------------------------------------|-------------|---------------------|
+| Blood and lymphatic system disorders | Very common | Lymphadenopathy*    |
+| Immune system disorders              | Rare        | Anaphylaxis         |
 
 <div style=\"page-break-after: always\"></div>
+
+| MedDRA system organ class                            | Frequency     | Adverse reactions                                                                          |
+|------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------|
+|                                                      | Not known     | Hypersensitivity                                                                           |
+| Metabolism and nutrition disorders                   | Very common   | Decreased appetite†                                                                        |
+| Psychiatric disorders                                | Very common   | Irritability/crying†                                                                       |
+| Nervous system disorders                             | Very common   | Headache Sleepiness†                                                                       |
+|                                                      | Uncommon      | Dizziness                                                                                  |
+|                                                      | Rare          | Acute peripheral facial paralysis‡ Hypoaesthesia Paraesthesia                              |
+| Cardiac disorders                                    | Very rare     | Myocarditis Pericarditis                                                                   |
+| Gastrointestinal disorders                           | Very common   | Nausea/vomiting                                                                            |
+|                                                      | Common        | Diarrhoea                                                                                  |
+|                                                      | Uncommon      | Abdominal pain§                                                                            |
+| Skin and subcutaneous tissue disorders               | Common        | Rash                                                                                       |
+|                                                      | Uncommon Rare | Urticaria¶ Erythema multiforme                                                             |
+|                                                      |               | Mechanical urticaria                                                                       |
+|                                                      | Not known     | Chronic urticaria                                                                          |
+| Musculoskeletal and connective tissue disorders      | Very common   | Myalgia Arthralgia                                                                         |
+| Reproductive system and breast disorders             | Not known     | Heavy menstrual bleeding #                                                                 |
+| General disorders and administration site conditions | Very common   | Injection site pain Fatigue Chills Pyrexia Injection site swelling Injection site erythema |
+|                                                      | Common        | Injection site urticaria Injection site rash Delayed injection site reaction ♠             |
+|                                                      | Uncommon      | Injection site pruritus                                                                    |
+|                                                      | Rare          | Facial swelling ♥                                                                          |
+|                                                      | Not known     | Extensive swelling of vaccinated limb                                                      |
 
 The reactogenicity and safety profile in 343 subjects receiving Spikevax (original), that were seropositive for SARS-CoV-2 at baseline, was comparable to that in subjects seronegative for SARS-CoV-2 at baseline.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Adults (booster dose)
 
@@ -313,11 +322,11 @@ The reactogenicity profile of Spikevax XBB.1.5 was similar to that of Spikevax (
 
 The safety, reactogenicity, and immunogenicity of Spikevax (original) were evaluated in a two-part Phase 3b open-label study in adult solid organ transplant (SOT) recipients, including kidney and liver transplants (mRNA-1273-P304). A 100 microgram (0.5 mL) dose was administered, which was the dose authorised at the time of study conduct.
 
-<div style=\"page-break-after: always\"></div>
-
 In Part A, 128 SOT recipients received a third dose of Spikevax (original). In Part B, 159 SOT recipients received a booster dose at least 4 months after the last dose (fourth dose for mRNA vaccines and third dose for non-mRNA vaccines).
 
 Reactogenicity was consistent with the known profile of Spikevax (original). There were no unexpected safety findings.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Description of selected adverse reactions
 
@@ -347,11 +356,9 @@ Elasomeran and its variant strains contain mRNA encapsulated in lipid nanopartic
 
 ## Clinical efficacy
 
-Immunogenicity in adults - after Spikevax XBB.1.5 dose (0.5 mL, 50 micrograms) versus an investigational bivalent XBB.1.5/BA.4-5 dose (0.5 mL, 25 micrograms/25 micrograms)
+Immunogenicity in adults - after Spikevax XBB.1.5 dose (0.5 mL, 50 micrograms) versus an investigational bivalent XBB.1.5/BA.4-5 dose (0.5 mL, 25 micrograms/25 micrograms) The safety, reactogenicity and immunogenicity of Spikevax XBB.1.5 50 micrograms and of a bivalent vaccine that contains equal mRNA amounts of Omicron XBB.1.5 and Omicron BA.4-5 spike proteins (25 micrograms XBB.1.5 / 25 micrograms BA.4-5) were evaluated in a Phase 2/3 open-label study in adults. In this study, 50 participants received Spikevax XBB.1.5 and 51 participants received the investigational bivalent XBB.1.5/BA.4-5 (mRNA-1273- P205, Part J). The two groups were randomised 1:1.
 
 <div style=\"page-break-after: always\"></div>
-
-The safety, reactogenicity and immunogenicity of Spikevax XBB.1.5 50 micrograms and of a bivalent vaccine that contains equal mRNA amounts of Omicron XBB.1.5 and Omicron BA.4-5 spike proteins (25 micrograms XBB.1.5 / 25 micrograms BA.4-5) were evaluated in a Phase 2/3 open-label study in adults. In this study, 50 participants received Spikevax XBB.1.5 and 51 participants received the investigational bivalent XBB.1.5/BA.4-5 (mRNA-1273- P205, Part J). The two groups were randomised 1:1.
 
 The vaccines were administered as a fifth dose to adults who previously received a two-dose primary series of any mRNA COVID-19 vaccine, a booster dose of any mRNA COVID-19 vaccine, and a booster dose of any mRNA bivalent Original/Omicron BA.4-5 vaccine.
 
@@ -371,9 +378,11 @@ The estimated neutralising antibody GMTs (95% CI) against Omicron BA.4/BA.5 adju
 
 The safety, reactogenicity, and immunogenicity of a Spikevax bivalent Original/Omicron BA.1 booster dose were evaluated in a Phase 2/3 open-label study in participants 18 years of age and older (mRNA-1273-P205). In this study, 437 participants received the Spikevax bivalent Original/Omicron BA.1 50 microgram booster dose, and 377 participants received the Spikevax (original) 50 microgram booster dose.
 
+Study P205 Part G evaluated the safety, reactogenicity and immunogenicity of Spikevax bivalent Original/Omicron BA.1 when administered as a second booster dose to adults who previously received 2 doses of Spikevax (original) (100 microgram) as a primary series and a booster dose of Spikevax (original) (50 micrograms) at least 3 months prior to enrolment. In P205 Part F, study participants received Spikevax (original) (50 micrograms) as a second booster dose and the Part G group serves as
+
 <div style=\"page-break-after: always\"></div>
 
-Study P205 Part G evaluated the safety, reactogenicity and immunogenicity of Spikevax bivalent Original/Omicron BA.1 when administered as a second booster dose to adults who previously received 2 doses of Spikevax (original) (100 microgram) as a primary series and a booster dose of Spikevax (original) (50 micrograms) at least 3 months prior to enrolment. In P205 Part F, study participants received Spikevax (original) (50 micrograms) as a second booster dose and the Part G group serves as a within-study, non-contemporaneous comparator group to the Spikevax bivalent Original/Omicron BA.1 group.
+a within-study, non-contemporaneous comparator group to the Spikevax bivalent Original/Omicron BA.1 group.
 
 In this study, the primary immunogenicity analysis was based on the primary immunogenicity set which includes participants with no evidence of SARS-CoV-2 infection at baseline (pre-booster). In the primary analysis, the original SARS-CoV-2 estimated neutralising antibody geometric mean titre (GMT) and corresponding 95% CI was 6 422.3 (5 990.1, 6 885.7) and 5 286.6 (4 887.1, 5 718.9) 28 days after the Spikevax bivalent Original/Omicron BA.1 and Spikevax (original) booster doses, respectively. These GMTs represent the ratio between response of Spikevax bivalent Original/Omicron BA.1 versus Spikevax (original) against the ancestral SARS-CoV-2 (D614G) strain. The GMR (97.5% CI) was 1.22 (1.08, 1.37) meeting the pre-specified criterion for non-inferiority (lower bound of 97.5% CI ≥0.67).
 
@@ -391,9 +400,9 @@ A total of 30 351 subjects were followed for a median of 92 days (range: 1-122) 
 
 The primary efficacy analysis population (referred to as the Per Protocol Set or PPS), included 28 207 subjects who received either Spikevax (original) (n=14 134) or placebo (n=14 073) and had a negative baseline SARS-CoV-2 status. The PPS study population included 47.4% female, 52.6% male, 79.5% White, 9.7% African American, 4.6% Asian, and 6.2% other. 19.7% of participants identified as Hispanic or Latino. The median age of subjects was 53 years (range 18-94). A dosing window of -7 to +14 days for administration of the second dose (scheduled at day 29) was allowed for inclusion in the PPS. 98% of vaccine recipients received the second dose 25 days to 35 days after dose 1 (corresponding to -3 to +7 days around the interval of 28 days).
 
-<div style=\"page-break-after: always\"></div>
-
 COVID-19 cases were confirmed by Reverse Transcriptase Polymerase Chain Reaction (RT PCR) and by a Clinical Adjudication Committee. Vaccine efficacy overall and by key age groups are presented in Table 5.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 5. Vaccine efficacy analysis: confirmed COVID-19 # regardless of severity starting 14 days after the 2 nd dose - PPS
 
@@ -408,9 +417,7 @@ Table 5. Vaccine efficacy analysis: confirmed COVID-19 # regardless of severity 
 
 # COVID-19: symptomatic COVID-19 requiring positive RT-PCR result and at least 2 systemic symptoms or 1 respiratory symptom. Cases starting 14 days after the 2 nd dose.
 
-*Vaccine efficacy and 95% confidence interval (CI) from the stratified Cox proportional hazard model
-
-** CI not adjusted for multiplicity. Multiplicity adjusted statistical analyses were carried out in an interim analysis based on less COVID-19 cases, not reported here.
+*Vaccine efficacy and 95% confidence interval (CI) from the stratified Cox proportional hazard model ** CI not adjusted for multiplicity. Multiplicity adjusted statistical analyses were carried out in an interim analysis based on less COVID-19 cases, not reported here.
 
 Among all subjects in the PPS, no cases of severe COVID-19 were reported in the vaccine group compared with 30 of 185 (16%) cases reported in the placebo group. Of the 30 participants with severe disease, 9 were hospitalised, 2 of which were admitted to an intensive care unit. The majority of the remaining severe cases fulfilled only the oxygen saturation (SpO2) criterion for severe disease (≤ 93% on room air).
 
@@ -420,15 +427,15 @@ Additionally, subgroup analyses of the primary efficacy endpoint showed similar 
 
 ## Immunogenicity in adults - after booster dose (0.25 mL, 50 micrograms)
 
-The safety, reactogenicity, and immunogenicity of a booster dose of Spikevax (original) were evaluated in a Phase 2, randomised, observer-blind, placebo-controlled, dose-confirmation study in participants 18 years of age and older (NCT04405076). In this study, 198 participants received two doses (0.5 mL, 100 micrograms 1 month apart) of the Spikevax (original) vaccine as primary series. In an open-label phase, 149 of those participants (Per Protocol Set) received a single booster dose (0.25 mL, 50 micrograms) at least 6 months after receiving the second dose in the primary series. A single booster dose (0.25 mL, 50 micrograms) was shown to result in a geometric mean fold rise (GMFR) of 12.99 (95% CI: 11.04, 15.29) in neutralising antibodies from pre-booster compared to
-
-<div style=\"page-break-after: always\"></div>
-
-28 days after the booster dose. The GMFR in neutralising antibodies was 1.53 (95% CI: 1.32, 1.77) when compared 28 days post dose 2 (primary series) to 28 days after the booster dose.
+The safety, reactogenicity, and immunogenicity of a booster dose of Spikevax (original) were evaluated in a Phase 2, randomised, observer-blind, placebo-controlled, dose-confirmation study in participants 18 years of age and older (NCT04405076). In this study, 198 participants received two doses (0.5 mL, 100 micrograms 1 month apart) of the Spikevax (original) vaccine as primary series. In an open-label phase, 149 of those participants (Per Protocol Set) received a single booster dose (0.25 mL, 50 micrograms) at least 6 months after receiving the second dose in the primary series. A single booster dose (0.25 mL, 50 micrograms) was shown to result in a geometric mean fold rise (GMFR) of 12.99 (95% CI: 11.04, 15.29) in neutralising antibodies from pre-booster compared to 28 days after the booster dose. The GMFR in neutralising antibodies was 1.53 (95% CI: 1.32, 1.77) when compared 28 days post dose 2 (primary series) to 28 days after the booster dose.
 
 ## Immunogenicity of a booster dose following primary vaccination with another authorised COVID-19 vaccine in adults
 
-Safety and immunogenicity of a heterologous booster with Spikevax (original) were studied in an investigator-initiated study with 154 participants. The minimum time interval between primary series using a vector-based or RNA-based COVID-19 vaccine and booster injection with Spikevax (original) was 12 weeks (range: 12 weeks to 20.9 weeks). The dose used for boosting in this study was 100 micrograms. Neutralising antibody titres as measured by a pseudovirus neutralisation assay were assessed on Day 1 prior to administration and at Day 15 and Day 29 after the booster dose. A booster response was demonstrated regardless of primary vaccination.
+Safety and immunogenicity of a heterologous booster with Spikevax (original) were studied in an investigator-initiated study with 154 participants. The minimum time interval between primary series using a vector-based or RNA-based COVID-19 vaccine and booster injection with Spikevax (original) was 12 weeks (range: 12 weeks to 20.9 weeks). The dose used for boosting in this study was 100 micrograms. Neutralising antibody titres as measured by a pseudovirus neutralisation assay were
+
+<div style=\"page-break-after: always\"></div>
+
+assessed on Day 1 prior to administration and at Day 15 and Day 29 after the booster dose. A booster response was demonstrated regardless of primary vaccination.
 
 Only short-term immunogenicity data are available; long-term protection and immunological memory are currently unknown.
 
@@ -446,11 +453,11 @@ There were zero symptomatic COVID-19 cases in the Spikevax (original) group and 
 
 Immunogenicity in adolescents 12 to 17 years of age - after Spikevax primary vaccination A non-inferiority analysis evaluating SARS-CoV-2 50% neutralising titres and seroresponse rates 28 days after Dose 2 was conducted in the per-protocol immunogenicity subsets of adolescents aged 12 through 17 (n=340) in the adolescent study and in participants aged 18 through 25 (n=296) in the adult study. Subjects had no immunologic or virologic evidence of prior SARS-CoV-2 infection at baseline. The geometric mean ratio (GMR) of the neutralising antibody titres in adolescents 12 to 17 years of age compared to the 18- to 25-year-olds was 1.08 (95% CI: 0.94, 1.24). The difference in seroresponse rate was 0.2% (95% CI: -1.8, 2.4). Non-inferiority criteria (lower bound of the 95% CI for GMR &gt; 0.67 and lower bound of the 95% CI of the seroresponse rate difference &gt; -10%) were met.
 
-Immunogenicity in adolescents 12 years through 17 years of age - after Spikevax (original) booster dose
-
-<div style=\"page-break-after: always\"></div>
+## Immunogenicity in adolescents 12 years through 17 years of age - after Spikevax (original) booster dose
 
 The primary immunogenicity objective of the booster phase of this study was to infer efficacy of the booster dose in participants 12 years through 17 years of age by comparing post-booster immune responses (Day 29) to those obtained post-dose 2 of the primary series (Day 57) in young adults (18 to 25 years of age) in the adult study. Efficacy of the 50 microgram Spikevax booster dose was inferred if post-booster dose immune responses (nAb geometric mean concentration [GMC] and seroresponse rate [SRR]) meet prespecified noninferiority criteria (for both GMC and SRR) compared to those measured following completion of the 100 microgram Spikevax primary series among a subset of young adults (18 to 25 years) in the pivotal adult efficacy study.
+
+<div style=\"page-break-after: always\"></div>
 
 In an open-label phase of this study, participants 12 years through 17 years of age received a single booster dose at least 5 months after completion of the primary series (two doses 1 month apart). The primary immunogenicity analysis population included 257 booster dose participants in this study and a random subset of 295 participants from the young adult study (ages ≥18 to ≤25 years) who previously completed a primary vaccination series of two doses 1 month apart of Spikevax. Both groups of participants included in the analysis population had no serologic or virologic evidence of SARS-CoV-2 infection prior to the first primary series dose and prior to the booster dose, respectively.
 
@@ -472,13 +479,13 @@ There were three COVID-19 cases (0.1%) in the Spikevax (original) group and four
 
 ## Immunogenicity in children 6 years through 11 years of age
 
-An analysis evaluating SARS-CoV-2 50% neutralising titres and seroresponse rates 28 days after Dose 2 was conducted in a subset of children aged 6 years through 11 years (n=319) in the paediatric study and in participants aged 18 through 25 years (n=295) in the adult study. Subjects had no immunologic or virologic evidence of prior SARS-CoV-2 infection at baseline. The GMR of the neutralising antibody titres in children 6 years through 11 years of age compared to the 18- to 25-yearolds was 1.239 (95% CI: 1.072, 1.432). The difference in seroresponse rate was 0.1% (95% CI: -1.9,
+An analysis evaluating SARS-CoV-2 50% neutralising titres and seroresponse rates 28 days after Dose 2 was conducted in a subset of children aged 6 years through 11 years (n=319) in the paediatric study and in participants aged 18 through 25 years (n=295) in the adult study. Subjects had no immunologic or virologic evidence of prior SARS-CoV-2 infection at baseline. The GMR of the neutralising antibody titres in children 6 years through 11 years of age compared to the 18- to 25-yearolds was 1.239 (95% CI: 1.072, 1.432). The difference in seroresponse rate was 0.1% (95% CI: -1.9, 2.1). Non-inferiority criteria (lower bound of the 95% CI for GMR &gt; 0.67 and lower bound of the 95% CI of the seroresponse rate difference &gt; -10%) were met.
+
+Immunogenicity in children 6 years through 11 years of age - after Spikevax (original) booster dose The primary immunogenicity objective of the booster phase of this study was to infer efficacy of the booster dose in participants 6 years through 11 years of age by comparing post-booster dose immune responses (Day 29) to those obtained post dose 2 of the primary series (Day 57) in young adults (18 to 25 years of age) in that study, where 93% efficacy was demonstrated. Efficacy of the 25 microgram Spikevax booster dose was inferred if post-booster dose immune responses (neutralising antibody [nAb] geometric mean concentration [GMC] and seroresponse rate [SRR]) meet pre-specified non-
 
 <div style=\"page-break-after: always\"></div>
 
-2.1). Non-inferiority criteria (lower bound of the 95% CI for GMR &gt; 0.67 and lower bound of the 95% CI of the seroresponse rate difference &gt; -10%) were met.
-
-Immunogenicity in children 6 years through 11 years of age - after Spikevax (original) booster dose The primary immunogenicity objective of the booster phase of this study was to infer efficacy of the booster dose in participants 6 years through 11 years of age by comparing post-booster dose immune responses (Day 29) to those obtained post dose 2 of the primary series (Day 57) in young adults (18 to 25 years of age) in that study, where 93% efficacy was demonstrated. Efficacy of the 25 microgram Spikevax booster dose was inferred if post-booster dose immune responses (neutralising antibody [nAb] geometric mean concentration [GMC] and seroresponse rate [SRR]) meet pre-specified noninferiority criteria (for both GMC and SRR) compared to those measured following completion of the 100 microgram Spikevax primary series among a subset of young adults (18 to 25 years) in the pivotal adult efficacy trial.
+inferiority criteria (for both GMC and SRR) compared to those measured following completion of the 100 microgram Spikevax primary series among a subset of young adults (18 to 25 years) in the pivotal adult efficacy trial.
 
 In an open-label phase of this study, participants 6 years through 11 years of age received a single booster dose at least 6 months after completion of the primary series (two doses 1 month apart). The primary immunogenicity analysis population included 95 booster dose participants in 6 years through 11 years and a random subset of 295 participants from the young adult study who received two doses 1 month apart of Spikevax. Both groups of participants included in the analysis population had no serologic or virologic evidence of SARS-CoV-2 infection prior to the first primary series dose and prior to the booster dose, respectively.
 
@@ -496,15 +503,13 @@ The median length of follow-up for efficacy post-Dose 2 was 71 days for particip
 
 Vaccine efficacy in this study was observed during the period when the B.1.1.529 (Omicron) variant was the predominant variant in circulation.
 
-Vaccine efficacy (VE) in Part 2 for the Per Protocol Set for Efficacy for COVID-19 cases 14 days or more after dose 2 using the 'COVID-19 P301 case definition' (i.e., the definition employed in the
-
-<div style=\"page-break-after: always\"></div>
-
-pivotal adult efficacy study) was 46.4% (95% CI: 19.8, 63.8) for children 2 years through 5 years of age and 31.5% (95% CI: -27.7, 62.0) for children 6 months through 23 months of age.
+Vaccine efficacy (VE) in Part 2 for the Per Protocol Set for Efficacy for COVID-19 cases 14 days or more after dose 2 using the 'COVID-19 P301 case definition' (i.e., the definition employed in the pivotal adult efficacy study) was 46.4% (95% CI: 19.8, 63.8) for children 2 years through 5 years of age and 31.5% (95% CI: -27.7, 62.0) for children 6 months through 23 months of age.
 
 ## Immunogenicity in children 6 months through 5 years of age
 
 For children aged 2 years through 5 years of age, comparison of Day 57 nAb responses in this Part 2 per-protocol immunogenicity subset (n = 264; 25 micrograms) to those of young adults (n = 295; 100 micrograms) demonstrated a GMR of 1.014 (95% CI: 0.881, 1.167), meeting the noninferiority success criteria (i.e., lower bound of the 95% CI for GMR ≥ 0.67; point estimate ≥ 0.8). The geometric mean fold rise (GMFR) from baseline to Day 57 for these children was 183.3 (95% CI: 164.03, 204.91). The difference in seroresponse rates (SRR) between the children and young adults was -0.4% (95% CI: -2.7%, 1.5%), also meeting the noninferiority success criteria (lower bound of the 95% CI of the SRR difference &gt; -10%).
+
+<div style=\"page-break-after: always\"></div>
 
 For infants and toddlers from 6 months through 23 months of age, comparison of Day 57 nAb responses in this Part 2 per-protocol immunogenicity subset (n = 230; 25 micrograms) to those of young adults (n = 295; 100 micrograms) demonstrated a GMR of 1.280 (95% CI: 1.115, 1.470), meeting the noninferiority success criteria (i.e., lower bound of the 95% CI for GMR ≥ 0.67; point estimate ≥ 0.8). The difference in SRR rates between the infants/toddlers and young adults was 0.7% (95% CI: -1.0%, 2.5%), also meeting the noninferiority success criteria (lower bound of the 95% CI of the seroresponse rate difference &gt; -10%).
 
@@ -512,25 +517,22 @@ Accordingly, the prespecified success criteria for the primary immunogenicity ob
 
 Table 6. Summary of geometric mean concentration ratio and seroresponse rate - comparison of individuals 6 months through 23 months of age to participants 18 years through 25 years of age - per-protocol immunogenicity set
 
-|                                   |                      | 6 months through 23 months n=230                    | 18 years through 25 years n=291                     | 6 months through 23 months/ 18 years through 25 years      | 6 months through 23 months/ 18 years through 25 years   |
-|-----------------------------------|----------------------|-----------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------|
-| Assay                             | Time point           | GMC (95%CI)*                                        | GMC (95%CI)*                                        | GMCratio (95% CI) a                                        | Met noninferiority objective (Y/N) b                    |
-| SARS-CoV-2 neutralisation assay c | 28 days after Dose 2 | 1 780.7 (1 606.4, 1 973.8) Seroresponse % (95%CI) d | 1 390.8 (1 269.1, 1 524.2) Seroresponse % (95%CI) d | 1.3 (1.1, 1.5) Difference in seroresponse rate% (95% CI) e | Y                                                       |
-| SARS-CoV-2 neutralisation assay c | 28 days after Dose 2 | 100 (98.4, 100)                                     | 99.3 (97.5, 99.9)                                   | 0.7 (-1.0, 2.5)                                            | Y                                                       |
+|                                   |                      | 6 months through 23 months n=230   | 18 years through 25 years n=291   | 6 months through 23 months/ 18 years through 25 years   | 6 months through 23 months/ 18 years through 25 years   |
+|-----------------------------------|----------------------|------------------------------------|-----------------------------------|---------------------------------------------------------|---------------------------------------------------------|
+| Assay                             | Time point           | GMC (95%CI)*                       | GMC (95%CI)*                      | GMCratio (95% CI) a                                     | Met noninferiority objective (Y/N) b                    |
+| SARS-CoV-2 neutralisation assay c | 28 days after Dose 2 | 1 780.7 (1 606.4, 1 973.8)         | 1 390.8 (1 269.1, 1 524.2)        | 1.3 (1.1, 1.5)                                          | Y                                                       |
+| SARS-CoV-2 neutralisation assay c | 28 days after Dose 2 | 100 (98.4, 100)                    | 99.3 (97.5, 99.9)                 | 0.7 (-1.0, 2.5)                                         | Y                                                       |
 
-GMC = Geometric mean concentration
-
-n = number of participants with non-missing data at baseline and at Day 57
+GMC = Geometric mean concentration n = number of participants with non-missing data at baseline and at Day 57
 
 * Antibody values reported as below the lower limit of quantification (LLOQ) are replaced by 0.5 x LLOQ. Values greater than the upper limit of quantification (ULOQ) are replaced by the ULOQ if actual values are not available.
 - a  The log-transformed antibody levels are analysed using an analysis of covariance (ANCOVA) model with the group variable (participants 6 months through 5 years of age and young adults) as fixed effect. The resulted LS means, difference of LS means, and 95% CI are back transformed to the original scale for presentation.
 - b Noninferiority is declared if the lower bound of the 2-sided 95% CI for the GMC ratio is greater than 0.67, with a point estimate of &gt;0.8 and the lower bound of the 2-sided 95% CI for difference in seroresponse rate is greater than -10%, with a point estimate of &gt;-5%.
-
-<div style=\"page-break-after: always\"></div>
-
 - c  Final geometric mean antibody concentrations (GMC) in AU/mL were determined using SARS-CoV-2 microneutralisation assay.
 - d Seroresponse due to vaccination specific to SARS-CoV-2 RVP neutralising antibody concentration at a subject level is defined in protocol as a change from below LLOQ to equal or above 4 x LLOQ, or at least a 4-fold rise if baseline is equal to or above LLOQ. Seroresponse 95% CI is calculated using the Clopper-Pearson method.
 - e Difference in seroresponse rate 95% CI is calculated using the Miettinen-Nurminen (score) confidence limits.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 7. Summary of geometric mean concentration ratio and seroresponse rate - comparison of individuals 2 years through 5 years of age to participants 18 years through 25 years of age per-protocol immunogenicity set
 
@@ -542,7 +544,8 @@ Table 7. Summary of geometric mean concentration ratio and seroresponse rate - c
 
 ## GMC = Geometric mean concentration
 
-- n = number of participants with non-missing data at baseline and at Day 57
+n = number of participants with non-missing data at baseline and at Day 57
+
 * Antibody values reported as below the lower limit of quantification (LLOQ) are replaced by 0.5 x LLOQ. Values greater than the upper limit of quantification (ULOQ) are replaced by the ULOQ if actual values are not available.
 - a  The log-transformed antibody levels are analysed using an analysis of covariance (ANCOVA) model with the group variable (participants 6 months through 5 years of age and young adults) as fixed effect. The resulted LS means, difference of LS means, and 95% CI are back transformed to the original scale for presentation.
 - b Noninferiority is declared if the lower bound of the 2-sided 95% CI for the GMC ratio is greater than 0.67, with a point estimate of &gt;0.8 and the lower bound of the 2-sided 95% CI for difference in seroresponse rate is greater than -10%, with a point estimate of &gt;-5%.
@@ -556,13 +559,11 @@ The safety and immunogenicity of Spikevax bivalent Original/Omicron BA.1 were ev
 
 ## Immunogenicity in solid organ transplant recipients
 
-The safety, reactogenicity, and immunogenicity of Spikevax (original) were evaluated in a two-part Phase 3b open-label study in adult solid organ transplant (SOT) recipients, including kidney and liver
-
-<div style=\"page-break-after: always\"></div>
-
-transplants (mRNA-1273-P304). A 100 microgram (0.5 mL) dose was administered, which was the dose authorised at the time of study conduct.
+The safety, reactogenicity, and immunogenicity of Spikevax (original) were evaluated in a two-part Phase 3b open-label study in adult solid organ transplant (SOT) recipients, including kidney and liver transplants (mRNA-1273-P304). A 100 microgram (0.5 mL) dose was administered, which was the dose authorised at the time of study conduct.
 
 In Part A, 128 SOT recipients received a third dose of Spikevax (original). In Part B, 159 SOT recipients received a booster dose at least 4 months after the last dose.
+
+<div style=\"page-break-after: always\"></div>
 
 Immunogenicity in the study was assessed by measurement of neutralising antibodies against pseudovirus expressing the ancestral SARS-CoV-2 (D614G) strain at 1 month after Dose 2, Dose 3, booster dose and up to 12 months from the last dose in Part A, and up to 6 months from booster dose in Part B.
 
@@ -590,11 +591,11 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 General toxicity studies were conducted in rats (intramuscularly receiving up to 4 doses exceeding the human dose once every 2 weeks). Transient and reversible injection site oedema and erythema and transient and reversible changes in laboratory tests (including increases in eosinophils, activated partial thromboplastin time, and fibrinogen) were observed. Results suggests the toxicity potential to humans is low.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Genotoxicity/carcinogenicity
 
 In vitro and in vivo genotoxicity studies were conducted with the novel lipid component SM-102 of the vaccine. Results suggests the genotoxicity potential to humans is very low. Carcinogenicity studies were not performed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reproductive toxicity
 
@@ -641,19 +642,19 @@ Chemical and physical stability has also been demonstrated for unopened vaccine 
 - Upon moving the vaccine to 2°C to 8°C storage, the outer carton should be marked with the new discard date at 2°C to 8°C.
 - If the vaccine is received at 2°C to 8°C, it should be stored at 2°C to 8°C. The expiry date on the outer carton should have been marked with the new discard date at 2°C to 8°C.
 
-<div style=\"page-break-after: always\"></div>
-
 Within this period, up to 36 hours may be used for transportation at 2°C to 8°C (see section 6.4).
 
 Once thawed, the vaccine should not be refrozen.
 
 The unopened vaccine may be stored at 8°C to 25°C up to 24 hours after removal from refrigerated conditions.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Punctured multidose vials (Spikevax JN.1 0.1 mg/mL dispersion for injection)
 
 Chemical and physical in-use stability has been demonstrated for 19 hours at 2°C to 25ºC after initial puncture (within the allowed use period of 30 days or 14 days, respectively, at 2°C to 8ºC and including 24 hours at 8°C to 25ºC). From a microbiological point of view, the product should be used immediately. If the vaccine is not used immediately, in-use storage times and conditions are the responsibility of the user.
 
-## Unopened single-dose vial (Spikevax JN.1 50 micrograms dispersion for injection)
+Unopened single-dose vial (Spikevax JN.1 50 micrograms dispersion for injection)
 
 9 months at -50ºC to -15ºC.
 
@@ -670,7 +671,7 @@ Once thawed, the vaccine should not be refrozen.
 
 Single-dose vials may be stored at 8°C to 25°C up to 24 hours after removal from refrigerated conditions.
 
-Spikevax JN.1 50 micrograms dispersion for injection in pre-filled syringe
+## Spikevax JN.1 50 micrograms dispersion for injection in pre-filled syringe
 
 9 months at -50ºC to -15ºC.
 
@@ -681,19 +682,21 @@ Chemical and physical stability has also been demonstrated for unopened pre-fill
 - Upon moving the vaccine to 2°C to 8°C storage, the outer carton should be marked with the new discard date at 2°C to 8°C.
 - If the vaccine is received at 2°C to 8°C, it should be stored at 2°C to 8°C. The expiry date on the outer carton should have been marked with the new discard date at 2°C to 8°C.
 
-<div style=\"page-break-after: always\"></div>
-
 Pre-filled syringe transport duration is limited by the shipper qualification duration.
 
 Once thawed, the vaccine should not be refrozen.
 
 Pre-filled syringes may be stored at 8°C to 25°C up to 24 hours after removal from refrigerated conditions.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.4 Special precautions for storage
 
 ## Spikevax JN.1 0.1 mg/mL dispersion for injection (multidose vials)
 
-Store in a freezer at -50ºC to -15ºC. Once thawed, store in a refrigerator (2°C to 8°C) and do not refreeze. Keep the vial in the outer carton in order to protect from light. For storage conditions after thawing, see section 6.3. For storage conditions of the multidose vial after first opening, see section 6.3.
+Store in a freezer at -50ºC to -15ºC. Once thawed, store in a refrigerator (2°C to 8°C) and do not refreeze. Keep the vial in the outer carton in order to protect from light. For storage conditions after thawing, see section 6.3.
+
+For storage conditions of the multidose vial after first opening, see section 6.3.
 
 ## Transportation of thawed multidose vials in liquid state at 2°C to 8°C
 
@@ -701,9 +704,9 @@ If transport at -50°C to -15°C is not feasible, available data support transpo
 
 ## Spikevax JN.1 50 micrograms dispersion for injection (single-dose vials)
 
-Store in a freezer at -50ºC to -15ºC. Once thawed, store in a refrigerator (2°C to 8°C) and do not refreeze.
+Store in a freezer at -50ºC to -15ºC.
 
-Keep the single-dose vial in the outer carton in order to protect from light. For storage conditions after thawing, see section 6.3.
+Once thawed, store in a refrigerator (2°C to 8°C) and do not refreeze. Keep the single-dose vial in the outer carton in order to protect from light. For storage conditions after thawing, see section 6.3.
 
 ## Transportation of single-dose vials in liquid state at 2°C to 8°C
 
@@ -719,9 +722,7 @@ If transport at -50°C to -15°C is not feasible, available data support transpo
 
 ## 6.5 Nature and contents of container
 
-Spikevax JN.1 0.1 mg/mL dispersion for injection (multidose vials)
-
-<div style=\"page-break-after: always\"></div>
+## Spikevax JN.1 0.1 mg/mL dispersion for injection (multidose vials)
 
 2.5 mL dispersion in a (type 1 glass or type 1 equivalent glass or cyclic olefin polymer with inner barrier coating) multidose vial with a stopper (chlorobutyl rubber) and a blue flip-off plastic cap with seal (aluminium seal).
 
@@ -729,9 +730,13 @@ Pack size: 10 multidose vials. Each vial contains 2.5 mL.
 
 Spikevax JN.1 50 micrograms dispersion for injection (single-dose vials)
 
+<div style=\"page-break-after: always\"></div>
+
 0.5 mL dispersion in a (type 1 glass or type 1 equivalent glass) single-dose vial with a stopper (chlorobutyl rubber) and a blue flip-off plastic cap with seal (aluminium seal).
 
-Pack sizes: 1 single-dose vial 10 single-dose vials Each vial contains 0.5 mL.
+Pack sizes:
+
+1 single-dose vial 10 single-dose vials Each vial contains 0.5 mL.
 
 Not all pack sizes may be marketed.
 
@@ -763,8 +768,6 @@ An additional overfill is included in each multidose vial to ensure that 5 doses
 
 Thaw each multidose vial before use following the instructions below (Table 8).
 
-<div style=\"page-break-after: always\"></div>
-
 Table 8. Thawing instructions for multidose vials before use
 
 |                | Thaw instructions and duration       | Thaw instructions and duration   | Thaw instructions and duration         | Thaw instructions and duration   |
@@ -772,9 +775,11 @@ Table 8. Thawing instructions for multidose vials before use
 | Configuration  | Thaw temperature (in a refrigerator) | Thaw duration                    | Thaw temperature (at room temperature) | Thaw duration                    |
 | Multidose vial | 2° - 8°C                             | 2 hours and 30 minutes           | 15°C - 25°C                            | 1 hour                           |
 
+<div style=\"page-break-after: always\"></div>
+
 <!-- image -->
 
-Spikevax JN.1 50 micrograms dispersion for injection (single-dose vials)
+## Spikevax JN.1 50 micrograms dispersion for injection (single-dose vials)
 
 The vaccine comes ready to use once thawed.
 
@@ -798,11 +803,9 @@ The vaccine must be administered intramuscularly. The preferred site is the delt
 
 <div style=\"page-break-after: always\"></div>
 
-## Multidose vials
+<!-- image -->
 
 Spikevax JN.1 50 micrograms dispersion for injection in pre-filled syringe
-
-<!-- image -->
 
 Do not shake or dilute the contents of the pre-filled syringe.
 
@@ -828,10 +831,10 @@ Handling instructions for the Spikevax JN.1 pre-filled syringes
 
 - Do not shake.
 - Pre-filled syringe should be inspected visually for particulate matter and discolouration prior to administration.
+- Spikevax JN.1 is a white to off-white dispersion. It may contain white or translucent productrelated particulates. Do not administer if vaccine is discoloured or contains other particulate matter.
 
 <div style=\"page-break-after: always\"></div>
 
-- Spikevax JN.1 is a white to off-white dispersion. It may contain white or translucent productrelated particulates. Do not administer if vaccine is discoloured or contains other particulate matter.
 - Needles are not included in the pre-filled syringe cartons.
 - Use a sterile needle of the appropriate size for intramuscular injection (21-gauge or thinner needles).
 - With tip cap upright, remove tip cap by twisting counter-clockwise until tip cap releases. Remove tip cap in a slow, steady motion. Avoid pulling tip cap while twisting.
@@ -891,7 +894,9 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Dispersion for injection White to off white dispersion (pH: 7.0 - 8.0).
+## Dispersion for injection
+
+White to off white dispersion (pH: 7.0 - 8.0).
 
 ## 4. CLINICAL PARTICULARS
 
@@ -1020,9 +1025,9 @@ Different injectable vaccines should be given at different injection sites.
 
 ## Pregnancy
 
-No data are available yet regarding the use of SARS-CoV-2 LP.8.1 mRNA during pregnancy.
+A large amount of observational data from pregnant women vaccinated with Spikevax has not shown an increase in adverse pregnancy outcomes.
 
-However, a large amount of observational data from pregnant women vaccinated with Spikevax (original) during the second and third trimester has not shown an increase in adverse pregnancy outcomes. While data on pregnancy outcomes following vaccination during the first trimester are presently limited, no increased risk for miscarriage has been seen. Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryo/foetal development, parturition or post-natal development (see section 5.3). Since differences between products are confined to the spike protein sequence, and there are no clinically meaningful differences in reactogenicity, SARS-CoV-2 LP.8.1 mRNA can be used during pregnancy.
+Since differences between products are confined to the spike protein sequence, and there are no clinically meaningful differences in reactogenicity, SARS-CoV-2 LP.8.1 mRNA can be used during pregnancy.
 
 ## Breast-feeding
 
@@ -1038,13 +1043,13 @@ Animal studies do not indicate direct or indirect harmful effects with respect t
 
 SARS-CoV-2 LP.8.1 mRNA has no or negligible influence on the ability to drive and use machines. However, some of the effects mentioned under section 4.8 may temporarily affect the ability to drive or use machines.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
 ## Adults
+
+<div style=\"page-break-after: always\"></div>
 
 The safety of Spikevax (original) was evaluated in a Phase 3 randomised, placebo-controlled, observer-blind clinical study conducted in the United States involving 30 351 participants 18 years of age and older who received at least one dose of Spikevax (original) (n=15 185) or placebo (n=15 166) (NCT04470427). At the time of vaccination, the mean age of the population was 52 years (range 18-95); 22 831 (75.2%) of participants were 18 to 64 years of age and 7 520 (24.8%) of participants were 65 years of age and older.
 
@@ -1066,11 +1071,11 @@ Safety data for Spikevax (original) in children were collected in a Phase 2/3 tw
 
 The most frequent adverse reactions in participants 6 years through 11 years of age following administration of the primary series (in Part 2) were injection site pain (98.4%), fatigue (73.1%), headache (62.1%), myalgia (35.3%), chills (34.6%), nausea/vomiting (29.3%), axillary swelling/tenderness (27.0%), fever (25.7%), injection site erythema (24.0%), injection site swelling (22.3%), and arthralgia (21.3%).
 
-<div style=\"page-break-after: always\"></div>
-
 The study protocol was amended to include an open-label booster dose phase that included 1 294 participants 6 years through 11 years of age who received a booster dose of Spikevax at least 6 months after the second dose of the primary series. No additional adverse reactions were identified in the open-label portion of the study.
 
 ## Children 6 months through 5 years of age
+
+<div style=\"page-break-after: always\"></div>
 
 A Phase 2/3 randomised, placebo-controlled, observer-blind study to evaluate the safety, tolerability, reactogenicity, and efficacy of Spikevax was conducted in the United States and Canada. This study involved 10 390 participants 6 months through 11 years of age who received at least one dose of Spikevax (n=7 798) or placebo (n=2 592).
 
@@ -1100,37 +1105,42 @@ Not known (cannot be estimated from the available data)
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness (Table 4).
 
-Table 4. Adverse reactions from Spikevax clinical studies and post authorisation experience in children and individuals 6 months of age and older
+## Table 4. Adverse reactions from Spikevax clinical studies and post authorisation experience in children and individuals 6 months of age and older
+
+| MedDRA system organ class            | Frequency   | Adverse reactions   |
+|--------------------------------------|-------------|---------------------|
+| Blood and lymphatic system disorders | Very common | Lymphadenopathy*    |
+| Immune system disorders              | Rare        | Anaphylaxis         |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA system organ class                            | Frequency   | Adverse reactions                                                                          |
-|------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders                 | Very common | Lymphadenopathy*                                                                           |
-| Immune system disorders                              | Not known   | Anaphylaxis Hypersensitivity                                                               |
-| Metabolism and nutrition disorders                   | Very common | Decreased appetite†                                                                        |
-| Psychiatric disorders                                | Very common | Irritability/crying†                                                                       |
-| Nervous system disorders                             | Very common | Headache Sleepiness†                                                                       |
-| Nervous system disorders                             | Uncommon    | Dizziness Acute peripheral facial paralysis‡                                               |
-| Nervous system disorders                             | Rare        | Hypoaesthesia Paraesthesia                                                                 |
-| Cardiac disorders                                    | Very rare   | Myocarditis Pericarditis                                                                   |
-| Gastrointestinal disorders                           | Very common | Nausea/vomiting                                                                            |
-| Gastrointestinal disorders                           | Common      | Diarrhoea                                                                                  |
-| Gastrointestinal disorders                           | Uncommon    | Abdominal pain§                                                                            |
-| Skin and subcutaneous tissue disorders               | Common      | Rash                                                                                       |
-| Skin and subcutaneous tissue disorders               | Uncommon    | Urticaria¶                                                                                 |
-| Skin and subcutaneous tissue disorders               | Not known   | Erythema multiforme Mechanical urticaria Chronic urticaria                                 |
-| Musculoskeletal and connective tissue disorders      | Very common | Myalgia Arthralgia                                                                         |
-| Reproductive system and breast disorders             | Not known   | Heavy menstrual bleeding #                                                                 |
-| General disorders and administration site conditions | Very common | Injection site pain Fatigue Chills Pyrexia Injection site swelling Injection site erythema |
-| General disorders and administration site conditions | Common      | Injection site urticaria Injection site rash Delayed injection site reaction ♠             |
-| General disorders and administration site conditions | Uncommon    | Injection site pruritus                                                                    |
-| General disorders and administration site conditions | Rare        | Facial swelling ♥                                                                          |
-| General disorders and administration site conditions | Not known   | Extensive swelling of vaccinated limb                                                      |
-
-<div style=\"page-break-after: always\"></div>
+| MedDRA system organ class                            | Frequency     | Adverse reactions                                                                          |
+|------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------|
+|                                                      | Not known     | Hypersensitivity                                                                           |
+| Metabolism and nutrition disorders                   | Very common   | Decreased appetite†                                                                        |
+| Psychiatric disorders                                | Very common   | Irritability/crying†                                                                       |
+| Nervous system disorders                             | Very common   | Headache Sleepiness†                                                                       |
+|                                                      | Uncommon      | Dizziness                                                                                  |
+|                                                      | Rare          | Acute peripheral facial paralysis‡ Hypoaesthesia Paraesthesia                              |
+| Cardiac disorders                                    | Very rare     | Myocarditis Pericarditis                                                                   |
+| Gastrointestinal disorders                           | Very common   | Nausea/vomiting                                                                            |
+|                                                      | Common        | Diarrhoea                                                                                  |
+|                                                      | Uncommon      | Abdominal pain§                                                                            |
+| Skin and subcutaneous tissue disorders               | Common        | Rash                                                                                       |
+|                                                      | Uncommon Rare | Urticaria¶ Erythema multiforme                                                             |
+|                                                      |               | Mechanical urticaria                                                                       |
+|                                                      | Not known     | Chronic urticaria                                                                          |
+| Musculoskeletal and connective tissue disorders      | Very common   | Myalgia Arthralgia                                                                         |
+| Reproductive system and breast disorders             | Not known     | Heavy menstrual bleeding #                                                                 |
+| General disorders and administration site conditions | Very common   | Injection site pain Fatigue Chills Pyrexia Injection site swelling Injection site erythema |
+|                                                      | Common        | Injection site urticaria Injection site rash Delayed injection site reaction ♠             |
+|                                                      | Uncommon      | Injection site pruritus                                                                    |
+|                                                      | Rare          | Facial swelling ♥                                                                          |
+|                                                      | Not known     | Extensive swelling of vaccinated limb                                                      |
 
 The reactogenicity and safety profile in 343 subjects receiving Spikevax (original), that were seropositive for SARS-CoV-2 at baseline, was comparable to that in subjects seronegative for SARS-CoV-2 at baseline.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Adults (booster dose)
 
@@ -1158,11 +1168,11 @@ The reactogenicity profile of Spikevax XBB.1.5 was similar to that of Spikevax (
 
 The safety, reactogenicity, and immunogenicity of Spikevax (original) were evaluated in a two-part Phase 3b open-label study in adult solid organ transplant (SOT) recipients, including kidney and liver transplants (mRNA-1273-P304). A 100 microgram (0.5 mL) dose was administered, which was the dose authorised at the time of study conduct.
 
-<div style=\"page-break-after: always\"></div>
-
 In Part A, 128 SOT recipients received a third dose of Spikevax (original). In Part B, 159 SOT recipients received a booster dose at least 4 months after the last dose (fourth dose for mRNA vaccines and third dose for non-mRNA vaccines).
 
 Reactogenicity was consistent with the known profile of Spikevax (original). There were no unexpected safety findings.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Description of selected adverse reactions
 
@@ -1192,11 +1202,9 @@ Elasomeran and its variant strains contain mRNA encapsulated in lipid nanopartic
 
 ## Clinical efficacy
 
-Immunogenicity in adults - after Spikevax XBB.1.5 dose (0.5 mL, 50 micrograms) versus an investigational bivalent XBB.1.5/BA.4-5 dose (0.5 mL, 25 micrograms/25 micrograms)
+Immunogenicity in adults - after Spikevax XBB.1.5 dose (0.5 mL, 50 micrograms) versus an investigational bivalent XBB.1.5/BA.4-5 dose (0.5 mL, 25 micrograms/25 micrograms) The safety, reactogenicity and immunogenicity of Spikevax XBB.1.5 50 micrograms and of a bivalent vaccine that contains equal mRNA amounts of Omicron XBB.1.5 and Omicron BA.4-5 spike proteins (25 micrograms XBB.1.5 / 25 micrograms BA.4-5) were evaluated in a Phase 2/3 open-label study in adults. In this study, 50 participants received Spikevax XBB.1.5 and 51 participants received the investigational bivalent XBB.1.5/BA.4-5 (mRNA-1273- P205, Part J). The two groups were randomised 1:1.
 
 <div style=\"page-break-after: always\"></div>
-
-The safety, reactogenicity and immunogenicity of Spikevax XBB.1.5 50 micrograms and of a bivalent vaccine that contains equal mRNA amounts of Omicron XBB.1.5 and Omicron BA.4-5 spike proteins (25 micrograms XBB.1.5 / 25 micrograms BA.4-5) were evaluated in a Phase 2/3 open-label study in adults. In this study, 50 participants received Spikevax XBB.1.5 and 51 participants received the investigational bivalent XBB.1.5/BA.4-5 (mRNA-1273- P205, Part J). The two groups were randomised 1:1.
 
 The vaccines were administered as a fifth dose to adults who previously received a two-dose primary series of any mRNA COVID-19 vaccine, a booster dose of any mRNA COVID-19 vaccine, and a booster dose of any mRNA bivalent Original/Omicron BA.4-5 vaccine.
 
@@ -1216,9 +1224,11 @@ The estimated neutralising antibody GMTs (95% CI) against Omicron BA.4/BA.5 adju
 
 The safety, reactogenicity, and immunogenicity of a Spikevax bivalent Original/Omicron BA.1 booster dose were evaluated in a Phase 2/3 open-label study in participants 18 years of age and older (mRNA-1273-P205). In this study, 437 participants received the Spikevax bivalent Original/Omicron BA.1 50 microgram booster dose, and 377 participants received the Spikevax (original) 50 microgram booster dose.
 
+Study P205 Part G evaluated the safety, reactogenicity and immunogenicity of Spikevax bivalent Original/Omicron BA.1 when administered as a second booster dose to adults who previously received 2 doses of Spikevax (original) (100 microgram) as a primary series and a booster dose of Spikevax (original) (50 micrograms) at least 3 months prior to enrolment. In P205 Part F, study participants received Spikevax (original) (50 micrograms) as a second booster dose and the Part G group serves as
+
 <div style=\"page-break-after: always\"></div>
 
-Study P205 Part G evaluated the safety, reactogenicity and immunogenicity of Spikevax bivalent Original/Omicron BA.1 when administered as a second booster dose to adults who previously received 2 doses of Spikevax (original) (100 microgram) as a primary series and a booster dose of Spikevax (original) (50 micrograms) at least 3 months prior to enrolment. In P205 Part F, study participants received Spikevax (original) (50 micrograms) as a second booster dose and the Part G group serves as a within-study, non-contemporaneous comparator group to the Spikevax bivalent Original/Omicron BA.1 group.
+a within-study, non-contemporaneous comparator group to the Spikevax bivalent Original/Omicron BA.1 group.
 
 In this study, the primary immunogenicity analysis was based on the primary immunogenicity set which includes participants with no evidence of SARS-CoV-2 infection at baseline (pre-booster). In the primary analysis, the original SARS-CoV-2 estimated neutralising antibody geometric mean titre (GMT) and corresponding 95% CI was 6 422.3 (5 990.1, 6 885.7) and 5 286.6 (4 887.1, 5 718.9) 28 days after the Spikevax bivalent Original/Omicron BA.1 and Spikevax (original) booster doses, respectively. These GMTs represent the ratio between response of Spikevax bivalent Original/Omicron BA.1 versus Spikevax (original) against the ancestral SARS-CoV-2 (D614G) strain. The GMR (97.5% CI) was 1.22 (1.08, 1.37) meeting the pre-specified criterion for non-inferiority (lower bound of 97.5% CI ≥0.67).
 
@@ -1236,9 +1246,9 @@ A total of 30 351 subjects were followed for a median of 92 days (range: 1-122) 
 
 The primary efficacy analysis population (referred to as the Per Protocol Set or PPS), included 28 207 subjects who received either Spikevax (original) (n=14 134) or placebo (n=14 073) and had a negative baseline SARS-CoV-2 status. The PPS study population included 47.4% female, 52.6% male, 79.5% White, 9.7% African American, 4.6% Asian, and 6.2% other. 19.7% of participants identified as Hispanic or Latino. The median age of subjects was 53 years (range 18-94). A dosing window of -7 to +14 days for administration of the second dose (scheduled at day 29) was allowed for inclusion in the PPS. 98% of vaccine recipients received the second dose 25 days to 35 days after dose 1 (corresponding to -3 to +7 days around the interval of 28 days).
 
-<div style=\"page-break-after: always\"></div>
-
 COVID-19 cases were confirmed by Reverse Transcriptase Polymerase Chain Reaction (RT PCR) and by a Clinical Adjudication Committee. Vaccine efficacy overall and by key age groups are presented in Table 5.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 5. Vaccine efficacy analysis: confirmed COVID-19 # regardless of severity starting 14 days after the 2 nd dose - PPS
 
@@ -1253,9 +1263,7 @@ Table 5. Vaccine efficacy analysis: confirmed COVID-19 # regardless of severity 
 
 # COVID-19: symptomatic COVID-19 requiring positive RT-PCR result and at least 2 systemic symptoms or 1 respiratory symptom. Cases starting 14 days after the 2 nd dose.
 
-*Vaccine efficacy and 95% confidence interval (CI) from the stratified Cox proportional hazard model
-
-** CI not adjusted for multiplicity. Multiplicity adjusted statistical analyses were carried out in an interim analysis based on less COVID-19 cases, not reported here.
+*Vaccine efficacy and 95% confidence interval (CI) from the stratified Cox proportional hazard model ** CI not adjusted for multiplicity. Multiplicity adjusted statistical analyses were carried out in an interim analysis based on less COVID-19 cases, not reported here.
 
 Among all subjects in the PPS, no cases of severe COVID-19 were reported in the vaccine group compared with 30 of 185 (16%) cases reported in the placebo group. Of the 30 participants with severe disease, 9 were hospitalised, 2 of which were admitted to an intensive care unit. The majority of the remaining severe cases fulfilled only the oxygen saturation (SpO2) criterion for severe disease (≤ 93% on room air).
 
@@ -1265,15 +1273,15 @@ Additionally, subgroup analyses of the primary efficacy endpoint showed similar 
 
 ## Immunogenicity in adults - after booster dose (0.25 mL, 50 micrograms)
 
-The safety, reactogenicity, and immunogenicity of a booster dose of Spikevax (original) were evaluated in a Phase 2, randomised, observer-blind, placebo-controlled, dose-confirmation study in participants 18 years of age and older (NCT04405076). In this study, 198 participants received two doses (0.5 mL, 100 micrograms 1 month apart) of the Spikevax (original) vaccine as primary series. In an open-label phase, 149 of those participants (Per Protocol Set) received a single booster dose (0.25 mL, 50 micrograms) at least 6 months after receiving the second dose in the primary series. A single booster dose (0.25 mL, 50 micrograms) was shown to result in a geometric mean fold rise (GMFR) of 12.99 (95% CI: 11.04, 15.29) in neutralising antibodies from pre-booster compared to
-
-<div style=\"page-break-after: always\"></div>
-
-28 days after the booster dose. The GMFR in neutralising antibodies was 1.53 (95% CI: 1.32, 1.77) when compared 28 days post dose 2 (primary series) to 28 days after the booster dose.
+The safety, reactogenicity, and immunogenicity of a booster dose of Spikevax (original) were evaluated in a Phase 2, randomised, observer-blind, placebo-controlled, dose-confirmation study in participants 18 years of age and older (NCT04405076). In this study, 198 participants received two doses (0.5 mL, 100 micrograms 1 month apart) of the Spikevax (original) vaccine as primary series. In an open-label phase, 149 of those participants (Per Protocol Set) received a single booster dose (0.25 mL, 50 micrograms) at least 6 months after receiving the second dose in the primary series. A single booster dose (0.25 mL, 50 micrograms) was shown to result in a geometric mean fold rise (GMFR) of 12.99 (95% CI: 11.04, 15.29) in neutralising antibodies from pre-booster compared to 28 days after the booster dose. The GMFR in neutralising antibodies was 1.53 (95% CI: 1.32, 1.77) when compared 28 days post dose 2 (primary series) to 28 days after the booster dose.
 
 ## Immunogenicity of a booster dose following primary vaccination with another authorised COVID-19 vaccine in adults
 
-Safety and immunogenicity of a heterologous booster with Spikevax (original) were studied in an investigator-initiated study with 154 participants. The minimum time interval between primary series using a vector-based or RNA-based COVID-19 vaccine and booster injection with Spikevax (original) was 12 weeks (range: 12 weeks to 20.9 weeks). The dose used for boosting in this study was 100 micrograms. Neutralising antibody titres as measured by a pseudovirus neutralisation assay were assessed on Day 1 prior to administration and at Day 15 and Day 29 after the booster dose. A booster response was demonstrated regardless of primary vaccination.
+Safety and immunogenicity of a heterologous booster with Spikevax (original) were studied in an investigator-initiated study with 154 participants. The minimum time interval between primary series using a vector-based or RNA-based COVID-19 vaccine and booster injection with Spikevax (original) was 12 weeks (range: 12 weeks to 20.9 weeks). The dose used for boosting in this study was 100 micrograms. Neutralising antibody titres as measured by a pseudovirus neutralisation assay were
+
+<div style=\"page-break-after: always\"></div>
+
+assessed on Day 1 prior to administration and at Day 15 and Day 29 after the booster dose. A booster response was demonstrated regardless of primary vaccination.
 
 Only short-term immunogenicity data are available; long-term protection and immunological memory are currently unknown.
 
@@ -1291,11 +1299,11 @@ There were zero symptomatic COVID-19 cases in the Spikevax (original) group and 
 
 Immunogenicity in adolescents 12 to 17 years of age - after Spikevax primary vaccination A non-inferiority analysis evaluating SARS-CoV-2 50% neutralising titres and seroresponse rates 28 days after Dose 2 was conducted in the per-protocol immunogenicity subsets of adolescents aged 12 through 17 (n=340) in the adolescent study and in participants aged 18 through 25 (n=296) in the adult study. Subjects had no immunologic or virologic evidence of prior SARS-CoV-2 infection at baseline. The geometric mean ratio (GMR) of the neutralising antibody titres in adolescents 12 to 17 years of age compared to the 18- to 25-year-olds was 1.08 (95% CI: 0.94, 1.24). The difference in seroresponse rate was 0.2% (95% CI: -1.8, 2.4). Non-inferiority criteria (lower bound of the 95% CI for GMR &gt; 0.67 and lower bound of the 95% CI of the seroresponse rate difference &gt; -10%) were met.
 
-Immunogenicity in adolescents 12 years through 17 years of age - after Spikevax (original) booster dose
-
-<div style=\"page-break-after: always\"></div>
+## Immunogenicity in adolescents 12 years through 17 years of age - after Spikevax (original) booster dose
 
 The primary immunogenicity objective of the booster phase of this study was to infer efficacy of the booster dose in participants 12 years through 17 years of age by comparing post-booster immune responses (Day 29) to those obtained post-dose 2 of the primary series (Day 57) in young adults (18 to 25 years of age) in the adult study. Efficacy of the 50 microgram Spikevax booster dose was inferred if post-booster dose immune responses (nAb geometric mean concentration [GMC] and seroresponse rate [SRR]) meet prespecified noninferiority criteria (for both GMC and SRR) compared to those measured following completion of the 100 microgram Spikevax primary series among a subset of young adults (18 to 25 years) in the pivotal adult efficacy study.
+
+<div style=\"page-break-after: always\"></div>
 
 In an open-label phase of this study, participants 12 years through 17 years of age received a single booster dose at least 5 months after completion of the primary series (two doses 1 month apart). The primary immunogenicity analysis population included 257 booster dose participants in this study and a random subset of 295 participants from the young adult study (ages ≥18 to ≤25 years) who previously completed a primary vaccination series of two doses 1 month apart of Spikevax. Both groups of participants included in the analysis population had no serologic or virologic evidence of SARS-CoV-2 infection prior to the first primary series dose and prior to the booster dose, respectively.
 
@@ -1317,13 +1325,13 @@ There were three COVID-19 cases (0.1%) in the Spikevax (original) group and four
 
 ## Immunogenicity in children 6 years through 11 years of age
 
-An analysis evaluating SARS-CoV-2 50% neutralising titres and seroresponse rates 28 days after Dose 2 was conducted in a subset of children aged 6 years through 11 years (n=319) in the paediatric study and in participants aged 18 through 25 years (n=295) in the adult study. Subjects had no immunologic or virologic evidence of prior SARS-CoV-2 infection at baseline. The GMR of the neutralising antibody titres in children 6 years through 11 years of age compared to the 18- to 25-yearolds was 1.239 (95% CI: 1.072, 1.432). The difference in seroresponse rate was 0.1% (95% CI: -1.9,
+An analysis evaluating SARS-CoV-2 50% neutralising titres and seroresponse rates 28 days after Dose 2 was conducted in a subset of children aged 6 years through 11 years (n=319) in the paediatric study and in participants aged 18 through 25 years (n=295) in the adult study. Subjects had no immunologic or virologic evidence of prior SARS-CoV-2 infection at baseline. The GMR of the neutralising antibody titres in children 6 years through 11 years of age compared to the 18- to 25-yearolds was 1.239 (95% CI: 1.072, 1.432). The difference in seroresponse rate was 0.1% (95% CI: -1.9, 2.1). Non-inferiority criteria (lower bound of the 95% CI for GMR &gt; 0.67 and lower bound of the 95% CI of the seroresponse rate difference &gt; -10%) were met.
+
+Immunogenicity in children 6 years through 11 years of age - after Spikevax (original) booster dose The primary immunogenicity objective of the booster phase of this study was to infer efficacy of the booster dose in participants 6 years through 11 years of age by comparing post-booster dose immune responses (Day 29) to those obtained post dose 2 of the primary series (Day 57) in young adults (18 to 25 years of age) in that study, where 93% efficacy was demonstrated. Efficacy of the 25 microgram Spikevax booster dose was inferred if post-booster dose immune responses (neutralising antibody [nAb] geometric mean concentration [GMC] and seroresponse rate [SRR]) meet pre-specified non-
 
 <div style=\"page-break-after: always\"></div>
 
-2.1). Non-inferiority criteria (lower bound of the 95% CI for GMR &gt; 0.67 and lower bound of the 95% CI of the seroresponse rate difference &gt; -10%) were met.
-
-Immunogenicity in children 6 years through 11 years of age - after Spikevax (original) booster dose The primary immunogenicity objective of the booster phase of this study was to infer efficacy of the booster dose in participants 6 years through 11 years of age by comparing post-booster dose immune responses (Day 29) to those obtained post dose 2 of the primary series (Day 57) in young adults (18 to 25 years of age) in that study, where 93% efficacy was demonstrated. Efficacy of the 25 microgram Spikevax booster dose was inferred if post-booster dose immune responses (neutralising antibody [nAb] geometric mean concentration [GMC] and seroresponse rate [SRR]) meet pre-specified noninferiority criteria (for both GMC and SRR) compared to those measured following completion of the 100 microgram Spikevax primary series among a subset of young adults (18 to 25 years) in the pivotal adult efficacy trial.
+inferiority criteria (for both GMC and SRR) compared to those measured following completion of the 100 microgram Spikevax primary series among a subset of young adults (18 to 25 years) in the pivotal adult efficacy trial.
 
 In an open-label phase of this study, participants 6 years through 11 years of age received a single booster dose at least 6 months after completion of the primary series (two doses 1 month apart). The primary immunogenicity analysis population included 95 booster dose participants in 6 years through 11 years and a random subset of 295 participants from the young adult study who received two doses 1 month apart of Spikevax. Both groups of participants included in the analysis population had no serologic or virologic evidence of SARS-CoV-2 infection prior to the first primary series dose and prior to the booster dose, respectively.
 
@@ -1341,15 +1349,13 @@ The median length of follow-up for efficacy post-Dose 2 was 71 days for particip
 
 Vaccine efficacy in this study was observed during the period when the B.1.1.529 (Omicron) variant was the predominant variant in circulation.
 
-Vaccine efficacy (VE) in Part 2 for the Per Protocol Set for Efficacy for COVID-19 cases 14 days or more after dose 2 using the 'COVID-19 P301 case definition' (i.e., the definition employed in the
-
-<div style=\"page-break-after: always\"></div>
-
-pivotal adult efficacy study) was 46.4% (95% CI: 19.8, 63.8) for children 2 years through 5 years of age and 31.5% (95% CI: -27.7, 62.0) for children 6 months through 23 months of age.
+Vaccine efficacy (VE) in Part 2 for the Per Protocol Set for Efficacy for COVID-19 cases 14 days or more after dose 2 using the 'COVID-19 P301 case definition' (i.e., the definition employed in the pivotal adult efficacy study) was 46.4% (95% CI: 19.8, 63.8) for children 2 years through 5 years of age and 31.5% (95% CI: -27.7, 62.0) for children 6 months through 23 months of age.
 
 ## Immunogenicity in children 6 months through 5 years of age
 
 For children aged 2 years through 5 years of age, comparison of Day 57 nAb responses in this Part 2 per-protocol immunogenicity subset (n = 264; 25 micrograms) to those of young adults (n = 295; 100 micrograms) demonstrated a GMR of 1.014 (95% CI: 0.881, 1.167), meeting the noninferiority success criteria (i.e., lower bound of the 95% CI for GMR ≥ 0.67; point estimate ≥ 0.8). The geometric mean fold rise (GMFR) from baseline to Day 57 for these children was 183.3 (95% CI: 164.03, 204.91). The difference in seroresponse rates (SRR) between the children and young adults was -0.4% (95% CI: -2.7%, 1.5%), also meeting the noninferiority success criteria (lower bound of the 95% CI of the SRR difference &gt; -10%).
+
+<div style=\"page-break-after: always\"></div>
 
 For infants and toddlers from 6 months through 23 months of age, comparison of Day 57 nAb responses in this Part 2 per-protocol immunogenicity subset (n = 230; 25 micrograms) to those of young adults (n = 295; 100 micrograms) demonstrated a GMR of 1.280 (95% CI: 1.115, 1.470), meeting the noninferiority success criteria (i.e., lower bound of the 95% CI for GMR ≥ 0.67; point estimate ≥ 0.8). The difference in SRR rates between the infants/toddlers and young adults was 0.7% (95% CI: -1.0%, 2.5%), also meeting the noninferiority success criteria (lower bound of the 95% CI of the seroresponse rate difference &gt; -10%).
 
@@ -1357,25 +1363,23 @@ Accordingly, the prespecified success criteria for the primary immunogenicity ob
 
 Table 6. Summary of geometric mean concentration ratio and seroresponse rate - comparison of individuals 6 months through 23 months of age to participants 18 years through 25 years of age - per-protocol immunogenicity set
 
-|                                   |                      | 6 months through 23 months n=230                    | 18 years through 25 years n=291                     | 6 months through 23 months/ 18 years through 25 years      | 6 months through 23 months/ 18 years through 25 years   |
-|-----------------------------------|----------------------|-----------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------|
-| Assay                             | Time point           | GMC (95%CI)*                                        | GMC (95%CI)*                                        | GMCratio (95% CI) a                                        | Met noninferiority objective (Y/N) b                    |
-| SARS-CoV-2 neutralisation assay c | 28 days after Dose 2 | 1 780.7 (1 606.4, 1 973.8) Seroresponse % (95%CI) d | 1 390.8 (1 269.1, 1 524.2) Seroresponse % (95%CI) d | 1.3 (1.1, 1.5) Difference in seroresponse rate% (95% CI) e | Y                                                       |
-| SARS-CoV-2 neutralisation assay c | 28 days after Dose 2 | 100 (98.4, 100)                                     | 99.3 (97.5, 99.9)                                   | 0.7 (-1.0, 2.5)                                            | Y                                                       |
+|                                   |                      | 6 months through 23 months n=230   | 18 years through 25 years n=291   | 6 months through 23 months/ 18 years through 25 years   | 6 months through 23 months/ 18 years through 25 years   |
+|-----------------------------------|----------------------|------------------------------------|-----------------------------------|---------------------------------------------------------|---------------------------------------------------------|
+| Assay                             | Time point           | GMC (95%CI)*                       | GMC (95%CI)*                      | GMCratio (95% CI) a                                     | Met noninferiority objective (Y/N) b                    |
+| SARS-CoV-2 neutralisation assay c | 28 days after Dose 2 | 1 780.7 (1 606.4, 1 973.8)         | 1 390.8 (1 269.1, 1 524.2)        | 1.3 (1.1, 1.5)                                          | Y                                                       |
+| SARS-CoV-2 neutralisation assay c | 28 days after Dose 2 | 100 (98.4, 100)                    | 99.3 (97.5, 99.9)                 | 0.7 (-1.0, 2.5)                                         | Y                                                       |
 
-GMC = Geometric mean concentration
-
-n = number of participants with non-missing data at baseline and at Day 57
+GMC = Geometric mean concentration n = number of participants with non-missing data at baseline and at Day 57
 
 * Antibody values reported as below the lower limit of quantification (LLOQ) are replaced by 0.5 x LLOQ. Values greater than the upper limit of quantification (ULOQ) are replaced by the ULOQ if actual values are not available.
 - a  The log-transformed antibody levels are analysed using an analysis of covariance (ANCOVA) model with the group variable (participants 6 months through 5 years of age and young adults) as fixed effect. The resulted LS means, difference of LS means, and 95% CI are back transformed to the original scale for presentation.
 - b Noninferiority is declared if the lower bound of the 2-sided 95% CI for the GMC ratio is greater than 0.67, with a point estimate of &gt;0.8 and the lower bound of the 2-sided 95% CI for difference in seroresponse rate is greater than -10%, with a point estimate of &gt;-5%.
-
-<div style=\"page-break-after: always\"></div>
-
 - c  Final geometric mean antibody concentrations (GMC) in AU/mL were determined using SARS-CoV-2 microneutralisation assay.
 - d Seroresponse due to vaccination specific to SARS-CoV-2 RVP neutralising antibody concentration at a subject level is defined in protocol as a change from below LLOQ to equal or above 4 x LLOQ, or at least a 4-fold rise if baseline is equal to or above LLOQ. Seroresponse 95% CI is calculated using the Clopper-Pearson method.
-- e Difference in seroresponse rate 95% CI is calculated using the Miettinen-Nurminen (score) confidence limits.
+
+e Difference in seroresponse rate 95% CI is calculated using the Miettinen-Nurminen (score) confidence limits.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 7. Summary of geometric mean concentration ratio and seroresponse rate - comparison of individuals 2 years through 5 years of age to participants 18 years through 25 years of age per-protocol immunogenicity set
 
@@ -1387,7 +1391,8 @@ Table 7. Summary of geometric mean concentration ratio and seroresponse rate - c
 
 ## GMC = Geometric mean concentration
 
-- n = number of participants with non-missing data at baseline and at Day 57
+n = number of participants with non-missing data at baseline and at Day 57
+
 * Antibody values reported as below the lower limit of quantification (LLOQ) are replaced by 0.5 x LLOQ. Values greater than the upper limit of quantification (ULOQ) are replaced by the ULOQ if actual values are not available.
 - a  The log-transformed antibody levels are analysed using an analysis of covariance (ANCOVA) model with the group variable (participants 6 months through 5 years of age and young adults) as fixed effect. The resulted LS means, difference of LS means, and 95% CI are back transformed to the original scale for presentation.
 - b Noninferiority is declared if the lower bound of the 2-sided 95% CI for the GMC ratio is greater than 0.67, with a point estimate of &gt;0.8 and the lower bound of the 2-sided 95% CI for difference in seroresponse rate is greater than -10%, with a point estimate of &gt;-5%.
@@ -1401,13 +1406,11 @@ The safety and immunogenicity of Spikevax bivalent Original/Omicron BA.1 were ev
 
 ## Immunogenicity in solid organ transplant recipients
 
-The safety, reactogenicity, and immunogenicity of Spikevax (original) were evaluated in a two-part Phase 3b open-label study in adult solid organ transplant (SOT) recipients, including kidney and liver
-
-<div style=\"page-break-after: always\"></div>
-
-transplants (mRNA-1273-P304). A 100 microgram (0.5 mL) dose was administered, which was the dose authorised at the time of study conduct.
+The safety, reactogenicity, and immunogenicity of Spikevax (original) were evaluated in a two-part Phase 3b open-label study in adult solid organ transplant (SOT) recipients, including kidney and liver transplants (mRNA-1273-P304). A 100 microgram (0.5 mL) dose was administered, which was the dose authorised at the time of study conduct.
 
 In Part A, 128 SOT recipients received a third dose of Spikevax (original). In Part B, 159 SOT recipients received a booster dose at least 4 months after the last dose.
+
+<div style=\"page-break-after: always\"></div>
 
 Immunogenicity in the study was assessed by measurement of neutralising antibodies against pseudovirus expressing the ancestral SARS-CoV-2 (D614G) strain at 1 month after Dose 2, Dose 3, booster dose and up to 12 months from the last dose in Part A, and up to 6 months from booster dose in Part B.
 
@@ -1435,11 +1438,11 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 General toxicity studies were conducted in rats (intramuscularly receiving up to 4 doses exceeding the human dose once every 2 weeks). Transient and reversible injection site oedema and erythema and transient and reversible changes in laboratory tests (including increases in eosinophils, activated partial thromboplastin time, and fibrinogen) were observed. Results suggests the toxicity potential to humans is low.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Genotoxicity/carcinogenicity
 
 In vitro and in vivo genotoxicity studies were conducted with the novel lipid component SM-102 of the vaccine. Results suggests the genotoxicity potential to humans is very low. Carcinogenicity studies were not performed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reproductive toxicity
 
@@ -1486,19 +1489,19 @@ Chemical and physical stability has also been demonstrated for unopened vaccine 
 - Upon moving the vaccine to 2°C to 8°C storage, the outer carton should be marked with the new discard date at 2°C to 8°C.
 - If the vaccine is received at 2°C to 8°C, it should be stored at 2°C to 8°C. The expiry date on the outer carton should have been marked with the new discard date at 2°C to 8°C.
 
-<div style=\"page-break-after: always\"></div>
-
 Within this period, up to 36 hours may be used for transportation at 2°C to 8°C (see section 6.4).
 
 Once thawed, the vaccine should not be refrozen.
 
 The unopened vaccine may be stored at 8°C to 25°C up to 24 hours after removal from refrigerated conditions.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Punctured multidose vials (Spikevax LP.8.1 0.1 mg/mL dispersion for injection)
 
 Chemical and physical in-use stability has been demonstrated for 19 hours at 2°C to 25ºC after initial puncture (within the allowed use period of 30 days or 14 days, respectively, at 2°C to 8ºC and including 24 hours at 8°C to 25ºC). From a microbiological point of view, the product should be used immediately. If the vaccine is not used immediately, in-use storage times and conditions are the responsibility of the user.
 
-Spikevax LP.8.1 50 micrograms dispersion for injection in pre-filled syringe and Spikevax LP.8.1 25 micrograms dispersion for injection in pre-filled syringe
+## Spikevax LP.8.1 50 micrograms dispersion for injection in pre-filled syringe and Spikevax LP.8.1 25 micrograms dispersion for injection in pre-filled syringe
 
 9 months at -50ºC to -15ºC.
 
@@ -1519,19 +1522,25 @@ Pre-filled syringes may be stored at 8°C to 25°C up to 24 hours after removal 
 
 ## Spikevax LP.8.1 0.1 mg/mL dispersion for injection (multidose vials)
 
-Store in a freezer at -50ºC to -15ºC. Once thawed, store in a refrigerator (2°C to 8°C) and do not refreeze. Keep the vial in the outer carton in order to protect from light. For storage conditions after thawing, see section 6.3. For storage conditions of the multidose vial after first opening, see section 6.3.
+Store in a freezer at -50ºC to -15ºC.
+
+Once thawed, store in a refrigerator (2°C to 8°C) and do not refreeze.
+
+Keep the vial in the outer carton in order to protect from light.
+
+For storage conditions after thawing, see section 6.3.
+
+For storage conditions of the multidose vial after first opening, see section 6.3.
 
 ## Transportation of thawed multidose vials in liquid state at 2°C to 8°C
 
 If transport at -50°C to -15°C is not feasible, available data support transportation of one or more thawed vials in liquid state for up to 36 hours at 2°C to 8°C (within the 30 days or 14 days shelf life, respectively, at 2°C to 8°C). Once thawed and transported in liquid state at 2°C to 8°C, vials should not be refrozen and should be stored at 2°C to 8°C until use.
 
-<div style=\"page-break-after: always\"></div>
-
 Spikevax LP.8.1 50 micrograms dispersion for injection in pre-filled syringe and Spikevax LP.8.1 25 micrograms dispersion for injection in pre-filled syringe
 
-Store in a freezer at -50ºC to -15ºC. Keep the pre-filled syringe in the outer carton in order to protect from light.
+Store in a freezer at -50ºC to -15ºC. Once thawed, store in a refrigerator (2°C to 8°C) and do not refreeze. Keep the pre-filled syringe in the outer carton in order to protect from light. For storage conditions after thawing, see section 6.3.
 
-Once thawed, store in a refrigerator (2°C to 8°C) and do not refreeze. For storage conditions after thawing, see section 6.3.
+<div style=\"page-break-after: always\"></div>
 
 ## Transportation of thawed pre-filled syringes in liquid state at 2°C to 8°C
 
@@ -1545,7 +1554,7 @@ If transport at -50°C to -15°C is not feasible, available data support transpo
 
 Pack size: 10 multidose vials. Each vial contains 2.5 mL.
 
-Spikevax LP.8.1 50 micrograms dispersion for injection in pre-filled syringe and Spikevax LP.8.1 25 micrograms dispersion for injection in pre-filled syringe
+## Spikevax LP.8.1 50 micrograms dispersion for injection in pre-filled syringe and Spikevax LP.8.1 25 micrograms dispersion for injection in pre-filled syringe
 
 0.25 mL or 0.5 mL dispersion in a pre-filled syringe (cyclic olefin copolymer) with plunger stopper (coated bromobutyl rubber) and a tip cap (bromobutyl rubber, without needle).
 
@@ -1553,7 +1562,9 @@ The pre-filled syringe is packaged in a paper inner tray within a carton or in 1
 
 Pack sizes:
 
-1 pre-filled syringe 10 pre-filled syringes
+1 pre-filled syringe
+
+10 pre-filled syringes
 
 Each pre-filled syringe contains 0.25 mL or 0.5 mL, depending on labelled syringe volume.
 
@@ -1563,7 +1574,7 @@ Not all pack sizes may be marketed.
 
 The vaccine should be prepared and administered by a trained healthcare professional using aseptic techniques to ensure sterility of the dispersion.
 
-Spikevax LP.8.1 0.1 mg/mL dispersion for injection (multidose vials)
+## Spikevax LP.8.1 0.1 mg/mL dispersion for injection (multidose vials)
 
 The vaccine comes ready to use once thawed.
 
@@ -1573,11 +1584,11 @@ Verify that the vial has a blue flip-off cap and the product name is Spikevax LP
 
 Pierce the stopper preferably at a different site each time.
 
-<div style=\"page-break-after: always\"></div>
-
 An additional overfill is included in each multidose vial to ensure that 5 doses of 0.5 mL or a maximum of 10 doses of 0.25 mL can be delivered, depending on the individual's age.
 
 Thaw each multidose vial before use following the instructions below (Table 8).
+
+<div style=\"page-break-after: always\"></div>
 
 Table 8. Thawing instructions for multidose vials before use
 
@@ -1592,11 +1603,13 @@ Table 8. Thawing instructions for multidose vials before use
 
 The vaccine must be administered intramuscularly. The preferred site is the deltoid muscle of the upper arm. Do not administer this vaccine intravascularly, subcutaneously or intradermally.
 
-<div style=\"page-break-after: always\"></div>
+## Multidose vials
 
 Spikevax LP.8.1 50 micrograms dispersion for injection in pre-filled syringe and Spikevax LP.8.1 25 micrograms dispersion for injection in pre-filled syringe
 
 <!-- image -->
+
+<div style=\"page-break-after: always\"></div>
 
 Do not shake or dilute the contents of the pre-filled syringe.
 
@@ -1621,9 +1634,6 @@ Verify that the product name of the pre-filled syringe is Spikevax LP.8.1.
 Handling instructions for the Spikevax LP.8.1 pre-filled syringes
 
 - Do not shake.
-
-<div style=\"page-break-after: always\"></div>
-
 - Pre-filled syringe should be inspected visually for particulate matter and discolouration prior to administration.
 - Spikevax LP.8.1 is a white to off-white dispersion. It may contain white or translucent productrelated particulates. Do not administer if vaccine is discoloured or contains other particulate matter.
 - Needles are not included in the pre-filled syringe cartons.
@@ -1638,6 +1648,8 @@ Handling instructions for the Spikevax LP.8.1 pre-filled syringes
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
+
+<div style=\"page-break-after: always\"></div>
 
 MODERNA BIOTECH SPAIN, S.L. C/ Julián Camarillo nº 31 28037 Madrid Spain
 
@@ -1674,7 +1686,7 @@ Name and address of the manufacturers of the biological active substances
 
 ModernaTX, Inc. One Moderna Way Norwood, MA 02062 USA
 
-Name and address of the manufacturers responsible for batch release
+## Name and address of the manufacturers responsible for batch release
 
 Rovi Pharma Industrial Services, S.A. Paseo de Europa, 50 28703. San Sebastián de los Reyes Madrid Spain
 
@@ -1773,9 +1785,7 @@ EXP (2-8°C)
 
 Store in a freezer at -50°C to -15°C.
 
-Read the package leaflet for the shelf life after first opening and for additional storage information.
-
-Keep the vial in the outer carton in order to protect from light.
+Read the package leaflet for the shelf life after first opening and for additional storage information. Keep the vial in the outer carton in order to protect from light.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1811,18 +1821,15 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
-
-PC SN NN
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+## PC SN NN
 
-MULTIDOSE VIAL LABEL
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS MULTIDOSE VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1900,7 +1907,7 @@ Keep out of sight and reach of children.
 
 EXP (-50°C -≤ -15°C)
 
-<!-- formula-not-decoded -->
+EXP (2-8°C)
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1953,29 +1960,27 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS SINGLE-DOSE VIAL LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+SINGLE-DOSE VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Spikevax JN.1 50 mcg dispersion for injection COVID-19 mRNA Vaccine IM
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 Intramuscular use
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 Single-dose vial 0.5 mL
 
@@ -1986,13 +1991,11 @@ Single-dose vial 0.5 mL
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON (PRE-FILLED SYRINGE)
+## OUTER CARTON (PRE-FILLED SYRINGE)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Spikevax JN.1 50 micrograms dispersion for injection in pre-filled syringe
-
-COVID-19 mRNA Vaccine
+Spikevax JN.1 50 micrograms dispersion for injection in pre-filled syringe COVID-19 mRNA Vaccine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2032,9 +2035,7 @@ Keep out of sight and reach of children.
 
 ## 8. EXPIRY DATE
 
-EXP (-50°C -≤ -15°C)
-
-EXP (2-8°C)
+<!-- formula-not-decoded -->
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -2072,7 +2073,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2089,11 +2090,9 @@ Justification for not including Braille accepted.
 
 PC SN NN
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-## PRE-FILLED SYRINGE LABEL
+PRE-FILLED SYRINGE LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -2107,8 +2106,7 @@ Intramuscular use
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -2116,8 +2114,9 @@ Lot
 
 0.5 mL
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2163,17 +2162,13 @@ Keep out of sight and reach of children.
 
 ## 8. EXPIRY DATE
 
-EXP (-50°C -≤ -15°C)
-
-EXP (2-8°C)
+<!-- formula-not-decoded -->
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a freezer at -50°C to -15°C.
 
-Read the package leaflet for the shelf life after first opening and for additional storage information.
-
-Keep the vial in the outer carton in order to protect from light.
+Read the package leaflet for the shelf life after first opening and for additional storage information. Keep the vial in the outer carton in order to protect from light.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2218,9 +2213,7 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-MULTIDOSE VIAL LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS MULTIDOSE VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -2308,7 +2301,7 @@ Read the package leaflet for the shelf life and for additional storage informati
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2336,7 +2329,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2357,7 +2350,7 @@ PC SN NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-## PRE-FILLED SYRINGE LABEL
+PRE-FILLED SYRINGE LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -2367,22 +2360,19 @@ Spikevax LP.8.1 50 mcg dispersion for injection COVID-19 mRNA Vaccine IM
 
 Intramuscular use
 
-3. EXPIRY DATE
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 0.5 mL
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2444,7 +2434,7 @@ Read the package leaflet for the shelf life and for additional storage informati
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2489,8 +2479,6 @@ Justification for not including Braille accepted.
 
 PC SN NN
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
 PRE-FILLED SYRINGE LABEL
@@ -2507,8 +2495,7 @@ Intramuscular use
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -2516,8 +2503,9 @@ Lot
 
 0.25 mL
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2607,17 +2595,15 @@ The efficacy of Spikevax JN.1 may be lower in people who are immunocompromised. 
 
 ## Pregnancy and breast-feeding
 
-If you are pregnant or think you may be pregnant, tell your doctor, nurse or pharmacist before you receive this vaccine. No data are available yet regarding the use of Spikevax JN.1 during pregnancy. However, a large amount of information from pregnant women vaccinated with Spikevax (original) during the second and third trimester have not shown negative effects on the pregnancy or the newborn baby. While information on effects on pregnancy or the newborn baby after vaccination during the first trimester is limited, no increased risk for miscarriage has been seen. Since differences between the two products are only related to the spike protein in the vaccine, and there are no clinically meaningful differences, Spikevax JN.1 can be used during pregnancy.
+If you are pregnant or think you may be pregnant, tell your doctor, nurse or pharmacist before you receive this vaccine. Spikevax can be used during pregnancy. A large amount of information from pregnant women vaccinated with Spikevax has not shown negative effects on the pregnancy or the newborn baby.
 
-No data are available yet regarding the use of Spikevax JN.1 during breast feeding.
-
-<div style=\"page-break-after: always\"></div>
-
-However, no effects on the breastfed newborn/infant are anticipated. Data from women who were breastfeeding after vaccination with Spikevax (original) have not shown a risk for adverse effects in breastfed newborns/infants. Spikevax JN.1 can be given during breastfeeding.
+Spikevax can be given during breastfeeding.
 
 ## Driving and using machines
 
 Do not drive or use machines if you are feeling unwell after vaccination. Wait until any effects of the vaccine have worn off before you drive or use machines.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Spikevax JN.1 contains sodium
 
@@ -2625,7 +2611,7 @@ This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say 
 
 ## 3. How you will be given Spikevax JN.1
 
-Table 1. Spikevax JN.1 posology
+## Table 1. Spikevax JN.1 posology
 
 | Age(s)                                                                                                           | Dose                                              | Additional recommendations                                                                                                                                                                                 |
 |------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2639,16 +2625,16 @@ Table 1. Spikevax JN.1 posology
 
 Table 2. Spikevax JN.1 posology for immunocompromised individuals
 
-| Age(s)                                                                                | Dose                                         | Additional recommendations                                                                      |
-|---------------------------------------------------------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------------------------|
-| Immunocompromised children 6 months through 4 years of age, without prior vaccination | Two doses of 0.25 mL, given intramuscularly* | A third dose in severely immunocompromised may be given at least 28 days after the second dose. |
+| Age(s)                                                                                        | Dose                                         | Additional recommendations                                                                                                                                                                                            |
+|-----------------------------------------------------------------------------------------------|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Immunocompromised children 6 months through 4 years of age, without prior vaccination         | Two doses of 0.25 mL, given intramuscularly* | A third dose in severely immunocompromised may be given at least 28 days after the second dose.                                                                                                                       |
+| Immunocompromised children 6 months through 4 years of age, with prior vaccination            | One dose of 0.25 mL, given intramuscularly*  | Additional age-appropriate dose(s) may be administered in severely immunocompromised at least 2 months following the most recent dose of a COVID-19 vaccine at the discretion of the healthcare provider, taking into |
+| Immunocompromised children 5 years through 11 years of age, with or without prior vaccination | One dose of 0.25 mL, given intramuscularly*  | Additional age-appropriate dose(s) may be administered in severely immunocompromised at least 2 months following the most recent dose of a COVID-19 vaccine at the discretion of the healthcare provider, taking into |
 
 <div style=\"page-break-after: always\"></div>
 
-| Immunocompromised children 6 months through 4 years of age, with prior vaccination            | One dose of 0.25 mL, given intramuscularly*   | Additional age-appropriate dose(s) may be administered in severely immunocompromised at least 2 months following the most recent dose of a COVID-19 vaccine at the discretion of the healthcare provider, taking into consideration the individual's clinical circumstances.   |
-|-----------------------------------------------------------------------------------------------|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Immunocompromised children 5 years through 11 years of age, with or without prior vaccination | One dose of 0.25 mL, given intramuscularly*   | Additional age-appropriate dose(s) may be administered in severely immunocompromised at least 2 months following the most recent dose of a COVID-19 vaccine at the discretion of the healthcare provider, taking into consideration the individual's clinical circumstances.   |
-| Immunocompromised individuals 12 years of age and older, with or without prior vaccination    | One dose of 0.5 mL, given intramuscularly     | Additional age-appropriate dose(s) may be administered in severely immunocompromised at least 2 months following the most recent dose of a COVID-19 vaccine at the discretion of the healthcare provider, taking into consideration the individual's clinical circumstances.   |
+| Immunocompromised individuals 12 years of age and older, with or without prior vaccination   | One dose of 0.5 mL, given intramuscularly   | consideration the individual's clinical circumstances.   |
+|----------------------------------------------------------------------------------------------|---------------------------------------------|----------------------------------------------------------|
 
 Your doctor, pharmacist or nurse will inject the vaccine into a muscle (intramuscular injection) in your upper arm.
 
@@ -2689,8 +2675,6 @@ Very common (may affect more than 1 in 10 people):
 - -chills
 - -fever
 
-<div style=\"page-break-after: always\"></div>
-
 Common (may affect up to 1 in 10 people):
 
 - -diarrhoea
@@ -2700,27 +2684,30 @@ Common (may affect up to 1 in 10 people):
 Uncommon (may affect up to 1 in 100 people):
 
 - -itchiness at the injection site
+
+<div style=\"page-break-after: always\"></div>
+
 - -dizziness
 - -stomach pain
 - -raised, itchy rash (urticaria) (which may occur from the time of injection and up to approximately two weeks after the injection)
 
-Rare (may affect up to 1 in 1 000 people)
+## Rare (may affect up to 1 in 1 000 people)
 
+- -severe allergic reactions with breathing difficulties (anaphylaxis)
 - -temporary one-sided facial drooping (Bell's palsy)
 - -swelling of the face (swelling of the face may occur in individuals who have had facial cosmetic injections.)
+- -a skin reaction that causes red spots or patches on the skin that may look like a target or
+- 'bulls-eye' with a dark red centre surrounded by paler red rings (erythema multiforme)
 - -decreased sense of touch or sensation
 - -unusual feeling in the skin, such as tingling or a crawling feeling (paraesthesia)
 
-Very rare (may affect up to 1 in 10 000 people)
+## Very rare (may affect up to 1 in 10 000 people)
 
 - -inflammation of the heart muscle (myocarditis) or inflammation of the lining outside the heart (pericarditis) which can result in breathlessness, palpitations or chest pain
 
 ## Frequency not known
 
-- -severe allergic reactions with breathing difficulties (anaphylaxis)
 - -reaction of increased sensitivity or intolerance by the immune system (hypersensitivity)
-- -
-- a skin reaction that causes red spots or patches on the skin that may look like a target or 'bulls-eye' with a dark red centre surrounded by paler red rings (erythema multiforme)
 - -extensive swelling of the vaccinated limb
 - -heavy menstrual bleeding (most cases appeared to be non-serious and temporary in nature)
 - -rash elicited by external stimulus such as firm stroking, scratching, or pressure to the skin (mechanical urticaria)
@@ -2740,13 +2727,13 @@ Information about storage, expiry, and use and handling are described in the sec
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. Contents of the pack and other information
 
 ## What Spikevax JN.1 contains
 
-Table 3. Composition by container type
+## Table 3. Composition by container type
+
+<div style=\"page-break-after: always\"></div>
 
 | Strength                                         | Container               | Dose(s)                                                         | Composition                                                                                                                                                                                                                                                                                                          |
 |--------------------------------------------------|-------------------------|-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2769,13 +2756,13 @@ Pack size: 10 multidose vials. Each vial contains 2.5 mL.
 
 Spikevax JN.1 is a white to off white dispersion supplied in a glass single-dose vial with a rubber stopper and blue flip-off plastic cap with aluminium seal.
 
-<div style=\"page-break-after: always\"></div>
-
 Pack sizes: 1 single-dose vial 10 single-dose vials Each vial contains 0.5 mL.
 
 Not all pack sizes may be marketed.
 
-Spikevax JN.1 50 micrograms dispersion for injection in pre-filled syringe
+<div style=\"page-break-after: always\"></div>
+
+## Spikevax JN.1 50 micrograms dispersion for injection in pre-filled syringe
 
 Spikevax JN.1 is a white to off white dispersion supplied in a pre-filled syringe (cyclic olefin copolymer) with plunger stopper and a tip cap (without needle).
 
@@ -2799,7 +2786,7 @@ Rovi Pharma Industrial Services, S.A. Calle Julián Camarillo n°35 28037 Madrid
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
-## België/Belgique/Belgien
+België/Belgique/Belgien
 
 Tél/Tel: 0800 81 460
 
@@ -2823,19 +2810,19 @@ Magyarország
 
 Tel: 06 809 87488
 
-## Danmark
+Danmark
 
 Tlf.: 80 81 06 53
 
-## Malta
+Malta
 
 Tel: 8006 5066
 
-## Deutschland
+Deutschland
 
 Tel: 0800 100 9632
 
-## Nederland
+Nederland
 
 Tel: 0800 409 0001
 
@@ -2859,15 +2846,15 @@ Tel: 0800 909636
 
 Tel: 900 031 015
 
-## Polska
+Polska
 
 Tel: 800 702 406
 
-## France
+France
 
 Tél: 0805 54 30 16
 
-## Portugal
+Portugal
 
 Tel: 800 210 256
 
@@ -2875,15 +2862,15 @@ Tel: 800 210 256
 
 Tel: 08009614
 
-## Ireland
+Ireland
 
 Tel: 1800 800 354
 
-## România
+România
 
 Tel: 0800 400 625
 
-## Slovenija
+Slovenija
 
 Tel: 080 083082
 
@@ -2895,25 +2882,25 @@ Sími: 800 4382
 
 Tel: 0800 191 647
 
-## Italia
+Italia
 
 Tel: 800 928 007
 
-## Suomi/Finland
+Suomi/Finland
 
 Puh/Tel: 0800 774198
 
-## Κύπρος
+Κύπρος
 
 Τηλ:
 
 80091080
 
-## Sverige
+Sverige
 
 Tel: 020 10 92 13
 
-## Latvija
+Latvija
 
 Tel: 80 005 898
 
@@ -2933,13 +2920,13 @@ This leaflet is available in all EU/EEA languages on the European Medicines Agen
 
 ------------------------------------------------------------------------------------------------------------------------
 
-<div style=\"page-break-after: always\"></div>
-
 ## The following information is intended for healthcare professionals only:
 
 ## Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+<div style=\"page-break-after: always\"></div>
 
 Spikevax JN.1 should be administered by a trained healthcare professional.
 
@@ -2980,9 +2967,9 @@ Within this period, up to 36 hours may be used for transportation at 2°C to 8°
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 Spikevax JN.1 50 micrograms dispersion for injection (single-dose vials)
+
+<!-- image -->
 
 The vaccine comes ready to use once thawed.
 
@@ -3190,17 +3177,15 @@ The efficacy of Spikevax LP.8.1 may be lower in people who are immunocompromised
 
 ## Pregnancy and breast-feeding
 
-If you are pregnant or think you may be pregnant, tell your doctor, nurse or pharmacist before you receive this vaccine. No data are available yet regarding the use of Spikevax LP.8.1 during pregnancy. However, a large amount of information from pregnant women vaccinated with Spikevax (original) during the second and third trimester have not shown negative effects on the pregnancy or the newborn baby. While information on effects on pregnancy or the newborn baby after vaccination during the first trimester is limited, no increased risk for miscarriage has been seen. Since differences between the two products are only related to the spike protein in the vaccine, and there are no clinically meaningful differences, Spikevax LP.8.1 can be used during pregnancy.
+If you are pregnant or think you may be pregnant, tell your doctor, nurse or pharmacist before you receive this vaccine. Spikevax can be used during pregnancy. A large amount of information from pregnant women vaccinated with Spikevax has not shown negative effects on the pregnancy or the newborn baby.
 
-No data are available yet regarding the use of Spikevax LP.8.1 during breast feeding.
-
-<div style=\"page-break-after: always\"></div>
-
-However, no effects on the breastfed newborn/infant are anticipated. Data from women who were breastfeeding after vaccination with Spikevax (original) have not shown a risk for adverse effects in breastfed newborns/infants. Spikevax LP.8.1 can be given during breastfeeding.
+Spikevax can be given during breastfeeding.
 
 ## Driving and using machines
 
 Do not drive or use machines if you are feeling unwell after vaccination. Wait until any effects of the vaccine have worn off before you drive or use machines.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Spikevax LP.8.1 contains sodium
 
@@ -3208,7 +3193,7 @@ This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say 
 
 ## 3. How you will be given Spikevax LP.8.1
 
-Table 1. Spikevax LP.8.1 posology
+## Table 1. Spikevax LP.8.1 posology
 
 | Age(s)                                                                                                           | Dose                                              | Additional recommendations                                                                                                                                                                                   |
 |------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3218,19 +3203,20 @@ Table 1. Spikevax LP.8.1 posology
 | Individuals 12 years of age and older, with or without prior vaccination                                         | One dose of 0.5 mL, given intramuscularly         | Spikevax LP.8.1 should be administered at least 3 months after the most recent dose of a COVID-19 vaccine.                                                                                                   |
 | Individuals 65 years of age and older                                                                            | One dose of 0.5 mL, given intramuscularly         | One additional dose may be administered at least 3 months after the most recent dose of a COVID-19 vaccine.                                                                                                  |
 
+* Do not use the 0.5 mL pre-filled syringe to deliver a partial volume of 0.25 mL.
+
 Table 2. Spikevax LP.8.1 posology for immunocompromised individuals
 
-| Age(s)                                                                                | Dose                                         | Additional recommendations                        |
-|---------------------------------------------------------------------------------------|----------------------------------------------|---------------------------------------------------|
-| Immunocompromised children 6 months through 4 years of age, without prior vaccination | Two doses of 0.25 mL, given intramuscularly* | A third dose in severely immunocompromised may be |
+| Age(s)                                                                                | Dose                                         | Additional recommendations                                                                      |
+|---------------------------------------------------------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------------------------|
+| Immunocompromised children 6 months through 4 years of age, without prior vaccination | Two doses of 0.25 mL, given intramuscularly* | A third dose in severely immunocompromised may be given at least 28 days after the second dose. |
+| Immunocompromised children 6 months through 4 years of age, with prior vaccination    | One dose of 0.25 mL, given intramuscularly*  | Additional age-appropriate dose(s) may be administered in severely immunocompromised            |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                                                               |                                             | given at least 28 days after the second dose.                                                                                                                                                                                                                                |
-|-----------------------------------------------------------------------------------------------|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Immunocompromised children 6 months through 4 years of age, with prior vaccination            | One dose of 0.25 mL, given intramuscularly* | Additional age-appropriate dose(s) may be administered in severely immunocompromised at least 2 months following the most recent dose of a COVID-19 vaccine at the discretion of the healthcare provider, taking into consideration the individual's clinical circumstances. |
-| Immunocompromised children 5 years through 11 years of age, with or without prior vaccination | One dose of 0.25 mL, given intramuscularly* | Additional age-appropriate dose(s) may be administered in severely immunocompromised at least 2 months following the most recent dose of a COVID-19 vaccine at the discretion of the healthcare provider, taking into consideration the individual's clinical circumstances. |
-| Immunocompromised individuals 12 years of age and older, with or without prior vaccination    | One dose of 0.5 mL, given intramuscularly   | Additional age-appropriate dose(s) may be administered in severely immunocompromised at least 2 months following the most recent dose of a COVID-19 vaccine at the discretion of the healthcare provider, taking into consideration the individual's clinical circumstances. |
+| Immunocompromised children 5 years through 11 years of age, with or without prior vaccination   | One dose of 0.25 mL, given intramuscularly*   | at least 2 months following the most recent dose of a COVID-19 vaccine at the discretion of the healthcare provider, taking into consideration the individual's clinical circumstances.   |
+|-------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Immunocompromised individuals 12 years of age and older, with or without prior vaccination      | One dose of 0.5 mL, given intramuscularly     | at least 2 months following the most recent dose of a COVID-19 vaccine at the discretion of the healthcare provider, taking into consideration the individual's clinical circumstances.   |
 
 Your doctor, pharmacist or nurse will inject the vaccine into a muscle (intramuscular injection) in your upper arm.
 
@@ -3268,9 +3254,6 @@ Very common (may affect more than 1 in 10 people):
 - -pain or swelling at the injection site
 - -redness at the injection site (some of which may occur approximately 9 to 11 days after the injection)
 - -feeling very tired
-
-<div style=\"page-break-after: always\"></div>
-
 - -chills
 - -fever
 
@@ -3278,6 +3261,9 @@ Common (may affect up to 1 in 10 people):
 
 - -diarrhoea
 - -rash
+
+<div style=\"page-break-after: always\"></div>
+
 - -rash or hives at the injection site (some of which may occur approximately 9 to 11 days after the injection)
 
 ## Uncommon (may affect up to 1 in 100 people):
@@ -3287,10 +3273,12 @@ Common (may affect up to 1 in 10 people):
 - -stomach pain
 - -raised, itchy rash (urticaria) (which may occur from the time of injection and up to approximately two weeks after the injection)
 
-Rare (may affect up to 1 in 1 000 people)
+## Rare (may affect up to 1 in 1 000 people)
 
+- -severe allergic reactions with breathing difficulties (anaphylaxis)
 - -temporary one-sided facial drooping (Bell's palsy)
 - -swelling of the face (swelling of the face may occur in individuals who have had facial cosmetic injections.)
+- -a skin reaction that causes red spots or patches on the skin that may look like a target or 'bulls-eye' with a dark red centre surrounded by paler red rings (erythema multiforme)
 - -decreased sense of touch or sensation
 - -unusual feeling in the skin, such as tingling or a crawling feeling (paraesthesia)
 
@@ -3300,12 +3288,8 @@ Rare (may affect up to 1 in 1 000 people)
 
 ## Frequency not known
 
-- -severe allergic reactions with breathing difficulties (anaphylaxis)
 - -reaction of increased sensitivity or intolerance by the immune system (hypersensitivity)
-- -a skin reaction that causes red spots or patches on the skin that may look like a target or
-- 'bulls-eye' with a dark red centre surrounded by paler red rings (erythema multiforme)
-- -
-- extensive swelling of the vaccinated limb
+- -extensive swelling of the vaccinated limb
 - -heavy menstrual bleeding (most cases appeared to be non-serious and temporary in nature)
 - -rash elicited by external stimulus such as firm stroking, scratching, or pressure to the skin (mechanical urticaria)
 - -raised, itchy rash with a duration of more than six weeks (chronic urticaria)
@@ -3324,11 +3308,11 @@ Information about storage, expiry, and use and handling are described in the sec
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. Contents of the pack and other information
 
 ## What Spikevax LP.8.1 contains
+
+<div style=\"page-break-after: always\"></div>
 
 Table 3. Composition by container type
 
@@ -3344,15 +3328,15 @@ The other ingredients are SM-102 (heptadecan-9-yl 8-{(2-hydroxyethyl)[6-oxo-6(un
 
 ## What Spikevax LP.8.1 looks like and contents of the pack
 
-Spikevax LP.8.1 0.1 mg/mL dispersion for injection
-
-<div style=\"page-break-after: always\"></div>
+## Spikevax LP.8.1 0.1 mg/mL dispersion for injection
 
 Spikevax LP.8.1 is a white to off white dispersion supplied in a glass multidose vial with a rubber stopper and blue flip-off plastic cap with aluminium seal.
 
 Pack size: 10 multidose vials. Each vial contains 2.5 mL.
 
 Spikevax LP.8.1 50 micrograms dispersion for injection in pre-filled syringe and Spikevax LP.8.1 25 micrograms dispersion for injection in pre-filled syringe
+
+<div style=\"page-break-after: always\"></div>
 
 Spikevax LP.8.1 is a white to off white dispersion supplied in a pre-filled syringe (cyclic olefin copolymer) with plunger stopper and a tip cap (without needle).
 
@@ -3376,7 +3360,7 @@ Rovi Pharma Industrial Services, S.A. Calle Julián Camarillo n°35 28037 Madrid
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
-België/Belgique/Belgien
+## België/Belgique/Belgien
 
 Tél/Tel: 0800 81 460
 
@@ -3384,7 +3368,7 @@ Lietuva
 
 Tel: 88 003 1114
 
-България
+## България
 
 Teл: 0800 115 4477
 
@@ -3392,11 +3376,11 @@ Luxembourg/Luxemburg
 
 Tél/Tel: 800 85 499
 
-Česká republika
+## Česká republika
 
 Tel: 800 050 719
 
-Magyarország
+## Magyarország
 
 Tel: 06 809 87488
 
@@ -3404,7 +3388,7 @@ Tel: 06 809 87488
 
 Tlf.: 80 81 06 53
 
-## Malta
+Malta
 
 Tel: 8006 5066
 
@@ -3412,63 +3396,63 @@ Tel: 8006 5066
 
 Tel: 0800 100 9632
 
-## Nederland
+Nederland
 
 Tel: 0800 409 0001
 
-## Eesti
+Eesti
+
+Norge
 
 Tel: 800 0044 702
 
-## Norge
-
 Tlf: 800 31 401
 
-## Ελλάδα
+Ελλάδα
 
 Τηλ: +30 800 000 0030
 
-## Österreich
+Österreich
 
 Tel: 0800 909636
 
-## España
+España
 
 Tel: 900 031 015
 
-## Polska
+Polska
 
 Tel: 800 702 406
 
-## France
+France
 
 Tél: 0805 54 30 16
 
-## Portugal
+Portugal
 
 Tel: 800 210 256
 
-## Hrvatska
+Hrvatska
 
 Tel: 08009614
 
-## Ireland
+Ireland
 
 Tel: 1800 800 354
 
-## România
+România
 
 Tel: 0800 400 625
 
-## Slovenija
+Slovenija
 
 Tel: 080 083082
 
-## Ísland
+Ísland
 
 Sími: 800 4382
 
-## Slovenská republika
+Slovenská republika
 
 Tel: 0800 191 647
 
@@ -3476,13 +3460,15 @@ Italia
 
 Tel: 800 928 007
 
-## Suomi/Finland
+Suomi/Finland
 
 Puh/Tel: 0800 774198
 
-## Κύπρος
+Κύπρος
 
-Τηλ: 80091080
+Τηλ:
+
+80091080
 
 Sverige
 
@@ -3490,9 +3476,9 @@ Tel: 020 10 92 13
 
 Latvija
 
-Tel: 80 005 898
-
 <div style=\"page-break-after: always\"></div>
+
+Tel: 80 005 898
 
 ## This leaflet was last revised in
 
@@ -3508,8 +3494,6 @@ This leaflet is available in all EU/EEA languages on the European Medicines Agen
 
 ------------------------------------------------------------------------------------------------------------------------
 
-<div style=\"page-break-after: always\"></div>
-
 ## The following information is intended for healthcare professionals only:
 
 ## Traceability
@@ -3517,6 +3501,8 @@ This leaflet is available in all EU/EEA languages on the European Medicines Agen
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
 Spikevax LP.8.1 should be administered by a trained healthcare professional.
+
+<div style=\"page-break-after: always\"></div>
 
 The vaccine comes ready to use once thawed.
 
@@ -3589,7 +3575,7 @@ Pre-filled syringe transport duration is limited by the shipper qualification du
 
 Verify that the product name of the pre-filled syringe is Spikevax LP.8.1.
 
-Handling instructions for the pre-filled syringes
+## Handling instructions for the pre-filled syringes
 
 - Do not shake.
 - Pre-filled syringe should be inspected visually for particulate matter and discolouration prior to administration.

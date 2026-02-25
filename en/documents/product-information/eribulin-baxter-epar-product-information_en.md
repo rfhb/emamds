@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-12-02 17:30:56
+document_datetime: 2026-02-24 15:03:54
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/eribulin-baxter-epar-product-information_en.pdf
 document_name: eribulin-baxter-epar-product-information_en.pdf
 version: success
-processing_time: 11.4889457
-conversion_datetime: 2025-12-27 14:55:41.771003
+processing_time: 13.4687571
+conversion_datetime: 2026-02-25 11:31:48.300938
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -85,12 +85,12 @@ Dose reduction recommendations for retreatment are shown in the following table.
 | Adverse reaction after previous eribulin administration                                                         | Recommended dose of eribulin   |
 |-----------------------------------------------------------------------------------------------------------------|--------------------------------|
 | Haematological:                                                                                                 |                                |
-| ANC < 0.5 x 10 9 /l lasting more than 7 days ANC < 1 x 10 9 /l neutropenia complicated by fever or infection    | 0.97 mg/m 2                    |
-| Platelets < 25 x 10 9 /l thrombocytopenia                                                                       | 0.97 mg/m 2                    |
+| ANC < 0.5 x 10 9 /l lasting more than 7 days ANC < 1 x 10 9 /l neutropenia complicated by fever or infection 9  | 0.97 mg/m 2                    |
+| Platelets < 25 x 10 /l thrombocytopenia                                                                         | 0.97 mg/m 2                    |
 | Platelets < 50 x 10 9 /l thrombocytopenia complicated by haemorrhage or requiring blood or platelet transfusion | 0.97 mg/m 2                    |
 | Non-haematological:                                                                                             | 0.97 mg/m 2                    |
-| Any Grade 3 or 4 in the previous cycle                                                                          |                                |
-| Reoccurrence of any haematological or non-haematological adverse reactions as specified above                   |                                |
+| Any Grade 3 or 4 in the previous cycle                                                                          | 0.97 mg/m 2                    |
+| Reoccurrence of any haematological or non-haematological adverse reactions as specified above                   | 0.97 mg/m 2                    |
 | Despite reduction to 0.97 mg/m 2                                                                                | 0.62 mg/m 2                    |
 | Despite reduction to 0.62 mg/m 2                                                                                | Consider discontinuation       |
 
@@ -217,19 +217,19 @@ Within each frequency grouping, undesirable effects are presented in order of de
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                              | Adverse Reactions - all Grades                                                                  | Adverse Reactions - all Grades                                                                                                                                                  | Adverse Reactions - all Grades                                                                          | Adverse Reactions - all Grades             |
-|-------------------------------------------------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|--------------------------------------------|
-|                                                 | Very Common (Frequency %)                                                                       | Common (Frequency %)                                                                                                                                                            | Uncommon (Frequency %)                                                                                  | Rare or not known                          |
-| Infections and infestations                     |                                                                                                 | Urinary tract infection (8.5%) (G3/4: 0.7%) Pneumonia (1.6%) (G3/4: 1.0%) Oral candidiasis Oral herpes Upper respiratory tract infection Nasopharyngitis Rhinitis Herpes zoster | Sepsis (0.5%) (G3/4: 0.5%) a Neutropenic sepsis (0.2%) (G3/4: 0.2%) a Septic Shock (0.2%) (G3/4:0.2%) a |                                            |
-| Blood and lymphatic system disorders            | Neutropenia (53.6%) (G3/4: 46.0%) Leukopenia (27.9%) (G3/4: 17.0%) Anaemia (21.8%) (G3/4: 3.0%) | Lymphopenia (5.7%) (G3/4: 2.1%) Febrile neutropenia (4.5%) (G3/4: 4.4%) a Thrombocytopenia (4.2%) (G3/4: 0.7%)                                                                  |                                                                                                         | * Disseminated intravascular coagulation b |
-| Metabolism and nutrition disorders              | Decreased appetite (22.5%) (G3/4: 0.7%) d                                                       | Hypokalaemia (6.8%) (G3/4: 2.0%) Hypomagnesaemia (2.8%) (G3/4: 0.3%) Dehydration (2.8 %) (G3/4: 0.5%) d Hyperglycaemia Hypophosphataemia Hypocalcaemia                          |                                                                                                         |                                            |
-| Psychiatric disorders                           |                                                                                                 | Insomnia Depression                                                                                                                                                             |                                                                                                         |                                            |
-| Nervous system disorders                        | Peripheral neuropathy c (35.9%) (G3/4: 7.3%) Headache (17.5%) (G3/4: 0.7%)                      | Dysgeusia Dizziness (9.0%) (G3/4: 0.4%) d Hypoaesthesia Lethargy Neurotoxicity                                                                                                  |                                                                                                         |                                            |
-| Eye disorders                                   |                                                                                                 | Lacrimation increased(5.8%) (G3/4: 0.1%) d Conjunctivitis                                                                                                                       |                                                                                                         |                                            |
-| Ear and labyrinth disorders                     |                                                                                                 | Vertigo Tinnitus                                                                                                                                                                |                                                                                                         |                                            |
-| Cardiac                                         |                                                                                                 | Tachycardia                                                                                                                                                                     |                                                                                                         |                                            |
-| disorders Vascular disorders                    |                                                                                                 | Hot flush Pulmonary embolism (1.3%) (G3/4: 1.1%) a                                                                                                                              | Deep vein thrombosis                                                                                    |                                            |
-| Respiratory, thoracic and mediastinal disorders | Dyspnoea (15.2%) a (G3/4: 3.5%) a Cough (15.0%) (G3/4: 0.5%) d                                  | Oropharyngeal pain Epistaxis Rhinorrhoea                                                                                                                                        | Interstitial lung disease (0.2%) (G3/4: 0.1%)                                                           |                                            |
+| System Organ Class                              | Adverse Reactions - all Grades                                                                  | Adverse Reactions - all Grades                                                                                                                                                  | Adverse Reactions - all Grades                                                                         | Adverse Reactions - all Grades             |
+|-------------------------------------------------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------|
+|                                                 | Very Common (Frequency %)                                                                       | Common (Frequency %)                                                                                                                                                            | Uncommon (Frequency %)                                                                                 | Rare or not known                          |
+| Infections and infestations                     |                                                                                                 | Urinary tract infection (8.5%) (G3/4: 0.7%) Pneumonia (1.6%) (G3/4: 1.0%) Oral candidiasis Oral herpes Upper respiratory tract infection Nasopharyngitis Rhinitis Herpes zoster | Sepsis (0.5%)(G3/4: 0.5%) a Neutropenic sepsis (0.2%) (G3/4: 0.2%) a Septic Shock (0.2%) (G3/4:0.2%) a |                                            |
+| Blood and lymphatic system disorders            | Neutropenia (53.6%) (G3/4: 46.0%) Leukopenia (27.9%) (G3/4: 17.0%) Anaemia (21.8%) (G3/4: 3.0%) | Lymphopenia (5.7%) (G3/4: 2.1%) Febrile neutropenia (4.5%) (G3/4: 4.4%) a Thrombocytopenia (4.2%) (G3/4: 0.7%)                                                                  |                                                                                                        | * Disseminated intravascular coagulation b |
+| Metabolism and nutrition disorders              | Decreased appetite (22.5%) (G3/4: 0.7%) d                                                       | Hypokalaemia (6.8%) (G3/4: 2.0%) Hypomagnesaemia (2.8%) (G3/4: 0.3%) Dehydration (2.8 %) (G3/4: 0.5%) d Hyperglycaemia Hypophosphataemia Hypocalcaemia                          |                                                                                                        |                                            |
+| Psychiatric disorders                           |                                                                                                 | Insomnia Depression                                                                                                                                                             |                                                                                                        |                                            |
+| Nervous system disorders                        | Peripheral neuropathy c (35.9%) (G3/4: 7.3%) Headache (17.5%) (G3/4: 0.7%)                      | Dysgeusia Dizziness (9.0%) (G3/4: 0.4%) d Hypoaesthesia Lethargy Neurotoxicity                                                                                                  |                                                                                                        |                                            |
+| Eye disorders                                   |                                                                                                 | Lacrimation increased(5.8%) (G3/4: 0.1%) d Conjunctivitis                                                                                                                       |                                                                                                        |                                            |
+| Ear and labyrinth disorders                     |                                                                                                 | Vertigo Tinnitus                                                                                                                                                                |                                                                                                        |                                            |
+| Cardiac disorders                               |                                                                                                 | Tachycardia                                                                                                                                                                     |                                                                                                        |                                            |
+| Vascular disorders                              |                                                                                                 | Hot flush Pulmonary embolism (1.3%) (G3/4: 1.1%) a                                                                                                                              | Deep vein thrombosis                                                                                   |                                            |
+| Respiratory, thoracic and mediastinal disorders | Dyspnoea (15.2%) a (G3/4: 3.5%) a Cough (15.0%) (G3/4: 0.5%) d                                  | Oropharyngeal pain Epistaxis Rhinorrhoea                                                                                                                                        | Interstitial lung disease (0.2%) (G3/4: 0.1%)                                                          |                                            |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -250,7 +250,7 @@ b From spontaneous reporting
 
 <div style=\"page-break-after: always\"></div>
 
-- c Includes preferred terms of peripheral  neuropathy,  peripheral  motor  neuropathy,  polyneuropathy, paraesthesia, peripheral sensory neuropathy, peripheral  sensorimotor neuropathy and demyelinating polyneuropathy
+- c Includes preferred terms of peripheral neuropathy, peripheral  motor  neuropathy,  polyneuropathy, paraesthesia, peripheral sensory neuropathy, peripheral  sensorimotor neuropathy and demyelinating polyneuropathy
 - d No Grade 4 events
 * Rare
 - ** Frequency not known
@@ -369,7 +369,7 @@ The second Phase 3 study in earlier line metastatic breast cancer, Study 301, wa
 
 <div style=\"page-break-after: always\"></div>
 
-Study 301 - Overall Survival (ITT Population)
+Study301-OverallSurvival(ITTPopulation)
 
 <!-- image -->
 
@@ -425,11 +425,11 @@ Treatment effects of eribulin were limited to patients with liposarcoma (45% ded
 
 <div style=\"page-break-after: always\"></div>
 
-Study 309 - Overall Survival in the Liposarcoma Subgroup
+Study309-Overall Survival in the LiposarcomaSubgroup
 
 <!-- image -->
 
-Study 309 -- Progression Free Survival in the Liposarcoma Subgroup
+Study 309 -Progression Free Survival in the Liposarcoma Subgroup
 
 <!-- image -->
 
@@ -499,7 +499,7 @@ No carcinogenicity studies have been conducted with eribulin.
 
 <div style=\"page-break-after: always\"></div>
 
-A fertility study was not conducted with eribulin, but based on non-clinical findings in repeated-dose studies where testicular toxicity was observed in both rats (hypocellularity of seminiferous epithelium with hypospermia/aspermia) and dogs, male fertility may be compromised by treatment with eribulin. An embryofoetal development study in rat confirmed the developmental toxicity and teratogenic potential of eribulin. Pregnant rats were treated with eribulin mesilate equivalent to 0.009, 0.027, 0.088 and 0.133 mg/kg eribulin at gestation days 8, 10 and 12. Dose related increased number of resorptions and decreased foetal weight were observed at doses ≥ 0.088 mg/kg a nd increased incidence of malformations (absence of lower jaw, tongue, stomach and spleen) was recorded at 0.133 mg/kg.
+A fertility study was not conducted with eribulin, but based on non-clinical findings in repeated-dose studies where testicular toxicity was observed in both rats (hypocellularity of seminiferous epithelium with hypospermia/aspermia) and dogs, male fertility may be compromised by treatment with eribulin. An embryofoetal development study in rat confirmed the developmental toxicity and teratogenic potential of eribulin. Pregnant rats were treated with eribulin mesilate equivalent to 0.009, 0.027, 0.088 and 0.133 mg/kg eribulin at gestation days 8, 10 and 12. Dose related increased number of resorptions and decreased foetal weight were observed at doses ≥ 0.088 mg/kg and increased incidence of malformations (absence of lower jaw, tongue, stomach and spleen) was recorded at 0.133 mg/kg.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -561,6 +561,8 @@ EU/1/24/1819/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
+Date of first authorisation: 27 June 2024
+
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
@@ -570,7 +572,8 @@ Detailed information on this medicinal product is available on the website of th
 ## ANNEX II
 
 - A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
@@ -582,7 +585,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-Baxter Oncology GmbH Kantstrasse 2 33790 Halle/Westfalen Germany
+Simtra Deutschland GmbH Kantstrasse 2 33790 Halle/Westfalen Germany
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -663,46 +666,35 @@ EXP:
 
 Store below 30°C.
 
-<div style=\"page-break-after: always\"></div>
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
-
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Baxter Holding B.V. Kobaltweg 49, 3542 CE
 
 Utrecht, Netherlands
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 ## EU/1/24/1819/001
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot:
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC: SN:
 
@@ -710,17 +702,19 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| 2 mL vial                                                          |
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| 2 mLvial                                                         |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Eribulin Baxter 0.44 mg/mL solution for injection eribulin IV
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -732,8 +726,8 @@ EXP:
 
 Lot:
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 Contains 0.88 mg eribulin in 2 mL
 
@@ -805,7 +799,7 @@ Tell your doctor if you are using, have recently used or might use any other med
 
 ## Pregnancy, breast-feeding and fertility
 
-Eribulin Baxter may cause serious birth defects and should not be used if you are pregnant unless it is thought clearly necessary after carefully considering all the risk to you and the baby. It may also cause future permanent fertility problems in men if they take it and they should discuss this with their doctor before starting treatment. Women of childbearing potential must use highly effective contraception during treatment with Eribulin Baxter and for 7 months after treatment.
+Eribulin Baxter may cause serious birth defects and should not be used if you are pregnant unless it is thought clearly necessary after carefully considering all the risk to you and the baby. It may also cause future permanent fertility problems in men if they take it and they should discuss this with their doctor before starting treatment. Women of childbearing potentialmust use highly effective contraception during treatment with Eribulin Baxter and for 7 months after treatment.
 
 Eribulin Baxter must not be used during breast-feeding because of the possibility of risk to the child.
 
@@ -861,7 +855,7 @@ Very common side effects (may affect more than 1 in 10 people) are:
 - -Headache
 - -Hair loss
 
-Common side effects (may affect up to 1 in 10 people) are:
+## Common side effects (may affect up to 1 in 10 people) are:
 
 - -Decrease in the number of platelets (which may result in bruising or taking longer to stop bleeding)
 - -Infection with fever, pneumonia, chills
@@ -881,7 +875,7 @@ Common side effects (may affect up to 1 in 10 people) are:
 - -Shingles
 - -Swelling of the skin and numbness of the hands and feet
 
-Uncommon side effects (may affect up to 1 in 100 people) are:
+## Uncommon side effects (may affect up to 1 in 100 people) are:
 
 - -Blood clots
 - -Abnormal liver function tests (hepatoxicity)
@@ -943,7 +937,7 @@ Baxter Holding B.V. Kobaltweg 49 3542 CE, Utrecht
 
 ## Manufacturer
 
-Baxter Oncology GmbH Kantstraße 2 33790 Halle/Westfalen Germany
+Simtra Deutschland GmbH Kantstraße 2 33790 Halle/Westfalen Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -975,9 +969,9 @@ Baxter Deutschland GmbH Tel: +49 (0)89 31701-0 info\\_de@baxter.com
 
 ## Eesti
 
-OÜ Baxter Estonia
+Baxter Holding B.V.
 
-Tel: +372 651 5120
+Tel.: +31 (0)30 2488 911
 
 ## Ελλάδα
 
@@ -1003,9 +997,9 @@ Tel: +385 1 6610314
 
 ## Lietuva
 
-UAB 'Baxter Lithuania'
+Baxter Holding B.V.
 
-Tel: +37052527100
+Tel.: +31 (0)30 2488 911
 
 ## Luxembourg/Luxemburg
 
@@ -1019,15 +1013,11 @@ Tel: +36 1 202 1980
 
 ## Malta
 
-Baxter Holding B.V.
-
-Tel: +44 (0)1635 206345
+Baxter Holding B.V. Tel: +44 (0)1635 206345
 
 ## Nederland
 
-Baxter B.V.
-
-Tel: +31 (0)30 2488 911
+Baxter B.V. Tel: +31 (0)30 2488 911
 
 utrecht\\_reception@baxter.com
 
@@ -1039,11 +1029,7 @@ Tlf: +47 22 58 48 00
 
 ## Österreich
 
-Baxter Healthcare GmbH
-
-Tel: +43 1 71120 0
-
-austria\\_office\\_healthcare@baxter.com
+Baxter Healthcare GmbH Tel: +43 1 71120 0 austria\\_office\\_healthcare@baxter.com
 
 ## Polska
 
@@ -1053,9 +1039,7 @@ Tel: +48 22 488 37 77
 
 ## Portugal
 
-Baxter Médico Farmacêutica, Lda.
-
-Tel: +351 21 925 25 00
+Baxter Médico Farmacêutica, Lda. Tel: +351 21 925 25 00
 
 ## România
 
@@ -1073,7 +1057,7 @@ Tel: +44 (0)1635 206345
 
 Baxter d.o.o.
 
-Tel: +386 1 420 16 80
+Tel: +386 1 320 06 59
 
 ## Ísland
 
@@ -1097,7 +1081,7 @@ Tel: +390632491233
 
 Baxter Oy
 
-Puh/Tel: +358 (09) 862 111
+Puh/Tel: ++358 (0) 800 144 233
 
 ## Κύπρος
 
@@ -1111,13 +1095,13 @@ Baxter Holding B.V.
 
 Baxter Medical AB
 
-Tel: +46 (0)8 632 64 00
+Tel: +46 (0)20 78 81 15
 
 ## Latvija
 
-Baxter Latvia SIA
+Baxter Holding B.V.
 
-Tel: +371 677 84784
+Tel.: +31 (0)30 2488 911
 
 ## United Kingdom (Northern Ireland)
 

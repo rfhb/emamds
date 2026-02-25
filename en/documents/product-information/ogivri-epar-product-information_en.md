@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-11-14 10:56:10
+document_datetime: 2026-02-23 15:17:58
 document_pages: 59
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ogivri-epar-product-information_en.pdf
 document_name: ogivri-epar-product-information_en.pdf
 version: success
-processing_time: 23.1970797
-conversion_datetime: 2025-12-28 04:25:34.175044
+processing_time: 24.4044018
+conversion_datetime: 2026-02-25 11:49:56.583872
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -796,7 +796,7 @@ Table 8 Final overall survival analysis from the joint analysis of trials NSABP 
 
 A: doxorubicin; C: cyclophosphamide; P: paclitaxel; H: trastuzumab
 
-DFS analysis was also performed at the final analysis of OS from the joint analysis of studies NSABP B-31 and NCCTG N9831. The updated DFS analysis results (stratified HR = 0.61; 95 % CI [0.54, 0.69]) showed a similar DFS benefit compared to the definitive primary DFS analysis, despite 24.8 % patients in the AC→P arm who crossed over to receive trastuzumab. At 8 years, the disease-free survival rate was estimated to be 77.2 % (95 % CI: 75.4, 79.1) in the AC→PH arm, an absolute benefit of 11.8 % compared with the AC→P arm.
+DFS analysis was also performed at the final analysis of OS from the joint analysis of studies NSABP B-31 and NCCTG N9831. The updated DFS analysis results (stratified HR = 0.61; 95 % CI [0.54, 0.69]) showed a similar DFS benefit compared to the definitive primary DFS analysis, despite 24.8 % patients in the AC→P arm who crossed over to receive trastuzumab. At 8 years, the disease-free survival rate was estimated to be 77.2 % (95 % CI: 75.4, 79.1) in the AC→PH arm, an absolute benefit of 11.8 % compared wit h the AC→P arm.
 
 In the BCIRG 006 study trastuzumab was administered either in combination with docetaxel, following AC chemotherapy (AC→DH) or in combination with docetaxel and carboplatin (DCarbH).
 
@@ -1118,15 +1118,12 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND
-
-## MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1162,10 +1159,9 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-
 <div style=\"page-break-after: always\"></div>
 
+- At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
@@ -1473,9 +1469,9 @@ Your doctor may prescribe Ogivri for the treatment of breast and gastric cancer 
 
 Your doctor will closely supervise your therapy.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Heart checks
+
+<div style=\"page-break-after: always\"></div>
 
 Treatment with Ogivri alone or with a taxane may affect the heart, especially if you have ever used an anthracycline (taxanes and anthracyclines are two other kinds of medicine used to treat cancer). The effects may be moderate to severe and could cause death. Therefore, your heart function will be checked before, during (every three months) and after (up to two to five years) treatment with Ogivri. If you develop any signs of heart failure (inadequate pumping of blood by the heart), your heart function may be checked more frequently (every six to eight weeks), you may receive treatment for heart failure or you may have to stop Ogivri treatment.
 
@@ -1505,13 +1501,11 @@ If you are pregnant or breast-feeding, think you may be pregnant or are planning
 ## Pregnancy
 
 - You should use effective contraception during treatment with Ogivri and for at least 7 months after treatment has ended.
-- Your doctor will advise you of the risks and benefits of taking Ogivri during pregnancy. In rare cases, a reduction in the amount of (amniotic) fluid that surrounds the developing baby within the womb has been observed in pregnant women receiving trastuzumab. This
-
-<div style=\"page-break-after: always\"></div>
-
-condition may be harmful to your baby in the womb and has been associated with the lungs not developing fully resulting in foetal death.
+- Your doctor will advise you of the risks and benefits of taking Ogivri during pregnancy. In rare cases, a reduction in the amount of (amniotic) fluid that surrounds the developing baby within the womb has been observed in pregnant women receiving trastuzumab. This condition may be harmful to your baby in the womb and has been associated with the lungs not developing fully resulting in foetal death.
 
 ## Breast-feeding
+
+<div style=\"page-break-after: always\"></div>
 
 Do not breast-feed your baby during Ogivri therapy and for 7 months after the last dose of Ogivri as this medicine may pass to your baby through your breast milk. Ask your doctor or pharmacist for advice before taking any medicine.
 
@@ -1543,13 +1537,13 @@ For early breast cancer, metastatic breast cancer and metastatic gastric cancer,
 
 In order to prevent medication errors it is important to check the vial labels to ensure that the medicine being prepared and given is Ogivri (trastuzumab) and not another trastuzumab-containing product (e.g. trastuzumab emtansine or trastuzumab deruxtecan).
 
-<div style=\"page-break-after: always\"></div>
-
 ## If you stop using Ogivri
 
 Do not stop using this medicine without talking to your doctor first. All doses should be taken at the right time every week or every three weeks (depending on your dosing schedule). This helps your medicine work as well as it can.
 
 It may take up to 7 months for Ogivri to be removed from your body. Therefore, your doctor may decide to continue to check your heart functions, even after you finish treatment.
+
+<div style=\"page-break-after: always\"></div>
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
@@ -1581,11 +1575,9 @@ Your doctor will monitor your heart regularly during and after treatment but you
 
 - Tumour lysis syndrome (a group of metabolic complications occurring after cancer treatment characterised by high blood levels of potassium and phosphate, and low blood levels of calcium). Symptoms may include kidney problems (weakness, shortness of breath, fatigue and confusion), heart problems (fluttering of the heart or a faster or slower heartbeat), seizures, vomiting or diarrhoea and tingling in the mouth, hands or feet.
 
-<div style=\"page-break-after: always\"></div>
-
 If you experience any of the above symptoms when your treatment with Ogivri has finished, you should see your doctor and tell them that you have previously been treated with Ogivri.
 
-## Very common side effects (may affect more than 1 in 10 people):
+Very common side effects (may affect more than 1 in 10 people):
 
 - infections
 - diarrhoea
@@ -1593,6 +1585,9 @@ If you experience any of the above symptoms when your treatment with Ogivri has 
 - heartburn (dyspepsia)
 - fatigue
 - skin rashes
+
+<div style=\"page-break-after: always\"></div>
+
 - chest pain
 - abdominal (stomach) pain
 - joint pain
@@ -1634,9 +1629,6 @@ If you experience any of the above symptoms when your treatment with Ogivri has 
 - inflammation of the breast
 - anxiety
 - inflammation of the liver
-
-<div style=\"page-break-after: always\"></div>
-
 - depression
 - kidney disorders
 - increased muscle tone or tension (hypertonia)
@@ -1645,10 +1637,13 @@ If you experience any of the above symptoms when your treatment with Ogivri has 
 - pain in the arms and/or legs
 - lung disorders
 - itchy rash
-- back pain
+- back pai
 - sleepiness (somnolence)
 - neck pain
 - haemorrhoids (swelling of blood vessels around the back passage)
+
+<div style=\"page-break-after: always\"></div>
+
 - bone pain
 - itchiness
 - acne
@@ -1690,8 +1685,6 @@ Some of the side effects you experience may be due to your underlying breast can
 
 ## Reporting of side effects
 
-<div style=\"page-break-after: always\"></div>
-
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Ogivri
@@ -1701,6 +1694,8 @@ Keep this medicine out of the sight and reach of children.
 Do not use this medicine after the expiry date which is stated on the outer carton and on the vial label after EXP. The expiry date refers to the last day of that month.
 
 Store in a refrigerator (2 °C - 8 °C).
+
+<div style=\"page-break-after: always\"></div>
 
 Infusion solutions should be used immediately after dilution. Do not use Ogivri if you notice any particulate matter or discoloration prior to administration.
 
@@ -1726,23 +1721,35 @@ Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Ind
 
 ## Manufacturer
 
-Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne
+Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8
 
-<div style=\"page-break-after: always\"></div>
-
-Dublin D09 C6X8
-
-## Ireland
+Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Biocon Biologics Belgium BV Tél/Tel: 0080008250910
+Biocon Biologics Belgium BV
+
+Tél/Tel: 0080008250910
+
+## Lietuva
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## България
 
-Biosimilar Collaborations Ireland Limited Тел: 0080008250910
+Biosimilar Collaborations Ireland Limited
+
+Тел:
+
+0080008250910
+
+## Luxembourg/Luxemburg
+
+Biosimilar Collaborations Ireland Limited Tél/Tel: 0080008250910
+
+<div style=\"page-break-after: always\"></div>
 
 ## Česká republika
 
@@ -1762,7 +1769,7 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Ελλάδα
 
-Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε Τηλ.: 0080008250910
+Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι . Κ . Ε Τηλ.: 0080008250910
 
 ## España
 
@@ -1780,13 +1787,23 @@ Biocon Biologics Germany GmbH Tel: 0080008250910
 
 Biosimilar Collaborations Ireland Limited Tel: 1800 777 794
 
-## Lietuva
+## Ísland
+
+Biocon Biologics Finland OY Sími: +345 8004316
+
+## Italia
+
+Biocon Biologics Spain S.L . Tel: 0080008250910
+
+## Κύπρος
+
+Biosimilar Collaborations Ireland Limited Τηλ : 0080008250910
+
+## Latvija
 
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
-## Luxembourg/Luxemburg
-
-Biocon Biologics France S.A.S Tél/Tel: 0080008250910
+## This leaflet was last revised in
 
 ## Magyarország
 
@@ -1798,7 +1815,7 @@ Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
 
 ## Nederland
 
-Biocon Biologics France S.A.S Tel: 0080008250910
+Biosimilar Collaborations Ireland LimitedTel: 0080008250910
 
 ## Norge
 
@@ -1824,53 +1841,25 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
-<div style=\"page-break-after: always\"></div>
-
-## Ísland
-
-Biocon Biologics Finland OY
-
-Sími: +345 8004316
-
-## Italia
-
-Biocon Biologics Spain S.L .
-
-Tel: 0080008250910
-
-## Κύπρος
-
-Biosimilar Collaborations Ireland Limited Τηλ : 0080008250910
-
-## Latvija
-
-Biosimilar Collaborations Ireland Limited
-
-Tel: 0080008250910
-
-## This leaflet was last revised in
-
-Detailed information on this medicine is available on the European Medicines Agency web site: . . http://www.ema.europa.eu
-
----------------------------------------------------------------------------------------------------------------------------
-
 ## Slovenská republika
 
-Biocon Biologics Germany GmbH
-
-Tel: 0080008250910
+Biocon Biologics Germany GmbH Tel: 0080008250910
 
 ## Suomi/Finland
 
-Biocon Biologics Finland OY
+## Biocon Biologics Finland OY
 
 Puh/Tel: 99980008250910
 
 ## Sverige
 
-Biocon Biologics Finland OY
+Biocon Biologics Finland OY Tel: 0080008250910
 
-Tel: 0080008250910
+Detailed information on this medicine is available on the European Medicines Agency web site: . . http://www.ema.europa.eu
+
+<div style=\"page-break-after: always\"></div>
+
+---------------------------------------------------------------------------------------------------------------------------
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1902,21 +1891,20 @@ Appropriate aseptic technique should be used. Each 420 mg vial of Ogivri is reco
 
 Slight foaming of the product upon reconstitution is not unusual. Allow the vial to stand undisturbed for approximately 5 minutes. The reconstituted Ogivri results in a colourless to pale yellow transparent solution and should be essentially free of visible particulates.
 
-Determine the volume of the solution required:
+## Determine the volume of the solution required:
 
 - based on a loading dose of 4 mg trastuzumab/kg body weight, or a subsequent weekly dose of 2 mg trastuzumab/kg body weight:
 
 ## Volume (mL) = Body weight (kg) x dose ( 4 mg/kg for loading or 2 mg/kg for maintenance)
 
-- 21 (mg/mL, concentration of reconstituted solution)
+21 (mg/mL, concentration of reconstituted solution)
+
 - based on a loading dose of 8 mg trastuzumab/kg body weight, or a subsequent 3 -weekly dose of 6 mg trastuzumab/kg body weight:
+
+## Volume (mL) = Body weight (kg) x dose ( 8 mg/kg for loading or 6 mg/kg for maintenance)
 
 <div style=\"page-break-after: always\"></div>
 
-## Volume (mL) = Body weight (kg) x dose ( 8 mg/kg for loading or 6
-
-21
-
-## mg/kg for maintenance) (mg/mL, concentration of reconstituted solution)
+## 21 (mg/mL, concentration of reconstituted solution)
 
 The appropriate amount of solution should be withdrawn from the vial using a sterile needle and syringe and added to a polyvinylchloride, polyethylene or polypropylene infusion bag containing 250 mL of sodium chloride 9 mg/mL (0.9 %) solution for injection. Do not use with glucosecontaining solutions. The bag should be gently inverted to mix the solution in order to avoid foaming. Parenteral solutions should be inspected visually for particulates and discoloration prior to administration. Once the infusion is prepared it should be administered immediately. If diluted aseptically, it may be stored for up to 90 days at 2 °C - 8 °C and 24 hours at temperatures not exceeding 30 °C.

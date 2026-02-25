@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:46:48
+document_datetime: 2026-02-19 11:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/soliris.html
 document_name: soliris.html
 version: success
-processing_time: 0.1718996
-conversion_datetime: 2025-12-30 20:25:45.381683
+processing_time: 0.1554577
+conversion_datetime: 2026-02-25 11:35:41.21349
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Soliris
 
 [RSS](/en/individual-human-medicine.xml/66691)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 eculizumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -146,7 +144,7 @@ English (EN) (132.47 KB - PDF)
 
 [View](/en/documents/overview/soliris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-601)
+[Other languages (22)](#file-language-dropdown-161)
 
 български (BG) (154.93 KB - PDF)
 
@@ -434,7 +432,7 @@ English (EN) (753.31 KB - PDF)
 
 [View](/en/documents/product-information/soliris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-748)
+[Other languages (24)](#file-language-dropdown-993)
 
 български (BG) (1.04 MB - PDF)
 
@@ -750,7 +748,7 @@ English (EN) (12.34 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-768)
+[Other languages (24)](#file-language-dropdown-751)
 
 български (BG) (76.71 KB - PDF)
 
@@ -1050,7 +1048,7 @@ English (EN) (125.17 KB - PDF)
 
 [View](/en/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-54)
+[Other languages (23)](#file-language-dropdown-516)
 
 български (BG) (180.08 KB - PDF)
 
@@ -1363,7 +1361,13 @@ Orphan
 
 This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
 
-Marketing authorisation issued 20/06/2007 Revision 40
+Marketing authorisation holder
+
+Alexion Europe SAS
+
+103-105 rue Anatole France
+
+Marketing authorisation issued 20/06/2007 Revision 41
 
 ## Assessment history
 
@@ -1390,6 +1394,16 @@ English (EN) (380.61 KB - PDF)
 **Last updated:** 19/06/2025
 
 [View](/en/documents/procedural-steps-after/soliris-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Soliris-H-C-000791-P46 : EPAR - Assessment report
+
+Reference Number: EMADOC-1700519818-2921173
+
+English (EN) (1.82 MB - PDF)
+
+**First published:** 19/02/2026
+
+[View](/en/documents/variation-report/soliris-h-c-000791-p46-epar-assessment-report_en.pdf)
 
 Soliris-H-C-000791-P46-063 : EPAR - Assessment report
 
@@ -1635,7 +1649,7 @@ English (EN) (21.94 KB - PDF)
 
 [View](/en/documents/procedural-steps/soliris-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### News on Soliris
+## News on Soliris
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 June 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-june-2023) 23/06/2023
 
@@ -1661,7 +1675,7 @@ English (EN) (21.94 KB - PDF)
 
 [European Medicines Agency concludes first accelerated assessment for a medicine for human use](/en/news/european-medicines-agency-concludes-first-accelerated-assessment-medicine-human-use) 27/04/2007
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1675,7 +1689,7 @@ English (EN) (302.77 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-34)
+[Other languages (24)](#file-language-dropdown-230)
 
 български (BG) (469.17 KB - DOCX)
 
@@ -1965,7 +1979,7 @@ svenska (SV) (331.88 KB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Soliris
+## More information on Soliris
 
 Questions and answers on shortcomings in quality assurance at Ben Venue Laboratories
 
@@ -1995,7 +2009,7 @@ This product originally had an orphan designation for treatment of paroxysmal no
 
 This product originally had an orphan designation for treatment of atypical haemolytic uremic syndrome ( [EU/3/09/653](https://beta.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-09-653) ), granted on 24 July 2009. This designation was withdrawn from the Community register of orphan medicinal products in November 2023 at the end of the 12-year period of market exclusivity.
 
-#### More information on Soliris
+## More information on Soliris
 
 - [EMEA-000876-PIP01-10-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000876-pip01-10-m01)
 - [EMEA-000876-PIP02-11-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000876-pip02-11-m01)
@@ -2008,7 +2022,7 @@ This product originally had an orphan designation for treatment of atypical haem
 - [Implementation of controlled access to and distribution of medicinal products in European Union (CONTROL-EU) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000313)
 - [Long-Term, Observational, Global Registry of Patients With Generalized Myasthenia Gravis Who Have Received Treatment With Complement C5 Inhibition Therapies - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000478)
 
-**This page was last updated on** 18/07/2025
+**This page was last updated on** 19/02/2026
 
 ## Share this page
 

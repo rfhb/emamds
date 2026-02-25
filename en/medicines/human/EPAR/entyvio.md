@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-02-05 17:00:00
+document_datetime: 2026-02-23 16:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/entyvio.html
 document_name: entyvio.html
 version: success
-processing_time: 0.1154025
-conversion_datetime: 2026-02-09 22:12:30.894974
+processing_time: 0.1170278
+conversion_datetime: 2026-02-25 11:48:54.833771
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.1
-  docling: 2.72.0
-  docling-core: 2.63.0
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
   docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Entyvio
 
 [RSS](/en/individual-human-medicine.xml/65725)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -129,7 +129,7 @@ English (EN) (129.94 KB - PDF)
 
 [View](/en/documents/overview/entyvio-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-586)
+[Other languages (22)](#file-language-dropdown-475)
 
 български (BG) (155.39 KB - PDF)
 
@@ -417,7 +417,7 @@ English (EN) (923.93 KB - PDF)
 
 [View](/en/documents/product-information/entyvio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-629)
+[Other languages (24)](#file-language-dropdown-8)
 
 български (BG) (1022.75 KB - PDF)
 
@@ -733,7 +733,7 @@ English (EN) (45.44 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/entyvio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-430)
+[Other languages (24)](#file-language-dropdown-931)
 
 български (BG) (77.75 KB - PDF)
 
@@ -1057,7 +1057,7 @@ Takeda Pharma A/S
 
 Delta Park 45
 
-Opinion adopted 20/03/2014 Marketing authorisation issued 22/05/2014 Revision 30
+Opinion adopted 20/03/2014 Marketing authorisation issued 22/05/2014 Revision 31
 
 ## Assessment history
 
@@ -1086,6 +1086,18 @@ English (EN) (291.83 KB - PDF)
 **Last updated:** 11/04/2025
 
 [View](/en/documents/procedural-steps-after/entyvio-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Entyvio-PAM-0000291233 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2408036
+
+English (EN) (1.62 MB - PDF)
+
+**First published:** 23/02/2026
+
+[View](/en/documents/variation-report/entyvio-pam-0000291233-epar-assessment-report_en.pdf)
 
 Entyvio-H-C-PSUSA-00010186-202405 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1261,7 +1273,7 @@ English (EN) (94.73 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-entyvio_en.pdf)
 
-#### News on Entyvio
+## News on Entyvio
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 December 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-december-2021) 17/12/2021
 
@@ -1273,7 +1285,7 @@ English (EN) (94.73 KB - PDF)
 
 [European Medicines Agency recommends approval of a locally targeted treatment for ulcerative colitis and Crohn's disease](/en/news/european-medicines-agency-recommends-approval-locally-targeted-treatment-ulcerative-colitis-crohns-disease) 21/03/2014
 
-#### More information on Entyvio
+## More information on Entyvio
 
 - [EMEA-000645-PIP03-18 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000645-pip03-18)
 - [EMEA-000645-PIP01-09-M09 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000645-pip01-09-m09)
@@ -1283,11 +1295,11 @@ English (EN) (94.73 KB - PDF)
 - [Vedolizumab-5056: Clinical Effectiveness of Vedolizumab Used in Frames of Drug Program for Crohn's Disease Treatment in Poland - Prospective, Observational Study Considering Fatigue and Other Patient-reported-outcomes (PROs) (POLONEZ II) - post-authorisation study](https://catalogues.ema.europa.eu/study/44012)
 - [Comparative Effectiveness of Tofacitinib Versus Ustekinumab and Vedolizumab among Ulcerative Colitis Patients With Prior Anti- Tumor Necrosis Factor (TNF) Failure - post-authorisation study](https://catalogues.ema.europa.eu/study/46622)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 05/02/2026
+**This page was last updated on** 23/02/2026
 
 ## Share this page
 

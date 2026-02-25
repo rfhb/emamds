@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-01-26 17:00:00
+document_datetime: 2026-02-24 16:38:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/exelon.html
 document_name: exelon.html
 version: success
-processing_time: 0.1473975
-conversion_datetime: 2026-02-01 20:44:41.991789
+processing_time: 0.1257244
+conversion_datetime: 2026-02-25 11:52:47.401287
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
   docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Exelon
 
 [RSS](/en/individual-human-medicine.xml/66951)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -120,7 +120,7 @@ English (EN) (79.54 KB - PDF)
 
 [View](/en/documents/overview/exelon-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-93)
+[Other languages (21)](#file-language-dropdown-129)
 
 български (BG) (107.51 KB - PDF)
 
@@ -378,17 +378,17 @@ svenska (SV) (100.93 KB - PDF)
 
 Exelon : EPAR - Product information
 
-English (EN) (942.69 KB - PDF)
+English (EN) (882 KB - PDF)
 
 **First published:** 14/02/2009
 
-**Last updated:** 26/01/2026
+**Last updated:** 24/02/2026
 
 [View](/en/documents/product-information/exelon-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-841)
+[Other languages (24)](#file-language-dropdown-233)
 
-български (BG) (1.11 MB - PDF)
+български (BG) (1018.71 KB - PDF)
 
 **First published:**
 
@@ -396,11 +396,11 @@ English (EN) (942.69 KB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/bg/documents/product-information/exelon-epar-product-information_bg.pdf)
 
-español (ES) (1000.62 KB - PDF)
+español (ES) (884.8 KB - PDF)
 
 **First published:**
 
@@ -408,11 +408,11 @@ español (ES) (1000.62 KB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/es/documents/product-information/exelon-epar-product-information_es.pdf)
 
-čeština (CS) (1.05 MB - PDF)
+čeština (CS) (966.35 KB - PDF)
 
 **First published:**
 
@@ -420,11 +420,11 @@ español (ES) (1000.62 KB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/cs/documents/product-information/exelon-epar-product-information_cs.pdf)
 
-dansk (DA) (1008.86 KB - PDF)
+dansk (DA) (898.16 KB - PDF)
 
 **First published:**
 
@@ -432,11 +432,11 @@ dansk (DA) (1008.86 KB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/da/documents/product-information/exelon-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.02 MB - PDF)
+Deutsch (DE) (930.71 KB - PDF)
 
 **First published:**
 
@@ -444,11 +444,11 @@ Deutsch (DE) (1.02 MB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/de/documents/product-information/exelon-epar-product-information_de.pdf)
 
-eesti keel (ET) (999.13 KB - PDF)
+eesti keel (ET) (897.44 KB - PDF)
 
 **First published:**
 
@@ -456,11 +456,11 @@ eesti keel (ET) (999.13 KB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/et/documents/product-information/exelon-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.12 MB - PDF)
+ελληνικά (EL) (1.11 MB - PDF)
 
 **First published:**
 
@@ -468,11 +468,11 @@ eesti keel (ET) (999.13 KB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/el/documents/product-information/exelon-epar-product-information_el.pdf)
 
-français (FR) (1.07 MB - PDF)
+français (FR) (966.94 KB - PDF)
 
 **First published:**
 
@@ -480,11 +480,11 @@ français (FR) (1.07 MB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/fr/documents/product-information/exelon-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.02 MB - PDF)
+hrvatski (HR) (944.57 KB - PDF)
 
 **First published:**
 
@@ -492,11 +492,11 @@ hrvatski (HR) (1.02 MB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/hr/documents/product-information/exelon-epar-product-information_hr.pdf)
 
-íslenska (IS) (966.55 KB - PDF)
+íslenska (IS) (865.28 KB - PDF)
 
 **First published:**
 
@@ -504,11 +504,11 @@ hrvatski (HR) (1.02 MB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/is/documents/product-information/exelon-epar-product-information_is.pdf)
 
-italiano (IT) (1.07 MB - PDF)
+italiano (IT) (977.51 KB - PDF)
 
 **First published:**
 
@@ -516,11 +516,11 @@ italiano (IT) (1.07 MB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/it/documents/product-information/exelon-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.05 MB - PDF)
+latviešu valoda (LV) (958.02 KB - PDF)
 
 **First published:**
 
@@ -528,11 +528,11 @@ latviešu valoda (LV) (1.05 MB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/lv/documents/product-information/exelon-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.13 MB - PDF)
+lietuvių kalba (LT) (1.01 MB - PDF)
 
 **First published:**
 
@@ -540,11 +540,11 @@ lietuvių kalba (LT) (1.13 MB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/lt/documents/product-information/exelon-epar-product-information_lt.pdf)
 
-magyar (HU) (1.05 MB - PDF)
+magyar (HU) (950.26 KB - PDF)
 
 **First published:**
 
@@ -552,11 +552,11 @@ magyar (HU) (1.05 MB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/hu/documents/product-information/exelon-epar-product-information_hu.pdf)
 
-Malti (MT) (1.17 MB - PDF)
+Malti (MT) (1.02 MB - PDF)
 
 **First published:**
 
@@ -564,11 +564,11 @@ Malti (MT) (1.17 MB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/mt/documents/product-information/exelon-epar-product-information_mt.pdf)
 
-Nederlands (NL) (993.59 KB - PDF)
+Nederlands (NL) (883.36 KB - PDF)
 
 **First published:**
 
@@ -576,11 +576,11 @@ Nederlands (NL) (993.59 KB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/nl/documents/product-information/exelon-epar-product-information_nl.pdf)
 
-norsk (NO) (993.54 KB - PDF)
+norsk (NO) (888.96 KB - PDF)
 
 **First published:**
 
@@ -588,11 +588,11 @@ norsk (NO) (993.54 KB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/no/documents/product-information/exelon-epar-product-information_no.pdf)
 
-polski (PL) (1.1 MB - PDF)
+polski (PL) (1007.99 KB - PDF)
 
 **First published:**
 
@@ -600,11 +600,11 @@ polski (PL) (1.1 MB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/pl/documents/product-information/exelon-epar-product-information_pl.pdf)
 
-português (PT) (1003.55 KB - PDF)
+português (PT) (888.49 KB - PDF)
 
 **First published:**
 
@@ -612,11 +612,11 @@ português (PT) (1003.55 KB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/pt/documents/product-information/exelon-epar-product-information_pt.pdf)
 
-română (RO) (1.08 MB - PDF)
+română (RO) (1000.78 KB - PDF)
 
 **First published:**
 
@@ -624,11 +624,11 @@ română (RO) (1.08 MB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/ro/documents/product-information/exelon-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.06 MB - PDF)
+slovenčina (SK) (965.03 KB - PDF)
 
 **First published:**
 
@@ -636,11 +636,11 @@ slovenčina (SK) (1.06 MB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/sk/documents/product-information/exelon-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.07 MB - PDF)
+slovenščina (SL) (996.07 KB - PDF)
 
 **First published:**
 
@@ -648,11 +648,11 @@ slovenščina (SL) (1.07 MB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/sl/documents/product-information/exelon-epar-product-information_sl.pdf)
 
-Suomi (FI) (981.15 KB - PDF)
+Suomi (FI) (870.32 KB - PDF)
 
 **First published:**
 
@@ -660,11 +660,11 @@ Suomi (FI) (981.15 KB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/fi/documents/product-information/exelon-epar-product-information_fi.pdf)
 
-svenska (SV) (970.64 KB - PDF)
+svenska (SV) (868.16 KB - PDF)
 
 **First published:**
 
@@ -672,11 +672,11 @@ svenska (SV) (970.64 KB - PDF)
 
 **Last updated:**
 
-26/01/2026
+24/02/2026
 
 [View](/sv/documents/product-information/exelon-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000323550 23/01/2026
+**Latest procedure affecting product information:** VR/0000328092 23/02/2026
 
 icon globe
 
@@ -702,7 +702,7 @@ English (EN) (81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/exelon-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-303)
+[Other languages (24)](#file-language-dropdown-219)
 
 български (BG) (102 KB - PDF)
 
@@ -1020,7 +1020,7 @@ Novartis Europharm Limited
 
 Vista Building
 
-Opinion adopted 28/01/1998 Marketing authorisation issued 11/05/1998 Revision 50
+Opinion adopted 28/01/1998 Marketing authorisation issued 11/05/1998 Revision 51
 
 ## Assessment history
 
@@ -1032,11 +1032,11 @@ Collapse section
 
 Exelon : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (526.84 KB - PDF)
+English (EN) (159 KB - PDF)
 
 **First published:** 11/04/2025
 
-**Last updated:** 26/01/2026
+**Last updated:** 24/02/2026
 
 [View](/en/documents/procedural-steps-after/exelon-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1142,230 +1142,328 @@ English (EN) (101.13 KB - PDF)
 
 [View](/en/documents/procedural-steps/exelon-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### News on Exelon
+## News on Exelon
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 December 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-december-2013) 20/12/2013
 
 [Novartis Europharm Ltd withdraws its applications for an extension of the indication for Exelon and Prometax (rivastigmine)](/en/news/novartis-europharm-ltd-withdraws-its-applications-extension-indication-exelon-prometax-rivastigmine) 15/03/2012
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
 Exelon : EPAR - Product information - tracked changes
 
-English (EN) (618.53 KB - DOCX)
+English (EN) (621.53 KB - DOCX)
 
 **First published:** 26/01/2026
 
+**Last updated:** 24/02/2026
+
 [View](/en/documents/product-information/exelon-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-484)
+[Other languages (24)](#file-language-dropdown-159)
 
-български (BG) (693.49 KB - DOCX)
+български (BG) (695.29 KB - DOCX)
 
 **First published:**
 
 26/01/2026
+
+**Last updated:**
+
+24/02/2026
 
 [View](/bg/documents/product-information/exelon-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (645.64 KB - DOCX)
+español (ES) (646.6 KB - DOCX)
 
 **First published:**
 
 26/01/2026
+
+**Last updated:**
+
+24/02/2026
 
 [View](/es/documents/product-information/exelon-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (644.21 KB - DOCX)
+čeština (CS) (646.37 KB - DOCX)
 
 **First published:**
 
 26/01/2026
+
+**Last updated:**
+
+24/02/2026
 
 [View](/cs/documents/product-information/exelon-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (637.17 KB - DOCX)
+dansk (DA) (638.75 KB - DOCX)
 
 **First published:**
 
 26/01/2026
+
+**Last updated:**
+
+24/02/2026
 
 [View](/da/documents/product-information/exelon-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (631.85 KB - DOCX)
+Deutsch (DE) (633.89 KB - DOCX)
 
 **First published:**
 
 26/01/2026
+
+**Last updated:**
+
+24/02/2026
 
 [View](/de/documents/product-information/exelon-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (630.62 KB - DOCX)
+eesti keel (ET) (633.74 KB - DOCX)
 
 **First published:**
 
 26/01/2026
+
+**Last updated:**
+
+24/02/2026
 
 [View](/et/documents/product-information/exelon-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (676.28 KB - DOCX)
+ελληνικά (EL) (677.5 KB - DOCX)
 
 **First published:**
 
 26/01/2026
+
+**Last updated:**
+
+24/02/2026
 
 [View](/el/documents/product-information/exelon-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (666.36 KB - DOCX)
+français (FR) (667.07 KB - DOCX)
 
 **First published:**
 
 26/01/2026
+
+**Last updated:**
+
+24/02/2026
 
 [View](/fr/documents/product-information/exelon-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (647.84 KB - DOCX)
+hrvatski (HR) (625.21 KB - DOCX)
 
 **First published:**
 
 26/01/2026
+
+**Last updated:**
+
+24/02/2026
 
 [View](/hr/documents/product-information/exelon-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (596.29 KB - DOCX)
+íslenska (IS) (598.27 KB - DOCX)
 
 **First published:**
 
 26/01/2026
+
+**Last updated:**
+
+24/02/2026
 
 [View](/is/documents/product-information/exelon-epar-product-information-tracked-changes_is.docx)
 
-italiano (IT) (623.67 KB - DOCX)
+italiano (IT) (624.75 KB - DOCX)
 
 **First published:**
 
 26/01/2026
+
+**Last updated:**
+
+24/02/2026
 
 [View](/it/documents/product-information/exelon-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (612.95 KB - DOCX)
+latviešu valoda (LV) (615.8 KB - DOCX)
 
 **First published:**
 
 26/01/2026
+
+**Last updated:**
+
+24/02/2026
 
 [View](/lv/documents/product-information/exelon-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (635.7 KB - DOCX)
+lietuvių kalba (LT) (639.02 KB - DOCX)
 
 **First published:**
 
 26/01/2026
+
+**Last updated:**
+
+24/02/2026
 
 [View](/lt/documents/product-information/exelon-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (660.19 KB - DOCX)
+magyar (HU) (662.59 KB - DOCX)
 
 **First published:**
 
 26/01/2026
+
+**Last updated:**
+
+24/02/2026
 
 [View](/hu/documents/product-information/exelon-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (634.81 KB - DOCX)
+Malti (MT) (636.82 KB - DOCX)
 
 **First published:**
 
 26/01/2026
+
+**Last updated:**
+
+24/02/2026
 
 [View](/mt/documents/product-information/exelon-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (605.86 KB - DOCX)
+Nederlands (NL) (608.23 KB - DOCX)
 
 **First published:**
 
 26/01/2026
+
+**Last updated:**
+
+24/02/2026
 
 [View](/nl/documents/product-information/exelon-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (594.13 KB - DOCX)
+norsk (NO) (595.45 KB - DOCX)
 
 **First published:**
 
 26/01/2026
+
+**Last updated:**
+
+24/02/2026
 
 [View](/no/documents/product-information/exelon-epar-product-information-tracked-changes_no.docx)
 
-polski (PL) (643.42 KB - DOCX)
+polski (PL) (647.3 KB - DOCX)
 
 **First published:**
 
 26/01/2026
+
+**Last updated:**
+
+24/02/2026
 
 [View](/pl/documents/product-information/exelon-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (631.47 KB - DOCX)
+português (PT) (633 KB - DOCX)
 
 **First published:**
 
 26/01/2026
+
+**Last updated:**
+
+24/02/2026
 
 [View](/pt/documents/product-information/exelon-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (649.33 KB - DOCX)
+română (RO) (651.17 KB - DOCX)
 
 **First published:**
 
 26/01/2026
+
+**Last updated:**
+
+24/02/2026
 
 [View](/ro/documents/product-information/exelon-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (611.2 KB - DOCX)
+slovenčina (SK) (612.82 KB - DOCX)
 
 **First published:**
 
 26/01/2026
+
+**Last updated:**
+
+24/02/2026
 
 [View](/sk/documents/product-information/exelon-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (643.92 KB - DOCX)
+slovenščina (SL) (646.28 KB - DOCX)
 
 **First published:**
 
 26/01/2026
+
+**Last updated:**
+
+24/02/2026
 
 [View](/sl/documents/product-information/exelon-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (614.1 KB - DOCX)
+Suomi (FI) (617.37 KB - DOCX)
 
 **First published:**
 
 26/01/2026
+
+**Last updated:**
+
+24/02/2026
 
 [View](/fi/documents/product-information/exelon-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (629.91 KB - DOCX)
+svenska (SV) (630.13 KB - DOCX)
 
 **First published:**
 
 26/01/2026
 
+**Last updated:**
+
+24/02/2026
+
 [View](/sv/documents/product-information/exelon-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Exelon
+## More information on Exelon
 
 - [EMEA-001084-PIP01-10 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001084-pip01-10)
 - [EMEA-001084-PIP02-11 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001084-pip02-11)
 - [Exelon - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/exelon)
 - [Exelon - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/exelon-0)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 26/01/2026
+**This page was last updated on** 24/02/2026
 
 ## Share this page
 

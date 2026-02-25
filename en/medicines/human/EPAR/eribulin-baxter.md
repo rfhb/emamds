@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 14:05:05
+document_datetime: 2026-02-24 15:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eribulin-baxter.html
 document_name: eribulin-baxter.html
 version: success
-processing_time: 0.1069146
-conversion_datetime: 2025-12-31 02:48:14.295132
+processing_time: 0.0997231
+conversion_datetime: 2026-02-25 11:53:15.244856
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Eribulin Baxter
 
 [RSS](/en/individual-human-medicine.xml/241780)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 eribulin Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +103,7 @@ English (EN) (135.22 KB - PDF)
 
 [View](/en/documents/overview/eribulin-baxter-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-518)
+[Other languages (22)](#file-language-dropdown-308)
 
 български (BG) (184.51 KB - PDF)
 
@@ -295,17 +293,17 @@ English (EN) (1.37 MB - PDF)
 
 Eribulin Baxter : EPAR - Product information
 
-English (EN) (890.28 KB - PDF)
+English (EN) (468.73 KB - PDF)
 
 **First published:** 09/07/2024
 
-**Last updated:** 02/12/2024
+**Last updated:** 24/02/2026
 
 [View](/en/documents/product-information/eribulin-baxter-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-247)
+[Other languages (24)](#file-language-dropdown-731)
 
-български (BG) (932.35 KB - PDF)
+български (BG) (829.01 KB - PDF)
 
 **First published:**
 
@@ -313,11 +311,11 @@ English (EN) (890.28 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/bg/documents/product-information/eribulin-baxter-epar-product-information_bg.pdf)
 
-español (ES) (876.34 KB - PDF)
+español (ES) (455.23 KB - PDF)
 
 **First published:**
 
@@ -325,11 +323,11 @@ español (ES) (876.34 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/es/documents/product-information/eribulin-baxter-epar-product-information_es.pdf)
 
-čeština (CS) (879.04 KB - PDF)
+čeština (CS) (538.56 KB - PDF)
 
 **First published:**
 
@@ -337,11 +335,11 @@ español (ES) (876.34 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/cs/documents/product-information/eribulin-baxter-epar-product-information_cs.pdf)
 
-dansk (DA) (852.15 KB - PDF)
+dansk (DA) (706.44 KB - PDF)
 
 **First published:**
 
@@ -349,11 +347,11 @@ dansk (DA) (852.15 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/da/documents/product-information/eribulin-baxter-epar-product-information_da.pdf)
 
-Deutsch (DE) (867.95 KB - PDF)
+Deutsch (DE) (764.17 KB - PDF)
 
 **First published:**
 
@@ -361,11 +359,11 @@ Deutsch (DE) (867.95 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/de/documents/product-information/eribulin-baxter-epar-product-information_de.pdf)
 
-eesti keel (ET) (843.97 KB - PDF)
+eesti keel (ET) (723.35 KB - PDF)
 
 **First published:**
 
@@ -373,11 +371,11 @@ eesti keel (ET) (843.97 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/et/documents/product-information/eribulin-baxter-epar-product-information_et.pdf)
 
-ελληνικά (EL) (922.53 KB - PDF)
+ελληνικά (EL) (554.65 KB - PDF)
 
 **First published:**
 
@@ -385,11 +383,11 @@ eesti keel (ET) (843.97 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/el/documents/product-information/eribulin-baxter-epar-product-information_el.pdf)
 
-français (FR) (877.04 KB - PDF)
+français (FR) (717.96 KB - PDF)
 
 **First published:**
 
@@ -397,11 +395,11 @@ français (FR) (877.04 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/fr/documents/product-information/eribulin-baxter-epar-product-information_fr.pdf)
 
-hrvatski (HR) (910.71 KB - PDF)
+hrvatski (HR) (546.88 KB - PDF)
 
 **First published:**
 
@@ -409,11 +407,11 @@ hrvatski (HR) (910.71 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/hr/documents/product-information/eribulin-baxter-epar-product-information_hr.pdf)
 
-íslenska (IS) (873.79 KB - PDF)
+íslenska (IS) (726.07 KB - PDF)
 
 **First published:**
 
@@ -421,11 +419,11 @@ hrvatski (HR) (910.71 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/is/documents/product-information/eribulin-baxter-epar-product-information_is.pdf)
 
-italiano (IT) (854.1 KB - PDF)
+italiano (IT) (445.73 KB - PDF)
 
 **First published:**
 
@@ -433,11 +431,11 @@ italiano (IT) (854.1 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/it/documents/product-information/eribulin-baxter-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (873.59 KB - PDF)
+latviešu valoda (LV) (503.3 KB - PDF)
 
 **First published:**
 
@@ -445,11 +443,11 @@ latviešu valoda (LV) (873.59 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/lv/documents/product-information/eribulin-baxter-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (901.54 KB - PDF)
+lietuvių kalba (LT) (537.3 KB - PDF)
 
 **First published:**
 
@@ -457,11 +455,11 @@ lietuvių kalba (LT) (901.54 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/lt/documents/product-information/eribulin-baxter-epar-product-information_lt.pdf)
 
-magyar (HU) (957.89 KB - PDF)
+magyar (HU) (528.64 KB - PDF)
 
 **First published:**
 
@@ -469,11 +467,11 @@ magyar (HU) (957.89 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/hu/documents/product-information/eribulin-baxter-epar-product-information_hu.pdf)
 
-Malti (MT) (923.92 KB - PDF)
+Malti (MT) (828.02 KB - PDF)
 
 **First published:**
 
@@ -481,11 +479,11 @@ Malti (MT) (923.92 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/mt/documents/product-information/eribulin-baxter-epar-product-information_mt.pdf)
 
-Nederlands (NL) (854.5 KB - PDF)
+Nederlands (NL) (713.68 KB - PDF)
 
 **First published:**
 
@@ -493,11 +491,11 @@ Nederlands (NL) (854.5 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/nl/documents/product-information/eribulin-baxter-epar-product-information_nl.pdf)
 
-norsk (NO) (843.28 KB - PDF)
+norsk (NO) (700.75 KB - PDF)
 
 **First published:**
 
@@ -505,11 +503,11 @@ norsk (NO) (843.28 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/no/documents/product-information/eribulin-baxter-epar-product-information_no.pdf)
 
-polski (PL) (928.16 KB - PDF)
+polski (PL) (548.46 KB - PDF)
 
 **First published:**
 
@@ -517,11 +515,11 @@ polski (PL) (928.16 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/pl/documents/product-information/eribulin-baxter-epar-product-information_pl.pdf)
 
-português (PT) (853.3 KB - PDF)
+português (PT) (442.15 KB - PDF)
 
 **First published:**
 
@@ -529,11 +527,11 @@ português (PT) (853.3 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/pt/documents/product-information/eribulin-baxter-epar-product-information_pt.pdf)
 
-română (RO) (627.29 KB - PDF)
+română (RO) (521.46 KB - PDF)
 
 **First published:**
 
@@ -541,11 +539,11 @@ română (RO) (627.29 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/ro/documents/product-information/eribulin-baxter-epar-product-information_ro.pdf)
 
-slovenčina (SK) (913.04 KB - PDF)
+slovenčina (SK) (523.61 KB - PDF)
 
 **First published:**
 
@@ -553,11 +551,11 @@ slovenčina (SK) (913.04 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/sk/documents/product-information/eribulin-baxter-epar-product-information_sk.pdf)
 
-slovenščina (SL) (907.32 KB - PDF)
+slovenščina (SL) (549.9 KB - PDF)
 
 **First published:**
 
@@ -565,11 +563,11 @@ slovenščina (SL) (907.32 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/sl/documents/product-information/eribulin-baxter-epar-product-information_sl.pdf)
 
-Suomi (FI) (871.47 KB - PDF)
+Suomi (FI) (428.42 KB - PDF)
 
 **First published:**
 
@@ -577,11 +575,11 @@ Suomi (FI) (871.47 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/fi/documents/product-information/eribulin-baxter-epar-product-information_fi.pdf)
 
-svenska (SV) (849.31 KB - PDF)
+svenska (SV) (711.3 KB - PDF)
 
 **First published:**
 
@@ -589,11 +587,11 @@ svenska (SV) (849.31 KB - PDF)
 
 **Last updated:**
 
-02/12/2024
+24/02/2026
 
 [View](/sv/documents/product-information/eribulin-baxter-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0001 20/11/2024
+**Latest procedure affecting product information:** VR/0000333602 24/02/2026
 
 icon globe
 
@@ -617,7 +615,7 @@ English (EN) (52.72 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/eribulin-baxter-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-125)
+[Other languages (24)](#file-language-dropdown-473)
 
 български (BG) (67.03 KB - PDF)
 
@@ -844,7 +842,7 @@ Baxter Holding B.V.
 
 Kobaltweg 49 3542 CE Utrecht Netherlands
 
-Opinion adopted 25/04/2024 Marketing authorisation issued 27/06/2024 Revision 1
+Opinion adopted 25/04/2024 Marketing authorisation issued 27/06/2024 Revision 2
 
 ## Assessment history
 
@@ -856,9 +854,11 @@ Collapse section
 
 Eribulin Baxter : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (102.06 KB - PDF)
+English (EN) (142.93 KB - PDF)
 
 **First published:** 02/12/2024
+
+**Last updated:** 24/02/2026
 
 [View](/en/documents/procedural-steps-after/eribulin-baxter-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -888,11 +888,11 @@ English (EN) (140.84 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-eribulin-baxter_en.pdf)
 
-#### News on Eribulin Baxter
+## News on Eribulin Baxter
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2024) 26/04/2024
 
-**This page was last updated on** 02/12/2024
+**This page was last updated on** 24/02/2026
 
 ## Share this page
 

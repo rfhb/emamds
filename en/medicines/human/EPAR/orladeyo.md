@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:28:17
+document_datetime: 2026-02-18 11:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/orladeyo.html
 document_name: orladeyo.html
 version: success
-processing_time: 0.1124771
-conversion_datetime: 2025-12-31 03:48:19.115271
+processing_time: 0.1056145
+conversion_datetime: 2026-02-25 11:56:44.237191
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Orladeyo
 
 [RSS](/en/individual-human-medicine.xml/67434)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 berotralstat Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +101,7 @@ English (EN) (94.24 KB - PDF)
 
 [View](/en/documents/overview/orladeyo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-728)
+[Other languages (22)](#file-language-dropdown-624)
 
 български (BG) (129.16 KB - PDF)
 
@@ -383,17 +381,17 @@ English (EN) (178.31 KB - PDF)
 
 Orladeyo: EPAR - Product information
 
-English (EN) (393.6 KB - PDF)
+English (EN) (279.72 KB - PDF)
 
 **First published:** 01/06/2021
 
-**Last updated:** 23/09/2024
+**Last updated:** 18/02/2026
 
 [View](/en/documents/product-information/orladeyo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-710)
+[Other languages (24)](#file-language-dropdown-960)
 
-български (BG) (392 KB - PDF)
+български (BG) (313.19 KB - PDF)
 
 **First published:**
 
@@ -401,11 +399,11 @@ English (EN) (393.6 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/bg/documents/product-information/orladeyo-epar-product-information_bg.pdf)
 
-español (ES) (325.19 KB - PDF)
+español (ES) (236.97 KB - PDF)
 
 **First published:**
 
@@ -413,11 +411,11 @@ español (ES) (325.19 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/es/documents/product-information/orladeyo-epar-product-information_es.pdf)
 
-čeština (CS) (370.84 KB - PDF)
+čeština (CS) (308.77 KB - PDF)
 
 **First published:**
 
@@ -425,11 +423,11 @@ español (ES) (325.19 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/cs/documents/product-information/orladeyo-epar-product-information_cs.pdf)
 
-dansk (DA) (360.69 KB - PDF)
+dansk (DA) (236.03 KB - PDF)
 
 **First published:**
 
@@ -437,11 +435,11 @@ dansk (DA) (360.69 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/da/documents/product-information/orladeyo-epar-product-information_da.pdf)
 
-Deutsch (DE) (338.51 KB - PDF)
+Deutsch (DE) (246.27 KB - PDF)
 
 **First published:**
 
@@ -449,11 +447,11 @@ Deutsch (DE) (338.51 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/de/documents/product-information/orladeyo-epar-product-information_de.pdf)
 
-eesti keel (ET) (322.63 KB - PDF)
+eesti keel (ET) (231.53 KB - PDF)
 
 **First published:**
 
@@ -461,11 +459,11 @@ eesti keel (ET) (322.63 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/et/documents/product-information/orladeyo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (401.83 KB - PDF)
+ελληνικά (EL) (317.46 KB - PDF)
 
 **First published:**
 
@@ -473,11 +471,11 @@ eesti keel (ET) (322.63 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/el/documents/product-information/orladeyo-epar-product-information_el.pdf)
 
-français (FR) (334.93 KB - PDF)
+français (FR) (255.67 KB - PDF)
 
 **First published:**
 
@@ -485,11 +483,11 @@ français (FR) (334.93 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/fr/documents/product-information/orladeyo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (433.13 KB - PDF)
+hrvatski (HR) (361.63 KB - PDF)
 
 **First published:**
 
@@ -497,11 +495,11 @@ hrvatski (HR) (433.13 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/hr/documents/product-information/orladeyo-epar-product-information_hr.pdf)
 
-íslenska (IS) (332.21 KB - PDF)
+íslenska (IS) (241.95 KB - PDF)
 
 **First published:**
 
@@ -509,11 +507,11 @@ hrvatski (HR) (433.13 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/is/documents/product-information/orladeyo-epar-product-information_is.pdf)
 
-italiano (IT) (390.87 KB - PDF)
+italiano (IT) (240.65 KB - PDF)
 
 **First published:**
 
@@ -521,11 +519,11 @@ italiano (IT) (390.87 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/it/documents/product-information/orladeyo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (368.59 KB - PDF)
+latviešu valoda (LV) (301.61 KB - PDF)
 
 **First published:**
 
@@ -533,11 +531,11 @@ latviešu valoda (LV) (368.59 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/lv/documents/product-information/orladeyo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (388.86 KB - PDF)
+lietuvių kalba (LT) (305.34 KB - PDF)
 
 **First published:**
 
@@ -545,11 +543,11 @@ lietuvių kalba (LT) (388.86 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/lt/documents/product-information/orladeyo-epar-product-information_lt.pdf)
 
-magyar (HU) (400.83 KB - PDF)
+magyar (HU) (304.06 KB - PDF)
 
 **First published:**
 
@@ -557,11 +555,11 @@ magyar (HU) (400.83 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/hu/documents/product-information/orladeyo-epar-product-information_hu.pdf)
 
-Malti (MT) (417.79 KB - PDF)
+Malti (MT) (317.47 KB - PDF)
 
 **First published:**
 
@@ -569,11 +567,11 @@ Malti (MT) (417.79 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/mt/documents/product-information/orladeyo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (410.54 KB - PDF)
+Nederlands (NL) (294.07 KB - PDF)
 
 **First published:**
 
@@ -581,11 +579,11 @@ Nederlands (NL) (410.54 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/nl/documents/product-information/orladeyo-epar-product-information_nl.pdf)
 
-norsk (NO) (339.97 KB - PDF)
+norsk (NO) (239.7 KB - PDF)
 
 **First published:**
 
@@ -593,11 +591,11 @@ norsk (NO) (339.97 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/no/documents/product-information/orladeyo-epar-product-information_no.pdf)
 
-polski (PL) (392.66 KB - PDF)
+polski (PL) (304.99 KB - PDF)
 
 **First published:**
 
@@ -605,11 +603,11 @@ polski (PL) (392.66 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/pl/documents/product-information/orladeyo-epar-product-information_pl.pdf)
 
-português (PT) (302.3 KB - PDF)
+português (PT) (240.23 KB - PDF)
 
 **First published:**
 
@@ -617,11 +615,11 @@ português (PT) (302.3 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/pt/documents/product-information/orladeyo-epar-product-information_pt.pdf)
 
-română (RO) (390.01 KB - PDF)
+română (RO) (296.74 KB - PDF)
 
 **First published:**
 
@@ -629,11 +627,11 @@ română (RO) (390.01 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/ro/documents/product-information/orladeyo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (401.83 KB - PDF)
+slovenčina (SK) (313.83 KB - PDF)
 
 **First published:**
 
@@ -641,11 +639,11 @@ slovenčina (SK) (401.83 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/sk/documents/product-information/orladeyo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (403.93 KB - PDF)
+slovenščina (SL) (291.72 KB - PDF)
 
 **First published:**
 
@@ -653,11 +651,11 @@ slovenščina (SL) (403.93 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/sl/documents/product-information/orladeyo-epar-product-information_sl.pdf)
 
-Suomi (FI) (327.38 KB - PDF)
+Suomi (FI) (231.22 KB - PDF)
 
 **First published:**
 
@@ -665,11 +663,11 @@ Suomi (FI) (327.38 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/fi/documents/product-information/orladeyo-epar-product-information_fi.pdf)
 
-svenska (SV) (289.51 KB - PDF)
+svenska (SV) (231.21 KB - PDF)
 
 **First published:**
 
@@ -677,11 +675,11 @@ svenska (SV) (289.51 KB - PDF)
 
 **Last updated:**
 
-23/09/2024
+18/02/2026
 
 [View](/sv/documents/product-information/orladeyo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUSA/00010930/202312 19/09/2024
+**Latest procedure affecting product information:** EMA/R/0000282356 12/02/2026
 
 icon globe
 
@@ -705,7 +703,7 @@ English (EN) (7.14 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/orladeyo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-655)
+[Other languages (24)](#file-language-dropdown-188)
 
 български (BG) (26.65 KB - PDF)
 
@@ -913,19 +911,13 @@ Orladeyo is indicated for routine prevention of recurrent attacks of hereditary 
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005138
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
+EMA product number EMEA/H/C/005138 Marketing authorisation holder
 
 BioCryst Ireland Limited
 
 Rocktwist House, Block 1
 
-Opinion adopted 25/02/2021 Marketing authorisation issued 30/04/2021 Revision 8
+Opinion adopted 25/02/2021 Marketing authorisation issued 30/04/2021 Revision 9
 
 ## Assessment history
 
@@ -937,13 +929,21 @@ Collapse section
 
 Orladeyo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (184.02 KB - PDF)
+English (EN) (152.57 KB - PDF)
 
 **First published:** 12/07/2021
 
-**Last updated:** 23/09/2024
+**Last updated:** 18/02/2026
 
 [View](/en/documents/procedural-steps-after/orladeyo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Orladeyo : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (179.27 KB - PDF)
+
+**First published:** 12/07/2021
+
+[View](/en/documents/procedural-steps-after/orladeyo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Orladeyo-H-C-PSUSA-00010930-202312 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1017,20 +1017,20 @@ English (EN) (89.51 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-orladeyo_en.pdf)
 
-#### News on Orladeyo
+## News on Orladeyo
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 February 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-february-2021) 26/02/2021
 
-#### More information on Orladeyo
+## More information on Orladeyo
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](/en/medicines/human/orphan-designations/eu-3-18-2028) on 27 June 2018. The product was withdrawn from the Union Register of orphan medicinal products by the European Commission in March 2021 upon request of the marketing authorisation holder at the time of the granting of a marketing authorisation.
 
-#### More information on Orladeyo
+## More information on Orladeyo
 
 - [EMEA-002449-PIP02-18-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002449-pip02-18-m02)
 - [Non-Interventional Post-Authorisation Study to Evaluate the Safety, Tolerability and Effectiveness of Berotralstat for Patients with Hereditary Angioedema (HAE) in a Real-World Setting (APeX-N) - post-authorisation study](https://catalogues.ema.europa.eu/study/43576)
 
-**This page was last updated on** 23/09/2024
+**This page was last updated on** 18/02/2026
 
 ## Share this page
 

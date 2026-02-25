@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-17 09:44:21
+document_datetime: 2026-02-23 13:04:11
 document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/emblaveo-epar-product-information_en.pdf
 document_name: emblaveo-epar-product-information_en.pdf
 version: success
-processing_time: 6.8790602
-conversion_datetime: 2025-12-25 07:27:43.368845
+processing_time: 8.7711854
+conversion_datetime: 2026-02-25 11:51:13.05027
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -50,9 +50,9 @@ White to slightly yellow lyophilised cake.
 
 Emblaveo is indicated for the treatment of the following infections in adult patients (see sections 4.4 and 5.1):
 
--  Complicated intra-abdominal infection (cIAI)
--  Hospital-acquired pneumonia (HAP), including ventilator-associated pneumonia (VAP)
--  Complicated urinary tract infection (cUTI), including pyelonephritis
+- Complicated intra-abdominal infection (cIAI)
+- Hospital-acquired pneumonia (HAP), including ventilator-associated pneumonia (VAP)
+- Complicated urinary tract infection (cUTI), including pyelonephritis
 
 Emblaveo is also indicated for the treatment of infections due to aerobic Gram-negative organisms in adult patients with limited treatment options (see sections 4.2, 4.4, and 5.1).
 
@@ -68,7 +68,7 @@ Dose in adults with estimated creatinine clearance (CrCL) &gt; 50 mL/min Table 1
 
 <div style=\"page-break-after: always\"></div>
 
-Table 1. Recommended intravenous dose by type of infection in adult patients with CrCL a &gt; 50 mL/min
+Table 1. Recommended intravenous dose by type of infection in adult patients with CrCL a  &gt; 50 mL/min
 
 | Type of infection                                                                            | Dose of aztreonam-avibactam   | Dose of aztreonam-avibactam   | Infusion time   | Dosing interval   | Duration of treatment                                                                |
 |----------------------------------------------------------------------------------------------|-------------------------------|-------------------------------|-----------------|-------------------|--------------------------------------------------------------------------------------|
@@ -106,7 +106,7 @@ Table 2. Recommended doses for patients with estimated CrCL ≤ 50 mL/min
 - a Calculated using the Cockcroft-Gault formula.
 - b Dose recommendations are based on PK modelling and simulation.
 - c Both aztreonam and avibactam are removed by haemodialysis; on haemodialysis days Emblaveo should be administered after the haemodialysis session.
-- d Aztreonam-avibactam should not be used in patients with CrCl ≤ 15 mL/min unless haemodialysis or another form of renal replacement therapy is initiated.
+- d Aztreonam-avibactam should not be used in patient s with CrCl ≤ 15 mL/min unless haemodialysis or another form of renal replacement therapy is initiated.
 
 In patients with renal impairment, close monitoring of estimated creatinine clearance is advised (see sections 4.4 and 5.2).
 
@@ -160,13 +160,13 @@ Elevated liver enzymes have been observed with Emblaveo (see section 4.8). In pa
 
 The use of aztreonam-avibactam to treat patients with cIAI, HAP including VAP and cUTI including pyelonephritis, is based on experience with aztreonam alone, pharmacokinetic-pharmacodynamic analyses of aztreonam-avibactam, and on limited data from the randomised clinical study of 422 adults with cIAI or HAP/VAP.
 
-The use of aztreonam-avibactam to treat infections due to aerobic Gram-negative organism in patients with limited treatment options is based on pharmacokinetic/pharmacodynamic analysis for aztreonam-avibactam and on limited data from the randomised clinical study of 422 adults with cIAI or HAP/VAP (of which 17 patients with carbapenem-resistant [meropenem-resistant] organisms were treated with Emblaveo), and the randomised clinical study of 15 adults (of which 12 patients were treated with Emblaveo) with serious infections due to metallo-β-lactamase (MBL)-producing Gram-negative bacteria (see section 5.1).
+The use of aztreonam-avibactam to treat infections due to aerobic Gram-negative organism in patients with limited treatment options is based on pharmacokinetic/pharmacodynamic analysis for aztreonam-avibactam and on limited data from the randomised clinical study of 422 adults with cIAI or HAP/VAP (of which 17 patients with carbapenem-resistant [meropenem-resistant] organisms were treated with Emblaveo), and the randomised clinical study of 15 adults (of which 12 patients were treated with Emblaveo) with serious infections due to metalloβ -lactamase (MBL)-producing Gram-negative bacteria (see section 5.1).
 
 ## Spectrum of activity of aztreonam-avibactam
 
 Aztreonam has little or no activity against the majority of Acinetobacter spp., Gram-positive organisms and anaerobes (see sections 4.2 and 5.1). Additional antibacterial medicinal products should be used when these pathogens are known or suspected to be contributing to the infectious process.
 
-The inhibitory spectrum of avibactam includes many of the enzymes that inactivate aztreonam, including Ambler class A β-lactamases and class C β-lactamases. Avibactam does not inhibit class B enzymes (metallo-β-lactamases) and is not able to inhibit many of the class D enzymes. Aztreonam is generally stable to hydrolysis by class B enzymes (see section 5.1).
+The inhibitory spectrum of avibactam includes many of the enzymes that inactivate aztreonam, including Ambler class A β -lactamases and class C β -lactamases. Avibactam does not inhibit class B enzymes (metalloβ -lactamases) and is not able to inhibit many of the class D enzymes. Aztreonam is generally stable to hydrolysis by class B enzymes (see section 5.1).
 
 ## Clostridioides difficile -associated diarrhoea
 
@@ -258,7 +258,7 @@ Table 3. Frequency of adverse drug reactions presented by system organ class
 | Vascular disorders                              |                                                                         | Haemorrhage Hypotension                                                                  |                                                         |                                                                     |
 | Respiratory, thoracic and mediastinal disorders |                                                                         | Bronchospasm                                                                             | Dyspnoea Wheezing Sneezing                              |                                                                     |
 | Gastrointestinal disorders                      | Diarrhoea Nausea Vomiting Abdominal pain                                | Clostridium difficile colitis Gastrointestinal haemorrhage Mouth                         | Nasal congestion Pseudomembranou s colitis Breath odour |                                                                     |
-| Hepatobiliary disorders                         | Aspartate aminotransferase increased Alanine aminotransferase increased | Gamma- glutamyltransfer ase increased Blood alkaline phosphatase increased               | Hepatitis Jaundice                                      |                                                                     |
+| Hepatobiliary disorders                         | Aspartate aminotransferase increased Alanine aminotransferase increased | ulceration Gamma- glutamyltransfer ase increased Blood alkaline phosphatase increased    | Hepatitis Jaundice                                      |                                                                     |
 | Skin and subcutaneous tissue disorders          | Rash                                                                    | Angioedema Toxic epidermal necrolysis Dermatitis exfoliative Erythema multiforme Purpura |                                                         |                                                                     |
 
 <div style=\"page-break-after: always\"></div>
@@ -299,13 +299,13 @@ Pharmacotherapeutic group: Antibacterials for systemic use, other beta-lactam an
 
 ## Mechanism of action
 
-Aztreonam inhibits bacterial peptidoglycan cell wall synthesis following binding to penicillin-binding proteins (PBPs), which leads to bacterial cell lysis and death. Aztreonam is generally stable to hydrolysis by class B enzymes (metallo-β-lactamases).
+Aztreonam inhibits bacterial peptidoglycan cell wall synthesis following binding to penicillin-binding proteins (PBPs), which leads to bacterial cell lysis and death. Aztreonam is generally stable to hydrolysis by class B enzymes (metalloβ -lactamases).
 
-Avibactam is a non β-lactam, β-lactamase inhibitor that acts by forming a covalent adduct with the enzyme that is stable to hydrolysis. Avibactam inhibits both Ambler class A and class C β-lactamases and some class D enzymes, including extended-spectrum β-lactamases (ESBLs), Klebsiella pneumoniae carbapenemase (KPC) and OXA-48 carbapenemases, and AmpC enzymes. Avibactam does not inhibit class B enzymes and is not able to inhibit many class D enzymes.
+Avibactam is a non β -lactam, β -lactamase inhibitor that acts by forming a covalent adduct with the enzyme that is stable to hydrolysis. Avibactam inhibits both Ambler class A and class C β -lactamases and some class D enzymes, including extendedspectrum β -lactamases (ESBLs), Klebsiella pneumoniae carbapenemase (KPC) and OXA-48 carbapenemases, and AmpC enzymes. Avibactam does not inhibit class B enzymes and is not able to inhibit many class D enzymes.
 
 ## Resistance
 
-Bacterial resistance mechanisms that could potentially affect aztreonam-avibactam include β-lactamase enzymes refractory to inhibition by avibactam and able to hydrolyse aztreonam, mutant or acquired PBPs, decreased outer membrane permeability to either compound, and active efflux of either compound.
+Bacterial resistance mechanisms that could potentially affect aztreonam-avibactam include β -lactamase enzymes refractory to inhibition by avibactam and able to hydrolyse aztreonam, mutant or acquired PBPs, decreased outer membrane permeability to either compound, and active efflux of either compound.
 
 ## Antibacterial activity in combination with other antibacterial agents
 
@@ -325,32 +325,32 @@ In vitro studies suggest that the following pathogens would be susceptible to az
 
 ## Aerobic Gram-negative organisms
 
--  Citrobacter freundii complex
--  Citrobacter koseri
--  Escherichia coli
--  Enterobacter cloacae complex
+- Citrobacter freundii complex
+- Citrobacter koseri
+- Escherichia coli
+- Enterobacter cloacae complex
 
 <div style=\"page-break-after: always\"></div>
 
--  Klebsiella aerogenes
--  Klebsiella pneumoniae
--  Klebsiella oxytoca
--  Morganella morganii
--  Proteus mirabilis
--  Proteus vulgaris
--  Providencia rettgeri
--  Providencia stuartii
--  Raoultella ornithinolytica
--  Serratia spp.
--  Pseudomonas aeruginosa
--  Serratia marcescens
--  Stenotrophomonas maltophilia
+- Klebsiella aerogenes
+- Klebsiella pneumoniae
+- Klebsiella oxytoca
+- Morganella morganii
+- Proteus mirabilis
+- Proteus vulgaris
+- Providencia rettgeri
+- Providencia stuartii
+- Raoultella ornithinolytica
+- Serratia spp.
+- Pseudomonas aeruginosa
+- Serratia marcescens
+- Stenotrophomonas maltophilia
 
 In vitro studies indicate that the following species are not susceptible to aztreonam-avibactam:
 
--  Acinetobacter spp.
--  Aerobic Gram-positive organisms
--  Anaerobic organisms
+- Acinetobacter spp.
+- Aerobic Gram-positive organisms
+- Anaerobic organisms
 
 ## Paediatric population
 
@@ -360,7 +360,7 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## General introduction
 
-The aztreonam and avibactam geometric mean (CV%) steady-state maximum plasma concentration (Cmax,ss ) and area under the concentration-time curve over 24 hours (AUC24,ss ) in Phase 3 patients with normal renal function (n = 127) after multiple 3-hour infusions of 1.5 g aztreonam/0.5 g avibactam administered every 6 hours were 54.2 mg/L (40.8) and 11.0 mg/L (44.9), respectively, and 833 mg*h/L (45.8) and 161 mg*h/L (47.5), respectively. Pharmacokinetic parameters of aztreonam and avibactam following single- and multiple-dose administration of aztreonam-avibactam in combination were similar to those determined when aztreonam or avibactam were administered alone.
+The aztreonam and avibactam geometric mean (CV%) steady-state maximum plasma concentration (Cmax,ss) and area under the concentration-time curve over 24 hours (AUC24,ss) in Phase 3 patients with normal renal function (n = 127) after multiple 3-hour infusions of 1.5 g aztreonam/0.5 g avibactam administered every 6 hours were 54.2 mg/L (40.8) and 11.0 mg/L (44.9), respectively, and 833 mg*h/L (45.8) and 161 mg*h/L (47.5), respectively. Pharmacokinetic parameters of aztreonam and avibactam following single- and multiple-dose administration of aztreonam-avibactam in combination were similar to those determined when aztreonam or avibactam were administered alone.
 
 ## Distribution
 
@@ -382,9 +382,9 @@ Aztreonam is not extensively metabolised. The principal metabolite is inactive a
 
 ## Elimination
 
-The terminal half-lives (t ½ ) of both aztreonam and avibactam are approximately 2 to 3 hours after intravenous administration.
+The terminal half-lives (t½) of both aztreonam and avibactam are approximately 2 to 3 hours after intravenous administration.
 
-Aztreonam is excreted in the urine by active tubular secretion and glomerular filtration. Approximately 75% to 80% of an intravenous or intramuscular dose was recovered in the urine. The components of urinary radioactivity were unchanged aztreonam (approximately 65% recovered within 8 hours), the inactive β-lactam ring hydrolysis product of aztreonam (approximately 7%) and unknown metabolites (approximately 3%). Approximately 12% of aztreonam is excreted into faeces.
+Aztreonam is excreted in the urine by active tubular secretion and glomerular filtration. Approximately 75% to 80% of an intravenous or intramuscular dose was recovered in the urine. The components of urinary radioactivity were unchanged aztreonam (approximately 65% recovered within 8 hours), the inactive β -lactam ring hydrolysis product of aztreonam (approximately 7%) and unknown metabolites (approximately 3%). Approximately 12% of aztreonam is excreted into faeces.
 
 Avibactam is excreted unchanged into the urine with a renal clearance of approximately 158 mL/min, suggesting active tubular secretion in addition to glomerular filtration. The percentage unchanged drug excreted in urine was independent of administered dose and accounted for 83.8% to 100% of the avibactam dose at steady-state. Less than 0.25% of avibactam is excreted into faeces.
 
@@ -454,7 +454,7 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## Dry powder
 
-30 months.
+3 years.
 
 ## After reconstitution
 
@@ -464,15 +464,15 @@ The reconstituted vial should be used within 30 minutes for preparation of the i
 
 ## Infusion bags
 
-If the intravenous solution is prepared with sodium chloride (0.9%) solution for injection or Lactated Ringer's solution, the chemical and physical in-use stability has been demonstrated for 24 hours at 2 °C - 8 °C followed by up to 12 hours at up to 30 °C.
+If the intravenous solution is prepared with sodium chloride (0.9%) solution for injection or Lactated Ringer's solution, the chemical and physical in -use stability has been demonstrated for 24 hours at 2 °C -8 °C followed by up to 12 hours at up to 30 °C.
 
-If the intravenous solution is prepared with glucose (5%) solution for injection, the chemical and physical in-use stability has been demonstrated for 24 hours at 2 °C - 8 °C followed by up to 6 hours up to 30 °C.
+If the intravenous solution is prepared with glucose (5%) solution for injection, the chemical and physical in-use stability has been demonstrated for 24 hours at 2 °C -8 °C followed by up to 6 hours up to 30 °C.
 
 From a microbiological point of view, the medicinal product should be used immediately, unless reconstitution and dilution have taken place in controlled and validated aseptic conditions. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and must not exceed those stated above.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C).
+Store in a refrigerator (2 °C -8 °C).
 
 Store in the original package in order to protect from light.
 
@@ -524,8 +524,8 @@ Table 4. Preparation of Emblaveo for adult doses in an INFUSION BAG
 | 675 mg/225 mg                      | 5.1 mL                                                                                                                                   | 50 mL to 250 mL                                                                                                                                                      |
 | All other doses                    | Volume (mL) calculated based on dose required: Dose (mg aztreonam) ÷ 131.2 mg/mL aztreonam Or Dose (mg avibactam) ÷ 43.7 mg/mL avibactam | Volume (mL) will vary based on infusion bag size availability and preferred final concentration (Must be 1.5-40 mg/mL of aztreonam and 0.50-13.3 mg/mL of avibactam) |
 
-- a Dilute to final aztreonam concentration of 1.5-40 mg/mL (final avibactam concentration of 0.50-13.3 mg/mL) for in-use stability up to 24 hours at 2 °C - 8 °C, followed by up to 12 hours up to 30 °C for infusion bags containing sodium chloride (0.9%) solution for injection or Lactated Ringer's solution.
-- b Dilute to final aztreonam concentration of 1.5-40 mg/mL (final avibactam concentration of 0.50-13.3 mg/mL) for in-use stability up to 24 hours at 2 °C - 8 °C, followed by up to 6 hours up to 30 °C for infusion bags containing glucose (5%) solution for injection.
+- a Dilute to final aztreonam concentration of 1.5-40 mg/mL (final avibactam concentration of 0.50-13.3 mg/mL) for in-use stability up to 24 hours at 2 °C -8 °C, followed by up to 12 hours up to 30 °C for infusion bags containing sodium chloride (0.9%) solution for injection or Lactated Ringer's solution.
+- b Dilute to final aztreonam concentration of 1.5-40 mg/mL (final avibactam concentration of 0.50-13.3 mg/mL) for in-use stability up to 24 hours at 2 °C -8 °C, followed by up to 6 hours up to 30 °C for infusion bags containing glucose (5%) solution for injection.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -570,7 +570,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -578,14 +578,14 @@ The marketing authorisation holder (MAH) shall submit the first PSUR for this pr
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -605,7 +605,7 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Emblaveo 1.5 g/0.5 g powder for concentrate for solution for infusion aztreonam/avibactam
+Emblaveo 1.5 g/0.5 g powder for concentrate for solution for infusion aztreonam/avibactam
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -647,36 +647,38 @@ Store in a refrigerator in the original package in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------|
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Brussels Belgium
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/24/1808/001
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN
 
@@ -688,9 +690,8 @@ NN
 |------------------------------------------------------------------|
 | VIAL LABEL                                                       |
 
-1.
-
-NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Emblaveo 1.5 g/0.5 g powder for concentrate aztreonam/avibactam IV
 
@@ -744,41 +745,41 @@ Lot
 
 Emblaveo is an antibiotic medicine that contains two active substances aztreonam and avibactam.
 
--  Aztreonam belongs to the group of antibiotics called 'monobactams'. It can kill certain types of bacteria (so-called Gram-negative bacteria).
--  Avibactam is a 'beta-lactamase inhibitor' that helps aztreonam kill some bacteria that it cannot kill on its own.
+- Aztreonam belongs to the group of antibiotics called ' monobactams '. It can kill certain types of bacteria (so-called Gram-negative bacteria).
+- Avibactam is a 'beta -lactamase inhibitor' that helps aztreonam kill some bacteria that it cannot kill on its own.
 
 ## What Emblaveo is used for
 
 Emblaveo is used in adults to treat:
 
--  complicated bacterial infections of the abdomen (stomach and gut), where the infection has spread into abdominal cavity (space within the abdomen)
--  hospital-acquired pneumonia (a bacterial infection of the lungs that is picked up in hospitals), including ventilator-associated pneumonia (pneumonia that develops in patients on a machine called a ventilator to help them breathe)
--  complicated (difficult to treat as it has spread to other parts of the body or the patient has other conditions) urinary tract infections, including pyelonephritis (kidney infection)
--  infections caused by Gram-negative bacteria that other antibiotics may not be able to kill.
+- complicated bacterial infections of the abdomen (stomach and gut), where the infection has spread into abdominal cavity (space within the abdomen)
+- hospital-acquired pneumonia (a bacterial infection of the lungs that is picked up in hospitals), including ventilator-associated pneumonia (pneumonia that develops in patients on a machine called a ventilator to help them breathe)
+- complicated (difficult to treat as it has spread to other parts of the body or the patient has other conditions) urinary tract infections, including pyelonephritis (kidney infection)
+- infections caused by Gram-negative bacteria that other antibiotics may not be able to kill.
 
 ## 2. What you need to know before you are given Emblaveo
 
 ## You should not be given Emblaveo if:
 
--  you are allergic to aztreonam, avibactam or any of the other ingredients of this medicine (listed in section 6).
--  you have ever had a severe allergic reaction (swelling of the face, hands, feet, lips, tongue or throat; or difficulty swallowing or breathing; or a severe skin reaction) to other antibiotics belonging to the penicillin, cephalosporin, or carbapenem groups.
+- you are allergic to aztreonam, avibactam or any of the other ingredients of this medicine (listed in section 6).
+- you have ever had a severe allergic reaction (swelling of the face, hands, feet, lips, tongue or throat; or difficulty swallowing or breathing; or a severe skin reaction) to other antibiotics belonging to the penicillin, cephalosporin, or carbapenem groups.
 
 ## Warnings and precautions
 
 Talk to your doctor or nurse before using Emblaveo if:
 
--  you have ever had any allergic reaction (even if only a skin rash) to other antibiotics. Signs of allergic reaction include itching, a rash on the skin or difficulty in breathing.
+- you have ever had any allergic reaction (even if only a skin rash) to other antibiotics. Signs of allergic reaction include itching, a rash on the skin or difficulty in breathing.
 
 <div style=\"page-break-after: always\"></div>
 
--  you have kidney problems or if you are taking medicines that affect your kidney function, such as other antibiotics known as aminoglycosides (streptomycin, neomycin, gentamicin). If your kidney function is impaired, your doctor may give you a lower dose of Emblaveo and may want to perform regular blood tests during treatment to check your kidney function. In addition, you may be at higher risk of developing serious side effects that affect the nervous system such as encephalopathy (a disorder of the brain that may be caused by disease, injury, medicines or chemicals) due to increased blood levels of Emblaveo unless the dose is reduced. Symptoms of encephalopathy include confusion, seizures and altered mental function (see Section 3: If you use more Emblaveo than you should).
--  you have any liver problems. Your doctor may want to perform regular blood tests during treatment to check your liver since increases in liver enzymes have been observed with Emblaveo
--  you are taking medicines known as anticoagulants (a medicine that prevents the blood from clotting). Emblaveo can affect blood clotting. Your doctor will monitor your blood levels to check if your dose of anticoagulant needs to be changed during treatment with Emblaveo.
+- you have kidney problems or if you are taking medicines that affect your kidney function, such as other antibiotics known as aminoglycosides (streptomycin, neomycin, gentamicin). If your kidney function is impaired, your doctor may give you a lower dose of Emblaveo and may want to perform regular blood tests during treatment to check your kidney function. In addition, you may be at higher risk of developing serious side effects that affect the nervous system such as encephalopathy (a disorder of the brain that may be caused by disease, injury, medicines or chemicals) due to increased blood levels of Emblaveo unless the dose is reduced. Symptoms of encephalopathy include confusion, seizures and altered mental function (see Section 3: If you use more Emblaveo than you should).
+- you have any liver problems. Your doctor may want to perform regular blood tests during treatment to check your liver since increases in liver enzymes have been observed with Emblaveo
+- you are taking medicines known as anticoagulants (a medicine that prevents the blood from clotting). Emblaveo can affect blood clotting. Your doctor will monitor your blood levels to check if your dose of anticoagulant needs to be changed during treatment with Emblaveo.
 
 Talk to your doctor if after starting treatment with Emblaveo, you experience:
 
--  severe, prolonged, or bloody diarrhoea. This may be a sign of an inflammation of the large bowel. It may be necessary to interrupt the treatment with Emblaveo and start specific treatment for the diarrhoea (see section 4: Possible side effects).
--  other infections. There is a small possibility that you may get a different infection caused by another bacteria during or after treatment with Emblaveo.
+- severe, prolonged, or bloody diarrhoea. This may be a sign of an inflammation of the large bowel. It may be necessary to interrupt the treatment with Emblaveo and start specific treatment for the diarrhoea (see section 4: Possible side effects).
+- other infections. There is a small possibility that you may get a different infection caused by another bacteria during or after treatment with Emblaveo.
 
 ## Lab tests
 
@@ -794,7 +795,7 @@ Tell your doctor if you are using, have recently used or might use any other med
 
 Talk to your doctor before using Emblaveo if you are taking any of the following medicines:
 
--  a medicine for gout called probenecid
+- a medicine for gout called probenecid
 
 ## Pregnancy and breast-feeding
 
@@ -844,9 +845,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Tell your doctor straight away if you notice any of the following serious side effects - you may need urgent medical treatment:
 
--  Swelling of the face, lips, eyes, tongue, and/or throat, hives and with difficulty in swallowing or breathing. These may be signs of an allergic reaction or angioedema which may be life-threatening.
--  Severe, persistent, or bloody diarrhoea (which may be associated with stomach pain or fever). This may occur during or after treatment with antibiotics and can be a sign of serious bowel inflammation. If this happens do not take medicines that stop or slow bowel movement.
--  Sudden onset of a severe rash or blistering or peeling skin, possibly accompanied by a high fever or joint pain (these may be signs of more serious medical conditions such as toxic epidermal necrolysis, dermatitis exfoliative, erythema multiforme).
+- Swelling of the face, lips, eyes, tongue, and/or throat, hives and with difficulty in swallowing or breathing. These may be signs of an allergic reaction or angioedema which may be life-threatening.
+- Severe, persistent, or bloody diarrhoea (which may be associated with stomach pain or fever). This may occur during or after treatment with antibiotics and can be a sign of serious bowel inflammation. If this happens do not take medicines that stop or slow bowel movement.
+- Sudden onset of a severe rash or blistering or peeling skin, possibly accompanied by a high fever or joint pain (these may be signs of more serious medical conditions such as toxic epidermal necrolysis, dermatitis exfoliative, erythema multiforme).
 
 These serious side effects are uncommon (may affect up to 1 in 100 people).
 
@@ -858,72 +859,72 @@ Tell your doctor or nurse if you notice any of the following side effects:
 
 ## Common: (may affect up to 1 in 10 people)
 
--  Decrease in the number of red blood cells - shown in blood tests
--  Change in the number of some types of blood cells (called 'platelets') - shown in blood tests
--  Confusion
--  Dizziness
--  Diarrhoea
--  Feeling sick (nausea) or being sick (vomiting)
--  Stomach pain
--  Increase in certain liver enzymes - shown in blood tests
--  Rash
--  Inflammation of a vein
--  Inflammation of a vein associated with a blood clot
--  Pain or swelling at the site of the injection
--  Fever
+- Decrease in the number of red blood cells -shown in blood tests
+- Change in the number of some types of blood cells (called ' platelets ') -shown in blood tests
+- Confusion
+- Dizziness
+- Diarrhoea
+- Feeling sick (nausea) or being sick (vomiting)
+- Stomach pain
+- Increase in certain liver enzymes -shown in blood tests
+- Rash
+- Inflammation of a vein
+- Inflammation of a vein associated with a blood clot
+- Pain or swelling at the site of the injection
+- Fever
 
 ## Uncommon: (may affect up to 1 in 100 people)
 
--  Increase in the number of some types of white blood cells (called 'eosinophils' and 'leucocytes') - shown in blood tests
--  Difficulty falling and staying asleep
--  Encephalopathy (a condition that affects the brain and causes altered mental state and confusion)
--  Headache
--  Reduced sensation to touch, pain and temperature in the mouth
--  Taste disturbance
--  Extra heartbeats
--  Bleeding
--  Reduced blood pressure
--  Reddening of the face
--  Excessive contraction of the airway muscles causing breathing difficulty
--  Stomach bleeding
--  Mouth ulcers
--  Increase in the levels of some substances in your blood (Gamma-glutamyltransferase, Blood alkaline phosphatase, Creatinine)
--  Itching
--  purple patches like bruising, small red spots
--  Excessive sweating
--  Chest pain
--  Weakness
+- Increase in the number of some types of white blood cells (called 'eosinophils' and 'leu cocytes ') -shown in blood tests
+- Difficulty falling and staying asleep
+- Encephalopathy (a condition that affects the brain and causes altered mental state and confusion)
+- Headache
+- Reduced sensation to touch, pain and temperature in the mouth
+- Taste disturbance
+- Extra heartbeats
+- Bleeding
+- Reduced blood pressure
+- Reddening of the face
+- Excessive contraction of the airway muscles causing breathing difficulty
+- Stomach bleeding
+- Mouth ulcers
+- Increase in the levels of some substances in your blood (Gamma-glutamyltransferase, Blood alkaline phosphatase, Creatinine)
+- Itching
+- purple patches like bruising, small red spots
+- Excessive sweating
+- Chest pain
+- Weakness
 
 ## Rare: (may affect up to 1 in 1 000 people)
 
--  Fungal infections of the vagina
--  Low levels of blood cells (pancytopenia)
--  Significant decrease in the type of white blood cells (called 'neutrophils') used to fight infection - shown in blood tests
--  Lengthening of the time it takes for a cut to stop bleeding
--  Spontaneous bruising
--  Abnormal result with a test called direct or indirect Coombs test. This test looks for antibodies that fight against your red blood cells.
--  Seizure
--  Sensations like numbness, tingling, pins and needles
--  Double vision
--  A spinning sensation
--  Ringing or buzzing in the ears
--  Difficulty breathing
+- Fungal infections of the vagina
+- Low levels of blood cells (pancytopenia)
+- Significant decrease in the type of white blood cells (called 'neutrophils') used to fight infection - shown in blood tests
+- Lengthening of the time it takes for a cut to stop bleeding
+- Spontaneous bruising
+- Abnormal result with a test called direct or indirect Coombs test. This test looks for antibodies that fight against your red blood cells.
+- Seizure
+- Sensations like numbness, tingling, pins and needles
+- Double vision
+- A spinning sensation
+- Ringing or buzzing in the ears
+- Difficulty breathing
 
 <div style=\"page-break-after: always\"></div>
 
--  Breath sounds abnormal (wheezing)
--  Sneezing
--  Blocked nose (nasal congestion)
--  Bad breath
--  Inflammation of the liver
--  Yellowing of the skin and eyes
--  Muscle pain
--  Breast tenderness
--  Feeling generally unwell
+- Breath sounds abnormal (wheezing)
+- Sneezing
+- Blocked nose (nasal congestion)
+- Bad breath
+- Inflammation of the liver
+- Yellowing of the skin and eyes
+- Muscle pain
+- Breast tenderness
+- Feeling generally unwell
 
 Not known: (cannot be estimated from the available data)
 
--  Superinfection (a new infection that occurs after you are treated for your current infection)
+- Superinfection (a new infection that occurs after you are treated for your current infection)
 
 Sudden chest pain , which may be a sign of a potentially serious allergic reaction called Kounis syndrome has been noted with other medicines of the same type. If this happens talk to a doctor or nurse immediately.
 
@@ -935,9 +936,9 @@ If you get any side effects, talk to your doctor, pharmacist, or nurse. This inc
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the vial label and carton after 'EXP'. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the vial label and carton after ' EXP ' . The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 °C - 8 ℃).
+Store in a refrigerator (2 °C -8 ℃ ).
 
 Store in the original package in order to protect from light.
 
@@ -974,13 +975,13 @@ Tél/Tel: +32 (0)2 554 62 11
 
 ## България
 
-Пфайзер Люксембург САРЛ, Клон България Teл.: +359 2 970 4333
+Пфайзер Люксембург САРЛ , Клон България Teл.: +359 2 970 4333
 
 ## Česká republika
 
 Pfizer, spol. s r.o.
 
-Tel: +420 283 004 111
+Tel: +420 283 004 111
 
 ## Danmark
 
@@ -996,11 +997,15 @@ Tel: +49 (0)30 550055-51000
 
 ## Eesti
 
-Pfizer Luxembourg SARL Eesti filiaal Tel: +372 666 7500
+Pfizer Luxembourg SARL Eesti filiaal
+
+Tel: +372 666 7500
 
 ## Ελλάδα
 
-Pfizer Ελλάς A.E. Τηλ: +30 210 6785800
+Pfizer Ελλάς A.E.
+
+Τηλ: +30 210 6785800
 
 ## España
 
@@ -1034,11 +1039,15 @@ Pfizer Luxembourg SARL filialas Lietuvoje Tel: +370 5 251 4000
 
 ## Magyarország
 
-Pfizer Kft. Tel.: + 36 1 488 37 00
+Pfizer Kft.
+
+Tel.: + 36 1 488 37 00
 
 ## Malta
 
-Vivian Corporation Ltd. Tel: +356 21344610
+Vivian Corporation Ltd.
+
+Tel: +356 21344610
 
 ## Nederland
 
@@ -1048,7 +1057,9 @@ Tel: +31 (0)800 63 34 636
 
 ## Norge
 
-Pfizer AS Tlf: +47 67 52 61 00
+Pfizer AS
+
+Tlf: +47 67 52 61 00
 
 ## Österreich
 
@@ -1056,17 +1067,19 @@ Pfizer Corporation Austria Ges.m.b.H. Tel: +43 (0)1 521 15-0
 
 ## Polska
 
-Pfizer Polska Sp. z o.o. Tel.: +48 22 335 61 00
+Pfizer Polska Sp. z o.o.
+
+Tel.: +48 22 335 61 00
 
 ## Portugal
 
-Laboratórios Pfizer, Lda. Tel: +351 21 423 5500
+Laboratórios Pfizer, Lda.
+
+Tel: +351 21 423 5500
 
 ## România
 
-Pfizer Romania S.R.L.
-
-Tel: +40 (0) 21 207 28 00
+Pfizer Romania S.R.L. Tel: +40 (0) 21 207 28 00
 
 ## Slovenija
 
@@ -1102,9 +1115,11 @@ Tel: +46 (0)8 550 520 00
 
 ## Κύπρος
 
-Pfizer Ελλάς Α.Ε. (Cyprus Branch)
+Pfizer Ελλάς Α . Ε . (Cyprus Branch)
 
-Τηλ: +357 22817690
+Τηλ
+
+: +357 22817690
 
 ## Latvija
 
@@ -1166,7 +1181,7 @@ Table 1: Preparation of Emblaveo for adult doses in an INFUSION BAG
 | 675 mg/225 mg                      | 5.1 mL                                                                                                                                   | 50 mL to 250 mL                                                                                                                                                      |
 | All other doses                    | Volume (mL) calculated based on dose required: Dose (mg aztreonam) ÷ 131.2 mg/mL aztreonam Or Dose (mg avibactam) ÷ 43.7 mg/mL avibactam | Volume (mL) will vary based on infusion bag size availability and preferred final concentration (Must be 1.5-40 mg/mL of aztreonam and 0.50-13.3 mg/mL of avibactam) |
 
-- 2 Dilute to final aztreonam concentration of 1.5-40 mg/mL (final avibactam concentration of 0.50-13.3 mg/mL) for in-use stability up to 24 hours at 2 °C - 8 °C, followed by up to 6 hours up to 30 °C for infusion bags containing glucose (5%) solution for injection.
+- 2 Dilute to final aztreonam concentration of 1.5-40 mg/mL (final avibactam concentration of 0.50-13.3 mg/mL) for in-use stability up to 24 hours at 2 °C -8 °C, followed by up to 6 hours up to 30 °C for infusion bags containing glucose (5%) solution for injection.
 
 From a microbiological point of view, the medicinal product should be used immediately, unless reconstitution and dilution have taken place in controlled and validated aseptic conditions. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and must not exceed those stated above.
 

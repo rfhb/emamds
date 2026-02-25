@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-10 15:09:54
-document_pages: 86
+document_datetime: 2026-02-24 14:12:34
+document_pages: 88
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/fymskina-epar-product-information_en.pdf
 document_name: fymskina-epar-product-information_en.pdf
 version: success
-processing_time: 19.6852613
-conversion_datetime: 2025-12-27 20:20:32.396736
+processing_time: 25.0424685
+conversion_datetime: 2026-02-25 11:43:26.992237
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -52,9 +52,13 @@ The solution is clear and colourless to slightly brown-yellow.
 
 ## 4.1 Therapeutic indications
 
-## Crohn's Disease
+## Adult Crohn's Disease
 
-Fymskina is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional ther apy or a TNFα antagonist or have medical contraindications to such therapies.
+Fymskina is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
+
+## Paediatric Crohn's Disease
+
+Fymskina is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients weighing at least 40 kg, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
 
 ## 4.2 Posology and method of administration
 
@@ -64,11 +68,15 @@ Fymskina concentrate for solution for infusion should only be used for the intra
 
 ## Posology
 
-## Crohn's Disease
+Adults
 
-Fymskina treatment is to be initiated with a single intravenous dose based on body weight. The infusion solution is to be composed of the number of vials of Fymskina 130 mg as specified in Table 1 (see section 6.6 for preparation).
+Crohn's Disease
+
+Fymskina treatment is to be initiated with a single intravenous dose based on body weight. The
 
 <div style=\"page-break-after: always\"></div>
+
+infusion solution is to be composed of the number of vials of Fymskina 130 mg as specified in Table 1 (see section 6.6 for preparation).
 
 Table 1 Initial intravenous dosing of Fymskina
 
@@ -77,10 +85,6 @@ Table 1 Initial intravenous dosing of Fymskina
 | ≤ 55 kg                                        | 260                  |                                 2 |
 | > 55 kg to ≤ 85 kg                             | 390                  |                                 3 |
 | > 85 kg                                        | 520 mg               |                                 4 |
-
-a
-
-Approximately 6 mg/kg
 
 The first subcutaneous dose should be given at week 8 following the intravenous dose. For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the Fymskina solution for injection in pre-filled syringe SmPC.
 
@@ -94,7 +98,21 @@ Ustekinumab has not been studied in these patient populations. No dose recommend
 
 ## Paediatric population
 
-The safety and efficacy of ustekinumab for the treatment of Crohn's disease in children less than 18 years have not yet been established. No data are available.
+## Paediatric Crohn's disease (patients weighing at least 40 kg)
+
+Fymskina treatment is to be initiated with a single intravenous dose based on body weight. The infusion solution is to be composed of the number of vials of Fymskina 130 mg as specified in Table 2 (see section 6.6 for preparation).
+
+Table 2 Initial intravenous dosing of Fymskina
+
+| Body weight of patient at the time of dosing   | Recommended dose a   |   Number of 130 mg Fymskina Vials |
+|------------------------------------------------|----------------------|-----------------------------------|
+| ≥ 40 kg to ≤ 55 kg                             | 260 mg               |                                 2 |
+| > 55 kg to ≤ 85 kg                             | 390 mg               |                                 3 |
+| > 85 kg                                        | 520 mg               |                                 4 |
+
+The first subcutaneous dose should be given at week 8 following the intravenous dose. For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the Fymskina solution for injection (vial) and solution for injection in prefilled syringe SmPC.
+
+The safety and efficacy of ustekinumab for the treatment of Crohn's disease in paediatric patients weighing less than 40 kg have not yet been established. No data are available.
 
 ## Method of administration
 
@@ -108,7 +126,11 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## Traceability
 
-In order to improve the traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
+In order to improve the traceability of biological medicinal products, the tradename and the batch
+
+<div style=\"page-break-after: always\"></div>
+
+number of the administered product should be clearly recorded.
 
 ## Infections
 
@@ -118,11 +140,7 @@ Opportunistic infections including reactivation of tuberculosis, other opportuni
 
 Caution should be exercised when considering the use of Fymskina in patients with a chronic infection or a history of recurrent infection (see section 4.3).
 
-Prior to initiating treatment with Fymskina, patients should be evaluated for tuberculosis infection. Fymskina must not be given to patients with active tuberculosis (see section 4.3). Treatment of latent tuberculosis infection should be initiated prior to administering Fymskina. Anti-tuberculosis therapy should also be considered prior to initiation of Fymskina in patients with a history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed. Patients receiving
-
-<div style=\"page-break-after: always\"></div>
-
-Fymskina should be monitored closely for signs and symptoms of active tuberculosis during and after treatment.
+Prior to initiating treatment with Fymskina, patients should be evaluated for tuberculosis infection. Fymskina must not be given to patients with active tuberculosis (see section 4.3). Treatment of latent tuberculosis infection should be initiated prior to administering Fymskina. Anti-tuberculosis therapy should also be considered prior to initiation of Fymskina in patients with a history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed. Patients receiving Fymskina should be monitored closely for signs and symptoms of active tuberculosis during and after treatment.
 
 Patients should be instructed to seek medical advice if signs or symptoms suggestive of an infection occur. If a patient develops a serious infection, the patient should be closely monitored and Fymskina should not be administered until the infection resolves.
 
@@ -134,9 +152,7 @@ No studies have been conducted that include patients with a history of malignanc
 
 All patients, in particular those greater than 60 years of age, patients with a medical history of prolonged immunosuppressant therapy or those with a history of PUVA treatment, should be monitored for the appearance of skin cancer (see section 4.8).
 
-## Systemic and respiratory hypersensitivity reactions
-
-Systemic
+## Systemic and respiratory hypersensitivity reactions Systemic
 
 Serious hypersensitivity reactions have been reported in the postmarketing setting, in some cases several days after treatment. Anaphylaxis and angioedema have occurred. If an anaphylactic or other serious hypersensitivity reaction occurs, appropriate therapy should be instituted and administration of Fymskina should be discontinued (see section 4.8).
 
@@ -146,6 +162,8 @@ Infusion-related reactions were observed in clinical trials (see section 4.8). S
 
 ## Respiratory
 
+<div style=\"page-break-after: always\"></div>
+
 Cases of allergic alveolitis, eosinophilic pneumonia, and non-infectious organising pneumonia have been reported during post-approval use of ustekinumab. Clinical presentations included cough, dyspnoea, and interstitial infiltrates following one to three doses. Serious outcomes have included respiratory failure and prolonged hospitalisation. Improvement has been reported after discontinuation of ustekinumab and also, in some cases, administration of corticosteroids. If infection has been excluded and diagnosis is confirmed, discontinue ustekinumab and institute appropriate treatment (see section 4.8).
 
 ## Cardiovascular events
@@ -154,11 +172,7 @@ Cardiovascular events including myocardial infarction and cerebrovascular accide
 
 ## Vaccinations
 
-It is recommended that live viral or live bacterial vaccines (such as Bacillus of Calmette and Guérin (BCG)) should not be given concurrently with Fymskina. Specific studies have not been conducted in patients who had recently received live viral or live bacterial vaccines. No data are available on the secondary transmission of infection by live vaccines in patients receiving ustekinumab. Before live viral or live bacterial vaccination, treatment with Fymskina should be withheld for at least 15 weeks after the last dose and can be resumed at least 2 weeks after vaccination. Prescribers should consult the Summary of Product Characteristics for the specific vaccine for additional information and guidance
-
-<div style=\"page-break-after: always\"></div>
-
-on concomitant use of immunosuppressive agents post-vaccination.
+It is recommended that live viral or live bacterial vaccines (such as Bacillus of Calmette and Guérin (BCG)) should not be given concurrently with Fymskina. Specific studies have not been conducted in patients who had recently received live viral or live bacterial vaccines. No data are available on the secondary transmission of infection by live vaccines in patients receiving ustekinumab. Before live viral or live bacterial vaccination, treatment with Fymskina should be withheld for at least 15 weeks after the last dose and can be resumed at least 2 weeks after vaccination. Prescribers should consult the Summary of Product Characteristics for the specific vaccine for additional information and guidance on concomitant use of immunosuppressive agents post-vaccination.
 
 Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.5 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable. Patients receiving Fymskina may receive concurrent inactivated or nonlive vaccinations.
 
@@ -178,7 +192,11 @@ In patients with psoriasis, exfoliative dermatitis has been reported following u
 
 ## Lupus-related conditions
 
-Cases of lupus-related conditions have been reported in patients treated with ustekinumab, including cutaneous lupus erythematosus and lupus-like syndrome. If lesions occur, especially in sun exposed areas of the skin or if accompanied by arthralgia, the patient should seek medical attention promptly. If the diagnosis of a lupus-related condition is confirmed, ustekinumab should be discontinued and appropriate treatment initiated.
+Cases of lupus-related conditions have been reported in patients treated with ustekinumab, including cutaneous lupus erythematosus and lupus-like syndrome. If lesions occur, especially in sun exposed
+
+<div style=\"page-break-after: always\"></div>
+
+areas of the skin or if accompanied by arthralgia, the patient should seek medical attention promptly. If the diagnosis of a lupus-related condition is confirmed, ustekinumab should be discontinued and appropriate treatment initiated.
 
 ## Special populations
 
@@ -194,15 +212,13 @@ Fymskina contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'so
 
 Polysorbates may cause allergic reactions.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 Live vaccines should not be given concurrently with Fymskina.
 
 Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
-In the population pharmacokinetic analyses of the phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to antiTNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. anti-T NFα agents and/or vedolizumab) in patients with ulcerative colitis.
+In the population pharmacokinetic analyses of the phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to antiTNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. antiTNFα agents and/or vedolizumab) in patients with ulcerative colitis.
 
 The results of an in vitro study and a phase 1 study in subjects with active Crohn's disease do not suggest the need for dose adjustments in patients who are receiving concomitant CYP450 substrates (see section 5.2).
 
@@ -214,6 +230,8 @@ In psoriasis studies, the safety and efficacy of ustekinumab in combination with
 
 Women of childbearing potential should use effective methods of contraception during treatment and for at least 15 weeks after treatment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pregnancy
 
 Data from a moderate number of prospectively collected pregnancies following exposure to ustekinumab with known outcomes, including more than 450 pregnancies exposed during the first trimester, do not indicate an increased risk of major congenital malformations in the newborn.
@@ -222,11 +240,7 @@ Animal studies do not indicate direct or indirect harmful effects with respect t
 
 However, the available clinical experience is limited. As a precautionary measure, it is preferable to avoid the use of Fymskina in pregnancy.
 
-Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab
-
-serum levels are undetectable.
-
-<div style=\"page-break-after: always\"></div>
+Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 ## Breast-feeding
 
@@ -250,11 +264,13 @@ The most common adverse reactions (&gt; 5%) in controlled periods of the adult p
 
 The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6,710 patients (4,135 with psoriasis and/or psoriatic arthritis, 1,749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and noncontrolled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4,577 patients) or at least 1 year (3,648 patients). 2,194 patients with psoriasis, Crohn's disease or ulcerative colitis were exposed for at least 4 years while 1,148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
 
-Table 2 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 2 List of adverse reactions
+The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known ( cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
+Table 3 List of adverse reactions
 
 | System Organ Class                                   | Frequency: Adverse reaction                                                                                                                                                                                                              |
 |------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -268,7 +284,9 @@ Table 2 List of adverse reactions
 | Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                                                                    |
 | General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia                                                         |
 
-## Description of selected adverse reactions Infections
+## Description of selected adverse reactions
+
+## Infections
 
 In the placebo-controlled studies of patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis, the rates of infection or serious infection were similar between ustekinumab-treated patients and those treated with placebo. In the placebo-controlled period of these clinical studies, the rate of infection was 1.36 per patient-year of follow-up in ustekinumab-treated patients, and 1.34 in placebo-treated patients. Serious infections occurred at the rate of 0.03 per patient-year of follow-up in ustekinumab-treated patients (30 serious infections in 930 patient-years of follow-up) and 0.03 in placebo-treated patients (15 serious infections in 434 patient-years of follow-up) (see section 4.4).
 
@@ -276,13 +294,11 @@ In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, 
 
 In clinical studies, patients with latent tuberculosis who were concurrently treated with isoniazid did not develop tuberculosis.
 
-## Malignancies
-
-In the placebo-controlled period of the psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, the incidence of malignancies excluding non-melanoma skin cancer was 0.11 per 100 patient-years of follow-up for ustekinumab-treated patients (1 patient in 929 patient-years of follow-up) compared with 0.23 for placebo-treated patients (1 patient in 434 patient-years of followup). The incidence of non-melanoma skin cancer was 0.43 per 100 patient-years of follow-up for
-
 <div style=\"page-break-after: always\"></div>
 
-ustekinumab-treated patients (4 patients in 929 patient-years of follow-up) compared to 0.46 for placebo-treated patients (2 patients in 433 patient-years of follow-up).
+## Malignancies
+
+In the placebo-controlled period of the psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, the incidence of malignancies excluding non-melanoma skin cancer was 0.11 per 100 patient-years of follow-up for ustekinumab-treated patients (1 patient in 929 patient-years of follow-up) compared with 0.23 for placebo-treated patients (1 patient in 434 patient-years of followup). The incidence of non-melanoma skin cancer was 0.43 per 100 patient-years of follow-up for ustekinumab-treated patients (4 patients in 929 patient-years of follow-up) compared to 0.46 for placebo-treated patients (2 patients in 433 patient-years of follow-up).
 
 In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,205 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding nonmelanoma skin cancers were reported in 76 patients in 15,205 patient-years of follow-up (incidence of 0.50 per 100 patient- years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval:0.73,1.18], adjusted for age, gender and race). The most frequently observed malignancies, other than nonmelanoma skin cancer, were prostate, melanoma, colorectal and breast cancers. The incidence of nonmelanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in 15,165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
 
@@ -296,6 +312,10 @@ In Crohn's disease and ulcerative colitis intravenous induction studies, no even
 
 The safety of ustekinumab has been studied in two phase 3 studies of paediatric patients with moderate to severe plaque psoriasis. The first study was in 110 patients from 12 to 17 years of age treated for up to 60 weeks and the second study was in 44 patients from 6 to 11 years of age treated for up to 56 weeks. In general, the adverse events reported in these two studies with safety data up to 1 year were similar to those seen in previous studies in adults with plaque psoriasis.
 
+## Paediatric patients weighing at least 40 kg with Crohn's disease
+
+The safety of ustekinumab has been studied in one phase 1 and one phase 3 study of paediatric patients with moderately to severely active Crohn's disease up to week 240 and week 52, respectively. In general, the safety profile in this cohort (n = 71) was similar to that seen in previous studies in adults with Crohn's disease.
+
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
@@ -304,6 +324,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Single doses up to 6 mg/kg have been administered intravenously in clinical studies without doselimiting toxicity. In case of overdose, it is recommended that the patient be monitored for any signs or symptoms of adverse reactions and appropriate symptomatic treatment be instituted immediately.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -311,8 +333,6 @@ Single doses up to 6 mg/kg have been administered intravenously in clinical stud
 Pharmacotherapeutic group: Immunosuppressants, interleukin inhibitors, ATC code: L04AC05.
 
 Fymskina is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency; https://www.ema.europa.eu.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -332,19 +352,19 @@ During the long term extension of Psoriasis Study 2 (PHOENIX 2), adult patients 
 
 The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development program consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44 week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
 
-The induction studies included 1409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
-
-Patients in UNITI-1 had failed or were intolerant to prior antiTNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNF  therapy and 52% had failed 2 or 3 prior antiTNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα thera pies.
-
-Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNFα naïve (68.6%) or had previously received but not
+The induction studies included 1409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous
 
 <div style=\"page-break-after: always\"></div>
 
-failed antiTNFα therapy (31.4%).
+administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
-In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 3). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
+Patients in UNITI-1 had failed or were intolerant to prior antiTNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNF  therapy and 52% had failed 2 or 3 prior antiTNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
 
-Table 3: Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
+Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNFα naïve (68.6%) or had previously received but not failed antiTNFα therapy (31.4%).
+
+In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 4). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
+
+Table 4 : Induction of Clinical Response and Remission in UNITI -1 and UNITI 2
 
 |                                       | UNITI-1 *       | UNITI-1 *                               | UNITI-2 **      | UNITI-2 **                              |
 |---------------------------------------|-----------------|-----------------------------------------|-----------------|-----------------------------------------|
@@ -360,33 +380,32 @@ Clinical remission is defined as CDAI score &lt; 150; Clinical response is defin
 70 point response is defined as reduction in CDAI score by at least 70 points
 
 * AntiTNFα failures
-
-**  Conventional therapy failures
-
-a p &lt; 0.001
-
-b p &lt; 0.01
+- **  Conventional therapy failures
+- a p &lt; 0.001
+- b p &lt; 0.01
 
 The maintenance study (IM-UNITI), evaluated 388 patients who achieved 100 point clinical response at week 8 of induction with ustekinumab in studies UNITI-1 and UNITI-2. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the Fymskina Solution for injection in pre-filled syringe SmPC).
 
-Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 4).
+Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 5).
 
-Table 4: Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
+Table 5 : Maintenance of Clinical Response and Remission in IM -UNITI (week 44; 52 weeks from initiation of the induction dose)
 
-|                                                  | Placebo* N = 131 †   | 90 mg ustekinumab every 8 weeks N = 128 †   | 90 mg ustekinumab every 12 weeks N = 129 †   |
-|--------------------------------------------------|----------------------|---------------------------------------------|----------------------------------------------|
-| Clinical Remission                               | 36%                  | 53% a                                       | 49% b                                        |
-| Clinical Response                                | 44%                  | 59% b                                       | 58% b                                        |
-| Corticosteroid-Free Clinical Remission           | 30%                  | 47% a                                       | 43% c                                        |
-| Clinical Remission in patients:                  |                      |                                             |                                              |
-| in remission at the start of maintenance therapy | 46% (36/79)          | 67% (52/78) a                               | 56% (44/78)                                  |
-| who entered from study CRD3002 ‡                 | 44% (31/70)          | 63% (45/72) c                               | 57% (41/72)                                  |
-| who are Anti- TNFα naïve                         | 49% (25/51)          | 65% (34/52) c                               | 57% (30/53)                                  |
-| who entered from study CRD3001 §                 | 26% (16/61)          | 41% (23/56)                                 | 39% (22/57)                                  |
-
-Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission
+| Placebo* N = 131 †   | 90 mg ustekinumab every 8 weeks N = 128 †   | 90 mg ustekinumab every 12 weeks N = 129 †   |
+|----------------------|---------------------------------------------|----------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
+
+| Clinical Remission                               | 36%         | 53% a         | 49% b       |
+|--------------------------------------------------|-------------|---------------|-------------|
+| Clinical Response                                | 44%         | 59% b         | 58% b       |
+| Corticosteroid-Free Clinical Remission           | 30%         | 47% a         | 43% c       |
+| Clinical Remission in patients:                  |             |               |             |
+| in remission at the start of maintenance therapy | 46% (36/79) | 67% (52/78) a | 56% (44/78) |
+| who entered from study CRD3002 ‡                 | 44% (31/70) | 63% (45/72) c | 57% (41/72) |
+| who are Anti- TNFα naïve                         | 49% (25/51) | 65% (34/52) c | 57% (30/53) |
+| who entered from study CRD3001 §                 | 26% (16/61) | 41% (23/56)   | 39% (22/57) |
+
+Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission
 
 * The placebo group consisted of patients who were in response to ustekinumab and were randomised to receive placebo at the start of maintenance therapy.
 - † Patients who were in 100 point clinical response to ustekinumab at start of maintenance therapy
@@ -398,7 +417,9 @@ Clinical remission is defined as CDAI score &lt; 150; Clinical response is defin
 
 In IM-UNITI, 29 of 129 patients did not maintain response to ustekinumab when treated every 12 weeks and were allowed to dose adjust to receive ustekinumab every 8 weeks. Loss of response was defined as a CDAI score ≥ 220 points and a ≥ 100 point increase from the CDAI score at baseline. In these patients, clinical remission was achieved in 41.4% of patients 16 weeks after dose adjustment.
 
-Patients who were not in clinical response to ustekinumab induction at week 8 of the UNITI-1 and UNITI-2 induction studies (476 patients) entered into the non-randomised portion of the maintenance study (IM-UNITI) and received a 90 mg subcutaneous injection of ustekinumab at that time. Eight weeks later, 50.5% of the patients achieved clinical response and continued to receive maintenance dosing every 8 weeks; among these patients with continued maintenance dosing, a majority maintained response (68.1%) and achieved remission (50.2%) at week 44, at proportions that were similar to the patients who initially responded to ustekinumab induction. Of 131 patients who responded to ustekinumab induction, and were randomised to the placebo group at the start of the maintenance study, 51 subsequently lost response and received 90 mg ustekinumab subcutaneously every 8 weeks. The majority of patients who lost response and resumed ustekinumab did so within 24 weeks of the induction infusion. Of these 51 patients, 70.6% achieved clinical response and 39.2% percent achieved clinical remission 16 weeks after receiving the first subcutaneous dose of ustekinumab.
+Patients who were not in clinical response to ustekinumab induction at week 8 of the UNITI-1 and UNITI-2 induction studies (476 patients) entered into the non-randomised portion of the maintenance study (IM-UNITI) and received a 90 mg subcutaneous injection of ustekinumab at that time. Eight weeks later, 50.5% of the patients achieved clinical response and continued to receive maintenance dosing every 8 weeks; among these patients with continued maintenance dosing, a majority maintained response (68.1%) and achieved remission (50.2%) at week 44, at proportions that were similar to the patients who initially responded to ustekinumab induction.
+
+Of 131 patients who responded to ustekinumab induction, and were randomised to the placebo group at the start of the maintenance study, 51 subsequently lost response and received 90 mg ustekinumab subcutaneously every 8 weeks. The majority of patients who lost response and resumed ustekinumab did so within 24 weeks of the induction infusion. Of these 51 patients, 70.6% achieved clinical response and 39.2% percent achieved clinical remission 16 weeks after receiving the first subcutaneous dose of ustekinumab.
 
 In IM-UNITI, patients who completed the study through week 44 were eligible to continue treatment in a study extension. Among the 567 patients who entered on and were treated with ustekinumab in the study extension, clinical remission and response were generally maintained through week 252 for both patients who failed TNF-therapies and those who failed conventional therapies.
 
@@ -408,17 +429,15 @@ No new safety concerns were identified in this study extension with up to 5 year
 
 Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SES-CD), a composite score across 5 ileocolonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = -0.7, p = 0.012).
 
-## Fistula Response
-
-In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumab-treated patients achieved a fistul a response over 44 weeks (defined as ≥ 50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
-
-## Health-related quality of life
-
-Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires. At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo. These improvements were generally better maintained in
+Fistula Response
 
 <div style=\"page-break-after: always\"></div>
 
-ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo. Improvement in health-related quality of life was generally maintained during the extension through week 252.
+In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumabtreated patients achieved a fistula response over 44 weeks (defined as ≥ 50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
+
+## Healthrelated quality of life
+
+Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires. At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo. These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo. Improvement in health-related quality of life was generally maintained during the extension through week 252.
 
 ## Immunogenicity
 
@@ -428,9 +447,58 @@ Antibodies to ustekinumab may develop during ustekinumab treatment and most are 
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with the reference medicinal product containing ustekinumab in one or more subsets of the paediatric population in Crohn's Disease (see section 4.2 for information on paediatric use).
 
+## Paediatric Crohn's disease
+
+The safety and efficacy of ustekinumab was evaluated in 48 paediatric patients weighing at least 40 kg, in an interim analysis of a multicentre phase 3 study (UNITI-Jr) for paediatric patients with moderately to severely active Crohn's disease (defined by a Paediatric Crohn's Disease Activity Index [PCDAI] score &gt;30) through 52 weeks of treatment (8 weeks of induction and 44 weeks of maintenance treatment). Patients included in the study either had not adequately responded to or had not tolerated prior biologic therapy or conventional therapy for Crohn's disease. The study included an open-label induction treatment with a single ustekinumab intravenous dose, of approximately 6 mg/kg (see section 4.2), followed by a randomised double-blind subcutaneous maintenance regimen of 90 mg ustekinumab administered either every 8 weeks or every 12 weeks.
+
+## Efficacy results
+
+The primary endpoint of the study was clinical remission at induction week 8 (defined as PCDAI score ≤ 10). The proportion of patients who achieved clinical remission was 52.1% (25/48) and is comparable to that observed in the adult ustekinumab phase 3 studies.
+
+Clinical response was observed as early as week 3. The proportion of patients in clinical response at week 8 (defined as a reduction from baseline in the PCDAI score of &gt;12.5 points with a total PCDAI score not more than 30) was 93.8% (45/48).
+
+Table 6 presents the analyses for the secondary endpoints through maintenance week 44.
+
+Table 6 : Summary of Secondary endpoints through Maintenance week 44
+
+|                                          | 90 mg ustekinumab every 8 weeks N = 23   | 90 mg ustekinumab every 12 weeks N = 25   | Total number of patients N = 48   |
+|------------------------------------------|------------------------------------------|-------------------------------------------|-----------------------------------|
+| Clinical Remission *                     | 43.5% (10/23)                            | 60.0% (15/25)                             | 52.1% (25/48)                     |
+| Corticosteroid-free Clinical Remission § | 43.5% (10/23)                            | 60.0% (15/25)                             | 52.1% (25/48)                     |
+| Clinical remission for patients who      | 64.3% (9/14)                             | 54.5% (6/11)                              | 60.0% (15/25)                     |
+
+<div style=\"page-break-after: always\"></div>
+
+| were in clinical remission at induction week 8 *   |               |               |               |
+|----------------------------------------------------|---------------|---------------|---------------|
+| Clinical Response †                                | 52.2% (12/23) | 60.0% (15/25) | 56.3% (27/48) |
+| Endoscopic response £                              | 22.7% (5/22)  | 28.0% (7/25)  | 25.5% (12/47) |
+
+* Clinical remission is defined as PCDAI score ≤10 points.
+
+§ Corticosteroidfree remission is defined as PCDAI score of ≤10 points and not receiving corticosteroids for at least 90 days prior to Week M-44.
+
+† Clinical response is defined as a reduction from baseline in the PCDAI score of ≥12.5 points with a total PCDAI score not more than 30.
+
+£ Endoscopic response is defined as a reduction in the SESCD score of ≥50% or SES -CD score ≤2, in patients with a baseline SESCD score of ≥3.
+
+## Dosing frequency adjustment
+
+Patients who entered the maintenance regimen and experienced loss of response (LOR) based on PCDAI score were eligible for dose adjustment. Patients were either switched from treatment every 12 weeks to every 8 weeks or stayed on treatment every 8 weeks (sham adjustment). 2 patients were dose adjusted to the shorter dosing interval. In these patients, clinical remission was achieved in 100% (2/2) of patients 8 weeks after dose adjustment.
+
+The safety profile of the induction dose regimen and both maintenance dose regimens in the paediatric population weighing at least 40 kg is comparable with that established in the adult Crohn's disease population (see Section 4.8).
+
+## Serum and faecal inflammatory biomarkers
+
+The mean change from baseline at maintenance week 44 in C-Reactive protein (CRP) and faecal calprotectin concentrations were -11.17 mg/L (24.159) and -538.2 mg/kg (1271.33), respectively.
+
+## Healthrelated quality of life
+
+The total IMPACT-III scores and all subdomains (bowel symptoms, fatigue-related systemic symptoms, and well-being) demonstrated clinically meaningful improvements after 52 weeks.
+
 ## 5.2 Pharmacokinetic properties
 
-Following the recommended intravenous induction dose, median peak serum ustekinumab concentration, observed 1 hour after the infusion, was 126.1 μg/mL in patients with Cro hn's disease.
+Following the recommended intravenous induction dose, median peak serum ustekinumab concentration, observed 1 hour after the infusion, was 126.1 μg/mL in patients with Crohn's disease.
 
 ## Distribution
 
@@ -450,7 +518,11 @@ The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximatel
 
 ## Special populations
 
-No pharmacokinetic data are available in patients with impaired renal or hepatic function. No specific studies have been conducted with intravenous ustekinumab in elderly or paediatric patients.
+No pharmacokinetic data are available in patients with impaired renal or hepatic function. No specific
+
+<div style=\"page-break-after: always\"></div>
+
+studies have been conducted with intravenous ustekinumab in elderly or paediatric patients weighing less than 40 kg.
 
 In patients with Crohn's disease, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution. Additionally in Crohn's disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian). The impact of these covariates was within ±20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates. Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
 
@@ -458,11 +530,11 @@ In patients with Crohn's disease, variability in ustekinumab clearance was affec
 
 The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitro study using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4; see section 4.5).
 
-A phase 1, open-label, drug interaction study, Study CNTO1275CRD1003, was conducted to evaluate the effect of ustekinumab on cytochrome P450 enzyme activities following induction and maintenance
+A phase 1, open-label, drug interaction study, Study CNTO1275CRD1003, was conducted to evaluate the effect of ustekinumab on cytochrome P450 enzyme activities following induction and maintenance dosing in patients with active Crohn's disease (n=18). No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with ustekinumab at the approved recommended dosing in patients with Crohn's disease (see section 4.5).
 
-<div style=\"page-break-after: always\"></div>
+## Paediatric population
 
-dosing in patients with active Crohn's disease (n=18). No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with ustekinumab at the approved recommended dosing in patients with Crohn's disease (see section 4.5).
+Serum ustekinumab concentrations in paediatric Crohn's disease patients weighing at least 40 kg, treated with the recommended weight-based dose were generally comparable to those in the adult Crohn's disease population treated with the adult weight-based dose.
 
 ## 5.3 Preclinical safety data
 
@@ -476,7 +548,11 @@ Carcinogenicity studies were not performed with ustekinumab due to the lack of a
 
 ## 6.1 List of excipients
 
-EDTA disodium salt dihydrate L-histidine L-histidine monohydrochloride monohydrate L-methionine Polysorbate 80 (E 433) Sucrose Water for injection
+EDTA disodium salt dihydrate L-histidine L-histidine monohydrochloride monohydrate L-methionine Polysorbate 80 (E 433) Sucrose
+
+<div style=\"page-break-after: always\"></div>
+
+Water for injection
 
 ## 6.2 Incompatibilities
 
@@ -484,15 +560,19 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-3 years. Do not freeze. Chemical and physical in-use stability has been demonstrated for 24 hours at 15-25°C. Do not return to the refrigerator after dilution. contamination, the product should be used immediately. If not used immediately, in-use storage times
+3 years.
 
-From a microbiological point of view, unless the method of dilution precludes the risk of microbial and conditions are the responsibility of user.
+Do not freeze.
+
+Chemical and physical in-use stability has been demonstrated for 24 hours at 15-25°C.
+
+Do not return to the refrigerator after dilution.
+
+From a microbiological point of view, unless the method of dilution precludes the risk of microbial contamination, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of user.
 
 ## 6.4 Special precautions for storage
 
 Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
-
-<div style=\"page-break-after: always\"></div>
 
 For storage conditions after dilution of the medicinal product, see section 6.3.
 
@@ -514,7 +594,12 @@ Fymskina concentrate for solution for infusion must be diluted and prepared by a
 4. Visually inspect the diluted solution before administration. Do not use if visibly opaque particles, discolouration or foreign particles are observed.
 5. Administer the diluted solution over a period of at least one hour. Once diluted, the infusion should be completed within 24 hours of the dilution in the infusion bag.
 6. Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.2 micrometer).
-7. Each vial is for single use only and any unused medicinal product should be disposed of in accordance with local requirements.
+
+<div style=\"page-break-after: always\"></div>
+
+7.
+
+Each vial is for single use only and any unused medicinal product should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -529,8 +614,6 @@ EU/1/24/1862/003
 Date of first authorisation: 25 September 2024
 
 ## 10. DATE OF REVISION OF THE TEXT
-
-<div style=\"page-break-after: always\"></div>
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu/.
 
@@ -564,7 +647,7 @@ Fymskina 45 mg solution for injection in pre-filled syringe Solution for injecti
 
 Fymskina 90 mg solution for injection in pre-filled syringe Solution for injection (injection).
 
-The solution is clear and colourless to slightly brown-yellow.
+The solution is clear to slightly opalescent, colourless to slightly brown-yellow.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -586,9 +669,13 @@ Fymskina, alone or in combination with MTX, is indicated for the treatment of ac
 
 in adult patients when the response to previous non-biological disease-modifying anti-rheumatic drug (DMARD) therapy has been inadequate (see section 5.1).
 
-## Crohn's Disease
+## Adult Crohn's Disease
 
-Fymskina is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist or have medical contrain dications to such therapies.
+Fymskina is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
+
+## Paediatric Crohn's Disease
+
+Fymskina is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients weighing at least 40 kg, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
 
 ## 4.2 Posology and method of administration
 
@@ -638,13 +725,11 @@ Table 1 Recommended dose of Fymskina for paediatric psoriasis
 | ≥ 60 - ≤ 100 kg                     | 45 mg              |
 | > 100 kg                            | 90 mg              |
 
-* Fymskina is not available for patients that require less than a full 45 mg dose. If an alternative dose is required, other ustekinumab products offering such an option should be used.
-
 There is no dose form for Fymskina that allows weight-based dosing for paediatric patients below 60 kg. Patients weighing less than 60 kg should be accurately dosed on a mg/kg basis using another ustekinumab product, 45 mg solution for injection in vials offering weight-based dosing instead.
 
 Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
 
-## Crohn's Disease
+## Adults Crohn's Disease
 
 In the treatment regimen, the first dose of Fymskina is administered intravenously. For the posology of the intravenous dosing regimen, see section 4.2 of the Fymskina 130 mg Concentrate for solution for infusion SmPC.
 
@@ -672,13 +757,27 @@ Ustekinumab has not been studied in these patient populations. No dose recommend
 
 ## Paediatric population
 
-The safety and efficacy of ustekinumab in treatment of Crohn's disease in children less than 18 years have not yet been established. No data are available.
+## Paediatric Crohn's disease (patients weighing at least 40 kg)
+
+In the treatment regimen, the first dose of Fymskina is administered intravenously. For the posology of the intravenous dosing regimen, see section 4.2 of the Fymskina 130 mg Concentrate for solution for infusion SmPC.
+
+<div style=\"page-break-after: always\"></div>
+
+The first subcutaneous administration of 90 mg Fymskina should take place at week 8 after the intravenous dose. After this, dosing every 12 weeks is recommended.
+
+Patients who lose response on dosing every 12 weeks may benefit from an increase in dosing frequency to every 8 weeks (see section 5.1, section 5.2).
+
+Patients may subsequently be dosed every 8 weeks or every 12 weeks according to clinical judgment (see section 5.1).
+
+Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after dose adjustment.
+
+Immunomodulators, 5-aminosalicylate (5-ASA) compounds, antibiotics, and/or corticosteroids may be continued during treatment with Fymskina. In patients who have responded to treatment with Fymskina, these medications maybe reduced or discontinued in accordance with standard of care.
+
+The safety and efficacy of ustekinumab in treatment of Crohn's disease for paediatric patients weighing less than 40 kg have not yet been established. No data are available.
 
 ## Method of administration
 
 Fymskina 45 mg and 90 mg pre-filled syringes are for subcutaneous injection only. If possible, areas of the skin that show psoriasis should be avoided as injection sites.
-
-<div style=\"page-break-after: always\"></div>
 
 After proper training in subcutaneous injection technique, patients or their caregivers may inject Fymskina if a physician determines that it is appropriate. However, the physician should ensure appropriate follow-up of patients. Patients or their caregivers should be instructed to inject the prescribed amount of Fymskina according to the directions provided in the package leaflet. Comprehensive instructions for administration are given in the package leaflet.
 
@@ -702,6 +801,8 @@ Opportunistic infections including reactivation of tuberculosis, other opportuni
 
 Caution should be exercised when considering the use of Fymskina in patients with a chronic infection or a history of recurrent infection (see section 4.3).
 
+<div style=\"page-break-after: always\"></div>
+
 Prior to initiating treatment with Fymskina, patients should be evaluated for tuberculosis infection. Fymskina must not be given to patients with active tuberculosis (see section 4.3). Treatment of latent tuberculosis infection should be initiated prior to administering Fymskina. Anti-tuberculosis therapy should also be considered prior to initiation of Fymskina in patients with a history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed. Patients receiving Fymskina should be monitored closely for signs and symptoms of active tuberculosis during and after treatment.
 
 Patients should be instructed to seek medical advice if signs or symptoms suggestive of an infection occur. If a patient develops a serious infection, the patient should be closely monitored and Fymskina should not be administered until the infection resolves.
@@ -711,8 +812,6 @@ Patients should be instructed to seek medical advice if signs or symptoms sugges
 Immunosuppressants like ustekinumab have the potential to increase the risk of malignancy. Some patients who received ustekinumab in clinical studies and in a post-marketing observational study in patients with psoriasis developed cutaneous and non-cutaneous malignancies (see section 4.8). The risk of malignancy may be higher in psoriasis patients who have been treated with other biologics during the course of their disease.
 
 No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving ustekinumab. Thus, caution should be exercised when considering the use of Fymskina in these patients.
-
-<div style=\"page-break-after: always\"></div>
 
 All patients, in particular those greater than 60 years of age, patients with a medical history of prolonged immunosuppressant therapy or those with a history of PUVA treatment, should be monitored for the appearance of skin cancer (see section 4.8).
 
@@ -734,6 +833,8 @@ Cardiovascular events including myocardial infarction and cerebrovascular accide
 
 It is recommended that live viral or live bacterial vaccines (such as Bacillus of Calmette and Guérin (BCG)) should not be given concurrently with Fymskina. Specific studies have not been conducted in patients who had recently received live viral or live bacterial vaccines. No data are available on the secondary transmission of infection by live vaccines in patients receiving ustekinumab. Before live viral or live bacterial vaccination, treatment with Fymskina should be withheld for at least 15 weeks after the last dose and can be resumed at least 2 weeks after vaccination. Prescribers should consult the Summary of Product Characteristics for the specific vaccine for additional information and guidance on concomitant use of immunosuppressive agents post-vaccination.
 
+<div style=\"page-break-after: always\"></div>
+
 Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.5 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 Patients receiving Fymskina may receive concurrent inactivated or non-live vaccinations.
@@ -746,11 +847,7 @@ In psoriasis studies, the safety and efficacy of ustekinumab in combination with
 
 ## Immunotherapy
 
-Ustekinumab has not been evaluated in patients who have undergone allergy immunotherapy. It is not
-
-<div style=\"page-break-after: always\"></div>
-
-known whether ustekinumab may affect allergy immunotherapy.
+Ustekinumab has not been evaluated in patients who have undergone allergy immunotherapy. It is not known whether ustekinumab may affect allergy immunotherapy.
 
 ## Serious skin conditions
 
@@ -774,17 +871,17 @@ Polysorbates may cause allergic reactions.
 
 Live vaccines should not be given concurrently with Fymskina.
 
-Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are
+
+<div style=\"page-break-after: always\"></div>
+
+undetectable (see sections 4.4 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 In the population pharmacokinetic analyses of the phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to antiTNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. antiTNFα agents and/or vedolizumab) in patients with ulcerative colitis.
 
 The results of an in vitro study and a phase 1 study in subjects with active Crohn's disease do not suggest the need for dose adjustments in patients who are receiving concomitant CYP450 substrates (see section 5.2).
 
-In psoriasis studies, the safety and efficacy of ustekinumab in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of ustekinumab. In Crohn's
-
-<div style=\"page-break-after: always\"></div>
-
-disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of ustekinumab. (see section 4.4).
+In psoriasis studies, the safety and efficacy of ustekinumab in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of ustekinumab. In Crohn's disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of ustekinumab. (see section 4.4).
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -804,7 +901,11 @@ Ustekinumab crosses the placenta and has been detected in the serum of infants b
 
 ## Breast-feeding
 
-Limited data from published literature suggests that ustekinumab is excreted in human breast milk in very small amounts. It is not known if ustekinumab is absorbed systemically after ingestion. Because of the potential for adverse reactions in nursing infants from ustekinumab, a decision on whether to discontinue breast-feeding during treatment and up to 15 weeks after treatment or to discontinue therapy with Fymskina must be made taking into account the benefit of breast-feeding to the child and the benefit of Fymskina therapy to the woman.
+Limited data from published literature suggests that ustekinumab is excreted in human breast milk in very small amounts. It is not known if ustekinumab is absorbed systemically after ingestion. Because of the potential for adverse reactions in nursing infants from ustekinumab, a decision on whether to discontinue breast-feeding during treatment and up to 15 weeks after treatment or to discontinue
+
+<div style=\"page-break-after: always\"></div>
+
+therapy with Fymskina must be made taking into account the benefit of breast-feeding to the child and the benefit of Fymskina therapy to the woman.
 
 ## Fertility
 
@@ -822,27 +923,28 @@ The most common adverse reactions (&gt; 5%) in controlled periods of the adult p
 
 ## Tabulated list of adverse reactions
 
-The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6,710 patients (4,135 with psoriasis and/or psoriatic arthritis, 1,749 with Crohn's disease and
+The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6,710 patients (4,135 with psoriasis and/or psoriatic arthritis, 1,749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and noncontrolled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4,577 patients) or at least 1 year (3,648 patients). 2,194 patients with psoriasis, Crohn's disease or ulcerative colitis were exposed for at least 4 years while 1,148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
 
-<div style=\"page-break-after: always\"></div>
-
-826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and noncontrolled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4,577 patients) or at least 1 year (3,648 patients). 2,194 patients with psoriasis, Crohn's disease or ulcerative colitis were exposed for at least 4 years while 1,148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
-
-Table 2 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rar e (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Table 2 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 2 List of adverse reactions
 
-| System Organ Class                                   | Frequency: Adverse reaction                                                                                                                                                                                                              |
-|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                          | Common: Upper respiratory tract infection, nasopharyngitis, sinusitis Uncommon: Cellulitis, dental infections, herpes zoster, lower respiratory tract infection, viral upper respiratory tract infection, vulvovaginal mycotic infection |
-| Immune system disorders                              | Uncommon: Hypersensitivity reactions (including rash, urticaria) Rare: Serious hypersensitivity reactions (including anaphylaxis, angioedema)                                                                                            |
-| Psychiatric disorders                                | Uncommon: Depression                                                                                                                                                                                                                     |
-| Nervous system disorders                             | Common: Dizziness, headache Uncommon: Facial palsy                                                                                                                                                                                       |
-| Respiratory, thoracic and mediastinal disorders      | Common: Oropharyngeal pain Uncommon: Nasal congestion Rare: Allergic alveolitis, eosinophilic pneumonia Very rare: Organising pneumonia*                                                                                                 |
-| Gastrointestinal disorders                           | Common: Diarrhoea, nausea, vomiting                                                                                                                                                                                                      |
-| Skin and subcutaneous tissue disorders               | Common: Pruritus Uncommon: Pustular psoriasis, skin exfoliation, acne Rare: Exfoliative dermatitis, hypersensitivity vasculitis Very rare: Bullous pemphigoid, cutaneous lupus erythematosus                                             |
-| Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                                                                    |
-| General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia                                                         |
+| System Organ Class                              | Frequency: Adverse reaction                                                                                                                                                                                                              |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                     | Common: Upper respiratory tract infection, nasopharyngitis, sinusitis Uncommon: Cellulitis, dental infections, herpes zoster, lower respiratory tract infection, viral upper respiratory tract infection, vulvovaginal mycotic infection |
+| Immune system disorders                         | Uncommon: Hypersensitivity reactions (including rash, urticaria) Rare: Serious hypersensitivity reactions (including anaphylaxis, angioedema)                                                                                            |
+| Psychiatric disorders                           | Uncommon: Depression                                                                                                                                                                                                                     |
+| Nervous system disorders                        | Common: Dizziness, headache Uncommon: Facial palsy                                                                                                                                                                                       |
+| Respiratory, thoracic and mediastinal disorders | Common: Oropharyngeal pain Uncommon: Nasal congestion Rare: Allergic alveolitis, eosinophilic pneumonia Very rare: Organising pneumonia*                                                                                                 |
+| Gastrointestinal disorders                      | Common: Diarrhoea, nausea, vomiting                                                                                                                                                                                                      |
+| Skin and subcutaneous tissue disorders          | Common: Pruritus Uncommon: Pustular psoriasis, skin exfoliation, acne                                                                                                                                                                    |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                                      | Rare: Exfoliative dermatitis, hypersensitivity vasculitis Very rare: Bullous pemphigoid, cutaneous lupus erythematosus                                                           |
+|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                            |
+| General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia |
 
 ## Description of selected adverse reactions
 
@@ -850,11 +952,7 @@ Table 2 List of adverse reactions
 
 In the placebo-controlled studies of patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis, the rates of infection or serious infection were similar between ustekinumab-treated patients and those treated with placebo. In the placebo-controlled period of these clinical studies, the rate of infection was 1.36 per patient-year of follow-up in ustekinumab-treated patients, and 1.34 in placebo-treated patients. Serious infections occurred at the rate of 0.03 per patient-year of follow-up in ustekinumab-treated patients (30 serious infections in 930 patient-years of follow-up) and 0.03 in placebo-treated patients (15 serious infections in 434 patient-years of follow-up) (see section 4.4).
 
-In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,227  patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for
-
-<div style=\"page-break-after: always\"></div>
-
-Crohn's disease studies, and 2.3 years for ulcerative colitis studies. The rate of infection was 0.85 per patient-year of follow-up in ustekinumab-treated patients, and the rate of serious infections was 0.02 per patient-year of follow-up in ustekinumab-treated patients (289 serious infections in 15,227 patientyears of follow-up) and serious infections reported included pneumonia, anal abscess, cellulitis, diverticulitis, gastroenteritis and viral infections.
+In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,227 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies, and 2.3 years for ulcerative colitis studies. The rate of infection was 0.85 per patient-year of follow-up in ustekinumab-treated patients, and the rate of serious infections was 0.02 per patient-year of follow-up in ustekinumab-treated patients (289 serious infections in 15,227 patientyears of follow-up) and serious infections reported included pneumonia, anal abscess, cellulitis, diverticulitis, gastroenteritis and viral infections.
 
 In clinical studies, patients with latent tuberculosis who were concurrently treated with isoniazid did not develop tuberculosis.
 
@@ -866,6 +964,8 @@ In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, 
 
 ## Hypersensitivity reactions
 
+<div style=\"page-break-after: always\"></div>
+
 During the controlled periods of the psoriasis and psoriatic arthritis clinical studies of ustekinumab, rash and urticaria have each been observed in &lt; 1% of patients (see section 4.4).
 
 ## Paediatric population
@@ -874,6 +974,10 @@ During the controlled periods of the psoriasis and psoriatic arthritis clinical 
 
 The safety of ustekinumab has been studied in two phase 3 studies of paediatric patients with moderate to severe plaque psoriasis. The first study was in 110 patients from 12 to 17 years of age treated for up to 60 weeks and the second study was in 44 patients from 6 to 11 years of age treated for up to 56 weeks. In general, the adverse events reported in these two studies with safety data up to 1 year were similar to those seen in previous studies in adults with plaque psoriasis.
 
+## Paediatric patients weighing at least 40 kg with Crohn's disease
+
+The safety of ustekinumab has been studied in one phase 1 and one phase 3 study of paediatric patients with moderately to severely active Crohn's disease up to week 240 and week 52, respectively. In general, the safety profile in this cohort (n = 71) was similar to that seen in previous studies in adults with Crohn's disease.
+
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
@@ -881,8 +985,6 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 ## 4.9 Overdose
 
 Single doses up to 6 mg/kg have been administered intravenously in clinical studies without doselimiting toxicity. In case of overdose, it is recommended that the patient be monitored for any signs or symptoms of adverse reactions and appropriate symptomatic treatment be instituted immediately.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -898,7 +1000,11 @@ Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specific
 
 By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis and Crohn's disease through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
 
-In patients with Crohn's disease, treatment with ustekinumab resulted in a decrease in inflammatory markers including C-Reactive Protein (CRP) and fecal calprotectin during the induction phase, which were then maintained throughout the maintenance phase. CRP was assessed during the study extension and the reductions observed during maintenance were generally sustained through week 252.
+In patients with Crohn's disease, treatment with ustekinumab resulted in a decrease in inflammatory
+
+<div style=\"page-break-after: always\"></div>
+
+markers including C-Reactive Protein (CRP) and fecal calprotectin during the induction phase, which were then maintained throughout the maintenance phase. CRP was assessed during the study extension and the reductions observed during maintenance were generally sustained through week 252.
 
 ## Immunisation
 
@@ -910,11 +1016,7 @@ During the long term extension of Psoriasis Study 2 (PHOENIX 2), adult patients 
 
 The safety and efficacy of ustekinumab was assessed in 1,996 patients in two randomised, doubleblind, placebo-controlled studies in patients with moderate to severe plaque psoriasis and who were candidates for phototherapy or systemic therapy. In addition, a randomised, blinded assessor, activecontrolled study compared ustekinumab and etanercept in patients with moderate to severe plaque psoriasis who had had an inadequate response to, intolerance to, or contraindication to ciclosporin, MTX, or PUVA.
 
-Psoriasis Study 1 (PHOENIX 1) evaluated 766 patients. 53% of these patients were either nonresponsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at Weeks 0 and 4 and followed by the same dose every 12 weeks. Patients randomised to receive placebo at Weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at Weeks 12 and 16 followed by dosing every 12 weeks. Patients originally randomised to ustekinumab who achieved Psoriasis Area and Severity Index 75 response (PASI improvement of at least 75% relative to baseline) at both Weeks 28 and 40 were re-randomised to receive ustekinumab every 12 weeks or to placebo (i.e., withdrawal of therapy). Patients who were
-
-<div style=\"page-break-after: always\"></div>
-
-re-randomised to placebo at week 40 reinitiated ustekinumab at their original dosing regimen when they experienced at least a 50% loss of their PASI improvement obtained at week 40. All patients were followed for up to 76 weeks following first administration of study treatment.
+Psoriasis Study 1 (PHOENIX 1) evaluated 766 patients. 53% of these patients were either nonresponsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at Weeks 0 and 4 and followed by the same dose every 12 weeks. Patients randomised to receive placebo at Weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at Weeks 12 and 16 followed by dosing every 12 weeks. Patients originally randomised to ustekinumab who achieved Psoriasis Area and Severity Index 75 response (PASI improvement of at least 75% relative to baseline) at both Weeks 28 and 40 were re-randomised to receive ustekinumab every 12 weeks or to placebo (i.e., withdrawal of therapy). Patients who were re-randomised to placebo at week 40 reinitiated ustekinumab at their original dosing regimen when they experienced at least a 50% loss of their PASI improvement obtained at week 40. All patients were followed for up to 76 weeks following first administration of study treatment.
 
 Psoriasis Study 2 (PHOENIX 2) evaluated 1,230 patients. 61% of these patients were either nonresponsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at Weeks 0 and 4 followed by an additional dose at 16 weeks. Patients randomised to receive placebo at Weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at Weeks 12 and 16. All patients were followed for up to 52 weeks following first administration of study treatment.
 
@@ -972,7 +1074,7 @@ In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with cont
 
 <div style=\"page-break-after: always\"></div>
 
-(p &lt; 0.001). At 18 months (week 76), 84% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal). At 3 years (week 148), 82% of patients re-randomised to maintenance treatment were PASI 75 responders. At 5 years (week 244), 80% of patients re-randomised to maintenance treatment were PASI 75 responders.
+(p &lt; 0.001). At 18 months (week 76), 84% of patients re -randomised to maintenance treatment were PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal). At 3 years (week 148), 82% of patients re-randomised to maintenance treatment were PASI 75 responders. At 5 years (week 244), 80% of patients re-randomised to maintenance treatment were PASI 75 responders.
 
 In patients re-randomised to placebo, and who reinitiated their original ustekinumab treatment regimen after loss of ≥ 50% of PASI improvement 85% regained PASI 75 response within 12 weeks after reinitiating therapy.
 
@@ -984,7 +1086,7 @@ Ustekinumab has been shown to improve signs and symptoms, physical function and 
 
 The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebocontrolled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at Weeks 0 and 4 followed by every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX (≤ 25 mg/week).
 
-In PsA Study 1 (PSUMMIT I) and PsA Study 2 (PSUMMIT II), 80% and 86% of the patients, respectively, had been previously treated with DMARDs. In Study 1 previous treatment with antitumour necrosis factor (TNF)α agent was not allowed. In Study 2 , the majority of patients (58%, n = 180) had been previously treated with one or more antiTNFα agent(s), of whom over 70% had discontinued their antiTNFα treatment for lack of efficacy or intolerance at any time.
+In PsA Study 1 (PSUMMIT I) and PsA Study 2 (PSUMMIT II), 80% and 86% of the patients, respectively, had been previously treated with DMARDs. In Study 1 previous treatment with antitumour necrosis factor (TNF)α agent was not allowed. In Study 2, the majority of patients (58%, n = 180) had been previously treated with one or more antiTNFα agent(s), of whom over 70% had discontinued their antiTNFα treatment for lack of efficacy or intolerance at any time.
 
 ## Signs and symptoms
 
@@ -994,25 +1096,25 @@ Treatment with ustekinumab resulted in significant improvements in the measures 
 
 Table 5 Number of patients who achieved clinical response in Psoriatic arthritis Study 1 (PSUMMIT I) and Study 2 (PSUMMIT II) at week 24
 
-|                                             | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   |
-|---------------------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
-|                                             | PBO                           | 45 mg                         | 90 mg                         | PBO                           | 45 mg                         | 90 mg                         |
-| Number of patients randomised               | 206                           | 205                           | 204                           | 104                           | 103                           | 105                           |
-| ACR 20 response, N (%)                      | 47 (23%)                      | 87 (42%) a                    | 101 (50%) a                   | 21 (20%)                      | 45 (44%) a                    | 46 (44%) a                    |
-| ACR 50 response, N (%)                      | 18 (9%)                       | 51 (25%) a                    | 57 (28%) a                    | 7 (7%)                        | 18 (17%) b                    | 24 (23%) a                    |
-| ACR 70 response, N (%)                      | 5 (2%)                        | 25 (12%) a                    | 29 (14%) a                    | 3 (3%)                        | 7 (7%) c                      | 9 (9%) c                      |
-| Number of patients with ≥ 3% BSA d          | 146                           | 145                           | 149                           | 80                            | 80                            | 81                            |
-| PASI 75 response, N (%)                     | 16 (11%)                      | 83 (57%) a                    | 93 (62%) a                    | 4 (5%)                        | 41 (51%) a                    | 45 (56%) a                    |
-| PASI 90 response, N (%)                     | 4 (3%)                        | 60 (41%) a                    | 65 (44%) a                    | 3 (4%)                        | 24 (30%) a                    | 36 (44%) a                    |
-| Combined PASI 75 and ACR 20 response, N (%) | 8 (5%)                        | 40 (28%) a                    | 62 (42%) a                    | 2 (3%)                        | 24 (30%) a                    | 31 (38%) a                    |
-| Number of patients ≤ 100 kg                 | 154                           | 153                           | 154                           | 74                            | 74                            | 73                            |
-| ACR 20 response, N (%)                      | 39 (25%)                      | 67 (44%)                      | 78 (51%)                      | 17 (23%)                      | 32 (43%)                      | 34 (47%)                      |
-| Number of patients with ≥ 3% BSA d          | 105                           | 105                           | 111                           | 54                            | 58                            | 57                            |
-| PASI 75 response, N (%)                     | 14 (13%)                      | 64 (61%)                      | 73 (66%)                      | 4 (7%)                        | 31 (53%)                      | 32 (56%)                      |
-| Number of patients > 100 kg                 | 52                            | 52                            | 50                            | 30                            | 29                            | 31                            |
-| ACR 20 response, N (%)                      | 8 (15%)                       | 20 (38%)                      | 23 (46%)                      | 4 (13%)                       | 13 (45%)                      | 12 (39%)                      |
-| Number of patients with ≥ 3% BSA d          | 41                            | 40                            | 38                            | 26                            | 22                            | 24                            |
-| PASI 75 response, N (%)                     | 2 (5%)                        | 19 (48%)                      | 20 (53%)                      | 0                             | 10 (45%)                      | 13 (54%)                      |
+|                                            | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   |
+|--------------------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
+|                                            | PBO                           | 45 mg                         | 90 mg                         | PBO                           | 45 mg                         | 90 mg                         |
+| Number of patients randomised              | 206                           | 205                           | 204                           | 104                           | 103                           | 105                           |
+| ACR 20 response, N (%)                     | 47 (23%)                      | 87 (42%) a                    | 101 (50%) a                   | 21 (20%)                      | 45 (44%) a                    | 46 (44%) a                    |
+| ACR 50 response, N (%)                     | 18 (9%)                       | 51 (25%) a                    | 57 (28%) a                    | 7 (7%)                        | 18 (17%) b                    | 24 (23%) a                    |
+| ACR 70 response, N (%)                     | 5 (2%)                        | 25 (12%) a                    | 29 (14%) a                    | 3 (3%)                        | 7 (7%) c                      | 9 (9%) c                      |
+| Number of patients with ≥ 3% BSA d         | 146                           | 145                           | 149                           | 80                            | 80                            | 81                            |
+| PASI 75 response, N (%)                    | 16 (11%)                      | 83 (57%) a                    | 93 (62%) a                    | 4 (5%)                        | 41 (51%) a                    | 45 (56%) a                    |
+| PASI 90 response, N (%)                    | 4 (3%)                        | 60 (41%) a                    | 65 (44%) a                    | 3 (4%)                        | 24 (30%) a                    | 36 (44%) a                    |
+| Combined PASI 75 and ACR 20 response, N(%) | 8 (5%)                        | 40 (28%) a                    | 62 (42%) a                    | 2 (3%)                        | 24 (30%) a                    | 31 (38%) a                    |
+| Number of patients ≤ 100 kg                | 154                           | 153                           | 154                           | 74                            | 74                            | 73                            |
+| ACR 20 response, N (%)                     | 39 (25%)                      | 67 (44%)                      | 78 (51%)                      | 17 (23%)                      | 32 (43%)                      | 34 (47%)                      |
+| Number of patients with ≥ 3% BSA d         | 105                           | 105                           | 111                           | 54                            | 58                            | 57                            |
+| PASI 75 response, N (%)                    | 14 (13%)                      | 64 (61%)                      | 73 (66%)                      | 4 (7%)                        | 31 (53%)                      | 32 (56%)                      |
+| Number of patients > 100 kg                | 52                            | 52                            | 50                            | 30                            | 29                            | 31                            |
+| ACR 20 response, N (%)                     | 8 (15%)                       | 20 (38%)                      | 23 (46%)                      | 4 (13%)                       | 13 (45%)                      | 12 (39%)                      |
+| Number of patients with ≥ 3% BSA d         | 41                            | 40                            | 38                            | 26                            | 22                            | 24                            |
+| PASI 75 response, N (%)                    | 2 (5%)                        | 19 (48%)                      | 20 (53%)                      | 0                             | 10 (45%)                      | 13 (54%)                      |
 
 ACR 20, 50 and 70 responses continued to improve or were maintained through week 52 (PsA Study 1 and 2) and week 100 (PsA Study 1). In PsA Study 1, ACR 20 responses at week 100 were achieved by 57% and 64%, for 45 mg and 90 mg, respectively. In PsA Study 2, ACR 20 responses at week 52 were achieved by 47% and 48%, for 45 mg and 90 mg, respectively.
 
@@ -1022,7 +1124,7 @@ The proportion of patients achieving a modified PsA response criteria (PsARC) re
 
 compared with placebo at week 24.
 
-Responses observed in the ustekinumab treated groups were similar in patients receiving and not receiving concomitant MTX, and were maintained through weeks 52 and 100. Patients previously treated with antiTNFα agents who received ustekinumab achieved a greater response at week 24 than patients receiving placebo (ACR 20 response at week 24 for 45 mg and 90 mg was 37% and 34%, respectively, compared with placebo 15%; p &lt; 0.05), and responses were maintained through week 52.
+Responses observed in the ustekinumab treated groups were similar in patients receiving and not receiving concomitant MTX, and were maintained through weeks 52 and 100. Patients previously treated with antiTNFα agents who received ustekinumab achieved a g reater response at week 24 than patients receiving placebo (ACR 20 response at week 24 for 45 mg and 90 mg was 37% and 34%, respectively, compared with placebo 15%; p &lt; 0.05), and responses were maintained through week 52.
 
 For patients with enthesitis and/or dactylitis at baseline, in PsA Study 1 significant improvement in enthesitis and dactylitis score was observed in the ustekinumab groups compared with placebo at week 24. In PsA Study 2 significant improvement in enthesitis score and numerical improvement (not statistically significant) in dactylitis score was observed in the ustekinumab 90 mg group compared with placebo at week 24. Improvements in enthesitis score and dactylitis score were maintained through weeks 52 and 100.
 
@@ -1030,9 +1132,9 @@ For patients with enthesitis and/or dactylitis at baseline, in PsA Study 1 signi
 
 Structural damage in both hands and feet was expressed as change in total van der Heijde-Sharp score (vdH-S score), modified for PsA by addition of hand distal interphalangeal joints, compared to baseline. A pre-specified integrated analysis combining data from 927 subjects in both PsA Study 1 and 2 was performed. Ustekinumab demonstrated a statistically significant decrease in the rate of progression of structural damage compared to placebo, as measured by change from baseline to week 24 in the total modified vdH-S score (mean ± SD score was 0.97 ± 3.85 in the placebo group compared with 0.40 ± 2.11 and 0.39 ± 2.40 in the ustekinumab 45 mg (p &lt; 0.05) and 90 mg (p &lt; 0.001) groups, respectively). This effect was driven by PsA Study 1. The effect is considered demonstrated irrespective of concomitant MTX use, and was maintained through Weeks 52 (integrated analysis) and 100 (PsA Study 1).
 
-## Physical function and health-related quality of life
+## Physical function and healthrelated quality of life
 
-Ustekinumab-treated patients showed significant improvement in physical function as assessed by the Disability Index of the Health Assessment Questionnaire (HAQ-DI) at week 24. The proportion of patients achieving a clinically meaningful ≥ 0. 3 improvement in HAQ-DI score from baseline was also significantly greater in the ustekinumab groups when compared with placebo. Improvement in HAQDI score from baseline was maintained through Weeks 52 and 100.
+Ustekinumab-treated patients showed significant improvement in physical function as assessed by the Disability Index of the Health Assessment Questionnaire (HAQ-DI) at week 24. The proportion of patients achieving a clinically meaningful ≥ 0.3 improvement in HAQ-DI score from baseline was also significantly greater in the ustekinumab groups when compared with placebo. Improvement in HAQDI score from baseline was maintained through Weeks 52 and 100.
 
 There was significant improvement in DLQI scores in the ustekinumab groups as compared with placebo at week 24, which was maintained through weeks 52 and 100. In PsA Study 2 there was a significant improvement in Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F) scores in the ustekinumab groups when compared with placebo at week 24. The proportion of patients achieving a clinically significant improvement in fatigue (4 points in FACIT-F) was also significantly greater in the ustekinumab groups compared with placebo. Improvements in FACIT scores were maintained through week 52.
 
@@ -1044,7 +1146,7 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 Ustekinumab has been shown to improve signs and symptoms, and health-related quality of life in paediatric patients 6 years and older with plaque psoriasis.
 
-## Adolescent patients (12-17 years)
+## Adolescent patients (12 -17 years)
 
 The efficacy of ustekinumab was studied in 110 paediatric patients aged 12 to 17 years with moderate to severe plaque psoriasis in a multicentre, phase 3, randomised, double-blind, placebo-controlled study (CADMUS). Patients were randomised to receive either placebo (n = 37), or the recommended dose of ustekinumab (see section 4.2; n = 36) or half of the recommended dose of ustekinumab (n = 37) by subcutaneous injection at Weeks 0 and 4 followed by every 12 week (q12w) dosing. At week
 
@@ -1092,7 +1194,7 @@ During the placebo-controlled period through week 12, the efficacy of both the r
 
 <div style=\"page-break-after: always\"></div>
 
-## Children (6-11 years)
+## Children (6 -11 years)
 
 The efficacy of ustekinumab was studied in 44 paediatric patients aged 6 to 11 years with moderate to severe plaque psoriasis in an open label, single-arm, multicentre, phase 3, study (CADMUS Jr.). Patients were treated with the recommended dose of ustekinumab (see section 4.2; n = 44) by subcutaneous injection at weeks 0 and 4 followed by every 12 week (q12w) dosing.
 
@@ -1133,13 +1235,13 @@ The induction studies included 1409 (UNITI-1, n = 769; UNITI-2 n = 640) patients
 
 reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see section 4.2 of the Fymskina 130 mg Concentrate for solution for infusion SmPC), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
-Patients in UNITI-1 had failed or were intolerant to prior antiTNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNF  therapy and 52% had failed 2 or 3 prior antiTNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
+Patients in UNITI-1 had failed or were intolerant to prior antiTNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNF α therapy and 52% had failed 2 or 3 prior antiTNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
 
 Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNFα naïve (68.6%) or had previously received but not failed antiTNFα therapy (31.4%).
 
 In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 8). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
 
-Table 8: Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
+Table 8: Induction of Clinical Response and Remission in UNITI -1 and UNITI 2
 
 |                                       | UNITI-1 *       | UNITI-1 *                               | UNITI-2 **      | UNITI-2 **                              |
 |---------------------------------------|-----------------|-----------------------------------------|-----------------|-----------------------------------------|
@@ -1165,7 +1267,7 @@ Significantly higher proportions of patients maintained clinical remission and r
 
 <div style=\"page-break-after: always\"></div>
 
-Table 9: Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
+Table 9: Maintenance of Clinical Response and Remission in IM -UNITI (week 44; 52 weeks from initiation of the induction dose)
 
 |                                                  | Placebo* N = 131 †   | 90 mg ustekinumab every 8 weeks N = 128 †   | 90 mg ustekinumab every 12 weeks N = 129 †   |
 |--------------------------------------------------|----------------------|---------------------------------------------|----------------------------------------------|
@@ -1210,7 +1312,7 @@ Endoscopic Disease Severity Score for Crohn's Disease (SES-CD), a composite scor
 
 In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumabtreated patients achieved a fistula response over 44 weeks (defined as ≥ 50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
 
-## Health-related quality of life
+## Healthrelated quality of life
 
 Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires. At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo. These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo. Improvement in health-related quality of life was generally maintained during the extension through week 252.
 
@@ -1221,6 +1323,52 @@ Antibodies to ustekinumab may develop during ustekinumab treatment and most are 
 ## Paediatric population
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with the reference medicinal product containing ustekinumab in one or more subsets of the paediatric population in Crohn's Disease (see section 4.2 for information on paediatric use).
+
+## Paediatric Crohn's disease
+
+The safety and efficacy of ustekinumab was evaluated in 48 paediatric patients weighing at least 40 kg, in an interim analysis of a multicentre phase 3 study (UNITI-Jr) for paediatric patients with moderately to severely active Crohn's disease (defined by a Paediatric Crohn's Disease Activity Index [PCDAI] score &gt;30) through 52 weeks of treatment (8 weeks of induction and 44 weeks of maintenance treatment). Patients included in the study either had not adequately responded to or had not tolerated prior biologic therapy or conventional therapy for Crohn's disease. The study included an open-label induction treatment with a single ustekinumab intravenous dose, of approximately 6 mg/kg (see section 4.2), followed by a randomised double-blind subcutaneous maintenance regimen of 90 mg ustekinumab administered either every 8 weeks or every 12 weeks.
+
+## Efficacy results
+
+The primary endpoint of the study was clinical remission at induction week 8 (defined as PCDAI score ≤ 10). The proportion of patients who achieved clinical remission was 52.1% (25/48) and is comparable to that observed in the adult ustekinumab phase 3 studies.
+
+Clinical response was observed as early as week 3. The proportion of patients in clinical response at week 8 (defined as a reduction from baseline in the PCDAI score of &gt;12.5 points with a total PCDAI score not more than 30) was 93.8% (45/48).
+
+Table 10 presents the analyses for the secondary endpoints through maintenance week 44.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 1 0 : Summary of Secondary endpoints through Maintenance week 44
+
+|                                                                                      | 90 mg ustekinumab every 8 weeks N = 23   | 90 mg ustekinumab every 12 weeks N = 25   | Total number of patients N = 48   |
+|--------------------------------------------------------------------------------------|------------------------------------------|-------------------------------------------|-----------------------------------|
+| Clinical Remission *                                                                 | 43.5% (10/23)                            | 60.0% (15/25)                             | 52.1% (25/48)                     |
+| Corticosteroid-free Clinical Remission §                                             | 43.5% (10/23)                            | 60.0% (15/25)                             | 52.1% (25/48)                     |
+| Clinical remission for patients who were in clinical remission at induction week 8 * | 64.3% (9/14)                             | 54.5% (6/11)                              | 60.0% (15/25)                     |
+| Clinical Response †                                                                  | 52.2% (12/23)                            | 60.0% (15/25)                             | 56.3% (27/48)                     |
+| Endoscopic response £                                                                | 22.7% (5/22)                             | 28.0% (7/25)                              | 25.5% (12/47)                     |
+
+* Clinical remission is defined as PCDAI score ≤10 points.
+
+§ Corticosteroidfree remission is defined as PCDAI score of ≤10 points and not receiving corticosteroids for at least 90 days prior to Week M-44.
+
+† Clinical response is defined as a reduction from baseline in the PCDAI score of ≥12.5 points with a total PCDAI score not more than 30.
+
+£ Endoscopic response is defined as a reduction in the SESCD score of ≥50% or SES -CD score ≤2, in patients with a baseline SESCD score of ≥3.
+
+## Dosing frequency adjustment
+
+Patients who entered the maintenance regimen and experienced loss of response (LOR) based on PCDAI score were eligible for dose adjustment. Patients were either switched from treatment every 12 weeks to every 8 weeks or stayed on treatment every 8 weeks (sham adjustment). 2 patients were dose adjusted to the shorter dosing interval. In these patients, clinical remission was achieved in 100% (2/2) of patients 8 weeks after dose adjustment.
+
+The safety profile of the induction dose regimen and both maintenance dose regimens in the paediatric population weighing at least 40 kg is comparable with that established in the adult Crohn's disease population (see Section 4.8).
+
+## Serum and faecal inflammatory biomarkers
+
+The mean change from baseline at maintenance week 44 in C-Reactive protein (CRP) and faecal calprotectin concentrations were -11.17 mg/L (24.159) and -538.2 mg/kg (1271.33), respectively.
+
+## Healthrelated quality of life
+
+The total IMPACT-III scores and all subdomains (bowel symptoms, fatigue-related systemic symptoms, and well-being) demonstrated clinically meaningful improvements after 52 weeks.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -1236,15 +1384,13 @@ Median volume of distribution during the terminal phase (Vz) following a single 
 
 ## Biotransformation
 
+<div style=\"page-break-after: always\"></div>
+
 The exact metabolic pathway for ustekinumab is unknown.
 
 ## Elimination
 
-Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2) of ustekinumab was approximately 3 weeks in patients with psoriasis, psoriatic arthritis or Crohn's disease, ranging from
-
-<div style=\"page-break-after: always\"></div>
-
-15 to 32 days across all psoriasis and psoriatic arthritis studies. In a population pharmacokinetic analysis, the apparent clearance (CL/F) and apparent volume of distribution (V/F) were 0.465 l/day and 15.7 l, respectively, in patients with psoriasis. The CL/F of ustekinumab was not impacted by gender. Population pharmacokinetic analysis showed that there was a trend towards a higher clearance of ustekinumab in patients who tested positive for antibodies to ustekinumab.
+Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2) of ustekinumab was approximately 3 weeks in patients with psoriasis, psoriatic arthritis or Crohn's disease, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies. In a population pharmacokinetic analysis, the apparent clearance (CL/F) and apparent volume of distribution (V/F) were 0.465 l/day and 15.7 l, respectively, in patients with psoriasis. The CL/F of ustekinumab was not impacted by gender. Population pharmacokinetic analysis showed that there was a trend towards a higher clearance of ustekinumab in patients who tested positive for antibodies to ustekinumab.
 
 ## Dose linearity
 
@@ -1252,13 +1398,13 @@ The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximatel
 
 ## Single dose versus multiple doses
 
-Serum concentration-time profiles of ustekinumab were generally predictable after single or multiple subcutaneous dose administrations. In patients with psoriasis, steady-state serum concentrations of ustekinumab were achieved by week 28 after initial subcutaneous doses at Weeks 0 and 4 followed by doses every 12 weeks. The median steadystate trough concentration ranged from 0.21 μg/mL to 0.26 μg/mL (45 mg) and from 0.47 μg/mL to 0.49 μ g/mL (90 mg). There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
+Serum concentration-time profiles of ustekinumab were generally predictable after single or multiple subcutaneous dose administrations. In patients with psoriasis, steady-state serum concentrations of ustekinumab were achieved by week 28 after initial subcutaneous doses at Weeks 0 and 4 followed by doses every 12 weeks. The median steadystate trough concentration ranged from 0.21 μg/mL to 0.26 μg/mL (45 mg) and from 0.47 μg/mL to 0.49 μg/mL (90 mg). There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
 
-In patients with Crohn's disease, following an intravenous dose of ~6 mg/kg, starting at week 8, subcutaneous maintenance dosing of 90 mg ustekinumab was administered every 8 or 12 weeks. Steady state ustekinumab concentration was achieved by the start of the second maintenance dose. In patients with Crohn's disease, median steady-state trough concentrations range d from 1.97 μg/mL to 2.24 μg/mL and from 0.61 μg/mL to 0.76 μg/mL for 90 mg ustekinumab every 8 weeks or every 12 weeks respectively.. The steady-state trough ustekinumab levels resulting from 90 mg ustekinumab every 8 weeks were associated with higher clinical remission rates as compared to the steady-state trough levels following 90 mg every 12 weeks.
+In patients with Crohn's disease, following an intravenous dose of ~6 mg/kg, starting at week 8, subcutaneous maintenance dosing of 90 mg ustekinumab was administered every 8 or 12 weeks. Steady state ustekinumab concentration was achieved by the start of the second maintenance dose. In patients with Crohn's disease, median steadystate trough concentrations ranged from 1.97 μg/mL to 2.24 μg/mL and from 0.61 μg/mL to 0.76 μg/mL for 90 mg ustekinumab every 8 weeks or every 12 weeks respectively. The steady-state trough ustekinumab levels resulting from 90 mg ustekinumab every 8 weeks were associated with higher clinical remission rates as compared to the steady-state trough levels following 90 mg every 12 weeks.
 
 ## Impact of weight on pharmacokinetics
 
-In a population pharmacokinetic analysis using data from patients with psoriasis, body weight was found to be the most significant covariate affecting the clearance of ustekinumab. The median CL/F in patients with weight &gt; 100 kg was approximately 55% higher compared to patients with weight ≤ 100 kg. The median V/F in patients with weight &gt; 100 kg was approximately 37% higher as compared to patients with weight ≤ 100 kg. The median trough serum concentrations of ustekinumab in patients with higher weight (&gt; 100 kg) in the 90 mg group were comparable to those in patients with lower weight (≤ 100 kg) in the 45 mg group. Simi lar results were obtained from a confirmatory population pharmacokinetic analysis using data from patients with psoriatic arthritis.
+In a population pharmacokinetic analysis using data from patients with psoriasis, body weight was found to be the most significant covariate affecting the clearance of ustekinumab. The median CL/F in patients with weight &gt; 100 kg was approximately 55% higher compared to patients with weight ≤ 100 kg. The median V/F in patients with weight &gt; 100 kg was approximately 37% higher as compared to patients with weight ≤ 100 kg. The median trough serum concentrations of ustekinumab in patients with higher weight (&gt; 100 kg) in the 90 mg group were comparable to those in patients with lower weight (≤ 100 kg) in the 45 mg group. Similar results were obtained from a confirmatory population pharmacokinetic analysis using data from patients with psoriatic arthritis.
 
 ## Dosing frequency adjustment
 
@@ -1268,17 +1414,19 @@ In patients with Crohn's disease, based on observed data and population PK analy
 
 No pharmacokinetic data are available in patients with impaired renal or hepatic function. No specific studies have been conducted in elderly patients.
 
-The pharmacokinetics of ustekinumab were generally comparable between Asian and non-Asian patients with psoriasis.
-
-In patients with Crohn's disease, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution. Additionally in Crohn's disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian). The impact of
+The pharmacokinetics of ustekinumab were generally comparable between Asian and non-Asian
 
 <div style=\"page-break-after: always\"></div>
 
-these covariates was within ± 20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates. Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
+patients with psoriasis.
+
+In patients with Crohn's disease, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution. Additionally in Crohn's disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian). The impact of these covariates was within ± 20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates. Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
 
 In the population pharmacokinetic analysis, there were no indications of an effect of tobacco or alcohol on the pharmacokinetics of ustekinumab.
 
 Serum ustekinumab concentrations in paediatric psoriasis patients 6 to 17 years of age, treated with the recommended weight-based dose were generally comparable to those in the adult psoriasis population treated with the adult dose. Serum ustekinumab concentrations in paediatric psoriasis patients 12-17 years of age (CADMUS) treated with half of the recommended weight-based dose were generally lower than those in adults.
+
+The steady-state serum concentrations in paediatric patients with Crohn's disease weighing at least 40 kg were comparable to those in the adult Crohn's disease population.
 
 ## Regulation of CYP450 enzymes
 
@@ -1298,13 +1446,15 @@ Carcinogenicity studies were not performed with ustekinumab due to the lack of a
 
 ## 6.1 List of excipients
 
-L-histidine Polysorbate 80 (E 433) Sucrose Water for injections Hydrochloric acid (to adjust pH)
+## L-histidine
+
+<div style=\"page-break-after: always\"></div>
+
+Polysorbate 80 (E 433) Sucrose Water for injections Hydrochloric acid (to adjust pH)
 
 ## 6.2 Incompatibilities
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.3 Shelf life
 
@@ -1316,11 +1466,15 @@ Individual pre-filled syringes may be stored at room temperature up to 30°C for
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light. If needed, individual pre-filled syringes may be stored at room temperature up to 30°C (see section 6.3).
+Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
+
+If needed, individual pre-filled syringes may be stored at room temperature up to 30°C (see section 6.3).
 
 ## 6.5 Nature and contents of container
 
-Fymskina 45 mg solution for injection in pre-filled syringe 0.5 mL solution in a type I glass 1 mL syringe with a fixed stainless steel needle, a latex-free needle cover and a bromobutyl rubber plunger stopper. The syringe is fitted with a passive safety guard.
+Fymskina 45 mg solution for injection in pre-filled syringe
+
+0.5 mL solution in a type I glass 1 mL syringe with a fixed stainless steel needle, a latex-free needle cover and a bromobutyl rubber plunger stopper. The syringe is fitted with a passive safety guard.
 
 ## Fymskina 90 mg solution for injection in pre-filled syringe
 
@@ -1330,21 +1484,19 @@ Fymskina is available in a pack of 1 pre-filled syringe.
 
 ## 6.6 Special precautions for disposal and other handling
 
-The solution in the Fymskina pre-filled syringe should not be shaken. The solution should be visually inspected for particulate matter or discolouration prior to subcutaneous administration. The solution is clear to slightly opalescent, colourless to light brown-yellow and may contain a few small translucent or white particles of protein. This appearance is not unusual for proteinaceous solutions. The medicinal product should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present. Before administration, Fymskina should be allowed to reach room temperature (approximately half an hour). Detailed instructions for use are provided in the package leaflet.
+The solution in the Fymskina pre-filled syringe should not be shaken. The solution should be visually inspected for particulate matter or discolouration prior to subcutaneous administration. The solution is clear to slightly opalescent, colourless to slightly brown-yellow. The medicinal product should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present. Before administration, Fymskina should be allowed to reach room temperature (approximately half an hour). Detailed instructions for use are provided in the package leaflet.
 
 Fymskina does not contain preservatives; therefore any unused medicinal product remaining in the syringe should not be used. Fymskina is supplied as a sterile, single- use pre-filled syringe. The syringe and needle must never be re-used. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Formycon AG Fraunhoferstraße 15 82152 Martinsried/Planegg Germany
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-Fymskina 45 mg solution for injection in pre-filled syringe EU/1/24/1862/001
-
-Fymskina 90 mg solution for injection in pre-filled syringe EU/1/24/1862/002
+Fymskina 45 mg solution for injection in pre-filled syringe EU/1/24/1862/001 Fymskina 90 mg solution for injection in pre-filled syringe EU/1/24/1862/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1516,8 +1668,7 @@ For IV use after dilution. Do not shake.
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -1530,7 +1681,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-PRE-FILLED SYRINGE CARTON TEXT (45 mg)
+## PRE-FILLED SYRINGE CARTON TEXT (45 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1600,11 +1751,11 @@ EU/1/24/1862/001
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Fymskina 45 mg
 
@@ -1624,25 +1775,26 @@ NN
 
 ## PRE-FILLED SYRINGE LABEL TEXT (45 mg)
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OFADMINISTRATION   |
+|------|------------------------------------------------------------|
 
 Fymskina 45 mg injection ustekinumab SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BYUNIT   |
-|------|-------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 45 mg/0.5 mL
 
@@ -1721,7 +1873,7 @@ EU/1/24/1862/002
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1741,29 +1893,27 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL TEXT (90 mg)                              |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+## PRE-FILLED SYRINGE LABEL TEXT (90 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Fymskina 90 mg injection ustekinumab SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+## 2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BYUNIT   |
-|------|-------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 90 mg/1 mL
 
@@ -1780,7 +1930,9 @@ Lot
 
 ## Package leaflet: Information for the user
 
-## Fymskina 130 mg concentrate for solution for infusion ustekinumab
+## Fymskina 130 mg concentrate for solution for infusion
+
+## ustekinumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -1813,7 +1965,7 @@ Fymskina belongs to a group of medicines called 'immunosuppressants'. These medi
 
 Fymskina is used to treat the following inflammatory disease:
 
-- Moderate to severe Crohn's disease - in adults
+- Moderate to severe Crohn's disease - in adults and children who weigh at least 40 kg
 
 ## Crohn's disease
 
@@ -1859,7 +2011,7 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 ## Children and adolescents
 
-Fymskina is not recommended for use in children under 18 years of age with Crohn's disease because it has not been studied in this age group.
+Fymskina is not recommended for use in children who weigh less than 40 kg with Crohn's disease.
 
 ## Other medicines, vaccines and Fymskina
 
@@ -1867,11 +2019,11 @@ Tell your doctor or pharmacist:
 
 - If you are taking, have recently taken or might take any other medicines.
 - If you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Fymskina.
-- If you received Fymskina while pregnant, tell your baby's doctor about your Fymskina treatment before the baby receives any vaccine, including live vaccines, such as the BCG
+- If you received Fymskina while pregnant, tell your baby's doctor about your Fymskina treatment before the baby receives any vaccine, including live vaccines, such as the BCG vaccine (used to prevent tuberculosis). Live vaccines are not recommended for your baby in the
 
 <div style=\"page-break-after: always\"></div>
 
-vaccine (used to prevent tuberculosis). Live vaccines are not recommended for your baby in the first twelve months after birth if you received Fymskina during the pregnancy unless your baby's doctor recommends otherwise.
+first twelve months after birth if you received Fymskina during the pregnancy unless your baby's doctor recommends otherwise.
 
 ## Pregnancy and breast-feeding
 
@@ -1918,6 +2070,17 @@ Your doctor will decide how much Fymskina you need to receive and for how long.
 
 - After the starting intravenous dose, you will have the next dose of 90 mg Fymskina by an injection under your skin (subcutaneous injection) 8 weeks later, and then every 12 weeks thereafter.
 
+## Children with Crohn's disease who weigh at least 40 kg
+
+- The doctor will work out the recommended intravenous infusion dose for you based on your body weight.
+- After the starting intravenous dose, you will have the next dose of 90 mg Fymskina by an injection under your skin (subcutaneous injection) 8 weeks later, and then every 12 weeks thereafter.
+
+| Your body weight   | Dose   |
+|--------------------|--------|
+| ≥ 40 to ≤ 55 kg    | 260 mg |
+| > 55 kg to ≤ 85 kg | 390 mg |
+| > 85 kg            | 520 mg |
+
 ## How Fymskina is given
 
 - The first dose of Fymskina for treatment of Crohn's disease is given by a doctor as a drip in the vein of an arm (intravenous infusion).
@@ -1950,6 +2113,8 @@ Some patients may have serious side effects that may need urgent treatment.
 
 Infusion-related reactions - If you are being treated for Crohn's disease, the first dose of Fymskina is given through a drip into a vein (intravenous infusion). Some patients have experienced serious allergic reactions during the infusion of ustekinumab products.
 
+<div style=\"page-break-after: always\"></div>
+
 In rare cases, allergic lung reactions and lung inflammation have been reported in patients who receive ustekinumab. Tell your doctor right away if you develop symptoms such as cough, shortness of breath, and fever.
 
 If you have a serious allergic reaction, your doctor may decide that you should not use Fymskina again.
@@ -1959,9 +2124,6 @@ If you have a serious allergic reaction, your doctor may decide that you should 
 - Infections of the nose or throat and common cold are common (may affect up to 1 in 10 people)
 - Infections of the chest are uncommon (may affect up to 1 in 100 people)
 - Inflammation of tissue under the skin ('cellulitis') is uncommon (may affect up to 1 in 100 people)
-
-<div style=\"page-break-after: always\"></div>
-
 - Shingles (a type of painful rash with blisters) are uncommon (may affect up to 1 in 100 people)
 
 Fymskina may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic infections). Opportunistic infections of the brain (encephalitis, meningitis), lungs, and eye have been reported in patients receiving treatment with ustekinumab.
@@ -1998,6 +2160,8 @@ Common side effects (may affect up to 1 in 10 people):
 
 Uncommon side effects (may affect up to 1 in 100 people) :
 
+<div style=\"page-break-after: always\"></div>
+
 - Tooth infections
 - Vaginal yeast infection
 - Depression
@@ -2008,8 +2172,6 @@ Uncommon side effects (may affect up to 1 in 100 people) :
 - A change in psoriasis with redness and new tiny, yellow or white skin blisters, sometimes accompanied by fever (pustular psoriasis)
 - Peeling of the skin (skin exfoliation)
 - Acne
-
-<div style=\"page-break-after: always\"></div>
 
 ## Rare side effects (may affect up to 1 in 1000 people)
 
@@ -2045,6 +2207,8 @@ Fymskina is for single use only. Any diluted infusion solution or unused product
 
 ## 6. Contents of the pack and other information
 
+<div style=\"page-break-after: always\"></div>
+
 ## What Fymskina contains
 
 - The active substance is ustekinumab. Each vial contains130 mg ustekinumab in 26 mL.
@@ -2054,8 +2218,6 @@ Fymskina is for single use only. Any diluted infusion solution or unused product
 
 Fymskina is a clear, colourless to slightly brown-yellow concentrate for solution for infusion. It is supplied as a carton pack containing 1 single-dose, glass 30 mL vial. Each vial contains 130 mg ustekinumab in 26 mL of concentrate for solution for infusion.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Marketing Authorisation Holder and Manufacturer
 
 Formycon AG Fraunhoferstraße 15 82152 Martinsried/Planegg Germany
@@ -2064,13 +2226,15 @@ For any information about this medicine, please contact the local representative
 
 ## BE / BG / CZ / DK / EE / IE / IS / EL / ES / FR / HR / IT / CY / LV / LT / LU / HU / MT / NL / NO / AT / PL / PT / RO / SI / SK / FI / SE
 
-Formycon AG Tel/Tél/Te л ./Tlf/ Τηλ /Sími/Puh: + 49 89 864 667 100
+Formycon AG
+
+Tel/Tél/Te л ./Tlf/ Τηλ
+
+/Sími/Puh: + 49 89 864 667 100
 
 ## Deutschland
 
-ratiopharm GmbH
-
-Tel: +49 731 402 02
+ratiopharm GmbH Tel: +49 731 402 02
 
 ## This leaflet was last revised in .
 
@@ -2088,9 +2252,14 @@ In order to improve the traceability of biological medicinal products, the trade
 
 Fymskina concentrate for solution for infusion must be diluted, prepared and infused by a healthcare professional using aseptic technique.
 
-1. Calculate the dose and the number of Fymskina vials needed based on patient weight (see section 3, Table 1). Each 26 mL vial of Fymskina contains 130 mg of ustekinumab.
+1. Calculate the dose and the number of Fymskina vials needed based on patient weight (see section 3, Table 1, Table 2). Each 26 mL vial of Fymskina contains 130 mg of ustekinumab.
 2. Withdraw and then discard a volume of the sodium chloride 9 mg/mL (0.9%) solution from the 250 mL infusion bag equal to the volume of Fymskina to be added (discard 26 mL sodium chloride for each vial of Fymskina needed, for 2 vials- discard 52 mL, for 3 vials discard 78 mL, for 4 vials- discard 104 mL).
-3. Withdraw 26 mL of Fymskina from each vial needed and add it to the 250 mL infusion bag. The final volume in the infusion bag should be 250 mL. Gently mix.
+3. Withdraw 26 mL of Fymskina from each vial needed and add it to the 250 mL infusion bag. The
+
+<div style=\"page-break-after: always\"></div>
+
+final volume in the infusion bag should be 250 mL. Gently mix.
+
 4. Visually inspect the diluted solution before infusion. Do not use if visibly opaque particles, discolouration or foreign particles are observed.
 5. Infuse the diluted solution over a period of at least one hour. Once diluted, the infusion should be completed within 24 hours of the dilution in the infusion bag.
 6. Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.2 micrometer).
@@ -2098,11 +2267,7 @@ Fymskina concentrate for solution for infusion must be diluted, prepared and inf
 
 ## Storage
 
-If necessary, the diluted infusion solution should be stored at room temperature. The infusion should
-
-<div style=\"page-break-after: always\"></div>
-
-be completed within 24 hours of the dilution in the infusion bag. Do not freeze.
+If necessary, the diluted infusion solution should be stored at room temperature. The infusion should be completed within 24 hours of the dilution in the infusion bag. Do not freeze.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2148,7 +2313,7 @@ Fymskina is used to treat the following inflammatory diseases:
 
 - Plaque psoriasis - in adults and children aged 6 years and older
 - Psoriatic arthritis - in adults
-- Moderate to severe Crohn's disease - in adults
+- Moderate to severe Crohn's disease - in adults and children who weigh at least 40 kg
 
 ## Plaque psoriasis
 
@@ -2213,7 +2378,7 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 ## Children and adolescents
 
-Fymskina is not recommended for use in children with psoriasis under 6 years of age, or for use in children under 18 years of age with psoriatic arthritis and Crohn's disease, because it has not been studied in this age group.
+Fymskina is not recommended for use in children with psoriasis under 6 years of age, children with Crohn's disease who weigh less than 40 kg or for use in children under 18 years of age with psoriatic arthritis, because it has not been studied in this age group.
 
 ## Other medicines, vaccines and Fymskina
 
@@ -2270,6 +2435,11 @@ Your doctor will decide how much Fymskina you need to use and for how long.
 - If you weigh more than 100 kg, the recommended dose is 90 mg Fymskina.
 - After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks.
 
+## Children who weigh at least 40 kg Crohn's disease
+
+- During treatment, the first dose of approximately 6 mg/kg Fymskina will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Fymskina after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
+- In some patients, after the first injection under the skin, 90 mg Fymskina may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
+
 ## How Fymskina is given
 
 - Fymskina is given as an injection under the skin ('subcutaneously'). At the start of your treatment, medical or nursing staff may inject Fymskina.
@@ -2277,6 +2447,8 @@ Your doctor will decide how much Fymskina you need to use and for how long.
 - For instructions on how to inject Fymskina, see 'Instructions for administration' at the end of this leaflet.
 
 Talk to your doctor if you have any questions about giving yourself an injection.
+
+<div style=\"page-break-after: always\"></div>
 
 ## If you use more Fymskina than you should
 
@@ -2287,8 +2459,6 @@ If you have used or been given too much Fymskina, talk to a doctor or pharmacist
 If you forget a dose, contact your doctor or pharmacist. Do not take a double dose to make up for a forgotten dose.
 
 ## If you stop using Fymskina
-
-<div style=\"page-break-after: always\"></div>
 
 It is not dangerous to stop using Fymskina. However, if you stop, your symptoms may come back. If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
@@ -2326,16 +2496,15 @@ You must look out for signs of infection while you are using Fymskina. These inc
 - fever, flu-like symptoms, night sweats, weight loss
 - feeling tired or short of breath; cough which will not go away
 - warm, red and painful skin, or a painful skin rash with blisters
+
+<div style=\"page-break-after: always\"></div>
+
 - burning when passing water
 - diarrhoea
 - visual disturbance or vision loss
 - headache, neck stiffness, light sensitivity, nausea or confusion.
 
-Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, skin infections, shingles or opportunistic infections that could have serious complications. Tell your doctor if you have any kind of infection that will not go away or keeps coming back. Your doctor may decide that you should not use Fymskina until the infection goes
-
-<div style=\"page-break-after: always\"></div>
-
-away. Also tell your doctor if you have any open cuts or sores as they might get infected.
+Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, skin infections, shingles or opportunistic infections that could have serious complications. Tell your doctor if you have any kind of infection that will not go away or keeps coming back. Your doctor may decide that you should not use Fymskina until the infection goes away. Also tell your doctor if you have any open cuts or sores as they might get infected.
 
 Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin conditions. You should tell your doctor straight away if you notice any of these signs.
 
@@ -2378,13 +2547,13 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 - Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid).
 - Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Fymskina
-
-<div style=\"page-break-after: always\"></div>
 
 - Keep this medicine out of the sight and reach of children.
 - Store in a refrigerator (2°C-8°C). Do not freeze.
@@ -2410,25 +2579,29 @@ Fymskina is for single use only. Any unused product remaining in the syringe sho
 
 ## What Fymskina looks like and contents of the pack
 
-Fymskina is a clear, colourless to slightly brown-yellow solution for injection. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled syringe. Each pre-filled syringe contains 45 mg ustekinumab in 0.5 mL of solution for injection.
+Fymskina is a clear to slightly opalescent, colourless to slightly brown-yellow solution for injection. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled syringe. Each pre-filled syringe contains 45 mg ustekinumab in 0.5 mL of solution for injection.
 
 ## Marketing Authorisation Holder and Manufacturer
 
 Formycon AG Fraunhoferstraße 15 82152 Martinsried/Planegg Germany
 
+<div style=\"page-break-after: always\"></div>
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## BE / BG / CZ / DK / EE / IE / IS / EL / ES / FR / HR / IT / CY / LV / LT / LU / HU / MT / NL / NO / AT / PL / PT / RO / SI / SK / FI / SE
 
-Formycon AG Tel/Tél/Te л ./Tlf/ Τηλ
+Formycon AG
+
+Tel/Tél/Te л ./Tlf/ Τηλ
 
 /Sími/Puh: + 49 89 864 667 100
 
 ## Deutschland
 
-<div style=\"page-break-after: always\"></div>
+ratiopharm GmbH
 
-ratiopharm GmbH Tel: +49 731 402 02
+Tel: +49 731 402 02
 
 ## This leaflet was last revised in .
 
@@ -2469,11 +2642,13 @@ Preparing for use of the pre-filled syringe
 - it is the right medicine
 - it has not passed its expiry date
 - the pre-filled syringe is not damaged
-- the solution in the pre-filled syringe is clear and colourless to slightly brown- yellow
+- the solution in the pre-filled syringe is clear to slightly opalescent, colourless to slightly brownyellow
 - the solution in the pre-filled syringe is not discoloured or cloudy and does not contain any foreign particles
-- the solution in the pre-filled syringe is not frozen.
 
 <div style=\"page-break-after: always\"></div>
+
+- •
+- the solution in the pre-filled syringe is not frozen.
 
 Get everything together that you need and lay out on a clean surface. This includes antiseptic wipes, a cotton ball or gauze, and a sharps container.
 
@@ -2490,7 +2665,7 @@ Figure 2: Areas in grey are recommended injection sites
 
 <!-- image -->
 
-Prepare the injection site
+## Prepare the injection site
 
 - Wash your hands very well with soap and warm water
 - Wipe the injection site on the skin with an antiseptic wipe
@@ -2512,9 +2687,11 @@ Figure 3
 
 ## 4. Inject the dose:
 
-- Hold the pre-filled syringe with one hand between the middle and index fingers and place the thumb on top of the plunger head and use the other hand to gently pinch the cleaned skin between your thumb and index finger. Do not squeeze it tightly
+- Hold the pre-filled syringe with one hand between the middle and index fingers and place the thumb on top of the plunger head and use the other hand to gently pinch the cleaned skin
 
 <div style=\"page-break-after: always\"></div>
+
+between your thumb and index finger. Do not squeeze it tightly
 
 - Do not pull back on the plunger at any time
 - In a single and swift motion, insert the needle through the skin as far as it will go (see Figure 4)
@@ -2536,8 +2713,7 @@ Figure 6
 
 <div style=\"page-break-after: always\"></div>
 
-## 5. After the injection:
-
+5. After the injection:
 - Press an antiseptic wipe over the injection site for a few seconds after the injection.
 - There may be a small amount of blood or liquid at the injection site. This is normal.
 - You can press a cotton ball or gauze over the injection site and hold for 10 seconds.
@@ -2600,7 +2776,7 @@ Fymskina is used to treat the following inflammatory diseases:
 
 - Plaque psoriasis - in adults and children aged 6 years and older
 - Psoriatic arthritis - in adults
-- Moderate to severe Crohn's disease - in adults
+- Moderate to severe Crohn's disease - in adults and children who weigh at least 40 kg
 
 ## Plaque psoriasis
 
@@ -2667,7 +2843,7 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 ## Children and adolescents
 
-Fymskina is not recommended for use in children with psoriasis under 6 years of age, or for use in children under 18 years of age with psoriatic arthritis or Crohn's disease, because it has not been studied in this age group.
+Fymskina is not recommended for use in children with psoriasis under 6 years of age, children with Crohn's disease who weigh less than 40 kg or for use in children under 18 years of age with psoriatic arthritis, because it has not been studied in this age group.
 
 ## Other medicines, vaccines and Fymskina
 
@@ -2726,11 +2902,20 @@ Your doctor will decide how much Fymskina you need to use and for how long.
 - If you weigh more than 100 kg, the recommended dose is 90 mg Fymskina.
 - After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks.
 
+## Children who weigh at least 40 kg Crohn's disease
+
+- During treatment, the first dose of approximately 6 mg/kg Fymskina will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Fymskina after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
+- In some patients, after the first injection under the skin, 90 mg Fymskina may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
+
 ## How Fymskina is given
 
 - Fymskina is given as an injection under the skin ('subcutaneously'). At the start of your treatment, medical or nursing staff may inject Fymskina.
 - However, you and your doctor may decide that you may inject Fymskina yourself. In this case you will get training on how to inject Fymskina yourself. In children 6 years and older, it is recommended that Fymskina be administered by a healthcare provider or a caregiver after proper training.
-- For instructions on how to inject Fymskina, see 'Instructions for administration' at the end of this leaflet.
+- For instructions on how to inject Fymskina, see 'Instructions for administration' at the end of
+
+<div style=\"page-break-after: always\"></div>
+
+this leaflet.
 
 Talk to your doctor if you have any questions about giving yourself an injection.
 
@@ -2740,11 +2925,7 @@ If you have used or been given too much Fymskina, talk to a doctor or pharmacist
 
 ## If you forget to use Fymskina
 
-If you forget a dose, contact your doctor or pharmacist. Do not take a double dose to make up for a
-
-<div style=\"page-break-after: always\"></div>
-
-forgotten dose.
+If you forget a dose, contact your doctor or pharmacist. Do not take a double dose to make up for a forgotten dose.
 
 ## If you stop using Fymskina
 
@@ -2783,17 +2964,16 @@ You must look out for signs of infection while you are using Fymskina. These inc
 
 - fever, flu-like symptoms, night sweats, weight loss
 - feeling tired or short of breath; cough which will not go away
+
+<div style=\"page-break-after: always\"></div>
+
 - warm, red and painful skin, or a painful skin rash with blisters
 - burning when passing water
 - diarrhoea
 - visual disturbance or vision loss
 - headache, neck stiffness, light sensitivity, nausea or confusion.
 
-Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, skin infections, shingles or opportunistic infections that could have
-
-<div style=\"page-break-after: always\"></div>
-
-serious complications. Tell your doctor if you have any kind of infection that will not go away or keeps coming back. Your doctor may decide that you should not use Fymskina until the infection goes away. Also tell your doctor if you have any open cuts or sores as they might get infected.
+Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, skin infections, shingles or opportunistic infections that could have serious complications. Tell your doctor if you have any kind of infection that will not go away or keeps coming back. Your doctor may decide that you should not use Fymskina until the infection goes away. Also tell your doctor if you have any open cuts or sores as they might get infected.
 
 Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin conditions. You should tell your doctor straight away if you notice any of these signs.
 
@@ -2834,13 +3014,15 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 ## Very rare side effects (may affect up to 1 in 10,000 people)
 
 - Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid).
-- Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains).
+- Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun
+
+<div style=\"page-break-after: always\"></div>
+
+possibly with joint pains).
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Fymskina
 
@@ -2868,21 +3050,29 @@ Fymskina is for single use only. Any unused product remaining in the syringe sho
 
 ## What Fymskina looks like and contents of the pack
 
-Fymskina is a clear, colourless to slightly brown-yellow solution for injection. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled syringe. Each pre-filled syringe contains 90 mg ustekinumab in 1 mL of solution for injection.
+Fymskina is a clear to slightly opalescent, colourless to slightly brown-yellow solution for injection. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled syringe. Each pre-filled syringe contains 90 mg ustekinumab in 1 mL of solution for injection.
 
 ## Marketing Authorisation Holder and Manufacturer
 
 Formycon AG Fraunhoferstraße 15 82152 Martinsried/Planegg Germany
 
+<div style=\"page-break-after: always\"></div>
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## BE / BG / CZ / DK / EE / IE / IS / EL / ES / FR / HR / IT / CY / LV / LT / LU / HU / MT / NL / NO / AT / PL / PT / RO / SI / SK / FI / SE
 
-Formycon AG Tel/Tél/Te л ./Tlf/ Τηλ /Sími/Puh: + 49 89 864 667 100
+Formycon AG
 
-<div style=\"page-break-after: always\"></div>
+Tel/Tél/Te л ./Tlf/ Τηλ
 
-Deutschland ratiopharm GmbH Tel: +49 731 402 02
+/Sími/Puh: + 49 89 864 667 100
+
+## Deutschland
+
+ratiopharm GmbH
+
+Tel: +49 731 402 02
 
 ## This leaflet was last revised in .
 
@@ -2922,21 +3112,22 @@ Check the pre-filled syringe(s) to make sure
 - it is the right medicine
 - it has not passed its expiry date
 - the pre-filled syringe is not damaged
-- the solution in the pre-filled syringe is clear and colourless to slightly brown - yellow
+- the solution in the pre-filled syringe is clear to slightly opalescent, colourless to slightly brownyellow
 - the solution in the pre-filled syringe is not discoloured or cloudy and does not contain any foreign particles
 - the solution in the pre-filled syringe is not frozen.
 
-Get everything together that you need and lay out on a clean surface. This includes antiseptic wipes, a cotton ball or gauze, and a sharps container.
+Get everything together that you need and lay out on a clean surface. This includes antiseptic wipes, a
 
 <div style=\"page-break-after: always\"></div>
+
+cotton ball or gauze, and a sharps container.
 
 ## 2. Choose and prepare the injection site:
 
 Choose an injection site (see Figure 2)
 
 - Fymskina is given by injection under the skin (subcutaneously)
-- Good places for the injection are the upper thigh or around the belly (abdomen) at least 5 cm
-- away from the navel (belly button)
+- Good places for the injection are the upper thigh or around the belly (abdomen) at least 5 cm away from the navel (belly button)
 - If possible, do not use areas of skin that show signs of psoriasis
 - If someone will assist in giving you the injection, then he or she may also choose the upper arms as an injection site.
 
@@ -2944,7 +3135,7 @@ Figure 2: Areas in gray are recommended injection sites
 
 <!-- image -->
 
-## Prepare the injection site
+Prepare the injection site
 
 - Wash your hands very well with soap and warm water
 - Wipe the injection site on the skin with an antiseptic wipe
@@ -2966,11 +3157,11 @@ Figure 3
 
 ## 4. Inject the dose:
 
-- Hold the pre-filled syringe with one hand between the middle and index fingers and place the thumb on top of the plunger head and use the other hand to gently pinch the cleaned skin
+- Hold the pre-filled syringe with one hand between the middle and index fingers and place the
 
 <div style=\"page-break-after: always\"></div>
 
-between your thumb and index finger. Do not squeeze it tightly
+thumb on top of the plunger head and use the other hand to gently pinch the cleaned skin between your thumb and index finger. Do not squeeze it tightly
 
 - Do not pull back on the plunger at any time
 - In a single and swift motion, insert the needle through the skin as far as it will go (see Figure 4)

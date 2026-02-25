@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-05-23 16:08:54
+document_datetime: 2026-02-24 09:44:57
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zoledronic-acid-accord-epar-product-information_en.pdf
 document_name: zoledronic-acid-accord-epar-product-information_en.pdf
 version: success
-processing_time: 10.2380295
-conversion_datetime: 2025-12-19 02:43:57.013147
+processing_time: 10.5561882
+conversion_datetime: 2026-02-25 11:49:18.67194
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -61,9 +61,11 @@ Patients should also be administered an oral calcium supplement of 500 mg and 40
 
 The decision to treat patients with bone metastases for the prevention of skeletal related events should consider that the onset of treatment effect is 2-3 months.
 
-Treatment of TIH Adults and older people
+Treatment of TIH
 
-The recommended dose in hypercalcaemia (albumin-corrected serum calcium ≥12.0 mg/dl or 3.0 mmol/l) is a single dose of 4 mg zoledronic acid.
+Adults and older people
+
+The recommended dose in hypercalcaemia (albumincorrected serum calcium ≥12.0 mg/dl or 3.0 mmol/l) is a single dose of 4 mg zoledronic acid.
 
 Renal impairment TIH:
 
@@ -251,13 +253,13 @@ The following adverse reactions, listed in Table 1, have been accumulated from c
 
 Adverse reactions are ranked under headings of frequency, the most frequent first, using the following convention:
 
-Very common (  1/10)
+Very common ( ≥ 1/10)
 
-Common (  1/100 to &lt; 1/10)
+Common ( ≥ 1/100 to &lt; 1/10)
 
-Uncommon (  1/1.000 to &lt; 1/100)
+Uncommon ( ≥ 1/1.000 to &lt; 1/100)
 
-Rare (  1/10.000 to &lt; 1/1.000)
+Rare ( ≥ 1/10.000 to &lt; 1/1.000)
 
 Very rare (&lt; 1/10.000),
 
@@ -395,9 +397,7 @@ In a second study including solid tumours other than breast or prostate cancer, 
 | Risk reduction of suffering from multiple events** (%)                            | 36                                                                                | -                                                                                 | NA                                                                                | NA                                                                                | NA                                                                                | NA                                                                                |
 | p-value                                                                           | 0.002                                                                             | 0.002                                                                             | NA                                                                                | NA                                                                                | NA                                                                                | NA                                                                                |
 
-* Includes vertebral and non-vertebral fractures
-
-** Accounts for all skeletal events, the total number as well as time to each event during the trial NR-Not Reached
+NR-Not Reached
 
 NA-Not Applicable
 
@@ -443,9 +443,7 @@ In a third phase III randomised, double-blind trial, zoledronic acid 4 mg or 90 
 | Risk reduction of suffering from multiple events** (%)                    | 16                                                                        | -                                                                         | NA                                                                        | NA                                                                        | NA                                                                        | NA                                                                        |
 | p-value                                                                   | 0.030                                                                     | 0.030                                                                     | NA                                                                        | NA                                                                        | NA                                                                        | NA                                                                        |
 
-* Includes vertebral and non-vertebral fractures
-
-** Accounts for all skeletal events, the total number as well as time to each event during the trial NR-Not Reached
+NR-Not Reached
 
 NA-Not Applicable
 
@@ -460,6 +458,8 @@ In the zoledronic acid-treated group, statistically significant improvement in p
 Figure 1. Mean changes from baseline in BPI scores. Statistically significant differences are marked (*p&lt; 0.05) for between treatment comparisons (4 mg zoledronic acid vs. Placebo)
 
 <!-- image -->
+
+Time on study (weeks)
 
 CZOL446EUS122/SWOG study
 
@@ -506,13 +506,13 @@ Interpretation of the risk of fracture is confounded by the fact that fractures 
 
 The type of adverse reactions observed in this population were similar to those previously seen in adults with advanced malignancies involving the bone (see section 4.8). The adverse reactions ranked under headings of frequency, are presented in Table 6.
 
-Very common (  1/10)
+Very common ( ≥ 1/10)
 
-Common (  1/100 to &lt;1/10)
+Common ( ≥ 1/100 to &lt;1/10)
 
-Uncommon (  1/1,000 to &lt;1/100)
+Uncommon ( ≥ 1/1,000 to &lt;1/100)
 
-Rare (  1/10,000 to &lt;1/1,000)
+Rare ( ≥ 1/10,000 to &lt;1/1,000)
 
 Very rare (&lt;1/10,000)
 
@@ -541,8 +541,6 @@ Table 6: Adverse reactions observed in paediatric patients with severe osteogene
 |                                                      | Very common                                          | Hypocalcaemia                                         |
 |                                                      | Common:                                              | Hypophosphataemia                                     |
 
-1 Adverse events occurring with frequencies &lt; 5% were medically assessed and it was shown that these cases are consistent with the well established safety profile of zoledronic acid (see section 4.8)
-
 In paediatric patients with severe osteogenesis imperfecta, zoledronic acid seems to be associated with more pronounced risks for acute phase reaction, hypocalcaemia and unexplained tachycardia, in comparison to pamidronate, but this difference declined after subsequent infusions.
 
 The European Medicines Agency has waived the obligation to submit the results of studies with the reference product containing zoledronic acid in all subsets of the paediatric population in the treatment of tumour-induced hypercalcaemia and prevention of skeletal-related events in patients with advanced malignancies involving bone (see section 4.2 for information on paediatric use).
@@ -557,7 +555,7 @@ Intravenously administered zoledronic acid is eliminated by a triphasic process:
 
 <div style=\"page-break-after: always\"></div>
 
-disappearance from the systemic circulation, with half-lives of t½α 0.24 and t½β 1.87 hours, followed by a long elimination phase with a terminal elimination half-life of t½γ 146 hours. There was no accumulation of zoledronic acid in plasma after multiple doses given every 28 days. Zoledronic acid is not metabolised and is excreted unchanged via the kidney. Over the first 24 hours, 39 ± 16% of the administered dose is recovered in the urine, while the remainder is principally bound to bone tissue. From the bone tissue it is released very slowly back into the systemic circulation and eliminated via the kidney. The total body clearance is 5.04 ± 2.5 l/h, independent of dose, and unaffected by gender, age, race, and body weight. Increasing the infusion time from 5 to 15 minutes caused a 30% decrease in zoledronic acid concentration at the end of the infusion, but had no effect on the area under the plasma concentration versus time curve.
+disappearance from the systemic circulation, with half-lives of t ½α 0.24 and t ½β 1.87 hours, followed by a long elimination phase with a terminal elimination half-life of t ½γ 146 hours. There was no accumulation of zoledronic acid in plasma after multiple doses given every 28 days. Zoledronic acid is not metabolised and is excreted unchanged via the kidney. Over the first 24 hours, 39 ± 16% of the administered dose is recovered in the urine, while the remainder is principally bound to bone tissue. From the bone tissue it is released very slowly back into the systemic circulation and eliminated via the kidney. The total body clearance is 5.04 ± 2.5 l/h, independent of dose, and unaffected by gender, age, race, and body weight. Increasing the infusion time from 5 to 15 minutes caused a 30% decrease in zoledronic acid concentration at the end of the infusion, but had no effect on the area under the plasma concentration versus time curve.
 
 The interpatient variability in pharmacokinetic parameters for zoledronic acid was high, as seen with other bisphosphonates.
 
@@ -591,7 +589,7 @@ The safety margins relative to renal effects were narrow in the long-term repeat
 
 ## Reproduction toxicity
 
-Zoledronic acid was teratogenic in the rat at subcutaneous doses  0.2 mg/kg. Although no teratogenicity or foetotoxicity was observed in the rabbit, maternal toxicity was found. Dystocia was observed at the lowest dose (0.01 mg/kg bodyweight) tested in the rat.
+Zoledronic acid was teratogenic in the rat at subcutaneous doses ≥ 0.2 mg/kg. Although no teratogenicity or foetotoxicity was observed in the rabbit, maternal toxicity was found. Dystocia was observed at the lowest dose (0.01 mg/kg bodyweight) tested in the rat.
 
 ## Mutagenicity and carcinogenic potential
 
@@ -647,7 +645,11 @@ Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/13/834/001 EU/1/13/834/002 EU/1/13/834/003
+EU/1/13/834/001
+
+EU/1/13/834/002
+
+EU/1/13/834/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -655,11 +657,11 @@ Date of first authorisation: 16.01.2014
 
 Date of latest renewal: 20
 
-th  November 2018
+th November 2018
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -677,6 +679,10 @@ Detailed information on this medicinal product is available on the website of th
 Name and address of the manufacturer(s) responsible for batch release
 
 Accord Healthcare Polska Sp.z o.o., ul. Lutomierska 50,95-200 Pabianice, Poland
+
+Accord Healthcare Single Member S.A. 64 th Km National Road Athens, Lamia, Schimatari, 32009, Greece
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -731,7 +737,7 @@ Excipients: mannitol (E421), sodium citrate and water for injections.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Concentrate for solution for infusion
+Concentrate for solution for infusion
 
 1 vial
 
@@ -791,7 +797,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1076,21 +1082,29 @@ World Trade Center, Moll de Barcelona, s/n, Edifici Est 6ª planta, 08039 Barcel
 
 Accord Healthcare Polska Sp.z o.o., ul. Lutomierska 50,95-200 Pabianice, Poland
 
+Accord Healthcare Single Member S.A. 64 th Km National Road Athens, Lamia, Schimatari, 32009, Greece
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 AT / BE / BG / CY / CZ / DE / DK / EE / ES / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PL / PT / RO / SE / SI / SK
 
-Accord Healthcare S.L.U. Tel: +34 93 301 00 64
+Accord Healthcare S.L.U.
+
+Tel: +34 93 301 00 64
 
 EL
 
-Win Medica Α.Ε.
+Win Medica Α . Ε .
 
-Τel: +30 210 74 88 821
+Τ
+
+Τ
+
+el: +30 210 74 88 821
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 

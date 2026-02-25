@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-04 11:34:52
+document_datetime: 2026-02-24 14:05:11
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tivdak-epar-product-information_en.pdf
 document_name: tivdak-epar-product-information_en.pdf
 version: success
-processing_time: 7.4431513
-conversion_datetime: 2025-12-28 00:37:43.593342
+processing_time: 8.5936722
+conversion_datetime: 2026-02-25 11:44:20.652691
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -600,7 +600,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Genmab A/S Carl Jacobsens Vej 30 2500 Valby Denmark
+Genmab A/S Carl Jacobsens Vej 30 2500 Valby
+
+Denmark
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -616,12 +618,12 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEXII
+## ANNEX II
 
-- A. MANUFACTUREROFTHEBIOLOGICALACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONSORRESTRICTIONSREGARDINGSUPPLY AND USE
-- C. OTHERCONDITIONSANDREQUIREMENTSOFTHE MARKETING AUTHORISATION
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THESAFEANDEFFECTIVEUSEOFTHEMEDICINAL PRODUCT
+- A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -641,20 +643,20 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal. The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The MAH shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -686,13 +688,13 @@ Also contains: D-mannitol, L-histidine, L-histidine hydrochloride monohydrate, S
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Powder for concentrate for solution for infusion.
+Powder for concentrate for solution for infusion
 
-1 vial.
+1 vial
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For intravenous infusion after reconstitution.
+## For intravenous infusion after reconstitution
 
 Read the package leaflet before use.
 
@@ -710,7 +712,7 @@ Cytotoxic: handle with caution.
 
 ## 8. EXPIRY DATE
 
-EXP
+EXP:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -724,22 +726,26 @@ Do not freeze.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Genmab A/S Carl Jacobsens Vej 30 2500 Valby
+Genmab A/S Carl Jacobsens Vej 30 2500 Valby Denmark
 
-Denmark
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/25/1911/001
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
-Lot
+Lot:
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Justification for not including Braille accepted.
 
@@ -747,7 +753,8 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN
 
@@ -769,11 +776,11 @@ For intravenous use only after reconstitution and dilution.
 
 ## 3. EXPIRY DATE
 
-EXP
+EXP:
 
 ## 4. BATCH NUMBER
 
-Lot
+Lot:
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
@@ -781,9 +788,11 @@ Lot
 
 ## 6. OTHER
 
+Cytotoxic
+
 <div style=\"page-break-after: always\"></div>
 
-## B. PACKAGELEAFLET
+## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
@@ -797,15 +806,15 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
--  Keep this leaflet. You may need to read it again.
--  If you have any further questions, ask your doctor.
--  If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor.
+- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
 1. What Tivdak is and what it is used for
 2. What you need to know before you are given Tivdak
-3. HowTivdak is given
+3. How Tivdak is given
 4. Possible side effects
 5. How to store Tivdak
 6. Contents of the pack and other information
@@ -822,13 +831,13 @@ The active substance in Tivdak is a monoclonal antibody (a type of protein that 
 
 ## You must not be given Tivdak
 
--  if you are allergic to tisotumab vedotin or any of the other ingredients of this medicine (listed in section 6)
+- -if you are allergic to tisotumab vedotin or any of the other ingredients of this medicine (listed in section 6)
 
 ## Before receiving Tivdak, tell your healthcare provider about all of your medical conditions, including if you:
 
--  have a history of vision or eye problems
--  have peripheral neuropathy (nerve damage, causing numbness or tingling in your hands or feet)
--  have liver problems
+- -have a history of vision or eye problems
+- -have peripheral neuropathy (nerve damage, causing numbness or tingling in your hands or feet)
+- -have liver problems
 
 <div style=\"page-break-after: always\"></div>
 
@@ -844,9 +853,9 @@ Your doctor will prescribe 3 different types of eyes drops before you start trea
 
 Bring the eye drops with you every time you are given Tivdak and use them as instructed by your doctor to reduce your risk of eye problems:
 
--  you should use 1 steroid drop in each eye 3 times a day starting 1 day before each infusion and continue as prescribed until 3 days after each infusion
--  you should use vasoconstrictor eye drops in each eye right before each infusion
--  you should use lubricating eye drops multiple times every day throughout treatment and for 30 days after your last dose of Tivdak
+- -you should use 1 steroid drop in each eye 3 times a day starting 1 day before each infusion and continue as prescribed until 3 days after each infusion
+- -you should use vasoconstrictor eye drops in each eye right before each infusion
+- -you should use lubricating eye drops multiple times every day throughout treatment and for 30 days after your last dose of Tivdak
 
 Cold packs will be placed on your eyes before the infusion and used during and for 30 minutes after the infusion.
 
@@ -880,7 +889,7 @@ If you are pregnant, think you may be pregnant or are planning to have a baby, a
 
 Tivdak may harm your unborn baby. You should not use this medicine if you are pregnant.
 
-If you are a woman using Tivdak and you are able to become pregnant, you should use effective contraception (birth control) during treatment and for at least 2 months after stopping this medicine. If you are a man using Tivdak and your partner may become pregnant, you should use effective contraception during treatment and for at least 4 months you stop taking this medicine. Talk to your doctor to see which forms of contraception are right for you.
+If you are a woman using Tivdak and you are able to become pregnant, you should use effective contraception (birth control) during treatment and for at least 2 months after stopping this medicine. If you are a man using Tivdak and your partner may become pregnant, you should use effective contraception during treatment and for at least 4 months after you stop taking this medicine. Talk to your doctor to see which forms of contraception are right for you.
 
 It is not known if this medicine passes into your breast milk and could harm your baby. Do not breastfeed during treatment and for at least 3 weeks after stopping Tivdak.
 
@@ -920,19 +929,19 @@ Tell your doctor right away if you get any of the following serious side effects
 
 ## Very common (may affect more than 1 in 10 people):
 
--  Inflammation of the thin membrane covering the front of your eye (conjunctivitis) or the clear layer that covers your pupil and iris (keratitis).
--  Nerve problems. Tell your doctor right away if you get numbness, tingling or a burning sensation in your hands or feet or muscle weakness.
+- -Inflammation of the thin membrane covering the front of your eye (conjunctivitis) or the clear layer that covers your pupil and iris (keratitis).
+- -Nerve problems. Tell your doctor right away if you get numbness, tingling or a burning sensation in your hands or feet or muscle weakness.
 
 ## Common (may affect up to 1 in 10 people):
 
--  Damage or ulceration of the clear layer that covers your pupil and iris (punctate keratitis, ulcerative keratitis) or the thin membrane covering the front of your eye (conjunctival ulcer).
--  Inward turning of your eyelid (entropion).
+- -Damage or ulceration of the clear layer that covers your pupil and iris (punctate keratitis, ulcerative keratitis) or the thin membrane covering the front of your eye (conjunctival ulcer).
+- -Inward turning of your eyelid (entropion).
 
 ## Uncommon (may affect up to 1 in 100 people):
 
--  Severe skin reactions. This medicine may cause skin reactions like Stevens-Johnson syndrome (SJS), erythema multiforme (forming of red patches on the skin) and dermatitis bullous (blistering of the skin). Tell your doctor right away if you have any of these signs or symptoms of a severe skin reaction: skin reactions that look like rings (target lesions), rash or itching that continues to get worse, blistering or peeling of the skin, painful sores or ulcers in your mouth, nose throat or genital area, fever or flu-like symptoms, or swollen lymph nodes.
--  Scarring or changes of the clear layer that covers your pupil and iris (corneal scar, corneal degeneration) or the thin membrane covering the front of your eye (conjunctival scar).
--  Inflammation of the eye that causes your eyelid to stick to your eyeball (symblepharon).
+- -Severe skin reactions. This medicine may cause skin reactions like Stevens-Johnson syndrome (SJS), erythema multiforme (forming of red patches on the skin) and dermatitis bullous (blistering of the skin). Tell your doctor right away if you have any of these signs or symptoms of a severe skin reaction: skin reactions that look like rings (target lesions), rash or itching that continues to get worse, blistering or peeling of the skin, painful sores or ulcers in your mouth, nose throat or genital area, fever or flu-like symptoms, or swollen lymph nodes.
+- -Scarring or changes of the clear layer that covers your pupil and iris (corneal scar, corneal degeneration) or the thin membrane covering the front of your eye (conjunctival scar).
+- -Inflammation of the eye that causes your eyelid to stick to your eyeball (symblepharon).
 
 ## Other possible side effects
 
@@ -940,45 +949,45 @@ Other side effects are listed below. Tell your doctor or nurse if you get any of
 
 ## Very common (may affect more than 1 in 10 people):
 
--  Feeling sick (nausea)
--  Nose bleeds (epistaxis)
--  Hair loss (alopecia)
--  Low red blood cell count (anaemia)
--  Diarrhoea
--  Constipation
--  Decreased appetite
--  Tiredness (fatigue)
--  Belly (abdominal) pain
--  Rash
--  Dry eye
--  Vomiting
+- -Feeling sick (nausea)
+- -Nose bleeds (epistaxis)
+- -Hair loss (alopecia)
+- -Low red blood cell count (anaemia)
+- -Diarrhoea
+- -Constipation
+- -Decreased appetite
+- -Tiredness (fatigue)
+- -Belly (abdominal) pain
+- -Rash
+- -Dry eye
+- -Vomiting
 
 <div style=\"page-break-after: always\"></div>
 
--  Fever (pyrexia)
--  Lack of energy (asthenia)
--  Dry or itchy skin (pruritus)
+- -Fever (pyrexia)
+- -Lack of energy (asthenia)
+- -Dry or itchy skin (pruritus)
 
 ## Common (may affect up to 1 in 10 people):
 
--  Eye irritation
--  Low white blood cell count (neutropenia)
--  Inflammation of the eyelid (blepharitis) or the glands of the eyelid (meibomianitis)
--  Itchy eye (eye pruritus)
--  Redness of the eye (ocular hyperaemia) or the thin membrane covering the front of the eye (conjunctival hyperaemia)
--  Inflammation of the tissue between the inside of the eyelid and the white part of the eye (episcleritis)
+- -Eye irritation
+- -Low white blood cell count (neutropenia)
+- -Inflammation of the eyelid (blepharitis) or the glands of the eyelid (meibomianitis)
+- -Itchy eye (eye pruritus)
+- -Redness of the eye (ocular hyperaemia) or the thin membrane covering the front of the eye (conjunctival hyperaemia)
+- -Inflammation of the tissue between the inside of the eyelid and the white part of the eye (episcleritis)
 
 ## Uncommon (may affect up to 1 in 100 people):
 
--  Damage, irritation, cloudiness or thinning of the clear layer that covers the pupil and iris (corneal erosion, vital eye staining cornea present, keratopathy, corneal irritation, corneal opacity, corneal thinning)
--  Eyelashes growing back toward the eye (trichiasis)
--  Fever with low white blood cell count (febrile neutropenia)
--  Damage, swelling, or inflammation of the thin membrane covering the front of the eye (conjunctival disorder, conjunctival erosion, conjunctival abrasion, conjunctival oedema, noninfective conjunctivitis)
--  Swelling, redness, or crusting of the eyelid (eyelid oedema, swelling of eyelid, erythema of eyelid, eyelid margin crusting)
--  Eyelashes falling out (madarosis)
--  Dysfunction of the glands of the eyelid (meibomian gland dysfunction)
--  Swelling around the eye (periorbital oedema)
--  Lump on the eyelid (chalazion)
+- -Damage, irritation, cloudiness or thinning of the clear layer that covers the pupil and iris (corneal erosion, vital eye staining cornea present, keratopathy, corneal irritation, corneal opacity, corneal thinning)
+- -Eyelashes growing back toward the eye (trichiasis)
+- -Fever with low white blood cell count (febrile neutropenia)
+- -Damage, swelling, or inflammation of the thin membrane covering the front of the eye (conjunctival disorder, conjunctival erosion, conjunctival abrasion, conjunctival oedema, noninfective conjunctivitis)
+- -Swelling, redness, or crusting of the eyelid (eyelid oedema, swelling of eyelid, erythema of eyelid, eyelid margin crusting)
+- -Eyelashes falling out (madarosis)
+- -Dysfunction of the glands of the eyelid (meibomian gland dysfunction)
+- -Swelling around the eye (periorbital oedema)
+- -Lump on the eyelid (chalazion)
 
 ## Reporting of side effects
 
@@ -1000,9 +1009,9 @@ Do not store any unused portion of the infusion solution for reuse. Any unused m
 
 ## What Tivdak contains
 
--  The active substance is tisotumab vedotin.
--  One vial of powder for concentrate for solution for infusion contains 40 mg tisotumab vedotin.
--  After reconstitution, each mL of solution contains 10 mg of tisotumab vedotin.
+- -The active substance is tisotumab vedotin.
+- -One vial of powder for concentrate for solution for infusion contains 40 mg tisotumab vedotin.
+- -After reconstitution, each mL of solution contains 10 mg of tisotumab vedotin.
 
 The other ingredients are L-histidine, L-histidine hydrochloride monohydrate, Sucrose, and D-mannitol.
 
@@ -1014,9 +1023,9 @@ Tivdak is supplied in a box containing 1 glass vial.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Genmab A/S Carl Jacobsens Vej 30 2500 Valby Denmark
+Genmab A/S 2500 Valby
 
-Tel: +45 89 88 95 37 EURmedinfo@genmab.com
+Carl Jacobsens Vej 30 Denmark Tel: +45 89 88 95 37 EURmedinfo@genmab.com
 
 ## This leaflet was last revised in
 

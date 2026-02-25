@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-04 12:55:32
+document_datetime: 2026-02-24 09:51:46
 document_pages: 103
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/erleada-epar-product-information_en.pdf
 document_name: erleada-epar-product-information_en.pdf
 version: success
-processing_time: 23.1094302
-conversion_datetime: 2026-02-05 11:38:12.734693
+processing_time: 25.4991847
+conversion_datetime: 2026-02-25 11:39:02.52972
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.72.0
-  docling-core: 2.63.0
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
   docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
-  python: cpython-313 (3.13.12)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  docling-parse: 5.3.4
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -1131,7 +1131,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-2 years
+3 years
 
 ## 6.4 Special precautions for storage
 
@@ -3177,16 +3177,16 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-## Serious side effects
+## Stop taking Erleada and seek medical attention immediately if you notice any of the following
 
-## Stop taking Erleada and seek medical attention immediately if you notice any of the following symptoms:
+## Serious side effects symptoms:
 
 -  widespread rash, high body temperature and enlarged lymph nodes (drug reaction with eosinophilia and systemic symptoms or DRESS)
 -  reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes. These serious skin rashes can be preceded by fever and flu-like symptoms (Stevens-Johnson syndrome, toxic epidermal necrolysis).
 
 Tell your doctor straight away if you notice any of the following serious side effects - your doctor may stop treatment:
 
-## Very common : may affect more than 1 in 10 people
+Very common : may affect more than 1 in 10 people
 
 -  falls or fractures (broken bones). Your healthcare provider may monitor you more closely if you are at risk for fractures.
 
@@ -3222,11 +3222,12 @@ Very common (may affect more than 1 in 10 people):
 -  falls
 -  weight loss.
 
-<div style=\"page-break-after: always\"></div>
-
 Common (may affect up to 1 in 10 people):
 
 -  muscle spasms
+
+<div style=\"page-break-after: always\"></div>
+
 -  itching
 -  hair loss
 -  change in sense of taste
@@ -3265,14 +3266,16 @@ Store in the original package in order to protect from moisture. This medicine d
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. Contents of the pack and other information
 
 ## What Erleada contains
 
 -  The active substance is apalutamide. Each film-coated tablet contains 240 mg of apalutamide.
--  The other ingredients of the tablet core are colloidal anhydrous silica, croscarmellose sodium, hypromellose acetate succinate, magnesium stearate, and silicified microcrystalline cellulose. The film-coating contains glycerol monocaprylocaprate, iron oxide black (E172), poly (vinyl alcohol), talc, titanium dioxide (E171), and macrogol poly (vinyl alcohol) grafted copolymer (see section 2, Erleada contains sodium).
+-  The other ingredients of the tablet core are colloidal anhydrous silica, croscarmellose sodium, hypromellose acetate succinate, magnesium stearate, and silicified microcrystalline cellulose.
+
+<div style=\"page-break-after: always\"></div>
+
+The film-coating contains glycerol monocaprylocaprate, iron oxide black (E172), poly (vinyl alcohol), talc, titanium dioxide (E171), and macrogol poly (vinyl alcohol) grafted copolymer (see section 2, Erleada contains sodium).
 
 ## What Erleada looks like and contents of the pack
 
@@ -3310,19 +3313,33 @@ For any information about this medicine, please contact the local representative
 
 Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
 
-Lietuva Tel: +370 5 278 68 88 lt@its.jnj.com
+## Lietuva
 
 UAB \"JOHNSON &amp; JOHNSON\"
+
+Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## България
 
 'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
+
+## Luxembourg/Luxemburg
+
+Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
 
 ## Česká republika
 
 Janssen-Cilag s.r.o.
 
 Tel: +420 227 012 227
+
+## Magyarország
+
+Janssen-Cilag Kft. Tel.: +36 1 884 2858
+
+janssenhu@its.jnj.com
+
+<div style=\"page-break-after: always\"></div>
 
 ## Danmark
 
@@ -3342,9 +3359,7 @@ Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ
 
 ## España
 
-Janssen-Cilag, S.A.
-
-Tel: +34 91 722 81 00
+Janssen-Cilag, S.A. Tel: +34 91 722 81 00
 
 contacto@its.jnj.com
 
@@ -3364,15 +3379,13 @@ Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
 
 Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
 
-<div style=\"page-break-after: always\"></div>
+## Italia
 
-## Luxembourg/Luxemburg
+Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1 janssenita@its.jnj.com
 
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+## Κύπρος
 
-## Magyarország
-
-Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
+Βαρνάβας Χατζηπαναγής Λτδ Τηλ: +357 22 207 700
 
 ## Malta
 
@@ -3390,9 +3403,7 @@ Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
 
 ## Österreich
 
-Janssen-Cilag Pharma GmbH
-
-Tel: +43 1 610 300
+Janssen-Cilag Pharma GmbH Tel: +43 1 610 300
 
 ## Polska
 
@@ -3412,25 +3423,17 @@ Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 JNJ-SI-safety@its.jnj.com
 
 ## Slovenská republika
 
-Johnson &amp; Johnson, s.r.o.
+Johnson &amp; Johnson, s.r.o. Tel: +421 232 408 400
 
-Tel: +421 232 408 400
+## Suomi/Finland
+
+Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
+
+## Sverige
+
+Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
-
-## Italia
-
-Janssen-Cilag SpA
-
-Tel: 800.688.777 / +39 02 2510 1
-
-janssenita@its.jnj.com
-
-## Κύπρος
-
-Βαρνάβας Χατζηπαναγής Λτδ
-
-Τηλ: +357 22 207 700
 
 ## Latvija
 
@@ -3449,11 +3452,3 @@ Detailed information on this medicine is available on the European Medicines Age
 To get the most up-to-date package leaflet, scan the QR code here or on the carton. The same information is also available on the following URL: https://epi.jnj.
 
 <!-- image -->
-
-## Suomi/Finland
-
-Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
-
-## Sverige
-
-Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com

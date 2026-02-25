@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:29:32
+document_datetime: 2026-02-24 15:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/apixaban-accord.html
 document_name: apixaban-accord.html
 version: success
-processing_time: 0.1177484
-conversion_datetime: 2025-12-30 02:26:13.817873
+processing_time: 0.2673102
+conversion_datetime: 2026-02-25 11:52:33.590461
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Apixaban Accord
 
 [RSS](/en/individual-human-medicine.xml/67334)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 apixaban Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +116,7 @@ English (EN) (158.59 KB - PDF)
 
 [View](/en/documents/overview/apixaban-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-163)
+[Other languages (22)](#file-language-dropdown-854)
 
 български (BG) (184.59 KB - PDF)
 
@@ -386,11 +384,11 @@ svenska (SV) (157.59 KB - PDF)
 
 Apixaban Accord : EPAR - Risk management plan
 
-English (EN) (505.18 KB - PDF)
+English (EN) (873.93 KB - PDF)
 
 **First published:** 06/08/2020
 
-**Last updated:** 21/07/2025
+**Last updated:** 24/02/2026
 
 [View](/en/documents/rmp/apixaban-accord-epar-risk-management-plan_en.pdf)
 
@@ -406,7 +404,7 @@ English (EN) (1.26 MB - PDF)
 
 [View](/en/documents/product-information/apixaban-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-744)
+[Other languages (24)](#file-language-dropdown-694)
 
 български (BG) (1.31 MB - PDF)
 
@@ -696,7 +694,7 @@ svenska (SV) (1.18 MB - PDF)
 
 [View](/sv/documents/product-information/apixaban-accord-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000275536 18/07/2025
+**Latest procedure affecting product information:** VR/0000324419 24/02/2026
 
 icon globe
 
@@ -720,7 +718,7 @@ English (EN) (137.62 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/apixaban-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-843)
+[Other languages (24)](#file-language-dropdown-507)
 
 български (BG) (146.15 KB - PDF)
 
@@ -958,7 +956,7 @@ Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a
 
-Opinion adopted 28/05/2020 Marketing authorisation issued 23/07/2020 Revision 6
+Opinion adopted 28/05/2020 Marketing authorisation issued 23/07/2020 Revision 7
 
 ## Assessment history
 
@@ -970,11 +968,11 @@ Collapse section
 
 Apixaban Accord : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (148.24 KB - PDF)
+English (EN) (166.58 KB - PDF)
 
 **First published:** 21/07/2021
 
-**Last updated:** 23/07/2025
+**Last updated:** 24/02/2026
 
 [View](/en/documents/procedural-steps-after/apixaban-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1004,11 +1002,11 @@ English (EN) (140.67 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-apixaban-accord_en.pdf)
 
-#### News on Apixaban Accord
+## News on Apixaban Accord
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 May 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-may-2020) 29/05/2020
 
-#### More information on Apixaban Accord
+## More information on Apixaban Accord
 
 Questions and answers on generic medicines
 
@@ -1022,7 +1020,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-445)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1288,12 +1286,12 @@ svenska (SV) (67.11 KB - PDF)
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-#### Topics
+## Topics
 
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 13/08/2025
+**This page was last updated on** 24/02/2026
 
 ## Share this page
 

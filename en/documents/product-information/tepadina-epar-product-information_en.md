@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-07 10:36:07
-document_pages: 107
+document_datetime: 2026-02-24 13:57:14
+document_pages: 103
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tepadina-epar-product-information_en.pdf
 document_name: tepadina-epar-product-information_en.pdf
 version: success
-processing_time: 21.9373298
-conversion_datetime: 2025-12-27 09:14:05.711238
+processing_time: 24.513544
+conversion_datetime: 2026-02-25 11:50:50.994193
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -225,7 +225,7 @@ Thiotepa must not be concurrently administered with cyclophosphamide when both m
 
 During the concomitant use of thiotepa and inhibitors of CYP2B6 or CYP3A4, patients should be carefully monitored clinically (see section 4.5).
 
-As most alkylating agents, thiotepa might impair male or female fertility. Male patients should seek for sperm cryopreservation before therapy is started and should not father a child while treated and during the year after cessation of treatment (see section 4.6).
+As most alkylating agents, thiotepa might impair male or female fertility. Male patients should seek for sperm cryopreservation before therapy is started and should not father a child while treated and for at least 3 months after cessation of treatment. Women of childbearing potential have to use effective contraception during treatment and for at least 6 months after cessation of treatment (see section 4.6).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -273,7 +273,7 @@ Due to the increase of thrombotic risk in case of malignancy, the use of anticoa
 
 ## Women of childbearing potential/Contraception in males and females
 
-Women of childbearing potential have to use effective contraception during treatment and a pregnancy test should be performed before treatment is started. Male patients should not father a child while treated and during the year after cessation of treatment (see section 5.3).
+Women of childbearing potential have to use effective contraception during treatment and for at least 6 months after cessation of treatment. A pregnancy test should be performed before treatment is started. Male patients should not father a child while treated and for at least 3 months after cessation of treatment (see section 5.3).
 
 ## Pregnancy
 
@@ -311,7 +311,7 @@ Cases  of  leukoencephalopathy  have  been  observed  following  treatment  with
 
 ## Adults
 
-The adverse reactions considered at least possibly related to conditioning treatment including thiotepa, reported in adult patients as more than an isolated case, are listed below by system organ class and by frequency. Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. Frequencies are defined as: very common (≥1/10), common (≥ 1/100 to &lt;1/10), uncommon ( ≥1/1,000 to &lt;1/100), rare ( ≥1/10,000 to &lt;1/1,000) very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
+The adverse reactions considered at least possibly related to conditioning treatment including thiotepa, reported in adult patients as more than an isolated case, are listed below by system organ class and by frequency. Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. Frequencies are defined as: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000) very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
 
 | System organ class                                                  | Very common                                                                            | Common                                                                                | Uncommon                                     | Not known            |
 |---------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|----------------------------------------------|----------------------|
@@ -880,7 +880,7 @@ Thiotepa must not be concurrently administered with cyclophosphamide when both m
 
 During the concomitant use of thiotepa and inhibitors of CYP2B6 or CYP3A4, patients should be carefully monitored clinically (see section 4.5).
 
-As most alkylating agents, thiotepa might impair male or female fertility. Male patients should seek for sperm cryopreservation before therapy is started and should not father a child while treated and during the year after cessation of treatment (see section 4.6).
+As most alkylating agents, thiotepa might impair male or female fertility. Male patients should seek for sperm cryopreservation before therapy is started and should not father a child while treated and for at least 3 months after cessation of treatment. Women of childbearing potential have to use effective contraception during treatment and for at least 6 months after cessation of treatment (see section 4.6).
 
 TEPADINA 400 mg contains 1 418 mg (61.6 mmol) sodium per bag, equivalent to 70.9% of the WHO recommended maximum daily intake of 2 g sodium for an adult. TEPADINA 200 mg contains 709 mg (30.8 mmol) sodium per bag, equivalent to 35.5% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 
@@ -928,7 +928,7 @@ Due to the increase of thrombotic risk in case of malignancy, the use of anticoa
 
 ## Women of childbearing potential/Contraception in males and females
 
-Women of childbearing potential have to use effective contraception during treatment andand a pregnancy test should be performed before treatment is started. Male patients should not father a child while treated and during the year after cessation of treatment (see section 5.3).
+Women of childbearing potential have to use effective contraception during treatment and for at least 6 months after cessation of treatment. A pregnancy test should be performed before treatment is started. Male patients should not father a child while treated and for at least 3 months after cessation of treatment (see section 5.3).
 
 ## Pregnancy
 
@@ -946,9 +946,9 @@ As most alkylating agents, thiotepa might impair male and female fertility. Male
 
 TEPADINA has major influence on the ability to drive and use machines. It is likely that certain adverse reactions of thiotepa like dizziness, headache and blurred vision could affect these functions.
 
-## 4.8 Undesirable effects
-
 <div style=\"page-break-after: always\"></div>
+
+## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
@@ -973,48 +973,49 @@ The adverse reactions considered at least possibly related to conditioning treat
 | Infections and infestations                                         | Infection susceptibility increased Sepsis                                              |                                     | Toxic shock syndrome |             |
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) |                                                                                        | Treatment related second malignancy |                      |             |
 | Blood and lymphatic system disorders                                | Leukopenia Thrombocytopeni a Febrile neutropenia Anaemia Pancytopenia Granulocytopenia |                                     |                      |             |
-| Immune system disorders                                             | Acute graft versus host disease                                                        | Hypersensitivity                    |                      |             |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                              | Very common                                                                                  | Common                                                                                | Uncommon                                      | Not known                                                                                               |
-|-------------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|-----------------------------------------------|---------------------------------------------------------------------------------------------------------|
-|                                                 | Chronic graft versus host disease                                                            |                                                                                       |                                               |                                                                                                         |
-| Endocrine disorders                             |                                                                                              | Hypopituitarism                                                                       |                                               |                                                                                                         |
-| Metabolism and nutrition disorders              | Anorexia Decreased appetite Hyperglycaemia                                                   |                                                                                       |                                               |                                                                                                         |
-| Psychiatric disorders                           | Confusional state Mental status changes                                                      | Anxiety                                                                               | Delirium Nervousness Hallucination Agitation  |                                                                                                         |
-| Nervous system disorders                        | Dizziness Headache Vision blurred Encephalopathy Convulsion Paraesthesia                     | Intracranial aneurysm Extrapyramidal disorder Cognitive disorder Cerebral haemorrhage |                                               | Leukoencephalopath y                                                                                    |
-| Eye disorders                                   | Conjunctivitis                                                                               | Cataract                                                                              |                                               |                                                                                                         |
-| Ear and labyrinth disorders                     | Hearing impaired Ototoxicity Tinnitus                                                        |                                                                                       |                                               |                                                                                                         |
-| Cardiac disorders                               | Arrhythmia                                                                                   | Tachycardia Cardiac failure                                                           | Cardiomyopath y Myocarditis                   |                                                                                                         |
-| Vascular disorders                              | Lymphoedema Hypertension                                                                     | Haemorrhage Embolism                                                                  |                                               |                                                                                                         |
-| Respiratory, thoracic and mediastinal disorders | Idiopathic pneumonia syndrome Epistaxis                                                      | Pulmonary oedema Cough Pneumonitis                                                    | Hypoxia                                       |                                                                                                         |
-| Gastrointestina l disorders                     | Nausea Stomatitis Oesophagitis Vomiting Diarrhoea Dyspepsia Abdominal pain Enteritis Colitis | Constipation Gastrointestinal perforation Ileus                                       | Gastrointestinal ulcer                        |                                                                                                         |
-| Hepatobiliary disorders                         | Venoocclusive liver disease Hepatomegaly Jaundice                                            |                                                                                       |                                               |                                                                                                         |
-| Skin and subcutaneous tissue disorders          | Rash Pruritus Alopecia                                                                       | Erythema                                                                              | Pigmentation disorder Erythrodermic psoriasis | Severe toxic skin reactions including cases of Stevens- Johnson syndrome and toxic epidermal necrolysis |
+| System organ class                     | Very common                                                                                  | Common                                                                                | Uncommon                                      | Not known                                                                |
+|----------------------------------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|-----------------------------------------------|--------------------------------------------------------------------------|
+| Immune system disorders                | Acute graft versus host disease Chronic graft versus host disease                            | Hypersensitivity                                                                      |                                               |                                                                          |
+| Endocrine disorders                    |                                                                                              | Hypopituitarism                                                                       |                                               |                                                                          |
+| Metabolism and nutrition disorders     | Anorexia Decreased appetite Hyperglycaemia                                                   |                                                                                       |                                               |                                                                          |
+| Psychiatric disorders                  | Confusional state Mental status changes                                                      | Anxiety                                                                               | Delirium Nervousness Hallucination Agitation  |                                                                          |
+| Nervous system disorders               | Dizziness Headache Vision blurred Encephalopathy Convulsion Paraesthesia                     | Intracranial aneurysm Extrapyramidal disorder Cognitive disorder Cerebral haemorrhage |                                               | Leukoencephalopath y                                                     |
+| Eye disorders                          | Conjunctivitis                                                                               | Cataract                                                                              |                                               |                                                                          |
+| Ear and labyrinth disorders            | Hearing impaired Ototoxicity Tinnitus                                                        |                                                                                       |                                               |                                                                          |
+| Cardiac disorders                      | Arrhythmia                                                                                   | Tachycardia Cardiac failure                                                           | Cardiomyopath y Myocarditis                   |                                                                          |
+| Vascular disorders                     | Lymphoedema Hypertension                                                                     | Haemorrhage Embolism                                                                  |                                               |                                                                          |
+| Respiratory, thoracic and mediastinal  | Idiopathic pneumonia syndrome Epistaxis                                                      | Pulmonary oedema Cough Pneumonitis                                                    | Hypoxia                                       |                                                                          |
+| disorders Gastrointestina l disorders  | Nausea Stomatitis Oesophagitis Vomiting Diarrhoea Dyspepsia Abdominal pain Enteritis Colitis | Constipation Gastrointestinal perforation Ileus                                       | Gastrointestinal ulcer                        |                                                                          |
+| Hepatobiliary disorders                | Venoocclusive liver disease Hepatomegaly Jaundice                                            |                                                                                       |                                               |                                                                          |
+| Skin and subcutaneous tissue disorders | Rash Pruritus Alopecia                                                                       | Erythema                                                                              | Pigmentation disorder Erythrodermic psoriasis | Severe toxic skin reactions including cases of Stevens- Johnson syndrome |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                                   | Very common                                                                                                     | Common                                                                                                                                                          | Uncommon   | Not known   |
-|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------|
-| Musculoskeleta l and connective tissue disorders     | Back pain Myalgia Arthralgia                                                                                    |                                                                                                                                                                 |            |             |
-| Renal and urinary disorders                          | Cystitis haemorrhagic                                                                                           | Dysuria Oliguria Renal failure Cystitis Haematuria                                                                                                              |            |             |
-| Reproductive system and breast disorders             | Azoospermia Amenorrhoea Vaginal haemorrhage                                                                     | Menopausal symptoms Infertility female Infertility male                                                                                                         |            |             |
-| General disorders and administration site conditions | Pyrexia Asthenia Chills Generalised oedema Injection site inflammation Injection site pain Mucosal inflammation | Multi-organ failure Pain                                                                                                                                        |            |             |
-| Investigations                                       | Weight increased Blood bilirubin increased Transaminases increased Blood amylase increased                      | Blood creatinine increased Blood urea increased Gamma- glutamyltransferas e increased Blood alkaline phosphatase increased Aspartate aminotransferase increased |            |             |
+| System organ class                                   | Very common                                                                                                     | Common                                                                                                                                                          | Uncommon   | Not known                      |
+|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------------------------|
+|                                                      |                                                                                                                 |                                                                                                                                                                 |            | and toxic epidermal necrolysis |
+| Musculoskeleta l and connective tissue disorders     | Back pain Myalgia Arthralgia                                                                                    |                                                                                                                                                                 |            |                                |
+| Renal and urinary disorders                          | Cystitis haemorrhagic                                                                                           | Dysuria Oliguria Renal failure Cystitis Haematuria                                                                                                              |            |                                |
+| Reproductive system and breast disorders             | Azoospermia Amenorrhoea Vaginal haemorrhage                                                                     | Menopausal symptoms Infertility female Infertility male                                                                                                         |            |                                |
+| General disorders and administration site conditions | Pyrexia Asthenia Chills Generalised oedema Injection site inflammation Injection site pain Mucosal inflammation | Multi-organ failure Pain                                                                                                                                        |            |                                |
+| Investigations                                       | Weight increased Blood bilirubin increased Transaminases increased Blood amylase increased                      | Blood creatinine increased Blood urea increased Gamma- glutamyltransferas e increased Blood alkaline phosphatase increased Aspartate aminotransferase increased |            |                                |
 
 ## Paediatric population
 
 The adverse reactions considered at least possibly related to conditioning treatment including thiotepa, reported in paediatric patients as more than an isolated case, are listed below by system organ class and by frequency. Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. Frequencies are defined as: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000) very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
 
-| System organ class          | Very common                               | Common                   | Not known   |
-|-----------------------------|-------------------------------------------|--------------------------|-------------|
-| Infections and infestations | Infection susceptibility increased Sepsis | Thrombocytopenic purpura |             |
+| System organ class          | Very common                        | Common                   | Not known   |
+|-----------------------------|------------------------------------|--------------------------|-------------|
+| Infections and infestations | Infection susceptibility increased | Thrombocytopenic purpura |             |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class                                                  | Very common                                                                       | Common                                                                                                   | Not known                       |
 |---------------------------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|---------------------------------|
+|                                                                     | Sepsis                                                                            |                                                                                                          |                                 |
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) |                                                                                   | Treatment related second malignancy                                                                      |                                 |
 | Blood and lymphatic system disorders                                | Thrombocytopenia Febrile neutropenia Anaemia Pancytopenia Granulocytopenia        |                                                                                                          |                                 |
 | Immune system disorders                                             | Acute graft versus host disease Chronic graft versus host disease                 |                                                                                                          |                                 |
@@ -1782,55 +1783,55 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
-
-Inner label bag
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-TEPADINA 200 mg powder and solvent for solution for infusion thiotepa
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-One bag contains 200 mg thiotepa.
-
-After reconstitution with the solvent, each mL of solution contains 1 mg of thiotepa.
-
-## 3. LIST OF EXCIPIENTS
-
-Solvent: sodium chloride and water for injections
-
-See leaflet for further information.
-
-## 4.  PHARMACEUTICAL FORM AND CONTENTS
-
-Powder and solvent for solution for infusion
-
-One bag contains 200 mg thiotepa and 200 mL solvent 1 bag
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Intravenous use after reconstitution.
-
-Activate seal and gently mix powder and solvent.
-
-Read the package leaflet before use for further instructions and recommended dose.
-
-- 2 - Blind Port (NEVER use this port)
-- 3 - Luer Port (For dose adjustment and infusion of the medication)
-- 4 - Twist off Port (For infusion of the medication)
-
-g
-
-<!-- image -->
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
+Cytotoxic
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-Cytotoxic
+Keep out of the sight and reach of children.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+<!-- image -->
+
+4 - Twist off Port (For infusion of the medication)
+
+3 - Luer Port (For dose adjustment and infusion of the medication)
+
+2 - Blind Port (NEVER use this port)
+
+Read the package leaflet before use for further instructions and recommended dose.
+
+Activate seal and gently mix powder and solvent.
+
+Intravenous use after reconstitution.
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+1 bag
+
+Powder and solvent for solution for infusion One bag contains 200 mg thiotepa and 200 mL solvent
+
+## 4.  PHARMACEUTICAL FORM AND CONTENTS
+
+See leaflet for further information.
+
+Solvent: sodium chloride and water for injections
+
+## 3. LIST OF EXCIPIENTS
+
+One bag contains 200 mg thiotepa. After reconstitution with the solvent, each mL of solution contains 1 mg of thiotepa.
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+thiotepa
+
+TEPADINA 200 mg powder and solvent for solution for infusion
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Inner label bag
+
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2052,55 +2053,55 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
-
-Inner label bag
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-TEPADINA 400 mg powder and solvent for solution for infusion thiotepa
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-One bag contains 400 mg thiotepa.
-
-After reconstitution with the solvent, each mL of solution contains 1 mg of thiotepa.
-
-## 3. LIST OF EXCIPIENTS
-
-Solvent: sodium chloride and water for injections
-
-See leaflet for further information.
-
-## 4.  PHARMACEUTICAL FORM AND CONTENTS
-
-Powder and solvent for solution for infusion
-
-One bag contains 400 mg thiotepa and 400 mL solvent 1 bag
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Intravenous use after reconstitution.
-
-Activate seal and gently mix powder and solvent.
-
-Read the package leaflet before use for further instructions and recommended dose.
-
-- 2 - Blind Port (NEVER use this port)
-- 3 - Luer Port (For dose adjustment and infusion of the medication)
-- 4 - Twist off Port (For infusion of the medication)
-
-g
-
-<!-- image -->
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
+Cytotoxic
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-Cytotoxic
+Keep out of the sight and reach of children.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+<!-- image -->
+
+4 - Twist off Port (For infusion of the medication)
+
+3 - Luer Port (For dose adjustment and infusion of the medication)
+
+2 - Blind Port (NEVER use this port)
+
+Read the package leaflet before use for further instructions and recommended dose.
+
+Activate seal and gently mix powder and solvent.
+
+Intravenous use after reconstitution.
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+1 bag
+
+Powder and solvent for solution for infusion One bag contains 400 mg thiotepa and 400 mL solvent
+
+## 4.  PHARMACEUTICAL FORM AND CONTENTS
+
+See leaflet for further information.
+
+Solvent: sodium chloride and water for injections
+
+## 3. LIST OF EXCIPIENTS
+
+One bag contains 400 mg thiotepa. After reconstitution with the solvent, each mL of solution contains 1 mg of thiotepa.
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+thiotepa
+
+TEPADINA 400 mg powder and solvent for solution for infusion
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Inner label bag
+
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2202,7 +2203,7 @@ Tell your doctor if you are taking, have recently taken or might take any other 
 
 You must tell your doctor if you are pregnant or you think you may be pregnant before you receive TEPADINA. You must not use TEPADINA during pregnancy.
 
-Both women and men using TEPADINA must use effective contraceptive methods during treatment. Men should not father a child while treated with TEPADINA and during the year after cessation of treatment.
+Both women and men using TEPADINA must use effective contraceptive methods during treatment. After cessation of treatment women must use effective contraceptive methods for at least 6 months and men for at least 3 months.
 
 It is not known whether this medicinal product is excreted in breast milk. As a precautionary measure, women must not breast-feed during treatment with TEPADINA.
 
@@ -2382,197 +2383,9 @@ TEPADINA is a white crystalline powder supplied in a glass vial containing 15 mg
 
 ## Marketing Authorisation Holder and Manufacturer
 
-ADIENNE S.r.l. S.U. Via Galileo Galilei, 19 20867 Caponago (MB) Italy Tel: +39 02 40700445 adienne@adienne.com
+ADIENNE S.r.l. S.U. Via Galileo Galilei, 19
 
-For  any  information  about  this  medicine,  please  contact  the  local  representative  of  the  Marketing Authorisation Holder:
-
-## België/Belgique/Belgien
-
-Accord Healthcare bv
-
-Tèl/Tel: +32 51 79 40 12
-
-## Lietuva
-
-Accord Healthcare AB
-
-Tel: +46 8 624 00 25
-
-## България
-
-Accord Healthcare Polska Sp. z o.o.
-
-Teл.
-
-: +48 22 577 28 00
-
-## Luxembourg/Luxemburg
-
-Accord Healthcare bv
-
-Tèl/Tel: +32 51 79 40 12
-
-## Česká republika
-
-Accord Healthcare Polska Sp. z o.o.
-
-Tel: +48 22 577 28 00
-
-## Magyarország
-
-Accord Healthcare Polska Sp. z o.o.
-
-Tel.: +48 22 577 28 00
-
-## Danmark
-
-Accord Healthcare AB
-
-Tlf: + 46 8 624 00 25
-
-## Malta
-
-Accord Healthcare Ireland Ltd
-
-Tel: +44 (0) 208 901 3370
-
-## Deutschland
-
-Accord Healthcare GmbH
-
-Tel: +49 89 700 9951 0
-
-## Nederland
-
-Accord Healthcare B.V.
-
-Tel: +31 30 850 6014
-
-## Eesti
-
-Accord Healthcare AB
-
-Tel: +46 8 624 00 25
-
-## Norge
-
-Accord Healthcare AB
-
-Tlf: + 46 8 624 00 25
-
-## Ελλάδα
-
-Accord Healthcare Italia Srl
-
-## Österreich
-
-Accord Healthcare GmbH
-
-Τηλ
-
-: + 39 02 943 23 700
-
-Tel: +43 (0)662 424899-0
-
-## España
-
-Accord Healthcare S.L.U.
-
-Tel: +34 93 301 00 64
-
-## Polska
-
-Accord Healthcare Polska Sp. z o.o.
-
-Tel.: +48 22 577 28 00
-
-## France
-
-Accord Healthcare France SAS
-
-Tél: +33 (0)320 401 770
-
-## Portugal
-
-Accord Healthcare, Unipessoal Lda
-
-Tel: +351 214 697 835
-
-## Hrvatska
-
-Accord Healthcare Polska Sp. z o.o.
-
-Tel: +48 22 577 28 00
-
-## România
-
-Accord Healthcare Polska Sp. z o.o.
-
-Tel: +48 22 577 28 00
-
-## Ireland
-
-Accord Healthcare Ireland Ltd
-
-Tel: +44 (0)1271 385257
-
-## Slovenija
-
-Accord Healthcare Polska Sp. z o.o.
-
-Tel: +48 22 577 28 00
-
-## Ísland
-
-Accord Healthcare AB
-
-Sími: + 46 8 624 00 25
-
-## Slovenská republika
-
-Accord Healthcare Polska Sp. z o.o.
-
-Tel: +48 22 577 28 00
-
-## Italia
-
-Accord Healthcare Italia Srl
-
-Tel: +39 02 943 23 700
-
-## Suomi/Finland
-
-Accord Healthcare Oy
-
-Puh/Tel: + 358 10 231 4180
-
-## Κύπρος
-
-Accord Healthcare S.L.U.
-
-Τηλ
-
-: + 34 93 301 00 64
-
-## Sverige
-
-Accord Healthcare AB
-
-Tel: + 46 8 624 00 25
-
-## Latvija
-
-Accord Healthcare AB
-
-Tel: +46 8 624 00 25
-
-## United Kingdom (Northern Ireland)
-
-Accord-UK Ltd
-
-Tel: +44 (0)1271 385257
-
-<div style=\"page-break-after: always\"></div>
+20867 Caponago (MB) Italy Tel: +39 02 40700445 adienne@adienne.com
 
 ## This leaflet was last revised in
 
@@ -2584,17 +2397,19 @@ The following information is intended for healthcare professionals only.
 
 ## PREPARATION GUIDE
 
-## TEPADINA 15 mg powder for concentrate for solution for infusion Thiotepa
+## TEPADINA 15 mg powder for concentrate for solution for infusion
+
+Thiotepa
 
 Read this guide prior to the preparation and administration of TEPADINA.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 1. PRESENTATION
 
 TEPADINA is supplied as 15 mg powder for concentrate for solution for infusion. TEPADINA must be reconstituted and diluted prior to administration.
 
 ## 2. SPECIAL PRECAUTIONS FOR DISPOSAL AND OTHER HANDLING
+
+<div style=\"page-break-after: always\"></div>
 
 ## General
 
@@ -2628,11 +2443,11 @@ The recommended dose is 185 mg/m 2 /day (5 mg/kg/day) as a single daily infusion
 
 The recommended dose ranges from 150 mg/m 2 /day (4.05 mg/kg/day) to 250 mg/m 2 /day (6.76 mg/kg/day) as a single daily infusion, administered for 3 consecutive days before autologous HPCT depending on the combination with other chemotherapeutic medicinal products, without exceeding the total maximum cumulative dose of 750 mg/m 2 (20.27 mg/kg), during the time of the entire conditioning treatment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Solid tumours
 
 The recommended dose in solid tumours ranges from 120 mg/m 2 /day (3.24 mg/kg/day) to 250 mg/m 2 /day (6.76 mg/kg/day) divided in one or two daily infusions, administered from 2 up to 5 consecutive days before autologous HPCT depending on the combination with other chemotherapeutic medicinal products, without exceeding the total maximum cumulative dose of 800 mg/m 2  (21.62 mg/kg), during the time of the entire conditioning treatment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## BREAST CANCER
 
@@ -2672,13 +2487,13 @@ The recommended dose ranges from 185 mg/m 2 /day (5 mg/kg/day) to 481 mg/m 2 /da
 
 The recommended dose is 370 mg/m 2 /day (10 mg/kg/day) divided in two daily infusions, administered before allogeneic HPCT, without exceeding the total maximum cumulative dose of 370 mg/m 2 (10 mg/kg), during the time of the entire conditioning treatment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Posology in paediatric patients
 
 ## AUTOLOGOUS HPCT
 
 ## Solid tumours
+
+<div style=\"page-break-after: always\"></div>
 
 The recommended dose in solid tumours ranges from 150 mg/m 2 /day (6 mg/kg/day) to 350 mg/m 2 /day (14 mg/kg/day) as a single daily infusion, administered from 2 up to 3 consecutive days before autologous HPCT depending on the combination with other chemotherapeutic medicinal products, without exceeding the total maximum cumulative dose of 1 050 mg/m 2 (42 mg/kg), during the time of the entire conditioning treatment.
 
@@ -2698,9 +2513,7 @@ The recommended dose is 250 mg/m 2 /day (10 mg/kg/day) divided in two daily infu
 
 ## THALASSEMIA
 
-The recommended dose ranges from 200 mg/m 2 /day (8 mg/kg/day) to 250 mg/m 2 /day (10 mg/kg/day) divided in two daily infusions, administered before allogeneic HPCT without exceeding the total maximum cumulative dose of 250 mg/m 2  (10 mg/kg), during the time of the entire conditioning
-
-## treatment.
+The recommended dose ranges from 200 mg/m 2 /day (8 mg/kg/day) to 250 mg/m 2 /day (10 mg/kg/day) divided in two daily infusions, administered before allogeneic HPCT without exceeding the total maximum cumulative dose of 250 mg/m 2  (10 mg/kg), during the time of the entire conditioning treatment.
 
 ## REFRACTORY CYTOPENIA
 
@@ -2716,15 +2529,13 @@ The recommended dose is 250 mg/m 2 /day (10 mg/kg/day) divided in two daily infu
 
 ## Reconstitution
 
-TEPADINA must be reconstituted with 1.5 mL of sterile water for injections. Using a syringe fitted with a needle, aseptically withdraw 1.5 mL of sterile water for injections. Inject the content of the syringe into the vial through the rubber stopper. Remove the syringe and the needle and mix manually by repeated inversions.
-
-<div style=\"page-break-after: always\"></div>
-
-Only colourless solutions, without any particulate matter, must be used. Reconstituted solutions may occasionally show opalescence; such solutions can still be administered.
+TEPADINA must be reconstituted with 1.5 mL of sterile water for injections. Using a syringe fitted with a needle, aseptically withdraw 1.5 mL of sterile water for injections. Inject the content of the syringe into the vial through the rubber stopper. Remove the syringe and the needle and mix manually by repeated inversions. Only colourless solutions, without any particulate matter, must be used. Reconstituted solutions may occasionally show opalescence; such solutions can still be administered.
 
 ## Further dilution in the infusion bag
 
 The reconstituted solution is hypotonic and must be further diluted prior to administration with 500 mL sodium chloride 9 mg/mL (0.9%) solution for injection (1 000 mL if the dose is higher than 500 mg) or with an appropriate volume of sodium chloride 9 mg/mL (0.9%) in order to obtain a final TEPADINA concentration between 0.5 and 1 mg/mL.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Administration
 
@@ -2802,7 +2613,7 @@ Tell your doctor if you are taking, have recently taken or might take any other 
 
 You must tell your doctor if you are pregnant or you think you may be pregnant before you receive TEPADINA. You must not use TEPADINA during pregnancy.
 
-Both women and men using TEPADINA must use effective contraceptive methods during treatment. Men should not father a child while treated with TEPADINA and during the year after cessation of treatment.
+Both women and men using TEPADINA must use effective contraceptive methods during treatment. After cessation of treatment women must use effective contraceptive methods for at least 6 months and men for at least 3 months.
 
 It is not known whether this medicinal product is excreted in breast milk. As a precautionary measure, women must not breast-feed during treatment with TEPADINA.
 
@@ -2982,193 +2793,9 @@ TEPADINA is a white crystalline powder supplied in a glass vial containing 100 m
 
 ## Marketing Authorisation Holder and Manufacturer
 
-ADIENNE S.r.l. S.U. Via Galileo Galilei, 19 20867 Caponago (MB) Italy Tel: +39 02 40700445 adienne@adienne.com
+ADIENNE S.r.l. S.U. Via Galileo Galilei, 19
 
-For  any  information  about  this  medicine,  please  contact  the  local  representative  of  the  Marketing Authorisation Holder:
-
-## België/Belgique/Belgien
-
-Accord Healthcare bv
-
-Tél/Tel: +32 51 79 40 12
-
-## България
-
-Accord Healthcare Polska Sp. z o.o.
-
-Teл.: +48 22 577 28 00
-
-## Česká republika
-
-Accord Healthcare Polska Sp. z o.o.
-
-Tel: +48 22 577 28 00
-
-## Danmark
-
-Accord Healthcare AB
-
-Tlf: + 46 8 624 00 25
-
-## Deutschland
-
-Accord Healthcare GmbH
-
-Tel: +49 89 700 9951 0
-
-## Eesti
-
-Accord Healthcare AB
-
-Tel: +46 8 624 00 25
-
-## Ελλάδα
-
-Accord Healthcare Italia Srl
-
-Τηλ
-
-: + 39 02 943 23 700
-
-## España
-
-Accord Healthcare S.L.U.
-
-## Lietuva
-
-Accord Healthcare AB
-
-Tel: +46 8 624 00 25
-
-## Luxembourg/Luxemburg
-
-Accord Healthcare bv
-
-Tèl/Tel: +32 51 79 40 12
-
-## Magyarország
-
-Accord Healthcare Polska Sp. z o.o.
-
-Tel.: +48 22 577 28 00
-
-## Malta
-
-Accord Healthcare Ireland Ltd
-
-Tel: +44 (0) 208 901 3370
-
-## Nederland
-
-Accord Healthcare B.V.
-
-Tel: +31 30 850 6014
-
-## Norge
-
-Accord Healthcare AB
-
-Tlf: + 46 8 624 00 25
-
-## Österreich
-
-Accord Healthcare GmbH
-
-Tel: +43 (0)662 424899-0
-
-## Polska
-
-Accord Healthcare Polska Sp. z o.o.
-
-Tel: +34 93 301 00 64
-
-Tel.: +48 22 577 28 00
-
-## France
-
-Accord Healthcare France SAS
-
-Tél: +33 (0)320 401 770
-
-## Portugal
-
-Accord Healthcare, Unipessoal Lda
-
-Tel: +351 214 697 835
-
-## Hrvatska
-
-Accord Healthcare Polska Sp. z o.o.
-
-Tel: +48 22 577 28 00
-
-## România
-
-Accord Healthcare Polska Sp. z o.o.
-
-Tel: +48 22 577 28 00
-
-## Ireland
-
-Accord Healthcare Ireland Ltd
-
-Tel: +44 (0)1271 385257
-
-## Slovenija
-
-Accord Healthcare Polska Sp. z o.o.
-
-Tel: +48 22 577 28 00
-
-## Ísland
-
-Accord Healthcare AB
-
-Sími: + 46 8 624 00 25
-
-## Slovenská republika
-
-Accord Healthcare Polska Sp. z o.o.
-
-Tel: +48 22 577 28 00
-
-## Italia
-
-Accord Healthcare Italia Srl
-
-Tel: +39 02 943 23 700
-
-## Suomi/Finland
-
-Accord Healthcare Oy
-
-Puh/Tel: + 358 10 231 4180
-
-## Κύπρος
-
-Accord Healthcare S.L.U.
-
-Τηλ : + 34 93 301 00 64
-
-## Sverige
-
-Accord Healthcare AB
-
-Tel: + 46 8 624 00 25
-
-## Latvija
-
-Accord Healthcare AB
-
-Tel: +46 8 624 00 25
-
-## United Kingdom (Northern Ireland)
-
-Accord-UK Ltd
-
-Tel: +44 (0)1271 385257
-
-<div style=\"page-break-after: always\"></div>
+20867 Caponago (MB) Italy Tel: +39 02 40700445 adienne@adienne.com
 
 ## This leaflet was last revised in
 
@@ -3190,15 +2817,17 @@ Read this guide prior to the preparation and administration of TEPADINA.
 
 TEPADINA is supplied as 100 mg powder for concentrate for solution for infusion. TEPADINA must be reconstituted and diluted prior to administration.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 2. SPECIAL PRECAUTIONS FOR DISPOSAL AND OTHER HANDLING
 
 ## General
 
 Procedures for proper handling and disposal of anticancer medicinal products should be considered. All transfer procedures require strict adherence to aseptic techniques, preferably employing a vertical laminar flow safety hood.
 
-As with other cytotoxic compounds, caution need to be exercised in handling and preparation of TEPADINA solutions to avoid accidental contact with skin or mucous membranes. Topical reactions associated with accidental exposure to thiotepa may occur. In fact, the use of gloves is recommended in preparing the solution for infusion. If thiotepa solution accidentally contacts the skin, immediately the skin must be thoroughly washed with soap and water. If thiotepa accidentally contacts mucous membranes, they must be flushed thoroughly with water.
+As with other cytotoxic compounds, caution need to be exercised in handling and preparation of TEPADINA solutions to avoid accidental contact with skin or mucous membranes. Topical reactions
+
+<div style=\"page-break-after: always\"></div>
+
+associated with accidental exposure to thiotepa may occur. In fact, the use of gloves is recommended in preparing the solution for infusion. If thiotepa solution accidentally contacts the skin, immediately the skin must be thoroughly washed with soap and water. If thiotepa accidentally contacts mucous membranes, they must be flushed thoroughly with water.
 
 ## Calculation of dose of TEPADINA
 
@@ -3220,29 +2849,29 @@ The recommended dose ranges from 125 mg/m 2 /day (3.38 mg/kg/day) to 300 mg/m 2 
 
 ## CENTRAL NERVOUS SYSTEM (CNS) LYMPHOMA
 
-The recommended dose is 185 mg/m 2 /day (5 mg/kg/day) as a single daily infusion, administered for 2 consecutive days before autologous HPCT, without exceeding the total maximum cumulative dose of 370 mg/m 2 (10 mg/kg), during the time of the entire conditioning treatment.
-
-## MULTIPLE MYELOMA
+The recommended dose is 185 mg/m 2 /day (5 mg/kg/day) as a single daily infusion, administered for 2 consecutive days before autologous HPCT, without exceeding the total maximum cumulative dose of 370 mg/m 2 (10 mg/kg), during the time of the entire conditioning treatment. MULTIPLE MYELOMA
 
 The recommended dose ranges from 150 mg/m 2 /day (4.05 mg/kg/day) to 250 mg/m 2 /day (6.76 mg/kg/day) as a single daily infusion, administered for 3 consecutive days before autologous HPCT depending on the combination with other chemotherapeutic medicinal products, without exceeding the total maximum cumulative dose of 750 mg/m 2 (20.27 mg/kg), during the time of the entire conditioning treatment.
 
 ## Solid tumours
 
-The recommended dose in solid tumours ranges from 120 mg/m 2 /day (3.24 mg/kg/day) to 250 mg/m 2 /day (6.76 mg/kg/day) divided in one or two daily infusions, administered from 2 up to 5 consecutive days before autologous HPCT depending on the combination with other chemotherapeutic medicinal products, without exceeding the total maximum cumulative dose of 800 mg/m 2  (21.62 mg/kg), during the time of the entire conditioning treatment. BREAST CANCER
+The recommended dose in solid tumours ranges from 120 mg/m 2 /day (3.24 mg/kg/day) to 250 mg/m 2 /day (6.76 mg/kg/day) divided in one or two daily infusions, administered from 2 up to 5 consecutive days before autologous HPCT depending on the combination with other chemotherapeutic medicinal products, without exceeding the total maximum cumulative dose of 800 mg/m 2  (21.62 mg/kg), during the time of the entire conditioning treatment.
 
-<div style=\"page-break-after: always\"></div>
+## BREAST CANCER
 
 The recommended dose ranges from 120 mg/m 2 /day (3.24 mg/kg/day) to 250 mg/m 2 /day (6.76 mg/kg/day) as a single daily infusion, administered from 3 up to 5 consecutive days before autologous HPCT depending on the combination with other chemotherapeutic medicinal products, without exceeding the total maximum cumulative dose of 800 mg/m 2 (21.62 mg/kg), during the time of the entire conditioning treatment.
 
 ## CNS TUMOURS
 
-The recommended dose ranges from 125 mg/m 2 /day (3.38 mg/kg/day) to 250 mg/m 2 /day (6.76 mg/kg/day) divided in one or two daily infusions, administered from 3 up to 4 consecutive days before autologous HPCT depending on the combination with other chemotherapeutic medicinal products, without exceeding the total maximum cumulative dose of 750 mg/m 2 (20.27 mg/kg), during the time of the entire conditioning treatment.
+The recommended dose ranges from 125 mg/m 2 /day (3.38 mg/kg/day) to 250 mg/m 2 /day
+
+<div style=\"page-break-after: always\"></div>
+
+(6.76 mg/kg/day) divided in one or two daily infusions, administered from 3 up to 4 consecutive days before autologous HPCT depending on the combination with other chemotherapeutic medicinal products, without exceeding the total maximum cumulative dose of 750 mg/m 2 (20.27 mg/kg), during the time of the entire conditioning treatment.
 
 ## OVARIAN CANCER
 
-The recommended dose is 250 mg/m 2 /day (6.76 mg/kg/day) as a single daily infusion, administered in 2 consecutive days before autologous HPCT, without exceeding the total maximum cumulative dose of 500 mg/m 2 (13.51 mg/kg), during the time of the entire conditioning treatment.
-
-## GERM CELL TUMOURS
+The recommended dose is 250 mg/m 2 /day (6.76 mg/kg/day) as a single daily infusion, administered in 2 consecutive days before autologous HPCT, without exceeding the total maximum cumulative dose of 500 mg/m 2 (13.51 mg/kg), during the time of the entire conditioning treatment. GERM CELL TUMOURS
 
 The recommended dose ranges from 150 mg/m 2 /day (4.05 mg/kg/day) to 250 mg/m 2 /day (6.76 mg/kg/day) as a single daily infusion, administered for 3 consecutive days before autologous HPCT depending on the combination with other chemotherapeutic medicinal products, without exceeding the total maximum cumulative dose of 750 mg/m 2 (20.27 mg/kg), during the time of the entire conditioning treatment.
 
@@ -3274,13 +2903,15 @@ The recommended dose is 370 mg/m 2 /day (10 mg/kg/day) divided in two daily infu
 
 ## Solid tumours
 
-<div style=\"page-break-after: always\"></div>
-
 The recommended dose in solid tumours ranges from 150 mg/m 2 /day (6 mg/kg/day) to 350 mg/m 2 /day (14 mg/kg/day) as a single daily infusion, administered from 2 up to 3 consecutive days before autologous HPCT depending on the combination with other chemotherapeutic medicinal products, without exceeding the total maximum cumulative dose of 1 050 mg/m 2 (42 mg/kg), during the time of the entire conditioning treatment.
 
 ## CNS TUMOURS
 
-The recommended dose ranges from 250 mg/m 2 /day (10 mg/kg/day) to 350 mg/m 2 /day (14 mg/kg/day) as a single daily infusion, administered for 3 consecutive days before autologous HPCT depending on the combination with other chemotherapeutic medicinal products, without exceeding the total maximum cumulative dose of 1 050 mg/m 2 (42 mg/kg), during the time of the entire conditioning treatment.
+The recommended dose ranges from 250 mg/m 2 /day (10 mg/kg/day) to 350 mg/m 2 /day (14 mg/kg/day) as a single daily infusion, administered for 3 consecutive days before autologous
+
+<div style=\"page-break-after: always\"></div>
+
+HPCT depending on the combination with other chemotherapeutic medicinal products, without exceeding the total maximum cumulative dose of 1 050 mg/m 2 (42 mg/kg), during the time of the entire conditioning treatment.
 
 ## ALLOGENEIC HPCT
 
@@ -3310,19 +2941,27 @@ The recommended dose is 250 mg/m 2 /day (10 mg/kg/day) divided in two daily infu
 
 ## Reconstitution
 
-TEPADINA must be reconstituted with 10 mL of sterile water for injections. Using a syringe fitted with a needle, aseptically withdraw 10 mL of sterile water for injections. Inject the content of the syringe into the vial through the rubber stopper. Remove the syringe and the needle and mix manually by repeated inversions. Only colourless solutions, without any particulate matter, must be used. Reconstituted solutions may occasionally show opalescence; such solutions can still be administered.
+TEPADINA must be reconstituted with 10 mL of sterile water for injections.
+
+Using a syringe fitted with a needle, aseptically withdraw 10 mL of sterile water for injections.
+
+Inject the content of the syringe into the vial through the rubber stopper.
+
+Remove the syringe and the needle and mix manually by repeated inversions.
+
+Only colourless solutions, without any particulate matter, must be used. Reconstituted solutions may occasionally show opalescence; such solutions can still be administered.
 
 ## Further dilution in the infusion bag
 
 The reconstituted solution is hypotonic and must be further diluted prior to administration with 500 mL sodium chloride 9 mg/mL (0.9%) solution for injection (1 000 mL if the dose is higher than 500 mg) or with an appropriate volume of sodium chloride 9 mg/mL (0.9%) in order to obtain a final TEPADINA concentration between 0.5 and 1 mg/mL.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Administration
 
 TEPADINA infusion solution should be inspected visually for particulate matter prior to administration. Solutions containing a precipitate should be discarded.
 
 The infusion solution must be administered to patients using an infusion set equipped with a 0.2 µm in-line filter. Filtering does not alter solution potency.
+
+<div style=\"page-break-after: always\"></div>
 
 TEPADINA should be aseptically administered as a 2-4 hours infusion under room temperature (about 25°C) and normal light conditions.
 
@@ -3396,7 +3035,7 @@ Tell your doctor if you are taking, have recently taken or might take any other 
 
 You must tell your doctor if you are pregnant or you think you may be pregnant before you receive TEPADINA. You must not use TEPADINA during pregnancy.
 
-Both women and men using TEPADINA must use effective contraceptive methods during treatment. Men should not father a child while treated with TEPADINA and during the year after cessation of treatment.
+Both women and men using TEPADINA must use effective contraceptive methods during treatment. After cessation of treatment women must use effective contraceptive methods for at least 6 months and men for at least 3 months.
 
 It is not known whether this medicine is excreted in breast milk. As a precautionary measure, women must not breast-feed during treatment with TEPADINA.
 
@@ -3586,125 +3225,7 @@ Each carton contains 1 bag.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-ADIENNE S.r.l. S.U.
-
-Via Galileo Galilei, 19
-
-20867 Caponago (MB) Italy
-
-Tel: +39 02 40700445
-
-adienne@adienne.com
-
-For  any  information  about  this  medicine,  please  contact  the  local  representative  of  the  Marketing Authorisation Holder:
-
-## België/Belgique/Belgien
-
-Accord Healthcare bv
-
-Tél/Tel: +32 51 79 40 12
-
-## Lietuva
-
-Accord Healthcare AB
-
-Tel: +46 8 624 00 25
-
-## България
-
-Accord Healthcare Polska Sp. z o.o.
-
-Teл.: +48 22 577 28 00
-
-## Luxembourg/Luxemburg
-
-Accord Healthcare bv
-
-Tèl/Tel: +32 51 79 40 12
-
-## Česká republika
-
-Accord Healthcare Polska Sp. z o.o.
-
-Tel: +48 22 577 28 00
-
-## Magyarország
-
-Accord Healthcare Polska Sp. z o.o.
-
-Tel.: +48 22 577 28 00
-
-## Danmark
-
-Accord Healthcare AB
-
-Tlf: + 46 8 624 00 25
-
-## Malta
-
-Accord Healthcare Ireland Ltd
-
-Tel: +44 (0) 208 901 3370
-
-## Deutschland
-
-## Nederland
-
-Accord Healthcare GmbH
-
-Tel: +49 89 700 9951 0
-
-<div style=\"page-break-after: always\"></div>
-
-## Eesti
-
-Accord Healthcare AB
-
-Tel: +46 8 624 00 25
-
-## Ελλάδα
-
-Accord Healthcare Italia Srl Τηλ : + 39 02 943 23 700
-
-## España
-
-Accord Healthcare S.L.U. Tel: +34 93 301 00 64
-
-## France
-
-Accord Healthcare France SAS Tél: +33 (0)320 401 770
-
-## Hrvatska
-
-Accord Healthcare Polska Sp. z o.o. Tel: +48 22 577 28 00
-
-## Ireland
-
-Accord Healthcare Ireland Ltd
-
-Tel: +44 (0)1271 385257
-
-## Ísland
-
-Accord Healthcare AB
-
-Sími: + 46 8 624 00 25
-
-## Italia
-
-Accord Healthcare Italia Srl
-
-Tel: +39 02 943 23 700
-
-## Κύπρος
-
-Accord Healthcare S.L.U. Τηλ : + 34 93 301 00 64
-
-## Latvija
-
-Accord Healthcare AB
-
-Tel: +46 8 624 00 25
+ADIENNE S.r.l. S.U. Via Galileo Galilei, 19 20867 Caponago (MB) Italy Tel: +39 02 40700445 adienne@adienne.com
 
 ## This leaflet was last revised in
 
@@ -3712,57 +3233,9 @@ Tel: +46 8 624 00 25
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu .
 
-Accord Healthcare B.V.
-
-Tel: +31 30 850 6014
-
-## Norge
-
-Accord Healthcare AB
-
-Tlf: + 46 8 624 00 25
-
-## Österreich
-
-Accord Healthcare GmbH
-
-Tel: +43 (0)662 424899-0
-
-## Polska
-
-Accord Healthcare Polska Sp. z o.o. Tel.: +48 22 577 28 00
-
-## Portugal
-
-Accord Healthcare, Unipessoal Lda Tel: +351 214 697 835
-
-## România
-
-Accord Healthcare Polska Sp. z o.o. Tel: +48 22 577 28 00
-
-## Slovenija
-
-Accord Healthcare Polska Sp. z o.o. Tel: +48 22 577 28 00
-
-## Slovenská republika
-
-Accord Healthcare Polska Sp. z o.o. Tel: +48 22 577 28 00
-
-## Suomi/Finland
-
-Accord Healthcare Oy
-
-Puh/Tel: + 358 10 231 4180
-
-## Sverige
-
-Accord Healthcare AB
-
-Tel: + 46 8 624 00 25
+The following information is intended for healthcare professionals only.
 
 <div style=\"page-break-after: always\"></div>
-
-The following information is intended for healthcare professionals only.
 
 ## PREPARATION GUIDE
 
@@ -3804,11 +3277,13 @@ The recommended dose ranges from 125 mg/m 2 /day (3.38 mg/kg/day) to 300 mg/m 2 
 
 The recommended dose is 185 mg/m 2 /day (5 mg/kg/day) as a single daily infusion, administered for 2 consecutive days before autologous HPCT, without exceeding the total maximum cumulative dose of 370 mg/m 2 (10 mg/kg), during the time of the entire conditioning treatment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## MULTIPLE MYELOMA
 
-The recommended dose ranges from 150 mg/m 2 /day (4.05 mg/kg/day) to 250 mg/m 2 /day (6.76 mg/kg/day) as a single daily infusion, administered for 3 consecutive days before autologous HPCT depending on the combination with other chemotherapeutic medicinal products, without exceeding the total maximum cumulative dose of 750 mg/m 2 (20.27 mg/kg), during the time of the entire conditioning treatment.
+The recommended dose ranges from 150 mg/m 2 /day (4.05 mg/kg/day) to 250 mg/m 2 /day (6.76 mg/kg/day) as a single daily infusion, administered for 3 consecutive days before autologous HPCT depending on the combination with other chemotherapeutic medicinal products, without
+
+<div style=\"page-break-after: always\"></div>
+
+exceeding the total maximum cumulative dose of 750 mg/m 2 (20.27 mg/kg), during the time of the entire conditioning treatment.
 
 ## Solid tumours
 
@@ -3846,13 +3321,11 @@ The recommended dose is 185 mg/m 2 /day (5 mg/kg/day) as a single daily infusion
 
 ## LEUKAEMIA
 
-The recommended dose ranges from 185 mg/m 2 /day (5 mg/kg/day) to 481 mg/m 2 /day (13 mg/kg/day) divided in one or two daily infusions, administered from 1 up to 2 consecutive days before allogeneic
-
-<div style=\"page-break-after: always\"></div>
-
-HPCT depending on the combination with other chemotherapeutic medicinal products, without exceeding the total maximum cumulative dose of 555 mg/m 2 (15 mg/kg), during the time of the entire conditioning treatment.
+The recommended dose ranges from 185 mg/m 2 /day (5 mg/kg/day) to 481 mg/m 2 /day (13 mg/kg/day) divided in one or two daily infusions, administered from 1 up to 2 consecutive days before allogeneic HPCT depending on the combination with other chemotherapeutic medicinal products, without exceeding the total maximum cumulative dose of 555 mg/m 2 (15 mg/kg), during the time of the entire conditioning treatment.
 
 ## THALASSEMIA
+
+<div style=\"page-break-after: always\"></div>
 
 The recommended dose is 370 mg/m 2 /day (10 mg/kg/day) divided in two daily infusions, administered before allogeneic HPCT, without exceeding the total maximum cumulative dose of 370 mg/m 2 (10 mg/kg), during the time of the entire conditioning treatment.
 
@@ -3890,13 +3363,13 @@ The recommended dose is 125 mg/m 2 /day (5 mg/kg/day) as a single daily infusion
 
 The recommended dose is 125 mg/m 2 /day (5 mg/kg/day) as a single daily infusion, administered for 2 consecutive days before allogeneic HPCT, without exceeding the total maximum cumulative dose of 250 mg/m 2  (10 mg/kg), during the time of the entire conditioning treatment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## SICKLE CELL ANAEMIA
 
 The recommended dose is 250 mg/m 2 /day (10 mg/kg/day) divided in two daily infusions, administered before allogeneic HPCT, without exceeding the total maximum cumulative dose of 250 mg/m 2 (10 mg/kg), during the time of the entire conditioning treatment.
 
 ## Activation of the bag and reconstitution
+
+<div style=\"page-break-after: always\"></div>
 
 TEPADINA200 mg must be reconstituted with 200 mL sodium chloride 9 mg/mL (0.9%) solution for injection. The final reconstituted solution is obtained after breaking the peelable seal of the dual chamber bag and mixing the contents (powder and solvent) until complete dissolution of the powder.
 
@@ -4041,7 +3514,7 @@ Tell your doctor if you are taking, have recently taken or might take any other 
 
 You must tell your doctor if you are pregnant or you think you may be pregnant before you receive TEPADINA. You must not use TEPADINA during pregnancy.
 
-Both women and men using TEPADINA must use effective contraceptive methods during treatment. Men should not father a child while treated with TEPADINA and during the year after cessation of treatment.
+Both women and men using TEPADINA must use effective contraceptive methods during treatment. After cessation of treatment women must use effective contraceptive methods for at least 6 months and men for at least 3 months.
 
 It is not known whether this medicine is excreted in breast milk. As a precautionary measure, women must not breast-feed during treatment with TEPADINA.
 
@@ -4241,173 +3714,15 @@ Tel: +39 02 40700445
 
 adienne@adienne.com
 
-For  any  information  about  this  medicine,  please  contact  the  local  representative  of  the  Marketing Authorisation Holder:
-
-## België/Belgique/Belgien
-
-Accord Healthcare bv
-
-Tél/Tel: +32 51 79 40 12
-
-## Lietuva
-
-Accord Healthcare AB
-
-Tel: +46 8 624 00 25
-
-## България
-
-Accord Healthcare Polska Sp. z o.o.
-
-Teл.: +48 22 577 28 00
-
-## Luxembourg/Luxemburg
-
-Accord Healthcare bv
-
-Tèl/Tel: +32 51 79 40 12
-
-## Česká republika
-
-Accord Healthcare Polska Sp. z o.o.
-
-Tel: +48 22 577 28 00
-
-## Magyarország
-
-Accord Healthcare Polska Sp. z o.o.
-
-Tel.: +48 22 577 28 00
-
-## Danmark
-
-Accord Healthcare AB
-
-Tlf: + 46 8 624 00 25
-
-## Malta
-
-Accord Healthcare Ireland Ltd
-
-Tel: +44 (0) 208 901 3370
-
-## Deutschland
-
-## Nederland
-
-Accord Healthcare GmbH
-
-Tel: +49 89 700 9951 0
-
-<div style=\"page-break-after: always\"></div>
-
-## Eesti
-
-Accord Healthcare AB
-
-Tel: +46 8 624 00 25
-
-## Ελλάδα
-
-Accord Healthcare Italia Srl Τηλ : + 39 02 943 23 700
-
-## España
-
-Accord Healthcare S.L.U. Tel: +34 93 301 00 64
-
-## France
-
-Accord Healthcare France SAS Tél: +33 (0)320 401 770
-
-## Hrvatska
-
-Accord Healthcare Polska Sp. z o.o. Tel: +48 22 577 28 00
-
-## Ireland
-
-Accord Healthcare Ireland Ltd
-
-Tel: +44 (0)1271 385257
-
-## Ísland
-
-Accord Healthcare AB
-
-Sími: + 46 8 624 00 25
-
-## Italia
-
-Accord Healthcare Italia Srl
-
-Tel: +39 02 943 23 700
-
-## Κύπρος
-
-Accord Healthcare S.L.U. Τηλ : + 34 93 301 00 64
-
-## Latvija
-
-Accord Healthcare AB
-
-Tel: +46 8 624 00 25
-
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu .
 
-Accord Healthcare B.V.
-
-Tel: +31 30 850 6014
-
-## Norge
-
-Accord Healthcare AB
-
-Tlf: + 46 8 624 00 25
-
-## Österreich
-
-Accord Healthcare GmbH Tel: +43 (0)662 424899-0
-
-## Polska
-
-Accord Healthcare Polska Sp. z o.o. Tel.: +48 22 577 28 00
-
-## Portugal
-
-Accord Healthcare, Unipessoal Lda Tel: +351 214 697 835
-
-## România
-
-Accord Healthcare Polska Sp. z o.o.
-
-Tel: +48 22 577 28 00
-
-## Slovenija
-
-Accord Healthcare Polska Sp. z o.o. Tel: +48 22 577 28 00
-
-## Slovenská republika
-
-Accord Healthcare Polska Sp. z o.o. Tel: +48 22 577 28 00
-
-## Suomi/Finland
-
-Accord Healthcare Oy
-
-Puh/Tel: + 358 10 231 4180
-
-## Sverige
-
-Accord Healthcare AB
-
-Tel: + 46 8 624 00 25
+The following information is intended for healthcare professionals only.
 
 <div style=\"page-break-after: always\"></div>
-
-The following information is intended for healthcare professionals only.
 
 ## PREPARATION GUIDE
 
@@ -4449,11 +3764,13 @@ The recommended dose ranges from 125 mg/m 2 /day (3.38 mg/kg/day) to 300 mg/m 2 
 
 The recommended dose is 185 mg/m 2 /day (5 mg/kg/day) as a single daily infusion, administered for 2 consecutive days before autologous HPCT, without exceeding the total maximum cumulative dose of 370 mg/m 2 (10 mg/kg), during the time of the entire conditioning treatment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## MULTIPLE MYELOMA
 
-The recommended dose ranges from 150 mg/m 2 /day (4.05 mg/kg/day) to 250 mg/m 2 /day (6.76 mg/kg/day) as a single daily infusion, administered for 3 consecutive days before autologous HPCT depending on the combination with other chemotherapeutic medicinal products, without exceeding the total maximum cumulative dose of 750 mg/m 2 (20.27 mg/kg), during the time of the entire conditioning treatment.
+The recommended dose ranges from 150 mg/m 2 /day (4.05 mg/kg/day) to 250 mg/m 2 /day (6.76 mg/kg/day) as a single daily infusion, administered for 3 consecutive days before autologous HPCT depending on the combination with other chemotherapeutic medicinal products, without
+
+<div style=\"page-break-after: always\"></div>
+
+exceeding the total maximum cumulative dose of 750 mg/m 2 (20.27 mg/kg), during the time of the entire conditioning treatment.
 
 ## Solid tumours
 
@@ -4491,13 +3808,11 @@ The recommended dose is 185 mg/m 2 /day (5 mg/kg/day) as a single daily infusion
 
 ## LEUKAEMIA
 
-The recommended dose ranges from 185 mg/m 2 /day (5 mg/kg/day) to 481 mg/m 2 /day (13 mg/kg/day) divided in one or two daily infusions, administered from 1 up to 2 consecutive days before allogeneic
-
-<div style=\"page-break-after: always\"></div>
-
-HPCT depending on the combination with other chemotherapeutic medicinal products, without exceeding the total maximum cumulative dose of 555 mg/m 2 (15 mg/kg), during the time of the entire conditioning treatment.
+The recommended dose ranges from 185 mg/m 2 /day (5 mg/kg/day) to 481 mg/m 2 /day (13 mg/kg/day) divided in one or two daily infusions, administered from 1 up to 2 consecutive days before allogeneic HPCT depending on the combination with other chemotherapeutic medicinal products, without exceeding the total maximum cumulative dose of 555 mg/m 2 (15 mg/kg), during the time of the entire conditioning treatment.
 
 ## THALASSEMIA
+
+<div style=\"page-break-after: always\"></div>
 
 The recommended dose is 370 mg/m 2 /day (10 mg/kg/day) divided in two daily infusions, administered before allogeneic HPCT, without exceeding the total maximum cumulative dose of 370 mg/m 2 (10 mg/kg), during the time of the entire conditioning treatment.
 
@@ -4525,9 +3840,7 @@ The recommended dose is 250 mg/m 2 /day (10 mg/kg/day) divided in two daily infu
 
 ## THALASSEMIA
 
-The recommended dose ranges from 200 mg/m 2 /day (8 mg/kg/day) to 250 mg/m 2 /day (10 mg/kg/day) divided in two daily infusions, administered before allogeneic HPCT without exceeding the total maximum cumulative dose of 250 mg/m 2  (10 mg/kg), during the time of the entire conditioning
-
-## treatment.
+The recommended dose ranges from 200 mg/m 2 /day (8 mg/kg/day) to 250 mg/m 2 /day (10 mg/kg/day) divided in two daily infusions, administered before allogeneic HPCT without exceeding the total maximum cumulative dose of 250 mg/m 2  (10 mg/kg), during the time of the entire conditioning treatment.
 
 ## REFRACTORY CYTOPENIA
 
@@ -4537,13 +3850,13 @@ The recommended dose is 125 mg/m 2 /day (5 mg/kg/day) as a single daily infusion
 
 The recommended dose is 125 mg/m 2 /day (5 mg/kg/day) as a single daily infusion, administered for 2 consecutive days before allogeneic HPCT, without exceeding the total maximum cumulative dose of 250 mg/m 2  (10 mg/kg), during the time of the entire conditioning treatment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## SICKLE CELL ANAEMIA
 
 The recommended dose is 250 mg/m 2 /day (10 mg/kg/day) divided in two daily infusions, administered before allogeneic HPCT, without exceeding the total maximum cumulative dose of 250 mg/m 2 (10 mg/kg), during the time of the entire conditioning treatment.
 
 ## Activation of the bag and reconstitution
+
+<div style=\"page-break-after: always\"></div>
 
 TEPADINA 400 mg must be reconstituted with 400 mL sodium chloride 9 mg/mL (0.9%) solution for injection. The final reconstituted solution is obtained after breaking the peelable seal of the dual chamber bag and mixing the contents (powder and solvent) until complete dissolution of the powder.
 

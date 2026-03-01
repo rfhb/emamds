@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:38:47
+document_datetime: 2026-02-26 12:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/revolade.html
 document_name: revolade.html
 version: success
-processing_time: 0.1993205
-conversion_datetime: 2025-12-30 01:16:48.275783
+processing_time: 0.3600549
+conversion_datetime: 2026-03-01 19:55:48.856842
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Revolade
 
 [RSS](/en/individual-human-medicine.xml/66565)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 eltrombopag Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -138,7 +136,7 @@ English (EN) (149.57 KB - PDF)
 
 [View](/en/documents/overview/revolade-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-37)
+[Other languages (22)](#file-language-dropdown-593)
 
 български (BG) (160.77 KB - PDF)
 
@@ -406,11 +404,11 @@ svenska (SV) (135.06 KB - PDF)
 
 Revolade : EPAR - Risk Management Plan
 
-English (EN) (15.72 MB - PDF)
+English (EN) (900.76 KB - PDF)
 
 **First published:** 20/07/2018
 
-**Last updated:** 27/08/2025
+**Last updated:** 26/02/2026
 
 [View](/en/documents/rmp/revolade-epar-risk-management-plan_en.pdf)
 
@@ -418,17 +416,17 @@ English (EN) (15.72 MB - PDF)
 
 Revolade : EPAR - Product Information
 
-English (EN) (1.18 MB - PDF)
+English (EN) (1.44 MB - PDF)
 
 **First published:** 29/04/2010
 
-**Last updated:** 06/11/2025
+**Last updated:** 26/02/2026
 
 [View](/en/documents/product-information/revolade-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-837)
+[Other languages (24)](#file-language-dropdown-881)
 
-български (BG) (1.47 MB - PDF)
+български (BG) (1.96 MB - PDF)
 
 **First published:**
 
@@ -436,11 +434,11 @@ English (EN) (1.18 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/bg/documents/product-information/revolade-epar-product-information_bg.pdf)
 
-español (ES) (1.38 MB - PDF)
+español (ES) (1.84 MB - PDF)
 
 **First published:**
 
@@ -448,11 +446,11 @@ español (ES) (1.38 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/es/documents/product-information/revolade-epar-product-information_es.pdf)
 
-čeština (CS) (1.46 MB - PDF)
+čeština (CS) (1.27 MB - PDF)
 
 **First published:**
 
@@ -460,11 +458,11 @@ español (ES) (1.38 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/cs/documents/product-information/revolade-epar-product-information_cs.pdf)
 
-dansk (DA) (1.37 MB - PDF)
+dansk (DA) (1.18 MB - PDF)
 
 **First published:**
 
@@ -472,11 +470,11 @@ dansk (DA) (1.37 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/da/documents/product-information/revolade-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.4 MB - PDF)
+Deutsch (DE) (1.2 MB - PDF)
 
 **First published:**
 
@@ -484,11 +482,11 @@ Deutsch (DE) (1.4 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/de/documents/product-information/revolade-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.27 MB - PDF)
+eesti keel (ET) (1.72 MB - PDF)
 
 **First published:**
 
@@ -496,11 +494,11 @@ eesti keel (ET) (1.27 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/et/documents/product-information/revolade-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.53 MB - PDF)
+ελληνικά (EL) (2.07 MB - PDF)
 
 **First published:**
 
@@ -508,11 +506,11 @@ eesti keel (ET) (1.27 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/el/documents/product-information/revolade-epar-product-information_el.pdf)
 
-français (FR) (1.55 MB - PDF)
+français (FR) (1.32 MB - PDF)
 
 **First published:**
 
@@ -520,11 +518,11 @@ français (FR) (1.55 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/fr/documents/product-information/revolade-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.44 MB - PDF)
+hrvatski (HR) (1.26 MB - PDF)
 
 **First published:**
 
@@ -532,11 +530,11 @@ hrvatski (HR) (1.44 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/hr/documents/product-information/revolade-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.26 MB - PDF)
+íslenska (IS) (1.1 MB - PDF)
 
 **First published:**
 
@@ -544,11 +542,11 @@ hrvatski (HR) (1.44 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/is/documents/product-information/revolade-epar-product-information_is.pdf)
 
-italiano (IT) (1.41 MB - PDF)
+italiano (IT) (1.86 MB - PDF)
 
 **First published:**
 
@@ -556,11 +554,11 @@ italiano (IT) (1.41 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/it/documents/product-information/revolade-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.46 MB - PDF)
+latviešu valoda (LV) (1.9 MB - PDF)
 
 **First published:**
 
@@ -568,11 +566,11 @@ latviešu valoda (LV) (1.46 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/lv/documents/product-information/revolade-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.54 MB - PDF)
+lietuvių kalba (LT) (1.33 MB - PDF)
 
 **First published:**
 
@@ -580,11 +578,11 @@ lietuvių kalba (LT) (1.54 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/lt/documents/product-information/revolade-epar-product-information_lt.pdf)
 
-magyar (HU) (1.49 MB - PDF)
+magyar (HU) (1.94 MB - PDF)
 
 **First published:**
 
@@ -592,11 +590,11 @@ magyar (HU) (1.49 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/hu/documents/product-information/revolade-epar-product-information_hu.pdf)
 
-Malti (MT) (1.58 MB - PDF)
+Malti (MT) (1.35 MB - PDF)
 
 **First published:**
 
@@ -604,11 +602,11 @@ Malti (MT) (1.58 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/mt/documents/product-information/revolade-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.35 MB - PDF)
+Nederlands (NL) (1.18 MB - PDF)
 
 **First published:**
 
@@ -616,11 +614,11 @@ Nederlands (NL) (1.35 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/nl/documents/product-information/revolade-epar-product-information_nl.pdf)
 
-norsk (NO) (1.33 MB - PDF)
+norsk (NO) (1.76 MB - PDF)
 
 **First published:**
 
@@ -628,11 +626,11 @@ norsk (NO) (1.33 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/no/documents/product-information/revolade-epar-product-information_no.pdf)
 
-polski (PL) (1.46 MB - PDF)
+polski (PL) (1.9 MB - PDF)
 
 **First published:**
 
@@ -640,11 +638,11 @@ polski (PL) (1.46 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/pl/documents/product-information/revolade-epar-product-information_pl.pdf)
 
-português (PT) (1.33 MB - PDF)
+português (PT) (1.13 MB - PDF)
 
 **First published:**
 
@@ -652,11 +650,11 @@ português (PT) (1.33 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/pt/documents/product-information/revolade-epar-product-information_pt.pdf)
 
-română (RO) (1.5 MB - PDF)
+română (RO) (1.95 MB - PDF)
 
 **First published:**
 
@@ -664,11 +662,11 @@ română (RO) (1.5 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/ro/documents/product-information/revolade-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.51 MB - PDF)
+slovenčina (SK) (1.31 MB - PDF)
 
 **First published:**
 
@@ -676,11 +674,11 @@ slovenčina (SK) (1.51 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/sk/documents/product-information/revolade-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.46 MB - PDF)
+slovenščina (SL) (1.27 MB - PDF)
 
 **First published:**
 
@@ -688,11 +686,11 @@ slovenščina (SL) (1.46 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/sl/documents/product-information/revolade-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.31 MB - PDF)
+Suomi (FI) (1.13 MB - PDF)
 
 **First published:**
 
@@ -700,11 +698,11 @@ Suomi (FI) (1.31 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/fi/documents/product-information/revolade-epar-product-information_fi.pdf)
 
-svenska (SV) (1.32 MB - PDF)
+svenska (SV) (1.14 MB - PDF)
 
 **First published:**
 
@@ -712,11 +710,11 @@ svenska (SV) (1.32 MB - PDF)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/sv/documents/product-information/revolade-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000310270 06/11/2025
+**Latest procedure affecting product information:** VR/0000288153 15/01/2026
 
 icon globe
 
@@ -742,7 +740,7 @@ English (EN) (220.28 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/revolade-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-787)
+[Other languages (24)](#file-language-dropdown-690)
 
 български (BG) (197.85 KB - PDF)
 
@@ -1042,7 +1040,7 @@ English (EN) (53.73 KB - PDF)
 
 [View](/en/documents/conditions-member-states/revolade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-320)
+[Other languages (21)](#file-language-dropdown-231)
 
 български (BG) (125.14 KB - PDF)
 
@@ -1328,7 +1326,7 @@ Novartis Europharm Limited
 
 Vista Building
 
-Opinion adopted 17/12/2009 Marketing authorisation issued 11/03/2010 Revision 38
+Opinion adopted 17/12/2009 Marketing authorisation issued 11/03/2010 Revision 39
 
 ## Assessment history
 
@@ -1340,9 +1338,11 @@ Collapse section
 
 Revolade : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (223.49 KB - PDF)
+English (EN) (146.6 KB - PDF)
 
 **First published:** 06/11/2025
+
+**Last updated:** 26/02/2026
 
 [View](/en/documents/procedural-steps-after/revolade-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1428,7 +1428,7 @@ English (EN) (82.17 KB - PDF)
 
 [View](/en/documents/smop/questions-and-answers-refusal-change-marketing-authorisation-revolade-eltrombopag_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-280)
+[Other languages (22)](#file-language-dropdown-739)
 
 български (BG) (155.69 KB - PDF)
 
@@ -1868,7 +1868,7 @@ English (EN) (32.4 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-revolade_en.pdf)
 
-#### News on Revolade
+## News on Revolade
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 September 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-september-2022) 16/09/2022
 
@@ -1888,23 +1888,23 @@ English (EN) (32.4 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2013) 26/07/2013
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
 Revolade : EPAR - Product information - tracked changes
 
-English (EN) (701.67 KB - DOCX)
+English (EN) (702.55 KB - DOCX)
 
 **First published:** 28/10/2025
 
-**Last updated:** 06/11/2025
+**Last updated:** 26/02/2026
 
 [View](/en/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-250)
+[Other languages (24)](#file-language-dropdown-22)
 
-български (BG) (765.34 KB - DOCX)
+български (BG) (763.83 KB - DOCX)
 
 **First published:**
 
@@ -1912,11 +1912,11 @@ English (EN) (701.67 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/bg/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (716.08 KB - DOCX)
+español (ES) (730.49 KB - DOCX)
 
 **First published:**
 
@@ -1924,11 +1924,11 @@ español (ES) (716.08 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/es/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (700.75 KB - DOCX)
+čeština (CS) (700.71 KB - DOCX)
 
 **First published:**
 
@@ -1936,11 +1936,11 @@ español (ES) (716.08 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/cs/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (683.51 KB - DOCX)
+dansk (DA) (684.55 KB - DOCX)
 
 **First published:**
 
@@ -1948,11 +1948,11 @@ dansk (DA) (683.51 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/da/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (730.96 KB - DOCX)
+Deutsch (DE) (725.55 KB - DOCX)
 
 **First published:**
 
@@ -1960,11 +1960,11 @@ Deutsch (DE) (730.96 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/de/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (638.48 KB - DOCX)
+eesti keel (ET) (638.9 KB - DOCX)
 
 **First published:**
 
@@ -1972,11 +1972,11 @@ eesti keel (ET) (638.48 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/et/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (773.75 KB - DOCX)
+ελληνικά (EL) (768.15 KB - DOCX)
 
 **First published:**
 
@@ -1984,11 +1984,11 @@ eesti keel (ET) (638.48 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/el/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (761.89 KB - DOCX)
+français (FR) (776.93 KB - DOCX)
 
 **First published:**
 
@@ -1996,11 +1996,11 @@ français (FR) (761.89 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/fr/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (788.56 KB - DOCX)
+hrvatski (HR) (770.33 KB - DOCX)
 
 **First published:**
 
@@ -2008,11 +2008,11 @@ hrvatski (HR) (788.56 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/hr/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (659.72 KB - DOCX)
+íslenska (IS) (659.77 KB - DOCX)
 
 **First published:**
 
@@ -2020,11 +2020,11 @@ hrvatski (HR) (788.56 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/is/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_is.docx)
 
-italiano (IT) (740.12 KB - DOCX)
+italiano (IT) (741.53 KB - DOCX)
 
 **First published:**
 
@@ -2032,11 +2032,11 @@ italiano (IT) (740.12 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/it/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (679.58 KB - DOCX)
+latviešu valoda (LV) (682.32 KB - DOCX)
 
 **First published:**
 
@@ -2044,11 +2044,11 @@ latviešu valoda (LV) (679.58 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/lv/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (694.72 KB - DOCX)
+lietuvių kalba (LT) (694.29 KB - DOCX)
 
 **First published:**
 
@@ -2056,11 +2056,11 @@ lietuvių kalba (LT) (694.72 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/lt/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (767.59 KB - DOCX)
+magyar (HU) (772.1 KB - DOCX)
 
 **First published:**
 
@@ -2068,11 +2068,11 @@ magyar (HU) (767.59 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/hu/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (708.46 KB - DOCX)
+Malti (MT) (708.85 KB - DOCX)
 
 **First published:**
 
@@ -2080,11 +2080,11 @@ Malti (MT) (708.46 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/mt/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (613.52 KB - DOCX)
+Nederlands (NL) (617.34 KB - DOCX)
 
 **First published:**
 
@@ -2092,11 +2092,11 @@ Nederlands (NL) (613.52 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/nl/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (678.54 KB - DOCX)
+norsk (NO) (680.15 KB - DOCX)
 
 **First published:**
 
@@ -2104,11 +2104,11 @@ norsk (NO) (678.54 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/no/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_no.docx)
 
-polski (PL) (686.26 KB - DOCX)
+polski (PL) (687.4 KB - DOCX)
 
 **First published:**
 
@@ -2116,11 +2116,11 @@ polski (PL) (686.26 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/pl/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (696.14 KB - DOCX)
+português (PT) (695.6 KB - DOCX)
 
 **First published:**
 
@@ -2128,11 +2128,11 @@ português (PT) (696.14 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/pt/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (716.8 KB - DOCX)
+română (RO) (718.4 KB - DOCX)
 
 **First published:**
 
@@ -2140,11 +2140,11 @@ română (RO) (716.8 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/ro/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (719.15 KB - DOCX)
+slovenčina (SK) (716.54 KB - DOCX)
 
 **First published:**
 
@@ -2152,11 +2152,11 @@ slovenčina (SK) (719.15 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/sk/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (712.02 KB - DOCX)
+slovenščina (SL) (711.11 KB - DOCX)
 
 **First published:**
 
@@ -2164,11 +2164,11 @@ slovenščina (SL) (712.02 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/sl/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (672.49 KB - DOCX)
+Suomi (FI) (670.91 KB - DOCX)
 
 **First published:**
 
@@ -2176,11 +2176,11 @@ Suomi (FI) (672.49 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/fi/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (706.89 KB - DOCX)
+svenska (SV) (707.95 KB - DOCX)
 
 **First published:**
 
@@ -2188,17 +2188,17 @@ svenska (SV) (706.89 KB - DOCX)
 
 **Last updated:**
 
-06/11/2025
+26/02/2026
 
 [View](/sv/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Revolade
+## More information on Revolade
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](/en/medicines/human/orphan-designations/eu307467) on 3 August 2007. Upon request of the marketing-authorisation holder, Revolade has now been removed from the Community register of orphan medicinal products.
 
 - [The European Medicines Agency review of eltrombopag (Revolade) for the treatment of adult chronic immune (idiopathic) thrombocytopenic purpura: summary of the scientific assessment of the Committee for Medicinal Products for Human Use](http://www.haematologica.org/content/96/9/e33.long)
 
-#### Related document
+## Related document
 
 Questions and answers on the outcome of assessment on use of Revolade in treatment of severe aplastic anaemia in children
 
@@ -2214,7 +2214,7 @@ English (EN) (146.08 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-answers-outcome-assessment-use-revolade-treatment-severe-aplastic-anaemia-children_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-286)
+[Other languages (22)](#file-language-dropdown-384)
 
 български (BG) (168.71 KB - PDF)
 
@@ -2480,17 +2480,17 @@ svenska (SV) (143.82 KB - PDF)
 
 [View](/sv/documents/medicine-qa/questions-answers-outcome-assessment-use-revolade-treatment-severe-aplastic-anaemia-children_sv.pdf)
 
-#### More information on Revolade
+## More information on Revolade
 
 - [EMEA-000170-PIP01-07-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000170-pip01-07-m04)
 - [EMEA-000170-PIP02-10-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000170-pip02-10-m03)
 - [EMEA-000170-PIP03-13-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000170-pip03-13-m04)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 06/11/2025
+**This page was last updated on** 26/02/2026
 
 ## Share this page
 

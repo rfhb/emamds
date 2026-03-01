@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 07:38:37
+document_datetime: 2026-02-25 15:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sycrest.html
 document_name: sycrest.html
 version: success
-processing_time: 0.1091031
-conversion_datetime: 2025-12-31 02:39:51.263185
+processing_time: 0.0694409
+conversion_datetime: 2026-03-01 20:20:53.603003
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Sycrest
 
 [RSS](/en/individual-human-medicine.xml/66118)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 asenapine Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +116,7 @@ English (EN) (83.12 KB - PDF)
 
 [View](/en/documents/overview/sycrest-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-909)
+[Other languages (22)](#file-language-dropdown-827)
 
 български (BG) (112.73 KB - PDF)
 
@@ -388,17 +386,17 @@ svenska (SV) (83.03 KB - PDF)
 
 Sycrest : EPAR - Product information
 
-English (EN) (358.72 KB - PDF)
+English (EN) (358.68 KB - PDF)
 
 **First published:** 22/09/2010
 
-**Last updated:** 07/12/2022
+**Last updated:** 25/02/2026
 
 [View](/en/documents/product-information/sycrest-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-940)
+[Other languages (24)](#file-language-dropdown-489)
 
-български (BG) (479.42 KB - PDF)
+български (BG) (461.57 KB - PDF)
 
 **First published:**
 
@@ -406,11 +404,11 @@ English (EN) (358.72 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/bg/documents/product-information/sycrest-epar-product-information_bg.pdf)
 
-español (ES) (362.38 KB - PDF)
+español (ES) (367.81 KB - PDF)
 
 **First published:**
 
@@ -418,11 +416,11 @@ español (ES) (362.38 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/es/documents/product-information/sycrest-epar-product-information_es.pdf)
 
-čeština (CS) (449.53 KB - PDF)
+čeština (CS) (450.64 KB - PDF)
 
 **First published:**
 
@@ -430,11 +428,11 @@ español (ES) (362.38 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/cs/documents/product-information/sycrest-epar-product-information_cs.pdf)
 
-dansk (DA) (402.57 KB - PDF)
+dansk (DA) (393 KB - PDF)
 
 **First published:**
 
@@ -442,11 +440,11 @@ dansk (DA) (402.57 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/da/documents/product-information/sycrest-epar-product-information_da.pdf)
 
-Deutsch (DE) (437.87 KB - PDF)
+Deutsch (DE) (438.06 KB - PDF)
 
 **First published:**
 
@@ -454,11 +452,11 @@ Deutsch (DE) (437.87 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/de/documents/product-information/sycrest-epar-product-information_de.pdf)
 
-eesti keel (ET) (434.2 KB - PDF)
+eesti keel (ET) (425.12 KB - PDF)
 
 **First published:**
 
@@ -466,11 +464,11 @@ eesti keel (ET) (434.2 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/et/documents/product-information/sycrest-epar-product-information_et.pdf)
 
-ελληνικά (EL) (663.77 KB - PDF)
+ελληνικά (EL) (465.45 KB - PDF)
 
 **First published:**
 
@@ -478,11 +476,11 @@ eesti keel (ET) (434.2 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/el/documents/product-information/sycrest-epar-product-information_el.pdf)
 
-français (FR) (432.96 KB - PDF)
+français (FR) (419.6 KB - PDF)
 
 **First published:**
 
@@ -490,11 +488,11 @@ français (FR) (432.96 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/fr/documents/product-information/sycrest-epar-product-information_fr.pdf)
 
-hrvatski (HR) (443.33 KB - PDF)
+hrvatski (HR) (434.99 KB - PDF)
 
 **First published:**
 
@@ -502,11 +500,11 @@ hrvatski (HR) (443.33 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/hr/documents/product-information/sycrest-epar-product-information_hr.pdf)
 
-íslenska (IS) (380.83 KB - PDF)
+íslenska (IS) (380.85 KB - PDF)
 
 **First published:**
 
@@ -514,11 +512,11 @@ hrvatski (HR) (443.33 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/is/documents/product-information/sycrest-epar-product-information_is.pdf)
 
-italiano (IT) (683.34 KB - PDF)
+italiano (IT) (429.8 KB - PDF)
 
 **First published:**
 
@@ -526,11 +524,11 @@ italiano (IT) (683.34 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/it/documents/product-information/sycrest-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (473.44 KB - PDF)
+latviešu valoda (LV) (504.3 KB - PDF)
 
 **First published:**
 
@@ -538,11 +536,11 @@ latviešu valoda (LV) (473.44 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/lv/documents/product-information/sycrest-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (456.09 KB - PDF)
+lietuvių kalba (LT) (443.49 KB - PDF)
 
 **First published:**
 
@@ -550,11 +548,11 @@ lietuvių kalba (LT) (456.09 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/lt/documents/product-information/sycrest-epar-product-information_lt.pdf)
 
-magyar (HU) (640.03 KB - PDF)
+magyar (HU) (450.42 KB - PDF)
 
 **First published:**
 
@@ -562,11 +560,11 @@ magyar (HU) (640.03 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/hu/documents/product-information/sycrest-epar-product-information_hu.pdf)
 
-Malti (MT) (509 KB - PDF)
+Malti (MT) (480.9 KB - PDF)
 
 **First published:**
 
@@ -574,11 +572,11 @@ Malti (MT) (509 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/mt/documents/product-information/sycrest-epar-product-information_mt.pdf)
 
-Nederlands (NL) (463.99 KB - PDF)
+Nederlands (NL) (464.66 KB - PDF)
 
 **First published:**
 
@@ -586,11 +584,11 @@ Nederlands (NL) (463.99 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/nl/documents/product-information/sycrest-epar-product-information_nl.pdf)
 
-norsk (NO) (590.03 KB - PDF)
+norsk (NO) (398.3 KB - PDF)
 
 **First published:**
 
@@ -598,11 +596,11 @@ norsk (NO) (590.03 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/no/documents/product-information/sycrest-epar-product-information_no.pdf)
 
-polski (PL) (510.2 KB - PDF)
+polski (PL) (469.55 KB - PDF)
 
 **First published:**
 
@@ -610,11 +608,11 @@ polski (PL) (510.2 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/pl/documents/product-information/sycrest-epar-product-information_pl.pdf)
 
-português (PT) (459.58 KB - PDF)
+português (PT) (575 KB - PDF)
 
 **First published:**
 
@@ -622,11 +620,11 @@ português (PT) (459.58 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/pt/documents/product-information/sycrest-epar-product-information_pt.pdf)
 
-română (RO) (677.31 KB - PDF)
+română (RO) (486.12 KB - PDF)
 
 **First published:**
 
@@ -634,11 +632,11 @@ română (RO) (677.31 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/ro/documents/product-information/sycrest-epar-product-information_ro.pdf)
 
-slovenčina (SK) (489.31 KB - PDF)
+slovenčina (SK) (478.31 KB - PDF)
 
 **First published:**
 
@@ -646,11 +644,11 @@ slovenčina (SK) (489.31 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/sk/documents/product-information/sycrest-epar-product-information_sk.pdf)
 
-slovenščina (SL) (622.75 KB - PDF)
+slovenščina (SL) (431.2 KB - PDF)
 
 **First published:**
 
@@ -658,11 +656,11 @@ slovenščina (SL) (622.75 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/sl/documents/product-information/sycrest-epar-product-information_sl.pdf)
 
-Suomi (FI) (446.37 KB - PDF)
+Suomi (FI) (446.16 KB - PDF)
 
 **First published:**
 
@@ -670,11 +668,11 @@ Suomi (FI) (446.37 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/fi/documents/product-information/sycrest-epar-product-information_fi.pdf)
 
-svenska (SV) (387.73 KB - PDF)
+svenska (SV) (380.05 KB - PDF)
 
 **First published:**
 
@@ -682,11 +680,11 @@ svenska (SV) (387.73 KB - PDF)
 
 **Last updated:**
 
-07/12/2022
+25/02/2026
 
 [View](/sv/documents/product-information/sycrest-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IAIN/0046 07/12/2022
+**Latest procedure affecting product information:** N/0000333312 25/02/2026
 
 icon globe
 
@@ -712,7 +710,7 @@ English (EN) (50.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sycrest-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-50)
+[Other languages (24)](#file-language-dropdown-45)
 
 български (BG) (58.94 KB - PDF)
 
@@ -1018,11 +1016,11 @@ Sycrest is indicated for the treatment of moderate to severe manic episodes asso
 
 EMA product number EMEA/H/C/001177 Marketing authorisation holder
 
-N.V. Organon
+Organon N.V.
 
 Kloosterstraat 6
 
-Opinion adopted 24/06/2010 Marketing authorisation issued 01/09/2010 Revision 21
+Opinion adopted 24/06/2010 Marketing authorisation issued 01/09/2010 Revision 22
 
 ## Assessment history
 
@@ -1034,13 +1032,21 @@ Collapse section
 
 Sycrest : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (143.36 KB - PDF)
+
+**First published:** 25/02/2026
+
+[View](/en/documents/procedural-steps-after/sycrest-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Sycrest : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (183.32 KB - PDF)
 
 **First published:** 14/03/2011
 
-**Last updated:** 07/12/2022
+**Last updated:** 25/02/2026
 
-[View](/en/documents/procedural-steps-after/sycrest-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/sycrest-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -1070,17 +1076,17 @@ English (EN) (70.8 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-positive-summary-opinion-sycrest_en.pdf)
 
-#### More information on Sycrest
+## More information on Sycrest
 
 - [EMEA-000228-PIP01-08-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000228-pip01-08-m04)
 - [An Observational Post-Authorisation Safety Specialist Cohort Monitoring Study (SCEM) to Monitor the Safety and Utilisation of Asenapine (Sycrest) in the Mental Health Trust Setting in England (OBSERVA) - post-authorisation study](https://catalogues.ema.europa.eu/study/28401)
 - [An Observational Drug Utilization Study of SYCREST® (asenapine) in the United Kingdom (P08308) - post-authorisation study](https://catalogues.ema.europa.eu/study/24560)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 07/12/2022
+**This page was last updated on** 25/02/2026
 
 ## Share this page
 

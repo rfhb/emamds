@@ -1,11 +1,11 @@
 ---
-document_datetime: 2026-02-24 17:32:00
+document_datetime: 2026-02-27 14:21:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/spikevax.html
 document_name: spikevax.html
 version: success
-processing_time: 0.1863781
-conversion_datetime: 2026-02-25 11:52:05.81497
+processing_time: 0.1850937
+conversion_datetime: 2026-03-01 20:22:12.068366
 docling_version:
   docling-serve: 1.13.1
   docling-jobkit: 1.11.0
@@ -231,7 +231,7 @@ English (EN) (179.32 KB - PDF)
 
 [View](/en/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-394)
+[Other languages (22)](#file-language-dropdown-601)
 
 български (BG) (235.49 KB - PDF)
 
@@ -519,7 +519,7 @@ English (EN) (1.14 MB - PDF)
 
 [View](/en/documents/product-information/spikevax-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-99)
+[Other languages (24)](#file-language-dropdown-358)
 
 български (BG) (1.45 MB - PDF)
 
@@ -835,7 +835,7 @@ English (EN) (90.22 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-835)
+[Other languages (24)](#file-language-dropdown-289)
 
 български (BG) (126.99 KB - PDF)
 
@@ -1987,9 +1987,11 @@ You can subscribe to update notifications by selecting the RSS option available 
 
 Spikevax : Module 2.3.S quality overall summary
 
-English (EN) (2.69 MB - ZIP)
+English (EN) (8.42 MB - ZIP)
 
 **First published:** 30/01/2026
+
+**Last updated:** 27/02/2026
 
 [View](/en/documents/other/spikevax-module-23-quality-overall-summary_en.zip)
 
@@ -2162,7 +2164,7 @@ English (EN) (2.01 MB - DOCX)
 - [Effectiveness of monovalent XBB.1.5-containing Covid-19 mRNA vaccines in the Nordic countries - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000043)
 - [mRNA-1273-P911: Long-term Outcomes of Myocarditis Following Administration of SPIKEVAX (COVID-19 Vaccine mRNA) - post-authorisation study](https://catalogues.ema.europa.eu/study/107257)
 
-**This page was last updated on** 24/02/2026
+**This page was last updated on** 27/02/2026
 
 ## Share this page
 

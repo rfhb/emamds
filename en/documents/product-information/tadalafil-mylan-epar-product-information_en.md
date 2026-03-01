@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-01-24 16:20:07
-document_pages: 90
+document_datetime: 2026-02-25 13:11:34
+document_pages: 89
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tadalafil-mylan-epar-product-information_en.pdf
 document_name: tadalafil-mylan-epar-product-information_en.pdf
 version: success
-processing_time: 17.3213014
-conversion_datetime: 2025-12-25 07:42:18.507021
+processing_time: 20.7598934
+conversion_datetime: 2026-03-01 19:46:43.780486
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -286,7 +286,7 @@ The most commonly reported adverse reactions in patients taking tadalafil for th
 
 The table below lists the adverse reactions observed from spontaneous reporting and in placebo controlled clinical trials (comprising a total of 8022 patients on tadalafil and 4422 patients on placebo) for on-demand and once-a-day treatment of erectile dysfunction and the once-a-day treatment of benign prostatic hyperplasia.
 
-Frequency convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000) and not known (cannot be estimated from the available data).
+Frequency convention: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt;1/10), uncommon ( ≥ 1/1,000 to &lt;1/100), rare ( ≥ 1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000) and not known (cannot be estimated from the available data).
 
 | Very common              | Common                   | Uncommon                   | Rare                                                                                                                           | Not Known                |
 |--------------------------|--------------------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------|
@@ -297,26 +297,25 @@ Frequency convention: very common (≥1/10), common (≥1/100 to &lt;1/10), unco
 
 <div style=\"page-break-after: always\"></div>
 
-| Eye disorders                                   | Eye disorders                                   | Eye disorders                                               | Eye disorders                                                                                                                                                | Eye disorders                                   |
-|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
-|                                                 |                                                 | Blurred vision, Sensations described as eye pain            | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 2 , Retinal vascular occlusion 2 | Central serous chorioretinopathy                |
-| Ear and labyrinth disorders                     | Ear and labyrinth disorders                     | Ear and labyrinth disorders                                 | Ear and labyrinth disorders                                                                                                                                  | Ear and labyrinth disorders                     |
-|                                                 |                                                 | Tinnitus                                                    | Sudden hearing loss                                                                                                                                          |                                                 |
-| Cardiac disorders 1                             | Cardiac disorders 1                             | Cardiac disorders 1                                         | Cardiac disorders 1                                                                                                                                          | Cardiac disorders 1                             |
-|                                                 |                                                 | Tachycardia, Palpitations                                   | Myocardial infarction, Unstable angina pectoris 2 , Ventricular arrhythmia 2                                                                                 |                                                 |
-| Vascular disorders                              | Vascular disorders                              | Vascular disorders                                          | Vascular disorders                                                                                                                                           | Vascular disorders                              |
-|                                                 | Flushing                                        | Hypotension 3 , Hypertension                                |                                                                                                                                                              |                                                 |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders             | Respiratory, thoracic and mediastinal disorders                                                                                                              | Respiratory, thoracic and mediastinal disorders |
-|                                                 | Nasal congestion                                | Dyspnoea, Epistaxis                                         |                                                                                                                                                              |                                                 |
-| Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                                  | Gastrointestinal disorders                                                                                                                                   | Gastrointestinal disorders                      |
-|                                                 | Dyspepsia                                       | Abdominal pain, Vomiting, Nausea, Gastro-oesophageal reflux |                                                                                                                                                              |                                                 |
-| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                      | Skin and subcutaneous tissue disorders                                                                                                                       | Skin and subcutaneous tissue disorders          |
-|                                                 |                                                 | Rash                                                        | Urticaria, Stevens-Johnson syndrome 2 , Exfoliative dermatitis 2 , Hyperhydrosis (sweating)                                                                  |                                                 |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders             | Musculoskeletal and connective tissue disorders                                                                                                              | Musculoskeletal and connective tissue disorders |
-|                                                 | Back pain, Myalgia, Pain in extremity           |                                                             |                                                                                                                                                              |                                                 |
-| Renal and urinary disorders                     | Renal and urinary disorders                     | Renal and urinary disorders                                 | Renal and urinary disorders                                                                                                                                  | Renal and urinary disorders                     |
-|                                                 |                                                 | Haematuria                                                  |                                                                                                                                                              |                                                 |
-| Reproductive system and breast disorders        | Reproductive system and breast disorders        | Reproductive system and breast disorders                    | Reproductive system and breast disorders                                                                                                                     | Reproductive system and breast disorders        |
+| Eye disorders                                   |                                                 | Blurred vision, Sensations described as eye pain            | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 2 , Retinal vascular occlusion 2   | Central serous chorioretinopathy                |
+|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| Ear and labyrinth disorders                     | Ear and labyrinth disorders                     | Ear and labyrinth disorders                                 | Ear and labyrinth disorders                                                                                                                                    | Ear and labyrinth disorders                     |
+|                                                 |                                                 | Tinnitus                                                    | Sudden hearing loss                                                                                                                                            |                                                 |
+| Cardiac disorders 1                             | Cardiac disorders 1                             | Cardiac disorders 1                                         | Cardiac disorders 1                                                                                                                                            | Cardiac disorders 1                             |
+|                                                 |                                                 | Tachycardia, Palpitations                                   | Myocardial infarction, Unstable angina pectoris 2 , Ventricular arrhythmia 2                                                                                   |                                                 |
+| Vascular disorders                              | Vascular disorders                              | Vascular disorders                                          | Vascular disorders                                                                                                                                             | Vascular disorders                              |
+|                                                 | Flushing                                        | Hypotension 3 , Hypertension                                |                                                                                                                                                                |                                                 |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders             | Respiratory, thoracic and mediastinal disorders                                                                                                                | Respiratory, thoracic and mediastinal disorders |
+|                                                 | Nasal congestion                                | Dyspnoea, Epistaxis                                         |                                                                                                                                                                |                                                 |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                                  | Gastrointestinal disorders                                                                                                                                     | Gastrointestinal disorders                      |
+|                                                 | Dyspepsia                                       | Abdominal pain, Vomiting, Nausea, Gastro-oesophageal reflux |                                                                                                                                                                |                                                 |
+| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                      | Skin and subcutaneous tissue disorders                                                                                                                         | Skin and subcutaneous tissue disorders          |
+|                                                 |                                                 | Rash                                                        | Urticaria, Stevens-Johnson syndrome 2 , Exfoliative dermatitis 2 , Hyperhydrosis (sweating)                                                                    |                                                 |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders             | Musculoskeletal and connective tissue disorders                                                                                                                | Musculoskeletal and connective tissue disorders |
+|                                                 | Back pain, Myalgia, Pain in extremity           |                                                             |                                                                                                                                                                |                                                 |
+| Renal and urinary disorders                     | Renal and urinary disorders                     | Renal and urinary disorders                                 | Renal and urinary disorders                                                                                                                                    | Renal and urinary disorders                     |
+|                                                 |                                                 | Haematuria                                                  |                                                                                                                                                                |                                                 |
+| Reproductive system and breast disorders        | Reproductive system and breast disorders        | Reproductive system and breast disorders                    | Reproductive system and breast disorders                                                                                                                       | Reproductive system and breast disorders        |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -477,9 +476,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Mylan Pharmaceuticals Limited
-
-Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -779,7 +776,7 @@ The table below lists the adverse reactions observed from spontaneous reporting 
 
 <div style=\"page-break-after: always\"></div>
 
-Frequency convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000) and not known (cannot be estimated from the available data).
+Frequency convention: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt;1/10), uncommon ( ≥ 1/1,000 to &lt;1/100), rare ( ≥ 1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000) and not known (cannot be estimated from the available data).
 
 | Very common                                     | Common                                          | Uncommon                                         | Rare                                                                                                                                                         | Not known                                       |
 |-------------------------------------------------|-------------------------------------------------|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
@@ -810,11 +807,7 @@ Urticaria, Stevens-Johnson syndrome 2 , Exfoliative dermatitis 2 Hyperhydrosis (
 
 Musculoskeletal and connective tissue disorders
 
-Back pain,
-
-Myalgia, Pain in
-
-extremity
+Back pain, Myalgia, Pain in extremity
 
 Renal and urinary disorders
 
@@ -830,7 +823,17 @@ General disorders and administration site conditions
 
 Chest pain 1 , Peripheral oedema, Fatigue
 
-Facial oedema 2 , Sudden cardiac death 1, 2
+Facial oedema
+
+2
+
+,
+
+Sudden cardiac death
+
+1,
+
+2
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1016,12 +1019,17 @@ Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, 
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-- EU/1/14/961/012
-- EU/1/14/961/013
-- EU/1/14/961/014
-- EU/1/14/961/015
-- EU/1/14/961/016
-- EU/1/14/961/017
+EU/1/14/961/012
+
+EU/1/14/961/013
+
+EU/1/14/961/014
+
+EU/1/14/961/015
+
+EU/1/14/961/016
+
+EU/1/14/961/017
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1221,7 +1229,9 @@ Consequently the incidence of the adverse reactions listed in section 4.8 might 
 
 ## Transporters
 
-The role of transporters (for example p-glycoprotein) in the disposition of tadalafil is not known. Therefore there is the potential of drug interactions mediated by inhibition of transporters.
+The role of transporters (for example p-glycoprotein) in the disposition of tadalafil is not known.
+
+Therefore there is the potential of drug interactions mediated by inhibition of transporters.
 
 ## Cytochrome P450 inducers
 
@@ -1317,7 +1327,7 @@ The table below lists the adverse reactions observed from spontaneous reporting 
 
 <div style=\"page-break-after: always\"></div>
 
-Frequency convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000) and not known (cannot be estimated from the available data).
+Frequency convention: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt;1/10), uncommon ( ≥ 1/1,000 to &lt;1/100), rare ( ≥ 1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000) and not known (cannot be estimated from the available data).
 
 | Very common                                     | Common                                          | Uncommon                                         | Rare                                                                                                                                                         | Not known                                       |
 |-------------------------------------------------|-------------------------------------------------|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
@@ -1337,39 +1347,21 @@ Frequency convention: very common (≥1/10), common (≥1/100 to &lt;1/10), unco
 |                                                 | Nasal congestion                                | Dyspnoea, Epistaxis                              |                                                                                                                                                              |                                                 |
 | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                       | Gastrointestinal disorders                                                                                                                                   | Gastrointestinal disorders                      |
 
-Dyspepsia
-
-Abdominal pain, Vomiting, Nausea, Gastro-oesophageal reflux,
-
-Skin and subcutaneous tissue disorders
-
-Rash
-
-Urticaria, Stevens-Johnson syndrome 2 , Exfoliative dermatitis 2 , Hyperhydrosis (sweating)
-
-Musculoskeletal and connective tissue disorders
-
-Back pain, Myalgia, Pain in extremity
-
-Renal and urinary disorders
-
-Haematuria
-
-Reproductive system and breast disorders
-
-Prolonged erections
-
-Priapism ,Penile haemorrhage, Haematospermia
-
-General disorders and administration site conditions
-
-Chest pain 1, Peripheral oedema, Fatigue
-
-Facial oedema 2 , Sudden cardiac death 1, 2
-
 <div style=\"page-break-after: always\"></div>
 
-- (1) Most of the patients had pre-existing cardiovascular risk factors (see section 4.4).
+|                                                      | Dyspepsia                                            | Abdominal pain, Vomiting, Nausea, Gastro-oesophageal reflux,   |                                                                                             |                                                      |
+|------------------------------------------------------|------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------|
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                         | Skin and subcutaneous tissue disorders                                                      | Skin and subcutaneous tissue disorders               |
+|                                                      |                                                      | Rash                                                           | Urticaria, Stevens-Johnson syndrome 2 , Exfoliative dermatitis 2 , Hyperhydrosis (sweating) |                                                      |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                | Musculoskeletal and connective tissue disorders                                             | Musculoskeletal and connective tissue disorders      |
+|                                                      | Back pain, Myalgia, Pain in extremity                |                                                                |                                                                                             |                                                      |
+| Renal and urinary disorders                          | Renal and urinary disorders                          | Renal and urinary disorders                                    | Renal and urinary disorders                                                                 | Renal and urinary disorders                          |
+|                                                      |                                                      | Haematuria                                                     |                                                                                             |                                                      |
+| Reproductive system and breast disorders             | Reproductive system and breast disorders             | Reproductive system and breast disorders                       | Reproductive system and breast disorders                                                    | Reproductive system and breast disorders             |
+|                                                      |                                                      | Prolonged erections                                            | Priapism ,Penile haemorrhage, Haematospermia                                                |                                                      |
+| General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions           | General disorders and administration site conditions                                        | General disorders and administration site conditions |
+|                                                      |                                                      | Chest pain 1, Peripheral oedema, Fatigue                       | Facial oedema 2 , Sudden cardiac death 1, 2                                                 |                                                      |
+
 - (2) Postmarketing surveillance reported adverse reactions not observed in placebo-controlled clinical trials.
 - (3) More commonly reported when tadalafil is given to patients who are already taking antihypertensive medicinal products.
 
@@ -1553,15 +1545,7 @@ EU/1/14/961/011
 
 ## Tadalafil Mylan 20 mg film-coated tablets
 
-EU/1/14/961/002
-
-EU/1/14/961/003
-
-EU/1/14/961/004
-
-EU/1/14/961/005
-
-EU/1/14/961/006
+EU/1/14/961/002 EU/1/14/961/003 EU/1/14/961/004 EU/1/14/961/005 EU/1/14/961/006
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1602,20 +1586,20 @@ Medicinal product subject to medical prescription
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
--  At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
 
 If the dates for submission of a PSUR and the update of a RMP coincide, they can be submitted at the same time.
 
@@ -1629,31 +1613,33 @@ If the dates for submission of a PSUR and the update of a RMP coincide, they can
 
 ## A. LABELLING
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-CARTON
-
 ## 1. NAME OF THE MEDICINAL PRODUCT
-
-Tadalafil Mylan 2.5 mg film-coated tablets tadalafil
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each tablet contains 2.5 mg tadalafil
-
 ## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Tadalafil Mylan 2.5 mg film-coated tablets tadalafil
+
+Each tablet contains 2.5 mg tadalafil
 
 Contains lactose.
 
 See leaflet for further information.
 
-## 4. PHARMACEUTICAL FORM AND CONTENTS
+28 film-coated tablets
 
-- 28 film-coated tablets
-
-- 56 film-coated tablets
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+56 film-coated tablets
 
 Read the package leaflet before use.
 
@@ -1661,118 +1647,106 @@ Oral use.
 
 Once daily
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-8. EXPIRY DATE
-
 EXP
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/14/961/008 EU/1/14/961/009
-
-## 13. BATCH NUMBER
-
-Lot
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-Tadalafil Mylan 2.5 mg
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC:
-
-SN:
-
-NN:
-
-<div style=\"page-break-after: always\"></div>
-
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER                                               |
-
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
-
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
-
-| 3.   | EXPIRY DATE   |
-|------|---------------|
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
-| 5.   | OTHER   |
-|------|---------|
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-BLISTER
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Tadalafil Mylan 2.5 mg tablets tadalafil
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-Mylan Pharmaceuticals Limited
-
-## 3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
-Lot
-
-## 5. OTHER
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 CARTON
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
-Tadalafil Mylan 5 mg film-coated tablets tadalafil
+<div style=\"page-break-after: always\"></div>
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+## 13. BATCH NUMBER
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+
+EU/1/14/961/008
+
+EU/1/14/961/009
+
+Lot
+
+Tadalafil Mylan 2.5 mg
+
+- 2D barcode carrying the unique identifier included.
+
+PC:
+
+SN:
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+<div style=\"page-break-after: always\"></div>
+
+NN:
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUMPARTICULARSTOAPPEARONBLISTERSORSTRIPS   |
+|------------------------------------------------|
+| BLISTER                                        |
+
+| 1.   | NAMEOFTHEMEDICINALPRODUCT   |
+|------|-----------------------------|
+
+Tadalafil Mylan 2.5 mg tablets tadalafil
+
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATIONHOLDER   |
+|------|-----------------------------------------|
+
+Mylan Pharmaceuticals Limited
+
+| 3.   | EXPIRYDATE   |
+|------|--------------|
+
+EXP
+
+| 4.   | BATCHNUMBER   |
+|------|---------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
+
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each tablet contains 5 mg tadalafil
-
 ## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+Tadalafil Mylan 5 mg film-coated tablets tadalafil
+
+Each tablet contains 5 mg tadalafil
 
 Contains lactose.
 
 See leaflet for further information.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 - 14 film-coated tablets
 
@@ -1786,25 +1760,23 @@ See leaflet for further information.
 
 - 98 film-coated tablets
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
 Read the package leaflet before use.
 
 Oral use
 
 Once daily
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## 8. EXPIRY DATE
+CARTON
 
-EXP
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 <div style=\"page-break-after: always\"></div>
+
+EXP
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1864,62 +1836,56 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| MINIMUMPARTICULARSTOAPPEARONBLISTERSORSTRIPS   |
+|------------------------------------------------|
+| BLISTER                                        |
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINALPRODUCT   |
+|------|-----------------------------|
 
-| 3.   | EXPIRY DATE   |
+Tadalafil Mylan 5 mg tablets tadalafil
+
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATIONHOLDER   |
+|------|-----------------------------------------|
+
+Mylan Pharmaceuticals Limited
+
+| 3.   | EXPIRYDATE   |
+|------|--------------|
+
+EXP
+
+| 4.   | BATCHNUMBER   |
 |------|---------------|
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+Lot
 
 | 5.   | OTHER   |
 |------|---------|
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-BLISTER
-
 ## 1. NAME OF THE MEDICINAL PRODUCT
-
-Tadalafil Mylan 5 mg tablets tadalafil
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-Mylan Pharmaceuticals Limited
-
-## 3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
-Lot
-
-## 5. OTHER
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-CARTON
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Tadalafil Mylan 10 mg film-coated tablets tadalafil
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each tablet contains 10 mg tadalafil
-
 ## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Tadalafil Mylan 10 mg film-coated tablets tadalafil
+
+Each tablet contains 10 mg tadalafil
 
 Contains lactose.
 
 See leaflet for further information.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 - 4 film-coated tablets
 
@@ -1927,23 +1893,19 @@ See leaflet for further information.
 
 - 24 film-coated tablets
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
 Read the package leaflet before use.
 
 Oral use
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
 Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-8. EXPIRY DATE
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1975,8 +1937,7 @@ EU/1/14/961/011
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1997,66 +1958,56 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER                                               |
+| MINIMUMPARTICULARSTOAPPEARONBLISTERSORSTRIPS   |
+|------------------------------------------------|
+| BLISTER                                        |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINALPRODUCT   |
+|------|-----------------------------|
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+Tadalafil Mylan 10 mg tablets tadalafil
 
-| 3.   | EXPIRY DATE   |
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATIONHOLDER   |
+|------|-----------------------------------------|
+
+Mylan Pharmaceuticals Limited
+
+| 3.   | EXPIRYDATE   |
+|------|--------------|
+
+EXP
+
+| 4.   | BATCHNUMBER   |
 |------|---------------|
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+Lot
 
 | 5.   | OTHER   |
 |------|---------|
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-## BLISTER
-
 ## 1. NAME OF THE MEDICINAL PRODUCT
-
-Tadalafil Mylan 10 mg tablets tadalafil
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-Mylan Pharmaceuticals Limited
-
-## 3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
-Lot
-
-## 5. OTHER
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-CARTON
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Tadalafil Mylan 20 mg film-coated tablets tadalafil
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each tablet contains 20 mg tadalafil
-
 ## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Tadalafil Mylan 20 mg film-coated tablets tadalafil
+
+Each tablet contains 20 mg tadalafil
 
 Contains lactose.
 
 See leaflet for further information.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 - 2 film-coated tablets
 
@@ -2068,23 +2019,19 @@ See leaflet for further information.
 
 - 24 film-coated tablets
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
 Read the package leaflet before use.
 
 Oral use
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
 Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2093,6 +2040,20 @@ EXP
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+## 13. BATCH NUMBER
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 Mylan Pharmaceuticals Limited
 
@@ -2104,8 +2065,6 @@ DUBLIN
 
 Ireland
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
 EU/1/14/961/002
 
 EU/1/14/961/003
@@ -2116,23 +2075,11 @@ EU/1/14/961/005
 
 EU/1/14/961/006
 
-## 13. BATCH NUMBER
-
 Lot
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
 
 Tadalafil Mylan 20 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC:
 
@@ -2142,54 +2089,52 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER                                               |
+| MINIMUMPARTICULARSTOAPPEARONBLISTERSORSTRIPS   |
+|------------------------------------------------|
+| BLISTER                                        |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINALPRODUCT   |
+|------|-----------------------------|
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATIONHOLDER   |
+|------|-----------------------------------------|
 
-| 3.   | EXPIRY DATE   |
+| 3.   | EXPIRYDATE   |
+|------|--------------|
+
+| 4.   | BATCHNUMBER   |
 |------|---------------|
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
 
 | 5.   | OTHER   |
 |------|---------|
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-## BLISTER
-
 ## 1. NAME OF THE MEDICINAL PRODUCT
-
-Tadalafil Mylan 20 mg tablets tadalafil
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
-Mylan Pharmaceuticals Limited
-
-## 3. EXPIRY DATE
-
-EXP
+3. EXPIRY DATE
 
 ## 4. BATCH NUMBER
 
+## 5. OTHER
+
+Tadalafil Mylan 20 mg tablets tadalafil
+
+Mylan Pharmaceuticals Limited
+
+EXP
+
 Lot
 
-## 5. OTHER
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
 
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the patient
+
+<div style=\"page-break-after: always\"></div>
 
 ## Tadalafil Mylan 2.5 mg film-coated tablets
 
@@ -2336,7 +2281,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## If you experience any of the following side effects stop using the medicine and seek medical help immediately:
 
--allergic reactions including rashes (frequency uncommon).
+- -allergic reactions including rashes (frequency uncommon).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2392,7 +2337,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 - -The active substance is tadalafil. Each tablet contains 2.5 mg of tadalafil.
 - -The other ingredients are:
 
-Tablet core: lactose anhydrous (see section 2 'Tadalafil Mylan contains lactose'), poloxamer 188, cellulose microcrystalline (pH101), povidone (K-25), croscarmellose sodium, magnesium stearate, sodium laurilsulfate, silica colloidal anhydrous. Film-coat: lactose monohydrate, hypromellose (E464), titanium dioxide (E171), iron oxide yellow (E172), triacetin.
+Tablet core: lactose anhydrous (see section 2 'Tadalafil Mylan contains lactose'), poloxamer 188, cellulose microcrystalline (pH101), povidone (K-25), croscarmellose sodium, magnesium stearate, sodium laurilsulfate, silica colloidal anhydrous.
+
+Film-coat: lactose monohydrate, hypromellose (E464), titanium dioxide (E171), iron oxide yellow (E172), triacetin.
 
 ## What Tadalafil Mylan looks like and contents of the pack
 
@@ -2408,7 +2355,9 @@ Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, 
 
 ## Manufacturer
 
-McDermott Laboratories Ltd. t/a Gerard Laboratories 35/36 Baldoyle Industrial Estate, Grange Road Dublin 13 Ireland
+McDermott Laboratories Ltd. t/a Gerard Laboratories 35/36 Baldoyle Industrial Estate, Grange Road
+
+Dublin 13 Ireland
 
 Mylan Hungary Kft. Mylan utca 1 Komárom, 2900 Hungary
 
@@ -2416,11 +2365,13 @@ Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
-België/Belgique/Belgien Viatris Tél/Tel: + 32 (0)2 658 61 00
+## België/Belgique/Belgien
 
-Lietuva (Lithuania)
+Viatris
 
-Viatris UAB Tel: + 370 5 205 1288
+Tél/Tel: + 32 (0)2 658 61 00
+
+Lietuva (Lithuania) Viatris UAB Tel: + 370 5 205 1288
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2428,9 +2379,11 @@ Viatris UAB Tel: + 370 5 205 1288
 
 Майлан ЕООД
 
-Тел: + 359 2 44 55 400
+Тел
 
-## Česká republika
+: + 359 2 44 55 400
+
+## Č eská republika
 
 Viatris CZ  s.r.o.
 
@@ -2458,7 +2411,7 @@ Tel: + 372 6363 052
 
 Viatris Hellas Ltd
 
-Τηλ: + 30 2100 100 002
+Τηλ : + 30 2100 100 002
 
 ## España
 
@@ -2498,9 +2451,11 @@ Tel: + 39 (0) 2 612 46921
 
 ## Κύπρος (Cyprus)
 
-GPA Pharmaceuticals Ltd
+CPO Pharmaceuticals Ltd
 
-Τηλ: +357 22863100
+Τηλ
+
+: +357 22863100
 
 ## Luxembourg/Luxemburg
 
@@ -2596,9 +2551,9 @@ Tel: + 371 676 055 80
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the patient
+
+<div style=\"page-break-after: always\"></div>
 
 ## Tadalafil Mylan 5 mg film-coated tablets
 
@@ -2748,9 +2703,7 @@ Contact your doctor. You may experience side effects described in section 4.
 
 ## If you forget to take Tadalafil Mylan
 
-Take your dose as soon as you remember but do not take a double dose to make up for a forgotten tablet.
-
-You should not take Tadalafil Mylan more than once a day.
+Take your dose as soon as you remember but do not take a double dose to make up for a forgotten tablet. You should not take Tadalafil Mylan more than once a day.
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
@@ -2867,7 +2820,9 @@ Tel: + 370 5 205 1288
 
 Майлан ЕООД
 
-Тел: + 359 2 44 55 400
+Тел
+
+: + 359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
@@ -2877,7 +2832,7 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 (Belgique/Belgien)
 
-## Česká republika
+## Č eská republika
 
 Viatris CZ  s.r.o.
 
@@ -2929,7 +2884,9 @@ Tlf: + 47 66 75 33 00
 
 Viatris Hellas Ltd
 
-Τηλ: + 30 2100 100 002
+Τηλ
+
+: + 30 2100 100 002
 
 ## Österreich
 
@@ -2965,9 +2922,15 @@ Tel: + 351 214 127 200
 
 ## Hrvatska (Croatia)
 
+## România
+
 Viatris Hrvatska d.o.o.
 
 Tel: + 385 1 23 50 599
+
+BGP Products SRL
+
+Tel: + 40 372 579 000
 
 ## Ireland
 
@@ -2975,11 +2938,23 @@ Viatris Limited
 
 Tel: +353 1 8711600
 
+## Slovenija
+
+Viatris d.o.o.
+
+Tel: + 386 1 23 63 180
+
 ## Ísland
 
 Icepharma hf.
 
 Sími: + 354 540 8000
+
+## Slovenská republika
+
+Viatris Slovakia s.r.o.
+
+Tel: + 421 2 32 199 100
 
 ## Italia
 
@@ -2987,11 +2962,25 @@ Viatris Italia S.r.l.
 
 Tel: + 39 (0) 2 612 46921
 
+## Suomi/Finland
+
+Viatris OY
+
+Puh/Tel: + 358 20 720 9555
+
 ## Κύπρος (Cyprus)
 
-GPA Pharmaceuticals Ltd
+CPO Pharmaceuticals Ltd
 
-Τηλ: +357 22863100
+Τηλ
+
+: +357 22863100
+
+## Sverige
+
+Viatris AB
+
+Tel: + 46 (0)8 630 19 00
 
 ## Latvija
 
@@ -3005,41 +2994,13 @@ Tel: + 371 676 055 80
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
-## România
-
-BGP Products SRL
-
-Tel: + 40 372 579 000
-
-## Slovenija
-
-Viatris d.o.o.
-
-Tel: + 386 1 23 63 180
-
-## Slovenská republika
-
-Viatris Slovakia s.r.o.
-
-Tel: + 421 2 32 199 100
-
-## Suomi/Finland
-
-Viatris OY
-
-Puh/Tel: + 358 20 720 9555
-
-## Sverige
-
-Viatris AB
-
-Tel: + 46 (0)8 630 19 00
+## Package leaflet: Information for the patient
 
 <div style=\"page-break-after: always\"></div>
 
-## Package leaflet: Information for the patient
+## Tadalafil Mylan 10 mg film-coated tablets
 
-## Tadalafil Mylan 10 mg film-coated tablets tadalafil
+## tadalafil
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -3212,8 +3173,6 @@ The side effect dizziness has been reported more frequently in men over 75 years
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
-<!-- image -->
-
 ## 5. How to store Tadalafil Mylan
 
 Keep this medicine out of the sight and reach of children.
@@ -3251,7 +3210,9 @@ Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, 
 
 ## Manufacturer
 
-McDermott Laboratories Ltd. t/a Gerard Laboratories 35/36 Baldoyle Industrial Estate, Grange Road Dublin 13 Ireland
+McDermott Laboratories Ltd. t/a Gerard Laboratories
+
+35/36 Baldoyle Industrial Estate, Grange Road Dublin 13 Ireland
 
 Mylan Hungary Kft. Mylan utca 1 Komárom, 2900 Hungary
 
@@ -3265,25 +3226,31 @@ Viatris
 
 Tél/Tel: + 32 (0)2 658 61 00
 
-Lietuva (Lithuania)
+## Lietuva (Lithuania)
 
 Viatris UAB
 
 Tel: + 370 5 205 1288
 
-България (Bulgaria)
+## България (Bulgaria)
 
 Майлан ЕООД
 
-Тел: + 359 2 44 55 400
+Тел
+
+: + 359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
-Viatris Tél/Tel: + 32 (0)2 658 61 00 (Belgique/Belgien)
+Viatris
+
+Tél/Tel: + 32 (0)2 658 61 00
+
+(Belgique/Belgien)
 
 <div style=\"page-break-after: always\"></div>
 
-## Česká republika
+## Č eská republika
 
 Viatris CZ s.r.o.
 
@@ -3311,7 +3278,9 @@ Tel: + 372 6363 052
 
 Viatris Hellas Ltd
 
-Τηλ: + 30 2100 100 002
+Τηλ
+
+: + 30 2100 100 002
 
 ## España
 
@@ -3351,9 +3320,11 @@ Tel: + 39 (0) 2 612 46921
 
 ## Κύπρος (Cyprus)
 
-GPA Pharmaceuticals Ltd
+CPO Pharmaceuticals Ltd
 
-Τηλ: +357 22863100
+Τηλ
+
+: +357 22863100
 
 ## Latvija
 
@@ -3435,15 +3406,13 @@ Tel: + 46 (0)8 630 19 00
 
 <div style=\"page-break-after: always\"></div>
 
-## This leaflet was last revised in
-
-## Other sources of information
+## This leaflet was last revised in Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the patient
+
+<div style=\"page-break-after: always\"></div>
 
 ## Tadalafil Mylan 20 mg film-coated tablets
 
@@ -3681,7 +3650,9 @@ Tel: + 370 5 205 1288
 
 Майлан ЕООД
 
-Тел: + 359 2 44 55 400
+Тел
+
+: + 359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
@@ -3689,7 +3660,7 @@ Viatris Tél/Tel: + 32 (0)2 658 61 00 (Belgique/Belgien)
 
 <div style=\"page-break-after: always\"></div>
 
-## Česká republika
+## Č eská republika
 
 Viatris CZ s.r.o.
 
@@ -3717,7 +3688,9 @@ Tel: + 372 6363 052
 
 Viatris Hellas Ltd
 
-Τηλ: + 30 2100 100 002
+Τηλ
+
+: + 30 2100 100 002
 
 ## España
 
@@ -3757,9 +3730,11 @@ Tel: + 39 (0) 2 612 46921
 
 ## Κύπρος (Cyprus)
 
-GPA Pharmaceuticals Ltd
+CPO Pharmaceuticals Ltd
 
-Τηλ: +357 22863100
+Τηλ
+
+: +357 22863100
 
 ## Latvija
 
@@ -3841,8 +3816,6 @@ Tel: + 46 (0)8 630 19 00
 
 <div style=\"page-break-after: always\"></div>
 
-## This leaflet was last revised in
-
-## Other sources of information
+## This leaflet was last revised in Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.

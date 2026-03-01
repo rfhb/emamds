@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:22:40
+document_datetime: 2026-02-27 13:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nustendi.html
 document_name: nustendi.html
 version: success
-processing_time: 0.1146198
-conversion_datetime: 2025-12-29 23:33:24.424979
+processing_time: 0.1034384
+conversion_datetime: 2026-03-01 19:33:09.539504
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Nustendi
 
 [RSS](/en/individual-human-medicine.xml/67293)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 bempedoic acid / ezetimibe Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +116,7 @@ English (EN) (114.01 KB - PDF)
 
 [View](/en/documents/overview/nustendi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-858)
+[Other languages (22)](#file-language-dropdown-200)
 
 български (BG) (147.22 KB - PDF)
 
@@ -386,11 +384,11 @@ svenska (SV) (119.59 KB - PDF)
 
 Nustendi : EPAR - Risk management plan
 
-English (EN) (557.81 KB - PDF)
+English (EN) (665.44 KB - PDF)
 
 **First published:** 24/04/2020
 
-**Last updated:** 23/06/2025
+**Last updated:** 27/02/2026
 
 [View](/en/documents/rmp/nustendi-epar-risk-management-plan_en.pdf)
 
@@ -398,17 +396,17 @@ English (EN) (557.81 KB - PDF)
 
 Nustendi : EPAR - Product information
 
-English (EN) (1.2 MB - PDF)
+English (EN) (363.02 KB - PDF)
 
 **First published:** 24/04/2020
 
-**Last updated:** 23/06/2025
+**Last updated:** 27/02/2026
 
 [View](/en/documents/product-information/nustendi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-821)
+[Other languages (24)](#file-language-dropdown-756)
 
-български (BG) (799.64 KB - PDF)
+български (BG) (879.14 KB - PDF)
 
 **First published:**
 
@@ -416,11 +414,11 @@ English (EN) (1.2 MB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/bg/documents/product-information/nustendi-epar-product-information_bg.pdf)
 
-español (ES) (605.76 KB - PDF)
+español (ES) (712.24 KB - PDF)
 
 **First published:**
 
@@ -428,11 +426,11 @@ español (ES) (605.76 KB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/es/documents/product-information/nustendi-epar-product-information_es.pdf)
 
-čeština (CS) (785.16 KB - PDF)
+čeština (CS) (845.25 KB - PDF)
 
 **First published:**
 
@@ -440,11 +438,11 @@ español (ES) (605.76 KB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/cs/documents/product-information/nustendi-epar-product-information_cs.pdf)
 
-dansk (DA) (629.5 KB - PDF)
+dansk (DA) (766.46 KB - PDF)
 
 **First published:**
 
@@ -452,11 +450,11 @@ dansk (DA) (629.5 KB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/da/documents/product-information/nustendi-epar-product-information_da.pdf)
 
-Deutsch (DE) (697.17 KB - PDF)
+Deutsch (DE) (765.94 KB - PDF)
 
 **First published:**
 
@@ -464,11 +462,11 @@ Deutsch (DE) (697.17 KB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/de/documents/product-information/nustendi-epar-product-information_de.pdf)
 
-eesti keel (ET) (600.4 KB - PDF)
+eesti keel (ET) (730.68 KB - PDF)
 
 **First published:**
 
@@ -476,11 +474,11 @@ eesti keel (ET) (600.4 KB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/et/documents/product-information/nustendi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (797.05 KB - PDF)
+ελληνικά (EL) (855.62 KB - PDF)
 
 **First published:**
 
@@ -488,11 +486,11 @@ eesti keel (ET) (600.4 KB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/el/documents/product-information/nustendi-epar-product-information_el.pdf)
 
-français (FR) (789.37 KB - PDF)
+français (FR) (851.07 KB - PDF)
 
 **First published:**
 
@@ -500,11 +498,11 @@ français (FR) (789.37 KB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/fr/documents/product-information/nustendi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (753.87 KB - PDF)
+hrvatski (HR) (833.71 KB - PDF)
 
 **First published:**
 
@@ -512,11 +510,11 @@ hrvatski (HR) (753.87 KB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/hr/documents/product-information/nustendi-epar-product-information_hr.pdf)
 
-íslenska (IS) (641.6 KB - PDF)
+íslenska (IS) (731.22 KB - PDF)
 
 **First published:**
 
@@ -524,11 +522,11 @@ hrvatski (HR) (753.87 KB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/is/documents/product-information/nustendi-epar-product-information_is.pdf)
 
-italiano (IT) (566.38 KB - PDF)
+italiano (IT) (809.81 KB - PDF)
 
 **First published:**
 
@@ -536,11 +534,11 @@ italiano (IT) (566.38 KB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/it/documents/product-information/nustendi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (766.17 KB - PDF)
+latviešu valoda (LV) (821.2 KB - PDF)
 
 **First published:**
 
@@ -548,11 +546,11 @@ latviešu valoda (LV) (766.17 KB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/lv/documents/product-information/nustendi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (799.9 KB - PDF)
+lietuvių kalba (LT) (801.73 KB - PDF)
 
 **First published:**
 
@@ -560,11 +558,11 @@ lietuvių kalba (LT) (799.9 KB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/lt/documents/product-information/nustendi-epar-product-information_lt.pdf)
 
-magyar (HU) (711.01 KB - PDF)
+magyar (HU) (844.43 KB - PDF)
 
 **First published:**
 
@@ -572,11 +570,11 @@ magyar (HU) (711.01 KB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/hu/documents/product-information/nustendi-epar-product-information_hu.pdf)
 
-Malti (MT) (746.6 KB - PDF)
+Malti (MT) (825.81 KB - PDF)
 
 **First published:**
 
@@ -584,11 +582,11 @@ Malti (MT) (746.6 KB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/mt/documents/product-information/nustendi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (679.68 KB - PDF)
+Nederlands (NL) (791.71 KB - PDF)
 
 **First published:**
 
@@ -596,11 +594,11 @@ Nederlands (NL) (679.68 KB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/nl/documents/product-information/nustendi-epar-product-information_nl.pdf)
 
-norsk (NO) (659.21 KB - PDF)
+norsk (NO) (767.72 KB - PDF)
 
 **First published:**
 
@@ -608,11 +606,11 @@ norsk (NO) (659.21 KB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/no/documents/product-information/nustendi-epar-product-information_no.pdf)
 
-polski (PL) (746.12 KB - PDF)
+polski (PL) (806.45 KB - PDF)
 
 **First published:**
 
@@ -620,11 +618,11 @@ polski (PL) (746.12 KB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/pl/documents/product-information/nustendi-epar-product-information_pl.pdf)
 
-português (PT) (714.75 KB - PDF)
+português (PT) (839.89 KB - PDF)
 
 **First published:**
 
@@ -632,11 +630,11 @@ português (PT) (714.75 KB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/pt/documents/product-information/nustendi-epar-product-information_pt.pdf)
 
-română (RO) (709.82 KB - PDF)
+română (RO) (783.51 KB - PDF)
 
 **First published:**
 
@@ -644,11 +642,11 @@ română (RO) (709.82 KB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/ro/documents/product-information/nustendi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (687.22 KB - PDF)
+slovenčina (SK) (738.43 KB - PDF)
 
 **First published:**
 
@@ -656,11 +654,11 @@ slovenčina (SK) (687.22 KB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/sk/documents/product-information/nustendi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (694.03 KB - PDF)
+slovenščina (SL) (791.67 KB - PDF)
 
 **First published:**
 
@@ -668,11 +666,11 @@ slovenščina (SL) (694.03 KB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/sl/documents/product-information/nustendi-epar-product-information_sl.pdf)
 
-Suomi (FI) (602.71 KB - PDF)
+Suomi (FI) (698.19 KB - PDF)
 
 **First published:**
 
@@ -680,11 +678,11 @@ Suomi (FI) (602.71 KB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/fi/documents/product-information/nustendi-epar-product-information_fi.pdf)
 
-svenska (SV) (641.41 KB - PDF)
+svenska (SV) (756.25 KB - PDF)
 
 **First published:**
 
@@ -692,11 +690,11 @@ svenska (SV) (641.41 KB - PDF)
 
 **Last updated:**
 
-23/06/2025
+27/02/2026
 
 [View](/sv/documents/product-information/nustendi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** WS2798 08/05/2025
+**Latest procedure affecting product information:** EMA/VR/0000286873 15/01/2026
 
 icon globe
 
@@ -722,7 +720,7 @@ English (EN) (43.27 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nustendi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-681)
+[Other languages (24)](#file-language-dropdown-984)
 
 български (BG) (53.26 KB - PDF)
 
@@ -1047,7 +1045,7 @@ Daiichi Sankyo Europe GmbH
 
 Zielstattstrasse 48
 
-Opinion adopted 30/01/2020 Marketing authorisation issued 27/03/2020 Revision 8
+Opinion adopted 30/01/2020 Marketing authorisation issued 27/03/2020 Revision 9
 
 ## Assessment history
 
@@ -1059,13 +1057,21 @@ Collapse section
 
 Nustendi : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (162.93 KB - PDF)
+
+**First published:** 27/02/2026
+
+[View](/en/documents/procedural-steps-after/nustendi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Nustendi : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (126.58 KB - PDF)
 
 **First published:** 15/06/2020
 
-**Last updated:** 23/06/2025
+**Last updated:** 27/02/2026
 
-[View](/en/documents/procedural-steps-after/nustendi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/nustendi-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Nustendi-H-C-004959-II-0035 : EPAR - Assessment report - Variation
 
@@ -1117,17 +1123,17 @@ English (EN) (167.49 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-nustendi_en.pdf)
 
-#### News on Nustendi
+## News on Nustendi
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 March 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-march-2024) 22/03/2024
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 January 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-january-2020) 31/01/2020
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 23/06/2025
+**This page was last updated on** 27/02/2026
 
 ## Share this page
 

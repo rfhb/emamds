@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-02-17 11:28:55
-document_pages: 153
+document_datetime: 2026-02-25 09:01:50
+document_pages: 154
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cellcept-epar-product-information_en.pdf
 document_name: cellcept-epar-product-information_en.pdf
 version: success
-processing_time: 63.7803424
-conversion_datetime: 2025-12-20 15:53:39.438106
+processing_time: 64.0800586
+conversion_datetime: 2026-03-01 19:51:43.17289
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -48,11 +48,9 @@ CellCept is indicated in combination with ciclosporin and corticosteroids for th
 
 Treatment should be initiated and maintained by appropriately qualified transplant specialists.
 
-## Posology
+Posology
 
-## Adults
-
-## Renal transplant
+## Adults Renal transplant
 
 Treatment should be initiated within 72 hours following transplantation. The recommended dose in renal transplant patients is 1 g administered twice daily (2 g daily dose).
 
@@ -68,17 +66,15 @@ Treatment of intravenous mycophenolate mofetil should be administered for the fi
 
 The paediatric dosing information in this section applies to all oral formulations within the range of mycophenolate mofetil products, as appropriate. Different oral formulations should not be substituted without clinical supervision.
 
-<div style=\"page-break-after: always\"></div>
-
 The recommended mycophenolate mofetil initial dose for paediatric renal, cardiac and hepatic transplant patients is 600 mg/m 2 (of body surface area (BSA)), administered orally, twice daily (initial total daily dose not to exceed 2 g, or 10 ml of the oral suspension).
+
+<div style=\"page-break-after: always\"></div>
 
 The dose and product form should be individualised based on clinical assessment. If the recommended initial dose is well tolerated but does not achieve clinically adequate immunosuppression in paediatric cardiac and hepatic transplant patients, the dose can be increased to 900 mg/m 2 BSA twice daily (maximum total daily dose of 3 g, or 15 ml of the oral suspension). The recommended maintenance dose for paediatric renal transplant patients remains at 600 mg/m 2 twice daily (maximum total daily dose of 2 g or 10 ml of the oral suspension).
 
 The mycophenolate mofetil powder for oral suspension should be used in those patients unable to swallow capsules and tablets and/or with a BSA lower than 1.25 m 2 due to the increased risk of choking. Patients with a BSA of 1.25 to 1.5 m 2 may be prescribed mycophenolate mofetil capsules at a dose of 750 mg twice daily (1.5 g daily dose). Patients with a BSA greater than 1.5 m 2 may be prescribed mycophenolate mofetil capsules or tablets at a dose of 1 g twice daily (2 g daily dose). As some adverse reactions occur with greater frequency in this age group (see section 4.8) compared with adults, temporary dose reduction or interruption may be required; these will need to take into account relevant clinical factors including severity of reaction.
 
-## Use in special populations
-
-## Elderly
+## Use in special populations Elderly
 
 The recommended dose of 1 g administered twice a day for renal transplant patients and 1.5 g twice a day for cardiac or hepatic transplant patients is appropriate for the elderly.
 
@@ -90,9 +86,7 @@ In renal transplant patients with severe chronic renal impairment (glomerular fi
 
 No dose adjustments are needed for renal transplant patients with severe hepatic parenchymal disease. No data are available for cardiac transplant patients with severe hepatic parenchymal disease.
 
-## Treatment during rejection episodes
-
-## Adults
+## Treatment during rejection episodes Adults
 
 Mycophenolic acid (MPA) is the active metabolite of mycophenolate mofetil. Renal transplant rejection does not lead to changes in MPA pharmacokinetics; dose reduction or interruption of treatment is not required. There is no basis for dose adjustment following cardiac transplant rejection. No pharmacokinetic data are available during hepatic transplant rejection.
 
@@ -102,7 +96,7 @@ No data are available for treatment of first or refractory rejection in paediatr
 
 ## Method of administration
 
-For oral use.
+## For oral use.
 
 ## Precautions to be taken before handling or administering the medicinal product.
 
@@ -132,15 +126,13 @@ Patients treated with immunosuppressants, including mycophenolate mofetil, are a
 
 There have been reports of hypogammaglobulinaemia in association with recurrent infections in patients receiving mycophenolate mofetil in combination with other immunosuppressants. In some of these cases, switching mycophenolate mofetil to an alternative immunosuppressant resulted in serum IgG levels returning to normal. Patients on mycophenolate mofetil who develop recurrent infections should have their serum immunoglobulins measured. In cases of sustained, clinically relevant hypogammaglobulinaemia, appropriate clinical action should be considered taking into account the potent cytostatic effects that mycophenolic acid has on T- and B-lymphocytes.
 
-There have been published reports of bronchiectasis in adults and children who received mycophenolate mofetil in combination with other immunosuppressants. In some of these cases, switching mycophenolate mofetil to another immunosuppressant resulted in improvement in respiratory symptoms. The risk of bronchiectasis may be linked to hypogammaglobulinaemia or to a direct effect on the lung. There have also been isolated reports of interstitial lung disease and
+There have been published reports of bronchiectasis in adults and children who received mycophenolate mofetil in combination with other immunosuppressants. In some of these cases, switching mycophenolate mofetil to another immunosuppressant resulted in improvement in respiratory symptoms. The risk of bronchiectasis may be linked to hypogammaglobulinaemia or to a direct effect on the lung. There have also been isolated reports of interstitial lung disease and pulmonary fibrosis, some of which were fatal (see section 4.8). It is recommended that patients who develop persistent pulmonary symptoms, such as cough and dyspnoea, are investigated.
 
 <div style=\"page-break-after: always\"></div>
 
-pulmonary fibrosis, some of which were fatal (see section 4.8). It is recommended that patients who develop persistent pulmonary symptoms, such as cough and dyspnoea, are investigated.
-
 ## Blood and immune system
 
-Patients receiving mycophenolate mofetil should be monitored for neutropenia, which may be related to the treatment itself, concomitant medications, viral infections, or some combination of these causes. Patients taking mycophenolate mofetil should have complete blood counts weekly during the first month, twice monthly for the second and third months of treatment, then monthly through the first year. If neutropenia develops (absolute neutrophil count &lt; 1.3 x 10 3 /µl), it may be appropriate to interrupt or discontinue mycophenolate mofetil.
+Patients receiving mycophenolate mofetil should be monitored for neutropenia, which may be related to the treatment itself, concomitant medicines, viral infections, or some combination of these causes. Patients taking mycophenolate mofetil should have complete blood counts weekly during the first month, twice monthly for the second and third months of treatment, then monthly through the first year. If neutropenia develops (absolute neutrophil count &lt; 1.3 x 10 3 /µl), it may be appropriate to interrupt or discontinue mycophenolate mofetil.
 
 Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressants. The mechanism for mycophenolate mofetil induced PRCA is unknown. PRCA may resolve with dose reduction or cessation of mycophenolate mofetil therapy. Changes to mycophenolate mofetil therapy should only be undertaken under appropriate supervision in transplant recipients in order to minimise the risk of graft rejection (see section 4.8).
 
@@ -164,11 +156,9 @@ The risk/benefit ratio of mycophenolate mofetil in combination with sirolimus ha
 
 ## Therapeutic drug monitoring
 
-Therapeutic drug monitoring of MPA may be appropriate when switching combination therapy (e.g. from ciclosporin to tacrolimus or vice versa) or to ensure adequate immunosuppression in patients
+Therapeutic drug monitoring of MPA may be appropriate when switching combination therapy (e.g. from ciclosporin to tacrolimus or vice versa) or to ensure adequate immunosuppression in patients with high immunological risk (e.g. risk of rejection, treatment with antibiotics, addition or removal of an interacting medicine).
 
 <div style=\"page-break-after: always\"></div>
-
-with high immunological risk (e.g. risk of rejection, treatment with antibiotics, addition or removal of an interacting medication).
 
 ## Special populations
 
@@ -201,11 +191,9 @@ For contraception advice for men see section 4.6.
 
 ## Educational materials
 
-In order to assist patients in avoiding foetal exposure to mycophenolate and to provide additional important safety information, the Marketing Authorisation Holder will provide educational materials to healthcare professionals. The educational materials will reinforce the warnings about the teratogenicity of mycophenolate, provide advice on contraception before therapy is started and guidance on the need for pregnancy testing. Full patient information about the teratogenic risk and the
+In order to assist patients in avoiding foetal exposure to mycophenolate and to provide additional important safety information, the Marketing Authorisation Holder will provide educational materials to healthcare professionals. The educational materials will reinforce the warnings about the teratogenicity of mycophenolate, provide advice on contraception before therapy is started and guidance on the need for pregnancy testing. Full patient information about the teratogenic risk and the pregnancy prevention measures should be given by the physician to women of childbearing potential and, as appropriate, to male patients.
 
 <div style=\"page-break-after: always\"></div>
-
-pregnancy prevention measures should be given by the physician to women of childbearing potential and, as appropriate, to male patients.
 
 ## Additional precautions
 
@@ -237,9 +225,11 @@ Following single dose administration of 1.5 g of mycophenolate mofetil to normal
 
 Ciclosporin A (CsA) pharmacokinetics are unaffected by mycophenolate mofetil. In contrast, if concomitant CsA treatment is stopped, an increase in MPA AUC of around 30% should be expected. CsA interferes with MPA enterohepatic recycling, resulting in reduced MPA exposures by 30-50% in renal transplant patients treated with mycophenolate mofetil and CsA compared with patients receiving sirolimus or belatacept and similar doses of mycophenolate mofetil (see also section 4.4). Conversely, changes of MPA exposure should be expected when switching patients from CsA to one of the immunosuppressants which does not interfere with MPA's enterohepatic cycle.
 
+Antibiotics eliminating β -glucuronidase-producing bacteria in the intestine (e.g. aminoglycoside, cephalosporin, fluoroquinolone, and penicillin classes of antibiotics) may interfere with MPAG/MPA
+
 <div style=\"page-break-after: always\"></div>
 
-Antibiotics eliminating β -glucuronidase-producing bacteria in the intestine (e.g. aminoglycoside, cephalosporin, fluoroquinolone, and penicillin classes of antibiotics) may interfere with MPAG/MPA enterohepatic recirculation, thus leading to reduced systemic MPA exposure. Information concerning the following antibiotics is available:
+enterohepatic recirculation, thus leading to reduced systemic MPA exposure. Information concerning the following antibiotics is available:
 
 ## Ciprofloxacin or amoxicillin plus clavulanic acid
 
@@ -263,19 +253,19 @@ An increase of MPA exposure (AUC0-∞ ) by 35% was observed with concomitant adm
 
 ## Telmisartan
 
-Concomitant administration of telmisartan and mycophenolate mofetil resulted in an approximately 30% decrease of MPA concentrations. Telmisartan changes MPA's elimination by enhancing PPAR gamma (peroxisome proliferator-activated receptor gamma) expression, which in turn results in an enhanced uridine diphosphate glucuronyltransferase isoform 1A9 (UGT1A9) expression and activity. When comparing rates of transplant rejection, rates of graft loss or adverse event profiles between patients on mycophenolate mofetil with and without concomitant telmisartan medication, no clinical consequences of the pharmacokinetic drug-drug interaction were seen.
+Concomitant administration of telmisartan and mycophenolate mofetil resulted in an approximately 30% decrease of MPA concentrations. Telmisartan changes MPA's elimination by enhancing PPAR gamma (peroxisome proliferator-activated receptor gamma) expression, which in turn results in an enhanced uridine diphosphate glucuronyltransferase isoform 1A9 (UGT1A9) expression and activity. When comparing rates of transplant rejection, rates of graft loss or adverse event profiles between patients on mycophenolate mofetil with and without concomitant telmisartan medicine, no clinical consequences of the pharmacokinetic drug-drug interaction were seen.
 
 ## Ganciclovir
 
 Based on the results of a single dose administration study of recommended doses of oral mycophenolate mofetil and intravenous ganciclovir and the known effects of renal impairment on the pharmacokinetics of mycophenolate mofetil (see section 4.2) and ganciclovir, it is anticipated that coadministration of these agents (which compete for mechanisms of renal tubular secretion) will result in increases in MPAG and ganciclovir concentration. No substantial alteration of MPA pharmacokinetics is anticipated and mycophenolate mofetil dose adjustment is not required. In patients with renal impairment in whom mycophenolate mofetil and ganciclovir or its prodrugs, e.g. valganciclovir, are co-administered, the dose recommendations for ganciclovir should be observed and patients should be monitored carefully.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Oral contraceptives
 
 The pharmacodynamics and pharmacokinetics of oral contraceptives were not affected to a clinically relevant degree by co-administration of mycophenolate mofetil (see also section 5.2).
 
 ## Rifampicin
+
+<div style=\"page-break-after: always\"></div>
 
 In patients not also taking ciclosporin, concomitant administration of mycophenolate mofetil and rifampicin resulted in a decrease in MPA exposure (AUC0-12h) of 18% to 70%. It is recommended to monitor MPA exposure levels and to adjust mycophenolate mofetil doses accordingly to maintain clinical efficacy when rifampicin is administered concomitantly.
 
@@ -309,11 +299,13 @@ Pregnancy whilst taking mycophenolate mofetil must be avoided. Therefore, women 
 
 Mycophenolate mofetil is contraindicated during pregnancy unless there is no suitable alternative treatment to prevent transplant rejection. Treatment should not be initiated without providing a negative pregnancy test result to rule out unintended use in pregnancy (see section 4.3).
 
-<div style=\"page-break-after: always\"></div>
-
 Female patients of reproductive potential must be made aware of the increased risk of pregnancy loss and congenital malformations at the beginning of the treatment and must be counselled regarding pregnancy prevention and planning.
 
-Before starting treatment, women of childbearing potential should have two negative serum or urine pregnancy tests with a sensitivity of at least 25 mIU/ml in order to exclude unintended exposure of an embryo to mycophenolate. It is recommended that the second test should be performed 8-10 days after the first test. For transplants from deceased donors, if it is not possible to perform two tests 8-10 days apart before treatment starts (because of the timing of transplant organ availability), a pregnancy test must be performed immediately before starting treatment and a further test 8-10 days later. Pregnancy tests should be repeated as clinically required (e.g. after any gap in contraception is reported). Results of all pregnancy tests should be discussed with the patient. Patients should be instructed to consult their physician immediately should pregnancy occur.
+Before starting treatment, women of childbearing potential should have two negative serum or urine pregnancy tests with a sensitivity of at least 25 mIU/ml in order to exclude unintended exposure of an embryo to mycophenolate. It is recommended that the second test should be performed 8-10 days after
+
+<div style=\"page-break-after: always\"></div>
+
+the first test. For transplants from deceased donors, if it is not possible to perform two tests 8-10 days apart before treatment starts (because of the timing of transplant organ availability), a pregnancy test must be performed immediately before starting treatment and a further test 8-10 days later. Pregnancy tests should be repeated as clinically required (e.g. after any gap in contraception is reported). Results of all pregnancy tests should be discussed with the patient. Patients should be instructed to consult their physician immediately should pregnancy occur.
 
 Mycophenolate is a powerful human teratogen, with an increased risk of spontaneous abortions and congenital malformations in case of exposure during pregnancy;
 
@@ -348,9 +340,9 @@ Limited data shows that mycophenolic acid is excreted in human milk. Because of 
 
 The limited clinical evidence available does not indicate an increased risk of malformations or miscarriage following paternal exposure to mycophenolate mofetil.
 
-<div style=\"page-break-after: always\"></div>
-
 MPA is a powerful teratogen. It is not known if MPA is present in semen. Calculations based on animal data show that the maximum amount of MPA that could potentially be transferred to woman is so low that it would be unlikely to have an effect. Mycophenolate has been shown to be genotoxic in animal studies at concentrations exceeding the human therapeutic exposures only by small margins, such that the risk of genotoxic effects on sperm cells cannot completely be excluded.
+
+<div style=\"page-break-after: always\"></div>
 
 Therefore, the following precautionary measures are recommended: sexually active male patients or their female partners are recommended to use reliable contraception during treatment of the male patient and for at least 90 days after cessation of mycophenolate mofetil. Male patients of reproductive potential should be made aware of and discuss with a qualified healthcare professional the potential risks of fathering a child.
 
@@ -372,16 +364,21 @@ Diarrhoea (up to 52.6%), leukopenia (up to 45.8%), bacterial infections (up to 3
 
 The adverse reactions from clinical trials and post-marketing experience are listed in Table 1, by MedDRA system organ class (SOC) along with their frequencies. The corresponding frequency category for each adverse reaction is based on the following conven tion: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000) and very rare (&lt;1/10 000). Due to the large differences observed in the frequency of certain adverse reactions across the different transplant indications, the frequency is presented separately for renal, hepatic and cardiac transplant patients.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 1 Adverse reactions in studies investigating mycophenolate mofetil treatment in adults and adolescents, or through post-marketing surveillance
 
-| Adverse reaction (MedDRA) System Organ Class                             | Renal transplant                                                         | Hepatic transplant                                                       | Cardiac transplant                                                       |
+| Adverse reaction (MedDRA) System Organ   | Renal transplant   | Hepatic transplant   | Cardiac transplant   |
+|------------------------------------------|--------------------|----------------------|----------------------|
+| Class                                    |                    |                      |                      |
+|                                          | Frequency          | Frequency            | Frequency            |
+| Infections and infestations              |                    |                      |                      |
+| Bacterial infections                     | Very Common        | Very Common          | Very Common          |
+| Fungal infections                        | Common             | Very Common          | Very Common          |
+
+<div style=\"page-break-after: always\"></div>
+
+| Adverse reaction (MedDRA)                                                | Renal transplant                                                         | Hepatic transplant                                                       | Cardiac transplant                                                       |
 |--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
-|                                                                          | Frequency                                                                | Frequency                                                                | Frequency                                                                |
-| Infections and infestations                                              |                                                                          |                                                                          |                                                                          |
-| Bacterial infections                                                     | Very Common                                                              | Very Common                                                              | Very Common                                                              |
-| Fungal infections                                                        | Common                                                                   | Very Common                                                              | Very Common                                                              |
+| System Organ Class                                                       |                                                                          |                                                                          |                                                                          |
 | Protozoal infections                                                     | Uncommon                                                                 | Uncommon                                                                 | Uncommon                                                                 |
 | Viral infections                                                         | Very Common                                                              | Very Common                                                              | Very Common                                                              |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) | Neoplasms benign, malignant and unspecified (including cysts and polyps) | Neoplasms benign, malignant and unspecified (including cysts and polyps) | Neoplasms benign, malignant and unspecified (including cysts and polyps) |
@@ -418,92 +415,86 @@ Table 1 Adverse reactions in studies investigating mycophenolate mofetil treatme
 | Depression                                                               | Common                                                                   | Very Common                                                              | Very Common                                                              |
 | Insomnia                                                                 | Common                                                                   | Very Common                                                              | Very Common                                                              |
 | Agitation                                                                | Uncommon                                                                 | Common                                                                   | Very Common                                                              |
+| Anxiety                                                                  | Common                                                                   | Very Common                                                              | Very Common                                                              |
+| Thinking abnormal                                                        | Uncommon                                                                 | Common                                                                   | Common                                                                   |
+| Nervous system disorders                                                 | Nervous system disorders                                                 | Nervous system disorders                                                 | Nervous system disorders                                                 |
+| Dizziness                                                                | Common                                                                   | Very Common                                                              | Very Common                                                              |
+| Headache                                                                 | Very Common                                                              | Very Common                                                              | Very Common                                                              |
+| Hypertonia                                                               | Common                                                                   | Common                                                                   | Very Common                                                              |
 
 <div style=\"page-break-after: always\"></div>
 
-| Adverse reaction (MedDRA)             | Renal transplant   | Hepatic transplant   | Cardiac transplant   |
-|---------------------------------------|--------------------|----------------------|----------------------|
-| System Organ Class                    |                    |                      |                      |
-| Anxiety                               | Common             | Very Common          | Very Common          |
-| Thinking abnormal                     | Uncommon           | Common               | Common               |
-| Nervous system disorders              |                    |                      |                      |
-| Dizziness                             | Common             | Very Common          | Very Common          |
-| Headache                              | Very Common        | Very Common          | Very Common          |
-| Hypertonia                            | Common             | Common               | Very Common          |
-| Paresthesia                           | Common             | Very Common          | Very Common          |
-| Somnolence                            | Common             | Common               | Very Common          |
-| Tremor                                | Common             | Very Common          | Very Common          |
-| Convulsion                            | Common             | Common               | Common               |
-| Dysgeusia                             | Uncommon           | Uncommon             | Common               |
-| Cardiac disorders                     |                    |                      |                      |
-| Tachycardia                           | Common             | Very Common          | Very Common          |
-| Vascular disorders                    |                    |                      |                      |
-| Hypertension                          | Very Common        | Very Common          | Very Common          |
-| Hypotension                           | Common             | Very Common          | Very Common          |
-| Lymphocele                            | Uncommon           | Uncommon             | Uncommon             |
-| Venous thrombosis                     | Common             | Common               | Common               |
-| Vasodilatation                        | Common             | Common               | Very Common          |
-| Respiratory, thoracic and mediastinal | disorders          |                      |                      |
-| Bronchiectasis                        | Uncommon           | Uncommon             | Uncommon             |
-| Cough                                 | Very Common        | Very Common          | Very Common          |
-| Dyspnoea                              | Very Common        | Very Common          | Very Common          |
-| Interstitial lung disease             | Uncommon           | Very Rare            | Very Rare            |
-| Pleural effusion                      | Common             | Very Common          | Very Common          |
-| Pulmonary fibrosis                    | Very Rare          | Uncommon             | Uncommon             |
-| Gastrointestinal disorders            |                    |                      |                      |
-| Abdominal distension                  | Common             | Very Common          | Common               |
-| Abdominal pain                        | Very Common        | Very Common          | Very Common          |
-| Colitis                               | Common             | Common               | Common               |
-| Constipation                          | Very Common        | Very Common          | Very Common          |
-| Decreased appetite                    | Common             | Very Common          | Very Common          |
-| Diarrhoea                             | Very Common        | Very Common          | Very Common          |
-| Dyspepsia                             | Very Common        | Very Common          | Very Common          |
-| Esophagitis                           | Common             | Common               | Common               |
-| Eructation                            | Uncommon           | Uncommon             | Common               |
-| Flatulence                            | Common             | Very Common          | Very Common          |
-| Gastritis                             | Common             | Common               | Common               |
-| Gastrointestinal haemorrhage          | Common             | Common               | Common               |
-| Gastrointestinal ulcer                | Common             | Common               | Common               |
-| Gingival hyperplasia                  | Common             | Common               | Common               |
-| Ileus                                 | Common             | Common               | Common               |
-
-<div style=\"page-break-after: always\"></div>
-
-| Adverse reaction (MedDRA) System Organ Class    | Renal transplant                                | Hepatic transplant                              | Cardiac transplant                              |
-|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-| Mouth ulceration                                | Common                                          | Common                                          | Common                                          |
-| Nausea                                          | Very Common                                     | Very Common                                     | Very Common                                     |
-| Pancreatitis                                    | Uncommon                                        | Common                                          | Uncommon                                        |
-| Stomatitis                                      | Common                                          | Common                                          | Common                                          |
-| Vomiting                                        | Very Common                                     | Very Common                                     | Very Common                                     |
-| Immune system disorders                         |                                                 |                                                 |                                                 |
-| Hypersenstivity                                 | Uncommon                                        | Common                                          | Common                                          |
-| Hypogammaglobulinaemia                          | Uncommon                                        | Very Rare                                       | Very Rare                                       |
-| Hepatobiliary disorders                         |                                                 |                                                 |                                                 |
-| Blood alkaline phosphatase increased            | Common                                          | Common                                          | Common                                          |
-| Blood lactate dehydrogenase increased           | Common                                          | Uncommon                                        | Very Common                                     |
-| Hepatic enzyme increased                        | Common                                          | Very Common                                     | Very Common                                     |
-| Hepatitis                                       | Common                                          | Very Common                                     | Uncommon                                        |
-| Hyperbilirubinaemia                             | Common                                          | Very Common                                     | Very Common                                     |
-| Jaundice                                        | Uncommon                                        | Common                                          | Common                                          |
-| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders          |                                                 |                                                 |
-| Acne                                            | Common                                          | Common                                          | Very Common                                     |
-| Alopecia                                        | Common                                          | Common                                          | Common                                          |
-| Rash                                            | Common                                          | Very Common                                     | Very Common                                     |
-| Skin hypertrophy                                | Common                                          | Common                                          | Very Common                                     |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders |
-| Arthralgia                                      | Common                                          | Common                                          | Very Common                                     |
-| Muscular weakness                               | Common                                          | Common                                          | Very Common                                     |
-| Renal and urinary disorders                     | Renal and urinary disorders                     | Renal and urinary disorders                     | Renal and urinary disorders                     |
-| Blood creatinine increased                      | Common                                          | Very Common                                     | Very Common                                     |
-| Blood urea increased                            | Uncommon                                        | Very Common                                     | Very Common                                     |
-| Haematuria                                      | Very Common                                     | Common                                          | Common                                          |
-| Renal impairment                                | Common                                          | Very Common                                     | Very Common                                     |
+| Adverse reaction (MedDRA)               | Renal transplant   | Hepatic transplant   | Cardiac transplant   |
+|-----------------------------------------|--------------------|----------------------|----------------------|
+| System Organ Class                      |                    |                      |                      |
+| Paresthesia                             | Common             | Very Common          | Very Common          |
+| Somnolence                              | Common             | Common               | Very Common          |
+| Tremor                                  | Common             | Very Common          | Very Common          |
+| Convulsion                              | Common             | Common               | Common               |
+| Dysgeusia                               | Uncommon           | Uncommon             | Common               |
+| Cardiac disorders                       |                    |                      |                      |
+| Tachycardia                             | Common             | Very Common          | Very Common          |
+| Vascular disorders                      |                    |                      |                      |
+| Hypertension                            | Very Common        | Very Common          | Very Common          |
+| Hypotension                             | Common             | Very Common          | Very Common          |
+| Lymphocele                              | Uncommon           | Uncommon             | Uncommon             |
+| Venous thrombosis                       | Common             | Common               | Common               |
+| Vasodilatation                          | Common             | Common               | Very Common          |
+| Respiratory, thoracic and mediastinal   | disorders          |                      |                      |
+| Bronchiectasis                          | Uncommon           | Uncommon             | Uncommon             |
+| Cough                                   | Very Common        | Very Common          | Very Common          |
+| Dyspnoea                                | Very Common        | Very Common          | Very Common          |
+| Interstitial lung disease               | Uncommon           | Very Rare            | Very Rare            |
+| Pleural effusion                        | Common             | Very Common          | Very Common          |
+| Pulmonary fibrosis                      | Very Rare          | Uncommon             | Uncommon             |
+| Gastrointestinal disorders              |                    |                      |                      |
+| Abdominal distension                    | Common             | Very Common          | Common               |
+| Abdominal pain                          | Very Common        | Very Common          | Very Common          |
+| Colitis                                 | Common             | Common               | Common               |
+| Constipation                            | Very Common        | Very Common          | Very Common          |
+| Decreased appetite                      | Common             | Very Common          | Very Common          |
+| Diarrhoea                               | Very Common        | Very Common          | Very Common          |
+| Dyspepsia                               | Very Common        | Very Common          | Very Common          |
+| Esophagitis                             | Common             | Common               | Common               |
+| Eructation                              | Uncommon           | Uncommon             | Common               |
+| Flatulence                              | Common             | Very Common          | Very Common          |
+| Gastritis                               | Common             | Common               | Common               |
+| Gastrointestinal haemorrhage            | Common             | Common               | Common               |
+| Gastrointestinal ulcer                  | Common             | Common               | Common               |
+| Gingival hyperplasia                    | Common             | Common               | Common               |
+| Ileus                                   | Common             | Common               | Common               |
+| Mouth ulceration                        | Common             | Common               | Common               |
+| Nausea                                  | Very Common        | Very Common          | Very Common          |
+| Pancreatitis                            | Uncommon           | Common               | Uncommon             |
+| Stomatitis                              | Common             | Common               | Common               |
+| Vomiting                                | Very Common        | Very Common          | Very Common          |
+| Immune system disorders Hypersenstivity | Uncommon           | Common               | Common               |
 
 <div style=\"page-break-after: always\"></div>
 
 | Adverse reaction (MedDRA) System Organ Class                               | Renal transplant                                     | Hepatic transplant                                   | Cardiac transplant                                   |
 |----------------------------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+| Hypogammaglobulinaemia                                                     | Uncommon                                             | Very Rare                                            | Very Rare                                            |
+| Hepatobiliary disorders                                                    |                                                      |                                                      |                                                      |
+| Blood alkaline phosphatase increased                                       | Common                                               | Common                                               | Common                                               |
+| Blood lactate dehydrogenase increased                                      | Common                                               | Uncommon                                             | Very Common                                          |
+| Hepatic enzyme increased                                                   | Common                                               | Very Common                                          | Very Common                                          |
+| Hepatitis                                                                  | Common                                               | Very Common                                          | Uncommon                                             |
+| Hyperbilirubinaemia                                                        | Common                                               | Very Common                                          | Very Common                                          |
+| Jaundice                                                                   | Uncommon                                             | Common                                               | Common                                               |
+| Skin and subcutaneous tissue disorders                                     | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               |
+| Acne                                                                       | Common                                               | Common                                               | Very Common                                          |
+| Alopecia                                                                   | Common                                               | Common                                               | Common                                               |
+| Rash                                                                       | Common                                               | Very Common                                          | Very Common                                          |
+| Skin hypertrophy                                                           | Common                                               | Common                                               | Very Common                                          |
+| Musculoskeletal and connective tissue disorders                            | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      |
+| Arthralgia                                                                 | Common                                               | Common                                               | Very Common                                          |
+| Muscular weakness                                                          | Common                                               | Common                                               | Very Common                                          |
+| Renal and urinary disorders                                                | Renal and urinary disorders                          | Renal and urinary disorders                          | Renal and urinary disorders                          |
+| Blood creatinine increased                                                 | Common                                               | Very Common                                          | Very Common                                          |
+| Blood urea increased                                                       | Uncommon                                             | Very Common                                          | Very Common                                          |
+| Haematuria                                                                 | Very Common                                          | Common                                               | Common                                               |
+| Renal impairment                                                           | Common                                               | Very Common                                          | Very Common                                          |
 | General disorders and administration site conditions                       | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions |
 | Asthenia                                                                   | Very Common                                          | Very Common                                          | Very Common                                          |
 | Chills                                                                     | Common                                               | Very Common                                          | Very Common                                          |
@@ -522,6 +513,8 @@ Patients receiving immunosuppressive regimens involving combinations of medicina
 
 ## Infections
 
+<div style=\"page-break-after: always\"></div>
+
 All patients treated with immunosuppressants are at increased risk of bacterial, viral and fungal infections (some of which may lead to a fatal outcome), including those caused by opportunistic agents and latent viral reactivation. The risk increases with total immunosuppressive load (see section 4.4). The most serious infections were sepsis, peritonitis, meningitis, endocarditis, tuberculosis and atypical mycobacterial infection. The most common opportunistic infections in patients receiving mycophenolate mofetil (2 g or 3 g daily) with other immunosuppressants in controlled clinical trials in renal, cardiac and hepatic transplant patients followed for at least 1 year were candida mucocutaneous, CMV viraemia/syndrome and Herpes simplex. The proportion of patients with CMV viraemia/syndrome was 13.5%. Cases of BK virus associated nephropathy, as well as cases of JC virus associated progressive multifocal leukoencephalopathy (PML), have been reported in patients treated with immunosuppressants, including mycophenolate mofetil.
 
 ## Blood and lymphatic disorders
@@ -531,8 +524,6 @@ Cytopenias, including leukopenia, anaemia, thrombocytopenia and pancytopenia, ar
 Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil (see section 4.4).
 
 Isolated cases of abnormal neutrophil morphology, including the acquired Pelger-Huet anomaly, have been observed in patients treated with mycophenolate mofetil. These changes are not associated with impaired neutrophil function. These changes may suggest a 'left shift' in the maturity of neutrophils in haematological investigations, which may be mistakenly interpreted as a sign of infection in immunosuppressed patients such as those that receive mycophenolate mofetil.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Gastrointestinal disorders
 
@@ -556,6 +547,8 @@ There have been isolated reports of interstitial lung disease and pulmonary fibr
 
 ## Immune system disorders
 
+<div style=\"page-break-after: always\"></div>
+
 Hypogammaglobulinaemia has been reported in patients receiving mycophenolate mofetil in combination with other immunosuppressants.
 
 ## General disorders and administration site conditions
@@ -570,8 +563,6 @@ De novo purine synthesis inhibitors associated acute inflammatory syndrome has b
 
 The type and frequency of adverse reactions were assessed in a long-term clinical trial, which recruited 33 paediatric renal transplant patients, aged 3 years to 18 years, who were given 23 mg/kg of mycophenolate mofetil orally, twice daily. Overall, the safety profile in these 33 children and adolescents was similar to that observed in adult recipients of solid organ allografts.
 
-<div style=\"page-break-after: always\"></div>
-
 Similar observations were made in another clinical trial, which recruited 100 paediatric renal transplant patients aged 1 to 18 years. The type and frequency of adverse reactions in patients who were given 600 mg/m 2 , up to 1 g/m 2 of mycophenolate mofetil orally, twice daily, were comparable to those observed in adult patients given 1 g mycophenolate mofetil twice daily. A summary of the more frequently occurring adverse reactions is shown in table 2 below:
 
 Table 2 Summary of adverse reactions observed more frequently in a trial investigating mycophenolate mofetil in 100 paediatric renal transplant patients (age/surface area-based dosing [600 mg/m 2 , up to 1 g/m 2 BID.])
@@ -579,7 +570,6 @@ Table 2 Summary of adverse reactions observed more frequently in a trial investi
 | Adverse reaction                     | <6 years (n=33)     | 6-11 years (n=34)   | 12-18 years (n=33)   |
 |--------------------------------------|---------------------|---------------------|----------------------|
 | (MedDRA)                             |                     |                     |                      |
-| System Organ Class                   |                     |                     |                      |
 | Infections and infestations          | Very common (48.5%) | Very common (44.1%) | Very common (51.5%)  |
 | Blood and lymphatic system disorders |                     |                     |                      |
 | Leukopenia                           | Very common (30.3%) | Very common (29.4%) | Very common (12.1%)  |
@@ -589,6 +579,8 @@ Table 2 Summary of adverse reactions observed more frequently in a trial investi
 | Vomitting                            | Very common (69.7%) | Very common (44.1%) | Very common (36.4%)  |
 
 Based on limited sub-set data (i.e. 33 of the 100 patients) there was a higher frequency of severe diarrhoea (common, 9.1%), and candida mucocutaneous (very common, 21.2%) in children under 6 years of age, compared to the older paediatric cohort in which no cases of severe diarrhoea were reported (0.0%) and candida mucocutaneous was common (7.5%).
+
+<div style=\"page-break-after: always\"></div>
 
 Review of the available medical literature on paediatric hepatic and cardiac transplant patients shows the type and frequency of the reported adverse reactions are consistent with those observed in paediatric and adult patients following renal transplant.
 
@@ -604,11 +596,7 @@ In case of undesirable effects, temporary dose reduction or interruption may be 
 
 ## Elderly
 
-Elderly patients (≥ 65 years) may generally be at increased risk of adverse reactions due to immunosuppression. Elderly patients receiving mycophenolate mofetil as part of a combination
-
-<div style=\"page-break-after: always\"></div>
-
-immunosuppressive regimen may be at increased risk of certain infections (including cytomegalovirus tissue invasive disease) and possibly gastrointestinal haemorrhage and pulmonary oedema, compared to younger individuals.
+Elderly patients (≥ 65 years) may generally be at increased risk of adverse reactions due to immunosuppression. Elderly patients receiving mycophenolate mofetil as part of a combination immunosuppressive regimen may be at increased risk of certain infections (including cytomegalovirus tissue invasive disease) and possibly gastrointestinal haemorrhage and pulmonary oedema, compared to younger individuals.
 
 ## Reporting of suspected adverse reactions
 
@@ -626,13 +614,13 @@ Haemodialysis would not be expected to remove clinically significant amounts of 
 
 ## 5.1 Pharmacodynamic properties
 
+<div style=\"page-break-after: always\"></div>
+
 Pharmacotherapeutic group: immunosuppressive agents ATC code L04AA06
 
 ## Mechanism of action
 
 Mycophenolate mofetil is the 2-morpholinoethyl ester of MPA. MPA is a selective, uncompetitive and reversible inhibitor of IMPDH, and therefore inhibits the de novo pathway of guanosine nucleotide synthesis without incorporation into DNA. Because T- and B-lymphocytes are critically dependent for their proliferation on de novo synthesis of purines whereas other cell types can utilise salvage pathways, MPA has more potent cytostatic effects on lymphocytes than on other cells. In addition to its inhibition of IMPDH and the resulting deprivation of lymphocytes, MPA also influences cellular checkpoints responsible for metabolic programming of lymphocytes. It has been shown, using human CD4+ T-cells, that MPA shifts transcriptional activities in lymphocytes from a proliferative state to catabolic processes relevant to metabolism and survival leading to an anergic state of T-cells, whereby the cells become unresponsive to their specific antigen.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
@@ -654,15 +642,15 @@ MPA is metabolised principally by glucuronyl transferase (isoform UGT1A9) to for
 
 A negligible amount of substance is excreted as MPA (&lt; 1% of the dose) in the urine. Oral administration of radiolabelled mycophenolate mofetil results in complete recovery of the administered dose with 93% of the administered dose recovered in the urine and 6% recovered in the faeces. Most (about 87%) of the administered dose is excreted in the urine as MPAG.
 
-At clinically encountered concentrations, MPA and MPAG are not removed by haemodialysis. However, at high MPAG plasma concentrations (&gt; 100 µg/ml), small amounts of MPAG are removed. By interfering with enterohepatic recirculation of the drug, bile acid sequestrants such as cholestyramine reduce MPA AUC (see section 4.9).
-
-MPA's disposition depends on several transporters. Organic anion-transporting polypeptides (OATPs) and multidrug resistance-associated protein 2 (MRP2) are involved in MPA's disposition; OATP isoforms, MRP2 and breast cancer resistance protein (BCRP) are transporters associated with the glucuronides' biliary excretion. Multidrug resistance protein 1 (MDR1) is also able to transport MPA, but its contribution seems to be confined to the absorption process. In the kidney, MPA and its metabolites potently interact with renal organic anion transporters.
-
-Enterohepatic recirculation interferes with accurate determination of MPA's disposition parameters; only apparent values can be indicated. In healthy volunteers and patients with autoimmune disease approximate clearance values of 10.6 L/h and 8.27 L/h respectively and half-life values of 17 h were observed. In transplant patients mean clearance values were higher (range 11.9-34.9 L/h) and mean half-life values shorter (5-11 h) with little difference between renal, hepatic or cardiac transplant
+At clinically encountered concentrations, MPA and MPAG are not removed by haemodialysis. However, at high MPAG plasma concentrations (&gt; 100 µg/ml), small amounts of MPAG are removed.
 
 <div style=\"page-break-after: always\"></div>
 
-patients. In the individual patients, these elimination parameters vary based on type of co-treatment with other immunosuppressants, time post-transplantation, plasma albumin concentration and renal function. These factors explain why reduced exposure to mycophenolate is seen when mycophenolate mofetil is co-administered with ciclosporin (see section 4.5) and why plasma concentrations tend to increase over time compared to what is observed immediately after transplantation.
+By interfering with enterohepatic recirculation of the drug, bile acid sequestrants such as cholestyramine reduce MPA AUC (see section 4.9).
+
+MPA's disposition depends on several transporters. Organic anion-transporting polypeptides (OATPs) and multidrug resistance-associated protein 2 (MRP2) are involved in MPA's disposition; OATP isoforms, MRP2 and breast cancer resistance protein (BCRP) are transporters associated with the glucuronides' biliary excretion. Multidrug resistance protein 1 (MDR1) is also able to transport MPA, but its contribution seems to be confined to the absorption process. In the kidney, MPA and its metabolites potently interact with renal organic anion transporters.
+
+Enterohepatic recirculation interferes with accurate determination of MPA's disposition parameters; only apparent values can be indicated. In healthy volunteers and patients with autoimmune disease approximate clearance values of 10.6 L/h and 8.27 L/h respectively and half-life values of 17 h were observed. In transplant patients mean clearance values were higher (range 11.9-34.9 L/h) and mean half-life values shorter (5-11 h) with little difference between renal, hepatic or cardiac transplant patients. In the individual patients, these elimination parameters vary based on type of co-treatment with other immunosuppressants, time post-transplantation, plasma albumin concentration and renal function. These factors explain why reduced exposure to mycophenolate is seen when mycophenolate mofetil is co-administered with ciclosporin (see section 4.5) and why plasma concentrations tend to increase over time compared to what is observed immediately after transplantation.
 
 ## Special populations
 
@@ -682,42 +670,46 @@ In volunteers with alcoholic cirrhosis, hepatic MPA glucuronidation processes we
 
 In 33 paediatric renal allograft recipients it was established that the dose predicted to provide an MPA AUC0-12h closest to the target exposure of 27.2 h ⋅ mg/l was 600 mg/m 2 , and that doses calculated based on estimated BSA reduced interindividual variability (coefficient of variation, (CV)) by about 10%. Therefore, dosing based on BSA is preferred rather than dosing based on body weight.
 
-Pharmacokinetic parameters were evaluated in up to 55 paediatric renal transplant patients (aged 1 to 18 years) given 600 mg/m 2 , up to 1 g/m 2 of mycophenolate mofetil orally twice daily. This dose achieved MPA AUC values similar to those seen in adult renal transplant patients receiving mycophenolate mofetil at a dose of 1 g BID in the early and late post-transplant period as per Table 3 below. MPA AUC values across paediatric age groups were similar in the early and late posttransplant period.
-
-For paediatric hepatic transplant recipients an open-label study of the safety, tolerability and pharmacokinetics of oral mycophenolate mofetil included 7 evaluable patients on concomitant ciclosporin and corticosteroid treatment. The dose predicted to achieve an exposure of 58 h ⋅ mg/l in the stable post-transplant period was estimated. The mean ± SD AUC0-12 (adjusted to a dose of 600 mg/m 2 ) was 47.0 ± 21.8 h ⋅ mg/l, adjusted Cmax was 14.5 ± 4.21 mg/l, with a median time to maximum concentration of 0.75 h. To achieve the target AUC0-12 of 58 h ⋅ mg/l in the late post-transplant period, a dose in the range of 740-806 mg/m 2 BID would therefore have been required in the study population.
-
-A comparison of dose-normalised (to 600 mg/m 2 ) MPA AUC values in 12 paediatric renal transplant patients less than 6 years of age at 9 months post-transplant with those values in 7 paediatric hepatic transplant patients [median age 17 months (range: 10-60 months at enrolment)] at 6 months and beyond post-transplant revealed that, at the same dose, the AUC values were on average 23% lower in the paediatric hepatic patients compared to paediatric renal patients. This is consistent with the need
+Pharmacokinetic parameters were evaluated in up to 55 paediatric renal transplant patients (aged 1 to 18 years) given 600 mg/m 2 , up to 1 g/m 2 of mycophenolate mofetil orally twice daily. This dose achieved MPA AUC values similar to those seen in adult renal transplant patients receiving mycophenolate mofetil at a dose of 1 g BID in the early and late post-transplant period as per Table 3
 
 <div style=\"page-break-after: always\"></div>
 
-for higher dosing in adult hepatic transplant patients compared to adult renal transplant patients to achieve the same exposure.
+below. MPA AUC values across paediatric age groups were similar in the early and late posttransplant period.
+
+For paediatric hepatic transplant recipients an open-label study of the safety, tolerability and pharmacokinetics of oral mycophenolate mofetil included 7 evaluable patients on concomitant ciclosporin and corticosteroid treatment. The dose predicted to achieve an exposure of 58 h ⋅ mg/l in the stable post-transplant period was estimated. The mean ± SD AUC0-12 (adjusted to a dose of 600 mg/m 2 ) was 47.0 ± 21.8 h ⋅ mg/l, adjusted Cmax was 14.5 ± 4.21 mg/l, with a median time to maximum concentration of 0.75 h. To achieve the target AUC0-12 of 58 h ⋅ mg/l in the late post-transplant period, a dose in the range of 740-806 mg/m 2 BID would therefore have been required in the study population.
+
+A comparison of dose-normalised (to 600 mg/m 2 ) MPA AUC values in 12 paediatric renal transplant patients less than 6 years of age at 9 months post-transplant with those values in 7 paediatric hepatic transplant patients [median age 17 months (range: 10-60 months at enrolment)] at 6 months and beyond post-transplant revealed that, at the same dose, the AUC values were on average 23% lower in the paediatric hepatic patients compared to paediatric renal patients. This is consistent with the need for higher dosing in adult hepatic transplant patients compared to adult renal transplant patients to achieve the same exposure.
 
 In adult transplant patients administered the same dosage of mycophenolate mofetil, there is similar MPA exposure among renal transplant and cardiac transplant patients. In line with the established similarity in MPA exposure between paediatric renal transplant and adult renal transplant patients at their respective approved doses, existing data allows to conclude that MPA exposure at the recommended dosage will be similar in paediatric cardiac transplant, and adult cardiac transplant patients.
 
 Table 3 Mean computed MPA PK parameters by age and time post-transplant (renal)
 
-| Age group         | (n)    | AdjustedC max mg/l A mean ± SD   | Adjusted AUC 0-12 h ⋅ mg/l mean ± SD (CI) A   |
-|-------------------|--------|----------------------------------|-----------------------------------------------|
-| Day 7             |        |                                  |                                               |
-| <6 y              | (17)   | 13.2 ± 7.16                      | 27.4 ± 9.54 (22.8-31.9)                       |
-| 6 - <12 y         | (16)   | 13.1 ± 6.30                      | 33.2 ± 12.1 (27.3-39.2)                       |
-| 12-18 y p-value B | (21)   | 11.7 ± 10.7 -                    | 26.3 ± 9.14 (22.3-30.3) D -                   |
-| < 2 y C           | (6)    | 10.3 ± 5.80                      | 22.5 ± 6.68 (17.2-27.8)                       |
-| >18 y             | (141)  |                                  | 27.2 ± 11.6                                   |
-| Month 3           |        |                                  |                                               |
-| < 6 y             | (15)   | 22.7 ± 10.1                      | 49.7 ± 18.2                                   |
-| 6 - <12 y         | (14) E | 27.8 ± 14.3                      | 61.9 ± 19.6                                   |
-| 12-18 y           | (17)   | 17.9 ± 9.57                      | 53.6 ± 20.2 F                                 |
-| p-value B         |        | -                                | -                                             |
-| <2 y C            | (4)    | 23.8 ± 13.4                      | 47.4 ± 14.7                                   |
-| >18 y             | (104)  |                                  | 50.3 ± 23.1                                   |
-| Month 9           |        |                                  |                                               |
-| <6 y              | (12)   | 30.4 ± 9.16                      | 60.9 ± 10.7                                   |
-| 6 - <12 y         | (11)   | 29.2 ± 12.6                      | 66.8 ± 21.2                                   |
-| 12-18 y           | (14)   | 18.1 ± 7.29                      | 56.7 ± 14.0                                   |
-| p-value B         |        | 0.004                            | -                                             |
-| <2 y C            | (4)    | 25.6 ± 4.25                      | 55.8 ± 11.6                                   |
-| >18 y             | (70)   |                                  | 53.5 ± 18.3                                   |
+| Age group (n)     | Adjusted C max mg/l A mean ± SD   | Adjusted AUC 0-12 h ⋅ mg/l mean ± SD (CI) A   |                             |
+|-------------------|-----------------------------------|-----------------------------------------------|-----------------------------|
+| Day 7             |                                   |                                               |                             |
+| <6 y              | (17)                              | 13.2 ± 7.16                                   | 27.4 ± 9.54 (22.8-31.9)     |
+| 6 - <12 y         | (16)                              | 13.1 ± 6.30                                   | 33.2 ± 12.1 (27.3-39.2)     |
+| 12-18 y p-value B | (21)                              | 11.7 ± 10.7 -                                 | 26.3 ± 9.14 (22.3-30.3) D - |
+| < 2 y C           | (6)                               | 10.3 ± 5.80                                   | 22.5 ± 6.68 (17.2-27.8)     |
+| >18 y             | (141)                             |                                               | 27.2 ± 11.6                 |
+| Month 3           |                                   |                                               |                             |
+| < 6 y             | (15)                              | 22.7 ± 10.1                                   | 49.7 ± 18.2                 |
+| 6 - <12 y         | (14) E                            | 27.8 ± 14.3                                   | 61.9 ± 19.6                 |
+| 12-18 y p-value B | (17) -                            | 17.9 ± 9.57                                   | 53.6 ± 20.2 F -             |
+| <2 y C            | (4)                               | 23.8 ± 13.4                                   | 47.4 ± 14.7                 |
+| >18 y             | (104)                             |                                               | 50.3 ± 23.1                 |
+| Month 9           |                                   |                                               |                             |
+| <6 y              | (12)                              | 30.4 ± 9.16                                   | 60.9 ± 10.7                 |
+| 6 - <12 y         | (11)                              | 29.2 ± 12.6                                   | 66.8 ± 21.2                 |
+| 12-18 y           | (14)                              | 18.1 ± 7.29                                   | 56.7 ± 14.0                 |
+| p-value B         |                                   | 0.004                                         | -                           |
+| <2 y C            | (4)                               | 25.6 ± 4.25                                   | 55.8 ± 11.6                 |
+
+<div style=\"page-break-after: always\"></div>
+
+| Age group (n)   | Adjusted C max mg/l A mean ± SD   | Adjusted AUC 0-12 h ⋅ mg/l mean ± SD (CI) A   |
+|-----------------|-----------------------------------|-----------------------------------------------|
+| >18 y (70)      |                                   | 53.5 ± 18.3                                   |
 
 AUC0-12h = area under the plasma concentration-time curve from time 0 h to time 12 h; CI = confidence interval;
 
@@ -739,8 +731,6 @@ F n = 16.
 
 The pharmacokinetics of mycophenolate mofetil and its metabolites have not been found to be altered in the elderly patients (≥ 65 years) when compared to younger transplant patients.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Patients taking oral contraceptives
 
 A study of the co-administration of mycophenolate mofetil (1 g BID) and combined oral contraceptives containing ethinylestradiol (0.02 mg to 0.04 mg) and levonorgestrel (0.05 mg to 0.20 mg), desogestrel (0.15 mg) or gestodene (0.05 mg to 0.10 mg) conducted in 18 non-transplant women (not taking other immunosuppressants) over 3 consecutive menstrual cycles showed no clinically relevant influence of mycophenolate mofetil on the ovulation-suppressing action of the oral contraceptives. Serum levels of LH, FSH and progesterone were not significantly affected. The pharmacokinetics of oral contraceptives were not affected to a clinically relevant degree by coadministration of mycophenolate mofetil (see also section 4.5).
@@ -753,21 +743,27 @@ Two genotoxicity assays ( in vitro mouse lymphoma assay and in vivo mouse bone m
 
 In teratology studies in rats and rabbits, foetal resorptions and malformations occurred in rats at 6 mg/kg/day (including anophthalmia, agnathia, and hydrocephaly) and in rabbits at 90 mg/kg/day (including cardiovascular and renal anomalies, such as ectopia cordis and ectopic kidneys, and diaphragmatic and umbilical hernia), in the absence of maternal toxicity. The systemic exposure at these levels is approximately equivalent to or less than 0.5 times the clinical exposure at the recommended clinical dose of 2 g/day for renal transplant patients and approximately 0.3 times the clinical exposure at the recommended clinical dose of 3 g/day for cardiac transplant patients (see section 4.6).
 
-The haematopoietic and lymphoid systems were the primary organs affected in toxicology studies conducted with mycophenolate mofetil in the rat, mouse, dog and monkey. These effects occurred at systemic exposure levels that are equivalent to or less than the clinical exposure at the recommended dose of 2 g/day for renal transplant recipients. Gastrointestinal effects were observed in the dog at systemic exposure levels equivalent to or less than the clinical exposure at the recommended dose. Gastrointestinal and renal effects consistent with dehydration were also observed in the monkey at the highest dose (systemic exposure levels equivalent to or greater than clinical exposure). The non-clinical toxicity profile of mycophenolate mofetil appears to be consistent with adverse events observed in human clinical trials, which now provide safety data of more relevance to the patient population (see section 4.8).
+The haematopoietic and lymphoid systems were the primary organs affected in toxicology studies conducted with mycophenolate mofetil in the rat, mouse, dog and monkey. These effects occurred at systemic exposure levels that are equivalent to or less than the clinical exposure at the recommended dose of 2 g/day for renal transplant recipients. Gastrointestinal effects were observed in the dog at systemic exposure levels equivalent to or less than the clinical exposure at the recommended dose. Gastrointestinal and renal effects consistent with dehydration were also observed in the monkey at the
+
+<div style=\"page-break-after: always\"></div>
+
+highest dose (systemic exposure levels equivalent to or greater than clinical exposure). The non-clinical toxicity profile of mycophenolate mofetil appears to be consistent with adverse events observed in human clinical trials, which now provide safety data of more relevance to the patient population (see section 4.8).
 
 ## Environmental Risk Assessment (ERA)
 
 Environmental risk assessment studies have shown that the active substance, MPA may pose a risk for groundwater via bank filtration.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-CellCept capsules pregelatinised maize starch croscarmellose sodium polyvidone (K-90) magnesium stearate
+## CellCept capsules
 
-Capsule shells gelatin indigo carmine (E132) yellow iron oxide (E172) red iron oxide (E172) titanium dioxide (E171) black iron oxide (E172) potassium hydroxide shellac.
+pregelatinised maize starch croscarmellose sodium polyvidone (K-90) magnesium stearate
+
+## Capsule shells
+
+gelatin indigo carmine (E132) yellow iron oxide (E172) red iron oxide (E172) titanium dioxide (E171) black iron oxide (E172) potassium hydroxide shellac.
 
 ## 6.2 Incompatibilities
 
@@ -789,6 +785,8 @@ PVC/aluminium foil blister strips CellCept 250 mg capsules:
 
 Not all pack sizes may be marketed.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.6 Special precautions for disposal
 
 This medicinal product may pose a risk to the environment (see section 5.3). Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
@@ -797,14 +795,19 @@ This medicinal product may pose a risk to the environment (see section 5.3). Any
 
 Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-| EU/1/96/005/001 CellCept   | (100 capsules)                   |
-|----------------------------|----------------------------------|
-| EU/1/96/005/003 CellCept   | (300 capsules)                   |
-| EU/1/96/005/007 CellCept   | (300 (3x100) capsules multipack) |
+EU/1/96/005/001 CellCept
+
+(100 capsules)
+
+EU/1/96/005/003 CellCept
+
+(300 capsules)
+
+EU/1/96/005/007 CellCept
+
+(300 (3x100) capsules multipack)
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -814,7 +817,7 @@ Date of latest renewal: 13 March 2006
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -860,15 +863,15 @@ The recommended dose of mycophenolate mofetil for infusion in renal transplant p
 
 The recommended dose of mycophenolate mofetil for infusion in hepatic transplant patients is 1 g administered twice daily (2 g daily dose). Intravenous mycophenolate mofetil should continue for the first 4 days following hepatic transplant, with oral mycophenolate mofetil initiated as soon after this as it can be tolerated. The recommended oral dose in hepatic transplant patients is 1.5 g administered twice daily (3 g daily dose).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Paediatric population
 
-The safety and efficacy of mycophenolate mofetil for infusion in paediatric patients have not been established. No pharmacokinetic data with mycophenolate mofetil for infusion are available for renal and hepatic transplant patients. Paediatric indications are therefore only covered by the oral formulations of the mycophenolate mofetil product range.
+The safety and efficacy of mycophenolate mofetil for infusion in paediatric patients have not been established. No pharmacokinetic data with mycophenolate mofetil for infusion are available for renal
 
-## Use in special populations
+<div style=\"page-break-after: always\"></div>
 
-## Elderly
+and hepatic transplant patients. Paediatric indications are therefore only covered by the oral formulations of the mycophenolate mofetil product range.
+
+## Use in special populations Elderly
 
 The recommended dose of 1 g administered twice a day for renal or hepatic transplant patients is appropriate for the elderly.
 
@@ -880,9 +883,7 @@ In renal transplant patients with severe chronic renal impairment (glomerular fi
 
 No dose adjustments are needed for renal transplant patients with severe hepatic parenchymal disease.
 
-## Treatment during rejection episodes
-
-## Adults
+## Treatment during rejection episodes Adults
 
 Mycophenolic acid (MPA) is the active metabolite of mycophenolate mofetil. Renal transplant rejection does not lead to changes in MPA pharmacokinetics; dose reduction or interruption of treatment is not required. No pharmacokinetic data are available during hepatic transplant rejection.
 
@@ -905,10 +906,10 @@ For instructions on reconstitution and dilution of the medicinal product before 
 - CellCept should not be given to patients with hypersensitivity to mycophenolate mofetil, mycophenolic acid or to any of the excipients listed in section 6.1. Hypersensitivity reactions to this medicinal product have been observed (see section 4.8).
 - Treatment should not be given to patients who are allergic to polysorbate 80.
 - Treatment should not be given to women of childbearing potential who are not using highly effective contraception (see section 4.6).
+- Treatment should not be initiated in women of childbearing potential without providing a pregnancy test result to rule out unintended use in pregnancy (see section 4.6).
 
 <div style=\"page-break-after: always\"></div>
 
-- Treatment should not be initiated in women of childbearing potential without providing a pregnancy test result to rule out unintended use in pregnancy (see section 4.6).
 - Treatment should not be used in pregnancy unless there is no suitable alternative treatment to prevent transplant rejection (see section 4.6).
 - Treatment should not be given to women who are breastfeeding (see section 4.6).
 
@@ -930,13 +931,13 @@ There have been published reports of bronchiectasis in adults and children who r
 
 ## Blood and immune system
 
-Patients receiving mycophenolate mofetil should be monitored for neutropenia, which may be related to the treatment itself, concomitant medications, viral infections, or some combination of these causes. Patients taking mycophenolate mofetil should have complete blood counts weekly during the first month, twice monthly for the second and third months of treatment, then monthly through the first
+Patients receiving mycophenolate mofetil should be monitored for neutropenia, which may be related to the treatment itself, concomitant medicinens, viral infections, or some combination of these causes. Patients taking mycophenolate mofetil should have complete blood counts weekly during the first month, twice monthly for the second and third months of treatment, then monthly through the first year. If neutropenia develops (absolute neutrophil count &lt; 1.3 x 10 3 /µl) it may be appropriate to interrupt or discontinue mycophenolate mofetil.
+
+Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressants. The mechanism for mycophenolate mofetil
 
 <div style=\"page-break-after: always\"></div>
 
-year. If neutropenia develops (absolute neutrophil count &lt; 1.3 x 10 3 /µl) it may be appropriate to interrupt or discontinue mycophenolate mofetil.
-
-Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressants. The mechanism for mycophenolate mofetil induced PRCA is unknown. PRCA may resolve with dose reduction or cessation of mycophenolate mofetil therapy. Changes to mycophenolate mofetil therapy should only be undertaken under appropriate supervision in transplant recipients in order to minimise the risk of graft rejection (see section 4.8).
+induced PRCA is unknown. PRCA may resolve with dose reduction or cessation of mycophenolate mofetil therapy. Changes to mycophenolate mofetil therapy should only be undertaken under appropriate supervision in transplant recipients in order to minimise the risk of graft rejection (see section 4.8).
 
 Patients receiving mycophenolate mofetil should be instructed to report immediately any evidence of infection, unexpected bruising, bleeding or any other manifestation of bone marrow failure.
 
@@ -958,17 +959,19 @@ The risk/benefit ratio of mycophenolate mofetil in combination with sirolimus ha
 
 ## Therapeutic drug monitoring
 
-Therapeutic drug monitoring of MPA may be appropriate when switching combination therapy (e.g. from ciclosporin to tacrolimus or vice versa) or to ensure adequate immunosuppression in patients with high immunological risk (e.g. risk of rejection, treatment with antibiotics, addition or removal of an interacting medication).
+Therapeutic drug monitoring of MPA may be appropriate when switching combination therapy (e.g. from ciclosporin to tacrolimus or vice versa) or to ensure adequate immunosuppression in patients with high immunological risk (e.g. risk of rejection, treatment with antibiotics, addition or removal of an interacting medicine).
 
 ## Special populations
 
 Elderly patients may be at an increased risk of adverse events such as certain infections (including cytomegalovirus tissue invasive disease) and possibly gastrointestinal haemorrhage and pulmonary oedema, compared with younger individuals (see section 4.8).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Teratogenic effects
 
-Mycophenolate is a powerful human teratogen. Spontaneous abortion (rate of 45% to 49%) and congenital malformations (estimated rate of 23% to 27%) have been reported following mycophenolate mofetil exposure during pregnancy. Therefore, treatment is contraindicated in pregnancy unless there are no suitable alternative treatments to prevent transplant rejection. Female patients of childbearing potential should be made aware of the risks and follow the recommendations provided in section 4.6 (e.g. contraceptive methods, pregnancy testing) prior to, during, and after therapy with mycophenolate mofetil. Physicians should ensure that women taking mycophenolate mofetil understand the risk of harm to the baby, the need for effective contraception, and the need to immediately consult their physician if there is a possibility of pregnancy.
+Mycophenolate is a powerful human teratogen. Spontaneous abortion (rate of 45% to 49%) and congenital malformations (estimated rate of 23% to 27%) have been reported following mycophenolate mofetil exposure during pregnancy. Therefore, treatment is contraindicated in
+
+<div style=\"page-break-after: always\"></div>
+
+pregnancy unless there are no suitable alternative treatments to prevent transplant rejection. Female patients of childbearing potential should be made aware of the risks and follow the recommendations provided in section 4.6 (e.g. contraceptive methods, pregnancy testing) prior to, during, and after therapy with mycophenolate mofetil. Physicians should ensure that women taking mycophenolate mofetil understand the risk of harm to the baby, the need for effective contraception, and the need to immediately consult their physician if there is a possibility of pregnancy.
 
 ## Contraception (see section 4.6)
 
@@ -996,11 +999,9 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that i
 
 ## Aciclovir
 
-Higher aciclovir plasma concentrations were observed when mycophenolate mofetil was administered with aciclovir in comparison to the administration of aciclovir alone. The changes in MPAG (the
+Higher aciclovir plasma concentrations were observed when mycophenolate mofetil was administered with aciclovir in comparison to the administration of aciclovir alone. The changes in MPAG (the phenolic glucuronide of MPA) pharmacokinetics (MPAG increased by 8%) were minimal and are not considered clinically significant. Because MPAG plasma concentrations are increased in the presence of renal impairment, as are aciclovir concentrations, the potential exists for mycophenolate mofetil and aciclovir, or its prodrugs, e.g. valaciclovir, to compete for tubular secretion, and further increases in concentrations of both substances may occur.
 
 <div style=\"page-break-after: always\"></div>
-
-phenolic glucuronide of MPA) pharmacokinetics (MPAG increased by 8%) were minimal and are not considered clinically significant. Because MPAG plasma concentrations are increased in the presence of renal impairment, as are aciclovir concentrations, the potential exists for mycophenolate mofetil and aciclovir, or its prodrugs, e.g. valaciclovir, to compete for tubular secretion, and further increases in concentrations of both substances may occur.
 
 ## Medicinal products that interfere with enterohepatic recirculation (e.g. cholestyramine, ciclosporin A, antibiotics)
 
@@ -1012,7 +1013,9 @@ Following single dose, oral administration of 1.5 g of mycophenolate mofetil to 
 
 ## Ciclosporin A
 
-Ciclosporin A (CsA) pharmacokinetics are unaffected by mycophenolate mofetil. In contrast, if concomitant CsA treatment is stopped, an increase in MPA AUC of around 30% should be expected. CsA interferes with MPA enterohepatic recycling, resulting in reduced MPA exposures by 30 - 50% in renal transplant patients treated with mycophenolate mofetil and CsA compared with patients receiving sirolimus or belatacept and similar doses of mycophenolate mofetil (see also section 4.4). Conversely, changes of MPA exposure should be expected when switching patients from CsA to one of the immunosuppressants which does not interfere with MPA's enterohepatic cycle.
+## Ciclosporin A (CsA) pharmacokinetics are unaffected by mycophenolate mofetil.
+
+In contrast, if concomitant CsA treatment is stopped, an increase in MPA AUC of around 30% should be expected. CsA interferes with MPA enterohepatic recycling, resulting in reduced MPA exposures by 30 - 50% in renal transplant patients treated with mycophenolate mofetil and CsA compared with patients receiving sirolimus or belatacept and similar doses of mycophenolate mofetil (see also section 4.4). Conversely, changes of MPA exposure should be expected when switching patients from CsA to one of the immunosuppressants which does not interfere with MPA's enterohepatic cycle.
 
 Antibiotics eliminating β -glucuronidase-producing bacteria in the intestine (e.g. aminoglycoside, cephalosporin, fluoroquinolone, and penicillin classes of antibiotics) may interfere with MPAG/MPA enterohepatic recirculation, thus leading to reduced systemic MPA exposure. Information concerning the following antibiotics is available:
 
@@ -1032,15 +1035,15 @@ No effect on the bioavailability of MPA was observed.
 
 Concomitant administration of drugs affecting glucuronidation of MPA may change MPA exposure. Caution is therefore recommended when administering these drugs concomitantly with mycophenolate mofetil.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Isavuconazole
 
 An increase of MPA exposure (AUC0-∞ ) by 35% was observed with concomitant administration of isavuconazole.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Telmisartan
 
-Concomitant administration of telmisartan and mycophenolate mofetil resulted in an approximately 30% decrease of MPA concentrations. Telmisartan changes MPA's elimination by enhancing PPAR gamma (peroxisome proliferator-activated receptor gamma) expression, which in turn results in an enhanced uridine diphosphate glucuronyltransferase isoform 1A9 (UGT1A9) expression and activity. When comparing rates of transplant rejection, rates of graft loss or adverse event profiles between patients on mycophenolate mofetil with and without concomitant telmisartan medication, no clinical consequences of the pharmacokinetic drug-drug interaction were seen.
+Concomitant administration of telmisartan and mycophenolate mofetil resulted in an approximately 30% decrease of MPA concentrations. Telmisartan changes MPA's elimination by enhancing PPAR gamma (peroxisome proliferator-activated receptor gamma) expression, which in turn results in an enhanced uridine diphosphate glucuronyltransferase isoform 1A9 (UGT1A9) expression and activity. When comparing rates of transplant rejection, rates of graft loss or adverse event profiles between patients on mycophenolate mofetil with and without concomitant telmisartan medicine, no clinical consequences of the pharmacokinetic drug-drug interaction were seen.
 
 ## Ganciclovir
 
@@ -1070,11 +1073,13 @@ Live vaccines should not be given to patients with an impaired immune response. 
 
 Interaction studies have only been performed in adults.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Potential interaction
 
-Co-administration of probenecid with mycophenolate mofetil in monkeys raises plasma AUC of MPAG by 3-fold. Thus, other substances known to undergo renal tubular secretion may compete with MPAG, and thereby raise plasma concentrations of MPAG or the other substance undergoing tubular secretion.
+Co-administration of probenecid with mycophenolate mofetil in monkeys raises plasma AUC of MPAG by 3-fold. Thus, other substances known to undergo renal tubular secretion may compete with
+
+<div style=\"page-break-after: always\"></div>
+
+MPAG, and thereby raise plasma concentrations of MPAG or the other substance undergoing tubular secretion.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -1095,8 +1100,6 @@ Mycophenolate is a powerful human teratogen, with an increased risk of spontaneo
 - Spontaneous abortions have been reported in 45 to 49% of pregnant women exposed to mycophenolate mofetil, compared to a reported rate of between 12 and 33% in solid organ transplant patients treated with immunosuppressants other than mycophenolate mofetil.
 - Based on literature reports, malformations occurred in 23 to 27% of live births in women exposed to mycophenolate mofetil during pregnancy (compared to 2 to 3% of live births in the overall population and approximately 4 to 5% of live births in solid organ transplant recipients treated with immunosuppressants other than mycophenolate mofetil).
 
-<div style=\"page-break-after: always\"></div>
-
 Congenital malformations, including reports of multiple malformations, have been observed postmarketing in children of patients exposed to mycophenolate during pregnancy in combination with other immunosuppressants. The following malformations were most frequently reported:
 
 - Abnormalities of the ear (e.g. abnormally formed or absent external ear), external auditory canal atresia (middle ear);
@@ -1107,6 +1110,8 @@ Congenital malformations, including reports of multiple malformations, have been
 - Tracheo-oesophageal malformations (e.g. oesophageal atresia);
 - Nervous system malformations such as spina bifida;
 - Renal abnormalities.
+
+<div style=\"page-break-after: always\"></div>
 
 In addition, there have been isolated reports of the following malformations:
 
@@ -1133,13 +1138,9 @@ Therefore, the following precautionary measures are recommended: sexually active
 
 Mycophenolate mofetil had no effect on fertility of male rats at oral doses up to 20 mg/kg/day. The systemic exposure at this dose represents 2 - 3 times the clinical exposure at the recommended clinical dose of 2 g/day. In a female fertility and reproduction study conducted in rats, oral doses of 4.5 mg/kg/day caused malformations (including anophthalmia, agnathia, and hydrocephaly) in the first generation offspring in the absence of maternal toxicity. The systemic exposure at this dose was approximately 0.5 times the clinical exposure at the recommended clinical dose of 2 g/day. No effects on fertility or reproductive parameters were evident in the dams or in the subsequent generation.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.7 Effects on ability to drive and use machines
 
-Mycophenolate mofetil has a moderate influence on the ability to drive and use machines.
-
-Treatment may cause somnolence, confusion, dizziness, tremor or hypotension, and therefore patients are advised to use caution when driving or using machines.
+Mycophenolate mofetil has a moderate influence on the ability to drive and use machines. Treatment may cause somnolence, confusion, dizziness, tremor or hypotension, and therefore patients are advised to use caution when driving or using machines.
 
 ## 4.8 Undesirable effects
 
@@ -1147,52 +1148,54 @@ Treatment may cause somnolence, confusion, dizziness, tremor or hypotension, and
 
 Diarrhoea (up to 52.6%), leukopenia (up to 45.8%), bacterial infections (up to 39.9%) and vomiting (up to 39.1%) were among the most common and/or serious adverse reactions associated with the administration of mycophenolate mofetil in combination with ciclosporin and corticosteroids. There is also evidence of a higher frequency of certain types of infections (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Tabulated list of adverse reactions
 
-The adverse reactions from clinical trials and post-marketing experience are listed in Table 1, by MedDRA system organ class (SOC) along with their frequencies. The corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000) and very rare (&lt;1/10 000). Due to the large differences observed in the frequency of certain adverse reactions across the different transplant indications, the frequency is presented separately for renal and hepatic transplant patients.
+The adverse reactions from clinical trials and post-marketing experience are listed in Table 1, by MedDRA system organ class (SOC) along with their frequencies. The corresponding frequency category for each adverse reaction is based on the following conven tion: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000) and very rare (&lt;1/10 000). Due to the large differences observed in the frequency of certain adverse reactions across the different transplant indications, the frequency is presented separately for renal and hepatic transplant patients.
 
 Table 1 Adverse reactions in studies investigating mycophenolate mofetil treatment in adults and adolescents, or through post-marketing surveillance
 
-| Adverse reaction (MedDRA) System Organ Class                             | Renal transplant   | Hepatic transplant   |
-|--------------------------------------------------------------------------|--------------------|----------------------|
-|                                                                          | Frequency          | Frequency            |
-| Infections and infestations                                              |                    |                      |
-| Bacterial infections                                                     | Very Common        | Very Common          |
-| Fungal infections                                                        | Common             | Very Common          |
-| Protozoal infections                                                     | Uncommon           | Uncommon             |
-| Viral infections                                                         | Very Common        | Very Common          |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |                    |                      |
-| Benign neoplasm of skin                                                  | Common             | Common               |
-| Lymphoma                                                                 | Uncommon           | Uncommon             |
-| Lymphoproliferative disorder                                             | Uncommon           | Uncommon             |
-| Neoplasm                                                                 | Common             | Common               |
-| Skin cancer                                                              | Common             | Uncommon             |
-| Blood and lymphatic system disorders                                     |                    |                      |
-| Anaemia                                                                  | Very Common        | Very Common          |
-| Aplasia pure red cell                                                    | Uncommon           | Uncommon             |
-| Bone marrow failure                                                      | Uncommon           | Uncommon             |
-| Ecchymosis                                                               | Common             | Common               |
-| Leukocytosis                                                             | Common             | Very Common          |
-| Leukopenia                                                               | Very Common        | Very Common          |
-| Pancytopenia                                                             | Common             | Common               |
+| Adverse reaction (MedDRA) System Organ Class                             | Renal transplant                                                         | Hepatic transplant                                                       |
+|--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
+|                                                                          | Frequency                                                                | Frequency                                                                |
+| Infections and infestations                                              |                                                                          |                                                                          |
+| Bacterial infections                                                     | Very Common                                                              | Very Common                                                              |
+| Fungal infections                                                        | Common                                                                   | Very Common                                                              |
+| Protozoal infections                                                     | Uncommon                                                                 | Uncommon                                                                 |
+| Viral infections                                                         | Very Common                                                              | Very Common                                                              |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) | Neoplasms benign, malignant and unspecified (including cysts and polyps) | Neoplasms benign, malignant and unspecified (including cysts and polyps) |
+| Benign neoplasm of skin                                                  | Common                                                                   | Common                                                                   |
+| Lymphoma                                                                 | Uncommon                                                                 | Uncommon                                                                 |
+| Lymphoproliferative disorder                                             | Uncommon                                                                 | Uncommon                                                                 |
+| Neoplasm                                                                 | Common                                                                   | Common                                                                   |
+| Skin cancer                                                              | Common                                                                   | Uncommon                                                                 |
+| Blood and lymphatic system disorders                                     |                                                                          |                                                                          |
+| Anaemia                                                                  | Very Common                                                              | Very Common                                                              |
+| Aplasia pure red cell                                                    | Uncommon                                                                 | Uncommon                                                                 |
+| Bone marrow failure                                                      | Uncommon                                                                 | Uncommon                                                                 |
+| Ecchymosis                                                               | Common                                                                   | Common                                                                   |
+| Leukocytosis                                                             | Common                                                                   | Very Common                                                              |
+| Leukopenia                                                               | Very Common                                                              | Very Common                                                              |
+| Pancytopenia                                                             | Common                                                                   | Common                                                                   |
+| Pseudolymphoma                                                           | Uncommon                                                                 | Uncommon                                                                 |
+| Thrombocytopenia                                                         | Common                                                                   | Very Common                                                              |
+| Metabolism and nutrition disorders                                       |                                                                          |                                                                          |
+| Acidosis                                                                 | Common                                                                   | Common                                                                   |
+| Hypercholesterolaemia                                                    | Very Common                                                              | Common                                                                   |
+| Hyperglycaemia                                                           | Common                                                                   | Very Common                                                              |
+| Hyperkalaemia                                                            | Common                                                                   | Very Common                                                              |
+| Hyperlipidaemia                                                          | Common                                                                   | Common                                                                   |
+| Hypocalcaemia                                                            | Common                                                                   | Very Common                                                              |
+| Hypokalaemia                                                             | Common                                                                   | Very Common                                                              |
+| Hypomagnesaemia                                                          | Common                                                                   | Very Common                                                              |
+| Hypophosphataemia                                                        | Very Common                                                              | Very Common                                                              |
 
 <div style=\"page-break-after: always\"></div>
 
 | Adverse reaction (MedDRA)                       | Renal transplant   | Hepatic transplant   |
 |-------------------------------------------------|--------------------|----------------------|
 | System Organ Class                              |                    |                      |
-| Pseudolymphoma                                  | Uncommon           | Uncommon             |
-| Thrombocytopenia                                | Common             | Very Common          |
-| Metabolism and nutrition disorders              |                    |                      |
-| Acidosis                                        | Common             | Common               |
-| Hypercholesterolaemia                           | Very Common        | Common               |
-| Hyperglycaemia                                  | Common             | Very Common          |
-| Hyperkalaemia                                   | Common             | Very Common          |
-| Hyperlipidaemia                                 | Common             | Common               |
-| Hypocalcaemia                                   | Common             | Very Common          |
-| Hypokalaemia                                    | Common             | Very Common          |
-| Hypomagnesaemia                                 | Common             | Very Common          |
-| Hypophosphataemia                               | Very Common        | Very Common          |
 | Hyperuricaemia                                  | Common             | Common               |
 | Gout                                            | Common             | Common               |
 | Weight decreased                                | Common             | Common               |
@@ -1223,12 +1226,6 @@ Table 1 Adverse reactions in studies investigating mycophenolate mofetil treatme
 | Respiratory, thoracic and mediastinal disorders |                    |                      |
 | Bronchiectasis                                  | Uncommon           | Uncommon             |
 | Cough                                           | Very Common        | Very Common          |
-
-<div style=\"page-break-after: always\"></div>
-
-| Adverse reaction (MedDRA)                       | Renal transplant   | Hepatic transplant   |
-|-------------------------------------------------|--------------------|----------------------|
-| System Organ Class                              |                    |                      |
 | Dyspnoea                                        | Very Common        | Very Common          |
 | Interstitial lung disease                       | Uncommon           | Very Rare            |
 | Pleural effusion                                | Common             | Very Common          |
@@ -1241,56 +1238,62 @@ Table 1 Adverse reactions in studies investigating mycophenolate mofetil treatme
 | Decreased appetite                              | Common             | Very Common          |
 | Diarrhoea                                       | Very Common        | Very Common          |
 | Dyspepsia                                       | Very Common        | Very Common          |
-| Esophagitis                                     | Common             | Common               |
-| Eructation                                      | Uncommon           | Uncommon             |
-| Flatulence                                      | Common             | Very Common          |
-| Gastritis                                       | Common             | Common               |
-| Gastrointestinal haemorrhage                    | Common             | Common               |
-| Gastrointestinal ulcer                          | Common             | Common               |
-| Gingival hyperplasia                            | Common             | Common               |
-| Ileus                                           | Common             | Common               |
-| Mouth ulceration                                | Common             | Common               |
-| Nausea                                          | Very Common        | Very Common          |
-| Pancreatitis                                    | Uncommon           | Common               |
-| Stomatitis                                      | Common             | Common               |
-| Vomiting                                        | Very Common        | Very Common          |
-| Immune system disorders                         |                    |                      |
-| Hypersenstivity                                 | Uncommon           | Common               |
-| Hypogammaglobulinaemia                          | Uncommon           | Very Rare            |
-| Hepatobiliary disorders                         |                    |                      |
-| Blood alkaline phosphatase increased            | Common             | Common               |
-| Blood lactate dehydrogenase increased           | Common             | Uncommon             |
-| Hepatic enzyme increased                        | Common             | Very Common          |
-| Hepatitis                                       | Common             | Very Common          |
-| Hyperbilirubinaemia                             | Common             | Very Common          |
-| Jaundice                                        | Uncommon           | Common               |
-| Skin and subcutaneous tissue disorders          |                    |                      |
-| Acne                                            | Common             | Common               |
-| Alopecia                                        | Common             | Common               |
-| Rash                                            | Common             | Very Common          |
-| Skin hypertrophy                                | Common             | Common               |
-| Musculoskeletal and connective tissue disorders |                    |                      |
-| Arthralgia                                      | Common             | Common               |
-| Muscular weakness                               | Common             | Common               |
 
 <div style=\"page-break-after: always\"></div>
 
-| Adverse reaction (MedDRA) System Organ Class                               | Renal transplant                                     | Hepatic transplant                                   |
-|----------------------------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| Renal and urinary disorders                                                |                                                      |                                                      |
-| Blood creatinine increased                                                 | Common                                               | Very Common                                          |
-| Blood urea increased                                                       | Uncommon                                             | Very Common                                          |
-| Haematuria                                                                 | Very Common                                          | Common                                               |
-| Renal impairment                                                           | Common                                               | Very Common                                          |
-| General disorders and administration site conditions                       | General disorders and administration site conditions | General disorders and administration site conditions |
-| Asthenia                                                                   | Very Common                                          | Very Common                                          |
-| Chills                                                                     | Common                                               | Very Common                                          |
-| Oedema                                                                     | Very Common                                          | Very Common                                          |
-| Hernia                                                                     | Common                                               | Very Common                                          |
-| Malaise                                                                    | Common                                               | Common                                               |
-| Pain                                                                       | Common                                               | Very Common                                          |
-| Pyrexia                                                                    | Very Common                                          | Very Common                                          |
-| De novo purine synthesis inhibitors associated acute inflammatory syndrome | Uncommon                                             | Uncommon                                             |
+| Adverse reaction (MedDRA)                            | Renal transplant   | Hepatic transplant   |
+|------------------------------------------------------|--------------------|----------------------|
+| System Organ Class                                   |                    |                      |
+| Esophagitis                                          | Common             | Common               |
+| Eructation                                           | Uncommon           | Uncommon             |
+| Flatulence                                           | Common             | Very Common          |
+| Gastritis                                            | Common             | Common               |
+| Gastrointestinal haemorrhage                         | Common             | Common               |
+| Gastrointestinal ulcer                               | Common             | Common               |
+| Gingival hyperplasia                                 | Common             | Common               |
+| Ileus                                                | Common             | Common               |
+| Mouth ulceration                                     | Common             | Common               |
+| Nausea                                               | Very Common        | Very Common          |
+| Pancreatitis                                         | Uncommon           | Common               |
+| Stomatitis                                           | Common             | Common               |
+| Vomiting                                             | Very Common        | Very Common          |
+| Immune system disorders                              |                    |                      |
+| Hypersenstivity                                      | Uncommon           | Common               |
+| Hypogammaglobulinaemia                               | Uncommon           | Very Rare            |
+| Hepatobiliary disorders                              |                    |                      |
+| Blood alkaline phosphatase increased                 | Common             | Common               |
+| Blood lactate dehydrogenase increased                | Common             | Uncommon             |
+| Hepatic enzyme increased                             | Common             | Very Common          |
+| Hepatitis                                            | Common             | Very Common          |
+| Hyperbilirubinaemia                                  | Common             | Very Common          |
+| Jaundice                                             | Uncommon           | Common               |
+| Skin and subcutaneous tissue disorders               |                    |                      |
+| Acne                                                 | Common             | Common               |
+| Alopecia                                             | Common             | Common               |
+| Rash                                                 | Common             | Very Common          |
+| Skin hypertrophy                                     | Common             | Common               |
+| Musculoskeletal and connective tissue disorders      |                    |                      |
+| Arthralgia                                           | Common             | Common               |
+| Muscular weakness                                    | Common             | Common               |
+| Renal and urinary disorders                          |                    |                      |
+| Blood creatinine increased                           | Common             | Very Common          |
+| Blood urea increased                                 | Uncommon           | Very Common          |
+| Haematuria                                           | Very Common        | Common               |
+| Renal impairment                                     | Common             | Very Common          |
+| General disorders and administration site conditions |                    |                      |
+| Asthenia                                             | Very Common        | Very Common          |
+| Chills                                               | Common             | Very Common          |
+| Oedema                                               | Very Common        | Very Common          |
+| Hernia                                               | Common             | Very Common          |
+| Malaise                                              | Common             | Common               |
+| Pain                                                 | Common             | Very Common          |
+
+<div style=\"page-break-after: always\"></div>
+
+| Adverse reaction (MedDRA) System Organ Class                               | Renal transplant     | Hepatic transplant   |
+|----------------------------------------------------------------------------|----------------------|----------------------|
+| Pyrexia                                                                    |                      | Very Common          |
+| De novo purine synthesis inhibitors associated acute inflammatory syndrome | Very Common Uncommon | Uncommon             |
 
 Adverse reactions attributable to peripheral venous infusion were phlebitis and thrombosis, both observed at 4% in patients treated with CellCept 500 mg powder for concentrate for solution for infusion.
 
@@ -1308,15 +1311,17 @@ All patients treated with immunosuppressants are at increased risk of bacterial,
 
 Cytopenias, including leukopenia, anaemia, thrombocytopenia and pancytopenia, are known risks associated with mycophenolate mofetil and may lead or contribute to the occurrence of infections and haemorrhages (see section 4.4). Agranulocytosis and neutropenia have been reported; therefore, regular monitoring of patients taking mycophenolate mofetil is advised (see section 4.4). There have been reports of aplastic anaemia and bone marrow failure in patients treated with mycophenolate mofetil, some of which have been fatal.
 
-<div style=\"page-break-after: always\"></div>
-
 Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil (see section 4.4).
 
 Isolated cases of abnormal neutrophil morphology, including the acquired Pelger-Huet anomaly, have been observed in patients treated with mycophenolate mofetil. These changes are not associated with impaired neutrophil function. These changes may suggest a 'left shift' in the maturity of neutrophils in haematological investigations, which may be mistakenly interpreted as a sign of infection in immunosuppressed patients such as those that receive mycophenolate mofetil.
 
 ## Gastrointestinal disorders
 
-The most serious gastrointestinal disorders were ulceration and haemorrhage which are known risks associated with mycophenolate mofetil. Mouth, oesophageal, gastric, duodenal, and intestinal ulcers often complicated by haemorrhage, as well as haematemesis, melena, and haemorrhagic forms of gastritis and colitis were commonly reported during the pivotal clinical trials. The most common gastrointestinal disorders, however, were diarrhoea, nausea and vomiting. Endoscopic investigation of patients with mycophenolate mofetil-related diarrhoea have revealed isolated cases of intestinal villous atrophy (see section 4.4).
+The most serious gastrointestinal disorders were ulceration and haemorrhage which are known risks associated with mycophenolate mofetil. Mouth, oesophageal, gastric, duodenal, and intestinal ulcers often complicated by haemorrhage, as well as haematemesis, melena, and haemorrhagic forms of gastritis and colitis were commonly reported during the pivotal clinical trials. The most common gastrointestinal disorders, however, were diarrhoea, nausea and vomiting. Endoscopic investigation of
+
+<div style=\"page-break-after: always\"></div>
+
+patients with mycophenolate mofetil-related diarrhoea have revealed isolated cases of intestinal villous atrophy (see section 4.4).
 
 ## Hypersensitivity
 
@@ -1348,11 +1353,7 @@ De novo purine synthesis inhibitors associated acute inflammatory syndrome has b
 
 ## Elderly
 
-Elderly patients ( ≥ 65 years) may generally be at increased risk of adverse reactions due to immunosuppression. Elderly patients receiving mycophenolate mofetil as part of a combination immunosuppressive regimen may be at increased risk of certain infections (including cytomegalovirus
-
-<div style=\"page-break-after: always\"></div>
-
-tissue invasive disease) and possibly gastrointestinal haemorrhage and pulmonary oedema, compared to younger individuals.
+Elderly patients ( ≥ 65 years) may generally be at increased risk of adverse reactions due to immunosuppression. Elderly patients receiving mycophenolate mofetil as part of a combination immunosuppressive regimen may be at increased risk of certain infections (including cytomegalovirus tissue invasive disease) and possibly gastrointestinal haemorrhage and pulmonary oedema, compared to younger individuals.
 
 ## Reporting of suspected adverse reactions
 
@@ -1361,6 +1362,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 ## 4.9 Overdose
 
 Reports of overdoses with mycophenolate mofetil have been received from clinical trials and during post-marketing experience. In many of these cases, no adverse events were reported. In those overdose cases in which adverse events were reported, the events fall within the known safety profile of the medicinal product.
+
+<div style=\"page-break-after: always\"></div>
 
 It is expected that an overdose of mycophenolate mofetil could possibly result in oversuppression of the immune system and increase susceptibility to infections and bone marrow suppression (see section 4.4). If neutropenia develops, dosing with mycophenolate mofetil should be interrupted or the dose reduced (see section 4.4).
 
@@ -1382,17 +1385,15 @@ Mycophenolate mofetil is the 2-morpholinoethyl ester of MPA. MPA is a selective,
 
 Following intravenous administration, mycophenolate mofetil undergoes rapid and complete metabolism to the active metabolite, MPA. The parent substance mycophenolate mofetil can be measured systemically during intravenous infusion. MPA at clinically relevant concentrations is 97% bound to plasma albumin.
 
-As a result of enterohepatic recirculation, secondary increases in plasma MPA concentration are usually observed at approximately 6 - 12 hours post-dose. A reduction in the AUC of MPA of
-
-<div style=\"page-break-after: always\"></div>
-
-approximately 40% is associated with the co-administration of cholestyramine (4 g TID), indicating that there is a significant amount of enterohepatic recirculation.
+As a result of enterohepatic recirculation, secondary increases in plasma MPA concentration are usually observed at approximately 6 - 12 hours post-dose. A reduction in the AUC of MPA of approximately 40% is associated with the co-administration of cholestyramine (4 g TID), indicating that there is a significant amount of enterohepatic recirculation.
 
 In the early post-transplant period (&lt; 40 days post-transplant), renal, cardiac and hepatic transplant patients had mean MPA AUCs approximately 30% lower and Cmax approximately 40% lower compared to the late post-transplant period (3 - 6 months post-transplant).
 
 ## Biotransformation
 
 MPA is metabolised principally by glucuronyl transferase (isoform UGT1A9) to form the inactive phenolic glucuronide of MPA (MPAG). In vivo , MPAG is converted back to free MPA via enterohepatic recirculation. A minor acylglucuronide (AcMPAG) is also formed. AcMPAG is pharmacologically active and is suspected to be responsible for some of mycophenolate mofetil's side effects (diarrhoea, leukopenia).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Elimination
 
@@ -1412,15 +1413,13 @@ MPA AUC values obtained following administration of 1 g BID intravenous mycophen
 
 ## Renal impairment
 
-In a single dose study (6 subjects/group), mean plasma MPA AUC observed in subjects with severe chronic renal impairment (glomerular filtration rate &lt; 25 ml/min/1.73 m 2 ) were 28 - 75% higher
-
-<div style=\"page-break-after: always\"></div>
-
-relative to the means observed in normal healthy subjects or subjects with lesser degrees of renal impairment. The mean single dose MPAG AUC was 3 - 6 fold higher in subjects with severe renal impairment than in subjects with mild renal impairment or normal healthy subjects, consistent with the known renal elimination of MPAG. Multiple dosing of mycophenolate mofetil in patients with severe chronic renal impairment has not been studied. No data are available for hepatic transplant patients with severe chronic renal impairment.
+In a single dose study (6 subjects/group), mean plasma MPA AUC observed in subjects with severe chronic renal impairment (glomerular filtration rate &lt; 25 ml/min/1.73 m 2 ) were 28 - 75% higher relative to the means observed in normal healthy subjects or subjects with lesser degrees of renal impairment. The mean single dose MPAG AUC was 3 - 6 fold higher in subjects with severe renal impairment than in subjects with mild renal impairment or normal healthy subjects, consistent with the known renal elimination of MPAG. Multiple dosing of mycophenolate mofetil in patients with severe chronic renal impairment has not been studied. No data are available for hepatic transplant patients with severe chronic renal impairment.
 
 ## Delayed renal graft function
 
 In patients with delayed renal graft function post-transplant, mean MPA AUC0-12h was comparable to that seen in post-transplant patients without delayed graft function. Mean plasma MPAG AUC0-12h was 2 - 3-fold higher than in post-transplant patients without delayed graft function. There may be a transient increase in the free fraction and concentration of plasma MPA in patients with delayed renal graft function. Dose adjustment of mycophenolate mofetil does not appear to be necessary.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hepatic impairment
 
@@ -1442,21 +1441,21 @@ Two genotoxicity assays ( in vitro mouse lymphoma assay and in vivo mouse bone m
 
 In teratology studies in rats and rabbits, foetal resorptions and malformations occurred in rats at 6 mg/kg/day (including anophthalmia, agnathia, and hydrocephaly) and in rabbits at 90 mg/kg/day (including cardiovascular and renal anomalies, such as ectopia cordis and ectopic kidneys, and diaphragmatic and umbilical hernia), in the absence of maternal toxicity. The systemic exposure at these levels is approximately equivalent to or less than 0.5 times the clinical exposure at the recommended clinical dose of 2 g/day (see section 4.6).
 
-The haematopoietic and lymphoid systems were the primary organs affected in toxicology studies conducted with mycophenolate mofetil in the rat, mouse, dog and monkey. These effects occurred at systemic exposure levels that are equivalent to or less than the clinical exposure at the recommended dose of 2 g/day. Gastrointestinal effects were observed in the dog at systemic exposure levels
-
-<div style=\"page-break-after: always\"></div>
-
-equivalent to or less than the clinical exposure at the recommended dose. Gastrointestinal and renal effects consistent with dehydration were also observed in the monkey at the highest dose (systemic exposure levels equivalent to or greater than clinical exposure). The non-clinical toxicity profile of mycophenolate mofetil appears to be consistent with adverse events observed in human clinical trials, which now provide safety data of more relevance to the patient population (see section 4.8).
+The haematopoietic and lymphoid systems were the primary organs affected in toxicology studies conducted with mycophenolate mofetil in the rat, mouse, dog and monkey. These effects occurred at systemic exposure levels that are equivalent to or less than the clinical exposure at the recommended dose of 2 g/day. Gastrointestinal effects were observed in the dog at systemic exposure levels equivalent to or less than the clinical exposure at the recommended dose. Gastrointestinal and renal effects consistent with dehydration were also observed in the monkey at the highest dose (systemic exposure levels equivalent to or greater than clinical exposure). The non-clinical toxicity profile of mycophenolate mofetil appears to be consistent with adverse events observed in human clinical trials, which now provide safety data of more relevance to the patient population (see section 4.8).
 
 ## Environmental Risk Assessment (ERA)
 
 Environmental risk assessment studies have shown that the active substance, MPA may pose a risk for groundwater via bank filtration.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-CellCept 500 mg powder for concentrate for solution for infusion polysorbate 80 citric acid hydrochloric acid sodium chloride
+## CellCept 500 mg powder for concentrate for solution for infusion
+
+polysorbate 80 citric acid hydrochloric acid sodium chloride
 
 ## 6.2 Incompatibilities
 
@@ -1466,15 +1465,23 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## 6.3 Shelf-life
 
-Powder for concentrate for solution for infusion: 3 years.
+Powder for concentrate for solution for infusion:
 
-Reconstituted solution and infusion solution: If the infusion solution is not prepared immediately prior to administration, the commencement of administration of the infusion solution should be within 3 hours from reconstitution and dilution of the medicinal product.
+3 years.
+
+Reconstituted solution and infusion solution:
+
+If the infusion solution is not prepared immediately prior to administration, the commencement of administration of the infusion solution should be within 3 hours from reconstitution and dilution of the medicinal product.
 
 ## 6.4 Special precautions for storage
 
-Powder for concentrate for solution for infusion: Do not store above 30 °C.
+Powder for concentrate for solution for infusion:
 
-Reconstituted solution and infusion solution: Store at 15 - 30 °C.
+Do not store above 30 °C.
+
+Reconstituted solution and infusion solution:
+
+Store at 15 - 30 °C.
 
 ## 6.5 Nature and contents of container
 
@@ -1521,7 +1528,7 @@ Date of latest renewal: 13 March 2006
 
 ## 10 DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1549,7 +1556,7 @@ CellCept 1 g/5 ml powder for oral suspension is indicated in combination with ci
 
 Treatment should be initiated and maintained by appropriately qualified transplant specialists.
 
-## Posology
+Posology
 
 ## Adults
 
@@ -1569,9 +1576,9 @@ Treatment of intravenous mycophenolate mofetil should be administered for the fi
 
 The paediatric dosing information in this section applies to all oral formulations within the range of mycophenolate mofetil products, as appropriate. Different oral formulations should not be substituted without clinical supervision.
 
-<div style=\"page-break-after: always\"></div>
-
 The recommended mycophenolate mofetil initial dose for paediatric renal, cardiac and hepatic transplant patients is 600 mg/m 2 (of body surface area (BSA)) administered orally, twice daily (initial total daily dose not to exceed 2 g, or 10 ml of the oral suspension).
+
+<div style=\"page-break-after: always\"></div>
 
 The dose and product form should be individualised based on clinical assessment. If the recommended initial dose is well tolerated but does not achieve clinically adequate immunosuppression in paediatric cardiac and hepatic transplant patients, the dose can be increased to 900 mg/m 2 BSA twice daily (maximum total daily dose of 3 g, or 15 ml of the oral suspension). The recommended maintenance dose for paediatric renal transplant patients remains at 600 mg/m 2 twice daily (maximum total daily dose of 2 g or 10 ml of the oral suspension).
 
@@ -1605,13 +1612,11 @@ A based on the Mosteller formula for body surface area (BSA) calculation:
 
 B Doses above 5 ml to be composed from two draws, of at least 1 ml each. If feasible, switch to the oral solid dosage form for those that are able to swallow.
 
-<div style=\"page-break-after: always\"></div>
-
-## Use in special populations
-
-## Elderly
+## Use in special populations Elderly
 
 The recommended dose of 1 g administered twice a day for renal transplant patients and 1.5 g twice a day for cardiac or hepatic transplant patients is appropriate for the elderly.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -1621,9 +1626,7 @@ In renal transplant patients with severe chronic renal impairment (glomerular fi
 
 No dose adjustments are needed for renal transplant patients with severe hepatic parenchymal disease. No data are available for cardiac transplant patients with severe hepatic parenchymal disease.
 
-## Treatment during rejection episodes
-
-## Adults
+## Treatment during rejection episodes Adults
 
 Mycophenolic acid (MPA) is the active metabolite of mycophenolate mofetil. Renal transplant rejection does not lead to changes in MPA pharmacokinetics; dosage reduction or interruption of treatment is not required. There is no basis for dose adjustment following cardiac transplant rejection. No pharmacokinetic data are available during hepatic transplant rejection.
 
@@ -1649,10 +1652,9 @@ For instruction on reconstitution of the medicinal product before administration
 - Treatment should not be given to women of childbearing potential who are not using highly effective contraception (see section 4.6).
 - Treatment should not be initiated in women of childbearing potential without providing a pregnancy test result to rule out unintended use in pregnancy (see section 4.6).
 - Treatment should not be used in pregnancy unless there is no suitable alternative treatment to prevent transplant rejection (see section 4.6).
+- Treatment should not be given to women who are breastfeeding (see section 4.6).
 
 <div style=\"page-break-after: always\"></div>
-
-- Treatment should not be given to women who are breastfeeding (see section 4.6).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -1670,13 +1672,11 @@ There have been published reports of bronchiectasis in adults and children who r
 
 ## Blood and immune system
 
-Patients receiving mycophenolate mofetil should be monitored for neutropenia, which may be related to the treatment itself, concomitant medications, viral infections, or some combination of these causes. Patients taking mycophenolate mofetil should have complete blood counts weekly during the first month, twice monthly for the second and third months of treatment, then monthly through the first year. If neutropenia develops (absolute neutrophil count &lt; 1.3 x 10 3 /µl), it may be appropriate to interrupt or discontinue mycophenolate mofetil.
+Patients receiving mycophenolate mofetil should be monitored for neutropenia, which may be related to the treatment itself, concomitant medicines, viral infections, or some combination of these causes. Patients taking mycophenolate mofetil should have complete blood counts weekly during the first month, twice monthly for the second and third months of treatment, then monthly through the first year. If neutropenia develops (absolute neutrophil count &lt; 1.3 x 10 3 /µl), it may be appropriate to interrupt or discontinue mycophenolate mofetil.
 
-Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressants. The mechanism for mycophenolate mofetil induced PRCA is unknown. PRCA may resolve with dose reduction or cessation of mycophenolate mofetil therapy. Changes to mycophenolate mofetil therapy should only be undertaken under
+Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressants. The mechanism for mycophenolate mofetil induced PRCA is unknown. PRCA may resolve with dose reduction or cessation of mycophenolate mofetil therapy. Changes to mycophenolate mofetil therapy should only be undertaken under appropriate supervision in transplant recipients in order to minimise the risk of graft rejection (see section 4.8).
 
 <div style=\"page-break-after: always\"></div>
-
-appropriate supervision in transplant recipients in order to minimise the risk of graft rejection (see section 4.8).
 
 Patients receiving mycophenolate mofetil should be instructed to report immediately any evidence of infection, unexpected bruising, bleeding or any other manifestation of bone marrow failure.
 
@@ -1702,7 +1702,7 @@ This medicinal product contains sorbitol. Patients with rare hereditary problems
 
 ## Therapeutic drug monitoring
 
-Therapeutic drug monitoring of MPA may be appropriate when switching combination therapy (e.g. from ciclosporin to tacrolimus or vice versa) or to ensure adequate immunosuppression in patients with high immunological risk (e.g. risk of rejection, treatment with antibiotics, addition or removal of an interacting medication).
+Therapeutic drug monitoring of MPA may be appropriate when switching combination therapy (e.g. from ciclosporin to tacrolimus or vice versa) or to ensure adequate immunosuppression in patients with high immunological risk (e.g. risk of rejection, treatment with antibiotics, addition or removal of an interacting medicine).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1803,7 +1803,7 @@ An increase of MPA exposure (AUC0-∞ ) by 35% was observed with concomitant adm
 
 ## Telmisartan
 
-Concomitant administration of telmisartan and mycophenolate mofetil resulted in an approximately 30% decrease of MPA concentrations. Telmisartan changes MPA's elimination by enhancing PPAR gamma (peroxisome proliferator-activated receptor gamma) expression, which in turn results in an enhanced uridine diphosphate glucuronyltransferase isoform 1A9 (UGT1A9) expression and activity. When comparing rates of transplant rejection, rates of graft loss or adverse event profiles between patients on mycophenolate mofetil with and without concomitant telmisartan medication, no clinical consequences of the pharmacokinetic drug-drug interaction were seen.
+Concomitant administration of telmisartan and mycophenolate mofetil resulted in an approximately 30% decrease of MPA concentrations. Telmisartan changes MPA's elimination by enhancing PPAR gamma (peroxisome proliferator-activated receptor gamma) expression, which in turn results in an enhanced uridine diphosphate glucuronyltransferase isoform 1A9 (UGT1A9) expression and activity. When comparing rates of transplant rejection, rates of graft loss or adverse event profiles between patients on mycophenolate mofetil with and without concomitant telmisartan medicine, no clinical consequences of the pharmacokinetic drug-drug interaction were seen.
 
 ## Ganciclovir
 
@@ -1961,93 +1961,94 @@ Table 2 Adverse reactions in studies investigating mycophenolate mofetil treatme
 
 <div style=\"page-break-after: always\"></div>
 
-| Adverse reaction (MedDRA)             | Renal transplant   | Hepatic transplant   | Cardiac transplant   |
-|---------------------------------------|--------------------|----------------------|----------------------|
-| System Organ Class                    |                    |                      |                      |
-| Anxiety                               | Common             | Very Common          | Very Common          |
-| Thinking abnormal                     | Uncommon           | Common               | Common               |
-| Nervous system disorders              |                    |                      |                      |
-| Dizziness                             | Common             | Very Common          | Very Common          |
-| Headache                              | Very Common        | Very Common          | Very Common          |
-| Hypertonia                            | Common             | Common               | Very Common          |
-| Paresthesia                           | Common             | Very Common          | Very Common          |
-| Somnolence                            | Common             | Common               | Very Common          |
-| Tremor                                | Common             | Very Common          | Very Common          |
-| Convulsion                            | Common             | Common               | Common               |
-| Dysgeusia                             | Uncommon           | Uncommon             | Common               |
-| Cardiac disorders                     |                    |                      |                      |
-| Tachycardia                           | Common             | Very Common          | Very Common          |
-| Vascular disorders                    |                    |                      |                      |
-| Hypertension                          | Very Common        | Very Common          | Very Common          |
-| Hypotension                           | Common             | Very Common          | Very Common          |
-| Lymphocele                            | Uncommon           | Uncommon             | Uncommon             |
-| Venous thrombosis                     | Common             | Common               | Common               |
-| Vasodilatation                        | Common             | Common               | Very Common          |
-| Respiratory, thoracic and mediastinal | disorders          |                      |                      |
-| Bronchiectasis                        | Uncommon           | Uncommon             | Uncommon             |
-| Cough                                 | Very Common        | Very Common          | Very Common          |
-| Dyspnoea                              | Very Common        | Very Common          | Very Common          |
-| Interstitial lung disease             | Uncommon           | Very Rare            | Very Rare            |
-| Pleural effusion                      | Common             | Very Common          | Very Common          |
-| Pulmonary fibrosis                    | Very Rare          | Uncommon             | Uncommon             |
-| Gastrointestinal disorders            |                    |                      |                      |
-| Abdominal distension                  | Common             | Very Common          | Common               |
-| Abdominal pain                        | Very Common        | Very Common          | Very Common          |
-| Colitis                               | Common             | Common               | Common               |
-| Constipation                          | Very Common        | Very Common          | Very Common          |
-| Decreased appetite                    | Common             | Very Common          | Very Common          |
-| Diarrhoea                             | Very Common        | Very Common          | Very Common          |
-| Dyspepsia                             | Very Common        | Very Common          | Very Common          |
-| Esophagitis                           | Common             | Common               | Common               |
-| Eructation                            | Uncommon           | Uncommon             | Common               |
-| Flatulence                            | Common             | Very Common          | Very Common          |
-| Gastritis                             | Common             | Common               | Common               |
-| Gastrointestinal haemorrhage          | Common             | Common               | Common               |
-| Gastrointestinal ulcer                | Common             | Common               | Common               |
-| Gingival hyperplasia                  | Common             | Common               | Common               |
-| Ileus                                 | Common             | Common               | Common               |
+| Adverse reaction (MedDRA)                       | Renal transplant                                | Hepatic transplant   | Cardiac transplant   |
+|-------------------------------------------------|-------------------------------------------------|----------------------|----------------------|
+| System Organ Class                              |                                                 |                      |                      |
+| Anxiety                                         | Common                                          | Very Common          | Very Common          |
+| Thinking abnormal                               | Uncommon                                        | Common               | Common               |
+| Nervous system disorders                        |                                                 |                      |                      |
+| Dizziness                                       | Common                                          | Very Common          | Very Common          |
+| Headache                                        | Very Common                                     | Very Common          | Very Common          |
+| Hypertonia                                      | Common                                          | Common               | Very Common          |
+| Paresthesia                                     | Common                                          | Very Common          | Very Common          |
+| Somnolence                                      | Common                                          | Common               | Very Common          |
+| Tremor                                          | Common                                          | Very Common          | Very Common          |
+| Convulsion                                      | Common                                          | Common               | Common               |
+| Dysgeusia                                       | Uncommon                                        | Uncommon             | Common               |
+| Cardiac disorders                               |                                                 |                      |                      |
+| Tachycardia                                     | Common                                          | Very Common          | Very Common          |
+| Vascular disorders                              |                                                 |                      |                      |
+| Hypertension                                    | Very Common                                     | Very Common          | Very Common          |
+| Hypotension                                     | Common                                          | Very Common          | Very Common          |
+| Lymphocele                                      | Uncommon                                        | Uncommon             | Uncommon             |
+| Venous thrombosis                               | Common                                          | Common               | Common               |
+| Vasodilatation                                  | Common                                          | Common               | Very Common          |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders |                      |                      |
+| Bronchiectasis                                  | Uncommon                                        | Uncommon             | Uncommon             |
+| Cough                                           | Very Common                                     | Very Common          | Very Common          |
+| Dyspnoea                                        | Very Common                                     | Very Common          | Very Common          |
+| Interstitial lung disease                       | Uncommon                                        | Very Rare            | Very Rare            |
+| Pleural effusion                                | Common                                          | Very Common          | Very Common          |
+| Pulmonary fibrosis                              | Very Rare                                       | Uncommon             | Uncommon             |
+| Gastrointestinal disorders                      |                                                 |                      |                      |
+| Abdominal distension                            | Common                                          | Very Common          | Common               |
+| Abdominal pain                                  | Very Common                                     | Very Common          | Very Common          |
+| Colitis                                         | Common                                          | Common               | Common               |
+| Constipation                                    | Very Common                                     | Very Common          | Very Common          |
+| Decreased appetite                              | Common                                          | Very Common          | Very Common          |
+| Diarrhoea                                       | Very Common                                     | Very Common          | Very Common          |
+| Dyspepsia                                       | Very Common                                     | Very Common          | Very Common          |
+| Esophagitis                                     | Common                                          | Common               | Common               |
+| Eructation                                      | Uncommon                                        | Uncommon             | Common               |
+| Flatulence                                      | Common                                          | Very Common          | Very Common          |
+| Gastritis                                       | Common                                          | Common               | Common               |
+| Gastrointestinal haemorrhage                    | Common                                          | Common               | Common               |
+| Gastrointestinal ulcer                          | Common                                          | Common               | Common               |
+| Gingival hyperplasia                            | Common                                          | Common               | Common               |
+| Ileus                                           | Common                                          | Common               | Common               |
 
 <div style=\"page-break-after: always\"></div>
 
-| Adverse reaction (MedDRA) System Organ Class                               | Renal transplant                                     | Hepatic transplant                                   | Cardiac transplant                                   |
-|----------------------------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| Mouth ulceration                                                           | Common                                               | Common                                               | Common                                               |
-| Nausea                                                                     | Very Common                                          | Very Common                                          | Very Common                                          |
-| Pancreatitis                                                               | Uncommon                                             | Common                                               | Uncommon                                             |
-| Stomatitis                                                                 | Common                                               | Common                                               | Common                                               |
-| Vomiting                                                                   | Very Common                                          | Very Common                                          | Very Common                                          |
-| Immune system disorders                                                    |                                                      |                                                      |                                                      |
-| Hypersenstivity                                                            | Uncommon                                             | Common                                               | Common                                               |
-| Hypogammaglobulinaemia                                                     | Uncommon                                             | Very Rare                                            | Very Rare                                            |
-| Hepatobiliary disorders                                                    |                                                      |                                                      |                                                      |
-| Blood alkaline phosphatase increased                                       | Common                                               | Common                                               | Common                                               |
-| Blood lactate dehydrogenase increased                                      | Common                                               | Uncommon                                             | Very Common                                          |
-| Hepatic enzyme increased                                                   | Common                                               | Very Common                                          | Very Common                                          |
-| Hepatitis                                                                  | Common                                               | Very Common                                          | Uncommon                                             |
-| Hyperbilirubinaemia                                                        | Common                                               | Very Common                                          | Very Common                                          |
-| Jaundice                                                                   | Uncommon                                             | Common                                               | Common                                               |
-| Skin and subcutaneous tissue                                               | disorders                                            |                                                      |                                                      |
-| Acne                                                                       | Common                                               | Common                                               | Very Common                                          |
-| Alopecia                                                                   | Common                                               | Common                                               | Common                                               |
-| Rash                                                                       | Common                                               | Very Common                                          | Very Common                                          |
-| Skin hypertrophy                                                           | Common                                               | Common                                               | Very Common                                          |
-| Musculoskeletal and connective tissue disorders                            | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      |
-| Arthralgia                                                                 | Common                                               | Common                                               | Very Common                                          |
-| Muscular weakness                                                          | Common                                               | Common                                               | Very Common                                          |
-| Renal and urinary disorders                                                |                                                      |                                                      |                                                      |
-| Blood creatinine increased                                                 | Common                                               | Very Common                                          | Very Common                                          |
-| Blood urea increased                                                       | Uncommon                                             | Very Common                                          | Very Common                                          |
-| Haematuria                                                                 | Very Common                                          | Common                                               | Common                                               |
-| Renal impairment                                                           | Common                                               | Very Common                                          | Very Common                                          |
-| General disorders and administration site conditions                       | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions |
-| Asthenia                                                                   | Very Common                                          | Very Common                                          | Very Common                                          |
-| Chills                                                                     | Common                                               | Very Common                                          | Very Common                                          |
-| Oedema                                                                     | Very Common                                          | Very Common                                          | Very Common                                          |
-| Hernia                                                                     | Common                                               | Very Common                                          | Very Common                                          |
-| Malaise                                                                    | Common                                               | Common                                               | Common                                               |
-| Pain                                                                       | Common                                               | Very Common                                          | Very Common                                          |
-| Pyrexia                                                                    | Very Common                                          | Very Common                                          | Very Common                                          |
-| De novo purine synthesis inhibitors associated acute inflammatory syndrome | Uncommon                                             | Uncommon                                             | Uncommon                                             |
+| Adverse reaction (MedDRA)                                                  | Renal transplant   | Hepatic transplant   | Cardiac transplant   |
+|----------------------------------------------------------------------------|--------------------|----------------------|----------------------|
+| System Organ Class                                                         |                    |                      |                      |
+| Mouth ulceration                                                           | Common             | Common               | Common               |
+| Nausea                                                                     | Very Common        | Very Common          | Very Common          |
+| Pancreatitis                                                               | Uncommon           | Common               | Uncommon             |
+| Stomatitis                                                                 | Common             | Common               | Common               |
+| Vomiting                                                                   | Very Common        | Very Common          | Very Common          |
+| Immune system disorders                                                    |                    |                      |                      |
+| Hypersenstivity                                                            | Uncommon           | Common               | Common               |
+| Hypogammaglobulinaemia                                                     | Uncommon           | Very Rare            | Very Rare            |
+| Hepatobiliary disorders                                                    |                    |                      |                      |
+| Blood alkaline phosphatase increased                                       | Common             | Common               | Common               |
+| Blood lactate dehydrogenase increased                                      | Common             | Uncommon             | Very Common          |
+| Hepatic enzyme increased                                                   | Common             | Very Common          | Very Common          |
+| Hepatitis                                                                  | Common             | Very Common          | Uncommon             |
+| Hyperbilirubinaemia                                                        | Common             | Very Common          | Very Common          |
+| Jaundice                                                                   | Uncommon           | Common               | Common               |
+| Skin and subcutaneous tissue                                               | disorders          |                      |                      |
+| Acne                                                                       | Common             | Common               | Very Common          |
+| Alopecia                                                                   | Common             | Common               | Common               |
+| Rash                                                                       | Common             | Very Common          | Very Common          |
+| Skin hypertrophy                                                           | Common             | Common               | Very Common          |
+| Musculoskeletal and connective tissue                                      | disorders          |                      |                      |
+| Arthralgia                                                                 | Common             | Common               | Very Common          |
+| Muscular weakness                                                          | Common             | Common               | Very Common          |
+| Renal and urinary disorders                                                |                    |                      |                      |
+| Blood creatinine increased                                                 | Common             | Very Common          | Very Common          |
+| Blood urea increased                                                       | Uncommon           | Very Common          | Very Common          |
+| Haematuria                                                                 | Very Common        | Common               | Common               |
+| Renal impairment                                                           | Common             | Very Common          | Very Common          |
+| General disorders and administration site conditions                       |                    |                      |                      |
+| Asthenia                                                                   | Very Common        | Very Common          | Very Common          |
+| Chills                                                                     | Common             | Very Common          | Very Common          |
+| Oedema                                                                     | Very Common        | Very Common          | Very Common          |
+| Hernia                                                                     | Common             | Very Common          | Very Common          |
+| Malaise                                                                    | Common             | Common               | Common               |
+| Pain                                                                       | Common             | Very Common          | Very Common          |
+| Pyrexia                                                                    | Very Common        | Very Common          | Very Common          |
+| De novo purine synthesis inhibitors associated acute inflammatory syndrome | Uncommon           | Uncommon             | Uncommon             |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2235,28 +2236,27 @@ In adult transplant patients administered the same dosage of mycophenolate mofet
 
 Table 4 Mean computed MPA PK parameters by age and time post-transplant (renal)
 
-| Age group (n)     | AdjustedC max mg/l A mean ± SD   | Adjusted AUC 0-12 h ⋅ mg/l mean ± SD (CI) A   |                             |
-|-------------------|----------------------------------|-----------------------------------------------|-----------------------------|
-| Day 7             |                                  |                                               |                             |
-| <6 y              | (17)                             | 13.2 ± 7.16                                   | 27.4 ± 9.54 (22.8-31.9)     |
-| 6 - <12 y         | (16)                             | 13.1 ± 6.30                                   | 33.2 ± 12.1 (27.3-39.2)     |
-| 12-18 y p-value B | (21)                             | 11.7 ± 10.7 -                                 | 26.3 ± 9.14 (22.3-30.3) D - |
-| < 2 y C           | (6)                              | 10.3 ± 5.80                                   | 22.5 ± 6.68 (17.2-27.8)     |
-| >18 y             | (141)                            |                                               | 27.2 ± 11.6                 |
-| Month 3           |                                  |                                               |                             |
-| < 6 y             | (15)                             | 22.7 ± 10.1                                   | 49.7 ± 18.2                 |
-| 6 - <12 y         | (14) E                           | 27.8 ± 14.3                                   | 61.9 ± 19.6                 |
-| 12-18 y           | (17)                             | 17.9 ± 9.57                                   | 53.6 ± 20.2 F               |
-| p-value B         |                                  | -                                             | -                           |
-| <2 y C            | (4)                              | 23.8 ± 13.4                                   | 47.4 ± 14.7                 |
-| >18 y             | (104)                            |                                               | 50.3 ± 23.1                 |
-| Month 9           |                                  |                                               |                             |
-| <6 y              | (12)                             | 30.4 ± 9.16                                   | 60.9 ± 10.7                 |
-| 6 - <12 y         | (11)                             | 29.2 ± 12.6                                   | 66.8 ± 21.2                 |
-| 12-18 y           | (14)                             | 18.1 ± 7.29                                   | 56.7 ± 14.0                 |
-| p-value B         |                                  | 0.004                                         | -                           |
-| <2 y C            | (4)                              | 25.6 ± 4.25                                   | 55.8 ± 11.6                 |
-| >18 y             | (70)                             |                                               | 53.5 ± 18.3                 |
+| Age group (n)     | Adjusted C max mg/l A mean ± SD   | Adjusted AUC 0-12 h ⋅ mg/l mean ± SD (CI) A   |                             |
+|-------------------|-----------------------------------|-----------------------------------------------|-----------------------------|
+| Day 7             |                                   |                                               |                             |
+| <6 y              | (17)                              | 13.2 ± 7.16                                   | 27.4 ± 9.54 (22.8-31.9)     |
+| 6 - <12 y         | (16)                              | 13.1 ± 6.30                                   | 33.2 ± 12.1 (27.3-39.2)     |
+| 12-18 y p-value B | (21)                              | 11.7 ± 10.7 -                                 | 26.3 ± 9.14 (22.3-30.3) D - |
+| < 2 y C           | (6)                               | 10.3 ± 5.80                                   | 22.5 ± 6.68 (17.2-27.8)     |
+| >18 y             | (141)                             |                                               | 27.2 ± 11.6                 |
+| Month 3           |                                   |                                               |                             |
+| < 6 y             | (15)                              | 22.7 ± 10.1                                   | 49.7 ± 18.2                 |
+| 6 - <12 y         | (14) E                            | 27.8 ± 14.3                                   | 61.9 ± 19.6                 |
+| 12-18 y           | (17)                              | 17.9 ± 9.57                                   | 53.6 ± 20.2 F               |
+| <2 y C            | (4)                               | 23.8 ± 13.4                                   | 47.4 ± 14.7                 |
+| >18 y             | (104)                             |                                               | 50.3 ± 23.1                 |
+| Month 9           |                                   |                                               |                             |
+| <6 y              | (12)                              | 30.4 ± 9.16                                   | 60.9 ± 10.7                 |
+| 6 - <12 y         | (11)                              | 29.2 ± 12.6                                   | 66.8 ± 21.2                 |
+| 12-18 y           | (14)                              | 18.1 ± 7.29                                   | 56.7 ± 14.0                 |
+| p-value B         |                                   | 0.004                                         | -                           |
+| <2 y C            | (4)                               | 25.6 ± 4.25                                   | 55.8 ± 11.6                 |
+| >18 y             | (70)                              |                                               | 53.5 ± 18.3                 |
 
 AUC0-12h = area under the plasma concentration-time curve from time 0 h to time 12 h; CI = confidence interval;
 
@@ -2302,11 +2302,13 @@ Environmental risk assessment studies have shown that the active substance, MPA 
 
 ## 6.1 List of excipients
 
-CellCept 1 g/5 ml powder for oral suspension sorbitol silica, colloidal anhydrous sodium citrate
+## CellCept 1 g/5 ml powder for oral suspension
+
+sorbitol
 
 <div style=\"page-break-after: always\"></div>
 
-soybean lecithin mixed fruit flavour xanthan gum aspartame* (E951) methyl parahydroxybenzoate (E218) citric acid anhydrous
+silica, colloidal anhydrous sodium citrate soybean lecithin mixed fruit flavour xanthan gum aspartame* (E951) methyl parahydroxybenzoate (E218) citric acid anhydrous
 
 * contains phenylalanine equivalent to 2.78 mg/5 ml of suspension.
 
@@ -2338,41 +2340,29 @@ Preparation of suspension
 4. Add the remainder of water and shake the closed bottle well for about 1 minute.
 5. Remove child-resistant cap and push bottle adapter into neck of bottle.
 6. Close bottle with child-resistant cap tightly. This will assure the proper seating of the bottle adapter in the bottle and child-resistant status of the cap.
-7. Write the date of expiration of the reconstituted suspension on the bottle label. (The shelf-life of the reconstituted suspension is two months.)
+7. Write the expiry date of the reconstituted suspension on the bottle label. (The shelf-life of the reconstituted suspension is two months.)
 
 This medicinal product may pose a risk to the environment (see section 5.3). Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Roche Registration GmbH Emil-Barell-Strasse 1
-
 <div style=\"page-break-after: always\"></div>
 
-79639 Grenzach-Wyhlen
+Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
-Germany
-
-8.
-
-MARKETING AUTHORISATION NUMBER(S)
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/96/005/006 CellCept (1 bottle 110 g)
 
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 14 February 1996
 
 Date of latest renewal: 13 March 2006
 
-10.
+## 10. DATE OF REVISION OF THE TEXT
 
-DATE OF REVISION OF THE TEXT
-
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
-
-67
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2402,7 +2392,7 @@ CellCept is indicated in combination with ciclosporin and corticosteroids for th
 
 Treatment should be initiated and maintained by appropriately qualified transplant specialists.
 
-## Posology
+Posology
 
 ## Adults
 
@@ -2422,17 +2412,15 @@ Treatment of intravenous mycophenolate mofetil should be administered for the fi
 
 The paediatric dosing information in this section applies to all oral formulations within the range of mycophenolate mofetil products, as appropriate. Different oral formulations should not be substituted without clinical supervision.
 
-<div style=\"page-break-after: always\"></div>
-
 The recommended mycophenolate mofetil initial dose for paediatric renal, cardiac and hepatic transplant patients is 600 mg/m 2 (of body surface area (BSA)), administered orally, twice daily (initial total daily dose not to exceed 2 g, or 10 ml of the oral suspension).
+
+<div style=\"page-break-after: always\"></div>
 
 The dose and product form should be individualised based on clinical assessment. If the recommended initial dose is well tolerated but does not achieve clinically adequate immunosuppression in paediatric cardiac and hepatic transplant patients, the dose can be increased to 900 mg/m 2 BSA twice daily (maximum total daily dose of 3 g, or 15 ml of the oral suspension). The recommended maintenance dose for paediatric renal transplant patients remains at 600 mg/m 2 twice daily (maximum total daily dose of 2 g or 10 ml of the oral suspension).
 
 The mycophenolate mofetil powder for oral suspension should be used in those patients unable to swallow capsules and tablets and/or with BSA lower than 1.25 m 2 due to the increased risk of choking. Patients with a BSA of 1.25 to 1.5 m 2 may be prescribed mycophenolate mofetil capsules at a dose of 750 mg twice daily (1.5 g daily dose). Patients with a BSA greater than 1.5 m 2 may be prescribed mycophenolate mofetil capsules or tablets at a dose of 1 g twice daily (2 g daily dose). As some adverse reactions occur with greater frequency in this age group (see section 4.8) compared with adults, temporary dose reduction or interruption may be required; these will need to take into account relevant clinical factors including severity of reaction.
 
-## Use in special populations
-
-## Elderly
+## Use in special populations Elderly
 
 The recommended dose of 1 g administered twice a day for renal transplant patients and 1.5 g twice a day for cardiac or hepatic transplant patients is appropriate for the elderly.
 
@@ -2444,9 +2432,7 @@ In renal transplant patients with severe chronic renal impairment (glomerular fi
 
 No dose adjustments are needed for renal transplant patients with severe hepatic parenchymal disease. No data are available for cardiac transplant patients with severe hepatic parenchymal disease.
 
-## Treatment during rejection episodes
-
-## Adults
+## Treatment during rejection episodes Adults
 
 Mycophenolic acid (MPA) is the active metabolite of mycophenolate mofetil. Renal transplant rejection does not lead to changes in MPA pharmacokinetics; dose reduction or interruption of treatment is not required. There is no basis for dose adjustment following cardiac transplant rejection. No pharmacokinetic data are available during hepatic transplant rejection.
 
@@ -2490,7 +2476,7 @@ There have been published reports of bronchiectasis in adults and children who r
 
 ## Blood and immune system
 
-Patients receiving mycophenolate mofetil should be monitored for neutropenia, which may be related to the treatment itself, concomitant medications, viral infections, or some combination of these causes. Patients taking mycophenolate mofetil should have complete blood counts weekly during the first month, twice monthly for the second and third months of treatment, then monthly through the first year. If neutropenia develops (absolute neutrophil count &lt; 1.3 x 10 3 /µl), it may be appropriate to interrupt or discontinue mycophenolate mofetil.
+Patients receiving mycophenolate mofetil should be monitored for neutropenia, which may be related to the treatment itself, concomitant medicines, viral infections, or some combination of these causes. Patients taking mycophenolate mofetil should have complete blood counts weekly during the first month, twice monthly for the second and third months of treatment, then monthly through the first year. If neutropenia develops (absolute neutrophil count &lt; 1.3 x 10 3 /µl), it may be appropriate to interrupt or discontinue mycophenolate mofetil.
 
 Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressants. The mechanism for mycophenolate mofetil induced PRCA is unknown. PRCA may resolve with dose reduction or cessation of mycophenolate mofetil therapy. Changes to mycophenolate mofetil therapy should only be undertaken under appropriate supervision in transplant recipients in order to minimise the risk of graft rejection (see section 4.8).
 
@@ -2514,7 +2500,7 @@ The risk/benefit ratio of mycophenolate mofetil in combination with sirolimus ha
 
 ## Therapeutic drug monitoring
 
-Therapeutic drug monitoring of MPA may be appropriate when switching combination therapy (e.g. from ciclosporin to tacrolimus or vice versa) or to ensure adequate immunosuppression in patients with high immunological risk (e.g. risk of rejection, treatment with antibiotics, addition or removal of an interacting medication).
+Therapeutic drug monitoring of MPA may be appropriate when switching combination therapy (e.g. from ciclosporin to tacrolimus or vice versa) or to ensure adequate immunosuppression in patients with high immunological risk (e.g. risk of rejection, treatment with antibiotics, addition or removal of an interacting medicine).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2609,7 +2595,7 @@ An increase of MPA exposure (AUC0-∞ ) by 35% was observed with concomitant adm
 
 ## Telmisartan
 
-Concomitant administration of telmisartan and mycophenolate mofetil resulted in an approximately 30% decrease of MPA concentrations. Telmisartan changes MPA's elimination by enhancing PPAR gamma (peroxisome proliferator-activated receptor gamma) expression, which in turn results in an enhanced uridine diphosphate glucuronyltransferase isoform 1A9 (UGT1A9) expression and activity. When comparing rates of transplant rejection, rates of graft loss or adverse event profiles between patients on mycophenolate mofetil with and without concomitant telmisartan medication, no clinical consequences of the pharmacokinetic drug-drug interaction were seen.
+Concomitant administration of telmisartan and mycophenolate mofetil resulted in an approximately 30% decrease of MPA concentrations. Telmisartan changes MPA's elimination by enhancing PPAR gamma (peroxisome proliferator-activated receptor gamma) expression, which in turn results in an enhanced uridine diphosphate glucuronyltransferase isoform 1A9 (UGT1A9) expression and activity. When comparing rates of transplant rejection, rates of graft loss or adverse event profiles between patients on mycophenolate mofetil with and without concomitant telmisartan medicine, no clinical consequences of the pharmacokinetic drug-drug interaction were seen.
 
 ## Ganciclovir
 
@@ -2729,9 +2715,9 @@ The adverse reactions from clinical trials and post-marketing experience are lis
 
 <div style=\"page-break-after: always\"></div>
 
-| Adverse reaction (MedDRA) System Organ Class                             | Renal transplant                                                         | Hepatic transplant                                                       | Cardiac transplant                                                       |
+| Adverse reaction (MedDRA)                                                | Renal transplant                                                         | Hepatic transplant                                                       | Cardiac transplant                                                       |
 |--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| Bacterial infections                                                     | Very Common                                                              | Very Common                                                              | Very Common                                                              |
+| System Organ Class Bacterial infections                                  | Very Common                                                              | Very Common                                                              | Very Common                                                              |
 | Fungal infections                                                        | Common                                                                   | Very Common                                                              | Very Common                                                              |
 | Protozoal infections                                                     | Uncommon                                                                 | Uncommon                                                                 | Uncommon                                                                 |
 | Viral infections                                                         | Very Common                                                              | Very Common                                                              | Very Common                                                              |
@@ -2776,9 +2762,9 @@ The adverse reactions from clinical trials and post-marketing experience are lis
 
 <div style=\"page-break-after: always\"></div>
 
-| Adverse reaction (MedDRA) System Organ Class    | Renal transplant                                | Hepatic transplant                              | Cardiac transplant                              |
+| Adverse reaction (MedDRA)                       | Renal transplant                                | Hepatic transplant                              | Cardiac transplant                              |
 |-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-| Headache                                        | Very Common                                     | Very Common                                     | Very Common                                     |
+| System Organ Class Headache                     | Very Common                                     | Very Common                                     | Very Common                                     |
 | Hypertonia                                      | Common                                          | Common                                          | Very Common                                     |
 | Paresthesia                                     | Common                                          | Very Common                                     | Very Common                                     |
 | Somnolence                                      | Common                                          | Common                                          | Very Common                                     |
@@ -3040,34 +3026,33 @@ In adult transplant patients administered the same dosage of mycophenolate mofet
 
 Table 3 Mean computed MPA PK parameters by age and time post-transplant (renal)
 
-| Age group (n)   | Age group (n)   | AdjustedC max mg/l A mean ± SD   | Adjusted AUC 0-12 h ⋅ mg/l mean ± SD (CI) A   |
-|-----------------|-----------------|----------------------------------|-----------------------------------------------|
-| Day 7           |                 |                                  |                                               |
-| <6 y            | (17)            | 13.2 ± 7.16                      | 27.4 ± 9.54 (22.8-31.9)                       |
-| 6 - <12 y       | (16)            | 13.1 ± 6.30                      | 33.2 ± 12.1 (27.3-39.2)                       |
-| 12-18 y         | (21)            | 11.7 ± 10.7                      | 26.3 ± 9.14 (22.3-30.3) D                     |
-| p-value B       |                 | -                                | -                                             |
-| < 2 y C         | (6)             | 10.3 ± 5.80                      | 22.5 ± 6.68 (17.2-27.8)                       |
-| >18 y           | (141)           |                                  | 27.2 ± 11.6                                   |
-| Month 3         |                 |                                  |                                               |
-| < 6 y           | (15)            | 22.7 ± 10.1                      | 49.7 ± 18.2                                   |
-| 6 - <12 y       | (14) E          | 27.8 ± 14.3                      | 61.9 ± 19.6                                   |
-| 12-18 y         | (17)            | 17.9 ± 9.57                      | 53.6 ± 20.2 F                                 |
-| p-value B       |                 | -                                | -                                             |
-| <2 y C          | (4)             | 23.8 ± 13.4                      | 47.4 ± 14.7                                   |
-| >18 y           | (104)           |                                  | 50.3 ± 23.1                                   |
-| Month 9         |                 |                                  |                                               |
-| <6 y            | (12)            | 30.4 ± 9.16                      | 60.9 ± 10.7                                   |
-| 6 - <12 y       | (11)            | 29.2 ± 12.6                      | 66.8 ± 21.2                                   |
+| Age group (n)     | Age group (n)   | Adjusted C max mg/l A mean ± SD   | Adjusted AUC 0-12 h ⋅ mg/l mean ± SD (CI) A   |
+|-------------------|-----------------|-----------------------------------|-----------------------------------------------|
+| Day 7             |                 |                                   |                                               |
+| <6 y              | (17)            | 13.2 ± 7.16                       | 27.4 ± 9.54 (22.8-31.9)                       |
+| 6 - <12 y         | (16)            | 13.1 ± 6.30                       | 33.2 ± 12.1 (27.3-39.2)                       |
+| 12-18 y           | (21)            | 11.7 ± 10.7                       | 26.3 ± 9.14 (22.3-30.3) D -                   |
+| p-value B < 2 y C | (6)             | - 10.3 ± 5.80                     | 22.5 ± 6.68 (17.2-27.8)                       |
+| >18 y             | (141)           |                                   | 27.2 ± 11.6                                   |
+| Month 3           |                 |                                   |                                               |
+| < 6 y             | (15)            | 22.7 ± 10.1                       | 49.7 ± 18.2                                   |
+| 6 - <12 y         | (14) E          | 27.8 ± 14.3                       | 61.9 ± 19.6                                   |
+| 12-18 y           | (17)            | 17.9 ± 9.57                       | 53.6 ± 20.2 F                                 |
+| p-value B         |                 | -                                 | -                                             |
+| <2 y C            | (4)             | 23.8 ± 13.4                       | 47.4 ± 14.7                                   |
+| >18 y             | (104)           |                                   | 50.3 ± 23.1                                   |
+| Month 9           |                 |                                   |                                               |
+| <6 y              | (12)            | 30.4 ± 9.16                       | 60.9 ± 10.7                                   |
+| 6 - <12 y         | (11)            | 29.2 ± 12.6                       | 66.8 ± 21.2                                   |
 
 <div style=\"page-break-after: always\"></div>
 
-| Age group (n)   | Age group (n)   | AdjustedC max mg/l A mean ± SD   | Adjusted AUC 0-12 h ⋅ mg/l mean ± SD (CI) A   |
-|-----------------|-----------------|----------------------------------|-----------------------------------------------|
-| 12-18 y         | (14)            | 18.1 ± 7.29                      | 56.7 ± 14.0                                   |
-| p-value B       |                 | 0.004                            | -                                             |
-| <2 y C          | (4)             | 25.6 ± 4.25                      | 55.8 ± 11.6                                   |
-| >18 y           | (70)            |                                  | 53.5 ± 18.3                                   |
+| Age group (n)   | Age group (n)   | Adjusted C max mg/l A mean ± SD   | Adjusted AUC 0-12 h ⋅ mg/l mean ± SD (CI) A   |
+|-----------------|-----------------|-----------------------------------|-----------------------------------------------|
+| 12-18 y         | (14)            | 18.1 ± 7.29                       | 56.7 ± 14.0                                   |
+| p-value B       |                 | 0.004                             | -                                             |
+| <2 y C          | (4)             | 25.6 ± 4.25                       | 55.8 ± 11.6                                   |
+| >18 y           | (70)            |                                   | 53.5 ± 18.3                                   |
 
 AUC0-12h = area under the plasma concentration-time curve from time 0 h to time 12 h; CI = confidence interval;
 
@@ -3115,9 +3100,13 @@ Environmental risk assessment studies have shown that the active substance, MPA 
 
 ## 6.1 List of excipients
 
-CellCept tablets microcrystalline cellulose polyvidone (K-90) croscarmellose sodium magnesium stearate
+## CellCept tablets
 
-Tablet coating hydroxypropyl methylcellulose hydroxypropyl cellulose titanium dioxide (E171) polyethylene glycol 400 indigo carmine aluminium lake (E132) red iron oxide (E172)
+microcrystalline cellulose polyvidone (K-90) croscarmellose sodium magnesium stearate
+
+## Tablet coating
+
+hydroxypropyl methylcellulose hydroxypropyl cellulose titanium dioxide (E171) polyethylene glycol 400 indigo carmine aluminium lake (E132) red iron oxide (E172)
 
 ## 6.2 Incompatibilities
 
@@ -3133,15 +3122,13 @@ Do not store above 30 °C. Store in the original package in order to protect fro
 
 ## 6.5 Nature and contents of container
 
-PVC/aluminium foil blister strips CellCept 500 mg film-coated tablets: 1 carton contains 50 tablets (in blister packs of 10) multipacks containing 150 (3 packs of 50) tablets
+PVC/aluminium foil blister strips CellCept 500 mg film-coated tablets: 1 carton contains 50 tablets (in blister packs of 10) multipacks containing 150 (3 packs of 50) tablets Not all pack sizes may be marketed.
 
-Not all pack sizes may be marketed.
+<div style=\"page-break-after: always\"></div>
 
 ## 6.6 Special precautions for disposal
 
 This medicinal product may pose a risk to the environment (see section 5.3). Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -3165,7 +3152,9 @@ Date of latest renewal: 13 March 2006
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+88
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3315,46 +3304,39 @@ Do not store above 25 °C
 
 Store in the original package in order to protect from moisture
 
-<div style=\"page-break-after: always\"></div>
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
-
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/96/005/001 100 hard capsules EU/1/96/005/003 300 hard capsules
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 cellcept 250 mg
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|----------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3402,46 +3384,39 @@ Do not store above 25 °C
 
 Store in the original package in order to protect from moisture
 
-<div style=\"page-break-after: always\"></div>
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
-
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/96/005/007
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16. INFORMATION IN BRAILLE   |
-|------------------------------|
+16. INFORMATION IN BRAILLE
 
 cellcept 250 mg
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|----------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3491,8 +3466,7 @@ Store in the original package in order to protect from moisture
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -3512,11 +3486,11 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-| 16. INFORMATION IN BRAILLE   |
-|------------------------------|
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 cellcept 250 mg
 
@@ -3528,17 +3502,17 @@ cellcept 250 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERFOIL                                         |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER FOIL                                          |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 CellCept 250 mg capsules mycophenolate mofetil
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Roche Registration GmbH
 
@@ -3571,13 +3545,11 @@ Each vial contains 500 mg mycophenolate mofetil (as hydrochloride).
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains polysorbate 80, citric acid, hydrochloric acid and sodium chloride.
+Also contains polysorbate 80, citric acid, hydrochloric acid and sodium chloride. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Powder for concentrate for solution for infusion
-
-4 vials
+Powder for concentrate for solution for infusion 4 vials
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -3607,48 +3579,44 @@ Do not store above 30 °C
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/96/005/005
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16. INFORMATION IN BRAILLE   |
-|------------------------------|
+16. INFORMATION IN BRAILLE
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|----------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
+MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+VIAL LABEL
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 CellCept 500 mg powder for concentrate for solution for infusion mycophenolate mofetil For intravenous infusion only
 
@@ -3667,8 +3635,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
@@ -3689,7 +3657,7 @@ Each bottle contains 35 g mycophenolate mofetil in 110 g powder for oral suspens
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains aspartame (E951) and methyl parahydroxybenzoate (E218).
+Also contains aspartame (E951) and methyl parahydroxybenzoate (E218). See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -3717,13 +3685,11 @@ Do not breathe the powder before reconstitution or allow it to touch your skin A
 
 EXP
 
-Shelf life after reconstitution: 2 months
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Do not store above 30 °C
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -3747,15 +3713,16 @@ cellcept 1 g/5 ml
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
+<div style=\"page-break-after: always\"></div>
+
 2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC SN
 
 <div style=\"page-break-after: always\"></div>
 
-NN
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
+
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3773,7 +3740,7 @@ Each bottle contains 35 g mycophenolate mofetil in 110 g powder for oral suspens
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains aspartame (E951) and methyl parahydroxybenzoate (E218).
+Also contains aspartame (E951) and methyl parahydroxybenzoate (E218). See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -3781,9 +3748,7 @@ Powder for oral suspension
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use
-
-For oral use after reconstitution
+Read the package leaflet before use For oral use after reconstitution
 
 Shake bottle well before use
 
@@ -3808,8 +3773,8 @@ Shelf life after reconstitution: 2 months Use before
 
 Do not store above 30 °C
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -3829,17 +3794,17 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-| 16. INFORMATION IN BRAILLE   |
-|------------------------------|
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|----------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3889,8 +3854,7 @@ Store in the original package in order to protect from moisture
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -3910,11 +3874,11 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-| 16. INFORMATION IN BRAILLE   |
-|------------------------------|
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 cellcept 500 mg
 
@@ -3926,13 +3890,15 @@ cellcept 500 mg
 | 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |----------------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON FOR MULTIPACK (INCLUDING BLUE BOX)
+OUTER CARTON FOR MULTIPACK (INCLUDING BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3976,8 +3942,7 @@ Store in the original package in order to protect from moisture
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -3997,11 +3962,11 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-| 16. INFORMATION IN BRAILLE   |
-|------------------------------|
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 cellcept 500 mg
 
@@ -4013,7 +3978,9 @@ cellcept 500 mg
 | 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |----------------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4083,11 +4050,11 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15. INSTRUCTIONS ONUSE   |
-|--------------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-| 16. INFORMATION IN BRAILLE   |
-|------------------------------|
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 cellcept 500 mg
 
@@ -4099,19 +4066,19 @@ cellcept 500 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERFOIL                                         |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER FOIL                                          |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 CellCept 500 mg tablets mycophenolate mofetil
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-Roche Registration GmbH
+Roche (logo)
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -4160,6 +4127,7 @@ mycophenolate mofetil
 
 CellCept contains mycophenolate mofetil:
 
+- •
 - This belongs to a group of medicines called 'immunosuppressants'.
 
 CellCept is used to prevent the body rejecting a transplanted organ in adults and children:
@@ -4177,13 +4145,13 @@ CellCept should be used together with other medicines:
 
 Mycophenolate causes birth defects and miscarriage. If you are a woman who could become pregnant, you must provide a negative pregnancy test before starting treatment and must follow the contraception advice given to you by your doctor.
 
-Your doctor will speak to you and give you written information, particularly on the effects of mycophenolate on unborn babies. Read the information carefully and follow the instructions. If you do not fully understand these instructions, please ask your doctor to explain them again before you take mycophenolate. See also further information in this section under 'Warnings and precautions' and 'Pregnancy and breast-feeding'.
+Your doctor will speak to you and give you written information, particularly on the effects of mycophenolate on unborn babies. Read the information carefully and follow the instructions. If you do not fully understand these instructions, please ask your doctor to explain them again before you take mycophenolate. See also further information in this section under 'Warnings and precautions' ,'Contraception', and 'Pregnancy and breast-feeding'.
 
 ## Do not take CellCept:
 
 - If you are allergic to mycophenolate mofetil, mycophenolic acid or any of the other ingredients of this medicine (listed in section 6).
 - If you are a woman who could be pregnant and you have not provided a negative pregnancy test before your first prescription, as mycophenolate causes birth defects and miscarriage.
-- If you are pregnant or planning to become pregnant or think you may be pregnant
+- If you are pregnant or planning to become pregnant or think you may be pregnant.
 - If you are not using effective contraception (see Contraception, pregnancy and breast-feeding).
 - If you are breast-feeding.
 
@@ -4215,7 +4183,7 @@ CellCept reduces your body's defences. As a result, there is an increased risk o
 
 Children, especially those under 6 years old, may be more likely than adults to have some side effects, including diarrhoea, vomiting, infections, fewer red cells and fewer white cells in the blood, and possibly lymph or skin cancer.
 
-Capsules are only appropriate for children who are capable of swallowing solid medication without the risk of choking. The medicine should therefore only be given in line with the doctor's prescription.
+Capsules are only appropriate for children who are capable of swallowing solid medicine without the risk of choking. The medicine should therefore only be given in line with the doctor's prescription.
 
 If you are not sure about anything for your child's treatment, talk to your doctor or pharmacist before use.
 
@@ -4319,7 +4287,7 @@ The amount you take depends on the type of transplant you have had. The usual do
 
 ## Children
 
-- Capsules are only appropriate for children who are capable of swallowing solid medication without the risk of choking. The medicine should therefore only be given in line with the doctor's prescription. If you are not sure, talk to your doctor or pharmacist before use.
+- Capsules are only appropriate for children who are capable of swallowing solid medicine without the risk of choking. The medicine should therefore only be given in line with the doctor's prescription. If you are not sure, talk to your doctor or pharmacist before use.
 - The dose given will vary depending on the size of the child.
 - Your child's doctor will decide the most appropriate dose based on your child's height and weight (body surface area - measured as square metres or 'm 2 '). The recommended initial dose is 600 mg/m² taken twice a day. The recommended maintenance dose remains at 600 mg/m 2 twice a day (maximum total daily dose of 2 g). The dose should be individualised based on the doctor's clinical assessment.
 
@@ -4335,7 +4303,7 @@ The amount you take depends on the type of transplant you have had. The usual do
 
 ## Children
 
-- Capsules are only appropriate for children who are capable of swallowing solid medication without the risk of choking. The medicine should therefore only be given in line with the doctor's prescription. If you are not sure, talk to your doctor or pharmacist before use.
+- Capsules are only appropriate for children who are capable of swallowing solid medicine without the risk of choking. The medicine should therefore only be given in line with the doctor's prescription. If you are not sure, talk to your doctor or pharmacist before use.
 - The dose given will vary depending on the size of the child.
 - Your child's doctor will decide the most appropriate dose based on your child's height and weight (body surface area - measured as square metres or 'm 2 '). The recommended initial dose is 600 mg/m² taken twice a day. The dose should be individualised based on the doctor's clinical assessment. If well tolerated, the dose can be increased to 900 mg/m 2 twice daily if required (maximum total daily dose of 3 g).
 
@@ -4349,7 +4317,7 @@ The amount you take depends on the type of transplant you have had. The usual do
 
 ## Children
 
-- Capsules are only appropriate for children who are capable of swallowing solid medication without the risk of choking. The medicine should therefore only be given in line with the doctor's prescription. If you are not sure, talk to your doctor or pharmacist before use.
+- Capsules are only appropriate for children who are capable of swallowing solid medicine without the risk of choking. The medicine should therefore only be given in line with the doctor's prescription. If you are not sure, talk to your doctor or pharmacist before use.
 - The dose given will vary depending on the size of the child.
 - Your child's doctor will decide the most appropriate dose based on your child's height and weight (body surface area - measured as square metres or 'm 2 '). The recommended initial dose is 600 mg/m² taken twice a day. The dose should be individualised based on the doctor's clinical assessment. If well tolerated, the dose can be increased to 900 mg/m 2 twice daily if required (maximum total daily dose of 3 g).
 
@@ -4438,7 +4406,7 @@ You may get general side effects affecting your body as a whole. These include s
 
 ## Heart and blood vessel problems such as:
 
-- change in blood pressure, accelerated heartbeat widening of blood vessels.
+- change in blood pressure, accelerated heartbeat, widening of blood vessels.
 
 ## Lung problems such as:
 
@@ -4473,7 +4441,8 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 ## What CellCept contains
 
-- -The active substance is mycophenolate mofetil.
+- -
+- The active substance is mycophenolate mofetil.
 
 Each capsule contains 250 mg mycophenolate mofetil.
 
@@ -4494,21 +4463,17 @@ Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 ## Manufacturer
 
-Roche Pharma AG, Emil-Barell-Strasse 1, 79639 Grenzach Wyhlen, Germany.
+Roche Pharma AG Emil-Barell-Strasse 1 79639 Grenzach Wyhlen Germany
 
-For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder:
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
+## België/Belgique/Belgien, Luxembourg/Luxemburg
 
 N.V. Roche S.A.
 
+België/Belgique/Belgien
+
 Tél/Tel: +32 (0) 2 525 82 11
-
-## Lietuva
-
-UAB 'Roche Lietuva'
-
-Tel: +370 5 2546799
 
 ## България
 
@@ -4516,11 +4481,7 @@ Tel: +370 5 2546799
 
 Тел
 
-: +359 2 818 44 44
-
-## Luxembourg/Luxemburg
-
-(Voir/siehe Belgique/Belgien)
+: +359 2 474 5444
 
 ## Česká republika
 
@@ -4528,21 +4489,11 @@ Roche s. r. o.
 
 Tel: +420 - 2 20382111
 
-## Magyarország
-
-Roche (Magyarország) Kft.
-
-Tel: +36 - 1 279 4500
-
 ## Danmark
 
 Roche Pharmaceuticals A/S
 
 Tlf: +45 - 36 39 99 99
-
-## Malta
-
-(See Ireland)
 
 ## Deutschland
 
@@ -4550,35 +4501,17 @@ Roche Pharma AG
 
 Tel: +49 (0) 7624 140
 
-## Nederland
-
-Roche Nederland B.V.
-
-Tel: +31 (0) 348 438050
-
 ## Eesti
 
 Roche Eesti OÜ
 
 Tel: + 372 - 6 177 380
 
-## Norge
+## Ελλάδα, Kύπρος
 
-Roche Norge AS
-
-Tlf: +47 - 22 78 90 00
-
-## Ελλάδα
-
-Roche (Hellas) A.E.
+Roche (Hellas) A.E. Ελλάδα
 
 Τηλ: +30 210 61 66 100
-
-## Österreich
-
-Roche Austria GmbH
-
-Tel: +43 (0) 1 27739
 
 ## España
 
@@ -4586,23 +4519,11 @@ Roche Farma S.A.
 
 Tel: +34 - 91 324 81 00
 
-## Polska
-
-Roche Polska Sp.z o.o.
-
-Tel: +48 - 22 345 18 88
-
 ## France
 
 Roche
 
 Tél: +33 (0)1 47 61 40 00
-
-## Portugal
-
-Roche Farmacêutica Química, Lda
-
-Tel: +351 - 21 425 70 00
 
 ## Hrvatska
 
@@ -4610,59 +4531,13 @@ Roche d.o.o.
 
 Tel: + 385 1 47 22 333
 
-## România
-
-Roche România S.R.L.
-
-Tel: +40 21 206 47 01
-
-## Ireland
+## Ireland, Malta
 
 Roche Products (Ireland) Ltd.
 
+Ireland/L-Irlanda
+
 Tel: +353 (0) 1 469 0700
-
-## Slovenija
-
-Roche farmacevtska družba d.o.o.
-
-Tel: +386 - 1 360 26 00
-
-## Ísland
-
-Roche Pharmaceuticals A/S c/o Icepharma hf
-
-Sími: +354 540 8000
-
-## Slovenská republika
-
-Roche Slovensko, s.r.o.
-
-Tel: +421 - 2 52638201
-
-## Italia
-
-Roche S.p.A.
-
-Tel: +39 - 039 2471
-
-## Suomi/Finland
-
-Roche Oy
-
-Puh/Tel: +358 (0) 10 554 500
-
-## K ύπρος
-
-Γ . Α . Σταμάτης &amp; Σια Λτδ .
-
-Τηλ: +357 - 22 76 62 76
-
-## Sverige
-
-Roche AB
-
-Tel: +46 (0) 8 726 1200
 
 ## Latvija
 
@@ -4670,27 +4545,101 @@ Roche Latvija SIA
 
 Tel: +371 - 6 7039831
 
-## United Kingdom (Northern Ireland)
+## Lietuva
 
-Roche Products (Ireland) Ltd.
+UAB 'Roche Lietuva'
 
-Tel: +44 (0) 1707 366000
+Tel: +370 5 2546799
+
+## Magyarország
+
+Roche (Magyarország) Kft.
+
+Tel: +36 - 1 279 4500
+
+## Nederland
+
+Roche Nederland B.V.
+
+Tel: +31 (0) 348 438000
+
+## Norge
+
+Roche Norge AS
+
+Tlf: +47 - 22 78 90 00
+
+## Österreich
+
+Roche Austria GmbH
+
+Tel: +43 (0) 1 27739
+
+## Polska
+
+Roche Polska Sp.z o.o.
+
+Tel: +48 - 22 345 18 88
+
+## Portugal
+
+Roche Farmacêutica Química, Lda
+
+Tel: +351 - 21 425 70 00
+
+## România
+
+Roche România S.R.L.
+
+Tel: +40 21 206 47 01
+
+## Slovenija
+
+Roche farmacevtska družba d.o.o.
+
+Tel: +386 - 1 360 26 00
+
+## Slovenská republika
+
+Roche Slovensko, s.r.o.
+
+Tel: +421 - 2 52638201
 
 <div style=\"page-break-after: always\"></div>
+
+## Ísland
+
+Roche Pharmaceuticals A/S c/o Icepharma hf Sími: +354 540 8000
+
+## Italia
+
+Roche S.p.A.
+
+Tel: +39 - 039 2471
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu
+
+## Suomi/Finland
+
+Roche Oy
+
+Puh/Tel: +358 (0) 10 554 500
+
+Sverige
+
+Roche AB
+
+Tel: +46 (0) 8 726 1200
 
 ## Package leaflet: Information for the user
 
 <div style=\"page-break-after: always\"></div>
 
-## CellCept 500 mg powder for concentrate for solution for infusion
-
-## mycophenolate mofetil
+## CellCept 500 mg powder for concentrate for solution for infusion mycophenolate mofetil
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -4715,7 +4664,10 @@ Detailed information on this medicine is available on the European Medicines Age
 
 CellCept contains mycophenolate mofetil:
 
-- This belongs to a group of medicines called 'immunosuppressants'. CellCept is used to prevent the body rejecting a transplanted organ:
+- This belongs to a group of medicines called 'immunosuppressants'.
+
+CellCept is used to prevent the body rejecting a transplanted organ:
+
 - A kidney or liver. CellCept should be used together with other medicines:
 - Ciclosporin and corticosteroids.
 
@@ -4725,14 +4677,14 @@ CellCept contains mycophenolate mofetil:
 
 Mycophenolate causes birth defects and miscarriage. If you are a woman who could become pregnant, you must provide a negative pregnancy test before starting treatment and must follow the contraception advice given to you by your doctor.
 
-Your doctor will speak to you and give you written information, particularly on the effects of mycophenolate on unborn babies. Read the information carefully and follow the instructions. If you do not fully understand these instructions, please ask your doctor to explain them again before you take mycophenolate. See also further information in this section under 'Warnings and precautions' and 'Pregnancy and breast-feeding'.
+Your doctor will speak to you and give you written information, particularly on the effects of mycophenolate on unborn babies. Read the information carefully and follow the instructions. If you do not fully understand these instructions, please ask your doctor to explain them again before you take mycophenolate. See also further information in this section under 'Warnings and precautions', 'Contraception', and 'Pregnancy and breast-feeding'.
 
 ## Do not take CellCept:
 
 - If you are allergic to mycophenolate mofetil, mycophenolic acid, polysorbate 80 or any of the other ingredients in this medicine (listed in section 6)
 - If you are a woman who could be pregnant and you have not provided a negative pregnancy test before your first prescription, as mycophenolate causes birth defects and miscarriage.
-- If you are pregnant or planning to become pregnant or think you may be pregnant
-- If you are not using effective contraception (see Pregnancy, contraception and breast-feeding).
+- If you are pregnant or planning to become pregnant or think you may be pregnant.
+- If you are not using effective contraception (see contraception, pregnancy, and breast-feeding).
 - If you are breast-feeding.
 
 <div style=\"page-break-after: always\"></div>
@@ -4843,7 +4795,7 @@ This medicine contains 25 mg of polysorbate 80 in each vial. Polysorbates may ca
 
 ## CellCept contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
 
 ## 3. How to take CellCept
 
@@ -4982,7 +4934,7 @@ If you get any side effects, talk to your doctor or nurse. This includes any pos
 
 Each vial contains 500 mg mycophenolate mofetil
 
-- -The other ingredients are: polysorbate 80, citric acid, hydrochloric acid, sodium chloride (see section 2 'CellCept contains sodium').
+- -The other ingredients are: polysorbate 80, citric acid, hydrochloric acid, sodium chloride (see section 2 'CellCept contains polysorbate'  and 'CellCept contains sodium').
 
 ## What CellCept looks like and contents of the pack
 
@@ -5018,21 +4970,17 @@ Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 ## Manufacturer
 
-Roche Pharma AG, Emil-Barell-Strasse 1, 79639 Grenzach Wyhlen, Germany.
+Roche Pharma AG Emil-Barell-Strasse 1 79639 Grenzach Wyhlen Germany
 
-For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder:
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
+## België/Belgique/Belgien, Luxembourg/Luxemburg
 
 N.V. Roche S.A.
 
+België/Belgique/Belgien
+
 Tél/Tel: +32 (0) 2 525 82 11
-
-## Lietuva
-
-UAB 'Roche Lietuva'
-
-Tel: +370 5 2546799
 
 ## България
 
@@ -5040,11 +4988,7 @@ Tel: +370 5 2546799
 
 Тел
 
-: +359 2 818 44 44
-
-## Luxembourg/Luxemburg
-
-(Voir/siehe Belgique/Belgien)
+: +359 2 474 5444
 
 ## Česká republika
 
@@ -5052,21 +4996,11 @@ Roche s. r. o.
 
 Tel: +420 - 2 20382111
 
-## Magyarország
-
-Roche (Magyarország) Kft.
-
-Tel: +36 - 1 279 4500
-
 ## Danmark
 
 Roche Pharmaceuticals A/S
 
 Tlf: +45 - 36 39 99 99
-
-## Malta
-
-(See Ireland)
 
 ## Deutschland
 
@@ -5074,119 +5008,19 @@ Roche Pharma AG
 
 Tel: +49 (0) 7624 140
 
-## Nederland
-
-Roche Nederland B.V.
-
-Tel: +31 (0) 348 438050
-
 ## Eesti
 
 Roche Eesti OÜ
 
 Tel: + 372 - 6 177 380
 
-## Norge
+## Ελλάδα, Kύπρος
 
-Roche Norge AS
-
-Tlf: +47 - 22 78 90 00
-
-## Ελλάδα
-
-Roche (Hellas) A.E.
+Roche (Hellas) A.E. Ελλάδα
 
 Τηλ: +30 210 61 66 100
 
-## Österreich
-
-Roche Austria GmbH
-
-Tel: +43 (0) 1 27739
-
 ## España
-
-Roche Farma S.A.
-
-Tel: +34 - 91 324 81 00
-
-## Polska
-
-Roche Polska Sp.z o.o.
-
-Tel: +48 - 22 345 18 88
-
-## France
-
-Roche
-
-Tél: +33 (0)1 47 61 40 00
-
-## Portugal
-
-Roche Farmacêutica Química, Lda
-
-Tel: +351 - 21 425 70 00
-
-## Hrvatska
-
-Roche d.o.o.
-
-Tel: + 385 1 47 22 333
-
-## România
-
-Roche România S.R.L.
-
-Tel: +40 21 206 47 01
-
-## Ireland
-
-Roche Products (Ireland) Ltd.
-
-Tel: +353 (0) 1 469 0700
-
-## Slovenija
-
-Roche farmacevtska družba d.o.o.
-
-Tel: +386 - 1 360 26 00
-
-## Ísland
-
-Roche Pharmaceuticals A/S c/o Icepharma hf
-
-Sími: +354 540 8000
-
-## Slovenská republika
-
-Roche Slovensko, s.r.o.
-
-Tel: +421 - 2 52638201
-
-## Italia
-
-Roche S.p.A.
-
-Tel: +39 - 039 2471
-
-## Suomi/Finland
-
-Roche Oy
-
-Puh/Tel: +358 (0) 10 554 500
-
-## K ύπρος
-
-Γ . Α . Σταμάτης &amp; Σια Λτδ .
-
-Τηλ: +357 - 22 76 62 76
-
-## Sverige
-
-Roche AB
-
-Tel: +46 (0) 8 726 1200
 
 ## Latvija
 
@@ -5194,11 +5028,109 @@ Roche Latvija SIA
 
 Tel: +371 - 6 7039831
 
-## United Kingdom (Northern Ireland)
+## Lietuva
 
-Roche Products (Ireland) Ltd.
+UAB 'Roche Lietuva' Tel: +370 5 2546799
 
-Tel: +44 (0) 1707 366000
+## Magyarország
+
+Roche (Magyarország) Kft. Tel: +36 - 1 279 4500
+
+## Nederland
+
+Roche Nederland B.V.
+
+Tel: +31 (0) 348 438000
+
+## Norge
+
+Roche Norge AS
+
+Tlf: +47 - 22 78 90 00
+
+## Österreich
+
+Roche Austria GmbH
+
+Tel: +43 (0) 1 27739
+
+## Polska
+
+Roche Polska Sp.z o.o.
+
+Tel: +48 - 22 345 18 88
+
+## Portugal
+
+Roche Farma S.A.
+
+Tel: +34 - 91 324 81 00
+
+Roche Farmacêutica Química, Lda
+
+Tel: +351 - 21 425 70 00
+
+## France
+
+Roche
+
+Tél: +33 (0)1 47 61 40 00
+
+## România
+
+Roche România S.R.L.
+
+Tel: +40 21 206 47 01
+
+## Hrvatska
+
+Roche d.o.o.
+
+Tel: + 385 1 47 22 333
+
+## Slovenija
+
+Roche farmacevtska družba d.o.o.
+
+Tel: +386 - 1 360 26 00
+
+## Ireland, Malta
+
+Roche Products (Ireland) Ltd. Ireland/L-Irlanda
+
+Tel: +353 (0) 1 469 0700
+
+## Slovenská republika
+
+Roche Slovensko, s.r.o.
+
+Tel: +421 - 2 52638201
+
+## Ísland
+
+Roche Pharmaceuticals A/S
+
+c/o Icepharma hf
+
+Sími: +354 540 8000
+
+## Suomi/Finland
+
+Roche Oy
+
+Puh/Tel: +358 (0) 10 554 500
+
+## Italia
+
+Roche S.p.A.
+
+Tel: +39 - 039 2471
+
+## Sverige
+
+Roche AB
+
+Tel: +46 (0) 8 726 1200
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5206,11 +5138,11 @@ Tel: +44 (0) 1707 366000
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu
-
-## Package leaflet: Information for the patient
+Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the patient
 
 ## CellCept 1 g/5 ml powder for oral suspension
 
@@ -5220,7 +5152,7 @@ mycophenolate mofetil
 
 - -Keep this leaflet. You may need to read it again.
 - -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their symptoms are the same as yours
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their symptoms are the same as yours.
 - -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet :
@@ -5237,10 +5169,12 @@ mycophenolate mofetil
 
 CellCept contains mycophenolate mofetil:
 
+- •
 - This belongs to a group of medicines called 'immuno-suppressants'.
 
 CellCept is used to prevent the body rejecting a transplanted organ in adults and children:
 
+- •
 - A kidney, heart or liver.
 
 CellCept should be used together with other medicines:
@@ -5255,13 +5189,13 @@ Mycophenolate causes birth defects and miscarriage. If you are a woman who could
 
 Your doctor will speak to you and give you written information, particularly on the effects of mycophenolate on unborn babies. Read the information carefully and follow the instructions.
 
-If you do not fully understand these instructions, please ask your doctor to explain them again before you take mycophenolate. See also further information in this section under 'Warnings and precautions' and 'Pregnancy and breast-feeding'.
+If you do not fully understand these instructions, please ask your doctor to explain them again before you take mycophenolate. See also further information in this section under 'Warnings and precautions', 'Contraception', and 'Pregnancy and breast-feeding'.
 
 ## Do not take CellCept:
 
 - If you are allergic to mycophenolate mofetil, mycophenolic acid or any of the other ingredients in this medicine (listed in section 6).
 - If you are a woman who could be pregnant and you have not provided a negative pregnancy test before your first prescription, as mycophenolate causes birth defects and miscarriage.
-- If you are pregnant or planning to become pregnant or think you may be pregnant
+- If you are pregnant or planning to become pregnant or think you may be pregnant.
 - If you are not using effective contraception (see Contraception, pregnancy, and breast-feeding).
 
 <div style=\"page-break-after: always\"></div>
@@ -5388,7 +5322,7 @@ This medicinal product contains methyl parahydroxybenzoate (E218) which may caus
 
 ## CellCept contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
 
 ## 3. How to take CellCept
 
@@ -5415,7 +5349,7 @@ Adults
 
 ## Heart transplant
 
-## Adults
+Adults
 
 - The first dose is given within 5 days of the transplant operation.
 - The daily dose is 15 ml suspension (3 g of the medicine) taken as 2 separate doses.
@@ -5426,13 +5360,13 @@ Adults
 
 ## Liver transplant
 
-## Adults
+Adults
 
-- The first dose of oral CellCept will be given to you at least 4 days after the transplant operation and when you are able to swallow oral medications.
+- The first dose of oral CellCept will be given to you at least 4 days after the transplant operation and when you are able to swallow oral medicines.
 - The daily dose is 15 ml suspension (3 g of the medicine) taken as 2 separate doses.
 - Take 7.5 ml suspension in the morning and then 7.5 ml suspension in the evening.
 
-## Children (aged 1 to 18 years)
+Children (aged 1 to 18 years)
 
 - The dose given will vary depending on the size of the child.
 - Your child's doctor will decide the most appropriate dose based on your child's height and weight (body surface area - measured as square metres or 'm 2 '). The recommended initial dose is 600 mg/m² taken twice a day. The dose should be individualised based on the doctor's clinical assessment. If well tolerated, the dose can be increased to 900 mg/m 2 twice daily if required (maximum total daily dose of 3 g, or 15 ml of the oral suspension).
@@ -5443,35 +5377,48 @@ The medicine comes as a powder. This needs mixing with purified water before usi
 
 ## Taking the medicine
 
-You need to use the dispenser and bottle adapter supplied with the medicine to measure the dose. Try not to inhale the dry powder. Also, try not to get it on your skin, inside your mouth or nose. Take care not to let the made-up medicine get into your eyes.
+You will need:
+
+- A bottle of prepared oral suspension, with bottle adapter inserted and bottle cap attached.
+- One of the two 5 ml oral dispensers (for multiple use) provided with your medicine pack.
+
+Do not use if the packaging is damaged, or any supplies provided are missing or damaged.
+
+- Contact your doctor or pharmacist if both oral dispensers are missing or damaged (e.g. a dosage marking is no longer clearly visible or it becomes difficult to use). They will advise you on how to continue to take your medicine.
+
+Use and clean the oral dispenser as described in these instructions to avoid any possible contamination. Wash hands before and after use.
+
+Try not to get the suspension on your skin or inside your nose. Take care not to let the made-up medicine get into your eyes.
 
 - If this happens, rinse your eyes with plain water. Take care not to let the made-up medicine get onto your skin.
 - If this happens, wash the area thoroughly with soap and water.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
 1. Shake the closed bottle well for about 5 seconds before each use.
 2. Take off the child safety bottle cap.
 3. Take the dispenser and push the plunger completely down toward the tip of the dispenser.
+4. Then put the tip of the dispenser firmly into the opening of the bottle adapter.
+5. Turn the whole unit upside down (bottle and dispenser - see picture below).
+6. Pull the plunger out slowly.
+- Keep pulling it out until the desired amount of medicine is in the dispenser. Stop at the mark that shows the dose you need.
+7. Turn the whole unit back round the right way.
+- Holding onto the body of the dispenser, carefully pull the dispenser out of the bottle adapter. The bottle adapter should stay in the bottle.
+8. Dispense directly into mouth and ensure all medicine is swallowed.
+- Do not mix the medicine with any other liquid when you swallow it. Close the bottle with the child safety bottle cap after each use.
+- To avoid choking/vomiting, ensure upright body position, place the oral dispenser into the mouth with the tip along either cheek, slowly push the plunger all the way down, and do not squirt forcefully into the back of the throat.
+9. Clean dispenser
+- Immediately after use - take the dispenser to pieces and rinse both parts under running tap water until all residue is removed. If clean tap water is not available, rinse with clean water (e.g. distilled water).
+- Do not sterilise the oral dispenser, or put into boiling water to avoid damage of the dispenser. Do not use solvent-containing wipes for cleaning.
+- Allow it to dry in the air before using it again. Do not use cloths or wipes for drying.
+- For storage, keep dispenser dry and away from sunlight.
+- Do not throw away the oral dispenser as it needs to be used multiple times. Only after its final use, dispose of the oral dispenser according to local requirements.
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-4. Then put the tip of the dispenser firmly into the opening of the bottle adapter.
-5. Turn the whole thing upside down (bottle and dispenser - see picture below).
-6. Pull the plunger out slowly.
-
-<!-- image -->
-
-Keep pulling it out until the desired amount of medicine is in the dispenser.
-
-- 7.
-
-Turn the whole thing back round the right way. Holding onto the body of the dispenser, carefully pull the dispenser out of the bottle adapter. The bottle adapter should stay in the bottle. Put the end of the dispenser directly into your mouth and swallow the medicine. Do not mix the medicine with any other liquid when you swallow it. Close the bottle with the child safety bottle cap after each use.
-
-8. Immediately after use - take the dispenser to pieces and rinse it under running tap water. Allow it to dry in the air before using it again.
-
-Do not boil the oral dispenser. Do not use solvent-containing wipes for cleaning. Do not use cloths or wipes for drying.
-
-Contact your doctor, pharmacist or nurse if both dispensers are lost or damaged, and they will advise you on how to continue to take your medication.
 
 ## If you take more CellCept than you should
 
@@ -5497,8 +5444,6 @@ Like all medicines, CellCept can cause side effects, although not everybody gets
 - you have any unexpected bruising or bleeding
 - you have a rash, swelling of your face, lips, tongue or throat, with difficulty breathing - you may be having a serious allergic reaction to the medicine (such as anaphylaxis, angioeodema).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Usual problems
 
 Some of the more usual problems are diarrhoea, fewer white cells or red cells in your blood, infection and vomiting. Your doctor will do regular blood tests to check for any changes in:
@@ -5519,7 +5464,7 @@ You may get general side effects affecting your body as a whole. These include s
 
 ## Other unwanted effects may include:
 
-## Skin problems such as:
+Skin problems such as:
 
 - acne, cold sores, shingles, skin growth, hair loss, rash, itching.
 
@@ -5533,6 +5478,9 @@ You may get general side effects affecting your body as a whole. These include s
 - inflammation of the pancreas, colon or stomach,
 - gastrointestinal disorders including bleeding,
 - liver disorders,
+
+<div style=\"page-break-after: always\"></div>
+
 - diarrhoea, constipation, feeling sick (nausea), indigestion, loss of appetite, flatulence.
 
 ## Nervous system problems such as:
@@ -5560,8 +5508,6 @@ You may get general side effects affecting your body as a whole. These include s
 
 Children, especially those under 6 years old, may be more likely than adults to have some side effects, including diarrhoea, vomiting, infections, fewer red cells and fewer white cells in the blood, and possibly lymph or skin cancer.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
@@ -5581,7 +5527,11 @@ If you get any side effects, talk to your doctor or nurse. This includes any pos
 
 - -The active substance is mycophenolate mofetil.
 - Each bottle contains 35 g mycophenolate mofetil.
-- -The other ingredients are sorbitol, colloidal anhydrous silica, sodium citrate, soybean lecithin, mixed fruit flavour, xanthan gum, aspartame* (E951), methyl parahydroxybenzoate (E218), citric acid anhydrous. Please also read in section 2 'Important information about some of the ingredients of CellCept' and 'CellCept contains sodium'.
+- -The other ingredients are sorbitol, colloidal anhydrous silica, sodium citrate, soybean lecithin, mixed fruit flavour, xanthan gum, aspartame* (E951), methyl parahydroxybenzoate (E218), citric acid anhydrous. Please also read in section 2
+
+<div style=\"page-break-after: always\"></div>
+
+- 'Important information about some of the ingredients of CellCept', 'CellCept contains methyl parahydroxybenzoate' and 'CellCept contains sodium'.
 * contains phenylalanine equivalent to 2.78 mg/5 ml of suspension.
 
 ## What CellCept looks like and contents of the pack
@@ -5593,9 +5543,7 @@ If you get any side effects, talk to your doctor or nurse. This includes any pos
 
 Your pharmacist will normally make up the medicine for you. If you need to do it yourself, follow the steps below:
 
-Try not to inhale the dry powder. Also try not to get it on your skin, inside your mouth or nose.
-
-Take care not to let the made-up medicine get into your eyes.
+Try not to inhale the dry powder. Also try not to get it on your skin, inside your mouth or nose. Take care not to let the made-up medicine get into your eyes.
 
 - If this happens, rinse your eyes with plain water.
 
@@ -5606,9 +5554,6 @@ Take care not to let the made-up medicine get on your skin.
 2. Measure 94 ml of purified water in a measuring cylinder.
 3. Add about half of the total amount of purified water to the bottle.
 - Then shake the closed bottle well for about 1 minute.
-
-<div style=\"page-break-after: always\"></div>
-
 4. Add the rest of the water.
 - Then shake the closed bottle well for about another minute.
 5. Take off the child safety bottle cap and push the bottle adapter into the neck of the bottle.
@@ -5619,19 +5564,21 @@ Take care not to let the made-up medicine get on your skin.
 
 ## Marketing Authorisation Holder
 
-Roche Registration GmbH
-
-Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
+Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 ## Manufacturer
 
-Roche Pharma AG, Emil-Barell-Strasse 1, 79639 Grenzach Wyhlen, Germany.
+Roche Pharma AG Emil-Barell-Strasse 1 79639 Grenzach Wyhlen Germany
 
-For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder:
+<div style=\"page-break-after: always\"></div>
 
-## België/Belgique/Belgien
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien, Luxembourg/Luxemburg
 
 N.V. Roche S.A.
+
+België/Belgique/Belgien
 
 Tél/Tel: +32 (0) 2 525 82 11
 
@@ -5641,7 +5588,7 @@ Tél/Tel: +32 (0) 2 525 82 11
 
 Тел
 
-: +359 2 818 44 44
+: +359 2 474 5444
 
 ## Česká republika
 
@@ -5667,9 +5614,11 @@ Roche Eesti OÜ
 
 Tel: + 372 - 6 177 380
 
-## Ελλάδα
+## Ελλάδα, Kύπρος
 
 Roche (Hellas) A.E.
+
+Ελλάδα
 
 Τηλ: +30 210 61 66 100
 
@@ -5681,39 +5630,45 @@ Tel: +34 - 91 324 81 00
 
 ## France
 
-Roche
+## Roche
 
 Tél: +33 (0)1 47 61 40 00
 
+## Hrvatska
+
+Roche d.o.o.
+
+Tel: + 385 1 47 22 333
+
+## Ireland, Malta
+
+Roche Products (Ireland) Ltd. Ireland/L-Irlanda
+
+Tel: +353 (0) 1 469 0700
+
+## Latvija
+
+Roche Latvija SIA Tel: +371 - 6 7039831
+
 ## Lietuva
 
-UAB 'Roche Lietuva' Tel: +370 5 2546799
+UAB 'Roche Lietuva'
 
-## Luxembourg/Luxemburg
-
-(Voir/siehe Belgique/Belgien)
+Tel: +370 5 2546799
 
 ## Magyarország
 
-Roche (Magyarország) Kft.
-
-Tel: +36 - 1 279 4500
-
-## Malta
-
-(See Ireland)
+Roche (Magyarország) Kft. Tel: +36 - 1 279 4500
 
 ## Nederland
 
 Roche Nederland B.V.
 
-Tel: +31 (0) 348 438050
+Tel: +31 (0) 348 438000
 
 ## Norge
 
-Roche Norge AS
-
-Tlf: +47 - 22 78 90 00
+Roche Norge AS Tlf: +47 - 22 78 90 00
 
 ## Österreich
 
@@ -5729,15 +5684,7 @@ Tel: +48 - 22 345 18 88
 
 ## Portugal
 
-Roche Farmacêutica Química, Lda
-
-Tel: +351 - 21 425 70 00
-
-## Hrvatska
-
-Roche d.o.o.
-
-Tel: + 385 1 47 22 333
+Roche Farmacêutica Química, Lda Tel: +351 - 21 425 70 00
 
 ## România
 
@@ -5745,25 +5692,9 @@ Roche România S.R.L.
 
 Tel: +40 21 206 47 01
 
-## Ireland
-
-Roche Products (Ireland) Ltd.
-
-Tel: +353 (0) 1 469 0700
-
 ## Slovenija
 
-Roche farmacevtska družba d.o.o.
-
-Tel: +386 - 1 360 26 00
-
-## Ísland
-
-Roche Pharmaceuticals A/S
-
-c/o Icepharma hf
-
-Sími: +354 540 8000
+Roche farmacevtska družba d.o.o. Tel: +386 - 1 360 26 00
 
 ## Slovenská republika
 
@@ -5771,11 +5702,9 @@ Roche Slovensko, s.r.o.
 
 Tel: +421 - 2 52638201
 
-## Italia
+## Ísland
 
-Roche S.p.A.
-
-Tel: +39 - 039 2471
+Roche Pharmaceuticals A/S c/o Icepharma hf Sími: +354 540 8000
 
 ## Suomi/Finland
 
@@ -5783,29 +5712,17 @@ Roche Oy
 
 Puh/Tel: +358 (0) 10 554 500
 
-## K ύπρος
+## Italia
 
-Γ . Α . Σταμάτης &amp; Σια Λτδ .
+Roche S.p.A.
 
-Τηλ: +357 - 22 76 62 76
+Tel: +39 - 039 2471
 
-## Sverige
+Sverige
 
 Roche AB
 
 Tel: +46 (0) 8 726 1200
-
-## Latvija
-
-Roche Latvija SIA
-
-Tel: +371 - 6 7039831
-
-## United Kingdom (Northern Ireland)
-
-Roche Products (Ireland) Ltd.
-
-Tel: +44 (0) 1707 366000
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5813,7 +5730,7 @@ Tel: +44 (0) 1707 366000
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5846,7 +5763,6 @@ CellCept contains mycophenolate mofetil:
 
 CellCept is used to prevent the body rejecting a transplanted organ in adults and children:
 
-- •
 - A kidney, heart or liver.
 
 CellCept should be used together with other medicines:
@@ -5861,13 +5777,13 @@ Mycophenolate causes birth defects and miscarriage. If you are a woman who could
 
 Your doctor will speak to you and give you written information, particularly on the effects of mycophenolate on unborn babies. Read the information carefully and follow the instructions.
 
-If you do not fully understand these instructions, please ask your doctor to explain them again before you take mycophenolate. See also further information in this section under 'Warnings and precautions' and 'Pregnancy and breast-feeding'.
+If you do not fully understand these instructions, please ask your doctor to explain them again before you take mycophenolate. See also further information in this section under 'Warnings and precautions', 'Contraception', 'Pregnancy and breast-feeding'.
 
 ## Do not take CellCept:
 
 - If you are allergic to mycophenolate mofetil, mycophenolic acid or any of the other ingredients in this medicine (listed in section 6)
 - If you are a woman who could be pregnant and you have not provided a negative pregnancy test before your first prescription, as mycophenolate causes birth defects and miscarriage.
-- If you are pregnant or planning to become pregnant or think you may be pregnant
+- If you are pregnant or planning to become pregnant or think you may be pregnant.
 - If you are not using effective contraception (see Contraception, pregnancy and breast-feeding).
 - If you are breast-feeding.
 
@@ -5899,7 +5815,7 @@ CellCept reduces your body's defences. As a result, there is an increased risk o
 
 Children, especially those under 6 years old, may be more likely than adults to have some side effects, including diarrhoea, vomiting, infections, fewer red cells and fewer white cells in the blood, and possibly lymph or skin cancer.
 
-Tablets are only appropriate for children who are capable of swallowing solid medication without the risk of choking. The medicine should therefore only be given in line with the doctor's prescription.
+Tablets are only appropriate for children who are capable of swallowing solid medicine without the risk of choking. The medicine should therefore only be given in line with the doctor's prescription.
 
 If you are not sure about anything for your child's treatment, talk to your doctor or pharmacist before use.
 
@@ -5985,7 +5901,7 @@ CellCept has a moderate influence on your ability to drive or use any tools or m
 
 ## CellCept contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodiumfree'.
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
 
 ## 3. How to take CellCept
 
@@ -6005,7 +5921,7 @@ The amount you take depends on the type of transplant you have had. The usual do
 
 ## Children
 
-- Tablets are only appropriate for children who are capable of swallowing solid medication without the risk of choking. The medicine should therefore only be given in line with the doctor's prescription. If you are not sure, talk to your doctor or pharmacist before use.
+- Tablets are only appropriate for children who are capable of swallowing solid medicine without the risk of choking. The medicine should therefore only be given in line with the doctor's prescription. If you are not sure, talk to your doctor or pharmacist before use.
 - The dose given will vary depending on the size of the child.
 - Your child's doctor will decide the most appropriate dose based on your child's height and weight (body surface area - measured as square metres or 'm 2 '). The recommended initial dose is 600 mg/m 2 taken twice a day. The recommended maintenance dose remains at 600 mg/m 2 twice a day (maximum total daily dose of 2 g). The dose should be individualised based on the doctor's clinical assessment.
 
@@ -6019,7 +5935,7 @@ The amount you take depends on the type of transplant you have had. The usual do
 
 ## Children
 
-- Tablets are only appropriate for children who are capable of swallowing solid medication without the risk of choking. The medicine should therefore only be given in line with the doctor's prescription. If you are not sure, talk to your doctor or pharmacist before use.
+- Tablets are only appropriate for children who are capable of swallowing solid medicine without the risk of choking. The medicine should therefore only be given in line with the doctor's prescription. If you are not sure, talk to your doctor or pharmacist before use.
 - The dose given will vary depending on the size of the child.
 
 <div style=\"page-break-after: always\"></div>
@@ -6028,7 +5944,7 @@ The amount you take depends on the type of transplant you have had. The usual do
 
 ## Liver transplant
 
-## Adults
+Adults
 
 - The first dose of oral CellCept will be given to you at least 4 days after the transplant operation and when you are able to swallow oral medicines.
 - The daily dose is 6 tablets (3 g of the medicine) taken as 2 separate doses.
@@ -6036,7 +5952,7 @@ The amount you take depends on the type of transplant you have had. The usual do
 
 ## Children
 
-- Tablets are only appropriate for children who are capable of swallowing solid medication without the risk of choking. The medicine should therefore only be given in line with the doctor's prescription. If you are not sure, talk to your doctor or pharmacist before use.
+- Tablets are only appropriate for children who are capable of swallowing solid medicine without the risk of choking. The medicine should therefore only be given in line with the doctor's prescription. If you are not sure, talk to your doctor or pharmacist before use.
 - The dose given will vary depending on the size of the child.
 - Your child's doctor will decide the most appropriate dose based on your child's height and weight (body surface area - measured as square metres or 'm 2 '). The recommended initial dose is 600 mg/m² taken twice a day. The dose should be individualised based on the doctor's clinical assessment. If well tolerated, the dose can be increased to 900 mg/m 2 twice daily if required (maximum total daily dose of 3 g).
 
@@ -6093,7 +6009,7 @@ You may get general side effects affecting your body as a whole. These include s
 
 ## Skin problems such as:
 
-- acne, cold sores, shingles, skin growth hair loss, rash, itching.
+- acne, cold sores, shingles, skin growth, hair loss, rash, itching.
 
 ## Urinary problems such as:
 
@@ -6166,15 +6082,17 @@ Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 ## Manufacturer
 
-Roche Pharma AG, Emil-Barell-Strasse 1, 79639 Grenzach Wyhlen, Germany.
+Roche Pharma AG Emil-Barell-Strasse 1 79639 Grenzach Wyhlen Germany
 
 <div style=\"page-break-after: always\"></div>
 
-For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder:
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
+## België/Belgique/Belgien, Luxembourg/Luxemburg
 
 N.V. Roche S.A.
+
+België/Belgique/Belgien
 
 Tél/Tel: +32 (0) 2 525 82 11
 
@@ -6184,7 +6102,7 @@ Tél/Tel: +32 (0) 2 525 82 11
 
 Тел
 
-: +359 2 818 44 44
+: +359 2 474 5444
 
 ## Česká republika
 
@@ -6210,9 +6128,11 @@ Roche Eesti OÜ
 
 Tel: + 372 - 6 177 380
 
-## Ελλάδα
+## Ελλάδα, Kύπρος
 
 Roche (Hellas) A.E.
+
+Ελλάδα
 
 Τηλ: +30 210 61 66 100
 
@@ -6224,7 +6144,7 @@ Tel: +34 - 91 324 81 00
 
 ## France
 
-Roche
+## Roche
 
 Tél: +33 (0)1 47 61 40 00
 
@@ -6234,21 +6154,19 @@ Roche d.o.o.
 
 Tel: + 385 1 47 22 333
 
-## Ireland
+## Ireland, Malta
 
-Roche Products (Ireland) Ltd.
+Roche Products (Ireland) Ltd. Ireland/L-Irlanda
 
 Tel: +353 (0) 1 469 0700
 
+## Latvija
+
+Roche Latvija SIA Tel: +371 - 6 7039831
+
 ## Lietuva
 
-UAB 'Roche Lietuva'
-
-Tel: +370 5 2546799
-
-## Luxembourg/Luxemburg
-
-(Voir/siehe Belgique/Belgien)
+UAB 'Roche Lietuva' Tel: +370 5 2546799
 
 ## Magyarország
 
@@ -6256,21 +6174,15 @@ Roche (Magyarország) Kft.
 
 Tel: +36 - 1 279 4500
 
-## Malta
-
-(See Ireland)
-
 ## Nederland
 
 Roche Nederland B.V.
 
-Tel: +31 (0) 348 438050
+Tel: +31 (0) 348 438000
 
 ## Norge
 
-Roche Norge AS
-
-Tlf: +47 - 22 78 90 00
+Roche Norge AS Tlf: +47 - 22 78 90 00
 
 ## Österreich
 
@@ -6286,9 +6198,7 @@ Tel: +48 - 22 345 18 88
 
 ## Portugal
 
-Roche Farmacêutica Química, Lda
-
-Tel: +351 - 21 425 70 00
+Roche Farmacêutica Química, Lda Tel: +351 - 21 425 70 00
 
 ## România
 
@@ -6298,15 +6208,7 @@ Tel: +40 21 206 47 01
 
 ## Slovenija
 
-Roche farmacevtska družba d.o.o.
-
-Tel: +386 - 1 360 26 00
-
-## Ísland
-
-Roche Pharmaceuticals A/S c/o Icepharma hf
-
-Sími: +354 540 8000
+Roche farmacevtska družba d.o.o. Tel: +386 - 1 360 26 00
 
 ## Slovenská republika
 
@@ -6314,11 +6216,25 @@ Roche Slovensko, s.r.o.
 
 Tel: +421 - 2 52638201
 
+<div style=\"page-break-after: always\"></div>
+
+## Ísland
+
+Roche Pharmaceuticals A/S c/o Icepharma hf Sími: +354 540 8000
+
 ## Italia
 
 Roche S.p.A.
 
 Tel: +39 - 039 2471
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency website:
+
+https://www.ema.europa.eu
 
 ## Suomi/Finland
 
@@ -6326,34 +6242,8 @@ Roche Oy
 
 Puh/Tel: +358 (0) 10 554 500
 
-## K ύπρος
-
-Γ . Α . Σταμάτης &amp; Σια Λτδ .
-
-Τηλ: +357 - 22 76 62 76
-
-## Sverige
+Sverige
 
 Roche AB
 
 Tel: +46 (0) 8 726 1200
-
-## Latvija
-
-Roche Latvija SIA
-
-Tel: +371 - 6 7039831
-
-## United Kingdom (Northern Ireland)
-
-Roche Products (Ireland) Ltd.
-
-Tel: +44 (0) 1707 366000
-
-<div style=\"page-break-after: always\"></div>
-
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu

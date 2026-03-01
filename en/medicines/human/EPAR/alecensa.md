@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 12:25:08
+document_datetime: 2026-02-27 12:53:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/alecensa.html
 document_name: alecensa.html
 version: success
-processing_time: 0.1176458
-conversion_datetime: 2025-12-31 02:00:44.539468
+processing_time: 0.1204132
+conversion_datetime: 2026-03-01 20:24:02.637634
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Alecensa
 
 [RSS](/en/individual-human-medicine.xml/66425)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 alectinib Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -38,6 +36,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Alecensa](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-83802)
 - [More information on Alecensa](#related-medicines)
 - [Topics](#topics)
 
@@ -124,7 +123,7 @@ English (EN) (132.22 KB - PDF)
 
 [View](/en/documents/overview/alecensa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-883)
+[Other languages (22)](#file-language-dropdown-338)
 
 български (BG) (168.19 KB - PDF)
 
@@ -402,17 +401,17 @@ English (EN) (1.15 MB - PDF)
 
 Alecensa : EPAR - Product Information
 
-English (EN) (548.13 KB - PDF)
+English (EN) (262.59 KB - PDF)
 
 **First published:** 11/04/2017
 
-**Last updated:** 12/11/2024
+**Last updated:** 27/02/2026
 
 [View](/en/documents/product-information/alecensa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-464)
+[Other languages (24)](#file-language-dropdown-854)
 
-български (BG) (564.71 KB - PDF)
+български (BG) (626.02 KB - PDF)
 
 **First published:**
 
@@ -420,11 +419,11 @@ English (EN) (548.13 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/bg/documents/product-information/alecensa-epar-product-information_bg.pdf)
 
-español (ES) (533.72 KB - PDF)
+español (ES) (435.6 KB - PDF)
 
 **First published:**
 
@@ -432,11 +431,11 @@ español (ES) (533.72 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/es/documents/product-information/alecensa-epar-product-information_es.pdf)
 
-čeština (CS) (551.76 KB - PDF)
+čeština (CS) (551.17 KB - PDF)
 
 **First published:**
 
@@ -444,11 +443,11 @@ español (ES) (533.72 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/cs/documents/product-information/alecensa-epar-product-information_cs.pdf)
 
-dansk (DA) (434.39 KB - PDF)
+dansk (DA) (450.61 KB - PDF)
 
 **First published:**
 
@@ -456,11 +455,11 @@ dansk (DA) (434.39 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/da/documents/product-information/alecensa-epar-product-information_da.pdf)
 
-Deutsch (DE) (529.18 KB - PDF)
+Deutsch (DE) (560.24 KB - PDF)
 
 **First published:**
 
@@ -468,11 +467,11 @@ Deutsch (DE) (529.18 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/de/documents/product-information/alecensa-epar-product-information_de.pdf)
 
-eesti keel (ET) (448.79 KB - PDF)
+eesti keel (ET) (463.72 KB - PDF)
 
 **First published:**
 
@@ -480,11 +479,11 @@ eesti keel (ET) (448.79 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/et/documents/product-information/alecensa-epar-product-information_et.pdf)
 
-ελληνικά (EL) (653.17 KB - PDF)
+ελληνικά (EL) (686.32 KB - PDF)
 
 **First published:**
 
@@ -492,11 +491,11 @@ eesti keel (ET) (448.79 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/el/documents/product-information/alecensa-epar-product-information_el.pdf)
 
-français (FR) (479.14 KB - PDF)
+français (FR) (488.16 KB - PDF)
 
 **First published:**
 
@@ -504,11 +503,11 @@ français (FR) (479.14 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/fr/documents/product-information/alecensa-epar-product-information_fr.pdf)
 
-hrvatski (HR) (553.49 KB - PDF)
+hrvatski (HR) (569.27 KB - PDF)
 
 **First published:**
 
@@ -516,11 +515,11 @@ hrvatski (HR) (553.49 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/hr/documents/product-information/alecensa-epar-product-information_hr.pdf)
 
-íslenska (IS) (684.86 KB - PDF)
+íslenska (IS) (693.49 KB - PDF)
 
 **First published:**
 
@@ -528,11 +527,11 @@ hrvatski (HR) (553.49 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/is/documents/product-information/alecensa-epar-product-information_is.pdf)
 
-italiano (IT) (476.93 KB - PDF)
+italiano (IT) (513.86 KB - PDF)
 
 **First published:**
 
@@ -540,11 +539,11 @@ italiano (IT) (476.93 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/it/documents/product-information/alecensa-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (892.86 KB - PDF)
+latviešu valoda (LV) (788.06 KB - PDF)
 
 **First published:**
 
@@ -552,11 +551,11 @@ latviešu valoda (LV) (892.86 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/lv/documents/product-information/alecensa-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (656.43 KB - PDF)
+lietuvių kalba (LT) (693.12 KB - PDF)
 
 **First published:**
 
@@ -564,11 +563,11 @@ lietuvių kalba (LT) (656.43 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/lt/documents/product-information/alecensa-epar-product-information_lt.pdf)
 
-magyar (HU) (532.75 KB - PDF)
+magyar (HU) (542.29 KB - PDF)
 
 **First published:**
 
@@ -576,11 +575,11 @@ magyar (HU) (532.75 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/hu/documents/product-information/alecensa-epar-product-information_hu.pdf)
 
-Malti (MT) (670.84 KB - PDF)
+Malti (MT) (707.86 KB - PDF)
 
 **First published:**
 
@@ -588,11 +587,11 @@ Malti (MT) (670.84 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/mt/documents/product-information/alecensa-epar-product-information_mt.pdf)
 
-Nederlands (NL) (455.91 KB - PDF)
+Nederlands (NL) (503.58 KB - PDF)
 
 **First published:**
 
@@ -600,11 +599,11 @@ Nederlands (NL) (455.91 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/nl/documents/product-information/alecensa-epar-product-information_nl.pdf)
 
-norsk (NO) (442.21 KB - PDF)
+norsk (NO) (450.75 KB - PDF)
 
 **First published:**
 
@@ -612,11 +611,11 @@ norsk (NO) (442.21 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/no/documents/product-information/alecensa-epar-product-information_no.pdf)
 
-polski (PL) (537.77 KB - PDF)
+polski (PL) (579.95 KB - PDF)
 
 **First published:**
 
@@ -624,11 +623,11 @@ polski (PL) (537.77 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/pl/documents/product-information/alecensa-epar-product-information_pl.pdf)
 
-português (PT) (625.31 KB - PDF)
+português (PT) (469.72 KB - PDF)
 
 **First published:**
 
@@ -636,11 +635,11 @@ português (PT) (625.31 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/pt/documents/product-information/alecensa-epar-product-information_pt.pdf)
 
-română (RO) (638.74 KB - PDF)
+română (RO) (660.07 KB - PDF)
 
 **First published:**
 
@@ -648,11 +647,11 @@ română (RO) (638.74 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/ro/documents/product-information/alecensa-epar-product-information_ro.pdf)
 
-slovenčina (SK) (549.47 KB - PDF)
+slovenčina (SK) (581.75 KB - PDF)
 
 **First published:**
 
@@ -660,11 +659,11 @@ slovenčina (SK) (549.47 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/sk/documents/product-information/alecensa-epar-product-information_sk.pdf)
 
-slovenščina (SL) (565.73 KB - PDF)
+slovenščina (SL) (578.81 KB - PDF)
 
 **First published:**
 
@@ -672,11 +671,11 @@ slovenščina (SL) (565.73 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/sl/documents/product-information/alecensa-epar-product-information_sl.pdf)
 
-Suomi (FI) (434.56 KB - PDF)
+Suomi (FI) (447.1 KB - PDF)
 
 **First published:**
 
@@ -684,11 +683,11 @@ Suomi (FI) (434.56 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/fi/documents/product-information/alecensa-epar-product-information_fi.pdf)
 
-svenska (SV) (444.71 KB - PDF)
+svenska (SV) (460.03 KB - PDF)
 
 **First published:**
 
@@ -696,11 +695,11 @@ svenska (SV) (444.71 KB - PDF)
 
 **Last updated:**
 
-12/11/2024
+27/02/2026
 
 [View](/sv/documents/product-information/alecensa-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0048 17/10/2024
+**Latest procedure affecting product information:** VR/0000313101 29/01/2026
 
 icon globe
 
@@ -726,7 +725,7 @@ English (EN) (20.25 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/alecensa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-50)
+[Other languages (24)](#file-language-dropdown-263)
 
 български (BG) (37.06 KB - PDF)
 
@@ -1042,7 +1041,7 @@ Roche Registration GmbH
 
 Emil-Barell-Strasse 1
 
-Opinion adopted 15/12/2016 Marketing authorisation issued 16/02/2017 Revision 16
+Opinion adopted 15/12/2016 Marketing authorisation issued 16/02/2017 Revision 17
 
 ## Assessment history
 
@@ -1054,13 +1053,21 @@ Collapse section
 
 Alecensa : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (155.33 KB - PDF)
+
+**First published:** 27/02/2026
+
+[View](/en/documents/procedural-steps-after/alecensa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Alecensa : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (296.61 KB - PDF)
 
 **First published:** 16/05/2017
 
-**Last updated:** 12/11/2024
+**Last updated:** 27/02/2026
 
-[View](/en/documents/procedural-steps-after/alecensa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/alecensa-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Alecensa-H-C-004164-II-0047 : EPAR - Assessment report - Variation
 
@@ -1146,7 +1153,7 @@ English (EN) (106.79 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-alecensa_en.pdf)
 
-#### News on Alecensa
+## News on Alecensa
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2024) 26/04/2024
 
@@ -1154,16 +1161,222 @@ English (EN) (106.79 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 December 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-december-2016) 16/12/2016
 
-#### More information on Alecensa
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Alecensa : EPAR - Product information - tracked changes
+
+English (EN) (526.87 KB - DOCX)
+
+**First published:** 27/02/2026
+
+[View](/en/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-403)
+
+български (BG) (401.55 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/bg/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (3.42 MB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/es/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (338.75 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/cs/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (429.51 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/da/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (433.97 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/de/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (384.96 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/et/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (475.34 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/el/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (331.18 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/fr/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (338.02 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/hr/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (587.71 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/is/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (520.69 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/it/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (747.88 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/lv/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (385.62 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/lt/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (308.27 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/hu/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (392.32 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/mt/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (331.64 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/nl/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (349.61 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/no/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (446.5 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/pl/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (424.34 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/pt/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (452.75 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/ro/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (377.31 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/sk/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (407.25 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/sl/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (287.28 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/fi/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (312.74 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/sv/documents/product-information-tracked-changes/alecensa-epar-product-information-tracked-changes_sv.docx)
+
+## More information on Alecensa
 
 - [EMEA-002431-PIP01-18 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002431-pip01-18)
 - [EMEA-002431-PIP02-21 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002431-pip02-21)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 12/11/2024
+**This page was last updated on** 27/02/2026
 
 ## Share this page
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-08-29 12:13:58
+document_datetime: 2026-02-27 11:54:46
 document_pages: 44
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/jeraygo-epar-product-information_en.pdf
 document_name: jeraygo-epar-product-information_en.pdf
 version: success
-processing_time: 11.0729594
-conversion_datetime: 2025-12-28 17:30:25.549654
+processing_time: 10.9738919
+conversion_datetime: 2026-03-01 20:28:21.652004
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -112,11 +112,11 @@ The film-coated tablets are not scored and are designed to be swallowed whole.
 
 ## 4.3 Contraindications
 
--  Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
--  Pregnancy (see section 4.6).
--  Women of childbearing potential who are not using reliable contraception (see sections 4.4 and 4.6).
--  Breast-feeding (see section 4.6).
--  Patients with severe hepatic impairment (Child-Pugh class C; with or without cirrhosis) (see section 4.4).
+- Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+- Pregnancy (see section 4.6).
+- Women of childbearing potential who are not using reliable contraception (see sections 4.4 and 4.6).
+- Breast-feeding (see section 4.6).
+- Patients with severe hepatic impairment (Child-Pugh class C; with or without cirrhosis) (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -206,7 +206,7 @@ In vitro , aprocitentan is an OAT3 inhibitor. Therefore, aprocitentan may increa
 
 ## Hormonal contraceptives
 
-The potential interaction between aprocitentan and hormonal contraceptives has not been studied. Therefore, women using hormonal contraceptives should add a barrier method.
+In a clinical study conducted in healthy subjects, once daily dosing of JERAYGO 25 mg with a singledose of oral contraceptive (combined 20 µg ethinyl estradiol and 100 µg levonorgestrel) increased Cmax of ethinyl estradiol by a mean of 21% and Cmax and AUC of levonorgestrel by a mean of 38 and 26%, respectively.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -214,7 +214,7 @@ Use in women of childbearing potential/Contraception in females
 
 JERAYGO is contraindicated for use in women of childbearing potential not using contraception.
 
-Women of childbearing potential must be advised to use reliable methods of contraception during treatment and for one month after treatment discontinuation, as women should not become pregnant during this time. Since the potential interaction between aprocitentan and hormonal contraceptives has not been studied, women using hormonal contraceptives should add a barrier method.
+Women of childbearing potential must be advised to use reliable methods of contraception during treatment and for one month after treatment discontinuation, as women should not become pregnant during this time.
 
 Women of childbearing potential are recommended to perform a pregnancy test before the start of treatment, monthly during treatment, and one month after stopping treatment to allow for the early detection of pregnancy. If pregnancy is detected, JERAYGO must be discontinued (see sections 4.3 and 4.4).
 
@@ -228,9 +228,9 @@ There are no or limited amount of data on the use of aprocitentan in pregnant wo
 
 It is unknown whether aprocitentan/metabolites are excreted in human milk. In rats, aprocitentan was excreted into milk during lactation.
 
-A risk to the breastfed infant cannot be excluded. JERAYGO is contraindicated during breast-feeding (see section 4.3).
-
 <div style=\"page-break-after: always\"></div>
+
+A risk to the breastfed infant cannot be excluded. JERAYGO is contraindicated during breast-feeding (see section 4.3).
 
 ## Fertility
 
@@ -256,7 +256,7 @@ The safety of aprocitentan was evaluated in one placebo-controlled Phase 3 clini
 
 The frequency of adverse reactions is defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data).
 
-Table 1: Adverse reactions
+## Table 1: Adverse reactions
 
 | System organ class                                   | Adverse reaction                                              | Frequency   |
 |------------------------------------------------------|---------------------------------------------------------------|-------------|
@@ -270,15 +270,11 @@ Table 1: Adverse reactions
 | Hepatobiliary disorders                              | Transaminase increased                                        | Uncommon    |
 | General disorders and administration site conditions | Oedema/fluid retention e                                      | Very common |
 | Investigations                                       | Glomerular filtration rate decreased during initial treatment | Uncommon    |
-| Investigations                                       | Weight increased during initial treatment                     | Uncommon    |
 
 <div style=\"page-break-after: always\"></div>
 
-- b  Haemoglobin decreased includes anaemia.
-- c Hypersensitivity includes rash, erythema, allergic oedema, dermatitis allergic.
-- d  Dyspnoea includes dyspnoea exertional.
-
-e  Oedema/fluid retention includes mainly oedema peripheral, fluid retention, face oedema.
+| Weight increased during initial treatment   | Uncommon   |
+|---------------------------------------------|------------|
 
 ## Description of selected adverse reactions
 
@@ -310,9 +306,11 @@ Actions to be taken if haemoglobin decrease occurs are described in section 4.4.
 
 ## Glomerular filtration rate decreased
 
-Mean eGFR at baseline was 76.2, 76.7, and 76.2 mL/min/1.73 m 2  for aprocitentan 12.5 mg, 25 mg, and placebo, respectively. During the 4-week DB treatment (part 1), a mean decrease in eGFR of 1.2 and 2.4 mL/min/1.73 m 2  was reported in patients receiving aprocitentan 12.5 and 25 mg, respectively, compared to a decrease of 0.6 mL/min/1.73 m 2 in patients receiving placebo. At the end of the 32week SB treatment (part 2), the mean decrease in eGFR was 2.3 mL/min/1.73 m 2 ; it remained stable until the end of the study.
+Mean eGFR at baseline was 76.2, 76.7, and 76.2 mL/min/1.73 m 2 for aprocitentan 12.5 mg, 25 mg, and placebo, respectively. During the 4-week DB treatment (part 1), a mean decrease in eGFR of 1.2 and 2.4 mL/min/1.73 m 2 was reported in patients receiving aprocitentan 12.5 and 25 mg, respectively, compared to a decrease of 0.6 mL/min/1.73 m 2 in patients receiving placebo. At the end of the 32-
 
 <div style=\"page-break-after: always\"></div>
+
+week SB treatment (part 2), the mean decrease in eGFR was 2.3 mL/min/1.73 m 2 ; it remained stable until the end of the study.
 
 ## Reporting of suspected adverse reactions
 
@@ -350,11 +348,9 @@ The efficacy of aprocitentan was evaluated in one randomized, double-blind, plac
 
 Patients with uncontrolled BP (systolic blood pressure [SBP] ≥ 140 mmHg) despite the use of at least three antihypertensive medicinal products and following exclusion of pseudo-resistant hypertension (e.g., white coat effect, inappropriate BP measurement, secondary causes of hypertension) were considered to have resistant hypertension.
 
-The patients were switched to standardised background antihypertensive therapy consisting of an angiotensin receptor blocker (valsartan 160 mg), a calcium channel blocker (amlodipine 5 or 10 mg), and a diuretic (hydrochlorothiazide 25 mg) throughout the study. Patients with concomitant use of
-
 <div style=\"page-break-after: always\"></div>
 
-beta-blockers continued this treatment throughout the study, in addition to the standardised background antihypertensive therapy and study treatment.
+The patients were switched to standardised background antihypertensive therapy consisting of an angiotensin receptor blocker (valsartan 160 mg), a calcium channel blocker (amlodipine 5 or 10 mg), and a diuretic (hydrochlorothiazide 25 mg) throughout the study. Patients with concomitant use of beta-blockers continued this treatment throughout the study, in addition to the standardised background antihypertensive therapy and study treatment.
 
 A total of 730 patients received either aprocitentan 12.5 mg, aprocitentan 25 mg, or placebo once daily during the initial 4-week DB treatment (part 1). Thereafter, patients received aprocitentan 25 mg once daily during the 32-week SB treatment (part 2). At the end of the 32 weeks, patients were re-randomised to receive either aprocitentan 25 mg or placebo, once daily, during the 12-week DB-WD treatment (part 3) (Table 2).
 
@@ -365,6 +361,8 @@ Table 2: Design of the Phase 3 study
 | Design                                     |                                                 | DB, placebo- controlled, randomized (1:1:1) | SB                  | DB-WD, placebo- controlled, randomized (1:1) |
 | Duration                                   |                                                 | Week 0 - Week 4                             | Week 4 - Week 36    | Week 36 - Week 48                            |
 | Treatment as add-on to background therapy* | Aprocitentan 25 mg Aprocitentan 12.5 mg Placebo | N = 243 N = 243 N = 244                     | N = 704             | N = 307 N = 307                              |
+
+* ARB, CCB, and a diuretic.
 
 ARB = angiotensin receptor blocker; CCB = calcium channel blocker; DB = double-blind; DB-WD = doubleblind withdrawal; N = number of patients; SB = single-blind.
 
@@ -396,18 +394,20 @@ Table 3: Reduction in sitting trough BP (mmHg) measured by uAOBP at Week 4 of DB
 | 25 mg                    | 243                      | 87.7                     | -11.0 (-12.1, -9.8)  | -4.5 (-6.1, -2.9)       | <0.0001                 |
 | Placebo                  | 244                      | 87.1                     | -6.5 (-7.6, -5.3)    | -                       | -                       |
 
+* Statistically significant at the 2.5% level as prespecified in the testing strategy. BP = blood pressure; CL = confidence limit; DB = double-blind; LS Mean = least squares mean; SiDBP = sitting diastolic blood pressure; SiSBP = sitting systolic blood pressure; uAOBP = unattended automated blood pressure.
+
 The persistence of the BP-lowering effect of aprocitentan was shown in DB-WD treatment (part 3). In patients re-randomised to placebo, the mean SiSBP increased, whereas in patients re-randomised to aprocitentan 25 mg the mean effect on SiSBP was stable, resulting in a statistically significant difference. The treatment effect was consistent for SiDBP (Table 4).
 
 Table 4: Sustained reduction in sitting trough BP (mmHg) measured by uAOBP at Week 40 of DB-WD treatment
 
-| Treatment                            | N                                    | DB-WD Baseline # Mean                | LS Mean (95% CL)                     | Difference to placebo LS Mean (95% CL)   | p-value                              |
-|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|------------------------------------------|--------------------------------------|
-| group SiSBP (key secondary endpoint) | group SiSBP (key secondary endpoint) | group SiSBP (key secondary endpoint) | group SiSBP (key secondary endpoint) | group SiSBP (key secondary endpoint)     | group SiSBP (key secondary endpoint) |
-| 25 mg                                | 307                                  | 135.3                                | -1.5 (-3.0, 0.0)                     | -5.8 (-7.9, -3.7)                        | <0.0001*                             |
-| Placebo                              | 307                                  | 136.4                                | 4.4 (2.9, 5.8)                       | -                                        | -                                    |
-| SiDBP                                | SiDBP                                | SiDBP                                | SiDBP                                | SiDBP                                    | SiDBP                                |
-| 25 mg                                | 307                                  | 76.1                                 | -0.5 (-1.5, 0.5)                     | -5.2 (-6.6, -3.8)                        | <0.0001                              |
-| Placebo                              | 307                                  | 76.3                                 | 4.7 (3.7, 5.7)                       | -                                        | -                                    |
+| Treatment                      | N                              | DB-WD Baseline # Mean          | LS Mean (95% CL)               | Difference to placebo LS Mean (95% CL)   | p-value                        |
+|--------------------------------|--------------------------------|--------------------------------|--------------------------------|------------------------------------------|--------------------------------|
+| SiSBP (key secondary endpoint) | SiSBP (key secondary endpoint) | SiSBP (key secondary endpoint) | SiSBP (key secondary endpoint) | SiSBP (key secondary endpoint)           | SiSBP (key secondary endpoint) |
+| 25 mg                          | 307                            | 135.3                          | -1.5 (-3.0, 0.0)               | -5.8 (-7.9, -3.7)                        | <0.0001*                       |
+| Placebo                        | 307                            | 136.4                          | 4.4 (2.9, 5.8)                 | -                                        | -                              |
+| SiDBP                          | SiDBP                          | SiDBP                          | SiDBP                          | SiDBP                                    | SiDBP                          |
+| 25 mg                          | 307                            | 76.1                           | -0.5 (-1.5, 0.5)               | -5.2 (-6.6, -3.8)                        | <0.0001                        |
+| Placebo                        | 307                            | 76.3                           | 4.7 (3.7, 5.7)                 | -                                        | -                              |
 
 The effect was also consistent across SBP and DBP measured by ambulatory BP monitoring (ABPM) and assessed as daytime, night-time, and 24 h periods at Week 4 (Figure 1) and Week 40.
 
@@ -415,23 +415,23 @@ The effect was also consistent across SBP and DBP measured by ambulatory BP moni
 
 Figure 1: Placebo-corrected changes from baseline in systolic and diastolic BP measured by ABPM at Week 4
 
-|                | Week 4         | Week 4                   | Week 4   | Week 4               | Week 4            |
-|----------------|----------------|--------------------------|----------|----------------------|-------------------|
-|                | Aprocitentan n | Placebo n                |          | LS Mean Diff. (mmHg) | 95%CL             |
-| ABPM           |                |                          |          |                      |                   |
-| 24-h mean SBP  | 175            | 179                      |          | -4.2                 | (-6.2,-2.1)       |
-|                | 182            | 179                      |          | -5.9                 | (-7.9,-3.9)       |
-| 24-h mean DBP  | 175            | 179                      |          | -4.3                 | (-5.7,-3.0)       |
-|                | 182            | 179                      |          | -5.8                 | (-7.1,-4.5)       |
-| Night-time SBP | 174            | 178                      |          | -5.1                 | (-7.8,-2.4)       |
-|                | 182            | 178                      |          | -7.4                 | (-10.1,-4.8)      |
-| Night-time DBP | 174            | 178                      |          | -4.8                 | (-6.7,-3.0)       |
-|                | 182            | 178                      |          | -6.1                 | (-8.0,-4.3)       |
-|                |                | -12 ←favors Aprocitentan | -9 -6 -3 | 3 favors Placebo→    | 3 favors Placebo→ |
+|                | Week 4                 | Week 4                      | Week 4   | Week 4               | Week 4             |
+|----------------|------------------------|-----------------------------|----------|----------------------|--------------------|
+|                | Aprocitentan Placebo n | n                           |          | LS Mean Diff. (mmHg) | 95%CL              |
+| ABPM           |                        |                             |          |                      |                    |
+| 24-h mean SBP  | 175                    | 179                         |          | -4.2                 | (-6.2,-2.1)        |
+|                | 182                    | 179                         |          | -5.9                 | (-7.9,-3.9)        |
+| 24-h mean DBP  | 175                    | 179                         |          | -4.3                 | (-5.7,-3.0)        |
+|                | 182                    | 179                         |          | -5.8                 | (-7.1,-4.5)        |
+| Night-time SBP | 174                    | 178                         |          | -5.1                 | (-7.8,-2.4)        |
+|                | 182                    | 178                         |          | -7.4                 | (-10.1,-4.8)       |
+| Night-time DBP | 174                    | 178                         |          | -4.8                 | (-6.7,-3.0)        |
+|                | 182                    | 178                         |          | -6.1                 | (-8.0,-4.3)        |
+|                |                        | -12 -9 ←favors Aprocitentan | -6 -3    | 3 favors Placebo →   | 3 favors Placebo → |
 
 Aprocitentan12.5mg
 
-Aprocitentan 25 mg
+Aprocitentan 25mg
 
 ABPM = ambulatory blood pressure monitoring; BP = blood pressure; CL = confidence limits; DBP = diastolic blood pressure; LS Mean Diff. = least squares mean difference versus placebo; SBP = systolic blood pressure.
 
@@ -445,7 +445,9 @@ Figure 2: Mean sitting systolic BP measured by uAOBP over 48 weeks
 
 Aprocitentan 12.5 mg
 
-Aprocitentan 25 mg - =-
+一1
+
+Aprocitentan 25 mg - -
 
 Placebo
 
@@ -545,7 +547,7 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Store in the original package (HDPE bottle or blisters) in order to protect from moisture (no special temperature storage conditions are required).
+Store in the original package (HDPE bottle or blisters) in order to protect from moisture (no special temperature storage conditions are required) .
 
 Keep the HDPE bottles tightly closed in order to protect from moisture.
 
@@ -610,7 +612,7 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -618,41 +620,41 @@ The marketing authorisation holder (MAH) shall submit the first PSUR for this pr
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-##  Additional risk minimisation measures
+## · Additional risk minimisation measures
 
 The MAH shall ensure that in each Member State where JERAYGO is marketed, all patients who are expected to use JERAYGO have access to/are provided with the following educational material:
 
--  Patient card
+- Patient card
 
 The Patient Card, which is addressed to patients prescribed JERAYGO, should include the following key elements/instructions:
 
 Teratogenicity:
 
--  JERAYGO may harm the development of the unborn child.
--  Pregnant women must not take JERAYGO.
+- JERAYGO may harm the development of the unborn child.
+- Pregnant women must not take JERAYGO.
 
 <div style=\"page-break-after: always\"></div>
 
--  Women of childbearing potential must use a reliable form of birth control (contraception).
--  The recommendation for a pregnancy test before initiation of JERAYGO, monthly during treatment, and one month after treatment discontinuation.
--  The need to report immediately to the treating physician any pregnancy that may occur.
+- Women of childbearing potential must use a reliable form of birth control (contraception).
+- The recommendation for a pregnancy test before initiation of JERAYGO, monthly during treatment, and one month after treatment discontinuation.
+- The need to report immediately to the treating physician any pregnancy that may occur.
 
 ## Liver injury:
 
--  Regular monitoring of liver function is recommended because, like other medicines of the same class, JERAYGO might cause liver injury.
--  Description of the signs that can occur in case of liver problems.
--  The need to report any of the signs that could be due to liver problems to the treating physician.
+- Regular monitoring of liver function is recommended because, like other medicines of the same class, JERAYGO might cause liver injury.
+- Description of the signs that can occur in case of liver problems.
+- The need to report any of the signs that could be due to liver problems to the treating physician.
 
-##  Obligation to conduct post-authorisation measures
+## · Obligation to conduct post-authorisation measures
 
 The MAH shall complete, within the stated timeframe, the below measures:
 
@@ -734,7 +736,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 JERAYGO 12.5 mg
 
@@ -796,8 +798,6 @@ Store in original bottle. Keep the bottle tightly closed to protect from moist
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -813,10 +813,16 @@ EU/1/24/1818/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
+
 17. UNIQUE IDENTIFIER - 2D BARCODE
+
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -882,7 +888,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 JERAYGO 25 mg
 
@@ -892,11 +898,13 @@ JERAYGO 25 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
 
-NN
+SN
 
 <div style=\"page-break-after: always\"></div>
+
+NN
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -944,8 +952,6 @@ Store in original bottle. Keep the bottle tightly closed to protect from moistur
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -961,10 +967,16 @@ EU/1/24/1818/003
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
+
 17. UNIQUE IDENTIFIER - 2D BARCODE
+
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1002,7 +1014,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -1042,13 +1054,13 @@ JERAYGO 12.5 mg
 
 PC SN
 
+<div style=\"page-break-after: always\"></div>
+
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| MINIMUM PARTICULARS TO APPEARON BLISTERSOR STRIPS   |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
 |-----------------------------------------------------|
 | UNIT DOSE BLISTER                                   |
 
@@ -1121,7 +1133,7 @@ Store in original blisters in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1149,15 +1161,17 @@ JERAYGO 25 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| MINIMUM PARTICULARS TO APPEARON BLISTERSOR STRIPS   |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
 |-----------------------------------------------------|
 | UNIT DOSE BLISTER                                   |
 
@@ -1188,9 +1202,7 @@ Lot
 
 ## Patient card
 
-## PATIENT CARD
-
-## JERAYGO   (aprocitentan)
+## PATIENT CARD JERAYGO   (aprocitentan)
 
 For the treatment of resistant high blood pressure (hypertension)
 
@@ -1239,11 +1251,9 @@ If you notice any of these signs, tell your doctor immediately .
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## JERAYGO 12.5 mg film-coated tablets JERAYGO 25 mg film-coated tablets
 
@@ -1355,7 +1365,7 @@ Babies exposed to JERAYGO in the womb may be harmed.
 
 - -Do not take this medicine if you are pregnant or if you are planning to become pregnant.
 - -If you become pregnant or think that you may be pregnant while you are taking this medicine, or shortly after stopping it (up to one month), see your doctor immediately .
-- -If you are a woman who could become pregnant, use a reliable form of birth control (contraception) while you are taking this medicine and for one month after you stop treatment. This medicine could reduce the effectiveness of hormonal contraceptives, therefore it is recommended to add a barrier method. Talk to your doctor about this.
+- -If you are a woman who could become pregnant, use a reliable form of birth control (contraception) while you are taking this medicine and for one month after you stop treatment. Talk to your doctor about this.
 - -If you are a woman who could become pregnant, your doctor will recommend that you take a pregnancy test before you start taking this medicine, every month while you are taking this medicine, and once in the month after you stopped taking the medicine.
 
 This information is summarised in your patient card, which is attached to the packaging of this medicine.
@@ -1404,8 +1414,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Very common (may affect more than 1 in 10 people):
 
-- -
-- Oedema (swelling, for example, of the ankles and feet) / Fluid retention (see section 2, 'Warnings and precautions')
+- -Oedema (swelling, for example, of the ankles and feet) / Fluid retention (see section 2, 'Warnings and precautions')
 
 Common (may affect up to 1 in 10 people):
 

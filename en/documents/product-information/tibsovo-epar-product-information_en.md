@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-09-10 15:47:26
+document_datetime: 2026-02-25 12:52:10
 document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tibsovo-epar-product-information_en.pdf
 document_name: tibsovo-epar-product-information_en.pdf
 version: success
-processing_time: 8.3222208
-conversion_datetime: 2025-12-29 23:16:08.583426
+processing_time: 9.664406
+conversion_datetime: 2026-03-01 19:38:18.392944
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -34,7 +34,7 @@ Tibsovo 250 mg film-coated tablets
 
 Each film-coated tablet contains 250 mg of ivosidenib.
 
-## Excipient with known effect
+Excipient with known effect
 
 Each film-coated tablet contains lactose monohydrate equivalent to 9.5 mg lactose (see section 4.4).
 
@@ -62,11 +62,15 @@ Before taking Tibsovo, patients must have confirmation of an IDH1 R132 mutation 
 
 ## Posology
 
-## Acute myeloid leukaemia
+Acute myeloid leukaemia
 
-The recommended dose is 500 mg ivosidenib (2 x 250 mg tablets) taken orally once daily. Ivosidenib should be started on Cycle 1 Day 1 in combination with azacitidine at 75 mg/m 2 of body surface area, intravenously or subcutaneously, once daily on Days 1-7 of each 28-day cycle. The first treatment cycle of azacitidine should be given at 100% of the dose. It is recommended that patients be treated for a minimum of 6 cycles.
+The recommended dose is 500 mg ivosidenib (2 x 250 mg tablets) taken orally once daily on days 128 of each cycle.
+
+Ivosidenib should be started on cycle 1 day 1 in combination with azacitidine at 75 mg/m 2 of body surface area, intravenously or subcutaneously, once daily on days 1-7 of each 28-day cycle. The first
 
 <div style=\"page-break-after: always\"></div>
+
+treatment cycle of azacitidine should be given at 100% of the dose. It is recommended that patients be treated for a minimum of 6 cycles.
 
 For the posology and method of administration of azacitidine, please refer to the full product information for azacitidine.
 
@@ -100,8 +104,6 @@ If use of moderate or strong CYP3A4 inhibitors cannot be avoided, the recommende
 
 <div style=\"page-break-after: always\"></div>
 
-Dose modifications and management recommendations for adverse reactions
-
 Table 1 - Recommended dose modifications for adverse reactions
 
 | Adverse reaction                                                                                                                                                    | Recommended action                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
@@ -112,12 +114,12 @@ Table 1 - Recommended dose modifications for adverse reactions
 
 <div style=\"page-break-after: always\"></div>
 
+Grade 1 is mild, Grade 2 is moderate, Grade 3 is severe, Grade 4 is life-threatening.
+
 | QTc interval prolongation ˃ 500 msec (Grade 3, see sections 4.4, 4.5 and 4.8)                                                     | • Monitor and supplement electrolyte levels as clinically indicated. • Review and adjust concomitant medicinal products with known QTc interval prolonging effects (see section 4.5) . • Interrupt Tibsovo and monitor ECG every 24 h until QTc interval returns to within 30 msec of baseline or ≤ 480 msec. • In case of QTc interval prolongation > 550 msec, in addition to the interruption of ivosidenib already scheduled, consider placing the patient under continuous electrocardiographic monitoring until QTc returns to values < 500 msec. • Resume treatment at 250 mg ivosidenib once daily after QTc interval returns to within 30 msec of baseline or ≤ to 480 msec. • Monitor ECGs at least weekly for 3 weeks and as clinically indicated following return of QTc interval to within 30 msec of baseline or ≤ 480 msec. • If alternative aetiology for QTc interval prolongation is identified, dose may be increased to 500 mg ivosidenib once daily.   |
 |-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | QTc interval prolongation with signs/symptoms of life-threatening ventricular arrhythmia (Grade 4, see sections 4.4, 4.5 and 4.8) | • Permanently discontinue treatment.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Other Grade 3 or higher adverse reactions                                                                                         | • Interrupt Tibsovo until toxicity resolves to Grade 1 or lower, or baseline, then resume at 500 mg daily (Grade 3 toxicity) or 250 mg daily (Grade 4 toxicity). • If Grade 3 toxicity recurs (a second time), reduce Tibsovo dose to 250 mg daily until the toxicity resolves, then resume 500 mg daily. • If Grade 3 toxicity recurs (a third time), or Grade 4 toxicity recurs, discontinue Tibsovo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-
-Grade 1 is mild, Grade 2 is moderate, Grade 3 is severe, Grade 4 is life-threatening.
 
 ## Special populations
 
@@ -169,7 +171,7 @@ Patients must be informed of signs and symptoms of differentiation syndrome, be 
 
 If differentiation syndrome is suspected, administer systemic corticosteroids and initiate hemodynamic monitoring until symptom resolution and for a minimum of 3 days.
 
-If leukocytosis is observed, initiate treatment with hydroxycarbamide according to institutional standards of care and leukapheresis as clinically indicated (see section 4.5).
+If leukocytosis is observed, initiate treatment with hydroxycarbamide according to institutional standards of care and leukapheresis as clinically indicated (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -233,7 +235,7 @@ Ivosidenib is a CYP3A4 substrate. Concomitant administration of strong CYP3A4 in
 
 In healthy subjects, administration of a single dose of 250 mg ivosidenib and 200 mg itraconazole once daily for 18 days increased the ivosidenib AUC by 169% (90% CI:  145, 195) with no change in Cmax. Concomitant administration of moderate or strong CYP3A4 inhibitors increases plasma concentrations of ivosidenib. This may increase the risk of QTc interval prolongation and suitable alternatives that are not moderate or strong CYP3A4 inhibitors should be considered whenever possible during treatment with Tibsovo. Patients should be treated with caution and closely monitored for QTc interval prolongation if use of a suitable alternative is not possible. If use of moderate or strong CYP3A4 inhibitors cannot be avoided, the recommended dose of ivosidenib should be reduced to 250 mg once daily (see sections 4.2 and 4.4).
 
-- Moderate CYP3A4 inhibitors include: aprepitant, ciclosporin, diltiazem, erythromycin, fluconazole, grapefruit and grapefruit juice, isavuconazole, verapamil.
+- Moderate CYP3A4 inhibitors include: aprepitant, ciclosporin, diltiazem, erythromycin, fluconazole, grapefruit and grapefruit juice, isavuconazole, verapamil, atazanavir.
 - Strong CYP3A4 inhibitors include: clarithromycin, itraconazole, ketoconazole, posaconazole, ritonavir, voriconazole.
 
 <div style=\"page-break-after: always\"></div>
@@ -256,7 +258,7 @@ Ivosidenib inhibits OAT3, organic anion-transporting polypeptide 1B1 (OATP1B1) a
 
 Ivosidenib induces CYP3A4, CYP2B6, CYP2C8, CYP2C9 and may induce CYP2C19. Therefore, it may decrease systemic exposure to substrates of these enzymes. Suitable alternatives that are not CYP3A4, CYP2B6, CYP2C8 or CYP2C9 substrates with a narrow therapeutic index, or CYP2C19 substrates should be considered during treatment with Tibsovo. Patients should be monitored for loss of substrate efficacy if use of such medicinal products cannot be avoided (see section 5.2).
 
-- CYP3A4 substrates with a narrow therapeutic index include: alfentanil, ciclosporin, everolimus, fentanyl, pimozide, quinidine, sirolimus, tacrolimus.
+- CYP3A4 substrates with a narrow therapeutic index include: alfentanil, ciclosporin, everolimus, fentanyl, pimozide, quinidine, sirolimus, tacrolimus, atazanavir.
 - CYP2B6 substrates with a narrow therapeutic index include: cyclophosphamide, ifosfamide, methadone.
 - CYP2C8 substrates with a narrow therapeutic index include: paclitaxel, pioglitazone, repaglinide.
 - CYP2C9 substrates with a narrow therapeutic index include: phenytoin, warfarin.
@@ -370,7 +372,7 @@ Table 3 - Adverse drug reactions reported in patients with locally advanced or m
 |------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------|
 | Blood and lymphatic system disorders                 | Very common | Anaemia                                                                                                                        |
 | Metabolism and nutrition disorders                   | Very common | Decreased appetite                                                                                                             |
-| Nervous system disorders                             | Very common | Neuropathy peripheral, Headache                                                                                                |
+| Nervous system disorders                             | Very common | Neuropathy peripheral,Headache                                                                                                 |
 | Gastrointestinal disorders                           | Very common | Ascites, Diarrhoea, Vomiting, Nausea, Abdominal pain                                                                           |
 | Hepatobiliary disorders                              | Common      | Jaundice cholestatic, Hyperbilirubinemia                                                                                       |
 | Skin and subcutaneous tissue disorders               | Very common | Rash 1                                                                                                                         |
@@ -411,7 +413,7 @@ In the event of overdose, toxicity is likely to manifest as exacerbation of the 
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antineoplastic agents; other antineoplastic agents ATC code: L01XX62
+Pharmacotherapeutic group: Antineoplastic agents; isocitrate dehydrogenase (IDH) inhibitors ATC code: L01XM02
 
 <div style=\"page-break-after: always\"></div>
 
@@ -439,24 +441,25 @@ Efficacy was based on the primary efficacy endpoint event-free survival (EFS), m
 
 Table 4 - Efficacy results in patients with newly diagnosed AML in combination with azacitidine
 
-| Endpoint                                                   | Ivosidenib (500 mg daily) + azacitidine N=72   | Placebo + azacitidine N=74   |
-|------------------------------------------------------------|------------------------------------------------|------------------------------|
-| Event-free survival , events (%) Treatment failure Relapse | 46 (63.9) 42 (58.3) 3 (4.2)                    | 62 (83.8) 59 (79.7) 2 (2.7)  |
-| Hazard ratio 1 (95% CI)                                    | 0.33 (0.16, 0.69)                              | 0.33 (0.16, 0.69)            |
-| OS events (%)                                              | 28 (38.9)                                      | 46 (62.2)                    |
-| Median OS (95% CI) months                                  | 34.1)                                          | 7.9 (4.1,                    |
-| Hazard ratio 1 (95% CI)                                    | 0.44 (0.27, 0.73)                              | 0.44 (0.27, 0.73)            |
-|                                                            | 24.0 (11.3,                                    |                              |
-|                                                            |                                                | 11.3)                        |
-| CR, n (%)                                                  | 34 (47.2)                                      | 11 (14.9)                    |
-| 95% CI 2                                                   | (35.3, 59.3)                                   | (7.7, 25.0)                  |
-| Odds ratio 3 (95% CI)                                      | 4.76 (2.15, 10.50)                             | 4.76 (2.15, 10.50)           |
-| CR + CRh rate, n (%)                                       | 38 (52.8)                                      | 13 (17.6)                    |
-| 95% CI 2                                                   | (40.7, 64.7)                                   | (9.7, 28.2)                  |
-| Odds ratio 3 (95% CI)                                      | 5.01 (2.32, 10.81)                             | 5.01 (2.32, 10.81)           |
-| CR + CRi rate, n (%)                                       | 39 (54.2)                                      | 12 (16.2)                    |
-| 95% CI 2                                                   | (42.0, 66.0)                                   | (8.7, 26.6)                  |
-| Odds ratio 3 (95% CI)                                      | 5.90 (2.69, 12.97)                             | 5.90 (2.69, 12.97)           |
+| Endpoint                         | Ivosidenib (500 mg daily) + azacitidine N=72   | Placebo + azacitidine N=74   |
+|----------------------------------|------------------------------------------------|------------------------------|
+| Event-free survival , events (%) | 46 (63.9)                                      | 62 (83.8) 59 (79.7)          |
+| Treatment failure                | 42 (58.3)                                      |                              |
+| Relapse                          | 3 (4.2)                                        | 2 (2.7)                      |
+| Death                            | 1 (1.4)                                        | 1 (1.4)                      |
+| Hazard ratio 1 (95% CI)          | 0.33 (0.16, 0.69)                              | 0.33 (0.16, 0.69)            |
+| OS events (%)                    | 28 (38.9)                                      | 46 (62.2)                    |
+| Median OS (95% CI) months        | 24.0 (11.3, 34.1)                              | 7.9 (4.1, 11.3)              |
+| Hazard ratio 1 (95% CI)          | 0.44 (0.27, 0.73)                              | 0.44 (0.27, 0.73)            |
+| CR, n (%)                        | 34 (47.2)                                      | 11 (14.9)                    |
+| 95% CI 2                         | (35.3, 59.3)                                   | (7.7, 25.0)                  |
+| Odds ratio 3 (95% CI)            | 4.76 (2.15, 10.50)                             | 4.76 (2.15, 10.50)           |
+| CR + CRh rate, n (%)             | 38 (52.8)                                      | 13 (17.6)                    |
+| 95% CI 2                         | (40.7, 64.7)                                   | (9.7, 28.2)                  |
+| Odds ratio 3 (95% CI)            | 5.01 (2.32, 10.81)                             | 5.01 (2.32, 10.81)           |
+| CR + CRi rate, n (%)             | 39 (54.2)                                      | 12 (16.2)                    |
+| 95% CI 2                         | (42.0, 66.0)                                   | (8.7, 26.6)                  |
+| Odds ratio 3 (95% CI)            | 5.90 (2.69, 12.97)                             | 5.90 (2.69, 12.97)           |
 
 CI: confidence interval; CR = Complete remission; CRh = Complete remission with partial hematologic recovery; CRi = Complete remission with incomplete hematologic recovery; OS = Overall survival; PR = Partial response.
 
@@ -492,18 +495,18 @@ Efficacy results are summarised in Table 5.
 
 Table 5 - Efficacy results in patients with locally advanced or metastatic cholangiocarcinoma
 
-| Endpoint                                          | Ivosidenib (500 mg daily)   | Placebo                   |
-|---------------------------------------------------|-----------------------------|---------------------------|
-| Progression-free survival (PFS) by IRC assessment | N=124                       | N=61                      |
-| Events, n (%) Progressive Disease Death           | 76 (61) 64 (52) 12 (10)     | 50 (82) 44 (72) 6 (10)    |
-| PFS, months (95%                                  | 2.7 (1.6,                   |                           |
-| ratio (95% CI) 1                                  |                             | (1.4,                     |
-| Median CI)                                        | 4.2)                        | 1.4 1.6)                  |
-| Hazard P-value 2                                  | 0.37 (0.25, 0.54) <0.0001   | 0.37 (0.25, 0.54) <0.0001 |
-| PFS rate (%) 3 6 months 12                        | 32.0                        | NE NE                     |
-| months                                            | 21.9                        |                           |
-|                                                   | Ivosidenib (500 mg daily)   | Placebo                   |
-| Overall survival 4                                | N=126                       | N=61                      |
+| Endpoint                                          | Ivosidenib (500 mg daily)   | Placebo                |
+|---------------------------------------------------|-----------------------------|------------------------|
+| Progression-free survival (PFS) by IRC assessment | N=124                       | N=61                   |
+| Events, n (%) Progressive Disease Death           | 76 (61) 64 (52) 12 (10)     | 50 (82) 44 (72) 6 (10) |
+| Median PFS, months (95% CI) 1                     | 2.7 (1.6, 4.2)              |                        |
+| Hazard ratio (95% CI) P-value 2                   |                             | 1.4 (1.4,              |
+|                                                   | 0.37                        | 1.6)                   |
+|                                                   | (0.25, 0.54) <0.0001        | (0.25, 0.54) <0.0001   |
+| PFS rate (%) 3 6 months 12                        | 32.0                        | NE                     |
+| months                                            | 21.9                        | NE                     |
+|                                                   | Ivosidenib (500 mg daily)   | Placebo                |
+| Overall survival 4                                | N=126                       | N=61                   |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -520,7 +523,7 @@ IRC: Independent Radiology Center; CI: Confidence Interval; NE = not estimable.
 
 3  Based on Kaplan-Meier estimation. No patients randomised to placebo achieved PFS of 6 months or longer.
 
-4 OS results are based on the final analysis of OS (based on 150 deaths; data cut off: 30 May 2020) which occurred 16 months after the final analysis of PFS (data cut off: 31 January 2019).
+4 OS results are based on the final analysis of OS (based on 150 deaths; data cut off: 31 May 2020) which occurred 16 months after the final analysis of PFS (data cut off: 31 January 2019).
 
 Figure 2: Kaplan Meier plot of progression-free survival (PFS) per IRC
 
@@ -534,9 +537,7 @@ Figure 3: Kaplan-Meier plot of overall survival
 
 ## Paediatric population
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Tibsovo in all subsets of the paediatric population in the treatment of all conditions included in the category of malignant neoplasms (except central nervous system tumours, haematopoietic and lymphoid tissue neoplasms) and in the treatment of malignant neoplasms of the central nervous system.
-
-The European Medicines Agency has deferred the obligation to submit the results of studies with Tibsovo in one or more subsets of the paediatric population in the treatment of acute myeloid leukaemia (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with Tibsovo in all subsets of the paediatric population in the treatment of acute myeloid leukaemia, and in the treatment of all conditions included in the category of malignant neoplasms (except central nervous system tumours, haematopoietic and lymphoid tissue neoplasms) and in the treatment of malignant neoplasms of the central nervous system.  (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -674,7 +675,7 @@ Date of first authorisation: 04 May 2023
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -757,7 +758,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Tibsovo 250 mg film-coated tablets ivosidenib
+Tibsovo 250 mg film-coated tablets
+
+ivosidenib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -825,11 +828,13 @@ Tibsovo 250 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
 
-<div style=\"page-break-after: always\"></div>
+SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -837,7 +842,9 @@ BOTTLE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Tibsovo 250 mg film-coated tablets ivosidenib
+Tibsovo 250 mg film-coated tablets
+
+ivosidenib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -877,31 +884,40 @@ Keep the bottle tightly closed in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
 Les Laboratoires Servier
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/23/1728/001
 
-13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1087,7 +1103,7 @@ In particular, you should tell your doctor if you are taking any of the followin
 - medicines that affect your heartbeat known as anti-arrhythmics (e.g. diltiazem, verapamil, quinidine);
 - medicines used to stop nausea and vomiting known as anti-emetics (e.g. aprepitant, ondansetron, tropisetron, granisetron);
 - medicines used after organ transplants known as immunosuppressants (e.g. ciclosporin, everolimus, sirolimus, tacrolimus);
-- medicines used for HIV (e.g. raltegravir, ritonavir);
+- medicines used for HIV (e.g. raltegravir, ritonavir, atazanavir);
 - alfentanil (used for anaesthesia in surgery);
 - fentanyl (used for severe pain);
 - pimozide (used for schizophrenia);
@@ -1277,9 +1293,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## Marketing Authorisation Holder
 
-Les Laboratoires Servier 50 rue Carnot 92284 Suresnes Cedex
+Les Laboratoires Servier 50 rue Carnot
 
-France
+92284 Suresnes Cedex France
 
 ## Manufacturer
 
@@ -1289,15 +1305,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-S.A. Servier Benelux N.V.
-
-Tel: +32 (0)2 529 43 11
-
-## Lietuva
-
-UAB 'SERVIER PHARMA'
-
-Tel: +370 (5) 2 63 86 28
+S.A. Servier Benelux N.V. Tél/Tel: +32 (0)2 529 43 11
 
 ## България
 
@@ -1307,33 +1315,45 @@ Tel: +370 (5) 2 63 86 28
 
 .: +359 2 921 57 00
 
-## Luxembourg/Luxemburg
-
-S.A. Servier Benelux N.V. Tel: +32 (0)2 529 43 11
-
 ## Česká republika
 
 Servier s.r.o.
 
 Tel: +420 222 118 111
 
-## Magyarország
-
-Servier Hungaria Kft. Tel: +36 1 238 7799
-
 ## Danmark
 
 Servier Danmark A/S
 
-Tlf: +45 36 44 22 60
-
-## Malta
-
-V.J. Salomone Pharma Ltd Tel: + 356 21 22 01 74
+Tlf.: +45 36 44 22 60
 
 ## Deutschland
 
-## Nederland
+## Lietuva
+
+UAB 'SERVIER PHARMA'
+
+Tel: +370 (5) 2 63 86 28
+
+## Luxembourg/Luxemburg
+
+S.A. Servier Benelux N.V.
+
+Tél/Tel: +32 (0)2 529 43 11
+
+## Magyarország
+
+Servier Hungaria Kft.
+
+Tel.: +36 1 238 7799
+
+## Malta
+
+V.J. Salomone Pharma Ltd
+
+Tel: + 356 21 22 01 74
+
+Nederland
 
 Servier Deutschland GmbH
 
@@ -1345,11 +1365,13 @@ Tel: +49 (0)89 57095 01
 
 Servier Laboratories OÜ
 
-Tel:+ 372 664 5040
+Tel: + 372 664 5040
 
 ## E λλάδα
 
-ΣΕΡΒΙΕ ΕΛΛΑΣ ΦΑΡΜΑΚΕΥΤΙΚΗ ΕΠΕ Τηλ: +30 210 939 1000
+ΣΕΡΒΙΕ ΕΛΛΑΣ ΦΑΡΜΑΚΕΥΤΙΚΗ ΕΠΕ
+
+Τηλ: +30 210 939 1000
 
 ## España
 
@@ -1361,13 +1383,13 @@ Tel: +34 91 748 96 30
 
 Les Laboratoires Servier
 
-Tel: +33 (0)1 55 72 60 00
+Tél: +33 (0)1 55 72 60 00
 
 ## Hrvatska
 
 Servier Pharma, d. o. o.
 
-Tel.: +385 (0)1 3016 222
+Tel: +385 (0)1 3016 222
 
 ## Ireland
 
@@ -1377,7 +1399,9 @@ Tel: +353 (0)1 663 8110
 
 ## Ísland
 
-Servier Laboratories c/o Icepharma hf Sími: +354 540 8000
+Servier Laboratories c/o Icepharma hf
+
+Sími: +354 540 8000
 
 ## Italia
 
@@ -1401,7 +1425,7 @@ Tel: +371 67502039
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
 
@@ -1411,7 +1435,9 @@ Tel: +31 (0)71 5246700
 
 ## Norge
 
-Servier Danmark A/S Tlf: +45 36 44 22 60
+Servier Danmark A/S
+
+Tlf: +45 36 44 22 60
 
 ## Österreich
 
@@ -1421,11 +1447,15 @@ Tel: +43 (1) 524 39 99
 
 ## Polska
 
-Servier Polska Sp. z o.o. Tel: +48 (0) 22 594 90 00
+Servier Polska Sp. z o.o.
+
+Tel.: +48 (0) 22 594 90 00
 
 ## Portugal
 
-Servier Portugal, Lda Tel.: +351 21 312 20 00
+Servier Portugal, Lda
+
+Tel: +351 21 312 20 00
 
 ## România
 
@@ -1437,20 +1467,22 @@ Tel: +4 021 528 52 80
 
 Servier Pharma d. o. o.
 
-Tel.: +386 (0)1 563 48 11
+Tel: +386 (0)1 563 48 11
 
 ## Slovenská republika
 
 Servier Slovensko spol. s r.o.
 
-Tel.:+421 (0) 2 5920 41 11
+Tel: +421 (0) 2 5920 41 11
 
 ## Suomi/Finland
 
-Servier Finland Oy P. /Tel: +358 (0)9 279 80 80
+Servier Finland Oy
+
+Puh/Tel: +358 (0)9 279 80 80
 
 ## Sverige
 
 Servier Sverige AB
 
-Tel : +46 (0)8 522 508 00
+Tel: +46 (0)8 522 508 00

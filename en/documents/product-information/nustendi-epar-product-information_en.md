@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-06-23 13:14:17
+document_datetime: 2026-02-27 11:18:39
 document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/nustendi-epar-product-information_en.pdf
 document_name: nustendi-epar-product-information_en.pdf
 version: success
-processing_time: 9.1539862
-conversion_datetime: 2025-12-18 11:44:57.452062
+processing_time: 10.0161683
+conversion_datetime: 2026-03-01 20:05:06.54878
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -106,7 +106,6 @@ Each film-coated tablet should be taken orally with or without food. Tablet shou
 
 - Hypersensitivity to the active substances or to any of the excipients listed in section 6.1.
 - Pregnancy (see section 4.6).
-- Breast-feeding (see section 4.6).
 - Concomitant use with simvastatin &gt; 40 mg daily (see sections 4.2, 4.4, and 4.5).
 - Nustendi coadministered with a statin is contraindicated in patients with active liver disease or unexplained persistent elevations in serum transaminases.
 - When Nustendi is coadministered with a statin, please refer to the summary of product characteristics (SmPC) for that particular statin therapy.
@@ -141,9 +140,13 @@ Due to the unknown effects of the increased exposure to ezetimibe in patients wi
 
 <div style=\"page-break-after: always\"></div>
 
-## Fibrates
+## Concomitant use of fibrates
 
-The safety and efficacy of ezetimibe administered with fibrates have not been established. If cholelithiasis is suspected in a patient receiving Nustendi and fenofibrate, gallbladder investigations are indicated and this therapy should be discontinued (see sections 4.5 and 4.8).
+Concomitant administration of fibrates with bempedoic acid resulted in increased triglycerides and decreased high-density lipoprotein cholesterol (HDL-C) in some patients in clinical studies and postmarketing reports. High-density lipoprotein cholesterol  and triglycerides should be monitored (see section 4.5).
+
+If cholelithiasis is suspected in a patient receiving Nustendi and fenofibrate, gallbladder investigations are indicated and this therapy should be discontinued (see sections 4.5 and 4.8).
+
+The safety and efficacy of ezetimibe administered with fibrates have not been established.
 
 ## Ciclosporin
 
@@ -175,11 +178,21 @@ No specific pharmacokinetic drug interaction studies with Nustendi have been con
 
 ## Fibrates
 
+Concomitant administration of fibrates with bempedoic acid resulted in increased triglycerides and decreased HDL-C in some patients in clinical studies and post-marketing reports. Reversibility of both
+
+<div style=\"page-break-after: always\"></div>
+
+increased triglycerides and decreased HDL-C levels were observed when either bempedoic acid or fibrate therapy was discontinued.
+
+Triglycerides and HDL-C levels should be monitored at four weeks and periodically thereafter when bempedoic acid is used concomitantly with a fibrate (see section 4.4).
+
+If clinically relevant increased triglycerides or decreased HDL-C levels are detected, bempedoic acid or fibrate therapy should be discontinued based on clinical judgement. Triglycerides and HDL-C levels should be monitored until levels return to baseline.
+
+Increases in the incidences of anaemia and hyperuricaemia have been observed in patients with the concomitant use of bempedoic acid and fibrates (see section 4.8).
+
 Concomitant fenofibrate or gemfibrozil administration modestly increased total ezetimibe concentrations (approximately 1.5- and 1.7-fold, respectively). Fenofibrate may increase cholesterol excretion into the bile, leading to cholelithiasis. In a preclinical study in dogs, ezetimibe increased cholesterol in the gallbladder bile (see section 5.3). A lithogenic risk associated with the therapeutic use of Nustendi cannot be ruled out.
 
 If cholelithiasis is suspected in a patient receiving Nustendi and fenofibrate, gallbladder studies are indicated and alternative lipid-lowering therapy should be considered (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Ciclosporin
 
@@ -197,6 +210,8 @@ In vitro drug interaction studies suggest bempedoic acid, as well as its active 
 
 Probenecid, an inhibitor of glucuronide conjugation, was studied to evaluate the potential effect of these inhibitors on the pharmacokinetics of bempedoic acid. Administration of bempedoic acid 180 mg with steady-state probenecid resulted in a 1.7-fold increase in bempedoic acid AUC and a 1.9-fold increase in bempedoic acid active metabolite (ESP15228) AUC. These elevations are not clinically meaningful and do not impact dosing recommendations.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Effects of individual components of Nustendi on other medicinal products
 
 ## Statins
@@ -208,8 +223,6 @@ No clinically significant pharmacokinetic interactions were seen when ezetimibe 
 ## Transporter-mediated drug interactions
 
 Bempedoic acid and its glucuronide weakly inhibit OATP1B1 and OATP1B3 at clinically relevant concentrations. Coadministration of Nustendi with medicinal products that are substrates of OATP1B1 or OATP1B3 (i.e., bosentan, fimasartan, asunaprevir, glecaprevir, grazoprevir, voxilaprevir, and statins such as atorvastatin, pravastatin, fluvastatin, pitavastatin, rosuvastatin, and simvastatin [see section 4.4]) may result in increased plasma concentrations of these medicinal products.
-
-<div style=\"page-break-after: always\"></div>
 
 Bempedoic acid inhibits OAT2 in vitro , which may be the mechanism responsible for minor elevations in serum creatinine and uric acid (see section 4.8). Inhibition of OAT2 by bempedoic acid may also potentially increase plasma concentrations of medicinal products that are substrates of OAT2. Bempedoic acid may also weakly inhibit OAT3 at clinically relevant concentrations.
 
@@ -233,7 +246,11 @@ Nustendi is contraindicated during pregnancy (see section 4.3).
 
 There are no or limited amount of data from the use of Nustendi in pregnant women. Studies in animals with bempedoic acid have shown reproductive toxicity (see section 5.3).
 
-Because bempedoic acid decreases cholesterol synthesis and possibly the synthesis of other cholesterol derivatives needed for normal foetal development, Nustendi may cause foetal harm when administered to pregnant women. Nustendi should be discontinued prior to conception or as soon as pregnancy is planned or recognized (see section 4.3).
+Because bempedoic acid decreases cholesterol synthesis and possibly the synthesis of other cholesterol derivatives needed for normal foetal development, Nustendi may cause foetal harm when administered
+
+<div style=\"page-break-after: always\"></div>
+
+to pregnant women. Nustendi should be discontinued prior to conception or as soon as pregnancy is planned or recognized (see section 4.3).
 
 ## Women of childbearing potential
 
@@ -241,7 +258,9 @@ Women of childbearing potential should use effective contraception during treatm
 
 ## Breast-feeding
 
-It is unknown whether bempedoic acid/metabolites or ezetimibe/metabolites are excreted in human milk. Because of the potential for serious adverse reactions, women taking Nustendi should not breastfeed their infants. Nustendi is contraindicated during breast-feeding (see section 4.3).
+Bempedoic acid and ezetimibe and their active metabolites are excreted in human milk in very low amounts (mean relative infant dose (RID) of approximately 0.5% for bempedoic acid and 0.04% for ezetimibe), therefore, at therapeutic doses of Nustendi no effects on the breastfed newborns/infants are anticipated (see section 5.2).
+
+The use of Nustendi during breast-feeding may be considered, weighing the benefit of breast-feeding for the child against the benefit of therapy for the woman.
 
 ## Fertility
 
@@ -250,8 +269,6 @@ No data on the effect of Nustendi on human fertility are available. Based on ani
 ## 4.7 Effects on ability to drive and use machines
 
 Nustendi has minor influence on the ability to drive and use machines. When driving vehicles or using machines, it should be taken into account that dizziness has been reported with bempedoic acid and ezetimibe (see section 4.8).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
@@ -269,84 +286,83 @@ Adverse reactions reported with Nustendi are displayed by system organ class and
 
 Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); and not known (cannot be estimated from the available data).
 
+<div style=\"page-break-after: always\"></div>
+
 Table 1: Adverse reactions (clinical studies and post-marketing experience)
 
-| System organ class (SOC)                        | Adverse reactions                                                           | Frequency categories            |
-|-------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------|
-| Adverse reactions with Nustendi                 | Adverse reactions with Nustendi                                             | Adverse reactions with Nustendi |
-| Blood and lymphatic system disorders            | Anaemia Decreased haemoglobin                                               | Common                          |
-| Metabolism and nutrition disorders              | Hyperuricaemia a Decreased appetite                                         | Common Common                   |
-| Nervous system disorders                        | Dizziness Headache                                                          | Common                          |
-| Vascular disorders                              | Hypertension                                                                | Common                          |
-| Respiratory, thoracic and mediastinal disorders | Cough                                                                       | Common                          |
-| Gastrointestinal disorders                      | Constipation Diarrhoea Abdominal pain Nausea Dry mouth Flatulence Gastritis | Common                          |
-| Hepatobiliary disorders                         | Liver function test increased b                                             | Common                          |
-| Musculoskeletal and connective tissue disorders | Back pain Muscle spasms Myalgia Pain in extremity Arthralgia                | Common                          |
+| System organ class (SOC)                             | Adverse reactions                                                         | Frequency categories                             |
+|------------------------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------|
+| Adverse reactions with Nustendi                      | Adverse reactions with Nustendi                                           | Adverse reactions with Nustendi                  |
+| Blood and lymphatic system disorders                 | Anaemia a Decreased haemoglobin                                           | Common                                           |
+| Metabolism and nutrition                             | Hyperuricaemia a,b                                                        | Common                                           |
+| disorders                                            | Decreased appetite                                                        | Common                                           |
+| Nervous system disorders                             | Dizziness Headache                                                        | Common                                           |
+| Vascular disorders                                   | Hypertension                                                              | Common                                           |
+| Respiratory, thoracic and mediastinal disorders      | Cough                                                                     | Common                                           |
+| Gastrointestinal disorders                           | Constipation Diarrhoea Abdominal pain Nausea Dry mouth Flatulence         | Common                                           |
+| Hepatobiliary disorders                              | Liver function test increased c                                           | Common                                           |
+| Musculoskeletal and connective tissue disorders      | Back pain Muscle spasms Myalgia Pain in extremity Arthralgia              | Common                                           |
+| Renal and urinary disorders                          | Blood creatinine increased                                                | Common                                           |
+| General disorders and administration site conditions | Fatigue Asthenia                                                          | Common                                           |
+| Additional adverse reactions with bempedoic acid     | Additional adverse reactions with bempedoic acid                          | Additional adverse reactions with bempedoic acid |
+| Metabolism and nutrition                             | Gout                                                                      | Common                                           |
+| disorders                                            | Weight decreased e                                                        | Uncommon                                         |
+| Hepatobiliary disorders                              | Aspartate aminotransferase increased                                      | Common                                           |
+| Hepatobiliary disorders                              | Alanine aminotransferase increased                                        | Uncommon                                         |
+| Renal and urinary disorders                          | Glomerular filtration rate decreased                                      | Common                                           |
+| Renal and urinary disorders                          | Blood urea increased                                                      | Uncommon                                         |
+| Additional adverse reactions with ezetimibe          | Additional adverse reactions with ezetimibe                               | Additional adverse reactions with ezetimibe      |
+| Blood and lymphatic system disorders                 | Thrombocytopaenia                                                         | Not known                                        |
+| Immune system disorders                              | Hypersensitivity, including rash, urticaria, anaphylaxis and angio-oedema | Not known                                        |
+| Psychiatric disorders                                | Depression                                                                | Not known                                        |
+| Nervous system disorders                             | Paraesthesia d                                                            | Not known                                        |
+| Vascular disorders                                   | Hot flush                                                                 | Uncommon                                         |
+| Respiratory, thoracic and mediastinal disorders      | Dyspnoea                                                                  | Not known                                        |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class (SOC)                             | Adverse reactions                                                                                          | Frequency categories                             |
-|------------------------------------------------------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
-| Renal and urinary disorders                          | Blood creatinine increased                                                                                 | Common                                           |
-| General disorders and administration site conditions | Fatigue Asthenia                                                                                           | Common                                           |
-| Additional adverse reactions with bempedoic acid     | Additional adverse reactions with bempedoic acid                                                           | Additional adverse reactions with bempedoic acid |
-| Metabolism and nutrition                             | Gout                                                                                                       | Common                                           |
-| disorders                                            | Weight decreased d                                                                                         | Uncommon                                         |
-| Hepatobiliary disorders                              | Aspartate aminotransferase increased                                                                       | Common                                           |
-| Hepatobiliary disorders                              | Alanine aminotransferase increased                                                                         | Uncommon                                         |
-| Renal and urinary disorders                          | Glomerular filtration rate decreased                                                                       | Common                                           |
-| Renal and urinary disorders                          | Blood urea increased                                                                                       | Uncommon                                         |
-| Additional adverse reactions with ezetimibe          | Additional adverse reactions with ezetimibe                                                                | Additional adverse reactions with ezetimibe      |
-| Blood and lymphatic system disorders                 | Thrombocytopaenia                                                                                          | Not known                                        |
-| Immune system disorders                              | Hypersensitivity, including rash, urticaria, anaphylaxis and angio-oedema                                  | Not known                                        |
-| Psychiatric disorders                                | Depression                                                                                                 | Not known                                        |
-| Nervous system disorders                             | Paraesthesia c                                                                                             | Not known                                        |
-| Vascular disorders                                   | Hot flush                                                                                                  | Uncommon                                         |
-| Respiratory, thoracic and mediastinal disorders      | Dyspnoea                                                                                                   | Not known                                        |
-| Gastrointestinal disorders                           | Dyspepsia Gastrooesophageal reflux disease                                                                 | Uncommon                                         |
-| Gastrointestinal disorders                           | Pancreatitis                                                                                               | Not known                                        |
-| Hepatobiliary disorders                              | Aspartate aminotransferase increased Alanine aminotransferase increased Gammaglutamyltransferase increased | Uncommon                                         |
-| Hepatobiliary disorders                              | Hepatitis Cholelithiasis Cholecystitis                                                                     | Not known                                        |
-| Skin and subcutaneous tissue disorders               | Pruritus c                                                                                                 | Uncommon                                         |
-| Musculoskeletal and                                  | Erythema multiform Blood CPK increased                                                                     | Not known                                        |
-| connective tissue disorders                          | Neck pain                                                                                                  | Common                                           |
-| connective tissue disorders                          | Muscular weakness c                                                                                        | Uncommon                                         |
-| connective tissue disorders                          | Myopathy/rhabdomyolysis                                                                                    | Not known                                        |
-| General disorders and administration site conditions | Chest pain Pain Oedema peripheral c                                                                        | Uncommon                                         |
+| System organ class (SOC)                             | Adverse reactions                                                                                          | Frequency categories   |
+|------------------------------------------------------|------------------------------------------------------------------------------------------------------------|------------------------|
+| Gastrointestinal disorders                           | Dyspepsia Gastrooesophageal reflux disease                                                                 | Uncommon               |
+| Gastrointestinal disorders                           | Pancreatitis                                                                                               | Not known              |
+| Hepatobiliary disorders                              | Aspartate aminotransferase increased Alanine aminotransferase increased Gammaglutamyltransferase increased | Uncommon               |
+| Hepatobiliary disorders                              | Hepatitis Cholelithiasis Cholecystitis                                                                     | Not known              |
+| Skin and subcutaneous tissue disorders               | Pruritus d                                                                                                 | Uncommon               |
+| Skin and subcutaneous tissue disorders               | Erythema multiform                                                                                         | Not known              |
+| Musculoskeletal and connective tissue disorders      | Blood CPK increased                                                                                        | Common                 |
+| Musculoskeletal and connective tissue disorders      | Neck pain Muscular weakness d                                                                              | Uncommon               |
+| Musculoskeletal and connective tissue disorders      | Myopathy/rhabdomyolysis                                                                                    | Not known              |
+| General disorders and administration site conditions | Chest pain Pain Oedema peripheral d                                                                        | Uncommon               |
 
-a. Hyperuricaemia includes hyperuricaemia and uric acid increased
+a. See section 4.5.
 
-b. Liver function test increased includes liver function test increased and liver function test abnormal
+b. Hyperuricaemia includes hyperuricaemia and uric acid increased c. Liver function test increased includes liver function test increased and liver function test abnormal
 
-c. Adverse reactions with ezetimibe coadministered with a statin
-
-d. (CLEAR Outcomes study) Weight decrease was observed only in patients with a baseline body mass index (BMI) of ≥30 kg/m 2 , with a mean body weight reduction of 2.28 kg at month 36. Mean reduction in body weight was ≤0.5 kg in patients with a baseline BMI of 25 to &lt;30 kg/m 2 . Bempedoic acid was not associated with a mean change in body weight in patients with a baseline BMI of &lt; 25 kg/m 2
-
-<div style=\"page-break-after: always\"></div>
+d. Adverse reactions with ezetimibe coadministered with a statin e. (CLEAR Outcomes study) Weight decrease was observed only in patients with a baseline body mass index (BMI) of ≥30 kg/m 2 , with a mean body weight reduction of 2.28 kg at month 36. Mean reduction in body weight was ≤0.5 kg in patients with a baseline BMI of 25 to &lt;30 kg/m 2 . Bempedoic acid was not associated with a mean change in body weight in patients with a baseline BMI of &lt; 25 kg/m 2
 
 ## Description of selected adverse reactions
 
 ## Increased serum uric acid
 
-Nustendi increases serum uric acid possibly due to inhibition of renal tubular OAT2 by bempedoic acid (see section 4.5). A mean increase of 35.7 micromole/L (0.6 mg/dL) in uric acid compared to baseline was observed with Nustendi at week 12. The elevations in serum uric acid usually occurred within the first 4 weeks of treatment and returned to baseline following discontinuation of treatment. There were no reports of gout with Nustendi. In the phase 3 primary hyperlipidaemia studies of bempedoic acid, gout was reported in 1.4% of patients treated with bempedoic acid and 0.4% of patients treated with placebo. In the CLEAR Outcomes study, a mean increase of 47.6 micromole/L (0.8 mg/dL) in uric acid compared to baseline was observed in bempedoic acid-treated patients at month 3, and gout was also reported more frequently in bempedoic acid-treated patients (3.1%) than placebo-treated patients (2.1%). In both treatment groups, patients who reported gout were more likely to have a medical history of gout and/or baseline levels of uric acid above the ULN (see section 4.4).
+Nustendi increases serum uric acid possibly due to inhibition of renal tubular OAT2 by bempedoic acid (see section 4.5). A mean increase of 35.7 micromole/L (0.6 mg/dL) in uric acid compared to baseline was observed with Nustendi at week 12. The elevations in serum uric acid usually occurred within the first 4 weeks of treatment and returned to baseline following discontinuation of treatment. There were no reports of gout with Nustendi. In the phase 3 primary hyperlipidaemia studies of bempedoic acid, gout was reported in 1.4% of patients treated with bempedoic acid and 0.4% of patients treated with placebo. In the CLEAR Outcomes study, a mean increase of 47.6 micromole/L (0.8 mg/dL) in uric acid compared to baseline was observed in bempedoic acid-treated patients at month 3, and gout was also reported more frequently in bempedoic acid-treated patients (3.1%) than placebo-treated patients (2.1%). In both treatment groups, patients who reported gout were more likely to have a medical history of gout and/or baseline levels of uric acid above the ULN (see section 4.4). An increase in the incidence of hyperuricaemia was observed in patients treated concomitantly with bempedoic acid and a fibrate. In the CLEAR Outcomes study, hyperuricaemia was reported more frequently in bempedoic acid-treated patients taking a fibrate at baseline (19.5%) compared to patients not taking a fibrate (10.4%), see section 4.5. There was no increase in the incidence of gout in bempedoic acid-treated patients taking a fibrate at baseline (1.1%) compared to patients not taking a fibrate (3.2%).
 
 ## Effects on serum creatinine and blood urea nitrogen
 
-Nustendi increases serum creatinine and blood urea nitrogen (BUN). A mean increase of 1.8 micromole/L (0.02 mg/dL) in serum creatinine and a mean increase of 1.0 mmol/L (2.7 mg/dL) in BUN compared to baseline was observed with Nustendi at week 12. The elevations in serum creatinine and BUN usually occurred within the first 4 weeks of treatment, remained stable, and returned to baseline following discontinuation of therapy. Similar mean increases in serum creatinine (5.8 micromole/L (0.066 mg/dL)) and BUN (0.82 mmol/L (2.3 mg/dL)) were observed with bempedoic acid in the CLEAR Outcomes study.
+Nustendi increases serum creatinine and blood urea nitrogen (BUN). A mean increase of 1.8 micromole/L (0.02 mg/dL) in serum creatinine and a mean increase of 1.0 mmol/L (2.7 mg/dL) in BUN compared to baseline was observed with Nustendi at week 12. The elevations in serum
+
+<div style=\"page-break-after: always\"></div>
+
+creatinine and BUN usually occurred within the first 4 weeks of treatment, remained stable, and returned to baseline following discontinuation of therapy. Similar mean increases in serum creatinine (5.8 micromole/L (0.066 mg/dL)) and BUN (0.82 mmol/L (2.3 mg/dL)) were observed with bempedoic acid in the CLEAR Outcomes study.
 
 The observed elevations in serum creatinine may be associated with bempedoic acid inhibition of OAT2-dependent renal tubular secretion of creatinine (see section 4.5), representing a drugendogenous substrate interaction, and does not appear to indicate worsening renal function. This effect should be considered when interpreting changes in estimated creatinine clearance in patients on Nustendi therapy, particularly in patients with medical conditions or receiving medicinal products that require monitoring of estimated creatinine clearance.
 
 ## Hepatic enzyme elevations
 
-Hepatic transaminase (AST and/or ALT) elevations of ≥ 3× ULN were reported in 2.4% of patients treated with Nustendi compared with no patients on placebo. In four phase 3 primary hyperlipidaemia studies of bempedoic acid, the incidence of elevations (≥ 3× ULN) in hepatic transaminase levels (AST and/or ALT) was 0.7% for patients treated with bempedoic acid and 0.3% for placebo. In controlled clinical combination trials of ezetimibe initiated concurrently with a statin, the incidence of consecutive elevation s (≥ 3× ULN) in hepatic transaminase levels was 1.3% for patients treated with ezetimibe administered with statins and 0.4% for patients treated with statins alone. In the CLEAR Outcomes study, the incidence of elevations &gt; 3× ULN in hepatic transaminase levels also occurred more frequently in bempedoic acid-treated patients (1.6%) than in placebo-treated patients (1.0%). The elevations in transaminases with bempedoic acid or ezetimibe were not associated with other evidence of liver dysfunction (see section 4.4).
+Hepatic transaminase (AST and/or ALT) elevations of ≥ 3× ULN were reported in 2.4% of patients treated with Nustendi compared with no patients on placebo. In four phase 3 primary hyperlipidaemia studies of bempedoic acid, the incidence of elevations (≥ 3× ULN) in hepatic transaminase levels (AST and/or ALT) was 0.7% for patients treated with bempedoic acid and 0.3% for placebo. In controlled clinical combination trials of ezetimibe initiated concurrently with a statin, the incidence of consecutive elevations (≥ 3× ULN) in hepatic transaminase levels was 1.3% for patients treated with ezetimibe administered with statins and 0.4% for patients treated with statins alone. In the CLEAR Outcomes study, the incidence of elevations &gt; 3× ULN in hepatic transaminase levels also occurred more frequently in bempedoic acid-treated patients (1.6%) than in placebo-treated patients (1.0%). The elevations in transaminases with bempedoic acid or ezetimibe were not associated with other evidence of liver dysfunction (see section 4.4).
 
 ## Decreased haemoglobin
 
-In the phase 3 primary hyperlipidaemia studies of bempedoic acid, a decrease in haemoglobin from baseline of ≥ 20 g/L and &lt; lower limit of normal (LLN) was observed in 4.6% of patients in the bempedoic acid group compared with 1.9% of patients on placebo. Greater than 50 g/L and &lt; LLN decreases in haemoglobin were reported at similar rates in bempedoic acid and placebo groups (0.2% versus 0.2%, respectively). The decreases in haemoglobin usually occurred within the first 4 weeks of treatment and returned to baseline following discontinuation of treatment. Among patients who had normal haemoglobin values at baseline, 1.4% in the bempedoic acid group and 0.4% in the placebo group experienced haemoglobin values below LLN while on treatment. In the phase 3 primary hyperlipidaemia studies, anaemia was reported in 2.5% of patients treated with bempedoic acid and 1.6% of patients treated with placebo. In the CLEAR Outcomes study, similar decreases in
-
-<div style=\"page-break-after: always\"></div>
-
-haemoglobin were observed, and anaemia was also reported more frequently in bempedoic acidtreated patients (4.7%) compared to placebo-treated patients (3.9%).
+In the phase 3 primary hyperlipidaemia studies of bempedoic acid, a decrease in haemoglobin from baseline of ≥ 20 g/L and &lt; lower limit of normal (LLN) was observed in 4.6% of patients in the bempedoic acid group compared with 1.9% of patients on placebo. Greater than 50 g/L and &lt; LLN decreases in haemoglobin were reported at similar rates in bempedoic acid and placebo groups (0.2% versus 0.2%, respectively). The decreases in haemoglobin usually occurred within the first 4 weeks of treatment and returned to baseline following discontinuation of treatment. Among patients who had normal haemoglobin values at baseline, 1.4% in the bempedoic acid group and 0.4% in the placebo group experienced haemoglobin values below LLN while on treatment. In the phase 3 primary hyperlipidaemia studies, anaemia was reported in 2.5% of patients treated with bempedoic acid and 1.6% of patients treated with placebo. In the CLEAR Outcomes study, similar decreases in haemoglobin were observed, and anaemia was also reported more frequently in bempedoic acidtreated patients (4.7%) compared to placebo-treated patients (3.9%). An increase in the incidence of anaemia was observed in patients treated concomitantly with bempedoic acid and a fibrate. In the CLEAR outcomes study, anaemia was reported more frequently in bempedoic acid-treated patients taking a fibrate at baseline (9.6%) compared to patients not taking a fibrate (4.5%).
 
 ## Reporting of suspected adverse reactions
 
@@ -358,7 +374,11 @@ In the event of overdose, the patient should be treated symptomatically, and sup
 
 ## Bempedoic acid
 
-Doses up to 240 mg/day (1.3 times the approved recommended dose) have been administered in clinical trials with no evidence of dose limiting toxicity. No adverse events were observed in animal studies at exposures up to 14-fold higher than those in patients treated with bempedoic acid at 180 mg once daily.
+Doses up to 240 mg/day (1.3 times the approved recommended dose) have been administered in clinical trials with no evidence of dose limiting toxicity. No adverse events were observed in animal
+
+<div style=\"page-break-after: always\"></div>
+
+studies at exposures up to 14-fold higher than those in patients treated with bempedoic acid at 180 mg once daily.
 
 ## Ezetimibe
 
@@ -382,8 +402,6 @@ Bempedoic acid is an adenosine triphosphate-citrate lyase (ACL) inhibitor that l
 
 Ezetimibe reduces blood cholesterol by inhibiting the absorption of cholesterol by the small intestine. The molecular target of ezetimibe has been shown to be the sterol transporter, Niemann-Pick C1-Like 1 (NPC1L1), which is involved in the intestinal uptake of cholesterol and phytosterols. Ezetimibe localizes at the brush border of the small intestine and inhibits the absorption of cholesterol, leading to a decrease in the delivery of intestinal cholesterol to the liver.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pharmacodynamic effects
 
 Administration of bempedoic acid and ezetimibe alone and in combination with other lipid modifying medicinal products decreases LDL-C, non-high density lipoprotein cholesterol (non-HDL-C), apolipoprotein B (apo B), and total cholesterol (TC) in patients with hypercholesterolaemia or mixed dyslipidaemia. Bempedoic acid decreases C-reactive protein (CRP) in patients with hyperlipidaemia.
@@ -393,6 +411,8 @@ Because patients with diabetes are at elevated risk for atherosclerotic cardiova
 ## Cardiac electrophysiology
 
 A QT trial has been conducted for bempedoic acid. At a dose of 240 mg (1.3 times the approved recommended dose), bempedoic acid does not prolong the QT interval to any clinically relevant extent.
+
+<div style=\"page-break-after: always\"></div>
 
 The effect of ezetimibe or the combination regimen bempedoic acid/ezetimibe on QT interval has not been evaluated.
 
@@ -407,8 +427,6 @@ The efficacy of Nustendi was assessed in a sensitivity analysis of 301 patients 
 Demographics and baseline disease characteristics were balanced between the treatment arms. Overall, the mean age at baseline was 64 years (range: 30 to 87 years), 50 % were ≥ 65 years old, 50% were women, 81% were White, 17% were Black, 1% were Asian, and 1% were other. At the time of randomisation, 61% of patients on bempedoic acid/ezetimibe, 69% of patients on bempedoic acid, 63% of patients on ezetimibe and 66% of patients on placebo were receiving statin therapy; 36% of patients on bempedoic acid/ezetimibe, 35% of patients on bempedoic acid, 29% of patients on ezetimibe and 41% of patients on placebo were receiving high intensity statin therapy. The mean baseline LDL-C was 3.9 mmol/L (149.7 mg/dL). Most patients (94%) completed the study.
 
 Nustendi significantly reduced LDL-C from baseline to week 12 compared with placebo (-38.0%; 95% CI: -46.5%, -29.6%; p &lt; 0.001). The maximum LDL-C lowering effects were observed as early as week 4 and efficacy was maintained throughout the trial. Nustendi also significantly reduced nonHDL-C, apo B, and TC (see table 2).
-
-<div style=\"page-break-after: always\"></div>
 
 Table 2: Treatment effects of Nustendi on lipid parameters in patients with high cardiovascular risk and hyperlipidaemia on background statin regimens (mean % change from baseline to week 12)
 
@@ -429,7 +447,11 @@ Background statin: atorvastatin, lovastatin, pitavastatin, pravastatin, rosuvast
 
 ## Administration of bempedoic acid on background ezetimibe therapy
 
-CLEAR Tranquility (Study 1002-048) was a multi-centre, randomised, double-blind, placebocontrolled 12-week phase 3 primary hyperlipidaemia study evaluating the efficacy of bempedoic acid versus placebo in lowering LDL-C when added to ezetimibe in patients with elevated LDL-C who had a history of statin intolerance and were unable to tolerate more than the lowest approved starting dose of a statin. The trial included 269 patients randomised 2:1 to receive either bempedoic acid (n=181) or placebo (n=88) as add-on to ezetimibe 10 mg daily for 12 weeks.
+CLEAR Tranquility (Study 1002-048) was a multi-centre, randomised, double-blind, placebocontrolled 12-week phase 3 primary hyperlipidaemia study evaluating the efficacy of bempedoic acid versus placebo in lowering LDL-C when added to ezetimibe in patients with elevated LDL-C who had
+
+<div style=\"page-break-after: always\"></div>
+
+a history of statin intolerance and were unable to tolerate more than the lowest approved starting dose of a statin. The trial included 269 patients randomised 2:1 to receive either bempedoic acid (n=181) or placebo (n=88) as add-on to ezetimibe 10 mg daily for 12 weeks.
 
 Overall, the mean age at baseline was 64 years (range: 30 to 86 years), 55% were ≥ 65 years old, 61% were women, 89% were White, 8% were Black, 2% were Asian, and 1% were other. The mean baseline LDL-C was 3.3 mmol/L (127.6 mg/dL). At the time of randomisation, 33% of patients on bempedoic acid versus 28% on placebo were receiving statin therapy at less than or equal to lowest approved doses. Administration of bempedoic acid to patients on background ezetimibe therapy significantly reduced LDL-C from baseline to week 12 compared with placebo and ezetimibe (p &lt; 0.001). Administration of bempedoic acid with background ezetimibe therapy also significantly reduced non-HDL-C, apo B, and TC (see table 3).
 
@@ -449,11 +471,7 @@ Table 3: Treatment effects of bempedoic acid compared with placebo in statin int
 
 apo B=apolipoprotein B; HDL-C=high-density lipoprotein cholesterol; LDL C=low-density lipoprotein cholesterol; LS=least squares; TC=total cholesterol.
 
-Background statin: atorvastatin, simvastatin, rosuvastatin, pravastatin, lovastatin
-
-a. Percent change from baseline was analysed using analysis of covariance (ANCOVA), with treatment and randomisation strata as factors and baseline lipid parameter as a covariate.
-
-<div style=\"page-break-after: always\"></div>
+Background statin: atorvastatin, simvastatin, rosuvastatin, pravastatin, lovastatin a. Percent change from baseline was analysed using analysis of covariance (ANCOVA), with treatment and randomisation strata as factors and baseline lipid parameter as a covariate.
 
 ## Clinical efficacy and safety in prevention of cardiovascular events
 
@@ -461,41 +479,36 @@ CLEAR Outcomes (Study 1002-043) was a multi-centre randomised, double-blind, pla
 
 At baseline, the mean age was 65.5 years, 48% were women, 91% were White. Selected additional baseline characteristics included hypertension (85%), diabetes mellitus (46%), pre-diabetes mellitus (42%), current tobacco user (22%), eGFR &lt; 60 mL/min per 1.73 m 2  (21%), and a mean body mass index 29.9 kg/m 2 . The mean baseline LDL-C was 3.6 mmol/L (139 mg/dL). At baseline, 41% of patients were taking at least one lipid modifying therapy including ezetimibe (12%), and very low dose of statins (23%).
 
+<div style=\"page-break-after: always\"></div>
+
 Bempedoic acid significantly reduced the risk for the primary composite endpoint of major adverse cardiovascular events (MACE-4) consisting of cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, or coronary revascularization by 13% compared to placebo (Hazard Ratio: 0.87; 95% CI: 0.79, 0.96; p = 0.0037); and the risk of the key secondary MACE-3 composite endpoint (cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke) was significantly reduced by 15% compared to placebo (Hazard Ratio: 0.85; 95% CI: 0.76, 0.96; p = 0.0058). The primary composite endpoint result was generally consistent across prespecified subgroups (including baseline age, race, ethnicity, sex, LDL-C category, statin use, ezetimibe use, and diabetes). The point estimate for MACE-4 Hazard Ratio was 0.94 (95% CI: 0.74, 1.20) in the subgroup of patients using ezetimibe at baseline. For the limited subgroup of patients with ezetimibe use at baseline and at high cardiovascular risk (n=335), LDL-C reduction was -26.7% (95% CI; -30.9%, -22.4%), but cardiovascular risk reduction could not be estimated.
 
 Impact of bempedoic acid on the individual components of the primary endpoint included a 27% reduction in the risk of non-fatal myocardial infarction and a 19% reduction in the risk of coronary revascularization compared to placebo. There was no statistically significant difference in the reduction of non-fatal stroke and risk of cardiovascular death compared to placebo. The results of the primary and key secondary efficacy endpoints are shown in Table 4. The Kaplan-Meier curve estimates of the cumulative incidence of the MACE-4 primary and the MACE-3 secondary endpoint are shown in Figures 1 and 2 below. The cumulative incidence of the MACE-4 primary endpoint is separated by month 6.
 
 Further, the difference between bempedoic acid and placebo in mean percent change in LDL-C from baseline to month 6 was -20% (95% CI: -21%, -19%).
 
-<div style=\"page-break-after: always\"></div>
-
 Table 4: Effect of Bempedoic acid on Major Cardiovascular Events
 
-|                                                                                                              | Bempedoic acid N=6 992   | Placebo N=6 978   | Bempedoic acid vs. Placebo         |
-|--------------------------------------------------------------------------------------------------------------|--------------------------|-------------------|------------------------------------|
-| Endpoint                                                                                                     | n (%)                    | n (%)             | Hazard Ratio a (95% CI) p -value b |
-| Primary Composite Endpoint                                                                                   |                          |                   |                                    |
-| Cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, coronary revascularization (MACE-4) | 819 (11.7)               | 927 (13.3)        | 0.87 (0.79, 0.96) 0.0037           |
-| Components of Primary Endpoint                                                                               |                          |                   |                                    |
-| Non-fatal myocardial infarction                                                                              | 236 (3.4)                | 317 (4.5)         | 0.73 (0.62, 0.87)                  |
-| Coronary revascularization                                                                                   | 435 (6.2)                | 529 (7.6)         | 0.81 (0.72, 0.92)                  |
-| Non-fatal stroke                                                                                             | 119 (1.7)                | 144 (2.1)         | 0.82 (0.64, 1.05)                  |
-| Cardiovascular death                                                                                         | 269 (3.8)                | 257 (3.7)         | 1.04 (0.88, 1.24)                  |
-| Key Secondary Endpoints                                                                                      |                          |                   |                                    |
-| Cardiovascular death, non-fatal myocardial infarction, non-fatal stroke (MACE-3)                             | 575 (8.2)                | 663 (9.5)         | 0.85 (0.76, 0.96) 0.0058           |
-| Fatal and non-fatal myocardial infarction                                                                    | 261 (3.7)                | 334 (4.8)         | 0.77 (0.66, 0.91) 0.0016           |
-| Coronary revascularization                                                                                   | 435 (6.2)                | 529 (7.6)         | 0.81 (0.72, 0.92) 0.0013           |
-| Fatal and non-fatal stroke                                                                                   | 135 (1.9)                | 158 (2.3)         | 0.85 (0.67, 1.07) NS               |
-
-CI = confidence interval; MACE = major adverse cardiovascular event; NS=not significant.
-
-a. Hazard ratio and corresponding 95% CI were based on a Cox proportional hazard model fitting treatment as explanatory variable.
-
-b. p -value was based on log rank test.
-
-Note: this table also presents the time to first occurrence for each of the components of MACE; patients may be included in more than 1 category
+| Endpoint                                                                                                     | Bempedoic acid N=6 992 n (%)   | Placebo N=6 978 n (%)   | Bempedoic acid vs. Placebo Hazard Ratio a (95% CI) p -value b   |
+|--------------------------------------------------------------------------------------------------------------|--------------------------------|-------------------------|-----------------------------------------------------------------|
+| Primary Composite Endpoint                                                                                   |                                |                         |                                                                 |
+| Cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, coronary revascularization (MACE-4) | 819 (11.7)                     | 927 (13.3)              | 0.87 (0.79, 0.96) 0.0037                                        |
+| Components of Primary Endpoint                                                                               |                                |                         |                                                                 |
+| Non-fatal myocardial infarction                                                                              | 236 (3.4)                      | 317 (4.5)               | 0.73 (0.62, 0.87)                                               |
+| Coronary revascularization                                                                                   | 435 (6.2)                      | 529 (7.6)               | 0.81 (0.72, 0.92)                                               |
+| Non-fatal stroke                                                                                             | 119 (1.7)                      | 144 (2.1)               | 0.82 (0.64, 1.05)                                               |
+| Cardiovascular death                                                                                         | 269 (3.8)                      | 257 (3.7)               | 1.04 (0.88, 1.24)                                               |
+| Key Secondary Endpoints                                                                                      |                                |                         |                                                                 |
+| Cardiovascular death, non-fatal myocardial infarction, non-fatal stroke (MACE-3)                             | 575 (8.2)                      | 663 (9.5)               | 0.85 (0.76, 0.96) 0.0058                                        |
 
 <div style=\"page-break-after: always\"></div>
+
+| Fatal and non-fatal myocardial infarction   | 261 (3.7)   | 334 (4.8)   | 0.77 (0.66, 0.91) 0.0016   |
+|---------------------------------------------|-------------|-------------|----------------------------|
+| Coronary revascularization                  | 435 (6.2)   | 529 (7.6)   | 0.81 (0.72, 0.92) 0.0013   |
+| Fatal and non-fatal stroke                  | 135 (1.9)   | 158 (2.3)   | 0.85 (0.67, 1.07) NS       |
+
+Note: this table also presents the time to first occurrence for each of the components of MACE; patients may be included in more than 1 category
 
 Figure 1: Kaplan-Meier Curve for Time to First Occurrence of MACE-4
 
@@ -505,6 +518,8 @@ MACE = major adverse cardiovascular event
 
 Note: MACE-4 defined as the composite endpoint of CV death, non-fatal MI, non-fatal stroke, or coronary revascularization.
 
+<div style=\"page-break-after: always\"></div>
+
 Figure 2: Kaplan-Meier Curve for Time to First Occurrence of MACE-3
 
 <!-- image -->
@@ -512,8 +527,6 @@ Figure 2: Kaplan-Meier Curve for Time to First Occurrence of MACE-3
 MACE = major adverse cardiovascular event
 
 Note: MACE-3 defined as the composite endpoint of CV death, non-fatal MI, or non-fatal stroke.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -531,7 +544,11 @@ No clinically significant pharmacokinetic interaction was seen when ezetimibe wa
 
 ## Bempedoic acid
 
-Pharmacokinetic data indicate that bempedoic acid is absorbed with a median time to maximum concentration of 3.5 hours when administered as Nustendi 180 mg tablets. Bempedoic acid pharmacokinetic parameters are presented as the mean [standard deviation (SD)] unless otherwise specified. Bempedoic acid can be considered a prodrug that is activated intracellularly by ACSVL1 to ETC-1002-CoA. The steady-state Cmax and AUC following multiple dose administration in patients with hypercholesterolaemia were 24.8 (6.9) microgram/mL and 348 (120) microgram∙h/mL, respectively. Bempedoic acid steady-state pharmacokinetics were generally linear over a range of 120 mg to 220 mg. There were no time-dependent changes in bempedoic acid pharmacokinetics following repeat administration at the recommended dose, and bempedoic acid steady-state was achieved after 7 days. The mean accumulation ratio of bempedoic acid was approximately 2.3-fold.
+Pharmacokinetic data indicate that bempedoic acid is absorbed with a median time to maximum concentration of 3.5 hours when administered as Nustendi 180 mg tablets. Bempedoic acid
+
+<div style=\"page-break-after: always\"></div>
+
+pharmacokinetic parameters are presented as the mean [standard deviation (SD)] unless otherwise specified. Bempedoic acid can be considered a prodrug that is activated intracellularly by ACSVL1 to ETC-1002-CoA. The steady-state Cmax and AUC following multiple dose administration in patients with hypercholesterolaemia were 24.8 (6.9) microgram/mL and 348 (120) microgram∙h/mL, respectively. Bempedoic acid steady-state pharmacokinetics were generally linear over a range of 120 mg to 220 mg. There were no time-dependent changes in bempedoic acid pharmacokinetics following repeat administration at the recommended dose, and bempedoic acid steady-state was achieved after 7 days. The mean accumulation ratio of bempedoic acid was approximately 2.3-fold.
 
 ## Ezetimibe
 
@@ -541,9 +558,11 @@ After oral administration, ezetimibe is rapidly absorbed and extensively conjuga
 
 After the administration of bempedoic acid/ezetimibe with a high-fat, high calorie breakfast in healthy subjects, the AUC for bempedoic acid and ezetimibe were comparable to the fasted state. Compared to the fasted state, the fed state resulted in 30% and 12% reductions in Cmax of bempedoic acid and ezetimibe, respectively. Relative to the fasted state, the fed state resulted in 12% and 42% reductions in ezetimibe glucuronide AUC and Cmax, respectively. This effect of food is not considered to be clinically meaningful.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Distribution
+
+A lactation study in 8 healthy lactating women evaluated the concentrations of bempedoic acid and ezetimibe in mature breast-milk. Nustendi 180 mg/10 mg oral tablet was given once daily for six consecutive days. The geometric mean estimates of bempedoic acid and ezetimibe Cmax in breast-milk were 107.5 ng/mL (range: 56 to 234 ng/mL) and 0.630 ng/mL (range: 0.300 to 1.1 ng/mL), respectively. Maximum bempedoic acid and ezetimibe excretion occurred within 3 hours after dosing.
+
+Bempedoic acid and ezetimibe have been detected in breast-milk of lactating women who received six consecutive daily doses of 180 mg bempedoic acid plus 10 mg of ezetimibe administered as a single tablet. The mean daily infant dose through breast-milk was approximately 0.03 mg/day (95% CI: 0.01; 0.06) for bempedoic acid and 0.0002 mg/day (95% CI: 0.0001; 0.0003) for ezetimibe. A mean calculated daily infant oral dosage was 0.0109 mg/kg/day for bempedoic acid and 0.0001 mg/kg/day for ezetimibe, based on a standard infant milk intake of 150 mL/kg/day. The mean (SD) relative infant dose (RID) was approximately 0.5 (0.29)% for bempedoic acid and 0.04 (0.01)% for ezetimibe of the corresponding maternal weight-adjusted dosages. Concentrations of ESP15228, the active metabolite of bempedoic acid, in breast-milk were below the limit of quantitation (20 ng/ml) in 7 of 8 subjects studied. Mean amounts of 0.0010 mg ezetimibe-glucuronide, the active metabolite of ezetimibe, were recovered in breast-milk during the 24 hours following the final 180 mg/10 mg maternal dose. There is no information regarding the effects of Nustendi on the breastfed infant, or the effects on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Nustendi and any potential adverse effects on the breastfed infant from Nustendi or from the underlying maternal condition.
 
 ## Bempedoic acid
 
@@ -552,6 +571,8 @@ The bempedoic acid apparent volume of distribution (V/F) was 18 L. Plasma protei
 ## Ezetimibe
 
 Ezetimibe and ezetimibe-glucuronide are bound 99.7% and 88% to 92% to human plasma proteins, respectively.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Biotransformation
 
@@ -575,11 +596,11 @@ The steady-state clearance (CL/F) of bempedoic acid determined from a population
 
 Following single oral administration of 240 mg of bempedoic acid (1.3 times the approved recommended dose), 62.1% of the total dose (bempedoic acid and its metabolites) was recovered in urine, primarily as the acyl glucuronide conjugate of bempedoic acid, and 25.4% was recovered in faeces. Less than 5% of the administered dose was excreted as unchanged bempedoic acid in faeces and urine combined.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Ezetimibe
 
 Following oral administration of 14C-ezetimibe (20 mg) to human subjects, total ezetimibe (ezetimibe and ezetimibe-glucuronide) accounted for approximately 93% of the total radioactivity in plasma. Approximately 78% and 11% of the administered radioactivity were recovered in the faeces and urine, respectively, over a 10-day collection period. After 48 hours, there were no detectable levels of radioactivity in the plasma. The half-life for ezetimibe and ezetimibe-glucuronide is approximately 22 hours.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Special populations
 
@@ -607,8 +628,6 @@ The pharmacokinetics of bempedoic acid and its metabolite (ESP15228) was studied
 
 After a single 10 mg dose of ezetimibe, the mean AUC for total ezetimibe was increased approximately 1.7-fold in patients with mild hepatic impairment (Child-Pugh A), compared with healthy subjects. In a 14-day, multiple-dose study (10 mg daily) in patients with moderate hepatic impairment (Child-Pugh B), the mean AUC for total ezetimibe was increased approximately 4-fold on Day 1 and Day 14 compared with healthy subjects.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Other special populations
 
 ## Bempedoic acid
@@ -616,6 +635,8 @@ After a single 10 mg dose of ezetimibe, the mean AUC for total ezetimibe was inc
 Of the 3,621 patients treated with bempedoic acid in the placebo-controlled studies, 2,098 (58%) were &gt; 65 years old. No overall differences in safety or efficacy were observed between these patients and younger patients.
 
 The pharmacokinetics of bempedoic acid were not affected by age, gender, or race. Body weight was a statistically significant covariate. The lowest quartile of body weight (&lt; 73 kg) was associated with an approximate 30% greater exposure. The increase in exposure was not clinically significant and no dose adjustments are recommended based on weight.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Ezetimibe
 
@@ -639,13 +660,11 @@ The standard battery of genotoxicity studies have not identified any mutagenic o
 
 Increased liver weight and hepatocellular hypertrophy were observed in rats only and were partially reversed after the 1month recovery at ≥ 30 mg/kg/day or 4 times the exposure in humans at 180 mg. Reversible, non-adverse changes in laboratory parameters indicative of these hepatic effects, decreases in red blood cell and coagulation parameters, and increases in urea nitrogen and creatinine were observed in both rats and monkeys at tolerated doses. The no-observed-adverse-effect level (NOAEL) for adverse response in the chronic studies was 10 mg/kg/day and 60 mg/kg/day associated with exposures below and 15 times the human exposure at 180 mg in rats and monkeys, respectively.
 
-Bempedoic acid was not teratogenic or toxic to embryos or foetuses in pregnant rabbits at doses up to 80 mg/kg/day or 12 times the systemic exposure in humans at 180 mg. Pregnant rats given bempedoic acid at 10, 30, and 60 mg/kg/day during organogenesis had decreased numbers of viable foetuses and reduced fo etal body weight at ≥ 30 mg/kg/day or 4 times the systemic exposure in humans at 180 mg. An increased incidence of foetal skeletal findings (bent scapula and ribs) were observed at all doses, at exposures below the systemic exposure in humans at 180 mg. In a pre- and post-natal development
-
-<div style=\"page-break-after: always\"></div>
-
-study, pregnant rats administered bempedoic acid at 5, 10, 20 and 30 mg/kg/day throughout pregnancy and lactation had adverse maternal effects at ≥ 20 mg/kg/day and reductions in numbers of live pups and pup survival, pup growth and learning and memory at ≥ 10 mg/kg/day, with maternal exposures at 10 mg/kg/day, less than the exposure in humans at 180 mg.
+Bempedoic acid was not teratogenic or toxic to embryos or foetuses in pregnant rabbits at doses up to 80 mg/kg/day or 12 times the systemic exposure in humans at 180 mg. Pregnant rats given bempedoic acid at 10, 30, and 60 mg/kg/day during organogenesis had decreased numbers of viable foetuses and reduced fo etal body weight at ≥ 30 mg/kg/day or 4 times the systemic exposure in humans at 180 mg. An increased incidence of foetal skeletal findings (bent scapula and ribs) were observed at all doses, at exposures below the systemic exposure in humans at 180 mg. In a pre- and post-natal development study, pregnant rats administered bempedoic acid at 5, 10, 20 and 30 mg/kg/day throughout pregnancy and lactation had adverse maternal effects at ≥ 20 mg/kg/day and reductions in numbers of live pups and pup survival, pup growth and learning and memory at ≥ 10 mg/kg/day, with maternal exposures at 10 mg/kg/day, less than the exposure in humans at 180 mg.
 
 Administration of bempedoic acid to male and female rats prior to mating and through gestation day 7 in females resulted in changes in estrous cyclicity, decreased numbers of corpora lutea and implants at ≥ 30 mg/kg/day with no effects on male or female fertility or sperm parameters at 60 mg/kg/day (4 and 9 times the systemic exposure in humans at 180 mg, respectively).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Ezetimibe
 
@@ -665,8 +684,6 @@ Ezetimibe had no effect on the fertility of male or female rats, nor was it foun
 
 Lactose monohydrate Microcrystalline cellulose (E460) Sodium starch glycolate (Type A grade) Hydroxypropyl cellulose (E463) Magnesium stearate (E470b) Silica, colloidal anhydrous (E551) Sodium laurilsulfate (E487) Povidone (K30) (E1201)
 
-<div style=\"page-break-after: always\"></div>
-
 ## Film-coating
 
 Partially hydrolyzed poly(vinyl alcohol) (E1203) Talc (E553b) Titanium dioxide (E171) Indigo Carmine Aluminium Lake (E132) Glycerol monocaprylocaprate Sodium laurilsulfate (E487) Brilliant Blue FCF Aluminium Lake (E133)
@@ -674,6 +691,8 @@ Partially hydrolyzed poly(vinyl alcohol) (E1203) Talc (E553b) Titanium dioxide (
 ## 6.2 Incompatibilities
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.3 Shelf life
 
@@ -707,11 +726,9 @@ Date of first authorisation: 27 March 2020
 
 Date of latest renewal: 18 November 2024
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -918,7 +935,8 @@ Lot
 3. How to take Nustendi
 4. Possible side effects
 5. How to store Nustendi
-6. Contents of the pack and other information
+6. 6.
+7. Contents of the pack and other information
 
 ## 1. What Nustendi is and what it is used for
 
@@ -950,7 +968,6 @@ Nustendi contains two active substances, which reduce your cholesterol in two wa
 
 - if you are allergic to bempedoic acid, ezetimibe or any of the other ingredients of this medicine (listed in section 6);
 - if you are pregnant;
-- if you are breast-feeding;
 - if you take more than 40 mg of simvastatin daily (another medicine used to lower cholesterol);
 - with a statin if you currently have liver problems.
 - Nustendi contains ezetimibe. When Nustendi is given together with a statin, you should also read the information relating to ezetimibe in the Package leaflet of that specific statin.
@@ -966,6 +983,11 @@ Talk to your doctor or pharmacist before taking Nustendi:
 Your doctor should do a blood test before you start taking Nustendi with a statin (medicine used to lower cholesterol). This is to check how well your liver is working.
 
 If you are taking statins talk promptly to your doctor about any unexplained muscle pain, tenderness, or weakness ( see 'Other medicines and Nustendi').
+
+In case of concomitant administration of fibrates with Nustendi, your doctor should do a blood test at four weeks after starting Nustendi and periodically thereafter to monitor:
+
+- a type of fat (also called triglycerides) and
+- 'good' cholesterol (also called 'HDL-cholesterol').
 
 If you plan to become pregnant, talk to your doctor first.Your doctor will advise you how to stop taking Nustendi before stopping any form of contraception.
 
@@ -984,7 +1006,7 @@ The risk of muscle disease may increase when taking both a statin and Nustendi. 
 - bosentan (used to manage a condition called pulmonary artery hypertension).
 - fimasartan (used to treat high blood pressure and heart failure).
 - asunaprevir, glecaprevir, grazoprevir, voxilaprevir (used to treat hepatitis C).
-- fenofibrate or gemfibrozil (also used to lower cholesterol). No information is available on the effects of using Nustendi with cholesterol-lowering medicines called fibrates.
+- fenofibrate or other fibrates or gemfibrozil (also used to lower cholesterol).
 - ciclosporin (often used in organ transplant patients).
 - cholestyramine (also used to lower cholesterol), because it affects the way ezetimibe works.
 - medicines to prevent blood clots, such as warfarin as well as acenocoumarol, fluindione, and phenprocoumon.
@@ -1003,7 +1025,7 @@ If, after you have started treatment with Nustendi, you decide that you would li
 
 ## · Breast-feeding
 
-Do not take Nustendi if you are breast-feeding because it is not known if Nustendi passes into milk.
+If you are breast-feeding, ask your doctor for advice before taking this medicine because Nustendi may pass into your breast-milk.
 
 ## Driving and using machines
 
@@ -1177,19 +1199,19 @@ Daiichi Sankyo Deutschland GmbH Tel: +49-(0) 89 7808 0
 
 ## Eesti
 
-Zentiva, k.s. Tel: +372 52 70308
+Zentiva, k.s.
+
+Tel: +372 52 70308
 
 ## Ελλάδα
 
 Daiichi Sankyo Europe GmbH Τηλ : +49-(0) 89 7808 0
 
-## España
-
-Daiichi Sankyo España, S.A. Tel: +34 91 539 99 11
-
 ## Lietuva
 
-Zentiva, k.s. Tel: +370 52152025
+Zentiva, k.s.
+
+Tel: +370 52152025
 
 ## Luxembourg/Luxemburg
 
@@ -1215,11 +1237,13 @@ Daiichi Sankyo Europe GmbH Tlf: +49-(0) 89 7808 0
 
 Daiichi Sankyo Austria GmbH Tel: +43 (0) 1 485 86 42 0
 
-## Polska
-
-Daiichi Sankyo Europe GmbH Tel.: +49-(0) 89 7808 0
-
 <div style=\"page-break-after: always\"></div>
+
+## España
+
+Daiichi Sankyo España, S.A.
+
+Tel: +34 91 539 99 11
 
 ## France
 
@@ -1229,35 +1253,23 @@ Tél: +33 (0) 1 57 77 32 00
 
 ## Hrvatska
 
-Zentiva d.o.o.
-
-Tel: +385 1 6641 830
+Zentiva d.o.o. Tel: +385 1 6641 830
 
 ## Ireland
 
-Daiichi Sankyo Ireland Ltd
-
-Tel: +353-(0) 1 489 3000
+Daiichi Sankyo Ireland Ltd Tel: +353-(0) 1 489 3000
 
 ## Ísland
 
-Daiichi Sankyo Europe GmbH
-
-Sími: +49-(0) 89 7808 0
+Daiichi Sankyo Europe GmbH Sími: +49-(0) 89 7808 0
 
 ## Italia
 
-Daiichi Sankyo Italia S.p.A.
-
-Tel: +39-06 85 2551
+Daiichi Sankyo Italia S.p.A. Tel: +39-06 85 2551
 
 ## Κύπρος
 
-Daiichi Sankyo Europe GmbH
-
-Τηλ:
-
-+49-(0) 89 7808 0
+Daiichi Sankyo Europe GmbH Τηλ: +49-(0) 89 7808 0
 
 ## Latvija
 
@@ -1271,35 +1283,31 @@ Tel: +371 67893939
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
+## Polska
+
+Daiichi Sankyo Europe GmbH
+
+Tel.: +49-(0) 89 7808 0
+
 ## Portugal
 
-Daiichi Sankyo Portugal, Unip. LDA
-
-Tel: +351 21 4232010
+Daiichi Sankyo Portugal, Unip. LDA Tel: +351 21 4232010
 
 ## România
 
-Daiichi Sankyo Europe GmbH
-
-Tel: +49-(0) 89 7808 0
+Daiichi Sankyo Europe GmbH Tel: +49-(0) 89 7808 0
 
 ## Slovenija
 
-Daiichi Sankyo Europe GmbH
-
-Tel: +49-(0) 89 7808 0
+Daiichi Sankyo Europe GmbH Tel: +49-(0) 89 7808 0
 
 ## Slovenská republika
 
-Zentiva, a.s.
-
-Tel: +421 2 3918 3010
+Zentiva, a.s. Tel: +421 2 3918 3010
 
 ## Suomi/Finland
 
-Daiichi Sankyo Europe GmbH
-
-Puh/Tel: +49-(0) 89 7808 0
+Daiichi Sankyo Europe GmbH Puh/Tel: +49-(0) 89 7808 0
 
 ## Sverige
 

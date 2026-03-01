@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 14:33:07
+document_datetime: 2026-02-25 15:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/datscan.html
 document_name: datscan.html
 version: success
-processing_time: 0.1080322
-conversion_datetime: 2025-12-31 02:00:23.831728
+processing_time: 0.080439
+conversion_datetime: 2026-03-01 20:19:37.197485
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # DaTSCAN
 
 [RSS](/en/individual-human-medicine.xml/65772)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 ioflupane (123l) Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -37,6 +35,7 @@ Page contents
 - [Product details](#product-details)
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-83736)
 - [Topics](#topics)
 
 - Application under evaluation
@@ -122,7 +121,7 @@ English (EN) (75.82 KB - PDF)
 
 [View](/en/documents/overview/datscan-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-556)
+[Other languages (21)](#file-language-dropdown-6)
 
 български (BG) (169.7 KB - PDF)
 
@@ -388,17 +387,17 @@ English (EN) (446.26 KB - PDF)
 
 DaTSCAN : EPAR - Product Information
 
-English (EN) (433.57 KB - PDF)
+English (EN) (457.79 KB - PDF)
 
 **First published:** 21/06/2007
 
-**Last updated:** 12/07/2024
+**Last updated:** 25/02/2026
 
 [View](/en/documents/product-information/datscan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-105)
+[Other languages (24)](#file-language-dropdown-845)
 
-български (BG) (447.06 KB - PDF)
+български (BG) (484.12 KB - PDF)
 
 **First published:**
 
@@ -406,11 +405,11 @@ English (EN) (433.57 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/bg/documents/product-information/datscan-epar-product-information_bg.pdf)
 
-español (ES) (386.17 KB - PDF)
+español (ES) (422.13 KB - PDF)
 
 **First published:**
 
@@ -418,11 +417,11 @@ español (ES) (386.17 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/es/documents/product-information/datscan-epar-product-information_es.pdf)
 
-čeština (CS) (454.41 KB - PDF)
+čeština (CS) (488.1 KB - PDF)
 
 **First published:**
 
@@ -430,11 +429,11 @@ español (ES) (386.17 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/cs/documents/product-information/datscan-epar-product-information_cs.pdf)
 
-dansk (DA) (373.3 KB - PDF)
+dansk (DA) (409.96 KB - PDF)
 
 **First published:**
 
@@ -442,11 +441,11 @@ dansk (DA) (373.3 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/da/documents/product-information/datscan-epar-product-information_da.pdf)
 
-Deutsch (DE) (376.55 KB - PDF)
+Deutsch (DE) (417.16 KB - PDF)
 
 **First published:**
 
@@ -454,11 +453,11 @@ Deutsch (DE) (376.55 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/de/documents/product-information/datscan-epar-product-information_de.pdf)
 
-eesti keel (ET) (409.19 KB - PDF)
+eesti keel (ET) (402.74 KB - PDF)
 
 **First published:**
 
@@ -466,11 +465,11 @@ eesti keel (ET) (409.19 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/et/documents/product-information/datscan-epar-product-information_et.pdf)
 
-ελληνικά (EL) (438.49 KB - PDF)
+ελληνικά (EL) (472.25 KB - PDF)
 
 **First published:**
 
@@ -478,11 +477,11 @@ eesti keel (ET) (409.19 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/el/documents/product-information/datscan-epar-product-information_el.pdf)
 
-français (FR) (364.69 KB - PDF)
+français (FR) (408.47 KB - PDF)
 
 **First published:**
 
@@ -490,11 +489,11 @@ français (FR) (364.69 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/fr/documents/product-information/datscan-epar-product-information_fr.pdf)
 
-hrvatski (HR) (480.56 KB - PDF)
+hrvatski (HR) (501.42 KB - PDF)
 
 **First published:**
 
@@ -502,11 +501,11 @@ hrvatski (HR) (480.56 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/hr/documents/product-information/datscan-epar-product-information_hr.pdf)
 
-íslenska (IS) (374.03 KB - PDF)
+íslenska (IS) (367.27 KB - PDF)
 
 **First published:**
 
@@ -514,11 +513,11 @@ hrvatski (HR) (480.56 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/is/documents/product-information/datscan-epar-product-information_is.pdf)
 
-italiano (IT) (384.77 KB - PDF)
+italiano (IT) (421.97 KB - PDF)
 
 **First published:**
 
@@ -526,11 +525,11 @@ italiano (IT) (384.77 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/it/documents/product-information/datscan-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (444.59 KB - PDF)
+latviešu valoda (LV) (485.29 KB - PDF)
 
 **First published:**
 
@@ -538,11 +537,11 @@ latviešu valoda (LV) (444.59 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/lv/documents/product-information/datscan-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (450.42 KB - PDF)
+lietuvių kalba (LT) (490.57 KB - PDF)
 
 **First published:**
 
@@ -550,11 +549,11 @@ lietuvių kalba (LT) (450.42 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/lt/documents/product-information/datscan-epar-product-information_lt.pdf)
 
-magyar (HU) (451.36 KB - PDF)
+magyar (HU) (487.26 KB - PDF)
 
 **First published:**
 
@@ -562,11 +561,11 @@ magyar (HU) (451.36 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/hu/documents/product-information/datscan-epar-product-information_hu.pdf)
 
-Malti (MT) (555.81 KB - PDF)
+Malti (MT) (601.49 KB - PDF)
 
 **First published:**
 
@@ -574,11 +573,11 @@ Malti (MT) (555.81 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/mt/documents/product-information/datscan-epar-product-information_mt.pdf)
 
-Nederlands (NL) (408.81 KB - PDF)
+Nederlands (NL) (457.79 KB - PDF)
 
 **First published:**
 
@@ -586,11 +585,11 @@ Nederlands (NL) (408.81 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/nl/documents/product-information/datscan-epar-product-information_nl.pdf)
 
-norsk (NO) (383.93 KB - PDF)
+norsk (NO) (357.74 KB - PDF)
 
 **First published:**
 
@@ -598,11 +597,11 @@ norsk (NO) (383.93 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/no/documents/product-information/datscan-epar-product-information_no.pdf)
 
-polski (PL) (539.7 KB - PDF)
+polski (PL) (537.89 KB - PDF)
 
 **First published:**
 
@@ -610,11 +609,11 @@ polski (PL) (539.7 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/pl/documents/product-information/datscan-epar-product-information_pl.pdf)
 
-português (PT) (368.96 KB - PDF)
+português (PT) (371.26 KB - PDF)
 
 **First published:**
 
@@ -622,11 +621,11 @@ português (PT) (368.96 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/pt/documents/product-information/datscan-epar-product-information_pt.pdf)
 
-română (RO) (434.47 KB - PDF)
+română (RO) (441.45 KB - PDF)
 
 **First published:**
 
@@ -634,11 +633,11 @@ română (RO) (434.47 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/ro/documents/product-information/datscan-epar-product-information_ro.pdf)
 
-slovenčina (SK) (469.19 KB - PDF)
+slovenčina (SK) (444.99 KB - PDF)
 
 **First published:**
 
@@ -646,11 +645,11 @@ slovenčina (SK) (469.19 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/sk/documents/product-information/datscan-epar-product-information_sk.pdf)
 
-slovenščina (SL) (476.51 KB - PDF)
+slovenščina (SL) (476.05 KB - PDF)
 
 **First published:**
 
@@ -658,11 +657,11 @@ slovenščina (SL) (476.51 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/sl/documents/product-information/datscan-epar-product-information_sl.pdf)
 
-Suomi (FI) (334.39 KB - PDF)
+Suomi (FI) (374.99 KB - PDF)
 
 **First published:**
 
@@ -670,11 +669,11 @@ Suomi (FI) (334.39 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/fi/documents/product-information/datscan-epar-product-information_fi.pdf)
 
-svenska (SV) (372.89 KB - PDF)
+svenska (SV) (396.63 KB - PDF)
 
 **First published:**
 
@@ -682,11 +681,11 @@ svenska (SV) (372.89 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+25/02/2026
 
 [View](/sv/documents/product-information/datscan-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0067 16/05/2024
+**Latest procedure affecting product information:** VR/0000310773 22/01/2026
 
 icon globe
 
@@ -712,7 +711,7 @@ English (EN) (61.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/datscan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-350)
+[Other languages (21)](#file-language-dropdown-455)
 
 български (BG) (72.74 KB - PDF)
 
@@ -998,7 +997,7 @@ GE Healthcare B.V.
 
 GE Healthcare B.V.
 
-Marketing authorisation issued 27/07/2000 Revision 25
+Marketing authorisation issued 27/07/2000 Revision 26
 
 ## Assessment history
 
@@ -1010,13 +1009,21 @@ Collapse section
 
 DaTSCAN : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (145 KB - PDF)
+
+**First published:** 25/02/2026
+
+[View](/en/documents/procedural-steps-after/datscan-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+DaTSCAN : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (231.22 KB - PDF)
 
 **First published:** 21/06/2007
 
-**Last updated:** 12/07/2024
+**Last updated:** 25/02/2026
 
-[View](/en/documents/procedural-steps-after/datscan-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/datscan-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 DaTSCAN-H-C-266-P45-011: EPAR - Assessment Report
 
@@ -1066,11 +1073,217 @@ English (EN) (214.85 KB - PDF)
 
 [View](/en/documents/scientific-discussion/datscan-epar-scientific-discussion_en.pdf)
 
-#### Topics
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+DaTSCAN : EPAR - Product information - tracked changes
+
+English (EN) (283 KB - DOC)
+
+**First published:** 25/02/2026
+
+[View](/en/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_en.doc)
+
+[Other languages (24)](#file-language-dropdown-431)
+
+български (BG) (631 KB - DOC)
+
+**First published:**
+
+25/02/2026
+
+[View](/bg/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_bg.doc)
+
+español (ES) (280 KB - DOC)
+
+**First published:**
+
+25/02/2026
+
+[View](/es/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_es.doc)
+
+čeština (CS) (282 KB - DOC)
+
+**First published:**
+
+25/02/2026
+
+[View](/cs/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_cs.doc)
+
+dansk (DA) (223.5 KB - DOC)
+
+**First published:**
+
+25/02/2026
+
+[View](/da/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_da.doc)
+
+Deutsch (DE) (102.23 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/de/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (89.55 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/et/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (247 KB - DOC)
+
+**First published:**
+
+25/02/2026
+
+[View](/el/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_el.doc)
+
+français (FR) (209 KB - DOC)
+
+**First published:**
+
+25/02/2026
+
+[View](/fr/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_fr.doc)
+
+hrvatski (HR) (700.5 KB - DOC)
+
+**First published:**
+
+25/02/2026
+
+[View](/hr/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_hr.doc)
+
+íslenska (IS) (612.5 KB - DOC)
+
+**First published:**
+
+25/02/2026
+
+[View](/is/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_is.doc)
+
+italiano (IT) (228 KB - DOC)
+
+**First published:**
+
+25/02/2026
+
+[View](/it/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_it.doc)
+
+latviešu valoda (LV) (716.5 KB - DOC)
+
+**First published:**
+
+25/02/2026
+
+[View](/lv/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_lv.doc)
+
+lietuvių kalba (LT) (656.5 KB - DOC)
+
+**First published:**
+
+25/02/2026
+
+[View](/lt/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_lt.doc)
+
+magyar (HU) (646.5 KB - DOC)
+
+**First published:**
+
+25/02/2026
+
+[View](/hu/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_hu.doc)
+
+Malti (MT) (133.91 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/mt/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (240 KB - DOC)
+
+**First published:**
+
+25/02/2026
+
+[View](/nl/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_nl.doc)
+
+norsk (NO) (111.55 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/no/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (656 KB - DOC)
+
+**First published:**
+
+25/02/2026
+
+[View](/pl/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_pl.doc)
+
+português (PT) (176 KB - DOC)
+
+**First published:**
+
+25/02/2026
+
+[View](/pt/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_pt.doc)
+
+română (RO) (690 KB - DOC)
+
+**First published:**
+
+25/02/2026
+
+[View](/ro/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_ro.doc)
+
+slovenčina (SK) (610.5 KB - DOC)
+
+**First published:**
+
+25/02/2026
+
+[View](/sk/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_sk.doc)
+
+slovenščina (SL) (631 KB - DOC)
+
+**First published:**
+
+25/02/2026
+
+[View](/sl/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_sl.doc)
+
+Suomi (FI) (81.3 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/fi/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (81.77 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/sv/documents/product-information-tracked-changes/datscan-epar-product-information-tracked-changes_sv.docx)
+
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 12/07/2024
+**This page was last updated on** 25/02/2026
 
 ## Share this page
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-06 14:10:03
-document_pages: 141
+document_datetime: 2026-02-26 09:52:05
+document_pages: 146
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/revolade-epar-product-information_en.pdf
 document_name: revolade-epar-product-information_en.pdf
 version: success
-processing_time: 38.5646805
-conversion_datetime: 2025-12-17 14:32:20.072586
+processing_time: 46.6364473
+conversion_datetime: 2026-03-01 19:35:50.257377
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -106,11 +106,9 @@ The recommended starting dose of eltrombopag is 25 mg once daily.
 
 After initiating eltrombopag, the dose must be adjusted to achieve and maintain a platelet count ≥50 000/µl as necessary to reduce the risk for bleeding. A daily dose of 75 mg must not be exceeded.
 
-Clinical haematology and liver tests should be monitored regularly throughout therapy with eltrombopag and the dose regimen of eltrombopag modified based on platelet counts as outlined in Table 1. During therapy with eltrombopag full blood counts (FBCs), including platelet count and
-
 <div style=\"page-break-after: always\"></div>
 
-peripheral blood smears, should be assessed weekly until a stable platelet count (≥50 000/µl for at least 4 weeks) has been achieved. FBCs including platelet counts and peripheral blood smears should be obtained monthly thereafter.
+Clinical haematology and liver tests should be monitored regularly throughout therapy with eltrombopag and the dose regimen of eltrombopag modified based on platelet counts as outlined in Table 1. During therapy with eltrombopag full blood counts (FBCs), including platelet count and peripheral blood smears, should be assessed weekly until a stable platelet count (≥50 000/µl for at least 4 weeks) has been achieved. FBCs including platelet counts and peripheral blood smears should be obtained monthly thereafter.
 
 Table 1 Dose adjustments of eltrombopag in ITP patients
 
@@ -140,9 +138,9 @@ Patients should be clinically evaluated periodically and continuation of treatme
 
 When eltrombopag is given in combination with antivirals reference should be made to the full summary of product characteristics of the respective coadministered medicinal products for comprehensive details of relevant safety information or contraindications.
 
-In clinical studies, platelet counts generally began to increase within 1 week of starting eltrombopag. The aim of treatment with eltrombopag should be to achieve the minimum level of platelet counts needed to initiate antiviral therapy, in adherence to clinical practice recommendations. During antiviral therapy, the aim of treatment should be to keep platelet counts at a level that prevents the risk of bleeding complications, normally around 50 000-75 000/µl. Platelet counts &gt;75 000/µl should be avoided. The lowest dose of eltrombopag needed to achieve the targets should be used. Dose adjustments are based upon the platelet count response.
-
 <div style=\"page-break-after: always\"></div>
+
+In clinical studies, platelet counts generally began to increase within 1 week of starting eltrombopag. The aim of treatment with eltrombopag should be to achieve the minimum level of platelet counts needed to initiate antiviral therapy, in adherence to clinical practice recommendations. During antiviral therapy, the aim of treatment should be to keep platelet counts at a level that prevents the risk of bleeding complications, normally around 50 000-75 000/µl. Platelet counts &gt;75 000/µl should be avoided. The lowest dose of eltrombopag needed to achieve the targets should be used. Dose adjustments are based upon the platelet count response.
 
 ## Initial dose regimen
 
@@ -158,15 +156,13 @@ A dose of 100 mg eltrombopag once daily must not be exceeded.
 
 Table 2 Dose adjustments of eltrombopag in HCV patients during antiviral therapy
 
-| Platelet count                                   | Dose adjustment or response                                                                                                                                                    |
-|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <50 000/µl following at least 2 weeks of therapy | Increase daily dose by 25 mg to a maximum of 100 mg/day.                                                                                                                       |
-| ≥50 000/µl to ≤ 100 000/µl                       | Use lowest dose of eltrombopag as necessary to avoid dose reductions of peginterferon.                                                                                         |
-| >100 000/µl to ≤ 150 000/µl                      | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments ♦ .                                                           |
-| >150 000/µl                                      | Stop eltrombopag; increase the frequency of platelet monitoring to twice weekly. Once the platelet count is ≤100 000/µl, reinitiate therapy at a daily dose reduced by 25 mg*. |
-
-* For patients taking 25 mg eltrombopag once daily, consideration should be given to reinitiating dosing at 25 mg every other day.
-- ♦ On initiation of antiviral therapy the platelet count may fall, so immediate eltrombopag dose reductions should be avoided.
+| Platelet count                                                                                                                                                                                                                                                   | Dose adjustment or response                                                                                                                                                                                                                                      |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <50 000/µl following at least 2 weeks of therapy                                                                                                                                                                                                                 | Increase daily dose by 25 mg to a maximum of 100 mg/day.                                                                                                                                                                                                         |
+| ≥50 000/µl to ≤ 100 000/µl                                                                                                                                                                                                                                       | Use lowest dose of eltrombopag as necessary to avoid dose reductions of peginterferon.                                                                                                                                                                           |
+| >100 000/µl to ≤ 150 000/µl                                                                                                                                                                                                                                      | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments ♦ .                                                                                                                                             |
+| >150 000/µl                                                                                                                                                                                                                                                      | Stop eltrombopag; increase the frequency of platelet monitoring to twice weekly. Once the platelet count is ≤100 000/µl, reinitiate therapy at a daily dose reduced by 25 mg*.                                                                                   |
+| * For patients taking 25 mg eltrombopag once daily, consideration should be given to reinitiating dosing at 25 mg every other day. ♦ On initiation of antiviral therapy the platelet count may fall, so immediate eltrombopag dose reductions should be avoided. | * For patients taking 25 mg eltrombopag once daily, consideration should be given to reinitiating dosing at 25 mg every other day. ♦ On initiation of antiviral therapy the platelet count may fall, so immediate eltrombopag dose reductions should be avoided. |
 
 ## Discontinuation
 
@@ -174,19 +170,19 @@ If after 2 weeks of eltrombopag therapy at 100 mg the required platelet level to
 
 Eltrombopag treatment should be terminated when antiviral therapy is discontinued unless otherwise justified. Excessive platelet count responses or important liver test abnormalities also necessitate discontinuation.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Severe aplastic anaemia
 
 ## Initial dose regimen
 
 Eltrombopag should be initiated at a dose of 50 mg once daily. For patients of East-/Southeast-Asian ancestry, eltrombopag should be initiated at a reduced dose of 25 mg once daily (see section 5.2). The treatment should not be initiated when the patient has existing cytogenetic abnormalities of chromosome 7.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Monitoring and dose adjustment
 
 Haematological response requires dose titration, generally up to 150 mg, and may take up to 16 weeks after starting eltrombopag (see section 5.1). The dose of eltrombopag should be adjusted in 50 mg increments every 2 weeks as necessary to achieve the target platelet count ≥ 50 000/µl. For patients taking 25 mg once daily, the dose should be increased to 50 mg daily before increasing the dose amount by 50 mg. A dose of 150 mg daily must not be exceeded. Clinical haematology and liver tests should be monitored regularly throughout therapy with eltrombopag and the dosage regimen of eltrombopag modified based on platelet counts as outlined in Table 3.
 
-Table 3 Dose adjustments of eltrombopag in patients with severe aplastic anaemia
+## Table 3 Dose adjustments of eltrombopag in patients with severe aplastic anaemia
 
 | Platelet count                                   | Dose adjustment or response                                                                                                                                                 |
 |--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -209,17 +205,15 @@ If no haematological response has occurred after 16 weeks of therapy with eltrom
 
 No dose adjustment is necessary in patients with renal impairment. Patients with impaired renal function should use eltrombopag with caution and close monitoring, for example by testing serum creatinine and/or performing urine analysis (see section 5.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hepatic impairment
 
 Eltrombopag should not be used in ITP patients with hepatic impairment (ChildPugh score ≥ 5) unless the expected benefit outweighs the identified risk of portal venous thrombosis (see section 4.4).
 
 If the use of eltrombopag is deemed necessary for ITP patients with hepatic impairment the starting dose must be 25 mg once daily. After initiating the dose of eltrombopag in patients with hepatic impairment an interval of 3 weeks should be observed before increasing the dose.
 
-No dose adjustment is required for thrombocytopenic patients with chronic HCV and mild hepatic impairment (Child-Pugh score ≤6). Chronic HCV patients and SAA patients with hepatic impairment
-
-<div style=\"page-break-after: always\"></div>
-
-should initiate eltrombopag at a dose of 25 mg once daily (see section 5.2). After initiating the dose of eltrombopag in patients with hepatic impairment an interval of 2 weeks should be observed before increasing the dose.
+No dose adjustment is required for thrombocytopenic patients with chronic HCV and mild hepatic impairment (Child-Pugh score ≤6). Chronic HCV patients and SAA patients with hepatic impairment should initiate eltrombopag at a dose of 25 mg once daily (see section 5.2). After initiating the dose of eltrombopag in patients with hepatic impairment an interval of 2 weeks should be observed before increasing the dose.
 
 There is an increased risk for adverse events, including hepatic decompensation and thromboembolic events (TEEs), in thrombocytopenic patients with advanced chronic liver disease treated with eltrombopag, either in preparation for invasive procedure or in HCV patients undergoing antiviral therapy (see sections 4.4 and 4.8).
 
@@ -249,11 +243,11 @@ The safety and efficacy of eltrombopag has not been established in children and 
 
 The tablets should be taken at least two hours before or four hours after any products containing polyvalent cations (e.g. iron, calcium, magnesium, aluminium, selenium and zinc), such as antacids, dairy products (or other calcium containing food products), or mineral supplements (see sections 4.5 and 5.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.3 Contraindications
 
 Hypersensitivity to eltrombopag or to any of the excipients listed in section 6.1.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.4 Special warnings and precautions for use
 
@@ -276,15 +270,13 @@ Serum alanine aminotransferase (ALT), aspartate aminotransferase (AST) and bilir
 
 Caution is required when administering eltrombopag to patients with hepatic disease. In ITP and SAA patients a lower starting dose of eltrombopag should be used. Close monitoring is required when administering to patients with hepatic impairment (see section 4.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hepatic decompensation (use with interferon)
 
 Hepatic decompensation in patients with chronic hepatitis C: Monitoring is required in patients with low albumin levels (≤ 35 g/l) or with MELD score ≥ 10 at baseline.
 
-Chronic HCV patients with liver cirrhosis may be at risk of hepatic decompensation when receiving alfa interferon therapy. In two controlled clinical studies in thrombocytopenic patients with HCV, hepatic decompensation (ascites, hepatic encephalopathy, variceal haemorrhage, spontaneous bacterial peritonitis) occurred more frequently in the eltrombopag arm (11%) than in the placebo arm (6%). In patients with low albumin levels (≤ 35 g/l) or with a MELD score ≥10 at baseline, there was a 3-fold greater risk of hepatic decompensation and an increase in the risk of a fatal adverse event compared to those with less advanced liver disease. In addition, the benefits of treatment in terms of the proportion achieving SVR compared with placebo were modest in these patients (especially for those with baseline albumin ≤35 g/l) compared with the group overall. Eltrombopag should only be administered to such patients after careful consideration of the expected benefits in comparison with the risks. Patients with these characteristics should be closely monitored for signs and symptoms of hepatic
-
-<div style=\"page-break-after: always\"></div>
-
-decompensation. The respective interferon summary of product characteristics should be referenced for discontinuation criteria. Eltrombopag should be terminated if antiviral therapy is discontinued for hepatic decompensation.
+Chronic HCV patients with liver cirrhosis may be at risk of hepatic decompensation when receiving alfa interferon therapy. In two controlled clinical studies in thrombocytopenic patients with HCV, hepatic decompensation (ascites, hepatic encephalopathy, variceal haemorrhage, spontaneous bacterial peritonitis) occurred more frequently in the eltrombopag arm (11%) than in the placebo arm (6%). In patients with low albumin levels (≤ 35 g/l) or with a MELD score ≥10 at baseline, there was a 3-fold greater risk of hepatic decompensation and an increase in the risk of a fatal adverse event compared to those with less advanced liver disease. In addition, the benefits of treatment in terms of the proportion achieving SVR compared with placebo were modest in these patients (especially for those with baseline albumin ≤35 g/l) compared with the group overall. Eltrombopag should only be administered to such patients after careful consideration of the expected benefits in comparison with the risks. Patients with these characteristics should be closely monitored for signs and symptoms of hepatic decompensation. The respective interferon summary of product characteristics should be referenced for discontinuation criteria. Eltrombopag should be terminated if antiviral therapy is discontinued for hepatic decompensation.
 
 ## Thrombotic/thromboembolic complications
 
@@ -294,17 +286,15 @@ The risk of TEEs has been found to be increased in patients with chronic liver d
 
 In eltrombopag clinical studies in ITP thromboembolic events were observed at low and normal platelet counts. Caution should be used when administering eltrombopag to patients with known risk factors for thromboembolism including but not limited to inherited (e.g. Factor V Leiden) or acquired risk factors (e.g. ATIII deficiency, antiphospholipid syndrome), advanced age, patients with prolonged periods of immobilisation, malignancies, contraceptives and hormone replacement therapy, surgery/trauma, obesity and smoking. Platelet counts should be closely monitored and consideration given to reducing the dose or discontinuing eltrombopag treatment if the platelet count exceeds the target levels (see section 4.2). The risk-benefit balance should be considered in patients at risk of TEEs of any aetiology.
 
+<div style=\"page-break-after: always\"></div>
+
 No case of TEE was identified from a clinical study in refractory SAA, however the risk of these events cannot be excluded in this patient population due to the limited number of exposed patients. As the highest authorised dose is indicated for patients with SAA (150 mg/day) and due to the nature of the reaction, TEEs might be expected in this patient population.
 
 Eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥5) unless the expected benefit outweighs the identified risk of portal venous thrombosis. When treatment is considered appropriate, caution is required when administering eltrombopag to patients with hepatic impairment (see sections 4.2 and 4.8).
 
 ## Bleeding following discontinuation of eltrombopag
 
-Thrombocytopenia is likely to reoccur in ITP patients upon discontinuation of treatment with eltrombopag. Following discontinuation of eltrombopag, platelet counts return to baseline levels within 2 weeks in the majority of patients, which increases the bleeding risk and in some cases may lead to bleeding. This risk is increased if eltrombopag treatment is discontinued in the presence of anticoagulants or anti-platelet agents. It is recommended that, if treatment with eltrombopag is discontinued, ITP treatment be restarted according to current treatment guidelines. Additional medical management may include cessation of anticoagulant and/or anti-platelet therapy, reversal of anticoagulation, or platelet support. Platelet counts must be monitored weekly for 4 weeks following
-
-<div style=\"page-break-after: always\"></div>
-
-discontinuation of eltrombopag.
+Thrombocytopenia is likely to reoccur in ITP patients upon discontinuation of treatment with eltrombopag. Following discontinuation of eltrombopag, platelet counts return to baseline levels within 2 weeks in the majority of patients, which increases the bleeding risk and in some cases may lead to bleeding. This risk is increased if eltrombopag treatment is discontinued in the presence of anticoagulants or anti-platelet agents. It is recommended that, if treatment with eltrombopag is discontinued, ITP treatment be restarted according to current treatment guidelines. Additional medical management may include cessation of anticoagulant and/or anti-platelet therapy, reversal of anticoagulation, or platelet support. Platelet counts must be monitored weekly for 4 weeks following discontinuation of eltrombopag.
 
 In HCV clinical studies, a higher incidence of gastrointestinal bleeding, including serious and fatal cases, was reported following discontinuation of peginterferon, ribavirin, and eltrombopag. Following discontinuation of therapy, patients should be monitored for any signs or symptoms of gastrointestinal bleeding.
 
@@ -320,6 +310,8 @@ There is a theoretical concern that TPO-R agonists may stimulate the progression
 
 In clinical studies with a TPO-R agonist in patients with MDS, cases of transient increases in blast cell counts were observed and cases of MDS disease progression to acute myeloid leukaemia (AML) were reported.
 
+<div style=\"page-break-after: always\"></div>
+
 The diagnosis of ITP or SAA in adults and elderly patients should be confirmed by the exclusion of other clinical entities presenting with thrombocytopenia, in particular the diagnosis of MDS must be excluded. Consideration should be given to performing a bone marrow aspirate and biopsy over the course of the disease and treatment, particularly in patients over 60 years of age, those with systemic symptoms, or abnormal signs such as increased peripheral blast cells.
 
 The effectiveness and safety of Revolade have not been established for the treatment of thrombocytopenia due to MDS. Revolade should not be used outside of clinical studies for the treatment of thrombocytopenia due to MDS.
@@ -329,8 +321,6 @@ The effectiveness and safety of Revolade have not been established for the treat
 Cytogenetic abnormalities are known to occur in SAA patients. It is not known whether eltrombopag increases the risk of cytogenetic abnormalities in patients with SAA. In the phase II refractory SAA clinical study with eltrombopag with a starting dose of 50 mg/day (escalated every 2 weeks to a maximum of 150 mg/day) (ELT112523), the incidence of new cytogenetic abnormalities was observed in 17.1% of adult patients [7/41 (where 4 of them had changes in chromosome 7)]. The median time on study to a cytogenetic abnormality was 2.9 months.
 
 In the phase II refractory SAA clinical study with eltrombopag at a dose of 150 mg/day (with ethnic or age related modifications as indicated) (ELT116826), the incidence of new cytogenetic abnormalities was observed in 22.6% of adult patients [7/31 (where 3 of them had changes in chromosome 7)]. All 7 patients had normal cytogenetics at baseline. Six patients had cytogenetic abnormality at Month 3 of eltrombopag therapy and one patient had cytogenetic abnormality at Month 6.
-
-<div style=\"page-break-after: always\"></div>
 
 In clinical studies with eltrombopag in SAA, 4% of patients (5/133) were diagnosed with MDS. The median time to diagnosis was 3 months from the start of eltrombopag treatment.
 
@@ -347,6 +337,8 @@ A QTc study in healthy volunteers dosed 150 mg eltrombopag per day did not show 
 ## Loss of response to eltrombopag
 
 A loss of response or failure to maintain a platelet response with eltrombopag treatment within the recommended dosing range should prompt a search for causative factors, including an increased bone marrow reticulin.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -366,11 +358,7 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per film-coated 
 
 ## HMG CoA reductase inhibitors
 
-Administration of eltrombopag 75 mg once daily for 5 days with a single 10 mg dose of the OATP1B1 and BCRP substrate rosuvastatin to 39 healthy adult subjects increased plasma rosuvastatin Cmax 103%
-
-<div style=\"page-break-after: always\"></div>
-
-(90% confidence interval [CI]: 82%, 126%) and AUC0- 55% (90% CI: 42%, 69%). Interactions are also expected with other HMG-CoA reductase inhibitors, including atorvastatin, fluvastatin, lovastatin, pravastatin and simvastatin. When co-administered with eltrombopag, a reduced dose of statins should be considered and careful monitoring for statin adverse reactions should be undertaken (see section 5.2).
+Administration of eltrombopag 75 mg once daily for 5 days with a single 10 mg dose of the OATP1B1 and BCRP substrate rosuvastatin to 39 healthy adult subjects increased plasma rosuvastatin Cmax 103% (90% confidence interval [CI]: 82%, 126%) and AUC0- 55% (90% CI: 42%, 69%). Interactions are also expected with other HMG-CoA reductase inhibitors, including atorvastatin, fluvastatin, lovastatin, pravastatin and simvastatin. When co-administered with eltrombopag, a reduced dose of statins should be considered and careful monitoring for statin adverse reactions should be undertaken (see section 5.2).
 
 ## OATP1B1 and BCRP substrates
 
@@ -386,6 +374,8 @@ Dose adjustment is not required when eltrombopag is co-administered with either 
 
 Co-administration of a single dose of eltrombopag 200 mg with boceprevir 800 mg every 8 hours did not alter plasma boceprevir AUC(0- ), but increased Cmax by 20%, and decreased Cmin by 32%. The clinical relevance of the decrease in Cmin has not been established, increased clinical and laboratory monitoring for HCV suppression is recommended.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Effects of other medicinal products on eltrombopag
 
 ## Ciclosporin
@@ -395,8 +385,6 @@ A decrease in eltrombopag exposure was observed with co-administration of 200 mg
 ## Polyvalent cations (chelation)
 
 Eltrombopag chelates with polyvalent cations such as iron, calcium, magnesium, aluminium, selenium and zinc. Administration of a single dose of eltrombopag 75 mg with a polyvalent cation-containing antacid (1 524 mg aluminium hydroxide and 1 425 mg magnesium carbonate) decreased plasma eltrombopag AUC0- by 70% (90% CI: 64%, 76%) and Cmax by 70% (90% CI: 62%, 76%). Eltrombopag should be taken at least two hours before or four hours after any products such as antacids, dairy products or mineral supplements containing polyvalent cations to avoid significant reduction in eltrombopag absorption due to chelation (see sections 4.2 and 5.2).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Lopinavir/ritonavir
 
@@ -414,6 +402,8 @@ Results of a drug-drug pharmacokinetic (PK) interaction study show that co-admin
 
 Medicinal products used in the treatment of ITP in combination with eltrombopag in clinical studies included corticosteroids, danazol, and/or azathioprine, intravenous immunoglobulin (IVIG), and antiD immunoglobulin. Platelet counts should be monitored when combining eltrombopag with other medicinal products for the treatment of ITP in order to avoid platelet counts outside of the recommended range (see section 4.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Food interaction
 
 The administration of eltrombopag tablet or powder for oral suspension formulations with a highcalcium meal (e.g. a meal that included dairy products) significantly reduced plasma eltrombopag AUC0-∞ and Cmax. In contrast, the administration of eltrombopag 2 hours before or 4 hours after a highcalcium meal or with low-calcium food [&lt;50 mg calcium] did not alter plasma eltrombopag exposure to a clinically significant extent (see section 4.2).
@@ -423,8 +413,6 @@ Administration of a single 50 mg dose of eltrombopag in tablet form with a stand
 Administration of a single 25 mg dose of eltrombopag as powder for oral suspension with a highcalcium, moderate-fat and moderate-calorie meal reduced plasma eltrombopag mean AUC0-∞ by 75% and mean Cmax by 79%. This decrease of exposure was attenuated when a single 25 mg dose of eltrombopag powder for oral suspension was administered 2 hours before a high-calcium meal (mean AUC0-∞ was decreased by 20% and mean Cmax by 14%).
 
 Food low in calcium (&lt;50 mg calcium), including fruit, lean ham, beef and unfortified (no added calcium, magnesium or iron) fruit juice, unfortified soya milk and unfortified grain, did not significantly impact plasma eltrombopag exposure, regardless of calorie and fat content (see sections 4.2 and 4.5).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -450,6 +438,8 @@ Fertility was not affected in male or female rats at exposures that were compara
 
 Eltrombopag has negligible influence on the ability to drive and use machines. The clinical status of the patient and the adverse reaction profile of eltrombopag, including dizziness and lack of alertness, should be borne in mind when considering the patient's ability to perform tasks that require judgement, motor and cognitive skills.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
@@ -458,11 +448,7 @@ Eltrombopag has negligible influence on the ability to drive and use machines. T
 
 The safety of Revolade was assessed in adult patients (N=763) using the pooled double-blind, placebo-controlled studies TRA100773A and B, TRA102537 (RAISE) and TRA113765, in which 403 patients were exposed to Revolade and 179 to placebo, in addition to data from the completed open-label studies (N=360) TRA108057 (REPEAT), TRA105325 (EXTEND) and TRA112940 (see section 5.1). Patients received study medication for up to 8 years (in EXTEND). The most important serious adverse reactions were hepatotoxicity and thrombotic/thromboembolic events. The most common adverse reactions occurring in at least 10% of patients included nausea, diarrhoea, increased alanine aminotransferase and back pain.
 
-The safety of Revolade in paediatric patients (aged 1 to 17 years) with previously treated ITP has been demonstrated in two studies (N=171) (see section 5.1). PETIT2 (TRA115450) was a two-part, doubleblind and open-label, randomised, placebo-controlled study. Patients were randomised 2:1 and received Revolade (n=63) or placebo (n=29) for up to 13 weeks in the randomised period of the study. PETIT (TRA108062) was a three-part, staggered-cohort, open-label and double-blind, randomised, placebo-controlled study. Patients were randomised 2:1 and received Revolade (n=44) or placebo (n=21), for up to 7 weeks. The profile of adverse reactions was comparable to that seen in adults with some additional adverse reactions, marked ♦ in the table below. The most common adverse reactions in paediatric ITP patients 1 year and older ( ≥ 3% and greater than placebo) were upper respiratory tract
-
-<div style=\"page-break-after: always\"></div>
-
-infection, nasopharyngitis, cough, pyrexia, abdominal pain, oropharyngeal pain, toothache and rhinorrhoea.
+The safety of Revolade in paediatric patients (aged 1 to 17 years) with previously treated ITP has been demonstrated in two studies (N=171) (see section 5.1). PETIT2 (TRA115450) was a two-part, doubleblind and open-label, randomised, placebo-controlled study. Patients were randomised 2:1 and received Revolade (n=63) or placebo (n=29) for up to 13 weeks in the randomised period of the study. PETIT (TRA108062) was a three-part, staggered-cohort, open-label and double-blind, randomised, placebo-controlled study. Patients were randomised 2:1 and received Revolade (n=44) or placebo (n=21), for up to 7 weeks. The profile of adverse reactions was comparable to that seen in adults with some additional adverse reactions, marked ♦ in the table below. The most common adverse reactions in paediatric ITP patients 1 year and older ( ≥ 3% and greater than placebo) were upper respiratory tract infection, nasopharyngitis, cough, pyrexia, abdominal pain, oropharyngeal pain, toothache and rhinorrhoea.
 
 ## Thrombocytopenia with HCV infection in adult patients
 
@@ -472,136 +458,143 @@ ENABLE 1 (TPL103922 n=716, 715 treated with eltrombopag) and ENABLE 2 (TPL108390
 
 The safety of Revolade in adult patients with SAA was assessed in a single-arm, open-label study (N=43) in which 11 patients (26%) were treated for &gt;6 months and 7 patients (16%) were treated for &gt;1 year (see section 5.1). The most common adverse reactions occurring in at least 10% of patients included headache, dizziness, cough, oropharyngeal pain, rhinorrhoea, nausea, diarrhoea, abdominal pain, transaminases increased, arthralgia, pain in extremity, muscle spasms, fatigue and pyrexia.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Severe aplastic anaemia in paediatric population
 
-The safety of Revolade in paediatric patients with refractory/relapsed (cohort A; n=14) or treatmentnaive (cohort B; n=37) SAA is assessed in an ongoing open-label, uncontrolled, intra-patient dose escalation study (total N=51) (see also section 5.1 for study details). Adverse events of special interest, including acute kidney injury, hepatotoxicity, thromboembolic events, and clonal evolution or cytogenetic abnormality, were reported in 29 (56.9%), 39 (76.5%), 2 (3.9%), and 1 (2.0%) patients, respectively. Overall, the frequency, type and severity of adverse reactions observed for eltrombopag in paediatric patients with SAA were consistent with those observed in adult patients with SAA.
+The safety of Revolade in paediatric patients with refractory/relapsed (cohort A; n=14) or treatmentnaive (cohort B; n=37) SAA was assessed in an open-label, uncontrolled, intra-patient dose escalation study (total N=51) (see also section 5.1 for study details). Adverse events of special interest, including acute kidney injury, hepatotoxicity, thromboembolic events, and clonal evolution or cytogenetic abnormality, were reported in 29 (56.9%), 39 (76.5%), 2 (3.9%), and 1 (2.0%) patients, respectively. Overall, the frequency, type and severity of adverse reactions observed for eltrombopag in paediatric patients with SAA were consistent with those observed in adult patients with SAA.
 
 ## List of adverse reactions
 
-The adverse reactions in the adult ITP studies (N=763), paediatric ITP studies (N=171), the HCV studies (N=1 520), the adult SAA study (N=43), the paediatric SAA study (N=51) and post-marketing reports are listed below by MedDRA system organ class and by frequency (Tables 4, 5 and 6). Within each system organ class, the adverse drug reactions are ranked by frequency, with the most frequent reactions first. The corresponding frequency category for each adverse drug reaction is based on the following conventi on (CIOMS III): very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); not known (cannot be estimated from the available data).
-
-<div style=\"page-break-after: always\"></div>
+The adverse reactions in the adult ITP studies (N=763), paediatric ITP studies (N=171), the HCV studies (N=1 520), the adult SAA study (N=43), the paediatric SAA study (N=51) and post-marketing reports are listed below by MedDRA system organ class and by frequency (Tables 4, 5 and 6). Within each system organ class, the adverse drug reactions are ranked by frequency, with the most frequent reactions first. The corresponding frequency category for each adverse drug reaction is based on the following convention (CIOMS III): very common ( ≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); not known (cannot be estimated from the available data).
 
 Table 4 Adverse reactions in the ITP study population
 
-| System organ class                                                  | Frequency   | Adverse reaction                                                                                                                                                                                                           |
-|---------------------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                                         | Very common | Nasopharyngitis ♦ , upper respiratory tract infection ♦                                                                                                                                                                    |
-| Infections and infestations                                         | Common      | Pharyngitis, influenza, oral herpes, pneumonia, sinusitis, tonsillitis, respiratory tract infection, gingivitis                                                                                                            |
-| Infections and infestations                                         | Uncommon    | Skin infection                                                                                                                                                                                                             |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Uncommon    | Rectosigmoid cancer                                                                                                                                                                                                        |
-| Blood and lymphatic system disorders                                | Common      | Anaemia, eosinophilia, leukocytosis, thrombocytopenia, haemoglobin decreased, white blood cell count decreased                                                                                                             |
-| Blood and lymphatic system disorders                                | Uncommon    | Anisocytosis, haemolytic anaemia, myelocytosis, band neutrophil count increased, myelocyte present, platelet count increased, haemoglobin increased                                                                        |
-| Immune system disorders                                             | Uncommon    | Hypersensitivity                                                                                                                                                                                                           |
-| Metabolism and nutrition disorders                                  | Common      | Hypokalaemia, decreased appetite, blood uric acid increased                                                                                                                                                                |
-| Metabolism and nutrition disorders                                  | Uncommon    | Anorexia, gout, hypocalcaemia                                                                                                                                                                                              |
-| Psychiatric disorders                                               | Common      | Sleep disorder, depression                                                                                                                                                                                                 |
-| Psychiatric disorders                                               | Uncommon    | Apathy, mood altered, tearfulness                                                                                                                                                                                          |
-| Nervous system disorders                                            | Common      | Paraesthesia, hypoaesthesia, somnolence, migraine                                                                                                                                                                          |
-| Nervous system disorders                                            | Uncommon    | Tremor, balance disorder, dysaesthesia, hemiparesis, migraine with aura, neuropathy peripheral, peripheral sensory neuropathy, speech disorder, toxic neuropathy, vascular headache                                        |
-| Eye disorders                                                       | Common      | Dry eye, vision blurred, eye pain, visual acuity reduced                                                                                                                                                                   |
-| Eye disorders                                                       | Uncommon    | Lenticular opacities, astigmatism, cataract cortical, lacrimation increased, retinal haemorrhage, retinal pigment epitheliopathy, visual impairment, visual acuity tests abnormal, blepharitis, keratoconjunctivitis sicca |
-| Ear and labyrinth disorders                                         | Common      | Ear pain, vertigo                                                                                                                                                                                                          |
-| Cardiac disorders                                                   | Uncommon    | Tachycardia, acute myocardial infarction, cardiovascular disorder, cyanosis, sinus tachycardia, electrocardiogram QT prolonged                                                                                             |
-| Vascular disorders                                                  | Common      | Deep vein thrombosis, haematoma, hot flush                                                                                                                                                                                 |
-| Vascular disorders                                                  | Uncommon    | Embolism, thrombophlebitis superficial, flushing                                                                                                                                                                           |
-| Respiratory, thoracic and mediastinal disorders                     | Very common | Cough ♦                                                                                                                                                                                                                    |
-| Respiratory, thoracic and mediastinal disorders                     | Common      | Oropharyngeal pain ♦ , rhinorrhoea ♦                                                                                                                                                                                       |
-| Respiratory, thoracic and mediastinal disorders                     | Uncommon    | Pulmonary embolism, pulmonary infarction, nasal discomfort, oropharyngeal blistering, sinus disorder, sleep apnoea syndrome                                                                                                |
-| Gastrointestinal disorders                                          | Very common | Nausea, diarrhoea                                                                                                                                                                                                          |
-| Gastrointestinal disorders                                          | Common      | Mouth ulceration, toothache ♦ , vomiting, abdominal pain*, mouth haemorrhage, flatulence * Very common in paediatric ITP                                                                                                   |
-| Gastrointestinal disorders                                          | Uncommon    | Dry mouth, glossodynia, abdominal tenderness, faeces discoloured, food poisoning, frequent bowel movements, haematemesis, oral discomfort                                                                                  |
+| System organ class                                                  | Frequency   | Adverse reaction                                                                                                                                    |
+|---------------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                                         | Very common | Nasopharyngitis ♦ , upper respiratory tract infection ♦                                                                                             |
+| Infections and infestations                                         | Common      | Pharyngitis, influenza, oral herpes, pneumonia, sinusitis, tonsillitis, respiratory tract infection, gingivitis                                     |
+| Infections and infestations                                         | Uncommon    | Skin infection                                                                                                                                      |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Uncommon    | Rectosigmoid cancer                                                                                                                                 |
+| Blood and lymphatic system disorders                                | Common      | Anaemia, eosinophilia, leukocytosis, thrombocytopenia, haemoglobin decreased, white blood cell count decreased                                      |
+| Blood and lymphatic system disorders                                | Uncommon    | Anisocytosis, haemolytic anaemia, myelocytosis, band neutrophil count increased, myelocyte present, platelet count increased, haemoglobin increased |
+| Immune system disorders                                             | Uncommon    | Hypersensitivity                                                                                                                                    |
+| Metabolism and nutrition disorders                                  | Common      | Hypokalaemia, decreased appetite, blood uric acid increased                                                                                         |
+| Metabolism and nutrition disorders                                  | Uncommon    | Anorexia, gout, hypocalcaemia                                                                                                                       |
+| Psychiatric disorders                                               | Common      | Sleep disorder, depression                                                                                                                          |
+| Psychiatric disorders                                               | Uncommon    | Apathy, mood altered, tearfulness                                                                                                                   |
 
 <div style=\"page-break-after: always\"></div>
 
-| Hepatobiliary disorders                         | Hepatobiliary disorders                                                                                                                                                                                                                                                                            | Very common                                                                                                                                                                                                                                                                                        | Alanine aminotransferase increased †                                                                                                                                                                                                                                                               |
-|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                 |                                                                                                                                                                                                                                                                                                    | Common                                                                                                                                                                                                                                                                                             | Aspartate aminotransferase increased † , hyperbilirubinaemia, hepatic function abnormal                                                                                                                                                                                                            |
-|                                                 |                                                                                                                                                                                                                                                                                                    | Uncommon                                                                                                                                                                                                                                                                                           | Cholestasis, hepatic lesion, hepatitis, drug-induced liver injury                                                                                                                                                                                                                                  |
-| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                                                             | Common                                                                                                                                                                                                                                                                                             | Rash, alopecia, hyperhidrosis, pruritus generalised, petechiae                                                                                                                                                                                                                                     |
-|                                                 |                                                                                                                                                                                                                                                                                                    | Uncommon                                                                                                                                                                                                                                                                                           | Urticaria, dermatosis, cold sweat, erythema, melanosis, pigmentation disorder, skin discolouration, skin exfoliation                                                                                                                                                                               |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                                                    | Very common                                                                                                                                                                                                                                                                                        | Back pain                                                                                                                                                                                                                                                                                          |
-|                                                 |                                                                                                                                                                                                                                                                                                    | Common                                                                                                                                                                                                                                                                                             | Myalgia, muscle spasm, musculoskeletal pain, bone pain                                                                                                                                                                                                                                             |
-|                                                 |                                                                                                                                                                                                                                                                                                    | Uncommon                                                                                                                                                                                                                                                                                           | Muscular weakness                                                                                                                                                                                                                                                                                  |
-| Renal and urinary disorders                     | Renal and urinary disorders                                                                                                                                                                                                                                                                        | Common                                                                                                                                                                                                                                                                                             | Proteinuria, blood creatinine increased, thrombotic microangiopathy with renal failure ‡                                                                                                                                                                                                           |
-|                                                 |                                                                                                                                                                                                                                                                                                    | Uncommon                                                                                                                                                                                                                                                                                           | Renal failure, leukocyturia, lupus nephritis, nocturia, blood urea increased, urine protein/creatinine ratio increased                                                                                                                                                                             |
-| Reproductive system and                         | Reproductive system and                                                                                                                                                                                                                                                                            | Common                                                                                                                                                                                                                                                                                             | Menorrhagia                                                                                                                                                                                                                                                                                        |
-| General disorders and administration site       | General disorders and administration site                                                                                                                                                                                                                                                          | Common                                                                                                                                                                                                                                                                                             | Pyrexia*, chest pain, asthenia *Very common in paediatric ITP                                                                                                                                                                                                                                      |
-| conditions                                      | conditions                                                                                                                                                                                                                                                                                         | Uncommon                                                                                                                                                                                                                                                                                           | Feeling hot, vessel puncture site haemorrhage, feeling jittery, inflammation of wound, malaise, sensation of foreign body                                                                                                                                                                          |
-| Investigations                                  | Investigations                                                                                                                                                                                                                                                                                     | Common                                                                                                                                                                                                                                                                                             | Blood alkaline phosphatase increased                                                                                                                                                                                                                                                               |
-|                                                 |                                                                                                                                                                                                                                                                                                    | Uncommon                                                                                                                                                                                                                                                                                           | Blood albumin increased, protein total increased, blood albumin decreased, pH urine increased                                                                                                                                                                                                      |
-| Injury, poisoning and procedural                | Injury, poisoning and procedural                                                                                                                                                                                                                                                                   | Uncommon                                                                                                                                                                                                                                                                                           | Sunburn                                                                                                                                                                                                                                                                                            |
-| ♦ †                                             | complications Additional adverse reactions observed in paediatric studies (aged 1 to 17 years). Increase of alanine aminotransferase and aspartate aminotransferase may occur simultaneously, although a lower frequency. Grouped term with preferred terms acute kidney injury and renal failure. | complications Additional adverse reactions observed in paediatric studies (aged 1 to 17 years). Increase of alanine aminotransferase and aspartate aminotransferase may occur simultaneously, although a lower frequency. Grouped term with preferred terms acute kidney injury and renal failure. | complications Additional adverse reactions observed in paediatric studies (aged 1 to 17 years). Increase of alanine aminotransferase and aspartate aminotransferase may occur simultaneously, although a lower frequency. Grouped term with preferred terms acute kidney injury and renal failure. |
-
-## Table 5 Adverse reactions in the HCV study population (in combination with anti-viral interferon and ribavirin therapy)
-
-| System organ class                                                  | Frequency   | Adverse reaction                                                                                                |
-|---------------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                                         | Common      | Urinary tract infection, upper respiratory tract infection, bronchitis, nasopharyngitis, influenza, oral herpes |
-| Infections and infestations                                         | Uncommon    | Gastroenteritis, pharyngitis                                                                                    |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Common      | Hepatic neoplasm malignant                                                                                      |
-| Blood and lymphatic system disorders                                | Very common | Anaemia                                                                                                         |
-| Blood and lymphatic system disorders                                | Common      | Lymphopenia                                                                                                     |
-| Blood and lymphatic system disorders                                | Uncommon    | Haemolytic anaemia                                                                                              |
-| Metabolism and nutrition disorders                                  | Very common | Decreased appetite                                                                                              |
-| Metabolism and nutrition disorders                                  | Common      | Hyperglycaemia, abnormal loss of weight                                                                         |
+| Nervous system disorders                        | Common      | Paraesthesia, hypoaesthesia, somnolence, migraine                                                                                                                                                                          |
+|-------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nervous system disorders                        | Uncommon    | Tremor, balance disorder, dysaesthesia, hemiparesis, migraine with aura, neuropathy peripheral, peripheral sensory neuropathy, speech disorder, toxic neuropathy, vascular headache                                        |
+| Eye disorders                                   | Common      | Dry eye, vision blurred, eye pain, visual acuity reduced                                                                                                                                                                   |
+| Eye disorders                                   | Uncommon    | Lenticular opacities, astigmatism, cataract cortical, lacrimation increased, retinal haemorrhage, retinal pigment epitheliopathy, visual impairment, visual acuity tests abnormal, blepharitis, keratoconjunctivitis sicca |
+| Ear and labyrinth disorders                     | Common      | Ear pain, vertigo                                                                                                                                                                                                          |
+| Cardiac disorders                               | Uncommon    | Tachycardia, acute myocardial infarction, cardiovascular disorder, cyanosis, sinus tachycardia, electrocardiogram QT prolonged                                                                                             |
+| Vascular disorders                              | Common      | Deep vein thrombosis, haematoma, hot flush                                                                                                                                                                                 |
+| Vascular disorders                              | Uncommon    | Embolism, thrombophlebitis superficial, flushing                                                                                                                                                                           |
+| Respiratory, thoracic and mediastinal disorders | Very common | Cough ♦                                                                                                                                                                                                                    |
+| Respiratory, thoracic and mediastinal disorders | Common      | Oropharyngeal pain ♦ , rhinorrhoea ♦                                                                                                                                                                                       |
+| Respiratory, thoracic and mediastinal disorders | Uncommon    | Pulmonary embolism, pulmonary infarction, nasal discomfort, oropharyngeal blistering, sinus disorder, sleep apnoea syndrome                                                                                                |
+| Gastrointestinal disorders                      | Very common | Nausea, diarrhoea                                                                                                                                                                                                          |
+| Gastrointestinal disorders                      | Common      | Mouth ulceration, toothache ♦ , vomiting, abdominal pain*, mouth haemorrhage, flatulence * Very common in paediatric ITP                                                                                                   |
+| Gastrointestinal disorders                      | Uncommon    | Dry mouth, glossodynia, abdominal tenderness, faeces discoloured, food poisoning, frequent bowel movements, haematemesis, oral discomfort                                                                                  |
+| Hepatobiliary disorders                         | Very common | Alanine aminotransferase increased †                                                                                                                                                                                       |
+| Hepatobiliary disorders                         | Common      | Aspartate aminotransferase increased † , hyperbilirubinaemia, hepatic function abnormal                                                                                                                                    |
+| Hepatobiliary disorders                         | Uncommon    | Cholestasis, hepatic lesion, hepatitis, drug-induced liver injury                                                                                                                                                          |
+| Skin and subcutaneous tissue disorders          | Common      | Rash, alopecia, hyperhidrosis, pruritus generalised, petechiae                                                                                                                                                             |
+| Skin and subcutaneous tissue disorders          | Uncommon    | Urticaria, dermatosis, cold sweat, erythema, melanosis, pigmentation disorder, skin discolouration, skin exfoliation                                                                                                       |
+| Musculoskeletal and connective tissue disorders | Very common | Back pain                                                                                                                                                                                                                  |
+| Musculoskeletal and connective tissue disorders | Common      | Myalgia, muscle spasm, musculoskeletal pain, bone pain                                                                                                                                                                     |
+| Musculoskeletal and connective tissue disorders | Uncommon    | Muscular weakness                                                                                                                                                                                                          |
+| Renal and urinary disorders                     | Common      | Proteinuria, blood creatinine increased, thrombotic microangiopathy with renal failure ‡                                                                                                                                   |
+| Renal and urinary disorders                     | Uncommon    | Renal failure, leukocyturia, lupus nephritis, nocturia, blood urea increased, urine protein/creatinine ratio increased                                                                                                     |
+| Reproductive system and breast disorders        | Common      | Menorrhagia                                                                                                                                                                                                                |
 
 <div style=\"page-break-after: always\"></div>
 
-| Psychiatric disorders                                | Common Uncommon   | Depression, anxiety, sleep disorder Confusional state, agitation                                                                                                                                                                                                              |
-|------------------------------------------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nervous system disorders                             | Very common       | Headache                                                                                                                                                                                                                                                                      |
-| Nervous system disorders                             | Common            | Dizziness, disturbance in attention, dysgeusia, hepatic encephalopathy, lethargy, memory impairment, paraesthesia                                                                                                                                                             |
-| Eye disorders                                        | Common            | Cataract, retinal exudates, dry eye, ocular icterus, retinal haemorrhage                                                                                                                                                                                                      |
-| Ear and labyrinth disorders                          | Common            | Vertigo                                                                                                                                                                                                                                                                       |
-| Cardiac disorders                                    | Common            | Palpitations                                                                                                                                                                                                                                                                  |
-| Respiratory, thoracic and mediastinal disorders      | Very common       | Cough                                                                                                                                                                                                                                                                         |
-| Respiratory, thoracic and mediastinal disorders      | Common            | Dyspnoea, oropharyngeal pain, dyspnoea exertional, productive cough                                                                                                                                                                                                           |
-| Gastrointestinal disorders                           | Very common       | Nausea, diarrhoea                                                                                                                                                                                                                                                             |
-|                                                      | Common            | Vomiting, ascites, abdominal pain, abdominal pain upper, dyspepsia, dry mouth, constipation, abdominal distension, toothache, stomatitis, gastrooesophageal reflux disease, haemorrhoids, abdominal discomfort, varices oesophageal                                           |
-|                                                      | Uncommon          | Oesophageal varices haemorrhage, gastritis, aphthous stomatitis                                                                                                                                                                                                               |
-| Hepatobiliary disorders                              | Common            | Hyperbilirubinaemia, jaundice, drug-induced liver injury                                                                                                                                                                                                                      |
-| Hepatobiliary disorders                              | Uncommon          | Portal vein thrombosis, hepatic failure                                                                                                                                                                                                                                       |
-| Skin and subcutaneous tissue disorders               | Very common       | Pruritus                                                                                                                                                                                                                                                                      |
-| Skin and subcutaneous tissue disorders               | Common            | Rash, dry skin, eczema, rash pruritic, erythema, hyperhidrosis, pruritus generalised, alopecia                                                                                                                                                                                |
-| Skin and subcutaneous tissue disorders               | Uncommon          | Skin lesion, skin discolouration, skin hyperpigmentation, night sweats                                                                                                                                                                                                        |
-| Musculoskeletal and connective tissue disorder       | Very common       | Myalgia                                                                                                                                                                                                                                                                       |
-| Musculoskeletal and connective tissue disorder       | Common            | Arthralgia, muscle spasms, back pain, pain in extremity, musculoskeletal pain, bone pain                                                                                                                                                                                      |
-| Renal and urinary disorders                          | Uncommon          | Thrombotic microangiopathy with acute renal failure † , dysuria                                                                                                                                                                                                               |
-| General disorders and administration site conditions | Very common       | Pyrexia, fatigue, influenza-like illness, asthenia, chills                                                                                                                                                                                                                    |
-| General disorders and administration site conditions | Common            | Irritability, pain, malaise, injection site reaction, non- cardiac chest pain, oedema, oedema peripheral                                                                                                                                                                      |
-| General disorders and administration site conditions | Uncommon          | Injection site pruritus, injection site rash, chest discomfort                                                                                                                                                                                                                |
-| Investigations                                       | Common            | Blood bilirubin increased, weight decreased, white blood cell count decreased, haemoglobin decreased, neutrophil count decreased, international normalised ratio increased, activated partial thromboplastin time prolonged, blood glucose increased, blood albumin decreased |
-| Investigations                                       | Uncommon          | Electrocardiogram QT prolonged                                                                                                                                                                                                                                                |
-| † Grouped term with preferred                        | terms oliguria,   | renal failure and renal impairment.                                                                                                                                                                                                                                           |
+| General disorders and administration site conditions                                                                                                                                                                                                                                          | Common                                                                                                                                                                                                                                                                                        | Pyrexia*, chest pain, asthenia *Very common in paediatric ITP                                                                                                                                                                                                                                 |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| General disorders and administration site conditions                                                                                                                                                                                                                                          | Uncommon                                                                                                                                                                                                                                                                                      | Feeling hot, vessel puncture site haemorrhage, feeling jittery, inflammation of wound, malaise, sensation of foreign body                                                                                                                                                                     |
+| Investigations                                                                                                                                                                                                                                                                                | Common                                                                                                                                                                                                                                                                                        | Blood alkaline phosphatase increased                                                                                                                                                                                                                                                          |
+| Investigations                                                                                                                                                                                                                                                                                | Uncommon                                                                                                                                                                                                                                                                                      | Blood albumin increased, protein total increased, blood albumin decreased, pH urine increased                                                                                                                                                                                                 |
+| Injury, poisoning and procedural complications                                                                                                                                                                                                                                                | Uncommon                                                                                                                                                                                                                                                                                      | Sunburn                                                                                                                                                                                                                                                                                       |
+| ♦ Additional adverse reactions observed in paediatric studies (aged 1 to 17 years). † Increase of alanine aminotransferase and aspartate aminotransferase may occur simultaneously, although at a lower frequency. ‡ Grouped term with preferred terms acute kidney injury and renal failure. | ♦ Additional adverse reactions observed in paediatric studies (aged 1 to 17 years). † Increase of alanine aminotransferase and aspartate aminotransferase may occur simultaneously, although at a lower frequency. ‡ Grouped term with preferred terms acute kidney injury and renal failure. | ♦ Additional adverse reactions observed in paediatric studies (aged 1 to 17 years). † Increase of alanine aminotransferase and aspartate aminotransferase may occur simultaneously, although at a lower frequency. ‡ Grouped term with preferred terms acute kidney injury and renal failure. |
+
+Table 5 Adverse reactions in the HCV study population (in combination with anti-viral interferon and ribavirin therapy)
+
+| System organ class                                                  | Frequency   | Adverse reaction                                                                                                  |
+|---------------------------------------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                                         | Common      | Urinary tract infection, upper respiratory tract infection, bronchitis, nasopharyngitis, influenza, oral herpes   |
+| Infections and infestations                                         | Uncommon    | Gastroenteritis, pharyngitis                                                                                      |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Common      | Hepatic neoplasm malignant                                                                                        |
+| Blood and lymphatic system disorders                                | Very common | Anaemia                                                                                                           |
+| Blood and lymphatic system disorders                                | Common      | Lymphopenia                                                                                                       |
+| Blood and lymphatic system disorders                                | Uncommon    | Haemolytic anaemia                                                                                                |
+| Metabolism and nutrition disorders                                  | Very common | Decreased appetite                                                                                                |
+| Metabolism and nutrition disorders                                  | Common      | Hyperglycaemia, abnormal loss of weight                                                                           |
+| Psychiatric disorders                                               | Common      | Depression, anxiety, sleep disorder                                                                               |
+| Psychiatric disorders                                               | Uncommon    | Confusional state, agitation                                                                                      |
+| Nervous system disorders                                            | Very common | Headache                                                                                                          |
+| Nervous system disorders                                            | Common      | Dizziness, disturbance in attention, dysgeusia, hepatic encephalopathy, lethargy, memory impairment, paraesthesia |
+| Eye disorders                                                       | Common      | Cataract, retinal exudates, dry eye, ocular icterus, retinal haemorrhage                                          |
+| Ear and labyrinth disorders                                         | Common      | Vertigo                                                                                                           |
+| Cardiac disorders                                                   | Common      | Palpitations                                                                                                      |
 
 <div style=\"page-break-after: always\"></div>
+
+| Respiratory, thoracic and mediastinal disorders                                 | Very common                                                                     | Cough                                                                                                                                                                                                                                                                         |
+|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Respiratory, thoracic and mediastinal disorders                                 | Common                                                                          | Dyspnoea, oropharyngeal pain, dyspnoea exertional, productive cough                                                                                                                                                                                                           |
+| Gastrointestinal disorders                                                      | Very common                                                                     | Nausea, diarrhoea                                                                                                                                                                                                                                                             |
+| Gastrointestinal disorders                                                      | Common                                                                          | Vomiting, ascites, abdominal pain, abdominal pain upper, dyspepsia, dry mouth, constipation, abdominal distension, toothache, stomatitis, gastrooesophageal reflux disease, haemorrhoids, abdominal discomfort, varices oesophageal                                           |
+| Gastrointestinal disorders                                                      | Uncommon                                                                        | Oesophageal varices haemorrhage, gastritis, aphthous stomatitis                                                                                                                                                                                                               |
+| Hepatobiliary disorders                                                         | Common                                                                          | Hyperbilirubinaemia, jaundice, drug-induced liver injury                                                                                                                                                                                                                      |
+| Hepatobiliary disorders                                                         | Uncommon                                                                        | Portal vein thrombosis, hepatic failure                                                                                                                                                                                                                                       |
+| Skin and subcutaneous tissue disorders                                          | Very common                                                                     | Pruritus                                                                                                                                                                                                                                                                      |
+| Skin and subcutaneous tissue disorders                                          | Common                                                                          | Rash, dry skin, eczema, rash pruritic, erythema, hyperhidrosis, pruritus generalised, alopecia                                                                                                                                                                                |
+| Skin and subcutaneous tissue disorders                                          | Uncommon                                                                        | Skin lesion, skin discolouration, skin hyperpigmentation, night sweats                                                                                                                                                                                                        |
+| Musculoskeletal and connective tissue disorder                                  | Very common                                                                     | Myalgia                                                                                                                                                                                                                                                                       |
+| Musculoskeletal and connective tissue disorder                                  | Common                                                                          | Arthralgia, muscle spasms, back pain, pain in extremity, musculoskeletal pain, bone pain                                                                                                                                                                                      |
+| Renal and urinary disorders                                                     | Uncommon                                                                        | Thrombotic microangiopathy with acute renal failure † , dysuria                                                                                                                                                                                                               |
+| General disorders and administration site conditions                            | Very common                                                                     | Pyrexia, fatigue, influenza-like illness, asthenia, chills                                                                                                                                                                                                                    |
+| General disorders and administration site conditions                            | Common                                                                          | Irritability, pain, malaise, injection site reaction, non- cardiac chest pain, oedema, oedema peripheral                                                                                                                                                                      |
+| General disorders and administration site conditions                            | Uncommon                                                                        | Injection site pruritus, injection site rash, chest discomfort                                                                                                                                                                                                                |
+| Investigations                                                                  | Common                                                                          | Blood bilirubin increased, weight decreased, white blood cell count decreased, haemoglobin decreased, neutrophil count decreased, international normalised ratio increased, activated partial thromboplastin time prolonged, blood glucose increased, blood albumin decreased |
+| Investigations                                                                  | Uncommon                                                                        | Electrocardiogram QT prolonged                                                                                                                                                                                                                                                |
+| Grouped term with preferred terms oliguria, renal failure and renal impairment. | Grouped term with preferred terms oliguria, renal failure and renal impairment. | Grouped term with preferred terms oliguria, renal failure and renal impairment.                                                                                                                                                                                               |
 
 Table 6 Adverse reactions in the SAA study population
 
-| System organ class                                   | Frequency   | Adverse reaction                                                                                                                                                                                                         |
-|------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders                 | Common      | Neutropenia, splenic infarction                                                                                                                                                                                          |
-| Metabolism and nutrition disorders                   | Common      | Iron overload, decreased appetite, hypoglycaemia, increased appetite                                                                                                                                                     |
-| Psychiatric disorders                                | Common      | Anxiety, depression                                                                                                                                                                                                      |
-| Nervous system disorders                             | Very common | Headache, dizziness                                                                                                                                                                                                      |
-| Nervous system disorders                             | Common      | Syncope                                                                                                                                                                                                                  |
-| Eye disorders                                        | Common      | Dry eye, cataract, ocular icterus, vision blurred, visual impairment, vitreous floaters                                                                                                                                  |
-| Respiratory, thoracic and mediastinal disorders      | Very common | Cough, oropharyngeal pain, rhinorrhoea                                                                                                                                                                                   |
-| Respiratory, thoracic and mediastinal disorders      | Common      | Epistaxis                                                                                                                                                                                                                |
-| Gastrointestinal disorders                           | Very common | Diarrhoea, nausea, abdominal pain                                                                                                                                                                                        |
-| Gastrointestinal disorders                           | Common      | Oral mucosal blistering, oral pain, vomiting, abdominal discomfort, constipation, gingival bleeding, abdominal distension, dysphagia, faeces discoloured, swollen tongue, gastrointestinal motility disorder, flatulence |
-| Hepatobiliary disorders                              | Very common | Transaminases increased                                                                                                                                                                                                  |
-| Hepatobiliary disorders                              | Common      | Blood bilirubin increased (hyperbilirubinemia), jaundice                                                                                                                                                                 |
-| Hepatobiliary disorders                              | Not known   | Drug-induced liver injury                                                                                                                                                                                                |
-| Skin and subcutaneous tissue disorders               | Common      | Petechiae, rash, pruritus, urticaria, skin lesion, rash macular                                                                                                                                                          |
-| Skin and subcutaneous tissue disorders               | Not known   | Skin discolouration, skin hyperpigmentation                                                                                                                                                                              |
-| Musculosketal and connective tissue disorders        | Very common | Arthralgia, pain in extremity, muscle spasms                                                                                                                                                                             |
-| Musculosketal and connective tissue disorders        | Common      | Back pain, myalgia, bone pain                                                                                                                                                                                            |
-| Renal and urinary disorders                          | Common      | Chromaturia                                                                                                                                                                                                              |
-| General disorders and administration site conditions | Very common | Fatigue, pyrexia, chills                                                                                                                                                                                                 |
-| General disorders and administration site conditions | Common      | Asthenia, oedema peripheral, malaise                                                                                                                                                                                     |
-| Investigations                                       | Common      | Blood creatine phosphokinase increased                                                                                                                                                                                   |
+| System organ class                   | Frequency   | Adverse reaction                                                                        |
+|--------------------------------------|-------------|-----------------------------------------------------------------------------------------|
+| Blood and lymphatic system disorders | Common      | Neutropenia, splenic infarction                                                         |
+| Metabolism and nutrition disorders   | Common      | Iron overload, decreased appetite, hypoglycaemia, increased appetite                    |
+| Psychiatric disorders                | Common      | Anxiety, depression                                                                     |
+| Nervous system disorders             | Very common | Headache, dizziness                                                                     |
+| Nervous system disorders             | Common      | Syncope                                                                                 |
+| Eye disorders                        | Common      | Dry eye, cataract, ocular icterus, vision blurred, visual impairment, vitreous floaters |
+
+<div style=\"page-break-after: always\"></div>
+
+| Respiratory, thoracic and mediastinal disorders      | Very common   | Cough, oropharyngeal pain, rhinorrhoea                                                                                                                                                                                   |
+|------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Respiratory, thoracic and mediastinal disorders      | Common        | Epistaxis                                                                                                                                                                                                                |
+| Gastrointestinal disorders                           | Very common   | Diarrhoea, nausea, abdominal pain                                                                                                                                                                                        |
+| Gastrointestinal disorders                           | Common        | Oral mucosal blistering, oral pain, vomiting, abdominal discomfort, constipation, gingival bleeding, abdominal distension, dysphagia, faeces discoloured, swollen tongue, gastrointestinal motility disorder, flatulence |
+| Hepatobiliary disorders                              | Very common   | Transaminases increased                                                                                                                                                                                                  |
+| Hepatobiliary disorders                              | Common        | Blood bilirubin increased (hyperbilirubinemia), jaundice                                                                                                                                                                 |
+| Hepatobiliary disorders                              | Not known     | Drug-induced liver injury                                                                                                                                                                                                |
+| Skin and subcutaneous tissue disorders               | Common        | Petechiae, rash, pruritus, urticaria, skin lesion, rash macular                                                                                                                                                          |
+| Skin and subcutaneous tissue disorders               | Not known     | Skin discolouration, skin hyperpigmentation                                                                                                                                                                              |
+| Musculosketal and connective tissue disorders        | Very common   | Arthralgia, pain in extremity, muscle spasms                                                                                                                                                                             |
+| Musculosketal and connective tissue disorders        | Common        | Back pain, myalgia, bone pain                                                                                                                                                                                            |
+| Renal and urinary disorders                          | Common        | Chromaturia                                                                                                                                                                                                              |
+| General disorders and administration site conditions | Very common   | Fatigue, pyrexia, chills                                                                                                                                                                                                 |
+| General disorders and administration site conditions | Common        | Asthenia, oedema peripheral, malaise                                                                                                                                                                                     |
+| Investigations                                       | Common        | Blood creatine phosphokinase increased                                                                                                                                                                                   |
 
 ## Description of selected adverse reactions
 
@@ -611,13 +604,11 @@ In 3 controlled and 2 uncontrolled clinical studies among adult ITP patients rec
 
 In a placebo-controlled study (n=288, Safety population), following 2 weeks ' treatment in preparation for invasive procedures, 6 of 143 (4%) adult patients with chronic liver disease receiving eltrombopag experienced 7 TEEs of the portal venous system and 2 of 145 (1%) patients in the placebo group experienced 3 TEEs. Five of the 6 patients treated with eltrombopag experienced the TEE at a platelet count &gt;200 000/µl
 
-No specific risk factors were identified in those patients who experienced a TEE with the exception of
-
-<div style=\"page-break-after: always\"></div>
-
-platelet counts ≥ 200 000/µl (see section 4.4).
+No specific risk factors were identified in those patients who experienced a TEE with the exception of platelet counts ≥ 200 000/µl (see section 4.4).
 
 In controlled studies in thrombocytopenic patients with HCV (n=1 439), 38 out of 955 patients (4%) treated with eltrombopag experienced a TEE and 6 out of 484 patients (1%) in the placebo group experienced TEEs. Portal vein thrombosis was the most common TEE in both treatment groups (2% in patients treated with eltrombopag versus &lt; 1% for placebo) (see section 4.4). Patients with low albumin levels (≤ 35 g/l ) or MELD ≥10 had a 2-fold greater risk of TEEs than those with higher albumin levels; those aged ≥60 years had a 2-fold greater risk of TEEs compared to younger patients.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hepatic decompensation (use with interferon)
 
@@ -641,11 +632,11 @@ In the 3 controlled clinical ITP studies, transient decreases in platelet counts
 
 Across the programme, no patients had evidence of clinically relevant bone marrow abnormalities or clinical findings that would indicate bone marrow dysfunction. In a small number of ITP patients, eltrombopag treatment was discontinued due to bone marrow reticulin (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Cytogenetic abnormalities
 
 In the phase II refractory SAA clinical study with eltrombopag with a starting dose of 50 mg/day (escalated every 2 weeks to a maximum of 150 mg/day) (ELT112523), the incidence of new cytogenetic abnormalities was observed in 17.1% of adult patients [7/41 (where 4 of them had changes in chromosome 7)]. The median time on study to a cytogenetic abnormality was 2.9 months.
+
+<div style=\"page-break-after: always\"></div>
 
 In the phase II refractory SAA clinical study with eltrombopag at a dose of 150 mg/day (with ethnic or age related modifications as indicated) (ELT116826), the incidence of new cytogenetic abnormalities was observed in 22.6% of adult patients [7/31 (where 3 of them had changes in chromosome 7)]. All 7 patients had normal cytogenetics at baseline. Six patients had cytogenetic abnormality at Month 3 of eltrombopag therapy and one patient had cytogenetic abnormality at Month 6.
 
@@ -673,11 +664,9 @@ Pharmacotherapeutic group: Antihemorrhagics, other systemic hemostatics. ATC cod
 
 ## Mechanism of action
 
-TPO is the main cytokine involved in regulation of megakaryopoiesis and platelet production, and is the endogenous ligand for the TPO-R. Eltrombopag interacts with the transmembrane domain of the
+TPO is the main cytokine involved in regulation of megakaryopoiesis and platelet production, and is the endogenous ligand for the TPO-R. Eltrombopag interacts with the transmembrane domain of the human TPO-R and initiates signalling cascades similar but not identical to that of endogenous thrombopoietin (TPO), inducing proliferation and differentiation from bone marrow progenitor cells.
 
 <div style=\"page-break-after: always\"></div>
-
-human TPO-R and initiates signalling cascades similar but not identical to that of endogenous thrombopoietin (TPO), inducing proliferation and differentiation from bone marrow progenitor cells.
 
 ## Clinical efficacy and safety
 
@@ -685,7 +674,9 @@ human TPO-R and initiates signalling cascades similar but not identical to that 
 
 Two phase III, randomised, double-blind, placebo-controlled studies RAISE (TRA102537) and TRA100773B and two open-label studies REPEAT (TRA108057) and EXTEND (TRA105325) evaluated the safety and efficacy of eltrombopag in adult patients with previously treated ITP. Overall, eltrombopag was administered to 277 ITP patients for at least 6 months and 202 patients for at least 1 year. The single-arm phase II study TAPER (CETB115J2411) evaluated the safety and efficacy of eltrombopag and its ability to induce sustained response after treatment discontinuation in 105 adult ITP patients who relapsed or failed to respond to first-line corticosteroid treatment.
 
-## Double-blind placebo-controlled studies RAISE:
+## Double-blind placebo-controlled studies
+
+## RAISE:
 
 197 ITP patients were randomised 2:1, eltrombopag (n=135) to placebo (n=62), and randomisation was stratified based upon splenectomy status, use of ITP medicinal products at baseline and baseline platelet count. The dose of eltrombopag was adjusted during the 6-month treatment period based on individual platelet counts. All patients initiated treatment with eltrombopag 50 mg. From Day 29 to the end of treatment, 15 to 28% of eltrombopagtreated patients were maintained on ≤25 mg and 29 to 53% received 75 mg.
 
@@ -757,13 +748,11 @@ This was a single-arm phase II study including ITP patients treated with eltromb
 
 Of the 105 patients who were enrolled in the study and who received at least one dose of eltrombopag, 69 patients (65.7%) completed treatment and 36 patients (34.3%) discontinued treatment early.
 
-## Analysis of sustained response off treatment
-
-The primary endpoint was the proportion of patients with sustained response off treatment until Month 12. Patients who reached a platelet count of ≥100 000/µl and maintained platelet counts around
-
 <div style=\"page-break-after: always\"></div>
 
-100 000/µl for 2 months (no counts below 70 000/µl) were eligible for tapering off eltrombopag and treatment discontinuation. To be considered as having achieved a sustained response off treatment, a patient had to maintain platelet counts ≥30 000/µl, in the absence of bleeding events or the use of rescue therapy, both during the treatment tapering period and following discontinuation of treatment until Month 12.
+## Analysis of sustained response off treatment
+
+The primary endpoint was the proportion of patients with sustained response off treatment until Month 12. Patients who reached a platelet count of ≥100 000/µl and maintained platelet counts around 100 000/µl for 2 months (no counts below 70 000/µl) were eligible for tapering off eltrombopag and treatment discontinuation. To be considered as having achieved a sustained response off treatment, a patient had to maintain platelet counts ≥30 000/µl, in the absence of bleeding events or the use of rescue therapy, both during the treatment tapering period and following discontinuation of treatment until Month 12.
 
 The duration of tapering was individualised depending on the starting dose and the response of the patient. The tapering schedule recommended dose reductions of 25 mg every 2 weeks if the platelet counts were stable. After the daily dose was reduced to 25 mg for 2 weeks, the dose of 25 mg was then only administered on alternate days for 2 weeks until treatment discontinuation. The tapering was done in smaller decrements of 12.5 mg every second week for patients of East-/Southeast-Asian ancestry. If a relapse (defined as platelet count &lt;30 000/µl) occurred, patients were offered a new course of eltrombopag at the appropriate starting dose.
 
@@ -844,13 +833,11 @@ At baseline, 71% of patients in the eltrombopag group and 69% in the placebo gro
 
 Patients were permitted to reduce or discontinue baseline ITP therapy only during the open-label phase of the study and 53% (8/15) of patients were able to reduce (n=1) or discontinue (n=7) baseline ITP therapy, mainly corticosteroids, without needing rescue therapy.
 
-## TRA108062 (PETIT):
-
-The primary endpoint was the proportion of patients achieving platelet counts ≥50 000/µl at least once between weeks 1 and 6 of the randomised period. Patients were diagnosed with ITP for at least 6 months and were refractory or relapsed to at least one prior ITP therapy with a platelet count &lt;30 000/µl (n=67). During the randomised period of the study, patients were randomised by three age
-
 <div style=\"page-break-after: always\"></div>
 
-cohort strata (2:1) to eltrombopag (n=45) or placebo (n=22). The dose of eltrombopag could be adjusted based on individual platelet counts.
+## TRA108062 (PETIT):
+
+The primary endpoint was the proportion of patients achieving platelet counts ≥50 000/µl at least once between weeks 1 and 6 of the randomised period. Patients were diagnosed with ITP for at least 6 months and were refractory or relapsed to at least one prior ITP therapy with a platelet count &lt;30 000/µl (n=67). During the randomised period of the study, patients were randomised by three age cohort strata (2:1) to eltrombopag (n=45) or placebo (n=22). The dose of eltrombopag could be adjusted based on individual platelet counts.
 
 Overall, a significantly greater proportion of eltrombopag patients (62%) compared with placebo patients (32%) met the primary endpoint (Odds Ratio: 4.3 [95% CI: 1.4, 13.3] p=0.011).
 
@@ -906,11 +893,9 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 Eltrombopag was studied in a single-arm, single-centre, open-label study in 43 patients with SAA with refractory thrombocytopenia following at least one prior immunosuppressive therapy (IST) and who had a platelet count ≤30 000/µl.
 
-The majority of patients , 33 (77%), were considered to have 'primary refractory disease', defined as having no prior adequate response to IST in any lineage. The remaining 10 patients had insufficient platelet response to prior therapies. All 10 had received at least 2 prior IST regimens and 50% had received at least 3 prior IST regimens. Patients with diagnosis of Fanconi anaemia, infection not
-
 <div style=\"page-break-after: always\"></div>
 
-responding to appropriate therapy, PNH clone size in neutrophils of ≥ 50%, where excluded from participation.
+The majority of patients , 33 (77%), were considered to have 'primary refractory disease', defined as having no prior adequate response to IST in any lineage. The remaining 10 patients had insufficient platelet response to prior therapies. All 10 had received at least 2 prior IST regimens and 50% had received at least 3 prior IST regimens. Patients with diagnosis of Fanconi anaemia, infection not responding to appropriate therapy, PNH clone size in neutrophils of ≥ 50%, where excluded from participation.
 
 At baseline the median platelet count was 20 000/µl, haemoglobin was 8.4 g/dl, ANC was 0.58 x 10 9 /l and absolute reticulocyte count was 24.3 x 10 9 /l. Eighty-six percent of patients were RBC transfusion dependent, and 91% were platelet transfusion dependent. The majority of patients (84%) had received at least 2 prior immunosuppressive therapies. Three patients had cytogenetic abnormalities at baseline.
 
@@ -926,13 +911,13 @@ Preliminary results from a supportive study (Study ELT116826), an ongoing non-ra
 
 ## Paediatric population
 
-The efficacy of oral eltrombopag in paediatric patients aged 2 to 17 years with refractory/relapsed (cohort A; n=14) or treatment-naive (cohort B; n=37) SAA is assessed in an ongoing open-label, uncontrolled, intra-patient dose escalation study (total N=51) (study CETB115E2201) (see also section 4.2). Cohort A consisted of 14 patients with refractory (6 patients) or relapsed (8 patients) SAA. These 14 patients received one of two treatment regimens: 1) eltrombopag plus horse antithymocyte globulin (hATG)/cyclosporine A (CsA) or 2) eltrombopag plus CsA. In cohort B, 37 ISTnaive SAA patients were treated with hATG and CsA in addition to eltrombopag. The treatment duration was 26 weeks with an additional 52-week follow-up period.
+The efficacy of oral eltrombopag in paediatric patients aged 2 to 17 years with refractory/relapsed (cohort A; n=14) or treatment-naive (cohort B; n=37) SAA was assessed in an open-label, uncontrolled, intra-patient dose escalation study (total N=51) (study CETB115E2201) (see also section 4.2). Cohort A consisted of 14 patients with refractory (6 patients) or relapsed (8 patients) SAA. These 14 patients received one of two treatment regimens: 1) eltrombopag plus horse antithymocyte globulin (hATG)/cyclosporine A (CsA) or 2) eltrombopag plus CsA. In cohort B, 37 ISTnaive SAA patients were treated with hATG and CsA in addition to eltrombopag. The treatment duration was 26 weeks with an additional 52-week follow-up period and long-term follow-up of up to three years.
+
+<div style=\"page-break-after: always\"></div>
 
 Eltrombopag starting doses were 25 mg daily in patients aged from 1 to &lt;6 years and 50 mg daily in patients aged 6 to &lt;18 years, regardless of ethnicity. Intra-patient dose escalations were permitted every 2 weeks until the patient had either achieved the targeted platelet count or reached the maximum dose (150 mg), whichever occurred first.
 
 The primary objective was to characterise the PK of eltrombopag at the highest individual steady-state dose (see section 5.2). Secondary efficacy objectives were to assess the overall response rate (ORR) and platelet response rate (PRR), and to evaluate platelet and red blood cell transfusion independence.
-
-<div style=\"page-break-after: always\"></div>
 
 ORR was defined as the proportion of patients who had either a complete response (CR) or a partial response (PR). CR was defined as meeting the criteria platelet and red blood cell transfusion independence, normal age-adjusted haemoglobin, platelet count &gt;100 x 10 9 /l, and absolute neutrophil count &gt;1.5 x 10 9 /l. PR was defined as meeting at least two or more of the following criteria: absolute reticulocyte count &gt;30 x 10 9 /l, platelet count &gt;30 x 10 9 /l, absolute neutrophil count &gt;0.5 x 10 9 /l above baseline with transfusion independence for at least 28 days for platelet transfusion and 56 days for red blood cell (RBC) transfusion. PRR was also defined as the proportion of patients who had either a complete response (CR) or a partial response (PR). CR was defined as meeting the criteria platelet count &gt;100 x 10 9 /l. PR was defined as meeting the criteria platelet count &gt;30 x 10 9 /l.
 
@@ -940,7 +925,7 @@ The median age of the overall population was 10 years old (range: 2 to 17 years)
 
 The ORR was 19.6% at Week 12, 52.9% at Week 26, 45.1% at Week 52, and 45.1% at Week 78 for all patients. The ORR was generally higher in Cohort A than in Cohort B (e.g. 71.4% vs. 45.9% at Week 26). The PRR was 47.1% at Week 12, 56.9% at Week 26, 51.0% at Week 52, and 49.0% at Week 78.
 
-Twenty-eight (7 patients in Cohort A and 21 patients in Cohort B) of the 42 patients who were RBC transfusion-dependent at baseline achieved transfusion independence for at least 56 days during the study. As of the data cut-off date (22-April-2022), the median of the longest RBC transfusion-free period was 264 days for 34 patients (range: 58 to 1 074), 321 days (range: 185 to 860 days) for Cohort A, and 259 days (range: 58 to 1 074 days) for Cohort B. Thirty-three (8 patients in Cohort A and 25 patients in Cohort B) of the 43 patients who were platelet transfusion-dependent at baseline achieved transfusion independence for at least 28 days during the study. As of the data cut-off date, the median of the longest platelet transfusion-free period was 263 days (range: 34 to 1 067 days) for 40 patients, 268 days (range: 36 to 860 days) for Cohort A, and 250 days (range: 34 to 1 067 days) for Cohort B.
+Twenty-eight (7 patients in Cohort A and 21 patients in Cohort B) of the 42 patients who were RBC transfusion-dependent at baseline achieved transfusion independence for at least 56 days during the study. The median of the longest RBC transfusion-free period was 266 days for 34 patients (range: 58 to 1 637), 321 days (range: 185 to 1 637 days) for Cohort A, and 262 days (range: 58 to 1 296 days) for Cohort B. Thirty-three (8 patients in Cohort A and 25 patients in Cohort B) of the 43 patients who were platelet transfusion-dependent at baseline achieved transfusion independence for at least 28 days during the study. The median of the longest platelet transfusion-free period was 263 days (range: 34 to 1 637 days) for 40 patients, 268 days (range: 36 to 1 637 days) for Cohort A, and 250 days (range: 34 to 1 289 days) for Cohort B.
 
 Safety results were consistent with the known safety profile of eltrombopag (see section 4.8).
 
@@ -952,6 +937,8 @@ Efficacy results were not sufficient to conclude on the efficacy of eltrombopag 
 
 The plasma eltrombopag concentration-time data collected in 88 patients with ITP in studies TRA100773A and TRA100773B were combined with data from 111 healthy adult subjects in a population PK analysis. Plasma eltrombopag AUC(0- ) and Cmax estimates for ITP patients are presented (Table 12).
 
+<div style=\"page-break-after: always\"></div>
+
 Table 12 Geometric mean (95% confidence intervals) of steady-state plasma eltrombopag pharmacokinetic parameters in adults with ITP
 
 | Eltrombopag dose, once daily   |   N | AUC (0-  ) a,  g.h/ml   | C max a ,  g/ml   |
@@ -960,22 +947,17 @@ Table 12 Geometric mean (95% confidence intervals) of steady-state plasma eltrom
 | 50 mg                          |  34 | 108 (88, 134)             | 8.01 (6.73, 9.53)  |
 | 75 mg                          |  26 | 168 (143, 198)            | 12.7 (11.0, 14.5)  |
 
-Plasma eltrombopag concentration-time data collected in 590 patients with HCV enrolled in phase III studies TPL103922/ENABLE 1 and TPL108390/ENABLE 2 were combined with data from patients
-
-<div style=\"page-break-after: always\"></div>
-
-with HCV enrolled in the phase II study TPL102357 and healthy adult subjects in a population PK analysis. Plasma eltrombopag Cmax and AUC(0- ) estimates for adult patients with HCV enrolled in the phase III studies are presented for each dose studied in Table 13.
+Plasma eltrombopag concentration-time data collected in 590 patients with HCV enrolled in phase III studies TPL103922/ENABLE 1 and TPL108390/ENABLE 2 were combined with data from patients with HCV enrolled in the phase II study TPL102357 and healthy adult subjects in a population PK analysis. Plasma eltrombopag Cmax and AUC(0- ) estimates for adult patients with HCV enrolled in the phase III studies are presented for each dose studied in Table 13.
 
 Table 13 Geometric mean (95% CI) steady-state plasma eltrombopag pharmacokinetic parameters in patients with chronic HCV
 
-| Eltrombopag dose (once daily)   |   N | AUC (0-  ) (  g.h/ml)   | C max (  g/ml)      |
-|---------------------------------|-----|---------------------------|----------------------|
-| 25 mg                           | 330 | 118 (109, 128)            | 6.40 (5.97, 6.86)    |
-| 50 mg                           | 119 | 166 (143, 192)            | 9.08 (7.96, 10.35)   |
-| 75 mg                           |  45 | 301 (250, 363)            | 16.71 (14.26, 19.58) |
-| 100 mg                          |  96 | 354 (304, 411)            | 19.19 (16.81, 21.91) |
-
-AUC(0- ) and Cmax based on population PK post-hoc estimates at the highest dose in the data for each patient.
+| Eltrombopag dose (once daily)                                                                                     | N                                                                                                                 | AUC (0-  ) (  g.h/ml)                                                                                           | C max (  g/ml)                                                                                                   |
+|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| 25 mg                                                                                                             | 330                                                                                                               | 118 (109, 128)                                                                                                    | 6.40 (5.97, 6.86)                                                                                                 |
+| 50 mg                                                                                                             | 119                                                                                                               | 166 (143, 192)                                                                                                    | 9.08 (7.96, 10.35)                                                                                                |
+| 75 mg                                                                                                             | 45                                                                                                                | 301 (250, 363)                                                                                                    | 16.71 (14.26, 19.58)                                                                                              |
+| 100 mg                                                                                                            | 96                                                                                                                | 354 (304, 411)                                                                                                    | 19.19 (16.81, 21.91)                                                                                              |
+| AUC (0-  ) and C max based on population PK post-hoc estimates at the highest dose in the data for each patient. | AUC (0-  ) and C max based on population PK post-hoc estimates at the highest dose in the data for each patient. | AUC (0-  ) and C max based on population PK post-hoc estimates at the highest dose in the data for each patient. | AUC (0-  ) and C max based on population PK post-hoc estimates at the highest dose in the data for each patient. |
 
 ## Absorption and bioavailability
 
@@ -985,6 +967,8 @@ Eltrombopag is absorbed with a peak concentration occurring 2 to 6 hours after o
 
 Eltrombopag is highly bound to human plasma proteins (&gt;99.9%), predominantly to albumin. Eltrombopag is a substrate for BCRP, but is not a substrate for P-glycoprotein or OATP1B1.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Biotransformation
 
 Eltrombopag is primarily metabolised through cleavage, oxidation and conjugation with glucuronic acid, glutathione, or cysteine. In a human radiolabel study, eltrombopag accounted for approximately 64% of plasma radiocarbon AUC0- . Minor metabolites due to glucuronidation and oxidation were also detected. In vitro studies suggest that CYP1A2 and CYP2C8 are responsible for oxidative metabolism of eltrombopag. Uridine diphosphoglucuronyl transferase UGT1A1 and UGT1A3 are responsible for glucuronidation, and bacteria in the lower gastrointestinal tract may be responsible for the cleavage pathway.
@@ -992,8 +976,6 @@ Eltrombopag is primarily metabolised through cleavage, oxidation and conjugation
 ## Elimination
 
 Absorbed eltrombopag is extensively metabolised. The predominant route of eltrombopag excretion is via faeces (59%) with 31% of the dose found in the urine as metabolites. Unchanged parent compound (eltrombopag) is not detected in urine. Unchanged eltrombopag excreted in faeces accounts for approximately 20% of the dose. The plasma elimination half-life of eltrombopag is approximately 2132 hours.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pharmacokinetic interactions
 
@@ -1007,6 +989,8 @@ Eltrombopag chelates with polyvalent cations such as iron, calcium, magnesium, a
 
 In vitro studies demonstrated that eltrombopag is not a substrate for the organic anion transporter polypeptide, OATP1B1, but is an inhibitor of this transporter (IC50 value of 2.7 μM [1.2 μg/ml ]). In vitro studies also demonstrated that eltrombopag is a breast cancer resistance protein (BCRP) substrate and inhibitor (IC50 value of 2.7 μM [1.2 μg/ml ]) .
 
+<div style=\"page-break-after: always\"></div>
+
 ## Special patient populations
 
 ## Renal impairment
@@ -1017,11 +1001,7 @@ The pharmacokinetics of eltrombopag have been studied after administration of el
 
 The pharmacokinetics of eltrombopag have been studied after administration of eltrombopag to adult patients with hepatic impairment. Following the administration of a single 50 mg dose, the AUC0- of eltrombopag was 41% higher in patients with mild hepatic impairment and 80% to 93% higher in patients with moderate to severe hepatic impairment compared with healthy volunteers. There was substantial variability and significant overlap in exposures between patients with hepatic impairment and healthy volunteers. Unbound eltrombopag (active) concentrations for this highly protein-bound medicinal product were not measured.
 
-The influence of hepatic impairment on the pharmacokinetics of eltrombopag following repeat administration was evaluated using a population pharmacokinetic analysis in 28 healthy adults and 714 patients with hepatic impairment (673 patients with HCV and 41 patients with chronic liver disease of other aetiology). Of the 714 patients, 642 were with mild hepatic impairment, 67 with moderate hepatic impairment, and 2 with severe hepatic impairment. Compared to healthy volunteers,
-
-<div style=\"page-break-after: always\"></div>
-
-patients with mild hepatic impairment had approximately 111% (95% CI: 45% to 283%) higher plasma eltrombopag AUC(0- ) values and patients with moderate hepatic impairment had approximately 183% (95% CI: 90% to 459%) higher plasma eltrombopag AUC(0- ) values.
+The influence of hepatic impairment on the pharmacokinetics of eltrombopag following repeat administration was evaluated using a population pharmacokinetic analysis in 28 healthy adults and 714 patients with hepatic impairment (673 patients with HCV and 41 patients with chronic liver disease of other aetiology). Of the 714 patients, 642 were with mild hepatic impairment, 67 with moderate hepatic impairment, and 2 with severe hepatic impairment. Compared to healthy volunteers, patients with mild hepatic impairment had approximately 111% (95% CI: 45% to 283%) higher plasma eltrombopag AUC(0- ) values and patients with moderate hepatic impairment had approximately 183% (95% CI: 90% to 459%) higher plasma eltrombopag AUC(0- ) values.
 
 Therefore, eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥ 5) unless the expected benefit outweighs the identified risk of portal venous thrombosis (see sections 4.2 and 4.4). For patients with HCV initiate eltrombopag at a dose of 25 mg once daily (see section 4.2).
 
@@ -1030,6 +1010,8 @@ Therefore, eltrombopag should not be used in ITP patients with hepatic impairmen
 The influence of East-Asian ethnicity on the pharmacokinetics of eltrombopag was evaluated using a population pharmacokinetic analysis in 111 healthy adults (31 East-Asians) and 88 patients with ITP (18 East-Asians). Based on estimates from the population pharmacokinetic analysis, East-Asian ITP patients had approximately 49% higher plasma eltrombopag AUC(0- ) values as compared to non-EastAsian patients who were predominantly Caucasian (see section 4.2).
 
 The influence of East-/Southeast-Asian ethnicity on the pharmacokinetics of eltrombopag was evaluated using a population pharmacokinetic analysis in 635 patients with HCV (145 East-Asians and 69 Southeast-Asians). Based on estimates from the population pharmacokinetic analysis, East/Southeast-Asian patients had approximately 55% higher plasma eltrombopag AUC(0- ) values as compared to patients of other races who were predominantly Caucasian (see section 4.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Gender
 
@@ -1047,8 +1029,6 @@ The pharmacokinetics of eltrombopag have been evaluated in 168 paediatric ITP pa
 
 The pharmacokinetic parameters of eltrombopag in paediatric patients with ITP are shown in Table 14.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 14 Geometric mean (95% CI) steady-state plasma eltrombopag pharmacokinetic parameters in paediatric patients with ITP (50 mg once daily dosing regimen)
 
 | Age                                                                                                        | C max (µg/ml)                                                                                              | AUC (0- τ ) (µg.hr/ml)                                                                                     |
@@ -1060,11 +1040,13 @@ Table 14 Geometric mean (95% CI) steady-state plasma eltrombopag pharmacokinetic
 
 Plasma eltrombopag PK data collected at the highest individual steady state dose from 38 paediatric patients with first-line (cohort B) or second-line (cohort A) SAA enrolled in study CETB115E2201 are presented after adjustment to a common 50 mg dose in Table 15. Overall, eltrombopag clearance was lower and eltrombopag plasma exposure was higher for patients aged 2 to &lt;6 years of age compared to patients aged 6 to &lt;18 years.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 15 Eltrombopag steady-state PK parameters in CETB115E2201, adjusted to a 50 mg dose, at the highest individual dose (Week 12 or later) by cohort and age group
 
 | Treatment             | Age group       | Statistic   | AUC (0- τ) (µg.hr/ml)   | C max (µg/ml)   |
 |-----------------------|-----------------|-------------|-------------------------|-----------------|
-| Cohort A(N=11)        | 2 to <6 years   | n           | 1                       | 1               |
+| Cohort A (N=11)       | 2 to <6 years   | n           | 1                       | 1               |
 |                       |                 | Geo-mean    | 272                     | 16.1            |
 |                       |                 | Geo-CV%     |                         |                 |
 |                       | 6 to <18 years  | n           | 5                       | 7               |
@@ -1091,9 +1073,9 @@ Cohort A: eltrombopag administered as second-line treatment, Cohort B: eltrombop
 
 Eltrombopag does not stimulate platelet production in mice, rats or dogs because of unique TPO receptor specificity. Therefore, data from these animals do not fully model potential adverse effects related to the pharmacology of eltrombopag in humans, including the reproduction and carcinogenicity studies.
 
-<div style=\"page-break-after: always\"></div>
-
 Treatment-related cataracts were detected in rodents and were dose and time-dependent. At ≥6 times the human clinical exposure in adult ITP patients at 75 mg/day and 3 times the human clinical exposure in adult HCV patients at 100 mg/day, based on AUC, cataracts were observed in mice after 6 weeks and rats after 28 weeks of dosing. At  4 times the human clinical exposure in ITP patients at 75 mg/day and 2 times the human exposure in HCV patients at 100 mg/day, based on AUC, cataracts were observed in mice after 13 weeks and in rats after 39 weeks of dosing. At non-tolerated doses in pre-weaning juvenile rats dosed from Days 4-32 (approximately equating to a 2-year-old human at the end of the dosing period), ocular opacities were observed (histology not performed) at 9 times the maximum human clinical exposure in paediatric ITP patients at 75 mg/day, based on AUC. However, cataracts were not observed in juvenile rats given tolerated doses at 5 times the human clinical exposure in paediatric ITP patients, based on AUC. Cataracts have not been observed in adult dogs after 52 weeks of dosing at 2 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and equivalent to the human clinical exposure in HCV patients at 100 mg/day, based on AUC).
+
+<div style=\"page-break-after: always\"></div>
 
 Renal tubular toxicity was observed in studies of up to 14 days duration in mice and rats at exposures that were generally associated with morbidity and mortality. Tubular toxicity was also observed in a 2year oral carcinogenicity study in mice at doses of 25, 75 and 150 mg/kg/day. Effects were less severe at lower doses and were characterised by a spectrum of regenerative changes. The exposure at the lowest dose was 1.2 or 0.8 times the human clinical exposure based on AUC in adult or paediatric ITP patients at 75 mg/day and 0.6 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC. Renal effects were not observed in rats after 28 weeks or in dogs after 52 weeks at exposures 4 and 2 times the human clinical exposure in adult ITP patients and 3 and 2 times the human clinical exposure in paediatric ITP patients at 75 mg/day and 2 times and equivalent to the human clinical exposure in HCV patients at 100 mg/day, based on AUC.
 
@@ -1105,11 +1087,9 @@ Endosteal hyperostosis was observed in a 28-week toxicity study in rats at a non
 
 ## Carcinogenicity and mutagenicity
 
-Eltrombopag was not carcinogenic in mice at doses up to 75 mg/kg/day or in rats at doses up to 40 mg/kg/day (exposures up to 4 or 2 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 2 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC). Eltrombopag was not mutagenic or clastogenic in a bacterial mutation assay or in two in vivo assays in rats (micronucleus and unscheduled DNA synthesis, 10 times or 8 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 7 times the human clinical
+Eltrombopag was not carcinogenic in mice at doses up to 75 mg/kg/day or in rats at doses up to 40 mg/kg/day (exposures up to 4 or 2 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 2 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC). Eltrombopag was not mutagenic or clastogenic in a bacterial mutation assay or in two in vivo assays in rats (micronucleus and unscheduled DNA synthesis, 10 times or 8 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 7 times the human clinical exposure in HCV patients at 100 mg/day, based on Cmax). In the in vitro mouse lymphoma assay, eltrombopag was marginally positive (&lt;3-fold increase in mutation frequency). These in vitro and in vivo findings suggest that eltrombopag does not pose a genotoxic risk to humans.
 
 <div style=\"page-break-after: always\"></div>
-
-exposure in HCV patients at 100 mg/day, based on Cmax). In the in vitro mouse lymphoma assay, eltrombopag was marginally positive (&lt;3-fold increase in mutation frequency). These in vitro and in vivo findings suggest that eltrombopag does not pose a genotoxic risk to humans.
 
 ## Reproductive toxicity
 
@@ -1171,9 +1151,7 @@ Tablet core Magnesium stearate Mannitol (E421) Microcrystalline cellulose Povido
 
 ## Tablet coating
 
-Hypromellose (E464) Iron oxide red (E172) Iron oxide black (E172) Macrogol 400 (E1521)
-
-Titanium dioxide (E171)
+Hypromellose (E464) Iron oxide red (E172) Iron oxide black (E172) Macrogol 400 (E1521) Titanium dioxide (E171)
 
 ## 6.2 Incompatibilities
 
@@ -1289,13 +1267,11 @@ Eltrombopag dosing requirements must be individualised based on the patient's pl
 
 The powder for oral suspension may lead to higher eltrombopag exposure than the tablet formulation (see section 5.2). When switching between the tablet and the powder for oral suspension formulations, platelet counts should be monitored weekly for 2 weeks.
 
-## Immune (primary) thrombocytopenia
-
-The lowest dose of eltrombopag to achieve and maintain a platelet count ≥50 000/µl should be used.
-
 <div style=\"page-break-after: always\"></div>
 
-Dose adjustments are based upon the platelet count response. Eltrombopag must not be used to normalise platelet counts. In clinical studies, platelet counts generally increased within 1 to 2 weeks after starting eltrombopag and decreased within 1 to 2 weeks after discontinuation.
+## Immune (primary) thrombocytopenia
+
+The lowest dose of eltrombopag to achieve and maintain a platelet count ≥50 000/µl should be used. Dose adjustments are based upon the platelet count response. Eltrombopag must not be used to normalise platelet counts. In clinical studies, platelet counts generally increased within 1 to 2 weeks after starting eltrombopag and decreased within 1 to 2 weeks after discontinuation.
 
 ## Adults and paediatric population aged 6 to 17 years
 
@@ -1313,13 +1289,15 @@ Clinical haematology and liver tests should be monitored regularly throughout th
 
 Table 1 Dose adjustments of eltrombopag in ITP patients
 
-| Platelet count                                                                                                                                                                                                                                                            | Dose adjustment or response                                                                                                                                                                                                                                               |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <50 000/µl following at least 2 weeks of therapy                                                                                                                                                                                                                          | Increase daily dose by 25 mg to a maximum of 75 mg/day*.                                                                                                                                                                                                                  |
-|  50 000/µl to  150 000/µl                                                                                                                                                                                                                                               | Use lowest dose of eltrombopag and/or concomitant ITP treatment to maintain platelet counts that avoid or reduce bleeding.                                                                                                                                                |
-| >150 000/µl to  250 000/µl                                                                                                                                                                                                                                               | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments ♦ .                                                                                                                                                      |
-| >250 000/µl                                                                                                                                                                                                                                                               | Stop eltrombopag; increase the frequency of platelet monitoring to twice weekly. Once the platelet count is ≤100 000/µl, reinitiate therapy at a daily dose reduced by 25 mg.                                                                                             |
-| * For patients taking 25 mg eltrombopag once every other day, increase dose to 25 mg once daily. ♦ For patients taking 25 mg eltrombopag once daily, consideration should be given to dosing at 12.5 mg once daily or alternatively a dose of 25 mg once every other day. | * For patients taking 25 mg eltrombopag once every other day, increase dose to 25 mg once daily. ♦ For patients taking 25 mg eltrombopag once daily, consideration should be given to dosing at 12.5 mg once daily or alternatively a dose of 25 mg once every other day. |
+| Platelet count                                                                                                                                                                                          | Dose adjustment or response                                                                                                                                                                             |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <50 000/µl following at least 2 weeks of therapy                                                                                                                                                        | Increase daily dose by 25 mg to a maximum of 75 mg/day*.                                                                                                                                                |
+|  50 000/µl to  150 000/µl                                                                                                                                                                             | Use lowest dose of eltrombopag and/or concomitant ITP treatment to maintain platelet counts that avoid or reduce bleeding.                                                                              |
+| >150 000/µl to  250 000/µl                                                                                                                                                                             | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments ♦ .                                                                                    |
+| >250 000/µl                                                                                                                                                                                             | Stop eltrombopag; increase the frequency of platelet monitoring to twice weekly. Once the platelet count is ≤100 000/µl, reinitiate therapy at a daily dose reduced by 25 mg.                           |
+| * For patients taking 25 mg eltrombopag once every other day, increase dose to 25 mg once daily. ♦ For patients taking 25 mg eltrombopag once daily, consideration should be given to dosing at 12.5 mg | * For patients taking 25 mg eltrombopag once every other day, increase dose to 25 mg once daily. ♦ For patients taking 25 mg eltrombopag once daily, consideration should be given to dosing at 12.5 mg |
+
+- ♦ For patients taking 25 mg eltrombopag once daily, consideration should be given to dosing at 12.5 mg once daily or alternatively a dose of 25 mg once every other day.
 
 Eltrombopag can be administered in addition to other ITP medicinal products. The dose regimen of concomitant ITP medicinal products should be modified, as medically appropriate, to avoid excessive increases in platelet counts during therapy with eltrombopag.
 
@@ -1327,15 +1305,13 @@ It is necessary to wait for at least 2 weeks to see the effect of any dose adjus
 
 The standard eltrombopag dose adjustment, either decrease or increase, would be 25 mg once daily.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Discontinuation
 
 Treatment with eltrombopag should be discontinued if the platelet count does not increase to a level sufficient to avoid clinically important bleeding after 4 weeks of eltrombopag therapy at 75 mg once daily.
 
-Patients should be clinically evaluated periodically and continuation of treatment should be decided on
-
-<div style=\"page-break-after: always\"></div>
-
-an individual basis by the treating physician. In non-splenectomised patients this should include evaluation relative to splenectomy. The reoccurrence of thrombocytopenia is possible upon discontinuation of treatment (see section 4.4).
+Patients should be clinically evaluated periodically and continuation of treatment should be decided on an individual basis by the treating physician. In non-splenectomised patients this should include evaluation relative to splenectomy. The reoccurrence of thrombocytopenia is possible upon discontinuation of treatment (see section 4.4).
 
 ## Chronic hepatitis C (HCV) associated thrombocytopenia
 
@@ -1355,19 +1331,17 @@ During antiviral therapy, the dose of eltrombopag should be adjusted as necessar
 
 A dose of 100 mg eltrombopag once daily must not be exceeded.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 2 Dose adjustments of eltrombopag in HCV patients during antiviral therapy
 
-| Platelet count                                   | Dose adjustment or response                                                                                                                                                    |
-|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <50 000/µl following at least 2 weeks of therapy | Increase daily dose by 25 mg to a maximum of 100 mg/day.                                                                                                                       |
-| ≥50 000/µl to ≤100 000/µl                        | Use lowest dose of eltrombopag as necessary to avoid dose reductions of peginterferon.                                                                                         |
-| >100 000/µl to ≤150 000/µl                       | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments ♦ .                                                           |
-| >150 000/µl                                      | Stop eltrombopag; increase the frequency of platelet monitoring to twice weekly. Once the platelet count is ≤100 000/µl, reinitiate therapy at a daily dose reduced by 25 mg*. |
-
-* For patients taking 25 mg eltrombopag once daily, consideration should be given to reinitiating dosing at 25 mg every other day.
-- ♦ On initiation of antiviral therapy the platelet count may fall, so immediate eltrombopag dose reductions should be avoided.
-
-<div style=\"page-break-after: always\"></div>
+| Platelet count                                                                                                                                                                                                                                                   | Dose adjustment or response                                                                                                                                                                                                                                      |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <50 000/µl following at least 2 weeks of therapy                                                                                                                                                                                                                 | Increase daily dose by 25 mg to a maximum of 100 mg/day.                                                                                                                                                                                                         |
+| ≥50 000/µl to ≤100 000/µl                                                                                                                                                                                                                                        | Use lowest dose of eltrombopag as necessary to avoid dose reductions of peginterferon.                                                                                                                                                                           |
+| >100 000/µl to ≤150 000/µl                                                                                                                                                                                                                                       | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments ♦ .                                                                                                                                             |
+| >150 000/µl                                                                                                                                                                                                                                                      | Stop eltrombopag; increase the frequency of platelet monitoring to twice weekly. Once the platelet count is ≤100 000/µl, reinitiate therapy at a daily dose reduced by 25 mg*.                                                                                   |
+| * For patients taking 25 mg eltrombopag once daily, consideration should be given to reinitiating dosing at 25 mg every other day. ♦ On initiation of antiviral therapy the platelet count may fall, so immediate eltrombopag dose reductions should be avoided. | * For patients taking 25 mg eltrombopag once daily, consideration should be given to reinitiating dosing at 25 mg every other day. ♦ On initiation of antiviral therapy the platelet count may fall, so immediate eltrombopag dose reductions should be avoided. |
 
 ## Discontinuation
 
@@ -1384,6 +1358,8 @@ Eltrombopag should be initiated at a dose of 50 mg once daily. For patients of E
 ## Monitoring and dose adjustment
 
 Haematological response requires dose titration, generally up to 150 mg, and may take up to 16 weeks after starting eltrombopag (see section 5.1). The dose of eltrombopag should be adjusted in 50 mg increments every 2 weeks as necessary to achieve the target platelet count ≥50 000/µl. For patients taking 25 mg once daily, the dose should be increased to 50 mg daily before increasing the dose amount by 50 mg. A dose of 150 mg daily must not be exceeded. Clinical haematology and liver tests should be monitored regularly throughout therapy with eltrombopag and the dosage regimen of eltrombopag modified based on platelet counts as outlined in Table 3.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 3 Dose adjustment of eltrombopag in patients with severe aplastic anaemia
 
@@ -1402,8 +1378,6 @@ If counts remain stable after 8 weeks at the reduced dose, then eltrombopag must
 
 If no haematological response has occurred after 16 weeks of therapy with eltrombopag, therapy should be discontinued. If new cytogenetic abnormalities are detected, it must be evaluated whether continuation of eltrombopag is appropriate ( see sections 4.4 and 4.8). Excessive platelet count responses (as outlined in Table 3) or important liver test abnormalities also necessitate discontinuation of eltrombopag (see section 4.8).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Special populations
 
 ## Renal impairment
@@ -1419,6 +1393,8 @@ If the use of eltrombopag is deemed necessary for ITP patients with hepatic impa
 No dose adjustment is required for thrombocytopenic patients with chronic HCV and mild hepatic impairment (Child-Pugh score ≤6). Chronic HCV patients and SAA patients with hepatic impairment should initiate eltrombopag at a dose of 25 mg once daily (see section 5.2). After initiating the dose of eltrombopag in patients with hepatic impairment an interval of 2 weeks should be observed before increasing the dose.
 
 There is an increased risk for adverse events, including hepatic decompensation and thromboembolic events (TEEs), in thrombocytopenic patients with advanced chronic liver disease treated with eltrombopag, either in preparation for invasive procedure or in HCV patients undergoing antiviral therapy (see sections 4.4 and 4.8).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Elderly
 
@@ -1440,11 +1416,9 @@ The safety and efficacy of eltrombopag has not been established in children and 
 
 The safety and efficacy of eltrombopag has not been established in children and adolescents (&lt;18 years) with SAA. Currently available data are described in sections 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Method of administration (see section 6.6)
 
-## Oral use.
+Oral use.
 
 The suspension should be taken at least two hours before or four hours after any products containing polyvalent cations (e.g. iron, calcium, magnesium, aluminium, selenium and zinc), such as antacids, dairy products (or other calcium containing food products), or mineral supplements (see sections 4.5 and 5.2).
 
@@ -1455,6 +1429,8 @@ Hypersensitivity to eltrombopag or to any of the excipients listed in section 6.
 ## 4.4 Special warnings and precautions for use
 
 There is an increased risk for adverse reactions, including potentially fatal hepatic decompensation and thromboembolic events, in thrombocytopenic HCV patients with advanced chronic liver disease, as defined by low albumin levels ≤35 g/l or model for end stage liver disease (MELD) score ≥10, when treated with eltrombopag in combination with interferon-based therapy. In addition, the benefits of treatment in terms of the proportion achieving sustained virological response (SVR) compared with placebo were modest in these patients (especial ly for those with baseline albumin ≤35 g/l) compared with the group overall. Treatment with eltrombopag in these patients should be initiated only by physicians experienced in the management of advanced HCV, and only when the risks of thrombocytopenia or withholding antiviral therapy necessitate intervention. If treatment is considered clinically indicated, close monitoring of these patients is required.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Combination with direct-acting antiviral agents
 
@@ -1477,9 +1453,9 @@ Caution is required when administering eltrombopag to patients with hepatic dise
 
 Hepatic decompensation in patients with chronic hepatitis C: Monitoring is required in patients with low albumin levels (≤35 g/l) or with MELD score ≥10 at baseline.
 
-<div style=\"page-break-after: always\"></div>
-
 Chronic HCV patients with liver cirrhosis may be at risk of hepatic decompensation when receiving alfa interferon therapy. In two controlled clinical studies in thrombocytopenic patients with HCV, hepatic decompensation (ascites, hepatic encephalopathy, variceal haemorrhage, spontaneous bacterial peritonitis) occurred more frequently in the eltrombopag arm (11%) than in the placebo arm (6%). In patients with low albumin levels (≤35 g/l) or with a MELD score ≥10 at baseline, there was a 3-fold greater risk of hepatic decompensation and an increase in the risk of a fatal adverse event compared to those with less advanced liver disease. In addition, the benefits of treatment in terms of the proportion achieving SVR compared with placebo were modest in these patients (especially for those with baseline albumin ≤35 g/l) compared with the group overall. Eltrombopag should only be administered to such patients after careful consideration of the expected benefits in comparison with the risks. Patients with these characteristics should be closely monitored for signs and symptoms of hepatic decompensation. The respective interferon summary of product characteristics should be referenced for discontinuation criteria. Eltrombopag should be terminated if antiviral therapy is discontinued for hepatic decompensation.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Thrombotic/thromboembolic complications
 
@@ -1491,15 +1467,13 @@ In eltrombopag clinical studies in ITP thromboembolic events were observed at lo
 
 No case of TEE was identified from a clinical study in refractory SAA, however the risk of these events cannot be excluded in this patient population due to the limited number of exposed patients. As the highest authorised dose is indicated for patients with SAA (150 mg/day) and due to the nature of the reaction, TEEs might be expected in this patient population.
 
-Eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥5) unless the expected benefit outweighs the identified risk of portal venous thrombosis. When treatment is considered appropriate, caution is required when administering eltrombopag to patients with hepatic
-
-<div style=\"page-break-after: always\"></div>
-
-## impairment (see sections 4.2 and 4.8).
+Eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥5) unless the expected benefit outweighs the identified risk of portal venous thrombosis. When treatment is considered appropriate, caution is required when administering eltrombopag to patients with hepatic impairment (see sections 4.2 and 4.8).
 
 ## Bleeding following discontinuation of eltrombopag
 
 Thrombocytopenia is likely to reoccur in ITP patients upon discontinuation of treatment with eltrombopag. Following discontinuation of eltrombopag, platelet counts return to baseline levels within 2 weeks in the majority of patients, which increases the bleeding risk and in some cases may lead to bleeding. This risk is increased if eltrombopag treatment is discontinued in the presence of anticoagulants or anti-platelet agents. It is recommended that, if treatment with eltrombopag is discontinued, ITP treatment be restarted according to current treatment guidelines. Additional medical management may include cessation of anticoagulant and/or anti-platelet therapy, reversal of anticoagulation, or platelet support. Platelet counts must be monitored weekly for 4 weeks following discontinuation of eltrombopag.
+
+<div style=\"page-break-after: always\"></div>
 
 In HCV clinical studies, a higher incidence of gastrointestinal bleeding, including serious and fatal cases, was reported following discontinuation of peginterferon, ribavirin, and eltrombopag. Following discontinuation of therapy, patients should be monitored for any signs or symptoms of gastrointestinal bleeding.
 
@@ -1519,13 +1493,13 @@ The diagnosis of ITP or SAA in adults and elderly patients should be confirmed b
 
 The effectiveness and safety of Revolade have not been established for the treatment of thrombocytopenia due to MDS. Revolade should not be used outside of clinical studies for the treatment of thrombocytopenia due to MDS.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Cytogenetic abnormalities and progression to MDS/AML in patients with SAA
 
 Cytogenetic abnormalities are known to occur in SAA patients. It is not known whether eltrombopag increases the risk of cytogenetic abnormalities in patients with SAA. In the phase II refractory SAA clinical study with eltrombopag with a starting dose of 50 mg/day (escalated every 2 weeks to a maximum of 150 mg/day) (ELT112523), the incidence of new cytogenetic abnormalities was observed in 17.1% of patients [7/41 (where 4 of them had changes in chromosome 7)]. The median time on study to a cytogenetic abnormality was 2.9 months.
 
 In the phase II refractory SAA clinical study with eltrombopag at a dose of 150 mg/day (with ethnic or age related modifications as indicated) (ELT116826), the incidence of new cytogenetic abnormalities was observed in 22.6% of adult patients [7/31 (where 3 of them had changes in chromosome 7)]. All 7 patients had normal cytogenetics at baseline. Six patients had cytogenetic abnormality at Month 3 of eltrombopag therapy and one patient had cytogenetic abnormality at Month 6.
+
+<div style=\"page-break-after: always\"></div>
 
 In clinical studies with eltrombopag in SAA, 4% of patients (5/133) were diagnosed with MDS. The median time to diagnosis was 3 months from the start of eltrombopag treatment.
 
@@ -1551,8 +1525,6 @@ The above warnings and precautions for ITP also apply to the paediatric populati
 
 Eltrombopag is highly coloured and so has the potential to interfere with some laboratory tests. Serum discolouration and interference with total bilirubin and creatinine testing have been reported in patients taking Revolade. If the laboratory results and clinical observations are inconsistent, re-testing using another method may help in determining the validity of the result.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 ## Effects of eltrombopag on other medicinal products
@@ -1560,6 +1532,8 @@ Eltrombopag is highly coloured and so has the potential to interfere with some l
 ## HMG CoA reductase inhibitors
 
 Administration of eltrombopag 75 mg once daily for 5 days with a single 10 mg dose of the OATP1B1 and BCRP substrate rosuvastatin to 39 healthy adult subjects increased plasma rosuvastatin Cmax 103% (90% confidence interval [CI]: 82%, 126%) and AUC0- 55% (90% CI: 42%, 69%). Interactions are also expected with other HMG-CoA reductase inhibitors, including atorvastatin, fluvastatin, lovastatin, pravastatin and simvastatin. When co-administered with eltrombopag, a reduced dose of statins should be considered and careful monitoring for statin adverse reactions should be undertaken (see section 5.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## OATP1B1 and BCRP substrates
 
@@ -1581,11 +1555,11 @@ Co-administration of a single dose of eltrombopag 200 mg with boceprevir 800 mg 
 
 A decrease in eltrombopag exposure was observed with co-administration of 200 mg and 600 mg ciclosporin (a BCRP inhibitor). The co-administration of 200 mg ciclosporin decreased the Cmax and the AUC0- of eltrombopag by 25% and 18%, respectively. The co-administration of 600 mg ciclosporin decreased the Cmax and the AUC0- of eltrombopag by 39% and 24%, respectively. Eltrombopag dose adjustment is permitted during the course of the treatment based on the patient's platelet count (see section 4.2). Platelet count should be monitored at least weekly for 2 to 3 weeks when eltrombopag is co-administered with ciclosporin. Eltrombopag dose may need to be increased based on these platelet counts.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Polyvalent cations (chelation)
 
 Eltrombopag chelates with polyvalent cations such as iron, calcium, magnesium, aluminium, selenium and zinc. Administration of a single dose of eltrombopag 75 mg with a polyvalent cation-containing antacid (1 524 mg aluminium hydroxide and 1 425 mg magnesium carbonate) decreased plasma eltrombopag AUC0- by 70% (90% CI: 64%, 76%) and Cmax by 70% (90% CI: 62%, 76%). Eltrombopag should be taken at least two hours before or four hours after any products such as antacids, dairy products or mineral supplements containing polyvalent cations to avoid significant reduction in eltrombopag absorption due to chelation (see sections 4.2 and 5.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Lopinavir/ritonavir
 
@@ -1609,13 +1583,11 @@ The administration of eltrombopag tablet or powder for oral suspension formulati
 
 Administration of a single 50 mg dose of eltrombopag in tablet form with a standard high-calorie, high-fat breakfast that included dairy products reduced plasma eltrombopag mean AUC0-∞ by 59% and mean Cmax by 65%.
 
-Administration of a single 25 mg dose of eltrombopag as powder for oral suspension with a highcalcium, moderate-fat and moderate-calorie meal reduced plasma eltrombopag mean AUC0-∞ by 75% and mean Cmax by 79%. This decrease of exposure was attenuated when a single 25 mg dose of
-
-<div style=\"page-break-after: always\"></div>
-
-eltrombopag powder for oral suspension was administered 2 hours before a high-calcium meal (mean AUC0-∞ was decreased by 20% and mean Cmax by 14%).
+Administration of a single 25 mg dose of eltrombopag as powder for oral suspension with a highcalcium, moderate-fat and moderate-calorie meal reduced plasma eltrombopag mean AUC0-∞ by 75% and mean Cmax by 79%. This decrease of exposure was attenuated when a single 25 mg dose of eltrombopag powder for oral suspension was administered 2 hours before a high-calcium meal (mean AUC0-∞ was decreased by 20% and mean Cmax by 14%).
 
 Food low in calcium (&lt;50 mg calcium), including fruit, lean ham, beef and unfortified (no added calcium, magnesium or iron) fruit juice, unfortified soya milk and unfortified grain, did not significantly impact plasma eltrombopag exposure, regardless of calorie and fat content (see sections 4.2 and 4.5).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -1649,11 +1621,9 @@ Eltrombopag has negligible influence on the ability to drive and use machines. T
 
 The safety of Revolade was assessed in adult patients (N=763) using the pooled double-blind, placebo-controlled studies TRA100773A and B, TRA102537 (RAISE) and TRA113765, in which 403 patients were exposed to Revolade and 179 to placebo, in addition to data from the completed open-label studies (N=360) TRA108057 (REPEAT), TRA105325 (EXTEND) and TRA112940 (see section 5.1). Patients received study medication for up to 8 years (in EXTEND). The most important serious adverse reactions were hepatotoxicity and thrombotic/thromboembolic events. The most common adverse reactions occurring in at least 10% of patients included nausea, diarrhoea, increased alanine aminotransferase and back pain.
 
-The safety of Revolade in paediatric patients (aged 1 to 17 years) with previously treated ITP has been
-
 <div style=\"page-break-after: always\"></div>
 
-demonstrated in two studies (N=171) (see section 5.1). PETIT2 (TRA115450) was a two-part, doubleblind and open-label, randomised, placebo-controlled study. Patients were randomised 2:1 and received Revolade (n=63) or placebo (n=29) for up to 13 weeks in the randomised period of the study. PETIT (TRA108062) was a three-part, staggered-cohort, open-label and double-blind, randomised, placebo-controlled study. Patients were randomised 2:1 and received Revolade (n=44) or placebo (n=21), for up to 7 weeks. The profile of adverse reactions was comparable to that seen in adults with some additional adverse reactions, marked ♦ in the table below. The most common adverse reactions in paediatric ITP patients 1 year and older (≥3% and greater than placebo) were upper respiratory tract infection, nasopharyngitis, cough, pyrexia, abdominal pain, oropharyngeal pain, toothache and rhinorrhoea.
+The safety of Revolade in paediatric patients (aged 1 to 17 years) with previously treated ITP has been demonstrated in two studies (N=171) (see section 5.1). PETIT2 (TRA115450) was a two-part, doubleblind and open-label, randomised, placebo-controlled study. Patients were randomised 2:1 and received Revolade (n=63) or placebo (n=29) for up to 13 weeks in the randomised period of the study. PETIT (TRA108062) was a three-part, staggered-cohort, open-label and double-blind, randomised, placebo-controlled study. Patients were randomised 2:1 and received Revolade (n=44) or placebo (n=21), for up to 7 weeks. The profile of adverse reactions was comparable to that seen in adults with some additional adverse reactions, marked ♦ in the table below. The most common adverse reactions in paediatric ITP patients 1 year and older (≥3% and greater than placebo) were upper respiratory tract infection, nasopharyngitis, cough, pyrexia, abdominal pain, oropharyngeal pain, toothache and rhinorrhoea.
 
 ## Thrombocytopenia with HCV infection in adult patients
 
@@ -1665,7 +1635,7 @@ The safety of Revolade in adult patients with SAA was assessed in a single-arm, 
 
 ## Severe aplastic anaemia in paediatric population
 
-The safety of Revolade in paediatric patients with refractory/relapsed (cohort A; n=14) or treatmentnaive (cohort B; n=37) SAA is assessed in an ongoing open-label, uncontrolled, intra-patient dose escalation study (total N=51) (see also section 5.1 for study details). Adverse events of special interest, including acute kidney injury, hepatotoxicity, thromboembolic events, and clonal evolution or cytogenetic abnormality, were reported in 29 (56.9%), 39 (76.5%), 2 (3.9%), and 1 (2.0%) patients, respectively. Overall, the frequency, type and severity of adverse reactions observed for eltrombopag in paediatric patients with SAA were consistent with those observed in adult patients with SAA.
+The safety of Revolade in paediatric patients with refractory/relapsed (cohort A; n=14) or treatmentnaive (cohort B; n=37) SAA was assessed in an open-label, uncontrolled, intra-patient dose escalation study (total N=51) (see also section 5.1 for study details). Adverse events of special interest, including acute kidney injury, hepatotoxicity, thromboembolic events, and clonal evolution or cytogenetic abnormality, were reported in 29 (56.9%), 39 (76.5%), 2 (3.9%), and 1 (2.0%) patients, respectively. Overall, the frequency, type and severity of adverse reactions observed for eltrombopag in paediatric patients with SAA were consistent with those observed in adult patients with SAA.
 
 ## List of adverse reactions
 
@@ -1687,9 +1657,9 @@ Table 4 Adverse reactions in the ITP study population
 | Metabolism and nutrition disorders                                  | Common      | Hypokalaemia, decreased appetite, blood uric acid increased                                                                                                                                                                |
 | Metabolism and nutrition disorders                                  | Uncommon    | Anorexia, gout, hypocalcaemia                                                                                                                                                                                              |
 | Psychiatric disorders                                               | Common      | Sleep disorder, depression                                                                                                                                                                                                 |
-| Nervous system disorders                                            | Uncommon    | Apathy, mood altered, tearfulness                                                                                                                                                                                          |
-|                                                                     | Common      | Paraesthesia, hypoaesthesia, somnolence, migraine Tremor, balance disorder, dysaesthesia, hemiparesis,                                                                                                                     |
-|                                                                     | Uncommon    | migraine with aura, neuropathy peripheral, peripheral sensory neuropathy, speech disorder, toxic neuropathy, vascular headache                                                                                             |
+| Psychiatric disorders                                               | Uncommon    | Apathy, mood altered, tearfulness                                                                                                                                                                                          |
+| Nervous system disorders                                            | Common      | Paraesthesia, hypoaesthesia, somnolence, migraine                                                                                                                                                                          |
+| Nervous system disorders                                            | Uncommon    | Tremor, balance disorder, dysaesthesia, hemiparesis, migraine with aura, neuropathy peripheral, peripheral sensory neuropathy, speech disorder, toxic neuropathy, vascular headache                                        |
 | Eye disorders                                                       | Common      | Dry eye, vision blurred, eye pain, visual acuity reduced                                                                                                                                                                   |
 | Eye disorders                                                       | Uncommon    | Lenticular opacities, astigmatism, cataract cortical, lacrimation increased, retinal haemorrhage, retinal pigment epitheliopathy, visual impairment, visual acuity tests abnormal, blepharitis, keratoconjunctivitis sicca |
 | Ear and labyrinth disorders                                         | Common      | Ear pain, vertigo                                                                                                                                                                                                          |
@@ -1705,24 +1675,24 @@ Table 4 Adverse reactions in the ITP study population
 
 <div style=\"page-break-after: always\"></div>
 
-| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                                                                                                                                                                              | Very common                                                                                                                                                                                                                                                                          | Alanine aminotransferase increased †                                                                                                                                                                                                                                                 |
-|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                      |                                                                                                                                                                                                                                                                                      | Common                                                                                                                                                                                                                                                                               | Aspartate aminotransferase increased † , hyperbilirubinaemia, hepatic function abnormal                                                                                                                                                                                              |
-|                                                      |                                                                                                                                                                                                                                                                                      | Uncommon                                                                                                                                                                                                                                                                             | Cholestasis, hepatic lesion, hepatitis, drug-induced liver injury                                                                                                                                                                                                                    |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                                               | Common                                                                                                                                                                                                                                                                               | Rash, alopecia, hyperhidrosis, pruritus generalised, petechiae                                                                                                                                                                                                                       |
-|                                                      |                                                                                                                                                                                                                                                                                      | Uncommon                                                                                                                                                                                                                                                                             | Urticaria, dermatosis, cold sweat, erythema, melanosis, pigmentation disorder, skin discolouration, skin exfoliation                                                                                                                                                                 |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                                      | Very common                                                                                                                                                                                                                                                                          | Back pain                                                                                                                                                                                                                                                                            |
-|                                                      |                                                                                                                                                                                                                                                                                      | Common                                                                                                                                                                                                                                                                               | Myalgia, muscle spasm, musculoskeletal pain, bone pain                                                                                                                                                                                                                               |
-|                                                      |                                                                                                                                                                                                                                                                                      | Uncommon                                                                                                                                                                                                                                                                             | Muscular weakness                                                                                                                                                                                                                                                                    |
-| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                                                                                                                                                          | Common                                                                                                                                                                                                                                                                               | Proteinuria, blood creatinine increased, thrombotic microangiopathy with renal failure ‡                                                                                                                                                                                             |
-|                                                      |                                                                                                                                                                                                                                                                                      | Uncommon                                                                                                                                                                                                                                                                             | Renal failure, leukocyturia, lupus nephritis, nocturia, blood urea increased, urine protein/creatinine ratio increased                                                                                                                                                               |
-| Reproductive system and                              | Reproductive system and                                                                                                                                                                                                                                                              | Common                                                                                                                                                                                                                                                                               | Menorrhagia                                                                                                                                                                                                                                                                          |
-| General disorders and administration site conditions | General disorders and administration site conditions                                                                                                                                                                                                                                 | Common                                                                                                                                                                                                                                                                               | Pyrexia*, chest pain, asthenia *Very common in paediatric ITP                                                                                                                                                                                                                        |
-|                                                      |                                                                                                                                                                                                                                                                                      | Uncommon                                                                                                                                                                                                                                                                             | Feeling hot, vessel puncture site haemorrhage, feeling jittery, inflammation of wound, malaise, sensation of foreign body                                                                                                                                                            |
-| Investigations                                       | Investigations                                                                                                                                                                                                                                                                       | Common                                                                                                                                                                                                                                                                               | Blood alkaline phosphatase increased                                                                                                                                                                                                                                                 |
-|                                                      |                                                                                                                                                                                                                                                                                      | Uncommon                                                                                                                                                                                                                                                                             | Blood albumin increased, protein total increased, blood albumin decreased, pH urine increased                                                                                                                                                                                        |
-| Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                                                                                                                                                                                                                                       | Uncommon                                                                                                                                                                                                                                                                             | Sunburn                                                                                                                                                                                                                                                                              |
-| ♦ †                                                  | Additional adverse reactions observed in paediatric studies (aged 1 to 17 years). Increase of alanine aminotransferase and aspartate aminotransferase may occur simultaneously, although a lower frequency. Grouped term with preferred terms acute kidney injury and renal failure. | Additional adverse reactions observed in paediatric studies (aged 1 to 17 years). Increase of alanine aminotransferase and aspartate aminotransferase may occur simultaneously, although a lower frequency. Grouped term with preferred terms acute kidney injury and renal failure. | Additional adverse reactions observed in paediatric studies (aged 1 to 17 years). Increase of alanine aminotransferase and aspartate aminotransferase may occur simultaneously, although a lower frequency. Grouped term with preferred terms acute kidney injury and renal failure. |
+| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                                                                                                                                                                            | Very common                                                                                                                                                                                                                                                                        | Alanine aminotransferase increased †                                                                                                                                                                                                                                               |
+|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                      |                                                                                                                                                                                                                                                                                    | Common                                                                                                                                                                                                                                                                             | Aspartate aminotransferase increased † , hyperbilirubinaemia, hepatic function abnormal                                                                                                                                                                                            |
+|                                                      |                                                                                                                                                                                                                                                                                    | Uncommon                                                                                                                                                                                                                                                                           | Cholestasis, hepatic lesion, hepatitis, drug-induced liver injury                                                                                                                                                                                                                  |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                                             | Common                                                                                                                                                                                                                                                                             | Rash, alopecia, hyperhidrosis, pruritus generalised, petechiae                                                                                                                                                                                                                     |
+|                                                      |                                                                                                                                                                                                                                                                                    | Uncommon                                                                                                                                                                                                                                                                           | Urticaria, dermatosis, cold sweat, erythema, melanosis, pigmentation disorder, skin discolouration, skin exfoliation                                                                                                                                                               |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                                    | Very common                                                                                                                                                                                                                                                                        | Back pain                                                                                                                                                                                                                                                                          |
+|                                                      |                                                                                                                                                                                                                                                                                    | Common                                                                                                                                                                                                                                                                             | Myalgia, muscle spasm, musculoskeletal pain, bone pain                                                                                                                                                                                                                             |
+|                                                      |                                                                                                                                                                                                                                                                                    | Uncommon                                                                                                                                                                                                                                                                           | Muscular weakness                                                                                                                                                                                                                                                                  |
+| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                                                                                                                                                        | Common                                                                                                                                                                                                                                                                             | Proteinuria, blood creatinine increased, thrombotic microangiopathy with renal failure ‡                                                                                                                                                                                           |
+|                                                      |                                                                                                                                                                                                                                                                                    | Uncommon                                                                                                                                                                                                                                                                           | Renal failure, leukocyturia, lupus nephritis, nocturia, blood urea increased, urine protein/creatinine ratio increased                                                                                                                                                             |
+| Reproductive system and                              | Reproductive system and                                                                                                                                                                                                                                                            | Common                                                                                                                                                                                                                                                                             | Menorrhagia                                                                                                                                                                                                                                                                        |
+| General disorders and administration site conditions | General disorders and administration site conditions                                                                                                                                                                                                                               | Common                                                                                                                                                                                                                                                                             | Pyrexia*, chest pain, asthenia *Very common in paediatric ITP                                                                                                                                                                                                                      |
+|                                                      |                                                                                                                                                                                                                                                                                    | Uncommon                                                                                                                                                                                                                                                                           | Feeling hot, vessel puncture site haemorrhage, feeling jittery, inflammation of wound, malaise, sensation of foreign body                                                                                                                                                          |
+| Investigations                                       | Investigations                                                                                                                                                                                                                                                                     | Common                                                                                                                                                                                                                                                                             | Blood alkaline phosphatase increased                                                                                                                                                                                                                                               |
+|                                                      |                                                                                                                                                                                                                                                                                    | Uncommon                                                                                                                                                                                                                                                                           | Blood albumin increased, protein total increased, blood albumin decreased, pH urine increased                                                                                                                                                                                      |
+| Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                                                                                                                                                                                                                                     | Uncommon                                                                                                                                                                                                                                                                           | Sunburn                                                                                                                                                                                                                                                                            |
+| ♦ †                                                  | Additional adverse reactions observed in paediatric studies (aged 1 to 17 years). Increase of alanine aminotransferase and aspartate aminotransferase may occur simultaneously, although lower frequency. Grouped term with preferred terms acute kidney injury and renal failure. | Additional adverse reactions observed in paediatric studies (aged 1 to 17 years). Increase of alanine aminotransferase and aspartate aminotransferase may occur simultaneously, although lower frequency. Grouped term with preferred terms acute kidney injury and renal failure. | Additional adverse reactions observed in paediatric studies (aged 1 to 17 years). Increase of alanine aminotransferase and aspartate aminotransferase may occur simultaneously, although lower frequency. Grouped term with preferred terms acute kidney injury and renal failure. |
 
 Table 5 Adverse reactions in the HCV study population (in combination with anti-viral interferon and ribavirin therapy)
 
@@ -1731,68 +1701,74 @@ Table 5 Adverse reactions in the HCV study population (in combination with anti-
 | Infections and infestations                                         | Common      | Urinary tract infection, upper respiratory tract infection, bronchitis, nasopharyngitis, influenza, oral herpes |
 | Infections and infestations                                         | Uncommon    | Gastroenteritis, pharyngitis                                                                                    |
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Common      | Hepatic neoplasm malignant                                                                                      |
-| Blood and lymphatic system disorders                                | Very common | Anaemia                                                                                                         |
-| Blood and lymphatic system disorders                                | Common      | Lymphopenia                                                                                                     |
-| Blood and lymphatic system disorders                                | Uncommon    | Haemolytic anaemia                                                                                              |
 
 <div style=\"page-break-after: always\"></div>
 
-| Metabolism and nutrition disorders                   | Very common     | Decreased appetite                                                                                                                                                                                                                                                            |
-|------------------------------------------------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Psychiatric disorders                                | Common          | Hyperglycaemia, abnormal loss of weight                                                                                                                                                                                                                                       |
-| Psychiatric disorders                                | Uncommon        | Confusional state, agitation                                                                                                                                                                                                                                                  |
-| Nervous system disorders                             | Very common     | Headache                                                                                                                                                                                                                                                                      |
-| Nervous system disorders                             | Common          | Dizziness, disturbance in attention, dysgeusia, hepatic encephalopathy, lethargy, memory impairment, paraesthesia                                                                                                                                                             |
-| Eye disorders                                        | Common          | Cataract, retinal exudates, dry eye, ocular icterus, retinal haemorrhage                                                                                                                                                                                                      |
-| Ear and labyrinth disorders                          | Common          | Vertigo                                                                                                                                                                                                                                                                       |
-| Cardiac disorders                                    | Common          | Palpitations                                                                                                                                                                                                                                                                  |
-| Respiratory, thoracic and mediastinal disorders      | Very common     | Cough                                                                                                                                                                                                                                                                         |
-| Respiratory, thoracic and mediastinal disorders      | Common          | Dyspnoea, oropharyngeal pain, dyspnoea exertional, productive cough                                                                                                                                                                                                           |
-| Gastrointestinal disorders                           | Very common     | Nausea, diarrhoea                                                                                                                                                                                                                                                             |
-|                                                      | Common          | Vomiting, ascites, abdominal pain, abdominal pain upper, dyspepsia, dry mouth, constipation, abdominal distension, toothache, stomatitis, gastrooesophageal reflux disease, haemorrhoids, abdominal discomfort, varices oesophageal                                           |
-|                                                      | Uncommon        | Oesophageal varices haemorrhage, gastritis, aphthous stomatitis                                                                                                                                                                                                               |
-| Hepatobiliary disorders                              | Common          | Hyperbilirubinaemia, jaundice, drug-induced liver injury                                                                                                                                                                                                                      |
-| Hepatobiliary disorders                              | Uncommon        | Portal vein thrombosis, hepatic failure                                                                                                                                                                                                                                       |
-| Skin and subcutaneous tissue disorders               | Very common     | Pruritus                                                                                                                                                                                                                                                                      |
-| Skin and subcutaneous tissue disorders               | Common          | Rash, dry skin, eczema, rash pruritic, erythema, hyperhidrosis, pruritus generalised, alopecia                                                                                                                                                                                |
-| Skin and subcutaneous tissue disorders               | Uncommon        | Skin lesion, skin discolouration, skin hyperpigmentation, night sweats                                                                                                                                                                                                        |
-| Musculoskeletal and connective tissue disorder       | Very common     | Myalgia                                                                                                                                                                                                                                                                       |
-| Musculoskeletal and connective tissue disorder       | Common          | Arthralgia, muscle spasms, back pain, pain in extremity, musculoskeletal pain, bone pain                                                                                                                                                                                      |
-| Renal and urinary disorders                          | Uncommon        | Thrombotic microangiopathy with acute renal failure † , dysuria                                                                                                                                                                                                               |
-| General disorders and administration site conditions | Very common     | Pyrexia, fatigue, influenza-like illness, asthenia, chills                                                                                                                                                                                                                    |
-| General disorders and administration site conditions | Common          | Irritability, pain, malaise, injection site reaction, non- cardiac chest pain, oedema, oedema peripheral                                                                                                                                                                      |
-| General disorders and administration site conditions | Uncommon        | Injection site pruritus, injection site rash, chest discomfort                                                                                                                                                                                                                |
-| Investigations                                       | Common          | Blood bilirubin increased, weight decreased, white blood cell count decreased, haemoglobin decreased, neutrophil count decreased, international normalised ratio increased, activated partial thromboplastin time prolonged, blood glucose increased, blood albumin decreased |
-| Investigations                                       | Uncommon        | Electrocardiogram QT prolonged                                                                                                                                                                                                                                                |
-| † Grouped term with preferred                        | terms oliguria, | renal failure and renal impairment                                                                                                                                                                                                                                            |
+| Blood and lymphatic system disorders            | Very common   | Anaemia                                                                                                                                                                                                                             |
+|-------------------------------------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Blood and lymphatic system disorders            | Common        | Lymphopenia                                                                                                                                                                                                                         |
+| Blood and lymphatic system disorders            | Uncommon      | Haemolytic anaemia                                                                                                                                                                                                                  |
+| Metabolism and nutrition disorders              | Very common   | Decreased appetite                                                                                                                                                                                                                  |
+| Metabolism and nutrition disorders              | Common        | Hyperglycaemia, abnormal loss of weight                                                                                                                                                                                             |
+| Psychiatric disorders                           | Common        | Depression, anxiety, sleep disorder                                                                                                                                                                                                 |
+| Psychiatric disorders                           | Uncommon      | Confusional state, agitation                                                                                                                                                                                                        |
+| Nervous system disorders                        | Very common   | Headache                                                                                                                                                                                                                            |
+| Nervous system disorders                        | Common        | Dizziness, disturbance in attention, dysgeusia, hepatic encephalopathy, lethargy, memory impairment, paraesthesia                                                                                                                   |
+| Eye disorders                                   | Common        | Cataract, retinal exudates, dry eye, ocular icterus, retinal haemorrhage                                                                                                                                                            |
+| Ear and labyrinth disorders                     | Common        | Vertigo                                                                                                                                                                                                                             |
+| Cardiac disorders                               | Common        | Palpitations                                                                                                                                                                                                                        |
+| Respiratory, thoracic and mediastinal disorders | Very common   | Cough                                                                                                                                                                                                                               |
+| Respiratory, thoracic and mediastinal disorders | Common        | Dyspnoea, oropharyngeal pain, dyspnoea exertional, productive cough                                                                                                                                                                 |
+| Gastrointestinal disorders                      | Very common   | Nausea, diarrhoea                                                                                                                                                                                                                   |
+| Gastrointestinal disorders                      | Common        | Vomiting, ascites, abdominal pain, abdominal pain upper, dyspepsia, dry mouth, constipation, abdominal distension, toothache, stomatitis, gastrooesophageal reflux disease, haemorrhoids, abdominal discomfort, varices oesophageal |
+| Gastrointestinal disorders                      | Uncommon      | Oesophageal varices haemorrhage, gastritis, aphthous stomatitis                                                                                                                                                                     |
+| Hepatobiliary disorders                         | Common        | Hyperbilirubinaemia, jaundice, drug-induced liver injury                                                                                                                                                                            |
+| Hepatobiliary disorders                         | Uncommon      | Portal vein thrombosis, hepatic failure                                                                                                                                                                                             |
 
 <div style=\"page-break-after: always\"></div>
 
-Table 6 Adverse reactions in the SAA study population
+| Skin and subcutaneous tissue disorders               | Very common   | Pruritus                                                                                                                                                                                                                                                                      |
+|------------------------------------------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Skin and subcutaneous tissue disorders               | Common        | Rash, dry skin, eczema, rash pruritic, erythema, hyperhidrosis, pruritus generalised, alopecia                                                                                                                                                                                |
+| Skin and subcutaneous tissue disorders               | Uncommon      | Skin lesion, skin discolouration, skin hyperpigmentation, night sweats                                                                                                                                                                                                        |
+| Musculoskeletal and connective tissue disorder       | Very common   | Myalgia                                                                                                                                                                                                                                                                       |
+| Musculoskeletal and connective tissue disorder       | Common        | Arthralgia, muscle spasms, back pain, pain in extremity, musculoskeletal pain, bone pain                                                                                                                                                                                      |
+| Renal and urinary disorders                          | Uncommon      | Thrombotic microangiopathy with acute renal failure † , dysuria                                                                                                                                                                                                               |
+| General disorders and administration site conditions | Very common   | Pyrexia, fatigue, influenza-like illness, asthenia, chills                                                                                                                                                                                                                    |
+| General disorders and administration site conditions | Common        | Irritability, pain, malaise, injection site reaction, non- cardiac chest pain, oedema, oedema peripheral                                                                                                                                                                      |
+| General disorders and administration site conditions | Uncommon      | Injection site pruritus, injection site rash, chest discomfort                                                                                                                                                                                                                |
+| Investigations                                       | Common        | Blood bilirubin increased, weight decreased, white blood cell count decreased, haemoglobin decreased, neutrophil count decreased, international normalised ratio increased, activated partial thromboplastin time prolonged, blood glucose increased, blood albumin decreased |
+| Investigations                                       | Uncommon      | Electrocardiogram QT prolonged                                                                                                                                                                                                                                                |
 
-| System organ class                                   | Frequency   | Adverse reaction                                                                                                                                                                                                         |
-|------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders                 | Common      | Neutropenia, splenic infarction                                                                                                                                                                                          |
-| Metabolism and nutrition disorders                   | Common      | Iron overload, decreased appetite, hypoglycaemia, increased appetite                                                                                                                                                     |
-| Psychiatric disorders                                | Common      | Anxiety, depression                                                                                                                                                                                                      |
-| Nervous system disorders                             | Very common | Headache, dizziness                                                                                                                                                                                                      |
-| Nervous system disorders                             | Common      | Syncope                                                                                                                                                                                                                  |
-| Eye disorders                                        | Common      | Dry eye, cataract, ocular icterus, vision blurred, visual impairment, vitreous floaters                                                                                                                                  |
-| Respiratory, thoracic and mediastinal disorders      | Very common | Cough, oropharyngeal pain, rhinorrhoea                                                                                                                                                                                   |
-| Respiratory, thoracic and mediastinal disorders      | Common      | Epistaxis                                                                                                                                                                                                                |
-| Gastrointestinal disorders                           | Very common | Diarrhoea, nausea, abdominal pain                                                                                                                                                                                        |
-| Gastrointestinal disorders                           | Common      | Oral mucosal blistering, oral pain, vomiting, abdominal discomfort, constipation, gingival bleeding, abdominal distension, dysphagia, faeces discoloured, swollen tongue, gastrointestinal motility disorder, flatulence |
-| Hepatobiliary disorders                              | Very common | Transaminases increased                                                                                                                                                                                                  |
-| Hepatobiliary disorders                              | Common      | Blood bilirubin increased (hyperbilirubinemia), jaundice                                                                                                                                                                 |
-| Hepatobiliary disorders                              | Not known   | Drug-induced liver injury                                                                                                                                                                                                |
-| Skin and subcutaneous tissue disorders               | Common      | Petechiae, rash, pruritus, urticaria, skin lesion, rash macular                                                                                                                                                          |
-| Skin and subcutaneous tissue disorders               | Not known   | Skin discolouration, skin hyperpigmentation                                                                                                                                                                              |
-| Musculosketal and connective tissue disorders        | Very common | Arthralgia, pain in extremity, muscle spasms                                                                                                                                                                             |
-| Musculosketal and connective tissue disorders        | Common      | Back pain, myalgia, bone pain                                                                                                                                                                                            |
-| Renal and urinary disorders                          | Common      | Chromaturia                                                                                                                                                                                                              |
-| General disorders and administration site conditions | Very common | Fatigue, pyrexia, chills                                                                                                                                                                                                 |
-| General disorders and administration site conditions | Common      | Asthenia, oedema peripheral, malaise                                                                                                                                                                                     |
-| Investigations                                       | Common      | Blood creatine phosphokinase increased                                                                                                                                                                                   |
+## Table 6 Adverse reactions in the SAA study population
+
+| System organ class                              | Frequency   | Adverse reaction                                                                        |
+|-------------------------------------------------|-------------|-----------------------------------------------------------------------------------------|
+| Blood and lymphatic system disorders            | Common      | Neutropenia, splenic infarction                                                         |
+| Metabolism and nutrition disorders              | Common      | Iron overload, decreased appetite, hypoglycaemia, increased appetite                    |
+| Psychiatric disorders                           | Common      | Anxiety, depression                                                                     |
+| Nervous system disorders                        | Very common | Headache, dizziness                                                                     |
+| Nervous system disorders                        | Common      | Syncope                                                                                 |
+| Eye disorders                                   | Common      | Dry eye, cataract, ocular icterus, vision blurred, visual impairment, vitreous floaters |
+| Respiratory, thoracic and mediastinal disorders | Very common | Cough, oropharyngeal pain, rhinorrhoea                                                  |
+| Respiratory, thoracic and mediastinal disorders | Common      | Epistaxis                                                                               |
+
+<div style=\"page-break-after: always\"></div>
+
+| Gastrointestinal disorders                           | Very common   | Diarrhoea, nausea, abdominal pain                                                                                                                                                                                        |
+|------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Gastrointestinal disorders                           | Common        | Oral mucosal blistering, oral pain, vomiting, abdominal discomfort, constipation, gingival bleeding, abdominal distension, dysphagia, faeces discoloured, swollen tongue, gastrointestinal motility disorder, flatulence |
+| Hepatobiliary disorders                              | Very common   | Transaminases increased                                                                                                                                                                                                  |
+| Hepatobiliary disorders                              | Common        | Blood bilirubin increased (hyperbilirubinemia), jaundice                                                                                                                                                                 |
+| Hepatobiliary disorders                              | Not known     | Drug-induced liver injury                                                                                                                                                                                                |
+| Skin and subcutaneous tissue disorders               | Common        | Petechiae, rash, pruritus, urticaria, skin lesion, rash macular                                                                                                                                                          |
+| Skin and subcutaneous tissue disorders               | Not known     | Skin discolouration, skin hyperpigmentation                                                                                                                                                                              |
+| Musculosketal and connective tissue disorders        | Very common   | Arthralgia, pain in extremity, muscle spasms                                                                                                                                                                             |
+| Musculosketal and connective tissue disorders        | Common        | Back pain, myalgia, bone pain                                                                                                                                                                                            |
+| Renal and urinary disorders                          | Common        | Chromaturia                                                                                                                                                                                                              |
+| General disorders and administration site conditions | Very common   | Fatigue, pyrexia, chills                                                                                                                                                                                                 |
+| General disorders and administration site conditions | Common        | Asthenia, oedema peripheral, malaise                                                                                                                                                                                     |
+| Investigations                                       | Common        | Blood creatine phosphokinase increased                                                                                                                                                                                   |
 
 ## Description of selected adverse reactions
 
@@ -1802,15 +1778,15 @@ In 3 controlled and 2 uncontrolled clinical studies among adult ITP patients rec
 
 In a placebo-controlled study (n=288, Safety population), following 2 weeks ' treatment in preparation for invasive procedures, 6 of 143 (4%) adult patients with chronic liver disease receiving eltrombopag experienced 7 TEEs of the portal venous system and 2 of 145 (1%) patients in the placebo group experienced 3 TEEs. Five of the 6 patients treated with eltrombopag experienced the TEE at a platelet count &gt;200 000/µl.
 
-<div style=\"page-break-after: always\"></div>
-
 No specific risk factors were identified in those patients who experienced a TEE with the exception of platelet counts ≥200 000/µl (see section 4.4).
 
 In controlled studies in thrombocytopenic patients with HCV (n=1 439), 38 out of 955 patients (4%) treated with eltrombopag experienced a TEE and 6 out of 484 patients (1%) in the placebo group experienced TEEs. Portal vein thrombosis was the most common TEE in both treatment groups (2% in patients treated with eltrombopag versus &lt;1% for placebo) (see section 4.4). Patients with low albumin levels (≤35 g/l ) or MELD ≥10 had a 2-fold greater risk of TEEs than those with higher albumin levels; those aged ≥60 years had a 2-fold greater risk of TEEs compared to younger patients.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hepatic decompensation (use with interferon)
 
-Chronic HCV patients with cirrhosis may be at risk of hepatic decompensation when receiving alfa interferon therapy. In 2 controlled clinical studies in thrombocytopenic patients with HCV, hepatic decompensation (ascites, hepatic encephalopathy, variceal haemorrhage, spontaneous bacterial peritonitis) was reported more frequently in the eltrombopag arm (11%) than in the placebo arm (6%). In pati ents with low albumin levels (≤35 g/l) or MELD score ≥10 at baseline, there was a 3-fold greater risk of hepatic decompensation and an increase in the risk of a fatal adverse event compared to those with less advanced liver disease. Eltrombopag should only be administered to such patients after careful consideration of the expected benefits in comparison with the risks. Patients with these characteristics should be closely monitored for signs and symptoms of hepatic decompensation (see section 4.4).
+Chronic HCV patients with cirrhosis may be at risk of hepatic decompensation when receiving alfa interferon therapy. In 2 controlled clinical studies in thrombocytopenic patients with HCV, hepatic decompensation (ascites, hepatic encephalopathy, variceal haemorrhage, spontaneous bacterial peritonitis) was reported more frequently in the eltrombopag arm (11%) than in the placebo arm (6%). In patients with low albumin levels (≤35 g/l) or MELD score ≥10 at baseline, there was a 3-fold greater risk of hepatic decompensation and an increase in the risk of a fatal adverse event compared to those with less advanced liver disease. Eltrombopag should only be administered to such patients after careful consideration of the expected benefits in comparison with the risks. Patients with these characteristics should be closely monitored for signs and symptoms of hepatic decompensation (see section 4.4).
 
 ## Hepatotoxicity
 
@@ -1830,13 +1806,15 @@ In the 3 controlled clinical ITP studies, transient decreases in platelet counts
 
 Across the programme, no patients had evidence of clinically relevant bone marrow abnormalities or clinical findings that would indicate bone marrow dysfunction. In a small number of ITP patients, eltrombopag treatment was discontinued due to bone marrow reticulin (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Cytogenetic abnormalities
 
 In the phase II refractory SAA clinical study with eltrombopag with a starting dose of 50 mg/day (escalated every 2 weeks to a maximum of 150 mg/day) (ELT112523), the incidence of new cytogenetic abnormalities was observed in 17.1% of adult patients [7/41 (where 4 of them had changes in chromosome 7)]. The median time on study to a cytogenetic abnormality was 2.9 months.
 
-In the phase II refractory SAA clinical study with eltrombopag at a dose of 150 mg/day (with ethnic or age related modifications as indicated) (ELT116826), the incidence of new cytogenetic abnormalities was observed in 22.6% of adult patients [7/31 (where 3 of them had changes in chromosome 7)]. All 7 patients had normal cytogenetics at baseline. Six patients had cytogenetic abnormality at Month 3 of eltrombopag therapy and one patient had cytogenetic abnormality at Month 6.
+In the phase II refractory SAA clinical study with eltrombopag at a dose of 150 mg/day (with ethnic or age related modifications as indicated) (ELT116826), the incidence of new cytogenetic abnormalities was observed in 22.6% of adult patients [7/31 (where 3 of them had changes in chromosome 7)]. All
+
+<div style=\"page-break-after: always\"></div>
+
+7 patients had normal cytogenetics at baseline. Six patients had cytogenetic abnormality at Month 3 of eltrombopag therapy and one patient had cytogenetic abnormality at Month 6.
 
 ## Haematologic malignancies
 
@@ -1862,11 +1840,9 @@ Pharmacotherapeutic group: Antihemorrhagics, other systemic hemostatics. ATC cod
 
 ## Mechanism of action
 
-TPO is the main cytokine involved in regulation of megakaryopoiesis and platelet production, and is the endogenous ligand for the TPO-R. Eltrombopag interacts with the transmembrane domain of the
+TPO is the main cytokine involved in regulation of megakaryopoiesis and platelet production, and is the endogenous ligand for the TPO-R. Eltrombopag interacts with the transmembrane domain of the human TPO-R and initiates signalling cascades similar but not identical to that of endogenous thrombopoietin (TPO), inducing proliferation and differentiation from bone marrow progenitor cells.
 
 <div style=\"page-break-after: always\"></div>
-
-human TPO-R and initiates signalling cascades similar but not identical to that of endogenous thrombopoietin (TPO), inducing proliferation and differentiation from bone marrow progenitor cells.
 
 ## Clinical efficacy and safety
 
@@ -1874,7 +1850,9 @@ human TPO-R and initiates signalling cascades similar but not identical to that 
 
 Two phase III, randomised, double-blind, placebo-controlled studies RAISE (TRA102537) and TRA100773B and two open-label studies REPEAT (TRA108057) and EXTEND (TRA105325) evaluated the safety and efficacy of eltrombopag in adult patients with previously treated ITP. Overall, eltrombopag was administered to 277 ITP patients for at least 6 months and 202 patients for at least 1 year. The single-arm phase II study TAPER (CETB115J2411) evaluated the safety and efficacy of eltrombopag and its ability to induce sustained response after treatment discontinuation in 105 adult ITP patients who relapsed or failed to respond to first-line corticosteroid treatment.
 
-## Double-blind placebo-controlled studies RAISE:
+## Double-blind placebo-controlled studies
+
+## RAISE:
 
 197 ITP patients were randomised 2:1, eltrombopag (n=135) to placebo (n=62), and randomisation was stratified based upon splenectomy status, use of ITP medicinal products at baseline and baseline platelet count. The dose of eltrombopag was adjusted during the 6 month treatment period based on individual platelet counts. All patients initiated treatment with eltrombopag 50 mg. From Day 29 to the end of treatment, 15 to 28% of eltrombopagtreated patients were maintained on ≤25 mg and 29 to 53% received 75 mg.
 
@@ -1946,13 +1924,11 @@ This was a single-arm phase II study including ITP patients treated with eltromb
 
 Of the 105 patients who were enrolled in the study and who received at least one dose of eltrombopag, 69 patients (65.7%) completed treatment and 36 patients (34.3%) discontinued treatment early.
 
-## Analysis of sustained response off treatment
-
-The primary endpoint was the proportion of patients with sustained response off treatment until Month 12. Patients who reached a platelet count of ≥100 000/µl and maintained platelet counts around
-
 <div style=\"page-break-after: always\"></div>
 
-100 000/µl for 2 months (no counts below 70 000/µl) were eligible for tapering off eltrombopag and treatment discontinuation. To be considered as having achieved a sustained response off treatment, a patient had to maintain platelet counts ≥30 000/µl, in the absence of bleeding events or the use of rescue therapy, both during the treatment tapering period and following discontinuation of treatment until Month 12.
+## Analysis of sustained response off treatment
+
+The primary endpoint was the proportion of patients with sustained response off treatment until Month 12. Patients who reached a platelet count of ≥100 000/µl and maintained platelet counts around 100 000/µl for 2 months (no counts below 70 000/µl) were eligible for tapering off eltrombopag and treatment discontinuation. To be considered as having achieved a sustained response off treatment, a patient had to maintain platelet counts ≥30 000/µl, in the absence of bleeding events or the use of rescue therapy, both during the treatment tapering period and following discontinuation of treatment until Month 12.
 
 The duration of tapering was individualised depending on the starting dose and the response of the patient. The tapering schedule recommended dose reductions of 25 mg every 2 weeks if the platelet counts were stable. After the daily dose was reduced to 25 mg for 2 weeks, the dose of 25 mg was then only administered on alternate days for 2 weeks until treatment discontinuation. The tapering was done in smaller decrements of 12.5 mg every second week for patients of East-/Southeast-Asian ancestry. If a relapse (defined as platelet count &lt;30 000/µl) occurred, patients were offered a new course of eltrombopag at the appropriate starting dose.
 
@@ -1968,9 +1944,9 @@ During the 2-year follow-up, 6 out of 105 patients (5.7%) experienced thromboemb
 
 Twenty out of 105 patients (19.0%) experienced mild to severe haemorrhage events on treatment before tapering started. Five out of 65 patients (7.7%) who started tapering experienced mild to moderate haemorrhage events during tapering. No severe haemorrhage event occurred during tapering. Two out of 44 patients (4.5%) who tapered off and discontinued eltrombopag treatment experienced mild to moderate haemorrhage events after treatment discontinuation until Month 12. No severe haemorrhage event occurred during this period. None of the patients who discontinued eltrombopag and entered the second year follow-up experienced haemorrhage event during the second year. Two fatal intracranial haemorrhage events were reported during the 2-year follow-up. Both events occurred on treatment, not in the context of tapering. The events were not considered to be related to study treatment.
 
-The overall safety analysis is consistent with previously reported data and the risk-benefit assessment remained unchanged for the use of eltrombopag in patients with ITP.
-
 <div style=\"page-break-after: always\"></div>
+
+The overall safety analysis is consistent with previously reported data and the risk-benefit assessment remained unchanged for the use of eltrombopag in patients with ITP.
 
 Table 9 Proportion of patients with sustained response off treatment at Month 12 and at Month 24 (full analysis set) in TAPER
 
@@ -1989,7 +1965,7 @@ The 95% CI for the frequency distribution was computed using Clopper-Pearson exa
 
 * Indicates statistical significance (one-sided) at the 0.05 level.
 
-## Results of response on treatment analysis by time since ITP diagnosis
+Results of response on treatment analysis by time since ITP diagnosis
 
 An ad-hoc analysis was conducted on the n=105 patients by time since ITP diagnosis to assess the response to eltrombopag across four different ITP categories by time since diagnosis (newly diagnosed ITP &lt;3 months, persistent ITP 3 to &lt;6 months, persistent ITP 6 to ≤ 12 months, and chronic ITP &gt;12 months). 49% of patients (n=51) had an ITP diagnosis of &lt;3 months, 20% (n=21) of 3 to &lt;6 months, 17% (n=18) of 6 to ≤12 months and 14% (n=15) of &gt;12 months.
 
@@ -2019,7 +1995,7 @@ The primary endpoint was a sustained response, defined as the proportion of pati
 
 Overall, a significantly greater proportion of eltrombopag patients (40%) compared with placebo patients (3%) achieved the primary endpoint (Odds Ratio: 18.0 [95% CI: 2.3, 140.9] p &lt;0.001) which was similar across the three age cohorts (Table 10).
 
-## Table 10 Sustained platelet response rates by age cohort in paediatric patients with chronic ITP
+Table 10 Sustained platelet response rates by age cohort in paediatric patients with chronic ITP
 
 |                           | Eltrombopag n/N (%) [95% CI]   | Placebo n/N (%) [95% CI]   |
 |---------------------------|--------------------------------|----------------------------|
@@ -2033,13 +2009,11 @@ At baseline, 71% of patients in the eltrombopag group and 69% in the placebo gro
 
 Patients were permitted to reduce or discontinue baseline ITP therapy only during the open-label phase of the study and 53% (8/15) of patients were able to reduce (n=1) or discontinue (n=7) baseline ITP therapy, mainly corticosteroids, without needing rescue therapy.
 
-## TRA108062 (PETIT):
-
-The primary endpoint was the proportion of patients achieving platelet counts ≥ 50 000/µl at least once between weeks 1 and 6 of the randomised period. Patients were diagnosed with ITP for at least 6 months and were refractory or relapsed to at least one prior ITP therapy with a platelet count &lt;30 000/µl (n=67). During the randomised period of the study, patients were randomised by three age
-
 <div style=\"page-break-after: always\"></div>
 
-cohort strata (2:1) to eltrombopag (n=45) or placebo (n=22). The dose of eltrombopag could be adjusted based on individual platelet counts.
+## TRA108062 (PETIT):
+
+The primary endpoint was the proportion of patients achieving platelet counts ≥ 50 000/µl at least once between weeks 1 and 6 of the randomised period. Patients were diagnosed with ITP for at least 6 months and were refractory or relapsed to at least one prior ITP therapy with a platelet count &lt;30 000/µl (n=67). During the randomised period of the study, patients were randomised by three age cohort strata (2:1) to eltrombopag (n=45) or placebo (n=22). The dose of eltrombopag could be adjusted based on individual platelet counts.
 
 Overall, a significantly greater proportion of eltrombopag patients (62%) compared with placebo patients (32%) met the primary endpoint (Odds Ratio: 4.3 [95% CI: 1.4, 13.3] p=0.011).
 
@@ -2095,15 +2069,13 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 Eltrombopag was studied in a single-arm, single-centre open-label study in 43 patients with SAA with refractory thrombocytopenia following at least one prior immunosuppressive therapy (IST) and who had a platelet count ≤30 000/µl.
 
-The majority of patients , 33 (77%), were considered to have 'primary refractory disease', defined as having no prior adequate response to IST in any lineage. The remaining 10 patients had insufficient platelet response to prior therapies. All 10 had received at least 2 prior IST regimens and 50% had received at least 3 prior IST regimens. Patients with diagnosis of Fanconi anaemia, infection not
-
 <div style=\"page-break-after: always\"></div>
 
-responding to appropriate therapy, PNH clone size in neutrophils of ≥ 50%, where excluded from participation.
+The majority of patients , 33 (77%), were considered to have 'primary refractory disease', defined as having no prior adequate response to IST in any lineage. The remaining 10 patients had insufficient platelet response to prior therapies. All 10 had received at least 2 prior IST regimens and 50% had received at least 3 prior IST regimens. Patients with diagnosis of Fanconi anaemia, infection not responding to appropriate therapy, PNH clone size in neutrophils of ≥ 50%, where excluded from participation.
 
 At baseline the median platelet count was 20 000/µl, haemoglobin was 8.4 g/dl, ANC was 0.58 x 10 9 /l and absolute reticulocyte count was 24.3 x 10 9 /l. Eighty-six percent of patients were RBC transfusion dependent, and 91% were platelet transfusion dependent. The majority of patients (84%) had received at least 2 prior immunosuppressive therapies. Three patients had cytogenetic abnormalities at baseline.
 
-The primary endpoint was haematological response assessed after 12 weeks of eltrombopag treatment. Haematological response was defined as meeting one or more of the following criteria: 1) platelet count increases to 20 000/µl above baseline or stable platelet counts with transfusion independence for a minimum of 8 weeks; 2) haemoglobin increase by &gt;1.5g/dl, or a reduction in ≥4 units of red blood cell (RBC) transfusions for 8 consecutive weeks; 3) absolute neutrophil count (ANC) increase of 100% or an ANC increase &gt;0.5 x 10 9 /l.
+The primary endpoint was haematological response assessed after 12 weeks of eltrombopag treatment. Haematological response was defined as meeting one or more of the following criteria: 1) platelet count increases to 20 000/µl above baseline or stable platelet counts with transfusion independence for a minimum of 8 weeks; 2) haemoglobin increase by &gt;1.5g/dl , or a reduction in ≥4 units of red blood cell (RBC) transfusions for 8 consecutive weeks; 3) absolute neutrophil count (ANC) increase of 100% or an ANC increase &gt;0.5 x 10 9 /l.
 
 The haematological response rate was 40% (17/43 patients; 95 % CI 25, 56), the majority were unilineage responses (13/17, 76%) whilst there were 3 bilineage and 1 trilineage responses at week 12. Eltrombopag was discontinued after 16 weeks if no haematological response or transfusion independence was observed. Patients who responded continued therapy in an extension phase of the study. A total of 14 patients entered the extension phase of the trial. Nine of these patients achieved a multi-lineage response, 4 of the 9 remain on treatment and 5 tapered off treatment with eltrombopag and maintained the response (median follow up: 20.6 months, range: 5.7 to 22.5 months). The remaining 5 patients discontinued treatment, three due to relapse at the month 3 extension visit.
 
@@ -2115,13 +2087,13 @@ Preliminary results from a supportive study (Study ELT116826), an ongoing non-ra
 
 ## Paediatric population
 
-The efficacy of oral eltrombopag in paediatric patients aged 2 to 17 years with refractory/relapsed (cohort A; n=14) or treatment-naive (cohort B; n=37) SAA is assessed in an ongoing open-label, uncontrolled, intra-patient dose escalation study (total N=51) (study CETB115E2201) (see also section 4.2). Cohort A consisted of 14 patients with refractory (6 patients) or relapsed (8 patients) SAA . These 14 patients received one of two treatment regimens: 1) eltrombopag plus horse antithymocyte globulin (hATG)/cyclosporine A (CsA) or 2) eltrombopag plus CsA. In cohort B, 37 ISTnaive SAA patients were treated with hATG and CsA in addition to eltrombopag. The treatment duration was 26 weeks with an additional 52-week follow-up period.
+The efficacy of oral eltrombopag in paediatric patients aged 2 to 17 years with refractory/relapsed (cohort A; n=14) or treatment-naive (cohort B; n=37) SAA was assessed in an open-label, uncontrolled, intra-patient dose escalation study (total N=51) (study CETB115E2201) (see also section 4.2). Cohort A consisted of 14 patients with refractory (6 patients) or relapsed (8 patients) SAA . These 14 patients received one of two treatment regimens: 1) eltrombopag plus horse antithymocyte globulin (hATG)/cyclosporine A (CsA) or 2) eltrombopag plus CsA. In cohort B, 37 ISTnaive SAA patients were treated with hATG and CsA in addition to eltrombopag. The treatment duration was 26 weeks with an additional 52-week follow-up period and long-term follow-up of up to three years.
+
+<div style=\"page-break-after: always\"></div>
 
 Eltrombopag starting doses were 25 mg daily in patients aged from 1 to &lt;6 years and 50 mg daily in patients aged 6 to &lt;18 years, regardless of ethnicity. Intra-patient dose escalations were permitted every 2 weeks until the patient had either achieved the targeted platelet count or reached the maximum dose (150 mg), whichever occurred first.
 
 The primary objective was to characterise the PK of eltrombopag at the highest individual steady-state dose (see section 5.2). Secondary efficacy objectives were to assess the overall response rate (ORR) and platelet response rate (PRR), and to evaluate platelet and red blood cell transfusion independence.
-
-<div style=\"page-break-after: always\"></div>
 
 ORR was defined as the proportion of patients who had either a complete response (CR) or a partial response (PR). CR was defined as meeting the criteria platelet and red blood cell transfusion independence, normal age-adjusted haemoglobin, platelet count &gt;100 x 10 9 /l, and absolute neutrophil count &gt;1.5 x 10 9 /l. PR was defined as meeting at least two or more of the following criteria: absolute reticulocyte count &gt;30 x 10 9 /l, platelet count &gt;30 x 10 9 /l, absolute neutrophil count &gt;0.5 x 10 9 /l above baseline with transfusion independence for at least 28 days for platelet transfusion and 56 days for red blood cell (RBC) transfusion. PRR was also defined as the proportion of patients who had either a complete response (CR) or a partial response (PR). CR was defined as meeting the criteria platelet count &gt;100 x 10 9 /l. PR was defined as meeting the criteria platelet count &gt;30 x 10 9 /l.
 
@@ -2129,7 +2101,7 @@ The median age of the overall population was 10 years old (range: 2 to 17 years)
 
 The ORR was 19.6% at Week 12, 52.9% at Week 26, 45.1% at Week 52, and 45.1% at Week 78 for all patients. The ORR was generally higher in Cohort A than in Cohort B (e.g. 71.4% vs. 45.9% at Week 26). The PRR was 47.1% at Week 12, 56.9% at Week 26, 51.0% at Week 52, and 49.0% at Week 78.
 
-Twenty-eight (7 patients in Cohort A and 21 patients in Cohort B) of the 42 patients who were RBC transfusion-dependent at baseline achieved transfusion independence for at least 56 days during the study. As of the data cut-off date (22-April-2022), the median of the longest RBC transfusion-free period was 264 days for 34 patients (range: 58 to 1 074), 321 days (range: 185 to 860 days) for Cohort A, and 259 days (range: 58 to 1 074 days) for Cohort B. Thirty-three (8 patients in Cohort A and 25 patients in Cohort B) of the 43 patients who were platelet transfusion-dependent at baseline achieved transfusion independence for at least 28 days during the study. As of the data cut-off date, the median of the longest platelet transfusion-free period was 263 days (range: 34 to 1 067 days) for 40 patients, 268 days (range: 36 to 860 days) for Cohort A, and 250 days (range: 34 to 1 067 days) for Cohort B.
+Twenty-eight (7 patients in Cohort A and 21 patients in Cohort B) of the 42 patients who were RBC transfusion-dependent at baseline achieved transfusion independence for at least 56 days during the study. The median of the longest RBC transfusion-free period was 266 days for 34 patients (range: 58 to 1 637), 321 days (range: 185 to 1 637 days) for Cohort A, and 262 days (range: 58 to 1 296 days) for Cohort B. Thirty-three (8 patients in Cohort A and 25 patients in Cohort B) of the 43 patients who were platelet transfusion-dependent at baseline achieved transfusion independence for at least 28 days during the study. The median of the longest platelet transfusion-free period was 263 days (range: 34 to 1 637 days) for 40 patients, 268 days (range: 36 to 1 637 days) for Cohort A, and 250 days (range: 34 to 1 289 days) for Cohort B.
 
 Safety results were consistent with the known safety profile of eltrombopag (see section 4.8).
 
@@ -2141,6 +2113,8 @@ Efficacy results were not sufficient to conclude on the efficacy of eltrombopag 
 
 The plasma eltrombopag concentration-time data collected in 88 patients with ITP in studies TRA100773A and TRA100773B were combined with data from 111 healthy adult subjects in a population PK analysis. Plasma eltrombopag AUC(0- ) and Cmax estimates for ITP patients are presented (Table 12).
 
+<div style=\"page-break-after: always\"></div>
+
 Table 12 Geometric mean (95% confidence intervals) of steady-state plasma eltrombopag pharmacokinetic parameters in adults with ITP
 
 | Eltrombopag dose, once daily   |   N | AUC (0-  ) a,  g.h/ml   | C max a ,  g/ml   |
@@ -2148,8 +2122,6 @@ Table 12 Geometric mean (95% confidence intervals) of steady-state plasma eltrom
 | 30 mg                          |  28 | 47 (39, 58)               | 3.78 (3.18, 4.49)  |
 | 50 mg                          |  34 | 108 (88, 134)             | 8.01 (6.73, 9.53)  |
 | 75 mg                          |  26 | 168 (143, 198)            | 12.7 (11.0, 14.5)  |
-
-<div style=\"page-break-after: always\"></div>
 
 Plasma eltrombopag concentration-time data collected in 590 patients with HCV enrolled in phase III studies TPL103922/ENABLE 1 and TPL108390/ENABLE 2 were combined with data from patients with HCV enrolled in the phase II study TPL102357 and healthy adult subjects in a population PK analysis. Plasma eltrombopag Cmax and AUC(0- ) estimates for adult patients with HCV enrolled in the phase III studies are presented for each dose studied in Table 13.
 
@@ -2172,6 +2144,8 @@ Eltrombopag is absorbed with a peak concentration occurring 2 to 6 hours after o
 
 Eltrombopag is highly bound to human plasma proteins (&gt;99.9%), predominantly to albumin. Eltrombopag is a substrate for BCRP, but is not a substrate for P-glycoprotein or OATP1B1.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Biotransformation
 
 Eltrombopag is primarily metabolised through cleavage, oxidation and conjugation with glucuronic acid, glutathione, or cysteine. In a human radiolabel study, eltrombopag accounted for approximately 64% of plasma radiocarbon AUC0- . Minor metabolites due to glucuronidation and oxidation were also detected. In vitro studies suggest that CYP1A2 and CYP2C8 are responsible for oxidative metabolism of eltrombopag. Uridine diphosphoglucuronyl transferase UGT1A1 and UGT1A3 are responsible for glucuronidation, and bacteria in the lower gastrointestinal tract may be responsible for the cleavage pathway.
@@ -2179,8 +2153,6 @@ Eltrombopag is primarily metabolised through cleavage, oxidation and conjugation
 ## Elimination
 
 Absorbed eltrombopag is extensively metabolised. The predominant route of eltrombopag excretion is via faeces (59%) with 31% of the dose found in the urine as metabolites. Unchanged parent compound (eltrombopag) is not detected in urine. Unchanged eltrombopag excreted in faeces accounts for approximately 20% of the dose. The plasma elimination half-life of eltrombopag is approximately 2132 hours.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pharmacokinetic interactions
 
@@ -2194,6 +2166,8 @@ Eltrombopag chelates with polyvalent cations such as iron, calcium, magnesium, a
 
 In vitro studies demonstrated that eltrombopag is not a substrate for the organic anion transporter polypeptide, OATP1B1, but is an inhibitor of this transporter (IC50 value of 2.7 μM [1.2 μg/ml ]). In vitro studies also demonstrated that eltrombopag is a breast cancer resistance protein (BCRP) substrate and inhibitor (IC50 value of 2.7 μM [1.2 μg/ml ]) .
 
+<div style=\"page-break-after: always\"></div>
+
 ## Special patient populations
 
 ## Renal impairment
@@ -2204,11 +2178,7 @@ The pharmacokinetics of eltrombopag have been studied after administration of el
 
 The pharmacokinetics of eltrombopag have been studied after administration of eltrombopag to adult patients with hepatic impairment. Following the administration of a single 50 mg dose, the AUC0- of eltrombopag was 41% higher in patients with mild hepatic impairment and 80% to 93% higher in patients with moderate to severe hepatic impairment compared with healthy volunteers. There was substantial variability and significant overlap in exposures between patients with hepatic impairment and healthy volunteers. Unbound eltrombopag (active) concentrations for this highly protein-bound medicinal product were not measured.
 
-The influence of hepatic impairment on the pharmacokinetics of eltrombopag following repeat administration was evaluated using a population pharmacokinetic analysis in 28 healthy adults and 714 patients with hepatic impairment (673 patients with HCV and 41 patients with chronic liver disease of other aetiology). Of the 714 patients, 642 were with mild hepatic impairment, 67 with moderate hepatic impairment, and 2 with severe hepatic impairment. Compared to healthy volunteers,
-
-<div style=\"page-break-after: always\"></div>
-
-patients with mild hepatic impairment had approximately 111% (95% CI: 45% to 283%) higher plasma eltrombopag AUC(0- ) values and patients with moderate hepatic impairment had approximately 183% (95% CI: 90% to 459%) higher plasma eltrombopag AUC(0- ) values.
+The influence of hepatic impairment on the pharmacokinetics of eltrombopag following repeat administration was evaluated using a population pharmacokinetic analysis in 28 healthy adults and 714 patients with hepatic impairment (673 patients with HCV and 41 patients with chronic liver disease of other aetiology). Of the 714 patients, 642 were with mild hepatic impairment, 67 with moderate hepatic impairment, and 2 with severe hepatic impairment. Compared to healthy volunteers, patients with mild hepatic impairment had approximately 111% (95% CI: 45% to 283%) higher plasma eltrombopag AUC(0- ) values and patients with moderate hepatic impairment had approximately 183% (95% CI: 90% to 459%) higher plasma eltrombopag AUC(0- ) values.
 
 Therefore, eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥5) unless the expected benefit outweighs the identified risk of portal venous thrombosis (see sections 4.2 and 4.4). For patients with HCV initiate eltrombopag at a dose of 25 mg once daily (see section 4.2).
 
@@ -2218,13 +2188,15 @@ The influence of East-Asian ethnicity on the pharmacokinetics of eltrombopag was
 
 The influence of East-/Southeast-Asian ethnicity on the pharmacokinetics of eltrombopag was evaluated using a population pharmacokinetic analysis in 635 patients with HCV (145 East-Asians and 69 Southeast-Asians). Based on estimates from the population pharmacokinetic analysis, East/Southeast-Asian patients had approximately 55% higher plasma eltrombopag AUC(0- ) values as compared to patients of other races who were predominantly Caucasian (see section 4.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Gender
 
 The influence of gender on the pharmacokinetics of eltrombopag was evaluated using a population pharmacokinetic analysis in 111 healthy adults (14 females) and 88 patients with ITP (57 females). Based on estimates from the population pharmacokinetic analysis, female ITP patients had approximately 23% higher plasma eltrombopag AUC(0- ) as compared to male patients, without adjustment for body weight differences.
 
 The influence of gender on eltrombopag pharmacokinetics was evaluated using population pharmacokinetics analysis in 635 patients with HCV (260 females). Based on model estimate, female HCV patient had approximately 41% higher plasma eltrombopag AUC(0- ) as compared to male patients.
 
-## Age
+Age
 
 The influence of age on eltrombopag pharmacokinetics was evaluated using population pharmacokinetics analysis in 28 healthy subjects, 673 patients with HCV, and 41 patients with chronic liver disease of other aetiology ranging from 19 to 74 years old. There are no PK data on the use of eltrombopag in patients ≥75 years. Based on model estimate, elderly (≥65 years) patients had approximately 41% higher plasma eltrombopag AUC(0- ) as compared to younger patients (see section 4.2).
 
@@ -2233,8 +2205,6 @@ The influence of age on eltrombopag pharmacokinetics was evaluated using populat
 The pharmacokinetics of eltrombopag have been evaluated in 168 paediatric ITP patients dosed once daily in two studies, TRA108062/PETIT and TRA115450/PETIT-2. Plasma eltrombopag apparent clearance following oral administration (CL/F) increased with increasing body weight. The effects of race and sex on plasma eltrombopag CL/F estimates were consistent between paediatric and adult patients. East-/Southeast-Asian paediatric ITP patients had approximately 43% higher plasma eltrombopag AUC(0- ) values as compared to non-Asian patients. Female paediatric ITP patients had approximately 25% higher plasma eltrombopag AUC(0- ) values as compared to male patients.
 
 The pharmacokinetic parameters of eltrombopag in paediatric patients with ITP are shown in Table 14.
-
-<div style=\"page-break-after: always\"></div>
 
 Table 14 Geometric mean (95% CI) steady-state plasma eltrombopag pharmacokinetic parameters in paediatric patients with ITP (50 mg once daily dosing regimen)
 
@@ -2247,11 +2217,13 @@ Table 14 Geometric mean (95% CI) steady-state plasma eltrombopag pharmacokinetic
 
 Plasma eltrombopag PK data collected at the highest individual steady state dose from 38 paediatric patients with first-line (cohort B) or second-line (cohort A) SAA enrolled in study CETB115E2201 are presented after adjustment to a common 50 mg dose in Table 15. Overall, eltrombopag clearance was lower and eltrombopag plasma exposure was higher for patients aged 2 to &lt;6 years of age compared to patients aged 6 to &lt;18 years.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 15 Eltrombopag steady-state PK parameters in CETB115E2201, adjusted to a 50 mg dose, at the highest individual dose (Week 12 or later) by cohort and age group
 
 | Treatment             | Age group      | Statistic   | AUC (0- τ) (µg.hr/ml)   | C max (µg/ml)   |
 |-----------------------|----------------|-------------|-------------------------|-----------------|
-| Cohort A(N=11)        | 2 to <6 years  | n           | 1                       | 1               |
+| Cohort A (N=11)       | 2 to <6 years  | n           | 1                       | 1               |
 |                       |                | Geo-mean    | 272                     | 16.1            |
 |                       |                | Geo-CV%     |                         |                 |
 |                       | 6 to <18 years | n           | 5                       | 7               |
@@ -2278,9 +2250,9 @@ Cohort A: eltrombopag administered as second-line treatment, Cohort B: eltrombop
 
 Eltrombopag does not stimulate platelet production in mice, rats or dogs because of unique TPO receptor specificity. Therefore, data from these animals do not fully model potential adverse effects related to the pharmacology of eltrombopag in humans, including the reproduction and carcinogenicity studies.
 
-<div style=\"page-break-after: always\"></div>
-
 Treatment-related cataracts were detected in rodents and were dose and time-dependent. At ≥6 times the human clinical exposure in adult ITP patients at 75 mg/day and 3 times the human clinical exposure in adult HCV patients at 100 mg/day, based on AUC, cataracts were observed in mice after 6 weeks and rats after 28 weeks of dosing. At  4 times the human clinical exposure in ITP patients at 75 mg/day and 2 times the human exposure in HCV patients at 100 mg/day, based on AUC, cataracts were observed in mice after 13 weeks and in rats after 39 weeks of dosing. At non-tolerated doses in pre-weaning juvenile rats dosed from days 4-32 (approximately equating to a 2-year-old human at the end of the dosing period), ocular opacities were observed (histology not performed) at 9 times the maximum human clinical exposure in paediatric ITP patients at 75 mg/day, based on AUC. However, cataracts were not observed in juvenile rats given tolerated doses at 5 times the human clinical exposure in paediatric ITP patients, based on AUC. Cataracts have not been observed in adult dogs after 52 weeks of dosing at 2 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and equivalent to the human clinical exposure in HCV patients at 100 mg/day, based on AUC).
+
+<div style=\"page-break-after: always\"></div>
 
 Renal tubular toxicity was observed in studies of up to 14 days duration in mice and rats at exposures that were generally associated with morbidity and mortality. Tubular toxicity was also observed in a 2year oral carcinogenicity study in mice at doses of 25, 75 and 150 mg/kg/day. Effects were less severe at lower doses and were characterised by a spectrum of regenerative changes. The exposure at the lowest dose was 1.2 or 0.8 times the human clinical exposure based on AUC in adult or paediatric ITP patients at 75 mg/day and 0.6 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC. Renal effects were not observed in rats after 28 weeks or in dogs after 52 weeks at exposures 4 and 2 times the human clinical exposure in adult ITP patients and 3 and 2 times the human clinical exposure in paediatric ITP patients at 75 mg/day and 2 times and equivalent to the human clinical exposure in HCV patients at 100 mg/day, based on AUC.
 
@@ -2292,11 +2264,9 @@ Endosteal hyperostosis was observed in a 28-week toxicity study in rats at a non
 
 ## Carcinogenicity and mutagenicity
 
-Eltrombopag was not carcinogenic in mice at doses up to 75 mg/kg/day or in rats at doses up to 40 mg/kg/day (exposures up to 4 or 2 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 2 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC). Eltrombopag was not mutagenic or clastogenic in a bacterial mutation assay or in two in vivo assays in rats (micronucleus and unscheduled DNA synthesis, 10 times or 8 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 7 times the human clinical
+Eltrombopag was not carcinogenic in mice at doses up to 75 mg/kg/day or in rats at doses up to 40 mg/kg/day (exposures up to 4 or 2 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 2 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC). Eltrombopag was not mutagenic or clastogenic in a bacterial mutation assay or in two in vivo assays in rats (micronucleus and unscheduled DNA synthesis, 10 times or 8 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 7 times the human clinical exposure in HCV patients at 100 mg/day, based on Cmax). In the in vitro mouse lymphoma assay, eltrombopag was marginally positive (&lt;3-fold increase in mutation frequency). These in vitro and in vivo findings suggest that eltrombopag does not pose a genotoxic risk to humans.
 
 <div style=\"page-break-after: always\"></div>
-
-exposure in HCV patients at 100 mg/day, based on Cmax). In the in vitro mouse lymphoma assay, eltrombopag was marginally positive (&lt;3-fold increase in mutation frequency). These in vitro and in vivo findings suggest that eltrombopag does not pose a genotoxic risk to humans.
 
 ## Reproductive toxicity
 
@@ -2316,11 +2286,11 @@ At non-tolerated doses in pre-weaning rats, ocular opacities were observed. At t
 
 Mannitol (E421) Sucralose Xanthan gum
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.2 Incompatibilities
 
 Not applicable.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.3 Shelf life
 
@@ -2365,9 +2335,9 @@ Cleaning of the mixing equipment:
 
 Do not re-use the oral dosing syringe. A new single-use oral dosing syringe should be used to prepare each dose of Revolade for oral suspension.
 
-<div style=\"page-break-after: always\"></div>
-
 For more details on preparation and administration of the suspension, see Instructions for Use in the package leaflet.
+
+<div style=\"page-break-after: always\"></div>
 
 Disposal
 
@@ -2377,13 +2347,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-
-Vista Building
-
-Elm Park, Merrion Road
-
-Dublin 4
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4
 
 Ireland
 
@@ -2409,7 +2373,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Agency https://www.ema.europa.eu.
 
-77
+82
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2549,8 +2513,7 @@ EU/1/10/612/012 84 film-coated tablets (3 packs of 28)
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -2577,9 +2540,7 @@ Multipacks of 84 (3 packs of 28 film-coated tablets) -without blue box -12.5 mg 
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Revolade 12.5 mg film-coated tablets
-
-eltrombopag
+Revolade 12.5 mg film-coated tablets eltrombopag
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2589,7 +2550,7 @@ Each film-coated tablet contains eltrombopag olamine equivalent to 12.5 mg eltro
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-28 film- coated tablets. Component of a multipack, can't be sold separately.
+28 filmcoated tablets. Component of a multipack, can't be sold separately.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -2611,19 +2572,23 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/10/612/012
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 | 15.   | INSTRUCTIONS ON USE   |
 |-------|-----------------------|
@@ -2691,7 +2656,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -2703,15 +2668,7 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-
-Vista Building
-
-Elm Park, Merrion Road
-
-Dublin 4
-
-Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2777,7 +2734,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -2790,23 +2747,26 @@ EXP
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/10/612/003
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 revolade 25 mg
 
@@ -2938,7 +2898,7 @@ eltrombopag
 
 Each film-coated tablet contains eltrombopag olamine equivalent to 50 mg eltrombopag
 
-## 3. LIST OF EXCIPIENTS
+3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2964,8 +2924,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
@@ -3048,7 +3007,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -3110,25 +3069,23 @@ Multipacks of 84 (3 packs of 28 film-coated tablets) -without blue box -75 mg fi
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Revolade 75 mg film-coated tablets
-
-eltrombopag
+Revolade 75 mg film-coated tablets eltrombopag
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
 Each film-coated tablet contains eltrombopag olamine equivalent to 75 mg eltrombopag
 
-## 3. LIST OF EXCIPIENTS
+3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-28 film- coated tablets. Component of a multipack, can't be sold separately.
+28 filmcoated tablets. Component of a multipack, can't be sold separately.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
 Read the package leaflet before use. Oral use.
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -3156,8 +3113,7 @@ EU/1/10/612/009
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -3302,6 +3258,8 @@ Use within 30 minutes of reconstitution.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
+<div style=\"page-break-after: always\"></div>
+
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
@@ -3316,13 +3274,11 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 revolade 25 mg sachets
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3354,9 +3310,9 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-## Package Leaflet: Information for the patient
-
 <div style=\"page-break-after: always\"></div>
+
+## Package Leaflet: Information for the patient
 
 Revolade 12.5 mg film-coated tablets
 
@@ -3437,11 +3393,11 @@ You will have blood tests to check your liver function before you start taking R
 
 - ➔ Read the information ' Liver problems ' in section 4 of this leaflet.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Blood tests for platelet count
 
 If you stop taking Revolade, your blood platelet count is likely to become low again within several days. The platelet count will be monitored, and your doctor will discuss appropriate precautions with you.
+
+<div style=\"page-break-after: always\"></div>
 
 A very high blood platelet count may increase the risk of blood clotting. However blood clots can also form with normal or even low platelet counts. Your doctor will adjust your dose of Revolade to ensure that your platelet count does not become too high.
 
@@ -3487,9 +3443,9 @@ Some everyday medicines interact with Revolade -including prescription and non-p
 - medicines such as methotrexate and topotecan, to treat cancer
 - ➔ Talk to your doctor if you take any of these. Some of them are not to be taken with Revolade, or the dose may need adjusting, or you may need to alter the timing of when you take them. Your doctor will review the medicines you are taking and suggest suitable replacements if necessary.
 
-<div style=\"page-break-after: always\"></div>
-
 If you are also taking medicines to prevent blood clots there is a greater risk of bleeding. Your doctor will discuss this with you.
+
+<div style=\"page-break-after: always\"></div>
 
 If you are taking corticosteroids, danazol, and/or azathioprine you may need to take a lower dose or to stop taking them while you are taking Revolade.
 
@@ -3541,20 +3497,20 @@ Adults - the usual starting dose for SAA is one 50 mg tablet of Revolade a day. 
 
 Revolade may take 1 to 2 weeks to work. Based on your response to Revolade your doctor may recommend that your daily dose is changed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## How to take the tablets
 
 Swallow the tablet whole, with some water.
 
+<div style=\"page-break-after: always\"></div>
+
 ## When to take it
 
-Make sure that -
+## Make sure that -
 
 - in the 4 hours before you take Revolade
 - and the 2 hours after you take Revolade
 
-## you d on't consume any of the following:
+you d on't consume any of the following:
 
 - dairy foods such as cheese, butter, yoghurt or ice cream
 - milk or milk shakes, drinks containing milk, yoghurt or cream
@@ -3591,15 +3547,15 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 People taking Revolade for either ITP or low blood platelet counts due to hepatitis C could develop signs of potentially serious side effects. It is important to tell a doctor if you develop these symptoms .
 
-<div style=\"page-break-after: always\"></div>
-
 ## Higher risk of blood clots
 
 Certain people may have a higher risk of blood clots, and medicines like Revolade could make this problem worse. The sudden blocking of a blood vessel by a blood clot is an uncommon side effect and may affect up to 1 in 100 people.
 
+<div style=\"page-break-after: always\"></div>
+
 <!-- image -->
 
-Get medical help immediately if you develop signs and symptoms of a blood clot, such as
+Get medical help immediately if you develop signs and symptoms of a blood clot, such as :
 
 - swelling, pain, heat, redness, or tenderness in one leg
 - sudden shortness of breath , especially together with sharp pain in the chest or rapid breathing
@@ -3628,7 +3584,7 @@ Some people have bleeding in the digestive system after they stop taking peginte
 - vomiting blood or something that looks like coffee grounds
 - ➔ Tell your doctor immediately if you have any of these symptoms.
 
-## The following side effects have been reported to be associated with treatment with Revolade in adult patients with ITP:
+The following side effects have been reported to be associated with treatment with Revolade in adult patients with ITP:
 
 ## Very common side effects
 
@@ -3645,10 +3601,6 @@ These may affect more than 1 in 10 people:
 
 - increased liver enzyme alanine aminotransferase (ALT)
 
-:
-
-<div style=\"page-break-after: always\"></div>
-
 ## Common side effects
 
 These may affect up to 1 in 10 people:
@@ -3660,6 +3612,9 @@ These may affect up to 1 in 10 people:
 - eye problems including abnormal eye test, dry eye, eye pain and blurred vision
 - vomiting
 - flu (influenza)
+
+<div style=\"page-break-after: always\"></div>
+
 - cold sore
 - pneumonia
 - irritation and inflammation (swelling) of the sinuses
@@ -3703,9 +3658,6 @@ These may affect up to 1 in 10 people:
 - decreased levels of potassium
 - increased levels of creatinine
 - increased levels of alkaline phosphatase
-
-<div style=\"page-break-after: always\"></div>
-
 - increased liver enzyme aspartate aminotransferase (AST)
 - increased blood bilirubin (a substance produced by the liver)
 - increased levels of some proteins
@@ -3716,6 +3668,9 @@ These may affect up to 1 in 100 people:
 
 - allergic reaction
 - interruption of blood supply to part of the heart
+
+<div style=\"page-break-after: always\"></div>
+
 - sudden shortness of breath, especially when accompanied with sharp pain in the chest and /or rapid breathing, which could be signs of a blood clot in the lungs (see ' Higher risk of blood clots ' earlier in section 4)
 - the loss of function of part of the lung caused by a blockage in the lung artery
 - possible pain, swelling, and/or redness around a vein which could be signs of blood clot in a vein
@@ -3752,8 +3707,6 @@ These may affect up to 1 in 100 people:
 - muscular weakness
 - cancer of rectum and colon
 
-<div style=\"page-break-after: always\"></div>
-
 ## Uncommon side effects that may show up in laboratory tests:
 
 - changes in the shape of red blood cells
@@ -3763,6 +3716,9 @@ These may affect up to 1 in 100 people:
 - decreased number of red blood cells (anaemia) caused by excessive destruction of red blood cells (haemolytic anaemia)
 - increased number of myelocytes
 - increased band neutrophils
+
+<div style=\"page-break-after: always\"></div>
+
 - increased blood urea
 - increased levels of protein in urine
 - increased levels of blood albumin
@@ -3771,7 +3727,7 @@ These may affect up to 1 in 100 people:
 - increased pH of urine
 - increased level of haemoglobin
 
-## The following additional side effects have been reported to be associated with treatment with Revolade in children (aged 1 to 17 years) with ITP:
+The following additional side effects have been reported to be associated with treatment with Revolade in children (aged 1 to 17 years) with ITP:
 
 If these side effects become severe, please tell your doctor, pharmacist or nurse.
 
@@ -3788,7 +3744,7 @@ These may affect more than 1 in 10 children:
 
 ## Common side effects
 
-These may affect up to 1 in 10 children:
+## These may affect up to 1 in 10 children:
 
 - difficulty in sleeping (insomnia)
 - toothache
@@ -3812,9 +3768,6 @@ These may affect more than 1 in 10 people:
 - feeling tired
 - fever
 - unusual hair loss
-
-<div style=\"page-break-after: always\"></div>
-
 - feeling weak
 - flu-like illness
 - swelling in the hands or feet
@@ -3823,6 +3776,8 @@ These may affect more than 1 in 10 people:
 ## Very common side effects that may show up in blood tests:
 
 - decreased number of red blood cells (anaemia)
+
+<div style=\"page-break-after: always\"></div>
 
 ## Common side effects
 
@@ -3860,8 +3815,6 @@ These may affect up to 1 in 10 people:
 - increased blood bilirubin (a substance produced by the liver)
 - changes in the enzymes that control blood clotting
 
-<div style=\"page-break-after: always\"></div>
-
 ## Uncommon side effects
 
 These may affect up to 1 in 100 people:
@@ -3875,6 +3828,9 @@ These may affect up to 1 in 100 people:
 - abnormal blood clotting in small blood vessels with kidney failure
 - rash, bruising at the injection site, chest discomfort
 - decreased number of red blood cells (anaemia) caused by excessive destruction of red blood cells (haemolytic anaemia)
+
+<div style=\"page-break-after: always\"></div>
+
 - confusion, agitation
 - liver failure
 
@@ -3918,9 +3874,6 @@ These may affect up to 1 in 10 people.
 - eye problems including vision problems, blurred vision, cloudy lens in the eye (cataract), spots or deposits in eye (vitreous floaters), dry eye, itchy eye, yellowing of the whites of the eyes or skin
 - nose bleed
 - digestive system problems including difficulty swallowing, mouth pain, swollen tongue, vomiting, loss of appetite, stomach pain/discomfort, swollen stomach, digestive wind/gas, constipation, intestinal motility disorder which can cause contipation, bloating, diarrhea and/or above mentioned symptoms, change in stool colour
-
-<div style=\"page-break-after: always\"></div>
-
 - fainting
 - skin problems including small red or purple spots caused by bleeding into the skin (petechiae) rash, itching, hives, skin lesion
 - bleeding of the gums
@@ -3932,6 +3885,8 @@ These may affect up to 1 in 10 people.
 - abnormal colored urine
 - interruption in blood supply to spleen (splenic infarction)
 - runny nose
+
+<div style=\"page-break-after: always\"></div>
 
 ## C ommon side effects that may show up in the blood tests
 
@@ -3977,8 +3932,6 @@ Each film-coated tablet contains eltrombopag olamine equivalent to 12.5 mg eltro
 
 Each film-coated tablet contains eltrombopag olamine equivalent to 25 mg eltrombopag.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 50 mg film-coated tablets
 
 Each film-coated tablet contains eltrombopag olamine equivalent to 50 mg eltrombopag.
@@ -3992,6 +3945,8 @@ The other ingredients are: hypromellose, macrogol 400, magnesium stearate, manni
 Revolade 12.5 mg and 25 mg film-coated tablets also contain polysorbate 80 (E433).
 
 Revolade 50 mg film-coated tablets also contain iron oxide red (E172) and iron oxide yellow (E172).
+
+<div style=\"page-break-after: always\"></div>
 
 Revolade 75 mg film-coated tablets also contain iron oxide red (E172) and iron oxide black (E172).
 
@@ -4015,27 +3970,23 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 ## Manufacturer
 
-Lek d.d Verovskova Ulica 57 Ljubljana 1526
-
-Slovenia
+Lek d.d Verovskova Ulica 57 Ljubljana 1526 Slovenia
 
 Novartis Pharmaceutical Manufacturing LLC Verovskova Ulica 57 Ljubljana 1000 Slovenia
 
 Novartis Farmacéutica SA Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
-<div style=\"page-break-after: always\"></div>
-
 Glaxo Wellcome S.A. Avenida de Extremadura 3 09400 Aranda de Duero Burgos Spain
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
+
+<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## Lietuva
 
@@ -4051,13 +4002,13 @@ Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## Česká republika
 
-Novartis s.r.o. Tel: +420 225 775 111
+Novartis s.r.o.
+
+Tel: +420 225 775 111
 
 ## Magyarország
 
-Novartis Hungária Kft.
-
-Tel.: +36 1 457 65 00
+Novartis Hungária Kft. Tel.: +36 1 457 65 00
 
 ## Danmark
 
@@ -4075,19 +4026,17 @@ Tel: +49 911 273 0
 
 ## Nederland
 
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
+Novartis Pharma B.V. Tel: +31 88 04 52 111
 
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
+SIA Novartis Baltics Eesti filiaal
+
+Tel: +372 66 30 810
 
 ## Norge
 
-Novartis Norge AS
-
-Tlf: +47 23 05 20 00
+Novartis Norge AS Tlf: +47 23 05 20 00
 
 ## Ελλάδα
 
@@ -4095,9 +4044,7 @@ Novartis (Hellas) A.E.B.E. Τηλ : +30 210 281 17 12
 
 ## Österreich
 
-Novartis Pharma GmbH
-
-Tel: +43 1 86 6570
+Novartis Pharma GmbH Tel: +43 1 86 6570
 
 ## España
 
@@ -4121,33 +4068,23 @@ Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
 
 ## România
 
-Novartis Pharma Services Romania SRL
-
-Tel: +40 21 31299 01
+Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
 
 ## Ireland
 
-Novartis Ireland Limited
-
-Tel: +353 1 260 12 55
+Novartis Ireland Limited Tel: +353 1 260 12 55
 
 ## Slovenija
 
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
+Novartis Pharma Services Inc. Tel: +386 1 300 75 50
 
 ## Ísland
 
-Vistor hf.
-
-Sími: +354 535 7000
+Vistor hf. Sími: +354 535 7000
 
 ## Slovenská republika
 
-Novartis Slovakia s.r.o.
-
-Tel: +421 2 5542 5439
+Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
 
 ## Italia
 
@@ -4167,12 +4104,6 @@ Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
 
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00
-
 <div style=\"page-break-after: always\"></div>
 
 ## Latvija
@@ -4184,6 +4115,12 @@ Tel: +371 67 887 070
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4230,7 +4167,7 @@ ITP is caused by a low blood platelet count (thrombocytopenia). People with ITP 
 
 ## Warnings and precautions
 
-## Talk to your doctor before taking Revolade:
+Talk to your doctor before taking Revolade:
 
 - if you have liver problems . People who have low platelet counts as well as advanced chronic (long-term) liver disease are more at risk of side effects, including life-threatening liver damage and blood clots. If your doctor considers that the benefits of taking Revolade outweigh the risks, you will be closely monitored during treatment.
 - if you are at risk of blood clots in your veins or arteries, or you know that blood clots are common in your family.
@@ -4268,11 +4205,11 @@ You will have blood tests to check your liver function before you start taking R
 
 - ➔ Read the information ' Liver problems ' in section 4 of this leaflet.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Blood tests for platelet count
 
 If you stop taking Revolade, your blood platelet count is likely to become low again within several days. The platelet count will be monitored, and your doctor will discuss appropriate precautions with you.
+
+<div style=\"page-break-after: always\"></div>
 
 A very high blood platelet count may increase the risk of blood clotting. However blood clots can also form with normal or even low platelet counts. Your doctor will adjust your dose of Revolade to ensure that your platelet count does not become too high.
 
@@ -4318,11 +4255,11 @@ Some everyday medicines interact with Revolade -including prescription and non-p
 - medicines such as methotrexate and topotecan, to treat cancer
 - ➔ Talk to your doctor if you take any of these. Some of them are not to be taken with Revolade, or the dose may need adjusting, or you may need to alter the timing of when you take them. Your doctor will review the medicines you are taking and suggest suitable replacements if necessary.
 
-<div style=\"page-break-after: always\"></div>
-
 If you are also taking medicines to prevent blood clots, there is a greater risk of bleeding. Your doctor will discuss this with you.
 
 If you are taking corticosteroids, danazol, and/or azathioprine you may need to take a lower dose or to stop taking them while you are taking Revolade.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Revolade with food and drink
 
@@ -4368,11 +4305,11 @@ Adults - the usual starting dose for SAA is two 25 mg sachets of Revolade a day.
 
 Revolade may take 1 to 2 weeks to work. Based on your response to Revolade your doctor may recommend that your daily dose is changed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## How to give a dose of medicine
 
 The powder for oral suspension is in sachets, the contents of which will need to mixed before you can take the medicine. After section 6 of this leaflet there are Instructions For Use on how to mix and administer the medicine. If you have questions or do not understand the Instructions For Use, talk to your doctor, nurse or pharmacist.
+
+<div style=\"page-break-after: always\"></div>
 
 IMPORTANT -Use the medicine immediately after you have mixed the powder with water. If you do not use it within 30 minutes of mixing it, you will need to mix a new dose. Do not re-use the oral dosing syringe. A new single-use oral dosing syringe should be used to prepare each dose of Revolade for oral suspension.
 
@@ -4410,8 +4347,6 @@ Don't stop taking Revolade without talking to your doctor. If your doctor advise
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
@@ -4419,6 +4354,8 @@ Like all medicines, this medicine can cause side effects, although not everybody
 ## Symptoms needing attention: see a doctor
 
 People taking Revolade for either ITP or low blood platelet counts due to hepatitis C could develop signs of potentially serious side effects. It is important to tell a doctor if you develop these symptoms .
+
+<div style=\"page-break-after: always\"></div>
 
 ## Higher risk of blood clots
 
@@ -4429,13 +4366,7 @@ Certain people may have a higher risk of blood clots, and medicines like Revolad
 ## Get medical help immediately if you develop signs and symptoms of a blood clot, such as :
 
 - swelling, pain, heat, redness or tenderness in one leg
-
-•
-
-sudden shortness of breath
-
-, especially together with sharp pain in the chest or rapid breathing
-
+- sudden shortness of breath , especially together with sharp pain in the chest or rapid breathing
 - abdominal (stomach) pain, enlarged abdomen, blood in your stools.
 
 ## Liver problems
@@ -4461,7 +4392,7 @@ Some people have bleeding in the digestive system after they stop taking peginte
 - -vomiting blood or something that looks like coffee grounds
 - ➔ Tell your doctor immediately if you have any of these symptoms.
 
-The following side effects have been reported to be associated with treatment with Revolade in adult patients with ITP:
+## The following side effects have been reported to be associated with treatment with Revolade in adult patients with ITP:
 
 ## Very common side effects
 
@@ -4474,8 +4405,6 @@ These may affect more than 1 in 10 people:
 - infection in the nose, sinuses, throat and upper airways (upper respiratory tract infection)
 - back pain
 
-<div style=\"page-break-after: always\"></div>
-
 ## Very common side effects that may show up in blood tests:
 
 - increased liver enzyme alanine aminotransferase (ALT)
@@ -4487,6 +4416,9 @@ These may affect up to 1 in 10 people:
 - muscle pain, muscle spasm, muscle weakness
 - bone pain
 - heavy menstrual period
+
+<div style=\"page-break-after: always\"></div>
+
 - sore throat and discomfort when swallowing
 - eye problems including abnormal eye test, dry eye, eye pain and blurred vision
 - vomiting
@@ -4531,15 +4463,14 @@ These may affect up to 1 in 10 people:
 - increased number of eosinophils
 - increased number of white blood cells (leukocytosis)
 - increased levels of uric acid
-
-<div style=\"page-break-after: always\"></div>
-
 - decreased levels of potassium
 - increased levels of creatinine
 - increased levels of alkaline phosphatase
 - increased liver enzyme aspartate aminotransferase (AST)
 - increased blood bilirubin (a substance produced by the liver)
 - increased levels of some proteins
+
+<div style=\"page-break-after: always\"></div>
 
 ## Uncommon side effects
 
@@ -4580,9 +4511,6 @@ These may affect up to 1 in 100 people:
 - generally feeling unwell
 - infection of the skin
 - skin changes including skin discolouration, peeling, redness, itching and sweating
-
-<div style=\"page-break-after: always\"></div>
-
 - muscular weakness
 - cancer of rectum and colon
 
@@ -4592,6 +4520,9 @@ These may affect up to 1 in 100 people:
 - presence of developing white blood cells which may be indicative of certain diseases
 - increased number of platelets
 - decreased levels of calcium
+
+<div style=\"page-break-after: always\"></div>
+
 - decreased number of red blood cells (anaemia) caused by excessive destruction of red blood cells (haemolytic anaemia)
 - increased number of myelocytes
 - increased band neutrophils
@@ -4641,9 +4572,6 @@ These may affect more than 1 in 10 people:
 - feeling sick (nausea), diarrhoea
 - muscle pain, muscle weakness
 - itching
-
-<div style=\"page-break-after: always\"></div>
-
 - feeling tired
 - fever
 - unusual hair loss
@@ -4651,6 +4579,8 @@ These may affect more than 1 in 10 people:
 - flu-like illness
 - swelling in the hands or feet
 - chills
+
+<div style=\"page-break-after: always\"></div>
 
 ## Very common side effects that may show up in blood tests:
 
@@ -4692,8 +4622,6 @@ These may affect up to 1 in 10 people:
 - increased blood bilirubin (a substance produced by the liver)
 - changes in the enzymes that control blood clotting
 
-<div style=\"page-break-after: always\"></div>
-
 ## Uncommon side effects
 
 These may affect up to 1 in 100 people:
@@ -4705,6 +4633,9 @@ These may affect up to 1 in 100 people:
 - skin changes including change in colour, peeling, redness, itching, lesion and night sweats
 - blood clots in a vein to the liver (possible liver and/or digestive system damage)
 - abnormal blood clotting in small blood vessels with kidney failure
+
+<div style=\"page-break-after: always\"></div>
+
 - rash, bruising at the injection site, chest discomfort
 - decreased number of red blood cells (anaemia) caused by excessive destruction of red blood cells (haemolytic anaemia)
 - confusion, agitation
@@ -4750,9 +4681,6 @@ These may affect up to 1 in 10 people.
 - eye problems including vision problems, blurred vision, cloudy lens in the eye (cataract), spots or deposits in eye (vitreous floaters), dry eye, itchy eye, yellowing of the whites of the eyes or skin
 - nose bleed
 - digestive system problems including difficulty swallowing, mouth pain, swollen tongue, vomiting, loss of appetite, stomach pain/discomfort, swollen stomach, digestive wind/gas, constipation, intestinal motility disorder which can cause contipation, bloating, diarrhea and/or above mentioned symptoms, change in stool colour
-
-<div style=\"page-break-after: always\"></div>
-
 - fainting
 - skin problems including small red or purple spots caused by bleeding into the skin (petechiae) rash, itching, hives, skin lesion
 - bleeding of the gums
@@ -4761,6 +4689,9 @@ These may affect up to 1 in 10 people.
 - bone pain
 - weakness (asthenia)
 - swelling of the lower limbs due to the accumulation of fluids
+
+<div style=\"page-break-after: always\"></div>
+
 - abnormal colored urine
 - interruption in blood supply to spleen (splenic infarction)
 - runny nose
@@ -4799,17 +4730,19 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## 6. Contents of the pack and other information
 
-## What Revolade contains 25 mg powder for oral suspension
+## What Revolade contains
+
+## 25 mg powder for oral suspension
 
 The active substance in Revolade is eltrombopag. Each sachet contains a powder for reconstitution that delivers 32 mg eltrombopag olamine, equivalent to 25 mg of eltrombopag free acid.
 
 The other ingredients are: mannitol, sucralose and xanthan gum.
 
-<div style=\"page-break-after: always\"></div>
-
 ## What Revolade looks like and contents of the pack
 
 Revolade 25 mg powder for oral suspension is available in kits containing 30 sachets; each sachet contains a reddish-brown to yellow powder. Each pack contains 30 sachets, one 40 ml reusable mixing bottle with lid and cap, and 30 single-use oral dosing syringes.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Marketing authorisation holder
 
@@ -4819,9 +4752,7 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Lek d.d Verovskova Ulica 57 Ljubljana 1526 Slovenia
 
-Novartis Pharmaceutical Manufacturing LLC Verovskova Ulica 57 Ljubljana 1000
-
-Slovenia
+Novartis Pharmaceutical Manufacturing LLC Verovskova Ulica 57 Ljubljana 1000 Slovenia
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -4869,7 +4800,9 @@ Tlf.: +45 39 16 84 00
 
 ## Malta
 
-Novartis Pharma Services Inc. Tel: +356 2122 2872
+Novartis Pharma Services Inc.
+
+Tel: +356 2122 2872
 
 ## Deutschland
 
@@ -4885,7 +4818,9 @@ Tel: +31 88 04 52 111
 
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
+SIA Novartis Baltics Eesti filiaal
+
+Tel: +372 66 30 810
 
 ## Norge
 
@@ -4893,17 +4828,15 @@ Novartis Norge AS
 
 Tlf: +47 23 05 20 00
 
-<div style=\"page-break-after: always\"></div>
-
 ## Ελλάδα
-
-## Österreich
 
 Novartis (Hellas) A.E.B.E.
 
 Τηλ
 
 : +30 210 281 17 12
+
+## Österreich
 
 Novartis Pharma GmbH
 
@@ -4997,6 +4930,10 @@ Tel: +46 8 732 32 00
 
 SIA Novartis Baltics
 
+<div style=\"page-break-after: always\"></div>
+
+SIA Novartis Baltics
+
 Tel: +371 67 887 070
 
 ## This leaflet was last revised in .
@@ -5013,9 +4950,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 Read and follow these instructions to prepare a dose of Revolade and give it to the patient. If you have any questions, or if you damage or lose any of the supplies in your kit, ask your doctor, nurse or pharmacist for advice.
 
-## Before you start
-
-## Read these messages first
+## Before you start Read these messages first
 
 - Revolade powder must be mixed only with water at room temperature.
 
@@ -5070,17 +5005,15 @@ A new single-use oral dosing syringe should be used to prepare each dose of Revo
 - Cut off the top of each sachet with scissors.
 - Empty all contents of each sachet into the mixing bottle.
 - Make sure not to spill the powder outside the mixing bottle.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-## 6. Screw the lid onto the mixing bottle . Make sure the cap is firmly pushed onto the lid, so it is closed.
-
+6. Screw the lid onto the mixing bottle . Make sure the cap is firmly pushed onto the lid, so it is closed.
 7. Gently and slowly shake the mixing bottle backwards and forwards for at least 20 seconds to mix the water with the powder.
 - Don't shake the bottle hard -that could make the medicine foam.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
 
 ## To give a dose to a patient
 
@@ -5107,9 +5040,7 @@ A new single-use oral dosing syringe should be used to prepare each dose of Revo
 ## 10. Give the medicine to the patient. Do this straight away when you have mixed the dose.
 
 - Place the tip of the syringe into the inside of the patient 's cheek.
-- Slowly push the plunger all the way down so the medicine goes into the patient 's mouth.
-
-Make sure the patient has time to swallow.
+- Slowly push the plunger all the way down so the medicine goes into the patient 's mouth. Make sure the patient has time to swallow.
 
 ## IMPORTANT if you are giving a 25 mg, 50 mg, or 75 mg dose:
 
@@ -5139,24 +5070,16 @@ Do not use the mixture remaining in the mixing bottle for another dose.
 
 Talk to your pharmacist about how the remaining mixture should be thrown away.
 
-## To clean up
-
-- 14 .  If you have spilt any powder or mixed medicine, clean it up with a damp disposable cloth . You may choose to wear disposable gloves so your skin doesn't get stained .
-- Dispose of the cloth and gloves used to clean up the spillage in your household waste.
-
-## 15. Clean the mixing equipment.
-
-- Throw away the used oral dosing syringe. A new oral dosing syringe should be used to prepare each dose of Revolade for oral suspension.
-- Rinse the mixing bottle and lid under running water. (The mixing bottle may become stained from the medicine. This is normal.).
-- Let all the equipment dry in the air.
-- Wash your hands with soap and water.
-
 <!-- image -->
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-After you have used all 30 sachets in the kit, dispose of the bottle. Always start with a complete new kit for each 30 sachets.
+| To clean up                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 14 . If you have spilt any powder or mixed medicine, clean it up with a damp disposable cloth You may choose to wear disposable gloves so your skin doesn't get stained . • Dispose of the cloth and gloves used to clean up the spillage in your household waste. | 14 . If you have spilt any powder or mixed medicine, clean it up with a damp disposable cloth You may choose to wear disposable gloves so your skin doesn't get stained . • Dispose of the cloth and gloves used to clean up the spillage in your household waste.                                                                                                             |
+| 15. • • • •                                                                                                                                                                                                                                                        | Clean the mixing equipment. Throw away the used oral dosing syringe. A new oral dosing syringe should be used to prepare each dose of Revolade for oral suspension. Rinse the mixing bottle and lid under running water. (The mixing bottle may become stained from the medicine. This is normal.). Let all the equipment dry in the air. Wash your hands with soap and water. |
+| After you have used all 30 sachets in the kit, dispose of the bottle. Always start with a complete new kit for each 30 sachets.                                                                                                                                    | After you have used all 30 sachets in the kit, dispose of the bottle. Always start with a complete new kit for each 30 sachets.                                                                                                                                                                                                                                                |
 
 Keep Revolade powder for oral suspension, including the dosing kit, and all medicines out of the reach of children.

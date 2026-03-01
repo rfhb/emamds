@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-23 09:03:52
+document_datetime: 2026-02-25 13:07:45
 document_pages: 80
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/byooviz-epar-product-information_en.pdf
 document_name: byooviz-epar-product-information_en.pdf
 version: success
-processing_time: 32.0565548
-conversion_datetime: 2026-01-26 20:29:04.315718
+processing_time: 35.3255538
+conversion_datetime: 2026-03-01 19:26:49.89113
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.70.0
-  docling-core: 2.60.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
   docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -248,7 +248,7 @@ The adverse reactions experienced following administration of ranibizumab in cli
 
 ## Tabulated list of adverse reactions #
 
-The adverse reactions are listed by system organ class and frequency using the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The adverse reactions are listed by system organ class and frequency using the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), not known (cannot be estimat ed from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Infections and infestations
 
@@ -490,7 +490,7 @@ Laser (N=110)
 
 <div style=\"page-break-after: always\"></div>
 
-The effect at 12 months was consistent in most subgroups. However, subjects with a baseline BCVA &gt;73 letters and macular oedema with central retinal thickness &lt;300 µm did not appear to benefit from treatment with ranibizumab compared to laser photocoagulation.
+The effect at 12 months was consistent in most subgroups. However, subjects with a baseline BCVA &gt;73 letters and macular oedema with centra l retinal thickness &lt;300 µm did not appear to benefit from treatment with ranibizumab compared to laser photocoagulation.
 
 Table 5 Outcomes at Month 12 in study D2301 (RESTORE) and at Month 36 in study D2301-E1 (RESTORE Extension)
 
@@ -538,7 +538,7 @@ Table 6 Outcomes in study D2304 (RETAIN)
 | Gain of ≥15 letters or BCVA ≥84 letters at Month 24(%)    | 25.6                                  | 28.0                                | 30.8                           |
 | Mean number of injections (months 0-23)                   | 12.4                                  | 12.8                                | 10.7                           |
 
-a p&lt;0.0001 for assessment of non -inferiority to PRN
+a p&lt;0.0001 for assessment of non-inferiority to PRN
 
 In DME studies, the improvement in BCVA was accompanied by a reduction over time in mean CSFT in all the treatment groups.
 
@@ -550,11 +550,11 @@ Protocol S was a multicentre, randomised, active-controlled, parallel-assignment
 
 In this study, the mean visual acuity change at year 2 was +2.7 letters in the ranibizumab group compared to -0.7 letters in the PRP group. The difference in least square means was 3.5 letters (95% CI: [0.2 to 6.7]).
 
-At year 1, 41.8% of eyes experien ced a ≥2 -step improvement in the DRSS when treated with ranibizumab (n=189) compared to 14.6% of eyes treated with PRP (n=199). The estimated difference between ranibizumab and laser was 27.4% (95% CI: [18.9, 35.9]).
+At year 1, 41.8% of eyes experienced a ≥2 -step improvement in the DRSS when treated with ranibizumab (n=189) compared to 14.6% of eyes treated with PRP (n=199). The estimated difference between ranibizumab and laser was 27.4% (95% CI: [18.9, 35.9]).
 
 <div style=\"page-break-after: always\"></div>
 
-Table 7 DRSS improvem ent or worsening of ≥2 or ≥3 steps at year 1 in Protocol S (LOCF Method)
+Table 7 DRSS improvement or worsening of ≥2 or ≥3 steps at year 1 in Protocol S (LOCF Method)
 
 | Categorised change from baseline                                                                                                           | Protocol S                                                                                                                                 | Protocol S                                                                                                                                 | Protocol S                                                                                                                                 |
 |--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -571,7 +571,7 @@ Table 7 DRSS improvem ent or worsening of ≥2 or ≥3 steps at year 1 in Protoc
 
 At year 1 in the ranibizumabtreated group in Protocol S, ≥2 -step improvement in DRSS was consistent in eyes without DME (39.9%) and with baseline DME (48.8%).
 
-An analysis of year 2 data from Protocol S demonstrated that 42.3% (n=80) of eyes in the ranibizumabtreated group had ≥2 -step improvement in DRSS from baseline compared with 23.1% (n=46) of eyes in the PRP group. In the ranibizumabtreated group, ≥2 -step improvement in DRSS from baseline was observed in 58.5% (n=24) of eyes with baseline DME and 37.8% (n=56) of eyes without DME.
+An analysis of year 2 data from Protocol S demonstrated that 42.3% (n=80) of eyes in the ranibizumab-treated gro up had ≥2 -step improvement in DRSS from baseline compared with 23.1% (n=46) of eyes in the PRP group. In the ranibizumabtreated group, ≥2 -step improvement in DRSS from baseline was observed in 58.5% (n=24) of eyes with baseline DME and 37.8% (n=56) of eyes without DME.
 
 DRSS was also assessed in three separate active-controlled phase III DME studies (ranibizumab 0.5 mg PRN vs laser) that included a total of 875 patients, of whom approximately 75% were of Asian origin. In a meta-analysis of these studies, 48.4% of the 315 patients with gradable DRSS scores in the subgroup of patients with moderately severe non-proliferative DR (NPDR) or worse at baseline experienced a ≥2 -step improvement in the DRSS at Month 12 when treated with ranibizumab (n=192) vs 14.6% of patients treated with laser (n=123). The estimated difference between ranibizumab and laser was 29.9% (95% CI: [20.0, 39.7]). In the 405 DRSS gradable patients with moderate NPDR or better, a ≥2 -step DRSS improvement was observed in 1.4% and 0.9% of the ranibizumab and laser groups, respectively.
 
@@ -630,8 +630,8 @@ Table 9 Outcomes at Months 6 and 24 (BRIGHTER and CRYSTAL)
 | Mean change in BCVA at Month 6 a (letters) (SD)                                  | +14.8 (10.7)             | +14.8 (11.13)                    | +6.0 (14.27)  | +12.0                    |
 | Mean change in BCVA at Month 24 b                                                | +15.5 (13.91)            | +17.3 (12.61)                    | +11.6 (16.09) | (13.95)                  |
 | (letters) (SD) Gain of                                                           |                          |                                  |               | +12.1 (18.60)            |
-| ≥15 letters in BCVA at Month 24 (%) Mean number of injections (SD) (Months 0-23) | 52.8                     | 59.6                             | 43.3          | 49.2 13.1 (6.39)         |
-|                                                                                  | 11.4 (5.81)              | 11.3 (6.02)                      | NA            |                          |
+| ≥15 letters in BCVA at Month 24 (%) Mean number of injections (SD) (Months 0-23) | 52.8                     | 59.6 11.3 (6.02)                 | 43.3          | 49.2 13.1 (6.39)         |
+|                                                                                  | 11.4 (5.81)              |                                  | NA            |                          |
 
 - a p&lt;0.0001 for both comparisons in BRIGHTER at Month 6: Ranibizumab 0.5 mg vs Laser and Ranibizumab 0.5 mg + Laser vs Laser.
 - b p&lt;0.0001 for null hypothesis in CRYSTAL that the mean change at Month 24  from baseline is zero.
@@ -643,7 +643,7 @@ In both studies, a rapid and statistically significant decrease from baseline in
 
 The effect of ranibizumab treatment was similar irrespective of the presence of retinal ischaemia. In BRIGHTER, patients with ischaemia present (N=46) or absent (N=133) and treated with ranibizumab monotherapy had a mean change from baseline of +15.3 and +15.6 letters, respectively, at Month 24. In CRYSTAL, patients with ischaemia present (N=53) or absent (N=300) and treated with ranibizumab monotherapy had a mean change from baseline of +15.0 and +11.5 letters, respectively.
 
-The effect in terms of visual improvement was observed in all patients treated with 0.5 mg ranibizumab monotherapy regardless of their disease duration in both BRIGHTER and CRYSTAL. In patien ts with &lt;3 months disease duration an increase in visual acuity of 13.3 and 10.0 letters was seen at Month 1; and 17.7 and 13.2 letters at Month 24 in BRIGHTER and CRYSTAL, respectively. The corresponding visual acuity gain in patients with ≥12 months disease duration was 8.6 and 8.4 letters in the respective studies. Treatment initiation at the time of diagnosis should be considered.
+The effect in terms of visual improvement was observed in all patients treated with 0.5 mg ranibizumab monotherapy regardless of their disease duration in both BRIGHTER and CRYSTAL. In patients with &lt;3 months disease duration an increase in visual acuity of 13.3 and 10.0 letters was seen at Month 1; and 17.7 and 13.2 letters at Month 24 in BRIGHTER and CRYSTAL, respectively. The corresponding visual acuity gain in patients with ≥12 months disease duration was 8.6 and 8.4 letters in the respective studies. Treatment initiation at the time of diagnosis should be considered.
 
 The long-term safety profile of ranibizumab observed in the 24-month studies is consistent with the known ranibizumab safety profile.
 
@@ -707,7 +707,7 @@ One vial (type I glass) with a stopper (chlorobutyl rubber) containing 0.23 ml s
 
 ## Vial + filter needle + injection needle pack
 
-One vial (type I glass) with a stopper (chlorobutyl rubber) containing 0.23 ml sterile solution, 1 blunt filter needle (18G x 1½″, 1.2 mm x 40 mm, 5 µm), and 1 inj ection needle (30G x ½″, 0.3 mm x 13 mm).
+One vial (type I glass) with a stopper (chlorobutyl rubber) containing 0.23 ml sterile solution, 1 blunt filter needle (18G x 1½″, 1.2 mm x 40 mm, 5 µm), and 1 injection needle (30G x ½″, 0.3 mm x 13 mm).
 
 Not all pack types may be marketed.
 
@@ -1238,7 +1238,7 @@ Laser (N=110)
 
 <div style=\"page-break-after: always\"></div>
 
-The effect at 12 months was consistent in most subgroups. However, subjects with a baseline BCVA &gt;73 letters and macular oedema with central retinal thickness &lt;300 µm did not appear to benefit from treatment with ranibizumab compared to laser photocoagulation.
+The effect at 12 months was consistent in most subgroups. However, subjects with a baseline BCVA &gt;73 letters and macular oedema with centra l retinal thickness &lt;300 µm did not appear to benefit from treatment with ranibizumab compared to laser photocoagulation.
 
 Table 5 Outcomes at Month 12 in study D2301 (RESTORE) and at Month 36 in study D2301-E1 (RESTORE Extension)
 
@@ -1286,7 +1286,7 @@ Table 6 Outcomes in study D2304 (RETAIN)
 | Gain of ≥15 letters or BCVA ≥84 letters at Month 24(%)    | 25.6                                  | 28.0                                | 30.8                           |
 | Mean number of injections (months 0-23)                   | 12.4                                  | 12.8                                | 10.7                           |
 
-a p&lt;0.0001 for assessment of non -inferiority to PRN
+a p&lt;0.0001 for assessment of non-inferiority to PRN
 
 In DME studies, the improvement in BCVA was accompanied by a reduction over time in mean CSFT in all the treatment groups.
 
@@ -1302,7 +1302,7 @@ At year 1, 41.8% of eyes experienced a ≥2 -step improvement in the DRSS when t
 
 <div style=\"page-break-after: always\"></div>
 
-Table 7 DRSS improvement or worsening of ≥2 or ≥3 steps at year 1 in Prot ocol  S (LOCF Method)
+Table 7 DRSS improvement or worsening of ≥2 or ≥3 steps at year 1 in Protocol S (LOCF Method)
 
 | Categorised change from baseline                                                                                                           | Protocol S                                                                                                                                 | Protocol S                                                                                                                                 | Protocol S                                                                                                                                 |
 |--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1319,7 +1319,7 @@ Table 7 DRSS improvement or worsening of ≥2 or ≥3 steps at year 1 in Prot oc
 
 At year 1 in the ranibizumabtreated group in Protocol S, ≥2 -step improvement in DRSS was consistent in eyes without DME (39.9%) and with baseline DME (48.8%).
 
-An analysis of year 2 data from Protocol S demonstrated that 42.3% (n=80) of eyes in the ranibizumabtreated group had ≥2 -step improvement in DRSS from baseline compared with 23.1% (n=46) of eyes in the PRP group. In the ranibizumabtreated group, ≥2 -step improvement in DRSS from baseline was observed in 58.5% (n=24) of eyes with baseline DME and 37.8% (n=56) of eyes without DME.
+An analysis of year 2 data from Protocol S demonstrated that 42.3% (n=80) of eyes in the ranibizumab-treated gro up had ≥2 -step improvement in DRSS from baseline compared with 23.1% (n=46) of eyes in the PRP group. In the ranibizumabtreated group, ≥2 -step improvement in DRSS from baseline was observed in 58.5% (n=24) of eyes with baseline DME and 37.8% (n=56) of eyes without DME.
 
 DRSS was also assessed in three separate active-controlled phase III DME studies (ranibizumab 0.5 mg PRN vs laser) that included a total of 875 patients, of whom approximately 75% were of Asian origin. In a meta-analysis of these studies, 48.4% of the 315 patients with gradable DRSS scores in the subgroup of patients with moderately severe non-proliferative DR (NPDR) or worse at baseline experienced a ≥2 -step improvement in the DRSS at Month 12 when treated with ranibizumab (n=192) vs 14.6% of patients treated with laser (n=123). The estimated difference between ranibizumab and laser was 29.9% (95% CI: [20.0, 39.7]). In the 405 DRSS gradable patients with moderate NPDR or better, a ≥2 -step DRSS improvement was observed in 1.4% and 0.9% of the ranibizumab and laser groups, respectively.
 
@@ -1391,7 +1391,7 @@ In both studies, a rapid and statistically significant decrease from baseline in
 
 The effect of ranibizumab treatment was similar irrespective of the presence of retinal ischaemia. In BRIGHTER, patients with ischaemia present (N=46) or absent (N=133) and treated with ranibizumab monotherapy had a mean change from baseline of +15.3 and +15.6 letters, respectively, at Month 24. In CRYSTAL, patients with ischaemia present (N=53) or absent (N=300) and treated with ranibizumab monotherapy had a mean change from baseline of +15.0 and +11.5 letters, respectively.
 
-The effect in terms of visual improvement was observed in all patients treated with 0.5 mg ranibizumab monotherapy regardless of their disease duration in both BRIGHTER and CRYSTAL. In patients with &lt;3 months disease duration an increase in visual acuity of 13.3 and 10.0 letters was seen at Month 1; and 17.7 and 13.2 letters at Month 24 in BRIGHTER and CRYSTAL, respectively. The corresponding visual acuity gain in patients with ≥12 months disease duration was 8.6 and 8.4 letters in the respective studies. Treatment initiation at the time of diagnosis should be considered.
+The effect in terms of visual improvement was observed in all patients treated with 0.5 mg ranibizumab monotherapy regardless of their disease duration in both BRIGHTER and CRYSTAL. In patients with &lt;3 months disease duration an increase in visual acuity of 13.3 and 10.0 letters was seen at Month 1; and 17.7 and 13.2 letters at Month 24 in BRIGHTER and CRYSTAL, respectively. The corr esponding visual acuity gain in patients with ≥12 months disease duration was 8.6 and 8.4 letters in the respective studies. Treatment initiation at the time of diagnosis should be considered.
 
 The long-term safety profile of ranibizumab observed in the 24-month studies is consistent with the known ranibizumab safety profile.
 
@@ -1441,7 +1441,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-26 months
+38 months
 
 ## 6.4 Special precautions for storage
 
@@ -2464,8 +2464,6 @@ Pack size of one pre-filled syringe, packed in a sealed tray. The pre-filled syr
 ## Marketing Authorisation Holder and Manufacturer
 
 Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
-
-## This leaflet was last revised in
 
 <div style=\"page-break-after: always\"></div>
 

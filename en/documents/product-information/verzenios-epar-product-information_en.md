@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-27 16:16:31
-document_pages: 49
+document_datetime: 2026-02-25 09:08:04
+document_pages: 50
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/verzenios-epar-product-information_en.pdf
 document_name: verzenios-epar-product-information_en.pdf
 version: success
-processing_time: 13.9781761
-conversion_datetime: 2026-01-29 12:25:24.424861
+processing_time: 16.6389604
+conversion_datetime: 2026-03-01 20:27:57.43636
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
   docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -446,7 +446,7 @@ In an exposure-response analysis in healthy subjects at exposures comparable to 
 
 Randomised Phase 3 Study monarchE: Verzenios in combination with endocrine therapy The efficacy and safety of Verzenios in combination with adjuvant endocrine therapy was evaluated in monarchE, a randomised, open label, two cohort, phase 3 study, in women and men with HR-positive, HER2-negative, node positive early breast cancer at high risk of recurrence. High risk of recurrence in Cohort 1 was defined by clinical and pathological features: either ≥ 4 pALN (positive axillary lymph nodes), or 1-3 pALN and at least one of the following criteria: tumor size ≥ 5 cm or histological grade 3.
 
-A total of 5 637 patients were randomised in a 1:1 ratio to receive 2 years of Verzenios 150 mg twice daily plus physician's choice of standard endocrine therapy, or standard endocrine therapy alone. Randomization was stratified by prior chemotherapy, menopausal status, and region. Men were stratified as postmenopausal. Patients had completed definitive locoregional therapy (with or without neoadjuvant or adjuvant chemotherapy). Patients must have recovered from the acute side effects of any prior chemotherapy or radiotherapy. A washout period of 21 days after chemotherapy and 14 days after radiotherapy prior to randomization was required. Patients were allowed to receive up to 12 weeks of adjuvant endocrine therapy prior to randomisation. Adjuvant treatment with fulvestrant was not allowed as standard endocrine therapy. Patients with eastern cooperative oncology group (ECOG) Performance Status 0 or 1 were eligible. Patients with history of VTEs were excluded from the study. After the end of the study treatment period, in both treatment arms patients continued to receive adjuvant endocrine therapy for a cumulative duration of at least 5 years and up to 10 years, if medically appropriate. LHRH agonists were given when clinically indicated to pre- and perimenopausal women, and men.
+A total of 5 637 patients were randomised in a 1:1 ratio to receive 2 years of Verzenios 150 mg twice daily plus physician's choice of standard endocrine therapy, or standard endocrine therapy alone. Randomization was stratified by prior chemotherapy, menopausal status, and region. Men were stratified as postmenopausal. Patients had completed definitive locoregional therapy (with or without neoadjuvant or adjuvant chemotherapy). Patients must have recovered from the acute side effects of any prior chemotherapy or radiotherapy. A washout period of 21 days after chemotherapy and 14 days after radiotherapy prior to randomization was required. Patients were allowed to receive up to 12 weeks of adjuvant endocrine therapy prior to randomisation following the last non-endocrine therapy (surgery, chemotherapy or radiation). Adjuvant treatment with fulvestrant was not allowed as standard endocrine therapy. Patients with eastern cooperative oncology group (ECOG) Performance Status 0 or 1 were eligible. Patients with history of VTEs were excluded from the study. After the end of the study treatment period, in both treatment arms patients continued to receive adjuvant endocrine therapy for a cumulative duration of at least 5 years and up to 10 years, if medically appropriate. LHRH agonists were given when clinically indicated to pre- and perimenopausal women, and men.
 
 Among the 5 637 randomised patients, 5 120 were enrolled in Cohort 1, representing 91 % of the ITT population. In Cohort 1, patient demographics and baseline tumour characteristics were balanced between treatment arms. The median age of patients enrolled was approximately 51 years (range, 22-89 years), 15 % of patients were 65 or older, 99 % were women, 71 % were Caucasian, 24 % were Asian, and 5 % Other. Forty three percent of patients were pre- or perimenopausal. Most patients received prior chemotherapy (36 % neoadjuvant, 62 % adjuvant), and prior radiotherapy (96 %). Initial endocrine therapy received by patients included letrozole (39 %), tamoxifen (31 %), anastrozole (22 %), or exemestane (8 %).
 
@@ -458,28 +458,31 @@ The primary endpoint was invasive disease-free survival (IDFS) in ITT population
 
 primary non-breast invasive cancer, or death attributable to any cause. Key secondary endpoint was distant relapse free survival (DRFS) in ITT population defined as time from randomization to the first occurrence of distant recurrence, or death attributable to any cause.
 
-The primary objective of the study was met at the pre-planned interim analysis (16 Mar 2020 cut-off). A statistically significant improvement in IDFS was observed in patients who received Verzenios plus endocrine therapy versus endocrine therapy alone in the ITT population. The approval was granted for the large subpopulation, Cohort 1.
+The primary objective of the study was met at the pre-planned interim analysis (16 Mar 2020 cut-off). A statistically significant improvement in IDFS was observed in patients who received Verzenios plus endocrine therapy versus endocrine therapy alone in the ITT population. At the time of the subsequent final overall survival (OS) analysis (15 July 2025 cut-off) a statistically significant improvement in OS was also observed in patients who received Verzenios plus endocrine therapy versus endocrine therapy alone in the ITT population. The approval was granted for the large subpopulation, Cohort 1.
 
-In a further analysis (01 April 2021 cut-off), 91 % of the patients in Cohort 1 were off the 2-year study treatment period and the median duration of follow-up was 27.7 months.
+At the final OS analysis all patients in Cohort 1 were off the 2-year study treatment period and the median duration of follow-up was 76 months (6.3 years).
 
-Efficacy results in Cohort 1 are summarised in Table 9 and Figure 1.
+Efficacy results in Cohort 1 are summarised in Table 9, Figure 1 and Figure 2.
 
 Table 9. monarchE: Summary of efficacy data (Cohort 1 population)
 
 |                                         | Verzenios plus endocrine therapy N = 2 555   | Endocrine therapy alone N = 2 565   |
 |-----------------------------------------|----------------------------------------------|-------------------------------------|
 | Invasive disease-free survival (IDFS)   |                                              |                                     |
-| Number of patients with event (n, %)    | 218 (8.5)                                    | 318 (12.4)                          |
-| Hazard ratio (95 %CI)                   | 0.680 (0.572, 0.808)                         | 0.680 (0.572, 0.808)                |
-| IDFS at 24 months (%, 95 %CI)           | 92.6 (91.4, 93.5)                            | 89.6 (88.3, 90.8)                   |
+| Number of patients with event (n, %)    | 512 (20.0)                                   | 678 (26.4)                          |
+| Hazard ratio (95 %CI)                   | 0.726 (0.648, 0.815)                         | 0.726 (0.648, 0.815)                |
+| IDFS at 84 months (%, 95 %CI)           | 77.0 (75.0, 78.8)                            | 70.1 (68.0, 72.1)                   |
 | Distant relapse free survival (DRFS)    |                                              |                                     |
-| Number of patients with an event (n, %) | 179 (7.0)                                    | 266 (10.4)                          |
-| Hazard ratio (95 %CI)                   | 0.669 (0.554, 0.809)                         | 0.669 (0.554, 0.809)                |
-| DRFS at 24 months (%, 95 %CI)           | 94.1 (93.0, 95.0)                            | 91.2 (90.0, 92.3)                   |
+| Number of patients with an event (n, %) | 448 (17.5)                                   | 589 (23.0)                          |
+| Hazard ratio (95 %CI)                   | 0.736 (0.651, 0.832)                         | 0.736 (0.651, 0.832)                |
+| DRFS at 84 months (%, 95 %CI)           | 79.5 (77.6, 81.2)                            | 74.0 (72.0, 75.9                    |
+| Overall Survival (OS)                   |                                              |                                     |
+| Number of events, n (%)                 | 286 (11.2)                                   | 344 (13.4)                          |
+| Hazard Ratio (95% CI)                   | 0.835 (0.713, 0.977)                         | 0.835 (0.713, 0.977)                |
 
 Abbreviation: CI = confidence interval.
 
-Data cut-off date 01 Apr 2021
+Data cut-off date 15 July 2025
 
 <div style=\"page-break-after: always\"></div>
 
@@ -487,7 +490,23 @@ Figure 1. monarchE: Kaplan-Meier plot of IDFS (Investigator assessment, Cohort 1
 
 <!-- image -->
 
-Abbreviations: CI = confidence interval; ET = endocrine therapy; HR = hazard ratio; IDFS = invasive disease-free survival; N = number of patients in the population. Data cut-off date 01 April 2021
+Abbreviations: IDFS = invasive disease-free survival; N = number of patients in the population. Data cut-off date 15 July 2025
+
+<div style=\"page-break-after: always\"></div>
+
+| Patients at risk Abemaciclib plus Endocrine Therapy   | Patients at risk Abemaciclib plus Endocrine Therapy   | Patients at risk Abemaciclib plus Endocrine Therapy   | Patients at risk Abemaciclib plus Endocrine Therapy   | Patients at risk Abemaciclib plus Endocrine Therapy   | Patients at risk Abemaciclib plus Endocrine Therapy   | Patients at risk Abemaciclib plus Endocrine Therapy   | Patients at risk Abemaciclib plus Endocrine Therapy   | Patients at risk Abemaciclib plus Endocrine Therapy   |
+|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
+| 2555                                                  | 2381                                                  | 2290                                                  | 2186                                                  | 2123                                                  | 2030                                                  | 1798                                                  | 423                                                   | 0                                                     |
+| Endocrine Therapy                                     | Endocrine Therapy                                     | Endocrine Therapy                                     | Endocrine Therapy                                     | Endocrine Therapy                                     | Endocrine Therapy                                     | Endocrine Therapy                                     | Endocrine Therapy                                     | Endocrine Therapy                                     |
+| 2565                                                  | 2416                                                  | 2305                                                  | 2211                                                  | 2117                                                  | 2005                                                  | 1753                                                  | 431                                                   | 0                                                     |
+
+Figure 2. monarchE: Kaplan-Meier plot of OS (Cohort 1 population)
+
+<!-- image -->
+
+Abbreviations: ET = endocrine therapy; OS = overall survival; N = number of patients in the population.
+
+Data cut-off date 15 Jul 2025
 
 Benefit was observed across patient subgroups defined by geographic region, menopausal status and prior chemotherapy within Cohort 1.
 
@@ -495,11 +514,11 @@ Benefit was observed across patient subgroups defined by geographic region, meno
 
 Randomised Phase 3 Study MONARCH 3: Verzenios in combination with aromatase inhibitors The efficacy and safety of Verzenios in combination with an aromatase inhibitor (anastrozole or letrozole) was evaluated in MONARCH 3, a randomised, double-blind, placebo-controlled phase 3 study in women with HR  positive, HER2  negative locally advanced or metastatic breast cancer who had not received prior systemic therapy in this disease setting. Patients were randomised in a 2:1 ratio to receive Verzenios 150 mg twice daily plus a non-steroidal aromatase inhibitor given daily at the recommended dose versus placebo plus a non-steroidal aromatase inhibitor according to the same schedule. The primary endpoint was investigator-assessed progression-free survival (PFS) evaluated according to RECIST 1.1; key secondary efficacy endpoints included objective response rate (ORR), clinical benefit rate (CBR) and overall survival (OS).
 
+<div style=\"page-break-after: always\"></div>
+
 The median age of patients enrolled was 63 years (range 32 - 88). Approximately 39 % of patients had received chemotherapy and 44 % had received antihormonal therapy in the (neo)adjuvant setting. Patients with prior (neo)adjuvant endocrine therapy must have completed this therapy at least 12 months before study randomisation. The majority of patients (96 %) had metastatic disease at baseline. Approximately 22 % of patients had bone-only disease, and 53 % patients had visceral metastases.
 
-The study met its primary endpoint of improving PFS. Primary efficacy results are summarised in Table 10 and Figure 2.
-
-<div style=\"page-break-after: always\"></div>
+The study met its primary endpoint of improving PFS. Primary efficacy results are summarised in Table 10 and Figure 3.
 
 Table 10. MONARCH 3: Summary of efficacy data (Investigator assessment, intent-to-treat population)
 
@@ -520,17 +539,9 @@ Table 10. MONARCH 3: Summary of efficacy data (Investigator assessment, intent-t
 | Partial response, (%)                                     | 57.7                                 | 45.5                               |
 | Clinical benefit rate c (measurable disease) [%] (95 %CI) | 79.0 (74.1, 83.9)                    | 69.7 (61.9, 77.5)                  |
 
-a Measurable disease defined per RECIST version 1.1
-
-b Complete response + partial response
-
-c Complete response + partial response + stable disease for ≥ 6 months
-
-N = number of patients; CI = confidence interval; NR = not reached.
-
 <div style=\"page-break-after: always\"></div>
 
-Figure 2. MONARCH 3: Kaplan-Meier plot of progression-free survival (Investigator assessment, intent-to-treat population)
+Figure 3. MONARCH 3: Kaplan-Meier plot of progression-free survival (Investigator assessment, intent-to-treat population)
 
 <!-- image -->
 
@@ -544,7 +555,7 @@ At the first OS interim analysis, 197 events were observed across the two arms a
 
 At the second OS interim analysis, 255 events were observed across the two arms and the HR was 0.754 (95 % CI: 0.584, 0.974).
 
-The results from the Final OS analysis were not statistically significant (summarised in Table 11 and Figure 3).
+The results from the Final OS analysis were not statistically significant (summarised in Table 11 and Figure 4).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -561,7 +572,7 @@ Abbreviations: N = number of patients; CI = confidence interval; ITT = intent-to
 
 Analyses for OS in patients with visceral disease showed an OS HR of 0.758 (95% CI: 0.558, 1.030). Median OS was 63.72 months in the abemaciclib plus AI arm and 48.82 months in the placebo plus AI arm. Similar to the ITT population, the results were not statistically significant.
 
-Figure 3. MONARCH 3: Kaplan-Meier plot of overall survival (Intent-to-treat population)
+Figure 4. MONARCH 3: Kaplan-Meier plot of overall survival (Intent-to-treat population)
 
 <!-- image -->
 
@@ -573,7 +584,7 @@ The median age of patients enrolled was 60 years (range, 32 - 91 years). In each
 
 <div style=\"page-break-after: always\"></div>
 
-The study met its primary endpoint of improving PFS. Primary efficacy results are summarised in Table 12 and Figure 4.
+The study met its primary endpoint of improving PFS. Primary efficacy results are summarised in Table 12 and Figure 5.
 
 Table 12. MONARCH 2: Summary of efficacy data (Investigator assessment, intent-to-treat population)
 
@@ -596,7 +607,7 @@ Table 12. MONARCH 2: Summary of efficacy data (Investigator assessment, intent-t
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 4. MONARCH 2: Kaplan-Meier plot of progression-free survival (Investigator assessment, intent-to-treat population)
+Figure 5. MONARCH 2: Kaplan-Meier plot of progression-free survival (Investigator assessment, intent-to-treat population)
 
 <!-- image -->
 
@@ -624,9 +635,9 @@ N = number of patients; CI = confidence interval; OS = overall survival
 
 Analyses for OS by stratification factors showed OS HR of 0.675 (95 % CI: 0.511, 0.891) in patients with visceral disease, and 0.686 (95 % CI: 0.451, 1.043) in patients with primary endocrine resistance.
 
-At the pre-specified final OS analysis (18 March 2022 cut-off), 440 events were observed across the 2 arms. The improvement in OS previously observed at the interim OS analysis (20 June 2019 cut-off) was maintained in the abemaciclib plus fulvestrant arm compared to the placebo plus fulvestrant arm, with a HR of 0.784 (95 % CI: 0.644, 0.955). Median OS was 45.8 months in the abemaciclib plus fulvestrant arm and 37.25 months in the placebo plus fulvestrant arm. The OS results are presented in Figure 5.
+At the pre-specified final OS analysis (18 March 2022 cut-off), 440 events were observed across the 2 arms. The improvement in OS previously observed at the interim OS analysis (20 June 2019 cut-off) was maintained in the abemaciclib plus fulvestrant arm compared to the placebo plus fulvestrant arm, with a HR of 0.784 (95 % CI: 0.644, 0.955). Median OS was 45.8 months in the abemaciclib plus fulvestrant arm and 37.25 months in the placebo plus fulvestrant arm. The OS results are presented in Figure 6.
 
-Figure 5. MONARCH 2: Kaplan-Meier plot of overall survival (Intent-to-treat population)
+Figure 6. MONARCH 2: Kaplan-Meier plot of overall survival (Intent-to-treat population)
 
 <!-- image -->
 
@@ -770,9 +781,7 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX II
-
-- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+## ANNEX II A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -804,14 +813,6 @@ An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-
-## · Obligation to conduct post-authorisation measures
-
-The MAH shall complete, within the stated timeframe, the below measure:
-
-| Description                                                                                                                                                                                                                                                                                                                                                                                                             | Due date   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| 1. Post-authorisation efficacy study (PAES): In order to further evaluate the efficacy and safety of Verzenios in combination with endocrine therapy for the adjuvant treatment of patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, node-positive early breast cancer at high risk of recurrence, the MAHshould submit a 5-year follow-up of the monarchE study. | 2Q 2026    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1103,7 +1104,8 @@ EXP
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 Mon.
 
@@ -1241,17 +1243,22 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER FOR 150 MG FILM-COATED TABLETS
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTER FOR 150 MGFILM-COATED TABLETS               |
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Verzenios 150 mg tablets abemaciclib
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Lilly
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -1260,7 +1267,8 @@ EXP
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 Mon.
 
@@ -1280,9 +1288,7 @@ Morning Evening
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-## PERFORATED UNIT DOSE BLISTER FOR 150 MG FILM-COATED TABLETS
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS PERFORATED UNIT DOSE BLISTER FOR 150 MG FILM-COATED TABLETS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1501,9 +1507,9 @@ Other side effects with Verzenios may include:
 - Indigestion or upset stomach
 - Nail disorders such as breaking or splitting of nails
 
-Uncommon side effects (may affect up to 1 in 100 people)
-
 <div style=\"page-break-after: always\"></div>
+
+## Uncommon side effects (may affect up to 1 in 100 people)
 
 - Low levels of white blood cells with fever
 - Perception of flashes of light or floaters in your vision
@@ -1538,7 +1544,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 - Verzenios 100 mg film-coated tablet: each tablet contains 100 mg abemaciclib.
 - Verzenios 150 mg film-coated tablet: each tablet contains 150 mg abemaciclib.
 - -The other ingredients in this medicine are:
-- Tablet core: colloidal hydrated silica, croscarmellose sodium, lactose monohydrate, microcrystalline cellulose, sodium stearyl fumarate (see section 2 under 'Verzenios contains sodium' for further information).
+- Tablet core: colloidal hydrated silica, croscarmellose sodium, lactose monohydrate, microcrystalline cellulose, sodium stearyl fumarate (see section 2 under 'Verzenios contains lactose' and 'Verzenios contains sodium' for further information).
 - Film-coating: titanium dioxide (E171), talc (E553b), polyvinyl alcohol (E1203), macrogol 3350 (E1521), iron oxide yellow (E172) [50 mg and 150 mg tablets only], iron oxide red (E172) [50 mg tablets only].
 
 ## What Verzenios looks like and contents of the pack
@@ -1571,7 +1577,7 @@ Tél/Tel: + 32-(0)2 548 84 84
 
 ## България
 
-ТП \" Ели Лили Недерланд \" Б . В . -България тел. : + 359 2 491 41 40
+ТП \" Ели Лили Недерланд \" Б . В . - България тел. : + 359 2 491 41 40
 
 ## Česká republika
 
@@ -1689,11 +1695,9 @@ Tel: + 40 21 4023000
 
 ## Slovenija
 
-Eli Lilly farmacevtska družba, d.o.o.
+Eli Lilly farmacevtska družba , d.o.o.
 
 Tel: + 386 (0)1 580 00 10
-
-<div style=\"page-break-after: always\"></div>
 
 ## Ísland
 
@@ -1701,11 +1705,23 @@ Icepharma hf.
 
 Sími: + 354 540 8000
 
+## Slovenská republika
+
+Eli Lilly Slovakia s.r.o.
+
+Tel: + 421 220 663 111
+
 ## Italia
 
 Eli Lilly Italia S.p.A.
 
 Tel: + 39- 055 42571
+
+## Suomi/Finland
+
+Oy Eli Lilly Finland Ab
+
+Puh/Tel: + 358-(0) 9 85 45 250
 
 ## Κύπρος
 
@@ -1715,6 +1731,12 @@ Phadisco Ltd
 
 357 22 715000
 
+## Sverige
+
+Eli Lilly Sweden AB
+
+Tel: + 46-(0) 8 7378800
+
 ## Latvija
 
 Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
@@ -1723,26 +1745,10 @@ Tel:
 
 + 371 67364000
 
+<div style=\"page-break-after: always\"></div>
+
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-## Slovenská republika
-
-Eli Lilly Slovakia s.r.o.
-
-Tel: + 421 220 663 111
-
-## Suomi/Finland
-
-Oy Eli Lilly Finland Ab
-
-Puh/Tel: + 358-(0) 9 85 45 250
-
-## Sverige
-
-Eli Lilly Sweden AB
-
-Tel: + 46-(0) 8 7378800

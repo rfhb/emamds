@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-12 11:37:41
-document_pages: 32
+document_datetime: 2026-02-25 13:01:54
+document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/hepcludex-epar-product-information_en.pdf
 document_name: hepcludex-epar-product-information_en.pdf
 version: success
-processing_time: 6.9239397
-conversion_datetime: 2026-01-14 07:28:45.723837
+processing_time: 7.4884051
+conversion_datetime: 2026-03-01 19:31:04.729993
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -983,11 +983,17 @@ If your child has been prescribed Hepcludex, but is unable to administer it them
 
 Children  or adolescents should  only  inject themselves  following  training from  a  healthcare professional and under supervision of an adult caregiver.
 
+Note:  The  supplies  (needles,  syringes,  sterile  water  for  injection)  not  included  in  the  Hepcludex carton  may  slightly  differ  in  size,  shape  and  color  from  the  figures  shown  in  this  step-by-step injection guide. These instructions provide the steps to mix and inject Hepcludex using an example set of supplies. If you have any questions, contact your healthcare provider or pharmacist.
+
 ## Injection sites
 
 The best places to inject are the abdomen and upper thighs, shown in the pictures. In order to reduce injection site reactions, you may change the site of Hepcludex injection regularly.
 
 Do not inject Hepcludex into the following areas: knee, groin, the lower or inner buttocks, directly over a blood vessel, around the navel (belly button), on scar tissue, a bruise, a mole, a surgical scar, tattoo or burn site, or where there is an injection site reaction.
+
+## Abdomen
+
+Upper thighs
 
 <!-- image -->
 
@@ -996,6 +1002,10 @@ Do not inject Hepcludex into the following areas: knee, groin, the lower or inne
 ## 1. Before you inject
 
 <!-- image -->
+
+1A
+
+Storage
 
 Hepcludex vials must be stored in the original packaging in the refrigerator (28 °C) in order to protect Hepcludex from light.
 
@@ -1045,9 +1055,9 @@ Slowly pull the plunger back to get 1.0 ml of sterile water into the syringe. Ca
 
 Gently tap the Hepcludex vial to loosen the powder.
 
-Insert the needle with sterile water into the vial at an angle.
+Insert the needle with sterile water all the way into the Hepcludex vial by pushing it straight through the centre of the rubber stopper at a 90° angle.
 
-Inject the sterile water slowly, so it can drip down the side of the vial into the powder.
+Inject all the sterile water slowly.
 
 Remove the needle from the vial and put the syringe and needle somewhere safe.
 
@@ -1071,9 +1081,11 @@ Once the powder starts to dissolve, just set it aside and it completely will dis
 
 After tapping, it could take up to 3 min to dissolve.
 
-2E Hepcludex ready for injection
+2E
 
 <!-- image -->
+
+## Hepcludex ready for injection
 
 When mixed completely, the Hepcludex solution should be clear.
 
@@ -1103,13 +1115,11 @@ Allow it to air dry.
 
 Pick up the syringe.
 
-Insert the needle into the vial of liquid Hepcludex.
+Re-insert the needle all the way into the Hepcludex vial  by pushing it straight through the centre of the rubber stopper at a 90° angle.
+
+3B Draw up Hepcludex
 
 <!-- image -->
-
-3B
-
-Draw up Hepcludex
 
 Gently turn the vial upside down.
 
@@ -1133,7 +1143,7 @@ Carefully remove the needle and syringe from the vial.
 
 <!-- image -->
 
-Remove the longer needle from the syringe and dispose of it properly so that nobody can be injured.
+Remove the longer needle from the syringe and dispose of it properly into a sharps disposal container so that nobody can be injured.
 
 Important! Do not put the plastic cap back on the needle.
 
@@ -1147,7 +1157,7 @@ Place the shorter needle on the syringe.
 
 Important! Be sure the capped needle is tight by pushing it down slightly while twisting it clockwise.
 
-Pull off the plastic cap.
+Note : The shorter needle may or may not have a safety shield on the side.
 
 3F Choose the injection site
 
@@ -1161,26 +1171,68 @@ Start in the centre, apply pressure and clean in a circular motion, working outw
 
 Important! Allow site to air-dry.
 
-3G Prepare injection site
+3G Fold back safety shield (if applicable)
 
 <!-- image -->
 
-Pinch and hold a fold of skin around the injection site.
+Note : If there is no safety shield on the injection needle, go directly to Step 3H .
 
-3H Inject Hepcludex
+Hold the syringe with one hand and fold the safety shield back towards the syringe.
+
+Do not remove the needle safety shield from the injection needle.
+
+3H Remove needle cap
 
 <!-- image -->
 
-Pierce the skin at a 45degree angle. The needle should be inserted most of the way in.
+Carefully pull off the injection needle plastic cap.
 
-Slowly push the plunger all the way to inject Hepcludex.
+Do not touch the needle or allow it to touch any other surface.
+
+<div style=\"page-break-after: always\"></div>
+
+3I Prepare injection site
+
+<!-- image -->
+
+Pinch and hold a fold of cleaned skin around the injection site.
+
+<!-- image -->
+
+3J Inject Hepcludex
+
+Pierce the skin at a 45degree angle. The needle should be inserted all the way in.
+
+Slowly push the plunger all the way to inject Hepcludex .
 
 Remove the needle from skin.
 
-Remove the needle from the syringe and dispose of both properly so that nobody can be injured (see 3D).
+3K After injecting, cover needle with safety shield (if applicable)
+
+<!-- image -->
+
+<!-- image -->
+
+Note : If there is no safety shield on the injection needle, go directly to Step 3L .
+
+Place the injection needle safety shield on the work surface.
+
+Press the needle toward the safety shield to cover the needle and lock the safety shield.
+
+Do not touch the needle.
+
+3L Dispose of the needle properly
+
+<!-- image -->
+
+Remove the needle from the syringe and throw away (dispose of) into the sharps disposal container so that nobody can be injured.
+
+Dispose of the syringe (without needle) separately and according to local guidelines.
 
 Important! Do not reuse the Hepcludex vial, syringe, needles or any remaining sterile water for injection.
 
 Discard the vial after use, including any unused excess liquid.
+
+<div style=\"page-break-after: always\"></div>
 
 Hepcludex vials and other supplies are for Single Use Only. Throw away (dispose of) all components after use, including unused sterile water for injection.

@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 09:47:09
+document_datetime: 2026-02-27 15:33:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zyprexa.html
 document_name: zyprexa.html
 version: success
-processing_time: 0.119223
-conversion_datetime: 2025-12-30 21:18:12.346648
+processing_time: 0.1154229
+conversion_datetime: 2026-03-01 20:24:16.727055
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Zyprexa
 
 [RSS](/en/individual-human-medicine.xml/65603)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 olanzapine Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -37,6 +35,7 @@ Page contents
 - [Product details](#product-details)
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-83805)
 - [Topics](#topics)
 
 - Application under evaluation
@@ -115,7 +114,7 @@ English (EN) (52.54 KB - PDF)
 
 [View](/en/documents/overview/zyprexa-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-687)
+[Other languages (21)](#file-language-dropdown-339)
 
 български (BG) (136.08 KB - PDF)
 
@@ -373,17 +372,17 @@ svenska (SV) (125.47 KB - PDF)
 
 Zyprexa : EPAR - Product Information
 
-English (EN) (633.34 KB - PDF)
+English (EN) (638.21 KB - PDF)
 
 **First published:** 20/08/2009
 
-**Last updated:** 06/06/2025
+**Last updated:** 27/02/2026
 
 [View](/en/documents/product-information/zyprexa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-7)
+[Other languages (24)](#file-language-dropdown-868)
 
-български (BG) (851.12 KB - PDF)
+български (BG) (858.05 KB - PDF)
 
 **First published:**
 
@@ -391,11 +390,11 @@ English (EN) (633.34 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/bg/documents/product-information/zyprexa-epar-product-information_bg.pdf)
 
-español (ES) (700.63 KB - PDF)
+español (ES) (706.51 KB - PDF)
 
 **First published:**
 
@@ -403,11 +402,11 @@ español (ES) (700.63 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/es/documents/product-information/zyprexa-epar-product-information_es.pdf)
 
-čeština (CS) (719.19 KB - PDF)
+čeština (CS) (722.2 KB - PDF)
 
 **First published:**
 
@@ -415,11 +414,11 @@ español (ES) (700.63 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/cs/documents/product-information/zyprexa-epar-product-information_cs.pdf)
 
-dansk (DA) (643.39 KB - PDF)
+dansk (DA) (647.05 KB - PDF)
 
 **First published:**
 
@@ -427,11 +426,11 @@ dansk (DA) (643.39 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/da/documents/product-information/zyprexa-epar-product-information_da.pdf)
 
-Deutsch (DE) (664.09 KB - PDF)
+Deutsch (DE) (670.21 KB - PDF)
 
 **First published:**
 
@@ -439,11 +438,11 @@ Deutsch (DE) (664.09 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/de/documents/product-information/zyprexa-epar-product-information_de.pdf)
 
-eesti keel (ET) (662.49 KB - PDF)
+eesti keel (ET) (667.12 KB - PDF)
 
 **First published:**
 
@@ -451,11 +450,11 @@ eesti keel (ET) (662.49 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/et/documents/product-information/zyprexa-epar-product-information_et.pdf)
 
-ελληνικά (EL) (842.25 KB - PDF)
+ελληνικά (EL) (848.51 KB - PDF)
 
 **First published:**
 
@@ -463,11 +462,11 @@ eesti keel (ET) (662.49 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/el/documents/product-information/zyprexa-epar-product-information_el.pdf)
 
-français (FR) (656.7 KB - PDF)
+français (FR) (664.99 KB - PDF)
 
 **First published:**
 
@@ -475,11 +474,11 @@ français (FR) (656.7 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/fr/documents/product-information/zyprexa-epar-product-information_fr.pdf)
 
-hrvatski (HR) (702.5 KB - PDF)
+hrvatski (HR) (705.64 KB - PDF)
 
 **First published:**
 
@@ -487,11 +486,11 @@ hrvatski (HR) (702.5 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/hr/documents/product-information/zyprexa-epar-product-information_hr.pdf)
 
-íslenska (IS) (629.09 KB - PDF)
+íslenska (IS) (635.06 KB - PDF)
 
 **First published:**
 
@@ -499,11 +498,11 @@ hrvatski (HR) (702.5 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/is/documents/product-information/zyprexa-epar-product-information_is.pdf)
 
-italiano (IT) (639.66 KB - PDF)
+italiano (IT) (647.54 KB - PDF)
 
 **First published:**
 
@@ -511,11 +510,11 @@ italiano (IT) (639.66 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/it/documents/product-information/zyprexa-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (730.8 KB - PDF)
+latviešu valoda (LV) (734.52 KB - PDF)
 
 **First published:**
 
@@ -523,11 +522,11 @@ latviešu valoda (LV) (730.8 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/lv/documents/product-information/zyprexa-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (717.46 KB - PDF)
+lietuvių kalba (LT) (720.68 KB - PDF)
 
 **First published:**
 
@@ -535,11 +534,11 @@ lietuvių kalba (LT) (717.46 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/lt/documents/product-information/zyprexa-epar-product-information_lt.pdf)
 
-magyar (HU) (763.59 KB - PDF)
+magyar (HU) (771.54 KB - PDF)
 
 **First published:**
 
@@ -547,11 +546,11 @@ magyar (HU) (763.59 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/hu/documents/product-information/zyprexa-epar-product-information_hu.pdf)
 
-Malti (MT) (798.5 KB - PDF)
+Malti (MT) (804.09 KB - PDF)
 
 **First published:**
 
@@ -559,11 +558,11 @@ Malti (MT) (798.5 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/mt/documents/product-information/zyprexa-epar-product-information_mt.pdf)
 
-Nederlands (NL) (617.81 KB - PDF)
+Nederlands (NL) (627.15 KB - PDF)
 
 **First published:**
 
@@ -571,11 +570,11 @@ Nederlands (NL) (617.81 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/nl/documents/product-information/zyprexa-epar-product-information_nl.pdf)
 
-norsk (NO) (658.29 KB - PDF)
+norsk (NO) (663.51 KB - PDF)
 
 **First published:**
 
@@ -583,11 +582,11 @@ norsk (NO) (658.29 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/no/documents/product-information/zyprexa-epar-product-information_no.pdf)
 
-polski (PL) (756.93 KB - PDF)
+polski (PL) (762.21 KB - PDF)
 
 **First published:**
 
@@ -595,11 +594,11 @@ polski (PL) (756.93 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/pl/documents/product-information/zyprexa-epar-product-information_pl.pdf)
 
-português (PT) (629.96 KB - PDF)
+português (PT) (636.13 KB - PDF)
 
 **First published:**
 
@@ -607,11 +606,11 @@ português (PT) (629.96 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/pt/documents/product-information/zyprexa-epar-product-information_pt.pdf)
 
-română (RO) (735.58 KB - PDF)
+română (RO) (735.79 KB - PDF)
 
 **First published:**
 
@@ -619,11 +618,11 @@ română (RO) (735.58 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/ro/documents/product-information/zyprexa-epar-product-information_ro.pdf)
 
-slovenčina (SK) (739.43 KB - PDF)
+slovenčina (SK) (742.5 KB - PDF)
 
 **First published:**
 
@@ -631,11 +630,11 @@ slovenčina (SK) (739.43 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/sk/documents/product-information/zyprexa-epar-product-information_sk.pdf)
 
-slovenščina (SL) (698.95 KB - PDF)
+slovenščina (SL) (706 KB - PDF)
 
 **First published:**
 
@@ -643,11 +642,11 @@ slovenščina (SL) (698.95 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/sl/documents/product-information/zyprexa-epar-product-information_sl.pdf)
 
-Suomi (FI) (633.51 KB - PDF)
+Suomi (FI) (639.28 KB - PDF)
 
 **First published:**
 
@@ -655,11 +654,11 @@ Suomi (FI) (633.51 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/fi/documents/product-information/zyprexa-epar-product-information_fi.pdf)
 
-svenska (SV) (629.27 KB - PDF)
+svenska (SV) (636.33 KB - PDF)
 
 **First published:**
 
@@ -667,11 +666,11 @@ svenska (SV) (629.27 KB - PDF)
 
 **Last updated:**
 
-06/06/2025
+27/02/2026
 
 [View](/sv/documents/product-information/zyprexa-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000252667 05/06/2025
+**Latest procedure affecting product information:** VR/0000287642 26/02/2026
 
 icon globe
 
@@ -697,7 +696,7 @@ English (EN) (40.29 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zyprexa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-901)
+[Other languages (24)](#file-language-dropdown-255)
 
 български (BG) (61.11 KB - PDF)
 
@@ -1028,7 +1027,7 @@ CHEPLAPHARM Registration GmbH
 
 Weilerstr. 5e
 
-Marketing authorisation issued 27/09/1996 Revision 46
+Marketing authorisation issued 27/09/1996 Revision 47
 
 ## Assessment history
 
@@ -1040,9 +1039,11 @@ Collapse section
 
 Zyprexa : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (146.3 KB - PDF)
+English (EN) (154.73 KB - PDF)
 
 **First published:** 06/06/2025
+
+**Last updated:** 27/02/2026
 
 [View](/en/documents/procedural-steps-after/zyprexa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1126,11 +1127,209 @@ English (EN) (241.07 KB - PDF)
 
 [View](/en/documents/scientific-discussion/zyprexa-epar-scientific-discussion_en.pdf)
 
-#### Topics
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Zyprexa : EPAR - Product information - tracked changes
+
+English (EN) (247.99 KB - DOCX)
+
+**First published:** 27/02/2026
+
+[View](/en/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (23)](#file-language-dropdown-322)
+
+български (BG) (740 KB - DOC)
+
+**First published:**
+
+27/02/2026
+
+[View](/bg/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_bg.doc)
+
+español (ES) (601 KB - DOC)
+
+**First published:**
+
+27/02/2026
+
+[View](/es/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_es.doc)
+
+čeština (CS) (198.59 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/cs/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (582.5 KB - DOC)
+
+**First published:**
+
+27/02/2026
+
+[View](/da/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_da.doc)
+
+Deutsch (DE) (610.5 KB - DOC)
+
+**First published:**
+
+27/02/2026
+
+[View](/de/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_de.doc)
+
+eesti keel (ET) (193.72 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/et/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (812.5 KB - DOC)
+
+**First published:**
+
+27/02/2026
+
+[View](/el/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_el.doc)
+
+français (FR) (486 KB - DOC)
+
+**First published:**
+
+27/02/2026
+
+[View](/fr/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_fr.doc)
+
+hrvatski (HR) (199.93 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/hr/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (419 KB - DOC)
+
+**First published:**
+
+27/02/2026
+
+[View](/is/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_is.doc)
+
+italiano (IT) (564 KB - DOC)
+
+**First published:**
+
+27/02/2026
+
+[View](/it/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_it.doc)
+
+latviešu valoda (LV) (710 KB - DOC)
+
+**First published:**
+
+27/02/2026
+
+[View](/lv/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_lv.doc)
+
+lietuvių kalba (LT) (174.82 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/lt/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (652.5 KB - DOC)
+
+**First published:**
+
+27/02/2026
+
+[View](/hu/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_hu.doc)
+
+Malti (MT) (199.34 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/mt/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (500.5 KB - DOC)
+
+**First published:**
+
+27/02/2026
+
+[View](/nl/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_nl.doc)
+
+norsk (NO) (184.07 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/no/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (726 KB - DOC)
+
+**First published:**
+
+27/02/2026
+
+[View](/pl/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_pl.doc)
+
+português (PT) (497.5 KB - DOC)
+
+**First published:**
+
+27/02/2026
+
+[View](/pt/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_pt.doc)
+
+română (RO) (203.61 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/ro/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (202.48 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/sk/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_sk.docx)
+
+Suomi (FI) (471 KB - DOC)
+
+**First published:**
+
+27/02/2026
+
+[View](/fi/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_fi.doc)
+
+svenska (SV) (437.5 KB - DOC)
+
+**First published:**
+
+27/02/2026
+
+[View](/sv/documents/product-information-tracked-changes/zyprexa-epar-product-information-tracked-changes_sv.doc)
+
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 06/06/2025
+**This page was last updated on** 27/02/2026
 
 ## Share this page
 

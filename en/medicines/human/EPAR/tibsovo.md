@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 12:14:36
+document_datetime: 2026-02-25 14:38:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tibsovo.html
 document_name: tibsovo.html
 version: success
-processing_time: 0.123171
-conversion_datetime: 2025-12-31 02:30:26.377477
+processing_time: 0.1198283
+conversion_datetime: 2026-03-01 20:21:44.069516
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Tibsovo
 
 [RSS](/en/individual-human-medicine.xml/67683)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 ivosidenib Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -37,6 +35,7 @@ Page contents
 - [Product details](#product-details)
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-83732)
 - [More information on Tibsovo](#related-medicines)
 
 - Application under evaluation
@@ -122,7 +121,7 @@ English (EN) (131.73 KB - PDF)
 
 [View](/en/documents/overview/tibsovo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-116)
+[Other languages (22)](#file-language-dropdown-566)
 
 български (BG) (156.84 KB - PDF)
 
@@ -314,17 +313,17 @@ English (EN) (1.86 MB - PDF)
 
 Tibsovo : EPAR - Product Information
 
-English (EN) (390.97 KB - PDF)
+English (EN) (691.53 KB - PDF)
 
 **First published:** 12/05/2023
 
-**Last updated:** 07/08/2024
+**Last updated:** 25/02/2026
 
 [View](/en/documents/product-information/tibsovo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-969)
+[Other languages (24)](#file-language-dropdown-439)
 
-български (BG) (532.88 KB - PDF)
+български (BG) (932.11 KB - PDF)
 
 **First published:**
 
@@ -332,11 +331,11 @@ English (EN) (390.97 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/bg/documents/product-information/tibsovo-epar-product-information_bg.pdf)
 
-español (ES) (432.91 KB - PDF)
+español (ES) (616.28 KB - PDF)
 
 **First published:**
 
@@ -344,11 +343,11 @@ español (ES) (432.91 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/es/documents/product-information/tibsovo-epar-product-information_es.pdf)
 
-čeština (CS) (504.02 KB - PDF)
+čeština (CS) (700.79 KB - PDF)
 
 **First published:**
 
@@ -356,11 +355,11 @@ español (ES) (432.91 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/cs/documents/product-information/tibsovo-epar-product-information_cs.pdf)
 
-dansk (DA) (382.87 KB - PDF)
+dansk (DA) (457.09 KB - PDF)
 
 **First published:**
 
@@ -368,11 +367,11 @@ dansk (DA) (382.87 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/da/documents/product-information/tibsovo-epar-product-information_da.pdf)
 
-Deutsch (DE) (470.62 KB - PDF)
+Deutsch (DE) (810.71 KB - PDF)
 
 **First published:**
 
@@ -380,11 +379,11 @@ Deutsch (DE) (470.62 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/de/documents/product-information/tibsovo-epar-product-information_de.pdf)
 
-eesti keel (ET) (378.12 KB - PDF)
+eesti keel (ET) (417.39 KB - PDF)
 
 **First published:**
 
@@ -392,11 +391,11 @@ eesti keel (ET) (378.12 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/et/documents/product-information/tibsovo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (449.57 KB - PDF)
+ελληνικά (EL) (819.44 KB - PDF)
 
 **First published:**
 
@@ -404,11 +403,11 @@ eesti keel (ET) (378.12 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/el/documents/product-information/tibsovo-epar-product-information_el.pdf)
 
-français (FR) (375.83 KB - PDF)
+français (FR) (601.84 KB - PDF)
 
 **First published:**
 
@@ -416,11 +415,11 @@ français (FR) (375.83 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/fr/documents/product-information/tibsovo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (495.96 KB - PDF)
+hrvatski (HR) (703.35 KB - PDF)
 
 **First published:**
 
@@ -428,11 +427,11 @@ hrvatski (HR) (495.96 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/hr/documents/product-information/tibsovo-epar-product-information_hr.pdf)
 
-íslenska (IS) (430.04 KB - PDF)
+íslenska (IS) (686.36 KB - PDF)
 
 **First published:**
 
@@ -440,11 +439,11 @@ hrvatski (HR) (495.96 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/is/documents/product-information/tibsovo-epar-product-information_is.pdf)
 
-italiano (IT) (373.28 KB - PDF)
+italiano (IT) (415.24 KB - PDF)
 
 **First published:**
 
@@ -452,11 +451,11 @@ italiano (IT) (373.28 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/it/documents/product-information/tibsovo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (659.52 KB - PDF)
+latviešu valoda (LV) (834.93 KB - PDF)
 
 **First published:**
 
@@ -464,11 +463,11 @@ latviešu valoda (LV) (659.52 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/lv/documents/product-information/tibsovo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (456.54 KB - PDF)
+lietuvių kalba (LT) (654.78 KB - PDF)
 
 **First published:**
 
@@ -476,11 +475,11 @@ lietuvių kalba (LT) (456.54 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/lt/documents/product-information/tibsovo-epar-product-information_lt.pdf)
 
-magyar (HU) (527.18 KB - PDF)
+magyar (HU) (733.61 KB - PDF)
 
 **First published:**
 
@@ -488,11 +487,11 @@ magyar (HU) (527.18 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/hu/documents/product-information/tibsovo-epar-product-information_hu.pdf)
 
-Malti (MT) (521.99 KB - PDF)
+Malti (MT) (546.9 KB - PDF)
 
 **First published:**
 
@@ -500,11 +499,11 @@ Malti (MT) (521.99 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/mt/documents/product-information/tibsovo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (388.62 KB - PDF)
+Nederlands (NL) (414.52 KB - PDF)
 
 **First published:**
 
@@ -512,11 +511,11 @@ Nederlands (NL) (388.62 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/nl/documents/product-information/tibsovo-epar-product-information_nl.pdf)
 
-norsk (NO) (399.38 KB - PDF)
+norsk (NO) (428 KB - PDF)
 
 **First published:**
 
@@ -524,11 +523,11 @@ norsk (NO) (399.38 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/no/documents/product-information/tibsovo-epar-product-information_no.pdf)
 
-polski (PL) (504.64 KB - PDF)
+polski (PL) (914.84 KB - PDF)
 
 **First published:**
 
@@ -536,11 +535,11 @@ polski (PL) (504.64 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/pl/documents/product-information/tibsovo-epar-product-information_pl.pdf)
 
-português (PT) (481.35 KB - PDF)
+português (PT) (572.89 KB - PDF)
 
 **First published:**
 
@@ -548,11 +547,11 @@ português (PT) (481.35 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/pt/documents/product-information/tibsovo-epar-product-information_pt.pdf)
 
-română (RO) (540.94 KB - PDF)
+română (RO) (862.38 KB - PDF)
 
 **First published:**
 
@@ -560,11 +559,11 @@ română (RO) (540.94 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/ro/documents/product-information/tibsovo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (600.22 KB - PDF)
+slovenčina (SK) (890.15 KB - PDF)
 
 **First published:**
 
@@ -572,11 +571,11 @@ slovenčina (SK) (600.22 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/sk/documents/product-information/tibsovo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (519.29 KB - PDF)
+slovenščina (SL) (717.63 KB - PDF)
 
 **First published:**
 
@@ -584,11 +583,11 @@ slovenščina (SL) (519.29 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/sl/documents/product-information/tibsovo-epar-product-information_sl.pdf)
 
-Suomi (FI) (418.23 KB - PDF)
+Suomi (FI) (444.46 KB - PDF)
 
 **First published:**
 
@@ -596,11 +595,11 @@ Suomi (FI) (418.23 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/fi/documents/product-information/tibsovo-epar-product-information_fi.pdf)
 
-svenska (SV) (398.96 KB - PDF)
+svenska (SV) (425.82 KB - PDF)
 
 **First published:**
 
@@ -608,11 +607,11 @@ svenska (SV) (398.96 KB - PDF)
 
 **Last updated:**
 
-07/08/2024
+25/02/2026
 
 [View](/sv/documents/product-information/tibsovo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0009 02/08/2024
+**Latest procedure affecting product information:** VR/0000316586 24/02/2026
 
 icon globe
 
@@ -636,7 +635,7 @@ English (EN) (35.36 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tibsovo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-702)
+[Other languages (24)](#file-language-dropdown-918)
 
 български (BG) (116.57 KB - PDF)
 
@@ -838,7 +837,7 @@ English (EN) (72.97 KB - PDF)
 
 [View](/en/documents/conditions-member-states/tibsovo-epar-conditions-imposed-member-states-safe-and-effective-use-annex-related-art-127a_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-186)
+[Other languages (24)](#file-language-dropdown-195)
 
 български (BG) (396.11 KB - PDF)
 
@@ -1039,7 +1038,7 @@ Name of medicine Tibsovo Active substance Ivosidenib International non-proprieta
 - Leukemia, Myeloid, Acute
 - Cholangiocarcinoma
 
-Anatomical therapeutic chemical (ATC) code L01XX62
+Anatomical therapeutic chemical (ATC) code L01XM02
 
 ### Pharmacotherapeutic group
 
@@ -1081,13 +1080,21 @@ Collapse section
 
 Tibsovo : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (162.71 KB - PDF)
+
+**First published:** 25/02/2026
+
+[View](/en/documents/procedural-steps-after/tibsovo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Tibsovo : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (156.3 KB - PDF)
 
 **First published:** 15/01/2024
 
-**Last updated:** 03/09/2025
+**Last updated:** 25/02/2026
 
-[View](/en/documents/procedural-steps-after/tibsovo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/tibsovo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -1129,13 +1136,219 @@ English (EN) (164.91 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-tibsovo_en.pdf)
 
-#### More information on Tibsovo
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Tibsovo : EPAR - Product information - tracked changes
+
+English (EN) (181.52 KB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/en/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-176)
+
+български (BG) (210.79 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/bg/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (224.69 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/es/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (254.71 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/cs/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (179.54 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/da/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (222.86 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/de/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (312.66 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/et/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (223.45 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/el/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (211.08 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/fr/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (203.76 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/hr/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (279.11 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/is/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (174.29 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/it/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (393.38 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/lv/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (547 KB - DOC)
+
+**First published:**
+
+25/02/2026
+
+[View](/lt/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_lt.doc)
+
+magyar (HU) (231.96 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/hu/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (175.62 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/mt/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (178.31 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/nl/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (180.35 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/no/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (253.44 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/pl/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (206.88 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/pt/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (232.09 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/ro/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (329.51 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/sk/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (298.57 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/sl/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (199.11 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/fi/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (175.22 KB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/sv/documents/product-information-tracked-changes/tibsovo-epar-product-information-tracked-changes_sv.docx)
+
+## More information on Tibsovo
 
 - [EU/3/16/1802 - orphan designation for treatment of acute myeloid leukaemia](/en/medicines/human/orphan-designations/eu-3-16-1802)
 - [EU/3/18/1994 - orphan designation for treatment of biliary tract cancer](/en/medicines/human/orphan-designations/eu-3-18-1994)
 - [Cross-sectional study to assess the effectiveness of the patients' alert card to inform on the risk of differentiation syndrome in AML patients treated with TIBSOVO® (Ivosidenib) (IMPACTA) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000190)
 
-**This page was last updated on** 03/09/2025
+**This page was last updated on** 25/02/2026
 
 ## Share this page
 

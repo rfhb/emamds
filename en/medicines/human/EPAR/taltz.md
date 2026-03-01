@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:34:14
+document_datetime: 2026-02-26 17:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/taltz.html
 document_name: taltz.html
 version: success
-processing_time: 0.1262867
-conversion_datetime: 2025-12-30 02:42:31.616083
+processing_time: 0.1104178
+conversion_datetime: 2026-03-01 19:33:37.426268
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Taltz
 
 [RSS](/en/individual-human-medicine.xml/65576)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 ixekizumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -157,7 +155,7 @@ English (EN) (110.04 KB - PDF)
 
 [View](/en/documents/overview/taltz-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-92)
+[Other languages (22)](#file-language-dropdown-672)
 
 български (BG) (137.64 KB - PDF)
 
@@ -423,15 +421,15 @@ svenska (SV) (106.55 KB - PDF)
 
 [View](/sv/documents/overview/taltz-epar-medicine-overview_sv.pdf)
 
-Taltz : EPAR - Risk management plan summary
+Taltz : EPAR - Risk management plan
 
-English (EN) (4.85 MB - PDF)
+English (EN) (1.13 MB - PDF)
 
 **First published:** 11/06/2020
 
-**Last updated:** 11/09/2025
+**Last updated:** 26/02/2026
 
-[View](/en/documents/rmp-summary/taltz-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/taltz-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
@@ -445,7 +443,7 @@ English (EN) (2.93 MB - PDF)
 
 [View](/en/documents/product-information/taltz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-947)
+[Other languages (24)](#file-language-dropdown-280)
 
 български (BG) (3.35 MB - PDF)
 
@@ -761,7 +759,7 @@ English (EN) (65.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-941)
+[Other languages (24)](#file-language-dropdown-612)
 
 български (BG) (62.7 KB - PDF)
 
@@ -1096,9 +1094,11 @@ Collapse section
 
 Taltz : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (140.96 KB - PDF)
+English (EN) (150.04 KB - PDF)
 
 **First published:** 22/07/2025
+
+**Last updated:** 26/02/2026
 
 [View](/en/documents/procedural-steps-after/taltz-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1252,7 +1252,7 @@ English (EN) (68.8 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-taltz_en.pdf)
 
-#### News on Taltz
+## News on Taltz
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2025) 25/07/2025
 
@@ -1266,17 +1266,17 @@ English (EN) (68.8 KB - PDF)
 
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/search?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-1=1=EMEAHC0039430000) (initial marketing authorisation)
 
-#### More information on Taltz
+## More information on Taltz
 
 - [EMEA-001050-PIP01-10-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001050-pip01-10-m05)
 - [EMEA-001050-PIP02-18-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001050-pip02-18-m02)
 - [Shortening the time to confirm or to rebut Adverse events of interest related to innovative Therapies for immune-mediated inflammATory dIseases: cross-talking between different data sOURces. SATURATIOn study. - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000207)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 11/09/2025
+**This page was last updated on** 26/02/2026
 
 ## Share this page
 

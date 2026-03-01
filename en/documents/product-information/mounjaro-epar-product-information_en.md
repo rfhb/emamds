@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-06 10:10:43
-document_pages: 196
+document_datetime: 2026-02-26 16:27:26
+document_pages: 202
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/mounjaro-epar-product-information_en.pdf
 document_name: mounjaro-epar-product-information_en.pdf
 version: success
-processing_time: 61.3256082
-conversion_datetime: 2026-02-09 22:16:30.206322
+processing_time: 66.3035682
+conversion_datetime: 2026-03-01 20:23:48.4659
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.1
-  docling: 2.72.0
-  docling-core: 2.63.0
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
   docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -154,7 +154,7 @@ Clear, colourless to slightly yellow solution.
 
 ## Type 2 diabetes mellitus
 
-Mounjaro is indicated for the treatment of adults with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise
+Mounjaro is indicated for the treatment of adults, adolescents and children aged 10 years and above with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise
 
 - as monotherapy when metformin is considered inappropriate due to intolerance or contraindications
 - in addition to other medicinal products for the treatment of diabetes.
@@ -168,7 +168,7 @@ Mounjaro is indicated as an adjunct to a reduced-calorie diet and increased phys
 - ≥ 30 kg/m 2 (obesity) or
 - ≥ 27 kg/m 2 to &lt; 30 kg/m 2 (overweight) in the presence of at least one weight-related comorbid condition (e.g., hypertension, dyslipidaemia, obstructive sleep apnoea, cardiovascular disease, prediabetes, or type 2 diabetes mellitus).
 
-For trial results with respect to obstructive sleep apnoea (OSA), see section 5.1.
+For trial results with respect to obstructive sleep apnoea (OSA) and heart failure with preserved ejection fraction (HFpEF), see section 5.1.
 
 ## 4.2 Posology and method of administration
 
@@ -176,19 +176,29 @@ For trial results with respect to obstructive sleep apnoea (OSA), see section 5.
 
 The starting dose of tirzepatide is 2.5 mg once weekly. After 4 weeks, the dose should be increased to 5 mg once weekly. If needed, dose increases can be made in 2.5 mg increments after a minimum of 4 weeks on the current dose.
 
+## Adults
+
 The recommended maintenance doses are 5 mg, 10 mg and 15 mg.
 
 The maximum dose is 15 mg once weekly.
+
+## Paediatric population aged 10 years and above (treatment of type 2 diabetes mellitus)
+
+The recommended maintenance doses are 5 mg and 10 mg.
+
+The maximum dose is 10 mg once weekly.
+
+## Combination therapy
 
 When tirzepatide is added to existing metformin and/or sodium-glucose co-transporter 2 inhibitor (SGLT2i) therapy, the current dose of metformin and/or SGLT2i can be continued.
 
 When tirzepatide is added to existing therapy of a sulphonylurea and/or insulin, a reduction in the dose of sulphonylurea or insulin may be considered to reduce the risk of hypoglycaemia. Blood glucose self-monitoring is necessary to adjust the dose of sulphonylurea and insulin. A stepwise approach to insulin reduction is recommended (see sections 4.4 and 4.8).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Missed doses
 
 If a dose is missed, it should be administered as soon as possible within 4 days after the missed dose. If more than 4 days have passed, skip the missed dose and administer the next dose on the regularly scheduled day. In each case, patients can then resume their regular once weekly dosing schedule.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Changing the dosing schedule
 
@@ -210,19 +220,25 @@ No dose adjustment is required for patients with hepatic impairment. Experience 
 
 ## Paediatric population
 
-The safety and efficacy of tirzepatide in children aged less than 18 years have not yet been established. No data are available.
+No dose adjustment is needed based on age, gender, race, ethnicity or body weight in children and adolescents aged 10 to less than 18 years treated for type 2 diabetes mellitus. No data are available for children and adolescents with type 2 diabetes mellitus with a body weight &lt; 50 kg or BMI below the 85th percentile at treatment initiation. In children weighing &lt; 60 kg, caution is advised when escalating to the 10 mg dose, since safety data are limited.
+
+The safety and efficacy of tirzepatide have not been established in children aged less than 10 years for treatment of type 2 diabetes mellitus and in children and adolescents aged less than 18 years for weight management.
 
 ## Method of administration
 
-Mounjaro is to be injected subcutaneously in the abdomen, thigh or upper arm.
+Mounjaro is to be injected subcutaneously in the abdomen, thigh or another person should inject in the back of the upper arm.
 
 The dose can be administered at any time of day, with or without meals.
 
 Injection sites should be rotated with each dose. If a patient also injects insulin, they should inject Mounjaro into a different injection site.
 
-Patients should be advised to carefully read the instructions for use included with the package leaflet before administering the medicinal product.
+Patients and caregivers should be advised to carefully read the instructions for use included with the package leaflet before administering the medicinal product. In paediatric patients, a caregiver may give injections or a patient may self-inject if a healthcare provider determines that it is appropriate.
+
+Before using Mounjaro KwikPen, the instructions for use must be read carefully.
 
 ## Vial
+
+<div style=\"page-break-after: always\"></div>
 
 Patients and their caregivers should be trained in subcutaneous injection technique before administering Mounjaro.
 
@@ -239,8 +255,6 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 Tirzepatide has not been studied in patients with a history of pancreatitis, and should be used with caution in these patients.
 
 Acute pancreatitis has been reported in patients treated with tirzepatide.
-
-<div style=\"page-break-after: always\"></div>
 
 Patients should be informed of the symptoms of acute pancreatitis. If pancreatitis is suspected, tirzepatide should be discontinued. If the diagnosis of pancreatitis is confirmed, tirzepatide should not be restarted. In the absence of other signs and symptoms of acute pancreatitis, elevations in pancreatic enzymes alone are not predictive of acute pancreatitis (see section 4.8).
 
@@ -264,6 +278,8 @@ Tirzepatide has not been studied in patients with non-proliferative diabetic ret
 
 Cases of pulmonary aspiration have been reported in patients receiving GLP-1 receptor agonists undergoing general anaesthesia or deep sedation. Therefore, the increased risk of residual gastric content due to delayed gastric emptying (see section 4.8) should be considered prior to performing procedures with general anaesthesia or deep sedation.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Sodium content
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
@@ -276,11 +292,7 @@ This medicinal product contains 5.4 mg benzyl alcohol in each 0.6 ml dose of Mou
 
 Tirzepatide delays gastric emptying and thereby has the potential to impact the rate of absorption of concomitantly administered oral medicinal products. This effect, resulting in decreased Cmax and a delayed tmax, is most pronounced at the time of tirzepatide treatment initiation.
 
-Based on the results from a study with paracetamol, which was used as a model medicinal product to evaluate the effect of tirzepatide on gastric emptying, no dose adjustments are expected to be required for most concomitantly administered oral medicinal products. However, it is recommended to monitor
-
-<div style=\"page-break-after: always\"></div>
-
-patients on oral medicinal products with a narrow therapeutic index (e.g., warfarin, digoxin), especially at initiation of tirzepatide treatment and following dose increase. The risk of delayed effect should also be considered for oral medicinal products for which a rapid onset of effect is of importance.
+Based on the results from a study with paracetamol, which was used as a model medicinal product to evaluate the effect of tirzepatide on gastric emptying, no dose adjustments are expected to be required for most concomitantly administered oral medicinal products. However, it is recommended to monitor patients on oral medicinal products with a narrow therapeutic index (e.g., warfarin, digoxin), especially at initiation of tirzepatide treatment and following dose increase. The risk of delayed effect should also be considered for oral medicinal products for which a rapid onset of effect is of importance.
 
 ## Paracetamol
 
@@ -298,21 +310,21 @@ Women of childbearing potential are recommended to use contraception when treate
 
 ## Pregnancy
 
-There are no or a limited amount of data from the use of tirzepatide in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3). Tirzepatide is not recommended during pregnancy and in women of childbearing potential not using contraception. If a patient wishes to become pregnant, or pregnancy occurs, tirzepatide should be discontinued. Tirzepatide should be discontinued at least 1 month before a planned pregnancy due to the long half-life (see section 5.2).
+There are no or a limited amount of data from the use of tirzepatide in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3). Tirzepatide is not recommended during pregnancy and in women of childbearing potential not using contraception. If a patient wishes to
+
+<div style=\"page-break-after: always\"></div>
+
+become pregnant, or pregnancy occurs, tirzepatide should be discontinued. Tirzepatide should be discontinued at least 1 month before a planned pregnancy due to the long half-life (see section 5.2).
 
 ## Breast-feeding
 
-It is unknown whether tirzepatide is excreted in human milk. A risk to the newborn/infant cannot be excluded.
-
-A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from tirzepatide therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
+Following a single 5 mg dose, the concentration of tirzepatide in breast milk was found to be undetectable to very low compared to plasma concentrations. As tirzepatide is an amino acid sequence, any low amount present in breast milk is expected to be degraded and not orally absorbed as intact drug by the breastfed infant. It is not known whether the reduced maternal food intake caused by tirzepatide affects composition or nutrient content of the breast milk. Overall, tirzepatide could be considered for use during breast-feeding.
 
 ## Fertility
 
 The effect of tirzepatide on fertility in humans is unknown.
 
 Animal studies with tirzepatide did not indicate direct harmful effects with respect to fertility (see section 5.3).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -322,51 +334,44 @@ Tirzepatide has no or negligible influence on the ability to drive or use machin
 
 ## Summary of safety profile
 
-In 12 completed phase 3 studies, 8 158 patients were exposed to tirzepatide alone or in combination with other glucose lowering medicinal products. The most frequently reported adverse reactions were gastrointestinal disorders and these were mostly mild or moderate in severity. The incidence of nausea, diarrhoea and vomiting was higher during the dose escalation period and decreased over time (see sections 4.2, and 4.4).
+In 13 completed phase 3 studies, 8 522 adult patients were exposed to tirzepatide alone or in combination with other glucose lowering medicinal products. The most frequently reported adverse reactions were gastrointestinal disorders and these were mostly mild or moderate in severity. The incidence of nausea, diarrhoea and vomiting was higher during the dose escalation period and decreased over time (see sections 4.2, and 4.4).
 
 ## Tabulated list of adverse reactions
 
 The following related adverse reactions from clinical studies are listed below by system organ class and in order of decreasing incidence (very common: ≥ 1/10; common: ≥ 1/100 to &lt; 1/10; uncommon: ≥ 1/1 000 to &lt; 1/100; rare: ≥ 1/10 000 to &lt; 1/1 000; very rare: &lt; 1/10 000). Within each incidence grouping, adverse reactions are presented in order of decreasing frequency.
 
-Table 1. Adverse reactions
+## Table 1. Adverse reactions
 
-| System organ class                                   | Very common                                                       | Common                                                                                   | Uncommon                                                                    | Rare                                   |
-|------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|----------------------------------------|
-| Immune system disorders                              |                                                                   | Hypersensitivity reactions                                                               |                                                                             | Anaphylactic reaction # , Angioedema # |
-| Metabolism and nutrition disorders                   | Hypoglycaemia 1 * when used with sulphonylurea or insulin         | Hypoglycaemia 1 * when used with metformin and SGLT2i, Decreased appetite 1              | Hypoglycaemia 1 * when used with metformin, Weight decreased 1              |                                        |
-| Nervous system disorders                             |                                                                   | Dizziness 2                                                                              | Dysgeusia, Dysaesthesia                                                     |                                        |
-| Vascular disorders                                   |                                                                   | Hypotension 2                                                                            |                                                                             |                                        |
-| Gastrointestina l disorders                          | Nausea, Diarrhoea, Vomiting 3 , Abdominal pain 3 , Constipation 3 | Dyspepsia, Abdominal distention, Eructation, Flatulence, Gastroesophageal reflux disease | Cholelithiasis, Cholecystitis, Acute pancreatitis, Delayed gastric emptying |                                        |
-| Skin and subcutaneous tissue disorders               |                                                                   | Hair loss 2                                                                              |                                                                             |                                        |
-| General disorders and administration site conditions |                                                                   | Fatigue † , Injection site reactions                                                     | Injection site pain                                                         |                                        |
-| Investigations                                       |                                                                   | Heart rate increased, Lipase increased, Amylase increased, Blood calcitonin increased 4  |                                                                             |                                        |
+| System organ class                 | Very common                                               | Common                                                                      | Uncommon                                                        | Rare                                   |
+|------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------|
+| Immune system disorders            |                                                           | Hypersensitivity reactions                                                  |                                                                 | Anaphylactic reaction # , Angioedema # |
+| Metabolism and nutrition disorders | Hypoglycaemia 1 * when used with sulphonylurea or insulin | Hypoglycaemia 1 * when used with metformin and SGLT2i, Decreased appetite 1 | Hypoglycaemia 1 * when used with metformin 6 , Weight decreased | 1                                      |
+| Nervous system disorders           |                                                           | Dizziness 2                                                                 | Dysgeusia, Dysaesthesia                                         |                                        |
 
 <div style=\"page-break-after: always\"></div>
 
-# From post-marketing reports
-
-- *Hypoglycaemia defined below.
-- † Fatigue includes the terms fatigue, asthenia, malaise, and lethargy.
-- 1 Adverse reaction that only applies to patients with type 2 diabetes mellitus (T2DM).
-- 2 Adverse reaction that mainly applies to patients with overweight or obesity, with or without T2DM.
-
-3  Frequency was very common in weight management and OSA trials, and common in T2DM trials.
-
-4  Frequency was common in weight management trials, and uncommon in T2DM and OSA trials.
+| Vascular disorders                                   |                                                                   | Hypotension 2                                                                            |                                                                             |
+|------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| Gastrointestina l disorders                          | Nausea, Diarrhoea, Vomiting 3 , Abdominal pain 3 , Constipation 4 | Dyspepsia, Abdominal distention, Eructation, Flatulence, Gastroesophageal reflux disease | Cholelithiasis, Cholecystitis, Acute pancreatitis, Delayed gastric emptying |
+| Skin and subcutaneous tissue disorders               |                                                                   | Hair loss 2                                                                              |                                                                             |
+| General disorders and administration site conditions |                                                                   | Fatigue † , Injection site reactions                                                     | Injection site pain                                                         |
+| Investigations                                       |                                                                   | Heart rate increased, Lipase increased, Amylase increased, Blood calcitonin increased 5  |                                                                             |
 
 ## Description of selected adverse reactions
 
 ## Hypersensitivity reactions
 
-Hypersensitivity reactions have been reported with tirzepatide in the pool of T2DM placebo-controlled trials, sometimes severe (e.g., urticaria and eczema); hypersensitivity reactions were reported in 3.2 % of tirzepatide-treated patients compared to 1.7 % of placebo-treated patients. Cases of anaphylactic reaction and angioedema have been rarely reported with marketed use of tirzepatide.
+Hypersensitivity reactions have been reported with tirzepatide in pooled adult T2DM placebo-controlled trials, pooled placebo-controlled weight management trials, pooled placebocontrolled OSA trials, and the placebo-controlled HFpEF trial, sometimes severe (e.g., urticaria, eczema, rash, dermatitis). Hypersensitivity reactions were reported in 3.2 %, 5.0 %, 3.0 %, and 4.7 % of tirzepatide-treated patients, respectively, compared to 1.7 %, 3.8 %, 2.1 %, and 3.5 % of placebotreated patients, respectively.
 
-Hypersensitivity reactions have been reported with tirzepatide in a pool of 3 placebo-controlled weight management trials and in a pool of 2 placebo-controlled OSA trials, sometimes severe (e.g., rash and dermatitis); hypersensitivity reactions were reported in 3.0 - 5.0 % of tirzepatide-treated patients compared to 2.1 - 3.8 % of placebo-treated patients.
+Cases of anaphylactic reaction and angioedema have been rarely reported with marketed use of tirzepatide.
 
 ## Hypoglycaemia in patients with type 2 diabetes mellitus
 
-## Type 2 diabetes studies
+## Type 2 diabetes studies in adults
 
 Clinically significant hypoglycaemia (blood glucose &lt; 3.0 mmol/L (&lt; 54 mg/dL)) or severe hypoglycaemia (requiring the assistance of another person) occurred in 10 to 14 % (0.14 to 0.16 events/patient year) of patients when tirzepatide was added to sulphonylurea and in 14 to 19 % (0.43 to 0.64 events/patient year) of patients when tirzepatide was added to basal insulin.
+
+<div style=\"page-break-after: always\"></div>
 
 The rate of clinically significant hypoglycaemia when tirzepatide was used as monotherapy or when added to other oral antidiabetic medicinal products was up to 0.04 events/patient year (see table 1 and sections 4.2, 4.4 and 5.1).
 
@@ -378,11 +383,7 @@ In a placebo-controlled weight management phase 3 trial in patients with T2DM, h
 
 ## Gastrointestinal adverse reactions
 
-In the placebo-controlled T2DM phase 3 studies, gastrointestinal disorders were dose-dependently increased for tirzepatide 5 mg (37.1 %), 10 mg (39.6 %) and 15 mg (43.6 %) compared with placebo (20.4 %). Nausea occurred in 12.2 %, 15.4 % and 18.3 % versus 4.3 % and diarrhoea in 11.8 %, 13.3 % and 16.2 % versus 8.9 % for tirzepatide 5 mg, 10 mg and 15 mg versus placebo. Gastrointestinal adverse reactions were mostly mild (74 %) or moderate (23.3 %) in severity. The
-
-<div style=\"page-break-after: always\"></div>
-
-incidence of nausea, vomiting, and diarrhoea was higher during the dose escalation period and decreased over time.
+In pooled adult placebo-controlled T2DM phase 3 studies, gastrointestinal disorders were dosedependently increased for tirzepatide 5 mg (37.1 %), 10 mg (39.6 %) and 15 mg (43.6 %) compared with placebo (20.4 %). Nausea occurred in 12.2 %, 15.4 % and 18.3 % versus 4.3 % and diarrhoea in 11.8 %, 13.3 % and 16.2 % versus 8.9 % for tirzepatide 5 mg, 10 mg and 15 mg versus placebo. Gastrointestinal adverse reactions were mostly mild (74 %) or moderate (23.3 %) in severity. The incidence of nausea, vomiting, and diarrhoea was higher during the dose escalation period and decreased over time.
 
 More patients in the tirzepatide 5 mg (3.0 %), 10 mg (5.4 %) and 15 mg (6.6 %) groups compared to the placebo group (0.4 %) discontinued permanently due to the gastrointestinal event.
 
@@ -392,47 +393,53 @@ More patients in the tirzepatide 5 mg (1.9 %), 10 mg (4.4 %) and 15 mg (4.1 %) g
 
 ## Gallbladder-related events
 
-In a pool of 3 placebo-controlled weight management phase 3 studies, the overall incidence of cholecystitis and cholecystitis acute was 0.6 % and 0.2 % for tirzepatide- and placebo-treated patients, respectively.
+In pooled placebo-controlled weight management phase 3 studies, the overall incidence of cholecystitis and cholecystitis acute was 0.6 % and 0.2 % for tirzepatide- and placebo-treated patients, respectively.
 
-In a pool of 3 placebo-controlled weight management phase 3 studies and in a pool of 2 placebocontrolled OSA phase 3 studies, acute gallbladder disease was reported in up to 2.0 % of tirzepatidetreated patients and in up to 1.6 % of placebo-treated patients.
+In pooled placebo-controlled weight management phase 3 studies, in pooled placebo-controlled OSA phase 3 studies, and in a placebo-controlled HFpEF phase 3 study, acute gallbladder disease was
+
+<div style=\"page-break-after: always\"></div>
+
+reported in 2.0 %, 0.9 %, and 4.4 % of tirzepatide-treated patients, respectively, and in 1.6 %, 0.9 %, and 2.7 % of placebo-treated patients, respectively.
 
 In the weight management phase 3 studies, acute gallbladder events were positively associated with weight reduction.
 
 ## Immunogenicity
 
-There was no evidence of an altered pharmacokinetic profile or an impact on efficacy of tirzepatide associated with the development of anti-drug antibodies (ADA) or neutralising antibodies.
+In phase 3 clinical studies, a total of 9 094 tirzepatide-treated patients were assessed for anti-drug antibodies (ADA). Across these studies, 45.1-65.1 % developed treatment-emergent (TE) ADA during the on-treatment period. In 29.8-51.3 % of the assessed patients, TE ADA were persistent (that is TE ADA present for a period of 16 weeks or greater). Up to 3 % and 2.3 % had neutralising antibodies against tirzepatide activity on the glucose-dependent insulinotropic polypeptide (GIP) and glucagonlike peptide-1 (GLP-1) receptors, respectively and up to 1.2 % and 0.4 % had neutralising antibodies against native GIP and native GLP-1, respectively.
 
-5 025 tirzepatide-treated patients in the T2DM phase 3 clinical studies were assessed for ADA. Of these, 51.1 % developed treatment-emergent (TE) ADA during the on-treatment period. In 38.3 % of the assessed patients, TE ADA were persistent (that is TE ADA present for a period of 16 weeks or greater). 1.9 % and 2.1 % had neutralising antibodies against tirzepatide activity on the glucosedependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptors, respectively and 0.9 % and 0.4 % had neutralising antibodies against native GIP and native GLP-1, respectively.
-
-3 710 tirzepatide-treated patients in the 4 phase 3 weight management and 2 phase 3 OSA studies were assessed for ADA. Of these, 60.6 - 65.1 % developed TE ADA during the on-treatment period. In 46.5 - 51.3 % of the assessed patients, TE ADA were persistent. Up to 2.3 % and 2.3 % had neutralising antibodies against tirzepatide activity on the GIP and GLP-1 receptors, respectively and up to 0.7 % and 0.1 % had neutralising antibodies against native GIP and native GLP-1, respectively.
+There was no evidence of an altered pharmacokinetic profile or an impact on efficacy of tirzepatide associated with the development of ADA or neutralising antibodies.
 
 ## Heart rate
 
-In the placebo-controlled T2DM phase 3 studies, treatment with tirzepatide resulted in a maximum mean increase in heart rate of 3 to 5 beats per minute. The maximum mean increase in heart rate in placebo-treated patients was 1 beat per minute.
-
-<div style=\"page-break-after: always\"></div>
+In pooled placebo-controlled T2DM phase 3 studies in adult patients, treatment with tirzepatide resulted in a maximum mean increase in heart rate of 3 to 5 beats per minute across doses. The maximum mean increase in heart rate in placebo-treated patients was 1 beat per minute.
 
 The percentage of patients who had a change of baseline heart rate of &gt; 20 bpm for 2 or more consecutive visits was 2.1 %, 3.8 % and 2.9 %, for tirzepatide 5 mg, 10 mg and 15 mg, respectively, compared with 2.1 % for placebo.
 
 Small mean increases in PR interval were observed with tirzepatide when compared to placebo (mean increase of 1.4 to 3.2 msec and mean decrease of 1.4 msec respectively). No difference in arrhythmia and cardiac conduction disorder treatment emergent events were observed between tirzepatide 5 mg, 10 mg, 15 mg and placebo (3.8 %, 2.1 %, 3.7 % and 3 % respectively).
 
-In 3 placebo-controlled weight management phase 3 studies, treatment with tirzepatide resulted in a mean increase in heart rate of 3 beats per minute. There was no mean increase in heart rate in the placebo treated patients.
+In pooled placebo-controlled weight management phase 3 studies, in pooled placebo-controlled OSA phase 3 studies, and in a placebo-controlled HFpEF phase 3 study, treatment with tirzepatide resulted in a mean increase in heart rate of 3, 2 and 3 beats per minute, respectively. There was a mean increase in heart rate of &lt;1, &lt;1 and 1 beat per minute, respectively, in placebo-treated patients
 
 In a placebo-controlled weight management study in patients without T2DM, the percentage of patients who had a change in baseline heart rate of &gt; 20 bpm for 2 or more consecutive visits was 2.4 %, 4.9 % and 6.3 %, for tirzepatide 5 mg, 10 mg and 15 mg, respectively, compared with 1.2 % for placebo. Small mean increases in PR interval were observed with tirzepatide and placebo (mean increase of 0.3 to 1.4 msec and of 0.5 msec respectively). No difference in arrhythmia and cardiac conduction disorder treatment emergent events were observed between tirzepatide 5 mg, 10 mg, 15 mg and placebo (3.7 %, 3.3 %, 3.3 % and 3.6 % respectively).
 
 ## Injection site reactions
 
-In the placebo-controlled T2DM phase 3 studies, injection site reactions were increased for tirzepatide (3.2 %) compared with placebo (0.4 %).
+In pooled placebo-controlled T2DM phase 3 studies in adult patients, in pooled placebo-controlled weight management phase 3 studies, in pooled placebo-controlled OSA phase 3 studies, and in a placebo-controlled HFpEF phase 3 study, injection site reactions were increased for tirzepatide (3.2 %, 8.0 %, 8.2 %, and 6.0 %, respectively) compared with placebo (0.4 %, 1.8 %, 2.6 %, and 1.6 %, respectively).
 
-In 3 placebo-controlled weight management phase 3 studies and in 2 placebo-controlled OSA phase 3 studies, injection site reactions were increased for tirzepatide (8.0 - 8.6 %) compared with placebo (1.8 - 2.6 %).
+<div style=\"page-break-after: always\"></div>
 
 Overall, in phase 3 studies, the most common signs and symptoms of injection site reactions were erythema and pruritus. The maximum severity of injection site reactions for patients was mild (91 %) or moderate (9 %). No injection site reactions were serious.
 
 ## Pancreatic enzymes
 
-In the placebo-controlled T2DM phase 3 studies, treatment with tirzepatide resulted in mean increases from baseline in pancreatic amylase of 33 % to 38 % and lipase of 31 % to 42 %. Placebo treated patients had an increase from baseline in amylase of 4 % and no changes were observed in lipase.
+In pooled placebo-controlled T2DM phase 3 studies, treatment in adult patients with tirzepatide resulted in mean increases from baseline in pancreatic amylase of 33 % to 38 % and lipase of 31 % to 42 % across doses. Placebo treated patients had an increase from baseline in amylase of 4 % and no changes were observed in lipase.
 
-In 3 placebo-controlled weight management phase 3 studies and 2 placebo-controlled OSA phase 3 studies, treatment with tirzepatide resulted in mean increases from baseline in pancreatic amylase of 23 - 24.6 % and lipase of 34 - 39 %. Placebo treated patients had an increase from baseline in amylase of 0.7 - 1.8 % and in lipase of 3.5 - 5.7 %.
+In pooled placebo-controlled weight management phase 3 studies, in pooled placebo-controlled OSA phase 3 studies, and in a placebo-controlled HFpEF phase 3 study, treatment with tirzepatide resulted in mean increases from baseline in pancreatic amylase of 23 %, 25 %, and 28 %, respectively, and lipase of 34 %, 39 %, and 32 %, respectively. Placebo treated patients had an increase from baseline in amylase of 2 %, 1 %, and 4 %, respectively, and in lipase of 6 %, 4 %, and 1 %, respectively.
+
+## Paediatric Population
+
+The safety and immunogenicity profiles in children and adolescents aged 10 to less than 18 years with T2DM treated with tirzepatide 5 mg and 10 mg once-weekly were consistent with those described above for adult patients with T2DM with the exception of a higher frequency of vomiting, abdominal pain, and hypoglycaemia when added to metformin alone.
+
+No severe hypoglycaemic episodes occurred during the paediatric T2DM trial. During the placebocontrolled phase, clinically significant hypoglycaemia (blood glucose &lt; 3.0 mmol/L (&lt; 54 mg/dL)) occurred in 28.6 % (1.98 events/patient year) of patients treated with tirzepatide and in 10.0 % (0.35 events/patient year) of patients treated with placebo, when added to basal insulin with or without metformin. The rate was 9.1 % (0.28 events/patient year) and 4.2 % (0.07 events/patient year) for tirzepatide- and placebo-treated patients, respectively, when added to metformin alone.
 
 ## Reporting of suspected adverse reactions
 
@@ -440,17 +447,15 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-In the event of overdose, appropriate supportive treatment should be initiated according to the patient's clinical signs and symptoms. Patients may experience gastrointestinal adverse reactions including nausea. There is no specific antidote for overdose of tirzepatide. A prolonged period of
-
-<div style=\"page-break-after: always\"></div>
-
-observation and treatment of these symptoms may be necessary, taking into account the half-life of tirzepatide (approximately 5 days).
+In the event of overdose, appropriate supportive treatment should be initiated according to the patient's clinical signs and symptoms. Patients may experience gastrointestinal adverse reactions including nausea. There is no specific antidote for overdose of tirzepatide. A prolonged period of observation and treatment of these symptoms may be necessary, taking into account the half-life of tirzepatide (approximately 5 days).
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Drugs used in diabetes, blood glucose lowering drugs, excl. insulins, ATC code: A10BX16
+
+<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -472,29 +477,33 @@ Tirzepatide lowers body weight and body fat mass. The body weight reduction is m
 
 Tirzepatide increases pancreatic β -cell glucose sensitivity. It enhances first- and second-phase insulin secretion in a glucose dependent manner.
 
-In a hyperglycaemic clamp study in patients with type 2 diabetes, tirzepatide was compared to placebo and the selective GLP-1 receptor agonist semaglutide 1 mg for insulin secretion. Tirzepatide 15 mg enhanced the first and second-phase insulin secretion rate by 466 % and 302 % from baseline, respectively. There was no change in first- and second-phase insulin secretion rate for placebo.
-
-<div style=\"page-break-after: always\"></div>
+In a hyperglycaemic clamp study in adult patients with type 2 diabetes, tirzepatide was compared to placebo and the selective GLP-1 receptor agonist semaglutide 1 mg for insulin secretion. Tirzepatide 15 mg enhanced the first and second-phase insulin secretion rate by 466 % and 302 % from baseline, respectively. There was no change in first- and second-phase insulin secretion rate for placebo.
 
 ## Insulin sensitivity
 
-Tirzepatide improves insulin sensitivity.
+## Tirzepatide improves insulin sensitivity.
 
-Tirzepatide 15 mg improved whole body insulin sensitivity by 63 %, as measured by M-value, a measure of glucose tissue uptake using hyperinsulinemic euglycaemic clamp. The M-value was unchanged for placebo.
+In adults, tirzepatide 15 mg improved whole body insulin sensitivity by 63 %, as measured by M-value, a measure of glucose tissue uptake using hyperinsulinemic euglycaemic clamp. The M-value was unchanged for placebo.
 
 Tirzepatide lowers body weight in patients with obesity and overweight, and in patients with type 2 diabetes (irrespective of body weight), which may contribute to improvement in insulin sensitivity.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Glucagon concentration
 
-Tirzepatide reduced the fasting and postprandial glucagon concentrations in a glucose dependent manner. Tirzepatide 15 mg reduced fasting glucagon concentration by 28 % and glucagon AUC after a mixed meal by 43 %, compared with no change for placebo.
+Tirzepatide reduced the fasting and postprandial glucagon concentrations in a glucose dependent manner. In adults, tirzepatide 15 mg reduced fasting glucagon concentration by 28 % and glucagon AUC after a mixed meal by 43 %, compared with no change for placebo.
 
 ## Gastric emptying
 
 Tirzepatide delays gastric emptying which may slow post meal glucose absorption and can lead to a beneficial effect on postprandial glycaemia. Tirzepatide induced delay in gastric emptying diminishes over time.
 
+## Effect on cardiac structure
+
+In a cardiac magnetic resonance imaging substudy in patients with HFpEF and obesity, a reduction in left ventricular (LV) mass and paracardial fat was observed with tirzepatide treatment.
+
 ## Clinical efficacy and safety
 
-## Type 2 diabetes mellitus
+## Type 2 diabetes mellitus in adults
 
 The safety and efficacy of tirzepatide were evaluated in five global randomised, controlled, phase 3 studies (SURPASS 1-5) assessing glycaemic control as the primary objective. The studies involved 6 263 treated patients with type 2 diabetes (4 199 treated with tirzepatide). The secondary objectives included body weight, percentage of patients achieving weight reduction targets, fasting serum glucose (FSG) and percentage of patients reaching target HbA1c. All five phase 3 studies assessed tirzepatide 5 mg, 10 mg and 15 mg. All patients treated with tirzepatide started with 2.5 mg for 4 weeks. Then the dose of tirzepatide was increased by 2.5 mg every 4 weeks until they reached their assigned dose.
 
@@ -545,7 +554,7 @@ Figure 1. Mean HbA1c (%) and mean body weight (kg) from baseline to week 40
 
 SURPASS-2 - Combination therapy with metformin
 
-In a 40 week active-controlled open-label study, (double-blind with respect to tirzepatide dose assignment) 1 879 patients were randomised to tirzepatide 5 mg, 10 mg or 15 mg once weekly or
+In a 40 week active-controlled open-label study, (double-blind with respect to tirzepatide dose assignment) 1879 patients were randomised to tirzepatide 5 mg, 10 mg or 15 mg once weekly or
 
 <div style=\"page-break-after: always\"></div>
 
@@ -667,13 +676,9 @@ Table 5. SURPASS-4: Results at week 52
 | weight loss                   | ≥ 10%                                     | 35.9 ††                | 53.0 ††                | 65.6 ††                 | 1.5                         |
 | weight loss                   | ≥ 15%                                     | 13.8 ††                | 24.0 ††                | 36.5 ††                 | 0.5                         |
 
-<!-- image -->
-
-<!-- image -->
-
-MOUNJARO 5 mg                MOUNJARO 10 mg               MOUNJARO 15 mg            Insulin Glargine
-
 Figure 4. Mean HbA1c (%) and mean body weight (kg) from baseline to week 52
+
+<!-- image -->
 
 SURPASS-5 - Combination therapy with titrated basal insulin, with or without metformin
 
@@ -716,9 +721,43 @@ Figure 5. Mean HbA1c (%) and mean body weight (kg) from baseline to week 40
 
 <!-- image -->
 
+## Type 2 diabetes mellitus in children and adolescents aged 10 to less than 18 years
+
+The safety and efficacy of tirzepatide 5 mg and 10 mg once weekly was evaluated in 99 patients aged 10 to below 18 years with type 2 diabetes on metformin (68.7 %) or basal insulin (8.1 %), or both (23.2 %), in a 30-week double-blind, placebo-controlled phase 3 study, followed by a 22-week openlabel extension (SURPASS-PEDS). In the open-label period, all participants on placebo were switched to tirzepatide at a maintenance dose of 5 mg while participants randomized to tirzepatide continued their treatment at the same dose of 5 or 10 mg.
+
+At baseline, patients had a mean age of 14.7 years and 61 % were female. The mean duration of type 2 diabetes was 2.4 years. All participants had overweight or obesity, since a BMI above the 85 th percentile of the general age and gender-matched population for the country or region was an inclusion criterion. At 30 weeks, tirzepatide 5 mg and 10 mg, both pooled and individually, were superior to placebo in lowering HbA1c, FSG and BMI. Glycaemic efficacy was sustained and BMI reductions continued through Week 52.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 7. SURPASS-PEDS: Results at week 30
+
+|                               |                                      | Tirzepatide 5 mg       | Tirzepatide 10 mg       | Tirzepatide Pooled     | Placebo   |
+|-------------------------------|--------------------------------------|------------------------|-------------------------|------------------------|-----------|
+| mITT population (n)           | mITT population (n)                  | 32                     | 33                      | 65                     | 34        |
+| HbA 1c (%)                    | Baseline (mean)                      | 8.22                   | 7.92                    | 8.07                   | 8.02      |
+| HbA 1c (%)                    | Change from baseline                 | -2.16                  | -2.30                   | -2.23                  | 0.049     |
+| HbA 1c (%)                    | Difference from placebo [95 %CI]     | -2.21** [-2.89, -1.53] | -2.35** [-3.03, -1.66]  | -2.28** [-2.87, -1.69] | -         |
+| HbA 1c (mmol/mol)             | Baseline (mean)                      | 66.3                   | 63.1                    | 64.7                   | 64.2      |
+| HbA 1c (mmol/mol)             | Change from baseline                 | -23.6                  | -25.1                   | -24.4                  | 0.53      |
+| HbA 1c (mmol/mol)             | Difference from placebo [95 %CI]     | -24.2** [-31.6, -16.8] | -25.6** [-33.1, -18.2]  | -24.9** [-31.4, -18.4] | -         |
+| Patients (%) achieving HbA 1c | <7%                                  | 84.2                   | 91.5                    | 87.9                   | 34.3      |
+| Patients (%) achieving HbA 1c | ≤ 6.5%                               | 70.8**                 | 86.1**                  | 78.6**                 | 27.8      |
+| Patients (%) achieving HbA 1c | < 5.7%                               | 46.9                   | 59.6                    | 53.4                   | 14.4      |
+| BMI (kg/m 2 )                 | Baseline (mean)                      | 33.9                   | 37.3                    | 35.6                   | 34.7      |
+| BMI (kg/m 2 )                 | Change (%) from baseline             | -7.4                   | -11.2                   | -9.3                   | -0.4      |
+| BMI (kg/m 2 )                 | Difference (%) from placebo [95 %CI] | -7.0** [-10.48, -3.60] | -10.8** [-14.25, -7.39] | -8.9** [-11.91, -5.95] | -         |
+
+*p &lt; 0.05, ** p &lt; 0.001 for superiority, adjusted for multiplicity.
+
+Figure 6. Mean HbA1c (%) and change in BMI (%) from baseline to week 30
+
+<!-- image -->
+
 ## Weight management
 
-The efficacy and safety of tirzepatide for weight management, in combination with a reduced calorie intake and increased physical activity, in patients with obesity (BMI ≥ 30 kg/m 2 ), or overweight (BMI ≥ 27 kg/m 2 to &lt; 30 kg/m 2 ) and at least one weight-related comorbidity (such as treated or untreated dyslipidaemia, hypertension, obstructive sleep apnoea, or cardiovascular disease), and with prediabetes or normoglycemia, but without type 2 diabetes mellitus, were evaluated in three randomised double-blinded, placebo-controlled phase 3 studies (SURMOUNT-1, SURMOUNT-3, SURMOUNT-4). A total of 3 900 adult patients (2 518 randomised to tirzepatide) were included in these studies.
+The efficacy and safety of tirzepatide for weight management, in combination with a reduced calorie intake and increased physical activity, in patients with obesity (BMI ≥ 30 kg/m 2 ), or overweight (BMI ≥ 27 kg/m 2 to &lt; 30 kg/m 2 ) and at least one weight-related comorbidity (such as treated or untreated dyslipidaemia, hypertension, obstructive sleep apnoea, or cardiovascular disease), and with prediabetes or normoglycaemia, but without type 2 diabetes mellitus, were evaluated in three randomised double-blinded, placebo-controlled phase 3 studies (SURMOUNT-1, SURMOUNT-3, SURMOUNT-4). A total of 3 900 adult patients (2 518 randomised to tirzepatide) were included in these studies.
+
+<div style=\"page-break-after: always\"></div>
 
 Treatment with tirzepatide demonstrated clinically meaningful and sustained weight reduction compared with placebo. Furthermore, a higher percentage of patients achieved ≥ 5 %, ≥ 10 %, ≥ 15 % and ≥ 20 % weight loss with tirzepatide compared with placebo.
 
@@ -732,7 +771,7 @@ In a 72 week double-blind placebo-controlled study, 2 539 adult patients with ob
 
 <div style=\"page-break-after: always\"></div>
 
-Table 7. SURMOUNT-1: Results at week 72
+Table 8. SURMOUNT-1: Results at week 72
 
 |                                              | Tirzepatide 5 mg                             | Tirzepatide 10 mg                            | Tirzepatide 15 mg                            | Placebo                                      |
 |----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
@@ -755,7 +794,7 @@ Table 7. SURMOUNT-1: Results at week 72
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 6. Mean change in body weight (%) from baseline to week 72
+Figure 7. Mean change in body weight (%) from baseline to week 72
 
 <!-- image -->
 
@@ -763,7 +802,7 @@ In SURMOUNT-1, pooled doses of tirzepatide 5 mg, 10 mg, and 15 mg led to a signi
 
 Patients with prediabetes at baseline continued for up to 176 weeks of treatment to evaluate long term effects on body weight and onset of adjudication-confirmed type 2 diabetes mellitus.
 
-Table 8. SURMOUNT-1: Results at week 176 (patients with prediabetes at baseline)
+Table 9. SURMOUNT-1: Results at week 176 (patients with prediabetes at baseline)
 
 |                                       | Tirzepatide 5 mg        | Tirzepatide 10 mg       | Tirzepatide 15 mg       | Placebo   |
 |---------------------------------------|-------------------------|-------------------------|-------------------------|-----------|
@@ -777,19 +816,19 @@ Table 8. SURMOUNT-1: Results at week 176 (patients with prediabetes at baseline)
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 7. Mean change in body weight (%) from baseline to week 176 (patients with prediabetes at baseline)
+Figure 8. Mean change in body weight (%) from baseline to week 176 (patients with prediabetes at baseline)
 
 <!-- image -->
 
-Among the patients in SURMOUNT-1 with prediabetes at baseline (N = 1032), 95.3 % of patients treated with tirzepatide reverted to normoglycemia at week 72, as compared with 61.9 % of patients in the placebo group. At the end of 176 weeks, 94.5 % of patients treated with tirzepatide reverted to normoglycemia, as compared with 60.4 % of patients in the placebo group, and 1.2% of patients treated with tirzepatide progressed to type 2 diabetes mellitus, as compared with 12.6% of patients in the placebo group.
+Among the patients in SURMOUNT-1 with prediabetes at baseline (N = 1032), 95.3 % of patients treated with tirzepatide reverted to normoglycaemia at week 72, as compared with 61.9 % of patients in the placebo group. At the end of 176 weeks, 94.5 % of patients treated with tirzepatide reverted to normoglycaemia, as compared with 60.4 % of patients in the placebo group, and 1.2% of patients treated with tirzepatide progressed to type 2 diabetes mellitus, as compared with 12.6% of patients in the placebo group.
 
 ## SURMOUNT-2
 
-In a 72 week double-blind placebo-controlled study, 938 adult patients with obesity (BMI ≥ 30 kg/m 2 ) or with overweight (BMI ≥ 27 kg/m 2 to &lt; 30 kg/m 2 ) and type 2 diabetes, were randomised to tirzepatide 10 mg or 15 mg once weekly or placebo. Patients included in the trial had HbA1c 7-10 % and were treated with either diet and exercise alone, or with one or more oral anti-hyperglycemic agent . All patients were counselled on a reduced calorie diet and increased physical activity throughout the trial. Patients had a mean age of 54 years and 51 % were women.Mean BMI at baseline was 36.1 kg/m 2 .
+In a 72 week double-blind placebo-controlled study, 938 adult patients with obesity (BMI ≥ 30 kg/m 2 ) or with overweight (BMI ≥ 27 kg/m 2 to &lt; 30 kg/m 2 ) and type 2 diabetes, were randomised to tirzepatide 10 mg or 15 mg once weekly or placebo. Patients included in the trial had HbA1c 7-10 % and were treated with either diet and exercise alone, or with one or more oral anti-hyperglycaemic agent . All patients were counselled on a reduced calorie diet and increased physical activity throughout the trial. Patients had a mean age of 54 years and 51 % were women. Mean BMI at baseline was 36.1 kg/m 2 .
 
 <div style=\"page-break-after: always\"></div>
 
-Table 9. SURMOUNT-2: Results at week 72
+Table 10. SURMOUNT-2: Results at week 72
 
 |                                       | Tirzepatide 10 mg       | Tirzepatide 15 mg       | Placebo   |
 |---------------------------------------|-------------------------|-------------------------|-----------|
@@ -834,7 +873,7 @@ Table 9. SURMOUNT-2: Results at week 72
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 8. Mean change in body weight (%) from baseline to week 72
+Figure 9. Mean change in body weight (%) from baseline to week 72
 
 <!-- image -->
 
@@ -846,7 +885,7 @@ In an 84 week study, 806 adult patients with obesity (BMI ≥ 30 kg/m 2 ) or wit
 
 <div style=\"page-break-after: always\"></div>
 
-Table 10. SURMOUNT-3: Results at week 72
+Table 11. SURMOUNT-3: Results at week 72
 
 |                                                                                          | Tirzepatide MTD         | Placebo   |
 |------------------------------------------------------------------------------------------|-------------------------|-----------|
@@ -870,7 +909,7 @@ Table 10. SURMOUNT-3: Results at week 72
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 9. Mean change in body weight (%) from Week -12 to week 72
+Figure 10. Mean change in body weight (%) from Week -12 to week 72
 
 <!-- image -->
 
@@ -878,11 +917,11 @@ Figure 9. Mean change in body weight (%) from Week -12 to week 72
 
 In an 88 week study, 783 adult patients with obesity (BMI ≥ 30 kg/m 2 ) or with overweight (BMI ≥ 27 kg/m 2 to &lt; 30 kg/m 2 ) and at least one weight related comorbid condition, were enrolled in a 36 week open label tirzepatide lead-in phase. At the start of lead-in period, the enrolled patients had a mean body weight of 107.0 kg and a mean BMI of 38.3 kg/m 2 . At the end of the lead-in period, 670 patients who achieved tirzepatide MTD of 10 mg or 15 mg dose were randomised to continue treatment with tirzepatide once weekly or to switch to placebo for 52 weeks (double-blind phase). Patients were counselled on a reduced calorie diet and increased physical activity throughout the trial. At randomisation (week 36), patients had a mean age of 49 years and 71 % were women. Mean body weight at randomisation was 85.2 kg and mean BMI was 30.5 kg/m 2 .
 
-Patients who continued treatment with tirzepatide for an additional 52 weeks (up to 88 weeks in total) maintained and experienced further weigh loss after the initial weight reduction achieved during the 36 week lead-in phase. The weight reduction was superior and clinically meaningful compared to the placebo group, in which a substantial regain of body weight lost during the lead-in phase was observed (see Table 11 and Figure 10). Nevertheless, the observed mean body weight for placebo-treated patients was lower at week 88 than at the start of the lead-in phase (see Figure 10).
+Patients who continued treatment with tirzepatide for an additional 52 weeks (up to 88 weeks in total) maintained and experienced further weigh loss after the initial weight reduction achieved during the 36 week lead-in phase. The weight reduction was superior and clinically meaningful compared to the placebo group, in which a substantial regain of body weight lost during the lead-in phase was observed (see Table 12 and Figure 11). Nevertheless, the observed mean body weight for placebo-treated patients was lower at week 88 than at the start of the lead-in phase (see Figure 11).
 
 <div style=\"page-break-after: always\"></div>
 
-Table 11. SURMOUNT-4: Results at week 88
+Table 12. SURMOUNT-4: Results at week 88
 
 |                                                                                                     | Tirzepatide MTD                                                     | Placebo                                                             |
 |-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
@@ -908,7 +947,7 @@ Table 11. SURMOUNT-4: Results at week 88
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 10. Mean change in body weight (%) from baseline (Week 0) to week 88
+Figure 11. Mean change in body weight (%) from baseline (Week 0) to week 88
 
 <!-- image -->
 
@@ -938,13 +977,13 @@ Patients with obesity or overweight without diabetes who received tirzepatide sh
 
 The efficacy and safety of tirzepatide for the treatment of moderate to severe (AHI&gt;15) obstructive sleep apnoea (OSA), in combination with diet and exercise, in patients with obesity were evaluated in two randomized double-blinded, placebo-controlled phase 3 studies (SURMOUNT-OSA Study 1 and Study 2). A total of 469 adult patients with moderate to severe OSA and obesity (234 randomised to treatment with tirzepatide) were included in these studies. Patients with T2DM were excluded. Study 1 enrolled patients unable or unwilling to use Positive Airway Pressure (PAP) therapy. Study 2 enrolled patients on PAP therapy. Study 2 does not allow any conclusion about a potentially added benefit of tirzepatide on top of PAP therapy, since PAP use was suspended 7 days prior to endpoint measurement. All patients were treated with the maximum tolerated dose (MTD; 10 mg or 15 mg) of tirzepatide or placebo, once weekly for 52 weeks.
 
-In both studies, treatment with tirzepatide demonstrated statistically significant and clinically meaningful reduction in the apnoea-hypopnoea index (AHI) compared with placebo (see Table 12). Among tirzepatide treated patients, greater proportion of patients achieved at least 50 % AHI reduction compared to placebo.
+In both studies, treatment with tirzepatide demonstrated statistically significant and clinically meaningful reduction in the apnoea-hypopnoea index (AHI) compared with placebo (see Table 13). Among tirzepatide treated patients, greater proportion of patients achieved at least 50 % AHI reduction compared to placebo.
 
 ## SURMOUNT-OSA, Study 1 and Study 2
 
 In two 52 week double-blind placebo-controlled studies, 469 adult patients with moderate to severe OSA and obesity, were randomised to tirzepatide MTD of 10 mg or 15 mg once weekly, or to placebo, once weekly. In Study 1 patients had a mean age of 48 years, 33 % were female, 35 % had moderate OSA, 63 % had severe OSA, 65 % had pre-diabetes, 76 % had hypertension, 10 % had cardiac disorders, and 81 % had dyslipidemia. Patients had a mean Epworth Sleepiness Scale (ESS) of 10.5. In Study 2 patients had a mean age of 52 years, 28 % were female, 31 % had moderate OSA, 68 % had severe OSA, 57 % had pre-diabetes, 77 % had hypertension, 11 % had cardiac disorders, and 84 % had dyslipidemia. Patients had a mean ESS of 10.0.
 
-Table 12. SURMOUNT-OSA, Study 1 and Study 2: Results at week 52
+Table 13. SURMOUNT-OSA, Study 1 and Study 2: Results at week 52
 
 |                                   | OSA Study 1             | OSA Study 1   | OSA Study 2             | OSA Study 2   |
 |-----------------------------------|-------------------------|---------------|-------------------------|---------------|
@@ -989,6 +1028,77 @@ a Analysed using log transformed data.
 
 b  Blood pressure was assessed at Week 48 because PAP withdrawal at Week 52 may confound blood pressure assessment.
 
+## Heart failure with preserved ejection fraction
+
+The efficacy and safety of tirzepatide for the treatment of chronic heart failure (New York Heart Association [NYHA] IIIV) with left ventricular ejection fraction ≥50% were evaluated in a randomized, double-blinded, placebo-controlled phase 3 study (SUMMIT) including 731 adults with obesity (364 randomized to tirzepatide treatment). The dual primary endpoints were the composite of adjudication-confirmed cardiovascular death or heart failure events, analyzed as time to first event, and the change from baseline to week 52 in the Kansas City Cardiomyopathy Questionnaire Clinical Summary Score (KCCQ-CSS). Patients were treated with the MTD up to 15 mg of tirzepatide or placebo, once weekly, and followed for a median duration of 104 weeks.
+
+Patients had a mean age of 65.2 years, 21.0 % were 75 years of age or older, and 53.8 % were women. At randomization, 72.5 % of patients were classified as NYHA Class II, 27.5 % as Class III/IV, and 48.2 % had T2DM. Mean BMI at baseline was 38.2 kg/m 2 , and median eGFR was 62.0 mL/min/1.73 m 2 . Baseline heart failure therapy included renin-angiotensin-system inhibitors (80.4 %), diuretics (73.6 %), beta blockers (69.5 %), mineralocorticoid receptor antagonists (35.0 %), and 17.2 % used SGLT2i.
+
+Tirzepatide demonstrated superiority compared with placebo in reducing the risk of worsening heart failure assessed as the composite of cardiovascular death or heart failure event, defined as heart failure hospitalization, urgent heart failure visits, or oral diuretic intensification for worsening heart failure (see Figure 12 and Table 14).
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 12: Time-to-first event analysis for the composite of adjudication-confirmed cardiovascular death or heart failure events over a median follow up of 104 weeks
+
+<!-- image -->
+
+Table 14. SUMMIT: The composite and its components over a median follow up of 104 weeks
+
+|                                                                                           | Tirzepatide MTD   | Placebo   |
+|-------------------------------------------------------------------------------------------|-------------------|-----------|
+| ITT population (n)                                                                        | 364               | 367       |
+| Composite of adjudication-confirmed cardiovascular death or heart failure event a , n (%) | 36 (9.9)          | 56 (15.3) |
+| Hazard ratio vs placebo (95% CI)                                                          | 0.62 (0.41, 0.95) | -         |
+| p-value for superiority                                                                   | 0.026             | -         |
+| Cardiovascular death, n (%)                                                               | 10 (2.7)          | 5 (1.4)   |
+| Hazard ratio vs placebo (95% CI)                                                          | 1.99 (0.68, 5.81) | -         |
+| Heart failure event a , n (%)                                                             | 29 (8.0)          | 52 (14.2) |
+| Hazard ratio vs placebo (95% CI)                                                          | 0.54 (0.34, 0.85) | -         |
+| Hospitalization for heart failure, n (%)                                                  | 12 (3.3)          | 26 (7.1)  |
+| Hazard ratio vs placebo (95% CI)                                                          | 0.44 (0.22, 0.87) | -         |
+| Urgent visit for heart failure, n (%)                                                     | 5 (1.4)           | 12 (3.3)  |
+| Hazard ratio vs placebo (95% CI)                                                          | 0.41 (0.14, 1.16) | -         |
+| ODI for worsening heart failure, n (%)                                                    | 17 (4.7)          | 21 (5.7)  |
+| Hazard ratio vs placebo (95% CI)                                                          | 0.80 (0.42, 1.52) | -         |
+
+Based on time-to-first event analysis for all randomized patients regardless of adherence to the study drug; a patient may be counted in multiple components.
+
+Tirzepatide treatment resulted in a statistically significant improvement in heart failure symptoms and physical limitations compared with placebo, as assessed by the KCCQ-CSS. Treatment with tirzepatide also significantly improved exercise capacity compared with placebo, as assessed by the 6minute walk distance (6MWD) (see Table 15).
+
+<div style=\"page-break-after: always\"></div>
+
+Table 15. SUMMIT: Results at week 52
+
+|                                               | Tirzepatide MTD        | Placebo   |
+|-----------------------------------------------|------------------------|-----------|
+| ITT population (n)                            | 364                    | 367       |
+| KCCQ-CSS (points)                             |                        |           |
+| Baseline mean                                 | 54.2                   | 53.0      |
+| LS mean change from baseline                  | 24.8                   | 15.0      |
+| Difference from placebo [95% CI]              | 9.8** [7.1, 12.5]      | -         |
+| Patients (%) experiencing meaningful change 1 | 56.6 ##                | 38.7      |
+| 6MWD(metres)                                  |                        |           |
+| Baseline mean                                 | 309.4                  | 303.9     |
+| LS mean change from baseline                  | 38.2                   | 7.9       |
+| Difference from placebo [95% CI]              | 30.3** [20.3, 40.3]    | -         |
+| Patients (%) experiencing meaningful change 2 | 59.9 ##                | 30.4      |
+| Body Weight (kg)                              |                        |           |
+| Baseline mean                                 | 103.1                  | 103.3     |
+| LS mean %change from baseline                 | -15.7                  | -2.2      |
+| %Difference from placebo [95% CI]             | -13.5** [-14.6, -12.4] | -         |
+| hsCRP (mg/L)                                  |                        |           |
+| Baseline mean                                 | 5.5                    | 5.6       |
+| %Change from baseline                         | -43.4                  | -3.5      |
+| %Difference from placebo [95% CI]             | -41.4** [-49.5, -31.9] | -         |
+
+** p &lt; 0.001 versus placebo, adjusted for multiplicity.
+
+## p &lt; 0.001 versus placebo, not adjusted for multiplicity.
+
+1 Meaningful within patient change threshold of ≥20 points improvement.
+
+2 Meaningful within patient change threshold of ≥25 metres improvement.
+
 ## Cardiovascular evaluation
 
 Cardiovascular (CV) risk was assessed via a meta-analysis of patients with at least one adjudication confirmed major adverse cardiovascular event (MACE). The composite endpoint of MACE-4 included CV death, non-fatal myocardial infarction, non-fatal stroke, or hospitalisation for unstable angina.
@@ -997,17 +1107,19 @@ In a primary meta-analysis of phase 2 and 3 registration studies in patients wit
 
 An additional analysis was conducted specifically for the SURPASS-4 study that enrolled patients with established CV disease. A total of 109 patients (tirzepatide: 47 [n = 995]; insulin glargine: 62 [n = 1 000]) experienced at least one adjudication confirmed MACE-4: The results showed that tirzepatide was not associated with excess risk for CV events compared with insulin glargine (HR: 0.74; CI: 0.51 to 1.08).
 
-In 3 placebo-controlled weight management phase 3 studies (SURMOUNT 1-3), a total of 27 participants experienced at least one adjudication confirmed MACE (TZP: 17 (n = 2 806); placebo: 10 (n = 1 250)); the event rate was similar across placebo and tirzepatide.
-
 <div style=\"page-break-after: always\"></div>
+
+In 3 placebo-controlled weight management phase 3 studies (SURMOUNT 1-3), a total of 27 participants experienced at least one adjudication confirmed MACE (TZP: 17 (n = 2 806); placebo: 10 (n = 1 250)); the event rate was similar across placebo and tirzepatide.
 
 ## Blood pressure
 
-In the placebo-controlled phase 3 studies in patients with T2DM, treatment with tirzepatide resulted in a mean decrease in systolic and diastolic blood pressure of 6 to 9 mmHg and 3 to 4 mmHg, respectively. There was a mean decrease in systolic and diastolic blood pressure of 2 mmHg each in placebo treated patients.
+In the placebo-controlled phase 3 studies in adult patients with T2DM, treatment with tirzepatide resulted in a mean decrease in systolic and diastolic blood pressure of 6 to 9 mmHg and 3 to 4 mmHg, respectively. There was a mean decrease in systolic and diastolic blood pressure of 2 mmHg each in placebo treated patients.
 
 In 3 placebo-controlled weight management phase 3 studies (SURMOUNT 1-3), treatment with tirzepatide resulted in a mean decrease in systolic and diastolic blood pressure of 7 mmHg and 4 mmHg, respectively. There was a mean decrease in systolic and diastolic blood pressure of &lt; 1 mmHg each in placebo treated patients.
 
 In two placebo-controlled OSA phase 3 studies with pooled safety analysis, treatment with tirzepatide resulted in a mean decrease in systolic and diastolic blood pressure of 9.0 mmHg and 3.8 mmHg, respectively, at Week 52. There was a mean decrease in systolic and diastolic blood pressure of 2.5 mmHg and 1.0 mmHg, respectively, in placebo treated patients at Week 52.
+
+In a placebo-controlled HFpEF phase 3 study, treatment with tirzepatide resulted in a mean decrease in systolic and diastolic blood pressure of 4 mmHg and 1 mmHg, respectively. Mean changes in systolic and diastolic blood pressure were &lt;1 mmHg in placebo-treated patients.
 
 ## Other information
 
@@ -1029,13 +1141,11 @@ In the 72 week placebo-controlled phase 3 study in patients with obesity or over
 
 In the 72 week placebo-controlled phase 3 study in patients with obesity or overweight with T2DM (SURMOUNT-2), treatment with tirzepatide 10 mg and 15 mg resulted in 27 % and 31 % reduction in serum triglyceride levels respectively compared to 6 % reduction with placebo.
 
-## Proportion of patients reaching HbA1c &lt; 5.7 % without clinically significant hypoglycaemia
-
-In the 4 studies where tirzepatide was not combined with basal insulin (SURPASS-1 to -4), 93.6 % to 100 % of patients who achieved a normal glycaemia of HbA1c &lt; 5.7 % (≤ 39 mmol/mol), at the primary endpoint visit with tirzepatide treatment did so without clinically significant hypoglycaemia.
-
 <div style=\"page-break-after: always\"></div>
 
-In Study SURPASS-5, 85.9 % of patients treated with tirzepatide who reached HbA1c &lt; 5.7 % (≤ 39 mmol/mol) did so without clinically significant hypoglycaemia.
+## Proportion of patients reaching HbA1c &lt; 5.7 % without clinically significant hypoglycaemia
+
+In the 4 studies where tirzepatide was not combined with basal insulin (SURPASS-1 to -4), 93.6 % to 100 % of patients who achieved a normal glycaemia of HbA1c &lt; 5.7 % (≤ 39 mmol/mol), at the primary endpoint visit with tirzepatide treatment did so without clinically significant hypoglycaemia. In Study SURPASS-5, 85.9 % of patients treated with tirzepatide who reached HbA1c &lt; 5.7 % (≤ 39 mmol/mol) did so without clinically significant hypoglycaemia.
 
 ## Special populations
 
@@ -1045,9 +1155,11 @@ The efficacy of tirzepatide for weight management was not impacted by age, gende
 
 The efficacy of tirzepatide for the treatment of moderate to severe OSA in patients with obesity was not impacted by age, sex, ethnicity, baseline BMI, or baseline OSA severity.
 
+The efficacy of tirzepatide for the treatment of HFpEF in patients with obesity was not impacted by age, gender, race, ethnicity, region, or by baseline BMI, NYHA class, NT-proBNP levels, renal function, use of SGLT2i, and presence or absence of T2DM.
+
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Mounjaro in one or more subsets of the paediatric population for the treatment of type 2 diabetes mellitus and for weight management (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with Mounjaro in one or more subsets of the paediatric population for the treatment of type 2 diabetes mellitus and for weight management (see section 4.2, 4.8 and 5.1 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -1067,6 +1179,8 @@ The mean apparent steady-state volume of distribution of tirzepatide following s
 
 Tirzepatide is highly bound to plasma albumin (99 %).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Biotransformation
 
 Tirzepatide is metabolised by proteolytic cleavage of the peptide backbone, beta-oxidation of the C20 fatty diacid moiety and amide hydrolysis.
@@ -1076,8 +1190,6 @@ Tirzepatide is metabolised by proteolytic cleavage of the peptide backbone, beta
 The apparent population mean clearance of tirzepatide is approximately 0.06 L/h with an elimination half-life of approximately 5 days, enabling once weekly administration.
 
 Tirzepatide is eliminated by metabolism. The primary excretion routes of tirzepatide metabolites are via urine and faeces. Intact tirzepatide is not observed in urine or faeces.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Special populations
 
@@ -1095,7 +1207,7 @@ Hepatic impairment does not impact the PK of tirzepatide. The PK of tirzepatide 
 
 ## Paediatric population
 
-Tirzepatide has not been studied in paediatric patients.
+The exposure in paediatric patients aged 10 to below 18 years with T2DM treated with tirzepatide 5 mg and 10 mg was comparable to that observed at recommended doses in the adult population.
 
 ## 5.3 Preclinical safety data
 
@@ -1105,7 +1217,11 @@ A 2-year carcinogenicity study was conducted with tirzepatide in male and female
 
 In a 6-month carcinogenicity study in rasH2 transgenic mice, tirzepatide at doses of 1, 3, and 10 mg/kg administered by subcutaneous injection twice weekly did not produce increased incidences of thyroid C-cell hyperplasia or neoplasia at any dose.
 
+<div style=\"page-break-after: always\"></div>
+
 Animal studies with tirzepatide did not indicate direct harmful effects with respect to fertility.
+
+In juvenile rats, tirzepatide caused delayed sexual maturation in both males and females which was secondary to pharmacological effects on body weight. Findings did not suggest any specific risk for use in the paediatric population.
 
 In animal reproduction studies, tirzepatide caused foetal growth reductions and foetal abnormalities at exposures below the MRHD based on AUC. An increased incidence of external, visceral, and skeletal malformations and visceral and skeletal developmental variations were observed in rats. Foetal growth reductions were observed in rats and rabbits. All developmental effects occurred at maternally toxic doses.
 
@@ -1113,9 +1229,7 @@ In animal reproduction studies, tirzepatide caused foetal growth reductions and 
 
 ## 6.1 List of excipients
 
-<div style=\"page-break-after: always\"></div>
-
-## Pre-filled pen, single-dose; vial, single-dose
+Pre-filled pen, single-dose; vial, single-dose
 
 Disodium hydrogen phosphate heptahydrate (E339) Sodium chloride Concentrated hydrochloric acid (for pH adjustment) Sodium hydroxide (for pH adjustment) Water for injections
 
@@ -1131,39 +1245,33 @@ In the absence of compatibility studies this medicinal product must not be mixed
 
 Pre-filled pen, single-dose; vial, single-dose
 
-Before use
-
-2 years
+Before use 2 years
 
 Mounjaro may be stored unrefrigerated for up to 21 cumulative days at a temperature below 30 ºC and then the pre-filled pen or vial must be discarded.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pre-filled pen (KwikPen), multi-dose
 
-Before use
+Before use 2 years
 
-2 years
-
-After first use
+## After first use
 
 30 days. Store unrefrigerated at room temperature below 30 ºC. The pre-filled KwikPen must be discarded 30 days after first use.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ºC - 8 ºC).
+Store in a refrigerator (2 ºC - 8 ºC). Do not freeze.
 
-Do not freeze.
-
-Pre-filled pen, single-dose; vial, single-dose
+## Pre-filled pen, single-dose; vial, single-dose
 
 Store in original package in order to protect from light.
 
-Pre-filled pen (KwikPen), multi-dose
+## Pre-filled pen (KwikPen), multi-dose
 
 For storage conditions after first use of the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pre-filled pen, single-dose
 
@@ -1177,7 +1285,7 @@ Pack sizes of 2 pre-filled pens, 4 pre-filled pens and multipack containing 12 (
 
 ## Vial, single-dose
 
-## Clear glass vial with a sealed stopper.
+Clear glass vial with a sealed stopper.
 
 Each vial contains 0.5 ml of solution.
 
@@ -1190,6 +1298,8 @@ Clear glass cartridge encased in a multi-dose pre-filled pen.
 Each pre-filled KwikPen contains 2.4 ml of solution for injection (4 doses of 0.6 ml). Each pen has excess volume for priming. However, attempting to inject any leftover medicinal product will result in an incomplete dose even though the pen still has medicinal product left in it. Needles are not included.
 
 Pack sizes of 1 and 3 pre-filled KwikPens. Not all pack sizes may be marketed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -1215,25 +1325,27 @@ The pre-filled KwikPen is for multiple doses. Each KwikPen contains 4 doses. Dis
 
 The instructions for using the KwikPen, included with the package leaflet, must be followed carefully.
 
+A small amount of Mounjaro solution for injection may remain in the KwikPen after all 4 doses have been correctly given. Patients should be instructed not to try to use the remaining Mounjaro solution for injection, but to properly discard the KwikPen.
+
 ## Disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
-## Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
-
-8. MARKETING AUTHORISATION NUMBER
-
-## EU/1/22/1685/001 EU/1/22/1685/002 EU/1/22/1685/003 EU/1/22/1685/004 EU/1/22/1685/005 EU/1/22/1685/006 EU/1/22/1685/007 EU/1/22/1685/008 EU/1/22/1685/009 EU/1/22/1685/010 EU/1/22/1685/011 EU/1/22/1685/012 EU/1/22/1685/013 EU/1/22/1685/014 EU/1/22/1685/015 EU/1/22/1685/016 EU/1/22/1685/017 EU/1/22/1685/018 EU/1/22/1685/019 EU/1/22/1685/020 EU/1/22/1685/021 EU/1/22/1685/022 EU/1/22/1685/023 EU/1/22/1685/024 EU/1/22/1685/025 EU/1/22/1685/026 EU/1/22/1685/027 EU/1/22/1685/028 EU/1/22/1685/029 EU/1/22/1685/030 EU/1/22/1685/031 EU/1/22/1685/032 EU/1/22/1685/033 EU/1/22/1685/034 EU/1/22/1685/035 EU/1/22/1685/036 EU/1/22/1685/037 EU/1/22/1685/038 EU/1/22/1685/039 EU/1/22/1685/040 EU/1/22/1685/041 EU/1/22/1685/042 EU/1/22/1685/043 EU/1/22/1685/044 EU/1/22/1685/045 EU/1/22/1685/046 EU/1/22/1685/047 EU/1/22/1685/048 EU/1/22/1685/049
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 <div style=\"page-break-after: always\"></div>
 
-```
-EU/1/22/1685/050 EU/1/22/1685/051 EU/1/22/1685/052 EU/1/22/1685/053 EU/1/22/1685/054 EU/1/22/1685/055 EU/1/22/1685/056 EU/1/22/1685/057 EU/1/22/1685/058 EU/1/22/1685/059 EU/1/22/1685/060
-```
+## 8. MARKETING AUTHORISATION NUMBER
+
+EU/1/22/1685/001 EU/1/22/1685/002 EU/1/22/1685/003 EU/1/22/1685/004 EU/1/22/1685/005 EU/1/22/1685/006 EU/1/22/1685/007 EU/1/22/1685/008 EU/1/22/1685/009 EU/1/22/1685/010 EU/1/22/1685/011 EU/1/22/1685/012 EU/1/22/1685/013 EU/1/22/1685/014 EU/1/22/1685/015 EU/1/22/1685/016 EU/1/22/1685/017 EU/1/22/1685/018 EU/1/22/1685/019 EU/1/22/1685/020 EU/1/22/1685/021 EU/1/22/1685/022 EU/1/22/1685/023 EU/1/22/1685/024 EU/1/22/1685/025 EU/1/22/1685/026 EU/1/22/1685/027 EU/1/22/1685/028 EU/1/22/1685/029 EU/1/22/1685/030 EU/1/22/1685/031 EU/1/22/1685/032 EU/1/22/1685/033 EU/1/22/1685/034 EU/1/22/1685/035 EU/1/22/1685/036 EU/1/22/1685/037 EU/1/22/1685/038 EU/1/22/1685/039 EU/1/22/1685/040 EU/1/22/1685/041 EU/1/22/1685/042 EU/1/22/1685/043 EU/1/22/1685/044 EU/1/22/1685/045 EU/1/22/1685/046 EU/1/22/1685/047 EU/1/22/1685/048 EU/1/22/1685/049 EU/1/22/1685/050 EU/1/22/1685/051 EU/1/22/1685/052 EU/1/22/1685/053 EU/1/22/1685/054 EU/1/22/1685/055
+
+<div style=\"page-break-after: always\"></div>
+
+EU/1/22/1685/056 EU/1/22/1685/057 EU/1/22/1685/058 EU/1/22/1685/059
+
+EU/1/22/1685/060
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1241,7 +1353,7 @@ Date of first authorisation: 15 September 2022
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1295,8 +1407,6 @@ The marketing authorisation holder (MAH) shall submit the first PSUR for this pr
 <div style=\"page-break-after: always\"></div>
 
 6 months following authorisation.
-
-<div style=\"page-break-after: always\"></div>
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -1615,14 +1725,9 @@ MOUNJARO 2.5 mg
 
 PRE-FILLED PEN SINGLE-DOSE LABEL
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
-
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Mounjaro 2.5 mg solution for injection
-
-tirzepatide
+Mounjaro 2.5 mg solution for injection tirzepatide
 
 Subcutaneous use
 
@@ -1642,7 +1747,8 @@ Lot
 
 0.5 ml
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1938,22 +2044,21 @@ MOUNJARO 5 mg
 
 PRE-FILLED PEN SINGLE-DOSE LABEL
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Mounjaro 5 mg solution for injection tirzepatide Subcutaneous use
+Mounjaro 5 mg solution for injection tirzepatide
+
+Subcutaneous use
 
 ## 2. METHOD OF ADMINISTRATION
 
 Once weekly
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -2073,6 +2178,8 @@ MOUNJARO 7.5 mg
 |-------|----------------------------------------|
 
 PC SN NN
+
+69
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2227,7 +2334,7 @@ Do not freeze.
 
 Store in the original package in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2252,17 +2359,18 @@ MOUNJARO 7.5 mg
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE   |
+|--------------------------------------------------|
+| PRE-FILLED PEN SINGLE-DOSE LABEL                 |
 
-PRE-FILLED PEN SINGLE-DOSE LABEL
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Mounjaro 7.5 mg solution for injection
 
-tirzepatide
-
-Subcutaneous use
+tirzepatide Subcutaneous use
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -2572,17 +2680,16 @@ MOUNJARO 10 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED PEN SINGLE-DOSE LABEL                                 |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+PRE-FILLED PEN SINGLE-DOSE LABEL
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
 
 Mounjaro 10 mg solution for injection tirzepatide Subcutaneous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 Once weekly
 
@@ -2596,8 +2703,7 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 0.5 ml
 
@@ -3214,18 +3320,15 @@ MOUNJARO 15 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
-|------------------------------------------------------------|
-| PRE-FILLED PEN SINGLE-DOSE LABEL                           |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+PRE-FILLED PEN SINGLE-DOSE LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Mounjaro 15 mg solution for injection
+Mounjaro 15 mg solution for injection tirzepatide
 
-tirzepatide Subcutaneous use
+Subcutaneous use
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -3243,7 +3346,8 @@ Lot
 
 0.5 ml
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3409,7 +3513,11 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Orteliuslaan 1000, 3528 BD Utrecht The Netherlands
+Eli Lilly Nederland B.V.
+
+Orteliuslaan 1000, 3528 BD Utrecht
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -4174,7 +4282,7 @@ Lot
 
 0.5 ml
 
-## 6. OTHER
+6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4762,9 +4870,7 @@ EU/1/22/1685/043 EU/1/22/1685/044
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
@@ -4781,7 +4887,9 @@ Justification for not including Braille accepted.
 
 Mounjaro 12.5 mg injection
 
-tirzepatide Subcutaneous use
+tirzepatide
+
+Subcutaneous use
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -4797,7 +4905,7 @@ Lot
 
 0.5 ml
 
-6. OTHER
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5087,7 +5195,9 @@ Justification for not including Braille accepted.
 
 Mounjaro 15 mg injection
 
-tirzepatide Subcutaneous use
+tirzepatide
+
+Subcutaneous use
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -5103,7 +5213,7 @@ Lot
 
 0.5 ml
 
-## 6. OTHER
+6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5401,7 +5511,7 @@ Lot
 
 2.4 ml
 
-4 doses
+- 4 doses
 
 ## 6. OTHER
 
@@ -5671,15 +5781,15 @@ Mounjaro 10 mg/dose KwikPen
 
 PC SN NN
 
+<div style=\"page-break-after: always\"></div>
+
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
 ## PRE-FILLED PEN (KWIKPEN) MULTI-DOSE LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTES OF ADMINISTRATION
 
-Mounjaro 10 mg/dose KwikPen solution for injection
-
-tirzepatide
+Mounjaro 10 mg/dose KwikPen solution for injection tirzepatide
 
 Subcutaneous use
 
@@ -5702,8 +5812,6 @@ Lot
 4 doses
 
 ## 6. OTHER
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5849,9 +5957,9 @@ Lot
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-2.4 ml
+- 2.4 ml
 
-4 doses
+- 4 doses
 
 ## 6. OTHER
 
@@ -6035,7 +6143,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## 1. What Mounjaro is and what it is used for
 
-Mounjaro contains an active substance called tirzepatide and is used to treat adults with type 2 diabetes mellitus. Mounjaro reduces the level of sugar in the body only when the levels of sugar are high.
+Mounjaro contains an active substance called tirzepatide and is used to treat adults, adolescents and children aged 10 years and above with type 2 diabetes mellitus. Mounjaro reduces the level of sugar in the body only when the levels of sugar are high.
 
 Mounjaro is also used to treat adults with obesity or overweight (with BMI of at least 27 kg/m 2 ). Mounjaro influences appetite regulation, which may help you eat less food and reduce your body weight.
 
@@ -6047,7 +6155,7 @@ In type 2 diabetes, Mounjaro is used:
 Mounjaro is also used together with diet and exercise for weight loss and to help keep the weight under control in adults, who have:
 
 - -a BMI of 30 kg/m² or greater (obesity) or
-- -a BMI of at least 27 kg/m² but less than 30 kg/m² (overweight) and weight-related health problems (such as prediabetes, type 2 diabetes, high blood pressure, abnormal levels of fats in the blood, breathing problems during sleep called 'obstructive sleep apnoea' or a history of heart attack, stroke or blood vessel problems)
+- -a BMI of at least 27 kg/m² but less than 30 kg/m² (overweight) and weight-related health problems (such as prediabetes, type 2 diabetes, high blood pressure, abnormal levels of fats in the blood, breathing problems during sleep called 'obstructive sleep apnoea', impaired heart function or a history of heart attack, stroke or blood vessel problems)
 
 BMI (Body Mass Index) is a measure of your weight in relation to your height.
 
@@ -6078,7 +6186,9 @@ If you know that you are due to have surgery where you will be under anaesthesia
 
 ## Children and adolescents
 
-This medicine should not be given to children and adolescents under 18 years of age because it has not been studied in this age group.
+This medicine can be used in children aged 10 years and older for the treatment of type 2 diabetes. It has only been studied in children with type 2 diabetes who have overweight or obesity when starting treatment.
+
+This medicine should not be given to children under 10 years of age treated for type 2 diabetes and to children and adolescents under 18 years of age for weight management because it has not been studied in these age groups.
 
 ## Other medicines and Mounjaro
 
@@ -6090,15 +6200,13 @@ If you are pregnant, think you may be pregnant or are planning to have a baby, a
 
 ## Breast-feeding
 
-It is unknown whether tirzepatide passes into breast milk. A risk to newborns/infants cannot be ruled out. If you are breast-feeding or are planning to breast-feed, talk to your doctor before using this medicine. You and your doctor should decide if you should stop breast-feeding or delay using Mounjaro.
-
-## Driving and using machines
-
-It is unlikely that this medicine will affect your ability to drive and use machines. However, if you use Mounjaro in combination with a sulphonylurea or insulin, low blood sugar (hypoglycaemia) may occur which may reduce your ability to concentrate. Avoid driving or using machines if you get any
+Tirzepatide passes into breast milk in very low amounts and is not expected to be absorbed by a breastfed newborn/infant. If you are breast-feeding or are planning to breast-feed, talk to your doctor before using or continuing to use this medicine.
 
 <div style=\"page-break-after: always\"></div>
 
-signs of low blood sugar, e.g. headache, drowsiness, weakness, dizziness, feeling hungry, confusion, irritability, fast heartbeat and sweating (see section 4). See section 2, 'Warnings and precautions' for information on increased risk of low blood sugar. Talk to your doctor for further information.
+## Driving and using machines
+
+It is unlikely that this medicine will affect your ability to drive and use machines. However, if you use Mounjaro in combination with a sulphonylurea or insulin, low blood sugar (hypoglycaemia) may occur which may reduce your ability to concentrate. Avoid driving or using machines if you get any signs of low blood sugar, e.g. headache, drowsiness, weakness, dizziness, feeling hungry, confusion, irritability, fast heartbeat and sweating (see section 4). See section 2, 'Warnings and precautions' for information on increased risk of low blood sugar. Talk to your doctor for further information.
 
 ## Mounjaro contains sodium
 
@@ -6110,8 +6218,15 @@ Always use this medicine exactly as your doctor or pharmacist has told you. Chec
 
 ## How much to use
 
+## Adults
+
 - The starting dose is 2.5 mg once a week for four weeks. After four weeks your doctor will increase your dose to 5 mg once a week.
 - Your doctor may increase your dose by 2.5 mg increments to 7.5 mg, 10 mg, 12.5 mg or 15 mg once a week if you need it. In each case your doctor will tell you to stay on a particular dose for at least 4 weeks before going to a higher dose.
+
+## Adolescents and children aged 10 to less than 18 years treated for type 2 diabetes
+
+- The starting dose is 2.5 mg once a week for four weeks. After four weeks your doctor will increase your dose to 5 mg once a week.
+- Your doctor may increase your dose by 2.5 mg increments to 7.5 mg, and 10 mg once a week if you need it. In each case your doctor will tell you to stay on a particular dose for at least 4 weeks before going to a higher dose.
 
 Do not change your dose unless your doctor has told you to.
 
@@ -6125,11 +6240,13 @@ If necessary, you can change the day of your weekly Mounjaro injection, as long 
 
 ## How to inject Mounjaro
 
-Mounjaro is injected under the skin (subcutaneous injection) of your stomach area (abdomen) at least 5 cm from the belly button or upper leg (thigh) or upper arm. You may need help from someone else if you want to inject in your upper arm.
+Mounjaro is injected under the skin (subcutaneous injection) of your stomach area (abdomen) at least 5 cm from the belly button or upper leg (thigh) or the back of your upper arm. Someone else should help if you want to inject in the back of your upper arm.
 
 If you want to do so, you can use the same area of your body each week. But be sure to choose a different injection site within that area. If you also inject insulin choose a different injection site for that injection.
 
-Read the 'Instructions for Use' for the pen carefully before using Mounjaro.
+<div style=\"page-break-after: always\"></div>
+
+Read the 'Instructions for Use' for the pen carefully before using Mounjaro. If you are below 18 years of age, a caregiver may give you your Mounjaro injection or you may self-inject if your doctor determines that it is appropriate.
 
 ## Testing blood glucose levels
 
@@ -6142,8 +6259,6 @@ If you use more Mounjaro than you should talk to your doctor immediately. Too mu
 ## If you forget to use Mounjaro
 
 If you forget to inject a dose and,
-
-<div style=\"page-break-after: always\"></div>
 
 - it has been 4 days or less since you should have used Mounjaro, use it as soon as you remember. Then inject your next dose as usual on your scheduled day.
 - If it has been more than 4 days since you should have used Mounjaro, skip the missed dose. Then inject your next dose as usual on your scheduled day.
@@ -6162,7 +6277,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Serious side effects
 
-Uncommon (may affect up to 1 in 100 people)
+## Uncommon (may affect up to 1 in 100 people)
 
 - -Inflamed pancreas (acute pancreatitis) which could cause severe pain in the stomach and back which does not go away. You should see a doctor immediately if you experience such symptoms.
 
@@ -6176,9 +6291,11 @@ Very common ( may affect more than 1 in 10 people)
 
 - -Feeling sick (nausea)
 - -Diarrhoea
-- -Stomach (abdominal) pain reported in patients treated for weight management
-- -Being sick (vomiting) reported in patients treated for weight management
+- -Stomach (abdominal) pain reported in patients treated for weight management and in adolescents and children treated for type 2 diabetes
+- -Being sick (vomiting) reported in patients treated for weight management and in adolescents and children treated for type 2 diabetes
 - -Constipation reported in patients treated for weight management
+
+<div style=\"page-break-after: always\"></div>
 
 These side effects are usually not severe. Nausea, diarrhoea, and vomiting are most common when first starting tirzepatide but decrease over time in most patients.
 
@@ -6187,15 +6304,13 @@ These side effects are usually not severe. Nausea, diarrhoea, and vomiting are m
 ## Common ( may affect up to 1 in 10 people)
 
 - -Low blood sugar (hypoglycaemia) when tirzepatide is used for type 2 diabetes with both metformin and a sodium-glucose co-transporter 2 inhibitor (another diabetes medicine)
+- -Low blood sugar (hypoglycaemia) when tirzepatide is used with metformin alone in adolescents and children for type 2 diabetes
 - -Allergic reaction (hypersensitivity) (e.g., rash, itching, and eczema)
 - -Dizziness reported in patients treated for weight management
 - -Low blood pressure reported in patients treated for weight management
 - -Feeling less hungry (decreased appetite) reported in patients treated for type 2 diabetes
-
-<div style=\"page-break-after: always\"></div>
-
-- -Stomach (abdominal) pain reported in patients treated for type 2 diabetes
-- -Being sick (vomiting) reported in patients treated for type 2 diabetes - this usually decreases over time
+- -Stomach (abdominal) pain reported in adult patients treated for type 2 diabetes
+- -Being sick (vomiting) reported in adult patients treated for type 2 diabetes - this usually decreases over time
 - -Indigestion (dyspepsia)
 - -Constipation reported in patients treated for type 2 diabetes
 - -Bloating of the stomach
@@ -6209,14 +6324,14 @@ These side effects are usually not severe. Nausea, diarrhoea, and vomiting are m
 - -Increased levels of pancreatic enzymes (such as lipase and amylase) in blood
 - -Increased calcitonin levels in blood in patients treated for weight management.
 
-Uncommon ( may affect up to 1 in 100 people)
+## Uncommon ( may affect up to 1 in 100 people)
 
-- -Low blood sugar (hypoglycaemia) when tirzepatide is used with metformin for type 2 diabetes.
+- -Low blood sugar (hypoglycaemia) when tirzepatide is used with metformin in adults for type 2 diabetes.
 - -Gallstones
 - -Inflammation of the gallbladder
 - -Weight loss reported in patients treated for type 2 diabetes
 - -Injection site pain
-- -Increased calcitonin levels in blood in patients treated for type 2 diabetes or for OSA with obesity
+- -Increased calcitonin levels in blood in adult patients treated for type 2 diabetes or for OSA with obesity
 - -Changed sense of taste
 - -Change in skin sensation
 - -A delay in the emptying of the stomach
@@ -6224,6 +6339,8 @@ Uncommon ( may affect up to 1 in 100 people)
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, nurse or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Mounjaro
 
@@ -6240,8 +6357,6 @@ Mounjaro can be stored unrefrigerated below 30 ºC for up to 21 cumulative days 
 Do not use this medicine if you notice that the pen is damaged, or the medicine is cloudy, discoloured or has particles in it.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
@@ -6260,9 +6375,7 @@ The other ingredients are disodium hydrogen phosphate heptahydrate (E339), sodiu
 
 ## What Mounjaro looks like and contents of the pack
 
-Mounjaro is a clear, colourless to slightly yellow, solution for injection in a pre-filled pen.
-
-The pre-filled pen has a hidden needle which will automatically insert into the skin when the injection button is pressed. The pre-filled pen will retract the needle when the injection is completed. Each pre-filled pen contains 0.5 ml solution.
+Mounjaro is a clear, colourless to slightly yellow, solution for injection in a pre-filled pen. The pre-filled pen has a hidden needle which will automatically insert into the skin when the injection button is pressed. The pre-filled pen will retract the needle when the injection is completed. Each pre-filled pen contains 0.5 ml solution.
 
 The pre-filled pen is for single use only.
 
@@ -6276,101 +6389,55 @@ Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 Eli Lilly Italia S.p.A.,Via Gramsci 731/733, 50019, Sesto Fiorentino, Firenze (FI), Italy Lilly France, 2, rue du Colonel Lilly, 67640 Fegersheim, France
 
+<div style=\"page-break-after: always\"></div>
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## Belgique/België/Belgien
 
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
-
-## Lietuva
-
-Eli Lilly Lietuva
-
-Tel. +370 (5) 2649600
+Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
 ## България
 
-ТП \" Ели Лили Недерланд \" Б . В . - България тел. + 359 2 491 41 40
+ТП \" Ели Лили Недерланд \" Б . В . - България
 
-## Luxembourg/Luxemburg
-
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
+тел. + 359 2 491 41 40
 
 ## Česká republika
 
-ELI LILLY ČR, s.r.o.
-
-Tel: + 420 234 664 111
-
-## Magyarország
-
-Lilly Hungária Kft.
-
-Tel: + 36 1 328 5100
+ELI LILLY ČR, s.r.o. Tel: + 420 234 664 111
 
 ## Danmark
 
-Eli Lilly Danmark A/S
-
-Tlf.: +45 45 26 60 00
-
-## Malta
-
-Charles de Giorgio Ltd.
-
-Tel: + 356 25600 500
+Eli Lilly Danmark A/S Tlf.: +45 45 26 60 00
 
 ## Deutschland
 
-Lilly Deutschland GmbH
-
-## Nederland
-
-Eli Lilly Nederland B.V.
-
-Tel. + 49-(0) 6172 273 2222
-
-<div style=\"page-break-after: always\"></div>
+Lilly Deutschland GmbH Tel. + 49-(0) 6172 273 2222
 
 ## Eesti
 
-Eli Lilly Nederland B.V.
-
-Tel: +372 6 817 280
+Eli Lilly Nederland B.V. Tel: +372 6 817 280
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
-
-Τηλ: +30 210 629 4600
+ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε. Τηλ: +30 210 629 4600
 
 ## España
 
-Lilly S.A.
-
-Tel: + 34-91 663 50 00
+Lilly S.A. Tel: + 34-91 663 50 00
 
 ## France
 
-Lilly France
-
-Tél: +33-(0) 1 55 49 34 34
+Lilly France Tél: +33-(0) 1 55 49 34 34
 
 ## Hrvatska
 
-Eli Lilly Hrvatska d.o.o.
-
-Tel: +385 1 2350 999
+Eli Lilly Hrvatska d.o.o. Tel: +385 1 2350 999
 
 ## Ireland
 
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377
+Eli Lilly and Company (Ireland) Limited Tel: + 353-(0) 1 661 4377
 
 ## Ísland
 
@@ -6380,15 +6447,69 @@ Sími + 354 540 8000
 
 ## Italia
 
-Eli Lilly Italia S.p.A.
+Eli Lilly Italia S.p.A. Tel: + 39- 055 42571
 
-Tel: + 39- 055 42571
+## Lietuva
+
+Eli Lilly Lietuva Tel. +370 (5) 2649600
+
+## Luxembourg/Luxemburg
+
+Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
+
+## Magyarország
+
+Lilly Hungária Kft. Tel: + 36 1 328 5100
+
+## Malta
+
+Charles de Giorgio Ltd. Tel: + 356 25600 500
+
+## Nederland
+
+Eli Lilly Nederland B.V.
+
+Tel: + 31-(0) 30 60 25 800
+
+## Norge
+
+Eli Lilly Norge A.S. Tlf: + 47 22 88 18 00
+
+## Österreich
+
+Eli Lilly Ges.m.b.H. Tel: + 43-(0) 1 20609 1270
+
+## Polska
+
+Eli Lilly Polska Sp. z o.o. Tel: +48 22 440 33 00
+
+## Portugal
+
+Lilly Portugal Produtos Farmacêuticos, Lda Tel: + 351-21-4126600
+
+## România
+
+Eli Lilly România S.R.L. Tel: + 40 21 4023000
+
+## Slovenija
+
+Eli Lilly farmacevtska družba, d.o.o. Tel: +386 (0)1 580 00 10
+
+## Slovenská republika
+
+Eli Lilly Slovakia s.r.o. Tel: + 421 220 663 111
+
+## Suomi/Finland
+
+Oy Eli Lilly Finland Ab Puh/Tel: + 358-(0) 9 85 45 250
 
 ## Κύπρος
 
 Phadisco Ltd
 
 Τηλ: +357 22 715000
+
+<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -6402,63 +6523,9 @@ Tel:
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-Tel: + 31-(0) 30 60 25 800
-
-## Norge
-
-Eli Lilly Norge A.S.
-
-Tlf: + 47 22 88 18 00
-
-## Österreich
-
-Eli Lilly Ges.m.b.H.
-
-Tel: + 43-(0) 1 20609 1270
-
-## Polska
-
-Eli Lilly Polska Sp. z o.o.
-
-Tel: +48 22 440 33 00
-
-## Portugal
-
-Lilly Portugal Produtos Farmacêuticos, Lda
-
-Tel: + 351-21-4126600
-
-## România
-
-Eli Lilly România S.R.L.
-
-Tel: + 40 21 4023000
-
-## Slovenija
-
-Eli Lilly farmacevtska družba, d.o.o.
-
-Tel: +386 (0)1 580 00 10
-
-## Slovenská republika
-
-Eli Lilly Slovakia s.r.o.
-
-Tel: + 421 220 663 111
-
-## Suomi/Finland
-
-Oy Eli Lilly Finland Ab
-
-Puh/Tel: + 358-(0) 9 85 45 250
-
-## Sverige
-
-Eli Lilly Sweden AB
-
-Tel: + 46-(0) 8 7378800
+Sverige Eli Lilly Sweden AB Tel: + 46-(0) 8 7378800
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6502,7 +6569,8 @@ Inspect the pen to make sure that it is not damaged.
 Make sure the medicine is:
 
 -  not frozen ·  colourless to slightly yellow
--  not cloudy ·  does not have particles
+-  not cloudy
+-  does not have particles
 
 Wash your hands.
 
@@ -6652,7 +6720,7 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. What Mounjaro is and what it is used for
 
-Mounjaro contains an active substance called tirzepatide and is used to treat adults with type 2 diabetes mellitus. Mounjaro reduces the level of sugar in the body only when the levels of sugar are high.
+Mounjaro contains an active substance called tirzepatide and is used to treat adults, adolescents and children aged 10 years and above with type 2 diabetes mellitus. Mounjaro reduces the level of sugar in the body only when the levels of sugar are high.
 
 Mounjaro is also used to treat adults with obesity or overweight (with BMI of at least 27 kg/m2). Mounjaro influences appetite regulation, which may help you eat less food and reduce your body weight.
 
@@ -6664,7 +6732,7 @@ In type 2 diabetes, Mounjaro is used:
 Mounjaro is also used together with diet and exercise for weight loss and to help keep the weight under control in adults, who have:
 
 - -a BMI of 30 kg/m² or greater (obesity) or
-- -a BMI of at least 27 kg/m² but less than 30 kg/m² (overweight) and weight-related health problems (such as prediabetes, type 2 diabetes, high blood pressure, abnormal levels of fats in the blood, breathing problems during sleep called 'obstructive sleep apnoea' or a history of heart attack, stroke or blood vessel problems)
+- -a BMI of at least 27 kg/m² but less than 30 kg/m² (overweight) and weight-related health problems (such as prediabetes, type 2 diabetes, high blood pressure, abnormal levels of fats in the blood, breathing problems during sleep called 'obstructive sleep apnoea', impaired heart function or a history of heart attack, stroke or blood vessel problems)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6695,7 +6763,9 @@ If you know that you are due to have surgery where you will be under anaesthesia
 
 ## Children and adolescents
 
-This medicine should not be given to children and adolescents under 18 years of age because it has not been studied in this age group.
+This medicine can be used in children aged 10 years and older for the treatment of type 2 diabetes. It has only been studied in children with type 2 diabetes who have overweight or obesity when starting treatment.
+
+This medicine should not be given to children under 10 years of age treated for type 2 diabetes and to children and adolescents under 18 years of age for weight management because it has not been studied in these age groups.
 
 ## Other medicines and Mounjaro
 
@@ -6707,15 +6777,13 @@ If you are pregnant, think you may be pregnant or are planning to have a baby, a
 
 ## Breast-feeding
 
-It is unknown whether tirzepatide passes into breast milk. A risk to newborns/infants cannot be ruled out. If you are breast-feeding or are planning to breast-feed, talk to your doctor before using this medicine. You and your doctor should decide if you should stop breast-feeding or delay using Mounjaro.
-
-## Driving and using machines
-
-It is unlikely that this medicine will affect your ability to drive and use machines. However, if you use Mounjaro in combination with a sulphonylurea or insulin, low blood sugar (hypoglycaemia) may
+Tirzepatide passes into breast milk in very low amounts and is not expected to be absorbed by a breastfed newborn/infant. If you are breast-feeding or are planning to breast-feed, talk to your doctor before using or continuing to use this medicine.
 
 <div style=\"page-break-after: always\"></div>
 
-occur which may reduce your ability to concentrate. Avoid driving or using machines if you get any signs of low blood sugar, e.g. headache, drowsiness, weakness, dizziness, feeling hungry, confusion, irritability, fast heartbeat and sweating (see section 4). See section 2, 'Warnings and precautions' for information on increased risk of low blood sugar. Talk to your doctor for further information.
+## Driving and using machines
+
+It is unlikely that this medicine will affect your ability to drive and use machines. However, if you use Mounjaro in combination with a sulphonylurea or insulin, low blood sugar (hypoglycaemia) may occur which may reduce your ability to concentrate. Avoid driving or using machines if you get any signs of low blood sugar, e.g. headache, drowsiness, weakness, dizziness, feeling hungry, confusion, irritability, fast heartbeat and sweating (see section 4). See section 2, 'Warnings and precautions' for information on increased risk of low blood sugar. Talk to your doctor for further information.
 
 ## Mounjaro contains sodium
 
@@ -6727,8 +6795,15 @@ Always use this medicine exactly as your doctor or pharmacist has told you. Chec
 
 ## How much to use
 
+## Adults
+
 - The starting dose is 2.5 mg once a week for four weeks. After four weeks your doctor will increase your dose to 5 mg once a week.
 - Your doctor may increase your dose by 2.5 mg increments to 7.5 mg, 10 mg, 12.5 mg or 15 mg once a week if you need it. In each case your doctor will tell you to stay on a particular dose for at least 4 weeks before going to a higher dose.
+
+## Adolescents and children aged 10 to less than 18 years treated for type 2 diabetes
+
+- The starting dose is 2.5 mg once a week for four weeks. After four weeks your doctor will increase your dose to 5 mg once a week.
+- Your doctor may increase your dose by 2.5 mg increments to 7.5 mg, and 10 mg once a week if you need it. In each case your doctor will tell you to stay on a particular dose for at least 4 weeks before going to a higher dose.
 
 Do not change your dose unless your doctor has told you to.
 
@@ -6742,9 +6817,11 @@ If necessary, you can change the day of your weekly Mounjaro injection, as long 
 
 ## How to inject Mounjaro
 
-Always use Mounjaro exactly as your doctor has told you. Before you begin using Mounjaro, always read the 'Instructions for Use' below carefully, and talk to your doctor, nurse or pharmacist if you are not sure about how to inject Mounjaro correctly.
+Always use Mounjaro exactly as your doctor has told you. Before you begin using Mounjaro, always read the 'Instructions for Use' below carefully, and talk to your doctor, nurse or pharmacist if you are not sure about how to inject Mounjaro correctly. If you are below 18 years of age, a caregiver may give you your Mounjaro injection or you may self-inject if your doctor determines that it is appropriate.
 
-Mounjaro is injected under the skin (subcutaneous injection) of your stomach area (abdomen) or upper leg (thigh) or upper arm. You may need help from someone else if you want to inject in your upper arm. Do not inject Mounjaro directly into a vein, as this will change its action.
+<div style=\"page-break-after: always\"></div>
+
+Mounjaro is injected under the skin (subcutaneous injection) of your stomach area (abdomen) or upper leg (thigh) or the back of your upper arm. Someone else should help if you want to inject in the back of your upper arm. Do not inject Mounjaro directly into a vein, as this will change its action.
 
 If you want to do so, you can use the same area of your body each week. But be sure to choose a different injection site within that area. If you also inject insulin choose a different injection site for that injection. If you are blind or visually impaired, you will need help from someone to make your injection.
 
@@ -6754,9 +6831,6 @@ If you want to do so, you can use the same area of your body each week. But be s
 2. Check that the Mounjaro in the vial looks clear and colourless to slightly yellow. Do not use if it is frozen, cloudy, or has particles in it.
 3. Pull off the vial plastic protective cap, but do not remove the stopper. Clean the stopper on the vial with a swab and prepare a new syringe. Do not share or reuse your needle or syringe.
 4. Draw a small amount of air into the syringe. Put the needle through the rubber stopper on top of the Mounjaro vial and inject the air into the vial.
-
-<div style=\"page-break-after: always\"></div>
-
 5. Turn the Mounjaro vial and the syringe upside down and slowly pull the syringe plunger down to withdraw all the Mounjaro solution from the vial.  The vial is filled to enable delivery of a single 0.5 ml dose of Mounjaro.
 6. If there are air bubbles in the syringe, tap the syringe gently a few times to let any air bubbles rise to the top. Slowly push the plunger up until there is no more air in the syringe.
 7. Pull the syringe out of the vial stopper.
@@ -6789,13 +6863,15 @@ Do not stop using Mounjaro without talking with your doctor. If you stop using M
 
 If you have any further questions on the use of this medicine, ask your doctor, nurse or pharmacist.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
 ## Serious side effects
 
-## Uncommon (may affect up to 1 in 100 people)
+Uncommon (may affect up to 1 in 100 people)
 
 - -Inflamed pancreas (acute pancreatitis) which could cause severe pain in the stomach and back which does not go away. You should see a doctor immediately if you experience such symptoms.
 
@@ -6803,16 +6879,14 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 - -Severe allergic reactions (e.g. anaphylactic reaction, angioedema). You should get immediate medical help and inform your doctor if you experience symptoms such as breathing problems, rapid swelling of the lips, tongue and/or throat with difficulty swallowing and a fast heartbeat.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Other side effects
 
 Very common ( may affect more than 1 in 10 people)
 
 - -Feeling sick (nausea)
 - -Diarrhoea
-- -Stomach (abdominal) pain reported in patients treated for weight management
-- -Being sick (vomiting) reported in patients treated for weight management
+- -Stomach (abdominal) pain reported in patients treated for weight management and in adolescents and children treated for type 2 diabetes
+- -Being sick (vomiting) reported in patients treated for weight management and in adolescents and children treated for type 2 diabetes
 - -Constipation reported in patients treated for weight management
 
 These side effects are usually not severe. Nausea, diarrhoea, and vomiting are most common when first starting tirzepatide but decrease over time in most patients.
@@ -6822,18 +6896,22 @@ These side effects are usually not severe. Nausea, diarrhoea, and vomiting are m
 ## Common ( may affect up to 1 in 10 people)
 
 - -Low blood sugar (hypoglycaemia) when tirzepatide is used for type 2 diabetes with both metformin and a sodium-glucose co-transporter 2 inhibitor (another diabetes medicine)
+- -Low blood sugar (hypoglycaemia) when tirzepatide is used with metformin alone in adolescents and children for type 2 diabetes
 - -Allergic reaction (hypersensitivity) (e.g., rash, itching, and eczema)
 - -Dizziness reported in patients treated for weight management
 - -Low blood pressure reported in patients treated for weight management
 - -Feeling less hungry (decreased appetite) reported in patients treated for type 2 diabetes
-- -Stomach (abdominal) pain reported in patients treated for type 2 diabetes
-- -Being sick (vomiting) reported in patients treated for type 2 diabetes - this usually decreases over time
+- -Stomach (abdominal) pain reported in adult patients treated for type 2 diabetes
+- -Being sick (vomiting) reported in adult patients treated for type 2 diabetes - this usually decreases over time
 - -Indigestion (dyspepsia)
 - -Constipation reported in patients treated for type 2 diabetes
 - -Bloating of the stomach
 - -Burping (eructation)
 - -Gas (flatulence)
 - -Reflux or heartburn (also called gastroesophageal reflux disease - GERD) - a disease caused by stomach acid coming up into the tube from your stomach to your mouth
+
+<div style=\"page-break-after: always\"></div>
+
 - -Hair loss reported in patients treated for weight management
 - -Feeling tired (fatigue)
 - -Injection site reactions (e.g. itching or redness)
@@ -6843,17 +6921,15 @@ These side effects are usually not severe. Nausea, diarrhoea, and vomiting are m
 
 ## Uncommon ( may affect up to 1 in 100 people)
 
-- -Low blood sugar (hypoglycaemia) when tirzepatide is used with metformin for type 2 diabetes.
+- -Low blood sugar (hypoglycaemia) when tirzepatide is used with metformin in adults for type 2 diabetes.
 - -Gallstones
 - -Inflammation of the gallbladder
 - -Weight loss reported in patients treated for type 2 diabetes
 - -Injection site pain
-- -Increased calcitonin levels in blood in patients treated for type 2 diabetes or for OSA with obesity
+- -Increased calcitonin levels in blood in adult patients treated for type 2 diabetes or for OSA with obesity
 - -Changed sense of taste
 - -Change in skin sensation
 - -A delay in the emptying of the stomach
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -6886,15 +6962,16 @@ The active substance is tirzepatide.
 - -Mounjaro 7.5 mg: Each vial contains 7.5 mg of tirzepatide in 0.5 ml solution (15 mg/ml).
 - -Mounjaro 10 mg: Each vial contains 10 mg of tirzepatide in 0.5 ml solution (20 mg/ml).
 - -Mounjaro 12.5 mg: Each vial contains 12.5 mg of tirzepatide in 0.5 ml solution (25 mg/ml).
+
+<div style=\"page-break-after: always\"></div>
+
 - -Mounjaro 15 mg: Each vial contains 15 mg of tirzepatide in 0.5 ml solution (30 mg/ml).
 
 The other ingredients are disodium hydrogen phosphate heptahydrate (E339), sodium chloride, sodium hydroxide (see section 2 under 'Mounjaro contains sodium' for further information); concentrated hydrochloric acid and water for injections.
 
 ## What Mounjaro looks like and contents of the pack
 
-Mounjaro is a clear, colourless to slightly yellow, solution for injection in a vial.
-
-Each vial contains 0.5 ml solution.
+Mounjaro is a clear, colourless to slightly yellow, solution for injection in a vial. Each vial contains 0.5 ml solution.
 
 The vial is for single use only.
 
@@ -6908,13 +6985,13 @@ Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 Eli Lilly Italia S.p.A.,Via Gramsci 731/733, 50019, Sesto Fiorentino, Firenze (FI), Italy Lilly S.A., Avda. de la Industria, 30, 28108 Alcobendas, Madrid, Spain
 
-<div style=\"page-break-after: always\"></div>
-
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## Belgique/België/Belgien
 
-Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
 
 ## България
 
@@ -6928,7 +7005,9 @@ Tel: + 420 234 664 111
 
 ## Danmark
 
-Eli Lilly Danmark A/S Tlf.: +45 45 26 60 00
+Eli Lilly Danmark A/S
+
+Tlf.: +45 45 26 60 00
 
 ## Deutschland
 
@@ -6938,11 +7017,15 @@ Tel. + 49-(0) 6172 273 2222
 
 ## Eesti
 
-Eli Lilly Nederland B.V. Tel: +372 6 817 280
+Eli Lilly Nederland B.V.
+
+Tel: +372 6 817 280
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε. Τηλ: +30 210 629 4600
+ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
+
+Τηλ: +30 210 629 4600
 
 ## España
 
@@ -6950,33 +7033,17 @@ Lilly S.A.
 
 Tel: + 34-91 663 50 00
 
-## France
-
-Lilly France Tél: +33-(0) 1 55 49 34 34
-
-## Hrvatska
-
-Eli Lilly Hrvatska d.o.o. Tel: +385 1 2350 999
-
-## Ireland
-
-Eli Lilly and Company (Ireland) Limited Tel: + 353-(0) 1 661 4377
-
-## Ísland
-
-Icepharma hf. Sími + 354 540 8000
-
-## Italia
-
-Eli Lilly Italia S.p.A. Tel: + 39- 055 42571
-
 ## Lietuva
 
-Eli Lilly Lietuva Tel. +370 (5) 2649600
+Eli Lilly Lietuva
+
+Tel. +370 (5) 2649600
 
 ## Luxembourg/Luxemburg
 
-Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
 
 ## Magyarország
 
@@ -6986,7 +7053,9 @@ Tel: + 36 1 328 5100
 
 ## Malta
 
-Charles de Giorgio Ltd. Tel: + 356 25600 500
+Charles de Giorgio Ltd.
+
+Tel: + 356 25600 500
 
 ## Nederland
 
@@ -7002,23 +7071,57 @@ Tlf: + 47 22 88 18 00
 
 ## Österreich
 
-Eli Lilly Ges.m.b.H. Tel: + 43-(0) 1 20609 1270
+Eli Lilly Ges.m.b.H.
+
+Tel: + 43-(0) 1 20609 1270
 
 ## Polska
 
-Eli Lilly Polska Sp. z o.o. Tel: +48 22 440 33 00
+Eli Lilly Polska Sp. z o.o.
+
+Tel: +48 22 440 33 00
+
+## France
+
+Lilly France
+
+Tél: +33-(0) 1 55 49 34 34
 
 ## Portugal
 
-Lilly Portugal Produtos Farmacêuticos, Lda Tel: + 351-21-4126600
+Lilly Portugal Produtos Farmacêuticos, Lda
+
+Tel: + 351-21-4126600
+
+## Hrvatska
+
+Eli Lilly Hrvatska d.o.o.
+
+Tel: +385 1 2350 999
 
 ## România
 
-Eli Lilly România S.R.L. Tel: + 40 21 4023000
+Eli Lilly România S.R.L.
+
+Tel: + 40 21 4023000
+
+## Ireland
+
+Eli Lilly and Company (Ireland) Limited
+
+Tel: + 353-(0) 1 661 4377
 
 ## Slovenija
 
-Eli Lilly farmacevtska družba, d.o.o. Tel: +386 (0)1 580 00 10
+Eli Lilly farmacevtska družba, d.o.o.
+
+Tel: +386 (0)1 580 00 10
+
+## Ísland
+
+Icepharma hf.
+
+Sími + 354 540 8000
 
 ## Slovenská republika
 
@@ -7026,15 +7129,29 @@ Eli Lilly Slovakia s.r.o.
 
 Tel: + 421 220 663 111
 
+## Italia
+
+Eli Lilly Italia S.p.A.
+
+Tel: + 39- 055 42571
+
 ## Suomi/Finland
 
-Oy Eli Lilly Finland Ab Puh/Tel: + 358-(0) 9 85 45 250
+Oy Eli Lilly Finland Ab
+
+Puh/Tel: + 358-(0) 9 85 45 250
 
 ## Κύπρος
 
 Phadisco Ltd
 
 Τηλ: +357 22 715000
+
+## Sverige
+
+Eli Lilly Sweden AB
+
+Tel: + 46-(0) 8 7378800
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7050,11 +7167,7 @@ Tel:
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
-Sverige Eli Lilly Sweden AB
-
-Tel: + 46-(0) 8 7378800
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7084,7 +7197,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## 1. What Mounjaro KwikPen is and what it is used for
 
-Mounjaro contains an active substance called tirzepatide and is used to treat adults with type 2 diabetes mellitus. Mounjaro reduces the level of sugar in the body only when the levels of sugar are high.
+Mounjaro contains an active substance called tirzepatide and is used to treat adults, adolescents and children aged 10 years and above with type 2 diabetes mellitus. Mounjaro reduces the level of sugar in the body only when the levels of sugar are high.
 
 Mounjaro is also used to treat adults with obesity or overweight (with BMI of at least 27 kg/m2). Mounjaro influences appetite regulation, which may help you eat less food and reduce your body weight.
 
@@ -7096,7 +7209,7 @@ In type 2 diabetes, Mounjaro is used:
 Mounjaro is also used together with diet and exercise for weight loss and to help keep the weight under control in adults, who have:
 
 - -a BMI of 30 kg/m² or greater (obesity) or
-- -a BMI of at least 27 kg/m² but less than 30 kg/m² (overweight) and weight-related health problems (such as prediabetes, type 2 diabetes, high blood pressure, abnormal levels of fats in the blood, breathing problems during sleep called 'obstructive sleep apnoea' or a history of heart attack, stroke or blood vessel problems)
+- -a BMI of at least 27 kg/m² but less than 30 kg/m² (overweight) and weight-related health problems (such as prediabetes, type 2 diabetes, high blood pressure, abnormal levels of fats in the blood, breathing problems during sleep called 'obstructive sleep apnoea', impaired heart function or a history of heart attack, stroke or blood vessel problems)
 
 BMI (Body Mass Index) is a measure of your weight in relation to your height.
 
@@ -7127,7 +7240,9 @@ If you know that you are due to have surgery where you will be under anaesthesia
 
 ## Children and adolescents
 
-This medicine should not be given to children and adolescents under 18 years of age because it has not been studied in this age group.
+This medicine can be used in children aged 10 years and older for the treatment of type 2 diabetes. It has only been studied in children with type 2 diabetes who have overweight or obesity when starting treatment.
+
+This medicine should not be given to children under 10 years of age treated for type 2 diabetes and to children and adolescents under 18 years of age for weight management because it has not been studied in these age groups.
 
 ## Other medicines and Mounjaro
 
@@ -7139,15 +7254,13 @@ If you are pregnant, think you may be pregnant or are planning to have a baby, a
 
 ## Breast-feeding
 
-It is unknown whether tirzepatide passes into breast milk. A risk to newborns/infants cannot be ruled out. If you are breast-feeding or are planning to breast-feed, talk to your doctor before using this medicine. You and your doctor should decide if you should stop breast-feeding or delay using Mounjaro.
-
-## Driving and using machines
-
-It is unlikely that this medicine will affect your ability to drive and use machines. However, if you use Mounjaro in combination with a sulphonylurea or insulin, low blood sugar (hypoglycaemia) may occur which may reduce your ability to concentrate. Avoid driving or using machines if you get any
+Tirzepatide passes into breast milk in very low amounts and is not expected to be absorbed by a breastfed newborn/infant. If you are breast-feeding or are planning to breast-feed, talk to your doctor before using or continuing to use this medicine.
 
 <div style=\"page-break-after: always\"></div>
 
-signs of low blood sugar, e.g. headache, drowsiness, weakness, dizziness, feeling hungry, confusion, irritability, fast heartbeat and sweating (see section 4). See section 2, 'Warnings and precautions' for information on increased risk of low blood sugar. Talk to your doctor for further information.
+## Driving and using machines
+
+It is unlikely that this medicine will affect your ability to drive and use machines. However, if you use Mounjaro in combination with a sulphonylurea or insulin, low blood sugar (hypoglycaemia) may occur which may reduce your ability to concentrate. Avoid driving or using machines if you get any signs of low blood sugar, e.g. headache, drowsiness, weakness, dizziness, feeling hungry, confusion, irritability, fast heartbeat and sweating (see section 4). See section 2, 'Warnings and precautions' for information on increased risk of low blood sugar. Talk to your doctor for further information.
 
 ## Mounjaro KwikPen contains sodium
 
@@ -7167,8 +7280,15 @@ A small amount of medicine may remain in the pen after all doses have been corre
 
 ## How much to use
 
+## Adults
+
 - The starting dose is 2.5 mg once a week for four weeks. After four weeks your doctor will increase your dose to 5 mg once a week.
 - Your doctor may increase your dose by 2.5 mg increments to 7.5 mg, 10 mg, 12.5 mg or 15 mg once a week if you need it. In each case your doctor will tell you to stay on a particular dose for at least 4 weeks before going to a higher dose.
+
+## Adolescents and children aged 10 to less than 18 years treated for type 2 diabetes
+
+- The starting dose is 2.5 mg once a week for four weeks. After four weeks your doctor will increase your dose to 5 mg once a week.
+- Your doctor may increase your dose by 2.5 mg increments to 7.5 mg, and 10 mg once a week if you need it. In each case your doctor will tell you to stay on a particular dose for at least 4 weeks before going to a higher dose.
 
 Do not change your dose unless your doctor has told you to.
 
@@ -7178,17 +7298,17 @@ You can use your pen at any time of the day, with or without meals. You should u
 
 If necessary, you can change the day of your weekly Mounjaro injection, as long as it has been at least 3 days since your last injection. After selecting a new dosing day, continue with once-a-week dosing on that new day.
 
+<div style=\"page-break-after: always\"></div>
+
 ## How to inject Mounjaro KwikPen
 
-Mounjaro is injected under the skin (subcutaneous injection) of your stomach area (abdomen) at least 5 cm from the belly button or upper leg (thigh) or upper arm. You may need help from someone else if you want to inject in your upper arm.
+Mounjaro is injected under the skin (subcutaneous injection) of your stomach area (abdomen) at least 5 cm from the belly button or upper leg (thigh) or the back of your upper arm. Someone else should help if you want to inject in the back of your upper arm.
 
 If you want to do so, you can use the same area of your body each week. But be sure to choose a different injection site within that area. If you also inject insulin choose a different injection site for that injection.
 
-Read the 'Instructions for Use' for the pen carefully before using Mounjaro KwikPen.
+Read the 'Instructions for Use' for the pen carefully before using Mounjaro KwikPen. If you are below 18 years of age, a caregiver may give you your Mounjaro injection or you may self-inject if your doctor determines that it is appropriate.
 
 ## Testing blood glucose levels
-
-<div style=\"page-break-after: always\"></div>
 
 If you are using Mounjaro with a sulphonylurea or insulin, it is important that you test your blood glucose levels as instructed by your doctor, nurse or pharmacist (see section 2, 'Warnings and precautions').
 
@@ -7211,6 +7331,8 @@ Do not stop using Mounjaro without talking with your doctor. If you stop using M
 
 If you have any further questions on the use of this medicine, ask your doctor, nurse or pharmacist.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
@@ -7221,7 +7343,7 @@ Uncommon (may affect up to 1 in 100 people)
 
 - -Inflamed pancreas (acute pancreatitis) which could cause severe pain in the stomach and back which does not go away. You should see a doctor immediately if you experience such symptoms.
 
-## Rare (may affect up to 1 in 1 000 people)
+Rare (may affect up to 1 in 1 000 people)
 
 - -Severe allergic reactions (e.g. anaphylactic reaction, angioedema). You should get immediate medical help and inform your doctor if you experience symptoms such as breathing problems, rapid swelling of the lips, tongue and/or throat with difficulty swallowing and a fast heartbeat.
 
@@ -7231,27 +7353,24 @@ Very common ( may affect more than 1 in 10 people)
 
 - -Feeling sick (nausea)
 - -Diarrhoea
-- -Stomach (abdominal) pain reported in patients treated for weight management
-- -Being sick (vomiting) reported in patients treated for weight management
+- -Stomach (abdominal) pain reported in patients treated for weight management and in adolescents and children treated for type 2 diabetes
+- -Being sick (vomiting) reported in patients treated for weight management and in adolescents and children treated for type 2 diabetes
 - -Constipation reported in patients treated for weight management
 
 These side effects are usually not severe. Nausea, diarrhoea, and vomiting are most common when first starting tirzepatide but decrease over time in most patients.
 
-- -Low blood sugar (hypoglycaemia) is very common when tirzepatide is used with medicines that contain a sulphonylurea and/or insulin. If you are using a sulphonylurea or insulin for type 2 diabetes, the dose may need to be lowered while you use tirzepatide (see section 2, 'Warnings and precautions'). Symptoms of low blood sugar may include headache, drowsiness, weakness,
-
-<div style=\"page-break-after: always\"></div>
-
-dizziness, feeling hungry, confusion, irritability, fast heartbeat and sweating. Your doctor should tell you how to treat low blood sugar.
+- -Low blood sugar (hypoglycaemia) is very common when tirzepatide is used with medicines that contain a sulphonylurea and/or insulin. If you are using a sulphonylurea or insulin for type 2 diabetes, the dose may need to be lowered while you use tirzepatide (see section 2, 'Warnings and precautions'). Symptoms of low blood sugar may include headache, drowsiness, weakness, dizziness, feeling hungry, confusion, irritability, fast heartbeat and sweating. Your doctor should tell you how to treat low blood sugar.
 
 ## Common ( may affect up to 1 in 10 people)
 
 - -Low blood sugar (hypoglycaemia) when tirzepatide is used for type 2 diabetes with both metformin and a sodium-glucose co-transporter 2 inhibitor (another diabetes medicine)
+- -Low blood sugar (hypoglycaemia) when tirzepatide is used with metformin alone in adolescents and children for type 2 diabetes
 - -Allergic reaction (hypersensitivity) (e.g., rash, itching, and eczema)
 - -Dizziness reported in patients treated for weight management
 - -Low blood pressure reported in patients treated for weight management
 - -Feeling less hungry (decreased appetite) reported in patients treated for type 2 diabetes
-- -Stomach (abdominal) pain reported in patients treated for type 2 diabetes
-- -Being sick (vomiting) reported in patients treated for type 2 diabetes - this usually decreases over time
+- -Stomach (abdominal) pain reported in adult patients treated for type 2 diabetes
+- -Being sick (vomiting) reported in adult patients treated for type 2 diabetes - this usually decreases over time
 - -Indigestion (dyspepsia)
 - -Constipation reported in patients treated for type 2 diabetes
 - -Bloating of the stomach
@@ -7260,19 +7379,22 @@ dizziness, feeling hungry, confusion, irritability, fast heartbeat and sweating.
 - -Reflux or heartburn (also called gastroesophageal reflux disease - GERD) - a disease caused by stomach acid coming up into the tube from your stomach to your mouth
 - -Hair loss reported in patients treated for weight management
 - -Feeling tired (fatigue)
+
+<div style=\"page-break-after: always\"></div>
+
 - -Injection site reactions (e.g. itching or redness)
 - -Fast pulse
 - -Increased levels of pancreatic enzymes (such as lipase and amylase) in blood
 - -Increased calcitonin levels in blood in patients treated for weight management.
 
-## Uncommon ( may affect up to 1 in 100 people)
+Uncommon ( may affect up to 1 in 100 people)
 
-- -Low blood sugar (hypoglycaemia) when tirzepatide is used with metformin for type 2 diabetes.
+- -Low blood sugar (hypoglycaemia) when tirzepatide is used with metformin in adults for type 2 diabetes.
 - -Gallstones
 - -Inflammation of the gallbladder
 - -Weight loss reported in patients treated for type 2 diabetes
 - -Injection site pain
-- -Increased calcitonin levels in blood in patients treated for type 2 diabetes or for OSA with obesity
+- -Increased calcitonin levels in blood in adult patients treated for type 2 diabetes or for OSA with obesity
 - -Changed sense of taste
 - -Change in skin sensation
 - -A delay in the emptying of the stomach
@@ -7291,8 +7413,6 @@ Store in a refrigerator (2 °C - 8 °C). Do not freeze. If the pen has been froz
 
 Mounjaro KwikPen can be stored unrefrigerated below 30 ºC for up to 30 days after first use and then the pen must be discarded.
 
-<div style=\"page-break-after: always\"></div>
-
 Do not use this medicine if you notice that the pen is damaged, or the medicine is cloudy, discoloured or has particles in it.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
@@ -7309,6 +7429,8 @@ Mounjaro 5 mg/dose KwikPen: Each dose contains 5 mg of tirzepatide in 0.6 ml sol
 
 Mounjaro 7.5 mg/dose KwikPen: Each dose contains 7.5 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains 30 mg of tirzepatide in 2.4 ml (12.5 mg/ml). Each pen delivers 4 doses of 7.5 mg.
 
+<div style=\"page-break-after: always\"></div>
+
 Mounjaro 10 mg/dose KwikPen: Each dose contains 10 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains 40 mg of tirzepatide in 2.4 ml (16.7 mg/ml). Each pen delivers 4 doses of 10 mg.
 
 Mounjaro 12.5 mg/dose KwikPen: Each dose contains 12.5 mg of tirzepatide in 0.6 ml solution. Each multi-dose pre-filled pen contains 50 mg of tirzepatide in 2.4 ml (20.8 mg/ml). Each pen delivers 4 doses of 12.5 mg.
@@ -7321,9 +7443,7 @@ The other ingredients are disodium hydrogen phosphate heptahydrate (E339), benzy
 
 Mounjaro is a clear, colourless to slightly yellow, solution for injection in a pre-filled pen (KwikPen). Each KwikPen contains 2.4 ml solution for injection (4 doses of 0.6 ml), and excess for priming. Needles are not included.
 
-Pack sizes of 1 and 3 KwikPens
-
-Not all pack sizes may be available in your country.
+Pack sizes of 1 and 3 KwikPens Not all pack sizes may be available in your country.
 
 ## Marketing Authorisation Holder
 
@@ -7331,25 +7451,39 @@ Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## Manufacturer
 
-Eli Lilly Italia S.p.A.,Via Gramsci 731/733, 50019, Sesto Fiorentino, Firenze (FI), Italy Lilly S.A., Avda. de la Industria, 30, 28108 Alcobendas, Madrid, Spain Lilly France, 2, rue du Colonel Lilly, 67640 Fegersheim, France Millmount Healthcare Limited, Block 7 City North Business Campus, Stamullen, K32 YD60, Ireland Millmount Healthcare Limited, IDA Science And Technology Park, Mullagharlin, Dundalk, Co. Louth, A91 DET0, Ireland
+Eli Lilly Italia S.p.A.,Via Gramsci 731/733, 50019, Sesto Fiorentino, Firenze (FI), Italy Lilly S.A., Avda. de la Industria, 30, 28108 Alcobendas, Madrid, Spain Lilly France, 2, rue du Colonel Lilly, 67640 Fegersheim, France Millmount Healthcare Limited, Block 7 City North Business Campus, Stamullen, K32 YD60, Ireland Millmount Healthcare Limited, IDA Science And Technology Park, Mullagharlin, Dundalk, Co.
+
+Louth, A91 DET0, Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-<div style=\"page-break-after: always\"></div>
-
 ## Belgique/België/Belgien
 
-Eli Lilly Benelux S.A./N.V.
+Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
-Tél/Tel: + 32-(0)2 548 84 84
+## Lietuva
+
+Eli Lilly Lietuva Tel. +370 (5) 2649600
 
 ## България
 
-ТП \" Ели Лили Недерланд \" Б . В . -България тел. + 359 2 491 41 40
+ТП \" Ели Лили Недерланд \" Б . В . - България тел. + 359 2 491 41 40
+
+## Luxembourg/Luxemburg
+
+Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
 ## Česká republika
 
-ELI LILLY ČR, s.r.o. Tel: + 420 234 664 111
+ELI LILLY ČR, s.r.o.
+
+Tel: + 420 234 664 111
+
+## Magyarország
+
+Lilly Hungária Kft.
+
+Tel: + 36 1 328 5100
 
 ## Danmark
 
@@ -7363,61 +7497,11 @@ Lilly Deutschland GmbH
 
 Tel. + 49-(0) 6172 273 2222
 
-## Eesti
-
-Eli Lilly Nederland B.V. Tel: +372 6 817 280
-
-## Ελλάδα
-
-ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε. Τηλ: +30 210 629 4600
-
-## España
-
-Lilly S.A.
-
-Tel: + 34-91 663 50 00
-
-## France
-
-Lilly France Tél: +33-(0) 1 55 49 34 34
-
-## Hrvatska
-
-Eli Lilly Hrvatska d.o.o. Tel: +385 1 2350 999
-
-## Ireland
-
-Eli Lilly and Company (Ireland) Limited Tel: + 353-(0) 1 661 4377
-
-## Ísland
-
-Icepharma hf.
-
-Sími + 354 540 8000
-
-## Italia
-
-Eli Lilly Italia S.p.A. Tel: + 39- 055 42571
-
-## Κύπρος
-
-Phadisco Ltd Τηλ: +357 22 715000
-
-## Lietuva
-
-Eli Lilly Lietuva Tel. +370 (5) 2649600
-
-## Luxembourg/Luxemburg
-
-Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
-
-## Magyarország
-
-Lilly Hungária Kft. Tel: + 36 1 328 5100
-
 ## Malta
 
-Charles de Giorgio Ltd. Tel: + 356 25600 500
+Charles de Giorgio Ltd.
+
+Tel: + 356 25600 500
 
 ## Nederland
 
@@ -7425,9 +7509,23 @@ Eli Lilly Nederland B.V.
 
 Tel: + 31-(0) 30 60 25 800
 
+## Eesti
+
+Eli Lilly Nederland B.V.
+
+Tel: +372 6 817 280
+
 ## Norge
 
-Eli Lilly Norge A.S. Tlf: + 47 22 88 18 00
+Eli Lilly Norge A.S.
+
+Tlf: + 47 22 88 18 00
+
+## Ελλάδα
+
+ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
+
+Τηλ: +30 210 629 4600
 
 ## Österreich
 
@@ -7435,45 +7533,105 @@ Eli Lilly Ges.m.b.H.
 
 Tel: + 43-(0) 1 20609 1270
 
+## España
+
+Lilly S.A.
+
+Tel: + 34-91 663 50 00
+
 ## Polska
 
-Eli Lilly Polska Sp. z o.o. Tel: +48 22 440 33 00
+Eli Lilly Polska Sp. z o.o.
+
+Tel: +48 22 440 33 00
+
+## France
+
+Lilly France
+
+Tél: +33-(0) 1 55 49 34 34
 
 ## Portugal
 
-Lilly Portugal Produtos Farmacêuticos, Lda Tel: + 351-21-4126600
+Lilly Portugal Produtos Farmacêuticos, Lda
+
+Tel: + 351-21-4126600
+
+## Hrvatska
+
+Eli Lilly Hrvatska d.o.o.
+
+Tel: +385 1 2350 999
 
 ## România
 
-Eli Lilly România S.R.L. Tel: + 40 21 4023000
+Eli Lilly România S.R.L.
+
+Tel: + 40 21 4023000
+
+## Ireland
+
+Eli Lilly and Company (Ireland) Limited
+
+Tel: + 353-(0) 1 661 4377
 
 ## Slovenija
 
-Eli Lilly farmacevtska družba, d.o.o. Tel: +386 (0)1 580 00 10
+Eli Lilly farmacevtska družba, d.o.o.
+
+Tel: +386 (0)1 580 00 10
+
+## Ísland
+
+Icepharma hf.
+
+Sími + 354 540 8000
 
 ## Slovenská republika
 
-Eli Lilly Slovakia s.r.o. Tel: + 421 220 663 111
+Eli Lilly Slovakia s.r.o.
+
+Tel: + 421 220 663 111
+
+## Italia
+
+Eli Lilly Italia S.p.A.
+
+Tel: + 39- 055 42571
 
 ## Suomi/Finland
 
-Oy Eli Lilly Finland Ab Puh/Tel: + 358-(0) 9 85 45 250
+Oy Eli Lilly Finland Ab
+
+Puh/Tel: + 358-(0) 9 85 45 250
+
+## Κύπρος
+
+Phadisco Ltd
+
+Τηλ: +357 22 715000
 
 ## Sverige
 
-Eli Lilly Sweden AB Tel: + 46-(0) 8 7378800
+Eli Lilly Sweden AB
 
-<div style=\"page-break-after: always\"></div>
+Tel: + 46-(0) 8 7378800
 
 ## Latvija
 
-Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā Tel: + 371 67364000
+Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
+
+Tel:
+
++ 371 67364000
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7503,7 +7661,7 @@ People who are blind or have vision problems should not use the pen without help
 
 <div style=\"page-break-after: always\"></div>
 
-## Guide to parts Parts of the Mounjaro KwikPen
+Guide to parts Parts of the Mounjaro KwikPen
 
 <!-- image -->
 

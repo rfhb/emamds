@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-04-14 10:16:51
+document_datetime: 2026-02-26 09:41:01
 document_pages: 29
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vydura-epar-product-information_en.pdf
 document_name: vydura-epar-product-information_en.pdf
 version: success
-processing_time: 8.3308533
-conversion_datetime: 2025-12-24 19:33:19.315099
+processing_time: 8.4946908
+conversion_datetime: 2026-03-01 20:18:00.820976
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -48,12 +48,12 @@ The oral lyophilisate is white to off-white, circular, diameter 14 mm and deboss
 
 VYDURA is indicated for the
 
-- Acute treatment of migraine with or without aura in adults;
-- Preventive treatment of episodic migraine in adults who have at least 4 migraine attacks per month.
+-  Acute treatment of migraine with or without aura in adults;
+-  Preventive treatment of episodic migraine in adults who have at least 4 migraine attacks per month.
 
 ## 4.2 Posology and method of administration
 
-## Posology
+Posology
 
 Acute treatment of migraine
 
@@ -105,9 +105,9 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## 4.4 Special warnings and precautions for use
 
-Hypersensitivity reactions, including dyspnoea and rash, have occurred in less than 1% of patients treated with rimegepant in clinical studies (see section 4.8). Hypersensitivity reactions, including serious hypersensitivity, can occur days after administration. If a hypersensitivity reaction occurs, rimegepant should be discontinued and appropriate therapy should be initiated.
+Hypersensitivity reactions, including dyspnoea and rash, have occurred in less than 1% of patients treated with rimegepant in clinical studies (see section 4.8). Hypersensitivity reactions, including serious hypersensitivity such as anaphylactic reaction, have been reported in the clinical and post-marketing settings (see section 4.8). Some hypersensitivity reactions can occur days after administration. If a hypersensitivity reaction occurs, rimegepant should be discontinued and appropriate therapy should be initiated.
 
-## VYDURA is not recommended:
+VYDURA is not recommended:
 
 - -in patients with severe hepatic impairment (see section 4.2);
 - -in patients with end-stage renal disease (CLcr &lt; 15 ml/min) (see section 4.2);
@@ -148,11 +148,11 @@ There are limited data from the use of rimegepant in pregnant women. Animal stud
 
 In a single center study of 12 breast-feeding women treated with a single dose of rimegepant 75 mg, minimal concentrations of rimegepant were observed in breast milk. The relative percentage of a maternal dose estimated to reach the infant is less than 1%. There are no data on the effects on milk production. The developmental and health benefits of breast-feeding should be considered along with the mother's clinical need for VYDURA and any potential adverse reactions on the breastfed infant from rimegepant or from the underlying maternal condition.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Fertility
 
 Animal studies showed no clinically relevant impact on female and male fertility (see section 5.3)
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -168,15 +168,16 @@ The most common adverse reaction was nausea for acute treatment (1.2%) and for m
 
 Adverse reactions are listed by MedDRA system organ class in Table 1. The corresponding frequency category for each drug reaction is based on the following convention (CIOMS III): very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000).
 
-## Table 1 List of adverse reactions
+Table 1  : List of Adverse Reactions
 
-| System Organ Class         | Adverse reaction                                     | Frequency       |
-|----------------------------|------------------------------------------------------|-----------------|
-| Acute Treatment            | Acute Treatment                                      | Acute Treatment |
-| Immune system disorders    | Hypersensitivity, including dyspnoea and severe rash | Uncommon        |
-| Gastrointestinal disorders | Nausea                                               | Common          |
-| Prophylaxis                | Prophylaxis                                          | Prophylaxis     |
-| Gastrointestinal disorders | Nausea                                               | Common          |
+| System Organ Class         | Adverse Reaction                                                             | Frequency           |
+|----------------------------|------------------------------------------------------------------------------|---------------------|
+| Acute Treatment            |                                                                              |                     |
+| Immune system disorders    | Anaphylactic reaction a Hypersensitivity, including dyspnoea and severe rash | Uncommon Uncommon   |
+| Gastrointestinal disorders | Nausea                                                                       | Common              |
+| Prophylaxis                |                                                                              |                     |
+| Immune system disorders    | Anaphylactic reaction a Hypersensitivity a                                   | Not known Not known |
+| Gastrointestinal disorders | Nausea                                                                       | Common              |
 
 ## Long-term safety
 
@@ -192,11 +193,11 @@ Hypersensitivity, including dyspnoea and severe rash, occurred in less than 1% o
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.9 Overdose
 
 There is limited clinical experience with rimegepant overdose. No overdose symptoms have been reported. Treatment of an overdose of rimegepant should consist of general supportive measures including monitoring of vital signs and observation of the clinical status of the patient. No specific antidote for the treatment of rimegepant overdose is available. Rimegepant is unlikely to be significantly removed by dialysis because of high serum protein binding.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -278,16 +279,16 @@ Rimegepant 75 mg dosed EOD demonstrated statistically significant improvements f
 
 Table 3: Key Efficacy Endpoints for Study 4
 
-|                                                               | Rimegepant 75 mg EOD   | Placebo EOD   |
-|---------------------------------------------------------------|------------------------|---------------|
-| Monthly Migraine Days (MMD) Weeks 9 through 12                | N=348                  | N=347         |
-| Change from baseline                                          | -4.3                   | -3.5          |
-| Change compared to placebo                                    | -0.8                   |               |
-| p-value                                                       | 0.010 a                |               |
-| ≥ 50% Reduction in Moderate or Severe MMDs Weeks 9 through 12 | N=348                  | N=347         |
-| %Responders                                                   | 49.1                   | 41.5          |
-| Difference compared to placebo                                | 7.6                    |               |
-| p-value                                                       | 0.044 a                |               |
+|                                                | Rimegepant 75 mg EOD   | Placebo EOD   |
+|------------------------------------------------|------------------------|---------------|
+| Monthly Migraine Days (MMD) Weeks 9 through 12 | N=348                  | N=347         |
+| Change from baseline                           | -4.3                   | -3.5          |
+| Change compared to placebo                     | -0.8                   |               |
+| p-value                                        | 0.010 a                |               |
+| ≥ 50% Reduction in Moderate or Severe MMDs     | N=348                  | N=347         |
+| %Responders                                    | 49.1                   | 41.5          |
+| Difference compared to placebo                 | 7.6                    |               |
+| p-value                                        | 0.044 a                |               |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -454,7 +455,9 @@ HiTech Health Limited 5-7 Main Street Blackrock Co. Dublin A94 R5Y4 Ireland
 
 Millmount Healthcare Limited Block-7, City North Business Campus Stamullen Co. Meath K32 YD60 Ireland
 
-Pfizer Ireland Pharmaceuticals Unlimited Company Little Connell Newbridge Co. Kildare W12 HX57 Ireland
+Pfizer Ireland Pharmaceuticals Unlimited Company
+
+Little Connell Newbridge Co. Kildare W12 HX57 Ireland
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -464,7 +467,7 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -472,16 +475,16 @@ The marketing authorisation holder (MAH) shall submit the first PSUR for this pr
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 <div style=\"page-break-after: always\"></div>
 
-An updated RMP should be submitted:
+## An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -511,11 +514,7 @@ Each oral lyophilisate contains rimegepant sulfate, equivalent to 75 mg rimegepa
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-2 x 1 oral lyophilisates
-
-8 x 1 oral lyophilisates
-
-16 x 1 oral lyophilisates
+2 x 1 oral lyophilisates 8 x 1 oral lyophilisates 16 x 1 oral lyophilisates
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -543,8 +542,13 @@ Store in the original package in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10.
+
+SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
+
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
+
+APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -552,27 +556,25 @@ Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/22/1645/001 (2 pack) EU/1/22/1645/002 (8 pack)
-
-EU/1/22/1645/003 (16 pack)
+EU/1/22/1645/001 (2 pack) EU/1/22/1645/002 (8 pack) EU/1/22/1645/003 (16 pack)
 
 ## 13. BATCH NUMBER
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 VYDURA 75 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-&lt;2D barcode carrying the unique identifier included.&gt;
+- &lt;2D barcode carrying the unique identifier included.&gt;
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
 
@@ -580,17 +582,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTERS / 75MG                                      |
+| MINIMUM PARTICULARSTO APPEARON BLISTERSOR STRIPS   |
+|----------------------------------------------------|
+| BLISTERS / 75MG                                    |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Vydura 75 mg oral lyophilisate rimegepant
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Pfizer (logo)
 
@@ -665,7 +667,7 @@ Talk to your doctor or pharmacist before taking VYDURA, if any of the following 
 
 During treatment with VYDURA, stop taking this medicine and tell your doctor immediately:
 
-- -if you experience any symptoms of an allergic reaction, e.g., trouble breathing or severe rash. These symptoms can occur several days after administration.
+- -if you experience any symptoms of an allergic reaction (e.g., trouble breathing, severe rash, swelling of tongue, mouth or face, trouble swallowing, throat tightness, or hoarseness). These symptoms can occur several days after administration.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -717,7 +719,7 @@ The maximum daily dose is one oral lyophilisate (75 mg rimegepant) per day.
 
 ## How to take this medicine
 
-## VYDURA is for oral use.
+VYDURA is for oral use.
 
 The oral lyophilisate can be taken with or without food or water.
 
@@ -747,7 +749,7 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-Stop using VYDURA and contact your doctor straight away if you have signs of an allergic reaction such as severe rash or shortness of breath. Allergic reactions with VYDURA are uncommon (may affect up to 1 in 100 people).
+Stop using VYDURA and contact your doctor straight away if you have signs of an allergic reaction (such as severe rash or shortness of breath) or signs of a severe allergic reaction known as 'anaphylaxis' (such as swelling of tongue, mouth or face, trouble swallowing or breathing, throat tightness, or hoarseness). Allergic reactions, including anaphylaxis, with VYDURA are uncommon (may affect up to 1 in 100 people).
 
 A common side effect (may affect up to 1 in 10 people) is nausea.
 
@@ -780,9 +782,9 @@ VYDURA 75 mg oral lyophilisates are white to off-white, circular, and debossed w
 
 ## Pack sizes:
 
-- 2 x 1 oral lyophilisate perforated unit dose blisters.
-- 8 x 1 oral lyophilisate perforated unit dose blisters.
-- 16 x 1 oral lyophilisate perforated unit dose blisters.
+-  2 x 1 oral lyophilisate perforated unit dose blisters.
+-  8 x 1 oral lyophilisate perforated unit dose blisters.
+-  16 x 1 oral lyophilisate perforated unit dose blisters.
 
 Not all pack sizes may be marketed.
 
@@ -794,23 +796,23 @@ Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 HiTech Health Limited 5-7 Main Street Blackrock Co. Dublin A94 R5Y4 Ireland
 
-Millmount Healthcare Limited Block-7, City North Business Campus Stamullen Co. Meath K32 YD60
-
-Ireland
+Millmount Healthcare Limited Block-7, City North Business Campus Stamullen Co. Meath K32 YD60 Ireland
 
 Pfizer Ireland Pharmaceuticals Unlimited Company
 
-Little Connell Newbridge Co. Kildare W12 HX57
+Little Connell
+
+Newbridge
+
+Co. Kildare
+
+W12 HX57
 
 Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien Luxembourg/Luxemburg
-
-Pfizer NV/SA
-
-Tél/Tel: +32 (0)2 554 62 11
+België/Belgique/Belgien Luxembourg/Luxemburg Pfizer NV/SA Tél/Tel: +32 (0)2 554 62 11
 
 ## Lietuva
 
@@ -838,7 +840,9 @@ Tel: +420 283 004 111
 
 ## Danmark
 
-Pfizer ApS Tlf.: +45 44 20 11 00
+Pfizer ApS
+
+Tlf.: +45 44 20 11 00
 
 ## Deutschland
 
@@ -852,11 +856,15 @@ Pfizer Luxembourg SARL Eesti filiaal Tel: +372 666 7500
 
 ## Ελλάδα
 
-Pfizer Ελλάς Α.Ε. Τηλ.: +30 210 6785800
+Pfizer Ελλάς Α.Ε.
+
+Τηλ.: +30 210 6785800
 
 ## España
 
-Pfizer, S.L. Tel: +34 91 490 99 00
+Pfizer, S.L.
+
+Tel: +34 91 490 99 00
 
 ## France
 
@@ -866,33 +874,49 @@ Tél: +33 (0)1 58 07 34 40
 
 ## Hrvatska
 
-Pfizer Croatia d.o.o. Tel: +385 1 3908 777
+Pfizer Croatia d.o.o.
+
+Tel: +385 1 3908 777
 
 ## Ireland
 
-Pfizer Healthcare Ireland Unlimited Company Tel: +1800 633 363 (toll free) Tel: +44 (0)1304 616161
+Pfizer Healthcare Ireland Unlimited Company
+
+Tel: +1800 633 363 (toll free)
+
+Tel: +44 (0)1304 616161
 
 ## Ísland
 
-Icepharma hf. Sími: +354 540 8000
+Icepharma hf.
+
+Sími: +354 540 8000
 
 ## Italia
 
-Pfizer S.r.l. Tel: +39 06 33 18 21
+Pfizer S.r.l.
+
+Tel: +39 06 33 18 21
 
 ## Κύπρος
 
-Pfizer Ελλάς Α.Ε. (Cyprus Branch) Τηλ.: +357 22817690
+Pfizer Ελλάς Α.Ε. (Cyprus Branch)
+
+Τηλ.: +357 22817690
 
 ## Latvija
 
-Pfizer Luxembourg SARL filiāle Latvijā Tel: + 371 670 35 775
+Pfizer Luxembourg SARL filiāle Latvijā
+
+Tel: + 371 670 35 775
 
 ## This leaflet was last revised in .
 
 ## Malta
 
-Vivian Corporation Ltd. Tel.: +356 21344610
+Vivian Corporation Ltd.
+
+Tel.: +356 21344610
 
 ## Nederland
 
@@ -902,11 +926,15 @@ Tel: +31 (0) 800 63 34 636
 
 ## Norge
 
-Pfizer AS Tlf: +47 67 52 61 00
+Pfizer AS
+
+Tlf: +47 67 52 61 00
 
 ## Österreich
 
-Pfizer Corporation Austria Ges.m.b.H. Tel: +43 (0)1 521 15-0
+Pfizer Corporation Austria Ges.m.b.H.
+
+Tel: +43 (0)1 521 15-0
 
 ## Polska
 
@@ -916,7 +944,9 @@ Tel.: +48 22 335 61 00
 
 ## Portugal
 
-Laboratórios Pfizer, Lda. Tel: +351 21 423 5500
+Laboratórios Pfizer, Lda.
+
+Tel: +351 21 423 5500
 
 ## România
 
@@ -934,11 +964,15 @@ Pfizer Luxembourg SARL, organizačná zložka Tel: + 421 2 3355 5500
 
 ## Suomi/Finland
 
-Pfizer Oy Puh/Tel: +358 (0)9 430 040
+Pfizer Oy
+
+Puh/Tel: +358 (0)9 430 040
 
 ## Sverige
 
-Pfizer AB Tel: +46 (0)8 550 520 00
+Pfizer AB
+
+Tel: +46 (0)8 550 520 00
 
 <div style=\"page-break-after: always\"></div>
 

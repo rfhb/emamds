@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 12:54:58
+document_datetime: 2026-02-26 13:55:25
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/conexxence.html
 document_name: conexxence.html
 version: success
-processing_time: 0.1001497
-conversion_datetime: 2025-12-30 21:21:36.232331
+processing_time: 0.1089682
+conversion_datetime: 2026-03-01 19:56:18.505692
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Conexxence
 
 [RSS](/en/individual-human-medicine.xml/259699)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 denosumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -38,6 +36,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Conexxence](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-83749)
 
 - Application under evaluation
 - CHMP opinion
@@ -47,13 +46,11 @@ Page contents
 
 Conexxence is a medicine used to treat the following conditions:
 
-• osteoporosis (a disease that makes bones fragile) in women who have been through the menopause and in men who have an increased risk of fracture (broken bones). In women who have been through the menopause, Conexxence reduces the risk of fractures in the spine and elsewhere in the body, including the hips;
+- osteoporosis (a disease that makes bones fragile) in women who have been through the menopause and in men who have an increased risk of fracture (broken bones). In women who have been through the menopause, Conexxence reduces the risk of fractures in the spine and elsewhere in the body, including the hips;
+- bone loss in men receiving treatment for prostate cancer that increases their risk of fracture. Conexxence reduces the risk of fractures in the spine;
+- bone loss in adults at increased risk of fractures who are treated long term with corticosteroid medicines given by mouth or injection.
 
-• bone loss in men receiving treatment for prostate cancer that increases their risk of fracture. Conexxence reduces the risk of fractures in the spine;
-
-• bone loss in adults at increased risk of fractures who are treated long term with corticosteroid medicines given by mouth or injection.
-
-Conexxence contains the active substance denosumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Conexxence is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Conexxence is Prolia. For more information on biosimilar medicines, see [here](/node/68323) .
+Conexxence contains the active substance denosumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Conexxence is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Conexxence is Prolia.
 
 Expand section
 
@@ -113,7 +110,7 @@ English (EN) (167.38 KB - PDF)
 
 [View](/en/documents/overview/conexxence-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-399)
+[Other languages (22)](#file-language-dropdown-33)
 
 български (BG) (159.61 KB - PDF)
 
@@ -303,163 +300,241 @@ English (EN) (2.54 MB - PDF)
 
 Conexxence : EPAR - Product information
 
-English (EN) (1.78 MB - PDF)
+English (EN) (1.77 MB - PDF)
 
 **First published:** 19/09/2025
 
+**Last updated:** 26/02/2026
+
 [View](/en/documents/product-information/conexxence-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-20)
+[Other languages (24)](#file-language-dropdown-95)
 
-български (BG) (870.73 KB - PDF)
+български (BG) (1.41 MB - PDF)
 
 **First published:**
 
 19/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/bg/documents/product-information/conexxence-epar-product-information_bg.pdf)
 
-español (ES) (1.51 MB - PDF)
+español (ES) (1.54 MB - PDF)
 
 **First published:**
 
 19/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/es/documents/product-information/conexxence-epar-product-information_es.pdf)
 
-čeština (CS) (1.62 MB - PDF)
+čeština (CS) (1.6 MB - PDF)
 
 **First published:**
 
 19/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/cs/documents/product-information/conexxence-epar-product-information_cs.pdf)
 
-dansk (DA) (1.33 MB - PDF)
+dansk (DA) (1.58 MB - PDF)
 
 **First published:**
 
 19/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/da/documents/product-information/conexxence-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.66 MB - PDF)
+Deutsch (DE) (1.59 MB - PDF)
 
 **First published:**
 
 19/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/de/documents/product-information/conexxence-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.45 MB - PDF)
+eesti keel (ET) (1.47 MB - PDF)
 
 **First published:**
 
 19/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/et/documents/product-information/conexxence-epar-product-information_et.pdf)
 
-ελληνικά (EL) (840.58 KB - PDF)
+ελληνικά (EL) (1.68 MB - PDF)
 
 **First published:**
 
 19/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/el/documents/product-information/conexxence-epar-product-information_el.pdf)
 
-français (FR) (954.78 KB - PDF)
+français (FR) (964.92 KB - PDF)
 
 **First published:**
 
 19/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/fr/documents/product-information/conexxence-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.85 MB - PDF)
+hrvatski (HR) (1.56 MB - PDF)
 
 **First published:**
 
 19/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/hr/documents/product-information/conexxence-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.48 MB - PDF)
+íslenska (IS) (1.5 MB - PDF)
 
 **First published:**
 
 19/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/is/documents/product-information/conexxence-epar-product-information_is.pdf)
 
-italiano (IT) (890.84 KB - PDF)
+italiano (IT) (1.5 MB - PDF)
 
 **First published:**
 
 19/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/it/documents/product-information/conexxence-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (805.23 KB - PDF)
+latviešu valoda (LV) (1.05 MB - PDF)
 
 **First published:**
 
 19/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/lv/documents/product-information/conexxence-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (620.85 KB - PDF)
+lietuvių kalba (LT) (1.54 MB - PDF)
 
 **First published:**
 
 19/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/lt/documents/product-information/conexxence-epar-product-information_lt.pdf)
 
-magyar (HU) (845.11 KB - PDF)
+magyar (HU) (1.22 MB - PDF)
 
 **First published:**
 
 19/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/hu/documents/product-information/conexxence-epar-product-information_hu.pdf)
 
-Malti (MT) (1.8 MB - PDF)
+Malti (MT) (1.81 MB - PDF)
 
 **First published:**
 
 19/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/mt/documents/product-information/conexxence-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.71 MB - PDF)
+Nederlands (NL) (1.72 MB - PDF)
 
 **First published:**
 
 19/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/nl/documents/product-information/conexxence-epar-product-information_nl.pdf)
 
-norsk (NO) (1.47 MB - PDF)
+norsk (NO) (1.49 MB - PDF)
 
 **First published:**
 
 19/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/no/documents/product-information/conexxence-epar-product-information_no.pdf)
 
-polski (PL) (821.35 KB - PDF)
+polski (PL) (1.59 MB - PDF)
 
 **First published:**
 
 19/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/pl/documents/product-information/conexxence-epar-product-information_pl.pdf)
 
-português (PT) (725.07 KB - PDF)
+português (PT) (1.07 MB - PDF)
 
 **First published:**
 
 19/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/pt/documents/product-information/conexxence-epar-product-information_pt.pdf)
 
@@ -469,41 +544,61 @@ română (RO) (1.63 MB - PDF)
 
 19/09/2025
 
+**Last updated:**
+
+26/02/2026
+
 [View](/ro/documents/product-information/conexxence-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1016.84 KB - PDF)
+slovenčina (SK) (995.61 KB - PDF)
 
 **First published:**
 
 19/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/sk/documents/product-information/conexxence-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.39 MB - PDF)
+slovenščina (SL) (1.35 MB - PDF)
 
 **First published:**
 
 19/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/sl/documents/product-information/conexxence-epar-product-information_sl.pdf)
 
-Suomi (FI) (821.67 KB - PDF)
+Suomi (FI) (1.53 MB - PDF)
 
 **First published:**
 
 19/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/fi/documents/product-information/conexxence-epar-product-information_fi.pdf)
 
-svenska (SV) (798.27 KB - PDF)
+svenska (SV) (1.57 MB - PDF)
 
 **First published:**
 
 19/09/2025
 
+**Last updated:**
+
+26/02/2026
+
 [View](/sv/documents/product-information/conexxence-epar-product-information_sv.pdf)
 
-18/07/2025
+**Latest procedure affecting product information:** N/0000332465 26/02/2026
 
 icon globe
 
@@ -527,7 +622,7 @@ English (EN) (44.01 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/conexxence-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-89)
+[Other languages (24)](#file-language-dropdown-763)
 
 български (BG) (55.39 KB - PDF)
 
@@ -757,7 +852,7 @@ Fresenius Kabi Deutschland GmbH
 
 Else-Kroner-Strasse 1
 
-Opinion adopted 22/05/2025 Opinion status Positive Marketing authorisation issued 18/07/2025
+Opinion adopted 22/05/2025 Marketing authorisation issued 18/07/2025 Revision 1
 
 ## Assessment history
 
@@ -766,6 +861,14 @@ Expand section
 Collapse section
 
 ## Changes since initial authorisation of medicine
+
+Conexxence : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (146.45 KB - PDF)
+
+**First published:** 26/02/2026
+
+[View](/en/documents/procedural-steps-after/conexxence-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Conexxence-H-C-006268-0000  : EPAR - Assessment Report
 
@@ -791,11 +894,217 @@ English (EN) (136.59 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-conexxence_en.pdf)
 
-#### News on Conexxence
+## News on Conexxence
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 May 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-may-2025) 23/05/2025
 
-**This page was last updated on** 17/09/2025
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Conexxence : EPAR - Product information - tracked changes
+
+English (EN) (1.5 MB - DOCX)
+
+**First published:** 26/02/2026
+
+[View](/en/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-665)
+
+български (BG) (1.37 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/bg/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (1.59 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/es/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (1.68 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/cs/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (1.75 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/da/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (1.91 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/de/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (1.24 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/et/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (1.68 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/el/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (590.38 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/fr/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (1.32 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/hr/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (3.17 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/is/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (3.23 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/it/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (2.54 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/lv/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (1.77 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/lt/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (1.99 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/hu/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (1.5 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/mt/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (1.48 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/nl/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (1.22 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/no/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (1.74 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/pl/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (1.53 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/pt/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (1.63 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/ro/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (807.1 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/sk/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (1.16 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/sl/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (3.09 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/fi/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (1.63 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/sv/documents/product-information-tracked-changes/conexxence-epar-product-information-tracked-changes_sv.docx)
+
+**This page was last updated on** 26/02/2026
 
 ## Share this page
 

@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 12:05:09
+document_datetime: 2026-02-20 11:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/palonosetron-accord.html
 document_name: palonosetron-accord.html
 version: success
-processing_time: 0.1271852
-conversion_datetime: 2025-12-30 13:06:39.539327
+processing_time: 0.0881961
+conversion_datetime: 2026-03-01 20:07:53.803498
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Palonosetron Accord
 
 [RSS](/en/individual-human-medicine.xml/66818)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 palonosetron Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +104,7 @@ English (EN) (169.3 KB - PDF)
 
 [View](/en/documents/overview/palonosetron-accord-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-696)
+[Other languages (22)](#file-language-dropdown-748)
 
 български (BG) (117.91 KB - PDF)
 
@@ -376,17 +374,17 @@ svenska (SV) (90.5 KB - PDF)
 
 Palonosetron Accord : EPAR - Product Information
 
-English (EN) (360.55 KB - PDF)
+English (EN) (350.71 KB - PDF)
 
 **First published:** 08/06/2016
 
-**Last updated:** 30/10/2025
+**Last updated:** 20/02/2026
 
 [View](/en/documents/product-information/palonosetron-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-829)
+[Other languages (24)](#file-language-dropdown-982)
 
-български (BG) (314.37 KB - PDF)
+български (BG) (451.57 KB - PDF)
 
 **First published:**
 
@@ -394,11 +392,11 @@ English (EN) (360.55 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/bg/documents/product-information/palonosetron-accord-epar-product-information_bg.pdf)
 
-español (ES) (247.61 KB - PDF)
+español (ES) (393.81 KB - PDF)
 
 **First published:**
 
@@ -406,11 +404,11 @@ español (ES) (247.61 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/es/documents/product-information/palonosetron-accord-epar-product-information_es.pdf)
 
-čeština (CS) (379 KB - PDF)
+čeština (CS) (476.83 KB - PDF)
 
 **First published:**
 
@@ -418,11 +416,11 @@ español (ES) (247.61 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/cs/documents/product-information/palonosetron-accord-epar-product-information_cs.pdf)
 
-dansk (DA) (195.88 KB - PDF)
+dansk (DA) (383.92 KB - PDF)
 
 **First published:**
 
@@ -430,11 +428,11 @@ dansk (DA) (195.88 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/da/documents/product-information/palonosetron-accord-epar-product-information_da.pdf)
 
-Deutsch (DE) (207.64 KB - PDF)
+Deutsch (DE) (412.75 KB - PDF)
 
 **First published:**
 
@@ -442,11 +440,11 @@ Deutsch (DE) (207.64 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/de/documents/product-information/palonosetron-accord-epar-product-information_de.pdf)
 
-eesti keel (ET) (206.71 KB - PDF)
+eesti keel (ET) (456.4 KB - PDF)
 
 **First published:**
 
@@ -454,11 +452,11 @@ eesti keel (ET) (206.71 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/et/documents/product-information/palonosetron-accord-epar-product-information_et.pdf)
 
-ελληνικά (EL) (438.85 KB - PDF)
+ελληνικά (EL) (505.27 KB - PDF)
 
 **First published:**
 
@@ -466,11 +464,11 @@ eesti keel (ET) (206.71 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/el/documents/product-information/palonosetron-accord-epar-product-information_el.pdf)
 
-français (FR) (262.3 KB - PDF)
+français (FR) (456.04 KB - PDF)
 
 **First published:**
 
@@ -478,11 +476,11 @@ français (FR) (262.3 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/fr/documents/product-information/palonosetron-accord-epar-product-information_fr.pdf)
 
-hrvatski (HR) (290.86 KB - PDF)
+hrvatski (HR) (422.95 KB - PDF)
 
 **First published:**
 
@@ -490,11 +488,11 @@ hrvatski (HR) (290.86 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/hr/documents/product-information/palonosetron-accord-epar-product-information_hr.pdf)
 
-íslenska (IS) (212.49 KB - PDF)
+íslenska (IS) (440.64 KB - PDF)
 
 **First published:**
 
@@ -502,11 +500,11 @@ hrvatski (HR) (290.86 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/is/documents/product-information/palonosetron-accord-epar-product-information_is.pdf)
 
-italiano (IT) (187.93 KB - PDF)
+italiano (IT) (424.28 KB - PDF)
 
 **First published:**
 
@@ -514,11 +512,11 @@ italiano (IT) (187.93 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/it/documents/product-information/palonosetron-accord-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (292.1 KB - PDF)
+latviešu valoda (LV) (467.11 KB - PDF)
 
 **First published:**
 
@@ -526,11 +524,11 @@ latviešu valoda (LV) (292.1 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/lv/documents/product-information/palonosetron-accord-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (287.02 KB - PDF)
+lietuvių kalba (LT) (465.14 KB - PDF)
 
 **First published:**
 
@@ -538,11 +536,11 @@ lietuvių kalba (LT) (287.02 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/lt/documents/product-information/palonosetron-accord-epar-product-information_lt.pdf)
 
-magyar (HU) (468.14 KB - PDF)
+magyar (HU) (483.51 KB - PDF)
 
 **First published:**
 
@@ -550,11 +548,11 @@ magyar (HU) (468.14 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/hu/documents/product-information/palonosetron-accord-epar-product-information_hu.pdf)
 
-Malti (MT) (458.65 KB - PDF)
+Malti (MT) (453.87 KB - PDF)
 
 **First published:**
 
@@ -562,11 +560,11 @@ Malti (MT) (458.65 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/mt/documents/product-information/palonosetron-accord-epar-product-information_mt.pdf)
 
-Nederlands (NL) (302.99 KB - PDF)
+Nederlands (NL) (467.45 KB - PDF)
 
 **First published:**
 
@@ -574,11 +572,11 @@ Nederlands (NL) (302.99 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/nl/documents/product-information/palonosetron-accord-epar-product-information_nl.pdf)
 
-norsk (NO) (272.49 KB - PDF)
+norsk (NO) (404.16 KB - PDF)
 
 **First published:**
 
@@ -586,11 +584,11 @@ norsk (NO) (272.49 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/no/documents/product-information/palonosetron-accord-epar-product-information_no.pdf)
 
-polski (PL) (299.34 KB - PDF)
+polski (PL) (428.74 KB - PDF)
 
 **First published:**
 
@@ -598,11 +596,11 @@ polski (PL) (299.34 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/pl/documents/product-information/palonosetron-accord-epar-product-information_pl.pdf)
 
-português (PT) (217.45 KB - PDF)
+português (PT) (409.59 KB - PDF)
 
 **First published:**
 
@@ -610,11 +608,11 @@ português (PT) (217.45 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/pt/documents/product-information/palonosetron-accord-epar-product-information_pt.pdf)
 
-română (RO) (309.3 KB - PDF)
+română (RO) (424.83 KB - PDF)
 
 **First published:**
 
@@ -622,11 +620,11 @@ română (RO) (309.3 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/ro/documents/product-information/palonosetron-accord-epar-product-information_ro.pdf)
 
-slovenčina (SK) (284.56 KB - PDF)
+slovenčina (SK) (470.57 KB - PDF)
 
 **First published:**
 
@@ -634,11 +632,11 @@ slovenčina (SK) (284.56 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/sk/documents/product-information/palonosetron-accord-epar-product-information_sk.pdf)
 
-slovenščina (SL) (272.09 KB - PDF)
+slovenščina (SL) (439.88 KB - PDF)
 
 **First published:**
 
@@ -646,11 +644,11 @@ slovenščina (SL) (272.09 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/sl/documents/product-information/palonosetron-accord-epar-product-information_sl.pdf)
 
-Suomi (FI) (196.38 KB - PDF)
+Suomi (FI) (398.71 KB - PDF)
 
 **First published:**
 
@@ -658,11 +656,11 @@ Suomi (FI) (196.38 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/fi/documents/product-information/palonosetron-accord-epar-product-information_fi.pdf)
 
-svenska (SV) (196.94 KB - PDF)
+svenska (SV) (375.63 KB - PDF)
 
 **First published:**
 
@@ -670,11 +668,11 @@ svenska (SV) (196.94 KB - PDF)
 
 **Last updated:**
 
-30/10/2025
+20/02/2026
 
 [View](/sv/documents/product-information/palonosetron-accord-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000296285 28/10/2024
+**Latest procedure affecting product information:** VR/0000325357 18/02/2026
 
 icon globe
 
@@ -700,7 +698,7 @@ English (EN) (17.28 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/palonosetron-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-471)
+[Other languages (24)](#file-language-dropdown-355)
 
 български (BG) (46.25 KB - PDF)
 
@@ -1029,7 +1027,7 @@ Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a
 
-Opinion adopted 31/03/2016 Marketing authorisation issued 26/05/2016 Revision 9
+Opinion adopted 31/03/2016 Marketing authorisation issued 26/05/2016 Revision 10
 
 ## Assessment history
 
@@ -1041,11 +1039,11 @@ Collapse section
 
 Palonosetron Accord : Procedural steps taken and scientific information after authorisation
 
-English (EN) (158.67 KB - PDF)
+English (EN) (163.05 KB - PDF)
 
 **First published:** 21/05/2024
 
-**Last updated:** 30/10/2025
+**Last updated:** 20/02/2026
 
 [View](/en/documents/procedural-steps-after/palonosetron-accord-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1089,11 +1087,11 @@ English (EN) (68.35 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-opinion-palonosetron-accord_en.pdf)
 
-#### News on Palonosetron Accord
+## News on Palonosetron Accord
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 29 March - 1 April 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-29-march-1-april-2016) 01/04/2016
 
-#### More information on Palonosetron Accord
+## More information on Palonosetron Accord
 
 Questions and answers on generic medicines
 
@@ -1107,7 +1105,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-413)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1373,16 +1371,16 @@ svenska (SV) (67.11 KB - PDF)
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-#### Related information
+## Related information
 
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/search?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-1=1=EMEAHC0041290000) (initial marketing authorisation)
 
-#### Topics
+## Topics
 
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 30/10/2025
+**This page was last updated on** 20/02/2026
 
 ## Share this page
 

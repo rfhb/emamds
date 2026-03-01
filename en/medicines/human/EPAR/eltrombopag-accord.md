@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 10:38:40
+document_datetime: 2026-02-25 15:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eltrombopag-accord.html
 document_name: eltrombopag-accord.html
 version: success
-processing_time: 0.127922
-conversion_datetime: 2025-12-31 05:16:39.558001
+processing_time: 0.1091348
+conversion_datetime: 2026-03-01 19:59:40.136498
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Eltrombopag Accord
 
 [RSS](/en/individual-human-medicine.xml/254531)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 eltrombopag Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +101,7 @@ English (EN) (140 KB - PDF)
 
 [View](/en/documents/overview/eltrombopag-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-990)
+[Other languages (22)](#file-language-dropdown-535)
 
 български (BG) (191.24 KB - PDF)
 
@@ -283,9 +281,11 @@ svenska (SV) (165.49 KB - PDF)
 
 Eltrombopag Accord : EPAR - Risk management plan
 
-English (EN) (484.4 KB - PDF)
+English (EN) (1.4 MB - PDF)
 
 **First published:** 23/04/2025
+
+**Last updated:** 25/02/2026
 
 [View](/en/documents/rmp/eltrombopag-accord-epar-risk-management-plan_en.pdf)
 
@@ -301,7 +301,7 @@ English (EN) (599.55 KB - PDF)
 
 [View](/en/documents/product-information/eltrombopag-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-93)
+[Other languages (24)](#file-language-dropdown-569)
 
 български (BG) (814.97 KB - PDF)
 
@@ -617,7 +617,7 @@ English (EN) (87.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/eltrombopag-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-751)
+[Other languages (24)](#file-language-dropdown-337)
 
 български (BG) (125.39 KB - PDF)
 
@@ -933,7 +933,7 @@ Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a
 
-Opinion adopted 30/01/2025 Marketing authorisation issued 28/03/2025 Revision 4
+Opinion adopted 30/01/2025 Marketing authorisation issued 28/03/2025 Revision 5
 
 ## Assessment history
 
@@ -945,11 +945,11 @@ Collapse section
 
 Eltrombopag Accord : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (151.22 KB - PDF)
+English (EN) (156.82 KB - PDF)
 
 **First published:** 20/05/2025
 
-**Last updated:** 13/10/2025
+**Last updated:** 25/02/2026
 
 [View](/en/documents/procedural-steps-after/eltrombopag-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -989,11 +989,11 @@ English (EN) (155.64 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-eltrombopag-accord_en.pdf)
 
-#### News on Eltrombopag Accord
+## News on Eltrombopag Accord
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 January 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-january-2025) 31/01/2025
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1005,7 +1005,7 @@ English (EN) (297.93 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-24)
+[Other languages (24)](#file-language-dropdown-457)
 
 български (BG) (384.27 KB - DOCX)
 
@@ -1199,7 +1199,7 @@ svenska (SV) (304.86 KB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_sv.docx)
 
-**This page was last updated on** 13/10/2025
+**This page was last updated on** 25/02/2026
 
 ## Share this page
 

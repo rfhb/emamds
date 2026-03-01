@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-01-23 09:35:00
+document_datetime: 2026-02-25 16:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/steqeyma.html
 document_name: steqeyma.html
 version: success
-processing_time: 0.1173764
-conversion_datetime: 2026-01-26 20:32:41.006678
+processing_time: 0.074344
+conversion_datetime: 2026-03-01 20:10:17.895398
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.70.0
-  docling-core: 2.60.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
   docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Steqeyma
 
 [RSS](/en/individual-human-medicine.xml/244584)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -113,7 +113,7 @@ English (EN) (136.51 KB - PDF)
 
 [View](/en/documents/overview/steqeyma-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-820)
+[Other languages (22)](#file-language-dropdown-934)
 
 български (BG) (162.8 KB - PDF)
 
@@ -305,17 +305,17 @@ English (EN) (1.43 MB - PDF)
 
 Steqeyma : EPAR - Product information
 
-English (EN) (4.02 MB - PDF)
+English (EN) (4.4 MB - PDF)
 
 **First published:** 11/09/2024
 
-**Last updated:** 23/01/2026
+**Last updated:** 25/02/2026
 
 [View](/en/documents/product-information/steqeyma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-9)
+[Other languages (24)](#file-language-dropdown-64)
 
-български (BG) (4.35 MB - PDF)
+български (BG) (4.41 MB - PDF)
 
 **First published:**
 
@@ -323,11 +323,11 @@ English (EN) (4.02 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/bg/documents/product-information/steqeyma-epar-product-information_bg.pdf)
 
-español (ES) (3.79 MB - PDF)
+español (ES) (4.24 MB - PDF)
 
 **First published:**
 
@@ -335,11 +335,11 @@ español (ES) (3.79 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/es/documents/product-information/steqeyma-epar-product-information_es.pdf)
 
-čeština (CS) (4.24 MB - PDF)
+čeština (CS) (4.39 MB - PDF)
 
 **First published:**
 
@@ -347,11 +347,11 @@ español (ES) (3.79 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/cs/documents/product-information/steqeyma-epar-product-information_cs.pdf)
 
-dansk (DA) (4.13 MB - PDF)
+dansk (DA) (4.17 MB - PDF)
 
 **First published:**
 
@@ -359,11 +359,11 @@ dansk (DA) (4.13 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/da/documents/product-information/steqeyma-epar-product-information_da.pdf)
 
-Deutsch (DE) (4.13 MB - PDF)
+Deutsch (DE) (4.11 MB - PDF)
 
 **First published:**
 
@@ -371,11 +371,11 @@ Deutsch (DE) (4.13 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/de/documents/product-information/steqeyma-epar-product-information_de.pdf)
 
-eesti keel (ET) (3.98 MB - PDF)
+eesti keel (ET) (4.1 MB - PDF)
 
 **First published:**
 
@@ -383,11 +383,11 @@ eesti keel (ET) (3.98 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/et/documents/product-information/steqeyma-epar-product-information_et.pdf)
 
-ελληνικά (EL) (4.07 MB - PDF)
+ελληνικά (EL) (4.43 MB - PDF)
 
 **First published:**
 
@@ -395,11 +395,11 @@ eesti keel (ET) (3.98 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/el/documents/product-information/steqeyma-epar-product-information_el.pdf)
 
-français (FR) (3.81 MB - PDF)
+français (FR) (4.25 MB - PDF)
 
 **First published:**
 
@@ -407,11 +407,11 @@ français (FR) (3.81 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/fr/documents/product-information/steqeyma-epar-product-information_fr.pdf)
 
-hrvatski (HR) (4.34 MB - PDF)
+hrvatski (HR) (4.36 MB - PDF)
 
 **First published:**
 
@@ -419,11 +419,11 @@ hrvatski (HR) (4.34 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/hr/documents/product-information/steqeyma-epar-product-information_hr.pdf)
 
-íslenska (IS) (4.35 MB - PDF)
+íslenska (IS) (4.34 MB - PDF)
 
 **First published:**
 
@@ -431,11 +431,11 @@ hrvatski (HR) (4.34 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/is/documents/product-information/steqeyma-epar-product-information_is.pdf)
 
-italiano (IT) (4.12 MB - PDF)
+italiano (IT) (4.26 MB - PDF)
 
 **First published:**
 
@@ -443,11 +443,11 @@ italiano (IT) (4.12 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/it/documents/product-information/steqeyma-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (4.11 MB - PDF)
+latviešu valoda (LV) (4 MB - PDF)
 
 **First published:**
 
@@ -455,11 +455,11 @@ latviešu valoda (LV) (4.11 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/lv/documents/product-information/steqeyma-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (3.97 MB - PDF)
+lietuvių kalba (LT) (4.04 MB - PDF)
 
 **First published:**
 
@@ -467,11 +467,11 @@ lietuvių kalba (LT) (3.97 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/lt/documents/product-information/steqeyma-epar-product-information_lt.pdf)
 
-magyar (HU) (4.17 MB - PDF)
+magyar (HU) (4.42 MB - PDF)
 
 **First published:**
 
@@ -479,11 +479,11 @@ magyar (HU) (4.17 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/hu/documents/product-information/steqeyma-epar-product-information_hu.pdf)
 
-Malti (MT) (4.37 MB - PDF)
+Malti (MT) (4.49 MB - PDF)
 
 **First published:**
 
@@ -491,11 +491,11 @@ Malti (MT) (4.37 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/mt/documents/product-information/steqeyma-epar-product-information_mt.pdf)
 
-Nederlands (NL) (4.28 MB - PDF)
+Nederlands (NL) (4.42 MB - PDF)
 
 **First published:**
 
@@ -503,11 +503,11 @@ Nederlands (NL) (4.28 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/nl/documents/product-information/steqeyma-epar-product-information_nl.pdf)
 
-norsk (NO) (3.81 MB - PDF)
+norsk (NO) (4.22 MB - PDF)
 
 **First published:**
 
@@ -515,11 +515,11 @@ norsk (NO) (3.81 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/no/documents/product-information/steqeyma-epar-product-information_no.pdf)
 
-polski (PL) (4.17 MB - PDF)
+polski (PL) (4.3 MB - PDF)
 
 **First published:**
 
@@ -527,11 +527,11 @@ polski (PL) (4.17 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/pl/documents/product-information/steqeyma-epar-product-information_pl.pdf)
 
-português (PT) (4.04 MB - PDF)
+português (PT) (4.2 MB - PDF)
 
 **First published:**
 
@@ -539,11 +539,11 @@ português (PT) (4.04 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/pt/documents/product-information/steqeyma-epar-product-information_pt.pdf)
 
-română (RO) (4.22 MB - PDF)
+română (RO) (4.34 MB - PDF)
 
 **First published:**
 
@@ -551,11 +551,11 @@ română (RO) (4.22 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/ro/documents/product-information/steqeyma-epar-product-information_ro.pdf)
 
-slovenčina (SK) (4.27 MB - PDF)
+slovenčina (SK) (4.24 MB - PDF)
 
 **First published:**
 
@@ -563,7 +563,7 @@ slovenčina (SK) (4.27 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/sk/documents/product-information/steqeyma-epar-product-information_sk.pdf)
 
@@ -575,11 +575,11 @@ slovenščina (SL) (4.24 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/sl/documents/product-information/steqeyma-epar-product-information_sl.pdf)
 
-Suomi (FI) (3.95 MB - PDF)
+Suomi (FI) (4.36 MB - PDF)
 
 **First published:**
 
@@ -587,11 +587,11 @@ Suomi (FI) (3.95 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/fi/documents/product-information/steqeyma-epar-product-information_fi.pdf)
 
-svenska (SV) (4.17 MB - PDF)
+svenska (SV) (4.14 MB - PDF)
 
 **First published:**
 
@@ -599,11 +599,11 @@ svenska (SV) (4.17 MB - PDF)
 
 **Last updated:**
 
-23/01/2026
+25/02/2026
 
 [View](/sv/documents/product-information/steqeyma-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000292238 11/12/2025
+**Latest procedure affecting product information:** VR/0000293236 15/01/2026
 
 icon globe
 
@@ -629,7 +629,7 @@ English (EN) (62.4 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/steqeyma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-611)
+[Other languages (24)](#file-language-dropdown-819)
 
 български (BG) (56.15 KB - PDF)
 
@@ -969,7 +969,7 @@ Celltrion Healthcare Hungary Kft.
 
 1062 Budapest
 
-Opinion adopted 27/06/2024 Marketing authorisation issued 22/08/2024 Revision 7
+Opinion adopted 27/06/2024 Marketing authorisation issued 22/08/2024 Revision 8
 
 ## Assessment history
 
@@ -981,11 +981,11 @@ Collapse section
 
 Steqeyma : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (180.86 KB - PDF)
+English (EN) (181.07 KB - PDF)
 
 **First published:** 12/06/2025
 
-**Last updated:** 23/01/2026
+**Last updated:** 25/02/2026
 
 [View](/en/documents/procedural-steps-after/steqeyma-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1025,11 +1025,11 @@ English (EN) (154.23 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-steqeyma_en.pdf)
 
-#### News on Steqeyma
+## News on Steqeyma
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2024) 28/06/2024
 
-**This page was last updated on** 23/01/2026
+**This page was last updated on** 25/02/2026
 
 ## Share this page
 

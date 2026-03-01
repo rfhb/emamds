@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 09:25:52
+document_datetime: 2026-02-25 14:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sprycel.html
 document_name: sprycel.html
 version: success
-processing_time: 0.1288903
-conversion_datetime: 2025-12-29 23:04:57.546899
+processing_time: 0.1223834
+conversion_datetime: 2026-03-01 19:29:24.412957
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Sprycel
 
 [RSS](/en/individual-human-medicine.xml/66480)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 dasatinib (anhydrous) Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -38,6 +36,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Sprycel](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-83720)
 - [More information on Sprycel](#more-information-on-sprycel-709)
 - [More information on Sprycel](#related-medicines)
 - [Topics](#topics)
@@ -123,7 +122,7 @@ English (EN) (87.85 KB - PDF)
 
 [View](/en/documents/overview/sprycel-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-310)
+[Other languages (22)](#file-language-dropdown-517)
 
 български (BG) (117.94 KB - PDF)
 
@@ -411,17 +410,17 @@ English (EN) (6 MB - PDF)
 
 Sprycel : EPAR - Product Information
 
-English (EN) (1.39 MB - PDF)
+English (EN) (1.73 MB - PDF)
 
 **First published:** 18/08/2009
 
-**Last updated:** 15/05/2025
+**Last updated:** 25/02/2026
 
 [View](/en/documents/product-information/sprycel-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-811)
+[Other languages (24)](#file-language-dropdown-158)
 
-български (BG) (1.95 MB - PDF)
+български (BG) (2.2 MB - PDF)
 
 **First published:**
 
@@ -429,11 +428,11 @@ English (EN) (1.39 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/bg/documents/product-information/sprycel-epar-product-information_bg.pdf)
 
-español (ES) (1.72 MB - PDF)
+español (ES) (1.91 MB - PDF)
 
 **First published:**
 
@@ -441,11 +440,11 @@ español (ES) (1.72 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/es/documents/product-information/sprycel-epar-product-information_es.pdf)
 
-čeština (CS) (1.92 MB - PDF)
+čeština (CS) (2.12 MB - PDF)
 
 **First published:**
 
@@ -453,11 +452,11 @@ español (ES) (1.72 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/cs/documents/product-information/sprycel-epar-product-information_cs.pdf)
 
-dansk (DA) (1.77 MB - PDF)
+dansk (DA) (1.9 MB - PDF)
 
 **First published:**
 
@@ -465,11 +464,11 @@ dansk (DA) (1.77 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/da/documents/product-information/sprycel-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.82 MB - PDF)
+Deutsch (DE) (1.62 MB - PDF)
 
 **First published:**
 
@@ -477,11 +476,11 @@ Deutsch (DE) (1.82 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/de/documents/product-information/sprycel-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.69 MB - PDF)
+eesti keel (ET) (1.9 MB - PDF)
 
 **First published:**
 
@@ -489,11 +488,11 @@ eesti keel (ET) (1.69 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/et/documents/product-information/sprycel-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.95 MB - PDF)
+ελληνικά (EL) (2.17 MB - PDF)
 
 **First published:**
 
@@ -501,11 +500,11 @@ eesti keel (ET) (1.69 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/el/documents/product-information/sprycel-epar-product-information_el.pdf)
 
-français (FR) (1.86 MB - PDF)
+français (FR) (1.95 MB - PDF)
 
 **First published:**
 
@@ -513,11 +512,11 @@ français (FR) (1.86 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/fr/documents/product-information/sprycel-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.87 MB - PDF)
+hrvatski (HR) (2.08 MB - PDF)
 
 **First published:**
 
@@ -525,11 +524,11 @@ hrvatski (HR) (1.87 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/hr/documents/product-information/sprycel-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.69 MB - PDF)
+íslenska (IS) (1.52 MB - PDF)
 
 **First published:**
 
@@ -537,7 +536,7 @@ hrvatski (HR) (1.87 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/is/documents/product-information/sprycel-epar-product-information_is.pdf)
 
@@ -549,11 +548,11 @@ italiano (IT) (1.74 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/it/documents/product-information/sprycel-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.89 MB - PDF)
+latviešu valoda (LV) (2.11 MB - PDF)
 
 **First published:**
 
@@ -561,11 +560,11 @@ latviešu valoda (LV) (1.89 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/lv/documents/product-information/sprycel-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.9 MB - PDF)
+lietuvių kalba (LT) (1.98 MB - PDF)
 
 **First published:**
 
@@ -573,11 +572,11 @@ lietuvių kalba (LT) (1.9 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/lt/documents/product-information/sprycel-epar-product-information_lt.pdf)
 
-magyar (HU) (2.02 MB - PDF)
+magyar (HU) (2.16 MB - PDF)
 
 **First published:**
 
@@ -585,11 +584,11 @@ magyar (HU) (2.02 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/hu/documents/product-information/sprycel-epar-product-information_hu.pdf)
 
-Malti (MT) (2.24 MB - PDF)
+Malti (MT) (2.17 MB - PDF)
 
 **First published:**
 
@@ -597,11 +596,11 @@ Malti (MT) (2.24 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/mt/documents/product-information/sprycel-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.75 MB - PDF)
+Nederlands (NL) (1.94 MB - PDF)
 
 **First published:**
 
@@ -609,11 +608,11 @@ Nederlands (NL) (1.75 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/nl/documents/product-information/sprycel-epar-product-information_nl.pdf)
 
-norsk (NO) (1.79 MB - PDF)
+norsk (NO) (1.54 MB - PDF)
 
 **First published:**
 
@@ -621,11 +620,11 @@ norsk (NO) (1.79 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/no/documents/product-information/sprycel-epar-product-information_no.pdf)
 
-polski (PL) (1.92 MB - PDF)
+polski (PL) (1.94 MB - PDF)
 
 **First published:**
 
@@ -633,11 +632,11 @@ polski (PL) (1.92 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/pl/documents/product-information/sprycel-epar-product-information_pl.pdf)
 
-português (PT) (1.76 MB - PDF)
+português (PT) (1.94 MB - PDF)
 
 **First published:**
 
@@ -645,11 +644,11 @@ português (PT) (1.76 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/pt/documents/product-information/sprycel-epar-product-information_pt.pdf)
 
-română (RO) (1.86 MB - PDF)
+română (RO) (2.1 MB - PDF)
 
 **First published:**
 
@@ -657,11 +656,11 @@ română (RO) (1.86 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/ro/documents/product-information/sprycel-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.97 MB - PDF)
+slovenčina (SK) (2.04 MB - PDF)
 
 **First published:**
 
@@ -669,11 +668,11 @@ slovenčina (SK) (1.97 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/sk/documents/product-information/sprycel-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.88 MB - PDF)
+slovenščina (SL) (2.12 MB - PDF)
 
 **First published:**
 
@@ -681,11 +680,11 @@ slovenščina (SL) (1.88 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/sl/documents/product-information/sprycel-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.9 MB - PDF)
+Suomi (FI) (1.97 MB - PDF)
 
 **First published:**
 
@@ -693,7 +692,7 @@ Suomi (FI) (1.9 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/fi/documents/product-information/sprycel-epar-product-information_fi.pdf)
 
@@ -705,11 +704,11 @@ svenska (SV) (1.75 MB - PDF)
 
 **Last updated:**
 
-15/05/2025
+25/02/2026
 
 [View](/sv/documents/product-information/sprycel-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000254764 14/05/2025
+**Latest procedure affecting product information:** VR/0000320681 24/02/2026
 
 icon globe
 
@@ -735,7 +734,7 @@ English (EN) (55.9 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sprycel-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-743)
+[Other languages (24)](#file-language-dropdown-351)
 
 български (BG) (80.47 KB - PDF)
 
@@ -1063,7 +1062,7 @@ Bristol-Myers Squibb Pharma EEIG
 
 Plaza 254
 
-Opinion adopted 21/09/2006 Marketing authorisation issued 20/11/2006 Revision 45
+Opinion adopted 21/09/2006 Marketing authorisation issued 20/11/2006 Revision 46
 
 ## Assessment history
 
@@ -1075,9 +1074,11 @@ Collapse section
 
 Sprycel : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (133.38 KB - PDF)
+English (EN) (145.79 KB - PDF)
 
 **First published:** 15/05/2025
+
+**Last updated:** 25/02/2026
 
 [View](/en/documents/procedural-steps-after/sprycel-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1289,13 +1290,219 @@ English (EN) (349.15 KB - PDF)
 
 [View](/en/documents/scientific-discussion/sprycel-epar-scientific-discussion_en.pdf)
 
-#### News on Sprycel
+## News on Sprycel
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 December 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-december-2018) 14/12/2018
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 April 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-april-2018) 27/04/2018
 
-#### More information on Sprycel
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Sprycel : EPAR - Product information - tracked changes
+
+English (EN) (1.2 MB - DOCX)
+
+**First published:** 25/02/2026
+
+[View](/en/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-846)
+
+български (BG) (1.23 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/bg/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (1.2 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/es/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (1.2 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/cs/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (1.18 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/da/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (1.22 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/de/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (1.19 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/et/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (1.24 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/el/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (1.18 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/fr/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (1.22 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/hr/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (1.2 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/is/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (1.19 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/it/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (1.2 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/lv/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (1.2 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/lt/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (1.22 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/hu/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (1.13 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/mt/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (1.19 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/nl/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (1.2 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/no/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (1.19 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/pl/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (1.2 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/pt/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (1.2 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/ro/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (1.21 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/sk/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (1.26 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/sl/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (1.2 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/fi/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (1.19 MB - DOCX)
+
+**First published:**
+
+25/02/2026
+
+[View](/sv/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_sv.docx)
+
+## More information on Sprycel
 
 This product is no longer an orphan medicine. It was originally designated an orphan medicine for the following orphan indications:
 
@@ -1304,16 +1511,16 @@ This product is no longer an orphan medicine. It was originally designated an or
 
 Sprycel was withdrawn from the Community register of orphan medicinal products in November 2016 at the end of the 10-year period of market exclusivity.
 
-#### More information on Sprycel
+## More information on Sprycel
 
 - [EMEA-000567-PIP01-09-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000567-pip01-09-m05)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 - [Paediatrics](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A65)
 
-**This page was last updated on** 18/06/2025
+**This page was last updated on** 25/02/2026
 
 ## Share this page
 

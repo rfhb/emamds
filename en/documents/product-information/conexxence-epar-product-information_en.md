@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-19 14:32:04
-document_pages: 36
+document_datetime: 2026-02-26 10:06:13
+document_pages: 37
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/conexxence-epar-product-information_en.pdf
 document_name: conexxence-epar-product-information_en.pdf
 version: success
-processing_time: 8.085319
-conversion_datetime: 2025-12-25 02:47:20.70191
+processing_time: 9.3683511
+conversion_datetime: 2026-03-01 20:04:42.496557
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -956,9 +956,149 @@ Fresenius Kabi Deutschland GmbH Else-Kroener-Strasse 1, 61352 Bad Homburg von de
 
 Fresenius Kabi Austria GmbH Hafnerstrasse 36 8055 Graz Austria
 
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+Fresenius Kabi nv/sa Tél/Tel: +32 3 880 73 00
+
+## България
+
+Fresenius Kabi Deutschland GmbH Тел.: +49 0800 788 7070
+
+## Česká republika
+
+Fresenius Kabi s.r.o.
+
+Tel: +420 225 270 111
+
+## Danmark
+
+Fresenius Kabi filial af Fresenius Kabi AB Sverige Tlf.: +45 33181600
+
+## Deutschland
+
+Fresenius Kabi Deutschland GmbH Tel: +49 0800 788 7070
+
+## Eesti
+
+Fresenius Kabi Deutschland GmbH Tel: +49 0800 788 7070
+
+## Ελλάδα
+
+FRESENIUS KABI HELLAS ΜΟΝΟΠΡΟΣΩΠΗ ΑΕ
+
+## Lietuva
+
+UAB Fresenius Kabi Baltics Tel: +370 5 252 3213
+
+## Luxembourg/Luxemburg
+
+Fresenius Kabi nv/sa Tél/Tel: +32 3 880 73 00
+
+## Magyarország
+
+Fresenius Kabi Hungary Kft. Tel: +36 1 250 8371
+
+## Malta
+
+Fresenius Kabi Deutschland GmbH
+
+Tel: +49 0800 788 7070
+
+## Nederland
+
+Fresenius Kabi Nederland bv Tel: +32 3 880 73 00
+
+## Norge
+
+Fresenius Kabi Norge AS Tlf: +47 22 58 80 00
+
+## Österreich
+
+Fresenius Kabi Deutschland GmbH
+
+Τηλ: +30 210 6542909
+
+Tel: +49 0800 788 7070
+
+## España
+
+Laboratorios Rubió, S.A.
+
+Tel: +34 93 772 25 09
+
+## Polska
+
+Fresenius Kabi Polska Sp. z o.o. Tel: +48 22 345 67 89
+
+## France
+
+Fresenius Kabi France
+
+Tél: +33 1 41 14 26 00
+
+## Portugal
+
+Fresenius Kabi Pharma Portugal, Lda, Tel: +351 21 424 1280
+
+## Hrvatska
+
+Fresenius Kabi d.o.o.
+
+Tel: +385 1 2333 242
+
+## România
+
+FRESENIUS KABI ROMANIA SRL Tel: +40 (0)268 40 62 60
+
+## Ireland
+
+Fresenius Kabi Ireland
+
+Tel: +353 (0) 1841 3030
+
+## Slovenija
+
+Fresenius Kabi Deutschland GmbH Tel: +49 0800 788 7070
+
+## Ísland
+
+Vistor
+
+Simi: +354 535 7000
+
+## Slovenská republika
+
+Fresenius Kabi s.r.o., organizačná zložka Tel: +421 232 101 621
+
+## Italia
+
+Fresenius Kabi Italia S.r.l
+
+Tel: +39 0456649311
+
+## Suomi/Finland
+
+Fresenius Kabi AB- filial I Finland, sivuliike Suomessa Puh/Tel: +358 9 428 1550
+
+## Κύπρος
+
+Innopro Healthcare Ltd Τηλ: +357 22483000
+
+## Sverige
+
+Fresenius Kabi AB Tfn: +46 18 64 40 00
+
+## Latvija
+
+Fresenius Kabi Deutschland GmbH Tel: +49 0800 788 7070
+
+<div style=\"page-break-after: always\"></div>
+
 ## This leaflet was last revised in
 
-Other sources of information
+## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/en
 

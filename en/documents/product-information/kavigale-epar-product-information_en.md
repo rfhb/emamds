@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-17 11:14:01
+document_datetime: 2026-02-25 16:14:37
 document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kavigale-epar-product-information_en.pdf
 document_name: kavigale-epar-product-information_en.pdf
 version: success
-processing_time: 6.0492154
-conversion_datetime: 2025-12-20 02:31:31.309496
+processing_time: 6.5114091
+conversion_datetime: 2026-03-01 19:49:49.633414
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -104,7 +104,7 @@ After infusion, the administration set should be flushed with sufficient sodium 
 
 ## Infusion using an infusion bag
 
-Following dilution with sodium chloride 9 mg/ml (0.9%) solution for injection or dextrose 50 mg/ml (5%) solution for injection, this medicinal product should be administered as an infusion by gravity or with an infusion pump over approximately 20 minutes using an administration set with a sterile, low-protein binding 0.2 or 0.22 micron in-line filter.
+Following dilution with sodium chloride 9 mg/ml (0.9%) solution for injection or dextrose 50 mg/ml (5%) solution for injection, this medicinal product should be administered as an infusion by gravity or with an infusion pump over approximately 20 minutes using an administration set with a sterile, low protein-binding 0.2 or 0.22 micron in-line filter.
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.
 
@@ -190,7 +190,7 @@ KAVIGALE has no or negligible influence on the ability to drive and use machines
 
 ## Summary of the safety profile
 
-In patients receiving sipavibart by intramuscular injection, the most common adverse reaction is injection site reaction (4.1%). In patients receiving sipavibart by intravenous infusion, the most common adverse reactions are infusion site reactions (1.9%) and infusion-related reactions (1.9%).
+In patients receiving sipavibart by intramuscular injection, the most common adverse reactions are injection site reactions (5.6%) and hypersensitivity (1.9%). In patients receiving sipavibart by intravenous infusion, the most common adverse reactions are infusion site reactions (1.9%) and infusion-related reactions (1.9%).
 
 ## Tabulated list of adverse reactions
 
@@ -205,15 +205,13 @@ The adverse reactions in Table 1 are listed by MedDRA system organ class (SOC). 
 | MedDRA SOC                                           | MedDRA Preferred Term        | Frequency                    |
 |------------------------------------------------------|------------------------------|------------------------------|
 | Intramuscular administration                         | Intramuscular administration | Intramuscular administration |
-| Immune system disorders                              | Hypersensitivity a           | Uncommon                     |
+| Immune system disorders                              | Hypersensitivity a           | Common                       |
 | General disorders and administration site conditions | Injection site reaction b    | Common                       |
 | Intravenous administration                           | Intravenous administration   | Intravenous administration   |
 | General disorders and administration site conditions | Infusion site reaction c     | Common                       |
 | Injury, poisoning and procedural complications       | Infusion related reaction d  | Common                       |
 
-a Including the following preferred terms: pruritus, erythema, hypersensitivity, urticaria, dermatitis allergic, and drug eruption.
-
-- b Including the following preferred terms: injection site pain, injection site bruising, injection site erythema, injection site haemorrhage, injection site swelling, injection site haematoma, injection site pruritus, injection site paraesthesia, injection site reaction, injection site rash, injection site discolouration, and injection site warmth.
+- b Including the following preferred terms: injection site pain, injection site bruising, injection site erythema, injection site haemorrhage, injection site swelling, injection site haematoma, injection site pruritus, injection site paraesthesia, injection site reaction, injection site rash, injection site discolouration, injection site warmth, injection site discomfort, and injection site inflammation.
 - c Including the following preferred terms: infusion site bruising, infusion site pain, infusion site pruritus, infusion site erythema, infusion site extravasation, and infusion site swelling.
 - d Including the following symptoms: nausea, arthralgia, headache, pyrexia, chills, dyspepsia, pain, hypotension, facial flushing, coughing, chest discomfort, dizziness, and shortness of breath.
 
@@ -325,13 +323,13 @@ e Presumed IC50 based on presence of F456L mutation in the variant.
 
 ## Immunogenicity
 
-Treatment-emergent anti-drug antibodies (ADA) were uncommonly (0.8% (5/604)) detected. No evidence of ADA impact on pharmacokinetics, efficacy or safety was observed. However, data are still limited.
+Treatment-emergent anti-drug antibodies (ADA) were uncommonly (0.8% (5/611)) detected in participants with evaluable ADA data. No evidence of ADA impact on pharmacokinetics, efficacy or safety was observed. However, data are still limited.
 
 ## Clinical efficacy
 
 ## SUPERNOVA parent study, main cohort
 
-The SUPERNOVA parent study, main cohort is a Phase III, randomised (1:1), double-blind, comparator-controlled clinical trial studying sipavibart for the pre-exposure prophylaxis of COVID-19 in immunocompromised adults and adolescents ≥ 12 years of age. This study started in March 2023 and the primary analysis is dated March 2024 during a period in which mixed variants, including both susceptible and non-susceptible variants, were circulating.
+The SUPERNOVA parent study, main cohort is a Phase III, randomised (1:1), double-blind, comparator-controlled clinical trial studying sipavibart for the pre-exposure prophylaxis of COVID-19 in immunocompromised adults and adolescents ≥ 12 years of age. This study started in March 2023 and the primary analysis is dated April 2024 during a period in which mixed variants, including both susceptible and non-susceptible variants, were circulating. The final analysis is dated June 2025, following the completion of all participant study visits.
 
 A total of 1 669 adults and adolescents ≥ 12 years of age and weighing at least 40 kg were randomised to receive a single dose of sipavibart 300 mg via intramuscular injection, and 1 666 were randomised to receive a comparator (tixagevimab 300 mg + cilgavimab 300 mg or placebo). Participants received a second dose of sipavibart 300 mg or placebo 6 months after the initial dose. The study excluded participants who received COVID-19 vaccine or those with a history of laboratory-confirmed or rapid-test confirmed SARS-CoV-2 infection within 3 months prior to the first visit. At interim analysis, the median follow-up time post-second dose was 61 days (range 1 to 180 days).
 
@@ -354,7 +352,7 @@ Relative risk reduction where events were counted regardless of receipt of COVID
 
 <div style=\"page-break-after: always\"></div>
 
-## Table 3 Relative risk reduction of symptomatic COVID-19
+Table 3 Relative risk reduction of symptomatic COVID-19 based on primary analysis
 
 |                                                                   | N                                                                 | Number of events, n (%)                                           | Relative risk reduction, %(CI) b   |
 |-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------|
@@ -365,11 +363,7 @@ Relative risk reduction where events were counted regardless of receipt of COVID
 | Sipavibart                                                        | 1 649                                                             | 72 (4.4%)                                                         | 35.3% (95% CI: 12.7, 52.0)         |
 | Comparator a                                                      | 1 631                                                             | 108 (6.6%)                                                        | 35.3% (95% CI: 12.7, 52.0)         |
 
-CI = Confidence Interval, N = number of participants in the analysis.
-
-a The comparator was either tixagevimab + cilgavimab or placebo.
-
-b Not multiplicity controlled.
+At final analysis, sipavibart demonstrated an overall risk reduction of 22.1% (95% CI: 7.1, 34.7) in the six-month period following an intramuscular dose of 300 mg for all variants (229/1649 [13.9%] events in the sipavibart arm versus 281/1631 [17.2%] in the comparator arm). For the matched non-F456L analysis, sipavibart demonstrated an overall risk reduction of 32.4% (95% CI: 9.4, 49.5) in the six-month period following an intramuscular dose of 300 mg (78/1649 [4.7%] events in the sipavibart arm versus 112/1631 [6.9%] in the comparator arm). The median follow-up time post-second dose was 267 days (range 5 to 358 days).
 
 ## Paediatric population
 
@@ -381,21 +375,21 @@ Following a single dose, sipavibart demonstrated approximately dose proportional
 
 ## Absorption
 
-Following a single 300 mg intramuscular dose of sipavibart in the anterolateral thigh, the geometric mean (geometric coefficient of variation (CV%)) of the maximum serum concentration (Cmax) of sipavibart was 48.0 (25.2%) μg/ml. The median time (range) to Cmax was 7.5 (3.9, 53) days.
+Following a single 300 mg intramuscular dose of sipavibart in the anterolateral thigh, the geometric mean (geometric coefficient of variation (CV%)) of the maximum serum concentration (Cmax) of sipavibart was 49.7 (26.8%) μg/ml. The median time (range) to Cmax was 7.1 (3.0, 53) days.
 
-Based on population PK analysis, the estimated absolute bioavailability of sipavibart following intramuscular administration in the anterolateral thigh is 80.7%.
+The absolute bioavailability of sipavibart following 300 mg intramuscular administration in the anterolateral thigh was 61.6%.
 
-Following the first and second dose of 300 mg sipavibart administered intramuscularly in the anterolateral thigh, the geometric mean serum sipavibart concentrations (CV%) at one-month post-dose were 29.8 (36.2%) μg/ml and 30.8 (54.3%) μg/ml, respectively. Doses were administered 6 months apart.
+Following the first and second dose of 300 mg sipavibart administered intramuscularly in the anterolateral thigh, the geometric mean serum sipavibart concentrations (CV%) at one-month post-dose were 30.1 (35.9%) μg/ml and 33.0 (50.8%) μg/ml, respectively. Doses were administered 6 months apart.
 
-Following a single infusion of 300 mg and 1 200 mg sipavibart (infusion rate: 50 mg/min), the geometric mean (CV%) serum concentration of sipavibart at 20 minutes post-infusion was 101.6 (7.6%) μg/ml and 452.1 (25.8%) μg/ml, respectively.
+Following a single infusion of 300 mg and 1 200 mg sipavibart (infusion rate: 50 mg/min), the geometric mean (CV%) serum concentration of sipavibart at 20 minutes post-infusion was 101.6 (11.5%) μg/ml and 452.1 (40.0%) μg/ml, respectively.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Distribution
 
-The geometric mean (CV%) apparent volume of distribution for sipavibart was 6.3 (19.4%) L following a single 300 mg intramuscular administration in the anterolateral thigh.
+The geometric mean (CV%) apparent volume of distribution for sipavibart was 5.8 (16.8%) L following a single 300 mg intramuscular administration in the anterolateral thigh.
 
 Based on population PK analysis, the estimated central and peripheral volume of distribution (relative standard error, RSE%) for sipavibart was 4.6 (1.3%) L and 0.4 (19.6%) L, respectively, following intravenous administration.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Biotransformation
 
@@ -403,7 +397,7 @@ Sipavibart is expected to be degraded into small peptides and component amino ac
 
 ## Elimination
 
-Following a single 300 mg intramuscular dose in the anterolateral thigh, the geometric mean (CV%) clearance of sipavibart was 0.053 (43.1%) L/day, and the estimated mean terminal elimination half-life (standard deviation) of sipavibart was 87.3 (26.5) days.
+Following a single 300 mg intramuscular dose in the anterolateral thigh, the geometric mean (CV%) clearance of sipavibart was 0.052 (43.3%) L/day, and the estimated mean terminal elimination half-life (standard deviation) of sipavibart was 81.5 (23.6) days.
 
 Based on population PK analysis, the estimated clearance (RSE%) of sipavibart following intravenous administration was 0.044 (0.9%) L/day.
 
@@ -423,7 +417,7 @@ Sipavibart is expected to be catabolised by multiple tissues through proteolytic
 
 ## Elderly
 
-Exposure to sipavibart in older adults ≥ 65 years of age (n=233) was comparable to that in younger adults 18 to &lt; 65 years of age (n=354).
+Exposure to sipavibart in older adults ≥ 65 years of age (n=225) was comparable to that in younger adults 18 to &lt; 65 years of age (n=333).
 
 ## Paediatric population
 
@@ -433,13 +427,13 @@ The recommended dose regimen is expected to result in comparable serum exposures
 
 There were no clinically meaningful differences in serum exposures to sipavibart based on sex, age (12 to 85 years of age), race, or ethnicity.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.3 Preclinical safety data
 
 Carcinogenesis, mutagenesis, and reproductive toxicology studies with sipavibart have not been conducted.
 
 Non-clinical data reveal no special hazard for humans based on studies of tissue binding and a repeat dose toxicity study in cynomolgus monkeys, including assessment of safety pharmacology and local tolerance.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -479,13 +473,13 @@ For storage conditions of prepared syringes and prepared infusion bags, see sect
 
 2 ml of solution for injection/infusion in a clear glass vial closed by a chlorobutyl elastomeric stopper sealed with a light green aluminium flip-off top.
 
+<div style=\"page-break-after: always\"></div>
+
 Pack size of 1 vial.
 
 ## 6.6 Special precautions for disposal and other handling
 
 KAVIGALE is supplied as a single-dose vial. KAVIGALE may be administered via an intramuscular injection or via an intravenous infusion using an infusion bag containing sodium chloride 9 mg/ml (0.9%) solution for injection or dextrose 50 mg/ml (5%) solution for injection or a syringe pump. The solution for injection/infusion should be prepared and administered by a healthcare professional, using aseptic technique as follows:
-
-<div style=\"page-break-after: always\"></div>
 
 ## Preparation of the solution before administration
 
@@ -517,15 +511,15 @@ For storage conditions of the prepared syringe or prepared infusion bag, see sec
 1. Administer 2 ml (300 mg) as an undiluted intravenous infusion using a syringe pump over at least 6 minutes.
 2. After the entire contents of the syringe have been administered, flush the administration set with a sufficient volume of sodium chloride 9 mg/ml (0.9%) solution for injection or dextrose 50 mg/ml (5%) solution for injection to ensure that the full dose has been administered.
 
-## Disposal
+<div style=\"page-break-after: always\"></div>
+
+Disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
 AstraZeneca AB SE-151 85 Södertälje Sweden
-
-<div style=\"page-break-after: always\"></div>
 
 ## 8. MARKETING AUTHORISATION NUMBER
 
@@ -538,6 +532,8 @@ Date of first authorisation: 20 January 2025
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+16
 
 <div style=\"page-break-after: always\"></div>
 
@@ -857,13 +853,10 @@ Patients receiving medicines similar to KAVIGALE have experienced serious allerg
 
 Common (may affect up to 1 in 10 people)
 
-- Injection site reactions (reactions near where the injection in the muscle was given, such as pain, bruising, redness, bleeding, swelling, blood under the skin, itching, numbness and tingling, rash, discolouration, and warm feeling on the skin).
+- Injection site reactions (reactions near where the injection in the muscle was given, such as pain, bruising, redness, bleeding, swelling, blood under the skin, itching, numbness and tingling, rash, discolouration, warm feeling on the skin, discomfort, and inflammation).
+- Allergic reaction (hypersensitivity) including itching, skin redness, hives, rash, feeling lightheaded or faint.
 - Infusion site reactions (reactions near where the infusion in the vein was given, such as bruising, pain, itching, redness, and swelling).
 - Reactions related to the infusion (reactions that affect the body, such as feeling sick, joint pain, headache, and fever).
-
-Uncommon (may affect up to 1 in 100 people)
-
-- Allergic reaction (hypersensitivity) including itching, skin redness, hives, rash.
 
 ## Reporting of side effects
 
@@ -911,33 +904,23 @@ AstraZeneca AB SE-151 85 Södertälje Sweden
 
 ## Manufacturer
 
-SE-152 57 Södertälje
-
-AstraZeneca AB Gärtunavägen Sweden
+AstraZeneca AB Gärtunavägen SE-152 57 Södertälje Sweden
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
+België/Belgique/Belgien
 
 AstraZeneca S.A./N.V.
 
 Tel: +32 2 370 48 11
 
-Lietuva Lietuva
+Lietuva UAB AstraZeneca Lietuva Tel: +370 5 2660550
 
-UAB AstraZeneca Tel: +370 5 2660550
+<div style=\"page-break-after: always\"></div>
 
 ## България
 
-АстраЗенека България ЕООД
-
-Luxembourg/Luxemburg
-
-AstraZeneca S.A./N.V.
-
-Тел.: +359 24455000
-
-<div style=\"page-break-after: always\"></div>
+АстраЗенека България ЕООД Тел.: +359 24455000
 
 ## Česká republika
 
@@ -949,9 +932,7 @@ AstraZeneca A/S Tlf.: +45 43 66 64 62
 
 ## Deutschland
 
-AstraZeneca GmbH
-
-Tel: +49 40 809034100
+AstraZeneca GmbH Tel: +49 40 809034100
 
 ## Eesti
 
@@ -993,9 +974,9 @@ AstraZeneca S.p.A. Tel: +39 02 00704500
 
 SIA AstraZeneca Latvija Tel: +371 67377100
 
-## This leaflet was last revised in
+## Luxembourg/Luxemburg
 
-Tél/Tel: +32 2 370 48 11
+AstraZeneca S.A./N.V. Tél/Tel: +32 2 370 48 11
 
 ## Magyarország
 
@@ -1047,6 +1028,8 @@ AstraZeneca AB Tel: +46 8 553 26 000
 
 <div style=\"page-break-after: always\"></div>
 
+## This leaflet was last revised in
+
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
@@ -1084,12 +1067,11 @@ For storage conditions of the prepared syringe or prepared infusion bag, see Sum
 2. Administer the infusion solution intravenously via infusion pump or gravity over approximately 20 minutes through an intravenous line containing a sterile, low protein-binding 0.2 or 0.22 micron in-line filter.
 3. Once the infusion is complete, flush the tubing with sufficient sodium chloride 9 mg/ml (0.9%) solution for injection or dextrose 50 mg/ml (5%) solution for injection to ensure delivery of the required dose.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Administration - syringe pump
 
 1. Administer 2 ml (300 mg) as an undiluted intravenous infusion using a syringe pump over at least 6 minutes.
-
-<div style=\"page-break-after: always\"></div>
-
 2. After the entire contents of the syringe have been administered, flush the administration set with a sufficient volume of sodium chloride 9 mg/ml (0.9%) solution for injection or dextrose 50 mg/ml (5%) solution for injection to ensure that the full dose has been administered.
 
 ## Disposal

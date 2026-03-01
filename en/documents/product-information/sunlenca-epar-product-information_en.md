@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-16 10:32:01
+document_datetime: 2026-02-26 11:44:34
 document_pages: 65
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/sunlenca-epar-product-information_en.pdf
 document_name: sunlenca-epar-product-information_en.pdf
 version: success
-processing_time: 21.4148141
-conversion_datetime: 2026-01-03 12:20:54.283647
+processing_time: 23.2839001
+conversion_datetime: 2026-03-01 19:32:03.682832
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -32,9 +32,7 @@ Sunlenca 464 mg solution for injection
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each single-dose vial contains lenacapavir sodium equivalent to 463.5 mg of lenacapavir in 1.5 mL.
-
-For the full list of excipients, see section 6.1.
+Each single-dose vial contains lenacapavir sodium equivalent to 463.5 mg of lenacapavir in 1.5 mL. For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
@@ -576,7 +574,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-3 years
+4 years
 
 ## 6.4 Special precautions for storage
 
@@ -1367,8 +1365,6 @@ VIAL x2
 
 <!-- image -->
 
-<!-- image -->
-
 VIAL ACCESS DEVICE x2
 
 <!-- image -->
@@ -2059,9 +2055,9 @@ acceptable
 
 <div style=\"page-break-after: always\"></div>
 
-| 8. Administer 2nd Injection                           | 8. Administer 2nd Injection   |
-|-------------------------------------------------------|-------------------------------|
-| Repeat steps 2nd injection at least 5 first injection |                               |
+| 8. Administer 2nd Injection                              | 8. Administer 2nd Injection   |
+|----------------------------------------------------------|-------------------------------|
+| Repeat steps 2nd injection at least 5 cm first injection |                               |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2313,9 +2309,7 @@ Tél/Tel: + 32 (0) 24 01 35 50
 
 ## България
 
-Gilead Sciences Ireland UC
-
-Тел.: + 353 (0) 1 686 1888
+Gilead Sciences Ireland UC Тел.: + 353 (0) 1 686 1888
 
 ## Česká republika
 

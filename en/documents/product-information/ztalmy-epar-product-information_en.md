@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-18 16:27:57
+document_datetime: 2026-02-27 12:02:29
 document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ztalmy-epar-product-information_en.pdf
 document_name: ztalmy-epar-product-information_en.pdf
 version: success
-processing_time: 8.0900724
-conversion_datetime: 2025-12-28 00:09:33.798131
+processing_time: 21.9096498
+conversion_datetime: 2026-03-01 20:03:52.195702
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -68,9 +68,11 @@ Children and adolescents
 
 ZTALMY should be titrated gradually to achieve individual clinical response and tolerability. Any patient not tolerating the dosing steps shown in the tables below, can be maintained at the lower dose for additional days before advancing to the next dose. If the next dose is still not tolerated, patients can drop back to the previous lower dose.
 
+ZTALMY must be administered 3 times a day. It is recommended that the total daily dose is administered in 3 equal doses throughout the day. If this is not tolerated by a patient, the dose at each
+
 <div style=\"page-break-after: always\"></div>
 
-It is recommended that total daily dose is administered in 3 equal doses throughout the day. If this is not tolerated by a patient, the dose can be adjusted to manage symptoms (e.g., somnolence), provided that the total daily dose is administered.
+dosing interval can be adjusted to manage symptoms (e.g., somnolence), provided that the total daily dose is administered.
 
 ## Patients weighing ≤ 28 kg
 
@@ -116,7 +118,7 @@ Missed doses may be taken up to 4 hours before the next scheduled dose. When the
 
 ## Elderly
 
-There is no information on the use of ZTALMY in patients with CDD who are 65 years of age and over. Doses in elderly patients should be chosen carefully based on clinical status and concomitant medicinal products. Close clinical monitoring is recommended when initiating treatment in the elderly.
+There is no information on the use of ZTALMY in patients with CDD who are 65 years of age and over.
 
 ## Renal impairment
 
@@ -210,7 +212,7 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per each daily d
 
 This medicinal product contains 0.92 mg sodium benzoate and 0.00068 mg benzoic acid in each mL. Benzoate salt and benzoic acid may increase jaundice (yellowing of the skin and eyes) in newborn babies (up to 4 weeks old).
 
-This medicinal product contains 0.00023 mg benzyl alcohol in each mL. Benzyl alcohol may cause allergic reactions. Benzyl alcohol has been linked with the risk of severe side effects including breathing problems (called 'gasping syndrome') in young children. Do not give to your newborn baby (up to 4 weeks old), unless recommended by your doctor. Do not use for more than a week in young children (less than 3 years old), unless advised by your doctor or pharmacist. Increased risk due to accumulation in young children. Ask your doctor or pharmacist for advice if you are pregnant or breast-feeding, or if you have a liver or kidney disease. This is because large amounts of benzyl alcohol can build-up in your body and may cause side effects (called 'metabolic acidosis').
+This medicinal product contains 0.00023 mg benzyl alcohol in each mL. Benzyl alcohol may cause allergic reactions. Monitor patients less than 3 years of age for respiratory symptoms. Advise patients who are pregnant or breastfeeding of the potential risk from the excipient benzyl alcohol, which might accumulate over time and cause metabolic acidosis. Use with caution in patients with hepatic or renal impairment, because of the potential risk from the excipient benzyl alcohol which may accumulate over time and cause metabolic acidosis.
 
 This medicinal product contains 1.02 mg methyl parahydroxybenzoate and 0.2 mg propyl parahydroxybenzoate in each mL. Methyl parahydroxybenzoate and propyl parahydroxybenzoate may cause allergic reactions (possibly delayed).
 
@@ -220,7 +222,7 @@ This medicinal product contains 1.02 mg methyl parahydroxybenzoate and 0.2 mg pr
 
 Coadministration with a strong CYP3A4 inducer will decrease ganaxolone exposure.
 
-Concomitant use of rifampicin decreased the AUC0-inf of ganaxolone by approximately 57-68%. Enzyme inducing antiepileptics (e.g., carbamazepine, phenytoin, phenobarbital, and primidone) and St. John's Wort may result in similarly lower plasma exposures of ganaxolone. In patients on a stable dose of ganaxolone or in patients initiating or increasing the dose of concomitant enzyme-inducing antiepileptic drugs or St. John's Wort a dose increase may be necessary; however, do not exceed the maximum daily dose (see section 4.4).
+Concomitant use of rifampicin decreased the AUC0-inf of ganaxolone by approximately 57-68%. Enzyme inducing antiepileptics (e.g., carbamazepine, phenytoin, phenobarbital, and primidone) and St. John's Wort may result in similarly lower plasma exposures of ganaxolone. In patients on a stable dose of ganaxolone or in patients initiating or increasing the dose of concomitant enzyme-inducing antiepileptic medicinal products or St. John's Wort a dose increase may be necessary; however, do not exceed the maximum daily dose (see section 4.4).
 
 ## CYP3A4 inhibitors
 
@@ -230,11 +232,11 @@ Coadministration of ganaxolone with itraconazole, a strong CYP3A4 inhibitor, inc
 
 Ganaxolone is a substrate for UGT1A3, UGT1A6, UGT1A9, and UGT2B15. No formal drug-drug interaction studies have been conducted with ganaxolone in combination with UGT inhibitors such as valproate. Dose reduction of ganaxolone and/or the UGT inhibitor may be necessary when given in combination.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Oral contraceptives
 
 The potential interaction of ganaxolone with oral contraceptives has not been investigated.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Ethanol interaction
 
@@ -250,7 +252,7 @@ ZTALMY is not recommended during pregnancy and in woman of childbearing potentia
 
 ## Breast-feeding
 
-Ganaxolone and its metabolites are excreted in human milk. Based on an average milk intake, the calculated maximum relative infant dose of ganaxolone is approximately 1% of the maternal dose. The effect of ganaxolone on breastfed newborns/infants is unknown, A risk to the suckling child cannot be excluded.
+Ganaxolone and its metabolites are excreted in human milk. Based on an average milk intake, the calculated maximum relative infant dose of ganaxolone is approximately 1% of the maternal dose. The effect of ganaxolone on breastfed newborns/infants is unknown. A risk to the suckling child cannot be excluded.
 
 A decision must be made whether to discontinue breast-feeding or to discontinue ZTALMY taking into account the benefit of breast feeding for the child and the benefit of therapy for the woman.
 
@@ -266,17 +268,15 @@ ZTALMY has a moderate to major influence on the ability to drive and use machine
 
 ## Summary of the safety profile
 
-The most commonly reported adverse drug reactions in clinical trials in patients with CDD include somnolence (29.4%) and pyrexia (23.5%).
+The  most  commonly  reported  adverse  reactions  in  clinical  trials  in  patients  with  CDD  include somnolence (29.4%) and pyrexia (23.5%).
 
 ## Tabulated list of adverse reactions
 
 Adverse reactions reported with ganaxolone in a clinical trials in patients with CDD with an average exposure duration of 411.5 days (N = 102) are listed in the table below by System Organ Class and frequency.
 
-The frequencies are defined as follows: very common (≥ 1/10), c ommon (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); not known (cannot be estimated
+The frequencies are defined as follows: very common (≥ 1/10), c ommon (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
-
-from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 | System organ class                                   | Very common   | Common                                 |
 |------------------------------------------------------|---------------|----------------------------------------|
@@ -304,7 +304,7 @@ In the event of overdose, the patient should be observed and appropriate symptom
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group:  Antiepileptics, other antiepileptics, ATC code: N03AX27.
+Pharmacotherapeutic group: Antiepileptics, other antiepileptics, ATC code: N03AX27.
 
 ## Mechanism of action
 
@@ -312,11 +312,11 @@ Ganaxolone is a methyl analogue of the endogenous neurosteroid allopregnanolone.
 
 The precise mechanism by which ganaxolone exerts its therapeutic effects in the treatment of seizures associated with CDD is unknown, but its anticonvulsant effects are thought to result from this modulation of GABAA receptor function providing constant, or tonic, modulation of GABA-mediated inhibitory neurotransmission.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Clinical efficacy and safety
 
 The efficacy to treat seizures associated with CDD in patients 2 years and older was established in a single, double-blind, randomised, placebo-controlled study in patients aged 2 to 19 years (Study 1042-CDD-3001).
+
+<div style=\"page-break-after: always\"></div>
 
 Patients enrolled in Study 1042-CDD-3001 had a molecular confirmation of pathogenic or likely pathogenic CDKL5 variant, their seizures were inadequately controlled by at least 2 previous concomitant AED medicinal products, and they had a minimum of 16 seizures of primary seizure type per 28 days in each 1-month period during the 2-month period prior to screening.
 
@@ -331,7 +331,7 @@ Table 1 Study 1042-CDD-3001 Change in frequency of major motor seizures per 28 d
 |                                                       | Placebo               | Ganaxolone            |
 |-------------------------------------------------------|-----------------------|-----------------------|
 | 28-Day seizure frequency for primary seizure types, N | 51                    | 49                    |
-| 13-Week Maintenance, Median Percent change (SD)       | -6.49 (-26.77, 38.46) | -29.39 (-65.78, 1.30) |
+| 13-Week Maintenance, Median Percent change (95% CI)   | -6.49 (-26.77, 38.46) | -29.39 (-65.78, 1.30) |
 | Wilcoxon Test p-value                                 |                       | 0.0097                |
 | Response Rate, N                                      | 50                    | 49                    |
 | n (%)                                                 | 6 (12.0)              | 15 (30.6)             |
@@ -380,9 +380,7 @@ Ganaxolone is extensively distributed throughout the body and its volume of dist
 
 ## Biotransformation
 
-Ganaxolone is extensively metabolized in humans, and over 50 Phase 1 and Phase 2 metabolites have been detected. The ganaxolone metabolite pattern at steady state has not yet been characterised. The steady state metabolite pattern may be different from single dose given the long t1/2 of ganaxolone. Ganaxolone is metabolised by CYP3A4 and CYP3A5; CYP2B6, CYP2C19, CYP2D6, UGT1A3, UGT1A6, UGT1A9, UGT2B7, and UGTB15.
-
-Major metabolite (M2) was identified and demonstrated no activity at the GABAA receptor.
+Ganaxolone is extensively metabolized in humans, and over 50 Phase 1 and Phase 2 metabolites have been detected. The ganaxolone metabolite pattern at steady state has been characterised and is qualitatively similar to the pattern after a single dose but with increased proportion in the form of sulfated metabolites. The sulfated metabolites have a long elimination half-life. Ganaxolone is metabolised by CYP3A4 and CYP3A5; CYP2B6, CYP2C19, CYP2D6, UGT1A3, UGT1A6, UGT1A9, UGT2B7, and UGTB15.
 
 ## Elimination
 
@@ -420,7 +418,7 @@ The influence of hepatic impairment on the pharmacokinetics of ganaxolone was st
 
 ## In vitro assessment of drug interactions
 
-In vitro studies with ganaxolone demonstrated that no other pharmacokinetic interactions are expected. Ganaxolone is not an inhibitor or an inducer of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or CYP3A4. In vitro, ganaxolone did not inhibit UGT1A1, UGT1A3, UGT1A4, UGT1A6, UGT1A9, and UGT2B7. Ganaxolone does not inhibit BCRP, P-gp, MATE1, MATE2-K, OAT1, OAT3, OCT1, OCT2, OATP1B1, OATP1B3 or BSEP. Ganaxolone is not a substrate for BCRP, P-gp, OCT1, OCT2, OATP1B1 or OATP1B3.
+In vitro studies with ganaxolone demonstrated that no other pharmacokinetic interactions are expected. Ganaxolone is not an inhibitor or an inducer of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or CYP3A4. In vitro , ganaxolone did not inhibit UGT1A1, UGT1A3, UGT1A4, UGT1A6, UGT1A9, and UGT2B7. Ganaxolone does not inhibit BCRP, P-gp, MATE1, MATE2-K, OAT1, OAT3, OCT1, OCT2, OATP1B1, OATP1B3 or BSEP. Ganaxolone is not a substrate for BCRP, P-gp, OCT1, OCT2, OATP1B1 or OATP1B3.
 
 ## 5.3 Preclinical safety data
 
@@ -436,13 +434,15 @@ In the 12-month repeat-dose toxicology study in dogs, a dose-dependent increase 
 
 ## Carcinogenicity/ genotoxicity
 
-Carcinogenicity studies have not been conducted with ganaxolone. Ganaxolone is not considered genotoxic.
+Carcinogenicity studies have not been conducted with ganaxolone in rats. Ganaxolone is not considered genotoxic.
+
+Ganaxolone was not tumorigenic or carcinogenic in a 6-month carcinogenicity study in transgenic mice at up to the highest nonclinical dose level of 1 000 mg/kg/day. The plasma (AUC) exposure of ganaxolone at the high dose was lower than the AUC exposure in adult patients at the maximum recommended human dose of 1 800 mg (~0.3-fold clinical AUC). The carcinogenic potential of ganaxolone remains uncertain due to the low exposure in transgenic mice.
 
 ## Reproductive and developmental toxicity
 
 The reproductive and developmental toxicity studies are of limited value since exposure levels were far below clinically relevant levels.
 
-In the fertility and early embryonic development study in rats, alterations in estrous cyclicity occurred.
+In the fertility and early embryonic development study in rats, alterations in oestrous cyclicity occurred.
 
 In the combined embryo-foetal development and pre- and post-natal development study in rats, gestation length was slightly lengthened and slight delays in offspring growth and related developmental milestones occurred.
 
@@ -452,9 +452,9 @@ It is not known if ganaxolone crosses the placenta.
 
 ## Juvenile toxicity
 
-Histological changes in juvenile rats were similar to those in adult rats on an AUC exposure basis. Sedation occurred at lower exposures in adults than in juvenile animals. Decreased bodyweight gain and a delay in sexual maturation occurred in juvenile males and females, with no effects on oestrous cyclicity or any fertility or reproductive parameters. Exposure levels in juvenile animals were similar or lower to the clinical exposure levels.
+Histological changes in juvenile rats were similar to those in adult rats on an AUC exposure basis. Sedation occurred at lower exposures in adults than in juvenile animals. Decreased bodyweight gain and a delay in sexual maturation occurred in juvenile males and females, with no effects on oestrous cyclicity or any fertility or reproductive parameters. Exposure levels in juvenile animals were similar to or lower than the clinical exposure levels.
 
-Ganaxolone administration caused a dose-dependent increase in neurodegeneration in multiple brain regions, consistent with findings from other GABA modulators. There were no functional, neurobehavioural consequences of this effect in the 13-week juvenile study. Exposure levels in juvenile animals were similar or lower to the clinical exposure levels.
+Ganaxolone administration caused a dose-dependent increase in neurodegeneration in multiple brain regions, consistent with findings from other GABA modulators. There were no functional, neurobehavioural consequences of this effect in the 13-week juvenile study. Exposure levels in juvenile animals were similar to or lower than the clinical exposure levels.
 
 ## Abuse
 
@@ -466,17 +466,19 @@ Animal studies suggest that abrupt discontinuation of ganaxolone may cause withd
 
 ## Studies with metabolites
 
-Based on in vitro data, a potential hormonal effect of metabolite M2 at clinical exposures cannot be excluded. In a 4-week repeat-dose toxicity study with direct administration of M2, acinar atrophy and decreased secretion in the prostate gland and seminal vesicle glands was observed in male rats, which correlated with decreased prostate gland weight. This occurred at levels slightly above clinical exposure levels, and the clinical relevance remains unknown.
+Based on in vitro data, a potential hormonal effect of metabolite M2 at clinical exposures cannot be excluded. In repeat-dose toxicity studies with direct administration of M2, for up to 6-month duration, changes in the prostate gland (decreased weight, small size, decreased secretion, and atrophy) and/or
 
 <div style=\"page-break-after: always\"></div>
+
+seminal vesicles (small size, decreased secretion, and atrophy) were observed in male rats at around clinical exposure levels (0.6 to 2.4-fold), and the clinical relevance remains unknown.
+
+In a 9-week oral M2 study in juvenile rats, signs of precocious puberty in females, adverse effects on female reproductive organs including decreased corpora lutea and follicular cysts in the ovary, and oestrous cycle disruption; in males changes in seminal vesicles (i.e. decreased weight, small appearance, atrophy), delayed male sexual maturation, and lower mean epididymis and prostate gland weight were observed at below or around clinical exposure levels (0.3 to 2-fold clinical AUC). The risk to humans for these effects is unknown.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Hypromellose (E464) Polyvinyl alcohol (E1203) Sodium lauryl sulfate (E487) Methyl parahydroxybenzoate (E218) Propyl parahydroxybenzoate (E216) Sodium benzoate (E211) Citric acid, anhydrous (E330) Sodium citrate dihydrate (E311) Artificial cherry flavour (including propylene glycol [E1520] and benzyl alcohol [E1519]) Sucralose (E955) Simethicone emulsion (simethicone, polysorbate 65, methylcellulose, polyethylene glycolmonostearate, glycerol monostearate, xanthan gum, benzoic acid [E210], sorbic acid, and purified water)
-
-Purified water
+Hypromellose (E464) Polyvinyl alcohol (E1203) Sodium lauryl sulfate (E487) Methyl parahydroxybenzoate (E218) Propyl parahydroxybenzoate (E216) Sodium benzoate (E211) Citric acid, anhydrous (E330) Sodium citrate dihydrate (E331) Artificial cherry flavour (including propylene glycol [E1520] and benzyl alcohol [E1519]) Sucralose (E955) Simethicone emulsion (simethicone, polysorbate 65, methylcellulose, polyethylene glycolmonostearate, glycerol monostearate, xanthan gum, benzoic acid [E210], sorbic acid, and purified water) Purified water
 
 ## 6.2 Incompatibilities
 
@@ -503,6 +505,8 @@ Each carton contains either:
 
 Each 12 mL syringe is graduated in 0.25 mL increments and each 3 mL syringe is graduated in 0.1 mL increments.
 
+<div style=\"page-break-after: always\"></div>
+
 Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
@@ -511,11 +515,7 @@ Any unused medicinal product or waste material (including any used/unused bottle
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Immedica Pharma AB
-
-<div style=\"page-break-after: always\"></div>
-
-113 63 Stockholm Sweden
+Immedica Pharma AB 113 63 Stockholm Sweden
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -525,11 +525,13 @@ EU/1/23/1743/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 26 July 2023.
+Date of first authorisation: 26 July 2023
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+15
 
 <div style=\"page-break-after: always\"></div>
 
@@ -542,7 +544,7 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
 Name and address of the manufacturer responsible for batch release
 
@@ -568,7 +570,7 @@ The marketing authorisation holder (MAH) shall submit the first PSUR for this pr
 
 ## · Risk management plan (RMP)
 
-The MAH shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
@@ -605,22 +607,20 @@ Also contains: methyl parahydroxybenzoate (E218), propyl parahydroxybenzoate (E2
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Oral suspension
+## Oral suspension
 
 1 bottle pack:
 
-- 1 x 110 mL bottle
-- 2 x 12 mL reusable oral dosing syringes
-
-2 x 3 mL reusable oral dosing syringes
+- 1 × 110 mL bottle
+- 2 × 12 mL reusable oral dosing syringes
+- 2 × 3 mL reusable oral dosing syringes
 
 1 bottle adaptor
 
-5 bottle pack:
+## 5 bottle pack:
 
-5 x 110 mL bottles
-
-5 x 12 mL reusable oral dosing syringes
+- 5 × 110 mL bottles
+- 5 × 12 mL reusable oral dosing syringes
 
 5 bottle adaptors
 
@@ -670,7 +670,7 @@ Lot
 
 ZTALMY
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -678,9 +678,9 @@ ZTALMY
 
 PC SN
 
-NN
-
 <div style=\"page-break-after: always\"></div>
+
+NN
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -773,9 +773,11 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## ZTALMY 50 mg/mL oral suspension ganaxolone
+## ZTALMY 50 mg/mL oral suspension
 
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you or the patient may get. See the end of section 4 for how to report side effects.
+## ganaxolone
+
+This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you or your child start taking this medicine because it contains important information.
 
@@ -797,7 +799,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ZTALMY contains the active substance ganaxolone, a neuroactive steroid that works by attaching to specific receptors and stops the brain from having epileptic seizures.
 
-ZTALMY is used to treat a rare epileptic seizure disorder called 'cyclin-dependent kinase-like 5 (CDKL5) deficiency disorder' (CDD) in patients 2  to 17 years of age.  If ZTALMY is helping to treat your seizures, it can still continue to be used when you or your child turns 18.
+ZTALMY is used to treat a rare epileptic seizure disorder called 'cyclin-dependent kinase-like 5 (CDKL5) deficiency disorder' (CDD) in patients 2 to 17 years of age. If ZTALMY is helping to treat your seizures, it can still continue to be used when you or your child turns 18.
 
 ZTALMY is used in combination with other anti-epileptic medicines.
 
@@ -805,9 +807,13 @@ This medicine will reduce the number of daily epileptic seizures you or your chi
 
 ## 2. What you or your child need to know before taking ZTALMY
 
-Do not take ZTALMY if you are allergic to ganaxolone or any of the other ingredients of this medicine (listed in section 6).
+## Do not take ZTALMY
 
-## Warnings and precautions Talk to your doctor or pharmacist before taking ZTALMY if :
+- if you are allergic to ganaxolone or any of the other ingredients of this medicine (listed in section 6).
+
+## Warnings and precautions
+
+Talk to your doctor or pharmacist before taking ZTALMY if:
 
 ## · you or your child feel drowsy
 
@@ -885,7 +891,7 @@ This medicine contains 0.00023 mg benzyl alcohol in each mL. Benzyl alcohol may 
 
 ## ZTALMY contains methyl parahydroxybenzoate and propyl parahydroxybenzoate
 
-This medicinal product contains 1.02 mg methyl parahydroxybenzoate and 0.2 mg propyl parahydroxybenzoate in each mL which may cause allergic reactions (possibly delayed).
+This medicine contains 1.02 mg methyl parahydroxybenzoate and 0.2 mg propyl parahydroxybenzoate in each mL which may cause allergic reactions (possibly delayed).
 
 ## 3. How to take ZTALMY
 
@@ -909,11 +915,12 @@ It is recommended that you take 3 equal doses throughout the day. However, ZTALM
 
 Talk to your doctor if you are unsure of your dose or if you think it may need to be changed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## How to take ZTALMY
 
 - Take the medicine with or shortly after meals
+
+<div style=\"page-break-after: always\"></div>
+
 - If possible, try to take with similar types of food (e.g. similar fat content) so you get the same effect each time
 - Do not mix ZTALMY with food or drink
 - To ensure an accurate dose, please use the reusable oral dosing syringes provided in each pack.
@@ -926,10 +933,9 @@ Each single-bottle pack is supplied with:
 
 ZTALMY is also supplied in a pack with five bottles of oral suspension, five 12 mL reusable oral dosing syringes and five bottle adaptors. Please note that the pack containing five bottles of ZTALMY does not include a 3 mL reusable oral dosing syringe.
 
-- Ask your doctor, pharmacist or nurse if you are not sure how to prepare or take the prescribed dose of ZTALMY.
-
 <div style=\"page-break-after: always\"></div>
 
+- Ask your doctor, pharmacist or nurse if you are not sure how to prepare or take the prescribed dose of ZTALMY.
 - You will receive 12 mL and 3 mL reusable oral dosing syringes in the single-bottle pack. If your dose is 3 mL or less, use the smaller 3 mL syringes to take your medicine. If your dose is more than 3 mL use the larger 12 mL syringes to take your dose.
 - Always use the correct reusable oral dosing syringe provided with ZTALMY to make sure you measure the right amount of ZTALMY. Do not use a household spoon. Do not mix ZTALMY with food or drink to administer.
 - Each 3 mL dosing syringe may be used for 16 consecutive days. After 16 days, throw away the used dosing syringe and use the spare syringe contained in the carton.
@@ -938,10 +944,19 @@ ZTALMY is also supplied in a pack with five bottles of oral suspension, five 12 
 
 ## Preparing the bottle:
 
-| 1. Hold the bottle in your hand and shake it up and down well for 1 minute. Always shake the bottle well for 1 minute then let the bottle stand for 1 minute so that any foam that builds up during shaking can settle before measuring and giving each dose of ZTALMY. This helps you measure the correct amount of medicine. NOTE: This step is for each dose of the medicine.   |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2. Remove the child-resistant cap on the bottle by pushing the cap down whilst turning the cap to the left (anti-clockwise).                                                                                                                                                                                                                                                       |
-| 3. Puncture and peel off the induction seal from the bottle. NOTE: This step is only for the first use of the bottle.                                                                                                                                                                                                                                                              |
+| bottle in your hand and up and down well for shake the bottle well for then let the bottle stand for so that any foam that builds shaking can settle before and giving each dose of This helps you measure amount of medicine.   |                          | 1. Hold the shake it 1 minute. Always 1 minute 1 minute up during measuring ZTALMY. the correct NOTE: This   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------------|
+| Remove the child-resistant bottle by pushing the cap turning the cap to the                                                                                                                                                      | cap on down left         |                                                                                                              |
+| Puncture and peel off                                                                                                                                                                                                            | the                      |                                                                                                              |
+| for                                                                                                                                                                                                                              | bottle                   |                                                                                                              |
+| one the                                                                                                                                                                                                                          | make                     |                                                                                                              |
+| adaptor the fully adaptor off and cause choking if                                                                                                                                                                               | hand sure it could it is |                                                                                                              |
+| bottle tight pushing the firmly into the neck of other hand, inserted. The                                                                                                                                                       |                          |                                                                                                              |
+| bottle and                                                                                                                                                                                                                       |                          |                                                                                                              |
+| the with                                                                                                                                                                                                                         |                          |                                                                                                              |
+| NOTE: This step is only the                                                                                                                                                                                                      |                          |                                                                                                              |
+|                                                                                                                                                                                                                                  | first                    |                                                                                                              |
+| induction                                                                                                                                                                                                                        |                          |                                                                                                              |
 
 <!-- image -->
 
@@ -959,10 +974,14 @@ ZTALMY is also supplied in a pack with five bottles of oral suspension, five 12 
 
 <!-- image -->
 
-| Hold the bottle tight with one hand while pushing the bottle adaptor firmly into the neck of the bottle with the other hand, and make sure it is fully inserted. The adaptor could come off and cause choking if it is not fully inserted. NOTE: Do not remove the press-in bottle adapter from the bottle after it is inserted.   | 4.   |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
+<!-- image -->
 
-Preparing the dose:
+<!-- image -->
+
+| NOTE: Do not remove the press-in bottle adapter from the bottle after it is inserted.   |
+|-----------------------------------------------------------------------------------------|
+
+## Preparing the dose:
 
 5. Insert the tip of the correct reusable oral dosing syringe fully into the bottle adaptor, and with the oral syringe in place, turn the bottle upside down.
 
@@ -974,18 +993,24 @@ It is important that you use the correct reusable oral dosing syringe to measure
 
 If there is an air bubble in the syringe, push the liquid back into the bottle whilst keeping the bottle upside down, and repeat Step 6 until the bubble has gone.
 
+7. Turn the bottle the right side up, and carefully remove the oral syringe from the adaptor.
+
 <div style=\"page-break-after: always\"></div>
 
+## Taking or giving ZTALMY:
+
+| Place the tip of the oral syringe inside the cheek, and gently push the plunger to release the medicine. Do not push the plunger forcefully or direct the medicine to the back of the mouth or throat.   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| to the right (clockwise). You do not need to remove the bottle adaptor; the cap will fit over it.                                                                                                        |
+| after use. Remove the plunger from the barrel of the syringe, and rinse both parts using room temperature tap water.                                                                                     |
+
 <!-- image -->
 
-Taking or giving ZTALMY:
+<!-- image -->
 
 <!-- image -->
 
-|   8. | Place the tip of the oral syringe inside the cheek, and gently push the plunger to release the medicine. Do not push the plunger forcefully or direct the medicine to the back of the mouth or throat.                                                                 |
-|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    9 | Screw the child resistant cap back on the bottle tightly, by turning the cap to the right (clockwise). You do not need to remove the bottle adaptor; the cap will fit over it.                                                                                         |
-|   10 | Wash the oral syringe immediately after use. Remove the plunger from the barrel of the syringe, and rinse both parts using room temperature tap water. Warning: Do not use bleach or any other harsh cleaning solutions. Do not wash the oral syringe in a dishwasher. |
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1049,13 +1074,13 @@ Do not throw away any medicines in the wastewater or household waste. Ask your p
 ## What ZTALMY contains
 
 - -The active substance is ganaxolone. Each mL of oral suspension contains 50 mg of ganaxolone.
-- -The other ingredients are: hypromellose (E464), polyvinyl alcohol (E1203), sodium lauryl sulfate (E487), methyl parahydroxybenzoate (E218), propyl parahydroxybenzoate (E216), sodium benzoate (E211), citric acid anhydrous (E330), sodium citrate dihydrate (E311), artificial cherry flavour (including propylene glycol [E1520] and benzyl alcohol [E1519]), sucralose (E955), simethicone emulsion (simethicone, polysorbate 65, methylcellulose, polyethelene, glycolmonostearate, glycerol monostrearate, xanthan gum, benzoic acid [E210], sorbic acid and purified water), purified water (see also section 2 'ZTALMY contains sodium'; 'ZTALMY contains sodium benzoate', 'ZTALMY contains benzoic acid', 'ZTALMY contains benzyl alcohol', and 'ZTALMY contains methyl parahydroxybenzoate and propyl parahydroxybenzoate').
+- -The other ingredients are: hypromellose (E464), polyvinyl alcohol (E1203), sodium lauryl sulfate (E487), methyl parahydroxybenzoate (E218), propyl parahydroxybenzoate (E216), sodium benzoate (E211), citric acid anhydrous (E330), sodium citrate dihydrate (E331), artificial cherry flavour (including propylene glycol [E1520] and benzyl alcohol [E1519]), sucralose (E955), simethicone emulsion (simethicone, polysorbate 65, methylcellulose, polyethelene, glycolmonostearate, glycerol monostrearate, xanthan gum, benzoic acid [E210], sorbic acid and purified water), purified water (see also section 2 'ZTALMY contains sodium'; 'ZTALMY contains sodium benzoate', 'ZTALMY contains benzoic acid', 'ZTALMY contains benzyl alcohol', and 'ZTALMY contains methyl parahydroxybenzoate and propyl parahydroxybenzoate').
 
 ## What ZTALMY looks like and contents of the pack
 
-ZTALMY is a white to off-white oral suspension.  It comes in a plastic bottle which has a plastic child-resistant cap. Each bottle contains 110 mL of oral suspension.
+ZTALMY is a white to off-white oral suspension. It comes in a plastic bottle which has a plastic childresistant cap. Each bottle contains 110 mL of oral suspension.
 
-## ZTALMY is supplied in packs of either:
+ZTALMY is supplied in packs of either:
 
 - -one bottle of oral suspension, two 12 mL and two 3 mL oral dosing syringes, and one bottle adaptor; or
 - -five bottles of oral suspension, five 12 mL oral dosing syringes, and five bottle adaptors.
@@ -1078,4 +1103,4 @@ Almac Pharma Services (Ireland) Limited Finnabair Industrial Estate Dunkalk, A91
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.

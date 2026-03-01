@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 08:36:54
+document_datetime: 2026-02-27 12:51:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cometriq.html
 document_name: cometriq.html
 version: success
-processing_time: 0.119988
-conversion_datetime: 2025-12-31 01:35:13.682897
+processing_time: 0.099351
+conversion_datetime: 2026-03-01 19:45:46.941057
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Cometriq
 
 [RSS](/en/individual-human-medicine.xml/65514)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 cabozantinib Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -38,6 +36,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Cometriq](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-83785)
 - [Related information on Cometriq](#related-information-on-cometriq-66447)
 - [More information on Cometriq](#related-medicines)
 - [Topics](#topics)
@@ -120,7 +119,7 @@ English (EN) (80.1 KB - PDF)
 
 [View](/en/documents/overview/cometriq-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-956)
+[Other languages (22)](#file-language-dropdown-145)
 
 български (BG) (110.95 KB - PDF)
 
@@ -400,17 +399,17 @@ English (EN) (116.32 KB - PDF)
 
 Cometriq : EPAR - Product Information
 
-English (EN) (718.5 KB - PDF)
+English (EN) (720.44 KB - PDF)
 
 **First published:** 26/03/2014
 
-**Last updated:** 16/04/2025
+**Last updated:** 27/02/2026
 
 [View](/en/documents/product-information/cometriq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-641)
+[Other languages (23)](#file-language-dropdown-965)
 
-български (BG) (894.75 KB - PDF)
+български (BG) (895.63 KB - PDF)
 
 **First published:**
 
@@ -418,11 +417,11 @@ English (EN) (718.5 KB - PDF)
 
 **Last updated:**
 
-16/04/2025
+27/02/2026
 
 [View](/bg/documents/product-information/cometriq-epar-product-information_bg.pdf)
 
-español (ES) (744.16 KB - PDF)
+español (ES) (745.48 KB - PDF)
 
 **First published:**
 
@@ -430,11 +429,11 @@ español (ES) (744.16 KB - PDF)
 
 **Last updated:**
 
-16/04/2025
+27/02/2026
 
 [View](/es/documents/product-information/cometriq-epar-product-information_es.pdf)
 
-čeština (CS) (837.43 KB - PDF)
+čeština (CS) (839.9 KB - PDF)
 
 **First published:**
 
@@ -442,11 +441,11 @@ español (ES) (744.16 KB - PDF)
 
 **Last updated:**
 
-16/04/2025
+27/02/2026
 
 [View](/cs/documents/product-information/cometriq-epar-product-information_cs.pdf)
 
-dansk (DA) (774.13 KB - PDF)
+dansk (DA) (772.88 KB - PDF)
 
 **First published:**
 
@@ -454,11 +453,11 @@ dansk (DA) (774.13 KB - PDF)
 
 **Last updated:**
 
-16/04/2025
+27/02/2026
 
 [View](/da/documents/product-information/cometriq-epar-product-information_da.pdf)
 
-Deutsch (DE) (778.93 KB - PDF)
+Deutsch (DE) (779.63 KB - PDF)
 
 **First published:**
 
@@ -466,11 +465,11 @@ Deutsch (DE) (778.93 KB - PDF)
 
 **Last updated:**
 
-16/04/2025
+27/02/2026
 
 [View](/de/documents/product-information/cometriq-epar-product-information_de.pdf)
 
-eesti keel (ET) (700.35 KB - PDF)
+eesti keel (ET) (745.97 KB - PDF)
 
 **First published:**
 
@@ -478,11 +477,11 @@ eesti keel (ET) (700.35 KB - PDF)
 
 **Last updated:**
 
-16/04/2025
+27/02/2026
 
 [View](/et/documents/product-information/cometriq-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.04 MB - PDF)
+ελληνικά (EL) (935.39 KB - PDF)
 
 **First published:**
 
@@ -490,11 +489,11 @@ eesti keel (ET) (700.35 KB - PDF)
 
 **Last updated:**
 
-16/04/2025
+27/02/2026
 
 [View](/el/documents/product-information/cometriq-epar-product-information_el.pdf)
 
-français (FR) (830.46 KB - PDF)
+français (FR) (831.18 KB - PDF)
 
 **First published:**
 
@@ -502,11 +501,11 @@ français (FR) (830.46 KB - PDF)
 
 **Last updated:**
 
-16/04/2025
+27/02/2026
 
 [View](/fr/documents/product-information/cometriq-epar-product-information_fr.pdf)
 
-hrvatski (HR) (815.42 KB - PDF)
+hrvatski (HR) (815.48 KB - PDF)
 
 **First published:**
 
@@ -514,11 +513,11 @@ hrvatski (HR) (815.42 KB - PDF)
 
 **Last updated:**
 
-16/04/2025
+27/02/2026
 
 [View](/hr/documents/product-information/cometriq-epar-product-information_hr.pdf)
 
-íslenska (IS) (736.94 KB - PDF)
+íslenska (IS) (737.16 KB - PDF)
 
 **First published:**
 
@@ -526,11 +525,11 @@ hrvatski (HR) (815.42 KB - PDF)
 
 **Last updated:**
 
-16/04/2025
+27/02/2026
 
 [View](/is/documents/product-information/cometriq-epar-product-information_is.pdf)
 
-italiano (IT) (755.93 KB - PDF)
+italiano (IT) (758.26 KB - PDF)
 
 **First published:**
 
@@ -538,11 +537,11 @@ italiano (IT) (755.93 KB - PDF)
 
 **Last updated:**
 
-16/04/2025
+27/02/2026
 
 [View](/it/documents/product-information/cometriq-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (878.59 KB - PDF)
+latviešu valoda (LV) (884.61 KB - PDF)
 
 **First published:**
 
@@ -550,11 +549,11 @@ latviešu valoda (LV) (878.59 KB - PDF)
 
 **Last updated:**
 
-16/04/2025
+27/02/2026
 
 [View](/lv/documents/product-information/cometriq-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (800.98 KB - PDF)
+lietuvių kalba (LT) (805.66 KB - PDF)
 
 **First published:**
 
@@ -562,11 +561,11 @@ lietuvių kalba (LT) (800.98 KB - PDF)
 
 **Last updated:**
 
-16/04/2025
+27/02/2026
 
 [View](/lt/documents/product-information/cometriq-epar-product-information_lt.pdf)
 
-magyar (HU) (1021.53 KB - PDF)
+magyar (HU) (1.07 MB - PDF)
 
 **First published:**
 
@@ -574,11 +573,11 @@ magyar (HU) (1021.53 KB - PDF)
 
 **Last updated:**
 
-16/04/2025
+27/02/2026
 
 [View](/hu/documents/product-information/cometriq-epar-product-information_hu.pdf)
 
-Malti (MT) (869.93 KB - PDF)
+Malti (MT) (887.73 KB - PDF)
 
 **First published:**
 
@@ -586,11 +585,11 @@ Malti (MT) (869.93 KB - PDF)
 
 **Last updated:**
 
-16/04/2025
+27/02/2026
 
 [View](/mt/documents/product-information/cometriq-epar-product-information_mt.pdf)
 
-Nederlands (NL) (733.7 KB - PDF)
+Nederlands (NL) (718.44 KB - PDF)
 
 **First published:**
 
@@ -598,11 +597,11 @@ Nederlands (NL) (733.7 KB - PDF)
 
 **Last updated:**
 
-16/04/2025
+27/02/2026
 
 [View](/nl/documents/product-information/cometriq-epar-product-information_nl.pdf)
 
-norsk (NO) (728.32 KB - PDF)
+norsk (NO) (736.72 KB - PDF)
 
 **First published:**
 
@@ -610,11 +609,11 @@ norsk (NO) (728.32 KB - PDF)
 
 **Last updated:**
 
-16/04/2025
+27/02/2026
 
 [View](/no/documents/product-information/cometriq-epar-product-information_no.pdf)
 
-polski (PL) (864.15 KB - PDF)
+polski (PL) (892.86 KB - PDF)
 
 **First published:**
 
@@ -622,11 +621,11 @@ polski (PL) (864.15 KB - PDF)
 
 **Last updated:**
 
-16/04/2025
+27/02/2026
 
 [View](/pl/documents/product-information/cometriq-epar-product-information_pl.pdf)
 
-português (PT) (707.46 KB - PDF)
+português (PT) (713.85 KB - PDF)
 
 **First published:**
 
@@ -634,11 +633,11 @@ português (PT) (707.46 KB - PDF)
 
 **Last updated:**
 
-16/04/2025
+27/02/2026
 
 [View](/pt/documents/product-information/cometriq-epar-product-information_pt.pdf)
 
-română (RO) (838.32 KB - PDF)
+română (RO) (845.08 KB - PDF)
 
 **First published:**
 
@@ -646,11 +645,11 @@ română (RO) (838.32 KB - PDF)
 
 **Last updated:**
 
-16/04/2025
+27/02/2026
 
 [View](/ro/documents/product-information/cometriq-epar-product-information_ro.pdf)
 
-slovenčina (SK) (796.78 KB - PDF)
+slovenčina (SK) (823.83 KB - PDF)
 
 **First published:**
 
@@ -658,11 +657,11 @@ slovenčina (SK) (796.78 KB - PDF)
 
 **Last updated:**
 
-16/04/2025
+27/02/2026
 
 [View](/sk/documents/product-information/cometriq-epar-product-information_sk.pdf)
 
-slovenščina (SL) (857.07 KB - PDF)
+Suomi (FI) (736.59 KB - PDF)
 
 **First published:**
 
@@ -670,23 +669,11 @@ slovenščina (SL) (857.07 KB - PDF)
 
 **Last updated:**
 
-16/04/2025
-
-[View](/sl/documents/product-information/cometriq-epar-product-information_sl.pdf)
-
-Suomi (FI) (733.27 KB - PDF)
-
-**First published:**
-
-26/03/2014
-
-**Last updated:**
-
-16/04/2025
+27/02/2026
 
 [View](/fi/documents/product-information/cometriq-epar-product-information_fi.pdf)
 
-svenska (SV) (734.96 KB - PDF)
+svenska (SV) (740.58 KB - PDF)
 
 **First published:**
 
@@ -694,11 +681,11 @@ svenska (SV) (734.96 KB - PDF)
 
 **Last updated:**
 
-16/04/2025
+27/02/2026
 
 [View](/sv/documents/product-information/cometriq-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000263255 15/04/2025
+**Latest procedure affecting product information:** VR/0000271719 15/01/2026
 
 icon globe
 
@@ -724,7 +711,7 @@ English (EN) (165.89 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cometriq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-168)
+[Other languages (24)](#file-language-dropdown-489)
 
 български (BG) (99.65 KB - PDF)
 
@@ -1040,7 +1027,7 @@ Ipsen Pharma
 
 70 rue Balard 75015 Paris France
 
-Opinion adopted 19/12/2013 Marketing authorisation issued 21/03/2014 Revision 29
+Opinion adopted 19/12/2013 Marketing authorisation issued 21/03/2014 Revision 31
 
 ## Assessment history
 
@@ -1052,19 +1039,21 @@ Collapse section
 
 Cometriq : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (141.23 KB - PDF)
+English (EN) (157.8 KB - PDF)
 
 **First published:** 16/04/2025
+
+**Last updated:** 27/02/2026
 
 [View](/en/documents/procedural-steps-after/cometriq-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Cometriq : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-English (EN) (247.26 KB - PDF)
+English (EN) (254.96 KB - PDF)
 
 **First published:** 14/08/2014
 
-**Last updated:** 16/04/2025
+**Last updated:** 27/02/2026
 
 [View](/en/documents/procedural-steps-after/cometriq-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1164,23 +1153,221 @@ English (EN) (65.27 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-cometriq_en.pdf)
 
-#### News on Cometriq
+## News on Cometriq
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 December 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-december-2013) 20/12/2013
 
-#### Related information on Cometriq
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Cometriq : EPAR - Product information - tracked changes
+
+English (EN) (473.24 KB - DOCX)
+
+**First published:** 27/02/2026
+
+[View](/en/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (23)](#file-language-dropdown-720)
+
+български (BG) (953 KB - DOC)
+
+**First published:**
+
+27/02/2026
+
+[View](/bg/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_bg.doc)
+
+español (ES) (903 KB - DOC)
+
+**First published:**
+
+27/02/2026
+
+[View](/es/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_es.doc)
+
+čeština (CS) (1.09 MB - DOC)
+
+**First published:**
+
+27/02/2026
+
+[View](/cs/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_cs.doc)
+
+dansk (DA) (419.01 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/da/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (456.73 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/de/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (447.12 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/et/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (508.55 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/el/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (449.84 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/fr/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (504.45 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/hr/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (476.02 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/is/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (506.44 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/it/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (477.96 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/lv/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (442.19 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/lt/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (1 MB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/hu/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (308.35 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/mt/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (810.5 KB - DOC)
+
+**First published:**
+
+27/02/2026
+
+[View](/nl/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_nl.doc)
+
+norsk (NO) (512.98 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/no/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (535.25 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/pl/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (890 KB - DOC)
+
+**First published:**
+
+27/02/2026
+
+[View](/pt/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_pt.doc)
+
+română (RO) (1005.5 KB - DOC)
+
+**First published:**
+
+27/02/2026
+
+[View](/ro/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_ro.doc)
+
+slovenčina (SK) (396.08 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/sk/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_sk.docx)
+
+Suomi (FI) (475.14 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/fi/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (469.58 KB - DOCX)
+
+**First published:**
+
+27/02/2026
+
+[View](/sv/documents/product-information-tracked-changes/cometriq-epar-product-information-tracked-changes_sv.docx)
+
+## Related information on Cometriq
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-08-610) on 6 February 2009. Cometriq was withdrawn from the Community register of orphan medicinal products in March 2024 at the end of the 10-year period of market exclusivity.
 
-#### More information on Cometriq
+## More information on Cometriq
 
 - [EMEA-001143-PIP01-11-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001143-pip01-11-m06)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 16/04/2025
+**This page was last updated on** 27/02/2026
 
 ## Share this page
 

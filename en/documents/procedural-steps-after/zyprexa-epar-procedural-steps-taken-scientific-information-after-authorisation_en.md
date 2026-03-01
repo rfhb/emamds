@@ -1,38 +1,30 @@
 ---
-document_datetime: 2025-06-06 09:02:53
-document_pages: 3
+document_datetime: 2026-02-27 11:25:34
+document_pages: 4
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/zyprexa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: zyprexa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.4620292
-conversion_datetime: 2025-12-20 15:00:10.942374
+processing_time: 2.2835595
+conversion_datetime: 2026-03-01 19:47:13.540055
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## Zyprexa
 
 Procedural steps taken and scientific information after the authorisation*
 
-*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, please also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Application number   | Scope                                  | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
-|----------------------|----------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
-| Variation type IB /  | This was an application for a group of | 05/06/2025                          | N/A                                         | SmPC, Annex                      |           |
-
-1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
-
-2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The
-
-CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
-
-3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+| Application number   | Scope                                       | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|---------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Variation type IA /  | E. Administrative Changes - E.5 Deletion of | 26/02/2026                          |                                             | Annex II and                     |           |
 
 <!-- image -->
 
@@ -40,10 +32,18 @@ CD is issued within two months of the opinion for variations falling under the s
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/VR/0000252667   | II and PL   |
-|---------------------|-------------|
+|                                       | manufacturing sites for an active substance, intermediate or finished product, storage of master and/or working cell bank, primary and/or secondary packaging site, manufacturer responsible for batch release, site where quality control takes place, and/or supplier of a packaging component, medical device (part), starting material, reagent and/or excipient (when mentioned in the dossier) - Accepted                                                                                                                                                                                                                                                                                                                                                                                            |            | PL          | EMA/VR/0000326963   |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------|---------------------|
+| Variation type IB / EMA/VR/0000287642 | This was an application for a group of variations following a worksharing procedure according to Article 20 of Commission Regulation (EC) No 1234/2008. B.II.a.1 Change or addition of imprints, bossing or other markings including replacement, or addition of inks used for product marking - B.II.a.1.a Changes in imprints, bossing or other markings - Accepted B.II.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - B.II.b.3.a Minor change in the manufacturing process - Accepted B.II.b.4 Change in the batch size (including batch size ranges) of the finished product - B.II.b.4.a Up to 10-fold compared to the originally approved batch size - Accepted B.II.b.1 Replacement or addition of a | 26/02/2026 | SmPC and PL |                     |
 
 <div style=\"page-break-after: always\"></div>
 
-| B.II.e.1.a Qualitative and quantitative composition - B.II.e.1.a.1. Solid pharmaceutical forms - Accepted B.II.d.2 Change in test procedure for the finished product - B.II.d.2.e Update of the test procedure to comply with the updated general monograph in the Ph. Eur. - Accepted B.II.d.2 Change in test procedure for the finished product - B.II.d.2.d Other changes to a test procedure (including replacement or addition) - Accepted B.II.d.2 Change in test procedure for the finished product - B.II.d.2.d Other changes to a test procedure (including replacement or addition) - Accepted B.II.d.2 Change in test procedure for the finished product - B.II.d.2.d Other changes to a test procedure (including replacement or addition) - Accepted   |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                     | manufacturing site for part or all of the manufacturing process of the finished product - B.II.b.1.e Site where any manufacturing operation(s) take place, except batch-release, batch control, primary and secondary packaging, for nonsterile medicinal products - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |            |                       |                   |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------------|-------------------|
+| Variation type IB / | This was an application for a group of variations following a worksharing procedure according to Article 20 of Commission Regulation (EC) No 1234/2008. B.II.b.1 Replacement or addition of a manufacturing site for part or all of the manufacturing process of the finished product - B.II.b.1.b Primary packaging site - Accepted B.II.b.1 Replacement or addition of a manufacturing site for part or all of the manufacturing process of the finished product - B.II.b.1.a Secondary packaging site - Accepted B.II.b.2.c Replacement or addition of a manufacturer responsible for importation and/or batch release - B.II.b.2.c.2 Including batch control/testing - Accepted B.II.b.2 Change to importer, batch release arrangements and quality control testing of the finished product - B.II.b.2.a | 05/06/2025 | SmPC, Annex II and PL | EMA/VR/0000252667 |
+
+<div style=\"page-break-after: always\"></div>
+
+|                            | batch control/testing takes place - Accepted B.II.b.2.c Replacement or addition of a manufacturer responsible for importation and/or batch release - B.II.b.2.c.1 Not including batch control/testing - Accepted B.II.e.1.a Qualitative and quantitative composition - B.II.e.1.a.1. Solid pharmaceutical forms - Accepted B.II.d.2 Change in test procedure for the finished product - B.II.d.2.e Update of the test procedure to comply with the updated general monograph in the Ph. Eur. - Accepted B.II.d.2 Change in test procedure for the finished product - B.II.d.2.d Other changes to a test procedure (including replacement or addition) - Accepted B.II.d.2 Change in test procedure for the finished product - B.II.d.2.d Other changes to a test procedure (including replacement or addition) - Accepted B.II.d.2 Change in test procedure for the finished product - B.II.d.2.d Other changes to a test procedure (including replacement   |             |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| PSUR / EMA/PSUR/0000288282 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Maintenance |

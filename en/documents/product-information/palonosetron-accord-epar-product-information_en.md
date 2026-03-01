@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-30 09:59:50
+document_datetime: 2026-02-20 11:10:04
 document_pages: 26
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/palonosetron-accord-epar-product-information_en.pdf
 document_name: palonosetron-accord-epar-product-information_en.pdf
 version: success
-processing_time: 8.1101077
-conversion_datetime: 2025-12-25 00:17:42.097817
+processing_time: 8.2807571
+conversion_datetime: 2026-03-01 20:14:47.393407
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -519,7 +519,7 @@ DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines
 
-Agency http://www.ema.europa.eu.
+Agency https://www.ema.europa.eu.
 
 13
 
@@ -529,9 +529,7 @@ Agency http://www.ema.europa.eu.
 
 - A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RETRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETNG AUTHORISATION
-
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETNG AUTHORISATION
 - D.        CONDITIONS OR RETRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -541,6 +539,10 @@ Agency http://www.ema.europa.eu.
 Name and address of the manufacturers responsible for batch release
 
 Accord Healthcare Polska Sp.z o.o., ul. Lutomierska 50, 95-200 Pabianice, Poland
+
+Accord Healthcare single member S.A. 64 TH  Km National Road Athens, Lamia, Schimatari, 32009, Greece
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -833,7 +835,7 @@ Tell your doctor if you notice any of the following side effects:
 ## Uncommon: may affect up to 1 in 100 people
 
 - -change in the color of the vein and/or veins becoming larger
-- -feeling happier than usual or feeling  anxious
+- -feeling happier than usual or feeling anxious
 - -feeling sleepy or trouble sleeping
 - -decrease or loss of appetite
 - -weakness, feeling tired, fever or flu like symptoms
@@ -925,17 +927,17 @@ Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est
 
 Accord Healthcare Polska Sp.z o.o., ul. Lutomierska 50, 95-200 Pabianice, Poland
 
+Accord Healthcare single member S.A. 64 TH  Km National Road Athens, Lamia, Schimatari, 32009, Greece
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-AT / BE / BG / CY / CZ / DE / DK / EE / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PT / PL / RO / SE / SI / SK / ES
-
-Accord Healthcare S.L.U.
+AT / BE / BG / CY / CZ / DE / DK / EE / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PT / PL / RO / SE / SI / SK / ES Accord Healthcare S.L.U.
 
 Tel: +34 93 301 00 64
 
 EL
 
-Win Medica Pharmaceutical S.A.
+Win Medica A.E.
 
 Tel: +30 210 7488 821
 
@@ -943,4 +945,4 @@ Tel: +30 210 7488 821
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.

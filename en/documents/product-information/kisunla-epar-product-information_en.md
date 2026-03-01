@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-06 10:01:07
+document_datetime: 2026-02-26 09:59:39
 document_pages: 41
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kisunla-epar-product-information_en.pdf
 document_name: kisunla-epar-product-information_en.pdf
 version: success
-processing_time: 15.4046596
-conversion_datetime: 2026-02-09 21:57:31.092036
+processing_time: 8.7755396
+conversion_datetime: 2026-03-01 19:34:35.694391
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.1
-  docling: 2.72.0
-  docling-core: 2.63.0
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
   docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -80,7 +80,7 @@ Consideration should be given to discontinuing treatment before the end of the 1
 
 If an infusion is missed, administration should be resumed every 4 weeks at the same dose as soon as possible.
 
-## Monitoring, dosing interruption, and treatment discontinuation for amyloid related imaging abnormalities
+Monitoring, dosing interruption, and treatment discontinuation for amyloid related imaging abnormalities
 
 Donanemab can cause ARIA, characterized as ARIA with oedema (ARIA-E), which can be observed on MRI as brain oedema or sulcal effusions, and ARIA with haemosiderin deposition (ARIA-H), which includes microhaemorrhage and superficial siderosis. In addition to ARIA, intracerebral haemorrhages greater than 1 cm in diameter have occurred in patients treated with donanemab.
 
@@ -510,7 +510,7 @@ Kisunla contains polysorbate 80. Polysorbates are known to increase the rate of 
 
 ## 6.3 Shelf life
 
-2 years
+3 years
 
 ## 6.4 Special precautions for storage
 
@@ -812,11 +812,11 @@ EU/1/25/1926/001
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -900,11 +900,11 @@ EU/1/25/1926/002
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -984,7 +984,7 @@ EU/1/25/1926/002
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -994,7 +994,7 @@ Justification for not including Braille accepted.
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1180,7 +1180,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## More than 1 in 10 people may experience the following side effect:
 
-Cases  of  ARIA  that  resulted  in  serious  symptoms,  some  of  these  cases  have  been  fatal.  Symptoms include  headache,  confusion,  feeling  sick,  vomiting,  loss  of  balance,  dizziness,  trembling,  vision changes, speech disturbances, light-headedness, changes in consciousness, fits.
+Cases of  ARIA that resulted  in serious  symptoms,  some  of  these  cases  have  been  fatal.  Symptoms include  headache,  confusion,  feeling  sick,  vomiting,  loss  of  balance,  dizziness,  trembling,  vision changes, speech disturbances, light-headedness, changes in consciousness, fits.
 
 ## Up to 1 in 100 people may experience the following side effect:
 
@@ -1254,9 +1254,7 @@ For any information about this medicine, please contact the local representative
 
 ## Belgique/België/Belgien
 
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
+Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
 ## Lietuva
 
@@ -1264,7 +1262,9 @@ Eli Lilly Lietuva Tel. +370 (5) 2649600
 
 ## България
 
-ТП \" Ели Лили Недерланд \" Б . В . - България тел. + 359 2 491 41 40
+ТП \" Ели Лили Недерланд \" Б . В . - България
+
+тел. + 359 2 491 41 40
 
 ## Luxembourg/Luxemburg
 
@@ -1278,9 +1278,7 @@ Tel: + 420 234 664 111
 
 ## Magyarország
 
-Lilly Hungária Kft.
-
-Tel: + 36 1 328 5100
+Lilly Hungária Kft. Tel: + 36 1 328 5100
 
 ## Danmark
 

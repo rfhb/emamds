@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 09:09:36
+document_datetime: 2026-02-24 15:38:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/teriflunomide-accord.html
 document_name: teriflunomide-accord.html
 version: success
-processing_time: 0.1274677
-conversion_datetime: 2025-12-30 03:40:32.134236
+processing_time: 0.1168728
+conversion_datetime: 2026-03-01 19:52:25.579791
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Teriflunomide Accord
 
 [RSS](/en/individual-human-medicine.xml/67623)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 teriflunomide Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -50,7 +48,7 @@ Teriflunomide Accord is a medicine used to treat patients from the age of 10 yea
 
 Teriflunomide Accord is used in the type of MS known as relapsing-remitting MS, when the patient has flare-ups of symptoms (relapses) followed by periods of recovery (remissions).
 
-Teriflunomide Accord is a 'generic medicine'. This means that Teriflunomide Accord contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU called Aubagio. For more information on generic medicines, see the question-and-answer document [here](https://www.ema.europa.eu/en/documents/medicine-qa/questions-answers-generic-medicines_en.pdf) .
+Teriflunomide Accord is a 'generic medicine'. This means that Teriflunomide Accord contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU called Aubagio.
 
 Teriflunomide Accord contains the active substance teriflunomide.
 
@@ -104,7 +102,7 @@ English (EN) (144.61 KB - PDF)
 
 [View](/en/documents/overview/teriflunomide-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-793)
+[Other languages (22)](#file-language-dropdown-106)
 
 български (BG) (157.52 KB - PDF)
 
@@ -294,19 +292,19 @@ English (EN) (1.77 MB - PDF)
 
 ## Product information
 
-Teriflunomide Accord : EPAR - Product Information
+Teriflunomide Accord : EPAR - Product information
 
-English (EN) (603.6 KB - PDF)
+English (EN) (313.35 KB - PDF)
 
 **First published:** 14/11/2022
 
-**Last updated:** 29/07/2024
+**Last updated:** 24/02/2026
 
 [View](/en/documents/product-information/teriflunomide-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-528)
+[Other languages (24)](#file-language-dropdown-803)
 
-български (BG) (914.14 KB - PDF)
+български (BG) (686.73 KB - PDF)
 
 **First published:**
 
@@ -314,11 +312,11 @@ English (EN) (603.6 KB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/bg/documents/product-information/teriflunomide-accord-epar-product-information_bg.pdf)
 
-español (ES) (636.3 KB - PDF)
+español (ES) (400.03 KB - PDF)
 
 **First published:**
 
@@ -326,11 +324,11 @@ español (ES) (636.3 KB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/es/documents/product-information/teriflunomide-accord-epar-product-information_es.pdf)
 
-čeština (CS) (819.25 KB - PDF)
+čeština (CS) (562.57 KB - PDF)
 
 **First published:**
 
@@ -338,11 +336,11 @@ español (ES) (636.3 KB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/cs/documents/product-information/teriflunomide-accord-epar-product-information_cs.pdf)
 
-dansk (DA) (847.05 KB - PDF)
+dansk (DA) (366.38 KB - PDF)
 
 **First published:**
 
@@ -350,11 +348,11 @@ dansk (DA) (847.05 KB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/da/documents/product-information/teriflunomide-accord-epar-product-information_da.pdf)
 
-Deutsch (DE) (569.88 KB - PDF)
+Deutsch (DE) (416.33 KB - PDF)
 
 **First published:**
 
@@ -362,11 +360,11 @@ Deutsch (DE) (569.88 KB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/de/documents/product-information/teriflunomide-accord-epar-product-information_de.pdf)
 
-eesti keel (ET) (640.73 KB - PDF)
+eesti keel (ET) (538.12 KB - PDF)
 
 **First published:**
 
@@ -374,11 +372,11 @@ eesti keel (ET) (640.73 KB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/et/documents/product-information/teriflunomide-accord-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1021.95 KB - PDF)
+ελληνικά (EL) (518.86 KB - PDF)
 
 **First published:**
 
@@ -386,11 +384,11 @@ eesti keel (ET) (640.73 KB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/el/documents/product-information/teriflunomide-accord-epar-product-information_el.pdf)
 
-français (FR) (864.48 KB - PDF)
+français (FR) (594.03 KB - PDF)
 
 **First published:**
 
@@ -398,11 +396,11 @@ français (FR) (864.48 KB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/fr/documents/product-information/teriflunomide-accord-epar-product-information_fr.pdf)
 
-hrvatski (HR) (684.88 KB - PDF)
+hrvatski (HR) (433.26 KB - PDF)
 
 **First published:**
 
@@ -410,11 +408,11 @@ hrvatski (HR) (684.88 KB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/hr/documents/product-information/teriflunomide-accord-epar-product-information_hr.pdf)
 
-íslenska (IS) (627.78 KB - PDF)
+íslenska (IS) (395.87 KB - PDF)
 
 **First published:**
 
@@ -422,11 +420,11 @@ hrvatski (HR) (684.88 KB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/is/documents/product-information/teriflunomide-accord-epar-product-information_is.pdf)
 
-italiano (IT) (858.09 KB - PDF)
+italiano (IT) (502.67 KB - PDF)
 
 **First published:**
 
@@ -434,11 +432,11 @@ italiano (IT) (858.09 KB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/it/documents/product-information/teriflunomide-accord-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.06 MB - PDF)
+latviešu valoda (LV) (722.75 KB - PDF)
 
 **First published:**
 
@@ -446,11 +444,11 @@ latviešu valoda (LV) (1.06 MB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/lv/documents/product-information/teriflunomide-accord-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (698.9 KB - PDF)
+lietuvių kalba (LT) (562.19 KB - PDF)
 
 **First published:**
 
@@ -458,11 +456,11 @@ lietuvių kalba (LT) (698.9 KB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/lt/documents/product-information/teriflunomide-accord-epar-product-information_lt.pdf)
 
-magyar (HU) (827.5 KB - PDF)
+magyar (HU) (555.92 KB - PDF)
 
 **First published:**
 
@@ -470,11 +468,11 @@ magyar (HU) (827.5 KB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/hu/documents/product-information/teriflunomide-accord-epar-product-information_hu.pdf)
 
-Malti (MT) (791.17 KB - PDF)
+Malti (MT) (557.53 KB - PDF)
 
 **First published:**
 
@@ -482,11 +480,11 @@ Malti (MT) (791.17 KB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/mt/documents/product-information/teriflunomide-accord-epar-product-information_mt.pdf)
 
-Nederlands (NL) (775.17 KB - PDF)
+Nederlands (NL) (382.5 KB - PDF)
 
 **First published:**
 
@@ -494,11 +492,11 @@ Nederlands (NL) (775.17 KB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/nl/documents/product-information/teriflunomide-accord-epar-product-information_nl.pdf)
 
-norsk (NO) (651 KB - PDF)
+norsk (NO) (380.19 KB - PDF)
 
 **First published:**
 
@@ -506,11 +504,11 @@ norsk (NO) (651 KB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/no/documents/product-information/teriflunomide-accord-epar-product-information_no.pdf)
 
-polski (PL) (728.56 KB - PDF)
+polski (PL) (744.71 KB - PDF)
 
 **First published:**
 
@@ -518,11 +516,11 @@ polski (PL) (728.56 KB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/pl/documents/product-information/teriflunomide-accord-epar-product-information_pl.pdf)
 
-português (PT) (812.13 KB - PDF)
+português (PT) (353.96 KB - PDF)
 
 **First published:**
 
@@ -530,11 +528,11 @@ português (PT) (812.13 KB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/pt/documents/product-information/teriflunomide-accord-epar-product-information_pt.pdf)
 
-română (RO) (935.92 KB - PDF)
+română (RO) (505.02 KB - PDF)
 
 **First published:**
 
@@ -542,11 +540,11 @@ română (RO) (935.92 KB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/ro/documents/product-information/teriflunomide-accord-epar-product-information_ro.pdf)
 
-slovenčina (SK) (766.41 KB - PDF)
+slovenčina (SK) (552.91 KB - PDF)
 
 **First published:**
 
@@ -554,11 +552,11 @@ slovenčina (SK) (766.41 KB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/sk/documents/product-information/teriflunomide-accord-epar-product-information_sk.pdf)
 
-slovenščina (SL) (706.26 KB - PDF)
+slovenščina (SL) (424.33 KB - PDF)
 
 **First published:**
 
@@ -566,11 +564,11 @@ slovenščina (SL) (706.26 KB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/sl/documents/product-information/teriflunomide-accord-epar-product-information_sl.pdf)
 
-Suomi (FI) (676.8 KB - PDF)
+Suomi (FI) (396.51 KB - PDF)
 
 **First published:**
 
@@ -578,11 +576,11 @@ Suomi (FI) (676.8 KB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/fi/documents/product-information/teriflunomide-accord-epar-product-information_fi.pdf)
 
-svenska (SV) (621.44 KB - PDF)
+svenska (SV) (397.74 KB - PDF)
 
 **First published:**
 
@@ -590,11 +588,11 @@ svenska (SV) (621.44 KB - PDF)
 
 **Last updated:**
 
-25/07/2024
+24/02/2026
 
 [View](/sv/documents/product-information/teriflunomide-accord-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUSA/00010135/202309 26/07/2024
+**Latest procedure affecting product information:** VR/0000327771 23/02/2026
 
 icon globe
 
@@ -620,7 +618,7 @@ English (EN) (85.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/teriflunomide-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-86)
+[Other languages (24)](#file-language-dropdown-351)
 
 български (BG) (93.76 KB - PDF)
 
@@ -912,7 +910,7 @@ svenska (SV) (85.96 KB - PDF)
 
 ## Product details
 
-Name of medicine Teriflunomide Accord Active substance teriflunomide International non-proprietary name (INN) or common name teriflunomide Therapeutic area (MeSH) Multiple Sclerosis, Relapsing-Remitting Anatomical therapeutic chemical (ATC) code L04AA31
+Name of medicine Teriflunomide Accord Active substance teriflunomide International non-proprietary name (INN) or common name teriflunomide Therapeutic area (MeSH) Multiple Sclerosis, Relapsing-Remitting Anatomical therapeutic chemical (ATC) code L04AK02
 
 ### Pharmacotherapeutic group
 
@@ -937,7 +935,7 @@ Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a
 
-Opinion adopted 15/09/2022 Marketing authorisation issued 09/11/2022 Revision 3
+Opinion adopted 15/09/2022 Marketing authorisation issued 09/11/2022 Revision 5
 
 ## Assessment history
 
@@ -949,13 +947,21 @@ Collapse section
 
 Teriflunomide Accord : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (142.79 KB - PDF)
+English (EN) (149.55 KB - PDF)
+
+**First published:** 24/02/2026
+
+[View](/en/documents/procedural-steps-after/teriflunomide-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Teriflunomide Accord : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (106.77 KB - PDF)
 
 **First published:** 17/04/2024
 
-**Last updated:** 29/07/2024
+**Last updated:** 24/02/2026
 
-[View](/en/documents/procedural-steps-after/teriflunomide-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/teriflunomide-accord-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Teriflunomide Accord-H-C-PSUSA-00010135-202309 : Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1005,11 +1011,11 @@ English (EN) (127.97 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-teriflunomide-accord_en.pdf)
 
-#### News on Teriflunomide Accord
+## News on Teriflunomide Accord
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 September 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-september-2022) 16/09/2022
 
-#### More information on Teriflunomide Accord
+## More information on Teriflunomide Accord
 
 Questions and answers on generic medicines
 
@@ -1023,7 +1029,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-413)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1289,7 +1295,7 @@ svenska (SV) (67.11 KB - PDF)
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-**This page was last updated on** 29/07/2024
+**This page was last updated on** 24/02/2026
 
 ## Share this page
 

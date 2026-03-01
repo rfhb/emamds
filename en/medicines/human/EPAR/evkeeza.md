@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:04:36
+document_datetime: 2026-02-26 16:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/evkeeza.html
 document_name: evkeeza.html
 version: success
-processing_time: 0.1071369
-conversion_datetime: 2025-12-31 07:44:23.539083
+processing_time: 0.0912621
+conversion_datetime: 2026-03-01 19:57:44.02959
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Evkeeza
 
 [RSS](/en/individual-human-medicine.xml/67456)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 evinacumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +116,7 @@ English (EN) (101.37 KB - PDF)
 
 [View](/en/documents/overview/evkeeza-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-177)
+[Other languages (21)](#file-language-dropdown-507)
 
 български (BG) (125.66 KB - PDF)
 
@@ -386,17 +384,17 @@ English (EN) (460.13 KB - PDF)
 
 Evkeeza : EPAR - Product Information
 
-English (EN) (397.32 KB - PDF)
+English (EN) (262.18 KB - PDF)
 
 **First published:** 21/06/2021
 
-**Last updated:** 01/08/2025
+**Last updated:** 26/02/2026
 
 [View](/en/documents/product-information/evkeeza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-213)
+[Other languages (24)](#file-language-dropdown-899)
 
-български (BG) (510 KB - PDF)
+български (BG) (515.63 KB - PDF)
 
 **First published:**
 
@@ -404,11 +402,11 @@ English (EN) (397.32 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/bg/documents/product-information/evkeeza-epar-product-information_bg.pdf)
 
-español (ES) (247 KB - PDF)
+español (ES) (504.33 KB - PDF)
 
 **First published:**
 
@@ -416,11 +414,11 @@ español (ES) (247 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/es/documents/product-information/evkeeza-epar-product-information_es.pdf)
 
-čeština (CS) (306.65 KB - PDF)
+čeština (CS) (474.1 KB - PDF)
 
 **First published:**
 
@@ -428,11 +426,11 @@ español (ES) (247 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/cs/documents/product-information/evkeeza-epar-product-information_cs.pdf)
 
-dansk (DA) (239.63 KB - PDF)
+dansk (DA) (502.62 KB - PDF)
 
 **First published:**
 
@@ -440,11 +438,11 @@ dansk (DA) (239.63 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/da/documents/product-information/evkeeza-epar-product-information_da.pdf)
 
-Deutsch (DE) (254.76 KB - PDF)
+Deutsch (DE) (517.65 KB - PDF)
 
 **First published:**
 
@@ -452,11 +450,11 @@ Deutsch (DE) (254.76 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/de/documents/product-information/evkeeza-epar-product-information_de.pdf)
 
-eesti keel (ET) (242 KB - PDF)
+eesti keel (ET) (491.88 KB - PDF)
 
 **First published:**
 
@@ -464,11 +462,11 @@ eesti keel (ET) (242 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/et/documents/product-information/evkeeza-epar-product-information_et.pdf)
 
-ελληνικά (EL) (395.04 KB - PDF)
+ελληνικά (EL) (686.76 KB - PDF)
 
 **First published:**
 
@@ -476,11 +474,11 @@ eesti keel (ET) (242 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/el/documents/product-information/evkeeza-epar-product-information_el.pdf)
 
-français (FR) (250.07 KB - PDF)
+français (FR) (514.39 KB - PDF)
 
 **First published:**
 
@@ -488,11 +486,11 @@ français (FR) (250.07 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/fr/documents/product-information/evkeeza-epar-product-information_fr.pdf)
 
-hrvatski (HR) (306.76 KB - PDF)
+hrvatski (HR) (504.24 KB - PDF)
 
 **First published:**
 
@@ -500,11 +498,11 @@ hrvatski (HR) (306.76 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/hr/documents/product-information/evkeeza-epar-product-information_hr.pdf)
 
-íslenska (IS) (239.79 KB - PDF)
+íslenska (IS) (501.03 KB - PDF)
 
 **First published:**
 
@@ -512,11 +510,11 @@ hrvatski (HR) (306.76 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/is/documents/product-information/evkeeza-epar-product-information_is.pdf)
 
-italiano (IT) (251.93 KB - PDF)
+italiano (IT) (489.41 KB - PDF)
 
 **First published:**
 
@@ -524,11 +522,11 @@ italiano (IT) (251.93 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/it/documents/product-information/evkeeza-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (315.08 KB - PDF)
+latviešu valoda (LV) (510.3 KB - PDF)
 
 **First published:**
 
@@ -536,11 +534,11 @@ latviešu valoda (LV) (315.08 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/lv/documents/product-information/evkeeza-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (310.92 KB - PDF)
+lietuvių kalba (LT) (520.72 KB - PDF)
 
 **First published:**
 
@@ -548,11 +546,11 @@ lietuvių kalba (LT) (310.92 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/lt/documents/product-information/evkeeza-epar-product-information_lt.pdf)
 
-magyar (HU) (321.56 KB - PDF)
+magyar (HU) (538.33 KB - PDF)
 
 **First published:**
 
@@ -560,11 +558,11 @@ magyar (HU) (321.56 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/hu/documents/product-information/evkeeza-epar-product-information_hu.pdf)
 
-Malti (MT) (336.34 KB - PDF)
+Malti (MT) (555.33 KB - PDF)
 
 **First published:**
 
@@ -572,11 +570,11 @@ Malti (MT) (336.34 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/mt/documents/product-information/evkeeza-epar-product-information_mt.pdf)
 
-Nederlands (NL) (247.04 KB - PDF)
+Nederlands (NL) (503.67 KB - PDF)
 
 **First published:**
 
@@ -584,11 +582,11 @@ Nederlands (NL) (247.04 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/nl/documents/product-information/evkeeza-epar-product-information_nl.pdf)
 
-norsk (NO) (246.79 KB - PDF)
+norsk (NO) (499.95 KB - PDF)
 
 **First published:**
 
@@ -596,11 +594,11 @@ norsk (NO) (246.79 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/no/documents/product-information/evkeeza-epar-product-information_no.pdf)
 
-polski (PL) (319.9 KB - PDF)
+polski (PL) (532.21 KB - PDF)
 
 **First published:**
 
@@ -608,11 +606,11 @@ polski (PL) (319.9 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/pl/documents/product-information/evkeeza-epar-product-information_pl.pdf)
 
-português (PT) (243.43 KB - PDF)
+português (PT) (496.74 KB - PDF)
 
 **First published:**
 
@@ -620,11 +618,11 @@ português (PT) (243.43 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/pt/documents/product-information/evkeeza-epar-product-information_pt.pdf)
 
-română (RO) (402.22 KB - PDF)
+română (RO) (589.29 KB - PDF)
 
 **First published:**
 
@@ -632,11 +630,11 @@ română (RO) (402.22 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/ro/documents/product-information/evkeeza-epar-product-information_ro.pdf)
 
-slovenčina (SK) (305.56 KB - PDF)
+slovenčina (SK) (524.11 KB - PDF)
 
 **First published:**
 
@@ -644,11 +642,11 @@ slovenčina (SK) (305.56 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/sk/documents/product-information/evkeeza-epar-product-information_sk.pdf)
 
-slovenščina (SL) (308.19 KB - PDF)
+slovenščina (SL) (514.11 KB - PDF)
 
 **First published:**
 
@@ -656,11 +654,11 @@ slovenščina (SL) (308.19 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/sl/documents/product-information/evkeeza-epar-product-information_sl.pdf)
 
-Suomi (FI) (243.15 KB - PDF)
+Suomi (FI) (496.2 KB - PDF)
 
 **First published:**
 
@@ -668,11 +666,11 @@ Suomi (FI) (243.15 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/fi/documents/product-information/evkeeza-epar-product-information_fi.pdf)
 
-svenska (SV) (295.76 KB - PDF)
+svenska (SV) (534.45 KB - PDF)
 
 **First published:**
 
@@ -680,11 +678,11 @@ svenska (SV) (295.76 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+26/02/2026
 
 [View](/sv/documents/product-information/evkeeza-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000286193 31/07/2025
+**Latest procedure affecting product information:** R/0000293523 23/02/2026
 
 icon globe
 
@@ -708,7 +706,7 @@ English (EN) (61.47 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/evkeeza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-698)
+[Other languages (24)](#file-language-dropdown-730)
 
 български (BG) (69.93 KB - PDF)
 
@@ -932,7 +930,7 @@ Ultragenyx Germany GmbH
 
 Rahel-Hirsch-Str. 10
 
-Opinion adopted 22/04/2021 Marketing authorisation issued 17/06/2021 Revision 10
+Opinion adopted 22/04/2021 Marketing authorisation issued 17/06/2021 Revision 11
 
 ## Assessment history
 
@@ -944,11 +942,11 @@ Collapse section
 
 Evkeeza : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (138.45 KB - PDF)
+English (EN) (142.95 KB - PDF)
 
 **First published:** 27/02/2025
 
-**Last updated:** 01/08/2025
+**Last updated:** 26/02/2026
 
 [View](/en/documents/procedural-steps-after/evkeeza-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1032,18 +1030,18 @@ English (EN) (148.73 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-evkeeza_en.pdf)
 
-#### News on Evkeeza
+## News on Evkeeza
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 November 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-november-2024) 15/11/2024
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 6-9 November 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-6-9-november-2023) 10/11/2023
 
-#### More information on Evkeeza
+## More information on Evkeeza
 
 - [EMEA-002298-PIP01-17-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002298-pip01-17-m05)
 - [Evkeeza - opinion on variation to marketing authorisation](/en/medicines/human/variation/evkeeza)
 
-**This page was last updated on** 01/08/2025
+**This page was last updated on** 26/02/2026
 
 ## Share this page
 

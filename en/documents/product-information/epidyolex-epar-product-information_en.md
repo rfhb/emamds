@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-05-23 16:00:18
+document_datetime: 2026-02-27 11:58:10
 document_pages: 47
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/epidyolex-epar-product-information_en.pdf
 document_name: epidyolex-epar-product-information_en.pdf
 version: success
-processing_time: 23.442651
-conversion_datetime: 2025-12-23 02:09:46.378302
+processing_time: 12.1232684
+conversion_datetime: 2026-03-01 20:20:21.477494
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -257,7 +257,7 @@ Cannabidiol is a substrate for UGT1A7, UGT1A9 and UGT2B7. No formal drug-drug in
 
 The pharmacokinetics of cannabidiol are complex and may cause interactions with the patient's concomitant AED treatments. Cannabidiol and/or concomitant AED treatment should therefore be adjusted during regular medical supervision and the patient should be closely monitored for adverse drug reactions. In addition, monitoring of plasma concentrations should be considered.
 
-The potential for drug-drug interactions with other concomitant AEDs has been assessed in healthy volunteers and patients with epilepsy for clobazam, valproate, stiripentol and everolimus. Although no formal drug-drug interaction studies have been performed for other AEDs, phenytoin and lamotrigine are addressed based on in vitro data.
+The potential for drug-drug interactions with other concomitant AEDs has been assessed in healthy volunteers and patients with epilepsy for clobazam, valproate, stiripentol and everolimus.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -267,7 +267,7 @@ When cannabidiol and clobazam are co-administered, bi-directional PK interaction
 
 ## Valproate
 
-Concomitant use of cannabidiol and valproate increases the incidence of transaminase enzyme elevations (see section 4.8. The mechanism of this interaction remains unknown. If clinically significant increases of transaminases occur, cannabidiol and/or concomitant valproate should be reduced or discontinued in all patients until a recovery of transaminase elevations are observed. Insufficient data are available to assess the risk of concomitant administration of other hepatotoxic medicinal products and cannabidiol (see section 4.4).
+Concomitant use of cannabidiol and valproate increases the incidence of transaminase enzyme elevations (see section 4.8). The mechanism of this interaction remains unknown. If clinically significant increases of transaminases occur, cannabidiol and/or concomitant valproate should be reduced or discontinued in all patients until a recovery of transaminase elevations are observed. Insufficient data are available to assess the risk of concomitant administration of other hepatotoxic medicinal products and cannabidiol (see section 4.4).
 
 Concomitant use of cannabidiol and valproate increases the incidence of diarrhoea and events of decreased appetite. The mechanism of this interaction is unknown.
 
@@ -275,39 +275,53 @@ Concomitant use of cannabidiol and valproate increases the incidence of diarrhoe
 
 When cannabidiol was combined with stiripentol in a healthy volunteer trial there was an increase in stiripentol levels of 28% for maximum measured plasma concentration (Cmax) and 55% for AUC. In patients, however, the effect was smaller, with an increase in stiripentol levels of 17% in Cmax and 30% in AUC. The clinical importance of these results has not been studied. The patient should be closely monitored for adverse drug reactions.
 
-## Phenytoin
-
-Exposure to phenytoin may be increased when it is co-administered with cannabidiol, as phenytoin is largely metabolised via CYP2C9, which is inhibited by cannabidiol in vitro . There have not been any clinical studies formally investigating this interaction. Phenytoin has a narrow therapeutic index, so combining cannabidiol with phenytoin should be initiated with caution and if tolerability issues arise, dose reduction of phenytoin should be considered.
-
-## Lamotrigine
-
-Lamotrigine is a substrate for UGT enzymes including UGT2B7 which is inhibited by cannabidiol in vitro . There have not been any clinical studies formally investigating this interaction. Lamotrigine levels may be elevated when it is co-administered with cannabidiol.
-
 ## Everolimus
 
 Coadministration of cannabidiol (12.5 mg/kg twice daily) with the P-gp and CYP3A4 substrate everolimus (5 mg) in a healthy volunteer study led to an increase in everolimus exposure of approximately 2.5-fold for both Cmax and AUC. The mechanism for this interaction is believed to be inhibition of intestinal P-gp efflux, leading to increased bioavailability of everolimus, because cannabidiol did not affect midazolam exposure in another interaction study. The half-life of everolimus was not affected, confirming the lack of systemic inhibitory effects of cannabidiol on P-gp and CYP3A4 activity. When initiating cannabidiol in patients taking everolimus, monitor therapeutic drug levels of everolimus and adjust the dose accordingly. When initiating everolimus in patients taking a stable dose of cannabidiol, a lower starting dose of everolimus is recommended, with therapeutic drug monitoring.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Potential for cannabidiol to affect other medicinal products
 
-## CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, UGT1A9, and UGT2B7 substrates
+## Sensitive substrates of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, UGT1A9, and UGT2B7 Sensitive CYP1A2 substrates
 
 In vivo data from steady-state dosing with cannabidiol (750 mg twice daily) when co-administered with a single dose of caffeine (200 mg), a sensitive CYP1A2 substrate, showed increased caffeine exposure by 15% for Cmax and 95% for AUC compared to when caffeine was administered alone. These data indicate that cannabidiol is a weak inhibitor of CYP1A2. Similar modest increases in exposure may be observed with other sensitive CYP1A2 substrates (e.g., theophylline or tizanidine). The clinical importance of these findings has not been studied. The patient should be closely monitored for adverse drug reactions.
 
-In vitro data predict drug-drug interactions with CYP2B6 substrates (e.g., bupropion, efavirenz), uridine 5' diphospho-glucuronosyltransferase 1A9 (UGT1A9) (e.g., diflunisal, propofol, fenofibrate), and UGT2B7 (e.g., gemfibrozil, morphine, lorazepam) when co-administered with cannabidiol. Co-administration of cannabidiol is also predicted to cause clinically significant interactions with CYP2C8 (repaglinide) and CYP2C9 (e.g., warfarin) substrates.
+## Sensitive CYP2B6 substrates
+
+Coadministration of cannabidiol (7.5 mg/kg twice daily) with a single dose of bupropion (150 mg), a sensitive CYP2B6 substrate, decreased bupropion exposure by 19% for Cmax and 20% for AUC
+
+<div style=\"page-break-after: always\"></div>
+
+(compared to bupropion administered alone), which is within the observed variability and therefore not clinically meaningful. Changes in exposures of CYP2B6 substrates are unknown when concomitantly used with cannabidiol at doses above 7.5 mg/kg twice daily.
+
+## Sensitive CYP2C9 substrates
+
+Coadministration of cannabidiol (7.5 mg/kg twice daily) with a single dose of tolbutamide (500 mg), (a moderately sensitive CYP2C9 substrate), did not result in changes in plasma concentration of tolbutamide compared to tolbutamide administered alone. Similar Cmax and AUC of tolbutamide is predicted with steady-state dosing of cannabidiol (12.5 mg/kg twice daily) when coadministered with a single dose of tolbutamide (500 mg), compared to when tolbutamide was administered alone. No dose adjustment is needed for drugs that are substrates of CYP2C9 (e.g. phenytoin) when given concomitantly with cannabidiol.
+
+## Sensitive CYP2C19 substrates
 
 In vitro data have demonstrated that cannabidiol inhibits CYP2C19, which may cause increased plasma concentrations of medicines that are metabolised by this isoenzyme such as clobazam and omeprazole. Dose reduction should be considered for concomitant medicinal products that are sensitive CYP2C19 substrates or that have a narrow therapeutic index.
 
-Because of potential inhibition of enzyme activity, dose reduction of substrates of UGT1A9, UGT2B7, CYP2C8, and CYP2C9 should be considered, as clinically appropriate, if adverse reactions are experienced when administered concomitantly with cannabidiol. Because of potential for both induction and inhibition of enzyme activity, dose adjustment of substrates of CYP1A2 and CYP2B6 should be considered, as clinically appropriate.
+## Sensitive CYP2C8 substrates
+
+Because of potential inhibition of enzyme activity, dose reduction of substrates of CYP2C8 should be considered, as clinically appropriate, if adverse reactions are experienced when administered concomitantly with cannabidiol.
+
+## Sensitive UGT1A9 substrates
+
+Coadministration of cannabidiol (7.5 mg/kg twice daily) with a single dose of mycophenolate mofetil (1500 mg) increased mycophenolic acid (a sensitive UGT1A9 substate) exposure by 16% for Cmax and 35% for AUC. An increase in mycophenolic acid exposure by 9% for Cmax and 58% for AUC is predicted when mycophenolate mofetil (1500 mg) was coadministered with steady-state dosing of cannabidiol (12.5 mg/kg twice daily). Increases in concentration of UGT1A9 substrates may be observed when concomitantly used with cannabidiol. Consider a dose reduction of sensitive UGT1A9 substrates, such as mycophenolate acid, where even minor changes in concentration may lead to serious adverse reactions. Adjust dosing based on clinical judgement.
+
+## Sensitive UGT2B7 substrates
+
+Coadministration of cannabidiol (7.5 mg/kg twice daily) with a single dose of zidovudine (300 mg), a sensitive UGT2B7 substrate, increased zidovudine exposure by 7% for Cmax and 19% for AUC (compared to zidovudine administered alone) which is not expected to be clinically significant. No clinically meaningful changes in plasma exposures of zidovudine are predicted when zidovudine is coadministered with steady-state dosing of cannabidiol (12.5 mg/kg twice daily). No dose adjustment is needed for drugs that are substrates of UGT2B7 (e.g. lamotrigine) when given concomitantly with cannabidiol.
 
 ## In vitro assessment of interaction with UGT enzymes
 
-In vitro data suggest that cannabidiol is a reversible inhibitor of UGT1A9 and UGT2B7 activity at clinically relevant concentrations. The metabolite 7-carboxy-cannabidiol (7-COOH-CBD) is also an inhibitor of UGT1A1, UGT1A4 and UGT1A6-mediated activity in vitro. Dose reduction of the substrates may be necessary when cannabidiol is administered concomitantly with substrates of these UGTs.
+The metabolite 7-carboxy-cannabidiol (7-COOH-CBD) is an inhibitor of UGT1A1, UGT1A4 and UGT1A6-mediated activity in vitro. Dose reduction of the substrates may be necessary when cannabidiol is administered concomitantly with substrates of these UGTs.
 
 ## Sensitive P-gp substrates given orally
 
 Coadministration of cannabidiol with orally administered everolimus, a P-gp and CYP3A4 substrate, has increased everolimus bioavailability likely due to inhibition of intestinal P-gp efflux of everolimus. Increases in exposure of other orally administered sensitive P-gp substrates (e.g., sirolimus, tacrolimus, digoxin) may occur on coadministration with cannabidiol. Therapeutic drug monitoring and dose reduction of other P-gp substrates should be considered when given orally and concurrently with cannabidiol.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -316,8 +330,6 @@ Coadministration of cannabidiol with orally administered everolimus, a P-gp and 
 There are only limited data from the use of cannabidiol in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3).
 
 As a precautionary measure, cannabidiol should not be used during pregnancy unless the potential benefit to the mother clearly outweighs the potential risk to the foetus.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Breast-feeding
 
@@ -345,7 +357,7 @@ Adverse reactions reported with cannabidiol in the recommended dose range of 10 
 
 The most common adverse reactions are somnolence (23%), decreased appetite (21%), diarrhoea (20%), pyrexia (16%), vomiting (12%) and fatigue (10%).
 
-The most frequent cause of discontinuations was transaminase elevation (2%), somnolence (2%) and decreased appetite (1%).
+The most frequent causes of discontinuation were transaminase elevation (2%), somnolence (2%) and decreased appetite (1%).
 
 ## Tabulated list of adverse reactions
 
@@ -353,20 +365,17 @@ Adverse reactions reported with cannabidiol in placebo-controlled clinical studi
 
 The frequencies are defined as follows: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Table 3: Tabulated list of adverse reactions
-
-| System Organ Class                   | Frequency   | Adverse reactions from clinical trials   |
-|--------------------------------------|-------------|------------------------------------------|
-| Infections and infestations          | Common      | Pneumonia a                              |
-| Infections and infestations          | Common      | Urinary tract infection                  |
-| Blood and lymphatic system disorders | Very common | Haemoglobin decreased                    |
-| Blood and lymphatic system disorders | Very common | Haematocrit decreased                    |
-| Metabolism and nutrition disorders   | Very common | Decreased appetite                       |
-
 <div style=\"page-break-after: always\"></div>
+
+Table 3: Tabulated list of adverse reactions
 
 | System Organ Class                                   | Frequency   | Adverse reactions from clinical trials   |
 |------------------------------------------------------|-------------|------------------------------------------|
+| Infections and infestations                          | Common      | Pneumonia a                              |
+| Infections and infestations                          | Common      | Urinary tract infection                  |
+| Blood and lymphatic system disorders                 | Very common | Haemoglobin decreased                    |
+| Blood and lymphatic system disorders                 | Very common | Haematocrit decreased                    |
+| Metabolism and nutrition disorders                   | Very common | Decreased appetite                       |
 | Psychiatric disorders                                | Common      | Irritability                             |
 | Psychiatric disorders                                | Common      | Aggression                               |
 | Nervous system disorders                             | Very common | Somnolence a                             |
@@ -385,8 +394,6 @@ Table 3: Tabulated list of adverse reactions
 | General disorders and administration site conditions | Very common | Fatigue                                  |
 | Investigations                                       | Common      | Weight decreased                         |
 
-a Grouped Terms: Pneumonia: Pneumonia, Pneumonia RSV, Pneumonia mycoplasmal, Pneumonia adenoviral, Pneumonia viral, Aspiration pneumonia; Somnolence: Somnolence, Sedation.
-
 ## Description of selected adverse reactions
 
 ## Hepatocellular injury
@@ -395,7 +402,7 @@ Cannabidiol can cause dose-related elevations of ALT and AST (see section 4.4).
 
 In controlled studies for LGS, DS (receiving 10 or 20 mg/kg/day) and for TSC (receiving 25 mg/kg/day), the incidence of ALT elevations above 3 times the ULN was 12% in cannabidiol-treated patients compared with &lt; 1% in patients on placebo.
 
-Less than 1% of cannabidiol -treated patients had ALT or AST levels greater than 20 times the ULN. There have been cases of transaminase elevations associated with hospitalisation in patients taking cannabidiol.
+Less than 1% of cannabidiol-treated patients had ALT or AST levels greater than 20 times the ULN. There have been cases of transaminase elevations associated with hospitalisation in patients taking cannabidiol.
 
 ## Risk factors for hepatocellular injury
 
@@ -409,15 +416,13 @@ In cannabidiol-treated patients receiving doses of 10, 20, and 25 mg/kg/day, the
 
 ALT elevations greater than 3 times the ULN were reported in 15% of patients taking cannabidiol 20 or 25 mg/kg/day compared with 3% in patients taking cannabidiol 10 mg/kg/day.
 
+<div style=\"page-break-after: always\"></div>
+
 The risk of ALT elevations was higher at doses higher than the 25 mg/kg/day in the controlled study in TSC.
 
 ## Baseline transaminase elevations
 
-In controlled trials (see section 5.1) in patients taking cannabidiol 20 or 25 mg/kg/day, the frequency of treatment-emergent ALT elevations greater than 3 times the ULN was 29% (80% of these were on valproate) when ALT was above the ULN at baseline, compared to 12% (89% of these were on valproate) when ALT was within the normal range at baseline. A total of 5% of patients (all on
-
-<div style=\"page-break-after: always\"></div>
-
-valproate) taking cannabidiol 10 mg/kg/day experienced ALT elevations greater than 3 times the ULN when ALT was above the ULN at baseline, compared with 3% of patients (all on valproate) in whom ALT was within the normal range at baseline.
+In controlled trials (see section 5.1) in patients taking cannabidiol 20 or 25 mg/kg/day, the frequency of treatment-emergent ALT elevations greater than 3 times the ULN was 29% (80% of these were on valproate) when ALT was above the ULN at baseline, compared to 12% (89% of these were on valproate) when ALT was within the normal range at baseline. A total of 5% of patients (all on valproate) taking cannabidiol 10 mg/kg/day experienced ALT elevations greater than 3 times the ULN when ALT was above the ULN at baseline, compared with 3% of patients (all on valproate) in whom ALT was within the normal range at baseline.
 
 ## Somnolence and sedation
 
@@ -441,13 +446,15 @@ In the clinical trials, the first onset of diarrhoea was typically in the first 
 
 Cannabidiol can cause decreases in haemoglobin and haematocrit. In LGS, DS and TSC patients, the mean decrease in haemoglobin from baseline to end of treatment was -0.36 g/dL in cannabidiol-treated patients receiving 10, 20, or 25 mg/kg/day. A corresponding decrease in haematocrit was also observed, with a mean change of -1.3% in cannabidiol-treated patients.
 
-Twenty-seven percent (27%) of cannabidiol-treated patients with LGS and DS and 38% of cannabidiol-treated patients (25 mg/kg/day) with TSC developed a new laboratory-defined anaemia during the course of the study (defined as a normal haemoglobin concentration at baseline, with a reported value less than the lower limit of normal at a subsequent time point).
+Twenty-seven percent (27%) of cannabidiol-treated patients with LGS and DS and 38% of cannabidiol-treated patients (25 mg/kg/day) with TSC developed a new laboratory-defined anaemia
+
+<div style=\"page-break-after: always\"></div>
+
+during the course of the study (defined as a normal haemoglobin concentration at baseline, with a reported value less than the lower limit of normal at a subsequent time point).
 
 ## Increases in creatinine
 
 Cannabidiol can cause elevations in serum creatinine. The mechanism has not yet been determined. In controlled studies in healthy adults and in patients with LGS, DS and TSC, an increase in serum creatinine of approximately 10% was observed within 2 weeks of starting cannabidiol. The increase was reversible in healthy adults. Reversibility was not assessed in studies in LGS, DS or TSC.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pneumonia
 
@@ -481,15 +488,13 @@ The precise mechanisms by which cannabidiol exerts its anticonvulsant effects in
 
 In patients, there is a potential additive anticonvulsant effect from the bi-directional pharmacokinetic interaction between cannabidiol and clobazam, which leads to increases in circulating levels of their respective active metabolites, 7-OH-CBD (approximately 1.5-fold) and N-CLB (approximately 3-fold) (see sections 4.5, 5.1 and 5.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Clinical efficacy
 
 ## Adjunctive therapy in patients with Lennox-Gastaut syndrome (LGS)
 
-The efficacy of cannabidiol for the adjunctive therapy of seizures associated with Lennox-Gastaut syndrome (LGS) was evaluated in two randomised, double-blind, placebo-controlled, parallel-group studies (GWPCARE3 and GWPCARE4). Each study consisted of a 4-week baseline period, a 2-week titration period and a 12-week maintenance period. Mean age of the study population was 15 years and 94% were taking 2 or more concomitant AEDs (cAEDs) during the trial. The most commonly used cAEDs (&gt; 25% of patients) in both trials were valproate, clobazam, lamotrigine, levetiracetam, and
-
-<div style=\"page-break-after: always\"></div>
-
-rufinamide. Approximately 50% of the patients were taking concomitant clobazam. Of the patients that were not taking clobazam, the majority had previously taken and subsequently discontinued clobazam treatment.
+The efficacy of cannabidiol for the adjunctive therapy of seizures associated with Lennox-Gastaut syndrome (LGS) was evaluated in two randomised, double-blind, placebo-controlled, parallel-group studies (GWPCARE3 and GWPCARE4). Each study consisted of a 4-week baseline period, a 2-week titration period and a 12-week maintenance period. Mean age of the study population was 15 years and 94% were taking 2 or more concomitant AEDs (cAEDs) during the trial. The most commonly used cAEDs (&gt; 25% of patients) in both trials were valproate, clobazam, lamotrigine, levetiracetam, and rufinamide. Approximately 50% of the patients were taking concomitant clobazam. Of the patients that were not taking clobazam, the majority had previously taken and subsequently discontinued clobazam treatment.
 
 The primary endpoint was the percentage change from baseline in drop seizures per 28 days over the treatment period for the cannabidiol group compared to placebo. Drop seizures were defined as atonic, tonic, or tonic-clonic seizures that led or could have led to a fall or injury. Key secondary endpoints were the proportion of patients with at least a 50% reduction in drop seizure frequency, the percentage change from baseline in total seizure frequency, and Subject/Caregiver Global Impression of Change at the last visit.
 
@@ -499,53 +504,30 @@ Table 4 summarises the primary endpoint of percent reduction from baseline in dr
 
 Table 4: Primary and ≥ 50% responder key secondary outcome measures and subgroup analysis in LGS studies
 
-|                                                                |                      | Overall                                      | N     | Subgroup with clobazam                                  | N        |           |
-|----------------------------------------------------------------|----------------------|----------------------------------------------|-------|---------------------------------------------------------|----------|-----------|
-| DROP SEIZURES PER 28 DAYS                                      |                      |                                              |       |                                                         |          |           |
-| Percentage reduction from baseline a                           |                      |                                              |       |                                                         |          |           |
-| GWPCARE3                                                       | Placebo 10 mg/kg/day | 17.2% 37.2% 41.9%                            | 76 73 | 22.7% 45.6% 64.3%                                       | 37 37 36 |           |
-| GWPCARE4                                                       | 20 mg/kg/day         |                                              | 76    |                                                         |          |           |
-|                                                                | Placebo              | 21.8%                                        | 85    | 30.7%                                                   | 42       |           |
-| Difference                                                     | 10 mg/kg/day         |                                              |       |                                                         |          |           |
-|                                                                | 20 mg/kg/day         | 43.9%                                        | 86    | 62.4%                                                   | 42       |           |
-| or percent reduction compared with placebo (95% CI), p-value b |                      |                                              |       |                                                         |          |           |
-| GWPCARE3                                                       |                      | 19.2 (7.7, 31.2) p = 0.0016 21.6 (6.7, 34.8) |       | 29.6% (2.4%, 49.2%) p = 0.0355 c 53.8% (35.7%, 66.8%) c |          |           |
-| GWPCARE4                                                       | 20 mg/kg/day         | p = 0.0047 17.2 (4.1, 30.3)                  |       | p< 0.0001 45.7% (27.0%, 59.6%) p< 0.0001 c              |          |           |
-|                                                                | 20 mg/kg/day         |                                              |       |                                                         |          |           |
-| ≥ 50% REDUCTION                                                |                      | p = 0.0135                                   |       |                                                         |          |           |
-| Percentage p-value                                             | 50% responders,      | d                                            |       | ANALYSIS)                                               |          |           |
-| GWPCARE3                                                       |                      | 14.5%                                        | 76    | 21.6%                                                   | 37       |           |
-|                                                                | of ≥                 | 35.6%                                        | 73    | c                                                       |          |           |
-|                                                                |                      | SEIZURES (RESPONDER                          |       |                                                         | 37       |           |
-|                                                                | 10                   |                                              |       | 40.5%                                                   |          | mg/kg/day |
-|                                                                | IN DROP              | p = 0.0030                                   |       | p = 0.0584                                              |          |           |
-|                                                                | Placebo              |                                              |       |                                                         |          |           |
-|                                                                |                      |                                              | 76    |                                                         |          |           |
-|                                                                | 20                   |                                              |       |                                                         |          |           |
-|                                                                |                      | 39.5%                                        |       | 55.6%                                                   | 36       |           |
-|                                                                |                      |                                              |       | c                                                       |          |           |
-|                                                                |                      |                                              |       | p = 0.0021                                              |          |           |
-|                                                                |                      | p = 0.0006                                   | 85    |                                                         |          |           |
-|                                                                | Placebo              |                                              |       |                                                         |          |           |
-| GWPCARE4                                                       |                      |                                              |       |                                                         |          |           |
-|                                                                |                      | 23.5%                                        |       | 28.6%                                                   | 42       |           |
-|                                                                |                      | 44.2%                                        |       |                                                         |          |           |
-|                                                                |                      |                                              | 86    |                                                         |          |           |
-|                                                                | 20 mg/kg/day         |                                              |       | 54.8%                                                   |          |           |
-|                                                                |                      |                                              |       |                                                         | 42       |           |
-|                                                                |                      | p = 0.0043                                   |       | p = 0.0140                                              |          |           |
-|                                                                |                      |                                              |       | c                                                       |          |           |
-|                                                                |                      |                                              |       |                                                         |          | mg/kg/day |
+|                                                                           |                                                                           | Overall                                                                   | N                                                                         | Subgroup with clobazam                                                    | N                                                                         |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| DROP SEIZURES PER 28 DAYS                                                 | DROP SEIZURES PER 28 DAYS                                                 | DROP SEIZURES PER 28 DAYS                                                 | DROP SEIZURES PER 28 DAYS                                                 | DROP SEIZURES PER 28 DAYS                                                 | DROP SEIZURES PER 28 DAYS                                                 |
+| Percentage reduction from baseline a                                      | Percentage reduction from baseline a                                      | Percentage reduction from baseline a                                      | Percentage reduction from baseline a                                      | Percentage reduction from baseline a                                      | Percentage reduction from baseline a                                      |
+| GWPCARE3                                                                  | Placebo 10 mg/kg/day 20 mg/kg/day                                         | 17.2% 37.2% 41.9%                                                         | 76 73 76                                                                  | 22.7% 45.6% 64.3%                                                         | 37 37 36                                                                  |
+| GWPCARE4                                                                  | Placebo 20 mg/kg/day                                                      | 21.8% 43.9%                                                               | 85 86                                                                     | 30.7% 62.4%                                                               | 42 42                                                                     |
+| Difference or percent reduction compared with placebo (95% CI), p-value b | Difference or percent reduction compared with placebo (95% CI), p-value b | Difference or percent reduction compared with placebo (95% CI), p-value b | Difference or percent reduction compared with placebo (95% CI), p-value b | Difference or percent reduction compared with placebo (95% CI), p-value b | Difference or percent reduction compared with placebo (95% CI), p-value b |
+| GWPCARE3                                                                  | 10 mg/kg/day 20 mg/kg/day                                                 | 19.2 (7.7, 31.2) p = 0.0016 21.6 (6.7, 34.8) p = 0.0047                   |                                                                           | 29.6% (2.4%, 49.2%) p = 0.0355 c 53.8% (35.7%, 66.8%) p< 0.0001 c         |                                                                           |
+| GWPCARE4                                                                  | 20 mg/kg/day                                                              | 17.2 (4.1, 30.3) p = 0.0135                                               |                                                                           | 45.7% (27.0%, 59.6%) p< 0.0001 c                                          |                                                                           |
+| ≥ 50% REDUCTION IN DROP SEIZURES (RESPONDER ANALYSIS)                     | ≥ 50% REDUCTION IN DROP SEIZURES (RESPONDER ANALYSIS)                     | ≥ 50% REDUCTION IN DROP SEIZURES (RESPONDER ANALYSIS)                     | ≥ 50% REDUCTION IN DROP SEIZURES (RESPONDER ANALYSIS)                     | ≥ 50% REDUCTION IN DROP SEIZURES (RESPONDER ANALYSIS)                     | ≥ 50% REDUCTION IN DROP SEIZURES (RESPONDER ANALYSIS)                     |
 
 <div style=\"page-break-after: always\"></div>
 
-## CI=95% confidence interval.
+| GWPCARE3   | Placebo 10 mg/kg/day 20 mg/kg/day   | 14.5% 35.6% p = 0.0030 39.5% p = 0.0006   | 76 73 76   | 21.6% 40.5% p = 0.0584 c 55.6% p = 0.0021 c   | 37 37 36   |
+|------------|-------------------------------------|-------------------------------------------|------------|-----------------------------------------------|------------|
+| GWPCARE4   | Placebo 20 mg/kg/day                | 23.5% 44.2% p = 0.0043                    | 85 86      | 28.6% 54.8% p = 0.0140 c                      | 42 42      |
+
+CI=95% confidence interval.
 
 a Data for the overall population are presented as median percent reduction from baseline. Data for the with clobazam subgroup are presented as percent reduction from baseline estimated from a negative binomial regression analysis.
 
-b Overall data are presented as estimated median difference and p-value from a Wilcoxon rank-sum test. Data for the with clobazam subgroup are estimated from a negative binomial regression analysis. c
+b Overall data are presented as estimated median difference and p-value from a Wilcoxon rank-sum test. Data for the with clobazam subgroup are estimated from a negative binomial regression analysis.
 
-Nominal p-value.
+c Nominal p-value.
 
 d The Overall p-value is based on a Cochran-Mantel-Haenszel test; the nominal p-values for the with clobazam subgroup are based on logistic regression analysis.
 
@@ -565,13 +547,11 @@ The efficacy of cannabidiol for the adjunctive therapy of seizures associated wi
 
 The primary endpoint was the change in convulsive seizure frequency during the treatment period (Day 1 to the end of the evaluable period) compared to baseline (GWPCARE2), and the percentage change from baseline in convulsive seizures per 28 days over the treatment period (GWPCARE1) for the cannabidiol groups compared to placebo. Convulsive seizures were defined as atonic, tonic, clonic, and tonic-clonic seizures. Key secondary endpoints for GWPCARE2 were the proportion of patients with at least a 50% reduction in convulsive seizure frequency, the change in total seizure frequency, and Caregiver Global Impression of Change at the last visit. The key secondary endpoint for GWPCARE1 was the proportion of patients with at least a 50% reduction in convulsive seizure frequency.
 
-Subgroup analyses were conducted on multiple factors, including cAEDs. Results of the subgroup analysis of patients treated with clobazam compared to patients treated without clobazam, indicated that there is residual statistical uncertainty regarding the treatment effect of cannabidiol in patients not taking clobazam. In this population, efficacy has not been established.
-
-Table 5 summarises the primary endpoint of percent reduction from baseline in convulsive seizures, and the key secondary measure of proportion of patients with at least a 50% reduction in convulsive
-
 <div style=\"page-break-after: always\"></div>
 
-seizure frequency, as well as results of the subgroup analysis for these outcome measures in patients treated with concomitant clobazam.
+Subgroup analyses were conducted on multiple factors, including cAEDs. Results of the subgroup analysis of patients treated with clobazam compared to patients treated without clobazam, indicated that there is residual statistical uncertainty regarding the treatment effect of cannabidiol in patients not taking clobazam. In this population, efficacy has not been established.
+
+Table 5 summarises the primary endpoint of percent reduction from baseline in convulsive seizures, and the key secondary measure of proportion of patients with at least a 50% reduction in convulsive seizure frequency, as well as results of the subgroup analysis for these outcome measures in patients treated with concomitant clobazam.
 
 Table 5: Primary and ≥ 50% responder key secondary outcome measures and subgroup analysis in DS studies
 
@@ -599,13 +579,13 @@ c Nominal p-value.
 
 d The Overall p-value is based on a Cochran-Mantel-Haenszel test; the nominal p-value for the with clobazam subgroup is based on logistic regression analysis.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Additional secondary outcome measures in the subgroup of patients treated with concomitant clobazam
 
 Cannabidiol was associated with an increase in the percentage of subjects experiencing a greater than or equal to 75% reduction in convulsive seizure frequency during the treatment period in each trial (36% 10 mg/kg/day cannabidiol, 25% for each 20 mg/kg/day cannabidiol group, 10% to 13% placebo).
 
 In each trial, patients receiving cannabidiol experienced a greater percentage reduction in total seizures compared with placebo (66% 10 mg/kg/day, 54% to 58% 20 mg/kg/day, 27% to 41% placebo; p = 0.0003 for 10 mg/kg/day and p = 0.0341 and 0.0211 for 20 mg/kg/day vs. placebo).
-
-<div style=\"page-break-after: always\"></div>
 
 Greater improvements in overall condition, as measured by Global Impression of Change scores at the last visit, were reported by caregivers and patients with both doses of cannabidiol (73% on 10 mg/kg/day, 62% to 77% on 20 mg/kg/day, 30% to 41% on placebo; p = 0.0009 for 10 mg/kg/day and p = 0.0018 and 0.0136 for 20 mg/kg/day vs. placebo).
 
@@ -629,45 +609,39 @@ Across both randomised DS studies, 97.7% of patients (N = 315) who completed the
 
 The efficacy of cannabidiol (25 and 50 mg/kg/day) for the adjunctive therapy of seizures associated with TSC was evaluated in a randomised, double-blind, placebo-controlled, parallel-group study (GWPCARE6). The study consisted of a 4-week baseline period, a 4-week titration period and a 12-week maintenance period (16-week treatment and primary evaluation period).
 
-Mean age of the study population was 14 years and all patients but one were taking one or more concomitant AEDs (cAEDs) during the study. The most commonly used cAEDs (&gt; 25% of patients) were valproate (45%), vigabatrin (33%), levetiracetam (29%), and clobazam (27%).
+Mean age of the study population was 14 years and all patients but one were taking one or more cAEDs during the study. The most commonly used cAEDs (&gt; 25% of patients) were valproate (45%), vigabatrin (33%), levetiracetam (29%), and clobazam (27%).
+
+<div style=\"page-break-after: always\"></div>
 
 The primary endpoint was the change in number of TSC-associated seizures during the treatment period (maintenance and titration) compared to baseline for the cannabidiol group compared to placebo. TSC-associated seizures were defined as focal motor seizures without impairment of consciousness or awareness; focal seizures with impairment of consciousness or awareness; focal seizures evolving to bilateral generalized convulsive seizures and generalized seizures (tonic-clonic, tonic, clonic or atonic seizures). Key secondary endpoints were the proportion of patients with at least a 50% reduction in TSC-associated seizure frequency, Subject/Caregiver Global Impression of Change at the last visit and the percentage change from baseline in total seizure frequency.
 
 Cannabidiol 50 mg/kg/day was shown to have a similar level of seizure reduction as 25 mg/kg/day. However, this dose was associated with an increased rate of adverse reactions compared to the 25 mg/kg/day and therefore the maximum recommended dose is 25 mg/kg/day.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 6 summarises the primary endpoint of percent reduction from baseline in TSC-associated seizures, and the key secondary measure of proportion of patients with at least a 50% reduction in TSC-associated seizure frequency for the maximum recommended dose of 25 mg/kg/day.
 
 Table 6: Primary and ≥ 50% responder key secondary outcome measures in the TSC study (overall patient population)
 
-|                                                                                                           | Study GWPCARE6                                                                | Study GWPCARE6                                                                |
-|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-|                                                                                                           | Cannabidiol 25 mg/kg/day (n = 75)                                             | Placebo (n = 76)                                                              |
-| Primary endpoint - percentage reduction in TSC-associated seizure frequency a                             | Primary endpoint - percentage reduction in TSC-associated seizure frequency a | Primary endpoint - percentage reduction in TSC-associated seizure frequency a |
-| TSC-associated seizures %reduction from baseline                                                          | 48.6%                                                                         | 26.5%                                                                         |
-| Percent reduction compared with placebo 95% CI P-value                                                    | 30.1% 13.9%, 43.3% 0.0009                                                     |                                                                               |
-| Key secondary endpoint - ≥ 50% REDUCTION ANALYSIS) Percentage of patients with a ≥50% reduction P-value b | IN TSC-associated 36% 0.0692                                                  | (RESPONDER 22.4%                                                              |
-
-CI = 95% confidence interval.
-
-a Data for study GWPCARE6 are presented as percent reduction from baseline estimated from a negative binomial regression analysis.
-
-b The Overall p-value is based on a Cochran-Mantel-Haenszel test.
+|                                                                                                  | Study GWPCARE6                                                                | Study GWPCARE6                                                                |
+|--------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+|                                                                                                  | Cannabidiol 25 mg/kg/day (n = 75)                                             | Placebo (n = 76)                                                              |
+| Primary endpoint - percentage reduction in TSC-associated seizure frequency a                    | Primary endpoint - percentage reduction in TSC-associated seizure frequency a | Primary endpoint - percentage reduction in TSC-associated seizure frequency a |
+| TSC-associated seizures %reduction from baseline Percent reduction compared placebo              | 48.6%                                                                         | 26.5%                                                                         |
+| with 95% CI P-value                                                                              | 30.1% 13.9%, 43.3% 0.0009                                                     |                                                                               |
+| Key secondary endpoint - ≥ 50% ANALYSIS) Percentage of patients with a ≥ 50% reduction P-value b | REDUCTION IN TSC - associated 36% 0.0692                                      | (RESPONDER 22.4%                                                              |
 
 ## Subgroup analyses with and without clobazam treatment
 
 In the GWPCARE6 study, 22.7% of TSC patients in the 25 mg/kg/day group and 32.9% in the placebo group were taking concomitant clobazam. Results of subgroup analysis by clobazam use showed additive anticonvulsant effects of cannabidiol in the presence of clobazam.
 
-In the subgroup of patients treated with concomitant clobazam, patients receiving cannabidiol 25 mg/kg/day experienced a 61.1% reduction from baseline in TSC-associated seizure frequency compared to a 27.1 % reduction in the placebo group, based on a negative binomial regression analysis. Compared with placebo, cannabidiol was associated with a 46.6% reduction (nominal p = 0.0025) in TSC-associated seizures (95% CI: 20.0%, 64.4%).
+In the subgroup of patients treated with concomitant clobazam, patients receiving cannabidiol 25 mg/kg/day experienced a 61.1% reduction from baseline in TSC-associated seizure frequency compared to a 27.1% reduction in the placebo group, based on a negative binomial regression analysis. Compared with placebo, cannabidiol was associated with a 46.6% reduction (nominal p = 0.0025) in TSC-associated seizures (95% CI: 20.0%, 64.4%).
+
+<div style=\"page-break-after: always\"></div>
 
 In the subgroup of patients treated without concomitant clobazam, patients receiving cannabidiol 25 mg/kg/day experienced a 44.4 % reduction from baseline in TSC-associated seizure frequency compared to a 26.2% reduction in the placebo group; based on a negative binomial regression analysis. Compared with placebo, cannabidiol was associated with a 24.7% reduction (nominal p = 0.0242) in TSC-associated seizures (95% CI: 3.7%, 41.1%).
 
 ## Additional secondary outcome measures for cannabidiol 25 mg/kg/day (overall patient population)
 
 Cannabidiol was associated with an increase in the percentage of subjects (16.0%) experiencing a greater than or equal to 75% reduction in TSC-associated seizure frequency during the treatment period compared with the placebo group (0%).
-
-<div style=\"page-break-after: always\"></div>
 
 Patients receiving cannabidiol experienced a greater percentage reduction in total seizures (48.1%) compared with placebo (26.9%).
 
@@ -697,13 +671,11 @@ The GWPCARE6 study, conducted in patients with TSC, included 8 children between 
 
 Cannabidiol appears rapidly in plasma with a time to maximum plasma concentration of 2.5-5 hours at steady state.
 
-Steady-state plasma concentrations are attained within 2-4 days of twice daily dosing based on pre-dose (Ctrough) concentrations. The rapid achievement of steady state is related to the multiphasic elimination profile of the drug in which the terminal elimination represents only a small fraction of the drug's clearance.
-
-In healthy volunteer studies, co-administration of cannabidiol (750 or 1 500 mg) with a high-fat/high calorie meal increased the rate and extent of absorption (5-fold increase in Cmax and 4-fold increase in AUC) and reduced the total variability of exposure compared with the fasted state in healthy volunteers. Although the effect is slightly smaller for a low-fat/low-calorie meal, the elevation in exposure is still marked (Cmax by 4-fold, AUC by 3-fold). Furthermore, taking cannabidiol with bovine
-
 <div style=\"page-break-after: always\"></div>
 
-milk enhanced exposure by approximately 3-fold for Cmax and 2.5-fold for AUC. Taking cannabidiol with alcohol also caused enhanced exposure to cannabidiol, with a 63% greater AUC.
+Steady-state plasma concentrations are attained within 2-4 days of twice daily dosing based on pre-dose (Ctrough) concentrations. The rapid achievement of steady state is related to the multiphasic elimination profile of the drug in which the terminal elimination represents only a small fraction of the drug's clearance.
+
+In healthy volunteer studies, co-administration of cannabidiol (750 or 1 500 mg) with a high-fat/high calorie meal increased the rate and extent of absorption (5-fold increase in Cmax and 4-fold increase in AUC) and reduced the total variability of exposure compared with the fasted state in healthy volunteers. Although the effect is slightly smaller for a low-fat/low-calorie meal, the elevation in exposure is still marked (Cmax by 4-fold, AUC by 3-fold). Furthermore, taking cannabidiol with bovine milk enhanced exposure by approximately 3-fold for Cmax and 2.5-fold for AUC. Taking cannabidiol with alcohol also caused enhanced exposure to cannabidiol, with a 63% greater AUC.
 
 In the randomised controlled trials, the timing of dose of cannabidiol with respect to meal times was not restricted. In patients, a high fat meal was also shown to increase the bioavailability of cannabidiol (3-fold). This increase was moderate when the prandial state was not fully known, i.e., 2.2-fold increase of the relative bioavailability.
 
@@ -725,9 +697,11 @@ Cannabidiol is extensively metabolised by the liver via CYP450 enzymes and the U
 
 Studies in healthy subjects showed there were no major differences in the plasma exposure to cannabidiol in CYP2C19 intermediate and ultra-rapid metabolisers when compared to extensive metabolisers.
 
-## The phase I metabolites identified in standard in vitro assays were 7-COOH-CBD, 7-OH-CBD, and 6-OH-CBD (a minor circulating metabolite).
+The phase I metabolites identified in standard in vitro assays were 7-COOH-CBD, 7-OH-CBD, and 6-OH-CBD (a minor circulating metabolite).
 
 After multiple dosing with cannabidiol, the 7-OH-CBD metabolite (active in a preclinical model of seizure) circulates in human plasma at lower concentrations than the parent drug cannabidiol (~ 40% of CBD exposure) based on AUC.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Excretion
 
@@ -738,8 +712,6 @@ Cannabidiol does not interact with the major renal and hepatic transporters in a
 ## Linearity
 
 The Cmax and AUC of cannabidiol are close to dose-proportional over the therapeutic dose range (10-25 mg/kg/day). After single dosing, exposure over the range 750-6 000 mg increases in a less than dose-proportional manner, indicating that absorption of cannabidiol may be saturable. Multiple dosing in TSC patients also indicated that absorption is saturable at doses above 25 mg/kg/day.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pharmacokinetics in special patient groups
 
@@ -771,7 +743,11 @@ Subjects with moderate and severe hepatic impairment showed higher plasma concen
 
 ## In LGS
 
-In patients with LGS, population pharmacokinetic pharmacodynamic (PK/PD) modelling indicated the presence of an exposure efficacy relationship for the likelihood of achieving a ≥ 50% reduction in drop seizure frequency across the cannabidiol dose range tested (0 [placebo], 10 and 20 mg/kg/day). There was a significant positive correlation between the derived AUC of cannabidiol and the probability of a ≥ 50% response. The responder rate analysis also showed a correlation in the exposure-response relationship for the active metabolite of cannabidiol (7-OH-CBD). PK/PD analysis also demonstrated that systemic exposures to cannabidiol were correlated with some adverse events namely elevated ALT, AST, diarrhoea, fatigue, GGT, loss of appetite, rash, and somnolence (see section 4.8). Clobazam (separate analysis) was a significant covariate which caused the probability of GGT to increase, loss of appetite to decrease, and somnolence to increase.
+In patients with LGS, population pharmacokinetic pharmacodynamic (PK/PD) modelling indicated the presence of an exposure efficacy relationship for the likelihood of achieving a ≥ 50% reduction in drop seizure frequency across the cannabidiol dose range tested (0 [placebo], 10 and 20 mg/kg/day). There was a significant positive correlation between the derived AUC of cannabidiol and the probability of a ≥ 50% response. The responder rate analysis also showed a correlation in the exposure-response relationship for the active metabolite of cannabidiol (7-OH-CBD). PK/PD analysis also demonstrated that systemic exposures to cannabidiol were correlated with some adverse events namely elevated
+
+<div style=\"page-break-after: always\"></div>
+
+ALT, AST, diarrhoea, fatigue, GGT, loss of appetite, rash, and somnolence (see section 4.8). Clobazam (separate analysis) was a significant covariate which caused the probability of GGT to increase, loss of appetite to decrease, and somnolence to increase.
 
 ## In TSC
 
@@ -779,15 +755,13 @@ In TSC patients there is no exposure-response relationship based on efficacy end
 
 ## Drug interaction studies
 
-In vitro assessment of drug interactions Cannabidiol is a substrate for CYP3A4, CYP2C19, UGT1A7, UGT1A9 and UGT2B7.
+## In vitro assessment of drug interactions
 
-<div style=\"page-break-after: always\"></div>
+Cannabidiol is a substrate for CYP3A4, CYP2C19, UGT1A7, UGT1A9 and UGT2B7. Cannabidiol has the potential to inhibit CYP2B6, CYP2C8, CYP2C19 and to induce CYP2B6 at clinically relevant concentrations.
 
-In vitro data suggest that cannabidiol is an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, UGT1A9 and UGT2B7 activity at clinically relevant concentrations. The metabolite 7-carboxy-cannabidiol (7-COOH-CBD) is an inhibitor of UGT1A1, UGT1A4 and UGT1A6-mediated activity, in vitro at clinically relevant concentrations (see also section 4.5).
+The metabolite 7-COOH-CBD is an inhibitor of UGT1A1, UGT1A4 and UGT1A6-mediated activity, in vitro at clinically relevant concentrations (see section 4.5).
 
-Cannabidiol induces CYP1A2 and CYP2B6 mRNA expression in vitro at clinically relevant concentrations. An in vivo study with caffeine showed that cannabidiol did not induce CYP1A2 in vivo .
-
-Cannabidiol and the metabolite 7-OH-CBD do not interact with the major renal or hepatic uptake transporters and therefore are unlikely to result in relevant drug-drug interactions: OAT1, OAT3, OCT1, OCT2, MATE1, MATE2-K, OATP1B1and OATP1B3. Cannabidiol is not a substrate for or an inhibitor of the brain uptake transporters OATP1A2 and OATP2B1. In vitro , cannabidiol and 7-OH-CBD are not substrates for or inhibitors of efflux transports P-gp/MDR1, BCRP or BSEP. In vivo data with everolimus show that cannabidiol can affect P-gp-mediated efflux of a P-gp substrate in the intestine (see section 4.5) but cannabidiol did not inhibit or induce CYP3A4 based on an in vivo midazolam study. The metabolite 7-COOH-CBD is a P-gp/MDR1 substrate and has the potential to inhibit BCRP, OATP1B3, and OAT3.
+Cannabidiol and the metabolite 7-OH-CBD do not interact with the major renal or hepatic uptake transporters and therefore are unlikely to result in relevant drug-drug interactions: OAT1, OAT3, OCT1, OCT2, MATE1, MATE2-K, OATP1B1 and OATP1B3. Cannabidiol is not a substrate for or an inhibitor of the brain uptake transporters OATP1A2 and OATP2B1. In vitro , cannabidiol and 7-OH-CBD are not substrates for or inhibitors of efflux transports P-gp/MDR1, BCRP or BSEP. In vivo data with everolimus show that cannabidiol can affect P-gp-mediated efflux of a P-gp substrate in the intestine (see section 4.5) but cannabidiol did not inhibit or induce CYP3A4 based on an in vivo midazolam study. The metabolite 7-COOH-CBD is a P-gp/MDR1 substrate and has the potential to inhibit BCRP, OATP1B3, and OAT3.
 
 ## In vivo assessment of drug interactions Drug interaction studies with AEDs
 
@@ -810,12 +784,6 @@ Table 7: Drug interactions between cannabidiol and concomitant antiepileptic dru
 | Stiripentol       | No effect on cannabidiol levels. Interaction resulting in a decrease (approximately 30%) in C max and AUC of the active metabolite 7-OH-CBD in trials conducted in HV* and patients with epilepsy. | Interaction resulting in an approximate 28% increase in C max and 55% increase in AUC in a HV* study and increases of 17% in C max and 30% increases in AUC in patients.                    |
 | Everolimus        | The effect of everolimus on cannabidiol has not been assessed.                                                                                                                                     | Coadministration of cannabidiol (12.5 mg/kg twice daily) with everolimus (5 mg) resulting in an approximate 2.5-fold increase in everolimus exposure for both C max and AUC in a HV* study. |
 
-a average increases of 47% in AUC and 73% in Cmax.
-
-b based on Cmax and AUC.
-
-*HV = Healthy Volunteer.
-
 ## 5.3 Preclinical safety data
 
 ## Mutagenicity and carcinogenicity
@@ -830,7 +798,7 @@ Genotoxicity studies have not detected any mutagenic or clastogenic activity.
 
 No adverse reactions were observed on male or female fertility or reproduction performance in rats at doses up to 250 mg/kg/day (approximately 34-fold greater than the maximum recommended human dose (MRHD) at 25 mg/kg/day).
 
-The embryo-foetal development (EFD) study performed in rabbits evaluated doses of 50, 80, or 125 mg/kg/day. The dose level of 125 mg/kg/day induced decreased foetal body weights and increased foetal structural variations associated with maternal toxicity. Maternal plasma cannabidiol exposures at the no observed-adverse-effect-level (NOAEL) for embryofoetal developmental toxicity in rabbits were less than that in humans at a dose of 25 mg/kg/day.
+The embryofoetal development (EFD) study performed in rabbits evaluated doses of 50, 80, or 125 mg/kg/day. The dose level of 125 mg/kg/day induced decreased foetal body weights and increased foetal structural variations associated with maternal toxicity. Maternal plasma cannabidiol exposures at the no observed-adverse-effect-level (NOAEL) for embryofoetal developmental toxicity in rabbits were less than that in humans at a dose of 25 mg/kg/day.
 
 In rats, the EFD study evaluated doses of 75, 150, or 250 mg/kg/day. Embryofoetal mortality was observed at the high dose, with no treatment-related effects on implantation loss at the low or mid doses. The NOAEL was associated with maternal plasma exposures (AUC) approximately 9 times greater than the anticipated exposure in humans at a dose of 25 mg/kg/day.
 
@@ -906,7 +874,7 @@ EU/1/19/1389/001 EU/1/19/1389/002
 
 Date of first authorisation: 19 September 2019
 
-Date of latest renewal:  26 July 2024
+Date of latest renewal: 26 July 2024
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1014,8 +982,13 @@ Discard unused portion 12 weeks after first opening. Date of first opening:
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+10.
+
+SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
+
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
+
+APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1271,7 +1244,7 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 Tell your doctor if you are taking any of the following medicines, as your dose may need to be adjusted:
 
-- -other epilepsy medicines, such as carbamazepine, clobazam, lamotrigine, lorazepam, phenytoin, stiripentol and valproate, that are used to treat seizures
+- -other epilepsy medicines, such as carbamazepine, clobazam, lorazepam, stiripentol and valproate, that are used to treat seizures
 - -other medicines used to treat TSC, including everolimus or tacrolimus
 - -medicines used to treat acid reflux (heartburn or acid regurgitation) such as omeprazole
 - -mitotane (a medicine used to treat tumours in the adrenal gland)
@@ -1282,7 +1255,6 @@ Tell your doctor if you are taking any of the following medicines, as your dose 
 - -propofol (an anaesthetic used for people undergoing surgery)
 - -simvastatin, fenofibrate, gemfibrozil, (medicines used to reduce cholesterol/lipids)
 - -enzalutamide (a medicine to treat prostate cancer)
-- -bupropion (a medicine to help stop smoking or for treating obesity)
 - -St. John's wort ( Hypericum perforatum ) (a herbal medicine used to treat mild anxiety)
 - -medicines to treat bacterial infections, such as rifampin, clarithromycin and erythromycin
 
@@ -1345,10 +1317,10 @@ The 1-bottle pack contains the following items:
 The 3-bottle pack contains the following items:
 
 - three Epidyolex oral solution bottles
+- a plastic bag containing two 1 ml oral syringes and a bottle adaptor
 
 <div style=\"page-break-after: always\"></div>
 
-- a plastic bag containing two 1 ml oral syringes and a bottle adaptor
 - a plastic bag containing two 5 ml oral syringes and two bottle adaptors
 
 A spare syringe of each size is provided in the pack in case the first one is damaged or lost. For the 3-bottle pack, all three adaptors from both syringe packs are required.

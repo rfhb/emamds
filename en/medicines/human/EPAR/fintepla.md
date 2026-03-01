@@ -1,32 +1,30 @@
 ---
-document_datetime: 2026-01-09 15:00:00
+document_datetime: 2026-02-24 12:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fintepla.html
 document_name: fintepla.html
 version: success
-processing_time: 0.1412881
-conversion_datetime: 2026-01-10 11:42:36.397919
+processing_time: 0.116286
+conversion_datetime: 2026-03-01 19:56:03.157412
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.1
-  docling: 2.67.0
-  docling-core: 2.58.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Fintepla
 
 [RSS](/en/individual-human-medicine.xml/67380)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 fenfluramine Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -126,7 +124,7 @@ English (EN) (159.43 KB - PDF)
 
 [View](/en/documents/overview/fintepla-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-261)
+[Other languages (22)](#file-language-dropdown-736)
 
 български (BG) (186.5 KB - PDF)
 
@@ -414,7 +412,7 @@ English (EN) (997.13 KB - PDF)
 
 [View](/en/documents/product-information/fintepla-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-790)
+[Other languages (24)](#file-language-dropdown-543)
 
 български (BG) (655.44 KB - PDF)
 
@@ -728,7 +726,7 @@ English (EN) (56.79 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-357)
+[Other languages (23)](#file-language-dropdown-950)
 
 български (BG) (70.56 KB - PDF)
 
@@ -922,7 +920,7 @@ English (EN) (74.17 KB - PDF)
 
 [View](/en/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-980)
+[Other languages (24)](#file-language-dropdown-17)
 
 български (BG) (67.67 KB - PDF)
 
@@ -1148,7 +1146,7 @@ UCB Pharma S.A.
 
 Allée de la Recherche 60
 
-Opinion adopted 15/10/2020 Marketing authorisation issued 18/12/2020 Revision 14
+Opinion adopted 15/10/2020 Marketing authorisation issued 18/12/2020 Revision 15
 
 ## Assessment history
 
@@ -1177,6 +1175,18 @@ English (EN) (196.46 KB - PDF)
 **Last updated:** 02/05/2025
 
 [View](/en/documents/procedural-steps-after/fintepla-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Fintepla-PAM-0000303483 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2501892
+
+English (EN) (803.97 KB - PDF)
+
+**First published:** 24/02/2026
+
+[View](/en/documents/variation-report/fintepla-pam-0000303483-epar-assessment-report_en.pdf)
 
 Fintepla-H-CH-PSUSA-00010907-202406 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1274,13 +1284,13 @@ English (EN) (132.5 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-fintepla_en.pdf)
 
-#### News on Fintepla
+## News on Fintepla
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 December 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-december-2022) 16/12/2022
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 October 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2020) 16/10/2020
 
-#### More information on Fintepla
+## More information on Fintepla
 
 - [EU/3/13/1219 - orphan designation for treatment of Dravet syndrome](/en/medicines/human/orphan-designations/eu-3-13-1219)
 - [EU/3/17/1836 - orphan designation for treatment of Lennox-Gastaut syndrome](/en/medicines/human/orphan-designations/eu-3-17-1836)
@@ -1289,7 +1299,7 @@ English (EN) (132.5 KB - PDF)
 - [A Registry of Patients Treated with Fintepla (TAPESTRY Registry) - post-authorisation study](https://catalogues.ema.europa.eu/study/105359)
 - [Implementation of controlled access to and distribution of medicinal products in European Union (CONTROL-EU) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000313)
 
-**This page was last updated on** 09/01/2026
+**This page was last updated on** 24/02/2026
 
 ## Share this page
 

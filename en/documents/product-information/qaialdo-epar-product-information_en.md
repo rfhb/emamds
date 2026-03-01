@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-10 16:04:31
+document_datetime: 2026-02-25 14:19:39
 document_pages: 30
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/qaialdo-epar-product-information_en.pdf
 document_name: qaialdo-epar-product-information_en.pdf
 version: success
-processing_time: 8.3796318
-conversion_datetime: 2026-02-13 18:58:03.342696
+processing_time: 8.7345156
+conversion_datetime: 2026-03-01 20:19:22.785276
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.2
-  docling: 2.73.1
-  docling-core: 2.65.1
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
   docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -66,9 +66,9 @@ Severe heart failure in conjunction with standard therapy (New York Heart Associ
 
 If urinary Na + /K + ratio is greater than 1.0, 100 mg per day. If the ratio is less than 1.0, 200 mg/day to 400 mg/day. Maintenance dose should be individually determined.
 
-<div style=\"page-break-after: always\"></div>
+Malignant ascites
 
-## Malignant ascites
+<div style=\"page-break-after: always\"></div>
 
 Initial dose usually 100 mg/day to 200 mg/day. In severe cases the  dose may be gradually increased up to 400 mg/day. When oedema is controlled, maintenance dose should be individually determined.
 
@@ -110,9 +110,9 @@ Diuresis in congestive heart failure, ascites, oedema and nephrotic syndrome;
 - Neonate: 1-2 mg/kg/daily in 1-2 divided doses.
 - Infant or child 1 month to 18 years: 1-3 mg/kg daily in 1-2 divided doses (maximum 200 mg daily).
 
-<div style=\"page-break-after: always\"></div>
-
 Primary hyperaldosteronism; resistant ascites.
+
+<div style=\"page-break-after: always\"></div>
 
 - Neonate: up to a maximum of 7 mg/kg daily may be used.
 - Infant or Child 1 month to 18 years: up to a maximum of 9 mg/kg daily (total maximum 400 mg daily) may be used.
@@ -159,9 +159,11 @@ The larger 5 ml syringe is for measuring doses more than 10 mg. The syringe has 
 
 The healthcare professional should advise the patient or carer which syringe to use to ensure that the correct volume is administered.
 
+The healthcare professional should advise the patient or carer to place the tip of the syringe into the
+
 <div style=\"page-break-after: always\"></div>
 
-The healthcare professional should advise the patient or carer to place the tip of the syringe into the mouth and to the inside of the cheek, and the contents gently released. To assist accurate and consistent dose delivery to the stomach, water should be taken after each dose of spironolactone. In adults without swallowing difficulties, solid oral formulations may be more appropriate and convenient.
+mouth and to the inside of the cheek, and the contents gently released. To assist accurate and consistent dose delivery to the stomach, water should be taken after each dose of spironolactone. In adults without swallowing difficulties, solid oral formulations may be more appropriate and convenient.
 
 ## 4.3 Contraindications
 
@@ -194,9 +196,9 @@ Dilution hyponatraemia may occur in combination with other diuretics (see sectio
 
 Hyperkalaemia may be fatal. It is critical to monitor and manage serum potassium in patients with severe heart failure receiving spironolactone. Avoid using other potassium-sparing diuretics. Avoid using oral potassium supplements in patients with serum potassium &gt; 3.5 mEq/L. The recommended monitoring for potassium and creatinine is 1 week after initiation or increase in dose of spironolactone, monthly for the first 3 months, then quarterly for a year, and then every 6 months. Discontinue or interrupt treatment for serum potassium &gt; 5 mEq/L or for serum creatinine &gt; 4 mg/dL (see section 4.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Concomitant use with cardiac glycosides or hypotensive agents
+
+<div style=\"page-break-after: always\"></div>
 
 The concomitant administration of this preparation with cardiac glycosides or hypotensive agents may necessitate adjustment of those medicinal products (see section 4.5).
 
@@ -234,11 +236,13 @@ Since ACE inhibitors decrease aldosterone production, they should not routinely 
 
 Hyperkalaemic metabolic acidosis has been reported in patients given spironolactone concurrently with ammonium chloride or colestyramine.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Interactions attenuating the natriuretic effect of spironolactone
 
-Non-steroidal anti-inflammatory medicinal products such as acetylsalicylic acid, indomethacin and mefenamic acid may attenuate the natriuretic efficacy of diuretics due to the inhibition of intra-renal synthesis of prostaglandins and have been shown to attenuate the diuretic effect of spironolactone.
+Non-steroidal anti-inflammatory medicinal products such as acetylsalicylic acid, indomethacin and mefenamic acid may attenuate the natriuretic efficacy of diuretics due to the inhibition of intra-renal
+
+<div style=\"page-break-after: always\"></div>
+
+synthesis of prostaglandins and have been shown to attenuate the diuretic effect of spironolactone.
 
 ## Interactions affecting the use of other medicinal products
 
@@ -276,13 +280,13 @@ Canrenone is excreted in human milk. Qaialdo should not be used during breast-fe
 
 Studies in animals suggest spironolactone may impair fertility (see section 5.3).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.7     Effects on ability to drive and use machines
 
 Somnolence and dizziness have been reported to occur in some patients. Caution is advised when driving or operating machinery until the response to initial treatment has been determined.
 
 ## 4.8     Undesirable effects
+
+<div style=\"page-break-after: always\"></div>
 
 ## Summary of the safety profile
 
@@ -292,37 +296,38 @@ The following undesirable effects have been observed in clinical trials and repo
 
 Table 2 Tabulated list of adverse reactions
 
-| System organ class                                                       | Frequency   | Adverse reactions                                                            |
-|--------------------------------------------------------------------------|-------------|------------------------------------------------------------------------------|
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) | Uncommon    | Benign breast neoplasm (male)                                                |
-| Blood and lymphatic system disorders                                     | Not known   | Leukopenia, Agranulocytosis, Thrombocytopenia, Anaemia, Eosinophilia Purpura |
-| Metabolism and nutrition                                                 | Very common | Hyperkalaemia***                                                             |
-| disorders                                                                | Uncommon    | Electrolyte imbalance                                                        |
-| Psychiatric disorders                                                    | Common      | Confusional state                                                            |
-| Psychiatric disorders                                                    | Not known   | Libido disorder                                                              |
-| Nervous system disorders                                                 | Common      | Dizziness                                                                    |
-| Nervous system disorders                                                 | Not known   | Ataxia, Headache, Drowsiness, Lethargy                                       |
-| Gastrointestinal disorders                                               | Common      | Nausea                                                                       |
-| Gastrointestinal disorders                                               | Not known   | Gastrointestinal disorder                                                    |
-| Hepatobiliary disorders                                                  | Uncommon    | Hepatic function abnormal                                                    |
+| System organ class                                                       | Frequency   | Adverse reactions                                                                                                                                               |
+|--------------------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) | Uncommon    | Benign breast neoplasm (male)                                                                                                                                   |
+| Blood and lymphatic system disorders                                     | Not known   | Leukopenia, Agranulocytosis, Thrombocytopenia, Anaemia, Eosinophilia Purpura                                                                                    |
+| Metabolism and nutrition                                                 | Very common | Hyperkalaemia***                                                                                                                                                |
+| disorders                                                                | Uncommon    | Electrolyte imbalance                                                                                                                                           |
+| Psychiatric disorders                                                    | Common      | Confusional state                                                                                                                                               |
+| Psychiatric disorders                                                    | Not known   | Libido disorder                                                                                                                                                 |
+| Nervous system disorders                                                 | Common      | Dizziness                                                                                                                                                       |
+| Nervous system disorders                                                 | Not known   | Ataxia, Headache, Drowsiness, Lethargy                                                                                                                          |
+| Gastrointestinal disorders                                               | Common      | Nausea                                                                                                                                                          |
+| Gastrointestinal disorders                                               | Not known   | Gastrointestinal disorder                                                                                                                                       |
+| Hepatobiliary disorders                                                  | Uncommon    | Hepatic function abnormal                                                                                                                                       |
+| Skin and subcutaneous tissue disorders                                   | Common      | Pruritus, Rash                                                                                                                                                  |
+| Skin and subcutaneous tissue disorders                                   | Uncommon    | Urticaria                                                                                                                                                       |
+| Skin and subcutaneous tissue disorders                                   | Not known   | Toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome, Drug reaction with eosinophilia and systemic symptoms (DRESS), Pemphigoid, Alopecia, Hypertrichosis |
 
 <div style=\"page-break-after: always\"></div>
 
-| Skin and subcutaneous tissue disorders               | Common    | Pruritus, Rash                                                                                                                                                  |
-|------------------------------------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Skin and subcutaneous tissue disorders               | Uncommon  | Urticaria                                                                                                                                                       |
-| Skin and subcutaneous tissue disorders               | Not known | Toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome, Drug reaction with eosinophilia and systemic symptoms (DRESS), Pemphigoid, Alopecia, Hypertrichosis |
-| Musculoskeletal and connective tissue disorders      | Common    | Muscle spasms                                                                                                                                                   |
-| Renal and urinary disorders                          | Common    | Acute kidney injury                                                                                                                                             |
-| Reproductive system and breast disorders             | Common    | Gynaecomastia*, Breast pain**                                                                                                                                   |
-| Reproductive system and breast disorders             | Uncommon  | Menstrual disorder                                                                                                                                              |
-| Reproductive system and breast disorders             | Not known | Impotence                                                                                                                                                       |
-| General disorders and administration site conditions | Common    | Malaise                                                                                                                                                         |
-| General disorders and administration site conditions | Not known | Drug fever                                                                                                                                                      |
+| Musculoskeletal and connective tissue disorders      | Common    | Muscle spasms                 |
+|------------------------------------------------------|-----------|-------------------------------|
+| Renal and urinary disorders                          | Common    | Acute kidney injury           |
+| Reproductive system and breast disorders             | Common    | Gynaecomastia*, Breast pain** |
+| Reproductive system and breast disorders             | Uncommon  | Menstrual disorder            |
+| Reproductive system and breast disorders             | Not known | Impotence                     |
+| General disorders and administration site conditions | Common    | Malaise                       |
+| General disorders and administration site conditions | Not known | Drug fever                    |
 
 *     Gynaecomastia may develop in association with the use of spironolactone. Development appears to be related to both dose level and duration of therapy and is normally reversible when the medicinal product is discontinued. In rare instances some breast enlargement may persist.
 - **   In clinical trials, breast pain was reported more commonly in males than in females.
-- *** Arrhythmia, chest pain, nausea, diarrhoea, paraesthesia, weakness, flaccid paralysis or muscle spasm and may be difficult to distinguish clinically from hypokalaemia. Electrocardiographic changes are the earliest specific signs of potassium disturbance.
+
+*** Arrhythmia, chest pain, nausea, diarrhoea, paraesthesia, weakness, flaccid paralysis or muscle spasm and may be difficult to distinguish clinically from hypokalaemia. Electrocardiographic changes are the earliest specific signs of potassium disturbance.
 
 ## Paediatric population
 
@@ -338,8 +343,6 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Acute overdose may be manifested by drowsiness, mental confusion, nausea, vomiting, dizziness, diarrhoea or maculopapular or erythematous rash. Dehydration may occur. Hyponatraemia or hyperkalaemia may be induced but these effects are unlikely to be associated with acute overdose. See section 4.8 for the symptoms of hyperkalaemia.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Treatment
 
 No specific antidote has been identified. Spironolactone use should be discontinued. Improvement may be expected after withdrawal of the medicinal product. General supportive measures including replacement of fluids and electrolytes may be indicated. For hyperkalaemia, reduce potassium intake, administer potassium-excreting diuretics, intravenous glucose with regular insulin, or oral ionexchange resins.
@@ -351,6 +354,8 @@ No specific antidote has been identified. Spironolactone use should be discontin
 Pharmacotherapeutic group: diuretics, aldosterone antagonists and other potassium-sparing agents, ATC code C03DA01
 
 ## Mechanism of action
+
+<div style=\"page-break-after: always\"></div>
 
 Spironolactone, as a competitive aldosterone antagonist, increases sodium excretion whilst reducing potassium loss at the distal renal tubule. It has a gradual and prolonged action, maximum response being usually attained after 2 to 3 days treatment. Combination of spironolactone with a conventional, more proximally acting diuretic usually enhances diuresis without excessive potassium loss.
 
@@ -366,8 +371,6 @@ Spironolactone also reduced the risk of hospitalization for cardiac causes (defi
 
 There is a lack of substantive information from clinical studies on spironolactone in children. This is a result of several factors: the few trials that have been performed in the paediatric population, the use of spironolactone in combination with other agents, the small numbers of patients evaluated in each trial and the different indications studied. The dose recommendations for paediatrics are based upon clinical experience and case studies documented in the scientific literature.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5.2      Pharmacokinetic properties
 
 Spironolactone is well absorbed orally and is principally metabolised to active metabolites: sulfur containing metabolites (80%) and partly canrenone (20%). Although the plasma half- life of spironolactone itself is short (1.3 hours) the half-lives of active metabolites are longer (ranging from 2.8 to 11.2 hours).
@@ -379,6 +382,8 @@ There are no pharmacokinetic data available in respect of use in paediatric popu
 ## 5.3     Preclinical safety data
 
 ## Carcinogenicity
+
+<div style=\"page-break-after: always\"></div>
 
 Orally administered spironolactone has been shown to be a tumorigen in dietary administration studies performed in rats, with its proliferative effects manifested on endocrine organs and the liver. In an 18month study using doses of about 50, 150 and 500 mg/kg/day (about 1x, 4x, and 12x, respectively, the maximum human recommended daily dose of 400 mg/day based on body surface area), there were statistically significant increases in benign adenomas of the thyroid and testes and, in male rats, a dose-related increase in proliferative changes in the liver (including hepatocytomegaly and hyperplastic nodules). In 24-month studies in which rats were administered doses of about 10, 30, 100, and 150 mg/kg/day of spironolactone (about 0.2x, 0.7x, and 2x, respectively, the maximum recommended daily dose of 400 mg/day based on body surface area), the range of proliferative effects included significant increases in hepatocellular adenomas and testicular interstitial cell tumours in males, and significant increases in thyroid follicular cell adenomas and carcinomas in both sexes. There was also a statistically significant increase in benign uterine endometrial stromal polyps in females.
 
@@ -392,15 +397,17 @@ Neither spironolactone nor potassium canrenoate produced mutagenic effects in te
 
 In a three-litter reproduction study in which female rats received dietary doses of 15 and 50 mg/kg/day of spironolactone (about 0.4x and 1x, respectively, the maximum human recommended daily dose of 400 mg/day based on body surface area), there were no effects on mating and fertility, but there was a small increase in incidence of stillborn pups at 50 mg/kg/day.
 
-<div style=\"page-break-after: always\"></div>
-
 Spironolactone was devoid of teratogenic effects in mice. Rabbits receiving spironolactone showed reduced conception rate, increased resorption rate, and lower numbers of live births. No embryotoxic effects were seen in rats administered high doses, but limited, dose-related hyprolactinemia and decreased ventral prostate and seminal vesicle weights in males, and increasing luteinizing hormone secretion and ovarian and uterine weights in females were reported. Feminization of the external genitalia of male fetuses was reported in another study in rats. When injected into female rats (100 mg/kg/day for 7 days, i.p.) (about 2x the maximum human recommended daily dose of 400 mg/day based on body surface area), spironolactone was found to increase the length of the estrous cycle by prolonging diestrus during treatment and inducing constant diestrus during a 2-week post-treatment observation period. These effects were associated with retarded ovarian follicle development and a reduction in circulating estrogen levels, which would be expected to impair mating, fertility and fecundity. Spironolactone (100 mg/kg/day) (about 1x, the maximum human recommended daily dose of 400 mg/day based on body surface area), administered i.p. to female mice during a 2week cohabitation period with untreated males, decreased the number of mated mice that conceived (effect shown to be caused by an inhibition of ovulation) and decreased the number of implanted embryos in those that became pregnant (effect shown to be caused by an inhibition of implantation), and at 200 mg/kg (about 2x, the maximum human recommended daily dose of 400 mg/day based on body surface area) also increased the latency period to mating.
 
 ## 6.       PHARMACEUTICAL PARTICULARS
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.1     List of excipients
 
-Sodium benzoate (E 211) Sucrose Sodium citrate (E 331) Citric acid monohydrate (E 330) Strawberry flavour liquid Masking flavour Polysorbate 80 (E 433) Simeticone emulsion 30% Xanthan gum (E 415) Purified water
+Sodium benzoate (E 211) Sucrose Sodium citrate (E 331) Citric acid monohydrate (E 330) Strawberry flavour liquid Masking flavour Polysorbate 80 (E 433) Simeticone emulsion 30% Xanthan gum (E 415)
+
+Purified water
 
 ## 6.2     Incompatibilities
 
@@ -408,7 +415,9 @@ Not applicable.
 
 ## 6.3     Shelf life
 
-Unopened bottle: 2 years After first opening: Keep the bottle tightly closed and store below 25°C. Discard any unused contents after 12 weeks.
+Unopened bottle: 2 years
+
+After first opening: Keep the bottle tightly closed and store below 25°C. Discard any unused contents after 12 weeks.
 
 ## 6.4     Special precautions for storage
 
@@ -420,35 +429,31 @@ For storage conditions after first opening, see section 6.3.
 
 Amber type III glass bottle with tamper evident child-resistant closure (high density polyethyleneHDPE with expanded polyethylene liner) containing 150 ml of oral suspension.
 
-<div style=\"page-break-after: always\"></div>
+Each pack contains one bottle, a low density polyethylene (LDPE) bottle adaptor and 2 dosing syringes (a 1 ml syringe graduated in 0.01 ml increments and a 5 ml syringe graduated in 0.2 ml increments).
 
-Each pack contains one bottle, a low density polyethylene (LDPE) bottle adaptor and 2 dosing syringes (a 1 ml syringe graduated in 0.01 ml increments and a 5 ml syringe graduated in 0.2 ml
-
-increments).
-
-6.6     Special precautions for disposal and other handling
+## 6.6     Special precautions for disposal and other handling
 
 The bottle should be shaken thoroughly before use to ensure the oral suspension is well mixed.
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
-7.       MARKETING AUTHORISATION HOLDER
+## 7.       MARKETING AUTHORISATION HOLDER
 
 Lipomed GmbH Hegenheimer Strasse 2 79576 Weil am Rhein Germany
 
-8.       MARKETING AUTHORISATION NUMBER(S)
+## 8.       MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/23/1731/001
 
-9.       DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+<div style=\"page-break-after: always\"></div>
+
+## 9.       DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 26 May 2023
 
-10.     DATE OF REVISION OF THE TEXT
+## 10.     DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
-
-13
 
 <div style=\"page-break-after: always\"></div>
 
@@ -465,7 +470,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Lipomed GmbH Hegenheimer Strasse 2 79576 Weil am Rhein Germany
+Pronav Clinical Ltd. Unit 5 Dublin Road Business Park Carraroe, Sligo F91 D439 Ireland
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -554,8 +559,6 @@ Open date:
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 After first opening, keep the bottle tightly closed and store below 25°C.
@@ -576,9 +579,9 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Qaialdo
 
@@ -591,6 +594,8 @@ Qaialdo
 PC SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -648,21 +653,16 @@ After first opening, keep the bottle tightly closed and store below 25°C.
 
 <div style=\"page-break-after: always\"></div>
 
-10.
-
-SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
-
-OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
-
-APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
 Lipomed GmbH Hegenheimer Strasse 2 79576 Weil am Rhein Germany
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/23/1731/001
 
@@ -680,8 +680,8 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
@@ -734,10 +734,10 @@ Qaialdo is also used to diagnose and treat primary aldosteronism (a condition in
 
 - -if you are allergic to spironolactone or any of the other ingredients of this medicine (listed in section 6).
 - -if you have Addison's disease (a disorder in which the adrenal glands do not make enough of certain hormones).
-- -if you have hyperkalaemia (high blood potassium levels).
 
 <div style=\"page-break-after: always\"></div>
 
+- -if you have hyperkalaemia (high blood potassium levels).
 - -if you have anuria (a condition in which a patient cannot make or pass urine).
 - -if you have sudden kidney failure.
 - -if you have severe kidney disease.
@@ -956,9 +956,7 @@ Very common:
 
 may affect more than 1 in 10 people
 
--
-
-Hyperkalaemia (high blood potassium levels)
+- Hyperkalaemia (high blood potassium levels)
 
 Common:
 
@@ -966,13 +964,9 @@ may affect up to 1 in 10 people
 
 - Confusion
 
--
+- Dizziness
 
-Dizziness
-
--
-
-Nausea (Feeling sick)
+- Nausea (Feeling sick)
 
 - Pruritus (Itching)
 
@@ -987,17 +981,12 @@ Nausea (Feeling sick)
 
 ## Uncommon: may affect up to 1 in 100 people
 
-- Changes in the breast such as breast lumps (in men)
-
-- Disturbances in body electrolytes such as high blood calcium
-
-- Abnormal functioning of the liver
-
-- Urticaria (itchy rash)
-
-- Menstrual problems in women
-
-- Breast pain (in women)
+- -Changes in the breast such as breast lumps (in men)
+- -Disturbances in body electrolytes such as high blood calcium
+- -Abnormal functioning of the liver
+- -Urticaria (itchy rash)
+- -Menstrual problems in women
+- -Breast pain (in women)
 
 ## Not known: frequency cannot be estimated from the available data
 
@@ -1033,9 +1022,11 @@ Do not use this medicine after the expiry date which is stated on the carton aft
 
 After first opening of the bottle, store below 25°C and discard any unused contents after 12 weeks. Keep the bottle tightly closed.
 
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to
+
 <div style=\"page-break-after: always\"></div>
 
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6.       Contents of the pack and other information
 
@@ -1054,9 +1045,13 @@ Each pack contains one bottle, a bottle adaptor and two dosing syringes (a syrin
 
 Your doctor or pharmacist will advise which syringe to use depending on the dose that has been prescribed.
 
-## Marketing Authorisation Holder and manufacturer
+## Marketing Authorisation Holder
 
 Lipomed GmbH Hegenheimer Strasse 2 79576 Weil am Rhein Germany
+
+## Manufacturer
+
+Pronav Clinical Ltd. Unit 5 Dublin Road Business Park Carraroe, Sligo F91 D439 Ireland
 
 ## This leaflet was last revised in
 

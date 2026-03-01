@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 13:45:03
+document_datetime: 2026-02-26 14:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fluad-tetra.html
 document_name: fluad-tetra.html
 version: success
-processing_time: 0.1127575
-conversion_datetime: 2025-12-29 23:55:48.942663
+processing_time: 0.1012904
+conversion_datetime: 2026-03-01 19:33:23.385991
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Fluad Tetra
 
 [RSS](/en/individual-human-medicine.xml/67305)
 
-##### Authorised
+Withdrawn
 
-This medicine is authorised for use in the European Union
+This medicine's authorisation has been withdrawn
 
-influenza vaccine (surface antigen, inactivated, adjuvanted) Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+influenza vaccine (surface antigen, inactivated, adjuvanted) Medicine Human Withdrawn
 
 Page contents
 
@@ -47,87 +45,25 @@ Page contents
 
 ## Overview
 
-Fluad Tetra is a vaccine used to protect people aged from 50 years against influenza (flu).
+On 23 February 2026, the European Commission withdrew the marketing authorisation for Fluad Tetra (influenza vaccine (surface antigen, inactivated, adjuvanted)) in the European Union (EU). The withdrawal was at the request of the marketing authorisation holder, Seqirus Netherlands B.V., which notified the European Commission of its decision to permanently discontinue the marketing of the product for commercial reasons.
 
-Flu is caused mainly by two types of influenza virus, known as influenza A and B. Each of these circulate as different strains, which change over time.
-
-Fluad Tetra contains proteins from four different inactivated influenza A and B virus strains (type A H1N1, type A H3N2 and two type B strains). They are chosen according to the official recommendation for the annual flu season.
-
-The vaccine also contains an adjuvant, which helps to improve the vaccine's effectiveness. The viruses used in Fluad Tetra are grown in fertilised hens' eggs.
-
-Expand section
-
-Collapse section
-
-## How is Fluad Tetra used?
-
-Fluad Tetra is given as a single injection into a muscle, preferably in the upper arm.
-
-The vaccine can only be obtained with a prescription, and it should be used according to official recommendations issued at national level by public health bodies.
-
-For more information about using Fluad Tetra, see the package leaflet or contact your doctor or pharmacist.
-
-## How does Fluad Tetra work?
-
-Fluad Tetra is a vaccine. Vaccines work by preparing the immune system (the body's natural defences) to defend the body against a specific disease. Fluad Tetra contains small amounts of proteins of influenza viruses. When a person is given the vaccine, the immune system recognises the proteins in the vaccine as 'foreign' and makes antibodies against them. The immune system will then be able to respond more quickly when exposed to the virus. This will help to protect against flu.
-
-Each year, the World Health Organization (WHO) recommends which flu strains should be included in flu vaccines for the upcoming flu season in the northern hemisphere. The composition of Fluad Tetra will be updated annually according to WHO and EU recommendations.
-
-## What benefits of Fluad Tetra have been shown in studies?
-
-Studies in people aged 50 years or more investigated the effectiveness of Fluad Tetra at triggering the production of protective antibodies against flu.
-
-A study involving over 7,000 people aged 65 years or above found that antibody levels were generally higher when an adjuvant was included in the vaccine. The study compared an influenza vaccine that did not contain an adjuvant with one that contained the same adjuvant as Fluad Tetra. Both vaccines contained three of the four virus strains covered by Fluad Tetra.
-
-A second study involving 1,776 people aged 65 years or above found that after 22 days the level of antibodies resulting from Fluad Tetra vaccination was similar to that resulting from two other vaccines, each containing both influenza A virus strains and either one of the influenza B virus strains contained in Fluad Tetra. All vaccines contained the same adjuvant.
-
-Another study involved 2,044 people aged 50 to 64 years who received either Fluad Tetra or another influenza vaccine also containing four virus strains, but no adjuvant. Three weeks after vaccination, the level of antibodies produced against each of the four virus strains in response to Fluad Tetra vaccination was similar to that seen with the comparator vaccine. Further results showed that, compared with the comparator vaccine, Fluad Tetra vaccination led to higher levels of antibodies, although not against all 4 virus strains.
-
-However, additional data showing that, in people aged 50 to 64 years, vaccination with an influenza vaccine containing three virus strains and an adjuvant produced higher antibody levels than vaccination with a comparable vaccine that did not contain an adjuvant. Further evidence from observational studies and public health monitoring also supports the effectiveness of influenza vaccines containing an adjuvant in the 50-64 years age group.
-
-The company also presented information on the use of Fluad Tetra in children aged between 6 months and 6 years, but withdrew its application for this use. Results from these studies did not clearly show that Fluad Tetra was sufficiently effective in protecting children against influenza.
-
-## What are the risks associated with Fluad Tetra?
-
-For the full list of side effects and restrictions of Fluad Tetra, see the package leaflet.
-
-The most common side effects with Fluad Tetra (which may affect more than 1 in 10 people), which generally last up to 3 days, include pain at the injection site, tiredness and headache. In people aged 50 to less than 65 years, other common side effects include arthralgia (joint pain) and myalgia (muscle pain).
-
-Fluad Tetra must not be used in people allergic to the active substances or any of the other ingredients or to the following substances which may be present in the vaccine in trace amounts: ovalbumin (egg protein), the antibiotics kanamycin and neomycin, formaldehyde, cetyltrimethylammonium bromide or hydrocortisone.
-
-The vaccine must also not be used by people who have had anaphylaxis (a sudden, severe allergic reaction) to previous influenza vaccination.
-
-## Why is Fluad Tetra authorised in the EU?
-
-In people aged 65 years and over, Fluad Tetra stimulates a higher level of antibody production than influenza vaccines that do not contain an adjuvant. The vaccine is also expected to be effective in people aged 50 to less than 65 years. Because Fluad Tetra includes two influenza B virus strains, it can give broader protection than previous vaccines that contained only one strain. Side effects of Fluad Tetra are mostly mild to moderate and last only a short time.
-
-The European Medicines Agency therefore decided that Fluad Tetra's benefits are greater than its risks and it can be authorised for use in the EU.
-
-## What measures are being taken to ensure the safe and effective use of Fluad Tetra?
-
-Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Fluad Tetra have been included in the summary of product characteristics and the package leaflet.
-
-As for all medicines, data on the use of Fluad Tetra are continuously monitored. Side effects reported with Fluad Tetra are carefully evaluated and any necessary action taken to protect patients.
-
-## Other information about Fluad Tetra
-
-Fluad Tetra received a marketing authorisation valid throughout the EU on 20 May 2020.
+Fluad Tetra was granted marketing authorisation in the EU on 20 May 2020. The authorised indication was prophylaxis of influenza in adults 50 years of age and older. The marketing authorisation was initially valid for a 5-year period. It was then granted unlimited validity in 2024.
 
 Fluad Tetra : EPAR - Medicine overview
 
 Reference Number: EMA/516573/2023
 
-English (EN) (127.09 KB - PDF)
+English (EN) (130.82 KB - PDF)
 
 **First published:** 29/05/2020
 
-**Last updated:** 30/08/2024
+**Last updated:** 26/02/2026
 
 [View](/en/documents/overview/fluad-tetra-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-775)
+[Other languages (22)](#file-language-dropdown-167)
 
-български (BG) (147.66 KB - PDF)
+български (BG) (155.89 KB - PDF)
 
 **First published:**
 
@@ -135,11 +71,11 @@ English (EN) (127.09 KB - PDF)
 
 **Last updated:**
 
-30/08/2024
+26/02/2026
 
 [View](/bg/documents/overview/fluad-tetra-epar-medicine-overview_bg.pdf)
 
-español (ES) (125.93 KB - PDF)
+español (ES) (130.74 KB - PDF)
 
 **First published:**
 
@@ -147,11 +83,11 @@ español (ES) (125.93 KB - PDF)
 
 **Last updated:**
 
-30/08/2024
+26/02/2026
 
 [View](/es/documents/overview/fluad-tetra-epar-medicine-overview_es.pdf)
 
-čeština (CS) (157.9 KB - PDF)
+čeština (CS) (164 KB - PDF)
 
 **First published:**
 
@@ -159,11 +95,11 @@ español (ES) (125.93 KB - PDF)
 
 **Last updated:**
 
-30/08/2024
+26/02/2026
 
 [View](/cs/documents/overview/fluad-tetra-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (125.49 KB - PDF)
+dansk (DA) (130.47 KB - PDF)
 
 **First published:**
 
@@ -171,11 +107,11 @@ dansk (DA) (125.49 KB - PDF)
 
 **Last updated:**
 
-30/08/2024
+26/02/2026
 
 [View](/da/documents/overview/fluad-tetra-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (131.09 KB - PDF)
+Deutsch (DE) (135.63 KB - PDF)
 
 **First published:**
 
@@ -183,11 +119,11 @@ Deutsch (DE) (131.09 KB - PDF)
 
 **Last updated:**
 
-30/08/2024
+26/02/2026
 
 [View](/de/documents/overview/fluad-tetra-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (112.89 KB - PDF)
+eesti keel (ET) (117.01 KB - PDF)
 
 **First published:**
 
@@ -195,11 +131,11 @@ eesti keel (ET) (112.89 KB - PDF)
 
 **Last updated:**
 
-30/08/2024
+26/02/2026
 
 [View](/et/documents/overview/fluad-tetra-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (149.99 KB - PDF)
+ελληνικά (EL) (158.9 KB - PDF)
 
 **First published:**
 
@@ -207,11 +143,11 @@ eesti keel (ET) (112.89 KB - PDF)
 
 **Last updated:**
 
-30/08/2024
+26/02/2026
 
 [View](/el/documents/overview/fluad-tetra-epar-medicine-overview_el.pdf)
 
-français (FR) (129.89 KB - PDF)
+français (FR) (134.3 KB - PDF)
 
 **First published:**
 
@@ -219,11 +155,11 @@ français (FR) (129.89 KB - PDF)
 
 **Last updated:**
 
-30/08/2024
+26/02/2026
 
 [View](/fr/documents/overview/fluad-tetra-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (149.47 KB - PDF)
+hrvatski (HR) (154 KB - PDF)
 
 **First published:**
 
@@ -231,11 +167,11 @@ hrvatski (HR) (149.47 KB - PDF)
 
 **Last updated:**
 
-30/08/2024
+26/02/2026
 
 [View](/hr/documents/overview/fluad-tetra-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (125.42 KB - PDF)
+italiano (IT) (129.95 KB - PDF)
 
 **First published:**
 
@@ -243,11 +179,11 @@ italiano (IT) (125.42 KB - PDF)
 
 **Last updated:**
 
-30/08/2024
+26/02/2026
 
 [View](/it/documents/overview/fluad-tetra-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (165.79 KB - PDF)
+latviešu valoda (LV) (172.14 KB - PDF)
 
 **First published:**
 
@@ -255,11 +191,11 @@ latviešu valoda (LV) (165.79 KB - PDF)
 
 **Last updated:**
 
-30/08/2024
+26/02/2026
 
 [View](/lv/documents/overview/fluad-tetra-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (157.76 KB - PDF)
+lietuvių kalba (LT) (163.37 KB - PDF)
 
 **First published:**
 
@@ -267,11 +203,11 @@ lietuvių kalba (LT) (157.76 KB - PDF)
 
 **Last updated:**
 
-30/08/2024
+26/02/2026
 
 [View](/lt/documents/overview/fluad-tetra-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (150.03 KB - PDF)
+magyar (HU) (155.34 KB - PDF)
 
 **First published:**
 
@@ -279,11 +215,11 @@ magyar (HU) (150.03 KB - PDF)
 
 **Last updated:**
 
-30/08/2024
+26/02/2026
 
 [View](/hu/documents/overview/fluad-tetra-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (159.49 KB - PDF)
+Malti (MT) (164.75 KB - PDF)
 
 **First published:**
 
@@ -291,11 +227,11 @@ Malti (MT) (159.49 KB - PDF)
 
 **Last updated:**
 
-30/08/2024
+26/02/2026
 
 [View](/mt/documents/overview/fluad-tetra-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (126.81 KB - PDF)
+Nederlands (NL) (131.31 KB - PDF)
 
 **First published:**
 
@@ -303,11 +239,11 @@ Nederlands (NL) (126.81 KB - PDF)
 
 **Last updated:**
 
-30/08/2024
+26/02/2026
 
 [View](/nl/documents/overview/fluad-tetra-epar-medicine-overview_nl.pdf)
 
-polski (PL) (150.47 KB - PDF)
+polski (PL) (155.56 KB - PDF)
 
 **First published:**
 
@@ -315,11 +251,11 @@ polski (PL) (150.47 KB - PDF)
 
 **Last updated:**
 
-30/08/2024
+26/02/2026
 
 [View](/pl/documents/overview/fluad-tetra-epar-medicine-overview_pl.pdf)
 
-português (PT) (127.25 KB - PDF)
+português (PT) (132.02 KB - PDF)
 
 **First published:**
 
@@ -327,11 +263,11 @@ português (PT) (127.25 KB - PDF)
 
 **Last updated:**
 
-30/08/2024
+26/02/2026
 
 [View](/pt/documents/overview/fluad-tetra-epar-medicine-overview_pt.pdf)
 
-română (RO) (156.66 KB - PDF)
+română (RO) (162.33 KB - PDF)
 
 **First published:**
 
@@ -339,11 +275,11 @@ română (RO) (156.66 KB - PDF)
 
 **Last updated:**
 
-30/08/2024
+26/02/2026
 
 [View](/ro/documents/overview/fluad-tetra-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (149.74 KB - PDF)
+slovenčina (SK) (154.9 KB - PDF)
 
 **First published:**
 
@@ -351,11 +287,11 @@ slovenčina (SK) (149.74 KB - PDF)
 
 **Last updated:**
 
-30/08/2024
+26/02/2026
 
 [View](/sk/documents/overview/fluad-tetra-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (148.22 KB - PDF)
+slovenščina (SL) (153.05 KB - PDF)
 
 **First published:**
 
@@ -363,11 +299,11 @@ slovenščina (SL) (148.22 KB - PDF)
 
 **Last updated:**
 
-30/08/2024
+26/02/2026
 
 [View](/sl/documents/overview/fluad-tetra-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (124.99 KB - PDF)
+Suomi (FI) (129.82 KB - PDF)
 
 **First published:**
 
@@ -375,11 +311,11 @@ Suomi (FI) (124.99 KB - PDF)
 
 **Last updated:**
 
-30/08/2024
+26/02/2026
 
 [View](/fi/documents/overview/fluad-tetra-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (126.16 KB - PDF)
+svenska (SV) (130.77 KB - PDF)
 
 **First published:**
 
@@ -387,17 +323,17 @@ svenska (SV) (126.16 KB - PDF)
 
 **Last updated:**
 
-30/08/2024
+26/02/2026
 
 [View](/sv/documents/overview/fluad-tetra-epar-medicine-overview_sv.pdf)
 
 Fluad Tetra : EPAR - Risk management plan
 
-English (EN) (2.35 MB - PDF)
+English (EN) (2.39 MB - PDF)
 
 **First published:** 29/05/2020
 
-**Last updated:** 15/12/2023
+**Last updated:** 26/02/2026
 
 [View](/en/documents/rmp/fluad-tetra-epar-risk-management-plan_en.pdf)
 
@@ -405,17 +341,17 @@ English (EN) (2.35 MB - PDF)
 
 Fluad Tetra : EPAR - Product information
 
-English (EN) (355.17 KB - PDF)
+English (EN) (379.61 KB - PDF)
 
 **First published:** 29/05/2020
 
-**Last updated:** 09/01/2025
+**Last updated:** 26/02/2026
 
 [View](/en/documents/product-information/fluad-tetra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-659)
+[Other languages (24)](#file-language-dropdown-285)
 
-български (BG) (422.28 KB - PDF)
+български (BG) (453.66 KB - PDF)
 
 **First published:**
 
@@ -423,11 +359,11 @@ English (EN) (355.17 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/bg/documents/product-information/fluad-tetra-epar-product-information_bg.pdf)
 
-español (ES) (346.58 KB - PDF)
+español (ES) (372.68 KB - PDF)
 
 **First published:**
 
@@ -435,11 +371,11 @@ español (ES) (346.58 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/es/documents/product-information/fluad-tetra-epar-product-information_es.pdf)
 
-čeština (CS) (385.53 KB - PDF)
+čeština (CS) (413.48 KB - PDF)
 
 **First published:**
 
@@ -447,11 +383,11 @@ español (ES) (346.58 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/cs/documents/product-information/fluad-tetra-epar-product-information_cs.pdf)
 
-dansk (DA) (349.93 KB - PDF)
+dansk (DA) (376.28 KB - PDF)
 
 **First published:**
 
@@ -459,11 +395,11 @@ dansk (DA) (349.93 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/da/documents/product-information/fluad-tetra-epar-product-information_da.pdf)
 
-Deutsch (DE) (389.06 KB - PDF)
+Deutsch (DE) (419.08 KB - PDF)
 
 **First published:**
 
@@ -471,11 +407,11 @@ Deutsch (DE) (389.06 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/de/documents/product-information/fluad-tetra-epar-product-information_de.pdf)
 
-eesti keel (ET) (360.81 KB - PDF)
+eesti keel (ET) (387.68 KB - PDF)
 
 **First published:**
 
@@ -483,11 +419,11 @@ eesti keel (ET) (360.81 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/et/documents/product-information/fluad-tetra-epar-product-information_et.pdf)
 
-ελληνικά (EL) (541.48 KB - PDF)
+ελληνικά (EL) (566.82 KB - PDF)
 
 **First published:**
 
@@ -495,11 +431,11 @@ eesti keel (ET) (360.81 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/el/documents/product-information/fluad-tetra-epar-product-information_el.pdf)
 
-français (FR) (338.6 KB - PDF)
+français (FR) (364.31 KB - PDF)
 
 **First published:**
 
@@ -507,11 +443,11 @@ français (FR) (338.6 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/fr/documents/product-information/fluad-tetra-epar-product-information_fr.pdf)
 
-hrvatski (HR) (381.77 KB - PDF)
+hrvatski (HR) (405.8 KB - PDF)
 
 **First published:**
 
@@ -519,11 +455,11 @@ hrvatski (HR) (381.77 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/hr/documents/product-information/fluad-tetra-epar-product-information_hr.pdf)
 
-íslenska (IS) (360.31 KB - PDF)
+íslenska (IS) (387.12 KB - PDF)
 
 **First published:**
 
@@ -531,11 +467,11 @@ hrvatski (HR) (381.77 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/is/documents/product-information/fluad-tetra-epar-product-information_is.pdf)
 
-italiano (IT) (373.69 KB - PDF)
+italiano (IT) (399.27 KB - PDF)
 
 **First published:**
 
@@ -543,11 +479,11 @@ italiano (IT) (373.69 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/it/documents/product-information/fluad-tetra-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (466.92 KB - PDF)
+latviešu valoda (LV) (497.19 KB - PDF)
 
 **First published:**
 
@@ -555,11 +491,11 @@ latviešu valoda (LV) (466.92 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/lv/documents/product-information/fluad-tetra-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (372.92 KB - PDF)
+lietuvių kalba (LT) (401.19 KB - PDF)
 
 **First published:**
 
@@ -567,11 +503,11 @@ lietuvių kalba (LT) (372.92 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/lt/documents/product-information/fluad-tetra-epar-product-information_lt.pdf)
 
-magyar (HU) (403.37 KB - PDF)
+magyar (HU) (431.42 KB - PDF)
 
 **First published:**
 
@@ -579,11 +515,11 @@ magyar (HU) (403.37 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/hu/documents/product-information/fluad-tetra-epar-product-information_hu.pdf)
 
-Malti (MT) (421.56 KB - PDF)
+Malti (MT) (447.49 KB - PDF)
 
 **First published:**
 
@@ -591,11 +527,11 @@ Malti (MT) (421.56 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/mt/documents/product-information/fluad-tetra-epar-product-information_mt.pdf)
 
-Nederlands (NL) (359.19 KB - PDF)
+Nederlands (NL) (385.85 KB - PDF)
 
 **First published:**
 
@@ -603,11 +539,11 @@ Nederlands (NL) (359.19 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/nl/documents/product-information/fluad-tetra-epar-product-information_nl.pdf)
 
-norsk (NO) (373.65 KB - PDF)
+norsk (NO) (400.14 KB - PDF)
 
 **First published:**
 
@@ -615,11 +551,11 @@ norsk (NO) (373.65 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/no/documents/product-information/fluad-tetra-epar-product-information_no.pdf)
 
-polski (PL) (463.85 KB - PDF)
+polski (PL) (490.67 KB - PDF)
 
 **First published:**
 
@@ -627,11 +563,11 @@ polski (PL) (463.85 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/pl/documents/product-information/fluad-tetra-epar-product-information_pl.pdf)
 
-português (PT) (373.36 KB - PDF)
+português (PT) (399.66 KB - PDF)
 
 **First published:**
 
@@ -639,11 +575,11 @@ português (PT) (373.36 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/pt/documents/product-information/fluad-tetra-epar-product-information_pt.pdf)
 
-română (RO) (406.82 KB - PDF)
+română (RO) (434.18 KB - PDF)
 
 **First published:**
 
@@ -651,11 +587,11 @@ română (RO) (406.82 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/ro/documents/product-information/fluad-tetra-epar-product-information_ro.pdf)
 
-slovenčina (SK) (398.68 KB - PDF)
+slovenčina (SK) (426.45 KB - PDF)
 
 **First published:**
 
@@ -663,11 +599,11 @@ slovenčina (SK) (398.68 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/sk/documents/product-information/fluad-tetra-epar-product-information_sk.pdf)
 
-slovenščina (SL) (399.16 KB - PDF)
+slovenščina (SL) (424.48 KB - PDF)
 
 **First published:**
 
@@ -675,11 +611,11 @@ slovenščina (SL) (399.16 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/sl/documents/product-information/fluad-tetra-epar-product-information_sl.pdf)
 
-Suomi (FI) (361.2 KB - PDF)
+Suomi (FI) (387.04 KB - PDF)
 
 **First published:**
 
@@ -687,11 +623,11 @@ Suomi (FI) (361.2 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/fi/documents/product-information/fluad-tetra-epar-product-information_fi.pdf)
 
-svenska (SV) (355.13 KB - PDF)
+svenska (SV) (381.81 KB - PDF)
 
 **First published:**
 
@@ -699,7 +635,7 @@ svenska (SV) (355.13 KB - PDF)
 
 **Last updated:**
 
-09/01/2025
+26/02/2026
 
 [View](/sv/documents/product-information/fluad-tetra-epar-product-information_sv.pdf)
 
@@ -721,205 +657,301 @@ Product information documents contain:
 
 Fluad Tetra : EPAR - All authorised presentations
 
-English (EN) (53.95 KB - PDF)
+English (EN) (63.25 KB - PDF)
 
 **First published:** 29/05/2020
 
-**Last updated:** 01/08/2024
+**Last updated:** 26/02/2026
 
 [View](/en/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-167)
+[Other languages (24)](#file-language-dropdown-681)
 
-български (BG) (96.1 KB - PDF)
+български (BG) (115.55 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/bg/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (74.53 KB - PDF)
+español (ES) (91.4 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/es/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (94.92 KB - PDF)
+čeština (CS) (112.62 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/cs/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (47.45 KB - PDF)
+dansk (DA) (63.95 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/da/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (76.38 KB - PDF)
+Deutsch (DE) (93.36 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/de/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (73.65 KB - PDF)
+eesti keel (ET) (90.97 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/et/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (95.47 KB - PDF)
+ελληνικά (EL) (116.73 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/el/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (46.25 KB - PDF)
+français (FR) (62.62 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/fr/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (128.42 KB - PDF)
+hrvatski (HR) (145.48 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/hr/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (47.38 KB - PDF)
+íslenska (IS) (63.97 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/is/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (82.54 KB - PDF)
+italiano (IT) (99.74 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/it/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (95.79 KB - PDF)
+latviešu valoda (LV) (114.19 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/lv/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (98.73 KB - PDF)
+lietuvių kalba (LT) (116.56 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/lt/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (97.84 KB - PDF)
+magyar (HU) (116.25 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/hu/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (99.3 KB - PDF)
+Malti (MT) (118.04 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/mt/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (45.96 KB - PDF)
+Nederlands (NL) (62.05 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/nl/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (75.06 KB - PDF)
+norsk (NO) (91.66 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/no/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (98.7 KB - PDF)
+polski (PL) (116.74 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/pl/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (75.11 KB - PDF)
+português (PT) (92.18 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/pt/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (86.52 KB - PDF)
+română (RO) (103.2 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/ro/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (97 KB - PDF)
+slovenčina (SK) (115.3 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/sk/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (61.63 KB - PDF)
+slovenščina (SL) (78.98 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/sl/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (73.47 KB - PDF)
+Suomi (FI) (90.11 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/fi/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (93.88 KB - PDF)
+svenska (SV) (111.53 KB - PDF)
 
 **First published:**
 
-01/08/2024
+29/05/2020
+
+**Last updated:**
+
+26/02/2026
 
 [View](/sv/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_sv.pdf)
 
@@ -945,7 +977,7 @@ Seqirus Netherlands B.V.
 
 Paasheuvelweg 28
 
-Opinion adopted 26/03/2020 Marketing authorisation issued 20/05/2020 Revision 10
+Opinion adopted 26/03/2020 Marketing authorisation issued 20/05/2020 Withdrawal of marketing authorisation 23/02/2026 Revision 10
 
 ## Assessment history
 
@@ -957,11 +989,11 @@ Collapse section
 
 Fluad Tetra : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (234.76 KB - PDF)
+English (EN) (230.44 KB - PDF)
 
 **First published:** 20/07/2021
 
-**Last updated:** 09/01/2025
+**Last updated:** 26/02/2026
 
 [View](/en/documents/procedural-steps-after/fluad-tetra-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -971,9 +1003,11 @@ Adopted
 
 Reference Number: EMA/533902/2023
 
-English (EN) (2.44 MB - PDF)
+English (EN) (2.42 MB - PDF)
 
 **First published:** 15/12/2023
+
+**Last updated:** 26/02/2026
 
 [View](/en/documents/variation-report/fluad-tetra-h-c-004993-ii-0043-epar-assessment-report-variation_en.pdf)
 
@@ -983,9 +1017,11 @@ Adopted
 
 Reference Number: EMA/CHMP/492465/2023
 
-English (EN) (112.29 KB - PDF)
+English (EN) (124.59 KB - PDF)
 
 **First published:** 10/11/2023
+
+**Last updated:** 26/02/2026
 
 [View](/en/documents/smop/chmp-summary-positive-opinion-fluad-tetra-ii-43_en.pdf)
 
@@ -997,9 +1033,11 @@ Adopted
 
 Reference Number: EMA/200444/2020
 
-English (EN) (6.14 MB - PDF)
+English (EN) (6.4 MB - PDF)
 
 **First published:** 29/05/2020
+
+**Last updated:** 26/02/2026
 
 [View](/en/documents/assessment-report/fluad-tetra-epar-public-assessment-report_en.pdf)
 
@@ -1009,29 +1047,31 @@ Adopted
 
 Reference Number: EMA/CHMP/132960/2020
 
-English (EN) (96.28 KB - PDF)
+English (EN) (118.75 KB - PDF)
 
 **First published:** 27/03/2020
 
+**Last updated:** 26/02/2026
+
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-fluad-tetra_en.pdf)
 
-#### News on Fluad Tetra
+## News on Fluad Tetra
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 6-9 November 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-6-9-november-2023) 10/11/2023
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 March 2020 (updated)](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-march-2020-updated) 27/03/2020
 
-#### More information on Fluad Tetra
+## More information on Fluad Tetra
 
 - [EMEA-001715-PIP01-14-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001715-pip01-14-m04)
 - [Brand-specific influenza vaccine effectiveness in the Nordic countries - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000481)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 - [Vaccines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A76)
 
-**This page was last updated on** 09/01/2025
+**This page was last updated on** 26/02/2026
 
 ## Share this page
 

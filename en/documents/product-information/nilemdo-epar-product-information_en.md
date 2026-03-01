@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-06-23 13:06:37
+document_datetime: 2026-02-27 11:10:19
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/nilemdo-epar-product-information_en.pdf
 document_name: nilemdo-epar-product-information_en.pdf
 version: success
-processing_time: 7.988446
-conversion_datetime: 2025-12-26 12:21:41.922985
+processing_time: 9.4170413
+conversion_datetime: 2026-03-01 20:18:23.629237
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -100,7 +100,6 @@ Each film-coated tablet should be taken orally with or without food. Tablet shou
 
 - Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 - Pregnancy (see section 4.6).
-- Breast-feeding (see section 4.6).
 - Concomitant use with simvastatin &gt; 40 mg daily (see sections 4.2, 4.4, and 4.5).
 
 ## 4.4 Special warnings and precautions for use
@@ -112,6 +111,10 @@ Bempedoic acid increases plasma concentrations of statins (see section 4.5). Pat
 <div style=\"page-break-after: always\"></div>
 
 Myositis with a CPK level &gt; 10× ULN was rarely reported with bempedoic acid and background simvastatin 40 mg therapy. Doses of simvastatin &gt; 40 mg should not be used with Nilemdo (see sections 4.2 and 4.3).
+
+## Concomitant use of fibrates
+
+Concomitant administration of fibrates with bempedoic acid resulted in increased triglycerides and decreased high-density lipoprotein cholesterol (HDL-C) in some patients in clinical studies and postmarketing reports. High-density lipoprotein cholesterol and triglycerides should be monitored (see section 4.5).
 
 ## Increased serum uric acid
 
@@ -139,6 +142,8 @@ Nilemdo contains lactose. Patients with rare hereditary problems of galactose in
 
 This medicine contains less than 1 mmol sodium (23 mg) per 180 mg film-coated tablet (daily dose), that is to say essentially 'sodium-free'.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 ## Effects of other medicinal products on bempedoic acid
@@ -146,8 +151,6 @@ This medicine contains less than 1 mmol sodium (23 mg) per 180 mg film-coated ta
 ## Transporter-mediated drug interactions
 
 In vitro drug interaction studies suggest bempedoic acid, as well as its active metabolite and glucuronide form, are not substrates of commonly characterised drug transporters with the exception of bempedoic acid glucuronide, which is an OAT3 substrate.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Probenecid
 
@@ -169,6 +172,18 @@ Bempedoic acid inhibits OAT2 in vitro , which may be the mechanism responsible f
 
 Total ezetimibe (ezetimibe and its glucuronide form) and ezetimibe glucuronide AUC and maximum serum concentration (Cmax) increased approximately 1.6- and 1.8-fold, respectively, when a single dose of ezetimibe was taken with steady-state bempedoic acid. This increase is likely due to inhibition of OATP1B1 by bempedoic acid, which results in decreased hepatic uptake and subsequently decreased elimination of ezetimibe-glucuronide. Increases in AUC and Cmax for ezetimibe were less than 20%. These elevations are not clinically meaningful and do not impact dosing recommendations.
 
+## Fibrates
+
+Concomitant administration of fibrates with bempedoic acid resulted in increased triglycerides and decreased HDL-C in some patients in clinical studies and post-marketing reports. Reversibility of both increased triglycerides and decreased HDL-C levels were observed when either bempedoic acid or fibrate therapy was discontinued.
+
+Triglycerides and HDL-C levels should be monitored at four weeks and periodically thereafter when bempedoic acid is used concomitantly with a fibrate (see section 4.4).
+
+<div style=\"page-break-after: always\"></div>
+
+If clinically relevant increased triglycerides or decreased HDL-C levels are detected, bempedoic acid or fibrate therapy should be discontinued based on clinical judgement. Triglycerides and HDL-C levels should be monitored until levels return to baseline.
+
+Increases in the incidences of anaemia and hyperuricaemia have been observed in patients with the concomitant use of bempedoic acid and fibrates (see section 4.8).
+
 ## Other interactions studied
 
 Bempedoic acid had no effect on the pharmacokinetics or pharmacodynamics of metformin or the pharmacokinetics of oral contraceptive norethindrone/ethinyl estradiol.
@@ -183,15 +198,15 @@ There are no or limited amount of data from the use of bempedoic acid in pregnan
 
 Because bempedoic acid decreases cholesterol synthesis and possibly the synthesis of other cholesterol derivatives needed for normal foetal development, Nilemdo may cause foetal harm when administered to pregnant women. Nilemdo should be discontinued prior to conception or as soon as pregnancy is planned or recognized (see section 4.3).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Women of childbearing potential
 
 Women of childbearing potential should use effective contraception during treatment (see section 4.4).
 
 ## Breast-feeding
 
-It is unknown whether bempedoic acid/metabolites are excreted in human milk. Because of the potential for serious adverse reactions, women taking Nilemdo should not breast-feed their infants. Nilemdo is contraindicated during breast-feeding (see section 4.3).
+Bempedoic acid and its active metabolite are excreted in human milk in very low amounts (mean relative infant dose (RID) of approximately 0.5% for bempedoic acid), therefore, at therapeutic doses of Nilemdo no effects on the breastfed newborns/infants are anticipated (see section 5.2).
+
+The use of Nilemdo during breast-feeding may be considered, weighing the benefit of breast-feeding for the child against the benefit of therapy for the woman.
 
 ## Fertility
 
@@ -207,23 +222,23 @@ Nilemdo has no or negligible influence on the ability to drive and use machines.
 
 The most commonly reported adverse reactions with bempedoic acid during pivotal trials were hyperuricaemia (3.8%), pain in extremity (3.1%), anaemia (2.5%), and gout (1.4%). More patients on bempedoic acid compared to placebo discontinued treatment due to muscle spasms (0.7% versus 0.3%), diarrhoea (0.5% versus &lt;0.1%), pain in extremity (0.4% versus 0), and nausea (0.3% versus 0.2%), although differences between bempedoic acid and placebo were not significant.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Tabulated list of adverse reactions
 
 Adverse reactions reported with bempedoic acid, based on incidence rates from phase 3 primary hyperlipidaemia studies and exposure adjusted incidence rates from CLEAR Outcomes study, are displayed by system organ class and frequency in table 1.
 
 Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); and not known (cannot be estimated from the available data).
 
-<div style=\"page-break-after: always\"></div>
-
 Table 1: Adverse reactions
 
 | System organ class (SOC)                        | Adverse reactions                    | Frequency categories   |
 |-------------------------------------------------|--------------------------------------|------------------------|
-| Blood and lymphatic system disorders            | Anaemia                              | Common                 |
+| Blood and lymphatic system disorders            | Anaemia a                            | Common                 |
 | Blood and lymphatic system disorders            | Haemoglobin decreased                | Uncommon               |
 | Metabolism and nutrition disorders              | Gout                                 | Common                 |
-| Metabolism and nutrition disorders              | Hyperuricaemia a                     | Common                 |
-| Metabolism and nutrition disorders              | Weight decreased b                   | Uncommon               |
+| Metabolism and nutrition disorders              | Hyperuricaemia a,b                   | Common                 |
+| Metabolism and nutrition disorders              | Weight decreased c                   | Uncommon               |
 | Hepatobiliary disorders                         | Aspartate aminotransferase increased | Common                 |
 | Hepatobiliary disorders                         | Alanine aminotransferase increased   | Uncommon               |
 | Hepatobiliary disorders                         | Liver function test increased        | Uncommon               |
@@ -240,25 +255,27 @@ Increases in serum transaminases (AST and/or ALT) have been reported with bemped
 
 ## Increased serum uric acid
 
-Increases in serum uric acid were observed in clinical trials with bempedoic acid possibly related to inhibition of renal tubular OAT2 (see section 4.5). In the phase 3 primary hyperlipidemia studies, a mean increase of 47.6 micromole/L (0.8 mg/dL) in uric acid compared to baseline was observed with bempedoic acid at week 12. The elevations in serum uric acid usually occurred within the first 4 weeks of treatment and returned to baseline following discontinuation of treatment.  In the phase 3 primary hyperlipidemia studies, gout was reported in 1.4% of patients treated with bempedoic acid and 0.4% of patients treated with placebo (see section 4.4). In the CLEAR Outcomes study, a mean increase of 47.6 micromole/L (0.8 mg/dL) in uric acid compared to baseline was observed in bempedoic acidtreated patients at month 3, and gout was also reported more frequently in bempedoic acid-treated patients (3.1%) than placebo-treated patients (2.1%). In both treatment groups, patients who reported gout were more likely to have a medical history of gout and/or baseline levels of uric acid above the ULN.
-
-## Effects on serum creatinine and blood urea nitrogen
-
-Bempedoic acid has been shown to increase serum creatinine and blood urea nitrogen (BUN). In the phase 3 primary hyperlipidemia studies, a mean increase of 4.4 micromole/L (0.05 mg/dL) in serum creatinine and a mean increase of 0.61 mmol/L (1.7 mg/dL) in BUN compared to baseline was
+Increases in serum uric acid were observed in clinical trials with bempedoic acid possibly related to inhibition of renal tubular OAT2 (see section 4.5). In the phase 3 primary hyperlipidemia studies, a mean increase of 47.6 micromole/L (0.8 mg/dL) in uric acid compared to baseline was observed with bempedoic acid at week 12. The elevations in serum uric acid usually occurred within the first 4 weeks of treatment and returned to baseline following discontinuation of treatment.  In the phase 3 primary hyperlipidemia studies, gout was reported in 1.4% of patients treated with bempedoic acid and 0.4% of
 
 <div style=\"page-break-after: always\"></div>
 
-observed with bempedoic acid at week 12. The elevations in serum creatinine and BUN usually occurred within the first 4 weeks of treatment, remained stable, and returned to baseline following discontinuation of treatment. Similar mean increases in serum creatinine (5.8 micromole/L (0.066 mg/dL)) and BUN (0.82 mmol/L (2.3 mg/dL)) were observed with bempedoic acid in the CLEAR Outcomes study.
+patients treated with placebo (see section 4.4). In the CLEAR Outcomes study, a mean increase of 47.6 micromole/L (0.8 mg/dL) in uric acid compared to baseline was observed in bempedoic acidtreated patients at month 3, and gout was also reported more frequently in bempedoic acid-treated patients (3.1%) than placebo-treated patients (2.1%). In both treatment groups, patients who reported gout were more likely to have a medical history of gout and/or baseline levels of uric acid above the ULN. An increase in the incidence of hyperuricaemia was observed in patients treated concomitantly with bempedoic acid and a fibrate. In the CLEAR Outcomes study, hyperuricaemia was reported more frequently in bempedoic acid-treated patients taking a fibrate at baseline (19.5%) compared to patients not taking a fibrate (10.4%), see section 4.5. There was no increase in the incidence of gout in bempedoic acid-treated patients taking a fibrate at baseline (1.1%) compared to patients not taking a fibrate (3.2%).
+
+## Effects on serum creatinine and blood urea nitrogen
+
+Bempedoic acid has been shown to increase serum creatinine and blood urea nitrogen (BUN). In the phase 3 primary hyperlipidemia studies, a mean increase of 4.4 micromole/L (0.05 mg/dL) in serum creatinine and a mean increase of 0.61 mmol/L (1.7 mg/dL) in BUN compared to baseline was observed with bempedoic acid at week 12. The elevations in serum creatinine and BUN usually occurred within the first 4 weeks of treatment, remained stable, and returned to baseline following discontinuation of treatment. Similar mean increases in serum creatinine (5.8 micromole/L (0.066 mg/dL)) and BUN (0.82 mmol/L (2.3 mg/dL)) were observed with bempedoic acid in the CLEAR Outcomes study.
 
 The observed elevations in serum creatinine may be associated with bempedoic acid inhibition of OAT2-dependent renal tubular secretion of creatinine (see section 4.5), representing a drugendogenous substrate interaction and does not appear to indicate worsening renal function. This effect should be considered when interpreting changes in estimated creatinine clearance in patients on Nilemdo therapy, particularly in patients with medical conditions or receiving medicinal products that require monitoring of estimated creatinine clearance.
 
 ## Decreased haemoglobin
 
-Decreases in haemoglobin were observed in clinical trials with bempedoic acid. In the phase 3 primary hyperlipidaemia studies, a decrease in haemoglobin from baseline of ≥ 20 g/L and &lt; lower limit of normal (LLN) was observed in 4.6% of patients in the bempedoic acid group compared with 1.9% of patients on placebo. Greater than 50 g/L and &lt; LLN decreases in haemoglobin were reported at similar rates in bempedoic acid and placebo groups (0.2% versus 0.2%, respectively). The decreases in haemoglobin usually occurred within the first 4 weeks of treatment and returned to baseline following discontinuation of treatment. Among patients who had normal haemoglobin values at baseline, 1.4% in the bempedoic acid group and 0.4% in the placebo group experienced haemoglobin values below LLN while on treatment. In the phase 3 primary hyperlipidemia studies, anaemia was reported in 2.5% of patients treated with bempedoic acid and 1.6% of patients treated with placebo. In the CLEAR Outcomes study, similar decreases in haemoglobin were observed, and anaemia was also reported more frequently in bempedoic acid-treated patients (4.7%) compared to placebo-treated patients (3.9%).
+Decreases in haemoglobin were observed in clinical trials with bempedoic acid. In the phase 3 primary hyperlipidaemia studies, a decrease in haemoglobin from baseline of ≥ 20 g/L and &lt; lower limit of normal (LLN) was observed in 4.6% of patients in the bempedoic acid group compared with 1.9% of patients on placebo. Greater than 50 g/L and &lt; LLN decreases in haemoglobin were reported at similar rates in bempedoic acid and placebo groups (0.2% versus 0.2%, respectively). The decreases in haemoglobin usually occurred within the first 4 weeks of treatment and returned to baseline following discontinuation of treatment. Among patients who had normal haemoglobin values at baseline, 1.4% in the bempedoic acid group and 0.4% in the placebo group experienced haemoglobin values below LLN while on treatment. In the phase 3 primary hyperlipidemia studies, anaemia was reported in 2.5% of patients treated with bempedoic acid and 1.6% of patients treated with placebo. In the CLEAR Outcomes study, similar decreases in haemoglobin were observed, and anaemia was also reported more frequently in bempedoic acid-treated patients (4.7%) compared to placebo-treated patients (3.9%). An increase in the incidence of anaemia was observed in patients treated concomitantly with bempedoic acid and a fibrate. In the CLEAR outcomes study, anaemia was reported more frequently in bempedoic acid-treated patients taking a fibrate at baseline (9.6%) compared to patients not taking a fibrate (4.5%).
 
 ## Elderly population
 
 Of the 3 621 patients treated with bempedoic acid in the phase 3 primary hyperlipidemia studies, 2 098 (58%) were &gt; 65 years old. In the CLEAR Outcomes study, 4 141 patients (59%) treated with bempedoic acid were ≥ 65 years of age and 1 066 patients (15%) treated with bempedoic acid were ≥ 75 years of age. No overall difference in safety was observed between elderly and the younger population.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
@@ -271,8 +288,6 @@ Doses up to 240 mg/day (1.3 times the approved recommended dose) have been admin
 No adverse events were observed in animal studies at exposures up to 14-fold higher than those in patients treated with bempedoic acid at 180 mg once daily.
 
 There is no specific treatment for a Nilemdo overdose. In the event of an overdose, the patient should be treated symptomatically, and supportive measures instituted as required.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -294,6 +309,8 @@ Because patients with diabetes are at elevated risk for atherosclerotic cardiova
 
 At a dose of 240 mg (1.3 times the approved recommended dose), bempedoic acid does not prolong the QT interval to any clinically relevant extent.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Clinical efficacy and safety
 
 ## Clinical efficacy and safety in primary hypercholesterolaemia and mixed dyslipidaemia
@@ -303,8 +320,6 @@ The efficacy of Nilemdo was investigated in four multi-centre, randomised, doubl
 ## Combination therapy with statins
 
 CLEAR Wisdom (Study 1002-047) was a multi-centre, randomised, double-blind, placebo-controlled, 52-week phase 3 primary hyperlipidaemia study in patients with hypercholesterolaemia or mixed dyslipidaemia. Efficacy of Nilemdo was evaluated at week 12. The trial included 779 patients randomised 2:1 to receive either bempedoic acid (n=522) or placebo (n=257) as add-on to a maximum tolerated lipid lowering therapy. Maximum tolerated lipid lowering therapy was defined as a maximum tolerated statin dose (including statin regimens other than daily dosing and no to very low doses) alone or in combination with other lipid-lowering therapies. Patients on simvastatin 40 mg/day or higher were excluded from the trial.
-
-<div style=\"page-break-after: always\"></div>
 
 Overall, the mean age at baseline was 64 years (range: 28 to 91 years), 51% were ≥ 65 years old, 36% were women, 94% were White, 5% were Black, and 1% were Asian. The mean baseline LDL-C was 3.1 mmol/L (120.4 mg/dL). At the time of randomisation, 91% of patients were receiving statin therapy and 53% were receiving high-intensity statin therapy. Bempedoic acid significantly reduced LDL-C from baseline to week 12 compared with placebo (p &lt; 0.001). Bempedoic acid also significantly reduced non-HDL-C, apo B, and TC.
 
@@ -320,11 +335,17 @@ Table 2. Treatment effects of Nilemdo compared with placebo in patients with pri
 | LDL-C a , n     | 498                                      | 253                                      | 1 488                                      | 742                                        |
 | LS Mean         | -15.1                                    | 2.4                                      | -16.5                                      | 1.6                                        |
 | non-HDL-C a , n | 498                                      | 253                                      | 1 488                                      | 742                                        |
-| LS Mean         | -10.8                                    | 2.3                                      | -11.9                                      | 1.5                                        |
-| apo B a , n     | 479                                      | 245                                      | 1 485                                      | 736                                        |
-| LS Mean         | -9.3                                     | 3.7                                      | -8.6                                       | 3.3                                        |
-| TC a , n        | 499                                      | 253                                      | 1 488                                      | 742                                        |
-| LS Mean         | -9.9                                     | 1.3                                      | -10.3                                      | 0.8                                        |
+
+<div style=\"page-break-after: always\"></div>
+
+|             | CLEAR Wisdom (Study 1002- 047) (N=779)   | CLEAR Wisdom (Study 1002- 047) (N=779)   | CLEAR Harmony (Study 1002-040) (N=2 230)   | CLEAR Harmony (Study 1002-040) (N=2 230)   |
+|-------------|------------------------------------------|------------------------------------------|--------------------------------------------|--------------------------------------------|
+|             | Nilemdo n=522                            | Placebo n=257                            | Nilemdo n=1 488                            | Placebo n=742                              |
+| LS Mean     | -10.8                                    | 2.3                                      | -11.9                                      | 1.5                                        |
+| apo B a , n | 479                                      | 245                                      | 1 485                                      | 736                                        |
+| LS Mean     | -9.3                                     | 3.7                                      | -8.6                                       | 3.3                                        |
+| TC a , n    | 499                                      | 253                                      | 1 488                                      | 742                                        |
+| LS Mean     | -9.9                                     | 1.3                                      | -10.3                                      | 0.8                                        |
 
 apo B=apolipoprotein B; HDL-C=high-density lipoprotein cholesterol; LDL C=low-density lipoprotein cholesterol; LS=least squares; TC=total cholesterol.
 
@@ -336,11 +357,7 @@ a. Percent change from baseline was analysed using analysis of covariance (ANCOV
 
 CLEAR Tranquility (Study 1002-048) was a multi-centre, randomised, double-blind, placebocontrolled 12-week phase 3 primary hyperlipidaemia study evaluating the efficacy of Nilemdo versus placebo in lowering LDL-C when added to ezetimibe in patients with elevated LDL-C who had a history of statin intolerance and were unable to tolerate more than the lowest approved starting dose of a statin. The trial included 269 patients randomised 2:1 to receive either bempedoic acid (n=181) or placebo (n=88) as add-on to ezetimibe 10 mg daily for 12 weeks.
 
-Overall, the mean age at baseline was 64 years (range: 30 to 86 years), 55% were ≥ 65 years old, 61% were women, 89% were White, 8% were Black, 2% were Asian, and 1% were other. The mean baseline LDL-C was 3.3 mmol/L (127.6 mg/dL). At the time of randomisation, 33% of patients on
-
-<div style=\"page-break-after: always\"></div>
-
-bempedoic acid versus 28% on placebo were receiving statin therapy at less than or equal to lowest approved doses. Bempedoic acid significantly reduced LDL-C from baseline to week 12 compared with placebo (p &lt; 0.001). Bempedoic acid also significantly reduced non-HDL-C, apo B, and TC (see table 3).
+Overall, the mean age at baseline was 64 years (range: 30 to 86 years), 55% were ≥ 65 years old, 61% were women, 89% were White, 8% were Black, 2% were Asian, and 1% were other. The mean baseline LDL-C was 3.3 mmol/L (127.6 mg/dL). At the time of randomisation, 33% of patients on bempedoic acid versus 28% on placebo were receiving statin therapy at less than or equal to lowest approved doses. Bempedoic acid significantly reduced LDL-C from baseline to week 12 compared with placebo (p &lt; 0.001). Bempedoic acid also significantly reduced non-HDL-C, apo B, and TC (see table 3).
 
 CLEAR Serenity (Study 1002-046) was a multi-centre, randomised, double-blind, placebo-controlled 24-week phase 3 primary hyperlipidaemia study evaluating the efficacy of Nilemdo versus placebo in patients with elevated LDL-C who were statin-intolerant or unable to tolerate two or more statins, one at the lowest dose. Patients able to tolerate a dose that was less than the approved starting dose of a statin were allowed to stay on that dose during the study. Efficacy of bempedoic acid was evaluated at week 12. The trial included 345 patients randomised 2:1 to receive either bempedoic acid (n=234) or placebo (n=111) for 24 weeks. At the time of randomisation, 8% of patients on bempedoic acid versus 10% on placebo were receiving statin therapy at less than the lowest approved doses and 36% of patients on bempedoic acid versus 30% of patients on placebo were on other nonstatin lipid-modifying therapies.
 
@@ -351,6 +368,8 @@ Bempedoic acid significantly reduced LDL-C from baseline to week 12 compared wit
 ## Treatment in the absence of lipid-modifying therapies
 
 In CLEAR Serenity (Study 1002-046), 133 patients in the bempedoic acid group and 67 patients in the placebo group were on no background lipid-modifying therapies. Bempedoic acid significantly reduced LDL-C from baseline to week 12 compared with placebo in this subgroup. The difference between bempedoic acid and placebo in mean percent change in LDL-C from baseline to week 12 was -22.1% (CI: -26.8%, -17.4%; p &lt; 0.001).
+
+<div style=\"page-break-after: always\"></div>
 
 Table 3. Treatment effects of Nilemdo compared with placebo in statin intolerant patients mean percent change from baseline to week 12
 
@@ -374,19 +393,19 @@ Background statin (1002-046): atorvastatin, simvastatin, pitavastatin, rosuvasta
 
 In all four trials, the maximum LDL-C lowering effects were observed as early as week 4 and efficacy was maintained throughout the trials. These results were consistent across all subgroups studied in any of the trials, including age, gender, race, ethnicity, region, history of diabetes, baseline LDL-C, body mass index (BMI), HeFH status, and background therapies.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Clinical efficacy and safety in prevention of cardiovascular events
 
 CLEAR Outcomes (Study 1002-043) was a multi-centre randomised, double-blind, placebocontrolled, event-driven trial in 13 970 adult patients with established atherosclerotic cardiovascular disease (CVD) (70%), or at high risk for atherosclerotic CVD (30%). Patients with established CVD had documented history of coronary artery disease, symptomatic peripheral arterial disease, and/or cerebrovascular atherosclerotic disease. Patients without established CVD were considered at high risk for CVD based on meeting at least one of the following criteria: (1) diabetes mellitus (type 1 or type 2) in women over 65 years of age, or men over 60 years of age, or (2) a Reynolds Risk score &gt;30% or a SCORE Risk score &gt;7.5% over 10 years, or 3) a coronary artery calcium score &gt;400 Agatston units at any time in the past. Patients were randomised 1:1 to receive either Nilemdo 180 mg per day (n = 6 992) or placebo (n = 6 978) alone or as an add on to other background lipid lowering therapies that could include very low doses of statins. Overall, more than 95% of patients were followed until the end of the trial or death, and less than 1% were lost to follow up. The median follow-up duration was 3.4 years.
 
 At baseline, the mean age was 65.5 years, 48% were women, 91% were White. Selected additional baseline characteristics included hypertension (85%), diabetes mellitus (46%), pre-diabetes mellitus (42%), current tobacco user (22%), eGFR &lt; 60 mL/min per 1.73 m 2  (21%), and a mean body mass index 29.9 kg/m 2 . The mean baseline LDL-C was 3.6 mmol/L (139 mg/dL). At baseline, 41% of patients were taking at least one lipid modifying therapy including ezetimibe (12%), and very low dose of statins (23%).
 
-Nilemdo significantly reduced the risk for the primary composite endpoint of major adverse cardiovascular events (MACE-4) consisting of cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, or coronary revascularization by 13% compared to placebo (Hazard Ratio: 0.87; 95% CI: 0.79, 0.96; p = 0.0037); and the risk of the key secondary MACE-3 composite endpoint (cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke) was significantly reduced by 15% compared to placebo (Hazard Ratio: 0.85; 95% CI: 0.76, 0.96; p = 0.0058). The primary composite endpoint result was generally consistent across prespecified subgroups (including baseline age, race, ethnicity, sex, LDL-C category, statin use, ezetimibe use, and diabetes). Impact of Nilemdo on the individual components of the primary endpoint included a 27% reduction in the risk of nonfatal myocardial infarction and a 19% reduction in the risk of coronary revascularization compared to placebo. There was no statistically significant difference in the reduction of non-fatal stroke and risk of cardiovascular death compared to placebo. The results of the primary and key secondary efficacy endpoints are shown in Table 4. The Kaplan-Meier curve estimates of the cumulative incidence of the MACE-4 primary and the MACE-3 secondary endpoint are shown in Figures 1 and 2 below. The cumulative incidence of the MACE-4 primary endpoint is separated by month 6.
-
-Further, the difference between Nilemdo and placebo in mean percent change in LDL-C from baseline to month 6 was -20% (95% CI: -21%, -19%).
+Nilemdo significantly reduced the risk for the primary composite endpoint of major adverse cardiovascular events (MACE-4) consisting of cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, or coronary revascularization by 13% compared to placebo (Hazard Ratio: 0.87; 95% CI: 0.79, 0.96; p = 0.0037); and the risk of the key secondary MACE-3 composite endpoint (cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke) was significantly reduced by 15% compared to placebo (Hazard Ratio: 0.85; 95% CI: 0.76, 0.96; p = 0.0058). The primary composite endpoint result was generally consistent across prespecified subgroups (including baseline age, race, ethnicity, sex, LDL-C category, statin use, ezetimibe use, and diabetes). Impact of Nilemdo
 
 <div style=\"page-break-after: always\"></div>
+
+on the individual components of the primary endpoint included a 27% reduction in the risk of nonfatal myocardial infarction and a 19% reduction in the risk of coronary revascularization compared to placebo. There was no statistically significant difference in the reduction of non-fatal stroke and risk of cardiovascular death compared to placebo. The results of the primary and key secondary efficacy endpoints are shown in Table 4. The Kaplan-Meier curve estimates of the cumulative incidence of the MACE-4 primary and the MACE-3 secondary endpoint are shown in Figures 1 and 2 below. The cumulative incidence of the MACE-4 primary endpoint is separated by month 6.
+
+Further, the difference between Nilemdo and placebo in mean percent change in LDL-C from baseline to month 6 was -20% (95% CI: -21%, -19%).
 
 Table 4: Effect of Nilemdo on Major Cardiovascular Events
 
@@ -405,6 +424,14 @@ Table 4: Effect of Nilemdo on Major Cardiovascular Events
 | Fatal and non-fatal myocardial infarction                                                                    | 261 (3.7)         | 334 (4.8)         | 0.77 (0.66, 0.91) 0.0016           |
 | Coronary revascularization                                                                                   | 435 (6.2)         | 529 (7.6)         | 0.81 (0.72, 0.92) 0.0013           |
 | Fatal and non-fatal stroke                                                                                   | 135 (1.9)         | 158 (2.3)         | 0.85 (0.67, 1.07) NS               |
+
+CI = confidence interval; MACE = major adverse cardiovascular event; NS=not significant
+
+a. Hazard ratio and corresponding 95% CI were based on a Cox proportional hazard model fitting treatment as explanatory variable.
+
+b. p-value was based on log rank test.
+
+Note: this table also presents the time to first occurrence for each of the components of MACE; patients may be included in more than 1 category
 
 <div style=\"page-break-after: always\"></div>
 
@@ -442,19 +469,25 @@ Concomitant food administration had no effect on the oral bioavailability of bem
 
 The bempedoic acid apparent volume of distribution (V/F) was 18 L. Plasma protein binding of bempedoic acid, its glucuronide and its active metabolite, ESP15228, were 99.3%, 98.8% and 99.2%, respectively. Bempedoic acid does not partition into red blood cells.
 
+A lactation study in 8 healthy lactating women evaluated the concentrations of bempedoic acid in mature breast-milk. Nilemdo 180 mg oral tablet was given once daily for six consecutive days. The geometric mean estimate of bempedoic acid Cmax in breast-milk was 118 ng/mL (range: 79.6 to 251 ng/mL) with a median Tmax of about 3 hours.
+
+Bempedoic acid was detected in breast-milk of lactating women who received six consecutive daily doses of 180 mg bempedoic acid. The mean daily infant dose of bempedoic acid through breast-milk was approximately 0.03 mg/day (95% CI: 0.02; 0.05) with a mean calculated daily infant oral dosage of 0.012 mg/kg/day based on a standard infant milk intake of 150 mL/kg/day. The mean (SD) relative infant dose (RID) was approximately 0.5 (0.2)% of the maternal weight-adjusted dosage. Concentrations of ESP15228, the active metabolite, in breast-milk were below the limit of quantitation (20 ng/mL) in 7 of 8 subjects studied. There is no information regarding the effects of Nilemdo on the breastfed infant, or the effects on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Nilemdo and any potential adverse effects on the breastfed infant from Nilemdo or from the underlying maternal condition.
+
 ## Biotransformation
 
 In vitro metabolic interaction studies suggest that bempedoic acid, as well as its active metabolite and glucuronide forms are not metabolised by and do not inhibit or induce cytochrome P450 enzymes.
 
-The primary route of elimination for bempedoic acid is through metabolism to the acyl glucuronide. Bempedoic acid is also reversibly converted to an active metabolite (ESP15228) based on aldo-keto reductase activity observed in vitro from human liver. Mean plasma AUC metabolite/parent drug ratio for ESP15228 following repeat-dose administration was 18% and remained constant over time. Both compounds are converted to inactive glucuronide conjugates in vitro by UDPGlucuronosyltransferase-2B7 (UGT2B7). Bempedoic acid, ESP15228 and their respective conjugated forms were detected in plasma with bempedoic acid accounting for the majority (46%) of the AUC0-48h and its glucuronide being the next most prevalent (30%). ESP15228 and its glucuronide represented 10% and 11% of the plasma AUC0-48h, respectively.
+The primary route of elimination for bempedoic acid is through metabolism to the acyl glucuronide. Bempedoic acid is also reversibly converted to an active metabolite (ESP15228) based on aldo-keto reductase activity observed in vitro from human liver. Mean plasma AUC metabolite/parent drug ratio for ESP15228 following repeat-dose administration was 18% and remained constant over time. Both
+
+<div style=\"page-break-after: always\"></div>
+
+compounds are converted to inactive glucuronide conjugates in vitro by UDPGlucuronosyltransferase-2B7 (UGT2B7). Bempedoic acid, ESP15228 and their respective conjugated forms were detected in plasma with bempedoic acid accounting for the majority (46%) of the AUC0-48h and its glucuronide being the next most prevalent (30%). ESP15228 and its glucuronide represented 10% and 11% of the plasma AUC0-48h, respectively.
 
 The steady-state Cmax and AUC of the equipotent active metabolite (ESP15228) of bempedoic acid in patients with hypercholesterolaemia were 3.0 (1.4) microgram/mL and 54.1 (26.4) microgram∙h/mL, respectively. ESP15228 likely made a minor contribution to the overall clinical activity of bempedoic acid based on systemic exposure and pharmacokinetic properties.
 
 ## Elimination
 
 The steady-state clearance (CL/F) of bempedoic acid determined from a population pharmacokinetics (PK) analysis in patients with hypercholesterolaemia was 12.1 mL/min after once-daily dosing; renal clearance of unchanged bempedoic acid represented less than 2% of total clearance. The mean (SD) half-life for bempedoic acid in humans was 19 (10) hours at steady-state.
-
-<div style=\"page-break-after: always\"></div>
 
 Following single oral administration of 240 mg of bempedoic acid (1.3 times the approved recommended dose), 62.1% of the total dose (bempedoic acid and its metabolites) was recovered in urine, primarily as the acyl glucuronide conjugate of bempedoic acid, and 25.4% was recovered in faeces. Less than 5% of the administered dose was excreted as unchanged bempedoic acid in faeces and urine combined.
 
@@ -476,13 +509,13 @@ Bempedoic acid was not studied in patients with severe hepatic impairment (Child
 
 The pharmacokinetics of bempedoic acid were not affected by age, gender, or race. Body weight was a statistically significant covariate. The lowest quartile of body weight (&lt; 73 kg) was associated with an approximate 30% greater exposure. The increase in exposure was not clinically significant and no dose adjustments are recommended based on weight.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.3 Preclinical safety data
 
 The standard battery of genotoxicity studies has not identified any mutagenic or clastogenic potential of bempedoic acid. In full lifetime carcinogenicity studies in rodents, bempedoic acid increased the incidence of hepatocellular and thyroid gland follicular tumours in male rats and hepatocellular tumours in male mice. Because these are common tumours observed in rodent lifetime bioassays and the mechanism for tumourigenesis is secondary to a rodent-specific peroxisome proliferator-activated receptor (PPAR) alpha activation, these tumours are not considered to translate to human risk.
 
 Increased liver weight and hepatocellular hypertrophy were observed in rats only and were partially reversed after the 1month recovery at ≥ 30 mg/kg/day or 4 times the exposure in humans at 180 mg. Reversible, non-adverse changes in laboratory parameters indicative of these hepatic effects, decreases in red blood cell and coagulation parameters, and increases in urea nitrogen and creatinine were observed in both rats and monkeys at tolerated doses. The no-observed-adverse-effect level (NOAEL) for adverse response in the chronic studies was 10 mg/kg/day and 60 mg/kg/day associated with exposures below and 15 times the human exposure at 180 mg in rats and monkeys, respectively.
-
-<div style=\"page-break-after: always\"></div>
 
 Bempedoic acid was not teratogenic or toxic to embryos or foetuses in pregnant rabbits at doses up to 80 mg/kg/day or 12 times the systemic exposure in humans at 180 mg. Pregnant rats given bempedoic acid at 10, 30, and 60 mg/kg/day during organogenesis had decreased numbers of viable foetuses and reduced fo etal body weight at ≥ 30 mg/kg/day or 4 times the systemic exposure in humans at 180 mg. An increased incidence of foetal skeletal findings (bent scapula and ribs) were observed at all doses, at exposures below the systemic exposure in humans at 180 mg. In a pre- and post-natal development study, pregnant rats administered bempedoic acid at 5, 10, 20 and 30 mg/kg/day throughout pregnancy and lactation had adverse maternal effects at ≥ 20 mg/kg/day and reductions in numbers of live pups and pup survival, pup growth and learning and memory at ≥ 10 mg/kg/day, with maternal exposures at 10 mg/kg/day, less than the exposure in humans at 180 mg.
 
@@ -500,6 +533,8 @@ Lactose monohydrate Microcrystalline cellulose (E460) Sodium starch glycolate (T
 
 Partially hydrolysed poly(vinyl alcohol) (E1203) Talc (E553b) Titanium dioxide (E171) Macrogol/PEG (E1521)
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.2 Incompatibilities
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
@@ -514,11 +549,7 @@ This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
 
-Polyvinyl chloride (PVC)/aluminum blisters. Pack sizes of 10, 14, 28, 30, 84, 90, 98 or 100 film-coated tablets. Polyvinyl chloride (PVC)/aluminum perforated unit dose blisters.
-
-<div style=\"page-break-after: always\"></div>
-
-Pack sizes of 10 x 1, 50 x 1 or 100 x 1 film-coated tablets.
+Polyvinyl chloride (PVC)/aluminum blisters. Pack sizes of 10, 14, 28, 30, 84, 90, 98 or 100 film-coated tablets. Polyvinyl chloride (PVC)/aluminum perforated unit dose blisters. Pack sizes of 10 x 1, 50 x 1 or 100 x 1 film-coated tablets.
 
 Not all pack sizes may be marketed.
 
@@ -526,15 +557,11 @@ Not all pack sizes may be marketed.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-7.
-
-MARKETING AUTHORISATION HOLDER
+## 7. MARKETING AUTHORISATION HOLDER
 
 Daiichi Sankyo Europe GmbH Zielstattstrasse 48 81379 Munich Germany
 
-8.
-
-MARKETING AUTHORISATION NUMBER(S)
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/20/1425/001 - 011
 
@@ -546,9 +573,7 @@ Date of latest renewal: 18 November 2024
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
-
-18
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -646,8 +671,6 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
@@ -689,6 +712,7 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Nilemdo 180 mg
@@ -696,6 +720,8 @@ Nilemdo 180 mg
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -786,7 +812,6 @@ Nilemdo contains the active substance bempedoic acid, which is inactive until it
 
 - if you are allergic to bempedoic acid or any of the other ingredients of this medicine (listed in section 6);
 - if you are pregnant;
-- if you are breast-feeding;
 - if you take more than 40 mg of simvastatin daily (another medicine used to lower cholesterol).
 
 ## Warnings and precautions
@@ -800,6 +825,11 @@ Talk to your doctor or pharmacist before taking Nilemdo:
 Your doctor may do a blood test before you start taking Nilemdo. This is to check how well your liver is working.
 
 If you are taking other medicines called statins (medicines used to lower cholesterol), talk promptly to your doctor about any unexplained muscle pain, tenderness, or weakness ( see 'Other medicines and Nilemdo').
+
+In case of concomitant administration of fibrates with Nilemdo, your doctor should do a blood test at four weeks after starting Nilemdo and periodically thereafter to monitor:
+
+- a type of fat (also called triglycerides) and
+- 'good' cholesterol (also called 'HDL-cholesterol').
 
 If you plan to become pregnant, talk to your doctor first.Your doctor will advise you how to stop taking Nilemdo before stopping any form of contraception.
 
@@ -818,22 +848,23 @@ The risk of muscle disease may increase when taking both a statin and Nilemdo. T
 - bosentan (used to manage a condition called pulmonary artery hypertension).
 - fimasartan (used to treat high blood pressure and heart failure).
 - asunaprevir, glecaprevir, grazoprevir, voxilaprevir (used to treat hepatitis C).
+- fenofibrate or other fibrates (used to lower cholesterol).
 
 ## Pregnancy and breast-feeding
 
 Do not take this medicine if you are pregnant, trying to get pregnant, or think you may be pregnant, as there is a possibility that it could harm an unborn baby. If you get pregnant while taking this medicine, call your doctor immediately and stop taking Nilemdo.
 
+<div style=\"page-break-after: always\"></div>
+
 ## · Pregnancy
 
 Before starting treatment, you should confirm you are not pregnant and are using effective contraception, as advised by your doctor. If you use contraceptive pills and suffer from an episode of diarrhoea or vomiting that lasts more than 2 days, you must use an alternative method of contraception (e.g. condoms, diaphragm) for 7 days following resolution of symptoms.
-
-<div style=\"page-break-after: always\"></div>
 
 If, after you have started treatment with Nilemdo, you decide that you would like to become pregnant, tell your doctor, as your treatment will need to be changed.
 
 ## · Breast-feeding
 
-Do not take Nilemdo if you are breast-feeding because it is not known if Nilemdo passes into milk.
+If you are breast-feeding, ask your doctor for advice before taking this medicine because Nilemdo may pass into your breast-milk.
 
 ## Driving and using machines
 
@@ -874,14 +905,13 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-Side effects can occur with the following frequencies:
-
-Common (may affect up to 1 in 10 people)
-
-- lower number of red blood cells (anaemia)
-
 <div style=\"page-break-after: always\"></div>
 
+Side effects can occur with the following frequencies:
+
+## Common (may affect up to 1 in 10 people)
+
+- lower number of red blood cells (anaemia)
 - increased levels of uric acid in blood, gout
 - pain in shoulders, legs, or arms
 - blood test results indicating liver abnormalities
@@ -921,6 +951,8 @@ Do not throw away any medicine via wastewater or household waste. Ask your pharm
 - -silica, colloidal anhydrous (E551)
 - -partially hydrolysed poly(vinyl alcohol) (E1203), talc (E553b), titanium dioxide (E171), macrogol/PEG (E1521)
 
+<div style=\"page-break-after: always\"></div>
+
 ## What Nilemdo looks like and contents of the pack
 
 Film-coated tablets are white to off-white, oval, debossed with '180' on one side and 'ESP' on the other side. Tablet dimensions: 13.97 mm × 6.60 mm × 4.80 mm.
@@ -928,8 +960,6 @@ Film-coated tablets are white to off-white, oval, debossed with '180' on one sid
 Nilemdo is supplied in plastic/aluminium blisters in cartons of 10, 14, 28, 30, 84, 90, 98 or 100 filmcoated tablets or unit dose blisters in cartons of 10 x 1, 50 x 1 or 100 x 1 film-coated tablets.
 
 Not all pack sizes may be marketed in your country.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 
@@ -945,21 +975,45 @@ For any information about this medicine, please contact the local representative
 
 Daiichi Sankyo Belgium N.V.-S.A Tél/Tel: +32-(0) 2 227 18 80
 
+## Lietuva
+
+Zentiva, k.s. Tel: +370 52152025
+
 ## България
 
 Zentiva, k.s. Тел .: + 359 24417136
 
+## Luxembourg/Luxemburg
+
+Daiichi Sankyo Belgium N.V.-S.A Tél/Tel: +32-(0) 2 227 18 80
+
 ## Česká republika
 
-Zentiva, k.s. Tel: +420 267 241 111
+Zentiva, k.s.
+
+Tel: +420 267 241 111
+
+## Magyarország
+
+Daiichi Sankyo Europe GmbH Tel.: +49-(0) 89 7808 0
 
 ## Danmark
 
-Organon Denmark ApS Tlf.: +45 4484 6800
+Organon Denmark ApS
+
+Tlf.: +45 4484 6800
+
+## Malta
+
+Daiichi Sankyo Europe GmbH Tel: +49-(0) 89 7808 0
 
 ## Deutschland
 
 Daiichi Sankyo Deutschland GmbH Tel: +49-(0) 89 7808 0
+
+## Nederland
+
+Daiichi Sankyo Nederland B.V. Tel: +31-(0) 20 4 07 20 72
 
 ## Eesti
 
@@ -967,13 +1021,33 @@ Zentiva, k.s.
 
 Tel: +372 52 70308
 
+## Norge
+
+Organon Norway AS
+
+Tlf: +47 24 14 56 60
+
 ## Ελλάδα
 
-Daiichi Sankyo Europe GmbH Τηλ : +49-(0) 89 7808 0
+Daiichi Sankyo Europe GmbH
+
+Τηλ
+
+: +49-(0) 89 7808 0
+
+## Österreich
+
+Daiichi Sankyo Austria GmbH
+
+Tel: +43 (0) 1 485 86 42 0
+
+<div style=\"page-break-after: always\"></div>
 
 ## España
 
-Daiichi Sankyo España, S.A. Tel: +34 91 539 99 11
+Daiichi Sankyo España, S.A.
+
+Tel: +34 91 539 99 11
 
 ## France
 
@@ -981,55 +1055,11 @@ Organon France
 
 Tél: +33 (0) 1 57 77 32 00
 
-## Lietuva
-
-Zentiva, k.s. Tel: +370 52152025
-
-## Luxembourg/Luxemburg
-
-Daiichi Sankyo Belgium N.V.-S.A Tél/Tel: +32-(0) 2 227 18 80
-
-## Magyarország
-
-Daiichi Sankyo Europe GmbH Tel.: +49-(0) 89 7808 0
-
-## Malta
-
-Daiichi Sankyo Europe GmbH Tel: +49-(0) 89 7808 0
-
-## Nederland
-
-Daiichi Sankyo Nederland B.V. Tel: +31-(0) 20 4 07 20 72
-
-## Norge
-
-Organon Norway AS
-
-Tlf: +47 24 14 56 60
-
-## Österreich
-
-Daiichi Sankyo Austria GmbH Tel: +43 (0) 1 485 86 42 0
-
-## Polska
-
-Daiichi Sankyo Europe GmbH Tel.: +49-(0) 89 7808 0
-
-## Portugal
-
-Daiichi Sankyo Portugal, Unip. LDA Tel: +351 21 4232010
-
 ## Hrvatska
 
 Zentiva d.o.o.
 
 Tel: +385 1 6641 830
-
-## România
-
-Daiichi Sankyo Europe GmbH
-
-Tel: +49-(0) 89 7808 0
 
 ## Ireland
 
@@ -1037,23 +1067,11 @@ Daiichi Sankyo Ireland Ltd
 
 Tel: +353-(0) 1 489 3000
 
-## Slovenija
-
-Daiichi Sankyo Europe GmbH
-
-Tel: +49-(0) 89 7808 0
-
 ## Ísland
 
 Vistor hf.
 
 Sími: +354 535 7000
-
-## Slovenská republika
-
-Zentiva, a.s.
-
-Tel: +421 2 3918 3010
 
 ## Italia
 
@@ -1061,25 +1079,13 @@ Daiichi Sankyo Italia S.p.A.
 
 Tel: +39-06 85 2551
 
-## Suomi/Finland
-
-Organon Finland Oy
-
-Puh/Tel: +358 (0) 29 170 3520
-
 ## Κύπρος
 
 Daiichi Sankyo Europe GmbH
 
-Τηλ:
+Τηλ
 
-+49-(0) 89 7808 0
-
-## Sverige
-
-Organon Sweden AB
-
-Tel: +46 8 502 597 00
+: +49-(0) 89 7808 0
 
 ## Latvija
 
@@ -1087,10 +1093,50 @@ Zentiva, k.s.
 
 Tel: +371 67893939
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Polska
+
+Daiichi Sankyo Europe GmbH
+
+Tel.: +49-(0) 89 7808 0
+
+## Portugal
+
+Daiichi Sankyo Portugal, Unip. LDA
+
+Tel: +351 21 4232010
+
+## România
+
+Daiichi Sankyo Europe GmbH
+
+Tel: +49-(0) 89 7808 0
+
+## Slovenija
+
+Daiichi Sankyo Europe GmbH
+
+Tel: +49-(0) 89 7808 0
+
+## Slovenská republika
+
+Zentiva, a.s.
+
+Tel: +421 2 3918 3010
+
+## Suomi/Finland
+
+Organon Finland Oy
+
+Puh/Tel: +358 (0) 29 170 3520
+
+## Sverige
+
+Organon Sweden AB
+
+Tel: +46 8 502 597 00

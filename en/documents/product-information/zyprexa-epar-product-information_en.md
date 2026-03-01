@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-06-06 09:00:51
-document_pages: 72
+document_datetime: 2026-02-27 11:25:02
+document_pages: 73
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zyprexa-epar-product-information_en.pdf
 document_name: zyprexa-epar-product-information_en.pdf
 version: success
-processing_time: 13.7045011
-conversion_datetime: 2025-12-25 03:33:43.144444
+processing_time: 16.5846937
+conversion_datetime: 2026-03-01 19:42:19.044797
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -82,29 +82,29 @@ For the full list of excipients, see section 6.1.
 
 ## ZYPREXA 2.5 mg coated tablets
 
-Round, white, coated tablets imprinted with 'LILLY' and a numeric identicode '4112'.
+Round, white, coated tablets imprinted with 'ZYP' and a numeric identicode '2.5'.
 
 ## ZYPREXA 5 mg coated tablets
 
-Round, white, coated tablets imprinted with 'LILLY' and a numeric identicode '4115'.
+Round, white, coated tablets imprinted with 'ZYP' and a numeric identicode '5'.
 
 ## ZYPREXA 7.5 mg coated tablets
 
-Round, white, coated tablets imprinted with 'LILLY' and a numeric identicode '4116'.
+Round, white, coated tablets imprinted with 'ZYP' and a numeric identicode '7.5'.
 
 <div style=\"page-break-after: always\"></div>
 
 ## ZYPREXA 10 mg coated tablets
 
-Round, white, coated tablets imprinted with 'LILLY' and a numeric identicode '4117'.
+Round, white, coated tablets imprinted with 'ZYP' and a numeric identicode '10'.
 
 ## ZYPREXA 15 mg coated tablets
 
-Elliptical, blue, coated tablets debossed with 'LILLY' and a numeric identicode '4415'.
+Elliptical, blue, coated tablets debossed with 'ZYP' and a numeric identicode '15'.
 
 ## ZYPREXA 20 mg coated tablets
 
-Pink, elliptical, coated tablets debossed with 'LILLY' and a numeric identicode, '4420'.
+Pink, elliptical, coated tablets debossed with 'ZYP' and a numeric identicode, '20'.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -172,11 +172,9 @@ In the same clinical trials, cerebrovascular adverse events (CVAE e.g., stroke, 
 
 ## Parkinson's disease
 
-The use of olanzapine in the treatment of dopamine agonist associated psychosis in patients with Parkinson's disease is not recommended. In clinical trials, worsening of Parkinsonian symptomatology and hallucinations were reported very commonly and more frequently than with placebo (see section 4.8), and olanzapine was not more effective than placebo in the treatment of psychotic symptoms. In these trials, patients were initially required to be stable on the lowest effective dose of antiParkinsonian medicinal products (dopamine agonist) and to remain on the same anti-Parkinsonian
+The use of olanzapine in the treatment of dopamine agonist associated psychosis in patients with Parkinson's disease is not recommended. In clinical trials, worsening of Parkinsonian symptomatology and hallucinations were reported very commonly and more frequently than with placebo (see section 4.8), and olanzapine was not more effective than placebo in the treatment of psychotic symptoms. In these trials, patients were initially required to be stable on the lowest effective dose of antiParkinsonian medicinal products (dopamine agonist) and to remain on the same anti-Parkinsonian medicinal products and dosages throughout the study. Olanzapine was started at 2.5 mg/day and titrated to a maximum of 15 mg/day based on investigator judgement.
 
 <div style=\"page-break-after: always\"></div>
-
-medicinal products and dosages throughout the study. Olanzapine was started at 2.5 mg/day and titrated to a maximum of 15 mg/day based on investigator judgement.
 
 ## Neuroleptic Malignant Syndrome (NMS)
 
@@ -202,11 +200,11 @@ Transient, asymptomatic elevations of hepatic aminotransferases, ALT, AST have b
 
 Caution should be exercised in patients with low leukocyte and/or neutrophil counts for any reason, in patients receiving medicines known to cause neutropenia, in patients with a history of drug-induced bone marrow depression/toxicity, in patients with bone marrow depression caused by concomitant illness, radiation therapy or chemotherapy and in patients with hypereosinophilic conditions or with myeloproliferative disease. Neutropenia has been reported commonly when olanzapine and valproate are used concomitantly (see section 4.8).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Discontinuation of treatment
 
-Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported rarely ( ≥ 0.01 % and &lt; 0.1 %) when olanzapine is stopped abruptly.
+Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported rarely (≥ 0.01 % and &lt; 0.1 %) when olanzapine is stopped abruptly.
+
+<div style=\"page-break-after: always\"></div>
 
 ## QT interval
 
@@ -240,11 +238,11 @@ In postmarketing reports with olanzapine, the event of sudden cardiac death has 
 
 Olanzapine is not indicated for use in the treatment of children and adolescents. Studies in patients aged 13-17 years showed various adverse reactions, including weight gain, changes in metabolic parameters and increases in prolactin levels (see sections 4.8 and 5.1).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Lactose
 
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -288,11 +286,11 @@ The concomitant use of olanzapine with anti-Parkinsonian medicinal products in p
 
 Caution should be used if olanzapine is being administered concomitantly with medicinal products known to increase QTc interval (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Pregnancy
+
+<div style=\"page-break-after: always\"></div>
 
 There are no adequate and well-controlled studies in pregnant women. Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during treatment with olanzapine. Nevertheless, because human experience is limited, olanzapine should be used in pregnancy only if the potential benefit justifies the potential risk to the foetus.
 
@@ -320,7 +318,7 @@ The most frequently (seen in ≥ 1 % of patients) reported adverse reactions ass
 
 ## Tabulated list of adverse reactions
 
-The following table lists the adverse reactions  and laboratory investigations observed from spontaneous reporting and in clinical trials. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency ter ms listed are defined as follows: Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/ 10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), not known (cannot be estimated from the data available).
+The following table lists the adverse reactions  and laboratory investigations observed from spontaneous reporting and in clinical trials. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), not known (cannot be estimated from the data available).
 
 | Very common                              | Common                                    | Uncommon                                 | Rare                                     | Not known   |
 |------------------------------------------|-------------------------------------------|------------------------------------------|------------------------------------------|-------------|
@@ -366,11 +364,11 @@ The following table lists the adverse reactions  and laboratory investigations o
 | Investigations                                       | Investigations                                                                                                       | Investigations                                                                                  | Investigations                                       |                                                               |
 | Elevated plasma prolactin levels 8                   | Increased alkaline phosphatase 10 High creatine phosphokinase 11 High Gamma Glutamyltransferase 10 High uric acid 10 | Increased total bilirubin                                                                       |                                                      |                                                               |
 
-1 Clinically significant weight gain was observed across all baseline Body Mass Index (BMI) categories. Following short term treatment (median duration 47 days), w eight gain ≥ 7 % of baseline body weight  was very common (22.2 %), ≥ 15 % was common (4.2 %) and ≥ 25 % was uncommon (0.8 %). Patients gaining ≥ 7 %, ≥ 15 % and ≥ 25 % of their baseline body weight with long-term exposure (at least 48 weeks) were very common (64.4 %, 31.7 % and 12.3 % respectively).
+1 Clinically significant weight gain was observed across all baseline Body Mass Index (BMI) categories. Following short term treatment (median duration 47 days), weight gain ≥ 7 % of baseline body weight  was very common (22.2 %), ≥ 15 % was common (4.2 %) and ≥ 25 % was uncommon (0.8 %). Patients gaining ≥ 7 %, ≥ 15 % and ≥ 25 % of their baseline body weight with long-term exposure (at least 48 weeks) were very common (64.4 %, 31.7 % and 12.3 % respectively).
 
 2 Mean increases in fasting lipid values (total cholesterol, LDL cholesterol, and triglycerides) were greater in patients without evidence of lipid dysregulation at baseline.
 
-3 Observed for fasting normal levels at baseline (&lt; 5.17 mmol/l) which increased to high (≥ 6.2 mmol/l). Changes in total fasting cholesterol levels from borderline at baseline (≥ 5.17 &lt; 6.2 mmol/l ) to high (≥ 6.2 mmol/l) were very common.
+3 Observed for fasting normal levels at baseline (&lt; 5.17 mmol/l) which increased to high (≥ 6.2 mmol/l). Changes in total fasting cholesterol levels from borderline at baseline (≥ 5.17 &lt; 6.2 mmol/l) to high (≥ 6.2 mmol/l) were very common.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -414,7 +412,7 @@ Olanzapine is not indicated for the treatment of children and adolescent patient
 
 The following table summarises the adverse reactions reported with a greater frequency in adolescent patients (aged 13-17 years) than in adult patients or adverse reactions only identified during short-term clinical trials in adolescent patients. Clinically significant weight gain (≥ 7 %) appears to occur more frequently in the adolescent population compared to adults with comparable exposures. The magnitude of weight gain and the proportion of adolescent patients who had clinically significant weight gain were greater with long-term exposure (at least 24 weeks) than with short-term exposure.
 
-Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common (≥ 1/ 10), common (≥ 1/100 to &lt; 1/10).
+Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10).
 
 | Metabolism and nutrition disorders Very common: Weight gain 13 , elevated triglyceride levels 14 , increased appetite. Common: Elevated cholesterol levels 15   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -507,7 +505,7 @@ In renally impaired patients (creatinine clearance &lt; 10 ml/min) versus health
 
 ## Hepatic impairment
 
-A small study of the effect of impaired liver function in 6 subjects with clinically significant (Childs Pugh Classification A (n = 5) and B (n = 1)) cirrhosis revealed little effect on the pharmacokinetics of orally  administered  olanzapine  (2.5 - 7.5 mg  single  dose):  Subjects  with  mild  to  moderate  hepatic dysfunction  had  slightly  increased  systemic  clearance  and  faster  elimination  half-time  compared  to subjects with no hepatic dysfunction (n = 3). There were more smokers among subjects with cirrhosis (4/6; 67 %) than among subjects with no hepatic dysfunction (0/3; 0 %).
+A small study of the effect of impaired liver function in 6 subjects with clinically significant (ChildPugh Classification A (n = 5) and B (n = 1)) cirrhosis revealed little effect on the pharmacokinetics of orally  administered  olanzapine  (2.5 - 7.5 mg  single  dose):  Subjects  with  mild  to  moderate  hepatic dysfunction  had  slightly  increased  systemic  clearance  and  faster  elimination  half-time  compared  to subjects with no hepatic dysfunction (n = 3). There were more smokers among subjects with cirrhosis (4/6; 67 %) than among subjects with no hepatic dysfunction (0/3; 0 %).
 
 ## Smoking
 
@@ -567,8 +565,6 @@ Colour mixture white (hypromellose, titanium dioxide E171, macrogol, polysorbate
 
 Carnauba wax
 
-Edible blue ink (shellac, ethanol anhydrous, isopropyl alcohol, butyl alcohol, propylene glycol, ammonium hydroxide, indigo carmine E132)
-
 ## ZYPREXA 15 mg coated tablets
 
 Hypromellose
@@ -591,7 +587,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-ZYPREXA 2.5 mg coated tablets
+## ZYPREXA 2.5 mg coated tablets
 
 2 years.
 
@@ -626,13 +622,13 @@ EU/1/96/022/019 - ZYPREXA - 2.5 mg - coated tablets - 56 tablets, per box.
 EU/1/96/022/023 - ZYPREXA - 2.5 mg - coated tablets - 35 tablets, per box.
 
 ```
-EU/1/96/022/029 - ZYPREXA - 2.5 mg - coated tablets - 70 tablets, per box. EU/1/96/022/035 - ZYPREXA - 2.5 mg - coated tablets - 98 tablets, per box. EU/1/96/022/004 - ZYPREXA - 5 mg - coated tablets - 28 tablets, per box. EU/1/96/022/020 - ZYPREXA - 5 mg - coated tablets - 56 tablets, per box.
+EU/1/96/022/029 - ZYPREXA - 2.5 mg - coated tablets - 70 tablets, per box. EU/1/96/022/035 - ZYPREXA - 2.5 mg - coated tablets - 98 tablets, per box. EU/1/96/022/004 - ZYPREXA - 5 mg - coated tablets - 28 tablets, per box. EU/1/96/022/020 - ZYPREXA - 5 mg - coated tablets - 56 tablets, per box. EU/1/96/022/024 - ZYPREXA - 5 mg - coated tablets - 35 tablets, per box. EU/1/96/022/030 - ZYPREXA - 5 mg - coated tablets - 70 tablets, per box.
 ```
 
 <div style=\"page-break-after: always\"></div>
 
 ```
-EU/1/96/022/024 - ZYPREXA - 5 mg - coated tablets - 35 tablets, per box. EU/1/96/022/030 - ZYPREXA - 5 mg - coated tablets - 70 tablets, per box. EU/1/96/022/036 - ZYPREXA - 5 mg - coated tablets - 98 tablets, per box. EU/1/96/022/011 - ZYPREXA - 7.5 mg - coated tablets - 28 tablets, per box. EU/1/96/022/006 - ZYPREXA - 7.5 mg - coated tablets - 56 tablets, per box. EU/1/96/022/025 - ZYPREXA - 7.5 mg - coated tablets - 35 tablets, per box. EU/1/96/022/031 - ZYPREXA - 7.5 mg - coated tablets - 70 tablets, per box. EU/1/96/022/037 - ZYPREXA - 7.5 mg - coated tablets - 98 tablets, per box. EU/1/96/022/009 - ZYPREXA - 10 mg - coated tablets - 28 tablets, per box. EU/1/96/022/010 - ZYPREXA - 10 mg - coated tablets - 56 tablets, per box. EU/1/96/022/026 - ZYPREXA - 10 mg - coated tablets - 35 tablets, per box. EU/1/96/022/032 - ZYPREXA - 10 mg - coated tablets - 70 tablets, per box. EU/1/96/022/038 - ZYPREXA - 10 mg - coated tablets - 98 tablets, per box. EU/1/96/022/012 - ZYPREXA - 15 mg - coated tablets - 28 tablets, per box. EU/1/96/022/021 - ZYPREXA - 15 mg - coated tablets - 56 tablets, per box. EU/1/96/022/027 - ZYPREXA - 15 mg - coated tablets - 35 tablets, per box. EU/1/96/022/033 - ZYPREXA - 15 mg - coated tablets - 70 tablets, per box. EU/1/96/022/039 - ZYPREXA - 15 mg - coated tablets - 98 tablets, per box. EU/1/96/022/014 - ZYPREXA - 20 mg - coated tablets - 28 tablets, per box. EU/1/96/022/022 - ZYPREXA - 20 mg - coated tablets - 56 tablets, per box. EU/1/96/022/028 - ZYPREXA - 20 mg - coated tablets - 35 tablets, per box. EU/1/96/022/034 - ZYPREXA - 20 mg - coated tablets - 70 tablets, per box. EU/1/96/022/040 - ZYPREXA - 20 mg - coated tablets - 98 tablets, per box.
+EU/1/96/022/036 - ZYPREXA - 5 mg - coated tablets - 98 tablets, per box. EU/1/96/022/011 - ZYPREXA - 7.5 mg - coated tablets - 28 tablets, per box. EU/1/96/022/006 - ZYPREXA - 7.5 mg - coated tablets - 56 tablets, per box. EU/1/96/022/025 - ZYPREXA - 7.5 mg - coated tablets - 35 tablets, per box. EU/1/96/022/031 - ZYPREXA - 7.5 mg - coated tablets - 70 tablets, per box. EU/1/96/022/037 - ZYPREXA - 7.5 mg - coated tablets - 98 tablets, per box. EU/1/96/022/009 - ZYPREXA - 10 mg - coated tablets - 28 tablets, per box. EU/1/96/022/010 - ZYPREXA - 10 mg - coated tablets - 56 tablets, per box. EU/1/96/022/026 - ZYPREXA - 10 mg - coated tablets - 35 tablets, per box. EU/1/96/022/032 - ZYPREXA - 10 mg - coated tablets - 70 tablets, per box. EU/1/96/022/038 - ZYPREXA - 10 mg - coated tablets - 98 tablets, per box. EU/1/96/022/012 - ZYPREXA - 15 mg - coated tablets - 28 tablets, per box. EU/1/96/022/021 - ZYPREXA - 15 mg - coated tablets - 56 tablets, per box. EU/1/96/022/027 - ZYPREXA - 15 mg - coated tablets - 35 tablets, per box. EU/1/96/022/033 - ZYPREXA - 15 mg - coated tablets - 70 tablets, per box. EU/1/96/022/039 - ZYPREXA - 15 mg - coated tablets - 98 tablets, per box. EU/1/96/022/014 - ZYPREXA - 20 mg - coated tablets - 28 tablets, per box. EU/1/96/022/022 - ZYPREXA - 20 mg - coated tablets - 56 tablets, per box. EU/1/96/022/028 - ZYPREXA - 20 mg - coated tablets - 35 tablets, per box. EU/1/96/022/034 - ZYPREXA - 20 mg - coated tablets - 70 tablets, per box. EU/1/96/022/040 - ZYPREXA - 20 mg - coated tablets - 98 tablets, per box.
 ```
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
@@ -893,17 +889,17 @@ No studies on the effects on the ability to drive and use machines have been per
 
 ## Summary of the safety profile
 
-A common ( ≥ 1/100 to &lt; 1/10) undesirable effect associated with the use of intramuscular olanzapine in clinical trials was somnolence.
+A common (≥ 1/100 to &lt; 1/10) undesirable effect associated with the use of intramuscular olanzapine in clinical trials was somnolence.
 
 In post marketing reports, temporal association of treatment with IM olanzapine with cases of respiratory depression, hypotension or bradycardia and death have been very rarely reported, mostly in patients who concomitantly received benzodiazepines, and/or other antipsychotic medicinal products or who were treated in excess of olanzapine recommended daily doses (see sections 4.4 and 4.5).
 
 The following table is based on the undesirable effects and laboratory investigations from clinical trials with ZYPREXA powder for solution for injection rather than oral olanzapine.
 
-| Cardiac disorders Common ( ≥ 1/100 to < 1/10): Bradycardia with or without hypotension or syncope, tachycardia. Uncommon ( ≥ 1/1,000 to < 1/100 ): Sinus pause.   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Vascular Disorders Common ( ≥ 1/100 to < 1/10 ): Postural hypotension, hypotension.                                                                               |
-| Respiratory disorders Uncommon ( ≥ 1/1,000 to < 1/100 ): Hypoventilation.                                                                                         |
-| General disorders and administration site conditions Common ( ≥ 1/100 to < 1/10 ): Injection site discomfort.                                                     |
+| Cardiac disorders Common ( ≥ 1/100 to < 1/10 ): Bradycardia with or without hypotension or syncope, tachycardia. Uncommon ( ≥ 1/1,000 to < 1/100 ): Sinus pause.   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Vascular Disorders Common ( ≥ 1/100 to < 1/10 ): Postural hypotension, hypotension.                                                                                |
+| Respiratory disorders Uncommon ( ≥ 1/1,000 to < 1/100 ): Hypoventilation.                                                                                          |
+| General disorders and administration site conditions Common ( ≥ 1/100 to < 1/10 ): Injection site discomfort.                                                      |
 
 The undesirable effects listed below have been observed following administration of oral and prolonged release intramuscular injection olanzapine, but may also occur following administration of ZYPREXA powder for solution for injection.
 
@@ -915,7 +911,7 @@ The most frequently (seen in ≥ 1% of patients) reported adverse reactions asso
 
 ## Tabulated list of adverse reactions
 
-The following table lists the adverse reactions  and laboratory investigations observed from spontaneous reporting and in clinical trials. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common (≥ 1/10 ), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), not known (cannot be estimated from the data available).
+The following table lists the adverse reactions  and laboratory investigations observed from spontaneous reporting and in clinical trials. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), not known (cannot be estimated from the data available).
 
 | Very common                              | Common                                                                                                                   | Uncommon                                                                                                                                                                                                                      | Rare                                                                              | Not known   |
 |------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-------------|
@@ -1084,7 +1080,7 @@ or clearance (21.2 versus 25.0 l/hr). A mass balance study showed that approxima
 
 ## Hepatic impairment
 
-A small study of the effect of impaired liver function in 6 subjects with clinically significant (Childs Pugh Classification A (n = 5) and B (n = 1)) cirrhosis revealed little effect on the pharmacokinetics of orally  administered  olanzapine  (2.5 - 7.5 mg  single  dose):  Subjects  with  mild  to  moderate  hepatic dysfunction  had  slightly  increased  systemic  clearance  and  faster  elimination  half-time  compared  to subjects with no hepatic dysfunction (n = 3). There were more smokers among subjects with cirrhosis (4/6; 67 %) than among subjects with no hepatic dysfunction (0/3; 0 %).
+A small study of the effect of impaired liver function in 6 subjects with clinically significant (ChildPugh Classification A (n = 5) and B (n = 1)) cirrhosis revealed little effect on the pharmacokinetics of orally  administered  olanzapine  (2.5 - 7.5 mg  single  dose):  Subjects  with  mild  to  moderate  hepatic dysfunction  had  slightly  increased  systemic  clearance  and  faster  elimination  half-time  compared  to subjects with no hepatic dysfunction (n = 3). There were more smokers among subjects with cirrhosis (4/6; 67 %) than among subjects with no hepatic dysfunction (0/3; 0 %).
 
 ## Smoking
 
@@ -1212,8 +1208,6 @@ Name and address of the manufacturer(s) responsible for batch release
 
 ## Coated Tablets
 
-Lilly S.A., Avda. de la Industria 30, 28108 Alcobendas, Madrid, Spain.
-
 Fidelio Healthcare Limburg GmbH, Mundipharmastraße 2, 65549 Limburg an der Lahn, Germany.
 
 CHEPLAPHARM Registration GmbH, Weiler Straße 5e, 79540 Lörrach, Germany.
@@ -1251,7 +1245,9 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX III LABELLING AND PACKAGE LEAFLET
+## ANNEX III
+
+## LABELLING AND PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1701,6 +1697,8 @@ EXP
 
 Store in the original package in order to protect from light and moisture
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -1742,8 +1740,6 @@ ZYPREXA 10 mg
 PC
 
 SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -2055,8 +2051,6 @@ Use solution within 1 hour.
 
 Do not store above 25º C. Store in original package in order to protect from light.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Discard syringe and unused solution appropriately.
@@ -2090,6 +2084,8 @@ Medicinal product subject to medical prescription.
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -2311,24 +2307,24 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## OTHER INGREDIENTS
 
-| ZYPREXA 2.5 mg, 5 mg, 7.5 mg and 10 mg tablets   | (tablet coating) shellac, macrogol, propylene glycol, polysorbate 80 and indigo carmine colour (E132), ethanol anhydrous, isopropyl alcohol, butyl alcohol, ammonium hydroxide   |
-|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ZYPREXA 15 mg tablets                            | (tablet coating) triacetin and indigo carmine colour (E132)                                                                                                                      |
-| ZYPREXA 20 mg tablets                            | (tablet coating) macrogol and synthetic red iron oxide (E172)                                                                                                                    |
+| ZYPREXA 2.5 mg, 5 mg, 7.5 mg and 10 mg tablets   | (tablet coating) macrogol, polysorbate 80                     |
+|--------------------------------------------------|---------------------------------------------------------------|
+| ZYPREXA 15 mg tablets                            | (tablet coating) triacetin and indigo carmine colour (E132)   |
+| ZYPREXA 20 mg tablets                            | (tablet coating) macrogol and synthetic red iron oxide (E172) |
 
 ## What ZYPREXA looks like and contents of the pack
 
-ZYPREXA 2.5 mg coated tablets are white imprinted with 'LILLY' and a numeric identicode '4112'.
+ZYPREXA 2.5 mg coated tablets are white imprinted with 'ZYP' and a numeric identicode '2.5'.
 
-ZYPREXA 5 mg coated tablets are white imprinted with 'LILLY' and a numeric identicode '4115'.
+ZYPREXA 5 mg coated tablets are white imprinted with 'ZYP' and a numeric identicode '5'.
 
-ZYPREXA 7.5 mg coated tablets are white imprinted with 'LILLY' and a numeric identicode '4116'.
+ZYPREXA 7.5 mg coated tablets are white imprinted with 'ZYP' and a numeric identicode '7.5'.
 
-ZYPREXA 10 mg coated tablets are white imprinted with 'LILLY' and a numeric identicode '4117'.
+ZYPREXA 10 mg coated tablets are white imprinted with 'ZYP' and a numeric identicode '10'.
 
-ZYPREXA 15 mg coated tablets are blue.
+ZYPREXA 15 mg coated tablets are blue debossed with 'ZYP' and a numeric identicode '15'.
 
-ZYPREXA 20 mg coated tablets are pink.
+ZYPREXA 20 mg coated tablets are pink debossed with 'ZYP' and a numeric identicode '20'.
 
 ZYPREXA is available in packs containing 28, 35, 56, 70 or 98 tablets. Not all pack sizes may be marketed.
 
@@ -2338,15 +2334,13 @@ CHEPLAPHARM Registration GmbH, Weiler Straße 5e, 79540 Lörrach, Germany.
 
 ## Manufacturer
 
-Lilly S.A., Avda. de la Industria 30, 28108 Alcobendas, Madrid, Spain.
-
 Fidelio Healthcare Limburg GmbH, Mundipharmastraße 2, 65549 Limburg an der Lahn, Germany.
-
-<div style=\"page-break-after: always\"></div>
 
 CHEPLAPHARM Registration GmbH, Weiler Straße 5e, 79540 Lörrach, Germany.
 
 ## This leaflet was last revised in {month XXXX}
+
+<div style=\"page-break-after: always\"></div>
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 

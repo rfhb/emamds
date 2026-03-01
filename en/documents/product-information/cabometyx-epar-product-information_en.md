@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-28 16:14:20
-document_pages: 67
+document_datetime: 2026-02-27 10:14:55
+document_pages: 68
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cabometyx-epar-product-information_en.pdf
 document_name: cabometyx-epar-product-information_en.pdf
 version: success
-processing_time: 25.7620676
-conversion_datetime: 2025-12-19 22:11:04.288584
+processing_time: 25.5118485
+conversion_datetime: 2026-03-01 20:24:54.788308
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -259,6 +259,10 @@ Wound complications have been observed with cabozantinib. Cabozantinib treatment
 
 Hypertension, including hypertensive crisis has been observed with cabozantinib. Blood pressure should be well-controlled prior to initiating cabozantinib. After cabozantinib initiation, blood pressure should be monitored early and regularly and treated as needed with appropriate antihypertensive therapy. In the case of persistent hypertension despite use of anti-hypertensives, the cabozantinib treatment should be interrupted until blood pressure is controlled, after which cabozantinib can be resumed at a reduced dose. Cabozantinib should be discontinued if hypertension is severe and persistent despite anti-hypertensive therapy and dose reduction of cabozantinib. In case of hypertensive crisis, cabozantinib should be discontinued.
 
+## Cardiac Failure
+
+Cabozantinib has been associated with an increased risk of cardiac failure. This risk may be exacerbated by common adverse drug reactions of cabozantinib (e.g. hypertension, hypothyroidism and arterial thrombotic events), which can lead to cardiac failure. Patients should be monitored for signs and symptoms of cardiac failure throughout treatment. These adverse events should be managed promptly, dose interruptions and/or adjustments should be considered if necessary (see section 4.2) and TKI therapy should be discontinued in patients who develop severe cardiac failure.
+
 ## Osteonecrosis
 
 Events of osteonecrosis of the jaw (ONJ) have been observed with cabozantinib. An oral examination should be performed prior to initiation of cabozantinib and periodically during cabozantinib therapy. Patients should be advised regarding oral hygiene practice. Cabozantinib treatment should be held at least 28 days prior to scheduled dental surgery or invasive dental procedures, if possible. Caution should be used in patients receiving agents associated with ONJ, such as bisphosphonates. Cabozantinib should be discontinued in patients who experience ONJ.
@@ -277,15 +281,15 @@ Posterior reversible encephalopathy syndrome (PRES) has been observed with caboz
 
 ## Prolongation of QT interval
 
-Cabozantinib should be used with caution in patients with a history of QT interval prolongation, patients who are taking antiarrhythmics, or patients with relevant pre-existing cardiac disease, bradycardia, or electrolyte disturbances. When using cabozantinib, periodic monitoring with on-treatment ECGs and electrolytes (serum calcium, potassium, and magnesium) should be considered.
-
-## Thyroid dysfunction
-
-Baseline laboratory measurement of thyroid function is recommended in all patients. Patients with pre-existing hypothyroidism or hyperthyroidism should be treated as per standard medical practice prior to the start of cabozantinib treatment. All patients should be observed closely for signs and symptoms of thyroid dysfunction during cabozantinib treatment. Thyroid function should be
+Cabozantinib should be used with caution in patients with a history of QT interval prolongation, patients who are taking antiarrhythmics, or patients with relevant pre-existing cardiac disease, bradycardia, or electrolyte disturbances. When using cabozantinib, periodic monitoring with
 
 <div style=\"page-break-after: always\"></div>
 
-monitored periodically throughout treatment with cabozantinib. Patients who develop thyroid dysfunction should be treated as per standard medical practice.
+on-treatment ECGs and electrolytes (serum calcium, potassium, and magnesium) should be considered.
+
+## Thyroid dysfunction
+
+Baseline laboratory measurement of thyroid function is recommended in all patients. Patients with pre-existing hypothyroidism or hyperthyroidism should be treated as per standard medical practice prior to the start of cabozantinib treatment. All patients should be observed closely for signs and symptoms of thyroid dysfunction during cabozantinib treatment. Thyroid function should be monitored periodically throughout treatment with cabozantinib. Patients who develop thyroid dysfunction should be treated as per standard medical practice.
 
 ## Biochemical laboratory test abnormalities
 
@@ -297,7 +301,7 @@ Cabozantinib is a CYP3A4 substrate. Concurrent administration of cabozantinib wi
 
 ## P-glycoprotein substrates
 
-Cabozantinib was an inhibitor (IC50 = 7.0 μM), but not a substrate, of P -glycoprotein (P-gp) transport activities in a bi-directional assay system using MDCK-MDR1 cells. Therefore, cabozantinib may have the potential to increase plasma concentrations of co-administered substrates of P-gp. Subjects should be cautioned regarding taking a P-gp substrate (e.g., fexofenadine, aliskiren, ambrisentan, dabigatran etexilate, digoxin, colchicine, maraviroc, posaconazole, ranolazine, saxagliptin, sitagliptin, talinolol, tolvaptan) while receiving cabozantinib (see section 4.5).
+Cabozantinib was an inhibitor (IC50 = 7.0 μM), but not a substrate, of P-glycoprotein (P-gp) transport activities in a bi-directional assay system using MDCK-MDR1 cells. Therefore, cabozantinib may have the potential to increase plasma concentrations of co-administered substrates of P-gp. Subjects should be cautioned regarding taking a P-gp substrate (e.g., fexofenadine, aliskiren, ambrisentan, dabigatran etexilate, digoxin, colchicine, maraviroc, posaconazole, ranolazine, saxagliptin, sitagliptin, talinolol, tolvaptan) while receiving cabozantinib (see section 4.5).
 
 ## MRP2 inhibitors
 
@@ -313,6 +317,8 @@ Patients with rare hereditary problems of galactose intolerance, total lactase d
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 ## Effect of other medicinal products on cabozantinib
@@ -320,8 +326,6 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that
 ## CYP3A4 inhibitors and inducers
 
 Administration of the strong CYP3A4 inhibitor ketoconazole (400 mg daily for 27 days) to healthy volunteers decreased cabozantinib clearance (by 29%) and increased single-dose plasma cabozantinib exposure (AUC) by 38%. Therefore, co-administration of strong CYP3A4 inhibitors (e.g., ritonavir, itraconazole, erythromycin, clarithromycin, grapefruit juice) with cabozantinib should be approached with caution.
-
-<div style=\"page-break-after: always\"></div>
 
 Administration of the strong CYP3A4 inducer rifampicin (600 mg daily for 31 days) to healthy volunteers increased cabozantinib clearance (4.3-fold) and decreased single-dose plasma cabozantinib exposure (AUC) by 77%. Chronic co-administration of strong CYP3A4 inducers (e.g., phenytoin, carbamazepine, rifampicin, phenobarbital or herbal preparations containing St. John's Wort [Hypericum perforatum] ) with cabozantinib should therefore be avoided.
 
@@ -351,13 +355,15 @@ Cabozantinib was an inhibitor (IC50 = 7.0 μM), but not a substrate, of Pgp tran
 
 ## Women of childbearing potential/Contraception in males and females
 
-Women of childbearing potential must be advised to avoid pregnancy while on cabozantinib. Female partners of male patients taking cabozantinib must also avoid pregnancy. Effective methods of contraception should be used by male and female patients and their partners during therapy, and for at least 4 months after completing therapy. Because oral contraceptives might possibly not be considered as 'effective methods of contraception', they should be used together with another method, such as a barrier method (see section 4.5).
+Women of childbearing potential must be advised to avoid pregnancy while on cabozantinib. Female partners of male patients taking cabozantinib must also avoid pregnancy. Effective methods of contraception should be used by male and female patients and their partners during therapy, and for at least 4 months after completing therapy. Because oral contraceptives might possibly not be considered
+
+<div style=\"page-break-after: always\"></div>
+
+as 'effective methods of contraception', they should be used together with another method, such as a barrier method (see section 4.5).
 
 ## Pregnancy
 
 There are no studies in pregnant women using cabozantinib. Studies in animals have shown embryo-foetal and teratogenic effects (see section 5.3). The potential risk for humans is unknown. Cabozantinib should not be used during pregnancy unless the clinical condition of the woman requires treatment with cabozantinib.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Breast-feeding
 
@@ -389,86 +395,70 @@ The most frequent adverse reactions of any grade (experienced by at least 25% of
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions reported in the pooled dataset for patients treated with cabozantinib monotherapy in RCC, HCC, DTC and NET (n=1355) or reported after post-marketing use of cabozantinib are listed in Table 2. The adverse reactions are listed by MedDRA system organ class and frequency categories. Frequencies are based on all grades and defined as: very common (≥1/10), common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-
-Table 2: Adverse drug reactions (ADRs) reported in clinical trials or after post-marketing use in patients treated with cabozantinib in monotherapy
-
-| Infections and infestations   | Infections and infestations   |
-|-------------------------------|-------------------------------|
-| Common                        | abscess, pneumonia            |
-| Blood and lymphatic disorders | Blood and lymphatic disorders |
-| Very common                   | anaemia, thrombocytopenia     |
+Adverse reactions reported in the pooled dataset for patients treated with cabozantinib monotherapy in RCC, HCC, DTC and NET (n=1355) or reported after post-marketing use of cabozantinib are listed in Table 2. The adverse reactions are listed by MedDRA system organ class and frequency categories. Frequencies are based on all grades and defined as: very common (≥1/10), common (≥1/ 100 to
 
 <div style=\"page-break-after: always\"></div>
 
-| Common                                               | neutropenia, lymphopenia                                                                                                                                                     |
-|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Endocrine disorders                                  | Endocrine disorders                                                                                                                                                          |
-| Very common                                          | hypothyroidism *                                                                                                                                                             |
-| Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                                                                                                                                           |
-| Very common                                          | decreased appetite, hypomagnesaemia, hypokalaemia, hypoalbuminaemia, hypocalcaemia                                                                                           |
-| Common                                               | dehydration, hypophosphataemia, hyponatraemia, hyperkalaemia, hyperbilirubinemia, hyperglycaemia, hypoglycaemia                                                              |
-| Nervous system disorders                             | Nervous system disorders                                                                                                                                                     |
-| Very common                                          | dysgeusia, headache, dizziness                                                                                                                                               |
-| Common                                               | peripheral neuropathy a                                                                                                                                                      |
-| Uncommon                                             | convulsion, cerebrovascular accident, posterior reversible encephalopathy syndrome                                                                                           |
-| Ear and labyrinth disorders                          | Ear and labyrinth disorders                                                                                                                                                  |
-| Common                                               | tinnitus                                                                                                                                                                     |
-| Cardiac disorders                                    | Cardiac disorders                                                                                                                                                            |
-| Uncommon                                             | acute myocardial infarction                                                                                                                                                  |
-| Vascular disorders                                   | Vascular disorders                                                                                                                                                           |
-| Very common                                          | hypertension, haemorrhage b*                                                                                                                                                 |
-| Common                                               | venous thrombosis c , hypotension, embolism                                                                                                                                  |
-| Uncommon                                             | hypertensive crisis, arterial thrombosis, embolism arterial                                                                                                                  |
-| Not known                                            | aneurysms and artery dissections                                                                                                                                             |
-| Respiratory, thoracic, and mediastinal disorders     | Respiratory, thoracic, and mediastinal disorders                                                                                                                             |
-| Very common                                          | dysphonia, dyspnoea, cough                                                                                                                                                   |
-| Common                                               | pulmonary embolism, rhinitis allergic                                                                                                                                        |
-| Uncommon                                             | pneumothorax                                                                                                                                                                 |
-| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                                                                   |
-| Very common                                          | diarrhoea * , nausea, vomiting, stomatitis, constipation, abdominal pain, dyspepsia                                                                                          |
-| Common                                               | gastrointestinal perforation *g , pancreatitis, fistula * , gastroesophageal reflux disease, haemorrhoids, oral pain, dry mouth, dysphagia, flatulence                       |
-| Uncommon                                             | glossodynia                                                                                                                                                                  |
-| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                                                                      |
-| Common                                               | hepatic encephalopathy *                                                                                                                                                     |
-| Uncommon                                             | hepatitis cholestatic                                                                                                                                                        |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                                                       |
-| Very common                                          | palmar-plantar erythrodysaesthesia syndrome, rash f                                                                                                                          |
-| Common                                               | pruritus, alopecia, dry skin, hair colour change, hyperkeratosis, erythema                                                                                                   |
-| Not known                                            | cutaneous vasculitis                                                                                                                                                         |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                                              |
-| Very common                                          | pain in extremity, arthralgia                                                                                                                                                |
-| Common                                               | muscle spasms                                                                                                                                                                |
-| Uncommon                                             | osteonecrosis of the jaw                                                                                                                                                     |
-| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                                                  |
+&lt;1/10); uncommon (≥1/1,000 to &lt;1/100); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
+Table 2: Adverse drug reactions (ADRs) reported in clinical trials or after post-marketing use in patients treated with cabozantinib in monotherapy
+
+| Infections and infestations                      | Infections and infestations                                                                                                                            |
+|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Common                                           | abscess, pneumonia                                                                                                                                     |
+| Blood and lymphatic disorders                    | Blood and lymphatic disorders                                                                                                                          |
+| Very common                                      | anaemia, thrombocytopenia                                                                                                                              |
+| Common                                           | neutropenia, lymphopenia                                                                                                                               |
+| Endocrine disorders                              | Endocrine disorders                                                                                                                                    |
+| Very common                                      | hypothyroidism *                                                                                                                                       |
+| Metabolism and nutrition disorders               | Metabolism and nutrition disorders                                                                                                                     |
+| Very common                                      | decreased appetite, hypomagnesaemia, hypokalaemia, hypoalbuminaemia, hypocalcaemia                                                                     |
+| Common                                           | dehydration, hypophosphataemia, hyponatraemia, hyperkalaemia, hyperbilirubinemia, hyperglycaemia, hypoglycaemia                                        |
+| Nervous system disorders                         | Nervous system disorders                                                                                                                               |
+| Very common                                      | dysgeusia, headache, dizziness                                                                                                                         |
+| Common                                           | peripheral neuropathy a                                                                                                                                |
+| Uncommon                                         | convulsion, cerebrovascular accident, posterior reversible encephalopathy syndrome                                                                     |
+| Ear and labyrinth disorders                      | Ear and labyrinth disorders                                                                                                                            |
+| Common                                           | tinnitus                                                                                                                                               |
+| Cardiac disorders                                | Cardiac disorders                                                                                                                                      |
+| Uncommon                                         | acute myocardial infarction, cardiac failure                                                                                                           |
+| Vascular disorders                               | Vascular disorders                                                                                                                                     |
+| Very common                                      | hypertension, haemorrhage b*                                                                                                                           |
+| Common                                           | venous thrombosis c , hypotension, embolism                                                                                                            |
+| Uncommon                                         | hypertensive crisis, arterial thrombosis, embolism arterial                                                                                            |
+| Not known                                        | aneurysms and artery dissections                                                                                                                       |
+| Respiratory, thoracic, and mediastinal disorders | Respiratory, thoracic, and mediastinal disorders                                                                                                       |
+| Very common                                      | dysphonia, dyspnoea, cough                                                                                                                             |
+| Common                                           | pulmonary embolism, rhinitis allergic                                                                                                                  |
+| Uncommon                                         | pneumothorax                                                                                                                                           |
+| Gastrointestinal disorders                       | Gastrointestinal disorders                                                                                                                             |
+| Very common                                      | diarrhoea * , nausea, vomiting, stomatitis, constipation, abdominal pain, dyspepsia                                                                    |
+| Common                                           | gastrointestinal perforation *g , pancreatitis, fistula * , gastroesophageal reflux disease, haemorrhoids, oral pain, dry mouth, dysphagia, flatulence |
+| Uncommon                                         | glossodynia                                                                                                                                            |
+| Hepatobiliary disorders                          | Hepatobiliary disorders                                                                                                                                |
+| Common                                           | hepatic encephalopathy *                                                                                                                               |
+| Uncommon                                         | hepatitis cholestatic                                                                                                                                  |
+| Skin and subcutaneous tissue disorders           | Skin and subcutaneous tissue disorders                                                                                                                 |
+| Very common                                      | palmar-plantar erythrodysaesthesia syndrome, rash f                                                                                                    |
+| Common                                           | pruritus, alopecia, dry skin, hair colour change, hyperkeratosis, erythema                                                                             |
+| Not known                                        | cutaneous vasculitis                                                                                                                                   |
+| Musculoskeletal and connective tissue disorders  | Musculoskeletal and connective tissue disorders                                                                                                        |
+| Very common                                      | pain in extremity, arthralgia                                                                                                                          |
+| Common                                           | muscle spasms                                                                                                                                          |
+| Uncommon                                         | osteonecrosis of the jaw                                                                                                                               |
+| Renal and urinary disorders                      | Renal and urinary disorders                                                                                                                            |
+
+<div style=\"page-break-after: always\"></div>
+
 | Common                                               | proteinuria                                                                                                                                                                  |
+|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | General disorders and administration site conditions | General disorders and administration site conditions                                                                                                                         |
 | Very common                                          | fatigue, mucosal inflammation, asthenia, peripheral oedema                                                                                                                   |
 | Investigations d                                     | Investigations d                                                                                                                                                             |
 | Very Common                                          | weight decreased, serum ALT increased, AST increased, blood alkaline phosphatase increased                                                                                   |
 | Common                                               | GGT increased, blood creatinine increased, amylase increased, lipase increased, blood cholesterol increased, blood triglycerides increased, white blood cell count decreased |
-
-<div style=\"page-break-after: always\"></div>
-
-| Injury, poisoning and procedural complications   | Injury, poisoning and procedural complications   |
-|--------------------------------------------------|--------------------------------------------------|
-| Uncommon                                         | wound complications e                            |
-
-* See section 4.8 Description of selected adverse reactions for further characterisation.
-
-a including polyneuropathy; peripheral neuropathy is mainly sensory
-
-b Including epistaxis as the most commonly reported adverse reaction
-
-c All venous thrombosis including deep vein thrombosis
-
-d Based on reported adverse reactions
-
-e Impaired healing, incision site complication and wound dehiscence
-
-f Rash is a composite term which includes dermatitis, dermatitis acneiform, dermatitis bullous, exfoliative rash, rash erythematous, rash follicular, rash macular, rash maculo-papular, rash papular, rash pruritic and drug eruption.
-
-g Fatal cases have been reported
+| Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                                                                                                                               |
+| Uncommon                                             | wound complications e                                                                                                                                                        |
 
 ## Cabozantinib in combination with nivolumab in first-line advanced RCC
 
@@ -495,67 +485,67 @@ Table 3:  Adverse reactions with cabozantinib in combination with nivolumab
 | Immune system disorders              | Immune system disorders                            |
 | Common                               | hypersensitivity (including anaphylactic reaction) |
 | Uncommon                             | infusion related hypersensitivity reaction         |
-| Endocrine disorders                  | Endocrine disorders                                |
-| Very common                          | hypothyroidism, hyperthyroidism                    |
-| Common                               | adrenal insufficiency                              |
-| Uncommon                             | hypophysitis, thyroiditis                          |
-| Metabolism and nutrition disorders   | Metabolism and nutrition disorders                 |
-| Very common                          | decreased appetite                                 |
-| Common                               | dehydration                                        |
-| Nervous system disorders             | Nervous system disorders                           |
 
 <div style=\"page-break-after: always\"></div>
 
-| Very common                                          | dysgeusia, dizziness, headache                                                   |
-|------------------------------------------------------|----------------------------------------------------------------------------------|
-| Common                                               | peripheral neuropathy                                                            |
-| Uncommon                                             | encephalitis autoimmune, Guillain-Barré syndrome, myasthenic syndrome            |
-| Ear and labyrinth disorders                          | Ear and labyrinth disorders                                                      |
-| Common                                               | tinnitus                                                                         |
-| Eye disorders                                        | Eye disorders                                                                    |
-| Common                                               | dry eye, blurred vision                                                          |
-| Uncommon                                             | uveitis                                                                          |
-| Cardiac disorders                                    | Cardiac disorders                                                                |
-| Common                                               | atrial fibrillation, tachycardia                                                 |
-| Uncommon                                             | myocarditis                                                                      |
-| Vascular disorders                                   | Vascular disorders                                                               |
-| Very common                                          | hypertension                                                                     |
-| Common                                               | thrombosis a                                                                     |
-| Uncommon                                             | embolism arterial                                                                |
-| Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders                                  |
-| Very common                                          | dysphonia, dyspnoea, cough                                                       |
-| Common                                               | pneumonitis, pulmonary embolism, epistaxis, pleural effusion                     |
-| Uncommon                                             | pneumothorax                                                                     |
-| Gastrointestinal disorders                           | Gastrointestinal disorders                                                       |
-| Very common                                          | diarrhoea, vomiting, nausea, constipation, stomatitis, abdominal pain, dyspepsia |
-| Common                                               | colitis, gastritis, oral pain, dry mouth, haemorrhoids                           |
-| Uncommon                                             | pancreatitis, small intestine perforation b , glossodynia                        |
-| Hepatobiliary disorders                              | Hepatobiliary disorders                                                          |
-| Common                                               | hepatitis                                                                        |
-| Not known                                            | vanishing bile duct syndrome c                                                   |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                           |
-| Very common                                          | palmar-plantar erythrodysaesthesia syndrome, rash d , pruritus                   |
-| Common                                               | alopecia, dry skin, erythema, hair colour change                                 |
-| Uncommon                                             | psoriasis, urticaria                                                             |
-| Not known                                            | cutaneous vasculitis                                                             |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                  |
-| Very common                                          | musculoskeletal pain e , arthralgia, muscle spasm,                               |
-| Common                                               | arthritis                                                                        |
-| Uncommon                                             | myopathy, osteonecrosis of the jaw, fistula                                      |
-| Renal and urinary disorders                          | Renal and urinary disorders                                                      |
-| Very common                                          | proteinuria                                                                      |
-| Common                                               | renal failure, acute kidney injury                                               |
-| Uncommon                                             | nephritis                                                                        |
-| General disorders and administration site conditions | General disorders and administration site conditions                             |
-| Very common                                          | fatigue, pyrexia, oedema                                                         |
-| Common                                               | pain, chest pain                                                                 |
-| Investigations f                                     | Investigations f                                                                 |
+| Endocrine disorders                             | Endocrine disorders                                                              |
+|-------------------------------------------------|----------------------------------------------------------------------------------|
+| Very common                                     | hypothyroidism, hyperthyroidism                                                  |
+| Common                                          | adrenal insufficiency                                                            |
+| Uncommon                                        | hypophysitis, thyroiditis                                                        |
+| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                               |
+| Very common                                     | decreased appetite                                                               |
+| Common                                          | dehydration                                                                      |
+| Nervous system disorders                        | Nervous system disorders                                                         |
+| Very common                                     | dysgeusia, dizziness, headache                                                   |
+| Common                                          | peripheral neuropathy                                                            |
+| Uncommon                                        | encephalitis autoimmune, Guillain-Barré syndrome, myasthenic syndrome            |
+| Ear and labyrinth disorders                     | Ear and labyrinth disorders                                                      |
+| Common                                          | tinnitus                                                                         |
+| Eye disorders                                   | Eye disorders                                                                    |
+| Common                                          | dry eye, blurred vision                                                          |
+| Uncommon                                        | uveitis                                                                          |
+| Cardiac disorders                               | Cardiac disorders                                                                |
+| Common                                          | atrial fibrillation, tachycardia                                                 |
+| Uncommon                                        | myocarditis                                                                      |
+| Vascular disorders                              | Vascular disorders                                                               |
+| Very common                                     | hypertension                                                                     |
+| Common                                          | thrombosis a                                                                     |
+| Uncommon                                        | embolism arterial                                                                |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                  |
+| Very common                                     | dysphonia, dyspnoea, cough                                                       |
+| Common                                          | pneumonitis, pulmonary embolism, epistaxis, pleural effusion                     |
+| Uncommon                                        | pneumothorax                                                                     |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                                                       |
+| Very common                                     | diarrhoea, vomiting, nausea, constipation, stomatitis, abdominal pain, dyspepsia |
+| Common                                          | colitis, gastritis, oral pain, dry mouth, haemorrhoids                           |
+| Uncommon                                        | pancreatitis, small intestine perforation b , glossodynia                        |
+| Hepatobiliary disorders                         | Hepatobiliary disorders                                                          |
+| Common                                          | hepatitis                                                                        |
+| Not known                                       | vanishing bile duct syndrome c                                                   |
+| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                           |
+| Very common                                     | palmar-plantar erythrodysaesthesia syndrome, rash d , pruritus                   |
+| Common                                          | alopecia, dry skin, erythema, hair colour change                                 |
+| Uncommon                                        | psoriasis, urticaria                                                             |
+| Not known                                       | cutaneous vasculitis                                                             |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                  |
+| Very common                                     | musculoskeletal pain e , arthralgia, muscle spasm,                               |
+| Common                                          | arthritis                                                                        |
+| Uncommon                                        | myopathy, osteonecrosis of the jaw, fistula                                      |
+| Renal and urinary disorders                     | Renal and urinary disorders                                                      |
+| Very common                                     | proteinuria                                                                      |
+| Common                                          | renal failure, acute kidney injury                                               |
+| Uncommon                                        | nephritis                                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
-| Very common   | increased ALT, increased AST, hypophosphataemia, hypocalcaemia, hypomagnesaemia, hyponatraemia, hyperglycaemia, lymphopenia, increased alkaline phosphatase, increased lipase, increased amylase, thrombocytopenia, increased creatinine, anaemia, leucopenia, hyperkalaemia, neutropenia, hypercalcaemia, hypoglycaemia, hypokalaemia, increased total bilirubin, hypermagnesaemia, hypernatraemia, weight decreased   |
-|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Common        | blood cholesterol increased, hypertriglyceridaemia                                                                                                                                                                                                                                                                                                                                                                      |
+| General disorders and administration site conditions   | General disorders and administration site conditions                                                                                                                                                                                                                                                                                                                                                                  |
+|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Very common                                            | fatigue, pyrexia, oedema                                                                                                                                                                                                                                                                                                                                                                                              |
+| Common                                                 | pain, chest pain                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Investigations f                                       | Investigations f                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Very common                                            | increased ALT, increased AST, hypophosphataemia, hypocalcaemia, hypomagnesaemia, hyponatraemia, hyperglycaemia, lymphopenia, increased alkaline phosphatase, increased lipase, increased amylase, thrombocytopenia, increased creatinine, anaemia, leucopenia, hyperkalaemia, neutropenia, hypercalcaemia, hypoglycaemia, hypokalaemia, increased total bilirubin, hypermagnesaemia, hypernatraemia, weight decreased |
+| Common                                                 | blood cholesterol increased, hypertriglyceridaemia                                                                                                                                                                                                                                                                                                                                                                    |
 
 Adverse reaction frequencies presented in Table 3 may not be fully attributable to cabozantinib alone but may contain contributions from the underlying disease or from nivolumab used in a combination.
 
@@ -586,11 +576,11 @@ In combination with nivolumab in advanced RCC in first-line treatment (CA2099ER)
 
 Fatal perforations have occurred in the cabozantinib clinical program.
 
-## Hepatic encephalopathy (see section 4.4)
-
-In the HCC study (CELESTIAL), hepatic encephalopathy (hepatic encephalopathy, encephalopathy, hyperammonaemic encephalopathy) was reported in 5.6% of cabozantinib-treated patients (26/467); Grade 3-4 events in 2.8%, and one (0.2%) Grade 5 event. Median time to onset was 5.9 weeks. In the NET study (CABINET), hepatic encephalopathy was reported in 0.9% of cabozantinib-treated patients (2/227); There was one Grade 3 event (0.4%) for which median time to onset was 14.3 weeks.
+Hepatic encephalopathy (see section 4.4)
 
 <div style=\"page-break-after: always\"></div>
+
+In the HCC study (CELESTIAL), hepatic encephalopathy (hepatic encephalopathy, encephalopathy, hyperammonaemic encephalopathy) was reported in 5.6% of cabozantinib-treated patients (26/467); Grade 3-4 events in 2.8%, and one (0.2%) Grade 5 event. Median time to onset was 5.9 weeks. In the NET study (CABINET), hepatic encephalopathy was reported in 0.9% of cabozantinib-treated patients (2/227); There was one Grade 3 event (0.4%) for which median time to onset was 14.3 weeks.
 
 No cases of hepatic encephalopathy were reported in the RCC studies (METEOR, CABOSUN and CA2099ER) and in the DTC study (COSMIC-311).
 
@@ -602,9 +592,11 @@ In the treatment-naïve RCC study (CABOSUN), diarrhoea was reported in 73% of ca
 
 In the HCC study (CELESTIAL), diarrhoea was reported in 54% of cabozantinib-treated patients (251/467); Grade 3-4 events in 9.9%. Median time to onset of all events was 4.1 weeks. Diarrhoea led to dose modifications, interruptions and discontinuations in 84/467 (18%), 69/467 (15%) and 5/467 (1%) of subjects, respectively.
 
-In the DTC study (COSMIC-311), diarrhoea was reported in 62% of cabozantinib treated patients (105/170); Grade 3-4 events in 7.6%. Diarrhoea led to dose reduction and interruption in 24/170 (14%) and 36/170 (21%) of subjects respectively. In the NET study (CABINET), diarrhoea was reported in 63% of cabozantinib treated patients (144/227); Grade 3 events in 8.4%, no Grade 4 events. Median time to onset of Grade 3 events was 5.1 weeks. of diarrhoea was reported in 64.7% (207/320) of treated patients; Grade 3-4 events in 8.4% (27/320).
+In the DTC study (COSMIC-311), diarrhoea was reported in 62% of cabozantinib treated patients (105/170); Grade 3-4 events in 7.6%. Diarrhoea led to dose reduction and interruption in 24/170 (14%) and 36/170 (21%) of subjects respectively.
 
-In combination with nivolumab in advanced RCC in first-line treatment (CA2099ER), the incidence Median time to onset of all events was 12.9 weeks. Dose delay or reduction occurred in 26.3% (84/320) and discontinuation in 2.2% (7/320) of patients with diarrhoea, respectively.
+In the NET study (CABINET), diarrhoea was reported in 63% of cabozantinib treated patients (144/227); Grade 3 events in 8.4%, no Grade 4 events. Median time to onset of Grade 3 events was 5.1 weeks.
+
+In combination with nivolumab in advanced RCC in first-line treatment (CA2099ER), the incidence of diarrhoea was reported in 64.7% (207/320) of treated patients; Grade 3-4 events in 8.4% (27/320). Median time to onset of all events was 12.9 weeks. Dose delay or reduction occurred in 26.3% (84/320) and discontinuation in 2.2% (7/320) of patients with diarrhoea, respectively.
 
 ## Fistulas (see section 4.4)
 
@@ -620,17 +612,13 @@ In the NET study (CABINET), fistulas (two anal and one biliary fistula) were rep
 
 In combination with nivolumab in advanced RCC in first-line treatment (CA2099ER) the incidence of fistula was reported in 0.9% (3/320) of treated patients and the severity was Grade 1. Fatal fistulas have occurred in the cabozantinib clinical program.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Haemorrhage (see section 4.4)
 
-In the RCC study (METEOR), the incidence of severe haemorrhagic events (Grade ≥ 3) was 2.1% (7/331) in cabozantinib-treated RCC patients. Median time to onset was 20.9 weeks. In the treatment-naïve RCC study (CABOSUN), the incidence of severe haemorrhagic events (Grade ≥ 3) was 5.1% (4/78) in cabozantinib -treated RCC patients. In the HCC study (CELESTIAL), the incidence of severe haemorrhagic events (Grade ≥ 3) was 7.3% in cabozantinib-treated patients (34/467). Median time to onset was 9.1 weeks. In the DTC study (COSMIC311), the incidence of severe haemorrhagic events (grade ≥ 3) was 2.4% in cabozantinib-treated patients (4/170). Median time to onset was 11.5 weeks.
-
-In the NET study (CABINET), the incidence of severe haemorrhagic events (grade ≥ 3) was 1.8% in cabozantinib-treated patients (4/227). Median time to onset was 14.1 weeks.
-
-In combination with nivolumab in advanced RCC in first-line treatment (CA2099ER) the incidence of ≥ Grade 3 haemorrhage was in 1.9% (6/320) of treated patients.
+In the RCC study (METEOR), the incidence of severe haemorrhagic events (Grade ≥ 3) was 2.1% (7/331) in cabozantinib-treated RCC patients. Median time to onset was 20.9 weeks. In the treatment-naïve RCC study (CABOSUN), the incidence of severe haemorrhagic events (Grade ≥ 3) was 5.1% (4/78) in cabozantinib-treated RCC patients. In the HCC study (CELESTIAL), the incidence of severe haemorrhagic events (Grade ≥ 3) was 7.3% in cabozantinib-treated patients (34/467). Median time to onset was 9.1 weeks. In the DTC study (COSMIC311), the incidence of severe haemorrhagic events (grade ≥ 3) was 2.4% in cabozantinib-treated patients (4/170). Median time to onset was 11.5 weeks. In the NET study (CABINET), the incidence of severe haemorrhagic events (grade ≥ 3) was 1.8% in cabozantinib-treated patients (4/227). Median time to onset was 14.1 weeks. In combination with nivolumab in advanced RCC in first-line treatment (CA2099ER) the incidence of ≥ Grade 3 haemorrhage was in 1.9% (6/320) of treated patients.
 
 Fatal haemorrhages have occurred in the cabozantinib clinical program.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Posterior reversible encephalopathy syndrome (PRES) (see section 4.4)
 
@@ -640,7 +628,7 @@ No case of PRES was reported in the METEOR, CABOSUN, CA2099ER or CELESTIAL studi
 
 In a clinical study of previously untreated patients with RCC receiving cabozantinib in combination with nivolumab, a higher incidence of Grades 3 and 4 ALT increased (10.1%) and AST increased (8.2%) were observed relative to cabozantinib monotherapy in patients with advanced RCC (ALT increased of 3.6% and AST increased of 3.3% in METEOR study). The median time to onset of grade &gt; 2 increased ALT or AST was 10.1 weeks (range: 2 to 106.6 weeks; n=85 ). In patients with grade ≥ 2 increased ALT or AST, the elevations resolved to Grades 0-1in 91% with median time to resolution of 2.3 weeks (range: 0.4 to 108.1 weeks).
 
-Among the 45 patients with Grade ≥2 increased ALT or AST who were rechallenged with either cabozantinib (n=10) or nivolumab (n=10) administered as a single agent or with both (n=25), recurrence of Grade ≥2 increased ALT or AST was observed in 4 patients receiving cabozantinib, in 3 patients receiving nivolumab and 8 patients receiving both cabozantinib and nivolumab.
+Among the 45 patients with Grade ≥2 increased ALT or AST who wer e rechallenged with either cabozantinib (n=10) or nivolumab (n=10) administered as a single agent or with both (n=25), recurrence of Grade ≥2 increased ALT or AST was observed in 4 patients receiving cabozantinib, in 3 patients receiving nivolumab and 8 patients receiving both cabozantinib and nivolumab.
 
 ## Hypothyroidism
 
@@ -658,13 +646,15 @@ In combination with nivolumab in advanced RCC in first-line treatment (CA2099ER)
 
 ## Paediatric population (see section 5.1)
 
-In study ADVL1211, a limited dose-escalation study of cabozantinib in paediatric and adolescent patients with recurrent or refractory solid tumours including CNS tumours, the following events: aspartate aminotransferase (AST) increased (very common, 76.9%), alanine aminotransferase (ALT) increased (very common, 71.8%), lymphocyte count decreased (very common, 48.7%), neutrophil count decreased (very common, 35.9%), and lipase increased (very common, 33.3%) were observed at a higher frequency in all subjects across all dose groups included in the safety population (N=39), compared to adults. The increased rates for these Preferred Terms (PTs) concern any grade as well as grade 3/4 of these ADRs. The adverse events reported are in line qualitatively with the recognised safety profile for cabozantinib in adult populations. However, the small numbers of subjects preclude a conclusive assessment of trends and frequencies and further comparison with the recognised safety profile of cabozantinib.
+In study ADVL1211, a limited dose-escalation study of cabozantinib in paediatric and adolescent patients with recurrent or refractory solid tumours including CNS tumours, the following events: aspartate aminotransferase (AST) increased (very common, 76.9%), alanine aminotransferase (ALT) increased (very common, 71.8%), lymphocyte count decreased (very common, 48.7%), neutrophil count decreased (very common, 35.9%), and lipase increased (very common, 33.3%) were observed at a higher frequency in all subjects across all dose groups included in the safety population (N=39),
+
+<div style=\"page-break-after: always\"></div>
+
+compared to adults. The increased rates for these Preferred Terms (PTs) concern any grade as well as grade 3/4 of these ADRs. The adverse events reported are in line qualitatively with the recognised safety profile for cabozantinib in adult populations. However, the small numbers of subjects preclude a conclusive assessment of trends and frequencies and further comparison with the recognised safety profile of cabozantinib.
 
 In study ADVL1622 of cabozantinib in children and young adults with the following solid tumour strata: Ewing sarcoma, rhabdomyosarcoma, non-rhabdomyosarcoma soft tissue sarcomas (NRSTS), osteosarcoma, Wilms tumour and other rare solid tumours (nonstatistical cohort), the safety profile of cabozantinib treated children and young adults in all strata was comparable with that observed in adults treated with cabozantinib.
 
 Physeal widening has been observed in children with open growth plates when treated with cabozantinib.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
@@ -692,7 +682,11 @@ Cabozantinib exhibited dose-related tumour growth inhibition, tumour regression,
 
 ## Cardiac electrophysiology
 
-An increase from baseline in corrected QT interval by Fridericia (QTcF) of 10 - 15 ms on Day 29 (but not on day 1) following initiation of cabozantinib treatment (at a dose of 140 mg once daily) was observed in a controlled clinical trial in medullary thyroid cancer patients. This effect was not associated with a change in cardiac wave form morphology or new rhythms. No cabozantinib-treated subjects in this study had a confirmed QTcF &gt;500 ms, nor did any cabozantinib-treated subjects in the RCC, HCC or NET studies (at a dose of 60 mg).
+An increase from baseline in corrected QT interval by Fridericia (QTcF) of 10 - 15 ms on Day 29 (but not on day 1) following initiation of cabozantinib treatment (at a dose of 140 mg once daily) was
+
+<div style=\"page-break-after: always\"></div>
+
+observed in a controlled clinical trial in medullary thyroid cancer patients. This effect was not associated with a change in cardiac wave form morphology or new rhythms. No cabozantinib-treated subjects in this study had a confirmed QTcF &gt;500 ms, nor did any cabozantinib-treated subjects in the RCC, HCC or NET studies (at a dose of 60 mg).
 
 ## Clinical efficacy and safety
 
@@ -700,11 +694,7 @@ An increase from baseline in corrected QT interval by Fridericia (QTcF) of 10 - 
 
 ## Randomized study in RCC patients who have received prior vascular endothelial growth factor (VEGF)-targeted therapy (METEOR)
 
-The safety and efficacy of CABOMETYX for the treatment of renal cell carcinoma following prior vascular endothelial growth factor (VEGF)-targeted therapy were evaluated in a randomized, openlabel, multicentre phase 3 study (METEOR). Patients (N=658) with advanced RCC with a clear cell component who had previously received at least 1 prior VEGF receptor tyrosine kinase inhibitor (VEGFR TKI) were randomised (1:1) to receive cabozantinib (N=330) or everolimus (N=328).
-
-<div style=\"page-break-after: always\"></div>
-
-Patients could have received other prior therapies, including cytokines, and antibodies targeting VEGF, the programmed death 1 (PD-1) receptor, or its ligands. Patients with treated brain metastases were allowed. Progression-free survival (PFS) was assessed by a blinded independent radiology review committee, and the primary analysis was conducted among the first 375 subjects randomised. Secondary efficacy endpoints were objective response rate (ORR) and overall survival (OS). Tumour assessments were conducted every 8 weeks for the first 12 months, then every 12 weeks thereafter.
+The safety and efficacy of CABOMETYX for the treatment of renal cell carcinoma following prior vascular endothelial growth factor (VEGF)-targeted therapy were evaluated in a randomized, openlabel, multicentre phase 3 study (METEOR). Patients (N=658) with advanced RCC with a clear cell component who had previously received at least 1 prior VEGF receptor tyrosine kinase inhibitor (VEGFR TKI) were randomised (1:1) to receive cabozantinib (N=330) or everolimus (N=328). Patients could have received other prior therapies, including cytokines, and antibodies targeting VEGF, the programmed death 1 (PD-1) receptor, or its ligands. Patients with treated brain metastases were allowed. Progression-free survival (PFS) was assessed by a blinded independent radiology review committee, and the primary analysis was conducted among the first 375 subjects randomised. Secondary efficacy endpoints were objective response rate (ORR) and overall survival (OS). Tumour assessments were conducted every 8 weeks for the first 12 months, then every 12 weeks thereafter.
 
 The baseline demographic and disease characteristics were similar between the cabozantinib and everolimus arms. The majority of the patients were male (75%), with a median age of 62 years. Seventy-one percent (71%) received only one prior VEGFR TKI; 41% of patients received sunitinib as their only prior VEGFR TKI. According to the Memorial Sloan Kettering Cancer Center criteria for prognostic risk category, 46% were favourable (0 risk factors), 42% were intermediate (1 risk factor), and 13% were poor (2 or 3 risk factors). Fifty-four percent (54%) of patients had 3 or more organs with metastatic disease, including lung (63%), lymph nodes (62%), liver (29%), and bone (22%). The median duration of treatment was 7.6 months (range 0.3 - 20.5) for patients receiving cabozantinib and 4.4 months (range 0.21 - 18.9) for patients receiving everolimus.
 
@@ -729,8 +719,6 @@ Table 4: Summary of PFS findings by independent radiology review committee in RC
 | Median PFS (95% CI), months | 7.4 (5.6, 9.1)                    | 3.8 (3.7, 5.4)                    | 7.4 (6.6, 9.1)               | 3.9 (3.7, 5.1)               |
 | HR (95% CI), p-value 1      | 0.58 (0.45, 0.74), p<0.0001       | 0.58 (0.45, 0.74), p<0.0001       | 0.51 (0.41, 0.62), p<0.0001  | 0.51 (0.41, 0.62), p<0.0001  |
 
-1 stratified log-rank test
-
 <div style=\"page-break-after: always\"></div>
 
 Figure 2: Kaplan-Meier curve of overall survival in RCC subjects following prior vascular endothelial growth factor (VEGF)-targeted therapy (METEOR)
@@ -750,8 +738,6 @@ Table 5: Summary of ORR findings per independent radiology committee review (IRC
 | Stable disease as best response                | 65%                                                     | 62%                                                     | 63%                                                      | 63%                                                      |
 | Progressive disease as best response           | 12%                                                     | 27%                                                     | 9%                                                       | 27%                                                      |
 
-1 chi-squared test
-
 ## Randomized study in treatment-naïve renal cell carcinoma patients (CABOSUN)
 
 The safety and efficacy of CABOMETYX for the treatment of treatment-naïve renal cell carcinoma were evaluated in a randomised, open-label, multicentre study (CABOSUN). Patients (N=157) with previously untreated, locally advanced or metastatic RCC with a clear cell component were randomised (1:1) to receive cabozantinib (N=79) or sunitinib (N=78). Patients had to have intermediate or poor risk disease  as  defined  by  the  International  Metastatic  RCC  Database  Consortium  (IMDC)  risk  group
@@ -764,7 +750,7 @@ For intermediate risk disease, one or two of the following risk factors were met
 
 The primary endpoint was PFS. Secondary efficacy endpoints were objective response rate (ORR) and overall survival (OS). Tumour assessments were conducted every 12 weeks.
 
-The baseline demographic and disease characteristics were similar between the cabozantinib and sunitinib arms. The majority of the patients were male (78%) with a median age of 62 years. Patient distribution by IMDC risk groups was 81% intermediate (12 risk factors) and 19% poor (≥3 risk factors). Most patients (87%) had ECOG performance status of 0 or 1; 13% had an ECOG performance status of 2. Thirty-six percent (36%) of patients had bone metastases.
+The baseline demographic and disease characteristics were similar between the cabozantinib and sunitinib arms. The majority of the patients were male (78%) with a median age of 62 years. Patient distribution by IMDC risk groups was 81% intermediate (1-2 ri sk factors) and 19% poor (≥3 risk factors). Most patients (87%) had ECOG performance status of 0 or 1; 13% had an ECOG performance status of 2. Thirty-six percent (36%) of patients had bone metastases.
 
 A statistically significant improvement in PFS as retrospectively assessed by a blinded Independent Radiology Committee (IRC) was demonstrated for cabozantinib compared to sunitinib (Figure 3 and Table 6). The results from the investigator determined analysis and IRC-determined analysis of PFS were consistent.
 
@@ -858,18 +844,6 @@ Table 7: Efficacy results (CA2099ER)
 | Median time to response       |                                      |                       |
 | Months (range)                | 2.83 (1.0-19.4)                      | 4.17 (1.7-12.3)       |
 
-a Stratified Cox proportional hazards model. Hazard ratio is cabozantinib and nivolumab over sunitinib.
-
-b 2-sided p-values from stratified regular log-rank test.
-
-c Log-rank  test  stratified  by  IMDC  prognostic  risk  score  (0,  1-2,  3-6),  PD-L1  tumour  expression  ( ≥ 1% versus  &lt;1% or indeterminate) and region (US/Canada/W Europe/N Europe, ROW) as entered in the IRT.
-
-d Based on Kaplan-Meier estimates.
-
-e Boundary for statistical significance p-value &lt;0.0111.
-
-f CI based on the Clopper and Pearson method.
-
 <div style=\"page-break-after: always\"></div>
 
 - g Strata adjusted difference in objective response rate (cabozantinib + nivolumab - Sunitinib) based on DerSimonian and Laird
@@ -879,7 +853,7 @@ NE = non-estimable
 
 The primary analysis of PFS included censoring for new anti-cancer treatment (Table 7). Results for PFS with and without censoring for new anti-cancer treatment were consistent.
 
-PFS benefit was observed in the cabozantinib in combination with nivolumab arm vs. sunitinib regardless of tumour PD L1 expression. Median PFS for tumour PD L1 expression ≥ 1% was 13. 08 for cabozantinib in combination with nivolumab, and was 4.67 months in the sunitinib arm (HR = 0.45; 95% CI: 0.29, 0.68). For tumour PD L1 expression &lt; 1%, the median PFS was 19.84 months for the cabozantinib in combination with nivolumab, and 9.26 months in the sunitinib arm (HR = 0.50; 95% CI: 0.38, 0.65).
+PFS benefit was observed in the cabozantinib in combination with nivolumab arm vs. sunitinib regardless of tumour PD L1 expression. Median PFS for tumour PD L1 expre ssion ≥ 1% was 13. 08 for cabozantinib in combination with nivolumab, and was 4.67 months in the sunitinib arm (HR = 0.45; 95% CI: 0.29, 0.68). For tumour PD L1 expression &lt; 1%, the median PFS was 19.84 months for the cabozantinib in combination with nivolumab, and 9.26 months in the sunitinib arm (HR = 0.50; 95% CI: 0.38, 0.65).
 
 PFS benefit was observed in the cabozantinib in combination with nivolumab arm vs. sunitinib regardless of the (IMDC) risk category. Median PFS for the favourable risk group was not reached for cabozantinib in combination with nivolumab, and was 12.81 months in the sunitinib arm (HR = 0.60; 95% CI: 0.37, 0.98). Median PFS for the intermediate risk group was 17.71 months for cabozantinib in combination with nivolumab and was 8.38 months in the sunitinib arm (HR = 0.54; 95% CI: 0.41, 0.73). Median PFS for the poor risk group was 12.29 months for cabozantinib in combination with nivolumab and was 4.21 months in the sunitinib arm (HR = 0.36; 95% CI: 0.23, 0.58).
 
@@ -936,14 +910,6 @@ Table 8: Efficacy results in HCC (ITT population, CELESTIAL)
 | p-value 1,4                                                                   | p=0.0086             | p=0.0086             |
 | Stable disease                                                                | 282 (60)             | 78 (33)              |
 | Progressive disease                                                           | 98 (21)              | 131 (55)             |
-
-1  2-sided stratified log-rank test with aetiology of disease (HBV [with or without HCV], HCV [without HBV], or other), geographic region (Asia, other regions), and presence of extrahepatic spread of disease and/or macrovascular invasion (Yes, No) as stratification factors (per IVRS data)
-
-2  estimated using the Cox proportional-hazard model
-
-3  as assessed by investigator per RECIST 1.1
-
-4  stratified Cochran-Mantel-Haenszel (CMH) test
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1004,20 +970,6 @@ Table 9:  Efficacy Results from COSMIC-311
 | Partial response                | 10 (15)                    | 10 (15)                    | 0                               | 0                               |
 | Stable disease                  | 46 (69)                    | 46 (69)                    | 14 (42)                         | 14 (42)                         |
 | Progressive disease             | 4 (6)                      | 4 (6)                      | 18 (55)                         | 18 (55)                         |
-
-* The primary analysis of PFS included censoring for new anti-cancer treatment. Results for PFS with and without censoring for new anti-cancer treatment were consistent.
-
-CI, confidence interval; NE, not evaluable
-
-1  The cut-off date of the primary analysis is 19 August 2020.
-
-2  The cut-off date of the secondary analysis is 08 February 2021.
-
-3  Estimated using the Cox proportional-hazard model.
-
-4 Log-rank test stratified by receipt of prior lenvatinib (yes vs. no) and age (≤ 65 years vs. &gt; 65 years) as stratification factors (per IXRS data).
-
-5  Based on the first 100 patients included in the study with a median follow-up of 8.9 months, n=67 in CABOMETYX group and n=33 in placebo group. The improvement in ORR was not statistically significant.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1120,7 +1072,7 @@ Based on central review, partial responses were seen in 2/5 patients with MTC, o
 
 ## ADVL1622
 
-ADVL1622 assessed the activity of cabozantinib in selected paediatric solid tumours. This multicentre, open label two-stage phase 2 trial included the following solid tumour strata: non-osteosarcoma strata (including Ewing sarcoma, rhabdomyosarcoma (RMS), non-rhabdomyosarcoma soft tissue sarcomas (NRSTS) and Wilms tumour), osteosarcoma stratum and rare solid tumours strata (including medullary thyroid carcinoma (MTC), renal cell carcinoma (RCC), hepatocellular carcinoma (HCC), hepatoblastoma, adrenocortical carcinoma and other solid tumours). Cabozantinib was administered orally  once  daily  on  a  continuous  dosing  schedule  of  28-day  cycles  at  a  dose  of  40  mg/m2/day (cumulative weekly dose of 280 mg/m2 using a dosing nomogram). Subjects were ≥2 and ≤30 years of age at the time of study entry for all strata except upper age limit of ≤18 years of age for MTC, RCC and HCC.
+ADVL1622 assessed the activity of cabozantinib in selected paediatric solid tumours. This multicentre, open label two-stage phase 2 trial included the following solid tumour strata: non-osteosarcoma strata (including Ewing sarcoma, rhabdomyosarcoma (RMS), non-rhabdomyosarcoma soft tissue sarcomas (NRSTS) and Wilms tumour), osteosarcoma stratum and rare solid tumours strata (including medullary thyroid carcinoma (MTC), renal cell carcinoma (RCC), hepatocellular carcinoma (HCC), hepatoblastoma, adrenocortical carcinoma and other solid tumours). Cabozantinib was administered orally  once  daily  on  a  continuous  dosing  schedule  of  28-day  cycles  at  a  dose  of  40  mg/m2/day (cumulative weekly dos e of 280 mg/m2 using a dosing nomogram). Subjects were ≥2 and ≤30 years of age at the time of study entry for all strata except upper age limit of ≤18 years of age for MTC, RCC and HCC.
 
 For non-osteosarcoma and rare tumours strata the primary endpoint was the objective response rate (ORR). For the osteosarcoma stratum, a two-stage design that incorporated dual endpoints of objective response (CR + PR) based on Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 criteria and treatment success as defined by SD for ≥4 months was utilised. The PK of cabozantinib in paediatric and adolescent subjects was assessed (please refer to section 5.2)
 
@@ -1858,6 +1810,7 @@ Talk to your doctor or pharmacist before taking CABOMETYX if you:
 - -have had surgery within the last month (or if surgical procedures are planned), including dental surgery
 - -have inflammatory bowel disease (for example, Crohn's disease or ulcerative colitis, diverticulitis, or appendicitis)
 - -have a recent history of blood clot in the leg, stroke, or heart attack
+-     have heart failure (can include symptoms like shortness of breath, feeling tired, fainting, swollen ankles and legs)
 - -have thyroid problems. Tell your doctor if you get tired more easily, generally feel colder than other people, or your voice deepens whilst taking this medicine.
 - -have liver or kidney disease.
 
@@ -1879,10 +1832,10 @@ Tell your doctor or pharmacist if you are taking or have recently taken any othe
 - -Medicines used to treat bacterial infections (antibiotics) such as erythromycin, clarithromycin, and rifampicin
 - -Allergy medicines such as fexofenadine
 - -Medicines to treat angina pectoris (chest pain owing to inadequate supply to the heart) such as ranolazine
-- -Medicines used to treat epilepsy or fits such as phenytoin, carbamazepine, and phenobarbital
 
 <div style=\"page-break-after: always\"></div>
 
+- -Medicines used to treat epilepsy or fits such as phenytoin, carbamazepine, and phenobarbital
 - -Herbal preparations containing St. John's Wort (Hypericum perforatum), sometimes used for treating depression or depression-related conditions such as anxiety
 - -Medicines used to thin the blood, such as warfarin and dabigatran etexilate
 - -Medicines to treat high blood pressure or other heart conditions, such as aliskiren, ambrisentan, digoxin, talinolol, and tolvaptan
@@ -2022,6 +1975,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - Decrease in bile flow from the liver
 - A burning or painful sensation in the tongue (glossodynia)
 - Heart attack
+- Heart failure (can include symptoms like shortness of breath, feeling tired, fainting, swollen ankles and legs)
 - Clot/embolus that travelled through your arteries and become stuck
 - Collapsed lung with air trapped in the space between the lung and chest, often causing shortness of breath (pneumothorax)
 
@@ -2044,11 +1998,11 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - Stomach upset, including diarrhoea, nausea, vomiting, indigestion, abdominal pain and constipation
 - Redness, swelling or pain in the mouth or throat (stomatitis)
 - Skin rash sometimes with blisters, itching, pain of the hands or soles of the feet, rash or severe itching of skin
-- Pain in joints (arthralgia), muscle spasm, muscle weakness and aching muscles
-- Protein in the urine (seen in test)
 
 <div style=\"page-break-after: always\"></div>
 
+- Pain in joints (arthralgia), muscle spasm, muscle weakness and aching muscles
+- Protein in the urine (seen in test)
 - Feeling tired or weak, fever and oedema (swelling)
 - Abnormal liver function tests (increased amounts of the liver enzymes aspartate aminotransferase, alanine aminotransferase or alkaline phosphatase in your blood, higher blood levels of the waste product bilirubin)
 - Abnormal kidney function tests (increased amounts of creatinine in your blood)
@@ -2089,11 +2043,11 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - Allergic reactions related to the infusion of the medicine nivolumab
 - Inflammation of the pituitary gland situated at the base of the brain (hypophysitis), swelling of the thyroid gland (thyroiditis)
 - A temporary inflammation of the nerves that causes pain, weakness and paralysis in the extremities (Guillain Barré syndrome); muscle weakness and tiredness without atrophy (myasthenic syndrome)
-- Inflammation of the brain
-- Inflammation of the eye (which causes pain and redness)
 
 <div style=\"page-break-after: always\"></div>
 
+- Inflammation of the brain
+- Inflammation of the eye (which causes pain and redness)
 - Inflammation of the heart muscle
 - Clot/embolus that travelled through your arteries and become stuck
 - Inflammation of the pancreas (pancreatitis), intestinal perforation, burning or painful sensation in the tongue (glossodynia)

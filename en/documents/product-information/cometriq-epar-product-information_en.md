@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-04-16 14:08:32
-document_pages: 56
+document_datetime: 2026-02-27 10:29:30
+document_pages: 57
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cometriq-epar-product-information_en.pdf
 document_name: cometriq-epar-product-information_en.pdf
 version: success
-processing_time: 28.7329098
-conversion_datetime: 2025-12-15 01:02:55.435344
+processing_time: 31.0567007
+conversion_datetime: 2026-03-01 19:30:22.436275
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -150,6 +150,10 @@ Wound complications have been observed with cabozantinib. Cabozantinib treatment
 
 Hypertension, including hypertensive crisis, has been observed with cabozantinib. Blood pressure should be well-controlled prior to initiating cabozantinib. After cabozantinib initiation blood pressure should be monitored early and regularly and treated as needed with appropriate anti-hypertensive therapy. In the case of persistent hypertension despite use of anti-hypertensives, the cabozantinib treatment should be interrupted until blood pressure is controlled, after which cabozantinib can be resumed at a reduced dose. Cabozantinib should be discontinued if hypertension is severe and persistent despite anti-hypertensive therapy and dose reduction of cabozantinib. In case of hypertensive crisis, cabozantinib should be discontinued.
 
+## Cardiac Failure
+
+Cabozantinib has been associated with an increased risk of cardiac failure. This risk may be exacerbated by common adverse drug reactions of cabozantinib (e.g. hypertension, hypothyroidism and arterial thrombotic events), which can lead to cardiac failure. Patients should be monitored for signs and symptoms of cardiac failure throughout treatment. These adverse events should be managed promptly, dose interruptions and/or adjustments should be considered if necessary (see section 4.2) and TKI therapy should be discontinued in patients who develop severe cardiac failure.
+
 ## Osteonecrosis
 
 Events of osteonecrosis of the jaw (ONJ) have been observed with cabozantinib. An oral examination should be performed prior to initiation of cabozantinib and periodically during cabozantinib therapy. Patients should be advised regarding oral hygiene practice. Cabozantinib treatment should be held at least 28 days prior to scheduled dental surgery or invasive dental procedures, if possible. Caution should be used in patients receiving agents associated with ONJ, such as bisphosphonates. Cabozantinib should be discontinued in patients who experience ONJ.
@@ -172,15 +176,15 @@ Cabozantinib should be used with caution in patients with a history of QT interv
 
 ## CYP3A4 inducers and inhibitors
 
-Cabozantinib is a CYP3A4 substrate. Concurrent administration of cabozantinib with the strong CYP3A4 inhibitor ketoconazole resulted in an increase in cabozantinib plasma exposure. Caution is required when administering cabozantinib with agents that are strong CYP3A4 inhibitors. Concurrent administration of cabozantinib with the strong CYP3A4 inducer rifampicin resulted in a decrease in cabozantinib plasma exposure. Therefore chronic administration of agents that are strong CYP3A4 inducers with cabozantinib should be avoided (see sections 4.2 and 4.5).
-
-## P-glycoprotein substrates
-
-Cabozantinib was an inhibitor (IC50 = 7.0 μM), but not a substrate, of P-glycoprotein (P-gp) transport activities in a bi-directional assay system using MDCK-MDR1 cells. Therefore, cabozantinib may have the
+Cabozantinib is a CYP3A4 substrate. Concurrent administration of cabozantinib with the strong CYP3A4 inhibitor ketoconazole resulted in an increase in cabozantinib plasma exposure. Caution is required when
 
 <div style=\"page-break-after: always\"></div>
 
-potential to increase plasma concentrations of co-administered substrates of P-gp. Subjects should be cautioned regarding taking a P-gp substrate (e.g., fexofenadine, aliskiren, ambrisentan, dabigatran etexilate, digoxin, colchicine, maraviroc, posaconazole, ranolazine, saxagliptin, sitagliptin, talinolol, tolvaptan) while receiving cabozantinib.
+administering cabozantinib with agents that are strong CYP3A4 inhibitors. Concurrent administration of cabozantinib with the strong CYP3A4 inducer rifampicin resulted in a decrease in cabozantinib plasma exposure. Therefore chronic administration of agents that are strong CYP3A4 inducers with cabozantinib should be avoided (see sections 4.2 and 4.5).
+
+## P-glycoprotein substrates
+
+Cabozantinib was an inhibitor (IC50 = 7.0 μM), but not a substrate, of P-glycoprotein (P-gp) transport activities in a bi-directional assay system using MDCK-MDR1 cells. Therefore, cabozantinib may have the potential to increase plasma concentrations of co-administered substrates of P-gp. Subjects should be cautioned regarding taking a P-gp substrate (e.g., fexofenadine, aliskiren, ambrisentan, dabigatran etexilate, digoxin, colchicine, maraviroc, posaconazole, ranolazine, saxagliptin, sitagliptin, talinolol, tolvaptan) while receiving cabozantinib.
 
 ## MRP2 inhibitors
 
@@ -214,6 +218,8 @@ In vitro data demonstrate that cabozantinib is a substrate of MRP2. Therefore, a
 
 Bile salt-sequestering agents such as cholestyramine and cholestagel may interact with cabozantinib and may impact absorption (or reabsorption) resulting in potentially decreased exposure (see section 5.2). The clinical significance of these potential interactions is unknown.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Effect of cabozantinib on other medicinal products
 
 The effect of cabozantinib on the pharmacokinetics of contraceptive steroids has not been investigated. As unchanged contraceptive effect may not be guaranteed, an additional contraceptive method, such as a barrier method, is recommended.
@@ -222,11 +228,7 @@ Because of high plasma protein binding levels of cabozantinib (section 5.2) a pl
 
 ## P-glycoprotein substrates
 
-Cabozantinib was an inhibitor (IC50 = 7.0 μM), but not a substrate, of P-gp transport activities in a bi-directional assay system using MDCK-MDR1 cells. Therefore, cabozantinib may have the potential to increase plasma concentrations of co-administered substrates of P-gp. Subjects should be cautioned
-
-<div style=\"page-break-after: always\"></div>
-
-regarding taking a P-gp substrate (e.g., fexofenadine, aliskiren, ambrisentan, dabigatran etexilate, digoxin, colchicine, maraviroc, posaconazole, ranolazine, saxagliptin, sitagliptin, talinolol, tolvaptan) while receiving cabozantinib.
+Cabozantinib was an inhibitor (IC50 = 7.0 μM), but not a substrate, of P -gp transport activities in a bi-directional assay system using MDCK-MDR1 cells. Therefore, cabozantinib may have the potential to increase plasma concentrations of co-administered substrates of P-gp. Subjects should be cautioned regarding taking a P-gp substrate (e.g., fexofenadine, aliskiren, ambrisentan, dabigatran etexilate, digoxin, colchicine, maraviroc, posaconazole, ranolazine, saxagliptin, sitagliptin, talinolol, tolvaptan) while receiving cabozantinib.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -256,7 +258,11 @@ Cabozantinib has minor influence on the ability to drive and use machines. Adver
 
 The most common serious adverse reactions associated with cabozantinib are pneumonia, mucosal inflammation, hypocalcaemia, dysphagia, dehydration, pulmonary embolism, and hypertension. The most frequent adverse reactions of any grade (experienced by at least 20% of patients) included diarrhoea, PPES, weight decreased, decreased appetite, nausea, fatigue, dysgeusia, hair colour changes, hypertension, stomatitis, constipation, vomiting, mucosal inflammation, asthenia, and dysphonia.
 
-The most common laboratory abnormalities were increased aspartate aminotransferase (AST), increased alanine aminotransferase (ALT), increased alkaline phosphatase (ALP), lymphopenia, hypocalcaemia, neutropenia, thrombocytopenia, hypophosphatemia, hyperbilirubinemia, hypomagnesaemia, and hypokalaemia.
+The most common laboratory abnormalities were increased aspartate aminotransferase (AST), increased alanine aminotransferase (ALT), increased alkaline phosphatase (ALP), lymphopenia, hypocalcaemia,
+
+<div style=\"page-break-after: always\"></div>
+
+neutropenia, thrombocytopenia, hypophosphatemia, hyperbilirubinemia, hypomagnesaemia, and hypokalaemia.
 
 ## Tabulated list of adverse reactions
 
@@ -289,7 +295,7 @@ Table 1: Adverse reactions reported with cabozantinib
 | Common                                           | ear pain, tinnitus                                                                                                                                                                                                    |
 | Uncommon                                         | Hypoacusis                                                                                                                                                                                                            |
 | Cardiac disorders                                | Cardiac disorders                                                                                                                                                                                                     |
-| Common                                           | atrial fibrillation                                                                                                                                                                                                   |
+| Common                                           | atrial fibrillation, cardiac failure                                                                                                                                                                                  |
 | Uncommon                                         | angina pectoris, supraventricular tachycardia                                                                                                                                                                         |
 | Not Known                                        | myocardial infarction                                                                                                                                                                                                 |
 | Vascular disorders                               | Vascular disorders                                                                                                                                                                                                    |
@@ -333,26 +339,6 @@ Table 1: Adverse reactions reported with cabozantinib
 | Very Common                                          | weight decreased, serum ALT, AST, and ALP increased, blood LDH increased, blood TSH increased *d , thrombocytopenia a |
 | Common                                               | blood creatinine increased, lymphopenia a , neutropenia a , lipase increased                                          |
 | Uncommon                                             | activated partial thromboplastin time shortened, eosinophil count increased b , platelet count increased b            |
-
-* See section 4.8 Description of selected adverse reactions for further characterisation.
-
-The following terms have been combined to derive appropriate frequency categorisation:
-
-a Lowered haematology parameters: Lymphopenia and lymphocyte count decreased; Neutropenia and neutrophil count decreased; Thrombocytopenia and platelet count decreased.
-
-b Elevated haematology parameters: Eosinophil count increased and eosinophilia; Platelet count increased and thrombocytosis
-
-c Lowered biochemistry parameters: Hypoalbuminaemia and blood albumin decreased; Hypocalcaemia and blood calcium decreased; Hypokalaemia and blood potassium decreased; Hypomagnesaemia and blood magnesium decreased; Hypohosphatemia and blood phosphorus decreased.
-
-d Elevated biochemistry parameters: Hyperbilirubinaemia and blood bilirubin increased; Hypothyroidism and blood thyroid stimulating hormone increased.
-
-e  Abdominal pain, abdominal discomfort, abdominal pain upper and abdominal pain lower
-
-f Hypertension and blood pressure increased.
-
-g  Hypotension and blood pressure decreased.
-
-h No hypertensive crisis was reported in Cometriq clinical trials; the frequency is based on pooled cabozantinib data (including Cabometyx 60 mg tablet data).
 
 ## Description of selected adverse reactions
 
@@ -456,12 +442,6 @@ Table 2: Summary of key efficacy findings
 | b                                     |                                  |                                  |
 |                                       |                                  | (11.1,                           |
 
-a  Response = CR + PR
-
-b  Disease Control Rate = SD+ ORR
-
-c Includes patients who were evaluable for response
-
 ## RET mutation status
 
 Of the 215 subjects with sufficient data to determine mutational status, 78.6% (n=169) were classified as RET mutation positive (126 of which were positive for the M918T mutation), and 21.4% (n=46) were classified as RET mutation negative. For an additional 115 subjects the RET mutational status could not be determined or was unclear. All three subgroups showed increased PFS in the cabozantinib arm compared to the placebo arm (HRs of 0.23, 0.53, and 0.30 for RET mutation positive, negative, and unknown subgroups, respectively). The objective response rates measured in these subgroups were generally consistent with the PFS results, with the RET mutation positive, negative, and unknown subgroups showing tumour response rates of 32%, 22%, and 25%, respectively.
@@ -484,9 +464,7 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## Absorption
 
-Following oral administration of cabozantinib, peak cabozantinib plasma concentrations are reached at 2 to 5 hours post-dose. Plasma-concentration time profiles show a second absorption peak approximately
-
-- 24 hours after administration, which suggests that cabozantinib may undergo enterohepatic recirculation.
+Following oral administration of cabozantinib, peak cabozantinib plasma concentrations are reached at 2 to 5 hours post-dose. Plasma-concentration time profiles show a second absorption peak approximately 24 hours after administration, which suggests that cabozantinib may undergo enterohepatic recirculation.
 
 Repeat daily dosing of cabozantinib at 140 mg for 19 days resulted in an approximately a 4- to 5-fold mean cabozantinib accumulation (based on AUC) compared to a single dose administration; steady state is achieved by approximately Day 15.
 
@@ -990,6 +968,8 @@ Medicinal product subject to medical prescription.
 
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
+
+29
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1705,6 +1685,7 @@ Talk to your doctor or pharmacist before taking COMETRIQ if you:
 - -have inflammatory bowel disease (for example, Crohn's disease or ulcerative colitis or diverticulitis)
 - -have been told that your cancer has spread to your airway or oesophagus
 - -have a recent history of blood clot in the leg, stroke, or heart attack
+-     have heart failure (can include symptoms like shortness of breath, feeling tired, fainting, swollen ankles and legs)
 - -are taking medicines to control your heart rhythm, have a slow heart rate, have problems with your heart or have problems with the levels of calcium, potassium or magnesium in your blood
 - -have liver or kidney disease.
 
@@ -1862,7 +1843,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - Haemorrhoids
 - Pneumonia (lung infection)
 - Pain in the mouth, teeth and/or jaw, swelling or sores inside the mouth, numbness or a feeling of heaviness in the jaw, or loosening of a tooth
-- Reduced thyroid activity ; symptoms can include: tiredness, weight gain, constipation, feeling cold and dry skin
+- Reduced thyroid activity ; s ymptoms can include: tiredness, weight gain, constipation, feeling cold and dry skin
 - Low level of white blood cells
 - Decrease in level of phosphate in the blood
 - Tear or hole or bleeding in your stomach or intestine, inflammation or tear of anus, bleeding in lungs or trachea (airway)
@@ -1871,11 +1852,12 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - Abscess (collection of pus, with swelling and inflammation) in the abdomen or pelvis area or in your teeth/gums
 - Blood clots in the blood vessels and the lungs
 - Stroke
-- Fungal infection that can be in the skin, mouth, or genitals
-- Wounds that have difficulties healing
+- Heart failure (can include symptoms like shortness of breath, feeling tired, fainting, swollen ankles and legs)
 
 <div style=\"page-break-after: always\"></div>
 
+- Fungal infection that can be in the skin, mouth, or genitals
+- Wounds that have difficulties healing
 - Protein or blood in the urine, gallstones, painful urination
 - Blurred vision
 - Increase in the level of bilirubin in your blood (which may result in jaundice/yellow skin or eyes)
@@ -1910,7 +1892,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in
+
+Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
 
 ## 5. How to store COMETRIQ
 
@@ -1942,7 +1926,9 @@ The other ingredients are:
 
 ## What COMETRIQ looks like and contents of the pack
 
-COMETRIQ 20 mg hard capsules are grey and have 'XL184 20mg' printed on one side. COMETRIQ 80 mg hard capsules are orange and have 'XL184 80mg' printed on one side.
+COMETRIQ 20 mg hard capsules are grey and have 'XL184 20mg' printed on one side.
+
+COMETRIQ 80 mg hard capsules are orange and have 'XL184 80mg' printed on one side.
 
 COMETRIQ hard capsules are packaged in blister cards organised by prescribed dose. Each blister card contains enough medicine for 7 days. Each row of the blister card contains the daily dose.
 

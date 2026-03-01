@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-01-29 16:16:00
+document_datetime: 2026-02-26 15:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/remsima.html
 document_name: remsima.html
 version: success
-processing_time: 0.1329676
-conversion_datetime: 2026-02-01 20:09:11.057731
+processing_time: 0.3091942
+conversion_datetime: 2026-03-01 20:15:29.855557
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
   docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Remsima
 
 [RSS](/en/individual-human-medicine.xml/65886)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -36,6 +36,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Remsima](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-83760)
 - [Related content](#related-content-553)
 - [More information on Remsima](#related-medicines)
 - [Topics](#topics)
@@ -133,7 +134,7 @@ English (EN) (142.14 KB - PDF)
 
 [View](/en/documents/overview/remsima-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-956)
+[Other languages (22)](#file-language-dropdown-878)
 
 български (BG) (169.81 KB - PDF)
 
@@ -413,15 +414,15 @@ English (EN) (1.22 MB - PDF)
 
 Remsima : EPAR - Product Information
 
-English (EN) (2.25 MB - PDF)
+English (EN) (2.74 MB - PDF)
 
 **First published:** 04/10/2013
 
-**Last updated:** 15/01/2026
+**Last updated:** 26/02/2026
 
 [View](/en/documents/product-information/remsima-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-212)
+[Other languages (24)](#file-language-dropdown-659)
 
 български (BG) (2.87 MB - PDF)
 
@@ -431,11 +432,11 @@ English (EN) (2.25 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/bg/documents/product-information/remsima-epar-product-information_bg.pdf)
 
-español (ES) (2.22 MB - PDF)
+español (ES) (2.77 MB - PDF)
 
 **First published:**
 
@@ -443,11 +444,11 @@ español (ES) (2.22 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/es/documents/product-information/remsima-epar-product-information_es.pdf)
 
-čeština (CS) (2.43 MB - PDF)
+čeština (CS) (2.93 MB - PDF)
 
 **First published:**
 
@@ -455,11 +456,11 @@ español (ES) (2.22 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/cs/documents/product-information/remsima-epar-product-information_cs.pdf)
 
-dansk (DA) (2.06 MB - PDF)
+dansk (DA) (2.73 MB - PDF)
 
 **First published:**
 
@@ -467,11 +468,11 @@ dansk (DA) (2.06 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/da/documents/product-information/remsima-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.33 MB - PDF)
+Deutsch (DE) (2.84 MB - PDF)
 
 **First published:**
 
@@ -479,11 +480,11 @@ Deutsch (DE) (2.33 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/de/documents/product-information/remsima-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.02 MB - PDF)
+eesti keel (ET) (2.56 MB - PDF)
 
 **First published:**
 
@@ -491,7 +492,7 @@ eesti keel (ET) (2.02 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/et/documents/product-information/remsima-epar-product-information_et.pdf)
 
@@ -503,11 +504,11 @@ eesti keel (ET) (2.02 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/el/documents/product-information/remsima-epar-product-information_el.pdf)
 
-français (FR) (2.19 MB - PDF)
+français (FR) (2.95 MB - PDF)
 
 **First published:**
 
@@ -515,11 +516,11 @@ français (FR) (2.19 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/fr/documents/product-information/remsima-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.21 MB - PDF)
+hrvatski (HR) (2.71 MB - PDF)
 
 **First published:**
 
@@ -527,11 +528,11 @@ hrvatski (HR) (2.21 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/hr/documents/product-information/remsima-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.14 MB - PDF)
+íslenska (IS) (2.73 MB - PDF)
 
 **First published:**
 
@@ -539,11 +540,11 @@ hrvatski (HR) (2.21 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/is/documents/product-information/remsima-epar-product-information_is.pdf)
 
-italiano (IT) (2.19 MB - PDF)
+italiano (IT) (2.57 MB - PDF)
 
 **First published:**
 
@@ -551,11 +552,11 @@ italiano (IT) (2.19 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/it/documents/product-information/remsima-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.46 MB - PDF)
+latviešu valoda (LV) (2.75 MB - PDF)
 
 **First published:**
 
@@ -563,11 +564,11 @@ latviešu valoda (LV) (2.46 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/lv/documents/product-information/remsima-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.36 MB - PDF)
+lietuvių kalba (LT) (2.97 MB - PDF)
 
 **First published:**
 
@@ -575,11 +576,11 @@ lietuvių kalba (LT) (2.36 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/lt/documents/product-information/remsima-epar-product-information_lt.pdf)
 
-magyar (HU) (2.47 MB - PDF)
+magyar (HU) (3 MB - PDF)
 
 **First published:**
 
@@ -587,11 +588,11 @@ magyar (HU) (2.47 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/hu/documents/product-information/remsima-epar-product-information_hu.pdf)
 
-Malti (MT) (2.68 MB - PDF)
+Malti (MT) (3.13 MB - PDF)
 
 **First published:**
 
@@ -599,11 +600,11 @@ Malti (MT) (2.68 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/mt/documents/product-information/remsima-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.19 MB - PDF)
+Nederlands (NL) (2.8 MB - PDF)
 
 **First published:**
 
@@ -611,11 +612,11 @@ Nederlands (NL) (2.19 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/nl/documents/product-information/remsima-epar-product-information_nl.pdf)
 
-norsk (NO) (2.17 MB - PDF)
+norsk (NO) (2.67 MB - PDF)
 
 **First published:**
 
@@ -623,11 +624,11 @@ norsk (NO) (2.17 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/no/documents/product-information/remsima-epar-product-information_no.pdf)
 
-polski (PL) (2.56 MB - PDF)
+polski (PL) (3.12 MB - PDF)
 
 **First published:**
 
@@ -635,7 +636,7 @@ polski (PL) (2.56 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/pl/documents/product-information/remsima-epar-product-information_pl.pdf)
 
@@ -647,11 +648,11 @@ português (PT) (2.57 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/pt/documents/product-information/remsima-epar-product-information_pt.pdf)
 
-română (RO) (2.44 MB - PDF)
+română (RO) (2.92 MB - PDF)
 
 **First published:**
 
@@ -659,11 +660,11 @@ română (RO) (2.44 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/ro/documents/product-information/remsima-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.62 MB - PDF)
+slovenčina (SK) (4.05 MB - PDF)
 
 **First published:**
 
@@ -671,11 +672,11 @@ slovenčina (SK) (2.62 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/sk/documents/product-information/remsima-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.35 MB - PDF)
+slovenščina (SL) (2.9 MB - PDF)
 
 **First published:**
 
@@ -683,11 +684,11 @@ slovenščina (SL) (2.35 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/sl/documents/product-information/remsima-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.21 MB - PDF)
+Suomi (FI) (2.74 MB - PDF)
 
 **First published:**
 
@@ -695,11 +696,11 @@ Suomi (FI) (2.21 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/fi/documents/product-information/remsima-epar-product-information_fi.pdf)
 
-svenska (SV) (2 MB - PDF)
+svenska (SV) (2.56 MB - PDF)
 
 **First published:**
 
@@ -707,11 +708,11 @@ svenska (SV) (2 MB - PDF)
 
 **Last updated:**
 
-15/01/2026
+26/02/2026
 
 [View](/sv/documents/product-information/remsima-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** X/0149 17/11/2025
+**Latest procedure affecting product information:** VR/0000293345 15/01/2026
 
 icon globe
 
@@ -737,7 +738,7 @@ English (EN) (88.9 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/remsima-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-618)
+[Other languages (24)](#file-language-dropdown-783)
 
 български (BG) (116.94 KB - PDF)
 
@@ -1119,11 +1120,11 @@ Collapse section
 
 Remsima : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (152.3 KB - PDF)
+English (EN) (190.85 KB - PDF)
 
 **First published:** 05/03/2025
 
-**Last updated:** 23/05/2025
+**Last updated:** 26/02/2026
 
 [View](/en/documents/procedural-steps-after/remsima-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1229,7 +1230,7 @@ English (EN) (81.94 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-remsima_en.pdf)
 
-#### News on Remsima
+## News on Remsima
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 September 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-september-2025) 19/09/2025
 
@@ -1239,11 +1240,217 @@ English (EN) (81.94 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2019) 20/09/2019
 
-#### Related content
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Remsima : EPAR - Product information - tracked changes
+
+English (EN) (1.34 MB - DOCX)
+
+**First published:** 26/02/2026
+
+[View](/en/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-823)
+
+български (BG) (1.21 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/bg/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (7.19 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/es/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (1.35 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/cs/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (2.32 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/da/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (1.15 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/de/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (1.12 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/et/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (1.19 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/el/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (1.14 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/fr/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (1.13 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/hr/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (1.16 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/is/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (1.07 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/it/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (1.11 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/lv/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (1.16 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/lt/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (1.18 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/hu/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (1.18 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/mt/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (1.3 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/nl/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (1.14 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/no/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (1.26 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/pl/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (1.11 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/pt/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (1.17 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/ro/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (1.12 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/sk/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (1.21 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/sl/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (1.09 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/fi/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (1.1 MB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/sv/documents/product-information-tracked-changes/remsima-epar-product-information-tracked-changes_sv.docx)
+
+## Related content
 
 - [Biosimilar medicines](/en/human-regulatory/overview/biosimilar-medicines)
 
-#### More information on Remsima
+## More information on Remsima
 
 - [Remicade / Flixabi / Inflectra / Remsima / Zessly - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/remicade-flixabi-inflectra-remsima-zessly)
 - [Remsima - opinion on variation to marketing authorisation](/en/medicines/human/variation/remsima)
@@ -1253,12 +1460,12 @@ English (EN) (81.94 KB - PDF)
 - [An observational, prospective cohort study to evaluate the safety and efficacy of Remsima in patients with Crohn's disease (CD) and Ulcerative Colitis (UC) - post-authorisation study](https://catalogues.ema.europa.eu/study/28169)
 - [An Observational, Prospective Cohort Study to Evaluate Safety and Efficacy of RemsimaTM in Patients with Ankylosing Spondylitis(AS) - post-authorisation study](https://catalogues.ema.europa.eu/study/28172)
 
-#### Topics
+## Topics
 
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 29/01/2026
+**This page was last updated on** 26/02/2026
 
 ## Share this page
 

@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:11:46
+document_datetime: 2026-02-25 15:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/daxas.html
 document_name: daxas.html
 version: success
-processing_time: 0.1509948
-conversion_datetime: 2025-12-30 10:20:46.002218
+processing_time: 0.1118109
+conversion_datetime: 2026-03-01 20:19:00.637164
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Daxas
 
 [RSS](/en/individual-human-medicine.xml/66926)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 roflumilast Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +110,7 @@ English (EN) (75.74 KB - PDF)
 
 [View](/en/documents/overview/daxas-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-605)
+[Other languages (22)](#file-language-dropdown-937)
 
 български (BG) (101.4 KB - PDF)
 
@@ -378,13 +376,15 @@ svenska (SV) (73.59 KB - PDF)
 
 [View](/sv/documents/overview/daxas-epar-medicine-overview_sv.pdf)
 
-Daxas : EPAR - Risk management plan summary
+Daxas : EPAR - Risk management plan
 
-English (EN) (169.38 KB - PDF)
+English (EN) (287.03 KB - PDF)
 
 **First published:** 25/03/2022
 
-[View](/en/documents/rmp-summary/daxas-epar-risk-management-plan-summary_en.pdf)
+**Last updated:** 25/02/2026
+
+[View](/en/documents/rmp/daxas-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
@@ -398,7 +398,7 @@ English (EN) (368.06 KB - PDF)
 
 [View](/en/documents/product-information/daxas-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-250)
+[Other languages (24)](#file-language-dropdown-801)
 
 български (BG) (482.86 KB - PDF)
 
@@ -714,7 +714,7 @@ English (EN) (25.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/daxas-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-126)
+[Other languages (24)](#file-language-dropdown-107)
 
 български (BG) (26.29 KB - PDF)
 
@@ -1014,7 +1014,7 @@ English (EN) (136.86 KB - PDF)
 
 [View](/en/documents/conditions-member-states/daxas-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-929)
+[Other languages (20)](#file-language-dropdown-349)
 
 български (BG) (156.76 KB - PDF)
 
@@ -1276,7 +1276,7 @@ AstraZeneca AB
 
 SE-151 85 Södertälje
 
-Opinion adopted 22/04/2010 Marketing authorisation issued 05/07/2010 Revision 22
+Opinion adopted 22/04/2010 Marketing authorisation issued 05/07/2010 Revision 23
 
 ## Assessment history
 
@@ -1288,9 +1288,11 @@ Collapse section
 
 Daxas : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (245.73 KB - PDF)
+English (EN) (174.99 KB - PDF)
 
 **First published:** 07/10/2025
+
+**Last updated:** 25/02/2026
 
 [View](/en/documents/procedural-steps-after/daxas-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1368,7 +1370,7 @@ English (EN) (50.11 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-positive-summary-opinion-daxas_en.pdf)
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1380,7 +1382,7 @@ English (EN) (176.88 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/daxas-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-323)
+[Other languages (24)](#file-language-dropdown-101)
 
 български (BG) (203.58 KB - DOCX)
 
@@ -1574,11 +1576,11 @@ svenska (SV) (159.86 KB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/daxas-epar-product-information-tracked-changes_sv.docx)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 07/10/2025
+**This page was last updated on** 25/02/2026
 
 ## Share this page
 

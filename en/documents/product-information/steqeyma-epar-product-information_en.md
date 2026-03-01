@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-23 09:16:12
-document_pages: 183
+document_datetime: 2026-02-25 14:55:07
+document_pages: 184
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/steqeyma-epar-product-information_en.pdf
 document_name: steqeyma-epar-product-information_en.pdf
 version: success
-processing_time: 52.2982327
-conversion_datetime: 2026-01-26 20:57:37.423429
+processing_time: 56.4742372
+conversion_datetime: 2026-03-01 19:54:48.19925
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.70.0
-  docling-core: 2.60.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
   docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -84,7 +84,7 @@ a Approximately 6 mg/kg
 
 The first subcutaneous dose should be given at week 8 following the intravenous dose. For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the Steqeyma solution for injection (vial) and solution for injection in pre-filled syringe SmPC or pre-filled pen SmPC.
 
-## Elderly ( ≥ 65 years)
+## Elderly (≥ 65 years)
 
 No dose adjustment is needed for elderly patients (see section 4.4).
 
@@ -94,7 +94,7 @@ Ustekinumab has not been studied in these patient populations. No dose recommend
 
 ## Paediatric population
 
-## Paediatric Crohn's disease (patients weighing at least 40 kg)
+Paediatric Crohn's disease (patients weighing at least 40 kg)
 
 Steqeyma treatment is to be initiated with a single intravenous dose based on body weight. The infusion solution is to be composed of the number of vials of Steqeyma 130 mg as specified in Table 2 (see section 6.6 for preparation).
 
@@ -202,7 +202,7 @@ Cases of lupus-related conditions have been reported in patients treated with us
 
 ## Special populations
 
-## Elderly ( ≥ 65 years)
+## Elderly (≥ 65 years)
 
 No overall differences in efficacy or safety in patients age 65 and older who received ustekinumab were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients. Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
 
@@ -386,9 +386,7 @@ Table 4 Induction of Clinical Response and Remission in UNITI-1 and UNITI-2
 | 70 Point Response, week 3             | 67 (27.1%)      | 101 (40.6%) b                           | 66 (31.6%)      | 106 (50.7%) a                           |
 | 70 Point Response, week 6             | 75 (30.4%)      | 109 (43.8%) b                           | 81 (38.8%)      | 135 (64.6%) a                           |
 
-Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least
-
-100 points or being in clinical remission
+Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission
 
 70 point response is defined as reduction in CDAI score by at least 70 points
 
@@ -487,9 +485,7 @@ Table 6: Summary of Secondary endpoints through Maintenance week 44
 | Clinical Response †                                                                  | 52.2% (12/23)                            | 60.0% (15/25)                             | 56.3% (27/48)                     |
 | Endoscopic response £                                                                | 22.7% (5/22)                             | 28.0% (7/25)                              | 25.5% (12/47)                     |
 
-*
-
-Clinical remission is defined as PCDAI score ≤10 points.
+* Clinical remission is defined as PCDAI score ≤10 points.
 
 § Corticosteroidfree remission is defined as PCDAI score of ≤10 points and not receiving corticosteroids for at least 90 days prior to Week M-44.
 
@@ -719,7 +715,7 @@ The recommended posology of Steqeyma is an initial dose of 45 mg administered su
 
 Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
 
-## Elderly ( ≥ 65 years)
+## Elderly (≥ 65 years)
 
 No dose adjustment is needed for elderly patients (see section 4.4).
 
@@ -823,7 +819,7 @@ Immunomodulators and/or corticosteroids may be continued during treatment with S
 
 In Crohn's disease, if therapy is interrupted, resumption of treatment with subcutaneous dosing every 8 weeks is safe and effective.
 
-## Elderly ( ≥ 65 years)
+## Elderly (≥ 65 years)
 
 No dose adjustment is needed for elderly patients (see section 4.4).
 
@@ -833,7 +829,7 @@ Ustekinumab has not been studied in these patient populations. No dose recommend
 
 ## Paediatric population
 
-Paediatric Crohn's disease (patients weighing at least 40 kg)
+## Paediatric Crohn's disease (patients weighing at least 40 kg)
 
 In the treatment regimen, the first dose of Steqeyma is administered intravenously. For the posology of the intravenous dosing regimen, see section 4.2 of the Steqeyma 130 mg Concentrate for solution for infusion SmPC.
 
@@ -937,7 +933,7 @@ Cases of lupus-related conditions have been reported in patients treated with us
 
 ## Special populations
 
-## Elderly ( ≥ 65 years)
+## Elderly (≥ 65 years)
 
 No overall differences in efficacy or safety in patients age 65 and older who received ustekinumab were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients. Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
 
@@ -973,9 +969,7 @@ Animal studies do not indicate direct or indirect harmful effects with respect t
 
 However, the available clinical experience is limited. As a precautionary measure, it is preferable to avoid the use of Steqeyma in pregnancy.
 
-Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth.
-
-Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 ## Breast-feeding
 
@@ -1288,8 +1282,9 @@ Table 8 Summary of primary and secondary endpoints at week 12 and week 52
 | Paediatric psoriasis study (CADMUS Jr.) (Age 6-11)   | Paediatric psoriasis study (CADMUS Jr.) (Age 6-11)   | Paediatric psoriasis study (CADMUS Jr.) (Age 6-11)   |
 |------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 |                                                      | Week 12 Recommended dose of Ustekinumab              | Week 52 Recommended dose of Ustekinumab              |
-| Patients enrolled                                    | N (%) 44                                             | N (%) 41                                             |
-| PGA                                                  |                                                      |                                                      |
+|                                                      | N                                                    | N                                                    |
+|                                                      | (%)                                                  |                                                      |
+| Patients enrolled                                    | 44                                                   | (%) 41                                               |
 | PGA of cleared (0) or minimal (1)                    | 34 (77.3%)                                           | 31 (75.6%)                                           |
 | PGA of cleared (0)                                   | 17 (38.6%)                                           | 23 (56.1%)                                           |
 | PASI                                                 |                                                      |                                                      |
@@ -1326,8 +1321,6 @@ Table 9 Induction of Clinical Response and Remission in UNITI-1 and UNITI-2
 | Clinical Response (100 point), week 8 | 50 (20.2%)      | 94 (37.8%) a                            | 67 (32.1%)      | 121 (57.9%) a                           |
 | 70 Point Response, week 3             | 67 (27.1%)      | 101 (40.6%) b                           | 66 (31.6%)      | 106 (50.7%) a                           |
 | 70 Point Response, week 6             | 75 (30.4%)      | 109 (43.8%) b                           | 81 (38.8%)      | 135 (64.6%) a                           |
-
-Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission
 
 70 point response is defined as reduction in CDAI score by at least 70 points
 
@@ -1565,11 +1558,11 @@ Steqeyma 45 mg solution for injection
 
 Steqeyma 45 mg solution for injection in pre-filled syringe
 
-0.5 mL solution in a type I glass 1 mL syringe with a staked hypodermic stainless steel needle and a flexible needle shield made of styrene-butadien rubber. The syringe is fitted with a safety guard that automatically shields the needle after dose administration.
+0.5 mL solution in a type I glass 1 mL syringe with a staked hypodermic stainless steel needle and a needle shield made of either flexible styrene-butadien rubber or elastomeric needle shield covered with polypropylene rigid shield. The syringe is fitted with a safety guard that automatically shields the needle after dose administration.
 
 Steqeyma 90 mg solution for injection in pre-filled syringe
 
-1 mL solution in a type I glass 1 mL syringe with a staked hypodermic stainless steel needle and a flexible needle shield made of styrene-butadien rubber. The syringe is fitted with a safety guard that automatically shields the needle after dose administration.
+1 mL solution in a type I glass 1 mL syringe with a staked hypodermic stainless steel needle and a needle shield made of either flexible styrene-butadien rubber or elastomeric needle shield covered with polypropylene rigid shield. The syringe is fitted with a safety guard that automatically shields the needle after dose administration.
 
 Steqeyma is available in a pack of 1 vial or pre-filled syringe.
 
@@ -1821,7 +1814,7 @@ Cases of lupus-related conditions have been reported in patients treated with us
 
 ## Special populations
 
-## Elderly ( ≥ 65 years)
+## Elderly (≥ 65 years)
 
 No overall differences in efficacy or safety in patients age 65 and older who received ustekinumab were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients. Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
 
@@ -1857,9 +1850,7 @@ Animal studies do not indicate direct or indirect harmful effects with respect t
 
 However, the available clinical experience is limited. As a precautionary measure, it is preferable to avoid the use of Steqeyma in pregnancy.
 
-Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. to ustekinumab
-
-Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 ## Breast-feeding
 
@@ -2357,8 +2348,6 @@ Date of first authorisation: 22 Aug 2024
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
-68
-
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
@@ -2499,8 +2488,7 @@ EU/1/24/1844/003
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -2523,7 +2511,7 @@ NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-## VIAL LABEL TEXT (130 mg)
+VIAL LABEL TEXT (130 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -2627,7 +2615,7 @@ EU/1/24/1844/004
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2649,17 +2637,16 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| VIAL LABEL TEXT (45 mg)                                            |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| VIAL LABEL TEXT (45 mg)                                          |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Steqeyma 45 mg solution for injection ustekinumab SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2671,8 +2658,7 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 45 mg/0.5 mL
 
@@ -2779,16 +2765,16 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL TEXT (45 mg)                              |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+## PRE-FILLED SYRINGE LABEL TEXT (45 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Steqeyma 45 mg Injection ustekinumab SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2800,8 +2786,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 45 mg/0.5 mL
 
@@ -2810,7 +2796,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-PRE-FILLED SYRINGE CARTON TEXT (90 mg)
+## PRE-FILLED SYRINGE CARTON TEXT (90 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2886,7 +2872,7 @@ EU/1/24/1844/002
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2908,19 +2894,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL TEXT (90 mg)                              |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+## PRE-FILLED SYRINGE LABEL TEXT (90 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Steqeyma 90 mg Injection ustekinumab SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+## 2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
@@ -2929,8 +2913,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 90 mg/1 mL
 
@@ -3015,7 +2999,7 @@ EU/1/24/1844/005
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -3041,16 +3025,13 @@ NN
 
 ## PRE-FILLED PEN LABEL TEXT (45 mg)
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Steqeyma 45 mg Injection ustekinumab SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+## 2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
@@ -3059,8 +3040,7 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 45 mg/0.5 mL
 
@@ -3145,7 +3125,7 @@ EU/1/24/1844/006
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -3167,18 +3147,20 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED PEN LABEL TEXT (90 mg)                                  |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## PRE-FILLED PEN LABEL TEXT (90 mg)
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Steqeyma 90 mg Injection ustekinumab SC
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -3187,11 +3169,13 @@ EXP
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 90 mg/1 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3511,9 +3495,9 @@ Kymos S.L. Ronda De Can Fatjo 7b Parc Tecnologic Del Valles 08290 Cerdanyola Del
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien BEinfo@celltrionhc.com
+België/Belgique/Belgien
 
-Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418
+Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
 
 ## България
 
@@ -3525,7 +3509,9 @@ Celltrion Healthcare Hungary Kft.
 
 Tel.: +36 1 231 0493
 
-Luxembourg/Luxemburg Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
+Luxembourg/Luxemburg Celltrion Healthcare Belgium BVBA
+
+Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3563,9 +3549,7 @@ Celltrion Healthcare France SAS Tél.: +33 (0)1 71 25 27 00
 
 ## Hrvatska
 
-Oktal Pharma d.o.o.
-
-Tel: +385 1 6595 777
+Oktal Pharma d.o.o. Tel: +385 1 6595 777
 
 ## Ireland
 
@@ -3573,9 +3557,7 @@ Celltrion Healthcare Ireland Limited Tel: +353 1 223 4026 enquiry\\_ie@celltrion
 
 ## Ísland
 
-Celltrion Healthcare Hungary Kft. Sími: +36 1 231 0493
-
-contact\\_fi@celltrionhc.com
+Celltrion Healthcare Hungary Kft. Sími: +36 1 231 0493 contact\\_fi@celltrionhc.com
 
 ## Italia
 
@@ -3611,23 +3593,15 @@ Astro-Pharma GmbH Tel: +43 1 97 99 860
 
 ## Polska
 
-Celltrion Healthcare Hungary Kft. Tel.: + 36 1 231 0493
+Celltrion Healthcare Hungary Kft.
 
-## Portugal
+Tel.: + 36 1 231 0493
 
-CELLTRION PORTUGAL, UNIPESSOAL
-
-LDA
-
-Tel: +351 21 936 8542
-
-contact\\_pt@celltrion.com
+Portugal CELLTRION PORTUGAL, UNIPESSOAL LDA Tel: +351 21 936 8542 contact\\_pt@celltrion.com
 
 ## România
 
-Celltrion Healthcare Hungary Kft.
-
-Tel: + 36 1 231 0493
+Celltrion Healthcare Hungary Kft. Tel: + 36 1 231 0493
 
 ## Slovenija
 
@@ -3639,9 +3613,7 @@ Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
 Suomi/Finland Celltrion Healthcare Finland Oy. Puh/Tel: +358 29 170 7755 contact\\_fi@celltrionhc.com
 
-Sverige Celltrion Sweden AB Tel: +46 8 80 11 77
-
-Contact\\_se@celltrionhc.com
+Sverige Celltrion Sweden AB Tel: +46 8 80 11 77 Contact\\_se@celltrionhc.com
 
 Latvija Celltrion Healthcare Hungary Kft. Tālr.: +36 1 231 0493
 
@@ -4009,11 +3981,15 @@ Kymos S.L. Ronda De Can Fatjo 7b Parc Tecnologic Del Valles 08290 Cerdanyola Del
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
+## België/Belgique/Belgien
+
+Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
 
 ## България
 
-Celltrion Healthcare Hungary Kft. Teл.: + 36 1 231 0493
+Celltrion Healthcare Hungary Kft.
+
+Teл.: + 36 1 231 0493
 
 ## Česká republika
 
@@ -4025,9 +4001,7 @@ Celltrion Healthcare Denmark ApS Tlf.: +45 3535 2989 contact\\_dk@celltrionhc.co
 
 ## Deutschland
 
-Celltrion Healthcare Deutschland GmbH Tel: +49 (0)30 346494150
-
-infoDE@celltrionhc.com
+Celltrion Healthcare Deutschland GmbH Tel: +49 (0)30 346494150 infoDE@celltrionhc.com
 
 ## Eesti
 
@@ -4057,11 +4031,15 @@ Mint Health Ltd Tel: +356 2093 9800
 
 ## Nederland
 
-Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300 NLinfo@celltrionhc.com
+Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300
+
+NLinfo@celltrionhc.com
 
 ## Norge
 
-Celltrion Healthcare Norway AS contact\\_no@celltrionhc.com
+Celltrion Healthcare Norway AS
+
+contact\\_no@celltrionhc.com
 
 ## Österreich
 
@@ -4370,6 +4348,8 @@ Figure J
 - d. With your other hand, pull on the plunger rod to fill the syringe with the amount of liquid prescribed by your doctor. (see Figure K ).
 - Fill the syringe until the black tip of the plunger lines up with the mark that matches your prescribed dose.
 
+09
+
 Figure K
 
 <!-- image -->
@@ -4390,9 +4370,7 @@ Figure L
 
 ## 14. Insert the needle into the injection site.
 
-- a. Hold the body of the syringe in one hand between the thumb and index finger (see Figure M ).
-
-Use the other hand to gently pinch the cleaned skin between your thumb and index finger. Do not squeeze it tightly. Note: Pinching the skin is important to make sure that you inject under the skin (into the fatty area) but not any deeper (into muscle).
+- a. Hold the body of the syringe in one hand between the thumb and index finger (see Figure M ). Use the other hand to gently pinch the cleaned skin between your thumb and index finger. Do not squeeze it tightly. Note: Pinching the skin is important to make sure that you inject under the skin (into the fatty area) but not any deeper (into muscle).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4461,9 +4439,7 @@ Figure P
 
 ## Package leaflet: Information for the user
 
-## Steqeyma 45 mg solution for injection in pre-filled syringe
-
-## ustekinumab
+## Steqeyma 45 mg solution for injection in pre-filled syringe ustekinumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -4625,7 +4601,9 @@ Your doctor will decide how much Steqeyma you need to use and for how long.
 -  If you weigh more than 100 kg, the recommended dose is 90 mg Steqeyma.
 -  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks.
 
-## Children who weigh at least 40 kg Crohn's disease
+## Children who weigh at least 40 kg
+
+## Crohn's disease
 
 -  During treatment, the first dose of approximately 6 mg/kg Steqeyma will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Steqeyma after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
 -  In some patients, after the first injection under the skin, 90 mg Steqeyma may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
@@ -4789,11 +4767,13 @@ Kymos S.L. Ronda De Can Fatjo 7b Parc Tecnologic Del Valles 08290 Cerdanyola Del
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien
+## België/Belgique/Belgien
 
 Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
 
-България Celltrion Healthcare Hungary Kft. Teл.: + 36 1 231 0493
+## България
+
+Celltrion Healthcare Hungary Kft. Teл.: + 36 1 231 0493
 
 ## Česká republika
 
@@ -4801,9 +4781,7 @@ Celltrion Healthcare Hungary Kft. Tel: + 36 1 231 0493
 
 ## Danmark
 
-Celltrion Healthcare Denmark ApS Tlf.: +45 3535 2989
-
-contact\\_dk@celltrionhc.com
+Celltrion Healthcare Denmark ApS Tlf.: +45 3535 2989 contact\\_dk@celltrionhc.com
 
 ## Deutschland
 
@@ -4813,11 +4791,11 @@ Celltrion Healthcare Deutschland GmbH Tel: +49 (0)30 346494150 infoDE@celltrionh
 
 Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
-## contact\\_fi@celltrionhc.com
+contact\\_fi@celltrionhc.com
 
-España Kern Pharma, S.L. Tel: +34 93 700 2525
+## España
 
-Ελλάδα ΒΙΑΝΕΞ Α . Ε . Τηλ : +30 210 8009111
+Kern Pharma, S.L. Tel: +34 93 700 2525
 
 ## Lietuva
 
@@ -4825,9 +4803,7 @@ Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
 
 ## Luxembourg/Luxemburg
 
-Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418
-
-BEinfo@celltrionhc.com
+Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
 
 ## Magyarország
 
@@ -4839,9 +4815,9 @@ Mint Health Ltd Tel: +356 2093 9800
 
 ## Nederland
 
-Celltrion Healthcare Netherlands B.V.
+Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300
 
-Tel: + 31 20 888 7300 NLinfo@celltrionhc.com
+NLinfo@celltrionhc.com
 
 ## Norge
 
@@ -4849,15 +4825,19 @@ Celltrion Healthcare Norway AS
 
 contact\\_no@celltrionhc.com
 
-## Österreich
+Österreich
 
 Astro-Pharma GmbH Tel: +43 1 97 99 860
 
-## Polska
-
-Celltrion Healthcare Hungary Kft. Tel.: + 36 1 231 0493
-
 <div style=\"page-break-after: always\"></div>
+
+## Ελλάδα
+
+ΒΙΑΝΕΞ Α . Ε .
+
+Τηλ
+
+: +30 210 8009111
 
 ## France
 
@@ -4915,11 +4895,15 @@ Tālr.:
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
+## Polska
+
+Celltrion Healthcare Hungary Kft.
+
+Tel.: + 36 1 231 0493
+
 ## Portugal
 
-CELLTRION PORTUGAL, UNIPESSOAL
-
-LDA
+CELLTRION PORTUGAL, UNIPESSOAL LDA
 
 Tel: +351 21 936 8542
 
@@ -4967,6 +4951,7 @@ At the start of treatment, your healthcare provider will assist you with your fi
 -  Do not remove the cap until just before you give the injection.
 -  Do not mix Steqeyma with other liquids for injection.
 -  The pre-filled syringe cannot be re-used. Dispose of the used pre-filled syringe immediately after use in a sharps disposal container (see Step 14. Dispose of Steqeyma ).
+-  The syringe cap design may vary depending on the supplied materials and may be either flexible or rigid.
 
 ## Storing Steqeyma
 
@@ -4994,9 +4979,9 @@ Figure A
 
 Figure B
 
-Figure C
-
 <!-- image -->
+
+## Figure C
 
 Figure D
 
@@ -5030,9 +5015,11 @@ Figure D
 
 Figure E
 
+Figure F
+
 <!-- image -->
 
-Figure F
+Figure G
 
 <!-- image -->
 
@@ -5066,8 +5053,6 @@ Figure H
 
 Figure I
 
-<!-- image -->
-
 ## Administering the Injection
 
 Figure J
@@ -5081,17 +5066,15 @@ Figure J
 - a. Clean the injection site with an alcohol swab using a circular motion (see Figure I ).
 - b. Let the skin dry before injecting.
 5.  Do not blow on or touch the injection site again before giving the injection.
-
-## 9. Remove the cap.
-
+9. Remove the cap.
 - a. Remove the needle cover when you are ready to inject your Steqeyma by holding the body of the pre-filled syringe in one hand between the thumb and index finger (see Figure J ).
-2.  Do not hold the plunger rod while removing the cap.
-3.  You may notice an air bubble in the pre-filled syringe or a few drops of liquid at the tip of needle. This is normal.
+8.  Do not hold the plunger rod while removing the cap.
+9.  You may notice an air bubble in the pre-filled syringe or a few drops of liquid at the tip of needle. This is normal.
 - b. Dispose of the cap right away in a sharps disposal container (see Step 14 and Figure J ).
-5.  Do not use the pre-filled syringe if it is dropped without the needle cover in place. If this happens, please contact your doctor or pharmacist.
-6.  Inject the dose promptly after removing the needle cover.
-7.  Do not re-cap the pre-filled syringe.
-8.  Do not touch the needle. Doing so may result in a needle stick injury.
+11.  Do not use the pre-filled syringe if it is dropped without the needle cover in place. If this happens, please contact your doctor or pharmacist.
+12.  Inject the dose promptly after removing the needle cover.
+13.  Do not re-cap the pre-filled syringe.
+14.  Do not touch the needle. Doing so may result in a needle stick injury.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5156,7 +5139,7 @@ Figure N
 
 ## Steqeyma 90 mg solution for injection in pre-filled syringe
 
-## ustekinumab
+ustekinumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -5417,8 +5400,7 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 -  Vaginal yeast infection
 -  Depression
 -  Blocked or stuffy nose
-- 
-- Bleeding, bruising, hardness, swelling and itching where the injection is given
+-  Bleeding, bruising, hardness, swelling and itching where the injection is given
 -  Feeling weak
 -  Drooping eyelid and sagging muscles on one side of the face ('facial palsy' or 'Bell's palsy'), which is usually temporary
 -  A change in psoriasis with redness and new tiny, yellow or white skin blisters, sometimes accompanied by fever (pustular psoriasis)
@@ -5485,11 +5467,13 @@ Kymos S.L. Ronda De Can Fatjo 7b Parc Tecnologic Del Valles 08290 Cerdanyola Del
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien
+## België/Belgique/Belgien
 
 Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
 
-България Celltrion Healthcare Hungary Kft. Teл.: +36 1 231 0493
+## България
+
+Celltrion Healthcare Hungary Kft. Teл.: +36 1 231 0493
 
 ## Česká republika
 
@@ -5497,25 +5481,23 @@ Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
 ## Danmark
 
-Celltrion Healthcare Denmark ApS Tlf.: +45 3535 2989
-
-contact\\_dk@celltrionhc.com
+Celltrion Healthcare Denmark ApS Tlf.: +45 3535 2989 contact\\_dk@celltrionhc.com
 
 ## Deutschland
 
-Celltrion Healthcare Deutschland GmbH Tel: +49 (0)30 346494150 infoDE@celltrionhc.com
+Celltrion Healthcare Deutschland GmbH Tel: +49 (0)30 346494150
+
+infoDE@celltrionhc.com
 
 ## Eesti
 
 Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
-## contact\\_fi@celltrionhc.com
+contact\\_fi@celltrionhc.com
 
 ## España
 
 Kern Pharma, S.L. Tel: +34 93 700 2525
-
-Ελλάδα ΒΙΑΝΕΞ Α . Ε . Τηλ : +30 210 8009111
 
 ## Lietuva
 
@@ -5523,23 +5505,23 @@ Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
 
 ## Luxembourg/Luxemburg
 
-Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418
-
-BEinfo@celltrionhc.com
+Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
 
 ## Magyarország
 
-Celltrion Healthcare Hungary Kft.
-
-Tel.: +36 1 231 0493
+Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
 
 ## Malta
 
-Mint Health Ltd Tel: +356 2093 9800
+Mint Health Ltd
+
+Tel: +356 2093 9800
 
 ## Nederland
 
-Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300 NLinfo@celltrionhc.com
+Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300
+
+NLinfo@celltrionhc.com
 
 ## Norge
 
@@ -5551,13 +5533,15 @@ contact\\_no@celltrionhc.com
 
 Astro-Pharma GmbH Tel: +43 1 97 99 860
 
-## Polska
-
-Celltrion Healthcare Hungary Kft.
-
-Tel.: +36 1 231 0493
-
 <div style=\"page-break-after: always\"></div>
+
+## Ελλάδα
+
+ΒΙΑΝΕΞ Α . Ε .
+
+Τηλ
+
+: +30 210 8009111
 
 ## France
 
@@ -5611,15 +5595,19 @@ Tālr.:
 
 +36 1 231 0493
 
-## This leaflet was last revised in &lt; { MM/YYYY }&gt;.
+This leaflet was last revised in &lt; { MM/YYYY }&gt;.
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
+## Polska
+
+Celltrion Healthcare Hungary Kft.
+
+Tel.: +36 1 231 0493
+
 ## Portugal
 
-CELLTRION PORTUGAL, UNIPESSOAL
-
-LDA
+CELLTRION PORTUGAL, UNIPESSOAL LDA
 
 Tel: +351 21 936 8542
 
@@ -5667,6 +5655,7 @@ At the start of treatment, your healthcare provider will assist you with your fi
 -  Do not remove the cap until just before you give the injection.
 -  Do not mix Steqeyma with other liquids for injection.
 -  The pre-filled syringe cannot be re-used. Dispose of the used pre-filled syringe immediately after use in a sharps disposal container (see Step 14. Dispose of Steqeyma) .
+-  The syringe cap design may vary depending on the supplied materials and may be either flexible or rigid.
 
 ## Storing Steqeyma
 
@@ -5680,29 +5669,11 @@ At the start of treatment, your healthcare provider will assist you with your fi
 -  Do not use the medicine if it has been shaken strongly.
 -  Do not use the pre-filled syringe if it has been dropped.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Parts of the Pre-filled Syringe (see Figure A)
 
 Figure A
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-## Preparing for the Injection
-
-<!-- image -->
-
-Figure B
-
-<!-- image -->
-
-Figure C
-
-Figure D
-
-<!-- image -->
-
-Figure E
 
 <!-- image -->
 
@@ -5718,10 +5689,36 @@ Figure E
 - -Adhesive bandage
 - -Sharps disposal container
 - -Alcohol swab
-
-## 2. Check the expiration date on the carton (see Figure C).
-
+2. Check the expiration date on the carton (see Figure C).
 -  Do not use it if the expiration date has passed. If the expiration date has passed, return the entire pack to the pharmacy.
+
+## Preparing for the Injection
+
+Figure B
+
+<!-- image -->
+
+Figure C
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+Figure D
+
+<!-- image -->
+
+Figure E
+
+Figure F
+
+<!-- image -->
+
+Figure G
+
+<!-- image -->
 
 ## 3. Wait 30 minutes.
 
@@ -5731,26 +5728,34 @@ Figure E
 4.  Do not warm the pre-filled syringe using heat sources such as hot water or a microwave.
 5.  Do not hold by the plunger rod or cap.
 6.  Do not pull back on the plunger rod at any time.
-4. Inspect the pre-filled syringe.
+
+## 4. Inspect the pre-filled syringe.
+
 - a. Look at the pre-filled syringe and make sure you have the correct medicine (Steqeyma) and dosage.
 - b. Check the pre-filled syringe(s) to make sure the number of pre-filled syringes and strength is correct:
-10.  If your dose is 90 mg you will get one 90 mg pre-filled syringe of Steqeyma.
+3.  If your dose is 90 mg you will get one 90 mg pre-filled syringe of Steqeyma.
 - c. Look at the pre-filled syringe and make sure it is not cracked or damaged.
 - d. Check the expiration date on the label of the pre-filled syringe (see Figure E ).
-13.  Do not use if the expiration date has passed.
-14.  Do not shake the pre-filled syringe.
+6.  Do not use if the expiration date has passed.
+7.  Do not shake the pre-filled syringe.
+
+## 5. Inspect the medicine.
+
+- a. Look at the medicine and confirm that the liquid is clear to slightly opalescent and colourless to pale yellow. (see Figure F ).
+2.  Do not use the pre-filled syringe if the liquid is discoloured or cloudy.
+3.  You may see air bubbles in the liquid. This is normal.
+
+## 6. Choose an appropriate injection site (see Figure G).
+
+- a. You may inject into:
+2. -Your upper thighs.
+3. -Your lower abdomen except for the 5 cm around the belly button (navel).
+4. -The outer area of the upper arm if you are a caregiver.
+5.  Do not inject into moles, scars, bruises, or areas where the skin is tender, red, hard, or if there are breaks in the skin. If possible, do not use areas of skin that show signs of psoriasis.
+6.  Do not inject through your clothes.
+- b. Choose a different injection site for each new injection at least 2.5 cm away from the area used for the last injection.
 
 <div style=\"page-break-after: always\"></div>
-
-Figure F
-
-<!-- image -->
-
-## =  Caregiver ONLY =  Self-injection and Caregiver
-
-<!-- image -->
-
-Figure G
 
 Figure H
 
@@ -5760,41 +5765,18 @@ Figure I
 
 <!-- image -->
 
-## 5. Inspect the medicine.
+## Administering the Injection
 
-- a. Look at the medicine and confirm that the liquid is clear to slightly opalescent and colourless to pale yellow. (see Figure F ).
-2.  Do not use the pre-filled syringe if the liquid is discoloured or cloudy.
-3.  You may see air bubbles in the liquid. This is normal.
-6. Choose an appropriate injection site (see Figure G).
-- a. You may inject into:
-6. -Your upper thighs.
-7. -Your lower abdomen except for the 5 cm around the belly button (navel).
-8. -The outer area of the upper arm if you are a caregiver.
-9.  Do not inject into moles, scars, bruises, or areas where the skin is tender, red, hard, or if there are breaks in the skin. If possible, do not use areas of skin that show signs of psoriasis.
-10.  Do not inject through your clothes.
-- b. Choose a different injection site for each new injection at least 2.5 cm away from the area used for the last injection.
+Figure J
+
+<!-- image -->
+
 7. Wash your hands.
 - a. Wash your hands with soap and water and dry them thoroughly (see Figure H ).
 8. Clean the injection site.
 - a. Clean the injection site with an alcohol swab using a circular motion (see Figure I ).
 - b. Let the skin dry before injecting.
-17.  Do not blow on or touch the injection site again before giving the injection.
-
-<div style=\"page-break-after: always\"></div>
-
-## Administering the Injection
-
-<!-- image -->
-
-Figure J
-
-Figure K
-
-<!-- image -->
-
-Figure L
-
-<!-- image -->
+6.  Do not blow on or touch the injection site again before giving the injection.
 
 ## 9. Remove the cap.
 
@@ -5806,6 +5788,26 @@ Figure L
 6.  Inject the dose promptly after removing the needle cover.
 7.  Do not re-cap the pre-filled syringe.
 8.  Do not touch the needle. Doing so may result in a needle stick injury.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+## Figure K
+
+<!-- image -->
+
+## Figure L
+
+Figure M
+
+<!-- image -->
+
+## After the Injection
+
+## 13. Care for the injection site.
+
+- a. If some bleeding occurs, treat the injection site by gently pressing, not rubbing, a cotton ball or gauze to the site and apply an adhesive bandage if needed.
 
 ## 10. Insert the pre-filled syringe into the injection site.
 
@@ -5824,28 +5826,6 @@ Note: Pinching the skin is important to make sure that you inject under the skin
 3.  Do not change the position of the pre-filled syringe after the injection has started.
 4.  If the plunger rod is not fully pressed, the needle guard will not extend to cover the needle when it is removed.
 
-<div style=\"page-break-after: always\"></div>
-
-Figure M
-
-<!-- image -->
-
-## After the Injection
-
-## 13. Care for the injection site.
-
-- a. If some bleeding occurs, treat the injection site by gently pressing, not rubbing, a cotton ball or gauze to the site and apply an adhesive bandage if needed.
-14. Dispose of Steqeyma.
-- a. Put the used pre-filled syringe in a sharps disposal container right away after use (see Figure N ).
-- b. Do not throw away (dispose of) the pre-filled syringe in your household trash.
-5.  If you do not have a sharps disposal container, you may use a household container that is closable and puncture resistant.
-6.  For the safety and health of you and others, needles and used syringes must never be reused. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-7.  Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
-Figure N
-
-<!-- image -->
-
 ## 12. Remove the pre-filled syringe from the injection site.
 
 - a. After the pre-filled syringe is empty, as the needle is being taken out, slowly remove the needle by lifting your thumb from the plunger rod until the needle is completely covered by the needle guard (see Figure M ).
@@ -5857,11 +5837,23 @@ Figure N
 
 <!-- image -->
 
+## 14. Dispose of Steqeyma.
+
+- a. Put the used pre-filled syringe in a sharps disposal container right away after use (see Figure N ).
+- b. Do not throw away (dispose of) the pre-filled syringe in your household trash.
+3.  If you do not have a sharps disposal container, you may use a household container that is closable and puncture resistant.
+4.  For the safety and health of you and others, needles and used syringes must never be reused. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+5.  Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
 ## Package leaflet: Information for the user
 
 ## Steqeyma 45 mg solution for injection in pre-filled pen
 
-## ustekinumab
+ustekinumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -6165,15 +6157,17 @@ MIDAS Pharma GmbH Rheinstrasse 49 55218 West Ingelheim Am Rhein Rhineland-Palati
 
 Kymos S.L. Ronda De Can Fatjo 7b
 
-Parc Tecnologic Del Valles 08290 Cerdanyola Del Valles Barcelona Spain
-
 <div style=\"page-break-after: always\"></div>
+
+Parc Tecnologic Del Valles 08290 Cerdanyola Del Valles Barcelona Spain
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418
+Celltrion Healthcare Belgium BVBA
+
+Tél/Tel: + 32 1528 7418
 
 BEinfo@celltrionhc.com
 
@@ -6191,15 +6185,13 @@ Celltrion Healthcare Denmark ApS Tlf.: +45 3535 2989
 
 contact\\_dk@celltrionhc.com
 
-Deutschland Tel: +49 (0)30 346494150 infoDE@celltrionhc.com
+## Deutschland
 
-Celltrion Healthcare Deutschland GmbH
+Celltrion Healthcare Deutschland GmbH Tel: +49 (0)30 346494150 infoDE@celltrionhc.com
 
 ## Eesti
 
-Celltrion Healthcare Hungary Kft.
-
-Tel: +36 1 231 0493
+Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
 contact\\_fi@celltrionhc.com
 
@@ -6217,13 +6209,9 @@ Celltrion Healthcare France SAS Tél.: +33 (0)1 71 25 27 00
 
 ## Hrvatska
 
-Oktal Pharma d.o.o. Tel: +385 1 6595 777
+Oktal Pharma d.o.o.
 
-## Ireland
-
-Celltrion Healthcare Ireland Limited Tel: +353 1 223 4026
-
-enquiry\\_ie@celltrionhc.com
+Tel: +385 1 6595 777
 
 ## Lietuva
 
@@ -6231,9 +6219,7 @@ Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
 
 ## Luxembourg/Luxemburg
 
-Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418
-
-BEinfo@celltrionhc.com
+Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
 
 ## Magyarország
 
@@ -6269,11 +6255,19 @@ contact\\_pt@celltrion.com
 
 ## România
 
-Celltrion Healthcare Hungary Kft. Tel: + 36 1 231 0493
+Celltrion Healthcare Hungary Kft.
 
-Slovenija OPH Oktal Pharma d.o.o. Tel.: +386 1 519 29 22
+Tel: + 36 1 231 0493
 
 <div style=\"page-break-after: always\"></div>
+
+## Ireland
+
+Celltrion Healthcare Ireland Limited
+
+Tel: +353 1 223 4026
+
+enquiry\\_ie@celltrionhc.com
 
 ## Ísland
 
@@ -6307,9 +6301,15 @@ Tālr.:
 
 +36 1 231 0493
 
-This leaflet was last revised in &lt; { MM/YYYY }&gt;.
+## This leaflet was last revised in &lt; { MM/YYYY }&gt;.
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Slovenija
+
+OPH Oktal Pharma d.o.o.
+
+Tel.: +386 1 519 29 22
 
 ## Slovenská republika
 
@@ -6319,11 +6319,7 @@ Tel: +36 1 231 0493
 
 ## Suomi/Finland
 
-Celltrion Healthcare Finland Oy.
-
-Puh/Tel: +358 29 170 7755
-
-contact\\_fi@celltrionhc.com
+Celltrion Healthcare Finland Oy. Puh/Tel: +358 29 170 7755 contact\\_fi@celltrionhc.com
 
 ## Sverige
 
@@ -6367,6 +6363,8 @@ At the start of treatment, your healthcare provider will assist you with your fi
 - Always keep the pre-filled pen dry.
 
 <div style=\"page-break-after: always\"></div>
+
+## Parts of the Steqeyma pre-filled pen (see Figure A)
 
 Figure A
 
@@ -6576,7 +6574,7 @@ Figure O
 
 ## Steqeyma 90 mg solution for injection in pre-filled pen
 
-## ustekinumab
+ustekinumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -6892,9 +6890,9 @@ Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418
 
 BEinfo@celltrionhc.com
 
-България Celltrion Healthcare Hungary Kft.
+## България
 
-Teл.: +36 1 231 0493
+Celltrion Healthcare Hungary Kft. Teл.: +36 1 231 0493
 
 ## Česká republika
 
@@ -6914,29 +6912,31 @@ infoDE@celltrionhc.com
 
 ## Eesti
 
-Celltrion Healthcare Hungary Kft.
-
-Tel: +36 1 231 0493
+Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
 contact\\_fi@celltrionhc.com
 
-España Kern Pharma, S.L. Tel: +34 93 700 2525
+## España
+
+Kern Pharma, S.L. Tel: +34 93 700 2525
 
 ## Ελλάδα
 
-ΒΙΑΝΕΞ Α . Ε . Τηλ : +30 210 8009111
+ΒΙΑΝΕΞ Α . Ε .
+
+Τηλ : +30 210 8009111
 
 ## France
 
-Celltrion Healthcare France SAS Tél.: +33 (0)1 71 25 27 00
+Celltrion Healthcare France SAS
+
+Tél.: +33 (0)1 71 25 27 00
 
 ## Hrvatska
 
-Oktal Pharma d.o.o. Tel: +385 1 6595 777
+Oktal Pharma d.o.o.
 
-## Ireland
-
-Celltrion Healthcare Ireland Limited Tel: +353 1 223 4026 enquiry\\_ie@celltrionhc.com
+Tel: +385 1 6595 777
 
 ## Lietuva
 
@@ -6946,13 +6946,13 @@ Tel.: +36 1 231 0493
 
 ## Luxembourg/Luxemburg
 
-Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418
-
-BEinfo@celltrionhc.com
+Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1528 7418 BEinfo@celltrionhc.com
 
 ## Magyarország
 
-Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
+Celltrion Healthcare Hungary Kft.
+
+Tel.: +36 1 231 0493
 
 ## Malta
 
@@ -6960,9 +6960,7 @@ Mint Health Ltd Tel: +356 2093 9800
 
 ## Nederland
 
-Celltrion Healthcare Netherlands B.V.
-
-Tel: + 31 20 888 7300
+Celltrion Healthcare Netherlands B.V. Tel: + 31 20 888 7300
 
 NLinfo@celltrionhc.com
 
@@ -6978,15 +6976,11 @@ Astro-Pharma GmbH Tel: +43 1 97 99 860
 
 ## Polska
 
-Celltrion Healthcare Hungary Kft.
-
-Tel.: +36 1 231 0493
+Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
 
 ## Portugal
 
-CELLTRION PORTUGAL, UNIPESSOAL
-
-LDA
+CELLTRION PORTUGAL, UNIPESSOAL LDA
 
 Tel: +351 21 936 8542
 
@@ -6994,15 +6988,23 @@ contact\\_pt@celltrion.com
 
 ## România
 
-Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
+Celltrion Healthcare Hungary Kft.
+
+Tel: +36 1 231 0493
+
+## Ireland
+
+Celltrion Healthcare Ireland Limited
+
+Tel: +353 1 223 4026
+
+enquiry\\_ie@celltrionhc.com
 
 ## Slovenija
 
 OPH Oktal Pharma d.o.o.
 
 Tel.: +386 1 519 29 22
-
-<div style=\"page-break-after: always\"></div>
 
 ## Ísland
 
@@ -7012,6 +7014,12 @@ Sími: +36 1 231 0493
 
 contact\\_fi@celltrionhc.com
 
+## Slovenská republika
+
+Celltrion Healthcare Hungary Kft.
+
+Tel: +36 1 231 0493
+
 ## Italia
 
 Celltrion Healthcare Italy S.R.L.
@@ -7020,6 +7028,14 @@ Tel: +39 0247927040
 
 celltrionhealthcare\\_italy@legalmail.it
 
+## Suomi/Finland
+
+Celltrion Healthcare Finland Oy.
+
+Puh/Tel: +358 29 170 7755
+
+contact\\_fi@celltrionhc.com
+
 ## Κύπρος
 
 C.A. Papaellinas Ltd
@@ -7027,6 +7043,14 @@ C.A. Papaellinas Ltd
 Τηλ:
 
 +357 22741741
+
+## Sverige
+
+Celltrion Sweden AB
+
+Tel: +46 8 80 11 77
+
+Contact\\_se@celltrionhc.com
 
 ## Latvija
 
@@ -7038,25 +7062,9 @@ Tālr.:
 
 ## This leaflet was last revised in &lt; { MM/YYYY }&gt;.
 
+<div style=\"page-break-after: always\"></div>
+
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-## Slovenská republika
-
-Celltrion Healthcare Hungary Kft.
-
-Tel: +36 1 231 0493
-
-## Suomi/Finland
-
-Celltrion Healthcare Finland Oy. Puh/Tel: +358 29 170 7755 contact\\_fi@celltrionhc.com
-
-## Sverige
-
-Celltrion Sweden AB
-
-Tel: +46 8 80 11 77
-
-Contact\\_se@celltrionhc.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7093,6 +7101,8 @@ At the start of treatment, your healthcare provider will assist you with your fi
 
 <div style=\"page-break-after: always\"></div>
 
+## Parts of the Steqeyma pre-filled pen (see Figure A)
+
 Figure A
 
 <!-- image -->
@@ -7122,6 +7132,8 @@ Figure B
 - Do not use it if the expiration date has passed. If the expiration date has passed, return the entire pack to the pharmacy.
 
 <div style=\"page-break-after: always\"></div>
+
+EXP:MMYYYY
 
 Figure C
 

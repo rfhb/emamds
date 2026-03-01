@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-08-01 12:48:55
+document_datetime: 2026-02-26 12:18:07
 document_pages: 29
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/evkeeza-epar-product-information_en.pdf
 document_name: evkeeza-epar-product-information_en.pdf
 version: success
-processing_time: 6.5557022
-conversion_datetime: 2025-12-18 23:55:40.880062
+processing_time: 7.1029005
+conversion_datetime: 2026-03-01 20:06:18.48745
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -60,19 +60,17 @@ Treatment with evinacumab should be initiated and monitored by a physician exper
 
 ## Posology
 
-The recommended dose is 15 mg/kg body weight (bw) administered by intravenous infusion over 60 minutes once monthly (every 4 weeks).
+The recommended dose is 15 mg/kg body weight administered by intravenous infusion over 60 minutes once monthly (every 4 weeks).
+
+## Missed dose
 
 If a dose is missed, it should be administered as soon as possible. Thereafter, treatment with evinacumab should be scheduled monthly from the date of the last dose.
 
-The rate of infusion may be slowed, interrupted, or discontinued if the patient develops any signs of adverse reactions, including infusion-associated symptoms.
+Elderly (≥ 65 years)
 
 <div style=\"page-break-after: always\"></div>
 
-Evkeeza can be administered without regard to lipoprotein apheresis.
-
-## Elderly
-
-No dosage adjustment is required for elderly patients (see sections 5.1 and 5.2).
+No dose adjustment is required for elderly patients (see sections 5.1 and 5.2).
 
 ## Renal impairment
 
@@ -90,15 +88,17 @@ No dose adjustment is required for paediatric patients aged 6 months to 17 years
 
 Evkeeza is for intravenous infusion use only.
 
+Evkeeza can be administered without regard to lipoprotein apheresis.
+
 ## Administration
 
-- If refrigerated, allow the solution to come to room temperature (up to 25 ºC) prior to administration.
-- Evinacumab should be administered over 60 minutes by intravenous infusion through an intravenous line containing a sterile, in-line or add-on 0.2-micron to 5-micron filter. Do not administer evinacumab as an intravenous push or bolus.
-- Do not mix other medicinal products with evinacumab or administer concomitantly via the same infusion line.
+- If refrigerated,  the solution should be allowed to come to room temperature (up to 25 ºC) prior to administration.
+- Evinacumab should be administered over 60 minutes by intravenous infusion through an intravenous line containing a sterile, in-line or add-on 0.2-micron to 5-micron filter. Evinacumab should not be administered as an intravenous push or bolus.
+- Other medicinal products should not be mixed with evinacumab or administered concomitantly via the same infusion line.
 
-The rate of infusion may be slowed, interrupted, or discontinued if the patient develops any signs of adverse reactions, including infusion-associated symptoms.
+The rate of infusion may be slowed, interrupted, or discontinued if the patient develops any signs of adverse reactions, including infusion-reactions (see sections 4.4 and 4.8).
 
-For instructions on dilution of the medicinal product before administration, see section 6.6.
+Instructions on dilution of the medicinal product before administration are listed in section 6.6.
 
 ## 4.3 Contraindications
 
@@ -114,23 +114,23 @@ In order to improve the traceability of biological medicinal products, the name 
 
 Hypersensitivity reactions, including anaphylaxis, and infusion reactions have been reported with evinacumab (see section 4.8). If signs or symptoms of serious hypersensitivity or serious infusion reactions occur, discontinue treatment with evinacumab, treat according to the standard-of-care, and monitor until signs and symptoms resolve.
 
-## Excipients
+## Excipients with known effect
 
 This medicinal product contains 30 mg of proline in each ml. Proline may be harmful for patients with hyperprolinaemia type I or type II.
 
 <div style=\"page-break-after: always\"></div>
 
-This medicinal product contains 1 mg of polysorbate 80 in each ml.  Polysorbates may cause allergic reactions.
+This medicinal product contains 1 mg of polysorbate 80 in each ml. Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-No interaction studies have been performed. No interacting mechanisms between evinacumab and other lipid-lowering medications have been observed.
+No interaction studies have been performed. No interacting mechanisms between evinacumab and other lipid-lowering medicinal products have been observed.
 
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Women of childbearing potential
 
-Women of childbearing potential should use effective contraception during treatment with evinacumab and for at least 5 months after the last dose of evinacumab.
+Women of childbearing potential have to use effective contraception during treatment with evinacumab and for at least 5 months after the last dose of evinacumab.
 
 ## Pregnancy
 
@@ -152,37 +152,35 @@ Evkeeza may have a minor influence on the ability to cycle, drive and use machin
 
 ## Summary of the safety profile
 
-The most frequently occurring adverse reactions  are nasopharyngitis  (13.7%), influenza  like illness (7.7%), dizziness (6.0%), back pain (5.1%) and nausea (5.1%). The most serious adverse reaction is anaphylaxis (0.9%).
+The most frequently occurring adverse reactions  are nasopharyngitis (13.7%),  influenza-like illness (7.7%), dizziness (6.0%), back pain (5.1%) and nausea (5.1%). The most serious adverse reaction is anaphylaxis (0.9%).
 
 ## Tabulated list of adverse reactions
 
-Table 1 lists the incidence of adverse reactions in clinical trials of evinacumab therapy involving 137 treated patients (117 adult and adolescent patients with HoFH and persistent hypercholesterolaemia from pooled controlled clinical trials and 20 paediatric patients aged &gt;5 to 11 years with HoFH from Study R1500-CL-17100). Adverse reactions are listed by system organ class (SOC) and by frequency. Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon
+Table 1 lists the incidence of adverse reactions in clinical trials of evinacumab therapy involving 137 treated patients (117 adult and adolescent patients with HoFH and persistent hypercholesterolaemia from pooled controlled clinical trials and 20 paediatric patients aged &gt;5 to 11 years with HoFH from Study R1500-CL-17100). Adverse reactions are listed by MedDRA system organ class (SOC) and by frequency. Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known
 
 <div style=\"page-break-after: always\"></div>
 
-(≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+(cannot be estimated from available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 Table 1: Adverse reactions
 
-| MedDRA System organ class                            | Preferred term                    | Frequency categories   |
-|------------------------------------------------------|-----------------------------------|------------------------|
-| Infections and infestations                          | Nasopharyngitis                   | Very Common            |
-| Infections and infestations                          | Upper respiratory tract infection | Common                 |
-| Immune system disorders                              | Anaphylaxis                       | Uncommon               |
-| Nervous system disorders                             | Dizziness                         | Common                 |
-| Respiratory, thoracic and mediastinal disorders      | Rhinorrhoea                       | Common                 |
-| Gastrointestinal disorders                           | Nausea                            | Common                 |
-| Gastrointestinal disorders                           | Abdominal pain                    | Common                 |
-| Gastrointestinal disorders                           | Constipation                      | Common                 |
-| Musculoskeletal and connective tissue disorders      | Back pain                         | Common                 |
-| Musculoskeletal and connective tissue disorders      | Pain in extremity                 | Common                 |
-| General disorders and administration site conditions | Fatigue *                         | Very Common            |
-| General disorders and administration site conditions | Influenza like illness            | Common                 |
-| General disorders and administration site conditions | Asthenia                          | Common                 |
-| General disorders and administration site conditions | Infusion related reaction         | Common                 |
-| General disorders and administration site conditions | Infusion site reactions           | Common                 |
-
-* See section Paediatric population, below.
+| System organ class                                   | Adverse reaction                  | Frequency   |
+|------------------------------------------------------|-----------------------------------|-------------|
+| Infections and infestations                          | Nasopharyngitis                   | Very common |
+| Infections and infestations                          | Upper respiratory tract infection | Common      |
+| Immune system disorders                              | Anaphylaxis                       | Uncommon    |
+| Nervous system disorders                             | Dizziness                         | Common      |
+| Respiratory, thoracic and mediastinal disorders      | Rhinorrhoea                       | Common      |
+| Gastrointestinal disorders                           | Nausea                            | Common      |
+| Gastrointestinal disorders                           | Abdominal pain                    | Common      |
+| Gastrointestinal disorders                           | Constipation                      | Common      |
+| Musculoskeletal and connective tissue disorders      | Back pain                         | Common      |
+| Musculoskeletal and connective tissue disorders      | Pain in extremity                 | Common      |
+| General disorders and administration site conditions | Fatigue *                         | Very common |
+| General disorders and administration site conditions | Influenza like illness            | Common      |
+| General disorders and administration site conditions | Asthenia                          | Common      |
+| General disorders and administration site conditions | Infusion related reaction         | Common      |
+| General disorders and administration site conditions | Infusion site reactions           | Common      |
 
 ## Description of selected adverse reactions
 
@@ -192,21 +190,23 @@ Anaphylaxis was reported in 1 (0.9%) patient treated with evinacumab (see sectio
 
 ## Infusion reactions
 
-Infusion reactions (e.g., infusion site pruritus) were reported in 9 (7.7%) patients treated with evinacumab and in 2 (3.7%) patients treated with placebo.
+Infusion reactions (e.g. infusion site pruritus) were reported in 9 (7.7%) patients treated with evinacumab and in 2 (3.7%) patients treated with placebo.
 
 ## Paediatric population
 
-The safety profile observed in 14 adolescent patients with HoFH aged 12 to 17 years treated with evinacumab 15 mg/kg IV every 4 weeks was consistent with the safety profile of adult patients with HoFH.
+The safety profile observed in 14 adolescent patients with HoFH aged 12 to 17 years treated with evinacumab 15 mg/kg for intravenous use every 4 weeks was consistent with the safety profile of adult patients with HoFH.
 
-The safety of evinacumab was assessed in 20 paediatric patients aged ≥ 5 to 11 years. The safety profile of evinacumab observed in these patients was consistent with the safety profile observed in adult and adolescent patients aged 12 years and older, with the additional adverse reaction of fatigue. Fatigue was reported in 3 (15%) patients (See section 5.1).
+The safety of evinacumab was assessed in 20 paediatric patients aged ≥ 5 to 11 years. The safety profile of evinacumab observed in these patients was consistent with the safety profile observed in adult and adolescent patients aged 12 years and older, with the additional adverse reaction of fatigue. Fatigue was reported in 3 (15%) patients (see section 5.1).
 
-Data are available for 5 patients aged ≥1 to 5 years old treated with evinacumab via compassionate use. The treatment duration was between 12 weeks and 90 weeks.  Based on safety data received, no new safety concern has been identified (see section 5.1).
+Data are available for 5 patients aged ≥1 to 5 years old treated with evinacumab via compassionate use. The treatment duration was between 12 weeks and 90 weeks. Based on safety data received, no new safety concern has been identified (see section 5.1).
 
 ## Reporting of suspected adverse reactions
 
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+
 <div style=\"page-break-after: always\"></div>
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -228,21 +228,19 @@ Evinacumab blockade of ANGPTL3 lowers TG and HDL-C by releasing LPL and EL activ
 
 Homozygous familial hypercholesterolaemia (HoFH)
 
-## Study ELIPSE-HoFH
+## Study ELIPSE -HoFH
 
-This was a multicentre, double-blind, randomised, placebo-controlled trial evaluating the efficacy and safety of evinacumab compared to placebo in 65 patients with HoFH. The trial consisted of a 24-week double-blind treatment period and a 24-week open-label treatment period. In the double-blind treatment period, 43 patients were randomised to receive evinacumab 15 mg/kg IV every 4 weeks and 22 patients to receive placebo. Patients were on a background of other lipid-lowering therapies (e.g. statins, ezetimibe, PCSK9 inhibitor antibodies, lomitapide, and lipoprotein apheresis). The diagnosis of HoFH was determined by genetic testing or by the presence of the following clinical criteria: history of an untreated TC &gt; 500 mg/dl (13 mmol/l) together with either xanthoma before 10 years of age or evidence of TC &gt; 250 mg/dl (6.47 mmol/l) in both parents. Patients regardless of mutation status were included in the trial. Patients were defined as having null/null or negative/negative variants if the variations resulted in little to no residual LDLR function; null/null variants were defined as having &lt; 15% LDLR function based on in vitro assays and negative/negative variants were defined as having premature termination codons, splice site variations, frame shifts, insertion/deletions or copy number variations. In this trial, 32.3% (21 of 65) of patients had null/null variants and 18.5% (12 of 65) of patients had negative/negative variants.
+This was a multicentre, double-blind, randomised, placebo-controlled study evaluating the efficacy and safety of evinacumab compared to placebo in 65 patients with HoFH. The study consisted of a 24week double-blind treatment period and a 24-week open-label treatment period. In the double-blind treatment period, 43 patients were randomised to receive evinacumab 15 mg/kg administered intravenously every 4 weeks and 22 patients to receive placebo. Patients were on a background of other lipid-lowering therapies (e.g. statins, ezetimibe, PCSK9 inhibitor antibodies, lomitapide, and lipoprotein apheresis). The diagnosis of HoFH was determined by genetic testing or by the presence of the following clinical criteria: history of an untreated TC &gt; 500 mg/dl (13 mmol/l) together with either xanthoma before 10 years of age or evidence of TC &gt; 250 mg/dl (6.47 mmol/l) in both parents. Patients regardless of mutation status were included in the trial. Patients were defined as having null/null or negative/negative variants if the variations resulted in little to no residual LDLR function; null/null variants were defined as having &lt; 15% LDLR function based on in vitro assays and negative/negative variants were defined as having premature termination codons, splice site variations, frame shifts, insertion/deletions or copy number variations. In this trial, 32.3% (21 of 65) of patients had null/null variants and 18.5% (12 of 65) of patients had negative/negative variants.
 
-The mean LDL-C at baseline was 255.1 mg/dl (6.61 mmol/l) and in the subset of patients with null/null variants was 311.5 mg/dl (8.07 mmol/l) and with negative/negative variants was 289.4 mg/dl (7.50 mmol/l). At baseline, 93.8% of patients were on statins, 75.4% on ezetimibe, 76.9% on a PCSK9 inhibitor antibodies, 21.5% on lomitapide, and 33.8% were receiving lipoprotein apheresis. The mean
+The mean LDL-C at baseline was 255.1 mg/dl (6.61 mmol/l) and in the subset of patients with null/null variants was 311.5 mg/dl (8.07 mmol/l) and with negative/negative variants was 289.4 mg/dl (7.50 mmol/l). At baseline, 93.8% of patients were on statins, 75.4% on ezetimibe, 76.9% on a PCSK9 inhibitor antibodies, 21.5% on lomitapide, and 33.8% were receiving lipoprotein apheresis. The mean age at baseline was 42 years (range 12 to 75) with 12.3% ≥65 years old; 53.8% women, 73.8% White, 15.4% Asian, 3.1% Black and 7.7% Other or not reported.
 
 <div style=\"page-break-after: always\"></div>
 
-age at baseline was 42 years (range 12 to 75) with 12.3% ≥65 years old; 53.8% women, 73.8% White, 15.4% Asian, 3.1% Black and 7.7% Other or not reported.
-
-The primary efficacy endpoint was percent change in LDL-C from baseline to Week 24. At Week 24, the LS mean treatment difference between evinacumab and placebo in mean percent change in LDL-C from baseline, was -49.0% (95% CI: -65.0% to -33.1%; p &lt; 0.0001). For efficacy results see Table 2.
+The primary efficacy endpoint was percent change in LDL-C from baseline to week 24. At week 24, the LS mean treatment difference between evinacumab and placebo in mean percent change in LDL-C from baseline, was -49.0% (95% CI: -65.0% to -33.1%; p &lt; 0.0001). For efficacy results see Table 2.
 
 Table 2: Effect of evinacumab on lipid parameters in patients with HoFH in study ELIPSE-HoFH
 
-|                                  | Baseline (mean), mmol/l (N = 65)   | LS mean percent change or change from baseline at Week 24   | LS mean percent change or change from baseline at Week 24   | Difference from placebo   | P-value    |
+|                                  | Baseline (mean), mmol/l (N = 65)   | LS mean percent change or change from baseline at week 24   | LS mean percent change or change from baseline at week 24   | Difference from placebo   | P-value    |
 |----------------------------------|------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|---------------------------|------------|
 |                                  |                                    | evinacumab (N = 43)                                         | placebo (N = 22)                                            | (95% CI)                  |            |
 | LDL-C (percent change)           | 6.6                                | -47.1%                                                      | +1.9%                                                       | -49% (-65.0 to -33.1)     | < 0.0001   |
@@ -253,41 +251,37 @@ Table 2: Effect of evinacumab on lipid parameters in patients with HoFH in study
 | TG                               | 1.4                                | -55.0%                                                      | -4.6%                                                       | -50.4% (-65.6 to -35.2)   | < 0.0001 a |
 | HDL-C b                          | 1.2                                | -29.6%                                                      | +0.8%                                                       | -                         | -          |
 
-a nominal p-value since TG is not a key secondary endpoint
+a nominal p-value since TG is not a key secondary endpoint b Mean percent change at week 24 results are presented based on the actual treatment received in safety population (evinacumab, n=44; placebo, n=20); there is no formal statistical testing in safety population
 
-b Mean percent change at Week 24 results are presented based on the actual treatment received in safety population (evinacumab, n=44; placebo, n=20); there is no formal statistical testing in safety population
-
-After the double-blind treatment period, 64 of the 65 randomised patients who entered the open-label treatment period received evinacumab. The mean percent change in LDL-C from baseline to Week 48 ranged from -42.7% to -55.8%. Figure 1 shows the LDL-C mean percent change from baseline for the double-blind and observed mean percent change for the open-label treatment periods across patients who were on evinacumab or placebo during the double-blind treatment period.
+After the double-blind treatment period, 64 of the 65 randomised patients who entered the open-label treatment period received evinacumab. The mean percent change in LDL-C from baseline to week 48 ranged from -42.7% to -55.8%. Figure 1 shows the LDL-C mean percent change from baseline for the double-blind and observed mean percent change for the open-label treatment periods across patients who were on evinacumab or placebo during the double-blind treatment period.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1: Calculated LDL-C LS mean percent change from baseline over time through Week 24, and observed mean percent change from Week 28 through Week 48 in study ELIPSE-HoFH
+Figure 1: Calculated LDL-C LS mean percent change from baseline over time through week 24, and observed mean percent change from week 28 through week 48 in study ELIPSE-HoFH
+
+At week 24, the observed reduction in LDL-C with evinacumab was similar across predefined subgroups, including age, gender, null/null or negative/negative variants, concomitant treatment with lipoprotein apheresis, and concomitant background lipid-lowering medicinal products (statins, ezetimibe, PCSK9 inhibitor antibodies, and lomitapide). The effect of evinacumab on cardiovascular morbidity and mortality has not been determined.
 
 <!-- image -->
 
-At Week 24, the observed reduction in LDL-C with evinacumab was similar across predefined subgroups, including age, sex, null/null or negative/negative variants, concomitant treatment with lipoprotein apheresis, and concomitant background lipid-lowering medications (statins, ezetimibe, PCSK9 inhibitor antibodies, and lomitapide). The effect of evinacumab on cardiovascular morbidity and mortality has not been determined.
+## Study ELIPSE -OLE
 
-## Study ELIPSE-OLE
-
-This was a multicentre, open-label extension study in 116 patients with HoFH. Data available from 86 patients at 24 weeks showed a 43.6% decrease in LDL-C following evinacumab treatment 15 mg/kg IV every 4 weeks on top of other lipid-lowering therapies (e.g., statins, ezetimibe, PCSK9 inhibitor antibodies, lomitapide, and lipoprotein apheresis). Reductions from baseline in LDL-C were consistent at 48 and 96 weeks; the mean percent change from baseline in calculated LDL-C at 48 weeks (n=95) was -43.9% and at 96 weeks (n=63) was -37.2%. Patients regardless of mutation status were included in the trial, including patients with null/null or negative/negative variants.
+This was a multicentre, open-label extension study in 116 patients with HoFH. Data available from 86 patients at 24 weeks showed a 43.6% decrease in LDL-C following evinacumab treatment 15 mg/kg for intravenous use every 4 weeks on top of other lipid-lowering therapies (e.g. statins, ezetimibe, PCSK9 inhibitor antibodies, lomitapide, and lipoprotein apheresis). Reductions from baseline in LDLC were consistent at 48 and 96 weeks; the mean percent change from baseline in calculated LDL-C at 48 weeks (n=95) was -43.9% and at 96 weeks (n=63) was -37.2%. Patients regardless of mutation status were included in the trial, including patients with null/null or negative/negative variants.
 
 ## Paediatric population
 
-## ELIPSE-HoFH
+## ELIPSE -HoFH
 
-In ELIPSE-HoFH, 1 adolescent patient received 15 mg/kg IV of evinacumab every 4 weeks and 1 adolescent patient received placebo, as an adjunct to other lipid-lowering therapies (e.g., statins, ezetimibe, PCSK9 inhibitor antibodies and lipoprotein apheresis). Both adolescent patients had
+In ELIPSE-HoFH, 1 adolescent patient received 15 mg/kg of evinacumab for intravenous use every 4 weeks and 1 adolescent patient received placebo, as an adjunct to other lipid-lowering therapies (e.g. statins, ezetimibe, PCSK9 inhibitor antibodies and lipoprotein apheresis). Both adolescent patients had null/null variants in the LDLR. At week 24, the percent change in LDL-C with evinacumab was - 73.3% and with placebo +60%.
 
 <div style=\"page-break-after: always\"></div>
 
-null/null variants in the LDLR. At Week 24, the percent change in LDL-C with evinacumab was - 73.3% and with placebo +60%.
+## ELIPSE -OLE
 
-## ELIPSE-OLE
+In ELIPSE-OLE, 14 adolescent patients received 15 mg/kg of evinacumab intravenously every 4 weeks as an adjunct to other lipid-lowering therapies (e.g. statins, ezetimibe, PCSK9 inhibitor antibodies and lipoprotein apheresis). Two patients entered after completing the ELIPSE-HoFH study and 12 patients were evinacumab-naïve. The mean baseline LDL-C in these adolescent patients was 300.4 mg/dl (7.88 mmol). The mean age was 14.4 years (range: 12 to 17 years), with 64.3% males and 35.7% females. At baseline, all patients were on a statin, 71.4% on ezetimibe, 42.9% on PCSK9 inhibitor, and 64.3% were receiving lipoprotein apheresis. Four (28.6%) patients had null/null variants and 4 (28.6%) patients had negative/negative variants for LDLR mutations. At week 24, the percent change in LDL-C with evinacumab was -55.4% (n=12).
 
-In ELIPSE-OLE, 14 adolescent patients received 15 mg/kg IV of evinacumab every 4 weeks as an adjunct to other lipid-lowering therapies (e.g., statins, ezetimibe, PCSK9 inhibitor antibodies and lipoprotein apheresis). Two patients entered after completing the ELIPSE-HoFH study and 12 patients were evinacumab-naïve. The mean baseline LDL-C in these adolescent patients was 300.4 mg/dl (7.88 mmol). The mean age was 14.4 years (range: 12 to 17 years), with 64.3% males and 35.7% females. At baseline, all patients were on a statin, 71.4% on ezetimibe, 42.9% on PCSK9 inhibitor, and 64.3% were receiving lipoprotein apheresis. Four (28.6%) patients had null/null variants and 4 (28.6%) patients had negative/negative variants for LDLR mutations. At Week 24, the percent change in LDL-C with evinacumab was -55.4% (n=12).
+## Study R1500 -CL -17100
 
-## Study R1500-CL-17100
-
-This was a multicenter, three-part, single-arm, open-label study evaluating the efficacy, safety, and tolerability of evinacumab in paediatric patients aged ≥ 5 to 11 years with HoFH. The study included three parts: Part A, Part B, and Part C. Part A was a single-dose, open-label study to assess the safety, PK, and PD of evinacumab 15 mg/kg IV in 6 patients with HoFH followed by a 16-week observational period to determine the dose for the rest of the study. Part B was a single-arm, 24-week, open-label treatment period evaluating the efficacy and safety of evinacumab 15 mg/kg IV every 4 weeks in 14 patients with HoFH. Part C was an extension study from Part A and Part B evaluating the long-term safety of evinacumab 15 mg/kg IV every 4 weeks in 20 patients with HoFH. It consists of a 48-week treatment period and a 24-week follow-up period (ongoing). Patients in Part C entered directly from Part A or Part B.
+This was a multicenter, three-part, single-arm, open-label study evaluating the efficacy, safety, and tolerability of evinacumab in paediatric patients aged ≥ 5 to 11 years with HoFH. The study included three parts: Part A, Part B, and Part C. Part A was a single-dose, open-label study to assess the safety, PK, and PD of evinacumab 15 mg/kg administered intravenously in 6 patients with HoFH followed by a 16-week observational period to determine the dose for the rest of the study. Part B was a singlearm, 24-week, open-label treatment period evaluating the efficacy and safety of evinacumab 15 mg/kg administered intravenously every 4 weeks in 14 patients with HoFH. Part C was an extension study from Part A and Part B evaluating the long-term safety of evinacumab 15 mg/kg administered intravenously every 4 weeks in 20 patients with HoFH. It consists of a 48-week treatment period and a 24-week follow-up period (ongoing). Patients in Part C entered directly from Part A or Part B.
 
 Patients were on any combination of lipid-lowering therapies, including maximally tolerated statins, ezetimibe, lomitapide, and lipoprotein apheresis.
 
@@ -297,7 +291,7 @@ Overall, for patients in Part A and Part B, the mean LDL-C at baseline was 7.8 m
 
 The mean age at baseline was 9.0 years (range ≥ 5 to &lt; 12); 40% males and 60% females; 70% White, 5% Black, 10% Asian, 5% American Indian or Alaska Native, and 10% Other. Mean body weight was 37.9 kg, and body mass index (BMI) was 18.8 kg/m 2 .
 
-In Part B, the primary efficacy endpoint was percent change in calculated LDL-C from baseline to week 24. At week 24, the mean percent change in calculated LDLC from baseline was -48.3% (95% confidence interval: -68.8% to -27.8%). For efficacy results, se e Table 3.
+In Part B, the primary efficacy endpoint was percent change in calculated LDL-C from baseline to week 24. At week 24, the mean percent change in calculated LDLC from baseline was -48.3% (95% confidence interval: -68.8% to -27.8%). For efficacy results, see Table 3.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -308,15 +302,15 @@ Table 3: Lipid parameters in paediatric patients (≥ 5 to 11 years) with HoFH o
 | Baseline (mean) (N = 14)              | 6.8 mmol/l (263.7 mg/dl) | 168.2 mg/dl (1.682 g/l) | 7.3 mmol/l (282.2 mg/dl) | 8.1 mmol/l (315.5 mg/dl) | 158.6 nmol/L           |
 | Percent change from baseline (95% CI) | -48.3 (-68.8 to -27.8)   | -41.3 (-58.9 to -23.8)  | -48.9 (-68.1 to -29.7)   | -49.1 (-64.9 to -33.2)   | -37.3 (-42.2 to -32.3) |
 
-At week 24, the reduction in LDL-C with evinacumab was similar across baseline characteristics, including age, sex, limited LDL-R activity, concomitant treatment with lipoprotein apheresis, and concomitant background lipid-lowering medications (statins, ezetimibe, and lomitapide).
+At week 24, the reduction in LDL-C with evinacumab was similar across baseline characteristics, including age, gender, limited LDL-R activity, concomitant treatment with lipoprotein apheresis, and concomitant background lipid-lowering medicinal products (statins, ezetimibe, and lomitapide).
 
-## Other investigations
+## Other investigation s
 
 The efficacy of evinacumab for paediatric patients aged 6 months to less than 5 years has been predicted based on integrated PK/PD modelling and simulations (see section 5.2). Paediatric patients aged 6 months to less than 5 years receiving evinacumab 15 mg/kg every 4 weeks are predicted to experience a similar or higher magnitude of percent change in LDL-C at week 24 compared to adults while plateauing at higher absolute LDL-C concentrations at week 24.
 
 In addition, data are available for 5 patients aged ≥1 to 5 years old  with HoFH who received evinacumab via compassionate use. The prescribed dose was 15 mg/kg evinacumab every 4 weeks, the same as that used in older children and adults. Administration of evinacumab showed a clinically meaningful reduction of LDLC consistent with that observed in patients ≥ 5 years old in clinical studies. The benefits included a reduction in LDL-C of 37.1% at week 90 in one of the patients in whom plasmapheresis frequency was reduced during the treatment period, and reductions of 43.1% at week 72, 66.3% at week 62, 77.3% at week 16, and 75.0% at week 12 respectively in the other patients. Xanthomas completely resolved in the patient in whom plasmapheresis frequency was reduced, after approximately 1 year of treatment with evinacumab.
 
-This medicine has been authorised under 'exceptional circumstances'. This means that due to the rarity of the disease it has not been possible to obtain complete information on this medicinal product. The European Medicines Agency will review any new information which may become available every year and this SmPC will be updated as necessary.
+This medicinal product has been authorised under 'exceptional circumstances'. This means that due to the rarity of the disease it has not been possible to obtain complete information on this medicinal product. The European Medicines Agency will review any new information which may become available every year and this SmPC will be updated as necessary.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -338,11 +332,11 @@ Specific metabolism studies were not conducted because evinacumab is a protein. 
 
 Evinacumab elimination is mediated by parallel linear and nonlinear pathways. At higher concentrations, evinacumab elimination is primarily through a non-saturable proteolytic pathway, while at lower concentrations, the non-linear saturable ANGPTL3 target-mediated elimination predominates. Elimination half-life is a function of evinacumab concentrations in serum and is not a constant.
 
-After the last steady-state dose of 15 mg/kg IV every 4 weeks, the median time for evinacumab concentrations to decrease below the lower limit of detection (78 ng/ml) is approximately 21 weeks.
+After the last steady-state dose of 15 mg/kg administered intravenously every 4 weeks, the median time for evinacumab concentrations to decrease below the lower limit of detection (78 ng/ml) is approximately 21 weeks.
 
 ## Linearity/non-linearity
 
-Due to nonlinear clearance, a slightly greater than dose proportional increase was observed, with a 4.3- fold increase in area under the concentration-time curve at steady-state (AUCtau.ss) for a 3-fold increase in dose from 5 mg/kg to 15 mg/kg IV every 4 weeks.
+Due to nonlinear clearance, a slightly greater than dose proportional increase was observed, with a 4.3- fold increase in area under the concentration-time curve at steady-state (AUCtau.ss) for a 3-fold increase in dose from 5 mg/kg to 15 mg/kgadministered intravenously every 4 weeks.
 
 ## Pharmacokinetic/pharmacodynamic relationship(s)
 
@@ -354,15 +348,15 @@ A population PK analysis conducted on data from 183 healthy adult participants a
 
 ## Paediatric population
 
-There were 14 patients aged 12 to 17 years with HoFH receiving evinacumab at 15 mg/kg IV every 4 weeks, steady-state trough and maximum concentrations were generally within the range of those in adult patients. The mean steady-state Cmax was 566 ± 206 mg/l in patients aged 12 to &lt; 18 years with HoFH.
+There were 14 patients aged 12 to 17 years with HoFH receiving evinacumab at 15 mg/kg administered intravenously every 4 weeks, steady-state trough and maximum concentrations were generally within the range of those in adult patients. The mean steady-state Cmax was 566 ± 206 mg/l in patients aged 12 to &lt; 18 years with HoFH.
 
-For the 20 patients aged 5 to 11 years with HoFH receiving evinacumab at 15 mg/kg IV every 4 weeks, the mean (SD) steady-state trough evinacumab concentration based on population PK analyses was 160 ± 57.6 mg/l and the mean (SD) steady-state Cmax was 419 ± 99.4 mg/l in patients aged 5 to 11 years with HoFH.
+For the 20 patients aged 5 to 11 years with HoFH receiving evinacumab at 15 mg/kg administered intravenously every 4 weeks, the mean (SD) steady-state trough evinacumab concentration based on population PK analyses was 160 ± 57.6 mg/l and the mean (SD) steady-state Cmax was 419 ± 99.4 mg/l in patients aged 5 to 11 years with HoFH.
 
 The pharmacokinetics of evinacumab in paediatric patients less than 5 years of age with HoFH were predicted from a model-based extrapolation analysis. This analysis used population PK modelling and simulations based on previously observed data in older children, adolescents, and adults, together with assumptions on the biological development and pathophysiological circumstances in younger children with HoFH. The predicted mean steady-state trough concentrations and mean accumulation ratios in patients 6 months to less than 5 years were lower but within the ranges predicted for patients aged 5 years and older. The predicted mean steady-state maximum concentration was 499±185 mg/L for patients aged 6 months to less than 2 years and 513±179 mg/L for patients aged 2 to less than 5 years.
 
-## Renal impairment
-
 <div style=\"page-break-after: always\"></div>
+
+## Renal impairment
 
 Evinacumab is not expected to undergo significant renal elimination. Observed trough concentrations at steady-state were comparable between patients with mild or moderate renal impairment and patients with normal renal function. No data are available in patients with severe renal impairment.
 
@@ -398,9 +392,9 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## Unopened vial
 
-4 years
-
 <div style=\"page-break-after: always\"></div>
+
+## 4 years
 
 ## After dilution
 
@@ -418,13 +412,7 @@ or
 
 ## Unopened vial
 
-Store in a refrigerator (2 ºC - 8 ºC).
-
-Store in the original carton to protect from light.
-
-Do not freeze.
-
-Do not shake.
+Store in a refrigerator (2 ºC - 8 ºC). Store in the original carton to protect from light. Do not freeze. Do not shake.
 
 For storage conditions after dilution of the medicinal product, see section 6.3.
 
@@ -446,12 +434,12 @@ Evkeeza is supplied as a single use vial only. During preparation and reconstitu
 - Discard the vial if the solution is cloudy or discoloured or contains particulate matter.
 - Do not shake the vial.
 - Withdraw the required volume of evinacumab from the vial(s) based on patient's body weight and transfer into an intravenous infusion bag containing sodium chloride 9 mg/ml (0.9%) or dextrose 50 mg/ml (5%) for infusion. Mix the diluted solution by gentle inversion.
-- For patients weighing 45 kg and above, the IV infusion bag should contain a maximum volume of 250 ml of 9 mg/ml (0.9%) sodium chloride, or 50 mg/ml (5%) dextrose.
-- For patients weighing between 26 kg and 44 kg, the IV infusion bag should contain a maximum volume of 150 ml of 9 mg/ml (0.9%) sodium chloride, or 50 mg/ml (5%) dextrose.
+- For patients weighing 45 kg and above, the intravenous infusion bag should contain a maximum volume of 250 ml of 9 mg/ml (0.9%) sodium chloride, or 50 mg/ml (5%) dextrose.
 
 <div style=\"page-break-after: always\"></div>
 
-- For patients weighing between 3 kg and 25 kg, the IV infusion bag should contain a maximum volume of 5 ml/kg.  The corresponding volume for patients weighing between 3 kg and 25 kg should range from 15 ml to 125 ml of 9 mg/ml (0.9%) sodium chloride, or 50 mg/ml (5%) dextrose administered at a maximum rate of 5 ml/kg/hour.
+- For patients weighing between 26 kg and 44 kg, the intravenous  infusion bag should contain a maximum volume of 150 ml of 9 mg/ml (0.9%) sodium chloride, or 50 mg/ml (5%) dextrose.
+- For patients weighing between 3 kg and 25 kg, the intravenous infusion bag should contain a maximum volume of 5 ml/kg.  The corresponding volume for patients weighing between 3 kg and 25 kg should range from 15 ml to 125 ml of 9 mg/ml (0.9%) sodium chloride, or 50 mg/ml (5%) dextrose administered at a maximum rate of 5 ml/kg/hour.
 - Do not freeze or shake the solution.
 - Discard any unused portion left in the vial.
 
@@ -467,17 +455,17 @@ EU/1/21/1551/001 EU/1/21/1551/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 17 June 2021
+Date of first authorisation: 17 June 2021 Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
@@ -485,13 +473,13 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer(s) of the biological active substance(s)
+Name and address of the manufacturer of the biological active substance
 
 Regeneron Pharmaceuticals, Inc. 81 Columbia Turnpike Rensselaer, NY 12144 United States
 
-Name and address of the manufacturer(s) responsible for batch release
+Name and address of the manufacturer responsible for batch release
 
 Ultragenyx Netherlands B. V. Evert van de Beekstraat 1, Unit 104 1118 CL Schiphol Netherlands
 
@@ -504,8 +492,6 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 ## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicine's web-portal.
-
-The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -520,9 +506,9 @@ An updated RMP should be submitted:
 
 ## E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE MARKETING AUTHORISATION UNDER EXCEPTIONAL CIRCUMSTANCES
 
-<div style=\"page-break-after: always\"></div>
-
 This being an approval under exceptional circumstances and pursuant to Article 14(8) of Regulation (EC) No 726/2004, the MAH shall conduct, within the stated timeframe, the following measures:
+
+<div style=\"page-break-after: always\"></div>
 
 | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Due date                                                             |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
@@ -538,13 +524,15 @@ This being an approval under exceptional circumstances and pursuant to Article 1
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING OUTER CARTON
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 Evkeeza 150 mg/ml concentrate for solution for infusion evinacumab
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 Each ml of concentrate for solution for infusion contains 150 mg of evinacumab.
 
@@ -554,11 +542,11 @@ One vial of 8 ml of concentrate contains 1 200 mg of evinacumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: proline, arginine hydrochloride, histidine, histidine hydrochloride monohydrate, polysorbate 80 and water for injections.
+Excipients: proline, arginine hydrochloride, histidine, histidine hydrochloride monohydrate, polysorbate 80 and water for injections. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Concentrate for solution for infusion
+## Concentrate for solution for infusion
 
 345 mg/2.3 ml
 
@@ -566,7 +554,7 @@ Concentrate for solution for infusion
 
 1 vial
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Intravenous use.
 
@@ -586,17 +574,13 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator.
+<div style=\"page-break-after: always\"></div>
 
 Store in the original carton to protect from light.
 
-<div style=\"page-break-after: always\"></div>
+Store in a refrigerator. Do not freeze. Do not shake.
 
-Do not freeze.
-
-Do not shake.
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -610,7 +594,8 @@ EU/1/21/1551/001 EU/1/21/1551/002
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -629,12 +614,12 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| VIAL LABEL                                                       |
 
-VIAL LABEL
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|----------------------------------------------------------|
 
 Evkeeza 150 mg/ml sterile concentrate evinacumab IV
 
@@ -654,7 +639,9 @@ Lot
 | 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
 |------|---------------------------------------|
 
-345 mg/2.3 ml 1 200 mg/8 ml
+345 mg/2.3 ml
+
+1 200 mg/8 ml
 
 | 6.   | OTHER   |
 |------|---------|
@@ -708,9 +695,9 @@ Evinacumab, the active substance in Evkeeza, attaches to a protein in the body c
 
 ## 2. What you need to know before you are given Evkeeza
 
-## You should not be given Evkeeza if:
+## You should not be given Evkeeza
 
-- you are allergic to evinacumab or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to evinacumab or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -741,8 +728,8 @@ If you are pregnant, think you may be pregnant or are planning to have a baby, a
 
 If you are able to become pregnant, you should use effective contraception to avoid becoming pregnant.
 
-- use effective contraception while you are being treated with Evkeeza and
-- use effective contraception for at least 5 months after the last dose of Evkeeza.
+- Use effective contraception while you are being treated with Evkeeza and
+- Use effective contraception for at least 5 months after the last dose of Evkeeza.
 
 Talk to your doctor about the best contraception method for you during this time.
 
@@ -761,7 +748,7 @@ This medicine contains 30 mg of proline in each ml. Proline may be harmful for p
 
 ## Evkeeza contains polysorbate 80
 
-This medicine contains 1 mg of polysorbate 80 in each ml.  Polysorbates may cause allergic reactions. Tell your doctor if you (or your child) have any known allergies.
+This medicine contains 1 mg of polysorbate 80 in each ml. Polysorbates may cause allergic reactions. Tell your doctor if you (or your child) have any known allergies.
 
 ## 3. How Evkeeza is given
 
@@ -774,7 +761,7 @@ Your doctor will work out how much of the medicine to give you. The amount will 
 
 ## How Evkeeza is given
 
-Evkeeza is usually given by a doctor or nurse. It is given as a drip into a vein ('intravenous infusion') over 60 minutes.
+Evkeeza is usually given by a doctor or nurse. It is given as a drip into a vein ('intravenous infusion (IV)') over 60 minutes.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -790,7 +777,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Serious side effects
 
-Severe allergic reactions (uncommon: may affect up to 1 in 100 people)
+## Severe allergic reactions (uncommon: may affect up to 1 in 100 people)
 
 Tell your doctor or nurse immediately if you get any of the following symptoms of a severe allergic reaction (anaphylactic reaction). The drip will be stopped immediately and you may need to take other medicines to control the reaction:
 
@@ -804,14 +791,14 @@ Tell your doctor or nurse immediately if you get any of the following symptoms o
 
 Tell your doctor or nurse if you notice any of the following side effects:
 
-Very common (may affect more than 1 in 10 people)
+## Very common (may affect more than 1 in 10 people)
 
-- symptoms of the common cold, such as runny nose (nasopharyngitis).
+- symptoms of the common cold, such as runny nose, sore throat, and coughing (nasopharyngitis).
 
 ## Common (may affect up to 1 in 10 people)
 
-- feeling dizzy
 - sore throat or sinus infection (upper respiratory tract infection)
+- feeling dizzy
 - feeling sick (nausea)
 - stomach pain
 - constipation
@@ -819,7 +806,7 @@ Very common (may affect more than 1 in 10 people)
 - pain in your hands or feet (pain in extremity)
 - symptoms of flu
 - feeling tired or weary (asthenia)
-- infusion reaction, such as itching where the drip is given.
+- infusion reaction, such as itching where the drip is given, flushing, rash or chills.
 
 ## Additional side effects in children aged 5 to 11 years
 
@@ -835,9 +822,9 @@ If you get any side effects, talk to your doctor or nurse. This includes any pos
 
 Keep this medicine out of the sight and reach of children.
 
-<div style=\"page-break-after: always\"></div>
-
 Do not use this medicine after the expiry date which is stated on the carton and vial after EXP. The expiry date refers to the last day of that month.
+
+<div style=\"page-break-after: always\"></div>
 
 Store in a refrigerator (2 ºC to 8 ºC).
 
@@ -847,26 +834,27 @@ Store in the original carton to protect from light.
 
 Do not use this medicine if you notice it is cloudy, discoloured or contains particulate matter.
 
-Do not store any unused portion of the infusion solution for re-use. Any unused portion of the infusion solution should not be re-used and should be disposed in accordance with local requirements.
+Do not store any unused portion of the infusion solution for reuse. Any unused portion of the infusion solution should not be reused and should be disposed in accordance with local requirements.
 
 ## 6. Contents of the pack and other information
 
 ## What Evkeeza contains
 
-- •
 - The active substance is evinacumab.
 
 Each 1 ml of concentrate for solution for infusion contains 150 mg of evinacumab.
 
 Each vial contains either 345 mg of evinacumab in 2.3 ml of concentrate or 1 200 mg of evinacumab in 8 ml of concentrate.
 
-- The other ingredients are proline, arginine hydrochloride, histidine hydrochloride monohydrate, polysorbate 80, histidine and water for injections.
+- The other ingredients are proline, arginine hydrochloride, histidine hydrochloride monohydrate, polysorbate 80, histidine and water for injections. See section 2 'Evkeeza contains proline' and 'Evkeeza contains polysorbate 80'.
 
 ## What Evkeeza looks like and contents of the pack
 
 Evkeeza concentrate for solution for infusion is a clear to slightly opalescent, colourless to pale yellow solution.
 
 It is available in packs containing either 1 glass vial of 2.3 ml of concentrate or 1 glass vial of 8 ml of concentrate.
+
+Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
@@ -884,31 +872,27 @@ For any information about this medicine, please contact the local representative
 
 Ultragenyx Germany GmbH, DE
 
-Tel/Tél/Teл./Tlf/Puh/Sími : + 49 30 20179810
+Tel/Tél/Teл./Tlf/Puh/Sími
 
 ## EL
 
-Medison Pharma Greece Single Member Societe Anonyme, EL
+Medison Pharma Greece Single Member Societe Anonyme, EL Τηλ : +30 210 0100 188
 
-Τηλ
-
-: +30 210 0100 188
-
-## FR
-
-Ultragenyx France SAS, FR
+: + 49 30 20179810
 
 <div style=\"page-break-after: always\"></div>
 
-## Tél: + 33 1 85 65 37 61 ou 0800 91 79 24 (numéro vert)
+## FR
 
-## This leaflet was last revised in &lt;month year&gt;.
+Ultragenyx France SAS, FR Tél: + 33 1 85 65 37 61 ou 0800 91 79 24 (numéro vert)
+
+## This leaflet was last revised in .
 
 This medicine has been authorised under 'exceptional circumstances'. This means that due to the rarity of the disease it has not been possible to obtain complete information on this medicinal product. The European Medicines Agency will review any new information which may become available every year and this leaflet will be updated as necessary.
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu/
+Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu/
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -928,9 +912,9 @@ Evkeeza is supplied as a single use vial only. During preparation and reconstitu
 - Discard the vial if the solution is cloudy or discoloured or contains particulate matter.
 - Do not shake the vial.
 - Withdraw the required volume of evinacumab from the vial(s) based on patient's body weight and transfer into an intravenous infusion bag containing sodium chloride 9 mg/ml (0.9%) or dextrose 50 mg/ml (5%) for infusion. Mix the diluted solution by gentle inversion.
-- For patients weighing 45 kg and above, the IV infusion bag should contain a maximum volume of 250 ml of 9 mg/ml (0.9%) sodium chloride, or 50 mg/ml (5%) dextrose.
-- For patients weighing between 26 kg and 44 kg, the IV infusion bag should contain a maximum volume of 150 ml of 9 mg/ml (0.9%) sodium chloride, or 50 mg/ml (5%) dextrose.
-- For patients weighing between 3 kg and 25 kg, the IV infusion bag should contain a maximum volume of 5 ml/kg.  The corresponding volume for patients weighing between 3 kg and 25 kg should range from 15 ml to 125 ml of 9 mg/ml (0.9%) sodium chloride, or 50 mg/ml (5%) dextrose administered at a maximum rate of 5 ml/kg/hour.
+- For patients weighing 45 kg and above, the intravenous infusion bag should contain a maximum volume of 250 ml of 9 mg/ml (0.9%) sodium chloride, or 50 mg/ml (5%) dextrose.
+- For patients weighing between 26 kg and 44 kg, the intravenous infusion bag should contain a maximum volume of 150 ml of 9 mg/ml (0.9%) sodium chloride, or 50 mg/ml (5%) dextrose.
+- For patients weighing between 3 kg and 25 kg, the intravenous infusion bag should contain a maximum volume of 5 ml/kg.  The corresponding volume for patients weighing between 3 kg and 25 kg should range from 15 ml to 125 ml of 9 mg/ml (0.9%) sodium chloride, or 50 mg/ml (5%) dextrose administered at a maximum rate of 5 ml/kg/hour.
 - Do not freeze or shake the solution.
 - Discard any unused portion left in the vial.
 
@@ -940,11 +924,11 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Once prepared, administer the diluted solution immediately. If the diluted solution is not administered immediately, it may be stored temporarily either:
 
+<div style=\"page-break-after: always\"></div>
+
 - under refrigeration at 2 ºC to 8 ºC for no more than 24 hours from the time of infusion preparation to the end of the infusion
 
 or
-
-<div style=\"page-break-after: always\"></div>
 
 - at room temperature up to 25 ºC for no more than 6 hours from the time of infusion preparation to the end of the infusion.
 

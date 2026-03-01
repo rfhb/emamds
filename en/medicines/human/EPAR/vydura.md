@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 09:36:49
+document_datetime: 2026-02-26 11:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vydura.html
 document_name: vydura.html
 version: success
-processing_time: 0.1086718
-conversion_datetime: 2025-12-30 02:03:20.116345
+processing_time: 0.0908611
+conversion_datetime: 2026-03-01 20:27:04.884224
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Vydura
 
 [RSS](/en/individual-human-medicine.xml/67560)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 rimegepant Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -38,6 +36,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Vydura](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-83747)
 - [More information on Vydura](#related-medicines)
 
 - Application under evaluation
@@ -108,7 +107,7 @@ English (EN) (119.23 KB - PDF)
 
 [View](/en/documents/overview/vydura-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-881)
+[Other languages (22)](#file-language-dropdown-268)
 
 български (BG) (142.85 KB - PDF)
 
@@ -298,17 +297,17 @@ English (EN) (65.81 KB - PDF)
 
 Vydura : EPAR - Product Information
 
-English (EN) (483.54 KB - PDF)
+English (EN) (956.7 KB - PDF)
 
 **First published:** 11/05/2022
 
-**Last updated:** 14/04/2025
+**Last updated:** 26/02/2026
 
 [View](/en/documents/product-information/vydura-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-454)
+[Other languages (24)](#file-language-dropdown-996)
 
-български (BG) (397.91 KB - PDF)
+български (BG) (553.98 KB - PDF)
 
 **First published:**
 
@@ -316,11 +315,11 @@ English (EN) (483.54 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/bg/documents/product-information/vydura-epar-product-information_bg.pdf)
 
-español (ES) (351.4 KB - PDF)
+español (ES) (414.08 KB - PDF)
 
 **First published:**
 
@@ -328,11 +327,11 @@ español (ES) (351.4 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/es/documents/product-information/vydura-epar-product-information_es.pdf)
 
-čeština (CS) (377.54 KB - PDF)
+čeština (CS) (498.2 KB - PDF)
 
 **First published:**
 
@@ -340,11 +339,11 @@ español (ES) (351.4 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/cs/documents/product-information/vydura-epar-product-information_cs.pdf)
 
-dansk (DA) (360.44 KB - PDF)
+dansk (DA) (416.06 KB - PDF)
 
 **First published:**
 
@@ -352,11 +351,11 @@ dansk (DA) (360.44 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/da/documents/product-information/vydura-epar-product-information_da.pdf)
 
-Deutsch (DE) (377.53 KB - PDF)
+Deutsch (DE) (422.69 KB - PDF)
 
 **First published:**
 
@@ -364,11 +363,11 @@ Deutsch (DE) (377.53 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/de/documents/product-information/vydura-epar-product-information_de.pdf)
 
-eesti keel (ET) (339.03 KB - PDF)
+eesti keel (ET) (426.63 KB - PDF)
 
 **First published:**
 
@@ -376,11 +375,11 @@ eesti keel (ET) (339.03 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/et/documents/product-information/vydura-epar-product-information_et.pdf)
 
-ελληνικά (EL) (367.08 KB - PDF)
+ελληνικά (EL) (516.87 KB - PDF)
 
 **First published:**
 
@@ -388,11 +387,11 @@ eesti keel (ET) (339.03 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/el/documents/product-information/vydura-epar-product-information_el.pdf)
 
-français (FR) (357.29 KB - PDF)
+français (FR) (507.02 KB - PDF)
 
 **First published:**
 
@@ -400,11 +399,11 @@ français (FR) (357.29 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/fr/documents/product-information/vydura-epar-product-information_fr.pdf)
 
-hrvatski (HR) (360.49 KB - PDF)
+hrvatski (HR) (503.91 KB - PDF)
 
 **First published:**
 
@@ -412,11 +411,11 @@ hrvatski (HR) (360.49 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/hr/documents/product-information/vydura-epar-product-information_hr.pdf)
 
-íslenska (IS) (359.78 KB - PDF)
+íslenska (IS) (403.34 KB - PDF)
 
 **First published:**
 
@@ -424,11 +423,11 @@ hrvatski (HR) (360.49 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/is/documents/product-information/vydura-epar-product-information_is.pdf)
 
-italiano (IT) (346.29 KB - PDF)
+italiano (IT) (451.28 KB - PDF)
 
 **First published:**
 
@@ -436,11 +435,11 @@ italiano (IT) (346.29 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/it/documents/product-information/vydura-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (363.18 KB - PDF)
+latviešu valoda (LV) (505.57 KB - PDF)
 
 **First published:**
 
@@ -448,11 +447,11 @@ latviešu valoda (LV) (363.18 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/lv/documents/product-information/vydura-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (346.35 KB - PDF)
+lietuvių kalba (LT) (501.67 KB - PDF)
 
 **First published:**
 
@@ -460,11 +459,11 @@ lietuvių kalba (LT) (346.35 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/lt/documents/product-information/vydura-epar-product-information_lt.pdf)
 
-magyar (HU) (365.32 KB - PDF)
+magyar (HU) (490.86 KB - PDF)
 
 **First published:**
 
@@ -472,11 +471,11 @@ magyar (HU) (365.32 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/hu/documents/product-information/vydura-epar-product-information_hu.pdf)
 
-Malti (MT) (387.9 KB - PDF)
+Malti (MT) (530.04 KB - PDF)
 
 **First published:**
 
@@ -484,11 +483,11 @@ Malti (MT) (387.9 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/mt/documents/product-information/vydura-epar-product-information_mt.pdf)
 
-Nederlands (NL) (426.14 KB - PDF)
+Nederlands (NL) (392.44 KB - PDF)
 
 **First published:**
 
@@ -496,11 +495,11 @@ Nederlands (NL) (426.14 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/nl/documents/product-information/vydura-epar-product-information_nl.pdf)
 
-norsk (NO) (352.59 KB - PDF)
+norsk (NO) (435.3 KB - PDF)
 
 **First published:**
 
@@ -508,11 +507,11 @@ norsk (NO) (352.59 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/no/documents/product-information/vydura-epar-product-information_no.pdf)
 
-polski (PL) (378.62 KB - PDF)
+polski (PL) (530.05 KB - PDF)
 
 **First published:**
 
@@ -520,11 +519,11 @@ polski (PL) (378.62 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/pl/documents/product-information/vydura-epar-product-information_pl.pdf)
 
-português (PT) (366.35 KB - PDF)
+português (PT) (425.68 KB - PDF)
 
 **First published:**
 
@@ -532,11 +531,11 @@ português (PT) (366.35 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/pt/documents/product-information/vydura-epar-product-information_pt.pdf)
 
-română (RO) (358.27 KB - PDF)
+română (RO) (501.95 KB - PDF)
 
 **First published:**
 
@@ -544,11 +543,11 @@ română (RO) (358.27 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/ro/documents/product-information/vydura-epar-product-information_ro.pdf)
 
-slovenčina (SK) (368.48 KB - PDF)
+slovenčina (SK) (540.35 KB - PDF)
 
 **First published:**
 
@@ -556,11 +555,11 @@ slovenčina (SK) (368.48 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/sk/documents/product-information/vydura-epar-product-information_sk.pdf)
 
-slovenščina (SL) (363.83 KB - PDF)
+slovenščina (SL) (515.11 KB - PDF)
 
 **First published:**
 
@@ -568,11 +567,11 @@ slovenščina (SL) (363.83 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/sl/documents/product-information/vydura-epar-product-information_sl.pdf)
 
-Suomi (FI) (337.88 KB - PDF)
+Suomi (FI) (437.01 KB - PDF)
 
 **First published:**
 
@@ -580,11 +579,11 @@ Suomi (FI) (337.88 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/fi/documents/product-information/vydura-epar-product-information_fi.pdf)
 
-svenska (SV) (337.92 KB - PDF)
+svenska (SV) (404.29 KB - PDF)
 
 **First published:**
 
@@ -592,11 +591,11 @@ svenska (SV) (337.92 KB - PDF)
 
 **Last updated:**
 
-14/04/2025
+26/02/2026
 
 [View](/sv/documents/product-information/vydura-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000254589 11/04/2025
+**Latest procedure affecting product information:** VR/0000308125 15/01/2026
 
 icon globe
 
@@ -622,7 +621,7 @@ English (EN) (24.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vydura-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-829)
+[Other languages (24)](#file-language-dropdown-886)
 
 български (BG) (26.98 KB - PDF)
 
@@ -941,7 +940,7 @@ Pfizer Europe MA EEIG
 
 Boulevard de la Plaine 17
 
-Opinion adopted 24/02/2022 Marketing authorisation issued 25/04/2022 Revision 7
+Opinion adopted 24/02/2022 Marketing authorisation issued 25/04/2022 Revision 8
 
 ## Assessment history
 
@@ -953,9 +952,11 @@ Collapse section
 
 Vydura : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (144.43 KB - PDF)
+English (EN) (138.63 KB - PDF)
 
 **First published:** 14/04/2025
+
+**Last updated:** 26/02/2026
 
 [View](/en/documents/procedural-steps-after/vydura-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -995,17 +996,223 @@ English (EN) (136.61 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-vydura_en.pdf)
 
-#### News on Vydura
+## News on Vydura
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 February 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-february-2022) 25/02/2022
 
-#### More information on Vydura
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Vydura : EPAR - Product information - tracked changes
+
+English (EN) (391.55 KB - DOCX)
+
+**First published:** 26/02/2026
+
+[View](/en/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-298)
+
+български (BG) (460.47 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/bg/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (455.34 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/es/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (435.66 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/cs/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (458.37 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/da/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (444.92 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/de/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (452.59 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/et/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (478.82 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/el/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (275.41 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/fr/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (441.75 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/hr/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (430.28 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/is/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (473.14 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/it/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (433.84 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/lv/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (467.18 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/lt/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (440.77 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/hu/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (412.36 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/mt/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (268.12 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/nl/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (445.98 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/no/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (409.74 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/pl/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (493.63 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/pt/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (426.43 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/ro/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (447.8 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/sk/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (415.68 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/sl/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (462.69 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/fi/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (461.85 KB - DOCX)
+
+**First published:**
+
+26/02/2026
+
+[View](/sv/documents/product-information-tracked-changes/vydura-epar-product-information-tracked-changes_sv.docx)
+
+## More information on Vydura
 
 - [EMEA-002812-PIP02-20-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002812-pip02-20-m03)
 - [Post-authorisation Safety Study of Rimegepant in Patients with Migraine and History of Cardiovascular Disease in European Countries - post-authorisation study](https://catalogues.ema.europa.eu/study/104168)
 - [Retrospective Cohort Study of Pregnancy Outcomes in Women Exposed to Rimegepant During Pregnancy - post-authorisation study](https://catalogues.ema.europa.eu/study/45953)
 
-**This page was last updated on** 14/04/2025
+**This page was last updated on** 26/02/2026
 
 ## Share this page
 

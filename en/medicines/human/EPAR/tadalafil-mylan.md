@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 13:37:30
+document_datetime: 2026-02-25 15:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tadalafil-mylan.html
 document_name: tadalafil-mylan.html
 version: success
-processing_time: 0.1488186
-conversion_datetime: 2025-12-30 22:50:09.883439
+processing_time: 0.1196023
+conversion_datetime: 2026-03-01 19:29:10.422351
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Tadalafil Mylan
 
 [RSS](/en/individual-human-medicine.xml/65882)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 tadalafil Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +110,7 @@ English (EN) (92.82 KB - PDF)
 
 [View](/en/documents/overview/tadalafil-mylan-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-396)
+[Other languages (22)](#file-language-dropdown-227)
 
 български (BG) (120.25 KB - PDF)
 
@@ -392,17 +390,17 @@ English (EN) (101.67 KB - PDF)
 
 Tadalafil Mylan : EPAR - Product Information
 
-English (EN) (390.58 KB - PDF)
+English (EN) (542.07 KB - PDF)
 
 **First published:** 19/12/2014
 
-**Last updated:** 24/01/2025
+**Last updated:** 25/02/2026
 
 [View](/en/documents/product-information/tadalafil-mylan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-50)
+[Other languages (24)](#file-language-dropdown-557)
 
-български (BG) (933.88 KB - PDF)
+български (BG) (858.24 KB - PDF)
 
 **First published:**
 
@@ -410,11 +408,11 @@ English (EN) (390.58 KB - PDF)
 
 **Last updated:**
 
-24/01/2025
+25/02/2026
 
 [View](/bg/documents/product-information/tadalafil-mylan-epar-product-information_bg.pdf)
 
-español (ES) (602.67 KB - PDF)
+español (ES) (719.59 KB - PDF)
 
 **First published:**
 
@@ -422,11 +420,11 @@ español (ES) (602.67 KB - PDF)
 
 **Last updated:**
 
-24/01/2025
+25/02/2026
 
 [View](/es/documents/product-information/tadalafil-mylan-epar-product-information_es.pdf)
 
-čeština (CS) (767.09 KB - PDF)
+čeština (CS) (683.62 KB - PDF)
 
 **First published:**
 
@@ -434,11 +432,11 @@ español (ES) (602.67 KB - PDF)
 
 **Last updated:**
 
-24/01/2025
+25/02/2026
 
 [View](/cs/documents/product-information/tadalafil-mylan-epar-product-information_cs.pdf)
 
-dansk (DA) (637.7 KB - PDF)
+dansk (DA) (520.67 KB - PDF)
 
 **First published:**
 
@@ -446,11 +444,11 @@ dansk (DA) (637.7 KB - PDF)
 
 **Last updated:**
 
-24/01/2025
+25/02/2026
 
 [View](/da/documents/product-information/tadalafil-mylan-epar-product-information_da.pdf)
 
-Deutsch (DE) (616.69 KB - PDF)
+Deutsch (DE) (601.88 KB - PDF)
 
 **First published:**
 
@@ -458,11 +456,11 @@ Deutsch (DE) (616.69 KB - PDF)
 
 **Last updated:**
 
-24/01/2025
+25/02/2026
 
 [View](/de/documents/product-information/tadalafil-mylan-epar-product-information_de.pdf)
 
-eesti keel (ET) (497.54 KB - PDF)
+eesti keel (ET) (512.07 KB - PDF)
 
 **First published:**
 
@@ -470,11 +468,11 @@ eesti keel (ET) (497.54 KB - PDF)
 
 **Last updated:**
 
-24/01/2025
+25/02/2026
 
 [View](/et/documents/product-information/tadalafil-mylan-epar-product-information_et.pdf)
 
-ελληνικά (EL) (683.65 KB - PDF)
+ελληνικά (EL) (685.28 KB - PDF)
 
 **First published:**
 
@@ -482,11 +480,11 @@ eesti keel (ET) (497.54 KB - PDF)
 
 **Last updated:**
 
-24/01/2025
+25/02/2026
 
 [View](/el/documents/product-information/tadalafil-mylan-epar-product-information_el.pdf)
 
-français (FR) (977.76 KB - PDF)
+français (FR) (1.1 MB - PDF)
 
 **First published:**
 
@@ -494,11 +492,11 @@ français (FR) (977.76 KB - PDF)
 
 **Last updated:**
 
-24/01/2025
+25/02/2026
 
 [View](/fr/documents/product-information/tadalafil-mylan-epar-product-information_fr.pdf)
 
-hrvatski (HR) (828.87 KB - PDF)
+hrvatski (HR) (591.94 KB - PDF)
 
 **First published:**
 
@@ -506,11 +504,11 @@ hrvatski (HR) (828.87 KB - PDF)
 
 **Last updated:**
 
-24/01/2025
+25/02/2026
 
 [View](/hr/documents/product-information/tadalafil-mylan-epar-product-information_hr.pdf)
 
-íslenska (IS) (552.39 KB - PDF)
+íslenska (IS) (493.33 KB - PDF)
 
 **First published:**
 
@@ -518,11 +516,11 @@ hrvatski (HR) (828.87 KB - PDF)
 
 **Last updated:**
 
-24/01/2025
+25/02/2026
 
 [View](/is/documents/product-information/tadalafil-mylan-epar-product-information_is.pdf)
 
-italiano (IT) (811.19 KB - PDF)
+italiano (IT) (736.79 KB - PDF)
 
 **First published:**
 
@@ -530,11 +528,11 @@ italiano (IT) (811.19 KB - PDF)
 
 **Last updated:**
 
-24/01/2025
+25/02/2026
 
 [View](/it/documents/product-information/tadalafil-mylan-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (564.34 KB - PDF)
+latviešu valoda (LV) (650.79 KB - PDF)
 
 **First published:**
 
@@ -542,11 +540,11 @@ latviešu valoda (LV) (564.34 KB - PDF)
 
 **Last updated:**
 
-24/01/2025
+25/02/2026
 
 [View](/lv/documents/product-information/tadalafil-mylan-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (564.34 KB - PDF)
+lietuvių kalba (LT) (616.55 KB - PDF)
 
 **First published:**
 
@@ -554,11 +552,11 @@ lietuvių kalba (LT) (564.34 KB - PDF)
 
 **Last updated:**
 
-24/01/2025
+25/02/2026
 
 [View](/lt/documents/product-information/tadalafil-mylan-epar-product-information_lt.pdf)
 
-magyar (HU) (899.97 KB - PDF)
+magyar (HU) (830.65 KB - PDF)
 
 **First published:**
 
@@ -566,11 +564,11 @@ magyar (HU) (899.97 KB - PDF)
 
 **Last updated:**
 
-24/01/2025
+25/02/2026
 
 [View](/hu/documents/product-information/tadalafil-mylan-epar-product-information_hu.pdf)
 
-Malti (MT) (775.5 KB - PDF)
+Malti (MT) (828.12 KB - PDF)
 
 **First published:**
 
@@ -578,11 +576,11 @@ Malti (MT) (775.5 KB - PDF)
 
 **Last updated:**
 
-24/01/2025
+25/02/2026
 
 [View](/mt/documents/product-information/tadalafil-mylan-epar-product-information_mt.pdf)
 
-Nederlands (NL) (756.36 KB - PDF)
+Nederlands (NL) (681.43 KB - PDF)
 
 **First published:**
 
@@ -590,11 +588,11 @@ Nederlands (NL) (756.36 KB - PDF)
 
 **Last updated:**
 
-24/01/2025
+25/02/2026
 
 [View](/nl/documents/product-information/tadalafil-mylan-epar-product-information_nl.pdf)
 
-norsk (NO) (531.54 KB - PDF)
+norsk (NO) (639.56 KB - PDF)
 
 **First published:**
 
@@ -602,11 +600,11 @@ norsk (NO) (531.54 KB - PDF)
 
 **Last updated:**
 
-24/01/2025
+25/02/2026
 
 [View](/no/documents/product-information/tadalafil-mylan-epar-product-information_no.pdf)
 
-polski (PL) (899.97 KB - PDF)
+polski (PL) (698.31 KB - PDF)
 
 **First published:**
 
@@ -614,11 +612,11 @@ polski (PL) (899.97 KB - PDF)
 
 **Last updated:**
 
-24/01/2025
+25/02/2026
 
 [View](/pl/documents/product-information/tadalafil-mylan-epar-product-information_pl.pdf)
 
-português (PT) (538.46 KB - PDF)
+português (PT) (540.35 KB - PDF)
 
 **First published:**
 
@@ -626,11 +624,11 @@ português (PT) (538.46 KB - PDF)
 
 **Last updated:**
 
-24/01/2025
+25/02/2026
 
 [View](/pt/documents/product-information/tadalafil-mylan-epar-product-information_pt.pdf)
 
-română (RO) (582.9 KB - PDF)
+română (RO) (757.71 KB - PDF)
 
 **First published:**
 
@@ -638,11 +636,11 @@ română (RO) (582.9 KB - PDF)
 
 **Last updated:**
 
-24/01/2025
+25/02/2026
 
 [View](/ro/documents/product-information/tadalafil-mylan-epar-product-information_ro.pdf)
 
-slovenčina (SK) (834.32 KB - PDF)
+slovenčina (SK) (762.1 KB - PDF)
 
 **First published:**
 
@@ -650,11 +648,11 @@ slovenčina (SK) (834.32 KB - PDF)
 
 **Last updated:**
 
-24/01/2025
+25/02/2026
 
 [View](/sk/documents/product-information/tadalafil-mylan-epar-product-information_sk.pdf)
 
-slovenščina (SL) (582.9 KB - PDF)
+slovenščina (SL) (587 KB - PDF)
 
 **First published:**
 
@@ -662,11 +660,11 @@ slovenščina (SL) (582.9 KB - PDF)
 
 **Last updated:**
 
-24/01/2025
+25/02/2026
 
 [View](/sl/documents/product-information/tadalafil-mylan-epar-product-information_sl.pdf)
 
-Suomi (FI) (704.77 KB - PDF)
+Suomi (FI) (630.71 KB - PDF)
 
 **First published:**
 
@@ -674,11 +672,11 @@ Suomi (FI) (704.77 KB - PDF)
 
 **Last updated:**
 
-24/01/2025
+25/02/2026
 
 [View](/fi/documents/product-information/tadalafil-mylan-epar-product-information_fi.pdf)
 
-svenska (SV) (705.61 KB - PDF)
+svenska (SV) (635.28 KB - PDF)
 
 **First published:**
 
@@ -686,11 +684,11 @@ svenska (SV) (705.61 KB - PDF)
 
 **Last updated:**
 
-21/02/2025
+25/02/2026
 
 [View](/sv/documents/product-information/tadalafil-mylan-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0028 22/01/2025
+**Latest procedure affecting product information:** N/0000333449 24/02/2025
 
 icon globe
 
@@ -716,7 +714,7 @@ English (EN) (32.28 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tadalafil-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-460)
+[Other languages (24)](#file-language-dropdown-164)
 
 български (BG) (28.5 KB - PDF)
 
@@ -1036,7 +1034,7 @@ Mylan Pharmaceuticals Limited
 
 Damastown Industrial Park
 
-Marketing authorisation issued 21/11/2014 Revision 17
+Marketing authorisation issued 21/11/2014 Revision 18
 
 ## Assessment history
 
@@ -1048,13 +1046,21 @@ Collapse section
 
 Tadalafil Mylan : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (151.12 KB - PDF)
+
+**First published:** 25/02/2026
+
+[View](/en/documents/procedural-steps-after/tadalafil-mylan-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Tadalafil Mylan : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (134.42 KB - PDF)
 
 **First published:** 27/01/2016
 
-**Last updated:** 24/01/2025
+**Last updated:** 25/02/2026
 
-[View](/en/documents/procedural-steps-after/tadalafil-mylan-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/tadalafil-mylan-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Tadalafil Mylan-H-A31-1450-C-003787-0005 : EPAR - Assessment Report - Article 31
 
@@ -1080,7 +1086,7 @@ English (EN) (36.59 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/tadalafil-mylan-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-168)
+[Other languages (22)](#file-language-dropdown-664)
 
 български (BG) (72.03 KB - PDF)
 
@@ -1376,15 +1382,15 @@ English (EN) (80.05 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-tadalafil-mylan_en.pdf)
 
-#### News on Tadalafil Mylan
+## News on Tadalafil Mylan
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 September 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-september-2014) 26/09/2014
 
-#### Related content
+## Related content
 
 - [Article-31 referral: Micro Therapeutic Research](/en/medicines/human/referrals/micro-therapeutic-research)
 
-#### More information on Tadalafil Mylan
+## More information on Tadalafil Mylan
 
 Questions and answers on generic medicines
 
@@ -1398,7 +1404,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-413)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1664,12 +1670,12 @@ svenska (SV) (67.11 KB - PDF)
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-#### Topics
+## Topics
 
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 24/01/2025
+**This page was last updated on** 25/02/2026
 
 ## Share this page
 

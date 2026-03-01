@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-16 15:34:00
+document_datetime: 2026-02-26 15:04:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sunlenca.html
 document_name: sunlenca.html
 version: success
-processing_time: 0.1111194
-conversion_datetime: 2026-01-03 13:01:20.78964
+processing_time: 0.1001511
+conversion_datetime: 2026-03-01 19:49:15.285161
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.13.1
+  docling-jobkit: 1.11.0
+  docling: 2.74.0
+  docling-core: 2.65.2
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.3.4
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Sunlenca
 
 [RSS](/en/individual-human-medicine.xml/67598)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 lenacapavir Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +102,7 @@ English (EN) (119.54 KB - PDF)
 
 [View](/en/documents/overview/sunlenca-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-427)
+[Other languages (22)](#file-language-dropdown-768)
 
 български (BG) (147.48 KB - PDF)
 
@@ -296,17 +294,17 @@ English (EN) (444.42 KB - PDF)
 
 Sunlenca : EPAR - Product Information
 
-English (EN) (1.57 MB - PDF)
+English (EN) (1.5 MB - PDF)
 
 **First published:** 25/08/2022
 
-**Last updated:** 16/12/2025
+**Last updated:** 26/02/2026
 
 [View](/en/documents/product-information/sunlenca-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-758)
+[Other languages (24)](#file-language-dropdown-167)
 
-български (BG) (1.07 MB - PDF)
+български (BG) (1.65 MB - PDF)
 
 **First published:**
 
@@ -314,11 +312,11 @@ English (EN) (1.57 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/bg/documents/product-information/sunlenca-epar-product-information_bg.pdf)
 
-español (ES) (1.55 MB - PDF)
+español (ES) (1.56 MB - PDF)
 
 **First published:**
 
@@ -326,11 +324,11 @@ español (ES) (1.55 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/es/documents/product-information/sunlenca-epar-product-information_es.pdf)
 
-čeština (CS) (1.76 MB - PDF)
+čeština (CS) (1.68 MB - PDF)
 
 **First published:**
 
@@ -338,11 +336,11 @@ español (ES) (1.55 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/cs/documents/product-information/sunlenca-epar-product-information_cs.pdf)
 
-dansk (DA) (1.71 MB - PDF)
+dansk (DA) (1.56 MB - PDF)
 
 **First published:**
 
@@ -350,11 +348,11 @@ dansk (DA) (1.71 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/da/documents/product-information/sunlenca-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.55 MB - PDF)
+Deutsch (DE) (1.6 MB - PDF)
 
 **First published:**
 
@@ -362,7 +360,7 @@ Deutsch (DE) (1.55 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/de/documents/product-information/sunlenca-epar-product-information_de.pdf)
 
@@ -374,11 +372,11 @@ eesti keel (ET) (1.54 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/et/documents/product-information/sunlenca-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.74 MB - PDF)
+ελληνικά (EL) (1.67 MB - PDF)
 
 **First published:**
 
@@ -386,11 +384,11 @@ eesti keel (ET) (1.54 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/el/documents/product-information/sunlenca-epar-product-information_el.pdf)
 
-français (FR) (1.62 MB - PDF)
+français (FR) (1.53 MB - PDF)
 
 **First published:**
 
@@ -398,11 +396,11 @@ français (FR) (1.62 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/fr/documents/product-information/sunlenca-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.65 MB - PDF)
+hrvatski (HR) (1.63 MB - PDF)
 
 **First published:**
 
@@ -410,7 +408,7 @@ hrvatski (HR) (1.65 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/hr/documents/product-information/sunlenca-epar-product-information_hr.pdf)
 
@@ -422,11 +420,11 @@ hrvatski (HR) (1.65 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/is/documents/product-information/sunlenca-epar-product-information_is.pdf)
 
-italiano (IT) (1.7 MB - PDF)
+italiano (IT) (1.72 MB - PDF)
 
 **First published:**
 
@@ -434,11 +432,11 @@ italiano (IT) (1.7 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/it/documents/product-information/sunlenca-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.52 MB - PDF)
+latviešu valoda (LV) (1.53 MB - PDF)
 
 **First published:**
 
@@ -446,11 +444,11 @@ latviešu valoda (LV) (1.52 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/lv/documents/product-information/sunlenca-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.57 MB - PDF)
+lietuvių kalba (LT) (1.54 MB - PDF)
 
 **First published:**
 
@@ -458,11 +456,11 @@ lietuvių kalba (LT) (1.57 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/lt/documents/product-information/sunlenca-epar-product-information_lt.pdf)
 
-magyar (HU) (1.77 MB - PDF)
+magyar (HU) (1.73 MB - PDF)
 
 **First published:**
 
@@ -470,7 +468,7 @@ magyar (HU) (1.77 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/hu/documents/product-information/sunlenca-epar-product-information_hu.pdf)
 
@@ -482,11 +480,11 @@ Malti (MT) (1.63 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/mt/documents/product-information/sunlenca-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.65 MB - PDF)
+Nederlands (NL) (1.53 MB - PDF)
 
 **First published:**
 
@@ -494,11 +492,11 @@ Nederlands (NL) (1.65 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/nl/documents/product-information/sunlenca-epar-product-information_nl.pdf)
 
-norsk (NO) (1.6 MB - PDF)
+norsk (NO) (1.58 MB - PDF)
 
 **First published:**
 
@@ -506,11 +504,11 @@ norsk (NO) (1.6 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/no/documents/product-information/sunlenca-epar-product-information_no.pdf)
 
-polski (PL) (1.81 MB - PDF)
+polski (PL) (1.74 MB - PDF)
 
 **First published:**
 
@@ -518,11 +516,11 @@ polski (PL) (1.81 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/pl/documents/product-information/sunlenca-epar-product-information_pl.pdf)
 
-português (PT) (1.52 MB - PDF)
+português (PT) (1.54 MB - PDF)
 
 **First published:**
 
@@ -530,11 +528,11 @@ português (PT) (1.52 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/pt/documents/product-information/sunlenca-epar-product-information_pt.pdf)
 
-română (RO) (1.79 MB - PDF)
+română (RO) (1.71 MB - PDF)
 
 **First published:**
 
@@ -542,11 +540,11 @@ română (RO) (1.79 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/ro/documents/product-information/sunlenca-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.63 MB - PDF)
+slovenčina (SK) (1.65 MB - PDF)
 
 **First published:**
 
@@ -554,11 +552,11 @@ slovenčina (SK) (1.63 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/sk/documents/product-information/sunlenca-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.68 MB - PDF)
+slovenščina (SL) (1.67 MB - PDF)
 
 **First published:**
 
@@ -566,11 +564,11 @@ slovenščina (SL) (1.68 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/sl/documents/product-information/sunlenca-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.57 MB - PDF)
+Suomi (FI) (1.62 MB - PDF)
 
 **First published:**
 
@@ -578,11 +576,11 @@ Suomi (FI) (1.57 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/fi/documents/product-information/sunlenca-epar-product-information_fi.pdf)
 
-svenska (SV) (1.61 MB - PDF)
+svenska (SV) (1.6 MB - PDF)
 
 **First published:**
 
@@ -590,11 +588,11 @@ svenska (SV) (1.61 MB - PDF)
 
 **Last updated:**
 
-16/12/2025
+26/02/2026
 
 [View](/sv/documents/product-information/sunlenca-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000313653 16/12/2025
+**Latest procedure affecting product information:** VR/0000313247 19/02/2026
 
 icon globe
 
@@ -618,7 +616,7 @@ English (EN) (87.62 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sunlenca-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-956)
+[Other languages (24)](#file-language-dropdown-875)
 
 български (BG) (95.3 KB - PDF)
 
@@ -840,7 +838,7 @@ Gilead Sciences Ireland Unlimited Company
 
 Ida Business And Technology Park
 
-Opinion adopted 23/06/2022 Marketing authorisation issued 17/08/2022 Revision 7
+Opinion adopted 23/06/2022 Marketing authorisation issued 17/08/2022 Revision 8
 
 ## Assessment history
 
@@ -852,9 +850,11 @@ Collapse section
 
 Sunlenca : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (142.41 KB - PDF)
+English (EN) (145.37 KB - PDF)
 
 **First published:** 16/12/2025
+
+**Last updated:** 26/02/2026
 
 [View](/en/documents/procedural-steps-after/sunlenca-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -894,16 +894,16 @@ English (EN) (151.63 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-sunlenca_en.pdf)
 
-#### News on Sunlenca
+## News on Sunlenca
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 June 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-june-2022) 24/06/2022
 
-#### More information on Sunlenca
+## More information on Sunlenca
 
 - [EMEA-002740-PIP01-19-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002740-pip01-19-m01)
 - [EMEA-002740-PIP03-24 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002740-pip03-24)
 
-**This page was last updated on** 16/12/2025
+**This page was last updated on** 26/02/2026
 
 ## Share this page
 

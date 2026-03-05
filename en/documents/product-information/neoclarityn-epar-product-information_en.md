@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-03-05 14:55:00
+document_datetime: 2026-03-02 10:43:45
 document_pages: 43
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/neoclarityn-epar-product-information_en.pdf
 document_name: neoclarityn-epar-product-information_en.pdf
 version: success
-processing_time: 8.8950682
-conversion_datetime: 2025-12-20 10:41:40.307123
+processing_time: 9.4895987
+conversion_datetime: 2026-03-05 11:59:45.818577
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -107,7 +107,7 @@ In a clinical pharmacology trial, Neoclarityn tablets taken concomitantly with a
 
 ## Pregnancy
 
-A large amount of data on pregnant women (more than 1,000 pregnancy outcomes) indicate no malformative nor foeto/ neonatal toxicity of desloratadine. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of Neoclarityn during pregnancy.
+A large amount of data on pregnant women (more than 1,000 pregnancy outcomes) indicates no malformative nor foetal/ neonatal toxicity of desloratadine. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of Neoclarityn during pregnancy.
 
 ## Breast-feeding
 
@@ -129,10 +129,6 @@ Neoclarityn has no or negligible influence on the ability to drive and use machi
 
 In clinical trials in a range of indications including allergic rhinitis and chronic idiopathic urticaria, at the recommended dose of 5 mg daily, undesirable effects with Neoclarityn were reported in 3 % of patients in excess of those treated with placebo. The most frequent of adverse reactions reported in excess of placebo were fatigue (1.2 %), dry mouth (0.8 %) and headache (0.6 %).
 
-## Paediatric population
-
-In a clinical trial with 578 adolescent patients, 12 through 17 years of age, the most common adverse event was headache; this occurred in 5.9 % of patients treated with desloratadine and 6.9 % of patients receiving placebo.
-
 ## Tabulated list of adverse reactions
 
 The frequency of the clinical trial adverse reactions reported in excess of placebo and other undesirable effects reported during the post-marketing period are listed in the following table. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data).
@@ -140,10 +136,10 @@ The frequency of the clinical trial adverse reactions reported in excess of plac
 | System Organ Class                                   | Frequency                  | Adverse reactions seen with Neoclarityn                                                                                |
 |------------------------------------------------------|----------------------------|------------------------------------------------------------------------------------------------------------------------|
 | Metabolism and nutrition disorders                   | Not known                  | Increased appetite                                                                                                     |
-| Psychiatric disorders                                | Very rare Not known        | Hallucinations Abnormal behaviour, aggression, depressed mood                                                          |
+| Psychiatric disorders                                | Very rare Not known        | Hallucinations Abnormal behaviour * , aggression * , depressed mood                                                    |
 | Nervous system disorders                             | Common Very rare           | Headache Dizziness, somnolence, insomnia, psychomotor hyperactivity, seizures                                          |
 | Eye disorders                                        | Not known                  | Eye dryness                                                                                                            |
-| Cardiac disorders                                    | Very rare Not known        | Tachycardia, palpitations QT prolongation                                                                              |
+| Cardiac disorders                                    | Very rare Not known        | Tachycardia, palpitations QT prolongation *                                                                            |
 | Gastrointestinal disorders                           | Common Very rare           | Dry mouth Abdominal pain, nausea, vomiting, dyspepsia, diarrhoea                                                       |
 | Hepatobiliary disorders                              | Very rare Not known        | Elevations of liver enzymes, increased bilirubin, hepatitis Jaundice                                                   |
 | Skin and subcutaneous tissue disorders               | Not known                  | Photosensitivity                                                                                                       |
@@ -153,13 +149,15 @@ The frequency of the clinical trial adverse reactions reported in excess of plac
 
 ## Paediatric population
 
-Other undesirable effects reported during the post-marketing period in paediatric patients with an unknown frequency included QT prolongation, arrhythmia, bradycardia, abnormal behaviour, and aggression.
+Other undesirable effects reported during the post-marketing period in paediatric patients with an unknown frequency included arrhythmia and bradycardia.
 
-A retrospective observational safety study indicated an increased incidence of new-onset seizure in patients 0 to 19 years of age when receiving desloratadine compared with periods not receiving
+In a clinical trial with 578 adolescent patients, 12 through 17 years of age, the most common adverse event was headache; this occurred in 5.9 % of patients treated with desloratadine and 6.9 % of patients receiving placebo.
+
+A retrospective observational safety study indicated an increased incidence of new-onset seizure in patients 0 to 19 years of age when receiving desloratadine compared with periods not receiving desloratadine. Among children 0-4 years old, the adjusted absolute increase was 37.5 (95 %
 
 <div style=\"page-break-after: always\"></div>
 
-desloratadine. Among children 0-4 years old, the adjusted absolute increase was 37.5 (95 % Confidence Interval (CI) 10.5-64.5) per 100,000 person years (PY) with a background rate of new onset seizure of 80.3 per 100,000 PY. Among patients 5-19 years of age, the adjusted absolute increase was 11.3 (95 % CI 2.3-20.2) per 100,000 PY with a background rate of 36.4 per 100,000 PY. (See section 4.4.)
+Confidence Interval (CI) 10.5-64.5) per 100,000 person years (PY) with a background rate of new onset seizure of 80.3 per 100,000 PY. Among patients 5-19 years of age, the adjusted absolute increase was 11.3 (95 % CI 2.3-20.2) per 100,000 PY with a background rate of 36.4 per 100,000 PY. (See section 4.4.)
 
 ## Reporting of suspected adverse reactions
 
@@ -219,7 +217,7 @@ In addition to the established classifications of seasonal and perennial, allerg
 
 Neoclarityn was effective in alleviating the burden of seasonal allergic rhinitis as shown by the total score of the rhino-conjunctivitis quality of life questionnaire. The greatest amelioration was seen in the domains of practical problems and daily activities limited by symptoms.
 
-Chronic idiopathic urticaria was studied as a clinical model for urticarial conditions, since the underlying pathophysiology is similar, regardless of etiology, and because chronic patients can be more easily recruited prospectively. Since histamine release is a causal factor in all urticarial diseases, desloratadine is expected to be effective in providing symptomatic relief for other urticarial conditions, in addition to chronic idiopathic urticaria, as advised in clinical guidelines.
+Chronic idiopathic urticaria was studied as a clinical model for urticarial conditions, since the underlying pathophysiology is similar, regardless of aetiology, and because chronic patients can be more easily recruited prospectively. Since histamine release is a causal factor in all urticarial diseases, desloratadine is expected to be effective in providing symptomatic relief for other urticarial conditions, in addition to chronic idiopathic urticaria, as advised in clinical guidelines.
 
 In two placebo-controlled six week trials in patients with chronic idiopathic urticaria, Neoclarityn was effective in relieving pruritus and decreasing the size and number of hives by the end of the first dosing interval. In each trial, the effects were sustained over the 24 hour dosing interval. As with other antihistamine trials in chronic idiopathic urticaria, the minority of patients who were identified as non -responsive to antihistamines was excluded. An improvement in pruritus of more than 50 % was observed in 55 % of patients treated with desloratadine compared with 19 % of patients treated with placebo. Treatment with Neoclarityn also significantly reduced interference with sleep and daytime function, as measured by a four-point scale used to assess these variables.
 
@@ -229,9 +227,11 @@ In two placebo-controlled six week trials in patients with chronic idiopathic ur
 
 Desloratadine plasma concentrations can be detected within 30 minutes of administration. Desloratadine is well absorbed with maximum concentration achieved after approximately 3 hours; the terminal phase half-life is approximately 27 hours. The degree of accumulation of desloratadine was consistent with its half-life (approximately 27 hours) and a once daily dosing frequency. The bioavailability of desloratadine was dose proportional over the range of 5 mg to 20 mg.
 
+In a pharmacokinetic trial in which patient demographics were comparable to those of the general seasonal allergic rhinitis population, 4 % of the subjects achieved a higher concentration of
+
 <div style=\"page-break-after: always\"></div>
 
-In a pharmacokinetic trial in which patient demographics were comparable to those of the general seasonal allergic rhinitis population, 4 % of the subjects achieved a higher concentration of desloratadine. This percentage may vary according to ethnic background. Maximum desloratadine concentration was about 3-fold higher at approximately 7 hours with a terminal phase half-life of approximately 89 hours. The safety profile of these subjects was not different from that of the general population.
+desloratadine. This percentage may vary according to ethnic background. Maximum desloratadine concentration was about 3-fold higher at approximately 7 hours with a terminal phase half-life of approximately 89 hours. The safety profile of these subjects was not different from that of the general population.
 
 ## Distribution
 
@@ -259,13 +259,13 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 ## 6.1 List of excipients
 
-film coat (containing lactose monohydrate, hypromellose, titanium dioxide, macrogol 400,
+film coat (containing lactose monohydrate, hypromellose, titanium dioxide, macrogol 400, indigotin (E132))
 
-Tablet core: calcium hydrogen phosphate dihydrate microcrystalline cellulose maize starch talc Tablet coating: indigotin (E132))
+Tablet core: calcium hydrogen phosphate dihydrate microcrystalline cellulose maize starch talc Tablet coating: clear coat (containing hypromellose, macrogol 400) carnauba wax
 
 <div style=\"page-break-after: always\"></div>
 
-clear coat (containing hypromellose, macrogol 400) carnauba wax white wax.
+white wax.
 
 ## 6.2 Incompatibilities
 
@@ -281,9 +281,11 @@ Do not store above 30°C. Store in the original package.
 
 ## 6.5 Nature and contents of container
 
-Neoclarityn is supplied in blisters comprised of laminate blister film with foil lidding. The materials of the blister consist of a polychlorotrifluoroethylene (PCTFE)/Polyvinyl Chloride (product contact surface) which is heat sealed.
+Neoclarityn is supplied in blisters comprised of laminate blister film with foil lidding. The materials of the blister consist of a polychlorotrifluoroethylene (PCTFE)/Polyvinyl Chloride (PVC) film (product contact surface) with an aluminium foil lidding coated with a vinyl heat seal coat (product contact surface) which is heat sealed.
 
-(PVC) film (product contact surface) with an aluminium foil lidding coated with a vinyl heat seal coat Packs of 1, 2, 3, 5, 7, 10, 14, 15, 20, 21, 30, 50, 100 tablets. Not all pack sizes may be marketed.
+Packs of 1, 2, 3, 5, 7, 10, 14, 15, 20, 21, 30, 50, 100 tablets.
+
+Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal
 
@@ -291,7 +293,9 @@ No special requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-N.V. Organon Kloosterstraat 6 5349 AB Oss The Netherlands
+N.V. Organon Kloosterstraat 6 5349 AB Oss
+
+The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -299,7 +303,9 @@ EU/1/00/161/001-013
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 15 January 2001 Date of latest renewal: 9 February 2006
+Date of first authorisation: 15 January 2001
+
+Date of latest renewal: 9 February 2006
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -428,7 +434,7 @@ In a clinical pharmacology trial, Neoclarityn tablets taken concomitantly with a
 
 ## Pregnancy
 
-A large amount of data on pregnant women (more than 1,000 pregnancy outcomes) indicate no malformative nor foeto/ neonatal toxicity of desloratadine. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure , it is preferable to avoid the use of Neoclarityn during pregnancy.
+A large amount of data on pregnant women (more than 1,000 pregnancy outcomes) indicates no malformative nor foetal/ neonatal toxicity of desloratadine. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure , it is preferable to avoid the use of Neoclarityn during pregnancy.
 
 ## Breast-feeding
 
@@ -446,14 +452,6 @@ Neoclarityn has no or negligible influence on the ability to drive and use machi
 
 ## Summary of the safety profile
 
-## Paediatric population
-
-In clinical trials in a paediatric population, the desloratadine syrup formulation was administered to a total of 246 children aged 6 months through 11 years. The overall incidence of adverse events in children 2 through 11 years of age was similar for the desloratadine and the placebo groups. In infants and toddlers aged 6 to 23 months, the most frequent adverse reactions reported in excess of placebo were diarrhoea (3.7 %), fever (2.3 %) and insomnia (2.3 %). In an additional study, no adverse events were seen in subjects between 6 and 11 years of age following a single 2.5 mg dose of desloratadine oral solution.
-
-In a clinical trial with 578 adolescent patients, 12 through 17 years of age, the most common adverse event was headache; this occurred in 5.9 % of patients treated with desloratadine and 6.9 % of patients receiving placebo.
-
-<div style=\"page-break-after: always\"></div>
-
 ## Adults and adolescents
 
 At the recommended dose, in clinical trials involving adults and adolescents in a range of indications including allergic rhinitis and chronic idiopathic urticaria, undesirable effects with Neoclarityn were reported in 3 % of patients in excess of those treated with placebo. The most frequent of adverse events reported in excess of placebo were fatigue (1.2 %), dry mouth (0.8 %) and headache (0.6 %).
@@ -462,13 +460,15 @@ At the recommended dose, in clinical trials involving adults and adolescents in 
 
 The frequency of the clinical trial adverse reactions reported in excess of placebo and other undesirable effects reported during the post-marketing period are listed in the following table. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data).
 
+<div style=\"page-break-after: always\"></div>
+
 | System Organ Class                                   | Frequency                                                      | Adverse reactions seen with Neoclarityn                                                                                      |
 |------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
 | Metabolism and nutrition disorders                   | Not known                                                      | Increased appetite                                                                                                           |
-| Psychiatric disorders                                | Very rare Not known                                            | Hallucinations Abnormal behaviour, aggression, depressed mood                                                                |
+| Psychiatric disorders                                | Very rare Not known                                            | Hallucinations Abnormal behaviour * , aggression * , depressed mood                                                          |
 | Nervous system disorders                             | Common Common (children less than 2 years) Very rare           | Headache Insomnia Dizziness, somnolence, insomnia, psychomotor hyperactivity, seizures                                       |
 | Eye disorders                                        | Not known                                                      | Eye dryness                                                                                                                  |
-| Cardiac disorders                                    | Very rare Not known                                            | Tachycardia, palpitations QT prolongation                                                                                    |
+| Cardiac disorders                                    | Very rare Not known                                            | Tachycardia, palpitations QT prolongation *                                                                                  |
 | Gastrointestinal disorders                           | Common Common (children less than 2 years) Very rare           | Dry mouth Diarrhoea Abdominal pain, nausea, vomiting, dyspepsia, diarrhoea                                                   |
 | Hepatobiliary disorders                              | Very rare Not known                                            | Elevations of liver enzymes, increased bilirubin, hepatitis Jaundice                                                         |
 | Skin and subcutaneous tissue disorders               | Not known                                                      | Photosensitivity                                                                                                             |
@@ -478,13 +478,17 @@ The frequency of the clinical trial adverse reactions reported in excess of plac
 
 ## Paediatric population
 
-Other undesirable effects reported during the post-marketing period in paediatric patients with an unknown frequency included QT prolongation, arrhythmia, bradycardia, abnormal behaviour, and aggression.
+Other undesirable effects reported during the post-marketing period in paediatric patients with an unknown frequency included arrhythmia and bradycardia.
 
-A retrospective observational safety study indicated an increased incidence of new-onset seizure in patients 0 to 19 years of age when receiving desloratadine compared with periods not receiving
+In clinical trials in a paediatric population, the desloratadine syrup formulation was administered to a total of 246 children aged 6 months through 11 years. The overall incidence of adverse events in children 2 through 11 years of age was similar for the desloratadine and the placebo groups. In infants and toddlers aged 6 to 23 months, the most frequent adverse reactions reported in excess of placebo were diarrhoea (3.7 %), fever (2.3 %) and insomnia (2.3 %). In an additional study, no adverse events were seen in subjects between 6 and 11 years of age following a single 2.5 mg dose of desloratadine oral solution.
+
+In a clinical trial with 578 adolescent patients, 12 through 17 years of age, the most common adverse event was headache; this occurred in 5.9 % of patients treated with desloratadine and 6.9 % of patients receiving placebo.
+
+A retrospective observational safety study indicated an increased incidence of new-onset seizure in patients 0 to 19 years of age when receiving desloratadine compared with periods not receiving desloratadine. Among children 0-4 years old, the adjusted absolute increase was 37.5 (95 %
 
 <div style=\"page-break-after: always\"></div>
 
-desloratadine. Among children 0-4 years old, the adjusted absolute increase was 37.5 (95 % Confidence Interval (CI) 10.5-64.5) per 100,000 person years (PY) with a background rate of new onset seizure of 80.3 per 100,000 PY. Among patients 5-19 years of age, the adjusted absolute increase was 11.3 (95 % CI 2.3-20.2) per 100,000 PY with a background rate of 36.4 per 100,000 PY. (See section 4.4.)
+Confidence Interval (CI) 10.5-64.5) per 100,000 person years (PY) with a background rate of new onset seizure of 80.3 per 100,000 PY. Among patients 5-19 years of age, the adjusted absolute increase was 11.3 (95 % CI 2.3-20.2) per 100,000 PY with a background rate of 36.4 per 100,000 PY. (See section 4.4.)
 
 ## Reporting of suspected adverse reactions
 
@@ -524,11 +528,11 @@ Desloratadine has demonstrated antiallergic properties from in vitro studies. Th
 
 ## Paediatric population
 
-Efficacy of Neoclarityn oral solution has not been investigated in separate paediatric trials. However, the safety of desloratadine syrup formulation, which contains the same concentration of desloratadine as Neoclarityn oral solution, was demonstrated in three paediatric trials. Children, 1-11 years of age, who were candidates for antihistamine therapy received a daily desloratadine dose of 1.25 mg (1 through 5 years of age) or 2.5 mg (6 through 11 years of age). Treatment was well tolerated as
+Efficacy of Neoclarityn oral solution has not been investigated in separate paediatric trials. However, the safety of desloratadine syrup formulation, which contains the same concentration of desloratadine as Neoclarityn oral solution, was demonstrated in three paediatric trials. Children, 1-11 years of age, who were candidates for antihistamine therapy received a daily desloratadine dose of 1.25 mg (1 through 5 years of age) or 2.5 mg (6 through 11 years of age). Treatment was well tolerated as documented by clinical laboratory tests, vital signs, and ECG interval data, including QTc. When
 
 <div style=\"page-break-after: always\"></div>
 
-documented by clinical laboratory tests, vital signs, and ECG interval data, including QTc. When given at the recommended doses, the plasma concentrations of desloratadine (see section 5.2) were comparable in the paediatric and adult populations. Thus, since the course of allergic rhinitis/chronic idiopathic urticaria and the profile of desloratadine are similar in adults and paediatric patients, desloratadine efficacy data in adults can be extrapolated to the paediatric population.
+given at the recommended doses, the plasma concentrations of desloratadine (see section 5.2) were comparable in the paediatric and adult populations. Thus, since the course of allergic rhinitis/chronic idiopathic urticaria and the profile of desloratadine are similar in adults and paediatric patients, desloratadine efficacy data in adults can be extrapolated to the paediatric population.
 
 Efficacy of Neoclarityn syrup has not been investigated in paediatric trials in children less than 12 years of age.
 
@@ -550,13 +554,13 @@ In addition to the established classifications of seasonal and perennial, allerg
 
 Neoclarityn tablets were effective in alleviating the burden of seasonal allergic rhinitis as shown by the total score of the rhino-conjunctivitis quality of life questionnaire. The greatest amelioration was seen in the domains of practical problems and daily activities limited by symptoms.
 
-Chronic idiopathic urticaria was studied as a clinical model for urticarial conditions, since the underlying pathophysiology is similar, regardless of etiology, and because chronic patients can be more easily recruited prospectively. Since histamine release is a causal factor in all urticarial diseases, desloratadine is expected to be effective in providing symptomatic relief for other urticarial conditions, in addition to chronic idiopathic urticaria, as advised in clinical guidelines.
+Chronic idiopathic urticaria was studied as a clinical model for urticarial conditions, since the underlying pathophysiology is similar, regardless of aetiology, and because chronic patients can be more easily recruited prospectively. Since histamine release is a causal factor in all urticarial diseases, desloratadine is expected to be effective in providing symptomatic relief for other urticarial conditions, in addition to chronic idiopathic urticaria, as advised in clinical guidelines.
 
-In two placebo-controlled six week trials in patients with chronic idiopathic urticaria, Neoclarityn was effective in relieving pruritus and decreasing the size and number of hives by the end of the first dosing interval. In each trial, the effects were sustained over the 24 hour dosing interval. As with other
+In two placebo-controlled six week trials in patients with chronic idiopathic urticaria, Neoclarityn was effective in relieving pruritus and decreasing the size and number of hives by the end of the first dosing interval. In each trial, the effects were sustained over the 24 hour dosing interval. As with other antihistamine trials in chronic idiopathic urticaria, the minority of patients who were identified as
 
 <div style=\"page-break-after: always\"></div>
 
-antihistamine trials in chronic idiopathic urticaria, the minority of patients who were identified as non -responsive to antihistamines was excluded. An improvement in pruritus of more than 50 % was observed in 55 % of patients treated with desloratadine compared with 19 % of patients treated with placebo. Treatment with Neoclarityn also significantly reduced interference with sleep and daytime function, as measured by a four-point scale used to assess these variables.
+non -responsive to antihistamines was excluded. An improvement in pruritus of more than 50 % was observed in 55 % of patients treated with desloratadine compared with 19 % of patients treated with placebo. Treatment with Neoclarityn also significantly reduced interference with sleep and daytime function, as measured by a four-point scale used to assess these variables.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -822,7 +826,7 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON BLISTERS OR STRIPS            |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS            |
 |---------------------------------------------------------------|
 | BOX OF 1, 2, 3, 5, 7, 10, 14, 15, 20, 21, 30, 50, 100 TABLETS |
 
@@ -1033,7 +1037,7 @@ Neoclarityn contains desloratadine which is an antihistamine.
 
 ## How Neoclarityn works
 
-Neoclarityn is an antiallergy medicine that does not make you drowsy. It helps control your allergic reaction and its symptoms.
+Neoclarityn is an antiallergy medicine. It helps control your allergic reaction and its symptoms.
 
 ## When Neoclarityn should be used
 
@@ -1236,11 +1240,11 @@ Organon Belgium Tél/Tel: 0080066550123 (+32 2 2418100) dpoc.benelux@organon.com
 
 ## Česká republika
 
-Organon Czech Republic s.r.o. Tel.: +420 233 010 300 dpoc.czech@organon.com
+Organon Czech Republic s.r.o. Tel.: +420 277 051 010 dpoc.czech@organon.com
 
 ## Danmark
 
-Organon Denmark ApS Tlf: +45 4484 6800 info.denmark@organon.com
+Organon Denmark ApS Tlf: +45 4484 6800 dpoc.dk.is@organon.com
 
 ## Deutschland
 
@@ -1280,7 +1284,7 @@ N.V. Organon Tel.: 00800 66550123 (+32 2 2418100) dpoc.benelux@organon.com
 
 ## Norge
 
-Organon Norway AS Tlf: +47 24 14 56 60 info.norway@organon.com
+Organon Norway AS Tlf: +47 24 14 56 60 dpoc.norway@organon.com
 
 ## Österreich
 
@@ -1288,7 +1292,7 @@ Organon Healthcare GmbH Tel: +49 (0) 89 2040022 10 dpoc.austria@organon.com
 
 ## Polska
 
-Organon Polska Sp. z o.o. Tel.: +48 22 105 50 01 organonpolska@organon.com
+Organon Polska Sp. z o.o. Tel.: +48 22 306 57 64 dpoc.poland@organon.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1334,7 +1338,7 @@ dpoc.slovenia@organon.com
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -1364,7 +1368,11 @@ Organon Pharma B.V., Cyprus branch Τηλ: +357 22866730 dpoc.cyprus@organon.com
 
 ## Sverige
 
-Organon Sweden AB Tel: +46 8 502 597 00 dpoc.sweden@organon.com
+Organon Sweden AB
+
+Tel: +46 8 502 597 00
+
+dpoc.sweden@organon.com
 
 ## Latvija
 
@@ -1373,12 +1381,6 @@ Organon Sweden AB Tel: +46 8 502 597 00 dpoc.sweden@organon.com
 Tel: +371 66968876
 
 dpoc.latvia@organon.com
-
-## United Kingdom (Northern Ireland)
-
-Organon Pharma (UK) Limited Tel: +44 (0) 208 159 3593
-
-medicalinformationuk@organon.com
 
 ## This leaflet was last revised in &lt;{MM/YYYY}&gt;&lt;{month YYYY}&gt;
 
@@ -1414,7 +1416,7 @@ Neoclarityn contains desloratadine which is an antihistamine.
 
 ## How Neoclarityn works
 
-Neoclarityn oral solution is an antiallergy medicine that does not make you drowsy. It helps control your allergic reaction and its symptoms.
+Neoclarityn oral solution is an antiallergy medicine. It helps control your allergic reaction and its symptoms.
 
 ## When Neoclarityn should be used
 
@@ -1661,11 +1663,11 @@ Organon Belgium Tél/Tel: 0080066550123 (+32 2 2418100) dpoc.benelux@organon.com
 
 ## Česká republika
 
-Organon Czech Republic s.r.o. Tel.: +420 233 010 300 dpoc.czech@organon.com
+Organon Czech Republic s.r.o. Tel.: +420 277 051 010 dpoc.czech@organon.com
 
 ## Danmark
 
-Organon Denmark ApS Tlf: +45 4484 6800 info.denmark@organon.com
+Organon Denmark ApS Tlf: +45 4484 6800 dpoc.dk.is@organon.com
 
 ## Deutschland
 
@@ -1713,7 +1715,7 @@ N.V. Organon Tel.: 00800 66550123 (+32 2 2418100) dpoc.benelux@organon.com
 
 ## Norge
 
-Organon Norway AS Tlf: +47 24 14 56 60 info.norway@organon.com
+Organon Norway AS Tlf: +47 24 14 56 60 dpoc.norway@organon.com
 
 ## Österreich
 
@@ -1721,7 +1723,7 @@ Organon Healthcare GmbH Tel: +49 (0) 89 2040022 10 dpoc.austria@organon.com
 
 ## Polska
 
-Organon Polska Sp. z o.o. Tel.: +48 22 105 50 01 organonpolska@organon.com
+Organon Polska Sp. z o.o. Tel.: +48 22 306 57 64 dpoc.poland@organon.com
 
 ## Portugal
 
@@ -1753,7 +1755,7 @@ dpoc.slovenia@organon.com
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -1804,14 +1806,6 @@ dpoc.sweden@organon.com
 Tel: +371 66968876
 
 dpoc.latvia@organon.com
-
-## United Kingdom (Northern Ireland)
-
-Organon Pharma (UK) Limited
-
-Tel: +44 (0) 208 159 3593
-
-medicalinformationuk@organon.com
 
 ## This leaflet was last revised in &lt;{MM/YYYY}&gt;&lt;{month YYYY}&gt;
 

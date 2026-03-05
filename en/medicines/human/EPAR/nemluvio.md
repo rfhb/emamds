@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-01-14 14:30:00
+document_datetime: 2026-03-02 12:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nemluvio.html
 document_name: nemluvio.html
 version: success
-processing_time: 0.1176877
-conversion_datetime: 2026-01-17 23:18:11.611292
+processing_time: 0.1072849
+conversion_datetime: 2026-03-05 11:48:02.430788
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Nemluvio
 
 [RSS](/en/individual-human-medicine.xml/253182)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -111,7 +111,7 @@ English (EN) (97.99 KB - PDF)
 
 [View](/en/documents/overview/nemluvio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-413)
+[Other languages (22)](#file-language-dropdown-45)
 
 български (BG) (124.73 KB - PDF)
 
@@ -397,7 +397,7 @@ English (EN) (737.26 KB - PDF)
 
 [View](/en/documents/product-information/nemluvio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-217)
+[Other languages (24)](#file-language-dropdown-727)
 
 български (BG) (921.43 KB - PDF)
 
@@ -713,7 +713,7 @@ English (EN) (59.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nemluvio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-647)
+[Other languages (24)](#file-language-dropdown-317)
 
 български (BG) (58.33 KB - PDF)
 
@@ -1036,7 +1036,7 @@ Galderma International
 
 Tour Europlaza
 
-Opinion adopted 12/12/2024 Marketing authorisation issued 12/02/2025 Revision 4
+Opinion adopted 12/12/2024 Marketing authorisation issued 12/02/2025 Revision 5
 
 ## Assessment history
 
@@ -1055,6 +1055,18 @@ English (EN) (140.39 KB - PDF)
 **Last updated:** 14/01/2026
 
 [View](/en/documents/procedural-steps-after/nemluvio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Nemluvio-PAM-0000308775 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2608875
+
+English (EN) (711.44 KB - PDF)
+
+**First published:** 02/03/2026
+
+[View](/en/documents/variation-report/nemluvio-pam-0000308775-epar-assessment-report_en.pdf)
 
 Nemluvio-PSUSA-00011111-202503 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1092,11 +1104,11 @@ English (EN) (93.26 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-nemluvio_en.pdf)
 
-#### News on Nemluvio
+## News on Nemluvio
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 December 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-december-2024) 13/12/2024
 
-**This page was last updated on** 14/01/2026
+**This page was last updated on** 02/03/2026
 
 ## Share this page
 

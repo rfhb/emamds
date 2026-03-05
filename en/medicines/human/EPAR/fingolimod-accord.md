@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 07:22:24
+document_datetime: 2026-03-02 16:58:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fingolimod-accord.html
 document_name: fingolimod-accord.html
 version: success
-processing_time: 0.1149531
-conversion_datetime: 2025-12-30 11:50:56.728846
+processing_time: 0.1079635
+conversion_datetime: 2026-03-05 12:09:22.615556
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Fingolimod Accord
 
 [RSS](/en/individual-human-medicine.xml/67320)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 fingolimod Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +105,7 @@ English (EN) (143.12 KB - PDF)
 
 [View](/en/documents/overview/fingolimod-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-268)
+[Other languages (22)](#file-language-dropdown-980)
 
 български (BG) (166.9 KB - PDF)
 
@@ -287,11 +285,11 @@ svenska (SV) (142.76 KB - PDF)
 
 Fingolimod Accord : EPAR - Risk management plan
 
-English (EN) (591.47 KB - PDF)
+English (EN) (2.52 MB - PDF)
 
 **First published:** 03/07/2020
 
-**Last updated:** 26/05/2025
+**Last updated:** 02/03/2026
 
 [View](/en/documents/rmp/fingolimod-accord-epar-risk-management-plan_en.pdf)
 
@@ -307,7 +305,7 @@ English (EN) (448.29 KB - PDF)
 
 [View](/en/documents/product-information/fingolimod-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-732)
+[Other languages (24)](#file-language-dropdown-264)
 
 български (BG) (720.36 KB - PDF)
 
@@ -621,7 +619,7 @@ English (EN) (14.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fingolimod-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-565)
+[Other languages (24)](#file-language-dropdown-535)
 
 български (BG) (56.98 KB - PDF)
 
@@ -848,7 +846,7 @@ Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a
 
-Opinion adopted 30/04/2020 Marketing authorisation issued 25/06/2020 Revision 9
+Opinion adopted 30/04/2020 Marketing authorisation issued 25/06/2020 Revision 11
 
 ## Assessment history
 
@@ -860,11 +858,11 @@ Collapse section
 
 Fingolimod Accord : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (145.84 KB - PDF)
+English (EN) (158.66 KB - PDF)
 
 **First published:** 31/07/2024
 
-**Last updated:** 16/05/2025
+**Last updated:** 02/03/2026
 
 [View](/en/documents/procedural-steps-after/fingolimod-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -904,11 +902,11 @@ English (EN) (154.82 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-fingolimod-accord_en.pdf)
 
-#### News on Fingolimod Accord
+## News on Fingolimod Accord
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-30 April 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-30-april-2020) 30/04/2020
 
-#### More information on Fingolimod Accord
+## More information on Fingolimod Accord
 
 Questions and answers on generic medicines
 
@@ -922,7 +920,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-516)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1188,12 +1186,12 @@ svenska (SV) (67.11 KB - PDF)
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-#### Topics
+## Topics
 
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 16/05/2025
+**This page was last updated on** 02/03/2026
 
 ## Share this page
 

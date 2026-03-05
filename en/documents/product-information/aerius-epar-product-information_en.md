@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-03-05 14:38:05
-document_pages: 44
+document_datetime: 2026-03-02 10:24:03
+document_pages: 43
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/aerius-epar-product-information_en.pdf
 document_name: aerius-epar-product-information_en.pdf
 version: success
-processing_time: 8.9765781
-conversion_datetime: 2025-12-28 05:13:32.276328
+processing_time: 9.4540553
+conversion_datetime: 2026-03-05 11:37:56.200282
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -107,7 +107,7 @@ In a clinical pharmacology trial, Aerius tablets taken concomitantly with alcoho
 
 ## Pregnancy
 
-A large amount of data on pregnant women (more than 1,000 pregnancy outcomes) indicate no malformative nor foeto/ neonatal toxicity of desloratadine. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of Aerius during pregnancy.
+A large amount of data on pregnant women (more than 1,000 pregnancy outcomes) indicates no malformative nor foetal/ neonatal toxicity of desloratadine. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of Aerius during pregnancy.
 
 ## Breast-feeding
 
@@ -129,10 +129,6 @@ Aerius has no or negligible influence on the ability to drive and use machines b
 
 In clinical trials in a range of indications including allergic rhinitis and chronic idiopathic urticaria, at the recommended dose of 5 mg daily, undesirable effects with Aerius were reported in 3 % of patients in excess of those treated with placebo. The most frequent of adverse reactions reported in excess of placebo were fatigue (1.2 %), dry mouth (0.8 %) and headache (0.6 %).
 
-## Paediatric population
-
-In a clinical trial with 578 adolescent patients, 12 through 17 years of age, the most common adverse event was headache; this occurred in 5.9 % of patients treated with desloratadine and 6.9 % of patients receiving placebo.
-
 ## Tabulated list of adverse reactions
 
 The frequency of the clinical trial adverse reactions reported in excess of placebo and other undesirable effects reported during the post-marketing period are listed in the following table. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data).
@@ -140,10 +136,10 @@ The frequency of the clinical trial adverse reactions reported in excess of plac
 | System Organ Class                                   | Frequency                  | Adverse reactions seen with Aerius                                                                                     |
 |------------------------------------------------------|----------------------------|------------------------------------------------------------------------------------------------------------------------|
 | Metabolism and nutrition disorders                   | Not known                  | Increased appetite                                                                                                     |
-| Psychiatric disorders                                | Very rare Not known        | Hallucinations Abnormal behaviour, aggression, depressed mood                                                          |
+| Psychiatric disorders                                | Very rare Not known        | Hallucinations Abnormal behaviour * , aggression * , depressed mood                                                    |
 | Nervous system disorders                             | Common Very rare           | Headache Dizziness, somnolence, insomnia, psychomotor hyperactivity, seizures                                          |
 | Eye disorders                                        | Not known                  | Eye dryness                                                                                                            |
-| Cardiac disorders                                    | Very rare Not known        | Tachycardia, palpitations QT prolongation                                                                              |
+| Cardiac disorders                                    | Very rare Not known        | Tachycardia, palpitations QT prolongation *                                                                            |
 | Gastrointestinal disorders                           | Common Very rare           | Dry mouth Abdominal pain, nausea, vomiting, dyspepsia, diarrhoea                                                       |
 | Hepatobiliary disorders                              | Very rare Not known        | Elevations of liver enzymes, increased bilirubin, hepatitis Jaundice                                                   |
 | Skin and subcutaneous tissue disorders               | Not known                  | Photosensitivity                                                                                                       |
@@ -153,13 +149,15 @@ The frequency of the clinical trial adverse reactions reported in excess of plac
 
 ## Paediatric population
 
-Other undesirable effects reported during the post-marketing period in paediatric patients with an unknown frequency included QT prolongation, arrhythmia, bradycardia, abnormal behaviour, and aggression.
+Other undesirable effects reported during the post-marketing period in paediatric patients with an unknown frequency included arrhythmia and bradycardia.
 
-A retrospective observational safety study indicated an increased incidence of new-onset seizure in patients 0 to 19 years of age when receiving desloratadine compared with periods not receiving
+In a clinical trial with 578 adolescent patients, 12 through 17 years of age, the most common adverse event was headache; this occurred in 5.9 % of patients treated with desloratadine and 6.9 % of patients receiving placebo.
+
+A retrospective observational safety study indicated an increased incidence of new-onset seizure in patients 0 to 19 years of age when receiving desloratadine compared with periods not receiving desloratadine. Among children 0-4 years old, the adjusted absolute increase was 37.5 (95 %
 
 <div style=\"page-break-after: always\"></div>
 
-desloratadine. Among children 0-4 years old, the adjusted absolute increase was 37.5 (95 % Confidence Interval (CI) 10.5-64.5) per 100,000 person years (PY) with a background rate of new onset seizure of 80.3 per 100,000 PY. Among patients 5-19 years of age, the adjusted absolute increase was 11.3 (95 % CI 2.3-20.2) per 100,000 PY with a background rate of 36.4 per 100,000 PY. (See section 4.4.)
+Confidence Interval (CI) 10.5-64.5) per 100,000 person years (PY) with a background rate of new onset seizure of 80.3 per 100,000 PY. Among patients 5-19 years of age, the adjusted absolute increase was 11.3 (95 % CI 2.3-20.2) per 100,000 PY with a background rate of 36.4 per 100,000 PY. (See section 4.4.)
 
 ## Reporting of suspected adverse reactions
 
@@ -219,7 +217,7 @@ In addition to the established classifications of seasonal and perennial, allerg
 
 Aerius was effective in alleviating the burden of seasonal allergic rhinitis as shown by the total score of the rhino-conjunctivitis quality of life questionnaire. The greatest amelioration was seen in the domains of practical problems and daily activities limited by symptoms.
 
-Chronic idiopathic urticaria was studied as a clinical model for urticarial conditions, since the underlying pathophysiology is similar, regardless of etiology, and because chronic patients can be more easily recruited prospectively. Since histamine release is a causal factor in all urticarial diseases, desloratadine is expected to be effective in providing symptomatic relief for other urticarial conditions, in addition to chronic idiopathic urticaria, as advised in clinical guidelines.
+Chronic idiopathic urticaria was studied as a clinical model for urticarial conditions, since the underlying pathophysiology is similar, regardless of aetiology, and because chronic patients can be more easily recruited prospectively. Since histamine release is a causal factor in all urticarial diseases, desloratadine is expected to be effective in providing symptomatic relief for other urticarial conditions, in addition to chronic idiopathic urticaria, as advised in clinical guidelines.
 
 In two placebo-controlled six week trials in patients with chronic idiopathic urticaria, Aerius was effective in relieving pruritus and decreasing the size and number of hives by the end of the first dosing interval. In each trial, the effects were sustained over the 24 hour dosing interval. As with other antihistamine trials in chronic idiopathic urticaria, the minority of patients who were identified as non -responsive to antihistamines was excluded. An improvement in pruritus of more than 50 % was observed in 55 % of patients treated with desloratadine compared with 19 % of patients treated with placebo. Treatment with Aerius also significantly reduced interference with sleep and daytime function, as measured by a four-point scale used to assess these variables.
 
@@ -229,9 +227,11 @@ In two placebo-controlled six week trials in patients with chronic idiopathic ur
 
 Desloratadine plasma concentrations can be detected within 30 minutes of administration. Desloratadine is well absorbed with maximum concentration achieved after approximately 3 hours; the terminal phase half-life is approximately 27 hours. The degree of accumulation of desloratadine was consistent with its half-life (approximately 27 hours) and a once daily dosing frequency. The bioavailability of desloratadine was dose proportional over the range of 5 mg to 20 mg.
 
+In a pharmacokinetic trial in which patient demographics were comparable to those of the general seasonal allergic rhinitis population, 4 % of the subjects achieved a higher concentration of
+
 <div style=\"page-break-after: always\"></div>
 
-In a pharmacokinetic trial in which patient demographics were comparable to those of the general seasonal allergic rhinitis population, 4 % of the subjects achieved a higher concentration of desloratadine. This percentage may vary according to ethnic background. Maximum desloratadine concentration was about 3-fold higher at approximately 7 hours with a terminal phase half-life of approximately 89 hours. The safety profile of these subjects was not different from that of the general population.
+desloratadine. This percentage may vary according to ethnic background. Maximum desloratadine concentration was about 3-fold higher at approximately 7 hours with a terminal phase half-life of approximately 89 hours. The safety profile of these subjects was not different from that of the general population.
 
 ## Distribution
 
@@ -259,17 +259,13 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 ## 6.1 List of excipients
 
-Tablet core: calcium hydrogen phosphate dihydrate microcrystalline cellulose maize starch talc
+film coat (containing lactose monohydrate, hypromellose, titanium dioxide, macrogol 400, indigotin (E132))
+
+Tablet core: calcium hydrogen phosphate dihydrate microcrystalline cellulose maize starch talc Tablet coating: clear coat (containing hypromellose, macrogol 400) carnauba wax
 
 <div style=\"page-break-after: always\"></div>
 
-Tablet coating:
-
-film coat (containing lactose monohydrate, hypromellose, titanium dioxide, macrogol 400, indigotin (E132))
-
-clear coat (containing hypromellose, macrogol 400)
-
-carnauba wax white wax
+white wax
 
 ## 6.2 Incompatibilities
 
@@ -312,8 +308,6 @@ EU/1/00/160/001-013 EU/1/00/160/036
 Date of first authorisation: 15 January 2001
 
 Date of latest renewal: 9 February 2006
-
-<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -442,7 +436,7 @@ In a clinical pharmacology trial, Aerius tablets taken concomitantly with alcoho
 
 ## Pregnancy
 
-A large amount of data on pregnant women (more than 1,000 pregnancy outcomes) indicate no malformative nor foeto/ neonatal toxicity of desloratadine. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of Aerius during pregnancy.
+A large amount of data on pregnant women (more than 1,000 pregnancy outcomes) indicates no malformative nor foetal/ neonatal toxicity of desloratadine. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of Aerius during pregnancy.
 
 ## Breast-feeding
 
@@ -460,14 +454,6 @@ Aerius has no or negligible influence on the ability to drive and use machines b
 
 ## Summary of the safety profile
 
-## Paediatric population
-
-In clinical trials in a paediatric population, the desloratadine syrup formulation was administered to a total of 246 children aged 6 months through 11 years. The overall incidence of adverse events in children 2 through 11 years of age was similar for the desloratadine and the placebo groups. In infants and toddlers aged 6 to 23 months, the most frequent adverse reactions reported in excess of placebo were diarrhoea (3.7 %), fever (2.3 %) and insomnia (2.3 %). In an additional study, no adverse events were seen in subjects between 6 and 11 years of age following a single 2.5 mg dose of desloratadine oral solution.
-
-In a clinical trial with 578 adolescent patients, 12 through 17 years of age, the most common adverse event was headache; this occurred in 5.9 % of patients treated with desloratadine and 6.9 % of patients receiving placebo.
-
-<div style=\"page-break-after: always\"></div>
-
 ## Adults and adolescents
 
 At the recommended dose, in clinical trials involving adults and adolescents in a range of indications including allergic rhinitis and chronic idiopathic urticaria, undesirable effects with Aerius were reported in 3 % of patients in excess of those treated with placebo. The most frequent of adverse events reported in excess of placebo were fatigue (1.2 %), dry mouth (0.8 %) and headache (0.6 %).
@@ -476,13 +462,15 @@ At the recommended dose, in clinical trials involving adults and adolescents in 
 
 The frequency of the clinical trial adverse reactions reported in excess of placebo and other undesirable effects reported during the post-marketing period are listed in the following table. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data).
 
+<div style=\"page-break-after: always\"></div>
+
 | System Organ Class                                   | Frequency                                                      | Adverse reactions seen with Aerius                                                                                           |
 |------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
 | Metabolism and nutrition disorders                   | Not known                                                      | Increased appetite                                                                                                           |
-| Psychiatric disorders                                | Very rare Not known                                            | Hallucinations Abnormal behaviour, aggression, depressed mood                                                                |
+| Psychiatric disorders                                | Very rare Not known                                            | Hallucinations Abnormal behaviour * , aggression * , depressed mood                                                          |
 | Nervous system disorders                             | Common Common (children less than 2 years) Very rare           | Headache Insomnia Dizziness, somnolence, insomnia, psychomotor hyperactivity, seizures                                       |
 | Eye disorders                                        | Not known                                                      | Eye dryness                                                                                                                  |
-| Cardiac disorders                                    | Very rare Not known                                            | Tachycardia, palpitations QT prolongation                                                                                    |
+| Cardiac disorders                                    | Very rare Not known                                            | Tachycardia, palpitations QT prolongation *                                                                                  |
 | Gastrointestinal disorders                           | Common Common (children less than 2 years) Very rare           | Dry mouth Diarrhoea Abdominal pain, nausea, vomiting, dyspepsia, diarrhoea                                                   |
 | Hepatobiliary disorders                              | Very rare Not known                                            | Elevations of liver enzymes, increased bilirubin, hepatitis Jaundice                                                         |
 | Skin and subcutaneous tissue disorders               | Not known                                                      | Photosensitivity                                                                                                             |
@@ -490,15 +478,21 @@ The frequency of the clinical trial adverse reactions reported in excess of plac
 | General disorders and administration site conditions | Common Common (children less than 2 years) Very rare Not known | Fatigue Fever Hypersensitivity reactions (such as anaphylaxis, angioedema, dyspnoea, pruritus, rash, and urticaria) Asthenia |
 | Investigations                                       | Not known                                                      | Weight increased                                                                                                             |
 
+* Undesirable effects reported during the post-marketing period also in paediatric patients.
+
 ## Paediatric population
 
-Other undesirable effects reported during the post-marketing period in paediatric patients with an unknown frequency included QT prolongation, arrhythmia, bradycardia, abnormal behaviour, and aggression.
+Other undesirable effects reported during the post-marketing period in paediatric patients with an unknown frequency included arrhythmia and bradycardia.
 
-A retrospective observational safety study indicated an increased incidence of new-onset seizure in patients 0 to 19 years of age when receiving desloratadine compared with periods not receiving
+In clinical trials in a paediatric population, the desloratadine syrup formulation was administered to a total of 246 children aged 6 months through 11 years. The overall incidence of adverse events in children 2 through 11 years of age was similar for the desloratadine and the placebo groups. In infants and toddlers aged 6 to 23 months, the most frequent adverse reactions reported in excess of placebo were diarrhoea (3.7 %), fever (2.3 %) and insomnia (2.3 %). In an additional study, no adverse events were seen in subjects between 6 and 11 years of age following a single 2.5 mg dose of desloratadine oral solution.
+
+In a clinical trial with 578 adolescent patients, 12 through 17 years of age, the most common adverse event was headache; this occurred in 5.9 % of patients treated with desloratadine and 6.9 % of patients receiving placebo.
+
+A retrospective observational safety study indicated an increased incidence of new-onset seizure in patients 0 to 19 years of age when receiving desloratadine compared with periods not receiving desloratadine. Among children 0-4 years old, the adjusted absolute increase was 37.5 (95 %
 
 <div style=\"page-break-after: always\"></div>
 
-desloratadine. Among children 0-4 years old, the adjusted absolute increase was 37.5 (95 % Confidence Interval (CI) 10.5-64.5) per 100,000 person years (PY) with a background rate of new onset seizure of 80.3 per 100,000 PY. Among patients 5-19 years of age, the adjusted absolute increase was 11.3 (95 % CI 2.3-20.2) per 100,000 PY with a background rate of 36.4 per 100,000 PY. (See section 4.4.)
+Confidence Interval (CI) 10.5-64.5) per 100,000 person years (PY) with a background rate of new onset seizure of 80.3 per 100,000 PY. Among patients 5-19 years of age, the adjusted absolute increase was 11.3 (95 % CI 2.3-20.2) per 100,000 PY with a background rate of 36.4 per 100,000 PY. (See section 4.4.)
 
 ## Reporting of suspected adverse reactions
 
@@ -538,11 +532,11 @@ Desloratadine has demonstrated antiallergic properties from in vitro studies. Th
 
 ## Paediatric population
 
-Efficacy of Aerius oral solution has not been investigated in separate paediatric trials. However, the safety of desloratadine syrup formulation, which contains the same concentration of desloratadine as Aerius oral solution, was demonstrated in three paediatric trials. Children, 1-11 years of age, who were candidates for antihistamine therapy received a daily desloratadine dose of 1.25 mg (1 through 5 years of age) or 2.5 mg (6 through 11 years of age). Treatment was well tolerated as documented by clinical
+Efficacy of Aerius oral solution has not been investigated in separate paediatric trials. However, the safety of desloratadine syrup formulation, which contains the same concentration of desloratadine as Aerius oral solution, was demonstrated in three paediatric trials. Children, 1-11 years of age, who were candidates for antihistamine therapy received a daily desloratadine dose of 1.25 mg (1 through 5 years of age) or 2.5 mg (6 through 11 years of age). Treatment was well tolerated as documented by clinical laboratory tests, vital signs, and ECG interval data, including QTc. When given at the recommended
 
 <div style=\"page-break-after: always\"></div>
 
-laboratory tests, vital signs, and ECG interval data, including QTc. When given at the recommended doses, the plasma concentrations of desloratadine (see section 5.2) were comparable in the paediatric and adult populations. Thus, since the course of allergic rhinitis/chronic idiopathic urticaria and the profile of desloratadine are similar in adults and paediatric patients, desloratadine efficacy data in adults can be extrapolated to the paediatric population.
+doses, the plasma concentrations of desloratadine (see section 5.2) were comparable in the paediatric and adult populations. Thus, since the course of allergic rhinitis/chronic idiopathic urticaria and the profile of desloratadine are similar in adults and paediatric patients, desloratadine efficacy data in adults can be extrapolated to the paediatric population.
 
 Efficacy of Aerius syrup has not been investigated in paediatric trials in children less than 12 years of age.
 
@@ -564,13 +558,13 @@ In addition to the established classifications of seasonal and perennial, allerg
 
 Aerius tablets were effective in alleviating the burden of seasonal allergic rhinitis as shown by the total score of the rhino-conjunctivitis quality of life questionnaire. The greatest amelioration was seen in the domains of practical problems and daily activities limited by symptoms.
 
-Chronic idiopathic urticaria was studied as a clinical model for urticarial conditions, since the underlying pathophysiology is similar, regardless of etiology, and because chronic patients can be more easily recruited prospectively. Since histamine release is a causal factor in all urticarial diseases, desloratadine is expected to be effective in providing symptomatic relief for other urticarial conditions, in addition to chronic idiopathic urticaria, as advised in clinical guidelines.
+Chronic idiopathic urticaria was studied as a clinical model for urticarial conditions, since the underlying pathophysiology is similar, regardless of aetiology, and because chronic patients can be more easily recruited prospectively. Since histamine release is a causal factor in all urticarial diseases, desloratadine is expected to be effective in providing symptomatic relief for other urticarial conditions, in addition to chronic idiopathic urticaria, as advised in clinical guidelines.
 
-In two placebo-controlled six week trials in patients with chronic idiopathic urticaria, Aerius was effective in relieving pruritus and decreasing the size and number of hives by the end of the first dosing interval. In each trial, the effects were sustained over the 24 hour dosing interval. As with other antihistamine trials in chronic idiopathic urticaria, the minority of patients who were identified as
+In two placebo-controlled six week trials in patients with chronic idiopathic urticaria, Aerius was effective in relieving pruritus and decreasing the size and number of hives by the end of the first dosing interval. In each trial, the effects were sustained over the 24 hour dosing interval. As with other antihistamine trials in chronic idiopathic urticaria, the minority of patients who were identified as non -responsive to antihistamines was excluded. An improvement in pruritus of more than 50 % was
 
 <div style=\"page-break-after: always\"></div>
 
-non -responsive to antihistamines was excluded. An improvement in pruritus of more than 50 % was observed in 55 % of patients treated with desloratadine compared with 19 % of patients treated with placebo. Treatment with Aerius also significantly reduced interference with sleep and daytime function, as measured by a four-point scale used to assess these variables.
+observed in 55 % of patients treated with desloratadine compared with 19 % of patients treated with placebo. Treatment with Aerius also significantly reduced interference with sleep and daytime function, as measured by a four-point scale used to assess these variables.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -906,7 +900,9 @@ The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/00/160/061 30 ml with 1 spoon EU/1/00/160/062 50 ml with 1 spoon EU/1/00/160/063 60 ml with 1 spoon EU/1/00/160/064 100 ml with 1 spoon EU/1/00/160/065 120 ml with 1 spoon EU/1/00/160/066 150 ml with 1 spoon EU/1/00/160/069 150 ml with 1 oral syringe EU/1/00/160/067 225 ml with 1 spoon EU/1/00/160/068 300 ml with 1 spoon
+EU/1/00/160/061 30 ml with 1 spoon EU/1/00/160/062 50 ml with 1 spoon EU/1/00/160/063 60 ml with 1 spoon EU/1/00/160/064 100 ml with 1 spoon EU/1/00/160/065 120 ml with 1 spoon EU/1/00/160/066 150 ml with 1 spoon EU/1/00/160/069 150 ml with 1 oral syringe EU/1/00/160/067 225 ml with 1 spoon
+
+EU/1/00/160/068 300 ml with 1 spoon
 
 ## 13. BATCH NUMBER
 
@@ -920,7 +916,8 @@ Lot
 
 Aerius
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -956,9 +953,12 @@ EXP
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
-30 ml 50 ml 60 ml 100 ml 120 ml 150 ml 225 ml 300 ml
+30 ml 50 ml 60 ml 100 ml 120 ml 150 ml 225 ml
+
+300 ml
 
 | 6.   | OTHER   |
 |------|---------|
@@ -973,7 +973,9 @@ Do not freeze. Store in the original package.
 
 ## Package leaflet: Information for the patient
 
-## Aerius 5 mg film-coated tablets desloratadine
+## Aerius 5 mg film-coated tablets
+
+## desloratadine
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -999,7 +1001,7 @@ Aerius contains desloratadine which is an antihistamine.
 
 ## How Aerius works
 
-Aerius is an antiallergy medicine that does not make you drowsy. It helps control your allergic reaction and its symptoms.
+Aerius is an antiallergy medicine. It helps control your allergic reaction and its symptoms.
 
 ## When Aerius should be used
 
@@ -1022,15 +1024,17 @@ Talk to your doctor, pharmacist or nurse before taking Aerius:
 - -if you have poor kidney function.
 - -if you have medical or familial history of seizures.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Children and adolescents
 
 Do not give this medicine to children less than 12 years of age.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other medicines and Aerius
 
-There are no known interactions of Aerius with other medicines. Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
+There are no known interactions of Aerius with other medicines.
+
+Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
 
 ## Aerius with food, drink and alcohol
 
@@ -1060,9 +1064,7 @@ Always take this medicine exactly as your doctor or pharmacist has told you. Che
 
 The recommended dose is one tablet once a day with water, with or without food.
 
-This medicine is for oral use.
-
-Swallow the tablet whole.
+This medicine is for oral use. Swallow the tablet whole.
 
 Regarding the duration of treatment, your physician will determine the type of allergic rhinitis you are suffering from and will determine for how long you should take Aerius.
 
@@ -1076,11 +1078,11 @@ For urticaria, the duration of treatment may be variable from patient to patient
 
 Take Aerius only as it is prescribed for you. No serious problems are expected with accidental overdose. However, if you take more Aerius than you were told to, tell your doctor, pharmacist or nurse immediately.
 
-<div style=\"page-break-after: always\"></div>
-
 ## If you forget to take Aerius
 
 If you forget to take your dose on time, take it as soon as possible and then go back to your regular dosing schedule. Do not take a double dose to make up for a forgotten dose.
+
+<div style=\"page-break-after: always\"></div>
 
 ## If you stop taking Aerius
 
@@ -1131,12 +1133,12 @@ Not known: frequency cannot be estimated from the available data
 - yellowing of the skin and/or eyes
 - increased sensitivity of the skin to the sun, even in case of hazy sun, and to UV light, for instance to UV lights of a solarium
 - changes in the way the heart beats
-
-<div style=\"page-break-after: always\"></div>
-
 - abnormal behaviour
 - aggression
 - weight increased, increased appetite
+
+<div style=\"page-break-after: always\"></div>
+
 - depressed mood
 - dry eyes
 
@@ -1180,15 +1182,13 @@ Aerius 5 mg film-coated tablets are packed in blisters in packs of 1, 2, 3, 5, 7
 
 Not all pack sizes may be marketed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Marketing Authorisation Holder and Manufacturer
 
-Marketing Authorisation Holder:
-
-N.V. Organon Kloosterstraat 6 5349 AB Oss The Netherlands
+Marketing Authorisation Holder: N.V. Organon Kloosterstraat 6 5349 AB Oss The Netherlands
 
 Manufacturer: Organon Heist bv, Industriepark 30, 2220 Heist-op-den-Berg, Belgium.
+
+<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1202,13 +1202,11 @@ Organon Belgium Tél/Tel: 0080066550123 (+32 2 2418100) dpoc.benelux@organon.com
 
 ## Česká republika
 
-Organon Czech Republic s.r.o. Tel.: +420 233 010 300 dpoc.czech@organon.com
+Organon Czech Republic s.r.o. Tel.: +420 277 051 010 dpoc.czech@organon.com
 
 ## Danmark
 
-Organon Denmark ApS Tlf: +45 4484 6800
-
-info.denmark@organon.com
+Organon Denmark ApS Tlf: +45 4484 6800 dpoc.dk.is@organon.com
 
 ## Deutschland
 
@@ -1228,9 +1226,11 @@ Organon Salud, S.L. Tel: +34 91 591 12 79 organon\\_info@organon.com
 
 ## France
 
-Organon France
+Organon France Tél: +33 (0) 1 57 77 32 00
 
-Tél: +33 (0) 1 57 77 32 00
+## Hrvatska
+
+Organon Pharma d.o.o. Tel: +385 1 638 4530 dpoc.croatia@organon.com
 
 ## Lietuva
 
@@ -1254,7 +1254,7 @@ N.V. Organon Tel.: 00800 66550123 (+32 2 2418100) dpoc.benelux@organon.com
 
 ## Norge
 
-Organon Norway AS Tlf: +47 24 14 56 60 info.norway@organon.com
+Organon Norway AS Tlf: +47 24 14 56 60 dpoc.norway@organon.com
 
 ## Österreich
 
@@ -1262,23 +1262,15 @@ Organon Healthcare GmbH Tel: +49 (0) 89 2040022 10 dpoc.austria@organon.com
 
 ## Polska
 
-Organon Polska Sp. z o.o. Tel.: +48 22 105 50 01 organonpolska@organon.com
+Organon Polska Sp. z o.o. Tel.: +48 22 306 57 64
+
+dpoc.poland@organon.com
 
 ## Portugal
 
 Organon Portugal, Sociedade Unipessoal Lda. Tel: +351 218705500 geral\\_pt@organon.com
 
-<div style=\"page-break-after: always\"></div>
-
-## Hrvatska
-
 ## România
-
-Organon Pharma d.o.o.
-
-Tel: +385 1 638 4530
-
-dpoc.croatia@organon.com
 
 Organon Biosciences S.R.L.
 
@@ -1286,15 +1278,17 @@ Tel: +40 21 527 29 90
 
 dpoc.romania@organon.com
 
+<div style=\"page-break-after: always\"></div>
+
 ## Ireland
+
+## Slovenija
 
 Organon Pharma (Ireland) Limited
 
 Tel: +353 15828260
 
 medinfo.ROI@organon.com
-
-## Slovenija
 
 Organon Pharma B.V., Oss, podružnica
 
@@ -1306,7 +1300,7 @@ dpoc.slovenia@organon.com
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -1358,14 +1352,6 @@ Tel: +371 66968876
 
 dpoc.latvia@organon.com
 
-## United Kingdom (Northern Ireland)
-
-Organon Pharma (UK) Limited
-
-Tel: +44 (0) 208 159 3593
-
-medicalinformationuk@organon.com
-
 ## This leaflet was last revised in &lt;{MM/YYYY}&gt;&lt;{month YYYY}&gt;
 
 Detailed information on this medicine is available on the European Medicines Agency website https://www.ema.europa.eu.
@@ -1374,7 +1360,9 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Package leaflet: Information for the patient
 
-## Aerius 0.5 mg/ml oral solution desloratadine
+## Aerius 0.5 mg/ml oral solution
+
+## desloratadine
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1400,7 +1388,7 @@ Aerius contains desloratadine which is an antihistamine.
 
 ## How Aerius works
 
-Aerius oral solution is an antiallergy medicine that does not make you drowsy. It helps control your allergic reaction and its symptoms.
+Aerius oral solution is an antiallergy medicine. It helps control your allergic reaction and its symptoms.
 
 ## When Aerius should be used
 
@@ -1643,11 +1631,11 @@ Organon Belgium Tél/Tel: 0080066550123 (+32 2 2418100) dpoc.benelux@organon.com
 
 ## Česká republika
 
-Organon Czech Republic s.r.o. Tel.: +420 233 010 300 dpoc.czech@organon.com
+Organon Czech Republic s.r.o. Tel.: +420 277 051 010 dpoc.czech@organon.com
 
 ## Danmark
 
-Organon Denmark ApS Tlf: +45 4484 6800 info.denmark@organon.com
+Organon Denmark ApS Tlf: +45 4484 6800 dpoc.dk.is@organon.com
 
 ## Deutschland
 
@@ -1699,7 +1687,7 @@ N.V. Organon Tel.: 00800 66550123 (+32 2 2418100) dpoc.benelux@organon.com
 
 ## Norge
 
-Organon Norway AS Tlf: +47 24 14 56 60 info.norway@organon.com
+Organon Norway AS Tlf: +47 24 14 56 60 dpoc.norway@organon.com
 
 ## Österreich
 
@@ -1707,7 +1695,7 @@ Organon Healthcare GmbH Tel: +49 (0) 89 2040022 10 dpoc.austria@organon.com
 
 ## Polska
 
-Organon Polska Sp. z o.o. Tel.: +48 22 105 50 01 organonpolska@organon.com
+Organon Polska Sp. z o.o. Tel.: +48 22 306 57 64 dpoc.poland@organon.com
 
 ## Portugal
 
@@ -1719,33 +1707,15 @@ Organon Biosciences S.R.L. Tel: +40 21 527 29 90 dpoc.romania@organon.com
 
 ## Slovenija
 
-Organon Pharma B.V., Oss, podružnica Ljubljana Tel: +386 1 300 10 80 dpoc.slovenia@organon.com
+Organon Pharma B.V., Oss, podružnica
 
-<div style=\"page-break-after: always\"></div>
+Ljubljana Tel: +386 1 300 10 80 dpoc.slovenia@organon.com
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: + 354 535 7000
-
-## Italia
-
-Organon Italia S.r.l.
-
-Tel: +39 06 90259059
-
-dpoc.italy@organon.com
-
-## Κύπρος
-
-Organon Pharma B.V., Cyprus branch Τηλ: +357 22866730 dpoc.cyprus@organon.com
-
-## Latvija
-
-Ārvalsts komersanta 'Organon Pharma B.V.'
-
-pārstāvniecība Tel: +371 66968876 dpoc.latvia@organon.com
 
 ## Slovenská republika
 
@@ -1755,17 +1725,39 @@ Tel: +421 2 44 88 98 88
 
 dpoc.slovakia@organon.com
 
+## Italia
+
+Organon Italia S.r.l.
+
+Tel: +39 06 90259059
+
+dpoc.italy@organon.com
+
 ## Suomi/Finland
 
 Organon Finland Oy Puh/Tel: +358 (0) 29 170 3520 dpoc.finland@organon.com
 
+## Κύπρος
+
+Organon Pharma B.V., Cyprus branch Τηλ: +357 22866730 dpoc.cyprus@organon.com
+
 ## Sverige
 
-Organon Sweden AB Tel: +46 8 502 597 00 dpoc.sweden@organon.com
+Organon Sweden AB
 
-## United Kingdom (Northern Ireland)
+Tel: +46 8 502 597 00
 
-Organon Pharma (UK) Limited Tel: +44 (0) 208 159 3593 medicalinformationuk@organon.com
+dpoc.sweden@organon.com
+
+## Latvija
+
+Ārvalsts komersanta 'Organon Pharma B.V.' pārstāvniecība
+
+Tel: +371 66968876
+
+dpoc.latvia@organon.com
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in &lt;{MM/YYYY}&gt;&lt;{month YYYY}&gt;
 

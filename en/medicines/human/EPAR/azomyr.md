@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 14:20:19
+document_datetime: 2026-03-02 12:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/azomyr.html
 document_name: azomyr.html
 version: success
-processing_time: 0.1213143
-conversion_datetime: 2025-12-30 02:28:31.128711
+processing_time: 0.1122737
+conversion_datetime: 2026-03-05 11:49:42.567193
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Azomyr
 
 [RSS](/en/individual-human-medicine.xml/65509)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 desloratadine Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +107,7 @@ English (EN) (75 KB - PDF)
 
 [View](/en/documents/overview/azomyr-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-288)
+[Other languages (22)](#file-language-dropdown-167)
 
 български (BG) (102.94 KB - PDF)
 
@@ -387,17 +385,17 @@ English (EN) (1.86 MB - PDF)
 
 Azomyr : EPAR - Product Information
 
-English (EN) (317.85 KB - PDF)
+English (EN) (400.15 KB - PDF)
 
 **First published:** 01/04/2009
 
-**Last updated:** 05/03/2025
+**Last updated:** 02/03/2026
 
 [View](/en/documents/product-information/azomyr-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-870)
+[Other languages (24)](#file-language-dropdown-283)
 
-български (BG) (409.05 KB - PDF)
+български (BG) (487.06 KB - PDF)
 
 **First published:**
 
@@ -405,11 +403,11 @@ English (EN) (317.85 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/bg/documents/product-information/azomyr-epar-product-information_bg.pdf)
 
-español (ES) (333.87 KB - PDF)
+español (ES) (446.95 KB - PDF)
 
 **First published:**
 
@@ -417,11 +415,11 @@ español (ES) (333.87 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/es/documents/product-information/azomyr-epar-product-information_es.pdf)
 
-čeština (CS) (374.57 KB - PDF)
+čeština (CS) (457.16 KB - PDF)
 
 **First published:**
 
@@ -429,11 +427,11 @@ español (ES) (333.87 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/cs/documents/product-information/azomyr-epar-product-information_cs.pdf)
 
-dansk (DA) (313.99 KB - PDF)
+dansk (DA) (393.56 KB - PDF)
 
 **First published:**
 
@@ -441,11 +439,11 @@ dansk (DA) (313.99 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/da/documents/product-information/azomyr-epar-product-information_da.pdf)
 
-Deutsch (DE) (327.96 KB - PDF)
+Deutsch (DE) (414.48 KB - PDF)
 
 **First published:**
 
@@ -453,11 +451,11 @@ Deutsch (DE) (327.96 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/de/documents/product-information/azomyr-epar-product-information_de.pdf)
 
-eesti keel (ET) (304.2 KB - PDF)
+eesti keel (ET) (405.32 KB - PDF)
 
 **First published:**
 
@@ -465,11 +463,11 @@ eesti keel (ET) (304.2 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/et/documents/product-information/azomyr-epar-product-information_et.pdf)
 
-ελληνικά (EL) (420.38 KB - PDF)
+ελληνικά (EL) (502.4 KB - PDF)
 
 **First published:**
 
@@ -477,11 +475,11 @@ eesti keel (ET) (304.2 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/el/documents/product-information/azomyr-epar-product-information_el.pdf)
 
-français (FR) (345.78 KB - PDF)
+français (FR) (330.48 KB - PDF)
 
 **First published:**
 
@@ -489,11 +487,11 @@ français (FR) (345.78 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/fr/documents/product-information/azomyr-epar-product-information_fr.pdf)
 
-hrvatski (HR) (375.42 KB - PDF)
+hrvatski (HR) (456.16 KB - PDF)
 
 **First published:**
 
@@ -501,11 +499,11 @@ hrvatski (HR) (375.42 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/hr/documents/product-information/azomyr-epar-product-information_hr.pdf)
 
-íslenska (IS) (310.5 KB - PDF)
+íslenska (IS) (392.24 KB - PDF)
 
 **First published:**
 
@@ -513,11 +511,11 @@ hrvatski (HR) (375.42 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/is/documents/product-information/azomyr-epar-product-information_is.pdf)
 
-italiano (IT) (334.85 KB - PDF)
+italiano (IT) (416.81 KB - PDF)
 
 **First published:**
 
@@ -525,11 +523,11 @@ italiano (IT) (334.85 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/it/documents/product-information/azomyr-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (391.69 KB - PDF)
+latviešu valoda (LV) (388.74 KB - PDF)
 
 **First published:**
 
@@ -537,11 +535,11 @@ latviešu valoda (LV) (391.69 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/lv/documents/product-information/azomyr-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (389.28 KB - PDF)
+lietuvių kalba (LT) (391.26 KB - PDF)
 
 **First published:**
 
@@ -549,11 +547,11 @@ lietuvių kalba (LT) (389.28 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/lt/documents/product-information/azomyr-epar-product-information_lt.pdf)
 
-magyar (HU) (408.77 KB - PDF)
+magyar (HU) (501.94 KB - PDF)
 
 **First published:**
 
@@ -561,11 +559,11 @@ magyar (HU) (408.77 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/hu/documents/product-information/azomyr-epar-product-information_hu.pdf)
 
-Malti (MT) (448.41 KB - PDF)
+Malti (MT) (549.33 KB - PDF)
 
 **First published:**
 
@@ -573,11 +571,11 @@ Malti (MT) (448.41 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/mt/documents/product-information/azomyr-epar-product-information_mt.pdf)
 
-Nederlands (NL) (319.45 KB - PDF)
+Nederlands (NL) (398.04 KB - PDF)
 
 **First published:**
 
@@ -585,11 +583,11 @@ Nederlands (NL) (319.45 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/nl/documents/product-information/azomyr-epar-product-information_nl.pdf)
 
-norsk (NO) (314.86 KB - PDF)
+norsk (NO) (455.05 KB - PDF)
 
 **First published:**
 
@@ -597,11 +595,11 @@ norsk (NO) (314.86 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/no/documents/product-information/azomyr-epar-product-information_no.pdf)
 
-polski (PL) (393.58 KB - PDF)
+polski (PL) (481.06 KB - PDF)
 
 **First published:**
 
@@ -609,11 +607,11 @@ polski (PL) (393.58 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/pl/documents/product-information/azomyr-epar-product-information_pl.pdf)
 
-português (PT) (318.45 KB - PDF)
+português (PT) (407.9 KB - PDF)
 
 **First published:**
 
@@ -621,11 +619,11 @@ português (PT) (318.45 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/pt/documents/product-information/azomyr-epar-product-information_pt.pdf)
 
-română (RO) (375.55 KB - PDF)
+română (RO) (486.13 KB - PDF)
 
 **First published:**
 
@@ -633,11 +631,11 @@ română (RO) (375.55 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/ro/documents/product-information/azomyr-epar-product-information_ro.pdf)
 
-slovenčina (SK) (394.72 KB - PDF)
+slovenčina (SK) (475.06 KB - PDF)
 
 **First published:**
 
@@ -645,11 +643,11 @@ slovenčina (SK) (394.72 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/sk/documents/product-information/azomyr-epar-product-information_sk.pdf)
 
-slovenščina (SL) (366.13 KB - PDF)
+slovenščina (SL) (450.83 KB - PDF)
 
 **First published:**
 
@@ -657,11 +655,11 @@ slovenščina (SL) (366.13 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/sl/documents/product-information/azomyr-epar-product-information_sl.pdf)
 
-Suomi (FI) (309.73 KB - PDF)
+Suomi (FI) (386.96 KB - PDF)
 
 **First published:**
 
@@ -669,11 +667,11 @@ Suomi (FI) (309.73 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/fi/documents/product-information/azomyr-epar-product-information_fi.pdf)
 
-svenska (SV) (309.15 KB - PDF)
+svenska (SV) (384.2 KB - PDF)
 
 **First published:**
 
@@ -681,11 +679,11 @@ svenska (SV) (309.15 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/sv/documents/product-information/azomyr-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** WS2804/G 13/02/2025
+**Latest procedure affecting product information:** VR/0000312765 26/02/2026
 
 icon globe
 
@@ -711,7 +709,7 @@ English (EN) (47.83 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/azomyr-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-905)
+[Other languages (24)](#file-language-dropdown-13)
 
 български (BG) (66.92 KB - PDF)
 
@@ -1026,11 +1024,11 @@ Azomyr is indicated for the relief of symptoms associated with:
 
 EMA product number EMEA/H/C/000310 Marketing authorisation holder
 
-N.V. Organon
+Organon N.V.
 
 Kloosterstraat 6
 
-Opinion adopted 22/09/2022 Marketing authorisation issued 15/01/2001 Revision 54
+Opinion adopted 22/09/2022 Marketing authorisation issued 15/01/2001 Revision 55
 
 ## Assessment history
 
@@ -1042,13 +1040,21 @@ Collapse section
 
 Azomyr : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (151.82 KB - PDF)
+
+**First published:** 02/03/2026
+
+[View](/en/documents/procedural-steps-after/azomyr-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Azomyr : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (166.53 KB - PDF)
 
 **First published:** 01/04/2009
 
-**Last updated:** 05/03/2025
+**Last updated:** 02/03/2026
 
-[View](/en/documents/procedural-steps-after/azomyr-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/azomyr-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Azomyr-H-C-PSUSA-00000962-202107 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1186,11 +1192,11 @@ English (EN) (597.13 KB - PDF)
 
 [View](/en/documents/scientific-discussion/azomyr-epar-scientific-discussion_en.pdf)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 05/03/2025
+**This page was last updated on** 02/03/2026
 
 ## Share this page
 

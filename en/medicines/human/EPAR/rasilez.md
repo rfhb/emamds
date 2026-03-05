@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:44:12
+document_datetime: 2026-03-02 16:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rasilez.html
 document_name: rasilez.html
 version: success
-processing_time: 0.1416887
-conversion_datetime: 2025-12-31 02:28:22.394419
+processing_time: 0.1243728
+conversion_datetime: 2026-03-05 11:51:13.074229
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Rasilez
 
 [RSS](/en/individual-human-medicine.xml/66680)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 aliskiren Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +112,7 @@ English (EN) (78.75 KB - PDF)
 
 [View](/en/documents/overview/rasilez-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-726)
+[Other languages (22)](#file-language-dropdown-348)
 
 български (BG) (106.39 KB - PDF)
 
@@ -384,17 +382,17 @@ svenska (SV) (78.88 KB - PDF)
 
 Rasilez : EPAR - Product Information
 
-English (EN) (462.95 KB - PDF)
+English (EN) (445.6 KB - PDF)
 
 **First published:** 08/06/2009
 
-**Last updated:** 23/02/2023
+**Last updated:** 02/03/2026
 
 [View](/en/documents/product-information/rasilez-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-213)
+[Other languages (24)](#file-language-dropdown-90)
 
-български (BG) (457.19 KB - PDF)
+български (BG) (589.99 KB - PDF)
 
 **First published:**
 
@@ -402,11 +400,11 @@ English (EN) (462.95 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/bg/documents/product-information/rasilez-epar-product-information_bg.pdf)
 
-español (ES) (316.41 KB - PDF)
+español (ES) (431.09 KB - PDF)
 
 **First published:**
 
@@ -414,11 +412,11 @@ español (ES) (316.41 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/es/documents/product-information/rasilez-epar-product-information_es.pdf)
 
-čeština (CS) (395.53 KB - PDF)
+čeština (CS) (491.82 KB - PDF)
 
 **First published:**
 
@@ -426,11 +424,11 @@ español (ES) (316.41 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/cs/documents/product-information/rasilez-epar-product-information_cs.pdf)
 
-dansk (DA) (364.63 KB - PDF)
+dansk (DA) (432.16 KB - PDF)
 
 **First published:**
 
@@ -438,11 +436,11 @@ dansk (DA) (364.63 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/da/documents/product-information/rasilez-epar-product-information_da.pdf)
 
-Deutsch (DE) (327.83 KB - PDF)
+Deutsch (DE) (443.1 KB - PDF)
 
 **First published:**
 
@@ -450,11 +448,11 @@ Deutsch (DE) (327.83 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/de/documents/product-information/rasilez-epar-product-information_de.pdf)
 
-eesti keel (ET) (354.77 KB - PDF)
+eesti keel (ET) (463.49 KB - PDF)
 
 **First published:**
 
@@ -462,11 +460,11 @@ eesti keel (ET) (354.77 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/et/documents/product-information/rasilez-epar-product-information_et.pdf)
 
-ελληνικά (EL) (526.95 KB - PDF)
+ελληνικά (EL) (611.44 KB - PDF)
 
 **First published:**
 
@@ -474,11 +472,11 @@ eesti keel (ET) (354.77 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/el/documents/product-information/rasilez-epar-product-information_el.pdf)
 
-français (FR) (415.23 KB - PDF)
+français (FR) (512.34 KB - PDF)
 
 **First published:**
 
@@ -486,11 +484,11 @@ français (FR) (415.23 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/fr/documents/product-information/rasilez-epar-product-information_fr.pdf)
 
-hrvatski (HR) (406.11 KB - PDF)
+hrvatski (HR) (492.66 KB - PDF)
 
 **First published:**
 
@@ -498,11 +496,11 @@ hrvatski (HR) (406.11 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/hr/documents/product-information/rasilez-epar-product-information_hr.pdf)
 
-íslenska (IS) (313.46 KB - PDF)
+íslenska (IS) (412.2 KB - PDF)
 
 **First published:**
 
@@ -510,11 +508,11 @@ hrvatski (HR) (406.11 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/is/documents/product-information/rasilez-epar-product-information_is.pdf)
 
-italiano (IT) (325 KB - PDF)
+italiano (IT) (470.02 KB - PDF)
 
 **First published:**
 
@@ -522,11 +520,11 @@ italiano (IT) (325 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/it/documents/product-information/rasilez-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (387.38 KB - PDF)
+latviešu valoda (LV) (482.14 KB - PDF)
 
 **First published:**
 
@@ -534,11 +532,11 @@ latviešu valoda (LV) (387.38 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/lv/documents/product-information/rasilez-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (409.03 KB - PDF)
+lietuvių kalba (LT) (561.14 KB - PDF)
 
 **First published:**
 
@@ -546,11 +544,11 @@ lietuvių kalba (LT) (409.03 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/lt/documents/product-information/rasilez-epar-product-information_lt.pdf)
 
-magyar (HU) (408.02 KB - PDF)
+magyar (HU) (531.7 KB - PDF)
 
 **First published:**
 
@@ -558,11 +556,11 @@ magyar (HU) (408.02 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/hu/documents/product-information/rasilez-epar-product-information_hu.pdf)
 
-Malti (MT) (433.33 KB - PDF)
+Malti (MT) (573.78 KB - PDF)
 
 **First published:**
 
@@ -570,11 +568,11 @@ Malti (MT) (433.33 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/mt/documents/product-information/rasilez-epar-product-information_mt.pdf)
 
-Nederlands (NL) (321.34 KB - PDF)
+Nederlands (NL) (431.2 KB - PDF)
 
 **First published:**
 
@@ -582,11 +580,11 @@ Nederlands (NL) (321.34 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/nl/documents/product-information/rasilez-epar-product-information_nl.pdf)
 
-norsk (NO) (312.25 KB - PDF)
+norsk (NO) (424.96 KB - PDF)
 
 **First published:**
 
@@ -594,11 +592,11 @@ norsk (NO) (312.25 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/no/documents/product-information/rasilez-epar-product-information_no.pdf)
 
-polski (PL) (424.83 KB - PDF)
+polski (PL) (544.35 KB - PDF)
 
 **First published:**
 
@@ -606,11 +604,11 @@ polski (PL) (424.83 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/pl/documents/product-information/rasilez-epar-product-information_pl.pdf)
 
-português (PT) (331.49 KB - PDF)
+português (PT) (495.9 KB - PDF)
 
 **First published:**
 
@@ -618,11 +616,11 @@ português (PT) (331.49 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/pt/documents/product-information/rasilez-epar-product-information_pt.pdf)
 
-română (RO) (405.13 KB - PDF)
+română (RO) (520.7 KB - PDF)
 
 **First published:**
 
@@ -630,11 +628,11 @@ română (RO) (405.13 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/ro/documents/product-information/rasilez-epar-product-information_ro.pdf)
 
-slovenčina (SK) (410.15 KB - PDF)
+slovenčina (SK) (520.56 KB - PDF)
 
 **First published:**
 
@@ -642,11 +640,11 @@ slovenčina (SK) (410.15 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/sk/documents/product-information/rasilez-epar-product-information_sk.pdf)
 
-slovenščina (SL) (388.26 KB - PDF)
+slovenščina (SL) (504.68 KB - PDF)
 
 **First published:**
 
@@ -654,11 +652,11 @@ slovenščina (SL) (388.26 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/sl/documents/product-information/rasilez-epar-product-information_sl.pdf)
 
-Suomi (FI) (332.17 KB - PDF)
+Suomi (FI) (471.28 KB - PDF)
 
 **First published:**
 
@@ -666,11 +664,11 @@ Suomi (FI) (332.17 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/fi/documents/product-information/rasilez-epar-product-information_fi.pdf)
 
-svenska (SV) (318.24 KB - PDF)
+svenska (SV) (454.31 KB - PDF)
 
 **First published:**
 
@@ -678,11 +676,11 @@ svenska (SV) (318.24 KB - PDF)
 
 **Last updated:**
 
-23/02/2023
+02/03/2026
 
 [View](/sv/documents/product-information/rasilez-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IAIN/0131 23/02/2023
+**Latest procedure affecting product information:** VR/0000322560 06/02/2026
 
 icon globe
 
@@ -708,7 +706,7 @@ English (EN) (53.63 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-130)
+[Other languages (24)](#file-language-dropdown-69)
 
 български (BG) (62.3 KB - PDF)
 
@@ -1014,11 +1012,11 @@ Treatment of essential hypertension.
 
 EMA product number EMEA/H/C/000780 Marketing authorisation holder
 
-Noden Pharma DAC
+Lxo Ireland Designated Activity Company
 
-D'Olier Chambers
+D'Olier Chambers 16a D'Olier Street Dublin 2 D02 H589 Ireland
 
-Marketing authorisation issued 22/08/2007 Revision 27
+Marketing authorisation issued 22/08/2007 Revision 28
 
 ## Assessment history
 
@@ -1030,13 +1028,21 @@ Collapse section
 
 Rasilez : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (127.36 KB - PDF)
+
+**First published:** 02/03/2026
+
+[View](/en/documents/procedural-steps-after/rasilez-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Rasilez : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (5.82 MB - PDF)
 
 **First published:** 18/06/2009
 
-**Last updated:** 23/02/2023
+**Last updated:** 02/03/2026
 
-[View](/en/documents/procedural-steps-after/rasilez-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/rasilez-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Rasilez-H-C-780-P46-0039 : EPAR - Assessment Report
 
@@ -1088,7 +1094,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-204)
+[Other languages (22)](#file-language-dropdown-704)
 
 български (BG) (87.49 KB - PDF)
 
@@ -1426,13 +1432,13 @@ English (EN) (26.26 KB - PDF)
 
 [View](/en/documents/procedural-steps/rasilez-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### News on Rasilez
+## News on Rasilez
 
 [Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 13-16 May 2013](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-13-16-may-2013) 17/05/2013
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 February 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-february-2012) 17/02/2012
 
-#### More information on Rasilez
+## More information on Rasilez
 
 Questions and answers on the review aliskiren-containing medicines
 
@@ -1468,17 +1474,17 @@ English (EN) (65.3 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-ongoing-review-aliskiren-containing-medicines_en.pdf)
 
-#### More information on Rasilez
+## More information on Rasilez
 
 - [EMEA-000362-PIP01-08-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000362-pip01-08-m04)
 - [Renin-angiotensin-system (RAS)-acting agents - referral](/en/medicines/human/referrals/renin-angiotensin-system-ras-acting-agents)
 - [Assessing the Incidence of Ischemic Colitis in Treated Adult Hypertensive Patients in the United States - a Descriptive, Retrospective Cohort Study with Secondary Use of Data from a US Health Claims Database (NA) - post-authorisation study](https://catalogues.ema.europa.eu/study/17559)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 23/02/2023
+**This page was last updated on** 02/03/2026
 
 ## Share this page
 

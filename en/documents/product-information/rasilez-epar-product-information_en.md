@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 21:42:23
+document_datetime: 2026-03-02 12:21:19
 document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rasilez-epar-product-information_en.pdf
 document_name: rasilez-epar-product-information_en.pdf
 version: success
-processing_time: 8.09984
-conversion_datetime: 2025-12-23 06:13:47.369823
+processing_time: 9.23654
+conversion_datetime: 2026-03-05 11:58:31.232436
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -307,10 +307,6 @@ Table 1
 | Rare:                                           | Haemoglobin decreased, haematocrit decreased, blood creatinine increased                                                                                              |
 | Not known:                                      | Hyponatraemia                                                                                                                                                         |
 
-*Isolated cases of liver disorder with clinical symptoms and laboratory evidence of more marked hepatic dysfunction.
-
-**Including one case of 'liver failure fulminant' reported in the post-marketing experience, for which a causal relationship with aliskiren cannot be excluded.
-
 ## Description of selected adverse reactions
 
 ## Hypersensitivity reactions including anaphylactic reactions and angioedema
@@ -589,7 +585,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Noden Pharma DAC
+LXO Ireland DAC
 
 <div style=\"page-break-after: always\"></div>
 
@@ -712,7 +708,7 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Noden Pharma DAC
+LXO Ireland DAC
 
 D'Olier Chambers
 
@@ -793,7 +789,7 @@ Rasilez 150 mg film-coated tablets aliskiren
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
-Noden Pharma DAC
+LXO Ireland DAC
 
 ## 3. EXPIRY DATE
 
@@ -869,7 +865,7 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Noden Pharma DAC D'Olier Chambers 16A D'Olier Street Dublin 2 Ireland
+LXO Ireland DAC D'Olier Chambers 16A D'Olier Street Dublin 2 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -945,7 +941,7 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Noden Pharma DAC D'Olier Chambers 16A D'Olier Street Dublin 2 Ireland
+LXO Ireland DAC D'Olier Chambers 16A D'Olier Street Dublin 2 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -961,11 +957,11 @@ EU/1/07/405/030
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Rasilez 150 mg
 
@@ -1034,7 +1030,7 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Noden Pharma DAC
+LXO Ireland DAC
 
 D'Olier Chambers
 
@@ -1114,7 +1110,7 @@ Rasilez 300 mg film-coated tablets aliskiren
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
-Noden Pharma DAC
+LXO Ireland DAC
 
 ## 3. EXPIRY DATE
 
@@ -1189,15 +1185,7 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Noden Pharma DAC
-
-D'Olier Chambers
-
-16A D'Olier Street
-
-Dublin 2
-
-Ireland
+LXO Ireland DAC D'Olier Chambers 16A D'Olier Street Dublin 2 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1273,7 +1261,7 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Noden Pharma DAC D'Olier Chambers 16A D'Olier Street Dublin 2 Ireland
+LXO Ireland DAC D'Olier Chambers 16A D'Olier Street Dublin 2 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1292,7 +1280,8 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 Rasilez 300 mg
 
@@ -1536,7 +1525,7 @@ Not all pack sizes may be available in your country.
 
 ## Marketing Authorisation Holder
 
-Noden Pharma DAC D'Olier Chambers 16A D'Olier Street Dublin 2 Ireland
+LXO Ireland DAC D'Olier Chambers 16A D'Olier Street Dublin 2 Ireland
 
 ## Manufacturer
 
@@ -1544,7 +1533,7 @@ Delpharm Milano S.R.L., Via Carnevale, 1, Segrate (MI), 20054, Italy.
 
 <div style=\"page-break-after: always\"></div>
 
-## This leaflet was last revised in 02/2023
+## This leaflet was last revised in
 
 ## Other sources of information
 

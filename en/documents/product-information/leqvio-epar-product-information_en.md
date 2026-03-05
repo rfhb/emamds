@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-27 10:45:37
+document_datetime: 2026-03-04 11:15:18
 document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/leqvio-epar-product-information_en.pdf
 document_name: leqvio-epar-product-information_en.pdf
 version: success
-processing_time: 9.3378247
-conversion_datetime: 2026-01-29 12:11:10.127642
+processing_time: 10.817895
+conversion_datetime: 2026-03-05 11:37:34.416995
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
   docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -57,7 +57,7 @@ The recommended dose is 284 mg inclisiran administered as a single subcutaneous 
 
 ## Missed doses
 
-If a planned dose is missed by less than 3 months, inclisiran should be administered and dosing continued according to the patient's original schedule .
+If a planned dose is missed by less than 3 months, inclisiran should be administered and dosing continued according to the patient's original schedule.
 
 If a planned dose is missed by more than 3 months, a new dosing schedule should be started -inclisiran should be administered initially, again at 3 months, followed by every 6 months.
 
@@ -445,6 +445,8 @@ Name and address of the manufacturers responsible for batch release
 
 Novartis Pharmaceutical Manufacturing GmbH Biochemiestrasse 10 6336 Langkampfen Austria
 
+Novartis Pharmaceutical Manufacturing LLC Verovškova Ulica 57 1000 Ljubljana Slovenia
+
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
@@ -692,7 +694,7 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS   |
 |------------------------------------------------------------------|
 | PRE-FILLED SYRINGE LABEL                                         |
 
@@ -869,9 +871,11 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Pharmaceutical Manufacturing GmbH Biochemiestrasse 10 6336 Langkampfen Austria
 
-Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
+Novartis Pharmaceutical Manufacturing LLC Verovškova Ulica 57 1000 Ljubljana Slovenia
 
 <div style=\"page-break-after: always\"></div>
+
+Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -879,17 +883,9 @@ For any information about this medicine, please contact the local representative
 
 Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
-
 ## България
 
 Novartis Bulgaria EOOD Тел.: +359 2 489 98 28
-
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## Česká republika
 
@@ -897,41 +893,25 @@ Novartis s.r.o.
 
 Tel: +420 225 775 111
 
-## Magyarország
-
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
-
 ## Danmark
 
 Novartis Healthcare A/S Tlf.: +45 39 16 84 00
 
-## Malta
-
-Novartis Pharma Services Inc. Tel: +356 2122 2872
-
 ## Deutschland
 
-Novartis Pharma GmbH Tel: +49 911 273 0
+Novartis Pharma GmbH
 
-## Nederland
-
-Novartis Pharma B.V. Tel: +31 88 04 52 111
+Tel: +49 911 273 0
 
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
+SIA Novartis Baltics Eesti filiaal
 
-## Norge
-
-Novartis Norge AS Tlf: +47 23 05 20 00
+Tel: +372 66 30 810
 
 ## Ελλάδα
 
 Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
-
-## Österreich
-
-Novartis Pharma GmbH Tel: +43 1 86 6570
 
 ## España
 
@@ -939,27 +919,15 @@ Novartis Farmacéutica, S.A.
 
 Tel: +34 93 306 42 00
 
-## Polska
-
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
-
 ## France
 
 Novartis Pharma S.A.S.
 
 Tél: +33 1 55 47 66 00
 
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
-
 ## Hrvatska
 
 Novartis Hrvatska d.o.o. Tel: +385 1 6274 220
-
-## România
-
-Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
 
 ## Ireland
 
@@ -967,19 +935,63 @@ Novartis Ireland Limited
 
 Tel: +353 1 260 12 55
 
-## Slovenija
-
-Novartis Pharma Services Inc. Tel: +386 1 300 75 50
-
 ## Ísland
 
 Vistor ehf.
 
 Sími: +354 535 7000
 
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
+
+## Magyarország
+
+Novartis Hungária Kft. Tel.: +36 1 457 65 00
+
+## Malta
+
+Novartis Pharma Services Inc. Tel: +356 2122 2872
+
+## Nederland
+
+Novartis Pharma B.V. Tel: +31 88 04 52 111
+
+## Norge
+
+Novartis Norge AS Tlf: +47 23 05 20 00
+
+## Österreich
+
+Novartis Pharma GmbH Tel: +43 1 86 6570
+
+## Polska
+
+Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
+
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
+
+## România
+
+Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
+
+## Slovenija
+
+Novartis Pharma Services Inc. Tel: +386 1 300 75 50
+
 ## Slovenská republika
 
-Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
 
 ## Italia
 
@@ -993,13 +1005,17 @@ Novartis Finland Oy
 
 Puh/Tel: +358 (0)10 6133 200
 
-<div style=\"page-break-after: always\"></div>
-
 ## Κύπρος
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
 
 ## Latvija
 
@@ -1007,17 +1023,13 @@ SIA Novartis Baltics
 
 Tel: +371 67 887 070
 
+<div style=\"page-break-after: always\"></div>
+
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
-
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1286,6 +1298,8 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Pharmaceutical Manufacturing GmbH Biochemiestrasse 10 6336 Langkampfen Austria
 
+Novartis Pharmaceutical Manufacturing LLC Verovškova Ulica 57 1000 Ljubljana Slovenia
+
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
@@ -1398,17 +1412,13 @@ Novartis Farma - Produtos Farmacêuticos, S.A.
 
 Tel: +351 21 000 8600
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hrvatska
 
 Novartis Hrvatska d.o.o.
 
 Tel: +385 1 6274 220
-
-## România
-
-Novartis Pharma Services Romania SRL
-
-Tel: +40 21 31299 01
 
 ## Ireland
 
@@ -1416,23 +1426,11 @@ Novartis Ireland Limited
 
 Tel: +353 1 260 12 55
 
-## Slovenija
-
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
-
 ## Ísland
 
 Vistor ehf.
 
 Sími: +354 535 7000
-
-## Slovenská republika
-
-Novartis Slovakia s.r.o.
-
-Tel: +421 2 5542 5439
 
 ## Italia
 
@@ -1440,25 +1438,11 @@ Novartis Farma S.p.A.
 
 Tel: +39 02 96 54 1
 
-## Suomi/Finland
-
-Novartis Finland Oy
-
-Puh/Tel: +358 (0)10 6133 200
-
 ## Κύπρος
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
-
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00
-
-<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -1471,6 +1455,36 @@ Tel: +371 67 887 070
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+## România
+
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
+
+## Slovenija
+
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
+
+## Slovenská republika
+
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
+
+## Suomi/Finland
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
 
 <div style=\"page-break-after: always\"></div>
 

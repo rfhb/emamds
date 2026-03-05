@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-17 14:55:40
-document_pages: 94
+document_datetime: 2026-03-03 15:01:15
+document_pages: 93
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/entyvio-epar-product-information_en.pdf
 document_name: entyvio-epar-product-information_en.pdf
 version: success
-processing_time: 23.4043139
-conversion_datetime: 2026-01-03 12:57:32.08369
+processing_time: 28.4062684
+conversion_datetime: 2026-03-05 11:45:00.939067
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -34,6 +34,10 @@ After reconstitution, each mL contains 60 mg of vedolizumab.
 
 Vedolizumab is a humanised IgG1 monoclonal antibody produced in Chinese hamster ovary (CHO) cells by recombinant DNA technology.
 
+## Excipient with known effect
+
+Each Entyvio 300 mg vial contains 3.31 mg of polysorbate 80.
+
 For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
@@ -48,11 +52,11 @@ White to off-white lyophilised cake or powder.
 
 ## Ulcerative colitis
 
-Entyvio is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a tumour necrosis factor-alpha (TNFα) antagonist.
+Entyvio is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a tumour necrosis factor-alpha ( TNFα) antagonist.
 
 ## Crohn's disease
 
-Entyvio is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a tumour necrosis factor-alpha (TNFα) antagonist.
+Entyvio is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a tumour necrosis factor-alpha (TNF α) antagonist.
 
 ## Pouchitis
 
@@ -162,13 +166,13 @@ Physicians should be aware of the potential increased risk of opportunistic infe
 
 Vedolizumab is contraindicated in patients with active tuberculosis (see section 4.3). Before starting treatment with vedolizumab, patients must be screened for tuberculosis according to the local practice. If latent tuberculosis is diagnosed, appropriate treatment must be started with anti-tuberculosis treatment in accordance with local recommendations, before beginning vedolizumab. In patients diagnosed with TB whilst receiving vedolizumab therapy, then vedolizumab therapy should be discontinued until the TB infection has been resolved.
 
-Some integrin antagonists and some systemic immunosuppressive agents have been associated with progressive multifocal leukoencephalopathy (PML), which is a rare and often fatal opportunistic infection caused by the John Cunningham (JC) virus. By binding to the α4β7 integrin expressed on gut-homing lymphocytes, vedolizumab exerts an immunosuppressive effect specific to the gut. Although no systemic immunosuppressive effect was noted in healthy subjects the effects on systemic immune system function in patients with inflammatory bowel disease is not known.
+Some integrin antagonists and some systemic immunosuppressive agents have been associated with progressive multifocal leukoencephalopathy (PML), which is a rare and often fatal opportunistic infection caused by the John Cunningham (JC) virus. By binding to the α 4 β 7 integrin expressed on gut-homing lymphocytes, vedolizumab exerts an immunosuppressive effect specific to the gut. Although no systemic immunosuppressive effect was noted in healthy subjects the effects on systemic immune system function in patients with inflammatory bowel disease is not known.
 
 Healthcare professionals should monitor patients on vedolizumab for any new onset or worsening of neurological signs and symptoms and consider neurological referral if they occur. If PML is suspected, treatment with vedolizumab must be withheld; if confirmed, treatment must be permanently discontinued.
 
 ## Malignancies
 
-The risk of malignancy is increased in patients with ulcerative colitis and Crohn's disease. Immunomodulatory medicinal products may increase the risk of malignancy (see section 4.8).
+The risk of malignancy is increased in patients with ulcerative colitis and Crohn's disease. Immunomodulatory medicinal products may increase the risk of malignancy.
 
 ## Prior and concurrent use of biological products
 
@@ -186,9 +190,13 @@ In a placebo-controlled study of healthy volunteers, a single 750 mg dose of ved
 
 ## Induction of remission in Crohn's disease
 
-Induction of remission in Crohn's disease may take up to 14 weeks in some patients. The reasons for this are not fully known and are possibly related to the mechanism of action. This should be taken into consideration, particularly in patients with severe active disease at baseline not previously treated with TNFα antagonists. (see also section 5.1.)
+Induction of remission in Crohn's disease may take up to 14 weeks in some patients. The reasons for this are not fully known and are possibly related to the mechanism of action. This should be taken into consideration, particularly in patients with severe active disease at baseline not previously treated with TNFα antagonists (see also section 5.1).
 
 Exploratory subgroup analyses from the clinical trials in Crohn's disease suggested that vedolizumab administered in patients without concomitant corticosteroid treatment may be less effective for induction of remission in Crohn's disease than in those patients already receiving concomitant corticosteroids (regardless of use of concomitant immunomodulators; see section 5.1).
+
+## Polysorbate 80 content
+
+This medicinal product contains 3.31 mg of polysorbate 80 in each Entyvio 300 mg vial.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -204,13 +212,13 @@ The effect of vedolizumab on the pharmacokinetics of commonly co-administered me
 
 Live vaccines, in particular live oral vaccines, should be used with caution concurrently with vedolizumab (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Women of childbearing potential
 
 Women of childbearing potential should use adequate contraception to prevent pregnancy and to continue its use for at least 18 weeks after the last treatment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy
 
@@ -244,42 +252,41 @@ The most commonly reported adverse reactions are infections (such as nasopharyng
 
 Infusion related reactions (with symptoms such as dyspnoea, bronchospasm, urticaria, flushing, rash, and increased blood pressure and heart rate) have also been reported in patients treated with vedolizumab.
 
-## Tabulated list of adverse reactions
-
-The following listing of adverse reactions is based on clinical trial and post marketing experience and is displayed by system organ class. Within the system organ classes, adverse reactions are listed under headings of the following frequency categories: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), very rare (&lt; 1/10,000) and not known (cannot be estimated from
-
 <div style=\"page-break-after: always\"></div>
 
-the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+## Tabulated list of adverse reactions
+
+The following listing of adverse reactions is based on clinical trial and post marketing experience and is displayed by system organ class. Within the system organ classes, adverse reactions are listed under headings of the following frequency categories: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1 000 to &lt; 1/100), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1. Adverse reactions
 
-| System organ class                              | Frequency   | Adverse reaction(s)                                                                                                                            |
-|-------------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                     | Very common | Nasopharyngitis                                                                                                                                |
-| Infections and infestations                     | Common      | Pneumonia, Clostridium difficile infection, Bronchitis, Gastroenteritis, Upper respiratory tract infection, Influenza, Sinusitis, Pharyngitis, |
-| Infections and infestations                     | Uncommon    | Respiratory tract infection, Vulvovaginal candidiasis, Oral candidiasis                                                                        |
-| Immune system disorders                         | Very rare   | Anaphylactic reaction, Anaphylactic shock                                                                                                      |
-| Nervous system disorders                        | Very common | Headache                                                                                                                                       |
-| Nervous system disorders                        | Common      | Paraesthesia                                                                                                                                   |
-| Eye disorders                                   | Uncommon    | Blurred vision                                                                                                                                 |
-| Vascular disorders                              | Common      | Hypertension                                                                                                                                   |
-| Respiratory, thoracic and mediastinal disorders | Common      | Oropharyngeal pain, Nasal congestion, Cough                                                                                                    |
-| Respiratory, thoracic and mediastinal disorders | Not known   | Interstitial lung disease                                                                                                                      |
-| Gastrointestinal disorders                      | Common      | Anal Abscess, Anal fissure, Nausea, Dyspepsia, Constipation, Abdominal distension, Flatulence, Haemorrhoids, Rectal haemorrhage*               |
-| Hepatobiliary disorders                         | Common      | Liver enzyme increased                                                                                                                         |
-| Hepatobiliary disorders                         | Very rare   | Hepatitis                                                                                                                                      |
-| Skin and subcutaneous tissue disorders          | Common      | Rash, Pruritus, Eczema, Erythema, Night sweats, Acne                                                                                           |
-| Skin and subcutaneous tissue disorders          | Uncommon    | Folliculitis                                                                                                                                   |
-| Skin and subcutaneous tissue disorders          | Very common | Arthralgia                                                                                                                                     |
-| Musculoskeletal and connective tissue disorders | Common      | Muscle spasms, Back pain, Muscular weakness, Fatigue, Pain in the extremity                                                                    |
+| System organ class                              | Frequency   | Adverse reactions                                                                                                                                            |
+|-------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                     | Very common | Nasopharyngitis                                                                                                                                              |
+| Infections and infestations                     | Common      | Pneumonia, Clostridium difficile infection, Bronchitis, Gastroenteritis, Upper respiratory tract infection, Influenza, Sinusitis, Pharyngitis, Herpes zoster |
+| Infections and infestations                     | Uncommon    | Respiratory tract infection, Vulvovaginal candidiasis, Oral candidiasis                                                                                      |
+| Immune system disorders                         | Very rare   | Anaphylactic reaction, Anaphylactic shock                                                                                                                    |
+| Nervous system disorders                        | Very common | Headache                                                                                                                                                     |
+| Nervous system disorders                        | Common      | Paraesthesia                                                                                                                                                 |
+| Eye disorders                                   | Uncommon    | Blurred vision                                                                                                                                               |
+| Vascular disorders                              | Common      | Hypertension                                                                                                                                                 |
+| Respiratory, thoracic and mediastinal disorders | Common      | Oropharyngeal pain, Nasal congestion, Cough                                                                                                                  |
+| Respiratory, thoracic and mediastinal disorders | Not known   | Interstitial lung disease                                                                                                                                    |
+| Gastrointestinal disorders                      | Common      | Anal abscess, Anal fissure, Nausea, Dyspepsia, Constipation, Abdominal distension, Flatulence, Haemorrhoids, Rectal haemorrhage*                             |
+| Hepatobiliary disorders                         | Common      | Liver enzyme increased                                                                                                                                       |
+| Hepatobiliary disorders                         | Very rare   | Hepatitis                                                                                                                                                    |
+| Skin and subcutaneous tissue disorders          | Common      | Rash, Pruritus, Eczema, Erythema, Night sweats, Acne                                                                                                         |
+| Skin and subcutaneous tissue disorders          | Uncommon    | Folliculitis                                                                                                                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
-| General disorders and administration site conditions   | Common                                   | Pyrexia, Infusion related reaction (asthenia* and chest discomfort*), Infusion site reaction (including: Infusion site pain and Infusion site irritation)   |
-|--------------------------------------------------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                        | Uncommon                                 | Chills, Feeling cold                                                                                                                                        |
-| *Reported in the EARNEST pouchitis study               | *Reported in the EARNEST pouchitis study | *Reported in the EARNEST pouchitis study                                                                                                                    |
+| System organ class                                   | Frequency                                | Adverse reactions                                                                                                                                                  |
+|------------------------------------------------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Musculoskeletal and connective tissue disorders      | Very common                              | Arthralgia                                                                                                                                                         |
+| Musculoskeletal and connective tissue disorders      | Common                                   | Muscle spasms, Back pain, Muscular weakness, Pain in the extremity                                                                                                 |
+| General disorders and administration site conditions | Common                                   | Pyrexia, Fatigue, Infusion related reaction (asthenia* and chest discomfort*), Infusion site reaction (including: Infusion site pain and Infusion site irritation) |
+| General disorders and administration site conditions | Uncommon                                 | Chills, Feeling cold                                                                                                                                               |
+| *Reported in the EARNEST pouchitis study             | *Reported in the EARNEST pouchitis study | *Reported in the EARNEST pouchitis study                                                                                                                           |
 
 ## Description of selected adverse reactions
 
@@ -297,19 +304,15 @@ In GEMINI 1 and 2 controlled studies (ulcerative colitis and Crohn's disease) wi
 
 In GEMINI 1 and 2 controlled studies with intravenous vedolizumab, the rate of serious infections was 0.07 per patient year in vedolizumab-treated patients and 0.06 per patient year in placebo-treated patients. Over time, there was no significant increase in the rate of serious infections.
 
+<div style=\"page-break-after: always\"></div>
+
 In the EARNEST controlled study (pouchitis) with intravenous vedolizumab, only 1 out of 51 subjects (2.0%) in the vedolizumab group experienced a serious infection of gastroenteritis. The subject was hospitalized for observation, recovered from the event and completed the study.
 
 In controlled and open-label studies (ulcerative colitis and Crohn's disease) in adults with intravenous vedolizumab, serious infections have been reported, which include tuberculosis, sepsis (some fatal), salmonella sepsis, listeria meningitis, and cytomegaloviral colitis.
 
-<div style=\"page-break-after: always\"></div>
-
 In clinical studies with intravenous vedolizumab (ulcerative colitis and Crohn's disease), the rate of infections in vedolizumab-treated patients with BMI of 30 kg/m 2 and above was higher than for those with BMI less than 30 kg/m 2 .
 
 In clinical studies with intravenous vedolizumab (ulcerative colitis and Crohn's disease), a slightly higher incidence of serious infections was reported in vedolizumab-treated patients who had prior exposure to TNFα antagonist therapy compared to patients who were naïve to previous TNFα antagonist therapy.
-
-## Malignancy
-
-Overall, results from the clinical program to date do not suggest an increased risk for malignancy with vedolizumab treatment; however, the number of malignancies was small and long-term exposure was limited. Long-term safety evaluations are ongoing.
 
 ## Reporting of suspected adverse reactions
 
@@ -327,15 +330,13 @@ Pharmacotherapeutic group: immunosuppressants, monoclonal antibodies, ATC code: 
 
 ## Mechanism of action
 
-Vedolizumab is a gut-selective immunosuppressive biologic. It is a humanised monoclonal antibody that binds specifically to the α4β7 integrin, which is preferentially expressed on gut homing T helper lymphocytes. By binding to α4β7 on certain lymphocytes, vedolizumab inhibits adhesion of these cells to mucosal addressin cell adhesion molecule-1 (MAdCAM-1), but not to vascular cell adhesion molecule-1 (VCAM-1). MAdCAM-1 is mainly expressed on gut endothelial cells and plays a critical role in the homing of T lymphocytes to tissues within the gastrointestinal tract. Vedolizumab does not bind to, nor inhibit function of, the α4β1 and αEβ7 integrins.
+Vedolizumab is a gut-selective immunosuppressive biologic. It is a humanised monoclonal antibody that binds specifically to the α 4 β 7 integrin, which is preferentially expressed on gut homing T helper lymphocytes. By binding to α 4 β 7 on certain lymphocytes, vedolizumab inhibits adhesion of these cells to mucosal addressin cell adhesion molecule-1 (MAdCAM-1), but not to vascular cell adhesion molecule-1 (VCAM-1). MAdCAM-1 is mainly expressed on gut endothelial cells and plays a critical role in the homing of T lymphocytes to tissues within the gastrointestinal tract. Vedolizumab does not bind to, nor inhibit function of, the α 4 β 1 and α E β 7 integrins.
 
-The α4β7 integrin is expressed on a discrete subset of memory T helper lymphocytes which preferentially migrate into the gastrointestinal (GI) tract and cause inflammation that is characteristic of ulcerative colitis and Crohn's disease, both of which are chronic inflammatory immunologically mediated conditions of the GI tract. Vedolizumab reduces gastrointestinal inflammation in UC,  CD and pouchitis patients. Inhibiting the interaction of α4β7 with MAdCAM-1 with vedolizumab prevents transmigration of gut-homing memory T helper lymphocytes across the vascular endothelium into parenchymal tissue in nonhuman primates and induced a reversible 3-fold elevation of these cells in peripheral blood. The murine precursor of vedolizumab alleviated gastrointestinal inflammation in colitic cotton-top tamarins, a model of ulcerative colitis.
-
-In healthy subjects, ulcerative colitis patients, or Crohn's disease patients, vedolizumab does not elevate neutrophils, basophils, eosinophils, B-helper and cytotoxic T lymphocytes, total memory T
+The α 4 β 7 integrin is expressed on a discrete subset of memory T helper lymphocytes which preferentially migrate into the gastrointestinal (GI) tract and cause inflammation that is characteristic of ulcerative colitis and Crohn's disease, both of which are chronic inflammatory immunologically mediated conditions of the GI tract. Vedolizumab reduces gastrointestinal inflammation in UC, CD and pouchitis patients. Inhibiting the interaction of α 4 β 7 with MAdCAM-1 with vedolizumab prevents transmigration of gut-homing memory T helper lymphocytes across the vascular endothelium into parenchymal tissue in nonhuman primates and induced a reversible 3-fold elevation of these cells in peripheral blood. The murine precursor of vedolizumab alleviated gastrointestinal inflammation in colitic cotton-top tamarins, a model of ulcerative colitis.
 
 <div style=\"page-break-after: always\"></div>
 
-helper lymphocytes, monocytes or natural killer cells, in the peripheral blood with no leukocytosis observed.
+In healthy subjects, ulcerative colitis patients, or Crohn's disease patients, vedolizumab does not elevate neutrophils, basophils, eosinophils, B-helper and cytotoxic T lymphocytes, total memory T helper lymphocytes, monocytes or natural killer cells, in the peripheral blood with no leukocytosis observed.
 
 Vedolizumab did not affect immune surveillance and inflammation of the central nervous system in Experimental Autoimmune Encephalomyelitis in non-human primates, a model of multiple sclerosis. Vedolizumab did not affect immune responses to antigenic challenge in the dermis and muscle (see section 4.4). In contrast, vedolizumab inhibited an immune response to a gastrointestinal antigenic challenge in healthy human volunteers (see section 4.4).
 
@@ -347,9 +348,9 @@ Infusion related reactions after vedolizumab infusion are reported in subjects w
 
 ## Pharmacodynamic effects
 
-In clinical trials with intravenous vedolizumab at doses ranging from 0.2 to 10 mg/kg, &gt; 95% saturation of α4β7 receptors on subsets of circulating lymphocytes involved in gut immune surveillance was observed in patients.
+In clinical trials with intravenous vedolizumab at doses ranging from 0.2 to 10 mg/kg, &gt; 95% saturation of α 4 β 7 receptors on subsets of circulating lymphocytes involved in gut immune surveillance was observed in patients.
 
-Vedolizumab did not affect CD4 + and CD8 + trafficking into the CNS as evidenced by the lack of change in the ratio of CD4 +/ CD8 +  in cerebrospinal fluid pre- and post-vedolizumab administration in healthy human volunteers. These data are consistent with investigations in nonhuman primates which did not detect effects on immune surveillance of the CNS.
+Vedolizumab did not affect CD4 + and CD8 + trafficking into the CNS as evidenced by the lack of change in the ratio of CD4 +/ CD8 + in cerebrospinal fluid pre- and post-vedolizumab administration in healthy human volunteers. These data are consistent with investigations in nonhuman primates which did not detect effects on immune surveillance of the CNS.
 
 ## Clinical efficacy and safety
 
@@ -373,13 +374,17 @@ Table 2. Week 6 efficacy results of GEMINI 1
 
 †
 
-p ≤ 0.001
+p
+
+≤
+
+0.001
 
 ‡ p &lt; 0.05
 
 § Clinical remission: Complete Mayo score of ≤ 2 points and no individual subscore &gt; 1 point ¶ Mucosal healing: Mayo endoscopic subscore of ≤ 1 point
 
-The beneficial effect of vedolizumab on clinical response, remission and mucosal healing was observed both in patients with no prior TNFα antagonist exposure as well as in those who had failed prior TNFα antagonist therapy.
+The beneficial effect of vedolizumab on clinical response, remission and mucosal healing was observed both in patients with no prior TNF α antagonist exposure as well as in those who had failed prior TNF α antagonist therapy.
 
 In GEMINI 1, 2 cohorts of patients received vedolizumab at week 0 and week 2: cohort 1 patients were randomised to receive either vedolizumab 300 mg or placebo in a double-blind fashion, and cohort 2 patients were treated with open-label vedolizumab 300 mg. To evaluate efficacy at week 52, 373 patients from cohort 1 and 2 who were treated with vedolizumab and had achieved clinical response at week 6 were randomised in a double-blind fashion (1:1:1) to one of the following regimens beginning at week 6: vedolizumab 300 mg every 8 weeks, vedolizumab 300 mg every 4 weeks, or placebo every 4 weeks. Beginning at week 6, patients who had achieved clinical response and were receiving corticosteroids were required to begin a corticosteroid-tapering regimen. Primary endpoint was the proportion of patients in clinical remission at week 52. Table 3 shows the results from the primary and secondary endpoints evaluated.
 
@@ -407,19 +412,21 @@ Table 3. Week 52 efficacy results of GEMINI 1
 
 ♠ Corticosteroid-free clinical remission: Patients using oral corticosteroids at baseline who had discontinued corticosteroids beginning at week 6 and were in clinical remission at week 52. Patient numbers were n = 72 for placebo, n = 70 for vedolizumab every 8 weeks, and n = 73 for vedolizumab every 4 weeks
 
-Exploratory analyses provide additional data on key subpopulations studied. Approximately one-third of patients had failed prior TNFα antagonist therapy. Among these patients, 37% receiving vedolizumab every 8 weeks, 35% receiving vedolizumab every 4 weeks, and 5% receiving placebo achieved clinical remission at week 52. Improvements in durable clinical response (47%, 43%, 16%), mucosal healing (42%, 48%, 8%), durable clinical remission (21%, 13%, 3%) and corticosteroid-free clinical remission (23%, 32%, 4%) were seen in the prior TNFα antagonist failure population treated with vedolizumab every 8 weeks, vedolizumab every 4 weeks and placebo, respectively.
+Exploratory analyses provide additional data on key subpopulations studied. Approximately one-third of patients had failed prior TNF α antagonist therapy. Among these patients, 37% receiving vedolizumab every 8 weeks, 35% receiving vedolizumab every 4 weeks, and 5% receiving placebo achieved clinical remission at week 52. Improvements in durable clinical response (47%, 43%, 16%), mucosal healing (42%, 48%, 8%), durable clinical remission (21%, 13%, 3%) and corticosteroid-free clinical remission (23%, 32%, 4% ) were seen in the prior TNFα antagonist failure population treated with vedolizumab every 8 weeks, vedolizumab every 4 weeks and placebo, respectively.
 
 <div style=\"page-break-after: always\"></div>
 
 Patients who failed to demonstrate response at week 6 remained in the study and received vedolizumab every 4 weeks. Clinical response using partial Mayo scores was achieved at week 10 and week 14 by greater proportions of vedolizumab patients (32% and 39%, respectively) compared with placebo patients (15% and 21%, respectively).
+
+Health-related quality of life (HRQOL) was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ), a disease specific instrument, and SF-36 and EQ-5D, which are generic measures. Exploratory analysis show clinically meaningful improvements were observed for vedolizumab groups, and the improvements were significantly greater as compared with the placebo group at week 6 and week 52 on EQ-5D and EQ-5D VAS scores, all subscales of IBDQ (bowel symptoms, systemic function, emotional function and social function), and all subscales of SF-36 including the Physical Component Summary (PCS) and Mental Component Summary (MCS).
+
+## Study extension
 
 Patients who lost response to vedolizumab when treated every 8 weeks were allowed to enter an open-label extension study and receive vedolizumab every 4 weeks. In these patients, clinical remission was achieved in 25% of patients at week 28 and week 52.
 
 Patients who achieved a clinical response after receiving vedolizumab at week 0 and 2 and were then randomised to placebo (for 6 to 52 weeks) and lost response were allowed to enter the open-label extension study and receive vedolizumab every 4 weeks. In these patients, clinical remission was achieved in 45% of patients by 28 weeks and 36% of patients by 52 weeks.
 
 In this open-label extension study, the benefits of vedolizumab treatment as assessed by partial Mayo score, clinical remission, and clinical response were shown for up to 196 weeks.
-
-Health-related quality of life (HRQOL) was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ), a disease specific instrument, and SF-36 and EQ-5D, which are generic measures. Exploratory analysis show clinically meaningful improvements were observed for vedolizumab groups, and the improvements were significantly greater as compared with the placebo group at week 6 and week 52 on EQ-5D and EQ-5D VAS scores, all subscales of IBDQ (bowel symptoms, systemic function, emotional function and social function), and all subscales of SF-36 including the Physical Component Summary (PCS) and Mental Component Summary (MCS).
 
 ## Crohn's disease
 
@@ -429,11 +436,11 @@ The GEMINI 2 Study was a randomised, double-blind, placebo-controlled study eval
 
 GEMINI 2 contained 2 cohorts of patients that received vedolizumab at weeks 0 and 2: cohort 1 patients were randomised to receive either vedolizumab 300 mg or placebo in a double-blind fashion, and cohort 2 patients were treated with open-label vedolizumab 300 mg. To evaluate efficacy at week 52, 461 patients from cohorts 1 and 2, who were treated with vedolizumab and had achieved clinical response (defined as a ≥ 70-point decrease in CDAI score from baseline) at week 6, were randomised in a double-blind fashion (1:1:1) to one of the following regimens beginning at week 6: vedolizumab 300 mg every 8 weeks, vedolizumab 300 mg every 4 weeks, or placebo every 4 weeks. Patients showing clinical response at week 6 were required to begin corticosteroid tapering. Primary endpoint was the proportion of patients in clinical remission at week 52 (see Table 5).
 
-The GEMINI 3 Study was a second randomised, double-blind, placebo-controlled study that evaluated efficacy at week 6 and week 10 in the subgroup of patients defined as having failed at least 1 conventional therapy and failed TNFα antagonist therapy (including primary non-responders) as well as the overall population, which also included patients who failed at least 1 conventional therapy and were naïve to TNFα antagonist therapy. Patients (n = 416), which included approximately 75% TNFα antagonist failures patients, were randomised in a double-blind fashion (1:1) to receive either
+The GEMINI 3 Study was a second randomised, double-blind, placebo-controlled study that evaluated efficacy at week 6 and week 10 in the subgroup of patients defined as having failed at least 1 conventional therapy and failed TNF α antagonist therapy (including primary non-responders) as well as the overall population, which also included patients who failed at least 1 conventional therapy and were naïve to TNFα antagonist therapy. Patients (n = 416), which included approximately 75%
 
 <div style=\"page-break-after: always\"></div>
 
-vedolizumab 300 mg or placebo at weeks 0, 2, and 6. The primary endpoint was the proportion of patients in clinical remission at week 6 in the TNFα antagonist failure subpopulation. As noted in Table 4, although the primary endpoint was not met, exploratory analyses show that clinically meaningful results were observed.
+TNF α antagonist failures patients, were randomised in a double-blind fashion (1:1) to receive either vedolizumab 300 mg or placebo at weeks 0, 2, and 6. The primary endpoint was the proportion of patients in clinical remission at week 6 in the TNF α antagonist failure subpopulation. As noted in Table 4, although the primary endpoint was not met, exploratory analyses show that clinically meaningful results were observed.
 
 Table 4. Efficacy results for GEMINI 2 and 3 studies at week 6 and week 10
 
@@ -484,7 +491,7 @@ Table 4. Efficacy results for GEMINI 2 and 3 studies at week 6 and week 10
 
 <div style=\"page-break-after: always\"></div>
 
-## Table 5. Efficacy results for GEMINI 2 at week 52
+Table 5. Efficacy results for GEMINI 2 at week 52
 
 |                                          | Placebo n = 153*   | Vedolizumab IV every 8 weeks n = 154   | Vedolizumab IV every 4 weeks n = 154   |
 |------------------------------------------|--------------------|----------------------------------------|----------------------------------------|
@@ -499,9 +506,7 @@ Table 4. Efficacy results for GEMINI 2 and 3 studies at week 6 and week 10
 
 ‡ p &lt; 0.05
 
-§ Corticosteroid-free clinical remission: Patients using oral corticosteroids at baseline who had discontinued corticosteroids beginning at week 6 and were in clinical remission at week 52. Patient numbers were n = 82 for placebo, n = 82 for vedolizumab every 8 weeks, and n = 80 for vedolizumab every 4 weeks
-
-¶ Durable clinical remission: Clinical remission at ≥ 80% of study visits including final visit (week 52)
+§ Corticosteroid-free clinical remission: Patients using oral corticosteroids at baseline who had discontinued corticosteroids beginning at week 6 and were in clinical remission at week 52. Patient numbers were n = 82 for placebo, n = 82 for vedolizumab every 8 weeks, and n = 80 for vedolizumab every 4 weeks ¶ Durable clinical remission: Clinical remission at ≥ 80% of study visits including final visit (week 52)
 
 Exploratory analyses examined the effects of concomitant corticosteroids and immunomodulators on induction of remission with vedolizumab. Combination treatment, most notably with concomitant corticosteroids, appeared to be more effective in inducing remission in Crohn's disease than vedolizumab alone or with concomitant immunomodulators, which showed a smaller difference from placebo in the rate of remission. Clinical remission rate in GEMINI 2 at week 6 was 10% (difference from placebo 2%, 95% CI: -6, 10) when administered without corticosteroids compared to 20% (difference from placebo 14%, 95% CI: -1, 29) when administered with concomitant corticosteroids. In GEMINI 3 at week 6 and 10 the respective clinical remission rates were 18% (difference from placebo 3%, 95% CI: -7, 13) and 22% (difference from placebo 8%, 95% CI: -3, 19) when administered without corticosteroids compared to 20% (difference from placebo 11%, 95% CI: 2, 20) and 35% (difference from placebo 23%, 95% CI: 12, 33) respectively when administered with concomitant corticosteroids. These effects were seen whether or not immunomodulators were also concomitantly administered.
 
@@ -509,21 +514,23 @@ Exploratory analyses provide additional data on key subpopulations studied. In G
 
 Patients who failed to demonstrate response at week 6 in GEMINI 2 were retained in the study and received vedolizumab every 4 weeks. Enhanced clinical response was observed at week 10 and week 14 for greater proportions of vedolizumab patients 16% and 22%, respectively, compared with placebo patients 7% and 12%, respectively. There was no clinically meaningful difference in clinical remission between treatment groups at these time points. Analyses of week 52 clinical remission in patients who were non-responders at week 6 but achieved response at week 10 or week 14 indicate that non-responder CD patients may benefit from a dose of vedolizumab at week 10.
 
-Patients who lost response to vedolizumab when treated every 8 weeks in GEMINI 2 were allowed to enter an open-label extension study and received vedolizumab every 4 weeks. In these patients, clinical remission was achieved in 23% of patients at week 28 and 32% of patients at week 52.
+Exploratory analysis showed clinically meaningful improvements were observed for the vedolizumab every 4 weeks and every 8 weeks groups in GEMINI 2 and the improvements were significantly greater as compared with the placebo group from baseline to week 52 on EQ-5D and EQ-5D VAS scores, total IBDQ score, and IBDQ subscales of bowel symptoms and systemic function.
 
-Patients who achieved a clinical response after receiving vedolizumab at week 0 and 2 and were then randomised to placebo (for 6 to 52 weeks) and lost response were allowed to enter the open-label extension study and receive vedolizumab every 4 weeks. In these patients, clinical remission was achieved in 46% of patients by 28 weeks and 41% of patients by 52 weeks.
+## Study extension
+
+Patients who lost response to vedolizumab when treated every 8 weeks in GEMINI 2 were allowed to enter an open-label extension study and received vedolizumab every 4 weeks. In these patients, clinical remission was achieved in 23% of patients at week 28 and 32% of patients at week 52.
 
 <div style=\"page-break-after: always\"></div>
 
-In this open-label extension study, clinical remission and clinical response were observed in patients for up to 196 weeks.
+Patients who achieved a clinical response after receiving vedolizumab at week 0 and 2 and were then randomised to placebo (for 6 to 52 weeks) and lost response were allowed to enter the open-label extension study and receive vedolizumab every 4 weeks. In these patients, clinical remission was achieved in 46% of patients by 28 weeks and 41% of patients by 52 weeks.
 
-Exploratory analysis showed clinically meaningful improvements were observed for the vedolizumab every 4 weeks and every 8 weeks groups in GEMINI 2 and the improvements were significantly greater as compared with the placebo group from baseline to week 52 on EQ-5D and EQ-5D VAS scores, total IBDQ score, and IBDQ subscales of bowel symptoms and systemic function.
+In this open-label extension study, clinical remission and clinical response were observed in patients for up to 196 weeks.
 
 ## Pouchitis
 
 The efficacy and safety of intravenous vedolizumab for the treatment of adult patients with chronic pouchitis were demonstrated in a randomised, double-blind, placebo-controlled study evaluating efficacy at week 14 and week 34 (EARNEST). Enrolled patients had undergone proctocolectomy and ileal pouch anal anastomosis (IPAA) for ulcerative colitis at least one year prior to randomisation and had developed active chronic pouchitis (defined as antibiotic-dependent (recurrent) or antibioticrefractory), with a baseline modified Pouchitis Disease Activity Index (mPDAI) score ≥ 5 and endoscopic subscore ≥ 2. All patients received concomitant antibiotic treatment with ciprofloxacin 500 mg twice daily from the start of treatment through week 4. Patients received additional courses of antibiotics during the study as needed, including for pouchitis flares.
 
-Patients (n=102) were randomised (1:1) to receive either intravenous vedolizumab 300 mg or intravenous placebo at 0, 2 and 6 weeks, and every 8 weeks thereafter, until week 30. The primary endpoint was clinical remission (defined as an mPDAI score &lt; 5 and a reduction in total mPDAI score of ≥ 2 points from baseline) at week 14. Table 6 shows the results from the primary and secondary endpoints at week 14 and Table 7 shows the results from secondary endpoints at week 34.
+Patients (n = 102) were randomised (1:1) to receive either intravenous vedolizumab 300 mg or intravenous placebo at 0, 2 and 6 weeks, and every 8 weeks thereafter, until week 30. The primary endpoint was clinical remission (defined as an mPDAI score &lt; 5 and a reduction in total mPDAI score of ≥ 2 points from baseline) at week 14. Table 6 shows the results from the primary and secondary endpoints at week 14 and Table 7 shows the results from secondary endpoints at week 34.
 
 Table 6. Efficacy results for EARNEST at week 14
 
@@ -549,11 +556,11 @@ Table 7. Efficacy results for EARNEST at week 34
 
 *Clinical remission is defined as mPDAI score &lt; 5 and reduction in total mPDAI score of ≥ 2 points from baseline
 
-‡  PDAI remission is defined as PDAI score &lt; 7 and a reduction in PDAI score of ≥ 3 points from baseline § Clinical response is defined as reduction of mPDAI score of ≥ 2 points from baseline
+‡ PDAI remission is defined as PDAI score &lt; 7 and a reduction in PDAI score of ≥ 3 points from baseline § Clinical response is defined as reduction of mPDAI score of ≥ 2 points from baseline
 
 <div style=\"page-break-after: always\"></div>
 
-Approximately two-thirds of patients had received prior (for UC or pouchitis) TNF α antagonist therapy (33 in vedolizumab and 31 in placebo treatment groups). Among these patients, 33.3% in the vedolizumab group achieved clinical remission at W14 compared with 9.7% in the placebo group.
+Approximately twothirds of patients had received prior (for UC or pouchitis) TNFα antagonist therapy (33 in vedolizumab and 31 in placebo treatment groups). Among these patients, 33.3% in the vedolizumab group achieved clinical remission at W14 compared with 9.7% in the placebo group.
 
 ## Paediatric population
 
@@ -589,9 +596,9 @@ Age does not impact the vedolizumab clearance in ulcerative colitis and Crohn's 
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, carcinogenic potential, toxicity to reproduction and development.
 
-Long-term animal studies with vedolizumab to assess its carcinogenic potential have not been conducted because pharmacologically responsive models to monoclonal antibodies do not exist. In a pharmacologically responsive species (cynomolgus monkeys), there was no evidence of cellular hyperplasia or systemic immunomodulation that could potentially be associated with oncogenesis in 13- and 26-week toxicology studies. Furthermore, no effects were found of vedolizumab on the proliferative rate or cytotoxicity of a human tumour cell line expressing the α4β7 integrin in vitro .
+Long-term animal studies with vedolizumab to assess its carcinogenic potential have not been conducted because pharmacologically responsive models to monoclonal antibodies do not exist. In a pharmacologically responsive species (cynomolgus monkeys), there was no evidence of cellular hyperplasia or systemic immunomodulation that could potentially be associated with oncogenesis in 13- and 26-week toxicology studies. Furthermore, no effects were found of vedolizumab on the proliferative rate or cytotoxicity of a human tumour cell line expressing the α 4 β 7 integrin in vitro .
 
-No specific fertility studies in animals have been performed with vedolizumab. No definitive conclusion can be drawn on the male reproductive organs in cynomolgus monkey repeated dose toxicity study. Given the lack of binding of vedolizumab to male reproductive tissue in monkey and human, and the intact male fertility observed in β7 integrin-knockout mice, it is not expected that vedolizumab will affect male fertility.
+No specific fertility studies in animals have been performed with vedolizumab. No definitive conclusion can be drawn on the male reproductive organs in cynomolgus monkey repeated dose toxicity study. Given the lack of binding of vedolizumab to male reproductive tissue in monkey and human, and the intact male fertility observed in β 7 integrin-knockout mice, it is not expected that vedolizumab will affect male fertility.
 
 Administration of vedolizumab to pregnant cynomolgus monkeys during most of gestation resulted in no evidence of effects on teratogenicity, prenatal or postnatal development in infants up to 6 months of age. Low levels (&lt; 300 mcg/L) of vedolizumab were detected on post-partum day 28 in the milk of 3 of 11 cynomolgus monkeys treated 100 mg/kg of vedolizumab dosed every 2 weeks and not in any animals that received 10 mg/kg.
 
@@ -599,7 +606,7 @@ Administration of vedolizumab to pregnant cynomolgus monkeys during most of gest
 
 ## 6.1 List of excipients
 
-L-histidine L-histidine monohydrochloride L-arginine hydrochloride Sucrose Polysorbate 80
+L-histidine L-histidine monohydrochloride L-arginine hydrochloride Sucrose Polysorbate 80 (E 433)
 
 ## 6.2 Incompatibilities
 
@@ -609,19 +616,25 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 3 years
 
-In-use stability of the reconstituted solution in the vial has been demonstrated for 8 hours at 2°C-8°C. In-use stability of the diluted solution in sodium chloride 9 mg/mL (0.9%) solution for injection in infusion bag has been demonstrated for 12 hours at 20°C-25°C or 24 hours at 2°C-8°C.
+In-use stability of the reconstituted solution in the vial has been demonstrated for 8 hours at 2 °C-8 °C. In-use stability of the diluted solution in sodium chloride 9 mg/mL (0.9%) solution for injection in infusion bag has been demonstrated for 12 hours at 20 °C-25 °C or 24 hours at 2 °C-8 °C.
 
-The combined in-use stability of vedolizumab in the vial and infusion bag with sodium chloride 9 mg/mL (0.9%) solution for injection is a total of 12 hours at 20°C-25°C or 24 hours at 2°C-8°C. A 24 hour period may include up to 8 hours at 2°C-8°C for reconstituted solution in the vial and up to 12 hours at 20°C-25°C for diluted solution in the infusion bag but the infusion bag must be stored in the refrigerator (2°C-8°C) for the rest of the 24 hour period.
+The combined in-use stability of vedolizumab in the vial and infusion bag with sodium chloride 9 mg/mL (0.9%) solution for injection is a total of 12 hours at 20 °C-25 °C or 24 hours at 2 °C-8 °C. A 24 hour period may include up to 8 hours at 2 °C-8 °C for reconstituted solution in the vial and up to 12 hours at 20 °C-25 °C for diluted solution in the infusion bag but the infusion bag must be stored in the refrigerator (2 °C-8 °C) for the rest of the 24 hour period.
 
 Do not freeze the reconstituted solution in the vial or the diluted solution in the infusion bag.
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                                           | Storage condition      | Storage condition   |
-|---------------------------------------------------------------------------|------------------------|---------------------|
-|                                                                           | Refrigerator (2°C-8°C) | 20°C-25°C           |
-| Reconstituted solution in the vial                                        | 8 hours                | Do not hold 1       |
-| Diluted solution in sodium chloride 9 mg/mL (0.9%) solution for injection | 24 hours 2,3           | 12 hours 2          |
+|                                                                           | Storage condition        | Storage condition   |
+|---------------------------------------------------------------------------|--------------------------|---------------------|
+|                                                                           | Refrigerator (2 °C-8 °C) | 20 °C-25 °C         |
+| Reconstituted solution in the vial                                        | 8 hours                  | Do not hold 1       |
+| Diluted solution in sodium chloride 9 mg/mL (0.9%) solution for injection | 24 hours 2,3             | 12 hours 2          |
+
+1 Up to 30 minutes are allowed for reconstitution
+
+2 This time assumes the reconstituted solution is immediately diluted in the sodium chloride 9 mg/mL (0.9%) solution for injection and held in the infusion bag only. Any time that the reconstituted solution was held in the vial should be subtracted from the time the solution may be held in the infusion bag.
+
+3 This period may include up to 12 hours at 20 °C-25 °C.
 
 ## 6.4 Special precautions for storage
 
@@ -637,7 +650,7 @@ Each pack contains 1 vial.
 
 ## 6.6 Special precautions for disposal and other handling
 
-## Instructions for reconstitution and infusion
+Instructions for reconstitution and infusion
 
 1. Use aseptic technique when preparing Entyvio solution for intravenous infusion.
 2. Remove flip-off cap from the vial and wipe with alcohol swab. Reconstitute vedolizumab with 4.8 mL of sterile water for injections at room temperature (20 °C-25 °C), using a syringe with a 21-25 gauge needle.
@@ -673,7 +686,7 @@ Denmark medinfoEMEA@takeda.com
 
 8.
 
-MARKETING AUTHORISATION NUMBER(S)
+MARKETING AUTHORISATION NUMBER
 
 EU/1/14/923/001
 
@@ -691,7 +704,7 @@ DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines
 
-Agency http://www.ema.europa.eu
+Agency https://www.ema.europa.eu
 
 20
 
@@ -713,13 +726,17 @@ Each pre-filled pen contains 108 mg of vedolizumab in 0.68 mL.
 
 Vedolizumab is a humanised IgG1 monoclonal antibody produced in Chinese hamster ovary (CHO) cells by recombinant DNA technology.
 
+## Excipient with known effect
+
+Each Entyvio 108 mg pre-filled syringe or pre-filled pen contains 1.48 mg of polysorbate 80.
+
 For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
 Solution for injection (injection).
 
-Colourless to yellow solution.
+Colourless to yellow solution with a pH 6.5 ± 0.3 and an osmolality of 315-430 mOsm/kg.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -727,25 +744,23 @@ Colourless to yellow solution.
 
 ## Ulcerative colitis
 
-Entyvio is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a tumour necrosis factor-alpha (TNFα) antagonist.
+Entyvio is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a tumour necrosis factor-alpha ( TNFα) antagonist.
 
 ## Crohn's disease
 
-Entyvio is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a tumour necrosis factor-alpha (TNFα) antagonist.
+Entyvio is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a tumour necrosis factor-alpha (TNF α) antagonist.
 
 ## 4.2 Posology and method of administration
 
 Treatment should be initiated and supervised by specialist healthcare professionals experienced in the diagnosis and treatment of ulcerative colitis or Crohn's disease (see section 4.4). Patients should be given the package leaflet.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Posology
 
 ## Ulcerative colitis and Crohn's disease
 
-The recommended dose regimen of subcutaneous vedolizumab as a maintenance treatment, following at least 2 intravenous infusions, is 108 mg administered by subcutaneous injection once every
-
-<div style=\"page-break-after: always\"></div>
-
-2 weeks. The first subcutaneous dose should be administered in place of the next scheduled intravenous dose and every 2 weeks thereafter.
+The recommended dose regimen of subcutaneous vedolizumab as a maintenance treatment, following at least 2 intravenous infusions, is 108 mg administered by subcutaneous injection once every 2 weeks. The first subcutaneous dose should be administered in place of the next scheduled intravenous dose and every 2 weeks thereafter.
 
 For the intravenous dose regimen, see section 4.2 of the Entyvio 300 mg powder for concentrate for solution for infusion SmPC.
 
@@ -757,7 +772,9 @@ In patients who have responded to treatment with vedolizumab, corticosteroids ma
 
 ## Retreatment and missed dose(s)
 
-If treatment with subcutaneous vedolizumab is interrupted or if a patient misses a scheduled dose(s) of subcutaneous vedolizumab, patient should be advised to inject the next subcutaneous dose as soon as possible and then every 2 weeks thereafter. The treatment interruption period in clinical trials extended up to 46 weeks with no evident increase in adverse reactions or injection site reactions during re-initiation of treatment with subcutaneous vedolizumab (see section 4.8).
+If treatment with subcutaneous vedolizumab is interrupted or if a patient misses a scheduled dose(s) of subcutaneous vedolizumab, patient should be advised to inject the next subcutaneous dose as soon as possible and then every 2 weeks thereafter.
+
+The treatment interruption period in clinical trials extended up to 46 weeks. Efficacy was regained with no evident increase in adverse reactions or injection site reactions after re-initiation of treatment with subcutaneous vedolizumab (see section 4.8).
 
 ## Special populations
 
@@ -779,6 +796,8 @@ Entyvio solution for injection (in a pre-filled syringe or a pre-filled pen) is 
 
 After proper training on correct subcutaneous injection technique, a patient or caregiver may inject with subcutaneous vedolizumab if their physician determines it is appropriate. Comprehensive instructions for administration using the pre-filled syringe or the pre-filled pen are given in the respective package leaflet.
 
+<div style=\"page-break-after: always\"></div>
+
 For further instructions on preparation and special precautions for handling, see section 6.6.
 
 ## 4.3 Contraindications
@@ -786,8 +805,6 @@ For further instructions on preparation and special precautions for handling, se
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
 Active severe infections such as tuberculosis (TB), sepsis, cytomegalovirus, listeriosis, and opportunistic infections such as Progressive Multifocal Leukoencephalopathy (PML) (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.4 Special warnings and precautions for use
 
@@ -809,21 +826,23 @@ Physicians should be aware of the potential increased risk of opportunistic infe
 
 Vedolizumab is contraindicated in patients with active tuberculosis (see section 4.3). Before starting treatment with vedolizumab, patients must be screened for tuberculosis according to the local practice. If latent tuberculosis is diagnosed, appropriate treatment must be started with anti-tuberculosis treatment in accordance with local recommendations, before beginning vedolizumab. In patients diagnosed with TB whilst receiving vedolizumab therapy, then vedolizumab therapy should be discontinued until the TB infection has been resolved.
 
-Some integrin antagonists and some systemic immunosuppressive agents have been associated with progressive multifocal leukoencephalopathy (PML), which is a rare and often fatal opportunistic infection caused by the John Cunningham (JC) virus. By binding to the α4β7 integrin expressed on gut-homing lymphocytes, vedolizumab exerts an immunosuppressive effect specific to the gut. Although no systemic immunosuppressive effect was noted in healthy subjects the effects on systemic immune system function in patients with inflammatory bowel disease is not known.
+Some integrin antagonists and some systemic immunosuppressive agents have been associated with progressive multifocal leukoencephalopathy (PML), which is a rare and often fatal opportunistic infection caused by the John Cunningham (JC) virus. By binding to the α 4 β 7 integrin expressed on gut-homing lymphocytes, vedolizumab exerts an immunosuppressive effect specific to the gut. Although no systemic immunosuppressive effect was noted in healthy subjects the effects on systemic immune system function in patients with inflammatory bowel disease is not known.
 
 Healthcare professionals should monitor patients on vedolizumab for any new onset or worsening of neurological signs and symptoms and consider neurological referral if they occur. If PML is suspected, treatment with vedolizumab must be withheld; if confirmed, treatment must be permanently discontinued.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Malignancies
 
-The risk of malignancy is increased in patients with ulcerative colitis and Crohn's disease. Immunomodulatory medicinal products may increase the risk of malignancy (see section 4.8).
+The risk of malignancy is increased in patients with ulcerative colitis and Crohn's disease. Immunomodulatory medicinal products may increase the risk of malignancy.
 
 ## Prior and concurrent use of biological products
 
 No vedolizumab clinical trial data are available for patients previously treated with natalizumab or rituximab. Caution should be exercised when considering the use of vedolizumab in these patients.
 
-<div style=\"page-break-after: always\"></div>
+Patients previously exposed to natalizumab should normally wait a minimum of 12 weeks prior to initiating therapy with vedolizumab, unless otherwise indicated by the patient's clinical condition.
 
-Patients previously exposed to natalizumab should normally wait a minimum of 12 weeks prior to initiating therapy with vedolizumab, unless otherwise indicated by the patient's clinical condition. No clinical trial data for concomitant use of vedolizumab with biologic immunosuppressants are available. Therefore, the use of vedolizumab in such patients is not recommended.
+No clinical trial data for concomitant use of vedolizumab with biologic immunosuppressants are available. Therefore, the use of vedolizumab in such patients is not recommended.
 
 ## Live and oral vaccines
 
@@ -837,19 +856,23 @@ Exploratory subgroup analyses from the clinical trials in Crohn's disease sugges
 
 ## Sodium content
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+
+## Polysorbate 80 content
+
+This medicinal product contains 1.48 mg of polysorbate 80 in each Entyvio 108 mg pre-filled pen or pre-filled syringe.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No interaction studies have been performed.
+
+<div style=\"page-break-after: always\"></div>
 
 Vedolizumab has been studied in adult ulcerative colitis and Crohn's disease patients with concomitant administration of corticosteroids, immunomodulators (azathioprine, 6-mercaptopurine, and methotrexate), and aminosalicylates. Population pharmacokinetic analyses suggest that co-administration of such agents did not have a clinically meaningful effect on vedolizumab pharmacokinetics. The effect of vedolizumab on the pharmacokinetics of commonly co-administered medicinal compounds has not been studied.
 
 ## Vaccinations
 
 Live vaccines, in particular live oral vaccines, should be used with caution concurrently with vedolizumab (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -881,6 +904,8 @@ There are no data on the effects of vedolizumab on human fertility. Effects on m
 
 Vedolizumab has minor influence on the ability to drive and use machines, as dizziness has been reported in a small number of patients.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
@@ -889,42 +914,38 @@ The most commonly reported adverse reactions are infections (such as nasopharyng
 
 No clinically relevant differences in the overall safety profile and adverse reactions were observed in patients who received subcutaneous vedolizumab compared to the safety profile observed in clinical studies with intravenous vedolizumab with the exception of injection site reactions (with subcutaneous administration).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Tabulated list of adverse reactions
 
-The following listing of adverse reactions is based on clinical trial and post marketing experience and is displayed by system organ class. Within the system organ classes, adverse reactions are listed under headings of the following frequency categories: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The following listing of adverse reactions is based on clinical trial and post marketing experience and is displayed by system organ class. Within the system organ classes, adverse reactions are listed under headings of the following frequency categories: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1 000 to &lt; 1/100), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1. Adverse reactions
 
-| System organ class                              | Frequency   | Adverse reaction(s)                                                                                                                            |
-|-------------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                     | Very common | Nasopharyngitis                                                                                                                                |
-| Infections and infestations                     | Common      | Pneumonia, Clostridium difficile infection, Bronchitis, Gastroenteritis, Upper respiratory tract infection, Influenza, Sinusitis, Pharyngitis, |
-| Infections and infestations                     | Uncommon    | Respiratory tract infection, Vulvovaginal candidiasis, Oral candidiasis                                                                        |
-| Immune system disorders                         | Very rare   | Anaphylactic reaction, Anaphylactic shock                                                                                                      |
-| Nervous system disorders                        | Very common | Headache                                                                                                                                       |
-| Nervous system disorders                        | Common      | Paraesthesia                                                                                                                                   |
-| Eye disorders                                   | Uncommon    | Blurred vision                                                                                                                                 |
-| Vascular disorders                              | Common      | Hypertension                                                                                                                                   |
-| Respiratory, thoracic and mediastinal disorders | Common      | Oropharyngeal pain, Nasal congestion, Cough                                                                                                    |
-| Respiratory, thoracic and mediastinal disorders | Not known   | Interstitial lung disease                                                                                                                      |
-| Gastrointestinal disorders                      | Common      | Anal Abscess, Anal fissure, Nausea, Dyspepsia, Constipation, Abdominal distension, Flatulence,                                                 |
-| Hepatobiliary disorders                         | Common      | Liver enzyme increased                                                                                                                         |
-| Hepatobiliary disorders                         | Very rare   | Hepatitis                                                                                                                                      |
-| Skin and subcutaneous tissue disorders          | Common      | Rash, Pruritus, Eczema, Erythema, Night sweats, Acne                                                                                           |
-| Skin and subcutaneous tissue disorders          | Uncommon    | Folliculitis                                                                                                                                   |
+| System organ class                              | Frequency   | Adverse reactions                                                                                                                                            |
+|-------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                     | Very common | Nasopharyngitis                                                                                                                                              |
+| Infections and infestations                     | Common      | Pneumonia, Clostridium difficile infection, Bronchitis, Gastroenteritis, Upper respiratory tract infection, Influenza, Sinusitis, Pharyngitis, Herpes zoster |
+| Infections and infestations                     | Uncommon    | Respiratory tract infection, Vulvovaginal candidiasis, Oral candidiasis                                                                                      |
+| Immune system disorders                         | Very rare   | Anaphylactic reaction, Anaphylactic shock                                                                                                                    |
+| Nervous system disorders                        | Very common | Headache                                                                                                                                                     |
+| Nervous system disorders                        | Common      | Paraesthesia                                                                                                                                                 |
+| Eye disorders                                   | Uncommon    | Blurred vision                                                                                                                                               |
+| Vascular disorders                              | Common      | Hypertension                                                                                                                                                 |
+| Respiratory, thoracic and mediastinal disorders | Common      | Oropharyngeal pain, Nasal congestion, Cough                                                                                                                  |
+| Respiratory, thoracic and mediastinal disorders | Not known   | Interstitial lung disease                                                                                                                                    |
+| Gastrointestinal disorders                      | Common      | Anal abscess, Anal fissure, Nausea, Dyspepsia, Constipation, Abdominal distension, Flatulence, Haemorrhoids                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                                   | Frequency   | Adverse reaction(s)                                                                                                                                 |
-|------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Musculoskeletal and connective tissue disorders      | Very common | Arthralgia                                                                                                                                          |
-| Musculoskeletal and connective tissue disorders      | Common      | Muscle spasms, Back pain, Muscular weakness, Fatigue, Pain in the extremity                                                                         |
-| General disorders and administration site conditions | Common      | Pyrexia, Infusion site reaction (including: Infusion site pain and Infusion site irritation), Infusion related reaction, Injection site reactions # |
-| General disorders and administration site conditions | Uncommon    | Chills, Feeling cold                                                                                                                                |
-
-# Subcutaneous administration only.
+| System organ class                                   | Frequency   | Adverse reactions                                                  |
+|------------------------------------------------------|-------------|--------------------------------------------------------------------|
+| Hepatobiliary disorders                              | Common      | Liver enzyme increased                                             |
+| Hepatobiliary disorders                              | Very rare   | Hepatitis                                                          |
+| Skin and subcutaneous tissue disorders               | Common      | Rash, Pruritus, Eczema, Erythema, Night sweats, Acne               |
+| Skin and subcutaneous tissue disorders               | Uncommon    | Folliculitis                                                       |
+| Musculoskeletal and connective tissue disorders      | Very common | Arthralgia                                                         |
+| Musculoskeletal and connective tissue disorders      | Common      | Muscle spasms, Back pain, Muscular weakness, Pain in the extremity |
+| General disorders and administration site conditions | Common      | Pyrexia, Fatigue, Injection site reactions                         |
+| General disorders and administration site conditions | Uncommon    | Chills, Feeling cold                                               |
 
 ## Description of selected adverse reactions
 
@@ -944,15 +965,11 @@ In clinical studies with subcutaneous vedolizumab, the rate of infections was 0.
 
 In clinical studies with subcutaneous vedolizumab, the rate of serious infections was 0.02 per patient year in subcutaneous vedolizumab-treated patients.
 
-In clinical studies with intravenous and subcutaneous vedolizumab, the rate of infections in vedolizumab-treated patients with BMI of 30 kg/m 2 and above was higher than for those with BMI less than 30 kg/m 2 .
-
-In clinical studies with intravenous and subcutaneous vedolizumab, a slightly higher incidence of serious infections was reported in vedolizumab-treated patients who had prior exposure to TNFα antagonist therapy compared to patients who were naïve to previous TNFα antagonist therapy.
-
 <div style=\"page-break-after: always\"></div>
 
-## Malignancy
+In clinical studies with intravenous and subcutaneous vedolizumab, the rate of infections in vedolizumab-treated patients with BMI of 30 kg/m 2 and above was higher than for those with BMI less than 30 kg/m 2 .
 
-Overall, results from the clinical program to date do not suggest an increased risk for malignancy with vedolizumab treatment; however, the number of malignancies was small and long-term exposure was limited. Long-term safety evaluations are ongoing.
+In clinical studies with intravenous and subcutaneous vedolizumab, a slightly higher incidence of serious infections was reported in vedolizumabtreated patients who had prior exposure to TNFα antagonist therapy compared to patients who were naïve to previous TNFα antagonist therapy.
 
 ## Reporting of suspected adverse reactions
 
@@ -970,9 +987,9 @@ Pharmacotherapeutic group: immunosuppressants, monoclonal antibodies, ATC code: 
 
 ## Mechanism of action
 
-Vedolizumab is a gut-selective immunosuppressive biologic. It is a humanised monoclonal antibody that binds specifically to the α4β7 integrin, which is preferentially expressed on gut homing T helper lymphocytes. By binding to α4β7 on certain lymphocytes, vedolizumab inhibits adhesion of these cells to mucosal addressin cell adhesion molecule-1 (MAdCAM-1), but not to vascular cell adhesion molecule-1 (VCAM-1). MAdCAM-1 is mainly expressed on gut endothelial cells and plays a critical role in the homing of T lymphocytes to tissues within the gastrointestinal tract. Vedolizumab does not bind to, nor inhibit function of, the α4β1 and αEβ7 integrins.
+Vedolizumab is a gut-selective immunosuppressive biologic. It is a humanised monoclonal antibody that binds specifically to the α 4 β 7 integrin, which is preferentially expressed on gut homing T helper lymphocytes. By binding to α 4 β 7 on certain lymphocytes, vedolizumab inhibits adhesion of these cells to mucosal addressin cell adhesion molecule-1 (MAdCAM-1), but not to vascular cell adhesion molecule-1 (VCAM-1). MAdCAM-1 is mainly expressed on gut endothelial cells and plays a critical role in the homing of T lymphocytes to tissues within the gastrointestinal tract. Vedolizumab does not bind to, nor inhibi t function of, the α 4 β 1 and α E β 7 integrins.
 
-The α4β7 integrin is expressed on a discrete subset of memory T helper lymphocytes which preferentially migrate into the gastrointestinal (GI) tract and cause inflammation that is characteristic of ulcerative colitis and Crohn's disease, both of which are chronic inflammatory immunologically mediated conditions of the GI tract. Vedolizumab reduces gastrointestinal inflammation in UC and CD patients. Inhibiting the interaction of α4β7 with MAdCAM-1 with vedolizumab prevents transmigration of gut-homing memory T helper lymphocytes across the vascular endothelium into parenchymal tissue in nonhuman primates and induced a reversible 3-fold elevation of these cells in peripheral blood. The murine precursor of vedolizumab alleviated gastrointestinal inflammation in colitic cotton-top tamarins, a model of ulcerative colitis.
+The α 4 β 7 integrin is expressed on a discrete subset of memory T helper lymphocytes which preferentially migrate into the gastrointestinal (GI) tract and cause inflammation that is characteristic of ulcerative colitis and Crohn's disease, both of which are chronic inflammatory immunologically mediated conditions of the GI tract. Vedolizumab reduces gastrointestinal inflammation in UC and CD patients. Inhibiting the interaction of α 4 β 7 with MAdCAM-1 with vedolizumab prevents transmigration of gut-homing memory T helper lymphocytes across the vascular endothelium into parenchymal tissue in nonhuman primates and induced a reversible 3-fold elevation of these cells in peripheral blood. The murine precursor of vedolizumab alleviated gastrointestinal inflammation in colitic cotton-top tamarins, a model of ulcerative colitis.
 
 In healthy subjects, ulcerative colitis patients, or Crohn's disease patients, vedolizumab does not elevate neutrophils, basophils, eosinophils, B-helper and cytotoxic T lymphocytes, total memory T helper lymphocytes, monocytes or natural killer cells, in the peripheral blood with no leukocytosis observed.
 
@@ -986,13 +1003,13 @@ Antibodies to vedolizumab may develop during vedolizumab treatment most of which
 
 ## Pharmacodynamic effects
 
-In clinical trials with intravenous vedolizumab at doses ranging from 0.2 to 10 mg/kg, &gt; 95% saturation of α4β7 receptors on subsets of circulating lymphocytes involved in gut immune surveillance was observed in patients.
+In clinical trials with intravenous vedolizumab at doses ranging from 0.2 to 10 mg/kg, &gt; 95% saturation of α 4 β 7 receptors on subsets of circulating lymphocytes involved in gut immune surveillance was observed in patients.
 
-Vedolizumab did not affect CD4 + and CD8 + trafficking into the CNS as evidenced by the lack of change in the ratio of CD4 + /CD8 +  in cerebrospinal fluid pre- and post-vedolizumab administration in healthy human volunteers. These data are consistent with investigations in nonhuman primates which did not detect effects on immune surveillance of the CNS.
+Vedolizumab did not affect CD4 + and CD8 + trafficking into the CNS as evidenced by the lack of change in the ratio of CD4 + /CD8 + in cerebrospinal fluid pre- and post-vedolizumab administration in healthy human volunteers. These data are consistent with investigations in nonhuman primates which did not detect effects on immune surveillance of the CNS.
 
 ## Clinical efficacy and safety
 
-Ulcerative colitis - vedolizumab for intravenous administration
+## Ulcerative colitis - vedolizumab for intravenous administration
 
 The efficacy and safety of intravenous vedolizumab for the treatment of adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12 with endoscopic sub score ≥ 2) was demonstrated in a randomised, double-blind, placebo-controlled study evaluating efficacy endpoints at week 6 and week 52 (GEMINI 1). Enrolled patients had failed at least 1 conventional therapy, including corticosteroids, immunomodulators, and/or the TNFα antagonist infliximab (including primary non-responders). Concomitant stable doses of oral aminosalicylates, corticosteroids and/or immunomodulators were permitted.
 
@@ -1010,7 +1027,11 @@ Table 2. Week 6 efficacy results of GEMINI 1
 
 †
 
-p ≤ 0.001
+p
+
+≤
+
+0.001
 
 ‡ p &lt; 0.05
 
@@ -1018,13 +1039,13 @@ p ≤ 0.001
 
 ¶ Mucosal healing: Mayo endoscopic subscore of ≤ 1 point
 
-The beneficial effect of vedolizumab on clinical response, remission and mucosal healing was observed both in patients with no prior TNFα antagonist exposure as well as in those who had failed prior TNFα antagonist therapy.
+The beneficial effect of vedolizumab on clinical response, remission and mucosal healing was observed both in patients with no prior TNF α antagonist exposure as well as in those who had failed prior TNF α antagonist therapy.
 
-In GEMINI 1, 2 cohorts of patients received vedolizumab at week 0 and week 2: cohort 1 patients were randomised to receive either vedolizumab 300 mg or placebo in a double-blind fashion, and cohort 2 patients were treated with open-label vedolizumab 300 mg. To evaluate efficacy at week 52, 373 patients from cohort 1 and 2 who were treated with vedolizumab and had achieved clinical response at week 6 were randomised in a double-blind fashion (1:1:1) to 1 of the following regimens
+In GEMINI 1, 2 cohorts of patients received vedolizumab at week 0 and week 2: cohort 1 patients were randomised to receive either vedolizumab 300 mg or placebo in a double-blind fashion, and cohort 2 patients were treated with open-label vedolizumab 300 mg. To evaluate efficacy at week 52, 373 patients from cohort 1 and 2 who were treated with vedolizumab and had achieved clinical
 
 <div style=\"page-break-after: always\"></div>
 
-beginning at week 6: vedolizumab 300 mg every 8 weeks, vedolizumab 300 mg every 4 weeks, or placebo every 4 weeks. Beginning at week 6, patients who had achieved clinical response and were receiving corticosteroids were required to begin a corticosteroid-tapering regimen. Primary endpoint was the proportion of patients in clinical remission at week 52. Table 3 shows the results from the primary and secondary endpoints evaluated.
+response at week 6 were randomised in a double-blind fashion (1:1:1) to 1 of the following regimens beginning at week 6: vedolizumab 300 mg every 8 weeks, vedolizumab 300 mg every 4 weeks, or placebo every 4 weeks. Beginning at week 6, patients who had achieved clinical response and were receiving corticosteroids were required to begin a corticosteroid-tapering regimen. Primary endpoint was the proportion of patients in clinical remission at week 52. Table 3 shows the results from the primary and secondary endpoints evaluated.
 
 Table 3. Week 52 efficacy results of GEMINI 1
 
@@ -1050,25 +1071,29 @@ Table 3. Week 52 efficacy results of GEMINI 1
 
 ♠ Corticosteroid-free clinical remission: Patients using oral corticosteroids at baseline who had discontinued corticosteroids beginning at week 6 and were in clinical remission at week 52. Patient numbers were n = 72 for placebo, n = 70 for vedolizumab every 8 weeks, and n = 73 for vedolizumab every 4 weeks
 
-Exploratory analyses provide additional data on key subpopulations studied. Approximately one-third of patients had failed prior TNFα antagonist therapy. Among these patients, 37% receiving vedolizumab every 8 weeks, 35% receiving vedolizumab every 4 weeks, and 5% receiving placebo achieved clinical remission at week 52. Improvements in durable clinical response (47%, 43%, 16%), mucosal healing (42%, 48%, 8%), durable clinical remission (21%, 13%, 3%) and corticosteroid-free clinical remission (23%, 32%, 4%) were seen in the prior TNFα antagonist failure population treated with vedolizumab every 8 weeks, vedolizumab every 4 weeks and placebo, respectively.
+Exploratory analyses provide additional data on key subpopulations studied. Approximately one-third of patients had failed prior TNF α antagonist therapy. Among these patients, 37% receiving vedolizumab every 8 weeks, 35% receiving vedolizumab every 4 weeks, and 5% receiving placebo achieved clinical remission at week 52. Improvements in durable clinical response (47%, 43%, 16%), mucosal healing (42%, 48%, 8%), durable clinical remission (21%, 13%, 3%) and corticosteroid-free clinical remission (23%, 32%, 4% ) were seen in the prior TNFα antagonist failure population treated with vedolizumab every 8 weeks, vedolizumab every 4 weeks and placebo, respectively.
 
 Patients who failed to demonstrate response at week 6 remained in the study and received vedolizumab every 4 weeks. Clinical response using partial Mayo scores was achieved at week 10 and week 14 by greater proportions of vedolizumab patients (32% and 39%, respectively) compared with placebo patients (15% and 21%, respectively).
 
+Health-related quality of life (HRQOL) was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ), a disease specific instrument, and SF-36 and EQ-5D, which are generic measures. Exploratory analysis show clinically meaningful improvements were observed for vedolizumab groups, and the improvements were significantly greater as compared with the placebo group at week 6 and week 52 on EQ-5D and EQ-5D VAS scores, all subscales of IBDQ (bowel symptoms, systemic function, emotional function and social function), and all subscales of SF-36 including the Physical Component Summary (PCS) and Mental Component Summary (MCS).
+
+## Study extension
+
 Patients who lost response to vedolizumab when treated every 8 weeks were allowed to enter an open-label extension study and receive vedolizumab every 4 weeks. In these patients, clinical remission was achieved in 25% of patients at week 28 and week 52.
 
-Patients who achieved a clinical response after receiving vedolizumab at week 0 and 2 and were then randomised to placebo (for 6 to 52 weeks) and lost response were allowed to enter the open-label extension study and receive vedolizumab every 4 weeks. In these patients, clinical remission was achieved in 45% of patients by 28 weeks and 36% of patients by 52 weeks.
-
-In this open-label extension study, the benefits of vedolizumab treatment as assessed by partial Mayo score, clinical remission, and clinical response were shown for up to 196 weeks.
+Patients who achieved a clinical response after receiving vedolizumab at week 0 and 2 and were then randomised to placebo (for 6 to 52 weeks) and lost response were allowed to enter the open-label
 
 <div style=\"page-break-after: always\"></div>
 
-Health-related quality of life (HRQOL) was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ), a disease specific instrument, and SF-36 and EQ-5D, which are generic measures. Exploratory analysis show clinically meaningful improvements were observed for vedolizumab groups, and the improvements were significantly greater as compared with the placebo group at week 6 and week 52 on EQ-5D and EQ-5D VAS scores, all subscales of IBDQ (bowel symptoms, systemic function, emotional function and social function), and all subscales of SF-36 including the Physical Component Summary (PCS) and Mental Component Summary (MCS).
+extension study and receive vedolizumab every 4 weeks. In these patients, clinical remission was achieved in 45% of patients by 28 weeks and 36% of patients by 52 weeks.
+
+In this open-label extension study, the benefits of vedolizumab treatment as assessed by partial Mayo score, clinical remission, and clinical response were shown for up to 196 weeks.
 
 ## Ulcerative colitis - vedolizumab for subcutaneous administration
 
 The efficacy and safety of subcutaneous vedolizumab for the treatment of adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12 with endoscopic sub score ≥ 2) was demonstrated in a randomised, double-blind, placebo-controlled study evaluating efficacy endpoints at week 52 (VISIBLE 1). In VISIBLE 1, enrolled patients (n = 383) had failed at least 1 conventional therapy, including corticosteroids, immunomodulators, and/or TNFα antagonists (including primary non responders). Concomitant stable doses of oral aminosalicylates, corticosteroids and/or immunomodulators were permitted.
 
-Patients who achieved clinical response to open-label treatment with intravenous vedolizumab at week 6 were eligible to be randomised For the evaluation of the week 52 endpoints, 216 (56.4%) patients were randomised and treated in a double-blind fashion (2:1:1) to 1 of the following regimens: subcutaneous vedolizumab 108 mg every 2 weeks, intravenous vedolizumab 300 mg every 8 weeks, or placebo.
+Patients who achieved clinical response to open-label treatment with intravenous vedolizumab at week 6 were eligible to be randomised. For the evaluation of the week 52 endpoints, 216 (56.4%) patients were randomised and treated in a double-blind fashion (2:1:1) to 1 of the following regimens: subcutaneous vedolizumab 108 mg every 2 weeks, intravenous vedolizumab 300 mg every 8 weeks, or placebo.
 
 The baseline demographics were similar for patients in vedolizumab and placebo groups. The baseline Mayo score was between 9 to 12 (severe ulcerative colitis) in about 62% and 6 to 8 (moderate ulcerative colitis) in about 38% of the overall study population.
 
@@ -1076,7 +1101,11 @@ Primary study endpoint clinical remission was defined as a complete Mayo score o
 
 Table 4 shows the evaluated results from the primary and secondary endpoints.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 4. Week 52 efficacy results of VISIBLE I
+
+a
 
 | Endpoint a                      | Placebo b n = 56   | Vedolizumab SC 108 mg every 2 weeks n = 106   | Vedolizumab IV 300 mg every 8 weeks n = 54   | Estimate c of treatment difference (95% CI) Vedolizumab SC vs. Placebo   | P-value c      |
 |---------------------------------|--------------------|-----------------------------------------------|----------------------------------------------|--------------------------------------------------------------------------|----------------|
@@ -1086,9 +1115,7 @@ Table 4. Week 52 efficacy results of VISIBLE I
 | Durable clinical remission g    | 5.4%               | 15.1%                                         | 16.7%                                        | 9.7 (-6.6, 25.7)                                                         | p = 0.076 (NS) |
 | Corticosteroid-free remission h | 8.3%               | 28.9%                                         | 28.6%                                        | 20.6 (-4.5, 43.7)                                                        | p = 0.067 (NS) |
 
-a Endpoints are presented in the order that fixed-sequence testing was performed for control of Type 1 error at 5% b The placebo group includes those subjects who received intravenous vedolizumab at week 0 and week 2, and were randomised to receive placebo from week 6 through week 52.
-
-<div style=\"page-break-after: always\"></div>
+Endpoints are presented in the order that fixed-sequence testing was performed for control of Type 1 error at 5% b The placebo group includes those subjects who received intravenous vedolizumab at week 0 and week 2, and were randomised to receive placebo from week 6 through week 52.
 
 c Estimate of treatment difference and the p-value for all endpoints is based on the Cochrane-Mantel-Haenszel method d Clinical remission: Complete Mayo score of ≤ 2 points and no individual subscore &gt; 1 point at week 52 e Mucosal healing: Mayo endoscopic subscore of ≤ 1 point
 
@@ -1099,6 +1126,8 @@ g Durable clinical remission: Clinical remission at weeks 6 and 52
 h Corticosteroid-free clinical remission: Patients using oral corticosteroids at baseline who had discontinued corticosteroids and were in clinical remission at week 52. Patient numbers using oral corticosteroids at baseline were n = 24 for placebo, n = 45 for subcutaneous vedolizumab and n = 21 for intravenous vedolizumab NS = non significant (2-tailed p-value &gt; 0.05)
 
 The primary and secondary endpoints were analysed in subgroups of patients who had failed prior TNFα antagonist therapy (37%; n = 80) and patients who were naïve to previous TNFα antagonist therapy (63%; n = 136). Results of study patients treated with placebo and subcutaneous vedolizumab in these subgroups are presented in Table 5.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 5. VISIBLE 1 Study results at week 52 analysed by response to prior previous TNFα antagonist therapy
 
@@ -1122,15 +1151,25 @@ a Patients who had failed prior TNFα antagonist therapy and using oral corticos
 
 Health related quality of life (HRQOL) was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ), a disease specific instrument, and EuroQol-5 Dimension (EQ-5D, including EQ 5D VAS), which is a generic measure. Work productivity was assessed by work productivity and activity impairment questionnaire (WPAI-UC). Patients treated with subcutaneous vedolizumab maintained improvements in IBDQ, EQ-5D and WPAI-UC scores at week 52 to a greater extent than patients who received placebo.
 
-Patients who completed VISIBLE 1 were eligible to enrol in an ongoing, open-label extension study to evaluate long-term safety and efficacy of subcutaneous vedolizumab treatment in patients with ulcerative colitis or Crohn's disease.
+## Study extension
 
-Patients in VISIBLE 1 who did not achieve clinical response at week 6 received a third dose of vedolizumab 300 mg by intravenous infusion at week 6. Of patients who received a third dose of vedolizumab 300 mg by intravenous infusion at week 6, 79.7% (114/143) achieved a clinical response at week 14. Patients who achieved a clinical response at week 14 were eligible to enter the open-label extension study and receive subcutaneous vedolizumab 108 mg every 2 weeks. Clinical remission as
+Patients who completed VISIBLE 1 were eligible to enrol in an open-label extension study to evaluate long-term safety and efficacy of subcutaneous vedolizumab treatment in patients with ulcerative colitis or Crohn's disease.
+
+Clinical remission in the openlabel extension study was defined as a partial Mayo score of ≤ 2 and no individual subscore &gt; 1 point.
+
+In this open-label extension study, clinical remission was observed in ulcerative colitis patients for up to 264 weeks.
+
+Of the patients who completed VISIBLE 1 who received subcutaneous maintenance vedolizumab, the clinical remission rate after 100 weeks of treatment was 75.4% (52/69).
+
+Of the patients who completed VISIBLE 1, who received intravenous maintenance vedolizumab, the clinical remission rate after 100 weeks of treatment (52 weeks of intravenous treatment and 48 weeks of subcutaneous treatment) was 68.6% (24/35).
+
+Patients in VISIBLE 1 who did not achieve clinical response at week 6 received a third dose of vedolizumab 300 mg by intravenous infusion at week 6. Of patients who received a third dose of vedolizumab 300 mg by intravenous infusion at week 6, 79.7% (114/143) achieved a clinical response at week 14. Patients who achieved a clinical response at week 14 were eligible to enter the open-label extension study and receive subcutaneous vedolizumab 108 mg every 2 weeks. Of these patients, after
 
 <div style=\"page-break-after: always\"></div>
 
-assessed by the partial Mayo score (a standardised measure that includes 3 of the 4 scored subscales of the complete Mayo score: stool frequency, rectal bleeding, and physician global assessment) was achieved by 39.2% (40/102) of these patients at week 40 after transitioning to subcutaneous vedolizumab in the open-label extension study.
+62 weeks of treatment (14 weeks of intravenous treatment and 48 weeks of subcutaneous treatment), the clinical remission rate was 35.5% (38/107).
 
-Patients randomised to intravenous vedolizumab treatment group in VISIBLE 1 received vedolizumab 300 mg intravenously at weeks 0, 2, and 6 and every 8 weeks thereafter until week 52. At week 52, these patients entered the open-label extension study and received subcutaneous vedolizumab 108 mg every 2 weeks. Clinical remission as assessed by the partial Mayo score was maintained in 77% of patients at 24 weeks after transitioning to subcutaneous vedolizumab in the open-label extension study.
+Patients in VISIBLE 1 who discontinued early due to treatment failure were also eligible to enter the open-label extension study and receive subcutaneous vedolizumab 108 mg every week. After 48 weeks of subcutaneous treatment in the open-label extension study, the clinical remission rate was 16.0% (4/25).
 
 ## Crohn's disease - vedolizumab for intravenous administration
 
@@ -1140,7 +1179,7 @@ The GEMINI 2 Study was a randomised, double-blind, placebo-controlled study eval
 
 GEMINI 2 contained 2 cohorts of patients that received vedolizumab at weeks 0 and 2: cohort 1 patients were randomised to receive either vedolizumab 300 mg or placebo in a double-blind fashion, and cohort 2 patients were treated with open-label vedolizumab 300 mg. To evaluate efficacy at week 52, 461 patients from cohorts 1 and 2, who were treated with vedolizumab and had achieved clinical response (defined as a ≥ 70-point decrease in CDAI score from baseline) at week 6, were randomised in a double-blind fashion (1:1:1) to 1 of the following regimens beginning at week 6: vedolizumab 300 mg every 8 weeks, vedolizumab 300 mg every 4 weeks, or placebo every 4 weeks. Patients showing clinical response at week 6 were required to begin corticosteroid tapering. Primary endpoint was the proportion of patients in clinical remission at week 52 (see Table 7).
 
-The GEMINI 3 Study was a second randomised, double-blind, placebo-controlled study that evaluated efficacy at week 6 and week 10 in the subgroup of patients defined as having failed at least 1 conventional therapy and failed TNFα antagonist therapy (including primary non-responders) as well as the overall population, which also included patients who failed at least 1 conventional therapy and were naïve to TNFα antagonist therapy. Patients (n = 416), which included approximately 75% TNFα antagonist failures patients, were randomised in a double-blind fashion (1:1) to receive either vedolizumab 300 mg or placebo at weeks 0, 2, and 6. The primary endpoint was the proportion of patients in clinical remission at week 6 in the TNFα antagonist failure subpopulation. As noted in Table 6, although the primary endpoint was not met, exploratory analyses show that clinically meaningful results were observed.
+The GEMINI 3 Study was a second randomised, double-blind, placebo-controlled study that evaluated efficacy at week 6 and week 10 in the subgroup of patients defined as having failed at least 1 conventional therapy and failed TNF α antagonist therapy (including primary non-responders) as well as the overall population, which also included patients who failed at least 1 conventional therapy and were naïve to TNFα antagonist therapy. Patients (n = 416), which included approximately 75% TNF α antagonist failures patients, were randomised in a double-blind fashion (1:1) to receive either vedolizumab 300 mg or placebo at weeks 0, 2, and 6. The primary endpoint was the proportion of patients in clinical remission at week 6 in the TNF α antagonist failure subpopulation. As noted in Table 6, although the primary endpoint was not met, exploratory analyses show that clinically meaningful results were observed.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1208,9 +1247,9 @@ Table 7. Efficacy results for GEMINI 2 at week 52
 
 ‡ p &lt; 0.05
 
-§ Corticosteroid-free clinical remission: Patients using oral corticosteroids at baseline who had discontinued corticosteroids beginning at week 6 and were in clinical remission at week 52. Patient numbers were n = 82 for placebo, n = 82 for vedolizumab every 8 weeks, and n = 80 for vedolizumab every 4 weeks
+§ Corticosteroid-free clinical remission: Patients using oral corticosteroids at baseline who had discontinued corticosteroids beginning at week 6 and were in clinical remission at week 52. Patient numbers were n = 82 for placebo, n = 82 for vedolizumab every 8 weeks, and n = 80 for vedolizumab every 4 weeks ¶
 
-¶ Durable clinical remission: Clinical remission at ≥ 80% of study visits including final visit (week 52)
+Durable clinical remission: Clinical remission at ≥ 80% of study visits including final visit (week 52)
 
 Exploratory analyses examined the effects of concomitant corticosteroids and immunomodulators on induction of remission with vedolizumab. Combination treatment, most notably with concomitant corticosteroids, appeared to be more effective in inducing remission in Crohn's disease than vedolizumab alone or with concomitant immunomodulators, which showed a smaller difference from placebo in the rate of remission. Clinical remission rate in GEMINI 2 at week 6 was 10% (difference from placebo 2%, 95% CI: -6, 10) when administered without corticosteroids compared to 20% (difference from placebo 14%, 95% CI: -1, 29) when administered with concomitant corticosteroids. In GEMINI 3 at week 6 and 10 the respective clinical remission rates were 18% (difference from placebo 3%, 95% CI: -7, 13) and 22% (difference from placebo 8%, 95% CI: -3, 19) when administered without corticosteroids compared to 20% (difference from placebo 11%, 95% CI: 2, 20) and 35% (difference from placebo 23%, 95% CI: 12, 33) respectively when administered with concomitant corticosteroids. These effects were seen whether or not immunomodulators were also concomitantly administered.
 
@@ -1218,19 +1257,21 @@ Exploratory analyses provide additional data on key subpopulations studied. In G
 
 Patients who failed to demonstrate response at week 6 in GEMINI 2 were retained in the study and received vedolizumab every 4 weeks. Enhanced clinical response was observed at week 10 and week 14 for greater proportions of vedolizumab patients 16% and 22%, respectively, compared with placebo patients 7% and 12%, respectively. There was no clinically meaningful difference in clinical remission between treatment groups at these time points. Analyses of week 52 clinical remission in patients who were non-responders at week 6 but achieved response at week 10 or week 14 indicate that non-responder CD patients may benefit from a dose of vedolizumab at week 10.
 
-Patients who lost response to vedolizumab when treated every 8 weeks in GEMINI 2 were allowed to enter an open-label extension study and received vedolizumab every 4 weeks. In these patients, clinical remission was achieved in 23% of patients at week 28 and 32% of patients at week 52.
+Exploratory analysis showed clinically meaningful improvements were observed for the vedolizumab every 4 weeks and every 8 weeks groups in GEMINI 2 and the improvements were significantly greater as compared with the placebo group from baseline to week 52 on EQ-5D and EQ-5D VAS scores, total IBDQ score, and IBDQ subscales of bowel symptoms and systemic function.
 
-Patients who achieved a clinical response after receiving vedolizumab at week 0 and 2 and were then randomised to placebo (for 6 to 52 weeks) and lost response were allowed to enter the open-label extension study and receive vedolizumab every 4 weeks. In these patients, clinical remission was achieved in 46% of patients by 28 weeks and 41% of patients by 52 weeks.
+## Study extension
+
+Patients who lost response to vedolizumab when treated every 8 weeks in GEMINI 2 were allowed to enter an open-label extension study and received vedolizumab every 4 weeks. In these patients, clinical remission was achieved in 23% of patients at week 28 and 32% of patients at week 52.
 
 <div style=\"page-break-after: always\"></div>
 
-In this open-label extension study, clinical remission and clinical response were observed in patients for up to 196 weeks.
+Patients who achieved a clinical response after receiving vedolizumab at week 0 and 2 and were then randomised to placebo (for 6 to 52 weeks) and lost response were allowed to enter the open-label extension study and receive vedolizumab every 4 weeks. In these patients, clinical remission was achieved in 46% of patients by 28 weeks and 41% of patients by 52 weeks.
 
-Exploratory analysis showed clinically meaningful improvements were observed for the vedolizumab every 4 weeks and every 8 weeks groups in GEMINI 2 and the improvements were significantly greater as compared with the placebo group from baseline to week 52 on EQ-5D and EQ-5D VAS scores, total IBDQ score, and IBDQ subscales of bowel symptoms and systemic function.
+In this open-label extension study, clinical remission and clinical response were observed in patients for up to 196 weeks.
 
 ## Crohn's disease - vedolizumab for subcutaneous administration
 
-The efficacy and safety of subcutaneous vedolizumab for the treatment of adult patients with moderately to severely active Crohn's disease (CDAI score of 220 to 450) was demonstrated in a randomised, double-blind, placebo-controlled study evaluating efficacy endpoints at week 52 (VISIBLE 2). In VISIBLE 2, enrolled patients (n = 644) had inadequate response to, loss of response to, or intolerance to one conventional therapy, including corticosteroids, immunomodulators, and/or TNFα antagonists (including primary non-responders). Concomitant stable doses of oral aminosalicylates, corticosteroids and/or immunomodulators were permitted.
+The efficacy and safety of subcutaneous vedolizumab for the treatment of adult patients with moderately to severely active Crohn's disease (CDAI score of 220 to 450) was demonstrated in a randomised, double-blind, placebo-controlled study evaluating efficacy endpoints at week 52 (VISIBLE 2). In VISIBLE 2, enrolled patients (n = 644) had inadequate response to, loss of response to, or intolerance to one conventional therapy, including corticosteroids, immunomodulators, and/or TNFα antagonists (including prim ary non-responders). Concomitant stable doses of oral aminosalicylates, corticosteroids and/or immunomodulators were permitted.
 
 Patients who achieved clinical response to open-label treatment with intravenous vedolizumab at week 6 were eligible to be randomised. For the evaluation of the week 52 endpoints, 409 (64%) patients were randomised and treated in a double-blind fashion (2:1) to receive subcutaneous vedolizumab 108 mg (n = 275) or subcutaneous placebo (n = 134) every 2 weeks.
 
@@ -1263,15 +1304,13 @@ Table 8. Week 52 efficacy results of VISIBLE 2
 
 **Corticosteroid-free clinical remission: Patients using oral corticosteroids at baseline who had discontinued corticosteroids and were in clinical remission at week 52. Patient numbers using oral corticosteroids at baseline were n = 44 for placebo and n = 95 for subcutaneous vedolizumab.
 
-†† Clinical remission (CDAI score ≤ 150, at week 52) in TNFα antagonist naïve patients (n = 63 placebo;
+††Clinical remission ( CDAI score ≤ 150, at week 52) in TNFα antagonist naïve patients (n = 63 placebo; n = 107 subcutaneous vedolizumab
 
-n = 107 subcutaneous vedolizumab
-
-‡‡  nominal p-value
+‡‡ nominal p-value
 
 NS = non significant (2-tailed p-value &gt; 0.05)
 
-The primary and secondary endpoints were analysed in subgroups of patients who were naïve to prior TNFα antagonist therapy (42%; n = 170), patients who had failed prior TNFα antagonist therapy (51%; n = 210), and patients who had exposure to prior TNFα antagonist therapy but did not experience treatment failure (7%; n = 29). Results of study patients treated with placebo and subcutaneous vedolizumab in these subgroups are presented in Tables 9 and 10.
+The primary and secondary endpoints were analysed in subgroups of patients who were naïve to prior TNFα antagonist therapy (42%; n = 170), patients who had failed prior TNFα antagonist therapy (51%; n = 210), and patients who had exposure to prior TNFα ant agonist therapy but did not experience treatment failure (7%; n = 29). Results of study patients treated with placebo and subcutaneous vedolizumab in these subgroups are presented in Tables 9 and 10.
 
 Table 9. Week 52 efficacy results in TNFα antagonist naïve patients in VISIBLE 2
 
@@ -1281,7 +1320,9 @@ Table 9. Week 52 efficacy results in TNFα antagonist naïve patients in VISIBLE
 | Enhanced clinical response       | 47.6%            | 54.2%                                         | 4.4 (-11.6, 20.3)                                          |
 | Corticosteroid-free remission ** | 18.2%            | 41.0%                                         | 22.8 (-3.2, 46.8)                                          |
 
-** Patients who were naïve to prior TNFα antagonist therapy and using oral corticosteroids at baseline were n = 22 for placebo and n = 39 for subcutaneous vedolizumab
+**
+
+Patients who were naïve to prior TNFα antagonist therapy and using oral corticosteroids at baseline were n = 22 for placebo and n = 39 for subcutaneous vedolizumab
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1297,7 +1338,19 @@ Table 10. Week 52 efficacy results in patients who failed TNFα antagonist thera
 
 HRQOL was assessed by IBDQ, a disease specific instrument, and EQ-5D (including EQ-5D VAS), which is a generic measure. Work productivity was assessed by WPAI-CD. Patients treated with subcutaneous vedolizumab maintained improvements in IBDQ, EQ-5D and WPAI-CD scores at week 52 to a greater extent than patients who received placebo.
 
-Patients who completed VISIBLE 2 were eligible to enrol in an ongoing, open-label extension study to evaluate long-term safety and efficacy of subcutaneous vedolizumab treatment in patients with ulcerative colitis or Crohn's disease.
+## Study extension
+
+Patients who completed VISIBLE 2 were eligible to enrol in an open-label extension study to evaluate long-term safety and efficacy of subcutaneous vedolizumab treatment in patients with ulcerative colitis or Crohn's disease.
+
+Clinical remission in the open-label extension study was defined as a Harvey-Bradshaw Index (HBI) score of &lt; 4 points.
+
+In this open-label extension study, clinical remission was observed in Crohn's disease patients for up to 264 weeks.
+
+Of the patients who completed VISIBLE 2 who received subcutaneous maintenance vedolizumab, the clinical remission rate after 100 weeks of treatment (intravenous induction followed by subcutaneous maintenance) the open-label extension study was 58.2% (92/158).
+
+Patients in VISIBLE 2 who did not achieve clinical response at week 6 were to receive a third dose of vedolizumab 300 mg by intravenous infusion at week 6. Of patients who received a third dose of vedolizumab 300 mg by intravenous infusion at week 6, 65.1% (125/192) achieved a clinical response at week 14. Patients who achieved a clinical response at week 14 were eligible to enter the open-label extension study and receive subcutaneous vedolizumab 108 mg every 2 weeks. Of these patients, after 62 weeks of treatment (14 weeks of intravenous treatment and 48 weeks of subcutaneous treatment), the clinical remission rate was 49.2% (58/118).
+
+Patients in VISIBLE 2 who discontinued early due to treatment failure were also eligible to enter the open-label extension study and receive subcutaneous vedolizumab 108 mg every week. After 48 weeks of subcutaneous treatment in the open-label extension study, the clinical remission rate was 17.6% (12/68).
 
 ## Paediatric population
 
@@ -1307,13 +1360,13 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 The single and multiple dose pharmacokinetics of vedolizumab have been studied in healthy subjects and in patients with moderate to severely active ulcerative colitis or Crohn's disease.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Absorption
 
 In patients administered 300 mg intravenous vedolizumab as a 30 minute intravenous infusion on weeks 0 and 2, mean serum trough concentrations at week 6 were 27.9 mcg/mL (SD ± 15.51) in ulcerative colitis and 26.8 mcg/mL (SD ± 17.45) in Crohn's disease. In studies with intravenous vedolizumab, starting at week 6, patients received 300 mg intravenous vedolizumab every 8 or 4 weeks. In patients with ulcerative colitis, mean steady-state serum trough concentrations were 11.2 mcg/mL (SD ± 7.24) and 38.3 mcg/mL (SD ± 24.43), respectively. In patients with Crohn's disease mean steady-state serum trough concentrations were 13.0 mcg/mL (SD ± 9.08) and 34.8 mcg/mL (SD ± 22.55), respectively.
 
 In studies in patients with ulcerative colitis or Crohn's disease receiving subcutaneous vedolizumab, starting at week 6, patients received 108 mg subcutaneous vedolizumab every 2 weeks. The mean steady state serum trough concentrations were 35.8 mcg/mL (SD ± 15.2) in patients with ulcerative colitis and 31.4 mcg/mL (SD ± 14.7) in patients with Crohn's disease. The bioavailability of vedolizumab following single-dose subcutaneous administration of 108 mg relative to single-dose intravenous administration was approximately 75%. The median time to reach maximum serum concentration (tmax) was 7 days (range 3 to 14 days), and the mean maximum serum concentration (Cmax) was 15.4 mcg/mL (SD ± 3.2).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Distribution
 
@@ -1337,19 +1390,21 @@ Age does not impact the vedolizumab clearance in ulcerative colitis and Crohn's 
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, carcinogenic potential, toxicity to reproduction and development.
 
-Long-term animal studies with vedolizumab to assess its carcinogenic potential have not been conducted because pharmacologically responsive models to monoclonal antibodies do not exist. In a pharmacologically responsive species (cynomolgus monkeys), there was no evidence of cellular hyperplasia or systemic immunomodulation that could potentially be associated with oncogenesis in 13- and 26-week toxicology studies. Furthermore, no effects were found of vedolizumab on the proliferative rate or cytotoxicity of a human tumour cell line expressing the α4β7 integrin in vitro .
-
-No specific fertility studies in animals have been performed with vedolizumab. No definitive conclusion can be drawn on the male reproductive organs in cynomolgus monkey repeated dose toxicity study. Given the lack of binding of vedolizumab to male reproductive tissue in monkey and human, and the intact male fertility observed in β7 integrin-knockout mice, it is not expected that vedolizumab will affect male fertility.
-
-Administration of vedolizumab to pregnant cynomolgus monkeys during most of gestation resulted in no evidence of effects on teratogenicity, prenatal or postnatal development in infants up to 6 months of age. Low levels (&lt; 300 mcg/L) of vedolizumab were detected on post-partum day 28 in the milk of 3 of 11 cynomolgus monkeys treated 100 mg/kg of vedolizumab dosed every 2 weeks and not in any animals that received 10 mg/kg.
+Long-term animal studies with vedolizumab to assess its carcinogenic potential have not been conducted because pharmacologically responsive models to monoclonal antibodies do not exist. In a
 
 <div style=\"page-break-after: always\"></div>
+
+pharmacologically responsive species (cynomolgus monkeys), there was no evidence of cellular hyperplasia or systemic immunomodulation that could potentially be associated with oncogenesis in 13- and 26-week toxicology studies. Furthermore, no effects were found of vedolizumab on the proliferative rate or cytotoxicity of a human tumour cell line expressing the α 4 β 7 integrin in vitro .
+
+No specific fertility studies in animals have been performed with vedolizumab. No definitive conclusion can be drawn on the male reproductive organs in cynomolgus monkey repeated dose toxicity study. Given the lack of binding of vedolizumab to male reproductive tissue in monkey and human, and the intact male fertility observed in β 7 integrin-knockout mice, it is not expected that vedolizumab will affect male fertility.
+
+Administration of vedolizumab to pregnant cynomolgus monkeys during most of gestation resulted in no evidence of effects on teratogenicity, prenatal or postnatal development in infants up to 6 months of age. Low levels (&lt; 300 mcg/L) of vedolizumab were detected on post-partum day 28 in the milk of 3 of 11 cynomolgus monkeys treated 100 mg/kg of vedolizumab dosed every 2 weeks and not in any animals that received 10 mg/kg.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Citric acid monohydrate Sodium citrate dihydrate L-histidine L-histidine monohydrochloride L-arginine hydrochloride Polysorbate 80 Water for injections
+Citric acid monohydrate (E 330) Sodium citrate dihydrate (E 331) L-histidine L-histidine monohydrochloride L-arginine hydrochloride Polysorbate 80 (E 433) Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -1357,31 +1412,37 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-24 months
+2 years
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C-8 °C). Keep the pre-filled syringes or pre-filled pens in the outer carton in order to protect from light. Do not freeze.
+Store in a refrigerator (2 °C-8 °C). Keep the pre-filled syringes or pre-filled pens in the outer carton in order to protect from light.
+
+Do not freeze.
 
 If needed, a single pre-filled syringe or pre-filled pen can be left out of the refrigerator protected from light at room temperature (up to 25 °C) for up to 7 days. Do not use the pre-filled syringe or pre-filled pen if left out of the refrigerator for more than 7 days.
 
 ## 6.5 Nature and contents of container
 
-## Entyvio 108 mg solution for injection in pre-filled syringe
+Entyvio 108 mg solution for injection in pre-filled syringe
 
-Solution for injection in a Type I glass 1 mL syringe with a fixed 27 gauge thin wall, 1.27 cm needle. The syringe has a rubber needle cover encased in a plastic shell and rubber stopper. The subcutaneous vedolizumab pre-filled syringe is a single dose, disposable drug delivery system with manual injection operation. Each pre-filled syringe is equipped with a safety device that activates to extend and lock a guard over the needle once the injection is completed.
+Solution for injection in a Type I glass 1 mL syringe with a fixed 27 gauge thin wall, 1.27 cm needle. The syringe has a rubber needle cover encased in a plastic shell and rubber stopper.
+
+<div style=\"page-break-after: always\"></div>
+
+The subcutaneous vedolizumab pre-filled syringe is a single dose, disposable drug delivery system with manual injection operation. Each pre-filled syringe is equipped with a safety device that activates to extend and lock a guard over the needle once the injection is completed.
 
 Packs of 1 or 2 pre-filled syringes, and multipacks of 6 (6 packs of 1) pre-filled syringes.
 
-## Entyvio 108 mg solution for injection in pre-filled pen
+Entyvio 108 mg solution for injection in pre-filled pen
 
-Solution for injection in a pre-filled pen in a Type I glass 1 mL syringe and a fixed 27 gauge thin wall, 1.27 cm needle. The syringe has a rubber needle cover encased in a plastic shell and rubber stopper. The subcutaneous vedolizumab pre-filled pen is a single dose, disposable drug delivery system with mechanical injection operation. Each pre-filled pen is equipped with an automated needle shield to extend and lock over the needle once the device is removed from the injection site.
+Solution for injection in a pre-filled pen in a Type I glass 1 mL syringe and a fixed 27 gauge thin wall, 1.27 cm needle. The syringe has a rubber needle cover encased in a plastic shell and rubber stopper.
+
+The subcutaneous vedolizumab pre-filled pen is a single dose, disposable drug delivery system with mechanical injection operation. Each pre-filled pen is equipped with an automated needle shield to extend and lock over the needle once the device is removed from the injection site.
 
 Packs of 1, 2 or 6 pre-filled pens.
 
 Not all pack sizes may be marketed.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -1393,7 +1454,7 @@ Do not leave the pre-filled syringe or pre-filled pen in direct sunlight.
 
 Do not freeze. Do not use if it has been frozen.
 
-Inspect the solution visually for particulate matter and discoloration prior to administration. The solution should be colourless to yellow. Do not use pre-filled syringe or pre-filled pen with visible particulate matter or discoloration.
+Inspect the solution visually for particulate matter and discolouration prior to administration. The solution should be colourless to yellow. Do not use pre-filled syringe or pre-filled pen with visible particulate matter or discolouration.
 
 Each pre-filled syringe or pre-filled pen is for single use only.
 
@@ -1403,15 +1464,19 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Takeda Pharma A/S Delta Park 45 2665 Vallensbaek Strand Denmark medinfoEMEA@takeda.com
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+## 8. MARKETING AUTHORISATION NUMBERS
 
 Entyvio 108 mg solution for injection in pre-filled syringe
 
-```
-EU/1/14/923/002: 1 pre-filled syringe EU/1/14/923/003: 2 pre-filled syringes EU/1/14/923/004 Multipack: 6 (6 packs of 1) pre-filled syringes
-```
+EU/1/14/923/002: 1 pre-filled syringe
 
-Entyvio 108 mg solution for injection in pre-filled pen
+EU/1/14/923/003: 2 pre-filled syringes
+
+EU/1/14/923/004 Multipack: 6 (6 packs of 1) pre-filled syringes
+
+<div style=\"page-break-after: always\"></div>
+
+## Entyvio 108 mg solution for injection in pre-filled pen
 
 EU/1/14/923/005: 1 pre-filled pen
 
@@ -1427,20 +1492,20 @@ Date of latest renewal: 12 December 2018
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-- A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
 Name and address of the manufacturers of the biological active substance
 
@@ -1448,7 +1513,7 @@ AbbVie Bioresearch Center 100 Research Drive Worcester, MA 01605-4314 USA
 
 Takeda Pharmaceuticals U.S.A. Inc. 9450 Winnetka Avenue North Minneapolis MN 55445 USA
 
-Name and address of the manufacturers responsible for batch release
+Name and address of the manufacturer responsible for batch release
 
 Takeda Austria GmbH St. Peter-Straße 25 4020 Linz Austria
 
@@ -1477,8 +1542,6 @@ An updated RMP should be submitted:
 
 If the dates for submission of a PSUR and the update of a RMP coincide, they can be submitted at the same time.
 
-## · Additional risk minimisation measures
-
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX III
@@ -1499,7 +1562,7 @@ CARTON (300 mg)
 
 Entyvio 300 mg powder for concentrate for solution for infusion vedolizumab
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 Each vial contains 300 mg of vedolizumab.
 
@@ -1507,17 +1570,19 @@ After reconstitution each mL contains 60 mg of vedolizumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: Sucrose, L-histidine, L-histidine monohydrochloride, L-arginine hydrochloride, polysorbate 80.
+Excipients: Sucrose, L-histidine, L-histidine monohydrochloride, L-arginine hydrochloride, polysorbate 80 (E 433). See the package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Powder for concentrate for solution for infusion 1 vial
+Powder for concentrate for solution for infusion
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+1 vial
 
-Read the package leaflet before use.
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 For intravenous use after reconstitution and dilution.
+
+Read the package leaflet before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1535,13 +1600,13 @@ Store in a refrigerator. Keep the vial in the outer carton in order to protect f
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Takeda Pharma A/S Delta Park 45 2665 Vallensbaek Strand Denmark
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/14/923/001
 
@@ -1551,11 +1616,14 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -1571,7 +1639,7 @@ NN
 
 VIAL LABEL (300 mg)
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
 Entyvio 300 mg powder for concentrate for solution for infusion vedolizumab
 
@@ -1599,19 +1667,19 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON - PRE-FILLED SYRINGE (108 mg) (EXCLUDING MULTIPACKS)
+## CARTON - PRE-FILLED SYRINGE (108 mg) (EXCLUDING MULTIPACKS)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 Entyvio 108 mg solution for injection in pre-filled syringe vedolizumab
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 Each pre-filled syringe contains 108 mg of vedolizumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: citric acid monohydrate, sodium citrate dihydrate, L-histidine, L-histidine monohydrochloride, L-arginine hydrochloride, polysorbate 80, water for injections. See the package leaflet for further information.
+Excipients: citric acid monohydrate (E 330), sodium citrate dihydrate (E 331), L-histidine, L-histidine monohydrochloride, L-arginine hydrochloride, polysorbate 80 (E 433), water for injections. See the package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1621,13 +1689,13 @@ Solution for injection
 
 2 pre-filled syringes
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use.
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Subcutaneous use
 
 For single use only.
+
+Read the package leaflet before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1655,7 +1723,7 @@ Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 Takeda Pharma A/S Delta Park 45 2665 Vallensbaek Strand Denmark
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBERS
 
 EU/1/14/923/002
 
@@ -1667,95 +1735,8 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
 
-Entyvio 108 mg
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC SN
-
-NN
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-## OUTER CARTON FOR MULTIPACK (WITH BLUE BOX) (108 mg) (6x1 PRE-FILLED SYRINGES)
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Entyvio 108 mg solution for injection in pre-filled syringe vedolizumab
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each pre-filled syringe contains 108 mg of vedolizumab.
-
-## 3. LIST OF EXCIPIENTS
-
-Excipients: citric acid monohydrate, sodium citrate dihydrate, L-histidine, L-histidine monohydrochloride, L-arginine hydrochloride, polysorbate 80, water for injections. See the package leaflet for further information.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-## Solution for injection
-
-Multipack: 6 (6 packs of 1) pre-filled syringes
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Subcutaneous use
-
-For single use only.
-
-Read the package leaflet before use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-Store in a refrigerator.
-
-Do not freeze.
-
-Keep the pre-filled syringe in the outer carton in order to protect from light.
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Takeda Pharma A/S
-
-Delta Park 45
-
-2665 Vallensbaek Strand
-
-Denmark
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/14/923/004 (6x1 pre-filled syringes)
-
-## 13. BATCH NUMBER
-
-Lot
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Entyvio 108 mg
 
@@ -1773,33 +1754,29 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-INTERMEDIATE CARTON OF MULTIPACK (WITHOUT BLUE BOX) - PRE-FILLED SYRINGES (108 mg)
+## OUTER CARTON FOR MULTIPACK (WITH BLUE BOX) (108 mg) (6x1 PRE-FILLED SYRINGES)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 Entyvio 108 mg solution for injection in pre-filled syringe vedolizumab
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 Each pre-filled syringe contains 108 mg of vedolizumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: citric acid monohydrate, sodium citrate dihydrate, L-histidine, L-histidine monohydrochloride, L-arginine hydrochloride, polysorbate 80, water for injections. See the package leaflet for further information.
+Excipients: citric acid monohydrate (E 330), sodium citrate dihydrate (E 331), L-histidine, L-histidine monohydrochloride, L-arginine hydrochloride, polysorbate 80 (E 433), water for injections. See the package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 ## Solution for injection
 
-1 pre-filled syringe
+Multipack: 6 (6 packs of 1) pre-filled syringes
 
-Component of a multipack, cannot be sold separately.
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Subcutaneous use
 
@@ -1839,7 +1816,101 @@ Delta Park 45
 
 Denmark
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER
+
+EU/1/14/923/004 (6x1 pre-filled syringes)
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Entyvio 108 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+INTERMEDIATE CARTON OF MULTIPACK (WITHOUT BLUE BOX) - PRE-FILLED SYRINGES (108 mg)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Entyvio 108 mg solution for injection in pre-filled syringe vedolizumab
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
+
+Each pre-filled syringe contains 108 mg of vedolizumab.
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: citric acid monohydrate (E 330), sodium citrate dihydrate (E 331), L-histidine, L-histidine monohydrochloride, L-arginine hydrochloride, polysorbate 80 (E 433), water for injections. See the package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Solution for injection
+
+1 pre-filled syringe
+
+Component of a multipack, cannot be sold separately.
+
+## 5. METHOD AND ROUTE OF ADMINISTRATION
+
+Subcutaneous use
+
+For single use only.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+Do not freeze.
+
+Keep the pre-filled syringe in the outer carton in order to protect from light.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Takeda Pharma A/S
+
+Delta Park 45
+
+2665 Vallensbaek Strand
+
+Denmark
+
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/14/923/004 (6x1 pre-filled syringe)
 
@@ -1847,7 +1918,8 @@ EU/1/14/923/004 (6x1 pre-filled syringe)
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
 
@@ -1855,21 +1927,21 @@ Entyvio 108 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTER ORSTRIPS   |
-|----------------------------------------------------|
-| LIDDING (PRE-FILLED SYRINGE) (108 mg)              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTER OR STRIPS   |
+|------------------------------------------------------|
+| LIDDING (PRE-FILLED SYRINGE) (108 mg)                |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Entyvio 108 mg solution for injection in pre-filled syringe vedolizumab
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Takeda Pharma A/S (as Takeda logo)
 
@@ -1890,18 +1962,17 @@ For single use only.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABEL (108 mg)                                           |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABEL (108 mg)                                             |
 
-1.
-
-NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Entyvio 108 mg injection vedolizumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1913,8 +1984,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.68 mL
 
@@ -1931,13 +2002,13 @@ CARTON - PRE-FILLED PEN (108 mg)
 
 Entyvio 108 mg solution for injection in pre-filled pen vedolizumab
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 Each pre-filled pen contains 108 mg of vedolizumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: citric acid monohydrate, sodium citrate dihydrate, L-histidine, L-histidine monohydrochloride, L-arginine hydrochloride, polysorbate 80, water for injections. See the package leaflet for further information.
+Excipients: citric acid monohydrate (E 330), sodium citrate dihydrate (E 331), L-histidine, L-histidine monohydrochloride, L-arginine hydrochloride, polysorbate 80 (E 433), water for injections. See the package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1949,13 +2020,13 @@ Excipients: citric acid monohydrate, sodium citrate dihydrate, L-histidine, L-hi
 
 6 pre-filled pens
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Subcutaneous use
 
-Read the package leaflet before use.
-
 For single use only.
+
+Read the package leaflet before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1989,7 +2060,7 @@ Delta Park 45
 
 Denmark
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBERS
 
 EU/1/14/923/005
 
@@ -2001,7 +2072,8 @@ EU/1/14/923/007
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -2022,46 +2094,19 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+| MINIMUM PARTICULARS TO APPEAR ON BLISTER OR STRIPS   |
+|------------------------------------------------------|
+| LIDDING (PRE-FILLED PEN) (108 mg)                    |
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTER OR STRIPS
-
-LIDDING (PRE-FILLED PEN) (108 mg)
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Entyvio 108 mg solution for injection in pre-filled pen vedolizumab
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Takeda Pharma A/S (as Takeda logo)
-
-3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
-Lot
-
-## 5. OTHER
-
-For single use only.
-
-<div style=\"page-break-after: always\"></div>
-
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PEN LABEL (108 mg)                                               |
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
-
-Entyvio 108 mg injection vedolizumab SC
-
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2073,8 +2118,37 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | OTHER   |
+|------|---------|
+
+For single use only.
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PEN LABEL (108 mg)                                                 |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
+
+Entyvio 108 mg injection vedolizumab SC
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.68 mL
 
@@ -2093,9 +2167,9 @@ Lot
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- Keep this leaflet. You may need to read it again.
-- If you have any further questions, ask your doctor or nurse.
-- If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor or nurse.
+- -If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2142,8 +2216,8 @@ Pouchitis is a disease that causes inflammation of the lining of the pouch, whic
 
 ## Do not use Entyvio
 
-- if you are allergic to vedolizumab or any of the other ingredients of this medicine (listed in section 6).
-- if you have an active severe infection - such as TB (tuberculosis), blood poisoning, severe diarrhoea and vomiting (gastroenteritis), nervous system infection.
+- -if you are allergic to vedolizumab or any of the other ingredients of this medicine (listed in section 6).
+- -if you have an active severe infection - such as TB (tuberculosis), blood poisoning, severe diarrhoea and vomiting (gastroenteritis), nervous system infection.
 
 ## Warnings and precautions
 
@@ -2195,6 +2269,10 @@ Tell your doctor if you are breast-feeding or planning to breast-feed. Entyvio p
 
 This medicine has a minor effect on your ability to drive or use tools or machines. A small number of patients have felt dizzy after receiving Entyvio. If you feel dizzy, do not drive or use tools or machines.
 
+## Entyvio contains polysorbate 80
+
+This medicine contains 3.31 mg of polysorbate 80 in each Entyvio 300 mg vial. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
 ## 3. How Entyvio will be given
 
 ## How much Entyvio you will receive
@@ -2225,11 +2303,11 @@ Do not stop using Entyvio without talking with your doctor first.
 
 If you have any further questions on the use of this medicine, ask your doctor or nurse.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects although not everybody gets them.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Serious side effects
 
@@ -2283,9 +2361,10 @@ Tell your doctor as soon as possible if you notice any of the following:
 - acne (pimples)
 - rectal bleeding
 - chest discomfort
-- shingles (herpes zoster)
 
 <div style=\"page-break-after: always\"></div>
+
+- shingles (herpes zoster)
 
 ## Uncommon side effects (may affect up to 1 in 100 people)
 
@@ -2294,7 +2373,7 @@ Tell your doctor as soon as possible if you notice any of the following:
 - vaginal infection
 - blurred vision (loss of sharpness of eyesight)
 
-## Very rare side effects (may affect up to 1 in 10,000 people)
+## Very rare side effects (may affect up to 1 in 10 000 people)
 
 - sudden, severe allergic reaction which can cause breathing difficulty, swelling, fast heartbeat, sweating, drop in blood pressure, light-headedness, loss of consciousness and collapse (anaphylactic reaction and anaphylactic shock)
 - inflammation of the liver (hepatitis). Signs and symptoms of hepatitis may include abnormal liver function tests, eye or skin yellowing (jaundice), pain on the right side of your stomach area, bruising
@@ -2334,7 +2413,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Entyvio contains
 
 - The active substance is vedolizumab. Each vial contains 300 mg of vedolizumab.
-- The other ingredients are L-histidine, L-histidine monohydrochloride, L-arginine hydrochloride, sucrose, and polysorbate 80.
+- The other ingredients are L-histidine, L-histidine monohydrochloride, L-arginine hydrochloride, sucrose, and polysorbate 80 (E 433). See section 2 'Entyvio contains polysorbate 80'.
 
 ## What Entyvio looks like and contents of the pack
 
@@ -2353,15 +2432,23 @@ Austria
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Takeda Belgium NV Tél./Tel.: +32 2 464 06 11 medinfoEMEA@takeda.com
+## België/Belgique/Belgien
+
+Takeda Belgium NV Tél/Tel: +32 2 464 06 11
+
+medinfoEMEA@takeda.com
 
 ## Lietuva
 
-Takeda, UAB Tel.: +370 521 09 070 medinfoEMEA@takeda.com
+Takeda, UAB Tel: +370 521 09 070
+
+medinfoEMEA@takeda.com
 
 ## България
 
-Такеда България ЕООД Тел.: +359 2 958 27 36 medinfoEMEA@takeda.com
+Такеда България ЕООД Тел.: +359 2 958 27 36
+
+medinfoEMEA@takeda.com
 
 ## Luxembourg/Luxemburg
 
@@ -2373,47 +2460,49 @@ Takeda Pharmaceuticals Czech Republic s.r.o. Tel: +420 234 722 722 medinfoEMEA@t
 
 ## Magyarország
 
-Takeda Pharma Kft. Tel.: +361 2707030 medinfoEMEA@takeda.com
+Takeda Pharma Kft. Tel.: +36 1 270 7030 medinfoEMEA@takeda.com
 
 ## Danmark
 
-Takeda Pharma A/S Tlf.: +45 46 77 10 10
-
-medinfoEMEA@takeda.com
+Takeda Pharma A/S Tlf.: +45 46 77 10 10 medinfoEMEA@takeda.com
 
 ## Malta
 
-Drugsales Ltd. Tel.: +356 21 419070 safety@drugsalesltd.com
+Drugsales Ltd Tel: +356 21419070 safety@drugsalesltd.com
 
-Deutschland Takeda GmbH Tel.: +49 (0) 800 825 3325
+## Deutschland
+
+Takeda GmbH
+
+Tel: +49 (0)800 825 3325
 
 medinfoEMEA@takeda.com
 
 ## Nederland
 
-Takeda Nederland B.V. Tel.: +31 20 203 5492 medinfoEMEA@takeda.com
+Takeda Nederland B.V.
+
+Tel: +31 20 203 5492
+
+medinfoEMEA@takeda.com
 
 <div style=\"page-break-after: always\"></div>
 
 ## Eesti
 
-Takeda Pharma OÜ
-
-Tel.: +372 6177 669
-
-medinfoEMEA@takeda.com
+Takeda Pharma OÜ Tel: +372 6177 669 medinfoEMEA@takeda.com
 
 ## Ελλάδα
 
-TAKEDA ΕΛΛΑΣ Α.Ε. Τηλ.: +30 210 6387800 medinfoEMEA@takeda.com
+TAKEDA ΕΛΛΑΣ Α.Ε. Τηλ: +30 210 6387800 medinfoEMEA@takeda.com
 
 ## España
 
-Takeda Farmacéutica España, S.A. Tel.: +34 917 90 42 22 medinfoEMEA@takeda.com
+Takeda Farmacéutica España, S.A. Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
 
 ## France
 
-Takeda France SAS Tel.: +33 1 40 67 33 00 medinfoEMEA@takeda.com
+Takeda France SAS Tél: +33 1 40 67 33 00 medinfoEMEA@takeda.com
 
 ## Hrvatska
 
@@ -2421,45 +2510,35 @@ Takeda Pharmaceuticals Croatia d.o.o. Tel: +385 1 377 88 96 medinfoEMEA@takeda.c
 
 ## Ireland
 
-Takeda Products Ireland Ltd. Tel.: 1800 937 970 medinfoEMEA@takeda.com
+Takeda Products Ireland Ltd Tel: 1800 937 970
+
+medinfoEMEA@takeda.com
 
 ## Ísland
 
-Vistor hf.
-
-Sími: +354 535 7000
-
-medinfoEMEA@takeda.com
+Vistor ehf. Sími: +354 535 7000 medinfoEMEA@takeda.com
 
 ## Italia
 
-Takeda Italia S.p.A. Tel.: +39 06 502601 medinfoEMEA@takeda.com
-
-## Κύπρος
-
-A.POTAMITIS MEDICARE LTD Τηλ: +357 22583333 a.potamitismedicare@cytanet.com.cy
-
-## Latvija
-
-Takeda Latvia SIA Tel.: +371 67840082 medinfoEMEA@takeda.com
-
-## This leaflet was last revised in
-
-## Other sources of information
-
-This leaflet is available in formats suitable for the blind or partially sighted patient and can be requested from respective local representative of the Marketing Authorisation Holder.
-
-## Norge
-
-Takeda AS
-
-Tlf: +47 800 800 30
+Takeda Italia S.p.A. Tel: +39 06 502601
 
 medinfoEMEA@takeda.com
 
+## Κύπρος
+
+A.POTAMITIS MEDICARE LTD Τηλ : +357 22583333 a.potamitismedicare@cytanet.com.cy
+
+## Latvija
+
+Takeda Latvia SIA Tel: +371 67840082 medinfoEMEA@takeda.com
+
+## Norge
+
+Takeda AS Tlf: +47 800 800 30 medinfoEMEA@takeda.com
+
 ## Österreich
 
-Takeda Pharma Ges.m.b.H. Tel.: +43 (0) 800-20 80 50 medinfoEMEA@takeda.com
+Takeda Pharma Ges.m.b.H. Tel: +43 (0) 800-20 80 50 medinfoEMEA@takeda.com
 
 ## Polska
 
@@ -2467,19 +2546,19 @@ Takeda Pharma Sp. z o.o. Tel.: +48223062447 medinfoEMEA@takeda.com
 
 ## Portugal
 
-Takeda Farmacêuticos Portugal, Lda. Tel.: +351 21 120 1457 medinfoEMEA@takeda.com
+Takeda Farmacêuticos Portugal, Lda. Tel: +351 21 120 1457 medinfoEMEA@takeda.com
 
 ## România
 
-Takeda Pharmaceuticals SRL Tel.: +40 21 335 03 91 medinfoEMEA@takeda.com
+Takeda Pharmaceuticals SRL Tel: +40 21 335 03 91 medinfoEMEA@takeda.com
 
 ## Slovenija
 
-Takeda Pharmaceuticals farmacevtska družba d.o.o. Tel.: +386 (0) 59 082 480 medinfoEMEA@takeda.com
+Takeda Pharmaceuticals farmacevtska družba d.o.o. Tel: +386 (0) 59 082 480 medinfoEMEA@takeda.com
 
 ## Slovenská republika
 
-Takeda Pharmaceuticals Slovakia s.r.o. Tel.: +421 (2) 20 602 600 medinfoEMEA@takeda.com
+Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600 medinfoEMEA@takeda.com
 
 ## Suomi/Finland
 
@@ -2489,23 +2568,25 @@ Takeda Oy Puh/Tel: 0800 774 051 medinfoEMEA@takeda.com
 
 Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com
 
-## United Kingdom (Northern Ireland)
-
-Takeda UK Ltd Tel.: +44 (0) 3333 000 181 medinfoEMEA@takeda.com
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
 <div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+This leaflet is available in formats suitable for the blind or partially sighted patient and can be requested from respective local representative of the Marketing Authorisation Holder.
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 -----------------------------------------------------------------------------------------------------------------------
-
-<div style=\"page-break-after: always\"></div>
 
 The following information is intended for healthcare professionals only:
 
 ## Traceability
 
-In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Instructions for reconstitution and infusion
 
@@ -2527,8 +2608,6 @@ Once reconstituted, the infusion solution should be used as soon as possible.
 | Reconstituted solution in the vial                                        | 8 hours                  | Do not hold 1       |
 | Diluted solution in sodium chloride 9 mg/mL (0.9%) solution for injection | 24 hours 2, 3            | 12 hours 2          |
 
-<div style=\"page-break-after: always\"></div>
-
 Do not freeze. Do not store any unused portion of the reconstituted solution or infusion solution for reuse.
 
 Each vial is for single use only.
@@ -2539,14 +2618,16 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## Package leaflet: Information for the patient
 
-## Entyvio 108 mg solution for injection in pre-filled syringe vedolizumab
+## Entyvio 108 mg solution for injection in pre-filled syringe
+
+## vedolizumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- Keep this leaflet. You may need to read it again.
-- If you have any further questions, ask your doctor, pharmacist or nurse.
-- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor, pharmacist or nurse.
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2561,7 +2642,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## What Entyvio is
 
-Entyvio contains the active substance 'vedolizumab'. Vedolizumab belongs to a group of biological medicines called monoclonal antibodies (Mabs).
+Entyvio contains the active substance 'vedolizumab'. Vedolizumab belongs to a group of biological medicines called monoclonal antibodies (MAbs).
 
 ## How Entyvio works
 
@@ -2582,14 +2663,14 @@ Ulcerative colitis is a disease that causes inflammation of the large bowel. If 
 
 Crohn's disease is a disease that causes inflammation of the digestive system. If you have Crohn's disease you will first be given other medicines. If you do not respond well enough or cannot tolerate these medicines, your doctor may give you Entyvio to reduce the signs and symptoms of your disease.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 2. What you need to know before you use Entyvio
 
 ## Do not use Entyvio
 
-- if you are allergic to vedolizumab or any of the other ingredients of this medicine (listed in section 6).
-- if you have an active severe infection - such as TB (tuberculosis), blood poisoning, severe diarrhoea and vomiting (gastroenteritis), nervous system infection.
+- -if you are allergic to vedolizumab or any of the other ingredients of this medicine (listed in section 6).
+- -if you have an active severe infection - such as TB (tuberculosis), blood poisoning, severe diarrhoea and vomiting (gastroenteritis), nervous system infection.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Warnings and precautions
 
@@ -2621,8 +2702,6 @@ Tell your doctor if you have previously taken:
 
 Your doctor will decide if you can be given Entyvio.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pregnancy and breast-feeding
 
 If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.
@@ -2632,6 +2711,8 @@ If you are pregnant or breast-feeding, think you may be pregnant or are planning
 The effects of Entyvio in pregnant women are not known. Therefore, this medicine is not recommended for use during pregnancy. You and your doctor should decide if the benefit to you clearly outweighs the potential risk to yourself and your baby.
 
 If you are a woman of childbearing potential, you are advised to avoid becoming pregnant while using Entyvio. You should use adequate contraception during treatment and for at least 4.5 months after the last treatment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Breast-feeding
 
@@ -2644,6 +2725,10 @@ This medicine has a minor effect on your ability to drive or use tools or machin
 ## Entyvio 108 mg solution for injection contains sodium
 
 This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+
+## Entyvio contains polysorbate 80
+
+This medicine contains 1.48 mg of polysorbate 80 in each Entyvio 108 mg pre-filled syringe. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How to use Entyvio
 
@@ -2672,13 +2757,13 @@ If you forget or miss a dose, inject the next dose as soon as possible and then 
 
 Do not stop using Entyvio without talking with your doctor first.
 
-<div style=\"page-break-after: always\"></div>
-
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects although not everybody gets them.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Serious side effects
 
@@ -2691,13 +2776,11 @@ Tell your doctor immediately if you notice any of the following:
 
 Tell your doctor as soon as possible if you notice any of the following:
 
-Very common side effects (may affect more than 1 in 10 people)
+## Very common side effects (may affect more than 1 in 10 people)
 
 - common cold
 - joint pain
 - headache
-
-<div style=\"page-break-after: always\"></div>
 
 ## Common side effects (may affect up to 1 in 10 people)
 
@@ -2740,9 +2823,12 @@ Very common side effects (may affect more than 1 in 10 people)
 - redness and tenderness of hair follicle
 - throat and mouth yeast infection
 - vaginal infection
+
+<div style=\"page-break-after: always\"></div>
+
 - blurred vision (loss of sharpness of eyesight)
 
-## Very rare side effects (may affect up to 1 in 10,000 people)
+## Very rare side effects (may affect up to 1 in 10 000 people)
 
 - sudden, severe allergic reaction which can cause breathing difficulty, swelling, fast heartbeat, sweating, drop in blood pressure, light-headedness, loss of consciousness and collapse (anaphylactic reaction and anaphylactic shock)
 - inflammation of the liver (hepatitis). Signs and symptoms of hepatitis may include abnormal liver function tests, eye or skin yellowing (jaundice), pain on the right side of your stomach area, bruising
@@ -2753,11 +2839,7 @@ Very common side effects (may affect more than 1 in 10 people)
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting
-
-<div style=\"page-break-after: always\"></div>
-
-system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Entyvio
 
@@ -2773,13 +2855,16 @@ system listed in Appendix V. By reporting side effects you can help provide more
 
 ## What Entyvio contains
 
-- The active substance is vedolizumab. Each pre-filled syringe contains 108 mg of vedolizumab.
-- The other ingredients are citric acid monohydrate, sodium citrate dihydrate, L-histidine, L-histidine monohydrochloride, L-arginine hydrochloride, polysorbate 80 and water for injections.
+- The active substance
+- is vedolizumab. Each pre-filled syringe contains 108 mg of vedolizumab.
+- The other ingredients are citric acid monohydrate (E 330), sodium citrate dihydrate (E 331), L-histidine, L-histidine monohydrochloride, L-arginine hydrochloride, polysorbate 80 (E 433) and water for injections. See section 2 'Entyvio 108 mg solution for injection contains sodium' and 'Entyvio contains polysorbate 80'.
 
 ## What Entyvio looks like and contents of the pack
 
 - Entyvio is a colourless to yellow solution for injection provided in a glass pre-filled syringe with a needle safety device that activates to extend and lock a guard over the needle once the injection is completed. The syringe has a rubber needle cover encased in a plastic shell and rubber stopper.
 - Entyvio is available in cartons containing 1 or 2 pre-filled syringes and in multipacks containing 6 (6x1) pre-filled syringes. Not all pack sizes may be marketed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 
@@ -2789,15 +2874,17 @@ Takeda Pharma A/S Delta Park 45 2665 Vallensbaek Strand Denmark
 
 Takeda Austria GmbH St. Peter-Straße 25 4020 Linz Austria
 
-<div style=\"page-break-after: always\"></div>
-
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Takeda Belgium NV Tél./Tel.: +32 2 464 06 11 medinfoEMEA@takeda.com
+## België/Belgique/Belgien
+
+Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
 
 ## България
 
-Такеда България ЕООД Тел.: +359 2 958 27 36 medinfoEMEA@takeda.com
+Такеда България ЕООД Тел.: +359 2 958 27 36
+
+medinfoEMEA@takeda.com
 
 ## Česká republika
 
@@ -2809,91 +2896,115 @@ Takeda Pharma A/S Tlf.: +45 46 77 10 10 medinfoEMEA@takeda.com
 
 ## Deutschland
 
-Takeda GmbH Tel.: +49 (0) 800 825 3325 medinfoEMEA@takeda.com
+Takeda GmbH Tel: +49 (0)800 825 3325
+
+medinfoEMEA@takeda.com
 
 ## Eesti
 
-Takeda Pharma OÜ Tel.: +372 6177 669 medinfoEMEA@takeda.com
+Takeda Pharma OÜ Tel: +372 6177 669 medinfoEMEA@takeda.com
 
 ## Ελλάδα
 
-TAKEDA ΕΛΛΑΣ Α.Ε. Τηλ.: +30 210 6387800 medinfoEMEA@takeda.com
+TAKEDA ΕΛΛΑΣ Α.Ε. Τηλ: +30 210 6387800 medinfoEMEA@takeda.com
 
 ## España
 
-Takeda Farmacéutica España, S.A.
-
-Tel.: +34 917 90 42 22 medinfoEMEA@takeda.com
-
-## France
-
-Takeda France SAS Tel.: +33 1 40 67 33 00 medinfoEMEA@takeda.com
-
-## Hrvatska
-
-Takeda Pharmaceuticals Croatia d.o.o. Tel: +385 1 377 88 96 medinfoEMEA@takeda.com
+Takeda Farmacéutica España, S.A. Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
 
 ## Lietuva
 
-Takeda, UAB Tel.: +370 521 09 070 medinfoEMEA@takeda.com
+Takeda, UAB Tel: +370 521 09 070 medinfoEMEA@takeda.com
 
 ## Luxembourg/Luxemburg
 
-Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
+Takeda Belgium NV Tél/Tel: +32 2 464 06 11
+
+medinfoEMEA@takeda.com
 
 ## Magyarország
 
-Takeda Pharma Kft. Tel.: +361 270 7030 medinfoEMEA@takeda.com
+Takeda Pharma Kft. Tel.: +36 1 270 7030 medinfoEMEA@takeda.com
 
 ## Malta
 
-Drugsales Ltd Tel.: +356 21419070 safety@drugsalesltd.com
+Drugsales Ltd Tel: +356 21419070
+
+safety@drugsalesltd.com
 
 ## Nederland
 
-Takeda Nederland B.V. Tel.: +31 20 203 5492 medinfoEMEA@takeda.com
+Takeda Nederland B.V. Tel: +31 20 203 5492 medinfoEMEA@takeda.com
 
 ## Norge
 
-Takeda AS Tlf.: +47 800 800 30 medinfoEMEA@takeda.com
+Takeda AS Tlf: +47 800 800 30
+
+medinfoEMEA@takeda.com
 
 ## Österreich
 
-Takeda Pharma Ges.m.b.H. Tel.: +43 (0) 800-20 80 50 medinfoEMEA@takeda.com
+Takeda Pharma Ges.m.b.H. Tel: +43 (0) 800-20 80 50 medinfoEMEA@takeda.com
 
 ## Polska
 
-Takeda Pharma Sp. Z o.o. Tel.: +48223062447 medinfoEMEA@takeda.com
+Takeda Pharma Sp. z o.o. Tel.: +48223062447
 
-## Portugal
-
-Takeda Farmacêuticos Portugal, Lda. Tel.: +351 21 120 1457 medinfoEMEA@takeda.com
-
-## România
-
-Takeda Pharmaceuticals SRL Tel.: +40 21 335 03 91 medinfoEMEA@takeda.com
+medinfoEMEA@takeda.com
 
 <div style=\"page-break-after: always\"></div>
 
+## France
+
+## Portugal
+
+Takeda France SAS
+
+Tél: +33 1 40 67 33 00
+
+medinfoEMEA@takeda.com
+
+Takeda Farmacêuticos Portugal, Lda.
+
+Tel: +351 21 120 1457
+
+medinfoEMEA@takeda.com
+
+## Hrvatska
+
+Takeda Pharmaceuticals Croatia d.o.o.
+
+Tel: +385 1 377 88 96
+
+medinfoEMEA@takeda.com
+
+## România
+
+Takeda Pharmaceuticals SRL
+
+Tel: +40 21 335 03 91
+
+medinfoEMEA@takeda.com
+
 ## Ireland
+
+Takeda Products Ireland Ltd
+
+Tel: 1800 937 970
+
+medinfoEMEA@takeda.com
 
 ## Slovenija
 
 Takeda Pharmaceuticals farmacevtska družba d.o.o.
 
-Takeda Products Ireland Ltd.
-
-Tel.: 1800 937 970
-
-medinfoEMEA@takeda.com
-
-Tel.: +386 (0) 59 082 480
+Tel: +386 (0) 59 082 480
 
 medinfoEMEA@takeda.com
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -2903,7 +3014,7 @@ medinfoEMEA@takeda.com
 
 Takeda Pharmaceuticals Slovakia s.r.o.
 
-Tel.: +421 (2) 20 602 600
+Tel: +421 (2) 20 602 600
 
 medinfoEMEA@takeda.com
 
@@ -2911,47 +3022,33 @@ medinfoEMEA@takeda.com
 
 Takeda Italia S.p.A.
 
-Tel.: +39 06 502601
+Tel: +39 06 502601
 
 medinfoEMEA@takeda.com
 
 ## Suomi/Finland
 
-Takeda Oy
-
-Puh./Tel.: 0800 774 051
-
-medinfoEMEA@takeda.com
+Takeda Oy Puh/Tel: 0800 774 051 medinfoEMEA@takeda.com
 
 ## Κύπρος
 
 A.POTAMITIS MEDICARE LTD
 
-Τηλ: +357 22583333
+Τηλ
+
+: +357 22583333
 
 a.potamitismedicare@cytanet.com.cy
 
 ## Sverige
 
-Takeda Pharma AB
-
-Tel: 020 795 079
-
-medinfoEMEA@takeda.com
+Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com
 
 ## Latvija
 
 Takeda Latvia SIA
 
-Tel.: +371 67840082
-
-medinfoEMEA@takeda.com
-
-## United Kingdom (Northern Ireland)
-
-Takeda UK Ltd
-
-Tel.: +44 (0) 3333 000 181
+Tel: +371 67840082
 
 medinfoEMEA@takeda.com
 
@@ -2961,7 +3058,9 @@ medinfoEMEA@takeda.com
 
 This leaflet is available in formats suitable for the blind or partially sighted patient and can be requested from respective local representative of the Marketing Authorisation Holder.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site:
+
+https://www.ema.europa.eu.
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -2983,13 +3082,15 @@ Your Entyvio single-dose pre-filled syringe
 
 <!-- image -->
 
+Each pre-filled syringe has a needle guard. It will automatically cover the needle after the plunger is pushed down as far as it will go and then released.
+
 ## 1) Place what you need for the injection on a clean, flat surface
 
-- Take the pre-filled syringe carton out of the refrigerator.
+-  Take the pre-filled syringe carton out of the refrigerator.
 - If you are opening the carton for the first time, check to make sure the carton is properly sealed. Do not use the pre-filled syringe(s) if any of the seals on the carton are broken or missing.
 - Check the expiry date (EXP) on the carton. Do not use if the expiry date on the carton has passed.
 - Remove one pre-filled syringe from the carton. Keep any remaining pre-filled syringes in the carton in the refrigerator.
-- Wait 30 minutes to let the pre-filled syringe come to room temperature.
+-  Wait 30 minutes to let the pre-filled syringe come to room temperature.
 - Do not warm the pre-filled syringe in any other way.
 - Do not let it sit in direct sunlight.
 - Do not take the pre-filled syringe out of its tray until you are ready to inject.
@@ -2998,36 +3099,36 @@ Your Entyvio single-dose pre-filled syringe
 
 <div style=\"page-break-after: always\"></div>
 
-- You will also need:
+-  You will also need:
 - Alcohol pad
 - Cotton ball or gauze
 - Sharps disposal container
 
 ## 2) Open and check the pre-filled syringe
 
-- Wash your hands
-- Peel back the paper on the tray and lift the pre-filled syringe out by the body.
+-  Wash your hands
+-  Peel back the paper on the tray and lift the pre-filled syringe out by the body.
 - Do not touch or lift from the purple plunger.
 - Do not remove the needle cap until ready to inject.
-- Inspect the pre-filled syringe for damage.
+-  Inspect the pre-filled syringe for damage.
 - Do not use the pre-filled syringe if any part of it is damaged.
-- Check the expiry date on the pre-filled syringe.
+-  Check the expiry date on the pre-filled syringe.
 - Do not use if the expiry date on the pre-filled syringe has passed.
-- Check the medicine. It should be colourless to yellow.
+-  Check the medicine. It should be colourless to yellow.
 - Do not use the pre-filled syringe if the medicine is cloudy or has particles floating in it.
-- You may see air bubbles in the syringe. This is normal.
+-  You may see air bubbles in the syringe. This is normal.
 - Do not attempt to remove air bubbles from the pre-filled syringe.
 - Do not shake
 
 ## 3) Prepare the injection site
 
-- Choose an injection site on your bare skin from 1 of the following.
+-  Choose an injection site on your bare skin from 1 of the following.
 - Front of the thighs, or
 - Stomach area (abdomen) except for the area 5 cm around the belly button (navel), or
 - Back of the upper arm (only if a caregiver gives the injection).
-- Use a new injection site or a different area within the same injection site for each injection.
+-  Use a new injection site or a different area within the same injection site for each injection.
 - Do not inject into moles, scars, bruises, or skin that is tender, hard, red, or damaged.
-- Wipe the chosen site with an alcohol pad. Let your skin dry.
+-  Wipe the chosen site with an alcohol pad. Let your skin dry.
 - Do not touch this area again before you inject.
 
 <!-- image -->
@@ -3044,26 +3145,26 @@ Your Entyvio single-dose pre-filled syringe
 
 ## 4) Inject Entyvio
 
-- Pull the needle cap straight off.
+-  Pull the needle cap straight off.
 - Do not touch or pull back the purple plunger.
 - You may see a drop of liquid at the end of the needle. This is normal.
 - Do not touch or re-cap the needle.
 - Do not use a dropped pre-filled syringe.
 - Do not use a pre-filled syringe with a bent or broken needle.
-- Throw away the cap.
-- Hold the pre-filled syringe with 1 hand and pinch the skin around the injection site with your other hand.
+-  Throw away the cap.
+-  Hold the pre-filled syringe with 1 hand and pinch the skin around the injection site with your other hand.
 - Hold the pinch until the injection is completed.
-- Insert the needle at about a 45-degree angle all the way into the pinched skin.
-- Push down on the plunger as far as it will go to inject all the medicine.
+-  Insert the needle at about a 45-degree angle all the way into the pinched skin.
+-  Push down on the plunger as far as it will go to inject all the medicine.
 - Keep pressure on the plunger and take the needle out of the skin.
-- Take your thumb off the plunger to allow the needle guard to cover the needle.
-- You may see a small amount of blood at the injection site. If you do, press on your skin with a cotton ball or gauze.
+-  Take your thumb off the plunger to allow the needle guard to cover the needle.
+-  You may see a small amount of blood at the injection site. If you do, press on your skin with a cotton ball or gauze.
 
 ## 5) Throw away used material
 
-- Put the used pre-filled syringe in a puncture-resistant container, like a sharps container, immediately after use.
+-  Put the used pre-filled syringe in a puncture-resistant container, like a sharps container, immediately after use.
 - Dispose of your sharps container according to your local regulations.
-- The rest of the material can be thrown in your household rubbish.
+-  The rest of the material can be thrown in your household rubbish.
 
 <!-- image -->
 
@@ -3085,10 +3186,10 @@ Your Entyvio single-dose pre-filled syringe
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- Keep this leaflet. You may need to read it again.
-- If you have any further questions, ask your doctor, pharmacist or nurse.
-- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor, pharmacist or nurse.
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3124,14 +3225,14 @@ Ulcerative colitis is a disease that causes inflammation of the large bowel. If 
 
 Crohn's disease is a disease that causes inflammation of the digestive system. If you have Crohn's disease you will first be given other medicines. If you do not respond well enough or cannot tolerate these medicines, your doctor may give you Entyvio to reduce the signs and symptoms of your disease.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 2. What you need to know before you use Entyvio
 
 ## Do not use Entyvio
 
-- if you are allergic to vedolizumab or any of the other ingredients of this medicine (listed in section 6).
-- if you have an active severe infection - such as TB (tuberculosis), blood poisoning, severe diarrhoea and vomiting (gastroenteritis), nervous system infection.
+- -if you are allergic to vedolizumab or any of the other ingredients of this medicine (listed in section 6).
+- -if you have an active severe infection - such as TB (tuberculosis), blood poisoning, severe diarrhoea and vomiting (gastroenteritis), nervous system infection.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Warnings and precautions
 
@@ -3167,13 +3268,13 @@ Your doctor will decide if you can be given Entyvio.
 
 If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pregnancy
 
 The effects of Entyvio in pregnant women are not known. Therefore, this medicine is not recommended for use during pregnancy. You and your doctor should decide if the benefit to you clearly outweighs the potential risk to yourself and your baby.
 
 If you are a woman of childbearing potential, you are advised to avoid becoming pregnant while using Entyvio. You should use adequate contraception during treatment and for at least 4.5 months after the last treatment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Breast-feeding
 
@@ -3186,6 +3287,10 @@ This medicine has a minor effect on your ability to drive or use tools or machin
 ## Entyvio 108 mg solution for injection contains sodium
 
 This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+
+## Entyvio contains polysorbate 80
+
+This medicine contains 1.48 mg of polysorbate 80 in each Entyvio 108 mg pre-filled pen. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How to use Entyvio
 
@@ -3216,11 +3321,11 @@ Do not stop using Entyvio without talking with your doctor first.
 
 If you have any further questions on the use of this medicine, ask your doctor pharmacist or nurse.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects although not everybody gets them.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Serious side effects
 
@@ -3260,7 +3365,6 @@ Tell your doctor as soon as possible if you notice any of the following:
 - throat infection
 - stomach flu
 - anal infection
-- •
 - anal sore
 - hard faeces
 - bloated stomach
@@ -3276,16 +3380,17 @@ Tell your doctor as soon as possible if you notice any of the following:
 - injection site reactions (including pain, swelling, redness or itching)
 - shingles (herpes zoster)
 
-<div style=\"page-break-after: always\"></div>
-
 ## Uncommon side effects (may affect up to 1 in 100 people)
 
 - redness and tenderness of hair follicle
 - throat and mouth yeast infection
 - vaginal infection
+
+<div style=\"page-break-after: always\"></div>
+
 - blurred vision (loss of sharpness of eyesight)
 
-## Very rare side effects (may affect up to 1 in 10,000 people)
+## Very rare side effects (may affect up to 1 in 10 000 people)
 
 - sudden, severe allergic reaction which can cause breathing difficulty, swelling, fast heartbeat, sweating, drop in blood pressure, light-headedness, loss of consciousness and collapse (anaphylactic reaction and anaphylactic shock)
 - inflammation of the liver (hepatitis). Signs and symptoms of hepatitis may include abnormal liver function tests, eye or skin yellowing (jaundice), pain on the right side of your stomach area, bruising
@@ -3303,7 +3408,7 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 - Keep this medicine out of the sight and reach of children.
 - Do not use this medicine after the expiry date which is stated on the carton, and on the label, after 'EXP'. The expiry date refers to the last day of that month.
 - Entyvio is for single use only.
-- Store in a refrigerator (2 °C-8 °C). Keep the pre-filled pen(s) in the original carton in order to protect from light. If needed, one pre-filled pen can be left out of the refrigerator protected from light at room temperature (up to 25 o C) for up to 7 days. Do not use if left out of the refrigerator for more than 7 days.
+- Store in a refrigerator (2 °C-8 °C). Keep the pre-filled pen(s) in the original carton in order to protect from light. If needed, one pre-filled pen can be left out of the refrigerator protected from light at room temperature (up to 25 °C) for up to 7 days. Do not use if left out of the refrigerator for more than 7 days.
 - Do not freeze. Do not leave in direct sunlight.
 - Do not use this medicine if you notice any particles in the liquid or discolouration (should be colourless to yellow) prior to administration.
 - Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
@@ -3313,7 +3418,7 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 ## What Entyvio contains
 
 - The active substance is vedolizumab. Each pre-filled pen contains 108 mg of vedolizumab.
-- The other ingredients are citric acid monohydrate, sodium citrate dihydrate, L-histidine, L-histidine monohydrochloride, L-arginine hydrochloride, polysorbate 80 and water for injections.
+- The other ingredients are citric acid monohydrate (E 330), sodium citrate dihydrate (E 331), L-histidine, L-histidine monohydrochloride, L-arginine hydrochloride, polysorbate 80 (E 433) and water for injections. See section 2 'Entyvio 108 mg solution for injection contains sodium' and 'Entyvio contains polysorbate 80'.
 
 ## What Entyvio looks like and contents of the pack
 
@@ -3332,11 +3437,15 @@ Takeda Austria GmbH St. Peter-Straße 25 4020 Linz Austria
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Takeda Belgium NV Tél./Tel.: +32 2 464 06 11 medinfoEMEA@takeda.com
+## België/Belgique/Belgien
+
+Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
 
 ## България
 
-Такеда България ЕООД Тел.: +359 2 958 27 36 medinfoEMEA@takeda.com
+Такеда България ЕООД Тел.: +359 2 958 27 36
+
+medinfoEMEA@takeda.com
 
 ## Česká republika
 
@@ -3348,73 +3457,77 @@ Takeda Pharma A/S Tlf.: +45 46 77 10 10 medinfoEMEA@takeda.com
 
 ## Deutschland
 
-Takeda GmbH Tel.: +49 (0) 800 825 3325 medinfoEMEA@takeda.com
+Takeda GmbH Tel: +49 (0)800 825 3325
+
+medinfoEMEA@takeda.com
 
 ## Eesti
 
-Takeda Pharma OÜ Tel.: +372 6177 669 medinfoEMEA@takeda.com
+Takeda Pharma OÜ Tel: +372 6177 669
 
-Ελλάδα TAKEDA ΕΛΛΑΣ Α.Ε. Τηλ.: +30 210 6387800 medinfoEMEA@takeda.com
+medinfoEMEA@takeda.com
 
-## Lietuva
+## Ελλάδα
 
-Takeda, UAB Tel.: +370 521 09 070 medinfoEMEA@takeda.com
-
-## Luxembourg/Luxemburg
-
-Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
-
-## Magyarország
-
-Takeda Pharma Kft. Tel.: +361 2707030 medinfoEMEA@takeda.com
-
-## Malta
-
-Drugsales Ltd Tel.: +356 21 419070 safety@drugsalesltd.com
-
-## Nederland
-
-Takeda Nederland B.V. Tel.: +31 20 203 5492 medinfoEMEA@takeda.com
-
-## Norge
-
-Takeda AS Tlf: +47 800 800 30 medinfoEMEA@takeda.com
-
-## Österreich
-
-Takeda Pharma Ges.m.b.H. Tel.: +43 (0) 800-20 80 50 medinfoEMEA@takeda.com
-
-<div style=\"page-break-after: always\"></div>
+TAKEDA ΕΛΛΑΣ Α.Ε. Τηλ: +30 210 6387800 medinfoEMEA@takeda.com
 
 ## España
 
+Takeda Farmacéutica España, S.A. Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
+
+## Lietuva
+
+Takeda, UAB Tel: +370 521 09 070 medinfoEMEA@takeda.com
+
+## Luxembourg/Luxemburg
+
+Takeda Belgium NV Tél/Tel: +32 2 464 06 11
+
+medinfoEMEA@takeda.com
+
+## Magyarország
+
+Takeda Pharma Kft. Tel.: +36 1 270 7030 medinfoEMEA@takeda.com
+
+## Malta
+
+Drugsales Ltd Tel: +356 21419070 safety@drugsalesltd.com
+
+## Nederland
+
+Takeda Nederland B.V. Tel: +31 20 203 5492 medinfoEMEA@takeda.com
+
+## Norge
+
+Takeda AS Tlf: +47 800 800 30
+
+medinfoEMEA@takeda.com
+
+## Österreich
+
+Takeda Pharma Ges.m.b.H. Tel: +43 (0) 800-20 80 50 medinfoEMEA@takeda.com
+
 ## Polska
 
-Takeda Farmacéutica España, S.A.
-
-Tel.: +34 917 90 42 22
+Takeda Pharma Sp. z o.o. Tel.: +48223062447
 
 medinfoEMEA@takeda.com
 
-Takeda Pharma Sp. z o.o.
-
-Tel.: +48223062447
-
-medinfoEMEA@takeda.com
+<div style=\"page-break-after: always\"></div>
 
 ## France
 
+## Portugal
+
 Takeda France SAS
 
-Tel.: +33 1 40 67 33 00
+Tél: +33 1 40 67 33 00
 
 medinfoEMEA@takeda.com
 
-## Portugal
-
 Takeda Farmacêuticos Portugal, Lda.
 
-Tel.: +351 21 120 1457
+Tel: +351 21 120 1457
 
 medinfoEMEA@takeda.com
 
@@ -3430,25 +3543,29 @@ medinfoEMEA@takeda.com
 
 Takeda Pharmaceuticals SRL
 
-Tel.: +40 21 335 03 91
+Tel: +40 21 335 03 91
 
 medinfoEMEA@takeda.com
 
 ## Ireland
 
-Takeda Products Ireland Ltd.
+Takeda Products Ireland Ltd
 
-Tel.: 1800 937 970
+Tel: 1800 937 970
 
 medinfoEMEA@takeda.com
 
 ## Slovenija
 
-Takeda Pharmaceuticals farmacevtska družba d.o.o. Tel.: +386 (0) 59 082 480 medinfoEMEA@takeda.com
+Takeda Pharmaceuticals farmacevtska družba d.o.o.
+
+Tel: +386 (0) 59 082 480
+
+medinfoEMEA@takeda.com
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -3456,49 +3573,43 @@ medinfoEMEA@takeda.com
 
 ## Slovenská republika
 
-Takeda Pharmaceuticals Slovakia s.r.o. Tel.: +421 (2) 20 602 600 medinfoEMEA@takeda.com
+Takeda Pharmaceuticals Slovakia s.r.o.
+
+Tel: +421 (2) 20 602 600
+
+medinfoEMEA@takeda.com
 
 ## Italia
 
 Takeda Italia S.p.A.
 
-Tel.: +39 06 502601
+Tel: +39 06 502601
 
 medinfoEMEA@takeda.com
 
 ## Suomi/Finland
 
-Takeda Oy
-
-Puh./Tel.: 0800 774 051
-
-medinfoEMEA@takeda.com
+Takeda Oy Puh/Tel: 0800 774 051 medinfoEMEA@takeda.com
 
 ## Κύπρος
 
-A.POTAMITIS MEDICARE LTD Τηλ: +357 22583333 a.potamitismedicare@cytanet.com.cy
+A.POTAMITIS MEDICARE LTD
+
+Τηλ
+
+: +357 22583333
+
+a.potamitismedicare@cytanet.com.cy
 
 ## Sverige
 
-Takeda Pharma AB
-
-Tel.: 020 795 079
-
-medinfoEMEA@takeda.com
+Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com
 
 ## Latvija
 
 Takeda Latvia SIA
 
-Tel.: +371 67840082
-
-medinfoEMEA@takeda.com
-
-## United Kingdom (Northern Ireland)
-
-Takeda UK Ltd
-
-Tel.: +44 (0) 3333 000 181
+Tel: +371 67840082
 
 medinfoEMEA@takeda.com
 
@@ -3508,17 +3619,15 @@ medinfoEMEA@takeda.com
 
 This leaflet is available in formats suitable for the blind or partially sighted patient and can be requested from respective local representative of the Marketing Authorisation Holder.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 -----------------------------------------------------------------------------------------------------------------------
-
-<div style=\"page-break-after: always\"></div>
 
 The following information is intended for healthcare professionals only:
 
 ## Traceability
 
-In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3534,15 +3643,15 @@ Read and follow these instructions before you inject. Your doctor, nurse or phar
 
 ## 1) Place what you need for the injection on a clean, flat surface
 
-- Take the pre-filled pen carton out of the refrigerator.
+-  Take the pre-filled pen carton out of the refrigerator.
 - If you are opening the carton for the first time, check to make sure the carton is properly sealed . Do not use the pre-filled pen(s) if any of the seals on the carton are broken or missing.
 - Check the expiry date (EXP) on the carton. Do not use if the expiry date on the carton has passed.
 - Remove one pre-filled pen from the carton. Keep any remaining pre-filled pens in the carton in the refrigerator.
-- Wait 30 minutes to let the pre-filled pen come to room temperature.
+-  Wait 30 minutes to let the pre-filled pen come to room temperature.
 - Do not warm the pre-filled pen in any other way.
 - Do not let it sit in direct sunlight.
 - Do not take the pre-filled pen out of its tray until you are ready to inject.
-- You will also need:
+-  You will also need:
 - Alcohol pad
 - Cotton ball or gauze
 - Sharps disposal container
@@ -3557,28 +3666,28 @@ Wait 30 minutes
 
 ## 2) Open and check the pre-filled pen
 
-- Wash your hands.
-- Peel back the paper on the tray and lift the pre-filled pen out.
-- Inspect the pre-filled pen for damage.
+-  Wash your hands.
+-  Peel back the paper on the tray and lift the pre-filled pen out.
+-  Inspect the pre-filled pen for damage.
 - Do not use the pre-filled pen if any part of it is damaged.
-- Check the expiry date on the pre-filled pen.
+-  Check the expiry date on the pre-filled pen.
 - Do not use if the expiry date on the pre-filled pen has passed.
-- Check the medicine. It should be colourless to yellow.
+-  Check the medicine. It should be colourless to yellow.
 - Do not use the pre-filled pen if the medicine is cloudy or has particles floating in it.
-- You may see air bubbles in the pre-filled pen. This is normal.
+-  You may see air bubbles in the pre-filled pen. This is normal.
 - Do not shake
 
 ## 3) Prepare the injection site
 
-- Choose an injection site on your bare skin from 1 of the following.
+-  Choose an injection site on your bare skin from 1 of the following.
 - Front of the thighs, or
 - Stomach area (abdomen) except for the area 5 cm around the belly button (navel), or
 - Back of the upper arm (only if a caregiver gives the injection).
-- Use a new injection site or a different area within the same injection site for each injection.
+-  Use a new injection site or a different area within the same injection site for each injection.
 - Do not inject into moles, scars, bruises, or skin that is tender, hard, red, or damaged.
-- Wipe the chosen site with an alcohol pad. Let your skin dry.
+-  Wipe the chosen site with an alcohol pad. Let your skin dry.
 - Do not touch this area again before you inject.
-- Pull the purple cap straight off and throw it away.
+-  Pull the purple cap straight off and throw it away.
 - Do not put or press thumb, fingers or hand over the yellow needle shield.
 - Do not re-cap the pre-filled pen.
 - Do not use a dropped pre-filled pen.
@@ -3599,25 +3708,25 @@ Wait 30 minutes
 
 ## 4) Inject Entyvio
 
-- Hold the pre-filled pen so you can see the viewing window.
-- Place the pre-filled pen at 90 degrees to the injection site.
+-  Hold the pre-filled pen so you can see the viewing window.
+-  Place the pre-filled pen at 90 degrees to the injection site.
 - Be sure the yellow end is toward the injection site.
 - Do not push down until you are ready to inject.
-- Push down on the pre-filled pen as far as it will go to begin the injection.
-- Hold and count to 10 while pushing down with constant pressure. This will allow all of the medicine to be injected.
+-  Push down on the pre-filled pen as far as it will go to begin the injection.
+-  Hold and count to 10 while pushing down with constant pressure. This will allow all of the medicine to be injected.
 - You may hear 2 clicks, one at the start and one near the end of the injection.
-- Confirm that the viewing window is filled with purple before you stop pushing.
+-  Confirm that the viewing window is filled with purple before you stop pushing.
 - You will see a small amount of grey in the window. This is normal.
-- Lift the pre-filled pen from the injection site.
+-  Lift the pre-filled pen from the injection site.
 - The yellow needle shield will drop down and lock over the needle.
 - If the viewing window did not fill completely, call your doctor, nurse or pharmacist. You may not have received your full dose of medicine.
-- You may see a small amount of blood at the injection site. If you do, press on your skin with a cotton ball or gauze.
+-  You may see a small amount of blood at the injection site. If you do, press on your skin with a cotton ball or gauze.
 
 ## 5) Throw away used material
 
-- Put the used pre-filled pen in a puncture-resistant container, like a sharps container, immediately after use.
+-  Put the used pre-filled pen in a puncture-resistant container, like a sharps container, immediately after use.
 - Dispose of your sharps container according to your local regulations.
-- The rest of the material can be thrown away in your household rubbish.
+-  The rest of the material can be thrown away in your household rubbish.
 
 <!-- image -->
 

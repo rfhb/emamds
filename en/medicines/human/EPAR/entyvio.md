@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-02-23 16:55:00
+document_datetime: 2026-03-03 16:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/entyvio.html
 document_name: entyvio.html
 version: success
-processing_time: 0.1170278
-conversion_datetime: 2026-02-25 11:48:54.833771
+processing_time: 0.0990281
+conversion_datetime: 2026-03-05 11:49:00.480058
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
   docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
   plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
@@ -129,7 +129,7 @@ English (EN) (129.94 KB - PDF)
 
 [View](/en/documents/overview/entyvio-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-475)
+[Other languages (22)](#file-language-dropdown-225)
 
 български (BG) (155.39 KB - PDF)
 
@@ -397,11 +397,11 @@ svenska (SV) (126.9 KB - PDF)
 
 Entyvio : EPAR - Risk-management-plan
 
-English (EN) (5.64 MB - PDF)
+English (EN) (725.22 KB - PDF)
 
 **First published:** 16/06/2014
 
-**Last updated:** 05/02/2026
+**Last updated:** 03/03/2026
 
 [View](/en/documents/rmp/entyvio-epar-risk-management-plan_en.pdf)
 
@@ -409,17 +409,17 @@ English (EN) (5.64 MB - PDF)
 
 Entyvio : EPAR - Product Information
 
-English (EN) (923.93 KB - PDF)
+English (EN) (1.41 MB - PDF)
 
 **First published:** 16/06/2014
 
-**Last updated:** 17/12/2025
+**Last updated:** 03/03/2026
 
 [View](/en/documents/product-information/entyvio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-8)
+[Other languages (24)](#file-language-dropdown-725)
 
-български (BG) (1022.75 KB - PDF)
+български (BG) (1.44 MB - PDF)
 
 **First published:**
 
@@ -427,11 +427,11 @@ English (EN) (923.93 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+03/03/2026
 
 [View](/bg/documents/product-information/entyvio-epar-product-information_bg.pdf)
 
-español (ES) (933.7 KB - PDF)
+español (ES) (1.33 MB - PDF)
 
 **First published:**
 
@@ -439,11 +439,11 @@ español (ES) (933.7 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+03/03/2026
 
 [View](/es/documents/product-information/entyvio-epar-product-information_es.pdf)
 
-čeština (CS) (996.9 KB - PDF)
+čeština (CS) (1.28 MB - PDF)
 
 **First published:**
 
@@ -451,11 +451,11 @@ español (ES) (933.7 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+03/03/2026
 
 [View](/cs/documents/product-information/entyvio-epar-product-information_cs.pdf)
 
-dansk (DA) (965.2 KB - PDF)
+dansk (DA) (1.28 MB - PDF)
 
 **First published:**
 
@@ -463,11 +463,11 @@ dansk (DA) (965.2 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+03/03/2026
 
 [View](/da/documents/product-information/entyvio-epar-product-information_da.pdf)
 
-Deutsch (DE) (991.42 KB - PDF)
+Deutsch (DE) (1.3 MB - PDF)
 
 **First published:**
 
@@ -475,11 +475,11 @@ Deutsch (DE) (991.42 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+03/03/2026
 
 [View](/de/documents/product-information/entyvio-epar-product-information_de.pdf)
 
-eesti keel (ET) (902.34 KB - PDF)
+eesti keel (ET) (1.57 MB - PDF)
 
 **First published:**
 
@@ -487,11 +487,11 @@ eesti keel (ET) (902.34 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+03/03/2026
 
 [View](/et/documents/product-information/entyvio-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1023.66 KB - PDF)
+ελληνικά (EL) (1.35 MB - PDF)
 
 **First published:**
 
@@ -499,11 +499,11 @@ eesti keel (ET) (902.34 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+03/03/2026
 
 [View](/el/documents/product-information/entyvio-epar-product-information_el.pdf)
 
-français (FR) (1006.3 KB - PDF)
+français (FR) (1.36 MB - PDF)
 
 **First published:**
 
@@ -511,11 +511,11 @@ français (FR) (1006.3 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+03/03/2026
 
 [View](/fr/documents/product-information/entyvio-epar-product-information_fr.pdf)
 
-hrvatski (HR) (974.84 KB - PDF)
+hrvatski (HR) (1.57 MB - PDF)
 
 **First published:**
 
@@ -523,11 +523,11 @@ hrvatski (HR) (974.84 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+03/03/2026
 
 [View](/hr/documents/product-information/entyvio-epar-product-information_hr.pdf)
 
-íslenska (IS) (979.77 KB - PDF)
+íslenska (IS) (1.25 MB - PDF)
 
 **First published:**
 
@@ -535,11 +535,11 @@ hrvatski (HR) (974.84 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+03/03/2026
 
 [View](/is/documents/product-information/entyvio-epar-product-information_is.pdf)
 
-italiano (IT) (1009.83 KB - PDF)
+italiano (IT) (1.31 MB - PDF)
 
 **First published:**
 
@@ -547,11 +547,11 @@ italiano (IT) (1009.83 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+03/03/2026
 
 [View](/it/documents/product-information/entyvio-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1 MB - PDF)
+latviešu valoda (LV) (1.81 MB - PDF)
 
 **First published:**
 
@@ -559,11 +559,11 @@ latviešu valoda (LV) (1 MB - PDF)
 
 **Last updated:**
 
-17/12/2025
+03/03/2026
 
 [View](/lv/documents/product-information/entyvio-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.07 MB - PDF)
+lietuvių kalba (LT) (1.37 MB - PDF)
 
 **First published:**
 
@@ -571,11 +571,11 @@ lietuvių kalba (LT) (1.07 MB - PDF)
 
 **Last updated:**
 
-17/12/2025
+03/03/2026
 
 [View](/lt/documents/product-information/entyvio-epar-product-information_lt.pdf)
 
-magyar (HU) (1.03 MB - PDF)
+magyar (HU) (1.59 MB - PDF)
 
 **First published:**
 
@@ -583,11 +583,11 @@ magyar (HU) (1.03 MB - PDF)
 
 **Last updated:**
 
-17/12/2025
+03/03/2026
 
 [View](/hu/documents/product-information/entyvio-epar-product-information_hu.pdf)
 
-Malti (MT) (1.03 MB - PDF)
+Malti (MT) (1.37 MB - PDF)
 
 **First published:**
 
@@ -595,11 +595,11 @@ Malti (MT) (1.03 MB - PDF)
 
 **Last updated:**
 
-17/12/2025
+03/03/2026
 
 [View](/mt/documents/product-information/entyvio-epar-product-information_mt.pdf)
 
-Nederlands (NL) (960.41 KB - PDF)
+Nederlands (NL) (1.72 MB - PDF)
 
 **First published:**
 
@@ -607,11 +607,11 @@ Nederlands (NL) (960.41 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+03/03/2026
 
 [View](/nl/documents/product-information/entyvio-epar-product-information_nl.pdf)
 
-norsk (NO) (863.42 KB - PDF)
+norsk (NO) (1.29 MB - PDF)
 
 **First published:**
 
@@ -619,11 +619,11 @@ norsk (NO) (863.42 KB - PDF)
 
 **Last updated:**
 
-11/04/2025
+03/03/2026
 
 [View](/no/documents/product-information/entyvio-epar-product-information_no.pdf)
 
-polski (PL) (994.29 KB - PDF)
+polski (PL) (1.18 MB - PDF)
 
 **First published:**
 
@@ -631,11 +631,11 @@ polski (PL) (994.29 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+03/03/2026
 
 [View](/pl/documents/product-information/entyvio-epar-product-information_pl.pdf)
 
-português (PT) (1019.18 KB - PDF)
+português (PT) (1.26 MB - PDF)
 
 **First published:**
 
@@ -643,11 +643,11 @@ português (PT) (1019.18 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+03/03/2026
 
 [View](/pt/documents/product-information/entyvio-epar-product-information_pt.pdf)
 
-română (RO) (962.8 KB - PDF)
+română (RO) (1.28 MB - PDF)
 
 **First published:**
 
@@ -655,11 +655,11 @@ română (RO) (962.8 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+03/03/2026
 
 [View](/ro/documents/product-information/entyvio-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1002.79 KB - PDF)
+slovenčina (SK) (1.26 MB - PDF)
 
 **First published:**
 
@@ -667,11 +667,11 @@ slovenčina (SK) (1002.79 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+03/03/2026
 
 [View](/sk/documents/product-information/entyvio-epar-product-information_sk.pdf)
 
-slovenščina (SL) (959.76 KB - PDF)
+slovenščina (SL) (1.28 MB - PDF)
 
 **First published:**
 
@@ -679,11 +679,11 @@ slovenščina (SL) (959.76 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+03/03/2026
 
 [View](/sl/documents/product-information/entyvio-epar-product-information_sl.pdf)
 
-Suomi (FI) (881.94 KB - PDF)
+Suomi (FI) (1.55 MB - PDF)
 
 **First published:**
 
@@ -691,11 +691,11 @@ Suomi (FI) (881.94 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+03/03/2026
 
 [View](/fi/documents/product-information/entyvio-epar-product-information_fi.pdf)
 
-svenska (SV) (926.35 KB - PDF)
+svenska (SV) (1.23 MB - PDF)
 
 **First published:**
 
@@ -703,11 +703,11 @@ svenska (SV) (926.35 KB - PDF)
 
 **Last updated:**
 
-17/12/2025
+03/03/2026
 
 [View](/sv/documents/product-information/entyvio-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000314345 11/12/2025
+**Latest procedure affecting product information:** VR/0000255408 15/01/2026
 
 icon globe
 
@@ -733,7 +733,7 @@ English (EN) (45.44 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/entyvio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-931)
+[Other languages (24)](#file-language-dropdown-864)
 
 български (BG) (77.75 KB - PDF)
 
@@ -1057,7 +1057,7 @@ Takeda Pharma A/S
 
 Delta Park 45
 
-Opinion adopted 20/03/2014 Marketing authorisation issued 22/05/2014 Revision 31
+Opinion adopted 20/03/2014 Marketing authorisation issued 22/05/2014 Revision 32
 
 ## Assessment history
 
@@ -1069,11 +1069,11 @@ Collapse section
 
 Entyvio : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (146.62 KB - PDF)
+English (EN) (159.17 KB - PDF)
 
 **First published:** 13/03/2025
 
-**Last updated:** 17/12/2025
+**Last updated:** 03/03/2026
 
 [View](/en/documents/procedural-steps-after/entyvio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1299,7 +1299,7 @@ English (EN) (94.73 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 23/02/2026
+**This page was last updated on** 03/03/2026
 
 ## Share this page
 

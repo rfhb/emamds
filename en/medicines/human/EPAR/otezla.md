@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-01-14 16:15:00
+document_datetime: 2026-03-04 15:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/otezla.html
 document_name: otezla.html
 version: success
-processing_time: 0.1120958
-conversion_datetime: 2026-01-17 13:01:09.802168
+processing_time: 0.1148855
+conversion_datetime: 2026-03-05 11:38:39.911645
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Otezla
 
 [RSS](/en/individual-human-medicine.xml/65526)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -36,6 +36,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Otezla](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-83942)
 - [More information on Otezla](#related-medicines)
 - [Topics](#topics)
 
@@ -131,7 +132,7 @@ English (EN) (143.31 KB - PDF)
 
 [View](/en/documents/overview/otezla-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-271)
+[Other languages (22)](#file-language-dropdown-377)
 
 български (BG) (177.52 KB - PDF)
 
@@ -419,296 +420,6 @@ English (EN) (666.41 KB - PDF)
 
 [View](/en/documents/product-information/otezla-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-764)
-
-български (BG) (810.83 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/bg/documents/product-information/otezla-epar-product-information_bg.pdf)
-
-español (ES) (761.65 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/es/documents/product-information/otezla-epar-product-information_es.pdf)
-
-čeština (CS) (815.71 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/cs/documents/product-information/otezla-epar-product-information_cs.pdf)
-
-dansk (DA) (775.93 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/da/documents/product-information/otezla-epar-product-information_da.pdf)
-
-Deutsch (DE) (820.61 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/de/documents/product-information/otezla-epar-product-information_de.pdf)
-
-eesti keel (ET) (772.96 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/et/documents/product-information/otezla-epar-product-information_et.pdf)
-
-ελληνικά (EL) (835.88 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/el/documents/product-information/otezla-epar-product-information_el.pdf)
-
-français (FR) (815.43 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/fr/documents/product-information/otezla-epar-product-information_fr.pdf)
-
-hrvatski (HR) (781.3 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/hr/documents/product-information/otezla-epar-product-information_hr.pdf)
-
-íslenska (IS) (757.08 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/is/documents/product-information/otezla-epar-product-information_is.pdf)
-
-italiano (IT) (790.52 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/it/documents/product-information/otezla-epar-product-information_it.pdf)
-
-latviešu valoda (LV) (797.1 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/lv/documents/product-information/otezla-epar-product-information_lv.pdf)
-
-lietuvių kalba (LT) (792.54 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/lt/documents/product-information/otezla-epar-product-information_lt.pdf)
-
-magyar (HU) (810.86 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/hu/documents/product-information/otezla-epar-product-information_hu.pdf)
-
-Malti (MT) (861.65 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/mt/documents/product-information/otezla-epar-product-information_mt.pdf)
-
-Nederlands (NL) (787.49 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/nl/documents/product-information/otezla-epar-product-information_nl.pdf)
-
-norsk (NO) (749.57 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/no/documents/product-information/otezla-epar-product-information_no.pdf)
-
-polski (PL) (868.35 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/pl/documents/product-information/otezla-epar-product-information_pl.pdf)
-
-português (PT) (765.67 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/pt/documents/product-information/otezla-epar-product-information_pt.pdf)
-
-română (RO) (794.47 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/ro/documents/product-information/otezla-epar-product-information_ro.pdf)
-
-slovenčina (SK) (827.31 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/sk/documents/product-information/otezla-epar-product-information_sk.pdf)
-
-slovenščina (SL) (805.12 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/sl/documents/product-information/otezla-epar-product-information_sl.pdf)
-
-Suomi (FI) (755.92 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/fi/documents/product-information/otezla-epar-product-information_fi.pdf)
-
-svenska (SV) (763.4 KB - PDF)
-
-**First published:**
-
-16/02/2015
-
-**Last updated:**
-
-14/01/2026
-
-[View](/sv/documents/product-information/otezla-epar-product-information_sv.pdf)
-
 **Latest procedure affecting product information:** PSUR/0000282235 13/01/2026
 
 icon globe
@@ -735,7 +446,7 @@ English (EN) (65.39 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/otezla-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-554)
+[Other languages (24)](#file-language-dropdown-507)
 
 български (BG) (54.56 KB - PDF)
 
@@ -1181,7 +892,7 @@ English (EN) (77.29 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-otezla_en.pdf)
 
-#### News on Otezla
+## News on Otezla
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2024) 20/09/2024
 
@@ -1189,24 +900,230 @@ English (EN) (77.29 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 November 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-november-2014) 21/11/2014
 
-#### More information on Otezla
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Otezla : EPAR - Product information - tracked changes
+
+English (EN) (699.84 KB - DOCX)
+
+**First published:** 04/03/2026
+
+[View](/en/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-128)
+
+български (BG) (365.54 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/bg/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (338.76 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/es/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (337.94 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/cs/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (359.35 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/da/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (342.74 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/de/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (377.34 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/et/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (355.71 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/el/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (360.46 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/fr/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (363.12 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/hr/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (353.65 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/is/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (338.55 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/it/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (360.77 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/lv/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (359.02 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/lt/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (347.9 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/hu/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (360.02 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/mt/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (365.36 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/nl/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (344.94 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/no/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (366.86 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/pl/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (336.61 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/pt/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (337.3 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/ro/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (368.04 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/sk/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (337.47 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/sl/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (360.76 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/fi/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (358.13 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/sv/documents/product-information-tracked-changes/otezla-epar-product-information-tracked-changes_sv.docx)
+
+## More information on Otezla
 
 - [EMEA-000715-PIP02-11-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000715-pip02-11-m06)
 - [EMEA-000715-PIP05-13-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000715-pip05-13-m05)
 - [EMEA-000715-PIP03-11-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000715-pip03-11-m06)
-- [An Observational Study to Describe Women Exposed to Apremilast During Pregnancy and Infant Outcomes During the First Year of Life (20210218) - post-authorisation study](https://catalogues.ema.europa.eu/study/108094)
 - [OTEZLA® tablets General use-results survey (BCT) (20200279) - post-authorisation study](https://catalogues.ema.europa.eu/study/37753)
+- [An Observational Study to Describe Women Exposed to Apremilast During Pregnancy and Infant Outcomes During the First Year of Life (20210218) - post-authorisation study](https://catalogues.ema.europa.eu/study/108094)
 - [Characterizing Otezla Use and Exposure Among Pregnant Women (20220012) - post-authorisation study](https://catalogues.ema.europa.eu/study/50662)
 - [OTEZLA® Tablets Drug Use-Results Survey (CC-10004-PSOR-018) - post-authorisation study](https://catalogues.ema.europa.eu/study/36685)
 - [Characteristics and Risk Profile of Adult Patients Treated with Apremilast Included in the British Association of Dermatologists Biologic Interventions Register (BADBIR) : A Retrospective Database Analysis (20210230) - post-authorisation study](https://catalogues.ema.europa.eu/study/50015)
 - [APPRECIATE™ (APREmilast ClinIcAl Treatment Experience in psoriasis): A Multi-center, Retrospective Observational Study of Real-World Experience of Psoriasis Patients Treated with Apremilast in Clinical Dermatology Practice.(20200066 / CC-10004-PSOR-013) - post-authorisation study](https://catalogues.ema.europa.eu/study/47631)
 - [A longitudinal study of 4 cohorts of patients with psoriasis and psoriatic arthritis: one treated with Otezla (apremilast), one with an injectable comparator drug, one with an oral comparator drug and one with an oral and an injectable comparator drug (Otezla-CPRD-001) - post-authorisation study](https://catalogues.ema.europa.eu/study/39206)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 14/01/2026
+**This page was last updated on** 04/03/2026
 
 ## Share this page
 

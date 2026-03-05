@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 13:11:09
+document_datetime: 2026-03-03 15:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vyloy.html
 document_name: vyloy.html
 version: success
-processing_time: 0.1247566
-conversion_datetime: 2025-12-30 00:29:46.596134
+processing_time: 0.1008778
+conversion_datetime: 2026-03-05 11:49:28.504818
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Vyloy
 
 [RSS](/en/individual-human-medicine.xml/246165)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 zolbetuximab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +109,7 @@ English (EN) (192.08 KB - PDF)
 
 [View](/en/documents/overview/vyloy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-23)
+[Other languages (22)](#file-language-dropdown-517)
 
 български (BG) (177.75 KB - PDF)
 
@@ -293,17 +291,17 @@ svenska (SV) (151.32 KB - PDF)
 
 Vyloy : EPAR - Product information
 
-English (EN) (529.7 KB - PDF)
+English (EN) (526.06 KB - PDF)
 
 **First published:** 23/09/2024
 
-**Last updated:** 01/08/2025
+**Last updated:** 03/03/2026
 
 [View](/en/documents/product-information/vyloy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-22)
+[Other languages (24)](#file-language-dropdown-694)
 
-български (BG) (596.07 KB - PDF)
+български (BG) (596.52 KB - PDF)
 
 **First published:**
 
@@ -311,11 +309,11 @@ English (EN) (529.7 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/bg/documents/product-information/vyloy-epar-product-information_bg.pdf)
 
-español (ES) (548.98 KB - PDF)
+español (ES) (544.59 KB - PDF)
 
 **First published:**
 
@@ -323,11 +321,11 @@ español (ES) (548.98 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/es/documents/product-information/vyloy-epar-product-information_es.pdf)
 
-čeština (CS) (584.74 KB - PDF)
+čeština (CS) (578.72 KB - PDF)
 
 **First published:**
 
@@ -335,11 +333,11 @@ español (ES) (548.98 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/cs/documents/product-information/vyloy-epar-product-information_cs.pdf)
 
-dansk (DA) (569.06 KB - PDF)
+dansk (DA) (565.33 KB - PDF)
 
 **First published:**
 
@@ -347,11 +345,11 @@ dansk (DA) (569.06 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/da/documents/product-information/vyloy-epar-product-information_da.pdf)
 
-Deutsch (DE) (581.54 KB - PDF)
+Deutsch (DE) (576.69 KB - PDF)
 
 **First published:**
 
@@ -359,11 +357,11 @@ Deutsch (DE) (581.54 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/de/documents/product-information/vyloy-epar-product-information_de.pdf)
 
-eesti keel (ET) (565.7 KB - PDF)
+eesti keel (ET) (587.2 KB - PDF)
 
 **First published:**
 
@@ -371,11 +369,11 @@ eesti keel (ET) (565.7 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/et/documents/product-information/vyloy-epar-product-information_et.pdf)
 
-ελληνικά (EL) (565.16 KB - PDF)
+ελληνικά (EL) (567.41 KB - PDF)
 
 **First published:**
 
@@ -383,11 +381,11 @@ eesti keel (ET) (565.7 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/el/documents/product-information/vyloy-epar-product-information_el.pdf)
 
-français (FR) (574.79 KB - PDF)
+français (FR) (569.21 KB - PDF)
 
 **First published:**
 
@@ -395,11 +393,11 @@ français (FR) (574.79 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/fr/documents/product-information/vyloy-epar-product-information_fr.pdf)
 
-hrvatski (HR) (542.25 KB - PDF)
+hrvatski (HR) (537.39 KB - PDF)
 
 **First published:**
 
@@ -407,11 +405,11 @@ hrvatski (HR) (542.25 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/hr/documents/product-information/vyloy-epar-product-information_hr.pdf)
 
-íslenska (IS) (646.86 KB - PDF)
+íslenska (IS) (636.96 KB - PDF)
 
 **First published:**
 
@@ -419,11 +417,11 @@ hrvatski (HR) (542.25 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/is/documents/product-information/vyloy-epar-product-information_is.pdf)
 
-italiano (IT) (570.36 KB - PDF)
+italiano (IT) (565.03 KB - PDF)
 
 **First published:**
 
@@ -431,11 +429,11 @@ italiano (IT) (570.36 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/it/documents/product-information/vyloy-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (564.11 KB - PDF)
+latviešu valoda (LV) (558.75 KB - PDF)
 
 **First published:**
 
@@ -443,11 +441,11 @@ latviešu valoda (LV) (564.11 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/lv/documents/product-information/vyloy-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (593.63 KB - PDF)
+lietuvių kalba (LT) (615.26 KB - PDF)
 
 **First published:**
 
@@ -455,11 +453,11 @@ lietuvių kalba (LT) (593.63 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/lt/documents/product-information/vyloy-epar-product-information_lt.pdf)
 
-magyar (HU) (583.24 KB - PDF)
+magyar (HU) (589.5 KB - PDF)
 
 **First published:**
 
@@ -467,11 +465,11 @@ magyar (HU) (583.24 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/hu/documents/product-information/vyloy-epar-product-information_hu.pdf)
 
-Malti (MT) (608.35 KB - PDF)
+Malti (MT) (603 KB - PDF)
 
 **First published:**
 
@@ -479,11 +477,11 @@ Malti (MT) (608.35 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/mt/documents/product-information/vyloy-epar-product-information_mt.pdf)
 
-Nederlands (NL) (544.18 KB - PDF)
+Nederlands (NL) (540.42 KB - PDF)
 
 **First published:**
 
@@ -491,11 +489,11 @@ Nederlands (NL) (544.18 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/nl/documents/product-information/vyloy-epar-product-information_nl.pdf)
 
-norsk (NO) (544.76 KB - PDF)
+norsk (NO) (540.3 KB - PDF)
 
 **First published:**
 
@@ -503,11 +501,11 @@ norsk (NO) (544.76 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/no/documents/product-information/vyloy-epar-product-information_no.pdf)
 
-polski (PL) (583.43 KB - PDF)
+polski (PL) (577.82 KB - PDF)
 
 **First published:**
 
@@ -515,11 +513,11 @@ polski (PL) (583.43 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/pl/documents/product-information/vyloy-epar-product-information_pl.pdf)
 
-português (PT) (566.54 KB - PDF)
+português (PT) (560.89 KB - PDF)
 
 **First published:**
 
@@ -527,11 +525,11 @@ português (PT) (566.54 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/pt/documents/product-information/vyloy-epar-product-information_pt.pdf)
 
-română (RO) (578.98 KB - PDF)
+română (RO) (576.68 KB - PDF)
 
 **First published:**
 
@@ -539,11 +537,11 @@ română (RO) (578.98 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/ro/documents/product-information/vyloy-epar-product-information_ro.pdf)
 
-slovenčina (SK) (558.73 KB - PDF)
+slovenčina (SK) (554.05 KB - PDF)
 
 **First published:**
 
@@ -551,11 +549,11 @@ slovenčina (SK) (558.73 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/sk/documents/product-information/vyloy-epar-product-information_sk.pdf)
 
-slovenščina (SL) (541.37 KB - PDF)
+slovenščina (SL) (537.1 KB - PDF)
 
 **First published:**
 
@@ -563,11 +561,11 @@ slovenščina (SL) (541.37 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/sl/documents/product-information/vyloy-epar-product-information_sl.pdf)
 
-Suomi (FI) (968.9 KB - PDF)
+Suomi (FI) (961.95 KB - PDF)
 
 **First published:**
 
@@ -575,11 +573,11 @@ Suomi (FI) (968.9 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/fi/documents/product-information/vyloy-epar-product-information_fi.pdf)
 
-svenska (SV) (542.01 KB - PDF)
+svenska (SV) (533.91 KB - PDF)
 
 **First published:**
 
@@ -587,11 +585,11 @@ svenska (SV) (542.01 KB - PDF)
 
 **Last updated:**
 
-01/08/2025
+03/03/2026
 
 [View](/sv/documents/product-information/vyloy-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0005 19/06/2025
+**Latest procedure affecting product information:** VR/0000293346 22/01/2026
 
 icon globe
 
@@ -617,7 +615,7 @@ English (EN) (42.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vyloy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-803)
+[Other languages (24)](#file-language-dropdown-663)
 
 български (BG) (48.09 KB - PDF)
 
@@ -938,7 +936,7 @@ Astellas Pharma Europe B.V.
 
 Sylviusweg 62
 
-Opinion adopted 25/07/2024 Marketing authorisation issued 19/09/2024 Revision 3
+Opinion adopted 25/07/2024 Marketing authorisation issued 19/09/2024 Revision 4
 
 ## Assessment history
 
@@ -950,13 +948,21 @@ Collapse section
 
 Vyloy : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (159.39 KB - PDF)
+
+**First published:** 03/03/2026
+
+[View](/en/documents/procedural-steps-after/vyloy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Vyloy : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (153.07 KB - PDF)
 
 **First published:** 08/01/2025
 
-**Last updated:** 01/08/2025
+**Last updated:** 03/03/2026
 
-[View](/en/documents/procedural-steps-after/vyloy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/vyloy-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -996,11 +1002,11 @@ English (EN) (156.02 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-vyloy_en.pdf)
 
-#### News on Vyloy
+## News on Vyloy
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2024) 26/07/2024
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1012,7 +1018,7 @@ English (EN) (446.61 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/vyloy-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-889)
+[Other languages (24)](#file-language-dropdown-363)
 
 български (BG) (443.42 KB - DOCX)
 
@@ -1206,11 +1212,11 @@ svenska (SV) (393.77 KB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/vyloy-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Vyloy
+## More information on Vyloy
 
 - [EU/3/10/803 - orphan designation for treatment of gastric cancer](/en/medicines/human/orphan-designations/eu-3-10-803)
 
-**This page was last updated on** 01/08/2025
+**This page was last updated on** 03/03/2026
 
 ## Share this page
 

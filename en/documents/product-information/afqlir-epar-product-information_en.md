@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-18 16:11:30
+document_datetime: 2026-03-03 16:33:11
 document_pages: 96
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/afqlir-epar-product-information_en.pdf
 document_name: afqlir-epar-product-information_en.pdf
 version: success
-processing_time: 29.7686736
-conversion_datetime: 2026-01-03 12:42:16.895725
+processing_time: 34.2968988
+conversion_datetime: 2026-03-05 12:08:54.144861
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -745,7 +745,7 @@ Store in a refrigerator (2°C to 8°C). Do not freeze. Store in the original pac
 
 <div style=\"page-break-after: always\"></div>
 
-The unopened blister may be stored outside the refrigerator below 30°C for up to 14 days. After opening the blister, proceed under aseptic conditions.
+The unopened blister may be stored outside the refrigerator below 30°C for up to 7 days. After opening the blister, proceed under aseptic conditions.
 
 ## 6.5 Nature and contents of container
 
@@ -765,7 +765,7 @@ The pre-filled syringe contains more than the recommended dose of 2 mg afliberce
 
 | Store Afqlir in the refrigerator at 2°C - 8°C; do not freeze. Keep the pre-filled syringe in the outer carton to protect from light.                                                                                                                                                                                      |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Prior to usage, the unopened blister of Afqlir may be stored at temperature below 30°C for up to 14 days. After opening the blister, proceed under aseptic conditions.                                                                                                                                                    |
+| Prior to usage, the unopened blister of Afqlir may be stored at temperature below 30°C for up to 7 days. After opening the blister, proceed under aseptic conditions.                                                                                                                                                     |
 | Afqlir is a clear and colourless to slightly brownish-yellow solution.                                                                                                                                                                                                                                                    |
 | The solution should be inspected visually for any foreign particulates, cloudiness and/or discoloration or any variation in physical appearance prior to administration. In the event of either being observed, discard the medicinal product. Do not use if the packaging, or pre-filled syringe are damaged or expired. |
 
@@ -1543,7 +1543,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 Store in a refrigerator (2°C to 8°C). Do not freeze. Store in the original package in order to protect from light.
 
-The unopened vial may be stored outside the refrigerator below 30°C for up to 14 days. After opening the vial, proceed under aseptic conditions.
+The unopened vial may be stored outside the refrigerator below 30°C for up to 7 days. After opening the vial, proceed under aseptic conditions.
 
 ## 6.5 Nature and contents of container
 
@@ -1563,7 +1563,7 @@ Instructions for use of vial:
 
 | Store Afqlir in the refrigerator at 2°C - 8°C; do not freeze. Keep the vial in the outer carton to protect from light.                                                                                                                                                                                            |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Prior to use, the unopened vial of Afqlir may be kept at temperature below 30°C for up to 14 days. After opening the vial, proceed under aseptic conditions.                                                                                                                                                      |
+| Prior to use, the unopened vial of Afqlir may be kept at temperature below 30°C for up to 7 days. After opening the vial, proceed under aseptic conditions.                                                                                                                                                       |
 | Afqlir is a clear and colourless to slightly brownish-yellow solution.                                                                                                                                                                                                                                            |
 | Afqlir should be inspected visually for any particulates, cloudiness and/or discoloration or any variation in physical appearance prior to administration. In the event of either being observed, discard Afqlir. Do not use if the packaging, vial and/or other supplied medical devices are damaged or expired. |
 
@@ -2270,7 +2270,7 @@ If you get any side effects, talk to your doctor. This includes any possible sid
 - -Keep this medicine out of the sight and reach of children.
 - -Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
 - -Store in a refrigerator (2°C to 8°C). Do not freeze.
-- -The unopened blister may be stored outside the refrigerator below 30°C for up to 14 days.
+- -The unopened blister may be stored outside the refrigerator below 30°C for up to 7 days.
 - -Store in the original package in order to protect from light.
 - -Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away any medicines you no longer use. These measures will help protect the environment.
 
@@ -2474,7 +2474,7 @@ The pre-filled syringe contains more than the recommended dose of 2 mg afliberce
 
 | Store Afqlir in the refrigerator at 2°C - 8°C; do not freeze. Keep the pre-filled syringe in the outer carton to protect from light.                                                                                                                                                                                      |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Prior to usage, the unopened blister of Afqlir may be stored at temperature below 30°C for up to 14 days. After opening the blister, proceed under aseptic conditions.                                                                                                                                                    |
+| Prior to usage, the unopened blister of Afqlir may be stored at temperature below 30°C for up to 7 days. After opening the blister, proceed under aseptic conditions.                                                                                                                                                     |
 | Afqlir is a clear and colourless to slightly brownish-yellow solution.                                                                                                                                                                                                                                                    |
 | The solution should be inspected visually for any foreign particulates, cloudiness and/or discoloration or any variation in physical appearance prior to administration. In the event of either being observed, discard the medicinal product. Do not use if the packaging, or pre-filled syringe are damaged or expired. |
 
@@ -2765,7 +2765,7 @@ If you get any side effects, talk to your doctor. This includes any possible sid
 - -Keep this medicine out of the sight and reach of children.
 - -Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
 - -Store in a refrigerator (2°C - 8°C). Do not freeze.
-- -The unopened vial may be stored outside the refrigerator below 30°C for up to 14 days.
+- -The unopened vial may be stored outside the refrigerator below 30°C for up to 7 days.
 - -Store in the original package in order to protect from light.
 - -Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away any medicines you no longer use. These measures will help protect the environment.
 
@@ -2951,7 +2951,7 @@ The vial contains more than the recommended dose of 2 mg aflibercept (equivalent
 
 | Store Afqlir in the refrigerator at 2°C - 8°C; do not freeze. Keep the vial in the outer carton to protect from light.                                                                                                                                                                                            |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Prior to use, the unopened vial of Afqlir may be kept at temperature below 30°C for up to 14 days. After opening the vial, proceed under aseptic conditions.                                                                                                                                                      |
+| Prior to use, the unopened vial of Afqlir may be kept at temperature below 30°C for up to 7 days. After opening the vial, proceed under aseptic conditions.                                                                                                                                                       |
 | Afqlir is a clear and colourless to slightly brownish-yellow solution.                                                                                                                                                                                                                                            |
 | Afqlir should be inspected visually for any particulates, cloudiness and/or discoloration or any variation in physical appearance prior to administration. In the event of either being observed, discard Afqlir. Do not use if the packaging, vial and/or other supplied medical devices are damaged or expired. |
 

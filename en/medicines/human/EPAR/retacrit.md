@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 12:01:00
+document_datetime: 2026-03-02 17:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/retacrit.html
 document_name: retacrit.html
 version: success
-processing_time: 0.1101121
-conversion_datetime: 2025-12-30 01:53:10.395045
+processing_time: 0.0944138
+conversion_datetime: 2026-03-05 12:17:56.141536
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Retacrit
 
 [RSS](/en/individual-human-medicine.xml/65652)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 epoetin zeta Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -126,7 +124,7 @@ English (EN) (71.46 KB - PDF)
 
 [View](/en/documents/overview/retacrit-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-787)
+[Other languages (21)](#file-language-dropdown-121)
 
 български (BG) (175.12 KB - PDF)
 
@@ -384,17 +382,17 @@ svenska (SV) (71.4 KB - PDF)
 
 Retacrit : EPAR - Product Information
 
-English (EN) (1.54 MB - PDF)
+English (EN) (973.61 KB - PDF)
 
 **First published:** 06/02/2009
 
-**Last updated:** 29/09/2025
+**Last updated:** 02/03/2026
 
 [View](/en/documents/product-information/retacrit-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-367)
+[Other languages (24)](#file-language-dropdown-747)
 
-български (BG) (1.41 MB - PDF)
+български (BG) (1.24 MB - PDF)
 
 **First published:**
 
@@ -402,11 +400,11 @@ English (EN) (1.54 MB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/bg/documents/product-information/retacrit-epar-product-information_bg.pdf)
 
-español (ES) (816.68 KB - PDF)
+español (ES) (752.35 KB - PDF)
 
 **First published:**
 
@@ -414,11 +412,11 @@ español (ES) (816.68 KB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/es/documents/product-information/retacrit-epar-product-information_es.pdf)
 
-čeština (CS) (1.48 MB - PDF)
+čeština (CS) (1.33 MB - PDF)
 
 **First published:**
 
@@ -426,11 +424,11 @@ español (ES) (816.68 KB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/cs/documents/product-information/retacrit-epar-product-information_cs.pdf)
 
-dansk (DA) (1.37 MB - PDF)
+dansk (DA) (1.21 MB - PDF)
 
 **First published:**
 
@@ -438,11 +436,11 @@ dansk (DA) (1.37 MB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/da/documents/product-information/retacrit-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.43 MB - PDF)
+Deutsch (DE) (1.26 MB - PDF)
 
 **First published:**
 
@@ -450,11 +448,11 @@ Deutsch (DE) (1.43 MB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/de/documents/product-information/retacrit-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.32 MB - PDF)
+eesti keel (ET) (1.16 MB - PDF)
 
 **First published:**
 
@@ -462,11 +460,11 @@ eesti keel (ET) (1.32 MB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/et/documents/product-information/retacrit-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.39 MB - PDF)
+ελληνικά (EL) (1.23 MB - PDF)
 
 **First published:**
 
@@ -474,11 +472,11 @@ eesti keel (ET) (1.32 MB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/el/documents/product-information/retacrit-epar-product-information_el.pdf)
 
-français (FR) (1.45 MB - PDF)
+français (FR) (1.27 MB - PDF)
 
 **First published:**
 
@@ -486,11 +484,11 @@ français (FR) (1.45 MB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/fr/documents/product-information/retacrit-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.84 MB - PDF)
+hrvatski (HR) (1.59 MB - PDF)
 
 **First published:**
 
@@ -498,11 +496,11 @@ hrvatski (HR) (1.84 MB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/hr/documents/product-information/retacrit-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.39 MB - PDF)
+íslenska (IS) (1.22 MB - PDF)
 
 **First published:**
 
@@ -510,11 +508,11 @@ hrvatski (HR) (1.84 MB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/is/documents/product-information/retacrit-epar-product-information_is.pdf)
 
-italiano (IT) (1.38 MB - PDF)
+italiano (IT) (1.2 MB - PDF)
 
 **First published:**
 
@@ -522,11 +520,11 @@ italiano (IT) (1.38 MB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/it/documents/product-information/retacrit-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.34 MB - PDF)
+latviešu valoda (LV) (1.18 MB - PDF)
 
 **First published:**
 
@@ -534,11 +532,11 @@ latviešu valoda (LV) (1.34 MB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/lv/documents/product-information/retacrit-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.35 MB - PDF)
+lietuvių kalba (LT) (1.19 MB - PDF)
 
 **First published:**
 
@@ -546,11 +544,11 @@ lietuvių kalba (LT) (1.35 MB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/lt/documents/product-information/retacrit-epar-product-information_lt.pdf)
 
-magyar (HU) (1.39 MB - PDF)
+magyar (HU) (1.24 MB - PDF)
 
 **First published:**
 
@@ -558,11 +556,11 @@ magyar (HU) (1.39 MB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/hu/documents/product-information/retacrit-epar-product-information_hu.pdf)
 
-Malti (MT) (1.4 MB - PDF)
+Malti (MT) (1.23 MB - PDF)
 
 **First published:**
 
@@ -570,11 +568,11 @@ Malti (MT) (1.4 MB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/mt/documents/product-information/retacrit-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.43 MB - PDF)
+Nederlands (NL) (1.26 MB - PDF)
 
 **First published:**
 
@@ -582,11 +580,11 @@ Nederlands (NL) (1.43 MB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/nl/documents/product-information/retacrit-epar-product-information_nl.pdf)
 
-norsk (NO) (1.36 MB - PDF)
+norsk (NO) (1.2 MB - PDF)
 
 **First published:**
 
@@ -594,11 +592,11 @@ norsk (NO) (1.36 MB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/no/documents/product-information/retacrit-epar-product-information_no.pdf)
 
-polski (PL) (1.42 MB - PDF)
+polski (PL) (1.26 MB - PDF)
 
 **First published:**
 
@@ -606,11 +604,11 @@ polski (PL) (1.42 MB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/pl/documents/product-information/retacrit-epar-product-information_pl.pdf)
 
-português (PT) (1.45 MB - PDF)
+português (PT) (1.27 MB - PDF)
 
 **First published:**
 
@@ -618,11 +616,11 @@ português (PT) (1.45 MB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/pt/documents/product-information/retacrit-epar-product-information_pt.pdf)
 
-română (RO) (1.34 MB - PDF)
+română (RO) (1.18 MB - PDF)
 
 **First published:**
 
@@ -630,11 +628,11 @@ română (RO) (1.34 MB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/ro/documents/product-information/retacrit-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.42 MB - PDF)
+slovenčina (SK) (1.25 MB - PDF)
 
 **First published:**
 
@@ -642,11 +640,11 @@ slovenčina (SK) (1.42 MB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/sk/documents/product-information/retacrit-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.37 MB - PDF)
+slovenščina (SL) (1.2 MB - PDF)
 
 **First published:**
 
@@ -654,11 +652,11 @@ slovenščina (SL) (1.37 MB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/sl/documents/product-information/retacrit-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.31 MB - PDF)
+Suomi (FI) (1.14 MB - PDF)
 
 **First published:**
 
@@ -666,11 +664,11 @@ Suomi (FI) (1.31 MB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/fi/documents/product-information/retacrit-epar-product-information_fi.pdf)
 
-svenska (SV) (1.26 MB - PDF)
+svenska (SV) (1.12 MB - PDF)
 
 **First published:**
 
@@ -678,11 +676,11 @@ svenska (SV) (1.26 MB - PDF)
 
 **Last updated:**
 
-29/09/2025
+02/03/2026
 
 [View](/sv/documents/product-information/retacrit-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000292973 26/09/2025
+**Latest procedure affecting product information:** N/0000326468 02/03/2026
 
 icon globe
 
@@ -708,7 +706,7 @@ English (EN) (68.4 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-890)
+[Other languages (24)](#file-language-dropdown-629)
 
 български (BG) (45.66 KB - PDF)
 
@@ -1036,7 +1034,7 @@ Pfizer Europe MA EEIG
 
 Boulevard de la Plaine 17
 
-Opinion adopted 18/10/2007 Marketing authorisation issued 18/12/2007 Revision 33
+Opinion adopted 18/10/2007 Marketing authorisation issued 18/12/2007 Revision 34
 
 ## Assessment history
 
@@ -1048,11 +1046,11 @@ Collapse section
 
 Retacrit : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (139.06 KB - PDF)
+English (EN) (145.7 KB - PDF)
 
 **First published:** 22/04/2025
 
-**Last updated:** 29/09/2025
+**Last updated:** 02/03/2026
 
 [View](/en/documents/procedural-steps-after/retacrit-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1102,20 +1100,20 @@ English (EN) (22.92 KB - PDF)
 
 [View](/en/documents/procedural-steps/retacrit-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### Related content
+## Related content
 
 - [Biosimilar medicines](/en/human-regulatory/overview/biosimilar-medicines)
 
-#### More information on Retacrit
+## More information on Retacrit
 
 - [Post-Authorisation Safety Cohort Observation of Retacrit™ (epoetin zeta) Administered Subcutaneously for the Treatment of Renal Anaemia (PASCO II) (PASCOII) - post-authorisation study](https://catalogues.ema.europa.eu/study/41085)
 
-#### Topics
+## Topics
 
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 29/09/2025
+**This page was last updated on** 02/03/2026
 
 ## Share this page
 

@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 09:37:02
+document_datetime: 2026-03-03 15:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zeposia.html
 document_name: zeposia.html
 version: success
-processing_time: 0.1143058
-conversion_datetime: 2025-12-30 02:37:42.490852
+processing_time: 0.1106443
+conversion_datetime: 2026-03-05 11:46:25.598277
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Zeposia
 
 [RSS](/en/individual-human-medicine.xml/67311)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 ozanimod Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -124,7 +122,7 @@ English (EN) (144.53 KB - PDF)
 
 [View](/en/documents/overview/zeposia-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-136)
+[Other languages (22)](#file-language-dropdown-79)
 
 български (BG) (170.54 KB - PDF)
 
@@ -392,11 +390,11 @@ svenska (SV) (141.72 KB - PDF)
 
 Zeposia: EPAR - Risk management plan
 
-English (EN) (5.52 MB - PDF)
+English (EN) (1.07 MB - PDF)
 
 **First published:** 27/05/2020
 
-**Last updated:** 27/03/2025
+**Last updated:** 03/03/2026
 
 [View](/en/documents/rmp/zeposia-epar-risk-management-plan_en.pdf)
 
@@ -404,17 +402,17 @@ English (EN) (5.52 MB - PDF)
 
 Zeposia: EPAR - Product information
 
-English (EN) (443.22 KB - PDF)
+English (EN) (435.43 KB - PDF)
 
 **First published:** 27/05/2020
 
-**Last updated:** 27/03/2025
+**Last updated:** 03/03/2026
 
 [View](/en/documents/product-information/zeposia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-461)
+[Other languages (24)](#file-language-dropdown-302)
 
-български (BG) (653.21 KB - PDF)
+български (BG) (595.2 KB - PDF)
 
 **First published:**
 
@@ -422,11 +420,11 @@ English (EN) (443.22 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/bg/documents/product-information/zeposia-epar-product-information_bg.pdf)
 
-español (ES) (452.58 KB - PDF)
+español (ES) (447.82 KB - PDF)
 
 **First published:**
 
@@ -434,11 +432,11 @@ español (ES) (452.58 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/es/documents/product-information/zeposia-epar-product-information_es.pdf)
 
-čeština (CS) (642.5 KB - PDF)
+čeština (CS) (576.5 KB - PDF)
 
 **First published:**
 
@@ -446,11 +444,11 @@ español (ES) (452.58 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/cs/documents/product-information/zeposia-epar-product-information_cs.pdf)
 
-dansk (DA) (453.51 KB - PDF)
+dansk (DA) (441.2 KB - PDF)
 
 **First published:**
 
@@ -458,11 +456,11 @@ dansk (DA) (453.51 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/da/documents/product-information/zeposia-epar-product-information_da.pdf)
 
-Deutsch (DE) (572.62 KB - PDF)
+Deutsch (DE) (470.15 KB - PDF)
 
 **First published:**
 
@@ -470,11 +468,11 @@ Deutsch (DE) (572.62 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/de/documents/product-information/zeposia-epar-product-information_de.pdf)
 
-eesti keel (ET) (570.72 KB - PDF)
+eesti keel (ET) (445.48 KB - PDF)
 
 **First published:**
 
@@ -482,11 +480,11 @@ eesti keel (ET) (570.72 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/et/documents/product-information/zeposia-epar-product-information_et.pdf)
 
-ελληνικά (EL) (670.48 KB - PDF)
+ελληνικά (EL) (585.69 KB - PDF)
 
 **First published:**
 
@@ -494,11 +492,11 @@ eesti keel (ET) (570.72 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/el/documents/product-information/zeposia-epar-product-information_el.pdf)
 
-français (FR) (677.68 KB - PDF)
+français (FR) (467.46 KB - PDF)
 
 **First published:**
 
@@ -506,11 +504,11 @@ français (FR) (677.68 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/fr/documents/product-information/zeposia-epar-product-information_fr.pdf)
 
-hrvatski (HR) (614.12 KB - PDF)
+hrvatski (HR) (553.05 KB - PDF)
 
 **First published:**
 
@@ -518,11 +516,11 @@ hrvatski (HR) (614.12 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/hr/documents/product-information/zeposia-epar-product-information_hr.pdf)
 
-íslenska (IS) (605.43 KB - PDF)
+íslenska (IS) (438.29 KB - PDF)
 
 **First published:**
 
@@ -530,11 +528,11 @@ hrvatski (HR) (614.12 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/is/documents/product-information/zeposia-epar-product-information_is.pdf)
 
-italiano (IT) (463.44 KB - PDF)
+italiano (IT) (454.69 KB - PDF)
 
 **First published:**
 
@@ -542,11 +540,11 @@ italiano (IT) (463.44 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/it/documents/product-information/zeposia-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (567.67 KB - PDF)
+latviešu valoda (LV) (435.21 KB - PDF)
 
 **First published:**
 
@@ -554,11 +552,11 @@ latviešu valoda (LV) (567.67 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/lv/documents/product-information/zeposia-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (674.89 KB - PDF)
+lietuvių kalba (LT) (561.83 KB - PDF)
 
 **First published:**
 
@@ -566,11 +564,11 @@ lietuvių kalba (LT) (674.89 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/lt/documents/product-information/zeposia-epar-product-information_lt.pdf)
 
-magyar (HU) (591.05 KB - PDF)
+magyar (HU) (507.14 KB - PDF)
 
 **First published:**
 
@@ -578,11 +576,11 @@ magyar (HU) (591.05 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/hu/documents/product-information/zeposia-epar-product-information_hu.pdf)
 
-Malti (MT) (591.94 KB - PDF)
+Malti (MT) (506.16 KB - PDF)
 
 **First published:**
 
@@ -590,11 +588,11 @@ Malti (MT) (591.94 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/mt/documents/product-information/zeposia-epar-product-information_mt.pdf)
 
-Nederlands (NL) (461.43 KB - PDF)
+Nederlands (NL) (452.69 KB - PDF)
 
 **First published:**
 
@@ -602,11 +600,11 @@ Nederlands (NL) (461.43 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/nl/documents/product-information/zeposia-epar-product-information_nl.pdf)
 
-norsk (NO) (443.36 KB - PDF)
+norsk (NO) (559.17 KB - PDF)
 
 **First published:**
 
@@ -614,11 +612,11 @@ norsk (NO) (443.36 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/no/documents/product-information/zeposia-epar-product-information_no.pdf)
 
-polski (PL) (612.97 KB - PDF)
+polski (PL) (597.88 KB - PDF)
 
 **First published:**
 
@@ -626,11 +624,11 @@ polski (PL) (612.97 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/pl/documents/product-information/zeposia-epar-product-information_pl.pdf)
 
-português (PT) (448.71 KB - PDF)
+português (PT) (441.75 KB - PDF)
 
 **First published:**
 
@@ -638,11 +636,11 @@ português (PT) (448.71 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/pt/documents/product-information/zeposia-epar-product-information_pt.pdf)
 
-română (RO) (560.24 KB - PDF)
+română (RO) (597.04 KB - PDF)
 
 **First published:**
 
@@ -650,11 +648,11 @@ română (RO) (560.24 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/ro/documents/product-information/zeposia-epar-product-information_ro.pdf)
 
-slovenčina (SK) (579.31 KB - PDF)
+slovenčina (SK) (493.72 KB - PDF)
 
 **First published:**
 
@@ -662,11 +660,11 @@ slovenčina (SK) (579.31 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/sk/documents/product-information/zeposia-epar-product-information_sk.pdf)
 
-slovenščina (SL) (615.02 KB - PDF)
+slovenščina (SL) (429.33 KB - PDF)
 
 **First published:**
 
@@ -674,11 +672,11 @@ slovenščina (SL) (615.02 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/sl/documents/product-information/zeposia-epar-product-information_sl.pdf)
 
-Suomi (FI) (463.34 KB - PDF)
+Suomi (FI) (573.88 KB - PDF)
 
 **First published:**
 
@@ -686,11 +684,11 @@ Suomi (FI) (463.34 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/fi/documents/product-information/zeposia-epar-product-information_fi.pdf)
 
-svenska (SV) (447.67 KB - PDF)
+svenska (SV) (477.26 KB - PDF)
 
 **First published:**
 
@@ -698,11 +696,11 @@ svenska (SV) (447.67 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+03/03/2026
 
 [View](/sv/documents/product-information/zeposia-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** R/0028 24/03/2025
+**Latest procedure affecting product information:** VR/0000291324 15/01/2026
 
 icon globe
 
@@ -726,7 +724,7 @@ English (EN) (51.19 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zeposia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-235)
+[Other languages (24)](#file-language-dropdown-559)
 
 български (BG) (82.32 KB - PDF)
 
@@ -951,7 +949,7 @@ Bristol-Myers Squibb Pharma EEIG
 
 Plaza 254
 
-Opinion adopted 26/03/2020 Marketing authorisation issued 20/05/2020 Revision 9
+Opinion adopted 26/03/2020 Marketing authorisation issued 20/05/2020 Revision 11
 
 ## Assessment history
 
@@ -963,13 +961,21 @@ Collapse section
 
 Zeposia: EPAR - Procedural steps taken and scientific information after the authorisation
 
+English (EN) (187.09 KB - PDF)
+
+**First published:** 03/03/2026
+
+[View](/en/documents/procedural-steps-after/zeposia-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Zeposia: EPAR - Procedural steps taken and scientific information after the authorisation (archive)
+
 English (EN) (183.47 KB - PDF)
 
 **First published:** 26/10/2020
 
-**Last updated:** 27/03/2025
+**Last updated:** 03/03/2026
 
-[View](/en/documents/procedural-steps-after/zeposia-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/zeposia-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Zeposia-PAM-0000263324 : EPAR - Assessment report
 
@@ -1045,7 +1051,7 @@ English (EN) (101.38 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-zeposia_en.pdf)
 
-#### News on Zeposia
+## News on Zeposia
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 October 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-october-2021) 15/10/2021
 
@@ -1053,7 +1059,7 @@ English (EN) (101.38 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 March 2020 (updated)](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-march-2020-updated) 27/03/2020
 
-#### More information on Zeposia
+## More information on Zeposia
 
 - [EMEA-001710-PIP02-14-M07 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001710-pip02-14-m07)
 - [EMEA-001710-PIP04-17-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001710-pip04-17-m03)
@@ -1061,11 +1067,11 @@ English (EN) (101.38 KB - PDF)
 - [Ozanimod Real-World Safety - A Post-Authorisation Multi-National Long-term Non-Interventional Study (ORION) - post-authorisation study](https://catalogues.ema.europa.eu/study/48378)
 - [Long-term real-world safety of ozanimod - A post-authorisation safety study (PASS) in patients diagnosed with ulcerative colitis - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000034)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 09/10/2025
+**This page was last updated on** 03/03/2026
 
 ## Share this page
 

@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:20:56
+document_datetime: 2026-03-02 16:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/herceptin.html
 document_name: herceptin.html
 version: success
-processing_time: 0.1488696
-conversion_datetime: 2025-12-30 10:50:30.971213
+processing_time: 0.1231362
+conversion_datetime: 2026-03-05 11:54:24.387313
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Herceptin
 
 [RSS](/en/individual-human-medicine.xml/65870)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 trastuzumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -137,7 +135,7 @@ English (EN) (94.57 KB - PDF)
 
 [View](/en/documents/overview/herceptin-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-692)
+[Other languages (21)](#file-language-dropdown-786)
 
 български (BG) (124.16 KB - PDF)
 
@@ -393,9 +391,11 @@ svenska (SV) (119.78 KB - PDF)
 
 Herceptin : EPAR - Risk management plan
 
-English (EN) (3.1 MB - PDF)
+English (EN) (2.59 MB - PDF)
 
 **First published:** 22/02/2024
+
+**Last updated:** 02/03/2026
 
 [View](/en/documents/rmp/herceptin-epar-risk-management-plan_en.pdf)
 
@@ -411,7 +411,7 @@ English (EN) (287.93 KB - PDF)
 
 [View](/en/documents/product-information/herceptin-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-353)
+[Other languages (24)](#file-language-dropdown-280)
 
 български (BG) (1.07 MB - PDF)
 
@@ -727,7 +727,7 @@ English (EN) (26.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/herceptin-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-247)
+[Other languages (24)](#file-language-dropdown-745)
 
 български (BG) (28.63 KB - PDF)
 
@@ -1068,7 +1068,7 @@ Roche Registration GmbH
 
 Emil-Barell-Strasse 1
 
-Marketing authorisation issued 28/08/2000 Revision 46
+Marketing authorisation issued 28/08/2000 Revision 47
 
 ## Assessment history
 
@@ -1080,11 +1080,11 @@ Collapse section
 
 Herceptin : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (494.18 KB - PDF)
+English (EN) (175.92 KB - PDF)
 
 **First published:** 06/05/2025
 
-**Last updated:** 25/11/2025
+**Last updated:** 02/03/2026
 
 [View](/en/documents/procedural-steps-after/herceptin-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1260,7 +1260,7 @@ English (EN) (558.92 KB - PDF)
 
 [View](/en/documents/scientific-discussion/herceptin-epar-scientific-discussion_en.pdf)
 
-#### News on Herceptin
+## News on Herceptin
 
 [Update on investigation by Italian authorities into the supply of stolen medicines](/en/news/update-investigation-italian-authorities-supply-stolen-medicines) 03/06/2014
 
@@ -1278,7 +1278,7 @@ English (EN) (558.92 KB - PDF)
 
 [Public Statement on HerceptinN(Trastuzumab): New Pharmacokinetic Data](/en/news/public-statement-herceptinntrastuzumab-new-pharmacokinetic-data) 19/06/2001
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document withoThe approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.ut tracked changes is above under 'Product information'.
 
@@ -1292,7 +1292,7 @@ English (EN) (217.78 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/herceptin-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-353)
+[Other languages (24)](#file-language-dropdown-565)
 
 български (BG) (350.67 KB - DOCX)
 
@@ -1582,17 +1582,17 @@ svenska (SV) (258.04 KB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/herceptin-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Herceptin
+## More information on Herceptin
 
 - [RoActemra / Hemlibra / Herceptin / Kadcyla / MabThera / Phesgo / Tecentriq - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/roactemra-hemlibra-herceptin-kadcyla-mabthera-phesgo-tecentriq)
 - [UK - A DISEASE REGISTRY STUDY TO PROSPECTIVELY OBSERVE TREATMENT PATTERNS AND OUTCOMES IN PATIENTS WITH HER2-POSITIVE UNRESECTABLE LOCALLY ADVANCED OR METASTATIC BREAST CANCER (ESTHER) - post-authorisation study](https://catalogues.ema.europa.eu/study/26411)
 - [An Observational Study of Cardiac Events in Patients With HER2 Positive Early Breast Cancer Treated With Herceptin® (OHERA) - post-authorisation study](https://catalogues.ema.europa.eu/study/23949)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 25/11/2025
+**This page was last updated on** 02/03/2026
 
 ## Share this page
 

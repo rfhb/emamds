@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-01-15 16:22:33
-document_pages: 44
+document_datetime: 2026-03-04 10:48:24
+document_pages: 47
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/hemgenix-epar-product-information_en.pdf
 document_name: hemgenix-epar-product-information_en.pdf
 version: success
-processing_time: 10.3930274
-conversion_datetime: 2025-12-14 21:42:32.56719
+processing_time: 13.5607951
+conversion_datetime: 2026-03-05 11:39:34.015542
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -82,7 +82,7 @@ Hemgenix can be administered only once.
 
 The onset of effect from etranacogene dezaparvovec treatment may occur within several weeks post-dose (see section 5.1). Therefore, haemostatic support with exogenous human Factor IX may be needed during the first weeks after etranacogene dezaparvovec infusion to provide sufficient Factor IX coverage for the initial days post-treatment. Monitoring of the Factor IX activity (e.g. weekly for 3 months) is recommended post-dose to follow the patient`s response to etranacogene dezaparvovec.
 
-When using an in vitro activated partial thromboplastin time (aPTT)-based one-stage clotting assay for determining Factor IX activity in patients' blood samples, plasma Factor IX activity results can be affected by both the type of aPTT reagent and the reference standard used in the assay. This is important to consider particularly when changing the laboratory and/or reagents used in the assay (see section 4.4). Therefore the same assay and reagents are recommended to be used to monitor Factor IX activity over time.
+When using an in vitro activated partial thromboplastin time (aPTT)-based one-stage clotting assay for determining Factor IX activity in patients' blood samples, plasma Factor IX activity results can be affected by both the type of aPTT reagent and the reference standard used in the assay. This is important to consider particularly when changing the laboratory and/or reagents used in the assay (see section 4.4). Therefore, the same assay and reagents are recommended to be used to monitor Factor IX activity over time.
 
 In case increased plasma Factor IX activity levels are not achieved, decrease, or bleeding is not controlled or returns, post-dose testing for Factor IX inhibitors is recommended along with Factor IX activity testing.
 
@@ -125,14 +125,14 @@ For instructions on dilution of the product prior to administration, see section
 The diluted product should be administered at a constant infusion rate of 500 mL/hour (8 mL/min).
 
 - In the event of an infusion reaction during administration, the infusion rate should be slowed or stopped to ensure patient tolerability. If the infusion is stopped, it may be restarted at a slower rate when the infusion reaction is resolved (see section 4.4).
-- If the infusion rate needs to be reduced, or the infusion stopped and restarted, the etranacogene dezaparvovec solution should be infused within the shelf life of diluted etranacogene dezaparvovec, i.e. within 24 hours after the dose preparation (see section 6.3).
+- If the infusion rate needs to be reduced, or the infusion stopped and restarted, the etranacogene dezaparvovec solution should be infused within 24 hours after the dose preparation (see section 6.3).
 
 For detailed instructions on preparation, handling, measures to take in case of accidental exposure and disposal of Hemgenix, see section 6.6.
 
 ## 4.3 Contraindications
 
 - -Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-- -Active infections, either acute or uncontrolled chronic.
+- -Active infections, either acute or uncontrolled chronic (see section 4.4).
 - -Patients with known advanced hepatic fibrosis, or cirrhosis (see section 4.4).
 
 ## 4.4 Special warnings and precautions for use
@@ -159,12 +159,12 @@ In the clinical studies with etranacogene dezaparvovec, for the patient sub-grou
 
 ## Baseline hepatic function
 
-Prior to the treatment with Hemgenix, patient`s liver transaminases should be evaluated and liver ultrasound and elastography performed. This includes:
+Prior to the treatment with Hemgenix, patient`s liver transaminases should be assessed and liver ultrasound and elastography performed, along with laboratory tests to evaluate for active Hepatitis B and C. This includes:
 
 - Enzyme testing (alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline phosphatase (ALP) and total bilirubin). ALT test results no later than within 3 months prior to treatment should be obtained, and ALT testing repeated at least once prior to Hemgenix administration to establish patient`s ALT baseline.
 - Hepatic ultrasound and elastography assessment obtained no later than within 6 months before Hemgenix administration.
 
-In case of radiological liver abnormalities and/or sustained liver enzyme elevations, consideration of a consultation with a hepatologist is recommended to assess eligibility for Hemgenix administration (see information on hepatic function and Factor IX monitoring below).
+In case of radiological liver abnormalities and/or sustained liver enzyme elevations, consideration of a consultation with a hepatologist is recommended to assess eligibility for Hemgenix administration (see information on hepatic function and Factor IX monitoring below). In patients with active Hepatitis B or C, etranacogene dezaparvovec treatment must be postponed until the infection is no longer active (see section 4.3).
 
 ## Infusion-related reactions - During or shortly after Hemgenix infusion
 
@@ -182,15 +182,19 @@ Intravenous administration of a liver-directed AAV vector may potentially lead t
 
 In clinical studies with etranacogene dezaparvovec, transient, asymptomatic, and predominantly mild liver transaminase elevations were observed, most often in the first 3 months after etranacogene dezaparvovec administration. These transaminase elevations resolved either spontaneously or with corticosteroid treatment (see section 4.8).
 
-To mitigate the risk of potential hepatotoxicity, patient`s liver transaminases should be evaluated and liver ultrasound and elastography performed before treatment (see section 4.2). After Hemgenix administration, transaminases should be closely monitored, e.g. once per week for at least 3 months. A course of corticosteroid taper should be considered in the event of ALT increase to above the upper limit of normal or to double the patient's baseline levels, along with human Factor IX activity examinations (see section 4.4 'Hepatic function and Factor IX monitoring'). Follow-up monitoring of transaminases in all patients who developed liver enzyme elevations is recommended on a regular basis until liver enzymes return to baseline values.
+To mitigate the risk of potential hepatotoxicity, patient`s liver transaminases should be evaluated and liver ultrasound and elastography performed before treatment (see section 4.2). After Hemgenix administration, transaminases should be closely monitored, e.g. once per week for at least 3 months. A course of corticosteroid taper should be considered in the event of ALT increase to above the upper limit of normal or to double the patient's baseline levels, along with human Factor IX activity examinations
 
 <div style=\"page-break-after: always\"></div>
+
+(see section 4.4 'Hepatic function and Factor IX monitoring'). Follow-up monitoring of transaminases in all patients who developed liver enzyme elevations is recommended on a regular basis until liver enzymes return to baseline values.
 
 The safety of etranacogene dezaparvovec in patients with severe hepatic impairment, including cirrhosis, severe liver fibrosis (e.g. suggestive of or equal to METAVIR [Meta-analysis of Histological Data in Viral Hepatitis] Stage 3 disease or a liver elast ography (FibroScan) score of ≥9 kPa), or uncontrolled Hepatitis B and C, have not been studied (see sections 4.3 and 5.2).
 
 ## Factor IX assays
 
-The results of Factor IX activity tests are lower if measured with chromogenic substrate assay (CSA) compared to one-stage clotting assay (OSA).
+The results of Factor IX activity tests are lower if measured with chromogenic substrate assay (CSA)
+
+compared to one-stage clotting assay (OSA).
 
 In clinical studies, the post-dose Factor IX activity measured with CSA returned lower values with the mean CSA to OSA Factor IX activity ratio ranging from 0.408 to 0.547 (see section 5.1).
 
@@ -198,7 +202,7 @@ In clinical studies, the post-dose Factor IX activity measured with CSA returned
 
 In the first 3 months after Hemgenix administration, the purpose of hepatic and Factor IX monitoring is to detect increases in ALT, which may be accompanied by decreased Factor IX activity and may indicate the need to initiate corticosteroid treatment (see sections 4.2 and 4.8). After the first 3 months of administration, hepatic and Factor IX monitoring is intended to routinely assess liver health and bleeding risk, respectively.
 
-A baseline assessment of liver health (including liver function tests within 3 months and recent fibrosis assessment using either imaging modalities, such as ultrasound elastography, or laboratory assessments, within 6 months) should be obtained before administration of Hemgenix. Consider obtaining at least two ALT measurements prior to administration, or use an average of prior ALT measurements (for example within 4 months) to establish patient's baseline ALT. It is recommended that the hepatic function is evaluated through a multidisciplinary approach with involvement of a hepatologist to best adjust the monitoring to the patient's individual condition.
+A baseline assessment of liver health (including liver function tests within 3 months and recent fibrosis assessment using either imaging modalities, such as ultrasound elastography, or laboratory assessments, within 6 months) should be obtained before administration of Hemgenix (including liver function tests within 3 months and recent fibrosis assessment using either imaging modalities, such as ultrasound elastography, or laboratory assessments, within 6 months). Consider obtaining at least two ALT measurements prior to administration, or use an average of prior ALT measurements (for example within 4 months) to establish patient's baseline ALT. It is recommended that the hepatic function is evaluated through a multidisciplinary approach with involvement of a hepatologist to best adjust the monitoring to the patient's individual condition.
 
 It is recommended (where possible) to use the same laboratory for hepatic testing at baseline and monitoring over time, particularly during the timeframe for corticosteroid treatment decision making, to minimise the impact of inter-laboratory variability.
 
@@ -208,17 +212,18 @@ Treating physicians should ensure the availability of patients for frequent moni
 
 Table 1: Hepatic function and Factor IX activity monitoring
 
-|                       | Measurements                                    | Timeframe                                                           | Monitoring frequency a   |
-|-----------------------|-------------------------------------------------|---------------------------------------------------------------------|--------------------------|
-| Before administration | Liver function tests Recent fibrosis assessment | Within 3 months prior to infusion Within 6 months prior to infusion | Baseline measurement     |
-| After administration  | ALT b and Factor IX activity                    | First 3 months                                                      | Weekly                   |
+|                       | Measurements         | Timeframe                         | Monitoring frequency a   |
+|-----------------------|----------------------|-----------------------------------|--------------------------|
+| Before administration | Liver function tests | Within 3 months prior to infusion | Baseline measurement     |
 
 <div style=\"page-break-after: always\"></div>
 
-| Months 4 to 12 (Year 1)   | Every 3 months                                                                                                                                                                                                                                                   |
-|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Year 2                    | • Every 6 months for patients with Factor IX activity levels > 5 IU/dL (see Factor IX assays) • Consider more frequent monitoring in patients with Factor IX activity levels ≤ 5 IU/dL and consider the stability of Factor IX levels and evidence of bleeding.  |
-| After Year 2              | • Every 12 months for patients with Factor IX activity levels > 5 IU/dL (see Factor IX assays) • Consider more frequent monitoring in patients with Factor IX activity levels ≤ 5 IU/dL and consider the stability of Factor IX levels and evidence of bleeding. |
+|                      | Recent fibrosis assessment   | Within 6 months prior to infusion   |                                                                                                                                                                                                                                                                  |
+|----------------------|------------------------------|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| After administration | ALT b and Factor IX activity | First 3 months                      | Weekly                                                                                                                                                                                                                                                           |
+| After administration | ALT b and Factor IX activity | Months 4 to 12 (Year 1)             | Every 3 months                                                                                                                                                                                                                                                   |
+| After administration | ALT b and Factor IX activity | Year 2                              | • Every 6 months for patients with Factor IX activity levels > 5 IU/dL (see Factor IX assays) • Consider more frequent monitoring in patients with Factor IX activity levels ≤ 5 IU/dL and consider the stability of Factor IX levels and evidence of bleeding.  |
+|                      |                              | After Year 2                        | • Every 12 months for patients with Factor IX activity levels > 5 IU/dL (see Factor IX assays) • Consider more frequent monitoring in patients with Factor IX activity levels ≤ 5 IU/dL and consider the stability of Factor IX levels and evidence of bleeding. |
 
 a Weekly monitoring is recommended, or as clinically indicated, during corticosteroid tapering. Adjustment of the monitoring frequency may also be indicated depending on the individual situation.
 
@@ -232,18 +237,18 @@ An immune response to the AAV5 capsid protein will occur after administration of
 
 Table 2. Recommended prednisolone treatment in response to ALT elevations:
 
-| Timeline                                                   |   Prednisolone oral dose (mg/day) * |
-|------------------------------------------------------------|-------------------------------------|
-| Week 1                                                     |                                  60 |
-| Week 2                                                     |                                  40 |
-| Week 3                                                     |                                  30 |
-| Week 4                                                     |                                  30 |
-| Maintenance dose until ALT level returns to baseline level |                                  20 |
+| Timeline   |   Prednisolone oral dose (mg/day) * |
+|------------|-------------------------------------|
+| Week 1     |                                  60 |
 
 <div style=\"page-break-after: always\"></div>
 
-| Taper dose after baseline level has been reached   | Reduce daily dose by 5 mg/week   |
-|----------------------------------------------------|----------------------------------|
+| Week 2                                                     | 40                             |
+|------------------------------------------------------------|--------------------------------|
+| Week 3                                                     | 30                             |
+| Week 4                                                     | 30                             |
+| Maintenance dose until ALT level returns to baseline level | 20                             |
+| Taper dose after baseline level has been reached           | Reduce daily dose by 5 mg/week |
 
 * Medicinal products equivalent to prednisolone may also be used. A combined immunosuppressant regimen or the use of other immunosuppressive therapy can also be considered in case of prednisolone treatment failure or contraindication (see section 4.5). It is further recommended to set a multidisciplinary consultation involving a hepatologist, to best adjust the alternative to corticosteroids and the monitoring to the patient's individual condition.
 
@@ -275,9 +280,9 @@ The safety and efficacy in patients with HIV infection not controlled with anti-
 
 ## Patients with active or uncontrolled chronic infections
 
-There is no clinical experience with administration of etranacogene dezaparvovec in patients with acute infections (such as acute respiratory infections or acute hepatitis) or uncontrolled chronic infections (such as active chronic Hepatitis B). It is possible that such acute or uncontrolled infections may affect the response to Hemgenix and reduce its efficacy and/or cause adverse reactions. In patients with such infections, Hemgenix treatment is contraindicated (see section 4.3).
-
 <div style=\"page-break-after: always\"></div>
+
+There is no clinical experience with administration of etranacogene dezaparvovec in patients with acute infections (such as acute respiratory infections or acute hepatitis) or uncontrolled chronic infections (such as active chronic Hepatitis B or Hepatitis C). It is possible that such acute or uncontrolled infections may affect the response to Hemgenix and reduce its efficacy and/or cause adverse reactions. In patients with such infections, Hemgenix treatment is contraindicated (see section 4.3).
 
 If there are signs or symptoms of acute or uncontrolled chronic active infections, Hemgenix treatment must be postponed until the infection has resolved or is controlled.
 
@@ -308,11 +313,13 @@ The clinical relevance of individual integration events is not known to date, bu
 
 In the clinical studies, no malignancies were identified in relation to treatment with etranacogene dezaparvovec (see sections 5.1 and 5.3). In the event that a malignancy occurs, the marketing authorisation holder should be contacted by the treating healthcare professional to obtain instructions on collecting patient samples for potential vector integration examination and integration site analysis.
 
-It is recommended that patients with preexisting risk factors for hepatocellular carcinoma (such as hepatic fibrosis, hepatitis C or B disease, non-alcoholic fatty liver disease) undergo regular liver ultrasound screenings and are regularly monitored for alpha-fetoprotein (AFP) elevations (e.g. annually) for at least 5 years after Hemgenix administration (see also section 4.3).
-
-## Long-term follow up
+It is recommended that patients with preexisting risk factors for hepatocellular carcinoma (such as hepatic fibrosis, hepatitis C or B disease, non-alcoholic fatty liver disease) undergo regular liver ultrasound
 
 <div style=\"page-break-after: always\"></div>
+
+screenings and are regularly monitored for alpha-fetoprotein (AFP) elevations (e.g. annually) for at least 5 years after Hemgenix administration (see also section 4.3).
+
+## Long-term follow up
 
 Patients are expected to be enrolled in a follow-up study to follow Haemophilia patients for 15 years, to substantiate the long-term safety and efficacy of Hemgenix gene therapy.
 
@@ -346,9 +353,9 @@ Prior to etranacogene dezaparvovec infusion, ensure that the patient's vaccinati
 
 ## 4.6 Fertility, pregnancy and lactation
 
-## Women of childbearing potential
-
 <div style=\"page-break-after: always\"></div>
+
+## Women of childbearing potential
 
 No dedicated animal fertility/embryofoetal studies have been conducted to substantiate whether the use in women of childbearing potential and during pregnancy could be harmful for the newborn child (theoretical risk of viral vector integration in foetal cells through vertical transmission). No data are available to recommend a specific duration of contraceptive measures in women of childbearing potential. Therefore, Hemgenix is not recommended in women of childbearing potential.
 
@@ -384,11 +391,9 @@ The most frequently reported adverse drug reactions (ADRs) in clinical studies w
 
 ## Tabulated list of adverse reactions
 
-The Table 3 shows the overview of ADRs from clinical trials with etranacogene dezaparvovec in 57 patients. The ADRs are classified according the MedDRA System Organ Class and frequency. The ADRs are listed based on the following convention for frequency categories: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000),
-
 <div style=\"page-break-after: always\"></div>
 
-and not known (cannot be estimated from the available data). Within each frequency category, adverse reactions are presented in order of decreasing frequency.
+The safety of etranacogene dezaparvovec was evaluated in clinical studies involving 57 adult patients, who received a single intravenous dose of etranacogene dezaparvovec and were followed up for a period of 5 years (see section 5.1). The Table 3 shows the overview of the ADRs from the clinical trials with etranacogene dezaparvovec. The ADRs are classified according the MedDRA System Organ Class and frequency. The ADRs are listed based on the following convention for frequency categories: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), and not known (cannot be estimated from the av ailable data). Within each frequency category, adverse reactions are presented in order of decreasing frequency.
 
 Table 3. Adverse drug reactions obtained from clinical studies with etranacogene dezaparvovec
 
@@ -403,25 +408,25 @@ Table 3. Adverse drug reactions obtained from clinical studies with etranacogene
 | General disorders and administration site conditions Investigations | Blood creatine phosphokinase increased, blood bilirubin increased                                                                                                   | Common                  |
 | Injury, poisoning and procedural complications                      | Infusion related reaction (Hypersensitivity, infusion site reaction, dizziness, eye pruritus, flushing, abdominal pain upper, urticaria, chest discomfort, pyrexia) | Very Common *           |
 
-* The frequency results from pooled infusion related reactions of similar medical concept. Individual infusion reactions occurred in 1 to 2 subjects with common frequency (incidence of 1.8 to 3.5%).
+* The frequency results from pooled infusion related reactions of similar medical concept. Individual infusion reactions occurred in 1 to 2 subjects with common frequency (incidence of 1.8 to 3.5%) within 24 hours post-dose.
 
-## Hepatic laboratory Abnormalities
+## Hepatic laboratory abnormalities
 
 Table 4 describes hepatic laboratory abnormalities following administration of Hemgenix. ALT increases are further characterised, as they may be accompanied by decreased Factor IX activity and may indicate the need to initiate corticosteroid treatment (see section 4.4).
 
 Table 4. Hepatic laboratory abnormalities in patients administered 2 x 10 13 gc/kg body weight etranacogene dezaparvovec in clinical studies
 
-| Laboratory Parameter Increases a   | Number of patients (%) N=57   |
-|------------------------------------|-------------------------------|
-| ALT increases > ULN b              | (40.4%)                       |
-| > ULN - 3.0 x ULN c                | 17 (29.8%)                    |
-| > 3.0 - 5.0 x ULN d                | 1 (1.8%)                      |
-| > 5.0 - 20.0 x ULN e               | 1 (1.8%)                      |
-| AST increases > ULN b              | (42.1%)                       |
-| > ULN - 3.0 x ULN c                | 19 (33.3%)                    |
-| > 3.0 - 5.0 x ULN d                | 4 (7.0%)                      |
-| Bilirubin increases > ULN b        | 14 (24.6%)                    |
-| >ULN- 1.5xULN c                    | 12 (21.1%)                    |
+| Laboratory Parameter Increases a   | Number of patients (%) N=57 f   |
+|------------------------------------|---------------------------------|
+| ALT increases > ULN b              | (40.4%)                         |
+| > ULN - 3.0 x ULN c                | 17 (29.8%)                      |
+| > 3.0 - 5.0 x ULN d                | 1 (1.8%)                        |
+| > 5.0 - 20.0 x ULN e               | 1 (1.8%)                        |
+| AST increases > ULN b              | (42.1%)                         |
+| > ULN - 3.0 x ULN c                | 19 (33.3%)                      |
+| > 3.0 - 5.0 x ULN d                | 4 (7.0%)                        |
+| Bilirubin increases > ULN b        | 14 (24.6%)                      |
+| >ULN- 1.5xULN c                    | 12 (21.1%)                      |
 
 Abbreviations: ULN = Upper Limit of Normal; CTCAE = Common Terminology Criteria for Adverse Events
 
@@ -431,31 +436,37 @@ b Not all patients with laboratory abnormality &gt;ULN reached CTCAE Grade 1 due
 
 c CTCAE Grade 1
 
+<div style=\"page-break-after: always\"></div>
+
 d CTCAE Grade 2
 
 e CTCAE Grade 3
 
+f Adverse event data are derived from patients followed for up to two years post-dose.
+
 ## Description of selected adverse reactions
 
-Infusion related reactions
-
-<div style=\"page-break-after: always\"></div>
+## Infusion related reactions
 
 In the clinical studies with etranacogene dezaparvovec, infusion-related reactions of mild to moderate severity have been observed in 7/57 (12.3%) subjects. The infusion was temporarily interrupted in 3 patients and resumed at a slower infusion rate upon treatment with antihistamines and/or corticosteroids. In 1 patient, infusion was stopped and not resumed (see section 5.1).
 
-## Immune-mediated transaminitis
+## Treatment-emergent transaminitis
 
-In the clinical studies, treatment-emergent adverse reactions of ALT increases occurred in 13/57 (22.8%) patients. The onset of ALT elevations ranged from day 22 to 787 post-dose. Nine of the 13 patients with ALT elevations received a tapered course of corticosteroid. The mean corticosteroid treatment duration for those patients was 81.4 days. Nine of the 13 patients with ALT elevations also experienced AST elevations. All treatment-emergent adverse events of elevated ALTs were non-serious and resolved within 3 to 127 days.
+In the clinical studies, treatment-emergent adverse reactions of ALT increases occurred in 13/57 (22.8%) patients. The onset of ALT elevations ranged from day 22 to 787 post-dose (see section 4.4). Nine of the 13 patients with ALT elevations received a tapered course of corticosteroid. The mean corticosteroid treatment duration for those patients was 81.4 days (range: 51 to 130). Nine of the 13 patients with ALT elevations also experienced AST elevations. All treatment-emergent adverse events of elevated ALTs were non-serious and resolved within 3 to 127 days.
+
+After month 6 post-dose, no persistence of treatment-related transaminitis was observed and no steroid treatment was required.
+
+No delayed hepatotoxicity was observed (see section 4.4).
 
 ## Immunogenicity
 
 In the clinical studies with etranacogene dezaparvovec, no Factor IX inhibitor development was observed.
 
-An expected sustained humoral immune response to the infused AAV5 capsid was observed in all patients treated with etranacogene dezaparvovec. Anti-AAV5 antibody levels raised above the upper limit of quantification, as tested using the clinical study assay, by week 3 post-dose and remained elevated above the upper limit of quantification, as measured at month 24 post-dose.
+An expected sustained humoral immune response to the infused AAV5 capsid was observed in all patients treated with etranacogene dezaparvovec. Anti-AAV5 antibody levels raised above the upper limit of quantification, as tested using the clinical study assay, by week 3 post-dose and remained elevated above the upper limit of quantification, as measured up to the end of the study (see section 5.1).
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse drug reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Reporting suspected adverse drug reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V .
 
 ## 4.9 Overdose
 
@@ -469,125 +480,168 @@ Pharmacotherapeutic group: Blood coagulation factors, ATC code: B02BD16
 
 ## Mechanism of action
 
-Etranacogene dezaparvovec is a gene therapy product designed to introduce a copy of the human Factor IX coding DNA sequence into hepatocytes to address the root cause of the Haemophilia B disease. Etranacogene dezaparvovec consists of a codon-optimised coding DNA sequence of the gain-of-function Padua variant of the human Factor IX (hFIXco-Padua), under control of the liver-specific LP1 promoter, encapsulated in a non-replicating recombinant adeno-associated viral vector of serotype 5 (AAV5) (see section 2.1).
+Etranacogene dezaparvovec is a gene therapy product designed to introduce a copy of the human Factor IX coding DNA sequence into hepatocytes to address the root cause of the Haemophilia B disease. Etranacogene dezaparvovec consists of a codon-optimised coding DNA sequence of the gain-of-function Padua variant of the human Factor IX (hFIXco-Padua), under control of the liver-specific LP1 promoter,
+
+<div style=\"page-break-after: always\"></div>
+
+encapsulated in a non-replicating recombinant adeno-associated viral vector of serotype 5 (AAV5) (see section 2.1).
 
 Following single intravenous infusion, etranacogene dezaparvovec preferentially targets liver cells, where the vector DNA resides almost exclusively in episomal form (see section 5.3 below). After transduction, etranacogene dezaparvovec directs long-term liver-specific expression of Factor IX-Padua protein. As a result, etranacogene dezaparvovec partially or completely ameliorates the deficiency of circulating Factor IX procoagulant activity in patients with Haemophilia B.
 
 ## Clinical efficacy and safety
 
-<div style=\"page-break-after: always\"></div>
+The safety and efficacy of etranacogene dezaparvovec was evaluated in 2 prospective, open-label, single-dose, single-arm studies, a phase 2b study performed in US and a phase 3 multi-national study performed in US, UK and EU. Both studies enrolled adult male patients (body weight range: 58 to 169 kg) with moderately severe or severe Haemophilia B ( ≤2% of Factor IX activity; N=3 in phase 2b and N=54 in phase 3), who received a single intravenous dose of 2 × 10 13 gc/kg body weight of etranacogene dezaparvovec and were followed-up for 5 years.
 
-The safety and efficacy of etranacogene dezaparvovec was evaluated in 2 prospective, open-label, single-dose, single-arm studies, a phase 2b study performed in US and a phase 3 multi-national study performed in US, UK and EU. Both studies enrolled adult male patients (body weight range: 58 to 169 kg) with moderately severe or severe Haemophilia B ( ≤2% of Factor IX activity; N=3 in phase 2b and N=54 in phase 3), who received a single intravenous dose of 2 × 10 13 gc/kg body weight of etranacogene dezaparvovec and entered a follow-up period of 5 years.
+In the pivotal phase 3 study, a total of N=54 male patients, aged 19 to 75 at enrollment (n=47 ≥ 18 and &lt; 65 years; n=7 ≥ 65 years) with moderately severe or severe Haemophilia B completed a ≥6 -month observational lead-in phase with standard of care regular Factor IX prophylaxis after which the patients received a single intravenous dose of etranacogene dezaparvovec. Post-treatment follow-up visits occurred regularly, with 53/54 patients completing at least 18 months of follow-up for the primary analysis.
 
-In the pivotal phase 3 study, a total of N=54 male patients, aged 19 to 75 at enrollment (n=47 ≥ 18 and &lt; 65 years; n=7 ≥ 65 years) with moderately severe or severe Haemophilia B completed a ≥6 -month observational lead-in phase with standard of care routine Factor IX prophylaxis after which the patients received a single intravenous dose of etranacogene dezaparvovec. Post-treatment follow-up visits occurred regularly, with 53/54 patients completing at least 18 months of follow-up. One patient, aged 75 at screening, died of cardiogenic shock at month 15 post-dose, an event confirmed not treatment-related. The remaining 53/54 patients continue follow-up for a total of 5 years post-dose. Of these, 1 patient received a partial dose (10%) of etranacogene dezaparvovec due to an infusion reaction during infusion. All patients were on prophylactic Factor IX replacement therapy prior to dosing with etranacogene dezaparvovec. Preexisting neutralising anti-AAV5 antibodies were present in 21/54 (38.9%) patients at baseline.
+Fifty patients completed the full 5-year follow-up.
 
-The primary efficacy objective for the phase 3 study was to assess the annualised bleeding rate (ABR) reduction between month 7 and 18 post-dose, i.e., after establishment of stable Factor IX expression by month 6 post-dose, compared to the observational lead-in period. For this purpose, all bleeding episodes, regardless of investigator assessment, were considered. The efficacy results showed superiority of etranacogene dezaparvovec to continuous routine Factor IX prophylaxis (see Table 5).
+All patients were on prophylactic Factor IX replacement therapy prior to dosing with etranacogene dezaparvovec. Preexisting neutralising anti-AAV5 antibodies were present in 21/54 (38.9%) patients at baseline.
+
+The primary efficacy objective for the phase 3 study was to assess the annualised bleeding rate (ABR) reduction between month 7 and 18 post-dose, i.e., after establishment of stable Factor IX expression by month 6 post-dose, compared to the observational lead-in period. For this purpose, all bleeding episodes, regardless of investigator assessment, were considered. The efficacy results showed superiority of etranacogene dezaparvovec to continuous regular Factor IX prophylaxis (see Table 5). The ABR reduction for all types of bleeds was maintained through 5 years post-dose (see Table 5 and 6).
 
 Table 5. Bleeding events and Annualised Bleeding Rates
 
-| Number                                                                             | ≥ 6-month lead-in period FAS (N=54)   | 7-18 months post-dose FAS (N=54)   | ≥ 6-month lead-in period (N=53) ***   | 7-18 months post-dose (N=53) ***   |
-|------------------------------------------------------------------------------------|---------------------------------------|------------------------------------|---------------------------------------|------------------------------------|
-| Number of patients with bleeds                                                     | 40 (74.1%)                            | 20 (37.0%)                         | 40 (75.5%)                            | 19 (35.8%)                         |
-| Number of patients with zero bleeds                                                | 14 (25.9%)                            | 34 (63.0%)                         | 13 (24.5%)                            | 34 (64.2%)                         |
-| Number of any bleeds                                                               | 136                                   | 54                                 | 136                                   | 49                                 |
-| Number of person years for bleeding events                                         | 33.12                                 | 49.78                              |                                       |                                    |
-| Adjusted * ABR ** (95% CI) for any bleeds                                          | 4.19 (3.22, 5.45)                     | 1.51 (0.81, 2.82)                  | 3.89 (2.93, 5.16)                     | 1.07 (0.63, 1.82)                  |
-| ABR reduction (lead-in to post-treatment) 2-sided 95% Wald CI 1-sided p-value **** | -                                     | 64% (36%, 80%) 0.0002              |                                       | 72% (57%, 83%) p< 0.0001           |
-| Number of patients with severe bleeds                                              | 10 (18.5%)                            | 7 (13%)                            | -                                     | -                                  |
-| Number of patients with very severe bleeds                                         | 3 (5.6%)                              | 2 (3.7%)                           | -                                     | -                                  |
-| Adjusted ABR for spontaneous bleeds 1-sided p-value                                | 1.52                                  | 0.44 p=0.0034                      | -                                     | -                                  |
-| Adjusted ABR for joint bleeds 1-sided p-value                                      | 2.35                                  | 0.51 p<0.0001                      | -                                     | -                                  |
-| Adjusted ABR for traumatic bleeds 1-sided p-value                                  | 2.09                                  | 0.62 p<0.0001                      | -                                     | -                                  |
+| Number                                     | ≥ 6-month lead-in period FAS (N=54)   | 7-18 months post-dose FAS (N=54)   | 7-60 months post-dose FAS (N=54)   | ≥ 6-month lead-in period (N=53) ***   | 7-18 months post-dose (N=53) ***   | 7-60 months post-dose (N=53) ***   |
+|--------------------------------------------|---------------------------------------|------------------------------------|------------------------------------|---------------------------------------|------------------------------------|------------------------------------|
+| Number of patients with bleeds             | 40 (74.1%)                            | 20 (37.0%)                         | 34 (63.0%)                         | 40 (75.5%)                            | 19 (35.8%)                         | 33 (62.3%)                         |
+| Number of patients with zero bleeds        | 14 (25.9%)                            | 34 (63.0%)                         | 20 (37.0%)                         | 13 (24.5%)                            | 34 (64.2%)                         | 20 (37.0%)                         |
+| Number of any bleeds                       | 136                                   | 54                                 | 151                                | 136                                   | 49                                 | 146                                |
+| Number of person years for bleeding events | 33.12                                 | 49.78                              | 219.11                             | 32.60                                 | 49.77                              | 219.10                             |
+| Adjusted * ABR **                          | 4.19 (3.22, 5.45)                     | 1.51 (0.81, 2.82)                  | 1.52 (0.72, 3.26)                  | 3.89 (2.93, 5.16)                     | 1.07 (0.63, 1.82)                  | 0.96 (0.53, 1.76)                  |
 
 <div style=\"page-break-after: always\"></div>
 
-Abbreviations: ABR = annualised bleeding rate; FAS = Full Analysis Set including all 54 patients dosed; CI = confidence interval
+| (95% CI) for any bleeds                                                              |            |                         |                         |    |                         |                         |
+|--------------------------------------------------------------------------------------|------------|-------------------------|-------------------------|----|-------------------------|-------------------------|
+| ABR reduction (lead-in to post- treatment) 2-sided 95% Wald CI 1-sided p- value **** | -          | 64% (36%, 80%) p=0.0002 | 63% (24%, 82%) p=0.0035 | -  | 72% (57%, 83%) p<0.0001 | 75% (46%, 87%) p<0.0001 |
+| Number of patients with severe i bleeds                                              | 10 (18.5%) | 7 (13%)                 | -                       | -  | -                       | -                       |
+| Number of patients with very severe i                                                | 3 (5.6%)   | 2 (3.7%)                | -                       | -  | -                       | -                       |
+| Adjusted ABR for spontaneous bleeds 1-sided p- value                                 | 1.52       | 0.44 p=0.0034           | 0.53 p=0.0133           | -  | -                       | -                       |
+| Adjusted ABR for joint bleeds 1-sided p- value                                       | 2.35       | 0.51 p<0.0001           | 0.35 p<0.0001           | -  | -                       | -                       |
+| Adjusted ABR for traumatic bleeds 1-sided p- value                                   | 2.09       | 0.62 p<0.0001           | 0.43 p<0.0001           | -  | -                       | -                       |
+
+Abbreviations: ABR = annualised bleeding rate; FAS = Full Analysis Set including all 54 patients dosed;
+
+CI = confidence interval
 
 * Adjusted ABR: Adjusted ABR rate and comparison of ABR between lead-in and post-treatment period was estimated from a statistical modelling (i.e., from a repeated measures generalised estimating equations negative binomial regression model accounting for the paired design of the study with an offset parameter to account for the differential collection periods. Treatment period was included as a categorical covariate.)
 
-** The ABR was measured from month 7 to month 18 after etranacogene dezaparvovec infusion, ensuring this period represented steady-state Factor IX expression from the transgene.
+** The ABR was measured from month 7 to month 18 or month 60, respectively, after etranacogene dezaparvovec infusion, ensuring this period represented steady-state Factor IX expression from the transgene.
 
 *** The population data includes all patients dosed except for one patient with the preexisting neutralising anti-AAV5 antibody titre of 1:3212 (tested using the clinical study assay, equivalent to 1:4417 titre based on the neutralising anti-AAV5 antibody assay with extended measuring range) who did not respond to treatment, i.e., did not show Factor IX expression and activity post-dose.
 
 **** 1-sided pvalue ≤0.025 for post -treatment/leadin &lt;1 was regarded as statistically significant.
 
-After single-dose of etranacogene dezaparvovec, clinically relevant increases in Factor IX activity were observed, as measured by the one-stage (aPTT-based) assay (see Table 6). Factor IX activity was also measured with chromogenic assay and the results were lower compared to the results of the one-stage (aPTT-based) assay with the mean chromogenic to one-stage Factor IX activity ratio ranging from 0.408 to 0.547 from month 6 to month 24 post-dose.
+i The severity of a bleeding episode was assessed by the subject (subject-reported).
 
-Table 6. Uncontaminated 2 Factor IX activity at 6, 12, 18 and 24 months (FAS; one-stage (aPTTbased) assay)
+<div style=\"page-break-after: always\"></div>
 
-|                                                         | Baseline 1 (N=54) 2   | 6 months post-dose (N=51) 2   | 12 months post-dose (N=50) 2   | 18 months post-dose (N=50) 2   | 24 months post-dose 5 (N=50) 2   |
-|---------------------------------------------------------|-----------------------|-------------------------------|--------------------------------|--------------------------------|----------------------------------|
-| Mean %(SD)                                              | 1.19 (0.39)           | 38.95 (18.72)                 | 41.48 (21.71)                  | 36.90 (21.40)                  | 36.66 (18.96)                    |
-| Median %(min, max)                                      | 1.0 (1.0, 2.0)        | 37.30 (8.2, 97.1)             | 39.90 (5.9, 113.0)             | 33.55 (4.5, 122.9)             | 33.85 (4.7, 99.2)                |
-| Change from baseline                                    | n.a.                  | 36.18 (2.432)                 | 38.81 (2.442)                  | 34.31 (2.444)                  | 34.13 (2.325)                    |
-| Least Squares (LS) mean (SE) 3 95% CI 1-sided p-value 4 |                       | 31.41, 40.95 p<0.0001         | 34.01, 43.60 p<0.0001          | 29.52, 39.11 p<0.0001          | 29.57, 38.69 p<0.0001            |
+Table 6. Total bleeding events and ABRs by year (FAS)
+
+|                                                                                    | ≥6 -month Lead-in period (N=54)   | Year 1 (N=54)         | Year 2 (N=54)         | Year 3 (N=53 i )      | Year 4 (N=51 ii )     | Year 5 (N=51 ii )     |
+|------------------------------------------------------------------------------------|-----------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
+| Patients with bleeds                                                               | 40 (74.1%)                        | 23 (42.6%)            | 21 (38.9%)            | 14 (26.4%)            | 15 (29.4%)            | 12 (23.5%)            |
+| Patients with zero bleeds                                                          | 14 (25.9%)                        | 31 (57.4%)            | 33 (61.1%)            | 39 (73.6%)            | 36 (70.6%)            | 39 (76.5%)            |
+| Any bleeds                                                                         | 136                               | 55                    | 48                    | 37                    | 22                    | 18                    |
+| Adjusted * ABR (95% CI) for any bleeds                                             | 4.19 3.22, 5.45                   | 1.33 0.84, 2.13       | 0.91 0.53, 1.56       | 0.83 0.39, 1.74       | 0.40 0.24, 0.67       | 0.40 0.23, 0.71       |
+| ABR reduction (lead-in to post- treatment) 2-sided 95% Wald CI 1-sided p- value ** | -                                 | 66% 46%, 79% p<0.0001 | 78% 65%, 86% p<0.0001 | 80% 57%, 90% p<0.0001 | 90% 83%, 94% p<0.0001 | 90% 82%, 94% p<0.0001 |
+
+Abbreviations: ABR = annualised bleeding rate; FAS = Full Analysis Set including all 54 patients dosed; CI = confidence interval
+
+* Adjusted ABR: Adjusted ABR rate and comparison of ABR between lead-in and post-treatment period was estimated from a statistical modelling (i.e., from a repeated measures generalised estimating equations negative binomial regression model accounting for the paired design of the study with an offset parameter to account for the differential collection periods. Treatment period was included as a categorical covariate.)
+
+** 1-sided pvalue ≤0.025 for post-treatment/leadin &lt;1 was regarded as statistically significant.
+
+i The population data includes all patients dosed except for 1 patient who died at month 15 due to an unrelated concomitant disease.
+
+ii The population data includes all patients dosed except for 1 patient who died at month 15 due to an unrelated concomitant disease; 1 patient who withdrew consent and discontinued; 1 patient who underwent a liver transplantation due to unrelated concomitant disease.
+
+After single-dose of etranacogene dezaparvovec, clinically relevant increases in Factor IX activity were observed, as measured by the one-stage (aPTT-based) assay (see Table 7). Factor IX activity was also measured with chromogenic assay and the results were lower compared to the results of the one-stage (aPTT-based) assay with the mean chromogenic to one-stage Factor IX activity ratio ranging from 0.408 to 0.547 from month 6 to month 24 post-dose.
+
+Table 7. Uncontaminated 2 Factor IX activity at 6, 12, 24, and 60 months (FAS; one-stage (aPTTbased) assay)
+
+|            | Base-line 1 (N=54) 2   | 6 months post-dose (N=51) 2   | 12 months post-dose (N=50) 2   | 24 months post-dose 5 (N=50) 2   | 60 months post-dose 5 (N=48) 2   |
+|------------|------------------------|-------------------------------|--------------------------------|----------------------------------|----------------------------------|
+| Mean %(SD) | 1.19 (0.39)            | 38.95 (18.72)                 | 41.48 (21.71)                  | 36.66 (18.96)                    | 36.09 (15.68)                    |
+| Median%    | 1.0                    | 37.30                         | 39.90                          | 33.85                            | 35.45                            |
+| (min, max) | (1.0, 2.0)             | (8.2, 97.1)                   | (5.9, 113.0)                   | (4.7, 99.2)                      | (5.5, 74.5)                      |
+
+<div style=\"page-break-after: always\"></div>
+
+| Change from baseline Least Squares (LS) mean (SE) 3 95% CI 1-sided p-value 4   | n.a.   | 36.18 (2.432) 31.41, 40.95 p<0.0001   | 38.81 (2.442) 34.01, 43.60 p<0.0001   | 34.13 (2.325) 29.57, 38.69 p<0.0001   | 33.98 (2.213) 29.63, 38.32 p<0.0001   |
+|--------------------------------------------------------------------------------|--------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
 
 Abbreviations: aPTT = activated Partial Thromboplastin Time; CI = confidence interval; FAS = Full Analysis Set including all 54 patients dosed; LS = least squares; max = maximum; min = minimum; n.a. = not applicable; SD = standard deviation; SE = standard error.
 
 1 Baseline: baseline Factor IX activity was imputed based on subject's historical Haemophilia B severity documented on the case report form. If the subject had documented severe Factor IX deficiency (Factor IX plasma level &lt;1%), their baseline Factor IX activity level was imputed as 1%. If the subject had documented moderately severe Factor IX deficiency (Factor IX plasma level ≥1% and ≤2%) their baseline Factor IX activity level was imputed as 2%.
 
-2 Uncontaminated: the blood samples collected within 5 half-lives of exogenous Factor IX use were excluded. Both the date and time of exogenous Factor IX use and blood sampling were considered in determining contamination. Patients with zero uncontaminated central laboratory post-treatment values had their change from baseline assigned to zero for this analysis, and had their post-baseline values set equal to their baseline value. Baseline Factor IX was imputed based on patients' historical Haemophilia B severity documented on the case report form. The FAS included 1 patient who received only 10% of the planned dose, 1 patient who died at month 15 post-dose due to unrelated concomitant disease, 1 patient with titre 1:3212 of preexisting neutralising anti-AAV5 antibodies (tested using the clinical study assay, equivalent to 1:4417 titre based on the neutralising anti-AAV5 antibody assay with extended measuring range) who did not respond to treatment, and 1 patient with contamination with exogenous Factor IX. Accordingly, the population data included 54 to 50 patients with uncontaminated sampling.
+2 Uncontaminated: the blood samples collected within 5 half-lives of exogenous Factor IX use were excluded. Both the date and time of exogenous Factor IX use and blood sampling were considered in determining contamination. Patients with zero uncontaminated central laboratory post-treatment values had their change from baseline assigned to zero for this analysis, and had their post-baseline values set equal to their baseline value. Baseline Factor IX was imputed based on patients' historical Haemophilia B severity documented on the case report form. The FAS included 1 patient who received only 10% of the planned dose, 2 patients who died at month 15 and month 55 post-dose, respectively, due to an unrelated concomitant disease, 1 patient with titre 1:3212 of preexisting neutralising antiAAV5 antibodies (tested using the clinical study assay, equivalent to 1:4417 titre based on the neutralising anti-AAV5 antibody assay with extended measuring range) who did not respond to treatment, 1 patient who underwent a liver transplantation due to unrelated concomitant disease, and 2 patient with contamination with exogenous Factor IX. Accordingly, the population data included 54 to 47 patients with uncontaminated sampling.
 
 3 Least Squares Mean (SE): mean from repeated measures linear mixed model with visit as a categorical covariate.
 
 4 1-sided p-value ≤0.025 for post -treatment above baseline was regarded as statistically significant.
 
-5 For month 24, data was based on an ad-hoc analysis and the p-value was not adjusted for multiplicity.
-
-<div style=\"page-break-after: always\"></div>
+5 For month 24 and 60, data was based on an ad-hoc analysis and the p-value was not adjusted for multiplicity.
 
 The onset of Factor IX protein expression post-dose was detectable from the first uncontaminated measurement at week 3. In general, although more variable, Factor IX protein kinetic profile during the post-treatment period followed a trend similar to Factor IX activity.
 
-Durability analysis of Factor IX activity showed stable Factor IX levels from 6 months up to 24 months. The durability analysis showed a similar trend of post-dose Factor IX activity for etranacogene dezaparvovec as for the predecessor, the rAAV5-hFIX gene therapy encoding wild type human Factor IX in a preceding clinical study, which showed stable post-dose Factor IX activity from 6 months up to 5 years (see section 5.3).
+Durability analysis of Factor IX activity showed stable Factor IX activity levels from 6 months through the end of the study in 49 of the 50 patients who completed the study (see section 5.1). The durability analysis showed a similar trend of post-dose Factor IX activity for etranacogene dezaparvovec as for the predecessor, the rAAV5-hFIX gene therapy encoding wild type human Factor IX in a preceding clinical study, which showed stable post-dose Factor IX activity from 6 months up to 8 years (see section 5.3). In the phase 2b study, Factor IX activity levels achieved after etranacogene dezaparvovec treatment in all 3 enrolled patients remained stable from 6 months through the end of the study, as measured at 5 years post-dose.
 
-While overall numerically lower mean Factor IX activity was observed in patients with preexisting neutralising anti-AAV5 antibodies, no clinically meaningful correlation was identified between patients` preexisting anti-AAV5 antibody titre and their Factor IX activity at 18 months post-dose (see Table 7). In 1 patient with a titre of 1:3212 for preexisting anti-AAV5 antibodies at screening (tested using the clinical study assay, equivalent to 1:4417 titre based on the neutralising anti-AAV5 antibody assay with extended measuring range), no response to etranacogene dezaparvovec treatment was observed, with no Factor IX expression and activity.
+While overall numerically lower mean Factor IX activity was observed in patients with preexisting neutralising anti-AAV5 antibodies, no clinically meaningful correlation was identified between patients` preexisting anti-AAV5 antibody titre and their Factor IX activity at 18 months post-dose (see Table 8). In 1 patient with a titre of 1:3212 for preexisting anti-AAV5 antibodies at screening (tested using the clinical study assay, equivalent to 1:4417 titre based on the neutralising anti-AAV5 antibody assay with extended measuring range), no response to etranacogene dezaparvovec treatment was observed, with no Factor IX expression and activity.
 
-Table 7. Endogenous Factor IX activity levels post-dose in patients with and without preexisting neutralising anti-AAV5 antibodies (FAS; one-stage (aPTT-based) assay)
+## Table 8. Endogenous Factor IX activity levels post-dose in patients with and without preexisting neutralising anti-AAV5 antibodies (FAS; one-stage (aPTT-based) assay)
+
+<div style=\"page-break-after: always\"></div>
 
 |                                                       |                                                       |                                                       |                                                       | Change from Baseline                                  | Change from Baseline                                  | Change from Baseline                                  |
 |-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
-|                                                       | Number of patient                                     | Mean Factor IX activity (%) (SD)                      | Median Factor IX activity (%) (min, max)              | Least Squares mean (SE) †                             | 95% CI                                                | 1-sided p-value                                       |
+|                                                       | Number of patient #                                   | Mean Factor IX activity (%) (SD)                      | Median Factor IX activity (%) (min, max)              | Least Squares mean (SE) †                             | 95% CI                                                | 1-sided p-value                                       |
 | With preexisting neutralising anti-AAV5 antibodies    | With preexisting neutralising anti-AAV5 antibodies    | With preexisting neutralising anti-AAV5 antibodies    | With preexisting neutralising anti-AAV5 antibodies    | With preexisting neutralising anti-AAV5 antibodies    | With preexisting neutralising anti-AAV5 antibodies    | With preexisting neutralising anti-AAV5 antibodies    |
 | Baseline                                              | 21                                                    | 1.24 (0.44)                                           | 1.00 (1.0, 2.0)                                       | n.a.                                                  | n.a.                                                  | n.a.                                                  |
-| Month 6                                               | 18                                                    | 35.91 (19.02)                                         | 36.60 (8.2, 90.4)                                     | 30.79 (3.827)                                         | 23.26, 38.32                                          | <0.0001                                               |
+| Month 6                                               | 18                                                    | 35.91 (19.02)                                         | 35.60 (8.2, 90.4)                                     | 30.79 (3.827)                                         | 23.26, 38.32                                          | <0.0001                                               |
 | Month 12                                              | 18                                                    | 35.54 (17.84)                                         | 39.95 8.5, 73.6)                                      | 31.59 (3.847)                                         | 24.02, 39.16                                          | <0.0001                                               |
-| Month 18                                              | 17                                                    | 31.14 (13.75)                                         | 32.00 (10.3, 57.9)                                    | 26.83 (3.854)                                         | 19.24, 34.41                                          | <0.0001                                               |
 | Month 24                                              | 17                                                    | 32.98 (18.51)                                         | 33.50 (9.1, 88.3)                                     | 28.35 (3.928)                                         | 20.62, 36.08                                          | <0.0001                                               |
+| Month 60                                              | 15                                                    | 30.34 (14.54)                                         | 30.90 (8.0, 57.1)                                     | 26.73 (4.080)                                         | 18.71, 34.75                                          | <0.0001                                               |
 | Without preexisting neutralising anti-AAV5 antibodies | Without preexisting neutralising anti-AAV5 antibodies | Without preexisting neutralising anti-AAV5 antibodies | Without preexisting neutralising anti-AAV5 antibodies | Without preexisting neutralising anti-AAV5 antibodies | Without preexisting neutralising anti-AAV5 antibodies | Without preexisting neutralising anti-AAV5 antibodies |
 | Baseline                                              | 33                                                    | 1.15 (0.36)                                           | 1.00 (1.0, 2.0)                                       | n.a.                                                  | n.a.                                                  | n.a.                                                  |
 | Month 6                                               | 33                                                    | 40.61 (18.64)                                         | 37.30 (8.4, 97.1)                                     | 39.46 (3.172)                                         | 33.23, 45.69                                          | <0.0001                                               |
 | Month 12                                              | 32                                                    | 44.82 (23.21)                                         | 38.65 (5.9, 113.0)                                    | 43.07 (3.176)                                         | 36.83, 49.31                                          | <0.0001                                               |
-| Month 18                                              | 33                                                    | 39.87 (24.08)                                         | 35.00 (4.5, 122.9)                                    | 38.72 (3.172)                                         | 32.49, 44.95                                          | <0.0001                                               |
 | Month 24                                              | 33                                                    | 38.55 (19.19)                                         | 35.40 (4.7, 99.2)                                     | 37.40 (2.933)                                         | 31.64, 43.16                                          | <0.0001                                               |
+| Month 60                                              | 33                                                    | 38.71 (15.68)                                         | 36.40 (5.0, 74.5)                                     | 37.56 (2.776)                                         | 32.11, 43.01                                          | <0.0001                                               |
 
-Abbreviations: FAS = Full Analysis Set including all 54 patients dosed; aPTT = activated partial thromboplastin time; CI = confidence interval; LS = least square; max = maximum; min = minimum; n.a.
-
-= not applicable; SD = standard deviation; SE = standard error.
+Abbreviations: FAS = Full Analysis Set including all 54 patients dosed; aPTT = activated partial thromboplastin time; CI = confidence interval; LS = least square; max = maximum; min = minimum; n.a. = not applicable; SD = standard deviation; SE = standard error.
 
 † Least squares mean (SE): from repeated measures linear mixed model with visit as a categorical covariate.
 
+# Uncontaminated: the blood samples collected within 5 half-lives of exogenous Factor IX use were excluded. Both the date and time of exogenous Factor IX use and blood sampling were considered in determining contamination. Patients with zero uncontaminated central laboratory post-treatment values had their change from baseline assigned to zero for this analysis, and had their post-baseline values set equal to their baseline value. Baseline Factor IX was imputed based on patients' historical Haemophilia B severity documented on the case report form. The FAS included 1 patient who received only 10% of the planned dose, 2 patients who died at month 15 and 55, respectively, post-dose due to unrelated concomitant disease, 1 patient who did not respond to treatment, 2 patients with contamination with exogenous Factor IX, and 1 patient with liver transplantation due to unrelated concomitant disease. Accordingly, the population data included 54 to 47 patients with uncontaminated sampling.
+
+The study also demonstrated superiority of etranacogene dezaparvovec at 18-months post-dose over the regular exogenous Factor IX prophylaxis in the lead-in period (see Table 9). The ABR for Factor IXtreated bleeding episodes during the month 7 to 18 post-dose period was reduced by 77% (see Table 9).
+
+Table 9. Annualised Bleeding Rates for Factor IX-treated bleeding episodes
+
+|                                                   | ≥ 6-month lead-in period FAS (N=54)   | 7-18 months post-dose FAS (N=54)   | 7-60 months post-dose FAS (N=54)   |
+|---------------------------------------------------|---------------------------------------|------------------------------------|------------------------------------|
+| Number of patients with Factor IX- treated bleeds | 37 (68.5%)                            | 15 (27.8%)                         | 24 (44.4%)                         |
+
 <div style=\"page-break-after: always\"></div>
 
-The study also demonstrated superiority of etranacogene dezaparvovec at 18-months post-dose over the routine exogenous Factor IX prophylaxis in the lead-in period (see Table 8). The ABR for Factor IXtreated bleeding episodes during the month 7 to 18 post-dose period was reduced by 77% (see Table 5).
-
-Table 8. Annualised Bleeding Rates for Factor IX-treated bleeding episodes
-
-|                                                                                                                         | ≥ 6-month lead-in period FAS (N=54)   | 7-18 months post-dose FAS (N=54)   |
-|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------|------------------------------------|
-| Number of patients with Factor IX-treated bleeds                                                                        | 37/54 (68.5%)                         | 15/54 (27.8%)                      |
-| Number of Factor IX-treated bleeds                                                                                      | 118                                   | 30                                 |
-| Adjusted ABR (95% CI) for Factor IX-treated bleeds                                                                      | 3.65 (2.82, 4.74)                     | 0.84 (0.41, 1.73)                  |
-| ABR ratio for Factor IX-treated bleeds (post- treatment to lead-in) 2-sided 95% Wald CI 1-sided p-value                 | -                                     | 0.23 (0.12, 0.46) p<0.0001         |
-| Adjusted ABR (95% CI) for spontaneous bleeds treated with Factor IX                                                     | 1.34 (0.87, 2.06)                     | 0.45 (0.15, 1.39)                  |
-| ABR ratio for spontaneous bleeds treated with Factor IX (post-treatment to lead-in) 2-sided 95% Wald CI 1-sided p-value | -                                     | 0.34 (0.11, 1.00) p= 0.0254        |
-| Adjusted ABR (95% CI) for joint bleeds treated with Factor IX                                                           | 2.13 (1.58, 2.88)                     | 0.44 (0.19, 1.00)                  |
-| ABR ratio for joint bleeds treated with Factor IX (post-treatment to lead-in) 2-sided 95% Wald CI 1-sided p-value       | -                                     | 0.20 (0.09, 0.45) p<0.0001         |
+| Number of Factor IX-treated bleeds                                                                                      | 118               | 30                         | 96                          |
+|-------------------------------------------------------------------------------------------------------------------------|-------------------|----------------------------|-----------------------------|
+| Adjusted ABR (95% CI) for Factor IX-treated bleeds                                                                      | 3.65 (2.82, 4.74) | 0.84 (0.41, 1.73)          | 1.82 (0.64, 5.19)           |
+| ABR ratio for Factor IX-treated bleeds (post-treatment to lead-in) 2-sided 95% Wald CI 1-sided p-value                  | -                 | 0.23 (0.12, 0.46) p<0.0001 | 0.5 (0.18, 1.40) p<0.0943   |
+| Adjusted ABR (95% CI) for spontaneous bleeds treated with Factor IX                                                     | 1.34 (0.87, 2.06) | 0.45 (0.15, 1.39)          | 0.53 (0.20, 1.37)           |
+| ABR ratio for spontaneous bleeds treated with Factor IX (post-treatment to lead-in) 2-sided 95% Wald CI 1-sided p-value | -                 | 0.34 (0.11, 1.00) p=0.0254 | 0.35 (0.13, 0.88) p=0.0133  |
+| Adjusted ABR (95% CI) for joint bleeds treated with Factor IX                                                           | 2.13 (1.58, 2.88) | 0.44 (0.19, 1.00)          | 0.35 (0.18, 0.68)           |
+| ABR ratio for joint bleeds treated with Factor IX (post-treatment to lead-in) 2-sided 95% Wald CI 1-sided p-value       | -                 | 0.20 (0.09, 0.45) p<0.0001 | 0.15 (0.08, 0.28) p <0.0001 |
 
 Abbreviations: ABR = annualised bleeding rate; FAS = Full Analysis Set including all 54 subjects dosed; CI = confidence interval
 
-The mean consumption of Factor IX replacement therapy significantly decreased by 248,825.0 IU/year/patient (98.42%; 1-sided p&lt; 0.0001) between month 7 and 18 and by 248.392.6 IU/year/patient (96.52%; 1sided p&lt; 0.0001) between month 7 to 24 following treatment with etranacogene dezaparvovec compared to standard of care routine Factor IX prophylaxis during the lead-in period. From day 21 through to months 7 to 24, 52 of 54 (96.3%) treated patients remained free of continuous routine Factor IX prophylaxis.
+During the month 7 to 60 post-treatment, the ABR for Factor IX-treated bleeding episodes remained reduced by 50% in comparison to lead-in period (see Table 9).
 
-Overall, similar results were observed at 24 months post-dose in the phase 3 study. Of note, none of the patients showed evidence of neutralising inhibitors to etranacogene dezaparvovec-derived Factor IX over 2 years post-dose. Similarly, none of the 3 patients enrolled in the phase 2b study showed evidence of neutralising inhibitors over the period of 3 years post-dose. The 3 patients demonstrated clinically relevant increases in Factor IX activity and discontinued their routine Factor IX replacement prophylaxis over the period of 3 years post-dose.
+The mean consumption of Factor IX replacement therapy significantly decreased by 248,825.0 IU/year/patient (98.42%; 1-sided p&lt; 0.0001) between month 7 and 18 and by 248.392.6 IU/year/patient (96.52%; 1sided p&lt; 0.0001) between month 7 to 24 following treatment with etranacogene dezaparvovec compared to standard of care regular Factor IX prophylaxis during the lead-in period. From day 21 through to months 7 to 24, 52 of 54 (96.3%) treated patients remained free of continuous regular Factor IX prophylaxis. Between month 24 and 60, one patient returned to regular continuous Factor IX prophylaxis. Of 54 patients, 51 (94.4.%) remained free from regular continuous Factor IX prophylaxis from day 21 through the remainder follow-up period, demonstrating a durable therapeutic effect with reduced treatment burden.
+
+Overall, similar results were observed at 24 and 60 months post-dose in the phase 3 study. Of note, none of the patients showed evidence of neutralising inhibitors to etranacogene dezaparvovec-derived Factor IX over 5 years post-dose. Similarly, none of the 3 patients enrolled in the phase 2b study showed evidence of neutralising inhibitors over the period of 5 years post-dose. The 3 patients demonstrated clinically relevant increases in Factor IX activity and discontinued their regular Factor IX replacement prophylaxis over the period of 5 years post-dose.
 
 ## Paediatric population
 
@@ -597,9 +651,9 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 This medicinal product has been authorised under a so-called 'conditional approval' scheme. This means that further evidence on this medicinal product is awaited.
 
-<div style=\"page-break-after: always\"></div>
-
 The European Medicines Agency will review new information on this medicinal product at least every year and this SmPC will be updated as necessary.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
@@ -609,15 +663,17 @@ The etranacogene dezaparvovec-derived Factor IX protein produced in the liver is
 
 ## Clinical pharmacokinetics of shedding
 
-The pharmacokinetics of shedding was characterised following etranacogene dezaparvovec administration, using a sensitive polymerase chain reaction (PCR) assay to detect vector DNA sequences in blood and semen samples, respectively. This assay is sensitive to transgene DNA, including fragments of degraded DNA. It does not indicate whether DNA is present in the vector capsid, in cells or in the fluid phase of the matrix (e.g. blood plasma, seminal fluid), or whether intact vector is present.
+The pharmacokinetics of shedding was characterised following etranacogene dezaparvovec administration, using a quantitative polymerase chain reaction (PCR) assay to detect vector DNA sequences in blood and semen samples, respectively. This assay is sensitive to transgene DNA, including fragments of degraded DNA. It does not indicate whether DNA is present in the vector capsid, in cells or in the fluid phase of the matrix (e.g. blood plasma, seminal fluid), or whether infectious vector is present.
 
-In the phase 3 study, detectable vector DNA with a maximum vector DNA concentrations post-dose was observed in blood (n = 53/54) and semen (n = 42/54) at a median time (Tmax) of 4 hours and 42 days, respectively. The mean peak concentrations were 2.2 × 10 10 copies/mL and 3.8 × 10 5 copies/mL in blood and semen, respectively. After reaching the maximum in a matrix, the transgene DNA concentration declines steadily. Shedding-negative status in patients was defined as having 3 consecutive samples at vector DNA concentration below the limit of detection (&lt;LOD). U sing this definition, a total of 56% (30/54) of patients reached absence of vector DNA from blood and 69% (37/54) from semen by month 24. The median time to absence of shedding was 52.3 weeks in blood and 45.8 weeks in semen at 24 months post-dose. Several subjects did not return the required number of blood and semen samples to assess the shedding status as per the definition. Considering shedding results obtained from the final 2 available consecutive samples, a total of 40/54 (74%) and 47/54 (87%) patients were identified to have reached absence of vector DNA from blood and semen, respectively, at 24 months post-dose.
+In the phase 3 study, detectable vector DNA with a maximum vector DNA concentrations post-dose was observed in blood (n = 53/54) and semen (n = 42/54) at a median time (Tmax) of 4 hours and 42 days, respectively. The mean peak concentrations were 2.2 × 10 10 copies/mL and 3.8 × 10 5 copies/mL in blood and semen, respectively. After reaching the maximum in a matrix, the transgene DNA concentration declines steadily. Shedding-negative status in patients was defined as having ≥ 3 consecutive samples at vector DNA concentration below the limit of detection (&lt;LOD). Using this definition, a total of 56% (30/54) of patients reached absence of vector DNA from blood and 69% (37/54) from semen by month 24. Several subjects did not return the required number of blood and semen samples to assess the shedding status as per the definition (n = 9, including 2 patients with no samples).
+
+Considering shedding results obtained from the final 2 available consecutive samples, while accounting for missing samples, a total of 40/54 (74%) and 47/54 (87%) patients were identified to have reached absence of vector DNA from blood and semen, respectively, at 24 months post-dose. At month 60, clearance of vector DNA, as per the definition and considering for missing samples, was confirmed in 90.7% (49/54) of patients in blood and in 83.3% (45/54) of patients in semen. The median time to absence of shedding was 52.6 weeks in blood and 43.7 weeks in semen at 60 months post-dose.
 
 ## Pharmacokinetics in special populations
 
 ## Patients with renal impairment
 
-In the phase 3 study, majority (n=45) of the patients had normal renal function (creatinine clearance (CLcr) = ≥90 mL/min defined by Cockcroft-Gault equation), 7 patients had mild renal impairment (CLcr = 60 to 89 mL/min) and 1 patient had moderate renal impairment (CLcr = 30 to 59 mL/min). No clinically relevant differences in Factor IX activity were observed between these patients.
+In the phase 3 study, majority (n = 45) of the patients had normal renal function (creatinine clearance (CLcr) = ≥90 mL/min defined by Cockcroft-Gault equation), 7 patients had mild renal impairment (CLcr = 60 to 89 mL/min) and 1 patient had moderate renal impairment (CLcr = 30 to 59 mL/min). No clinically relevant differences in Factor IX activity were observed between these patients.
 
 Etranacogene dezaparvovec was not studied in patients with severe renal impairment (CLcr = 15 to 29 mL/min) or end-stage renal disease (CLCr &lt;15 mL/min).
 
@@ -631,11 +687,11 @@ Patients with severe liver impairment and advanced fibrosis were not studied (se
 
 ## General toxicity
 
-Preclinical studies were initiated with a gene therapy product employing the recombinant adenoassociated virus serotype 5 (rAAV5) expressing the wild type of the human coagulation Factor IX (rAAV5-hFIX). Etranacogene dezaparvovec (rAAV5-hFIX-Padua) was subsequently developed from rAAV5-hFIX by introduction of a 2 nucleotide change in the transgene for human Factor IX, generating
+Preclinical studies were initiated with a gene therapy product employing the recombinant adenoassociated virus serotype 5 (rAAV5) expressing the wild type of the human coagulation Factor IX (rAAV5-hFIX). Etranacogene dezaparvovec (rAAV5-hFIX-Padua) was subsequently developed from
 
 <div style=\"page-break-after: always\"></div>
 
-thereby the naturally occurring Padua variant of Factor IX, which exhibits significantly augmented activity (see section 5.1).
+rAAV5-hFIX by introduction of a 2 nucleotide change in the transgene for human Factor IX, generating thereby the naturally occurring Padua variant of Factor IX, which exhibits significantly augmented activity (see section 5.1).
 
 The No Observed-Adverse-Effect-Level (NOAEL) was observed at 9x10 13  gc/kg body weight in nonhuman primates, which is approximately 5-fold above the human etranacogene dezaparvovec dose of 2x10 13 gc/kg body weight.
 
@@ -697,7 +753,7 @@ The total number of vials in each finished pack corresponds to the dosing requir
 
 ## 6.6 Special precautions for disposal and other handling
 
-Precautions to be taken before handling or administering the medicinal product
+## Precautions to be taken before handling or administering the medicinal product
 
 This medicinal product contains genetically modified organisms (GMOs).
 
@@ -706,35 +762,58 @@ Personal protective equipment, including gloves, safety goggles, protective clot
 Preparation of etranacogene dezaparvovec prior to administration
 
 1. Use aseptic techniques during the preparation and administration of etranacogene dezaparvovec.
-2. Use etranacogene dezaparvovec vial(s) only once (single-use vial(s)).
-3. Verify the required dose of etranacogene dezaparvovec based on the patient's body weight. The total number of vials in each finished pack corresponds to the dosing requirement for each individual patient based on the body weight.
-4. Etranacogene dezaparvovec must be diluted with sodium chloride 9 mg/mL (0.9%) solution for injection prior to administration.
-5. -Withdraw the volume of the calculated Hemgenix dose (in mL) from the 500 mL-infusion bag(s) with sodium chloride 9 mg/mL (0.9%) solution for injection. The volume to be withdrawn will vary based on the patient body weight.
-6. o For patients &lt;120 kg body weight, withdraw the volume of sodium chloride 9 mg/mL (0.9%) solution for injection corresponding to the total Hemgenix dose (in mL) from one 500 mL-infusion bag.
+2. Do not expose etranacogene dezaparvovec to the light of an ultraviolet radiation disinfection lamp.
+3. Use etranacogene dezaparvovec vial(s) only once (single-use vial(s)).
+4. Verify the required dose of etranacogene dezaparvovec based on the patient's body weight. The total number of vials in each finished pack corresponds to the dosing requirement for each individual patient based on the body weight.
+
+Example calculation for 72 kg patient:
+
+| Patient body weight   | Etranacogene dezaparvovec dose (mL) = body weight × 2   |   Number of vials * needed = Etranacogene dezaparvovec dose (mL) divided by 10, then rounded up to the nearest whole number of vials |
+|-----------------------|---------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| 72 kg                 | 144 mL                                                  |                                                                                                                                   15 |
 
 <div style=\"page-break-after: always\"></div>
 
-- o For patients ≥120 kg body weight, withdraw the volume of sodium chloride 9 mg/mL (0.9%) solution for injection corresponding to the total Hemgenix dose (in mL) from two 500 mL-infusion bags, by withdrawing half of the volume from each of the two 500 mLinfusion bags.
-- -Add subsequently the required etranacogene dezaparvovec dose to the infusion bag(s) to bring the total volume in each infusion bag back to 500 mL.
-5. Add the Hemgenix dose directly into the sodium chloride 9 mg/mL (0.9%) solution for injection. Do not add the Hemgenix dose into the air in the infusion bag during diluting.
-6. Gently invert the infusion bag(s) at least 3 times to mix the solution and ensure even distribution of the diluted product.
-7. To avoid foaming:
-- -Do not shake the etranacogene dezaparvovec vial(s) and the prepared infusion bag(s).
-- -Do not use filter needles during preparation of etranacogene dezaparvovec.
-8. To reduce the risk of spillage and/or aerosol formation, the infusion bag(s) should be provided connected to an infusion tubing prefilled with sterile sodium chloride 9 mg/mL (0.9%) solution for injection.
-9. The infusion tubing prefilled with sterile sodium chloride 9 mg/mL (0.9%) solution for injection should be connected to the main intravenous infusion line also primed with sterile sodium chloride 9 mg/mL (0.9%) solution for injection prior to use.
-10. Use only sodium chloride 9 mg/mL (0.9%) solution for injection since the stability of etranacogene dezaparvovec has not been determined with other solutions and diluents.
-11. Do not infuse the diluted etranacogene dezaparvovec solution in the same intravenous line with any other products.
-12. Do not use a central line or port.
+* The total volume of the patient's etranacogene dezaparvovec dose to be diluted may be less than the total volume of vials needed.
+
+The patient body weight used for the dose calculation should be taken to the nearest full kilogram.
+
+## Example:
+
+For a patient weighing between 72.1 kg to 72.4 kg use 72 kg. For a patient weighing between 72.5 kg to 72.9 kg use 73 kg.
+
+5. Etranacogene dezaparvovec must be diluted with sodium chloride 9 mg/mL (0.9%) solution for injection prior to administration.
+2. -Prior to dilution, inspect each of the etranacogene dezaparvovec vials.
+3. o If particulates, cloudiness, or discoloration is visible, do not use the vial(s).
+4. -Gently swirl the vials 3 times (about 10 seconds) to homogenize the etranacogene dezaparvovec suspension.
+5. o To avoid foaming, do not shake the etranacogene dezaparvovec vial(s).
+6. -Withdraw the volume of the calculated Hemgenix dose (in mL) from the 500 mL-infusion bag(s) with sodium chloride 9 mg/mL (0.9%) solution for injection. The volume to be withdrawn will vary based on the patient body weight.
+7. o For patients &lt;120 kg body weight, withdraw the volume of sodium chloride 9 mg/mL (0.9%) solution for injection corresponding to the total Hemgenix dose (in mL) from one 500 mL-infusion bag.
+8. o For patients ≥120 kg body weight, withdraw the volume of sodium chloride 9 mg/mL (0.9%) solution for injection corresponding to the total Hemgenix dose (in mL) from two 500 mL-infusion bags, by withdrawing half of the volume from each of the two 500 mLinfusion bags.
+9. -Withdraw etranacogene dezaparvovec from each vial using a 20 G needle and syringe.
+10. -Add subsequently the required etranacogene dezaparvovec dose to the infusion bag(s) to bring the total volume in each infusion bag back to 500 mL.
+6. Add the Hemgenix dose directly into the sodium chloride 9 mg/mL (0.9%) solution for injection. Do not add the Hemgenix dose into the air in the infusion bag during diluting.
+7. Gently invert the infusion bag(s) at least 3 times (about 10 seconds) to mix the solution and ensure even distribution of the diluted product.
+8. To avoid foaming:
+14. -Do not shake the prepared infusion bag(s).
+15. -Do not use filter needles during preparation of etranacogene dezaparvovec.
+9. To reduce the risk of spillage and/or aerosol formation, the infusion bag(s) should be provided connected to an infusion tubing prefilled with sterile sodium chloride 9 mg/mL (0.9%) solution for injection.
+10. The infusion tubing prefilled with sterile sodium chloride 9 mg/mL (0.9%) solution for injection should be connected to the main intravenous infusion line also primed with sterile sodium chloride 9 mg/mL (0.9%) solution for injection prior to use.
+11. Use only sodium chloride 9 mg/mL (0.9%) solution for injection since the stability of etranacogene dezaparvovec has not been determined with other solutions and diluents.
+12. Do not infuse the diluted etranacogene dezaparvovec solution in the same intravenous line with any other products.
+13. Do not use a central line or port.
 
 ## Administration
 
-13. Diluted etranacogene dezaparvovec should be visually inspected prior to administration. The diluted etranacogene dezaparvovec should be a clear, colourless solution. If particulates, cloudiness or discoloration are visible in the infusion bag, do not use etranacogene dezaparvovec.
-14. Use the product after dilution as soon as possible. You must not exceed the storage time of the diluted product beyond that provided section 6.3.
-15. Use an integrated (in-line) 0.2 µm filter made out of polyethersulfone (PES).
-16. The diluted etranacogene dezaparvovec solution must be administered into a peripheral vein by a separate intravenous infusion line through a peripheral venous catheter.
-17. Etranacogene dezaparvovec solution should be infused closely following the infusion rate(s) provided in section 4.2. The administration should be completed within ≤24 hours after the dose preparation (see section 4.2).
-18. After the entire content of the infusion bag(s) is infused, the infusion line must be flushed at the same infusion rate with sodium chloride 9 mg/mL (0.9%) solution for injection to ensure all etranacogene dezaparvovec is delivered.
+14. Diluted etranacogene dezaparvovec should be visually inspected prior to administration. The diluted etranacogene dezaparvovec should be a clear, colourless solution. If particulates, cloudiness or discoloration are visible in the infusion bag, do not use etranacogene dezaparvovec.
+15. Use the product after dilution as soon as possible. You must not exceed the storage time of the diluted product beyond that provided section 6.3.
+16. Use an integrated (in-line) 0.2 µm filter made out of polyethersulfone (PES).
+
+<div style=\"page-break-after: always\"></div>
+
+17. The diluted etranacogene dezaparvovec solution must be administered into a peripheral vein by a separate intravenous infusion line through a peripheral venous catheter.
+18. Etranacogene dezaparvovec solution should be infused closely following the infusion rate(s) provided in section 4.2. The administration should be completed within ≤24 hours after the dose preparation (see section 4.2).
+19. After the entire content of the infusion bag(s) is infused, the infusion line must be flushed at the same infusion rate with sodium chloride 9 mg/mL (0.9%) solution for injection to ensure all etranacogene dezaparvovec is delivered.
 
 ## Measures to take in case of accidental exposure
 
@@ -746,8 +825,6 @@ In case of accidental exposure local guidance for pharmaceutical waste must be f
 - o In case of accidental inhalation, move the person into fresh air.
 - o In case of accidental oral exposure, abundantly rinse mouth with water.
 - o In each case, obtain subsequently medical attention.
-
-<div style=\"page-break-after: always\"></div>
 
 Work surfaces and materials which have potentially been in contact with etranacogene dezaparvovec must be decontaminated with appropriate disinfectant with viricidal activity (e.g. a chlorine releasing disinfectant like hypochlorite containing 0.1% available chlorine (1000 ppm)) after usage.
 
@@ -769,7 +846,9 @@ EU/1/22/1715/001
 
 Date of first authorisation: 20 February 2023
 
-Date of first renewal: 07 December 2023
+Date of latest renewal: 16 January 2026
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -905,9 +984,8 @@ Due date
 
 <div style=\"page-break-after: always\"></div>
 
-| In order to confirm the efficacy and safety of etranacogene dezaparvovec in adult patients with severe and moderately severe Haemophilia B (congenital Factor IX deficiency) without a history of Factor IX inhibitors, the MAHshould submit the final results (5 years of data) of pivotal Study CT-AMT-061-02 with 54 subjects.                                                                                        | 31 October 2025   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
-| In order to confirm the efficacy and safety of etranacogene dezaparvovec in adult patients with severe and moderately severe Haemophilia B (congenital Factor IX deficiency) without a history of Factor IX inhibitors, irrespective of baseline anti-AAV5 neutralising antibody titre, theMAH should submit the 1-year follow-up interim analysis report after the first 50 subjects are enrolled in Study CSL222_4001. | 31 December 2026  |
+| In order to confirm the efficacy and safety of etranacogene dezaparvovec in adult patients with severe and moderately severe Haemophilia B (congenital Factor IX deficiency) without a history of Factor IX inhibitors, irrespective of baseline anti-AAV5 neutralising antibody titre, theMAH should submit the 1-year follow-up interim analysis report after the first 50 subjects are enrolled in Study CSL222_4001.   | 31 December 2026   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -965,17 +1043,19 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+<div style=\"page-break-after: always\"></div>
+
 Store in a refrigerator.
 
 Do not freeze.
 
 Store in the original package in order to protect from light.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-This medicine contains genetically-modified organisms. Dispose of in compliance with the local guidance for pharmaceutical waste.
+This medicine contains genetically-modified organisms.
+
+Dispose of in compliance with the local guidance for pharmaceutical waste.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -985,14 +1065,15 @@ CSL Behring GmbH D-35041 Marburg Germany
 
 EU/1/22/1715/001
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -1002,15 +1083,15 @@ Justification for not including Braille accepted.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL                                                       |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1018,13 +1099,11 @@ Hemgenix 1 x 10 13 genome copies/mL sterile concentrate etranacogene dezaparvove
 
 2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+4. BATCH NUMBER
 
 Lot
 
@@ -1032,8 +1111,7 @@ Lot
 
 10 mL
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1111,6 +1189,7 @@ Your doctor will conduct blood tests to check for certain antibodies (proteins) 
 In order to decide if this medicine is suitable for you, your doctor will check the status of your liver health before you start treatment with Hemgenix and perform:
 
 -  Blood tests to check the level of liver enzyme in your blood
+-  Blood tests to check for active liver infection (Hepatitis B and C)
 -  Liver ultrasound
 -  Elastography testing to check for scarring or thickening of your liver.
 
@@ -1161,7 +1240,7 @@ After treatment with Hemgenix, your Factor IX protein level may increase. In som
 
 <div style=\"page-break-after: always\"></div>
 
-- -Your doctor will regularly monitor your blood for any potential abnormalities in Factor IX levels, in particular if you continue receiving your routine Factor IX prophylaxis (Factor IX replacement therapy) after Hemgenix administration (see also section 3 'How to use Hemgenix').
+- -Your doctor will regularly monitor your blood for any potential abnormalities in Factor IX levels, in particular if you continue receiving your regular Factor IX prophylaxis (Factor IX replacement therapy) after Hemgenix administration (see also section 3 'How to use Hemgenix').
 - -Consult your doctor immediately, if you observe signs of abnormal clotting, such as sudden chest pain, shortness of breath, sudden onset of muscle weakness, loss of sensation and/or balance, decreased alertness, difficulty in speaking, or swelling of one or both legs.
 
 ## Avoiding blood donations and donations for transplantations
@@ -1347,19 +1426,27 @@ Tel: +420 702 137 233
 
 ## Danmark
 
-CSL Behring AB Tlf: +46 8 544 966 70
+CSL Behring AB
+
+Tlf: +46 8 544 966 70
 
 ## Deutschland
 
-CSL Behring GmbH Tel: +49 6190 75 84810
+CSL Behring GmbH
+
+Tel: +49 6190 75 84810
 
 ## Eesti
 
-CentralPharma Communications OÜ Tel: +3726015540
+CentralPharma Communications OÜ
+
+Tel: +3726015540
 
 ## Ελλάδα
 
-CSL Behring ΕΠΕ Τηλ: +30 210 7255 660
+CSL Behring ΕΠΕ
+
+Τηλ: +30 210 7255 660
 
 ## España
 
@@ -1369,31 +1456,45 @@ Tel: +34 933 67 1870
 
 ## France
 
-CSL Behring SA Tél: +33 1 53 58 54 00
+CSL Behring SA
+
+Tél: +33 1 53 58 54 00
 
 ## Hrvatska
 
-Marti Farm d.o.o. Tel: +385 1 5588297
+Marti Farm d.o.o.
+
+Tel: +385 1 5588297
 
 ## Ireland
 
-CSL Behring GmbH Tel: +49 69 305 17254
+CSL Behring GmbH
+
+Tel: +49 6190 75 84700
 
 ## Ísland
 
-CSL Behring AB Sími: +46 8 544 966 70
+CSL Behring AB
+
+Sími: +46 8 544 966 70
 
 ## Italia
 
-CSL Behring S.p.A. Tel: +39 02 34964 200
+CSL Behring S.p.A.
+
+Tel: +39 02 34964 200
 
 ## Κύπρος
 
-CSL Behring ΕΠΕ Τηλ: +30 210 7255 660
+CSL Behring ΕΠΕ
+
+Τηλ: +30 210 7255 660
 
 ## Latvija
 
-CentralPharma Communications SIA Tel: +371 6 7450497
+CentralPharma Communications SIA
+
+Tel: +371 6 7450497
 
 ## Lietuva
 
@@ -1409,7 +1510,9 @@ Tel: +356 2397 6333
 
 ## Nederland
 
-CSL Behring BV Tel: +31 85 111 96 00
+CSL Behring BV
+
+Tel: +31 85 111 96 00
 
 ## Norge
 
@@ -1417,7 +1520,9 @@ CSL Behring AB Tlf: +46 8 544 966 70
 
 ## Österreich
 
-CSL Behring GmbH Tel: +43 1 80101 1040
+CSL Behring GmbH
+
+Tel: +43 1 80101 1040
 
 ## Polska
 
@@ -1427,7 +1532,9 @@ Tel.: +48 22 213 22 65
 
 ## Portugal
 
-CSL Behring Lda Tel: +351 21 782 62 30
+CSL Behring Lda
+
+Tel: +351 21 782 62 30
 
 ## România
 
@@ -1437,19 +1544,29 @@ Tel: +40 21 322 01 71
 
 ## Slovenija
 
-EMMES BIOPHARMA GLOBAL s.r.o podružnica v Sloveniji Tel: +386 41 42 0002
+Emmes Biopharma Global s.r.o. - podružnica v
+
+Sloveniji
+
+Tel: +386 41 42 0002
 
 ## Slovenská republika
 
-CSL Behring Slovakia s.r.o. Tel: +421 911 653 862
+CSL Behring Slovakia s.r.o.
+
+Tel: +421 911 653 862
 
 ## Suomi/Finland
 
-CSL Behring AB Puh/Tel: +46 8 544 966 70
+CSL Behring AB
+
+Puh/Tel: +46 8 544 966 70
 
 ## Sverige
 
-CSL Behring AB Tel: +46 8 544 966 70
+CSL Behring AB
+
+Tel: +46 8 544 966 70
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1463,7 +1580,7 @@ The European Medicines Agency will review new information on this medicine at le
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
 
@@ -1479,44 +1596,68 @@ This medicinal product contains genetically modified organisms (GMOs).
 
 Personal protective equipment, including gloves, safety goggles, protective clothing and masks, should be worn while preparing and administering etranacogene dezaparvovec.
 
-## Preparation of etranacogene dezaparvovec prior to administration
-
 1. Use aseptic techniques during the preparation and administration of etranacogene dezaparvovec.
-2. Use etranacogene dezaparvovec vial(s) only once (single-use vial(s)).
-3. Verify the required dose of etranacogene dezaparvovec based on the patient's body weight. The total number of vials in each finished pack corresponds to the dosing requirement for each individual patient based on the body weight.
-4. Etranacogene dezaparvovec must be diluted with sodium chloride 9 mg/mL (0.9%) solution for injection prior to administration.
-5. -Withdraw the volume of the calculated Hemgenix dose (in mL) from the 500 mL-infusion bag(s) with sodium chloride 9 mg/mL (0.9%) solution for injection. The volume to be withdrawn will vary based on the patient body weight.
-6. o For patients &lt;120 kg body weight, withdraw the volume of sodium chloride 9 mg/mL (0.9%) solution for injection corresponding to the total Hemgenix dose (in mL) from one 500 mL-infusion bag.
-7. o For patients ≥120 kg body weight, withdrawn the volume of sodium chloride 9 mg/mL (0.9%) solution for injection corresponding to the total Hemgenix dose (in mL) from two 500 mL-infusion bags, by withdrawing half of the volume from each of the two 500 mLinfusion bags.
-8. -Add subsequently the required Hemgenix dose to the infusion bag(s) to bring the total volume in each infusion bag back to 500 mL.
-5. Add the Hemgenix dose directly into the sodium chloride 9 mg/mL (0.9%) solution for injection. Do not add the Hemgenix dose into the air within the infusion bag during diluting.
-6. Gently invert the infusion bag(s) at least 3 times to mix the solution and ensure even distribution of the diluted product.
-7. To avoid foaming:
-12. -Do not shake the etranacogene dezaparvovec vial(s) and the prepared infusion bag(s).
-13. -Do not use filter needles during preparation of etranacogene dezaparvovec.
+2. Do not expose etranacogene dezaparvovec to the light of an ultraviolet radiation disinfection lamp.
+3. Use etranacogene dezaparvovec vial(s) only once (single-use vial(s)).
+4. Verify the required dose of etranacogene dezaparvovec based on the patient's body weight. The total number of vials in each finished pack corresponds to the dosing requirement for each individual patient based on the body weight.
+
+## Example calculation for 72 kg patient:
+
+| Patient body weight   | Etranacogene dezaparvovec dose (mL) = body weight × 2   |   Number of vials * needed = Etranacogene dezaparvovec dose (mL) divided by 10, then rounded up to the nearest whole number of vials |
+|-----------------------|---------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| 72 kg                 | 144 mL                                                  |                                                                                                                                   15 |
+
+* The total volume of the patient's etranacogene dezaparvovec dose to be diluted may be less than the total volume of vials needed.
+
+The patient body weight used for the dose calculation should be taken to the nearest full kilogram.
+
+## Example:
+
+For a patient weighing between 72.1 kg to 72.4 kg use 72 kg.
+
+For a patient weighing between 72.5 kg to 72.9 kg use 73 kg.
+
+5. Etranacogene dezaparvovec must be diluted with sodium chloride 9 mg/mL (0.9%) solution for injection prior to administration.
+2. -Prior to dilution, inspect each of the etranacogene dezaparvovec vials.
+3. o If particulates, cloudiness, or discoloration is visible, do not use the vial(s).
+4. -Gently swirl the vials 3 times (about 10 seconds) to homogenize the etranacogene dezaparvovec suspension.
 
 <div style=\"page-break-after: always\"></div>
 
-8. To reduce the risk of spillage and/or aerosol formation, the infusion bag(s) should be provided connected to an infusion tubing prefilled with sterile sodium chloride 9 mg/mL (0.9%) solution for injection.
-9. The infusion tubing prefilled with sterile sodium chloride 9 mg/mL (0.9%) solution for injection should be connected to the main intravenous infusion line also primed with sterile sodium chloride 9 mg/mL (0.9%) solution for injection prior to use.
-10. Use only sodium chloride 9 mg/mL (0.9%) solution for injection since the stability of etranacogene dezaparvovec has not been determined with other solutions and diluents.
-11. Do not infuse the diluted etranacogene dezaparvovec solution in the same intravenous line with any other products.
-12. Do not use a central line or port.
+- o To avoid foaming, do not shake the etranacogene dezaparvovec vial(s).
+- -Withdraw the volume of the calculated Hemgenix dose (in mL) from the 500 mL-infusion bag(s) with sodium chloride 9 mg/mL (0.9%) solution for injection. The volume to be withdrawn will vary based on the patient body weight.
+- o For patients &lt;120 kg body weight, withdraw the volume of sodium chloride 9 mg/mL (0.9%) solution for injection corresponding to the total Hemgenix dose (in mL) from one 500 mL-infusion bag.
+- o For patients ≥120 kg body weight, withdraw the volume of sodium chloride 9 mg/mL (0.9%) solution for injection corresponding to the total Hemgenix dose (in mL) from two 500 mL-infusion bags, by withdrawing half of the volume from each of the two 500 mLinfusion bags.
+- -Withdraw etranacogene dezaparvovec from each vial using a 20 G needle and syringe.
+- -Add subsequently the required etranacogene dezaparvovec dose to the infusion bag(s) to bring the total volume in each infusion bag back to 500 mL.
+6. Add the Hemgenix dose directly into the sodium chloride 9 mg/mL (0.9%) solution for injection. Do not add the Hemgenix dose into the air in the infusion bag during diluting.
+7. Gently invert the infusion bag(s) at least 3 times (about 10 seconds) to mix the solution and ensure even distribution of the diluted product.
+8. To avoid foaming:
+- -Do not shake the prepared infusion bag(s).
+- -Do not use filter needles during preparation of etranacogene dezaparvovec.
+9. To reduce the risk of spillage and/or aerosol formation, the infusion bag(s) should be provided connected to an infusion tubing prefilled with sterile sodium chloride 9 mg/mL (0.9%) solution for injection.
+10. The infusion tubing prefilled with sterile sodium chloride 9 mg/mL (0.9%) solution for injection should be connected to the main intravenous infusion line also primed with sterile sodium chloride 9 mg/mL (0.9%) solution for injection prior to use.
+11. Use only sodium chloride 9 mg/mL (0.9%) solution for injection since the stability of etranacogene dezaparvovec has not been determined with other solutions and diluents.
+12. Do not infuse the diluted etranacogene dezaparvovec solution in the same intravenous line with any other products.
+13. Do not use a central line or port.
 
 ## Administration
 
-13. Diluted etranacogene dezaparvovec should be visually inspected prior to administration. The diluted etranacogene dezaparvovec should be a clear, colourless solution. If particulates, cloudiness or discoloration are visible in the infusion bag, do not use etranacogene dezaparvovec.
-14. Use the product after dilution as soon as possible. You must not exceed the storage time of the diluted product beyond that provided in SmPC section 6.3.
-15. Use an integrated (in-line) 0.2 µm filter made out of polyethersulfone (PES).
-16. The diluted etranacogene dezaparvovec solution must be administered into a peripheral vein by a separate intravenous infusion line through a peripheral venous catheter.
-17. Etranacogene dezaparvovec solution should be infused closely following the infusion rate(s) provided in SmPC section 4.2. The administration should be completed within ≤24 hours after the dose preparation (see SmPC section 4.2).
-18. After the entire content of the infusion bag(s) is infused, the infusion line must be flushed at the same infusion rate with sodium chloride 9 mg/mL (0.9%) solution for injection to ensure all etranacogene dezaparvovec is delivered.
+14. Diluted etranacogene dezaparvovec should be visually inspected prior to administration. The diluted etranacogene dezaparvovec should be a clear, colourless solution. If particulates, cloudiness or discoloration are visible in the infusion bag, do not use etranacogene dezaparvovec.
+15. Use the product after dilution as soon as possible. You must not exceed the storage time of the diluted product beyond that provided section 6.3.
+16. Use an integrated (in-line) 0.2 µm filter made out of polyethersulfone (PES).
+17. The diluted etranacogene dezaparvovec solution must be administered into a peripheral vein by a separate intravenous infusion line through a peripheral venous catheter.
+18. Etranacogene dezaparvovec solution should be infused closely following the infusion rate(s) provided in section 4.2. The administration should be completed within ≤24 hours after the dose preparation (see section 4.2).
+19. After the entire content of the infusion bag(s) is infused, the infusion line must be flushed at the same infusion rate with sodium chloride 9 mg/mL (0.9%) solution for injection to ensure all etranacogene dezaparvovec is delivered.
 
 ## Measures to take in case of accidental exposure
 
 In case of accidental exposure local guidance for pharmaceutical waste must be followed.
 
 - o In case of accidental exposure to eyes, immediately flush eyes with water for at least 15 minutes. Do not use alcohol solution.
+
+<div style=\"page-break-after: always\"></div>
+
 - o In case of accidental needle stick exposure, encourage bleeding of the wound and wash injection area well with soap and water.
 - o In case of accidental exposure to skin, the affected area must be thoroughly cleaned with soap and water for at least 15 minutes. Do not use alcohol solution.
 - o In case of accidental inhalation, move the person into fresh air.
@@ -1530,7 +1671,5 @@ Work surfaces and materials which have potentially been in contact with etranaco
 Unused medicinal product and disposable material that may have come in contact with Hemgenix (solid and liquid waste) must be disposed of in compliance with the local guidance for pharmaceutical waste. The risk of an adverse effect to human health upon accidental exposure to Hemgenix and the environmental risks are, however, considered negligible.
 
 Caregivers should be advised on the proper handling of waste material generated from contaminated medicinal ancillaries during Hemgenix use.
-
-<div style=\"page-break-after: always\"></div>
 
 Work surfaces and materials which have potentially been in contact with etranacogene dezaparvovec must be decontaminated with appropriate disinfectant with viricidal activity (e.g. a chlorine releasing disinfectant like hypochlorite containing 0.1% available chlorine (1000 ppm)) after usage and then autoclaved, if possible.

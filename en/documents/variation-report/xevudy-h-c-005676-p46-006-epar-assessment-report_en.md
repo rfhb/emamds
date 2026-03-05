@@ -1,34 +1,38 @@
 ---
-document_datetime: 2023-10-31 11:06:35
+document_datetime: 2026-03-04 11:04:14
 document_pages: 8
 document_pathfilename: www.ema.europa.eu/en/documents/variation-report/xevudy-h-c-005676-p46-006-epar-assessment-report_en.pdf
 document_name: xevudy-h-c-005676-p46-006-epar-assessment-report_en.pdf
 version: success
-processing_time: 5.2573318
-conversion_datetime: 2025-12-24 08:06:34.957991
+processing_time: 5.5567099
+conversion_datetime: 2026-03-05 12:26:29.935718
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
-17 August 2023 EMA/CHMP/342654/2023 Human Medicines Division
+<!-- image -->
 
-## Assessment report for paediatric studies submitted according to Article 46 of the Regulation (EC) No 1901/2006
+17 August 2023 EMA/CHMP/342654/2023 Human Medicines Division Assessment report for paediatric studies submitted according to Article 46 of the Regulation (EC) No 1901/2006 Xevudy sotrovimab Procedure no: EMEA/H/C/005676/P46/006 Note Assessment report as adopted by the CHMP with all information of a commercially confidential nature deleted. Medicinal product no longer authorised
 
-## Xevudy
+●
 
-sotrovimab
+●
 
-Procedure no: EMEA/H/C/005676/P46/006
+Refer to www.ema.europa.eu/how-to-find-us
 
-## Note
+Address for visits and deliveries
 
-Assessment report as adopted by the CHMP with all information of a commercially confidential nature deleted.
+Send us a question
+
+Go to www.ema.europa.eu/contact
+
++31 (0)88 781 6000
 
 <!-- image -->
 
@@ -45,6 +49,8 @@ Assessment report as adopted by the CHMP with all information of a commercially 
 |                                                            | Updated CHMP Rapporteur Assessment Report                  | 10 Aug 2023                                                | n.a                                                        |
 |                                                            | CHMP adoption of conclusions:                              | 17 Aug 2023                                                | 17 Aug 2023                                                |
 
+<!-- image -->
+
 <div style=\"page-break-after: always\"></div>
 
 ## Table of contents
@@ -58,8 +64,10 @@ Assessment report as adopted by the CHMP with all information of a commercially 
 | 2.3.1. Introduction ................................................................................................... 5  |
 | 2.3.2. Clinical study .................................................................................................. 5 |
 | 2.3.3. Discussion on clinical aspects ............................................................................ 8       |
-| 3. CHMP overall conclusion and recommendation........................................8                                     |
+| 3. CHMP overall conclusion and recommendation........................................8 authorised                          |
 | 4. Request for supplementary information ..................................................8                               |
+
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -67,32 +75,11 @@ Assessment report as adopted by the CHMP with all information of a commercially 
 
 On 30.05.2023, in accordance with Article 46 of Regulation (EC) No1901/2006 as amended, the MAH submitted the following open-source publication describing a retrospective registry study (FAIR health study) which included patients of below 18 years of age:
 
-Cheng MM et al, Real-World Effectiveness of Sotrovimab for the Early Treatment of COVID-19 During SARS-CoV-2 Delta and Omicron Waves in the USA. Infect Dis Ther. 2023 Feb;12(2):607-621. doi: 10.1007/s40121-022-00755-0.
-
-A short clinical overview has also been provided.
-
-The MAH informs that:
-
-- A preprint of the Cheng et al article was submitted to the Agency in sequence 0034 on 30.09.2022, but at that time it was not highlighted that the study falls under Article 46.
-- The study is not a measure of the agreed paediatric investigation plan for sotrovimab (EMEA002899-PIP01-20- M02 for sotrovimab).
-- A clinical study report was not written for this study since all the results were reported in the Cheng et al publication.
-- Based on a review of the results as detailed in the Cheng et al publication, no update to the paediatric aspects of the product information is required.
-
-## 2. Scientific discussion
-
-## 2.1. Information on the development program
-
-The study described in Cheng et al is a standalone study.
-
-## 2.2. Information on the pharmaceutical formulation used in the study
-
-In the Cheng et al study, a retrospective analysis was conducted of de-identified patients diagnosed with COVID-19 between 01.09.2021 to 30.04.2022 (time period of SARS-CoV-2 delta and omicron BA.1 dominance) in the FAIR Health National Private Insurance Claims database, which contains medical and dental claims submitted by over 70 private insurers across 50 US states, Puerto Rico, and the US Virgin Islands.
-
-The study sponsors did not have access to the database or to any patient-level data.
-
-As such, it is likely that patients were treated with the Emergency Use Authorization which was in place for sotrovimab in the US until 05.04.2022 (see details in Cheng et al 2023). According to the Emergency Use Authorization, the recommended dosage of sotrovimab in patients 12 years of age and older weighing at least 40 kg was 500 mg administered as a single intravenous infusion.
+<!-- image -->
 
 However, as study sponsors did not have access to the database or to any patient-level data, details for the pharmaceutical formulation and posology are not provided in the Cheng et al publication.
+
+Cheng MM et al, Real-World Effectiveness of Sotrovimab for the Early Treatment of COVID-19 During SARS-CoV-2 Delta and Omicron Waves in the USA. Infect Dis Ther. 2023 Feb;12(2):607-621. doi: 10.1007/s40121-022-00755-0. A short clinical overview has also been provided. The MAH informs that: · A preprint of the Cheng et al article was submitted to the Agency in sequence 0034 on 30.09.2022, but at that time it was not highlighted that the study falls under Article 46. · The study is not a measure of the agreed paediatric investigation plan for sotrovimab (EMEA002899-PIP01-20- M02 for sotrovimab). · A clinical study report was not written for this study since all the results were reported in the Cheng et al publication. · Based on a review of the results as detailed in the Cheng et al publication, no update to the paediatric aspects of the product information is required. 2. Scientific discussion 2.1. Information on the development program The study described in Cheng et al is a standalone study. 2.2. Information on the pharmaceutical formulation used in the study In the Cheng et al study, a retrospective analysis was conducted of de-identified patients diagnosed with COVID-19 between 01.09.2021 to 30.04.2022 (time period of SARS-CoV-2 delta and omicron BA.1 dominance) in the FAIR Health National Private Insurance Claims database, which contains medical and dental claims submitted by over 70 private insurers across 50 US states, Puerto Rico, and the US Virgin Islands. The study sponsors did not have access to the database or to any patient-level data. As such, it is likely that patients were treated with the Emergency Use Authorization which was in place for sotrovimab in the US until 05.04.2022 (see details in Cheng et al 2023). According to the Emergency Use Authorization, the recommended dosage of sotrovimab in patients 12 years of age and older weighing at least 40 kg was 500 mg administered as a single intravenous infusion. Medicinal product no longer authorised
 
 <div style=\"page-break-after: always\"></div>
 
@@ -100,27 +87,9 @@ However, as study sponsors did not have access to the database or to any patient
 
 ## 2.3.1. Introduction
 
-See details section 1, introduction, in Cheng et al 2023.
+See details section 1, introduction, in Cheng et al 2023. 2.3.2. Clinical study Clinical study number and title FAIR health study, as described in: Cheng MM et al, Real-World Effectiveness of Sotrovimab for the Early Treatment of COVID-19 During SARS-CoV-2 Delta and Omicron Waves in the USA. Infect Dis Ther. 2023 Feb;12(2):607-621. doi: 10.1007/s40121-022-00755-0. Methods A retrospective analysis was conducted of de-identified patients diagnosed with COVID-19 between 1 September 2021 to 30 April 2022 in the FAIR Health National Private Insurance Claims database. Patients meeting high-risk criteria (i.e. eligible for sotrovimab per EUA criteria) were divided into two cohorts: sotrovimab and not treated with a mAb ('no mAb'). The predominant circulating SARS-CoV-2 variant (&gt; 99% prevalence) was Delta from 1 September to 30 November 2021. Omicron BA.1 (and sublineages) became the predominant variant between 1 December 2021 and 28 February 2022, and Omicron BA.2 (and sublineages) between 1 March and 30 April 2022. The analysis included aggregated claims records for 1,530,501 deidentified patients with a diagnosis of COVID-19 (International Classification of Diseases, 10th Revision [ICD-10]: U07.1) recorded from 1 September 2021 to 30 April 2022. The database is not linked to electronic health records; therefore, diagnoses, disease severity, and COVID-19-related hospitalizations or deaths could not be confirmed by laboratory test results or medical records. All-cause hospitalizations and facility-reported mortality ≤ 30 days of diagnosis ('30-day hospitalization or mortality') were identified. Multivariable and propensity score-matched Poisson and logistic regressions were conducted to estimate the adjusted relative risk (RR) and odds of 30-day hospitalization or mortality in each cohort. Study sponsors did not have access to the database or to any patient-level data, and were provided with monthly reports of deidentified, aggregated cohort-level data in summary tables. The patient demographics are detailed in the table below. Medicinal product no longer authorised
 
-## 2.3.2. Clinical study
-
-## Clinical study number and title
-
-FAIR health study, as described in: Cheng MM et al, Real-World Effectiveness of Sotrovimab for the Early Treatment of COVID-19 During SARS-CoV-2 Delta and Omicron Waves in the USA. Infect Dis Ther. 2023 Feb;12(2):607-621. doi: 10.1007/s40121-022-00755-0.
-
-## Methods
-
-A retrospective analysis was conducted of de-identified patients diagnosed with COVID-19 between 1 September 2021 to 30 April 2022 in the FAIR Health National Private Insurance Claims database. Patients meeting high-risk criteria (i.e. eligible for sotrovimab per EUA criteria) were divided into two cohorts: sotrovimab and not treated with a mAb ('no mAb').
-
-The predominant circulating SARS-CoV-2 variant (&gt; 99% prevalence) was Delta from 1 September to 30 November 2021. Omicron BA.1 (and sublineages) became the predominant variant between 1 December 2021 and 28 February 2022, and Omicron BA.2 (and sublineages) between 1 March and 30 April 2022.
-
-The analysis included aggregated claims records for 1,530,501 deidentified patients with a diagnosis of COVID-19 (International Classification of Diseases, 10th Revision [ICD-10]: U07.1) recorded from 1 September 2021 to 30 April 2022. The database is not linked to electronic health records; therefore, diagnoses, disease severity, and COVID-19-related hospitalizations or deaths could not be confirmed by laboratory test results or medical records.
-
-All-cause hospitalizations and facility-reported mortality ≤ 30 days of diagnosis ('30-day hospitalization or mortality') were identified. Multivariable and propensity score-matched Poisson and logistic regressions were conducted to estimate the adjusted relative risk (RR) and odds of 30-day hospitalization or mortality in each cohort.
-
-Study sponsors did not have access to the database or to any patient-level data, and were provided with monthly reports of deidentified, aggregated cohort-level data in summary tables.
-
-The patient demographics are detailed in the table below.
+<!-- image -->
 
 | Cohort characteristics             | High risk Sotrovimab N =15,633   | High risk No mAb a , N =1,514,868   | P - value          |
 |------------------------------------|----------------------------------|-------------------------------------|--------------------|
@@ -132,39 +101,41 @@ The patient demographics are detailed in the table below.
 
 <div style=\"page-break-after: always\"></div>
 
-| Cohort characteristics                                  | High risk Sotrovimab N =15,633   | High risk No mAb a , N =1,514,868   | P - value   |
-|---------------------------------------------------------|----------------------------------|-------------------------------------|-------------|
-| 1 and 2                                                 | 5450 (34.86)                     | 516,964 (34.13)                     | <0.001      |
-| 3 and 4                                                 | 3336 (21.34)                     | 324,250 (21.40)                     | <0.001      |
-| 5 and 7                                                 | 3277 (20.96)                     | 205,595 (13.57)                     | <0.001      |
-| 6 and 8                                                 | 2055 (13.15)                     | 271,037 (17.89)                     | <0.001      |
-| 9 and 10                                                | 1506 (9.63)                      | 197,022 (13.01)                     | <0.001      |
-| Rurality, no. (%)                                       |                                  |                                     |             |
-| Rural                                                   | 2847 (18.21)                     | 208,637 (13.77)                     | <0.001      |
-| Urban                                                   | 12,786 (81.79)                   | 1,306,231 (86.23)                   | <0.001      |
-| Gender, no. (%)                                         |                                  |                                     |             |
-| Female                                                  | 9188 (58.77)                     | 855,221 (56.46)                     | <0.001      |
-| Male                                                    | 6445 (41.23)                     | 659,647 (43.54)                     | <0.001      |
-| Age, years, no. (%)                                     |                                  |                                     |             |
-| 0-17                                                    | 87 (0.56)                        | 117,021 (7.72)                      | <0.001      |
-| 18-34                                                   | 1909 (12.21)                     | 279,322 (18.44)                     | <0.001      |
-| 35-49                                                   | 3815 (24.40)                     | 411,711 (27.18)                     | <0.001      |
-| 50-64                                                   | 6627 (42.39)                     | 512,330 (33.82)                     | <0.001      |
-| 65-74                                                   | 2348 (15.02)                     | 131,456 (8.68)                      | <0.001      |
-| 75+                                                     | 847 (5.42)                       | 63,028 (4.16)                       | <0.001      |
-| Mean (SD)                                               | 52.98 (14.53)                    | 45.90 (18.05)                       | <0.001      |
-| Median (IQR)                                            | 55.00 (20)                       | 48.00 (25)                          | <0.001      |
-| Documented COVID-19 vaccine, no. (%)                    |                                  |                                     |             |
-| Yes                                                     | 3177 (20.32)                     | 229,770 (15.17)                     | <0.001      |
-| No/unknown                                              | 12,456 (79.68)                   | 1,285,098 (84.83)                   | <0.001      |
-| High-risk conditions (EUA)                              |                                  |                                     |             |
-| Obesity (BMI ≥ 30 kg/m 2 )                              | 4335 (27.73)                     | 379,463 (25.05)                     | <0.001      |
-| Pregnant                                                | 1203 (7.70)                      | 75,133 (4.96)                       | <0.001      |
-| CKD                                                     | 1571 (10.05)                     | 68,168 (4.50)                       | <0.001      |
-| Diabetes                                                | 4081 (26.11)                     | 268,798 (17.74)                     | <0.001      |
-| Immunocompromising conditions/immunosuppressive therapy | 6525 (41.74)                     | 379,002 (25.02)                     | <0.001      |
+| Cohort characteristics                                  | High risk Sotrovimab N =15,633               | High risk No mAb a , N =1,514,868            | P - value                                    |
+|---------------------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
+| 1 and 2                                                 | 5450 (34.86)                                 | 516,964 (34.13)                              | <0.001                                       |
+| 3 and 4                                                 | 3336 (21.34)                                 | 324,250 (21.40)                              | <0.001                                       |
+| 5 and 7                                                 | 3277 (20.96)                                 | 205,595 (13.57)                              | <0.001                                       |
+| 6 and 8                                                 | 2055 (13.15)                                 | 271,037 (17.89)                              | <0.001                                       |
+| 9 and 10                                                | 1506 (9.63)                                  | 197,022 (13.01)                              | <0.001                                       |
+| Rurality, no. (%) authorised                            | Rurality, no. (%) authorised                 | Rurality, no. (%) authorised                 | Rurality, no. (%) authorised                 |
+| Rural                                                   | 2847 (18.21)                                 | 208,637 (13.77)                              | <0.001                                       |
+| Urban                                                   | 12,786 (81.79)                               | 1,306,231 (86.23)                            | <0.001                                       |
+| Gender, no. (%) longer                                  | Gender, no. (%) longer                       | Gender, no. (%) longer                       | Gender, no. (%) longer                       |
+| Female                                                  | 9188 (58.77)                                 | 855,221 (56.46)                              | <0.001                                       |
+| Male                                                    | 6445 (41.23)                                 | 659,647 (43.54)                              | <0.001                                       |
+| Age, years, no. (%)                                     | Age, years, no. (%)                          | Age, years, no. (%)                          | Age, years, no. (%)                          |
+| 0-17                                                    | 87 (0.56)                                    | 117,021 (7.72)                               | <0.001                                       |
+| 18-34                                                   | 1909 (12.21) no                              | 279,322 (18.44)                              | <0.001                                       |
+| 35-49                                                   | 3815 (24.40)                                 | 411,711 (27.18)                              | <0.001                                       |
+| 50-64                                                   | 6627 (42.39)                                 | 512,330 (33.82)                              | <0.001                                       |
+| 65-74                                                   | 2348 (15.02)                                 | 131,456 (8.68)                               | <0.001                                       |
+| 75+                                                     | 847 (5.42)                                   | 63,028 (4.16)                                | <0.001                                       |
+| Mean (SD)                                               | 52.98 (14.53)                                | 45.90 (18.05)                                | <0.001                                       |
+| Median (IQR)                                            | 55.00 (20)                                   | 48.00 (25)                                   | <0.001                                       |
+| Documented COVID-19 vaccine, no. (%) product            | Documented COVID-19 vaccine, no. (%) product | Documented COVID-19 vaccine, no. (%) product | Documented COVID-19 vaccine, no. (%) product |
+| Yes                                                     | 3177 (20.32)                                 | 229,770 (15.17)                              | <0.001                                       |
+| No/unknown                                              | 12,456 (79.68)                               | 1,285,098 (84.83)                            | <0.001                                       |
+| High-risk conditions (EUA) Medicinal                    | High-risk conditions (EUA) Medicinal         | High-risk conditions (EUA) Medicinal         | High-risk conditions (EUA) Medicinal         |
+| Obesity (BMI ≥ 30 kg/m 2 )                              | 4335 (27.73)                                 | 379,463 (25.05)                              | <0.001                                       |
+| Pregnant                                                | 1203 (7.70)                                  | 75,133 (4.96)                                | <0.001                                       |
+| CKD                                                     | 1571 (10.05)                                 | 68,168 (4.50)                                | <0.001                                       |
+| Diabetes                                                | 4081 (26.11)                                 | 268,798 (17.74)                              | <0.001                                       |
+| Immunocompromising conditions/immunosuppressive therapy | 6525 (41.74)                                 | 379,002 (25.02)                              | <0.001                                       |
 
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 | Cohort characteristics      | High risk Sotrovimab N =15,633   | High risk No mAb a , N =1,514,868   | P - value   |
 |-----------------------------|----------------------------------|-------------------------------------|-------------|
@@ -175,29 +146,13 @@ The patient demographics are detailed in the table below.
 | Congenital heart disease    | 265 (1.70)                       | 23,741 (1.57)                       | 0.223       |
 | Acquired heart disease      | 5135 (32.85)                     | 323,485 (21.35)                     | <0.001      |
 | Cardiovascular disease      | 4118 (26.34)                     | 227,764 (15.04)                     | <0.001      |
-| Hypertension                | 8319 (53.21)                     | 627,283 (41.41)                     | <0.001      |
+| Hypertension                | 8319 (53.21)                     | 627,283 (41.41) authorised          | <0.001      |
 | Neurodevelopmental disorder | 970 (6.20)                       | 188,172 (12.42)                     | <0.001      |
 | Medical device              | 1462 (9.35)                      | 110,341 (7.28)                      | <0.001      |
 
-## Table text:
+<!-- image -->
 
-SD standard deviation, IQR interquartile range, EUA Emergency Use Authorization, BMI body mass index, CKD chronic kidney disease, COPD chronic obstructive pulmonary disease.
-
-a Includes 131 patients identified based on history of drug-induced anaphylaxis, which is not an EUA high-risk condition. b Diagnosis month category reflects the time period for when a circulating variant was or became predominant.
-
-c Region: region 1 (CT, ME, MA, NH, RI, VT), region 2 (NJ, NY), region 3 (DE, DC, MD, PA, VA, WV), region 4 (AL, FL, GA, KY, MS, NC, SC, TN), region 5 (IL, IN, MI, MN, OH, WI), region 6 (AR, LA, NM, OK, TX), region 7 (IA, KS, MO, NE), region 8 (CO, MT, ND, SD, UT, WY), region 9 (AZ, CA, HI, NV), and region 10 (AK, ID, OR, WA).
-
-The table is from: Cheng MM et al, Real-World Effectiveness of Sotrovimab for the Early Treatment of COVID-19 During SARS-CoV-2 Delta and Omicron Waves in the USA. Infect Dis Ther. 2023 Feb;12(2):607-621. doi: 10.1007/s40121-022-00755-0.
-
-## Efficacy results
-
-Compared with the no mAb cohort (n = 1,514,868), the sotrovimab cohort (n = 15,633) was older and had a higher proportion of patients with high-risk conditions.
-
-In the no mAb cohort, 84,307 (5.57%) patients were hospitalized and 8167 (0.54%) deaths were identified, while in the sotrovimab cohort, 418 (2.67%) patients were hospitalized and 13 (0.08%) deaths were identified.
-
-After adjusting for potential confounders, the sotrovimab cohort had a 55% lower risk of 30-day hospitalization or mortality (RR 0.45, 95% CI 0.41-0.49) and an 85% lower risk of 30-day mortality (RR 0.15, 95% CI 0.08-0.29).
-
-Monthly, from September 2021 to April 2022, the RR reduction for 30-day hospitalization or mortality in the sotrovimab cohort was maintained, ranging from 46% to 71% compared with the no mAb cohort; the RR estimate in April 2022 was uncertain, with wide confidence intervals due to the small sample size.
+Table text: SD standard deviation, IQR interquartile range, EUA Emergency Use Authorization, BMI body mass index, CKD chronic kidney disease, COPD chronic obstructive pulmonary disease. a Includes 131 patients identified based on history of drug-induced anaphylaxis, which is not an EUA high-risk condition. b Diagnosis month category reflects the time period for when a circulating variant was or became predominant. c Region: region 1 (CT, ME, MA, NH, RI, VT), region 2 (NJ, NY), region 3 (DE, DC, MD, PA, VA, WV), region 4 (AL, FL, GA, KY, MS, NC, SC, TN), region 5 (IL, IN, MI, MN, OH, WI), region 6 (AR, LA, NM, OK, TX), region 7 (IA, KS, MO, NE), region 8 (CO, MT, ND, SD, UT, WY), region 9 (AZ, CA, HI, NV), and region 10 (AK, ID, OR, WA). The table is from: Cheng MM et al, Real-World Effectiveness of Sotrovimab for the Early Treatment of COVID-19 During SARS-CoV-2 Delta and Omicron Waves in the USA. Infect Dis Ther. 2023 Feb;12(2):607-621. doi: 10.1007/s40121-022-00755-0. Efficacy results Compared with the no mAb cohort (n = 1,514,868), the sotrovimab cohort (n = 15,633) was older and had a higher proportion of patients with high-risk conditions. In the no mAb cohort, 84,307 (5.57%) patients were hospitalized and 8167 (0.54%) deaths were identified, while in the sotrovimab cohort, 418 (2.67%) patients were hospitalized and 13 (0.08%) deaths were identified. After adjusting for potential confounders, the sotrovimab cohort had a 55% lower risk of 30-day hospitalization or mortality (RR 0.45, 95% CI 0.41-0.49) and an 85% lower risk of 30-day mortality (RR 0.15, 95% CI 0.08-0.29). Monthly, from September 2021 to April 2022, the RR reduction for 30-day hospitalization or mortality in the sotrovimab cohort was maintained, ranging from 46% to 71% compared with the no mAb cohort; the RR estimate in April 2022 was uncertain, with wide confidence intervals due to the small sample size. Medicinal product no longer authorised
 
 ## Paediatric data:
 
@@ -209,28 +164,8 @@ published paper, and as mentioned above, study sponsors did not have access to t
 
 A formal report was not made for this study since all the results were reported in the Cheng et al publication (see citation in section 1, background).
 
-## Safety results
+<!-- image -->
 
-Safety outcomes not reported.
+<!-- image -->
 
-## 2.3.3. Discussion on clinical aspects
-
-As regards efficacy, the FAIR health study was conducted during a time of mainly SARS-CoV-2 delta and omicron BA.1 dominance, and as such the findings that sotrovimab treatment was associated with lower risk of 30-day hospitalization and mortality are plausible (both these virus variants are susceptible to sotrovimab).
-
-As regards safety, safety outcomes were not reported. This raises no concerns, as there is by now a relatively large number of post-marketing, real-world observational studies available for sotrovimab, supporting that the safety information in the current SmPC is valid.
-
-While the FAIR health study included 87 participants of 12-18 years of age who received sotrovimab, no analyses of the clinical outcomes by sub-group of age were included in the analysis plan, nor reported in the published paper, and as mentioned above, study sponsors did not have access to the database or to any patient-level data.
-
-As such, it is agreed that the Cheng et al study (Cheng MM et al, Infect Dis Ther. 2023, 12:607-621) does not call for updates to the paediatric aspects of the sotrovimab product information.
-
-## 3. CHMP overall conclusion and recommendation
-
-It is supported that the Cheng et al study (Cheng MM et al, Infect Dis Ther. 2023, 12:607-621) does not call for updates to the paediatric aspects of the sotrovimab product information.
-
-## Fulfilled:
-
-No regulatory action required.
-
-## 4. Request for supplementary information
-
-Not relevant.
+Safety results Safety outcomes not reported. 2.3.3. Discussion on clinical aspects As regards efficacy, the FAIR health study was conducted during a time of mainly SARS-CoV-2 delta and omicron BA.1 dominance, and as such the findings that sotrovimab treatment was associated with lower risk of 30-day hospitalization and mortality are plausible (both these virus variants are susceptible to sotrovimab). As regards safety, safety outcomes were not reported. This raises no concerns, as there is by now a relatively large number of post-marketing, real-world observational studies available for sotrovimab, supporting that the safety information in the current SmPC is valid. While the FAIR health study included 87 participants of 12-18 years of age who received sotrovimab, no analyses of the clinical outcomes by sub-group of age were included in the analysis plan, nor reported in the published paper, and as mentioned above, study sponsors did not have access to the database or to any patient-level data. As such, it is agreed that the Cheng et al study (Cheng MM et al, Infect Dis Ther. 2023, 12:607-621) does not call for updates to the paediatric aspects of the sotrovimab product information. 3. CHMP overall conclusion and recommendation It is supported that the Cheng et al study (Cheng MM et al, Infect Dis Ther. 2023, 12:607-621) does not call for updates to the paediatric aspects of the sotrovimab product information. Fulfilled: No regulatory action required. 4. Request for supplementary information Not relevant. Medicinal product no longer authorised

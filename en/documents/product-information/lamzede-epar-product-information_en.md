@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 21:41:47
-document_pages: 33
+document_datetime: 2026-03-02 16:23:35
+document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lamzede-epar-product-information_en.pdf
 document_name: lamzede-epar-product-information_en.pdf
 version: success
-processing_time: 19.8764436
-conversion_datetime: 2025-12-19 10:56:36.60726
+processing_time: 21.1788707
+conversion_datetime: 2026-03-05 11:55:18.569508
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -198,6 +198,7 @@ Table 1: Adverse reactions reported from clinical studies, post-authorization sa
 | Psychiatric disorders                           | Encopresis                 | Not known   |
 | Psychiatric disorders                           | Psychotic disorder         | Not known   |
 | Psychiatric disorders                           | Nervousness                | Not known   |
+| Psychiatric disorders                           | Apathy (1)                 | Not known   |
 | Nervous system disorders                        | Loss of consciousness (2)  | Common      |
 | Nervous system disorders                        | Tremor                     | Common      |
 | Nervous system disorders                        | Confusional state          | Common      |
@@ -207,6 +208,7 @@ Table 1: Adverse reactions reported from clinical studies, post-authorization sa
 | Nervous system disorders                        | Ataxia                     | Not known   |
 | Nervous system disorders                        | Nervous system disorder    | Not known   |
 | Nervous system disorders                        | Somnolence                 | Not known   |
+| Nervous system disorders                        | Hypotonia (1)              | Not known   |
 | Eye disorders                                   | Eyelid oedema              | Common      |
 | Eye disorders                                   | Eye irritation             | Common      |
 | Eye disorders                                   | Ocular hyperaemia          | Common      |
@@ -219,6 +221,7 @@ Table 1: Adverse reactions reported from clinical studies, post-authorization sa
 | Cardiac disorders                               | Tachycardia                | Not known   |
 | Vascular disorders                              | Hypotension                | Not known   |
 | Vascular disorders                              | Vascular fragility         | Not known   |
+| Vascular disorders                              | Pallor (1)                 | Not known   |
 | Respiratory, thoracic and mediastinal disorders | Epistaxis                  | Common      |
 | Respiratory, thoracic and mediastinal disorders | Oropharyngeal pain         | Not known   |
 | Respiratory, thoracic and mediastinal disorders | Pharyngeal oedema          | Not known   |
@@ -230,16 +233,16 @@ Table 1: Adverse reactions reported from clinical studies, post-authorization sa
 | Gastrointestinal disorders                      | Abdominal pain             | Common      |
 | Gastrointestinal disorders                      | Reflux gastritis           | Common      |
 | Gastrointestinal disorders                      | Odynophagia                | Not known   |
-| Skin and subcutaneous tissue disorders          | Urticaria (1)              | Common      |
-| Skin and subcutaneous tissue disorders          | Hyperhidrosis (1)          | Common      |
-| Skin and subcutaneous tissue disorders          | Angioedema                 | Not known   |
-| Skin and subcutaneous tissue disorders          | Erythema                   | Not known   |
-| Skin and subcutaneous tissue disorders          | Rash                       | Not known   |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class                                  | Adverse reaction          | Frequency   |
 |-----------------------------------------------------|---------------------------|-------------|
+| Skin and subcutaneous tissue disorders              | Urticaria (1)             | Common      |
+| Skin and subcutaneous tissue disorders              | Hyperhidrosis (1)         | Common      |
+| Skin and subcutaneous tissue disorders              | Angioedema                | Not known   |
+| Skin and subcutaneous tissue disorders              | Erythema                  | Not known   |
+| Skin and subcutaneous tissue disorders              | Rash                      | Not known   |
 | Musculoskeletal and connective tissue disorders     | Arthralgia                | Common      |
 | Musculoskeletal and connective tissue disorders     | Pain in extremity         | Common      |
 | Musculoskeletal and connective tissue disorders     | Joint stiffness           | Common      |
@@ -267,7 +270,7 @@ Table 1: Adverse reactions reported from clinical studies, post-authorization sa
 
 ## Infusion-related reaction
 
-IRRs (including hypersensitivity, cyanosis, nausea, vomiting, pyrexia, chills, feeling hot, malaise, urticaria, anaphylactoid reaction and hyperhidrosis) were reported in 13% of the patients (5 out of 38 patients) in clinical studies. All were mild or moderate in severity and 2 were reported as a serious adverse reaction (see section 5.1). All patients who experienced IRRs recovered.
+IRRs (including hypersensitivity, cyanosis, nausea, vomiting, pyrexia, chills, feeling hot, malaise, urticaria, anaphylactoid reaction and hyperhidrosis) were reported in 13% of the patients (5 out of 38 patients) in clinical studies. All were mild or moderate in severity and 2 were reported as a serious adverse reaction (see section 5.1). All patients who experienced IRRs recovered. One patient experienced symptoms of apathy, pallor and hypotonia in the alpha-mannosidosis registry.
 
 ## Acute renal failure
 
@@ -279,13 +282,13 @@ In one patient, one event of loss of consciousness was reported during the treat
 
 No other related event of loss of consciousness has been reported either in the clinical either in the commercial setting.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric population
 
 ## Children age below 6 years old
 
 A total of 5 patients with alpha-mannosidosis below 6 years received velmanase alfa in a clinical study. The safety profile was similar to that observed in the previous studies, with similar frequency, type and severity of adverse events.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Children age group 6 to 17 years old
 
@@ -317,9 +320,9 @@ Velmanase alfa is intended to supplement or replace natural alpha-mannosidase, a
 
 A total of 33 patients enrolled in the exploratory and pivotal studies (20 males and 13 females, ranging in age from 6 to 35 years) were exposed to velmanase alfa in five clinical studies. Patients were diagnosed based on alpha-mannosidase activity &lt;10% of normal activity in blood leukocytes. Patients with the most severe rapidly progressing phenotype (with a deterioration within one year and central nervous system involvement) were excluded. Based on this criteria mild to moderate patients, presenting heterogeneous severity with ability to perform endurance tests, large variability of clinical manifestations and age of onset were enrolled.
 
-Overall effects of treatment were evaluated in the domains of pharmacodynamics (reduction of serum oligosaccharides), functional (three-minute stair climbing test (3MSCT), six-minute walking test (6MWT), and forced vital capacity (FVC) % predicted) and quality of life (childhood health assessment questionnaire (CHAQ) disability index (DI) and CHAQ VAS pain (visual analogue scale)).
-
 <div style=\"page-break-after: always\"></div>
+
+Overall effects of treatment were evaluated in the domains of pharmacodynamics (reduction of serum oligosaccharides), functional (three-minute stair climbing test (3MSCT), six-minute walking test (6MWT), and forced vital capacity (FVC) % predicted) and quality of life (childhood health assessment questionnaire (CHAQ) disability index (DI) and CHAQ VAS pain (visual analogue scale)).
 
 In the phase 3 pivotal multi-centre, double-blind, randomised, placebo-controlled, parallel group study rhLAMAN-05, the efficacy and safety of repeated administrations of velmanase alfa over 52 weeks at a dose of 1 mg/kg given weekly as intravenous infusion were investigated. A total of 25 patients were enrolled, including 12 paediatric subjects (age range: 6 to 17 years; mean: 10.9 years) and 13 adult subjects (age range: 18 to 35 years; mean: 24.6). All but one patient were naïve to the treatment with velmanase alfa. In total 15 patients (7 paediatrics and 8 adults) received active treatment and 10 patients received placebo (5 paediatrics and 5 adults). The results (serum oligosaccharide concentration, 3MSCT, 6MWT and FVC%) are presented in table 2. A pharmacodynamic effect with statistically significant decrease of serum oligosaccharides in comparison to placebo was demonstrated. The results observed in patients below 18 years of age showed an improvement. In patients over 18 years old a stabilisation has been demonstrated. The numerical improvement of most clinical endpoints over placebo (2 to 8%) observed in the year of observation could be suggestive of the ability of velmanase alfa to slow down the existing disease progression.
 
@@ -336,20 +339,20 @@ Table 2: Results from placebo-controlled clinical study rhLAMAN-05 (source data:
 | Overall (1) [95% CI] p-value                  | 52.9 (11.2)                                          | 0.46 [-3.58; 4.50]                                   | 55.5 (16.0)                                   | -2.16 [-7.12; 2.80]                           | 2.62 [-3.81; 9.05] p=0.406                    |
 | <18 years (2)                                 | 56.2 (12.5)                                          | 3.5 (10.0)                                           | 57.8 (12.6)                                   | -2.3 (5.4)                                    | -                                             |
 | ≥ 18 years (2)                                | 50.0 (9.8)                                           | -1.9 (6.7)                                           | 53.2 (20.1)                                   | -2.5 (6.2)                                    |                                               |
-| 6MWT (metres)                                 | 6MWT (metres)                                        | 6MWT (metres)                                        | 6MWT (metres)                                 | 6MWT (metres)                                 | 6MWT (metres)                                 |
-| Overall (1) [95% CI] p-value                  | 459.6 (72.26)                                        | 3.74 [-20.32; 27.80]                                 | 465.7 (140.5)                                 | -3.61 [-33.10; 25.87]                         | 7.35 [-30.76; 45.46] p=0.692                  |
-| <18 years (2)                                 | 452.4 (63.9)                                         | 12.3 (43.2)                                          | 468.8 (79.5)                                  | 3.6 (43.0)                                    | -                                             |
-| ≥ 18 years (2)                                | 465.9 (82.7)                                         | -2.5 (50.4)                                          | 462.6 (195.1)                                 | -12.8 (41.6)                                  |                                               |
 
 <div style=\"page-break-after: always\"></div>
 
 |                              | Treatment with velmanase alfa for 12 months (n=15)   | Treatment with velmanase alfa for 12 months (n=15)   | Treatment with placebo for 12 months (n=10)   | Treatment with placebo for 12 months (n=10)   | Velmanase alfa vs. placebo   |
 |------------------------------|------------------------------------------------------|------------------------------------------------------|-----------------------------------------------|-----------------------------------------------|------------------------------|
 | Patients                     | Baseline actual value Mean (SD)                      | Absolute change from baseline Mean                   | Baseline actual value Mean (SD)               | Absolute change from baseline Mean            | Adjusted mean difference     |
+| 6MWT(metres)                 | 6MWT(metres)                                         | 6MWT(metres)                                         | 6MWT(metres)                                  | 6MWT(metres)                                  | 6MWT(metres)                 |
+| Overall (1) [95% CI] p-value | 459.6 (72.26)                                        | 3.74 [-20.32; 27.80]                                 | 465.7 (140.5)                                 | -3.61 [-33.10; 25.87]                         | 7.35 [-30.76; 45.46] p=0.692 |
+| <18 years (2)                | 452.4 (63.9)                                         | 12.3 (43.2)                                          | 468.8 (79.5)                                  | 3.6 (43.0)                                    | -                            |
+| ≥ 18 years (2)               | 465.9 (82.7)                                         | -2.5 (50.4)                                          | 462.6 (195.1)                                 | -12.8 (41.6)                                  |                              |
 | FVC (% of predicted)         | FVC (% of predicted)                                 | FVC (% of predicted)                                 | FVC (% of predicted)                          | FVC (% of predicted)                          | FVC (% of predicted)         |
 | Overall (1) [95% CI] p-value | 81.67 (20.66)                                        | 8.20 [1.79; 14.63]                                   | 90.44 (10.39)                                 | 2.30 [-6.19; 10.79]                           | 5.91 [-4.78; 16.60] p=0.278  |
 | <18 years (2)                | 69.7 (16.8)                                          | 14.2 (8.7)                                           | 88.0 (10.9)                                   | 8.0 (4.2)                                     | -                            |
-| ≥ 18 years (2)               | 93.7 (17.7)                                          | 2.2 (7.2)                                            | 92.4 (10.8)                                   | -2.8 (15.5)                                   | -                            |
+| ≥ 18 years (2)               | 93.7 (17.7)                                          | 2.2 (7.2)                                            | 92.4 (10.8)                                   | -2.8 (15.5)                                   |                              |
 
 (1) For overall: adjusted mean change and adjusted mean difference estimated by ANCOVA model are presented
 
@@ -363,34 +366,34 @@ Table 3: Change of clinical endpoints from baseline to the last observation in r
 |----------------------------------------------|-----------------|-----------------------------------|-----------------------------------------------|-----------------------|
 | Serum oligosaccharide concentration (µmol/L) | Overall         | 6.90 (2.30)                       | -62.8 (33.61)                                 | <0.001 [-74.7; -50.8] |
 | 3MSCT (steps/min)                            | Overall         | 53.60 (12.53)                     | 13.77 (25.83)                                 | 0.004 [4.609; 22.92]  |
-| 6MWT (metres)                                | Overall         | 466.6 (90.1)                      | 7.1 (22.0)                                    | 0.071 [-0.7; 14.9]    |
+| 6MWT(metres)                                 | Overall         | 466.6 (90.1)                      | 7.1 (22.0)                                    | 0.071 [-0.7; 14.9]    |
 | FVC (% of predicted)                         | Overall         | 84.9 (18.6)                       | 10.5 (20.9)                                   | 0.011 [2.6; 18.5]     |
+
+<div style=\"page-break-after: always\"></div>
 
 Data suggest that the beneficial effects of the treatment with velmanase alfa diminish with the increase of disease burden and disease-related respiratory infections.
 
 A post-hoc multiparametric responders analysis supports the benefit of longer treatment with velmanase alfa in 87.9% of responders in at least 2 domains at last observation (table 4).
 
-<div style=\"page-break-after: always\"></div>
+Table 4: Multiparametric responder analysis: MCID (1)  Responders Rates by Endpoints and Domains (source data: rhLAMAN-05; rhLAMAN-10)
 
-Table 4: Multiparametric responder analysis: MCID (1) Responders Rates by Endpoints and Domains (source data: rhLAMAN-05; rhLAMAN-10)
-
-|                                 |                  | Responders Rates      | Responders Rates      | Responders Rates         |
-|---------------------------------|------------------|-----------------------|-----------------------|--------------------------|
-| Domain                          | Criterion        | rhLAMAN-05 study n=25 | rhLAMAN-05 study n=25 | rhLAMAN-10 study n=33    |
-|                                 |                  | Placebo 12 months     | Lamzede 12 months     | Lamzede Last Observation |
-| Pharmacodynamic                 | Oligosaccharides | 20.0%                 | 100%                  | 91.0%                    |
-| Pharmacodynamic Domain Response | Oligosaccharides | 20.0%                 | 100%                  | 91.0%                    |
-| Functional                      | 3MSCT            | 10.0%                 | 20.0%                 | 48.5%                    |
-| Functional                      | 6MWT             | 10.0%                 | 20.0%                 | 48.5%                    |
-| Functional                      | FVC (%)          | 20.0%                 | 33.3%                 | 39.4%                    |
-| Functional Domain               | ResponseCombined | 30.0%                 | 60.0%                 | 72.7%                    |
-| Quality of Life                 | CHAQ-DI          | 20.0%                 | 20.0%                 | 42.2%                    |
-| Quality of Life                 | CHAQ-VAS         | 33.3%                 | 40.0%                 | 45.5%                    |
-| QoL Domain                      | Combined         | 40.0%                 | 40.0%                 | 66.7%                    |
-| Overall response                | Three domains    | 0                     | 13.3%                 | 45.5%                    |
-| Overall response                | Two domains      | 30.0%                 | 73.3%                 | 42.4%                    |
-| Overall response                | One domain       | 30.0%                 | 13.3%                 | 9.1%                     |
-| Overall response                | No domains       | 40.0%                 | 0                     | 3.0%                     |
+|                                     |                                     | Responders Rates      | Responders Rates      | Responders Rates         |
+|-------------------------------------|-------------------------------------|-----------------------|-----------------------|--------------------------|
+| Domain                              | Criterion                           | rhLAMAN-05 study n=25 | rhLAMAN-05 study n=25 | rhLAMAN-10 study n=33    |
+|                                     |                                     | Placebo 12 months     | Lamzede 12 months     | Lamzede Last Observation |
+| Pharmacodynamic                     | Oligosaccharides                    | 20.0%                 | 100%                  | 91.0%                    |
+| Pharmacodynamic Domain Response     | Oligosaccharides                    | 20.0%                 | 100%                  | 91.0%                    |
+| Functional                          | 3MSCT                               | 10.0%                 | 20.0%                 | 48.5%                    |
+| Functional                          | 6MWT                                | 10.0%                 | 20.0%                 | 48.5%                    |
+| Functional                          | FVC (%)                             | 20.0%                 | 33.3%                 | 39.4%                    |
+| Functional Domain Response Combined | Functional Domain Response Combined | 30.0%                 | 60.0%                 | 72.7%                    |
+| Quality of Life                     | CHAQ-DI                             | 20.0%                 | 20.0%                 | 42.2%                    |
+| Quality of Life                     | CHAQ-VAS                            | 33.3%                 | 40.0%                 | 45.5%                    |
+| QoL Domain                          | Combined                            | 40.0%                 | 40.0%                 | 66.7%                    |
+| Overall response                    | Three domains                       | 0                     | 13.3%                 | 45.5%                    |
+| Overall response                    | Two domains                         | 30.0%                 | 73.3%                 | 42.4%                    |
+| Overall response                    | One domain                          | 30.0%                 | 13.3%                 | 9.1%                     |
+| Overall response                    | No domains                          | 40.0%                 | 0                     | 3.0%                     |
 
 (1) MCID: minimal clinically important difference
 
@@ -406,13 +409,13 @@ Overall, there were no safety issues from use of velmanase alfa in paediatric pa
 
 Use of velmanase alfa in the age group 6 to 17 years is supported by evidence from clinical studies in paediatric (19 out of 33 patients enrolled in the exploratory and pivotal studies) and adult patients.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Exceptional circumstances authorisation
 
 This medicinal product has been authorised under 'exceptional circumstances'. This means that due to the rarity of the disease, it has not been possible to obtain complete information on this medicinal product.
 
 The European Medicines Agency will review any new information which may become available every year and this SmPC will be updated as necessary.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
@@ -448,6 +451,8 @@ Velmanase alfa is a protein and is predicted to be metabolically degraded into a
 
 As no patients older than 41 years have been identified across Europe, no relevant use in elderly patients is expected.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric population
 
 Pharmacokinetic data from paediatric patients recapitulate the data from the adult population. In particular, lack of accumulation of velmanase alfa at steady state, as well as the safety/efficacy data, confirm that the dose of 1 mg/kg is appropriate also in patients younger than 6 years.
@@ -455,8 +460,6 @@ Pharmacokinetic data from paediatric patients recapitulate the data from the adu
 ## 5.3 Preclinical safety data
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, juvenile toxicity and toxicity to reproduction and development.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -492,11 +495,11 @@ Pack sizes of 1, 5 or 10 vials per carton. Not all pack sizes may be marketed.
 
 Lamzede requires reconstitution and is intended for intravenous infusion only. Each vial is for single use only.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Instructions for reconstitution and administration
 
 Lamzede should be reconstituted and administrated by a healthcare professional. Aseptic technique is to be used during preparation. Filter needles must not be used during preparation.
-
-<div style=\"page-break-after: always\"></div>
 
 - a) The number of vials to be used should be calculated based on the individual patient's weight. The recommended dose of 1 mg/kg is determined using the following calculation:
 2. -Patient's weight (kg) × dose (mg/kg) = Patient dose (in mg).
@@ -511,33 +514,18 @@ Each vial is reconstituted by slowly injecting 5 mL of water for injections to t
 - b) The powder should be reconstituted in the vial by a slow drop-wise addition of the water for injections down the inside of the vial and not directly onto the lyophilised powder. Forcefully ejecting the water for injections from the syringe onto the powder should be avoided to minimise foaming. The reconstituted vials should stand on the table for about 5-10 minutes. Thereafter each vial should be tilted and rolled gently for 15-20 seconds to enhance the dissolution process. The vial should not be inverted, swirled, or shaken.
 - c) An immediate visual inspection of the solution for particulate matter and discoloration should be performed after reconstitution. The solution should be clear and not used if opaque particles are observed or if the solution is discoloured. Due to the nature of the medicinal product, the reconstituted solution may occasionally contain some proteinaceous particles in form of thin white strands or translucent fibers which will be removed by the in-line filter during infusion (see point e).
 - d) The reconstituted solution is to be slowly withdrawn from each vial with caution to avoid foaming in the syringe. If the volume of the solution exceeds one syringe capacity, the required number of syringes should be prepared in order to replace the syringe quickly during the infusion.
-- The reconstituted solution should be administered using an infusion set equipped with a pump
-- e) and an in-line low protein-binding 0.22 μm filter.
-
-The total volume of infusion is determined by the patient's weight and should be administrated over a minimum of 50 minutes. It is recommended to use always the same dilution (2 mg/ml). For patients weighing less than 18 kg, and receiving less than 9 mL reconstituted solution, the infusion rate should be calculated so that the infusion time is ≥50 minutes. The maximum infusion rate is 25 mL/hour (see section 4.2). The infusion time can be calculated from the following table:
-
-|   Patient weight (kg) |   Dose (mL) |   Maximum infusion rate (mL/h) |   Minimum infusion time (min) |
-|-----------------------|-------------|--------------------------------|-------------------------------|
-|                     5 |         2.5 |                            3   |                            50 |
-|                     6 |         3   |                            3.6 |                            50 |
-|                     7 |         3.5 |                            4.2 |                            50 |
-|                     8 |         4   |                            4.8 |                            50 |
-|                     9 |         4.5 |                            5.4 |                            50 |
-|                    10 |         5   |                            6   |                            50 |
-
-|   Patient weight (kg) |   Dose (mL) |   Maximum infusion rate (mL/h) |   Minimum infusion time (min) |
-|-----------------------|-------------|--------------------------------|-------------------------------|
-|                    53 |        26.5 |                             25 |                            64 |
-|                    54 |        27   |                             25 |                            65 |
-|                    55 |        27.5 |                             25 |                            67 |
-|                    56 |        28   |                             25 |                            67 |
-|                    57 |        28.5 |                             25 |                            68 |
-|                    58 |        29   |                             25 |                            70 |
+- e) The reconstituted solution should be administered using an infusion set equipped with a pump and an in-line low protein-binding 0.22 μm filter. The total volume of infusion is determined by the patient's weight and should be administrated over a minimum of 50 minutes. It is recommended to use always the same dilution (2 mg/ml). For patients weighing less than 18 kg, and receiving less than 9 mL reconstituted solution, the infusion rate should be calculated so that the infusion time is ≥50 minutes. The maximum infusion rate is 25 mL/hour (see section 4.2). The infusion time can be calculated from the following table:
 
 <div style=\"page-break-after: always\"></div>
 
 | Patient weight (kg)   | Dose (mL)   | Maximum infusion rate (mL/h)   | Minimum infusion time (min)   |
 |-----------------------|-------------|--------------------------------|-------------------------------|
+| 5                     | 2.5         | 3                              | 50                            |
+| 6                     | 3           | 3.6                            | 50                            |
+| 7                     | 3.5         | 4.2                            | 50                            |
+| 8                     | 4           | 4.8                            | 50                            |
+| 9                     | 4.5         | 5.4                            | 50                            |
+| 10                    | 5           | 6                              | 50                            |
 | 11                    | 5.5         | 6.6                            | 50                            |
 | 12                    | 6           | 7.2                            | 50                            |
 | 13                    | 6.5         | 7.8                            | 50                            |
@@ -577,55 +565,68 @@ The total volume of infusion is determined by the patient's weight and should be
 | 47                    | 23.5        | 25                             | 56                            |
 | 48                    | 24          | 25                             | 58                            |
 | 49                    | 24.5        | 25                             | 59                            |
-| 50                    | 25          | 25                             | 60                            |
-| 51 52                 | 25.5 26     | 25 25                          | 61 62                         |
+| 50 51                 | 25 25.5     | 25 25                          | 60 61                         |
+
+| Patient weight (kg)   | Dose (mL)   |   Maximum infusion rate (mL/h) | Minimum infusion time (min)   |
+|-----------------------|-------------|--------------------------------|-------------------------------|
+| 53                    | 26.5        |                             25 | 64                            |
+| 54                    | 27          |                             25 | 65                            |
+| 55                    | 27.5        |                             25 | 67                            |
+| 56                    | 28          |                             25 | 67                            |
+| 57                    | 28.5        |                             25 | 68                            |
+| 58                    | 29          |                             25 | 70                            |
+| 59                    | 29.5        |                             25 | 71                            |
+| 60                    | 30          |                             25 | 72                            |
+| 61                    | 30.5        |                             25 | 73                            |
+| 62                    | 31          |                             25 | 74                            |
+| 63                    | 31.5        |                             25 | 76                            |
+| 64                    | 32          |                             25 | 77                            |
+| 65                    | 32.5        |                             25 | 78                            |
+| 66                    | 33          |                             25 | 79                            |
+| 67                    | 33.5        |                             25 | 80                            |
+| 68                    | 34          |                             25 | 82                            |
+| 69                    | 34.5        |                             25 | 83                            |
+| 70                    | 35          |                             25 | 84                            |
+| 71                    | 35.5        |                             25 | 85                            |
+| 72                    | 36          |                             25 | 86                            |
+| 73                    | 36.5        |                             25 | 88                            |
+| 74                    | 37          |                             25 | 89                            |
+| 75                    | 37.5        |                             25 | 90                            |
+| 76                    | 38          |                             25 | 91                            |
+| 77                    | 38.5        |                             25 | 92                            |
+| 78                    | 39          |                             25 | 94                            |
+| 79                    | 39.5        |                             25 | 95                            |
+| 80                    | 40          |                             25 | 96                            |
+| 81                    | 40.5        |                             25 | 97                            |
+| 82                    | 41          |                             25 | 98                            |
+| 83                    | 41.5        |                             25 | 100                           |
+| 84                    | 42          |                             25 | 101                           |
+| 85                    | 42.5        |                             25 | 102                           |
+| 86                    | 43          |                             25 | 103                           |
+| 87                    | 43.5        |                             25 | 104                           |
+| 88                    | 44          |                             25 | 106                           |
+| 89                    | 44.5        |                             25 | 107                           |
+| 90                    | 45          |                             25 | 108                           |
+| 91                    | 45.5        |                             25 | 109                           |
+| 92                    | 46          |                             25 | 110                           |
+|                       |             |                             25 | 112                           |
+| 93 94                 | 46.5 47     |                             25 | 113                           |
+| 95                    | 47.5        |                             25 | 114                           |
+| 96                    | 48          |                             25 | 115                           |
+| 97                    | 48.5        |                             25 | 116                           |
+| 98                    | 49          |                             25 | 118 119                       |
+| 99                    | 49.5        |                             25 |                               |
+
+<div style=\"page-break-after: always\"></div>
+
+|   Patient weight (kg) |   Dose (mL) |   Maximum infusion rate (mL/h) |   Minimum infusion time (min) |
+|-----------------------|-------------|--------------------------------|-------------------------------|
+|                    52 |          26 |                             25 |                            62 |
 
 | Patient weight (kg)   | Dose (mL)   | Maximum infusion rate (mL/h)   | Minimum infusion time (min)   |
 |-----------------------|-------------|--------------------------------|-------------------------------|
-| 59                    | 29.5        | 25                             | 71                            |
-| 60                    | 30          | 25                             | 72                            |
-| 61                    | 30.5        | 25                             | 73                            |
-| 62                    | 31          | 25                             | 74                            |
-| 63                    | 31.5        | 25                             | 76                            |
-| 64                    | 32          | 25                             | 77                            |
-| 65                    | 32.5        | 25                             | 78                            |
-| 66                    | 33          | 25                             | 79                            |
-| 67                    | 33.5        | 25                             | 80                            |
-| 68                    | 34          | 25                             | 82                            |
-| 69                    | 34.5        | 25                             | 83                            |
-| 70                    | 35          | 25                             | 84                            |
-| 71                    | 35.5        | 25                             | 85                            |
-| 72                    | 36          | 25                             | 86                            |
-| 73                    | 36.5        | 25                             | 88                            |
-| 74                    | 37          | 25                             | 89                            |
-| 75                    | 37.5        | 25                             | 90                            |
-| 76                    | 38          | 25                             | 91                            |
-| 77                    | 38.5        | 25                             | 92                            |
-| 78                    | 39          | 25                             | 94                            |
-| 79                    | 39.5        | 25                             | 95                            |
-| 80                    | 40          | 25                             | 96                            |
-| 81                    | 40.5        | 25                             | 97                            |
-| 82                    | 41          | 25                             | 98                            |
-| 83                    | 41.5        | 25                             | 100                           |
-| 84                    | 42          | 25                             | 101                           |
-| 85                    | 42.5        | 25                             | 102                           |
-| 86                    | 43          | 25                             | 103                           |
-| 87                    | 43.5        | 25                             | 104                           |
-| 88                    | 44          | 25                             | 106                           |
-| 89                    | 44.5        | 25                             | 107                           |
-| 90                    | 45          | 25                             | 108                           |
-| 91                    | 45.5        | 25                             | 109                           |
-| 92                    | 46          | 25                             | 110                           |
-| 93                    | 46.5        | 25                             | 112                           |
-| 94                    | 47          | 25                             | 113                           |
-| 95                    | 47.5        | 25                             | 114                           |
-| 96                    | 48          | 25                             | 115                           |
-| 97                    | 48.5        | 25                             | 116                           |
-| 98 99                 | 49 49.5     | 25 25                          | 118 119                       |
 
 - f) When the last syringe is empty, the dose syringe is replaced with a 20 mL syringe filled with sodium chloride 9 mg/mL (0.9%) solution for injection. A volume of 10 mL sodium chloride solution should be administered through the infusion system to infuse the remaining fraction of Lamzede in the line to the patient.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Disposal
 
@@ -645,11 +646,11 @@ EU/1/17/1258/003
 
 Date of first authorisation: 23 March 2018
 
-Date of latest renewal:
+Date of latest renewal: 13 January 2023
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -836,7 +837,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -866,13 +867,11 @@ Lamzede 10 mg powder for solution for infusion velmanase alfa Intravenous use
 
 Read the package leaflet before use
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -1016,7 +1015,7 @@ Very common side effects (may affect more than 1 in 10 people)
 Common side effects (may affect up to 1 in 10 people)
 
 - -low heart beat (bradycardia)
-- -Blue skin and lips (cyanosis)
+- -blue skin and lips (cyanosis)
 - -psychotic behaviour (mental illness with hallucinations, difficulty in thinking clearly and understanding reality, anxiety), initial difficulty in sleeping
 - -confused state, fainting, tremor, dizziness, headache
 - -intestinal (abdominal) pain, irritation of the stomach caused by digestive acids (reflux gastritis), nausea, vomiting
@@ -1051,6 +1050,7 @@ Side effects frequency not known (frequency cannot be estimated from the availab
 - -reddening of the skin
 - -joint swelling, joint warmth
 - -weakness
+- -symptoms of a mild infusion related reaction such as paleness, lack of interest and energy and reduced muscle strength or tension
 
 ## Reporting of side effects
 
@@ -1075,8 +1075,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Lamzede contains
 
 - -The active substance is velmanase alfa.
-
-One vial contains 10 mg of velmanase alfa.
+- One vial contains 10 mg of velmanase alfa.
 
 After reconstitution, one mL of the solution contains 2 mg of velmanase alfa (10 mg / 5 mL).
 
@@ -1086,11 +1085,17 @@ After reconstitution, one mL of the solution contains 2 mg of velmanase alfa (10
 
 ## What Lamzede looks like and contents of the pack
 
-Lamzede is a white to off-white powder for solution for infusion, supplied in a glass vial. Each carton contains 1, 5 or 10 vials. Not all pack sizes may be marketed.
+Lamzede is a white to off-white powder for solution for infusion, supplied in a glass vial.
+
+Each carton contains 1, 5 or 10 vials.
+
+Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma Italy
+Chiesi Farmaceutici S.p.A.
+
+Via Palermo 26/A 43122 Parma Italy
 
 ## Manufacturer
 
@@ -1106,13 +1111,15 @@ Tél/Tel: + 32 (0)2 788 42 00
 
 ## Lietuva
 
-Chiesi Pharmaceuticals GmbH Tel: + 43 1 4073919
+Chiesi Pharmaceuticals GmbH
+
+Tel: + 43 1 4073919
 
 ## България
 
-Chiesi Bulgaria EOOD
+ExCEEd Orphan Distribution d.o.o.
 
-Te л .: + 359 29201205
+Teл.: +359 87 663 1858
 
 ## Luxembourg/Luxemburg
 
@@ -1128,9 +1135,9 @@ Tel: + 420 261221745
 
 ## Magyarország
 
-Chiesi Hungary Kft.
+ExCEEd Orphan Distribution d.o.o.
 
-Tel.: + 36-1-429 1060
+Tel.: +36 70 612 7768
 
 ## Danmark
 
@@ -1140,7 +1147,9 @@ Tlf: + 46 8 753 35 20
 
 ## Malta
 
-Chiesi Farmaceutici S.p.A. Tel: + 39 0521 2791
+Chiesi Farmaceutici S.p.A.
+
+Tel: + 39 0521 2791
 
 ## Deutschland
 
@@ -1168,7 +1177,9 @@ Tlf: + 46 8 753 35 20
 
 ## Ελλάδα
 
-Chiesi Hellas AEBE Τηλ : + 30 210 6179763
+Chiesi Hellas AEBE
+
+Τηλ: + 30 210 6179763
 
 ## Österreich
 
@@ -1184,19 +1195,17 @@ Tel: + 34 93 494 8000
 
 ## Polska
 
-Chiesi Poland Sp. z.o.o.
+ExCEEd Orphan Distribution d.o.o.
 
-Tel.: + 48 22 620 1421
-
-<div style=\"page-break-after: always\"></div>
+Tel.: +48 799 090 131
 
 ## France
-
-## Portugal
 
 Chiesi S.A.S.
 
 Tél: + 33 1 47688899
+
+## Portugal
 
 Chiesi Farmaceutici S.p.A.
 
@@ -1264,15 +1273,11 @@ Tel: +46 8 753 35 20
 
 ## Latvija
 
+<div style=\"page-break-after: always\"></div>
+
 Chiesi Pharmaceuticals GmbH
 
 Tel: + 43 1 4073919
-
-## United Kingdom (Northern Ireland)
-
-Chiesi Farmaceutici S.p.A.
-
-Tel: + 39 0521 2791
 
 ## This leaflet was last revised in .
 
@@ -1282,7 +1287,7 @@ The European Medicines Agency will review any new information on this medicine e
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -1296,15 +1301,16 @@ Lamzede should be reconstituted and administrated by a healthcare professional.
 
 Aseptic technique is to be used during preparation. Filter needles must not be used during preparation.
 
-- a) The number of vials to be used should be calculated based on the individual patient's weight. The recommended dose of 1 mg/kg is determined using the following calculation:
-2. -Patient's weight (kg) × dose (mg/kg) = Patient dose (in mg).
-
 <div style=\"page-break-after: always\"></div>
 
-- -Patient dose (in mg) divided by 10 mg/vial (content of one vial) = number of vials to reconstitute. If the number of calculated vials includes a fraction, it should be rounded up to the next whole number.
-- -Approximately 30 minutes prior to reconstitution, the required number of vials should be removed from the refrigerator. The vials should reach ambient temperature (between 15°C and 25°C) prior to reconstitution.
+- a) The number of vials to be used should be calculated based on the individual patient's weight. The recommended dose of 1 mg/kg is determined using the following calculation:
+2. -Patient's weight (kg) × dose (mg/kg) = Patient dose (in mg).
+3. -Patient dose (in mg) divided by 10 mg/vial (content of one vial) = number of vials to reconstitute. If the number of calculated vials includes a fraction, it should be rounded up to the next whole number.
+4. -Approximately 30 minutes prior to reconstitution, the required number of vials should be removed from the refrigerator. The vials should reach ambient temperature (between 15°C and 25°C) prior to reconstitution.
 
-Each vial is reconstituted by slowly injecting 5 mL of water for injections to the inside of the wall of each vial. Each mL of reconstituted solution contains 2 mg of velmanase alfa. Only the volume corresponding to the recommended dose should be administered. Example:
+Each vial is reconstituted by slowly injecting 5 mL of water for injections to the inside of the wall of each vial. Each mL of reconstituted solution contains 2 mg of velmanase alfa. Only the volume corresponding to the recommended dose should be administered.
+
+## Example:
 
 - -Patient's weight (44 kg) × dose (1 mg/kg) = Patient dose (44 mg).
 - -44 mg divided by 10 mg/vial = 4.4 vials, therefore, 5 vials should be reconstituted.
@@ -1312,7 +1318,8 @@ Each vial is reconstituted by slowly injecting 5 mL of water for injections to t
 - b) The powder should be reconstituted in the vial by a slow drop-wise addition of the water for injections down the inside of the vial and not directly onto the lyophilised powder. Forcefully ejecting the water for injections from the syringe onto the powder should be avoided to minimise foaming. The reconstituted vials should stand on the table for about 5-10 minutes. Thereafter each vial should be tilted and rolled gently for 15-20 seconds to enhance the dissolution process. The vial should not be inverted, swirled, or shaken.
 - c) An immediate visual inspection of the solution for particulate matter and discoloration should be performed after reconstitution. The solution should be clear and not used if opaque particles are observed or if the solution is discoloured. Due to the nature of the medicinal product, the reconstituted solution may occasionally contain some proteinaceous particles in form of thin white strands or translucent fibers which will be removed by the in-line filter during infusion (see point e).
 - d) The reconstituted solution is to be slowly withdrawn from each vial with caution to avoid foaming in the syringe. If the volume of the solution exceeds one syringe capacity, the required number of syringes should be prepared in order to replace the syringe quickly during the infusion.
-- e) The reconstituted solution should be administered using an infusion set equipped with a pump and an in-line low protein-binding 0.22 μm filter.
+- The reconstituted solution should be administered using an infusion set equipped with a pump
+- e) and an in-line low protein-binding 0.22 μm filter.
 
 The total volume of infusion is determined by the patient's weight and should be administrated over a minimum of 50 minutes. It is recommended to use always the same dilution (2 mg/ml). For patients weighing less than 18 kg, and receiving less than 9 mL reconstituted solution, the infusion rate should be calculated so that the infusion time is ≥ 50 minutes. The maximum infusion rate is 25 mL/hour. The infusion time can be calculated from the following table:
 
@@ -1325,112 +1332,24 @@ The total volume of infusion is determined by the patient's weight and should be
 |                     9 |         4.5 |                            5.4 |                            50 |
 |                    10 |         5   |                            6   |                            50 |
 |                    11 |         5.5 |                            6.6 |                            50 |
-|                    12 |         6   |                            7.2 |                            50 |
-|                    13 |         6.5 |                            7.8 |                            50 |
-|                    14 |         7   |                            8.4 |                            50 |
 
-Patient weight
-
-(kg)
-
-53
-
-54
-
-55
-
-56
-
-57
-
-58
-
-59
-
-60
-
-61
-
-62
-
-Dose
-
-(mL)
-
-26.5
-
-27
-
-27.5
-
-28
-
-28.5
-
-29
-
-29.5
-
-30
-
-30.5
-
-31
-
-Maximum infusion
-
-rate
-
-(mL/h)
-
-25
-
-25
-
-25
-
-25
-
-25
-
-25
-
-25
-
-25
-
-25
-
-25
-
-Minimum infusion
-
-time (min)
-
-64
-
-65
-
-67
-
-67
-
-68
-
-70
-
-71
-
-72
-
-73
-
-74
+|   Patient weight (kg) |   Dose (mL) |   Maximum infusion rate (mL/h) |   Minimum infusion time (min) |
+|-----------------------|-------------|--------------------------------|-------------------------------|
+|                    53 |        26.5 |                             25 |                            64 |
+|                    54 |        27   |                             25 |                            65 |
+|                    55 |        27.5 |                             25 |                            67 |
+|                    56 |        28   |                             25 |                            67 |
+|                    57 |        28.5 |                             25 |                            68 |
+|                    58 |        29   |                             25 |                            70 |
+|                    59 |        29.5 |                             25 |                            71 |
 
 <div style=\"page-break-after: always\"></div>
 
 |   Patient weight (kg) |   Dose (mL) |   Maximum infusion rate (mL/h) |   Minimum infusion time (min) |
 |-----------------------|-------------|--------------------------------|-------------------------------|
+|                    12 |         6   |                            7.2 |                            50 |
+|                    13 |         6.5 |                            7.8 |                            50 |
+|                    14 |         7   |                            8.4 |                            50 |
 |                    15 |         7.5 |                            9   |                            50 |
 |                    16 |         8   |                            9.6 |                            50 |
 |                    17 |         8.5 |                           10.2 |                            50 |
@@ -1471,6 +1390,9 @@ time (min)
 
 |   Patient weight (kg) |   Dose (mL) |   Maximum infusion rate (mL/h) |   Minimum infusion time (min) |
 |-----------------------|-------------|--------------------------------|-------------------------------|
+|                    60 |        30   |                             25 |                            72 |
+|                    61 |        30.5 |                             25 |                            73 |
+|                    62 |        31   |                             25 |                            74 |
 |                    63 |        31.5 |                             25 |                            76 |
 |                    64 |        32   |                             25 |                            77 |
 |                    65 |        32.5 |                             25 |                            78 |
@@ -1510,6 +1432,8 @@ time (min)
 |                    99 |        49.5 |                             25 |                           119 |
 
 - f) When the last syringe is empty, the dose syringe is replaced with a 20 mL syringe filled with sodium chloride 9 mg/mL (0.9%) solution for injection. A volume of 10 mL sodium chloride solution should be administered through the infusion system to infuse the remaining fraction of Lamzede in the line to the patient.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Disposal
 

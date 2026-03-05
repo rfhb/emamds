@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-01-30 09:33:15
-document_pages: 57
+document_datetime: 2026-03-02 10:15:24
+document_pages: 55
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/nexium-control-epar-product-information_en.pdf
 document_name: nexium-control-epar-product-information_en.pdf
 version: success
-processing_time: 10.6345661
-conversion_datetime: 2025-12-28 04:25:52.918036
+processing_time: 11.9390164
+conversion_datetime: 2026-03-05 11:45:39.658534
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -56,7 +56,7 @@ The recommended dose is 20 mg esomeprazole (one tablet) per day.
 
 It might be necessary to take the tablets for 2-3 consecutive days to achieve improvement of symptoms. The duration of treatment is up to 2 weeks. Once complete relief of symptoms has occurred, treatment should be discontinued.
 
-If no symptom relief is obtained within 2 weeks of continuous treatment, the patient should be instructed to consult a doctor.
+If symptoms worsen or if no symptom relief is obtained within 2 weeks of continuous treatment, the patient should be instructed to consult a doctor.
 
 ## Special populations
 
@@ -80,6 +80,8 @@ There is no relevant use of Nexium Control in the paediatric population below 18
 
 ## Method of administration
 
+## Oral use.
+
 The tablets should be swallowed whole with half a glass of water. The tablets must not be chewed or crushed.
 
 Alternatively, the tablet can be dispersed in half a glass of non-carbonated water. No other liquids should be used as the enteric coating may be dissolved. The water should be stirred until the tablet disintegrates. The liquid with the pellets should be drunk immediately or within 30 minutes. The glass should be rinsed with half a glass of water and the water drunk. The pellets should not be chewed or crushed.
@@ -88,7 +90,7 @@ Alternatively, the tablet can be dispersed in half a glass of non-carbonated wat
 
 Hypersensitivity to the active substance, substituted benzimidazoles or to any of the excipients listed in section 6.1.
 
-Esomeprazole must not be used concomitantly with nelfinavir (see section 4.5).
+Esomeprazole must not be used concomitantly with nelfinavir or rilpivirine (see section 4.5).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -98,7 +100,434 @@ Patients should be instructed to consult a doctor if:
 
 - They have significant unintentional weight loss, recurrent vomiting, dysphagia, haematemesis or melaena and when gastric ulcer is suspected or present, malignancy should be excluded as treatment with esomeprazole may alleviate symptoms and delay diagnosis.
 - They have had previous gastric ulcer or gastrointestinal surgery.
-- They have been on continuous symptomatic treatment of indigestion or heartburn for 4 or more weeks.
+- They have been on continuous symptomatic treatment of indigestion or heartburn for 4 or more weeks. This may be a sign of a more serious condition.
+- They have frequent wheezing, particularly with heartburn.
+- They have jaundice or severe liver disease.
+- They are aged over 55 years with new or recently changed symptoms.
+
+Patients with long-term recurrent symptoms of indigestion or heartburn should see their doctor at regular intervals. Patients over 55 years taking any non-prescription indigestion or heartburn remedy on a daily basis should inform their pharmacist or doctor.
+
+Patients should not take Nexium Control as a long term preventive medicinal product.
+
+Treatment with proton pump inhibitors (PPIs) may lead to a slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and in hospitalised patients, also possibly Clostridium difficile (see section 5.1).
+
+Patients should consult their doctor before taking this medicinal product if they are due to have an endoscopy or urea breath test.
+
+## Combination with other medicinal products
+
+<div style=\"page-break-after: always\"></div>
+
+Co-administration of esomeprazole with atazanavir is not recommended (see section 4.5). If the combination of atazanavir with a PPI is judged unavoidable, close clinical monitoring is recommended in combination with an increase in the dose of atazanavir to 400 mg with 100 mg of ritonavir. Esomeprazole 20 mg should not be exceeded.
+
+Esomeprazole is a CYP2C19 inhibitor. When starting or ending treatment with esomeprazole, the potential for interactions with medicinal products metabolised through CYP2C19 should be considered. An interaction is observed between clopidogrel and esomeprazole. The clinical relevance of this interaction is uncertain. The use of esomeprazole with clopidogrel should be discouraged (see section 4.5).
+
+Patients should not take another PPI or H2 antagonist concomitantly.
+
+## Interference with laboratory tests
+
+Increased Chromogranin A (CgA) level may interfere with investigations for neuroendocrine tumours. To avoid this interference, Nexium Control treatment should be stopped for at least 5 days before CgA measurements (see section 5.1). If CgA and gastrin levels have not returned to reference range after initial measurement, measurements should be repeated 14 days after cessation of proton pump inhibitor treatment.
+
+## Subacute cutaneous lupus erythematosus (SCLE)
+
+Proton pump inhibitors are associated with very infrequent cases of SCLE. If lesions occur, especially in sun-exposed areas of the skin, and if accompanied by arthralgia, the patient should seek medical help promptly and the health care professional should consider stopping Nexium Control. SCLE after previous treatment with a proton pump inhibitor may increase the risk of SCLE with other proton pump inhibitors.
+
+## Severe cutaneous adverse reactions (SCARs)
+
+Severe cutaneous adverse reactions (SCARs) such as erythema multiforme (EM), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS) which can be life-threatening or fatal, have been reported very rarely in association with esomeprazole treatment.
+
+Patients should be advised of the signs and symptoms of the severe skin reaction EM/SJS/TEN/DRESS and should seek medical advice from their physician immediately when observing any indicative signs or symptoms. Esomeprazole should be discontinued immediately upon signs and symptoms of severe skin reactions and additional medical care/close monitoring should be provided as needed. Re-challenge should not be undertaken in patients with EM/SJS/TEN/DRESS.
+
+## Sucrose
+
+This medicinal product contains sugar spheres (sucrose). Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicinal product.
+
+## Sodium
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium free'.
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
+
+Interaction studies have only been performed in adults.
+
+Effects of esomeprazole on the pharmacokinetics of other medicinal products As esomeprazole is one enantiomer of omeprazole it is reasonable to advise about interactions reported with omeprazole.
+
+<div style=\"page-break-after: always\"></div>
+
+## Protease inhibitors
+
+Omeprazole has been reported to interact with some protease inhibitors. The clinical importance and the mechanisms behind these reported interactions are not always known. Increased gastric pH during omeprazole treatment may change the absorption of the protease inhibitors. Other possible interaction mechanisms are via inhibition of CYP2C19.
+
+For atazanavir and nelfinavir, decreased serum levels have been reported when given together with omeprazole and concomitant administration is not recommended. Co-administration of omeprazole (40 mg once daily) with atazanavir 300 mg/ritonavir 100 mg to healthy volunteers resulted in a substantial reduction in atazanavir exposure (approximately 75% decrease in AUC, Cmax and Cmin). Increasing the atazanavir dose to 400 mg did not compensate for the impact of omeprazole on atazanavir exposure. The co-administration of omeprazole (20 mg once a day) with atazanavir 400 mg/ritonavir 100 mg to healthy volunteers resulted in a decrease of approximately 30% in the atazanavir exposure as compared with the exposure observed with atazanavir 300 mg/ritonavir 100 mg once a day without omeprazole 20 mg once a day. Co-administration of omeprazole (40 mg once a day) reduced mean nelfinavir AUC, Cmax and Cmin by 36-39 % and mean AUC, Cmax and Cmin for the pharmacologically active metabolite M8 was reduced by 75-92%. Due to the similar pharmacodynamic effects and pharmacokinetic properties of omeprazole and esomeprazole, concomitant administration with esomeprazole and atazanavir is not recommended and concomitant administration with esomeprazole and nelfinavir is contraindicated (see section 4.3 and 4.4).
+
+For saquinavir (with concomitant ritonavir), increased serum levels (80-100%) have been reported during concomitant omeprazole treatment (40 mg once a day). Treatment with omeprazole 20 mg once a day had no effect on the exposure of darunavir (with concomitant ritonavir) and amprenavir (with concomitant ritonavir).
+
+Treatment with esomeprazole 20 mg once a day had no effect on the exposure of amprenavir (with and without concomitant ritonavir). Treatment with omeprazole 40 mg once a day had no effect on the exposure of lopinavir (with concomitant ritonavir).
+
+## Methotrexate
+
+When given together with PPIs, methotrexate levels have been reported to increase in some patients. In high-dose methotrexate administration a temporary withdrawal of esomeprazole may need to be considered.
+
+## Tacrolimus
+
+Concomitant administration of esomeprazole has been reported to increase the serum levels of tacrolimus. A reinforced monitoring of tacrolimus concentrations as well as renal function (creatinine clearance) should be performed, and the dose of tacrolimus adjusted if needed.
+
+## Medicinal products with pH dependent absorption
+
+Gastric acid suppression during treatment with esomeprazole and other PPIs might decrease or increase the absorption of medicinal products with a gastric pH dependent absorption. The absorption of medicinal products taken orally such as ketoconazole, itraconazole, erlotinib and levothyroxine can decrease and dose adjustments may be required during treatment with esomeprazole and the absorption of digoxin can increase during treatment with esomeprazole.
+
+Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (up to 30% in two out of ten subjects). Digoxin toxicity has been rarely reported. However, caution should be exercised when esomeprazole is given at high doses in elderly patients. Therapeutic monitoring of digoxin should then be reinforced.
+
+## Medicinal products metabolised by CYP2C19
+
+Esomeprazole inhibits CYP2C19, the major esomeprazole metabolising enzyme. Thus, when esomeprazole is combined with medicinal products metabolised by CYP2C19, such as warfarin, phenytoin, citalopram, imipramine, clomipramine, diazepam, etc., the plasma concentrations of these medicinal products may be increased and a dose reduction could be needed. In case of clopidogrel, a
+
+<div style=\"page-break-after: always\"></div>
+
+prodrug which is transformed into its active metabolite via CYP2C19, the plasma concentrations of the active metabolite may be decreased.
+
+## Warfarin
+
+Concomitant administration of 40 mg esomeprazole to warfarin-treated patients in a clinical study showed that coagulation times were within the accepted range. However, post-marketing, a few isolated cases of elevated INR of clinical significance have been reported during concomitant treatment. Monitoring is recommended when initiating and ending concomitant esomeprazole treatment during treatment with warfarin or other coumarine derivatives.
+
+## Clopidogrel
+
+Results from studies in healthy subjects have shown a pharmacokinetic (PK)/pharmacodynamic (PD) interaction between clopidogrel (300 mg loading dose/75 mg daily maintenance dose) and esomeprazole (40 mg orally daily) resulting in decreased exposure to the active metabolite of clopidogrel by an average of 40%, and resulting in decreased maximum inhibition of (ADP induced) platelet aggregation by an average of 14%.
+
+In a study in healthy subjects, there was a decreased exposure by almost 40% of the active metabolite of clopidogrel when a fixed dose combination of esomeprazole 20 mg + acetylsalicylic acid 81 mg was given with clopidogrel compared to clopidogrel alone. However, the maximum levels of inhibition of (ADP induced) platelet aggregation in these subjects were the same in both groups.
+
+Inconsistent data on the clinical implications of this PK/PD interaction in terms of major cardiovascular events have been reported from both observational and clinical studies. As a precaution, concomitant use of esomeprazole and clopidogrel should be discouraged.
+
+## Phenytoin
+
+Concomitant administration of 40 mg esomeprazole resulted in a 13% increase in trough plasma levels of phenytoin in epileptic patients. It is recommended to monitor the plasma concentrations of phenytoin when treatment with esomeprazole is introduced or withdrawn.
+
+## Voriconazole
+
+Omeprazole (40 mg once daily) increased voriconazole (a CYP2C19 substrate) Cmax and AUCτ by 15% and 41%, respectively.
+
+## Cilostazol
+
+Omeprazole as well as esomeprazole act as inhibitors of CYP2C19. Omeprazole, given in doses of 40 mg to healthy subjects in a cross-over study, increased Cmax and AUC for cilostazol by 18% and 26% respectively, and one of its active metabolites by 29% and 69% respectively.
+
+## Cisapride
+
+In healthy volunteers, concomitant administration of 40 mg esomeprazole resulted in a 32% increase in area under the plasma concentration-time curve (AUC) and a 31% prolongation of elimination half-life(t1/2) but no significant increase in peak plasma levels of cisapride. The slightly prolonged QTc interval observed after administration of cisapride alone, was not further prolonged when cisapride was given in combination with esomeprazole.
+
+## Diazepam
+
+Concomitant administration of 30 mg esomeprazole resulted in a 45% decrease in clearance of the CYP2C19 substrate diazepam.
+
+## Investigated medicinal products with no clinically relevant interaction Amoxicillin and quinidine
+
+Esomeprazole has been shown to have no clinically relevant effects on the pharmacokinetics of amoxicillin and quinidine.
+
+<div style=\"page-break-after: always\"></div>
+
+## Naproxen or rofecoxib
+
+Studies evaluating concomitant administration of esomeprazole and either naproxen or rofecoxib did not identify any clinically relevant pharmacokinetic interactions during short-term studies.
+
+## Effects of other medicinal products on the pharmacokinetics of esomeprazole
+
+## Medicinal products which inhibit CYP2C19 and/or CYP3A4
+
+Esomeprazole is metabolised by CYP2C19 and CYP3A4. Concomitant administration of esomeprazole and a CYP3A4 inhibitor, clarithromycin (500 mg twice a day (b.i.d.)), resulted in a doubling of the exposure (AUC) to esomeprazole. Concomitant administration of esomeprazole and a combined inhibitor of CYP2C19 and CYP 3A4 may result in more than doubling of the esomeprazole exposure. The CYP2C19 and CYP3A4 inhibitor voriconazole increased omeprazole AUCt by 280%. A dose adjustment of esomeprazole is not regularly required in either of these situations. However, dose adjustment should be considered in patients with severe hepatic impairment and if long-term treatment is indicated.
+
+## Medicinal products which induce CYP2C19 and/or CYP3A4
+
+Medicinal products known to induce CYP2C19 or CYP3A4 or both (such as rifampicin and St. John's wort (Hypericum perforatum) ) may lead to decreased esomeprazole serum levels by increasing the esomeprazole metabolism.
+
+## 4.6 Fertility, pregnancy and lactation
+
+## Pregnancy
+
+A moderate amount of data on pregnant women (between 300-1,000 pregnancy outcomes) indicate no malformative or feto/ neonatal toxicity of esomeprazole.
+
+Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
+
+As a precautionary measure , it is preferable to avoid the use of Nexium Control during pregnancy.
+
+## Breast-feeding
+
+Limited information indicates that esomeprazole is excreted in human milk. There is insufficient information on the effects of esomeprazole in newborns/infants. Esomeprazole should not be used during breast-feeding.
+
+## Fertility
+
+Animal studies with the racemic mixture omeprazole, given by oral administration do not indicate effects with respect to fertility.
+
+## 4.7 Effects on ability to drive and use machines
+
+Esomeprazole has minor influence on the ability to drive or use machines. Adverse reactions such as dizziness and visual disturbances are uncommon (see section 4.8). If affected, patients should not drive or use machines.
+
+## 4.8 Undesirable effects
+
+## Summary of the safety profile
+
+Headache, abdominal pain, diarrhoea and nausea are among those adverse reactions that have been most commonly reported in clinical studies (and also from post-marketing use). In addition, the safety profile is similar for different formulations, treatment indications, age groups and patient populations. No dose-related adverse reactions have been identified.
+
+## Tabulated list of adverse reactions
+
+The following adverse reactions have been identified or suspected in the clinical studies programme for esomeprazole and post-marketing. The reactions are classified according to MedDRA frequency convention: very common (≥ 1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare
+
+<div style=\"page-break-after: always\"></div>
+
+(≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
+
+|                                                 | Common                                                                                                | Uncommon                            | Rare                                                                              | Very rare                     | Not known                                                                                                                           |
+|-------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------|-----------------------------------------------------------------------------------|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Blood and lymphatic system disorders            |                                                                                                       |                                     | leukopenia, thrombocytope- nia                                                    | agranulocytosis, pancytopenia |                                                                                                                                     |
+| Immune system disorders                         |                                                                                                       |                                     | hypersensitivity reactions e.g. fever, angioedema and anaphylactic reaction/shock |                               |                                                                                                                                     |
+| Metabolism and nutrition disorders              |                                                                                                       | peripheral oedema                   | hyponatraemia                                                                     |                               | hypomagne- saemia; severe hypomagne- saemia can correlate with hypocalcae- mia; hypomagne- saemia may also result in hypokalaem- ia |
+| Psychiatric disorders                           |                                                                                                       | insomnia                            | agitation, confusion, depression                                                  | aggression, hallucinations    |                                                                                                                                     |
+| Nervous system disorders                        | headache                                                                                              | dizziness, paraesthesia, somnolence | taste disturbance                                                                 |                               |                                                                                                                                     |
+| Eye disorders                                   |                                                                                                       |                                     | blurred vision                                                                    |                               |                                                                                                                                     |
+| Ear and labyrinth disorders                     |                                                                                                       | vertigo                             |                                                                                   |                               |                                                                                                                                     |
+| Respiratory, thoracic and mediastinal disorders |                                                                                                       |                                     | bronchospasm                                                                      |                               |                                                                                                                                     |
+| Gastrointestinal disorders                      | abdominal pain, constipa- tion, diarrhoea, flatulence, nausea/ vomiting, fundic gland polyps (benign) | dry mouth                           | stomatitis, gastrointestinal candidiasis                                          |                               | microscopic colitis                                                                                                                 |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                                     | Common   | Uncommon                             | Rare                               | Very rare                                                                                                                                       | Not known                                                  |
+|-----------------------------------------------------|----------|--------------------------------------|------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| Hepatobiliary disorders                             |          | increased liver enzymes              | hepatitis with or without jaundice | hepatic failure, hepatic encephalopathy in patients with pre-existing liver disease                                                             |                                                            |
+| Skin and subcutaneous tissue disorders              |          | dermatitis, pruritus, rash urticaria | alopecia, photosensitivity         | erythema multiforme, Stevens- Johnson syndrome, toxic epidermal necrolysis (TEN), Drug reaction with eosinophilia and systemic symptoms (DRESS) | Subacute cutaneous lupus erythematosu s (see section 4.4). |
+| Musculoskeletal and connective tissue disorders     |          |                                      | arthralgia, myalgia                | muscular weakness                                                                                                                               |                                                            |
+| Renal and urinary disorders                         |          |                                      |                                    | Interstitial nephritis                                                                                                                          |                                                            |
+| Reproductive system and breast disorders            |          |                                      |                                    | gynaecomastia                                                                                                                                   |                                                            |
+| General disorders and administration site disorders |          |                                      | malaise, increased sweating        |                                                                                                                                                 |                                                            |
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+## 4.9 Overdose
+
+There is very limited experience to date with deliberate overdose. The symptoms described in connection with 280 mg esomeprazole were gastrointestinal symptoms and weakness. Single doses of 80 mg esomeprazole were uneventful. No specific antidote is known. Esomeprazole is extensively plasma protein bound and is therefore not readily dialysable. Treatment should be symptomatic and general supportive measures should be utilised.
+
+## 5. PHARMACOLOGICAL PROPERTIES
+
+## 5.1 Pharmacodynamic properties
+
+Pharmacotherapeutic group: Drugs for acid related disorders, proton pump inhibitors, ATC code: A02BC05.
+
+<div style=\"page-break-after: always\"></div>
+
+Esomeprazole is the S-isomer of omeprazole and reduces gastric acid secretion through a specific targeted mechanism of action. It is a specific inhibitor of the acid pump in the parietal cell. Both the Rand S-isomer of omeprazole have similar pharmacodynamic activity.
+
+## Mechanism of action
+
+Esomeprazole is a weak base and is concentrated and converted to the active form in the highly acidic environment of the secretory canaliculi of the parietal cell, where it inhibits the enzyme H + K + -ATPase (the acid pump) and inhibits both basal and stimulated acid secretion.
+
+## Pharmacodynamic effects
+
+After oral dosing with esomeprazole 20 mg and 40 mg the onset of effect occurs within one hour. After repeated administration with 20 mg esomeprazole once daily for five days, mean peak acid output after pentagastrin stimulation is decreased 90% when measured 6-7 hours after dosing on day five.
+
+After five days of oral dosing with 20 mg and 40 mg of esomeprazole, intragastric pH above 4 was maintained for a mean time of 13 hours and 17 hours, respectively over 24 hours in symptomatic gastroesophageal reflux disease (GERD) patients. The proportion of patients maintaining an intragastric pH above 4 for at least 8, 12 and 16 hours respectively were for esomeprazole 20 mg 76%, 54% and 24%. Corresponding proportions for esomeprazole 40 mg were 97%, 92% and 56%.
+
+Using AUC as a surrogate parameter for plasma concentration, a relationship between inhibition of acid secretion and exposure has been shown.
+
+During treatment with antisecretory medicinal products, serum gastrin increases in response to the decreased acid secretion. Also CgA increases due to decreased gastric acidity. The increased CgA level may interfere with investigations for neuroendocrine tumours.
+
+Available published evidence suggests that proton pump inhibitors should be discontinued between 5 days and 2 weeks prior to CgA measurements. This is to allow CgA levels that might be spuriously elevated following PPI treatment to return to reference range.
+
+An increased number of ECL cells possibly related to the increased serum gastrin levels, have been observed in some patients during long-term treatment with esomeprazole.
+
+Decreased gastric acidity due to any means including PPIs, increases gastric counts of bacteria normally present in the gastrointestinal tract. Treatment with PPIs may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and in hospitalised patients, also possibly Clostridium difficile .
+
+## Clinical efficacy
+
+Esomeprazole 20 mg has been demonstrated to effectively treat frequent heartburn in subjects receiving one dose per 24 hours over 2 weeks. In two multicenter, randomized, double-blind, placebo-controlled pivotal studies 234 subjects with a recent history of frequent heartburn were treated with 20 mg esomeprazole for 4 weeks. Symptoms associated with acid reflux (such as heartburn and acid regurgitation) were evaluated retrospectively over a 24 hour period. In both studies esomeprazole 20 mg was significantly better compared to placebo for the primary endpoint, complete resolution of heartburn, defined as no heartburn episodes during the last 7 days prior to the final visit (33.9% - 41.6% vs. placebo 11.9 - 13.7%, (p&lt;0.001). The secondary endpoint of complete resolution of heartburn, defined as no heartburn on the patient's diary card for 7 consecutive days, was statistically significant at both week 1 (10.0% - 15.2% vs placebo 0.9% - 2.4%, p = 0.014, p&lt;0.001) and week 2 (25.2% - 35.7% vs placebo 3.4% - 9.0%, p&lt;0.001).
+
+<div style=\"page-break-after: always\"></div>
+
+Other secondary endpoints were supportive of the primary endpoint, including relief of heartburn at week 1 and week 2, percentage of 24 hour days without heartburn at week 1 and week 2, mean heartburn severity at week 1 and week 2, and time to initial and sustained resolution of heartburn over a 24 hour period and during the night compared to placebo. Approximately 78% of the subjects on 20 mg esomeprazole reported first resolution of heartburn within the first week of treatment compared to 52 - 58% for placebo. Time to sustained resolution of heartburn, defined as when 7 consecutive days of no heartburn was first recorded, was significantly shorter in the esomeprazole 20 mg group (39.7% - 48.7% by day 14 vs placebo 11.0% - 20.2%). The median time to first resolution of night-time heartburn was 1 day, statistically significant compared to placebo in one study (p=0.048) and approaching significance in the other (p=0.069). About 80% of nights were heartburn free during all time periods and 90% of nights were heartburn free by week 2 of each clinical study, compared to 72.4 - 78.3% for placebo. The investigators' assessments of heartburn resolution were consistent with the subjects' assessments, showing statistically significant differences between esomeprazole (34.7% - 41.8%) compared to placebo (8.0% - 11.4%). The investigators also found esomeprazole to be significantly more effective than placebo in resolving acid regurgitation (58.5% - 63.6% vs placebo 28.3% - 37.4%) during the week 2 evaluation.
+
+Following Overall Treatment Evaluation (OTE) of patients at week 2, 78.0-80.7% of patients on esomeprazole 20 mg, compared to 72.4 - 78.3% for placebo, reported their condition as improved. The majority of these rated the importance of this change to be Important to Extremely Important in performing their activities of daily living (79 - 86% at week 2).
+
+## 5.2 Pharmacokinetic properties
+
+## Absorption
+
+Esomeprazole is acid labile and is administered orally as enteric-coated granules. In vivo conversion to the R-isomer is negligible. Absorption of esomeprazole is rapid, with peak plasma levels occurring approximately 1-2 hours after dose. The absolute bioavailability is 64% after a single dose of 40 mg and increases to 89% after repeated once-daily administration. For 20 mg esomeprazole the corresponding values are 50% and 68% respectively. Food intake both delays and decreases the absorption of esomeprazole although this has no significant influence on the effect of esomeprazole on intragastric acidity.
+
+## Distribution
+
+The apparent volume of distribution at steady state in healthy subjects is approximately 0.22 l/kg body weight. Esomeprazole is 97% plasma protein bound.
+
+## Biotransformation
+
+Esomeprazole is completely metabolised by the cytochrome P450 system (CYP). The major part of the metabolism of esomeprazole is dependent on the polymorphic CYP2C19, responsible for the formation of the hydroxy- and desmethyl metabolites of esomeprazole. The remaining part is dependent on another specific isoform, CYP3A4, responsible for the formation of esomeprazole sulphone, the main metabolite in plasma.
+
+## Elimination
+
+The parameters below reflect mainly the pharmacokinetics in individuals with a functional CYP2C19 enzyme, extensive metabolisers.
+
+Total plasma clearance is about 17 l/h after a single dose and about 9 l/h after repeated administration. The plasma elimination half-life is about 1.3 hours after repeated once-daily dosing. Esomeprazole is completely eliminated from plasma between doses with no tendency for accumulation during once-daily administration. The major metabolites of esomeprazole have no effect on gastric acid secretion. Almost 80% of an oral dose of esomeprazole is excreted as metabolites in the urine, the remainder in the faeces. Less than 1% of the parent compound is found in urine.
+
+<div style=\"page-break-after: always\"></div>
+
+## Linearity/non-linearity
+
+The pharmacokinetics of esomeprazole has been studied in doses up to 40 mg b.i.d. The area under the plasma concentration-time curve increases with repeated administration of esomeprazole. This increase is dose-dependent and results in a more than dose proportional increase in AUC after repeated administration. This time and dose-dependency is due to a decrease of first pass metabolism and systemic clearance probably caused by an inhibition of the CYP2C19 enzyme by esomeprazole and/or its sulphone metabolite.
+
+## Special patient populations
+
+## Poor metabolisers
+
+Approximately 2.9±1.5% of the population lack a functional CYP2C19 enzyme and are called poor metabolisers. In these individuals the metabolism of esomeprazole is probably mainly catalysed by CYP3A4. After repeated once-daily administration of 40 mg esomeprazole, the mean area under the plasma concentration-time curve was approximately 100% higher in poor metabolisers than in subjects having a functional CYP2C19 enzyme (extensive metabolisers). Mean peak plasma concentrations were 60% higher.
+
+These findings have no implications for the posology of esomeprazole.
+
+## Gender
+
+Following a single dose of 40 mg esomeprazole the mean are under the plasma concentration-time curve is approximately 30% higher in females than in males. No gender difference is seen after repeated once-daily administration. These findings have no implications for the posology of esomeprazole.
+
+## Hepatic impairment
+
+The metabolism of esomeprazole in patients with mild to moderate liver dysfunction may be impaired. The metabolic rate is decreased in patients with severe liver dysfunction resulting in a doubling of the area under the plasma concentration-time curve of esomeprazole. Therefore, a maximum of 20 mg should not be exceeded in patients with severe dysfunction. Esomeprazole or its major metabolites do not show any tendency to accumulate with once-daily dosing.
+
+## Renal impairment
+
+No studies have been performed in patients with decreased renal function. Since the kidney is responsible for the excretion of the metabolites of esomeprazole but not for the elimination of the parent compound, the metabolism of esomeprazole is not expected to be changed in patients with impaired renal function.
+
+## Elderly patients (≥65 years old)
+
+The metabolism of esomeprazole is not significantly changed in elderly patients (71-80 years of age).
+
+## 5.3 Preclinical safety data
+
+Non-clinical data reveal no particular hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, and toxicity to reproduction and development. Adverse reactions not observed in clinical studies, but seen in animals at exposure levels similar to clinical exposure levels and with possible relevance to clinical use were as follows: Carcinogenicity studies in the rat with the racemic mixture have shown gastric ECL-cell hyperplasia and carcinoids. These gastric effects in the rat are the result of sustained, pronounced hypergastrinaemia secondary to reduced production of gastric acid and are observed after long-term treatment in the rat with inhibitors of gastric acid secretion.
+
+<div style=\"page-break-after: always\"></div>
+
+## 6. PHARMACEUTICAL PARTICULARS
+
+## 6.1 List of excipients
+
+Glycerol monostearate 40-55 Hydroxypropylcellulose Hypromellose 2910 (6 mPa·s) Reddish-brown iron oxide (E172) Yellow iron oxide (E172) Magnesium stearate Methacrylic acid ethylacrylate copolymer (1:1) dispersion 30 per cent Cellulose microcrystalline Synthetic Paraffin Macrogol 6000 Polysorbate 80 Crospovidone (Type A) Sodium stearyl fumarate Sugar spheres (sucrose and maize starch) Talc Titanium dioxide (E171) Triethyl citrate
+
+## 6.2 Incompatibilities
+
+Not applicable.
+
+## 6.3 Shelf life
+
+3 years
+
+## 6.4 Special precautions for storage
+
+Do not store above 30°C Store in the original package in order to protect from moisture.
+
+## 6.5 Nature and contents of container
+
+Aluminium blister. Pack sizes of 7, 14 and 28 gastro-resistant tablets.
+
+Not all pack sizes may be marketed.
+
+## 6.6 Special precautions for disposal
+
+No special requirements.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+<div style=\"page-break-after: always\"></div>
+
+Haleon Ireland Dungarvan Limited, Knockbrack, Dungarvan, Co. Waterford, Ireland
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/13/860/001 EU/1/13/860/002 EU/1/13/860/004
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 26 August 2013
+
+Date of latest renewal: 25 June 2018
+
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Nexium Control 20 mg gastro-resistant hard capsules
+
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+Each gastro-resistant hard capsule contains 20 mg esomeprazole (as magnesium trihydrate)
+
+## Excipient(s) with known effect
+
+Each gastro-resistant hard capsule contains 11.5 mg sucrose and 0.01 mg allura red AC (E129).
+
+For the full list of excipients, see section 6.1.
+
+## 3. PHARMACEUTICAL FORM
+
+Gastro-resistant hard capsule. (Gasto-resistant capsule).
+
+Capsule approximately 11 x 5 mm, with a clear body, and an amethyst cap imprinted with 'NEXIUM 20 MG' in white. The capsule has a yellow centre band, and contains yellow and purple enteric coated pellets.
+
+## 4. CLINICAL PARTICULARS
+
+## 4.1 Therapeutic indications
+
+Nexium Control is indicated for the short-term treatment of reflux symptoms (e.g. heartburn and acid regurgitation) in adults.
+
+## 4.2 Posology and method of administration
+
+## Posology
+
+The recommended dose is 20 mg esomeprazole (one capsule) per day.
+
+It might be necessary to take the capsules for 2-3 consecutive days to achieve improvement of symptoms. The duration of treatment is up to 2 weeks. Once complete relief of symptoms has occurred, treatment should be discontinued.
+
+If symptoms worsen or if no symptom relief is obtained within 2 weeks of continuous treatment, the patient should be instructed to consult a doctor.
+
+## Special populations
+
+## Patients with renal impairment
+
+Dose adjustment is not required in patients with impaired renal function. Due to limited experience in patients with severe renal insufficiency, such patients should be treated with caution (see section 5.2).
+
+## Patients with hepatic impairment
+
+Dose adjustment is not required in patients with mild to moderate liver impairment. However, patients with severe liver impairment should be advised by a doctor before taking Nexium Control (see sections 4.4 and 5.2).
+
+## Elderly patients (≥65 years old)
+
+Dose adjustment is not required in elderly patients.
+
+<div style=\"page-break-after: always\"></div>
+
+## Paediatric population
+
+There is no relevant use of Nexium Control in the paediatric population below 18 years of age for the indication of 'short-term treatment of reflux symptoms (e.g., heartburn and acid regurgitation)'.
+
+## Method of administration
+
+## Oral use.
+
+The capsules should be swallowed whole with half a glass of water. The capsules must not be chewed, crushed or opened.
+
+## 4.3 Contraindications
+
+Hypersensitivity to the active substance, substituted benzimidazoles or to any of the excipients listed in section 6.1.
+
+Esomeprazole must not be used concomitantly with nelfinavir or rilpivirine (see section 4.5).
+
+## 4.4 Special warnings and precautions for use
+
+## General
+
+Patients should be instructed to consult a doctor if:
+
+- They have significant unintentional weight loss, recurrent vomiting, dysphagia, haematemesis or melaena and when gastric ulcer is suspected or present, malignancy should be excluded as treatment with esomeprazole may alleviate symptoms and delay diagnosis.
+- They have had previous gastric ulcer or gastrointestinal surgery.
+- They have been on continuous symptomatic treatment of indigestion or heartburn for 4 or more weeks. This may be a sign of a more serious condition.
+- They have frequent wheezing, particularly with heartburn.
 - They have jaundice or severe liver disease.
 - They are aged over 55 years with new or recently changed symptoms.
 
@@ -140,25 +569,25 @@ This medicinal product contains sugar spheres (sucrose). Patients with rare here
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium free'.
+
+## Allura red AC (E129)
+
+This medicinal product contains azo colouring agent, Allura red AC (E129), which may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 Interaction studies have only been performed in adults.
 
-## Effects of esomeprazole on the pharmacokinetics of other medicinal products
-
-As esomeprazole is one enantiomer of omeprazole it is reasonable to advise about interactions reported with omeprazole.
-
-## Protease inhibitors
-
-Omeprazole has been reported to interact with some protease inhibitors. The clinical importance and the mechanisms behind these reported interactions are not always known. Increased gastric pH during
+Effects of esomeprazole on the pharmacokinetics of other medicinal products As esomeprazole is one enantiomer of omeprazole it is reasonable to advise about interactions reported with omeprazole.
 
 <div style=\"page-break-after: always\"></div>
 
-omeprazole treatment may change the absorption of the protease inhibitors. Other possible interaction mechanisms are via inhibition of CYP2C19.
+## Protease inhibitors
 
-For atazanavir and nelfinavir, decreased serum levels have been reported when given together with omeprazole and concomitant administration is not recommended. Co-administration of omeprazole (40 mg once daily) with atazanavir 300 mg/ritonavir 100 mg to healthy volunteers resulted in a substantial reduction in atazanavir exposure (approximately 75% decrease in AUC, Cmax and Cmin). Increasing the atazanavir dose to 400 mg did not compensate for the impact of omeprazole on atazanavir exposure. The co-administration of omeprazole (20 mg once a day) with atazanavir 400 mg/ritonavir 100 mg to healthy volunteers resulted in a decrease of approximately 30% in the atazanavir exposure as compared with the exposure observed with atazanavir 300 mg/ritonavir 100 mg once a day without omeprazole 20 mg once a day. Co-administration of omeprazole (40 mg once a day) reduced mean nelfinavir AUC, Cmax and Cmin by 36-39 % and mean AUC, Cmax and Cmin for the pharmacologically active metabolite M8 was reduced by 75-92%. Due to the similar pharmacodynamic effects and pharmacokinetic properties of omeprazole and esomeprazole, concomitant administration with esomeprazole and atazanavir is not recommended and concomitant administration with esomeprazole and nelfinavir is contraindicated (see section 4.3 and 4.4).
+Omeprazole has been reported to interact with some protease inhibitors. The clinical importance and the mechanisms behind these reported interactions are not always known. Increased gastric pH during omeprazole treatment may change the absorption of the protease inhibitors. Other possible interaction mechanisms are via inhibition of CYP2C19.
+
+For atazanavir and nelfinavir, decreased serum levels have been reported when given together with omeprazole and concomitant administration is not recommended. Co-administration of omeprazole (40 mg once daily) with atazanavir 300 mg/ritonavir 100 mg to healthy volunteers resulted in a substantial reduction in atazanavir exposure (approximately 75% decrease in AUC, Cmax, and Cmin). Increasing the atazanavir dose to 400 mg did not compensate for the impact of omeprazole on atazanavir exposure. The co-administration of omeprazole (20 mg once a day) with atazanavir 400 mg/ritonavir 100 mg to healthy volunteers resulted in a decrease of approximately 30% in the atazanavir exposure as compared with the exposure observed with atazanavir 300 mg/ritonavir 100 mg once a day without omeprazole 20 mg once a day. Co-administration of omeprazole (40 mg once a day) reduced mean nelfinavir AUC, Cmax, and Cmin by 36 - 39 % and mean AUC, Cmax, and Cmin for the pharmacologically active metabolite M8 was reduced by 75 - 92%. Due to the similar pharmacodynamic effects and pharmacokinetic properties of omeprazole and esomeprazole, concomitant administration with esomeprazole and atazanavir is not recommended and concomitant administration with esomeprazole and nelfinavir is contraindicated (see section 4.3 and 4.4).
 
 For saquinavir (with concomitant ritonavir), increased serum levels (80-100%) have been reported during concomitant omeprazole treatment (40 mg once a day). Treatment with omeprazole 20 mg once a day had no effect on the exposure of darunavir (with concomitant ritonavir) and amprenavir (with concomitant ritonavir).
 
@@ -174,15 +603,17 @@ Concomitant administration of esomeprazole has been reported to increase the ser
 
 ## Medicinal products with pH dependent absorption
 
-Gastric acid suppression during treatment with esomeprazole and other PPIs might decrease or increase the absorption of medicinal products with a gastric pH dependent absorption. The absorption of medicinal products taken orally such as ketoconazole, itraconazole and erlotinib can decrease during treatment with esomeprazole and the absorption of digoxin can increase during treatment with esomeprazole.
+Gastric acid suppression during treatment with esomeprazole and other PPIs might decrease or increase the absorption of medicinal products with a gastric pH dependent absorption. The absorption of medicinal products taken orally such as ketoconazole, itraconazole, erlotinib and levothyroxine can decrease and dose adjustments may be required during treatment with esomeprazole and the absorption of digoxin can increase during treatment with esomeprazole.
 
 Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (up to 30% in two out of ten subjects). Digoxin toxicity has been rarely reported. However, caution should be exercised when esomeprazole is given at high doses in elderly patients. Therapeutic monitoring of digoxin should then be reinforced.
 
 ## Medicinal products metabolised by CYP2C19
 
-Esomeprazole inhibits CYP2C19, the major esomeprazole metabolising enzyme. Thus, when esomeprazole is combined with medicinal products metabolised by CYP2C19, such as warfarin, phenytoin, citalopram, imipramine, clomipramine, diazepam, etc., the plasma concentrations of these medicinal products may be increased and a dose reduction could be needed. In case of clopidogrel, a prodrug which is transformed into its active metabolite via CYP2C19, the plasma concentrations of the active metabolite may be decreased.
+Esomeprazole inhibits CYP2C19, the major esomeprazole metabolising enzyme. Thus, when esomeprazole is combined with medicinal products metabolised by CYP2C19, such as warfarin, phenytoin, citalopram, imipramine, clomipramine, diazepam, etc., the plasma concentrations of these medicinal products may be increased and a dose reduction could be needed. In case of clopidogrel, a
 
 <div style=\"page-break-after: always\"></div>
+
+prodrug which is transformed into its active metabolite via CYP2C19, the plasma concentrations of the active metabolite may be decreased.
 
 ## Warfarin
 
@@ -220,17 +651,17 @@ Concomitant administration of 30 mg esomeprazole resulted in a 45% decrease in c
 
 Esomeprazole has been shown to have no clinically relevant effects on the pharmacokinetics of amoxicillin and quinidine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Naproxen or rofecoxib
 
 Studies evaluating concomitant administration of esomeprazole and either naproxen or rofecoxib did not identify any clinically relevant pharmacokinetic interactions during short-term studies.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Effects of other medicinal products on the pharmacokinetics of esomeprazole
 
 ## Medicinal products which inhibit CYP2C19 and/or CYP3A4
 
-Esomeprazole is metabolised by CYP2C19 and CYP3A4. Concomitant administration of esomeprazole and a CYP3A4 inhibitor, clarithromycin (500 mg twice a day (b.i.d.)), resulted in a doubling of the exposure (AUC) to esomeprazole. Concomitant administration of esomeprazole and a combined inhibitor of CYP2C19 and CYP 3A4 may result in more than doubling of the esomeprazole exposure. The CYP2C19 and CYP3A4 inhibitor voriconazole increased omeprazole AUCt by 280%. A dose adjustment of esomeprazole is not regularly required in either of these situations. However, dose adjustment should be considered in patients with severe hepatic impairment and if long-term treatment is indicated.
+Esomeprazole is metabolised by CYP2C19 and CYP3A4. Concomitant administration of esomeprazole and a CYP3A4 inhibitor, clarithromycin (500 mg twice a day (b.i.d.)), resulted in a doubling of the exposure (AUC) to esomeprazole. Concomitant administration of esomeprazole and a combined inhibitor of CYP2C19 and CYP3A4 may result in more than doubling of the esomeprazole exposure. The CYP2C19 and CYP3A4 inhibitor voriconazole increased omeprazole AUCt by 280%. A dose adjustment of esomeprazole is not regularly required in either of these situations. However, dose adjustment should be considered in patients with severe hepatic impairment and if long-term treatment is indicated.
 
 ## Medicinal products which induce CYP2C19 and/or CYP3A4
 
@@ -248,7 +679,9 @@ As a precautionary measure , it is preferable to avoid the use of Nexium Control
 
 ## Breast-feeding
 
-It is unknown whether esomeprazole/metabolites are excreted in human milk. There is insufficient information on the effects of esomeprazole in newborns/infants. Esomeprazole should not be used during breast-feeding.
+Limited information indicates that esomeprazole is excreted in human milk.
+
+There is insufficient information on the effects of esomeprazole in newborns/infants. Esomeprazole should not be used during breast-feeding.
 
 ## Fertility
 
@@ -266,36 +699,38 @@ Headache, abdominal pain, diarrhoea and nausea are among those adverse reactions
 
 ## Tabulated list of adverse reactions
 
-The following adverse reactions have been identified or suspected in the clinical studies programme for esomeprazole and post-marketing. The reactions are classified according to MedDRA frequency convention: very common (≥ 1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
+The following adverse reactions have been identified or suspected in the clinical studies programme for esomeprazole and post-marketing. The reactions are classified according to MedDRA frequency convention: very common (≥ 1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                 | Common                                                                                                | Uncommon                            | Rare                                                                              | Very rare                                                                           | Not known                                                                                                                           |
-|-------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders            |                                                                                                       |                                     | leukopenia, thrombocytope- nia                                                    | agranulocytosis, pancytopenia                                                       |                                                                                                                                     |
-| Immune system disorders                         |                                                                                                       |                                     | hypersensitivity reactions e.g. fever, angioedema and anaphylactic reaction/shock |                                                                                     |                                                                                                                                     |
-| Metabolism and nutrition disorders              |                                                                                                       | peripheral oedema                   | hyponatraemia                                                                     |                                                                                     | hypomagne- saemia; severe hypomagne- saemia can correlate with hypocalcae- mia; hypomagne- saemia may also result in hypokalaem- ia |
-| Psychiatric disorders                           |                                                                                                       | insomnia                            | agitation, confusion, depression                                                  | aggression, hallucinations                                                          |                                                                                                                                     |
-| Nervous system disorders                        | headache                                                                                              | dizziness, paraesthesia, somnolence | taste disturbance                                                                 |                                                                                     |                                                                                                                                     |
-| Eye disorders                                   |                                                                                                       |                                     | blurred vision                                                                    |                                                                                     |                                                                                                                                     |
-| Ear and labyrinth disorders                     |                                                                                                       | vertigo                             |                                                                                   |                                                                                     |                                                                                                                                     |
-| Respiratory, thoracic and mediastinal disorders |                                                                                                       |                                     | bronchospasm                                                                      |                                                                                     |                                                                                                                                     |
-| Gastrointestinal disorders                      | abdominal pain, constipa- tion, diarrhoea, flatulence, nausea/ vomiting, fundic gland polyps (benign) | dry mouth                           | stomatitis, gastrointestinal candidiasis                                          |                                                                                     | microscopic colitis                                                                                                                 |
-| Hepatobiliary disorders                         |                                                                                                       | increased liver enzymes             | hepatitis with or without jaundice                                                | hepatic failure, hepatic encephalopathy in patients with pre-existing liver disease |                                                                                                                                     |
+(≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
+
+|                                                 | Common                                                                                                | Uncommon                            | Rare                                                                              | Very rare                     | Not known                                                                                                                           |
+|-------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------|-----------------------------------------------------------------------------------|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Blood and lymphatic system disorders            |                                                                                                       |                                     | leukopenia, thrombocytope- nia                                                    | agranulocytosis, pancytopenia |                                                                                                                                     |
+| Immune system disorders                         |                                                                                                       |                                     | hypersensitivity reactions e.g. fever, angioedema and anaphylactic reaction/shock |                               |                                                                                                                                     |
+| Metabolism and nutrition disorders              |                                                                                                       | peripheral oedema                   | hyponatraemia                                                                     |                               | hypomagne- saemia; severe hypomagne- saemia can correlate with hypocalcae- mia; hypomagne- saemia may also result in hypokalaem- ia |
+| Psychiatric disorders                           |                                                                                                       | insomnia                            | agitation, confusion, depression                                                  | aggression, hallucinations    |                                                                                                                                     |
+| Nervous system disorders                        | headache                                                                                              | dizziness, paraesthesia, somnolence | taste disturbance                                                                 |                               |                                                                                                                                     |
+| Eye disorders                                   |                                                                                                       |                                     | blurred vision                                                                    |                               |                                                                                                                                     |
+| Ear and labyrinth disorders                     |                                                                                                       | vertigo                             |                                                                                   |                               |                                                                                                                                     |
+| Respiratory, thoracic and mediastinal disorders |                                                                                                       |                                     | bronchospasm                                                                      |                               |                                                                                                                                     |
+| Gastrointestinal disorders                      | abdominal pain, constipa- tion, diarrhoea, flatulence, nausea/ vomiting, fundic gland polyps (benign) | dry mouth                           | stomatitis, gastrointestinal candidiasis                                          |                               | microscopic colitis                                                                                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                     | Common   | Uncommon                             | Rare                        | Very rare                                                                                                                                       | Not known                                                  |
-|-----------------------------------------------------|----------|--------------------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
-| Skin and subcutaneous tissue disorders              |          | dermatitis, pruritus, rash urticaria | alopecia, photosensitivity  | erythema multiforme, Stevens- Johnson syndrome, toxic epidermal necrolysis (TEN), Drug reaction with eosinophilia and systemic symptoms (DRESS) | Subacute cutaneous lupus erythematosu s (see section 4.4). |
-| Musculoskeletal and connective tissue disorders     |          |                                      | arthralgia, myalgia         | muscular weakness                                                                                                                               |                                                            |
-| Renal and urinary disorders                         |          |                                      |                             | Interstitial nephritis                                                                                                                          |                                                            |
-| Reproductive system and breast disorders            |          |                                      |                             | gynaecomastia                                                                                                                                   |                                                            |
-| General disorders and administration site disorders |          |                                      | malaise, increased sweating |                                                                                                                                                 |                                                            |
+|                                                     | Common   | Uncommon                             | Rare                               | Very rare                                                                                                                                       | Not known                                                  |
+|-----------------------------------------------------|----------|--------------------------------------|------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| Hepatobiliary disorders                             |          | increased liver enzymes              | hepatitis with or without jaundice | hepatic failure, hepatic encephalopathy in patients with pre-existing liver disease                                                             |                                                            |
+| Skin and subcutaneous tissue disorders              |          | dermatitis, pruritus, rash urticaria | alopecia, photosensitivity         | erythema multiforme, Stevens- Johnson syndrome, toxic epidermal necrolysis (TEN), Drug reaction with eosinophilia and systemic symptoms (DRESS) | Subacute cutaneous lupus erythematosu s (see section 4.4). |
+| Musculoskeletal and connective tissue disorders     |          |                                      | arthralgia, myalgia                | muscular weakness                                                                                                                               |                                                            |
+| Renal and urinary disorders                         |          |                                      |                                    | Interstitial nephritis                                                                                                                          |                                                            |
+| Reproductive system and breast disorders            |          |                                      |                                    | gynaecomastia                                                                                                                                   |                                                            |
+| General disorders and administration site disorders |          |                                      | malaise, increased sweating        |                                                                                                                                                 |                                                            |
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the HPRA Pharmacovigilance website: www.hpra.ie
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -307,9 +742,9 @@ There is very limited experience to date with deliberate overdose. The symptoms 
 
 Pharmacotherapeutic group: Drugs for acid related disorders, proton pump inhibitors, ATC code: A02BC05.
 
-Esomeprazole is the S-isomer of omeprazole and reduces gastric acid secretion through a specific targeted mechanism of action. It is a specific inhibitor of the acid pump in the parietal cell. Both the Rand S-isomer of omeprazole have similar pharmacodynamic activity.
-
 <div style=\"page-break-after: always\"></div>
+
+Esomeprazole is the S-isomer of omeprazole and reduces gastric acid secretion through a specific targeted mechanism of action. It is a specific inhibitor of the acid pump in the parietal cell. Both the Rand S-isomer of omeprazole have similar pharmacodynamic activity.
 
 ## Mechanism of action
 
@@ -319,7 +754,7 @@ Esomeprazole is a weak base and is concentrated and converted to the active form
 
 After oral dosing with esomeprazole 20 mg and 40 mg the onset of effect occurs within one hour. After repeated administration with 20 mg esomeprazole once daily for five days, mean peak acid output after pentagastrin stimulation is decreased 90% when measured 6-7 hours after dosing on day five.
 
-After five days of oral dosing with 20 mg and 40 mg of esomeprazole, intragastric pH above 4 was maintained for a mean time of 13 hours and 17 hours, respectively over 24 hours in symptomatic gastroesophageal reflux disease (GERD) patients. The proportion of patients maintaining an intragastric pH above 4 for at least 8, 12 and 16 hours respectively were for esomeprazole 20 mg 76%, 54% and 24%. Corresponding proportions for esomeprazole 40 mg were 97%, 92% and 56%.
+After five days of oral dosing with 20 mg and 40 mg of esomeprazole, intragastric pH above 4 was maintained for a mean time of 13 hours and 17 hours, respectively over 24 hours in symptomatic gastroesophageal reflux disease (GERD) patients. The proportion of patients maintaining an intragastric pH above 4 for at least 8, 12 and 16 hours respectively were for esomeprazole 20 mg 76%, 54%, and 24%. Corresponding proportions for esomeprazole 40 mg were 97%, 92%, and 56%.
 
 Using AUC as a surrogate parameter for plasma concentration, a relationship between inhibition of acid secretion and exposure has been shown.
 
@@ -333,15 +768,15 @@ Decreased gastric acidity due to any means including PPIs, increases gastric cou
 
 ## Clinical efficacy
 
-Esomeprazole 20 mg has been demonstrated to effectively treat frequent heartburn in subjects receiving one dose per 24 hours over 2 weeks. In two multicenter, randomized, double-blind, placebo-controlled pivotal studies 234 subjects with a recent history of frequent heartburn were treated with 20 mg esomeprazole for 4 weeks. Symptoms associated with acid reflux (such as heartburn and acid regurgitation) were evaluated retrospectively over a 24 hour period. In both studies esomeprazole 20 mg was significantly better compared to placebo for the primary endpoint, complete resolution of heartburn, defined as no heartburn episodes during the last 7 days prior to the final visit (33.9% - 41.6% vs. placebo 11.9 - 13.7%, (p&lt;0.001). The secondary endpoint of complete resolution of heartburn, defined as no heartburn on the patient's diary card for 7 consecutive days, was statistically significant at both week 1 (10.0% - 15.2% vs placebo 0.9% - 2.4%, p = 0.014, p&lt;0.001) and week 2 (25.2% - 35.7% vs placebo 3.4% - 9.0%, p&lt;0.001).
+Esomeprazole 20 mg has been demonstrated to effectively treat frequent heartburn in subjects receiving one dose per 24 hours over 2 weeks. In two multicentre, randomised, double-blind, placebo-controlled pivotal studies 234 subjects with a recent history of frequent heartburn were treated with 20 mg esomeprazole for 4 weeks. Symptoms associated with acid reflux (such as heartburn and acid regurgitation) were evaluated retrospectively over a 24 hour period. In both studies esomeprazole 20 mg was significantly better compared to placebo for the primary endpoint, complete resolution of heartburn, defined as no heartburn episodes during the last 7 days prior to the final visit (33.9% - 41.6% vs. placebo 11.9 - 13.7%, (p&lt;0.001). The secondary endpoint of complete resolution of heartburn, defined as no heartburn on the patient's diary card for 7 consecutive days, was statistically significant at both week 1 (10.0% - 15.2% vs. placebo 0.9% - 2.4%, p = 0.014, p&lt;0.001) and week 2 (25.2% - 35.7% vs. placebo 3.4% - 9.0%, p&lt;0.001).
 
-Other secondary endpoints were supportive of the primary endpoint, including relief of heartburn at week 1 and week 2, percentage of 24 hour days without heartburn at week 1 and week 2, mean heartburn severity at week 1 and week 2, and time to initial and sustained resolution of heartburn over a 24 hour period and during the night compared to placebo. Approximately 78% of the subjects on 20 mg esomeprazole reported first resolution of heartburn within the first week of treatment compared to 52 - 58% for placebo. Time to sustained resolution of heartburn, defined as when 7 consecutive days of no heartburn was first recorded, was significantly shorter in the esomeprazole 20 mg group (39.7% - 48.7% by day 14 vs placebo 11.0% - 20.2%). The median time to first resolution of
+Other secondary endpoints were supportive of the primary endpoint, including relief of heartburn at week 1 and week 2, percentage of 24 hour days without heartburn at week 1 and week 2, mean heartburn severity at week 1 and week 2, and time to initial and sustained resolution of heartburn over a 24 hour period and during the night compared to placebo. Approximately 78% of the subjects on
 
 <div style=\"page-break-after: always\"></div>
 
-night-time heartburn was 1 day, statistically significant compared to placebo in one study (p=0.048) and approaching significance in the other (p=0.069). About 80% of nights were heartburn free during all time periods and 90% of nights were heartburn free by week 2 of each clinical study, compared to 72.4 - 78.3% for placebo. The investigators' assessments of heartburn resolution were consistent with the subjects' assessments, showing statistically significant differences between esomeprazole (34.7% - 41.8%) compared to placebo (8.0% - 11.4%). The investigators also found esomeprazole to be significantly more effective than placebo in resolving acid regurgitation (58.5% - 63.6% vs placebo 28.3% - 37.4%) during the week 2 evaluation.
+20 mg esomeprazole reported first resolution of heartburn within the first week of treatment compared to 52 - 58% for placebo. Time to sustained resolution of heartburn, defined as when 7 consecutive days of no heartburn was first recorded, was significantly shorter in the esomeprazole 20 mg group (39.7% - 48.7% by day 14 vs. placebo 11.0% - 20.2%). The median time to first resolution of night-time heartburn was 1 day, statistically significant compared to placebo in one study (p=0.048) and approaching significance in the other (p=0.069). About 80% of nights were heartburn free during all time periods and 90% of nights were heartburn free by week 2 of each clinical study, compared to 72.4 - 78.3% for placebo. The investigators' assessments of heartburn resolution were consistent with the subjects' assessments, showing statistically significant differences between esomeprazole (34.7% - 41.8%) compared to placebo (8.0% - 11.4%). The investigators also found esomeprazole to be significantly more effective than placebo in resolving acid regurgitation (58.5% - 63.6% vs. placebo 28.3% - 37.4%) during the week 2 evaluation.
 
-Following Overall Treatment Evaluation (OTE) of patients at week 2, 78.0-80.7% of patients on esomeprazole 20 mg, compared to 72.4 - 78.3% for placebo, reported their condition as improved. The majority of these rated the importance of this change to be Important to Extremely Important in performing their activities of daily living (79 - 86% at week 2).
+Following Overall Treatment Evaluation (OTE) of patients at week 2, 78.0 - 80.7% of patients on esomeprazole 20 mg, compared to 72.4 - 78.3% for placebo, reported their condition as improved. The majority of these rated the importance of this change to be Important to Extremely Important in performing their activities of daily living (79 - 86% at week 2).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -365,9 +800,11 @@ Total plasma clearance is about 17 l/h after a single dose and about 9 l/h after
 
 ## Linearity/non-linearity
 
-The pharmacokinetics of esomeprazole has been studied in doses up to 40 mg b.i.d. The area under the plasma concentration-time curve increases with repeated administration of esomeprazole. This increase is dose-dependent and results in a more than dose proportional increase in AUC after repeated administration. This time and dose-dependency is due to a decrease of first pass metabolism and systemic clearance probably caused by an inhibition of the CYP2C19 enzyme by esomeprazole and/or its sulphone metabolite.
+The pharmacokinetics of esomeprazole has been studied in doses up to 40 mg b.i.d. The area under the plasma concentration-time curve increases with repeated administration of esomeprazole. This increase is dose-dependent and results in a more than dose proportional increase in AUC after repeated administration. This time and dose-dependency is due to a decrease of first pass metabolism and
 
 <div style=\"page-break-after: always\"></div>
+
+systemic clearance probably caused by an inhibition of the CYP2C19 enzyme by esomeprazole and/or its sulphone metabolite.
 
 ## Special patient populations
 
@@ -401,456 +838,15 @@ Non-clinical data reveal no particular hazard for humans based on conventional s
 
 ## 6.1 List of excipients
 
-Glycerol monostearate 40-55 Hydroxypropylcellulose Hypromellose 2910 (6 mPa·s) Reddish-brown iron oxide (E172) Yellow iron oxide (E172) Magnesium stearate Methacrylic acid ethylacrylate copolymer (1:1) dispersion 30 per cent Cellulose microcrystalline Synthetic Paraffin
+Capsule content Glycerol monostearate 40-55 Hydroxypropylcellulose Hypromellose 2910 (6 mPa·s) Magnesium stearate Methacrylic acid - ethyl acrylate copolymer (1:1) dispersion 30 per cent
 
 <div style=\"page-break-after: always\"></div>
 
-Macrogol 6000 Polysorbate 80 Crospovidone (Type A) Sodium stearyl fumarate Sugar spheres (sucrose and maize starch) Talc Titanium dioxide (E171) Triethyl citrate
+Polysorbate 80 Sugar spheres (sucrose and maize starch) Talc Triethyl citrate Carmine (E120) Indigo carmine (E132) Titanium dioxide (E171) Yellow iron oxide (E172)
 
-## 6.2 Incompatibilities
+Capsule shell Gelatin Indigo carmine (E132) Erythrosine (E127)
 
-Not applicable.
-
-## 6.3 Shelf life
-
-3 years
-
-## 6.4 Special precautions for storage
-
-Do not store above 30°C
-
-Store in the original package in order to protect from moisture.
-
-## 6.5 Nature and contents of container
-
-Aluminium blister. Pack sizes of 7, 14 and 28 gastro-resistant tablets.
-
-Not all pack sizes may be marketed.
-
-## 6.6 Special precautions for disposal
-
-No special requirements.
-
-## 7. MARKETING AUTHORISATION HOLDER
-
-Haleon Ireland Dungarvan Limited,
-
-Knockbrack,
-
-Dungarvan,
-
-Co. Waterford,
-
-Ireland
-
-## 8. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/13/860/001
-
-EU/1/13/860/002
-
-EU/1/13/860/004
-
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
-
-Date of first authorisation: 26 August 2013
-
-Date of latest renewal: 25 June 2018
-
-## 10. DATE OF REVISION OF THE TEXT
-
-<div style=\"page-break-after: always\"></div>
-
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
-
-<div style=\"page-break-after: always\"></div>
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Nexium Control 20 mg gastro-resistant hard capsules
-
-## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
-
-Each gastro-resistant hard capsule contains 20 mg esomeprazole (as magnesium trihydrate)
-
-## Excipient(s) with known effect
-
-Each gastro-resistant hard capsule contains 11.5 mg sucrose and 0.01 mg allura red AC (E129).
-
-For the full list of excipients, see section 6.1.
-
-## 3. PHARMACEUTICAL FORM
-
-Gastro-resistant hard capsule. (Gasto-resistant capsule).
-
-Capsule approximately 11 x 5 mm, with a clear body, and an amethyst cap imprinted with 'NEXIUM 20 MG' in white. The capsule has a yellow centre band, and contains yellow and purple enteric coated pellets.
-
-## 4. CLINICAL PARTICULARS
-
-## 4.1 Therapeutic indications
-
-Nexium Control is indicated for the short-term treatment of reflux symptoms (e.g. heartburn and acid regurgitation) in adults.
-
-## 4.2 Posology and method of administration
-
-## Posology
-
-The recommended dose is 20 mg esomeprazole (one capsule) per day.
-
-It might be necessary to take the capsules for 2-3 consecutive days to achieve improvement of symptoms. The duration of treatment is up to 2 weeks. Once complete relief of symptoms has occurred, treatment should be discontinued.
-
-If no symptom relief is obtained within 2 weeks of continuous treatment, the patient should be instructed to consult a doctor.
-
-## Special populations
-
-## Patients with renal impairment
-
-Dose adjustment is not required in patients with impaired renal function. Due to limited experience in patients with severe renal insufficiency, such patients should be treated with caution (see section 5.2).
-
-## Patients with hepatic impairment
-
-Dose adjustment is not required in patients with mild to moderate liver impairment. However, patients with severe liver impairment should be advised by a doctor before taking Nexium Control (see sections 4.4 and 5.2).
-
-## Elderly patients (≥65 years old)
-
-Dose adjustment is not required in elderly patients.
-
-<div style=\"page-break-after: always\"></div>
-
-## Paediatric population
-
-There is no relevant use of Nexium Control in the paediatric population below 18 years of age for the indication of 'short-term treatment of reflux symptoms (e.g., heartburn and acid regurgitation)'.
-
-## Method of administration
-
-The capsules should be swallowed whole with half a glass of water. The capsules must not be chewed, crushed or opened.
-
-## 4.3 Contraindications
-
-Hypersensitivity to the active substance, substituted benzimidazoles or to any of the excipients listed in section 6.1.
-
-Esomeprazole must not be used concomitantly with nelfinavir (see section 4.5).
-
-## 4.4 Special warnings and precautions for use
-
-## General
-
-Patients should be instructed to consult a doctor if:
-
-- They have significant unintentional weight loss, recurrent vomiting, dysphagia, haematemesis or melaena and when gastric ulcer is suspected or present, malignancy should be excluded as treatment with esomeprazole may alleviate symptoms and delay diagnosis.
-- They have had previous gastric ulcer or gastrointestinal surgery.
-- They have been on continuous symptomatic treatment of indigestion or heartburn for 4 or more weeks.
-- They have jaundice or severe liver disease.
-- They are aged over 55 years with new or recently changed symptoms.
-
-Patients with long-term recurrent symptoms of indigestion or heartburn should see their doctor at regular intervals. Patients over 55 years taking any non-prescription indigestion or heartburn remedy on a daily basis should inform their pharmacist or doctor.
-
-Patients should not take Nexium Control as a long term preventive medicinal product.
-
-Treatment with proton pump inhibitors (PPIs) may lead to a slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and in hospitalised patients, also possibly Clostridium difficile (see section 5.1).
-
-Patients should consult their doctor before taking this medicinal product if they are due to have an endoscopy or urea breath test.
-
-## Combination with other medicinal products
-
-Co-administration of esomeprazole with atazanavir is not recommended (see section 4.5). If the combination of atazanavir with a PPI is judged unavoidable, close clinical monitoring is recommended in combination with an increase in the dose of atazanavir to 400 mg with 100 mg of ritonavir. Esomeprazole 20 mg should not be exceeded.
-
-Esomeprazole is a CYP2C19 inhibitor. When starting or ending treatment with esomeprazole, the potential for interactions with medicinal products metabolised through CYP2C19 should be considered. An interaction is observed between clopidogrel and esomeprazole. The clinical relevance
-
-<div style=\"page-break-after: always\"></div>
-
-of this interaction is uncertain. The use of esomeprazole with clopidogrel should be discouraged (see section 4.5).
-
-Patients should not take another PPI or H2 antagonist concomitantly.
-
-## Interference with laboratory tests
-
-Increased Chromogranin A (CgA) level may interfere with investigations for neuroendocrine tumours. To avoid this interference, Nexium Control treatment should be stopped for at least 5 days before CgA measurements (see section 5.1). If CgA and gastrin levels have not returned to reference range after initial measurement, measurements should be repeated 14 days after cessation of proton pump inhibitor treatment.
-
-## Subacute cutaneous lupus erythematosus (SCLE)
-
-Proton pump inhibitors are associated with very infrequent cases of SCLE. If lesions occur, especially in sun-exposed areas of the skin, and if accompanied by arthralgia, the patient should seek medical help promptly and the health care professional should consider stopping Nexium Control. SCLE after previous treatment with a proton pump inhibitor may increase the risk of SCLE with other proton pump inhibitors.
-
-## Severe cutaneous adverse reactions (SCARs)
-
-Severe cutaneous adverse reactions (SCARs) such as erythema multiforme (EM), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS) which can be life-threatening or fatal, have been reported very rarely in association with esomeprazole treatment.
-
-Patients should be advised of the signs and symptoms of the severe skin reaction EM/SJS/TEN/DRESS and should seek medical advice from their physician immediately when observing any indicative signs or symptoms. Esomeprazole should be discontinued immediately upon signs and symptoms of severe skin reactions and additional medical care/close monitoring should be provided as needed. Re-challenge should not be undertaken in patients with EM/SJS/TEN/DRESS.
-
-## Sucrose
-
-This medicinal product contains sugar spheres (sucrose). Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicinal product.
-
-## Sodium
-
-This medicinal product contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium free'.
-
-## Allura red AC (E129)
-
-This medicinal product contains azo colouring agent, Allura red AC (E129), which may cause allergic reactions.
-
-## 4.5 Interaction with other medicinal products and other forms of interaction
-
-Interaction studies have only been performed in adults.
-
-Effects of esomeprazole on the pharmacokinetics of other medicinal products As esomeprazole is one enantiomer of omeprazole it is reasonable to advise about interactions reported with omeprazole.
-
-## Protease inhibitors
-
-Omeprazole has been reported to interact with some protease inhibitors. The clinical importance and the mechanisms behind these reported interactions are not always known. Increased gastric pH during omeprazole treatment may change the absorption of the protease inhibitors. Other possible interaction mechanisms are via inhibition of CYP2C19.
-
-<div style=\"page-break-after: always\"></div>
-
-For atazanavir and nelfinavir, decreased serum levels have been reported when given together with omeprazole and concomitant administration is not recommended. Co-administration of omeprazole (40 mg once daily) with atazanavir 300 mg/ritonavir 100 mg to healthy volunteers resulted in a substantial reduction in atazanavir exposure (approximately 75% decrease in AUC, Cmax, and Cmin). Increasing the atazanavir dose to 400 mg did not compensate for the impact of omeprazole on atazanavir exposure. The co-administration of omeprazole (20 mg once a day) with atazanavir 400 mg/ritonavir 100 mg to healthy volunteers resulted in a decrease of approximately 30% in the atazanavir exposure as compared with the exposure observed with atazanavir 300 mg/ritonavir 100 mg once a day without omeprazole 20 mg once a day. Co-administration of omeprazole (40 mg once a day) reduced mean nelfinavir AUC, Cmax, and Cmin by 36 - 39 % and mean AUC, Cmax, and Cmin for the pharmacologically active metabolite M8 was reduced by 75 - 92%. Due to the similar pharmacodynamic effects and pharmacokinetic properties of omeprazole and esomeprazole, concomitant administration with esomeprazole and atazanavir is not recommended and concomitant administration with esomeprazole and nelfinavir is contraindicated (see section 4.3 and 4.4).
-
-For saquinavir (with concomitant ritonavir), increased serum levels (80-100%) have been reported during concomitant omeprazole treatment (40 mg once a day). Treatment with omeprazole 20 mg once a day had no effect on the exposure of darunavir (with concomitant ritonavir) and amprenavir (with concomitant ritonavir).
-
-Treatment with esomeprazole 20 mg once a day had no effect on the exposure of amprenavir (with and without concomitant ritonavir). Treatment with omeprazole 40 mg once a day had no effect on the exposure of lopinavir (with concomitant ritonavir).
-
-## Methotrexate
-
-When given together with PPIs, methotrexate levels have been reported to increase in some patients. In high-dose methotrexate administration a temporary withdrawal of esomeprazole may need to be considered.
-
-## Tacrolimus
-
-Concomitant administration of esomeprazole has been reported to increase the serum levels of tacrolimus. A reinforced monitoring of tacrolimus concentrations as well as renal function (creatinine clearance) should be performed, and the dose of tacrolimus adjusted if needed.
-
-## Medicinal products with pH dependent absorption
-
-Gastric acid suppression during treatment with esomeprazole and other PPIs might decrease or increase the absorption of medicinal products with a gastric pH dependent absorption. The absorption of medicinal products taken orally such as ketoconazole, itraconazole and erlotinib can decrease during treatment with esomeprazole and the absorption of digoxin can increase during treatment with esomeprazole.
-
-Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (up to 30% in two out of ten subjects). Digoxin toxicity has been rarely reported. However, caution should be exercised when esomeprazole is given at high doses in elderly patients. Therapeutic monitoring of digoxin should then be reinforced.
-
-## Medicinal products metabolised by CYP2C19
-
-Esomeprazole inhibits CYP2C19, the major esomeprazole metabolising enzyme. Thus, when esomeprazole is combined with medicinal products metabolised by CYP2C19, such as warfarin, phenytoin, citalopram, imipramine, clomipramine, diazepam, etc., the plasma concentrations of these medicinal products may be increased and a dose reduction could be needed. In case of clopidogrel, a prodrug which is transformed into its active metabolite via CYP2C19, the plasma concentrations of the active metabolite may be decreased.
-
-<div style=\"page-break-after: always\"></div>
-
-## Warfarin
-
-Concomitant administration of 40 mg esomeprazole to warfarin-treated patients in a clinical study showed that coagulation times were within the accepted range. However, post-marketing, a few isolated cases of elevated INR of clinical significance have been reported during concomitant treatment. Monitoring is recommended when initiating and ending concomitant esomeprazole treatment during treatment with warfarin or other coumarine derivatives.
-
-## Clopidogrel
-
-Results from studies in healthy subjects have shown a pharmacokinetic (PK)/pharmacodynamic (PD) interaction between clopidogrel (300 mg loading dose/75 mg daily maintenance dose) and esomeprazole (40 mg orally daily) resulting in decreased exposure to the active metabolite of clopidogrel by an average of 40%, and resulting in decreased maximum inhibition of (ADP induced) platelet aggregation by an average of 14%.
-
-In a study in healthy subjects, there was a decreased exposure by almost 40% of the active metabolite of clopidogrel when a fixed dose combination of esomeprazole 20 mg + acetylsalicylic acid 81 mg was given with clopidogrel compared to clopidogrel alone. However, the maximum levels of inhibition of (ADP induced) platelet aggregation in these subjects were the same in both groups.
-
-Inconsistent data on the clinical implications of this PK/PD interaction in terms of major cardiovascular events have been reported from both observational and clinical studies. As a precaution, concomitant use of esomeprazole and clopidogrel should be discouraged.
-
-## Phenytoin
-
-Concomitant administration of 40 mg esomeprazole resulted in a 13% increase in trough plasma levels of phenytoin in epileptic patients. It is recommended to monitor the plasma concentrations of phenytoin when treatment with esomeprazole is introduced or withdrawn.
-
-## Voriconazole
-
-Omeprazole (40 mg once daily) increased voriconazole (a CYP2C19 substrate) Cmax and AUCτ by 15% and 41%, respectively.
-
-## Cilostazol
-
-Omeprazole as well as esomeprazole act as inhibitors of CYP2C19. Omeprazole, given in doses of 40 mg to healthy subjects in a cross-over study, increased Cmax and AUC for cilostazol by 18% and 26% respectively, and one of its active metabolites by 29% and 69% respectively.
-
-## Cisapride
-
-In healthy volunteers, concomitant administration of 40 mg esomeprazole resulted in a 32% increase in area under the plasma concentration-time curve (AUC) and a 31% prolongation of elimination half-life(t1/2) but no significant increase in peak plasma levels of cisapride. The slightly prolonged QTc interval observed after administration of cisapride alone, was not further prolonged when cisapride was given in combination with esomeprazole.
-
-## Diazepam
-
-Concomitant administration of 30 mg esomeprazole resulted in a 45% decrease in clearance of the CYP2C19 substrate diazepam.
-
-## Investigated medicinal products with no clinically relevant interaction Amoxicillin and quinidine
-
-Esomeprazole has been shown to have no clinically relevant effects on the pharmacokinetics of amoxicillin and quinidine.
-
-## Naproxen or rofecoxib
-
-Studies evaluating concomitant administration of esomeprazole and either naproxen or rofecoxib did not identify any clinically relevant pharmacokinetic interactions during short-term studies.
-
-<div style=\"page-break-after: always\"></div>
-
-## Effects of other medicinal products on the pharmacokinetics of esomeprazole
-
-## Medicinal products which inhibit CYP2C19 and/or CYP3A4
-
-Esomeprazole is metabolised by CYP2C19 and CYP3A4. Concomitant administration of esomeprazole and a CYP3A4 inhibitor, clarithromycin (500 mg twice a day (b.i.d.)), resulted in a doubling of the exposure (AUC) to esomeprazole. Concomitant administration of esomeprazole and a combined inhibitor of CYP2C19 and CYP3A4 may result in more than doubling of the esomeprazole exposure. The CYP2C19 and CYP3A4 inhibitor voriconazole increased omeprazole AUCt by 280%. A dose adjustment of esomeprazole is not regularly required in either of these situations. However, dose adjustment should be considered in patients with severe hepatic impairment and if long-term treatment is indicated.
-
-## Medicinal products which induce CYP2C19 and/or CYP3A4
-
-Medicinal products known to induce CYP2C19 or CYP3A4 or both (such as rifampicin and St. John's wort (Hypericum perforatum) ) may lead to decreased esomeprazole serum levels by increasing the esomeprazole metabolism.
-
-## 4.6 Fertility, pregnancy and lactation
-
-## Pregnancy
-
-A moderate amount of data on pregnant women (between 300-1,000 pregnancy outcomes) indicate no malformative or feto/ neonatal toxicity of esomeprazole.
-
-Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
-
-As a precautionary measure , it is preferable to avoid the use of Nexium Control during pregnancy.
-
-## Breast-feeding
-
-It is unknown whether esomeprazole/metabolites are excreted in human milk. There is insufficient information on the effects of esomeprazole in newborns/infants. Esomeprazole should not be used during breast-feeding.
-
-## Fertility
-
-Animal studies with the racemic mixture omeprazole, given by oral administration do not indicate effects with respect to fertility.
-
-## 4.7 Effects on ability to drive and use machines
-
-Esomeprazole has minor influence on the ability to drive or use machines. Adverse reactions such as dizziness and visual disturbances are uncommon (see section 4.8). If affected, patients should not drive or use machines.
-
-## 4.8 Undesirable effects
-
-## Summary of the safety profile
-
-Headache, abdominal pain, diarrhoea and nausea are among those adverse reactions that have been most commonly reported in clinical studies (and also from post-marketing use). In addition, the safety profile is similar for different formulations, treatment indications, age groups and patient populations. No dose-related adverse reactions have been identified.
-
-## Tabulated list of adverse reactions
-
-The following adverse reactions have been identified or suspected in the clinical studies programme for esomeprazole and post-marketing. The reactions are classified according to MedDRA frequency convention: very common (≥ 1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
-
-<div style=\"page-break-after: always\"></div>
-
-|                                                 | Common                                                                                       | Uncommon                            | Rare                                                                              | Very rare                                                                           | Not known                                                                                                                           |
-|-------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders            |                                                                                              |                                     | leukopenia, thrombocytope- nia                                                    | agranulocytosis, pancytopenia                                                       |                                                                                                                                     |
-| Immune system disorders                         |                                                                                              |                                     | hypersensitivity reactions e.g. fever, angioedema and anaphylactic reaction/shock |                                                                                     |                                                                                                                                     |
-| Metabolism and nutrition disorders              |                                                                                              | peripheral oedema                   | hyponatraemia                                                                     |                                                                                     | hypomagne- saemia; severe hypomagne- saemia can correlate with hypocalcae- mia; hypomagne- saemia may also result in hypokalaem- ia |
-| Psychiatric disorders                           |                                                                                              | insomnia                            | agitation, confusion, depression                                                  | aggression, hallucinations                                                          |                                                                                                                                     |
-| Nervous system disorders                        | headache                                                                                     | dizziness, paraesthesia, somnolence | taste disturbance                                                                 |                                                                                     |                                                                                                                                     |
-| Eye disorders                                   |                                                                                              |                                     | blurred vision                                                                    |                                                                                     |                                                                                                                                     |
-| Ear and labyrinth disorders                     |                                                                                              | vertigo                             |                                                                                   |                                                                                     |                                                                                                                                     |
-| Respiratory, thoracic and mediastinal disorders |                                                                                              |                                     | bronchospasm                                                                      |                                                                                     |                                                                                                                                     |
-| Gastrointestinal disorders                      | abdominal pain, constipa- tion, diarrhoea, flatulence, nausea/ vomiting, fundic gland polyps | dry mouth                           | stomatitis, gastrointestinal candidiasis                                          |                                                                                     | microscopic colitis                                                                                                                 |
-| Hepatobiliary disorders                         |                                                                                              | increased liver enzymes             | hepatitis with or without jaundice                                                | hepatic failure, hepatic encephalopathy in patients with pre-existing liver disease |                                                                                                                                     |
-
-<div style=\"page-break-after: always\"></div>
-
-|                                                     | Common   | Uncommon                             | Rare                        | Very rare                                                                                                                                       | Not known                                                  |
-|-----------------------------------------------------|----------|--------------------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
-| Skin and subcutaneous tissue disorders              |          | dermatitis, pruritus, rash urticaria | alopecia, photosensitivity  | erythema multiforme, Stevens- Johnson syndrome, toxic epidermal necrolysis (TEN), Drug reaction with eosinophilia and systemic symptoms (DRESS) | Subacute cutaneous lupus erythematosu s (see section 4.4). |
-| Musculoskeletal and connective tissue disorders     |          |                                      | arthralgia, myalgia         | muscular weakness                                                                                                                               |                                                            |
-| Renal and urinary disorders                         |          |                                      |                             | Interstitial nephritis                                                                                                                          |                                                            |
-| Reproductive system and breast disorders            |          |                                      |                             | gynaecomastia                                                                                                                                   |                                                            |
-| General disorders and administration site disorders |          |                                      | malaise, increased sweating |                                                                                                                                                 |                                                            |
-
-## Reporting of suspected adverse reactions
-
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the HPRA Pharmacovigilance website: www.hpra.ie
-
-## 4.9 Overdose
-
-There is very limited experience to date with deliberate overdose. The symptoms described in connection with 280 mg esomeprazole were gastrointestinal symptoms and weakness. Single doses of 80 mg esomeprazole were uneventful. No specific antidote is known. Esomeprazole is extensively plasma protein bound and is therefore not readily dialysable. Treatment should be symptomatic and general supportive measures should be utilised.
-
-## 5. PHARMACOLOGICAL PROPERTIES
-
-## 5.1 Pharmacodynamic properties
-
-Pharmacotherapeutic group: Drugs for acid related disorders, proton pump inhibitors, ATC code: A02BC05.
-
-Esomeprazole is the S-isomer of omeprazole and reduces gastric acid secretion through a specific targeted mechanism of action. It is a specific inhibitor of the acid pump in the parietal cell. Both the Rand S-isomer of omeprazole have similar pharmacodynamic activity.
-
-## Mechanism of action
-
-Esomeprazole is a weak base and is concentrated and converted to the active form in the highly acidic environment of the secretory canaliculi of the parietal cell, where it inhibits the enzyme H + K + -ATPase (the acid pump) and inhibits both basal and stimulated acid secretion.
-
-<div style=\"page-break-after: always\"></div>
-
-## Pharmacodynamic effects
-
-After oral dosing with esomeprazole 20 mg and 40 mg the onset of effect occurs within one hour. After repeated administration with 20 mg esomeprazole once daily for five days, mean peak acid output after pentagastrin stimulation is decreased 90% when measured 6-7 hours after dosing on day five.
-
-After five days of oral dosing with 20 mg and 40 mg of esomeprazole, intragastric pH above 4 was maintained for a mean time of 13 hours and 17 hours, respectively over 24 hours in symptomatic gastroesophageal reflux disease (GERD) patients. The proportion of patients maintaining an intragastric pH above 4 for at least 8, 12 and 16 hours respectively were for esomeprazole 20 mg 76%, 54%, and 24%. Corresponding proportions for esomeprazole 40 mg were 97%, 92%, and 56%.
-
-Using AUC as a surrogate parameter for plasma concentration, a relationship between inhibition of acid secretion and exposure has been shown.
-
-During treatment with antisecretory medicinal products, serum gastrin increases in response to the decreased acid secretion. Also CgA increases due to decreased gastric acidity. The increased CgA level may interfere with investigations for neuroendocrine tumours.
-
-Available published evidence suggests that proton pump inhibitors should be discontinued between 5 days and 2 weeks prior to CgA measurements. This is to allow CgA levels that might be spuriously elevated following PPI treatment to return to reference range.
-
-An increased number of ECL cells possibly related to the increased serum gastrin levels, have been observed in some patients during long-term treatment with esomeprazole.
-
-Decreased gastric acidity due to any means including PPIs, increases gastric counts of bacteria normally present in the gastrointestinal tract. Treatment with PPIs may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and in hospitalised patients, also possibly Clostridium difficile .
-
-## Clinical efficacy
-
-Esomeprazole 20 mg has been demonstrated to effectively treat frequent heartburn in subjects receiving one dose per 24 hours over 2 weeks. In two multicentre, randomised, double-blind, placebo-controlled pivotal studies 234 subjects with a recent history of frequent heartburn were treated with 20 mg esomeprazole for 4 weeks. Symptoms associated with acid reflux (such as heartburn and acid regurgitation) were evaluated retrospectively over a 24 hour period. In both studies esomeprazole 20 mg was significantly better compared to placebo for the primary endpoint, complete resolution of heartburn, defined as no heartburn episodes during the last 7 days prior to the final visit (33.9% - 41.6% vs. placebo 11.9 - 13.7%, (p&lt;0.001). The secondary endpoint of complete resolution of heartburn, defined as no heartburn on the patient's diary card for 7 consecutive days, was statistically significant at both week 1 (10.0% - 15.2% vs. placebo 0.9% - 2.4%, p = 0.014, p&lt;0.001) and week 2 (25.2% - 35.7% vs. placebo 3.4% - 9.0%, p&lt;0.001).
-
-Other secondary endpoints were supportive of the primary endpoint, including relief of heartburn at week 1 and week 2, percentage of 24 hour days without heartburn at week 1 and week 2, mean heartburn severity at week 1 and week 2, and time to initial and sustained resolution of heartburn over a 24 hour period and during the night compared to placebo. Approximately 78% of the subjects on 20 mg esomeprazole reported first resolution of heartburn within the first week of treatment compared to 52 - 58% for placebo. Time to sustained resolution of heartburn, defined as when 7 consecutive days of no heartburn was first recorded, was significantly shorter in the esomeprazole 20 mg group (39.7% - 48.7% by day 14 vs. placebo 11.0% - 20.2%). The median time to first resolution of night-time heartburn was 1 day, statistically significant compared to placebo in one study (p=0.048) and approaching significance in the other (p=0.069). About 80% of nights were heartburn free during all time periods and 90% of nights were heartburn free by week 2 of each clinical study, compared to 72.4 - 78.3% for placebo. The investigators' assessments of heartburn resolution were consistent with
-
-<div style=\"page-break-after: always\"></div>
-
-the subjects' assessments, showing statistically significant differences between esomeprazole (34.7% - 41.8%) compared to placebo (8.0% - 11.4%). The investigators also found esomeprazole to be significantly more effective than placebo in resolving acid regurgitation (58.5% - 63.6% vs. placebo 28.3% - 37.4%) during the week 2 evaluation.
-
-Following Overall Treatment Evaluation (OTE) of patients at week 2, 78.0 - 80.7% of patients on esomeprazole 20 mg, compared to 72.4 - 78.3% for placebo, reported their condition as improved. The majority of these rated the importance of this change to be Important to Extremely Important in performing their activities of daily living (79 - 86% at week 2).
-
-## 5.2 Pharmacokinetic properties
-
-## Absorption
-
-Esomeprazole is acid labile and is administered orally as enteric-coated granules. In vivo conversion to the R-isomer is negligible. Absorption of esomeprazole is rapid, with peak plasma levels occurring approximately 1-2 hours after dose. The absolute bioavailability is 64% after a single dose of 40 mg and increases to 89% after repeated once-daily administration. For 20 mg esomeprazole the corresponding values are 50% and 68% respectively. Food intake both delays and decreases the absorption of esomeprazole although this has no significant influence on the effect of esomeprazole on intragastric acidity.
-
-## Distribution
-
-The apparent volume of distribution at steady state in healthy subjects is approximately 0.22 l/kg body weight. Esomeprazole is 97% plasma protein bound.
-
-## Biotransformation
-
-Esomeprazole is completely metabolised by the cytochrome P450 system (CYP). The major part of the metabolism of esomeprazole is dependent on the polymorphic CYP2C19, responsible for the formation of the hydroxy- and desmethyl metabolites of esomeprazole. The remaining part is dependent on another specific isoform, CYP3A4, responsible for the formation of esomeprazole sulphone, the main metabolite in plasma.
-
-## Elimination
-
-The parameters below reflect mainly the pharmacokinetics in individuals with a functional CYP2C19 enzyme, extensive metabolisers.
-
-Total plasma clearance is about 17 l/h after a single dose and about 9 l/h after repeated administration. The plasma elimination half-life is about 1.3 hours after repeated once-daily dosing. Esomeprazole is completely eliminated from plasma between doses with no tendency for accumulation during once-daily administration. The major metabolites of esomeprazole have no effect on gastric acid secretion. Almost 80% of an oral dose of esomeprazole is excreted as metabolites in the urine, the remainder in the faeces. Less than 1% of the parent compound is found in urine.
-
-## Linearity/non-linearity
-
-The pharmacokinetics of esomeprazole has been studied in doses up to 40 mg b.i.d. The area under the plasma concentration-time curve increases with repeated administration of esomeprazole. This increase is dose-dependent and results in a more than dose proportional increase in AUC after repeated administration. This time and dose-dependency is due to a decrease of first pass metabolism and systemic clearance probably caused by an inhibition of the CYP2C19 enzyme by esomeprazole and/or its sulphone metabolite.
-
-## Special patient populations
-
-## Poor metabolisers
-
-Approximately 2.9±1.5% of the population lack a functional CYP2C19 enzyme and are called poor metabolisers. In these individuals the metabolism of esomeprazole is probably mainly catalysed by CYP3A4. After repeated once-daily administration of 40 mg esomeprazole, the mean area under the plasma concentration-time curve was approximately 100% higher in poor metabolisers than in subjects
-
-<div style=\"page-break-after: always\"></div>
-
-having a functional CYP2C19 enzyme (extensive metabolisers). Mean peak plasma concentrations were 60% higher.
-
-These findings have no implications for the posology of esomeprazole.
-
-## Gender
-
-Following a single dose of 40 mg esomeprazole the mean are under the plasma concentration-time curve is approximately 30% higher in females than in males. No gender difference is seen after repeated once-daily administration. These findings have no implications for the posology of esomeprazole.
-
-## Hepatic impairment
-
-The metabolism of esomeprazole in patients with mild to moderate liver dysfunction may be impaired. The metabolic rate is decreased in patients with severe liver dysfunction resulting in a doubling of the area under the plasma concentration-time curve of esomeprazole. Therefore, a maximum of 20 mg should not be exceeded in patients with severe dysfunction. Esomeprazole or its major metabolites do not show any tendency to accumulate with once-daily dosing.
-
-## Renal impairment
-
-No studies have been performed in patients with decreased renal function. Since the kidney is responsible for the excretion of the metabolites of esomeprazole but not for the elimination of the parent compound, the metabolism of esomeprazole is not expected to be changed in patients with impaired renal function.
-
-## Elderly patients (≥65 years old)
-
-The metabolism of esomeprazole is not significantly changed in elderly patients (71-80 years of age).
-
-## 5.3 Preclinical safety data
-
-Non-clinical data reveal no particular hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, and toxicity to reproduction and development. Adverse reactions not observed in clinical studies, but seen in animals at exposure levels similar to clinical exposure levels and with possible relevance to clinical use were as follows: Carcinogenicity studies in the rat with the racemic mixture have shown gastric ECL-cell hyperplasia and carcinoids. These gastric effects in the rat are the result of sustained, pronounced hypergastrinaemia secondary to reduced production of gastric acid and are observed after long-term treatment in the rat with inhibitors of gastric acid secretion.
-
-## 6. PHARMACEUTICAL PARTICULARS
-
-## 6.1 List of excipients
-
-Capsule content Glycerol monostearate 40-55 Hydroxypropylcellulose Hypromellose 2910 (6 mPa·s) Magnesium stearate Methacrylic acid - ethyl acrylate copolymer (1:1) dispersion 30 per cent Polysorbate 80 Sugar spheres (sucrose and maize starch) Talc Triethyl citrate Carmine (E120) Indigo carmine (E132) Titanium dioxide (E171) Yellow iron oxide (E172)
-
-<div style=\"page-break-after: always\"></div>
-
-Capsule shell Gelatin Indigo carmine (E132) Erythrosine (E127) Allura red AC (E129)
+Allura red AC (E129)
 
 Printing ink Povidone K-17 Propylene glycol Shellac Sodium hydroxide Titanium dioxide (E171)
 
@@ -882,13 +878,13 @@ No special requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
+<div style=\"page-break-after: always\"></div>
+
 Haleon Ireland Dungarvan Limited, Knockbrack, Dungarvan, Co. Waterford, Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/13/860/003 EU/1/13/860/005
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -913,9 +909,9 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer responsible for batch release Haleon Italy Manufacturing S.r.l.
+Name and address of the manufacturer responsible for batch release
 
-Via Nettunense, 90 04011 Aprilia (LT) Italy
+Haleon Italy Manufacturing S.r.l. Via Nettunense, 90 04011 Aprilia (LT) Italy
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -952,7 +948,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1066,21 +1062,21 @@ Lasts 24 hours
 
 Nexium Control 20 mg Tablets
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2DBARCODE   |
+|-------|---------------------------------|
 
 Not applicable.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
+|-------|------------------------------------------|
 
 Not applicable.
-
-34
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1104,7 +1100,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1122,7 +1118,7 @@ Contains sucrose and Allura red AC (E129). See package leaflet for further infor
 
 14 gastro-resistant hard capsules
 
-- 2 x 14 gastro-resistant hard capsules
+2 x 14 gastro-resistant hard capsules
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1209,21 +1205,19 @@ Lasts 24 hours
 
 ## 16. INFORMATION IN BRAILLE
 
+<div style=\"page-break-after: always\"></div>
+
 Nexium Control 20 mg Capsules
 
-<div style=\"page-break-after: always\"></div>
-
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2DBARCODE   |
+|-------|---------------------------------|
 
 Not applicable.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
+|-------|------------------------------------------|
 
 Not applicable.
-
-<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -1231,7 +1225,9 @@ BOTTLE LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Nexium Control 20 mg gastro-resistant capsules esomeprazole
+Nexium Control 20 mg gastro-resistant capsules
+
+esomeprazole
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1264,6 +1260,8 @@ EXP
 Do not store above 30°C.
 
 Keep the container tightly closed to protect from moisture.
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1317,13 +1315,11 @@ Capsules
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
 
-## Nexium Control 20 mg gastro-resistant tablets
+## Package leaflet: Information for the user
 
-## esomeprazole
+## Nexium Control 20 mg gastro-resistant tablets esomeprazole
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1360,7 +1356,7 @@ Nexium Control is not meant to bring immediate relief. You may need to take the 
 
 - -If you are allergic to esomeprazole or any of the other ingredients of this medicine (listed in section 6).
 - -If you are allergic to medicines containing other proton pump inhibitors (e.g. pantoprazole, lansoprazole, rabeprazole or omeprazole).
-- -If you are taking a medicine containing nelfinavir (used to treat HIV infection).
+- -If you are taking a medicine containing nelfinavir or or rilpivirine (used to treat HIV infection).
 - -If you have ever developed a severe skin rash or skin peeling, blistering and/or mouth sores after taking Nexium Control or other related medicines.
 
 Do not take this medicine if any of the above apply to you. If you are not sure, talk to your doctor or pharmacist before taking this medicine.
@@ -1372,7 +1368,8 @@ Do not take this medicine if any of the above apply to you. If you are not sure,
 Talk to your doctor before taking Nexium Control if:
 
 - You have had a stomach ulcer or stomach surgery in the past.
-- You have been taking treatment continuously for reflux or heartburn for 4 or more weeks.
+- You have been taking treatment continuously for reflux or heartburn for 4 or more weeks. This may be a sign of a more serious condition.
+- You have frequent wheezing, particularly with heartburn.
 - You have jaundice (yellowing of skin or eyes) or severe liver problems.
 - You have severe kidney problems.
 - You are aged over 55 years and have new or recently changed reflux symptoms or need to take a non-prescription indigestion or heartburn remedy treatment every day.
@@ -1402,7 +1399,7 @@ This medicine should not be used by children and adolescents under 18 years of a
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This is because this medicine can affect the way some medicines work and some medicines can have an effect on it.
 
-Do not take this medicine if you are also taking a medicine containing nelfinavir (used to treat HIV infection).
+Do not take this medicine if you are also taking a medicine containing nelfinavir or rilpivirine (used to treat HIV infection).
 
 You should specifically tell your doctor or pharmacist if you are taking clopidogrel (used to prevent blood clots).
 
@@ -1417,6 +1414,7 @@ Tell your doctor or pharmacist if you are taking any of the following medicines:
 - Ketoconazole and itraconazole (used to treat infections caused by a fungus)
 - Voriconazole (used to treat infections caused by a fungus) and clarithromycin (used to treat infections). Your doctor may adjust your dose of Nexium Control if you also have severe liver problems and are treated for a long period of time.
 - Erlotinib (used to treat cancer)
+- Levothyroxine (used to treat hypothyroidism)
 - Methotrexate (used to treat cancer and rheumatic disorders)
 - Digoxin (used for heart problems)
 - Atazanavir, saquinavir (used to treat HIV infection)
@@ -1454,11 +1452,11 @@ Always take this medicine exactly as described in this leaflet or as your doctor
 
 - The recommended dose is one tablet a day.
 - Do not take more than this recommended dose of one tablet (20 mg) a day, even if you don't feel an improvement immediately.
-- You may need to take the tablets for 2 or 3 days in a row before your reflux symptoms (for example, heartburn and acid regurgitation) get better.
-- The treatment length is up to 14 days.
 
 <div style=\"page-break-after: always\"></div>
 
+- You may need to take the tablets for 2 or 3 days in a row before your reflux symptoms (for example, heartburn and acid regurgitation) get better.
+- The treatment length is up to 14 days.
 - When your reflux symptoms have completely gone you should stop taking this medicine.
 - If your reflux symptoms get worse or do not improve after taking this medicine for 14 days in a row, you should consult a doctor.
 
@@ -1500,9 +1498,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 This medicine may in very rare cases affect the white blood cells leading to immune deficiency. If you have an infection with symptoms such as fever with a severely reduced general condition or fever with symptoms of a local infection such as pain in the neck, throat or mouth or difficulties in urinating, you must consult your doctor as soon as possible so that a lack of white blood cells (agranulocytosis) can be ruled out by a blood test. It is important for you to give information about your medicine at this time.
 
-Other side effects include:
-
 <div style=\"page-break-after: always\"></div>
+
+## Other side effects include:
 
 ## Common (may affect up to 1 in 10 people)
 
@@ -1555,15 +1553,11 @@ Other side effects include:
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system: In Ireland, HPRA Pharmacovigilance, Earlsfort Terrace, IRL - Dublin 2; Tel: +353 1 6764971; Fax:
-
-+353 1 6762517. Website: www.hpra.ie e-mail: medsafety@hpra.ie.
-
-In Malta, ADR Reporting, www.medicinesauthority.gov.mt/adrportal
-
-By reporting side effects, you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system
 
 <div style=\"page-break-after: always\"></div>
+
+listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Nexium Control
 
@@ -1600,7 +1594,7 @@ Haleon Ireland Dungarvan Limited, Knockbrack, Dungarvan, Co. Waterford, Ireland
 
 Haleon Italy Manufacturing S.r.l., Via Nettunense, 90, 04011, Aprilia (LT), Italy.
 
-## This leaflet was last revised in January 2025
+## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
@@ -1610,11 +1604,11 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## What are the symptoms of heartburn?
 
+<div style=\"page-break-after: always\"></div>
+
 The normal symptoms of reflux are a painful sensation in the chest rising up to your throat (heartburn) and a sour taste in the mouth (acid regurgitation).
 
 ## Why do you get these symptoms?
-
-<div style=\"page-break-after: always\"></div>
 
 Heartburn can be a result of eating too much, eating high fat food, eating too quickly and drinking lots of alcohol. You may also notice that when you lie down, that your heartburn gets worse. If you are overweight or smoke you increase the probability of suffering from heartburn.
 
@@ -1636,9 +1630,9 @@ Heartburn can be a result of eating too much, eating high fat food, eating too q
 
 <div style=\"page-break-after: always\"></div>
 
-## Nexium Control
+## Nexium Control 20 mg gastro-resistant hard capsules
 
-## 20 mg gastro-resistant hard capsules esomeprazole
+## esomeprazole
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1675,7 +1669,7 @@ Nexium Control is not meant to bring immediate relief. You may need to take the 
 
 - If you are allergic to esomeprazole or any of the other ingredients of this medicine (listed in section 6).
 - If you are allergic to medicines containing other proton pump inhibitors (e.g. pantoprazole, lansoprazole, rabeprazole or omeprazole).
-- If you are taking a medicine containing nelfinavir (used to treat HIV infection).
+- If you are taking a medicine containing nelfinavir or rilpivirine (used to treat HIV infection).
 - If you have ever developed a severe skin rash or skin peeling, blistering and/or mouth sores after taking Nexium Control or other related medicines.
 
 Do not take this medicine if any of the above apply to you. If you are not sure, talk to your doctor or pharmacist before taking this medicine.
@@ -1687,7 +1681,8 @@ Do not take this medicine if any of the above apply to you. If you are not sure,
 Talk to your doctor before taking Nexium Control if:
 
 - You have had a stomach ulcer or stomach surgery in the past.
-- You have been taking treatment continuously for reflux or heartburn for 4 or more weeks.
+- You have been taking treatment continuously for reflux or heartburn for 4 or more weeks. This may be a sign of a more serious condition.
+- You have frequent wheezing, particularly with heartburn.
 - You have jaundice (yellowing of skin or eyes) or severe liver problems.
 - You have severe kidney problems.
 - You are aged over 55 years and have new or recently changed reflux symptoms or need to take a non-prescription indigestion or heartburn remedy treatment every day.
@@ -1717,21 +1712,22 @@ This medicine should not be used by children and adolescents under 18 years of a
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This is because this medicine can affect the way some medicines work and some medicines can have an effect on it.
 
-Do not take this medicine if you are also taking a medicine containing nelfinavir (used to treat HIV infection).
+Do not take this medicine if you are also taking a medicine containing nelfinavir or rilpivirine (used to treat HIV infection).
 
 You should specifically tell your doctor or pharmacist if you are taking clopidogrel (used to prevent blood clots).
 
 Do not take this medicine with other medicines that limit the amount of acid produced in your stomach such as proton pump inhibitors (e.g. pantoprazole, lansoprazole, rabeprazole or omeprazole) or an H2 antagonist (e.g. ranitidine or famotidine).
 
-You may take this medicine with antacids (e.g. magaldrate, alginic acid, sodium bicarbonate, aluminium hydroxide, magnesium carbonate or combinations of these) if needed.
-
 <div style=\"page-break-after: always\"></div>
+
+You may take this medicine with antacids (e.g. magaldrate, alginic acid, sodium bicarbonate, aluminium hydroxide, magnesium carbonate or combinations of these) if needed.
 
 Tell your doctor or pharmacist if you are taking any of the following medicines:
 
 - Ketoconazole and itraconazole (used to treat infections caused by a fungus).
 - Voriconazole (used to treat infections caused by a fungus) and clarithromycin (used to treat infections). Your doctor may adjust your dose of Nexium Control if you also have severe liver problems and are treated for a long period of time.
 - Erlotinib (used to treat cancer).
+- Levothyroxine  (used to treat hypothyroidism)
 - Methotrexate (used to treat cancer and rheumatic disorders).
 - Digoxin (used for heart problems).
 - Atazanavir, saquinavir (used to treat HIV infection).
@@ -1768,12 +1764,12 @@ Always take this medicine exactly as described in this leaflet or as your doctor
 ## How much to take
 
 - The recommended dose is one capsule a day.
-- Do not take more than this recommended dose of one capsule (20 mg) a day, even if you don't feel an improvement immediately.
-- You may need to take the capsules for 2 or 3 days in a row before your reflux symptoms (for example, heartburn and acid regurgitation) get better.
-- The treatment length is up to 14 days.
 
 <div style=\"page-break-after: always\"></div>
 
+- Do not take more than this recommended dose of one capsule (20 mg) a day, even if you don't feel an improvement immediately.
+- You may need to take the capsules for 2 or 3 days in a row before your reflux symptoms (for example, heartburn and acid regurgitation) get better.
+- The treatment length is up to 14 days.
 - When your reflux symptoms have completely gone you should stop taking this medicine.
 - If your reflux symptoms get worse or do not improve after taking this medicine for 14 days in a row, you should consult a doctor.
 
@@ -1809,18 +1805,19 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 This medicine may in very rare cases affect the white blood cells leading to immune deficiency. If you have an infection with symptoms such as fever with a severely reduced general condition or fever with symptoms of a local infection such as pain in the neck, throat or mouth, or difficulties in urinating, you must consult your doctor as soon as possible so that a lack of white blood cells (agranulocytosis) can be ruled out by a blood test. It is important for you to give information about your medicine at this time.
 
-Other side effects include:
+## Other side effects include:
 
 ## Common (may affect up to 1 in 10 people)
 
 - Headache.
+
+<div style=\"page-break-after: always\"></div>
+
 - Effects on your stomach or gut: diarrhoea, stomach ache, constipation, wind (flatulence).
 - Feeling sick (nausea) or being sick (vomiting).
 - Benign growths (polyps) in the stomach.
 
 ## Uncommon (may affect up to 1 in 100 people)
-
-<div style=\"page-break-after: always\"></div>
 
 - Swelling of the feet and ankles.
 - Disturbed sleep (insomnia), feeling sleepy.
@@ -1864,19 +1861,13 @@ Other side effects include:
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system: In Ireland, HPRA Pharmacovigilance, Earlsfort Terrace, IRL - Dublin 2; Tel: +353 1 6764971; Fax:
-
-+353 1 6762517. Website: www.hpra.ie e-mail: medsafety@hpra.ie.
-
-In Malta, ADR Reporting, www.medicinesauthority.gov.mt/adrportal
-
-By reporting side effects, you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Nexium Control
 
-Keep this medicine out of the sight and reach of children.
-
 <div style=\"page-break-after: always\"></div>
+
+Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and the bottle after EXP. The expiry date refers to the last day of that month.
 
@@ -1891,8 +1882,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Nexium Control contains
 
 - The active substance is esomeprazole. Each gastro-resistant hard capsule contains 20 mg esomeprazole (as magnesium trihydrate).
-- The other ingredients are:
-- glycerol monostearate 40-55, hydroxypropylcellulose, hypromellose, magnesium stearate, methacrylic acid - ethyl acrylate copolymer (1:1) dispersion 30 per cent, polysorbate 80, sugar spheres (sucrose and maize starch), talc, triethyl citrate, carmine (E120), indigo carmine (E132), titanium dioxide (E171), yellow iron oxide (E172), erythrosine (E127), allura red AC (E129), povidone K-17, propylene glycol, shellac, sodium hydroxide, and gelatin (see section 2, 'Nexium Control contains sucrose, sodium and allura red AC (E129)'.)
+- ·
+- The other ingredients are: glycerol monostearate 40-55, hydroxypropylcellulose, hypromellose, magnesium stearate, methacrylic acid - ethyl acrylate copolymer (1:1) dispersion 30 per cent, polysorbate 80, sugar spheres (sucrose and maize starch), talc, triethyl citrate, carmine (E120), indigo carmine (E132), titanium dioxide (E171), yellow iron oxide (E172), erythrosine (E127), allura red AC (E129), povidone K-17, propylene glycol, shellac, sodium hydroxide, and gelatin (see section 2, 'Nexium Control contains sucrose, sodium and allura red AC (E129)'.)
 
 ## What Nexium Control looks like and contents of the pack
 
@@ -1910,7 +1901,7 @@ Haleon Ireland Dungarvan Limited, Knockbrack, Dungarvan, Co. Waterford, Ireland
 
 Haleon Italy Manufacturing S.r.l., Via Nettunense, 90, 04011, Aprilia (LT), Italy.
 
-## This leaflet was last revised in January 2025
+## This leaflet was last revised
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
@@ -1920,11 +1911,11 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## What are the symptoms of heartburn?
 
+<div style=\"page-break-after: always\"></div>
+
 The normal symptoms of reflux are a painful sensation in the chest rising up to your throat (heartburn) and a sour taste in the mouth (acid regurgitation).
 
 ## Why do you get these symptoms?
-
-<div style=\"page-break-after: always\"></div>
 
 Heartburn can be a result of eating too much, eating high fat food, eating too quickly and drinking lots of alcohol. You may also notice that when you lie down, that your heartburn gets worse. If you are overweight or smoke you increase the probability of suffering from heartburn.
 
@@ -1941,25 +1932,3 @@ Heartburn can be a result of eating too much, eating high fat food, eating too q
 - You should seek urgent medical advice if you experience chest pain with light-headedness, sweating, dizziness or shoulder pain with shortness of breath.
 - If you experience any of the symptoms detailed in Section 2 of this leaflet and it advises you to talk to your doctor or pharmacist.
 - If you are suffering from any of the side effects detailed in Section 4 which require medical attention.
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for esomeprazole, the scientific conclusions of PRAC are as follows:
-
-In view of available data on Drug reaction with eosinophilia and systemic symptoms (DRESS) from the literature, spontaneous reports including in some cases a close temporal relationship, a positive de-challenge and in view of a plausible mechanism of action, the PRAC considers a causal relationship between esomeprazole and DRESS is at least a reasonable possibility. SCARs other than DRESS are already included in 4.8 of the SmPC. Due to the severity of these side effects, they should be included into the proposed warning in 4.4. of the SmPC and the package leaflet accordingly. The PRAC concluded that the product information of products containing esomeprazole should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for esomeprazole the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing esomeprazole is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

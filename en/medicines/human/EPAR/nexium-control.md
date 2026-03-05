@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:20:16
+document_datetime: 2026-03-02 10:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nexium-control.html
 document_name: nexium-control.html
 version: success
-processing_time: 0.1137133
-conversion_datetime: 2025-12-31 01:19:20.457856
+processing_time: 0.0971197
+conversion_datetime: 2026-03-05 11:53:56.493802
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Nexium Control
 
 [RSS](/en/individual-human-medicine.xml/66955)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 esomeprazole Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +106,7 @@ English (EN) (74.66 KB - PDF)
 
 [View](/en/documents/overview/nexium-control-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-163)
+[Other languages (22)](#file-language-dropdown-570)
 
 български (BG) (103.52 KB - PDF)
 
@@ -386,17 +384,17 @@ English (EN) (128.54 KB - PDF)
 
 Nexium Control : EPAR - Product Information
 
-English (EN) (482.74 KB - PDF)
+English (EN) (553.13 KB - PDF)
 
 **First published:** 19/09/2013
 
-**Last updated:** 30/01/2025
+**Last updated:** 02/03/2026
 
 [View](/en/documents/product-information/nexium-control-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-565)
+[Other languages (23)](#file-language-dropdown-967)
 
-български (BG) (471.21 KB - PDF)
+български (BG) (769.29 KB - PDF)
 
 **First published:**
 
@@ -404,11 +402,11 @@ English (EN) (482.74 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+02/03/2026
 
 [View](/bg/documents/product-information/nexium-control-epar-product-information_bg.pdf)
 
-español (ES) (1.27 MB - PDF)
+español (ES) (568.23 KB - PDF)
 
 **First published:**
 
@@ -416,11 +414,11 @@ español (ES) (1.27 MB - PDF)
 
 **Last updated:**
 
-30/01/2025
+02/03/2026
 
 [View](/es/documents/product-information/nexium-control-epar-product-information_es.pdf)
 
-čeština (CS) (556.14 KB - PDF)
+čeština (CS) (701.16 KB - PDF)
 
 **First published:**
 
@@ -428,11 +426,11 @@ español (ES) (1.27 MB - PDF)
 
 **Last updated:**
 
-30/01/2025
+02/03/2026
 
 [View](/cs/documents/product-information/nexium-control-epar-product-information_cs.pdf)
 
-dansk (DA) (517.39 KB - PDF)
+dansk (DA) (625.52 KB - PDF)
 
 **First published:**
 
@@ -440,11 +438,11 @@ dansk (DA) (517.39 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+02/03/2026
 
 [View](/da/documents/product-information/nexium-control-epar-product-information_da.pdf)
 
-Deutsch (DE) (628.66 KB - PDF)
+Deutsch (DE) (708.33 KB - PDF)
 
 **First published:**
 
@@ -452,11 +450,11 @@ Deutsch (DE) (628.66 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+02/03/2026
 
 [View](/de/documents/product-information/nexium-control-epar-product-information_de.pdf)
 
-eesti keel (ET) (891.84 KB - PDF)
+eesti keel (ET) (598.22 KB - PDF)
 
 **First published:**
 
@@ -464,11 +462,11 @@ eesti keel (ET) (891.84 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+02/03/2026
 
 [View](/et/documents/product-information/nexium-control-epar-product-information_et.pdf)
 
-ελληνικά (EL) (572.96 KB - PDF)
+ελληνικά (EL) (732.33 KB - PDF)
 
 **First published:**
 
@@ -476,11 +474,11 @@ eesti keel (ET) (891.84 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+02/03/2026
 
 [View](/el/documents/product-information/nexium-control-epar-product-information_el.pdf)
 
-français (FR) (476.08 KB - PDF)
+français (FR) (652.96 KB - PDF)
 
 **First published:**
 
@@ -488,11 +486,11 @@ français (FR) (476.08 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+02/03/2026
 
 [View](/fr/documents/product-information/nexium-control-epar-product-information_fr.pdf)
 
-hrvatski (HR) (641.05 KB - PDF)
+hrvatski (HR) (629.34 KB - PDF)
 
 **First published:**
 
@@ -500,11 +498,11 @@ hrvatski (HR) (641.05 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+02/03/2026
 
 [View](/hr/documents/product-information/nexium-control-epar-product-information_hr.pdf)
 
-íslenska (IS) (528.01 KB - PDF)
+íslenska (IS) (561.78 KB - PDF)
 
 **First published:**
 
@@ -512,11 +510,11 @@ hrvatski (HR) (641.05 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+02/03/2026
 
 [View](/is/documents/product-information/nexium-control-epar-product-information_is.pdf)
 
-italiano (IT) (665.08 KB - PDF)
+italiano (IT) (532.85 KB - PDF)
 
 **First published:**
 
@@ -524,11 +522,11 @@ italiano (IT) (665.08 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+02/03/2026
 
 [View](/it/documents/product-information/nexium-control-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (749.68 KB - PDF)
+latviešu valoda (LV) (595.23 KB - PDF)
 
 **First published:**
 
@@ -536,11 +534,11 @@ latviešu valoda (LV) (749.68 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+02/03/2026
 
 [View](/lv/documents/product-information/nexium-control-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (798.1 KB - PDF)
+lietuvių kalba (LT) (685.19 KB - PDF)
 
 **First published:**
 
@@ -548,11 +546,11 @@ lietuvių kalba (LT) (798.1 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+02/03/2026
 
 [View](/lt/documents/product-information/nexium-control-epar-product-information_lt.pdf)
 
-magyar (HU) (568.86 KB - PDF)
+magyar (HU) (671.32 KB - PDF)
 
 **First published:**
 
@@ -560,11 +558,11 @@ magyar (HU) (568.86 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+02/03/2026
 
 [View](/hu/documents/product-information/nexium-control-epar-product-information_hu.pdf)
 
-Malti (MT) (646.87 KB - PDF)
+Malti (MT) (732.93 KB - PDF)
 
 **First published:**
 
@@ -572,11 +570,11 @@ Malti (MT) (646.87 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+02/03/2026
 
 [View](/mt/documents/product-information/nexium-control-epar-product-information_mt.pdf)
 
-Nederlands (NL) (474.13 KB - PDF)
+Nederlands (NL) (611.84 KB - PDF)
 
 **First published:**
 
@@ -584,11 +582,11 @@ Nederlands (NL) (474.13 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+02/03/2026
 
 [View](/nl/documents/product-information/nexium-control-epar-product-information_nl.pdf)
 
-norsk (NO) (491.69 KB - PDF)
+norsk (NO) (492.53 KB - PDF)
 
 **First published:**
 
@@ -596,11 +594,11 @@ norsk (NO) (491.69 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+02/03/2026
 
 [View](/no/documents/product-information/nexium-control-epar-product-information_no.pdf)
 
-polski (PL) (660.74 KB - PDF)
+polski (PL) (765.12 KB - PDF)
 
 **First published:**
 
@@ -608,11 +606,11 @@ polski (PL) (660.74 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+02/03/2026
 
 [View](/pl/documents/product-information/nexium-control-epar-product-information_pl.pdf)
 
-português (PT) (454.2 KB - PDF)
+português (PT) (487.48 KB - PDF)
 
 **First published:**
 
@@ -620,11 +618,11 @@ português (PT) (454.2 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+02/03/2026
 
 [View](/pt/documents/product-information/nexium-control-epar-product-information_pt.pdf)
 
-română (RO) (617.04 KB - PDF)
+română (RO) (761.18 KB - PDF)
 
 **First published:**
 
@@ -632,11 +630,11 @@ română (RO) (617.04 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+02/03/2026
 
 [View](/ro/documents/product-information/nexium-control-epar-product-information_ro.pdf)
 
-slovenčina (SK) (564.34 KB - PDF)
+slovenčina (SK) (683.91 KB - PDF)
 
 **First published:**
 
@@ -644,11 +642,11 @@ slovenčina (SK) (564.34 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+02/03/2026
 
 [View](/sk/documents/product-information/nexium-control-epar-product-information_sk.pdf)
 
-slovenščina (SL) (491.97 KB - PDF)
+Suomi (FI) (665.04 KB - PDF)
 
 **First published:**
 
@@ -656,23 +654,11 @@ slovenščina (SL) (491.97 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
-
-[View](/sl/documents/product-information/nexium-control-epar-product-information_sl.pdf)
-
-Suomi (FI) (499.8 KB - PDF)
-
-**First published:**
-
-19/09/2013
-
-**Last updated:**
-
-30/01/2025
+02/03/2026
 
 [View](/fi/documents/product-information/nexium-control-epar-product-information_fi.pdf)
 
-svenska (SV) (485.15 KB - PDF)
+svenska (SV) (524.81 KB - PDF)
 
 **First published:**
 
@@ -680,11 +666,11 @@ svenska (SV) (485.15 KB - PDF)
 
 **Last updated:**
 
-30/01/2025
+02/03/2026
 
 [View](/sv/documents/product-information/nexium-control-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUSA/00001269/202403 13/01/2025
+**Latest procedure affecting product information:** VR/0000285957 25/02/2025
 
 icon globe
 
@@ -710,7 +696,7 @@ English (EN) (30.66 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nexium-control-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-490)
+[Other languages (24)](#file-language-dropdown-487)
 
 български (BG) (34.29 KB - PDF)
 
@@ -1020,7 +1006,7 @@ Haleon Ireland Dungarvan Limited
 
 Knockbrack Dungarvan Co. Waterford IRELAND
 
-Opinion adopted 27/06/2013 Marketing authorisation issued 26/08/2013 Revision 20
+Opinion adopted 27/06/2013 Marketing authorisation issued 26/08/2013 Revision 21
 
 ## Assessment history
 
@@ -1032,13 +1018,21 @@ Collapse section
 
 Nexium Control : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (152.97 KB - PDF)
+
+**First published:** 02/03/2026
+
+[View](/en/documents/procedural-steps-after/nexium-control-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Nexium Control : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (204.73 KB - PDF)
 
 **First published:** 08/11/2013
 
-**Last updated:** 30/01/2025
+**Last updated:** 02/03/2026
 
-[View](/en/documents/procedural-steps-after/nexium-control-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/nexium-control-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Nexium Control-H-C-PSUSA-00001269-202403 - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1094,15 +1088,15 @@ English (EN) (62.47 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-nexium-control_en.pdf)
 
-#### More information on Nexium Control
+## More information on Nexium Control
 
 - [EMEA-000331-PIP01-08-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000331-pip01-08-m01)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 30/01/2025
+**This page was last updated on** 02/03/2026
 
 ## Share this page
 

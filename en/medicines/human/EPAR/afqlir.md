@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-18 16:15:00
+document_datetime: 2026-03-03 16:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/afqlir.html
 document_name: afqlir.html
 version: success
-processing_time: 0.1252457
-conversion_datetime: 2026-01-03 13:01:47.713938
+processing_time: 0.1138544
+conversion_datetime: 2026-03-05 11:40:17.286107
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Afqlir
 
 [RSS](/en/individual-human-medicine.xml/249341)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 aflibercept Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +117,7 @@ English (EN) (145.06 KB - PDF)
 
 [View](/en/documents/overview/afqlir-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-553)
+[Other languages (22)](#file-language-dropdown-631)
 
 български (BG) (163.22 KB - PDF)
 
@@ -309,17 +307,17 @@ English (EN) (377.95 KB - PDF)
 
 Afqlir : EPAR - Product Information
 
-English (EN) (5.13 MB - PDF)
+English (EN) (5.67 MB - PDF)
 
 **First published:** 20/01/2025
 
-**Last updated:** 18/12/2025
+**Last updated:** 03/03/2026
 
 [View](/en/documents/product-information/afqlir-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-737)
+[Other languages (24)](#file-language-dropdown-782)
 
-български (BG) (6.17 MB - PDF)
+български (BG) (6.18 MB - PDF)
 
 **First published:**
 
@@ -327,7 +325,7 @@ English (EN) (5.13 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/bg/documents/product-information/afqlir-epar-product-information_bg.pdf)
 
@@ -339,11 +337,11 @@ español (ES) (6 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/es/documents/product-information/afqlir-epar-product-information_es.pdf)
 
-čeština (CS) (5.21 MB - PDF)
+čeština (CS) (5.22 MB - PDF)
 
 **First published:**
 
@@ -351,7 +349,7 @@ español (ES) (6 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/cs/documents/product-information/afqlir-epar-product-information_cs.pdf)
 
@@ -363,7 +361,7 @@ dansk (DA) (5.19 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/da/documents/product-information/afqlir-epar-product-information_da.pdf)
 
@@ -375,7 +373,7 @@ Deutsch (DE) (5.73 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/de/documents/product-information/afqlir-epar-product-information_de.pdf)
 
@@ -387,11 +385,11 @@ eesti keel (ET) (5 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/et/documents/product-information/afqlir-epar-product-information_et.pdf)
 
-ελληνικά (EL) (9.04 MB - PDF)
+ελληνικά (EL) (9.07 MB - PDF)
 
 **First published:**
 
@@ -399,11 +397,11 @@ eesti keel (ET) (5 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/el/documents/product-information/afqlir-epar-product-information_el.pdf)
 
-français (FR) (5.56 MB - PDF)
+français (FR) (5.98 MB - PDF)
 
 **First published:**
 
@@ -411,7 +409,7 @@ français (FR) (5.56 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/fr/documents/product-information/afqlir-epar-product-information_fr.pdf)
 
@@ -423,7 +421,7 @@ hrvatski (HR) (4.91 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/hr/documents/product-information/afqlir-epar-product-information_hr.pdf)
 
@@ -435,11 +433,11 @@ hrvatski (HR) (4.91 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/is/documents/product-information/afqlir-epar-product-information_is.pdf)
 
-italiano (IT) (5.45 MB - PDF)
+italiano (IT) (5.48 MB - PDF)
 
 **First published:**
 
@@ -447,7 +445,7 @@ italiano (IT) (5.45 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/it/documents/product-information/afqlir-epar-product-information_it.pdf)
 
@@ -459,7 +457,7 @@ latviešu valoda (LV) (6.53 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/lv/documents/product-information/afqlir-epar-product-information_lv.pdf)
 
@@ -471,7 +469,7 @@ lietuvių kalba (LT) (5.76 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/lt/documents/product-information/afqlir-epar-product-information_lt.pdf)
 
@@ -483,11 +481,11 @@ magyar (HU) (5.44 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/hu/documents/product-information/afqlir-epar-product-information_hu.pdf)
 
-Malti (MT) (2.17 MB - PDF)
+Malti (MT) (5.83 MB - PDF)
 
 **First published:**
 
@@ -495,7 +493,7 @@ Malti (MT) (2.17 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/mt/documents/product-information/afqlir-epar-product-information_mt.pdf)
 
@@ -507,7 +505,7 @@ Nederlands (NL) (5.07 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/nl/documents/product-information/afqlir-epar-product-information_nl.pdf)
 
@@ -519,11 +517,11 @@ norsk (NO) (5.38 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/no/documents/product-information/afqlir-epar-product-information_no.pdf)
 
-polski (PL) (8.62 MB - PDF)
+polski (PL) (8.6 MB - PDF)
 
 **First published:**
 
@@ -531,7 +529,7 @@ polski (PL) (8.62 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/pl/documents/product-information/afqlir-epar-product-information_pl.pdf)
 
@@ -543,11 +541,11 @@ português (PT) (6.86 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/pt/documents/product-information/afqlir-epar-product-information_pt.pdf)
 
-română (RO) (9.68 MB - PDF)
+română (RO) (9.62 MB - PDF)
 
 **First published:**
 
@@ -555,11 +553,11 @@ română (RO) (9.68 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/ro/documents/product-information/afqlir-epar-product-information_ro.pdf)
 
-slovenčina (SK) (4.81 MB - PDF)
+slovenčina (SK) (4.8 MB - PDF)
 
 **First published:**
 
@@ -567,11 +565,11 @@ slovenčina (SK) (4.81 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/sk/documents/product-information/afqlir-epar-product-information_sk.pdf)
 
-slovenščina (SL) (7.21 MB - PDF)
+slovenščina (SL) (7.19 MB - PDF)
 
 **First published:**
 
@@ -579,7 +577,7 @@ slovenščina (SL) (7.21 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/sl/documents/product-information/afqlir-epar-product-information_sl.pdf)
 
@@ -591,11 +589,11 @@ Suomi (FI) (6.63 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/fi/documents/product-information/afqlir-epar-product-information_fi.pdf)
 
-svenska (SV) (6.63 MB - PDF)
+svenska (SV) (6.62 MB - PDF)
 
 **First published:**
 
@@ -603,11 +601,11 @@ svenska (SV) (6.63 MB - PDF)
 
 **Last updated:**
 
-18/12/2025
+03/03/2026
 
 [View](/sv/documents/product-information/afqlir-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000314162 18/12/2025
+**Latest procedure affecting product information:** VR/0000324748 03/03/2026
 
 icon globe
 
@@ -631,7 +629,7 @@ English (EN) (45.94 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/afqlir-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-937)
+[Other languages (24)](#file-language-dropdown-300)
 
 български (BG) (57.55 KB - PDF)
 
@@ -870,7 +868,7 @@ Sandoz GmbH
 
 Biochemiestr. 10
 
-Opinion adopted 19/09/2024 Marketing authorisation issued 13/11/2024 Revision 5
+Opinion adopted 19/09/2024 Marketing authorisation issued 13/11/2024 Revision 6
 
 ## Assessment history
 
@@ -882,11 +880,11 @@ Collapse section
 
 Afqlir : EPAR -Procedural steps taken and scientific information after authorisation
 
-English (EN) (165.81 KB - PDF)
+English (EN) (172.08 KB - PDF)
 
 **First published:** 24/04/2025
 
-**Last updated:** 18/12/2025
+**Last updated:** 03/03/2026
 
 [View](/en/documents/procedural-steps-after/afqlir-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -926,11 +924,11 @@ English (EN) (148.84 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-afqlir_en.pdf)
 
-#### News on Afqlir
+## News on Afqlir
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2024) 20/09/2024
 
-#### Related content
+## Related content
 
 Biosimilars in the EU - Information guide for healthcare professionals
 
@@ -942,7 +940,7 @@ English (EN) (1.96 MB - PDF)
 
 [View](/en/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-511)
+[Other languages (22)](#file-language-dropdown-199)
 
 български (BG) (1.9 MB - PDF)
 
@@ -1208,7 +1206,7 @@ svenska (SV) (1.93 MB - PDF)
 
 [View](/sv/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_sv.pdf)
 
-**This page was last updated on** 18/12/2025
+**This page was last updated on** 03/03/2026
 
 ## Share this page
 

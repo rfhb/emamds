@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-08-01 12:37:07
+document_datetime: 2026-03-03 13:47:17
 document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vyloy-epar-product-information_en.pdf
 document_name: vyloy-epar-product-information_en.pdf
 version: success
-processing_time: 10.4132962
-conversion_datetime: 2025-12-15 06:09:07.404608
+processing_time: 11.648295
+conversion_datetime: 2026-03-05 12:18:55.311642
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -36,7 +36,9 @@ Vyloy 100 mg powder for concentrate for solution for infusion
 
 Each vial of powder for concentrate for solution for infusion contains 100 mg zolbetuximab.
 
-Vyloy 300 mg powder for concentrate for solution for infusion Each vial of powder for concentrate for solution for infusion contains 300 mg zolbetuximab.
+Vyloy 300 mg powder for concentrate for solution for infusion
+
+Each vial of powder for concentrate for solution for infusion contains 300 mg zolbetuximab.
 
 After reconstitution, each mL of solution contains 20 mg of zolbetuximab.
 
@@ -86,13 +88,12 @@ The recommended dose should be calculated according to body surface area (BSA) f
 
 Table 1. Recommended zolbetuximab dose based on BSA
 
-| Single loading dose                                                                                                                                                    | Maintenance doses                                                                                                                                                                                                                                                                                        | Duration of therapy                                 |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| On Cycle 1, Day 1 a , 800 mg/m 2 intravenously Administer zolbetuximab in combination with fluoropyrimidine- and platinum-containing chemotherapy (see section 5.1). b | Beginning 3 weeks after the single loading dose, 600 mg/m 2 intravenously every 3 weeks or Beginning 2 weeks after the single loading dose, 400 mg/m 2 intravenously every 2 weeks Administer zolbetuximab in combination with fluoropyrimidine- and platinum-containing chemotherapy (see section 5.1). | Until disease progression or unacceptable toxicity. |
+| Single loading dose                                                                                                                  | Maintenance doses                                                                                                                                                                                             | Duration of therapy                                 |
+|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| On Cycle 1, Day 1 a , 800 mg/m 2 intravenously Administer zolbetuximab in combination with fluoropyrimidine- and platinum-containing | Beginning 3 weeks after the single loading dose, 600 mg/m 2 intravenously every 3 weeks or Beginning 2 weeks after the single loading dose, 400 mg/m 2 intravenously every 2 weeks Administer zolbetuximab in | Until disease progression or unacceptable toxicity. |
 
-a. The cycle duration of zolbetuximab is determined based on the respective chemotherapy backbone (see section 5.1).
-
-b. Refer to the fluoropyrimidine- or platinum-containing chemotherapy prescribing information regarding the dosing information for chemotherapy.
+- a. The cycle duration of zolbetuximab is determined based on the respective chemotherapy backbone (see section 5.1).
+- b. Refer to the fluoropyrimidine- or platinum-containing chemotherapy prescribing information regarding the dosing information for chemotherapy.
 
 ## Dose modifications
 
@@ -112,8 +113,7 @@ Table 2. Dose modifications for zolbetuximab
 | Vomiting                   | Grade 4                                                    | Permanently discontinue.                                                                                                                                                                                             |
 | Vomiting                   | Grade 2 or 3                                               | Interrupt the infusion until Grade ≤1, then resume at a reduced infusion rate b for the remaining infusion. For the next infusion, administer per the infusion rates in Table 3.                                     |
 
-a. Toxicity was graded per National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.03 (NCI-CTCAE v4.03) where Grade 1 is mild, Grade 2 is moderate, Grade 3 is severe, Grade 4 is life-threatening.
-
+- a. Toxicity was graded per National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.03 (NCI-CTCAE v4.03) where Grade 1 is mild, Grade 2 is moderate, Grade 3 is severe, Grade 4 is life-threatening.
 - b. Reduced infusion rate should be determined per physician's clinical judgment based on patient tolerability, severity of toxicity, and previously tolerated infusion rate (see section 4.4 for patient monitoring recommendations).
 
 ## Special populations
@@ -153,10 +153,6 @@ Table 3. Infusion rates recommended for each zolbetuximab infusion
 | Zolbetuximab dose                      | Zolbetuximab dose                                    | First 30-60 minutes            | Remaining infusion time b                |
 | Single loading dose (Cycle 1, Day 1) a | 800 mg/m 2                                           | 75 mg/m 2 /hr                  | 150-300 mg/m 2 /hr                       |
 | Maintenance doses                      | 600 mg/m 2 every 3 weeks Or 400 mg/m 2 every 2 weeks | 75 mg/m 2 /hr or 50 mg/m 2 /hr | 150-300 mg/m 2 /hr or 100-200 mg/m 2 /hr |
-
-a. The cycle duration of zolbetuximab is determined based on the respective chemotherapy backbone (see section 5.1).
-
-b. In the absence of adverse reactions after 30-60 minutes, the infusion rate can be increased as tolerated.
 
 For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6.
 
@@ -325,7 +321,7 @@ In case of overdose, the patient should be closely monitored for adverse reactio
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antineoplastic agents, other monoclonal antibodies and antibody drug conjugates, ATC code: L01FX31
+Pharmacotherapeutic group:  Antineoplastic agents, other monoclonal antibodies and antibody drug conjugates, ATC code: L01FX31
 
 ## Mechanism of action
 
@@ -337,7 +333,7 @@ Based on the exposure-response analyses of efficacy and safety in patients with 
 
 ## Immunogenicity
 
-Based on a pooled analysis of data from two phase 3 studies, the overall immunogenicity incidence was 9.5% (46 of 485 total patients treated with zolbetuximab 800/600 mg/m² every 3 weeks in combination with mFOLFOX6/CAPOX were tested positive for anti-drug antibodies [ADAs]). Because of the low occurrence of ADAs, the effect of these antibodies on the pharmacokinetics, safety and/or effectiveness of zolbetuximab is unknown.
+Based on a pooled analysis of data from two phase 3 studies, the overall immunogenicity incidence was 9.5% (46 of 485 total patients treated with zolbetuximab 800/600 mg/m² every 3 weeks in combination with mFOLFOX6/CAPOX were tested positive for anti-drug antibodies [ADAs]). Neutralising antibody incidence was 3.3% (16 of 485 total patients). Because of the low occurrence of ADAs, the effect of these antibodies on the pharmacokinetics, safety and/or effectiveness of zolbetuximab is uncertain.
 
 ## Clinical efficacy and safety
 
@@ -513,7 +509,11 @@ Do not expose to direct sunlight. Discard unused prepared infusion bags beyond t
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ºC - 8 ºC). Do not freeze. Store in the original package in order to protect from light.
+Store in a refrigerator (2 ºC - 8 ºC).
+
+Do not freeze.
+
+Store in the original package in order to protect from light.
 
 For storage conditions after reconstitution and dilution of the medicinal product, see section 6.3.
 
@@ -800,13 +800,18 @@ Do not freeze.
 
 Store in the original package in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Astellas Pharma Europe B.V.
 
-Sylviusweg 62 2333 BE Leiden The Netherlands
+Sylviusweg 62 2333 BE Leiden
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
@@ -826,11 +831,10 @@ Lot
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -922,9 +926,7 @@ Justification for not including Braille accepted.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -982,7 +984,10 @@ Do not freeze.
 
 Store in the original package in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1008,9 +1013,8 @@ Justification for not including Braille accepted.
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1107,7 +1111,7 @@ Breast-feeding is not recommended during treatment with Vyloy. It is not known i
 
 Vyloy is unlikely to affect your ability to drive or use machines.
 
-## Vyloy contains polysorbate 80
+## Vyloy contains  polysorbate 80
 
 This medicine contains 1.05 mg and 3.15 mg of polysorbate 80 in each 100 mg and 300 mg dose of Vyloy, respectively. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
@@ -1175,7 +1179,7 @@ Your doctor, pharmacist or nurse is responsible for storing this medicine and di
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton and vial label after EXP. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the  carton and vial label  after EXP. The expiry date refers to the last day of that month.
 
 Store in a refrigerator (2 ºC - 8 ºC). Do not freeze. Store in the original package in order to protect from light.
 
@@ -1215,9 +1219,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Astellas Pharma B.V. Branch
-
-Tél/Tel: +32 (0) 2 5580710
+Astellas Pharma B.V. Branch Tél/Tel: +32 (0) 2 5580710
 
 ## Lietuva
 
@@ -1235,9 +1237,7 @@ Astellas Pharma B.V. Branch Belgique/Belgien Tél/Tel: +32 (0)2 5580710
 
 ## Česká republika
 
-Astellas Pharma s.r.o.
-
-Tel: +420 221 401 500
+Astellas Pharma s.r.o. Tel: +420 221 401 500
 
 ## Magyarország
 
@@ -1251,9 +1251,7 @@ Tlf.: +45 43 430355
 
 ## Malta
 
-Astellas Pharmaceuticals AEBE
-
-Tel: +30 210 8189900
+Astellas Pharmaceuticals AEBE Tel: +30 210 8189900
 
 ## Deutschland
 
@@ -1263,9 +1261,7 @@ Tel: +49 (0)89 454401
 
 ## Nederland
 
-Astellas Pharma B.V.
-
-Tel: +31 (0)71 5455745
+Astellas Pharma B.V. Tel: +31 (0)71 5455745
 
 ## Eesti
 
@@ -1275,9 +1271,7 @@ Tel: +372 6 056 014
 
 ## Norge
 
-Astellas Pharma
-
-Tlf: +47 66 76 46 00
+Astellas Pharma Tlf: +47 66 76 46 00
 
 ## Ελλάδα
 
@@ -1295,9 +1289,7 @@ Tel: +34 91 4952700
 
 ## Polska
 
-Astellas Pharma Sp.z.o.o.
-
-Tel.: +48 225451 111
+Astellas Pharma Sp.z.o.o. Tel.: +48 225451 111
 
 <div style=\"page-break-after: always\"></div>
 

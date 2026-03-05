@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 08:13:14
+document_datetime: 2026-02-26 16:12:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/yeytuo.html
 document_name: yeytuo.html
 version: success
-processing_time: 0.101301
-conversion_datetime: 2025-12-31 04:39:37.566006
+processing_time: 0.076668
+conversion_datetime: 2026-03-05 11:39:48.260182
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Yeytuo
 
 [RSS](/en/individual-human-medicine.xml/263605)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 lenacapavir Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +107,7 @@ English (EN) (120.12 KB - PDF)
 
 [View](/en/documents/overview/yeytuo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-193)
+[Other languages (22)](#file-language-dropdown-133)
 
 български (BG) (134.53 KB - PDF)
 
@@ -299,205 +297,305 @@ English (EN) (542 KB - PDF)
 
 Yeytuo : EPAR - Product information
 
-English (EN) (1.07 MB - PDF)
+English (EN) (1.64 MB - PDF)
 
 **First published:** 03/09/2025
 
+**Last updated:** 26/02/2026
+
 [View](/en/documents/product-information/yeytuo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-482)
+[Other languages (24)](#file-language-dropdown-673)
 
-български (BG) (1.29 MB - PDF)
+български (BG) (1.79 MB - PDF)
 
 **First published:**
 
 03/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/bg/documents/product-information/yeytuo-epar-product-information_bg.pdf)
 
-español (ES) (1.07 MB - PDF)
+español (ES) (1.63 MB - PDF)
 
 **First published:**
 
 03/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/es/documents/product-information/yeytuo-epar-product-information_es.pdf)
 
-čeština (CS) (1.25 MB - PDF)
+čeština (CS) (1.72 MB - PDF)
 
 **First published:**
 
 03/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/cs/documents/product-information/yeytuo-epar-product-information_cs.pdf)
 
-dansk (DA) (1.09 MB - PDF)
+dansk (DA) (1.65 MB - PDF)
 
 **First published:**
 
 03/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/da/documents/product-information/yeytuo-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.04 MB - PDF)
+Deutsch (DE) (1.69 MB - PDF)
 
 **First published:**
 
 03/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/de/documents/product-information/yeytuo-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.07 MB - PDF)
+eesti keel (ET) (1.63 MB - PDF)
 
 **First published:**
 
 03/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/et/documents/product-information/yeytuo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.28 MB - PDF)
+ελληνικά (EL) (1.79 MB - PDF)
 
 **First published:**
 
 03/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/el/documents/product-information/yeytuo-epar-product-information_el.pdf)
 
-français (FR) (1.14 MB - PDF)
+français (FR) (1.7 MB - PDF)
 
 **First published:**
 
 03/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/fr/documents/product-information/yeytuo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.25 MB - PDF)
+hrvatski (HR) (1.75 MB - PDF)
 
 **First published:**
 
 03/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/hr/documents/product-information/yeytuo-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.07 MB - PDF)
+íslenska (IS) (1.64 MB - PDF)
 
 **First published:**
 
 03/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/is/documents/product-information/yeytuo-epar-product-information_is.pdf)
 
-italiano (IT) (1.09 MB - PDF)
+italiano (IT) (1.65 MB - PDF)
 
 **First published:**
 
 03/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/it/documents/product-information/yeytuo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.23 MB - PDF)
+latviešu valoda (LV) (1.74 MB - PDF)
 
 **First published:**
 
 03/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/lv/documents/product-information/yeytuo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.14 MB - PDF)
+lietuvių kalba (LT) (1.74 MB - PDF)
 
 **First published:**
 
 03/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/lt/documents/product-information/yeytuo-epar-product-information_lt.pdf)
 
-magyar (HU) (1.26 MB - PDF)
+magyar (HU) (1.8 MB - PDF)
 
 **First published:**
 
 03/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/hu/documents/product-information/yeytuo-epar-product-information_hu.pdf)
 
-Malti (MT) (1.18 MB - PDF)
+Malti (MT) (1.8 MB - PDF)
 
 **First published:**
 
 03/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/mt/documents/product-information/yeytuo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.02 MB - PDF)
+Nederlands (NL) (1.66 MB - PDF)
 
 **First published:**
 
 03/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/nl/documents/product-information/yeytuo-epar-product-information_nl.pdf)
 
-norsk (NO) (992.62 KB - PDF)
+norsk (NO) (1.63 MB - PDF)
 
 **First published:**
 
 03/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/no/documents/product-information/yeytuo-epar-product-information_no.pdf)
 
-polski (PL) (1.21 MB - PDF)
+polski (PL) (1.78 MB - PDF)
 
 **First published:**
 
 03/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/pl/documents/product-information/yeytuo-epar-product-information_pl.pdf)
 
-português (PT) (996.74 KB - PDF)
+português (PT) (1.63 MB - PDF)
 
 **First published:**
 
 03/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/pt/documents/product-information/yeytuo-epar-product-information_pt.pdf)
 
-română (RO) (1.16 MB - PDF)
+română (RO) (1.75 MB - PDF)
 
 **First published:**
 
 03/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/ro/documents/product-information/yeytuo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.26 MB - PDF)
+slovenčina (SK) (1.77 MB - PDF)
 
 **First published:**
 
 03/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/sk/documents/product-information/yeytuo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.14 MB - PDF)
+slovenščina (SL) (1.75 MB - PDF)
 
 **First published:**
 
 03/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/sl/documents/product-information/yeytuo-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.01 MB - PDF)
+Suomi (FI) (1.66 MB - PDF)
 
 **First published:**
 
 03/09/2025
+
+**Last updated:**
+
+26/02/2026
 
 [View](/fi/documents/product-information/yeytuo-epar-product-information_fi.pdf)
 
-svenska (SV) (1.06 MB - PDF)
+svenska (SV) (1.63 MB - PDF)
 
 **First published:**
 
 03/09/2025
 
+**Last updated:**
+
+26/02/2026
+
 [View](/sv/documents/product-information/yeytuo-epar-product-information_sv.pdf)
+
+**Latest procedure affecting product information:** VR/0000313247 19/02/2026
 
 icon globe
 
@@ -521,7 +619,7 @@ English (EN) (19.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/yeytuo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-681)
+[Other languages (24)](#file-language-dropdown-823)
 
 български (BG) (58.31 KB - PDF)
 
@@ -740,9 +838,23 @@ Gilead Sciences Ireland Unlimited Company
 
 Ida Business And Technology Park
 
-Opinion adopted 24/07/2025 Marketing authorisation issued 25/08/2025
+Opinion adopted 24/07/2025 Marketing authorisation issued 25/08/2025 Revision 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Yeytuo : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (142.04 KB - PDF)
+
+**First published:** 26/02/2026
+
+[View](/en/documents/procedural-steps-after/yeytuo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -770,13 +882,13 @@ English (EN) (160.89 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-yeytuo_en.pdf)
 
-#### News on Yeytuo
+## News on Yeytuo
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2025) 25/07/2025
 
 [New injection for easier prevention of HIV infection in the EU and worldwide](/en/news/new-injection-easier-prevention-hiv-infection-eu-worldwide) 25/07/2025
 
-**This page was last updated on** 03/09/2025
+**This page was last updated on** 26/02/2026
 
 ## Share this page
 

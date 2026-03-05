@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 09:31:31
+document_datetime: 2026-03-04 17:13:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eylea.html
 document_name: eylea.html
 version: success
-processing_time: 0.1480712
-conversion_datetime: 2025-12-30 02:30:48.559202
+processing_time: 0.1275976
+conversion_datetime: 2026-03-05 12:25:39.657666
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Eylea
 
 [RSS](/en/individual-human-medicine.xml/66725)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 aflibercept Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -51,11 +49,11 @@ Page contents
 Eylea is a medicine used to treat adults with:
 
 - the 'wet' form of age-related macular degeneration (AMD), a disease which affects the central part of the retina (called the macula) at the back of the eye. The wet form of AMD is caused by choroidal neovascularisation (the abnormal growth of blood vessels under the macula), which may leak fluid and blood and cause swelling;
-- impaired vision due to macular oedema (swelling) that follows blockage of either the main vein carrying blood from the retina (known as central retinal vein occlusion, CRVO) or of smaller branch veins (known as branch retinal vein occlusion, BRVO);
+- impaired vision due to macular oedema (swelling) that follows blockage of either the main vein carrying blood from the retina (known as central retinal vein occlusion, CRVO), the smaller branch veins (known as branch retinal vein occlusion, BRVO) or either the superior or inferior vein (known as hemiretinal retinal vein occlusion, HRVO);
 - impaired vision due to macular oedema caused by diabetes;
-- impaired vision due to myopic choroidal neovascularisation (a severe type of short-sightedness where the eyeball continues to grow, becoming longer than it should be).
+- impaired vision due to choroidal neovascularisation in people with myopia (short-sightedness).
 
-Eylea is also used to treat preterm infants with retinopathy of prematurity (ROP), an eye condition that can occur when a baby is born too early and blood vessels in the eye do not develop normally, causing damage to the retina. Eylea is used for specific stages of the disease: zone I (stage 1+, 2+, 3 or 3+) and zone II (stage 2+ or 3+) as well as the rapidly progressing severe form of the disease called aggressive posterior retinopathy disease.
+Eylea is also used to treat preterm infants with retinopathy of prematurity (ROP), an eye condition that can occur when a baby is born too early and blood vessels in the eye do not develop normally, causing damage to the retina. Eylea is used for specific stages of this disease: zone I (stage 1+, 2+, 3 or 3+), zone II (stage 2+ or 3+), as well as the rapidly progressing severe form of the disease called aggressive posterior retinopathy of prematurity disease.
 
 Eylea contains the active substance aflibercept.
 
@@ -67,15 +65,15 @@ Collapse section
 
 Eylea is available as prefilled syringes or vials containing a solution for intravitreal injection (injection into the vitreous humour, the jelly-like fluid inside the eye). It can only be obtained with a prescription and must be given by a qualified doctor who is experienced in giving intravitreal injections.
 
-In adults, Eylea is given as an injection of 2 mg into the affected eye, repeated as appropriate at intervals of a month or more. How often the injections are given depends on the condition being treated and the response of the patient to treatment.
+In adults, Eylea is given as an injection into the affected eye, repeated as appropriate at intervals of a month or more. The dose to be used and how often the injections are given depend on the condition being treated and the response of the patient to treatment.
 
-For the treatment of preterm infants with ROP, Eylea is given as a single injection of 0.4 mg per eye. It may be injected in one eye or both eyes on the same day. If the symptoms persist, a second dose may be given in the same eye at least 4 weeks after the first dose. Up to 2 injections per eye may be given within 6 months of starting treatment.
+For the treatment of preterm infants with ROP, Eylea is given as a single injection in the eye. It may be injected in one eye or both eyes on the same day. If the symptoms persist, a second dose may be given in the same eye at least 4 weeks after the first dose. Up to 2 injections per eye may be given within 6 months of starting treatment.
 
 For more information about how Eylea is used, see the package leaflet or contact your doctor or pharmacist.
 
 ## How does Eylea work?
 
-The active substance in Eylea, aflibercept is an engineered protein that has been designed to attach to and block the effects of a substance called vascular endothelial growth factor A (VEGF-A). It can also attach to other proteins such as placental growth factor (PlGF). VEGF-A and PlGF are involved in stimulating the abnormal growth of blood vessels in patients with AMD, certain types of macular oedema, myopic choroidal neovascularisation and ROP. By blocking these factors, aflibercept reduces the growth of abnormal blood vessels and controls leakage and swelling.
+The active substance in Eylea, aflibercept, is an engineered protein that has been designed to attach to and block the effects of a substance called vascular endothelial growth factor A (VEGF-A). It can also attach to other proteins such as placental growth factor (PlGF). VEGF-A and PlGF are involved in stimulating the abnormal growth of blood vessels in patients with AMD, certain types of macular oedema, myopic choroidal neovascularisation and ROP. By blocking these factors, aflibercept reduces the growth of abnormal blood vessels and controls leakage and swelling.
 
 ## What benefits of Eylea have been shown in studies?
 
@@ -89,21 +87,23 @@ Subsequent results from a supportive study indicated the effectiveness of extend
 
 **Macular oedema following retinal vein occlusion**
 
-Eylea was also investigated in two other main studies involving 366 patients with macular oedema following CRVO. Monthly injections of Eylea 2 mg were compared with a sham injection. Another main study involving 181 patients with macular oedema due to BRVO compared monthly injections of Eylea 2 mg with laser treatment. In all the studies, the main measure of effectiveness was the proportion of patients who responded and whose vision improved by 15 or more letters on an eye test after 24 weeks of treatment. The studies in patients with macular oedema following CRVO also looked at the effects of treatment on an as-needed basis after 24 weeks.
+Eylea was investigated in two other main studies involving 366 patients with macular oedema following CRVO. Monthly injections of Eylea 2 mg were compared with a sham injection. Another main study involving 181 patients with macular oedema due to BRVO compared monthly injections of Eylea 2 mg with laser treatment. In all the studies, the main measure of effectiveness was the proportion of patients who responded and whose vision improved by 15 or more letters on an eye test after 24 weeks of treatment. The studies in patients with macular oedema following CRVO also looked at the effects of treatment on an as-needed basis after 24 weeks.
 
-Eylea also produced a significant improvement in vision in patients with macular oedema following CRVO and BRVO. For CRVO, overall about 60% of patients given Eylea had an improvement of 15 letters or more in the eye test at week 24, compared with 17% of those given sham injections. The benefit was largely maintained with as-needed treatment up to 52 weeks, although some of the benefit seemed to be lost when patients were treated and followed up for longer periods than this. For BRVO, around 53% of patients given Eylea had an improvement of 15 letters or more in the eye test at week 24, compared with 27% of patients who received laser treatment. This effect was maintained at 52 weeks, despite less frequent injection of Eylea between week 24 and 52.
+Eylea produced a significant improvement in vision in patients with macular oedema following CRVO and BRVO. For CRVO, overall about 60% of patients given Eylea had an improvement of 15 letters or more in the eye test at week 24, compared with 17% of those given sham injections. The benefit was largely maintained with as-needed treatment for up to 52 weeks, although some of the benefit seemed to be lost when patients were treated and followed up for longer periods than this. For BRVO, around 53% of patients given Eylea had an improvement of 15 letters or more in the eye test at week 24, compared with 27% of patients who received laser treatment. This effect was maintained at 52 weeks, despite less frequent injection of Eylea between week 24 and 52.
+
+In another study involving 892 patients with macular oedema following RVO (CRVO/HRVO and BRVO), Eylea 8 mg given every 8 weeks was shown to be at least as effective as Eylea 2 mg given every 4 weeks.
 
 **Diabetic macular oedema**
 
 Two further main studies involving 872 patients with diabetic macular oedema looked at the effect of Eylea compared with laser treatment. Eylea was either given once a month, or once every other month after the first five monthly injections. The main measure of effectiveness in both studies was the change in the number of letters that could be read in an eye test after one year of treatment.
 
-In patients with diabetic macular oedema, the average number of letters they could read in an eye test before treatment was about 59 to 60; in patients given Eylea monthly this improved by around 12 letters, and in those given Eylea every other month by around 11 letters. In contrast, in patients given laser treatment the improvement after a year was only about 1 letter.
+The average number of letters they could read in an eye test before treatment was about 59 to 60; in patients given Eylea monthly this improved by around 12 letters, and in those given Eylea every other month by around 11 letters. In contrast, in patients given laser treatment the improvement after a year was only about 1 letter.
 
-**Myopic choroidal neovascularisation**
+**Choroidal neovascularisation due to myopia**
 
-In myopic choroidal neovascularisation, Eylea was investigated in a main study involving 122 patients, which compared Eylea with a sham injection. The main measure of effectiveness was the change in the number of letters that could be read in an eye test after 24 weeks of treatment.
+In choroidal neovascularisation due to myopia, Eylea was investigated in a main study involving 122 patients, which compared Eylea with a sham injection. The main measure of effectiveness was the change in the number of letters that could be read in an eye test after 24 weeks of treatment.
 
-In the study in myopic choroidal neovascularisation, the average number of letters patients could read in an eye test before treatment was about 56; patients given Eylea could read on average 12 more letters after 24 weeks of treatment whereas in patients given sham injections the total number of letters they could read decreased on average by 2.
+The average number of letters patients could read in an eye test before treatment was about 56; patients given Eylea could read on average 12 more letters after 24 weeks of treatment whereas in patients given sham injections the total number of letters they could read decreased on average by 2.
 
 **Retinopathy of prematurity**
 
@@ -111,19 +111,21 @@ In a study involving 113 infants with ROP, 24 weeks after starting treatment, ab
 
 ## What are the risks associated with Eylea?
 
-The most common side effects with Eylea (which may affect more than 1 in 20 people) are conjunctival haemorrhage (bleeding from the small blood vessels on the surface of the eye at the site of injection), retinal haemorrhage (bleeding at the back of the eye), reduced vision, eye pain, vitreous detachment (detachment of the jelly-like substance inside the eye), cataract (clouding of the lens), vitreous floaters (small particles or spots in the vision) and increased intraocular pressure (increased pressure inside the eye).
+For the full list of side effects and restrictions with Eylea, see the package leaflet.
 
-Serious injection-related side effects (which have occurred in less than 1 in around 2,000 injections in studies) are blindness, endophthalmitis (serious infection or inflammation inside the eye), cataracts, increased intraocular pressure, vitreous haemorrhage (bleeding into the jelly-like fluid in the eye, causing temporary loss of vision) and vitreous or retinal detachment. For the full list of side effects of Eylea, see the package leaflet.
+The most common side effects with Eylea include conjunctival haemorrhage (bleeding from the small blood vessels on the surface of the eye at the site of injection), retinal haemorrhage (bleeding at the back of the eye), reduced vision, eye pain, vitreous detachment (detachment of the jelly-like substance inside the eye), cataract (clouding of the lens), vitreous floaters (small particles or spots in the vision) and increased intraocular pressure (increased pressure inside the eye). How often these side effects may occur depends on the dose and the condition being treated.
+
+Side effects can be serious and depend on the dose and the condition being treated. For the full list of serious side effects of Eylea, see the package leaflet.
 
 Eylea must not be used in patients who have or are thought to have ocular or periocular infections (infections in or around the eyes), or in patients who have severe inflammation inside the eye. For the full list of restrictions, see the package leaflet.
 
 ## Why is Eylea authorised in the EU?
 
-The European Medicines Agency noted that, for wet AMD, Eylea was as effective as ranibizumab in maintaining patients' vision after the first year of treatment. In addition, the Agency considered that Eylea was beneficial in improving vision of patients with macular oedema resulting from CRVO, BRVO or diabetes, as well as patients with myopic choroidal neovascularisation. Eylea was found to be effective at treating the symptoms of ROP, although uncertainties remain regarding its effects beyond 2 years after treatment; this will be addressed by the submission of additional data. There were no major or unexpected safety concerns with Eylea. Therefore, the Agency decided that Eylea's benefits are greater than its risks and it can be authorised for use in the EU.
+The European Medicines Agency noted that, for wet AMD, Eylea was as effective as ranibizumab in maintaining patients' vision after the first year of treatment. In addition, the Agency considered that Eylea was beneficial in improving vision of patients with macular oedema resulting from RVO or diabetes, as well as patients with choroidal neovascularisation due to myopia. Eylea was found to be effective at treating the symptoms of ROP, although uncertainties remain regarding its effects beyond 2 years after treatment; this will be addressed by the submission of additional data. There were no major or unexpected safety concerns with Eylea. Therefore, the Agency decided that Eylea's benefits are greater than its risks and it can be authorised for use in the EU.
 
 ## What measures are being taken to ensure the safe and effective use of Eylea?
 
-The company that markets Eylea will provide up-to-date educational material for doctors (to minimise the risks associated with the injection in the eye) and for adult patients (so they can recognise any serious side effects, and know when to seek urgent attention from their doctor).
+The company that markets Eylea will provide up-to-date educational material for doctors (to minimise the risks associated with the injection in the eye) and for adult patients (so they can recognise any serious side effects and know when to seek urgent attention from their doctor).
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Eylea have also been included in the summary of product characteristics and the package leaflet.
 
@@ -135,19 +137,19 @@ Eylea received a marketing authorisation valid throughout the EU on 22 November 
 
 Eylea : EPAR - Medicine overview
 
-Reference Number: EMA/885871/2022
+Reference Number: EMADOC-1829012207-38698
 
-English (EN) (182.76 KB - PDF)
+English (EN) (226.46 KB - PDF)
 
 **First published:** 05/12/2012
 
-**Last updated:** 10/01/2023
+**Last updated:** 04/03/2026
 
 [View](/en/documents/overview/eylea-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-710)
+[Other languages (22)](#file-language-dropdown-120)
 
-български (BG) (209.28 KB - PDF)
+български (BG) (255 KB - PDF)
 
 **First published:**
 
@@ -155,11 +157,11 @@ English (EN) (182.76 KB - PDF)
 
 **Last updated:**
 
-10/01/2023
+04/03/2026
 
 [View](/bg/documents/overview/eylea-epar-medicine-overview_bg.pdf)
 
-español (ES) (183.31 KB - PDF)
+español (ES) (224.52 KB - PDF)
 
 **First published:**
 
@@ -167,11 +169,11 @@ español (ES) (183.31 KB - PDF)
 
 **Last updated:**
 
-10/01/2023
+04/03/2026
 
 [View](/es/documents/overview/eylea-epar-medicine-overview_es.pdf)
 
-čeština (CS) (208.93 KB - PDF)
+čeština (CS) (253.18 KB - PDF)
 
 **First published:**
 
@@ -179,11 +181,11 @@ español (ES) (183.31 KB - PDF)
 
 **Last updated:**
 
-10/01/2023
+04/03/2026
 
 [View](/cs/documents/overview/eylea-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (180.52 KB - PDF)
+dansk (DA) (224.23 KB - PDF)
 
 **First published:**
 
@@ -191,11 +193,11 @@ dansk (DA) (180.52 KB - PDF)
 
 **Last updated:**
 
-10/01/2023
+04/03/2026
 
 [View](/da/documents/overview/eylea-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (186.34 KB - PDF)
+Deutsch (DE) (229.77 KB - PDF)
 
 **First published:**
 
@@ -203,11 +205,11 @@ Deutsch (DE) (186.34 KB - PDF)
 
 **Last updated:**
 
-10/01/2023
+04/03/2026
 
 [View](/de/documents/overview/eylea-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (167.96 KB - PDF)
+eesti keel (ET) (218.4 KB - PDF)
 
 **First published:**
 
@@ -215,11 +217,11 @@ eesti keel (ET) (167.96 KB - PDF)
 
 **Last updated:**
 
-10/01/2023
+04/03/2026
 
 [View](/et/documents/overview/eylea-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (212.02 KB - PDF)
+ελληνικά (EL) (256.48 KB - PDF)
 
 **First published:**
 
@@ -227,11 +229,11 @@ eesti keel (ET) (167.96 KB - PDF)
 
 **Last updated:**
 
-10/01/2023
+04/03/2026
 
 [View](/el/documents/overview/eylea-epar-medicine-overview_el.pdf)
 
-français (FR) (186.92 KB - PDF)
+français (FR) (228.22 KB - PDF)
 
 **First published:**
 
@@ -239,11 +241,11 @@ français (FR) (186.92 KB - PDF)
 
 **Last updated:**
 
-10/01/2023
+04/03/2026
 
 [View](/fr/documents/overview/eylea-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (209.46 KB - PDF)
+hrvatski (HR) (249.83 KB - PDF)
 
 **First published:**
 
@@ -251,11 +253,11 @@ hrvatski (HR) (209.46 KB - PDF)
 
 **Last updated:**
 
-10/01/2023
+04/03/2026
 
 [View](/hr/documents/overview/eylea-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (181.83 KB - PDF)
+italiano (IT) (223.18 KB - PDF)
 
 **First published:**
 
@@ -263,11 +265,11 @@ italiano (IT) (181.83 KB - PDF)
 
 **Last updated:**
 
-10/01/2023
+04/03/2026
 
 [View](/it/documents/overview/eylea-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (217.55 KB - PDF)
+latviešu valoda (LV) (256 KB - PDF)
 
 **First published:**
 
@@ -275,11 +277,11 @@ latviešu valoda (LV) (217.55 KB - PDF)
 
 **Last updated:**
 
-10/01/2023
+04/03/2026
 
 [View](/lv/documents/overview/eylea-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (210.13 KB - PDF)
+lietuvių kalba (LT) (247.38 KB - PDF)
 
 **First published:**
 
@@ -287,11 +289,11 @@ lietuvių kalba (LT) (210.13 KB - PDF)
 
 **Last updated:**
 
-10/01/2023
+04/03/2026
 
 [View](/lt/documents/overview/eylea-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (209.37 KB - PDF)
+magyar (HU) (252.33 KB - PDF)
 
 **First published:**
 
@@ -299,11 +301,11 @@ magyar (HU) (209.37 KB - PDF)
 
 **Last updated:**
 
-10/01/2023
+04/03/2026
 
 [View](/hu/documents/overview/eylea-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (211.99 KB - PDF)
+Malti (MT) (251.69 KB - PDF)
 
 **First published:**
 
@@ -311,11 +313,11 @@ Malti (MT) (211.99 KB - PDF)
 
 **Last updated:**
 
-10/01/2023
+04/03/2026
 
 [View](/mt/documents/overview/eylea-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (183.47 KB - PDF)
+Nederlands (NL) (228.66 KB - PDF)
 
 **First published:**
 
@@ -323,11 +325,11 @@ Nederlands (NL) (183.47 KB - PDF)
 
 **Last updated:**
 
-10/01/2023
+04/03/2026
 
 [View](/nl/documents/overview/eylea-epar-medicine-overview_nl.pdf)
 
-polski (PL) (208.93 KB - PDF)
+polski (PL) (258.76 KB - PDF)
 
 **First published:**
 
@@ -335,11 +337,11 @@ polski (PL) (208.93 KB - PDF)
 
 **Last updated:**
 
-10/01/2023
+04/03/2026
 
 [View](/pl/documents/overview/eylea-epar-medicine-overview_pl.pdf)
 
-português (PT) (185.37 KB - PDF)
+português (PT) (224.66 KB - PDF)
 
 **First published:**
 
@@ -347,11 +349,11 @@ português (PT) (185.37 KB - PDF)
 
 **Last updated:**
 
-10/01/2023
+04/03/2026
 
 [View](/pt/documents/overview/eylea-epar-medicine-overview_pt.pdf)
 
-română (RO) (210.2 KB - PDF)
+română (RO) (247.87 KB - PDF)
 
 **First published:**
 
@@ -359,11 +361,11 @@ română (RO) (210.2 KB - PDF)
 
 **Last updated:**
 
-10/01/2023
+04/03/2026
 
 [View](/ro/documents/overview/eylea-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (208.32 KB - PDF)
+slovenčina (SK) (252.19 KB - PDF)
 
 **First published:**
 
@@ -371,11 +373,11 @@ slovenčina (SK) (208.32 KB - PDF)
 
 **Last updated:**
 
-10/01/2023
+04/03/2026
 
 [View](/sk/documents/overview/eylea-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (207.79 KB - PDF)
+slovenščina (SL) (250.54 KB - PDF)
 
 **First published:**
 
@@ -383,11 +385,11 @@ slovenščina (SL) (207.79 KB - PDF)
 
 **Last updated:**
 
-10/01/2023
+04/03/2026
 
 [View](/sl/documents/overview/eylea-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (180.01 KB - PDF)
+Suomi (FI) (220.28 KB - PDF)
 
 **First published:**
 
@@ -395,11 +397,11 @@ Suomi (FI) (180.01 KB - PDF)
 
 **Last updated:**
 
-10/01/2023
+04/03/2026
 
 [View](/fi/documents/overview/eylea-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (179.68 KB - PDF)
+svenska (SV) (220.89 KB - PDF)
 
 **First published:**
 
@@ -407,35 +409,35 @@ svenska (SV) (179.68 KB - PDF)
 
 **Last updated:**
 
-10/01/2023
+04/03/2026
 
 [View](/sv/documents/overview/eylea-epar-medicine-overview_sv.pdf)
 
 Eylea : EPAR - Risk management plan
 
-English (EN) (4.03 MB - PDF)
+English (EN) (3.85 MB - PDF)
 
 **First published:** 16/10/2018
 
-**Last updated:** 20/09/2024
+**Last updated:** 04/03/2026
 
-[View](/en/documents/rmp-summary/eylea-epar-risk-management-plan_en.pdf-0)
+[View](/en/documents/rmp-summary/eylea-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
 Eylea : EPAR - Product Information
 
-English (EN) (2.18 MB - PDF)
+English (EN) (3.21 MB - PDF)
 
 **First published:** 05/12/2012
 
-**Last updated:** 26/09/2025
+**Last updated:** 04/03/2026
 
 [View](/en/documents/product-information/eylea-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-449)
+[Other languages (24)](#file-language-dropdown-29)
 
-български (BG) (2.56 MB - PDF)
+български (BG) (6.35 MB - PDF)
 
 **First published:**
 
@@ -443,11 +445,11 @@ English (EN) (2.18 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/bg/documents/product-information/eylea-epar-product-information_bg.pdf)
 
-español (ES) (2.49 MB - PDF)
+español (ES) (5.68 MB - PDF)
 
 **First published:**
 
@@ -455,11 +457,11 @@ español (ES) (2.49 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/es/documents/product-information/eylea-epar-product-information_es.pdf)
 
-čeština (CS) (2.41 MB - PDF)
+čeština (CS) (7.52 MB - PDF)
 
 **First published:**
 
@@ -467,11 +469,11 @@ español (ES) (2.49 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/cs/documents/product-information/eylea-epar-product-information_cs.pdf)
 
-dansk (DA) (2.15 MB - PDF)
+dansk (DA) (5.94 MB - PDF)
 
 **First published:**
 
@@ -479,11 +481,11 @@ dansk (DA) (2.15 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/da/documents/product-information/eylea-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.4 MB - PDF)
+Deutsch (DE) (7.32 MB - PDF)
 
 **First published:**
 
@@ -491,11 +493,11 @@ Deutsch (DE) (2.4 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/de/documents/product-information/eylea-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.39 MB - PDF)
+eesti keel (ET) (6.59 MB - PDF)
 
 **First published:**
 
@@ -503,11 +505,11 @@ eesti keel (ET) (2.39 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/et/documents/product-information/eylea-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.72 MB - PDF)
+ελληνικά (EL) (6.23 MB - PDF)
 
 **First published:**
 
@@ -515,11 +517,11 @@ eesti keel (ET) (2.39 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/el/documents/product-information/eylea-epar-product-information_el.pdf)
 
-français (FR) (2.6 MB - PDF)
+français (FR) (6.44 MB - PDF)
 
 **First published:**
 
@@ -527,11 +529,11 @@ français (FR) (2.6 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/fr/documents/product-information/eylea-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.24 MB - PDF)
+hrvatski (HR) (5.46 MB - PDF)
 
 **First published:**
 
@@ -539,11 +541,11 @@ hrvatski (HR) (2.24 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/hr/documents/product-information/eylea-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.23 MB - PDF)
+íslenska (IS) (5.88 MB - PDF)
 
 **First published:**
 
@@ -551,11 +553,11 @@ hrvatski (HR) (2.24 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/is/documents/product-information/eylea-epar-product-information_is.pdf)
 
-italiano (IT) (2.68 MB - PDF)
+italiano (IT) (5.95 MB - PDF)
 
 **First published:**
 
@@ -563,11 +565,11 @@ italiano (IT) (2.68 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/it/documents/product-information/eylea-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.53 MB - PDF)
+latviešu valoda (LV) (7.17 MB - PDF)
 
 **First published:**
 
@@ -575,11 +577,11 @@ latviešu valoda (LV) (2.53 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/lv/documents/product-information/eylea-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.44 MB - PDF)
+lietuvių kalba (LT) (6.5 MB - PDF)
 
 **First published:**
 
@@ -587,11 +589,11 @@ lietuvių kalba (LT) (2.44 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/lt/documents/product-information/eylea-epar-product-information_lt.pdf)
 
-magyar (HU) (2.32 MB - PDF)
+magyar (HU) (7.2 MB - PDF)
 
 **First published:**
 
@@ -599,11 +601,11 @@ magyar (HU) (2.32 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/hu/documents/product-information/eylea-epar-product-information_hu.pdf)
 
-Malti (MT) (2.45 MB - PDF)
+Malti (MT) (8.14 MB - PDF)
 
 **First published:**
 
@@ -611,11 +613,11 @@ Malti (MT) (2.45 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/mt/documents/product-information/eylea-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.35 MB - PDF)
+Nederlands (NL) (5.8 MB - PDF)
 
 **First published:**
 
@@ -623,11 +625,11 @@ Nederlands (NL) (2.35 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/nl/documents/product-information/eylea-epar-product-information_nl.pdf)
 
-norsk (NO) (2.29 MB - PDF)
+norsk (NO) (5.86 MB - PDF)
 
 **First published:**
 
@@ -635,11 +637,11 @@ norsk (NO) (2.29 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/no/documents/product-information/eylea-epar-product-information_no.pdf)
 
-polski (PL) (2.55 MB - PDF)
+polski (PL) (6.86 MB - PDF)
 
 **First published:**
 
@@ -647,11 +649,11 @@ polski (PL) (2.55 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/pl/documents/product-information/eylea-epar-product-information_pl.pdf)
 
-português (PT) (2.43 MB - PDF)
+português (PT) (6.55 MB - PDF)
 
 **First published:**
 
@@ -659,11 +661,11 @@ português (PT) (2.43 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/pt/documents/product-information/eylea-epar-product-information_pt.pdf)
 
-română (RO) (2.42 MB - PDF)
+română (RO) (7.19 MB - PDF)
 
 **First published:**
 
@@ -671,11 +673,11 @@ română (RO) (2.42 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/ro/documents/product-information/eylea-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.47 MB - PDF)
+slovenčina (SK) (3.35 MB - PDF)
 
 **First published:**
 
@@ -683,11 +685,11 @@ slovenčina (SK) (2.47 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/sk/documents/product-information/eylea-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.18 MB - PDF)
+slovenščina (SL) (6.81 MB - PDF)
 
 **First published:**
 
@@ -695,11 +697,11 @@ slovenščina (SL) (2.18 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/sl/documents/product-information/eylea-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.44 MB - PDF)
+Suomi (FI) (6.93 MB - PDF)
 
 **First published:**
 
@@ -707,11 +709,11 @@ Suomi (FI) (2.44 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/fi/documents/product-information/eylea-epar-product-information_fi.pdf)
 
-svenska (SV) (2.33 MB - PDF)
+svenska (SV) (5.94 MB - PDF)
 
 **First published:**
 
@@ -719,11 +721,11 @@ svenska (SV) (2.33 MB - PDF)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/sv/documents/product-information/eylea-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** EMA/VR/0000295095 25/09/2025
+**Latest procedure affecting product information:** EMA/VR/0000295095 15/09/2026
 
 icon globe
 
@@ -749,7 +751,7 @@ English (EN) (58.66 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/eylea-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-196)
+[Other languages (24)](#file-language-dropdown-642)
 
 български (BG) (78.55 KB - PDF)
 
@@ -1057,12 +1059,11 @@ Ophthalmologicals
 
 ### Therapeutic indication
 
-Eylea is indicated for adults for the treatment of:
+Eylea is indicated in adults for the treatment of
 
-- neovascular (wet) age-related macular degeneration (AMD);
-- visual impairment due to macular oedema secondary to retinal vein occlusion (branch RVO or central RVO);
-- visual impairment due to diabetic macular oedema (DME);
-- visual impairment due to myopic choroidal neovascularisation (myopic CNV).
+- neovascular (wet) age related macular degeneration (nAMD)
+- visual impairment due to diabetic macular oedema (DME)
+- visual impairment due to macular oedema secondary to retinal vein occlusion (branch, central and hemiretinal RVO)
 
 ## Authorisation details
 
@@ -1072,7 +1073,7 @@ Bayer AG
 
 51368 Leverkusen Germany
 
-Opinion adopted 20/09/2012 Marketing authorisation issued 21/11/2012 Revision 38
+Opinion adopted 20/09/2012 Marketing authorisation issued 21/11/2012 Revision 39
 
 ## Assessment history
 
@@ -1084,11 +1085,11 @@ Collapse section
 
 Eylea : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (146.98 KB - PDF)
+English (EN) (209.28 KB - PDF)
 
 **First published:** 27/06/2025
 
-**Last updated:** 26/09/2025
+**Last updated:** 04/03/2026
 
 [View](/en/documents/procedural-steps-after/eylea-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1101,6 +1102,30 @@ English (EN) (304.49 KB - PDF)
 **Last updated:** 27/06/2025
 
 [View](/en/documents/procedural-steps-after/eylea-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Eylea-VR-0000264981 : EPAR - Assessment Report - Variation
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2706650
+
+English (EN) (12.36 MB - PDF)
+
+**First published:** 04/03/2026
+
+[View](/en/documents/variation-report/eylea-vr-0000264981-epar-assessment-report-variation_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Eylea (EMA/VR/0000264981)
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2706651
+
+English (EN) (126.6 KB - PDF)
+
+**First published:** 12/12/2025
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-eylea-ema-vr-0000264981_en.pdf)
 
 Eylea-H-C-2392-X-84-G : EPAR - Assessment Report - Variation
 
@@ -1308,7 +1333,7 @@ English (EN) (51.75 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-eylea_en.pdf)
 
-#### News on Eylea
+## News on Eylea
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 8-11 December 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-8-11-december-2025) 12/12/2025
 
@@ -1324,23 +1349,23 @@ English (EN) (51.75 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2013) 26/07/2013
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
 Eylea : EPAR - Product information - tracked changes
 
-English (EN) (2.1 MB - DOCX)
+English (EN) (2.25 MB - DOCX)
 
 **First published:** 27/06/2025
 
-**Last updated:** 26/09/2025
+**Last updated:** 04/03/2026
 
 [View](/en/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-81)
+[Other languages (24)](#file-language-dropdown-611)
 
-български (BG) (2.49 MB - DOCX)
+български (BG) (2.55 MB - DOCX)
 
 **First published:**
 
@@ -1348,11 +1373,11 @@ English (EN) (2.1 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/bg/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (3.19 MB - DOCX)
+español (ES) (3.21 MB - DOCX)
 
 **First published:**
 
@@ -1360,11 +1385,11 @@ español (ES) (3.19 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/es/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (2.95 MB - DOCX)
+čeština (CS) (3.08 MB - DOCX)
 
 **First published:**
 
@@ -1372,11 +1397,11 @@ español (ES) (3.19 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/cs/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (2.96 MB - DOCX)
+dansk (DA) (3 MB - DOCX)
 
 **First published:**
 
@@ -1384,11 +1409,11 @@ dansk (DA) (2.96 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/da/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (3.1 MB - DOCX)
+Deutsch (DE) (3.2 MB - DOCX)
 
 **First published:**
 
@@ -1396,11 +1421,11 @@ Deutsch (DE) (3.1 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/de/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (2.95 MB - DOCX)
+eesti keel (ET) (3.06 MB - DOCX)
 
 **First published:**
 
@@ -1408,11 +1433,11 @@ eesti keel (ET) (2.95 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/et/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (3.18 MB - DOCX)
+ελληνικά (EL) (3.23 MB - DOCX)
 
 **First published:**
 
@@ -1420,11 +1445,11 @@ eesti keel (ET) (2.95 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/el/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (2.73 MB - DOCX)
+français (FR) (2.72 MB - DOCX)
 
 **First published:**
 
@@ -1432,11 +1457,11 @@ français (FR) (2.73 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/fr/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (2.27 MB - DOCX)
+hrvatski (HR) (2.34 MB - DOCX)
 
 **First published:**
 
@@ -1444,11 +1469,11 @@ hrvatski (HR) (2.27 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/hr/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (2.4 MB - DOCX)
+íslenska (IS) (2.47 MB - DOCX)
 
 **First published:**
 
@@ -1456,11 +1481,11 @@ hrvatski (HR) (2.27 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/is/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_is.docx)
 
-italiano (IT) (2.86 MB - DOCX)
+italiano (IT) (2.84 MB - DOCX)
 
 **First published:**
 
@@ -1468,11 +1493,11 @@ italiano (IT) (2.86 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/it/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (4.19 MB - DOCX)
+latviešu valoda (LV) (4.36 MB - DOCX)
 
 **First published:**
 
@@ -1480,11 +1505,11 @@ latviešu valoda (LV) (4.19 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/lv/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (2.36 MB - DOCX)
+lietuvių kalba (LT) (2.47 MB - DOCX)
 
 **First published:**
 
@@ -1492,11 +1517,11 @@ lietuvių kalba (LT) (2.36 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/lt/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (2.48 MB - DOCX)
+magyar (HU) (2.55 MB - DOCX)
 
 **First published:**
 
@@ -1504,11 +1529,11 @@ magyar (HU) (2.48 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/hu/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (2.6 MB - DOCX)
+Malti (MT) (2.5 MB - DOCX)
 
 **First published:**
 
@@ -1516,11 +1541,11 @@ Malti (MT) (2.6 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/mt/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (2.33 MB - DOCX)
+Nederlands (NL) (2.37 MB - DOCX)
 
 **First published:**
 
@@ -1528,11 +1553,11 @@ Nederlands (NL) (2.33 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/nl/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (2.32 MB - DOCX)
+norsk (NO) (2.33 MB - DOCX)
 
 **First published:**
 
@@ -1540,11 +1565,11 @@ norsk (NO) (2.32 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/no/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_no.docx)
 
-polski (PL) (2.8 MB - DOCX)
+polski (PL) (2.89 MB - DOCX)
 
 **First published:**
 
@@ -1552,11 +1577,11 @@ polski (PL) (2.8 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/pl/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (2.55 MB - DOCX)
+português (PT) (2.68 MB - DOCX)
 
 **First published:**
 
@@ -1564,11 +1589,11 @@ português (PT) (2.55 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/pt/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (2.39 MB - DOCX)
+română (RO) (2.53 MB - DOCX)
 
 **First published:**
 
@@ -1576,11 +1601,11 @@ română (RO) (2.39 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/ro/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (2.56 MB - DOCX)
+slovenčina (SK) (2.62 MB - DOCX)
 
 **First published:**
 
@@ -1588,11 +1613,11 @@ slovenčina (SK) (2.56 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/sk/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (2.17 MB - DOCX)
+slovenščina (SL) (2.3 MB - DOCX)
 
 **First published:**
 
@@ -1600,11 +1625,11 @@ slovenščina (SL) (2.17 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/sl/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (2.75 MB - DOCX)
+Suomi (FI) (2.78 MB - DOCX)
 
 **First published:**
 
@@ -1612,11 +1637,11 @@ Suomi (FI) (2.75 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/fi/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (2.42 MB - DOCX)
+svenska (SV) (2.44 MB - DOCX)
 
 **First published:**
 
@@ -1624,26 +1649,25 @@ svenska (SV) (2.42 MB - DOCX)
 
 **Last updated:**
 
-26/09/2025
+04/03/2026
 
 [View](/sv/documents/product-information-tracked-changes/eylea-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Eylea
+## More information on Eylea
 
 - [EMEA-000236-PIP03-11 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000236-pip03-11)
 - [EMEA-000236-PIP04-14 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000236-pip04-14)
 - [EMEA-000236-PIP05-18 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000236-pip05-18)
 - [Eylea - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/eylea)
-- [Eylea - opinion on variation to marketing authorisation](/en/medicines/human/variation/eylea)
 - [Dissemination of additional risk minimisation measures for patients and healthcare professionals in EU/EEA countries - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000524)
 - [Acute effects of intravitreal aflibercept injections on intraocular pressure in vitrectomized and silicone-oil-filled eyes (NH\\_SiOP) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000811)
 - [Incidence of Retinal Vasculitis With or Without Retinal Vascular Occlusion Among Eyes Treated With Approved Anti-Vascular Endothelial Growth Factor Agents in Neovascular Age-Related Macular Degeneration or Diabetic Macular Edema - post-authorisation study](https://catalogues.ema.europa.eu/study/107731)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 26/09/2025
+**This page was last updated on** 04/03/2026
 
 ## Share this page
 

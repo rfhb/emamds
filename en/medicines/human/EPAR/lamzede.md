@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 12:06:00
+document_datetime: 2026-03-02 17:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lamzede.html
 document_name: lamzede.html
 version: success
-processing_time: 0.0981051
-conversion_datetime: 2025-12-30 03:32:20.865756
+processing_time: 0.0746433
+conversion_datetime: 2026-03-05 11:48:16.864085
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Lamzede
 
 [RSS](/en/individual-human-medicine.xml/65622)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 velmanase alfa Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -125,17 +123,17 @@ English (EN) (154.26 KB - PDF)
 
 Lamzede : EPAR - Product Information
 
-English (EN) (537.1 KB - PDF)
+English (EN) (599.61 KB - PDF)
 
 **First published:** 10/04/2018
 
-**Last updated:** 22/02/2023
+**Last updated:** 02/03/2026
 
 [View](/en/documents/product-information/lamzede-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-468)
+[Other languages (24)](#file-language-dropdown-938)
 
-български (BG) (443.19 KB - PDF)
+български (BG) (573.55 KB - PDF)
 
 **First published:**
 
@@ -143,11 +141,11 @@ English (EN) (537.1 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/bg/documents/product-information/lamzede-epar-product-information_bg.pdf)
 
-español (ES) (454.47 KB - PDF)
+español (ES) (516.28 KB - PDF)
 
 **First published:**
 
@@ -155,11 +153,11 @@ español (ES) (454.47 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/es/documents/product-information/lamzede-epar-product-information_es.pdf)
 
-čeština (CS) (522.77 KB - PDF)
+čeština (CS) (536.82 KB - PDF)
 
 **First published:**
 
@@ -167,11 +165,11 @@ español (ES) (454.47 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/cs/documents/product-information/lamzede-epar-product-information_cs.pdf)
 
-dansk (DA) (360 KB - PDF)
+dansk (DA) (525.19 KB - PDF)
 
 **First published:**
 
@@ -179,11 +177,11 @@ dansk (DA) (360 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/da/documents/product-information/lamzede-epar-product-information_da.pdf)
 
-Deutsch (DE) (393.73 KB - PDF)
+Deutsch (DE) (557.41 KB - PDF)
 
 **First published:**
 
@@ -191,11 +189,11 @@ Deutsch (DE) (393.73 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/de/documents/product-information/lamzede-epar-product-information_de.pdf)
 
-eesti keel (ET) (449.74 KB - PDF)
+eesti keel (ET) (502.59 KB - PDF)
 
 **First published:**
 
@@ -203,11 +201,11 @@ eesti keel (ET) (449.74 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/et/documents/product-information/lamzede-epar-product-information_et.pdf)
 
-ελληνικά (EL) (556.07 KB - PDF)
+ελληνικά (EL) (565.22 KB - PDF)
 
 **First published:**
 
@@ -215,11 +213,11 @@ eesti keel (ET) (449.74 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/el/documents/product-information/lamzede-epar-product-information_el.pdf)
 
-français (FR) (377.23 KB - PDF)
+français (FR) (539.78 KB - PDF)
 
 **First published:**
 
@@ -227,11 +225,11 @@ français (FR) (377.23 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/fr/documents/product-information/lamzede-epar-product-information_fr.pdf)
 
-hrvatski (HR) (508.06 KB - PDF)
+hrvatski (HR) (541.46 KB - PDF)
 
 **First published:**
 
@@ -239,11 +237,11 @@ hrvatski (HR) (508.06 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/hr/documents/product-information/lamzede-epar-product-information_hr.pdf)
 
-íslenska (IS) (455.43 KB - PDF)
+íslenska (IS) (513.27 KB - PDF)
 
 **First published:**
 
@@ -251,11 +249,11 @@ hrvatski (HR) (508.06 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/is/documents/product-information/lamzede-epar-product-information_is.pdf)
 
-italiano (IT) (382.44 KB - PDF)
+italiano (IT) (525.57 KB - PDF)
 
 **First published:**
 
@@ -263,11 +261,11 @@ italiano (IT) (382.44 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/it/documents/product-information/lamzede-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (519.97 KB - PDF)
+latviešu valoda (LV) (515.24 KB - PDF)
 
 **First published:**
 
@@ -275,11 +273,11 @@ latviešu valoda (LV) (519.97 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/lv/documents/product-information/lamzede-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (512.33 KB - PDF)
+lietuvių kalba (LT) (530.21 KB - PDF)
 
 **First published:**
 
@@ -287,11 +285,11 @@ lietuvių kalba (LT) (512.33 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/lt/documents/product-information/lamzede-epar-product-information_lt.pdf)
 
-magyar (HU) (514.12 KB - PDF)
+magyar (HU) (554.51 KB - PDF)
 
 **First published:**
 
@@ -299,11 +297,11 @@ magyar (HU) (514.12 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/hu/documents/product-information/lamzede-epar-product-information_hu.pdf)
 
-Malti (MT) (546.29 KB - PDF)
+Malti (MT) (578.24 KB - PDF)
 
 **First published:**
 
@@ -311,11 +309,11 @@ Malti (MT) (546.29 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/mt/documents/product-information/lamzede-epar-product-information_mt.pdf)
 
-Nederlands (NL) (468.42 KB - PDF)
+Nederlands (NL) (524.65 KB - PDF)
 
 **First published:**
 
@@ -323,11 +321,11 @@ Nederlands (NL) (468.42 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/nl/documents/product-information/lamzede-epar-product-information_nl.pdf)
 
-norsk (NO) (445.93 KB - PDF)
+norsk (NO) (512.96 KB - PDF)
 
 **First published:**
 
@@ -335,11 +333,11 @@ norsk (NO) (445.93 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/no/documents/product-information/lamzede-epar-product-information_no.pdf)
 
-polski (PL) (529.76 KB - PDF)
+polski (PL) (560.52 KB - PDF)
 
 **First published:**
 
@@ -347,11 +345,11 @@ polski (PL) (529.76 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/pl/documents/product-information/lamzede-epar-product-information_pl.pdf)
 
-português (PT) (457.69 KB - PDF)
+português (PT) (518.77 KB - PDF)
 
 **First published:**
 
@@ -359,11 +357,11 @@ português (PT) (457.69 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/pt/documents/product-information/lamzede-epar-product-information_pt.pdf)
 
-română (RO) (517.46 KB - PDF)
+română (RO) (536.14 KB - PDF)
 
 **First published:**
 
@@ -371,11 +369,11 @@ română (RO) (517.46 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/ro/documents/product-information/lamzede-epar-product-information_ro.pdf)
 
-slovenčina (SK) (517.22 KB - PDF)
+slovenčina (SK) (558.24 KB - PDF)
 
 **First published:**
 
@@ -383,11 +381,11 @@ slovenčina (SK) (517.22 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/sk/documents/product-information/lamzede-epar-product-information_sk.pdf)
 
-slovenščina (SL) (499.37 KB - PDF)
+slovenščina (SL) (551.99 KB - PDF)
 
 **First published:**
 
@@ -395,11 +393,11 @@ slovenščina (SL) (499.37 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/sl/documents/product-information/lamzede-epar-product-information_sl.pdf)
 
-Suomi (FI) (464.4 KB - PDF)
+Suomi (FI) (515.23 KB - PDF)
 
 **First published:**
 
@@ -407,11 +405,11 @@ Suomi (FI) (464.4 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/fi/documents/product-information/lamzede-epar-product-information_fi.pdf)
 
-svenska (SV) (459.57 KB - PDF)
+svenska (SV) (513.62 KB - PDF)
 
 **First published:**
 
@@ -419,11 +417,11 @@ svenska (SV) (459.57 KB - PDF)
 
 **Last updated:**
 
-22/02/2023
+02/03/2026
 
 [View](/sv/documents/product-information/lamzede-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** R/0029 13/01/2023
+**Latest procedure affecting product information:** VR/0000310242 02/03/2026
 
 icon globe
 
@@ -449,7 +447,7 @@ English (EN) (16.39 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lamzede-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-140)
+[Other languages (24)](#file-language-dropdown-61)
 
 български (BG) (38.67 KB - PDF)
 
@@ -773,7 +771,7 @@ Chiesi Farmaceutici S.p.A.
 
 Via Palermo 26/A
 
-Opinion adopted 14/12/2017 Marketing authorisation issued 23/03/2018 Revision 6
+Opinion adopted 14/12/2017 Marketing authorisation issued 23/03/2018 Revision 7
 
 ## Assessment history
 
@@ -785,13 +783,21 @@ Collapse section
 
 Lamzede : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (155.79 KB - PDF)
+
+**First published:** 02/03/2026
+
+[View](/en/documents/procedural-steps-after/lamzede-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Lamzede : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (179.05 KB - PDF)
 
 **First published:** 05/12/2018
 
-**Last updated:** 22/02/2023
+**Last updated:** 02/03/2026
 
-[View](/en/documents/procedural-steps-after/lamzede-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/lamzede-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -833,22 +839,22 @@ English (EN) (62.04 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-lamzede_en.pdf)
 
-#### News on Lamzede
+## News on Lamzede
 
 [New enzyme replacement therapy to treat rare genetic disorder alpha-mannosidosis in children and adults](/en/news/new-enzyme-replacement-therapy-treat-rare-genetic-disorder-alpha-mannosidosis-children-adults) 26/01/2018
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 January 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-january-2018) 26/01/2018
 
-#### More information on Lamzede
+## More information on Lamzede
 
 - [EU/3/04/260 - orphan designation for treatment of alpha-mannosidosis](/en/medicines/human/orphan-designations/eu-3-04-260)
 - [EMEA-001056-PIP02-12-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001056-pip02-12-m01)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 22/02/2023
+**This page was last updated on** 02/03/2026
 
 ## Share this page
 

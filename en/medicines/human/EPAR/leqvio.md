@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-01-27 13:36:00
+document_datetime: 2026-03-04 15:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/leqvio.html
 document_name: leqvio.html
 version: success
-processing_time: 0.1163395
-conversion_datetime: 2026-01-29 12:14:36.432458
+processing_time: 0.1021258
+conversion_datetime: 2026-03-05 11:45:15.455638
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
   docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Leqvio
 
 [RSS](/en/individual-human-medicine.xml/67381)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -102,7 +102,7 @@ English (EN) (135.67 KB - PDF)
 
 [View](/en/documents/overview/leqvio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-896)
+[Other languages (22)](#file-language-dropdown-469)
 
 български (BG) (149.66 KB - PDF)
 
@@ -294,17 +294,17 @@ English (EN) (4.33 MB - PDF)
 
 Leqvio : EPAR - Product information
 
-English (EN) (661 KB - PDF)
+English (EN) (656.63 KB - PDF)
 
 **First published:** 06/01/2021
 
-**Last updated:** 27/01/2026
+**Last updated:** 04/03/2026
 
 [View](/en/documents/product-information/leqvio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-23)
+[Other languages (23)](#file-language-dropdown-232)
 
-български (BG) (719.46 KB - PDF)
+български (BG) (717.34 KB - PDF)
 
 **First published:**
 
@@ -312,11 +312,11 @@ English (EN) (661 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+04/03/2026
 
 [View](/bg/documents/product-information/leqvio-epar-product-information_bg.pdf)
 
-español (ES) (670.26 KB - PDF)
+español (ES) (666.46 KB - PDF)
 
 **First published:**
 
@@ -324,11 +324,11 @@ español (ES) (670.26 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+04/03/2026
 
 [View](/es/documents/product-information/leqvio-epar-product-information_es.pdf)
 
-čeština (CS) (717.65 KB - PDF)
+čeština (CS) (712.49 KB - PDF)
 
 **First published:**
 
@@ -336,11 +336,11 @@ español (ES) (670.26 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+04/03/2026
 
 [View](/cs/documents/product-information/leqvio-epar-product-information_cs.pdf)
 
-dansk (DA) (700.77 KB - PDF)
+dansk (DA) (695.89 KB - PDF)
 
 **First published:**
 
@@ -348,11 +348,11 @@ dansk (DA) (700.77 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+04/03/2026
 
 [View](/da/documents/product-information/leqvio-epar-product-information_da.pdf)
 
-Deutsch (DE) (653.68 KB - PDF)
+Deutsch (DE) (650.02 KB - PDF)
 
 **First published:**
 
@@ -360,11 +360,11 @@ Deutsch (DE) (653.68 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+04/03/2026
 
 [View](/de/documents/product-information/leqvio-epar-product-information_de.pdf)
 
-eesti keel (ET) (662.36 KB - PDF)
+eesti keel (ET) (658.55 KB - PDF)
 
 **First published:**
 
@@ -372,11 +372,11 @@ eesti keel (ET) (662.36 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+04/03/2026
 
 [View](/et/documents/product-information/leqvio-epar-product-information_et.pdf)
 
-ελληνικά (EL) (751.25 KB - PDF)
+ελληνικά (EL) (749.24 KB - PDF)
 
 **First published:**
 
@@ -384,11 +384,11 @@ eesti keel (ET) (662.36 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+04/03/2026
 
 [View](/el/documents/product-information/leqvio-epar-product-information_el.pdf)
 
-français (FR) (725.35 KB - PDF)
+français (FR) (721.43 KB - PDF)
 
 **First published:**
 
@@ -396,11 +396,11 @@ français (FR) (725.35 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+04/03/2026
 
 [View](/fr/documents/product-information/leqvio-epar-product-information_fr.pdf)
 
-hrvatski (HR) (707.14 KB - PDF)
+hrvatski (HR) (703.34 KB - PDF)
 
 **First published:**
 
@@ -408,11 +408,11 @@ hrvatski (HR) (707.14 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+04/03/2026
 
 [View](/hr/documents/product-information/leqvio-epar-product-information_hr.pdf)
 
-íslenska (IS) (689.59 KB - PDF)
+íslenska (IS) (686.1 KB - PDF)
 
 **First published:**
 
@@ -420,11 +420,11 @@ hrvatski (HR) (707.14 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+04/03/2026
 
 [View](/is/documents/product-information/leqvio-epar-product-information_is.pdf)
 
-italiano (IT) (636.12 KB - PDF)
+italiano (IT) (631.94 KB - PDF)
 
 **First published:**
 
@@ -432,11 +432,11 @@ italiano (IT) (636.12 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+04/03/2026
 
 [View](/it/documents/product-information/leqvio-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (693.98 KB - PDF)
+latviešu valoda (LV) (690.31 KB - PDF)
 
 **First published:**
 
@@ -444,11 +444,11 @@ latviešu valoda (LV) (693.98 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+04/03/2026
 
 [View](/lv/documents/product-information/leqvio-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (727.66 KB - PDF)
+lietuvių kalba (LT) (723.94 KB - PDF)
 
 **First published:**
 
@@ -456,11 +456,11 @@ lietuvių kalba (LT) (727.66 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+04/03/2026
 
 [View](/lt/documents/product-information/leqvio-epar-product-information_lt.pdf)
 
-magyar (HU) (712.42 KB - PDF)
+Malti (MT) (735.4 KB - PDF)
 
 **First published:**
 
@@ -468,23 +468,11 @@ magyar (HU) (712.42 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
-
-[View](/hu/documents/product-information/leqvio-epar-product-information_hu.pdf)
-
-Malti (MT) (739.05 KB - PDF)
-
-**First published:**
-
-06/01/2021
-
-**Last updated:**
-
-27/01/2026
+04/03/2026
 
 [View](/mt/documents/product-information/leqvio-epar-product-information_mt.pdf)
 
-Nederlands (NL) (670.48 KB - PDF)
+Nederlands (NL) (666.78 KB - PDF)
 
 **First published:**
 
@@ -492,11 +480,11 @@ Nederlands (NL) (670.48 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+04/03/2026
 
 [View](/nl/documents/product-information/leqvio-epar-product-information_nl.pdf)
 
-norsk (NO) (703.99 KB - PDF)
+norsk (NO) (700.59 KB - PDF)
 
 **First published:**
 
@@ -504,11 +492,11 @@ norsk (NO) (703.99 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+04/03/2026
 
 [View](/no/documents/product-information/leqvio-epar-product-information_no.pdf)
 
-polski (PL) (725.24 KB - PDF)
+polski (PL) (721.54 KB - PDF)
 
 **First published:**
 
@@ -516,11 +504,11 @@ polski (PL) (725.24 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+04/03/2026
 
 [View](/pl/documents/product-information/leqvio-epar-product-information_pl.pdf)
 
-português (PT) (683.41 KB - PDF)
+português (PT) (680.08 KB - PDF)
 
 **First published:**
 
@@ -528,11 +516,11 @@ português (PT) (683.41 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+04/03/2026
 
 [View](/pt/documents/product-information/leqvio-epar-product-information_pt.pdf)
 
-română (RO) (723.93 KB - PDF)
+română (RO) (720.44 KB - PDF)
 
 **First published:**
 
@@ -540,11 +528,11 @@ română (RO) (723.93 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+04/03/2026
 
 [View](/ro/documents/product-information/leqvio-epar-product-information_ro.pdf)
 
-slovenčina (SK) (725.8 KB - PDF)
+slovenčina (SK) (721.89 KB - PDF)
 
 **First published:**
 
@@ -552,11 +540,11 @@ slovenčina (SK) (725.8 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+04/03/2026
 
 [View](/sk/documents/product-information/leqvio-epar-product-information_sk.pdf)
 
-slovenščina (SL) (697.68 KB - PDF)
+slovenščina (SL) (693.66 KB - PDF)
 
 **First published:**
 
@@ -564,11 +552,11 @@ slovenščina (SL) (697.68 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+04/03/2026
 
 [View](/sl/documents/product-information/leqvio-epar-product-information_sl.pdf)
 
-Suomi (FI) (661.31 KB - PDF)
+Suomi (FI) (657.73 KB - PDF)
 
 **First published:**
 
@@ -576,11 +564,11 @@ Suomi (FI) (661.31 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+04/03/2026
 
 [View](/fi/documents/product-information/leqvio-epar-product-information_fi.pdf)
 
-svenska (SV) (671.65 KB - PDF)
+svenska (SV) (668 KB - PDF)
 
 **First published:**
 
@@ -588,11 +576,11 @@ svenska (SV) (671.65 KB - PDF)
 
 **Last updated:**
 
-27/01/2026
+04/03/2026
 
 [View](/sv/documents/product-information/leqvio-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000323567 26/01/2026
+**Latest procedure affecting product information:** VR/0000326844 04/03/2026
 
 icon globe
 
@@ -618,7 +606,7 @@ English (EN) (43.72 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/leqvio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-106)
+[Other languages (24)](#file-language-dropdown-482)
 
 български (BG) (49.94 KB - PDF)
 
@@ -936,7 +924,7 @@ Novartis Europharm Limited
 
 Vista Building
 
-Opinion adopted 15/10/2020 Marketing authorisation issued 09/12/2020 Revision 10
+Opinion adopted 15/10/2020 Marketing authorisation issued 09/12/2020 Revision 11
 
 ## Assessment history
 
@@ -948,11 +936,11 @@ Collapse section
 
 Leqvio : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (130.73 KB - PDF)
+English (EN) (149.67 KB - PDF)
 
 **First published:** 18/09/2025
 
-**Last updated:** 27/01/2026
+**Last updated:** 04/03/2026
 
 [View](/en/documents/procedural-steps-after/leqvio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -992,16 +980,16 @@ English (EN) (143.76 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-leqvio_en.pdf)
 
-#### News on Leqvio
+## News on Leqvio
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 October 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2020) 16/10/2020
 
-#### More information on Leqvio
+## More information on Leqvio
 
 - [EMEA-002214-PIP01-17-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002214-pip01-17-m02)
 - [Leqvio - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/leqvio)
 
-**This page was last updated on** 27/01/2026
+**This page was last updated on** 04/03/2026
 
 ## Share this page
 

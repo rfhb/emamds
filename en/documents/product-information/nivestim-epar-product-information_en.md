@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-02-05 09:43:27
+document_datetime: 2026-03-02 16:39:05
 document_pages: 51
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/nivestim-epar-product-information_en.pdf
 document_name: nivestim-epar-product-information_en.pdf
 version: success
-processing_time: 11.5699721
-conversion_datetime: 2025-12-19 11:55:11.563951
+processing_time: 12.6414508
+conversion_datetime: 2026-03-05 11:39:06.037623
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -46,7 +46,7 @@ Each ml of solution for injection or infusion contains 96 million units [MU] (96
 
 Each pre-filled syringe contains 48 million units (MU) (480 micrograms [mcg]) of filgrastim in 0.5 ml (0.96 mg/ml).
 
-*recombinant methionyl granulocyte colony-stimulating factor  G-CSF  produced in Escherichia coli (BL21) by recombinant DNA technology.
+*recombinant methionyl granulocyte colony-stimulating factor [ G-CSF ] produced in Escherichia coli (BL21) by recombinant DNA technology.
 
 ## Excipient with known effect
 
@@ -314,7 +314,7 @@ There are no prospectively randomised comparisons of the two recommended mobilis
 
 ## Prior exposure to cytotoxic agents
 
-Patients who have undergone very extensive prior myelosuppressive therapy may not show sufficient mobilisation of PBPC to achieve the recommended minimum yield (≥ 2.0 × 10 6  CD34 + cells/kg) or acceleration of platelet recovery, to the same degree.
+Patients who have undergone very extensive prior myelosuppressive therapy may not show sufficient mobilisation of PBPC to achieve the recommended minimum yield ( ≥ 2.0 × 10 6 CD34 +  cells/kg) or acceleration of platelet recovery, to the same degree.
 
 Some cytotoxic agents exhibit particular toxicities to the haematopoietic progenitor pool, and may adversely affect progenitor mobilisation. Agents such as melphalan, carmustine (BCNU), and carboplatin, when administered over prolonged periods prior to attempts at progenitor mobilisation may reduce progenitor yield. However, the administration of melphalan, carboplatin or BCNU together with filgrastim has been shown to be effective for progenitor mobilisation. When a PBPC transplantation is envisaged it is advisable to plan the stem cell mobilisation procedure early in the treatment course of the patient. Particular attention should be paid to the number of progenitors mobilised in such patients before the administration of high-dose chemotherapy. If yields are inadequate, as measured by the criteria above, alternative forms of treatment, not requiring progenitor support should be considered.
 
@@ -440,9 +440,9 @@ The most commonly reported adverse reactions are pyrexia, musculoskeletal pain (
 
 The data in the table below describe adverse reactions reported from clinical trials and spontaneous reporting. Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-| MedDRA system organ class            | Adverse reactions          | Adverse reactions                                                           | Adverse reactions                                                    | Adverse reactions                                                               |
+| MedDRA system organ                  | Adverse reactions          | Adverse reactions                                                           | Adverse reactions                                                    | Adverse reactions                                                               |
 |--------------------------------------|----------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|
-|                                      | Very common (≥ 1/10)       | Common (≥ 1/100 to < 1/10)                                                  | Uncommon (≥ 1/1,000 to < 1/100)                                      | Rare (≥ 1/10,000 to < 1/1,000)                                                  |
+| class                                | Very common (≥ 1/10)       | Common (≥ 1/100 to < 1/10)                                                  | Uncommon (≥ 1/1,000 to < 1/100)                                      | Rare (≥ 1/10,000 to < 1/1,000)                                                  |
 | Infections and infestations          |                            | Sepsis Bronchitis Upper respiratory tract infection Urinary tract infection |                                                                      |                                                                                 |
 | Blood and lymphatic system disorders | Thrombocytopenia Anaemia e | Splenomegaly a Haemoglobin decreased e                                      | Leucocytosis a                                                       | Splenic rupture a Sickle cell anaemia with crisis Extramedullary haematopoiesis |
 | Immune system disorders              |                            |                                                                             | Hypersensitivity Drug hypersensitivity a Graft versus host disease b | Anaphylactic reaction                                                           |
@@ -471,14 +471,12 @@ The data in the table below describe adverse reactions reported from clinical tr
 | General disorders and administration site conditions | Fatigue a Mucosal inflammation a Pyrexia | Chest pain a Pain a Asthenia a Malaise e Oedema peripheral e | Injection site reaction         |                                                                                |
 | Injury, poisoning and procedural complications       |                                          | Transfusion reaction e                                       |                                 |                                                                                |
 
-a See section c (Description of selected adverse reactions).
-
+- a See section c (Description of selected adverse reactions).
 - b There have been reports of GvHD and fatalities in patients after allogeneic bone marrow transplantation (see section c).
 - c Includes bone pain, back pain, arthralgia, myalgia, pain in extremity, musculoskeletal pain, musculoskeletal chest pain, neck pain.
 - d Cases were observed in the post-marketing setting in patients undergoing bone marrow transplant or PBPC mobilisation.
 - e Adverse events with higher incidence in filgrastim patients compared to placebo and associated with the sequelae of the underlying malignancy or cytotoxic chemotherapy.
-
-## c. Description of selected adverse reactions
+- c. Description of selected adverse reactions
 
 ## Hypersensitivity
 
@@ -569,11 +567,13 @@ One retrospective European study evaluating the use of G-CSF after allogeneic bo
 | Relative Risk (95% CI) of GvHD andTRM Following Treatment with G-CSF after Bone Marrow Transplantation   | Relative Risk (95% CI) of GvHD andTRM Following Treatment with G-CSF after Bone Marrow Transplantation   | Relative Risk (95% CI) of GvHD andTRM Following Treatment with G-CSF after Bone Marrow Transplantation   | Relative Risk (95% CI) of GvHD andTRM Following Treatment with G-CSF after Bone Marrow Transplantation   | Relative Risk (95% CI) of GvHD andTRM Following Treatment with G-CSF after Bone Marrow Transplantation   | Relative Risk (95% CI) of GvHD andTRM Following Treatment with G-CSF after Bone Marrow Transplantation   |
 |----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Publication                                                                                              | Period of Study                                                                                          | N                                                                                                        | Acute Grade II - IV GvHD                                                                                 | Chronic GvHD                                                                                             | TRM                                                                                                      |
-| Meta-Analysis (2003)                                                                                     | 1986  2001 a                                                                                            | 1198                                                                                                     | 1.08 (0.87, 1.33)                                                                                        | 1.02 (0.82, 1.26)                                                                                        | 0.70 (0.38, 1.31)                                                                                        |
-| European Retrospective Study (2004)                                                                      | 1992  2002 b                                                                                            | 1789                                                                                                     | 1.33 (1.08, 1.64)                                                                                        | 1.29 (1.02, 1.61)                                                                                        | 1.73 (1.30, 2.32)                                                                                        |
-| International Retrospective Study (2006)                                                                 | 1995  2000 b                                                                                            | 2110                                                                                                     | 1.11 (0.86, 1.42)                                                                                        | 1.10 (0.86, 1.39)                                                                                        | 1.26 (0.95, 1.67)                                                                                        |
+| Meta-Analysis (2003)                                                                                     | 1986 - 2001 a                                                                                            | 1198                                                                                                     | 1.08 (0.87, 1.33)                                                                                        | 1.02 (0.82, 1.26)                                                                                        | 0.70 (0.38, 1.31)                                                                                        |
+| European Retrospective Study (2004)                                                                      | 1992 - 2002 b                                                                                            | 1789                                                                                                     | 1.33 (1.08, 1.64)                                                                                        | 1.29 (1.02, 1.61)                                                                                        | 1.73 (1.30, 2.32)                                                                                        |
+| International Retrospective Study (2006)                                                                 | 1995 - 2000 b                                                                                            | 2110                                                                                                     | 1.11 (0.86, 1.42)                                                                                        | 1.10 (0.86, 1.39)                                                                                        | 1.26 (0.95, 1.67)                                                                                        |
 
-a Analysis includes studies involving BM transplant during this period; some studies used GM-CSF.
+a
+
+Analysis includes studies involving BM transplant during this period; some studies used GM-CSF.
 
 b Analysis includes patients receiving BM transplant during this period.
 
@@ -625,7 +625,7 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## 6.3 Shelf life
 
-Pre-filled syringe
+## Pre-filled syringe
 
 30 months.
 
@@ -651,7 +651,7 @@ For storage conditions after dilution of the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
-Nivestim 12 MU/0.2 ml solution for injection/infusion
+## Nivestim 12 MU/0.2 ml solution for injection/infusion
 
 Pre-filled syringe (type I glass), with injection needle (stainless steel) with a needle guard, containing 0.2 ml solution for injection/infusion.
 
@@ -691,9 +691,9 @@ Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/10/631/001 EU/1/10/631/002 EU/1/10/631/003 EU/1/10/631/004 EU/1/10/631/005 EU/1/10/631/006 EU/1/10/631/007 EU/1/10/631/008 EU/1/10/631/009 EU/1/10/631/010 EU/1/10/631/011
-
-EU/1/10/631/012
+```
+EU/1/10/631/001 EU/1/10/631/002 EU/1/10/631/003 EU/1/10/631/004 EU/1/10/631/005 EU/1/10/631/006 EU/1/10/631/007 EU/1/10/631/008 EU/1/10/631/009 EU/1/10/631/010 EU/1/10/631/011 EU/1/10/631/012
+```
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -709,7 +709,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -735,20 +735,20 @@ Medicinal product subject to restricted medical prescription (See Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -764,7 +764,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -780,7 +780,7 @@ Excipients: acetic acid glacial, sodium hydroxide, polysorbate 80, sorbitol (E42
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection/infusion.
+## Solution for injection/infusion.
 
 1 pre-filled syringe with 0.2 ml.
 
@@ -820,17 +820,11 @@ Store and transport refrigerated (2°C - 8°C). Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Pfizer Europe MA EEIG
-
-Boulevard de la Plaine 17
-
-1050 Bruxelles
-
-Belgium
+Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -862,27 +856,27 @@ Nivestim 12 MU/0.2 ml
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLEDATA   |
-|-------|---------------------------------------|
+| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
+|-------|----------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| SYRINGE LABEL                                                      |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
+|------------------------------------------------------------|
+| SYRINGE LABEL                                              |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Nivestim 12 MU/0.2 ml injection/infusion filgrastim SC/IV
 
 | 2.   | METHODOFADMINISTRATION   |
 |------|--------------------------|
 
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -903,7 +897,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -919,7 +913,7 @@ Excipients: acetic acid glacial, sodium hydroxide, polysorbate 80, sorbitol (E42
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection/infusion.
+## Solution for injection/infusion.
 
 1 pre-filled syringe with 0.5 ml
 
@@ -959,17 +953,11 @@ Store and transport refrigerated (2°C - 8°C). Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Pfizer Europe MA EEIG
-
-Boulevard de la Plaine 17
-
-1050 Bruxelles
-
-Belgium
+Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1001,27 +989,27 @@ Nivestim 30 MU/0.5 ml
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLEDATA   |
-|-------|---------------------------------------|
+| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
+|-------|----------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| SYRINGE LABEL                                                      |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
+|------------------------------------------------------------|
+| SYRINGE LABEL                                              |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Nivestim 30 MU/0.5 ml injection/infusion filgrastim SC/IV
 
 | 2.   | METHODOFADMINISTRATION   |
 |------|--------------------------|
 
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -1058,7 +1046,7 @@ Excipients: acetic acid glacial, sodium hydroxide, polysorbate 80, sorbitol (E42
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection/infusion.
+## Solution for injection/infusion.
 
 1 pre-filled syringe with 0.5 ml
 
@@ -1086,7 +1074,7 @@ Needle guard is attached to the pre-filled syringe in order to protect from need
 
 ## 8. EXPIRY DATE
 
-EXP
+## EXP
 
 After dilution use within 24 hours.
 
@@ -1098,7 +1086,7 @@ Store and transport refrigerated (2°C - 8°C). Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1140,27 +1128,27 @@ Nivestim 48 MU/0.5 ml
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLEDATA   |
-|-------|---------------------------------------|
+| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
+|-------|----------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| SYRINGE LABEL                                                      |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
+|------------------------------------------------------------|
+| SYRINGE LABEL                                              |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Nivestim 48 MU/0.5 ml injection/infusion filgrastim SC/IV
 
 | 2.   | METHODOFADMINISTRATION   |
 |------|--------------------------|
 
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -1181,9 +1169,9 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 Nivestim 12 MU/0.2 ml solution for injection/infusion Nivestim 30 MU/0.5 ml solution for injection/infusion Nivestim 48 MU/0.5 ml solution for injection/infusion filgrastim
 
@@ -1209,7 +1197,7 @@ Nivestim is a white blood cell growth factor (granulocyte-colony stimulating fac
 
 A reduction in the number of white blood cells (neutropenia) can occur for several reasons and makes your body less able to fight infection. Nivestim stimulates the bone marrow to produce new white cells quickly.
 
-Nivestim can be used:
+## Nivestim can be used:
 
 - -to increase the number of white blood cells after treatment with chemotherapy to help prevent infections;
 - -to increase the number of white blood cells after a bone marrow transplant to help prevent infections;
@@ -1236,10 +1224,10 @@ Please tell your doctor before starting treatment if you have :
 
 Please tell your doctor immediately during treatment with Nivestim, if you:
 
--  have sudden signs of allergy such as rash, itching or hives on the skin, swelling of the face, lips, tongue or other parts of the body, shortness of breath, wheezing or trouble breathing as these could be signs of a severe allergic reaction (hypersensitivity).
--  experience puffiness in your face or ankles, blood in your urine or brown-coloured urine or you notice you urinate less than usual (glomerulonephritis).
--  get left upper belly (abdominal) pain, pain below the left rib cage or at the tip of your left shoulder (these may be symptoms of an enlarged spleen (splenomegaly), or possibly rupture of the spleen).
--  notice unusual bleeding or bruising (these may be symptoms of a decrease in blood platelets (thrombocytopenia), with a reduced ability of your blood to clot).
+- have sudden signs of allergy such as rash, itching or hives on the skin, swelling of the face, lips, tongue or other parts of the body, shortness of breath, wheezing or trouble breathing as these could be signs of a severe allergic reaction (hypersensitivity).
+- experience puffiness in your face or ankles, blood in your urine or brown-coloured urine or you notice you urinate less than usual (glomerulonephritis).
+- get left upper belly (abdominal) pain, pain below the left rib cage or at the tip of your left shoulder (these may be symptoms of an enlarged spleen (splenomegaly), or possibly rupture of the spleen).
+- notice unusual bleeding or bruising (these may be symptoms of a decrease in blood platelets (thrombocytopenia), with a reduced ability of your blood to clot).
 
 Inflammation of the aorta (the large blood vessel which transports blood from the heart to the body) has been reported rarely in cancer patients and healthy donors. The symptoms can include fever, abdominal pain, malaise, back pain and increased inflammatory markers. Tell your doctor if you experience these symptoms.
 
@@ -1360,81 +1348,81 @@ In normal stem cell donors, an increase in white blood cells (leucocytosis) and 
 
 ## Very common side effects (may affect more than 1 in 10 people):
 
--  decrease of platelets which reduces the ability of blood to clot (thrombocytopenia)
--  low red blood cell count (anaemia)
--  headache
--  diarrhoea
--  vomiting
--  nausea
--  unusual hair loss or thinning (alopecia)
--  tiredness (fatigue)
--  soreness and swelling of the digestive tract lining which runs from the mouth to the anus (mucosal inflammation)
--  fever (pyrexia)
+- decrease of platelets which reduces the ability of blood to clot (thrombocytopenia)
+- low red blood cell count (anaemia)
+- headache
+- diarrhoea
+- vomiting
+- nausea
+- unusual hair loss or thinning (alopecia)
+- tiredness (fatigue)
+- soreness and swelling of the digestive tract lining which runs from the mouth to the anus (mucosal inflammation)
+- fever (pyrexia)
 
 ## Common side effects (may affect up to 1 in 10 people):
 
--  inflammation of the lung (bronchitis)
--  upper respiratory tract infection
--  urinary tract infection
--  decreased appetite
--  trouble sleeping (insomnia)
--  dizziness
--  decreased feeling of sensitivity, especially in the skin (hypoaesthesia)
--  tingling or numbness of the hands or feet (paraesthesia)
--  low blood pressure (hypotension)
--  high blood pressure (hypertension)
--  cough
--  coughing up blood (haemoptysis)
--  pain in your mouth and throat (oropharyngeal pain)
--  nose bleeds (epistaxis)
--  constipation
--  oral pain
--  enlargement of the liver (hepatomegaly)
--  rash
--  redness of the skin (erythema)
--  muscle spasm
--  pain when passing urine (dysuria)
--  chest pain
--  pain
--  generalised weakness (asthenia)
--  generally feeling unwell (malaise)
--  swelling in the hands and feet (oedema peripheral)
--  increase of certain enzymes in the blood
--  changes in blood chemistry
--  transfusion reaction
+- inflammation of the lung (bronchitis)
+- upper respiratory tract infection
+- urinary tract infection
+- decreased appetite
+- trouble sleeping (insomnia)
+- dizziness
+- decreased feeling of sensitivity, especially in the skin (hypoaesthesia)
+- tingling or numbness of the hands or feet (paraesthesia)
+- low blood pressure (hypotension)
+- high blood pressure (hypertension)
+- cough
+- coughing up blood (haemoptysis)
+- pain in your mouth and throat (oropharyngeal pain)
+- nose bleeds (epistaxis)
+- constipation
+- oral pain
+- enlargement of the liver (hepatomegaly)
+- rash
+- redness of the skin (erythema)
+- muscle spasm
+- pain when passing urine (dysuria)
+- chest pain
+- pain
+- generalised weakness (asthenia)
+- generally feeling unwell (malaise)
+- swelling in the hands and feet (oedema peripheral)
+- increase of certain enzymes in the blood
+- changes in blood chemistry
+- transfusion reaction
 
 <div style=\"page-break-after: always\"></div>
 
 ## Uncommon side effects (may affect up to 1 in 100 people):
 
--  increase in white blood cells (leucocytosis)
--  allergic reaction (hypersensitivity)
--  rejection of transplanted bone marrow (graft versus host disease)
--  high uric acid levels in the blood, which may cause gout (hyperuricaemia) (Blood uric acid increased)
--  liver damage caused by blocking of the small veins within the liver (veno-occlusive disease)
--  lungs do not function as they should, causing breathlessness (respiratory failure)
--  swelling and/or fluid in the lungs (pulmonary oedema)
--  inflammation of the lungs (interstitial lung disease)
--  abnormal x-rays of the lungs (lung infiltration)
--  bleeding from the lung (pulmonary haemorrhage)
--  lack of absorption of oxygen in the lung (hypoxia)
--  bumpy skin rash (rash maculo-papular)
--  disease which causes bones to become less dense, making them weaker, more brittle and likely to break (osteoporosis)
--  injection site reaction
+- increase in white blood cells (leucocytosis)
+- allergic reaction (hypersensitivity)
+- rejection of transplanted bone marrow (graft versus host disease)
+- high uric acid levels in the blood, which may cause gout (hyperuricaemia) (Blood uric acid increased)
+- liver damage caused by blocking of the small veins within the liver (veno-occlusive disease)
+- lungs do not function as they should, causing breathlessness (respiratory failure)
+- swelling and/or fluid in the lungs (pulmonary oedema)
+- inflammation of the lungs (interstitial lung disease)
+- abnormal x-rays of the lungs (lung infiltration)
+- bleeding from the lung (pulmonary haemorrhage)
+- lack of absorption of oxygen in the lung (hypoxia)
+- bumpy skin rash (rash maculo-papular)
+- disease which causes bones to become less dense, making them weaker, more brittle and likely to break (osteoporosis)
+- injection site reaction
 
 ## Rare side effects (may affect up to 1 in 1,000 people):
 
--  severe pain in the bones, chest, gut or joints (sickle cell anaemia with crisis)
--  sudden life-threatening allergic reaction (anaphylactic reaction)
--  pain and swelling of the joints, similar to gout (pseudogout)
--  a change in how your body regulates fluids within your body and may result in puffiness (fluid volume disturbances)
--  inflammation of the blood vessels in the skin (cutaneous vasculitis)
--  plum-coloured, raised, painful sores on the limbs and sometimes the face and neck with a fever (Sweets syndrome)
--  worsening of rheumatoid arthritis
--  unusual change in the urine
--  bone density decreased
--  inflammation of the aorta (the large blood vessel which transports blood from the heart to the body), see section 2
--  formation of blood cells outside of the bone marrow (extramedullary haematopoiesis).
+- severe pain in the bones, chest, gut or joints (sickle cell anaemia with crisis)
+- sudden life-threatening allergic reaction (anaphylactic reaction)
+- pain and swelling of the joints, similar to gout (pseudogout)
+- a change in how your body regulates fluids within your body and may result in puffiness (fluid volume disturbances)
+- inflammation of the blood vessels in the skin (cutaneous vasculitis)
+- plum-coloured, raised, painful sores on the limbs and sometimes the face and neck with a fever (Sweets syndrome)
+- worsening of rheumatoid arthritis
+- unusual change in the urine
+- bone density decreased
+- inflammation of the aorta (the large blood vessel which transports blood from the heart to the body), see section 2
+- formation of blood cells outside of the bone marrow (extramedullary haematopoiesis).
 
 ## Reporting of side effects
 
@@ -1460,11 +1448,11 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Nivestim contains
 
--  The active substance is filgrastim. Each ml contains 60 million units [MU] (600 mcg) or 96 million units [MU] (960 mcg) of filgrastim.
--  Nivestim 12 MU/0.2 ml solution for injection/infusion: each pre-filled syringe contains 12 million units (MU), 120 mcg of filgrastim in 0.2 ml (corresponding to 0.6 mg/ml).
--  Nivestim 30 MU/0.5 ml solution for injection/infusion: each pre-filled syringe contains 30 million units (MU), 300 mcg of filgrastim in 0.5 ml (corresponding to 0.6 mg/ml).
--  Nivestim 48 MU/0.5 ml solution for injection/infusion: each pre-filled syringe contains 48 million units (MU), 480 mcg of filgrastim in 0.5 ml (corresponding to 0.96 mg/ml).
--  The other ingredients are acetic acid (glacial), sodium hydroxide, sorbitol E420, polysorbate 80, and water for injections.
+- The active substance is filgrastim. Each ml contains 60 million units [MU] (600 mcg) or 96 million units [MU] (960 mcg) of filgrastim.
+- Nivestim 12 MU/0.2 ml solution for injection/infusion: each pre-filled syringe contains 12 million units (MU), 120 mcg of filgrastim in 0.2 ml (corresponding to 0.6 mg/ml).
+- Nivestim 30 MU/0.5 ml solution for injection/infusion: each pre-filled syringe contains 30 million units (MU), 300 mcg of filgrastim in 0.5 ml (corresponding to 0.6 mg/ml).
+- Nivestim 48 MU/0.5 ml solution for injection/infusion: each pre-filled syringe contains 48 million units (MU), 480 mcg of filgrastim in 0.5 ml (corresponding to 0.96 mg/ml).
+- The other ingredients are acetic acid (glacial), sodium hydroxide, sorbitol E420, polysorbate 80, and water for injections.
 
 ## What Nivestim looks like and contents of the pack
 
@@ -1498,7 +1486,7 @@ Tel: +370 52 51 4000
 
 Тел.: +359 2 970 4333
 
-## Magyarország
+Magyarország
 
 Pfizer Kft.
 
@@ -1520,17 +1508,23 @@ Tlf.: +45 44 20 11 00
 
 ## Deutschland
 
-PFIZER PHARMA GmbH Tel: +49 (0)30 550055-51000
+PFIZER PHARMA GmbH
+
+Tel: +49 (0)30 550055-51000
 
 ## Eesti
 
-Pfizer Luxembourg SARL Eesti filiaal Tel: +372 666 7500
+Pfizer Luxembourg SARL Eesti filiaal
+
+Tel: +372 666 7500
 
 ## Ελλάδα
 
 Pfizer ΕΛΛΆΣ A.E.
 
-Τηλ: +30 210 6785 800
+Τηλ: +30 210
+
+6785 800
 
 ## España
 
@@ -1550,7 +1544,11 @@ Pfizer Croatia d.o.o. Tel: +385 1 3908 777
 
 ## Ireland
 
-Pfizer Healthcare Ireland Unlimited Company Tel: +1800 633 363 (toll free) Tel: +44 (0) 1304 616161
+Pfizer Healthcare Ireland Unlimited Company
+
+Tel: +1800 633 363 (toll free)
+
+Tel: +44 (0) 1304 616161
 
 ## Ísland
 
@@ -1576,9 +1574,9 @@ Tel: + 371 670 35 775
 
 ## Malta
 
-Drugsales Ltd
+Vivian Corporation Ltd.
 
-Tel: +356 21 419 070/1/2
+Tel: + 356 2134 4610
 
 ## Nederland
 
@@ -1620,9 +1618,7 @@ Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s področja farmacevtsk
 
 ## Slovenská republika
 
-Pfizer Luxembourg SARL, organizačná zložka
-
-Tel: +421-2-3355 5500
+Pfizer Luxembourg SARL, organizačná zložka Tel: +421-2-3355 5500
 
 ## Suomi/Finland
 
@@ -1652,8 +1648,8 @@ Learning to give your own injections will mean that you will not have to wait at
 
 You will need to have your injections at about the same time every day. The most suitable places for injection are:
 
--  the front of the thighs,
--  the abdomen, except for the area around the navel.
+- the front of the thighs,
+- the abdomen, except for the area around the navel.
 
 <!-- image -->
 
@@ -1663,9 +1659,9 @@ It is better to change the injection site every day to avoid the risk of sorenes
 
 To give yourself a subcutaneous injection you will need the following items:
 
--  A new pre-filled syringe of Nivestim.
--  A sharps disposal (puncture proof) container for disposing of used syringes safely.
--  Antiseptic wipes (if recommended by your doctor or nurse).
+- A new pre-filled syringe of Nivestim.
+- A sharps disposal (puncture proof) container for disposing of used syringes safely.
+- Antiseptic wipes (if recommended by your doctor or nurse).
 
 ## How do I give my subcutaneous Nivestim injection?
 
@@ -1694,11 +1690,7 @@ Allow the pre-filled syringe to reach room temperature (approximately 25°C). Th
 - 2 Needle Cover
 - 3 Medicine
 - 4 Plunger Rod
-
-<!-- image -->
-
-##  Do not use the Nivestim syringe if:
-
+- Do not use the Nivestim syringe if:
 - o The carton is open or damaged.
 - o The needle guard is missing, detached or has been activated.
 - o The medicine is cloudy or discoloured or the liquid has particles floating in it.
@@ -1706,6 +1698,8 @@ Allow the pre-filled syringe to reach room temperature (approximately 25°C). Th
 - o The pre-filled syringe has been dropped. The pre-filled syringe may be broken even if you cannot see the break.
 - o The needle cover is missing or not securely attached.
 - o The expiration date printed on the label has passed.
+
+<!-- image -->
 
 In all cases above discard the pre-filled syringe and use a new pre-filled syringe.
 
@@ -1715,9 +1709,9 @@ In all cases above discard the pre-filled syringe and use a new pre-filled syrin
 <div style=\"page-break-after: always\"></div>
 
 7. Hold the pre-filled syringe by the body of the needle guard with the needle cover pointing upwards.
-2.  Do not hold by the plunger head, plunger or needle cover.
-3.  Do not pull back on the plunger at any time.
-4.  Do not remove the needle cover from the pre-filled syringe until you are ready to inject your medicine.
+- Do not hold by the plunger head, plunger or needle cover.
+- Do not pull back on the plunger at any time.
+- Do not remove the needle cover from the pre-filled syringe until you are ready to inject your medicine.
 8. Take the needle cover off the syringe by holding the barrel and pulling the needle cover straight off and away from your body carefully without twisting it. Throw away the needle cover. Do not recap the needle. Do not push the plunger, touch the needle or shake the syringe.
 9. The syringe is now ready for use. You may notice a small air bubble in the syringe. You do not have to remove the air bubble before injecting. Injecting the solution with an air bubble present is harmless.
 10. Decide where to inject Nivestim - find a place on the front of your abdomen or the front of your thigh. Choose a different injection site each time. Do not choose an area which is tender, red, bruised or scarred. Clean the area of skin with an antiseptic wipe.
@@ -1727,8 +1721,8 @@ In all cases above discard the pre-filled syringe and use a new pre-filled syrin
 14. After injecting the solution remove the needle from the skin.
 15. Ensure the needle guard covers the needle according to the instructions for active needle guard or passive needle guard below.
 16. Do not try to replace the needle cover. Place the syringe in a sharps disposal (puncture-proof) container.
-14.  Keep used syringes out of the reach and sight of children
-15.  Never put used syringes into your normal household waste bin.
+- Keep used syringes out of the reach and sight of children
+- Never put used syringes into your normal household waste bin.
 
 <!-- image -->
 
@@ -1747,9 +1741,9 @@ The pre-filled syringe has an UltraSafe Active Needle Guard attached in order to
 1. Perform the injection using the technique described above.
 2. When you have completed the injection, slide the needle guard forward until the needle is completely covered (device 'clicks' into place).
 
-Use of UltraSafe Passive Needle Guard for Nivestim 30 MU/0.5 ml solution for injection/infusion and Nivestim 48 MU/0.5 ml solution for injection/infusion
-
 <!-- image -->
+
+Use of UltraSafe Passive Needle Guard for Nivestim 30 MU/0.5 ml solution for injection/infusion and Nivestim 48 MU/0.5 ml solution for injection/infusion
 
 The pre-filled syringe has an UltraSafe Passive Needle Guard attached in order to protect from needle stick injury. When handling the pre-filled syringe, keep hands behind the needle.
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-29 13:42:13
+document_datetime: 2026-03-02 16:28:37
 document_pages: 110
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/retacrit-epar-product-information_en.pdf
 document_name: retacrit-epar-product-information_en.pdf
 version: success
-processing_time: 47.3678891
-conversion_datetime: 2025-12-25 02:43:37.873286
+processing_time: 28.8531446
+conversion_datetime: 2026-03-05 11:53:02.658158
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,18 +24,18 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-- Retacrit 1 000 IU/0.3 mL solution for injection in pre-filled syringe
-- Retacrit 2 000 IU/0.6 mL solution for injection in pre-filled syringe
-- Retacrit 3 000 IU/0.9 mL solution for injection in pre-filled syringe
-- Retacrit 4 000 IU/0.4 mL solution for injection in pre-filled syringe
-- Retacrit 5 000 IU/0.5 mL solution for injection in pre-filled syringe
-- Retacrit 6 000 IU/0.6 mL solution for injection in pre-filled syringe
-- Retacrit 8 000 IU/0.8 mL solution for injection in pre-filled syringe
-- Retacrit 10 000 IU/1 mL solution for injection in pre-filled syringe
-- Retacrit 20 000 IU/0.5 mL solution for injection in pre-filled syringe
-- Retacrit 30 000 IU/0.75 mL solution for injection in pre-filled syringe
-
-Retacrit 40 000 IU/1 mL solution for injection in pre-filled syringe
+| Retacrit 1 000 IU/0.3 mL solution for injection in pre-filled syringe   |
+|-------------------------------------------------------------------------|
+| Retacrit 2 000 IU/0.6 mL solution for injection in pre-filled syringe   |
+| Retacrit 3 000 IU/0.9 mL solution for injection in pre-filled syringe   |
+| Retacrit 4 000 IU/0.4 mL solution for injection in pre-filled syringe   |
+| Retacrit 5 000 IU/0.5 mL solution for injection in pre-filled syringe   |
+| Retacrit 6 000 IU/0.6 mL solution for injection in pre-filled syringe   |
+| Retacrit 8 000 IU/0.8 mL solution for injection in pre-filled syringe   |
+| Retacrit 10 000 IU/1 mL solution for injection in pre-filled syringe    |
+| Retacrit 20 000 IU/0.5 mL solution for injection in pre-filled syringe  |
+| Retacrit 30 000 IU/0.75 mL solution for injection in pre-filled syringe |
+| Retacrit 40 000 IU/1 mL solution for injection in pre-filled syringe    |
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -81,9 +81,13 @@ Retacrit 40 000 IU/1 mL solution for injection in pre-filled syringe
 
 <div style=\"page-break-after: always\"></div>
 
-Retacrit 40 000 IU/1 mL solution for injection in pre-filled syringe 1 pre-filled syringe with 1 mL solution for injection contains 40 000 international units (IU) epoetin zeta* (recombinant human erythropoietin). The solution contains 40 000 IU epoetin zeta per mL.
+## Retacrit 40 000 IU/1 mL solution for injection in pre-filled syringe
 
-Excipient(s) with known effect Retacrit contains 0.5 mg/mL of phenylalanine.
+1 pre-filled syringe with 1 mL solution for injection contains 40 000 international units (IU) epoetin zeta* (recombinant human erythropoietin). The solution contains 40 000 IU epoetin zeta per mL.
+
+Excipient(s) with known effect
+
+Retacrit contains 0.5 mg/mL of phenylalanine.
 
 Retacrit contains 0.1 mg/mL of polysorbate 20 (E432).
 
@@ -110,7 +114,7 @@ Retacrit is indicated in adults in a predonation programme to increase the yield
 
 Retacrit is indicated for non-iron deficient adults prior to major elective orthopaedic surgery having a high perceived risk for transfusion complications to reduce exposure to allogeneic blood transfusions. Use should be restricted to patients with moderate anaemia (e.g. haemoglobin concentration range between 10 to 13 g/dL or 6.2 to 8.1 mmol/L) who do not have an autologous predonation programme available and with expected moderate blood loss (900 to 1 800 mL).
 
-Retacrit is indicated for the treatment of symptomatic anaemia (haemoglobin concentration of ≤ 10 g/dL) in adults with low- or intermediate-1-risk primary myelodysplastic syndromes (MDS) who have low serum erythropoietin (&lt;200 mU/mL).
+Retacrit is indicated for the treatment of symptomatic anaemia (haemoglobin concentration of ≤10 g/dL) in adults with low- or intermediate-1-risk primary myelodysplastic syndromes (MDS) who have low serum erythropoietin (&lt;200 mU/mL).
 
 ## 4.2 Posology and method of administration
 
@@ -120,11 +124,11 @@ Treatment with Retacrit has to be initiated under the supervision of physicians 
 
 ## Posology
 
-All other causes of anaemia (iron, folate or Vitamin B 12 deficiency, aluminium intoxication, infection or inflammation, blood loss, haemolysis and bone marrow fibrosis of any origin) should be evaluated and treated prior to initiating therapy with epoetin zeta, and when deciding to increase the dose. In order to ensure optimum response to epoetin zeta, adequate iron stores should be assured and iron supplementation should be administered if necessary (see section 4.4).
+All other causes of anaemia (iron, folate or Vitamin B12 deficiency, aluminium intoxication, infection or inflammation, blood loss, haemolysis and bone marrow fibrosis of any origin) should be evaluated and treated prior to initiating therapy with epoetin zeta, and when deciding to increase the dose. In order to ensure optimum response to epoetin zeta, adequate iron stores should be assured and iron supplementation should be administered if necessary (see section 4.4).
 
 ## Treatment of symptomatic anaemia in adult chronic renal failure patients
 
-Anaemia symptoms and sequelae may vary with age, gender and co-morbid medical conditions; a physician's evaluation of the individual patient's clinical course and condition is necessary.
+Anaemia symptoms and sequelae may vary with age, gender and co-morbid medical conditions; a physician ' s evaluation of the individual patient ' s clinical course and condition is necessary.
 
 The recommended desired haemoglobin concentration range is between 10 g/dL to 12 g/dL (6.2 to 7.5 mmol/L). Retacrit should be administered in order to increase haemoglobin to not greater than 12 g/dL (7.5 mmol/L). A rise in haemoglobin of greater than 2 g/dL (1.25 mmol/L) over a four week period should be avoided. If it occurs, appropriate dose adjustment should be made as provided.
 
@@ -136,7 +140,7 @@ Patients should be monitored closely to ensure that the lowest approved effectiv
 
 Caution should be exercised with escalation of erythropoiesis-stimulating agent (ESA) doses in patients with chronic renal failure. In patients with a poor haemoglobin response to ESA, alternative explanations for the poor response should be considered (see sections 4.4 and 5.1).
 
-Treatment with Retacrit is divided into two stages - correction and maintenance phase.
+Treatment with Retacrit is divided into two stages -correction and maintenance phase.
 
 ## Adult haemodialysis patients
 
@@ -192,7 +196,7 @@ Appropriate adjustment of the dose should be made in order to maintain haemoglob
 
 Anaemia symptoms and sequelae may vary with age, gender, and overall burden of disease; a physician´s evaluation of the individual patient´s clinical course and condition is necessary.
 
-Retacrit should be administered to patients with anaemia (e.g. haemoglobin concentration ≤ 10 g/dL [6.2 mmol/L]).
+Retacrit should be administered to patients wi th anaemia (e.g. haemoglobin concentration ≤ 10 g/dL [6.2 mmol/L]).
 
 The initial dose is 150 IU/kg subcutaneously, 3 times per week.
 
@@ -204,8 +208,8 @@ Appropriate adjustment of the dose should be made in order to maintain haemoglob
 
 Due to intra-patient variability, occasional individual haemoglobin concentrations for a patient above and below the desired haemoglobin concentration range may be observed. Haemoglobin variability should be addressed through dose management, with consideration for the desired haemoglobin concentration range between 10 g/dL (6.2 mmol/L) to 12 g/dL (7.5 mmol/L). A sustained haemoglobin concentration of greater than 12 g/dL (7.5 mmol/L) should be avoided; guidance for appropriate dose adjustment for when haemoglobin concentrations exceed 12 g/dL (7.5 mmol/L) are described below.
 
-- -If the haemoglobin concentration increase is &lt;1 g/dL (&lt;0.62 mmol/L) and the reticulocyte count has increased &lt;40 000 cells/µl above baseline, increase the dose to 300 IU/kg 3 times per week. If after an additional 4 weeks of therapy at 300 IU/kg 3 times per week, the haemoglobin concentration has increased ≥ 1 g/dL ( ≥ 0.62 mmol/L) or the reticulocyte count has increased ≥ 40 000 cells/µl, the dose should remain at 300 IU/kg 3 times per week.
 - -If the haemoglobin concentration has increased by at least 1 g/dL (0.62 mmol/L) or the reticulocyte count has increased ≥ 40 000 cells/µL above baseline after 4 weeks of treatment, the dose should remain at 150 IU/kg 3 times per week or 450 IU/kg once weekly.
+- -If the haemoglobin concentration increase is &lt;1 g/dL (&lt;0.62 mmol/L) and the reticulocyte count has increased &lt;40 000 cells/µl above baseline, increase the dose to 300 IU/kg 3 times per week. If after an additional 4 weeks of therapy at 300 IU/kg 3 times per week, the haemoglobin concentration has increased ≥ 1 g/dL ( ≥ 0.62 mmol/L) or the reticulocyte count has increased ≥40 000 cells/µl, the dose should remain at 300 IU/kg 3 times per week.
 - -If the haemoglobin concentration has increased &lt;1 g/dL (&lt;0.62 mmol/L) and the reticulocyte count has increased &lt;40 000 cells/µL above baseline, response is unlikely and treatment should be discontinued.
 
 ## Dose adjustment to maintain haemoglobin concentrations between 10 g/dL to 12 g/dL (6.2 to 7.5 mmol/L)
@@ -238,7 +242,7 @@ If the haemoglobin level reaches 15 g/dL (9.38 mmol/L), or higher, during the pr
 
 ## Treatment of adult patients with low- or intermediate-1-risk MDS
 
-Retacrit should be administered to patients with symptomatic anaemia (e.g. haemoglobin concentration ≤ 10 g/dL (6.2 mmol/L)).
+Retacrit should be administered to patients with symptomatic anaemia (e.g. haemoglobin concentration ≤10 g/d L (6.2 mmol/L)).
 
 The recommended starting dose is Retacrit 450 IU/kg (maximum total dose is 40 000 IU) administered subcutaneously once every week, with not less than 5 days between doses.
 
@@ -246,7 +250,7 @@ Appropriate dose adjustments should be made to maintain haemoglobin concentratio
 
 ## Dose increase
 
-Dose should not be increased over the maximum of 1 050 IU/kg (total dose 80 000 IU) per week. If the patient loses response or haemoglobin concentration drops by ≥ 1 g/dL upon dose reduction the dose should be increased by one dosing step. A minimum of 4 weeks should elapse between dose increases.
+Dose should not be increased over the maximum of 1 050 IU/kg (total dose 80 000 IU) per week. If the patient loses response or haemoglobin concentration drops by ≥1 g/d L upon dose reduction the dose should be increased by one dosing step. A minimum of 4 weeks should elapse between dose increases.
 
 ## Dose hold and decrease
 
@@ -268,7 +272,7 @@ In paediatric patients the recommended haemoglobin concentration range is betwee
 
 Patients should be monitored closely to ensure that the lowest approved dose of Retacrit is used to provide adequate control of anaemia and of the symptoms of anaemia.
 
-Treatment with Retacrit is divided into two stages - correction and maintenance phase.
+Treatment with Retacrit is divided into two stages -correction and maintenance phase.
 
 In paediatric patients on haemodialysis where intravenous access is readily available, administration by the intravenous route is preferable.
 
@@ -349,7 +353,7 @@ In paediatric patients with chronic renal failure where intravenous access is ro
 
 Administer over at least one to five minutes, depending on the total dose. In haemodialysed patients, a bolus injection may be given during the dialysis session through a suitable venous port in the dialysis line. Alternatively, the injection can be given at the end of the dialysis session via the fistula needle tubing, followed by 10 mL of isotonic saline to rinse the tubing and ensure satisfactory injection of the product into the circulation (see Posology, Adult haemodialysis patients ).
 
-A slower administration is preferable in patients who react to the treatment with 'flu-like' symptoms (see section 4.8).
+A slower administration is preferable in patients who react to the treatment with 'flu -like' symptoms (see section 4.8).
 
 Do not administer Retacrit by intravenous infusion or in conjunction with other medicinal product solutions (please refer to section 6.6 for further information).
 
@@ -405,7 +409,7 @@ In all patients, haemoglobin levels should be closely monitored due to a potenti
 
 There may be a moderate dose-dependent rise in the platelet count within the normal range during treatment with epoetin zeta. This regresses during the course of continued therapy. In addition, thrombocythaemia above the normal range has been reported. It is recommended that the platelet count is regularly monitored during the first 8 weeks of therapy.
 
-All other causes of anaemia (iron, folate or Vitamin B 12 deficiency, aluminium intoxication, infection or inflammation, blood loss, haemolysis and bone marrow fibrosis of any origin) should be evaluated and treated prior to initiating therapy with epoetin zeta, and when deciding to increase the dose. In most cases, the ferritin values in the serum fall simultaneously with the rise in packed cell volume. In order to ensure optimum response to epoetin zeta, adequate iron stores should be assured and iron supplementation should be administered if necessary (see section 4.2):
+All other causes of anaemia (iron, folate or Vitamin B12 deficiency, aluminium intoxication, infection or inflammation, blood loss, haemolysis and bone marrow fibrosis of any origin) should be evaluated and treated prior to initiating therapy with epoetin zeta, and when deciding to increase the dose. In most cases, the ferritin values in the serum fall simultaneously with the rise in packed cell volume. In order to ensure optimum response to epoetin zeta, adequate iron stores should be assured and iron supplementation should be administered if necessary (see section 4.2):
 
 - -For chronic renal failure patients, iron supplementation (elemental iron 200 to 300 mg/day orally for adults and 100 to 200 mg/day orally for paediatrics) is recommended if serum ferritin levels are below 100 ng/mL.
 - -For cancer patients, iron supplementation (elemental iron 200 to 300 mg/day orally) is recommended if transferrin saturation is below 20%.
@@ -429,13 +433,13 @@ Patients should only be switched from one ESA to another under appropriate super
 
 Antibody-mediated pure red cell aplasia (PRCA) has been reported after months to years of treatment with epoetins. Cases have also been reported in patients with hepatitis C treated with interferon and ribavirin, when ESAs are used concomitantly. Epoetin zeta is not approved in the management of anaemia associated with hepatitis C.
 
-In patients developing sudden lack of efficacy defined by a decrease in haemoglobin (1 to 2 g/dL per month) with increased need for transfusions, a reticulocyte count should be obtained and typical causes of non-response (e.g. iron, folate or Vitamin B 12 deficiency, aluminium intoxication, infection or inflammation, blood loss, haemolysis and bone marrow fibrosis of any origin) should be investigated.
+In patients developing sudden lack of efficacy defined by a decrease in haemoglobin (1 to 2 g/dL per month) with increased need for transfusions, a reticulocyte count should be obtained and typical causes of non-response (e.g. iron, folate or Vitamin B12 deficiency, aluminium intoxication, infection or inflammation, blood loss, haemolysis and bone marrow fibrosis of any origin) should be investigated.
 
 A paradoxical decrease in haemoglobin and development of severe anaemia associated with low reticulocyte counts should prompt to discontinue treatment with epoetin zeta and perform anti-erythropoietin antibody testing. A bone marrow examination should also be considered for diagnosis of PRCA.
 
 No other ESA therapy should be commenced because of the risk of cross-reaction.
 
-## Treatment of symptomatic anaemia in adult and paediatric chronic renal failure patients
+Treatment of symptomatic anaemia in adult and paediatric chronic renal failure patients
 
 Chronic renal failure patients being treated with epoetin zeta should have haemoglobin levels measured on a regular basis until a stable level is achieved, and periodically thereafter.
 
@@ -499,7 +503,7 @@ This medicinal product contains phenylalanine which may be harmful for people wi
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## Polysorbate 20
 
@@ -557,7 +561,7 @@ An increased incidence of thrombotic vascular events (TVEs) has been observed in
 
 ## Tabulated list of adverse reactions
 
-Of a total 3 417 subjects in 25 randomised, double-blinded, placebo or standard of care controlled studies, the overall safety profile of epoetin alfa was evaluated in 2 094 anaemic subjects. Included were 228 epoetin alfa-treated CRF subjects in 4 chronic renal failure studies (2 studies in predialysis [N = 131 exposed CRF subjects] and 2 in dialysis [N = 97 exposed CRF subjects]); 1,404 exposed cancer subjects in 16 studies of anaemia due to chemotherapy; 147 exposed subjects in 2 studies for autologous blood donation; 213 exposed subjects in 1 study in the perisurgical period, and 102 exposed subjects in 2 MDS studies. Adverse drug reactions reported by ≥ 1% of subjects treated with epoetin alfa in these trials are shown in the table below.
+Of a total 3 417 subjects in 25 randomised, double-blinded, placebo or standard of care controlled studies, the overall safety profile of epoetin alfa was evaluated in 2 094 anaemic subjects. Included were 228 epoetin alfa-treated CRF subjects in 4 chronic renal failure studies (2 studies in predialysis [N = 131 exposed CRF subjects] and 2 in dialysis [N = 97 exposed CRF subjects]); 1,404 exposed cancer subjects in 16 studies of anaemia due to chemotherapy; 147 exposed subjects in 2 studies for autologous blood donation; 213 exposed subjects in 1 study in the perisurgical period, and 102 exposed subjects i n 2 MDS studies. Adverse drug reactions reported by ≥1% of subjects treated with epoetin alfa in these trials are shown in the table below.
 
 Frequency estimate: Very common (&gt;1/10); common (&gt;1/100 to &lt;1/10); uncommon (&gt;1/1 000 to &lt;1/100); rare (&gt;1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000), not known (cannot be estimated from the available data).
 
@@ -653,7 +657,7 @@ In a study comparing the 150 IU/kg, 3 times-per-week and 40 000 IU, once-weekly 
 
 ## Adult surgery patients in an autologous predonation programme
 
-Epoetin alfa has been shown to stimulate red blood cell production in order to augment autologous blood collection, and to limit the decline in haemoglobin in adult patients scheduled for major elective surgery who are not expected to predeposit their complete perioperative blood needs. The greatest effects are observed in patients with low haemoglobin ( ≤ 13 g/dL; 8.1 mmol/L).
+Epoetin alfa has been shown to stimulate red blood cell production in order to augment autologous blood collection, and to limit the decline in haemoglobin in adult patients scheduled for major elective surgery who are not expected to predeposit their complete perioperative blood needs. The greatest effects are observed in patients with low haemoglobin ( ≤ 13 g/dL ; 8.1 mmol/L).
 
 ## Treatment of adult patients scheduled for major elective orthopaedic surgery
 
@@ -689,7 +693,7 @@ Pooled post-hoc analyses of clinical studies of ESAs have been performed in chro
 
 Epoetin alfa has been studied in clinical trials in adult anaemic cancer patients with lymphoid and solid tumours, and patients on various chemotherapy regimens, including platinum and non-platinum-containing regimens. In these trials, epoetin alfa administered 3 times per week and once weekly has been shown to increase haemoglobin and decrease transfusion requirements after the first month of therapy in anaemic cancer patients. In some studies, the double-blind phase was followed by an open-label phase during which all patients received epoetin alfa and a maintenance of effect was observed.
 
-Available evidence suggests patients with haematological malignancies and solid tumours respond equivalently to epoetin alfa therapy, and that patients with or without tumour infiltration of the bone marrow respond equivalently to epoetin alfa therapy. Comparable intensity of chemotherapy in the epoetin alfa and placebo groups in the chemotherapy trials was demonstrated by a similar area under the neutrophil time curve in patients treated with epoetin alfa and placebo-treated patients, as well as by a similar proportion of patients in groups treated with epoetin alfa and placebo-treated groups whose absolute neutrophil counts fell below 1 000 and 500 cells/ μ L.
+Available evidence suggests patients with haematological malignancies and solid tumours respond equivalently to epoetin alfa therapy, and that patients with or without tumour infiltration of the bone marrow respond equivalently to epoetin alfa therapy. Comparable intensity of chemotherapy in the epoetin alfa and placebo groups in the chemotherapy trials was demonstrated by a similar area under the neutrophil time curve in patients treated with epoetin alfa and placebo-treated patients, as well as by a similar proportion of patients in groups treated with epoetin alfa and placebo-treated groups whose absolute neutrophil counts fell below 1 000 and 500 cells/μL.
 
 In a prospective, randomised, double-blind, placebo-controlled trial conducted in 375 anaemic patients with various non-myeloid malignancies receiving non-platinum chemotherapy, there was a significant reduction of anaemia-related sequelae (e.g. fatigue, decreased energy, and activity reduction), as measured by the following instruments and scales: Functional Assessment of Cancer TherapyAnaemia (FACT-An) general scale, FACT-An fatigue scale, and Cancer Linear Analogue Scale (CLAS). Two other smaller, randomised, placebo-controlled trials failed to show a significant improvement in quality of life parameters on the EORTC-QLQ-C30 scale or CLAS, respectively.
 
@@ -703,7 +707,7 @@ A randomised, open-label, multicentre study was conducted in 2 098 anaemic women
 
 ## Autologous predonation programme
 
-The effect of epoetin alfa in facilitating autologous blood donation in patients with low haematocrits ( ≤ 39% and no underlying anaemia due to iron deficiency) scheduled for major orthopaedic surgery was evaluated in a double-blind, placebo-controlled study conducted in 204 patients, and a single-blind placebo controlled study in 55 patients.
+The effect of epoetin alfa in facilitating autologous blood donation in patients with low haematocrits (≤ 39% and no underlying anaemia due to iron deficiency) scheduled for major orthopaedic surgery was evaluated in a double-blind, placebo-controlled study conducted in 204 patients, and a single-blind placebo controlled study in 55 patients.
 
 In the double-blind study, patients were treated with epoetin alfa 600 IU/kg or placebo intravenously once daily every 3 to 4 days over 3 weeks (total 6 doses). On average, patients treated with epoetin alfa were able to predeposit significantly more units of blood (4.5 units) than placebo-treated patients (3.0 units).
 
@@ -713,11 +717,11 @@ Epoetin alfa therapy reduced the risk of exposure to allogeneic blood by 50% com
 
 ## Major elective orthopaedic surgery
 
-The effect of epoetin alfa (300 IU/kg or 100 IU/kg) on the exposure to allogeneic blood transfusion has been evaluated in a placebo-controlled, double-blind clinical trial in non-iron deficient adult patients scheduled for major elective orthopaedic hip or knee surgery. Epoetin alfa was administered subcutaneously for 10 days prior to surgery, on the day of surgery, and for four days after surgery. Patients were stratified according to their baseline haemoglobin ( ≤ 10 g/dL, &gt;10 to ≤ 13 g/dL and &gt;13 g/dL).
+The effect of epoetin alfa (300 IU/kg or 100 IU/kg) on the exposure to allogeneic blood transfusion has been evaluated in a placebo-controlled, double-blind clinical trial in non-iron deficient adult patients scheduled for major elective orthopaedic hip or knee surgery. Epoetin alfa was administered subcutaneously for 10 days prior to surgery, on the day of surgery, and for four days after surgery. Patients were stratified according to their baseline haemoglobin (≤ 10 g/dL, &gt;10 to ≤ 13 g/dL and &gt;13 g/dL).
 
 <div style=\"page-break-after: always\"></div>
 
-Epoetin alfa 300 IU/kg significantly reduced the risk of allogeneic transfusion in patients with a pretreatment haemoglobin of &gt;10 to ≤ 13 g/dL. Sixteen percent of epoetin alfa 300 IU/kg, 23% of epoetin alfa 100 IU/kg and 45% of placebo-treated patients required transfusion.
+Epoetin alfa 300 IU/kg significantly reduced the risk of allogeneic transfusion in patients with a pretreatment haemoglobin of &gt;10 to ≤13 g/dL. Sixteen percent of epoetin alfa 300 IU/kg, 23% of epoetin alfa 100 IU/kg and 45% of placebo-treated patients required transfusion.
 
 An open-label, parallel-group trial in non-iron deficient adult subjects with a pretreatment haemoglobin of ≥ 10 to ≤ 13 g/dL who were scheduled for major orthopaedic hip or knee surgery compared epoetin alfa 300 IU/kg subcutaneously daily for 10 days prior to surgery, on the day of surgery and for four days after surgery to epoetin alfa 600 IU/kg subcutaneously once weekly for 3 weeks prior to surgery and on the day of surgery.
 
@@ -746,16 +750,12 @@ Subjects were stratified by serum erythropoietin (sEPO) level and prior transfus
 | Prior Transfusions                                                       |                                                                          |                                                                          |
 | N                                                                        | 71                                                                       | 39                                                                       |
 | Yes                                                                      | 31 (43.7%)                                                               | 17 (43.6%)                                                               |
-| ≤ 2 RBC Units                                                            | 16 (51.6%)                                                               | 9 (52.9%)                                                                |
-| ˃ 2 and ≤ 4 RBC Units                                                    | 14 (45.2%)                                                               | 8 (47.1%)                                                                |
-| ˃ 4 RBC Units                                                            | 1 (3.2%)                                                                 | 0                                                                        |
+| ≤2 RBC Units                                                             | 16 (51.6%)                                                               | 9 (52.9%)                                                                |
+| ˃2 and ≤4 RBC Units                                                      | 14 (45.2%)                                                               | 8 (47.1%)                                                                |
+| ˃4 RBC Units                                                             | 1 (3.2%)                                                                 | 0                                                                        |
 | No                                                                       | 40 (56.3%)                                                               | 22 (56.4%)                                                               |
 
-a one subject did not have sEPO data
-
-b in the ≥ 200 mU/mL stratum there were 13 subjects in the epoetin alfa group and 6 subjects in the placebo group
-
-Erythroid response was defined according to International Working Group (IWG) 2006 criteria as a haemoglobin increase ≥ 1.5 g/dl from baseline or a reduction of RBC units transfused by an absolute number of at least 4 units every 8 weeks compared to the 8 weeks prior to baseline, and a response duration of at least 8 weeks.
+Erythroid response was defined according to International Working Group (IWG) 2006 criteria as a haemoglobin increase ≥1.5 g/d l from baseline or a reduction of RBC units transfused by an absolute number of at least 4 units every 8 weeks compared to the 8 weeks prior to baseline, and a response duration of at least 8 weeks.
 
 Erythroid response during the first 24 weeks of the study was demonstrated by 27/85 (31.8%) of the subjects in the epoetin alfa group compared to 2/45 (4.4%) of the subjects in the placebo group (p&lt;0.001). All of the responding subjects were in the stratum with sEPO &lt;200 mU/mL during screening. In that stratum, 20/40 (50%) subjects without prior transfusions demonstrated erythroid
 
@@ -879,7 +879,11 @@ Each pack contains 1 or 6 pre-filled syringes.
 
 ## Retacrit 2 000 IU/0.6 mL solution for injection in pre-filled syringe
 
-Pre-filled syringe Type I glass with a fixed steel injection needle and a plunger stopper with PTFE coating with or without a needle guard or needle-trap device. Each pre-filled syringe contains 0.6 mL solution. Each pack contains 1 or 6 pre-filled syringes.
+Pre-filled syringe Type I glass with a fixed steel injection needle and a plunger stopper with PTFE coating with or without a needle guard or needle-trap device.
+
+Each pre-filled syringe contains 0.6 mL solution.
+
+Each pack contains 1 or 6 pre-filled syringes.
 
 ## Retacrit 3 000 IU/0.9 mL solution for injection in pre-filled syringe
 
@@ -891,9 +895,7 @@ Each pack contains 1 or 6 pre-filled syringes.
 
 ## Retacrit 4 000 IU/0.4 mL solution for injection in pre-filled syringe
 
-Pre-filled syringe Type I glass with a fixed steel injection needle and a plunger stopper with PTFE
-
-coating with or without a needle guard or needle-trap device.
+Pre-filled syringe Type I glass with a fixed steel injection needle and a plunger stopper with PTFE coating with or without a needle guard or needle-trap device.
 
 Each pre-filled syringe contains 0.4 mL solution.
 
@@ -969,11 +971,11 @@ Not all pack sizes may be marketed.
 
 Retacrit should not be used and discarded
 
-- if the liquid is coloured or you can see particles floating in it,
 - if the seal is broken,
+- if the liquid is coloured or you can see particles floating in it,
 - if any liquid has leaked out of the pre-filled syringe or condensation is visible within the sealed blister,
-- if there has been a refrigerator failure.
 - if you know, or think that it may have been accidentally frozen, or
+- if there has been a refrigerator failure.
 
 The product is for single use only. Only take one dose of Retacrit from each syringe.
 
@@ -989,34 +991,9 @@ Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-| Retacrit 1 000 IU/0.3 mL solution for injection in pre-filled syringe EU/1/07/431/001 1 pre-filled syringe EU/1/07/431/002 6 pre-filled syringes                                                        |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| EU/1/07/431/026 1 pre-filled syringe with needle guard EU/1/07/431/027 6 pre-filled syringes with needle guard                                                                                          |
-| Retacrit 4 000 IU/0.4 mL solution for injection in pre-filled syringe EU/1/07/431/007 1 pre-filled syringe EU/1/07/431/008 6 pre-filled syringes EU/1/07/431/032 1 pre-filled syringe with needle guard |
-| EU/1/07/431/054 1 pre-filled syringe with needle-trap                                                                                                                                                   |
-| EU/1/07/431/055 6 pre-filled syringes with needle-trap                                                                                                                                                  |
-| Retacrit 2 000 IU/0.6 mL solution for injection in pre-filled syringe EU/1/07/431/003 1 pre-filled syringe EU/1/07/431/004 6 pre-filled syringes EU/1/07/431/028 1 pre-filled syringe with needle guard |
-| EU/1/07/431/029 6 pre-filled syringes with needle guard                                                                                                                                                 |
-| EU/1/07/431/056 1 pre-filled syringe with needle-trap                                                                                                                                                   |
-| EU/1/07/431/057 6 pre-filled syringes with needle-trap                                                                                                                                                  |
-| Retacrit 3 000 IU/0.9 mL solution for injection in pre-filled syringe EU/1/07/431/005 1 pre-filled syringe EU/1/07/431/006 6 pre-filled syringes                                                        |
-| EU/1/07/431/030 1 pre-filled syringe with needle guard EU/1/07/431/031 6 pre-filled syringes with needle guard EU/1/07/431/058 1 pre-filled syringe with needle-trap                                    |
-| EU/1/07/431/059 6 pre-filled syringes with needle-trap                                                                                                                                                  |
-| EU/1/07/431/033 6 pre-filled syringes with needle guard                                                                                                                                                 |
-| EU/1/07/431/060 1 pre-filled syringe with needle-trap                                                                                                                                                   |
-| EU/1/07/431/061 6 pre-filled syringes with needle-trap                                                                                                                                                  |
-| Retacrit 5 000 IU/0.5 mL solution for injection in pre-filled syringe EU/1/07/431/009 1 pre-filled syringe                                                                                              |
-| EU/1/07/431/010 6 pre-filled syringes EU/1/07/431/034 1 pre-filled syringe with needle                                                                                                                  |
-| EU/1/07/431/035 6 pre-filled syringes with needle                                                                                                                                                       |
-| guard guard EU/1/07/431/062 1 pre-filled syringe with needle-trap                                                                                                                                       |
-| EU/1/07/431/063 6 pre-filled syringes with                                                                                                                                                              |
-| needle-trap                                                                                                                                                                                             |
-| Retacrit 6 000 IU/0.6 mL solution for injection in                                                                                                                                                      |
-| EU/1/07/431/011 1 pre-filled syringe                                                                                                                                                                    |
-| EU/1/07/431/012 6 pre-filled syringes                                                                                                                                                                   |
-| EU/1/07/431/036 1 pre-filled syringe with needle guard                                                                                                                                                  |
-| pre-filled                                                                                                                                                                                              |
-| syringe                                                                                                                                                                                                 |
+```
+Retacrit 1 000 IU/0.3 mL solution for injection in pre-filled syringe EU/1/07/431/001 1 pre-filled syringe EU/1/07/431/002 6 pre-filled syringes EU/1/07/431/026 1 pre-filled syringe with needle guard EU/1/07/431/027 6 pre-filled syringes with needle guard EU/1/07/431/054 1 pre-filled syringe with needle-trap EU/1/07/431/055 6 pre-filled syringes with needle-trap Retacrit 2 000 IU/0.6 mL solution for injection in pre-filled syringe EU/1/07/431/003 1 pre-filled syringe EU/1/07/431/004 6 pre-filled syringes EU/1/07/431/028 1 pre-filled syringe with needle guard EU/1/07/431/029 6 pre-filled syringes with needle guard EU/1/07/431/056 1 pre-filled syringe with needle-trap EU/1/07/431/057 6 pre-filled syringes with needle-trap Retacrit 3 000 IU/0.9 mL solution for injection in pre-filled syringe EU/1/07/431/005 1 pre-filled syringe EU/1/07/431/006 6 pre-filled syringes EU/1/07/431/030 1 pre-filled syringe with needle guard EU/1/07/431/031 6 pre-filled syringes with needle guard EU/1/07/431/058 1 pre-filled syringe with needle-trap EU/1/07/431/059 6 pre-filled syringes with needle-trap Retacrit 4 000 IU/0.4 mL solution for injection in pre-filled syringe EU/1/07/431/007 1 pre-filled syringe EU/1/07/431/008 6 pre-filled syringes EU/1/07/431/032 1 pre-filled syringe with needle guard EU/1/07/431/033 6 pre-filled syringes with needle guard EU/1/07/431/060 1 pre-filled syringe with needle-trap EU/1/07/431/061 6 pre-filled syringes with needle-trap Retacrit 5 000 IU/0.5 mL solution for injection in pre-filled syringe EU/1/07/431/009 1 pre-filled syringe EU/1/07/431/010 6 pre-filled syringes EU/1/07/431/034 1 pre-filled syringe with needle guard EU/1/07/431/035 6 pre-filled syringes with needle guard EU/1/07/431/062 1 pre-filled syringe with needle-trap EU/1/07/431/063 6 pre-filled syringes with needle-trap Retacrit 6 000 IU/0.6 mL solution for injection in pre-filled syringe EU/1/07/431/011 1 pre-filled syringe EU/1/07/431/012 6 pre-filled syringes EU/1/07/431/036 1 pre-filled syringe with needle guard EU/1/07/431/037 6 pre-filled syringes with needle guard
+```
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1057,7 +1034,7 @@ Name and address of the manufacturers responsible for batch release
 
 STADA Arzneimittel AG Stadastrasse 2-18 D-61118 Bad Vilbel Germany
 
-Hospira Zagreb d.o.o. Prudni č ka cesta 60 10291 Prigorje Brdove č ko Croatia
+Hospira Zagreb d.o.o. Prudnička cesta 60 10291 Prigorje Brdovečko Croatia
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -1079,8 +1056,8 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 - At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1120,17 +1097,12 @@ Contains phenylalanine, see leaflet for further information.
 
 Solution for injection in a pre-filled syringe.
 
-1 pre-filled syringe without needle guard containing 0.3 mL solution for injection
-
-6 pre-filled syringes without needle guard containing 0.3 mL solution for injection
-
-1 pre-filled syringe with needle guard containing 0.3 mL solution for injection
-
-6 pre-filled syringes with needle guard containing 0.3 mL solution for injection
-
-1 pre-filled syringe with needle-trap containing 0.3 mL solution for injection
-
-6 pre-filled syringes with needle-trap containing 0.3 mL solution for injection
+- 1 pre-filled syringe without needle guard containing 0.3 mL solution for injection
+- 6 pre-filled syringes without needle guard containing 0.3 mL solution for injection
+- 1 pre-filled syringe with needle guard containing 0.3 mL solution for injection
+- 6 pre-filled syringes with needle guard containing 0.3 mL solution for injection
+- 1 pre-filled syringe with needle-trap containing 0.3 mL solution for injection
+- 6 pre-filled syringes with needle-trap containing 0.3 mL solution for injection
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1146,8 +1118,6 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. EXPIRY DATE
 
 EXP
@@ -1160,7 +1130,7 @@ Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1184,7 +1154,7 @@ EU/1/07/431/055
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1198,6 +1168,8 @@ Retacrit 1 000 IU
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
 
@@ -1205,17 +1177,16 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| SYRINGE LABELS                                                     |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| SYRINGE LABELS                                                   |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Retacrit 1 000 IU injection epoetin zeta IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1227,8 +1198,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME ORBYUNIT   |
-|------|------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 1 000 IU/0.3 mL
 
@@ -1259,17 +1230,12 @@ Contains phenylalanine, see leaflet for further information.
 
 Solution for injection in a pre-filled syringe.
 
-1 pre-filled syringe without needle guard containing 0.6 mL solution for injection
-
-6 pre-filled syringes without needle guard containing 0.6 mL solution for injection
-
-1 pre-filled syringe with needle guard containing 0.6 mL solution for injection
-
-6 pre-filled syringes with needle guard containing 0.6 mL solution for injection
-
-1 pre-filled syringe with needle-trap containing 0.6 mL solution for injection
-
-6 pre-filled syringes with needle-trap containing 0.6 mL solution for injection
+- 1 pre-filled syringe without needle guard containing 0.6 mL solution for injection
+- 6 pre-filled syringes without needle guard containing 0.6 mL solution for injection
+- 1 pre-filled syringe with needle guard containing 0.6 mL solution for injection
+- 6 pre-filled syringes with needle guard containing 0.6 mL solution for injection
+- 1 pre-filled syringe with needle-trap containing 0.6 mL solution for injection
+- 6 pre-filled syringes with needle-trap containing 0.6 mL solution for injection
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1285,8 +1251,6 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. EXPIRY DATE
 
 EXP
@@ -1299,7 +1263,7 @@ Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1323,7 +1287,8 @@ EU/1/07/431/057
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1336,6 +1301,8 @@ Retacrit 2 000 IU
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
 
@@ -1343,17 +1310,17 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| SYRINGE LABELS                                                     |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| SYRINGE LABELS                                                   |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Retacrit 2 000 IU injection epoetin zeta IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1365,8 +1332,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME ORBYUNIT   |
-|------|------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 2 000 IU/0.6 mL
 
@@ -1397,17 +1364,12 @@ Contains phenylalanine, see leaflet for further information.
 
 Solution for injection in a pre-filled syringe.
 
-1 pre-filled syringe without needle guard containing 0.9 mL solution for injection
-
-6 pre-filled syringes without needle guard containing 0.9 mL solution for injection
-
-1 pre-filled syringe with needle guard containing 0.9 mL solution for injection
-
-6 pre-filled syringes with needle guard containing 0.9 mL solution for injection
-
-1 pre-filled syringe with needle-trap containing 0.9 mL solution for injection
-
-6 pre-filled syringes with needle-trap containing 0.9 mL solution for injection
+- 1 pre-filled syringe without needle guard containing 0.9 mL solution for injection
+- 6 pre-filled syringes without needle guard containing 0.9 mL solution for injection
+- 1 pre-filled syringe with needle guard containing 0.9 mL solution for injection
+- 6 pre-filled syringes with needle guard containing 0.9 mL solution for injection
+- 1 pre-filled syringe with needle-trap containing 0.9 mL solution for injection
+- 6 pre-filled syringes with needle-trap containing 0.9 mL solution for injection
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1423,8 +1385,6 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. EXPIRY DATE
 
 EXP
@@ -1437,7 +1397,7 @@ Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1475,6 +1435,8 @@ Retacrit 3 000 IU
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
 
@@ -1482,17 +1444,16 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| SYRINGE LABELS                                                     |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| SYRINGE LABELS                                                   |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Retacrit 3 000 IU injection epoetin zeta IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1504,8 +1465,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME ORBYUNIT   |
-|------|------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 3 000 IU/0.9 mL
 
@@ -1536,17 +1497,12 @@ Contains phenylalanine, see leaflet for further information.
 
 Solution for injection in a pre-filled syringe.
 
-1 pre-filled syringe without needle guard containing 0.4 mL solution for injection
-
-6 pre-filled syringes without needle guard containing 0.4 mL solution for injection
-
-1 pre-filled syringe with needle guard containing 0.4 mL solution for injection
-
-6 pre-filled syringes with needle guard containing 0.4 mL solution for injection
-
-1 pre-filled syringe with needle-trap containing 0.4 mL solution for injection
-
-6 pre-filled syringes with needle-trap containing 0.4 mL solution for injection
+- 1 pre-filled syringe without needle guard containing 0.4 mL solution for injection
+- 6 pre-filled syringes without needle guard containing 0.4 mL solution for injection
+- 1 pre-filled syringe with needle guard containing 0.4 mL solution for injection
+- 6 pre-filled syringes with needle guard containing 0.4 mL solution for injection
+- 1 pre-filled syringe with needle-trap containing 0.4 mL solution for injection
+- 6 pre-filled syringes with needle-trap containing 0.4 mL solution for injection
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1562,8 +1518,6 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. EXPIRY DATE
 
 EXP
@@ -1576,7 +1530,7 @@ Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1614,6 +1568,8 @@ Retacrit 4 000 IU
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
 
@@ -1621,17 +1577,18 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| SYRINGE LABELS                                                     |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| SYRINGE LABELS                                                   |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Retacrit 4 000 IU injection epoetin zeta IV/SC
+Retacrit 4 000 IU injection epoetin zeta
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+IV/SC
+
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1643,8 +1600,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME ORBYUNIT   |
-|------|------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 4 000 IU/0.4 mL
 
@@ -1675,17 +1632,12 @@ Contains phenylalanine, see leaflet for further information.
 
 Solution for injection in a pre-filled syringe.
 
-1 pre-filled syringe without needle guard containing 0.5 mL solution for injection
-
-6 pre-filled syringes without needle guard containing 0.5 mL solution for injection
-
-1 pre-filled syringe with needle guard containing 0.5 mL solution for injection
-
-6 pre-filled syringes with needle guard containing 0.5 mL solution for injection
-
-1 pre-filled syringe with needle-trap containing 0.5 mL solution for injection
-
-6 pre-filled syringes with needle-trap containing 0.5 mL solution for injection
+- 1 pre-filled syringe without needle guard containing 0.5 mL solution for injection
+- 6 pre-filled syringes without needle guard containing 0.5 mL solution for injection
+- 1 pre-filled syringe with needle guard containing 0.5 mL solution for injection
+- 6 pre-filled syringes with needle guard containing 0.5 mL solution for injection
+- 1 pre-filled syringe with needle-trap containing 0.5 mL solution for injection
+- 6 pre-filled syringes with needle-trap containing 0.5 mL solution for injection
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1717,13 +1669,7 @@ Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Pfizer Europe MA EEIG
-
-Boulevard de la Plaine 17
-
-1050 Bruxelles
-
-Belgium
+Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1751,7 +1697,7 @@ Lot
 
 Retacrit 5 000 IU
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1764,17 +1710,18 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| SYRINGE LABELS                                                     |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| SYRINGE LABELS                                                   |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Retacrit 5 000 IU injection epoetin zeta IV/SC
+Retacrit 5 000 IU injection epoetin zeta
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+IV/SC
+
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1786,8 +1733,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME ORBYUNIT   |
-|------|------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 5 000 IU/0.5 mL
 
@@ -1818,17 +1765,12 @@ Contains phenylalanine, see leaflet for further information.
 
 Solution for injection in a pre-filled syringe.
 
-1 pre-filled syringe without needle guard containing 0.6 mL solution for injection
-
-6 pre-filled syringes without needle guard containing 0.6 mL solution for injection
-
-1 pre-filled syringe with needle guard containing 0.6 mL solution for injection
-
-6 pre-filled syringes with needle guard containing 0.6 mL solution for injection
-
-1 pre-filled syringe with needle-trap containing 0.6 mL solution for injection
-
-6 pre-filled syringes with needle-trap containing 0.6 mL solution for injection
+- 1 pre-filled syringe without needle guard containing 0.6 mL solution for injection
+- 6 pre-filled syringes without needle guard containing 0.6 mL solution for injection
+- 1 pre-filled syringe with needle guard containing 0.6 mL solution for injection
+- 6 pre-filled syringes with needle guard containing 0.6 mL solution for injection
+- 1 pre-filled syringe with needle-trap containing 0.6 mL solution for injection
+- 6 pre-filled syringes with needle-trap containing 0.6 mL solution for injection
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1844,8 +1786,6 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. EXPIRY DATE
 
 EXP
@@ -1860,13 +1800,7 @@ Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Pfizer Europe MA EEIG
-
-Boulevard de la Plaine 17
-
-1050 Bruxelles
-
-Belgium
+Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1900,6 +1834,8 @@ Retacrit 6 000 IU
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
 
@@ -1907,17 +1843,16 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| SYRINGE LABELS                                                     |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| SYRINGE LABELS                                                   |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Retacrit 6 000 IU injection epoetin zeta IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1929,8 +1864,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME ORBYUNIT   |
-|------|------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 6 000 IU/0.6 mL
 
@@ -1961,17 +1896,12 @@ Contains phenylalanine, see leaflet for further information.
 
 Solution for injection in a pre-filled syringe.
 
-1 pre-filled syringe without needle guard containing 0.8 mL solution for injection
-
-6 pre-filled syringes without needle guard containing 0.8 mL solution for injection
-
-1 pre-filled syringe with needle guard containing 0.8 mL solution for injection
-
-6 pre-filled syringes with needle guard containing 0.8 mL solution for injection
-
-1 pre-filled syringe with needle-trap containing 0.8 mL solution for injection
-
-6 pre-filled syringes with needle-trap containing 0.8 mL solution for injection
+- 1 pre-filled syringe without needle guard containing 0.8 mL solution for injection
+- 6 pre-filled syringes without needle guard containing 0.8 mL solution for injection
+- 1 pre-filled syringe with needle guard containing 0.8 mL solution for injection
+- 6 pre-filled syringes with needle guard containing 0.8 mL solution for injection
+- 1 pre-filled syringe with needle-trap containing 0.8 mL solution for injection
+- 6 pre-filled syringes with needle-trap containing 0.8 mL solution for injection
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1987,8 +1917,6 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. EXPIRY DATE
 
 EXP
@@ -2003,13 +1931,7 @@ Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Pfizer Europe MA EEIG
-
-Boulevard de la Plaine 17
-
-1050 Bruxelles
-
-Belgium
+Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2043,6 +1965,8 @@ Retacrit 8 000 IU
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
 
@@ -2050,17 +1974,16 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| SYRINGE LABELS                                                     |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| SYRINGE LABELS                                                   |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Retacrit 8 000 IU injection epoetin zeta IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2072,8 +1995,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME ORBYUNIT   |
-|------|------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 8 000 IU/0.8 mL
 
@@ -2104,17 +2027,12 @@ Contains phenylalanine, see leaflet for further information.
 
 Solution for injection in a pre-filled syringe.
 
-1 pre-filled syringe without needle guard containing 1 mL solution for injection
-
-6 pre-filled syringes without needle guard containing 1 mL solution for injection
-
-1 pre-filled syringe with needle guard containing 1 mL solution for injection
-
-6 pre-filled syringes with needle guard containing 1 mL solution for injection
-
-1 pre-filled syringe with needle-trap containing 1 mL solution for injection
-
-6 pre-filled syringes with needle-trap containing 1 mL solution for injection
+- 1 pre-filled syringe without needle guard containing 1 mL solution for injection
+- 6 pre-filled syringes without needle guard containing 1 mL solution for injection
+- 1 pre-filled syringe with needle guard containing 1 mL solution for injection
+- 6 pre-filled syringes with needle guard containing 1 mL solution for injection
+- 1 pre-filled syringe with needle-trap containing 1 mL solution for injection
+- 6 pre-filled syringes with needle-trap containing 1 mL solution for injection
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -2146,13 +2064,7 @@ Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Pfizer Europe MA EEIG
-
-Boulevard de la Plaine 17
-
-1050 Bruxelles
-
-Belgium
+Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2180,7 +2092,7 @@ Lot
 
 Retacrit 10 000 IU
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2193,17 +2105,16 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| SYRINGE LABELS                                                     |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| SYRINGE LABELS                                                   |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Retacrit 10 000 IU injection epoetin zeta IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2215,8 +2126,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME ORBYUNIT   |
-|------|------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 10 000 IU/1 mL
 
@@ -2247,31 +2158,19 @@ Contains phenylalanine, see leaflet for further information.
 
 Solution for injection in a pre-filled syringe.
 
-1 pre-filled syringe without needle guard containing 0.5 mL solution for injection
-
+- 1 pre-filled syringe without needle guard containing 0.5 mL solution for injection
 - 4 pre-filled syringes without needle guard containing 0.5 mL solution for injection
-
-6 pre-filled syringes without needle guard containing 0.5 mL solution for injection
-
-1 pre-filled syringe with needle guard containing 0.5 mL solution for injection
-
-4 pre-filled syringes with needle guard containing 0.5 mL solution for injection
-
-6 pre-filled syringes with needle guard containing 0.5 mL solution for injection
-
-1 pre-filled syringe with needle-trap containing 0.5 mL solution for injection
-
-4 pre-filled syringes with needle-trap containing 0.5 mL solution for injection
-
-6 pre-filled syringes with needle-trap containing 0.5 mLsolution for injection
+- 6 pre-filled syringes without needle guard containing 0.5 mL solution for injection
+- 1 pre-filled syringe with needle guard containing 0.5 mL solution for injection
+- 4 pre-filled syringes with needle guard containing 0.5 mL solution for injection
+- 6 pre-filled syringes with needle guard containing 0.5 mL solution for injection
+- 1 pre-filled syringe with needle-trap containing 0.5 mL solution for injection
+- 4 pre-filled syringes with needle-trap containing 0.5 mL solution for injection
+- 6 pre-filled syringes with needle-trap containing 0.5 mLsolution for injection
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For intravenous or subcutaneous use.
-
-Read the package leaflet before use.
-
-Do not shake.
+For intravenous or subcutaneous use. Read the package leaflet before use. Do not shake.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN
 
@@ -2291,7 +2190,7 @@ Store in a refrigerator (2°C - 8°C). Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2379,23 +2278,19 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
+## 9. SPECIAL STORAGE CONDITIONS
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+Store in a refrigerator (2°C - 8°C). Do not freeze.
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
+Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|----------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/07/431/051
 
@@ -2403,26 +2298,25 @@ EU/1/07/431/051
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 Retacrit 20 000 IU
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2466,67 +2360,59 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
+## 9. SPECIAL STORAGE CONDITIONS
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-Store in a refrigerator (2°C - 8°C). Do not freeze.
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-Keep the pre-filled syringe in the outer carton in order to protect from light.
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
-
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|----------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/07/431/051
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Retacrit 20 000 IU
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| SYRINGE LABELS                                                     |
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| SYRINGE LABELS                                                   |
 
-Retacrit 20 000 IU injection epoetin zeta IV/SC
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+Retacrit 20 000 IU injection epoetin zeta
+
+IV/SC
+
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2538,8 +2424,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME ORBYUNIT   |
-|------|------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 20 000 IU/0.5 mL
 
@@ -2570,31 +2456,19 @@ Contains phenylalanine, see leaflet for further information.
 
 Solution for injection in a pre-filled syringe.
 
-1 pre-filled syringe without needle guard containing 0.75 mL solution for injection
-
+- 1 pre-filled syringe without needle guard containing 0.75 mL solution for injection
 - 4 pre-filled syringes without needle guard containing 0.75 mL solution for injection
-
-6 pre-filled syringes without needle guard containing 0.75 mL solution for injection
-
-1 pre-filled syringe with needle guard containing 0.75 mL solution for injection
-
-4 pre-filled syringes with needle guard containing 0.75 mL solution for injection
-
-6 pre-filled syringes with needle guard containing 0.75 mL solution for injection
-
-1 pre-filled syringe with needle-trap containing 0.75 mL solution for injection
-
-4 pre-filled syringes with needle-trap containing 0.75 mL solution for injection
-
-6 pre-filled syringes with needle-trap containing 0.75 mL solution for injection
+- 6 pre-filled syringes without needle guard containing 0.75 mL solution for injection
+- 1 pre-filled syringe with needle guard containing 0.75 mL solution for injection
+- 4 pre-filled syringes with needle guard containing 0.75 mL solution for injection
+- 6 pre-filled syringes with needle guard containing 0.75 mL solution for injection
+- 1 pre-filled syringe with needle-trap containing 0.75 mL solution for injection
+- 4 pre-filled syringes with needle-trap containing 0.75 mL solution for injection
+- 6 pre-filled syringes with needle-trap containing 0.75 mL solution for injection
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For intravenous or subcutaneous use.
-
-Read the package leaflet before use.
-
-Do not shake.
+For intravenous or subcutaneous use. Read the package leaflet before use. Do not shake.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN
 
@@ -2610,9 +2484,11 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C). Do not freeze.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+Keep the pre-filled syringe in the outer carton in order to protect from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2688,11 +2564,7 @@ Contains phenylalanine, see leaflet for further information.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For intravenous or subcutaneous use.
-
-Read the package leaflet before use.
-
-Do not shake.
+For intravenous or subcutaneous use. Read the package leaflet before use. Do not shake.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN
 
@@ -2704,25 +2576,17 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
+## 9. SPECIAL STORAGE CONDITIONS
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-Store in a refrigerator (2°C - 8°C). Do not freeze.
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-Keep the pre-filled syringe in the outer carton in order to protect from light.
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
-
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|----------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/07/431/052
 
@@ -2730,31 +2594,31 @@ EU/1/07/431/052
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Retacrit 30 000 IU
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER LABEL (WITH BLUE BOX) MULTIPACK
+## OUTER LABEL (WITH BLUE BOX) MULTIPACK
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2792,67 +2656,56 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
+## 9. SPECIAL STORAGE CONDITIONS
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-Store in a refrigerator (2°C - 8°C). Do not freeze.
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-Keep the pre-filled syringe in the outer carton in order to protect from light.
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
-
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|----------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/07/431/052
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Retacrit 30 000 IU
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| SYRINGE LABELS                                                     |
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| SYRINGE LABELS                                                   |
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Retacrit 30 000 IU injection epoetin zeta IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2864,8 +2717,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME ORBYUNIT   |
-|------|------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 30 000 IU/0.75 mL
 
@@ -2896,29 +2749,19 @@ Contains phenylalanine, see leaflet for further information.
 
 Solution for injection in a pre-filled syringe.
 
-1 pre-filled syringe without needle guard containing 1 mL solution for injection
-
-4 pre-filled syringes without needle guard containing 1 mL solution for injection
-
-6 pre-filled syringes without needle guard containing 1 mL solution for injection
-
-1 pre-filled syringe with needle guard containing 1 mL solution for injection
-
-4 pre-filled syringes with needle guard containing 1 mL solution for injection
-
-6 pre-filled syringes with needle guard containing 1 mL solution for injection
-
-1 pre-filled syringe with needle-trap containing 1 mL solution for injection
-
-4 pre-filled syringes with needle-trap containing 1 mL solution for injection
-
-6 pre-filled syringes with needle-trap containing 1 mL solution for injection
+- 1 pre-filled syringe without needle guard containing 1 mL solution for injection
+- 4 pre-filled syringes without needle guard containing 1 mL solution for injection
+- 6 pre-filled syringes without needle guard containing 1 mL solution for injection
+- 1 pre-filled syringe with needle guard containing 1 mL solution for injection
+- 4 pre-filled syringes with needle guard containing 1 mL solution for injection
+- 6 pre-filled syringes with needle guard containing 1 mL solution for injection
+- 1 pre-filled syringe with needle-trap containing 1 mL solution for injection
+- 4 pre-filled syringes with needle-trap containing 1 mL solution for injection
+- 6 pre-filled syringes with needle-trap containing 1 mL solution for injection
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For intravenous or subcutaneous use.
-
-Read the package leaflet before use.
+For intravenous or subcutaneous use. Read the package leaflet before use.
 
 Do not shake.
 
@@ -2936,11 +2779,9 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator (2°C - 8°C). Do not freeze.
+Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-Keep the pre-filled syringe in the outer carton in order to protect from light.
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -3016,11 +2857,7 @@ Contains phenylalanine, see leaflet for further information.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For intravenous or subcutaneous use.
-
-Read the package leaflet before use.
-
-Do not shake.
+For intravenous or subcutaneous use. Read the package leaflet before use. Do not shake.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN
 
@@ -3032,58 +2869,49 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
+## 9. SPECIAL STORAGE CONDITIONS
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-Store in a refrigerator (2°C - 8°C). Do not freeze.
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-Keep the pre-filled syringe in the outer carton in order to protect from light.
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
-
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|----------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/07/431/053
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Retacrit 40 000 IU
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER LABEL (WITH BLUE BOX) MULTIPACK
+## OUTER LABEL (WITH BLUE BOX) MULTIPACK
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3121,67 +2949,57 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
+## 9. SPECIAL STORAGE CONDITIONS
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-Store in a refrigerator (2°C - 8°C). Do not freeze.
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-Keep the pre-filled syringe in the outer carton in order to protect from light.
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
-
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|----------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/07/431/053
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Retacrit 40 000 IU
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| SYRINGE LABELS                                                     |
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| SYRINGE LABELS                                                   |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Retacrit 40 000 IU injection epoetin zeta IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -3193,8 +3011,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME ORBYUNIT   |
-|------|------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 40 000 IU/1 mL
 
@@ -3205,19 +3023,19 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ```
 Retacrit 1 000 IU/0.3 mL solution for injection in pre-filled syringe Retacrit 2 000 IU/0.6 mL solution for injection in pre-filled syringe Retacrit 3 000 IU/0.9 mL solution for injection in pre-filled syringe Retacrit 4 000 IU/0.4 mL solution for injection in pre-filled syringe Retacrit 5 000 IU/0.5 mL solution for injection in pre-filled syringe Retacrit 6 000 IU/0.6 mL solution for injection in pre-filled syringe Retacrit 8 000 IU/0.8 mL solution for injection in pre-filled syringe Retacrit 10 000 IU/1 mL solution for injection in pre-filled syringe Retacrit 20 000 IU/0.5 mL solution for injection in pre-filled syringe Retacrit 30 000 IU/0.75 mL solution for injection in pre-filled syringe Retacrit 40 000 IU/1 mL solution for injection in pre-filled syringe epoetin zeta
 ```
 
-Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
+## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
 - -Keep this leaflet. You may need to read it again.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
 - -If you have any further questions, ask your doctor, pharmacist or nurse.
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
 - -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
@@ -3231,13 +3049,13 @@ Read all of this leaflet carefully before you start using this medicine because 
 
 ## 1. What Retacrit is and what it is used for
 
-Retacrit contains the active substance epoetin zeta - a protein that stimulates the bone marrow to produce more red blood cells which carry haemoglobin (a substance that transports oxygen). Epoetin zeta is a copy of the human protein erythropoietin (ee-rith-roe-po-eh-tin) and acts in the same way.
+Retacrit contains the active substance epoetin zeta -a protein that stimulates the bone marrow to produce more red blood cells which carry haemoglobin (a substance that transports oxygen). Epoetin zeta is a copy of the human protein erythropoietin (ee-rith-roe-po-eh-tin) and acts in the same way.
 
 ## · Retacrit is used to treat symptomatic anaemia caused by kidney disease
 
 - in children on haemodialysis.
-- in severely anaemic adults not yet undergoing dialysis.
 - in adults on haemodialysis or peritoneal dialysis.
+- in severely anaemic adults not yet undergoing dialysis.
 
 If you have kidney disease, you may be short of red blood cells if your kidney does not produce enough erythropoietin (necessary for red cell production). Retacrit is prescribed to stimulate your bone marrow to produce more red blood cells.
 
@@ -3258,10 +3076,10 @@ If you have kidney disease, you may be short of red blood cells if your kidney d
 - If you have high blood pressure not properly controlled with medicines.
 - To stimulate the production of your red blood cells (so that doctors can take more blood from you) if you cannot have transfusions with your own blood during or after surgery.
 - If you are due to have major elective orthopaedic surgery (such as hip or knee surgery), and you:
-- have severe disorders of the veins and arteries
 - have severe heart disease
+- have severe disorders of the veins and arteries
 - have recently had a heart attack or stroke
-- can't take medicines to thin the blood
+- can't take medicines t o thin the blood
 
 Retacrit may not be suitable for you. Please discuss with your doctor. While on Retacrit, some people need medicines to reduce the risk of blood clots. If you can't take medicines that prevent blood clotting, you must not have Retacrit .
 
@@ -3278,11 +3096,11 @@ Talk to your doctor if any of the following apply to you. You may still be able 
 <div style=\"page-break-after: always\"></div>
 
 - If you know you suffer , or have suffered, from:
-- epileptic seizures or fits
 - high blood pressure;
+- epileptic seizures or fits
 - liver disease
-- porphyria (a rare blood disorder)
 - anaemia from other causes
+- porphyria (a rare blood disorder)
 - If you are a patient with chronic renal failure , and particularly if you do not respond properly to Retacrit, your doctor will check your dose of Retacrit because repeatedly increasing your dose of Retacrit if you are not responding to treatment may increase the risk of having a problem of the heart or the blood vessels and could increase risk of myocardial infarction, stroke and death.
 - If you are a cancer patient be aware that products that stimulate red blood cell production (like Retacrit) may act as a growth factor and therefore in theory may affect the progression of your cancer. Depending on your individual situation a blood transfusion may be preferable. Please discuss this with your doctor.
 - If you are a cancer patient , be aware that use of Retacrit may be associated with shorter survival and a higher death rate in head and neck, and metastatic breast cancer patients who are receiving chemotherapy.
@@ -3331,7 +3149,7 @@ Phenylalanine may be harmful if you have phenylketonuria, a rare genetic disorde
 
 ## Retacrit contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## Retacrit contains polysorbate 20
 
@@ -3341,71 +3159,71 @@ This medicine contains a maximum of 0.1 mg of polysorbate 20 in each syringe, eq
 
 Always use this medicine exactly as your doctor has told you. Check with your doctor if you are not sure.
 
-Your doctor has carried out blood tests and decided you need Retacrit.
+## Your doctor has carried out blood tests and decided you need Retacrit.
 
 Retacrit may be given by injection:
 
-- Or under the skin (subcutaneously).
 - Either into a vein or a tube that goes into a vein (intravenously)
+- Or under the skin (subcutaneously).
 
 Your doctor will decide how Retacrit will be injected. Usually the injections will be given to you by a doctor, nurse or other health care professional. Some people, depending on why they need Retacrit treatment, may later learn how to inject themselves under the skin: see Instructions on how to inject Retacrit yourself .
 
 Retacrit should not be used:
 
-- if you know, or think that it may have been accidentally frozen, or
 - after the expiry date on the label and outer carton
+- if you know, or think that it may have been accidentally frozen, or
 - if there has been a refrigerator failure.
 
 The dose of Retacrit you receive is based on your bodyweight in kilograms. The cause of your anaemia is also a factor in your doctor deciding the correct dose.
 
 <div style=\"page-break-after: always\"></div>
 
-Your doctor will monitor your blood pressure regularly while you are using Retacrit.
+## Your doctor will monitor your blood pressure regularly while you are using Retacrit.
 
 ## People with kidney disease
 
 - Your doctor will maintain your haemoglobin level between 10 and 12 g/dL as a high haemoglobin level may increase the risk of blood clots and death. In children the haemoglobin level should be maintained between 9.5 and 11 g/dL.
-- For patients on peritoneal dialysis Retacrit may be given twice a week.
 - The usual starting dose of Retacrit for adults and children is 50 International Units (IU) per kilogram (/kg) of body weight given three times a week.
+- For patients on peritoneal dialysis Retacrit may be given twice a week.
 - For adults and children Retacrit is given as an injection either into a vein (intravenously) or a tube that goes into a vein. When this access (via a vein or tube) is not readily available, your doctor may decide that Retacrit should be injected under the skin (subcutaneously). This includes patients on dialysis and patients not yet on dialysis.
-- Once your anaemia has been corrected, your doctor will continue to check your blood regularly. Your Retacrit dose and frequency of administration may be further adjusted to maintain your response to treatment. Your doctor will use the lowest effective dose to control the symptoms of your anaemia.
 - Your doctor will order regular blood tests to see how your anaemia is responding and may adjust the dose, usually no more frequently than every four weeks. A rise in haemoglobin of greater than 2 g/dL over a four week period should be avoided.
+- Once your anaemia has been corrected, your doctor will continue to check your blood regularly. Your Retacrit dose and frequency of administration may be further adjusted to maintain your response to treatment. Your doctor will use the lowest effective dose to control the symptoms of your anaemia.
 - If you do not respond adequately to Retacrit, your doctor will check your dose and will inform you if you need to change doses of Retacrit.
-- You may be given iron supplements before and during Retacrit treatment to make it more effective.
 - If you are on a more extended dosing interval (greater than once weekly) of Retacrit, you may not maintain adequate haemoglobin levels and you may require an increase in Retacrit dose or frequency of administration.
+- You may be given iron supplements before and during Retacrit treatment to make it more effective.
 - If you are having dialysis treatment when you begin treatment with Retacrit, your dialysis regime may need to be adjusted. Your doctor will decide this.
 
 ## Adults on chemotherapy
 
 - Your doctor may initiate treatment with Retacrit if your haemoglobin is 10 g/dL or less.
-- The starting dose is either 150 IU per kilogram bodyweight three times a week or 450 IU per kilogram bodyweight once a week.
 - Your doctor will maintain your haemoglobin level between 10 and 12 g/dL as a high haemoglobin level may increase the risk of blood clots and death.
+- The starting dose is either 150 IU per kilogram bodyweight three times a week or 450 IU per kilogram bodyweight once a week.
 - Retacrit is given by injection under the skin.
-- You may be given iron supplements before and during Retacrit treatment to make it more effective.
 - Your doctor will order blood tests, and may adjust the dose, depending on how your anaemia responds to Retacrit treatment.
+- You may be given iron supplements before and during Retacrit treatment to make it more effective.
 - You will usually continue Retacrit treatment for one month after the end of chemotherapy.
 
 ## Adults donating their own blood
 
 - The usual dose is 600 IU per kilogram bodyweight twice a week.
-- You may be given iron supplements before and during Retacrit treatment to make it more effective.
 - Retacrit is given by injection into a vein immediately after you have donated blood for 3 weeks before your surgery.
+- You may be given iron supplements before and during Retacrit treatment to make it more effective.
 
 ## Adults scheduled for major orthopaedic surgery
 
 <div style=\"page-break-after: always\"></div>
 
 - The recommended dose is 600 IU per kilogram bodyweight once a week.
-- If there is a medical need to reduce the time before your operation, you will be given a daily dose of 300 IU/kg for up to ten days before surgery, on the day of surgery and for four days immediately afterwards.
 - Retacrit is given by injection under the skin each week for three weeks before surgery and on the day of surgery.
+- If there is a medical need to reduce the time before your operation, you will be given a daily dose of 300 IU/kg for up to ten days before surgery, on the day of surgery and for four days immediately afterwards.
 - If blood tests show your haemoglobin is too high before the operation, the treatment will be stopped.
 - You may be given iron supplements before and during Retacrit treatment to make it more effective.
 
 ## Adults with myelodysplastic syndrome
 
 - Your doctor may initiate treatment with Retacrit if your haemoglobin is 10 g/dL or less. The aim of treatment is to maintain your haemoglobin level between 10 and 12 g/dL as a higher haemoglobin level may increase the risk of blood clots and death.
-- The starting dose is 450 IU per kilogram bodyweight once a week.
 - Retacrit is given by injection under the skin.
+- The starting dose is 450 IU per kilogram bodyweight once a week.
 - Your doctor will order blood tests, and may adjust the dose, depending on how your anaemia responds to Retacrit treatment.
 
 ## Instructions on how to inject Retacrit yourself
@@ -3413,8 +3231,8 @@ Your doctor will monitor your blood pressure regularly while you are using Retac
 When treatment starts, Retacrit is usually injected by medical professional or a nurse. Later, your doctor may suggest that you or your caregiver learn how to inject Retacrit under the skin ( subcutaneously ) yourself.
 
 - Do not attempt to inject yourself unless you have been trained to do so by your doctor or nurse.
-- Only use Retacrit if it has been stored correctly - see section 5, How to Store Retacrit .
 - Always use Retacrit exactly as instructed by your doctor or nurse.
+- Only use Retacrit if it has been stored correctly -see section 5, How to Store Retacrit .
 - Before use, leave the Retacrit syringe to stand until it reaches room temperature. This usually takes between 15 and 30 minutes.
 
 ## Only take one dose of Retacrit from each syringe.
@@ -3423,21 +3241,21 @@ If Retacrit is injected under the skin (subcutaneously), the amount injected is 
 
 Retacrit is given alone and not mixed with other liquids for injection.
 
-Do not shake Retacrit syringes. Prolonged vigorous shaking may damage the product. If the product has been shaken vigorously, don't use it.
+Do not shake Retacrit syringes. Prolonged vigorous shaking may damage the product. If the product has been shaken vigorously, don' t use it.
 
 ## How to inject yourself subcutaneously using a pre-filled syringe
 
 - Remove the carton containing the pre-filled syringe from the refrigerator.
-- Open the blister tray containing the pre-filled syringe after taking it out of the refrigerator. The liquid needs to come to room temperature. Do not remove the syringe's needle cover while allowing the pre-filled syringe to reach room temperature.
 - Remove the blister tray containing the pre-filled syringe from the carton. When the carton contains blister trays with more than one pre-filled syringe, tear off the blister tray containing one pre-filled syringe along the perforated part, and return the rest of the blister trays containing pre-filled syringes to the carton and return the carton to the refrigerator.
+- Open the blister tray containing the pre-filled syringe after taking it out of the refrigerator. The liquid needs to come to room temperature. Do not remove the syringe's needle cover while allowing the pre-filled syringe to reach room temperature.
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
 - Check the syringe, to make sure it is the right dose, has not passed its expiry date, is not damaged, and the liquid is clear and not frozen.
-- o The carton is open or damaged.
 - Do not use the pre-filled syringe if:
+- o The carton is open or damaged.
 - o The medicine is cloudy or discoloured or the liquid has particles floating in it.
 - o Any part of the pre-filled syringe appears cracked or broken or any of the liquid has leaked out of the syringe.
 - o The pre-filled syringe has been dropped. The prefilled syringe may be broken even if you cannot see the break.
@@ -3447,14 +3265,14 @@ Do not shake Retacrit syringes. Prolonged vigorous shaking may damage the produc
 In all cases above discard the pre-filled syringe and use a new pre-filled syringe.
 
 - Choose an injection site. Good sites are the top of the thigh and around the tummy (abdomen) but away from the navel. Vary the site from day to day.
-- Hold the pre-filled syringe by the body of the syringe with the covered needle pointing upward.
 - Wash your hands. Use an antiseptic swab on the injection site, to disinfect it.
+- Hold the pre-filled syringe by the body of the syringe with the covered needle pointing upward.
 - o Do not hold by the plunger head, plunger or needle cover.
 - o Do not pull back on the plunger at any time.
 - o Do not remove the needle cover from the pre-filled syringe until you are ready to inject your medicine.
 - Take the needle cover off the syringe by holding the barrel and pulling the needle cover straight off and away from your body carefully without twisting it. Throw away the needle cover. Do not recap the needle. Do not push the plunger, touch the needle or shake the syringe.
 - Pinch a fold of skin between your thumb and index finger. Do not squeeze it.
-- With your other hand, hold the pre-filled syringe like you would hold a pencil. Use a quick 'dart-like' motion to insert the needle at an approximate 45 degree angle into the skin.
+- With your other hand, hold the pre-filled syringe like you would hold a pencil. Use a quick 'dart -like' motion to insert the needle at an approximate 45 degree angle into the skin .
 
 <!-- image -->
 
@@ -3463,20 +3281,21 @@ In all cases above discard the pre-filled syringe and use a new pre-filled syrin
 <!-- image -->
 
 - Push the needle in fully. Your doctor or nurse may have shown you how to do this.
-- When the plunger is pushed as far as it will go, take out the needle and let go of the skin.
 - Push the plunger with your thumb as far as it will go to inject the entire amount of liquid. Push it slowly and evenly, keeping the skin fold pinched.
+- When the plunger is pushed as far as it will go, take out the needle and let go of the skin.
 - When the needle is pulled out of your skin, there may be a little bleeding at the injection site. This is normal. You can press an antiseptic swab over the injection site for a few seconds after the injection.
-- Never put used syringes into your normal household waste bin.
 - Do not try to replace the needle cover. Dispose of your used syringe in a sharps disposal (puncture-proof) container.
+- Never put used syringes into your normal household waste bin.
 
 ## How to inject yourself subcutaneously using a pre-filled syringe with a passive needle guard
 
 Your pre-filled syringe has a passive needle guard device attached to it in order to protect you from needle stick injury.
 
 - Remove the carton containing the pre-filled syringe with passive needle guard from the refrigerator.
-- Open the blister tray containing the pre-filled syringe by peeling away the lid from the blister tray.
 - Remove the blister tray containing the pre-filled syringe from the carton. When the carton contains blister trays with more than one pre-filled syringe, tear off the blister tray containing one pre-filled syringe along the perforated part, and return the rest of the blister trays containing pre-filled syringes to the carton and return the carton to the refrigerator.
-- Remove the pre-filled syringe from the blister tray by grasping from the syringe body. o Do not grasp the grey needle cover or the plunger rod.
+- Open the blister tray containing the pre-filled syringe by peeling away the lid from the blister tray.
+- Remove the pre-filled syringe from the blister tray by grasping from the syringe body.
+- o Do not grasp the grey needle cover or the plunger rod.
 - Check the syringe to make sure that the needle guard is covering the barrel of the pre-filled syringe. Do not push the needle guard over the needle cover before the injection. This may activate or lock the needle guard. If the needle guard is covering the needle that means it has been activated.
 - The liquid needs to come to room temperature. Do not remove the syringe's needle cover while allowing the pre-filled syringe to reach room temperature.
 
@@ -3491,18 +3310,20 @@ Your pre-filled syringe has a passive needle guard device attached to it in orde
 - 3 Medicine
 - 4 Plunger Rod
 - Check the syringe, to make sure it is the right dose, has not passed its expiry date, is not damaged, and the liquid is clear and not frozen.
-- o The carton is open or damaged.
 - Do not use the pre-filled syringe if:
+- o The carton is open or damaged.
 - o The needle guard is missing, detached or has been activated.
 - o The medicine is cloudy or discoloured or the liquid has particles floating in it. Do not inspect the product through the plastic of the safety device.
 - o Any part of the pre-filled syringe appears cracked or broken or any of the liquid has leaked out of the syringe.
 - o The pre-filled syringe has been dropped. The pre-filled syringe may be broken even if you cannot see the break.
 - o The needle cover is missing or not securely attached.
 - o The expiration date printed on the label has passed.
-- In all cases above discard the pre-filled syringe and use a new pre-filled syringe.
+
+In all cases above discard the pre-filled syringe and use a new pre-filled syringe.
+
 - Choose an injection site. Good sites are the top of the thigh and around the tummy (abdomen) but away from the navel. Vary the site from day to day.
-- Hold the pre-filled syringe by the body of the needle guard with the covered needle pointing upward.
 - Wash your hands. Use an antiseptic swab on the injection site, to disinfect it.
+- Hold the pre-filled syringe by the body of the needle guard with the covered needle pointing upward.
 - o Do not hold by the plunger head, plunger or needle cover.
 - o Do not pull back on the plunger at any time.
 - o Do not remove the needle cover from the pre-filled syringe until you are ready to inject your medicine.
@@ -3513,14 +3334,14 @@ Your pre-filled syringe has a passive needle guard device attached to it in orde
 
 <div style=\"page-break-after: always\"></div>
 
-- With your other hand, hold the pre-filled syringe like you would hold a pencil. Use a quick 'dart-like' motion to insert the needle at an approximate 45 degree angle into the skin.
+- With your other hand, hold the pre-filled syringe like you would hold a pencil. Use a quick 'dart -like' motion to insert the needle at an approximate 45 degree angle into the skin .
 - Push the needle in fully. Your doctor or nurse may have shown you how to do this.
 - Depress the plunger while grasping the finger flange until the entire dose has been given. The needle guard will NOT activate unless the ENTIRE dose has been given.
 - When the plunger is pushed as far as it will go, take out the needle and let go of the skin.
 - Let go of the plunger and allow the syringe to move up until the entire needle is guarded and locks into place.
 - When the needle is pulled out of your skin, there may be a little bleeding at the injection site. This is normal. You can press an antiseptic swab over the injection site for a few seconds after the injection.
-- Never put used syringes into your normal household waste bin.
 - Do not try to replace the needle cover. Dispose of your used syringe in a sharps disposal (puncture-proof) container.
+- Never put used syringes into your normal household waste bin.
 
 <!-- image -->
 
@@ -3530,19 +3351,19 @@ Your pre-filled syringe has a passive needle guard device attached to it in orde
 
 ## How to inject yourself subcutaneously using a pre-filled syringe with a needle trap
 
-Your syringe has a needle-trap attached to it which is designed to specifically help prevent accidental needle stick injuries following the proper administration of injectable medicines. It consists of a plastic needle 'catcher' which is firmly attached to the syringe label. Together, these two components comprise the needle-trap (safety) feature.
+Your syringe has a needle-trap attached to it which is designed to specifically help prevent accidental needle stick injuries following the proper administration of injectable medicines. It consists of a plastic needle 'catcher' which is firmly attac hed to the syringe label. Together, these two components comprise the needle-trap (safety) feature.
 
-The needle-trap requires specific actions by the user to 'activate' it, which will render the needle harmless after the injection is administered.
+The needletrap requires specific actions by the user to 'activate' it, wh ich will render the needle harmless after the injection is administered.
 
 <div style=\"page-break-after: always\"></div>
 
 - Remove the carton containing the pre-filled syringe from the refrigerator.
-- Open the blister tray containing the pre-filled syringe with needle trap by peeling away the cover after taking it out of the refrigerator.
 - Remove the blister tray containing the pre-filled syringe from the carton. When the carton contains blister trays with more than one pre-filled syringe, tear off the blister tray containing one pre-filled syringe along the perforated part, and return the rest of the blister trays containing pre-filled syringes to the carton and return the carton to the refrigerator.
+- Open the blister tray containing the pre-filled syringe with needle trap by peeling away the cover after taking it out of the refrigerator.
 - Grab the body of the syringe to remove the pre-filled syringe from the blister tray.
 - Do not remove the needle cover from the pre-filled syringe until you are ready to inject your medicine.
-- Check the syringe, to make sure it is the right dose, has not passed its expiry date, is not damaged, and the liquid is clear and not frozen.
 - The liquid needs to come to room temperature. Do not remove the syringe's needle cover while allowing the pre-filled syringe to reach room temperature.
+- Check the syringe, to make sure it is the right dose, has not passed its expiry date, is not damaged, and the liquid is clear and not frozen.
 - Do not use the pre-filled syringe if:
 - o The carton is open or damaged.
 - o The medicine is cloudy or discoloured or the liquid has particles floating in it.
@@ -3556,8 +3377,8 @@ The needle-trap requires specific actions by the user to 'activate' it, which wi
 In all cases above discard the pre-filled syringe and use a new pre-filled syringe.
 
 - Choose an injection site. Good sites are the top of the thigh and around the tummy (abdomen) but away from the navel. Vary the site from day to day.
-- Hold the pre-filled syringe by the body of the syringe with the covered needle pointing upward.
 - Wash your hands. Use an antiseptic swab on the injection site, to disinfect it.
+- Hold the pre-filled syringe by the body of the syringe with the covered needle pointing upward.
 - o Do not hold by the plunger head, plunger or needle cover.
 - o Do not pull back on the plunger at any time.
 - o Grasp the tip of the plastic needle catcher and bend it away from the needle cover.
@@ -3569,10 +3390,10 @@ In all cases above discard the pre-filled syringe and use a new pre-filled syrin
 - o Do not remove the needle cover from the pre-filled syringe until you are ready to inject your medicine.
 - Take the needle cover off the syringe by holding the barrel and pulling the needle cover straight off and away from your body carefully without twisting it. Throw away the needle cover. Do not recap the needle. Do not push the plunger, touch the needle or shake the syringe.
 - Pinch a fold of skin between your thumb and index finger. Do not squeeze it.
-- With your other hand, hold the pre-filled syringe like you would hold a pencil. Use a quick 'dart-like' motion to insert the needle at an approximate 45 degree angle into the skin.
+- With your other hand, hold the pre-filled syringe like you would hold a pencil. Use a quick 'dart -like' motion to insert the needle at an approximate 45 degree angle into the skin .
 - Push the needle in fully. Your doctor or nurse may have shown you how to do this.
-- When the plunger is pushed as far as it will go, take out the needle and let go of the skin.
 - Push the plunger with your thumb as far as it will go to inject the entire amount of liquid. Push it slowly and evenly, keeping the skin fold pinched.
+- When the plunger is pushed as far as it will go, take out the needle and let go of the skin.
 - Place the plastic catcher of the needle-trap against a hard, stable surface and with one hand pivot the syringe barrel upward against the needle forcing the needle into the catcher where it locks in place (an audible 'click' is heard when the needle is locked in the catcher). Continue bending the needle until the syringe exceeds a 45 degree angle with the flat surface to render it permanently unusable.
 
 <!-- image -->
@@ -3584,8 +3405,8 @@ In all cases above discard the pre-filled syringe and use a new pre-filled syrin
 <!-- image -->
 
 - When the needle is pulled out of your skin, there may be a little bleeding at the injection site. This is normal. You can press an antiseptic swab over the injection site for a few seconds after the injection.
-- Never put used syringes into your normal household waste bin.
 - Do not try to replace the needle cover. Dispose of your used syringe in a sharps disposal (puncture-proof) container.
+- Never put used syringes into your normal household waste bin.
 
 ## If you use more Retacrit than you should
 
@@ -3605,14 +3426,14 @@ If you have any further questions on the use of this product, ask your doctor, n
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-Tell your doctor or nurse immediately if you notice any of the effects in this list.
+## Tell your doctor or nurse immediately if you notice any of the effects in this list.
 
 Serious skin rashes including Stevens-Johnson syndrome and toxic epidermal necrolysis have been reported in association with epoetin treatment. These can appear as reddish target-like macules or circular patches often with central blisters on the trunk, skin peeling, ulcers of mouth, throat, nose, genitals and eyes and can be preceded by fever and flu-like symptoms. Stop using Retacrit if you develop these symptoms and contact your doctor or seek medical attention immediately. See also section 2.
 
 Very common: may affect more than 1 in 10 people.
 
-- Feeling sick in your stomach
 - Diarrhoea
+- Feeling sick in your stomach
 - Vomiting
 - Fever
 
@@ -3622,23 +3443,23 @@ Very common: may affect more than 1 in 10 people.
 
 Common: may affect up to 1 in 10 people.
 
-- Blood clots (including deep vein thrombosis and embolism) that may require urgent treatment. You may have chest pain, breathlessness, and painful swelling and redness, usually in the leg as symptoms.
 - Increased blood pressure. Headaches , particularly sudden, stabbing migraine-like headaches, feeling confused or having fits may be signs of a sudden increase in blood pressure. This requires urgent treatment. Raised blood pressure may require treatment with medicines (or adjustment to any medicines you already take for high blood pressure).
+- Blood clots (including deep vein thrombosis and embolism) that may require urgent treatment. You may have chest pain, breathlessness, and painful swelling and redness, usually in the leg as symptoms.
 - Cough
-- Bone or muscle pain
 - Skin rashes, which may result from an allergic reaction.
+- Bone or muscle pain
 - Flu-like symptoms , such as headache, aches and pains in the joints, feeling of weakness, chills, tiredness and dizziness. These may be more common at the start of treatment. If you have these symptoms during injection into the vein, a slower delivery of the injection may help to avoid them in the future.
-- Swelling of the ankles, feet or fingers
 - Redness, burning and pain at the site of injection
+- Swelling of the ankles, feet or fingers
 - Arm or leg pain
 
 Uncommon: may affect up to 1 in 100 people.
 
-- Fits
 - High levels of blood potassium which can cause abnormal heart rhythm (this is a very common side effect in patients on dialysis).
+- Fits
 - Nose or airway congestion
-- Hives
 - Allergic reaction
+- Hives
 
 Rare: may affect up to 1 in 1 000 people.
 
@@ -3740,17 +3561,17 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 1 pre-filled syringe with 1 mL solution for injection contains 40 000 international units (IU) epoetin zeta (recombinant human erythropoietin). The solution contains 40 000 IU epoetin zeta per mL.
 
-The other ingredients are disodium phosphate dihydrate, sodium dihydrogen phosphate dihydrate, sodium chloride (see section 2 'Retacrit contains sodium'), calcium chloride dihydrate, polysorbate 20 (E432) (see section 2 'Retacrit contains polysorbate 20'), glycine, leucine, isoleucine, threonine,
+The other ingredients are disodium phosphate dihydrate, sodium dihydrogen phosphate dihydrate, sodium chloride (see section 2 ' Retacrit contains sodium ' ), calcium chloride dihydrate, polysorbate 20 (E432) (see section 2 'Retacrit contains polysorbate 20') , glycine, leucine, isoleucine, threonine,
 
 <div style=\"page-break-after: always\"></div>
 
-glutamic acid, phenylalanine (see section 2 'Retacrit contains phenylalanine'), water for injections, sodium hydroxide (pH adjuster), hydrochloric acid (pH adjuster).
+glutamic acid, phenylalanine (see section 2 ' Retacrit contains phenylalanine ' ), water for injections, sodium hydroxide (pH adjuster), hydrochloric acid (pH adjuster).
 
 ## What Retacrit looks like and contents of the pack
 
 Retacrit is presented as a clear and colourless solution for injection in a pre-filled syringe with a fixed injection needle.
 
-The pre-filled syringes contain between 0.3 and 1 mL solution, depending on the content of epoetin zeta (see 'What Retacrit contains').
+The pre-filled syringes contain between 0.3 and 1 mL solution, depending on the content of epoetin zeta (see ' What Retacrit contains ').
 
 One pack contains 1, 4 or 6 pre-filled syringes with or without a needle guard or needle-trap device. Multipacks contain 4 (4 x 1) or 6 (6 x 1) pre-filled syringes.
 
@@ -3762,7 +3583,7 @@ Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 STADA Arzneimittel AG Stadastrasse 2-18 D-61118 Bad Vilbel Germany
 
-Hospira Zagreb d.o.o. Prudni č ka cesta 60 10291 Prigorje Brdove č ko Croatia
+Hospira Zagreb d.o.o. Prudnička cesta 60 10291 Prigorje Brdovečko Croatia
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -3774,23 +3595,17 @@ Tél/Tel: +32 (0)2 554 62 11
 
 ## Latvija
 
-Pfizer Luxembourg SARL fili ā le Latvij ā
-
-Tel: + 371 670 35 775
+Pfizer Luxembourg SARL filiāle Latvijā Tel: + 371 670 35 775
 
 ## България
 
-Пфайзер Люксембург САРЛ , Клон България
-
-Тел .: +359 2 970 4333
+Пфайзер Люксембург САРЛ, Клон България Тел.: +359 2 970 4333
 
 ## Lietuva
 
-Pfizer Luxembourg SARL filialas Lietuvoje
+Pfizer Luxembourg SARL filialas Lietuvoje Tel: +370 5 251 4000
 
-Tel: +370 5 251 4000
-
-## Č eská republika
+## Česká republika
 
 Pfizer, spol. s r.o.
 
@@ -3810,19 +3625,17 @@ Tlf.: + 45 44 20 11 00
 
 ## Malta
 
-Drugsales Ltd
+Vivian Corporation Ltd.
 
-Tel: +356 21419070/1/2
-
-<div style=\"page-break-after: always\"></div>
+Tel: + 356 2134 4610
 
 ## Deutschland
-
-## Nederland
 
 PFIZER PHARMA GmbH
 
 Tel: +49 (0)30 550055-51000
+
+## Nederland
 
 Pfizer bv
 
@@ -3844,9 +3657,9 @@ Tlf: +47 67 52 61 00
 
 Pfizer Ελλάς A.E.
 
-Τηλ
+Τηλ: + 30 210
 
-: + 30 210 6785800
+6785800
 
 ## Österreich
 
@@ -3900,9 +3713,7 @@ Tel: +44 (0)1304 616161
 
 ## Slovenija
 
-Pfizer Luxembourg SARL
-
-Pfizer, podružnica za svetovanje s podro č ja farmacevtske dejavnosti, Ljubljana Tel: +386 (0)1 52 11 400
+Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel: +386 (0)1 52 11 400
 
 ## Ísland
 
@@ -3912,7 +3723,7 @@ Sími: +354 540 8000
 
 ## Slovenská republika
 
-Pfizer Luxembourg SARL, organiza č ná zložka
+Pfizer Luxembourg SARL, organizačná zložka
 
 Tel: + 421 2 3355 5500
 
@@ -3930,17 +3741,17 @@ Puh/Tel: +358 (0)9 430 040
 
 ## Κύπρος
 
-Pfizer ΕΛΛΑΣ Α . Ε . (Cyprus Branch)
+Pfizer ΕΛΛΑΣ Α.Ε. (Cyprus Branch)
 
-Τηλ
-
-: +357 22 817690
+Τηλ: +357 22 817690
 
 ## Sverige
 
 Pfizer AB
 
 Tel: +46 (0)8 550 520 00
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in {MM/YYYY}.
 

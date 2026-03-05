@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-03-27 16:36:15
-document_pages: 51
+document_datetime: 2026-03-03 14:26:08
+document_pages: 49
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zeposia-epar-product-information_en.pdf
 document_name: zeposia-epar-product-information_en.pdf
 version: success
-processing_time: 11.8898268
-conversion_datetime: 2025-12-19 06:50:54.988748
+processing_time: 13.1366827
+conversion_datetime: 2026-03-05 11:53:42.51417
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -156,9 +156,7 @@ The co-administration of ozanimod in patients on a beta-blocker in combination w
 
 Due to the risk of transient decreases in HR with the initiation of ozanimod, first-dose, 6-hour monitoring for signs and symptoms of symptomatic bradycardia is recommended in patients with resting HR &lt; 55 bpm, second-degree [Mobitz type I] AV block or a history of myocardial infarction or heart failure (see section 4.3).
 
-Patients should be monitored with hourly pulse and blood pressure measurement during this 6-hour period. An ECG prior to and at the end of this 6-hour period is recommended.
-
-Additional monitoring is recommended in patients if at hour 6 post-dose:
+Patients should be monitored with hourly pulse and blood pressure measurement during this 6-hour period. An ECG prior to and at the end of this 6-hour period is recommended. Additional monitoring is recommended in patients if at hour 6 post-dose:
 
 - heart rate is less than 45 bpm
 
@@ -210,7 +208,7 @@ Patients should be instructed to report promptly symptoms of infection to their 
 
 Because the elimination of ozanimod after discontinuation may take up to 3 months, monitoring for infections should be continued throughout this period.
 
-## Prior and concomitant treatment with antineoplastic, non-corticosteroid immunosuppressive, or immune-modulating therapies
+Prior and concomitant treatment with antineoplastic, non-corticosteroid immunosuppressive, or immune-modulating therapies
 
 In MS and UC clinical studies, patients who received ozanimod were not to receive concomitant antineoplastic, non-corticosteroid immunosuppressive (e.g. azathioprine and 6-mercaptopurine in UC), or immune-modulating therapies used for treatment of MS and UC. Concomitant use of ozanimod with any of these therapies would be expected to increase the risk of immunosuppression and should be avoided.
 
@@ -395,18 +393,6 @@ Table 2: Adverse reactions
 | General disorders and administration site conditions | Common      | Peripheral oedema                                |
 | Investigations                                       | Common      | Pulmonary function test abnormal*** , *****      |
 
-* At least one of these adverse reactions was reported as serious
-
-† Includes hypertension, essential hypertension, and blood pressure increased (see section 4.4).
-
-** for patients with pre-existing factors (see section 4.4)
-
-*** including pulmonary function test decreased, spirometry abnormal, forced vital capacity decreased, carbon monoxide diffusing capacity decreased, forced expiratory volume decreased
-
-**** Adverse reactions from post-marketing reports
-
-***** see Description of selected adverse reactions
-
 ## Description of selected adverse reactions
 
 ## Elevated hepatic enzymes
@@ -549,22 +535,6 @@ Table 3: Key clinical and MRI endpoints in RMS patients from Study 1 - SUNBEAM a
 | Mean number of T1 Gd enhancing lesions 4                                                                                                      | 0.160                                                                                                            | 0.433                                                                                                            | 0.176                                                                                                            | 0.373                                                                                                            |
 | Relative reduction                                                                                                                            | 63% (p < 0.0001)                                                                                                 | 63% (p < 0.0001)                                                                                                 | 53% (p = 0.0006)                                                                                                 | 53% (p = 0.0006)                                                                                                 |
 
-* Mean duration was 13.6 months
-
-** Nominal p-value for endpoints not included in the hierarchical testing and not adjusted for multiplicity
-
-†  Disability progression defined as 1-point increase in EDSS confirmed 3 months or 6 months later
-
-#  In a post hoc analysis of 6-month CDP which included data from the open-label extension (Study 3), the HR (95% CI) was found to be 1.040 (0.730, 1.482).)
-
-1 Log rank test
-
-2  Prospectively planned pooled analysis of Studies 1 and 2
-
-3  Over 12 months for Study 1 and over 24 months for Study 2
-
-4  At 12 months for Study 1 and at 24 months for Study 2
-
 In SUNBEAM and RADIANCE, treatment with ozanimod 0.92 mg resulted in reductions in mean percent change from baseline in normalised brain volume compared to IFN beta-1a IM (-0.41% versus -0.61%, and -0.71% versus -0.94%, respectively, nominal p-value &lt; 0.0001 for both studies).
 
 The studies enrolled DMT naive and previously treated patients with active disease, as defined by clinical or imaging features. Post-hoc analyses of patient populations with differing baseline levels of disease activity, including active and highly active disease, showed that the efficacy of ozanimod on clinical and imaging endpoints was consistent with the overall population.
@@ -607,21 +577,23 @@ Table 4: Proportion of patients meeting efficacy endpoints in the induction peri
 
 <div style=\"page-break-after: always\"></div>
 
-|                                    | Ozanimod 0.92 mg (N = 429)   | Ozanimod 0.92 mg (N = 429)   | Placebo (N = 216)   | Placebo (N = 216)   | Treatment Difference% a (95% CI)   |
-|------------------------------------|------------------------------|------------------------------|---------------------|---------------------|------------------------------------|
-|                                    | n                            | %                            | n                   | %                   |                                    |
-| Endoscopic improvement d           | 117                          | 27%                          | 25                  | 12%                 | 16% (9.7, 21.7) f                  |
-| Without prior TNF blocker exposure | 97/299                       | 32%                          | 18/151              | 12%                 |                                    |
-| Prior TNF blocker exposure         | 20/130                       | 15%                          | 7/65                | 11%                 |                                    |
-| Mucosal healing e                  | 54                           | 13%                          | 8                   | 4%                  | 9% (4.9, 12.9) g                   |
-| Without prior TNF blocker exposure | 47/299                       | 16%                          | 6/151               | 4%                  |                                    |
-| Prior TNF blocker exposure         | 7/130                        | 5%                           | 2/65                | 3%                  |                                    |
+|                                    | Ozanimod 0.92 mg (N = 429)   | Ozanimod 0.92 mg (N = 429)   | Placebo (N = 216)   | Placebo (N = 216)   | Treatment Difference% a   |
+|------------------------------------|------------------------------|------------------------------|---------------------|---------------------|---------------------------|
+|                                    | n                            | %                            | n                   | %                   | (95% CI)                  |
+| Endoscopic improvement d           | 117                          | 27%                          | 25                  | 12%                 | 16% (9.7, 21.7) f         |
+| Without prior TNF blocker exposure | 97/299                       | 32%                          | 18/151              | 12%                 |                           |
+| Prior TNF blocker exposure         | 20/130                       | 15%                          | 7/65                | 11%                 |                           |
+| Mucosal healing e                  | 54                           | 13%                          | 8                   | 4%                  | 9% (4.9, 12.9) g          |
+| Without prior TNF blocker exposure | 47/299                       | 16%                          | 6/151               | 4%                  |                           |
+| Prior TNF blocker exposure         | 7/130                        | 5%                           | 2/65                | 3%                  |                           |
 
 CI = confidence interval; TNF = tumour necrosis factor.
 
 a Treatment difference (adjusted for stratification factors of prior TNF blocker exposure and corticosteroid use at baseline).
 
-b  Clinical remission is defined as: RBS = 0, SFS ≤ 1 (and a decrease of ≥ 1 point from the baseline SFS), and endoscopy subscore ≤ 1 without friability.
+b  Clinical remission is defined as: RBS = 0, SFS ≤ 1 (and a decrease of ≥
+
+subscore ≤ 1 without friability.
 
 c Clinical response is defined as a reduction from baseline in the 9point Mayo score of ≥ 2 points and ≥ 35%, and a reduction from baseline in the RBS of ≥ 1 or an absolute RBS of ≤ 1 point.
 
@@ -646,6 +618,8 @@ In order to be randomised to treatment in the maintenance study (TRUENORTH-M), p
 At study entry, 35% of patients were in clinical remission, 29% of patients were on corticosteroids and 31% of patients who were previously treated with TNF blockers.
 
 As shown in the Table 5, the primary endpoint was the proportion of patients in clinical remission at week 52. Key secondary endpoints at week 52 were the proportion of patients with clinical response, endoscopic improvement, maintenance of clinical remission at week 52 in the subset of patients in remission at week 10, corticosteroid-free clinical remission, mucosal healing and durable clinical remission.
+
+1 point from the baseline SFS), and endoscopy
 
 <div style=\"page-break-after: always\"></div>
 
@@ -676,34 +650,6 @@ Table 5: Proportion of patients meeting efficacy endpoints in the maintenance pe
 | Without prior TNF blocker exposure                                                               | 37/154                       | 24%                          | 19/158              | 12%                 |                                    |
 | Prior TNF blocker exposure                                                                       | 4/76                         | 5%                           | 3/69                | 4%                  |                                    |
 
-CI = confidence interval; TNF = tumour necrosis factor.
-
-a Treatment difference (adjusted for stratification factors of clinical remission and concomitant corticosteroid use at week 10).
-
-b  Clinical remission is defined as: RBS = 0 point and SFS ≤ 1 point (and a decrease of ≥ 1 point from the baseline SFS) and end oscopy subscore ≤ 1 point without friability.
-
-c Clinical response is defined as: A reduction from baseline in the 9point Mayo score of ≥ 2 points and ≥ 35%, and a reduction from baseline in the RBS of ≥ 1 point or an absolute RBS of ≤ 1 point.
-
-d  Endoscopi c improvement is defined as: Endoscopy subscore of ≤ 1 point without friability.
-
-e Maintenance of remission defined as clinical remission at week 52 in the subset of patients in clinical remission at week 10.
-
-f Corticosteroid-free remission is defined as clinical remission at week 52 while off corticosteroids for ≥ 12 weeks.
-
-g Mucosal healing is defined as both Mayo endoscopic score ≤ 1 without friability and histological remission (Geboes score
-
-&lt; 2.0, indicating no neutrophils in the epithelial crypts or lamina propria, no increase in eosinophils, and no crypt destruction, erosions, ulcerations, or granulation tissue)
-
-h Durable clinical remission is defined as clinical remission at week 10 and at week 52 in all subjects who entered the maintenance period.
-
-i p &lt; 0.0001.
-
-j p &lt; 0.001.
-
-k p = 0.0025.
-
-l  p = 0.0030
-
 ## Steroid free mucosal healing and steroid-free (2-component) symptomatic remission
 
 A significantly greater proportion of patients continuously treated with ozanimod 0.92 mg vs rerandomised to placebo achieved corticosteroid-free (at least 12 weeks) symptomatic remission (42.2%
@@ -718,7 +664,7 @@ Histologic remission (defined as Geboes index score &lt; 2.0 points), was assess
 
 ## Long-term data
 
-Patients who did not achieve clinical response at the end of the induction period, lost response in the maintenance period or completed the TRUENORTH study were eligible to enter an open label extension study (OLE) and received ozanimod 0.92 mg. Among patients who entered the OLE, clinical remission, clinical response, endoscopic improvement, and symptomatic remission were generally maintained through week 142. No new safety concerns were identified in this study extension in patients with ulcerative colitis (with a mean treatment duration of 22 months).
+Patients who did not achieve clinical response at the end of the induction period, lost response in the maintenance period or completed the TRUENORTH study were eligible to enter an open label extension study (OLE) and received ozanimod 1 mg once daily to assess the long-term safety and efficacy of ozanimod. In total 878 subjects were enrolled and 877 treated in the OLE study and 284 (32.3%) completed the OLE treatment (week 238) with a median duration of treatment of 35 months up to a maximum of 89 months. Among patients who were clinical responders at OLE entry, clinical outcomes observed at week 46 were generally maintained through week 238. In patients who completed the respective visits, 73% of patients achieved clinical remission at week 46 and 67% maintained it at week 238, 96% achieved clinical response at week 46 and 93% maintained it at week 238. Histologic remission and mucosal healing showed a gradual increase from 41% and 34% at week 46 to 66% and 57% at week 238, respectively. No new safety concerns were identified in this study extension in patients with ulcerative colitis.
 
 ## Paediatric population
 
@@ -734,15 +680,15 @@ The tmax of ozanimod is approximately 6-8 hours. The tmax of CC112273 is approxi
 
 ## Distribution
 
-The mean (CV%) apparent volume of distribution of ozanimod (Vz/F) was 5590 L (27%), indicating extensive tissue distribution. Binding of ozanimod to human plasma proteins is approximately 98.2%. Binding of CC112273 and CC1084037 to human plasma proteins is approximately 99.8% and 99.3%, respectively.
-
-## Biotransformation
-
-Ozanimod is widely metabolised by multiple biotransformation pathways including aldehyde dehydrogenase and alcohol dehydrogenase (ALDH/ADH), cytochrome P450 (CYP) isoforms 3A4 and
+The mean (CV%) apparent volume of distribution of ozanimod (Vz/F) was 5590 L (27%), indicating extensive tissue distribution. Binding of ozanimod to human plasma proteins is approximately 98.2%.
 
 <div style=\"page-break-after: always\"></div>
 
-1A1, and gut microflora and no single enzyme system predominates the overall metabolism. Following repeated dosing, the AUCs of the two major active metabolites CC112273 and CC1084037 exceed the AUC of ozanimod by 13-fold and 2.5-fold, respectively. In vitro studies indicated that MAO-B is responsible for the formation of CC112273 (via an intermediate minor active metabolite RP101075) while CYP2C8 and oxido-reductases are involved in the metabolism of CC112273. CC1084037 is formed directly from CC112273 and undergoes reversible metabolism to CC112273. The interconversion between these 2 active metabolites is mediated by carbonyl reductases (CBR), aldoketo reductase (AKR) 1C1/1C2, and/or 3β -and 11β - hydroxysteroid dehydrogenase (HSD).
+Binding of CC112273 and CC1084037 to human plasma proteins is approximately 99.8% and 99.3%, respectively.
+
+## Biotransformation
+
+Ozanimod is widely metabolised by multiple biotransformation pathways including aldehyde dehydrogenase and alcohol dehydrogenase (ALDH/ADH), cytochrome P450 (CYP) isoforms 3A4 and 1A1, and gut microflora and no single enzyme system predominates the overall metabolism. Following repeated dosing, the AUCs of the two major active metabolites CC112273 and CC1084037 exceed the AUC of ozanimod by 13-fold and 2.5-fold, respectively. In vitro studies indicated that MAO-B is responsible for the formation of CC112273 (via an intermediate minor active metabolite RP101075) while CYP2C8 and oxido-reductases are involved in the metabolism of CC112273. CC1084037 is formed directly from CC112273 and undergoes reversible metabolism to CC112273. The interconversion between these 2 active metabolites is mediated by carbonyl reductases (CBR), aldoketo reductase (AKR) 1C1/1C2, and/or 3β -and 11β - hydroxysteroid dehydrogenase (HSD).
 
 ## Elimination
 
@@ -762,13 +708,13 @@ In a dedicated renal impairment trial, following a single oral dose of 0.23 mg o
 
 In single dose and multiple dose studies in subjects with chronic liver disease, there was no meaningful impact of mild or moderate chronic hepatic impairment (Child-Pugh class A or B) on the pharmacokinetics of ozanimod or the major metabolite CC112273 on Day 1, Day 5, or Day 8 of dosing. After dose escalation in the second trial, administration of 0.92 mg ozanimod resulted in increased CC112273 and CC1084037 mean unbound AUC0-last (measured up to 64 days post-dose) in subjects with mild or moderate chronic hepatic impairment of 99.64% to 129.74% relative to healthy control subjects. Patients with mild or moderate chronic hepatic impairment (Child-Pugh class A or B) are recommended to complete the 7-day dose escalation regimen, and then take 0.92 mg once every other day (see section 4.2).
 
+<div style=\"page-break-after: always\"></div>
+
 The pharmacokinetics of ozanimod were not evaluated in patients with severe hepatic impairment. Use in patients with severe hepatic impairment is contraindicated (Child-Pugh class C) (see section 4.3).
 
 ## Elderly
 
 Population pharmacokinetic analysis showed that steady state exposure (AUC) of CC112273 in patients over 65 years of age were approximately 3 - 4% greater than patients 45 - 65 years of age and 27% greater than adult patients under 45 years of age. There is not a meaningful difference in the pharmacokinetics in elderly patients.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -792,11 +738,11 @@ No other treatment-related tumours were present at any dose in the Tg.rasH2 mous
 
 Ozanimod had no effect on male and female fertility up to approximately 150-fold the systemic exposure to total active substances (combined ozanimod and the metabolites CC112273 and CC1084037) at the maximum human dose of 0.92 mg ozanimod.
 
+<div style=\"page-break-after: always\"></div>
+
 Embryofoetal development was adversely affected by maternal treatment with ozanimod, with low (rats) or no (rabbits) safety margins based on comparison of systemic exposures to total active substances, resulting in embryolethality and teratogenicity (generalised oedema/anasarca and malpositioned testes in rats, malpositioned caudal vertebrae and malformations of the great vessels in rabbits). The vascular findings in rats and rabbits are consistent with the expected S1P1 pharmacology.
 
 Pre- and post-natal development was not affected by ozanimod administration up to the 5.6-fold the systemic exposure to total active substances at the maximum human dose of 0.92 mg ozanimod. Ozanimod and metabolites were present in rat milk.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -814,9 +760,7 @@ Zeposia 0.92 mg Gelatin Titanium dioxide (E171) Yellow iron oxide (E172) Red iro
 
 ## Printing ink
 
-Concentrated ammonia solution(E527)
-
-Shellac (E904) Iron oxide black (E172) Propylene glycol (E1520) Potassium hydroxide (E525)
+Shellac (E904) Iron oxide black (E172) Propylene glycol (E1520) Concentrated ammonia solution(E527) Potassium hydroxide (E525)
 
 ## 6.2 Incompatibilities
 
@@ -830,6 +774,8 @@ Not applicable.
 
 Do not store above 25°C.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.5 Nature and contents of container
 
 Polyvinyl chloride (pVC)/polychlorotrifluoroethylene (PCTFE)/aluminium foil blisters.
@@ -837,8 +783,6 @@ Polyvinyl chloride (pVC)/polychlorotrifluoroethylene (PCTFE)/aluminium foil blis
 Treatment initiation pack: Zeposia 0.23 mg and 0.46 mg
 
 Pack size of 7 hard capsules (4 x 0.23 mg, 3 x 0.46 mg).
-
-<div style=\"page-break-after: always\"></div>
 
 Maintenance pack: Zeposia 0.92 mg
 
@@ -862,13 +806,15 @@ EU/1/20/1442/001 (Pack size of 7 hard capsules)
 
 Maintenance pack - Zeposia 0.92 mg hard capsules
 
-EU/1/20/1442/002 (Pack size of 28 hard capsules) EU/1/20/1442/003 (Pack size of 98 hard capsules)
+EU/1/20/1442/002 (Pack size of 28 hard capsules)
+
+EU/1/20/1442/003 (Pack size of 98 hard capsules)
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 20 May 2020
 
-Date of latest renewal:
+Date of latest renewal: 24 March 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -939,7 +885,6 @@ The Healthcare Professional checklist shall contain the following key messages:
 - o more than 7 consecutive days between Day 15 and Day 28 of treatment.
 - o more than 14 consecutive days after Day 28 of treatment.
 - If the treatment interruption is of shorter duration than the above, the treatment should be continued with the next dose as planned.
-- •
 - Monitoring requirements at treatment initiation: Before first dose
 - o Perform baseline electrocardiogram (ECG) prior to the first dose of ozanimod;
 - o Consider recent (within last 6 months) liver function test results for transaminase and bilirubin levels;
@@ -1201,7 +1146,7 @@ See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Hard capsule
+## Hard capsule
 
 28 hard capsules
 
@@ -1245,11 +1190,9 @@ EU/1/20/1442/002 (Pack size of 28 hard capsules) EU/1/20/1442/003 (Pack size of 
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Zeposia 0.92 mg
 
@@ -1560,21 +1503,20 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 - The active substance is ozanimod.
 - -Zeposia 0.23 mg hard capsules Each hard capsule contains 0.23 mg of ozanimod (as hydrochloride).
-- -Zeposia 0.46 mg hard capsules
-- Each hard capsule contains 0.46 mg of ozanimod (as hydrochloride).
 - -
-- Zeposia 0.92 mg hard capsules
+- Zeposia 0.46 mg hard capsules
+- Each hard capsule contains 0.46 mg of ozanimod (as hydrochloride).
+- -Zeposia 0.92 mg hard capsules
 - Each hard capsule contains 0.92 mg of ozanimod (as hydrochloride).
 - The other ingredients are
 - -Capsule content:
 
 Microcrystalline cellulose, colloidal anhydrous silica, croscarmellose sodium, magnesium stearate.
 
-- -Capsule shell:
--  Each 0.23 mg capsule contains gelatin, titanium dioxide (E171), yellow iron oxide (E172), black iron oxide (E172) and red iron oxide (E172).
-
 <div style=\"page-break-after: always\"></div>
 
+- -Capsule shell:
+-  Each 0.23 mg capsule contains gelatin, titanium dioxide (E171), yellow iron oxide (E172), black iron oxide (E172) and red iron oxide (E172).
 -  Each 0.46 mg capsule contains gelatin, titanium dioxide (E171), yellow iron oxide (E172), black iron oxide (E172) and red iron oxide (E172).
 -  Each 0.92 mg capsule contains gelatin, titanium dioxide (E171), yellow iron oxide (E172) and red iron oxide (E172).
 - -Printing ink: iron oxide black (E172), Shellac (E904), propylene glycol (E1520), concentrated ammonia solution (E527), potassium hydroxide (E525)
@@ -1594,9 +1536,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Bristol-Myers Squibb Pharma EEIG Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867
-
-Ireland
+Bristol-Myers Squibb Pharma EEIG Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
 
 ## Manufacturer
 
@@ -1610,9 +1550,7 @@ N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.be
 
 ## България
 
-Swixx Biopharma EOOD
-
-Teл.: + 359 2 4942 480
+Swixx Biopharma EOOD Teл.: + 359 2 4942 480
 
 medinfo.bulgaria@swixxbiopharma.com
 
@@ -1620,7 +1558,9 @@ medinfo.bulgaria@swixxbiopharma.com
 
 Bristol-Myers Squibb spol. s r.o. Tel: + 420 221 016 111 medinfo.czech@bms.com
 
-Lietuva Swixx Biopharma UAB Tel: + 370 52 369140 medinfo.lithuania@swixxbiopharma.com
+Lietuva Swixx Biopharma UAB Tel: + 370 52 369140
+
+medinfo.lithuania@swixxbiopharma.com
 
 ## Luxembourg/Luxemburg
 
@@ -1632,9 +1572,9 @@ Bristol-Myers Squibb Kft. Tel.: + 36 1 301 9797 Medinfo.hungary@bms.com
 
 <div style=\"page-break-after: always\"></div>
 
-Danmark
+Danmark Bristol-Myers Squibb Denmark Tlf: + 45 45 93 05 06
 
-Bristol-Myers Squibb Denmark Tlf: + 45 45 93 05 06 medinfo.denmark@bms.com
+medinfo.denmark@bms.com
 
 Deutschland Bristol-Myers Squibb GmbH &amp; Co. KGaA Tel: 0800 0752002 (+ 49 89 121 42 350) medwiss.info@bms.com
 
@@ -1642,17 +1582,17 @@ Eesti Swixx Biopharma OÜ Tel: + 372 640 1030
 
 medinfo.estonia@swixxbiopharma.com
 
-Ελλάδα Bristol-Myers Squibb A.E. Τηλ: + 30 210 6074300 medinfo.greece@bms.com
+Ελλάδα Bristol-Myers Squibb A.E. Τηλ: + 30 210 6074300
 
-España
+medinfo.greece@bms.com
 
-Bristol-Myers Squibb, S.A.
-
-Tel: + 34 91 456 53 00
+España Bristol-Myers Squibb, S.A. Tel: + 34 91 456 53 00
 
 informacion.medica@bms.com
 
-France Bristol-Myers Squibb SAS Tél: + 33 (0)1 58 83 84 96 infomed@bms.com
+France Bristol-Myers Squibb SAS Tél: + 33 (0)1 58 83 84 96
+
+infomed@bms.com
 
 Hrvatska
 
@@ -1660,9 +1600,9 @@ Swixx Biopharma d.o.o. Tel: + 385 1 2078 500 medinfo.croatia@swixxbiopharma.com
 
 Ireland Bristol-Myers Squibb Pharmaceuticals uc Tel: 1 800 749 749 (+ 353 (0)1 483 3625) medical.information@bms.com
 
-Ísland Vistor ehf.
+Ísland Vistor ehf. Sími: + 354 535 7000
 
-Sími: + 354 535 7000 medical.information@bms.com
+medical.information@bms.com
 
 Italia Bristol-Myers Squibb S.r.l. Tel: + 39 06 50 39 61 medicalinformation.italia@bms.com
 
@@ -1670,11 +1610,11 @@ Malta A.M. Mangion Ltd Tel: + 356 23976333
 
 pv@ammangion.com
 
-Nederland
+Nederland Bristol-Myers Squibb B.V. Tel: + 31 (0)30 300 2222 medischeafdeling@bms.com
 
-Bristol-Myers Squibb B.V. Tel: + 31 (0)30 300 2222 medischeafdeling@bms.com
+Norge
 
-Norge Bristol-Myers Squibb Norway AS Tlf: + 47 67 55 53 50 medinfo.norway@bms.com
+Bristol-Myers Squibb Norway AS Tlf: + 47 67 55 53 50 medinfo.norway@bms.com
 
 ## Österreich
 
@@ -1682,19 +1622,27 @@ Bristol-Myers Squibb GesmbH Tel: + 43 1 60 14 30
 
 medinfo.austria@bms.com
 
-Polska Bristol-Myers Squibb Polska Sp. z o.o. Tel.: + 48 22 2606400 informacja.medyczna@bms.com
+Polska
+
+Bristol-Myers Squibb Polska Sp. z o.o. Tel.: + 48 22 2606400
+
+informacja.medyczna@bms.com
 
 Portugal Bristol-Myers Squibb Farmacêutica Portuguesa, S.A. Tel: + 351 21 440 70 00 portugal.medinfo@bms.com
 
 România Bristol-Myers Squibb Marketing Services S.R.L. Tel: + 40 (0)21 272 16 19 medinfo.romania@bms.com
 
-Slovenija
+Slovenija Swixx Biopharma d.o.o. Tel: + 386 1 2355 100
 
-Swixx Biopharma d.o.o. Tel: + 386 1 2355 100 medinfo.slovenia@swixxbiopharma.com
+medinfo.slovenia@swixxbiopharma.com
 
-Slovenská republika Swixx Biopharma s.r.o. Tel: + 421 2 20833 600 medinfo.slovakia@swixxbiopharma.com
+Slovenská republika
+
+Swixx Biopharma s.r.o. Tel: + 421 2 20833 600 medinfo.slovakia@swixxbiopharma.com
 
 Suomi/Finland Oy Bristol-Myers Squibb (Finland) Ab Puh/Tel: + 358 9 251 21 230 medinfo.finland@bms.com
+
+48
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1704,9 +1652,9 @@ Bristol-Myers Squibb A.E. Τηλ: 800 92666 (+ 30 210 6074300)
 
 medinfo.greece@bms.com
 
-Latvija Swixx Biopharma SIA Tel: + 371 66164750
+Latvija
 
-medinfo.latvia@swixxbiopharma.com
+Swixx Biopharma SIA Tel: + 371 66164750 medinfo.latvia@swixxbiopharma.com
 
 ## This leaflet was last revised in
 
@@ -1717,25 +1665,3 @@ Detailed information on this medicine is available on the European Medicines Age
 Detailed information on this medicine is also available by scanning the QR code on the outer packaging with a smartphone. The same information is available on the following URL: www.zeposia-eu-pil.com.
 
 Sverige Bristol-Myers Squibb Aktiebolag Tel: + 46 8 704 71 00 medinfo.sweden@bms.com
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for ozanimod, the scientific conclusions of PRAC are as follows:
-
-In view of available data on Immune Reconstitution Inflammatory syndrome (IRIS syndrome) from the literature and in view of a plausible mechanism of action, the PRAC considers a causal relationship between ozanimod and IRIS is at least a reasonable possibility. The PRAC concluded that the product information of products containing ozanimod should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for ozanimod the CHMP is of the opinion that the benefitrisk balance of the medicinal product(s) containing ozanimod is unchanged subject to the proposed changes to the product information
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

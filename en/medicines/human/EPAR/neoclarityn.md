@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:48:15
+document_datetime: 2026-03-02 12:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/neoclarityn.html
 document_name: neoclarityn.html
 version: success
-processing_time: 0.1222857
-conversion_datetime: 2025-12-30 10:55:04.263459
+processing_time: 0.103042
+conversion_datetime: 2026-03-05 11:56:02.094499
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Neoclarityn
 
 [RSS](/en/individual-human-medicine.xml/65887)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 desloratadine Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +109,7 @@ English (EN) (75.37 KB - PDF)
 
 [View](/en/documents/overview/neoclarityn-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-651)
+[Other languages (22)](#file-language-dropdown-717)
 
 български (BG) (103.78 KB - PDF)
 
@@ -389,17 +387,17 @@ English (EN) (1.86 MB - PDF)
 
 Neoclarityn : EPAR - Product Information
 
-English (EN) (315 KB - PDF)
+English (EN) (397.58 KB - PDF)
 
 **First published:** 02/04/2009
 
-**Last updated:** 05/03/2025
+**Last updated:** 02/03/2026
 
 [View](/en/documents/product-information/neoclarityn-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-789)
+[Other languages (24)](#file-language-dropdown-442)
 
-български (BG) (417.31 KB - PDF)
+български (BG) (495.82 KB - PDF)
 
 **First published:**
 
@@ -407,11 +405,11 @@ English (EN) (315 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/bg/documents/product-information/neoclarityn-epar-product-information_bg.pdf)
 
-español (ES) (318.84 KB - PDF)
+español (ES) (405.81 KB - PDF)
 
 **First published:**
 
@@ -419,11 +417,11 @@ español (ES) (318.84 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/es/documents/product-information/neoclarityn-epar-product-information_es.pdf)
 
-čeština (CS) (375.77 KB - PDF)
+čeština (CS) (458.98 KB - PDF)
 
 **First published:**
 
@@ -431,11 +429,11 @@ español (ES) (318.84 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/cs/documents/product-information/neoclarityn-epar-product-information_cs.pdf)
 
-dansk (DA) (313.09 KB - PDF)
+dansk (DA) (392.94 KB - PDF)
 
 **First published:**
 
@@ -443,11 +441,11 @@ dansk (DA) (313.09 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/da/documents/product-information/neoclarityn-epar-product-information_da.pdf)
 
-Deutsch (DE) (328.6 KB - PDF)
+Deutsch (DE) (415.85 KB - PDF)
 
 **First published:**
 
@@ -455,11 +453,11 @@ Deutsch (DE) (328.6 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/de/documents/product-information/neoclarityn-epar-product-information_de.pdf)
 
-eesti keel (ET) (324.97 KB - PDF)
+eesti keel (ET) (406.08 KB - PDF)
 
 **First published:**
 
@@ -467,11 +465,11 @@ eesti keel (ET) (324.97 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/et/documents/product-information/neoclarityn-epar-product-information_et.pdf)
 
-ελληνικά (EL) (446.38 KB - PDF)
+ελληνικά (EL) (529.77 KB - PDF)
 
 **First published:**
 
@@ -479,11 +477,11 @@ eesti keel (ET) (324.97 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/el/documents/product-information/neoclarityn-epar-product-information_el.pdf)
 
-français (FR) (342.34 KB - PDF)
+français (FR) (347.02 KB - PDF)
 
 **First published:**
 
@@ -491,11 +489,11 @@ français (FR) (342.34 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/fr/documents/product-information/neoclarityn-epar-product-information_fr.pdf)
 
-hrvatski (HR) (375.96 KB - PDF)
+hrvatski (HR) (456.18 KB - PDF)
 
 **First published:**
 
@@ -503,11 +501,11 @@ hrvatski (HR) (375.96 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/hr/documents/product-information/neoclarityn-epar-product-information_hr.pdf)
 
-íslenska (IS) (310.96 KB - PDF)
+íslenska (IS) (392.78 KB - PDF)
 
 **First published:**
 
@@ -515,11 +513,11 @@ hrvatski (HR) (375.96 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/is/documents/product-information/neoclarityn-epar-product-information_is.pdf)
 
-italiano (IT) (334.99 KB - PDF)
+italiano (IT) (416.57 KB - PDF)
 
 **First published:**
 
@@ -527,11 +525,11 @@ italiano (IT) (334.99 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/it/documents/product-information/neoclarityn-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (418.22 KB - PDF)
+latviešu valoda (LV) (415.99 KB - PDF)
 
 **First published:**
 
@@ -539,11 +537,11 @@ latviešu valoda (LV) (418.22 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/lv/documents/product-information/neoclarityn-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (371.84 KB - PDF)
+lietuvių kalba (LT) (374.26 KB - PDF)
 
 **First published:**
 
@@ -551,11 +549,11 @@ lietuvių kalba (LT) (371.84 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/lt/documents/product-information/neoclarityn-epar-product-information_lt.pdf)
 
-magyar (HU) (414.42 KB - PDF)
+magyar (HU) (509.76 KB - PDF)
 
 **First published:**
 
@@ -563,11 +561,11 @@ magyar (HU) (414.42 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/hu/documents/product-information/neoclarityn-epar-product-information_hu.pdf)
 
-Malti (MT) (449.91 KB - PDF)
+Malti (MT) (551.25 KB - PDF)
 
 **First published:**
 
@@ -575,11 +573,11 @@ Malti (MT) (449.91 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/mt/documents/product-information/neoclarityn-epar-product-information_mt.pdf)
 
-Nederlands (NL) (318.98 KB - PDF)
+Nederlands (NL) (397.83 KB - PDF)
 
 **First published:**
 
@@ -587,11 +585,11 @@ Nederlands (NL) (318.98 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/nl/documents/product-information/neoclarityn-epar-product-information_nl.pdf)
 
-norsk (NO) (320.96 KB - PDF)
+norsk (NO) (463.3 KB - PDF)
 
 **First published:**
 
@@ -599,11 +597,11 @@ norsk (NO) (320.96 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/no/documents/product-information/neoclarityn-epar-product-information_no.pdf)
 
-polski (PL) (393.18 KB - PDF)
+polski (PL) (480.83 KB - PDF)
 
 **First published:**
 
@@ -611,11 +609,11 @@ polski (PL) (393.18 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/pl/documents/product-information/neoclarityn-epar-product-information_pl.pdf)
 
-português (PT) (320.54 KB - PDF)
+português (PT) (314.5 KB - PDF)
 
 **First published:**
 
@@ -623,11 +621,11 @@ português (PT) (320.54 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/pt/documents/product-information/neoclarityn-epar-product-information_pt.pdf)
 
-română (RO) (376.57 KB - PDF)
+română (RO) (576 KB - PDF)
 
 **First published:**
 
@@ -635,11 +633,11 @@ română (RO) (376.57 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/ro/documents/product-information/neoclarityn-epar-product-information_ro.pdf)
 
-slovenčina (SK) (394.54 KB - PDF)
+slovenčina (SK) (475.46 KB - PDF)
 
 **First published:**
 
@@ -647,11 +645,11 @@ slovenčina (SK) (394.54 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/sk/documents/product-information/neoclarityn-epar-product-information_sk.pdf)
 
-slovenščina (SL) (372.07 KB - PDF)
+slovenščina (SL) (456.88 KB - PDF)
 
 **First published:**
 
@@ -659,11 +657,11 @@ slovenščina (SL) (372.07 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/sl/documents/product-information/neoclarityn-epar-product-information_sl.pdf)
 
-Suomi (FI) (310.71 KB - PDF)
+Suomi (FI) (387.68 KB - PDF)
 
 **First published:**
 
@@ -671,11 +669,11 @@ Suomi (FI) (310.71 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/fi/documents/product-information/neoclarityn-epar-product-information_fi.pdf)
 
-svenska (SV) (309.82 KB - PDF)
+svenska (SV) (385.64 KB - PDF)
 
 **First published:**
 
@@ -683,11 +681,11 @@ svenska (SV) (309.82 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/sv/documents/product-information/neoclarityn-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** WS2804/G 13/02/2025
+**Latest procedure affecting product information:** VR/0000312765 26/02/2026
 
 icon globe
 
@@ -713,7 +711,7 @@ English (EN) (62.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/neoclarityn-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-548)
+[Other languages (24)](#file-language-dropdown-414)
 
 български (BG) (56.23 KB - PDF)
 
@@ -1028,11 +1026,11 @@ Neoclarityn is indicated for the relief of symptoms associated with:
 
 EMA product number EMEA/H/C/000314 Marketing authorisation holder
 
-N.V. Organon
+Organon N.V.
 
 Kloosterstraat 6
 
-Opinion adopted 21/09/2000 Marketing authorisation issued 15/01/2001 Revision 48
+Opinion adopted 21/09/2000 Marketing authorisation issued 15/01/2001 Revision 49
 
 ## Assessment history
 
@@ -1044,13 +1042,21 @@ Collapse section
 
 Neoclarityn : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (151.84 KB - PDF)
+
+**First published:** 02/03/2026
+
+[View](/en/documents/procedural-steps-after/neoclarityn-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Neoclarityn : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (159.34 KB - PDF)
 
 **First published:** 02/04/2009
 
-**Last updated:** 05/03/2025
+**Last updated:** 02/03/2026
 
-[View](/en/documents/procedural-steps-after/neoclarityn-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/neoclarityn-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Neoclarityn-H-C-PSUSA-00000962-202107 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1186,11 +1192,11 @@ English (EN) (90.28 KB - PDF)
 
 [View](/en/documents/procedural-steps/neoclarityn-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 05/03/2025
+**This page was last updated on** 02/03/2026
 
 ## Share this page
 

@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:40:19
+document_datetime: 2026-03-02 12:14:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aerius.html
 document_name: aerius.html
 version: success
-processing_time: 0.1236775
-conversion_datetime: 2025-12-30 08:52:54.10123
+processing_time: 0.1128888
+conversion_datetime: 2026-03-05 11:44:20.456887
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.1
+  docling-jobkit: 1.13.0
+  docling: 2.76.0
+  docling-core: 2.66.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.4.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
 ---
 # Aerius
 
 [RSS](/en/individual-human-medicine.xml/66206)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 desloratadine Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +107,7 @@ English (EN) (75 KB - PDF)
 
 [View](/en/documents/overview/aerius-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-760)
+[Other languages (22)](#file-language-dropdown-364)
 
 български (BG) (124.32 KB - PDF)
 
@@ -387,17 +385,17 @@ English (EN) (1.86 MB - PDF)
 
 Aerius : EPAR - Product information
 
-English (EN) (315.99 KB - PDF)
+English (EN) (396.08 KB - PDF)
 
 **First published:** 26/06/2009
 
-**Last updated:** 05/03/2025
+**Last updated:** 02/03/2026
 
 [View](/en/documents/product-information/aerius-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-67)
+[Other languages (24)](#file-language-dropdown-346)
 
-български (BG) (408.09 KB - PDF)
+български (BG) (486.74 KB - PDF)
 
 **First published:**
 
@@ -405,11 +403,11 @@ English (EN) (315.99 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/bg/documents/product-information/aerius-epar-product-information_bg.pdf)
 
-español (ES) (324.91 KB - PDF)
+español (ES) (412.21 KB - PDF)
 
 **First published:**
 
@@ -417,11 +415,11 @@ español (ES) (324.91 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/es/documents/product-information/aerius-epar-product-information_es.pdf)
 
-čeština (CS) (402.97 KB - PDF)
+čeština (CS) (486.02 KB - PDF)
 
 **First published:**
 
@@ -429,11 +427,11 @@ español (ES) (324.91 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/cs/documents/product-information/aerius-epar-product-information_cs.pdf)
 
-dansk (DA) (342.16 KB - PDF)
+dansk (DA) (422.83 KB - PDF)
 
 **First published:**
 
@@ -441,11 +439,11 @@ dansk (DA) (342.16 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/da/documents/product-information/aerius-epar-product-information_da.pdf)
 
-Deutsch (DE) (329.05 KB - PDF)
+Deutsch (DE) (415.84 KB - PDF)
 
 **First published:**
 
@@ -453,11 +451,11 @@ Deutsch (DE) (329.05 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/de/documents/product-information/aerius-epar-product-information_de.pdf)
 
-eesti keel (ET) (322.67 KB - PDF)
+eesti keel (ET) (405.21 KB - PDF)
 
 **First published:**
 
@@ -465,11 +463,11 @@ eesti keel (ET) (322.67 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/et/documents/product-information/aerius-epar-product-information_et.pdf)
 
-ελληνικά (EL) (407.55 KB - PDF)
+ελληνικά (EL) (497.57 KB - PDF)
 
 **First published:**
 
@@ -477,11 +475,11 @@ eesti keel (ET) (322.67 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/el/documents/product-information/aerius-epar-product-information_el.pdf)
 
-français (FR) (378.29 KB - PDF)
+français (FR) (373.51 KB - PDF)
 
 **First published:**
 
@@ -489,11 +487,11 @@ français (FR) (378.29 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/fr/documents/product-information/aerius-epar-product-information_fr.pdf)
 
-hrvatski (HR) (376.17 KB - PDF)
+hrvatski (HR) (457.44 KB - PDF)
 
 **First published:**
 
@@ -501,11 +499,11 @@ hrvatski (HR) (376.17 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/hr/documents/product-information/aerius-epar-product-information_hr.pdf)
 
-íslenska (IS) (313.38 KB - PDF)
+íslenska (IS) (395.63 KB - PDF)
 
 **First published:**
 
@@ -513,11 +511,11 @@ hrvatski (HR) (376.17 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/is/documents/product-information/aerius-epar-product-information_is.pdf)
 
-italiano (IT) (334.26 KB - PDF)
+italiano (IT) (416.35 KB - PDF)
 
 **First published:**
 
@@ -525,11 +523,11 @@ italiano (IT) (334.26 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/it/documents/product-information/aerius-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (403.13 KB - PDF)
+latviešu valoda (LV) (397.34 KB - PDF)
 
 **First published:**
 
@@ -537,11 +535,11 @@ latviešu valoda (LV) (403.13 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/lv/documents/product-information/aerius-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (392.77 KB - PDF)
+lietuvių kalba (LT) (394.44 KB - PDF)
 
 **First published:**
 
@@ -549,11 +547,11 @@ lietuvių kalba (LT) (392.77 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/lt/documents/product-information/aerius-epar-product-information_lt.pdf)
 
-magyar (HU) (383.63 KB - PDF)
+magyar (HU) (471.46 KB - PDF)
 
 **First published:**
 
@@ -561,11 +559,11 @@ magyar (HU) (383.63 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/hu/documents/product-information/aerius-epar-product-information_hu.pdf)
 
-Malti (MT) (440.66 KB - PDF)
+Malti (MT) (541.15 KB - PDF)
 
 **First published:**
 
@@ -573,11 +571,11 @@ Malti (MT) (440.66 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/mt/documents/product-information/aerius-epar-product-information_mt.pdf)
 
-Nederlands (NL) (322.29 KB - PDF)
+Nederlands (NL) (402.32 KB - PDF)
 
 **First published:**
 
@@ -585,11 +583,11 @@ Nederlands (NL) (322.29 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/nl/documents/product-information/aerius-epar-product-information_nl.pdf)
 
-norsk (NO) (323.9 KB - PDF)
+norsk (NO) (464.87 KB - PDF)
 
 **First published:**
 
@@ -597,11 +595,11 @@ norsk (NO) (323.9 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/no/documents/product-information/aerius-epar-product-information_no.pdf)
 
-polski (PL) (401.62 KB - PDF)
+polski (PL) (487.95 KB - PDF)
 
 **First published:**
 
@@ -609,11 +607,11 @@ polski (PL) (401.62 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/pl/documents/product-information/aerius-epar-product-information_pl.pdf)
 
-português (PT) (352.15 KB - PDF)
+português (PT) (425.87 KB - PDF)
 
 **First published:**
 
@@ -621,11 +619,11 @@ português (PT) (352.15 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/pt/documents/product-information/aerius-epar-product-information_pt.pdf)
 
-română (RO) (377.01 KB - PDF)
+română (RO) (499.83 KB - PDF)
 
 **First published:**
 
@@ -633,11 +631,11 @@ română (RO) (377.01 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/ro/documents/product-information/aerius-epar-product-information_ro.pdf)
 
-slovenčina (SK) (391.89 KB - PDF)
+slovenčina (SK) (471.53 KB - PDF)
 
 **First published:**
 
@@ -645,11 +643,11 @@ slovenčina (SK) (391.89 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/sk/documents/product-information/aerius-epar-product-information_sk.pdf)
 
-slovenščina (SL) (373.94 KB - PDF)
+slovenščina (SL) (458.47 KB - PDF)
 
 **First published:**
 
@@ -657,11 +655,11 @@ slovenščina (SL) (373.94 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/sl/documents/product-information/aerius-epar-product-information_sl.pdf)
 
-Suomi (FI) (311.12 KB - PDF)
+Suomi (FI) (389.24 KB - PDF)
 
 **First published:**
 
@@ -669,11 +667,11 @@ Suomi (FI) (311.12 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/fi/documents/product-information/aerius-epar-product-information_fi.pdf)
 
-svenska (SV) (305.34 KB - PDF)
+svenska (SV) (386.16 KB - PDF)
 
 **First published:**
 
@@ -681,11 +679,11 @@ svenska (SV) (305.34 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+02/03/2026
 
 [View](/sv/documents/product-information/aerius-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** WS2804/G 13/02/2025
+**Latest procedure affecting product information:** VR/0000312765 26/02/2026
 
 icon globe
 
@@ -711,7 +709,7 @@ English (EN) (47.76 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/aerius-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-926)
+[Other languages (24)](#file-language-dropdown-219)
 
 български (BG) (53.43 KB - PDF)
 
@@ -1026,11 +1024,11 @@ Aerius is indicated for the relief of symptoms associated with:
 
 EMA product number EMEA/H/C/000313 Marketing authorisation holder
 
-N.V. Organon
+Organon N.V.
 
 Kloosterstraat 6
 
-Opinion adopted 21/09/2000 Marketing authorisation issued 15/01/2001 Revision 52
+Opinion adopted 21/09/2000 Marketing authorisation issued 15/01/2001 Revision 53
 
 ## Assessment history
 
@@ -1042,13 +1040,21 @@ Collapse section
 
 Aerius : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (151.78 KB - PDF)
+
+**First published:** 02/03/2026
+
+[View](/en/documents/procedural-steps-after/aerius-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Aerius : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (160.94 KB - PDF)
 
 **First published:** 01/04/2009
 
-**Last updated:** 05/03/2025
+**Last updated:** 02/03/2026
 
-[View](/en/documents/procedural-steps-after/aerius-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/aerius-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Aerius-H-C-PSUSA-00000962-202107 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1202,11 +1208,11 @@ English (EN) (92.23 KB - PDF)
 
 [View](/en/documents/procedural-steps/aerius-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 05/03/2025
+**This page was last updated on** 02/03/2026
 
 ## Share this page
 

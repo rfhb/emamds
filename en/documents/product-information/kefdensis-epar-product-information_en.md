@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-05 14:23:05
-document_pages: 38
+document_datetime: 2026-03-04 14:02:27
+document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kefdensis-epar-product-information_en.pdf
 document_name: kefdensis-epar-product-information_en.pdf
 version: success
-processing_time: 8.1280389
-conversion_datetime: 2026-01-06 07:25:29.901577
+processing_time: 9.2876177
+conversion_datetime: 2026-03-09 14:22:50.388997
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.77.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -562,7 +562,7 @@ EU/1/25/1980/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 17   November 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -589,6 +589,10 @@ Name and address of the manufacturer(s) responsible for batch release
 
 Alvotech hf Sæmundargata 15-19 102 Reykjavik Iceland
 
+STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
+
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 Medicinal product subject to medical prescription.
@@ -612,11 +616,13 @@ An updated RMP should be submitted:
 
 ## · Additional risk minimisation measures
 
+<div style=\"page-break-after: always\"></div>
+
 Additional risk minimisation measures are in place for the following safety concern:
 
 - ⦁ Osteonecrosis of the jaw
 
-Patient reminder card
+## Patient reminder card
 
 <div style=\"page-break-after: always\"></div>
 
@@ -704,7 +710,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Kefdensis
 
@@ -716,18 +722,17 @@ Kefdensis
 
 PC SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+<div style=\"page-break-after: always\"></div>
 
-PRE-FILLED SYRINGE LABEL
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
+|-----------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                        |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Kefdensis 60 mg injection denosumab SC
 
@@ -762,7 +767,9 @@ Lot
 
 ## Package leaflet: Information for the user
 
-## Kefdensis 60 mg solution for injection in pre-filled syringe denosumab
+## Kefdensis 60 mg solution for injection in pre-filled syringe
+
+## denosumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -986,6 +993,8 @@ STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
 
 Alvotech hf Sæmundargata 15-19 102 Reykjavik Iceland
 
+STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
@@ -1006,9 +1015,7 @@ Tel: +420 257888111
 
 ## Danmark
 
-STADA Nordic ApS
-
-Tlf: +45 44859999
+STADA Nordic ApS Tlf: +45 44859999
 
 ## Deutschland
 
@@ -1018,31 +1025,17 @@ Tel: +49 61016030
 
 ## Eesti
 
-UAB 'STADA Baltics'
-
-Tel: +372 53072153
+UAB 'STADA Baltics' Tel: +372 53072153
 
 ## Ελλάδα
 
-STADA Arzneimittel AG
-
-Tel: +30 2106664667
+STADA Arzneimittel AG Tel: +30 2106664667
 
 ## España
 
 Laboratorio STADA, S.L.
 
 Tel: +34 934738889
-
-## France
-
-EG LABO - Laboratoires EuroGenerics Tél: +33 146948686
-
-## Hrvatska
-
-STADA d.o.o.
-
-Tel: +385 13764111
 
 ## Lietuva
 
@@ -1056,15 +1049,11 @@ Tél/Tel: +32 24797878
 
 ## Magyarország
 
-STADA Hungary Kft
-
-Tel.: +36 18009747
+STADA Hungary Kft Tel.: +36 18009747
 
 ## Malta
 
-Pharma.MT Ltd.
-
-Tel: + 356 21337008
+Pharma.MT Ltd. Tel: + 356 21337008
 
 ## Nederland
 
@@ -1078,15 +1067,59 @@ STADA Nordic ApS Tlf: +45 44859999
 
 ## Österreich
 
-STADA Arzneimittel GmbH
-
-Tel: +43 136785850
+STADA Arzneimittel GmbH Tel: +43 136785850
 
 ## Polska
 
-STADA Poland Sp. z.o o.
+STADA Poland Sp. z o.o.
 
 Tel: +48 227377920
+
+<div style=\"page-break-after: always\"></div>
+
+## France
+
+EG LABO - Laboratoires EuroGenerics Tél: +33 146948686
+
+## Hrvatska
+
+STADA d.o.o.
+
+Tel: +385 13764111
+
+## Ireland
+
+Clonmel Healthcare Ltd.
+
+Tel: +353 526177777
+
+## Ísland
+
+STADA Arzneimittel AG
+
+Sími: +49 61016030
+
+## Italia
+
+EG SpA Tel: +39 028310371
+
+## Κύπρος
+
+STADA Arzneimittel AG Τηλ: +30 2106664667
+
+## Latvija
+
+UAB 'STADA Baltics' Tel: +371 28016404
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+Detailed information on this medicine, including a video on how to use the pre-filled syringe, is available by scanning the QR code included below or the outer carton with a smartphone. The same information is also available on the following URL: kefdensispatients.com
+
+## QR code to be included
 
 ## Portugal
 
@@ -1100,67 +1133,25 @@ STADA M&amp;D SRL
 
 Tel: +40 213160640
 
-## Ireland
-
-Clonmel Healthcare Ltd.
-
-Tel: +353 526177777
-
 ## Slovenija
 
 Stada d.o.o.
 
 Tel: +386 15896710
 
-## Ísland
+## Slovenská republika
 
-STADA Arzneimittel AG
+STADA PHARMA Slovakia, s.r.o. Tel: +421 252621933
 
-Sími: +49 61016030
-
-Slovenská republika
-
-STADA PHARMA Slovakia, s.r.o.
-
-Tel: +421 252621933
-
-Italia
-
-EG SpA
-
-Tel: +39 028310371
-
-Suomi/Finland
+## Suomi/Finland
 
 STADA Nordic ApS, Suomen sivuliike Puh/Tel: +358 207416888
 
-Κύπρος
-
-STADA Arzneimittel AG Τηλ: +30 2106664667
-
-Sverige
+## Sverige
 
 STADA Nordic ApS
 
 Tel: +45 44859999
-
-Latvija
-
-UAB 'STADA Baltics'
-
-Tel: +371 28016404
-
-<div style=\"page-break-after: always\"></div>
-
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-Detailed information on this medicine, including a video on how to use the pre-filled syringe, is available by scanning the QR code included below or the outer carton with a smartphone. The same information is also available on the following URL: kefdensispatients.com
-
-## QR code to be included
 
 <div style=\"page-break-after: always\"></div>
 

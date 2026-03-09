@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 07:09:48
+document_datetime: 2026-03-05 15:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/toujeo.html
 document_name: toujeo.html
 version: success
-processing_time: 0.137175
-conversion_datetime: 2025-12-30 22:18:17.993791
+processing_time: 0.1267305
+conversion_datetime: 2026-03-09 14:21:56.174845
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.77.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Toujeo (previously Optisulin)
 
 [RSS](/en/individual-human-medicine.xml/66002)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 insulin glargine Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -127,17 +125,17 @@ English (EN) (185.72 KB - PDF)
 
 Toujeo : EPAR - Product Information
 
-English (EN) (1.31 MB - PDF)
+English (EN) (1.71 MB - PDF)
 
 **First published:** 11/05/2009
 
-**Last updated:** 09/07/2025
+**Last updated:** 05/03/2026
 
 [View](/en/documents/product-information/toujeo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-358)
+[Other languages (24)](#file-language-dropdown-696)
 
-български (BG) (1.46 MB - PDF)
+български (BG) (1.79 MB - PDF)
 
 **First published:**
 
@@ -145,7 +143,7 @@ English (EN) (1.31 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/bg/documents/product-information/toujeo-epar-product-information_bg.pdf)
 
@@ -157,11 +155,11 @@ español (ES) (1.4 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/es/documents/product-information/toujeo-epar-product-information_es.pdf)
 
-čeština (CS) (1.6 MB - PDF)
+čeština (CS) (1.85 MB - PDF)
 
 **First published:**
 
@@ -169,11 +167,11 @@ español (ES) (1.4 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/cs/documents/product-information/toujeo-epar-product-information_cs.pdf)
 
-dansk (DA) (1.3 MB - PDF)
+dansk (DA) (1.5 MB - PDF)
 
 **First published:**
 
@@ -181,7 +179,7 @@ dansk (DA) (1.3 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/da/documents/product-information/toujeo-epar-product-information_da.pdf)
 
@@ -193,11 +191,11 @@ Deutsch (DE) (1.67 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/de/documents/product-information/toujeo-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.23 MB - PDF)
+eesti keel (ET) (1.22 MB - PDF)
 
 **First published:**
 
@@ -205,11 +203,11 @@ eesti keel (ET) (1.23 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/et/documents/product-information/toujeo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.8 MB - PDF)
+ελληνικά (EL) (1.78 MB - PDF)
 
 **First published:**
 
@@ -217,11 +215,11 @@ eesti keel (ET) (1.23 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/el/documents/product-information/toujeo-epar-product-information_el.pdf)
 
-français (FR) (1.7 MB - PDF)
+français (FR) (1.68 MB - PDF)
 
 **First published:**
 
@@ -229,11 +227,11 @@ français (FR) (1.7 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/fr/documents/product-information/toujeo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.09 MB - PDF)
+hrvatski (HR) (1.37 MB - PDF)
 
 **First published:**
 
@@ -241,11 +239,11 @@ hrvatski (HR) (1.09 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/hr/documents/product-information/toujeo-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.43 MB - PDF)
+íslenska (IS) (1.42 MB - PDF)
 
 **First published:**
 
@@ -253,11 +251,11 @@ hrvatski (HR) (1.09 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/is/documents/product-information/toujeo-epar-product-information_is.pdf)
 
-italiano (IT) (1.79 MB - PDF)
+italiano (IT) (1.57 MB - PDF)
 
 **First published:**
 
@@ -265,11 +263,11 @@ italiano (IT) (1.79 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/it/documents/product-information/toujeo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.53 MB - PDF)
+latviešu valoda (LV) (1.51 MB - PDF)
 
 **First published:**
 
@@ -277,11 +275,11 @@ latviešu valoda (LV) (1.53 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/lv/documents/product-information/toujeo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.52 MB - PDF)
+lietuvių kalba (LT) (1.5 MB - PDF)
 
 **First published:**
 
@@ -289,11 +287,11 @@ lietuvių kalba (LT) (1.52 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/lt/documents/product-information/toujeo-epar-product-information_lt.pdf)
 
-magyar (HU) (1.73 MB - PDF)
+magyar (HU) (1.7 MB - PDF)
 
 **First published:**
 
@@ -301,11 +299,11 @@ magyar (HU) (1.73 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/hu/documents/product-information/toujeo-epar-product-information_hu.pdf)
 
-Malti (MT) (1.76 MB - PDF)
+Malti (MT) (1.44 MB - PDF)
 
 **First published:**
 
@@ -313,11 +311,11 @@ Malti (MT) (1.76 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/mt/documents/product-information/toujeo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.34 MB - PDF)
+Nederlands (NL) (1.59 MB - PDF)
 
 **First published:**
 
@@ -325,7 +323,7 @@ Nederlands (NL) (1.34 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/nl/documents/product-information/toujeo-epar-product-information_nl.pdf)
 
@@ -337,11 +335,11 @@ norsk (NO) (1.72 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/no/documents/product-information/toujeo-epar-product-information_no.pdf)
 
-polski (PL) (1.7 MB - PDF)
+polski (PL) (1.46 MB - PDF)
 
 **First published:**
 
@@ -349,11 +347,11 @@ polski (PL) (1.7 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/pl/documents/product-information/toujeo-epar-product-information_pl.pdf)
 
-português (PT) (1.39 MB - PDF)
+português (PT) (1.42 MB - PDF)
 
 **First published:**
 
@@ -361,11 +359,11 @@ português (PT) (1.39 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/pt/documents/product-information/toujeo-epar-product-information_pt.pdf)
 
-română (RO) (1.74 MB - PDF)
+română (RO) (1.76 MB - PDF)
 
 **First published:**
 
@@ -373,11 +371,11 @@ română (RO) (1.74 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/ro/documents/product-information/toujeo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.49 MB - PDF)
+slovenčina (SK) (1.44 MB - PDF)
 
 **First published:**
 
@@ -385,11 +383,11 @@ slovenčina (SK) (1.49 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/sk/documents/product-information/toujeo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.53 MB - PDF)
+slovenščina (SL) (1.52 MB - PDF)
 
 **First published:**
 
@@ -397,11 +395,11 @@ slovenščina (SL) (1.53 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/sl/documents/product-information/toujeo-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.32 MB - PDF)
+Suomi (FI) (1.33 MB - PDF)
 
 **First published:**
 
@@ -409,11 +407,11 @@ Suomi (FI) (1.32 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/fi/documents/product-information/toujeo-epar-product-information_fi.pdf)
 
-svenska (SV) (1.38 MB - PDF)
+svenska (SV) (1.45 MB - PDF)
 
 **First published:**
 
@@ -421,11 +419,11 @@ svenska (SV) (1.38 MB - PDF)
 
 **Last updated:**
 
-09/07/2025
+05/03/2026
 
 [View](/sv/documents/product-information/toujeo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000266075 09/07/2025
+**Latest procedure affecting product information:** VR/0000310964 05/03/2026
 
 icon globe
 
@@ -451,7 +449,7 @@ English (EN) (51.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/toujeo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-898)
+[Other languages (24)](#file-language-dropdown-769)
 
 български (BG) (71.57 KB - PDF)
 
@@ -761,7 +759,7 @@ Sanofi-aventis Deutschland GmbH
 
 D-65926 Frankfurt am Main
 
-Opinion adopted 17/02/2000 Marketing authorisation issued 26/06/2000 Revision 37
+Opinion adopted 17/02/2000 Marketing authorisation issued 26/06/2000 Revision 38
 
 ## Assessment history
 
@@ -773,9 +771,11 @@ Collapse section
 
 Toujeo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (142.17 KB - PDF)
+English (EN) (154.46 KB - PDF)
 
 **First published:** 09/07/2025
+
+**Last updated:** 05/03/2026
 
 [View](/en/documents/procedural-steps-after/toujeo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -925,7 +925,7 @@ English (EN) (215.88 KB - PDF)
 
 [View](/en/documents/scientific-discussion/optisulin-epar-scientific-discussion_en.pdf)
 
-#### News on Toujeo (previously Optisulin)
+## News on Toujeo (previously Optisulin)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 October 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-october-2019) 18/10/2019
 
@@ -939,7 +939,7 @@ English (EN) (215.88 KB - PDF)
 
 [European Medicines Agency update on safety of insulin glargine](/en/news/european-medicines-agency-update-safety-insulin-glargine) 29/06/2009
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -951,7 +951,7 @@ English (EN) (2.09 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/toujeo-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-229)
+[Other languages (24)](#file-language-dropdown-647)
 
 български (BG) (1.93 MB - DOCX)
 
@@ -1145,7 +1145,7 @@ svenska (SV) (2.27 MB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/toujeo-epar-product-information-tracked-changes_sv.docx)
 
-#### Preventing medication errors
+## Preventing medication errors
 
 Insulins (high-strength): guidance on prevention of medication errors
 
@@ -1159,7 +1159,7 @@ English (EN) (81.81 KB - PDF)
 
 [View](/en/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-512)
+[Other languages (21)](#file-language-dropdown-61)
 
 español (ES) (87.17 KB - PDF)
 
@@ -1425,15 +1425,15 @@ English (EN) (98.14 KB - PDF)
 
 [View](/en/documents/medicine-qa/outcome-review-new-safety-data-insulin-glargine_en.pdf)
 
-#### More information on Toujeo (previously Optisulin)
+## More information on Toujeo (previously Optisulin)
 
 - [Insulin glargine - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/insulin-glargine-0)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 09/07/2025
+**This page was last updated on** 05/03/2026
 
 ## Share this page
 

@@ -1,32 +1,30 @@
 ---
-document_datetime: 2026-01-05 17:02:00
+document_datetime: 2026-03-04 15:36:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kefdensis.html
 document_name: kefdensis.html
 version: success
-processing_time: 0.1123917
-conversion_datetime: 2026-01-06 07:20:07.808772
+processing_time: 0.1101868
+conversion_datetime: 2026-03-09 13:23:01.752719
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.77.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Kefdensis
 
 [RSS](/en/individual-human-medicine.xml/266960)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 denosumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -38,6 +36,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Kefdensis](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-83954)
 
 - Application under evaluation
 - CHMP opinion
@@ -117,7 +116,7 @@ English (EN) (145.25 KB - PDF)
 
 [View](/en/documents/overview/kefdensis-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-401)
+[Other languages (22)](#file-language-dropdown-6)
 
 български (BG) (161.2 KB - PDF)
 
@@ -307,19 +306,25 @@ English (EN) (571.61 KB - PDF)
 
 Kefdensis : EPAR - Product information
 
-English (EN) (1007.42 KB - PDF)
+English (EN) (1004.75 KB - PDF)
 
 **First published:** 05/01/2026
 
+**Last updated:** 04/03/2026
+
 [View](/en/documents/product-information/kefdensis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-241)
+[Other languages (24)](#file-language-dropdown-904)
 
-български (BG) (1 MB - PDF)
+български (BG) (1.01 MB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+04/03/2026
 
 [View](/bg/documents/product-information/kefdensis-epar-product-information_bg.pdf)
 
@@ -329,101 +334,153 @@ español (ES) (1.05 MB - PDF)
 
 05/01/2026
 
+**Last updated:**
+
+04/03/2026
+
 [View](/es/documents/product-information/kefdensis-epar-product-information_es.pdf)
 
-čeština (CS) (989.3 KB - PDF)
+čeština (CS) (997.63 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+04/03/2026
 
 [View](/cs/documents/product-information/kefdensis-epar-product-information_cs.pdf)
 
-dansk (DA) (957.16 KB - PDF)
+dansk (DA) (959.6 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+04/03/2026
 
 [View](/da/documents/product-information/kefdensis-epar-product-information_da.pdf)
 
-Deutsch (DE) (926.47 KB - PDF)
+Deutsch (DE) (928.32 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+04/03/2026
 
 [View](/de/documents/product-information/kefdensis-epar-product-information_de.pdf)
 
-eesti keel (ET) (937.63 KB - PDF)
+eesti keel (ET) (940.34 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+04/03/2026
 
 [View](/et/documents/product-information/kefdensis-epar-product-information_et.pdf)
 
-ελληνικά (EL) (997.23 KB - PDF)
+ελληνικά (EL) (1000.29 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+04/03/2026
 
 [View](/el/documents/product-information/kefdensis-epar-product-information_el.pdf)
 
-français (FR) (992.95 KB - PDF)
+français (FR) (995.6 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+04/03/2026
 
 [View](/fr/documents/product-information/kefdensis-epar-product-information_fr.pdf)
 
-hrvatski (HR) (989.55 KB - PDF)
+hrvatski (HR) (992.57 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+04/03/2026
 
 [View](/hr/documents/product-information/kefdensis-epar-product-information_hr.pdf)
 
-íslenska (IS) (880.7 KB - PDF)
+íslenska (IS) (882.99 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+04/03/2026
 
 [View](/is/documents/product-information/kefdensis-epar-product-information_is.pdf)
 
-italiano (IT) (886.48 KB - PDF)
+italiano (IT) (887.56 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+04/03/2026
 
 [View](/it/documents/product-information/kefdensis-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1001.23 KB - PDF)
+latviešu valoda (LV) (1003.44 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+04/03/2026
 
 [View](/lv/documents/product-information/kefdensis-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (864.49 KB - PDF)
+lietuvių kalba (LT) (1007.38 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+04/03/2026
 
 [View](/lt/documents/product-information/kefdensis-epar-product-information_lt.pdf)
 
-magyar (HU) (1.02 MB - PDF)
+magyar (HU) (1.03 MB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+04/03/2026
 
 [View](/hu/documents/product-information/kefdensis-epar-product-information_hu.pdf)
 
@@ -433,79 +490,121 @@ Malti (MT) (1.12 MB - PDF)
 
 05/01/2026
 
+**Last updated:**
+
+04/03/2026
+
 [View](/mt/documents/product-information/kefdensis-epar-product-information_mt.pdf)
 
-Nederlands (NL) (976.59 KB - PDF)
+Nederlands (NL) (978.8 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+04/03/2026
 
 [View](/nl/documents/product-information/kefdensis-epar-product-information_nl.pdf)
 
-norsk (NO) (956.65 KB - PDF)
+norsk (NO) (959.49 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+04/03/2026
 
 [View](/no/documents/product-information/kefdensis-epar-product-information_no.pdf)
 
-polski (PL) (990.27 KB - PDF)
+polski (PL) (992.47 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+04/03/2026
 
 [View](/pl/documents/product-information/kefdensis-epar-product-information_pl.pdf)
 
-português (PT) (963.21 KB - PDF)
+português (PT) (966.1 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+04/03/2026
 
 [View](/pt/documents/product-information/kefdensis-epar-product-information_pt.pdf)
 
-română (RO) (958.86 KB - PDF)
+română (RO) (961.88 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+04/03/2026
 
 [View](/ro/documents/product-information/kefdensis-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1010.82 KB - PDF)
+slovenčina (SK) (1013.47 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+04/03/2026
 
 [View](/sk/documents/product-information/kefdensis-epar-product-information_sk.pdf)
 
-slovenščina (SL) (944.31 KB - PDF)
+slovenščina (SL) (947.01 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+04/03/2026
 
 [View](/sl/documents/product-information/kefdensis-epar-product-information_sl.pdf)
 
-Suomi (FI) (940.18 KB - PDF)
+Suomi (FI) (942.78 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+04/03/2026
 
 [View](/fi/documents/product-information/kefdensis-epar-product-information_fi.pdf)
 
-svenska (SV) (972.63 KB - PDF)
+svenska (SV) (974.93 KB - PDF)
 
 **First published:**
 
 05/01/2026
 
+**Last updated:**
+
+04/03/2026
+
 [View](/sv/documents/product-information/kefdensis-epar-product-information_sv.pdf)
+
+**Latest procedure affecting product information:** VR/0000334923 04/03/2026
 
 icon globe
 
@@ -529,7 +628,7 @@ English (EN) (44.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kefdensis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-751)
+[Other languages (24)](#file-language-dropdown-928)
 
 български (BG) (53.29 KB - PDF)
 
@@ -759,9 +858,23 @@ Stada Arzneimittel AG
 
 Stada R&amp;D AG
 
-Opinion adopted 18/09/2025 Marketing authorisation issued 17/11/2025
+Opinion adopted 18/09/2025 Marketing authorisation issued 17/11/2025 Revision 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Kefdensis : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (150.09 KB - PDF)
+
+**First published:** 04/03/2026
+
+[View](/en/documents/procedural-steps-after/kefdensis-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -789,11 +902,217 @@ English (EN) (173.58 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-kefdensis_en.pdf)
 
-#### News on Kefdensis
+## News on Kefdensis
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 September 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-september-2025) 19/09/2025
 
-**This page was last updated on** 05/01/2026
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Kefdensis : EPAR - Product information - tracked changes
+
+English (EN) (634.36 KB - DOCX)
+
+**First published:** 04/03/2026
+
+[View](/en/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-529)
+
+български (BG) (686.78 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/bg/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (683.49 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/es/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (629.47 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/cs/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (671.18 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/da/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (796.18 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/de/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (687.53 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/et/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (687.74 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/el/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (666.89 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/fr/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (682.06 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/hr/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (679.06 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/is/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (602.02 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/it/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (674.51 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/lv/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (661.24 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/lt/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (821.31 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/hu/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (653.54 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/mt/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (672.97 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/nl/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (664.02 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/no/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (667.1 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/pl/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (674.04 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/pt/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (656.78 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/ro/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (665.68 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/sk/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (656.06 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/sl/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (698.5 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/fi/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (660.47 KB - DOCX)
+
+**First published:**
+
+04/03/2026
+
+[View](/sv/documents/product-information-tracked-changes/kefdensis-epar-product-information-tracked-changes_sv.docx)
+
+**This page was last updated on** 04/03/2026
 
 ## Share this page
 

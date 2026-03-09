@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 08:44:02
+document_datetime: 2026-03-05 15:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imatinib-teva.html
 document_name: imatinib-teva.html
 version: success
-processing_time: 0.127105
-conversion_datetime: 2025-12-30 01:04:53.986481
+processing_time: 0.1136168
+conversion_datetime: 2026-03-09 13:13:43.783386
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.77.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Imatinib Teva
 
 [RSS](/en/individual-human-medicine.xml/65949)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 imatinib Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +104,7 @@ English (EN) (89.56 KB - PDF)
 
 [View](/en/documents/overview/imatinib-teva-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-267)
+[Other languages (22)](#file-language-dropdown-241)
 
 български (BG) (110.34 KB - PDF)
 
@@ -376,17 +374,17 @@ svenska (SV) (86.84 KB - PDF)
 
 Imatinib Teva : EPAR - Product Information
 
-English (EN) (1.59 MB - PDF)
+English (EN) (1012.65 KB - PDF)
 
 **First published:** 17/01/2013
 
-**Last updated:** 01/10/2024
+**Last updated:** 05/03/2026
 
 [View](/en/documents/product-information/imatinib-teva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-336)
+[Other languages (24)](#file-language-dropdown-438)
 
-български (BG) (2.17 MB - PDF)
+български (BG) (1.63 MB - PDF)
 
 **First published:**
 
@@ -394,11 +392,11 @@ English (EN) (1.59 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/bg/documents/product-information/imatinib-teva-epar-product-information_bg.pdf)
 
-español (ES) (1.66 MB - PDF)
+español (ES) (1.06 MB - PDF)
 
 **First published:**
 
@@ -406,11 +404,11 @@ español (ES) (1.66 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/es/documents/product-information/imatinib-teva-epar-product-information_es.pdf)
 
-čeština (CS) (2.11 MB - PDF)
+čeština (CS) (1.53 MB - PDF)
 
 **First published:**
 
@@ -418,11 +416,11 @@ español (ES) (1.66 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/cs/documents/product-information/imatinib-teva-epar-product-information_cs.pdf)
 
-dansk (DA) (1.59 MB - PDF)
+dansk (DA) (1011.39 KB - PDF)
 
 **First published:**
 
@@ -430,11 +428,11 @@ dansk (DA) (1.59 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/da/documents/product-information/imatinib-teva-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.72 MB - PDF)
+Deutsch (DE) (1.07 MB - PDF)
 
 **First published:**
 
@@ -442,11 +440,11 @@ Deutsch (DE) (1.72 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/de/documents/product-information/imatinib-teva-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.59 MB - PDF)
+eesti keel (ET) (1.03 MB - PDF)
 
 **First published:**
 
@@ -454,11 +452,11 @@ eesti keel (ET) (1.59 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/et/documents/product-information/imatinib-teva-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.8 MB - PDF)
+ελληνικά (EL) (1.2 MB - PDF)
 
 **First published:**
 
@@ -466,11 +464,11 @@ eesti keel (ET) (1.59 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/el/documents/product-information/imatinib-teva-epar-product-information_el.pdf)
 
-français (FR) (2 MB - PDF)
+français (FR) (1.34 MB - PDF)
 
 **First published:**
 
@@ -478,11 +476,11 @@ français (FR) (2 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/fr/documents/product-information/imatinib-teva-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.69 MB - PDF)
+hrvatski (HR) (1.12 MB - PDF)
 
 **First published:**
 
@@ -490,11 +488,11 @@ hrvatski (HR) (1.69 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/hr/documents/product-information/imatinib-teva-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.57 MB - PDF)
+íslenska (IS) (1.01 MB - PDF)
 
 **First published:**
 
@@ -502,11 +500,11 @@ hrvatski (HR) (1.69 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/is/documents/product-information/imatinib-teva-epar-product-information_is.pdf)
 
-italiano (IT) (1.93 MB - PDF)
+italiano (IT) (1.33 MB - PDF)
 
 **First published:**
 
@@ -514,11 +512,11 @@ italiano (IT) (1.93 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/it/documents/product-information/imatinib-teva-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.85 MB - PDF)
+latviešu valoda (LV) (1.24 MB - PDF)
 
 **First published:**
 
@@ -526,11 +524,11 @@ latviešu valoda (LV) (1.85 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/lv/documents/product-information/imatinib-teva-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.02 MB - PDF)
+lietuvių kalba (LT) (1.46 MB - PDF)
 
 **First published:**
 
@@ -538,11 +536,11 @@ lietuvių kalba (LT) (2.02 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/lt/documents/product-information/imatinib-teva-epar-product-information_lt.pdf)
 
-magyar (HU) (1.81 MB - PDF)
+magyar (HU) (1.33 MB - PDF)
 
 **First published:**
 
@@ -550,11 +548,11 @@ magyar (HU) (1.81 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/hu/documents/product-information/imatinib-teva-epar-product-information_hu.pdf)
 
-Malti (MT) (1.92 MB - PDF)
+Malti (MT) (1.34 MB - PDF)
 
 **First published:**
 
@@ -562,11 +560,11 @@ Malti (MT) (1.92 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/mt/documents/product-information/imatinib-teva-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.58 MB - PDF)
+Nederlands (NL) (1.03 MB - PDF)
 
 **First published:**
 
@@ -574,11 +572,11 @@ Nederlands (NL) (1.58 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/nl/documents/product-information/imatinib-teva-epar-product-information_nl.pdf)
 
-norsk (NO) (1.78 MB - PDF)
+norsk (NO) (1.12 MB - PDF)
 
 **First published:**
 
@@ -586,11 +584,11 @@ norsk (NO) (1.78 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/no/documents/product-information/imatinib-teva-epar-product-information_no.pdf)
 
-polski (PL) (2.11 MB - PDF)
+polski (PL) (1.53 MB - PDF)
 
 **First published:**
 
@@ -598,11 +596,11 @@ polski (PL) (2.11 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/pl/documents/product-information/imatinib-teva-epar-product-information_pl.pdf)
 
-português (PT) (1.59 MB - PDF)
+português (PT) (1.01 MB - PDF)
 
 **First published:**
 
@@ -610,11 +608,11 @@ português (PT) (1.59 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/pt/documents/product-information/imatinib-teva-epar-product-information_pt.pdf)
 
-română (RO) (1.74 MB - PDF)
+română (RO) (1.17 MB - PDF)
 
 **First published:**
 
@@ -622,11 +620,11 @@ română (RO) (1.74 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/ro/documents/product-information/imatinib-teva-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.8 MB - PDF)
+slovenčina (SK) (1.24 MB - PDF)
 
 **First published:**
 
@@ -634,11 +632,11 @@ slovenčina (SK) (1.8 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/sk/documents/product-information/imatinib-teva-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.69 MB - PDF)
+slovenščina (SL) (1.1 MB - PDF)
 
 **First published:**
 
@@ -646,11 +644,11 @@ slovenščina (SL) (1.69 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/sl/documents/product-information/imatinib-teva-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.63 MB - PDF)
+Suomi (FI) (1.06 MB - PDF)
 
 **First published:**
 
@@ -658,11 +656,11 @@ Suomi (FI) (1.63 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/fi/documents/product-information/imatinib-teva-epar-product-information_fi.pdf)
 
-svenska (SV) (1.65 MB - PDF)
+svenska (SV) (1.05 MB - PDF)
 
 **First published:**
 
@@ -670,11 +668,11 @@ svenska (SV) (1.65 MB - PDF)
 
 **Last updated:**
 
-01/10/2024
+05/03/2026
 
 [View](/sv/documents/product-information/imatinib-teva-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IA/0056 30/09/2024
+**Latest procedure affecting product information:** VR/0000314304 05/03/2026
 
 icon globe
 
@@ -700,7 +698,7 @@ English (EN) (16.26 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imatinib-teva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-752)
+[Other languages (24)](#file-language-dropdown-722)
 
 български (BG) (51.58 KB - PDF)
 
@@ -1042,7 +1040,7 @@ Teva B.V.
 
 Swensweg 5
 
-Opinion adopted 18/10/2012 Marketing authorisation issued 07/01/2013 Revision 20
+Opinion adopted 18/10/2012 Marketing authorisation issued 07/01/2013 Revision 21
 
 ## Assessment history
 
@@ -1054,13 +1052,21 @@ Collapse section
 
 Imatinib Teva : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (153.99 KB - PDF)
+
+**First published:** 05/03/2026
+
+[View](/en/documents/procedural-steps-after/imatinib-teva-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Imatinib Teva : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (163.88 KB - PDF)
 
 **First published:** 24/06/2013
 
-**Last updated:** 01/10/2024
+**Last updated:** 05/03/2026
 
-[View](/en/documents/procedural-steps-after/imatinib-teva-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/imatinib-teva-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -1092,7 +1098,7 @@ English (EN) (62.16 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-imatinib-teva_en.pdf)
 
-#### More information on Imatinib Teva
+## More information on Imatinib Teva
 
 Questions and answers on generic medicines
 
@@ -1106,7 +1112,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-674)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1372,12 +1378,12 @@ svenska (SV) (67.11 KB - PDF)
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-#### Topics
+## Topics
 
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 01/10/2024
+**This page was last updated on** 05/03/2026
 
 ## Share this page
 

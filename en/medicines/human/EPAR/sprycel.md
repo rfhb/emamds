@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-25 14:10:00
+document_datetime: 2026-03-06 15:32:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sprycel.html
 document_name: sprycel.html
 version: success
-processing_time: 0.1223834
-conversion_datetime: 2026-03-01 19:29:24.412957
+processing_time: 0.1231189
+conversion_datetime: 2026-03-09 13:13:29.462728
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.77.0
+  docling-core: 2.69.0
   docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Sprycel
 
@@ -122,7 +122,7 @@ English (EN) (87.85 KB - PDF)
 
 [View](/en/documents/overview/sprycel-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-517)
+[Other languages (22)](#file-language-dropdown-554)
 
 български (BG) (117.94 KB - PDF)
 
@@ -418,7 +418,7 @@ English (EN) (1.73 MB - PDF)
 
 [View](/en/documents/product-information/sprycel-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-158)
+[Other languages (24)](#file-language-dropdown-817)
 
 български (BG) (2.2 MB - PDF)
 
@@ -734,7 +734,7 @@ English (EN) (55.9 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sprycel-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-351)
+[Other languages (24)](#file-language-dropdown-140)
 
 български (BG) (80.47 KB - PDF)
 
@@ -1062,7 +1062,7 @@ Bristol-Myers Squibb Pharma EEIG
 
 Plaza 254
 
-Opinion adopted 21/09/2006 Marketing authorisation issued 20/11/2006 Revision 46
+Opinion adopted 21/09/2006 Marketing authorisation issued 20/11/2006 Revision 47
 
 ## Assessment history
 
@@ -1091,6 +1091,18 @@ English (EN) (244.7 KB - PDF)
 **Last updated:** 15/05/2025
 
 [View](/en/documents/procedural-steps-after/sprycel-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Sprycel-PAM-0000291073 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2348379
+
+English (EN) (1.79 MB - PDF)
+
+**First published:** 06/03/2026
+
+[View](/en/documents/variation-report/sprycel-pam-0000291073-epar-assessment-report_en.pdf)
 
 Sprycel-PSUSA-00000935-202106 : EPAR - Scientific conclusions and grounds recommending the variation to the terms of the marketing authorisation
 
@@ -1308,7 +1320,7 @@ English (EN) (1.2 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/sprycel-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-846)
+[Other languages (24)](#file-language-dropdown-698)
 
 български (BG) (1.23 MB - DOCX)
 
@@ -1520,7 +1532,7 @@ Sprycel was withdrawn from the Community register of orphan medicinal products i
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 - [Paediatrics](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A65)
 
-**This page was last updated on** 25/02/2026
+**This page was last updated on** 06/03/2026
 
 ## Share this page
 

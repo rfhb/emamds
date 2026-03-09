@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-01-30 17:20:00
+document_datetime: 2026-03-05 14:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/simponi.html
 document_name: simponi.html
 version: success
-processing_time: 0.174733
-conversion_datetime: 2026-02-01 20:09:56.704286
+processing_time: 0.1456781
+conversion_datetime: 2026-03-09 14:13:49.34656
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.77.0
+  docling-core: 2.69.0
   docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Simponi
 
 [RSS](/en/individual-human-medicine.xml/67020)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -48,15 +48,12 @@ Page contents
 
 Simponi is an anti-inflammatory medicine. It is used to treat the following diseases:
 
-- active rheumatoid arthritis (a disease causing inflammation of the joints). Simponi is used in combination with methotrexate (a medicine that acts on the immune system). It can be used in adults who have not responded adequately to other treatments including methotrexate whose disease is moderate to severe, and in patients who have not previously been treated with methotrexate whose disease is severe and progressive;
+- active rheumatoid arthritis (a disease causing inflammation of the joints). Simponi is used in combination with methotrexate (a medicine that acts on the immune system). It can be used in adults who have not responded adequately to other treatments, including methotrexate, and whose disease is moderate to severe, and in adults who have not previously been treated with methotrexate and whose disease is severe and progressive;
 - active and progressive psoriatic arthritis (a disease causing red, scaly patches on the skin and inflammation of the joints). Simponi is used in adults who have not responded adequately to other treatments. It can be used alone or in combination with methotrexate;
 - axial spondyloarthritis (a disease causing inflammation and pain in the joints of the spine), including:
-
-- adults with severe active ankylosing spondylitis who have not responded adequately to other treatments;
-
-- adults with severe non-radiographic axial spondyloarthritis (when there are objective signs of inflammation but no abnormalities seen on x-ray) who have not responded adequately or are intolerant to anti-inflammatory medicines called non-steroidal anti-inflammatory drugs (NSAIDs);
-
-- moderately to severely active ulcerative colitis (a disease causing inflammation and ulcers in the lining of the gut). Simponi is used in adults who have not responded adequately to, or cannot use, conventional treatment;
+    - adults with severe active ankylosing spondylitis who have not responded adequately to other treatments;
+    - adults with severe non-radiographic axial spondyloarthritis (when there are signs and symptoms of inflammation but no abnormalities seen on x-ray) who have not responded adequately or are intolerant to anti-inflammatory medicines called non-steroidal anti-inflammatory drugs (NSAIDs);
+- moderately to severely active ulcerative colitis (a disease that causes inflammation and ulcers in the lining of the large intestine). Simponi is used for ulcerative colitis in adults and children from 2 years of age weighing at least 15 kg when conventional treatments do not work well enough or are not suitable;
 - polyarticular juvenile idiopathic arthritis (a rare childhood disease causing inflammation of many joints). Simponi is used in combination with methotrexate. It is used in children from 2 years of age who have not responded adequately to treatment with methotrexate.
 
 Simponi contains the active substance golimumab.
@@ -67,9 +64,9 @@ Collapse section
 
 ## How is Simponi used?
 
-Simponi is available as pre-filled pens and syringes containing a solution for injection under the skin. The recommended dose depends on the disease Simponi is used to treat and the response of the patient.
+Simponi is available as pre-filled pens and syringes containing a solution for injection under the skin. It is given once every two weeks or once every month depending on the stage of treatment. The recommended dose depends on the disease Simponi is used to treat and how well the disease responds to treatment.
 
-Simponi can only be obtained with a prescription and treatment must be initiated and supervised by a qualified doctor who has experience in the diagnosis and treatment of the diseases that Simponi is used to treat. After training, patients may inject themselves with Simponi if their doctor agrees.
+Simponi can only be obtained with a prescription and treatment must be started and supervised by a qualified doctor who has experience in the diagnosis and treatment of the diseases that Simponi is used to treat. After training, patients may inject themselves with Simponi if their doctor agrees.
 
 For more information about using Simponi, see the package leaflet or contact your doctor or pharmacist.
 
@@ -85,41 +82,51 @@ Simponi has been shown to be effective at reducing the number and severity of sy
 
 For rheumatoid arthritis, Simponi was compared with placebo (a dummy treatment) in three studies involving 1,542 patients with moderate to severe rheumatoid arthritis, including patients who had not received or responded adequately to other treatments.
 
-In the first study, in which patients were also given methotrexate, after 14 weeks, 55% patients who received Simponi (49 out of 89) achieved 20% reductions compared with 33% (44 out of 133) of patients who received placebo. This study also showed that patients who received Simponi had greater improvements in carrying out everyday tasks (such as dressing, eating and walking) after 24 weeks. In the second study, after 14 weeks, 35% of patients who received Simponi alone (54 out of 153) achieved 20% reductions in the number and severity of symptoms compared with 18% of patients who received placebo (28 out of 155). In the third study, in patients who had not been previously treated with either methotrexate or another anti-TNF-a, after 24 weeks, 40% of patients (64 out of 159) who received Simponi with methotrexate achieved 50% reductions compared with 29% of patients (47 out of 160) who received placebo and methotrexate. Data from X-rays taken before and after two years of treatment showed less joint damage in patients receiving Simponi than in those receiving placebo.
+In the first study, in which patients were also given methotrexate, after 14 weeks, 55% of patients who received Simponi (49 out of 89) had at least a 20% reduction in the number and severity of symptoms compared with 33% (44 out of 133) of patients who received placebo. This study also showed that patients who received Simponi had greater improvements in carrying out everyday tasks (such as dressing, eating and walking) after 24 weeks. In the second study, after 14 weeks, 35% of patients who received Simponi alone (54 out of 153) had at least a 20% reduction in the number and severity of symptoms compared with 18% of patients who received placebo (28 out of 155). In the third study, in patients who had not been previously treated with either methotrexate or another anti-TNF-a, 40% of patients (64 out of 159) who received Simponi with methotrexate had at least a 50% reduction in the number and severity of symptoms after 24 weeks, compared with 29% of patients (47 out of 160) who received placebo and methotrexate. Data from X-rays taken before and after two years of treatment showed less joint damage in patients receiving Simponi than in those receiving placebo.
 
 **Psoriatic arthritis**
 
-For psoriatic arthritis, Simponi was compared with placebo over 24 weeks in one main study involving 405 patients who had not responded adequately to other treatments. Of the patients who received Simponi, 51% (74 out of 146) had 20% reductions in the number and severity of symptoms after 14 weeks, compared with 9% of patients who were given placebo (10 out of 113).
+For psoriatic arthritis, Simponi was compared with placebo over 24 weeks in one main study involving 405 patients who had not responded adequately to other treatments. Of the patients who received Simponi, 51% (74 out of 146) had at least a 20% reduction in the number and severity of symptoms after 14 weeks, compared with 9% of patients who were given placebo (10 out of 113).
 
 **Ankylosing spondylitis**
 
-For ankylosing spondylitis, Simponi was compared with placebo over 24 weeks in one main study involving 356 patients who had not responded adequately to other treatments. Of the patients who received Simponi, 59% (82 out of 138) had 20% reductions in the number and severity of symptoms after 14 weeks, compared with 22% of patients who were given placebo (17 out of 78).
+For ankylosing spondylitis, Simponi was compared with placebo over 24 weeks in one main study involving 356 patients who had not responded adequately to other treatments. Of the patients who received Simponi, 59% (82 out of 138) had at least a 20% reduction in the number and severity of symptoms after 14 weeks, compared with 22% of patients who were given placebo (17 out of 78).
 
 **Axial spondyloarthritis**
 
-For non-radiographic axial spondyloarthritis, Simponi was compared with placebo over 16 weeks in one main study involving 198 patients who had the disease without evidence of ankylosing spondylitis but with signs of inflammation and who had not responded adequately to treatment with NSAIDs. Of the patients who received Simponi, 71% (69 out of 97) had 20% reductions in the number and severity of symptoms after 16 weeks, compared with 40% of patients who were given placebo (40 out of 100).
+For non-radiographic axial spondyloarthritis, Simponi was compared with placebo over 16 weeks in one main study involving 198 patients who had the disease without evidence of ankylosing spondylitis but with signs of inflammation and who had not responded adequately to treatment with NSAIDs. Of the patients who received Simponi, 71% (69 out of 97) had at least a 20% reduction in the number and severity of symptoms after 16 weeks, compared with 40% of patients who were given placebo (40 out of 100).
 
 **Ulcerative colitis**
 
-For ulcerative colitis, Simponi was compared with placebo in two main studies in patients who had not responded to or could not use other treatments. The first study, involving 1,065 patients, compared different doses of Simponi with placebo as induction treatment. The second study, involving 1,228 patients, compared Simponi 50 or 100 mg with placebo as maintenance treatment. The main measure of effectiveness was the number of patients who responded to treatment, based on the number and severity of symptoms. This was assessed after 6 weeks in the first study and after 54 weeks in the second study. In the first study, around 51% of patients receiving induction treatment with Simponi (starting at 200 mg) responded to treatment after 6 weeks, compared with around 30% of patients given placebo. In the second study, around 50% of patients receiving maintenance treatment with Simponi 100 mg and around 47% of those given Simponi 50 mg responded to treatment after 54 weeks, compared with around 31% of patients given placebo.
+For ulcerative colitis in adults, Simponi was compared with placebo in two main studies in patients who had not responded to or could not use other treatments. The first study, involving 1,065 patients, compared different doses of Simponi with placebo as induction treatment. The second study, involving 1,228 patients, compared Simponi 50 or 100 mg with placebo as maintenance treatment. The main measure of effectiveness was the number of patients who responded to treatment, based on the number and severity of symptoms. This was assessed after 6 weeks in the first study and after 54 weeks in the second study. In the first study, around 51% of patients receiving induction treatment with Simponi (starting at 200 mg) responded to treatment after 6 weeks, compared with around 30% of patients given placebo. In the second study, around 50% of patients receiving maintenance treatment with Simponi 100 mg and around 47% of those given Simponi 50 mg responded to treatment after 54 weeks, compared with around 31% of patients given placebo.
+
+Another study showed that Simponi could improve the condition of children with moderately to severely active ulcerative colitis. In this study, which involved 69 children, around 32% of them (22 out of 69) were in remission after 6 weeks of treatment. Although the study did not directly compare Simponi with another medicine or placebo, the result with Simponi at 6 weeks was better than results from placebo seen in adult studies (less than 10% of people in remission).
+
+In addition, based on data on how Simponi behaves in patients with ulcerative colitis, the medicine is expected to work in children aged 2 years and older in the same way as in adults.
 
 **Polyarticular juvenile idiopathic arthritis**
 
-For polyarticular juvenile idiopathic arthritis, 173 patients between 2 and 18 years old who had not responded adequately to treatment with methotrexate were treated for 12 weeks with Simponi and methotrexate. Of these patients, 87% of (151 out of 173) had 30% reduction in the number and severity of symptoms after 16 weeks. Treatment with Simponi and methotrexate was not compared with placebo or any other treatment.
+For polyarticular juvenile idiopathic arthritis, 173 patients between 2 and 18 years old who had not responded adequately to treatment with methotrexate were treated for 12 weeks with Simponi and methotrexate. Of these patients, 87% (151 out of 173) had a 30% reduction in the number and severity of symptoms after 16 weeks. Treatment with Simponi and methotrexate was not compared with placebo or any other treatment.
 
 ## What are the risks associated with Simponi?
 
-The most common side effects with Simponi are upper respiratory tract infections such as infections of the nose, throat or voice box. The most serious side effects include serious infections, such as sepsis (blood infection), pneumonia (lung infection), tuberculosis and infections due to fungi or yeasts, demyelinating disorders (disorders suggesting damage to the protective sheath around nerves, such as changes to vision and weak arms or legs), re-activation of hepatitis B (a disease of the liver due to infection with the hepatitis B virus), congestive heart failure (a heart disease), lupus-like syndrome, blood reactions, severe allergic reactions, vasculitis (inflammation of the blood vessels), and lymphoma and leukaemia (types of cancer of the white blood cells). For the full list of side effects reported with Simponi, see the package leaflet.
+For the full list of side effects and restrictions with Simponi, see the package leaflet.
 
-Simponi must not be used in patients with tuberculosis, other severe infections, or moderate or severe heart failure (an inability of the heart to pump enough blood around the body). Due to an increased risk of infection, patients taking Simponi must be monitored closely for infections, including tuberculosis, during and for up to 5 months after treatment. For the full list of restrictions with Simponi, see the package leaflet.
+The most common side effects with Simponi are upper respiratory tract infections such as infections of the nose, throat or voice box. The most serious side effects include serious infections, such as sepsis (blood infection), pneumonia (lung infection), tuberculosis and infections due to fungi or yeasts, demyelinating disorders (disorders suggesting damage to the protective sheath around nerves, such as changes to vision and weak arms or legs), re-activation of hepatitis B (a disease of the liver due to infection with the hepatitis B virus), congestive heart failure (a heart disease), lupus-like syndrome, blood reactions, severe allergic reactions, vasculitis (inflammation of the blood vessels), and lymphoma and leukaemia (types of cancer of the white blood cells).
+
+Simponi must not be used in patients with tuberculosis, other severe infections, or moderate or severe heart failure (an inability of the heart to pump enough blood around the body). Due to an increased risk of infection, patients taking Simponi must be monitored closely for infections, including tuberculosis, during and for up to 5 months after treatment.
 
 ## Why is Simponi authorised in the EU?
 
 The European Medicines Agency decided that Simponi's benefits are greater than its risks and that it can be authorised for use in the EU.
 
+Studies with Simponi showed that the medicine was effective in reducing symptoms of people with rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, axial spondyloarthritis, polyarticular and juvenile idiopathic arthritis.
+
+The side effects are considered manageable and information about managing risks is in the product information.
+
 ## What measures are being taken to ensure the safe and effective use of Simponi?
 
-Patients treated with Simponi must be given a reminder card that summarises the safety information about the medicine and when to seek medical advice. Patients should show this card when seeing a healthcare professional, so that they are aware that the patient is using Simponi.
+Patients treated with Simponi must be given a card that summarises the safety information about the medicine and when to seek medical advice. Patients should show this card when seeing a healthcare professional, so that they are aware that the patient is using Simponi.
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Simponi have also been included in the summary of product characteristics and the package leaflet.
 
@@ -129,33 +136,21 @@ As for all medicines, data on the use of Simponi is continuously monitored. Side
 
 Simponi received a marketing authorisation valid throughout the EU on 1 October 2009.
 
-Simponi : EPAR - Summary for the public
+Simponi : EPAR - Medicine overview
 
-Reference Number: EMA/552/2019
+Reference Number: EMA/45820/2026
 
-English (EN) (91.92 KB - PDF)
+English (EN) (151.84 KB - PDF)
 
 **First published:** 20/10/2009
 
-**Last updated:** 13/03/2019
+**Last updated:** 05/03/2026
 
-[View](/en/documents/overview/simponi-epar-summary-public_en.pdf)
+[View](/en/documents/overview/simponi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-66)
+[Other languages (22)](#file-language-dropdown-660)
 
-български (BG) (136.27 KB - PDF)
-
-**First published:**
-
-20/10/2009
-
-**Last updated:**
-
-13/03/2019
-
-[View](/bg/documents/overview/simponi-epar-summary-public_bg.pdf)
-
-español (ES) (112.12 KB - PDF)
+български (BG) (188.22 KB - PDF)
 
 **First published:**
 
@@ -163,23 +158,11 @@ español (ES) (112.12 KB - PDF)
 
 **Last updated:**
 
-13/03/2019
+05/03/2026
 
-[View](/es/documents/overview/simponi-epar-summary-public_es.pdf)
+[View](/bg/documents/overview/simponi-epar-medicine-overview_bg.pdf)
 
-čeština (CS) (130.82 KB - PDF)
-
-**First published:**
-
-20/10/2009
-
-**Last updated:**
-
-13/03/2019
-
-[View](/cs/documents/overview/simponi-epar-summary-public_cs.pdf)
-
-dansk (DA) (110.76 KB - PDF)
+español (ES) (159.19 KB - PDF)
 
 **First published:**
 
@@ -187,23 +170,11 @@ dansk (DA) (110.76 KB - PDF)
 
 **Last updated:**
 
-13/03/2019
+05/03/2026
 
-[View](/da/documents/overview/simponi-epar-summary-public_da.pdf)
+[View](/es/documents/overview/simponi-epar-medicine-overview_es.pdf)
 
-Deutsch (DE) (112.67 KB - PDF)
-
-**First published:**
-
-20/10/2009
-
-**Last updated:**
-
-13/03/2019
-
-[View](/de/documents/overview/simponi-epar-summary-public_de.pdf)
-
-eesti keel (ET) (108.76 KB - PDF)
+čeština (CS) (187.22 KB - PDF)
 
 **First published:**
 
@@ -211,23 +182,11 @@ eesti keel (ET) (108.76 KB - PDF)
 
 **Last updated:**
 
-13/03/2019
+05/03/2026
 
-[View](/et/documents/overview/simponi-epar-summary-public_et.pdf)
+[View](/cs/documents/overview/simponi-epar-medicine-overview_cs.pdf)
 
-ελληνικά (EL) (143.72 KB - PDF)
-
-**First published:**
-
-20/10/2009
-
-**Last updated:**
-
-13/03/2019
-
-[View](/el/documents/overview/simponi-epar-summary-public_el.pdf)
-
-français (FR) (112.71 KB - PDF)
+dansk (DA) (160.01 KB - PDF)
 
 **First published:**
 
@@ -235,23 +194,11 @@ français (FR) (112.71 KB - PDF)
 
 **Last updated:**
 
-13/03/2019
+05/03/2026
 
-[View](/fr/documents/overview/simponi-epar-summary-public_fr.pdf)
+[View](/da/documents/overview/simponi-epar-medicine-overview_da.pdf)
 
-hrvatski (HR) (126.38 KB - PDF)
-
-**First published:**
-
-20/10/2009
-
-**Last updated:**
-
-13/03/2019
-
-[View](/hr/documents/overview/simponi-epar-summary-public_hr.pdf)
-
-italiano (IT) (111.06 KB - PDF)
+Deutsch (DE) (165.77 KB - PDF)
 
 **First published:**
 
@@ -259,23 +206,11 @@ italiano (IT) (111.06 KB - PDF)
 
 **Last updated:**
 
-13/03/2019
+05/03/2026
 
-[View](/it/documents/overview/simponi-epar-summary-public_it.pdf)
+[View](/de/documents/overview/simponi-epar-medicine-overview_de.pdf)
 
-latviešu valoda (LV) (134.18 KB - PDF)
-
-**First published:**
-
-20/10/2009
-
-**Last updated:**
-
-13/03/2019
-
-[View](/lv/documents/overview/simponi-epar-summary-public_lv.pdf)
-
-lietuvių kalba (LT) (129.27 KB - PDF)
+eesti keel (ET) (153.98 KB - PDF)
 
 **First published:**
 
@@ -283,23 +218,11 @@ lietuvių kalba (LT) (129.27 KB - PDF)
 
 **Last updated:**
 
-13/03/2019
+05/03/2026
 
-[View](/lt/documents/overview/simponi-epar-summary-public_lt.pdf)
+[View](/et/documents/overview/simponi-epar-medicine-overview_et.pdf)
 
-magyar (HU) (127.02 KB - PDF)
-
-**First published:**
-
-20/10/2009
-
-**Last updated:**
-
-13/03/2019
-
-[View](/hu/documents/overview/simponi-epar-summary-public_hu.pdf)
-
-Malti (MT) (131.04 KB - PDF)
+ελληνικά (EL) (194.51 KB - PDF)
 
 **First published:**
 
@@ -307,23 +230,11 @@ Malti (MT) (131.04 KB - PDF)
 
 **Last updated:**
 
-13/03/2019
+05/03/2026
 
-[View](/mt/documents/overview/simponi-epar-summary-public_mt.pdf)
+[View](/el/documents/overview/simponi-epar-medicine-overview_el.pdf)
 
-Nederlands (NL) (111.18 KB - PDF)
-
-**First published:**
-
-20/10/2009
-
-**Last updated:**
-
-13/03/2019
-
-[View](/nl/documents/overview/simponi-epar-summary-public_nl.pdf)
-
-polski (PL) (134.35 KB - PDF)
+français (FR) (161.32 KB - PDF)
 
 **First published:**
 
@@ -331,23 +242,11 @@ polski (PL) (134.35 KB - PDF)
 
 **Last updated:**
 
-13/03/2019
+05/03/2026
 
-[View](/pl/documents/overview/simponi-epar-summary-public_pl.pdf)
+[View](/fr/documents/overview/simponi-epar-medicine-overview_fr.pdf)
 
-português (PT) (110.93 KB - PDF)
-
-**First published:**
-
-20/10/2009
-
-**Last updated:**
-
-13/03/2019
-
-[View](/pt/documents/overview/simponi-epar-summary-public_pt.pdf)
-
-română (RO) (129.67 KB - PDF)
+hrvatski (HR) (182.46 KB - PDF)
 
 **First published:**
 
@@ -355,23 +254,11 @@ română (RO) (129.67 KB - PDF)
 
 **Last updated:**
 
-13/03/2019
+05/03/2026
 
-[View](/ro/documents/overview/simponi-epar-summary-public_ro.pdf)
+[View](/hr/documents/overview/simponi-epar-medicine-overview_hr.pdf)
 
-slovenčina (SK) (129.1 KB - PDF)
-
-**First published:**
-
-20/10/2009
-
-**Last updated:**
-
-13/03/2019
-
-[View](/sk/documents/overview/simponi-epar-summary-public_sk.pdf)
-
-slovenščina (SL) (125.77 KB - PDF)
+italiano (IT) (157.71 KB - PDF)
 
 **First published:**
 
@@ -379,23 +266,11 @@ slovenščina (SL) (125.77 KB - PDF)
 
 **Last updated:**
 
-13/03/2019
+05/03/2026
 
-[View](/sl/documents/overview/simponi-epar-summary-public_sl.pdf)
+[View](/it/documents/overview/simponi-epar-medicine-overview_it.pdf)
 
-Suomi (FI) (110.63 KB - PDF)
-
-**First published:**
-
-20/10/2009
-
-**Last updated:**
-
-13/03/2019
-
-[View](/fi/documents/overview/simponi-epar-summary-public_fi.pdf)
-
-svenska (SV) (110.26 KB - PDF)
+latviešu valoda (LV) (180.2 KB - PDF)
 
 **First published:**
 
@@ -403,9 +278,141 @@ svenska (SV) (110.26 KB - PDF)
 
 **Last updated:**
 
-13/03/2019
+05/03/2026
 
-[View](/sv/documents/overview/simponi-epar-summary-public_sv.pdf)
+[View](/lv/documents/overview/simponi-epar-medicine-overview_lv.pdf)
+
+lietuvių kalba (LT) (180.91 KB - PDF)
+
+**First published:**
+
+20/10/2009
+
+**Last updated:**
+
+05/03/2026
+
+[View](/lt/documents/overview/simponi-epar-medicine-overview_lt.pdf)
+
+magyar (HU) (185.71 KB - PDF)
+
+**First published:**
+
+20/10/2009
+
+**Last updated:**
+
+05/03/2026
+
+[View](/hu/documents/overview/simponi-epar-medicine-overview_hu.pdf)
+
+Malti (MT) (186.83 KB - PDF)
+
+**First published:**
+
+20/10/2009
+
+**Last updated:**
+
+05/03/2026
+
+[View](/mt/documents/overview/simponi-epar-medicine-overview_mt.pdf)
+
+Nederlands (NL) (161.85 KB - PDF)
+
+**First published:**
+
+20/10/2009
+
+**Last updated:**
+
+05/03/2026
+
+[View](/nl/documents/overview/simponi-epar-medicine-overview_nl.pdf)
+
+polski (PL) (191.43 KB - PDF)
+
+**First published:**
+
+20/10/2009
+
+**Last updated:**
+
+05/03/2026
+
+[View](/pl/documents/overview/simponi-epar-medicine-overview_pl.pdf)
+
+português (PT) (159.75 KB - PDF)
+
+**First published:**
+
+20/10/2009
+
+**Last updated:**
+
+05/03/2026
+
+[View](/pt/documents/overview/simponi-epar-medicine-overview_pt.pdf)
+
+română (RO) (180.59 KB - PDF)
+
+**First published:**
+
+20/10/2009
+
+**Last updated:**
+
+05/03/2026
+
+[View](/ro/documents/overview/simponi-epar-medicine-overview_ro.pdf)
+
+slovenčina (SK) (186.56 KB - PDF)
+
+**First published:**
+
+20/10/2009
+
+**Last updated:**
+
+05/03/2026
+
+[View](/sk/documents/overview/simponi-epar-medicine-overview_sk.pdf)
+
+slovenščina (SL) (183.42 KB - PDF)
+
+**First published:**
+
+20/10/2009
+
+**Last updated:**
+
+05/03/2026
+
+[View](/sl/documents/overview/simponi-epar-medicine-overview_sl.pdf)
+
+Suomi (FI) (155.19 KB - PDF)
+
+**First published:**
+
+20/10/2009
+
+**Last updated:**
+
+05/03/2026
+
+[View](/fi/documents/overview/simponi-epar-medicine-overview_fi.pdf)
+
+svenska (SV) (156.58 KB - PDF)
+
+**First published:**
+
+20/10/2009
+
+**Last updated:**
+
+05/03/2026
+
+[View](/sv/documents/overview/simponi-epar-medicine-overview_sv.pdf)
 
 Simponi : EPAR - Risk management plan
 
@@ -429,7 +436,7 @@ English (EN) (6.26 MB - PDF)
 
 [View](/en/documents/product-information/simponi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-631)
+[Other languages (24)](#file-language-dropdown-989)
 
 български (BG) (4.25 MB - PDF)
 
@@ -745,7 +752,7 @@ English (EN) (35.59 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/simponi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-957)
+[Other languages (24)](#file-language-dropdown-254)
 
 български (BG) (31.9 KB - PDF)
 
@@ -1045,7 +1052,7 @@ English (EN) (24.75 KB - PDF)
 
 [View](/en/documents/conditions-member-states/simponi-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-46)
+[Other languages (21)](#file-language-dropdown-587)
 
 български (BG) (90.24 KB - PDF)
 
@@ -1678,7 +1685,7 @@ English (EN) (80.36 KB - PDF)
 
 [View](/en/documents/smop-initial/committee-medicinal-products-human-use-summary-positive-opinion-simponi_en.pdf)
 
-#### News on Simponi
+## News on Simponi
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 8-11 December 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-8-11-december-2025) 12/12/2025
 
@@ -1692,7 +1699,7 @@ English (EN) (80.36 KB - PDF)
 
 [European Medicines Agency increases transparency of ongoing applications for human medicines](/en/news/european-medicines-agency-increases-transparency-ongoing-applications-human-medicines) 07/11/2012
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1706,7 +1713,7 @@ English (EN) (4.48 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-874)
+[Other languages (24)](#file-language-dropdown-466)
 
 български (BG) (4.28 MB - DOCX)
 
@@ -1996,7 +2003,7 @@ svenska (SV) (2.46 MB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Simponi
+## More information on Simponi
 
 - [EMEA-000265-PIP01-08-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000265-pip01-08-m04)
 - [EMEA-000265-PIP02-11-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000265-pip02-11-m04)
@@ -2008,11 +2015,11 @@ svenska (SV) (2.46 MB - DOCX)
 - [An Observational Study of Xeljanz® (tofacitinib citrate) and Biologic Rheumatoid Arthritis Treatments to Characterize their General Treatment Patterns, Effectiveness and Safety in a Real-World Taiwanese Population - post-authorisation study](https://catalogues.ema.europa.eu/study/48622)
 - [A study assessing the use of GOlimumab in current clinical PRACTICE and its impact on patients with chronic inflammatory arthritis (MK-8259-020) (GO-PRACTICE) - post-authorisation study](https://catalogues.ema.europa.eu/study/47243)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 30/01/2026
+**This page was last updated on** 05/03/2026
 
 ## Share this page
 

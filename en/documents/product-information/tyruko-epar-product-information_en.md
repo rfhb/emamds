@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-08-19 12:02:03
+document_datetime: 2026-03-06 13:34:32
 document_pages: 43
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tyruko-epar-product-information_en.pdf
 document_name: tyruko-epar-product-information_en.pdf
 version: success
-processing_time: 8.363614
-conversion_datetime: 2025-12-28 04:00:35.71215
+processing_time: 9.8568057
+conversion_datetime: 2026-03-09 14:13:05.488359
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.77.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -72,7 +72,7 @@ Patients treated with this medicinal product must be given the patient alert car
 
 Resources for the management of hypersensitivity reactions and access to MRI should be available.
 
-Some patients may have been exposed to immunosuppressive medicinal products (e.g. mitoxantrone, cyclophosphamide, azathioprine). These medicinal products have the potential to cause prolonged immunosuppression, even after dosing is discontinued. Therefore the physician must confirm that such patients are not immunocompromised before starting treatment (see section 4.4).
+Some patients may have been exposed to immunosuppressive medicinal products (e.g. mitoxantrone, cyclophosphamide, azathioprine). These medicinal products have the potential to cause prolonged immunosuppression, even after dosing is discontinued. Therefore, the physician must confirm that such patients are not immunocompromised before starting treatment (see section 4.4).
 
 ## Posology
 
@@ -90,7 +90,7 @@ The efficacy of re-administration has not been established, (for safety see sect
 
 ## Elderly
 
-This medicinal product is not recommended for use in patients aged over 65 due to a lack of data in this population.
+This medicinal product is not recommended for use in patients aged over 65 years due to a lack of data in this population.
 
 ## Renal and hepatic impairment
 
@@ -110,7 +110,7 @@ For instructions on dilution of the medicinal product before administration (see
 
 <div style=\"page-break-after: always\"></div>
 
-After dilution (see section 6.6), the infusion is to be administered over approximately 1 hour and patients are to be observed during the infusion and for 1 hour after the completion of the infusion for signs and symptoms of hypersensitivity reactions.
+After dilution (see section 6.6), the infusion is to be administered over approximately 1 hour, and patients are to be observed during the infusion and for 1 hour after the completion of the infusion for signs and symptoms of hypersensitivity reactions.
 
 After the first 12 intravenous doses, patients should continue to be observed during infusion. If the patients have not experienced any infusion reactions, the post dose observation time may be reduced or removed according to clinical judgement.
 
@@ -134,7 +134,7 @@ Known active malignancies, except for patients with cutaneous basal cell carcino
 
 ## Traceability
 
-In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded .
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
 ## Progressive Multifocal Leukoencephalopathy (PML)
 
@@ -158,9 +158,9 @@ Patients considered at high risk treatment with this treatment should only be co
 
 ## Anti-JCV antibody testing
 
-Anti-JCV antibody testing provides supportive information for risk stratification of treatment with this medicinal product. Testing for serum anti-JCV antibody prior to initiating therapy or in patients receiving the medicinal product with an unknown antibody status is recommended. Anti-JCV antibody negative patients may still be at risk of PML for reasons such as a new JCV infection, fluctuating antibody status or a false negative test result. Re-testing of anti-JCV antibody negative patients every 6 months is recommended. Retesting low index patients who have no history of prior immunosuppressant use every 6 months once they reach the 2 year treatment point is recommended.
+Anti-JCV antibody testing provides supportive information for risk stratification of treatment with this medicinal product. Testing for serum anti-JCV antibody prior to initiating therapy or in patients receiving the medicinal product with an unknown antibody status is recommended. Anti-JCV antibody negative patients may still be at risk of PML for reasons such as a new JCV infection, fluctuating antibody status or a false negative test result. Re-testing of anti-JCV antibody negative patients every 6 months is recommended. Retesting low index patients who have no history of prior immunosuppressant use every 6 months once they reach the 2-year treatment point is recommended.
 
-The anti-JCV antibody assay (ELISA) should not be used to diagnose PML. Use of plasmapheresis/plasma exchange (PLEX) or intravenous immunoglobulin (IVIg) can affect meaningful interpretation of serum anti-JCV antibody testing. Patients should not be tested for antiJCV antibodies within 2 weeks of PLEX due to removal of antibodies from the serum, or within 6 months of IVIg (i.e. 6 months = 5x half-life for immunoglobulins).
+The anti-JCV antibody assay (ELISA) should not be used to diagnose PML. Use of plasmapheresis/plasma exchange (PLEX) or intravenous immunoglobulin (IVIg) can affect meaningful interpretation of serum anti-JCV antibody testing. Patients should not be tested for antiJCV antibodies within 2 weeks of PLEX due to removal of antibodies from the serum, or within 6 months of IVIg (i.e. 6 months = 5 half-lives for immunoglobulins).
 
 Testing for serum anti-JCV antibody should be performed using a CE-marked IVD with the corresponding intended purpose. If the CE-marked IVD is not available, testing for serum anti-JCV antibody should be performed using an alternative validated test.
 
@@ -168,7 +168,7 @@ For further information on anti-JCV antibody testing please see Physician Inform
 
 ## MRI screening for PML
 
-Before initiation of treatment with this medicinal product, a recent (usually within 3 months) MRI should be available as a reference, and be repeated at least on a yearly basis. More frequent MRIs (e.g. on a 3 to 6 monthly basis) using an abbreviated protocol should be considered for patients at higher risk of PML. This includes:
+Before initiation of treatment with this medicinal product, a recent (usually within 3 months) MRI should be available as a reference and be repeated at least on a yearly basis. More frequent MRIs (e.g. on a 3 to 6 monthly basis) using an abbreviated protocol should be considered for patients at higher risk of PML. This includes:
 
 - Patients who have all three risk factors for PML (i.e., are anti-JCV antibody positive and have received more than 2 years of therapy with this medicinal product and have received prior immunosuppressant therapy),
 
@@ -179,8 +179,6 @@ or
 - Patients with a high anti-JCV antibody index who have received more than 2 years of therapy with this medicinal product and without prior history of immunosuppressant therapy.
 
 Current evidence suggests that the risk of PML is low at low index values and increases substantially at high index values for patients who have been on treatment with natalizumab for longer than 2 years. Index threshold values for low/high PML risk depend on the specific anti-JCV antibody test used (see the Physician Information and Management Guidelines for further information).
-
-No studies have been performed to evaluate the efficacy and safety of natalizumab when switching patients from DMTs with an immunosuppressant effect. It is unknown if patients switching from these therapies to this treatment have an increased risk of PML, therefore these patients should be monitored more frequently (i.e. similarly to patients switching from immunosuppressants to natalizumab).
 
 PML should be considered as a differential diagnosis in any MS patient taking Tyruko presenting with neurological symptoms and/or new brain lesions in MRI. Cases of asymptomatic PML based on MRI and positive JCV DNA in the cerebrospinal fluid have been reported.
 
@@ -200,11 +198,11 @@ Following reconstitution of the immune system in immunocompromised patients with
 
 Based on a retrospective analysis of natalizumab-treated patients since its approval, no difference was observed on 2-year survival after PML diagnosis between patients who received PLEX and those who did not. For other considerations on the management of PML, see the Physician Information and Management Guidelines.
 
-<div style=\"page-break-after: always\"></div>
-
 ## PML and IRIS (Immune Reconstitution Inflammatory Syndrome)
 
 IRIS occurs in almost all PML patients treated with natalizumab after withdrawal or removal of the medicinal product. IRIS is thought to result from the restoration of immune function in patients with PML, which can lead to serious neurological complications and may be fatal. Monitoring for development of IRIS and appropriate treatment of the associated inflammation during recovery from PML should be undertaken (see the Physician Information and Management Guidelines for further information).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Infections including other opportunistic infections
 
@@ -224,9 +222,7 @@ All physicians who intend to prescribe the medicinal product must ensure they ar
 
 Physicians must discuss the benefits and risks of natalizumab therapy with the patient and provide them with a patient alert card. Patients should be instructed that if they develop any infection then they should inform their physician that they are being treated with this medicinal product.
 
-Physicians should counsel patients on the importance of uninterrupted dosing, particularly in the early months of treatment (see hypersensitivity).
-
-<div style=\"page-break-after: always\"></div>
+Physicians should counsel patients on the importance of uninterrupted dosing, particularly in the early months of treatment (see Hypersensitivity).
 
 ## Hypersensitivity
 
@@ -235,6 +231,8 @@ Hypersensitivity reactions have been associated with natalizumab, including seri
 Patients are to be observed during the infusion and for 1 hour after the completion of the infusion (see section 4.8). Resources for the management of hypersensitivity reactions should be available.
 
 This product should be discontinued and appropriate therapy initiated at the first symptoms or signs of hypersensitivity.
+
+<div style=\"page-break-after: always\"></div>
 
 Patients who have experienced a hypersensitivity reaction must be permanently discontinued from treatment with natalizumab.
 
@@ -246,43 +244,47 @@ In phase 3 MS clinical trials with natalizumab intravenous infusion, concomitant
 
 ## Prior treatment with immunosuppressive or immunomodulatory therapies
 
-Patients with a treatment history of immunosuppressant medications are at increased risk for PML. No studies have been performed to evaluate the efficacy and safety of the medicinal product when switching patients from DMTs with an immunosuppressant effect. It is unknown if patients switching from these therapies to this medicinal product have an increased risk of PML, therefore these patients should be monitored more frequently (i.e. similarly to patients switching from immunosuppressants to this medicinal product, see MRI screening for PML).
+Patients with a treatment history of immunosuppressant medications are at increased risk for PML.
+
+Data from an observational study demonstrated that there is no increased risk of PML for the group of patients switching to natalizumab from fingolimod, dimethyl fumarate, or teriflunomide when compared to the group of patients switching from either beta interferon or glatiramer acetate.
+
+No studies have been performed to evaluate the safety of natalizumab when switching patients from DMTs other than beta interferon, glatiramer acetate, fingolimod, dimethyl fumarate and teriflunomide. It is unknown if patients switching from other therapies to natalizumab have an increased risk of PML compared to those switching from the above-mentioned DMTs, therefore these patients should be monitored more frequently (i.e. similarly to patients switching from immunosuppressants to natalizumab).
 
 Care should be taken with patients who have previously received immunosuppressants to allow sufficient time for immune function recovery to occur. Physicians must evaluate each individual case to determine whether there is evidence of an immunocompromised state prior to commencing treatment (see section 4.3).
 
-When switching patients from another DMT to this medicinal product, the half-life and mode of action of the other therapy must be considered in order to avoid an additive immune effect whilst at the same time minimising the risk of disease reactivation. A Complete Blood Count (CBC, including lymphocytes) is recommended prior to initiating treatment to ensure that immune effects of the previous therapy (i.e. cytopenia) have resolved.
+When switching patients from another DMT to this medicinal product, the half-life and mode of action of the other therapy must be considered to avoid an additive immune effect whilst at the same time minimising the risk of disease reactivation. A Complete Blood Count (CBC, including lymphocytes) is recommended prior to initiating treatment to ensure that immune effects of the previous therapy (i.e. cytopenia) have resolved.
 
 Patients can switch directly from beta interferon or glatiramer acetate to natalizumab providing there are no signs of relevant treatment-related abnormalities e.g. neutropenia and lymphopenia.
 
 When switching from dimethyl fumarate, the washout period should be sufficient for lymphocyte count to recover before treatment is started.
 
-<div style=\"page-break-after: always\"></div>
-
 Following discontinuation of fingolimod, lymphocyte count progressively returns to normal range within 1 to 2 months after stopping therapy. The washout period should be sufficient for lymphocyte count to recover before treatment is started.
 
 Teriflunomide is eliminated slowly from the plasma. Without an accelerated elimination procedure, clearance of teriflunomide from plasma can take from several months up to 2 years. An accelerated elimination procedure as defined in the teriflunomide Summary of Product Characteristics is recommended or alternatively washout period should not be shorter than 3.5 months. Caution regarding potential concomitant immune effects is required when switching patients from teriflunomide to this medicinal product.
+
+<div style=\"page-break-after: always\"></div>
 
 Alemtuzumab has profound prolonged immunosuppressive effects. As the actual duration of these effects is unknown, initiating treatment with this medicinal product after alemtuzumab is not recommended unless the benefits clearly outweigh the risks for the individual patient.
 
 ## Immunogenicity
 
-Disease exacerbations or infusion related events may indicate the development of antibodies against natalizumab. In these cases the presence of antibodies should be evaluated and if these remain positive in a confirmatory test after at least 6 weeks, treatment should be discontinued, as persistent antibodies are associated with a substantial decrease in efficacy of natalizumab and an increased incidence of hypersensitivity reactions (see section 4.8).
+Disease exacerbations or infusion related events may indicate the development of antibodies against natalizumab. In these cases, the presence of antibodies should be evaluated and if these remain positive in a confirmatory test after at least 6 weeks, treatment should be discontinued, as persistent antibodies are associated with a substantial decrease in efficacy of natalizumab and an increased incidence of hypersensitivity reactions (see section 4.8).
 
-Since patients who have received an initial short exposure to natalizumab and then had an extended period without treatment are at a higher risk of developing anti-natalizumab antibodies and/or hypersensitivity upon redosing, the presence of antibodies should be evaluated and if these remain positive in a confirmatory test after at least 6  weeks, the patient should not receive further treatment with natalizumab (see section 5.1).
+Since patients who have received an initial short exposure to natalizumab and then had an extended period without treatment are at a higher risk of developing anti-natalizumab antibodies and/or hypersensitivity upon redosing, the presence of antibodies should be evaluated and if these remain positive in a confirmatory test after at least 6 weeks, the patient should not receive further treatment with natalizumab (see section 5.1).
 
 ## Hepatic events
 
-Spontaneous serious adverse reactions of liver injury have been reported during the post-marketing phase (see section 4.8). These liver injuries may occur at any time during treatment, even after the first dose. In some instances, the reaction reoccurred when treatment was reintroduced. Some patients with a past medical history of an abnormal liver test have experienced an exacerbation of abnormal liver test while on treatment. Patients should be monitored as appropriate for impaired liver function, and be instructed to contact their physician in case signs and symptoms suggestive of liver injury occur, such as jaundice and vomiting. In cases of significant liver injury this medicinal product should be discontinued.
+Spontaneous serious adverse reactions of liver injury have been reported during the post-marketing phase (see section 4.8). These liver injuries may occur at any time during treatment, even after the first dose. In some instances, the reaction reoccurred when treatment was reintroduced. Some patients with a past medical history of an abnormal liver test have experienced an exacerbation of abnormal liver test while on treatment. Patients should be monitored as appropriate for impaired liver function and be instructed to contact their physician in case signs and symptoms suggestive of liver injury occur, such as jaundice and vomiting. In cases of significant liver injury this medicinal product should be discontinued.
 
 ## Thrombocytopenia
 
 Thrombocytopenia, including immune thrombocytopenic purpura (ITP), has been reported with the use of natalizumab. Delay in the diagnosis and treatment of thrombocytopenia may lead to serious and life-threatening sequelae. Patients should be instructed to report to their physician immediately if they experience any signs of unusual or prolonged bleeding, petechiae, or spontaneous bruising. If thrombocytopenia is identified, discontinuation of natalizumab should be considered.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Stopping therapy
 
-If a decision is made to stop treatment with natalizumab, the physician needs to be aware that natalizumab remains in the blood, and has pharmacodynamic effects (e.g increased lymphocyte counts) for approximately 12 weeks following the last dose. Starting other therapies during this interval will result in a concomitant exposure to natalizumab. For medicinal products such as interferon and glatiramer acetate, concomitant exposure of this duration was not associated with safety risks in clinical trials. No data are available in MS patients regarding concomitant exposure with immunosuppressant medication. Use of these medicinal products soon after the discontinuation of natalizumab may lead to an additive immunosuppressive effect. This should be carefully considered on a case-by-case basis, and a wash-out period of natalizumab might be appropriate. Short courses of steroids used to treat relapses were not associated with increased infections in clinical trials.
+If a decision is made to stop treatment with natalizumab, the physician needs to be aware that natalizumab remains in the blood and has pharmacodynamic effects (e.g increased lymphocyte counts) for approximately 12 weeks following the last dose. Starting other therapies during this interval will result in a concomitant exposure to natalizumab. For medicinal products such as interferon and glatiramer acetate, concomitant exposure of this duration was not associated with safety risks in clinical trials. No data are available in MS patients regarding concomitant exposure with immunosuppressant medication. Use of these medicinal products soon after the discontinuation of natalizumab may lead to an additive immunosuppressive effect. This should be carefully considered on a case-by-case basis, and a wash-out period of natalizumab might be appropriate. Short courses of steroids used to treat relapses were not associated with increased infections in clinical trials.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Sodium content
 
@@ -314,13 +316,13 @@ Data from clinical trials, a prospective pregnancy registry, post-marketing case
 
 The completed prospective natalizumab pregnancy registry contained 355 pregnancies with available outcomes. There were 316 live births, 29 of which were reported to have birth defects. Sixteen of the 29 were classified as major defects. The rate of defects corresponds to the defect rates reported in other pregnancy registries involving MS patients. There is no evidence of a specific pattern of birth defects with natalizumab.
 
-<div style=\"page-break-after: always\"></div>
-
 There are no adequate and well-controlled studies of natalizumab therapy in pregnant women.
 
 Thrombocytopenia and anaemia in infants born to women exposed to natalizumab during pregnancy were reported in the post-marketing setting. Monitoring of platelet counts, haemoglobin, and haematocrit is recommended in neonates born to women exposed to natalizumab during pregnancy.
 
 This medicinal product should be used during pregnancy only if clearly needed. If a woman becomes pregnant while taking natalizumab, discontinuation of natalizumab should be considered.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Breast-feeding
 
@@ -346,39 +348,38 @@ In clinical trials in 6 786 patients treated with natalizumab (intravenous infus
 
 Adverse reactions arising from clinical studies, post-authorisation safety studies and spontaneous reports are presented in Table 1, below. Within the system organ classes they are listed under the following headings: Very common (≥1/10); Common (≥1/100 to &lt;1/10); Uncommon (≥1/1 000 to &lt;1/100); Rare (≥1/10 000 to &lt;1/1 000); Very rare (&lt;1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-## Table 1: Adverse reactions
+## Table 1. Adverse reactions
 
-| MedDRA                      | Frequency of adverse reactions   | Frequency of adverse reactions   | Frequency of adverse reactions             | Frequency of adverse reactions   | Frequency of adverse reactions   |
-|-----------------------------|----------------------------------|----------------------------------|--------------------------------------------|----------------------------------|----------------------------------|
-| System Organ Class          | Very Common                      | Common                           | Uncommon                                   | Rare                             | Not known                        |
-| Infections and infestations | Nasopharyngitis                  | Herpes infection                 | Progressive multifocal leukoencephalopathy | Herpes ophthalmic                | Meningoencephalitis herpetic     |
-
-<div style=\"page-break-after: always\"></div>
-
-| MedDRA System Organ Class                            | Frequency of adverse reactions   | Frequency of adverse reactions                                | Frequency of adverse reactions                                       | Frequency of adverse reactions         | Frequency of adverse reactions                                    |
-|------------------------------------------------------|----------------------------------|---------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------|-------------------------------------------------------------------|
-| MedDRA System Organ Class                            | Very Common                      | Common                                                        | Uncommon                                                             | Rare                                   | Not known                                                         |
-|                                                      | Urinary tract infection          |                                                               |                                                                      |                                        | JC virus granule cell neuropathy Necrotising herpetic retinopathy |
-| Blood and lymphatic system disorders                 |                                  | Anaemia                                                       | Thrombocytopenia, Immune thrombocytopenic purpura (ITP) Eosinophilia | Haemolytic anaemia Nucleated red cells |                                                                   |
-| Immune system disorders                              |                                  | Hypersensitivity                                              | Anaphylactic reaction Immune reconstitution inflammatory syndrome    |                                        |                                                                   |
-| Nervous system disorders                             | Dizziness Headache               |                                                               |                                                                      |                                        |                                                                   |
-| Vascular disorders                                   |                                  | Flushing                                                      |                                                                      |                                        |                                                                   |
-| Respiratory, thoracic and mediastinal disorders      |                                  | Dyspnoea                                                      |                                                                      |                                        |                                                                   |
-| Gastrointestinal disorders                           | Nausea                           | Vomiting                                                      |                                                                      |                                        |                                                                   |
-| Hepatobiliary disorders                              |                                  |                                                               |                                                                      | Hyperbilirubinaemia                    | Liver injury                                                      |
-| Skin and subcutaneous tissue disorders               |                                  | Pruritus Rash Urticaria                                       |                                                                      | Angioedema                             |                                                                   |
-| Musculoskeletal and connective tissue disorders      | Arthralgia                       |                                                               |                                                                      |                                        |                                                                   |
-| General disorders and administration site conditions | Fatigue                          | Pyrexia Chills Infusion site reaction Injection site reaction | Face oedema                                                          |                                        |                                                                   |
-| Investigations                                       |                                  | Hepatic enzyme increased Drug specific antibody present       |                                                                      |                                        |                                                                   |
-| Injury, poisoning and procedural complications       | Infusion related reaction        |                                                               |                                                                      |                                        |                                                                   |
+| MedDRA System Organ                  | Frequency of adverse reactions          | Frequency of adverse reactions   | Frequency of adverse reactions                                       | Frequency of adverse reactions         | Frequency of adverse reactions                                                                 |
+|--------------------------------------|-----------------------------------------|----------------------------------|----------------------------------------------------------------------|----------------------------------------|------------------------------------------------------------------------------------------------|
+| Class                                | Very Common                             | Common                           | Uncommon                                                             | Rare                                   | Not known                                                                                      |
+| Infections and infestations          | Nasopharyngitis Urinary tract infection | Herpes infection                 | Progressive multifocal leukoencephalopathy                           | Herpes ophthalmic                      | Meningoencephalitis herpetic JC virus granule cell neuropathy Necrotising herpetic retinopathy |
+| Blood and lymphatic system disorders |                                         | Anaemia                          | Thrombocytopenia, Immune thrombocytopenic purpura (ITP) Eosinophilia | Haemolytic anaemia Nucleated red cells |                                                                                                |
 
 <div style=\"page-break-after: always\"></div>
+
+| MedDRA                                               | Frequency of adverse reactions   | Frequency of adverse reactions                                | Frequency of adverse reactions                                    | Frequency of adverse reactions   | Frequency of adverse reactions   |
+|------------------------------------------------------|----------------------------------|---------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------|----------------------------------|
+| System Organ Class                                   | Very Common                      | Common                                                        | Uncommon                                                          | Rare                             | Not known                        |
+| Immune system disorders                              |                                  | Hypersensitivity                                              | Anaphylactic reaction Immune reconstitution inflammatory syndrome |                                  |                                  |
+| Nervous system disorders                             | Dizziness Headache               |                                                               |                                                                   |                                  |                                  |
+| Vascular disorders                                   |                                  | Flushing                                                      |                                                                   |                                  |                                  |
+| Respiratory, thoracic and mediastinal disorders      |                                  | Dyspnoea                                                      |                                                                   |                                  |                                  |
+| Gastrointestinal disorders                           | Nausea                           | Vomiting                                                      |                                                                   |                                  |                                  |
+| Hepatobiliary disorders                              |                                  |                                                               |                                                                   | Hyperbilirubinaemia              | Liver injury                     |
+| Skin and subcutaneous tissue disorders               |                                  | Pruritus Rash Urticaria                                       |                                                                   | Angioedema                       |                                  |
+| Musculoskeletal and connective tissue disorders      | Arthralgia                       |                                                               |                                                                   |                                  |                                  |
+| General disorders and administration site conditions | Fatigue                          | Pyrexia Chills Infusion site reaction Injection site reaction | Face oedema                                                       |                                  |                                  |
+| Investigations                                       |                                  | Hepatic enzyme increased Drug specific antibody present       |                                                                   |                                  |                                  |
+| Injury, poisoning and procedural complications       | Infusion related reaction        |                                                               |                                                                   |                                  |                                  |
 
 ## Description of selected adverse reactions
 
 ## Infusion-related reactions (IRR)
 
 In 2-year controlled clinical trials in MS patients, an infusion-related event was defined as an adverse event occurring during the infusion or within 1 hour of the completion of the infusion. These occurred in 23.1% of MS patients treated with natalizumab (placebo: 18.7%). Events reported more commonly with natalizumab than with placebo included dizziness, nausea, urticaria and rigors.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hypersensitivity reactions
 
@@ -396,29 +397,23 @@ In 2-year controlled clinical trials in MS patients, the rate of infection was a
 
 In clinical trials, herpes infections (Varicella-Zoster virus, Herpes-simplex virus) occurred slightly more frequently in natalizumab-treated patients than in placebo-treated patients. In post-marketing experience, serious, life-threatening, and sometimes fatal cases of encephalitis and meningitis caused by herpes simplex or varicella zoster have been reported in multiple sclerosis patients receiving natalizumab. The duration of treatment with natalizumab prior to onset ranged from a few months to several years (see section 4.4).
 
-In post-marketing experience, rare cases of ARN have been observed in patients receiving natalizumab. Some cases have occurred in patients with central nervous system (CNS) herpes infections (e.g. herpes meningitis and encephalitis). Serious cases of ARN, either affecting one or both eyes, led to blindness in some patients. The treatment reported in these cases included anti-viral therapy and in some cases, surgery (see section 4.4).
+In post-marketing experience, rare cases of ARN have been observed in patients receiving natalizumab. Some cases have occurred in patients with central nervous system (CNS) herpes infections (e.g. herpes meningitis and encephalitis). Serious cases of ARN, either affecting one or both eyes, led to blindness in some patients. The treatment reported in these cases included anti-viral therapy and, in some cases, surgery (see section 4.4).
 
-Cases of PML have been reported from clinical trials, post-marketing observational studies and postmarketing passive surveillance. PML usually leads to severe disability or death (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
-
-Cases of JCV GCN have also been reported during post-marketing use of natalizumab. Symptoms of JCV GCN are similar to PML.
+Cases of PML have been reported from clinical trials, post-marketing observational studies and postmarketing passive surveillance. PML usually leads to severe disability or death (see section 4.4). Cases of JCV GCN have also been reported during post-marketing use of natalizumab. Symptoms of JCV GCN are similar to PML.
 
 ## Hepatic events
 
 Spontaneous cases of serious liver injuries, increased liver enzymes, hyperbilirubinaemia have been reported during the post-marketing phase (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Anaemia and haemolytic anaemia
 
 Rare, serious cases of anaemia and haemolytic anaemia have been reported in patients treated with natalizumab in post-marketing observational studies.
 
-## Malignancies
-
-No differences in incidence rates or the nature of malignancies between natalizumab- and placebotreated patients were observed over 2 years of treatment. However, observation over longer treatment periods is required before any effect of natalizumab on malignancies can be excluded (see section 4.3).
-
 ## Effects on laboratory tests
 
-In 2-year controlled clinical trials in MS patients treatment with natalizumab was associated with increases in circulating lymphocytes, monocytes, eosinophils, basophils and nucleated red blood cells. Elevations in neutrophils were not seen. Increases from baseline for lymphocytes, monocytes, eosinophils and basophils ranged from 35% to 140% for individual cell types but mean cell counts remained within normal ranges with IV administration. During treatment with IV form of natalizumab, small reductions in haemoglobin (mean decrease 0.6 g/dL), haematocrit (mean decrease 2%) and red blood cell counts (mean decrease 0.1 x 10 6 /L) were seen. All changes in haematological variables returned to pre-treatment values, usually within 16 weeks of last dose of natalizumab and the changes were not associated with clinical symptoms. In post-marketing experience, there have also been reports of eosinophilia (eosinophil count &gt;1,500/mm 3 ) without clinical symptoms. In such cases where therapy was discontinued the elevated eosinophil levels resolved.
+In 2-year controlled clinical trials in MS patients, treatment with natalizumab was associated with increases in circulating lymphocytes, monocytes, eosinophils, basophils and nucleated red blood cells. Elevations in neutrophils were not seen. Increases from baseline for lymphocytes, monocytes, eosinophils and basophils ranged from 35% to 140% for individual cell types but mean cell counts remained within normal ranges with IV administration. During treatment with IV form of natalizumab, small reductions in haemoglobin (mean decrease 0.6 g/dL), haematocrit (mean decrease 2%) and red blood cell counts (mean decrease 0.1 x 10 6 /L) were seen. All changes in haematological variables returned to pre-treatment values, usually within 16 weeks of last dose of natalizumab and the changes were not associated with clinical symptoms. In post-marketing experience, there have also been reports of eosinophilia (eosinophil count &gt;1 500/mm 3 ) without clinical symptoms. In such cases where therapy was discontinued the elevated eosinophil levels resolved.
 
 ## Thrombocytopenia
 
@@ -432,8 +427,6 @@ Serious adverse events were evaluated in 621 MS paediatric patients included in 
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.9 Overdose
 
 Safety of doses higher than 300 mg has not been adequately evaluated. The maximum amount of natalizumab that can be safely administered has not been determined.
@@ -446,15 +439,15 @@ There is no known antidote for natalizumab overdose. Treatment consists of disco
 
 Pharmacotherapeutic group: Immunosuppressants, monoclonal antibodies, ATC code: L04AG03
 
-Tyruko is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Tyruko is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Pharmacodynamic effects
 
 Natalizumab is a selective adhesion-molecule inhibitor and binds to the α4-subunit of human integrins, which is highly expressed on the surface of all leukocytes, with the exception of neutrophils. Specifically, natalizumab binds to the α4β1 integrin, blocking the interaction with its cognate receptor, vascular cell adhesion molecule-1 (VCAM-1), and ligands osteopontin, and an alternatively spliced domain of fibronectin, connecting segment-1 (CS-1). Natalizumab blocks the interaction of α4β7 integrin with the mucosal addressin cell adhesion molecule-1 (MadCAM-1). Disruption of these molecular interactions prevents transmigration of mononuclear leukocytes across the endothelium into inflamed parenchymal tissue. A further mechanism of action of natalizumab may be to suppress ongoing inflammatory reactions in diseased tissues by inhibiting the interaction of α4-expressing leukocytes with their ligands in the extracellular matrix and on parenchymal cells. As such, natalizumab may act to suppress inflammatory activity present at the disease site, and inhibit further recruitment of immune cells into inflamed tissues.
 
 In MS, lesions are believed to occur when activated T-lymphocytes cross the blood-brain barrier (BBB). Leukocyte migration across the BBB involves interaction between adhesion molecules on inflammatory cells and endothelial cells of the vessel wall. The interaction between α4β1 and its targets is an important component of pathological inflammation in the brain and disruption of these interactions leads to reduced inflammation. Under normal conditions, VCAM-1 is not expressed in the brain parenchyma. However, in the presence of pro-inflammatory cytokines, VCAM-1 is upregulated on endothelial cells and possibly on glial cells near the sites of inflammation. In the setting of central nervous system (CNS) inflammation in MS, it is the interaction of α4β1 with VCAM-1, CS-1 and osteopontin that mediates the firm adhesion and transmigration of leukocytes into the brain parenchyma and may perpetuate the inflammatory cascade in CNS tissue. Blockade of the molecular interactions of α4β1 with its targets reduces inflammatory activity present in the brain in MS and inhibits further recruitment of immune cells into inflamed tissue, thus reducing the formation or enlargement of MS lesions.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Clinical efficacy
 
@@ -464,55 +457,58 @@ Efficacy as monotherapy has been evaluated in one randomised, double-blind, plac
 
 Study features and results are presented in the Table 2.
 
-| Table 2. AFFIRM study: Main features and results                | Table 2. AFFIRM study: Main features and results                                           | Table 2. AFFIRM study: Main features and results                                           |
-|-----------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Design                                                          | Monotherapy; randomised double-blind placebo-controlled parallel-group trial for 120 weeks | Monotherapy; randomised double-blind placebo-controlled parallel-group trial for 120 weeks |
-| Subjects                                                        | RRMS (McDonald criteria)                                                                   | RRMS (McDonald criteria)                                                                   |
-| Treatment                                                       | Placebo / Natalizumab 300 mg i.v. every 4 weeks                                            | Placebo / Natalizumab 300 mg i.v. every 4 weeks                                            |
-| One year endpoint                                               | Relapse rate                                                                               | Relapse rate                                                                               |
-| Two year endpoint                                               | Progression on EDSS                                                                        | Progression on EDSS                                                                        |
-| Secondary endpoints                                             | Relapse rate derived variables / MRI-derived variables                                     | Relapse rate derived variables / MRI-derived variables                                     |
-| Subjects                                                        | Placebo                                                                                    | Natalizumab                                                                                |
-| Randomised                                                      | 315                                                                                        | 627                                                                                        |
-| Completing 1 years                                              | 296                                                                                        | 609                                                                                        |
-| Completing 2 years                                              | 285                                                                                        | 589                                                                                        |
-| Age yrs, median (range)                                         | 37 (19-50)                                                                                 | 36 (18-50)                                                                                 |
-| MS-history yrs, median (range)                                  | 6.0 (0-33)                                                                                 | 5.0 (0-34)                                                                                 |
-| Time since diagnosis, yrs median (range)                        | 2.0 (0-23)                                                                                 | 2.0 (0-24)                                                                                 |
-| Relapses in previous 12 months, median (range)                  | 1.0 (0-5)                                                                                  | 1.0 (0-12)                                                                                 |
-| EDSS-baseline, median (range)                                   | 2 (0-6.0)                                                                                  | 2 (0-6.0)                                                                                  |
-| RESULTS                                                         |                                                                                            |                                                                                            |
-| Annual relapse rate                                             |                                                                                            |                                                                                            |
-| After one year (primary endpoint)                               | 0.805                                                                                      | 0.261                                                                                      |
-| After two years                                                 | 0.733                                                                                      | 0.235                                                                                      |
-| One year                                                        | Rate ratio 0.33 CI 95% 0.26 ; 0.41                                                         | Rate ratio 0.33 CI 95% 0.26 ; 0.41                                                         |
-| Two years                                                       | Rate ratio 0.32 CI 95% 0.26 ; 0.40                                                         | Rate ratio 0.32 CI 95% 0.26 ; 0.40                                                         |
-| Relapse free                                                    |                                                                                            |                                                                                            |
-| After one year                                                  | 53%                                                                                        | 76%                                                                                        |
-| After two years                                                 | 41%                                                                                        | 67%                                                                                        |
-| Disability                                                      |                                                                                            |                                                                                            |
-| Proportion progressed 1 (12-week confirmation; primary outcome) | 29%                                                                                        | 17%                                                                                        |
-| Hazard ratio 0.58, CI 95% 0.43; 0.73, p<0.001                   | Hazard ratio 0.58, CI 95% 0.43; 0.73, p<0.001                                              | Hazard ratio 0.58, CI 95% 0.43; 0.73, p<0.001                                              |
-| Proportion progressed 1 (24-week confirmation)                  | 23%                                                                                        | 11%                                                                                        |
-| Hazard ratio 0.46, CI 95% 0.33; 0.64, p<0.001                   | Hazard ratio 0.46, CI 95% 0.33; 0.64, p<0.001                                              | Hazard ratio 0.46, CI 95% 0.33; 0.64, p<0.001                                              |
+| Table 2. AFFIRM study: Main features and results   | Table 2. AFFIRM study: Main features and results                                           | Table 2. AFFIRM study: Main features and results                                           |
+|----------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Design                                             | Monotherapy; randomised double-blind placebo-controlled parallel-group trial for 120 weeks | Monotherapy; randomised double-blind placebo-controlled parallel-group trial for 120 weeks |
+| Subjects                                           | RRMS (McDonald criteria)                                                                   | RRMS (McDonald criteria)                                                                   |
+| Treatment                                          | Placebo / Natalizumab 300 mg i.v. every 4 weeks                                            | Placebo / Natalizumab 300 mg i.v. every 4 weeks                                            |
+| One year endpoint                                  | Relapse rate                                                                               | Relapse rate                                                                               |
+| Two year endpoint                                  | Progression on EDSS                                                                        | Progression on EDSS                                                                        |
+| Secondary endpoints                                | Relapse rate derived variables / MRI-derived variables                                     | Relapse rate derived variables / MRI-derived variables                                     |
+| Subjects                                           | Placebo                                                                                    | Natalizumab                                                                                |
+| Randomised                                         | 315                                                                                        | 627                                                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
-| Table 2. AFFIRM study: Main features and results               | Table 2. AFFIRM study: Main features and results   | Table 2. AFFIRM study: Main features and results   |
-|----------------------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
-| MRI (0-2 years)                                                |                                                    |                                                    |
-| Median %change in T2- hyperintense lesion volume               | +8.8%                                              | -9.4% (p<0.001)                                    |
-| Mean number of new or newly- enlarging T2-hyperintense lesions | 11.0                                               | 1.9 (p<0.001)                                      |
-| Mean number of T1-hypointense lesions                          | 4.6                                                | 1.1 (p<0.001)                                      |
-| Mean number of Gd-enhancing lesions                            | 1.2                                                | 0.1 (p<0.001)                                      |
-
-1 Progression of disability was defined as at least a 1.0 point increase on the EDSS from a baseline EDSS &gt;=1.0 sustained for 12 or 24 weeks or at least a 1.5 point increase on the EDSS from a baseline EDSS = 0 sustained for 12 or 24 weeks.
+| Completing 1 years                                              | 296                                           | 609                                           |
+|-----------------------------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+| Completing 2 years                                              | 285                                           | 589                                           |
+| Age yrs, median (range)                                         | 37 (19-50)                                    | 36 (18-50)                                    |
+| MS-history yrs, median (range)                                  | 6.0 (0-33)                                    | 5.0 (0-34)                                    |
+| Time since diagnosis, yrs median (range)                        | 2.0 (0-23)                                    | 2.0 (0-24)                                    |
+| Relapses in previous 12 months, median (range)                  | 1.0 (0-5)                                     | 1.0 (0-12)                                    |
+| EDSS-baseline, median (range)                                   | 2 (0-6.0)                                     | 2 (0-6.0)                                     |
+| RESULTS                                                         | RESULTS                                       | RESULTS                                       |
+| Annual relapse rate                                             | Annual relapse rate                           | Annual relapse rate                           |
+| After one year (primary endpoint)                               | 0.805                                         | 0.261                                         |
+| After two years                                                 | 0.733                                         | 0.235                                         |
+| One year                                                        | Rate ratio 0.33 CI 95% 0.26 ; 0.41            | Rate ratio 0.33 CI 95% 0.26 ; 0.41            |
+| Two years                                                       | Rate ratio 0.32 CI 95% 0.26 ; 0.40            | Rate ratio 0.32 CI 95% 0.26 ; 0.40            |
+| Relapse free                                                    | Relapse free                                  | Relapse free                                  |
+| After one year                                                  | 53%                                           | 76%                                           |
+| After two years                                                 | 41%                                           | 67%                                           |
+| Disability                                                      | Disability                                    | Disability                                    |
+| Proportion progressed 1 (12-week confirmation; primary outcome) | 29%                                           | 17%                                           |
+| Proportion progressed 1 (12-week confirmation; primary outcome) | Hazard ratio 0.58, CI 95% 0.43; 0.73, p<0.001 | Hazard ratio 0.58, CI 95% 0.43; 0.73, p<0.001 |
+| Proportion progressed 1 (24-week confirmation)                  | 23%                                           | 11%                                           |
+| Proportion progressed 1 (24-week confirmation)                  | Hazard ratio 0.46, CI 95% 0.33; 0.64, p<0.001 | Hazard ratio 0.46, CI 95% 0.33; 0.64, p<0.001 |
+| MRI (0-2 years)                                                 | MRI (0-2 years)                               | MRI (0-2 years)                               |
+| Median %change in T2- hyperintense lesion volume                | +8.8%                                         | -9.4% (p<0.001)                               |
+| Mean number of new or newly- enlarging T2-hyperintense lesions  | 11.0                                          | 1.9 (p<0.001)                                 |
+| Mean number of T1-hypointense lesions                           | 4.6                                           | 1.1 (p<0.001)                                 |
+| Mean number of Gd-enhancing lesions                             | 1.2                                           | 0.1 (p<0.001)                                 |
 
 In the sub-group of patients indicated for treatment of rapidly evolving RRMS (patients with 2 or more relapses and 1 or more Gd+ lesion), the annualised relapse rate was 0.282 in the natalizumab-treated group (n = 148) and 1.455 in the placebo group (n = 61) (p &lt;0.001). Hazard ratio for disability progression was 0.36 (95% CI: 0.17, 0.76) p = 0.008. These results were obtained from a post hoc analysis and should be interpreted cautiously. No information on the severity of the relapses before inclusion of patients in the study is available.
 
-## Natalizumab observational program
+## Natalizumab observational program (IMA-06-02)
 
-Interim analysis of results (as of May 2015) from an ongoing natalizumab observational program, a phase 4, multicentre, single-arm study (n = 5,770) demonstrated that patients switching from beta interferon (n = 3,255) or glatiramer acetate (n = 1,384) to natalizumab showed a sustained, significant decrease in annualised relapse rate (p &lt;0.0001). Mean EDSS scores remained stable over 5 years. Consistent with efficacy results observed for patients switching from beta interferon or glatiramer acetate to natalizumab, for patients switching from fingolimod (n = 147) to natalizumab, a significant decrease in annualised relapse rate (ARR) was observed, which remained stable over 2 years, and mean EDSS scores remained similar from baseline to Year 2. The limited sample size and shorter duration of natalizumab exposure for this subgroup of patients should be considered when interpreting these data.
+The natalizumab observational program (IMA-06-02) was a multicentre, single-arm study initiated in 2007 to assess real-world safety and effectiveness outcomes in MS patients treated with natalizumab, with patient follow-up data for up to approximately 15 years. The study generated data from 6 319 patients in 17 countries, including 1 145 patients with up to 10 years of exposure and 102 patients with up to 15 years of exposure.
+
+<div style=\"page-break-after: always\"></div>
+
+Overall, the safety findings of the analyses were consistent with the known safety profile of natalizumab. Patients showed reductions in pre-treatment annualised relapse rate (ARR) regardless of the number of prior relapses, baseline EDSS, prior immunosuppressants use, or the number of DMTs used prior to natalizumab initiation. In the overall population, the ARR was 0.17 (95% CI: 0.17, 0.18) over the course of 15 years of follow up. Mean EDSS scores were similar from baseline (3.5, SD = 1.61) to year 15 (3.4, SD = 1.97) in patients treated with natalizumab.
+
+A total of 5 635 patients had received another DMT prior to natalizumab initiation. The patients switching from beta interferon, glatiramer acetate or fingolimod had similar effectiveness outcomes to the overall natalizumab-treated population.
 
 ## Paediatric population
 
@@ -522,21 +518,21 @@ A post-marketing meta-analysis was conducted using data from 621 paediatric MS p
 
 In a pre-specified, retrospective analysis of US anti-JCV antibody positive natalizumab patients intravenously administered, the risk of PML was compared between patients treated with the approved dosing interval and patients treated with extended interval dosing as identified in the last 18 months of exposure (EID, average dosing intervals of approximately 6 weeks). The majority (85%) of patients dosed with EID had received the approved dosing for ≥1 year prior to switching to EID. The analysis showed a lower risk of PML in patients treated with EID (hazard ratio = 0.06, 95% CI of hazard ratio = 0.01 to 0.22).
 
-Efficacy has been modelled for patients who switch to longer dosing after ≥1 year of approved dosing with this medicinal product under intravenous administration and who did not experience a relapse in the year prior to switching. Current pharmacokinetic/pharmacodynamic statistical modelling and simulation indicate that the risk of MS disease activity for patients switching to longer dosing intervals
-
-<div style=\"page-break-after: always\"></div>
-
-may be higher for patients with dosing intervals ≥7 weeks. No prospective clinical studies have been completed to validate these findings.
+Efficacy has been modelled for patients who switch to longer dosing after ≥1 year of approved dosing with this medicinal product under intravenous administration and who did not experience a relapse in the year prior to switching. Current pharmacokinetic/pharmacodynamic statistical modelling and simulation indicate that the risk of MS disease activity for patients switching to longer dosing intervals may be higher for patients with dosing intervals ≥7 weeks. No prospective clinical studies have been completed to validate these findings.
 
 The efficacy of natalizumab when administered with EID has not been established, therefore the benefit/risk balance of EID is unknown (see 'Intravenous administration Q6W' ).
 
 ## Intravenous administration Q6W
 
-Efficacy and safety were evaluated in a prospective, randomized, interventional, controlled, openlabel, rater-blinded, international phase 3 study (NOVA, 101MS329), involving subjects with relapsing-remitting MS according to the 2017 McDonald criteria dosed intravenously every six weeks with natalizumab. The study was designed to estimate an efficacy difference between Q6W and Q4W dosing regimens.
+Efficacy and safety were evaluated in a prospective, randomized, interventional, controlled, openlabel, rater-blinded, international phase 3 study (NOVA, 101MS329), involving subjects with relapsing-remitting MS according to the 2017 McDonald criteria dosed intravenously every 6 weeks with natalizumab. The study was designed to estimate an efficacy difference between Q6W and Q4W dosing regimens.
 
 The study randomized 499 subjects aged 18-60, with an EDSS score ≤ 5.5 at screening, who received at least 1 year of natalizumab treatment IV Q4W and were clinically stable (no relapse in the last 12 months, no gadolinium (Gd) enhancing T1 lesions at screening). In the study, subjects who switched to Q6W after at least one year of IV Q4W treatment with natalizumab were evaluated in relation to subjects who continued on IV Q4W treatment.
 
-Baseline demographic subgroups of age, sex, duration of natalizumab exposure, country, body weight, anti-JCV status and number of relapses in the year prior to the first dose, number of relapses while on natalizumab, number of prior DMTs, and type of prior DMT were similar between the Q6W and Q4W dosing treatment arms.
+Baseline demographic subgroups of age, sex, duration of natalizumab exposure, country, body weight, anti-JCV status and number of relapses in the year prior to the first dose, number of relapses while on
+
+<div style=\"page-break-after: always\"></div>
+
+natalizumab, number of prior DMTs, and type of prior DMT were similar between the Q6W and Q4W dosing treatment arms.
 
 | Table 3. NOVA study: Main features and results                                                     | Table 3. NOVA study: Main features and results                                                                            | Table 3. NOVA study: Main features and results                                                                            |
 |----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -557,25 +553,22 @@ Baseline demographic subgroups of age, sex, duration of natalizumab exposure, co
 |                                                                                                    | p = 0.0755                                                                                                                | p = 0.0755                                                                                                                |
 | Proportion of subjects that developed N/NE T2 lesions                                              | 4.1%                                                                                                                      | 4.3%                                                                                                                      |
 | Proportion of subjects who developed T1- hypointense lesions                                       | 0.8%                                                                                                                      | 1.2%                                                                                                                      |
+| Proportion of subjects who developed Gd- enhancing lesions                                         | 0.4%                                                                                                                      | 0.4%                                                                                                                      |
+| Adjusted annualized relapse rate                                                                   | 0.00010                                                                                                                   | 0.00013                                                                                                                   |
+| Proportion of subjects free of relapse**                                                           | 97.6%                                                                                                                     | 96.9%                                                                                                                     |
+| Proportion free of 24-week confirmed EDSS worsening                                                | 92%                                                                                                                       | 90%                                                                                                                       |
+
+- a  mITT population, which included all randomized participants who received at least 1 dose of study treatment (natalizumab SID or natalizumab EID) and had at least 1 postbaseline result from the following clinical efficacy assessments: MRI efficacy assessments, relapses, EDSS, 9-HPT, T25FW, SDMT, TSQM, CGI scale.
+- b Estimated using negative binomial regression with treatment as classification and baseline body weight (≤ 80 vs &gt; 80 kg), duration of natalizumab exposure at baseline (≤ 3 vs &gt; 3 years), and region (North America, the UK, Europe and Israel, and Australia) as covariates.
+- c Observed lesions are included for analysis regardless of intercurrent events, and missing values due to efficacy or safety (6 subjects switched to Q4W dosing and 1 subject each on Q6W and Q4W dosing discontinued treatment)  are imputed by the worst case of subjects on treatment at the same visit in the same treatment group or otherwise  via multiple imputation.
+* The numerical difference seen in the N/NE lesions between the two treatment groups was driven by a high number  of lesions occurring in two subjects in the Q6W arm - one subject who developed lesions three months after treatment discontinuation and a second subject who was diagnosed with  asymptomatic PML at week 72.
+- ** Relapses - clinical relapses were assessed as defined by new or recurrent neurologic symptoms not associated with fever or infection having a minimum duration of 24 hours.
 
 <div style=\"page-break-after: always\"></div>
 
-| Table 3. NOVA study: Main features and results             | Table 3. NOVA study: Main features and results   | Table 3. NOVA study: Main features and results   |
-|------------------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
-| Proportion of subjects who developed Gd- enhancing lesions | 0.4%                                             | 0.4%                                             |
-| Adjusted annualized relapse rate                           | 0.00010                                          | 0.00013                                          |
-| Proportion of subjects free of relapse**                   | 97.6%                                            | 96.9%                                            |
-| Proportion free of 24-week confirmed EDSS worsening        | 92%                                              | 90%                                              |
-
-- a mITT population, which included all randomized participants who received at least 1 dose of study treatment (natalizumab SID or natalizumab EID) and had at least 1 postbaseline result from the following clinical efficacy assessments: MRI efficacy assessments, relapses, EDSS, 9HPT, T25FW, SDMT, TSQM, CGI scale.
-- b Estimated using negative binomial regression with treatment as classification and baseline body weight (≤ 80 vs &gt; 80 kg), duration of natalizumab exposure at baseline (≤ 3 vs &gt; 3 years), and region (North America, the UK, Europe and Israel, and Australia) as covariates.
-- c  Observed lesions are included for analysis regardless of intercurrent events, and missing values due to efficacy or safety (6 subjects switched to Q4W dosing and 1 subject each on Q6W and Q4W dosing discontinued treatment)  are imputed by the worst case of subjects on treatment at the same visit in the same treatment group or otherwise via multiple imputation.
-* The numerical difference seen in the N/NE lesions between the two treatment groups was driven by a high number of lesions occurring in two subjects in the Q6W arm - one subject who developed lesions three months after treatment discontinuation and a second subject who was diagnosed with asymptomatic PML at week 72.
-- ** Relapses - clinical relapses were assessed as defined by new or recurrent neurologic symptoms not associated with fever or infection having a minimum duration of 24 hours.
-
 ## 5.2 Pharmacokinetic properties
 
-Following the repeat intravenous administration of a 300 mg dose of natalizumab to MS patients, the mean maximum observed serum concentration was 110 ± 52 μg/mL. Mean average steady-state trough natalizumab concentrations over the dosing period ranged from 23 μg/mL to 29 μg/mL in Q4W dosing. At any time, mean trough concentrations for the Q6W regimen were approximately 60 to 70% lower than for the Q4W regimen. The predicted time to steady state was approximately 24 weeks. Population pharmacokinetic analysis includes 12 studies and 1,781 subjects receiving doses ranging from 1 to 6 mg/kg and fixed doses of 150/300 mg.
+Following the repeat intravenous administration of a 300 mg dose of natalizumab to MS patients, the mean maximum observed serum concentration was 110 ± 52 μg/mL. Mean average steady-state trough natalizumab concentrations over the dosing period ranged from 23 μg/mL to 29 μg/mL in Q4W dosing. At any time, mean trough concentrations for the Q6W regimen were approximately 60 to 70%   lower than for the Q4W regimen. The predicted time to steady state was approximately 24 weeks. Population pharmacokinetic analysis includes 12 studies and 1 781 subjects receiving doses ranging from 1 to 6 mg/kg and fixed doses of 150/300 mg.
 
 ## Distribution
 
@@ -585,9 +578,7 @@ Median steady-state volume of distribution was 5.96 L (5.59-6.38 L, 95% confiden
 
 Population median estimate for linear clearance was 6.08 mL/h (5.75-6.33 mL/h, 95% confidence interval) and the estimated median half-life was 28.2 days. The 95 th percentile interval of the terminal half-life is from 11.6 to 46.2 days.
 
-The population analysis of 1,781 patients explored the effects of selected covariates including body weight, age, gender, presence of anti-natalizumab antibodies and formulation on pharmacokinetics. Only body weight, the presence of anti-natalizumab antibodies and the formulation used in phase 2 studies were found to influence natalizumab disposition. Natalizumab clearance increased with body weight in a less-than-proportional manner, such that a +/-43% change in body weight resulted in only a -33% to 30% change in clearance. The presence of persistent anti-natalizumab antibodies increased natalizumab clearance approximately 2.45-fold, consistent with reduced serum natalizumab concentrations observed in persistently antibody-positive patients.
-
-<div style=\"page-break-after: always\"></div>
+The population analysis of 1 781 patients explored the effects of selected covariates including body weight, age, gender, presence of anti-natalizumab antibodies and formulation on pharmacokinetics. Only body weight, the presence of anti-natalizumab antibodies and the formulation used in phase 2 studies were found to influence natalizumab disposition. Natalizumab clearance increased with body weight in a less-than-proportional manner, such that a +/-43% change in body weight resulted in only a -33% to 30% change in clearance. The presence of persistent anti-natalizumab antibodies increased natalizumab clearance approximately 2.45-fold, consistent with reduced serum natalizumab concentrations observed in persistently antibody-positive patients.
 
 ## Special populations
 
@@ -611,6 +602,8 @@ Consistent with the pharmacological activity of natalizumab, altered trafficking
 
 In studies conducted in mice, growth and metastasis of melanoma and lymphoblastic leukaemia tumour cells was not increased by the administration of natalizumab.
 
+<div style=\"page-break-after: always\"></div>
+
 No clastogenic or mutagenic effects of natalizumab were observed in the Ames or human chromosomal aberration assays. Natalizumab showed no effects on in vitro assays of α4-integrinpositive tumour line proliferation or cytotoxicity.
 
 Reductions in female guinea pig fertility were observed in one study at doses in excess of the human dose; natalizumab did not affect male fertility.
@@ -618,8 +611,6 @@ Reductions in female guinea pig fertility were observed in one study at doses in
 The effect of natalizumab on reproduction was evaluated in 5 studies, 3 in guinea pigs and 2 in cynomolgus monkeys. These studies showed no evidence of teratogenic effects or effects on growth of offspring. In one study in guinea pigs, a small reduction in pup survival was noted. In a study in monkeys, the number of abortions was doubled in the natalizumab 30 mg/kg treatment groups versus matching control groups. This was the result of a high incidence of abortions in treated groups in the first cohort that was not observed in the second cohort. No effects on abortion rates were noted in any other study. A study in pregnant cynomolgus monkeys demonstrated natalizumab-related changes in the foetus that included mild anaemia, reduced platelet counts, increased spleen weights and reduced liver and thymus weights. These changes were associated with increased splenic extramedullary haematopoiesis, thymic atrophy and decreased hepatic haematopoiesis. Platelet counts were also reduced in offspring born to mothers treated with natalizumab until parturition, however there was no evidence of anaemia in these offspring. All changes were observed at doses in excess of the human dose and were reversed upon clearance of natalizumab.
 
 In cynomolgus monkeys treated with natalizumab until parturition, low levels of natalizumab were detected in the breast milk of some animals.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -642,6 +633,8 @@ No incompatibilities have been observed with polypropylene syringe, with polyvin
 ## Diluted solution
 
 From a microbiological point of view, after dilution with sodium chloride 9 mg/mL (0.9%) solution for injection, immediate use is recommended. If not used immediately, the diluted solution must be stored at 2 ˚C to 8 ˚C and infused within 24 hours of dilution. In-use storage times and conditions prior to use are the responsibility of the user.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.4 Special precautions for storage
 
@@ -666,9 +659,6 @@ Any unused medicinal product or waste material should be disposed of in accordan
 ## Instructions for use
 
 - Inspect the vial for particles prior to dilution and administration. If particles are observed and/or the liquid in the vial is not colourless, clear to slightly opalescent, the vial must not be used.
-
-<div style=\"page-break-after: always\"></div>
-
 - Use aseptic technique when preparing the solution for intravenous (IV) infusion. Remove flipoff cap from the vial. Insert the syringe needle into the vial through the centre of the rubber stopper and remove 15 mL concentrate for solution for infusion.
 - Add the 15 mL concentrate for solution for infusion to 100 mL sodium chloride 9 mg/mL (0.9%) solution for injection. Gently invert the solution to mix completely. Do not shake.
 - This medicinal product must not be mixed with other medicinal products or diluents.
@@ -677,6 +667,8 @@ Any unused medicinal product or waste material should be disposed of in accordan
 - The diluted solution is to be infused intravenously over 1 hour at a rate of approximately 2 mL per minute.
 - After the infusion is complete, flush the intravenous line with sodium chloride 9 mg/mL (0.9%) solution for injection.
 - Each vial is for single-use only.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -692,13 +684,13 @@ Date of first authorisation: 22 September 2023
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-- A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE   FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
@@ -709,17 +701,13 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturers of the biological active substance
 
-Polpharma Biologics S.A. Ul. Trzy Lipy 3 80-172 Gdańsk
-
-Poland
+Polpharma Biologics S.A. Ul. Trzy Lipy 3 80-172 Gdańsk Poland
 
 Polpharma Biologics S.A. Ul. Spoldzielcza 4 05-850 Duchnice, Ozarow Mazowiecki Poland
 
 Name and address of the manufacturer responsible for batch release
 
-Sandoz GmbH Biochemiestrasse 10 6250 Kundl
-
-Austria
+Sandoz GmbH Biochemiestrasse 10 6250 Kundl Austria
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -768,7 +756,7 @@ These educational materials shall contain the following key elements:
 - Background information on the increased risk of atypical/opportunistic infections, in particular PML, which may occur with Tyruko therapy, including a detailed discussion of data (including epidemiology, aetiology, and pathology ) pertaining to the development of PML in Tyrukotreated patients.
 - Information relating to the identification of risk factors for Tyruko-associated PML, including details of the PML risk estimates algorithm summarising PML risk by risk factor (anti-John Cunningham virus [JCV] antibody status, prior IS use, and duration of treatment [by year of treatment]), and stratification of this risk by index value when applicable.
 - Information on extending the dosing interval for PML risk mitigation , including a reminder of the approved dosing schedule.
-- Inclusion of monitoring guidance for MRI and anti-JCV antibody based on PML risk, including recommended timing, protocols, and interpretation of results.
+- Inclusion of monitoring guidance for MRI and anti-JCV antibody based on PML risk,  including recommended timing, protocols, and interpretation of results.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -841,9 +829,7 @@ Sodium chloride, Histidine, Histidine monohydrochloride, Polysorbate 80 (E 433) 
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-Intravenous use after dilution.
-
-After dilution, do not shake.
+Intravenous use after dilution. After dilution, do not shake.
 
 Read the package leaflet before use.
 
@@ -857,53 +843,49 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator. Do not freeze.
+Store in a refrigerator. Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
-Keep the vial in the outer carton in order to protect from light.
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Sandoz GmbH
+Sandoz GmbH Biochemiestrasse 10 6250 Kundl Austria
 
-Biochemiestrasse 10
-
-6250 Kundl
-
-Austria
-
-## 12. MARKETING AUTHORISATION NUMBER
+| 12.   | MARKETING AUTHORISATION NUMBER   |
+|-------|----------------------------------|
 
 EU/1/23/1745/001
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
-PC
-
-SN
+PC SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -933,9 +915,9 @@ Lot
 
 ## 6. OTHER
 
-## Additional information to appear on the fixed part of the label: PC
+Additional information to appear on the fixed part of the label: PC
 
-## Information to appear on peel-off label:
+Information to appear on peel-off label:
 
 Tyruko 300 mg natalizumab
 
@@ -980,7 +962,7 @@ In addition to this leaflet you will be given a patient alert card. This contain
 
 ## 1. What Tyruko is and what it is used for
 
-Tyruko is used to treat multiple sclerosis (MS). It contains the active substance natalizumab. This is called a monoclonal antibody.
+Tyruko is used to treat multiple sclerosis (MS) in adults. It contains the active substance natalizumab. This is called a monoclonal antibody .
 
 MS causes inflammation in the brain that damages the nerve cells. This inflammation happens when white blood cells get into the brain and spinal cord. This medicine stops the white blood cells getting through to the brain. This reduces nerve damage caused by MS.
 
@@ -1128,11 +1110,11 @@ Speak to your doctor or nurse immediately if you notice any of the following.
 ## Signs of a brain infection
 
 - Changes in personality and behaviour such as confusion, delirium or loss of consciousness
-- Headache
 - Seizures (fits)
+- Headache
 - Nausea / vomiting
-- Extreme sensitivity to bright light
 - Stiff neck
+- Extreme sensitivity to bright light
 - Fever
 - Rash (anywhere on the body)
 
@@ -1141,22 +1123,22 @@ These symptoms may be caused by an infection of the brain ( encephalitis or PML 
 ## Signs of other serious infections
 
 - An unexplained fever
-- Shortness of breath
 - Severe diarrhoea
+- Shortness of breath
 - Prolonged dizziness
-- Weight loss
 - Headache
+- Weight loss
 - Listlessness
-- Pain or redness of the eye(s)
 - Impaired vision
+- Pain or redness of the eye(s)
 
 <div style=\"page-break-after: always\"></div>
 
 ## Signs of an allergic reaction
 
 - Itchy rash ( hives )
-- Difficulty breathing
 - Swelling of your face, lips or tongue
+- Difficulty breathing
 - Chest pain or discomfort
 - Increase or decrease in your blood pressure (your doctor or nurse will notice this if they are monitoring your blood pressure)
 
@@ -1165,8 +1147,8 @@ These are most likely during or shortly after the infusion.
 ## Signs of a possible liver problem
 
 - Yellowing of your skin or the whites of your eyes
-- Abnormal liver function test
 - Unusual darkening of the urine
+- Abnormal liver function test
 
 Speak to a doctor or nurse immediately if you get any of the side effects listed above, or if you think you have an infection. Show your patient alert card and this package leaflet to any doctor or nurse who treats you, not only to your neurologist.
 
@@ -1175,11 +1157,11 @@ Speak to a doctor or nurse immediately if you get any of the side effects listed
 ## Very common (may affect more than 1 in 10 people)
 
 - Urinary tract infection
-- Headache
 - Sore throat and runny or blocked up nose
+- Headache
 - Dizziness
-- Joint pain
 - Feeling sick (nausea)
+- Joint pain
 - Tiredness
 - Dizziness, feeling sick (nausea), itching and chills during or shortly after infusion
 
@@ -1187,23 +1169,23 @@ Speak to a doctor or nurse immediately if you get any of the side effects listed
 
 - Anaemia (decrease in your red blood cells which can make your skin pale and can make you feel breathless or lacking energy)
 - Allergy ( hypersensitivity )
-- Itchy rash ( hives )
 - Shivering
+- Itchy rash ( hives )
 - Being sick ( vomiting )
-- Difficulty breathing ( dyspnoea)
 - Fever
+- Difficulty breathing ( dyspnoea)
 - Reddening of the face or body ( flushing )
-- Discomfort around the place you have had your infusion. You could experience bruising, redness, pain, itching or swelling
 - Herpes infections
+- Discomfort around the place you have had your infusion. You could experience bruising, redness, pain, itching or swelling
 
 ## Uncommon (may affect up to 1 in 100 people)
 
 - Severe allergy ( anaphylactic reaction )
-- Inflammatory disorder after discontinuation of the medicinal product
 - Progressive multifocal leukoencephalopathy (PML)
+- Inflammatory disorder after discontinuation of the medicinal product
 - Facial swelling
-- Reduction in blood platelets
 - An increase in the number of white blood cells ( eosinophilia )
+- Reduction in blood platelets
 - Easy bruising (purpura)
 
 <div style=\"page-break-after: always\"></div>
@@ -1215,12 +1197,12 @@ Rare (may affect up to 1 in 1 000 people)
 - Severe swelling under the skin
 - High levels of bilirubin in the blood ( hyperbilirubinaemia ) which may cause symptoms such as yellowing of your eyes or skin, fever and tiredness
 
-## Not known (frequency cannot be estimated from the available data)
+Not known (frequency cannot be estimated from the available data)
 
 - Unusual infections (so-called ' opportunistic infections ')
 - Damage to your liver
 
-## Speak to your doctor as soon as possible if you think you have an infection .
+Speak to your doctor as soon as possible if you think you have an infection .
 
 You will also find this information in the patient alert card you have been given by your doctor.
 
@@ -1342,7 +1324,7 @@ Tel: +370 5 2636 037
 
 ## Luxembourg/Luxemburg
 
-Sandoz nv/sa ( Belgique/Belgien)
+Sandoz nv/sa (Belgique/Belgien)
 
 Tél/Tel: +32 2 722 97 97
 
@@ -1396,7 +1378,9 @@ Tel: + 353 27 50077
 
 ## Slovenija
 
-Sandoz farmacevtska družba d.d. Tel: +386 1 580 29 02
+Sandoz farmacevtska družba d.d.
+
+Tel: +386 1 580 21 11
 
 ## Italia
 
@@ -1412,7 +1396,7 @@ Tel: +421 2 48 200 600
 
 ## Κύπρος
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε .
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.
 
 (Ελλάδα)
 
@@ -1430,7 +1414,7 @@ Puh/Tel: +358 10 6133 400
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -1441,7 +1425,7 @@ Detailed information on this medicine is available on the European Medicines Age
 3. Add the 15 mL concentrate for solution for infusion to 100 mL sodium chloride 9 mg/mL (0.9%) solution for injection. Gently invert the solution to mix completely. Do not shake.
 4. Tyruko must not be mixed with other medicinal products or diluents.
 5. Visually inspect the diluted medicinal product for particles or discolouration prior to administration. Do not use if it is discoloured or if foreign particles are seen.
-6. The diluted medicinal product is to be used as soon as possible and within 24 hours of dilution. If the diluted medicinal product is stored at 2 to 8 °C (do not freeze), allow the solution to warm to room temperature prior to infusion.
+6. The diluted medicinal product is to be used as soon as possible and within 24 hours of dilution. If the diluted medicinal product is stored at 2 °C to 8 °C (do not freeze), allow the solution to warm to room temperature prior to infusion.
 7. The diluted solution is to be infused intravenously over 1 hour at a rate of approximately 2 mL per minute.
 8. After the infusion is complete, flush the intravenous line with sodium chloride 9 mg/mL (0.9%) solution for injection.
 9. Each vial is for single-use only.

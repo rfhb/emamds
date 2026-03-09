@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-10-01 11:48:11
+document_datetime: 2026-03-05 14:52:55
 document_pages: 126
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/imatinib-teva-epar-product-information_en.pdf
 document_name: imatinib-teva-epar-product-information_en.pdf
 version: success
-processing_time: 34.3970633
-conversion_datetime: 2025-12-27 19:33:02.5358
+processing_time: 43.9673102
+conversion_datetime: 2026-03-09 14:16:38.653674
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.77.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -197,15 +197,12 @@ Imatinib is mainly metabolised through the liver. Patients with mild, moderate o
 
 Liver dysfunction classification:
 
-| Liver dysfunction   | Liver function tests                                                                      |
-|---------------------|-------------------------------------------------------------------------------------------|
-| Mild                | Total bilirubin: = 1.5 ULN AST: >ULN (can be normal or < ULN if total bilirubin is > ULN) |
-| Moderate            | Total bilirubin: > 1.5-3.0 ULN AST: any                                                   |
-| Severe              | Total bilirubin: > 3-10 ULN AST: any                                                      |
-
-ULN = upper limit of normal for the institution
-
-AST = aspartate aminotransferase
+| Liver dysfunction                                                                | Liver function tests                                                                      |
+|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| Mild                                                                             | Total bilirubin: = 1.5 ULN AST: >ULN (can be normal or < ULN if total bilirubin is > ULN) |
+| Moderate                                                                         | Total bilirubin: > 1.5-3.0 ULN AST: any                                                   |
+| Severe                                                                           | Total bilirubin: > 3-10 ULN AST: any                                                      |
+| ULN = upper limit of normal for the institution AST = aspartate aminotransferase |                                                                                           |
 
 ## Renal insufficiency
 
@@ -291,7 +288,7 @@ Liver function (transaminases, bilirubin, alkaline phosphatase) should be monito
 
 <div style=\"page-break-after: always\"></div>
 
-In patients with impaired renal function, imatinib plasma exposure seems to be higher than that in patients with normal renal function, probably due to an elevated plasma level of alpha-acid glycoprotein (AGP), an imatinib-binding protein, in these patients. Patients with renal impairment should be given the minimum starting dose. Patients with severe renal impairment should be treated with caution. The dose can be reduced if not tolerated (see section 4.2 and 5.2).
+In patients with impaired renal function, imatinib plasma exposure seems to be higher than that in patients with normal renal function, probably due to an elevated plasma level of alpha-acid glycoprotein (AGP), an imatinib-binding protein, in these patients. Patients with renal impairment should be given the minimum starting dose. Patients with severe renal impairment should be treated with caution. The dose can be reduced if not tolerated (see sections 4.2 and 5.2).
 
 Long-term treatment with imatinib may be associated with a clinically significant decline in renal function. Renal function should, therefore, be evaluated prior to the start of imatinib therapy and closely monitored during therapy, with particular attention to those patients exhibiting risk factors for renal dysfunction. If renal dysfunction is observed, appropriate management and treatment should be prescribed in accordance with standard treatment guidelines.
 
@@ -317,13 +314,15 @@ Because of known increased risks of bleeding in conjunction with the use of imat
 
 In vitro imatinib inhibits the cytochrome P450 isoenzyme CYP2D6 activity at concentrations similar to those that affect CYP3A4 activity. Imatinib at 400 mg twice daily had an inhibitory effect on CYP2D6-mediated metoprolol metabolism, with metoprolol Cmax and AUC being increased by approximately 23% (90%CI [1.16-1.30]). Dose adjustments do not seem to be necessary when imatinib is co-administrated with CYP2D6 substrates, however caution is advised for CYP2D6 substrates with a narrow therapeutic window such as metoprolol. In patients treated with metoprolol clinical monitoring should be considered.
 
-In vitro , imatinib inhibits paracetamol O-glucuronidation with Ki value of 58.5 micromol/l. This inhibition has not been observed in vivo after the administration of imatinib 400 mg and paracetamol 1000 mg. Higher doses of imatinib and paracetamol have not been studied.
+In vitro , imatinib inhibits paracetamol O-glucuronidation with Ki value of 58.5 micromol/l. This inhibition has not been observed in vivo after the administration of imatinib 400 mg and paracetamol 1 000 mg. Higher doses of imatinib and paracetamol have not been studied.
 
 Caution should therefore be exercised when using high doses of imatinib and paracetamol concomitantly.
 
 In thyroidectomy patients receiving levothyroxine, the plasma exposure to levothyroxine may be decreased when imatinib is co-administered (see section 4.4). Caution is therefore recommended. However, the mechanism of the observed interaction is presently unknown.
 
 In Ph+ ALL patients, there is clinical experience of co-administering imatinib with chemotherapy (see section 5.1), but drug-drug interactions between imatinib and chemotherapy regimens are not well characterised. Imatinib adverse events, i.e. hepatotoxicity, myelosuppression or others, may increase and it has been reported that concomitant use with L-asparaginase could be associated with increased hepatotoxicity (see section 4.8). Therefore, the use of imatinib in combination requires special precaution.
+
+Imatinib may have the potential to delay the clearance of methotrexate, particularly when methotrexate is used at high doses (&gt;500 mg/m 2 ). Caution is recommended when imatinib is given concomitantly with methotrexate.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -341,9 +340,9 @@ There is limited information on imatinib distribution on human milk. Studies in 
 
 ## Fertility
 
-In non-clinical studies, the fertility of male and female rats was not affected, although effects on reproductive parameters were observed (see section 5.3). Studies on patients receiving imatinib and its effect on fertility and gametogenesis have not been performed. Patients who are concerned about their fertility on imatinib treatment should consult with their physician.
-
 <div style=\"page-break-after: always\"></div>
+
+In non-clinical studies, the fertility of male and female rats was not affected, although effects on reproductive parameters were observed (see section 5.3). Studies on patients receiving imatinib and its effect on fertility and gametogenesis have not been performed. Patients who are concerned about their fertility on imatinib treatment should consult with their physician.
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -365,110 +364,110 @@ Miscellaneous adverse reactions such as pleural effusion, ascites, pulmonary oed
 
 ## Adverse reactions
 
-Adverse reactions reported as more than an isolated case are listed below, by system organ class and by frequency. Frequency categories are defined using the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
+Adverse reactions reported as more than an isolated case are listed below, by system organ class and by frequency. Frequency categories are defined using the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), not known (cannot be estimated from the available data).
+
+<div style=\"page-break-after: always\"></div>
 
 Within each frequency grouping, undesirable effects are presented in order of frequency, the most frequent first.
 
 Adverse reactions and their frequencies are reported in Table 1.
 
-<div style=\"page-break-after: always\"></div>
+Table 1 Tabulated summary of adverse reactions
 
-## Table 1 Tabulated summary of adverse reactions
-
-| Infections and infestations                                             | Infections and infestations                                                                                                                                                         |
-|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Uncommon                                                                | Herpes zoster, herpes simplex, nasopharyngitis, pneumonia 1 , sinusitis, cellulitis, upper respiratory tract infection, influenza, urinary tract infection, gastroenteritis, sepsis |
-| Rare                                                                    | Fungal infection                                                                                                                                                                    |
-| Not known                                                               | Hepatitis B reactivation*                                                                                                                                                           |
-| Neoplasm benign, malignant and unspecified (including cysts and polyps) | Neoplasm benign, malignant and unspecified (including cysts and polyps)                                                                                                             |
-| Rare                                                                    | Tumour lysis syndrome                                                                                                                                                               |
-| Not known                                                               | Tumour haemorrhage/tumour necrosis*                                                                                                                                                 |
-| Immune system disorders                                                 | Immune system disorders                                                                                                                                                             |
-| Not known                                                               | Anaphylactic shock*                                                                                                                                                                 |
-| Blood and lymphatic system disorders                                    | Blood and lymphatic system disorders                                                                                                                                                |
-| Very common                                                             | Neutropenia, thrombocytopenia, anaemia                                                                                                                                              |
-| Common                                                                  | Pancytopenia, febrile neutropenia                                                                                                                                                   |
-| Uncommon                                                                | Thrombocythaemia, lymphopenia, bone marrow depression, eosinophilia, lymphadenopathy                                                                                                |
-| Rare                                                                    | Haemolytic anaemia, thrombotic microangiopathy                                                                                                                                      |
-| Metabolism and nutrition disorders                                      | Metabolism and nutrition disorders                                                                                                                                                  |
-| Common                                                                  | Anorexia                                                                                                                                                                            |
-| Uncommon                                                                | Hypokalaemia, increased appetite, hypophosphataemia, decreased appetite, dehydration, gout, hyperuricaemia, hypercalcaemia, hyperglycaemia, hyponatraemia                           |
-| Rare                                                                    | Hyperkalaemia, hypomagnesaemia                                                                                                                                                      |
-| Psychiatric disorders                                                   | Psychiatric disorders                                                                                                                                                               |
-| Common                                                                  | Insomnia                                                                                                                                                                            |
-| Uncommon                                                                | Depression, libido decreased, anxiety                                                                                                                                               |
-| Rare                                                                    | Confusional state                                                                                                                                                                   |
-| Nervous system disorders                                                | Nervous system disorders                                                                                                                                                            |
-| Very common                                                             | Headache 2                                                                                                                                                                          |
-| Common                                                                  | Dizziness, paraesthesia, taste disturbance, hypoaesthesia                                                                                                                           |
-| Uncommon                                                                | Migraine, somnolence, syncope, peripheral neuropathy, memory impairment, sciatica, restless leg syndrome, tremor, cerebral haemorrhage                                              |
-| Rare                                                                    | Increased intracranial pressure, convulsions, optic neuritis                                                                                                                        |
-| Not known                                                               | Cerebral oedema*                                                                                                                                                                    |
-| Eye disorders                                                           | Eye disorders                                                                                                                                                                       |
-| Common                                                                  | Eyelid oedema, lacrimation increased, conjunctival haemorrhage, conjunctivitis, dry eye, blurred vision                                                                             |
-| Uncommon                                                                | Eye irritation, eye pain, orbital oedema, scleral haemorrhage, retinal haemorrhage, blepharitis, macular oedema                                                                     |
-| Rare                                                                    | Cataract, glaucoma, papilloedema                                                                                                                                                    |
-| Not known                                                               | Vitreous haemorrhage*                                                                                                                                                               |
-| Ear and labyrinth disorders                                             | Ear and labyrinth disorders                                                                                                                                                         |
-| Uncommon                                                                | Vertigo, tinnitus, hearing loss                                                                                                                                                     |
-| Cardiac disorders                                                       | Cardiac disorders                                                                                                                                                                   |
-| Uncommon                                                                | Palpitations, tachycardia, cardiac failure congestive 3 , pulmonary oedema                                                                                                          |
-| Rare                                                                    | Arrhythmia, atrial fibrillation, cardiac arrest, myocardial infarction, angina pectoris, pericardial effusion                                                                       |
-| Not known                                                               | Pericarditis*, cardiac tamponade*                                                                                                                                                   |
-| Vascular disorders 4                                                    | Vascular disorders 4                                                                                                                                                                |
-| Common                                                                  | Flushing, haemorrhage                                                                                                                                                               |
-| Uncommon                                                                | Hypertension, haematoma, subdural haematoma, peripheral coldness, hypotension, Raynaud's phenomenon                                                                                 |
+| Infections and infestations                                         | Infections and infestations                                                                                                                                                         |
+|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Uncommon                                                            | Herpes zoster, herpes simplex, nasopharyngitis, pneumonia 1 , sinusitis, cellulitis, upper respiratory tract infection, influenza, urinary tract infection, gastroenteritis, sepsis |
+| Rare                                                                | Fungal infection                                                                                                                                                                    |
+| Not known                                                           | Hepatitis B reactivation*                                                                                                                                                           |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Neoplasms benign, malignant and unspecified (incl cysts and polyps)                                                                                                                 |
+| Rare                                                                | Tumour lysis syndrome                                                                                                                                                               |
+| Not known                                                           | Tumour haemorrhage/tumour necrosis*                                                                                                                                                 |
+| Immune system disorders                                             | Immune system disorders                                                                                                                                                             |
+| Not known                                                           | Anaphylactic shock*                                                                                                                                                                 |
+| Blood and lymphatic system disorders                                | Blood and lymphatic system disorders                                                                                                                                                |
+| Very common                                                         | Neutropenia, thrombocytopenia, anaemia                                                                                                                                              |
+| Common                                                              | Pancytopenia, febrile neutropenia                                                                                                                                                   |
+| Uncommon                                                            | Thrombocythaemia, lymphopenia, bone marrow depression, eosinophilia, lymphadenopathy                                                                                                |
+| Rare                                                                | Haemolytic anaemia, thrombotic microangiopathy                                                                                                                                      |
+| Metabolism and nutrition disorders                                  | Metabolism and nutrition disorders                                                                                                                                                  |
+| Common                                                              | Anorexia                                                                                                                                                                            |
+| Uncommon                                                            | Hypokalaemia, increased appetite, hypophosphataemia, decreased appetite, dehydration, gout, hyperuricaemia, hypercalcaemia, hyperglycaemia, hyponatraemia                           |
+| Rare                                                                | Hyperkalaemia, hypomagnesaemia                                                                                                                                                      |
+| Psychiatric disorders                                               | Psychiatric disorders                                                                                                                                                               |
+| Common                                                              | Insomnia                                                                                                                                                                            |
+| Uncommon                                                            | Depression, libido decreased, anxiety                                                                                                                                               |
+| Rare                                                                | Confusional state                                                                                                                                                                   |
+| Nervous system disorders                                            | Nervous system disorders                                                                                                                                                            |
+| Very common                                                         | Headache 2                                                                                                                                                                          |
+| Common                                                              | Dizziness, paraesthesia, taste disturbance, hypoaesthesia                                                                                                                           |
+| Uncommon                                                            | Migraine, somnolence, syncope, peripheral neuropathy, memory impairment, sciatica, restless leg syndrome, tremor, cerebral haemorrhage                                              |
+| Rare                                                                | Increased intracranial pressure, convulsions, optic neuritis                                                                                                                        |
+| Not known                                                           | Cerebral oedema*                                                                                                                                                                    |
+| Eye disorders                                                       | Eye disorders                                                                                                                                                                       |
+| Common                                                              | Eyelid oedema, lacrimation increased, conjunctival haemorrhage, conjunctivitis, dry eye, blurred vision                                                                             |
+| Uncommon                                                            | Eye irritation, eye pain, orbital oedema, scleral haemorrhage, retinal haemorrhage, blepharitis, macular oedema                                                                     |
+| Rare                                                                | Cataract, glaucoma, papilloedema                                                                                                                                                    |
+| Not known                                                           | Vitreous haemorrhage*                                                                                                                                                               |
+| Ear and labyrinth disorders                                         | Ear and labyrinth disorders                                                                                                                                                         |
+| Uncommon                                                            | Vertigo, tinnitus, hearing loss                                                                                                                                                     |
+| Cardiac disorders                                                   | Cardiac disorders                                                                                                                                                                   |
+| Uncommon                                                            | Palpitations, tachycardia, cardiac failure congestive 3 , pulmonary oedema                                                                                                          |
+| Rare                                                                | Arrhythmia, atrial fibrillation, cardiac arrest, myocardial infarction, angina pectoris, pericardial effusion                                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
-| Not known                                            | Thrombosis/embolism*                                                                                                                                                                                                                                                                   |
-|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                                        |
-| Common                                               | Dyspnoea, epistaxis, cough                                                                                                                                                                                                                                                             |
-| Uncommon                                             | Pleural effusion 5 , pharyngolaryngeal pain, pharyngitis                                                                                                                                                                                                                               |
-| Rare                                                 | Pleuritic pain, pulmonary fibrosis, pulmonary hypertension, pulmonary haemorrhage                                                                                                                                                                                                      |
-| Not known                                            | Acute respiratory failure 11 *, interstitial lung disease*                                                                                                                                                                                                                             |
-| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                                                                                                                                                                             |
-| Very common                                          | Nausea, diarrhoea, vomiting, dyspepsia, abdominal pain 6                                                                                                                                                                                                                               |
-| Common                                               | Flatulence, abdominal distension, gastro-oesophageal reflux, constipation, dry mouth, gastritis                                                                                                                                                                                        |
-| Uncommon                                             | Stomatitis, mouth ulceration, gastrointestinal haemorrhage 7 , eructation, melaena, oesophagitis, ascites, gastric ulcer, haematemesis, cheilitis, dysphagia, pancreatitis                                                                                                             |
-| Rare                                                 | Colitis, ileus, inflammatory bowel disease                                                                                                                                                                                                                                             |
-| Not known                                            | Ileus/intestinal obstruction*, gastrointestinal perforation*, diverticulitis*, gastric antral vascular ectasia (GAVE)*                                                                                                                                                                 |
-| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                                                                                                                                                                                |
-| Common                                               | Increased hepatic enzymes                                                                                                                                                                                                                                                              |
-| Uncommon                                             | Hyperbilirubinaemia, hepatitis, jaundice                                                                                                                                                                                                                                               |
-| Rare                                                 | Hepatic failure 8 , hepatic necrosis                                                                                                                                                                                                                                                   |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                                                 |
-| Very common                                          | Periorbital oedema, dermatitis/eczema/rash                                                                                                                                                                                                                                             |
-| Common                                               | Pruritus, face oedema, dry skin, erythema, alopecia, night sweats, photosensitivity reaction                                                                                                                                                                                           |
-| Uncommon                                             | Rash pustular, contusion, sweating increased, urticaria, ecchymosis, increased tendency to bruise, hypotrichosis, skin hypopigmentation, dermatitis exfoliative, onychoclasis, folliculitis, petechiae, psoriasis, purpura, skin hyperpigmentation, bullous eruptions, panniculitis 12 |
-| Rare                                                 | Acute febrile neutrophilic dermatosis (Sweet's syndrome), nail discolouration, angioneurotic oedema, rash vesicular, erythema multiforme, leucocytoclastic vasculitis, Stevens-Johnson syndrome, acute generalised exanthematous pustulosis (AGEP), pemphigus*                         |
-| Not known                                            | Palmoplantar erythrodysesthesia syndrome*, lichenoid keratosis*, lichen planus*, toxic epidermal necrolysis*, drug rash with eosinophilia and systemic symptoms (DRESS)*, pseudoporphyria*                                                                                             |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                                        |
-| Very common                                          | Muscle spasm and cramps, musculoskeletal pain including myalgia 9 , arthralgia, bone pain 10                                                                                                                                                                                           |
-| Common                                               | Joint swelling                                                                                                                                                                                                                                                                         |
-| Uncommon                                             | Joint and muscle stiffness, osteonecrosis*                                                                                                                                                                                                                                             |
-| Rare                                                 | Muscular weakness, arthritis, rhabdomyolysis/myopathy                                                                                                                                                                                                                                  |
-| Not known                                            | Growth retardation in children*                                                                                                                                                                                                                                                        |
-| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                                                                                                                                                            |
-| Uncommon                                             | Renal pain, haematuria, renal failure acute, urinary frequency increased                                                                                                                                                                                                               |
-| Not known                                            | Renal failure chronic                                                                                                                                                                                                                                                                  |
-| Reproductive system and breast disorders             | Reproductive system and breast disorders                                                                                                                                                                                                                                               |
-| Uncommon                                             | Gynaecomastia, erectile dysfunction, menorrhagia, menstruation irregular, sexual dysfunction, nipple pain, breast enlargement, scrotal oedema                                                                                                                                          |
-| Rare                                                 | Haemorrhagic corpus luteum/haemorrhagic ovarian cyst                                                                                                                                                                                                                                   |
-| General disorders and administration site conditions | General disorders and administration site conditions                                                                                                                                                                                                                                   |
-| Very common                                          | Fluid retention and oedema, fatigue                                                                                                                                                                                                                                                    |
-| Common                                               | Weakness, pyrexia, anasarca, chills, rigors                                                                                                                                                                                                                                            |
+| Not known                                       | Pericarditis*, cardiac tamponade*                                                                                                                                                                                                                                                      |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Vascular disorders 4                            | Vascular disorders 4                                                                                                                                                                                                                                                                   |
+| Common                                          | Flushing, haemorrhage                                                                                                                                                                                                                                                                  |
+| Uncommon                                        | Hypertension, haematoma, subdural haematoma, peripheral coldness, hypotension, Raynaud's phenomenon                                                                                                                                                                                    |
+| Not known                                       | Thrombosis/embolism*                                                                                                                                                                                                                                                                   |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                                        |
+| Common                                          | Dyspnoea, epistaxis, cough                                                                                                                                                                                                                                                             |
+| Uncommon                                        | Pleural effusion 5 , pharyngolaryngeal pain, pharyngitis                                                                                                                                                                                                                               |
+| Rare                                            | Pleuritic pain, pulmonary fibrosis, pulmonary hypertension, pulmonary haemorrhage                                                                                                                                                                                                      |
+| Not known                                       | Acute respiratory failure 11 *, interstitial lung disease*                                                                                                                                                                                                                             |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                                                                                                                                                                                                             |
+| Very common                                     | Nausea, diarrhoea, vomiting, dyspepsia, abdominal pain 6                                                                                                                                                                                                                               |
+| Common                                          | Flatulence, abdominal distension, gastro-oesophageal reflux, constipation, dry mouth, gastritis                                                                                                                                                                                        |
+| Uncommon                                        | Stomatitis, mouth ulceration, gastrointestinal haemorrhage 7 , eructation, melaena, oesophagitis, ascites, gastric ulcer, haematemesis, cheilitis, dysphagia, pancreatitis                                                                                                             |
+| Rare                                            | Colitis, ileus, inflammatory bowel disease                                                                                                                                                                                                                                             |
+| Not known                                       | Ileus/intestinal obstruction*, gastrointestinal perforation*, diverticulitis*, gastric antral vascular ectasia (GAVE)*                                                                                                                                                                 |
+| Hepatobiliary disorders                         | Hepatobiliary disorders                                                                                                                                                                                                                                                                |
+| Common                                          | Increased hepatic enzymes                                                                                                                                                                                                                                                              |
+| Uncommon                                        | Hyperbilirubinaemia, hepatitis, jaundice                                                                                                                                                                                                                                               |
+| Rare                                            | Hepatic failure 8 , hepatic necrosis                                                                                                                                                                                                                                                   |
+| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                                                 |
+| Very common                                     | Periorbital oedema, dermatitis/eczema/rash                                                                                                                                                                                                                                             |
+| Common                                          | Pruritus, face oedema, dry skin, erythema, alopecia, night sweats, photosensitivity reaction                                                                                                                                                                                           |
+| Uncommon                                        | Rash pustular, contusion, sweating increased, urticaria, ecchymosis, increased tendency to bruise, hypotrichosis, skin hypopigmentation, dermatitis exfoliative, onychoclasis, folliculitis, petechiae, psoriasis, purpura, skin hyperpigmentation, bullous eruptions, panniculitis 12 |
+| Rare                                            | Acute febrile neutrophilic dermatosis (Sweet's syndrome), nail discolouration, angioneurotic oedema, rash vesicular, erythema multiforme, leucocytoclastic vasculitis, Stevens-Johnson syndrome, acute generalised exanthematous pustulosis (AGEP), pemphigus*                         |
+| Not known                                       | Palmoplantar erythrodysesthesia syndrome*, lichenoid keratosis*, lichen planus*, toxic epidermal necrolysis*, drug rash with eosinophilia and systemic symptoms (DRESS)*, pseudoporphyria*                                                                                             |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                                        |
+| Very common                                     | Muscle spasm and cramps, musculoskeletal pain including myalgia 9 , arthralgia, bone pain 10                                                                                                                                                                                           |
+| Common                                          | Joint swelling                                                                                                                                                                                                                                                                         |
+| Uncommon                                        | Joint and muscle stiffness, osteonecrosis*                                                                                                                                                                                                                                             |
+| Rare                                            | Muscular weakness, arthritis, rhabdomyolysis/myopathy                                                                                                                                                                                                                                  |
+| Not known                                       | Growth retardation in children*                                                                                                                                                                                                                                                        |
+| Renal and urinary disorders                     | Renal and urinary disorders                                                                                                                                                                                                                                                            |
+| Uncommon                                        | Renal pain, haematuria, renal failure acute, urinary frequency increased                                                                                                                                                                                                               |
+| Not known                                       | Renal failure chronic                                                                                                                                                                                                                                                                  |
+| Reproductive system                             | and breast disorders                                                                                                                                                                                                                                                                   |
 
 <div style=\"page-break-after: always\"></div>
 
-| Uncommon       | Chest pain, malaise                                                                                                                             |
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| Investigations | Investigations                                                                                                                                  |
-| Very common    | Weight increased                                                                                                                                |
-| Common         | Weight decreased                                                                                                                                |
-| Uncommon       | Blood creatinine increased, blood creatine phosphokinase increased, blood lactate dehydrogenase increased, blood alkaline phosphatase increased |
-| Rare           | Blood amylase increased                                                                                                                         |
+| Uncommon                                             | Gynaecomastia, erectile dysfunction, menorrhagia, menstruation irregular, sexual dysfunction, nipple pain, breast enlargement, scrotal oedema   |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| Rare                                                 | Haemorrhagic corpus luteum/haemorrhagic ovarian cyst                                                                                            |
+| General disorders and administration site conditions | General disorders and administration site conditions                                                                                            |
+| Very common                                          | Fluid retention and oedema, fatigue                                                                                                             |
+| Common                                               | Weakness, pyrexia, anasarca, chills, rigors                                                                                                     |
+| Uncommon                                             | Chest pain, malaise                                                                                                                             |
+| Investigations                                       | Investigations                                                                                                                                  |
+| Very common                                          | Weight increased                                                                                                                                |
+| Common                                               | Weight decreased                                                                                                                                |
+| Uncommon                                             | Blood creatinine increased, blood creatine phosphokinase increased, blood lactate dehydrogenase increased, blood alkaline phosphatase increased |
+| Rare                                                 | Blood amylase increased                                                                                                                         |
 
 * These types of reactions have been reported mainly from post-marketing experience with imatinib. This includes spontaneous case reports as well as serious adverse events from ongoing studies, the expanded access programmes, clinical pharmacology studies and exploratory studies in unapproved indications. Because these reactions are reported from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to imatinib exposure.
 - 1 Pneumonia was reported most commonly in patients with transformed CML and in patients with GIST.
@@ -478,7 +477,7 @@ Adverse reactions and their frequencies are reported in Table 1.
 - 5 Pleural effusion was reported more commonly in patients with GIST and in patients with transformed CML (CML-AP and CML-BC) than in patients with chronic CML.
 - 6+7 Abdominal pain and gastrointestinal haemorrhage were most commonly observed in GIST patients.
 - 8 Some fatal cases of hepatic failure and of hepatic necrosis have been reported.
-- 9 Musculoskeletal pain during treatment with imatinib or after discontinuation has been observed in post-marketing.
+- 9 Musculoskeletal pain during treatment with imatinib or after discontinuation has been observed in postmarketing.
 - 10 Musculoskeletal pain and related events were more commonly observed in patients with CML than in GIST patients.
 - 11 Fatal cases have been reported in patients with advanced disease, severe infections, severe neutropenia and other serious concomitant conditions.
 - 12 Including erythema nodosum.
@@ -493,11 +492,11 @@ Hepatitis B reactivation has been reported in association with BCR-ABL TKIs. Som
 
 ## Haematology
 
-In CML, cytopenias, particularly neutropenia and thrombocytopenia, have been a consistent finding in all studies, with the suggestion of a higher frequency at high doses ≥ 750 mg (phase I study). However, the occurrence of cytopenias was also clearly dependent on the stage of the disease, the frequency of grade 3 or 4 neutropenias (ANC &lt; 1.0 x 10 9 /l) and thrombocytopenias (platelet count &lt; 50 x 10 9 /l) being between 4 and 6 times higher in blast crisis and accelerated phase (59-64% and 44-63% for neutropenia and thrombocytopenia, respectively) as compared to newly diagnosed patients in chronic phase CML (16.7% neutropenia and 8.9% thrombocytopenia). In newly diagnosed chronic phase CML grade 4 neutropenia (ANC &lt; 0.5 x 10 9 /l) and thrombocytopenia (platelet count &lt; 10 x 10 9 /l) were observed in 3.6% and &lt; 1% of patients, respectively. The median duration of the neutropenic and thrombocytopenic episodes usually ranged from 2 to 3 weeks, and from 3 to 4 weeks, respectively. These events can usually be managed with either a reduction of the
+In CML, cytopenias, particularly neutropenia and thrombocytopenia, have been a consistent finding in a ll studies, with the suggestion of a higher frequency at high doses ≥ 750 mg (phase I study). However, the occurrence of cytopenias was also clearly dependent on the stage of the disease, the frequency of grade 3 or 4 neutropenias (ANC &lt; 1.0 x 10 9 /l) and thrombocytopenias (platelet count &lt; 50 x 10 9 /l) being between 4 and 6 times higher in blast crisis and accelerated phase (59-64% and 44-63% for neutropenia and thrombocytopenia, respectively) as compared to newly diagnosed patients in chronic phase CML (16.7% neutropenia and 8.9% thrombocytopenia). In newly diagnosed chronic phase CML grade 4 neutropenia (ANC &lt; 0.5 x 10 9 /l) and thrombocytopenia
 
 <div style=\"page-break-after: always\"></div>
 
-dose or an interruption of treatment with imatinib, but can in rare cases lead to permanent discontinuation of treatment. In paediatric CML patients the most frequent toxicities observed were grade 3 or 4 cytopenias involving neutropenia, thrombocytopenia and anaemia. These generally occur within the first several months of therapy.
+(platelet count &lt; 10 x 10 9 /l) were observed in 3.6% and &lt; 1% of patients, respectively. The median duration of the neutropenic and thrombocytopenic episodes usually ranged from 2 to 3 weeks, and from 3 to 4 weeks, respectively. These events can usually be managed with either a reduction of the dose or an interruption of treatment with imatinib, but can in rare cases lead to permanent discontinuation of treatment. In paediatric CML patients the most frequent toxicities observed were grade 3 or 4 cytopenias involving neutropenia, thrombocytopenia and anaemia. These generally occur within the first several months of therapy.
 
 In the study in patients with unresectable and/or metastatic GIST, grade 3 and 4 anaemia was reported in 5.4% and 0.7% of patients, respectively, and may have been related to gastrointestinal or intratumoural bleeding in at least some of these patients. Grade 3 and 4 neutropenia was seen in 7.5% and 2.7% of patients, respectively, and grade 3 thrombocytopenia in 0.7% of patients. No patient developed grade 4 thrombocytopenia. The decreases in white blood cell (WBC) and neutrophil counts occurred mainly during the first six weeks of therapy, with values remaining relatively stable thereafter.
 
@@ -517,11 +516,11 @@ Experience with doses higher than the recommended therapeutic dose is limited. I
 
 ## Adult population
 
-1200 mg to 1600 mg (duration varying between 1 to 10 days): Nausea, vomiting, diarrhoea, rash, erythema, oedema, swelling, fatigue, muscle spasms, thrombocytopenia, pancytopenia, abdominal pain, headache, decreased appetite.
+1 200 mg to 1 600 mg (duration varying between 1 to 10 days): Nausea, vomiting, diarrhoea, rash, erythema, oedema, swelling, fatigue, muscle spasms, thrombocytopenia, pancytopenia, abdominal pain, headache, decreased appetite.
 
-1800 mg to 3200 mg (as high as 3200 mg daily for 6 days): Weakness, myalgia, increased creatine phosphokinase, increased bilirubin, gastrointestinal pain.
+1 800 mg to 3 200 mg (as high as 3 200 mg daily for 6 days): Weakness, myalgia, increased creatine phosphokinase, increased bilirubin, gastrointestinal pain.
 
-6400 mg (single dose): One case reported in the literature of one patient who experienced nausea, vomiting, abdominal pain, pyrexia, facial swelling, decreased neutrophil count, increased transaminases.
+6 400 mg (single dose): One case reported in the literature of one patient who experienced nausea, vomiting, abdominal pain, pyrexia, facial swelling, decreased neutrophil count, increased transaminases.
 
 8 g to 10 g (single dose): Vomiting and gastrointestinal pain have been reported.
 
@@ -529,9 +528,9 @@ Experience with doses higher than the recommended therapeutic dose is limited. I
 
 One 3-year-old male exposed to a single dose of 400 mg experienced vomiting, diarrhoea and anorexia and another 3-year-old male exposed to a single dose of 980 mg experienced decreased white blood cell count and diarrhoea.
 
-In the event of overdose, the patient should be observed and appropriate supportive treatment given.
-
 <div style=\"page-break-after: always\"></div>
+
+In the event of overdose, the patient should be observed and appropriate supportive treatment given.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -561,13 +560,13 @@ In all clinical studies 38-40 % of patients were ≥ 60 years of age and 1012% o
 
 ## Chronic phase, newly diagnosed
 
-This phase III study in adult patients compared treatment with either single-agent imatinib or a combination of interferon-alpha (IFN) plus cytarabine (Ara-C). Patients showing lack of response (lack of complete haematological response (CHR) at 6 months, increasing WBC, no major cytogenetic response (MCyR) at 24 months), loss of response (loss of CHR or MCyR) or severe intolerance to treatment were allowed to cross over to the alternative treatment arm. In the imatinib
+This phase III study in adult patients compared treatment with either single-agent imatinib or a combination of interferon-alpha (IFN) plus cytarabine (Ara-C). Patients showing lack of response
 
 <div style=\"page-break-after: always\"></div>
 
-arm, patients were treated with 400 mg daily. In the IFN arm, patients were treated with a target dose of IFN of 5 MIU/m 2 /day subcutaneously in combination with subcutaneous Ara-C 20 mg/m 2 /day for 10 days/month.
+(lack of complete haematological response (CHR) at 6 months, increasing WBC, no major cytogenetic response (MCyR) at 24 months), loss of response (loss of CHR or MCyR) or severe intolerance to treatment were allowed to cross over to the alternative treatment arm. In the imatinib arm, patients were treated with 400 mg daily. In the IFN arm, patients were treated with a target dose of IFN of 5 MIU/m 2 /day subcutaneously in combination with subcutaneous Ara-C 20 mg/m 2 /day for 10 days/month.
 
-A total of 1.106 patients were randomised, 553 to each arm. Baseline characteristics were well balanced between the two arms. Median age was 51 years (range 18-70 years), with 21.9% of patients ≥ 60 years of age. There were 59% males and 41% females; 89.9% caucasian and 4.7% black patients. Seven years after the last patient had been recruited, the median duration of first-line treatment was 82 and 8 months in the imatinib and IFN arms, respectively. The median duration of second-line treatment with imatinib was 64 months. Overall, in patients receiving first-line imatinib, the average daily dose delivered was 406 ±76 mg. The primary efficacy endpoint of the study is progression-free survival. Progression was defined as any of the following events: progression to accelerated phase or blast crisis, death, loss of CHR or MCyR, or in patients not achieving a CHR an increasing WBC despite appropriate therapeutic management. Major cytogenetic response, haematological response, molecular response (evaluation of minimal residual disease), time to accelerated phase or blast crisis and survival are main secondary endpoints. Response data are shown in Table 2.
+A total of 1 106 patients were randomised, 553 to each arm. Baseline characteristics were well balanced between the two arms. Median age was 51 years (range 18-70 years), with 21.9% of patients ≥ 60 years of age. There were 59% males and 41% females; 89.9% caucasian and 4.7% black patients. Seven years after the last patient had been recruited, the median duration of first-line treatment was 82 and 8 months in the imatinib and IFN arms, respectively. The median duration of second-line treatment with imatinib was 64 months. Overall, in patients receiving first-line imatinib, the average daily dose delivered was 406 ±76 mg. The primary efficacy endpoint of the study is progression-free survival. Progression was defined as any of the following events: progression to accelerated phase or blast crisis, death, loss of CHR or MCyR, or in patients not achieving a CHR an increasing WBC despite appropriate therapeutic management. Major cytogenetic response, haematological response, molecular response (evaluation of minimal residual disease), time to accelerated phase or blast crisis and survival are main secondary endpoints. Response data are shown in Table 2.
 
 Table  2 Response  in newly diagnosed  CML  Study  (84-month  data)
 
@@ -594,15 +593,13 @@ Table  2 Response  in newly diagnosed  CML  Study  (84-month  data)
 
 WBC &lt; 10 x 10 9 /l, platelet &lt; 450 x 10 9 /l, myelocyte+metamyelocyte &lt; 5% in blood, no blasts and promyelocytes in blood, basophils &lt; 20%, no extramedullary involvement
 
-Cytogenetic  response criteria: complete (0% Ph+ metaphases), partial (1-35%), minor (3665%) or minimal (66-95%). A major response (0-35%) combines both complete and partial responses. Major molecular response criteria: in the peripheral blood reduction of ≥ 3 logarithms in the amount of Bcr-Abl transcripts (measured by real-time quantitative reverse transcriptase PCR assay) over a standardised baseline.
+Cytogenetic  response criteria: complete (0% Ph+ metaphases), partial (1-35%), minor (36-65%) or minimal (66-95%). A major response (0-35%) combines both complete and partial responses. Major molecular response criteria: in the peripheral blood reduction of ≥ 3 logarithms in the amount of Bcr-Abl transcripts (measured by real-time quantitative reverse transcriptase PCR assay) over a standardised baseline.
 
 Rates of complete haematological response, major cytogenetic response and complete cytogenetic response on first-line treatment were estimated using the Kaplan-Meier approach, for which non-responses were censored at the date of last examination. Using this approach, the estimated cumulative response rates for first-line treatment with imatinib improved from 12 months of therapy to 84 months of therapy as follows: CHR from 96.4% to 98.4% and CCyR from 69.5% to 87.2%, respectively.
 
-With 7 years follow-up, there were 93 (16.8%) progression events in the imatinib arm: 37 (6.7%) involving progression to accelerated phase/blast crisis, 31 (5.6%) loss of MCyR, 15 (2.7%) loss of
-
 <div style=\"page-break-after: always\"></div>
 
-CHR or increase in WBC, and 10 (1.8%) CML unrelated deaths. In contrast, there were 165 (29.8%) events in the IFN+Ara-C arm, of which 130 occurred during first-line treatment with IFN+Ara-C.
+With 7 years follow-up, there were 93 (16.8%) progression events in the imatinib arm: 37 (6.7%) involving progression to accelerated phase/blast crisis, 31 (5.6%) loss of MCyR, 15 (2.7%) loss of CHR or increase in WBC, and 10 (1.8%) CML unrelated deaths. In contrast, there were 165 (29.8%) events in the IFN+Ara-C arm, of which 130 occurred during first-line treatment with IFN+Ara-C.
 
 The estimated rate of patients free of progression to accelerated phase or blast crisis at 84 months was significantly higher in the imatinib arm compared to the IFN arm (92.5% versus 85.1%, p&lt;0.001). The annual rate of progression to accelerated phase or blast crisis decreased with time on therapy and was less than 1% annually in the fourth and fifth years. The estimated rate of progression-free survival at 84 months was 81.2% in the imatinib arm and 60.6% in the control arm (p&lt;0.001). The yearly rates of progression of any type for imatinib also decreased over time.
 
@@ -620,11 +617,9 @@ In this study 65% of the patients achieved a major cytogenetic response that was
 
 ## Accelerated phase
 
-235 adult patients with accelerated phase disease were enrolled. The first 77 patients were started at 400 mg, the protocol was subsequently amended to allow higher dosing and the remaining 158 patients
-
 <div style=\"page-break-after: always\"></div>
 
-were started at 600 mg.
+235 adult patients with accelerated phase disease were enrolled. The first 77 patients were started at 400 mg, the protocol was subsequently amended to allow higher dosing and the remaining 158 patients were started at 600 mg.
 
 The primary efficacy variable was the rate of haematological response, reported as either complete haematological response, no evidence of leukaemia (i.e. clearance of blasts from the marrow and the blood, but without a full peripheral blood recovery as for complete responses), or return to chronic phase CML. A confirmed haematological response was achieved in 71.5% of patients (Table 3). Importantly, 27.7% of patients also achieved a major cytogenetic response, which was complete in 20.4% (confirmed 16%) of patients. For the patients treated at 600 mg, the current estimates for median progression-free-survival and overall survival were 22.9 and 42.5 months, respectively.
 
@@ -644,21 +639,22 @@ A limited number of patients were enrolled in phase I studies (n=10). The rate o
 |-------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|
 |                                                                                                                         | %of patients (CI 95% )                                        | %of patients (CI 95% )                                 | %of patients (CI 95% )                                  |
 | Haematological response 1 Complete haematological response (CHR) No evidence of leukaemia (NEL) Return to chronic phase | 95% (92.3-96.3) 95% Not applicable Not applicable             | 71% (65.3-77.2) 42% 12% 17%                            | 31% (25.2-36.8) 8% 5% 18%                               |
-| 2                                                                                                                       |                                                               |                                                        |                                                         |
-|                                                                                                                         | 65% (61.2-69.5) 53%                                           | 20%                                                    |                                                         |
-| Major cytogenetic response Complete (Confirmed 3 ) [95% CI] Partial                                                     | (43%) [38.6-47.2] 12%                                         | 28% (22.0-33.9) (16%) [11.3-21.0] 7%                   | 15% (11.2-20.4) 7% (2%) [0.6-4.4] 8%                    |
+|                                                                                                                         | 65% (61.2-69.5) 53% (43%)                                     | 28% (22.0-33.9) 20% 7%                                 | 7%                                                      |
+| Major cytogenetic response 2 Complete (Confirmed 3 ) [95% CI] Partial                                                   | [38.6-47.2] 12%                                               | (16%) [11.3-21.0]                                      | 15% (11.2-20.4) (2%) [0.6-4.4] 8%                       |
 
 <div style=\"page-break-after: always\"></div>
 
 ## 1 Haematological response criteria (all responses to be confirmed after ≥ 4 weeks):
 
-- CHR: Study 0110 [WBC &lt; 10 x 10 9 /l, platelets &lt; 450 x 10 9 /l, myelocyte+metamyelocyte &lt; 5% in blood, no blasts and promyelocytes in blood, basophils &lt; 20%, no extramedullary involvement] and in studies 0102 and 0109 [ANC ≥ 1.5 x 10 9 /l, platelets ≥ 100 x 10 9 /l, no blood blasts, BM blasts &lt; 5% and no extramedullary disease]
+- CHR: Study 0110 [WBC &lt; 10 x 10 9 /l, platelets &lt; 450 x 10 9 /l, myelocyte+metamyelocyte &lt; 5% in blood, no blasts and promyelocytes in blood, basophils &lt; 20%, no extramedullary
+
+involvement] and in studies 0102 and 0109 [ANC ≥ 1.5 x 10 9 /l, platelets ≥ 100 x 10 9 blasts, BM blasts &lt; 5% and no extramedullary disease]
+
+- /l, no blood
 - NEL  Same criteria as for CHR but ANC ≥ 1 x 10 9 /l and platelets ≥ 20 x 10 9 /l (0102 and 0109 only)
-- RTC  &lt; 15% blasts BM and PB, &lt; 30% blasts+promyelocytes in BM and PB, &lt; 20% basophils in PB, no extramedullary disease other than spleen and liver (only for 0102 and
+- RTC  &lt; 15% blasts BM and PB, &lt; 30% blasts+promyelocytes in BM and PB, &lt; 20% basophils in PB, no extramedullary disease other than spleen and liver (only for 0102 and 0109). BM = bone marrow, PB = peripheral blood
 
-0109). BM = bone marrow, PB = peripheral blood
-
-## 2 Cytogenetic  response criteria:
+## 2 Cytogenetic response criteria:
 
 A major response combines both complete and partial responses: complete (0% Ph+ metaphases), partial (1-35%)
 
@@ -678,9 +674,11 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 In a controlled study (ADE10) of imatinib versus chemotherapy induction in 55 newly diagnosed patients aged 55 years and over, imatinib used as single agent induced a significantly higher rate of complete haematological response than chemotherapy (96.3% vs. 50%; p=0.0001). When salvage therapy with imatinib was administered in patients who did not respond or who responded poorly to chemotherapy, it resulted in 9 patients (81.8%) out of 11 achieving a complete haematological response. This clinical effect was associated with a higher reduction in bcr-abl transcripts in the imatinib-treated patients than in the chemotherapy arm after 2 weeks of therapy (p=0.02). All patients received imatinib and consolidation chemotherapy (see Table 4) after induction and the levels of bcr-abl transcripts were identical in the two arms at 8 weeks. As expected on the basis of the study design, no difference was observed in remission duration, disease-free survival or overall survival, although patients with complete molecular response and remaining in minimal residual disease had a better outcome in terms of both remission duration (p=0.01) and disease-free survival (p=0.02).
 
+The results observed in a population of 211 newly diagnosed Ph+ ALL patients in four uncontrolled clinical studies (AAU02, ADE04, AJP01 and AUS01) are consistent with the results described above.
+
 <div style=\"page-break-after: always\"></div>
 
-The results observed in a population of 211 newly diagnosed Ph+ ALL patients in four uncontrolled clinical studies (AAU02, ADE04, AJP01 and AUS01) are consistent with the results described above. Imatinib in combination with chemotherapy induction (see Table 4) resulted in a complete haematological response rate of 93% (147 out of 158 evaluable patients) and in a major cytogenetic response rate of 90% (19 out of 21 evaluable patients). The complete molecular response rate was 48% (49 out of 102 evaluable patients). Disease-free survival (DFS) and overall survival (OS) constantly exceeded 1 year and were superior to historical control (DFS p&lt;0.001; OS p&lt;0.0001) in two studies (AJP01 and AUS01).
+Imatinib in combination with chemotherapy induction (see Table 4) resulted in a complete haematological response rate of 93% (147 out of 158 evaluable patients) and in a major cytogenetic response rate of 90% (19 out of 21 evaluable patients). The complete molecular response rate was 48% (49 out of 102 evaluable patients). Disease-free survival (DFS) and overall survival (OS) constantly exceeded 1 year and were superior to historical control (DFS p&lt;0.001; OS p&lt;0.0001) in two studies (AJP01 and AUS01).
 
 Table 4 Chemotherapy regimen used in combination with imatinib
 
@@ -692,26 +690,25 @@ Table 4 Chemotherapy regimen used in combination with imatinib
 | Consolidation therapy II, IV         | Ara-C 75 mg/m 2 i.v. (1 h), days 1-5; VM26 60 mg/m 2 i.v. (1 h), days 1-5                                                                                                                                                                                                                                                                         |
 | Study AAU02                          |                                                                                                                                                                                                                                                                                                                                                   |
 | Induction therapy ( de novo Ph+ ALL) | Daunorubicin 30 mg/m 2 i.v., days 1-3, 15-16; VCR 2 mg total dose i.v., days 1, 8, 15, 22; CP 750 mg/m 2 i.v., days 1, 8; Prednisone 60 mg/m 2 oral, days 1-7, 15-21; IDA 9 mg/m 2 oral, days 1-28; MTX 15 mg intrathecal, days 1, 8, 15, 22; Ara-C 40 mg intrathecal, days 1, 8, 15, 22; Methylprednisolone 40 mg intrathecal, days 1, 8, 15, 22 |
-| Consolidation ( de novo Ph+ ALL)     | Ara-C 1,000 mg/m 2 /12 h i.v.(3 h), days 1-4; Mitoxantrone 10 mg/m 2 i.v. days 3-5; MTX 15 mg intrathecal, day 1; Methylprednisolone 40 mg intrathecal, day 1                                                                                                                                                                                     |
+| Consolidation ( de novo Ph+ ALL)     | Ara-C 1 000 mg/m 2 /12 h i.v.(3 h), days 1-4; Mitoxantrone 10 mg/m 2 i.v. days 3-5; MTX 15 mg intrathecal, day 1; Methylprednisolone 40 mg intrathecal, day 1                                                                                                                                                                                     |
 | Study ADE04                          |                                                                                                                                                                                                                                                                                                                                                   |
 | Prephase                             | DEX 10 mg/m 2 oral, days 1-5; CP 200 mg/m 2 i.v., days 3-5; MTX 15 mg intrathecal, day 1                                                                                                                                                                                                                                                          |
 | Induction therapy I                  | DEX 10 mg/m 2 oral, days 1-5; VCR 2 mg i.v., days 6, 13, 20; Daunorubicin 45 mg/m 2 i.v., days 6-7, 13-14                                                                                                                                                                                                                                         |
 | Induction therapy II                 | CP 1 g/m 2 i.v. (1 h), days 26, 46; Ara-C 75 mg/m 2 i.v. (1 h), days 28-31, 35-38, 42-45; 6-MP 60 mg/m 2 oral, days 26-46                                                                                                                                                                                                                         |
 | Consolidation therapy                | DEX 10 mg/m 2 oral, days 1-5; Vindesine 3 mg/m 2 i.v., day 1; MTX 1.5 g/m 2 i.v. (24 h), day 1; Etoposide 250 mg/m 2 i.v. (1 h) days 4-5; Ara-C 2x 2 g/m 2 i.v. (3 h, q 12 h), day 5                                                                                                                                                              |
 | Study AJP01                          |                                                                                                                                                                                                                                                                                                                                                   |
-| Induction therapy                    | CP 1.2 g/m 2 i.v. (3 h), day 1; Daunorubicin 60 mg/m 2 i.v. (1 h), days 1-3; Vincristine 1.3 mg/m 2 i.v., days 1, 8, 15, 21;                                                                                                                                                                                                                      |
+| Induction therapy                    | CP 1.2 g/m 2 i.v. (3 h), day 1; Daunorubicin 60 mg/m 2 i.v. (1 h), days 1-3; Vincristine 1.3 mg/m 2 i.v., days 1, 8, 15, 21; Prednisolone 60 mg/m 2 /day oral                                                                                                                                                                                     |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                                                                                                                                                           | Prednisolone 60 mg/m 2 /day oral                                                                                                                                                                                                                                                                   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Consolidation therapy                                                                                                                                                                     | Alternating chemotherapy course: high dose chemotherapy with MTX 1 g/m 2 i.v. (24 h), day 1, and Ara-C 2 g/m 2 i.v. (q 12 h), days 2-3, for 4 cycles                                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Maintenance                                                                                                                                                                               | VCR 1.3 g/m 2 i.v., day 1; Prednisolone 60 mg/m 2 oral, days 1-5                                                                                                                                                                                                                                   |
 | Study AUS01                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                    |
 | Induction-consolidation therapy                                                                                                                                                           | Hyper-CVAD regimen: CP 300 mg/m 2 i.v. (3 h, q 12 h), days 1-3; Vincristine 2 mg i.v., days 4, 11; Doxorubicine 50 mg/m 2 i.v. (24 h), day 4; DEX 40 mg/day on days 1-4 and 11-14, alternated with MTX 1 g/m 2 i.v. (24 h), day 1, Ara-C 1 g/m 2 i.v. (2 h, q 12 h), days 2-3 (total of 8 courses) |
 | Maintenance                                                                                                                                                                               | VCR 2 mg i.v. monthly for 13 months; Prednisolone 200 mg oral, 5 days per month for 13 months                                                                                                                                                                                                      |
 | All treatment regimens include administration of steroids for CNS prophylaxis.                                                                                                            | All treatment regimens include administration of steroids for CNS prophylaxis.                                                                                                                                                                                                                     |
-| Ara-C: cytosine arabinoside; CP: cyclophosphamide; DEX: dexamethasone; MTX: methotrexate; 6- MP: 6-mercaptopurine VM26: Teniposide; VCR: vincristine; IDA: idarubicine; i.v.: intravenous | Ara-C: cytosine arabinoside; CP: cyclophosphamide; DEX: dexamethasone; MTX: methotrexate; 6- MP: 6-mercaptopurine VM26: Teniposide; VCR: vincristine; IDA: idarubicine; i.v.: intravenous                                                                                                          |
+| Ara-C: cytosine arabinoside; CP: cyclophosphamide; DEX: dexamethasone; MTX: methotrexate; 6-MP: 6- mercaptopurine VM26: Teniposide; VCR: vincristine; IDA: idarubicine; i.v.: intravenous | Ara-C: cytosine arabinoside; CP: cyclophosphamide; DEX: dexamethasone; MTX: methotrexate; 6-MP: 6- mercaptopurine VM26: Teniposide; VCR: vincristine; IDA: idarubicine; i.v.: intravenous                                                                                                          |
 
 ## Paediatric population
 
@@ -719,26 +716,25 @@ In study I2301, a total of 93 paediatric, adolescent and young adult patients (f
 
 Table 5 Chemotherapy regimen used in combination with imatinib in study I2301
 
-| Consolidation block 1 (3 weeks)   | VP-16 (100 mg/m 2 /day, IV): days 1-5 Ifosfamide (1.8 g/m 2 /day, IV): days 1-5 MESNA (360 mg/m 2 /dose q3h, x 8 doses/day, IV): days 1-5 G- CSF (5 μg/kg, SC): days 6 -15 or until ANC > 1500 post nadir IT Methotrexate (age-adjusted): day 1 ONLY Triple IT therapy (age-adjusted): day 8, 15                                                     |
-|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Consolidation block 2 (3 weeks)   | Methotrexate (5 g/m 2 over 24 hours, IV): day 1 Leucovorin (75 mg/m 2 at hour 36, IV; 15 mg/m 2 IV or PO q6h x 6 doses)iii: Days 2 and 3 Triple IT therapy (age-adjusted): day 1 ARA-C (3 g/m 2 /dose q 12 h x 4, IV): days 2 and 3 G-CSF (5 μg/kg, SC): days 4 -13 or until ANC > 1500 post nadir                                                   |
-| Reinduction block 1 (3 weeks)     | VCR (1.5 mg/m 2 /day, IV): days 1, 8, and 15 DAUN (45 mg/m 2 /day bolus, IV): days 1 and 2 CPM (250 mg/m 2 /dose q12h x 4 doses, IV): days 3 and 4 PEG-ASP (2500 IUnits/m 2 , IM): day 4 G- CSF (5 μg/kg, SC): days 5 -14 or until ANC > 1500 post nadir Triple IT therapy (age-adjusted): days 1 and 15 DEX (6 mg/m 2 /day, PO): days 1-7 and 15-21 |
+| Consolidation block 1 (3 weeks)   | VP-16 (100 mg/m 2 /day, IV): days 1-5 Ifosfamide (1.8 g/m 2 /day, IV): days 1-5 MESNA (360 mg/m 2 /dose q3h, x 8 doses/day, IV): days 1-5 G- CSF (5 μg/kg, SC): days 6 -15 or until ANC > 1 500 post nadir IT Methotrexate (age-adjusted): day 1 ONLY Triple IT therapy (age-adjusted): day 8, 15                                                      |
+|-----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Consolidation block 2 (3 weeks)   | Methotrexate (5 g/m 2 over 24 hours, IV): day 1 Leucovorin (75 mg/m 2 at hour 36, IV; 15 mg/m 2 IV or PO q6h x 6 doses)iii: Days 2 and 3 Triple IT therapy (age-adjusted): day 1 ARA-C (3 g/m 2 /dose q 12 h x 4, IV): days 2 and 3 G- CSF (5 μg/kg, SC): days 4 -13 or until ANC > 1 500 post nadir                                                   |
+| Reinduction block 1 (3 weeks)     | VCR (1.5 mg/m 2 /day, IV): days 1, 8, and 15 DAUN (45 mg/m 2 /day bolus, IV): days 1 and 2 CPM (250 mg/m 2 /dose q12h x 4 doses, IV): days 3 and 4 PEG-ASP (2 500 IUnits/m 2 , IM): day 4 G- CSF (5 μg/kg, SC): days 5 -14 or until ANC > 1 500 post nadir Triple IT therapy (age-adjusted): days 1 and 15 DEX (6 mg/m 2 /day, PO): days 1-7 and 15-21 |
 
 <div style=\"page-break-after: always\"></div>
 
-| Intensification block 1 (9 weeks)       | Methotrexate (5 g/m 2 over 24 hours, IV): days 1 and 15 Leucovorin (75 mg/m 2 at hour 36, IV; 15 mg/m 2 IV or PO q6h x 6 doses)iii: days 2, 3, 16, and 17 Triple IT therapy (age-adjusted): days 1 and 22 VP-16 (100 mg/m 2 /day, IV): days 22-26 CPM (300 mg/m 2 /day, IV): days 22-26 MESNA (150 mg/m 2 /day, IV): days 22-26 G- CSF (5 μg/kg, SC): days 27 -36 or until ANC > 1500 post nadir ARA-C (3 g/m 2 , q12h, IV): days 43, 44 L-ASP (6000 IUnits/m 2 , IM): day 44                                               |
-|-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Reinduction block 2 (3 weeks)           | VCR (1.5 mg/m 2 /day, IV): days 1, 8 and 15 DAUN (45 mg/m 2 /day bolus, IV): days 1 and 2 CPM (250 mg/m 2 /dose q12h x 4 doses, iv): Days 3 and 4 PEG-ASP (2500 IUnits/m 2 , IM): day 4 G- CSF (5 μg/kg, SC): days 5 -14 or until ANC > 1500 post nadir Triple IT therapy (age-adjusted): days 1 and 15 DEX (6 mg/m 2 /day, PO): days 1-7 and 15-21                                                                                                                                                                         |
-| Intensification block 2 (9 weeks)       | Methotrexate (5 g/m 2 over 24 hours, IV): days 1 and 15 Leucovorin (75 mg/m 2 at hour 36, IV; 15 mg/m 2 IV or PO q6h x 6 doses)iii: days 2, 3, 16, and 17 Triple IT therapy (age-adjusted): days 1 and 22 VP-16 (100 mg/m 2 /day, IV): days 22-26 CPM (300 mg/m 2 /day, IV): days 22-26 MESNA (150 mg/m 2 /day, IV): days 22-26 G- CSF (5 μg/kg, SC): days 27 -36 or until ANC > 1500 post nadir ARA-C (3 g/m 2 , q12h, IV): days 43, 44 L-ASP (6000 IUnits/m 2 , IM): day 44                                               |
-| Maintenance (8-week cycles) Cycles 1-4  | MTX (5 g/m 2 over 24 hours, IV): day 1 Leucovorin (75 mg/m 2 at hour 36, IV; 15 mg/m 2 IV or PO q6h x 6 doses)iii: days 2 and 3 Triple IT therapy (age-adjusted): days 1, 29 VCR (1.5 mg/m 2 , IV): days 1, 29 DEX (6 mg/m 2 /day PO): days 1-5; 29-33 6-MP (75 mg/m 2 /day, PO): days 8-28 Methotrexate (20 mg/m 2 /week, PO): days 8, 15, 22 VP-16 (100 mg/m 2 , IV): days 29-33 CPM (300 mg/m 2 , IV): days 29-33 MESNA IV days 29-33                                                                                    |
-| Maintenance (8-week cycles) Cycle 5     | Cranial irradiation (Block 5 only) 12 Gy in 8 fractions for all patients that are CNS1 and CNS2 at diagnosis 18 Gy in 10 fractions for patients that are CNS3 at diagnosis VCR (1.5 mg/m 2 /day, IV): days 1, 29 DEX (6 mg/m 2 /day, PO): days 1-5; 29-33 6-MP (75 mg/m 2 /day, PO): days 11-56 (Withhold 6-MP during the 6- 10 days of cranial irradiation beginning on day 1 of Cycle 5. Start 6-MP the 1st day after cranial irradiation completion.) Methotrexate (20 mg/m 2 /week, PO): days 8, 15, 22, 29, 36, 43, 50 |
-| Maintenance (8-week cycles) Cycles 6-12 | VCR (1.5 mg/m 2 /day, IV): days 1, 29 DEX (6 mg/m 2 /day, PO): days 1-5; 29-33 6-MP (75 mg/m 2 /day, PO): days 1-56 Methotrexate (20 mg/m 2 /week, PO): days 1, 8, 15, 22, 29, 36, 43, 50                                                                                                                                                                                                                                                                                                                                   |
-
-G-CSF = granulocyte colony stimulating factor, VP-16 = etoposide, MTX = methotrexate, IV = intravenous, SC = subcutaneous, IT = intrathecal, PO = oral, IM = intramuscular, ARA-C = cytarabine, CPM = cyclophosphamide, VCR = vincristine, DEX = dexamethasone, DAUN = daunorubicin, 6-MP = 6-mercaptopurine, E.Coli L-ASP = L-asparaginase, PEG-ASP = PEG
+| Intensification block 1 (9 weeks)                                                                                                                                                                                                                                                              | Methotrexate (5 g/m 2 over 24 hours, IV): days 1 and 15 Leucovorin (75 mg/m 2 at hour 36, IV; 15 mg/m 2 IV or PO q6h x 6 doses)iii: days 2, 3, 16, and 17 Triple IT therapy (age-adjusted): days 1 and 22 VP-16 (100 mg/m 2 /day, IV): days 22-26 CPM (300 mg/m 2 /day, IV): days 22-26 MESNA (150 mg/m 2 /day, IV): days 22-26 G- CSF (5 μg/kg, SC): days 27 -36 or until ANC > 1 500 post nadir ARA-C (3 g/m 2 , q12h, IV): days 43, 44 2                                                                                 |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Reinduction block 2 (3 weeks)                                                                                                                                                                                                                                                                  | L-ASP (6 000 IUnits/m , IM): day 44 VCR (1.5 mg/m 2 /day, IV): days 1, 8 and 15 DAUN (45 mg/m 2 /day bolus, IV): days 1 and 2 CPM (250 mg/m 2 /dose q12h x 4 doses, iv): Days 3 and 4 PEG-ASP (2 500 IUnits/m 2 , IM): day 4 G- CSF (5 μg/kg, SC): days 5 -14 or until ANC > 1 500 post nadir Triple IT therapy (age-adjusted): days 1 and 15 DEX (6 mg/m 2 /day, PO): days 1-7 and 15-21                                                                                                                                   |
+| Intensification block 2 (9 weeks)                                                                                                                                                                                                                                                              | Methotrexate (5 g/m 2 over 24 hours, IV): days 1 and 15 Leucovorin (75 mg/m 2 at hour 36, IV; 15 mg/m 2 IV or PO q6h x 6 doses)iii: days 2, 3, 16, and 17 Triple IT therapy (age-adjusted): days 1 and 22 VP-16 (100 mg/m 2 /day, IV): days 22-26 CPM (300 mg/m 2 /day, IV): days 22-26 MESNA (150 mg/m 2 /day, IV): days 22-26 G- CSF (5 μg/kg, SC): days 27 -36 or until ANC > 1 500 post nadir ARA-C (3 g/m 2 , q12h, IV): days 43, 44 L-ASP (6 000 IUnits/m 2 , IM): day 44                                             |
+| Maintenance (8-week cycles) Cycles 1-4                                                                                                                                                                                                                                                         | MTX (5 g/m 2 over 24 hours, IV): day 1 Leucovorin (75 mg/m 2 at hour 36, IV; 15 mg/m 2 IV or PO q6h x 6 doses)iii: days 2 and 3 Triple IT therapy (age-adjusted): days 1, 29 VCR (1.5 mg/m 2 , IV): days 1, 29 DEX (6 mg/m 2 /day PO): days 1-5; 29-33 6-MP (75 mg/m 2 /day, PO): days 8-28 Methotrexate (20 mg/m 2 /week, PO): days 8, 15, 22 VP-16 (100 mg/m 2 , IV): days 29-33 CPM (300 mg/m 2 , IV): days 29-33 MESNA IV days 29-33 G- CSF (5 μg/kg, SC): days 34 -43                                                  |
+| Maintenance (8-week cycles) Cycle 5                                                                                                                                                                                                                                                            | Cranial irradiation (Block 5 only) 12 Gy in 8 fractions for all patients that are CNS1 and CNS2 at diagnosis 18 Gy in 10 fractions for patients that are CNS3 at diagnosis VCR (1.5 mg/m 2 /day, IV): days 1, 29 DEX (6 mg/m 2 /day, PO): days 1-5; 29-33 6-MP (75 mg/m 2 /day, PO): days 11-56 (Withhold 6-MP during the 6- 10 days of cranial irradiation beginning on day 1 of Cycle 5. Start 6-MP the 1st day after cranial irradiation completion.) Methotrexate (20 mg/m 2 /week, PO): days 8, 15, 22, 29, 36, 43, 50 |
+| Maintenance (8-week cycles) Cycles 6-12                                                                                                                                                                                                                                                        | VCR (1.5 mg/m 2 /day, IV): days 1, 29 DEX (6 mg/m 2 /day, PO): days 1-5; 29-33 6-MP (75 mg/m 2 /day, PO): days 1-56 Methotrexate (20 mg/m 2 /week, PO): days 1, 8, 15, 22, 29, 36, 43, 50                                                                                                                                                                                                                                                                                                                                   |
+| G-CSF = granulocyte colony stimulating factor, VP-16 = etoposide, MTX = methotrexate, IV = intravenous, SC = subcutaneous, IT = intrathecal, PO = oral, IM = intramuscular, ARA-C = cytarabine, CPM = cyclophosphamide, VCR = vincristine, DEX = dexamethasone, DAUN = daunorubicin, 6-MP = 6- | G-CSF = granulocyte colony stimulating factor, VP-16 = etoposide, MTX = methotrexate, IV = intravenous, SC = subcutaneous, IT = intrathecal, PO = oral, IM = intramuscular, ARA-C = cytarabine, CPM = cyclophosphamide, VCR = vincristine, DEX = dexamethasone, DAUN = daunorubicin, 6-MP = 6-                                                                                                                                                                                                                              |
 
 <div style=\"page-break-after: always\"></div>
 
-asparaginase, MESNA= 2mercaptoethane sulfonate sodium, iii= or until MTX level is &lt; 0.1 μM, q6h = every 6 hours, Gy= Gray
+mercaptopurine, E.Coli L-ASP = L-asparaginase, PEG-ASP = PEG asparaginase, MESNA= 2mercaptoethane sulfonate sodium, iii= or until MTX level is &lt; 0.1 μM, q6h = every 6 hours, Gy= Gray
 
 Study AIT07 was a multicentre, open-label, randomised, phase II/III study that included 128 patients (1 to &lt; 18 years) treated with imatinib in combination with chemotherapy. Safety data from this study seem to be in line with the safety profile of imatinib in Ph+ ALL patients.
 
@@ -752,15 +748,17 @@ Experience with imatinib in this indication is very limited and is based on haem
 
 An observational registry (study L2401) was conducted to collect long-term safety and efficacy data in patients suffering from myeloproliferative neoplasms with PDGFRβ rearrangement and who were treated with imatinib. The 23 patients enrolled in this registry received imatinib at a median daily dose of 264 mg (range: 100 to 400 mg) for a median duration of 7.2 years (range 0.1 to 12.7 years). Due to the observational nature of this registry, haematologic, cytogenetic and molecular assessment data were available for 22, 9 and 17 of the 23 enrolled patients, respectively. When assuming conservatively that patients with missing data were non-responders, CHR was observed in 20/23 (87%) patients, CCyR in 9/23 (39.1%) patients, and MR in 11/23 (47.8%) patients, respectively. When the response rate is calculated from patients with at least one valid assessment, the response rate for CHR, CCyR and MR was 20/22 (90.9%), 9/9 (100%) and 11/17 (64.7%), respectively.
 
-In addition a further 24 patients with MDS/MPD were reported in 13 publications. 21 patients were treated with imatinib 400 mg daily, while the other 3 patients received lower doses. In eleven patients PDGFR gene rearrangements was detected, 9 of them achieved a CHR and 1 PHR. The age of these patients ranged from 2 to 79 years. In a recent publication updated information from 6 of these 11 patients revealed that all these patients remained in cytogenetic remission (range 32-38 months). The same publication reported long term follow-up data from 12 MDS/MPD patients with PDGFR gene rearrangements (5 patients from study B2225). These patients received imatinib for a median of 47 months (range 24 days - 60 months). In 6 of these patients follow-up now exceeds 4 years. Eleven patients achieved rapid CHR; ten had complete resolution of cytogenetic abnormalities and a decrease or disappearance of fusion transcripts as measured by RT-PCR. Haematological and cytogenetic responses have been sustained for a median of 49 months (range 19-60) and 47 months (range 16-59), respectively. The overall survival is 65 months since diagnosis (range 25-234). Imatinib administration to patients without the genetic translocation generally results in no improvement.
+In addition a further 24 patients with MDS/MPD were reported in 13 publications. 21 patients were treated with imatinib 400 mg daily, while the other 3 patients received lower doses. In eleven patients PDGFR gene rearrangements were detected, 9 of them achieved a CHR and 1 PHR. The age of these patients ranged from 2 to 79 years. In a recent publication updated information from 6 of these 11 patients revealed that all these patients remained in cytogenetic remission (range 32-38 months). The same publication reported long term follow-up data from 12 MDS/MPD patients with PDGFR gene rearrangements (5 patients from study B2225). These patients received imatinib for a median of 47 months (range 24 days - 60 months). In 6 of these patients follow-up now exceeds 4 years. Eleven patients achieved rapid CHR; ten had complete resolution of cytogenetic abnormalities and a decrease or disappearance of fusion transcripts as measured by RT-PCR. Haematological and cytogenetic responses have been sustained for a median of 49 months (range 19-60) and 47 months (range 16-59), respectively. The overall survival is 65 months since diagnosis (range 25-234). Imatinib administration to patients without the genetic translocation generally results in no improvement.
 
-There are no controlled trials in paediatric patients with MDS/MPD. Five (5) patients with MDS/MPD associated with PDGFR gene re-arrangements were reported in 4 publications. The age of these patients ranged from 3 months to 4 years and imatinib was given at dose 50 mg daily or doses ranging from 92.5 to 340 mg/m 2 daily. All patients achieved complete haematological response, cytogenetic response and/or clinical response.
+There are no controlled trials in paediatric patients with MDS/MPD. Five (5) patients with MDS/MPD associated with PDGFR gene re-arrangements were reported in 4 publications. The age of these patients ranged from 3 months to 4 years and imatinib was given at dose 50 mg daily or doses ranging
 
 <div style=\"page-break-after: always\"></div>
 
+from 92.5 to 340 mg/m 2 daily. All patients achieved complete haematological response, cytogenetic response and/or clinical response.
+
 ## Clinical studies in HES/CEL
 
-One open-label, multicentre, phase II clinical trial (study B2225) was conducted testing imatinib in diverse populations of patients suffering from life-threatening diseases associated with Abl, Kit or PDGFR protein tyrosine kinases. In this study, 14 patients with HES/CEL were treated with 100 mg to 1,000 mg of imatinib daily. A further 162 patients with HES/CEL, reported in 35 published case reports and case series received imatinib at doses from 75 mg to 800 mg daily. Cytogenetic abnormalities were evaluated in 117 of the total population of 176 patients. In 61 of these 117 patients FIP1L1PDGFRα fusion kinase was identified. An additional four HES patients were found to be FIP1L1PDGFRα -positive in other 3 published reports. All 65 FIP1L1PDGFRα fusion kinase positive patients achieved a CHR sustained for months (range from 1+ to 44+ months censored at the time of the reporting). As reported in a recent publication 21 of these 65 patients also achieved complete molecular remission with a median follow-up of 28 months (range 13-67 months). The age of these patients ranged from 25 to 72 years. Additionally, improvements in symptomatology and other organ dysfunction abnormalities were reported by the investigators in the case reports. Improvements were reported in cardiac, nervous, skin/subcutaneous tissue, respiratory/thoracic/mediastinal, musculoskeletal/connective tissue/vascular, and gastrointestinal organ systems.
+One open-label, multicentre, phase II clinical trial (study B2225) was conducted testing imatinib in diverse populations of patients suffering from life-threatening diseases associated with Abl, Kit or PDGFR protein tyrosine kinases. In this study, 14 patients with HES/CEL were treated with 100 mg to 1 000 mg of imatinib daily. A further 162 patients with HES/CEL, reported in 35 published case reports and case series received imatinib at doses from 75 mg to 800 mg daily. Cytogenetic abnormalities were evaluated in 117 of the total population of 176 patients. In 61 of these 117 patients FIP1L1PDGFRα fusion kinase was identified. An additional four HES patients were found to be FIP1L1PDGFRα -positive in other 3 published reports. All 65 FIP1L1PDGFRα fusion kinase positive patients achieved a CHR sustained for months (range from 1+ to 44+ months censored at the time of the reporting). As reported in a recent publication 21 of these 65 patients also achieved complete molecular remission with a median follow-up of 28 months (range 13-67 months). The age of these patients ranged from 25 to 72 years. Additionally, improvements in symptomatology and other organ dysfunction abnormalities were reported by the investigators in the case reports. Improvements were reported in cardiac, nervous, skin/subcutaneous tissue, respiratory/thoracic/mediastinal, musculoskeletal/connective tissue/vascular, and gastrointestinal organ systems.
 
 There are no controlled trials in paediatric patients with HES/CEL. Three (3) patients with HES and CEL associated with PDGFR gene re-arrangements were reported in 3 publications. The age of these patients ranged from 2 to 16 years and imatinib was given at dose 300 mg/m 2 daily or doses ranging from 200 to 400 mg daily. All patients achieved complete haematological response, complete cytogenetic response and/or complete molecular response.
 
@@ -781,11 +779,11 @@ The primary evidence of efficacy was based on objective response rates. Tumours 
 | Not evaluable       | 5 (3.4)                                               |
 | Unknown             | 2 (1.4)                                               |
 
-There were no differences in response rates between the two dose groups. A significant number of patients who had stable disease at the time of the interim analysis achieved a partial response with longer treatment (median follow-up 31 months). Median time to response was 13 weeks (95% C.I. 1223). Median time to treatment failure in responders was 122 weeks (95% C.I 106-147), while in the overall study population it was 84 weeks (95% C.I 71-109). The median overall survival has not been
+There were no differences in response rates between the two dose groups. A significant number of patients who had stable disease at the time of the interim analysis achieved a partial response with longer treatment (median follow-up 31 months). Median time to response was 13 weeks (95% C.I. 12-
 
 <div style=\"page-break-after: always\"></div>
 
-reached. The Kaplan-Meier estimate for survival after 36-month follow-up is 68%.
+23). Median time to treatment failure in responders was 122 weeks (95% C.I 106-147), while in the overall study population it was 84 weeks (95% C.I 71-109). The median overall survival has not been reached. The Kaplan-Meier estimate for survival after 36-month follow-up is 68%.
 
 In two clinical studies (study B2222 and an intergroup study S0033) the daily dose of imatinib was escalated to 800 mg in patients progressing at the lower daily doses of 400 mg or 600 mg. The daily dose was escalated to 800 mg in a total of 103 patients; 6 patients achieved a partial response and 21 stabilisation of their disease after dose escalation for an overall clinical benefit of 26%. From the safety data available, escalating the dose to 800 mg daily in patients progressing at lower doses of 400 mg or 600 mg daily does not seem to affect the safety profile of imatinib.
 
@@ -801,18 +799,24 @@ The risk of recurrence in patients after surgery of their primary GIST was retro
 
 Table 7 Summary of Z9001 trial RFS analyses by NIH and AFIP risk classifications
 
-| Risk     | Risk Level                 | %of patients        | No. of events / No. of patients                            | Overall hazard ratio                          | RFS rates (%)                                        | RFS rates (%)                                         |
-|----------|----------------------------|---------------------|------------------------------------------------------------|-----------------------------------------------|------------------------------------------------------|-------------------------------------------------------|
-| criteria |                            |                     |                                                            | (95%CI)*                                      | 12 month                                             | 24 month                                              |
-|          |                            |                     | imatinib vs placebo                                        |                                               | imatinib vs placebo                                  | imatinib vs placebo                                   |
-| NIH      | Low Intermediate High      | 29.5 25.7 44.8      | 0/86 vs. 2/90 4/75 vs. 6/78 21/140 vs. 51/127              | N.E. 0.59 (0.17; 2.10) 0.29 (0.18; 0.49)      | 100 vs. 98.7 100 vs. 94.8 94.8 vs. 64.0              | 100 vs. 95.5 97.8 vs. 89.5 80.7 vs. 46.6              |
-| AFIP     | Very Low Low Moderate High | 20.7 25.0 24.6 29.7 | 0/52 vs. 2/63 2/70 vs. 0/69 2/70 vs. 11/67 16/84 vs. 39/81 | N.E. N.E. 0.16 (0.03; 0.70) 0.27 (0.15; 0.48) | 100 vs. 98.1 100 vs. 100 97.9 vs. 90.8 98.7 vs. 56.1 | 100 vs. 93.0 97.8 vs. 100 97.9 vs. 73.3 79.9 vs. 41.5 |
+| Risk                                        | Risk Level                                  | %of patients                                | No. of events / No. of patients             | Overall hazard ratio                        | RFS rates (%)                               | RFS rates (%)                               |
+|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
+| criteria                                    |                                             |                                             |                                             | (95%CI)*                                    | 12 month                                    | 24 month                                    |
+|                                             |                                             |                                             | imatinib vs placebo                         |                                             | imatinib vs placebo                         | imatinib vs placebo                         |
+| NIH                                         | Low                                         | 29.5                                        | 0/86 vs. 2/90                               | N.E.                                        | 100 vs. 98.7                                | 100 vs. 95.5                                |
+|                                             | Intermediate                                | 25.7                                        | 4/75 vs. 6/78                               | 0.59 (0.17; 2.10)                           | 100 vs. 94.8                                | 97.8 vs. 89.5                               |
+|                                             | High                                        | 44.8                                        | 21/140 vs. 51/127                           | 0.29 (0.18; 0.49)                           | 94.8 vs. 64.0                               | 80.7 vs. 46.6                               |
+| AFIP                                        | Very Low                                    | 20.7                                        | 0/52 vs. 2/63                               | N.E.                                        | 100 vs. 98.1                                | 100 vs. 93.0                                |
+|                                             | Low                                         | 25.0                                        | 2/70 vs. 0/69                               | N.E.                                        | 100 vs. 100                                 | 97.8 vs. 100                                |
+|                                             | Moderate                                    | 24.6                                        | 2/70 vs. 11/67                              | 0.16 (0.03; 0.70)                           | 97.9 vs. 90.8                               | 97.9 vs. 73.3                               |
+|                                             | High                                        | 29.7                                        | 16/84 vs. 39/81                             | 0.27 (0.15; 0.48)                           | 98.7 vs. 56.1                               | 79.9 vs. 41.5                               |
+| * Full follow-up period; NE - Not estimable | * Full follow-up period; NE - Not estimable | * Full follow-up period; NE - Not estimable | * Full follow-up period; NE - Not estimable | * Full follow-up period; NE - Not estimable | * Full follow-up period; NE - Not estimable | * Full follow-up period; NE - Not estimable |
 
-A second multicentre, open label phase III study (SSG XVIII/AIO) compared 400 mg/day imatinib 12 months treatment vs. 36 months treatment in patients after surgical resection of GIST and one of the following: tumour diameter &gt; 5 cm and mitotic count &gt; 5/50 high power fields (HPF); or tumour diameter &gt; 10 cm and any mitotic count or tumour of any size with mitotic count &gt; 10/50 HPF or tumours ruptured into the peritoneal cavity. There were a total of 397 patients consented and randomised to the study (199 patients on 12-month arm and 198 patients on 36-month arm), median age was 61 years (range 22 to 84 years). The median time of follow-up was 54 months (from date of
+A second multicentre, open label phase III study (SSG XVIII/AIO) compared 400 mg/day imatinib 12 months treatment vs. 36 months treatment in patients after surgical resection of GIST and one of the following: tumour diameter &gt; 5 cm and mitotic count &gt; 5/50 high power fields (HPF); or tumour diameter &gt; 10 cm and any mitotic count or tumour of any size with mitotic count &gt; 10/50 HPF or tumours ruptured into the peritoneal cavity. There were a total of 397 patients consented and
 
 <div style=\"page-break-after: always\"></div>
 
-randomisation to data cut-off), with a total of 83 months between the first patient randomised and the cut-off date.
+randomised to the study (199 patients on 12-month arm and 198 patients on 36-month arm), median age was 61 years (range 22 to 84 years). The median time of follow-up was 54 months (from date of randomisation to data cut-off), with a total of 83 months between the first patient randomised and the cut-off date.
 
 The primary endpoint of the study was recurrence-free survival (RFS), defined as the time from date of randomisation to the date of recurrence or death from any cause.
 
@@ -930,7 +934,7 @@ There are no controlled trials in paediatric patients with DFSP. Five (5) patien
 
 ## Pharmacokinetics of imatinib
 
-The pharmacokinetics of imatinib have been evaluated over a dosage range of 25 to 1,000 mg. Plasma pharmacokinetic profiles were analysed on day 1 and on either day 7 or day 28, by which time plasma concentrations had reached steady state.
+The pharmacokinetics of imatinib have been evaluated over a dosage range of 25 to 1 000 mg. Plasma pharmacokinetic profiles were analysed on day 1 and on either day 7 or day 28, by which time plasma concentrations had reached steady state.
 
 ## Absorption
 
@@ -958,7 +962,7 @@ Based on the recovery of compound(s) after an oral 14 C-labelled dose of imatini
 
 ## Plasma pharmacokinetics
 
-Following oral administration in healthy volunteers, the t½ was approximately 18 h, suggesting that once-daily dosing is appropriate. The increase in mean AUC with increasing dose was linear and dose proportional in the range of 25-1,000 mg imatinib after oral administration. There was no change in the kinetics of imatinib on repeated dosing, and accumulation was 1.5-2.5-fold at steady state when dosed once daily.
+Following oral administration in healthy volunteers, the t½ was approximately 18 h, suggesting that once-daily dosing is appropriate. The increase in mean AUC with increasing dose was linear and dose proportional in the range of 25-1 000 mg imatinib after oral administration. There was no change in the kinetics of imatinib on repeated dosing, and accumulation was 1.5-2.5-fold at steady state when dosed once daily.
 
 ## Pharmacokinetics in GIST patients
 
@@ -1249,7 +1253,7 @@ Dose adjustments for neutropenia and thrombocytopenia:
 |-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Accelerated phase CML and blast crisis and Ph+ ALL (starting dose 600 mg)         | a ANC < 0.5 x 10 9 /l and/or platelets < 10 x 10 9 /l                             | 1. Check whether cytopenia is related to leukaemia (marrow aspirate or biopsy). 2. If cytopenia is unrelated to leukaemia, reduce dose of imatinib to 400 mg. 3. If cytopenia persists for 2 weeks, reduce further to 300 mg. 4. If cytopenia persists for 4 weeks and is still unrelated to leukaemia, stop imatinib until ANC ≥ 1 x 10 9 /l and platelets ≥ 20 x 10 9 /l, then                                                                        |
 | Paediatric accelerated phase CML and blast crisis (starting dose 340 mg/m 2 )     | a ANC < 0.5 x 10 9 /l and/or platelets < 10 x 10 9 /l                             | resume treatment at 300 mg. 1. Check whether cytopenia is related to leukaemia (marrow aspirate or biopsy). 2. If cytopenia is unrelated to leukaemia, reduce dose of imatinib to 260 mg/m 2 . 3. If cytopenia persists for 2 weeks, reduce further to 200 mg/m 2 . 4. If cytopenia persists for 4 weeks and is still unrelated to leukaemia, stop Imatinib until ANC ≥ 1 x 10 9 /l and platelets ≥ 20 x 10 9 /l, then resume treatment at 200 mg/m 2 . |
-| DFSP (at dose 800 mg)                                                             | ANC < 1.0 x 10 9 /l and/or platelets < 50 x 10 9 /l                               | 1. Stop imatinib until ANC ≥ 1.5 x 10 9 /l and platelets ≥ 75 x 10 9 /l. 2. Resume treatment with imatinib at 600 mg. 3. In the event of recurrence of ANC < 1.0 x10 9 /l and/or platelets < 50 x 10 9 /l, repeat step 1 and resume imatinib at reduced dose of 400 mg.                                                                                                                                                                                 |
+| DFSP (at dose 800 mg)                                                             | ANC < 1.0 x 10 9 /l and/or platelets < 50 x 10 9 /l                               | 1. Stop imatinib until ANC ≥ 1.5 x 10 9 /l and platelets ≥ 75 x 10 9 /l. 2. Resume treatment with imatinib at 600 mg. 3. In the event of recurrence of ANC < 1.0 x10 9 /l and/or platelets < 50 x 10 9 /l, repeat step 1 and resume imatinib                                                                                                                                                                                                            |
 | ANC = absolute neutrophil count a occurring after at least one month of treatment | ANC = absolute neutrophil count a occurring after at least one month of treatment | ANC = absolute neutrophil count a occurring after at least one month of treatment                                                                                                                                                                                                                                                                                                                                                                       |
 
 ## Special populations
@@ -1268,15 +1272,12 @@ Imatinib is mainly metabolised through the liver. Patients with mild, moderate o
 
 Liver dysfunction classification:
 
-| Liver dysfunction   | Liver function tests                                                                      |
-|---------------------|-------------------------------------------------------------------------------------------|
-| Mild                | Total bilirubin: = 1.5 ULN AST: >ULN (can be normal or < ULN if total bilirubin is > ULN) |
-| Moderate            | Total bilirubin: > 1.5-3.0 ULN AST: any                                                   |
-| Severe              | Total bilirubin: > 3-10 ULN AST: any                                                      |
-
-ULN = upper limit of normal for the institution
-
-AST = aspartate aminotransferase
+| Liver dysfunction                                                                | Liver function tests                                                                      |
+|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| Mild                                                                             | Total bilirubin: = 1.5 ULN AST: >ULN (can be normal or < ULN if total bilirubin is > ULN) |
+| Moderate                                                                         | Total bilirubin: > 1.5-3.0 ULN AST: any                                                   |
+| Severe                                                                           | Total bilirubin: > 3-10 ULN AST: any                                                      |
+| ULN = upper limit of normal for the institution AST = aspartate aminotransferase |                                                                                           |
 
 ## Renal insufficiency
 
@@ -1296,11 +1297,11 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## 4.4 Special warnings and precautions for use
 
-When imatinib is co-administered with other medicinal products, there is a potential for drug interactions. Caution should be used when taking imatinib with protease inhibitors, azole antifungals, certain macrolides, CYP3A4 substrates with a narrow therapeutic window (e.g. cyclosporine,
+When imatinib is co-administered with other medicinal products, there is a potential for drug interactions. Caution should be used when taking imatinib with protease inhibitors, azole antifungals,
 
 <div style=\"page-break-after: always\"></div>
 
-pimozide, tacrolimus, sirolimus, ergotamine, diergotamine, fentanyl, alfentanil, terfenadine, bortezomib, docetaxel, quinidine) or warfarin and other coumarin derivatives (see section 4.5).
+certain macrolides, CYP3A4 substrates with a narrow therapeutic window (e.g. cyclosporine, pimozide, tacrolimus, sirolimus, ergotamine, diergotamine, fentanyl, alfentanil, terfenadine, bortezomib, docetaxel, quinidine) or warfarin and other coumarin derivatives (see section 4.5).
 
 Concomitant use of imatinib and medicinal products that induce CYP3A4 (e.g. dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital or Hypericum perforatum , also known as St. John's Wort) may significantly reduce exposure to imatinib, potentially increasing the risk of therapeutic failure. Therefore, concomitant use of strong CYP3A4 inducers and imatinib should be avoided (see section 4.5).
 
@@ -1356,11 +1357,11 @@ Complete blood counts must be performed regularly during therapy with imatinib. 
 
 Liver function (transaminases, bilirubin, alkaline phosphatase) should be monitored regularly in patients receiving imatinib.
 
-In patients with impaired renal function, imatinib plasma exposure seems to be higher than that in patients with normal renal function, probably due to an elevated plasma level of alpha-acid glycoprotein (AGP), an imatinib-binding protein, in these patients. Patients with renal
+In patients with impaired renal function, imatinib plasma exposure seems to be higher than that in patients with normal renal function, probably due to an elevated plasma level of
 
 <div style=\"page-break-after: always\"></div>
 
-impairment should be given the minimum starting dose. Patients with severe renal impairment should be treated with caution. The dose can be reduced if not tolerated (see section 4.2 and 5.2).
+alpha-acid glycoprotein (AGP), an imatinib-binding protein, in these patients. Patients with renal impairment should be given the minimum starting dose. Patients with severe renal impairment should be treated with caution. The dose can be reduced if not tolerated (see sections 4.2 and 5.2).
 
 Long-term treatment with imatinib may be associated with a clinically significant decline in renal function. Renal function should, therefore, be evaluated prior to the start of imatinib therapy and closely monitored during therapy, with particular attention to those patients exhibiting risk factors for renal dysfunction. If renal dysfunction is observed, appropriate management and treatment should be prescribed in accordance with standard treatment guidelines.
 
@@ -1378,25 +1379,25 @@ Substances that inhibit the cytochrome P450 isoenzyme CYP3A4 activity (e.g. prot
 
 Substances that are inducers of CYP3A4 activity (e.g. dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital, fosphenytoin, primidone or Hypericum perforatum , also known as St. John's Wort) may significantly reduce exposure to imatinib, potentially increasing the risk of therapeutic failure. Pretreatment with multiple doses of rifampicin 600 mg followed by a single 400 mg dose of imatinib resulted in decrease in Cmax and AUC(0-∞) by at least 54% and 74%, of the respective values without rifampicin treatment. Similar results were observed in patients with malignant gliomas treated with imatinib while taking enzyme-inducing anti-epileptic medicinal products (EIAEDs) such as carbamazepine, oxcarbazepine and phenytoin. The plasma AUC for imatinib decreased by 73% compared to patients not on EIAEDs. Concomitant use of rifampicin or other strong CYP3A4 inducers and imatinib should be avoided.
 
-## Active substances that may have their plasma concentration altered by imatinib
-
-Imatinib increases the mean Cmax and AUC of simvastatin (CYP3A4 substrate) 2- and 3.5-fold, respectively, indicating an inhibition of the CYP3A4 by imatinib. Therefore, caution is recommended when administering imatinib with CYP3A4 substrates with a narrow therapeutic window (e.g. cyclosporine, pimozide, tacrolimus, sirolimus, ergotamine, diergotamine, fentanyl, alfentanil, terfenadine, bortezomib, docetaxel and quinidine). Imatinib may increase plasma concentration of other CYP3A4 metabolised drugs (e.g. triazolo-benzodiazepines, dihydropyridine calcium channel blockers, certain HMG-CoA reductase inhibitors, i.e. statins, etc.).
+Active substances that may have their plasma concentration altered by imatinib Imatinib increases the mean Cmax and AUC of simvastatin (CYP3A4 substrate) 2- and 3.5-fold, respectively, indicating an inhibition of the CYP3A4 by imatinib. Therefore, caution is recommended when administering imatinib with CYP3A4 substrates with a narrow therapeutic window (e.g. cyclosporine, pimozide, tacrolimus, sirolimus, ergotamine, diergotamine, fentanyl, alfentanil, terfenadine, bortezomib, docetaxel and quinidine). Imatinib may increase plasma concentration of other CYP3A4 metabolised drugs (e.g. triazolo-benzodiazepines, dihydropyridine calcium channel blockers, certain HMG-CoA reductase inhibitors, i.e. statins, etc.).
 
 Because of known increased risks of bleeding in conjunction with the use of imatinib (e.g. haemorrhage), patients who require anticoagulation should receive low-molecular-weight or standard heparin, instead of coumarin derivatives such as warfarin.
 
-In vitro imatinib inhibits the cytochrome P450 isoenzyme CYP2D6 activity at concentrations similar to those that affect CYP3A4 activity. Imatinib at 400 mg twice daily had an inhibitory effect on CYP2D6-mediated metoprolol metabolism, with metoprolol Cmax and AUC being increased by
+In vitro imatinib inhibits the cytochrome P450 isoenzyme CYP2D6 activity at concentrations similar to those that affect CYP3A4 activity. Imatinib at 400 mg twice daily had an inhibitory effect on
 
 <div style=\"page-break-after: always\"></div>
 
-approximately 23% (90%CI [1.16-1.30]). Dose adjustments do not seem to be necessary when imatinib is co-administrated with CYP2D6 substrates, however caution is advised for CYP2D6 substrates with a narrow therapeutic window such as metoprolol. In patients treated with metoprolol clinical monitoring should be considered.
+CYP2D6-mediated metoprolol metabolism, with metoprolol Cmax and AUC being increased by approximately 23% (90%CI [1.16-1.30]). Dose adjustments do not seem to be necessary when imatinib is co-administrated with CYP2D6 substrates, however caution is advised for CYP2D6 substrates with a narrow therapeutic window such as metoprolol. In patients treated with metoprolol clinical monitoring should be considered.
 
-In vitro , imatinib inhibits paracetamol O-glucuronidation with Ki value of 58.5 micromol/l. This inhibition has not been observed in vivo after the administration of imatinib 400 mg and paracetamol 1000 mg. Higher doses of imatinib and paracetamol have not been studied.
+In vitro , imatinib inhibits paracetamol O-glucuronidation with Ki value of 58.5 micromol/l. This inhibition has not been observed in vivo after the administration of imatinib 400 mg and paracetamol 1 000 mg. Higher doses of imatinib and paracetamol have not been studied.
 
 Caution should therefore be exercised when using high doses of imatinib and paracetamol concomitantly.
 
 In thyroidectomy patients receiving levothyroxine, the plasma exposure to levothyroxine may be decreased when imatinib is co-administered (see section 4.4). Caution is therefore recommended. However, the mechanism of the observed interaction is presently unknown.
 
 In Ph+ ALL patients, there is clinical experience of co-administering imatinib with chemotherapy (see section 5.1), but drug-drug interactions between imatinib and chemotherapy regimens are not well characterised. Imatinib adverse events, i.e. hepatotoxicity, myelosuppression or others, may increase and it has been reported that concomitant use with L-asparaginase could be associated with increased hepatotoxicity (see section 4.8). Therefore, the use of imatinib in combination requires special precaution.
+
+Imatinib may have the potential to delay the clearance of methotrexate, particularly when methotrexate is used at high doses (&gt;500 mg/m 2 ). Caution is recommended when imatinib is given concomitantly with methotrexate.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -1414,11 +1415,13 @@ There is limited information on imatinib distribution on human milk. Studies in 
 
 ## Fertility
 
-In non-clinical studies, the fertility of male and female rats was not affected, although effects on reproductive parameters were observed (see section 5.3). Studies on patients receiving imatinib and its effect on fertility and gametogenesis have not been performed. Patients who are concerned about their fertility on imatinib treatment should consult with their physician.
-
-## 4.7 Effects on ability to drive and use machines
+In non-clinical studies, the fertility of male and female rats was not affected, although effects on reproductive parameters were observed (see section 5.3). Studies on patients receiving imatinib and its
 
 <div style=\"page-break-after: always\"></div>
+
+effect on fertility and gametogenesis have not been performed. Patients who are concerned about their fertility on imatinib treatment should consult with their physician.
+
+## 4.7 Effects on ability to drive and use machines
 
 Patients should be advised that they may experience undesirable effects such as dizziness, blurred vision or somnolence during treatment with imatinib. Therefore, caution should be recommended when driving a car or operating machinery.
 
@@ -1438,110 +1441,109 @@ Miscellaneous adverse reactions such as pleural effusion, ascites, pulmonary oed
 
 ## Adverse reactions
 
-Adverse reactions reported as more than an isolated case are listed below, by system organ class and by frequency. Frequency categories are defined using the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
+Adverse reactions reported as more than an isolated case are listed below, by system organ class and by frequency. Frequency categories are defined using the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, undesirable effects are presented in order of frequency, the most frequent first.
 
+<div style=\"page-break-after: always\"></div>
+
 Adverse reactions and their frequencies are reported in Table 1.
 
-<div style=\"page-break-after: always\"></div>
+Table 1 Tabulated summary of adverse reactions
 
-## Table 1 Tabulated summary of adverse reactions
-
-| Infections and infestations                                             | Infections and infestations                                                                                                                                                         |
-|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Uncommon                                                                | Herpes zoster, herpes simplex, nasopharyngitis, pneumonia 1 , sinusitis, cellulitis, upper respiratory tract infection, influenza, urinary tract infection, gastroenteritis, sepsis |
-| Rare                                                                    | Fungal infection                                                                                                                                                                    |
-| Not known:                                                              | Hepatitis B reactivation*                                                                                                                                                           |
-| Neoplasm benign, malignant and unspecified (including cysts and polyps) | Neoplasm benign, malignant and unspecified (including cysts and polyps)                                                                                                             |
-| Rare                                                                    | Tumour lysis syndrome                                                                                                                                                               |
-| Not known                                                               | Tumour haemorrhage/tumour necrosis*                                                                                                                                                 |
-| Immune system disorders                                                 | Immune system disorders                                                                                                                                                             |
-| Not known                                                               | Anaphylactic shock*                                                                                                                                                                 |
-| Blood and lymphatic system disorders                                    | Blood and lymphatic system disorders                                                                                                                                                |
-| Very common                                                             | Neutropenia, thrombocytopenia, anaemia                                                                                                                                              |
-| Common                                                                  | Pancytopenia, febrile neutropenia                                                                                                                                                   |
-| Uncommon                                                                | Thrombocythaemia, lymphopenia, bone marrow depression, eosinophilia, lymphadenopathy                                                                                                |
-| Rare                                                                    | Haemolytic anaemia, thrombotic microangiopathy                                                                                                                                      |
-| Metabolism and nutrition disorders                                      | Metabolism and nutrition disorders                                                                                                                                                  |
-| Common                                                                  | Anorexia                                                                                                                                                                            |
-| Uncommon                                                                | Hypokalaemia, increased appetite, hypophosphataemia, decreased appetite, dehydration, gout, hyperuricaemia, hypercalcaemia, hyperglycaemia, hyponatraemia                           |
-| Rare                                                                    | Hyperkalaemia, hypomagnesaemia                                                                                                                                                      |
-| Psychiatric disorders                                                   | Psychiatric disorders                                                                                                                                                               |
-| Common                                                                  | Insomnia                                                                                                                                                                            |
-| Uncommon                                                                | Depression, libido decreased, anxiety                                                                                                                                               |
-| Rare                                                                    | Confusional state                                                                                                                                                                   |
-| Nervous system disorders                                                | Nervous system disorders                                                                                                                                                            |
-| Very common                                                             | Headache 2                                                                                                                                                                          |
-| Common                                                                  | Dizziness, paraesthesia, taste disturbance, hypoaesthesia                                                                                                                           |
-| Uncommon                                                                | Migraine, somnolence, syncope, peripheral neuropathy, memory impairment, sciatica, restless leg syndrome, tremor, cerebral haemorrhage                                              |
-| Rare                                                                    | Increased intracranial pressure, convulsions, optic neuritis                                                                                                                        |
-| Not known                                                               | Cerebral oedema*                                                                                                                                                                    |
-| Eye disorders                                                           | Eye disorders                                                                                                                                                                       |
-| Common                                                                  | Eyelid oedema, lacrimation increased, conjunctival haemorrhage, conjunctivitis, dry eye, blurred vision                                                                             |
-| Uncommon                                                                | Eye irritation, eye pain, orbital oedema, scleral haemorrhage, retinal haemorrhage, blepharitis, macular oedema                                                                     |
-| Rare                                                                    | Cataract, glaucoma, papilloedema                                                                                                                                                    |
-| Not known                                                               | Vitreous haemorrhage*                                                                                                                                                               |
-| Ear and labyrinth disorders                                             | Ear and labyrinth disorders                                                                                                                                                         |
-| Uncommon                                                                | Vertigo, tinnitus, hearing loss                                                                                                                                                     |
-| Cardiac disorders                                                       | Cardiac disorders                                                                                                                                                                   |
-| Uncommon                                                                | Palpitations, tachycardia, cardiac failure congestive 3 , pulmonary oedema                                                                                                          |
-| Rare                                                                    | Arrhythmia, atrial fibrillation, cardiac arrest, myocardial infarction, angina pectoris, pericardial effusion                                                                       |
-| Not known                                                               | Pericarditis*, cardiac tamponade*                                                                                                                                                   |
-| Vascular disorders 4                                                    | Vascular disorders 4                                                                                                                                                                |
-| Common                                                                  | Flushing, haemorrhage                                                                                                                                                               |
+| Infections and infestations                                         | Infections and infestations                                                                                                                                                         |
+|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Uncommon                                                            | Herpes zoster, herpes simplex, nasopharyngitis, pneumonia 1 , sinusitis, cellulitis, upper respiratory tract infection, influenza, urinary tract infection, gastroenteritis, sepsis |
+| Rare                                                                | Fungal infection                                                                                                                                                                    |
+| Not known:                                                          | Hepatitis B reactivation*                                                                                                                                                           |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Neoplasms benign, malignant and unspecified (incl cysts and polyps)                                                                                                                 |
+| Rare                                                                | Tumour lysis syndrome                                                                                                                                                               |
+| Not known                                                           | Tumour haemorrhage/tumour necrosis*                                                                                                                                                 |
+| Immune system disorders                                             | Immune system disorders                                                                                                                                                             |
+| Not known                                                           | Anaphylactic shock*                                                                                                                                                                 |
+| Blood and lymphatic system disorders                                | Blood and lymphatic system disorders                                                                                                                                                |
+| Very common                                                         | Neutropenia, thrombocytopenia, anaemia                                                                                                                                              |
+| Common                                                              | Pancytopenia, febrile neutropenia                                                                                                                                                   |
+| Uncommon                                                            | Thrombocythaemia, lymphopenia, bone marrow depression, eosinophilia, lymphadenopathy                                                                                                |
+| Rare                                                                | Haemolytic anaemia, thrombotic microangiopathy                                                                                                                                      |
+| Metabolism and nutrition disorders                                  | Metabolism and nutrition disorders                                                                                                                                                  |
+| Common                                                              | Anorexia                                                                                                                                                                            |
+| Uncommon                                                            | Hypokalaemia, increased appetite, hypophosphataemia, decreased appetite, dehydration, gout, hyperuricaemia, hypercalcaemia, hyperglycaemia, hyponatraemia                           |
+| Rare                                                                | Hyperkalaemia, hypomagnesaemia                                                                                                                                                      |
+| Psychiatric disorders                                               | Psychiatric disorders                                                                                                                                                               |
+| Common                                                              | Insomnia                                                                                                                                                                            |
+| Uncommon                                                            | Depression, libido decreased, anxiety                                                                                                                                               |
+| Rare                                                                | Confusional state                                                                                                                                                                   |
+| Nervous system disorders                                            | Nervous system disorders                                                                                                                                                            |
+| Very common                                                         | Headache 2                                                                                                                                                                          |
+| Common                                                              | Dizziness, paraesthesia, taste disturbance, hypoaesthesia                                                                                                                           |
+| Uncommon                                                            | Migraine, somnolence, syncope, peripheral neuropathy, memory impairment, sciatica, restless leg syndrome, tremor, cerebral haemorrhage                                              |
+| Rare                                                                | Increased intracranial pressure, convulsions, optic neuritis                                                                                                                        |
+| Not known                                                           | Cerebral oedema*                                                                                                                                                                    |
+| Eye disorders                                                       | Eye disorders                                                                                                                                                                       |
+| Common                                                              | Eyelid oedema, lacrimation increased, conjunctival haemorrhage, conjunctivitis, dry eye, blurred vision                                                                             |
+| Uncommon                                                            | Eye irritation, eye pain, orbital oedema, scleral haemorrhage, retinal haemorrhage, blepharitis, macular oedema                                                                     |
+| Rare                                                                | Cataract, glaucoma, papilloedema                                                                                                                                                    |
+| Not known                                                           | Vitreous haemorrhage*                                                                                                                                                               |
+| Ear and labyrinth disorders                                         | Ear and labyrinth disorders                                                                                                                                                         |
+| Uncommon                                                            | Vertigo, tinnitus, hearing loss                                                                                                                                                     |
+| Cardiac disorders                                                   | Cardiac disorders                                                                                                                                                                   |
+| Uncommon                                                            | Palpitations, tachycardia, cardiac failure congestive 3 , pulmonary oedema                                                                                                          |
+| Rare                                                                | Arrhythmia, atrial fibrillation, cardiac arrest, myocardial infarction, angina pectoris, pericardial effusion                                                                       |
+| Not known                                                           | Pericarditis*, cardiac tamponade*                                                                                                                                                   |
+| Vascular disorders 4                                                |                                                                                                                                                                                     |
 
 <div style=\"page-break-after: always\"></div>
 
-| Uncommon                                                  | Hypertension, haematoma, subdural haematoma, peripheral coldness, hypotension, Raynaud's phenomenon                                                                                                                                                                                    |
-|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Not known                                                 | Thrombosis/embolism*                                                                                                                                                                                                                                                                   |
-| Respiratory, thoracic and mediastinal disorders           | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                                        |
-| Common                                                    | Dyspnoea, epistaxis, cough                                                                                                                                                                                                                                                             |
-| Uncommon                                                  | Pleural effusion 5 , pharyngolaryngeal pain, pharyngitis                                                                                                                                                                                                                               |
-| Rare                                                      | Pleuritic pain, pulmonary fibrosis, pulmonary hypertension, pulmonary haemorrhage                                                                                                                                                                                                      |
-| Not known                                                 | Acute respiratory failure 11 *, interstitial lung disease*                                                                                                                                                                                                                             |
-| Gastrointestinal disorders                                | Gastrointestinal disorders                                                                                                                                                                                                                                                             |
-| Very common                                               | Nausea, diarrhoea, vomiting, dyspepsia, abdominal pain 6                                                                                                                                                                                                                               |
-| Common                                                    | Flatulence, abdominal distension, gastro-oesophageal reflux, constipation, dry mouth, gastritis                                                                                                                                                                                        |
-| Uncommon                                                  | Stomatitis, mouth ulceration, gastrointestinal haemorrhage 7 , eructation, melaena, oesophagitis, ascites, gastric ulcer, haematemesis, cheilitis, dysphagia, pancreatitis                                                                                                             |
-| Rare                                                      | Colitis, ileus, inflammatory bowel disease                                                                                                                                                                                                                                             |
-| Not known                                                 | Ileus/intestinal obstruction*, gastrointestinal perforation*, diverticulitis*, gastric antral vascular ectasia (GAVE)*                                                                                                                                                                 |
-| Hepatobiliary disorders                                   | Hepatobiliary disorders                                                                                                                                                                                                                                                                |
-| Common                                                    | Increased hepatic enzymes                                                                                                                                                                                                                                                              |
-| Uncommon                                                  | Hyperbilirubinaemia, hepatitis, jaundice                                                                                                                                                                                                                                               |
-| Rare                                                      | Hepatic failure 8 , hepatic necrosis                                                                                                                                                                                                                                                   |
-| Skin and subcutaneous tissue disorders                    | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                                                 |
-| Very common                                               | Periorbital oedema, dermatitis/eczema/rash                                                                                                                                                                                                                                             |
-| Common                                                    | Pruritus, face oedema, dry skin, erythema, alopecia, night sweats, photosensitivity reaction                                                                                                                                                                                           |
-| Uncommon                                                  | Rash pustular, contusion, sweating increased, urticaria, ecchymosis, increased tendency to bruise, hypotrichosis, skin hypopigmentation, dermatitis exfoliative, onychoclasis, folliculitis, petechiae, psoriasis, purpura, skin hyperpigmentation, bullous eruptions, panniculitis 12 |
-| Rare                                                      | Acute febrile neutrophilic dermatosis (Sweet's syndrome), nail discolouration, angioneurotic oedema, rash vesicular, erythema multiforme, leucocytoclastic vasculitis, Stevens-Johnson syndrome, acute generalised exanthematous pustulosis (AGEP), pemphigus*                         |
-| Not known                                                 | Palmoplantar erythrodysesthesia syndrome*, lichenoid keratosis*, lichen planus*, toxic epidermal necrolysis*, drug rash with eosinophilia and systemic symptoms (DRESS)*, pseudoporphyria*                                                                                             |
-| Musculoskeletal and connective tissue disorders           | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                                        |
-| Very common                                               | Muscle spasm and cramps, musculoskeletal pain including myalgia 9 , arthralgia, bone pain 10                                                                                                                                                                                           |
-| Common                                                    | Joint swelling                                                                                                                                                                                                                                                                         |
-| Uncommon                                                  | Joint and muscle stiffness, osteonecrosis*                                                                                                                                                                                                                                             |
-| Rare                                                      | Muscular weakness, arthritis, rhabdomyolysis/myopathy                                                                                                                                                                                                                                  |
-| Not known                                                 | Growth retardation in children*                                                                                                                                                                                                                                                        |
-| Renal and urinary disorders                               | Renal and urinary disorders                                                                                                                                                                                                                                                            |
-| Uncommon                                                  | Renal pain, haematuria, renal failure acute, urinary frequency increased                                                                                                                                                                                                               |
-| Not known                                                 | Renal failure chronic                                                                                                                                                                                                                                                                  |
-| Reproductive system and breast disorders                  | Reproductive system and breast disorders                                                                                                                                                                                                                                               |
-| Uncommon                                                  | Gynaecomastia, erectile dysfunction, menorrhagia, menstruation irregular, sexual dysfunction, nipple pain, breast enlargement, scrotal oedema                                                                                                                                          |
-| Rare Haemorrhagic corpus luteum/haemorrhagic ovarian cyst | Rare Haemorrhagic corpus luteum/haemorrhagic ovarian cyst                                                                                                                                                                                                                              |
-| General disorders and                                     | administration site conditions                                                                                                                                                                                                                                                         |
+| Common                                                                         | Flushing, haemorrhage                                                                                                                                                                                                                                                                  |
+|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Uncommon                                                                       | Hypertension, haematoma, subdural haematoma, peripheral coldness, hypotension, Raynaud's phenomenon                                                                                                                                                                                    |
+| Not known                                                                      | Thrombosis/embolism*                                                                                                                                                                                                                                                                   |
+| Respiratory, thoracic and mediastinal disorders                                | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                                        |
+| Common                                                                         | Dyspnoea, epistaxis, cough                                                                                                                                                                                                                                                             |
+| Uncommon                                                                       | Pleural effusion 5 , pharyngolaryngeal pain, pharyngitis                                                                                                                                                                                                                               |
+| Rare                                                                           | Pleuritic pain, pulmonary fibrosis, pulmonary hypertension, pulmonary haemorrhage                                                                                                                                                                                                      |
+| Not known                                                                      | Acute respiratory failure 11 *, interstitial lung disease*                                                                                                                                                                                                                             |
+| Gastrointestinal disorders                                                     | Gastrointestinal disorders                                                                                                                                                                                                                                                             |
+| Very common                                                                    | Nausea, diarrhoea, vomiting, dyspepsia, abdominal pain 6                                                                                                                                                                                                                               |
+| Common                                                                         | Flatulence, abdominal distension, gastro-oesophageal reflux, constipation, dry mouth, gastritis                                                                                                                                                                                        |
+| Uncommon                                                                       | Stomatitis, mouth ulceration, gastrointestinal haemorrhage 7 , eructation, melaena, oesophagitis, ascites, gastric ulcer, haematemesis, cheilitis, dysphagia, pancreatitis                                                                                                             |
+| Rare                                                                           | Colitis, ileus, inflammatory bowel disease                                                                                                                                                                                                                                             |
+| Not known                                                                      | Ileus/intestinal obstruction*, gastrointestinal perforation*, diverticulitis*, gastric antral vascular ectasia (GAVE)*                                                                                                                                                                 |
+| Hepatobiliary disorders                                                        | Hepatobiliary disorders                                                                                                                                                                                                                                                                |
+| Common                                                                         | Increased hepatic enzymes                                                                                                                                                                                                                                                              |
+| Uncommon                                                                       | Hyperbilirubinaemia, hepatitis, jaundice                                                                                                                                                                                                                                               |
+| Rare Hepatic failure , hepatic necrosis Skin and subcutaneous tissue disorders | Rare Hepatic failure , hepatic necrosis Skin and subcutaneous tissue disorders                                                                                                                                                                                                         |
+| Very common                                                                    | Periorbital oedema, dermatitis/eczema/rash                                                                                                                                                                                                                                             |
+| Common                                                                         | Pruritus, face oedema, dry skin, erythema, alopecia, night sweats, photosensitivity reaction                                                                                                                                                                                           |
+| Uncommon                                                                       | Rash pustular, contusion, sweating increased, urticaria, ecchymosis, increased tendency to bruise, hypotrichosis, skin hypopigmentation, dermatitis exfoliative, onychoclasis, folliculitis, petechiae, psoriasis, purpura, skin hyperpigmentation, bullous eruptions, panniculitis 12 |
+| Rare                                                                           | Acute febrile neutrophilic dermatosis (Sweet's syndrome), nail discolouration, angioneurotic oedema, rash vesicular, erythema multiforme, leucocytoclastic vasculitis, Stevens-Johnson syndrome, acute generalised exanthematous pustulosis (AGEP), pemphigus*                         |
+| Not known                                                                      | Palmoplantar erythrodysesthesia syndrome*, lichenoid keratosis*, lichen planus*, toxic epidermal necrolysis*, drug rash with eosinophilia and systemic symptoms (DRESS)*, pseudoporphyria*                                                                                             |
+| Musculoskeletal and connective tissue disorders                                | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                                        |
+| Very common                                                                    | Muscle spasm and cramps, musculoskeletal pain including myalgia 9 , arthralgia, bone pain 10                                                                                                                                                                                           |
+| Common                                                                         | Joint swelling                                                                                                                                                                                                                                                                         |
+| Uncommon                                                                       | Joint and muscle stiffness, osteonecrosis*                                                                                                                                                                                                                                             |
+| Rare                                                                           | Muscular weakness, arthritis, rhabdomyolysis/myopathy                                                                                                                                                                                                                                  |
+| Not known                                                                      | Growth retardation in children*                                                                                                                                                                                                                                                        |
+| Renal and urinary disorders                                                    | Renal and urinary disorders                                                                                                                                                                                                                                                            |
+| Uncommon                                                                       | Renal pain, haematuria, renal failure acute, urinary frequency increased                                                                                                                                                                                                               |
+| Not known                                                                      | Renal failure chronic                                                                                                                                                                                                                                                                  |
+| Reproductive system and breast disorders                                       | Reproductive system and breast disorders                                                                                                                                                                                                                                               |
+| Uncommon                                                                       | Gynaecomastia, erectile dysfunction, menorrhagia, menstruation irregular, sexual dysfunction, nipple pain, breast enlargement, scrotal oedema                                                                                                                                          |
+| Rare                                                                           | Haemorrhagic corpus luteum/haemorrhagic ovarian cyst                                                                                                                                                                                                                                   |
 
 <div style=\"page-break-after: always\"></div>
 
-| Very common    | Fluid retention and oedema, fatigue                                                                                                             |
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| Common         | Weakness, pyrexia, anasarca, chills, rigors                                                                                                     |
-| Uncommon       | Chest pain, malaise                                                                                                                             |
-| Investigations |                                                                                                                                                 |
-| Very common    | Weight increased                                                                                                                                |
-| Common         | Weight decreased                                                                                                                                |
-| Uncommon       | Blood creatinine increased, blood creatine phosphokinase increased, blood lactate dehydrogenase increased, blood alkaline phosphatase increased |
-| Rare           | Blood amylase increased                                                                                                                         |
+| General disorders and administration site conditions   | General disorders and administration site conditions                                                                                            |
+|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| Very common                                            | Fluid retention and oedema, fatigue                                                                                                             |
+| Common                                                 | Weakness, pyrexia, anasarca, chills, rigors                                                                                                     |
+| Uncommon                                               | Chest pain, malaise                                                                                                                             |
+| Investigations                                         | Investigations                                                                                                                                  |
+| Very common                                            | Weight increased                                                                                                                                |
+| Common                                                 | Weight decreased                                                                                                                                |
+| Uncommon                                               | Blood creatinine increased, blood creatine phosphokinase increased, blood lactate dehydrogenase increased, blood alkaline phosphatase increased |
+| Rare                                                   | Blood amylase increased                                                                                                                         |
 
 * These types of reactions have been reported mainly from post-marketing experience with imatinib. This includes spontaneous case reports as well as serious adverse events from ongoing studies, the expanded access programmes, clinical pharmacology studies and exploratory studies in unapproved indications. Because these reactions are reported from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to imatinib exposure.
 - 1 Pneumonia was reported most commonly in patients with transformed CML and in patients with GIST.
@@ -1566,11 +1568,11 @@ Hepatitis B reactivation has been reported in association with BCR-ABL TKIs. Som
 
 ## Haematology
 
-In CML, cytopenias, particularly neutropenia and thrombocytopenia, have been a consistent finding in all studi es, with the suggestion of a higher frequency at high doses ≥ 750 mg (phase I study). However, the occurrence of cytopenias was also clearly dependent on the stage of the disease, the frequency of grade 3 or 4 neutropenias (ANC &lt; 1.0 x 10 9 /l) and thrombocytopenias (platelet count &lt; 50 x 10 9 /l) being between 4 and 6 times higher in blast crisis and accelerated phase (59-64% and 44-63% for neutropenia and thrombocytopenia, respectively) as compared to newly diagnosed patients in chronic phase CML (16.7% neutropenia and 8.9% thrombocytopenia). In newly diagnosed chronic phase CML grade 4 neutropenia (ANC &lt; 0.5 x 10 9 /l) and thrombocytopenia (platelet count &lt; 10 x 10 9 /l) were observed in 3.6% and &lt; 1% of patients, respectively. The median
+In CML, cytopenias, particularly neutropenia and thrombocytopenia, have been a consistent finding in all studi es, with the suggestion of a higher frequency at high doses ≥ 750 mg (phase I study). However, the occurrence of cytopenias was also clearly dependent on the stage of the disease, the frequency of grade 3 or 4 neutropenias (ANC &lt; 1.0 x 10 9 /l) and thrombocytopenias (platelet count &lt; 50 x 10 9 /l) being between 4 and 6 times higher in blast crisis and accelerated phase (59-64% and 44-63% for neutropenia and thrombocytopenia, respectively) as compared to newly diagnosed patients in chronic phase CML (16.7% neutropenia and 8.9% thrombocytopenia). In newly diagnosed chronic phase CML grade 4 neutropenia (ANC &lt; 0.5 x 10 9 /l) and thrombocytopenia (platelet count &lt; 10 x 10 9 /l) were observed in 3.6% and &lt; 1% of patients, respectively. The median duration of the neutropenic and thrombocytopenic episodes usually ranged from 2 to 3 weeks, and from 3 to 4 weeks, respectively. These events can usually be managed with either a reduction of the
 
 <div style=\"page-break-after: always\"></div>
 
-duration of the neutropenic and thrombocytopenic episodes usually ranged from 2 to 3 weeks, and from 3 to 4 weeks, respectively. These events can usually be managed with either a reduction of the dose or an interruption of treatment with imatinib, but can in rare cases lead to permanent discontinuation of treatment. In paediatric CML patients the most frequent toxicities observed were grade 3 or 4 cytopenias involving neutropenia, thrombocytopenia and anaemia. These generally occur within the first several months of therapy.
+dose or an interruption of treatment with imatinib, but can in rare cases lead to permanent discontinuation of treatment. In paediatric CML patients the most frequent toxicities observed were grade 3 or 4 cytopenias involving neutropenia, thrombocytopenia and anaemia. These generally occur within the first several months of therapy.
 
 In the study in patients with unresectable and/or metastatic GIST, grade 3 and 4 anaemia was reported in 5.4% and 0.7% of patients, respectively, and may have been related to gastrointestinal or intratumoural bleeding in at least some of these patients. Grade 3 and 4 neutropenia was seen in 7.5% and 2.7% of patients, respectively, and grade 3 thrombocytopenia in 0.7% of patients. No patient developed grade 4 thrombocytopenia. The decreases in white blood cell (WBC) and neutrophil counts occurred mainly during the first six weeks of therapy, with values remaining relatively stable thereafter.
 
@@ -1590,11 +1592,11 @@ Experience with doses higher than the recommended therapeutic dose is limited. I
 
 ## Adult population
 
-1200 mg to 1600 mg (duration varying between 1 to 10 days): Nausea, vomiting, diarrhoea, rash, erythema, oedema, swelling, fatigue, muscle spasms, thrombocytopenia, pancytopenia, abdominal pain, headache, decreased appetite.
+1 200 mg to 1 600 mg (duration varying between 1 to 10 days): Nausea, vomiting, diarrhoea, rash, erythema, oedema, swelling, fatigue, muscle spasms, thrombocytopenia, pancytopenia, abdominal pain, headache, decreased appetite.
 
-1800 mg to 3200 mg (as high as 3200 mg daily for 6 days): Weakness, myalgia, increased creatine phosphokinase, increased bilirubin, gastrointestinal pain.
+1 800 mg to 3 200 mg (as high as 3 200 mg daily for 6 days): Weakness, myalgia, increased creatine phosphokinase, increased bilirubin, gastrointestinal pain.
 
-6400 mg (single dose): One case reported in the literature of one patient who experienced nausea, vomiting, abdominal pain, pyrexia, facial swelling, decreased neutrophil count, increased transaminases.
+6 400 mg (single dose): One case reported in the literature of one patient who experienced nausea, vomiting, abdominal pain, pyrexia, facial swelling, decreased neutrophil count, increased transaminases.
 
 8 g to 10 g (single dose): Vomiting and gastrointestinal pain have been reported.
 
@@ -1602,9 +1604,9 @@ Experience with doses higher than the recommended therapeutic dose is limited. I
 
 One 3-year-old male exposed to a single dose of 400 mg experienced vomiting, diarrhoea and anorexia and another 3-year-old male exposed to a single dose of 980 mg experienced decreased white blood cell count and diarrhoea.
 
-<div style=\"page-break-after: always\"></div>
-
 In the event of overdose, the patient should be observed and appropriate supportive treatment given.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -1634,13 +1636,13 @@ In all clinical studies 38-40 % of patients were ≥ 60 years of age and 1012% o
 
 ## Chronic phase, newly diagnosed
 
-This phase III study in adult patients compared treatment with either single-agent imatinib or a combination of interferon-alpha (IFN) plus cytarabine (Ara-C). Patients showing lack of response (lack of complete haematological response (CHR) at 6 months, increasing WBC, no major
+This phase III study in adult patients compared treatment with either single-agent imatinib or a combination of interferon-alpha (IFN) plus cytarabine (Ara-C). Patients showing lack of response (lack of complete haematological response (CHR) at 6 months, increasing WBC, no major cytogenetic response (MCyR) at 24 months), loss of response (loss of CHR or MCyR) or severe intolerance to treatment were allowed to cross over to the alternative treatment arm. In the imatinib
 
 <div style=\"page-break-after: always\"></div>
 
-cytogenetic response (MCyR) at 24 months), loss of response (loss of CHR or MCyR) or severe intolerance to treatment were allowed to cross over to the alternative treatment arm. In the imatinib arm, patients were treated with 400 mg daily. In the IFN arm, patients were treated with a target dose of IFN of 5 MIU/m 2 /day subcutaneously in combination with subcutaneous Ara-C 20 mg/m 2 /day for 10 days/month.
+arm, patients were treated with 400 mg daily. In the IFN arm, patients were treated with a target dose of IFN of 5 MIU/m 2 /day subcutaneously in combination with subcutaneous Ara-C 20 mg/m 2 /day for 10 days/month.
 
-A total of 1.106 patients were randomised, 553 to each arm. Baseline characteristics were well balanced between the two arms. Median age was 51 years (range 18-70 years), with 21.9% of patients ≥ 60 years of age. There were 59% males and 41% females; 89.9% caucasian and 4.7% black patients. Seven years after the last patient had been recruited, the median duration of first-line treatment was 82 and 8 months in the imatinib and IFN arms, respectively. The median duration of second-line treatment with imatinib was 64 months. Overall, in patients receiving first-line imatinib, the average daily dose delivered was 406 ±76 mg. The primary efficacy endpoint of the study is progression-free survival. Progression was defined as any of the following events: progression to accelerated phase or blast crisis, death, loss of CHR or MCyR, or in patients not achieving a CHR an increasing WBC despite appropriate therapeutic management. Major cytogenetic response, haematological response, molecular response (evaluation of minimal residual disease), time to accelerated phase or blast crisis and survival are main secondary endpoints. Response data are shown in Table 2.
+A total of 1 106 patients were randomised, 553 to each arm. Baseline characteristics were well balanced between the two arms. Median age was 51 years (range 18-70 years), with 21.9% of patients ≥ 60 years of age. There were 59% males and 41% females; 89.9% caucasian and 4.7% black patients. Seven years after the last patient had been recruited, the median duration of first-line treatment was 82 and 8 months in the imatinib and IFN arms, respectively. The median duration of second-line treatment with imatinib was 64 months. Overall, in patients receiving first-line imatinib, the average daily dose delivered was 406 ±76 mg. The primary efficacy endpoint of the study is progression-free survival. Progression was defined as any of the following events: progression to accelerated phase or blast crisis, death, loss of CHR or MCyR, or in patients not achieving a CHR an increasing WBC despite appropriate therapeutic management. Major cytogenetic response, haematological response, molecular response (evaluation of minimal residual disease), time to accelerated phase or blast crisis and survival are main secondary endpoints. Response data are shown in Table 2.
 
 Table  2 Response  in newly diagnosed  CML  Study  (84-month  data)
 
@@ -1667,13 +1669,15 @@ Table  2 Response  in newly diagnosed  CML  Study  (84-month  data)
 
 WBC &lt; 10 x 10 9 /l, platelet &lt; 450 x 10 9 /l, myelocyte+metamyelocyte &lt; 5% in blood, no blasts and promyelocytes in blood, basophils &lt; 20%, no extramedullary involvement
 
-Cytogenetic  response criteria: complete (0% Ph+ metaphases), partial (1-35%), minor (3665%) or minimal (66-95%). A major response (0-35%) combines both complete and partial responses. Major molecular response criteria: in the peripheral blood reduction of ≥ 3 logarithms in the amount of Bcr-Abl transcripts (measured by real-time quantitative reverse transcriptase PCR assay) over a standardised baseline.
+Cytogenetic  response criteria: complete (0% Ph+ metaphases), partial (1-35%), minor (36-65%) or minimal (66-95%). A major response (0-35%) combines both complete and partial responses. Major molecular response criteria: in the peripheral blood reduction of ≥ 3 logarithms in the amount of Bcr-Abl transcripts (measured by real-time quantitative reverse transcriptase PCR assay) over a standardised baseline.
 
 Rates of complete haematological response, major cytogenetic response and complete cytogenetic response on first-line treatment were estimated using the Kaplan-Meier approach, for which nonresponses were censored at the date of last examination. Using this approach, the estimated cumulative response rates for first-line treatment with imatinib improved from 12 months of therapy to 84 months of therapy as follows: CHR from 96.4% to 98.4% and CCyR from 69.5% to 87.2%, respectively.
 
+With 7 years follow-up, there were 93 (16.8%) progression events in the imatinib arm: 37 (6.7%) involving progression to accelerated phase/blast crisis, 31 (5.6%) loss of MCyR, 15 (2.7%) loss of CHR or increase in WBC, and 10 (1.8%) CML unrelated deaths. In contrast, there were 165 (29.8%)
+
 <div style=\"page-break-after: always\"></div>
 
-With 7 years follow-up, there were 93 (16.8%) progression events in the imatinib arm: 37 (6.7%) involving progression to accelerated phase/blast crisis, 31 (5.6%) loss of MCyR, 15 (2.7%) loss of CHR or increase in WBC, and 10 (1.8%) CML unrelated deaths. In contrast, there were 165 (29.8%) events in the IFN+Ara-C arm, of which 130 occurred during first-line treatment with IFN+Ara-C.
+events in the IFN+Ara-C arm, of which 130 occurred during first-line treatment with IFN+Ara-C.
 
 The estimated rate of patients free of progression to accelerated phase or blast crisis at 84 months was significantly higher in the imatinib arm compared to the IFN arm (92.5% versus 85.1%, p&lt;0.001). The annual rate of progression to accelerated phase or blast crisis decreased with time on therapy and was less than 1% annually in the fourth and fifth years. The estimated rate of progression-free survival at 84 months was 81.2% in the imatinib arm and 60.6% in the control arm (p&lt;0.001). The yearly rates of progression of any type for imatinib also decreased over time.
 
@@ -1691,9 +1695,9 @@ In this study 65% of the patients achieved a major cytogenetic response that was
 
 ## Accelerated phase
 
-<div style=\"page-break-after: always\"></div>
-
 235 adult patients with accelerated phase disease were enrolled. The first 77 patients were started at 400 mg, the protocol was subsequently amended to allow higher dosing and the remaining 158 patients were started at 600 mg.
+
+<div style=\"page-break-after: always\"></div>
 
 The primary efficacy variable was the rate of haematological response, reported as either complete haematological response, no evidence of leukaemia (i.e. clearance of blasts from the marrow and the blood, but without a full peripheral blood recovery as for complete responses), or return to chronic phase CML. A confirmed haematological response was achieved in 71.5% of patients (Table 3). Importantly, 27.7% of patients also achieved a major cytogenetic response, which was complete in 20.4% (confirmed 16%) of patients. For the patients treated at 600 mg, the current estimates for median progression-free-survival and overall survival were 22.9 and 42.5 months, respectively.
 
@@ -1709,24 +1713,26 @@ A limited number of patients were enrolled in phase I studies (n=10). The rate o
 
 ## Table 3 Response in adult CML studies
 
-|                                                                                                                         | Study 0110 37-month data Chronic phase, IFN failure (n=532)   | Study 0109 40.5-month data Accelerated phase (n=235)   | Study 0102 38-month data Myeloid blast crisis (n=260)   |
-|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|
-|                                                                                                                         | %of patients (CI 95% )                                        | %of patients (CI 95% )                                 | %of patients (CI 95% )                                  |
-| Haematological response 1 Complete haematological response (CHR) No evidence of leukaemia (NEL) Return to chronic phase | 95% (92.3-96.3) 95% Not applicable Not applicable             | 71% (65.3-77.2) 42% 12% 17%                            | 31% (25.2-36.8) 8% 5% 18%                               |
-|                                                                                                                         | 65% (61.2-69.5) 53% (43%)                                     | 28% (22.0-33.9) 20% 7%                                 | 7%                                                      |
-| Major cytogenetic response 2 Complete (Confirmed 3 ) [95% CI] Partial                                                   | [38.6-47.2] 12%                                               | (16%) [11.3-21.0]                                      | 15% (11.2-20.4) (2%) [0.6-4.4] 8%                       |
+|                                                                                                 | Study 0110 37-month data Chronic phase, IFN failure (n=532)   | Study 0109 40.5-month data Accelerated phase (n=235)   | Study 0102 38-month data Myeloid blast crisis (n=260)   |
+|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|
+|                                                                                                 | %of patients (CI 95% )                                        | %of patients (CI 95% )                                 | %of patients (CI 95% )                                  |
+| Haematological response 1 Complete haematological response (CHR) No evidence of leukaemia (NEL) | 95% (92.3-96.3) 95% Not applicable Not applicable             | 71% (65.3-77.2) 42% 12% 17%                            | 31% (25.2-36.8) 8% 5% 18%                               |
+| Return to chronic phase cytogenetic response 2 Complete 3                                       |                                                               |                                                        |                                                         |
+|                                                                                                 | 65% (61.2-69.5) 53% (43%) [38.6-47.2]                         | 28% (22.0-33.9) 20% 7%                                 | 15% 7% (2%) [0.6-4.4]                                   |
+| Major (Confirmed ) [95% CI] Partial                                                             | 12%                                                           | (16%) [11.3-21.0]                                      | (11.2-20.4) 8%                                          |
 
 <div style=\"page-break-after: always\"></div>
 
 ## 1 Haematological response criteria (all responses to be confirmed after ≥ 4 weeks):
 
-- CHR: Study 0110 [WBC &lt; 10 x 10 9 /l, platelets &lt; 450 x 10 9 /l, myelocyte+metamyelocyte &lt; 5% in blood, no blasts and promyelocytes in blood, basophils &lt; 20%, no extramedullary involvement] and in studies 0102 and 0109 [ANC ≥ 1.5 x 10 9 /l, platelets ≥ 100 x 10 9 /l, no blood blasts, BM blasts &lt; 5% and no extramedullary disease]
+- CHR: Study 0110 [WBC &lt; 10 x 10 9 /l, platelets &lt; 450 x 10 9 /l, myelocyte+metamyelocyte &lt; 5% in blood, no blasts and promyelocytes in blood, basophils &lt; 20%, no extramedullary involvement] and in studies 0102 and 0109 [ANC ≥ 1.5 x 10 9 /l, platelets ≥ 100 x 10 9 /l, no blood
+
+blasts, BM blasts &lt; 5% and no extramedullary disease]
+
 - NEL  Same criteria as for CHR but ANC ≥ 1 x 10 9 /l and platelets ≥ 20 x 10 9 /l (0102 and 0109 only)
-- RTC  &lt; 15% blasts BM and PB, &lt; 30% blasts+promyelocytes in BM and PB, &lt; 20% basophils in PB, no extramedullary disease other than spleen and liver (only for 0102 and
+- RTC  &lt; 15% blasts BM and PB, &lt; 30% blasts+promyelocytes in BM and PB, &lt; 20% basophils in PB, no extramedullary disease other than spleen and liver (only for 0102 and 0109). BM = bone marrow, PB = peripheral blood
 
-0109). BM = bone marrow, PB = peripheral blood
-
-## 2 Cytogenetic  response criteria:
+## 2 Cytogenetic response criteria:
 
 A major response combines both complete and partial responses: complete (0% Ph+ metaphases), partial (1-35%)
 
@@ -1760,7 +1766,7 @@ Table 4 Chemotherapy regimen used in combination with imatinib
 | Consolidation therapy II, IV         | Ara-C 75 mg/m 2 i.v. (1 h), days 1-5; VM26 60 mg/m 2 i.v. (1 h), days 1-5                                                                                                                                                                                                                                                                         |
 | Study AAU02                          |                                                                                                                                                                                                                                                                                                                                                   |
 | Induction therapy ( de novo Ph+ ALL) | Daunorubicin 30 mg/m 2 i.v., days 1-3, 15-16; VCR 2 mg total dose i.v., days 1, 8, 15, 22; CP 750 mg/m 2 i.v., days 1, 8; Prednisone 60 mg/m 2 oral, days 1-7, 15-21; IDA 9 mg/m 2 oral, days 1-28; MTX 15 mg intrathecal, days 1, 8, 15, 22; Ara-C 40 mg intrathecal, days 1, 8, 15, 22; Methylprednisolone 40 mg intrathecal, days 1, 8, 15, 22 |
-| Consolidation ( de novo Ph+ ALL)     | Ara-C 1,000 mg/m 2 /12 h i.v.(3 h), days 1-4; Mitoxantrone 10 mg/m 2 i.v. days 3-5; MTX 15 mg intrathecal, day 1; Methylprednisolone 40 mg intrathecal, day 1                                                                                                                                                                                     |
+| Consolidation ( de novo Ph+ ALL)     | Ara-C 1 000 mg/m 2 /12 h i.v.(3 h), days 1-4; Mitoxantrone 10 mg/m 2 i.v. days 3-5; MTX 15 mg intrathecal, day 1; Methylprednisolone 40 mg intrathecal, day 1                                                                                                                                                                                     |
 | Study ADE04                          |                                                                                                                                                                                                                                                                                                                                                   |
 | Prephase                             | DEX 10 mg/m 2 oral, days 1-5; CP 200 mg/m 2 i.v., days 3-5; MTX 15 mg intrathecal, day 1                                                                                                                                                                                                                                                          |
 | Induction therapy I                  | DEX 10 mg/m 2 oral, days 1-5; VCR 2 mg i.v., days 6, 13, 20; Daunorubicin 45 mg/m 2 i.v., days 6-7, 13-14                                                                                                                                                                                                                                         |
@@ -1771,15 +1777,15 @@ Table 4 Chemotherapy regimen used in combination with imatinib
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                                                                                                                                                          | Prednisolone 60 mg/m 2 /day oral                                                                                                                                                                                                                                                                   |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Consolidation therapy                                                                                                                                                                    | Alternating chemotherapy course: high dose chemotherapy with MTX 1 g/m 2 i.v. (24 h), day 1, and Ara-C 2 g/m 2 i.v. (q 12 h), days 2-3, for 4 cycles                                                                                                                                               |
-| Maintenance                                                                                                                                                                              | VCR 1.3 g/m 2 i.v., day 1; Prednisolone 60 mg/m 2 oral, days 1-5                                                                                                                                                                                                                                   |
-| Study AUS01                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                    |
-| Induction-consolidation therapy                                                                                                                                                          | Hyper-CVAD regimen: CP 300 mg/m 2 i.v. (3 h, q 12 h), days 1-3; Vincristine 2 mg i.v., days 4, 11; Doxorubicine 50 mg/m 2 i.v. (24 h), day 4; DEX 40 mg/day on days 1-4 and 11-14, alternated with MTX 1 g/m 2 i.v. (24 h), day 1, Ara-C 1 g/m 2 i.v. (2 h, q 12 h), days 2-3 (total of 8 courses) |
-| Maintenance                                                                                                                                                                              | VCR 2 mg i.v. monthly for 13 months; Prednisolone 200 mg oral, 5 days per month for 13 months                                                                                                                                                                                                      |
-| All treatment regimens include administration of steroids for CNS prophylaxis.                                                                                                           | All treatment regimens include administration of steroids for CNS prophylaxis.                                                                                                                                                                                                                     |
-| Ara-C: cytosine arabinoside; CP: cyclophosphamide; DEX: dexamethasone; MTX: methotrexate; 6-MP: 6-mercaptopurine VM26: Teniposide; VCR: vincristine; IDA: idarubicine; i.v.: intravenous | Ara-C: cytosine arabinoside; CP: cyclophosphamide; DEX: dexamethasone; MTX: methotrexate; 6-MP: 6-mercaptopurine VM26: Teniposide; VCR: vincristine; IDA: idarubicine; i.v.: intravenous                                                                                                           |
+|                                                                                                                                                                                           | Prednisolone 60 mg/m 2 /day oral                                                                                                                                                                                                                                                                   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Consolidation therapy                                                                                                                                                                     | Alternating chemotherapy course: high dose chemotherapy with MTX 1 g/m 2 i.v. (24 h), day 1, and Ara-C 2 g/m 2 i.v. (q 12 h), days 2-3, for 4 cycles                                                                                                                                               |
+| Maintenance                                                                                                                                                                               | VCR 1.3 g/m 2 i.v., day 1; Prednisolone 60 mg/m 2 oral, days 1-5                                                                                                                                                                                                                                   |
+| Study AUS01                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                    |
+| Induction-consolidation therapy                                                                                                                                                           | Hyper-CVAD regimen: CP 300 mg/m 2 i.v. (3 h, q 12 h), days 1-3; Vincristine 2 mg i.v., days 4, 11; Doxorubicine 50 mg/m 2 i.v. (24 h), day 4; DEX 40 mg/day on days 1-4 and 11-14, alternated with MTX 1 g/m 2 i.v. (24 h), day 1, Ara-C 1 g/m 2 i.v. (2 h, q 12 h), days 2-3 (total of 8 courses) |
+| Maintenance                                                                                                                                                                               | VCR 2 mg i.v. monthly for 13 months; Prednisolone 200 mg oral, 5 days per month for 13 months                                                                                                                                                                                                      |
+| All treatment regimens include administration of steroids for CNS prophylaxis.                                                                                                            | All treatment regimens include administration of steroids for CNS prophylaxis.                                                                                                                                                                                                                     |
+| Ara-C: cytosine arabinoside; CP: cyclophosphamide; DEX: dexamethasone; MTX: methotrexate; 6-MP: 6- mercaptopurine VM26: Teniposide; VCR: vincristine; IDA: idarubicine; i.v.: intravenous | Ara-C: cytosine arabinoside; CP: cyclophosphamide; DEX: dexamethasone; MTX: methotrexate; 6-MP: 6- mercaptopurine VM26: Teniposide; VCR: vincristine; IDA: idarubicine; i.v.: intravenous                                                                                                          |
 
 ## Paediatric population
 
@@ -1787,27 +1793,26 @@ In study I2301, a total of 93 paediatric, adolescent and young adult patients (f
 
 Table 5 Chemotherapy regimen used in combination with imatinib in study I2301
 
-| Consolidation block 1 (3 weeks)   | VP-16 (100 mg/m 2 /day, IV): days 1-5 Ifosfamide (1.8 g/m 2 /day, IV): days 1-5 MESNA (360 mg/m 2 /dose q3h, x 8 doses/day, IV): days 1-5 G- CSF (5 μg/kg, SC): days 6 -15 or until ANC > 1500 post nadir IT Methotrexate (age-adjusted): day 1 ONLY Triple IT therapy (age-adjusted): day 8, 15    |
-|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Consolidation block 2 (3 weeks)   | Methotrexate (5 g/m 2 over 24 hours, IV): day 1 Leucovorin (75 mg/m 2 at hour 36, IV; 15 mg/m 2 IV or PO q6h x 6 doses)iii: Days 2 and 3 Triple IT therapy (age-adjusted): day 1 ARA-C (3 g/m 2 /dose q 12 h x 4, IV): days 2 and 3 G- CSF (5 μg/kg, SC): days 4 -13 or until ANC > 1500 post nadir |
-| Reinduction block 1 (3 weeks)     | VCR (1.5 mg/m 2 /day, IV): days 1, 8, and 15 DAUN (45 mg/m 2 /day bolus, IV): days 1 and 2 CPM (250 mg/m 2 /dose q12h x 4 doses, IV): days 3 and 4 PEG-ASP (2500 IUnits/m 2 , IM): day 4 G- CSF (5 μg/kg, SC): days 5 -14 or until ANC > 1500 post nadir                                            |
+| Consolidation block 1 (3 weeks)   | VP-16 (100 mg/m 2 /day, IV): days 1-5 Ifosfamide (1.8 g/m 2 /day, IV): days 1-5 MESNA (360 mg/m 2 /dose q3h, x 8 doses/day, IV): days 1-5 G- CSF (5 μg/kg, SC): days 6 -15 or until ANC > 1 500 post nadir IT Methotrexate (age-adjusted): day 1 ONLY Triple IT therapy (age-adjusted): day 8, 15    |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Consolidation block 2 (3 weeks)   | Methotrexate (5 g/m 2 over 24 hours, IV): day 1 Leucovorin (75 mg/m 2 at hour 36, IV; 15 mg/m 2 IV or PO q6h x 6 doses)iii: Days 2 and 3 Triple IT therapy (age-adjusted): day 1 ARA-C (3 g/m 2 /dose q 12 h x 4, IV): days 2 and 3 G- CSF (5 μg/kg, SC): days 4 -13 or until ANC > 1 500 post nadir |
+| Reinduction block 1 (3 weeks)     | VCR (1.5 mg/m 2 /day, IV): days 1, 8, and 15 DAUN (45 mg/m 2 /day bolus, IV): days 1 and 2 CPM (250 mg/m 2 /dose q12h x 4 doses, IV): days 3 and 4 PEG-ASP (2 500 IUnits/m 2 , IM): day 4 G- CSF (5 μg/kg, SC): days 5 -14 or until ANC > 1 500 post nadir                                           |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                         | Triple IT therapy (age-adjusted): days 1 and 15 DEX (6 mg/m 2 /day, PO): days 1-7 and 15-21                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Intensification block 1 (9 weeks)       | Methotrexate (5 g/m 2 over 24 hours, IV): days 1 and 15 Leucovorin (75 mg/m 2 at hour 36, IV; 15 mg/m 2 IV or PO q6h x 6 doses)iii: days 2, 3, 16, and 17 Triple IT therapy (age-adjusted): days 1 and 22 VP-16 (100 mg/m 2 /day, IV): days 22-26 CPM (300 mg/m 2 /day, IV): days 22-26 MESNA (150 mg/m 2 /day, IV): days 22-26 G- CSF (5 μg/kg, SC): days 27 -36 or until ANC > 1500 post nadir ARA-C (3 g/m 2 , q12h, IV): days 43, 44 2                                                                                  |
-| Reinduction block 2 (3 weeks)           | VCR (1.5 mg/m 2 /day, IV): days 1, 8 and 15 DAUN (45 mg/m 2 /day bolus, IV): days 1 and 2 CPM (250 mg/m 2 /dose q12h x 4 doses, iv): Days 3 and 4 PEG-ASP (2500 IUnits/m 2 , IM): day 4 G- CSF (5 μg/kg, SC): days 5 -14 or until ANC > 1500 post nadir Triple IT therapy (age-adjusted): days 1 and 15 DEX (6 mg/m 2 /day, PO): days 1-7 and 15-21                                                                                                                                                                         |
-| Intensification block 2 (9 weeks)       | Methotrexate (5 g/m 2 over 24 hours, IV): days 1 and 15 Leucovorin (75 mg/m 2 at hour 36, IV; 15 mg/m 2 IV or PO q6h x 6 doses)iii: days 2, 3, 16, and 17 Triple IT therapy (age-adjusted): days 1 and 22 VP-16 (100 mg/m 2 /day, IV): days 22-26 CPM (300 mg/m 2 /day, IV): days 22-26 MESNA (150 mg/m 2 /day, IV): days 22-26 G- CSF (5 μg/kg, SC): days 27 -36 or until ANC > 1500 post nadir ARA-C (3 g/m 2 , q12h, IV): days 43, 44 L-ASP (6000 IUnits/m 2 , IM): day 44                                               |
-| Maintenance (8-week cycles) Cycles 1-4  | MTX (5 g/m 2 over 24 hours, IV): day 1 Leucovorin (75 mg/m 2 at hour 36, IV; 15 mg/m 2 IV or PO q6h x 6 doses)iii: days 2 and 3 Triple IT therapy (age-adjusted): days 1, 29 VCR (1.5 mg/m 2 , IV): days 1, 29 DEX (6 mg/m 2 /day PO): days 1-5; 29-33 6-MP (75 mg/m 2 /day, PO): days 8-28 Methotrexate (20 mg/m 2 /week, PO): days 8, 15, 22 VP-16 (100 mg/m 2 , IV): days 29-33 CPM (300 mg/m 2 , IV): days 29-33 MESNA IV days 29-33 G- CSF (5 μg/kg, SC): days 34 -43                                                  |
-| Maintenance (8-week cycles) Cycle 5     | Cranial irradiation (Block 5 only) 12 Gy in 8 fractions for all patients that are CNS1 and CNS2 at diagnosis 18 Gy in 10 fractions for patients that are CNS3 at diagnosis VCR (1.5 mg/m 2 /day, IV): days 1, 29 DEX (6 mg/m 2 /day, PO): days 1-5; 29-33 6-MP (75 mg/m 2 /day, PO): days 11-56 (Withhold 6-MP during the 6- 10 days of cranial irradiation beginning on day 1 of Cycle 5. Start 6-MP the 1st day after cranial irradiation completion.) Methotrexate (20 mg/m 2 /week, PO): days 8, 15, 22, 29, 36, 43, 50 |
-| Maintenance (8-week cycles) Cycles 6-12 | VCR (1.5 mg/m 2 /day, IV): days 1, 29 DEX (6 mg/m 2 /day, PO): days 1-5; 29-33 6-MP (75 mg/m 2 /day, PO): days 1-56 Methotrexate (20 mg/m 2 /week, PO): days 1, 8, 15, 22, 29, 36, 43, 50                                                                                                                                                                                                                                                                                                                                   |
-
-G-CSF = granulocyte colony stimulating factor, VP-16 = etoposide, MTX = methotrexate, IV = intravenous, SC = subcutaneous, IT = intrathecal, PO = oral, IM = intramuscular, ARA-C =
+|                                                                                                                                                                                                          | Triple IT therapy (age-adjusted): days 1 and 15 DEX (6 mg/m 2 /day, PO): days 1-7 and 15-21                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Intensification block 1 (9 weeks)                                                                                                                                                                        | Methotrexate (5 g/m 2 over 24 hours, IV): days 1 and 15 Leucovorin (75 mg/m 2 at hour 36, IV; 15 mg/m 2 IV or PO q6h x 6 doses)iii: days 2, 3, 16, and 17 Triple IT therapy (age-adjusted): days 1 and 22 VP-16 (100 mg/m 2 /day, IV): days 22-26 CPM (300 mg/m 2 /day, IV): days 22-26 MESNA (150 mg/m 2 /day, IV): days 22-26 G- CSF (5 μg/kg, SC): days 27 -36 or until ANC > 1 500 post nadir ARA-C (3 g/m 2 , q12h, IV): days 43, 44 2                                                                                   |
+| Reinduction block 2 (3 weeks)                                                                                                                                                                            | L-ASP (6 000 IUnits/m , IM): day 44 VCR (1.5 mg/m 2 /day, IV): days 1, 8 and 15 DAUN (45 mg/m 2 /day bolus, IV): days 1 and 2 CPM (250 mg/m 2 /dose q12h x 4 doses, iv): Days 3 and 4 PEG-ASP (2 500 IUnits/m 2 , IM): day 4 G- CSF (5 μg/kg, SC): days 5 -14 or until ANC > 1 500 post nadir Triple IT therapy (age-adjusted): days 1 and 15 DEX (6 mg/m 2 /day, PO): days 1-7 and 15-21                                                                                                                                     |
+| Intensification block 2 (9 weeks)                                                                                                                                                                        | Methotrexate (5 g/m 2 over 24 hours, IV): days 1 and 15 Leucovorin (75 mg/m 2 at hour 36, IV; 15 mg/m 2 IV or PO q6h x 6 doses)iii: days 2, 3, 16, and 17 Triple IT therapy (age-adjusted): days 1 and 22 VP-16 (100 mg/m 2 /day, IV): days 22-26 CPM (300 mg/m 2 /day, IV): days 22-26 MESNA (150 mg/m 2 /day, IV): days 22-26 G- CSF (5 μg/kg, SC): days 27 -36 or until ANC > 1 500 post nadir ARA-C (3 g/m 2 , q12h, IV): days 43, 44 L-ASP (6 000 IUnits/m 2 , IM): day 44                                               |
+| Maintenance (8-week cycles) Cycles 1-4                                                                                                                                                                   | MTX (5 g/m 2 over 24 hours, IV): day 1 Leucovorin (75 mg/m 2 at hour 36, IV; 15 mg/m 2 IV or PO q6h x 6 doses)iii: days 2 and 3 Triple IT therapy (age-adjusted): days 1, 29 VCR (1.5 mg/m 2 , IV): days 1, 29 DEX (6 mg/m 2 /day PO): days 1-5; 29-33 6-MP (75 mg/m 2 /day, PO): days 8-28 Methotrexate (20 mg/m 2 /week, PO): days 8, 15, 22 VP-16 (100 mg/m 2 , IV): days 29-33 CPM (300 mg/m 2 , IV): days 29-33 MESNA IV days 29-33 G- CSF (5 μg/kg, SC): days 34 -43                                                    |
+| Maintenance (8-week cycles) Cycle 5                                                                                                                                                                      | Cranial irradiation (Block 5 only) 12 Gy in 8 fractions for all patients that are CNS1 and CNS2 at diagnosis 18 Gy in 10 fractions for patients that are CNS3 at diagnosis VCR (1.5 mg/m 2 /day, IV): days 1, 29 DEX (6 mg/m 2 /day, PO): days 1-5; 29-33 6-MP (75 mg/m 2 /day, PO): days 11-56 (Withhold 6-MP during the 6- 10 days of cranial irradiation beginning on day 1 of Cycle 5. Start 6-MP the 1st day after cranial irradiation completion.) Methotrexate (20 mg/m 2 /week, PO): days 8, 15, 22, 29, 36, 43, 50 2 |
+| Maintenance (8-week cycles) Cycles 6-12                                                                                                                                                                  | VCR (1.5 mg/m /day, IV): days 1, 29 DEX (6 mg/m 2 /day, PO): days 1-5; 29-33 6-MP (75 mg/m 2 /day, PO): days 1-56 Methotrexate (20 mg/m 2 /week, PO): days 1, 8, 15, 22, 29, 36, 43,                                                                                                                                                                                                                                                                                                                                          |
+| 50 G-CSF = granulocyte colony stimulating factor, VP-16 = etoposide, MTX = methotrexate, IV = intravenous, SC = subcutaneous, IT = intrathecal, PO = oral, IM = intramuscular, ARA-C = cytarabine, CPM = | 50 G-CSF = granulocyte colony stimulating factor, VP-16 = etoposide, MTX = methotrexate, IV = intravenous, SC = subcutaneous, IT = intrathecal, PO = oral, IM = intramuscular, ARA-C = cytarabine, CPM =                                                                                                                                                                                                                                                                                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
-cytarabine, CPM = cyclophosphamide, VCR = vincristine, DEX = dexamethasone, DAUN = daunorubicin, 6-MP = 6-mercaptopurine, E.Coli L-ASP = L-asparaginase, PEG-ASP = PEG asparaginase, MESNA= 2mercaptoethane sulfonate sodium, iii= or until MTX level is &lt; 0.1 μM, q6h = every 6 hours, Gy= Gray
+cyclophosphamide, VCR = vincristine, DEX = dexamethasone, DAUN = daunorubicin, 6-MP = 6mercaptopurine, E.Coli L-ASP = L-asparaginase, PEG-ASP = PEG asparaginase, MESNA= 2mercaptoethane sulfonate sodium, iii= or until MTX level is &lt; 0.1 μM, q6h = every 6 hours, Gy= Gray
 
 Study AIT07 was a multicentre, open-label, randomised, phase II/III study that included 128 patients (1 to &lt; 18 years) treated with imatinib in combination with chemotherapy. Safety data from this study seem to be in line with the safety profile of imatinib in Ph+ ALL patients.
 
@@ -1821,7 +1826,7 @@ Experience with imatinib in this indication is very limited and is based on haem
 
 An observational registry (study L2401) was conducted to collect long-term safety and efficacy data in patients suffering from myeloproliferative neoplasms with PDGFRβ rearrangement and who were treated with imatinib. The 23 patients enrolled in this registry received imatinib at a median daily dose of 264 mg (range: 100 to 400 mg) for a median duration of 7.2 years (range 0.1 to 12.7 years). Due to the observational nature of this registry, haematologic, cytogenetic and molecular assessment data were available for 22, 9 and 17 of the 23 enrolled patients, respectively. When assuming conservatively that patients with missing data were non-responders, CHR was observed in 20/23 (87%) patients, CCyR in 9/23 (39.1%) patients, and MR in 11/23 (47.8%) patients, respectively. When the response rate is calculated from patients with at least one valid assessment, the response rate for CHR, CCyR and MR was 20/22 (90.9%), 9/9 (100%) and 11/17 (64.7%), respectively.
 
-In addition a further 24 patients with MDS/MPD were reported in 13 publications. 21 patients were treated with imatinib 400 mg daily, while the other 3 patients received lower doses. In eleven patients PDGFR gene rearrangements was detected, 9 of them achieved a CHR and 1 PHR. The age of these patients ranged from 2 to 79 years. In a recent publication updated information from 6 of these 11 patients revealed that all these patients remained in cytogenetic remission (range 32-38 months). The same publication reported long term follow-up data from 12 MDS/MPD patients with PDGFR gene rearrangements (5 patients from study B2225). These patients received imatinib for a median of 47 months (range 24 days - 60 months). In 6 of these patients follow-up now exceeds 4 years. Eleven patients achieved rapid CHR; ten had complete resolution of cytogenetic abnormalities and a decrease or disappearance of fusion transcripts as measured by RT-PCR. Haematological and cytogenetic responses have been sustained for a median of 49 months (range 19-60) and 47 months (range 16-59), respectively. The overall survival is 65 months since diagnosis (range 25-234). Imatinib administration to patients without the genetic translocation generally results in no improvement.
+In addition a further 24 patients with MDS/MPD were reported in 13 publications. 21 patients were treated with imatinib 400 mg daily, while the other 3 patients received lower doses. In eleven patients PDGFR gene rearrangements were detected, 9 of them achieved a CHR and 1 PHR. The age of these patients ranged from 2 to 79 years. In a recent publication updated information from 6 of these 11 patients revealed that all these patients remained in cytogenetic remission (range 32-38 months). The same publication reported long term follow-up data from 12 MDS/MPD patients with PDGFR gene rearrangements (5 patients from study B2225). These patients received imatinib for a median of 47 months (range 24 days - 60 months). In 6 of these patients follow-up now exceeds 4 years. Eleven patients achieved rapid CHR; ten had complete resolution of cytogenetic abnormalities and a decrease or disappearance of fusion transcripts as measured by RT-PCR. Haematological and cytogenetic responses have been sustained for a median of 49 months (range 19-60) and 47 months (range 16-59), respectively. The overall survival is 65 months since diagnosis (range 25-234). Imatinib administration to patients without the genetic translocation generally results in no improvement.
 
 There are no controlled trials in paediatric patients with MDS/MPD. Five (5) patients with MDS/MPD associated with PDGFR gene re-arrangements were reported in 4 publications. The age of these patients ranged from 3 months to 4 years and imatinib was given at dose 50 mg daily or doses ranging
 
@@ -1831,7 +1836,7 @@ from 92.5 to 340 mg/m 2 daily. All patients achieved complete haematological res
 
 ## Clinical studies in HES/CEL
 
-One open-label, multicentre, phase II clinical trial (study B2225) was conducted testing imatinib in diverse populations of patients suffering from life-threatening diseases associated with Abl, Kit or PDGFR protein tyrosine kinases. In this study, 14 patients with HES/CEL were treated with 100 mg to 1,000 mg of imatinib daily. A further 162 patients with HES/CEL, reported in 35 published case reports and case series received imatinib at doses from 75 mg to 800 mg daily. Cytogenetic abnormalities were evaluated in 117 of the total population of 176 patients. In 61 of these 117 patients FIP1L1PDGFRα fusion kinase was identified. An additional four HES patients were found to be FIP1L1PDGFRα -positive in other 3 published reports. All 65 FIP1L1PDGFRα fusion k inase positive patients achieved a CHR sustained for months (range from 1+ to 44+ months censored at the time of the reporting). As reported in a recent publication 21 of these 65 patients also achieved complete molecular remission with a median follow-up of 28 months (range 13-67 months). The age of these patients ranged from 25 to 72 years. Additionally, improvements in symptomatology and other organ dysfunction abnormalities were reported by the investigators in the case reports. Improvements were reported in cardiac, nervous, skin/subcutaneous tissue, respiratory/thoracic/mediastinal, musculoskeletal/connective tissue/vascular, and gastrointestinal organ systems.
+One open-label, multicentre, phase II clinical trial (study B2225) was conducted testing imatinib in diverse populations of patients suffering from life-threatening diseases associated with Abl, Kit or PDGFR protein tyrosine kinases. In this study, 14 patients with HES/CEL were treated with 100 mg to 1 000 mg of imatinib daily. A further 162 patients with HES/CEL, reported in 35 published case reports and case series received imatinib at doses from 75 mg to 800 mg daily. Cytogenetic abnormalities were evaluated in 117 of the total population of 176 patients. In 61 of these 117 patients FIP1L1PDGFRα fusion kinase was identified. An additional four HES patients were found to be FIP1L1PDGFRα -positive in other 3 published reports. All 65 FIP1L1PDGFRα fusion kinase positive patients achieved a CHR sustained for months (range from 1+ to 44+ months censored at the time of the reporting). As reported in a recent publication 21 of these 65 patients also achieved complete molecular remission with a median follow-up of 28 months (range 13-67 months). The age of these patients ranged from 25 to 72 years. Additionally, improvements in symptomatology and other organ dysfunction abnormalities were reported by the investigators in the case reports. Improvements were reported in cardiac, nervous, skin/subcutaneous tissue, respiratory/thoracic/mediastinal, musculoskeletal/connective tissue/vascular, and gastrointestinal organ systems.
 
 There are no controlled trials in paediatric patients with HES/CEL. Three (3) patients with HES and CEL associated with PDGFR gene re-arrangements were reported in 3 publications. The age of these patients ranged from 2 to 16 years and imatinib was given at dose 300 mg/m 2 daily or doses ranging from 200 to 400 mg daily. All patients achieved complete haematological response, complete cytogenetic response and/or complete molecular response.
 
@@ -1862,7 +1867,7 @@ In two clinical studies (study B2222 and an intergroup study S0033) the daily do
 
 ## Clinical studies in adjuvant GIST
 
-In the adjuvant setting, imatinib was investigated in a multicentre, double-blind, long-term, placebocontrolled phase III study (Z9001) involving 773 patients. The ages of these patients ranged from 18 to 91 years. Patients were included who had a histological diagnosis of primary GIST expressing Kit protein by immunochemistry and a tumour size ≥ 3 cm in maximum dimension, with complete gross resection of primary GIST within 14-70 days prior to registration. After resection of primary GIST, patients were randomised to one of the two arms: imatinib at 400 mg/day or matching placebo for one year.
+In the adjuvant setting, imatinib was investigated in a multicentre, double-blind, long-term, placebocontrolled phase III study (Z9001) involving 773 patients. The ages of these patients ranged from 18 to 91 years. Patients were included who had a histological diagnosis of primary GIST expressing Kit protein by immunochemistry and a tumo ur size ≥ 3 cm in maximum dimension, with complete gross resection of primary GIST within 14-70 days prior to registration. After resection of primary GIST, patients were randomised to one of the two arms: imatinib at 400 mg/day or matching placebo for one year.
 
 The primary endpoint of the study was recurrence-free survival (RFS), defined as the time from date of randomisation to the date of recurrence or death from any cause.
 
@@ -1872,25 +1877,24 @@ The risk of recurrence in patients after surgery of their primary GIST was retro
 
 Table 7 Summary of Z9001 trial RFS analyses by NIH and AFIP risk classifications
 
-| Risk     | Risk Level   | %of patients   | No. of events / No. of patients   | Overall hazard ratio   | RFS rates (%)             | RFS rates (%)         |
-|----------|--------------|----------------|-----------------------------------|------------------------|---------------------------|-----------------------|
-| criteria |              |                |                                   | (95%CI)*               | 12 month                  | 24 month              |
-|          |              |                | imatinib vs placebo               |                        | imatinib vs placebo       | imatinib vs placebo   |
-| NIH      | Low          | 29.5           | 0/86 vs. 2/90                     | N.E. 0.59 (0.17;       | 100 vs. 98.7 100 vs. 94.8 | 100 vs. 95.5 97.8 vs. |
-|          | Intermediate | 25.7           | 4/75 vs. 6/78                     | 2.10)                  |                           | 89.5                  |
-|          | High         | 44.8           | 21/140 vs. 51/127                 | 0.29 (0.18; 0.49)      | 94.8 vs. 64.0             | 80.7 vs. 46.6         |
-| AFIP     | Very Low     | 20.7           | 0/52 vs. 2/63                     | N.E.                   | 100 vs. 98.1              | 100 vs. 93.0          |
-|          | Low          | 25.0           | 2/70 vs. 0/69                     | N.E.                   | 100 vs. 100               | 97.8 vs. 100          |
-|          | Moderate     | 24.6           | 2/70 vs. 11/67                    | 0.16 (0.03; 0.70)      | 97.9 vs. 90.8             | 97.9 vs. 73.3         |
-|          | High         | 29.7           | 16/84 vs. 39/81                   | 0.27 (0.15; 0.48)      | 98.7 vs. 56.1             | 79.9 vs. 41.5         |
+| Risk                                        | Risk Level                                  | %of patients                                | No. of events / No. of patients             | Overall hazard ratio (95%CI)*               | RFS rates (%)                               | RFS rates (%)                               |
+|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
+| criteria                                    |                                             |                                             |                                             |                                             | 12 month                                    | 24 month                                    |
+|                                             |                                             |                                             | imatinib vs placebo                         |                                             | imatinib vs placebo                         | imatinib vs placebo                         |
+| NIH                                         | Low                                         | 29.5                                        | 0/86 vs. 2/90                               | N.E.                                        | 100 vs. 98.7                                | 100 vs. 95.5                                |
+|                                             | Intermediate                                | 25.7                                        | 4/75 vs. 6/78                               | 0.59 (0.17; 2.10)                           | 100 vs. 94.8                                | 97.8 vs. 89.5                               |
+|                                             | High                                        | 44.8                                        | 21/140 vs. 51/127                           | 0.29 (0.18; 0.49)                           | 94.8 vs. 64.0                               | 80.7 vs. 46.6                               |
+| AFIP                                        | Very Low                                    | 20.7                                        | 0/52 vs. 2/63                               | N.E.                                        | 100 vs. 98.1                                | 100 vs. 93.0                                |
+|                                             | Low                                         | 25.0                                        | 2/70 vs. 0/69                               | N.E.                                        | 100 vs. 100                                 | 97.8 vs. 100                                |
+|                                             | Moderate                                    | 24.6                                        | 2/70 vs. 11/67                              | 0.16 (0.03; 0.70)                           | 97.9 vs. 90.8                               | 97.9 vs. 73.3                               |
+|                                             | High                                        | 29.7                                        | 16/84 vs. 39/81                             | 0.27 (0.15; 0.48)                           | 98.7 vs. 56.1                               | 79.9 vs. 41.5                               |
+| * Full follow-up period; NE - Not estimable | * Full follow-up period; NE - Not estimable | * Full follow-up period; NE - Not estimable | * Full follow-up period; NE - Not estimable | * Full follow-up period; NE - Not estimable | * Full follow-up period; NE - Not estimable | * Full follow-up period; NE - Not estimable |
 
-* Full follow-up period; NE - Not estimable
-
-A second multicentre, open label phase III study (SSG XVIII/AIO) compared 400 mg/day imatinib 12 months treatment vs. 36 months treatment in patients after surgical resection of GIST and one of the following: tumour diameter &gt; 5 cm and mitotic count &gt; 5/50 high power fields (HPF); or tumour diameter &gt; 10 cm and any mitotic count or tumour of any size with mitotic count &gt; 10/50 HPF or tumours ruptured into the peritoneal cavity. There were a total of 397 patients consented and
+A second multicentre, open label phase III study (SSG XVIII/AIO) compared 400 mg/day imatinib 12 months treatment vs. 36 months treatment in patients after surgical resection of GIST and one of the following: tumour diameter &gt; 5 cm and mitotic count &gt; 5/50 high power fields (HPF); or tumour diameter &gt; 10 cm and any mitotic count or tumour of any size with mitotic count &gt; 10/50 HPF or
 
 <div style=\"page-break-after: always\"></div>
 
-randomised to the study (199 patients on 12-month arm and 198 patients on 36-month arm), median age was 61 years (range 22 to 84 years). The median time of follow-up was 54 months (from date of randomisation to data cut-off), with a total of 83 months between the first patient randomised and the cut-off date.
+tumours ruptured into the peritoneal cavity. There were a total of 397 patients consented and randomised to the study (199 patients on 12-month arm and 198 patients on 36-month arm), median age was 61 years (range 22 to 84 years). The median time of follow-up was 54 months (from date of randomisation to data cut-off), with a total of 83 months between the first patient randomised and the cut-off date.
 
 The primary endpoint of the study was recurrence-free survival (RFS), defined as the time from date of randomisation to the date of recurrence or death from any cause.
 
@@ -2008,7 +2012,7 @@ There are no controlled trials in paediatric patients with DFSP. Five (5) patien
 
 ## Pharmacokinetics of imatinib
 
-The pharmacokinetics of imatinib have been evaluated over a dosage range of 25 to 1,000 mg. Plasma pharmacokinetic profiles were analysed on day 1 and on either day 7 or day 28, by which time plasma concentrations had reached steady state.
+The pharmacokinetics of imatinib have been evaluated over a dosage range of 25 to 1 000 mg. Plasma pharmacokinetic profiles were analysed on day 1 and on either day 7 or day 28, by which time plasma concentrations had reached steady state.
 
 ## Absorption
 
@@ -2036,7 +2040,7 @@ Based on the recovery of compound(s) after an oral 14 C-labelled dose of imatini
 
 ## Plasma pharmacokinetics
 
-Following oral administration in healthy volunteers, the t½ was approximately 18 h, suggesting that once-daily dosing is appropriate. The increase in mean AUC with increasing dose was linear and dose proportional in the range of 25-1,000 mg imatinib after oral administration. There was no change in the kinetics of imatinib on repeated dosing, and accumulation was 1.5-2.5-fold at steady state when dosed once daily.
+Following oral administration in healthy volunteers, the t½ was approximately 18 h, suggesting that once-daily dosing is appropriate. The increase in mean AUC with increasing dose was linear and dose proportional in the range of 25-1 000 mg imatinib after oral administration. There was no change in the kinetics of imatinib on repeated dosing, and accumulation was 1.5-2.5-fold at steady state when dosed once daily.
 
 ## Pharmacokinetics in GIST patients
 
@@ -2163,6 +2167,8 @@ Date of latest renewal: 18 September 2017
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
+
+69
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2636,6 +2642,8 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
+82
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 Outer carton
@@ -2948,7 +2956,7 @@ If you have accidentally taken too many tablets, talk to your doctor straight aw
 
 - -If you forget a dose, take it as soon as you remember. However if it is nearly time for the next dose, skip the missed dose.
 - -Then continue with your normal schedule.
-- -Do not take a double dose to make up a forgotten dose.
+- -Do not take a double dose to make up for a forgotten dose.
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
@@ -2967,7 +2975,7 @@ Very common (may affect more than 1 in 10 people) or common (may affect up to 1 
 - Signs of infection such as fever, severe chills, sore throat or mouth ulcers. Imatinib Teva can reduce the number of white blood cells, so you might get infections more easily.
 - Unexpected bleeding or bruising (when you have not hurt yourself).
 
-Uncommon (may affect up to 1 in 100 people) or rare (may affect up to 1 in 1,000 people):
+Uncommon (may affect up to 1 in 100 people) or rare (may affect up to 1 in 1 000 people):
 
 - Chest pain, irregular heart rhythm (signs of heart problems).
 - Cough, having difficulty breathing or painful breathing (signs of lung problems).
@@ -3081,7 +3089,7 @@ If any of these affects you severely, tell your doctor.
 
 If any of these affects you severely, tell your doctor.
 
-Rare (may affect up to 1 in 1,000 people):
+Rare (may affect up to 1 in 1 000 people):
 
 - Confusion.
 - Nail discolouration.
@@ -3157,9 +3165,9 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-## Lietuva
-
 Teva Pharma Belgium N.V./S.A./AG Tél/Tel: +32 38207373
+
+## Lietuva
 
 UAB Teva Baltics
 
@@ -3195,11 +3203,11 @@ Tlf.: +45 44985511
 
 ## Malta
 
-Teva Pharmaceuticals Ireland
+TEVA HELLAS Α.Ε.
 
-L-Irlanda
+il- Greċja
 
-Tel: +44 2075407117
+Tel: +30 2118805000
 
 ## Deutschland
 
@@ -3209,9 +3217,7 @@ Tel: +49 73140205
 
 ## Nederland
 
-Teva Nederland B.V.
-
-Tel: +31 8000228400
+Teva Nederland B.V. Tel: +31 8000228400
 
 ## Eesti
 
@@ -3219,17 +3225,11 @@ UAB Teva Baltics Eesti filiaal Tel: +372 6610801
 
 ## Norge
 
-Teva Norway AS
-
-Tlf: +47 66775590
+Teva Norway AS Tlf: +47 66775590
 
 ## Ελλάδα
 
-TEVA HELLAS Α.Ε.
-
-Τηλ
-
-: +30 2118805000
+TEVA HELLAS Α.Ε. Τηλ : +30 2118805000
 
 ## Österreich
 
@@ -3237,21 +3237,15 @@ ratiopharm Arzneimittel Vertriebs-GmbH Tel: +43 1970070
 
 ## España
 
-Teva Pharma, S.L.U.
-
-Tel: +34 913873280
+Teva Pharma, S.L.U. Tel: +34 915359180
 
 ## Polska
 
-Teva Pharmaceuticals Polska Sp. z o.o.
-
-Tel.: +48 223459300
+Teva Pharmaceuticals Polska Sp. z o.o. Tel.: +48 223459300
 
 ## France
 
-Teva Santé
-
-Tél: +33 155917800
+Teva Santé Tél: +33 155917800
 
 ## Portugal
 
@@ -3259,9 +3253,7 @@ Teva Pharma - Produtos Farmacêuticos, Lda. Tel: +351 214767550
 
 ## Hrvatska
 
-Pliva Hrvatska d.o.o.
-
-Tel: +385 13720000
+Pliva Hrvatska d.o.o. Tel: +385 13720000
 
 ## România
 
@@ -3269,9 +3261,7 @@ Teva Pharmaceuticals S.R.L. Tel: +40 212306524
 
 ## Ireland
 
-Teva Pharmaceuticals Ireland
-
-Tel: +44 2075407117
+Teva Pharmaceuticals Ireland Tel: +44 2075407117
 
 ## Slovenija
 
@@ -3279,9 +3269,7 @@ Pliva Ljubljana d.o.o. Tel: +386 15890390
 
 ## Ísland
 
-Teva Pharma Iceland ehf.
-
-Sími: +354 5503300
+Teva Pharma Iceland ehf. Sími: +354 5503300
 
 ## Slovenská republika
 
@@ -3289,17 +3277,13 @@ TEVA Pharmaceuticals Slovakia s.r.o.
 
 Tel: +421 257267911
 
+<div style=\"page-break-after: always\"></div>
+
 ## Italia
 
 Teva Italia S.r.l.
 
 Tel: +39 028917981
-
-## Suomi/Finland
-
-Teva Finland Oy
-
-Puh/Tel: +358 201805900
 
 ## Κύπρος
 
@@ -3309,31 +3293,29 @@ TEVA HELLAS Α.Ε. Ελλάδα
 
 30 2118805000
 
-## Sverige
-
-Teva Sweden AB
-
-Tel: +46 42121100
-
 ## Latvija
 
 UAB Teva Baltics filiāle Latvijā
 
 Tel: +371 67323666
 
-## United Kingdom (Northern Ireland)
-
-Teva Pharmaceuticals Ireland Ireland
-
-Tel: +44 2075407117
-
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu
+
+## Suomi/Finland
+
+Teva Finland Oy
+
+Puh/Tel: +358 201805900
+
+## Sverige
+
+Teva Sweden AB
+
+Tel: +46 42121100
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3510,7 +3492,7 @@ If you have accidentally taken too many tablets, talk to your doctor straight aw
 
 - -If you forget a dose, take it as soon as you remember. However if it is nearly time for the next dose, skip the missed dose.
 - -Then continue with your normal schedule.
-- -Do not take a double dose to make up a forgotten dose.
+- -Do not take a double dose to make up for a forgotten dose.
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
@@ -3529,7 +3511,7 @@ Very common (may affect more than 1 in 10 people) or common (may affect up to 1 
 
 - Unexpected bleeding or bruising (when you have not hurt yourself).
 
-Uncommon (may affect up to 1 in 100 people) or rare (may affect up to 1 in 1,000 people):
+Uncommon (may affect up to 1 in 100 people) or rare (may affect up to 1 in 1 000 people):
 
 - Chest pain, irregular heart rhythm (signs of heart problems).
 - Cough, having difficulty breathing or painful breathing (signs of lung problems).
@@ -3645,7 +3627,7 @@ sexual intercourse or ejaculation, blood in urine (signs of oedema of the testic
 
 If any of these affects you severely, tell your doctor.
 
-Rare (may affect up to 1 in 1,000 people):
+Rare (may affect up to 1 in 1 000 people):
 
 - Confusion.
 - Nail discolouration.
@@ -3717,11 +3699,13 @@ PLIVA Croatia Ltd. Prilaz baruna Filipovi ć a 25 10000 Zagreb Croatia
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-<div style=\"page-break-after: always\"></div>
-
 ## België/Belgique/Belgien
 
 Teva Pharma Belgium N.V./S.A./AG Tél/Tel: +32 38207373
+
+## Lietuva
+
+UAB Teva Baltics Tel: +370 52660203
 
 ## България
 
@@ -3731,69 +3715,15 @@ Teл
 
 .: +359 24899585
 
+## Luxembourg/Luxemburg
+
+Teva Pharma Belgium N.V./S.A./AG Belgique/Belgien Tél/Tel: +32 38207373
+
 ## Česká republika
 
 Teva Pharmaceuticals CR, s.r.o.
 
 Tel: +420 251007111
-
-## Danmark
-
-Teva Denmark A/S
-
-Tlf.: +45 44985511
-
-## Deutschland
-
-AbZ-Pharma GmbH
-
-Tel: +49 73140205
-
-## Eesti
-
-UAB Teva Baltics Eesti filiaal
-
-Tel: +372 6610801
-
-## Ελλάδα
-
-TEVA HELLAS Α.Ε. Τηλ : +30 2118805000
-
-## España
-
-Teva Pharma, S.L.U. Tel: +34 913873280
-
-## France
-
-Teva Santé
-
-Tél: +33 155917800
-
-## Hrvatska
-
-Pliva Hrvatska d.o.o. Tel: +385 13720000
-
-## Ireland
-
-Teva Pharmaceuticals Ireland Tel: +44 2075407117
-
-## Ísland
-
-Teva Pharma Iceland ehf. Sími: +354 5503300
-
-## Italia
-
-Teva Italia S.r.l.
-
-Tel: +39 028917981
-
-## Lietuva
-
-UAB Teva Baltics Tel: +370 52660203
-
-## Luxembourg/Luxemburg
-
-Teva Pharma Belgium N.V./S.A./AG Belgique/Belgien Tél/Tel: +32 38207373
 
 ## Magyarország
 
@@ -3801,13 +3731,25 @@ Teva Gyógyszergyár Zrt.
 
 Tel.: +36 12886400
 
+## Danmark
+
+Teva Denmark A/S
+
+Tlf.: +45 44985511
+
 ## Malta
 
-Teva Pharmaceuticals Ireland
+TEVA HELLAS Α.Ε.
 
-L-Irlanda
+il- Greċja
 
-Tel: +44 2075407117
+Tel: +30 2118805000
+
+## Deutschland
+
+AbZ-Pharma GmbH
+
+Tel: +49 73140205
 
 ## Nederland
 
@@ -3815,71 +3757,103 @@ Teva Nederland B.V.
 
 Tel: +31 8000228400
 
+## Eesti
+
+UAB Teva Baltics Eesti filiaal
+
+Tel: +372 6610801
+
 ## Norge
 
 Teva Norway AS
 
 Tlf: +47 66775590
 
+## Ελλάδα
+
+TEVA HELLAS Α.Ε. Τηλ : +30 2118805000
+
 ## Österreich
 
 ratiopharm Arzneimittel Vertriebs-GmbH Tel: +43 1970070
+
+## España
+
+Teva Pharma, S.L.U. Tel: +34 915359180
 
 ## Polska
 
 Teva Pharmaceuticals Polska Sp. z o.o. Tel.: +48 223459300
 
+## France
+
+Teva Santé
+
+Tél: +33 155917800
+
 ## Portugal
 
 Teva Pharma - Produtos Farmacêuticos, Lda. Tel: +351 214767550
+
+## Hrvatska
+
+Pliva Hrvatska d.o.o. Tel: +385 13720000
 
 ## România
 
 Teva Pharmaceuticals S.R.L. Tel: +40 212306524
 
+## Ireland
+
+Teva Pharmaceuticals Ireland Tel: +44 2075407117
+
 ## Slovenija
 
 Pliva Ljubljana d.o.o. Tel: +386 15890390
+
+## Ísland
+
+Teva Pharma Iceland ehf. Sími: +354 5503300
 
 ## Slovenská republika
 
 TEVA Pharmaceuticals Slovakia s.r.o. Tel: +421 257267911
 
+## Italia
+
+Teva Italia S.r.l.
+
+Tel: +39 028917981
+
 ## Suomi/Finland
 
-Teva Finland Oy
+Teva Finland Oy Puh/Tel: +358 201805900
 
-Puh/Tel: +358 201805900
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
 
 ## Κύπρος
 
 TEVA HELLAS Α.Ε. Ελλάδα Τηλ: + 30 2118805000
 
-Sverige
-
-Teva Sweden AB
-
-Tel: +46 42121100
-
-Latvija
+## Latvija
 
 UAB Teva Baltics filiāle Latvijā
 
 Tel: +371 67323666
-
-## United Kingdom (Northern Ireland)
-
-Teva Pharmaceuticals Ireland Ireland
-
-Tel: +44 2075407117
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu
+
+## Sverige
+
+Teva Sweden AB
+
+Tel: +46 42121100
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4052,7 +4026,7 @@ If you have accidentally taken too many capsules, talk to your doctor straight a
 
 - -If you forget a dose, take it as soon as you remember. However if it is nearly time for the next dose, skip the missed dose.
 - -Then continue with your normal schedule.
-- -Do not take a double dose to make up a forgotten dose.
+- -Do not take a double dose to make up for a forgotten dose.
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
@@ -4068,7 +4042,7 @@ Very common (may affect more than 1 in 10 people) or common (may affect up to 1 
 - Signs of infection such as fever, severe chills, sore throat or mouth ulcers. Imatinib Teva can reduce the number of white blood cells, so you might get infections more easily.
 - Unexpected bleeding or bruising (when you have not hurt yourself).
 
-Uncommon (may affect up to 1 in 100 people) or rare (may affect up to 1 in 1,000 people):
+Uncommon (may affect up to 1 in 100 people) or rare (may affect up to 1 in 1 000 people):
 
 - Chest pain, irregular heart rhythm (signs of heart problems).
 
@@ -4136,7 +4110,7 @@ If any of these affects you severely, tell your doctor.
 - Dry mouth, dry skin or dry eye.
 - Decreased or increased skin sensitivity.
 
-•
+·
 
 Hot flushes, chills or night sweats.
 
@@ -4187,7 +4161,7 @@ If any of these affects you severely, tell your doctor.
 
 If any of these affects you severely, tell your doctor.
 
-Rare (may affect up to 1 in 1,000 people):
+Rare (may affect up to 1 in 1 000 people):
 
 - Confusion.
 - Nail discolouration.
@@ -4272,11 +4246,7 @@ Tel: +370 52660203
 
 ## България
 
-Тева Фарма ЕАД
-
-Teл
-
-.: +359 24899585
+Тева Фарма ЕАД Teл .: +359 24899585
 
 ## Luxembourg/Luxemburg
 
@@ -4298,15 +4268,11 @@ Tlf.: +45 44985511
 
 ## Malta
 
-Teva Pharmaceuticals Ireland L-Irlanda
-
-Tel: +44 2075407117
+TEVA HELLAS Α.Ε. il- Greċja Tel: +30 2118805000
 
 ## Deutschland
 
-AbZ-Pharma GmbH
-
-Tel: +49 73140205
+AbZ-Pharma GmbH Tel: +49 73140205
 
 ## Nederland
 
@@ -4330,7 +4296,7 @@ ratiopharm Arzneimittel Vertriebs-GmbH Tel: +43 1970070
 
 ## España
 
-Teva Pharma, S.L.U. Tel: +34 913873280
+Teva Pharma, S.L.U. Tel: +34 915359180
 
 ## Polska
 
@@ -4338,7 +4304,9 @@ Teva Pharmaceuticals Polska Sp. z o.o. Tel.: +48 223459300
 
 ## France
 
-Teva Santé Tél: +33 155917800
+Teva Santé
+
+Tél: +33 155917800
 
 ## Portugal
 
@@ -4376,35 +4344,29 @@ Teva Italia S.r.l. Tel: +39 028917981
 
 Teva Finland Oy Puh/Tel: +358 201805900
 
+<div style=\"page-break-after: always\"></div>
+
 ## Κύπρος
 
 TEVA HELLAS Α.Ε. Ελλάδα Τηλ: + 30 2118805000
 
-Sverige
-
-Teva Sweden AB
-
-Tel: +46 42121100
-
-Latvija
+## Latvija
 
 UAB Teva Baltics filiāle Latvijā
 
 Tel: +371 67323666
-
-## United Kingdom (Northern Ireland)
-
-Teva Pharmaceuticals Ireland Ireland
-
-Tel: +44 2075407117
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+## Sverige
+
+Teva Sweden AB
+
+Tel: +46 42121100
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4579,7 +4541,7 @@ If you have accidentally taken too many capsules, talk to your doctor straight a
 
 - -If you forget a dose, take it as soon as you remember. However if it is nearly time for the next dose, skip the missed dose.
 - -Then continue with your normal schedule.
-- -Do not take a double dose to make up a forgotten dose.
+- -Do not take a double dose to make up for a forgotten dose.
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
@@ -4598,7 +4560,7 @@ Very common (may affect more than 1 in 10 people) or common (may affect up to 1 
 
 - Unexpected bleeding or bruising (when you have not hurt yourself).
 
-Uncommon (may affect up to 1 in 100 people) or rare (may affect up to 1 in 1,000 people):
+Uncommon (may affect up to 1 in 100 people) or rare (may affect up to 1 in 1 000 people):
 
 - Chest pain, irregular heart rhythm (signs of heart problems).
 - Cough, having difficulty breathing or painful breathing (signs of lung problems).
@@ -4714,7 +4676,7 @@ sexual intercourse or ejaculation, blood in urine (signs of oedema of the testic
 
 If any of these affects you severely, tell your doctor.
 
-Rare (may affect up to 1 in 1,000 people):
+Rare (may affect up to 1 in 1 000 people):
 
 - Confusion.
 - Nail discolouration.
@@ -4827,7 +4789,7 @@ TEVA HELLAS Α.Ε. Τηλ : +30 2118805000
 
 ## España
 
-Teva Pharma, S.L.U. Tel: +34 913873280
+Teva Pharma, S.L.U. Tel: +34 915359180
 
 ## France
 
@@ -4869,11 +4831,11 @@ Tel.: +36 12886400
 
 ## Malta
 
-Teva Pharmaceuticals Ireland
+TEVA HELLAS Α.Ε.
 
-L-Irlanda
+ilGreċja
 
-Tel: +44 2075407117
+Tel: +30 2118805000
 
 ## Nederland
 
@@ -4915,32 +4877,26 @@ TEVA Pharmaceuticals Slovakia s.r.o. Tel: +421 257267911
 
 Teva Finland Oy Puh/Tel: +358 201805900
 
+<div style=\"page-break-after: always\"></div>
+
 ## Κύπρος
 
 TEVA HELLAS Α.Ε. Ελλάδα Τηλ: + 30 2118805000
 
-Sverige
-
-Teva Sweden AB
-
-Tel: +46 42121100
-
-Latvija
+## Latvija
 
 UAB Teva Baltics filiāle Latvijā
 
 Tel: +371 67323666
-
-## United Kingdom (Northern Ireland)
-
-Teva Pharmaceuticals Ireland Ireland
-
-Tel: +44 2075407117
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+## Sverige
+
+Teva Sweden AB
+
+Tel: +46 42121100

@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 13:57:49
+document_datetime: 2026-03-05 15:36:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lantus.html
 document_name: lantus.html
 version: success
-processing_time: 0.122706
-conversion_datetime: 2025-12-31 01:49:21.094429
+processing_time: 0.1124671
+conversion_datetime: 2026-03-09 14:21:28.311651
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.77.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Lantus
 
 [RSS](/en/individual-human-medicine.xml/65733)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 insulin glargine Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -39,6 +37,7 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Lantus](#news-on)
 - [More information on Lantus](#more-information-on-lantus-1072)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-84016)
 - [More information on Lantus](#related-medicines)
 - [Topics](#topics)
 
@@ -120,7 +119,7 @@ English (EN) (61.95 KB - PDF)
 
 [View](/en/documents/overview/lantus-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-889)
+[Other languages (21)](#file-language-dropdown-994)
 
 български (BG) (103.2 KB - PDF)
 
@@ -388,17 +387,17 @@ English (EN) (185.72 KB - PDF)
 
 Lantus : EPAR - Product Information
 
-English (EN) (908.89 KB - PDF)
+English (EN) (861.56 KB - PDF)
 
 **First published:** 08/05/2009
 
-**Last updated:** 05/02/2025
+**Last updated:** 05/03/2026
 
 [View](/en/documents/product-information/lantus-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-82)
+[Other languages (24)](#file-language-dropdown-198)
 
-български (BG) (826.75 KB - PDF)
+български (BG) (894.24 KB - PDF)
 
 **First published:**
 
@@ -406,11 +405,11 @@ English (EN) (908.89 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/bg/documents/product-information/lantus-epar-product-information_bg.pdf)
 
-español (ES) (563.45 KB - PDF)
+español (ES) (549.56 KB - PDF)
 
 **First published:**
 
@@ -418,11 +417,11 @@ español (ES) (563.45 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/es/documents/product-information/lantus-epar-product-information_es.pdf)
 
-čeština (CS) (918.7 KB - PDF)
+čeština (CS) (943.46 KB - PDF)
 
 **First published:**
 
@@ -430,11 +429,11 @@ español (ES) (563.45 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/cs/documents/product-information/lantus-epar-product-information_cs.pdf)
 
-dansk (DA) (514.96 KB - PDF)
+dansk (DA) (885.41 KB - PDF)
 
 **First published:**
 
@@ -442,11 +441,11 @@ dansk (DA) (514.96 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/da/documents/product-information/lantus-epar-product-information_da.pdf)
 
-Deutsch (DE) (949 KB - PDF)
+Deutsch (DE) (937.58 KB - PDF)
 
 **First published:**
 
@@ -454,11 +453,11 @@ Deutsch (DE) (949 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/de/documents/product-information/lantus-epar-product-information_de.pdf)
 
-eesti keel (ET) (500.29 KB - PDF)
+eesti keel (ET) (486.18 KB - PDF)
 
 **First published:**
 
@@ -466,11 +465,11 @@ eesti keel (ET) (500.29 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/et/documents/product-information/lantus-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.13 MB - PDF)
+ελληνικά (EL) (1.11 MB - PDF)
 
 **First published:**
 
@@ -478,11 +477,11 @@ eesti keel (ET) (500.29 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/el/documents/product-information/lantus-epar-product-information_el.pdf)
 
-français (FR) (696.79 KB - PDF)
+français (FR) (965.39 KB - PDF)
 
 **First published:**
 
@@ -490,11 +489,11 @@ français (FR) (696.79 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/fr/documents/product-information/lantus-epar-product-information_fr.pdf)
 
-hrvatski (HR) (601.33 KB - PDF)
+hrvatski (HR) (823.6 KB - PDF)
 
 **First published:**
 
@@ -502,11 +501,11 @@ hrvatski (HR) (601.33 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/hr/documents/product-information/lantus-epar-product-information_hr.pdf)
 
-íslenska (IS) (582.04 KB - PDF)
+íslenska (IS) (702.1 KB - PDF)
 
 **First published:**
 
@@ -514,11 +513,11 @@ hrvatski (HR) (601.33 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/is/documents/product-information/lantus-epar-product-information_is.pdf)
 
-italiano (IT) (741.23 KB - PDF)
+italiano (IT) (735.63 KB - PDF)
 
 **First published:**
 
@@ -526,11 +525,11 @@ italiano (IT) (741.23 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/it/documents/product-information/lantus-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (699.36 KB - PDF)
+latviešu valoda (LV) (682.23 KB - PDF)
 
 **First published:**
 
@@ -538,11 +537,11 @@ latviešu valoda (LV) (699.36 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/lv/documents/product-information/lantus-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (625.84 KB - PDF)
+lietuvių kalba (LT) (605.95 KB - PDF)
 
 **First published:**
 
@@ -550,11 +549,11 @@ lietuvių kalba (LT) (625.84 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/lt/documents/product-information/lantus-epar-product-information_lt.pdf)
 
-magyar (HU) (916.36 KB - PDF)
+magyar (HU) (887.71 KB - PDF)
 
 **First published:**
 
@@ -562,11 +561,11 @@ magyar (HU) (916.36 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/hu/documents/product-information/lantus-epar-product-information_hu.pdf)
 
-Malti (MT) (919.55 KB - PDF)
+Malti (MT) (738.66 KB - PDF)
 
 **First published:**
 
@@ -574,11 +573,11 @@ Malti (MT) (919.55 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/mt/documents/product-information/lantus-epar-product-information_mt.pdf)
 
-Nederlands (NL) (947.01 KB - PDF)
+Nederlands (NL) (791.27 KB - PDF)
 
 **First published:**
 
@@ -586,11 +585,11 @@ Nederlands (NL) (947.01 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/nl/documents/product-information/lantus-epar-product-information_nl.pdf)
 
-norsk (NO) (493.9 KB - PDF)
+norsk (NO) (878.18 KB - PDF)
 
 **First published:**
 
@@ -598,11 +597,11 @@ norsk (NO) (493.9 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/no/documents/product-information/lantus-epar-product-information_no.pdf)
 
-polski (PL) (720.4 KB - PDF)
+polski (PL) (762.38 KB - PDF)
 
 **First published:**
 
@@ -610,11 +609,11 @@ polski (PL) (720.4 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/pl/documents/product-information/lantus-epar-product-information_pl.pdf)
 
-português (PT) (643.34 KB - PDF)
+português (PT) (651.62 KB - PDF)
 
 **First published:**
 
@@ -622,11 +621,11 @@ português (PT) (643.34 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/pt/documents/product-information/lantus-epar-product-information_pt.pdf)
 
-română (RO) (952.88 KB - PDF)
+română (RO) (958 KB - PDF)
 
 **First published:**
 
@@ -634,11 +633,11 @@ română (RO) (952.88 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/ro/documents/product-information/lantus-epar-product-information_ro.pdf)
 
-slovenčina (SK) (783.57 KB - PDF)
+slovenčina (SK) (815.16 KB - PDF)
 
 **First published:**
 
@@ -646,11 +645,11 @@ slovenčina (SK) (783.57 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/sk/documents/product-information/lantus-epar-product-information_sk.pdf)
 
-slovenščina (SL) (750.82 KB - PDF)
+slovenščina (SL) (745.09 KB - PDF)
 
 **First published:**
 
@@ -658,11 +657,11 @@ slovenščina (SL) (750.82 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/sl/documents/product-information/lantus-epar-product-information_sl.pdf)
 
-Suomi (FI) (637.04 KB - PDF)
+Suomi (FI) (697.02 KB - PDF)
 
 **First published:**
 
@@ -670,11 +669,11 @@ Suomi (FI) (637.04 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/fi/documents/product-information/lantus-epar-product-information_fi.pdf)
 
-svenska (SV) (639.72 KB - PDF)
+svenska (SV) (718.26 KB - PDF)
 
 **First published:**
 
@@ -682,11 +681,11 @@ svenska (SV) (639.72 KB - PDF)
 
 **Last updated:**
 
-05/02/2025
+05/03/2026
 
 [View](/sv/documents/product-information/lantus-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0137 04/02/2025
+**Latest procedure affecting product information:** VR/0000310964 05/03/2026
 
 icon globe
 
@@ -712,7 +711,7 @@ English (EN) (43.17 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lantus-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-254)
+[Other languages (24)](#file-language-dropdown-468)
 
 български (BG) (184.22 KB - PDF)
 
@@ -1022,7 +1021,7 @@ sanofi-aventis Deutschland GmbH
 
 Industriepark Höchst
 
-Opinion adopted 17/02/2000 Marketing authorisation issued 09/06/2000 Revision 42
+Opinion adopted 17/02/2000 Marketing authorisation issued 09/06/2000 Revision 43
 
 ## Assessment history
 
@@ -1034,13 +1033,21 @@ Collapse section
 
 Lantus : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (152.4 KB - PDF)
+
+**First published:** 05/03/2026
+
+[View](/en/documents/procedural-steps-after/lantus-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Lantus : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (284.3 KB - PDF)
 
 **First published:** 08/05/2009
 
-**Last updated:** 05/02/2025
+**Last updated:** 05/03/2026
 
-[View](/en/documents/procedural-steps-after/lantus-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/lantus-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Lantus-H-C-PSUSA-00001751-201904 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1126,7 +1133,7 @@ English (EN) (91.97 KB - PDF)
 
 [View](/en/documents/procedural-steps/lantus-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### News on Lantus
+## News on Lantus
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 May 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-may-2013) 31/05/2013
 
@@ -1138,7 +1145,7 @@ English (EN) (91.97 KB - PDF)
 
 [European Medicines Agency update on safety of insulin glargine](/en/news/european-medicines-agency-update-safety-insulin-glargine) 29/06/2009
 
-#### More information on Lantus
+## More information on Lantus
 
 Outcome of review of new safety data on insulin glargine
 
@@ -1152,15 +1159,221 @@ English (EN) (98.14 KB - PDF)
 
 [View](/en/documents/medicine-qa/outcome-review-new-safety-data-insulin-glargine_en.pdf)
 
-#### More information on Lantus
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Lantus : EPAR - Product information - tracked changes
+
+English (EN) (1.98 MB - DOCX)
+
+**First published:** 05/03/2026
+
+[View](/en/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-683)
+
+български (BG) (1.62 MB - DOCX)
+
+**First published:**
+
+05/03/2026
+
+[View](/bg/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (1.56 MB - DOCX)
+
+**First published:**
+
+05/03/2026
+
+[View](/es/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (5.45 MB - DOC)
+
+**First published:**
+
+05/03/2026
+
+[View](/cs/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_cs.doc)
+
+dansk (DA) (1.79 MB - DOCX)
+
+**First published:**
+
+05/03/2026
+
+[View](/da/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (1.82 MB - DOCX)
+
+**First published:**
+
+05/03/2026
+
+[View](/de/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (5.86 MB - DOC)
+
+**First published:**
+
+05/03/2026
+
+[View](/et/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_et.doc)
+
+ελληνικά (EL) (1.61 MB - DOCX)
+
+**First published:**
+
+05/03/2026
+
+[View](/el/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (6.53 MB - DOC)
+
+**First published:**
+
+05/03/2026
+
+[View](/fr/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_fr.doc)
+
+hrvatski (HR) (3.66 MB - DOC)
+
+**First published:**
+
+05/03/2026
+
+[View](/hr/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_hr.doc)
+
+íslenska (IS) (1.27 MB - DOCX)
+
+**First published:**
+
+05/03/2026
+
+[View](/is/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (1.63 MB - DOCX)
+
+**First published:**
+
+05/03/2026
+
+[View](/it/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (6 MB - DOC)
+
+**First published:**
+
+05/03/2026
+
+[View](/lv/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_lv.doc)
+
+lietuvių kalba (LT) (1.54 MB - DOCX)
+
+**First published:**
+
+05/03/2026
+
+[View](/lt/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (5.37 MB - DOC)
+
+**First published:**
+
+05/03/2026
+
+[View](/hu/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_hu.doc)
+
+Malti (MT) (602.61 KB - DOC)
+
+**First published:**
+
+05/03/2026
+
+[View](/mt/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_mt.doc)
+
+Nederlands (NL) (5.3 MB - DOC)
+
+**First published:**
+
+05/03/2026
+
+[View](/nl/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_nl.doc)
+
+norsk (NO) (1.53 MB - DOCX)
+
+**First published:**
+
+05/03/2026
+
+[View](/no/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (1.57 MB - DOCX)
+
+**First published:**
+
+05/03/2026
+
+[View](/pl/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (947.26 KB - DOCX)
+
+**First published:**
+
+05/03/2026
+
+[View](/pt/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (1.58 MB - DOCX)
+
+**First published:**
+
+05/03/2026
+
+[View](/ro/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (5.38 MB - DOC)
+
+**First published:**
+
+05/03/2026
+
+[View](/sk/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_sk.doc)
+
+slovenščina (SL) (1.12 MB - DOCX)
+
+**First published:**
+
+05/03/2026
+
+[View](/sl/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (1.57 MB - DOCX)
+
+**First published:**
+
+05/03/2026
+
+[View](/fi/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (1.6 MB - DOCX)
+
+**First published:**
+
+05/03/2026
+
+[View](/sv/documents/product-information-tracked-changes/lantus-epar-product-information-tracked-changes_sv.docx)
+
+## More information on Lantus
 
 - [Insulin glargine - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/insulin-glargine)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 05/02/2025
+**This page was last updated on** 05/03/2026
 
 ## Share this page
 

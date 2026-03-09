@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-20 09:49:21
+document_datetime: 2026-03-05 14:57:57
 document_pages: 479
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/insuman-epar-product-information_en.pdf
 document_name: insuman-epar-product-information_en.pdf
 version: success
-processing_time: 112.6294737
-conversion_datetime: 2025-12-21 17:01:33.158709
+processing_time: 128.1258984
+conversion_datetime: 2026-03-09 13:17:42.550395
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.77.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -249,11 +249,11 @@ Hypoglycaemia, in general the most frequent adverse reaction of insulin therapy,
 
 ## Tabulated list of adverse reactions
 
-The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence: very common (  1/10); common (  1/100 to &lt;1/10); uncommon
+The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon
 
 <div style=\"page-break-after: always\"></div>
 
-(  1/1,000 to  1/100); rare (  1/10,000 to  1/1,000); very rare (  1/10,000), not known (cannot be estimated from the available data).
+( ≥ 1/1,000 to &lt; 1/100); rare ( ≥ 1/10,000 to &lt; 1/1,000); very rare ( &lt; 1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -311,7 +311,7 @@ Insulin overdose may lead to severe and sometimes long-term and life-threatening
 
 Mild episodes of hypoglycaemia can usually be treated with oral carbohydrates. Adjustments in dose regimen of the medicinal product, meal patterns, or physical activity may be needed.
 
-More severe episodes with coma, seizure, or neurologic impairment may be treated with intramuscular/subcutaneous glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
+More severe episodes with coma, seizure, or neurologic impairment may be treated with glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -321,7 +321,7 @@ Pharmacotherapeutic group: Drugs used in diabetes, insulins and analogues for in
 
 ## Mechanism of action
 
-Insulin
+## Insulin
 
 - -lowers blood glucose and promotes anabolic effects as well as decreasing catabolic effects,
 - -increases the transport of glucose into cells as well as the formation of glycogen in the muscles and the liver, and improves pyruvate utilisation. It inhibits glycogenolysis and gluconeogenesis,
@@ -339,11 +339,11 @@ In healthy subjects, the serum half-life of insulin is approximately 4 to 6 minu
 
 ## 5.3 Preclinical safety data
 
-The acute toxicity was studied following subcutaneous administration in rats. No evidence of toxic
+The acute toxicity was studied following subcutaneous administration in rats. No evidence of toxic effects was found. Local tolerability studies following subcutaneous and intramuscular
 
 <div style=\"page-break-after: always\"></div>
 
-effects was found. Local tolerability studies following subcutaneous and intramuscular administration in rabbits gave no remarkable findings. Studies of pharmacodynamic effects following subcutaneous administration in rabbits and dogs revealed the expected hypoglycaemic reactions.
+administration in rabbits gave no remarkable findings. Studies of pharmacodynamic effects following subcutaneous administration in rabbits and dogs revealed the expected hypoglycaemic reactions.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -361,15 +361,13 @@ Insuman Rapid must not be mixed with solutions containing reducing substances su
 
 Insuman Rapid must not be mixed with insulin human formulations designed specifically for use in insulin pumps.
 
-Insuman Rapid must also not be mixed with insulins of animal origin or with insulin analogues.
-
-Insulins of different concentration (e.g. 100 IU per ml and 40 IU per ml) must not be mixed.
+Insuman Rapid must also not be mixed with insulins of animal origin or with insulin analogues. Insulins of different concentration (e.g. 100 IU per ml and 40 IU per ml) must not be mixed.
 
 Care must be taken to ensure that no alcohol or other disinfectants enter the insulin solution
 
 ## 6.3 Shelf life
 
-2 years.
+## 2 years.
 
 ## Shelf life after first use of the vial
 
@@ -399,11 +397,11 @@ For storage conditions after first opening of the medicinal product, see section
 
 ## Insuman Rapid 40 IU/ml in a vial
 
-10 ml solution in a vial (type 1 colourless glass) with a flanged cap (aluminium), a stopper (chlorobutyl
+10 ml solution in a vial (type 1 colourless glass) with a flanged cap (aluminium), a stopper (chlorobutyl rubber (type 1)) and a tear-off cap (polypropylene).
 
 <div style=\"page-break-after: always\"></div>
 
-rubber (type 1)) and a tear-off cap (polypropylene). Packs of 1 and 5 vials are available. Not all pack sizes may be marketed.
+Packs of 1 and 5 vials are available. Not all pack sizes may be marketed.
 
 ## Insuman Rapid 100 IU/ml in a vial
 
@@ -461,13 +459,15 @@ Insuman Rapid 100 IU/ml solution for injection in a cartridge Insuman Rapid Solo
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Insuman Rapid 100 IU/ml in a cartridge Each ml contains 100 IU insulin human (equivalent to 3.5 mg).
+Insuman Rapid 100 IU/ml in a cartridge
+
+Each ml contains 100 IU insulin human (equivalent to 3.5 mg).
 
 Each cartridge contains 3 ml of solution for injection, equivalent to 300 IU insulin.
 
-Insuman Rapid 100 IU/ml in a pre-filled pen Each ml contains 100 IU insulin human (equivalent to 3.5 mg).
+## Insuman Rapid 100 IU/ml in a pre-filled pen
 
-Each pen contains 3 ml of solution for injection, equivalent to 300 IU insulin.
+Each ml contains 100 IU insulin human (equivalent to 3.5 mg). Each pen contains 3 ml of solution for injection, equivalent to 300 IU insulin.
 
 One IU (International Unit) corresponds to 0.035 mg of anhydrous human insulin * .
 
@@ -696,7 +696,7 @@ Hypoglycaemia, in general the most frequent adverse reaction of insulin therapy,
 
 ## Tabulated list of adverse reactions
 
-The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence: very common (  1/10); common (  1/100 to &lt;1/10); uncommon (  1/1,000 to  1/100); rare (  1/10,000 to  1/1,000); very rare (  1/10,000), not known (cannot be estimated from the available data).
+The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1,000 to &lt; 1/100); rare ( ≥ 1/10,000 to &lt; 1/1,000); very rare ( &lt; 1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -710,7 +710,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 ## Description of selected adverse reactions
 
-Immune system disorders
+## Immune system disorders
 
 Immediate type allergic reactions to insulin or to the excipients may be life-threatening.
 
@@ -754,7 +754,7 @@ Insulin overdose may lead to severe and sometimes long-term and life-threatening
 
 Mild episodes of hypoglycaemia can usually be treated with oral carbohydrates. Adjustments in dose regimen of the medicinal product, meal patterns, or physical activity may be needed.
 
-More severe episodes with coma, seizure, or neurologic impairment may be treated with intramuscular/subcutaneous glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
+More severe episodes with coma, seizure, or neurologic impairment may be treated with glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -830,7 +830,7 @@ The pen cap must be put back on the pen after each injection in order to protect
 
 ## Insuman Rapid 100 IU/ml in a cartridge
 
-Unopened cartridges
+## Unopened cartridges
 
 Store in a refrigerator (2°C - 8°C).
 
@@ -968,9 +968,7 @@ Insuman Basal 40 IU/ml suspension for injection in a vial Insuman Basal 100 IU/m
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Insuman Basal 40 IU/ml in a vial
-
-Each ml contains 40 IU insulin human (equivalent to 1.4 mg). Each vial contains 10 ml of suspension for injection, equivalent to 400 IU insulin.
+Insuman Basal 40 IU/ml in a vial Each ml contains 40 IU insulin human (equivalent to 1.4 mg). Each vial contains 10 ml of suspension for injection, equivalent to 400 IU insulin.
 
 ## Insuman Basal 100 IU/ml in a vial
 
@@ -1142,7 +1140,9 @@ Intercurrent illness requires intensified metabolic monitoring. In many cases, u
 
 ## Pens to be used with Insuman Basal 100 IU/ml in cartridges
 
-Insuman Basal 100 IU/ml in cartridges is only suitable for subcutaneous injections from a reusable pen. If administration by syringe is necessary, a vial should be used.
+Insuman Basal 100 IU/ml in cartridges is only suitable for subcutaneous injections from a reusable pen.
+
+If administration by syringe is necessary, a vial should be used.
 
 The Insuman Basal cartridges should only be used with the following pens:
 
@@ -1220,7 +1220,7 @@ Hypoglycaemia, in general the most frequent adverse reaction of insulin therapy,
 
 ## Tabulated list of adverse reactions
 
-The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence: very common (  1/10); common (  1/100 to &lt;1/10); uncommon (  1/1,000 to &lt;1/100); rare (  1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
+The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1,000 to &lt;1/100); rare ( ≥ 1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -1278,7 +1278,7 @@ Insulin overdose may lead to severe and sometimes long-term and life-threatening
 
 Mild episodes of hypoglycaemia can usually be treated with oral carbohydrates. Adjustments in dose regimen of the medicinal product, meal patterns, or physical activity may be needed.
 
-More severe episodes with coma, seizure, or neurologic impairment may be treated with intramuscular/subcutaneous glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
+More severe episodes with coma, seizure, or neurologic impairment may be treated with glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -1288,16 +1288,15 @@ Pharmacotherapeutic group: Drugs used in diabetes, insulins and analogues for in
 
 ## Mechanism of action
 
-Insulin
+## Insulin
 
 - -lowers blood glucose and promotes anabolic effects as well as decreasing catabolic effects,
 - -increases the transport of glucose into cells as well as the formation of glycogen in the muscles and the liver, and improves pyruvate utilisation. It inhibits glycogenolysis and  gluconeogenesis,
 - -increases lipogenesis in the liver and adipose tissue and inhibits lipolysis,
 - -promotes the uptake of amino acids into cells and promotes protein synthesis,
+- -enhances the uptake of potassium into cells.
 
 <div style=\"page-break-after: always\"></div>
-
-- -enhances the uptake of potassium into cells.
 
 ## Pharmacodynamic effects
 
@@ -1341,11 +1340,9 @@ Care must be taken to ensure that no alcohol or other disinfectants enter the in
 
 ## Insuman Basal SoloStar 100 IU/ml in a pre-filled pen
 
-Insuman Basal SoloStar 100 IU/ml in a pre-filled pen must not be mixed with any other insulin or with
+Insuman Basal SoloStar 100 IU/ml in a pre-filled pen must not be mixed with any other insulin or with insulin analogues (see section 4.2, 4.4 and 6.6).
 
 <div style=\"page-break-after: always\"></div>
-
-insulin analogues (see section 4.2, 4.4 and 6.6).
 
 Care must be taken to ensure that no alcohol or other disinfectants enter the insulin suspension.
 
@@ -1774,7 +1771,7 @@ use, the frequency varies with patient population and dose regimens. Therefore, 
 
 ## Tabulated list of adverse reactions
 
-The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence: very common (  1/10); common (  1/100 to &lt;1/10); uncommon (  1/1,000 to &lt;1/100); rare (  1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
+The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1,000 to &lt;1/100); rare ( ≥ 1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -1788,7 +1785,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 ## Description of selected adverse reactions
 
-Immune system disorders
+## Immune system disorders
 
 Immediate type allergic reactions to insulin or to the excipients may be life-threatening.
 
@@ -1832,7 +1829,7 @@ Insulin overdose may lead to severe and sometimes long-term and life-threatening
 
 Mild episodes of hypoglycaemia can usually be treated with oral carbohydrates. Adjustments in dose regimen of the medicinal product, meal patterns, or physical activity may be needed.
 
-More severe episodes with coma, seizure, or neurologic impairment may be treated with intramuscular/subcutaneous glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
+More severe episodes with coma, seizure, or neurologic impairment may be treated with glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -1842,7 +1839,7 @@ Pharmacotherapeutic group: Drugs used in diabetes, insulins and analogues for in
 
 ## Mechanism of action
 
-Insulin
+## Insulin
 
 - -lowers blood glucose and promotes anabolic effects as well as decreasing catabolic effects,
 - -increases the transport of glucose into cells as well as the formation of glycogen in the muscles and the liver, and improves pyruvate utilisation. It inhibits glycogenolysis and  gluconeogenesis,
@@ -1908,7 +1905,9 @@ Care must be taken to ensure that no alcohol or other disinfectants enter the in
 
 The product may be stored for a maximum of 4 weeks not above 25°C and away from direct heat or direct light.
 
-Keep the vial in the outer carton in order to protect from light. It is recommended that the date of the first use be noted on the label.
+Keep the vial in the outer carton in order to protect from light.
+
+It is recommended that the date of the first use be noted on the label.
 
 ## Shelf life after first use of the cartridge, pen
 
@@ -1950,9 +1949,7 @@ Each cartridge contains 3 balls (stainless steel).
 
 ## Pre-filled pen
 
-The cartridges are sealed in a disposable pen injector.
-
-Injection needles are not included in the pack.
+The cartridges are sealed in a disposable pen injector. Injection needles are not included in the pack.
 
 ## Pack size
 
@@ -2087,7 +2084,9 @@ Insuman Comb 25 40 IU/ml suspension for injection in a vial Insuman Comb 25 100 
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Insuman Comb 25 40 IU/ml in a vial Each ml contains 40 IU insulin human (equivalent to 1.4 mg).
+## Insuman Comb 25 40 IU/ml in a vial
+
+Each ml contains 40 IU insulin human (equivalent to 1.4 mg).
 
 Each vial contains 10 ml of suspension for injection, equivalent to 400 IU insulin.
 
@@ -2338,7 +2337,7 @@ Hypoglycaemia, in general the most frequent adverse reaction of insulin therapy,
 
 ## Tabulated list of adverse reactions
 
-The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence: very common (  1/10); common (  1/100 to &lt;1/10); uncommon (  1/1,000 to &lt;1/100); rare (  1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
+The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1,000 to &lt;1/100); rare ( ≥ 1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -2396,7 +2395,7 @@ Insulin overdose may lead to severe and sometimes long-term and life-threatening
 
 Mild episodes of hypoglycaemia can usually be treated with oral carbohydrates. Adjustments in dose regimen of the medicinal product, meal patterns, or physical activity may be needed.
 
-More severe episodes with coma, seizure, or neurologic impairment may be treated with intramuscular/subcutaneous glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
+More severe episodes with coma, seizure, or neurologic impairment may be treated with glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2406,7 +2405,9 @@ More severe episodes with coma, seizure, or neurologic impairment may be treated
 
 Pharmacotherapeutic group: Drugs used in diabetes insulins and analogues for injection, intermediate-acting combined with fast-acting, ATC Code: A10AD01.
 
-Mechanism of action Insulin
+## Mechanism of action
+
+Insulin
 
 - -lowers blood glucose and promotes anabolic effects as well as decreasing catabolic effects,
 - -increases the transport of glucose into cells as well as the formation of glycogen in the muscles and the liver, and improves pyruvate utilisation. It inhibits glycogenolysis and  gluconeogenesis,
@@ -2510,13 +2511,7 @@ Not all pack sizes may be marketed.
 
 <div style=\"page-break-after: always\"></div>
 
-## Insuman Comb 25 100 IU/ml in a vial
-
-5 ml suspension in a vial (type 1 colourless glass) with a flanged cap (aluminium), a stopper (chlorobutyl rubber (type 1)) and a tear-off cap (polypropylene).
-
-Packs of 1 and 5 vials are available.
-
-Not all pack sizes may be marketed.
+Insuman Comb 25 100 IU/ml in a vial 5 ml suspension in a vial (type 1 colourless glass) with a flanged cap (aluminium), a stopper (chlorobutyl rubber (type 1)) and a tear-off cap (polypropylene). Packs of 1 and 5 vials are available. Not all pack sizes may be marketed.
 
 Insuman Comb 25 100 IU/ml in a cartridge, Insuman Comb 25 SoloStar100 IU/ml in a pre-filled pen 3 ml suspension in a cartridge (type 1 colourless glass) with a plunger (bromobutyl rubber (type 1)) and a flanged cap (aluminium) with a stopper (bromobutyl or laminate of polyisoprene and bromobutyl rubber (type 1)).
 
@@ -2540,7 +2535,7 @@ After resuspension, the fluid must have a uniformly milky appearance. Insuman Co
 
 Insuman Comb 25 must not be administered intravenously and must not be used in infusion pumps or external implanted insulin pumps.
 
-## It must be remembered that
+It must be remembered that
 
 - -insulin protamine crystals dissolve in an acid pH range,
 - -the soluble insulin part precipitates out at a pH of approximately 4.5 to 6.5.
@@ -2651,7 +2646,9 @@ Insuman Comb 30 100 IU/ml suspension for injection in a vial Insuman Comb 30 100
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Insuman Comb 30 100 IU/ml in a vial Each ml contains 100 IU insulin human (equivalent to 3.5 mg). Each vial contains 5 ml of suspension for injection, equivalent to 500 IU insulin, or 10 ml of suspension for injection, equivalent to 1000 IU insulin.
+Insuman Comb 30 100 IU/ml in a vial Each ml contains 100 IU insulin human (equivalent to 3.5 mg).
+
+Each vial contains 5 ml of suspension for injection, equivalent to 500 IU insulin, or 10 ml of suspension for injection, equivalent to 1000 IU insulin.
 
 Insuman Comb 30 100 IU/ml in a cartridge, Insuman Comb 30 SoloStar 100 IU/ml in a pre-filled pen Each ml contains 100 IU insulin human (equivalent to 3.5 mg). Each cartridge or pen contains 3 ml of suspension for injection, equivalent to 300 IU insulin.
 
@@ -2894,7 +2891,7 @@ insulin dose is too high in relation to the insulin requirement. In clinical stu
 
 ## Tabulated list of adverse reactions
 
-The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence: very common (  1/10); common (  1/100 to &lt;1/10); uncommon (  1/1,000 to &lt;1/100); rare (  1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
+The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1,000 to &lt;1/100); rare ( ≥ 1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -2954,7 +2951,7 @@ Insulin overdose may lead to severe and sometimes long-term and life-threatening
 
 Mild episodes of hypoglycaemia can usually be treated with oral carbohydrates. Adjustments in dose regimen of the medicinal product, meal patterns, or physical activity may be needed.
 
-More severe episodes with coma, seizure, or neurologic impairment may be treated with intramuscular/subcutaneous glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
+More severe episodes with coma, seizure, or neurologic impairment may be treated with glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -2964,7 +2961,7 @@ Pharmacotherapeutic group: Drugs used in diabetes, insulins and analogues for in
 
 ## Mechanism of action
 
-Insulin
+## Insulin
 
 - -lowers blood glucose and promotes anabolic effects as well as decreasing catabolic effects,
 - -increases the transport of glucose into cells as well as the formation of glycogen in the muscles and the liver, and improves pyruvate utilisation. It inhibits glycogenolysis and  gluconeogenesis,
@@ -2978,11 +2975,9 @@ Insuman Comb 30 (a biphasic isophane insulin suspension with 30% dissolved insul
 
 ## 5.2 Pharmacokinetic properties
 
-In healthy subjects, the serum half-life of insulin is approximately 4 to 6 minutes. It is longer in patients with severe renal insufficiency. However, it must be noted that the pharmacokinetics of insulin
+In healthy subjects, the serum half-life of insulin is approximately 4 to 6 minutes. It is longer in patients with severe renal insufficiency. However, it must be noted that the pharmacokinetics of insulin do not reflect its metabolic action.
 
 <div style=\"page-break-after: always\"></div>
-
-do not reflect its metabolic action.
 
 ## 5.3 Preclinical safety data
 
@@ -3028,15 +3023,11 @@ Care must be taken to ensure that no alcohol or other disinfectants enter the in
 
 ## Shelf life after first use of the vial
 
-The product may be stored for a maximum of 4 weeks not above 25°C and away from direct heat or
+The product may be stored for a maximum of 4 weeks not above 25°C and away from direct heat or direct light.
 
 <div style=\"page-break-after: always\"></div>
 
-## direct light.
-
-Keep the vial in the outer carton in order to protect from light.
-
-It is recommended that the date of the first use be noted on the label.
+Keep the vial in the outer carton in order to protect from light. It is recommended that the date of the first use be noted on the label.
 
 ## Shelf life after first use of the cartridge, pen
 
@@ -3078,7 +3069,9 @@ Each cartridge contains 3 balls (stainless steel).
 
 ## Pre-filled pen
 
-The cartridges are sealed in a disposable pen injector. Injection needles are not included in the pack.
+The cartridges are sealed in a disposable pen injector.
+
+Injection needles are not included in the pack.
 
 ## Pack size
 
@@ -3096,11 +3089,11 @@ Before withdrawing insulin from the vial for the first time, remove the plastic 
 
 Immediately before withdrawal from the vial into the injection syringe, the insulin must be resuspended. This is best done by rolling the vial at an oblique angle between the palms of the hands. Do not shake the vial vigorously as this may lead to changes in the suspension (giving the vial a frosted appearance; see below) and cause frothing. Froth may interfere with the correct measurement of the dose.
 
-After resuspension, the fluid must have a uniformly milky appearance. Insuman Comb 30 must not be used if this cannot be achieved, i.e. if the suspension remains clear, for example, or if clumps, particles or flocculation appear in the insulin or stick to the wall or bottom of the vial. These changes sometimes
+After resuspension, the fluid must have a uniformly milky appearance. Insuman Comb 30 must not be used if this cannot be achieved, i.e. if the suspension remains clear, for example, or if clumps, particles or flocculation appear in the insulin or stick to the wall or bottom of the vial. These changes sometimes give the vial a frosted appearance. In such cases, a new vial yielding a uniform suspension must be
 
 <div style=\"page-break-after: always\"></div>
 
-give the vial a frosted appearance. In such cases, a new vial yielding a uniform suspension must be used. It is also necessary to change to a new vial if the insulin requirement changes substantially.
+used. It is also necessary to change to a new vial if the insulin requirement changes substantially.
 
 Insuman Comb 30 must not be administered intravenously and must not be used in infusion pumps or external or implanted insulin pumps.
 
@@ -3141,11 +3134,9 @@ After resuspension, the fluid must have a uniformly milky appearance. Insuman Co
 
 Air bubbles must be removed from the cartridge before injection (see instructions for using the pen). Empty cartridges must not be refilled.
 
-Insuman Comb 30 must not be administered intravenously and must not be used in infusion pumps or
+Insuman Comb 30 must not be administered intravenously and must not be used in infusion pumps or external or implanted insulin pumps.
 
 <div style=\"page-break-after: always\"></div>
-
-external or implanted insulin pumps.
 
 It must be remembered that
 
@@ -3215,9 +3206,9 @@ Insuman Comb 50 40 IU/ml suspension for injection in a vial Insuman Comb 50 100 
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Insuman Comb 50 40 IU/ml in a vial Each ml contains 40 IU insulin human (equivalent to 1.4 mg).
+Insuman Comb 50 40 IU/ml in a vial
 
-Each vial contains 10 ml of suspension for injection, equivalent to 400 IU insulin.
+Each ml contains 40 IU insulin human (equivalent to 1.4 mg). Each vial contains 10 ml of suspension for injection, equivalent to 400 IU insulin.
 
 ## Insuman Comb 50 100 IU/ml in a vial
 
@@ -3468,7 +3459,7 @@ Hypoglycaemia, in general the most frequent adverse reaction of insulin therapy,
 
 ## Tabulated list of adverse reactions
 
-The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence: very common (  1/10); common (  1/100 to &lt;1/10); uncommon (  1/1,000 to &lt;1/100); rare (  1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
+The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1,000 to &lt;1/100); rare ( ≥ 1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -3526,7 +3517,7 @@ Insulin overdose may lead to severe and sometimes long-term and life-threatening
 
 Mild episodes of hypoglycaemia can usually be treated with oral carbohydrates. Adjustments in dose regimen of the medicinal product, meal patterns, or physical activity may be needed.
 
-More severe episodes with coma, seizure, or neurologic impairment may be treated with intramuscular/subcutaneous glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
+More severe episodes with coma, seizure, or neurologic impairment may be treated with glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -3644,11 +3635,11 @@ Not all pack sizes may be marketed.
 
 5 ml suspension in a vial (type 1 colourless glass) with a flanged cap (aluminium), a stopper (chlorobutyl rubber (type 1)) and a tear-off cap (polypropylene).
 
-Packs of 1 and 5 vials are available. Not all pack sizes may be marketed.
+## Packs of 1 and 5 vials are available.
 
-## Insuman Comb 50 100 IU/ml in a cartridge, Insuman Comb 50 SoloStar 100 IU/ml in a pre-filled pen
+Not all pack sizes may be marketed.
 
-3 ml suspension in a cartridge (type 1 colourless glass) with a plunger (bromobutyl rubber (type 1)) and a flanged cap (aluminium) with a stopper (bromobutyl or laminate of polyisoprene and  bromobutyl
+Insuman Comb 50 100 IU/ml in a cartridge, Insuman Comb 50 SoloStar 100 IU/ml in a pre-filled pen 3 ml suspension in a cartridge (type 1 colourless glass) with a plunger (bromobutyl rubber (type 1)) and a flanged cap (aluminium) with a stopper (bromobutyl or laminate of polyisoprene and  bromobutyl
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4002,7 +3993,7 @@ Hypoglycaemia, in general the most frequent adverse reaction of insulin therapy,
 
 ## Tabulated list of adverse reactions
 
-The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence: very common (  1/10); common (  1/100 to &lt;1/10); uncommon (  1/1,000 to &lt;1/100); rare (  1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
+The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1,000 to &lt;1/100); rare ( ≥ 1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -4062,7 +4053,7 @@ Insulin overdose may lead to severe and sometimes long-term and life-threatening
 
 Mild episodes of hypoglycaemia can usually be treated with oral carbohydrates. Adjustments in dose regimen of the medicinal product, meal patterns, or physical activity may be needed.
 
-More severe episodes with coma, seizure, or neurologic impairment may be treated with intramuscular/subcutaneous glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
+More severe episodes with coma, seizure, or neurologic impairment may be treated with glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -4072,7 +4063,7 @@ Pharmacotherapeutic group: Drugs used in diabetes, insulins and analogues for in
 
 ## Mechanism of action
 
-Insulin
+## Insulin
 
 - -lowers blood glucose and promotes anabolic effects as well as decreasing catabolic effects,
 - -increases the transport of glucose into cells as well as the formation of glycogen in themuscles and the liver, and improves pyruvate utilisation. It inhibits glycogenolysis and  gluconeogenesis,
@@ -4156,7 +4147,9 @@ Packs of 3 vials are available.
 
 ## Insuman Infusat 100 IU/ml in a vial
 
-Insuman Infusat must only be used if the solution is clear, colourless, with no solid particles visible, and if it is of a water-like consistency .
+Insuman Infusat must only be used if the solution is clear, colourless, with no solid particles visible, and if it is of a water-like consistency
+
+.
 
 For use in an infusion pump, Insuman Infusat in a vial is filled into the sterile cartridge of the pump. The cartridge must only be used once.
 
@@ -4172,11 +4165,15 @@ Insulin label must always be checked before each injection to avoid medication e
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
+
+MARKETING AUTHORISATION HOLDER
 
 Sanofi-Aventis Deutschland GmbH, D-65926 Frankfurt am Main, Germany
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+8.
+
+MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/97/030/053
 
@@ -4523,7 +4520,7 @@ Hypoglycaemia, in general the most frequent adverse reaction of insulin therapy,
 
 From experience gained in a 6-month comparative phase III study (HUBIN\\_L\\_05335) with Insuman Implantable administered via the Medtronic MiniMed Implantable Pump in 84 patients aged 26 to 80 years (see section 5.1) and from clinical experience with insulin human 100 IU/ml and 40 IU/ml, the following adverse reactions were observed.
 
-The following adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence: very common (  1/10); common (  1/100 to &lt;1/10); uncommon (  1/1,000 to &lt;1/100); rare (  1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
+The following adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1,000 to &lt;1/100); rare ( ≥ 1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -4596,7 +4593,7 @@ Insulin overdose may lead to severe and sometimes long-term and life-threatening
 
 Mild episodes of hypoglycaemia can usually be treated with oral carbohydrates. Adjustments in dose regimen of the medicinal product, meal patterns, or physical activity may be needed.
 
-More severe episodes with coma, seizure, or neurologic impairment may be treated with intramuscular/subcutaneous glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
+More severe episodes with coma, seizure, or neurologic impairment may be treated with glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
 
 The physician must program specific limitations for insulin basal insulin rates, bolus delivery amounts. These limitations are necessary to provide some control over patients' ability to program their insulin regimens and to avoid the possibility of overdosing. In addition, if patients are attempting to deliver more than 2.5 times the programmed maximum bolus amount within a one hour period, the PPC will display the 'HOURLY MAX EXCEEDED' message to warn the patients. Detailed instructions on programming these limitations are contained in the Physician's Manual.
 
@@ -5039,30 +5036,29 @@ NN:
 
 VIAL LABEL
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
-
 Insuman Rapid 100 IU/ml solution for injection
 
 Insulin human
 
 Subcutaneous or intravenous use.
 
+EXP
+
+Lot
+
+5 ml 10 ml
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
 ## 2. METHOD OF ADMINISTRATION
 
 3. EXPIRY DATE
 
-EXP
-
 ## 4. BATCH NUMBER
-
-Lot
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-5 ml 10 ml
-
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5158,9 +5154,7 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-VIAL LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
 
 Insuman Rapid 40 IU/ml solution for injection
 
@@ -5333,32 +5327,31 @@ You must check that your insulin pen is working properly before you inject the f
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OFADMINISTRATION   |
 |------|------------------------------------------------------------|
 
-Insuman Rapid 100 IU/ml solution for injection Insulin human
+Insuman Rapid 100 IU/ml solution for injection
+
+Insulin human
 
 Subcutaneous use.
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
-
 Use specific pens: see leaflet.
-
-| 3.   | EXPIRY DATE   |
-|------|---------------|
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
 Lot
-
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
 
 3 ml
 
-| 6.   | OTHER   |
-|------|---------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+## 2. METHOD OF ADMINISTRATION
+
+3. EXPIRY DATE
+
+4. BATCH NUMBER
+
+5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5462,8 +5455,7 @@ BN
 
 Insuman Rapid SoloStar
 
-| 17.   | UNIQUE IDENTIFIER - 2DBARCODE   |
-|-------|---------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -5694,7 +5686,9 @@ Store in a refrigerator.
 
 Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
-Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main, Germany
+Sanofi-Aventis Deutschland GmbH
+
+D-65926 Frankfurt am Main, Germany
 
 EU/1/97/030/036 (1 vial of 10 ml) EU/1/97/030/037 (5 vials of 10 ml)
 
@@ -5906,32 +5900,31 @@ You must check that your insulin pen is working properly before you inject the f
 
 ## CARTRIDGE LABEL
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
-
 Insuman Basal 100 IU/ml suspension for injection
 
 Insulin human
 
 Subcutaneous use.
 
-## 2. METHOD OF ADMINISTRATION
-
 Use specific pens: see leaflet.
-
-3. EXPIRY DATE
 
 EXP
 
-4. BATCH NUMBER
-
 Lot
-
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 3 ml
 
-| 6.   | OTHER   |
-|------|---------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+## 2. METHOD OF ADMINISTRATION
+
+3. EXPIRY DATE
+
+4. BATCH NUMBER
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6005,7 +5998,7 @@ Store in a refrigerator.
 
 Do not freeze. Keep the pen in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -6160,7 +6153,7 @@ BN
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. BRAILLE
 
@@ -6725,7 +6718,9 @@ Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main, Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/97/030/046 (1 vial of 10 ml) EU/1/97/030/047 (5 vials of 10 ml)
+EU/1/97/030/046 (1 vial of 10 ml)
+
+EU/1/97/030/047 (5 vials of 10 ml)
 
 ## 13. BATCH NUMBER
 
@@ -6733,7 +6728,7 @@ BN
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. BRAILLE
 
@@ -7183,6 +7178,8 @@ PC:
 
 SN:
 
+NN:
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
@@ -7204,8 +7201,6 @@ SN:
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
-
-NN:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7381,9 +7376,7 @@ You must check that your insulin pen is working properly before you inject the f
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-## CARTRIDGE LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS CARTRIDGE LABEL
 
 Insuman Comb 30 100 IU/ml suspension for injection
 
@@ -7766,9 +7759,8 @@ BN
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
-
-## 16. BRAILLE
+15. INSTRUCTIONS ON USE
+16. BRAILLE
 
 Insuman Comb 50 40
 
@@ -7894,7 +7886,9 @@ Do not freeze. Keep the cartridge in the outer carton in order to protect from l
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main, Germany
+Sanofi-Aventis Deutschland GmbH
+
+D-65926 Frankfurt am Main, Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -8063,7 +8057,9 @@ Do not freeze. Keep the pen in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main, Germany
+Sanofi-Aventis Deutschland GmbH
+
+D-65926 Frankfurt am Main, Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -8184,6 +8180,8 @@ Store in a refrigerator.
 
 Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
 Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main, Germany
 
 EU/1/97/030/053
@@ -8199,8 +8197,6 @@ PC:
 SN:
 
 NN:
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -8220,12 +8216,7 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL                                                       |
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OFADMINISTRATION   |
-|------|------------------------------------------------------------|
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
 
 Insuman Infusat 100 IU/ml solution for injection
 
@@ -8233,22 +8224,23 @@ Insulin human
 
 Subcutaneous use.
 
+EXP
+
+Lot
+
+10 ml
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
 ## 2. METHOD OF ADMINISTRATION
 
 3. EXPIRY DATE
 
-EXP
-
 ## 4. BATCH NUMBER
-
-Lot
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-10 ml
-
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -8270,7 +8262,7 @@ Excipients: phenol, zinc chloride, trometamol, glycerol, poloxamer 171, sodium h
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for infusion
+Solution for infusion
 
 4,000 IU/10 ml
 
@@ -8332,7 +8324,7 @@ SN:
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -8359,9 +8351,6 @@ NN:
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
 VIAL LABEL
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OFADMINISTRATION   |
-|------|------------------------------------------------------------|
 
 Insuman Implantable 400 IU/ml infusion
 
@@ -8639,7 +8628,9 @@ Side effects reported uncommonly (may affect up to 1 in 100 people)
 ## Side effects reported commonly (may affect up to 1 in 10 people)
 
 - Oedema
-- Insulin treatment may cause temporary build-up of water in the body with swelling in the calves and ankles.
+
+Insulin treatment may cause temporary build-up of water in the body with swelling in the calves and ankles.
+
 - Injection site reactions
 
 <div style=\"page-break-after: always\"></div>
@@ -8725,7 +8716,9 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -8781,7 +8774,9 @@ Tlf: +47 67 10 71 00
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE
+Sanofi-
+
+Aventis Μονοπρόσωπη AEBE
 
 Τηλ: +30 210 900 16 00
 
@@ -8857,7 +8852,7 @@ Tel: +421 2 208 33 600
 
 Sanofi S.r.l.
 
-Tel: 800 536389
+Tel: +39 800 536389
 
 ## Suomi/Finland
 
@@ -8879,6 +8874,8 @@ Tel: +46 (0)8 634 50 00
 
 ## Latvija
 
+<div style=\"page-break-after: always\"></div>
+
 Swixx Biopharma SIA
 
 Tel: +371 6 616 47 50
@@ -8888,8 +8885,6 @@ Tel: +371 6 616 47 50
 ## Other source of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -8974,7 +8969,7 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 
 ## Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose . These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -8982,7 +8977,9 @@ It is advisable to test your blood sugar immediately after taking glucose to che
 
 <div style=\"page-break-after: always\"></div>
 
-## Insuman Rapid 40 IU/ml solution for injection in a vial Insulin human
+## Insuman Rapid 40 IU/ml solution for injection in a vial
+
+## Insulin human
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -9311,7 +9308,9 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -9367,7 +9366,7 @@ Tlf: +47 67 10 71 00
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE
+Sanofi- Aventis Μονοπρόσωπη AEBE
 
 Τηλ: +30 210 900 16 00
 
@@ -9443,7 +9442,7 @@ Tel: +421 2 208 33 600
 
 Sanofi S.r.l.
 
-Tel: 800 536389
+Tel: +39 800 536389
 
 ## Suomi/Finland
 
@@ -9560,7 +9559,7 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 
 Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose . These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -9820,11 +9819,7 @@ Side effects reported uncommonly (may affect up to 1 in 100 people)
 
 ## Side effects reported commonly (may affect up to 1 in 10 people)
 
-- Oedema
-
-Insulin treatment may cause temporary build-up of water in the body with swelling in the calves and
-
-- ankles.
+- Oedema Insulin treatment may cause temporary build-up of water in the body with swelling in the calves and ankles.
 - Injection site reactions
 
 ## Side effects reported uncommonly
@@ -9903,7 +9898,9 @@ Tél/Tel: +32 (0)2 710 54 00
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Česká republika
 
@@ -9919,9 +9916,7 @@ Tlf: +45 45 16 70 00
 
 ## Deutschland
 
-Sanofi-Aventis Deutschland GmbH Tel:
-
-0800 52 52 010
+Sanofi-Aventis Deutschland GmbH Tel: 0800 52 52 010
 
 Tel. aus dem Ausland: +49 69 305 21 131
 
@@ -9932,24 +9927,6 @@ Swixx Biopharma OÜ
 Tel: +372 640 10 30
 
 ## Ελλάδα
-
-Sanofi-Aventis Μονοπρόσωπη AEBE
-
-Τηλ: +30 210 900 16 00
-
-## España
-
-sanofi-aventis, S.A.
-
-Tel: +34 93 485 94 00
-
-## France
-
-Sanofi Winthrop Industrie
-
-Tél: 0 800 222 555
-
-Appel depuis l'étranger: +33 1 57 63 23 23
 
 ## Lietuva
 
@@ -9987,9 +9964,27 @@ Tlf: +47 67 10 71 00
 
 ## Österreich
 
+Sanofi- Aventis Μονοπρόσωπη AEBE
+
+Τηλ: +30 210 900 16 00
+
 sanofi-aventis GmbH
 
 Tel: +43 1 80 185 - 0
+
+## España
+
+sanofi-aventis, S.A.
+
+Tel: +34 93 485 94 00
+
+## France
+
+Sanofi Winthrop Industrie
+
+Tél: 0 800 222 555
+
+Appel depuis l'étranger: +33 1 57 63 23 23
 
 ## Polska
 
@@ -10003,13 +9998,15 @@ Sanofi - Produtos Farmacêuticos, Lda.
 
 Tel: +351 21 35 89 400
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hrvatska
+
+## România
 
 Swixx Biopharma d.o.o.
 
 Tel: +385 1 2078 500
-
-## România
 
 Sanofi Romania SRL
 
@@ -10043,7 +10040,7 @@ Tel: +421 2 208 33 600
 
 Sanofi S.r.l.
 
-Tel: 800 536389
+Tel: +39 800 536389
 
 ## Suomi/Finland
 
@@ -10062,8 +10059,6 @@ C.A. Papaellinas Ltd.
 Sanofi AB
 
 Tel: +46 (0)8 634 50 00
-
-<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -10161,7 +10156,7 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 
 ## Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose . These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -10205,7 +10200,9 @@ If you are allergic to insulin or any of the other ingredients of this medicine 
 
 Insuman Rapid in pre-filled pen is only suitable for injecting just under the skin (see also section 3). Speak to your doctor if you need to inject your insulin by another method.
 
-Talk to your doctor, pharmacist or nurse before using Insuman Rapid. Follow closely the instructions for dose, monitoring (blood and urine tests), diet and physical activity (physical work and exercise), injection technique as discussed with your doctor.
+Talk to your doctor, pharmacist or nurse before using Insuman Rapid.
+
+Follow closely the instructions for dose, monitoring (blood and urine tests), diet and physical activity (physical work and exercise), injection technique as discussed with your doctor.
 
 If you are allergic to this medicine or to animal insulins talk to your doctor.
 
@@ -10406,7 +10403,7 @@ Side effects reported uncommonly (may affect up to 1 in 100 people)
 
 - Severe allergic reaction with low blood pressure (shock)
 
-## Side effects reported with a frequency not known (cannot be estimated from the available data)
+Side effects reported with a frequency not known (cannot be estimated from the available data)
 
 - The most frequent side effect is hypoglycaemia (low blood sugar) . Serious hypoglycaemia may cause a heart attack or brain damage and may be life-threatening. For further information on the side effects of low blood sugar or high blood sugar, see the box at the end of this leaflet.
 - Severe allergic reactions to insulin may occur which may become life-threatening. Such reactions to insulin or to the excipients can cause large-scale skin reactions (rash and itching all over the body), severe swelling of skin or mucous membranes (angiooedema), shortness of breath, a fall in blood pressure with rapid heart beat and sweating.
@@ -10494,23 +10491,13 @@ Sanofi Belgium
 
 Tél/Tel: +32 (0)2 710 54 00
 
-## Lietuva
-
-Swixx Biopharma UAB
-
-Tel: +370 5 236 91 40
-
 ## България
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
 
-## Luxembourg/Luxemburg
-
-Sanofi Belgium
-
-Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+.: +359 (0)2 4942 480
 
 ## Česká republika
 
@@ -10518,23 +10505,11 @@ Sanofi s.r.o.
 
 Tel: +420 233 086 111
 
-## Magyarország
-
-SANOFI-AVENTIS Zrt.
-
-Tel.: +36 1 505 0050
-
 ## Danmark
 
 Sanofi A/S
 
 Tlf: +45 45 16 70 00
-
-## Malta
-
-Sanofi S.r.l.
-
-Tel: +39 02 39394275
 
 ## Deutschland
 
@@ -10544,23 +10519,11 @@ Tel: 0800 52 52 010
 
 Tel. aus dem Ausland: +49 69 305 21 131
 
-## Nederland
-
-Sanofi B.V.
-
-Tel: +31 20 245 4000
-
 ## Eesti
 
 Swixx Biopharma OÜ
 
 Tel: +372 640 10 30
-
-## Norge
-
-sanofi-aventis Norge AS
-
-Tlf: +47 67 10 71 00
 
 ## Ελλάδα
 
@@ -10568,17 +10531,55 @@ Sanofi-Aventis
 
 Μονοπρόσωπη AEBE
 
-Τηλ: +30 210 900 16 00
+Τηλ
+
+: +30 210 900 16 00
+
+## España
+
+sanofi-aventis, S.A. Tel: +34 93 485 94 00
+
+## Lietuva
+
+Swixx Biopharma UAB
+
+Tel: +370 5 236 91 40
+
+## Luxembourg/Luxemburg
+
+Sanofi Belgium
+
+Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+
+## Magyarország
+
+SANOFI-AVENTIS Zrt.
+
+Tel.: +36 1 505 0050
+
+## Malta
+
+Sanofi S.r.l.
+
+Tel: +39 02 39394275
+
+## Nederland
+
+Sanofi B.V.
+
+Tel: +31 20 245 4000
+
+## Norge
+
+sanofi-aventis Norge AS
+
+Tlf: +47 67 10 71 00
 
 ## Österreich
 
 sanofi-aventis GmbH
 
 Tel: +43 1 80 185 - 0
-
-## España
-
-sanofi-aventis, S.A. Tel: +34 93 485 94 00
 
 ## Polska
 
@@ -10587,6 +10588,8 @@ Sanofi Sp. z o.o. Tel.:
 <div style=\"page-break-after: always\"></div>
 
 +48 22 280 00 00
+
+## România
 
 ## France
 
@@ -10603,8 +10606,6 @@ Appel depuis l'étranger:
 sanofi-aventis Croatia d.o.o.
 
 Tel: +385 1 600 34 00
-
-## România
 
 Sanofi Romania SRL
 
@@ -10644,13 +10645,15 @@ Tel: +421 2 208 33 600
 
 Sanofi S.r.l.
 
-Tel: 800 536389
+Tel: +39 800 536389
 
 ## Κύπρος
 
 C.A. Papaellinas Ltd.
 
-Τηλ: +357 22 741741
+Τηλ
+
+: +357 22 741741
 
 ## Suomi/Finland
 
@@ -10760,7 +10763,7 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 
 ## Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose . These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -11241,7 +11244,9 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -11297,7 +11302,9 @@ Tlf: +47 67 10 71 00
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE
+Sanofi-
+
+Aventis Μονοπρόσωπη AEBE
 
 Τηλ: +30 210 900 16 00
 
@@ -11319,17 +11326,19 @@ Sanofi Sp. z o.o.
 
 Tel.: +48 22 280 00 00
 
+<div style=\"page-break-after: always\"></div>
+
 ## France
+
+## Portugal
+
+Sanofi - Produtos Farmacêuticos, Lda.
 
 Sanofi Winthrop Industrie
 
 Tél: 0 800 222 555
 
 Appel depuis l'étranger: +33 1 57 63 23 23
-
-## Portugal
-
-Sanofi - Produtos Farmacêuticos, Lda.
 
 Tel: +351 21 35 89 400
 
@@ -11373,7 +11382,7 @@ Tel: +421 2 208 33 600
 
 Sanofi S.r.l.
 
-Tel: 800 536389
+Tel: +39 800 536389
 
 ## Suomi/Finland
 
@@ -11398,8 +11407,6 @@ Tel: +46 (0)8 634 50 00
 Swixx Biopharma SIA
 
 Tel: +371 6 616 47 50
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in {date}
 
@@ -11490,7 +11497,7 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 
 Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose . These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -11738,7 +11745,7 @@ Side effects reported uncommonly (may affect up to 1 in 100 people)
 
 ## Other side effects
 
-## Side effects reported commonly (may affect up to 1 in 10 people)
+Side effects reported commonly (may affect up to 1 in 10 people)
 
 ## · Oedema
 
@@ -11821,7 +11828,11 @@ Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00
 
 ## България
 
-Swixx Biopharma EOOD Тел.: +359 (0)2 4942 480
+Swixx Biopharma EOOD
+
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Česká republika
 
@@ -11831,13 +11842,13 @@ Tel: +420 233 086 111
 
 ## Danmark
 
-Sanofi A/S Tlf: +45 45 16 70 00
+Sanofi A/S
+
+Tlf: +45 45 16 70 00
 
 ## Deutschland
 
-Sanofi-Aventis Deutschland GmbH Tel: 0800 52 52 010
-
-Tel. aus dem Ausland: +49 69 305 21 131
+Sanofi-Aventis Deutschland GmbH Tel: 0800 52 52 010 Tel. aus dem Ausland: +49 69 305 21 131
 
 ## Eesti
 
@@ -11845,7 +11856,7 @@ Swixx Biopharma OÜ Tel: +372 640 10 30
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE Τηλ: +30 210 900 16 00
+SanofiAventis Μονοπρόσωπη AEBE Τηλ: +30 210 900 16 00
 
 ## España
 
@@ -11865,13 +11876,11 @@ sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
 
 ## Ísland
 
-Vistor ehf.
-
-Sími: +354 535 7000
-
-## Lietuva
+Vistor ehf. Sími: +354 535 7000
 
 Sanofi - Produtos Farmacêuticos, Lda. Tel: +351 21 35 89 400
+
+## Lietuva
 
 Swixx Biopharma UAB
 
@@ -11887,11 +11896,15 @@ SANOFI-AVENTIS Zrt. Tel.: +36 1 505 0050
 
 ## Malta
 
-Sanofi S.r.l. Tel: +39 02 39394275
+Sanofi S.r.l.
+
+Tel: +39 02 39394275
 
 ## Nederland
 
-Sanofi B.V. Tel: +31 20 245 4000
+Sanofi B.V.
+
+Tel: +31 20 245 4000
 
 ## Norge
 
@@ -11927,7 +11940,7 @@ Swixx Biopharma s.r.o. Tel: +421 2 208 33 600
 
 Sanofi S.r.l.
 
-Tel: 800 536389
+Tel: +39 800 536389
 
 ## Κύπρος
 
@@ -11991,7 +12004,7 @@ If your blood sugar level falls too much you may become unconscious. Serious hyp
 
 ## Why does hypoglycaemia occur?
 
-Examples include:
+## Examples include:
 
 - -you inject too much insulin,
 - -you miss meals or delay them,
@@ -12040,9 +12053,9 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 3. If the hypoglycaemia comes back again take another 10 to 20 g sugar.
 4. Speak to a doctor immediately if you are not able to control the hypoglycaemia or if it recurs.
 
-## Tell your relatives, friends and close colleagues the following:
+Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose . These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -12235,15 +12248,15 @@ Do not use it in insulin pumps or other infusion pumps - special insulin prepara
 
 ## How to handle the cartridges
 
-Insuman Basal in cartridges is only suitable for injecting just under the skin using a reusable pen.
-
-Speak to your doctor if you need to inject your insulin by another method.
+Insuman Basal in cartridges is only suitable for injecting just under the skin using a reusable pen. Speak to your doctor if you need to inject your insulin by another method.
 
 To ensure you get the accurate dose, the Insuman Basal cartridges are to be used only with the following pens:
 
 - -JuniorSTAR which delivers doses in steps of 0.5 units
 
--ClikSTAR, Tactipen, Autopen 24, AllStar or AllStar PRO which deliver doses in steps of 1 unit. Not all of these pens may be marketed in your country.
+-ClikSTAR, Tactipen, Autopen 24, AllStar or AllStar PRO which deliver doses in steps of 1 unit.
+
+Not all of these pens may be marketed in your country.
 
 The pen should be used as recommended in the information provided by the device manufacturer. The manufacturer's instructions for using the pen must be followed carefully for loading the cartridge, attaching the injection needle, and administering the insulin injection.
 
@@ -12395,13 +12408,17 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
 Sanofi Belgium
 
-Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+Tél/Tel: +32 (0)2 710 54 00
+
+(Belgique/Belgien)
 
 ## Česká republika
 
@@ -12457,9 +12474,11 @@ Tlf: +47 67 10 71 00
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE
+Sanofi- Aventis Μονοπρόσωπη AEBE
 
-Τηλ: +30 210 900 16 00
+Τηλ: +30
+
+210 900 16 00
 
 ## Österreich
 
@@ -12533,7 +12552,7 @@ Tel: +421 2 208 33 600
 
 Sanofi S.r.l.
 
-Tel: 800 536389
+Tel: +39 800 536389
 
 ## Suomi/Finland
 
@@ -12567,7 +12586,9 @@ Detailed information on this medicine is available on the European Medicines Age
 
 <div style=\"page-break-after: always\"></div>
 
-## Always carry some sugar (at least 20 grams) with you. Carry some information with you to show you are diabetic. HYPERGLYCAEMIA (high blood sugar levels)
+## Always carry some sugar (at least 20 grams) with you.
+
+## Carry some information with you to show you are diabetic. HYPERGLYCAEMIA (high blood sugar levels)
 
 If your blood sugar is too high (hyperglycaemia) , you may not have injected enough insulin.
 
@@ -12645,7 +12666,7 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 
 Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose . These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -12691,9 +12712,9 @@ If you are allergic to insulin or any of the other ingredients of this medicine 
 
 Insuman Basal in pre-filled pen is only suitable for injecting just under the skin (see also section 3). Speak to your doctor if you need to inject your insulin by another method.
 
-Talk to your doctor, pharmacist or nurse before using Insuman Basal.
+Talk to your doctor, pharmacist or nurse before using Insuman Basal. Follow closely the instructions for dose, monitoring (blood and urine tests), diet and physical activity
 
-Follow closely the instructions for dose, monitoring (blood and urine tests), diet and physical activity (physical work and exercise), injection technique as discussed with your doctor.
+(physical work and exercise), injection technique as discussed with your doctor.
 
 If you are allergic to this medicine or to animal insulins, talk to your doctor.
 
@@ -12999,7 +13020,9 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -13031,7 +13054,9 @@ Tel: +39 02 39394275
 
 ## Deutschland
 
-Sanofi-Aventis Deutschland GmbH Tel: 0800 52 52 010
+Sanofi-Aventis Deutschland GmbH
+
+Tel: 0800 52 52 010
 
 Tel. aus dem Ausland: +49 69 305 21 131
 
@@ -13051,7 +13076,7 @@ Tel: +372 640 10 30
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE
+Sanofi- Aventis Μονοπρόσωπη AEBE
 
 Τηλ: +30 210 900 16 00
 
@@ -13091,7 +13116,7 @@ Sími: +354 535 7000
 
 Sanofi S.r.l.
 
-Tel: 800 536389
+Tel: +39 800 536389
 
 ## Κύπρος
 
@@ -13175,7 +13200,7 @@ Always carry some sugar (at least 20 grams) with you. Carry some information wit
 
 If your blood sugar is too high (hyperglycaemia) , you may not have injected enough insulin. Why does hyperglycaemia occur?
 
-Examples include:
+## Examples include:
 
 - -you have not injected your insulin or not injected enough, or if it has become less effective,  for example through incorrect storage,
 - -your insulin pen does not work properly,
@@ -13249,7 +13274,7 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 
 ## Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose . These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -13298,7 +13323,7 @@ If you are using a suspension insulin (Insuman Basal or Insuman mixtures), turn 
 
 After mixing check the appearance of your insulin. Insulin suspensions must have an evenly milky-white appearance.
 
-## Step 2. Attach the needle
+Step 2. Attach the needle
 
 Always use a new sterile needle for each injection. This helps prevent contamination, and potential needle blocks.
 
@@ -13722,9 +13747,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Sanofi Belgium
-
-Tél/Tel: +32 (0)2 710 54 00
+Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00
 
 ## Lietuva
 
@@ -13736,13 +13759,13 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
-Sanofi Belgium
-
-Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
 
 ## Česká republika
 
@@ -13796,7 +13819,7 @@ Tlf: +47 67 10 71 00
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE
+Sanofi- Aventis Μονοπρόσωπη AEBE
 
 Τηλ: +30 210 900 16 00
 
@@ -13806,15 +13829,13 @@ sanofi-aventis GmbH
 
 Tel: +43 1 80 185 - 0
 
-<div style=\"page-break-after: always\"></div>
-
 ## España
-
-## Polska
 
 sanofi-aventis, S.A.
 
 Tel: +34 93 485 94 00
+
+## Polska
 
 Sanofi Sp. z o.o.
 
@@ -13874,7 +13895,7 @@ Tel: +421 2 208 33 600
 
 Sanofi S.r.l.
 
-Tel: 800 536389
+Tel: +39 800 536389
 
 ## Suomi/Finland
 
@@ -13907,6 +13928,8 @@ Tel: +371 6 616 47 50
 Detailed information on this medicine is available on the European Medicines Agency web site:
 
 http://www.ema.europa.eu/
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -13989,13 +14012,13 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 
 ## Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose . These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Insuman Comb 15 100 IU/ml suspension for injection in a cartridge
 
@@ -14188,7 +14211,11 @@ To ensure you get the accurate dose, the Insuman Comb 15 cartridges are to be us
 
 - -JuniorSTAR which delivers doses in steps of 0.5 units
 
--ClikSTAR, Tactipen, Autopen 24, AllStar or AllStar PRO which deliver doses in steps of 1 unit. Not all of these pens may be marketed in your country.
+-
+
+ClikSTAR, Tactipen, Autopen 24, AllStar or AllStar PRO which deliver doses in steps of 1 unit.
+
+Not all of these pens may be marketed in your country.
 
 The pen should be used as recommended in the information provided by the device manufacturer. The manufacturer's instructions for using the pen must be followed carefully for loading the cartridge, attaching the injection needle, and administering the insulin injection.
 
@@ -14200,9 +14227,7 @@ Mixing is best done by gently tilting the cartridge or pen (with the cartridge i
 
 After mixing, the suspension must have a uniform milky-white appearance. It must not be used if it remains clear or if, for example, clumps, flakes, particles or anything similar are in the suspension or on the sides or bottom of the cartridge. A new cartridge with a uniform suspension on mixing must then be used.
 
-Always use a new cartridge if you notice that your blood sugar control is unexpectedly getting worse.
-
-This is because the insulin may have lost some of its effectiveness. If you think you may have a problem with your insulin, have it checked by your doctor or pharmacist.
+Always use a new cartridge if you notice that your blood sugar control is unexpectedly getting worse. This is because the insulin may have lost some of its effectiveness. If you think you may have a problem with your insulin, have it checked by your doctor or pharmacist.
 
 ## Special care before injection
 
@@ -14243,7 +14268,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Most serious side effects
 
-## Side effects reported uncommonly (may affect up to 1 in 100 people)
+Side effects reported uncommonly (may affect up to 1 in 100 people)
 
 - Severe allergic reaction with low blood pressure (shock)
 
@@ -14344,7 +14369,9 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -14390,41 +14417,27 @@ Sanofi B.V.
 
 Tel: +31 20 245 4000
 
+<div style=\"page-break-after: always\"></div>
+
 ## Eesti
 
 Swixx Biopharma OÜ
 
 Tel: +372 640 10 30
 
-## Norge
-
-sanofi-aventis Norge AS
-
-Tlf: +47 67 10 71 00
-
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE
+SanofiAventis Μονοπρόσωπη AEBE
 
-Τηλ: +30 210 900 16 00
+Τηλ: +30
 
-## Österreich
-
-sanofi-aventis GmbH
-
-Tel: +43 1 80 185 - 0
+210 900 16 00
 
 ## España
 
 sanofi-aventis, S.A.
 
 Tel: +34 93 485 94 00
-
-## Polska
-
-Sanofi Sp. z o.o.
-
-Tel.: +48 22 280 00 00
 
 ## France
 
@@ -14434,31 +14447,17 @@ Tél: 0 800 222 555
 
 Appel depuis l'étranger: +33 1 57 63 23 23
 
-## Portugal
-
-Sanofi - Produtos Farmacêuticos, Lda.
-
-Tel: +351 21 35 89 400
-
 ## Hrvatska
 
 Swixx Biopharma d.o.o.
 
 Tel: +385 1 2078 500
 
-## România
-
-Sanofi Romania SRL
-
-Tel: +40 (0) 21 317 31 36
-
 ## Ireland
 
-sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
+sanofi-aventis Ireland Ltd. T/A SANOFI
 
-## Slovenija
-
-Swixx Biopharma d.o.o. Tel: +386 1 235 51 00
+Tel: +353 (0) 1 403 56 00
 
 ## Ísland
 
@@ -14466,35 +14465,17 @@ Vistor ehf.
 
 Sími: +354 535 7000
 
-## Slovenská republika
-
-Swixx Biopharma s.r.o.
-
-Tel: +421 2 208 33 600
-
 ## Italia
 
 Sanofi S.r.l.
 
-Tel: 800 536389
-
-## Suomi/Finland
-
-Sanofi Oy
-
-Puh/Tel: +358 (0) 201 200 300
+Tel: +39 800 536389
 
 ## Κύπρος
 
 C.A. Papaellinas Ltd.
 
 Τηλ: +357 22 741741
-
-## Sverige
-
-Sanofi AB
-
-Tel: +46 (0)8 634 50 00
 
 ## Latvija
 
@@ -14508,7 +14489,59 @@ Tel: +371 6 616 47 50
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/
 
-<div style=\"page-break-after: always\"></div>
+## Norge
+
+sanofi-aventis Norge AS
+
+Tlf: +47 67 10 71 00
+
+## Österreich
+
+sanofi-aventis GmbH
+
+Tel: +43 1 80 185 - 0
+
+## Polska
+
+Sanofi Sp. z o.o.
+
+Tel.: +48 22 280 00 00
+
+## Portugal
+
+Sanofi - Produtos Farmacêuticos, Lda.
+
+Tel: +351 21 35 89 400
+
+## România
+
+Sanofi Romania SRL
+
+Tel: +40 (0) 21 317 31 36
+
+## Slovenija
+
+Swixx Biopharma d.o.o.
+
+Tel: +386 1 235 51 00
+
+## Slovenská republika
+
+Swixx Biopharma s.r.o.
+
+Tel: +421 2 208 33 600
+
+## Suomi/Finland
+
+Sanofi Oy
+
+Puh/Tel: +358 (0) 201 200 300
+
+## Sverige
+
+Sanofi AB
+
+Tel: +46 (0)8 634 50 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -14596,7 +14629,7 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 
 ## Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose . These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -14604,7 +14637,9 @@ It is advisable to test your blood sugar immediately after taking glucose to che
 
 ## Package leaflet: Information for the user
 
-## Insuman Comb 15 SoloStar 100 IU/ml suspension for injection in a pre-filled pen Insulin human
+## Insuman Comb 15 SoloStar 100 IU/ml suspension for injection in a pre-filled pen
+
+## Insulin human
 
 Read all of this leaflet carefully including the Instructions for Use of Insuman Comb 15 SoloStar, pre-filled pen, before you start using this medicine because it contains important information for you.
 
@@ -14947,7 +14982,9 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -14983,7 +15020,9 @@ Tel: +39 02 39394275
 
 ## Deutschland
 
-Sanofi-Aventis Deutschland GmbH Tel: 0800 52 52 010
+Sanofi-Aventis Deutschland GmbH
+
+Tel: 0800 52 52 010
 
 Tel. aus dem Ausland: +49 69 305 21 131
 
@@ -15003,7 +15042,7 @@ Tel: +372 640 10 30
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE
+Sanofi- Aventis Μονοπρόσωπη AEBE
 
 Τηλ: +30 210 900 16 00
 
@@ -15029,7 +15068,9 @@ Tel: +385 1 2078 500
 
 ## Ireland
 
-sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
+sanofi-aventis Ireland Ltd. T/A SANOFI
+
+Tel: +353 (0) 1 403 56 00
 
 ## Ísland
 
@@ -15041,7 +15082,7 @@ Sími: +354 535 7000
 
 Sanofi S.r.l.
 
-Tel: 800 536389
+Tel: +39 800 536389
 
 ## Κύπρος
 
@@ -15093,7 +15134,9 @@ Tel: +40 (0) 21 317 31 36
 
 ## Slovenija
 
-Swixx Biopharma d.o.o. Tel: +386 1 235 51 00
+Swixx Biopharma d.o.o.
+
+Tel: +386 1 235 51 00
 
 ## Slovenská republika
 
@@ -15117,7 +15160,7 @@ Tel: +46 (0)8 634 50 00
 
 ## HYPERGLYCAEMIA AND HYPOGLYCAEMIA
 
-## Always carry some sugar (at least 20 grams) with you. Carry some information with you to show you are diabetic.
+Always carry some sugar (at least 20 grams) with you. Carry some information with you to show you are diabetic.
 
 ## HYPERGLYCAEMIA (high blood sugar levels)
 
@@ -15194,7 +15237,7 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 
 Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose  These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -15684,11 +15727,17 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
-Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+Sanofi Belgium
+
+Tél/Tel: +32 (0)2 710 54 00
+
+(Belgique/Belgien)
 
 ## Česká republika
 
@@ -15742,7 +15791,7 @@ Tlf: +47 67 10 71 00
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE
+Sanofi- Aventis Μονοπρόσωπη AEBE
 
 Τηλ: +30 210 900 16 00
 
@@ -15818,7 +15867,7 @@ Tel: +421 2 208 33 600
 
 Sanofi S.r.l.
 
-Tel: 800 536389
+Tel: +39 800 536389
 
 ## Suomi/Finland
 
@@ -15932,7 +15981,7 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 
 ## Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose . These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -16270,13 +16319,17 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
 Sanofi Belgium
 
-Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+Tél/Tel: +32 (0)2 710 54 00
+
+(Belgique/Belgien)
 
 ## Česká republika
 
@@ -16328,19 +16381,31 @@ sanofi-aventis Norge AS
 
 Tlf: +47 67 10 71 00
 
-<div style=\"page-break-after: always\"></div>
-
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE
+Sanofi-
+
+Aventis Μονοπρόσωπη AEBE
 
 Τηλ: +30 210 900 16 00
+
+## Österreich
+
+sanofi-aventis GmbH
+
+Tel: +43 1 80 185 - 0
 
 ## España
 
 sanofi-aventis, S.A.
 
 Tel: +34 93 485 94 00
+
+## Polska
+
+Sanofi Sp. z o.o.
+
+Tel.: +48 22 280 00 00
 
 ## France
 
@@ -16350,11 +16415,23 @@ Tél: 0 800 222 555
 
 Appel depuis l'étranger: +33 1 57 63 23 23
 
+## Portugal
+
+Sanofi - Produtos Farmacêuticos, Lda.
+
+Tel: +351 21 35 89 400
+
 ## Hrvatska
 
 Swixx Biopharma d.o.o.
 
 Tel: +385 1 2078 500
+
+## România
+
+Sanofi Romania SRL
+
+Tel: +40 (0) 21 317 31 36
 
 ## Ireland
 
@@ -16362,17 +16439,35 @@ sanofi-aventis Ireland Ltd. T/A SANOFI
 
 Tel: +353 (0) 1 403 56 00
 
+## Slovenija
+
+Swixx Biopharma d.o.o.
+
+Tel: +386 1 235 51 00
+
 ## Ísland
 
 Vistor ehf.
 
 Sími: +354 535 7000
 
+## Slovenská republika
+
+Swixx Biopharma s.r.o.
+
+Tel: +421 2 208 33 600
+
 ## Italia
 
 Sanofi S.r.l.
 
-Tel: 800 536389
+Tel: +39 800 536389
+
+## Suomi/Finland
+
+Sanofi Oy
+
+Puh/Tel: +358 (0) 201 200 300
 
 ## Κύπρος
 
@@ -16380,9 +16475,17 @@ C.A. Papaellinas Ltd.
 
 Τηλ: +357 22 741741
 
+## Sverige
+
+Sanofi AB
+
+Tel: +46 (0)8 634 50 00
+
 ## Latvija
 
 Swixx Biopharma SIA
+
+<div style=\"page-break-after: always\"></div>
 
 Tel: +371 6 616 47 50
 
@@ -16391,54 +16494,6 @@ Tel: +371 6 616 47 50
 ## Other source of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/
-
-## Österreich
-
-sanofi-aventis GmbH
-
-Tel: +43 1 80 185 - 0
-
-## Polska
-
-Sanofi Sp. z o.o.
-
-Tel.: +48 22 280 00 00
-
-## Portugal
-
-Sanofi - Produtos Farmacêuticos, Lda.
-
-Tel: +351 21 35 89 400
-
-## România
-
-Sanofi Romania SRL
-
-Tel: +40 (0) 21 317 31 36
-
-## Slovenija
-
-Swixx Biopharma d.o.o.
-
-Tel: +386 1 235 51 00
-
-## Slovenská republika
-
-Swixx Biopharma s.r.o.
-
-Tel: +421 2 208 33 600
-
-## Suomi/Finland
-
-Sanofi Oy
-
-Puh/Tel: +358 (0) 201 200 300
-
-## Sverige
-
-Sanofi AB
-
-Tel: +46 (0)8 634 50 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -16521,7 +16576,7 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 
 ## Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose . These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -16861,9 +16916,11 @@ Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien
+## België/Belgique/Belgien
 
-Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00
+Sanofi Belgium
+
+Tél/Tel: +32 (0)2 710 54 00
 
 ## Lietuva
 
@@ -16875,7 +16932,9 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -16907,7 +16966,9 @@ Tel: +39 02 39394275
 
 ## Deutschland
 
-Sanofi-Aventis Deutschland GmbH Tel: 0800 52 52 010
+Sanofi-Aventis Deutschland GmbH
+
+Tel: 0800 52 52 010
 
 Tel. aus dem Ausland: +49 69 305 21 131
 
@@ -16927,7 +16988,7 @@ Tel: +372 640 10 30
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE Τηλ: +30 210 900 16 00
+Sanofi- Aventis Μονοπρόσωπη AEBE Τηλ: +30 210 900 16 00
 
 ## España
 
@@ -16937,7 +16998,11 @@ Tel: +34 93 485 94 00
 
 ## France
 
-Sanofi Winthrop Industrie Tél: 0 800 222 555 Appel depuis l'étranger: +33 1 57 63 23 23
+Sanofi Winthrop Industrie
+
+Tél: 0 800 222 555
+
+Appel depuis l'étranger: +33 1 57 63 23 23
 
 ## Hrvatska
 
@@ -16957,11 +17022,13 @@ Sími: +354 535 7000
 
 Sanofi S.r.l.
 
-Tel: 800 536389
+Tel: +39 800 536389
 
 ## Κύπρος
 
-C.A. Papaellinas Ltd. Τηλ: +357 22 741741
+C.A. Papaellinas Ltd.
+
+Τηλ: +357 22 741741
 
 ## Latvija
 
@@ -16983,7 +17050,9 @@ Tlf: +47 67 10 71 00
 
 ## Österreich
 
-sanofi-aventis GmbH Tel: +43 1 80 185 - 0
+sanofi-aventis GmbH
+
+Tel: +43 1 80 185 - 0
 
 ## Polska
 
@@ -16997,19 +17066,27 @@ Sanofi - Produtos Farmacêuticos, Lda. Tel: +351 21 35 89 400
 
 ## România
 
-Sanofi Romania SRL Tel: +40 (0) 21 317 31 36
+Sanofi Romania SRL
+
+Tel: +40 (0) 21 317 31 36
 
 ## Slovenija
 
-Swixx Biopharma d.o.o. Tel: +386 1 235 51 00
+Swixx Biopharma d.o.o.
+
+Tel: +386 1 235 51 00
 
 ## Slovenská republika
 
-Swixx Biopharma s.r.o. Tel: +421 2 208 33 600
+Swixx Biopharma s.r.o.
+
+Tel: +421 2 208 33 600
 
 ## Suomi/Finland
 
-Sanofi Oy Puh/Tel: +358 (0) 201 200 300
+Sanofi Oy
+
+Puh/Tel: +358 (0) 201 200 300
 
 ## Sverige
 
@@ -17046,7 +17123,7 @@ If your blood sugar level falls too much you may become unconscious. Serious hyp
 
 ## Why does hypoglycaemia occur?
 
-Examples include:
+## Examples include:
 
 - -you inject too much insulin,
 - -you miss meals or delay them,
@@ -17098,7 +17175,7 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 
 ## Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose . These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -17106,9 +17183,7 @@ It is advisable to test your blood sugar immediately after taking glucose to che
 
 ## Package leaflet: Information for the user
 
-## Insuman Comb 25 SoloStar 100 IU/ml suspension for injection in a pre-filled pen
-
-## Insulin human
+## Insuman Comb 25 SoloStar 100 IU/ml suspension for injection in a pre-filled pen Insulin human
 
 Read all of this leaflet carefully including the Instructions for Use of Insuman Comb 25 SoloStar, pre-filled pen, before you start using this medicine because it contains important information for you.
 
@@ -17450,7 +17525,9 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -17486,7 +17563,9 @@ Tel: +39 02 39394275
 
 ## Deutschland
 
-Sanofi-Aventis Deutschland GmbH Tel: 0800 52 52 010
+Sanofi-Aventis Deutschland GmbH
+
+Tel: 0800 52 52 010
 
 Tel. aus dem Ausland: +49 69 305 21 131
 
@@ -17500,11 +17579,13 @@ Tel: +31 20 245 4000
 
 ## Eesti
 
-Swixx Biopharma OÜ Tel: +372 640 10 30
+Swixx Biopharma OÜ
+
+Tel: +372 640 10 30
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE
+Sanofi- Aventis Μονοπρόσωπη AEBE
 
 Τηλ: +30 210 900 16 00
 
@@ -17516,7 +17597,11 @@ Tel: +34 93 485 94 00
 
 ## France
 
-Sanofi Winthrop Industrie Tél: 0 800 222 555 Appel depuis l'étranger: +33 1 57 63 23 23
+Sanofi Winthrop Industrie
+
+Tél: 0 800 222 555
+
+Appel depuis l'étranger: +33 1 57 63 23 23
 
 ## Hrvatska
 
@@ -17536,11 +17621,13 @@ Sími: +354 535 7000
 
 Sanofi S.r.l.
 
-Tel: 800 536389
+Tel: +39 800 536389
 
 ## Κύπρος
 
-C.A. Papaellinas Ltd. Τηλ: +357 22 741741
+C.A. Papaellinas Ltd.
+
+Τηλ: +357 22 741741
 
 ## Latvija
 
@@ -17556,19 +17643,27 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Norge
 
-sanofi-aventis Norge AS Tlf: +47 67 10 71 00
+sanofi-aventis Norge AS
+
+Tlf: +47 67 10 71 00
 
 ## Österreich
 
-sanofi-aventis GmbH Tel: +43 1 80 185 - 0
+sanofi-aventis GmbH
+
+Tel: +43 1 80 185 - 0
 
 ## Polska
 
-Sanofi Sp. z o.o. Tel.: +48 22 280 00 00
+Sanofi Sp. z o.o.
+
+Tel.: +48 22 280 00 00
 
 ## Portugal
 
-Sanofi - Produtos Farmacêuticos, Lda. Tel: +351 21 35 89 400
+Sanofi - Produtos Farmacêuticos, Lda.
+
+Tel: +351 21 35 89 400
 
 ## România
 
@@ -17677,7 +17772,7 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 
 ## Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose . These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -18163,7 +18258,9 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -18225,7 +18322,9 @@ Tlf: +47 67 10 71 00
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE
+Sanofi-
+
+Aventis Μονοπρόσωπη AEBE
 
 Τηλ: +30 210 900 16 00
 
@@ -18301,7 +18400,7 @@ Tel: +421 2 208 33 600
 
 Sanofi S.r.l.
 
-Tel: 800 536389
+Tel: +39 800 536389
 
 ## Suomi/Finland
 
@@ -18416,9 +18515,9 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 3. If the hypoglycaemia comes back again take another 10 to 20 g sugar.
 4. Speak to a doctor immediately if you are not able to control the hypoglycaemia or if it recurs.
 
-Tell your relatives, friends and close colleagues the following:
+## Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose . These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -18426,9 +18525,7 @@ It is advisable to test your blood sugar immediately after taking glucose to che
 
 <div style=\"page-break-after: always\"></div>
 
-## Insuman Comb 30 100 IU/ml suspension for injection in a cartridge
-
-## Insulin human
+## Insuman Comb 30 100 IU/ml suspension for injection in a cartridge Insulin human
 
 Read all of this leaflet carefully before you start using this medicine because it contains important information for you. The instructions for using the insulin pen are provided with your insulin pen. Refer to them before using your medicine.
 
@@ -18612,9 +18709,7 @@ Do not use it in insulin pumps or other infusion pumps - special insulin prepara
 
 ## How to handle the cartridges
 
-Insuman Comb 30 in cartridges is only suitable for injecting just under the skin using a reusable pen.
-
-Speak to your doctor if you need to inject your insulin by another method.
+Insuman Comb 30 in cartridges is only suitable for injecting just under the skin using a reusable pen. Speak to your doctor if you need to inject your insulin by another method.
 
 To ensure you get the accurate dose, the Insuman Comb 30 cartridges are to be used only with the following pens:
 
@@ -18688,7 +18783,7 @@ severe swelling of skin or mucous membranes (angiooedema), shortness of breath, 
 
 ## Other side effects
 
-## Side effects reported commonly (may affect up to 1 in 10 people)
+Side effects reported commonly (may affect up to 1 in 10 people)
 
 - Oedema
 
@@ -18762,7 +18857,9 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00
+Sanofi Belgium
+
+Tél/Tel: +32 (0)2 710 54 00
 
 ## Lietuva
 
@@ -18774,7 +18871,9 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -18806,7 +18905,9 @@ Tel: +39 02 39394275
 
 ## Deutschland
 
-Sanofi-Aventis Deutschland GmbH Tel: 0800 52 52 010
+Sanofi-Aventis Deutschland GmbH
+
+Tel: 0800 52 52 010
 
 Tel. aus dem Ausland: +49 69 305 21 131
 
@@ -18826,7 +18927,7 @@ Tel: +372 640 10 30
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE
+Sanofi- Aventis Μονοπρόσωπη AEBE
 
 Τηλ: +30 210 900 16 00
 
@@ -18852,7 +18953,9 @@ Tel: +385 1 2078 500
 
 ## Ireland
 
-sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
+sanofi-aventis Ireland Ltd. T/A SANOFI
+
+Tel: +353 (0) 1 403 56 00
 
 ## Ísland
 
@@ -18864,7 +18967,7 @@ Sími: +354 535 7000
 
 Sanofi S.r.l.
 
-Tel: 800 536389
+Tel: +39 800 536389
 
 ## Κύπρος
 
@@ -18916,7 +19019,9 @@ Tel: +40 (0) 21 317 31 36
 
 ## Slovenija
 
-Swixx Biopharma d.o.o. Tel: +386 1 235 51 00
+Swixx Biopharma d.o.o.
+
+Tel: +386 1 235 51 00
 
 ## Slovenská republika
 
@@ -19019,7 +19124,7 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 
 ## Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose . These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -19357,11 +19462,13 @@ For any information about this medicine, please contact the local representative
 
 <div style=\"page-break-after: always\"></div>
 
-Sanofi - Produtos Farmacêuticos, Lda. Tel: +351 21 35 89 400
+Sanofi - Produtos Farmacêuticos, Lda.
 
 ## België/Belgique/Belgien
 
-Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00
+Sanofi Belgium
+
+Tél/Tel: +32 (0)2 710 54 00
 
 ## Lietuva
 
@@ -19373,7 +19480,9 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -19387,7 +19496,9 @@ Tel: +420 233 086 111
 
 ## Magyarország
 
-SANOFI-AVENTIS Zrt. Tel.: +36 1 505 0050
+SANOFI-AVENTIS Zrt.
+
+Tel.: +36 1 505 0050
 
 ## Danmark
 
@@ -19403,7 +19514,9 @@ Tel: +39 02 39394275
 
 ## Deutschland
 
-Sanofi-Aventis Deutschland GmbH Tel: 0800 52 52 010
+Sanofi-Aventis Deutschland GmbH
+
+Tel: 0800 52 52 010
 
 Tel. aus dem Ausland: +49 69 305 21 131
 
@@ -19421,11 +19534,13 @@ Tel: +372 640 10 30
 
 ## Norge
 
-sanofi-aventis Norge AS Tlf: +47 67 10 71 00
+sanofi-aventis Norge AS
+
+Tlf: +47 67 10 71 00
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE Τηλ: +30 210 900 16 00
+Sanofi- Aventis Μονοπρόσωπη AEBE Τηλ: +30 210 900 16 00
 
 ## Österreich
 
@@ -19439,21 +19554,33 @@ Tel: +34 93 485 94 00
 
 ## Polska
 
-Sanofi Sp. z o.o. Tel.: +48 22 280 00 00
+Sanofi Sp. z o.o.
+
+Tel.: +48 22 280 00 00
 
 ## France
 
-Sanofi Winthrop Industrie Tél: 0 800 222 555 Appel depuis l'étranger: +33 1 57 63 23 23
+Sanofi Winthrop Industrie
+
+Tél: 0 800 222 555
+
+Appel depuis l'étranger: +33 1 57 63 23 23
 
 ## Portugal
 
+Tel: +351 21 35 89 400
+
 ## Hrvatska
 
-Swixx Biopharma d.o.o. Tel: +385 1 2078 500
+Swixx Biopharma d.o.o.
+
+Tel: +385 1 2078 500
 
 ## România
 
-Sanofi Romania SRL Tel: +40 (0) 21 317 31 36
+Sanofi Romania SRL
+
+Tel: +40 (0) 21 317 31 36
 
 ## Ireland
 
@@ -19481,7 +19608,7 @@ Tel: +421 2 208 33 600
 
 Sanofi S.r.l.
 
-Tel: 800 536389
+Tel: +39 800 536389
 
 ## Κύπρος
 
@@ -19546,7 +19673,7 @@ If your blood sugar level falls too much you may become unconscious. Serious hyp
 
 ## Why does hypoglycaemia occur?
 
-Examples include:
+## Examples include:
 
 - -you inject too much insulin,
 - -you miss meals or delay them,
@@ -19596,7 +19723,7 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 
 Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose . These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -19963,7 +20090,8 @@ Your doctor will tell you if you have to mix insulin human preparations. If you 
 
 ## If you forget to use Insuman Comb 50
 
-- -If you have missed a dose of Insuman Comb 50 or if you have not injected enough insulin , your blood sugar level may become too high (hyperglycaemia). Check your blood sugar frequently. For information on the treatment of hyperglycaemia, see box at the end of this leaflet.
+- -If you have missed a dose of Insuman Comb 50 or if you have not injected enough insulin , your blood sugar level may become too high (hyperglycaemia). Check your blood sugar
+- frequently. For information on the treatment of hyperglycaemia, see box at the end of this leaflet.
 - -Do not take a double dose to make up for a forgotten dose.
 
 ## If you stop using Insuman Comb 50
@@ -20083,7 +20211,9 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -20141,7 +20271,7 @@ Tlf: +47 67 10 71 00
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE
+Sanofi- Aventis Μονοπρόσωπη AEBE
 
 Τηλ: +30 210 900 16 00
 
@@ -20189,7 +20319,7 @@ Sími: +354 535 7000
 
 Sanofi S.r.l.
 
-Tel: 800 536389
+Tel: +39 800 536389
 
 ## Κύπρος
 
@@ -20334,7 +20464,7 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 
 ## Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose . These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -20582,7 +20712,7 @@ Side effects reported uncommonly (may affect up to 1 in 100 people)
 
 ## Other side effects
 
-## Side effects reported commonly (may affect up to 1 in 10 people)
+Side effects reported commonly (may affect up to 1 in 10 people)
 
 - Oedema
 
@@ -20656,23 +20786,19 @@ Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00
+## België/Belgique/Belgien
 
-## Lietuva
+Sanofi Belgium
 
-Swixx Biopharma UAB
-
-Tel: +370 5 236 91 40
+Tél/Tel: +32 (0)2 710 54 00
 
 ## България
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
 
-## Luxembourg/Luxemburg
-
-Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+.: +359 (0)2 4942 480
 
 ## Česká republika
 
@@ -20680,23 +20806,11 @@ Sanofi s.r.o.
 
 Tel: +420 233 086 111
 
-## Magyarország
-
-SANOFI-AVENTIS Zrt.
-
-Tel.: +36 1 505 0050
-
 ## Danmark
 
 Sanofi A/S
 
 Tlf: +45 45 16 70 00
-
-## Malta
-
-Sanofi S.r.l.
-
-Tel: +39 02 39394275
 
 ## Deutschland
 
@@ -20706,17 +20820,45 @@ Tel: 0800 52 52 010
 
 Tel. aus dem Ausland: +49 69 305 21 131
 
-## Nederland
-
-Sanofi B.V.
-
-Tel: +31 20 245 4000
-
 ## Eesti
 
 Swixx Biopharma OÜ
 
 Tel: +372 640 10 30
+
+## Ελλάδα
+
+SanofiAventis Μονοπρόσωπη AEBE
+
+Τηλ: +30 210 900 16 00
+
+## Lietuva
+
+Swixx Biopharma UAB
+
+Tel: +370 5 236 91 40
+
+## Luxembourg/Luxemburg
+
+Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+
+## Magyarország
+
+SANOFI-AVENTIS Zrt.
+
+Tel.: +36 1 505 0050
+
+## Malta
+
+Sanofi S.r.l.
+
+Tel: +39 02 39394275
+
+## Nederland
+
+Sanofi B.V.
+
+Tel: +31 20 245 4000
 
 ## Norge
 
@@ -20724,27 +20866,19 @@ sanofi-aventis Norge AS
 
 Tlf: +47 67 10 71 00
 
-## Ελλάδα
-
-Sanofi-Aventis Μονοπρόσωπη AEBE
-
-Τηλ: +30 210 900 16 00
-
 ## Österreich
 
 sanofi-aventis GmbH
 
 Tel: +43 1 80 185 - 0
 
-<div style=\"page-break-after: always\"></div>
-
 ## España
-
-## Polska
 
 sanofi-aventis, S.A.
 
 Tel: +34 93 485 94 00
+
+## Polska
 
 Sanofi Sp. z o.o.
 
@@ -20804,7 +20938,7 @@ Tel: +421 2 208 33 600
 
 Sanofi S.r.l.
 
-Tel: 800 536389
+Tel: +39 800 536389
 
 ## Suomi/Finland
 
@@ -20835,6 +20969,8 @@ Tel: +371 6 616 47 50
 ## Other source of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -20919,7 +21055,7 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 
 ## Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose . These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -20927,7 +21063,9 @@ It is advisable to test your blood sugar immediately after taking glucose to che
 
 ## Package leaflet: Information for the user
 
-## Insuman Comb 50 100 IU/ml suspension for injection in a cartridge Insulin human
+## Insuman Comb 50 100 IU/ml suspension for injection in a cartridge
+
+## Insulin human
 
 Read all of this leaflet carefully before you start using this medicine because it contains important information for you. The instructions for using the insulin pen are provided with your insulin pen. Refer to them before using your medicine.
 
@@ -21273,13 +21411,13 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
-Sanofi Belgium
-
-Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
 
 ## Česká republika
 
@@ -21329,7 +21467,7 @@ Tel: +372 640 10 30
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE
+Sanofi- Aventis Μονοπρόσωπη AEBE
 
 Τηλ: +30 210 900 16 00
 
@@ -21369,7 +21507,7 @@ Sími: +354 535 7000
 
 Sanofi S.r.l.
 
-Tel: 800 536389
+Tel: +39 800 536389
 
 ## Κύπρος
 
@@ -21524,9 +21662,9 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 3. If the hypoglycaemia comes back again take another 10 to 20 g sugar.
 4. Speak to a doctor immediately if you are not able to control the hypoglycaemia or if it recurs.
 
-Tell your relatives, friends and close colleagues the following:
+## Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose . These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -21534,9 +21672,7 @@ It is advisable to test your blood sugar immediately after taking glucose to che
 
 ## Package leaflet: Information for the user
 
-## Insuman Comb 50 Solostar 100 IU/ml suspension for injection in a pre-filled pen
-
-## Insulin human
+## Insuman Comb 50 Solostar 100 IU/ml suspension for injection in a pre-filled pen Insulin human
 
 Read all of this leaflet carefully including the Instructions for Use of Insuman Comb 50 SoloStar, pre-filled pen, before you start using this medicine because it contains important information for you.
 
@@ -21878,7 +22014,9 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -21932,7 +22070,7 @@ Tel: +372 640 10 30
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE
+Sanofi- Aventis Μονοπρόσωπη AEBE
 
 Τηλ: +30 210 900 16 00
 
@@ -21958,7 +22096,9 @@ Tel: +385 1 2078 500
 
 ## Ireland
 
-sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
+sanofi-aventis Ireland Ltd. T/A SANOFI
+
+Tel: +353 (0) 1 403 56 00
 
 ## Ísland
 
@@ -21970,7 +22110,7 @@ Sími: +354 535 7000
 
 Sanofi S.r.l.
 
-Tel: 800 536389
+Tel: +39 800 536389
 
 ## Κύπρος
 
@@ -21988,9 +22128,7 @@ Tel: +371 6 616 47 50
 
 ## Other source of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site:
-
-http://www.ema.europa.eu/
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/
 
 ## Norge
 
@@ -22127,9 +22265,9 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 3. If the hypoglycaemia comes back again take another 10 to 20 g sugar.
 4. Speak to a doctor immediately if you are not able to control the hypoglycaemia or if it recurs.
 
-Tell your relatives, friends and close colleagues the following:
+## Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose . These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -22319,7 +22457,11 @@ If you are allergic to insulin or any of the other ingredients of this medicine 
 
 ## Warnings and precautions
 
-Talk to your doctor, pharmacist or nurse before using Insuman Infusat. Follow closely the instructions for dose, monitoring (blood and urine tests), diet and physical activity (physical work and exercise) as discussed with your doctor.
+Talk to your doctor, pharmacist or nurse before using Insuman Infusat.
+
+Follow closely the instructions for dose, monitoring (blood and urine tests), diet and physical activity
+
+(physical work and exercise) as discussed with your doctor.
 
 If you are allergic to this medicine or to animal insulins, talk to your doctor.
 
@@ -22496,8 +22638,7 @@ injection syringes which are designed for an insulin concentration of 100 IU (In
 ## If you forget to use Insuman Infusat
 
 - -If you have missed a dose of Insuman Infusat or if you have not injected enough insulin , your blood sugar level may become too high (hyperglycaemia). Check your blood sugar frequently. For information on the treatment of hyperglycaemia, see box at the end of this leaflet.
-- -
-- Do not take a double dose to make up for a forgotten dose.
+- -Do not take a double dose to make up for a forgotten dose.
 
 ## If you stop using Insuman Infusat
 
@@ -22619,7 +22760,9 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -22677,9 +22820,11 @@ Tlf: +47 67 10 71 00
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE
+Sanofi- Aventis Μονοπρόσωπη AEBE
 
-Τηλ: +30 210 900 16 00
+Τηλ: +30
+
+210 900 16 00
 
 ## Österreich
 
@@ -22701,15 +22846,13 @@ Tel.: +48 22 280 00 00
 
 ## France
 
-<div style=\"page-break-after: always\"></div>
-
-Sanofi - Produtos Farmacêuticos, Lda.
-
 Sanofi Winthrop Industrie
 
 Tél: 0 800 222 555
 
 Appel depuis l'étranger: +33 1 57 63 23 23
+
+Sanofi - Produtos Farmacêuticos, Lda.
 
 Tel: +351 21 35 89 400
 
@@ -22753,7 +22896,7 @@ Tel: +421 2 208 33 600
 
 Sanofi S.r.l.
 
-Tel: 800 536389
+Tel: +39 800 536389
 
 ## Suomi/Finland
 
@@ -22778,6 +22921,8 @@ Tel: +46 (0)8 634 50 00
 Swixx Biopharma SIA
 
 Tel: +371 6 616 47 50
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in {date}
 
@@ -22869,7 +23014,7 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 
 ## Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose . These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -23112,7 +23257,7 @@ All pump procedures (such as pump refill, rinsing of the pump, pump investigatio
 
 ## Pump refill
 
-## How to handle the vials
+How to handle the vials
 
 Your doctor will be handling the insulin vials and has the accessories (e.g. refill syringes and needles) and equipment required to fill your implantable pump.
 
@@ -23257,9 +23402,7 @@ Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Sanofi Belgium
-
-Tél/Tel: +32 (0)2 710 54 00
+België/Belgique/Belgien Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00
 
 ## Lietuva
 
@@ -23271,13 +23414,13 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
-Sanofi Belgium (Belgique/Belgien)
-
-Tél/Tel: +32 (0)2 710 54 00
+Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
 
 ## Česká republika
 
@@ -23309,8 +23452,6 @@ Tel: +39 02 39394275
 
 ## Nederland
 
-Sanofi - Produtos Farmacêuticos, Lda. Tel: +351 21 35 89 400
-
 Sanofi-Aventis Deutschland GmbH
 
 Tel: 0800 52 52 010
@@ -23323,19 +23464,29 @@ Tel: +31 20 245 4000
 
 ## Eesti
 
-Swixx Biopharma OÜ Tel: +372 640 10 30
+Swixx Biopharma OÜ
+
+Tel: +372 640 10 30
 
 ## Norge
 
-sanofi-aventis Norge AS Tlf: +47 67 10 71 00
+sanofi-aventis Norge AS
+
+Tlf: +47 67 10 71 00
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE Τηλ: +30 210 900 16 00
+Sanofi- Aventis Μονοπρόσωπη AEBE
+
+Τηλ: +30
+
+210 900 16 00
 
 ## Österreich
 
-sanofi-aventis GmbH Tel: +43 1 80 185 - 0
+sanofi-aventis GmbH
+
+Tel: +43 1 80 185 - 0
 
 ## España
 
@@ -23345,13 +23496,23 @@ Tel: +34 93 485 94 00
 
 ## Polska
 
-Sanofi Sp. z o.o. Tel.: +48 22 280 00 00
+Sanofi Sp. z o.o.
+
+Tel.: +48 22 280 00 00
 
 ## France
 
-Sanofi Winthrop Industrie Tél: 0 800 222 555 Appel depuis l'étranger: +33 1 57 63 23 23
+Sanofi Winthrop Industrie
+
+Tél: 0 800 222 555
+
+Appel depuis l'étranger: +33 1 57 63 23 23
 
 ## Portugal
+
+Sanofi - Produtos Farmacêuticos, Lda.
+
+Tel: +351 21 35 89 400
 
 ## Hrvatska
 
@@ -23359,7 +23520,9 @@ Swixx Biopharma d.o.o. Tel: +385 1 2078 500
 
 ## România
 
-Sanofi Romania SRL Tel: +40 (0) 21 317 31 36
+Sanofi Romania SRL
+
+Tel: +40 (0) 21 317 31 36
 
 ## Ireland
 
@@ -23385,7 +23548,7 @@ Tel: +421 2 208 33 600
 
 Sanofi S.r.l.
 
-Tel: 800 536389
+Tel: +39 800 536389
 
 ## Suomi/Finland
 
@@ -23395,7 +23558,9 @@ Puh/Tel: +358 (0) 201 200 300
 
 ## Κύπρος
 
-C.A. Papaellinas Ltd. Τηλ: +357 22 741741
+C.A. Papaellinas Ltd.
+
+Τηλ: +357 22 741741
 
 ## Sverige
 
@@ -23498,6 +23663,6 @@ If this happens, you may develop severe hypoglycaemia (and even faint) before yo
 
 Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose . These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.

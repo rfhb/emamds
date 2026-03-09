@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 14:32:52
+document_datetime: 2026-03-05 15:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/insuman.html
 document_name: insuman.html
 version: success
-processing_time: 0.2815814
-conversion_datetime: 2025-12-31 00:59:19.19387
+processing_time: 0.1038625
+conversion_datetime: 2026-03-09 13:19:18.722504
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.77.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Insuman
 
 [RSS](/en/individual-human-medicine.xml/65566)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 insulin human Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -126,7 +124,7 @@ English (EN) (81.91 KB - PDF)
 
 [View](/en/documents/overview/insuman-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-437)
+[Other languages (22)](#file-language-dropdown-566)
 
 български (BG) (109.17 KB - PDF)
 
@@ -396,17 +394,17 @@ svenska (SV) (102.27 KB - PDF)
 
 Insuman : EPAR - Product Information
 
-English (EN) (2.8 MB - PDF)
+English (EN) (2.68 MB - PDF)
 
 **First published:** 07/07/2009
 
-**Last updated:** 20/10/2025
+**Last updated:** 05/03/2026
 
 [View](/en/documents/product-information/insuman-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-740)
+[Other languages (24)](#file-language-dropdown-880)
 
-български (BG) (7.45 MB - PDF)
+български (BG) (3.84 MB - PDF)
 
 **First published:**
 
@@ -414,11 +412,11 @@ English (EN) (2.8 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/bg/documents/product-information/insuman-epar-product-information_bg.pdf)
 
-español (ES) (6.41 MB - PDF)
+español (ES) (2.55 MB - PDF)
 
 **First published:**
 
@@ -426,11 +424,11 @@ español (ES) (6.41 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/es/documents/product-information/insuman-epar-product-information_es.pdf)
 
-čeština (CS) (6.38 MB - PDF)
+čeština (CS) (2.88 MB - PDF)
 
 **First published:**
 
@@ -438,11 +436,11 @@ español (ES) (6.41 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/cs/documents/product-information/insuman-epar-product-information_cs.pdf)
 
-dansk (DA) (5.75 MB - PDF)
+dansk (DA) (2.98 MB - PDF)
 
 **First published:**
 
@@ -450,11 +448,11 @@ dansk (DA) (5.75 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/da/documents/product-information/insuman-epar-product-information_da.pdf)
 
-Deutsch (DE) (6.7 MB - PDF)
+Deutsch (DE) (3.33 MB - PDF)
 
 **First published:**
 
@@ -462,11 +460,11 @@ Deutsch (DE) (6.7 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/de/documents/product-information/insuman-epar-product-information_de.pdf)
 
-eesti keel (ET) (5.73 MB - PDF)
+eesti keel (ET) (2.76 MB - PDF)
 
 **First published:**
 
@@ -474,11 +472,11 @@ eesti keel (ET) (5.73 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/et/documents/product-information/insuman-epar-product-information_et.pdf)
 
-ελληνικά (EL) (4.75 MB - PDF)
+ελληνικά (EL) (4.37 MB - PDF)
 
 **First published:**
 
@@ -486,11 +484,11 @@ eesti keel (ET) (5.73 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/el/documents/product-information/insuman-epar-product-information_el.pdf)
 
-français (FR) (7.65 MB - PDF)
+français (FR) (3.25 MB - PDF)
 
 **First published:**
 
@@ -498,11 +496,11 @@ français (FR) (7.65 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/fr/documents/product-information/insuman-epar-product-information_fr.pdf)
 
-hrvatski (HR) (3.71 MB - PDF)
+hrvatski (HR) (3 MB - PDF)
 
 **First published:**
 
@@ -510,11 +508,11 @@ hrvatski (HR) (3.71 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/hr/documents/product-information/insuman-epar-product-information_hr.pdf)
 
-íslenska (IS) (5.44 MB - PDF)
+íslenska (IS) (2.36 MB - PDF)
 
 **First published:**
 
@@ -522,11 +520,11 @@ hrvatski (HR) (3.71 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/is/documents/product-information/insuman-epar-product-information_is.pdf)
 
-italiano (IT) (6.04 MB - PDF)
+italiano (IT) (2.85 MB - PDF)
 
 **First published:**
 
@@ -534,11 +532,11 @@ italiano (IT) (6.04 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/it/documents/product-information/insuman-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (5.88 MB - PDF)
+latviešu valoda (LV) (3.01 MB - PDF)
 
 **First published:**
 
@@ -546,11 +544,11 @@ latviešu valoda (LV) (5.88 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/lv/documents/product-information/insuman-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (3.89 MB - PDF)
+lietuvių kalba (LT) (2.89 MB - PDF)
 
 **First published:**
 
@@ -558,11 +556,11 @@ lietuvių kalba (LT) (3.89 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/lt/documents/product-information/insuman-epar-product-information_lt.pdf)
 
-magyar (HU) (2.59 MB - PDF)
+magyar (HU) (4.72 MB - PDF)
 
 **First published:**
 
@@ -570,11 +568,11 @@ magyar (HU) (2.59 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/hu/documents/product-information/insuman-epar-product-information_hu.pdf)
 
-Malti (MT) (9.12 MB - PDF)
+Malti (MT) (3.88 MB - PDF)
 
 **First published:**
 
@@ -582,11 +580,11 @@ Malti (MT) (9.12 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/mt/documents/product-information/insuman-epar-product-information_mt.pdf)
 
-Nederlands (NL) (5.74 MB - PDF)
+Nederlands (NL) (2.56 MB - PDF)
 
 **First published:**
 
@@ -594,11 +592,11 @@ Nederlands (NL) (5.74 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/nl/documents/product-information/insuman-epar-product-information_nl.pdf)
 
-norsk (NO) (3.45 MB - PDF)
+norsk (NO) (3 MB - PDF)
 
 **First published:**
 
@@ -606,11 +604,11 @@ norsk (NO) (3.45 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/no/documents/product-information/insuman-epar-product-information_no.pdf)
 
-polski (PL) (3.93 MB - PDF)
+polski (PL) (2.92 MB - PDF)
 
 **First published:**
 
@@ -618,11 +616,11 @@ polski (PL) (3.93 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/pl/documents/product-information/insuman-epar-product-information_pl.pdf)
 
-português (PT) (5.89 MB - PDF)
+português (PT) (2.75 MB - PDF)
 
 **First published:**
 
@@ -630,11 +628,11 @@ português (PT) (5.89 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/pt/documents/product-information/insuman-epar-product-information_pt.pdf)
 
-română (RO) (3.74 MB - PDF)
+română (RO) (3.34 MB - PDF)
 
 **First published:**
 
@@ -642,11 +640,11 @@ română (RO) (3.74 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/ro/documents/product-information/insuman-epar-product-information_ro.pdf)
 
-slovenčina (SK) (6.81 MB - PDF)
+slovenčina (SK) (3.43 MB - PDF)
 
 **First published:**
 
@@ -654,11 +652,11 @@ slovenčina (SK) (6.81 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/sk/documents/product-information/insuman-epar-product-information_sk.pdf)
 
-slovenščina (SL) (4.17 MB - PDF)
+slovenščina (SL) (2.87 MB - PDF)
 
 **First published:**
 
@@ -666,11 +664,11 @@ slovenščina (SL) (4.17 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/sl/documents/product-information/insuman-epar-product-information_sl.pdf)
 
-Suomi (FI) (6.31 MB - PDF)
+Suomi (FI) (2.83 MB - PDF)
 
 **First published:**
 
@@ -678,11 +676,11 @@ Suomi (FI) (6.31 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/fi/documents/product-information/insuman-epar-product-information_fi.pdf)
 
-svenska (SV) (6.03 MB - PDF)
+svenska (SV) (2.55 MB - PDF)
 
 **First published:**
 
@@ -690,11 +688,11 @@ svenska (SV) (6.03 MB - PDF)
 
 **Last updated:**
 
-20/10/2025
+05/03/2026
 
 [View](/sv/documents/product-information/insuman-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000295999 17/10/2025
+**Latest procedure affecting product information:** VR/0000310964 05/03/2026
 
 icon globe
 
@@ -720,7 +718,7 @@ English (EN) (134.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/insuman-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-54)
+[Other languages (24)](#file-language-dropdown-850)
 
 български (BG) (197.17 KB - PDF)
 
@@ -1033,7 +1031,7 @@ Sanofi-aventis Deutschland GmbH
 
 D-65926 Frankfurt am Main
 
-Opinion adopted 16/10/1996 Marketing authorisation issued 21/02/1997 Revision 35
+Opinion adopted 16/10/1996 Marketing authorisation issued 21/02/1997 Revision 36
 
 ## Assessment history
 
@@ -1045,9 +1043,11 @@ Collapse section
 
 Insuman : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (141.15 KB - PDF)
+English (EN) (154.34 KB - PDF)
 
 **First published:** 20/10/2025
+
+**Last updated:** 05/03/2026
 
 [View](/en/documents/procedural-steps-after/insuman-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1121,24 +1121,24 @@ English (EN) (188.6 KB - PDF)
 
 [View](/en/documents/scientific-discussion/insuman-epar-scientific-discussion_en.pdf)
 
-#### News on Insuman
+## News on Insuman
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2013) 26/07/2013
 
 [Public statement on Insuman Infusat 100-IU/ml solution for injection in cartridges of 3.15 ml (insulin human) - Risk of leakage during use](/en/news/public-statement-insuman-infusat-100-iu-ml-solution-injection-cartridges-315-ml-insulin-human-risk-leakage-during-use) 14/02/2000
 
-#### Shortages
+## Shortages
 
-#### More information on Insuman
+## More information on Insuman
 
 - [Insuman - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/insuman)
 - [Insuman - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/insuman-0)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 20/10/2025
+**This page was last updated on** 05/03/2026
 
 ## Share this page
 

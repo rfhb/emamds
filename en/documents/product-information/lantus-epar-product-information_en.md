@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-02-05 10:13:37
+document_datetime: 2026-03-05 15:04:06
 document_pages: 74
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lantus-epar-product-information_en.pdf
 document_name: lantus-epar-product-information_en.pdf
 version: success
-processing_time: 16.1802567
-conversion_datetime: 2025-12-27 18:33:02.701951
+processing_time: 17.9644709
+conversion_datetime: 2026-03-09 14:10:05.128378
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.77.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -96,7 +96,7 @@ To reduce the risk of nocturnal and early morning hypoglycaemia, patients who ar
 
 ## Switch from insulin glargine 300 units/ml to Lantus
 
-Lantus and Toujeo (insulin glargine 300 units/ml) are not bioequivalent and are not directly interchangeable. To reduce the risk of hypoglycemia, patients who are changing their basal insulin regimen from an insulin regimen with once daily insulin glargine 300 units/ml to a once daily regimen with Lantus should reduce their dose by approximately 20%.
+Lantus and Toujeo (insulin glargine 300 units/ml) are not bioequivalent and are not directly interchangeable. To reduce the risk of hypoglycaemia, patients who are changing their basal insulin regimen from an insulin regimen with once daily insulin glargine 300 units/ml to a once daily regimen with Lantus should reduce their dose by approximately 20%.
 
 During the first weeks the reduction should, at least partially, be compensated by an increase in mealtime insulin, after this period the regimen should be adjusted individually.
 
@@ -234,11 +234,11 @@ In addition, under the influence of sympatholytic medicinal products such as bet
 
 ## Pregnancy
 
-For insulin glargine no clinical data on exposed pregnancies from controlled clinical studies are available. A large amount of data on pregnant women (more than 1000 pregnancy outcomes) indicate no specific adverse effects of insulin glargine on pregnancy and no specific malformative nor feto/neonatal toxicity of insulin glargine. Animal data do not indicate reproductive toxicity. The use of Lantus may be considered during pregnancy, if clinically needed.
+For insulin glargine no clinical data on exposed pregnancies from controlled clinical studies are available. A large amount of data on pregnant women (more than 1000 pregnancy outcomes) indicate no specific adverse effects of insulin glargine on pregnancy and no specific malformative nor foeto/neonatal toxicity of insulin glargine. Animal data do not indicate reproductive toxicity. The use of Lantus may be considered during pregnancy, if clinically needed.
 
 <div style=\"page-break-after: always\"></div>
 
-It is essential for patients with pre-existing or gestational diabetes to maintain good metabolic control throughout pregnancy to prevent adverse outcomes associated with hyperglycemia. Insulin requirements may decrease during the first trimester and generally increase during the second and third trimesters. Immediately after delivery, insulin requirements decline rapidly (increased risk of hypoglycaemia). Careful monitoring of glucose control is essential.
+It is essential for patients with pre-existing or gestational diabetes to maintain good metabolic control throughout pregnancy to prevent adverse outcomes associated with hyperglycaemia. Insulin requirements may decrease during the first trimester and generally increase during the second and third trimesters. Immediately after delivery, insulin requirements decline rapidly (increased risk of hypoglycaemia). Careful monitoring of glucose control is essential.
 
 ## Breast-feeding
 
@@ -328,7 +328,7 @@ Insulin overdose may lead to severe and sometimes long-term and life-threatening
 
 Mild episodes of hypoglycaemia can usually be treated with oral carbohydrates. Adjustments in dose of the medicinal product, meal patterns, or physical activity may be needed.
 
-More severe episodes with coma, seizure, or neurologic impairment may be treated with intramuscular/subcutaneous glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
+More severe episodes with coma, seizure, or neurologic impairment may be treated with glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -350,7 +350,7 @@ IGF-1 receptor binding: The affinity of insulin glargine for the human IGF-1 rec
 
 IGF-1), whereas M1 and M2 bind the IGF-1 receptor with slightly lower affinity compared to human insulin.
 
-The total therapeutic insulin concentration (insulin glargine and its metabolites) found in type 1 diabetic patients was markedly lower than what would be required for a halfmaximal occupation of the IGF-1 receptor and the subsequent activation of the mitogenic-proliferative pathway initiated by the IGF-1 receptor. Physiological concentrations of endogenous IGF-1 may activate the mitogenicproliferative pathway; however, the therapeutic concentrations found in insulin therapy, including in Lantus therapy, are considerably lower than the pharmacological concentrations required to activate the IGF-1 pathway.
+The total therapeutic insulin concentration (insulin glargine and its metabolites) found in type 1 diabetic patients was markedly lower than what would be required for a half maximal occupation of the IGF-1 receptor and the subsequent activation of the mitogenic-proliferative pathway initiated by the IGF-1 receptor. Physiological concentrations of endogenous IGF-1 may activate the mitogenicproliferative pathway; however, the t herapeutic concentrations found in insulin therapy, including in Lantus therapy, are considerably lower than the pharmacological concentrations required to activate the IGF-1 pathway.
 
 The primary activity of insulin, including insulin glargine, is regulation of glucose metabolism. Insulin and its analogues lower blood glucose levels by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production. Insulin inhibits lipolysis in the adipocyte, inhibits proteolysis and enhances protein synthesis.
 
@@ -390,7 +390,7 @@ At the last on-treatment visit, there was a mean increase in body weight from ba
 
 ## Paediatric population
 
-In a randomised, controlled clinical study, paediatric patients (age range 6 to 15 years) with type 1 diabetes (n=349) were treated for 28 weeks with a basal-bolus insulin regimen where regular human insulin was used before each meal. Insulin glargine was administered once daily at bedtime and NPH human insulin was administered once or twice daily. Similar effects on glycohemoglobin and the incidence of symptomatic hypoglycemia were observed in both treatment groups, however fasting plasma glucose decreased more from baseline in the insulin glargine group than in the NPH group. There was less severe hypoglycaemia in the insulin glargine group as well. One hundred forty three of the patients treated with insulin glargine in this study continued treatment with insulin glargine in an uncontrolled extension study with mean duration of follow-up of 2 years. No new safety signals were seen during this extended treatment with insulin glargine.
+In a randomised, controlled clinical study, paediatric patients (age range 6 to 15 years) with type 1 diabetes (n=349) were treated for 28 weeks with a basal-bolus insulin regimen where regular human insulin was used before each meal. Insulin glargine was administered once daily at bedtime and NPH human insulin was administered once or twice daily. Similar effects on glycohemoglobin and the incidence of symptomatic hypoglycaemia were observed in both treatment groups, however fasting plasma glucose decreased more from baseline in the insulin glargine group than in the NPH group. There was less severe hypoglycaemia in the insulin glargine group as well. One hundred forty three of the patients treated with insulin glargine in this study continued treatment with insulin glargine in an uncontrolled extension study with mean duration of follow-up of 2 years. No new safety signals were seen during this extended treatment with insulin glargine.
 
 A crossover study comparing insulin glargine plus lispro insulin to NPH plus regular human insulin (each treatment administered for 16 weeks in random order) in 26 adolescent type 1 diabetic patients aged 12 to 18 years was also performed. As in the paediatric study described above, fasting plasma glucose reduction from baseline was greater in the insulin glargine group than in the NPH group. HbA1c changes from baseline were similar between treatment groups; however blood glucose values
 
@@ -400,7 +400,7 @@ recorded overnight were significantly higher in the insulin glargine/ lispro gro
 
 A 24-week parallel group study was conducted in 125 children with type 1 diabetes mellitus aged 2 to 6 years, comparing insulin glargine given once daily in the morning to NPH insulin given once or twice daily as basal insulin. Both groups received bolus insulin before meals.
 
-The primary aim of demonstrating non-inferiority of insulin glargine to NPH in all hypoglycaemia was not met and there was a trend to an increase of hypoglycemic events with insulin glargine [insulin glargine: NPH rate ratio (95% CI) = 1.18 (0.97 -1.44)].
+The primary aim of demonstrating non-inferiority of insulin glargine to NPH in all hypoglycaemia was not met and there was a trend to an increase of hypoglycaemic events with insulin glargine [insulin glargine: NPH rate ratio (95% CI) = 1.18 (0.97 -1.44)].
 
 Glycohaemoglobin and glucose variabilities were comparable in both treatment groups. No new safety signals were observed in this study.
 
@@ -560,13 +560,13 @@ Sanofi-Aventis Deutschland GmbH, D65926 Frankfurt am Main, Germany.
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/00/134/001-004 EU/1/00/134/005-007 EU/1/00/134/012 EU/1/00/134/013-017
-
-EU/1/00/134/030-037
+EU/1/00/134/001-004 EU/1/00/134/005-007 EU/1/00/134/012 EU/1/00/134/013-017 EU/1/00/134/030-037
 
 ## 9. DATE OF FIRST AUTHORISATION/ RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 9 June 2000
+Date of first authorisation: 9
+
+June 2000
 
 Date of latest renewal: 17 February 2015
 
@@ -692,7 +692,7 @@ Once in use, vials may be stored for a maximum of 4 weeks not above 25°C.
 
 Keep the vial in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -770,6 +770,8 @@ Lot
 | 6.   | OTHER   |
 |------|---------|
 
+22
+
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
@@ -812,8 +814,6 @@ Use only clear and colourless solutions.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 ## Unopened vials:
@@ -826,11 +826,11 @@ Once in use, vials may be stored for a maximum of 4 weeks not above 30°C.
 
 Keep the vial in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Sanofi-Aventis Deutschland GmbH D65926 Frankfurt am Main, Germany.
+Sanofi-Aventis Deutschland GmbH D- 65926 Frankfurt am Main, Germany.
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -840,9 +840,9 @@ EU/1/00/134/012
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -859,6 +859,8 @@ PC:
 SN:
 
 NN:
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -895,6 +897,8 @@ Lot
 
 | 6.   | OTHER   |
 |------|---------|
+
+25
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1007,8 +1011,8 @@ Lot
 | 15.   | INSTRUCTIONS ONUSE   |
 |-------|----------------------|
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
 
 Lantus
 
@@ -1024,9 +1028,9 @@ PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON SMALL IMMEDIATE PACKAGING UNITS   |
-|-------------------------------------------------------------------|
-| LABEL (cartridge)                                                 |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| LABEL (cartridge)                                                |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
@@ -1057,6 +1061,8 @@ Lot
 
 | 6.   | OTHER   |
 |------|---------|
+
+29
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1157,13 +1163,11 @@ Keep the pre-filled pen in the outer carton in order to protect from light.
 
 After its first use, the pen may be stored for a maximum of 4 weeks not above 30°C. Do not refrigerate. Keep the pen protected from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Sanofi-Aventis Deutschland GmbH
-
-D65926 Frankfurt am Main, Germany.
+Sanofi-Aventis Deutschland GmbH D65926 Frankfurt am Main, Germany.
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1448,8 +1452,7 @@ You must always check the insulin label before each injection to avoid mix-ups b
 
 ## If you use more Lantus than you should
 
-- -If you have injected too much Lantus (hypoglycaemia).
-- , your blood sugar level may become too low
+- -If you have injected too much Lantus , your blood sugar level may become too low (hypoglycaemia).
 
 Check your blood sugar frequently. In general, to prevent hypoglycaemia you must eat more food and monitor your blood sugar. For information on the treatment of hypoglycaemia, see box at the end of this leaflet.
 
@@ -1473,7 +1476,11 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 If you notice signs of your blood sugar being too low (hypoglycaemia ), take the action to increase you blood sugar straight away (see the box at the end of this leaflet). Hypoglycaemia (low blood sugar) can be very serious and is very common with insulin treatment (may affect more than 1 in 10 people). Low blood sugar means that there is not enough sugar in your blood. If your blood sugar level falls too low, you may pass out (become unconscious). Serious hypoglycaemia may cause brain damage and may be life-threatening. For more information, see the box at the end of this leaflet.
 
-Severe allergic reaction s (rare, may affect up to 1 in 1,000 people) - the signs may include large-scale skin reactions (rash and itching all over the body), severe swelling of skin or mucous membranes (angiooedema), shortness of breath, a fall in blood pressure with rapid heart beat and sweating. Severe allergic reactions to insulins may become life-threatening. Tell a doctor straight away if you notice signs of severe allergic reactions.
+Severe allergic reaction s (rare, may affect up to 1 in 1,000 people) - the signs may include large-scale skin reactions (rash and itching all over the body), severe swelling of skin or mucous membranes (angiooedema), shortness of breath, a fall in blood pressure with rapid heartbeat and sweating. Severe allergic reactions to insulins may become life-threatening. Tell a doctor straight away if you notice signs of severe allergic reactions.
+
+## Other side effects
+
+Tell your doctor, pharmacist or nurse if you notice any of the following side effects:
 
 ## · Skin changes at the injection site:
 
@@ -1564,49 +1571,19 @@ Sanofi Belgium
 
 Tél/Tel: +32 (0)2 710 54 00
 
-## България
-
-Swixx Biopharma EOOD
-
-Тел.: +359 (0) 2 4942 480
-
-## Česká republika
-
-sanofi-aventis, s.r.o.
-
-Tel: +420 233 086 111
-
-## Danmark
-
-Sanofi A/S
-
-Tlf: +45 45 16 70 00
-
-## Deutschland
-
-Sanofi-Aventis Deutschland GmbH
-
-Tel.: 0800 52 52 010
-
-Tel. aus dem Ausland: +49 69 305 21 131
-
-## Eesti
-
-Swixx Biopharma OÜ
-
-Tel: +372 640 10 30
-
-## Ελλάδα
-
-SanofiAventis Μονοπρόσωπη AEBE
-
-Τηλ: +30 210 900 16 00
-
 ## Lietuva
 
 Swixx Biopharma UAB
 
 Tel: +370 5 236 91 40
+
+## България
+
+Swixx Biopharma EOOD
+
+Тел .:
+
++359 (0) 2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -1614,11 +1591,23 @@ Sanofi Belgium
 
 Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
 
+## Česká republika
+
+sanofi-aventis, s.r.o.
+
+Tel: +420 233 086 111
+
 ## Magyarország
 
 SANOFI-AVENTIS Zrt.
 
 Tel.: +36 1 505 0050
+
+## Danmark
+
+Sanofi A/S
+
+Tlf: +45 45 16 70 00
 
 ## Malta
 
@@ -1628,17 +1617,39 @@ Tel:
 
 +39 02 39394275
 
+## Deutschland
+
+Sanofi-Aventis Deutschland GmbH
+
+Tel.: 0800 52 52 010
+
+Tel. aus dem Ausland: +49 69 305 21 131
+
 ## Nederland
 
 Sanofi B.V.
 
 Tel: +31 20 245 4000
 
+## Eesti
+
+Swixx Biopharma OÜ
+
+Tel: +372 640 10 30
+
 ## Norge
 
 sanofi-aventis Norge AS
 
 Tlf: +47 67 10 71 00
+
+## Ελλάδα
+
+Sanofi-
+
+Aventis Μονοπρόσωπη AEBE
+
+Τηλ: +30 210 900 16 00
 
 ## Österreich
 
@@ -1700,7 +1711,7 @@ Tel: +386 1 235 51 00
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -1714,9 +1725,9 @@ Tel: +421 2 208 33 600
 
 Sanofi S.r.l.
 
-Tel: 800 13 12 12 (domande di tipo tecnico)
+Tel:
 
-800.536389 (altre domande)
++39 800 536389
 
 ## Suomi/Finland
 
@@ -1728,9 +1739,7 @@ Puh/Tel: +358 (0) 201 200 300
 
 C.A. Papaellinas Ltd.
 
-Τηλ
-
-: +357 22 741741
+Τηλ: +357 22 741741
 
 ## Sverige
 
@@ -1743,12 +1752,6 @@ Tel: +46 (0)8 634 50 00
 Swixx Biopharma SIA
 
 Tel: +371 6 616 47 50
-
-## United Kingdom (Northern Ireland)
-
-sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +44 (0) 800 035 2525
 
 ## This leaflet was last revised in
 
@@ -1776,7 +1779,7 @@ Examples include:
 
 ## Warning symptoms of hyperglycaemia
 
-Thirst, increased need to urinate, tiredness, dry skin, reddening of the face, loss of appetite, low blood pressure, fast heart beat, and glucose and ketone bodies in urine. Stomach pain, fast and deep breathing, sleepiness or even loss of consciousness may be signs of a serious condition (ketoacidosis) resulting from lack of insulin.
+Thirst, increased need to urinate, tiredness, dry skin, reddening of the face, loss of appetite, low blood pressure, fast heartbeat, and glucose and ketone bodies in urine. Stomach pain, fast and deep breathing, sleepiness or even loss of consciousness may be signs of a serious condition (ketoacidosis) resulting from lack of insulin.
 
 ## What should you do if you experience hyperglycaemia?
 
@@ -1813,7 +1816,7 @@ Examples include:
 
 ## -In your body
 
-Examples of symptoms that tell you that your blood sugar level is falling too much or too fast: sweating, clammy skin, anxiety, fast heart beat, high blood pressure, palpitations and irregular heartbeat. These symptoms often develop before the symptoms of a low sugar level in the brain.
+Examples of symptoms that tell you that your blood sugar level is falling too much or too fast: sweating, clammy skin, anxiety, fast heartbeat, high blood pressure, palpitations and irregular heartbeat. These symptoms often develop before the symptoms of a low sugar level in the brain.
 
 ## -In your brain
 
@@ -1823,7 +1826,8 @@ The first symptoms which alert you to hypoglycaemia (\"warning symptoms\") may c
 
 - -you are elderly, if you have had diabetes for a long time or if you suffer from a certain type of nervous disease (diabetic autonomic neuropathy),
 - -you have recently suffered hypoglycaemia (for example the day before) or if it develops slowly,
-- -you have almost normal or, at least, greatly improved blood sugar levels,
+- -
+- you have almost normal or, at least, greatly improved blood sugar levels,
 - -you have recently changed from an animal insulin to a human insulin such as Lantus,
 - -you are taking or have taken certain other medicines (see section 2, \"Other medicines and Lantus\").
 
@@ -1843,7 +1847,7 @@ The recovery of hypoglycaemia may be delayed because Lantus has a long action.
 
 Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose. These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -2106,7 +2110,11 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 If you notice signs of your blood sugar being too low (hypoglycaemia), take action to increase you blood sugar level straight away (see the box at the end if this leaflet). Hypoglycaemia (low blood sugar) can be very serious and is very common with insulin treatment (may affect more than 1 in 10 people). Low blood sugar means that there is not enough sugar in your blood If your blood sugar level falls too low you may pass out (become unconscious). Serious hypoglycaemia may cause brain damage and may be life-threatening. For more information, see the box at the end of this leaflet.
 
-Severe allergic reactions (rare, may affect up to 1 in 1,000 people) - the signs may include large-scale skin reactions (rash and itching all over the body), severe swelling of skin or mucous membranes (angiooedema), shortness of breath, a fall in blood pressure with rapid heart beat and sweating. Severe allergic reactions to insulins may become life-threatening. Tell a doctor straight away if you notice signs of severe allergic reaction.
+Severe allergic reactions (rare, may affect up to 1 in 1,000 people) - the signs may include large-scale skin reactions (rash and itching all over the body), severe swelling of skin or mucous membranes (angiooedema), shortness of breath, a fall in blood pressure with rapid heartbeat and sweating. Severe allergic reactions to insulins may become life-threatening. Tell a doctor straight away if you notice signs of severe allergic reaction.
+
+## Other side effects
+
+Tell your doctor, pharmacist or nurse if you notice any of the following side effects:
 
 ## · Skin changes at the injection site:
 
@@ -2120,15 +2128,15 @@ The signs may include reddening, unusually intense pain when injecting, itching,
 
 ## Rare reported side effect (may affect up to 1 in 1,000 people)
 
-## · Eye reactions
+- Eye reactions
 
 A marked change (improvement or worsening) in your blood sugar control can disturb your vision temporarily. If you have proliferative retinopathy (an eye disease related to diabetes) severe hypoglycaemic attacks may cause temporary loss of vision.
+
+<div style=\"page-break-after: always\"></div>
 
 ## · General disorders
 
 In rare cases, insulin treatment may also cause temporary build-up of water in the body, with swelling in the calves and ankles.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Very rare reported side-effects (may affect up to1 in10,000 people)
 
@@ -2171,11 +2179,11 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 - -The active substance is insulin glargine. Each ml of the solution contains 100 units of insulin glargine (equivalent to 3.64 mg).
 - -The other ingredients are: zinc chloride, metacresol, glycerol, sodium hydroxide (see section 2 'Important information about some of the ingredients of Lantus') and hydrochloric acid (for pH adjustment) and water for injections.
 
+<div style=\"page-break-after: always\"></div>
+
 ## What Lantus looks like and contents of the pack
 
 Lantus 100 units/ml solution for injection in a cartridge is a clear and colourless solution.
-
-<div style=\"page-break-after: always\"></div>
 
 Lantus comes in a special cartridge to be used only in conjunction with the pens ClikSTAR, Tactipen, Autopen 24, AllStar, AllStar PRO or JuniorSTAR. Each cartridge contains 3 ml of solution for injection (equivalent to 300 units).
 
@@ -2195,63 +2203,19 @@ Sanofi Belgium
 
 Tél/Tel: +32 (0)2 710 54 00
 
-## България
-
-Swixx Biopharma EOOD
-
-Тел.: +359 (0) 2 4942 480
-
-## Česká republika
-
-sanofi-aventis, s.r.o.
-
-Tel: +420 233 086 111
-
-## Danmark
-
-Sanofi A/S
-
-Tlf: +45 45 16 70 00
-
-## Deutschland
-
-Sanofi-Aventis Deutschland GmbH
-
-Tel.: 0800 52 52 010
-
-Tel. aus dem Ausland: +49 69 305 21 131
-
-## Eesti
-
-Swixx Biopharma OÜ
-
-Tel: +372 640 10 30
-
-## Ελλάδα
-
-Sanofi- Aventis Μονοπρόσωπη AEBE
-
-Τηλ: +30 210 900 16 00
-
-## España
-
-sanofi-aventis, S.A
-
-Tel: +34 93 485 94 00
-
-## France
-
-Sanofi Winthrop Industrie
-
-Tél: 0 800 222 555
-
-Appel depuis l'étranger: +33 1 57 63 23 23
-
 ## Lietuva
 
 Swixx Biopharma UAB
 
 Tel: +370 5 236 91 40
+
+## България
+
+Swixx Biopharma EOOD
+
+Тел .:
+
++359 (0) 2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -2259,11 +2223,23 @@ Sanofi Belgium
 
 Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
 
+## Česká republika
+
+sanofi-aventis, s.r.o.
+
+Tel: +420 233 086 111
+
 ## Magyarország
 
 SANOFI-AVENTIS Zrt.
 
 Tel.: +36 1 505 0050
+
+## Danmark
+
+Sanofi A/S
+
+Tlf: +45 45 16 70 00
 
 ## Malta
 
@@ -2273,11 +2249,25 @@ Tel:
 
 +39 02 39394275
 
+## Deutschland
+
+Sanofi-Aventis Deutschland GmbH
+
+Tel.: 0800 52 52 010
+
+Tel. aus dem Ausland: +49 69 305 21 131
+
 ## Nederland
 
 Sanofi B.V.
 
 Tel: +31 20 245 4000
+
+## Eesti
+
+Swixx Biopharma OÜ
+
+Tel: +372 640 10 30
 
 ## Norge
 
@@ -2285,17 +2275,37 @@ sanofi-aventis Norge AS
 
 Tlf: +47 67 10 71 00
 
+## Ελλάδα
+
+Sanofi- Aventis Μονοπρόσωπη AEBE
+
+Τηλ: +30 210 900 16 00
+
 ## Österreich
 
 sanofi-aventis GmbH
 
 Tel: +43 1 80 185 - 0
 
+## España
+
+sanofi-aventis, S.A
+
+Tel: +34 93 485 94 00
+
 ## Polska
 
 sanofi-aventis Sp. z o.o.
 
 Tel.: +48 22 280 00 00
+
+## France
+
+Sanofi Winthrop Industrie
+
+Tél: 0 800 222 555
+
+Appel depuis l'étranger: +33 1 57 63 23 23
 
 ## Portugal
 
@@ -2329,7 +2339,7 @@ Tel: +386 1 235 51 00
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -2343,9 +2353,9 @@ Tel: +421 2 208 33 600
 
 Sanofi S.r.l.
 
-Tel: 800 13 12 12 (domande di tipo tecnico)
+Tel: +
 
-800.536389 (altre domande)
+39 800 536389
 
 ## Suomi/Finland
 
@@ -2357,9 +2367,7 @@ Puh/Tel: +358 (0) 201 200 300
 
 C.A. Papaellinas Ltd.
 
-Τηλ
-
-: +357 22 741741
+Τηλ: +357 22 741741
 
 ## Sverige
 
@@ -2372,12 +2380,6 @@ Tel: +46 (0)8 634 50 00
 Swixx Biopharma SIA
 
 Tel: +371 6 616 47 50
-
-## United Kingdom (Northern Ireland)
-
-sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +44 (0) 800 035 2525
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2408,7 +2410,7 @@ Examples include:
 
 ## Warning symptoms of hyperglycaemia
 
-Thirst, increased need to urinate, tiredness, dry skin, reddening of the face, loss of appetite, low blood pressure, fast heart beat, and glucose and ketone bodies in urine. Stomach pain, fast and deep breathing, sleepiness or even loss of consciousness may be signs of a serious condition (ketoacidosis) resulting from lack of insulin.
+Thirst, increased need to urinate, tiredness, dry skin, reddening of the face, loss of appetite, low blood pressure, fast heartbeat, and glucose and ketone bodies in urine. Stomach pain, fast and deep breathing, sleepiness or even loss of consciousness may be signs of a serious condition (ketoacidosis) resulting from lack of insulin.
 
 ## What should you do if you experience hyperglycaemia?
 
@@ -2445,7 +2447,7 @@ Examples include:
 
 ## - In your body
 
-Examples of symptoms that tell you that your blood sugar level is falling too much or too fast: sweating, clammy skin, anxiety, fast heart beat, high blood pressure, palpitations and irregular heartbeat. These symptoms often develop before the symptoms of a low sugar level in the brain.
+Examples of symptoms that tell you that your blood sugar level is falling too much or too fast: sweating, clammy skin, anxiety, fast heartbeat, high blood pressure, palpitations and irregular heartbeat. These symptoms often develop before the symptoms of a low sugar level in the brain.
 
 ## - In your brain
 
@@ -2475,7 +2477,7 @@ The recovery of hypoglycaemia may be delayed because Lantus has a long action.
 
 Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose. These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -2724,7 +2726,11 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 If you notice signs of you blood sugar being too low (hypoglycaemia), take action to increase your blood sugar level straight away (see the box at the end of this leaflet). Hypoglycaemia (low blood sugar) can be very serious and is very common with insulin treatment (may affect more than 1 in 10 people). Low blood sugar means that there is not enough sugar in your blood. If your blood sugar level falls too low, you may pass out (become unconscious). Serious hypoglycaemia may cause brain damage and may be life-threatening. For more information, see the box at the end of this leaflet.
 
-Severe allergic reactions (rare, may affect up to 1 in 1,000 people) - the signs may include large-scale skin reactions (rash and itching all over the body), severe swelling of skin or mucous membranes (angiooedema), shortness of breath, a fall in blood pressure with rapid heart beat and sweating. Severe allergic reactions to insulins may become life-threatening. Tell a doctor straight away if you notice signs of severe allergic reaction.
+Severe allergic reactions (rare, may affect up to 1 in 1,000 people) - the signs may include large-scale skin reactions (rash and itching all over the body), severe swelling of skin or mucous membranes (angiooedema), shortness of breath, a fall in blood pressure with rapid heartbeat and sweating. Severe allergic reactions to insulins may become life-threatening. Tell a doctor straight away if you notice signs of severe allergic reaction.
+
+## Other side effects
+
+Tell your doctor, pharmacist or nurse if you notice any of the following side effects:
 
 ## · Skin changes at the injection site:
 
@@ -2732,11 +2738,11 @@ If you inject insulin too often at the same place, the skin may either shrink (l
 
 ## Common reported side effects (may affect up to 1 in 10 people)
 
-## · Skin and allergic reactions at the injection site
+- Skin and allergic reactions at the injection site
 
 The signs may include reddening, unusually intense pain when injecting, itching, hives, swelling or inflammation. This can spread around the injection site. Most minor reactions to insulins usually disappear in a few days to a few weeks.
 
-Rare reported side effect (may affect up to 1 in 1,000 people)
+## Rare reported side effect (may affect up to 1 in 1,000 people)
 
 ## · Eye reactions
 
@@ -2758,11 +2764,11 @@ Complaints of injection site reactions (injection site reaction, injection site 
 
 There is no experience in children under 2 years.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Lantus
 
@@ -2791,11 +2797,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Lantus looks like and contents of the pack
 
-Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen is a clear and colourless solution. Each pen contains 3 ml of solution for injection (equivalent to 300 units).
-
-Pack sizes of 1, 3, 4, 5, 6, 8, 9 and 10 pre-filled pens.
-
-Not all pack sizes may be marketed.
+Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen is a clear and colourless solution. Each pen contains 3 ml of solution for injection (equivalent to 300 units). Pack sizes of 1, 3, 4, 5, 6, 8, 9 and 10 pre-filled pens. Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
@@ -2803,49 +2805,31 @@ Sanofi-Aventis Deutschland GmbH, D65926 Frankfurt am Main, Germany.
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
-## België/Belgique/Belgien
+België/Belgique/Belgien Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00
 
-Sanofi Belgium
-
-Tél/Tel: +32 (0)2 710 54 00
-
-## Lietuva
+Lietuva
 
 Swixx Biopharma UAB
 
 Tel: +370 5 236 91 40
 
+<div style=\"page-break-after: always\"></div>
+
 ## България
 
-Swixx Biopharma EOOD
-
-Тел.: +359 (0) 2 4942 480
-
-Luxembourg/Luxemburg
-
-Sanofi Belgium
-
-Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
-
-<div style=\"page-break-after: always\"></div>
+Swixx Biopharma EOOD Тел .: +359 (0) 2 4942 480
 
 ## Česká republika
 
-sanofi-aventis, s.r.o.
-
-Tel: +420 233 086 111
+sanofi-aventis, s.r.o. Tel: +420 233 086 111
 
 ## Danmark
 
-Sanofi A/S
-
-Tlf: +45 45 16 70 00
+Sanofi A/S Tlf: +45 45 16 70 00
 
 ## Deutschland
 
-Sanofi-Aventis Deutschland GmbH Tel.: 0800 52 52 010
-
-Tel. aus dem Ausland: +49 69 305 21 131
+Sanofi-Aventis Deutschland GmbH Tel.: 0800 52 52 010 Tel. aus dem Ausland: +49 69 305 21 131
 
 ## Eesti
 
@@ -2853,13 +2837,11 @@ Swixx Biopharma OÜ Tel: +372 640 10 30
 
 ## Ελλάδα
 
-Sanofi- Aventis Μονοπρόσωπη AEBE Τηλ: +30 210 900 16 00
+SanofiAventis Μονοπρόσωπη AEBE Τηλ: +30 210 900 16 00
 
 ## España
 
-sanofi-aventis, S.A
-
-Tel: +34 93 485 94 00
+sanofi-aventis, S.A Tel: +34 93 485 94 00
 
 ## France
 
@@ -2875,23 +2857,21 @@ sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor ehf. Sími: +354 535 7000
 
 ## Italia
 
-Sanofi S.r.l. Tel: 800 13 12 12 (domande di tipo tecnico) 800.536389 (altre domande)
+Sanofi S.r.l. Tel: +39 800 536389
 
 ## Κύπρος
 
-C.A. Papaellinas Ltd. Τηλ : +357 22 741741
+C.A. Papaellinas Ltd. Τηλ: +357 22 741741
 
-## Latvija
+## Luxembourg/Luxemburg
 
-Swixx Biopharma SIA
+Sanofi Belgium
 
-Tel: +371 6 616 47 50
-
-## This leaflet was last revised in
+Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
 
 ## Magyarország
 
@@ -2903,7 +2883,9 @@ Sanofi S.r.l. Tel: +39 02 39394275
 
 ## Nederland
 
-Sanofi B.V. Tel: +31 20 245 4000
+Sanofi B.V.
+
+Tel: +31 20 245 4000
 
 ## Norge
 
@@ -2923,9 +2905,7 @@ Sanofi - Produtos Farmacêuticos, Lda. Tel: +351 21 35 89 400
 
 ## România
 
-Sanofi Romania SRL
-
-Tel: +40 (0) 21 317 31 36
+Sanofi Romania SRL Tel: +40 (0) 21 317 31 36
 
 ## Slovenija
 
@@ -2937,9 +2917,7 @@ Swixx Biopharma s.r.o. Tel: +421 2 208 33 600
 
 ## Suomi/Finland
 
-Sanofi Oy
-
-Puh/Tel: +358 (0) 201 200 300
+Sanofi Oy Puh/Tel: +358 (0) 201 200 300
 
 ## Sverige
 
@@ -2947,11 +2925,15 @@ Sanofi AB
 
 Tel: +46 (0)8 634 50 00
 
-## United Kingdom (Northern Ireland)
-
-sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +44 (0) 800 035 2525
-
 <div style=\"page-break-after: always\"></div>
+
+## Latvija
+
+Swixx Biopharma SIA
+
+Tel: +371 6 616 47 50
+
+## This leaflet was last revised in
 
 ## Other source of information
 
@@ -2978,7 +2960,7 @@ Examples include:
 
 ## Warning symptoms of hyperglycaemia
 
-Thirst, increased need to urinate, tiredness, dry skin, reddening of the face, loss of appetite, low blood pressure, fast heart beat, and glucose and ketone bodies in urine . Stomach pain, fast and deep breathing, sleepiness or even loss of consciousness may be signs of a serious condition (ketoacidosis) resulting from lack of insulin.
+Thirst, increased need to urinate, tiredness, dry skin, reddening of the face, loss of appetite, low blood pressure, fast heartbeat, and glucose and ketone bodies in urine . Stomach pain, fast and deep breathing, sleepiness or even loss of consciousness may be signs of a serious condition (ketoacidosis) resulting from lack of insulin.
 
 ## What should you do if you experience hyperglycaemia?
 
@@ -3015,7 +2997,7 @@ Examples include:
 
 ## - In your body
 
-Examples of symptoms that tell you that your blood sugar level is falling too much or too fast: sweating, clammy skin, anxiety, fast heart beat, high blood pressure, palpitations and irregular heartbeat. These symptoms often develop before the symptoms of a low sugar level in the brain.
+Examples of symptoms that tell you that your blood sugar level is falling too much or too fast: sweating, clammy skin, anxiety, fast heartbeat, high blood pressure, palpitations and irregular heartbeat. These symptoms often develop before the symptoms of a low sugar level in the brain.
 
 ## - In your brain
 
@@ -3045,7 +3027,7 @@ The recovery of hypoglycaemia may be delayed because Lantus has a long action.
 
 Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose. These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 

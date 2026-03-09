@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-04-24 15:52:23
+document_datetime: 2026-03-05 15:20:24
 document_pages: 72
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/apidra-epar-product-information_en.pdf
 document_name: apidra-epar-product-information_en.pdf
 version: success
-processing_time: 14.9111563
-conversion_datetime: 2025-12-25 02:17:43.835038
+processing_time: 17.2543327
+conversion_datetime: 2026-03-09 14:10:49.527375
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.77.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -30,9 +30,7 @@ Apidra 100 Units/ml solution for injection in a vial Apidra 100 Units/ml solutio
 
 Each ml contains 100 Units insulin glulisine (equivalent to 3.49 mg).
 
-Apidra 100 Units/ml solution for injection in a vial
-
-Each vial contains 10 ml of solution for injection, equivalent to 1000 Units.
+Apidra 100 Units/ml solution for injection in a vial Each vial contains 10 ml of solution for injection, equivalent to 1000 Units.
 
 Apidra 100 Units/ml solution for injection in a cartridge
 
@@ -174,9 +172,7 @@ Insulin requirements may be altered during illness or emotional disturbances.
 
 Pens to be used with Apidra 100 units/ml solution for injection in a cartridge
 
-Apidra 100 units/ml in cartridges is only suitable for subcutaneous injections from a reusable pen. If administration by syringe, intravenous injection or infusion pump is necessary, a vial should be used.
-
-The Apidra cartridges should only be used with the following pens:
+Apidra 100 units/ml in cartridges is only suitable for subcutaneous injections from a reusable pen. If administration by syringe, intravenous injection or infusion pump is necessary, a vial should be used. The Apidra cartridges should only be used with the following pens:
 
 - -JuniorSTAR which delivers Apidra in 0.5 unit dose increments
 - -ClikSTAR, Tactipen, Autopen 24, AllStar and AllStar PRO which all deliver Apidra in 1 unit dose increments.
@@ -191,7 +187,7 @@ Medication errors have been reported in which other insulins, particularly long-
 
 ## Apidra 100 Units/ml solution for injection in a vial
 
-Continuous subcutaneous insulin infusion
+## Continuous subcutaneous insulin infusion
 
 Malfunction of the insulin pump or infusion set or handling errors can rapidly lead to hyperglycaemia, ketosis and diabetic ketoacidosis. Prompt identification and correction of the cause of hyperglycaemia or ketosis or diabetic ketoacidosis is necessary.
 
@@ -263,11 +259,11 @@ Hypoglycaemia, the most frequent adverse reaction of insulin therapy, may occur 
 
 ## Tabulated list of adverse reactions
 
-The following related adverse reactions from clinical studies were listed below by system organ class and in order of decreasing incidence (very common:  1/10; common:  1/100 to &lt;1/10; uncommon:
+The following related adverse reactions from clinical studies were listed below by system organ class and in order of decreasing incidence (very common: ≥ 1/10; common: ≥ 1/100 to &lt;1/10; uncommon:
 
 <div style=\"page-break-after: always\"></div>
 
- 1/1,000 to &lt;1/100; rare:  1/10,000 to &lt;1/1,000; very rare: &lt;1/10,000), not known (cannot be estimated from the available data).
+≥ 1/1,000 to &lt;1/100; rare: ≥ 1/10,000 to &lt;1/1,000; very rare: &lt;1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -315,9 +311,11 @@ There are no specific data available concerning overdoses with insulin glulisine
 
 Mild hypoglycaemic episodes can be treated by oral administration of glucose or sugary products. It is therefore recommended that the diabetic patient constantly carries some sugar lumps, sweets, biscuits or sugary fruit juice.
 
-Severe hypoglycaemic episodes, where the patient has become unconscious, can be treated by glucagon (0.5 mg to 1 mg) given intramuscularly or subcutaneously by a person who has received appropriate instruction, or by glucose given intravenously by a healthcare professional. Glucose must also be given intravenously, if the patient does not respond to glucagon within 10 to 15 minutes. Upon regaining consciousness, administration of oral carbohydrate is recommended for the patient in order to prevent relapse.
+Severe hypoglycaemic episodes, where the patient has become unconscious, can be treated by glucagon or by glucose given intravenously by a healthcare professional. Glucose must also be given intravenously, if the patient does not respond to glucagon within 10 to 15 minutes.
 
-After an injection of glucagon, the patient should be monitored in a hospital in order to find the reason for this severe hypoglycaemia and prevent other similar episodes.
+Upon regaining consciousness, administration of oral carbohydrate is recommended for the patient in order to prevent relapse.
+
+After treatment with glucagon, the patient should be monitored in a hospital in order to find the reason for this severe hypoglycaemia and prevent other similar episodes.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -469,7 +467,7 @@ Apidra was found to be incompatible with Glucose 5% solution and Ringer's soluti
 
 ## Apidra 100 Units/ml solution for injection in a vial
 
-## Shelf life after first use of the vial
+Shelf life after first use of the vial
 
 The product may be stored for a maximum of 4 weeks below 25°C away from direct heat or direct light. Keep the vial in the outer carton in order to protect from light.
 
@@ -491,7 +489,7 @@ The pen cap must be put back on the pen after each injection in order to protect
 
 ## Apidra SoloStar 100 Units/ml solution for injection in a pre-filled pen
 
-Shelf life after first use of the pen
+## Shelf life after first use of the pen
 
 The product may be stored for a maximum of 4 weeks below 25°C away from direct heat or direct light. Pens in use must not be stored in the refrigerator. The pen cap must be put back on the pen after each injection in order to protect from light.
 
@@ -513,15 +511,7 @@ Keep the vial in the outer carton in order to protect from light.
 
 For storage conditions after first opening of the medicinal product, see section 6.3.
 
-## Apidra 100 Units/ml solution for injection in a cartridge
-
-Unopened cartridges
-
-Store in a refrigerator (2°C - 8°C).
-
-Do not freeze.
-
-Do not put Apidra next to the freezer compartment or a freezer pack.
+Apidra 100 Units/ml solution for injection in a cartridge Unopened cartridges Store in a refrigerator (2°C - 8°C). Do not freeze. Do not put Apidra next to the freezer compartment or a freezer pack.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -531,7 +521,9 @@ Keep the cartridge in the outer carton in order to protect from light.
 
 For storage conditions after first opening of the medicinal product, see section 6.3.
 
-Apidra SoloStar 100 Units/ml solution for injection in a pre-filled pen Not in-use pens Store in a refrigerator (2°C-8°C). Do not freeze.
+Apidra SoloStar 100 Units/ml solution for injection in a pre-filled pen
+
+Not in-use pens Store in a refrigerator (2°C-8°C). Do not freeze.
 
 Do not put Apidra next to the freezer compartment or a freezer pack.
 
@@ -658,15 +650,15 @@ A new sterile needle will be always used for each injection. After removing the 
 
 Prior to each injection a safety test has to be performed to ensure that pen and needle work properly and to remove air bubbles.
 
-A dose of 2 units has to be selected.
+## A dose of 2 units has to be selected.
 
 The outer and inner needle caps should be removed.
 
 While holding the pen with the needle pointing upwards, the insulin reservoir should be tapped gently with the finger so that any air bubbles rise up towards the needle.
 
-<div style=\"page-break-after: always\"></div>
-
 Then the injection button should be pressed in completely.
+
+<div style=\"page-break-after: always\"></div>
 
 If insulin has been expelled through the needle tip, then the pen and the needle are working properly. If no insulin appears at the needle tip, step 3 should be repeated until insulin appears at the needle tip.
 
@@ -704,19 +696,17 @@ Apidra 100 Units/ml solution for injection in a cartridge EU/1/04/285/005-012
 
 Apidra SoloStar 100 Units/ml solution for injection in a pre-filled pen EU/1/04/285/029-036
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 27 September 2004
 
 Date of latest renewal: 20 August 2009
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this product is available on the website of the European Medicines Agency http://www.ema.europa.eu/
-
-18
 
 <div style=\"page-break-after: always\"></div>
 
@@ -882,12 +872,13 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
+|------------------------------------------------------------|
+| LABEL (10 ml vial)                                         |
 
-LABEL (10 ml vial)
+1.
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Apidra 100 Units/ml solution for injection Insulin glulisine
 
@@ -918,7 +909,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON (cartridge)
+## OUTER CARTON (cartridge)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1040,8 +1031,8 @@ Apidra
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC: SN: NN:
 
@@ -1075,7 +1066,8 @@ Lot
 
 3 ml
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1189,16 +1181,16 @@ Apidra SoloStar
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC: SN: NN:
 
+32
+
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PEN LABEL (pre-filled pen SoloStar)                              |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PEN LABEL (pre-filled pen SoloStar)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1496,7 +1488,9 @@ Hypoglycaemia (low blood sugar) can be very serious . Hypoglycaemia is a very co
 
 Systemic allergic reactions are side effects reported uncommonly (may affect up to 1 in 100 people) Generalised allergy to insulin : Associated symptoms may include large-scale skin reactions (rash and itching all over the body), severe swelling of skin or mucous membranes (angioedema), shortness of breath, a fall in blood pressure with rapid heartbeat and sweating. These could be symptoms of severe cases of generalised allergy to insulin, including anaphylactic reaction, which may be life-threatening.
 
-Hyperglycaemia (high blood sugar) means that there is too much sugar in the blood. The frequency of hyperglycaemia cannot be estimated. If your blood sugar level is too high, this tells you that you may need more insulin than you have injected.
+## Hyperglycaemia (high blood sugar) means that there is too much sugar in the blood. The
+
+frequency of hyperglycaemia cannot be estimated. If your blood sugar level is too high, this tells you that you may need more insulin than you have injected.
 
 Hyperglycaemia can cause diabetic ketoacidosis (build-up of acid in the blood because the body is breaking down fat instead of sugar) .
 
@@ -1514,6 +1508,8 @@ For more information on signs and symptoms of hyperglycaemia refer to the box at
 
 ## Other side effects
 
+Tell your doctor, pharmacist or nurse if you notice any of the following side effects:
+
 - Skin changes at the injection site:
 
 If you inject insulin too often at the same place, the fatty tissue may either shrink (lipoatrophy) or thicken (lipohypertrophy) ( may affect up to 1 in 1,000 people ). Lumps under the skin may also be caused by build-up of a protein called amyloid (cutaneous amyloidosis; how often this occurs is not known). The insulin may not work very well if you inject into a lumpy area. Change the injection site with each injection to help prevent these skin changes.
@@ -1522,7 +1518,7 @@ If you inject insulin too often at the same place, the fatty tissue may either s
 
 ## Common reported side effects (may affect up to 1 in 10 people)
 
-- •
+- ·
 - Skin and allergic reactions at the injection site
 
 Reactions at the injection site may occur (such as reddening, unusually intense pain on injection, itching, hives, swelling or inflammation). They can also spread around the injection site. Most minor reactions to insulins usually resolve in a few days to a few weeks.
@@ -1543,7 +1539,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date, which is stated on the carton and on the label of the vial after 'EXP'. The expiry date refers to the last day of that month.
 
-Unopened vials Store in a refrigerator (2°C - -8°C). Do not freeze. Do not put Apidra next to the freezer compartment or a freezer pack. Keep the vial in the outer carton in order to protect from light.
+Unopened vials Store in a refrigerator (2°C-8°C). Do not freeze. Do not put Apidra next to the freezer compartment or a freezer pack. Keep the vial in the outer carton in order to protect from light.
 
 ## Opened vials
 
@@ -1580,9 +1576,23 @@ For any information about this medicine, please contact the local representative
 
 Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00
 
+## Lietuva
+
+Swixx Biopharma UAB
+
+Tel: +370 5 236 91 40
+
 ## България
 
-Swixx Biopharma EOOD Тел.: +359 (0)2 4942 480
+Swixx Biopharma EOOD
+
+Тел.: +359 (0)2 4942 480
+
+## Luxembourg/Luxemburg
+
+Sanofi Belgium
+
+Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
 
 ## Česká republika
 
@@ -1590,11 +1600,23 @@ Sanofi s.r.o.
 
 Tel: +420 233 086 111
 
+## Magyarország
+
+SANOFI-AVENTIS Zrt.
+
+Tel.: +36 1 505 0050
+
 ## Danmark
 
 Sanofi A/S
 
 Tlf: +45 45 16 70 00
+
+## Malta
+
+Sanofi S.r.l.
+
+Tel: +39 02 39394275
 
 ## Deutschland
 
@@ -1604,53 +1626,17 @@ Tel.: 0800 52 52 010
 
 Tel. aus dem Ausland: +49 69 305 21 131
 
-## Eesti
-
-Swixx Biopharma OÜ
-
-Tel: +372 640 10 30
-
-## Ελλάδα
-
-Sanofi-Aventis Μονοπρόσωπη AEBE
-
-Τηλ: +30 210 900 16 00
-
-## España
-
-sanofi-aventis, S.A.
-
-Tel: +34 93 485 94 00
-
-## Lietuva
-
-Swixx Biopharma UAB
-
-Tel: +370 5 236 91 40
-
-## Luxembourg/Luxemburg
-
-Sanofi Belgium
-
-Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
-
-## Magyarország
-
-SANOFI-AVENTIS Zrt.
-
-Tel.: +36 1 505 0050
-
-## Malta
-
-Sanofi S.r.l.
-
-Tel: +39 02 39394275
-
 ## Nederland
 
 Sanofi B.V.
 
 Tel: +31 20 245 4000
+
+## Eesti
+
+Swixx Biopharma OÜ
+
+Tel: +372 640 10 30
 
 ## Norge
 
@@ -1658,11 +1644,23 @@ sanofi-aventis Norge AS
 
 Tlf: +47 67 10 71 00
 
+## Ελλάδα
+
+Sanofi-Aventis Μονοπρόσωπη AEBE
+
+Τηλ: +30 210 900 16 00
+
 ## Österreich
 
 sanofi-aventis GmbH
 
 Tel: +43 1 80 185 - 0
+
+## España
+
+sanofi-aventis, S.A.
+
+Tel: +34 93 485 94 00
 
 ## Polska
 
@@ -1694,7 +1692,7 @@ Tel: +353 (0) 1 403 56 00
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -1702,9 +1700,7 @@ Sími: +354 535 7000
 
 Sanofi S.r.l.
 
-Tel: 800 13 12 12 (domande di tipo tecnico)
-
-800 536389 (altre domande)
+Tel: +39 800 536389
 
 ## Κύπρος
 
@@ -1759,10 +1755,6 @@ Puh/Tel: +358 (0) 201 200 300
 Sanofi AB
 
 Tel: +46 (0)8 634 50 00
-
-## United Kingdom (Northern Ireland)
-
-Sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +44 (0) 800 035 2525
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1847,7 +1839,7 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 
 Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose. These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -2081,7 +2073,7 @@ Look at the cartridge before you use it. Only use it if the solution is clear, c
 
 Do not shake or mix it before use.
 
-After inserting a new cartridge:
+## After inserting a new cartridge:
 
 You must check that your insulin pen is working properly before you inject the first dose (see instructions for using the pen).
 
@@ -2137,18 +2129,21 @@ For more information on signs and symptoms of hyperglycaemia refer to the box at
 
 ## Other side effects
 
+Tell your doctor, pharmacist or nurse if you notice any of the following side effects:
+
+- ·
 - Skin changes at the injection site:
 
 If you inject insulin too often at the same place, the fatty tissue may either shrink (lipoatrophy) or thicken (lipohypertrophy) ( may affect up to 1 in 1,000 people ). Lumps under the skin may also be caused by build-up of a protein called amyloid (cutaneous amyloidosis; how often this occurs is not known). The insulin may not work very well if you inject into a lumpy area. Change the injection site with each injection to help prevent these skin changes.
 
 ## Common reported side effects (may affect up to 1 in 10 people)
 
-- •
+- ·
 - Skin and allergic reactions at the injection site
 
 Reactions at the injection site may occur (such as reddening, unusually intense pain on injection, itching, hives, swelling or inflammation). They can also spread around the injection site. Most minor reactions to insulins usually resolve in a few days to a few weeks.
 
-## Side effects where the frequency cannot be estimated from the available data
+Side effects where the frequency cannot be estimated from the available data
 
 - Eye reactions
 
@@ -2207,7 +2202,9 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00
+Sanofi Belgium
+
+Tél/Tel: +32 (0)2 710 54 00
 
 ## България
 
@@ -2219,9 +2216,7 @@ Sanofi s.r.o. Tel: +420 233 086 111
 
 ## Danmark
 
-Sanofi A/S
-
-Tlf: +45 45 16 70 00
+Sanofi A/S Tlf: +45 45 16 70 00
 
 ## Deutschland
 
@@ -2253,23 +2248,19 @@ sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor ehf.
 
-## Italia
-
-Tel: 800 13 12 12 (domande di tipo tecnico)
-
-Sanofi S.r.l. 800 536389 (altre domande)
+Sími: +354 535 7000
 
 ## Lietuva
 
-Swixx Biopharma UAB
-
-Tel: +370 5 236 91 40
+Swixx Biopharma UAB Tel: +370 5 236 91 40
 
 ## Luxembourg/Luxemburg
 
-Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+Sanofi Belgium
+
+Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
 
 ## Magyarország
 
@@ -2281,9 +2272,7 @@ Sanofi S.r.l. Tel: +39 02 39394275
 
 ## Nederland
 
-Sanofi B.V.
-
-Tel: +31 20 245 4000
+Sanofi B.V. Tel: +31 20 245 4000
 
 ## Norge
 
@@ -2313,9 +2302,13 @@ Swixx Biopharma d.o.o Tel: +386 1 235 51 00
 
 Swixx Biopharma s.r.o. Tel: +421 2 208 33 600
 
-## Suomi/Finland
+<div style=\"page-break-after: always\"></div>
 
-Sanofi Oy Puh/Tel: +358 (0) 201 200 300
+## Italia
+
+Sanofi S.r.l.
+
+Tel: +39 800 536389
 
 ## Κύπρος
 
@@ -2323,31 +2316,29 @@ C.A. Papaellinas Ltd.
 
 Τηλ: +357 22 741741
 
-## Sverige
-
-Sanofi AB
-
-Tel: +46 (0)8 634 50 00
-
 ## Latvija
 
 Swixx Biopharma SIA
 
 Tel: +371 6616 47 50
 
-## United Kingdom (Northern Ireland)
-
-Sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +44 (0) 800 035 2525
-
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 ## Other source of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/
+
+## Suomi/Finland
+
+Sanofi Oy
+
+Puh/Tel: +358 (0) 201 200 300
+
+## Sverige
+
+Sanofi AB
+
+Tel: +46 (0)8 634 50 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2432,13 +2423,13 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 
 Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose. These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Apidra SoloStar 100 Units/ml solution for injection in a pre-filled pen Insulin glulisine
 
@@ -2533,7 +2524,7 @@ Medicines that may cause your blood sugar level to fall (hypoglycaemia) include:
 - -pentoxifylline, propoxyphene, salicylates (such as aspirin, used to relieve pain and lower fever),
 - -sulphonamide antibiotics.
 
-Medicines that may cause your blood sugar level to rise (hyperglycaemia) include:
+## Medicines that may cause your blood sugar level to rise (hyperglycaemia) include:
 
 - -corticosteroids (such as \"cortisone\" used to treat inflammation),
 - -danazol (medicine acting on ovulation),
@@ -2689,21 +2680,20 @@ For more information on signs and symptoms of hyperglycaemia refer to the box at
 
 Tell your doctor, pharmacist or nurse if you notice any of the following side effects:
 
-- •
-- Skin changes at the injection site:
+## · Skin changes at the injection site: build-up of a protein called amyloid (cutaneous amyloidosis; how often this occurs is not known). The
 
-If you inject insulin too often at the same place, the fatty may either shrink (lipoatrophy) or thicken (lipohypertrophy) ( may affect up to 1 in 1,000 people ). Lumps under the skin may also be caused by build-up of a protein called amyloid (cutaneous amyloidosis; how often this occurs is not known). The insulin may not work very well if you inject into a lumpy area. Change the injection site with each injection to help prevent these skin changes.
+If you inject insulin too often at the same place, the fatty may either shrink (lipoatrophy) or thicken (lipohypertrophy) ( may affect up to 1 in 1,000 people ). Lumps under the skin may also be caused by insulin may not work very well if you inject into a lumpy area. Change the injection site with each injection to help prevent these skin changes.
 
 ## Common reported side effects (may affect up to 1 in 10 people)
 
-- •
+- ·
 - Skin and allergic reactions at the injection site
 
 Reactions at the injection site may occur (such as reddening, unusually intense pain on injection, itching, hives, swelling or inflammation). They can also spread around the injection site. Most minor reactions to insulins usually resolve in a few days to a few weeks.
 
 Side effects where the frequency cannot be estimated from the available data
 
-- Eye reactions
+## · Eye reactions
 
 A marked change (improvement or worsening) in your blood sugar control can disturb your vision temporarily. If you have proliferative retinopathy (an eye disease related to diabetes) severe hypoglycaemic attacks may cause temporary loss of vision.
 
@@ -2818,7 +2808,9 @@ Tel: +372 640 10 30
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE Τηλ: +30 210 900 16 00
+Sanofi-Aventis Μονοπρόσωπη AEBE
+
+Τηλ: +30 210 900 16 00
 
 ## España
 
@@ -2834,7 +2826,7 @@ Tél: 0 800 222 555
 
 Appel depuis l'étranger : +33 1 57 63 23 23
 
-Hrvatska
+## Hrvatska
 
 Swixx Biopharma d.o.o.
 
@@ -2842,11 +2834,13 @@ Tel: +385 1 2078 500
 
 ## Ireland
 
-sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
+sanofi-aventis Ireland Ltd. T/A SANOFI
+
+Tel: +353 (0) 1 403 56 00
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -2854,9 +2848,7 @@ Sími: +354 535 7000
 
 Sanofi S.r.l.
 
-Tel: 800 13 12 12 (domande di tipo tecnico)
-
-800 536389 (altre domande)
+Tel: +39 800 536389
 
 ## Κύπρος
 
@@ -2884,11 +2876,15 @@ Tel: +31 20 245 4000
 
 ## Norge
 
-sanofi-aventis Norge AS Tlf: +47 67 10 71 00
+sanofi-aventis Norge AS
+
+Tlf: +47 67 10 71 00
 
 ## Österreich
 
-sanofi-aventis GmbH Tel: +43 1 80 185 - 0
+sanofi-aventis GmbH
+
+Tel: +43 1 80 185 - 0
 
 ## Polska
 
@@ -2898,19 +2894,27 @@ Tel.: +48 22 280 00 00
 
 ## Portugal
 
-Sanofi - Produtos Farmacêuticos, Lda. Tel: +351 21 35 89 400
+Sanofi - Produtos Farmacêuticos, Lda.
+
+Tel: +351 21 35 89 400
 
 ## România
 
-Sanofi Romania SRL Tel: +40 (0) 21 317 31 36
+Sanofi Romania SRL
+
+Tel: +40 (0) 21 317 31 36
 
 ## Slovenija
 
-Swixx Biopharma d.o.o Tel: +386 1 235 51 00
+Swixx Biopharma d.o.o
+
+Tel: +386 1 235 51 00
 
 ## Slovenská republika
 
-Swixx Biopharma s.r.o. Tel: +421 2 208 33 600
+Swixx Biopharma s.r.o.
+
+Tel: +421 2 208 33 600
 
 ## Suomi/Finland
 
@@ -2920,13 +2924,9 @@ Puh/Tel: +358 (0) 201 200 300
 
 ## Sverige
 
-Sanofi AB Tel: +46 (0)8 634 50 00
+Sanofi AB
 
-## United Kingdom (Northern Ireland)
-
-Sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +44 (0) 800 035 2525
+Tel: +46 (0)8 634 50 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3012,7 +3012,7 @@ In such a case, you may develop severe hypoglycaemia (and even faint) before you
 
 Tell your relatives, friends and close colleagues the following:
 
-If you are not able to swallow or if you are unconscious, you will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections are justified even if it is not certain that you have hypoglycaemia.
+If you are not able to swallow or if you are unconscious, you will require glucagon (a medicine which increases blood sugar) or an injection of glucose. These treatments are justified even if it is not certain that you have hypoglycaemia.
 
 It is advisable to test your blood sugar immediately after taking glucose to check that you really have hypoglycaemia.
 
@@ -3030,11 +3030,9 @@ You can set doses from 1 to 80 units in steps of 1 unit. Each pen contains multi
 
 If you have any questions about SoloStar or about diabetes, ask your doctor, pharmacist or nurse or call the local sanofi-aventis number on the front of this leaflet.
 
-<!-- image -->
-
-r
-
 Schematic diagram of the pen
+
+<!-- image -->
 
 ## Important information for use of SoloStar:
 

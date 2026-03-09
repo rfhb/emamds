@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 09:23:32
+document_datetime: 2026-03-06 13:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tyruko.html
 document_name: tyruko.html
 version: success
-processing_time: 0.1061354
-conversion_datetime: 2025-12-30 09:27:29.676201
+processing_time: 0.0973824
+conversion_datetime: 2026-03-09 13:12:41.431
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.77.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Tyruko
 
 [RSS](/en/individual-human-medicine.xml/67716)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 natalizumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -123,7 +121,7 @@ English (EN) (135.61 KB - PDF)
 
 [View](/en/documents/overview/tyruko-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-548)
+[Other languages (22)](#file-language-dropdown-585)
 
 български (BG) (149.78 KB - PDF)
 
@@ -301,29 +299,31 @@ svenska (SV) (134.19 KB - PDF)
 
 [View](/sv/documents/overview/tyruko-epar-medicine-overview_sv.pdf)
 
-Tyruko : EPAR - Risk management plan summary
+Tyruko : EPAR - Risk management plan
 
-English (EN) (79.36 KB - PDF)
+English (EN) (701.28 KB - PDF)
 
 **First published:** 28/09/2023
 
-[View](/en/documents/rmp-summary/tyruko-epar-risk-management-plan-summary_en.pdf)
+**Last updated:** 06/03/2026
+
+[View](/en/documents/rmp/tyruko-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
 Tyruko : EPAR - Product information
 
-English (EN) (258.62 KB - PDF)
+English (EN) (3.86 MB - PDF)
 
 **First published:** 28/09/2023
 
-**Last updated:** 19/08/2025
+**Last updated:** 06/03/2026
 
 [View](/en/documents/product-information/tyruko-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-725)
+[Other languages (24)](#file-language-dropdown-151)
 
-български (BG) (611.62 KB - PDF)
+български (BG) (5.34 MB - PDF)
 
 **First published:**
 
@@ -331,11 +331,11 @@ English (EN) (258.62 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/bg/documents/product-information/tyruko-epar-product-information_bg.pdf)
 
-español (ES) (505.24 KB - PDF)
+español (ES) (3.9 MB - PDF)
 
 **First published:**
 
@@ -343,11 +343,11 @@ español (ES) (505.24 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/es/documents/product-information/tyruko-epar-product-information_es.pdf)
 
-čeština (CS) (530.34 KB - PDF)
+čeština (CS) (3.92 MB - PDF)
 
 **First published:**
 
@@ -355,11 +355,11 @@ español (ES) (505.24 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/cs/documents/product-information/tyruko-epar-product-information_cs.pdf)
 
-dansk (DA) (482.71 KB - PDF)
+dansk (DA) (3.39 MB - PDF)
 
 **First published:**
 
@@ -367,11 +367,11 @@ dansk (DA) (482.71 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/da/documents/product-information/tyruko-epar-product-information_da.pdf)
 
-Deutsch (DE) (566.1 KB - PDF)
+Deutsch (DE) (4.01 MB - PDF)
 
 **First published:**
 
@@ -379,11 +379,11 @@ Deutsch (DE) (566.1 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/de/documents/product-information/tyruko-epar-product-information_de.pdf)
 
-eesti keel (ET) (506.42 KB - PDF)
+eesti keel (ET) (4.36 MB - PDF)
 
 **First published:**
 
@@ -391,11 +391,11 @@ eesti keel (ET) (506.42 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/et/documents/product-information/tyruko-epar-product-information_et.pdf)
 
-ελληνικά (EL) (574.65 KB - PDF)
+ελληνικά (EL) (3.57 MB - PDF)
 
 **First published:**
 
@@ -403,11 +403,11 @@ eesti keel (ET) (506.42 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/el/documents/product-information/tyruko-epar-product-information_el.pdf)
 
-français (FR) (630.45 KB - PDF)
+français (FR) (6.45 MB - PDF)
 
 **First published:**
 
@@ -415,11 +415,11 @@ français (FR) (630.45 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/fr/documents/product-information/tyruko-epar-product-information_fr.pdf)
 
-hrvatski (HR) (606.22 KB - PDF)
+hrvatski (HR) (4.98 MB - PDF)
 
 **First published:**
 
@@ -427,11 +427,11 @@ hrvatski (HR) (606.22 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/hr/documents/product-information/tyruko-epar-product-information_hr.pdf)
 
-íslenska (IS) (499.81 KB - PDF)
+íslenska (IS) (3.91 MB - PDF)
 
 **First published:**
 
@@ -439,11 +439,11 @@ hrvatski (HR) (606.22 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/is/documents/product-information/tyruko-epar-product-information_is.pdf)
 
-italiano (IT) (512.38 KB - PDF)
+italiano (IT) (4.39 MB - PDF)
 
 **First published:**
 
@@ -451,11 +451,11 @@ italiano (IT) (512.38 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/it/documents/product-information/tyruko-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (557.81 KB - PDF)
+latviešu valoda (LV) (4.7 MB - PDF)
 
 **First published:**
 
@@ -463,11 +463,11 @@ latviešu valoda (LV) (557.81 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/lv/documents/product-information/tyruko-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (603.01 KB - PDF)
+lietuvių kalba (LT) (4.83 MB - PDF)
 
 **First published:**
 
@@ -475,11 +475,11 @@ lietuvių kalba (LT) (603.01 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/lt/documents/product-information/tyruko-epar-product-information_lt.pdf)
 
-magyar (HU) (600.62 KB - PDF)
+magyar (HU) (4.51 MB - PDF)
 
 **First published:**
 
@@ -487,11 +487,11 @@ magyar (HU) (600.62 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/hu/documents/product-information/tyruko-epar-product-information_hu.pdf)
 
-Malti (MT) (624.94 KB - PDF)
+Malti (MT) (5.08 MB - PDF)
 
 **First published:**
 
@@ -499,11 +499,11 @@ Malti (MT) (624.94 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/mt/documents/product-information/tyruko-epar-product-information_mt.pdf)
 
-Nederlands (NL) (513.66 KB - PDF)
+Nederlands (NL) (4.34 MB - PDF)
 
 **First published:**
 
@@ -511,11 +511,11 @@ Nederlands (NL) (513.66 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/nl/documents/product-information/tyruko-epar-product-information_nl.pdf)
 
-norsk (NO) (527.21 KB - PDF)
+norsk (NO) (511.62 KB - PDF)
 
 **First published:**
 
@@ -523,11 +523,11 @@ norsk (NO) (527.21 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/no/documents/product-information/tyruko-epar-product-information_no.pdf)
 
-polski (PL) (658.02 KB - PDF)
+polski (PL) (5.44 MB - PDF)
 
 **First published:**
 
@@ -535,11 +535,11 @@ polski (PL) (658.02 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/pl/documents/product-information/tyruko-epar-product-information_pl.pdf)
 
-português (PT) (509.71 KB - PDF)
+português (PT) (3.39 MB - PDF)
 
 **First published:**
 
@@ -547,11 +547,11 @@ português (PT) (509.71 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/pt/documents/product-information/tyruko-epar-product-information_pt.pdf)
 
-română (RO) (565.58 KB - PDF)
+română (RO) (3.93 MB - PDF)
 
 **First published:**
 
@@ -559,11 +559,11 @@ română (RO) (565.58 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/ro/documents/product-information/tyruko-epar-product-information_ro.pdf)
 
-slovenčina (SK) (566.35 KB - PDF)
+slovenčina (SK) (4.44 MB - PDF)
 
 **First published:**
 
@@ -571,11 +571,11 @@ slovenčina (SK) (566.35 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/sk/documents/product-information/tyruko-epar-product-information_sk.pdf)
 
-slovenščina (SL) (629.61 KB - PDF)
+slovenščina (SL) (4.97 MB - PDF)
 
 **First published:**
 
@@ -583,11 +583,11 @@ slovenščina (SL) (629.61 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/sl/documents/product-information/tyruko-epar-product-information_sl.pdf)
 
-Suomi (FI) (555.87 KB - PDF)
+Suomi (FI) (5.24 MB - PDF)
 
 **First published:**
 
@@ -595,11 +595,11 @@ Suomi (FI) (555.87 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/fi/documents/product-information/tyruko-epar-product-information_fi.pdf)
 
-svenska (SV) (549.88 KB - PDF)
+svenska (SV) (4.86 MB - PDF)
 
 **First published:**
 
@@ -607,11 +607,11 @@ svenska (SV) (549.88 KB - PDF)
 
 **Last updated:**
 
-19/08/2025
+06/03/2026
 
 [View](/sv/documents/product-information/tyruko-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** EMA/VR/0000275507 18/08/2025
+**Latest procedure affecting product information:** VR/0000323162 02/03/2026
 
 icon globe
 
@@ -635,7 +635,7 @@ English (EN) (38.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tyruko-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-763)
+[Other languages (24)](#file-language-dropdown-822)
 
 български (BG) (59.8 KB - PDF)
 
@@ -866,7 +866,7 @@ Sandoz GmbH
 
 Biochemiestrasse 10 6250 Kundl Austria
 
-Opinion adopted 20/07/2023 Marketing authorisation issued 22/09/2023 Revision 2
+Opinion adopted 20/07/2023 Marketing authorisation issued 22/09/2023 Revision 3
 
 ## Assessment history
 
@@ -878,13 +878,21 @@ Collapse section
 
 Tyruko : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (162.36 KB - PDF)
+
+**First published:** 06/03/2026
+
+[View](/en/documents/procedural-steps-after/tyruko-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Tyruko : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (108.74 KB - PDF)
 
 **First published:** 24/11/2023
 
-**Last updated:** 22/01/2025
+**Last updated:** 06/03/2026
 
-[View](/en/documents/procedural-steps-after/tyruko-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/tyruko-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -912,11 +920,11 @@ English (EN) (146.23 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-tyruko_en.pdf)
 
-#### News on Tyruko
+## News on Tyruko
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2023) 21/07/2023
 
-**This page was last updated on** 19/08/2025
+**This page was last updated on** 06/03/2026
 
 ## Share this page
 

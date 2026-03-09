@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:46:31
+document_datetime: 2026-03-05 15:48:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/apidra.html
 document_name: apidra.html
 version: success
-processing_time: 0.1160867
-conversion_datetime: 2025-12-30 08:19:25.133943
+processing_time: 0.1031187
+conversion_datetime: 2026-03-09 13:14:36.908459
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.77.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Apidra
 
 [RSS](/en/individual-human-medicine.xml/66395)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 insulin glulisine Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +115,7 @@ English (EN) (47.82 KB - PDF)
 
 [View](/en/documents/overview/apidra-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-622)
+[Other languages (21)](#file-language-dropdown-792)
 
 български (BG) (180.74 KB - PDF)
 
@@ -375,17 +373,17 @@ svenska (SV) (91.33 KB - PDF)
 
 Apidra : EPAR - Product Information
 
-English (EN) (603.63 KB - PDF)
+English (EN) (834.94 KB - PDF)
 
 **First published:** 14/09/2009
 
-**Last updated:** 24/04/2025
+**Last updated:** 05/03/2026
 
 [View](/en/documents/product-information/apidra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-499)
+[Other languages (24)](#file-language-dropdown-248)
 
-български (BG) (1.47 MB - PDF)
+български (BG) (880.71 KB - PDF)
 
 **First published:**
 
@@ -393,11 +391,11 @@ English (EN) (603.63 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/bg/documents/product-information/apidra-epar-product-information_bg.pdf)
 
-español (ES) (1.47 MB - PDF)
+español (ES) (1.15 MB - PDF)
 
 **First published:**
 
@@ -405,11 +403,11 @@ español (ES) (1.47 MB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/es/documents/product-information/apidra-epar-product-information_es.pdf)
 
-čeština (CS) (852.85 KB - PDF)
+čeština (CS) (2.25 MB - PDF)
 
 **First published:**
 
@@ -417,11 +415,11 @@ español (ES) (1.47 MB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/cs/documents/product-information/apidra-epar-product-information_cs.pdf)
 
-dansk (DA) (787.58 KB - PDF)
+dansk (DA) (864.55 KB - PDF)
 
 **First published:**
 
@@ -429,7 +427,7 @@ dansk (DA) (787.58 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/da/documents/product-information/apidra-epar-product-information_da.pdf)
 
@@ -441,11 +439,11 @@ Deutsch (DE) (1.37 MB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/de/documents/product-information/apidra-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.28 MB - PDF)
+eesti keel (ET) (1.11 MB - PDF)
 
 **First published:**
 
@@ -453,11 +451,11 @@ eesti keel (ET) (1.28 MB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/et/documents/product-information/apidra-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.61 MB - PDF)
+ελληνικά (EL) (1.51 MB - PDF)
 
 **First published:**
 
@@ -465,7 +463,7 @@ eesti keel (ET) (1.28 MB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/el/documents/product-information/apidra-epar-product-information_el.pdf)
 
@@ -477,11 +475,11 @@ français (FR) (1.4 MB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/fr/documents/product-information/apidra-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.41 MB - PDF)
+hrvatski (HR) (873.45 KB - PDF)
 
 **First published:**
 
@@ -489,11 +487,11 @@ hrvatski (HR) (1.41 MB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/hr/documents/product-information/apidra-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.53 MB - PDF)
+íslenska (IS) (774.86 KB - PDF)
 
 **First published:**
 
@@ -501,11 +499,11 @@ hrvatski (HR) (1.41 MB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/is/documents/product-information/apidra-epar-product-information_is.pdf)
 
-italiano (IT) (1.39 MB - PDF)
+italiano (IT) (839.42 KB - PDF)
 
 **First published:**
 
@@ -513,11 +511,11 @@ italiano (IT) (1.39 MB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/it/documents/product-information/apidra-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.65 MB - PDF)
+latviešu valoda (LV) (1.4 MB - PDF)
 
 **First published:**
 
@@ -525,11 +523,11 @@ latviešu valoda (LV) (1.65 MB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/lv/documents/product-information/apidra-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (850.15 KB - PDF)
+lietuvių kalba (LT) (1.21 MB - PDF)
 
 **First published:**
 
@@ -537,11 +535,11 @@ lietuvių kalba (LT) (850.15 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/lt/documents/product-information/apidra-epar-product-information_lt.pdf)
 
-magyar (HU) (1.13 MB - PDF)
+magyar (HU) (933.12 KB - PDF)
 
 **First published:**
 
@@ -549,11 +547,11 @@ magyar (HU) (1.13 MB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/hu/documents/product-information/apidra-epar-product-information_hu.pdf)
 
-Malti (MT) (1.67 MB - PDF)
+Malti (MT) (1008.62 KB - PDF)
 
 **First published:**
 
@@ -561,11 +559,11 @@ Malti (MT) (1.67 MB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/mt/documents/product-information/apidra-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.46 MB - PDF)
+Nederlands (NL) (950.98 KB - PDF)
 
 **First published:**
 
@@ -573,7 +571,7 @@ Nederlands (NL) (1.46 MB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/nl/documents/product-information/apidra-epar-product-information_nl.pdf)
 
@@ -585,11 +583,11 @@ norsk (NO) (1.31 MB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/no/documents/product-information/apidra-epar-product-information_no.pdf)
 
-polski (PL) (1.49 MB - PDF)
+polski (PL) (808.14 KB - PDF)
 
 **First published:**
 
@@ -597,11 +595,11 @@ polski (PL) (1.49 MB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/pl/documents/product-information/apidra-epar-product-information_pl.pdf)
 
-português (PT) (857.44 KB - PDF)
+português (PT) (858.68 KB - PDF)
 
 **First published:**
 
@@ -609,11 +607,11 @@ português (PT) (857.44 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/pt/documents/product-information/apidra-epar-product-information_pt.pdf)
 
-română (RO) (884.29 KB - PDF)
+română (RO) (1.53 MB - PDF)
 
 **First published:**
 
@@ -621,11 +619,11 @@ română (RO) (884.29 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/ro/documents/product-information/apidra-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.65 MB - PDF)
+slovenčina (SK) (906.71 KB - PDF)
 
 **First published:**
 
@@ -633,11 +631,11 @@ slovenčina (SK) (1.65 MB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/sk/documents/product-information/apidra-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.68 MB - PDF)
+slovenščina (SL) (835.77 KB - PDF)
 
 **First published:**
 
@@ -645,11 +643,11 @@ slovenščina (SL) (1.68 MB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/sl/documents/product-information/apidra-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.32 MB - PDF)
+Suomi (FI) (897.86 KB - PDF)
 
 **First published:**
 
@@ -657,11 +655,11 @@ Suomi (FI) (1.32 MB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/fi/documents/product-information/apidra-epar-product-information_fi.pdf)
 
-svenska (SV) (681.71 KB - PDF)
+svenska (SV) (773.18 KB - PDF)
 
 **First published:**
 
@@ -669,11 +667,11 @@ svenska (SV) (681.71 KB - PDF)
 
 **Last updated:**
 
-24/04/2025
+05/03/2026
 
 [View](/sv/documents/product-information/apidra-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0096 04/02/2025
+**Latest procedure affecting product information:** VR/0000310964 05/03/2026
 
 icon globe
 
@@ -699,7 +697,7 @@ English (EN) (25.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/apidra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-734)
+[Other languages (24)](#file-language-dropdown-891)
 
 български (BG) (75.04 KB - PDF)
 
@@ -1009,7 +1007,7 @@ sanofi-aventis Deutschland GmbH
 
 Sanofi-Aventis Deutschland GmbH
 
-Opinion adopted 03/06/2004 Marketing authorisation issued 27/09/2004 Revision 34
+Opinion adopted 03/06/2004 Marketing authorisation issued 27/09/2004 Revision 35
 
 ## Assessment history
 
@@ -1021,13 +1019,21 @@ Collapse section
 
 Apidra : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (151.52 KB - PDF)
+
+**First published:** 05/03/2026
+
+[View](/en/documents/procedural-steps-after/apidra-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Apidra : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (221.88 KB - PDF)
 
 **First published:** 14/09/2009
 
-**Last updated:** 05/02/2025
+**Last updated:** 05/03/2026
 
-[View](/en/documents/procedural-steps-after/apidra-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/apidra-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Apidra-H-C-557-P46-0039 : EPAR - Assessment Report
 
@@ -1105,11 +1111,11 @@ English (EN) (87.92 KB - PDF)
 
 [View](/en/documents/procedural-steps/apidra-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### News on Apidra
+## News on Apidra
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 September 2011](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-september-2011) 23/09/2011
 
-#### More information on Apidra
+## More information on Apidra
 
 Shortage of Apidra (insulin glulisine) cartridges
 
@@ -1123,11 +1129,11 @@ English (EN) (129.66 KB - PDF)
 
 [View](/en/documents/medicine-qa/shortage-apidra-insulin-glulisine-cartridges_en.pdf)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 05/02/2025
+**This page was last updated on** 05/03/2026
 
 ## Share this page
 

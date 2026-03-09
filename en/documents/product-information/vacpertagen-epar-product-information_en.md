@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-21 14:53:25
+document_datetime: 2026-03-05 15:12:13
 document_pages: 25
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vacpertagen-epar-product-information_en.pdf
 document_name: vacpertagen-epar-product-information_en.pdf
 version: success
-processing_time: 7.4344511
-conversion_datetime: 2026-01-22 21:21:06.245397
+processing_time: 7.4024947
+conversion_datetime: 2026-03-09 13:14:56.898469
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.77.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -56,9 +56,7 @@ For the full list of excipients, see section 6 . 1.
 
 ## 3 . PHARMACEUTICAL FORM
 
-Suspension for injection (injection)
-
-The vaccine appears as a whitish cloudy uniform suspension .
+Suspension for injection (injection) The vaccine appears as a whitish cloudy uniform suspension .
 
 ## 4 . CLINICAL PARTICULARS
 
@@ -433,9 +431,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-BioNet Europe 41 Quai Fulchiron 69005 Lyon
-
-France
+BioNet Europe 41 Cours de la Liberté, Cs 73913, 69426 Lyon Cedex 03, France
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -443,7 +439,7 @@ EU/1/25/1999/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 9 January 2026
 
 <div style=\"page-break-after: always\"></div>
 
@@ -574,15 +570,13 @@ Do not freeze.
 
 Store in the original package in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 BioNet Europe
 
-41 Quai Fulchiron 69005
-
-Lyon, France
+41 Cours de la Liberté, Cs 73913, 69426 Lyon Cedex 03, France
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -610,9 +604,9 @@ PC
 
 SN
 
-NN
-
 <div style=\"page-break-after: always\"></div>
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -651,6 +645,8 @@ Lot
 ## suspension for injection in pre-filled syringe
 
 Pertussis vaccine (recombinant, acellular, component, adsorbed)
+
+<!-- image -->
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects that you may get. See the end of section 4 for how to report side effects.
 
@@ -807,11 +803,9 @@ Purified Bordetella pertussis antigens
 
 Recombinant Pertussis Toxin (PTgen) 1,2
 
-Filamentous Haemagglutinin (FHA) 1
-
 5 micrograms
 
-5 micrograms
+Filamentous Haemagglutinin (FHA) 1 5 micrograms
 
 1 adsorbed on aluminium hydroxide, hydrated 0 . 3 milligrams Al 3 +
 
@@ -833,7 +827,7 @@ VacPertagen is supplied in a pack containing one pre-filled syringe with needle.
 
 BioNet Europe
 
-41 Quai Fulchiron, Lyon 69005 France
+41 Cours de la Liberté, Cs 73913, 69426 Lyon Cedex 03, France
 
 ## Manufacturer
 

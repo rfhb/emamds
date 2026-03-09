@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-21 14:20:01
+document_datetime: 2026-03-06 10:36:43
 document_pages: 292
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/opdivo-epar-product-information_en.pdf
 document_name: opdivo-epar-product-information_en.pdf
 version: success
-processing_time: 214.9888434
-conversion_datetime: 2026-01-22 21:45:13.569009
+processing_time: 194.3795119
+conversion_datetime: 2026-03-09 14:20:57.653185
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.77.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -179,10 +179,10 @@ If melanoma, RCC, OC, GEJC or MIUC (adjuvant treatment) patients need to be swit
 
 ## Table 2: Recommended doses and infusion times for intravenous administration of nivolumab in combination with ipilimumab followed by nivolumab monotherapy for melanoma (see sections 5.1 and 5.2)
 
-| phase,                                                                                                         | Combination for 4 dosing cycles                                                                                                                                               | Monotherapy phase                                          |
-|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
-| 12 years of age and older: (regardless of weight) 1 mg/kg every 3 weeks over                                   | Adults and adolescents 30 minutes • 6 weeks after the last dose nivolumab and ipilimumab 4 weeks. Adolescents (12 years of age and than 50 kg): 3 mg/kg every 2 weeks over 30 | Nivolumab of the combination if using older and minutes or |
-| Adults and adolescents 12 years of age and older (regardless of weight): 3 mg/kg every 3 weeks over 30 minutes | -                                                                                                                                                                             | Ipilimumab                                                 |
+| phase,                                                                                                         | Combination for 4 dosing cycles                                                                                   | Monotherapy phase            |
+|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|------------------------------|
+| 12 years of age and older: (regardless of weight) 1 mg/kg every 3 weeks over                                   | Adults and adolescents 30 minutes nivolumab and ipilimumab 4 weeks. Adolescents (12 years of age and than 50 kg): | Nivolumab if using older and |
+| Adults and adolescents 12 years of age and older (regardless of weight): 3 mg/kg every 3 weeks over 30 minutes | -                                                                                                                 | Ipilimumab                   |
 
 Malignant pleural mesothelioma (MPM)
 
@@ -201,10 +201,10 @@ Malignant pleural mesothelioma (MPM)
 
 Table 4: Recommended doses and infusion times for intravenous administration of nivolumab in combination with ipilimumab followed by nivolumab monotherapy for RCC
 
-|                                       | Combination phase, for 4 dosing cycles                                                                                             | Monotherapy phase                                                    |
-|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| 3 mg/kg every 3 weeks 30 minutes      | over The first dose • 3 weeks after the last dose of the combination of nivolumab and ipilimumab if using 240 mg every 2 weeks; or | Nivolumab should be administered: after the last dose and ipilimumab |
-| 1 mg/kg every 3 weeks over 30 minutes | -                                                                                                                                  | Ipilimumab                                                           |
+|                                       | Combination phase, for 4 dosing cycles                                                                                             | Monotherapy phase                                                                          |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| 3 mg/kg every 3 weeks 30 minutes      | over The first dose • 3 weeks after the last dose of the combination of nivolumab and ipilimumab if using 240 mg every 2 weeks; or | Nivolumab weeks over 60 minutes should be administered: after the last dose and ipilimumab |
+| 1 mg/kg every 3 weeks over 30 minutes | -                                                                                                                                  | Ipilimumab                                                                                 |
 
 ## dMMR or MSI-H colorectal cancer (CRC)
 
@@ -326,12 +326,12 @@ Table 15: Recommended treatment modifications for OPDIVO or OPDIVO in combinatio
 
 <div style=\"page-break-after: always\"></div>
 
-| Immune-related adverse reaction                                                                     | Severity                                                                                                                                                                                                                                | Treatment modification                                                                                                                                                                                                                                          |
-|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Immune-related colitis                                                                              | Grade 2 diarrhoea or colitis Grade 3 diarrhoea or colitis - OPDIVO monotherapy - OPDIVO+ipilimumab a Grade 4 diarrhoea or colitis                                                                                                       | Withhold dose(s) until symptoms resolve and management with corticosteroids, if needed, is complete Withhold dose(s) until symptoms resolve and management with corticosteroids is complete Permanently discontinue treatment Permanently discontinue treatment |
-| Immune-related hepatitis without HCC NOTE: for RCC patients treated with OPDIVO in combination with | Grade 2 elevation in aspartate aminotransferase (AST), alanine aminotransferase (ALT), or total bilirubin Grade 3 or 4 elevation in AST, ALT, or total bilirubin                                                                        | Withhold dose(s) until laboratory values return to baseline and management with corticosteroids, if needed, is complete Permanently discontinue treatment                                                                                                       |
-| Immune-related hepatitis with HCC                                                                   | If AST/ALT is within normal limits at baseline and increases to > 3 and ≤ 10 times ULN or Baseline AST/ALT is > 1 and ≤ 3 times and increases to > 5 and ≤ 10 times ULN or                                                              | Withhold dose(s) until laboratory values return to baseline and management with corticosteroids, if needed, is complete                                                                                                                                         |
-| Immune-related nephritis and renal dysfunction                                                      | ULN Baseline AST/ALT is > 3 and ≤ 5 times ULN and increases to > 8 and ≤ 10 times ULN. AST/ALT increases to > 10 times ULN or Total bilirubin increases to > 3 times ULN Grade 2 or 3 creatinine elevation Grade 4 creatinine elevation | Permanently discontinue treatment Withhold dose(s) until creatinine returns to baseline and management with corticosteroids is complete Permanently discontinue treatment                                                                                       |
+| Immune-related adverse reaction                                                                                                           | Severity                                                                                                                                                                                                                                                                                                                                                                              | Treatment modification                                                                                                                                                                                                                                          |
+|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Immune-related colitis                                                                                                                    | Grade 2 diarrhoea or colitis Grade 3 diarrhoea or colitis - OPDIVO monotherapy - OPDIVO+ipilimumab a Grade 4 diarrhoea or colitis                                                                                                                                                                                                                                                     | Withhold dose(s) until symptoms resolve and management with corticosteroids, if needed, is complete Withhold dose(s) until symptoms resolve and management with corticosteroids is complete Permanently discontinue treatment Permanently discontinue treatment |
+| Immune-related hepatitis without HCC NOTE: for RCC patients treated with OPDIVO in                                                        | Grade 2 elevation in aspartate aminotransferase (AST), alanine aminotransferase (ALT), or total bilirubin                                                                                                                                                                                                                                                                             | Withhold dose(s) until laboratory values return to baseline and management with corticosteroids, if needed, is complete Permanently discontinue                                                                                                                 |
+| combination with cabozantinib with liver enzyme elevations, see dosing guidelines following this table. Immune-related hepatitis with HCC | Grade 3 or 4 elevation in AST, ALT, or total bilirubin                                                                                                                                                                                                                                                                                                                                | treatment Withhold dose(s) until laboratory values return to baseline and management with corticosteroids,                                                                                                                                                      |
+| Immune-related nephritis and renal dysfunction                                                                                            | If AST/ALT is within normal limits at baseline and increases to > 3 and ≤ 10 times ULN or Baseline AST/ALT is > 1 and ≤ 3 times ULN and increases to > 5 and ≤ 10 times ULN or Baseline AST/ALT is > 3 and ≤ 5 times ULN and increases to > 8 and ≤ 10 times ULN. AST/ALT increases to > 10 times ULN or Total bilirubin increases to > 3 times ULN Grade 2 or 3 creatinine elevation | if needed, is complete Permanently discontinue treatment Withhold dose(s) until creatinine returns to baseline and management with corticosteroids is complete                                                                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -557,7 +557,9 @@ Patients with active autoimmune disease, symptomatic interstitial lung disease, 
 
 ## Treatment of NSCLC after prior chemotherapy
 
-Patients with a baseline performance score ≥ 2, active brain metastases or autoimmune disease, symptomatic interstitial lung disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the pivotal clinical trials of NSCLC (see sections 4.5 and 5.1). Patients with baseline performance score of 2 were included in study CA209171 (see section 5.1). In the absence of data for patients with autoimmune disease, symptomatic interstitial lung disease, active brain metastases and patients who had been receiving systemic immunosuppressants prior to study entry, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis. Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with poorer prognostic features and/or aggressive disease. In non-squamous NSCLC, a higher number of deaths within 3 months was observed in nivolumab compared to docetaxel. Factors associated with early deaths were poorer prognostic factors and/or more aggressive disease combined with low or no tumour PD-L1 expression (see section 5.1).
+Patients with a baseline performance score ≥ 2, active brain metastases or autoimmune disease, symptomatic interstitial lung disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the pivotal clinical trials of NSCLC (see sections 4.5 and 5.1). Patients with baseline performance score of 2 were included in study CA209171 (see section 5.1). In the absence of data for patients with autoimmune disease, symptomatic interstitial lung disease, active brain metastases and patients who had been receiving systemic immunosuppressants prior to study entry, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+
+Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with poorer prognostic features and/or aggressive disease. In non-squamous NSCLC, a higher number of deaths within 3 months was observed in nivolumab compared to docetaxel. Factors associated with early deaths were poorer prognostic factors and/or more aggressive disease combined with low or no tumour PD-L1 expression (see section 5.1).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -800,11 +802,7 @@ Adverse reaction frequencies presented in Table 16 may not be fully attributable
 - b Frequencies of laboratory terms reflect the proportion of patients who experienced a worsening from baseline in laboratory measurements. See 'Description of selected adverse reactions; laboratory abnormalities' below.
 - c Rash is a composite term which includes rash maculopapular, rash erythematous, rash pruritic, rash follicular, rash macular, rash morbilliform, rash papular, rash pustular, rash vesicular, exfoliative rash, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis atopic, dermatitis bullous, dermatitis exfoliative, dermatitis psoriasiform, drug eruption and pemphigoid.
 - d Reported also in studies outside the pooled dataset. The frequency is based on the program-wide exposure.
-
-e
-
-Musculoskeletal pain is a composite term which includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, myalgia intercostal, neck pain, pain in extremity, and spinal pain.
-
+- e Musculoskeletal pain is a composite term which includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, myalgia intercostal, neck pain, pain in extremity, and spinal pain.
 - f Post-marketing event (also see section 4.4).
 - g Reported in clinical studies and in the post-marketing setting.
 - h Pericardial disorders is a composite term which includes pericarditis, pericardial effusion, cardiac tamponade, and Dressler's syndrome.
@@ -1227,7 +1225,7 @@ a
 | Recurrence-free survival with minimum follow-up 48 months                              | Recurrence-free survival with minimum follow-up 48 months                              | Recurrence-free survival with minimum follow-up 48 months                              |
 | Events                                                                                 | 212 (46.8%)                                                                            | 253 (55.8%)                                                                            |
 | Hazard ratio a                                                                         | 0.71                                                                                   |                                                                                        |
-| 95% CI                                                                                 | (0.60,                                                                                 | 0.86)                                                                                  |
+| 95% CI                                                                                 | (0.60, 0.86)                                                                           |                                                                                        |
 | Median (95% CI) months                                                                 | 52.37 (42.51, NR)                                                                      | 24.08 (16.56, 35.09)                                                                   |
 | Rate (95% CI) at 12 months                                                             | 70.4 (65.9, 74.4)                                                                      | 60.0 (55.2, 64.5)                                                                      |
 | Rate (95% CI) at 18 months                                                             | 65.8 (61.2, 70.0)                                                                      | 53.0 (48.1, 57.6)                                                                      |
@@ -1287,6 +1285,8 @@ Baseline characteristics were balanced between the two groups. The median age wa
 The Kaplan-Meier curves for OS are shown in Figure 4.
 
 <!-- image -->
+
+18
 
 The observed OS benefit was consistently demonstrated across subgroups of patients including baseline ECOG performance status, M stage, history of brain metastases, and baseline LDH level. Survival benefit was observed regardless of whether patients had tumours that were designated PD-L1 negative or PD-L1 positive (tumour membrane expression cut off of 5% or 10%).
 
@@ -1428,6 +1428,7 @@ PFS results from descriptive analysis (with minimum follow up of 90 months) are 
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
 | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       |
 | 314                          | 175                          | 138                          | 126                          | 112                          | 103                          | 99                           | 93                           | 87                           | 84                           | 78                           | 76                           | 70                           | 66                           | 33                           | 1                            | -                            |
+| Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    |
 | 316                          | 151                          | 120                          | 106                          | 97                           | 84                           | 78                           | 73                           | 69                           | 66                           | 62                           | 57                           | 54                           | 50                           | 21                           | 0                            | -                            |
 | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   |
 | 315                          | 78                           | 46                           | 34                           | 31                           | 28                           | 21                           | 18                           | 16                           | 15                           | 12                           | 11                           | 10                           | 9                            | 7                            | 1                            | -                            |
@@ -1441,6 +1442,12 @@ Figure 5: Progression-free survival (CA209067)
 Figure 6: Progression-free survival by PD-L1 expression: 5% cut off (CA209067)
 
 ## PD-L1 expression &lt; 5%
+
+| Number of subjects at risk   | Number of subjects at risk   |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk | Number of subjects at risk   |
+|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
+|                              | 210                          |                          113 |                           78 |                           71 |                           64 |                           60 |                           56 |                           54 |                           52 |                           50 |                           49 |                           45 |                           43 |                           39 |                           22 | 0 -                          |
+|                              | 208 Ipilimumab               |                           91 |                           66 |                           60 |                           51 |                           49 |                           46 |                           42 |                           40 |                           38 |                           33 |                           31 |                           29 |                           27 |                           12 | 0 -                          |
+|                              | 202                          |                           45 |                           19 |                           18 |                           16 |                           14 |                           13 |                           11 |                           10 |                            7 |                            6 |                            5 |                            4 |                            4 |                            3 | 0 -                          |
 
 <!-- image -->
 
@@ -1506,13 +1513,10 @@ Figure 8: Overall survival (CA209067) - Minimum follow-up of 90 months
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
 | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |
 | 314                          | 265                          | 227                          | 210                          | 199                          | 187                          | 179                          | 169                          | 163                          | 158                          | 156                          | 153                          | 147                          | 144                          | 141                          | 129                          | 7                            |
-| Nivolumab                    | Nivolumab                    |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |
+| Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    |
 | 316                          | 266                          | 231                          | 201                          | 181                          | 171                          | 158                          | 145                          | 141                          | 137                          | 134                          | 130                          | 126                          | 123                          | 120                          | 107                          | 4                            |
-| Ipilimumab                   | Ipilimumab                   |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |
-|                              |                              |                              | 163                          | 135                          | 113                          | 100                          |                              | 87                           | 81                           | 75                           |                              | 64                           | 63                           | 63                           | 57                           |                              |
-|                              | 94                           | 203                          |                              |                              |                              |                              |                              |                              |                              |                              | 68                           |                              |                              |                              |                              |                              |
-|                              | 253                          |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              | 5                            |
-| 315                          |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |
+| Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   |
+| 315                          | 253                          | 203                          | 163                          | 135                          | 113                          | 100                          | 94                           | 87                           | 81                           | 75                           | 68                           | 64                           | 63                           | 63                           | 57                           | 5                            |
 
 <!-- image -->
 
@@ -1526,7 +1530,7 @@ PD-L1 expression &lt; 5%
 
 <div style=\"page-break-after: always\"></div>
 
-PDL1 expression ≥ 5%
+PD-L1 expression ≥ 5%
 
 <!-- image -->
 
@@ -1539,14 +1543,6 @@ Figure 10: Overall survival by PD-L1 expression: 1% cut off (CA209067) - Minimum
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-| Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |
-|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-| Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | 105                          | 101                          | 96                           | 94                           | 87                           | 84                           | 79                           |                              | 77                           | 74                           | 72                           | 70                           | 65                           | 2                            |
-| 155                          | 132                          | 116                          | 105                          | 101                          | 96                           | 94                           | 87                           | 84                           | 79                           | 79                           | 77                           | 74                           | 72                           | 70                           | 65                           | 2                            |
-| 171                          | 159                          | 140                          | 122                          | 112                          | 108                          | 100                          | 93                           | 90                           | 87                           | 86                           | 83                           | 81                           | 80                           | 78                           | 70                           | 2                            |
-| Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   |
-| 164                          | 137                          | 113                          | 88                           | 76                           | 67                           | 58                           | 54                           | 49                           | 46                           | 41                           | 39                           | 36                           | 35                           | 35                           | 33                           | 4                            |
 
 PDL1 expression ≥ 1%
 
@@ -1563,8 +1559,7 @@ Table 24: Objective response (CA209067)
 | Objective response                      | 183 (58%)                               | 142 (45%)                | 60 (19%)                 |
 | (95% CI)                                | (52.6, 63.8)                            | (39.4, 50.6)             | (14.9, 23.8)             |
 | Odds ratio (vs. ipilimumab) (95% CI)    | 6.35 (4.38, 9.22)                       | 3.5 (2.49, 5.16)         |                          |
-| Complete response                       | 71(23%)                                 | 59 (19%)                 |                          |
-| (CR)                                    |                                         |                          | 19 (6%)                  |
+| Complete response (CR)                  | 71(23%)                                 | 59 (19%)                 | 19 (6%)                  |
 | Partial response (PR)                   | 112 (36%)                               | 83 (26%)                 | 41 (13%)                 |
 | Stable disease (SD)                     | 38 (12%)                                | 29 (9%)                  | 69 (22%)                 |
 | Duration of response                    |                                         |                          |                          |
@@ -1648,8 +1643,6 @@ Table 25: Efficacy results in patients with tumour PDL1 ≥ 1% and stage II-IIIA
 | 95% CI c                              | (22.2, 43.4)                        |                                     | (0.3, 8.1)              |
 | Difference of pCR (95% CI) d          |                                     | 29.8% (19.0, 40.7)                  |                         |
 
-pCR data cut-off: 28-Jul-2020
-
 The Kaplan-Meier curves for EFS for the subgroup of patients with tumour PDL1 expression ≥ 1% and stage II-IIIA disease, with a minimum follow-up of 32.9 months, are shown in Figure 11.
 
 <div style=\"page-break-after: always\"></div>
@@ -1672,7 +1665,29 @@ Figure 12: Kaplan-Meier curves of OS in patients with tumour PDL1 ≥ 1% and sta
 
 Overall Survival (Months)
 
-Number of Subjects at Risk Nivolumab + chemotherapy 81  80  76  76  74  73  71  69  69  69  68  68  67  66  64  63  61  61  61  59  59  48  35  23  12 7 3 1 0 Chemotherapy 86  85  81  80  78  75  69  63  61  58  57  57  57  54  53  52  49  49  49  47  45  38  30  22  15 6 2 0 0    Nivolumab + chemotherapy (events: 24/81), median and 95% CI: NR (71.59, NR) - - - - - -Chemotherapy (events: 38/86), median and 95% CI: 73.72 (47.34, NR)
+Number of Subjects at Risk
+
+Nivolumab + chemotherapy
+
+81  80  76  76  74  73  71  69  69  69  68  68  67  66  64  63  61  61  61  59  59  48  35  23  12 7 3 1 0 Chemotherapy
+
+86  85  81  80  78  75  69  63  61  58  57  57  57  54  53  52  49  49  49  47  45  38  30  22  15 6 2 0 0
+
+
+
+
+
+
+
+Nivolumab + chemotherapy (events: 24/81), median and 95% CI: NR (71.59, NR)
+
+
+
+- - -
+
+- - -
+
+Chemotherapy (events: 38/86), median and 95% CI: 73.72 (47.34, NR)
 
 Based on data cut-off: 23-Jan-2025, minimum follow-up of 59.9 months
 
@@ -1753,7 +1768,9 @@ Number of Subjects at Risk Nivolumab + chemotherapy/Nivolumab 128  123  114  108
 
 ## First-line treatment of NSCLC
 
-Randomised phase 3 study of nivolumab in combination with ipilimumab and 2 cycles of platinum-based chemotherapy vs. 4 cycles of platinum-based chemotherapy (CA2099LA) The safety and efficacy of nivolumab 360 mg every 3 weeks in combination with ipilimumab 1 mg/kg every 6 weeks and 2 cycles of platinum-based chemotherapy were evaluated in a phase 3, randomised, open-label study (CA2099LA). The study included patients (18 years or older) with histologically confirmed non-squamous or squamous Stage IV or recurrent NSCLC (per the 7 th International Association for the Study of Lung Cancer classification), ECOG performance status 0 or 1, and no prior anticancer therapy (including EGFR and ALK inhibitors). Patients were enrolled regardless of their tumour PD-L1 status.
+## Randomised phase 3 study of nivolumab in combination with ipilimumab and 2 cycles of platinum-based chemotherapy vs. 4 cycles of platinum-based chemotherapy (CA2099LA)
+
+The safety and efficacy of nivolumab 360 mg every 3 weeks in combination with ipilimumab 1 mg/kg every 6 weeks and 2 cycles of platinum-based chemotherapy were evaluated in a phase 3, randomised, open-label study (CA2099LA). The study included patients (18 years or older) with histologically confirmed non-squamous or squamous Stage IV or recurrent NSCLC (per the 7 th International Association for the Study of Lung Cancer classification), ECOG performance status 0 or 1, and no prior anticancer therapy (including EGFR and ALK inhibitors). Patients were enrolled regardless of their tumour PD-L1 status.
 
 Patients with sensitising EGFR mutations or ALK translocations, active (untreated) brain metastases, carcinomatous meningitis, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the study. Patients with treated brain metastases were eligible if neurologically returned to baseline at least 2 weeks prior to enrolment, and either off corticosteroids, or on a stable or decreasing dose of &lt; 10 mg daily prednisone equivalents. Randomisation was stratified by histology (squamous vs non-squamous), tumour PD-L1 expression level (≥ 1% vs &lt; 1%), and gender (male vs female).
 
@@ -1803,8 +1820,7 @@ Table 27: Efficacy results (CA2099LA)
 | Events                        | 156 (43.2%)                                       | 195 (54.5%)              |
 | Hazard ratio (96.71% CI) a    | 0.69 (0.55, 0.87)                                 |                          |
 | Stratified log-rank p-value b | 0.0006                                            |                          |
-| Median (months)               |                                                   |                          |
-|                               | 14.1                                              | 10.7                     |
+| Median (months)               | 14.1                                              | 10.7                     |
 | (95% CI)                      | (13.24, 16.16)                                    | (9.46, 12.45)            |
 | Rate (95% CI) at 6 months     | 80.9 (76.4,84.6)                                  | 72.3 (67.4,76.7)         |
 
@@ -1818,11 +1834,13 @@ Table 27: Efficacy results (CA2099LA)
 | Stratified log-rank p-value c | 0.0001                                            |                          |
 | Median (months) d (95% CI)    | 6.83 (5.55, 7.66)                                 | 4.96 (4.27, 5.55)        |
 | Rate (95% CI) at 6 months     | 51.7 (46.2, 56.8)                                 | 35.9 (30.5, 41.3)        |
-| Overall response rate e       | 136 (37.7%)                                       | 90 (25.1%)               |
+| e                             |                                                   |                          |
+| Overall response rate         | 136 (37.7%)                                       | 90 (25.1%)               |
 | (95% CI)                      | (32.7, 42.9)                                      | (20.7, 30.0)             |
 | Stratified CMH test p-value f | 0.0003                                            |                          |
-| Complete response (CR)        | 7 (1.9%)                                          | 3 (0.8%)                 |
-| Partial response (PR)         | 129 (35.7%)                                       | 87 (24.3%)               |
+| Complete response (CR)        | 7                                                 |                          |
+| Partial response (PR)         | (1.9%)                                            | 3 (0.8%)                 |
+|                               | 129 (35.7%)                                       | 87 (24.3%)               |
 | Duration of response          |                                                   |                          |
 | Median (months) (95% CI) d    | 10.02 (8.21, 13.01)                               | 5.09 (4.34, 7.00)        |
 | %with duration ≥ 6 months g   | 74                                                | 41                       |
@@ -1888,26 +1906,33 @@ Figure 16: Kaplan-Meier curves of OS (CA209017)
 
 <!-- image -->
 
-24
+
 
-0
+
 
-0
+Nivolumab 3 mg/kg (events: 86/135), median and 95% CI: 9.23 (7.33, 13.27)
 
-| Number of subjects at   | risk              |                   |                   |                   |                   |                   |                   |
-|-------------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
-| Nivolumab 3 mg/kg       | Nivolumab 3 mg/kg | Nivolumab 3 mg/kg | Nivolumab 3 mg/kg | Nivolumab 3 mg/kg | Nivolumab 3 mg/kg | Nivolumab 3 mg/kg | Nivolumab 3 mg/kg |
-| 135                     | 113               | 86                | 69                | 52                | 31                | 15                | 7 0               |
-| Docetaxel               | Docetaxel         | Docetaxel         | Docetaxel         | Docetaxel         | Docetaxel         | Docetaxel         | Docetaxel         |
-| 137                     | 103               | 68                | 45                | 30                | 14                | 7                 | 2 0               |
+- - -
 
-   Nivolumab 3 mg/kg (events: 86/135), median and 95% CI: 9.23 (7.33, 13.27) - - - - - -Docetaxel (events: 113/137), median and 95% CI: 6.01 (5.13, 7.33)
+
+
+
+
+- - -
+
+Docetaxel (events: 113/137), median and 95% CI: 6.01 (5.13, 7.33)
 
 The observed OS benefit was consistently demonstrated across subgroups of patients. Survival benefit was observed regardless of whether patients had tumours that were designated PD-L1 negative or PD-L1 positive (tumour membrane expression cut off of 1%, 5% or 10%). However, the role of this biomarker (tumour PD-L1 expression) has not been fully elucidated. With a minimum of 62.6 months follow-up, OS benefit remains consistently demonstrated across subgroups.
 
 Study CA209017 included a limited number of patients ≥ 75 years (11 in the nivolumab group and 18 in the docetaxel group). Nivolumab showed numerically less effect on OS (HR 1.85; 95% CI: 0.76, 4.51), PFS (HR = 1.76; 95%-CI: 0.77, 4.05) and ORR (9.1% vs. 16.7%). Because of the small sample size, no definitive conclusions can be drawn from these data.
 
 Efficacy results are shown in Table 29.
+
+24
+
+0
+
+0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1941,7 +1966,7 @@ Table 29: Efficacy results (CA209017)
 | p-value                                         |                                                 | < 0.0004                                        |                                                 |
 | Median (95% CI) (months)                        | 3.48 (2.14, 4.86)                               |                                                 | 2.83 (2.10, 3.52)                               |
 | Rate (95% CI) at 12 months                      | 20.8 (14.0, 28.4)                               |                                                 | 6.4 (2.9, 11.8)                                 |
-| Updated analysis Minimum follow-up: 24.2 months | Updated analysis Minimum follow-up: 24.2 months | Updated analysis Minimum follow-up: 24.2 months | Updated analysis Minimum follow-up: 24.2 months |
+| Updated analysis                                | Updated analysis                                | Updated analysis                                | Updated analysis                                |
 | Overall survival a                              |                                                 |                                                 |                                                 |
 | Events                                          | 110 (81.4%)                                     |                                                 | 128 (93.4%)                                     |
 | Hazard ratio                                    |                                                 | 0.62                                            |                                                 |
@@ -1988,7 +2013,8 @@ Table 30: ORR based on response evaluable patients - total and by subgroup (CA20
 | Results                         | Total        | ECOG PS 2   | < 75 years   | ≥ 75 years    |
 |---------------------------------|--------------|-------------|--------------|---------------|
 | N responders/ N evaluable a (%) | 66/671 (9.8) | 1/64 (6.1)  | 55/568 (9.7) | 11/103 (10.7) |
-| 95% CI b                        | (7.7, 12.3)  | (0.0, 8.4)  | (7.4, 12.4)  | (5.5, 18.3)   |
+| 95% CI b                        | (7.7, 12.3)  | (0.0,       | (7.4, 12.4)  | (5.5,         |
+|                                 |              | 8.4)        |              | 18.3)         |
 
 a includes confirmed and unconfirmed responses, scans were mandatory only at week 8/9 and week 52.
 
@@ -2054,8 +2080,7 @@ Table 31: Efficacy results (CA209057)
 | Events                                          | 234 (80.1%)                                     | 245 (84.5%)                                     |
 | Hazard ratio                                    | 0.92                                            | 0.92                                            |
 | 95% CI                                          | (0.77, 1.11)                                    | (0.77, 1.11)                                    |
-| p-value                                         |                                                 |                                                 |
-| Median (95% CI) (months)                        | 2.33 (2.17, 3.32)                               | 4.21 (3.45, 4.86)                               |
+| p-value Median (95% CI) (months)                | 2.33 (2.17, 3.32)                               | 4.21 (3.45, 4.86)                               |
 | Rate (95% CI) at 12 months                      | 18.5 (14.1, 23.4)                               | 8.1 (5.1, 12.0)                                 |
 | Updated analysis Minimum follow-up: 24.2 months | Updated analysis Minimum follow-up: 24.2 months | Updated analysis Minimum follow-up: 24.2 months |
 | Overall survival c                              |                                                 |                                                 |
@@ -2164,18 +2189,11 @@ Efficacy results are shown in Figure 18 and Table 33.
 
 Figure 18: Kaplan-Meier curves of OS (CA209743)
 
-39
-
-| Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |
-|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-| Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       |
-| 303                          | 273                          | 251                          | 226                          | 200                          | 173                          | 143                          | 124                          | 101                          | 65                           | 30                           | 11                           | 0                            |
-| Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 |
-| 302                          | 268                          | 233                          | 190                          | 162                          | 136                          | 113                          | 95                           | 62                           | 38                           | 20                           | 11                           | 0                            |
-
 <!-- image -->
 
 Table 33: Efficacy results (CA209743)
+
+39
 
 |                               | nivolumab + ipilimumab (n = 303)   | chemotherapy (n = 302)   |
 |-------------------------------|------------------------------------|--------------------------|
@@ -2293,37 +2311,38 @@ Table 36: Efficacy results in intermediate/poor risk patients (CA209214)
 
 <div style=\"page-break-after: always\"></div>
 
-|                                              | nivolumab + ipilimumab (n = 425)               | sunitinib (n = 422)                            |
-|----------------------------------------------|------------------------------------------------|------------------------------------------------|
-| Confirmed objective response (BICR)          | 177 (41.6%)                                    | 112 (26.5%)                                    |
-| (95% CI)                                     | (36.9, 46.5)                                   | (22.4, 31.0)                                   |
-| Difference in ORR (95% CI) d p-value e,f     | 16.0 (9.8, 22.2) < 0.0001                      | 16.0 (9.8, 22.2) < 0.0001                      |
-| Complete response (CR)                       | 40 (9.4%)                                      | 5 (1.2%)                                       |
-| Partial response (PR)                        | 137 (32.2%)                                    | 107 (25.4%)                                    |
-| Stable disease (SD)                          | 133 (31.3%)                                    | 188 (44.5%)                                    |
-| Median duration of response g                |                                                |                                                |
-| Months (range)                               | NE (1.4 + -25.5 + )                            | 18.17 (1.3 + -23.6 + )                         |
-| Median time to response                      |                                                |                                                |
-| Months (range)                               | 2.8 (0.9-11.3)                                 | 3.0 (0.6-15.0)                                 |
-|                                              | Updated analysis* minimum follow-up: 60 months | Updated analysis* minimum follow-up: 60 months |
-| Overall survival                             |                                                |                                                |
-| Events                                       | 242 (57%)                                      | 282 (67%)                                      |
-| Hazard ratio a                               | 0.68                                           | 0.68                                           |
-| Median (95% CI)                              | 46.95 (35.35, 57.43)                           | 26.64 (22.08, 33.54)                           |
-| At 36 months                                 | 54.6 (49.7, 59.3)                              | 43.7 (38.7, 48.5)                              |
-| At 48 months                                 |                                                | 35.8 (31.1, 40.5)                              |
-|                                              | 49.9 (44.9, 54.6)                              |                                                |
-| At 60 months                                 | 43.0 (38.1, 47.7)                              | 31.3 (26.8, 35.9)                              |
-| Events Hazard ratio a                        | 245 (57.6%) 0.73                               | 253 (60.0%)                                    |
-| 95% CI                                       | (0.61, 0.87)                                   |                                                |
-| Median (95% CI)                              | 11.6 (8.44, 16.63)                             | 8.3 (7.03, 10.41)                              |
-| Confirmed objective response                 | 179 (42.1%)                                    | 113 (26.8%)                                    |
-| (95% CI)                                     | (37.4, 47.0)                                   | (22.6, 31.3)                                   |
-| Complete response (CR)                       | 48 (11.3%)                                     | 9 (2.1%) 104 (24.6%)                           |
-| Partial response (PR) Stable disease (SD)    | 131 (30.8%) 131 (30.8%)                        | 187 (44.3%)                                    |
-| Median duration of response g Months (range) |                                                | 19.38 (15.38-25.10)                            |
-| Median time to response                      | NE (50.89-NE)                                  |                                                |
-| Months (range)                               | 2.8 (0.9-35.0)                                 | 3.1 (0.6-23.6)                                 |
+|                                           | nivolumab + ipilimumab (n = 425)               | sunitinib (n = 422)                            |
+|-------------------------------------------|------------------------------------------------|------------------------------------------------|
+| Confirmed objective response (BICR)       | 177 (41.6%)                                    | 112 (26.5%)                                    |
+| (95% CI)                                  | (36.9, 46.5)                                   | (22.4, 31.0)                                   |
+| Difference in ORR (95% CI) d e,f          | 16.0 (9.8, 22.2) < 0.0001                      | 16.0 (9.8, 22.2) < 0.0001                      |
+| p-value Complete response (CR)            | 40 (9.4%)                                      | 5 (1.2%)                                       |
+| Partial response (PR)                     | 137 (32.2%)                                    | 107 (25.4%)                                    |
+| Stable disease (SD)                       | 133 (31.3%)                                    | 188 (44.5%)                                    |
+| Median duration of response g             |                                                |                                                |
+| Months (range)                            | NE (1.4 + -25.5 + )                            | 18.17 (1.3 + -23.6 + )                         |
+| Median time to response                   |                                                |                                                |
+| Months (range)                            | 2.8 (0.9-11.3)                                 | 3.0 (0.6-15.0)                                 |
+|                                           | Updated analysis* minimum follow-up: 60 months | Updated analysis* minimum follow-up: 60 months |
+| Overall survival                          |                                                |                                                |
+| Events                                    | 242 (57%)                                      | 282 (67%)                                      |
+| Hazard ratio a                            | 0.68                                           | 0.68                                           |
+| Median (95% CI)                           | 46.95 (35.35, 57.43)                           | 26.64 (22.08, 33.54)                           |
+| At 36 months                              | 54.6 (49.7, 59.3)                              | 43.7 (38.7, 48.5)                              |
+| At 48 months                              |                                                | 35.8 (31.1, 40.5)                              |
+|                                           | 49.9 (44.9, 54.6)                              |                                                |
+| At 60 months                              | 43.0 (38.1, 47.7)                              | 31.3 (26.8, 35.9)                              |
+| Events Hazard ratio a                     | 245 (57.6%) 0.73                               | 253 (60.0%)                                    |
+| Median (95% CI)                           | 11.6 (8.44, 16.63)                             | 8.3 (7.03, 10.41)                              |
+| Confirmed objective response (BICR)       | 179 (42.1%)                                    | 113 (26.8%)                                    |
+| (95% CI) Difference in ORR (95% CI) d,e   | (37.4, 47.0) 16.2 (10.0,                       | (22.6, 31.3)                                   |
+| Complete response (CR)                    |                                                | 9 (2.1%)                                       |
+|                                           | 48 (11.3%)                                     | 104 (24.6%)                                    |
+| Partial response (PR) Stable disease (SD) | 131 (30.8%) 131 (30.8%)                        | 187 (44.3%)                                    |
+| Months (range)                            |                                                | 19.38 (15.38-25.10)                            |
+|                                           | NE (50.89-NE)                                  |                                                |
+| Median time to response                   | 2.8 (0.9-35.0)                                 | 3.1 (0.6-23.6)                                 |
+| Months (range)                            |                                                |                                                |
 
 a Based on a stratified proportional hazards model.
 
@@ -2345,14 +2364,13 @@ NE = non-estimable
 
 * Descriptive analysis based on data cut-off: 26-Feb-2021.
 
-Figure 19: Kaplan-Meier curves of OS in intermediate/poor risk patients (CA209214) Minimum follow-up of 60 months
-
-| Number of subjects at risk   |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |
+| Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-| Nivolumab + ipilimumab 425   |                          372 |                          332 |                          306 |                          270 |                          241 |                          220 |                          207 |                          196 |                          181 |                          163 |                           79 |                            0 |
-| 422                          |                          353 |                          291 |                          237 |                          206 |                          184 |                          169 |                          151 |                          137 |                          125 |                          112 |                           58 |                            0 |
+| Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       |
+| 425                          | 372                          | 332                          | 306                          | 270                          | 241                          | 220                          | 207                          | 196                          | 181                          | 163                          | 79                           | 2 0                          |
+| Sunitinib 422                | 353                          | 291                          | 237                          | 206                          | 184                          | 169                          | 151                          | 137                          | 125                          | 112                          | 58                           | 3 0                          |
 
-   Nivolumab + ipilimumab (events: 242/425), median and 95.0% CI: 46.95 (35.35, 57.43) - - - - - -Sunitinib (events: 282/422), median and 95.0% CI: 26.64 (22.08, 33.54)
+Figure 19: Kaplan-Meier curves of OS in intermediate/poor risk patients (CA209214) Minimum follow-up of 60 months
 
 <!-- image -->
 
@@ -2550,14 +2568,14 @@ Data from the 80 patients from CA209205 Cohort B and from the 15 patients from C
 | Table 39: Baseline                                                | patient characteristics CA209205 Cohort B and CA209039 (n = 95)   | in CA209205 CA209205 Cohort B a (n = 80)   | Cohort B, Cohort CA209039 (n = 15)   | C and CA209039 CA209205 Cohort C b (n = 100)   |
 |-------------------------------------------------------------------|-------------------------------------------------------------------|--------------------------------------------|--------------------------------------|------------------------------------------------|
 | Median age, years (range)                                         | 37.0 (18-72)                                                      | 37.0 (18-72)                               | 40.0 (24-54)                         | 32.0 (19-69)                                   |
-| Gender                                                            | 61 (64%)M                                                         | 51 (64%)M                                  | 10 (67%)M                            | 56 (56%)M                                      |
+| Gender                                                            | 61 (64%)M 34 (36%) F                                              | 51 (64%)M 29 (36%) F                       | 10 (67%)M 5 (33%) F                  | 56 (56%)M 44 (44%) F                           |
 | ECOG status 0 1                                                   | 49 (52%) 46 (48%)                                                 | 42 (52.5%) 38 (47.5%)                      | 7 (47%) 8 (53%)                      | 50 (50%) 50 (50%)                              |
 | ≥ 5 prior lines of systemic therapy                               | 49 (52%)                                                          | 39 (49%)                                   | 10 (67%)                             | 30 (30%)                                       |
 | Prior radiation therapy                                           | 72 (76%)                                                          | 59 (74%)                                   | 13 (87%)                             | 69 (69%)                                       |
 | Prior ASCT 1                                                      | 87 (92%)                                                          | 74 (92.5%)                                 | 13 (87%)                             | 100 (100%)                                     |
 | ≥ 2                                                               | 8 (8%)                                                            | 6 (7.5%)                                   | 2 (13%)                              | 0 (0%)                                         |
-| from most recent                                                  | 3.5 (0.2-19.0)                                                    | 3.4 (0.2-19.0)                             | 5.6 (0.5-15.0)                       | 1.7                                            |
-| Years transplant to first dose of study therapy, median (min-max) |                                                                   |                                            |                                      | (0.2-17.0)                                     |
+| from most recent                                                  | 3.5 (0.2-19.0)                                                    | 3.4 (0.2-19.0)                             | 5.6 (0.5-15.0)                       | 1.7 (0.2-17.0)                                 |
+| Years transplant to first dose of study therapy, median (min-max) |                                                                   |                                            |                                      |                                                |
 
 Efficacy from both studies was evaluated by the same IRRC. Results are shown in Table 40.
 
@@ -2661,9 +2679,47 @@ Figure 23: Kaplan-Meier curves of OS (CA209141)
 
 Overall survival (months)
 
+98
+
+76
+
+45
+
+32
+
 Number of subjects at risk
 
-<!-- formula-not-decoded -->
+Nivolumab
+
+240
+
+169
+
+132
+
+Investigator's choice
+
+121
+
+88
+
+51
+
+22
+
+9
+
+27
+
+4
+
+12
+
+3
+
+3
+
+0
 
 
 
@@ -2671,13 +2727,13 @@ Number of subjects at risk
 
 
 
+Nivolumab 3 mg/kg (events: 184/240), median and 95% CI: 7.72 (5.68, 8.77)
+
+- - -
+
 
 
 - - -
-
-- - -
-
-Nivolumab 3 mg/kg (events: 184/240), median and 95% CI: 7.72 (5.68, 8.77)
 
 Investigator's choice (events: 105/121), median and 95% CI: 5.06 (4.04, 6.24)
 
@@ -2743,25 +2799,25 @@ In an exploratory post-hoc analysis using a non-validated assay, both tumour cel
 
 Table 44: Efficacy by tumour cell and TAIC PD-L1 expression (CA209141)
 
-|                                                                         | Median OS a (months) HR b (95% CI)   | Median OS a (months) HR b (95% CI)   | Median PFS a (months) HR b (95% CI)   | Median PFS a (months) HR b (95% CI)   | ORR (%) (95% CI) c   | ORR (%) (95% CI) c    |
-|-------------------------------------------------------------------------|--------------------------------------|--------------------------------------|---------------------------------------|---------------------------------------|----------------------|-----------------------|
-|                                                                         | nivolumab                            | investigator's choice                | nivolumab                             | investigator's choice                 | nivolumab            | investigator's choice |
-| PD-L1 ≥ 1%,                                                             | 9.10                                 | 4.60                                 | 3.19                                  | 1.97                                  | 19.7                 | 0                     |
-| PD-L1+ TAIC abundant d (61 nivolumab, 47 investigator's                 | 0.43 (0.28, 0.67)                    | 0.43 (0.28, 0.67)                    | 0.48 (0.31, 0.75)                     | 0.48 (0.31, 0.75)                     | (10.6, 31.8)         | (0, 7.5)              |
-| PD-L1 ≥ 1%, PD-L1+ TAIC d                                               | 6.67 0.89 (0.44,                     | 4.93 1.80)                           | 1.99 0.93 (0.46,                      | 2.04 1.88)                            | 11.1 (2.4, 29.2)     | 7.1 (0.2, 33.9)       |
-| rare (27 nivolumab, 14 investigator's choice) PD-L1 < 1%, PD-L1+ TAIC   | 11.73 0.67 (0.38, 1.18)              | 6.51                                 | 2.10 0.96 (0.55,                      | 2.73 1.67)                            | 18.6 (8.4, 33.4)     | 12.0 (2.5, 31.2)      |
-| abundant d (43 nivolumab, 25 investigator's choice)                     | 3.71                                 |                                      |                                       |                                       |                      | 10.0                  |
-| PD-L1 < 1%, PD-L1+ TAIC rare d (27 nivolumab, 10 investigator's choice) | 1.09 (0.50,                          | 4.85 2.36)                           | 1.84 1.91 (0.84,                      | 2.12 4.36)                            | 3.7 (< 0.1, 19.0)    | (0.3, 44.5)           |
-
-a OS and PFS were estimated using Kaplan-Meier method.
+|                                                             | Median OS a (months) HR b (95% CI)   | Median OS a (months) HR b (95% CI)   | Median PFS a (months) HR b (95% CI)   | Median PFS a (months) HR b (95% CI)   | ORR (%) (95% CI) c        | ORR (%) (95% CI) c        |
+|-------------------------------------------------------------|--------------------------------------|--------------------------------------|---------------------------------------|---------------------------------------|---------------------------|---------------------------|
+|                                                             | nivolumab                            | investigator's choice                | nivolumab                             | investigator's choice                 | nivolumab                 | investigator's choice     |
+| PD-L1 ≥ 1%,                                                 | 9.10                                 | 4.60                                 | 3.19                                  | 1.97                                  | 19.7                      | 0                         |
+| PD-L1+ TAIC abundant d (61 nivolumab, 47 investigator's     | 0.43 (0.28, 0.67)                    | 0.43 (0.28, 0.67)                    | 0.48 (0.31, 0.75)                     | 0.48 (0.31, 0.75)                     | (10.6, 31.8)              | (0, 7.5)                  |
+| PD-L1 ≥ 1%,                                                 | 6.67                                 | 4.93                                 | 1.99                                  | 2.04                                  | 11.1                      | 7.1                       |
+| rare d (27 nivolumab, 14 investigator's choice) PD-L1 < 1%, | 0.89 (0.44,                          | 1.80)                                | 0.93 (0.46, 1.88)                     | 0.93 (0.46, 1.88)                     | (2.4, 29.2) (0.2, 33.9)   | (2.4, 29.2) (0.2, 33.9)   |
+|                                                             | 11.73                                | 6.51                                 | 2.10                                  | 2.73                                  | 18.6                      | 12.0                      |
+| PD-L1+ TAIC abundant d (43 nivolumab,                       | 0.67 (0.38, 1.18)                    | 0.67 (0.38, 1.18)                    | 0.96 (0.55, 1.67)                     | 0.96 (0.55, 1.67)                     | (8.4, 33.4) (2.5, 31.2)   | (8.4, 33.4) (2.5, 31.2)   |
+| PD-L1 < 1%,                                                 | 3.71                                 | 4.85                                 | 1.84                                  | 2.12                                  | 3.7                       | 10.0                      |
+| PD-L1+ TAIC rare d                                          | 1.09 (0.50, 2.36)                    | 1.09 (0.50, 2.36)                    | 1.91 (0.84, 4.36)                     | 1.91 (0.84, 4.36)                     | (< 0.1, 19.0) (0.3, 44.5) | (< 0.1, 19.0) (0.3, 44.5) |
 
 b Hazard ratio in each subgroup derived from a Cox proportional hazards model with treatment as the only covariate.
 
 c Confidence interval for ORR calculated using the Clopper-Pearson method.
 
-d PD-L1+ TAIC in the tumour microenvironment were qualitatively assessed, and characterised as 'numerous',
+d
 
-'intermediate', and 'rare' based on pathologist assessments. 'Numerous' and 'intermediate' groups were combined to define the 'abundant' group.
+PD-L1+ TAIC in the tumour microenvironment were qualitatively assessed, and characterised as 'numerous', 'intermediate', and 'rare' based on pathologist assessments. 'Numerous' and 'intermediate' groups were combined to define the 'abundant' group.
 
 Patients with investigator-assessed primary site of oropharyngeal cancer were tested for HPV (determined by p16 immunohistochemistry [IHC]). OS benefit was observed regardless of HPV status (HPV-positive: HR = 0.63; 95% CI: 0.38, 1.04, HPV-negative: HR = 0.64; 95% CI: 0.40, 1.03, and HPV-unknown: HR = 0.78; 95% CI: 0.55, 1.10).
 
@@ -2964,85 +3020,11 @@ Figure 26: Kaplan Meier curves of PFS (CA209901)
 
 <!-- image -->
 
-## Number of subjects at risk
-
-Nivolumab + gemcitabine-cisplatin chemotherapy
-
-304  253  179  116
-
-82
-
-65
-
-57
-
-49
-
-Gemcitabine-cisplatin chemotherapy
-
-304  223  119
-
-63
-
-35
-
-25
-
-17
-
-12
-
-41
-
-12
-
-36
-
-10
-
-31
-
-9
-
-26
-
-8
-
-19
-
-6
-
-14
-
-5
-
-11
-
-2
-
-10
-
-1
-
-10
-
-1
-
-6
+0
 
 0
 
-5
-
-0
-
-1
-
-0
-
-Nivolumab + gemcitabine-cisplatin chemotherapy (events: 211/304), median and 95% CI: 7.92 (7.62, 9.49)
-
-  
+<!-- image -->
 
 - - - - - -Gemcitabine-cisplatin chemotherapy (events: 191/304), median and 95% CI: 7.56 (6.05, 7.75) Based on clinical data cut-off: 09-May-2023, minimum follow-up of 7.4 months
 
@@ -3055,12 +3037,6 @@ The safety and efficacy of nivolumab 3 mg/kg as a single agent for the treatment
 The study included patients (18 years or older) who had disease progression during or following platinum-containing chemotherapy for advanced or metastatic disease or had disease progression within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy. Patients had an ECOG performance status score of 0 or 1 and were enrolled regardless of their tumour PD-L1 status. Patients with active brain metastases or leptomeningeal metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the study. Patients that received more than 2 prior lines of chemotherapy with liver metastases were excluded.
 
 A total of 270 patients who received nivolumab 3 mg/kg administered intravenously over 60 minutes every 2 weeks with a minimum follow-up of 8.3 months were evaluable for efficacy. Treatment was continued as long as clinical benefit was observed or until treatment was no longer tolerated. The first
-
-Progression free Survival (months)
-
-0
-
-0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3090,7 +3066,7 @@ Table 47: Efficacy results (CA209275) a
 | Median (95% CI) months                     |                       | 8.6 (6.05, 11.27)             |
 | Rate (95% CI) at 12 months                 |                       | 41.0 (34.8, 47.1)             |
 | Tumour PD-L1                               | expression level < 1% | ≥ 1%                          |
-| Median duration of response Months (range) |                       | 25% (17.7, 33.6)              |
+| Median duration of response Months (range) |                       |                               |
 |                                            | 10.4 (3.7, 12.0 + )   | Not Reached (1.9 + , 12.0 + ) |
 | Progression-free survival                  |                       |                               |
 | Median (95% CI) months                     | 1.9 (1.8, 2.0)        | 3.6 (1.9, 3.7)                |
@@ -3137,21 +3113,21 @@ The study met the primary endpoint, at the planned interim analysis, demonstrati
 
 Table 48: Efficacy results in first-line MSI-H/dMMR centrally confirmed CRC (CA2098HW) a
 
-|                                                          | nivolumab + ipilimumab (n = 171)   | chemotherapy (n = 84)   |
-|----------------------------------------------------------|------------------------------------|-------------------------|
-| Progression-free survival                                |                                    |                         |
-| Events                                                   | 48 (28%)                           | 52 (62%)                |
-| Hazard ratio                                             |                                    | 0.21                    |
-| 95% CI                                                   |                                    | (0.14, 0.32)            |
-| p-value b                                                | <                                  | 0.0001                  |
-| Median (95% CI) (months)                                 | NR (38.4, NR)                      | 5.9 (4.4, 7.8)          |
-| a Median follow-up of 31.5 b Based on stratified 2-sided | (range: 6.1 to 48.4 months).       |                         |
+|                                                          | nivolumab + ipilimumab (n = 171)           | chemotherapy (n = 84)   |
+|----------------------------------------------------------|--------------------------------------------|-------------------------|
+| Progression-free survival                                |                                            |                         |
+| Events                                                   | 48 (28%)                                   | 52 (62%)                |
+| Hazard ratio                                             |                                            | 0.21                    |
+| 95% CI                                                   |                                            | (0.14, 0.32)            |
+| p-value b                                                | <                                          | 0.0001                  |
+| Median (95% CI) (months)                                 | NR (38.4, NR)                              | 5.9 (4.4, 7.8)          |
+| a Median follow-up of 31.5 b Based on stratified 2-sided | (range: 6.1 to 48.4 months). log-rank test |                         |
 
 <div style=\"page-break-after: always\"></div>
 
 | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-| 171                          | 144                          | 132                          | 122                          | 108                          | 95                           | 92                           | 77                           | 64                           | 53                           | 42                           | 37                           | 22                           | 10                           | 9                            | 0                            |
+| 171                          | 144                          | 132                          | 122                          | 108                          | 95                           | 92                           | 77                           | 64                           | 53                           | 42                           | 37                           | 22                           | 10                           | 1                            | 0                            |
 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 |
 | 84                           | 53                           | 29                           | 20                           | 10                           | 6                            | 5                            | 5                            | 3                            | 2                            | 0                            | 0                            | 0                            | 0                            | 0                            | 0                            |
 
@@ -3207,7 +3183,7 @@ nivolumab plus ipilimumab arm received nivolumab 3 mg/kg every 2 weeks in combin
 
 Baseline characteristics were generally balanced across treatment groups. In patients with tumour cell PD-L1 expression ≥ 1%, the median age was 63 years (range: 26-85), 8.2% were ≥ 75 years of age, 81.8% were male, 73.1% were Asian, and 23.3% were white. Patients had histological confirmation of squamous cell carcinoma (98.9%) or adenosquamous cell carcinoma (1.1%) in the oesophagus. Baseline ECOG performance status was 0 (45.2%) or 1 (54.8%).
 
-Nivolumab in combination with ipilimumab vs. chemotherapy
+## Nivolumab in combination with ipilimumab vs. chemotherapy
 
 The primary efficacy outcome measures were PFS (by BICR) and OS assessed in patients with tumour cell PD-L1 expression ≥ 1%. Secondary endpoints per the pre-specified hierarchical testing included OS, PFS (by BICR), and ORR (by BICR) in all randomised patients. The tumour assessments per RECIST v1.1 were conducted every 6 weeks up to and including week 48, then every 12 weeks thereafter.
 
@@ -3304,14 +3280,16 @@ Based on data cut-off: 23-Aug-2021, minimum follow-up of 20 months
 
 <div style=\"page-break-after: always\"></div>
 
+Figure 30: Kaplan-Meier curves of PFS in patients with tumour cell PD-L1 ≥ 1% (CA209648)
+
 | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-|                              | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     |
-|                              | 158                          | 107                          | 75                           | 47                           | 30 22                        | 16                           | 10                           | 10                           | 7                            | 6                            | 4                            | 0                            | 0                            | 0                            |
-|                              | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 |
-|                              | 157                          | 68                           | 36 17                        |                              | 5 1                          | 1                            | 1                            | 1                            | 1                            | 1                            | 1                            | 1                            | 1                            | 0                            |
+| Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     |
+| 158                          | 107                          | 75                           | 47                           | 30                           | 22                           | 16                           | 10                           | 10                           | 7                            | 6                            | 4                            | 0                            | 0                            | 0                            |
+| Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 |
+| 157                          | 68                           | 36                           | 17                           | 5                            | 1                            | 1                            | 1                            | 1                            | 1                            | 1                            | 1                            | 1                            | 1                            | 0                            |
 
-Figure 30: Kaplan-Meier curves of PFS in patients with tumour cell PD-L1 ≥ 1% (CA209648)
+Based on data cut-off: 23-Aug-2021, minimum follow-up of 20 months
 
 <!-- image -->
 
@@ -3407,6 +3385,14 @@ c Descriptive analysis based on data cut-off: 18-Feb-2021.
 
 <!-- image -->
 
+- - -
+
+
+
+- - -
+
+Placebo (events: 171/262), median and 95% CI: 10.35 (8.31, 13.93)
+
 Based on data cut-off: 18-Feb-2021, minimum follow-up of 14 months
 
 At the final OS analysis with a minimum follow up of 60 months, the HR for OS was 0.85 (95.87% CI: 0.70, 1.04), p-value = 0.1064. Median OS was 51.71 (95% CI: 41.03, 61.63) months in the nivolumab arm compared with 35.25 (95% CI: 30.72, 48.76) months in the placebo arm. The Kaplan-Meier curves for OS with a minimum follow-up of 60 months are shown in Figure 33.
@@ -3457,6 +3443,16 @@ Table 54: Efficacy results in patients with PD-L1 CPS ≥ 5 (CA209649)
 | Partial response               | 47.9%                                | 38.5%                    |
 | Duration of response d,e       |                                      |                          |
 | Median (95% CI) (months) c     | 9.69 (8.25, 12.22)                   | 6.97 (5.62, 7.85)        |
+
+- a Descriptive analysis based on data cut-off: 04-Jan-2021.
+
+b Based on stratified long Cox proportional hazard model.
+
+c Kaplan-Meier estimate.
+
+d Confirmed by BICR.
+
+- e Based on patients with measurable disease at baseline.
 
 Figure 34: Kaplan-Meier curves of OS in patients with PD-L1 CPS ≥ 5 (CA209649)
 
@@ -3576,7 +3572,6 @@ Table 55: Efficacy results in first-line HCC (CA2099DW) a
 | Events                          | 194 (58%)                          | 228 (68%)                           |
 | Median (months) (95% CI)        | 23.7 (18.8, 29.4)                  | 20.6 (17.5, 22.5)                   |
 | Hazard ratio (95% CI) b         | 0.79 (0.65, 0.96)                  | 0.79 (0.65, 0.96)                   |
-| p-value c                       | 0.0180                             |                                     |
 | Overall Response Rate, n (%) d  | 121 (36.1)                         | 44 (13.2)                           |
 | (95% CI)                        | (31.0, 41.5)                       | (9.8, 17.3)                         |
 | p-value e                       | < 0.0001                           | < 0.0001                            |
@@ -3706,9 +3701,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-## Unopened vial
-
-3 years
+Unopened vial 3 years
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3875,8 +3868,6 @@ Date of latest renewal: 23 April 2020
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
-133
-
 <div style=\"page-break-after: always\"></div>
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
@@ -3998,7 +3989,7 @@ Melanoma
 
 Table 1: Recommended doses and infusion times for OPDIVO solution for infusion in combination with ipilimumab followed by OPDIVO solution for injection monotherapy for melanoma (see section 5.1)
 
-| (IV)                                  | Combination phase OPDIVO solution for infusion, intravenously and ipilimumab, for 4 dosing cycles                                                                        | Monotherapy phase OPDIVO solution for injection, subcutaneously (SC)   |
+| OPDIVO infusion, (IV) and             | Combination phase solution for intravenously ipilimumab, for 4 dosing cycles                                                                                             | Monotherapy phase OPDIVO solution for injection, subcutaneously (SC)   |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
 | 1 mg/kg every 3 weeks over 30 minutes | • 3 weeks after the last dose of the combination of IV nivolumab and ipilimumab if using 600 mg every 2 weeks; or • 6 weeks after the last dose of the combination of IV | Nivolumab                                                              |
 | 3 mg/kg every 3 weeks 30 minutes      | -                                                                                                                                                                        | Ipilimumab over                                                        |
@@ -4007,10 +3998,10 @@ Renal cell carcinoma (RCC)
 
 Table 2: Recommended doses and infusion times for OPDIVO solution for infusion in combination with ipilimumab followed by OPDIVO solution for injection monotherapy for RCC
 
-| Combination phase OPDIVO solution for infusion, intravenously (IV) and ipilimumab, for 4 dosing cycles                                       | Monotherapy phase OPDIVO solution for injection, subcutaneously (SC)   |
-|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| every 3 weeks over minutes • 3 weeks after the last dose of the combination of IV nivolumab and ipilimumab if using 600 mg every 2 weeks; or | Nivolumab 3 mg/kg 30                                                   |
-| mg/kg every 3 weeks over minutes -                                                                                                           | Ipilimumab 1 30                                                        |
+| Combination phase OPDIVO solution for infusion, intravenously (IV) and ipilimumab, for 4 dosing cycles                                                                                    | Monotherapy phase OPDIVO solution for injection, subcutaneously (SC)   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| every 3 weeks over • 3 weeks after the last dose of the combination of IV nivolumab and ipilimumab if using 600 mg every 2 weeks; or • weeks after the last dose of the combination of IV | Nivolumab 3 mg/kg 30 minutes 6                                         |
+| every 3 weeks over minutes -                                                                                                                                                              | Ipilimumab 1 mg/kg 30                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4026,10 +4017,10 @@ Hepatocellular carcinoma (HCC)
 
 Table 4: Recommended doses and infusion times for OPDIVO solution for infusion in combination with ipilimumab followed by OPDIVO solution for injection monotherapy for the treatment of HCC (see sections 5.1 and 5.2)
 
-| phase solution for intravenously dosing cycles   | Combination OPDIVO infusion, (IV) and ipilimumab for up to 4                                                                                                       | Monotherapy phase* OPDIVO solution for injection, subcutaneously (SC)   |
-|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| 1 mg/kg every 3 weeks over 30 minutes            | 600 mg every 2 weeks or 1200 mg every 4 weeks The first dose should be administered 3 weeks after the last dose of the combination of IV nivolumab and ipilimumab. | Nivolumab                                                               |
-| 3 mg/kg every 3 weeks over 30 minutes            | -                                                                                                                                                                  | Ipilimumab                                                              |
+| phase solution ipilimumab dosing cycles   | Combination OPDIVO for infusion, intravenously (IV) and for up to 4                                                                                                | Monotherapy phase* OPDIVO solution for injection, subcutaneously (SC)   |
+|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| 1 mg/kg every 3 weeks over 30 minutes     | 600 mg every 2 weeks or 1200 mg every 4 weeks The first dose should be administered 3 weeks after the last dose of the combination of IV nivolumab and ipilimumab. | Nivolumab                                                               |
+| 3 mg/kg every 3 weeks over 30 minutes     | -                                                                                                                                                                  | Ipilimumab                                                              |
 
 *Treatment is recommended until disease progression, unacceptable toxicity, or up to 24 months.
 
@@ -4098,22 +4089,22 @@ Dose escalation or reduction is not recommended for OPDIVO as monotherapy or in 
 
 Table 10: Recommended treatment modifications for OPDIVO or OPDIVO in combination
 
-| Immune-related adverse reaction                                                                                                                          | Severity                                                                                                                                 | Treatment modification                                                                                                                              |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Immune-related pneumonitis                                                                                                                               | Grade 2 pneumonitis                                                                                                                      | Withhold dose(s) until symptoms resolve, radiographic abnormalities improve, and management with corticosteroids is complete                        |
-| Immune-related pneumonitis                                                                                                                               | Grade 3 or 4 pneumonitis                                                                                                                 | Permanently discontinue treatment                                                                                                                   |
-| Immune-related pneumonitis                                                                                                                               | Grade 2 diarrhoea or colitis                                                                                                             | Withhold dose(s) until symptoms resolve and management with corticosteroids, if needed, is complete                                                 |
-| Immune-related colitis                                                                                                                                   | Grade 3 diarrhoea or colitis OPDIVO monotherapy                                                                                          | Withhold dose(s) until symptoms resolve and management with corticosteroids is complete                                                             |
-| Immune-related pneumonitis                                                                                                                               | OPDIVO+ipilimumab a                                                                                                                      | Permanently discontinue treatment                                                                                                                   |
-| Immune-related pneumonitis                                                                                                                               | Grade 4 diarrhoea or colitis                                                                                                             | Permanently discontinue treatment                                                                                                                   |
-| Immune-related hepatitis NOTE: for RCC patients treated with OPDIVO in combination with cabozantinib with liver enzyme elevations, see dosing guidelines | Grade 2 elevation in aspartate aminotransferase (AST), alanine aminotransferase (ALT), or total bilirubin                                | Withhold dose(s) until laboratory values return to baseline and management with corticosteroids, if needed, is complete                             |
-| Immune-related hepatitis NOTE: for RCC patients treated with OPDIVO in combination with cabozantinib with liver enzyme elevations, see dosing guidelines | 3                                                                                                                                        | Permanently discontinue treatment                                                                                                                   |
-| Immune-related hepatitis NOTE: for RCC patients treated with OPDIVO in combination with cabozantinib with liver enzyme elevations, see dosing guidelines | Grade or 4 elevation in AST, ALT, or total bilirubin                                                                                     |                                                                                                                                                     |
-| Immune-related nephritis and renal dysfunction                                                                                                           | Grade 2 or 3 creatinine elevation                                                                                                        | Withhold dose(s) until creatinine returns to baseline and management with corticosteroids is complete                                               |
-| Immune-related nephritis and renal dysfunction                                                                                                           | Grade 4 creatinine elevation                                                                                                             | Permanently discontinue treatment                                                                                                                   |
-| Immune-related endocrinopathies                                                                                                                          | Grade 3 diabetes Grade 4 hypothyroidism Grade 4 hyperthyroidism Grade 4 hypophysitis Grade 3 or 4 adrenal insufficiency Grade 4 diabetes | Treatment should be continued in the presence of hormone replacement therapy b as long as no symptoms are present Permanently discontinue treatment |
-| Immune-related endocrinopathies                                                                                                                          | Grade 3 rash                                                                                                                             | Withhold dose(s) until symptoms                                                                                                                     |
-| adverse reactions                                                                                                                                        | Grade 4 rash Stevens-Johnson syndrome (SJS) or                                                                                           | Permanently discontinue treatment Permanently discontinue treatment (see                                                                            |
+| Immune-related adverse reaction                                                                                       | Severity                                                                                                                                                                                                                                                    | Treatment modification                                                                                                                                                                                                                                                                                                                                  |
+|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Immune-related pneumonitis                                                                                            | Grade 2 pneumonitis                                                                                                                                                                                                                                         | Withhold dose(s) until symptoms resolve, radiographic abnormalities improve, and management with corticosteroids is complete                                                                                                                                                                                                                            |
+| Immune-related pneumonitis                                                                                            | Grade 3 or 4 pneumonitis                                                                                                                                                                                                                                    | Permanently discontinue treatment                                                                                                                                                                                                                                                                                                                       |
+| Immune-related pneumonitis                                                                                            | Grade 2 diarrhoea or colitis                                                                                                                                                                                                                                | Withhold dose(s) until symptoms resolve and management with corticosteroids, if needed, is complete                                                                                                                                                                                                                                                     |
+| Immune-related colitis                                                                                                | Grade 3 diarrhoea or colitis OPDIVO monotherapy                                                                                                                                                                                                             | Withhold dose(s) until symptoms resolve and management with corticosteroids is complete                                                                                                                                                                                                                                                                 |
+| Immune-related colitis                                                                                                | OPDIVO+ipilimumab a                                                                                                                                                                                                                                         | Permanently discontinue treatment                                                                                                                                                                                                                                                                                                                       |
+| Immune-related colitis                                                                                                | Grade 4 diarrhoea or colitis                                                                                                                                                                                                                                | Permanently discontinue treatment                                                                                                                                                                                                                                                                                                                       |
+| Immune-related hepatitis NOTE: for                                                                                    | Grade 2 elevation in aspartate aminotransferase (AST), alanine aminotransferase (ALT), or total bilirubin                                                                                                                                                   | Withhold dose(s) until laboratory values return to baseline and management with corticosteroids, if needed, is complete                                                                                                                                                                                                                                 |
+| RCC patients treated with OPDIVO in combination with cabozantinib with liver enzyme elevations, see dosing guidelines | Grade 3 or 4 elevation in AST, ALT, total bilirubin                                                                                                                                                                                                         | Permanently discontinue treatment                                                                                                                                                                                                                                                                                                                       |
+| Immune-related nephritis and renal dysfunction                                                                        | Grade 2 or 3 creatinine elevation                                                                                                                                                                                                                           | Withhold dose(s) until creatinine returns to baseline and management with corticosteroids is complete                                                                                                                                                                                                                                                   |
+| Immune-related nephritis and renal dysfunction                                                                        | Grade 4 creatinine elevation                                                                                                                                                                                                                                | Permanently discontinue treatment                                                                                                                                                                                                                                                                                                                       |
+| Immune-related endocrinopathies                                                                                       | Symptomatic Grade 2 or 3 hypothyroidism, hyperthyroidism, hypophysitis, Grade 2 adrenal insufficiency Grade 3 diabetes Grade 4 hypothyroidism Grade 4 hyperthyroidism Grade 4 hypophysitis Grade 3 or 4 adrenal insufficiency Grade 4 diabetes Grade 3 rash | Withhold dose(s) until symptoms resolve and management with corticosteroids (if needed for symptoms of acute inflammation) is complete. Treatment should be continued in the presence of hormone replacement therapy b as long as no symptoms are present Permanently discontinue treatment Withhold dose(s) until symptoms resolve and management with |
+| Immune-related endocrinopathies                                                                                       |                                                                                                                                                                                                                                                             | corticosteroids is complete                                                                                                                                                                                                                                                                                                                             |
+| Immune-related skin adverse reactions                                                                                 | Grade 4 rash                                                                                                                                                                                                                                                | Permanently discontinue treatment Permanently discontinue treatment                                                                                                                                                                                                                                                                                     |
+| Immune-related skin adverse reactions                                                                                 | Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN)                                                                                                                                                                                          | (see section 4.4)                                                                                                                                                                                                                                                                                                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4560,11 +4551,7 @@ Adverse reaction frequencies presented in Table 11 may not be fully attributable
 - b Frequencies of laboratory terms reflect the proportion of patients who experienced a worsening from baseline in laboratory measurements. See 'Description of selected adverse reactions; laboratory abnormalities' below.
 - c Rash is a composite term which includes rash maculopapular, rash erythematous, rash pruritic, rash follicular, rash macular, rash morbilliform, rash papular, rash pustular, rash vesicular, exfoliative rash, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis atopic, dermatitis bullous, dermatitis exfoliative, dermatitis psoriasiform, drug eruption and pemphigoid.
 - d Reported also in studies outside the pooled dataset. The frequency is based on the programme-wide exposure.
-
-e
-
-Musculoskeletal pain is a composite term which includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, myalgia intercostal, neck pain, pain in extremity, and spinal pain.
-
+- e Musculoskeletal pain is a composite term which includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, myalgia intercostal, neck pain, pain in extremity, and spinal pain.
 - f Post-marketing event (also see section 4.4).
 - g Reported in clinical studies and in the post-marketing setting.
 - h Pericardial disorders is a composite term which includes pericarditis, pericardial effusion, cardiac tamponade, and Dressler's syndrome.
@@ -4946,7 +4933,7 @@ Table 14: Efficacy results (CA20976K)
 | Recurrence-free survival                                    |                                                             |                                                             |
 | Events                                                      | 102 (19.4%)                                                 | 84 (31.8%)                                                  |
 | Hazard ratio a                                              | 0.53                                                        |                                                             |
-| 95% CI                                                      | (0.40, 0.71)                                                | (0.40, 0.71)                                                |
+| 95% CI                                                      | (0.40, 0.71)                                                |                                                             |
 | Median (95% CI) months                                      | NR                                                          | 36.14 (24.77, NR)                                           |
 | Rate (95% CI) at 12 months b                                | 88.8 (85.6, 91.2)                                           | 81.1 (75.7, 85.4)                                           |
 | Rate (95% CI) at 18 months b                                | 83.9 (80.3, 86.9)                                           | 70.7 (64.5, 76.1)                                           |
@@ -4957,11 +4944,11 @@ Figure 1: Recurrence-free survival (CA20976K)
 
 <!-- image -->
 
+Nivolumab vs. Placebo - HR (95% CI): 0.53 (0.40, 0.71)
+
 Based on data cut-off: 21-February-2023, minimum follow-up of 15.6 months
 
 Tumour PD-L1 expression data were available for 302/790 (38.2%) randomised patients (36.3% and 42.0% in the nivolumab and placebo arms, respectively), as PD-L1 expression was not a stratification factor for randomisation. The exploratory RFS analyses by PD-L1 expression showed a HR for nivolumab vs placebo of 0.43 (95% CI: 0.22, 0.84) in patients (N = 167) with PDL1 expression ≥ 1%, 0.82 (95% CI: 0.44, 1.54) in patients (N = 135) with PD-L1 expression &lt; 1%, and 0.50 (95% CI: 0.34, 0.73) in patients (N = 488) with indeterminate/not reported/not evaluable PD-L1 expression.
-
-39
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4991,8 +4978,10 @@ Table 15: Efficacy results (CA209238)
 
 |                                                                                | nivolumab (n = 453)                                                            | ipilimumab 10 mg/kg (n = 453)                                                  |
 |--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| Median (95% CI) months                                                         | NR (38.67, NR)                                                                 | 24.87 (16.62, 35.12)                                                           |
 | Recurrence-free survival with minimum follow-up 48 months                      | Recurrence-free survival with minimum follow-up 48 months                      | Recurrence-free survival with minimum follow-up 48 months                      |
 | Events                                                                         | 212 (46.8%)                                                                    | 253 (55.8%)                                                                    |
+| Hazard ratio a 95% CI                                                          | 0.71 (0.60, 0.86)                                                              | 0.71 (0.60, 0.86)                                                              |
 | Median (95% CI) months                                                         | 52.37 (42.51, NR)                                                              | 24.08 (16.56, 35.09)                                                           |
 | Rate (95% CI) at 12 months                                                     | 70.4 (65.9, 74.4)                                                              | 60.0 (55.2, 64.5)                                                              |
 | Rate (95% CI) at 18 months                                                     | 65.8 (61.2, 70.0)                                                              | 53.0 (48.1, 57.6)                                                              |
@@ -5002,11 +4991,11 @@ Table 15: Efficacy results (CA209238)
 | Final pre-specified analysis Overall survival with minimum follow-up 48 months | Final pre-specified analysis Overall survival with minimum follow-up 48 months | Final pre-specified analysis Overall survival with minimum follow-up 48 months |
 | Events                                                                         | 100 (22.1%)                                                                    | 111 (24.5%)                                                                    |
 | Hazard ratio a 95.03% CI p-value Median (95% CI) months                        | Not Reached                                                                    | Not Reached                                                                    |
-| Rate (95% CI) at 12 months Rate (95% CI) at 18 months                          | 96.2 (93.9, 97.6) 91.9 (88.9, 94.1)                                            | 95.3 (92.8, 96.9) 91.8 (88.8, 94.0)                                            |
+| Rate (95% CI) at 12 months                                                     | 96.2 (93.9, 97.6)                                                              | 95.3 (92.8, 96.9)                                                              |
+| Rate (95% CI) at 18 months                                                     | 91.9 (88.9, 94.1)                                                              | 91.8 (88.8, 94.0)                                                              |
 | Rate (95% CI) at 24 months                                                     | 88.0 (84.6, 90.7)                                                              | 87.8 (84.4, 90.6)                                                              |
 | Rate (95% CI) at 36 months                                                     | 81.7 (77.8, 85.1)                                                              | 81.6 (77.6, 85.0)                                                              |
-| Rate (95% CI) at 48                                                            | 77.9 (73.7, 81.5)                                                              | 76.6 (72.2, 80.3)                                                              |
-| months                                                                         |                                                                                |                                                                                |
+| Rate (95% CI) at 48 months                                                     | 77.9 (73.7, 81.5)                                                              | 76.6 (72.2, 80.3)                                                              |
 
 a Derived from a stratified proportional hazards model.
 
@@ -5310,12 +5299,12 @@ PFS results from descriptive analysis (with minimum follow up of 90 months) are 
 
 <div style=\"page-break-after: always\"></div>
 
-| Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |
+| Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-|                              | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       |
-|                              | 314                          | 175                          | 126                          | 112                          | 103                          | 99                           | 93                           | 87                           | 84                           | 78                           | 76                           | 70                           | 66                           | 57                           | 33                           | 1 -                          |
-|                              | 316 Ipilimumab               | 151                          | 106                          | 97                           | 84                           | 78                           | 73                           | 69                           | 66                           | 62                           | 57                           | 54                           | 50                           | 44                           | 21                           | 0 -                          |
-|                              | 315                          | 78                           | 34                           | 31                           | 28                           | 21                           | 18                           | 16                           | 15                           | 12                           | 11                           | 10                           | 9                            | 9                            | 7                            | 1 -                          |
+|                              | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |
+|                              | 314                          | 175                          | 126                          |                          112 |                          103 |                           99 |                           93 |                           87 |                           84 |                           78 |                           76 |                           70 |                           66 | 57 33                        | -                            |                              |
+|                              | 316 Ipilimumab               | 151                          | 106                          |                           97 |                           84 |                           78 |                           73 |                           69 |                           66 |                           62 |                           57 |                           54 |                           50 | 44 21                        | -                            |                              |
+|                              | 315                          | 78                           | 34                           |                           31 |                           28 |                           21 |                           18 |                           16 |                           15 |                           12 |                           11 |                           10 |                            9 | 9 7                          | -                            |                              |
 
 Figure 5: Progression-free survival (CA209067)
 
@@ -5360,7 +5349,7 @@ Figure 7: Progression-free survival by PD-L1 expression: 1% cut off (CA209067)
 |                              |                              |                              |                              | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            |
 |                              |                              |                              |                              | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  |
 
-PDL1 expression ≥ 1%
+PD-L1 expression ≥ 1%
 
 <!-- image -->
 
@@ -5378,16 +5367,16 @@ The OS analysis was not adjusted to account for subsequent therapies received. S
 
 -
 
-| Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |
+| Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-| Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         |                              |                              |                              |                              |                              |                              |                              |                              |                              | 144                          |                              |                              |                              |
-| 314                          | 265                          | 227                          | 210                          | 199                          | 187                          | 179                          | 169                          | 163                          | 158                          | 156                          | 153                          | 147                          |                              | 141                          | 129                          | 7                            |
+| Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |
+| 314                          | 265                          | 227                          | 210                          |                          199 |                          187 |                          179 |                          169 |                          163 |                          158 |                          156 |                          153 |                          147 |                          144 |                          141 |                          129 |                            7 |
 | Nivolumab                    | Nivolumab                    |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |
-| 316                          | 266                          | 231                          | 201                          | 181                          | 171                          | 158                          | 145                          | 141                          | 137                          | 134                          | 130                          | 126                          | 123                          | 120                          | 107                          | 4                            |
+| 316                          | 266                          | 231                          | 201                          |                          181 |                          171 |                          158 |                          145 |                          141 |                          137 |                          134 |                          130 |                          126 |                          123 |                          120 |                          107 |                            4 |
 | Ipilimumab                   | Ipilimumab                   |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |
-| 315                          |                              | 203                          | 163                          | 135                          | 113                          | 100                          |                              | 87                           | 81                           |                              | 68                           | 64                           | 63                           | 63                           | 57                           |                              |
-|                              |                              |                              |                              |                              |                              |                              |                              |                              |                              | 75                           |                              |                              |                              |                              |                              | 5                            |
-|                              |                              |                              |                              |                              |                              |                              | 94                           |                              |                              |                              |                              |                              |                              |                              |                              |                              |
+| 315                          |                              | 203                          | 163                          |                          135 |                          113 |                          100 |                              |                           87 |                           81 |                           75 |                           68 |                           64 |                           63 |                           63 |                           57 |                              |
+|                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                            5 |
+|                              |                              |                              |                              |                              |                              |                              |                           94 |                              |                              |                              |                              |                              |                              |                              |                              |                              |
 |                              | 253                          |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |
 
 <!-- image -->
@@ -5402,7 +5391,7 @@ Figure 9: Overall survival by PD-L1 expression: 5% cut off (CA209067) - Minimum 
 
 <div style=\"page-break-after: always\"></div>
 
-PDL1 expression ≥ 5%
+PD-L1 expression ≥ 5%
 
 <!-- image -->
 
@@ -5413,12 +5402,6 @@ Figure 10: Overall survival by PD-L1 expression: 1% cut off (CA209067) - Minimum
 ## PD-L1 expression &lt; 1%
 
 <!-- image -->
-
--
-
--
-
--
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5667,11 +5650,11 @@ Study CA209171 was a single-arm, open label study of nivolumab monotherapy in pa
 
 Table 22: ORR based on response evaluable patients - total and by subgroup (CA209171)
 
-| Results                         | Total        | ECOG PS 2   | < 75 years   | ≥ 75 years    |
-|---------------------------------|--------------|-------------|--------------|---------------|
-| N responders/ N evaluable a (%) | 66/671 (9.8) | 1/64 (6.1)  | 55/568 (9.7) | 11/103 (10.7) |
-| 95% CI b                        | (7.7,        | (0.0,       | (7.4,        | (5.5,         |
-|                                 | 12.3)        | 8.4)        | 12.4)        | 18.3)         |
+| Results                         | Total       | ECOG PS 2   | < 75 years   | ≥ 75 years   |
+|---------------------------------|-------------|-------------|--------------|--------------|
+| N responders/ N evaluable a (%) | 66/671      | 1/64 (6.1)  | 55/568 (9.7) | 11/103       |
+| 95% CI b                        | (9.8)       |             | (7.4,        | (10.7)       |
+|                                 | (7.7, 12.3) | (0.0, 8.4)  | 12.4)        | (5.5, 18.3)  |
 
 a includes confirmed and unconfirmed responses, scans were mandatory only at week 8/9 and week 52.
 
@@ -5695,22 +5678,19 @@ The Kaplan-Meier curves for OS are shown in Figure 14.
 
 <div style=\"page-break-after: always\"></div>
 
+| Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |
+|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
+|                              | Nivolumab 3 mg/kg            | Nivolumab 3 mg/kg            | Nivolumab 3 mg/kg            | Nivolumab 3 mg/kg            | Nivolumab 3 mg/kg            | Nivolumab 3 mg/kg            | Nivolumab 3 mg/kg            | Nivolumab 3 mg/kg            | Nivolumab 3 mg/kg            |
+|                              | 292                          | 232                          | 194                          | 169                          | 146                          | 123                          | 62                           | 32                           | 9 0                          |
+|                              | Docetaxel 290                | 244                          | 194                          | 150                          | 111                          | 88                           | 34                           | 10                           | 5 0                          |
+
 Figure 14: Kaplan-Meier curves of OS (CA209057)
 
 <!-- image -->
 
-27
-
 0
 
 0
-
-| Number of subjects at risk                                    |
-|---------------------------------------------------------------|
-| Nivolumab 3 mg/kg 292 232 194 169 146 123 62 32 9 0 Docetaxel |
-| 290 244 194 150 111 88 34 10 5 0                              |
-
----- ----Nivolumab 3 mg/kg (events: 190/292), median and 95% CI: 12.19 (9.66, 14.98) - - - - - -Docetaxel (events: 223/290), median and 95% CI: 9.36 (8.05, 10.68)
 
 The trial demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with docetaxel at the prespecified interim analysis when 413 events were observed (93% of the planned number of events for final analysis). Efficacy results are shown in Table 23.
 
@@ -5729,33 +5709,33 @@ Table 23: Efficacy results (CA209057)
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                                                                                  | nivolumab (n = 292)                             | docetaxel (n = 290)               |
-|------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----------------------------------|
-| Confirmed objective response                                                                                     | 56 (19.2%)                                      | 36 (12.4%)                        |
-| (95% CI)                                                                                                         | (14.8, 24.2)                                    | (8.8, 16.8)                       |
-| Odds ratio (95% CI)                                                                                              | 1.68 (1.07, 2.64)                               | 1.68 (1.07, 2.64)                 |
-| p-value                                                                                                          | 0.0246                                          | 0.0246                            |
-| Complete response (CR)                                                                                           | 4 (1.4%)                                        | 1 (0.3%)                          |
-| Partial response (PR)                                                                                            | 52 (17.8%)                                      | 35 (12.1%)                        |
-| Stable disease (SD)                                                                                              | 74 (25.3%)                                      | 122 (42.1%)                       |
-| Median duration of response Months (range)                                                                       | +                                               | + +                               |
-| Median time to response Months (range)                                                                           | 17.15 (1.8-22.6 )                               | 5.55 (1.2 -15.2 )                 |
-| Progression-free survival Events Hazard ratio 95% CI p-value Median (95% CI) (months) Rate (95% CI) at 12 months | 2.10 (1.2-8.6) 234 (80.1%)                      | 2.61 (1.4-6.3) 245 (84.5%)        |
-| Overall survival c                                                                                               | 2.33 (2.17, 3.32) 18.5 (14.1, 23.4)             | 4.21 (3.45, 4.86) 8.1 (5.1, 12.0) |
-|                                                                                                                  | Updated                                         |                                   |
-|                                                                                                                  | analysis Minimum follow-up: 24.2 months         | 247 (85.1%)                       |
-| Events Hazard ratioa (95% CI)                                                                                    | 228 (78.1%)                                     |                                   |
-| Confirmed objective response (95% CI)                                                                            | 19.2% (14.8, 24.2)                              | 12.4% (8.8, 16.8)                 |
-| Median duration of response                                                                                      | 17.2 (1.8-33.7 + )                              | 5.6 (1.2 + -16.8)                 |
-| Months (range)                                                                                                   | 11.9 (8.3, 16.2)                                |                                   |
-| Progression-free survival Rate (95% CI) at 24 months                                                             |                                                 | 1.0 (0.2, 3.3)                    |
-| Overall survival d                                                                                               | Updated analysis Minimum follow-up: 62.7 months |                                   |
-|                                                                                                                  | 250 (85.6%)                                     | 279 (96.2%)                       |
-| Events                                                                                                           |                                                 |                                   |
-| a                                                                                                                |                                                 |                                   |
-| Hazard ratio (95% CI)                                                                                            |                                                 |                                   |
-| Rate (95% CI) at 60 months                                                                                       |                                                 | 2.1 (0.9, 4.4)                    |
-|                                                                                                                  | 14.0 (10.2, 18.3)                               |                                   |
+|                                                                               | nivolumab (n = 292)                             | docetaxel (n = 290)               |
+|-------------------------------------------------------------------------------|-------------------------------------------------|-----------------------------------|
+| Confirmed objective response                                                  | 56 (19.2%)                                      | 36 (12.4%)                        |
+| (95% CI)                                                                      | (14.8, 24.2)                                    | (8.8, 16.8)                       |
+| Odds ratio (95% CI)                                                           | 1.68 (1.07, 2.64)                               | 1.68 (1.07, 2.64)                 |
+| p-value                                                                       | 0.0246                                          | 0.0246                            |
+| Complete response (CR)                                                        | 4 (1.4%)                                        | 1 (0.3%)                          |
+| Partial response (PR)                                                         | 52 (17.8%)                                      | 35 (12.1%)                        |
+| Stable disease (SD)                                                           | 74 (25.3%)                                      | 122 (42.1%)                       |
+| Median duration of response                                                   | +                                               |                                   |
+| Months (range) Median time to response Months (range)                         | 17.15 (1.8-22.6 )                               | 5.55 (1.2 + -15.2 + )             |
+| Progression-free survival Events Hazard ratio 95% CI p-value                  | 2.10 (1.2-8.6) 234 (80.1%)                      | 2.61 (1.4-6.3) 245 (84.5%)        |
+| Median (95% CI) (months) Rate (95% CI) at 12 months Overall survival c Events | 2.33 (2.17, 3.32) 18.5 (14.1, 23.4) Minimum     | 4.21 (3.45, 4.86) 8.1 (5.1, 12.0) |
+|                                                                               | Updated analysis follow-up: 24.2 months         | 247 (85.1%)                       |
+| Hazard ratioa (95% CI)                                                        | 228 (78.1%)                                     |                                   |
+| Confirmed objective response (95% CI)                                         | 19.2% (14.8, 24.2)                              | 12.4% (8.8, 16.8)                 |
+|                                                                               | 17.2 (1.8-33.7 + )                              | 5.6 (1.2 + -16.8)                 |
+| Median duration of response Months (range)                                    | 11.9 (8.3, 16.2)                                |                                   |
+| Progression-free survival Rate (95% CI) at 24 months                          |                                                 | 1.0 (0.2, 3.3)                    |
+| d                                                                             | Updated analysis Minimum follow-up: 62.7 months |                                   |
+| Overall survival                                                              |                                                 |                                   |
+|                                                                               | 250 (85.6%)                                     | 279 (96.2%)                       |
+| Events                                                                        |                                                 |                                   |
+| Hazard ratio a (95% CI)                                                       |                                                 |                                   |
+| Rate (95% CI) at 60 months                                                    |                                                 |                                   |
+|                                                                               | (10.2, 18.3)                                    | 2.1 (0.9, 4.4)                    |
+|                                                                               | 14.0                                            |                                   |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6032,6 +6012,14 @@ Table 27: Efficacy results - CA20967T
 | Estimate of objective response risk ratio (95% CI) c, d | 1.28 (0.93, 1.77)        | 1.28 (0.93, 1.77)       |
 | DORa per BICR Median, months (95% CI) e                 | 13.57 (8.57, NE)         | NR (15.7, NE)           |
 
+NR = not reached, NE = non-estimable
+
+a Descriptive analysis.
+
+b Confidence interval based on the Clopper and Pearson method.
+
+c Stratified by weight (&lt; 80 kg vs ≥ 80 kg) and IMDC risk group (favourable vs intermediate vs poor).
+
 d Strata adjusted risk ratio (subcutaneous nivolumab over intravenous nivolumab) using Mantel-Haenszel method.
 
 e Median computed using Kaplan-Meier method.
@@ -6068,25 +6056,23 @@ Table 28: Efficacy results (CA209025)
 
 '+'  denotes a censored observation.
 
-|                                                        | nivolumab (n = 410)                                 | everolimus (n = 411)                                  |
-|--------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------|
-| Overall survival                                       |                                                     |                                                       |
-| Events                                                 | 183 (45%)                                           | 215 (52%)                                             |
-| Hazard ratio                                           | 0.73                                                |                                                       |
-| Months (range)                                         | (0.57, 11.99 (0.0-27.6 + )                          | 11.99 (0.0 + -22.2 + )                                |
-| Median (95% CI) Rate (95% CI) At 6 months At 12 months | 25.0 (21.7, NE) 89.2 (85.7, 91.8) 76.0 (71.5, 79.9) | 19.6 (17.6, 23.1) 81.2 (77.0, 84.7) 66.7 (61.8, 71.0) |
-| Objective response (95% CI) Odds ratio (95% CI)        | 103 (25.1%) (21.0, 29.6)                            | (3.4, 8.0)                                            |
-| p-value                                                |                                                     | 22 (5.4%)                                             |
-| Complete response (CR)                                 | 4 (1.0%)                                            | 2 (0.5%)                                              |
-| Partial response (PR)                                  | 99 (24.1%)                                          | 20 (4.9%)                                             |
-| Stable disease (SD)                                    | 141 (34.4%)                                         | 227 (55.2%)                                           |
-| Median time to response Months (range)                 | 3.5 (1.4-24.8)                                      | 3.7 (1.5-11.2)                                        |
-| Progression-free survival Events                       | 318 (77.6%)                                         |                                                       |
-| Hazard ratio 95% CI                                    |                                                     | 322 (78.3%)                                           |
-| p-value                                                |                                                     |                                                       |
-|                                                        | (3.71, 5.39)                                        |                                                       |
-| (95% CI)                                               | 4.6                                                 | 4.4 (3.71, 5.52)                                      |
-| Median                                                 |                                                     |                                                       |
+|                                                                | nivolumab (n = 410)                                 | everolimus (n = 411)                                  |
+|----------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------|
+| Overall survival                                               |                                                     |                                                       |
+| Events                                                         | 183 (45%)                                           | 215 (52%)                                             |
+| Hazard ratio                                                   |                                                     |                                                       |
+| Median (95% CI) Rate (95% CI) At 6 months At 12 months         | 25.0 (21.7, NE) 89.2 (85.7, 91.8) 76.0 (71.5, 79.9) | 19.6 (17.6, 23.1) 81.2 (77.0, 84.7) 66.7 (61.8, 71.0) |
+| Odds ratio (95% CI) p-value                                    | 103 (25.1%) (21.0, 29.6)                            | (3.4, 8.0)                                            |
+| Objective response (95% CI)                                    |                                                     | 22 (5.4%)                                             |
+| Complete response (CR)                                         | 4 (1.0%)                                            | 2 (0.5%)                                              |
+| Partial response (PR)                                          | 99 (24.1%)                                          | 20 (4.9%)                                             |
+| Stable disease (SD) Median duration of response Months (range) | 141 (34.4%) 11.99 (0.0-27.6 + ) (1.4-24.8)          | 227 (55.2%) 11.99 (0.0 + -22.2 +                      |
+| Median time to response Months (range)                         | 3.5                                                 | 3.7 (1.5-11.2)                                        |
+| Progression-free survival Events                               | 318 (77.6%)                                         | 322 (78.3%)                                           |
+| Hazard ratio 95% CI                                            |                                                     |                                                       |
+| p-value                                                        |                                                     |                                                       |
+|                                                                | (3.71, 5.39)                                        | 4.4 (3.71, 5.52)                                      |
+| Median (95% CI)                                                | 4.6                                                 |                                                       |
 
 NE = non-estimable
 
@@ -6211,13 +6197,17 @@ In an exploratory post-hoc analysis using a non-validated assay, both tumour cel
 
 Table 31: Efficacy by tumour cell and TAIC PD-L1 expression (CA209141)
 
-|                                                                                           | Median OS a (months) HR b (95% CI)   | Median OS a (months) HR b (95% CI)   | Median PFS a (months) HR b (95% CI)   | Median PFS a (months) HR b (95% CI)   | ORR (%) (95% CI) c   | ORR (%) (95% CI) c    |
-|-------------------------------------------------------------------------------------------|--------------------------------------|--------------------------------------|---------------------------------------|---------------------------------------|----------------------|-----------------------|
-|                                                                                           | nivolumab                            | investigator's choice                | nivolumab                             | investigator's choice                 | nivolumab            | investigator's choice |
-| PD-L1 ≥ 1%,                                                                               | 9.10                                 | 4.60                                 | 3.19 0.48 (0.31,                      | 1.97 0.75)                            | 19.7 (10.6, 31.8)    | 0 (0, 7.5)            |
-| PD-L1+ TAIC abundant d (61 nivolumab, 47 investigator's choice) PD-L1 ≥ 1%, PD-L1+ TAIC d | 0.43 (0.28, 0.67) 6.67 0.89 (0.44,   | 4.93 1.80)                           | 1.99 0.93 (0.46,                      | 2.04 1.88)                            | 11.1 (2.4, 29.2)     | 7.1 (0.2, 33.9)       |
-| 14 investigator's choice) PD-L1 < 1%, PD-L1+ TAIC abundant d (43 nivolumab,               | 11.73 0.67 (0.38,                    | 6.51 1.18)                           | 2.10 0.96 (0.55,                      | 2.73 1.67)                            | 18.6 (8.4, 33.4)     | 12.0 (2.5, 31.2)      |
-| PD-L1 < 1%, PD-L1+ TAIC rare d (27 nivolumab, 10 investigator's choice)                   | 3.71 1.09 (0.50,                     | 4.85 2.36)                           | 1.84 1.91 (0.84,                      | 2.12 4.36)                            | 3.7 (< 0.1, 19.0)    | 10.0 (0.3, 44.5)      |
+|                                                             | Median OS a (months) HR b (95% CI)   | Median OS a (months) HR b (95% CI)   | Median PFS a (months) HR b (95% CI)   | Median PFS a (months) HR b (95% CI)   | ORR (%) (95% CI) c        | ORR (%) (95% CI) c        |
+|-------------------------------------------------------------|--------------------------------------|--------------------------------------|---------------------------------------|---------------------------------------|---------------------------|---------------------------|
+|                                                             | nivolumab                            | investigator's choice                | nivolumab                             | investigator's choice                 | nivolumab                 | investigator's choice     |
+| PD-L1 ≥ 1%,                                                 | 9.10                                 | 4.60                                 | 3.19                                  | 1.97                                  | 19.7                      | 0                         |
+| PD-L1+ TAIC abundant d (61 nivolumab, 47 investigator's     | 0.43 (0.28, 0.67)                    | 0.43 (0.28, 0.67)                    | 0.48 (0.31, 0.75)                     | 0.48 (0.31, 0.75)                     | (10.6, 31.8)              | (0, 7.5)                  |
+| PD-L1 ≥ 1%,                                                 | 6.67                                 | 4.93                                 | 1.99                                  | 2.04                                  | 11.1                      | 7.1                       |
+| rare d (27 nivolumab, 14 investigator's choice) PD-L1 < 1%, | 0.89 (0.44,                          | 1.80)                                | 0.93 (0.46, 1.88)                     | 0.93 (0.46, 1.88)                     | (2.4, 29.2) (0.2, 33.9)   | (2.4, 29.2) (0.2, 33.9)   |
+|                                                             | 11.73                                | 6.51                                 | 2.10                                  | 2.73                                  | 18.6                      | 12.0                      |
+| PD-L1+ TAIC abundant d (43 nivolumab,                       | 0.67 (0.38, 1.18)                    | 0.67 (0.38, 1.18)                    | 0.96 (0.55, 1.67)                     | 0.96 (0.55, 1.67)                     | (8.4, 33.4) (2.5, 31.2)   | (8.4, 33.4) (2.5, 31.2)   |
+| PD-L1 < 1%,                                                 | 3.71                                 | 4.85                                 | 1.84                                  | 2.12                                  | 3.7                       | 10.0                      |
+| PD-L1+ TAIC rare d                                          | 1.09 (0.50, 2.36)                    | 1.09 (0.50, 2.36)                    | 1.91 (0.84, 4.36)                     | 1.91 (0.84, 4.36)                     | (< 0.1, 19.0) (0.3, 44.5) | (< 0.1, 19.0) (0.3, 44.5) |
 
 Patients with investigator-assessed primary site of oropharyngeal cancer were tested for HPV (determined by p16 immunohistochemistry [IHC]). OS benefit was observed regardless of HPV status (HPV-positive: HR = 0.63; 95% CI: 0.38, 1.04, HPV-negative: HR = 0.64; 95% CI: 0.40, 1.03, and HPV-unknown: HR = 0.78; 95% CI: 0.55, 1.10).
 
@@ -6439,8 +6429,6 @@ Gemcitabine-cisplatin chemotherapy
 
 
 
-- - -
-
 84
 
 65
@@ -6493,9 +6481,9 @@ Gemcitabine-cisplatin chemotherapy
 
 0
 
-Nivolumab + gemcitabine-cisplatin chemotherapy (events: 172/304), median and 95% CI: 21.72
+Nivolumab + gemcitabine-cisplatin chemotherapy (events: 172/304), median and 95% CI: 21.72 (18,63, 26.38)
 
-(18,63, 26.38)
+- - -
 
 Gemcitabine-cisplatin chemotherapy (events: 193/304), median and 95% CI: 18.85 (14.72, 22.44)
 
@@ -6506,8 +6494,6 @@ Based on clinical data cut-off: 09-May-2023, minimum follow-up of 7.4 months
 Figure 22: Kaplan Meier curves of PFS (CA209901)
 
 <!-- image -->
-
-Progression free Survival (months)
 
 ## Number of subjects at risk
 
@@ -6585,9 +6571,7 @@ Gemcitabine-cisplatin chemotherapy
 
 0
 
-Nivolumab + gemcitabine-cisplatin chemotherapy (events: 211/304), median and 95% CI: 7.92 (7.62, 9.49)
-
-  
+   Nivolumab + gemcitabine-cisplatin chemotherapy (events: 211/304), median and 95% CI: 7.92 (7.62, 9.49)
 
 - - - - - -Gemcitabine-cisplatin chemotherapy (events: 191/304), median and 95% CI: 7.56 (6.05, 7.75)
 
@@ -6602,6 +6586,8 @@ The primary analysis of PFS included censoring for new anti-cancer treatment bef
 The safety and efficacy of nivolumab 3 mg/kg as a single agent for the treatment of patients with locally advanced or metastatic urothelial carcinoma was evaluated in a phase 2, multicentre, open-label, single-arm study (CA209275).
 
 The study included patients (18 years or older) who had disease progression during or following platinum-containing chemotherapy for advanced or metastatic disease or had disease progression within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy. Patients had an ECOG performance status score of 0 or 1 and were enrolled regardless of their tumour PD-L1 status. Patients with active brain metastases or leptomeningeal metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the study. Patients that received more than 2 prior lines of chemotherapy with liver metastases were excluded.
+
+Progression free Survival (months)
 
 0
 
@@ -6763,11 +6749,11 @@ Figure 23: Kaplan-Meier curve of PFS in first-line patients with MSI-H/dMMR cent
 
 <!-- image -->
 
-| Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |
-|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-| 171                          | 144                          | 132                          | 122                          | 108                          | 95                           | 92                           | 77                           | 64                           | 53                           | 42                           | 37                           | 22                           | 10 9                         | 1                            | 0                            |
-| Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 |
-| 84                           | 53                           | 29                           | 20                           | 10                           | 6                            | 5                            | 5                            | 3                            | 2                            | 0                            | 0                            | 0 0                          | 0                            | 0                            | 0                            |
+| Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   |
+|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
+| 171                                                 | 144                                                 | 132                                                 | 122                                                 | 108                                                 | 95                                                  | 92                                                  | 77                                                  | 64                                                  | 53                                                  | 42                                                  | 37                                                  | 22                                                  | 10 9                                                | 1                                                   | 0                                                   |
+| Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        |
+| 84                                                  | 53                                                  | 29                                                  | 20                                                  | 10                                                  | 6                                                   | 5                                                   | 5                                                   | 3                                                   | 2                                                   | 0                                                   | 0                                                   | 0 0                                                 | 0                                                   | 0                                                   | 0                                                   |
 
 Open-label study of nivolumab in combination with ipilimumab in dMMR or MSI-H CRC in patients who received prior fluoropyrimidine-based combination chemotherapy
 
@@ -6852,17 +6838,31 @@ Table 37: Efficacy results in patients with tumour cell PD-L1 ≥ 1% (CA209648)
 | Median (95% CI) (months) d     | 8.38 (6.90, 12.35)                   | 5.68 (4.40, 8.67)          |
 | Range                          | 1.4 + , 34.6                         | 1.4 + , 31.8 +             |
 
+- b Based on stratified Cox proportional hazard model.
+
+c Based on stratified 2-sided log-rank test.
+
+d Based on Kaplan-Meier estimates.
+
+e Assessed by BICR.
+
 At an updated descriptive analysis with a minimum follow-up of 20 months, OS improvements were consistent with the primary analysis. Median OS was 15.05 months (95% CI: 11.93, 18.63) for nivolumab plus chemotherapy vs. 9.07 months (95% CI: 7.69, 10.02) for chemotherapy (HR = 0.59; 95% CI: 0.46, 0.76). Median PFS was 6.93 months (95% CI: 5.68, 8.35) for nivolumab plus chemotherapy vs. 4.44 months (95% CI: 2.89, 5.82) for chemotherapy (HR = 0.66; 95% CI: 0.50, 0.87). The ORR was 53.2% (95% CI: 45.1, 61.1) for nivolumab plus chemotherapy vs. 19.7% (95% CI: 13.8, 26.8) for chemotherapy.
 
 The Kaplan-Meier curves for OS and PFS with a minimum follow-up of 20 months are shown in Figures 24 and 25.
 
 <div style=\"page-break-after: always\"></div>
 
+Figure 24: Kaplan-Meier curves of OS in patients with tumour cell PD-L1 ≥ 1% (CA209648)
+
+Based on data cut-off: 23-Aug-2021, minimum follow-up of 20 months
+
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
 Figure 25: Kaplan-Meier curves of PFS in patients with tumour cell PD-L1 ≥ 1% (CA209648)
+
+Based on data cut-off: 23-Aug-2021, minimum follow-up of 20 months
 
 <!-- image -->
 
@@ -6918,7 +6918,8 @@ e Not significant, p-value 0.6323.
 
 | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-| Nivolumab 210                | 182                          | 167                          | 147                          | 126                          | 111                          | 95                           | 82                           | 70                           | 60                           | 43                           | 25                           | 17                           | 13                           | 7                            | 4                            | 3                            | 0                            | 0                            |
+| Nivolumab                    |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              | 13                           |                              |                              |                              |                              |                              |
+| 210                          | 182                          | 167                          | 147                          | 126                          | 111                          | 95                           | 82                           | 70                           | 60                           | 43                           | 25                           | 17                           |                              | 7                            | 4                            | 3                            | 0                            | 0                            |
 | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        |
 | 209                          | 196                          | 169                          | 126                          | 105                          | 84                           | 68                           | 57                           | 49                           | 40                           | 27                           | 17                           | 12                           | 6                            | 2                            | 1                            | 1                            | 1                            | 0                            |
 
@@ -6970,15 +6971,13 @@ Based on data cut-off: 18-Feb-2021, minimum follow-up of 14 months
 
 At the final OS analysis with a minimum follow up of 60 months, the HR for OS was 0.85 (95.87% CI: 0.70, 1.04), p-value = 0.1064. Median OS was 51.71 (95% CI: 41.03, 61.63) months in the nivolumab arm compared with 35.25 (95% CI: 30.72, 48.76) months in the placebo arm. The Kaplan-Meier curves for OS with a minimum follow-up of 60 months are shown in Figure 28.
 
-0
-
-0
-
 <div style=\"page-break-after: always\"></div>
 
 Figure 28: Kaplan-Meier curves of OS (CA209577)
 
 <!-- image -->
+
+Based on data cut-off: 17-Dec-2024, minimum follow-up of 60 months
 
 Gastric, gastro-oesophageal junction or oesophageal adenocarcinoma
 
@@ -7035,85 +7034,17 @@ Figure 29: Kaplan-Meier curves of OS in patients with PD-L1 CPS ≥ 5 (CA209649)
 
 <!-- image -->
 
-## Number of subjects at risk
+0
 
-Nivolumab + chemotherapy
-
-473
-
-439
-
-378
-
-314
-
-Chemotherapy
-
-482
-
-421
-
-350
-
-272
+0
 
 <!-- image -->
 
-263
+<!-- image -->
 
-213
-
-223
-
-152
-
-187
-
-122
-
-155
-
-92
-
-118
-
-68
-
-78
-
-44
-
-56
-
-28
-
-37
-
-16
-
-23
-
-8
-
-13
-
-2
-
-4
-
-0
-
-Nivolumab + chemotherapy (events: 344/473), median and 95% CI: 14.42 (13.14, 16.26)
-
-- - -
-
-Chemotherapy (events: 397/482), median and 95% CI: 11.10 (10.02, 12.09)
+   Nivolumab + chemotherapy (events: 344/473), median and 95% CI: 14.42 (13.14, 16.26) - - - - - -Chemotherapy (events: 397/482), median and 95% CI: 11.10 (10.02, 12.09)
 
 Minimum follow-up of 19.4 months
-
-0
-
-0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7172,19 +7103,16 @@ Figure 31: Kaplan-Meier curve of OS in first-line patients with HCC (CA2099DW)
 
 0
 
-| Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |
+| Number of subjects at risk   |   Number of subjects at risk | Number of subjects at risk   | Number of subjects at risk   |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk | Number of subjects at risk   | Number of subjects at risk   |   Number of subjects at risk |   Number of subjects at risk |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-| Nivolumab 335                | 300                          | + 264                        | ipilimumab 239               | 220                          | 206                          | 179                          | 162                          | 150                          | 137                          | 104                          | 71                           | 42                           | 24                           | 11 8                         | 0                            | 0                            |
-| Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        |
-| 333                          | 310                          | 280                          | 245                          | 216                          | 194                          | 164                          | 144                          | 116                          | 106                          | 76                           | 44                           | 34                           | 20 4                         | 3                            | 1                            | 0                            |
+| Nivolumab 335                |                          300 | + 264                        | ipilimumab 239               |                          220 |                          206 |                          179 |                          162 |                          150 |                          137 |                          104 |                           71 |                           42 | 24                           | 11 8                         |                            0 |                            0 |
+| Investigator's 333           |                          310 | 280                          | choice 245                   |                          216 |                          194 |                          164 |                          144 |                          116 |                          106 |                           76 |                           44 |                           34 | 20 4                         | 3                            |                            1 |                            0 |
 
 --+----
 
-Nivolumab + ipilimumab (events: 194/335), median and 95% CI: 23.66 (18.33, 29.44)
+Nivolumab + ipilimumab (events: 194/335), median and 95% CI: 23.66 (18.33, 29.44) Lenvatinib or sorafenib (events: 228/333), median and 95% CI: 20.63 (17.48, 22.54)
 
 - - -+- - -
-
-Lenvatinib or sorafenib (events: 228/333), median and 95% CI: 20.63 (17.48, 22.54)
 
 ## Paediatric population
 
@@ -7425,7 +7353,7 @@ The MAH shall complete, within the stated timeframe, the below measures:
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
 | 1. Post authorisation efficacy study (PAES): In order to further elucidate the contribution of ipilimumab to the efficacy and toxicity of the combination regimen of nivolumab and ipilimumab, the MAHshould conduct and submit the results of a randomised, clinical study comparing the efficacy and safety of the combination of nivolumab and ipilimumab to nivolumab monotherapy in previously untreated adult patients with intermediate/poor-risk advanced renal cell carcinoma and with an appropriate spectrum of PD-L1 expression levels. This study should be conducted according to an agreed protocol. | By 28 th February 2027 |
 | 2. Post authorisation efficacy study (PAES): In order to further characterise the efficacy of nivolumab as adjuvant treatment of adults with muscle invasive urothelial carcinoma, the MAHshould submit the OS data from the 2 nd IA and the final OS analysis of the Phase 3 CA209274 study in the PD- L1 ≥ 1% population.                                                                                                                                                                                                                                                                                         | By 31 st December 2027 |
-| 3. Post authorisation efficacy study (PAES): In order to further characterise the efficacy of nivolumab as adjuvant treatment of adults and adolescents aged 12 years and older with stage IIB or stage IIC melanoma, the MAHshould submit the OS data from the first interim OS analysis of the Phase III study CA20976K.                                                                                                                                                                                                                                                                                          | By 31 st March 2029    |
+| 3. Post authorisation efficacy study (PAES): In order to further characterise the efficacy of nivolumab as adjuvant treatment of adults and adolescents aged 12 years and older with stage IIB or stage IIC melanoma, the MAHshould submit the OS data from the 5-year OS analysis of the Phase III study CA20976K.                                                                                                                                                                                                                                                                                                 | By 31 st May 2027      |
 | 4. Post authorisation efficacy study (PAES): In order to further characterise the long-term efficacy of OPDIVO in combination with platinum-based chemotherapy as neoadjuvant treatment, followed by OPDIVO as monotherapy as adjuvant treatment, for the treatment of resectable non-small cell lung cancer at high risk of recurrence in adult patients whose tumours have PD- L1 expression ≥ 1%, the MAHshould submit the results of the final OS analysis from study CA20977T, a phase III, randomised, double-blind study.                                                                                    | By 30 th June 2027     |
 
 <div style=\"page-break-after: always\"></div>
@@ -7710,7 +7638,7 @@ Do not freeze.
 
 Store in the original package in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -7755,7 +7683,9 @@ OPDIVO 10 mg/mL sterile concentrate nivolumab IV use
 
 ## 2. METHOD OF ADMINISTRATION
 
-Read the package leaflet before use. For single use only.
+Read the package leaflet before use.
+
+For single use only.
 
 ## 3. EXPIRY DATE
 
@@ -8220,7 +8150,9 @@ Do not store any unused portion of the infusion solution for reuse. Any unused m
 
 -  The active substance is nivolumab. Each mL of concentrate for solution for infusion contains 10 mg of nivolumab.
 
-Each vial contains either 40 mg (in 4 mL), 100 mg (in 10 mL), 120 mg (in 12 mL) or 240 mg (in 24 mL) of nivolumab.
+Each vial contains either 40 mg (in 4 mL), 100 mg (in 10 mL), 120 mg (in 12 mL) or 240 mg
+
+(in 24 mL) of nivolumab.
 
 -  The other ingredients are sodium citrate dihydrate, sodium chloride, mannitol (E421), pentetic acid, polysorbate 80 (E433), sodium hydroxide, hydrochloric acid and water for injections (see section 2 \"OPDIVO contains sodium\" and 'OPDIVO contains polysorbate 80 (E433)'.
 
@@ -8244,7 +8176,9 @@ Swords Laboratories Unlimited Company t/a Bristol-Myers Squibb Cruiserath Biolog
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
+## België/Belgique/Belgien
+
+N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
 
 ## България
 
@@ -8268,9 +8202,7 @@ Tel: 0800 0752002 (+ 49 89 121 42 350) medwiss.info@bms.com
 
 ## Eesti
 
-Swixx Biopharma OÜ Tel: + 372 640 1030
-
-medinfo.estonia@swixxbiopharma.com
+Swixx Biopharma OÜ Tel: + 372 640 1030 medinfo.estonia@swixxbiopharma.com
 
 ## Lietuva
 
@@ -8294,9 +8226,7 @@ pv@ammangion.com
 
 ## Nederland
 
-Bristol-Myers Squibb B.V. Tel: + 31 (0)30 300 2222
-
-medischeafdeling@bms.com
+Bristol-Myers Squibb B.V. Tel: + 31 (0)30 300 2222 medischeafdeling@bms.com
 
 ## Norge
 
@@ -8312,9 +8242,9 @@ Bristol-Myers Squibb A.E. Τηλ: + 30 210 6074300
 
 medinfo.greece@bms.com
 
-España Bristol-Myers Squibb, S.A.
+## España
 
-Tel: + 34 91 456 53 00
+Bristol-Myers Squibb, S.A. Tel: + 34 91 456 53 00
 
 informacion.medica@bms.com
 
@@ -8328,33 +8258,33 @@ Swixx Biopharma d.o.o. Tel: + 385 1 2078 500
 
 medinfo.croatia@swixxbiopharma.com
 
-Ireland
+## Ireland
 
 Bristol-Myers Squibb Pharmaceuticals uc Tel: 1 800 749 749 (+ 353 (0)1 483 3625)
 
 medical.information@bms.com
 
-Ísland
+## Ísland
 
 Vistor ehf. Sími: + 354 535 7000
 
 medical.information@bms.com
 
-Italia Bristol-Myers Squibb S.r.l. Tel: + 39 06 50 39 61
+## Italia
+
+Bristol-Myers Squibb S.r.l. Tel: + 39 06 50 39 61
 
 medicalinformation.italia@bms.com
 
-Κύπρος
+## Κύπρος
 
 Bristol-Myers Squibb A.E. Τηλ: 800 92666 (+ 30 210 6074300)
 
 medinfo.greece@bms.com
 
-Latvija
+## Latvija
 
-Swixx Biopharma SIA
-
-Tel: + 371 66164750
+Swixx Biopharma SIA Tel: + 371 66164750
 
 medinfo.latvia@swixxbiopharma.com
 
@@ -8376,15 +8306,15 @@ Bristol-Myers Squibb Polska Sp. z o.o. Tel.: + 48 22 2606400
 
 informacja.medyczna@bms.com
 
-Portugal
+## Portugal
 
-Bristol-Myers Squibb Farmacêutica Portuguesa, S.A. Tel: + 351 21 440 70 00
+Bristol-Myers Squibb Farmacêutica Portuguesa, S.A. Tel: + 351 21 440 70 00 portugal.medinfo@bms.com
 
-portugal.medinfo@bms.com
+## România
 
-România
+Bristol-Myers Squibb Marketing Services S.R.L. Tel: + 40 (0)21 272 16 19
 
-Bristol-Myers Squibb Marketing Services S.R.L. Tel: + 40 (0)21 272 16 19 medinfo.romania@bms.com
+medinfo.romania@bms.com
 
 ## Slovenija
 
@@ -8404,7 +8334,7 @@ Oy Bristol-Myers Squibb (Finland) Ab Puh/Tel: + 358 9 251 21 230
 
 medinfo.finland@bms.com
 
-Sverige
+## Sverige
 
 Bristol-Myers Squibb Aktiebolag Tel: + 46 8 704 71 00
 
@@ -8479,7 +8409,10 @@ Take care to ensure aseptic handling when you prepare the infusion.
 
 OPDIVO can be used for intravenous administration either:
 
--  without dilution, after transfer to an infusion container using an appropriate sterile syringe; or
+-  without dilution, after transfer to an infusion container using an appropriate sterile syringe;
+
+or
+
 -  after diluting according to the following instructions:
 -  the final infusion concentration should range between 1 and 10 mg/mL
 -  the total volume of infusion must not exceed 160 mL. For patients weighing less than 40 kg, the total volume of infusion must not exceed 4 mL per kilogram of patient weight.
@@ -8617,7 +8550,8 @@ Talk to your doctor before using OPDIVO as it may cause:
 
 Tell your doctor immediately if you have any of these signs or symptoms or if they get worse. Do not try to treat your symptoms with other medicines on your own. Your doctor may
 
--  give you other medicines in order to prevent complications and reduce your symptoms,
+- 
+- give you other medicines in order to prevent complications and reduce your symptoms,
 -  withhold the next dose of OPDIVO,
 -  or stop your treatment with OPDIVO altogether.
 
@@ -8939,11 +8873,13 @@ It is available in packs containing 1 glass vial of 5 mL.
 
 <div style=\"page-break-after: always\"></div>
 
-Marketing Authorisation Holder
+## Marketing Authorisation Holder
 
 Bristol-Myers Squibb Pharma EEIG Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
 
-Manufacturer Swords Laboratories Unlimited Company t/a Bristol-Myers Squibb Cruiserath Biologics Cruiserath Road, Mulhuddart Dublin 15, D15 H6EF Ireland
+## Manufacturer
+
+Swords Laboratories Unlimited Company t/a Bristol-Myers Squibb Cruiserath Biologics Cruiserath Road, Mulhuddart Dublin 15, D15 H6EF Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -8951,11 +8887,15 @@ België/Belgique/Belgien N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2
 
 България
 
-Swixx Biopharma EOOD Teл.: + 359 2 4942 480 medinfo.bulgaria@swixxbiopharma.com
+Swixx Biopharma EOOD Teл.: + 359 2 4942 480
+
+medinfo.bulgaria@swixxbiopharma.com
 
 Česká republika Bristol-Myers Squibb spol. s r.o. Tel: + 420 221 016 111 medinfo.czech@bms.com
 
-Danmark Bristol-Myers Squibb Denmark Tlf: + 45 45 93 05 06
+Danmark Bristol-Myers Squibb Denmark
+
+Tlf: + 45 45 93 05 06
 
 medinfo.denmark@bms.com
 
@@ -8963,7 +8903,9 @@ Deutschland Bristol-Myers Squibb GmbH &amp; Co. KGaA Tel: 0800 0752002 (+ 49 89 
 
 Eesti
 
-Swixx Biopharma OÜ Tel: + 372 640 1030 medinfo.estonia@swixxbiopharma.com
+Swixx Biopharma OÜ Tel: + 372 640 1030
+
+medinfo.estonia@swixxbiopharma.com
 
 Ελλάδα
 
@@ -8973,11 +8915,9 @@ Lietuva Swixx Biopharma UAB Tel: + 370 52 369140 medinfo.lithuania@swixxbiopharm
 
 Luxembourg/Luxemburg N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
 
-Magyarország Bristol-Myers Squibb Kft.
+## Magyarország
 
-Tel.: + 36 1 301 9797
-
-Medinfo.hungary@bms.com
+Bristol-Myers Squibb Kft. Tel.: + 36 1 301 9797 Medinfo.hungary@bms.com
 
 Malta A.M. Mangion Ltd Tel: + 356 23976333
 
@@ -8995,11 +8935,7 @@ Bristol-Myers Squibb GesmbH Tel: + 43 1 60 14 30 medinfo.austria@bms.com
 
 <div style=\"page-break-after: always\"></div>
 
-## España
-
-Bristol-Myers Squibb, S.A. Tel: + 34 91 456 53 00
-
-informacion.medica@bms.com
+España Bristol-Myers Squibb, S.A. Tel: + 34 91 456 53 00 informacion.medica@bms.com
 
 ## France
 
@@ -9027,15 +8963,15 @@ Vistor ehf. Sími: + 354 535 7000
 
 medical.information@bms.com
 
-Italia
-
-Bristol-Myers Squibb S.r.l. Tel: + 39 06 50 39 61 medicalinformation.italia@bms.com
+Italia Bristol-Myers Squibb S.r.l. Tel: + 39 06 50 39 61 medicalinformation.italia@bms.com
 
 Κύπρος Bristol-Myers Squibb A.E. Τηλ: 800 92666 (+ 30 210 6074300) medinfo.greece@bms.com
 
 ## Latvija
 
-Swixx Biopharma SIA Tel: + 371 66164750
+Swixx Biopharma SIA
+
+Tel: + 371 66164750
 
 medinfo.latvia@swixxbiopharma.com
 
@@ -9047,7 +8983,13 @@ Detailed information on this medicine is available on the European Medicines Age
 
 Polska Bristol-Myers Squibb Polska Sp. z o.o. Tel.: + 48 22 2606400 informacja.medyczna@bms.com
 
-Portugal Bristol-Myers Squibb Farmacêutica Portuguesa, S.A. Tel: + 351 21 440 70 00 portugal.medinfo@bms.com
+## Portugal
+
+Bristol-Myers Squibb Farmacêutica Portuguesa,
+
+S.A. Tel: + 351 21 440 70 00
+
+portugal.medinfo@bms.com
 
 ## România
 
@@ -9063,7 +9005,9 @@ medinfo.slovenia@swixxbiopharma.com
 
 ## Slovenská republika
 
-Swixx Biopharma s.r.o. Tel: + 421 2 20833 600 medinfo.slovakia@swixxbiopharma.com
+Swixx Biopharma s.r.o. Tel: + 421 2 20833 600
+
+medinfo.slovakia@swixxbiopharma.com
 
 ## Suomi/Finland
 

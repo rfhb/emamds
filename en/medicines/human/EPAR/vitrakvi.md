@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 09:23:47
+document_datetime: 2026-03-04 15:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vitrakvi.html
 document_name: vitrakvi.html
 version: success
-processing_time: 0.1232014
-conversion_datetime: 2025-12-30 10:46:04.335022
+processing_time: 0.1063605
+conversion_datetime: 2026-03-09 14:21:14.540689
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.77.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Vitrakvi
 
 [RSS](/en/individual-human-medicine.xml/67244)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 larotrectinib Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +108,7 @@ English (EN) (74.59 KB - PDF)
 
 [View](/en/documents/overview/vitrakvi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-108)
+[Other languages (22)](#file-language-dropdown-427)
 
 български (BG) (101.03 KB - PDF)
 
@@ -308,7 +306,7 @@ English (EN) (980.57 KB - PDF)
 
 [View](/en/documents/product-information/vitrakvi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-425)
+[Other languages (24)](#file-language-dropdown-849)
 
 български (BG) (1.1 MB - PDF)
 
@@ -624,7 +622,7 @@ English (EN) (54.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vitrakvi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-110)
+[Other languages (24)](#file-language-dropdown-995)
 
 български (BG) (70.61 KB - PDF)
 
@@ -947,7 +945,7 @@ Bayer AG
 
 51368 Leverkusen
 
-Opinion adopted 25/07/2019 Marketing authorisation issued 19/09/2019 Revision 14
+Opinion adopted 25/07/2019 Marketing authorisation issued 19/09/2019 Revision 15
 
 ## Assessment history
 
@@ -976,6 +974,18 @@ English (EN) (154.59 KB - PDF)
 **Last updated:** 24/07/2025
 
 [View](/en/documents/procedural-steps-after/vitrakvi-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Vitrakvi-H-C-004919-P46-009 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMA/52156/2026
+
+English (EN) (3.93 MB - PDF)
+
+**First published:** 04/03/2026
+
+[View](/en/documents/variation-report/vitrakvi-h-c-004919-p46-009-epar-assessment-report_en.pdf)
 
 Vitrakvi-H-C-004919-P46-008 : EPAR - Assessment report
 
@@ -1027,13 +1037,13 @@ English (EN) (103.87 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-vitrakvi_en.pdf)
 
-#### News on Vitrakvi
+## News on Vitrakvi
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2019) 26/07/2019
 
 [First 'histology-independent' treatment for solid tumours with a specific gene mutation](/en/news/first-histology-independent-treatment-solid-tumours-specific-gene-mutation) 26/07/2019
 
-#### More information on Vitrakvi
+## More information on Vitrakvi
 
 This product is no longer an orphan medicine. It was originally designated an orphan medicine for the following orphan indications:
 
@@ -1044,17 +1054,17 @@ This product is no longer an orphan medicine. It was originally designated an or
 
 Vitrakvi was withdrawn from the Community register of orphan medicinal products in July 2019 upon request of the marketing authorisation holder at the time of the granting of a marketing authorisation.
 
-#### More information on Vitrakvi
+## More information on Vitrakvi
 
 - [EMEA-001971-PIP02-16-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001971-pip02-16-m04)
 - [EMEA-001971-PIP03-18-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001971-pip03-18-m02)
 - [PrOspective Non-interventional study in patients with locally advanced or metastatic TRK fusion cancer treated with larotrectinib (ON-TRK) - post-authorisation study](https://catalogues.ema.europa.eu/study/44357)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 04/08/2025
+**This page was last updated on** 04/03/2026
 
 ## Share this page
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-09 15:52:19
-document_pages: 72
+document_datetime: 2026-03-05 15:27:01
+document_pages: 71
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/toujeo-epar-product-information_en.pdf
 document_name: toujeo-epar-product-information_en.pdf
 version: success
-processing_time: 20.9516113
-conversion_datetime: 2025-12-25 09:06:50.232886
+processing_time: 22.6403797
+conversion_datetime: 2026-03-09 14:17:29.949052
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.77.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -275,7 +275,7 @@ In addition, under the influence of sympatholytic medicinal products such as bet
 
 There is no clinical experience with use of Toujeo in pregnant women.
 
-For insulin glargine no clinical data on exposed pregnancies from controlled clinical studies are available. A large amount of data on pregnant women (more than 1,000 pregnancy outcomes with a medicinal product containing insulin glargine 100 units/ml) indicate no specific adverse effects on pregnancy and no specific malformative nor feto/neonatal toxicity of insulin glargine. Animal data do not indicate reproductive toxicity.
+For insulin glargine no clinical data on exposed pregnancies from controlled clinical studies are available. A large amount of data on pregnant women (more than 1,000 pregnancy outcomes with a medicinal product containing insulin glargine 100 units/ml) indicate no specific adverse effects on pregnancy and no specific malformative nor foeto/neonatal toxicity of insulin glargine. Animal data do not indicate reproductive toxicity.
 
 The use of Toujeo may be considered during pregnancy, if clinically needed.
 
@@ -377,7 +377,7 @@ Insulin overdose may lead to severe and sometimes long-term and life-threatening
 
 Mild episodes of hypoglycaemia can usually be treated with oral carbohydrates. Adjustments in dose of the medicinal product, meal patterns, or physical activity may be needed.
 
-More severe episodes with coma, seizure, or neurologic impairment may be treated with intramuscular/subcutaneous glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
+More severe episodes with coma, seizure, or neurologic impairment may be treated with glucagon or concentrated intravenous glucose. Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -403,13 +403,15 @@ Figure 1: Activity profile at steady state in patients with type 1 diabetes in a
 
 <!-- image -->
 
+*GIR: Glucose infusion rate: determined as amount of glucose infused to maintain constant plasma glucose levels (hourly mean values). The end of the observation period was 36 hours.
+
 Insulin glargine is metabolised into 2 active metabolites M1 and M2 (see section 5.2).
 
 Insulin receptor binding: In vitro studies indicate that the affinity of insulin glargine and its metabolites M1 and M2 for the human insulin receptor is similar to the one of human insulin.
 
 IGF-1 receptor binding: The affinity of insulin glargine for the human IGF-1 receptor is approximately 5 to 8-fold greater than that of human insulin (but approximately 70 to 80-fold lower than the one of IGF-1), whereas M1 and M2 bind the IGF-1 receptor with slightly lower affinity compared to human insulin.
 
-The total therapeutic insulin concentration (insulin glargine and its metabolites) found in type 1 diabetic patients was markedly lower than what would be required for a half maximal occupation of the IGF-1 receptor and the subsequent activation of the mitogenic-proliferative pathway initiated by the IGF-1 receptor. Physiological concentrations of endogenous IGF-1 may activate the mitogenic-proliferative pathway; however, the therapeutic concentrations found in insulin therapy, including in Toujeo therapy, are considerably lower than the pharmacological concentrations required to activate the IGF-1 pathway.
+The total therapeutic insulin concentration (insulin glargine and its metabolites) found in type 1 diabetic patients was markedly lower than what would be required for a half maximal occupation of the IGF-1 receptor and the subsequent activation of the mitogenic-proliferative pathway initiated by the IGF-1 receptor. Physiological concentrations of endogenous IGF-1 may activate the mitogenicproliferative pathway; however, the t herapeutic concentrations found in insulin therapy, including in Toujeo therapy, are considerably lower than the pharmacological concentrations required to activate the IGF-1 pathway.
 
 In a clinical pharmacology study, intravenous insulin glargine and human insulin have been shown to be equipotent when given at the same doses.
 
@@ -429,7 +431,7 @@ At the end of these treat-to-target trials, depending on the patient population 
 
 Results from clinical trials demonstrated that the incidence of confirmed hypoglycaemia (at any time of the day and nocturnal) was lower in patients treated with Toujeo compared to insulin glargine 100 units/ml-treated patients, in patients with type 2 diabetes treated in combination with either non-insulin anti-hyperglycaemic medicinal product or mealtime insulin.
 
-The superiority of Toujeo over insulin glargine 100 units/ml in lowering the risk of confirmed nocturnal hypoglycaemia was shown in patients with type 2 diabetes treated with basal insulin in combination with either non-insulin anti-hyperglycaemic medicinal product (18% risk reduction) or mealtime insulin (21% risk reduction) during the period from week 9 to end of study period. Overall, these effects on hypoglycaemia risk were consistently observed whatever the age, gender, BMI and duration of diabetes (&lt;10 years and ≥10 years) in Toujeo-treated patients compared to insulin glargine 100 units/ml-treated patients.
+The superiority of Toujeo over insulin glargine 100 units/ml in lowering the risk of confirmed nocturnal hypoglycaemia was shown in patients with type 2 diabetes treated with basal insulin in combination with either non-insulin anti-hyperglycaemic medicinal product (18% risk reduction) or mealtime insulin (21% risk reduction) during the period from week 9 to end of study period. Overall, these effects on hypoglycaemia risk were consistently observed whatever the age, gender, BMI and duration of diabetes ( &lt;10 years and ≥10 years) in Toujeo-treated patients compared to insulin glargine 100 units/ml-treated patients.
 
 In patients with type 1 diabetes, the incidence of hypoglycaemia was similar in patients treated with Toujeo compared to insulin glargine 100 units/ml-treated patients (Table 3).
 
@@ -465,23 +467,21 @@ d Change from baseline to Last main 6-month on-treatment value
 
 Table 2: Results from clinical trials in type 2 diabetes mellitus
 
-| 26 weeks of treatment              | 26 weeks of treatment                          | 26 weeks of treatment                          | 26 weeks of treatment                              | 26 weeks of treatment                              | 26 weeks of treatment                              | 26 weeks of treatment                              |
-|------------------------------------|------------------------------------------------|------------------------------------------------|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
-|                                    | Patients previously treated with basal insulin | Patients previously treated with basal insulin | Patients previously treated with basal insulin     | Patients previously treated with basal insulin     | Previously insulin naive patients                  | Previously insulin naive patients                  |
-| Treatment in combination with      | Meal-time insulin analog+/-metformin           | Meal-time insulin analog+/-metformin           | Non-insulin anti-hyperglycaemic medicinal products | Non-insulin anti-hyperglycaemic medicinal products | Non-insulin anti-hyperglycaemic medicinal products | Non-insulin anti-hyperglycaemic medicinal products |
-|                                    | Toujeo                                         | IGlar                                          | Toujeo                                             | IGlar                                              | Toujeo                                             | IGlar                                              |
-| Number of patients treated a       | 404                                            | 400                                            | 403                                                | 405                                                | 432                                                | 430                                                |
-| HbA1c                              |                                                |                                                |                                                    |                                                    |                                                    |                                                    |
-| Baseline mean Adjusted mean change | 8.13                                           | 8.14                                           | 8.27                                               | 8.22                                               | 8.49                                               | 8.58                                               |
-| from baseline                      | -0.90                                          | -0.87                                          | -0.73                                              | -0.70                                              | -1.42                                              | -1.46                                              |
-| Adjusted mean difference b         | -0.03                                          | -0.03                                          | -0.03                                              | -0.03                                              | 0.04                                               | 0.04                                               |
-|                                    | [-0.144 to 0.083]                              | [-0.144 to 0.083]                              | [-0.168 to 0.099]                                  | [-0.168 to 0.099]                                  | [-0.090 to 0.174]                                  | [-0.090 to 0.174]                                  |
-| Basal insulin dose c (U/kg)        |                                                |                                                |                                                    |                                                    |                                                    |                                                    |
-| Baseline mean                      | 0.67                                           | 0.67                                           | 0.64                                               | 0.66                                               | 0.19                                               | 0.19                                               |
-| Mean change from baseline          | 0.31                                           | 0.22                                           | 0.30                                               | 0.19                                               | 0.43                                               | 0.34                                               |
-| Body weight d (kg)                 |                                                |                                                |                                                    |                                                    |                                                    |                                                    |
-| Baseline mean                      | 106.11                                         | 106.50                                         | 98.73                                              | 98.17                                              | 95.14                                              | 95.65                                              |
-| Mean change from baseline          | 0.93                                           | 0.90                                           | 0.08                                               | 0.66                                               | 0.50                                               | 0.71                                               |
+| 26 weeks of treatment                            | 26 weeks of treatment                          | 26 weeks of treatment                          | 26 weeks of treatment                              | 26 weeks of treatment                              | 26 weeks of treatment                              | 26 weeks of treatment                              |
+|--------------------------------------------------|------------------------------------------------|------------------------------------------------|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
+|                                                  | Patients previously treated with basal insulin | Patients previously treated with basal insulin | Patients previously treated with basal insulin     | Patients previously treated with basal insulin     | Previously insulin naive patients                  | Previously insulin naive patients                  |
+| Treatment in combination with                    | Meal-time insulin analog+/-metformin           | Meal-time insulin analog+/-metformin           | Non-insulin anti-hyperglycaemic medicinal products | Non-insulin anti-hyperglycaemic medicinal products | Non-insulin anti-hyperglycaemic medicinal products | Non-insulin anti-hyperglycaemic medicinal products |
+|                                                  | Toujeo                                         | IGlar                                          | Toujeo                                             | IGlar                                              | Toujeo                                             | IGlar                                              |
+| Number of patients treated a                     | 404                                            | 400                                            | 403                                                | 405                                                | 432                                                | 430                                                |
+| HbA1c                                            |                                                |                                                |                                                    |                                                    |                                                    |                                                    |
+| Baseline mean Adjusted mean change from baseline | 8.13 -0.90                                     | 8.14 -0.87                                     | 8.27 -0.73                                         | 8.22 -0.70                                         | 8.49 -1.42                                         | 8.58 -1.46                                         |
+| Adjusted mean difference b                       | -0.03                                          | -0.03                                          | -0.03                                              | -0.03                                              | 0.04                                               | 0.04                                               |
+| Basal insulin dose c (U/kg)                      |                                                |                                                |                                                    |                                                    |                                                    |                                                    |
+| Baseline mean                                    | 0.67                                           | 0.67                                           | 0.64                                               | 0.66                                               | 0.19                                               | 0.19                                               |
+| Mean change from baseline                        | 0.31                                           | 0.22                                           | 0.30                                               | 0.19                                               | 0.43                                               | 0.34                                               |
+| Body weight d (kg)                               |                                                |                                                |                                                    |                                                    |                                                    |                                                    |
+| Baseline mean                                    | 106.11                                         | 106.50                                         | 98.73                                              | 98.17                                              | 95.14                                              | 95.65                                              |
+| Mean change from baseline                        | 0.93                                           | 0.90                                           | 0.08                                               | 0.66                                               | 0.50                                               | 0.71                                               |
 
 IGlar: Insulin glargine 100 units/ml
 
@@ -511,11 +511,15 @@ Table 3 - Summary of the hypoglycaemic episodes of the clinical study in patient
 | From week 9 to end of study period                               | 59.3 (162/273)                                                            | 56.0 (153/273)                                                            | 36.1 (146/404)                                                            | 46.0 (184/400)                                                            | 18.4 (154/835)                                                                  | 22.5 (188/835)                                                                  |
 | From week 9 to end of study period                               | RR: 1.06 [0.92;1.23]                                                      | RR: 1.06 [0.92;1.23]                                                      | RR: 0.79 [0.67;0.93]                                                      | RR: 0.79 [0.67;0.93]                                                      | RR: 0.82 [0.68;0.99]                                                            | RR: 0.82 [0.68;0.99]                                                            |
 
-IGlar: Insulin glargine 100 units/ml a Severe hypoglycaemia: Episode requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions.
+IGlar: Insulin glargine 100 units/ml
+
+a Severe hypoglycaemia: Episode requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions.
 
 b  Confirmed hypoglycaemia:   Any severe hypoglycaemia and/or hypoglycaemia confirmed by plasma glucose value ≤3.9 mmol/l.
 
-c  Nocturnal hypoglycaemia: Episode that occurred between 00:00 and 05:59 hours d  6-month treatment period
+c  Nocturnal hypoglycaemia: Episode that occurred between 00:00 and 05:59 hours
+
+d 6-month treatment period
 
 *RR: estimated risk ratio; [95% Confidence Interval]
 
@@ -545,7 +549,7 @@ The first co-primary efficacy outcome was the time to the first occurrence of CV
 
 Secondary endpoints included all-cause mortality and a composite microvascular outcome.
 
-Insulin glargine 100 units/ml did not alter the relative risk for CV disease and CV mortality when compared to standard of care. There were no differences between insulin glargine and standard care for the two co-primary outcomes; for any component endpoint comprising these outcomes; for all-cause mortality; or for the composite microvascular outcome.
+Insulin glargine 100 units/ml did not alter the relative risk for CV disease and CV mortality when compared to standard of care. There were no differences between insulin glargine and standard care for the two coprimary outcomes; for any component endpoint comprising these outcomes; for allcause mortality; or for the composite microvascular outcome.
 
 Mean dose of insulin glargine 100 units/ml by study end was 0.42 U/kg. At baseline, participants had a median HbA1c value of 6.4% and median on-treatment HbA1c values ranged from 5.9 to 6.4% in the insulin glargine 100 units/ml group, and 6.2% to 6.6% in the standard care group throughout the duration of follow-up.
 
@@ -601,7 +605,11 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 ## 6.1 List of excipients
 
-Zinc chloride Metacresol Glycerol Hydrochloric acid (for pH adjustment) Sodium hydroxide (for pH adjustment) Water for injections.
+Zinc chloride Metacresol Glycerol Hydrochloric acid (for pH adjustment)
+
+Sodium hydroxide (for pH adjustment)
+
+Water for injections.
 
 ## 6.2 Incompatibilities
 
@@ -733,8 +741,7 @@ An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-
-## · Additional risk minimisation measures
+- Additional risk minimisation measures
 
 Prior to launch of Toujeo 300 units/ml in each Member State the MAH must agree the content and format of the educational programme, including communication media, distribution modalities, and any other aspects, with the National Competent Authority.
 
@@ -752,17 +759,17 @@ The educational materials for healthcare professionals shall contain the followi
 - Details on how to minimize the safety concern addressed by the additional risk minimization measures through appropriate monitoring and management:
 - -That insulin glargine 100 units/ml and insulin glargine 300 units/ml (Toujeo SoloStar and Toujeo DoubleStar) are not bioequivalent and are therefore not interchangeable without dose adjustment.
 - -That dose adjustment is needed when patients are switched from one to the other strength:
-- After titration, on average a 10-18% higher basal insulin dose are needed to achieve target ranges for plasma glucose levels when using the 300 units/ml formulation compared to the 100 units/ml formulation.
-- Switching from the 300 units/ml to the 100 units/ml concentration results in an increased risk of hypoglycaemic events, mainly in the first week after the switch. To reduce the risk of hypoglycaemia, patients who are changing their basal insulin regimen from an insulin regimen with once daily Toujeo (insulin glargine 300 units/ml) to a once daily regimen with insulin glargine 100 units/ml should reduce their dose by 20%;
-- When switching from a treatment regimen with an intermediate or long-acting insulin product to a regimen with Toujeo, a change of the dose of the basal insulin may be required and the concomitant anti-hyperglycaemic treatment may need to be adjusted. Close metabolic monitoring is recommended during the switch and in the initial weeks thereafter;
+-  After titration, on average a 10-18% higher basal insulin dose are needed to achieve target ranges for plasma glucose levels when using the 300 units/ml formulation compared to the 100 units/ml formulation.
+-  Switching from the 300 units/ml to the 100 units/ml concentration results in an increased risk of hypoglycaemic events, mainly in the first week after the switch. To reduce the risk of hypoglycaemia, patients who are changing their basal insulin regimen from an insulin regimen with once daily Toujeo (insulin glargine 300 units/ml) to a once daily regimen with insulin glargine 100 units/ml should reduce their dose by 20%;
+-  When switching from a treatment regimen with an intermediate or long-acting insulin product to a regimen with Toujeo, a change of the dose of the basal insulin may be required and the concomitant anti-hyperglycaemic treatment may need to be adjusted. Close metabolic monitoring is recommended during the switch and in the initial weeks thereafter;
 - Key messages to convey in patients counselling:
 - -Patients need to be instructed that insulin glargine 100 units/ml products and Toujeo are not interchangeable and dose adjustments need to be made;
 - -Blood glucose monitoring by patients is needed during the switch and the initial weeks thereafter;
 - Instructions on how to report medication errors or adverse events: Details for national reporting added at country level.
 - Other: The Guide for healthcare professionals is also highlighting the distinction between the different Toujeo presentations:
-- That insulin glargine 300 units/ml is available in two different presentations: Toujeo SoloStar (1.5 ml prefilled pen/450 units) and Toujeo DoubleStar (3 ml prefilled pen/900 units).
-- The dose increment in Toujeo SoloStar is one unit and the dose increment in Toujeo DoubleStar is 2 units.
-- The dose delivered is the one shown in the dose window.
+-  That insulin glargine 300 units/ml is available in two different presentations: Toujeo SoloStar (1.5 ml prefilled pen/450 units) and Toujeo DoubleStar (3 ml prefilled pen/900 units).
+-  The dose increment in Toujeo SoloStar is one unit and the dose increment in Toujeo DoubleStar is 2 units.
+-  The dose delivered is the one shown in the dose window.
 
 The educational material for patient/carer guide (patient brochure) shall contain the following key elements:
 
@@ -882,7 +889,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Before first use
+## Before first use
 
 Store in a refrigerator.
 
@@ -929,8 +936,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1025,11 +1032,7 @@ The product may be stored for a maximum of 6 weeks below 30°C. Do not refrigera
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Sanofi-Aventis Deutschland GmbH
-
-D-65926 Frankfurt am Main,
-
-Germany.
+Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main, Germany.
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1055,8 +1058,8 @@ Toujeo 300 DoubleStar
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC: SN: NN:
 
@@ -1214,7 +1217,9 @@ DoubleStar pen 1 step=2 units
 
 ## Toujeo 300 units/ml SoloStar solution for injection in a pre-filled pen
 
-## Insulin glargine Each SoloStar pen delivers 1-80 units in steps of 1 unit.
+## Insulin glargine
+
+## Each SoloStar pen delivers 1-80 units in steps of 1 unit.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1280,8 +1285,7 @@ You may need to check your blood and urine more carefully to manage your diabete
 
 - you are ill or have a major injury. Your blood sugar level may increase - hyperglycaemia.
 - you are not eating enough. Your blood sugar level may get too low - hypoglycaemia.
-
-Tell a doctor as soon as you feel ill or get an injury.
+- Tell a doctor as soon as you feel ill or get an injury.
 
 If you have Type 1 diabetes and you have an illness or injury:
 
@@ -1316,13 +1320,13 @@ Tell your doctor, pharmacist or nurse if you are taking, have recently taken or 
 
 Listed below are the most common medicines which may affect your insulin treatment:
 
-## Your blood sugar level may fall (hypoglycaemia) if you take:
+Your blood sugar level may fall (hypoglycaemia) if you take:
 
 - any other medicine for diabetes
+- disopyramide - for some heart problems
 
 <div style=\"page-break-after: always\"></div>
 
-- disopyramide - for some heart problems
 - fluoxetine - for depression
 - pentamidine - for some parasitic infections. This may cause too low blood sugar which is sometimes followed by too high blood sugar
 - sulfonamide antibiotics - for infection
@@ -1447,7 +1451,7 @@ Many factors may affect your blood sugar level - learn what these are and what t
 - in an insulin infusion pump.
 - if there are particles in the insulin - the liquid should be clear, colourless and water-like
 
-## Throw the pen away and use a new one if:
+Throw the pen away and use a new one if:
 
 - you notice that your blood sugar control is unexpectedly getting worse
 - the pen is damaged or has not been stored correctly. Talk to your doctor, pharmacist or nurse if you are not sure your pen is working properly.
@@ -1509,19 +1513,17 @@ If you inject insulin too often at the same place, the skin may change which inc
 
 Change the area where the injection is given regularly to prevent skin changes.
 
-Common: may affect up to 1 in 10 people
+## Common: may affect up to 1 in 10 people
 
 - skin and allergic reactions where the injection is given, The signs may include reddening, unusually intense pain when injecting, itching, hives, swelling or inflammation. This can spread around the injection site. Most minor reactions to insulins usually disappear within a few days to a few weeks.
+- eye problems - a large change in your blood sugar control, getting better or worse, can disturb your vision. If you have a diabetic eye disorder called 'proliferative retinopathy', very low blood sugar attack may cause temporary loss of vision.
+- swelling in the calves and ankles - due to your body keeping more water than it should.
+- changes in taste (dysgeusia).
+- muscular pain (myalgia).
 
 Rare: may affect up to 1 in 1,000 people
 
-- eye problems - a large change in your blood sugar control, getting better or worse, can disturb your vision. If you have a diabetic eye disorder called 'proliferative retinopathy', very low blood sugar attack may cause temporary loss of vision.
-- swelling in the calves and ankles - due to your body keeping more water than it should.
-
 Very rare: may affect up to 1 in 10,000 people
-
-- changes in taste (dysgeusia).
-- muscular pain (myalgia).
 
 Tell your doctor, pharmacist or nurse if you notice any of the side effects above.
 
@@ -1557,7 +1559,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Toujeo contains
 
 - The active substance is insulin glargine. Each ml of the solution contains 300 units of insulin glargine (equivalent to 10.91 mg). Each pen contains 1.5 ml of solution for injection, equivalent to 450 units.
-- The other ingredients are: zinc chloride, metacresol, glycerol, water for injections, and sodium hydroxide (see section 2 ' Toujeo contains sodium') and hydrochloric acid (for pH adjustment).
+- The other ingredients are: zinc chloride, metacresol, glycerol, water for injections, and sodium hydroxide (see section 2 'Toujeo contains sodium') and hydrochloric acid (for pH adjustment).
 
 ## What Toujeo looks like and contents of the pack
 
@@ -1588,7 +1590,9 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -1638,7 +1642,7 @@ Tel: +372 640 10 30
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE
+Sanofi- Aventis Μονοπρόσωπη AEBE
 
 Τηλ: +30 210 900 16 00
 
@@ -1676,9 +1680,9 @@ Sími: +354 535 7000
 
 ## Italia
 
-Sanofi S.r.l. Tel: 800 13 12 12 (domande di tipo tecnico) +39 800 536389 (altre domande e chiamate
+Sanofi S.r.l.
 
-dall'estero)
+Tel: +39 800 536389
 
 ## Κύπρος
 
@@ -1736,7 +1740,9 @@ Tel: +40 (0) 21 317 31 36
 
 ## Slovenija
 
-Swixx Biopharma d.o.o. Tel: +386 1 235 51 00
+Swixx Biopharma d.o.o.
+
+Tel: +386 1 235 51 00
 
 ## Slovenská republika
 
@@ -1827,7 +1833,7 @@ Other signs in your brain may come slightly later:
 ## What other people should do if you have low blood sugar
 
 - Tell your relatives, friends and close colleagues to get medical help straight away if you are not able to swallow or if you pass out (become unconscious).
-- You will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections should be given even if it is not certain that you have hypoglycaemia.
+- You will require glucagon (a medicine which increases blood sugar) or an injection of glucose. These treatments should be given even if it is not certain that you have hypoglycaemia.
 - You should test your blood sugar straight away after taking glucose to check that you really have hypoglycaemia.
 
 ## Low blood sugar can happen if:
@@ -1909,7 +1915,7 @@ If you have any questions about your pen or about diabetes, ask your doctor, pha
 
 <!-- image -->
 
-- Take a new pen out of the fridge at least 1 hour before you inject. Cold insulin is more painful to inject. V
+- Take a new pen out of the fridge at least 1 hour before you inject. Cold insulin is more painful to inject.
 
 ## A Check the name and expiration date on the label of your pen.
 
@@ -2016,8 +2022,6 @@ Even numbers are shown in line with the dose pointer:
 
 Odd numbers are shown as a line between even numbers:
 
-<!-- image -->
-
 29 units selected
 
 <!-- image -->
@@ -2072,7 +2076,7 @@ insulin scale.
 
 ## STEP 6: Remove the needle
 
-- Take care when handling needles - this is to prevent needle injury and cross-infection.
+- Take care when handling needles - this is to prevent needle injury and cross-infection. √
 - Never put the inner needle cap back on.
 - A Put the outer needle cap back on the needle, and use it to unscrew the needle from the pen .
 - To reduce the risk of accidental needle injury, never replace the inner needle cap.
@@ -2126,7 +2130,11 @@ insulin scale.
 
 ## Package leaflet: information for the user
 
-## Toujeo 300 units/ml DoubleStar solution for injection in a pre-filled pen Insulin glargine Each DoubleStar pen delivers 2-160 units in steps of 2 units
+## Toujeo 300 units/ml DoubleStar solution for injection in a pre-filled pen
+
+## Insulin glargine
+
+## Each DoubleStar pen delivers 2-160 units in steps of 2 units
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -2169,11 +2177,11 @@ Talk to your doctor, pharmacist or nurse before using Toujeo. Closely follow you
 ## Important:
 
 - If your blood sugar is too low (hypoglycaemia) - see 'what to do if you have low blood sugar' at the end of this leaflet.
+- Switching insulin - If you switch from another type, brand or manufacturer of insulin your dose may need to be changed.
+- Pioglitazone used together with insulin can cause serious problems - see 'Pioglitazone' below.
 
 <div style=\"page-break-after: always\"></div>
 
-- Switching insulin - If you switch from another type, brand or manufacturer of insulin your dose may need to be changed.
-- Pioglitazone used together with insulin can cause serious problems - see 'Pioglitazone' below.
 - Make sure you use the right type of insulin - always check the insulin label before each injection to avoid mix-ups with other insulins, particularly between long-acting insulins and short-acting insulins.
 - Never use a syringe to remove Toujeo from your pen. This is to avoid dosing errors and potential overdose which may lead to low blood sugar
 - To avoid an insulin underdose, perform safety tests before the first use of a new pen and also before every use of the pen (see Step 3 of the Instructions for use). Please, see also section 3.
@@ -2284,10 +2292,9 @@ Your blood sugar level may rise or fall if you drink alcohol - you will need to 
 If you are pregnant or breast-feeding, think you might be pregnant or are planning to have a baby, ask your doctor, pharmacist or nurse for advice before using this medicine:
 
 - you may need to change your insulin dose during pregnancy and after giving birth, or both insulin dose and diet during breast-feeding
+- to protect your baby it is very important to control your diabetes and prevent low blood sugar.
 
 <div style=\"page-break-after: always\"></div>
-
-- to protect your baby it is very important to control your diabetes and prevent low blood sugar.
 
 ## Driving and using machines
 
@@ -2429,12 +2436,12 @@ Change the area where the injection is given regularly to prevent skin changes.
 
 - skin and allergic reactions where the injection is given, The signs may include reddening, unusually intense pain when injecting, itching, hives, swelling or inflammation. This can spread around the injection site. Most minor reactions to insulins usually disappear within a few days to a few weeks.
 
-Rare: may affect up to 1 in 1,000 people
+## Rare: may affect up to 1 in 1,000 people
 
 - eye problems - a large change in your blood sugar control, getting better or worse, can disturb your vision. If you have a diabetic eye disorder called 'proliferative retinopathy', very low blood sugar attack may cause temporary loss of vision.
 - swelling in the calves and ankles - due to your body keeping more water than it should.
 
-Very rare: may affect up to 1 in 10,000 people
+## Very rare: may affect up to 1 in 10,000 people
 
 - changes in taste (dysgeusia).
 - muscular pain (myalgia).
@@ -2504,7 +2511,9 @@ Tel: +370 5 236 91 40
 
 Swixx Biopharma EOOD
 
-Тел.: +359 (0)2 4942 480
+Тел
+
+.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -2548,7 +2557,9 @@ Tel: +372 640 10 30
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE Τηλ: +30 210 900 16 00
+SanofiAventis Μονοπρόσωπη AEBE
+
+Τηλ: +30 210 900 16 00
 
 ## España
 
@@ -2584,7 +2595,9 @@ Sími: +354 535 7000
 
 ## Italia
 
-Sanofi S.r.l. Tel: 800 13 12 12 (domande di tipo tecnico) +39 800 536389 (altre domande e chiamate dall'estero)
+Sanofi S.r.l.
+
+Tel: +39 800 536389
 
 ## Κύπρος
 
@@ -2648,7 +2661,9 @@ Tel: +40 (0) 21 317 31 36
 
 ## Slovenija
 
-Swixx Biopharma d.o.o. Tel: +386 1 235 51 00
+Swixx Biopharma d.o.o.
+
+Tel: +386 1 235 51 00
 
 ## Slovenská republika
 
@@ -2723,11 +2738,10 @@ Other signs in your brain may come slightly later:
 - changes in behaviour, aggression, depression
 - feeling tired or sleepy, sleeping problems, feeling restless
 - difficulty concentrating, confusion, slowed reactions or difficulty speaking (sometimes total loss of speech)
-
-<div style=\"page-break-after: always\"></div>
-
 - not being able to move (paralysis), tingling in hands or arms, feeling numb and tingling often around the mouth
 - loss of self-control, being unable to look after yourself, fits or passing out.
+
+<div style=\"page-break-after: always\"></div>
 
 ## What to do if you have low blood sugar
 
@@ -2740,7 +2754,7 @@ Other signs in your brain may come slightly later:
 ## What other people should do if you have low blood sugar
 
 - Tell your relatives, friends and close colleagues to get medical help straight away if you are not able to swallow or if you pass out (become unconscious).
-- You will require an injection of glucose or glucagon (a medicine which increases blood sugar). These injections should be given even if it is not certain that you have hypoglycaemia.
+- You will require glucagon (a medicine which increases blood sugar) or an injection of glucose. These treatments should be given even if it is not certain that you have hypoglycaemia.
 - You should test your blood sugar straight away after taking glucose to check that you really have hypoglycaemia.
 
 ## Low blood sugar can happen if:
@@ -2773,8 +2787,6 @@ Other signs in your brain may come slightly later:
 - you have recently changed from an animal insulin to a human insulin, like Toujeo.
 - you take or have taken some other medicines, see section 2, 'Other medicines and Toujeo'.
 
-<div style=\"page-break-after: always\"></div>
-
 In such cases, you may get very low blood sugar and even pass out before you know what is happening. Know your warning signs. You may need to test your blood sugar more often - to help you spot low blood sugar. If you find it difficult to spot your warning signs, you should avoid situations (such as driving a car) in which you or others would be put at risk by low blood sugar.
 
 <div style=\"page-break-after: always\"></div>
@@ -2792,7 +2804,7 @@ Toujeo DoubleStar contains 300 units/ml insulin glargine in a 3 ml disposable pr
 ## Important information
 
 - Never share your pen - it is only for you.
-- Never use your pen if it is damaged or if you are not sure that it is working properly. Always perform a safety test before you use a new pen for the first time until you see insulin coming out of the needle tip (see STEP 3). If you see insulin coming out the needle tip, the pen is ready to use. If you do not see insulin coming out before taking your dose, you could get an underdose or no insulin at all. This could cause high blood sugar
+- Never use your pen if it is damaged or if you are not sure that it is working properly. Always perform a safety test before you use a new pen for the first time until you see insulin coming out of the needle tip (see STEP 3). If you see insulin coming out the needle tip, the pen is ready to use. If you do not see insulin coming out before taking your dose, you could get an underdose or no insulin at all. This could cause high blood sugar ←
 - To ensure the pen and needle are working, always perform the safety test until you see insulin coming out the needle tip before each injection (see STEP 3). If you do not perform the safety test before each injection, you may get too little insulin.
 - Always carry a spare pen and spare needles in case they get lost or stop working.
 
@@ -2932,8 +2944,6 @@ Toujeo DoubleStar is made to deliver the number of insulin units that your docto
 The dose selector adjusts in steps of 2 units.
 
 Each line in the dose window is an even number:
-
-60 units selected
 
 <!-- image -->
 

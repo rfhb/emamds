@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-01-21 15:00:00
+document_datetime: 2026-03-05 15:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vacpertagen.html
 document_name: vacpertagen.html
 version: success
-processing_time: 0.0946791
-conversion_datetime: 2026-01-22 21:22:23.45266
+processing_time: 0.0987822
+conversion_datetime: 2026-03-09 14:16:52.645311
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.77.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # VacPertagen
 
 [RSS](/en/individual-human-medicine.xml/270332)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -115,7 +115,7 @@ English (EN) (125.94 KB - PDF)
 
 [View](/en/documents/overview/vacpertagen-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-577)
+[Other languages (22)](#file-language-dropdown-220)
 
 български (BG) (147.53 KB - PDF)
 
@@ -305,205 +305,305 @@ English (EN) (468.13 KB - PDF)
 
 VacPertagen : EPAR - Product information
 
-English (EN) (374.83 KB - PDF)
+English (EN) (195.93 KB - PDF)
 
 **First published:** 21/01/2026
 
+**Last updated:** 05/03/2026
+
 [View](/en/documents/product-information/vacpertagen-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-325)
+[Other languages (24)](#file-language-dropdown-726)
 
-български (BG) (437.68 KB - PDF)
+български (BG) (568.42 KB - PDF)
 
 **First published:**
 
 21/01/2026
+
+**Last updated:**
+
+05/03/2026
 
 [View](/bg/documents/product-information/vacpertagen-epar-product-information_bg.pdf)
 
-español (ES) (363.2 KB - PDF)
+español (ES) (439.66 KB - PDF)
 
 **First published:**
 
 21/01/2026
+
+**Last updated:**
+
+05/03/2026
 
 [View](/es/documents/product-information/vacpertagen-epar-product-information_es.pdf)
 
-čeština (CS) (410.23 KB - PDF)
+čeština (CS) (529.2 KB - PDF)
 
 **First published:**
 
 21/01/2026
+
+**Last updated:**
+
+05/03/2026
 
 [View](/cs/documents/product-information/vacpertagen-epar-product-information_cs.pdf)
 
-dansk (DA) (361.26 KB - PDF)
+dansk (DA) (430.21 KB - PDF)
 
 **First published:**
 
 21/01/2026
+
+**Last updated:**
+
+05/03/2026
 
 [View](/da/documents/product-information/vacpertagen-epar-product-information_da.pdf)
 
-Deutsch (DE) (376.62 KB - PDF)
+Deutsch (DE) (448.31 KB - PDF)
 
 **First published:**
 
 21/01/2026
+
+**Last updated:**
+
+05/03/2026
 
 [View](/de/documents/product-information/vacpertagen-epar-product-information_de.pdf)
 
-eesti keel (ET) (354.26 KB - PDF)
+eesti keel (ET) (343.34 KB - PDF)
 
 **First published:**
 
 21/01/2026
+
+**Last updated:**
+
+05/03/2026
 
 [View](/et/documents/product-information/vacpertagen-epar-product-information_et.pdf)
 
-ελληνικά (EL) (426.8 KB - PDF)
+ελληνικά (EL) (564.11 KB - PDF)
 
 **First published:**
 
 21/01/2026
+
+**Last updated:**
+
+05/03/2026
 
 [View](/el/documents/product-information/vacpertagen-epar-product-information_el.pdf)
 
-français (FR) (363.51 KB - PDF)
+français (FR) (436.33 KB - PDF)
 
 **First published:**
 
 21/01/2026
+
+**Last updated:**
+
+05/03/2026
 
 [View](/fr/documents/product-information/vacpertagen-epar-product-information_fr.pdf)
 
-hrvatski (HR) (419.87 KB - PDF)
+hrvatski (HR) (536.48 KB - PDF)
 
 **First published:**
 
 21/01/2026
+
+**Last updated:**
+
+05/03/2026
 
 [View](/hr/documents/product-information/vacpertagen-epar-product-information_hr.pdf)
 
-íslenska (IS) (354.41 KB - PDF)
+íslenska (IS) (205.16 KB - PDF)
 
 **First published:**
 
 21/01/2026
+
+**Last updated:**
+
+05/03/2026
 
 [View](/is/documents/product-information/vacpertagen-epar-product-information_is.pdf)
 
-italiano (IT) (355.97 KB - PDF)
+italiano (IT) (435.66 KB - PDF)
 
 **First published:**
 
 21/01/2026
+
+**Last updated:**
+
+05/03/2026
 
 [View](/it/documents/product-information/vacpertagen-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (418.44 KB - PDF)
+latviešu valoda (LV) (533.72 KB - PDF)
 
 **First published:**
 
 21/01/2026
+
+**Last updated:**
+
+05/03/2026
 
 [View](/lv/documents/product-information/vacpertagen-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (415.28 KB - PDF)
+lietuvių kalba (LT) (525.2 KB - PDF)
 
 **First published:**
 
 21/01/2026
+
+**Last updated:**
+
+05/03/2026
 
 [View](/lt/documents/product-information/vacpertagen-epar-product-information_lt.pdf)
 
-magyar (HU) (434.71 KB - PDF)
+magyar (HU) (549.55 KB - PDF)
 
 **First published:**
 
 21/01/2026
+
+**Last updated:**
+
+05/03/2026
 
 [View](/hu/documents/product-information/vacpertagen-epar-product-information_hu.pdf)
 
-Malti (MT) (438.84 KB - PDF)
+Malti (MT) (554.78 KB - PDF)
 
 **First published:**
 
 21/01/2026
+
+**Last updated:**
+
+05/03/2026
 
 [View](/mt/documents/product-information/vacpertagen-epar-product-information_mt.pdf)
 
-Nederlands (NL) (360.89 KB - PDF)
+Nederlands (NL) (427.92 KB - PDF)
 
 **First published:**
 
 21/01/2026
+
+**Last updated:**
+
+05/03/2026
 
 [View](/nl/documents/product-information/vacpertagen-epar-product-information_nl.pdf)
 
-norsk (NO) (356.97 KB - PDF)
+norsk (NO) (218.07 KB - PDF)
 
 **First published:**
 
 21/01/2026
+
+**Last updated:**
+
+05/03/2026
 
 [View](/no/documents/product-information/vacpertagen-epar-product-information_no.pdf)
 
-polski (PL) (467.61 KB - PDF)
+polski (PL) (551.26 KB - PDF)
 
 **First published:**
 
 21/01/2026
+
+**Last updated:**
+
+05/03/2026
 
 [View](/pl/documents/product-information/vacpertagen-epar-product-information_pl.pdf)
 
-português (PT) (359.21 KB - PDF)
+português (PT) (428.88 KB - PDF)
 
 **First published:**
 
 21/01/2026
+
+**Last updated:**
+
+05/03/2026
 
 [View](/pt/documents/product-information/vacpertagen-epar-product-information_pt.pdf)
 
-română (RO) (423.92 KB - PDF)
+română (RO) (537.68 KB - PDF)
 
 **First published:**
 
 21/01/2026
+
+**Last updated:**
+
+05/03/2026
 
 [View](/ro/documents/product-information/vacpertagen-epar-product-information_ro.pdf)
 
-slovenčina (SK) (432.13 KB - PDF)
+slovenčina (SK) (530.99 KB - PDF)
 
 **First published:**
 
 21/01/2026
+
+**Last updated:**
+
+05/03/2026
 
 [View](/sk/documents/product-information/vacpertagen-epar-product-information_sk.pdf)
 
-slovenščina (SL) (433.03 KB - PDF)
+slovenščina (SL) (535.22 KB - PDF)
 
 **First published:**
 
 21/01/2026
+
+**Last updated:**
+
+05/03/2026
 
 [View](/sl/documents/product-information/vacpertagen-epar-product-information_sl.pdf)
 
-Suomi (FI) (350.69 KB - PDF)
+Suomi (FI) (422.99 KB - PDF)
 
 **First published:**
 
 21/01/2026
+
+**Last updated:**
+
+05/03/2026
 
 [View](/fi/documents/product-information/vacpertagen-epar-product-information_fi.pdf)
 
-svenska (SV) (366.5 KB - PDF)
+svenska (SV) (404.92 KB - PDF)
 
 **First published:**
 
 21/01/2026
 
+**Last updated:**
+
+05/03/2026
+
 [View](/sv/documents/product-information/vacpertagen-epar-product-information_sv.pdf)
+
+**Latest procedure affecting product information:** VR/0000335366 05/03/2026
 
 icon globe
 
@@ -527,7 +627,7 @@ English (EN) (42.11 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vacpertagen-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-678)
+[Other languages (24)](#file-language-dropdown-373)
 
 български (BG) (69.86 KB - PDF)
 
@@ -749,11 +849,25 @@ EMA product number EMEA/H/C/006304 Marketing authorisation holder
 
 BioNet Europe
 
-41 Quai Fulchiron 69005 Lyon France
+41 Cours de la Liberté Cs 73913 69426 Lyon Cedex 03 France
 
-Opinion adopted 13/11/2025 Marketing authorisation issued 09/01/2026
+Opinion adopted 13/11/2025 Marketing authorisation issued 09/01/2026 Revision 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+VacPertagen : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (143.08 KB - PDF)
+
+**First published:** 05/03/2026
+
+[View](/en/documents/procedural-steps-after/vacpertagen-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -781,11 +895,11 @@ English (EN) (161.28 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-vacpertagen_en.pdf)
 
-#### News on VacPertagen
+## News on VacPertagen
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 November 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-november-2025) 14/11/2025
 
-**This page was last updated on** 21/01/2026
+**This page was last updated on** 05/03/2026
 
 ## Share this page
 

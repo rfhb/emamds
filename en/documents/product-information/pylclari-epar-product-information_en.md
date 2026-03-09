@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-05 15:39:14
+document_datetime: 2026-03-02 11:39:06
 document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/pylclari-epar-product-information_en.pdf
 document_name: pylclari-epar-product-information_en.pdf
 version: success
-processing_time: 41.2759975
-conversion_datetime: 2025-12-21 19:19:55.059803
+processing_time: 23.6014005
+conversion_datetime: 2026-03-09 14:15:42.092928
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.77.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -44,7 +44,9 @@ The total activity per vial ranges from 500 MBq to 10 000 MBq at the date and ti
 
 ## Pylclari 1 500 MBq/mL solution for injection
 
-Each mL of solution contains 1 500 MBq of piflufolastat ( 18 F) at the date and time of calibration.
+Each mL of solution contains 1 500 MBq of piflufolastat ( 18
+
+F) at the date and time of calibration.
 
 The total activity per vial ranges from 750 MBq to 15 000 MBq at the date and time of calibration.
 
@@ -242,8 +244,6 @@ Table 1: Adverse reactions observed with piflufolastat ( 18 F)
 | General disorders and administration site conditions | Feeling abnormal      |             |
 | General disorders and administration site conditions | Injection site pain   |             |
 
-*Adverse reactions derived from spontaneous reporting with a not known frequency.
-
 <div style=\"page-break-after: always\"></div>
 
 ## Description of selected adverse reactions
@@ -342,14 +342,14 @@ Table 4 shows patient-level piflufolastat ( 18 F) PET/CT results from the majori
 
 Table 4: Patient-Level piflufolastat ( 18 F) PET results and percent PET positivity* stratified by serum PSA level in the CONDOR study using majority result among three readers (n=199)**
 
-| PSA (ng/mL)   | PET positive patients   | PET positive patients   | PET positive patients   | PET positive patients                    | PET negative patients   | Percent PET positivity (95% CI) *   |
+| PSA (ng/mL)   | PET positive patients   | PET positive patients   | PET positive patients   | PET positive patients                    |   PET negative patients | Percent PET positivity (95% CI) *   |
 |---------------|-------------------------|-------------------------|-------------------------|------------------------------------------|-------------------------|-------------------------------------|
 |               | Total                   | TP                      | FP                      | Unevaluable (Without reference standard) |                         |                                     |
-| < 0.5         | 24                      | 11                      | 4                       | 9                                        | 45                      | 35 (24;46)                          |
-| ≥0.5 and <1   | 18                      | 12                      | 3                       | 3                                        | 18                      | 50 (34;66)                          |
-| ≥1 and <2     | 21                      | 15                      | 3                       | 3                                        | 10                      | 68 (51;84)                          |
-| ≥2            | 57                      | 50                      | 3                       | 4                                        | 6                       | 90 (83;98)                          |
-| Total         | 120                     | 88                      | 13                      | 19                                       | 79                      | 60 (54;67)                          |
+| < 0.5         | 24                      | 11                      | 4                       | 9                                        |                      45 | 35 (24;46)                          |
+| ≥0.5 and <1   | 18                      | 12                      | 3                       | 3                                        |                      18 | 50 (34;66)                          |
+| ≥1 and <2     | 21                      | 15                      | 3                       | 3                                        |                      10 | 68 (51;84)                          |
+| ≥2            | 57                      | 50                      | 3                       | 4                                        |                       6 | 90 (83;98)                          |
+| Total         | 120                     | 88                      | 13                      | 19                                       |                      79 | 60 (54;67)                          |
 
 * Percent PET positivity = PET positive patients/total patients scanned. PET positive patients include true positive and false positive patients as well as those who did not have reference standard information.
 
@@ -516,33 +516,33 @@ The time-integrated activity in source tissue was obtained from longitudinal ima
 
 <div style=\"page-break-after: always\"></div>
 
-| ORGAN                      | ABSORBED DOSE PER UNIT ACTIVITY ADMINISTERED (mGy/MBq)   |
+| ORGAN                      |   ABSORBED DOSE PER UNIT ACTIVITY ADMINISTERED (mGy/MBq) |
 |----------------------------|----------------------------------------------------------|
-| Adrenals                   | 0.0326                                                   |
-| Bone surfaces              | 0.00662                                                  |
-| Brain                      | 0.00215                                                  |
-| Breast                     | 0.00767                                                  |
-| Gallbladder wall           | 0.0255                                                   |
+| Adrenals                   |                                                  0.0326  |
+| Bone surfaces              |                                                  0.00662 |
+| Brain                      |                                                  0.00215 |
+| Breast                     |                                                  0.00767 |
+| Gallbladder wall           |                                                  0.0255  |
 | Gastrointestinal tract     |                                                          |
-| Stomach wall               | 0.0127                                                   |
-| Small Intestine wall       | 0.0101                                                   |
+| Stomach wall               |                                                  0.0127  |
+| Small Intestine wall       |                                                  0.0101  |
 | Colon wall                 |                                                          |
-| Upper large intestine wall | 0.0125                                                   |
-| Lower Large Intestine wall | 0.0101                                                   |
-| Heart wall                 | 0.0178                                                   |
-| Kidneys                    | 0.124                                                    |
-| Liver                      | 0.0388                                                   |
-| Lungs                      | 0.0121                                                   |
-| Muscles                    | 0.00714                                                  |
-| Pancreas                   | 0.0183                                                   |
-| Red marrow                 | 0.00851                                                  |
-| Skin                       | 0.0054                                                   |
-| Spleen                     | 0.0283                                                   |
-| Testes                     | 0.00638                                                  |
-| Thymus                     | 0.00769                                                  |
-| Thyroid                    | 0.00687                                                  |
-| Urinary bladder wall       | 0.00712                                                  |
-| Effective dose (mSv/MBq)   | 0.0121                                                   |
+| Upper large intestine wall |                                                  0.0125  |
+| Lower Large Intestine wall |                                                  0.0101  |
+| Heart wall                 |                                                  0.0178  |
+| Kidneys                    |                                                  0.124   |
+| Liver                      |                                                  0.0388  |
+| Lungs                      |                                                  0.0121  |
+| Muscles                    |                                                  0.00714 |
+| Pancreas                   |                                                  0.0183  |
+| Red marrow                 |                                                  0.00851 |
+| Skin                       |                                                  0.0054  |
+| Spleen                     |                                                  0.0283  |
+| Testes                     |                                                  0.00638 |
+| Thymus                     |                                                  0.00769 |
+| Thyroid                    |                                                  0.00687 |
+| Urinary bladder wall       |                                                  0.00712 |
+| Effective dose (mSv/MBq)   |                                                  0.0121  |
 
 The effective dose resulting from the administration of a maximal recommended activity of 360 MBq for an adult weighing 70 kg is about 4.4 mSv.
 
@@ -673,7 +673,9 @@ CURIUM BULGARIA LYULIN DISTRICT ULITSA BANSKO SHOSE 128 SOFIA 1331 - BULGARIA
 
 ## CURIUM ROMANIA S.R.L
 
-STRADA GRADINARILOR NR 1 PANTELIMON 077145 - ROMANIA
+STRADA GRADINARILOR NR 1
+
+PANTELIMON 077145 - ROMANIA
 
 ## ÚJV ŘEZ A.S.
 
@@ -701,6 +703,10 @@ ALLEE DU SIX-AOUT 8
 
 LIEGE, 4000 - BELGIUM
 
+## CURIUM PET FRANCE
+
+ZONE D'ACTIVITE LA BOURDONNAIS 10 RUE DE L'EGLANTIER 35520 LA MEZIERE - FRANCE
+
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
@@ -715,11 +721,11 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
 
+<div style=\"page-break-after: always\"></div>
+
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 ## · Risk management plan (RMP)
-
-<div style=\"page-break-after: always\"></div>
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
@@ -796,7 +802,7 @@ Dispose according to local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-## CURIUM PET FRANCE
+CURIUM PET FRANCE
 
 3 rue Marie Curie, Biopole Clermont-Limagne 63 360 Saint-Beauzire - France
 
@@ -820,7 +826,7 @@ Justification for not including Braille accepted.
 
 Not applicable.
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 Not applicable.
 
@@ -904,31 +910,32 @@ Manufacturer : SYN INNOVATION LABORATORIES - Greece
 
 <div style=\"page-break-after: always\"></div>
 
-| Or                                                                 |
-|--------------------------------------------------------------------|
-| Manufacturer : CURIUM AUSTRIA GMBH - Austria Or                    |
-| Manufacturer : CURIUM FINLAND OY - Finland                         |
-| Or                                                                 |
-| Manufacturer: CURIUM PET France - Marseille - France Or            |
-| Manufacturer: CURIUM PET France - Vandoeuvre-lès-Nancy - France Or |
-| Manufacturer: CURIUM PET France- Tours - France                    |
-| Or                                                                 |
-| Manufacturer: CYCLOTRON VU - Netherlands Or                        |
-| Manufacturer: CURIUM PET France - Rennes - France Or               |
-| Manufacturer: CURIUM PET France - Toulouse - France Or             |
-| Manufacturer : CURIUM ITALY S.R.L - Udine - Italy Or               |
-| Manufacturer : CURIUM ITALY S.R.L - Monza - Italy Or               |
-| Manufacturer : CURIUM BULGARIA - Sofia - Bulgaria Or               |
-| Romania                                                            |
-| Manufacturer : ÚJV ŘEZ A.S. - Husinec - Czech Republic Or          |
-| Manufacturer : ÚJV ŘEZ A.S. - Brno - Czech Republic Or             |
-| Manufacturer : SYNEKTIK PHARMA SP. Z O.O. - Kielce -               |
-| Poland Or                                                          |
-| Manufacturer : CURIUM PHARMA IRELAND LIMITED - Dublin - Or         |
-| Ireland                                                            |
-| Manufacturer : CURIUM PET LIEGE - Liege - Belgium                  |
-| Manufacturer : CURIUM ROMANIA S.R.L - Or                           |
-| Pantelimon -                                                       |
+| Or                                                                                                      |
+|---------------------------------------------------------------------------------------------------------|
+| Manufacturer : CURIUM AUSTRIA GMBH - Austria Or                                                         |
+| Manufacturer : CURIUM FINLAND OY - Finland Or                                                           |
+| Manufacturer: CURIUM PET France - Marseille - France Or                                                 |
+| Manufacturer: CURIUM PET France - Vandoeuvre-lès-Nancy - France Or                                      |
+| Manufacturer: CURIUM PET France- Tours - France                                                         |
+| Or                                                                                                      |
+| Manufacturer: CYCLOTRON VU - Netherlands                                                                |
+| Or                                                                                                      |
+| Manufacturer: CURIUM PET France - Rennes - France Or                                                    |
+| Manufacturer: CURIUM PET France - Toulouse - France Or                                                  |
+| Manufacturer : CURIUM ITALY S.R.L - Udine - Italy Or                                                    |
+| Manufacturer : CURIUM ITALY S.R.L - Monza - Italy Or                                                    |
+| Manufacturer : CURIUM BULGARIA - Sofia - Bulgaria Or Manufacturer : CURIUM ROMANIA S.R.L - Pantelimon - |
+| Romania Or                                                                                              |
+| Manufacturer : ÚJV ŘEZ A.S. - Husinec - Czech Republic Or                                               |
+| Manufacturer : ÚJV ŘEZ A.S. - Brno - Czech Republic                                                     |
+| Manufacturer : SYNEKTIK PHARMA SP. Z O.O. - Kielce - Poland Or                                          |
+| Manufacturer : CURIUM PHARMA IRELAND LIMITED - Dublin -                                                 |
+| Ireland                                                                                                 |
+| Manufacturer : CURIUM PET LIEGE - Liege - Belgium Or                                                    |
+| France                                                                                                  |
+| Manufacturer: CURIUM PET France - La Mézière -                                                          |
+| Or                                                                                                      |
+| Or                                                                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1091,27 +1098,23 @@ CURIUM PET France -Sarcelles - France
 | Manufacturer: SYN INNOVATION LABORATORIES - Greece Or              |
 |--------------------------------------------------------------------|
 | Manufacturer: CURIUM AUSTRIAGMBH - Austria Or                      |
-| Manufacturer: CURIUM FINLAND OY - Finland                          |
-| Or                                                                 |
+| Manufacturer: CURIUM FINLAND OY - Finland Or                       |
 | Manufacturer: CURIUM PET France- Marseille - France Or             |
 | Manufacturer: CURIUM PET France - Vandoeuvre-lès-Nancy - France Or |
 | Manufacturer: CURIUM PET France -Tours - France Or                 |
-| Manufacturer: CYCLOTRON VU - Netherlands Or                        |
+| Manufacturer: CYCLOTRON VU - Netherlands                           |
 | Manufacturer: CURIUM PET France - Rennes - France Or               |
 | Manufacturer: CURIUM PET France - Toulouse - France Or             |
 | Manufacturer : CURIUM ITALY S.R.L - Udine - Italy Or               |
 | Manufacturer : CURIUM ITALY S.R.L - Monza - Italy Or               |
-| Manufacturer : CURIUM BULGARIA - Sofia - Bulgaria Or Romania       |
+| Manufacturer : CURIUM BULGARIA - Sofia - Bulgaria                  |
+| Manufacturer : CURIUM ROMANIA S.R.L - Pantelimon - Romania Or      |
 | Manufacturer : ÚJV ŘEZ A.S. - Husinec - Czech Republic Or          |
-| Manufacturer : ÚJV ŘEZ A.S. - Brno - Czech Republic                |
-| Manufacturer : SYNEKTIK PHARMA SP. Z O.O. - Kielce - Or            |
-| Manufacturer : CURIUM PHARMA IRELAND LIMITED - Dublin - Or         |
-| Ireland                                                            |
-| Manufacturer : CURIUM PET LIEGE - Liege - Belgium                  |
-| Or                                                                 |
-| Manufacturer : CURIUM ROMANIA S.R.L - Or                           |
-| Pantelimon -                                                       |
-| Poland                                                             |
+| Manufacturer : ÚJV ŘEZ A.S. - Brno - Czech Republic Or             |
+| Manufacturer : SYNEKTIK PHARMA SP. Z O.O. - Kielce - Poland Or     |
+| Manufacturer : CURIUM PHARMA IRELAND LIMITED - Dublin - Ireland Or |
+| Manufacturer : CURIUM PET LIEGE - Liege - Belgium Or               |
+| Manufacturer: CURIUM PET France - La Mézière - France              |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1360,10 +1363,13 @@ SOUSAKI SITE AG. THEODOROI, KORINTHIA PREFECTURE 20003 - GREECE
 | CURIUM BULGARIA LYULIN DISTRICT ULITSA BANSKO SHOSE 128 SOFIA 1331 - BULGARIA                       | ÚJV ŘEŽ A.S. ZLUTY KOPEC 7A STARE BRNO BRNO, 602 00 - CZECH REPUBLIC                            |
 | CURIUM ROMANIA S.R.L STRADA GRADINARILOR NR 1 PANTELIMON 077145 - ROMANIA                           | SYNEKTIK PHARMA SP. Z O.O. UL. PREZYDENTA STEFANA ARTWINSKIEGO 3 KIELCE, 25-734 - POLAND        |
 | CURIUM PHARMA IRELAND LIMITED BLACKROCK CLINIC ROCK ROAD DUBLIN, A94 E4X7 - IRELAND                 | CURIUM PET LIEGE ALLEE DU SIX-AOUT 8 LIEGE, 4000 - BELGIUM                                      |
-| This leaflet was last revised in.                                                                   |                                                                                                 |
-| Other sources of information                                                                        |                                                                                                 |
+| CURIUM PET FRANCE ZONE D'ACTIVITE LA BOURDONNAIS 10 RUE DE L'EGLANTIER 35520 LA MEZIERE - FRANCE    |                                                                                                 |
 
 <div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in.
+
+## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
 

@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-02-19 16:29:00
+document_datetime: 2026-03-05 16:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/waskyra.html
 document_name: waskyra.html
 version: success
-processing_time: 0.0971648
-conversion_datetime: 2026-02-21 12:09:49.116439
+processing_time: 0.0575362
+conversion_datetime: 2026-03-09 13:12:55.425333
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.77.0
+  docling-core: 2.69.0
   docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Waskyra
 
 [RSS](/en/individual-human-medicine.xml/270333)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -114,7 +114,7 @@ English (EN) (114.53 KB - PDF)
 
 [View](/en/documents/overview/waskyra-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-407)
+[Other languages (22)](#file-language-dropdown-500)
 
 български (BG) (141.9 KB - PDF)
 
@@ -292,6 +292,14 @@ svenska (SV) (113.28 KB - PDF)
 
 [View](/sv/documents/overview/waskyra-epar-medicine-overview_sv.pdf)
 
+Waskyra : EPAR - Risk management plan
+
+English (EN) (949.91 KB - PDF)
+
+**First published:** 05/03/2026
+
+[View](/en/documents/rmp/waskyra-epar-risk-management-plan_en.pdf)
+
 ## Product information
 
 Waskyra : EPAR - Product information
@@ -302,7 +310,7 @@ English (EN) (499.65 KB - PDF)
 
 [View](/en/documents/product-information/waskyra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-818)
+[Other languages (24)](#file-language-dropdown-178)
 
 български (BG) (599.25 KB - PDF)
 
@@ -520,7 +528,7 @@ English (EN) (52.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/waskyra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-231)
+[Other languages (24)](#file-language-dropdown-698)
 
 български (BG) (59.54 KB - PDF)
 
@@ -790,17 +798,17 @@ English (EN) (150.16 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-waskyra_en.pdf)
 
-#### News on Waskyra
+## News on Waskyra
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 November 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-november-2025) 14/11/2025
 
 [First gene therapy to treat rare disease Wiskott-Aldrich syndrome](/en/news/first-gene-therapy-treat-rare-disease-wiskott-aldrich-syndrome) 14/11/2025
 
-#### More information on Waskyra
+## More information on Waskyra
 
 - [EU/3/12/998 - orphan designation for treatment of Wiskott-Aldrich syndrome](/en/medicines/human/orphan-designations/eu-3-12-998)
 
-**This page was last updated on** 19/02/2026
+**This page was last updated on** 05/03/2026
 
 ## Share this page
 

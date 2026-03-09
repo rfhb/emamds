@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-14 11:47:14
+document_datetime: 2026-03-09 09:39:51
 document_pages: 55
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/otezla-epar-product-information_en.pdf
 document_name: otezla-epar-product-information_en.pdf
 version: success
-processing_time: 21.8388966
-conversion_datetime: 2026-01-17 12:59:42.397758
+processing_time: 19.878696
+conversion_datetime: 2026-03-09 14:22:28.100573
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.77.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.11.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -529,11 +529,11 @@ BSA = body surface area; CDLQI = Children's Dermatology Life Quality Index; ITT 
 
 PASI = Psoriasis Area and Severity Index; sPGA = Static Physician Global Assessment;
 
-- a  Apremilast 20 or 30 mg twice daily vs. placebo at week 16; p-value &lt; 0.0001 for sPGA response and PASI-75 response, nominal p-value &lt; 0.01 for all other end points except CDLQI response (nominal p-value 0.5616)
+a  Apremilast 20 or 30 mg twice daily vs. placebo at week 16; p-value &lt; 0.0001 for sPGA response and PASI-75 response, nominal p-value &lt; 0.01 for all other end points except CDLQI response (nominal p-value 0.5616)
 
 b  Proportion of subjects who achieved the response
 
-- c Least squares mean +/- standard error
+c Least squares mean +/- standard error
 
 d 0 = best score, 30 = worst score
 
@@ -600,10 +600,10 @@ Figure 3. Mean number of oral ulcers by time point through week 64 (ITT populati
 
 Time (weeks)
 
-| Weeks                | 0124681 1012                                                | 16                | 28          | 40 52    | 64 Follow-up      |
+| Weeks                | 0124681012                                                  | 16                | 28          | 40 52    | 64 Follow-up      |
 |----------------------|-------------------------------------------------------------|-------------------|-------------|----------|-------------------|
-| Placebo, n (Mean)    | 103 9897939186 82 (3.9)2.9)(2.8(2.3)(2.5) (2.2) (1.9) (2.0) | 8 (0.7) (0.8)     | 78 73 (0.7) | 70 (1.1) | 67 82 (0.8) (2.0) |
-| APR 30 BID, n (Mean) | 104 101101101 94 94 97 （）（）（）（）（）                           | 95 92 (0.9) (0.9) | S8 (0.9)    | 79 (0.9) | 75 85 (1.4) (2.5) |
+| Placebo, n (Mean)    | 1039897939186 82 (3.9)2.9)(2.8(2.3) (2.5) (2.2) (1.9) (2.0) | 83 (0.7) (0.8)    | 78 73 (0.7) | 70 (1.1) | 67 82 (0.8) (2.0) |
+| APR 30 BID, n (Mean) | 104 101 101 101 98 94 94 97 （）（）（）（）)（）                     | S6 92 (0.9) (0.9) | S8 (0.9)    | 79 (0.9) | 75 85 (1.4) (2.5) |
 
 ITT = Intent To Treat; DAO = Data As Observed.
 
@@ -798,13 +798,15 @@ EU/1/14/981/001
 
 Otezla 20 mg film-coated tablets
 
-EU/1/14/981/005 -pack size of 56 tablets
+EU/1/14/981/005 - pack size of 56 tablets
 
 Otezla 30 mg film-coated tablets
 
-EU/1/14/981/002 - pack size of 56 tablets
+EU/1/14/981/002 -
 
-EU/1/14/981/003 -pack size of 168 tablets
+pack size of 56 tablets
+
+EU/1/14/981/003 - pack size of 168 tablets
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1184,7 +1186,7 @@ Amgen Europe B.V. Minervum 7061, 4817 ZK Breda, The Netherlands
 
 EU/1/14/981/005
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
@@ -1282,7 +1284,7 @@ Otezla 30 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2 D barcode carrying the unique identifier included
+- 2 D barcode carrying the unique identifier included
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -1936,7 +1938,7 @@ The following adverse reactions should be added under the SOC 'Psychiatric disor
 
 ## Package Leaflet
 
-- •Section 4 Possible side effects
+- ·Section 4 Possible side effects
 
 Uncommon side effects (may affect up to 1 in 100 people)
 

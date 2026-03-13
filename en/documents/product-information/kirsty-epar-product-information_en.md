@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-04 16:56:34
-document_pages: 61
+document_datetime: 2026-03-11 09:46:16
+document_pages: 79
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kirsty-epar-product-information_en.pdf
 document_name: kirsty-epar-product-information_en.pdf
 version: success
-processing_time: 12.8427325
-conversion_datetime: 2026-02-05 11:37:36.55086
+processing_time: 17.4376994
+conversion_datetime: 2026-03-13 19:30:08.166755
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.72.0
-  docling-core: 2.63.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
-  python: cpython-313 (3.13.12)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,15 +24,19 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Kirsty 100 units/ml solution for injection in vial Kirsty 100 units/ml solution for injection in pre-filled pen
+Kirsty 100 units/ml solution for injection in vial Kirsty 100 units/ml solution for injection in cartridge Kirsty 100 units/ml solution for injection in pre-filled pen
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-One ml solution contains 100 units (equivalent to 3.5 mg) insulin aspart*.
+One ml solution contains 100 units insulin aspart* (equivalent to 3.5 mg).
 
 Kirsty 100 units/ml solution for injection in vial
 
-Each vial contains 10 ml equivalent to 1,000 units.
+Each vial contains 10 ml equivalent to 1 000 units.
+
+Kirsty 100 units/ml solution for injection in cartridge.
+
+Each cartridge contains 3 ml equivalent to 300 units.
 
 Kirsty 100 units/ml solution for injection in pre-filled pen
 
@@ -44,7 +48,9 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Solution for injection (injection). The solution is clear, colourless and aqueous.
+Solution for injection (injection).
+
+The solution is clear, colourless and aqueous.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -62,17 +68,19 @@ Kirsty dosing is individual and determined in accordance with the needs of the p
 
 Moreover, Kirsty vial can be used for continuous subcutaneous insulin infusion (CSII) in pump systems.
 
+<div style=\"page-break-after: always\"></div>
+
 Kirsty vial can also be used if intravenous administration of insulin aspart, by physicians or other healthcare staff, is applicable.
 
 Blood glucose monitoring and insulin dose adjustments are recommended to achieve optimal glycaemic control.
-
-<div style=\"page-break-after: always\"></div>
 
 The individual insulin requirement in adults and children is usually between 0.5 and 1.0 unit/kg/day. In a basal-bolus treatment regimen 50-70% of this requirement may be provided by Kirsty and the remainder by intermediate-acting or long-acting insulin.
 
 Adjustment of dose may be necessary if patients undertake increased physical activity, change their usual diet or during concomitant illness.
 
-## Special populations Elderly (≥ 65 years old)
+## Special populations
+
+## Elderly (≥ 65 years old)
 
 ## Kirsty can be used in elderly patients.
 
@@ -80,7 +88,7 @@ In elderly patients, glucose monitoring should be intensified and the insulin as
 
 ## Renal impairment
 
-## Renal impairment may reduce the patient's insulin requirements.
+Renal impairment may reduce the patient's insulin requirements.
 
 In patients with renal impairment, glucose monitoring should be intensified and the insulin aspart dose adjusted on an individual basis.
 
@@ -104,15 +112,19 @@ Close glucose monitoring is recommended during the transfer and in the initial w
 
 ## Method of administration
 
-## Insulin aspart is a rapid-acting insulin analogue.
+Insulin aspart is a rapid-acting insulin analogue.
 
-Kirsty is administered subcutaneously by injection in the abdominal wall, the thigh, the upper arm, the deltoid region or the gluteal region. Injection sites should always be rotated within the same region in order to reduce the risk of lipodystrophy and cutaneous amyloidosis (see sections 4.4 and 4.8). Subcutaneous injection in the abdominal wall ensures a faster absorption than other injection sites. Compared to soluble human insulin the faster onset of action of Kirsty is maintained regardless of the injection site. The duration of action will vary according to the dose, injection site, blood flow, temperature and level of physical activity.
+Kirsty is administered subcutaneously by injection in the abdominal wall, the thigh, the upper arm, the deltoid region or the gluteal region. Injection sites should always be rotated within the same region in order to reduce the risk of lipodystrophy and cutaneous amyloidosis (see sections 4.4 and 4.8). Subcutaneous injection in the abdominal wall ensures a faster absorption than other injection
 
 <div style=\"page-break-after: always\"></div>
 
-Due to the faster onset of action, Kirsty should generally be given immediately before a meal. When necessary Kirsty can be given soon after a meal.
+sites. Compared to soluble human insulin the faster onset of action of Kirsty is maintained regardless of the injection site. The duration of action will vary according to the dose, injection site, blood flow, temperature and level of physical activity.
 
-## Kirsty 100 units/ml solution for injection in vial Continuous subcutaneous insulin infusion (CSII)
+Due to the faster onset of action, Kirsty should generally be given immediately before a meal. When necessary, Kirsty can be given soon after a meal.
+
+## Kirsty 100 units/ml solution for injection in vial
+
+## Continuous subcutaneous insulin infusion (CSII)
 
 Kirsty may be used for CSII in pump systems suitable for insulin infusion. CSII should be administered in the abdominal wall. Infusion sites should be rotated.
 
@@ -134,19 +146,25 @@ Although stable over time, a certain amount of insulin will be initially adsorbe
 
 Kirsty vials are for use with insulin syringes with the corresponding unit scale. See also section 6.6.
 
+## Kirsty 100 units/ml solution for injection in cartridge
+
+Kirsty in cartridges is only suitable for subcutaneous injections from a reusable pen. If administration by syringe, intravenous injection or infusion pump is necessary, a vial should be used. Kirsty in cartridges is designed to  be used only with the following reusable pen (see section 6.6):
+
+- -EZPen which is intended to deliver variable doses from 1 to 60 units of insulin aspart in 1 unit dose increment.
+
 ## Kirsty 100 units/ml solution for injection in pre-filled pen
 
 Kirsty pre-filled pen is only suitable for subcutaneous injections. If administration by syringe or intravenous injection is necessary, a vial should be used. If administration by infusion pump is necessary, a vial should be used.
 
 Kirsty pre-filled pen delivers insulin in increment of 1 unit up to a maximum single dose of 80 units. Kirsty pre-filled pen is designed to be used with commercially available insulin pen needles. See also section 6.6.
 
+<div style=\"page-break-after: always\"></div>
+
 For detailed user instructions, please refer to the package leaflet.
 
 ## 4.3 Contraindications
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.4 Special warnings and precautions for use
 
@@ -160,7 +178,7 @@ Before travelling between different time zones, the patient should seek the doct
 
 ## Hyperglycaemia
 
-Inadequate dosing or discontinuation of treatment, especially in type 1 diabetes, may lead to hyperglycaemia and diabetic ketoacidosis. Usually the first symptoms of hyperglycaemia develop gradually over a period of hours or days. They include thirst, increased frequency of urination, nausea, vomiting, drowsiness, flushed dry skin, dry mouth, loss of appetite as well as acetone odour of breath. In type 1 diabetes, untreated hyperglycaemic events eventually lead to diabetic ketoacidosis, which is potentially lethal.
+Inadequate dosing or discontinuation of treatment, especially in type 1 diabetes, may lead to hyperglycaemia and diabetic ketoacidosis. Usually, the first symptoms of hyperglycaemia develop gradually over a period of hours or days. They include thirst, increased frequency of urination, nausea, vomiting, drowsiness, flushed dry skin, dry mouth, loss of appetite as well as acetone odour of breath. In type 1 diabetes, untreated hyperglycaemic events eventually lead to diabetic ketoacidosis, which is potentially lethal.
 
 ## Hypoglycaemia
 
@@ -178,15 +196,13 @@ Since Kirsty should be administered in immediate relation to a meal, the rapid o
 
 Concomitant illness, especially infections and feverish conditions, usually increases the patient's insulin requirements. Concomitant diseases in the kidney, liver or affecting the adrenal, pituitary or thyroid gland can require changes in the insulin dose.
 
+<div style=\"page-break-after: always\"></div>
+
 When patients are transferred between different types of insulin medicinal products, the early warning symptoms of hypoglycaemia may change or become less pronounced than those experienced with their previous insulin.
 
 ## Transfer from other insulin medicinal products
 
-Transferring a patient to another type or brand of insulin should be done under strict medical supervision. Changes in strength, brand (manufacturer), type, origin (animal, human insulin or human
-
-<div style=\"page-break-after: always\"></div>
-
-insulin analogue) and/or method of manufacture (recombinant DNA versus animal source insulin) may result in the need for a change in dose. Patients transferred to Kirsty from another type of insulin may require an increased number of daily injections or a change in dose from that used with their usual insulin medicinal products. If an adjustment is needed, it may occur with the first dose or during the first few weeks or months.
+Transferring a patient to another type or brand of insulin should be done under strict medical supervision. Changes in strength, brand (manufacturer), type, origin (animal, human insulin or human insulin analogue) and/or method of manufacture (recombinant DNA versus animal source insulin) may result in the need for a change in dose. Patients transferred to Kirsty from another type of insulin may require an increased number of daily injections or a change in dose from that used with their usual insulin medicinal products. If an adjustment is needed, it may occur with the first dose or during the first few weeks or months.
 
 ## Injection site reactions
 
@@ -202,9 +218,7 @@ Cases of cardiac failure have been reported when pioglitazone was used in combin
 
 ## Avoidance of accidental mix-ups/medication errors
 
-Patients must be instructed to always check the insulin label before each injection to avoid accidental mix-ups between insulin aspart and other insulin products.
-
-## Insulin antibodies
+Patients must be instructed to always check the insulin label before each injection to avoid accidental mix-ups between insulin aspart and other insulin products. nsulin antibodies
 
 Insulin administration may cause insulin antibodies to form. In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyper- or hypoglycaemia.
 
@@ -214,11 +228,13 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that i
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
+<div style=\"page-break-after: always\"></div>
+
 A number of medicinal products are known to interact with the glucose metabolism.
 
-The following substances may reduce the patient's insulin requirements: Oral antidiabetic medicinal products, monoamine oxidase inhibitors (MAOI), beta-blockers, angiotensin converting enzyme (ACE) inhibitors, salicylates, anabolic steroids and sulphonamides.
+The following substances may reduce the patient's insulin requirements:
 
-<div style=\"page-break-after: always\"></div>
+Oral antidiabetic medicinal products, monoamine oxidase inhibitors (MAOI), beta-blockers, angiotensin converting enzyme (ACE) inhibitors, salicylates, anabolic steroids and sulphonamides.
 
 The following substances may increase the patient's insulin requirements: Oral contraceptives, thiazides, glucocorticoids, thyroid hormones, sympathomimetics, growth hormone and danazol.
 
@@ -254,38 +270,38 @@ Patients should be advised to take precautions to avoid hypoglycaemia while driv
 
 ## Summary of the safety profile
 
+<div style=\"page-break-after: always\"></div>
+
 Adverse reactions observed in patients using insulin aspart are mainly due to the pharmacologic effect of insulin.
 
 The most frequently reported adverse reaction during treatment is hypoglycaemia. The frequencies of hypoglycaemia vary with patient population, dose regimens and level of glycaemic control (see section 4.8, Description of selected adverse reactions).
-
-<div style=\"page-break-after: always\"></div>
 
 At the beginning of the insulin treatment, refraction anomalies, oedema and injection site reactions (pain, redness, hives, inflammation, bruising, swelling and itching at the injection site) may occur. These reactions are usually of transitory nature. Fast improvement in blood glucose control may be associated with acute painful neuropathy, which is usually reversible. Intensification of insulin therapy with abrupt improvement in glycaemic control may be associated with temporary worsening of diabetic retinopathy, while long-term improved glycaemic control decreases the risk of progression of diabetic retinopathy.
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions listed below are based on clinical trial data and classified according to MedDRA frequency and System Organ Class. Frequency categories are defined according to the following convention: Very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); not known (cannot be estimated from the available data).
+Adverse reactions listed below are based on clinical trial data and classified according to MedDRA frequency and System Organ Class. Frequency categories are defined according to the following convention: Very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data).
 
-| MedDRA system organ class                            | very common    | uncommon                                   | rare                                       | very rare               | Not known                |
-|------------------------------------------------------|----------------|--------------------------------------------|--------------------------------------------|-------------------------|--------------------------|
-| Immune system disorders                              |                | Urticaria, rash, eruptions                 |                                            | Anaphylactic reactions* |                          |
-| Metabolism and nutritions disorders                  | Hypoglycaemia* |                                            |                                            |                         |                          |
-| Nervous system disorders                             |                |                                            | Peripheral neuropathy (painful neuropathy) |                         |                          |
-| Eye disorders                                        |                | Refraction disorders, diabetic retinopathy |                                            |                         |                          |
-| Skin and subcutaneous tissue disorders               |                | Lipodystrophy *                            |                                            |                         | Cutaneous amyloidosis* † |
-| General disorders and administration site conditions |                | Injection site reactions, oedema           |                                            |                         |                          |
+| MedDRA system organ class                             | very common     | uncommon                                   | rare                                         | very rare                | Not known                |
+|-------------------------------------------------------|-----------------|--------------------------------------------|----------------------------------------------|--------------------------|--------------------------|
+| Immune system disorders                               |                 | Urticaria, rash, eruptions                 |                                              | Anaphylact ic reactions* |                          |
+| Metabolism and nutrition disorders                    | Hypoglycaemi a* |                                            |                                              |                          |                          |
+| Nervous system disorders                              |                 |                                            | Peripheral neuropath y (painful neuropath y) |                          |                          |
+| Eye disorders                                         |                 | Refraction disorders, diabetic retinopathy |                                              |                          |                          |
+| Skin and subcutaneou s tissue disorders               |                 | Lipodystroph y*                            |                                              |                          | Cutaneous amyloidosis *† |
+| General disorders and administrati on site conditions |                 | Injection site reactions, oedema           |                                              |                          |                          |
 
 ## Description of selected adverse reactions
 
-## Anaphylactic reactions
+Anaphylactic reactions
+
+<div style=\"page-break-after: always\"></div>
 
 The occurrence of generalised hypersensitivity reactions (including generalised skin rash, itching, sweating, gastrointestinal upset, angioneurotic oedema, difficulties in breathing, palpitation and reduction in blood pressure) is very rare but can potentially be life threatening.
 
 ## Hypoglycaemia
 
 The most frequently reported adverse reaction is hypoglycaemia. It may occur if the insulin dose is too high in relation to the insulin requirement. Severe hypoglycaemia may lead to unconsciousness and/or convulsions and may result in temporary or permanent impairment of brain function or even death. The symptoms of hypoglycaemia usually occur suddenly. They may include cold sweats, cool pale skin, fatigue, nervousness or tremor, anxiousness, unusual tiredness or weakness, confusion, difficulty in concentration, drowsiness, excessive hunger, vision changes, headache, nausea and palpitation.
-
-<div style=\"page-break-after: always\"></div>
 
 In clinical trials, the frequency of hypoglycaemia varied with patient population, dose regimens and level of glycaemic control. During clinical trials the overall rates of hypoglycaemia did not differ between patients treated with insulin aspart compared to human insulin.
 
@@ -312,15 +328,15 @@ A specific overdose for insulin cannot be defined, however, hypoglycaemia may de
 - Mild hypoglycaemic episodes can be treated by oral administration of glucose or sugary products. It is therefore recommended that the diabetic patient always carries sugar-containing products.
 - Severe hypoglycaemic episodes, where the patient has become unconscious, can be treated with glucagon (0.5 to 1 mg) given intramuscularly or subcutaneously by a trained person, or with glucose given intravenously by physicians or other healthcare staff. Glucose must be given intravenously, if the patient does not respond to glucagon within 10 to 15 minutes. Upon regaining consciousness, administration of oral carbohydrates is recommended for the patient in order to prevent a relapse.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Drugs used in diabetes. Insulins and analogues for injection, fast-acting. ATC code: A10AB05.
 
-Kirsty is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency http://www.ema.europa.eu.
-
-<div style=\"page-break-after: always\"></div>
+Kirsty is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 ## Mechanism of action and pharmacodynamic effects
 
@@ -338,15 +354,15 @@ When insulin aspart is injected subcutaneously, the onset of action will occur w
 
 Clinical trials in patients with type 1 diabetes have demonstrated a lower postprandial blood glucose with insulin aspart compared to soluble human insulin (Fig. I). In two long-term open label trials in patients with type 1 diabetes comprising 1070 and 884 patients, respectively, insulin aspart reduced glycated haemoglobin by 0.12 [95% C.I. 0.03; 0.22] percentage points and by 0.15 [95% C.I. 0.05; 0.26] percentage points compared to human insulin; a difference of limited clinical significance.
 
+<div style=\"page-break-after: always\"></div>
+
 Clinical trials in patients with type 1 diabetes have demonstrated a reduced risk of nocturnal hypoglycaemia with insulin aspart compared with soluble human insulin. The risk of daytime hypoglycaemia was not significantly increased.
 
 Insulin aspart is equipotent to soluble human insulin on a molar basis.
 
 ## Special populations
 
-Elderly (≥ 65 years old)
-
-<div style=\"page-break-after: always\"></div>
+## Elderly (≥ 65 years old)
 
 A randomised, double-blind cross-over PK/PD trial comparing insulin aspart with soluble human insulin was performed in elderly patients with type 2 diabetes (19 patients aged 65-83 years, mean age 70 years). The relative differences in the pharmacodynamic properties (GIRmax, AUCGIR, 0-120 min) between insulin aspart and soluble human insulin in the elderly were similar to those seen in healthy subjects and in younger patients with diabetes.
 
@@ -372,11 +388,11 @@ The time to maximum concentration is, on average, half of that for soluble human
 
 ## Special populations
 
+<div style=\"page-break-after: always\"></div>
+
 ## Elderly (≥ 65 years old)
 
 The relative differences in pharmacokinetic properties between insulin aspart and soluble human insulin in elderly patients (65-83 years, mean age 70 years) with type 2 diabetes were similar to those observed in healthy subjects and in younger patients with diabetes. A decreased absorption rate was observed in elderly patients, resulting in a later tmax (82 (interquartile range: 60-120) minutes), whereas Cmax was similar to that observed in younger patients with type 2 diabetes and slightly lower than in patients with type 1 diabetes.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Hepatic impairment
 
@@ -406,31 +422,33 @@ Glycerol Phenol Metacresol Zinc chloride Disodium phosphate dihydrate Sodium chl
 
 This medicinal product must not be diluted or mixed with other medicinal products.
 
-## 6.3 Shelf life
-
-## Before opening
-
-## 30 months
-
 <div style=\"page-break-after: always\"></div>
 
-## After first opening
+## 6.3 Shelf life
 
-## 28 days
+Before opening: 30 months
+
+After first opening: 28 days
 
 Chemical and physical in-use stability has been demonstrated for 31 days at 30°C and 5°C. From a microbiological point of view, once opened, the medicinal product may be stored for a maximum of 28 days at 30°C. Other in-use storage times are the responsibility of the user.
 
 Kirsty 100 units/ml solution for injection in vial Store below 30°C. Do not refrigerate. Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
-Kirsty 100 units/ml solution for injection in pre-filled pen
+Kirsty 100 units/ml solution for injection in cartridge Store below 30°C. Can be stored in a refrigerator (2°C - 8°C). Do not freeze.
 
-Store below 30°C. Can be stored in a refrigerator (2°C-8°C). Do not freeze. Keep the pen cap on the pen in order to protect from light.
+Keep the pen cap on the pen in order to protect from light.
+
+Store below 30°C. Can be stored in a refrigerator (2°C - 8°C). Do not freeze.
+
+Kirsty 100 units/ml solution for injection in pre-filled pen Keep the pen cap on the pen in order to protect from light.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C-8°C). Do not freeze. Keep the medicinal product in the outer carton in order to protect from light.
+Store in a refrigerator (2°C-8°C). Do not freeze.
 
-For storage conditions of the medicinal product after first opening, see section 6.3.
+Keep the medicinal product in the outer carton in order to protect from light.
+
+For storage conditions after first opening of the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
@@ -438,13 +456,27 @@ For storage conditions of the medicinal product after first opening, see section
 
 10 ml solution in vial (type 1 glass) closed with a bromobutyl rubber stopper and aluminium flip-off seal.
 
-Pack sizes of 1, or 5 vials or a multipack containing 5 (5 packs of 1) vials.
+Pack sizes of 1, or 5 vials or a multipack containing 5 (5 packs of 1) vials. Not all pack sizes may be marketed.
+
+## Kirsty 100 units/ml solution for injection in cartridge
+
+3 ml solution in cartridge (type 1 glass) with a plunger stopper (bromobutyl) and sealed with aluminium lined seal.
+
+Pack sizes of 5 and 10 cartridges. Not all pack sizes may be marketed.
+
+Needles are not included.
 
 ## Kirsty 100 units/ml solution for injection in pre-filled pen
 
 3 ml solution in cartridge (type 1 glass) with a plunger and stopper (bromobutyl) and aluminium seal contained in a multidose pre-filled pen.
 
+<div style=\"page-break-after: always\"></div>
+
 Pack sizes of 1, 5, 10 pre-filled pens, or a multipack containing 10 (2 packs of 5) pre-filled pens.
+
+Not all pack sizes may be marketed.
+
+Needles are not included.
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -456,13 +488,21 @@ The patient should be advised to discard the needle after each injection.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-Needles, syringes, and pre-filled pens must not be shared.
+Needles, syringes,  pre-filled pens and cartridges must not be shared.
 
-<div style=\"page-break-after: always\"></div>
+The cartridge must not be refilled.
 
 ## Kirsty 100 units/ml solution for injection in vial
 
 Kirsty may be used in an infusion pump system (CSII) as described in section 4.2. Tubings in which the inner surface materials are made of polyethylene or polyolefin have been evaluated and found compatible with pump use.
+
+## Kirsty 100 units/ml solution for injection in cartridge
+
+Kirsty in cartridges is only suitable for subcutaneous injections from a reusable pen. If administration by syringe, intravenous injection or infusion pump is necessary, a vial should be used. Kirsty in cartridges is designed to be used only with the following reusable pen (see section 4.2):
+
+-EZPen which is intended to deliver variable doses from 1 to 60 units of insulin aspart in 1 unit dose increment.
+
+The reusable pen (EZPen) should be used as recommended in the information provided with the device.
 
 ## Kirsty 100 units/ml solution for injection in pre-filled pen
 
@@ -472,25 +512,27 @@ The needle sizes compatible with this pen are:
 - 32G, 4-6 mm,
 - 34G, 4 mm.
 
+Needles are not included.
+
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13 DUBLIN Ireland D13 R20R
+Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade Baldoyle Industrial Estate D13 R20R Dublin 13 Dublin Ireland
+
+<div style=\"page-break-after: always\"></div>
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/20/1506/001 EU/1/20/1506/002 EU/1/20/1506/003 EU/1/20/1506/004 EU/1/20/1506/005 EU/1/20/1506/006
-
-EU/1/20/1506/007
+EU/1/20/1506/001 EU/1/20/1506/002 EU/1/20/1506/003 EU/1/20/1506/004 EU/1/20/1506/005 EU/1/20/1506/006 EU/1/20/1506/007 EU/1/20/1506/008 EU/1/20/1506/009
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 5/02/2021
 
-Date of latest renewal:
+Date of latest renewal: 30/10/2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -507,11 +549,13 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer of the biological active substance
 
-Biocon Sdn. Bhd., No. 1, Jalan Bioteknologi 1, Kawasan Perindusterian SiLC 79200 Iskandar Puteri, Johor, Malaysia
+Biocon Sdn. Bhd. No. 1, Jalan Bioteknologi 1 Kawasan Perindusterian SiLC 79200 Iskandar Puteri, Johor Malaysia
 
 Name and address of the manufacturer responsible for batch release
 
-Kirsty vial and pre-filled pen: Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
+## Kirsty vial, cartridge and pre-filled pen:
+
+Biosimilar Collaborations Ireland Limited Block B  The Crescent Building Santry Demesne D09 C6X8 Dublin Ireland
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -519,26 +563,24 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+- Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+- Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency ;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX III
-
-## LABELLING AND PACKAGE LEAFLET
+## ANNEX III LABELLING AND PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
@@ -546,29 +588,25 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-OUTER CARTON (VIAL)
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING OUTER CARTON (VIAL)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Kirsty 100 units/ml solution for injection insulin aspart
+Kirsty 100 units/ml solution for injection in vial insulin aspart
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
-1 vial contains 10 ml equivalent to 1,000 units. 1 ml solution contains 100 units insulin aspart (equivalent to 3.5 mg).
+1 vial contains 10 ml equivalent to 1 000 units. 1 ml solution contains 100 units insulin aspart (equivalent to 3.5 mg).
 
 ## 3. LIST OF EXCIPIENTS
 
-glycerol, phenol, metacresol, zinc chloride, disodium hydrogen phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide for pH adjustment and water for injections. See leaflet for further information.
+Glycerol, phenol, metacresol, zinc chloride, disodium hydrogen phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide for pH adjustment and water for injections.See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 ## Solution for injection
 
-1 vial of 10 ml
-
-5 vials of 10 ml
+1 vial of 10 ml 5 vials of 10 ml
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -598,27 +636,23 @@ After first use: Store below 30°C. Do not refrigerate. Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-Discard the needle after each injection
+Discard the needle after each injection.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Biosimilar Collaborations Ireland Limited
 
-Unit 35/36
+Unit 35/36 Grange ParadeBaldoyle Industrial Estate
 
-Grange Parade,
+D13 R20R Dublin 13
 
-Baldoyle Industrial Estate,
-
-Dublin 13
-
-DUBLIN
+Dublin
 
 Ireland
-
-D13 R20R
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
@@ -626,7 +660,7 @@ EU/1/20/1506/001 1 vial of 10 ml
 
 EU/1/20/1506/002 5 vials of 10 ml
 
-## 13. BATCH NUMBER, &lt;DONATION AND PRODUCT CODES&gt;
+## 13. BATCH NUMBER
 
 Batch
 
@@ -636,38 +670,37 @@ Batch
 
 ## 16. INFORMATION IN BRAILLE
 
-Kirsty
+Kirsty vial
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-<div style=\"page-break-after: always\"></div>
-
 2D barcode carrying the unique identifier included.
 
-<div style=\"page-break-after: always\"></div>
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+PC
 
-PC SN NN
+SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER WRAPPER LABEL ON  MULTIPACK (VIAL - with blue box)
+OUTER WRAPPER LABEL ON MULTIPACK (VIAL - with blue box)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Kirsty 100 units/ml solution for injection insulin aspart
+Kirsty 100 units/ml solution for injection in vial insulin aspart
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
-1 vial contains 10 ml equivalent to 1,000 units. 1 ml solution contains 100 units insulin aspart (equivalent to 3.5 mg).
+1 vial contains 10 ml equivalent to 1 000 units. 1 ml solution contains 100 units insulin aspart (equivalent to 3.5 mg).
 
 ## 3. LIST OF EXCIPIENTS
 
-glycerol, phenol, metacresol, zinc chloride, disodium hydrogen phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide for pH adjustment and water for injections. See leaflet for further information.
+Glycerol, phenol, metacresol, zinc chloride, disodium hydrogen phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide for pH adjustment and water for injections.See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -707,41 +740,27 @@ Keep the vial in the outer carton in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-Discard the needle after each injection
+Discard the needle after each injection.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Biosimilar Collaborations Ireland Limited
+Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade Baldoyle Industrial Estate D13 R20R Dublin 13 Dublin Ireland
 
-Unit 35/36
-
-Grange Parade,
-
-Baldoyle Industrial Estate,
-
-Dublin 13
-
-DUBLIN
-
-Ireland
-
-D13 R20R
-
-## 12. MARKETING AUTHORISATION NUMBERS
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/20/1506/003 5 packs of 1 x 10 ml vial
 
-## 13. BATCH NUMBER, &lt;DONATION AND PRODUCT CODES&gt;
+## 13. BATCH NUMBER
 
 Batch
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
-Kirsty
+Kirsty vial
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
@@ -762,17 +781,17 @@ INNER CARTON FOR MULTIPACK (VIAL - without blue box)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Kirsty 100 units/ml solution for injection insulin aspart
+Kirsty 100 units/ml solution for injection in vial insulin aspart
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+## 2. STATEMENT OF ACTIVE SUBSTANCE
 
-1 vial contains 10 ml equivalent to 1,000 units. 1 ml solution contains 100 units insulin aspart (equivalent to 3.5 mg).
+1 vial contains 10 ml equivalent to 1 000 units. 1 ml solution contains 100 units insulin aspart (equivalent to 3.5 mg).
 
 ## 3. LIST OF EXCIPIENTS
 
-glycerol, phenol, metacresol, zinc chloride, disodium hydrogen phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide for pH adjustment and water for injections. See leaflet for further information.
+Glycerol, phenol, metacresol, zinc chloride, disodium hydrogen phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide for pH adjustment and water for injections. See leaflet for further information.
 
-## 4. PHARMACEUTICAL FORM AND CONTENTS
+## 4. PHARMACEUTICAL FORM AND CONTENTSSe
 
 ## Solution for injection
 
@@ -794,11 +813,9 @@ Use solution only if clear and colourless
 
 ## 8. EXPIRY DATE
 
-EXP/
+EXP
 
 After first use: Use within 28 days
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -808,33 +825,21 @@ After first use: Store below 30°C. Do not refrigerate. Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Discard the needle after each injection.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Biosimilar Collaborations Ireland Limited
+Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade Baldoyle Industrial Estate D13 R20R Dublin 13 Dublin Ireland
 
-Unit 35/36
-
-Grange Parade,
-
-Baldoyle Industrial Estate,
-
-Dublin 13
-
-DUBLIN
-
-Ireland
-
-D13 R20R
-
-## 12. MARKETING AUTHORISATION NUMBERS
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/20/1506/003 5 packs of 1 x 10 ml vial
 
-## 13. BATCH NUMBER, &lt;DONATION AND PRODUCT CODES&gt;
+## 13. BATCH NUMBER
 
 Batch
 
@@ -844,24 +849,19 @@ Batch
 
 ## 16. INFORMATION IN BRAILLE
 
-Kirsty
+Kirsty vial
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| LABEL (VIAL)                                                     |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS LABEL (VIAL)
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTES OF ADMINISTRATION   |
-|------|-----------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTES OF ADMINISTRATION
 
-Kirsty 100 units/ml solution for injection insulin aspart SC, IV use
+Kirsty 100 units/ml solution for injection in vial insulin aspart SC, IV use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
@@ -870,13 +870,342 @@ EXP
 
 Batch
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 10 ml
 
+1 vial of 10 ml contains 1 000 units
+
 | 6.   | OTHER   |
 |------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## OUTER CARTON (CARTRIDGE)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Kirsty 100 units/ml solution for injection in cartridge insulin aspart
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
+
+1 cartridge contains 3 ml equivalent to 300 units. 1 ml solution contains 100 units insulin aspart (equivalent to 3.5 mg).
+
+## 3. LIST OF EXCIPIENTS
+
+Glycerol, phenol, metacresol, zinc chloride, disodium hydrogen phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide for pH adjustment and water for injections. See Leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Solution for injection
+
+5 x 3 ml cartridges
+
+## 5. METHOD AND ROUTE OF ADMINISTRATION
+
+Needles are not included.
+
+Read the package leaflet before use. Subcutaneous use.
+
+## 6.        SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+Use solution only if clear and colourless.
+
+For use by one person only.
+
+## 8. EXPIRY DATE
+
+EXP
+
+After first use: Use within 28 days
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Before opening: Store in a refrigerator (2°C - 8°C).
+
+Keep the cartridge in the outer carton in order to protect from light.
+
+After first use: Store below 30°C. Can be stored in a refrigerator (2°C - 8°C). Do not freeze.
+
+Keep the pen cap on the pen in order to protect from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+Discard the needle after each injection.
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Biosimilar Collaborations Ireland Limited
+
+Unit 35/36, Grange Parade
+
+Baldoyle Industrial Estate
+
+D13 R20R Dublin 13
+
+Dublin  Ireland
+
+## 12. MARKETING AUTHORISATION NUMBER
+
+EU/1/20/1506/008 5 cartridges of 3 mL
+
+## 13. BATCH NUMBER
+
+Batch
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Kirsty cartridge
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC SN
+
+<div style=\"page-break-after: always\"></div>
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## OUTER WRAPPER LABEL FOR MULTIPACK (CARTRIDGE - with blue box)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Kirsty 100 units/ml solution for injection in cartridge insulin aspart
+
+## 2 STATEMENT OF ACTIVE SUBSTANCE
+
+1 cartridge contains 3 ml equivalent to 300 units. 1 ml solution contains 100 units insulin aspart (equivalent to 3.5 mg).
+
+## 3. LIST OF EXCIPIENTS
+
+Glycerol, phenol, metacresol, zinc chloride, disodium hydrogen phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide for pH adjustment and water for injections. See leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Solution for injection
+
+Multipack: 10 (2 packs of 5) cartridges
+
+## 5. METHOD AND ROUTE OF ADMINISTRATION
+
+Needles are not included.
+
+Read the package leaflet before use.
+
+Subcutaneous use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNINGS, IF NECESSARY
+
+Use solution only if clear and colourless.
+
+For use by one person only.
+
+## 8. EXPIRY DATE
+
+EXP
+
+After first use: Use within 28 days
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Before opening: Store in a refrigerator (2°C - 8°C).
+
+Keep the cartridge in the outer carton in order to protect from light.
+
+After first use: Store below 30°C. Can be stored in a refrigerator (2°C - 8°C). Do not freeze.
+
+Keep the pen cap on the pen in order to protect from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+Discard the needle after each injection.
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Biosimilar Collaborations Ireland Limited Unit 35/36, Grange Parade Baldoyle Industrial Estate D13 R20R Dublin 13 Dublin Ireland
+
+## 12. MARKETING AUTHORISATION NUMBER
+
+EU/1/20/1506/009 10 (2 x 5) cartridges of 3 ml
+
+## 13. BATCH NUMBER
+
+Batch
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Kirsty cartridge
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+<div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## INNER CARTON FOR MULTIPACK (CARTRIDGE - without blue box)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Kirsty 100 units/ml solution for injection in cartridge insulin aspart
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
+
+1 cartridge contains 3 ml equivalent to 300 units. 1 ml solution contains 100 units insulin aspart (equivalent to 3.5 mg).
+
+## 3. LIST OF EXCIPIENTS
+
+Glycerol, phenol, metacresol, zinc chloride, disodium hydrogen phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide for pH adjustment and water for injections. See leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Solution for injection
+
+5 x 3 ml cartridge. Component of a multipack, cannot be sold separately.
+
+## 5. METHOD AND ROUTES OF ADMINISTRATION
+
+Needles are not included.
+
+Read the package leaflet before use.
+
+Subcutaneous use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNINGS, IF NECESSARY
+
+Use solution only if clear and colourless.
+
+For use by one person only.
+
+## 8. EXPIRY DATE
+
+EXP
+
+After first use: Use within 28 days.
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Before opening: Store in a refrigerator (2°C - 8°C).
+
+Keep the cartridge in the outer carton in order to protect from light.
+
+After first use: Store below 30°C. Can be stored in a refrigerator (2°C - 8°C). Do not freeze.
+
+Keep the pen cap on the pen in order to protect from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+Discard the needle after each injection.
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Biosimilar Collaborations Ireland Limited
+
+Unit 35/36, Grange Parade
+
+Baldoyle Industrial Estate
+
+D13 R20R Dublin 13
+
+Dublin
+
+Ireland
+
+## 12. MARKETING AUTHORISATION NUMBER
+
+EU/1/20/1506/009 2 x 5 cartridges of 3ml
+
+## 13. BATCH NUMBER
+
+Batch
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Kirsty cartridge
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+<div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS LABEL (CARTRIDGE)
+
+Kirsty 100 units/ml solution for injection in cartridge insulin aspart SC use
+
+EXP
+
+Batch
+
+3 ml
+
+1 cartridge of 3 ml contains 300 units
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+
+## 2. METHOD OF ADMINISTRATION
+
+3. EXPIRY DATE
+
+## 4. BATCH NUMBER
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -894,17 +1223,19 @@ Kirsty 100 units/ml solution for injection in pre-filled pen insulin aspart
 
 ## 3. LIST OF EXCIPIENTS
 
-glycerol, phenol, metacresol, zinc, disodium hydrogen phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide for pH adjustment and water for injections. See leaflet for further information.
+Glycerol, phenol, metacresol, zinc chloride, disodium hydrogen phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide for pH adjustment and water for injections. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 ## Solution for injection
 
-1 x 3 ml pre-filled pen 5 x 3 ml pre-filled pens
+1 x 3 ml pre-filled pen
+
+5 x 3 ml pre-filled pens
 
 10 x 3 ml pre-filled pens
 
-## 5. METHOD AND ROUTES OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
 Needles are not included.
 
@@ -930,7 +1261,7 @@ Only use needles that are compatible for use with this pre-filled pen.
 
 EXP
 
-After first use: Use within 28 days
+After first use: Use within 28 days.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -948,27 +1279,23 @@ Discard the needle after each injection.
 
 Biosimilar Collaborations Ireland Limited
 
-Unit 35/36
+Unit 35/36 Grange Parade
 
-Grange Parade,
+Baldoyle Industrial Estate
 
-Baldoyle Industrial Estate,
+D13 R20R Dublin 13
 
-Dublin 13
-
-DUBLIN
+Dublin
 
 Ireland
 
-D13 R20R
-
 ## 12. MARKETING AUTHORISATION NUMBERS
 
-EU/1/20/1506/004 1 pen of 3ml
+EU/1/20/1506/004 1 pen of 3 ml
 
-EU/1/20/1506/005 5 pens of 3ml
+EU/1/20/1506/005 5 pens of 3 ml
 
-EU/1/20/1506/006 10 pens of 3ml
+EU/1/20/1506/006 10 pens of 3 ml
 
 ## 13. BATCH NUMBER
 
@@ -978,20 +1305,19 @@ Batch
 
 ## 15. INSTRUCTIONS ON USE
 
-<div style=\"page-break-after: always\"></div>
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Kirsty pre-filled pen
+
+<div style=\"page-break-after: always\"></div>
 
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-2D barcode carrying the unique identifier included
+2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1009,11 +1335,11 @@ Kirsty 100 units/ml solution for injection in pre-filled pen insulin aspart
 
 ## 3. LIST OF EXCIPIENTS
 
-glycerol, phenol, metacresol, zinc, disodium hydrogen phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide for pH adjustment and water for injections. See leaflet for further information.
+Glycerol, phenol, metacresol, zinc chloride, disodium hydrogen phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide for pH adjustment and water for injections. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 Multipack: 10 (2 packs of 5) pre-filled pens
 
@@ -1041,7 +1367,9 @@ Only use needles that are compatible for use with this pre-filled pen.
 
 EXP
 
-After first use: Use within 28 days
+After first use: Use within 28 days.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1061,21 +1389,19 @@ Biosimilar Collaborations Ireland Limited
 
 Unit 35/36
 
-Grange Parade,
+Grange Parade
 
-Baldoyle Industrial Estate,
+Baldoyle Industrial Estate
 
-Dublin 13
+D13 R20R Dublin 13
 
-DUBLIN
+Dublin
 
 Ireland
 
-D13 R20R
-
 ## 12. MARKETING AUTHORISATION NUMBERS
 
-EU/1/20/1506/007 10 (2 x 5) pens of 3ml
+EU/1/20/1506/007 10 (2 x 5) pens of 3 ml
 
 ## 13. BATCH NUMBER
 
@@ -1083,7 +1409,7 @@ Batch
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1091,14 +1417,12 @@ Kirsty pre-filled pen
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included
+2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1116,13 +1440,13 @@ Kirsty 100 units/ml solution for injection in pre-filled pen insulin aspart
 
 ## 3. LIST OF EXCIPIENTS
 
-glycerol, phenol, metacresol, zinc, disodium hydrogen phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide for pH adjustment and water for injections. See leaflet for further information.
+Glycerol, phenol, metacresol, zinc chloride, disodium hydrogen phosphate dihydrate, sodium chloride, hydrochloric acid/sodium hydroxide for pH adjustment and water for injections. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 ## Solution for injection
 
-5 x 3 ml pre-filled pens. Component of a multipack cannot be sold separately.
+5 x 3 ml pre-filled pens. Component of a multipack, cannot be sold separately.
 
 ## 5. METHOD AND ROUTES OF ADMINISTRATION
 
@@ -1146,9 +1470,9 @@ Only use needles that are compatible for use with this pre-filled pen.
 
 ## 8. EXPIRY DATE
 
-EXP/
+EXP
 
-After first use: Use within 28 days
+After first use: Use within 28 days.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1166,11 +1490,11 @@ Discard the needle after each injection.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13 DUBLIN Ireland D13 R20R
+Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade Baldoyle Industrial Estate D13 R20R Dublin 13 Dublin Ireland
 
-## 12. MARKETING AUTHORISATION NUMBERS
+## 12. MARKETING AUTHORISATION NUMBER
 
-EU/1/20/1506/007 2 x 5 pens of 3ml
+EU/1/20/1506/007 2 x 5 pens of 3 ml
 
 ## 13. BATCH NUMBER
 
@@ -1186,32 +1510,32 @@ Kirsty pre-filled pen
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON SMALL IMMEDIATE PACKAGING UNITS   |
-|-------------------------------------------------------------------|
-| PEN LABEL (PRE - FILLED PEN)                                      |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTES OF ADMINISTRATION   |
-|------|-----------------------------------------------------------|
+PEN LABEL (PRE -FILLED PEN)
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|----------------------------------------------------------|
 
 Kirsty 100 units/ml solution for injection insulin aspart SC use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
 EXP
 
-| 4.   | BATCH NUMBER, <DONATION AND PRODUCT CODES>   |
-|------|----------------------------------------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Batch
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 3 ml
+
+1 pen of 3 ml contains 300 units
 
 | 6.   | OTHER   |
 |------|---------|
@@ -1224,7 +1548,9 @@ Batch
 
 <div style=\"page-break-after: always\"></div>
 
-## Kirsty 100 units/ ml solution for injection in vial insulin aspart
+## Kirsty 100 units/ ml solution for injection in vial
+
+## insulin aspart
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1254,11 +1580,11 @@ Kirsty will start to lower your blood sugar 10-20 minutes after you inject it, a
 
 ## Do not use Kirsty
 
-- If you are allergic to insulin aspart, or any of the other ingredients of this medicine (listed in section 6).
-- If you suspect hypoglycaemia (low blood sugar) is starting (see a) Summary of serious and very common side effects in section 4).
-- If the protective cap is loose or missing. Each vial has a protective, tamper-proof plastic cap. If it is not in perfect condition when you get the vial, return the vial to your supplier.
-- If it has not been stored correctly or been frozen (see section 5, How to store Kirsty).
-- If the insulin does not appear clear and colourless.
+-  If you are allergic to insulin aspart, or any of the other ingredients of this medicine (listed in section 6).
+-  If you suspect hypoglycaemia (low blood sugar) is starting (see a) Summary of serious and very common side effects in section 4).
+-  If the protective cap is loose or missing. Each vial has a protective, tamper-proof plastic cap. If it is not in perfect condition when you get the vial, return the vial to your supplier.
+-  If it has not been stored correctly or been frozen (see section 5, How to store Kirsty).
+-  If the insulin does not appear clear and colourless.
 
 If any of these applies, do not use Kirsty. Talk with your doctor, nurse or pharmacist for advice.
 
@@ -1266,18 +1592,18 @@ If any of these applies, do not use Kirsty. Talk with your doctor, nurse or phar
 
 ## Before using Kirsty
 
-- Check the label to make sure it is the right type of insulin.
-- Remove the protective cap.
-- Always use a new needle for each injection to prevent contamination.
-- Needles and syringes must not be shared.
+-  Check the label to make sure it is the right type of insulin.
+-  Remove the protective cap.
+-  Always use a new needle for each injection to prevent contamination.
+-  Needles and syringes must not be shared.
 
 ## Warnings and precautions
 
-- Some conditions and activities can affect your need for insulin. Consult your doctor:
-- If you have trouble with your kidneys or liver, or with your adrenal, pituitary or thyroid glands.
-- If you exercise more than usual or if you want to change your usual diet, as this may affect your blood sugar level.
-- If you are ill, carry on using your insulin and consult your doctor.
-- If you are going abroad, travelling over time zones may affect your insulin needs and the timing of your injections.
+-  Some conditions and activities can affect your need for insulin. Consult your doctor:
+-  If you have trouble with your kidneys or liver, or with your adrenal, pituitary or thyroid glands.
+-  If you exercise more than usual or if you want to change your usual diet, as this may affect your blood sugar level.
+-  If you are ill, carry on using your insulin and consult your doctor.
+-  If you are going abroad, travelling over time zones may affect your insulin needs and the timing of your injections.
 
 ## Skin changes at the injection site
 
@@ -1291,9 +1617,7 @@ Do not give this medicine to children below 1 year of age since no clinical stud
 
 Tell your doctor, nurse or pharmacist if you are taking, have recently used or might use any other medicines.
 
-Some medicines affect your blood sugar level and this may mean that your insulin dose has to change.
-
-Listed below are the most common medicines which may affect your insulin treatment.
+Some medicines affect your blood sugar level and this may mean that your insulin dose has to change. Listed below are the most common medicines which may affect your insulin treatment.
 
 ## Your blood sugar level may fall (hypoglycaemia) if you use:
 
@@ -1329,12 +1653,12 @@ If you have used any of the medicines listed here, tell your doctor, nurse or ph
 
 ## Kirsty and alcohol
 
-- If you drink alcohol, your need for insulin may change as your blood sugar level may either rise or fall. Careful monitoring is recommended.
+-  If you drink alcohol, your need for insulin may change as your blood sugar level may either rise or fall. Careful monitoring is recommended.
 
 ## Pregnancy and breast -feeding
 
-- If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice before using this medicine. Kirsty can be used during pregnancy. Your insulin dose may need to be changed during pregnancy and after delivery. Careful control of your diabetes, particularly prevention of hypoglycaemia, is important for the health of your baby.
-- There are no restrictions on treatment with Kirsty during breast-feeding.
+-  If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice before using this medicine. Kirsty can be used during pregnancy. Your insulin dose may need to be changed during pregnancy and after delivery. Careful control of your diabetes, particularly prevention of hypoglycaemia, is important for the health of your baby.
+-  There are no restrictions on treatment with Kirsty during breast-feeding.
 
 Ask your doctor, nurse or pharmacist for advice before using this medicine while pregnant or breast-feeding.
 
@@ -1386,9 +1710,9 @@ With each injection, change the injection site within the particular area of ski
 
 ## How to inject Kirsty
 
-- Inject the insulin under the skin. Use the injection technique advised by your doctor or nurse.
-- Keep the needle under your skin for at least 6 seconds to make sure you have injected all the insulin.
-- Discard the needle after each injection.
+-  Inject the insulin under the skin. Use the injection technique advised by your doctor or nurse.
+-  Keep the needle under your skin for at least 6 seconds to make sure you have injected all the insulin.
+-  Discard the needle after each injection.
 
 ## For use in an infusion pump system
 
@@ -1430,7 +1754,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Low blood sugar (hypoglycaemia) is a very common side effect. It may affect more than 1 in 10 people.
 
-## Low blood sugar may occur if you:
+Low blood sugar may occur if you:
 
 - Inject too much insulin.
 - Eat too little or miss a meal.
@@ -1445,9 +1769,9 @@ Severe low blood sugar can lead to unconsciousness. If prolonged severe low bloo
 
 ## What to do if you experience low blood sugar:
 
-- If you experience low blood sugar, eat glucose tablets or another high sugar snack (e.g. sweets, biscuits, fruit juice). Measure your blood sugar if possible and rest. Always carry glucose tablets or high sugar snacks with you, just in case.
-- When symptoms of low blood sugar have disappeared or when blood sugar level is stabilised, continue insulin treatment as usual.
-- If you have such a low blood sugar that it makes you pass out, if you have had need for injection of glucagon, or if you have experienced many incidents of low blood sugar, talk with a doctor. The amount or timing of insulin, food or exercise may need to be adjusted.
+-  If you experience low blood sugar, eat glucose tablets or another high sugar snack (e.g. sweets, biscuits, fruit juice). Measure your blood sugar if possible and rest. Always carry glucose tablets or high sugar snacks with you, just in case.
+-  When symptoms of low blood sugar have disappeared or when blood sugar level is stabilised, continue insulin treatment as usual.
+-  If you have such a low blood sugar that it makes you pass out, if you have had need for injection of glucagon, or if you have experienced many incidents of low blood sugar, talk with a doctor. The amount or timing of insulin, food or exercise may need to be adjusted.
 
 Tell relevant people that you have diabetes and what the consequences may be, including the risk of passing out (become unconscious) due to low blood sugar. Let them know that if you pass out, they must turn you on your side and get medical help straight away. They must not give you any food or drink due to risk of suffocation.
 
@@ -1462,7 +1786,7 @@ Seek medical advice immediately:
 
 If you notice any of these signs, seek medical advice immediately.
 
-Skin changes at the injection site: If you inject insulin at the same place, the fatty tissue may shrink (lipoatrophy) or thicken (lipohypertrophy) (may affect up to 1 in 100 people). Lumps under the skin may also be caused by build-up of a protein called amyloid (cutaneous amyloidosis; how often this occurs is not known). The insulin may not work very well if you inject into a lumpy, shrunken or thickened area. Change the injection site with each injection to help prevent these skin changes.
+Skin changes at the injection site: If you inject insulin at the same place, the fatty tissue may shrink (lipoatrophy) or thicken (lipohypertrophy) (may affect up to 1 in 100 people). Lumps under the skin may also be caused by buildup of a protein called amyloid (cutaneous amyloidosis; how often this occurs is not known). The insulin may not work very well if you inject into a lumpy, shrunken or thickened area. Change the injection site with each injection to help prevent these skin changes.
 
 ## b) List of other side effects
 
@@ -1476,7 +1800,7 @@ Swollen joints: When you start using insulin, water retention may cause swelling
 
 Diabetic retinopathy: (an eye disease related to diabetes which can lead to loss of vision): If you have diabetic retinopathy and your blood sugar level improves very fast, the retinopathy may get worse. Ask your doctor about this.
 
-Rare side effects (may affect up to 1 in 1,000 people)
+Rare side effects (may affect up to 1 in 1 000 people)
 
 Painful neuropathy (pain due to nerve damage): If your blood sugar level improves very fast, you may get nerve related pain. This is called acute painful neuropathy and is usually transient.
 
@@ -1495,17 +1819,16 @@ High blood sugar may occur if you:
 - Repeatedly inject less insulin than you need.
 - Get an infection and/or a fever.
 - Eat more than usual.
+- Exercise less than usual.
 
 <div style=\"page-break-after: always\"></div>
-
-## · Exercise less than usual.
 
 Warning signs of high blood sugar: The warning signs appear gradually. They include: increased urination; feeling thirsty; losing your appetite; feeling sick (nausea or vomiting); feeling drowsy or tired; flushed; dry skin; dry mouth and a fruity (acetone) smell of the breath.
 
 What to do if you experience high blood sugar:
 
-- If you get any of the above signs: test your blood sugar level, test your urine for ketones if you can, then seek medical advice immediately.
-- These may be signs of a very serious condition called diabetic ketoacidosis (build-up of acid in the blood because the body is breaking down fat instead of sugar). If you do not treat it, this could lead to diabetic coma and eventually death.
+-  If you get any of the above signs: test your blood sugar level, test your urine for ketones if you can, then seek medical advice immediately.
+-  These may be signs of a very serious condition called diabetic ketoacidosis (build-up of acid in the blood because the body is breaking down fat instead of sugar). If you do not treat it, this could lead to diabetic coma and eventually death.
 
 ## 5. How to store Kirsty
 
@@ -1527,7 +1850,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Kirsty contains
 
-- The active substance is insulin aspart. Each ml contains 100 units of insulin aspart. Each vial contains 1,000 units of insulin aspart in 10 ml solution for injection.
+- The active substance is insulin aspart. Each ml contains 100 units of insulin aspart. Each vial contains 1 000 units of insulin aspart in 10 ml solution for injection.
 - The other ingredients are glycerol, phenol, metacresol, zinc chloride, disodium phosphate dihydrate, sodium chloride, hydrochloric acid, sodium hydroxide (see section 2 'Kirsty contains sodium'), and water for injections.
 
 ## What Kirsty looks like and contents of the pack
@@ -1542,73 +1865,83 @@ The solution is clear and colourless.
 
 ## Marketing Authorisation Holder
 
-Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13 DUBLIN Ireland D13 R20R
+Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade Baldoyle Industrial Estate D13 R20R Dublin 13 Dublin Ireland
 
 ## Manufacturer
 
-Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
+Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne D09 C6X8 Dublin Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Biocon Biologics Belgium BV Tél/Tel: 0080008250910
+Biocon Biologics BelgiumBV Tél/Tel: 0080008250910
+
+## Lietuva
+
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
 
 ## България
 
-Biosimilar Collaborations Ireland Limited Teл.: 0080008250910
+Biosimilar Collaborations Ireland Limited
+
+Тел: 0080008250910
+
+## Luxembourg/Luxemburg
+
+Biosimilar Collaborations Ireland Limited Tél/Tel:
+
+0080008250910
 
 ## Česká republika
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics GermanyGmbH Tel: 0080008250910
+
+## Magyarország
+
+Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
 
 ## Danmark
 
-Biocon Biologics Finland OY Tlf: 0080008250910
+Biocon Biologics FinlandOY Tlf: 0080008250910
+
+## Malta
+
+Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
 
 ## Deutschland
 
 Biocon Biologics Germany GmbH Tel: 0080008250910
 
-## Eesti
-
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
-
-## Ελλάδα
-
-Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε Τηλ: 0080008250910
-
-## España
-
-Biocon Biologics Spain S.L. Tel: 0080008250910
-
-## Lietuva
-
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
-
-## Luxembourg/Luxemburg
-
-Biocon Biologics France S.A.S Tél/Tel: 0080008250910
-
-## Magyarország
-
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
-
-## Malta
-
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
-
 ## Nederland
 
-Biocon Biologics France S.A.S. Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## Eesti
+
+Biosimilar Collaborations Ireland Limited Biocon Biologics FinlandOY
+
+Tel: 0080008250910
 
 ## Norge
 
-Biocon Biologics Finland OY Tlf: +47 800 62 671
+Tlf: +47 800 62 671
+
+## Ελλάδα
+
+Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε Τηλ.: 0080008250910
 
 ## Österreich
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics GermanyGmbH Tel: 0080008250910
+
+## España
+
+Biocon Biologics SpainS.L.
+
+Tel: 0080008250910
 
 ## Polska
 
@@ -1616,41 +1949,69 @@ Biosimilar Collaborations Ireland Limited
 
 Tel: 0080008250910
 
-<div style=\"page-break-after: always\"></div>
-
 ## France
 
-Biocon Biologics France S.A.S
+Biocon Biologics FranceS.A.S Tel: 0080008250910
 
-Tél: +Teél: 0080008250910
+## Portugal
+
+Biocon Biologics SpainS.L. Tel: 0080008250910
 
 ## Hrvatska
 
-Biocon Biologics Germany GmbH
+Biocon Biologics GermanyGmbH Tel: 0080008250910
 
-Tel: 0080008250910
+## România
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Ireland
 
-Biosimilar Collaborations Ireland Limited
+Biosimilar Collaborations Ireland Limited Biosimilar Collaborations Ireland Limited
 
-Tel: 1800 777 794
+Tel: 1800777 794
 
-## Ísland
-
-Biocon Biologics Finland OY
-
-Sími: +345 800 4316
-
-## Italia
-
-Biocon Biologics Spain S.L.
+## Slovenija
 
 Tel: 0080008250910
 
+## Ísland
+
+Biocon Biologics FinlandOY
+
+## Slovenská republika
+
+Biocon Biologics Germany GmbH
+
+Sími: +345 800 4316
+
+Tel: 0080008250910
+
+## Italia
+
+Biocon Biologics SpainS.L .
+
+Tel: 0080008250910
+
+Suomi/Finland
+
+Biocon Biologics Finland OY
+
+Puh/Tel: 99980008250910
+
 ## Κύπρος
 
-Biosimilar Collaborations Ireland Limited Τηλ: 0080008250910
+Biosimilar Collaborations Ireland Limited
+
+Τηλ:
+
+0080008250910
+
+Sverige
+
+Biocon Biologics Finland OY
+
+Tel: 0080008250910
 
 ## Latvija
 
@@ -1658,15 +2019,444 @@ Biosimilar Collaborations Ireland Limited
 
 Tel: 0080008250910
 
+<div style=\"page-break-after: always\"></div>
+
 ## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+<div style=\"page-break-after: always\"></div>
+
+## Package leaflet: information for the user
+
+## Kirsty 100 units/ml solution for injection in cartridge
+
+## insulin aspart
+
+## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
+
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor, nurse or pharmacist.
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- -If you get any side effects, talk with your doctor, nurse or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Kirsty is and what it is used for
+2. What you need to know before you use Kirsty
+3. How to use Kirsty
+4. Possible side effects
+5. How to store Kirsty
+6. 6.
+7. Contents of the pack and other information
+
+## 1. What Kirsty is and what it is used for
+
+Kirsty is a modern insulin (insulin analogue) with a rapid-acting effect. Modern insulin products are improved versions of human insulin.
+
+Kirsty is used to reduce the high blood sugar level in adults, adolescents and children aged 1 year and above with diabetes mellitus (diabetes). Diabetes is a disease where your body does not produce enough insulin to control the level of your blood sugar. Treatment with insulin aspart helps to prevent complications from your diabetes.
+
+Kirsty will start to lower your blood sugar 10-20 minutes after you inject it, a maximum effect occurs between 1 and 3 hours after the injection and the effect lasts for 3-5 hours. Due to this short action insulin aspart should normally be taken in combination with intermediate-acting or longacting insulin preparations.
+
+## 2. What you need to know before you use Kirsty
+
+## Do not use Kirsty
+
+- If you are allergic to insulin aspart, or any of the other ingredients in this medicine (listed in section 6).
+- If you suspect hypoglycaemia (low blood sugar) is starting (see a) Summary of serious and very common side effects in section 4).
+- If the cartridge or the device containing the cartridge is dropped, damaged or crushed.
+- If it has not been stored correctly or been frozen (see section 5, How to store Kirsty).
+- If the insulin does not appear clear and colourless.
+
+If any of these applies, do not use Kirsty. Talk with your doctor, nurse or pharmacist for advice.
+
+## Before using Kirsty
+
+- Check the label to make sure it is the right type of insulin.
+
+<div style=\"page-break-after: always\"></div>
+
+- Always check the cartridge, including the rubber plunger at the bottom of the cartridge. Do not use it if any damage is seen or if the rubber plunger has been drawn above the orange label band at the bottom of the cartridge. This could be a result of leakage of insulin. If you suspect the cartridge is damaged, take it back to your supplier. See your pen manual for further instructions.
+- Always use a new needle for each injection to prevent contamination.
+- Needles and Kirsty 100 units/ml in cartridges must not be shared.
+- Kirsty 100 units/ml in cartridges is only suitable for injecting under the skin using a reusable pen. Speak to your doctor if you need to inject your insulin by another method.
+
+## Warnings and precautions
+
+- Some conditions and activities can affect your need for insulin. Consult your doctor:
+- If you have trouble with your kidneys or liver, or with your adrenal, pituitary or thyroid glands.
+- If you exercise more than usual or if you want to change your usual diet, as this may affect your blood sugar level.
+- If you are ill, carry on taking your insulin and consult your doctor.
+- If you are going abroad, travelling over time zones may affect your insulin needs and the timing of your injections.
+
+## Skin changes at the injection site
+
+The injection site should be rotated to help prevent changes to the fatty tissue under the skin, such as skin thickening, skin shrinking or lumps under the skin. The insulin may not work very well if you inject into a lumpy, shrunken or thickened area (see section 3, How to use Kirsty). Tell your doctor if you notice any skin changes at the injection site. Tell your doctor if you are currently injecting into these affected areas before you start injecting in a different area. Your doctor may tell you to check your blood sugar more closely, and to adjust your insulin or your other antidiabetic medications dose.
+
+## Children and adolescents
+
+Do not give this medicine to children below 1 year of age since no clinical studies have been carried out in children below the age of 1 year.
+
+## Other medicines and Kirsty
+
+Tell your doctor, nurse or pharmacist if you are taking, have recently taken or might take any other medicines.
+
+Some medicines affect your blood sugar level and this may mean that your insulin dose has to change.
+
+Listed below are the most common medicines which may affect your insulin treatment.
+
+## Your blood sugar level may fall (hypoglycaemia) if you take:
+
+- Other medicines for the treatment of diabetes
+- Monoamine oxidase inhibitors (MAOI) (used to treat depression)
+- Beta-blockers (used to treat high blood pressure)
+- Angiotensin converting enzyme (ACE) inhibitors (used to treat certain heart conditions or high blood pressure)
+- Salicylates (used to relieve pain and lower fever)
+- Anabolic steroids (such as testosterone)
+- Sulphonamides (used to treat infections).
+
+## Your blood sugar level may rise (hyperglycaemia) if you take:
+
+- Oral contraceptives (birth control pills)
+- Thiazides (used to treat high blood pressure or excessive fluid retention)
+- Glucocorticoids (such as 'cortisone' used to treat inflammation)
+- Thyroid hormones (used to treat thyroid gland disorders)
+
+<div style=\"page-break-after: always\"></div>
+
+- Sympathomimetics (such as epinephrine [adrenaline], or salbutamol, terbutaline used to treat asthma)
+- Growth hormone (medicine for stimulation of skeletal and somatic growth and pronounced influence on the body's metabolic processes)
+- Danazol (medicine acting on ovulation).
+
+Octreotide and lanreotide (used for treatment of acromegaly, a rare hormonal disorder that usually occurs in middle-aged adults, caused by the pituitary gland producing excess growth hormone) may either increase or decrease your blood sugar level.
+
+Beta-blockers (used to treat high blood pressure) may weaken or suppress entirely the first warning symptoms which help you to recognise low blood sugar.
+
+## Pioglitazone (tablets used for the treatment of type 2 diabetes)
+
+Some patients with long-standing type 2 diabetes and heart disease or previous stroke who were treated with pioglitazone and insulin experienced the development of heart failure. Inform your doctor as soon as possible if you experience signs of heart failure such as unusual shortness of breath or rapid increase in weight or localised swelling (oedema).
+
+If you have taken any of the medicines listed here, tell your doctor, nurse or pharmacist.
+
+## Kirsty and alcohol
+
+-  If you drink alcohol, your need for insulin may change as your blood sugar level may either rise or fall. Careful monitoring is recommended.
+
+## Pregnancy and breast-feeding
+
+-  If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine. Kirsty can be used during pregnancy. Your insulin dose may need to be changed during pregnancy and after delivery. Careful control of your diabetes, particularly prevention of hypoglycaemia, is important for the health of your baby.
+-  There are no restrictions on treatment with Kirsty during breast-feeding.
+
+Ask your doctor, nurse or pharmacist for advice before taking this medicine while pregnant or breastfeeding.
+
+## Driving and using machines
+
+Please ask your doctor whether you can drive a car or operate a machine:
+
+- If you have frequent hypoglycaemia.
+- If you find it hard to recognise hypoglycaemia.
+
+If your blood sugar is low or high, your concentration and ability to react might be affected and therefore also your ability to drive or operate a machine. Bear in mind that you could endanger yourself or others.
+
+Kirsty has a rapid onset of effect therefore if hypoglycaemia occurs, you may experience it earlier after an injection when compared to soluble human insulin.
+
+## Kirsty contains sodium
+
+This medicine contains less than 1 mmol (23 mg) sodium per dose, i.e. Kirsty is essentially 'sodiumfree'.
+
+## 3. How to use Kirsty
+
+## Dose and when to take your insulin
+
+Always use your insulin and adjust your dose exactly as your doctor has told you. Check with your doctor, nurse or pharmacist if you are not sure.
+
+<div style=\"page-break-after: always\"></div>
+
+Kirsty is generally taken immediately before a meal. Eat a meal or snack within 10 minutes of the injection to avoid low blood sugar. When necessary, Kirsty can be given soon after a meal See 'How and where to inject below for information'.
+
+Do not change your insulin unless your doctor tells you to. If your doctor has switched you from one type or brand of insulin to another, your dose may have to be adjusted by your doctor.
+
+## Use in children and adolescents
+
+Kirsty can be used in adolescents and children aged 1 year and above instead of soluble human insulin when a rapid onset of effect is preferred. For example, when it is difficult to dose the child in relation to meals.
+
+## Use in special patient groups
+
+If you have reduced kidney or liver function, or if you are above 65 years of age, you need to check your blood sugar more regularly and discuss changes in your insulin dose with your doctor.
+
+## How and where to inject
+
+Kirsty is for injection under the skin (subcutaneously) will require a comprehensive instruction by your healthcare professional. You must never inject yourself directly into a vein (intravenously) or muscle (intramuscularly). Kirsty 100 units/ml in cartridges is only suitable for injecting under the skin using a reusable pen. Speak to your doctor if you need to inject your insulin by another method.
+
+With each injection, change the injection site within the particular area of skin that you use. This may reduce the risk of developing lumps or skin pitting (see section 4, Possible side effects). The best places to give yourself an injection are: the front of your waist (abdomen), the upper arm or the front of your thighs. The insulin will work more quickly if injected into the front of your waist. You should always measure your blood sugar regularly.
+
+## How to use Kirsty
+
+- To ensure you get the accurate dose, the Kirsty cartridges are to be used only with the following reusable pen:
+- -EZPen which is intended to deliver variable doses from 1 to 60 units of insulin aspart in 1 unit dose increment.
+- Kirsty Cartridge are design to be used with EZPen's with its compatible. Always ensure you use the correct pen and compatible needles before you inject your insulin. Read carefully the instructions on how to use the EZ pen exactly as described in the 'Instructions for Use provided with the Pen package'.
+- Always carry a spare cartridge in case it is lost or damaged.
+- Do not refill the cartridge. Once empty, it must be disposed off.
+
+The reusable pen (EZPen) should be used as recommended in the information provided with the pen.
+
+## How to inject Kirsty
+
+- Inject the insulin under the skin. Use the injection technique advised by your doctor or nurse and as described in your pen manual.
+- Keep the needle under your skin for at least 6 seconds. Keep the push-button fully depressed until the needle has been withdrawn from the skin. This will ensure correct delivery and limit possible flow of blood into the needle or insulin reservoir.
+- Remove and discard the needle after each injection. Always store Kirsty without the needle attached. Otherwise the liquid may leak out which can cause inaccurate dosing.
+
+## If you take more insulin than you should
+
+If you use too much insulin your blood sugar gets too low (hypoglycaemia) See a) Summary of serious and very common side effects' in section 4.
+
+<div style=\"page-break-after: always\"></div>
+
+## If you forget to take your insulin
+
+If you forget to use your insulin your blood sugar may get too high (hyperglycaemia) See c) 'Effects from diabetes' in section 4.
+
+## If you stop taking your insulin
+
+Do not stop using your insulin without speaking with a doctor, who will tell you what needs to be done. This could lead to very high blood sugar (severe hyperglycaemia) and ketoacidosis See c) 'Effects from diabetes' in section 4.
+
+If you have any further questions on the use of this medicine, ask your doctor, nurse or pharmacist.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+## a) Summary of serious and very common side effects
+
+Low blood sugar (hypoglycaemia) is a very common side effect. It may affect more than 1 in 10 people.
+
+Low blood sugar may occur if you:
+
+- Inject too much insulin.
+- Eat too little or miss a meal.
+- Exercise more than usual.
+- Drink alcohol (see Drinking alcohol and using Kirsty in section 2).
+
+## Signs of low blood sugar:
+
+Cold sweat; cool pale skin; headache; rapid heartbeat; feeling sick; feeling very hungry; temporary changes in vision; drowsiness; unusual tiredness and weakness; nervousness or tremor; feeling anxious; feeling confused; difficulty in concentrating.
+
+Severe low blood sugar can lead to unconsciousness. If prolonged severe low blood sugar is not treated, it can cause brain damage (temporary or permanent) and even death. You may recover more quickly from unconsciousness with an injection of the hormone glucagon by someone who knows how to use it. If you are given glucagon you will need glucose or a sugar snack as soon as you are conscious. If you do not respond to glucagon treatment, you will have to be treated in a hospital.
+
+## What to do if you experience low blood sugar:
+
+- If you experience low blood sugar, eat glucose tablets or another high sugar snack (e.g. sweets, biscuits, fruit juice). Measure your blood sugar if possible and rest. Always carry glucose tablets or high sugar snacks with you, just in case.
+- When symptoms of low blood sugar have disappeared or when blood sugar level is stabilised, continue insulin treatment as usual.
+- If you have such a low blood sugar that it makes you pass out, if you have had need for injection of glucagon, or if you have experienced many incidents of low blood sugar, talk with a doctor. The amount or timing of insulin, food or exercise may need to be adjusted.
+
+Tell relevant people that you have diabetes and what the consequences may be, including the risk of passing out (become unconscious) due to low blood sugar. Let them know that if you pass out, they must turn you on your side and get medical help straight away. They must not give you any food or drink due to risk of suffocation.
+
+Serious allergic reactions to Kirsty or one of its ingredients (called a systemic allergic reaction) is a very rare side effect but can potentially be life threatening. It may affect up to 1 in 10,000 people.
+
+<div style=\"page-break-after: always\"></div>
+
+Seek medical advice immediately:
+
+- If signs of allergy spread to other parts of your body.
+- If you suddenly feel unwell, and you: start sweating; start being sick (vomiting); have difficulty in breathing; have a rapid heartbeat; feel dizzy.
+-  If you notice any of these signs, seek medical advice immediately.
+
+Skin changes at the injection site: If you inject insulin at the same place, the fatty tissue may shrink (lipoatrophy) or thicken (lipohypertrophy) (may affect up to 1 in 100 people). Lumps under the skin may also be caused by buildup of a protein called amyloid (cutaneous amyloidosis; how often this occurs is not known). The insulin may not work very well if you inject into a lumpy, shrunken or thickened area. Change the injection site with each injection to help prevent these skin changes .
+
+## b) List of other side effects
+
+## Uncommon side effects (may affect up to 1 in 100 people)
+
+Signs of allergy: Local allergic reactions (pain, redness, hives, inflammation, bruising, swelling and itching) at the injection site may occur. These usually disappear after a few weeks of using your insulin. If they do not disappear, or if they spread throughout your body, talk to your doctor immediately See also Serious allergic reactions above.
+
+Vision problems: When you first start your insulin treatment, it may disturb your vision, but the disturbance is usually temporary.
+
+Swollen joints: When you start using insulin, water retention may cause swelling around your ankles and other joints. Normally this soon disappears. If not, talk to your doctor.
+
+Diabetic retinopathy (an eye disease related to diabetes which can lead to loss of vision): If you have diabetic retinopathy and your blood sugar level improves very fast, the retinopathy may get worse. Ask your doctor about this.
+
+## Rare side effects (may affect up to 1 in 1 000 people)
+
+Painful neuropathy (pain due to nerve damage): If your blood sugar level improves very fast, you may get nerve related pain This is called acute painful neuropathy and is usually transient.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor, nurse or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## c) Effects from diabetes
+
+## High blood sugar (hyperglycaemia)
+
+High blood sugar may occur if you:
+
+- Have not injected enough insulin.
+- Forget to inject your insulin or stop using insulin.
+- Repeatedly inject less insulin than you need.
+- Get an infection and/or a fever.
+- Eat more than usual.
+- Exercise less than usual.
+
+Warning signs of high blood sugar: The warning signs appear gradually. They include: increased urination; feeling thirsty; losing your appetite; feeling sick (nausea or vomiting); feeling drowsy or tired; flushed; dry skin; dry mouth and a fruity (acetone) smell of the breath.
+
+<div style=\"page-break-after: always\"></div>
+
+What to do if you experience high blood sugar
+
+- If you get any of the above signs: test your blood sugar level, test your urine for ketones if you can, then seek medical advice immediately.
+- These may be signs of a very serious condition called diabetic ketoacidosis (build-up of acid in the blood because the body is breaking down fat instead of sugar). If you do not treat it, this could lead to diabetic coma and eventually death.
+
+## 5. How to store Kirsty
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date, which is stated on the cartridge label and carton, after 'EXP'. The expiry date refers to the last day of that month.
+
+Always keep the cartridge in the outer carton when you are not using it in order to protect it from light. Kirsty must be protected from excessive heat and light.
+
+Before opening: Cartridge that is not being used is to be stored in the refrigerator at 2°C to 8°C, away from the cooling element. Do not freeze.
+
+After first opening or when carried as a spare: Cartridge that is being used can be kept at a temperature below 30°C or in a refrigerator (2˚C to 8˚C) for up to 28 days.
+
+Discard the needle after each injection.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Kirsty contains
+
+- The active substance is insulin aspart. One ml of the solution contains 100 units (equivalent to 3.5 mg) of insulin aspart. Each cartridge contains 3 ml of solution for injection, equivalent to 300 units of insulin aspart.
+- The other ingredients are glycerol, phenol, metacresol, zinc chloride, disodium phosphate dihydrate, sodium chloride, hydrochloric acid, sodium hydroxide (see section 2 'Kirsty contains sodium'), and water for injections.
+
+## What Kirsty looks like and contents of the pack
+
+Kirsty is presented as a solution for injection.
+
+Pack sizes of 5 and 10 cartridges of 3 ml.
+
+Not all pack sizes may be marketed.
+
+The solution is clear and colourless.
+
+<div style=\"page-break-after: always\"></div>
+
+## Marketing Authorisation Holder
+
+Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade Baldoyle Industrial Estate D13 R20R Dublin 13 Dublin Ireland
+
+## Manufacturer
+
+Biosimilar Collaborations Ireland Limited Block B, The Crescent Building Santry Demesne D09 C6X8 Dublin Ireland
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+Biocon Biologics BelgiumBV Tél/Tel: 0080008250910
+
+## Lietuva
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## България
+
+Biosimilar Collaborations Ireland Limited
+
+Тел: 0080008250910
+
+## Luxembourg/Luxemburg
+
+Biosimilar Collaborations Ireland Limited Tél/Tel:
+
+0080008250910
+
+## Česká republika
+
+Biocon Biologics GermanyGmbH
+
+Tel: 0080008250910
+
+## Magyarország
+
+Biosimilar Collaborations Ireland Limited
+
+Tel.: 0080008250910
+
+## Danmark
+
+Biocon Biologics FinlandOY Tlf: 0080008250910
+
+## Malta
+
+Biosimilar Collaborations Ireland Limited
+
+Tel.: 0080008250910
+
+## Deutschland
+
+Biocon Biologics Germany GmbH
+
+Tel: 0080008250910
+
+## Nederland
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## Eesti
+
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
+
+## Norge
+
+Biocon Biologics FinlandOY
+
+Tlf: +47 800 62 671
+
+## Ελλάδα
+
+Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε
+
+Τηλ.:
+
+0080008250910
+
+## Österreich
+
+Biocon Biologics GermanyGmbH
+
+Tel: 0080008250910
+
+## España
+
+Biocon Biologics SpainS.L.
+
+Tel: 0080008250910
+
+## Polska
+
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
+
+## France
+
+Biocon Biologics FranceS.A.S
+
+Tel: 0080008250910
 
 ## Portugal
 
-Biocon Biologics Spain S.L.
+Biocon Biologics SpainS.L.
+
+Tel: 0080008250910
+
+## Hrvatska
+
+Biocon Biologics GermanyGmbH
 
 Tel: 0080008250910
 
@@ -1676,37 +2466,71 @@ Biosimilar Collaborations Ireland Limited
 
 Tel: 0080008250910
 
+## Ireland
+
+Biosimilar Collaborations Ireland Limited Biosimilar Collaborations Ireland Limited
+
+Tel: 1800777 794
+
 ## Slovenija
 
-Biosimilar Collaborations Ireland Limited
+Tel: 0080008250910
+
+## Ísland
+
+Biocon Biologics FinlandOY
+
+Sími: +345 800 4316
+
+Slovenská republika
+
+Biocon Biologics Germany GmbH Tel: 0080008250910
+
+## Italia
+
+Biocon Biologics SpainS.L .
 
 Tel: 0080008250910
 
-## Slovenská republika
-
-Biocon Biologics Germany GmbH
-
-Tel: 0080008250910
-
-## Suomi/Finland
+Suomi/Finland
 
 Biocon Biologics Finland OY
 
 Puh/Tel: 99980008250910
 
-## Sverige
+## Κύπρος
 
-Biocon Biologics Finland OY
+Biosimilar Collaborations Ireland Limited Biocon Biologics Finland OY
+
+Τηλ:
+
+0080008250910
+
+Sverige
 
 Tel: 0080008250910
 
-## Package leaflet: Information for the user
+Latvija
+
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
 
 <div style=\"page-break-after: always\"></div>
 
-## Kirsty 100 units/ml solution for injection in pre -
+## This leaflet was last revised in .
 
-## filled pen insulin aspart
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+<div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
+
+## Kirsty 100 units/ml solution for injection in pre -filled pen
+
+## insulin aspart
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1736,31 +2560,31 @@ Kirsty will start to lower your blood sugar 10-20 minutes after you inject it, a
 
 ## Do not use Kirsty
 
-- If you are allergic to insulin aspart, or any of the other ingredients of this medicine listed in section 6.
-- If you suspect hypoglycaemia (low blood sugar) is starting (see a) Summary of serious and very common side effects in section 4).
-- If Kirsty is dropped, damaged or crushed.
-- If it has not been stored correctly or been frozen (see section 5, How to store Kirsty).
-- If the insulin does not appear clear and colourless.
+-  If you are allergic to insulin aspart, or any of the other ingredients of this medicine listed in section 6.
+-  If you suspect hypoglycaemia (low blood sugar) is starting (see a) Summary of serious and very common side effects in section 4).
+-  If Kirsty is dropped, damaged or crushed.
+-  If it has not been stored correctly or been frozen (see section 5, How to store Kirsty).
+-  If the insulin does not appear clear and colourless.
 
 If any of these applies, do not use Kirsty. Talk with your doctor, nurse or pharmacist for advice.
 
 ## Before using Kirsty
 
-- Check the label to make sure it is the right type of insulin.
+-  Check the label to make sure it is the right type of insulin.
+-  Always use a new needle for each injection to prevent contamination.
 
 <div style=\"page-break-after: always\"></div>
 
-- Always use a new needle for each injection to prevent contamination.
-- Needles and Kirsty pre-filled pen must not be shared.
-- Kirsty pre-filled pen is only suitable for injecting under the skin. Speak to your doctor if you need to inject your insulin by another method.
+-  Needles and Kirsty pre-filled pen must not be shared.
+-  Kirsty pre-filled pen is only suitable for injecting under the skin. Speak to your doctor if you need to inject your insulin by another method.
 
 ## Warnings and precautions
 
-- Some conditions and activities can affect your need for insulin. Consult your doctor:
-- If you have trouble with your kidneys or liver, or with your adrenal, pituitary or thyroid glands.
-- If you exercise more than usual or if you want to change your usual diet, as this may affect your blood sugar level.
-- If you are ill, carry on using your insulin and consult your doctor.
-- If you are going abroad, travelling over time zones may affect your insulin needs and the timing of your injections.
+-  Some conditions and activities can affect your need for insulin. Consult your doctor:
+-  If you have trouble with your kidneys or liver, or with your adrenal, pituitary or thyroid glands.
+-  If you exercise more than usual or if you want to change your usual diet, as this may affect your blood sugar level.
+-  If you are ill, carry on using your insulin and consult your doctor.
+-  If you are going abroad, travelling over time zones may affect your insulin needs and the timing of your injections.
 
 ## Skin changes at the injection site
 
@@ -1774,9 +2598,7 @@ Do not give this medicine to children below 1 year of age since no clinical stud
 
 Tell your doctor, nurse or pharmacist if you are taking, have recently used or might use any other medicines.
 
-Some medicines affect your blood sugar level and this may mean that your insulin dose has to change.
-
-Listed below are the most common medicines which may affect your insulin treatment.
+Some medicines affect your blood sugar level and this may mean that your insulin dose has to change. Listed below are the most common medicines which may affect your insulin treatment.
 
 ## Your blood sugar level may fall (hypoglycaemia) if you use:
 
@@ -1812,12 +2634,12 @@ If you have used any of the medicines listed here, tell your doctor, nurse or ph
 
 ## Kirsty and alcohol
 
-- If you drink alcohol, your need for insulin may change as your blood sugar level may either rise or fall. Careful monitoring is recommended.
+-  If you drink alcohol, your need for insulin may change as your blood sugar level may either rise or fall. Careful monitoring is recommended.
 
 ## Pregnancy and breast -feeding
 
-- If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice before using this medicine. Kirsty can be used during pregnancy. Your insulin dose may need to be changed during pregnancy and after delivery. Careful control of your diabetes, particularly prevention of hypoglycaemia, is important for the health of your baby.
-- There are no restrictions on treatment with Kirsty during breast-feeding.
+-  If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice before using this medicine. Kirsty can be used during pregnancy. Your insulin dose may need to be changed during pregnancy and after delivery. Careful control of your diabetes, particularly prevention of hypoglycaemia, is important for the health of your baby.
+-  There are no restrictions on treatment with Kirsty during breast-feeding.
 
 Ask your doctor, nurse or pharmacist for advice before using this medicine while pregnant or breast-feeding.
 
@@ -1892,9 +2714,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Low blood sugar (hypoglycaemia) is a very common side effect. It may affect more than 1 in 10 people.
 
-<div style=\"page-break-after: always\"></div>
-
 Low blood sugar may occur if you:
+
+<div style=\"page-break-after: always\"></div>
 
 - Inject too much insulin.
 - Eat too little or miss a meal.
@@ -1907,9 +2729,9 @@ Severe low blood sugar can lead to unconsciousness. If prolonged severe low bloo
 
 What to do if you experience low blood sugar:
 
-- If you experience low blood sugar, eat glucose tablets or another high sugar snack (e.g. sweets, biscuits, fruit juice). Measure your blood sugar if possible and rest. Always carry glucose tablets or high sugar snacks with you, just in case.
-- When symptoms of low blood sugar have disappeared or when blood sugar level is stabilised, continue insulin treatment as usual.
-- If you have such a low blood sugar that it makes you pass out, if you have had need for injection of glucagon, or if you have experienced many incidents of low blood sugar, talk with a doctor. The amount or timing of insulin, food or exercise may need to be adjusted.
+-  If you experience low blood sugar, eat glucose tablets or another high sugar snack (e.g. sweets, biscuits, fruit juice). Measure your blood sugar if possible and rest. Always carry glucose tablets or high sugar snacks with you, just in case.
+-  When symptoms of low blood sugar have disappeared or when blood sugar level is stabilised, continue insulin treatment as usual.
+-  If you have such a low blood sugar that it makes you pass out, if you have had need for injection of glucagon, or if you have experienced many incidents of low blood sugar, talk with a doctor. The amount or timing of insulin, food or exercise may need to be adjusted.
 
 Tell relevant people that you have diabetes and what the consequences may be, including the risk of passing out (become unconscious) due to low blood sugar. Let them know that if you pass out, they must turn you on your side and get medical help straight away. They must not give you any food or drink due to risk of suffocation.
 
@@ -1922,7 +2744,7 @@ Seek medical advice immediately:
 
 If you notice any of these signs, seek medical advice immediately.
 
-Skin changes at the injection site: If you inject insulin at the same place, the fatty tissue may shrink (lipoatrophy) or thicken (lipohypertrophy) (may affect up to 1 in 100 people). Lumps under the skin may also be caused by build-up of a protein called amyloid (cutaneous amyloidosis; how often this occurs is not known). The insulin may not work very well if you inject into a lumpy, shrunken or thickened area. Change the injection site with each injection to help prevent these skin changes.
+Skin changes at the injection site: If you inject insulin at the same place, the fatty tissue may shrink (lipoatrophy) or thicken (lipohypertrophy) (may affect up to 1 in 100 people). Lumps under the skin may also be caused by buildup of a protein called amyloid (cutaneous amyloidosis; how often this occurs is not known). The insulin may not work very well if you inject into a lumpy, shrunken or thickened area. Change the injection site with each injection to help prevent these skin changes.
 
 ## b) List of other side effects
 
@@ -1930,15 +2752,15 @@ Uncommon side effects (may affect up to 1 in 100 people)
 
 Signs of allergy: Local allergic reactions (pain, redness, hives, inflammation, bruising, swelling and itching) at the injection site may occur. These usually disappear after a few weeks of using your insulin. If they do not disappear, or if they spread throughout your body, talk to your doctor immediately. See also Serious allergic reactions above.
 
-<div style=\"page-break-after: always\"></div>
-
 Vision problems: When you first start your insulin treatment, it may disturb your vision, but the disturbance is usually temporary.
+
+<div style=\"page-break-after: always\"></div>
 
 Swollen joints: When you start using insulin, water retention may cause swelling around your ankles and other joints. Normally this soon disappears. If not, talk to your doctor.
 
 Diabetic retinopathy (an eye disease related to diabetes which can lead to loss of vision): If you have diabetic retinopathy and your blood sugar level improves very fast, the retinopathy may get worse. Ask your doctor about this.
 
-Rare side effects (may affect up to 1 in 1,000 people)
+## Rare side effects (may affect up to 1 in 1 000 people)
 
 Painful neuropathy (pain due to nerve damage): If your blood sugar level improves very fast, you may get nerve related pain. This is called acute painful neuropathy and is usually transient.
 
@@ -1963,8 +2785,8 @@ Warning signs of high blood sugar: The warning signs appear gradually. They incl
 
 What to do if you experience high blood sugar:
 
-- If you get any of the above signs: test your blood sugar level, test your urine for ketones if you can, then seek medical advice immediately.
-- These may be signs of a very serious condition called diabetic ketoacidosis (build-up of acid in the blood because the body is breaking down fat instead of sugar). If you do not treat it, this could lead to diabetic coma and eventually death.
+-  If you get any of the above signs: test your blood sugar level, test your urine for ketones if you can, then seek medical advice immediately.
+-  These may be signs of a very serious condition called diabetic ketoacidosis (build-up of acid in the blood because the body is breaking down fat instead of sugar). If you do not treat it, this could lead to diabetic coma and eventually death.
 
 ## 5. How to store Kirsty
 
@@ -1976,9 +2798,9 @@ Keep the medicine in the outer carton in order to protect from light.
 
 Before opening: Kirsty pre-filled pen that is not being used is to be stored in the refrigerator at 2°C to 8°C, away from the cooling element. Do not freeze.
 
-<div style=\"page-break-after: always\"></div>
-
 After first use: You can carry your Kirsty pre-filled pen with you and keep it at a temperature below 30°C or in a refrigerator (2 ˚C to 8 ˚C) for up to 28 days. If refrigerated, keep away from the cooling element. Do not freeze.
+
+<div style=\"page-break-after: always\"></div>
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1999,149 +2821,145 @@ The solution is clear and colourless.
 
 ## Marketing Authorisation Holder
 
-Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13 DUBLIN Ireland D13 R20R
+Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade Baldoyle Industrial Estate D13 R20R Dublin 13 Dublin Ireland
 
 ## Manufacturer
 
-Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
+Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne D09 C6X8 Dublin Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
-
-Biocon Biologics Belgium BV
-
-Tél/Tel: 0080008250910
-
-## България
-
-Biosimilar Collaborations Ireland Limited Teл.: 0080008250910
-
-## Lietuva
-
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
-
-## Luxembourg/Luxemburg
-
-Biocon Biologics France S.A.S Tél/Tel: 0080008250910
+| België/Belgique/Belgien Biocon Biologics BelgiumBV Tél/Tel: 0080008250910   | Lietuva Biosimilar Collaborations Ireland Limited Tel: 0080008250910                  |
+|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| България Biosimilar Collaborations Ireland Limited Тел: 0080008250910       | Luxembourg/Luxemburg Biosimilar Collaborations Ireland Limited Tél/Tel: 0080008250910 |
+| Česká republika Biocon Biologics GermanyGmbH Tel: 0080008250910             | Magyarország Biosimilar Collaborations Ireland Limited Tel.: 0080008250910            |
+| Danmark Biocon Biologics FinlandOY Tlf: 0080008250910 Deutschland           | Malta Biosimilar Collaborations Ireland Limited Tel.: 0080008250910 Nederland         |
 
 <div style=\"page-break-after: always\"></div>
 
-## Česká republika
-
-Biocon Biologics Germany GmbH Tel: 0080008250910
-
-## Danmark
-
-Biocon Biologics Finland OY Tlf: 0080008250910
-
-## Deutschland
-
-Biocon Biologics Germany GmbH Tel: 0080008250910
-
 ## Eesti
-
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
-
-## Ελλάδα
-
-Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε Τηλ: 0080008250910
-
-## España
-
-Biocon Biologics Spain S.L. Tel: 0080008250910
-
-## France
-
-Biocon Biologics France S.A.S Tél: +Teél: 0080008250910
-
-## Hrvatska
-
-Biocon Biologics Germany GmbH Tel: 0080008250910
-
-## Ireland
-
-Biosimilar Collaborations Ireland Limited Tel: 1800 777 794
-
-## Ísland
-
-Biocon Biologics Finland OY Sími: +345 800 4316
-
-## Italia
-
-Biocon Biologics Spain S.L. Tel: 0080008250910
-
-## Κύπρος
-
-Biosimilar Collaborations Ireland Limited Τηλ: 0080008250910
-
-## Latvija
-
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
-
-## Magyarország
-
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
-
-## Malta
-
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
-
-## Nederland
-
-Biocon Biologics France S.A.S. Tel: 0080008250910
 
 ## Norge
 
-Biocon Biologics Finland OY Tlf: +47 800 62 671
+Biosimilar Collaborations Ireland Limited Biocon Biologics FinlandOY
+
+Tel: 0080008250910
+
+Tlf: +47 800 62 671
+
+## Ελλάδα
+
+Biocon Biologics Greece
+
+ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε
+
+Τηλ.:
+
+0080008250910
 
 ## Österreich
 
-Biocon Biologics Germany GmbH
+Biocon Biologics GermanyGmbH
+
+Tel: 0080008250910
+
+## España
+
+Biocon Biologics SpainS.L.
 
 Tel: 0080008250910
 
 ## Polska
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
+
+## France
+
+Biocon Biologics FranceS.A.S
+
+Tel: 0080008250910
 
 ## Portugal
 
-Biocon Biologics Spain S.L. Tel: 0080008250910
+Biocon Biologics SpainS.L.
+
+Tel: 0080008250910
+
+## Hrvatska
+
+Biocon Biologics GermanyGmbH
+
+Tel: 0080008250910
 
 ## România
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
+
+## Ireland
+
+Biosimilar Collaborations Ireland Limited Biosimilar Collaborations Ireland Limited
+
+Tel: 1800777 794
 
 ## Slovenija
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Tel: 0080008250910
+
+## Ísland
+
+Biocon Biologics FinlandOY
+
+Sími: +345 800 4316
 
 ## Slovenská republika
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics Germany GmbH
+
+Tel: 0080008250910
+
+## Italia
+
+Biocon Biologics SpainS.L .
+
+Tel: 0080008250910
 
 ## Suomi/Finland
 
-Biocon Biologics Finland OY Puh/Tel: 99980008250910
+## Biocon Biologics Finland OY
+
+Puh/Tel: 99980008250910
+
+## Κύπρος
+
+Biosimilar Collaborations Ireland Limited Biocon Biologics Finland OY
+
+Τηλ:
+
+0080008250910
 
 ## Sverige
 
-Biocon Biologics Finland OY Tel: 0080008250910
+Tel: 0080008250910
 
-<div style=\"page-break-after: always\"></div>
+## Latvija
 
-## This leaflet was last revised in { MM/YYYY }.
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
+
+## This leaflet was last revised in .
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
-## Kirsty pre -filled pen
-
-## INSTRUCTIONS FOR USE
+## Kirsty pre -filled pen INSTRUCTIONS FOR USE
 
 Read the following instructions, as well as the package leaflet carefully before using your Kirsty pre-filled pen.
 
@@ -2177,17 +2995,14 @@ As a precautionary measure, always carry a spare insulin delivery device in case
 
 ## Step 2. Attach the needle
 
-2a- Remove the paper tab from a new disposable needle.
-
-2b- Screw the needle straight and tightly onto your Kirsty pre-filled pen (see figure B).
-
-<!-- image -->
-
-2c- Pull off the big outer needle cap and keep it for later (see figure C)
+- 2a- Remove the paper tab from a new disposable needle.
+- 2b- Screw the needle straight and tightly onto your Kirsty pre-filled pen (see figure B).
+- 2c- Pull off the big outer needle cap and keep it for later (see figure C)
+- 2d- Pull off the inner needle cap and dispose of it (see figure D).
 
 <!-- image -->
 
-2d- Pull off the inner needle cap and dispose of it (see figure D).
+<!-- image -->
 
 Never try to put the inner needle cap back on the needle. You may stick yourself with the needle.
 
@@ -2231,7 +3046,9 @@ Prior to each injection small amounts of air may collect in the cartridge during
 
 4a- Check that the dose selector is set at 0.
 
-4b- Turn the dose selector to the number of units you need to inject (see figure H). The dose can be corrected either up or down by turning the dose selector in either direction until the correct dose lines up with the pointer. When turning the dose selector, be careful not to push the push button as insulin will come out. You cannot select a dose larger than the number of units left in the cartridge
+4b- Turn the dose selector to the number of units you need to inject (see figure H).
+
+The dose can be corrected either up or down by turning the dose selector in either direction until the correct dose lines up with the pointer. When turning the dose selector, be careful not to push the push button as insulin will come out. You cannot select a dose larger than the number of units left in the cartridge
 
 <!-- image -->
 

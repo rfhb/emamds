@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 08:03:48
+document_datetime: 2026-03-10 13:56:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/amversio.html
 document_name: amversio.html
 version: success
-processing_time: 0.1129425
-conversion_datetime: 2025-12-30 13:00:33.051805
+processing_time: 0.0926574
+conversion_datetime: 2026-03-13 19:29:20.07415
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Amversio
 
 [RSS](/en/individual-human-medicine.xml/67551)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 betaine anhydrous Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -38,7 +36,6 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Amversio](#news-on)
-- [More information on Amversio](#more-information-on-amversio-1623)
 
 - Application under evaluation
 - CHMP opinion
@@ -50,7 +47,7 @@ Amversio is a medicine used to treat homocystinuria, an inherited disease where 
 
 It is used with other treatments, such as vitamin B6 (pyridoxine), vitamin B12 (cobalamin), folate and a special diet.
 
-Amversio is a 'generic medicine'. This means that Amversio contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU called Cystadane. For more information on generic medicines, see the question-and-answer document [here](https://www.ema.europa.eu/en/documents/medicine-qa/questions-answers-generic-medicines_en.pdf) .
+Amversio is a 'generic medicine'. This means that Amversio contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU called Cystadane.
 
 Amversio contains the active substance betaine anhydrous.
 
@@ -104,7 +101,7 @@ English (EN) (143.11 KB - PDF)
 
 [View](/en/documents/overview/amversio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-671)
+[Other languages (22)](#file-language-dropdown-548)
 
 български (BG) (167.68 KB - PDF)
 
@@ -296,207 +293,305 @@ English (EN) (155.94 KB - PDF)
 
 Amversio : EPAR - Product information
 
-English (EN) (308 KB - PDF)
+English (EN) (293.95 KB - PDF)
 
 **First published:** 28/07/2022
 
+**Last updated:** 10/03/2026
+
 [View](/en/documents/product-information/amversio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-261)
+[Other languages (24)](#file-language-dropdown-108)
 
-български (BG) (328.59 KB - PDF)
+български (BG) (389.78 KB - PDF)
 
 **First published:**
 
 28/07/2022
+
+**Last updated:**
+
+10/03/2026
 
 [View](/bg/documents/product-information/amversio-epar-product-information_bg.pdf)
 
-español (ES) (221.34 KB - PDF)
+español (ES) (374.87 KB - PDF)
 
 **First published:**
 
 28/07/2022
+
+**Last updated:**
+
+10/03/2026
 
 [View](/es/documents/product-information/amversio-epar-product-information_es.pdf)
 
-čeština (CS) (314.28 KB - PDF)
+čeština (CS) (378.59 KB - PDF)
 
 **First published:**
 
 28/07/2022
+
+**Last updated:**
+
+10/03/2026
 
 [View](/cs/documents/product-information/amversio-epar-product-information_cs.pdf)
 
-dansk (DA) (286.58 KB - PDF)
+dansk (DA) (387.06 KB - PDF)
 
 **First published:**
 
 28/07/2022
+
+**Last updated:**
+
+10/03/2026
 
 [View](/da/documents/product-information/amversio-epar-product-information_da.pdf)
 
-Deutsch (DE) (315.38 KB - PDF)
+Deutsch (DE) (383.33 KB - PDF)
 
 **First published:**
 
 28/07/2022
+
+**Last updated:**
+
+10/03/2026
 
 [View](/de/documents/product-information/amversio-epar-product-information_de.pdf)
 
-eesti keel (ET) (252.62 KB - PDF)
+eesti keel (ET) (348 KB - PDF)
 
 **First published:**
 
 28/07/2022
+
+**Last updated:**
+
+10/03/2026
 
 [View](/et/documents/product-information/amversio-epar-product-information_et.pdf)
 
-ελληνικά (EL) (335.25 KB - PDF)
+ελληνικά (EL) (398.64 KB - PDF)
 
 **First published:**
 
 28/07/2022
+
+**Last updated:**
+
+10/03/2026
 
 [View](/el/documents/product-information/amversio-epar-product-information_el.pdf)
 
-français (FR) (316.18 KB - PDF)
+français (FR) (334.33 KB - PDF)
 
 **First published:**
 
 28/07/2022
+
+**Last updated:**
+
+10/03/2026
 
 [View](/fr/documents/product-information/amversio-epar-product-information_fr.pdf)
 
-hrvatski (HR) (271.54 KB - PDF)
+hrvatski (HR) (311.42 KB - PDF)
 
 **First published:**
 
 28/07/2022
+
+**Last updated:**
+
+10/03/2026
 
 [View](/hr/documents/product-information/amversio-epar-product-information_hr.pdf)
 
-íslenska (IS) (271.05 KB - PDF)
+íslenska (IS) (364.12 KB - PDF)
 
 **First published:**
 
 28/07/2022
+
+**Last updated:**
+
+10/03/2026
 
 [View](/is/documents/product-information/amversio-epar-product-information_is.pdf)
 
-italiano (IT) (300.96 KB - PDF)
+italiano (IT) (347.73 KB - PDF)
 
 **First published:**
 
 28/07/2022
+
+**Last updated:**
+
+10/03/2026
 
 [View](/it/documents/product-information/amversio-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (324.59 KB - PDF)
+latviešu valoda (LV) (372.01 KB - PDF)
 
 **First published:**
 
 28/07/2022
+
+**Last updated:**
+
+10/03/2026
 
 [View](/lv/documents/product-information/amversio-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (323.11 KB - PDF)
+lietuvių kalba (LT) (383.29 KB - PDF)
 
 **First published:**
 
 28/07/2022
+
+**Last updated:**
+
+10/03/2026
 
 [View](/lt/documents/product-information/amversio-epar-product-information_lt.pdf)
 
-magyar (HU) (304.54 KB - PDF)
+magyar (HU) (363.75 KB - PDF)
 
 **First published:**
 
 28/07/2022
+
+**Last updated:**
+
+10/03/2026
 
 [View](/hu/documents/product-information/amversio-epar-product-information_hu.pdf)
 
-Malti (MT) (318.63 KB - PDF)
+Malti (MT) (372.91 KB - PDF)
 
 **First published:**
 
 28/07/2022
+
+**Last updated:**
+
+10/03/2026
 
 [View](/mt/documents/product-information/amversio-epar-product-information_mt.pdf)
 
-Nederlands (NL) (226.81 KB - PDF)
+Nederlands (NL) (378.32 KB - PDF)
 
 **First published:**
 
 28/07/2022
+
+**Last updated:**
+
+10/03/2026
 
 [View](/nl/documents/product-information/amversio-epar-product-information_nl.pdf)
 
-norsk (NO) (260.07 KB - PDF)
+norsk (NO) (337.23 KB - PDF)
 
 **First published:**
 
 28/07/2022
+
+**Last updated:**
+
+10/03/2026
 
 [View](/no/documents/product-information/amversio-epar-product-information_no.pdf)
 
-polski (PL) (312.28 KB - PDF)
+polski (PL) (373.6 KB - PDF)
 
 **First published:**
 
 28/07/2022
+
+**Last updated:**
+
+10/03/2026
 
 [View](/pl/documents/product-information/amversio-epar-product-information_pl.pdf)
 
-português (PT) (263.1 KB - PDF)
+português (PT) (367.07 KB - PDF)
 
 **First published:**
 
 28/07/2022
+
+**Last updated:**
+
+10/03/2026
 
 [View](/pt/documents/product-information/amversio-epar-product-information_pt.pdf)
 
-română (RO) (314.88 KB - PDF)
+română (RO) (367.75 KB - PDF)
 
 **First published:**
 
 28/07/2022
+
+**Last updated:**
+
+10/03/2026
 
 [View](/ro/documents/product-information/amversio-epar-product-information_ro.pdf)
 
-slovenčina (SK) (311.89 KB - PDF)
+slovenčina (SK) (358.26 KB - PDF)
 
 **First published:**
 
 28/07/2022
+
+**Last updated:**
+
+10/03/2026
 
 [View](/sk/documents/product-information/amversio-epar-product-information_sk.pdf)
 
-slovenščina (SL) (304.49 KB - PDF)
+slovenščina (SL) (347.52 KB - PDF)
 
 **First published:**
 
 28/07/2022
+
+**Last updated:**
+
+10/03/2026
 
 [View](/sl/documents/product-information/amversio-epar-product-information_sl.pdf)
 
-Suomi (FI) (252.27 KB - PDF)
+Suomi (FI) (338.88 KB - PDF)
 
 **First published:**
 
 28/07/2022
+
+**Last updated:**
+
+10/03/2026
 
 [View](/fi/documents/product-information/amversio-epar-product-information_fi.pdf)
 
-svenska (SV) (256.55 KB - PDF)
+svenska (SV) (354.73 KB - PDF)
 
 **First published:**
 
 28/07/2022
 
+**Last updated:**
+
+10/03/2026
+
 [View](/sv/documents/product-information/amversio-epar-product-information_sv.pdf)
 
-05/05/2022
+**Latest procedure affecting product information:** VR/0000319550 10/03/2026
 
 icon globe
 
@@ -520,7 +615,7 @@ English (EN) (49.93 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/amversio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-156)
+[Other languages (24)](#file-language-dropdown-414)
 
 български (BG) (61.96 KB - PDF)
 
@@ -726,6 +821,10 @@ Other alimentary tract and metabolism products
 
 Amversio is indicated as adjunctive treatment of homocystinuria, involving deficiencies or defects in:
 
+- cystathionine beta-synthase (CBS),
+- 5,10 methylene tetrahydrofolate reductase (MTHFR),
+- cobalamin cofactor metabolism (cbl).
+
 ## Authorisation details
 
 EMA product number EMEA/H/C/005637
@@ -738,11 +837,25 @@ Marketing authorisation holder
 
 SERB SA
 
-Avenue Louise 480 1050 Brussels Belgium
+Avenue Louise 480
 
-Opinion adopted 24/02/2022 Marketing authorisation issued 05/05/2022
+Opinion adopted 24/02/2022 Marketing authorisation issued 05/05/2022 Revision 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Amversio : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (144.45 KB - PDF)
+
+**First published:** 10/03/2026
+
+[View](/en/documents/procedural-steps-after/amversio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -770,291 +883,11 @@ English (EN) (156.56 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-opinion-amversio_en.pdf)
 
-#### News on Amversio
+## News on Amversio
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 February 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-february-2022) 25/02/2022
 
-#### More information on Amversio
-
-Questions and answers on generic medicines
-
-Reference Number: EMA/393905/2006 Rev. 2
-
-English (EN) (66.45 KB - PDF)
-
-**First published:** 09/07/2007
-
-**Last updated:** 07/12/2012
-
-[View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-573)
-
-български (BG) (93.16 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
-
-español (ES) (68.3 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
-
-čeština (CS) (87.71 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
-
-dansk (DA) (66.79 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
-
-Deutsch (DE) (67.55 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
-
-eesti keel (ET) (65.21 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
-
-ελληνικά (EL) (91.29 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
-
-français (FR) (68.35 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
-
-hrvatski (HR) (87.8 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
-
-italiano (IT) (67.62 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
-
-latviešu valoda (LV) (111.81 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
-
-lietuvių kalba (LT) (86.76 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
-
-magyar (HU) (85.76 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
-
-Malti (MT) (89.35 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
-
-Nederlands (NL) (66.81 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
-
-polski (PL) (88.51 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
-
-português (PT) (68.32 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
-
-română (RO) (86.9 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
-
-slovenčina (SK) (87.73 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
-
-slovenščina (SL) (84.8 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
-
-Suomi (FI) (66.21 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
-
-svenska (SV) (67.11 KB - PDF)
-
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
-
-[View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
-
-**This page was last updated on** 08/06/2023
+**This page was last updated on** 10/03/2026
 
 ## Share this page
 

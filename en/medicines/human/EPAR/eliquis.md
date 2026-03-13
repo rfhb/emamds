@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:30:43
+document_datetime: 2026-03-12 16:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eliquis.html
 document_name: eliquis.html
 version: success
-processing_time: 0.1483999
-conversion_datetime: 2025-12-30 20:02:38.320884
+processing_time: 0.1351966
+conversion_datetime: 2026-03-13 18:42:50.770114
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Eliquis
 
 [RSS](/en/individual-human-medicine.xml/66129)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 apixaban Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +120,7 @@ English (EN) (81.54 KB - PDF)
 
 [View](/en/documents/overview/eliquis-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-967)
+[Other languages (22)](#file-language-dropdown-118)
 
 български (BG) (126.38 KB - PDF)
 
@@ -402,17 +400,17 @@ English (EN) (21.27 MB - PDF)
 
 Eliquis : EPAR - Product Information
 
-English (EN) (2.06 MB - PDF)
+English (EN) (1.77 MB - PDF)
 
 **First published:** 20/06/2011
 
-**Last updated:** 26/11/2025
+**Last updated:** 12/03/2026
 
 [View](/en/documents/product-information/eliquis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-122)
+[Other languages (24)](#file-language-dropdown-654)
 
-български (BG) (1.76 MB - PDF)
+български (BG) (1.85 MB - PDF)
 
 **First published:**
 
@@ -420,7 +418,7 @@ English (EN) (2.06 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/bg/documents/product-information/eliquis-epar-product-information_bg.pdf)
 
@@ -432,11 +430,11 @@ español (ES) (1.82 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/es/documents/product-information/eliquis-epar-product-information_es.pdf)
 
-čeština (CS) (1.71 MB - PDF)
+čeština (CS) (1.73 MB - PDF)
 
 **First published:**
 
@@ -444,7 +442,7 @@ español (ES) (1.82 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/cs/documents/product-information/eliquis-epar-product-information_cs.pdf)
 
@@ -456,7 +454,7 @@ dansk (DA) (1.8 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/da/documents/product-information/eliquis-epar-product-information_da.pdf)
 
@@ -468,11 +466,11 @@ Deutsch (DE) (1.92 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/de/documents/product-information/eliquis-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.62 MB - PDF)
+eesti keel (ET) (1.45 MB - PDF)
 
 **First published:**
 
@@ -480,11 +478,11 @@ eesti keel (ET) (1.62 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/et/documents/product-information/eliquis-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.78 MB - PDF)
+ελληνικά (EL) (1.86 MB - PDF)
 
 **First published:**
 
@@ -492,7 +490,7 @@ eesti keel (ET) (1.62 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/el/documents/product-information/eliquis-epar-product-information_el.pdf)
 
@@ -504,11 +502,11 @@ français (FR) (1.89 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/fr/documents/product-information/eliquis-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.72 MB - PDF)
+hrvatski (HR) (1.71 MB - PDF)
 
 **First published:**
 
@@ -516,11 +514,11 @@ hrvatski (HR) (1.72 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/hr/documents/product-information/eliquis-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.71 MB - PDF)
+íslenska (IS) (1.59 MB - PDF)
 
 **First published:**
 
@@ -528,7 +526,7 @@ hrvatski (HR) (1.72 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/is/documents/product-information/eliquis-epar-product-information_is.pdf)
 
@@ -540,7 +538,7 @@ italiano (IT) (1.85 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/it/documents/product-information/eliquis-epar-product-information_it.pdf)
 
@@ -552,11 +550,11 @@ latviešu valoda (LV) (1.67 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/lv/documents/product-information/eliquis-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.66 MB - PDF)
+lietuvių kalba (LT) (1.74 MB - PDF)
 
 **First published:**
 
@@ -564,11 +562,11 @@ lietuvių kalba (LT) (1.66 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/lt/documents/product-information/eliquis-epar-product-information_lt.pdf)
 
-magyar (HU) (1.78 MB - PDF)
+magyar (HU) (1.85 MB - PDF)
 
 **First published:**
 
@@ -576,11 +574,11 @@ magyar (HU) (1.78 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/hu/documents/product-information/eliquis-epar-product-information_hu.pdf)
 
-Malti (MT) (1.9 MB - PDF)
+Malti (MT) (1.87 MB - PDF)
 
 **First published:**
 
@@ -588,7 +586,7 @@ Malti (MT) (1.9 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/mt/documents/product-information/eliquis-epar-product-information_mt.pdf)
 
@@ -600,11 +598,11 @@ Nederlands (NL) (1.84 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/nl/documents/product-information/eliquis-epar-product-information_nl.pdf)
 
-norsk (NO) (1.79 MB - PDF)
+norsk (NO) (1.78 MB - PDF)
 
 **First published:**
 
@@ -612,11 +610,11 @@ norsk (NO) (1.79 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/no/documents/product-information/eliquis-epar-product-information_no.pdf)
 
-polski (PL) (1.74 MB - PDF)
+polski (PL) (1.75 MB - PDF)
 
 **First published:**
 
@@ -624,7 +622,7 @@ polski (PL) (1.74 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/pl/documents/product-information/eliquis-epar-product-information_pl.pdf)
 
@@ -636,11 +634,11 @@ português (PT) (1.82 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/pt/documents/product-information/eliquis-epar-product-information_pt.pdf)
 
-română (RO) (1.75 MB - PDF)
+română (RO) (1.82 MB - PDF)
 
 **First published:**
 
@@ -648,11 +646,11 @@ română (RO) (1.75 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/ro/documents/product-information/eliquis-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.73 MB - PDF)
+slovenčina (SK) (1.87 MB - PDF)
 
 **First published:**
 
@@ -660,11 +658,11 @@ slovenčina (SK) (1.73 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/sk/documents/product-information/eliquis-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.67 MB - PDF)
+slovenščina (SL) (1.7 MB - PDF)
 
 **First published:**
 
@@ -672,11 +670,11 @@ slovenščina (SL) (1.67 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/sl/documents/product-information/eliquis-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.87 MB - PDF)
+Suomi (FI) (1.86 MB - PDF)
 
 **First published:**
 
@@ -684,11 +682,11 @@ Suomi (FI) (1.87 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/fi/documents/product-information/eliquis-epar-product-information_fi.pdf)
 
-svenska (SV) (1.79 MB - PDF)
+svenska (SV) (1.8 MB - PDF)
 
 **First published:**
 
@@ -696,11 +694,11 @@ svenska (SV) (1.79 MB - PDF)
 
 **Last updated:**
 
-26/11/2025
+12/03/2026
 
 [View](/sv/documents/product-information/eliquis-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000314258 26/11/2025
+**Latest procedure affecting product information:** VR/0000334799 12/03/2026
 
 icon globe
 
@@ -718,17 +716,17 @@ Product information documents contain:
 
 Eliquis : EPAR - All Authorised presentations
 
-English (EN) (57.96 KB - PDF)
+English (EN) (70.2 KB - PDF)
 
 **First published:** 20/06/2011
 
-**Last updated:** 19/08/2024
+**Last updated:** 12/03/2026
 
 [View](/en/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-751)
+[Other languages (24)](#file-language-dropdown-1000)
 
-български (BG) (33.59 KB - PDF)
+български (BG) (64.29 KB - PDF)
 
 **First published:**
 
@@ -736,11 +734,11 @@ English (EN) (57.96 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/bg/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (57.41 KB - PDF)
+español (ES) (73.21 KB - PDF)
 
 **First published:**
 
@@ -748,11 +746,11 @@ español (ES) (57.41 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/es/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (30.92 KB - PDF)
+čeština (CS) (59.31 KB - PDF)
 
 **First published:**
 
@@ -760,11 +758,11 @@ español (ES) (57.41 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/cs/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (54.99 KB - PDF)
+dansk (DA) (70.55 KB - PDF)
 
 **First published:**
 
@@ -772,11 +770,11 @@ dansk (DA) (54.99 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/da/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (74.17 KB - PDF)
+Deutsch (DE) (71.15 KB - PDF)
 
 **First published:**
 
@@ -784,11 +782,11 @@ Deutsch (DE) (74.17 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/de/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (29.45 KB - PDF)
+eesti keel (ET) (51.77 KB - PDF)
 
 **First published:**
 
@@ -796,11 +794,11 @@ eesti keel (ET) (29.45 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/et/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (31.69 KB - PDF)
+ελληνικά (EL) (60.05 KB - PDF)
 
 **First published:**
 
@@ -808,11 +806,11 @@ eesti keel (ET) (29.45 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/el/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (56.07 KB - PDF)
+français (FR) (70.39 KB - PDF)
 
 **First published:**
 
@@ -820,11 +818,11 @@ français (FR) (56.07 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/fr/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (30.04 KB - PDF)
+hrvatski (HR) (54.95 KB - PDF)
 
 **First published:**
 
@@ -832,11 +830,11 @@ hrvatski (HR) (30.04 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/hr/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (29.08 KB - PDF)
+íslenska (IS) (54.08 KB - PDF)
 
 **First published:**
 
@@ -844,11 +842,11 @@ hrvatski (HR) (30.04 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/is/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (53.51 KB - PDF)
+italiano (IT) (68.21 KB - PDF)
 
 **First published:**
 
@@ -856,11 +854,11 @@ italiano (IT) (53.51 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/it/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (29.75 KB - PDF)
+latviešu valoda (LV) (56.13 KB - PDF)
 
 **First published:**
 
@@ -868,11 +866,11 @@ latviešu valoda (LV) (29.75 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/lv/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (30.17 KB - PDF)
+lietuvių kalba (LT) (58.04 KB - PDF)
 
 **First published:**
 
@@ -880,11 +878,11 @@ lietuvių kalba (LT) (30.17 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/lt/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (30.96 KB - PDF)
+magyar (HU) (58.99 KB - PDF)
 
 **First published:**
 
@@ -892,11 +890,11 @@ magyar (HU) (30.96 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/hu/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (29.93 KB - PDF)
+Malti (MT) (56.97 KB - PDF)
 
 **First published:**
 
@@ -904,11 +902,11 @@ Malti (MT) (29.93 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/mt/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (58.21 KB - PDF)
+Nederlands (NL) (55.73 KB - PDF)
 
 **First published:**
 
@@ -916,11 +914,11 @@ Nederlands (NL) (58.21 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/nl/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (55.6 KB - PDF)
+norsk (NO) (71.26 KB - PDF)
 
 **First published:**
 
@@ -928,11 +926,11 @@ norsk (NO) (55.6 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/no/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (31.08 KB - PDF)
+polski (PL) (56.95 KB - PDF)
 
 **First published:**
 
@@ -940,11 +938,11 @@ polski (PL) (31.08 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/pl/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (50.24 KB - PDF)
+português (PT) (71.08 KB - PDF)
 
 **First published:**
 
@@ -952,11 +950,11 @@ português (PT) (50.24 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/pt/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (29.39 KB - PDF)
+română (RO) (56.23 KB - PDF)
 
 **First published:**
 
@@ -964,11 +962,11 @@ română (RO) (29.39 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/ro/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (41.57 KB - PDF)
+slovenčina (SK) (58.26 KB - PDF)
 
 **First published:**
 
@@ -976,11 +974,11 @@ slovenčina (SK) (41.57 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/sk/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (28.97 KB - PDF)
+slovenščina (SL) (54.84 KB - PDF)
 
 **First published:**
 
@@ -988,11 +986,11 @@ slovenščina (SL) (28.97 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/sl/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (53.99 KB - PDF)
+Suomi (FI) (69.86 KB - PDF)
 
 **First published:**
 
@@ -1000,11 +998,11 @@ Suomi (FI) (53.99 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/fi/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (49.82 KB - PDF)
+svenska (SV) (70.39 KB - PDF)
 
 **First published:**
 
@@ -1012,7 +1010,7 @@ svenska (SV) (49.82 KB - PDF)
 
 **Last updated:**
 
-19/08/2024
+12/03/2026
 
 [View](/sv/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_sv.pdf)
 
@@ -1049,7 +1047,7 @@ Bristol-Myers Squibb / Pfizer EEIG
 
 Plaza 254
 
-Opinion adopted 17/03/2011 Marketing authorisation issued 18/05/2011 Revision 38
+Opinion adopted 17/03/2011 Marketing authorisation issued 18/05/2011 Revision 39
 
 ## Assessment history
 
@@ -1061,11 +1059,11 @@ Collapse section
 
 Eliquis : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (144.82 KB - PDF)
+English (EN) (135.35 KB - PDF)
 
 **First published:** 29/09/2025
 
-**Last updated:** 26/11/2025
+**Last updated:** 12/03/2026
 
 [View](/en/documents/procedural-steps-after/eliquis-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1295,7 +1293,7 @@ English (EN) (123.25 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-eliquis_en.pdf)
 
-#### News on Eliquis
+## News on Eliquis
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 May 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-may-2024) 31/05/2024
 
@@ -1305,185 +1303,271 @@ English (EN) (123.25 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 September 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-september-2012) 21/09/2012
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
 Eliquis : EPAR - Product information - tracked changes
 
-English (EN) (924.22 KB - DOCX)
+English (EN) (997.6 KB - DOCX)
 
 **First published:** 14/04/2025
 
+**Last updated:** 12/03/2026
+
 [View](/en/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-267)
+[Other languages (24)](#file-language-dropdown-813)
 
-български (BG) (1.1 MB - DOCX)
+български (BG) (1.12 MB - DOCX)
 
 **First published:**
 
 14/04/2025
+
+**Last updated:**
+
+12/03/2026
 
 [View](/bg/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (977.73 KB - DOCX)
+español (ES) (978.88 KB - DOCX)
 
 **First published:**
 
 14/04/2025
+
+**Last updated:**
+
+12/03/2026
 
 [View](/es/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (1016.81 KB - DOCX)
+čeština (CS) (1.02 MB - DOCX)
 
 **First published:**
 
 14/04/2025
+
+**Last updated:**
+
+12/03/2026
 
 [View](/cs/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (911.06 KB - DOCX)
+dansk (DA) (922.96 KB - DOCX)
 
 **First published:**
 
 14/04/2025
+
+**Last updated:**
+
+12/03/2026
 
 [View](/da/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (928.56 KB - DOCX)
+Deutsch (DE) (992.18 KB - DOCX)
 
 **First published:**
 
 14/04/2025
+
+**Last updated:**
+
+12/03/2026
 
 [View](/de/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (918.56 KB - DOCX)
+eesti keel (ET) (947.39 KB - DOCX)
 
 **First published:**
 
 14/04/2025
+
+**Last updated:**
+
+12/03/2026
 
 [View](/et/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (1.09 MB - DOCX)
+ελληνικά (EL) (1.11 MB - DOCX)
 
 **First published:**
 
 14/04/2025
+
+**Last updated:**
+
+12/03/2026
 
 [View](/el/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (923.05 KB - DOCX)
+français (FR) (1006.98 KB - DOCX)
 
 **First published:**
 
 14/04/2025
+
+**Last updated:**
+
+12/03/2026
 
 [View](/fr/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (1.05 MB - DOCX)
+hrvatski (HR) (1.08 MB - DOCX)
 
 **First published:**
 
 14/04/2025
+
+**Last updated:**
+
+12/03/2026
 
 [View](/hr/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (1.02 MB - DOCX)
+íslenska (IS) (1.04 MB - DOCX)
 
 **First published:**
 
 14/04/2025
+
+**Last updated:**
+
+12/03/2026
 
 [View](/is/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_is.docx)
 
-italiano (IT) (912.21 KB - DOCX)
+italiano (IT) (976.4 KB - DOCX)
 
 **First published:**
 
 14/04/2025
+
+**Last updated:**
+
+12/03/2026
 
 [View](/it/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (1.01 MB - DOCX)
+latviešu valoda (LV) (1.03 MB - DOCX)
 
 **First published:**
 
 14/04/2025
+
+**Last updated:**
+
+12/03/2026
 
 [View](/lv/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (958.51 KB - DOCX)
+lietuvių kalba (LT) (988 KB - DOCX)
 
 **First published:**
 
 14/04/2025
+
+**Last updated:**
+
+12/03/2026
 
 [View](/lt/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (1.01 MB - DOCX)
+magyar (HU) (1.08 MB - DOCX)
 
 **First published:**
 
 14/04/2025
+
+**Last updated:**
+
+12/03/2026
 
 [View](/hu/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (1.01 MB - DOCX)
+Malti (MT) (1.04 MB - DOCX)
 
 **First published:**
 
 14/04/2025
+
+**Last updated:**
+
+12/03/2026
 
 [View](/mt/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (922.04 KB - DOCX)
+Nederlands (NL) (931.64 KB - DOCX)
 
 **First published:**
 
 14/04/2025
+
+**Last updated:**
+
+12/03/2026
 
 [View](/nl/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (907.92 KB - DOCX)
+norsk (NO) (968.37 KB - DOCX)
 
 **First published:**
 
 14/04/2025
+
+**Last updated:**
+
+12/03/2026
 
 [View](/no/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_no.docx)
 
-polski (PL) (1.08 MB - DOCX)
+polski (PL) (1.07 MB - DOCX)
 
 **First published:**
 
 14/04/2025
+
+**Last updated:**
+
+12/03/2026
 
 [View](/pl/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (916.59 KB - DOCX)
+português (PT) (974.63 KB - DOCX)
 
 **First published:**
 
 14/04/2025
+
+**Last updated:**
+
+12/03/2026
 
 [View](/pt/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (1.03 MB - DOCX)
+română (RO) (1.05 MB - DOCX)
 
 **First published:**
 
 14/04/2025
+
+**Last updated:**
+
+12/03/2026
 
 [View](/ro/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (1 MB - DOCX)
+slovenčina (SK) (1.03 MB - DOCX)
 
 **First published:**
 
 14/04/2025
+
+**Last updated:**
+
+12/03/2026
 
 [View](/sk/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_sk.docx)
 
@@ -1493,25 +1577,37 @@ slovenščina (SL) (1.02 MB - DOCX)
 
 14/04/2025
 
+**Last updated:**
+
+12/03/2026
+
 [View](/sl/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (908.29 KB - DOCX)
+Suomi (FI) (984.36 KB - DOCX)
 
 **First published:**
 
 14/04/2025
+
+**Last updated:**
+
+12/03/2026
 
 [View](/fi/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (902.25 KB - DOCX)
+svenska (SV) (966.83 KB - DOCX)
 
 **First published:**
 
 14/04/2025
 
+**Last updated:**
+
+12/03/2026
+
 [View](/sv/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Eliquis
+## More information on Eliquis
 
 No change is needed in use of direct oral anticoagulants following EMA-funded study
 
@@ -1527,16 +1623,16 @@ English (EN) (160.71 KB - PDF)
 
 [View](/en/documents/opinion-any-scientific-matter/no-change-needed-use-direct-oral-anticoagulants-following-ema-funded-study_en.pdf)
 
-#### Related content
+## Related content
 
 - [Direct oral anticoagulants (DOACs) - Article 5(3) opinion](/en/human-regulatory-overview/post-authorisation/referral-procedures-human-medicines/article-53-opinions-any-scientific-matter-human-medicines)
 
-#### More information on Eliquis
+## More information on Eliquis
 
 - [EMEA-000183-PIP01-08-M08 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000183-pip01-08-m08)
 - [EMEA-000183-PIP02-12-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000183-pip02-12-m05)
-- [Treatment Patterns of newly initiated oral anticoagulants on Japanese non-vascular atrial fibrillation patients using a Japanese claims database - post-authorisation study](https://catalogues.ema.europa.eu/study/16393)
 - [Evaluating the Effectiveness of Eliquis® Additional Risk Minimization Measures in Kingdom of Saudi Arabia. - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000270)
+- [Treatment Patterns of newly initiated oral anticoagulants on Japanese non-vascular atrial fibrillation patients using a Japanese claims database - post-authorisation study](https://catalogues.ema.europa.eu/study/16393)
 - [Safety and Effectiveness of Rivaroxaban and Apixaban compared to warfarin in non-valvular atrial fibrillation patients in the routine clinical practice in the UK (SiERRA UK) - post-authorisation study](https://catalogues.ema.europa.eu/study/43877)
 - [Venous Thromboembolism Treatment (VOLT) - post-authorisation study](https://catalogues.ema.europa.eu/study/47198)
 - [Beyond Pooled - Part of the BEYOND study program (Benefit of NOACs study of non-valvular AF patients in nordic countries) (BEYOND Pooled (Denmark, Norway, Sweden)) - post-authorisation study](https://catalogues.ema.europa.eu/study/33157)
@@ -1555,11 +1651,11 @@ English (EN) (160.71 KB - PDF)
 - [Oral Anticoagulant Use in Patients with Non Valvular Atrial Fibrillation: Analysis of Electronic Medical Record Data - post-authorisation study](https://catalogues.ema.europa.eu/study/17685)
 - [Voluntary PASS non interventional study: Retrospective Observational Study of VKA and Novel Oral Anticoagulants in Patients with Non-valvular Atrial Fibrillation: - post-authorisation study](https://catalogues.ema.europa.eu/study/17533)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 26/11/2025
+**This page was last updated on** 12/03/2026
 
 ## Share this page
 

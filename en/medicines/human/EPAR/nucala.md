@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-01-26 17:15:00
+document_datetime: 2026-03-09 15:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nucala.html
 document_name: nucala.html
 version: success
-processing_time: 0.1453995
-conversion_datetime: 2026-01-29 12:24:56.051781
+processing_time: 0.1187665
+conversion_datetime: 2026-03-13 18:24:59.65814
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Nucala
 
 [RSS](/en/individual-human-medicine.xml/65966)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -122,7 +122,7 @@ English (EN) (157.41 KB - PDF)
 
 [View](/en/documents/overview/nucala-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-162)
+[Other languages (22)](#file-language-dropdown-71)
 
 български (BG) (156.26 KB - PDF)
 
@@ -390,11 +390,11 @@ svenska (SV) (109.94 KB - PDF)
 
 Nucala : EPAR - Risk management plan
 
-English (EN) (1.33 MB - PDF)
+English (EN) (2.6 MB - PDF)
 
 **First published:** 03/12/2015
 
-**Last updated:** 26/01/2026
+**Last updated:** 09/03/2026
 
 [View](/en/documents/rmp/nucala-epar-risk-management-plan_en.pdf)
 
@@ -402,17 +402,17 @@ English (EN) (1.33 MB - PDF)
 
 Nucala : EPAR - Product Information
 
-English (EN) (2.37 MB - PDF)
+English (EN) (2.42 MB - PDF)
 
 **First published:** 03/12/2015
 
-**Last updated:** 04/12/2025
+**Last updated:** 09/03/2026
 
 [View](/en/documents/product-information/nucala-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-295)
+[Other languages (24)](#file-language-dropdown-580)
 
-български (BG) (3.85 MB - PDF)
+български (BG) (2.59 MB - PDF)
 
 **First published:**
 
@@ -420,11 +420,11 @@ English (EN) (2.37 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/bg/documents/product-information/nucala-epar-product-information_bg.pdf)
 
-español (ES) (3.2 MB - PDF)
+español (ES) (2.26 MB - PDF)
 
 **First published:**
 
@@ -432,11 +432,11 @@ español (ES) (3.2 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/es/documents/product-information/nucala-epar-product-information_es.pdf)
 
-čeština (CS) (2.36 MB - PDF)
+čeština (CS) (2.42 MB - PDF)
 
 **First published:**
 
@@ -444,11 +444,11 @@ español (ES) (3.2 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/cs/documents/product-information/nucala-epar-product-information_cs.pdf)
 
-dansk (DA) (3.29 MB - PDF)
+dansk (DA) (2.34 MB - PDF)
 
 **First published:**
 
@@ -456,11 +456,11 @@ dansk (DA) (3.29 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/da/documents/product-information/nucala-epar-product-information_da.pdf)
 
-Deutsch (DE) (3.07 MB - PDF)
+Deutsch (DE) (3.35 MB - PDF)
 
 **First published:**
 
@@ -468,11 +468,11 @@ Deutsch (DE) (3.07 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/de/documents/product-information/nucala-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.94 MB - PDF)
+eesti keel (ET) (2.01 MB - PDF)
 
 **First published:**
 
@@ -480,11 +480,11 @@ eesti keel (ET) (2.94 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/et/documents/product-information/nucala-epar-product-information_et.pdf)
 
-ελληνικά (EL) (3.32 MB - PDF)
+ελληνικά (EL) (2.44 MB - PDF)
 
 **First published:**
 
@@ -492,11 +492,11 @@ eesti keel (ET) (2.94 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/el/documents/product-information/nucala-epar-product-information_el.pdf)
 
-français (FR) (3.25 MB - PDF)
+français (FR) (2.24 MB - PDF)
 
 **First published:**
 
@@ -504,11 +504,11 @@ français (FR) (3.25 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/fr/documents/product-information/nucala-epar-product-information_fr.pdf)
 
-hrvatski (HR) (3.38 MB - PDF)
+hrvatski (HR) (2.41 MB - PDF)
 
 **First published:**
 
@@ -516,11 +516,11 @@ hrvatski (HR) (3.38 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/hr/documents/product-information/nucala-epar-product-information_hr.pdf)
 
-íslenska (IS) (3.07 MB - PDF)
+íslenska (IS) (2.09 MB - PDF)
 
 **First published:**
 
@@ -528,11 +528,11 @@ hrvatski (HR) (3.38 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/is/documents/product-information/nucala-epar-product-information_is.pdf)
 
-italiano (IT) (2.59 MB - PDF)
+italiano (IT) (2.17 MB - PDF)
 
 **First published:**
 
@@ -540,11 +540,11 @@ italiano (IT) (2.59 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/it/documents/product-information/nucala-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (3.48 MB - PDF)
+latviešu valoda (LV) (2.64 MB - PDF)
 
 **First published:**
 
@@ -552,11 +552,11 @@ latviešu valoda (LV) (3.48 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/lv/documents/product-information/nucala-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (3.36 MB - PDF)
+lietuvių kalba (LT) (2.33 MB - PDF)
 
 **First published:**
 
@@ -564,11 +564,11 @@ lietuvių kalba (LT) (3.36 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/lt/documents/product-information/nucala-epar-product-information_lt.pdf)
 
-magyar (HU) (2.84 MB - PDF)
+magyar (HU) (2.31 MB - PDF)
 
 **First published:**
 
@@ -576,11 +576,11 @@ magyar (HU) (2.84 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/hu/documents/product-information/nucala-epar-product-information_hu.pdf)
 
-Malti (MT) (3.13 MB - PDF)
+Malti (MT) (2.7 MB - PDF)
 
 **First published:**
 
@@ -588,11 +588,11 @@ Malti (MT) (3.13 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/mt/documents/product-information/nucala-epar-product-information_mt.pdf)
 
-Nederlands (NL) (3.12 MB - PDF)
+Nederlands (NL) (2.15 MB - PDF)
 
 **First published:**
 
@@ -600,11 +600,11 @@ Nederlands (NL) (3.12 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/nl/documents/product-information/nucala-epar-product-information_nl.pdf)
 
-norsk (NO) (3.26 MB - PDF)
+norsk (NO) (2.24 MB - PDF)
 
 **First published:**
 
@@ -612,11 +612,11 @@ norsk (NO) (3.26 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/no/documents/product-information/nucala-epar-product-information_no.pdf)
 
-polski (PL) (2.19 MB - PDF)
+polski (PL) (2.29 MB - PDF)
 
 **First published:**
 
@@ -624,11 +624,11 @@ polski (PL) (2.19 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/pl/documents/product-information/nucala-epar-product-information_pl.pdf)
 
-português (PT) (3.21 MB - PDF)
+português (PT) (2.39 MB - PDF)
 
 **First published:**
 
@@ -636,11 +636,11 @@ português (PT) (3.21 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/pt/documents/product-information/nucala-epar-product-information_pt.pdf)
 
-română (RO) (2.11 MB - PDF)
+română (RO) (2.24 MB - PDF)
 
 **First published:**
 
@@ -648,11 +648,11 @@ română (RO) (2.11 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/ro/documents/product-information/nucala-epar-product-information_ro.pdf)
 
-slovenčina (SK) (3.7 MB - PDF)
+slovenčina (SK) (2.52 MB - PDF)
 
 **First published:**
 
@@ -660,11 +660,11 @@ slovenčina (SK) (3.7 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/sk/documents/product-information/nucala-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.2 MB - PDF)
+slovenščina (SL) (2.32 MB - PDF)
 
 **First published:**
 
@@ -672,11 +672,11 @@ slovenščina (SL) (2.2 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/sl/documents/product-information/nucala-epar-product-information_sl.pdf)
 
-Suomi (FI) (3.24 MB - PDF)
+Suomi (FI) (2.31 MB - PDF)
 
 **First published:**
 
@@ -684,11 +684,11 @@ Suomi (FI) (3.24 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/fi/documents/product-information/nucala-epar-product-information_fi.pdf)
 
-svenska (SV) (2.33 MB - PDF)
+svenska (SV) (2.4 MB - PDF)
 
 **First published:**
 
@@ -696,11 +696,11 @@ svenska (SV) (2.33 MB - PDF)
 
 **Last updated:**
 
-04/12/2025
+09/03/2026
 
 [View](/sv/documents/product-information/nucala-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000268143 20/11/2025
+**Latest procedure affecting product information:** VR/0000257645 04/02/2026
 
 icon globe
 
@@ -726,7 +726,7 @@ English (EN) (80.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nucala-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-581)
+[Other languages (24)](#file-language-dropdown-690)
 
 български (BG) (78.59 KB - PDF)
 
@@ -1042,7 +1042,7 @@ GlaxoSmithKline Trading Services Limited
 
 12 Riverwalk Citywest Business Campus Dublin 24 D24 YK11 Ireland
 
-Opinion adopted 23/09/2015 Marketing authorisation issued 01/12/2015 Revision 25
+Opinion adopted 23/09/2015 Marketing authorisation issued 01/12/2015 Revision 26
 
 ## Assessment history
 
@@ -1051,6 +1051,14 @@ Expand section
 Collapse section
 
 ## Changes since initial authorisation of medicine
+
+Nucala : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (161.08 KB - PDF)
+
+**First published:** 09/03/2026
+
+[View](/en/documents/procedural-steps-after/nucala-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Nucala : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
@@ -1061,6 +1069,30 @@ English (EN) (231.35 KB - PDF)
 **Last updated:** 04/12/2025
 
 [View](/en/documents/procedural-steps-after/nucala-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Nucala-VR-0000257645 : EPAR - Assessment report - Variation
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2683842
+
+English (EN) (22.59 MB - PDF)
+
+**First published:** 09/03/2026
+
+[View](/en/documents/variation-report/nucala-vr-0000257645-epar-assessment-report-variation_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Nucala (EMAVR0000257645)
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2707697
+
+English (EN) (135.51 KB - PDF)
+
+**First published:** 12/12/2025
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-nucala-emavr0000257645_en.pdf)
 
 Nucala-H-C-003860-P46-020 : EPAR - Assessment report
 
@@ -1284,7 +1316,7 @@ English (EN) (67.37 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-nucala_en.pdf)
 
-#### News on Nucala
+## News on Nucala
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 8-11 December 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-8-11-december-2025) 12/12/2025
 
@@ -1296,14 +1328,13 @@ English (EN) (67.37 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 September 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-september-2015) 25/09/2015
 
-#### More information on Nucala
+## More information on Nucala
 
 - [EMEA-000069-PIP01-07-M09 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000069-pip01-07-m09)
 - [EMEA-000069-PIP02-10-M08 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000069-pip02-10-m08)
 - [EMEA-000069-PIP05-16 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000069-pip05-16)
 - [Nucala - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/nucala)
 - [Nucala - supply shortage](/en/medicines/human/shortages/nucala)
-- [Nucala - opinion on variation to marketing authorisation](/en/medicines/human/variation/nucala)
 - [Impact of biologics on inhaled corticosteroids reduction (MOON LIGHT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000855)
 - [Sustainability of response to biologics in severe asthma and predictors of late failure among patients in an international registry (SHINE) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000788)
 - [Assessing the impact of remission at 12-months post-initiation of biologic therapy on long-term clinical outcomes of patients with severe asthma (SPOTLIGHT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000789)
@@ -1312,11 +1343,11 @@ English (EN) (67.37 KB - PDF)
 - [Associations between biological and clinical response following treatment with anti-IL5/5R biologics (FLAME) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000531)
 - [Nucala Subcutaneous Injection Special Drug Use Investigation (Long-Term) (204524) - post-authorisation study](https://catalogues.ema.europa.eu/study/38541)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 26/01/2026
+**This page was last updated on** 09/03/2026
 
 ## Share this page
 

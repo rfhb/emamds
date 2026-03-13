@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 09:25:11
+document_datetime: 2026-03-12 17:14:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/quviviq.html
 document_name: quviviq.html
 version: success
-processing_time: 0.1107205
-conversion_datetime: 2025-12-31 02:04:48.350667
+processing_time: 0.0962854
+conversion_datetime: 2026-03-13 19:29:04.240759
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Quviviq
 
 [RSS](/en/individual-human-medicine.xml/67558)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 daridorexant Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -102,7 +100,7 @@ English (EN) (104.23 KB - PDF)
 
 [View](/en/documents/overview/quviviq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-997)
+[Other languages (22)](#file-language-dropdown-584)
 
 български (BG) (145.65 KB - PDF)
 
@@ -292,17 +290,17 @@ English (EN) (178.28 KB - PDF)
 
 Quviviq : EPAR - Product information
 
-English (EN) (255.32 KB - PDF)
+English (EN) (260.42 KB - PDF)
 
 **First published:** 03/05/2022
 
-**Last updated:** 30/04/2025
+**Last updated:** 12/03/2026
 
 [View](/en/documents/product-information/quviviq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-691)
+[Other languages (24)](#file-language-dropdown-543)
 
-български (BG) (603.31 KB - PDF)
+български (BG) (757.56 KB - PDF)
 
 **First published:**
 
@@ -310,11 +308,11 @@ English (EN) (255.32 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/bg/documents/product-information/quviviq-epar-product-information_bg.pdf)
 
-español (ES) (589.54 KB - PDF)
+español (ES) (597.14 KB - PDF)
 
 **First published:**
 
@@ -322,11 +320,11 @@ español (ES) (589.54 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/es/documents/product-information/quviviq-epar-product-information_es.pdf)
 
-čeština (CS) (587.03 KB - PDF)
+čeština (CS) (725.19 KB - PDF)
 
 **First published:**
 
@@ -334,11 +332,11 @@ español (ES) (589.54 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/cs/documents/product-information/quviviq-epar-product-information_cs.pdf)
 
-dansk (DA) (396.94 KB - PDF)
+dansk (DA) (394.11 KB - PDF)
 
 **First published:**
 
@@ -346,11 +344,11 @@ dansk (DA) (396.94 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/da/documents/product-information/quviviq-epar-product-information_da.pdf)
 
-Deutsch (DE) (465.53 KB - PDF)
+Deutsch (DE) (463.1 KB - PDF)
 
 **First published:**
 
@@ -358,11 +356,11 @@ Deutsch (DE) (465.53 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/de/documents/product-information/quviviq-epar-product-information_de.pdf)
 
-eesti keel (ET) (586.43 KB - PDF)
+eesti keel (ET) (617.77 KB - PDF)
 
 **First published:**
 
@@ -370,11 +368,11 @@ eesti keel (ET) (586.43 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/et/documents/product-information/quviviq-epar-product-information_et.pdf)
 
-ελληνικά (EL) (737.83 KB - PDF)
+ελληνικά (EL) (852.8 KB - PDF)
 
 **First published:**
 
@@ -382,11 +380,11 @@ eesti keel (ET) (586.43 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/el/documents/product-information/quviviq-epar-product-information_el.pdf)
 
-français (FR) (771.12 KB - PDF)
+français (FR) (789.31 KB - PDF)
 
 **First published:**
 
@@ -394,11 +392,11 @@ français (FR) (771.12 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/fr/documents/product-information/quviviq-epar-product-information_fr.pdf)
 
-hrvatski (HR) (609.35 KB - PDF)
+hrvatski (HR) (717.9 KB - PDF)
 
 **First published:**
 
@@ -406,11 +404,11 @@ hrvatski (HR) (609.35 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/hr/documents/product-information/quviviq-epar-product-information_hr.pdf)
 
-íslenska (IS) (589.18 KB - PDF)
+íslenska (IS) (596.79 KB - PDF)
 
 **First published:**
 
@@ -418,11 +416,11 @@ hrvatski (HR) (609.35 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/is/documents/product-information/quviviq-epar-product-information_is.pdf)
 
-italiano (IT) (594.54 KB - PDF)
+italiano (IT) (601.79 KB - PDF)
 
 **First published:**
 
@@ -430,11 +428,11 @@ italiano (IT) (594.54 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/it/documents/product-information/quviviq-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (551.35 KB - PDF)
+latviešu valoda (LV) (717.31 KB - PDF)
 
 **First published:**
 
@@ -442,11 +440,11 @@ latviešu valoda (LV) (551.35 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/lv/documents/product-information/quviviq-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (572.64 KB - PDF)
+lietuvių kalba (LT) (685.7 KB - PDF)
 
 **First published:**
 
@@ -454,11 +452,11 @@ lietuvių kalba (LT) (572.64 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/lt/documents/product-information/quviviq-epar-product-information_lt.pdf)
 
-magyar (HU) (595.15 KB - PDF)
+magyar (HU) (678.48 KB - PDF)
 
 **First published:**
 
@@ -466,11 +464,11 @@ magyar (HU) (595.15 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/hu/documents/product-information/quviviq-epar-product-information_hu.pdf)
 
-Malti (MT) (587.37 KB - PDF)
+Malti (MT) (682.51 KB - PDF)
 
 **First published:**
 
@@ -478,11 +476,11 @@ Malti (MT) (587.37 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/mt/documents/product-information/quviviq-epar-product-information_mt.pdf)
 
-Nederlands (NL) (398.66 KB - PDF)
+Nederlands (NL) (395.15 KB - PDF)
 
 **First published:**
 
@@ -490,11 +488,11 @@ Nederlands (NL) (398.66 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/nl/documents/product-information/quviviq-epar-product-information_nl.pdf)
 
-norsk (NO) (580.35 KB - PDF)
+norsk (NO) (587.12 KB - PDF)
 
 **First published:**
 
@@ -502,11 +500,11 @@ norsk (NO) (580.35 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/no/documents/product-information/quviviq-epar-product-information_no.pdf)
 
-polski (PL) (573.46 KB - PDF)
+polski (PL) (668.19 KB - PDF)
 
 **First published:**
 
@@ -514,11 +512,11 @@ polski (PL) (573.46 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/pl/documents/product-information/quviviq-epar-product-information_pl.pdf)
 
-português (PT) (652.71 KB - PDF)
+português (PT) (659.72 KB - PDF)
 
 **First published:**
 
@@ -526,11 +524,11 @@ português (PT) (652.71 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/pt/documents/product-information/quviviq-epar-product-information_pt.pdf)
 
-română (RO) (566.05 KB - PDF)
+română (RO) (703.13 KB - PDF)
 
 **First published:**
 
@@ -538,11 +536,11 @@ română (RO) (566.05 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/ro/documents/product-information/quviviq-epar-product-information_ro.pdf)
 
-slovenčina (SK) (618.84 KB - PDF)
+slovenčina (SK) (753.86 KB - PDF)
 
 **First published:**
 
@@ -550,11 +548,11 @@ slovenčina (SK) (618.84 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/sk/documents/product-information/quviviq-epar-product-information_sk.pdf)
 
-slovenščina (SL) (686.12 KB - PDF)
+slovenščina (SL) (796.44 KB - PDF)
 
 **First published:**
 
@@ -562,11 +560,11 @@ slovenščina (SL) (686.12 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/sl/documents/product-information/quviviq-epar-product-information_sl.pdf)
 
-Suomi (FI) (571.97 KB - PDF)
+Suomi (FI) (579.08 KB - PDF)
 
 **First published:**
 
@@ -574,11 +572,11 @@ Suomi (FI) (571.97 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/fi/documents/product-information/quviviq-epar-product-information_fi.pdf)
 
-svenska (SV) (258.16 KB - PDF)
+svenska (SV) (253.62 KB - PDF)
 
 **First published:**
 
@@ -586,11 +584,11 @@ svenska (SV) (258.16 KB - PDF)
 
 **Last updated:**
 
-30/04/2025
+12/03/2026
 
 [View](/sv/documents/product-information/quviviq-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000263355 28/04/2025
+**Latest procedure affecting product information:** VR/0000335013 12/03/2026
 
 icon globe
 
@@ -616,7 +614,7 @@ English (EN) (43.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/quviviq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-889)
+[Other languages (24)](#file-language-dropdown-472)
 
 български (BG) (54.79 KB - PDF)
 
@@ -932,7 +930,7 @@ Idorsia Pharmaceuticals Deutschland GmbH
 
 Marie-Curie-Strasse 8
 
-Opinion adopted 24/02/2022 Marketing authorisation issued 29/04/2022 Revision 10
+Opinion adopted 24/02/2022 Marketing authorisation issued 29/04/2022 Revision 11
 
 ## Assessment history
 
@@ -944,9 +942,11 @@ Collapse section
 
 Quviviq : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (124.53 KB - PDF)
+English (EN) (148.57 KB - PDF)
 
 **First published:** 30/04/2025
+
+**Last updated:** 12/03/2026
 
 [View](/en/documents/procedural-steps-after/quviviq-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -996,18 +996,19 @@ English (EN) (3.47 MB - PDF)
 
 [View](/en/documents/assessment-report/quviviq-epar-public-assessment-report_en.pdf)
 
-#### News on Quviviq
+## News on Quviviq
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 February 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-february-2022) 25/02/2022
 
-#### More information on Quviviq
+## More information on Quviviq
 
 - [EMEA-002121-PIP03-19-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002121-pip03-19-m02)
+- [Retrospective, non-interventional, multicenter study on the effectiveness and safety of QUVIVIQ in patients with insomnia disorder and comorbid restless legs syndrome. - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000859)
+- [Post-authorization observational study on the use of QUVIVIQ in standard clinical setting for the treatment of Chronic Insomnia in France - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000363)
 - [QUVIVIQ® Pregnancy Registry (ID-078A403) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000033)
 - [Retrospective, non-interventional multicenter study on the effect of QUVIVIQ in patients with insomnia disorder with comorbid anxiety and/or depression disorders - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000594)
-- [Post-authorization observational study on the use of QUVIVIQ in standard clinical setting for the treatment of Chronic Insomnia in France - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000363)
 
-**This page was last updated on** 30/04/2025
+**This page was last updated on** 12/03/2026
 
 ## Share this page
 

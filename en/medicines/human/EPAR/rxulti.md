@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 12:36:42
+document_datetime: 2026-03-12 10:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rxulti.html
 document_name: rxulti.html
 version: success
-processing_time: 0.1165177
-conversion_datetime: 2025-12-30 09:21:53.875135
+processing_time: 0.101012
+conversion_datetime: 2026-03-13 18:31:07.556146
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Rxulti
 
 [RSS](/en/individual-human-medicine.xml/66151)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 brexpiprazole Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +117,7 @@ English (EN) (101.65 KB - PDF)
 
 [View](/en/documents/overview/rxulti-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-76)
+[Other languages (22)](#file-language-dropdown-658)
 
 български (BG) (142.82 KB - PDF)
 
@@ -399,17 +397,17 @@ English (EN) (10.49 MB - PDF)
 
 Rxulti : EPAR - Product Information
 
-English (EN) (425.83 KB - PDF)
+English (EN) (519.88 KB - PDF)
 
 **First published:** 26/11/2018
 
-**Last updated:** 04/04/2025
+**Last updated:** 12/03/2026
 
 [View](/en/documents/product-information/rxulti-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-649)
+[Other languages (24)](#file-language-dropdown-368)
 
-български (BG) (581.07 KB - PDF)
+български (BG) (584.34 KB - PDF)
 
 **First published:**
 
@@ -417,11 +415,11 @@ English (EN) (425.83 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/bg/documents/product-information/rxulti-epar-product-information_bg.pdf)
 
-español (ES) (534.92 KB - PDF)
+español (ES) (523.99 KB - PDF)
 
 **First published:**
 
@@ -429,11 +427,11 @@ español (ES) (534.92 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/es/documents/product-information/rxulti-epar-product-information_es.pdf)
 
-čeština (CS) (536.4 KB - PDF)
+čeština (CS) (551.69 KB - PDF)
 
 **First published:**
 
@@ -441,11 +439,11 @@ español (ES) (534.92 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/cs/documents/product-information/rxulti-epar-product-information_cs.pdf)
 
-dansk (DA) (570.54 KB - PDF)
+dansk (DA) (555.17 KB - PDF)
 
 **First published:**
 
@@ -453,11 +451,11 @@ dansk (DA) (570.54 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/da/documents/product-information/rxulti-epar-product-information_da.pdf)
 
-Deutsch (DE) (523.75 KB - PDF)
+Deutsch (DE) (527.11 KB - PDF)
 
 **First published:**
 
@@ -465,11 +463,11 @@ Deutsch (DE) (523.75 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/de/documents/product-information/rxulti-epar-product-information_de.pdf)
 
-eesti keel (ET) (520.46 KB - PDF)
+eesti keel (ET) (522.86 KB - PDF)
 
 **First published:**
 
@@ -477,11 +475,11 @@ eesti keel (ET) (520.46 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/et/documents/product-information/rxulti-epar-product-information_et.pdf)
 
-ελληνικά (EL) (629.31 KB - PDF)
+ελληνικά (EL) (613.88 KB - PDF)
 
 **First published:**
 
@@ -489,11 +487,11 @@ eesti keel (ET) (520.46 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/el/documents/product-information/rxulti-epar-product-information_el.pdf)
 
-français (FR) (512.67 KB - PDF)
+français (FR) (521.39 KB - PDF)
 
 **First published:**
 
@@ -501,11 +499,11 @@ français (FR) (512.67 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/fr/documents/product-information/rxulti-epar-product-information_fr.pdf)
 
-hrvatski (HR) (544.87 KB - PDF)
+hrvatski (HR) (553.3 KB - PDF)
 
 **First published:**
 
@@ -513,11 +511,11 @@ hrvatski (HR) (544.87 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/hr/documents/product-information/rxulti-epar-product-information_hr.pdf)
 
-íslenska (IS) (508.63 KB - PDF)
+íslenska (IS) (521.7 KB - PDF)
 
 **First published:**
 
@@ -525,11 +523,11 @@ hrvatski (HR) (544.87 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/is/documents/product-information/rxulti-epar-product-information_is.pdf)
 
-italiano (IT) (521.22 KB - PDF)
+italiano (IT) (578.7 KB - PDF)
 
 **First published:**
 
@@ -537,11 +535,11 @@ italiano (IT) (521.22 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/it/documents/product-information/rxulti-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (524.4 KB - PDF)
+latviešu valoda (LV) (582.57 KB - PDF)
 
 **First published:**
 
@@ -549,11 +547,11 @@ latviešu valoda (LV) (524.4 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/lv/documents/product-information/rxulti-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (552.65 KB - PDF)
+lietuvių kalba (LT) (572.09 KB - PDF)
 
 **First published:**
 
@@ -561,11 +559,11 @@ lietuvių kalba (LT) (552.65 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/lt/documents/product-information/rxulti-epar-product-information_lt.pdf)
 
-magyar (HU) (598.12 KB - PDF)
+magyar (HU) (609.54 KB - PDF)
 
 **First published:**
 
@@ -573,11 +571,11 @@ magyar (HU) (598.12 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/hu/documents/product-information/rxulti-epar-product-information_hu.pdf)
 
-Malti (MT) (612.66 KB - PDF)
+Malti (MT) (613.92 KB - PDF)
 
 **First published:**
 
@@ -585,11 +583,11 @@ Malti (MT) (612.66 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/mt/documents/product-information/rxulti-epar-product-information_mt.pdf)
 
-Nederlands (NL) (554.03 KB - PDF)
+Nederlands (NL) (573.59 KB - PDF)
 
 **First published:**
 
@@ -597,11 +595,11 @@ Nederlands (NL) (554.03 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/nl/documents/product-information/rxulti-epar-product-information_nl.pdf)
 
-norsk (NO) (452.41 KB - PDF)
+norsk (NO) (546.59 KB - PDF)
 
 **First published:**
 
@@ -609,11 +607,11 @@ norsk (NO) (452.41 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/no/documents/product-information/rxulti-epar-product-information_no.pdf)
 
-polski (PL) (519.12 KB - PDF)
+polski (PL) (623.1 KB - PDF)
 
 **First published:**
 
@@ -621,11 +619,11 @@ polski (PL) (519.12 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/pl/documents/product-information/rxulti-epar-product-information_pl.pdf)
 
-português (PT) (515.93 KB - PDF)
+português (PT) (525.97 KB - PDF)
 
 **First published:**
 
@@ -633,11 +631,11 @@ português (PT) (515.93 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/pt/documents/product-information/rxulti-epar-product-information_pt.pdf)
 
-română (RO) (578.39 KB - PDF)
+română (RO) (577.32 KB - PDF)
 
 **First published:**
 
@@ -645,11 +643,11 @@ română (RO) (578.39 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/ro/documents/product-information/rxulti-epar-product-information_ro.pdf)
 
-slovenčina (SK) (569.12 KB - PDF)
+slovenčina (SK) (586.57 KB - PDF)
 
 **First published:**
 
@@ -657,11 +655,11 @@ slovenčina (SK) (569.12 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/sk/documents/product-information/rxulti-epar-product-information_sk.pdf)
 
-slovenščina (SL) (475.43 KB - PDF)
+slovenščina (SL) (567.02 KB - PDF)
 
 **First published:**
 
@@ -669,11 +667,11 @@ slovenščina (SL) (475.43 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/sl/documents/product-information/rxulti-epar-product-information_sl.pdf)
 
-Suomi (FI) (505.79 KB - PDF)
+Suomi (FI) (503.92 KB - PDF)
 
 **First published:**
 
@@ -681,11 +679,11 @@ Suomi (FI) (505.79 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/fi/documents/product-information/rxulti-epar-product-information_fi.pdf)
 
-svenska (SV) (500.96 KB - PDF)
+svenska (SV) (519.68 KB - PDF)
 
 **First published:**
 
@@ -693,11 +691,11 @@ svenska (SV) (500.96 KB - PDF)
 
 **Last updated:**
 
-04/04/2025
+12/03/2026
 
 [View](/sv/documents/product-information/rxulti-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0015 07/03/2025
+**Latest procedure affecting product information:** VR/0000307490 15/01/2025
 
 icon globe
 
@@ -723,7 +721,7 @@ English (EN) (19.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rxulti-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-817)
+[Other languages (24)](#file-language-dropdown-125)
 
 български (BG) (42.94 KB - PDF)
 
@@ -1031,9 +1029,9 @@ EMA product number EMEA/H/C/003841 Marketing authorisation holder
 
 Otsuka Pharmaceutical Netherlands B.V.
 
-Herikerbergweg 292
+Herikerbergweg 292 1101 CT Amsterdam Netherlands
 
-Opinion adopted 30/05/2018 Marketing authorisation issued 26/07/2018 Revision 7
+Opinion adopted 30/05/2018 Marketing authorisation issued 26/07/2018 Revision 8
 
 ## Assessment history
 
@@ -1045,13 +1043,33 @@ Collapse section
 
 Rxulti : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (124.61 KB - PDF)
+
+**First published:** 12/03/2026
+
+[View](/en/documents/procedural-steps-after/rxulti-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Rxulti : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (144.83 KB - PDF)
 
 **First published:** 10/01/2019
 
-**Last updated:** 04/04/2025
+**Last updated:** 12/03/2026
 
-[View](/en/documents/procedural-steps-after/rxulti-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/rxulti-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Rxulti-VR-0000307490 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2988413
+
+English (EN) (1.99 MB - PDF)
+
+**First published:** 12/03/2026
+
+[View](/en/documents/variation-report/rxulti-vr-0000307490-epar-assessment-report_en.pdf)
 
 Rxulti-H-C-003841-II-0015 : EPAR - Assessment report - Variation
 
@@ -1129,21 +1147,21 @@ English (EN) (102.37 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-rxulti_en.pdf)
 
-#### News on Rxulti
+## News on Rxulti
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 January 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-january-2025) 31/01/2025
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-31 May 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-31-may-2018) 01/06/2018
 
-#### More information on Rxulti
+## More information on Rxulti
 
 - [EMA/PE/0000183866 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000183866)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 04/04/2025
+**This page was last updated on** 12/03/2026
 
 ## Share this page
 

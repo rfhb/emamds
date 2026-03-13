@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-26 16:03:00
+document_datetime: 2026-03-12 12:12:42
 document_pages: 185
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/eliquis-epar-product-information_en.pdf
 document_name: eliquis-epar-product-information_en.pdf
 version: success
-processing_time: 58.1369983
-conversion_datetime: 2025-12-24 07:08:20.6197
+processing_time: 72.987278
+conversion_datetime: 2026-03-13 19:25:05.998839
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -84,7 +84,9 @@ The recommended dose of apixaban is 2.5 mg taken orally twice daily in patients 
 
 Therapy should be continued long-term.
 
-Treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt) in adults The recommended dose of apixaban for the treatment of acute DVT and treatment of PE is 10 mg taken orally twice daily for the first 7 days followed by 5 mg taken orally twice daily. As per available medical guidelines, short duration of treatment (at least 3 months) should be based on transient risk factors (e.g., recent surgery, trauma, immobilisation).
+## Treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt) in adults
+
+The recommended dose of apixaban for the treatment of acute DVT and treatment of PE is 10 mg taken orally twice daily for the first 7 days followed by 5 mg taken orally twice daily. As per available medical guidelines, short duration of treatment (at least 3 months) should be based on transient risk factors (e.g., recent surgery, trauma, immobilisation).
 
 The recommended dose of apixaban for the prevention of recurrent DVT and PE is 2.5 mg taken orally twice daily. When prevention of recurrent DVT and PE is indicated, the 2.5 mg twice daily dose should be initiated following completion of 6 months of treatment with apixaban 5 mg twice daily or with another anticoagulant, as indicated in Table 1 below (see also section 5.1).
 
@@ -137,9 +139,9 @@ No data are available for paediatric patients.
 
 ## Elderly
 
-VTEp and VTEt -No dose adjustment required (see sections 4.4 and 5.2).
+VTEp and VTEt - No dose adjustment required (see sections 4.4 and 5.2).
 
-NVAF -No dose adjustment required, unless criteria for dose reduction are met (see Dose reduction at the beginning of section 4.2).
+NVAF - No dose adjustment required, unless criteria for dose reduction are met (see Dose reduction at the beginning of section 4.2).
 
 ## Renal impairment
 
@@ -384,7 +386,7 @@ Clotting tests [e.g., prothrombin time (PT), INR, and activated partial thrombop
 
 ## Information about excipients
 
-Eliquis contains lactose. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product. This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ' sodium-free ' .
+Eliquis contains lactose. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product. This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -570,7 +572,7 @@ Table 3: Tabulated adverse reactions
 
 * There were no occurrences of generalised pruritus in CV185057 (long term prevention of VTE).
 
-† The term 'Brain haemorrhage' encompasses all intracranial or intraspinal haemorrhages (i .e., haemorrhagic stroke or putamen, cerebellar, intraventricular, or subdural haemorrhages).
+†  The term 'Brain haemorrhage' encompasses all intracranial or intraspinal haemorrhages (i.e., haemorrhagic stroke or putamen, cerebellar, intraventricular, or subdural haemorrhages).
 
 ‡ Includes anaphylactic reaction, drug hypersensitivity, and hypersensitivity.
 
@@ -719,9 +721,9 @@ Table 6: Bleeding results from pivotal phase III studies*
 
 * All the bleeding criteria included surgical site bleeding
 
-1  Includes events occurring after first dose of enoxaparin (pre-surgery)
+1 Includes events occurring after first dose of enoxaparin (pre-surgery)
 
-2  Includes events occurring after first dose of apixaban (post-surgery)
+2 Includes events occurring after first dose of apixaban (post-surgery)
 
 The overall incidences of adverse reactions of bleeding, anaemia and abnormalities of transaminases (e.g., ALT levels) were numerically lower in patients on apixaban compared to enoxaparin in the phase II and phase III studies in elective hip and knee replacement surgery.
 
@@ -747,9 +749,9 @@ In the study, apixaban achieved statistically significant superiority in the pri
 
 Table 7: Efficacy outcomes in patients with atrial fibrillation in the ARISTOTLE study
 
-|                             | Apixaban N = 9,120 n (%/yr)   | Warfarin N = 9,081 n (%/yr)   | Hazard ratio (95% CI)   | p-value   |
+|                             | Apixaban N = 9,120 n (%/yr)   | Warfarin N = 9,081 n (%/yr)   | Hazard ratio (95% CI)   |   p-value |
 |-----------------------------|-------------------------------|-------------------------------|-------------------------|-----------|
-| Stroke or systemic embolism | 212 (1.27)                    | 265 (1.60)                    | 0.79 (0.66, 0.95)       | 0.0114    |
+| Stroke or systemic embolism | 212 (1.27)                    | 265 (1.60)                    | 0.79 (0.66, 0.95)       |    0.0114 |
 | Stroke                      |                               |                               |                         |           |
 | Ischaemic or unspecified    | 162 (0.97)                    | 175 (1.05)                    | 0.92 (0.74, 1.13)       |           |
 | Haemorrhagic                | 40 (0.24)                     | 78 (0.47)                     | 0.51 (0.35, 0.75)       |           |
@@ -774,10 +776,6 @@ Table 8: Secondary endpoints in patients with atrial fibrillation in the ARISTOT
 | Other endpoints       | Other endpoints                 | Other endpoints                 | Other endpoints         | Other endpoints   |
 | All-cause death       | 603 (3.52)                      | 669 (3.94)                      | 0.89 (0.80, 1.00)       | 0.0465            |
 | Myocardial infarction | 90 (0.53)                       | 102 (0.61)                      | 0.88 (0.66, 1.17)       |                   |
-
-* Major bleeding defined per International Society on Thrombosis and Haemostasis (ISTH) criteria.
-
-† Clinically Relevant Non -Major
 
 The overall discontinuation rate due to adverse reactions was 1.8% for apixaban and 2.6% for warfarin in the ARISTOTLE study.
 
@@ -815,23 +813,19 @@ Table 9: Key efficacy outcomes in patients with atrial fibrillation in the AVERR
 | Vascular death                                      | 84 (2.65)                       | 96 (3.03)                  | 0.87 (0.65, 1.17)       |           |
 | All-cause death †                                   | 111 (3.51)                      | 140 (4.42)                 | 0.79 (0.62, 1.02)       | 0.068     |
 
-* Assessed by sequential testing strategy designed to control the overall type I error in the trial.
-
-† Secondary endpoint.
-
 There was no statistically significant difference in the incidence of major bleeding between apixaban and ASA (see Table 10).
 
 <div style=\"page-break-after: always\"></div>
 
 Table 10: Bleeding events in patients with atrial fibrillation in the AVERROES study
 
-|                 | Apixaban N = 2,798 n (%/year)   | ASA N = 2,780 n (%/year)   | Hazard ratio (95% CI)   | p-value   |
+|                 | Apixaban N = 2,798 n (%/year)   | ASA N = 2,780 n (%/year)   | Hazard ratio (95% CI)   |   p-value |
 |-----------------|---------------------------------|----------------------------|-------------------------|-----------|
-| Major*          | 45 (1.41)                       | 29 (0.92)                  | 1.54 (0.96, 2.45)       | 0.0716    |
+| Major*          | 45 (1.41)                       | 29 (0.92)                  | 1.54 (0.96, 2.45)       |    0.0716 |
 | Fatal, n        | 5 (0.16)                        | 5 (0.16)                   |                         |           |
 | Intracranial, n | 11 (0.34)                       | 11 (0.35)                  |                         |           |
-| Major + CRNM†   | 140 (4.46)                      | 101 (3.24)                 | 1.38 (1.07, 1.78)       | 0.0144    |
-| All             | 325 (10.85)                     | 250 (8.32)                 | 1.30 (1.10, 1.53)       | 0.0017    |
+| Major + CRNM†   | 140 (4.46)                      | 101 (3.24)                 | 1.38 (1.07, 1.78)       |    0.0144 |
+| All             | 325 (10.85)                     | 250 (8.32)                 | 1.30 (1.10, 1.53)       |    0.0017 |
 
 *Major bleeding defined per International Society on Thrombosis and Haemostasis (ISTH) criteria.
 
@@ -894,8 +888,6 @@ Table 11: Efficacy results in the AMPLIFY study
 | VTE or all-cause death                    | 84 (3.2)                   | 104 (4.0)                             | 0.82 (0.61, 1.08)        |
 | VTE or CV-related death                   | 61 (2.3)                   | 77 (2.9)                              | 0.80 (0.57, 1.11)        |
 | VTE, VTE-related death, or major bleeding | 73 (2.8)                   | 118 (4.5)                             | 0.62 (0.47, 0.83)        |
-
-* Noninferior compared to enoxaparin/warfarin (p-value &lt; 0.0001)
 
 Apixaban efficacy in initial treatment of VTE was consistent between patients who were treated for a PE [Relative Risk 0.9; 95% CI (0.5, 1.6)] or DVT [Relative Risk 0.8; 95% CI (0.5, 1.3)]. Efficacy across subgroups, including age, gender, body mass index (BMI), renal function, extent of index PE, location of DVT thrombus, and prior parenteral heparin use was generally consistent.
 
@@ -1074,7 +1066,7 @@ There was no impact of impaired renal function on peak concentration of apixaban
 
 In subjects with end-stage renal disease (ESRD), the AUC of apixaban was increased by 36% when a single dose of apixaban 5 mg was administered immediately after haemodialysis, compared to that seen in subjects with normal renal function. Haemodialysis, started two hours after administration of a single dose of apixaban 5 mg, decreased apixaban AUC by 14% in these ESRD subjects, corresponding to an apixaban dialysis clearance of 18 mL/min. Therefore, haemodialysis is unlikely to be an effective means of managing apixaban overdose.
 
-In paediatric patients ≥ 2 years of age, severe renal impairment is defined as an estimated glomerular filtration rate (eGFR) less than 30 mL/min/1.73 m 2 body surface area (BSA). In Study CV185325, in patients less than 2 years of age, the thresholds defining severe renal impairment by sex and post-natal age are summarized in Table 17 below; each corresponds to an eGFR &lt; 30 mL/min/1.73 m 2  BSA for patients ≥ 2 years of age.
+In paediatric patients ≥ 2 years of age, severe renal impairment is defined as an estimated glomerular filtration rate (eGFR) less than 30 mL/min/1.73 m 2 body surface area (BSA). In Study CV185325, in patients less than 2 years of age, the thresholds defining severe renal impairment by sex and post-natal age are summarized in Table 17 below; each corresponds to an eGFR &lt; 30 mL/min/1.73 m 2 BSA for patients ≥ 2 years of age.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1083,15 +1075,15 @@ Table 17: eGFR eligibility thresholds for study CV185325
 | Postnatal age (gender)                     | GFR reference range (mL/min/1.73m 2 )   | Eligibility threshold for eGFR*   |
 |--------------------------------------------|-----------------------------------------|-----------------------------------|
 | 1 week (males and females)                 | 41 ± 15                                 | ≥ 8                               |
-| 2 - 8 weeks (males and females)            | 66 ± 25                                 | ≥ 12                              |
+| 2-8 weeks (males and females)              | 66 ± 25                                 | ≥ 12                              |
 | > 8 weeks to < 2 years (males and females) | 96 ± 22                                 | ≥ 22                              |
-| 2 - 12 years (males and females)           | 133 ± 27                                | ≥ 30                              |
-| 13 - 17 years (males)                      | 140 ± 30                                | ≥ 30                              |
-| 13 - 17 years (females)                    | 126 ± 22                                | ≥ 30                              |
+| 2-12 years (males and females)             | 133 ± 27                                | ≥ 30                              |
+| 13-17 years (males)                        | 140 ± 30                                | ≥ 30                              |
+| 13-17 years (females)                      | 126 ± 22                                | ≥ 30                              |
 
-*Eligibility threshold for CV185325 study participation, where estimated glomerular filtration rate (eGFR) was calculated per the updated bedside Schwartz equation (Schwartz, GJ et al., CJASN 2009). This per protocol threshold corresponded to the eGFR belo w which a prospective patient was considered to have 'inadequate renal function' that precluded participation in Study CV185325. Each threshold was defined as an eGFR &lt; 30% of 1 standard deviation (SD) below the GFR reference range for age and gender. Threshold values for patients &lt; 2 years of age correspond to an eGFR &lt; 30 mL/min/1.73 m 2 , the conventional definition of severe renal failure in patients &gt; 2 years of age.
+*Eligibility threshold for CV185325 study participation, where estimated glomerular filtration rate (eGFR) was calculated per the updated bedside Schwartz equation (Schwartz, GJ et al., CJASN 2009). This per protocol threshold corresponded to the eGFR below which a prospective patient was considered to have 'inadequate renal function' that precluded participation in Study CV185325. Each threshold was defined as an eGFR &lt; 30% of 1 standard deviation (SD) below the GFR reference range for age and gender. Threshold values for patients &lt; 2 years of age correspond to an eGFR &lt; 30 mL/min/1.73 m 2 , the conventional definition of severe renal failure in patients &gt; 2 years of age.
 
-Paediatric patients with glomerular filtration rates ≤ 55 mL/min/1.73 m 2  did not participate in Study CV185325, although those with mild to moderate levels of renal impairment (eGFR ≥ 30 to &lt; 60 mL/min/1.73 m 2  BSA) were eligible. Based on adult data and limited data in all apixaban-treated paediatric patients, no dose adjustment is necessary in paediatric patients with mild to moderate renal impairment. Apixaban is not recommended in paediatric patients with severe renal impairment (see sections 4.2 and 4.4).
+Paediatric patients with glomerular filtration rates ≤ 55 mL/min/1.73 m 2 did not participate in Study CV185325, although those with mild to moderate levels of renal impairment (eGFR ≥ 30 to &lt; 60 mL/min/1.73 m 2 BSA) were eligible. Based on adult data and limited data in all apixaban-treated paediatric patients, no dose adjustment is necessary in paediatric patients with mild to moderate renal impairment. Apixaban is not recommended in paediatric patients with severe renal impairment (see sections 4.2 and 4.4).
 
 ## Hepatic impairment
 
@@ -1121,7 +1113,7 @@ Administration of apixaban to paediatric patients is based on a fixed-dose by we
 
 ## Pharmacokinetic/pharmacodynamic relationship
 
-In adults, the pharmacokinetic/pharmacodynamic (PK/PD) relationship between apixaban plasma concentration and several PD endpoints (anti-Factor Xa activity [AXA], INR, PT, aPTT) has been evaluated after administration of a wide range of doses (0.5 -50 mg). The relationship between apixaban plasma concentration and anti-Factor Xa activity was best described by a linear model. The PK/PD relationship observed in patients was consistent with that established in healthy subjects.
+In adults, the pharmacokinetic/pharmacodynamic (PK/PD) relationship between apixaban plasma concentration and several PD endpoints (anti-Factor Xa activity [AXA], INR, PT, aPTT) has been evaluated after administration of a wide range of doses (0.5 - 50 mg). The relationship between apixaban plasma concentration and anti-Factor Xa activity was best described by a linear model. The PK/PD relationship observed in patients was consistent with that established in healthy subjects.
 
 Similarly, results from apixaban paediatric PK/PD assessment indicate a linear relationship between apixaban concentration and AXA. This is consistent with the previously documented relationship in adults.
 
@@ -1161,7 +1153,7 @@ This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
 
-Alu-PVC/PVdC blisters. Cartons of 10, 20, 60, 168 and 200 film-coated tablets.
+Alu-PVC/PVdC blisters. Cartons of 10, 20, 56, 60, 168 and 200 film-coated tablets.
 
 Alu PVC/PVdC perforated unit dose blisters of 60x1 and 100x1 film-coated tablets.
 
@@ -1180,6 +1172,8 @@ Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/11/691/001 EU/1/11/691/002 EU/1/11/691/003 EU/1/11/691/004 EU/1/11/691/005 EU/1/11/691/013 EU/1/11/691/015
+
+EU/1/11/691/020
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1254,7 +1248,7 @@ Table 1: Dose recommendation (VTEt)
 |                                                                                                   | Dosing schedule                        | Maximum daily dose   |
 |---------------------------------------------------------------------------------------------------|----------------------------------------|----------------------|
 | Treatment of DVT or PE                                                                            | 10 mg twice daily for the first 7 days | 20 mg                |
-|                                                                                                   | followed by 5 mg twice daily           | 10 mg                |
+| Treatment of DVT or PE                                                                            | followed by 5 mg twice daily           | 10 mg                |
 | Prevention of recurrent DVT and/or PE following completion of 6 months of treatment for DVT or PE | 2.5 mg twice daily                     | 5 mg                 |
 
 The duration of overall therapy should be individualised after careful assessment of the treatment benefit against the risk for bleeding (see section 4.4).
@@ -1715,14 +1709,6 @@ Table 3: Tabulated adverse reactions
 | Post procedural haemorrhage (including post procedural haematoma, wound haemorrhage, vessel puncture site haematoma and catheter site haemorrhage), wound secretion, incision site haemorrhage (including incision site haematoma), operative haemorrhage | Uncommon                                                                                                       | Uncommon                                                                                   | Common                                                                                                               |
 | Traumatic haemorrhage                                                                                                                                                                                                                                     | Uncommon                                                                                                       | Uncommon                                                                                   | Not known                                                                                                            |
 
-* There were no occurrences of generalised pruritus in CV185057 (long term prevention of VTE).
-
-† The term 'Brain haemorrhage' encompasses all intracranial or intraspinal haemorrhages (i .e., haemorrhagic stroke or putamen, cerebellar, intraventricular, or subdural haemorrhages).
-
-‡ Includes anaphylactic reaction, drug hypersensitivity, and hypersensitivity.
-
-§ Includes heavy menstrual bleeding, intermenstrual bleeding, and vaginal haemorrhage.
-
 The use of apixaban may be associated with an increased risk of occult or overt bleeding from any tissue or organ, which may result in posthaemorrhagic anaemia. The signs, symptoms, and severity will vary according to the location and degree or extent of the bleeding (see sections 4.4 and 5.1).
 
 ## Paediatric population
@@ -1831,9 +1817,9 @@ In the study, apixaban achieved statistically significant superiority in the pri
 
 Table 5: Efficacy outcomes in patients with atrial fibrillation in the ARISTOTLE study
 
-|                             | Apixaban N = 9,120 n (%/yr)   | Warfarin N = 9,081 n (%/yr)   | Hazard ratio (95% CI)   | p-value   |
+|                             | Apixaban N = 9,120 n (%/yr)   | Warfarin N = 9,081 n (%/yr)   | Hazard ratio (95% CI)   |   p-value |
 |-----------------------------|-------------------------------|-------------------------------|-------------------------|-----------|
-| Stroke or systemic embolism | 212 (1.27)                    | 265 (1.60)                    | 0.79 (0.66, 0.95)       | 0.0114    |
+| Stroke or systemic embolism | 212 (1.27)                    | 265 (1.60)                    | 0.79 (0.66, 0.95)       |    0.0114 |
 | Stroke                      |                               |                               |                         |           |
 | Ischaemic or unspecified    | 162 (0.97)                    | 175 (1.05)                    | 0.92 (0.74, 1.13)       |           |
 | Haemorrhagic                | 40 (0.24)                     | 78 (0.47)                     | 0.51 (0.35, 0.75)       |           |
@@ -1858,10 +1844,6 @@ Table 6: Secondary endpoints in patients with atrial fibrillation in the ARISTOT
 | Other endpoints       | Other endpoints                 | Other endpoints                 | Other endpoints         | Other endpoints   |
 | All-cause death       | 603 (3.52)                      | 669 (3.94)                      | 0.89 (0.80, 1.00)       | 0.0465            |
 | Myocardial infarction | 90 (0.53)                       | 102 (0.61)                      | 0.88 (0.66, 1.17)       |                   |
-
-* Major bleeding defined per International Society on Thrombosis and Haemostasis (ISTH) criteria.
-
-† Clinically Relevant Non -Major
 
 The overall discontinuation rate due to adverse reactions was 1.8% for apixaban and 2.6% for warfarin in the ARISTOTLE study.
 
@@ -1909,17 +1891,17 @@ There was no statistically significant difference in the incidence of major blee
 
 Table 8: Bleeding events in patients with atrial fibrillation in the AVERROES study
 
-|                 | Apixaban N = 2,798 n (%/year)   | ASA N = 2,780 n (%/year)   | Hazard ratio (95% CI)   | p-value   |
+|                 | Apixaban N = 2,798 n (%/year)   | ASA N = 2,780 n (%/year)   | Hazard ratio (95% CI)   |   p-value |
 |-----------------|---------------------------------|----------------------------|-------------------------|-----------|
-| Major*          | 45 (1.41)                       | 29 (0.92)                  | 1.54 (0.96, 2.45)       | 0.0716    |
+| Major*          | 45 (1.41)                       | 29 (0.92)                  | 1.54 (0.96, 2.45)       |    0.0716 |
 | Fatal, n        | 5 (0.16)                        | 5 (0.16)                   |                         |           |
 | Intracranial, n | 11 (0.34)                       | 11 (0.35)                  |                         |           |
-| Major + CRNM†   | 140 (4.46)                      | 101 (3.24)                 | 1.38 (1.07, 1.78)       | 0.0144    |
-| All             | 325 (10.85)                     | 250 (8.32)                 | 1.30 (1.10, 1.53)       | 0.0017    |
+| Major + CRNM†   | 140 (4.46)                      | 101 (3.24)                 | 1.38 (1.07, 1.78)       |    0.0144 |
+| All             | 325 (10.85)                     | 250 (8.32)                 | 1.30 (1.10, 1.53)       |    0.0017 |
 
 *Major bleeding defined per International Society on Thrombosis ad Haemostasis (ISTH) criteria.
 
-† Clinically Relevant Non -Major
+† Clinically Relevant Non-Major
 
 ## NVAF patients with ACS and/or undergoing PCI
 
@@ -2156,7 +2138,7 @@ There was no impact of impaired renal function on peak concentration of apixaban
 
 In subjects with end-stage renal disease (ESRD), the AUC of apixaban was increased by 36% when a single dose of apixaban 5 mg was administered immediately after haemodialysis, compared to that seen in subjects with normal renal function. Haemodialysis, started two hours after administration of a single dose of apixaban 5 mg, decreased apixaban AUC by 14% in these ESRD subjects, corresponding to an apixaban dialysis clearance of 18 mL/min. Therefore, haemodialysis is unlikely to be an effective means of managing apixaban overdose.
 
-In paediatric patients ≥ 2 years of age, severe renal impairment is defined as an estimated glomerular filtration rate (eGFR) less than 30 mL/min/1.73 m 2 body surface area (BSA). In Study CV185325, in patients less than 2 years of age, the thresholds defining severe renal impairment by sex and post-natal age are summarized in Table 15 below; each corresponds to an eGFR &lt; 30 mL/min/1.73 m 2  BSA for patients ≥ 2 years of age.
+In paediatric patients ≥ 2 years of age, severe renal impairment is defined as an estimated glomerular filtration rate (eGFR) less than 30 mL/min/1.73 m 2 body surface area (BSA). In Study CV185325, in patients less than 2 years of age, the thresholds defining severe renal impairment by sex and post-natal age are summarized in Table 15 below; each corresponds to an eGFR &lt; 30 mL/min/1.73 m 2 BSA for patients ≥ 2 years of age.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2171,9 +2153,9 @@ Table 15: eGFR eligibility thresholds for study CV185325
 | 13-17 years (males)                        | 140 ± 30                                | ≥ 30                              |
 | 13-17 years (females)                      | 126 ± 22                                | ≥ 30                              |
 
-*Eligibility threshold for CV185325 study participation, where estimated glomerular filtration rate (eGFR) was calculated per the updated bedside Schwartz equation (Schwartz, GJ et al., CJASN 2009). This per protocol threshold corresponded to the eGFR belo w which a prospective patient was considered to have 'inadequate renal function' that precluded participation in Study CV185325. Each threshold was defined as an eGFR &lt; 30% of 1 standard deviation (SD) below the GFR reference range for age and gender. Threshold values for patients &lt; 2 years of age correspond to an eGFR &lt; 30 mL/min/1.73 m 2 , the conventional definition of severe renal failure in patients &gt; 2 years of age.
+*Eligibility threshold for CV185325 study participation, where estimated glomerular filtration rate (eGFR) was calculated per the updated bedside Schwartz equation (Schwartz, GJ et al., CJASN 2009). This per protocol threshold corresponded to the eGFR below which a prospective patient was considered to have 'inadequate renal function' that precluded participation in Study CV185325. Each threshold was defined as an eGFR &lt; 30% of 1 standard deviation (SD) below the GFR reference range for age and gender. Threshold values for patients &lt; 2 years of age correspond to an eGFR &lt; 30 mL/min/1.73 m 2 , the conventional definition of severe renal failure in patients &gt; 2 years of age.
 
-Paediatric patients with glomerular filtration rates ≤ 55 mL/min/1.73 m 2  did not participate in Study CV185325, although those with mild to moderate levels of renal impairment (eGFR ≥ 30 to &lt; 60 mL/min/1.73 m 2  BSA) were eligible. Based on adult data and limited data in all apixaban-treated paediatric patients, no dose adjustment is necessary in paediatric patients with mild to moderate renal impairment. Apixaban is not recommended in paediatric patients with severe renal impairment (see sections 4.2 and 4.4).
+Paediatric patients with glomerular filtration rates ≤ 55 mL/min/1.73 m 2 did not participate in Study CV185325, although those with mild to moderate levels of renal impairment (eGFR ≥ 30 to &lt; 60 mL/min/1.73 m 2 BSA) were eligible. Based on adult data and limited data in all apixaban-treated paediatric patients, no dose adjustment is necessary in paediatric patients with mild to moderate renal impairment. Apixaban is not recommended in paediatric patients with severe renal impairment (see sections 4.2 and 4.4).
 
 ## Hepatic impairment
 
@@ -2203,7 +2185,7 @@ Administration of apixaban to paediatric patients is based on a fixed-dose by we
 
 ## Pharmacokinetic/pharmacodynamic relationship
 
-In adults, the pharmacokinetic/pharmacodynamic (PK/PD) relationship between apixaban plasma concentration and several PD endpoints (anti-Factor Xa activity [AXA], INR, PT, aPTT) has been evaluated after administration of a wide range of doses (0.5 -50 mg). The relationship between apixaban plasma concentration and anti-Factor Xa activity was best described by a linear model. The PK/PD relationship observed in patients was consistent with that established in healthy subjects.
+In adults, the pharmacokinetic/pharmacodynamic (PK/PD) relationship between apixaban plasma concentration and several PD endpoints (anti-Factor Xa activity [AXA], INR, PT, aPTT) has been evaluated after administration of a wide range of doses (0.5 - 50 mg). The relationship between apixaban plasma concentration and anti-Factor Xa activity was best described by a linear model. The PK/PD relationship observed in patients was consistent with that established in healthy subjects.
 
 Similarly, results from apixaban paediatric PK/PD assessment indicate a linear relationship between apixaban concentration and AXA. This is consistent with the previously documented relationship in adults.
 
@@ -2787,7 +2769,7 @@ Apixaban is a potent, oral, reversible, direct and highly selective active site 
 
 The pharmacodynamic effects of apixaban are reflective of the mechanism of action (FXa inhibition). As a result of FXa inhibition, apixaban prolongs clotting tests such as prothrombin time (PT), INR and activated partial thromboplastin time (aPTT). In adults, changes observed in these clotting tests at the expected therapeutic dose are small and subject to a high degree of variability. They are not recommended to assess the pharmacodynamic effects of apixaban. In the thrombin generation assay, apixaban reduced endogenous thrombin potential, a measure of thrombin generation in human plasma.
 
-Apixaban also demonstrates anti-Factor Xa activity (AXA) as evident by reduction in Factor Xa enzyme activity in multiple commercial AXA kits, however results differ across kits. Results from apixaban paediatric studies indicate that the linear relationship between apixaban concentration and AXA is consistent with the previously documented relationship in adults. This lends support to the documented mechanism of action of apixaban as a selective inhibitor of FXa. The AXA results presented below was obtained using the STA ® Liquid Anti-Xa Apixaban assay.
+Apixaban also demonstrates anti-Factor Xa activity (AXA) as evident by reduction in Factor Xa enzyme activity in multiple commercial AXA kits, however results differ across kits. Results from apixaban paediatric studies indicate that the linear relationship between apixaban concentration and AXA is consistent with the previously documented relationship in adults. This lends support to the documented mechanism of action of apixaban as a selective inhibitor of FXa. The AXA results presented below was obtained using the STA ®  Liquid Anti-Xa Apixaban assay.
 
 Across weight tiers 9 to ≥ 35 kg in Study CV185155, the geometric mean (%CV) AXA min and AXA max ranged between 27.1 (22.2) ng/mL and 71.9 (17.3) ng/mL, corresponding to geometric mean (%CV) Cminss and Cmaxss of 30.3 (22) ng/mL and 80.8 (16.8) ng/mL. The exposures achieved at these AXA ranges using the paediatric dosing regimen were comparable to those seen in adults who received an apixaban dose of 2.5 mg twice daily.
 
@@ -2900,7 +2882,7 @@ O-demethylation and hydroxylation at the 3-oxopiperidinyl moiety are the major s
 
 ## Renal impairment
 
-In paediatric patients ≥ 2 years of age, severe renal impairment is defined as an estimated glomerular filtration rate (eGFR) less than 30 mL/min/1.73 m 2 body surface area (BSA). In Study CV185325, in patients less than 2 years of age, the thresholds defining severe renal impairment by sex and post-natal age are summarized in Table 5 below; each corresponds to an eGFR &lt; 30 mL/min/1.73 m 2  BSA for patients ≥ 2 years of age.
+In paediatric patients ≥ 2 years of age, severe renal impairment is defined as an estimated glomerular filtration rate (eGFR) less than 30 mL/min/1.73 m 2 body surface area (BSA). In Study CV185325, in patients less than 2 years of age, the thresholds defining severe renal impairment by sex and post-natal age are summarized in Table 5 below; each corresponds to an eGFR &lt; 30 mL/min/1.73 m 2 BSA for patients ≥ 2 years of age.
 
 Table 5: eGFR eligibility thresholds for study CV185325
 
@@ -2913,9 +2895,9 @@ Table 5: eGFR eligibility thresholds for study CV185325
 | 13-17 years (males)                        | 140 ± 30                                | ≥ 30                              |
 | 13-17 years (females)                      | 126 ± 22                                | ≥ 30                              |
 
-*Eligibility threshold for CV185325 study participation, where estimated glomerular filtration rate (eGFR) was calculated per the updated bedside Schwartz equation (Schwartz, GJ et al., CJASN 2009). This per protocol threshold corresponded to the eGFR belo w which a prospective patient was considered to have 'inadequate renal function' that precluded participation in Study CV185325. Each threshold was defined as an eGFR &lt; 30% of 1 standard deviation (SD) below the GFR reference range for age and gender. Threshold values for patients &lt; 2 years of age correspond to an eGFR &lt; 30 mL/min/1.73 m 2 , the conventional definition of severe renal failure in patients &gt; 2 years of age.
+*Eligibility threshold for CV185325 study participation, where estimated glomerular filtration rate (eGFR) was calculated per the updated bedside Schwartz equation (Schwartz, GJ et al., CJASN 2009). This per protocol threshold corresponded to the eGFR below which a prospective patient was considered to have 'inadequate renal function' that precluded participation in Study CV185325. Each threshold was defined as an eGFR &lt; 30% of 1 standard deviation (SD) below the GFR reference range for age and gender. Threshold values for patients &lt; 2 years of age correspond to an eGFR &lt; 30 mL/min/1.73 m 2 , the conventional definition of severe renal failure in patients &gt; 2 years of age.
 
-Paediatric patients with glomerular filtration rates ≤ 55 mL/min/1.73 m 2  did not participate in Study CV185325, although those with mild to moderate levels of renal impairment (eGFR ≥ 30 to &lt; 60 mL/min/1.73 m 2  BSA) were eligible. Based on adult data and limited data in all apixaban-treated paediatric patients, no dose adjustment is necessary in paediatric patients with mild to moderate renal impairment. Apixaban is not recommended in paediatric patients with severe renal impairment (see sections 4.2 and 4.4).
+Paediatric patients with glomerular filtration rates ≤ 55 mL/min/1.73 m 2 did not participate in Study CV185325, although those with mild to moderate levels of renal impairment (eGFR ≥ 30 to &lt; 60 mL/min/1.73 m 2 BSA) were eligible. Based on adult data and limited data in all apixaban-treated paediatric patients, no dose adjustment is necessary in paediatric patients with mild to moderate renal impairment. Apixaban is not recommended in paediatric patients with severe renal impairment (see sections 4.2 and 4.4).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2947,7 +2929,7 @@ In adults, when compared to apixaban exposure in subjects with body weight of 65
 
 ## Pharmacokinetic/pharmacodynamic relationship
 
-In adults, the pharmacokinetic/pharmacodynamic (PK/PD) relationship between apixaban plasma concentration and several PD endpoints (anti-Factor Xa activity [AXA], INR, PT, aPTT) has been evaluated after administration of a wide range of doses (0.5 -50 mg). Similarly, results from apixaban paediatric PK/PD assessment indicate a linear relationship between apixaban concentration and AXA. This is consistent with the previously documented relationship in adults.
+In adults, the pharmacokinetic/pharmacodynamic (PK/PD) relationship between apixaban plasma concentration and several PD endpoints (anti-Factor Xa activity [AXA], INR, PT, aPTT) has been evaluated after administration of a wide range of doses (0.5 - 50 mg). Similarly, results from apixaban paediatric PK/PD assessment indicate a linear relationship between apixaban concentration and AXA. This is consistent with the previously documented relationship in adults.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2999,9 +2981,7 @@ Each bottle contains 28 capsules for opening.
 
 <div style=\"page-break-after: always\"></div>
 
-6.6
-
-Special precautions for disposal
+## 6.6 Special precautions for disposal
 
 Detailed instructions for the preparation and administration of the dose are provided in instructions for use.
 
@@ -3013,9 +2993,7 @@ MARKETING AUTHORISATION HOLDER
 
 Bristol-Myers Squibb/Pfizer EEIG
 
-Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867
-
-Ireland
+Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
 
 8.
 
@@ -3053,13 +3031,17 @@ Eliquis 0.5 mg coated granule in sachet
 
 Each sachet contains one 0.5 mg apixaban coated granule.
 
-Excipient with known effect Each sachet contains 10 mg lactose (see section 4.4).
+Excipient with known effect
+
+Each sachet contains 10 mg lactose (see section 4.4).
 
 Eliquis 1.5 mg coated granules in sachet
 
 Each sachet contains three 0.5 mg (1.5 mg) apixaban coated granules.
 
-Excipient with known effect Each sachet contains 30 mg lactose (see section 4.4).
+Excipient with known effect
+
+Each sachet contains 30 mg lactose (see section 4.4).
 
 Eliquis 2.0 mg coated granules in sachet
 
@@ -3517,7 +3499,7 @@ Table 2: Tabulated adverse reactions
 
 † The term 'Brain haemorrhage' encompasses all intracranial or intraspinal haemorrhages (i.e., haemorrhagic stroke or putamen, cerebellar, intraventricular, or subdural haemorrhages).
 
-‡ This includes anaphylactic reaction, drug hypersensitivity, and hypersensitivity .
+‡ This includes anaphylactic reaction, drug hypersensitivity, and hypersensitivity.
 
 § Includes heavy menstrual bleeding, intermenstrual bleeding, and vaginal haemorrhage.
 
@@ -3573,7 +3555,7 @@ Apixaban is a potent, oral, reversible, direct and highly selective active site 
 
 The pharmacodynamic effects of apixaban are reflective of the mechanism of action (FXa inhibition). As a result of FXa inhibition, apixaban prolongs clotting tests such as prothrombin time (PT), INR and activated partial thromboplastin time (aPTT). In adults, changes observed in these clotting tests at the expected therapeutic dose are small and subject to a high degree of variability. They are not recommended to assess the pharmacodynamic effects of apixaban. In the thrombin generation assay, apixaban reduced endogenous thrombin potential, a measure of thrombin generation in human plasma.
 
-Apixaban also demonstrates anti-Factor Xa activity (AXA) as evident by reduction in Factor Xa enzyme activity in multiple commercial AXA kits, however results differ across kits. Results from apixaban paediatric studies indicate that the linear relationship between apixaban concentration and AXA is consistent with the previously documented relationship in adults. This lends support to the documented mechanism of action of apixaban as a selective inhibitor of FXa. The AXA results presented below were obtained using the STA ® Liquid Anti-Xa Apixaban assay.
+Apixaban also demonstrates anti-Factor Xa activity (AXA) as evident by reduction in Factor Xa enzyme activity in multiple commercial AXA kits, however results differ across kits. Results from apixaban paediatric studies indicate that the linear relationship between apixaban concentration and AXA is consistent with the previously documented relationship in adults. This lends support to the documented mechanism of action of apixaban as a selective inhibitor of FXa. The AXA results presented below were obtained using the STA ®  Liquid Anti-Xa Apixaban assay.
 
 Across weight tiers 9 to ≥ 35 kg in Study CV185155, the geometric mean (%CV) AXA min and AXA max ranged between 27.1 (22.2) ng/mL and 71.9 (17.3) ng/mL, corresponding to geometric mean (%CV) Cminss and Cmaxss of 30.3 (22) ng/mL and 80.8 (16.8) ng/mL. The exposures achieved at these AXA ranges using the paediatric dosing regimen were comparable to those seen in adults who received an apixaban dose of 2.5 mg twice daily.
 
@@ -3688,7 +3670,7 @@ O-demethylation and hydroxylation at the 3-oxopiperidinyl moiety are the major s
 
 ## Renal impairment
 
-I n paediatric patients ≥ 2 years of age, severe renal impairment is defined as an estimated glomerular filtration rate (eGFR) less than 30 mL/min/1.73 m 2 body surface area (BSA). In Study CV185325, in patients less than 2 years of age, the thresholds defining severe renal impairment by sex and post-natal age are summarized in Table 5 below; each corresponds to an eGFR &lt; 30 mL/min/1.73 m 2  BSA for patients ≥ 2 years of age.
+I n paediatric patients ≥ 2 years of age, severe renal impairment is defined as an estimated glomerular filtration rate (eGFR) less than 30 mL/min/1.73 m 2 body surface area (BSA). In Study CV185325, in patients less than 2 years of age, the thresholds defining severe renal impairment by sex and post-natal age are summarized in Table 5 below; each corresponds to an eGFR &lt; 30 mL/min/1.73 m 2 BSA for patients ≥ 2 years of age.
 
 Table 5: eGFR eligibility thresholds for study CV185325
 
@@ -3703,7 +3685,7 @@ Table 5: eGFR eligibility thresholds for study CV185325
 
 *Eligibility threshold for CV185325 study participation, where estimated glomerular filtration rate (eGFR) was calculated per the updated bedside Schwartz equation (Schwartz, GJ et al., CJASN 2009). This per protocol threshold corresponded to the eGFR below which a prospective patient was considered to have 'inadequate renal function' that precluded participation in Study CV185325. Each threshold was defined as an eGFR &lt; 30% of 1 standard deviation (SD) below the GFR reference range for age and gender. Threshold values for patients &lt; 2 years of age correspond to an eGFR &lt; 30 mL/min/1.73 m 2 , the conventional definition of severe renal failure in patients &gt; 2 years of age.
 
-Paediatric patients with glomerular filtration rates ≤ 55 mL/min/1.73 m 2  did not participate in Study CV185325, although those with mild to moderate levels of renal impairment (eGFR ≥ 30 to &lt; 60 mL/min/1.73 m 2  BSA) were eligible. Based on adult data and limited data in all apixaban-treated paediatric patients, no dose adjustment is necessary in paediatric patients with mild to moderate renal
+Paediatric patients with glomerular filtration rates ≤ 55 mL/min/1.73 m 2 did not participate in Study CV185325, although those with mild to moderate levels of renal impairment (eGFR ≥ 30 to &lt; 60 mL/min/1.73 m 2 BSA) were eligible. Based on adult data and limited data in all apixaban-treated paediatric patients, no dose adjustment is necessary in paediatric patients with mild to moderate renal
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3737,7 +3719,7 @@ In adults, when compared to apixaban exposure in subjects with body weights of 6
 
 ## Pharmacokinetic/pharmacodynamic relationship
 
-In adults, the pharmacokinetic/pharmacodynamic (PK/PD) relationship between apixaban plasma concentration and several PD endpoints (anti-Factor Xa activity [AXA], INR, PT, aPTT) has been evaluated after administration of a wide range of doses (0.5 -50 mg). Similarly, results from apixaban paediatric PK/PD assessment indicate a linear relationship between apixaban concentration and AXA. This is consistent with the previously documented relationship in adults.
+In adults, the pharmacokinetic/pharmacodynamic (PK/PD) relationship between apixaban plasma concentration and several PD endpoints (anti-Factor Xa activity [AXA], INR, PT, aPTT) has been evaluated after administration of a wide range of doses (0.5 - 50 mg). Similarly, results from apixaban paediatric PK/PD assessment indicate a linear relationship between apixaban concentration and AXA. This is consistent with the previously documented relationship in adults.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3767,7 +3749,7 @@ Not applicable
 
 ## 6.3 Shelf life
 
-3 years
+## 3 years
 
 Once mixed with water, baby formula or apple juice, the liquid mixture must be used within 2 hours.
 
@@ -3779,7 +3761,9 @@ This medicinal product does not require any special storage conditions.
 
 <div style=\"page-break-after: always\"></div>
 
-## 6.5 Nature and contents of container
+6.5
+
+Nature and contents of container
 
 Child-resistant aluminium foil sachet with the 1 x 0.5 mg coated granule.
 
@@ -3795,15 +3779,21 @@ Detailed instructions for the preparation and administration of the dose are pro
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
+
+MARKETING AUTHORISATION HOLDER
 
 Bristol-Myers Squibb/Pfizer EEIG
 
-Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
+Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867
+
+Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/11/691/017 EU/1/11/691/018 EU/1/11/691/019
+EU/1/11/691/017 EU/1/11/691/018
+
+EU/1/11/691/019
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -3814,6 +3804,8 @@ Date of latest renewal: 11 January 2021
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
+
+112
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3917,6 +3909,7 @@ Contains lactose and sodium. See leaflet for further information.
 
 - 10 film-coated tablets
 - 20 film-coated tablets
+- 56 film coated tablets
 - 60 film-coated tablets
 - 60 x 1 film-coated tablets
 - 100 x 1 film-coated tablets
@@ -3967,6 +3960,8 @@ EU/1/11/691/013
 
 EU/1/11/691/015
 
+EU/1/11/691/020
+
 ## 13. BATCH NUMBER
 
 Lot
@@ -3993,17 +3988,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER 2.5 mg                                       |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER 2.5 mg                                        |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Eliquis 2.5 mg tablets apixaban
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Bristol-Myers Squibb/Pfizer EEIG
 
@@ -4022,17 +4017,17 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER 2.5 mg (Symbol)                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER 2.5 mg (Symbol)                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Eliquis 2.5 mg tablets apixaban
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Bristol-Myers Squibb/Pfizer EEIG
 
@@ -4134,24 +4129,24 @@ Eliquis 5 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER 5 mg                                         |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER 5 mg                                          |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Eliquis 5 mg tablets apixaban
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Bristol-Myers Squibb/Pfizer EEIG
 
@@ -4196,9 +4191,7 @@ Granules in capsules for opening
 
 Read the package leaflet and the Instructions for Use before use.
 
-Do not swallow the capsule for opening. Open and mix the contents with liquid.
-
-For oral use after reconstitution
+Do not swallow the capsule for opening. Open and mix the contents with liquid. For oral use after reconstitution
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -4294,9 +4287,7 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bristol-Myers Squibb/Pfizer EEIG
-
-Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
+Bristol-Myers Squibb/Pfizer EEIG Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -4306,7 +4297,7 @@ EU/1/11/691/017 (28 sachets, each sachet containing 1 coated granule)
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -4356,8 +4347,6 @@ Lot
 
 1 granule (0.5 mg)
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 OUTER CARTON FOR SACHET
@@ -4396,13 +4385,13 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+<div style=\"page-break-after: always\"></div>
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bristol-Myers Squibb/Pfizer EEIG
-
-Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
+Bristol-Myers Squibb/Pfizer EEIG Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -4462,8 +4451,6 @@ Lot
 
 3 granules (1.5 mg)
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 OUTER CARTON FOR SACHET
@@ -4502,13 +4489,13 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+<div style=\"page-break-after: always\"></div>
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bristol-Myers Squibb/Pfizer EEIG
-
-Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
+Bristol-Myers Squibb/Pfizer EEIG Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -4600,20 +4587,20 @@ Doctor's telephone:
 
 ## Information for patients / caregivers
 
-- Take / give Eliquis regularly as instructed. If you miss a morning dose, take / give it as soon as you remember and it may be taken / given together with the evening dose. A missed evening dose can only be taken / given during the same evening. Do not take / give two doses the next morning, instead continue to follow the dosing schedule twice daily as recommended on the next day.
-- Do not stop taking / giving Eliquis without talking to the doctor, as you are / the patient is at risk of suffering a stroke / blood clot or other complications.
-- Eliquis helps to thin the blood. However, this may increase the risk of bleeding.
-- Signs and symptoms of bleeding include bruising or bleeding under the skin, tar-coloured stools, blood in urine, nose-bleed, dizziness, tiredness, paleness or weakness, sudden severe headache, coughing up blood or vomiting blood.
-- If the bleeding does not stop on its own, seek medical attention immediately .
-- If you / the patient need(s) surgery or any invasive procedure, inform the doctor that you are / the patient is taking Eliquis.
+-  Take / give Eliquis regularly as instructed. If you miss a morning dose, take / give it as soon as you remember and it may be taken / given together with the evening dose. A missed evening dose can only be taken / given during the same evening. Do not take / give two doses the next morning, instead continue to follow the dosing schedule twice daily as recommended on the next day.
+-  Do not stop taking / giving Eliquis without talking to the doctor, as you are / the patient is at risk of suffering a stroke / blood clot or other complications.
+-  Eliquis helps to thin the blood. However, this may increase the risk of bleeding.
+-  Signs and symptoms of bleeding include bruising or bleeding under the skin, tar-coloured stools, blood in urine, nose-bleed, dizziness, tiredness, paleness or weakness, sudden severe headache, coughing up blood or vomiting blood.
+-  If the bleeding does not stop on its own, seek medical attention immediately .
+-  If you / the patient need(s) surgery or any invasive procedure, inform the doctor that you are / the patient is taking Eliquis.
 
 {MMM YYYY}
 
 ## Information for healthcare professionals
 
-- Eliquis (apixaban) is an oral anticoagulant acting by direct selective inhibition of factor Xa.
-- Eliquis may increase the risk of bleeding. In case of major bleeding events, it should be stopped immediately.
-- Treatment with Eliquis does not require routine monitoring of exposure. A calibrated quantitative anti-Factor Xa assay may be useful in exceptional situations, e.g., overdose and emergency surgery (prothrombin time (PT), international normalised ratio (INR) and activated partial thromboplastin time (aPTT) clotting tests are not recommended) -see SmPC. An agent to reverse the anti-factor Xa activity of apixaban is available for adults, however, its safety and efficacy have not been established in paediatric patients (refer to the summary of product characteristics of andexanet alfa).
+-  Eliquis (apixaban) is an oral anticoagulant acting by direct selective inhibition of factor Xa.
+-  Eliquis may increase the risk of bleeding. In case of major bleeding events, it should be stopped immediately.
+-  Treatment with Eliquis does not require routine monitoring of exposure. A calibrated quantitative anti-Factor Xa assay may be useful in exceptional situations, e.g., overdose and emergency surgery (prothrombin time (PT), international normalised ratio (INR) and activated partial thromboplastin time (aPTT) clotting tests are not recommended) - see SmPC. An agent to reverse the anti-factor Xa activity of apixaban is available for adults, however, its safety and efficacy have not been established in paediatric patients (refer to the summary of product characteristics of andexanet alfa).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4826,7 +4813,7 @@ Stop taking the anticoagulant medicines. Start treatment with Eliquis at the tim
 
 Stop taking the medicine containing a vitamin K antagonist. Your doctor needs to do blood-measurements and instruct you when to start taking Eliquis.
 
-- -Changing from Eliquis to anticoagulant treatment containing vitamin K antagonist (e.g., warfarin).
+## -Changing from Eliquis to anticoagulant treatment containing vitamin K antagonist (e.g., warfarin).
 
 If your doctor tells you that you have to start taking the medicine containing a vitamin K antagonist, continue to take Eliquis for at least 2 days after your first dose of the medicine containing a vitamin K antagonist. Your doctor needs to do blood-measurements and instruct you when to stop taking Eliquis.
 
@@ -5049,7 +5036,7 @@ In general, the side effects observed in children and adolescents treated with E
 - -bleeding after an operation including bruising and swelling, blood or liquid leaking from the surgical wound/incision (wound secretion) or injection site;
 - -Hair loss;
 - -Anaemia which may cause tiredness or paleness;
-- -R educed number of platelets in the child's blood (which can affect clotting);
+- -Reduced number of platelets in the child's blood (which can affect clotting);
 - -Nausea (feeling sick);
 - -Skin rash;
 - -Itching;
@@ -5066,11 +5053,7 @@ In general, the side effects observed in children and adolescents treated with E
 - -in the stomach;
 - -in the eyes;
 - -in the mouth;
-
--
-
-from a haemorrhoid;
-
+- -from a haemorrhoid;
 - -in the mouth or blood in the spit when coughing;
 - -in the brain or in the spinal column;
 - -in the lungs;
@@ -5105,14 +5088,14 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - The active substance is apixaban. Each tablet contains 2.5 mg of apixaban.
 - The other ingredients are:
-- -Tablet core: lactose (see section 2 'Eliquis contains lactose (a type of sugar) and sodium') , microcrystalline cellulose, croscarmellose sodium (see section 2 'Eliquis contains lactose (a type of sugar) and sodium') , sodium laurilsulfate, magnesium stearate (E470b);
-- -Film coat: lactose monohydrate (see section 2 'Eliquis contains lactose (a type of sugar) and sodium') , hypromellose (E464), titanium dioxide (E171), triacetin, yellow iron oxide (E172).
+- -Tablet core: lactose (see section 2 'Eliquis contains lactose (a type of sugar) and sodium'), microcrystalline cellulose, croscarmellose sodium (see section 2 'Eliquis contains lactose (a type of sugar) and sodium'), sodium laurilsulfate, magnesium stearate (E470b);
+- -Film coat: lactose monohydrate (see section 2 'Eliquis contains lactose (a type of sugar) and sodium'), hypromellose (E464), titanium dioxide (E171), triacetin, yellow iron oxide (E172).
 
 ## What Eliquis looks like and contents of the pack
 
 The film-coated tablets are yellow, round (diameter of 6 mm) and marked with '893' on one side and '2½' on the other side.
 
-- -They come in blisters in cartons of 10, 20, 60, 168 and 200 film-coated tablets.
+- -They come in blisters in cartons of 10, 20, 56, 60, 168 and 200 film-coated tablets.
 - -Unit dose blisters in cartons of 60x1 and 100x1 film-coated tablets for delivery in hospitals are also available.
 
 Not all pack sizes may be marketed.
@@ -5188,7 +5171,9 @@ N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.be
 
 Pfizer, spol. s r.o. Tel.: +420 283 004 111 Medical.information@pfizer.com
 
-Danmark Bristol-Myers Squibb Denmark Tlf: + 45 45 93 05 06 medinfo.denmark@bms.com
+## Danmark
+
+Bristol-Myers Squibb Denmark Tlf: + 45 45 93 05 06 medinfo.denmark@bms.com
 
 ## Deutschland
 
@@ -5204,7 +5189,9 @@ Pfizer Ελλάς Α.Ε. Τηλ: +30 210 6785800
 
 ## España
 
-Bristol-Myers Squibb, S.A. Tel: + 34 91 456 53 00 informacion.medica@bms.com
+Bristol-Myers Squibb, S.A. Tel: + 34 91 456 53 00
+
+informacion.medica@bms.com
 
 France Bristol-Myers Squibb SAS Tél: + 33 (0)1 58 83 84 96 infomed@bms.com
 
@@ -5216,9 +5203,7 @@ Ireland Bristol-Myers Squibb Pharmaceuticals uc Tel: 1 800 749 749 (+ 353 (0)1 4
 
 ## Ísland
 
-Icepharma hf.
-
-Sími: +354 540 8000
+Icepharma hf. Sími: +354 540 8000
 
 Italia Bristol-Myers Squibb S.r.l. Tel: + 39 06 50 39 61 medicalinformation.italia@bms.com
 
@@ -5228,19 +5213,25 @@ Pfizer Kft. Tel.: + 36 1 488 37 00
 
 ## Malta
 
-Vivian Corporation Ltd.
-
-Tel: +356 21344610
+Vivian Corporation Ltd. Tel: +356 21344610
 
 ## Nederland
 
-Bristol-Myers Squibb B.V. Tel: + 31 (0)30 300 2222 medischeafdeling@bms.com
+Bristol-Myers Squibb B.V. Tel: + 31 (0)30 300 2222
+
+medischeafdeling@bms.com
 
 ## Norge
 
 Bristol-Myers Squibb Norway AS Tlf: + 47 67 55 53 50 medinfo.norway@bms.com
 
-Österreich Bristol-Myers Squibb GesmbH Tel: + 43 1 60 14 30 medinfo.austria@bms.com
+## Österreich
+
+Bristol-Myers Squibb GesmbH
+
+Tel: + 43 1 60 14 30
+
+medinfo.austria@bms.com
 
 ## Polska
 
@@ -5250,27 +5241,17 @@ Tel.: +48 22 335 61 00
 
 ## Portugal
 
-Bristol-Myers Squibb Farmacêutica Portuguesa,
-
-S.A.
-
-Tel: + 351 21 440 70 00
-
-portugal.medinfo@bms.com
+Bristol-Myers Squibb Farmacêutica Portuguesa, S.A. Tel: + 351 21 440 70 00 portugal.medinfo@bms.com
 
 ## România
 
-Pfizer Romania S.R.L
-
-Tel: +40 (0)21 207 28 00
+Pfizer Romania S.R.L Tel: +40 (0)21 207 28 00
 
 ## Slovenija
 
 Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel: + 386 (0) 1 52 11 400
 
-Slovenská republika Pfizer Luxembourg SARL, organizačná zložka
-
-Tel: +421-2-3355 5500
+Slovenská republika Pfizer Luxembourg SARL, organizačná zložka Tel: +421-2-3355 5500
 
 Suomi/Finland Oy Bristol-Myers Squibb (Finland) Ab Puh/Tel: + 358 9 251 21 230 medinfo.finland@bms.com
 
@@ -5580,7 +5561,7 @@ The following side effects are known if you take Eliquis to prevent a blood clot
 
 ## Not known (frequency cannot be estimated from the available data)
 
-- -Blood vessel inflammation (vasculitis) which may result in skin rash or pointed, flat, red, round spots under the skin ' s surface or bruising.
+- -Blood vessel inflammation (vasculitis) which may result in skin rash or pointed, flat, red, round spots under the skin's surface or bruising.
 - -Bleeding in the kidney sometimes with presence of blood in urine leading to inability of the kidneys to work properly (anticoagulant-related nephropathy).
 
 The following side effects are known if you take Eliquis to treat or prevent re-occurrence of blood clots in the veins of your legs and blood clots in the blood vessels of your lungs.
@@ -5626,10 +5607,7 @@ The following side effects are known if you take Eliquis to treat or prevent re-
 
 ## Rare side effects (may affect up to 1 in 1,000 people)
 
-- -
-
-Bleeding:
-
+- -Bleeding:
 - -in your brain or in your spinal column;
 - -in your lungs.
 
@@ -5638,7 +5616,7 @@ Bleeding:
 - -Bleeding:
 - -into your abdomen or the space behind your abdominal cavity.
 - -Skin rash which may form blisters and looks like small targets (central dark spots surrounded by a paler area, with a dark ring around the edge) (erythema multiforme);
-- -Blood vessel inflammation (vasculitis) which may result in skin rash or pointed, flat, red, round spots under the skin ' s surface or bruising.
+- -Blood vessel inflammation (vasculitis) which may result in skin rash or pointed, flat, red, round spots under the skin's surface or bruising.
 - -Bleeding in the kidney sometimes with presence of blood in urine leading to inability of the kidneys to work properly (anticoagulant-related nephropathy).
 
 ## Additional side effects in children and adolescents
@@ -5691,7 +5669,7 @@ In general, the side effects observed in children and adolescents treated with E
 - -in the lungs;
 - -into a muscle;
 - -Skin rash which may form blisters and looks like small targets (central dark spots surrounded by a paler area, with a dark ring around the edge) (erythema multiforme);
-- -Blood vessel inflammation (vasculitis) which may result in skin rash or pointed, flat, red, round spots under the skin ' s surface or bruising;
+- -Blood vessel inflammation (vasculitis) which may result in skin rash or pointed, flat, red, round spots under the skin's surface or bruising;
 - -Blood tests may show:
 - -an increase in gamma-glutamyltransferase (GGT);
 - -tests showing blood in the stools or in the urine.
@@ -5719,8 +5697,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - The active substance is apixaban. Each tablet contains 5 mg of apixaban.
 - The other ingredients are:
-- -Tablet core: lactose (see section 2 'Eliquis contains lactose (a type of sugar) and sodium') , microcrystalline cellulose, croscarmellose sodium (see section 2 'Eliquis contains lactose (a type of sugar) and sodium') , sodium laurilsulfate, magnesium stearate (E470b);
-- -Film coat: lactose monohydrate (see section 2 'Eliquis contains lactose (a type of sugar) and sodium') , hypromellose (E464), titanium dioxide (E171), triacetin, red iron oxide (E172).
+- -Tablet core: lactose (see section 2 'Eliquis contains lactose (a type of sugar) and sodium'), microcrystalline cellulose, croscarmellose sodium (see section 2 'Eliquis contains lactose (a type of sugar) and sodium'), sodium laurilsulfate, magnesium stearate (E470b);
+- -Film coat: lactose monohydrate (see section 2 'Eliquis contains lactose (a type of sugar) and sodium'), hypromellose (E464), titanium dioxide (E171), triacetin, red iron oxide (E172).
 
 ## What Eliquis looks like and contents of the pack
 
@@ -5744,8 +5722,8 @@ This Patient Card includes information that will be helpful to you and alert oth
 5. -Birth Date:
 6. -Indication:
 7. -Dose: ........mg twice daily
-8. -Doctor ' s Name:
-9. -Doctor ' s telephone:
+8. -Doctor's Name:
+9. -Doctor's telephone:
 4. Fold the card and keep it with you at all times.
 
 <div style=\"page-break-after: always\"></div>
@@ -5852,17 +5830,13 @@ Pfizer Ελλάς Α.Ε. (Cyprus Branch) Τηλ: +357 22817690
 
 ## Latvija
 
-Pfizer Luxembourg SARL filiāle Latvijā
-
-Tel.: +371 670 35 775
+Pfizer Luxembourg SARL filiāle Latvijā Tel.: +371 670 35 775
 
 ## medischeafdeling@bms.com
 
 ## Norge
 
-Bristol-Myers Squibb Norway AS
-
-Tlf: + 47 67 55 53 50 medinfo.norway@bms.com
+Bristol-Myers Squibb Norway AS Tlf: + 47 67 55 53 50 medinfo.norway@bms.com
 
 ## Österreich
 
@@ -5904,13 +5878,11 @@ medinfo.sweden@bms.com
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
 
-## Eliquis 0.15 mg granules in capsules for opening
+## Package leaflet: Information for the user
 
-## apixaban
+## Eliquis 0.15 mg granules in capsules for opening apixaban
 
 Read all of this leaflet carefully before you start taking this medicine because it contains important information for you. This leaflet has been written for the patients ('you') and the parent or caregiver who will give this medicines to the child.
 
@@ -6000,7 +5972,7 @@ If the adolescent is pregnant or breast-feeding, think the adolescent may be pre
 
 The effects of Eliquis on pregnancy and the unborn child are not known. You should not give this medicine if the adolescent is pregnant. Contact the adolescent's doctor immediately if the adolescent becomes pregnant while taking this medicine.
 
-Adolescents who have periods, may experience heavier menstrual bleeding with Eliquis. Please contact the child's doctor for any questions .
+Adolescents who have periods, may experience heavier menstrual bleeding with Eliquis. Please contact the child's doctor for any questions.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6024,7 +5996,7 @@ Try to give the dose at the same time every day to have the best treatment effec
 
 If the child has difficulty swallowing you may be able to give the liquid mixture through a gastrostomy tube or nasogastric tube. Talk to your doctor about other ways to give Eliquis.
 
-As the Eliquis dose is based on body weight it is important to keep scheduled doctor's visits because the dose may need to be adjusted as the weight changes. This ensures that the child receives the correct dose of Eliquis. Your doctor may adjust the child 's dose when needed. Below is the table that your doctor will use. Do not adjust the dose yourself.
+As the Eliquis dose is based on body weight it is important to keep scheduled doctor's visits because the dose may need to be adjusted as the weight changes. This ensures that the child receives the correct dose of Eliquis. Your doctor may adjust the child's dose when needed. Below is the table that your doctor will use. Do not adjust the dose yourself.
 
 Table 1: Recommended dose for Eliquis in children
 
@@ -6057,7 +6029,7 @@ Stop giving the anticoagulant medicines. Start treatment with Eliquis at the tim
 
 - -Changing from treatment with anticoagulant containing vitamin K antagonist (e.g., warfarin) to Eliquis
 
-Stop giving the medicine containing a vitamin K antagonist. The child's doctor needs to do blood -measurements and instruct you when to start giving the child Eliquis.
+Stop giving the medicine containing a vitamin K antagonist. The child's doctor needs to do bloodmeasurements and instruct you when to start giving the child Eliquis.
 
 ## If you give the child more Eliquis than you should
 
@@ -6127,7 +6099,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - -in the lungs;
 - -into a muscle;
 - -Skin rash which may form blisters and looks like small targets (central dark spots surrounded by a paler area, with a dark ring around the edge) (erythema multiforme);
-- -Blood vessel inflammation (vasculitis) which may result in skin rash or pointed, flat, red, round spots under the skin ' s surface or bruising;
+- -Blood vessel inflammation (vasculitis) which may result in skin rash or pointed, flat, red, round spots under the skin's surface or bruising;
 - -Blood tests may show:
 - -an increase in gamma-glutamyltransferase (GGT);
 - -tests showing blood in the stools or in the urine.
@@ -6155,7 +6127,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - The active substance is apixaban. Each capsule for opening contains 0.15 mg apixaban.
 - The other ingredients are:
-- -Granules: hypromellose (E464), sugar spheres (composed of sugar syrup, corn starch (E1450), and sucrose). See section 2 ' Eliquis contains sucrose '.
+- -Granules: hypromellose (E464), sugar spheres (composed of sugar syrup, corn starch (E1450), and sucrose). See section 2 'Eliquis contains sucrose'.
 - Capsule shell: gelatin (E441), titanium dioxide (E171), iron oxide yellow (E172)
 - Black printing ink: shellac (E904), propylene glycol (E1520), iron oxide black
 
@@ -6181,8 +6153,8 @@ This Patient Card includes information that will be helpful to the child and ale
 6. -Indication:
 7. -Weight:
 8. -Dose: ........mg twice daily:
-9. -Doctor ' s Name:
-10. -Doctor ' s telephone:
+9. -Doctor's Name:
+10. -Doctor's telephone:
 4. Fold the card and keep it with the child at all times
 
 ## Marketing Authorisation Holder
@@ -6201,7 +6173,11 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
+N.V. Bristol-Myers Squibb Belgium S.A.
+
+Tél/Tel: + 32 2 352 76 11
+
+medicalinfo.belgium@bms.com
 
 ## България
 
@@ -6221,7 +6197,9 @@ medinfo.denmark@bms.com
 
 ## Deutschland
 
-Bristol-Myers Squibb GmbH &amp; Co. KGaA Tel: 0800 0752002 (+ 49 89 121 42 350) medwiss.info@bms.com
+Bristol-Myers Squibb GmbH &amp; Co. KGaA
+
+Tel: 0800 0752002 (+ 49 89 121 42 350) medwiss.info@bms.com
 
 ## Eesti
 
@@ -6229,7 +6207,7 @@ Pfizer Luxembourg SARL Eesti filiaal Tel: +372 666 7500
 
 ## Ελλάδα
 
-Pfizer Ελλάς Α.Ε. Τηλ : +30 210 6785800
+Pfizer Ελλάς Α.Ε. Τηλ: +30 210 6785800
 
 ## España
 
@@ -6239,7 +6217,9 @@ informacion.medica@bms.com
 
 ## France
 
-Bristol-Myers Squibb SAS Tél: + 33 (0)1 58 83 84 96 infomed@bms.com
+Bristol-Myers Squibb SAS
+
+Tél: + 33 (0)1 58 83 84 96 infomed@bms.com
 
 ## Hrvatska
 
@@ -6259,7 +6239,9 @@ N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.be
 
 ## Magyarország
 
-Pfizer Kft. Tel.: + 36 1 488 37 00
+Pfizer Kft.
+
+Tel.: + 36 1 488 37 00
 
 ## Malta
 
@@ -6283,7 +6265,11 @@ Pfizer Polska Sp. z o.o. Tel.: +48 22 335 61 00
 
 ## Portugal
 
-Bristol-Myers Squibb Farmacêutica Portuguesa, S.A. Tel: + 351 21 440 70 00 portugal.medinfo@bms.com
+Bristol-Myers Squibb Farmacêutica Portuguesa, S.A.
+
+Tel: + 351 21 440 70 00
+
+portugal.medinfo@bms.com
 
 ## România
 
@@ -6325,7 +6311,13 @@ Tel.: +371 670 35 775
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
 
-Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel: + 386 (0) 1 52 11 400
+Pfizer Luxembourg SARL
+
+Pfizer, podružnica za svetovanje s področja
+
+farmacevtske dejavnosti, Ljubljana
+
+Tel: + 386 (0) 1 52 11 400
 
 ## Slovenská republika
 
@@ -6366,7 +6358,7 @@ You will need a medicine cup, oral dosing syringe and a small spoon (for mixing)
 
 | ❏ STEP 1: Prepare supplies • Wash and dry your hands. • Clean and prepare flat work surface. • Gather your supplies: o Capsule for opening (check the prescription for the number of capsule for opening to use per dose). o Oral syringe (to give medicine to your infant) o Medicine cup (to mix medicine) o Small spoon o Mixing liquid (use baby   | Small spoon Oral syringe Medicine cup Capsule for opening Mixing liquid: use baby formula or Water   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| ❏ STEP 2: Add liquid to medicine cup • Add approximately 5 mL(a teaspoon) of liquid to medicine cup. Warning: in order to ensure complete dose, DO NOT put the medicine in a baby bottle                                                                                                                                                               |                                                                                                      |
+| ❏ STEP 2: Add liquid to medicine cup • Add approximately 5 mL (a teaspoon) of liquid to medicine cup. Warning: in order to ensure complete dose, DO NOT put the medicine in a baby bottle                                                                                                                                                              |                                                                                                      |
 | ❏ STEP 3: Tap capsule for opening • Hold the capsule for opening with the coloured end up. • Tap the clear end to get medicine in clear end.                                                                                                                                                                                                           |                                                                                                      |
 
 <div style=\"page-break-after: always\"></div>
@@ -6394,14 +6386,15 @@ This is a 2-part process to ensure ALL the medicine is given. Follow both Part 1
 
 Part 1: Pull up ALL liquid mixture with the oral syringe and give all medicine in syringe.
 
+## PUSH plunger
+
+<!-- image -->
+
+Pull up ALL the liquid mixture so no medicine is left in the dosing cup
+
 <!-- image -->
 
 Part 2: Repeat to ensure any remaining medicine is given as follows:
-
-| PUSH plunger   | Pull up ALL the liquid mixture so no medicine is left in the dosing cup   | Administer SLOWLY and give all medicine in syringe   |
-|----------------|---------------------------------------------------------------------------|------------------------------------------------------|
-
-<!-- image -->
 
 Add approximately 5 mL (a teaspoon) MORE liquid to medicine cup
 
@@ -6416,6 +6409,8 @@ GENTLY stir liquid with small spoon PUSH plunger
 - Wash the medicine cup and small spoon.
 
 Pull up ALL the liquid mixture so no medicine is left in the dosing cup
+
+Administer SLOWLY and give all medicine in syringe
 
 <!-- image -->
 
@@ -6437,7 +6432,7 @@ Eliquis 0.5 mg coated granule in sachet Eliquis 1.5 mg coated granules in sachet
 
 ## apixaban
 
-Read all of this leaflet carefully before you start giving this medicine because it contains important information for you . This leaflet has been written for the patients ('you') and the parent or caregiver who will give this medicines to the child.
+Read all of this leaflet carefully before you start giving this medicine because it contains important information for you. This leaflet has been written for the patients ('you') and the parent or caregiver who will give this medicines to the child.
 
 - -Keep this leaflet. You may need to read it again.
 - -If you have any further questions, ask your doctor, pharmacist or nurse.
@@ -6540,7 +6535,7 @@ Eliquis has not been shown to impair ability to drive or use machines.
 
 If you have been told by the child's doctor that the child has an intolerance to some sugars, contact the child's doctor before giving this medicine.
 
-This medicine contains less than 1 mmol sodium (23 mg) per coated granule, that is to say essentially ' sodium-free ' .
+This medicine contains less than 1 mmol sodium (23 mg) per coated granule, that is to say essentially 'sodium-free'.
 
 ## 3. How to give Eliquis
 
@@ -6552,7 +6547,7 @@ Try to give the dose at the same time every day to have the best treatment effec
 
 If the child has difficulty swallowing you may be able to give the liquid mixture through a gastrostomy tube or nasogastric tube. Talk to your doctor about other ways to give Eliquis.
 
-As the Eliquis dose is based on body weight it is important to keep scheduled doctor's visits because the dose may need to be adjusted as the weight changes. This ensures that the child receives the correct dose of Eliquis. Your doctor may adjust the child 's dose when needed. Below is the table that your doctor will use. Do not adjust the dose yourself.
+As the Eliquis dose is based on body weight it is important to keep scheduled doctor's visits because the dose may need to be adjusted as the weight changes. This ensures that the child receives the correct dose of Eliquis. Your doctor may adjust the child's dose when needed. Below is the table that your doctor will use. Do not adjust the dose yourself.
 
 Table 1: Recommended dose for Eliquis in children
 
@@ -6575,11 +6570,10 @@ Please observe the child to ensure the full dose is taken. Your doctor will deci
 ## If the child spits up the dose or vomits:
 
 - -within 30 minutes after taking the dose, repeat the dose.
-- -
 
 Continue to give the next Eliquis dose at the next scheduled time. Contact the doctor if the child
 
-- more than 30 minutes after taking the dose do not repeat the dose. repeatedly spits up the dose or vomits after taking Eliquis.
+- -more than 30 minutes after taking the dose do not repeat the dose. repeatedly spits up the dose or vomits after taking Eliquis.
 
 ## The child's doctor might change anticoagulant treatment as follows:
 
@@ -6589,7 +6583,7 @@ Stop giving the anticoagulant medicines. Start treatment with Eliquis at the tim
 
 - -Changing from treatment with anticoagulant containing vitamin K antagonist (e.g., warfarin) to Eliquis
 
-Stop giving the medicine containing a vitamin K antagonist. The child's doctor needs to do blood -measurements and instruct you when to start giving the child Eliquis.
+Stop giving the medicine containing a vitamin K antagonist. The child's doctor needs to do bloodmeasurements and instruct you when to start giving the child Eliquis.
 
 ## If you give the child more Eliquis than you should
 
@@ -6741,9 +6735,9 @@ Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
 
 ## Česká republika
 
-Pfizer, spol. s r.o. Tel.: +420 283 004 111
+Pfizer, spol. s r.o.
 
-Medical.information@pfizer.com
+Tel.: +420 283 004 111 Medical.information@pfizer.com
 
 ## Danmark
 
@@ -6755,9 +6749,7 @@ Tlf: + 45 45 93 05 06 medinfo.denmark@bms.com
 
 Bristol-Myers Squibb GmbH &amp; Co. KGaA
 
-Tel: 0800 0752002 (+ 49 89 121 42 350)
-
-medwiss.info@bms.com
+Tel: 0800 0752002 (+ 49 89 121 42 350) medwiss.info@bms.com
 
 ## Eesti
 
@@ -6769,9 +6761,7 @@ Pfizer Ελλάς Α.Ε. Τηλ: +30 210 6785800
 
 ## España
 
-Bristol-Myers Squibb, S.A. Tel: + 34 91 456 53 00
-
-informacion.medica@bms.com
+Bristol-Myers Squibb, S.A. Tel: + 34 91 456 53 00 informacion.medica@bms.com
 
 ## France
 
@@ -6787,7 +6777,11 @@ Pfizer Luxembourg SARL filialas Lietuvoje Tel. +370 5 251 4000
 
 ## Luxembourg/Luxemburg
 
-N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
+N.V. Bristol-Myers Squibb Belgium S.A.
+
+Tél/Tel: + 32 2 352 76 11
+
+medicalinfo.belgium@bms.com
 
 ## Magyarország
 
@@ -6809,9 +6803,7 @@ Bristol-Myers Squibb Norway AS Tlf: + 47 67 55 53 50 medinfo.norway@bms.com
 
 ## Österreich
 
-Bristol-Myers Squibb GesmbH Tel: + 43 1 60 14 30
-
-medinfo.austria@bms.com
+Bristol-Myers Squibb GesmbH Tel: + 43 1 60 14 30 medinfo.austria@bms.com
 
 ## Polska
 
@@ -6821,7 +6813,9 @@ Pfizer Polska Sp. z o.o. Tel.: +48 22 335 61 00
 
 Bristol-Myers Squibb Farmacêutica Portuguesa, S.A.
 
-Tel: + 351 21 440 70 00 portugal.medinfo@bms.com
+Tel: + 351 21 440 70 00
+
+portugal.medinfo@bms.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6956,7 +6950,9 @@ Dissolving is important for correct dose.
 
 ## ❏ STEP 6: Give medicine
 
-This is a 2-part process to ensure ALL the medicine is given. Follow both Part 1 and Part 2.
+This is a 2-part process to ensure ALL the medicine is given.
+
+## Follow both Part 1 and Part 2.
 
 Part 1: Pull up ALL liquid mixture with the oral syringe and give all medicine in syringe.
 
@@ -7004,12 +7000,36 @@ Be sure to give the medicine immediately or at the latest within 2 hours of prep
 
 ## FOOD mixing method for sachet
 
-| ❏ STEP 1: Prepare supplies • Wash and dry your hands. • Clean and prepare flat work surface. • Gather your supplies: o Sachets (check the prescription for the number of sachets your doctor has prescribed to use per dose). o Small bowl (to mix medicine) o Small spoon (to mix medicine) o Small scissors (to open sachet) o Apple puree   | Sachet Small spoon Small bowl puree Small scissors   |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
-| ❏ STEP 2: Prepare for mixing • Add approximately (15 mL) 1 tablespoon of food to bowl.                                                                                                                                                                                                                                                         |                                                      |
-| ❏ STEP 3: Tap and open sachet • Tap sachet to move the coated granules inside to the bottom. • Cut the dotted line on the sachet to open it.                                                                                                                                                                                                   |                                                      |
-| ❏ STEP 4: Empty the sachet • Empty the coated granule(s) inside the sachet into the bowl. • Run your finger over the sachet to remove all coated granules.                                                                                                                                                                                     |                                                      |
-| ❏ STEP 5: Mixing • Hold the small bowl with one hand and use a small spoon to stir the coated granule(s) into the apple puree. The coated granules do not need to dissolve in the food.                                                                                                                                                        |                                                      |
+## ❏ STEP 1: Prepare supplies
+
+- Wash and dry your hands.
+- Clean and prepare flat work surface.
+- Gather your supplies:
+- o Sachets (check the prescription for the number of sachets your doctor has prescribed to use per dose).
+- o Small bowl (to mix medicine)
+- o Small spoon (to mix medicine)
+- o Small scissors (to open sachet)
+- o Apple puree
+
+## ❏ STEP 2: Prepare for mixing
+
+- Add approximately (15 mL) 1 tablespoon of food to bowl.
+
+## ❏ STEP 3: Tap and open sachet
+
+- Tap sachet to move the coated granules inside to the bottom.
+- Cut the dotted line on the sachet to open it.
+
+## ❏ STEP 4: Empty the sachet
+
+- Empty the coated granule(s) inside the sachet into the bowl.
+- Run your finger over the sachet to remove all coated granules.
+
+## ❏ STEP 5: Mixing
+
+- Hold the small bowl with one hand and use a small spoon to stir the coated granule(s) into the apple puree.
+
+The coated granules do not need to dissolve in the food.
 
 <!-- image -->
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-08-06 11:55:27
+document_datetime: 2026-03-10 15:41:08
 document_pages: 2
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/kengrexal-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: kengrexal-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.1325633
-conversion_datetime: 2025-12-28 01:11:11.987358
+processing_time: 1.6294819
+conversion_datetime: 2026-03-13 19:18:34.242258
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## Kengrexal
 
@@ -32,5 +32,6 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/N/0000286423   | Update of the package leaflet with revised contact details of local representatives.   |
-|--------------------|----------------------------------------------------------------------------------------|
+| EMA/N/0000286423           | Update of the package leaflet with revised contact details of local representatives.   |             |
+|----------------------------|----------------------------------------------------------------------------------------|-------------|
+| PSUR / EMA/PSUR/0000282280 |                                                                                        | Maintenance |

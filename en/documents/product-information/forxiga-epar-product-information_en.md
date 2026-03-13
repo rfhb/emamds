@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-10-29 16:34:16
-document_pages: 61
+document_datetime: 2026-03-12 16:35:17
+document_pages: 60
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/forxiga-epar-product-information_en.pdf
 document_name: forxiga-epar-product-information_en.pdf
 version: success
-processing_time: 36.3714092
-conversion_datetime: 2025-12-23 03:02:36.090765
+processing_time: 39.61051
+conversion_datetime: 2026-03-13 18:32:00.478608
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -173,6 +173,8 @@ Treatment should be interrupted in patients who are hospitalised for major surgi
 
 Before initiating dapagliflozin, factors in the patient history that may predispose to ketoacidosis should be considered.
 
+Prolonged ketoacidosis and prolonged glucosuria have been observed with dapagliflozin. Ketoacidosis may last longer after discontinuation of dapagliflozin than expected from the plasma half-life (see section 5.2). Dapagliflozin-independent factors, such as insulin deficiency, might be involved in prolonged periods of ketoacidosis.
+
 Patients who may be at higher risk of DKA include patients with a low beta-cell function reserve (e.g. type 2 diabetes patients with low C-peptide or latent autoimmune diabetes in adults (LADA) or patients with a history of pancreatitis), patients with conditions that lead to restricted food intake or severe dehydration, patients for whom insulin doses are reduced and patients with increased insulin requirements due to acute medical illness, surgery or alcohol abuse. SGLT2 inhibitors should be used with caution in these patients.
 
 Restarting SGLT2 inhibitor treatment in patients experiencing a DKA while on SGLT2 inhibitor treatment is not recommended, unless another clear precipitating factor is identified and resolved.
@@ -193,9 +195,11 @@ Urinary glucose excretion may be associated with an increased risk of urinary tr
 
 Elderly patients may be at a greater risk for volume depletion and are more likely to be treated with diuretics.
 
-Elderly patients are more likely to have impaired renal function, and/or to be treated with anti-hypertensive medicinal products that may cause changes in renal function such as angiotensin-converting enzyme inhibitors (ACE-I) and angiotensin II type 1 receptor blockers (ARB). The same recommendations for renal function apply to elderly patients as to all patients (see sections 4.2, 4.4, 4.8 and 5.1).
+Elderly patients are more likely to have impaired renal function, and/or to be treated with anti-hypertensive medicinal products that may cause changes in renal function such as
 
 <div style=\"page-break-after: always\"></div>
+
+angiotensin-converting enzyme inhibitors (ACE-I) and angiotensin II type 1 receptor blockers (ARB). The same recommendations for renal function apply to elderly patients as to all patients (see sections 4.2, 4.4, 4.8 and 5.1).
 
 ## Cardiac failure
 
@@ -237,15 +241,13 @@ Dapagliflozin may add to the diuretic effect of thiazide and loop diuretics and 
 
 Insulin and insulin secretagogues, such as sulphonylureas, cause hypoglycaemia. Therefore, a lower dose of insulin or an insulin secretagogue may be required to reduce the risk of hypoglycaemia when used in combination with dapagliflozin in patients with type 2 diabetes mellitus (see sections 4.2 and 4.8).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pharmacokinetic interactions
 
 The metabolism of dapagliflozin is primarily via glucuronide conjugation mediated by UDP glucuronosyltransferase 1A9 (UGT1A9).
 
-In in vitro studies, dapagliflozin neither inhibited cytochrome P450 (CYP) 1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A4, nor induced CYP1A2, CYP2B6 or CYP3A4.
-
-<div style=\"page-break-after: always\"></div>
-
-Therefore, dapagliflozin is not expected to alter the metabolic clearance of coadministered medicinal products that are metabolised by these enzymes.
+In in vitro studies, dapagliflozin neither inhibited cytochrome P450 (CYP) 1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A4, nor induced CYP1A2, CYP2B6 or CYP3A4. Therefore, dapagliflozin is not expected to alter the metabolic clearance of coadministered medicinal products that are metabolised by these enzymes.
 
 ## Effect of other medicinal products on dapagliflozin
 
@@ -273,11 +275,13 @@ Interaction studies have only been performed in adults.
 
 ## Pregnancy
 
-There are no data from the use of dapagliflozin in pregnant women. Studies in rats have shown toxicity to the developing kidney in the time period corresponding to the second and third trimesters of human pregnancy (see section 5.3). Therefore, the use of dapagliflozin is not recommended during the second and third trimesters of pregnancy.
-
-When pregnancy is detected, treatment with dapagliflozin should be discontinued.
+There are no data from the use of dapagliflozin in pregnant women. Studies in rats have shown toxicity to the developing kidney in the time period corresponding to the second and third trimesters of
 
 <div style=\"page-break-after: always\"></div>
+
+human pregnancy (see section 5.3). Therefore, the use of dapagliflozin is not recommended during the second and third trimesters of pregnancy.
+
+When pregnancy is detected, treatment with dapagliflozin should be discontinued.
 
 ## Breast-feeding
 
@@ -313,9 +317,11 @@ The overall safety profile of dapagliflozin in patients with heart failure was c
 
 ## Chronic kidney disease
 
-In the dapagliflozin renal outcome study in patients with chronic kidney disease (DAPA-CKD), 2,149 patients were treated with dapagliflozin 10 mg and 2,149 patients with placebo for a median exposure time of 27 months. The patient population included patients with type 2 diabetes mellitus and without diabetes, with eGFR ≥ 25 to ≤ 75 mL/min/1.73 m 2 , and albuminuria (urine albumin creatinine ratio [UACR] ≥ 200 and ≤ 5000 mg/g). Treatment was continued if eGFR fell to levels below 25 mL/min/1.73 m 2 .
+In the dapagliflozin renal outcome study in patients with chronic kidney disease (DAPA-CKD), 2,149 patients were treated with dapagliflozin 10 mg and 2,149 patients with placebo for a median
 
 <div style=\"page-break-after: always\"></div>
+
+exposure time of 27 months. The patient population included patients with type 2 diabetes mellitus and without diabetes, with eGFR ≥ 25 to ≤ 75 mL/min/1.73 m 2 , and albuminuria (urine albumin creatinine ratio [UACR] ≥ 200 and ≤ 5000 mg/g). Treatment was continued if eGFR fell to levels below 25 mL/min/1.73 m 2 .
 
 The overall safety profile of dapagliflozin in patients with chronic kidney disease was consistent with the known safety profile of dapagliflozin.
 
@@ -325,27 +331,33 @@ The following adverse reactions have been identified in the placebo-controlled c
 
 Table 1. Adverse reactions in placebo-controlled clinical studies a  and postmarketing experience
 
-| System organ class                              | Very common                                    | Common *                                                                                                | Uncommon **                                                                                          | Rare                                                                | Very rare                                                       |
-|-------------------------------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------|
-| Infections and infestations                     |                                                | Vulvovaginitis, balanitis and related genital infections *,b,c Urinary tract infection *,b,d            | Fungal infection **                                                                                  |                                                                     | Necrotising fasciitis of the perineum (Fournier's gangrene) b,i |
-| Metabolism and nutrition disorders              | Hypoglycaemia (when used with SU or insulin) b |                                                                                                         | Volume depletion b,e Thirst **                                                                       | Diabetic ketoacidosis (when used in type 2 diabetes mellitus) b,i,k |                                                                 |
-| Nervous system disorders                        |                                                | Dizziness                                                                                               |                                                                                                      |                                                                     |                                                                 |
-| Gastrointestinal disorders                      |                                                |                                                                                                         | Constipation ** Dry mouth **                                                                         |                                                                     |                                                                 |
-| Skin and subcutaneous tissue disorders          |                                                | Rash j                                                                                                  |                                                                                                      |                                                                     | Angioedema                                                      |
-| Musculoskeletal and connective tissue disorders |                                                | Back pain *                                                                                             |                                                                                                      |                                                                     |                                                                 |
-| Renal and urinary disorders                     |                                                | Dysuria Polyuria *,f                                                                                    | Nocturia **                                                                                          |                                                                     | Tubulointerstitial nephritis                                    |
-| Reproductive system and breast disorders        |                                                |                                                                                                         | Vulvovaginal pruritus ** Pruritus genital **                                                         |                                                                     |                                                                 |
-| Investigations                                  |                                                | Haematocrit increased g Creatinine renal clearance decreased during initial treatment b Dyslipidaemia h | Blood creatinine increased during initial treatment **,b Blood urea increased ** Weight decreased ** |                                                                     |                                                                 |
+| System organ class                              | Very common                                    | Common *                                                                                                | Uncommon **                                                                      | Rare                                                                | Very rare                                                       |
+|-------------------------------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------|
+| Infections and infestations                     |                                                | Vulvovaginitis, balanitis and related genital infections *,b,c Urinary tract infection *,b,d            | Fungal infection **                                                              |                                                                     | Necrotising fasciitis of the perineum (Fournier's gangrene) b,i |
+| Metabolism and nutrition disorders              | Hypoglycaemia (when used with SU or insulin) b |                                                                                                         | Volume depletion b,e Thirst **                                                   | Diabetic ketoacidosis (when used in type 2 diabetes mellitus) b,i,k |                                                                 |
+| Nervous system disorders                        |                                                | Dizziness                                                                                               |                                                                                  |                                                                     |                                                                 |
+| Gastrointestinal disorders                      |                                                |                                                                                                         | Constipation ** Dry mouth **                                                     |                                                                     |                                                                 |
+| Skin and subcutaneous tissue disorders          |                                                | Rash j                                                                                                  |                                                                                  |                                                                     | Angioedema                                                      |
+| Musculoskeletal and connective tissue disorders |                                                | Back pain *                                                                                             |                                                                                  |                                                                     |                                                                 |
+| Renal and urinary disorders                     |                                                | Dysuria Polyuria *,f                                                                                    | Nocturia **                                                                      |                                                                     | Tubulointerstitial nephritis                                    |
+| Reproductive system and breast disorders        |                                                |                                                                                                         | Vulvovaginal pruritus ** Pruritus genital **                                     |                                                                     |                                                                 |
+| Investigations                                  |                                                | Haematocrit increased g Creatinine renal clearance decreased during initial treatment b Dyslipidaemia h | Blood creatinine increased during initial treatment **,b Blood urea increased ** |                                                                     |                                                                 |
+
+<div style=\"page-break-after: always\"></div>
+
+| System organ class   | Very common   | Common *   | Uncommon **         | Rare   | Very rare   |
+|----------------------|---------------|------------|---------------------|--------|-------------|
+|                      |               |            | Weight decreased ** |        |             |
 
 a The table shows up to 24-week (short-term) data regardless of glycaemic rescue.
 
 b See corresponding subsection below for additional information.
 
-c Vulvovaginitis, balanitis and related genital infections includes, e.g. the predefined preferred terms: vulvovaginal mycotic infection, vaginal infection, balanitis, genital infection fungal, vulvovaginal candidiasis,
+c
 
-<div style=\"page-break-after: always\"></div>
+Vulvovaginitis, balanitis and related genital infections includes, e.g. the predefined preferred terms:
 
-vulvovaginitis, balanitis candida, genital candidiasis, genital infection, genital infection male, penile infection, vulvitis, vaginitis bacterial, vulval abscess.
+vulvovaginal mycotic infection, vaginal infection, balanitis, genital infection fungal, vulvovaginal candidiasis, vulvovaginitis, balanitis candida, genital candidiasis, genital infection, genital infection male, penile infection, vulvitis, vaginitis bacterial, vulval abscess.
 
 d Urinary tract infection includes the following preferred terms, listed in order of frequency reported: urinary tract infection, cystitis, Escherichia urinary tract infection, genitourinary tract infection, pyelonephritis, trigonitis, urethritis, kidney infection and prostatitis.
 
@@ -353,7 +365,9 @@ e Volume depletion includes, e.g. the predefined preferred terms: dehydration, h
 
 f Polyuria includes the preferred terms: pollakiuria, polyuria, urine output increased.
 
-g Mean changes from baseline in haematocrit were 2.30% for dapagliflozin 10 mg versus -0.33% for placebo. Haematocrit values &gt;55% were reported in 1.3% of the subjects treated with dapagliflozin 10 mg versus 0.4% of placebo subjects.
+g Mean changes from baseline in haematocrit were 2.30% for dapagliflozin 10 mg versus -0.33% for placebo.
+
+Haematocrit values &gt;55% were reported in 1.3% of the subjects treated with dapagliflozin 10 mg versus 0.4% of placebo subjects.
 
 h Mean percent change from baseline for dapagliflozin 10 mg versus placebo, respectively, was: total cholesterol 2.5% versus 0.0%; HDL cholesterol 6.0% versus 2.7%; LDL cholesterol 2.9% versus -1.0%; triglycerides -2.7% versus -0.7%.
 
@@ -379,13 +393,13 @@ In the DAPA-HF study, no patient reported serious adverse events of genital infe
 
 In the DAPA-CKD study, there were 3 (0.1%) patients with serious adverse events of genital infections in the dapagliflozin group and none in the placebo group. There were 3 (0.1%) patients with adverse events leading to discontinuation due to genital infections in the dapagliflozin group and none in the placebo group. Serious adverse events of genital infections or adverse events leading to discontinuation due to genital infections were not reported for any patients without diabetes.
 
+<div style=\"page-break-after: always\"></div>
+
 Cases of phimosis/acquired phimosis have been reported concurrent with genital infections and in some cases, circumcision was required.
 
 ## Necrotising fasciitis of the perineum (Fournier's gangrene)
 
 Cases of Fournier's gangrene have been reported postmarketing in patients taking SGLT2 inhibitors, including dapagliflozin (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 In the DECLARE study with 17,160 type 2 diabetes mellitus patients and a median exposure time of 48 months, a total of 6 cases of Fournier's gangrene were reported, one in the dapagliflozin-treated group and 5 in the placebo group.
 
@@ -411,11 +425,9 @@ In the DAPA-CKD study, major events of hypoglycaemia were reported in 14 (0.7%) 
 
 In the 13-study safety pool, reactions suggestive of volume depletion (including, reports of dehydration, hypovolaemia or hypotension) were reported in 1.1% and 0.7% of subjects who received dapagliflozin 10 mg and placebo, respectively; serious reactions occurred in &lt; 0.2% of subjects balanced between dapagliflozin 10 mg and placebo (see section 4.4).
 
-In the DECLARE study, the numbers of patients with events suggestive of volume depletion were balanced between treatment groups: 213 (2.5%) and 207 (2.4%) in the dapagliflozin and placebo groups, respectively. Serious adverse events were reported in 81 (0.9%) and 70 (0.8%) in the dapagliflozin and placebo group, respectively. Events were generally balanced between treatment groups across subgroups of age, diuretic use, blood pressure and angiotensin converting enzyme inhibitors (ACE-I)/angiotensin II type 1 receptor blockers (ARB) use. In patients with eGFR
-
 <div style=\"page-break-after: always\"></div>
 
-&lt; 60 mL/min/1.73 m 2  at baseline, there were 19 events of serious adverse events suggestive of volume depletion in the dapagliflozin group and 13 events in the placebo group.
+In the DECLARE study, the numbers of patients with events suggestive of volume depletion were balanced between treatment groups: 213 (2.5%) and 207 (2.4%) in the dapagliflozin and placebo groups, respectively. Serious adverse events were reported in 81 (0.9%) and 70 (0.8%) in the dapagliflozin and placebo group, respectively. Events were generally balanced between treatment groups across subgroups of age, diuretic use, blood pressure and angiotensin converting enzyme inhibitors (ACE-I)/angiotensin II type 1 receptor blockers (ARB) use. In patients with eGFR &lt; 60 mL/min/1.73 m 2  at baseline, there were 19 events of serious adverse events suggestive of volume depletion in the dapagliflozin group and 13 events in the placebo group.
 
 In the DAPA-HF study, the numbers of patients with events suggestive of volume depletion were 170 (7.2%) in the dapagliflozin group and 153 (6.5%) in the placebo group. There were fewer patients with serious events of symptoms suggestive of volume depletion in the dapagliflozin group (23 [1.0%]) compared with the placebo group (38 [1.6%]). Results were similar irrespective of presence of diabetes at baseline and baseline eGFR. In the DELIVER study, the numbers of patients with serious events of symptoms suggestive of volume depletion were 35 (1.1%) in the dapagliflozin group and 31 (1.0%) in the placebo group.
 
@@ -437,9 +449,9 @@ In the DECLARE study, serious events of urinary tract infections were reported l
 
 In the DAPA-HF study, the numbers of patients with serious adverse events of urinary tract infections were 14 (0.6%) in the dapagliflozin group and 17 (0.7%) in the placebo group. There were 5 (0.2%) patients with adverse events leading to discontinuations due to urinary tract infections in each of the dapagliflozin and placebo groups. In the DELIVER study the numbers of patients with serious adverse events of urinary tract infections were 41 (1.3%) in the dapagliflozin group and 37 (1.2%) in the placebo group. There were 13 (0.4%) patients with adverse events leading to discontinuations due to urinary tract infections in the dapagliflozin group and 9 (0.3%) in the placebo group.
 
-In the DAPA-CKD study, the numbers of patients with serious adverse events of urinary tract infections were 29 (1.3%) in the dapagliflozin group and 18 (0.8%) in the placebo group. There were 8 (0.4%) patients with adverse events leading to discontinuations due to urinary tract infections in the dapagliflozin group and 3 (0.1%) in the placebo group. The numbers of patients without diabetes reporting serious adverse events of urinary tract infections or adverse events leading to discontinuation due to urinary tract infections were similar between treatment groups (6 [0.9%] versus 4 [0.6%] for serious adverse events, and 1 [0.1%] versus 0 for adverse events leading to discontinuation, in the dapagliflozin and placebo groups, respectively).
-
 <div style=\"page-break-after: always\"></div>
+
+In the DAPA-CKD study, the numbers of patients with serious adverse events of urinary tract infections were 29 (1.3%) in the dapagliflozin group and 18 (0.8%) in the placebo group. There were 8 (0.4%) patients with adverse events leading to discontinuations due to urinary tract infections in the dapagliflozin group and 3 (0.1%) in the placebo group. The numbers of patients without diabetes reporting serious adverse events of urinary tract infections or adverse events leading to discontinuation due to urinary tract infections were similar between treatment groups (6 [0.9%] versus 4 [0.6%] for serious adverse events, and 1 [0.1%] versus 0 for adverse events leading to discontinuation, in the dapagliflozin and placebo groups, respectively).
 
 ## Increased creatinine
 
@@ -461,13 +473,11 @@ The dapagliflozin safety profile observed in a clinical study in children aged 1
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-## 4.9 Overdose
-
-Dapagliflozin did not show any toxicity in healthy subjects at single oral doses up to 500 mg (50 times the maximum recommended human dose). These subjects had detectable glucose in the urine for a dose-related period of time (at least 5 days for the 500 mg dose), with no reports of dehydration, hypotension or electrolyte imbalance, and with no clinically meaningful effect on QTc interval. The incidence of hypoglycaemia was similar to placebo. In clinical studies where once-daily doses of up to 100 mg (10 times the maximum recommended human dose) were administered for 2 weeks in healthy subjects and type 2 diabetes subjects, the incidence of hypoglycaemia was slightly higher than placebo and was not dose-related. Rates of adverse events including dehydration or hypotension were similar
-
 <div style=\"page-break-after: always\"></div>
 
-to placebo, and there were no clinically meaningful dose-related changes in laboratory parameters, including serum electrolytes and biomarkers of renal function.
+## 4.9 Overdose
+
+Dapagliflozin did not show any toxicity in healthy subjects at single oral doses up to 500 mg (50 times the maximum recommended human dose). These subjects had detectable glucose in the urine for a dose-related period of time (at least 5 days for the 500 mg dose), with no reports of dehydration, hypotension or electrolyte imbalance, and with no clinically meaningful effect on QTc interval. The incidence of hypoglycaemia was similar to placebo. In clinical studies where once-daily doses of up to 100 mg (10 times the maximum recommended human dose) were administered for 2 weeks in healthy subjects and type 2 diabetes subjects, the incidence of hypoglycaemia was slightly higher than placebo and was not dose-related. Rates of adverse events including dehydration or hypotension were similar to placebo, and there were no clinically meaningful dose-related changes in laboratory parameters, including serum electrolytes and biomarkers of renal function.
 
 In the event of an overdose, appropriate supportive treatment should be initiated as dictated by the patient's clinical status. The removal of dapagliflozin by haemodialysis has not been studied.
 
@@ -489,13 +499,13 @@ The SGLT2 is selectively expressed in the kidney. Dapagliflozin does not inhibit
 
 ## Pharmacodynamic effects
 
-Increases in the amount of glucose excreted in the urine were observed in healthy subjects and in subjects with type 2 diabetes mellitus following the administration of dapagliflozin. Approximately 70 g of glucose was excreted in the urine per day (corresponding to 280 kcal/day) at a dapagliflozin dose of 10 mg/day in subjects with type 2 diabetes mellitus for 12 weeks. Evidence of sustained glucose excretion was seen in subjects with type 2 diabetes mellitus given dapagliflozin 10 mg/day for up to 2 years.
-
-This urinary glucose excretion with dapagliflozin also results in osmotic diuresis and increases in urinary volume in subjects with type 2 diabetes mellitus. Urinary volume increases in subjects with type 2 diabetes mellitus treated with dapagliflozin 10 mg were sustained at 12 weeks and amounted to approximately 375 mL/day. The increase in urinary volume was associated with a small and transient
+Increases in the amount of glucose excreted in the urine were observed in healthy subjects and in subjects with type 2 diabetes mellitus following the administration of dapagliflozin. Approximately
 
 <div style=\"page-break-after: always\"></div>
 
-increase in urinary sodium excretion that was not associated with changes in serum sodium concentrations.
+70 g of glucose was excreted in the urine per day (corresponding to 280 kcal/day) at a dapagliflozin dose of 10 mg/day in subjects with type 2 diabetes mellitus for 12 weeks. Evidence of sustained glucose excretion was seen in subjects with type 2 diabetes mellitus given dapagliflozin 10 mg/day for up to 2 years.
+
+This urinary glucose excretion with dapagliflozin also results in osmotic diuresis and increases in urinary volume in subjects with type 2 diabetes mellitus. Urinary volume increases in subjects with type 2 diabetes mellitus treated with dapagliflozin 10 mg were sustained at 12 weeks and amounted to approximately 375 mL/day. The increase in urinary volume was associated with a small and transient increase in urinary sodium excretion that was not associated with changes in serum sodium concentrations.
 
 Urinary uric acid excretion was also increased transiently (for 3-7 days) and accompanied by a sustained reduction in serum uric acid concentration. At 24 weeks, reductions in serum uric acid concentrations ranged from -48.3 to -18.3 micromoles/L (-0.87 to -0.33 mg/dL).
 
@@ -517,6 +527,8 @@ A double-blind, placebo-controlled study of 24-week duration (with an additional
 
 In the extension period, HbA1c reductions were sustained through week 102 (-0.61%, and -0.17% adjusted mean change from baseline for dapagliflozin 10 mg and placebo, respectively).
 
+<div style=\"page-break-after: always\"></div>
+
 Table 2. Results at week 24 (LOCF a ) of a placebo-controlled study of dapagliflozin as monotherapy
 
 |                                    | Monotherapy            | Monotherapy   |
@@ -532,12 +544,8 @@ Table 2. Results at week 24 (LOCF a ) of a placebo-controlled study of dapaglifl
 | Body weight (kg)                   |                        |               |
 | Baseline (mean)                    | 94.13                  | 88.77         |
 | Change from baseline c             | -3.16                  | -2.19         |
-
-<div style=\"page-break-after: always\"></div>
-
-| Difference from placebo c   | -0.97         |
-|-----------------------------|---------------|
-| (95% CI)                    | (-2.20, 0.25) |
+| Difference from placebo c          | -0.97                  |               |
+| (95% CI)                           | (-2.20, 0.25)          |               |
 
 a LOCF: Last observation (prior to rescue for rescued subjects) carried forward b All randomised subjects who took at least one dose of double-blind study medicinal product during the short-term double-blind period
 
@@ -551,19 +559,22 @@ c Least squares mean adjusted for baseline value
 
 In a 52-week, active-controlled non-inferiority study (with 52- and 104-week extension periods), Forxiga was evaluated as add-on therapy to metformin compared with a sulphonylurea (glipizide) as add-on therapy to metformin in subjects with inadequate glycaemic control (HbA1c &gt; 6.5% and ≤ 10%). The results showed a similar mean reduction in HbA1c from baseline to week 52, compared to glipizide, thus demonstrating non-inferiority (Table 3). At week 104, adjusted mean change from baseline in HbA1c was -0.32% for dapagliflozin and -0.14% for glipizide. At week 208, adjusted mean change from baseline in HbA1c was -0.10% for dapagliflozin and 0.20% for glipizide. At 52, 104 and 208 weeks, a significantly lower proportion of subjects in the group treated with dapagliflozin (3.5%, 4.3% and 5.0%, respectively) experienced at least one event of hypoglycaemia compared to the group treated with glipizide (40.8%, 47.0% and 50.0%, respectively). The proportion of subjects remaining in the study at week 104 and week 208 was 56.2% and 39.7% for the group treated with dapagliflozin and 50.0% and 34.6% for the group treated with glipizide.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 3. Results at week 52 (LOCF a ) in an active-controlled study comparing dapagliflozin to glipizide as add-on to metformin
 
-| Parameter                                        | Dapagliflozin + metformin   | Glipizide + metformin   |
+| Parameter                                        | Dapagliflozin + metformin   |   Glipizide + metformin |
 |--------------------------------------------------|-----------------------------|-------------------------|
-| N b                                              | 400                         | 401                     |
+| N b                                              | 400                         |                  401    |
 | HbA1c (%)                                        |                             |                         |
-| Baseline (mean)                                  | 7.69                        | 7.74                    |
-| Change from baseline c                           | -0.52                       | -0.52                   |
+| Baseline (mean)                                  | 7.69                        |                    7.74 |
+| Change from baseline c                           | -0.52                       |                   -0.52 |
 | Difference from glipizide + metformin c (95% CI) | 0.00 d (-0.11, 0.11)        |                         |
 | Body weight (kg)                                 |                             |                         |
-| Baseline (mean)                                  | 88.44                       | 87.60                   |
-| Change from baseline c                           | -3.22                       | 1.44                    |
-| Difference from glipizide + metformin c (95% CI) | -4.65 * (-5.14, -4.17)      |                         |
+| Baseline (mean)                                  | 88.44                       |                   87.6  |
+| Change from baseline c                           | -3.22                       |                    1.44 |
+| Difference from glipizide + metformin c (95% CI) | -4.65 * (-5.14,             |                         |
+|                                                  | -4.17)                      |                         |
 
 a LOCF: Last observation carried forward b Randomised and treated subjects with baseline and at least 1 post-baseline efficacy measurement
 
@@ -573,11 +584,9 @@ c Least squares mean adjusted for baseline value d Non-inferior to glipizide + m
 
 Dapagliflozin as an add-on with either metformin, glimepiride, metformin and a sulphonylurea, sitagliptin (with or without metformin) or insulin resulted in statistically significant reductions in HbA1c at 24 weeks compared with subjects receiving placebo (p &lt; 0.0001; Tables 4, 5 and 6).
 
-The reductions in HbA1c observed at week 24 were sustained in add-on combination studies (glimepiride and insulin) with 48-week data (glimepiride) and up to 104-week data (insulin). At week 48 when added to sitagliptin (with or without metformin), the adjusted mean change from baseline for dapagliflozin 10 mg and placebo was -0.30% and 0.38%, respectively. For the add-on to metformin study, HbA1c reductions were sustained through week 102 (-0.78% and 0.02% adjusted mean change from baseline for 10 mg and placebo, respectively). At week 104 for insulin (with or without additional oral glucose-lowering medicinal products), the HbA1c reductions were -0.71% and -0.06% adjusted mean change from baseline for dapagliflozin 10 mg and placebo, respectively. At
+The reductions in HbA1c observed at week 24 were sustained in add-on combination studies (glimepiride and insulin) with 48-week data (glimepiride) and up to 104-week data (insulin). At week 48 when added to sitagliptin (with or without metformin), the adjusted mean change from baseline for dapagliflozin 10 mg and placebo was -0.30% and 0.38%, respectively. For the add-on to metformin study, HbA1c reductions were sustained through week 102 (-0.78% and 0.02% adjusted mean change from baseline for 10 mg and placebo, respectively). At week 104 for insulin (with or without additional oral glucose-lowering medicinal products), the HbA1c reductions were -0.71% and -0.06% adjusted mean change from baseline for dapagliflozin 10 mg and placebo, respectively. At weeks 48 and 104, the insulin dose remained stable compared to baseline in subjects treated with dapagliflozin 10 mg at an average dose of 76 IU/day. In the placebo group there was a mean increase of 10.5 IU/day and 18.3 IU/day from baseline (mean average dose of 84 and 92 IU/day) at weeks 48 and 104, respectively. The proportion of subjects remaining in the study at week 104 was 72.4% for the group treated with dapagliflozin 10 mg and 54.8% for the placebo group.
 
 <div style=\"page-break-after: always\"></div>
-
-weeks 48 and 104, the insulin dose remained stable compared to baseline in subjects treated with dapagliflozin 10 mg at an average dose of 76 IU/day. In the placebo group there was a mean increase of 10.5 IU/day and 18.3 IU/day from baseline (mean average dose of 84 and 92 IU/day) at weeks 48 and 104, respectively. The proportion of subjects remaining in the study at week 104 was 72.4% for the group treated with dapagliflozin 10 mg and 54.8% for the placebo group.
 
 Table 4. Results of 24-week (LOCF a ) placebo-controlled studies of dapagliflozin in add-on combination with metformin or sitagliptin (with or without metformin)
 
@@ -589,8 +598,8 @@ Table 4. Results of 24-week (LOCF a ) placebo-controlled studies of dapagliflozi
 | HbA1c (%)                        |                      |                      |                                                |                                                |
 | Baseline (mean)                  | 7.92                 | 8.11                 | 7.90                                           | 7.97                                           |
 | Change from baseline c           | -0.84                | -0.30                | -0.45                                          | 0.04                                           |
-| Difference from placebo c        | -0.54 *              |                      | -0.48 * -0.34)                                 |                                                |
-| (95% CI)                         | (-0.74, -0.34)       |                      | (-0.62,                                        |                                                |
+| Difference from placebo c        | -0.54 *              |                      | -0.48 *                                        |                                                |
+| (95% CI)                         | (-0.74, -0.34)       |                      | (-0.62, -0.34)                                 |                                                |
 | Subjects (%) achieving: HbA1c<7% |                      |                      |                                                |                                                |
 | Adjusted for baseline            | 40.6 **              | 25.9                 |                                                |                                                |
 | Body weight (kg)                 |                      |                      |                                                |                                                |
@@ -603,9 +612,7 @@ Table 4. Results of 24-week (LOCF a ) placebo-controlled studies of dapagliflozi
 
 2 sitagliptin 100 mg/day
 
-a LOCF: Last observation (prior to rescue for rescued subjects) carried forward
-
-b All randomised subjects who took at least one dose of double-blind study medicinal product during the short-term double-blind period
+a LOCF: Last observation (prior to rescue for rescued subjects) carried forward b All randomised subjects who took at least one dose of double-blind study medicinal product during the short-term double-blind period
 
 c Least squares mean adjusted for baseline value
 
@@ -617,21 +624,23 @@ c Least squares mean adjusted for baseline value
 
 Table 5. Results of 24-week placebo-controlled studies of dapagliflozin in add-on combination with sulphonylurea (glimepiride) or metformin and a sulphonylurea
 
-|                                                                  | Add-on combination             | Add-on combination             | Add-on combination           | Add-on combination          |
-|------------------------------------------------------------------|--------------------------------|--------------------------------|------------------------------|-----------------------------|
-|                                                                  | Sulphonylurea (glimepiride 1 ) | Sulphonylurea (glimepiride 1 ) | Sulphonylurea + metformin 2  | Sulphonylurea + metformin 2 |
-|                                                                  | Dapagliflozin 10 mg            | Placebo                        | Dapagliflozin 10 mg          | Placebo                     |
-| N a                                                              | 151                            | 145                            | 108                          | 108                         |
-| HbA1c (%) b                                                      |                                |                                |                              |                             |
-| Baseline (mean)                                                  | 8.07                           | 8.15                           | 8.08                         | 8.24                        |
-| Change from baseline c Difference from placebo c (95% CI)        | -0.82 -0.68 * (-0.86, -0.51)   | -0.13                          | -0.86 -0.69 * (-0.89, -0.49) | -0.17                       |
-| Subjects (%) achieving: HbA1c < 7%(LOCF) d Adjusted for baseline |                                |                                |                              |                             |
-|                                                                  | 31.7 *                         | 13.0                           | 31.8 *                       | 11.1                        |
-| Body weight (kg) (LOCF) d                                        |                                |                                |                              |                             |
-| Baseline (mean)                                                  | 80.56                          | 80.94                          | 88.57                        | 90.07                       |
-| Change from baseline c                                           | -2.26                          | -0.72                          | -2.65                        | -0.58                       |
-| Difference from placebo c                                        | -1.54 *                        |                                | -2.07 *                      |                             |
-| (95% CI)                                                         | (-2.17, -0.92)                 |                                | (-2.79, -1.35)               |                             |
+|                                            | Add-on combination             | Add-on combination             | Add-on combination          | Add-on combination          |
+|--------------------------------------------|--------------------------------|--------------------------------|-----------------------------|-----------------------------|
+|                                            | Sulphonylurea (glimepiride 1 ) | Sulphonylurea (glimepiride 1 ) | Sulphonylurea + metformin 2 | Sulphonylurea + metformin 2 |
+|                                            | Dapagliflozin 10 mg            | Placebo                        | Dapagliflozin 10 mg         | Placebo                     |
+| N a                                        | 151                            | 145                            | 108                         | 108                         |
+| HbA1c (%) b                                |                                |                                |                             |                             |
+| Baseline (mean)                            | 8.07                           | 8.15                           | 8.08                        | 8.24                        |
+| Change from baseline c                     | -0.82                          | -0.13                          | -0.86 -0.69 *               | -0.17                       |
+| Difference from placebo c                  | -0.68 *                        |                                |                             |                             |
+| (95% CI)                                   | (-0.86, -0.51)                 |                                | (-0.89, -0.49)              |                             |
+| Subjects (%) achieving: HbA1c < 7%(LOCF) d |                                |                                |                             |                             |
+| Adjusted for baseline                      | 31.7 *                         | 13.0                           | 31.8 *                      | 11.1                        |
+| Body weight (kg) (LOCF) d                  |                                |                                |                             |                             |
+| Baseline (mean)                            | 80.56                          | 80.94                          | 88.57                       | 90.07                       |
+| Change from baseline c                     | -2.26                          | -0.72                          | -2.65                       | -0.58                       |
+| Difference from placebo c                  | -1.54 *                        |                                | -2.07 *                     |                             |
+| (95% CI)                                   | (-2.17, -0.92)                 |                                | (-2.79, -1.35)              |                             |
 
 1 glimepiride 4 mg/day;
 
@@ -651,25 +660,25 @@ e LRM: Longitudinal repeated measures analysis
 
 Table 6. Results at week 24 (LOCF a ) in a placebo-controlled study of dapagliflozin in combination with insulin (alone or with oral glucose-lowering medicinal products)
 
-| Parameter                                                           | Dapagliflozin 10 mg + insulin ± oral glucose-lowering medicinal products 2   | Placebo + insulin ± oral glucose-lowering medicinal products 2   |
+| Parameter                                                           | Dapagliflozin 10 mg + insulin ± oral glucose-lowering medicinal products 2   |   Placebo + insulin ± oral glucose-lowering medicinal products 2 |
 |---------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------|
-| N b                                                                 | 194                                                                          | 193                                                              |
+| N b                                                                 | 194                                                                          |                                                           193    |
 | HbA1c (%)                                                           |                                                                              |                                                                  |
-| Baseline (mean)                                                     | 8.58                                                                         | 8.46                                                             |
-| Change from baseline c                                              | -0.90                                                                        | -0.30                                                            |
+| Baseline (mean)                                                     | 8.58                                                                         |                                                             8.46 |
+| Change from baseline c                                              | -0.90                                                                        |                                                            -0.3  |
 | Difference from placebo c                                           | -0.60 *                                                                      |                                                                  |
 | (95% CI)                                                            | (-0.74, -0.45)                                                               |                                                                  |
 | Body weight (kg)                                                    |                                                                              |                                                                  |
-| Baseline (mean)                                                     | 94.63                                                                        | 94.21                                                            |
-| Change from baseline c                                              | -1.67                                                                        | 0.02                                                             |
+| Baseline (mean)                                                     | 94.63                                                                        |                                                            94.21 |
+| Change from baseline c                                              | -1.67                                                                        |                                                             0.02 |
 | Difference from placebo c                                           | -1.68 *                                                                      |                                                                  |
 | (95% CI)                                                            | (-2.19, -1.18)                                                               |                                                                  |
 | Mean daily insulin dose (IU) 1                                      |                                                                              |                                                                  |
-| Baseline (mean)                                                     | 77.96                                                                        | 73.96                                                            |
-| Change from baseline c                                              | -1.16                                                                        | 5.08                                                             |
+| Baseline (mean)                                                     | 77.96                                                                        |                                                            73.96 |
+| Change from baseline c                                              | -1.16                                                                        |                                                             5.08 |
 | Difference from placebo c                                           | -6.23 *                                                                      |                                                                  |
 | (95% CI)                                                            | (-8.84, -3.63)                                                               |                                                                  |
-| Subjects with mean daily insulin dose reduction of at least 10% (%) | 19.7 **                                                                      | 11.0                                                             |
+| Subjects with mean daily insulin dose reduction of at least 10% (%) | 19.7 **                                                                      |                                                            11    |
 
 a LOCF: Last observation (prior to or on the date of the first insulin up-titration, if needed) carried forward b All randomised subjects who took at least one dose of double-blind study medicinal product during the shortterm double-blind period
 
@@ -716,19 +725,19 @@ In a 28-week, double-blind, active comparator-controlled study, the combination 
 
 Table 8. Results of one 28-week study of dapagliflozin and prolonged-release exenatide versus dapagliflozin alone and prolonged-release exenatide alone, in combination with metformin (intent to treat patients)
 
-| Parameter                                                                                         | Dapagliflozin 10 mg QD + prolonged-release exenatide2mgQW   | Dapagliflozin 10 mg QD + placeboQW   | Prolonged-release exenatide 2 mg QW + placebo QD   |
+| Parameter                                                                                         |   Dapagliflozin 10 mg QD + prolonged-release exenatide2mgQW | Dapagliflozin 10 mg QD + placeboQW   | Prolonged-release exenatide 2 mg QW + placebo QD   |
 |---------------------------------------------------------------------------------------------------|-------------------------------------------------------------|--------------------------------------|----------------------------------------------------|
-| N                                                                                                 | 228                                                         | 230                                  | 227                                                |
+| N                                                                                                 |                                                      228    | 230                                  | 227                                                |
 | HbA1c (%)                                                                                         |                                                             |                                      |                                                    |
-| Baseline (mean)                                                                                   | 9.29                                                        | 9.25                                 | 9.26                                               |
-| Change from baseline a                                                                            | -1.98                                                       | -1.39                                | -1.60                                              |
-| Mean difference in change from baseline between combination and single medicinal product (95% CI) |                                                             | -0.59* (-0.84, -0.34)                | -0.38** (-0.63, -0.13)                             |
-| Subjects (%) achieving HbA1c  7%                                                                 | 44.7                                                        | 19.1                                 | 26.9                                               |
+| Baseline (mean)                                                                                   |                                                        9.29 | 9.25                                 | 9.26                                               |
+| Change from baseline a                                                                            |                                                       -1.98 | -1.39                                | -1.60                                              |
+| Mean difference in change from baseline between combination and single medicinal product (95% CI) |                                                             | -0.59*                               | -0.38** (-0.63, -0.13)                             |
+| Subjects (%) achieving HbA1c  7%                                                                 |                                                       44.7  | (-0.84, -0.34) 19.1                  | 26.9                                               |
 | Body weight (kg)                                                                                  |                                                             |                                      |                                                    |
-| Baseline (mean)                                                                                   | 92.13                                                       | 90.87                                | 89.12                                              |
-| Change from baseline a                                                                            | -3.55                                                       | -2.22                                | -1.56                                              |
-| Mean difference in change from baseline between combination and single medicinal product (95% CI) |                                                             | -1.33*                               | -2.00*                                             |
-|                                                                                                   |                                                             | (-2.12, -0.55)                       | (-2.79, -1.20)                                     |
+| Baseline (mean)                                                                                   |                                                       92.13 | 90.87                                | 89.12                                              |
+| Change from baseline a                                                                            |                                                       -3.55 | -2.22                                | -1.56                                              |
+| Mean difference in change from baseline between combination and single CI)                        |                                                             | -1.33*                               | -2.00*                                             |
+| medicinal product (95%                                                                            |                                                             | (-2.12, -0.55)                       | (-2.79, -1.20)                                     |
 
 QD=once daily, QW=once weekly, N=number of patients, CI=confidence interval.
 
@@ -786,25 +795,17 @@ The efficacy of dapagliflozin was assessed in a dedicated study in diabetic pati
 
 Table 9. Results at week 24 of a placebo-controlled study of dapagliflozin in diabetic patients with an eGFR ≥ 45 to &lt; 60 mL/min/1.73 m 2
 
-|                                             | Dapagliflozin a 10 mg   | Placebo a   |
+|                                             | Dapagliflozin a 10 mg   |   Placebo a |
 |---------------------------------------------|-------------------------|-------------|
 | HbA1c (%)                                   |                         |             |
-| Baseline (mean)                             | 8.35                    | 8.03        |
-| Change from baseline b                      | -0.37                   | -0.03       |
+| Baseline (mean)                             | 8.35                    |        8.03 |
+| Change from baseline b                      | -0.37                   |       -0.03 |
 | Difference from placebo b (95% CI)          | -0.34* (-0.53, -0.15)   |             |
 | Body weight (kg)                            |                         |             |
-| Baseline (mean)                             | 92.51                   | 88.30       |
-| Percent change from baseline c              | -3.42                   | -2.02       |
+| Baseline (mean)                             | 92.51                   |       88.3  |
+| Percent change from baseline c              | -3.42                   |       -2.02 |
 | Difference in percent change from placebo c | -1.43*                  |             |
 | (95% CI)                                    | (-2.15, -0.69)          |             |
-
-a  Metformin or metformin hydrochloride were part of the usual care in 69.4% and 64.0% of the patients for the dapagliflozin and placebo groups, respectively.
-
-b Least squares mean adjusted for baseline value
-
-c Derived from least squares mean adjusted for baseline value
-
-*  p&lt;0.001
 
 ## Patients with baseline HbA1c ≥ 9%
 
@@ -840,8 +841,6 @@ The treatment benefit of dapagliflozin over placebo was observed both in patient
 
 Figure 1: Time to first occurrence of hospitalisation for heart failure or cardiovascular death
 
-60
-
 <!-- image -->
 
 Patients at risk is the number of patients at risk at the beginning of the period.
@@ -850,24 +849,27 @@ HR=Hazard ratio CI=Confidence interval.
 
 Results on primary and secondary endpoints are displayed in Figure 2. Superiority of dapagliflozin over placebo was not demonstrated for MACE (p=0.172). The renal composite endpoint and all-cause mortality were therefore not tested as part of the confirmatory testing procedure.
 
-Figure 2: Treatment effects for the primary composite endpoints and their components, and the secondary endpoints and components
+Figure 2: Treatment effects for the primary composite endpoints and their components, and the secondary endpoints and components Page 1 of 1
 
-|                                                                           | Dapagliflozin n (%) (N=8582)   | Placebo n (%) (N=8578)   | Hazard Ratio (95% CI)   | p-value   |
-|---------------------------------------------------------------------------|--------------------------------|--------------------------|-------------------------|-----------|
-| Primary endpoints                                                         |                                |                          |                         |           |
-| Compositeofhospitalisationfor heartfailure/cardiovasculardeath            | 417 (4.9)                      | 496 (5.8)                | 0.83 (0.73, 0.95)       | 0.005     |
-| Composite of cardiovascular death/ myocardial infarction/ischaemic stroke | 756 (8.8)                      | 803 (9.4)                | 0.93 (0.84,1.03)        | 0.172     |
-| Components of the composite endpoints                                     |                                |                          |                         |           |
-| Hospitalisation for heart failure                                         | 212 (2.5)                      | 286 (3.3)                | 0.73 (0.61,0.88)        | <0.001    |
-| Cardiovascular death                                                      | 245 (2.9)                      | 249 (2.9)                | 0.98 (0.82, 1.17)       | 0.830     |
-| Myocardial infarction                                                     | 393 (4.6)                      | 441 (5.1)                | 0.89 (0.77, 1.01)       | 0.080     |
-| Ischaemic stroke                                                          | 235 (2.7)                      | 231 (2.7)                | 1.01 (0.84, 1.21)       | 0.916     |
-| Secondary endpoints                                                       |                                |                          |                         |           |
-| Renal composite endpoint Renal components:                                | 370 (4.3)                      | 480 (5.6)                | 0.76 (0.67, 0.87)       | <0.001    |
-| Sustained eGFR decrease                                                   | 120 (1.4)                      | 221 (2.6) 19 (0.2)       | 0.54 (0.43, 0.67)       | <0.001    |
-| End-stage kidney disease                                                  | 6 (<0.1)                       |                          | 0.31 (0.13, 0.79)       | 0.013     |
-| Renal death                                                               | 6 (<0.1)                       | 10 (0.1)                 | 0.60 (0.22,1.65)        | 0.324     |
-| All-cause mortality                                                       | 529 (6.2)                      | 570( 6.6)                | 0.93 (0.82,1.04)        | 0.198     |
+<!-- image -->
+
+|                                                                           | (N=8578) (N=8582) n n (%) Dapagliflozin   | (%) Placebo   | (95% CI) Hazard Ratio   | p-value   |
+|---------------------------------------------------------------------------|-------------------------------------------|---------------|-------------------------|-----------|
+| Primary endpoints                                                         |                                           |               |                         |           |
+| Composite of hospitalisation for                                          | 417 (4.9)                                 | 496 (5.8)     | 0.83 (0.73, 0.95)       | 0.005     |
+| Composite of cardiovascular death/ myocardial infarction/ischaemic stroke | 756 (8.8)                                 | 803 (9.4)     | 0.93 (0.84, 1.03)       | 0.172     |
+| Components of the composite endpoints                                     |                                           |               |                         |           |
+| Hospitalisation for heart failure                                         | 212 (2.5)                                 | 286 (3.3)     | 0.73 (0.61, 0.88)       | <0.001    |
+| Cardiovascular death                                                      | 245 (2.9)                                 | 249 (2.9)     | 0.98 (0.82, 1.17)       | 0.830     |
+| Myocardial infarction                                                     | 393 (4.6)                                 | 441 (5.1)     | 0.89 (0.77, 1.01)       | 0.080     |
+| Ischaemic stroke                                                          | 235 (2.7)                                 | 231 (2.7)     | 1.01 (0.84, 1.21)       | 0.916     |
+| Secondary endpoints                                                       |                                           |               |                         |           |
+| Renal composite endpoint                                                  | 370 (4.3)                                 | 480 (5.6)     | 0.76 (0.67, 0.87)       | <0.001    |
+| Renal components: Sustained eGFR decrease                                 | 120 (1.4)                                 | 221 (2.6)     | 0.54 (0.43, 0.67)       | <0.001    |
+| End-stage kidney disease                                                  | 6 (<0.1)                                  | 19 (0.2)      | 0.31 (0.13, 0.79)       | 0.013     |
+| Renal death                                                               | 6 (<0.1)                                  | 10 (0.1)      | 0.60 (0.22, 1.65)       | 0.324     |
+| All-cause mortality                                                       | 529 (6.2)                                 | 570( 6.6)     | 0.93 (0.82, 1.04)       | 0.198     |
+|                                                                           | Better                                    |               |                         |           |
 
 Renal composite endpoint defined as: sustained confirmed ≥ 40% decrease in eGFR to eGFR &lt;60 mL/min/1.73 m 2  and/or end-stage kidney disease (dialysis ≥ 90 days or kidney transplantation, sustained confirmed eGFR &lt; 15 mL/min/1.73 m 2 ) and/or renal or cardiovascular death.
 
@@ -925,7 +927,9 @@ Figure 4: Treatment effects for the primary composite endpoint, its components a
 | All-causemortality                                                                                  |               | 276 (7.9)                          | 329 (9.5)                          | 0.83 (0.71, 0.97)       | 0.0217    |
 | 0.5 DapagliflozinBetter                                                                             | 0.8 11.25 2   | Placebo Better                     |                                    |                         |           |
 
-An urgent heart failure visit was defined as an urgent, unplanned, assessment by a physician, e.g. in an Emergency Department, and requiring treatment for worsening heart failure (other than just an increase in oral diuretics). The number of first events for the single components are the actual number of first events for each component and does not add up to the number of events in the composite endpoint.
+An urgent heart failure visit was defined as an urgent, unplanned, assessment by a physician, e.g. in an Emergency Department, and requiring treatment for worsening heart failure (other than just an increase in oral diuretics).
+
+The number of first events for the single components are the actual number of first events for each component and does not add up to the number of events in the composite endpoint.
 
 Event rates are presented as the number of subjects with event per 100 patient years of follow-up. p-values for single components and all-cause mortality are nominal.
 
@@ -956,18 +960,6 @@ Table 10. Number and percent of patients with clinically meaningful improvement 
 | Deterioration                       | n (%) deteriorated d            | n (%) deteriorated d | Odds ratio e (95% CI) | p-value f |
 | ≥ 5 points                          | 537 (25.7)                      | 693 (33.6)           | 0.84 (0.78, 0.89)     | <0.0001   |
 | ≥ 10 points                         | 395 (18.9)                      | 506 (24.5)           | 0.85 (0.79, 0.92)     | <0.0001   |
-
-a  Number of patients with an observed KCCQ-TSS or who died prior to 8 months.
-
-b  Number of patients who had an observed improvement of at least 5, 10 or 15 points from baseline. Patients who died prior to the given timepoint are counted as not improved.
-
-c  For improvement, an odds ratio &gt; 1 favours dapagliflozin 10 mg.
-
-d  Number of patients who had an observed deterioration of at least 5 or 10 points from baseline. Patients who died prior to the given timepoint are counted as deteriorated.
-
-e  For deterioration, an odds ratio &lt; 1 favours dapagliflozin 10 mg.
-
-f  p-values are nominal.
 
 ## Nephropathy
 
@@ -1272,9 +1264,7 @@ Date of latest renewal: 28 August 2017
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
-
-38
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1452,11 +1442,12 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| CALENDAR BLISTERS NON-PERFORATED 5 mg                |
 
-## CALENDAR BLISTERS NON-PERFORATED 5 mg
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Forxiga 5 mg tablets dapagliflozin
 
@@ -1465,7 +1456,8 @@ Forxiga 5 mg tablets dapagliflozin
 
 AstraZeneca AB
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -1474,7 +1466,8 @@ EXP
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 Monday Tuesday Wednesday Thursday Friday Saturday Sunday
 
@@ -1625,7 +1618,8 @@ Forxiga 10 mg tablets dapagliflozin
 
 AstraZeneca AB
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -1863,7 +1857,9 @@ This may occur regardless of blood sugar level. Your doctor may decide to tempor
 ## Stop taking Forxiga and see a doctor as soon as possible if you notice any of the following serious side effects:
 
 - urinary tract infection, seen commonly (may affect up to 1 in 10 people).
-- These are signs of a severe infection of the urinary tract:
+
+These are signs of a severe infection of the urinary tract:
+
 - fever and/or chills
 - burning sensation when passing water (urinating)
 - pain in your back or side.
@@ -1979,7 +1975,7 @@ AstraZeneca Czech Republic s.r.o. Tel: +420 222 807 111
 
 ## Danmark
 
-AstraZeneca A/S Tlf: +45 43 66 64 62
+AstraZeneca A/S Tlf.: +45 43 66 64 62
 
 ## Deutschland
 
@@ -2047,7 +2043,7 @@ AstraZeneca Pharmaceuticals (Ireland) DAC Tel: +353 1609 7100
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor Sími: +354 535 7000
 
 ## Italia
 
@@ -2069,11 +2065,13 @@ Tel: +371 67377100
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 ## Polska
 
-AstraZeneca Pharma Poland Sp. z o.o. Tel.: +48 22 245 73 00
+AstraZeneca Pharma Poland Sp. z o.o.
+
+Tel.: +48 22 245 73 00
 
 ## Portugal
 
@@ -2098,31 +2096,3 @@ AstraZeneca Oy Puh/Tel: +358 10 23 010
 ## Sverige
 
 AstraZeneca AB Tel: +46 8 553 26 000
-
-## United Kingdom (Northern Ireland)
-
-AstraZeneca UK Ltd
-
-Tel: +44 1582 836 836
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF MARKETING AUTHORISATIONS(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for dapagliflozin, the scientific conclusions of PRAC are as follows:
-
-In view of the available data on polycythaemia from the literature and spontaneous reports and in view of a plausible mechanism of action, the PRAC considers there is sufficient evidence to justify a causal relationship between dapagliflozin and polycythaemia. The PRAC concluded that the product information of products containing dapagliflozin should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for dapagliflozin the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing dapagliflozin is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

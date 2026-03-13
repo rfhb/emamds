@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:37:14
+document_datetime: 2026-03-10 16:06:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kengrexal.html
 document_name: kengrexal.html
 version: success
-processing_time: 0.1140505
-conversion_datetime: 2025-12-30 02:42:13.779973
+processing_time: 0.1020954
+conversion_datetime: 2026-03-13 18:35:58.984145
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Kengrexal
 
 [RSS](/en/individual-human-medicine.xml/66259)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 cangrelor Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +111,7 @@ English (EN) (77.11 KB - PDF)
 
 [View](/en/documents/overview/kengrexal-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-391)
+[Other languages (22)](#file-language-dropdown-414)
 
 български (BG) (106.93 KB - PDF)
 
@@ -393,17 +391,17 @@ English (EN) (183.71 KB - PDF)
 
 Kengrexal : EPAR - Product Information
 
-English (EN) (202.62 KB - PDF)
+English (EN) (266.41 KB - PDF)
 
 **First published:** 12/06/2015
 
-**Last updated:** 06/08/2025
+**Last updated:** 10/03/2026
 
 [View](/en/documents/product-information/kengrexal-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-614)
+[Other languages (24)](#file-language-dropdown-871)
 
-български (BG) (245.14 KB - PDF)
+български (BG) (379.36 KB - PDF)
 
 **First published:**
 
@@ -411,11 +409,11 @@ English (EN) (202.62 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/bg/documents/product-information/kengrexal-epar-product-information_bg.pdf)
 
-español (ES) (214.17 KB - PDF)
+español (ES) (273.26 KB - PDF)
 
 **First published:**
 
@@ -423,11 +421,11 @@ español (ES) (214.17 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/es/documents/product-information/kengrexal-epar-product-information_es.pdf)
 
-čeština (CS) (220.73 KB - PDF)
+čeština (CS) (360.87 KB - PDF)
 
 **First published:**
 
@@ -435,11 +433,11 @@ español (ES) (214.17 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/cs/documents/product-information/kengrexal-epar-product-information_cs.pdf)
 
-dansk (DA) (216.55 KB - PDF)
+dansk (DA) (269.22 KB - PDF)
 
 **First published:**
 
@@ -447,11 +445,11 @@ dansk (DA) (216.55 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/da/documents/product-information/kengrexal-epar-product-information_da.pdf)
 
-Deutsch (DE) (214.08 KB - PDF)
+Deutsch (DE) (231.94 KB - PDF)
 
 **First published:**
 
@@ -459,11 +457,11 @@ Deutsch (DE) (214.08 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/de/documents/product-information/kengrexal-epar-product-information_de.pdf)
 
-eesti keel (ET) (218.4 KB - PDF)
+eesti keel (ET) (275.34 KB - PDF)
 
 **First published:**
 
@@ -471,11 +469,11 @@ eesti keel (ET) (218.4 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/et/documents/product-information/kengrexal-epar-product-information_et.pdf)
 
-ελληνικά (EL) (253.68 KB - PDF)
+ελληνικά (EL) (397.52 KB - PDF)
 
 **First published:**
 
@@ -483,11 +481,11 @@ eesti keel (ET) (218.4 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/el/documents/product-information/kengrexal-epar-product-information_el.pdf)
 
-français (FR) (220.34 KB - PDF)
+français (FR) (280.99 KB - PDF)
 
 **First published:**
 
@@ -495,11 +493,11 @@ français (FR) (220.34 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/fr/documents/product-information/kengrexal-epar-product-information_fr.pdf)
 
-hrvatski (HR) (213.87 KB - PDF)
+hrvatski (HR) (351.14 KB - PDF)
 
 **First published:**
 
@@ -507,11 +505,11 @@ hrvatski (HR) (213.87 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/hr/documents/product-information/kengrexal-epar-product-information_hr.pdf)
 
-íslenska (IS) (209.61 KB - PDF)
+íslenska (IS) (268.89 KB - PDF)
 
 **First published:**
 
@@ -519,11 +517,11 @@ hrvatski (HR) (213.87 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/is/documents/product-information/kengrexal-epar-product-information_is.pdf)
 
-italiano (IT) (194.49 KB - PDF)
+italiano (IT) (288.41 KB - PDF)
 
 **First published:**
 
@@ -531,11 +529,11 @@ italiano (IT) (194.49 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/it/documents/product-information/kengrexal-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (225.18 KB - PDF)
+latviešu valoda (LV) (370.83 KB - PDF)
 
 **First published:**
 
@@ -543,11 +541,11 @@ latviešu valoda (LV) (225.18 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/lv/documents/product-information/kengrexal-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (220.1 KB - PDF)
+lietuvių kalba (LT) (301.26 KB - PDF)
 
 **First published:**
 
@@ -555,11 +553,11 @@ lietuvių kalba (LT) (220.1 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/lt/documents/product-information/kengrexal-epar-product-information_lt.pdf)
 
-magyar (HU) (218.49 KB - PDF)
+magyar (HU) (364.92 KB - PDF)
 
 **First published:**
 
@@ -567,11 +565,11 @@ magyar (HU) (218.49 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/hu/documents/product-information/kengrexal-epar-product-information_hu.pdf)
 
-Malti (MT) (224.77 KB - PDF)
+Malti (MT) (333.44 KB - PDF)
 
 **First published:**
 
@@ -579,11 +577,11 @@ Malti (MT) (224.77 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/mt/documents/product-information/kengrexal-epar-product-information_mt.pdf)
 
-Nederlands (NL) (207.09 KB - PDF)
+Nederlands (NL) (271.02 KB - PDF)
 
 **First published:**
 
@@ -591,11 +589,11 @@ Nederlands (NL) (207.09 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/nl/documents/product-information/kengrexal-epar-product-information_nl.pdf)
 
-norsk (NO) (205.75 KB - PDF)
+norsk (NO) (269.7 KB - PDF)
 
 **First published:**
 
@@ -603,11 +601,11 @@ norsk (NO) (205.75 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/no/documents/product-information/kengrexal-epar-product-information_no.pdf)
 
-polski (PL) (236.86 KB - PDF)
+polski (PL) (370.46 KB - PDF)
 
 **First published:**
 
@@ -615,11 +613,11 @@ polski (PL) (236.86 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/pl/documents/product-information/kengrexal-epar-product-information_pl.pdf)
 
-português (PT) (222.79 KB - PDF)
+português (PT) (273.63 KB - PDF)
 
 **First published:**
 
@@ -627,11 +625,11 @@ português (PT) (222.79 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/pt/documents/product-information/kengrexal-epar-product-information_pt.pdf)
 
-română (RO) (217.28 KB - PDF)
+română (RO) (361.29 KB - PDF)
 
 **First published:**
 
@@ -639,11 +637,11 @@ română (RO) (217.28 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/ro/documents/product-information/kengrexal-epar-product-information_ro.pdf)
 
-slovenčina (SK) (232.9 KB - PDF)
+slovenčina (SK) (308.77 KB - PDF)
 
 **First published:**
 
@@ -651,11 +649,11 @@ slovenčina (SK) (232.9 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/sk/documents/product-information/kengrexal-epar-product-information_sk.pdf)
 
-slovenščina (SL) (210.33 KB - PDF)
+slovenščina (SL) (285.36 KB - PDF)
 
 **First published:**
 
@@ -663,11 +661,11 @@ slovenščina (SL) (210.33 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/sl/documents/product-information/kengrexal-epar-product-information_sl.pdf)
 
-Suomi (FI) (202.39 KB - PDF)
+Suomi (FI) (271.14 KB - PDF)
 
 **First published:**
 
@@ -675,11 +673,11 @@ Suomi (FI) (202.39 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/fi/documents/product-information/kengrexal-epar-product-information_fi.pdf)
 
-svenska (SV) (202.06 KB - PDF)
+svenska (SV) (270.69 KB - PDF)
 
 **First published:**
 
@@ -687,11 +685,11 @@ svenska (SV) (202.06 KB - PDF)
 
 **Last updated:**
 
-06/08/2025
+10/03/2026
 
 [View](/sv/documents/product-information/kengrexal-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000286423 05/08/2025
+**Latest procedure affecting product information:** VR/0000295860 10/02/2026
 
 icon globe
 
@@ -717,7 +715,7 @@ English (EN) (24.77 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kengrexal-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-371)
+[Other languages (24)](#file-language-dropdown-811)
 
 български (BG) (42.21 KB - PDF)
 
@@ -1038,7 +1036,7 @@ Chiesi Farmaceutici S.p.A.
 
 Via Palermo 26/A
 
-Opinion adopted 22/01/2015 Marketing authorisation issued 23/03/2015 Revision 17
+Opinion adopted 22/01/2015 Marketing authorisation issued 23/03/2015 Revision 18
 
 ## Assessment history
 
@@ -1050,9 +1048,11 @@ Collapse section
 
 Kengrexal : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (141.02 KB - PDF)
+English (EN) (142.01 KB - PDF)
 
 **First published:** 06/08/2025
+
+**Last updated:** 10/03/2026
 
 [View](/en/documents/procedural-steps-after/kengrexal-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1108,20 +1108,20 @@ English (EN) (64.01 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-kengrexal_en.pdf)
 
-#### News on Kengrexal
+## News on Kengrexal
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 January 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-january-2015) 23/01/2015
 
-#### More information on Kengrexal
+## More information on Kengrexal
 
-- [EMA/PE/0000221485 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000221485)
+- [EMA/PE/0000239079 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000239079)
 - [A multicentre observational, prospective cohort study including patients with acute coronary syndromes undergoing percutaneous coronary intervention who receive cangrelor i.v. transitioning to either clopidogrel, prasugrel or ticagrelor per os (ARCANGELO) - post-authorisation study](https://catalogues.ema.europa.eu/study/43794)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 06/08/2025
+**This page was last updated on** 10/03/2026
 
 ## Share this page
 

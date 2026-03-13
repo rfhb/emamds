@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-18 14:07:22
-document_pages: 365
+document_datetime: 2026-03-05 17:10:54
+document_pages: 364
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/inhixa-epar-product-information_en.pdf
 document_name: inhixa-epar-product-information_en.pdf
 version: success
-processing_time: 109.8859532
-conversion_datetime: 2025-12-18 11:56:30.849434
+processing_time: 134.2101513
+conversion_datetime: 2026-03-13 19:33:14.326497
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -112,11 +112,11 @@ Acute coronary syndrome: treatment of unstable angina and NSTEMI and treatment o
 
 should be maintained for a minimum of 2 days and continued until clinical stabilization. The usual duration of treatment is 2 to 8 days.
 
-Acetylsalicylic acid is recommended for all patients without contraindications at an initial oral loading dose of 150-300 mg (in acetylsalicylic acid-naive patients) and a maintenance dose of 75-325 mg/day long-term regardless of treatment strategy.
+Acetylsalicylic acid is recommended for all patients without contraindications at an initial oral loading dose of 150 -300 mg (in acetylsalicylic acid-naive patients) and a maintenance dose of 75 -325 mg/day long-term regardless of treatment strategy.
 
 For treatment of acute STEMI, the recommended dose of enoxaparin sodium is a single intravenous (IV) bolus of 3,000 IU (30 mg) plus a 100 IU/kg (1 mg/kg) SC dose followed by 100 IU/kg (1 mg/kg) administered SC every 12 hours (maximum 10,000 IU (100 mg) for each of the first two SC doses). Appropriate antiplatelet therapy such as oral acetylsalicylic acid (75 mg to 325 mg once daily) should be administered concomitantly unless contraindicated. The recommended duration of treatment is 8 days or until hospital discharge, whichever comes first. When administered in conjunction with a thrombolytic (fibrin specific or non-fibrin specific), enoxaparin sodium should be given between 15 minutes before and 30 minutes after the start of fibrinolytic therapy.
 
-- o For dose in patients ≥ 75 years of age, see paragrap h 'Elderly'.
+- o For dose in patients ≥ 75 years of age, see paragraph 'Elderly'.
 - o For patients managed with PCI, if the last dose of enoxaparin sodium SC was given less than 8 hours before balloon inflation, no additional dosing is needed. If the last SC administration was given more than 8 hours before balloon inflation, an IV bolus of 30 IU/kg (0.3 mg/kg) enoxaparin sodium should be administered.
 
 ## Special populations
@@ -180,7 +180,7 @@ The use of a tuberculin syringe or equivalent is recommended when using ampoules
 
 Injection should be made preferably when the patient is lying down. Enoxaparin sodium is administered by deep SC injection.
 
-When using pre-filled syringes, the air bubble should not be expelled from the syringe before the injection in order to avoid the loss of the medicinal product. When the quantity of the medicinal product to be injected requires to be adjusted based on the patient's body weight, use the graduated pre-filled syringes to reach the required volume by discarding the excess before injection. Please be aware that in some cases it is not possible to achieve an exact dose due to the graduations on the syringe, and in such case the volume shall be rounded up to the nearest graduation.
+When using pre-filled syringes, the air bubble should not be expelled from the syringe before the injection in order to avoid the loss of the medicinal product. When the quantity of the medicinal product to be injected requires to be adjusted based on the patient's body weight, use the graduated pre -filled syringes to reach the required volume by discarding the excess before injection. Please be aware that in some cases it is not possible to achieve an exact dose due to the graduations on the syringe, and in such case the volume shall be rounded up to the nearest graduation.
 
 The administration should be alternated between the left and right anterolateral or posterolateral abdominal wall.
 
@@ -218,8 +218,7 @@ Volume to be injected through IV line after dilution is completed at a concentra
 
 | Weight   | Required dose 30 IU/kg (0.3 mg/kg)   | Required dose 30 IU/kg (0.3 mg/kg)   | Volume to inject when diluted to a final concentration of 300 IU (3 mg)/mL   |
 |----------|--------------------------------------|--------------------------------------|------------------------------------------------------------------------------|
-| [kg]     | IU                                   | [mg]                                 | [mL]                                                                         |
-| 45       | 1,350                                | 13.5                                 | 4.5                                                                          |
+| [kg] 45  | IU 1,350                             | [mg] 13.5                            | [mL] 4.5                                                                     |
 | 50       | 1,500                                | 15                                   | 5                                                                            |
 | 55       | 1,650                                | 16.5                                 | 5.5                                                                          |
 | 60       | 1,800                                | 18                                   | 6                                                                            |
@@ -232,19 +231,19 @@ Volume to be injected through IV line after dilution is completed at a concentra
 | 95       | 2,850                                | 28.5                                 | 9.5                                                                          |
 | 100      | 3,000                                | 30                                   | 10                                                                           |
 | 105      | 3,150                                | 31.5                                 | 10.5                                                                         |
-| 110      | 3,300                                | 33                                   | 11                                                                           |
-| 115      | 3,450                                | 34.5                                 | 11.5                                                                         |
+|          | 3,300                                | 33                                   | 11                                                                           |
+| 110 115  | 3,450                                | 34.5                                 | 11.5                                                                         |
 | 120      | 3,600                                | 36                                   | 12                                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
-|   125 | 3,750   |   37.5 |   12.5 |
+|   125 |   3,750 |   37.5 |   12.5 |
 |-------|---------|--------|--------|
-|   130 | 3,900   |   39   |   13   |
-|   135 | 4,050   |   40.5 |   13.5 |
-|   140 | 4,200   |   42   |   14   |
-|   145 | 4,350   |   43.5 |   14.5 |
-|   150 | 4,500   |   45   |   15   |
+|   130 |   3,900 |   39   |   13   |
+|   135 |   4,050 |   40.5 |   13.5 |
+|   140 |   4,200 |   42   |   14   |
+|   145 |   4,350 |   43.5 |   14.5 |
+|   150 |   4,500 |   45   |   15   |
 
 ## Arterial line injection
 
@@ -421,7 +420,7 @@ Heparins can suppress adrenal secretion of aldosterone leading to hyperkalaemia 
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## Acute generalized exanthematous pustulosis
 
@@ -499,7 +498,7 @@ Acute generalized exanthematous pustulosis (AGEP) has been reported in associati
 
 Other  adverse  reactions  observed  in  clinical  trials  and  reported  in  post-marketing  experience  (*  indicates reactions from post-marketing experience) are detailed below.
 
-Frequencies are defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1000 to &lt; 1/100); rare (≥ 1/10,000 to &lt;1/1,000); and very rare (&lt; 1/10,000) or not known (cannot be estimated from available  data).  Within  each  system  organ  class,  adverse  reactions  are  presented  in  order  of  decreasing seriousness.
+Frequencies are defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1000 to &lt; 1/100); rare (≥ 1/10,000 to &lt;1/1 ,000); and very rare (&lt; 1/10,000) or not known (cannot be estimated from available  data).  Within  each  system  organ  class,  adverse  reactions  are  presented  in  order  of  decreasing seriousness.
 
 ## Blood and the lymphatic system disorders
 
@@ -515,9 +514,7 @@ Common: Allergic reaction
 
 Rare: Anaphylactic/Anaphylactoid reactions including shock*
 
-## Nervous system disorders
-
-Common: Headache*
+Nervous system disorders Common: Headache*
 
 ## Vascular disorders
 
@@ -527,19 +524,11 @@ Rare: Spinal haematoma* (or neuraxial haematoma). These reactions have resulted 
 
 Very common: Hepatic enzyme increases (mainly transaminases &gt; 3 times the upper limit of normality) Uncommon: Hepatocellular liver injury * Rare: Cholestatic liver injury*
 
-## Skin and subcutaneous tissue disorders
-
-Common: Urticaria, pruritus, erythema
-
-Uncommon: Bullous dermatitis
-
-Rare: Alopecia*
+Skin and subcutaneous tissue disorders Common: Urticaria, pruritus, erythema Uncommon: Bullous dermatitis Rare: Alopecia*
 
 <div style=\"page-break-after: always\"></div>
 
-Rare: Cutaneous vasculitis*, skin necrosis* usually occurring at the injection site (these phenomena have been usually preceded by purpura or erythematous plaques, infiltrated and painful).
-
-Injection site nodules* (inflammatory nodules, which were not cystic enclosure of enoxaparin). They resolve after a few days and should not cause treatment discontinuation.
+Rare: Cutaneous vasculitis*, skin necrosis* usually occurring at the injection site (these phenomena have been usually preceded by purpura or erythematous plaques, infiltrated and painful). Injection site nodules* (inflammatory nodules, which were not cystic enclosure of enoxaparin). They resolve after a few days and should not cause treatment discontinuation.
 
 Not known: Acute generalized exanthematous pustulosis (AGEP)
 
@@ -549,7 +538,9 @@ Rare: Osteoporosis* following long term therapy (greater than 3 months)
 
 ## General disorders and administration site conditions
 
-Common: Injection site haematoma, injection site pain, other injection site reaction (such as oedema, haemorrhage, hypersensitivity, inflammation, mass, pain, or reaction) Uncommon: Local irritation, skin necrosis at injection site
+Common: Injection site haematoma, injection site pain, other injection site reaction (such as oedema, haemorrhage, hypersensitivity, inflammation, mass, pain, or reaction)
+
+Uncommon: Local irritation, skin necrosis at injection site
 
 ## Investigations
 
@@ -566,10 +557,6 @@ As with other anticoagulants, haemorrhage may occur in the presence of associate
 | System organ class                     | Prophylaxis in surgical patients                                | Prophylaxis in medical patients   | Treatment in patients with DVT with or without PE                                             | Extended treatment of DVT and PE in patients with active cancer   | Treatment in patients with unstable angina and non-Q-wave MI   | Treatment in patients with acute STEMI                                                   |
 |----------------------------------------|-----------------------------------------------------------------|-----------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | Blood and lymphat ic system disorde rs | Very common : Haemorrhag e α Rare: Retroperiton eal haemorrhage | Common: Haemorrha ge α            | Very common: Haemorrhag e α Uncommon: Intracranial haemorrhage , Retroperiton eal haemorrhage | Common b : Haemorrha ge                                           | Common: Haemorrhag e α Rare: Retroperiton eal haemorrhage      | Common: Haemorrhag e α Uncommon: Intracranial haemorrhage , Retroperiton eal haemorrhage |
-
-α : such as haematoma, ecchymosis other than at injection site, wound haematoma, haematuria, epistaxis and gastro-intestinal haemorrhage.
-
-b : frequency based on a retrospective study on a registry including 3526 patients (see section 5.1)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -684,7 +671,7 @@ a day SC, (ii) enoxaparin sodium 100 IU/kg (1 mg/kg) every 12 hours SC, or (iii)
 
 Major bleeding were respectively 1.7% in the enoxaparin sodium 150 IU/kg (1.5 mg/kg) once a day group, 1.3% in the enoxaparin sodium 100 IU/kg (1 mg/kg) twice a day group and 2.1% in the heparin group.
 
-## Extended treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) and prevention of its recurrence in patients with active cancer
+Extended treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) and prevention of its recurrence in patients with active cancer
 
 In clinical trials with limited number of patients, reported rates of recurrent VTE in patients treated with enoxaparin given once or twice daily for 3 to 6 months appear comparable to those with warfarin.
 
@@ -707,7 +694,7 @@ Table. 6-month outcomes in patients completing 6-month treatment, by different r
 
 |                                              |                            | Enoxaparin all regimens    | Enoxaparin all regimens    | Enoxaparin all regimens    | Enoxaparin all regimens   | Enoxaparin all regimens          |                            |
 |----------------------------------------------|----------------------------|----------------------------|----------------------------|----------------------------|---------------------------|----------------------------------|----------------------------|
-| Outcome N (%) (95% CI)                       | Enoxapa rin all regimens   | Enoxapa rinOD              | Enoxapa rin BID            | Enoxapa rin BID to OD      | Enoxapar inOD to BID      | Enoxapar in More than one switch | EU- authorized LMWHs       |
+| Outcome N (%) (95% CI)                       | Enoxapa rin all regimens   | Enoxapa rin OD             | Enoxapa rin BID            | Enoxapa rin BID to OD      | Enoxapar inOD to BID      | Enoxapar in More than one switch | EU- authorized LMWHs       |
 |                                              | N=1432                     | N=444                      | N=529                      | N=406                      | N=14                      | N=39                             | N=428                      |
 | Recurrence of VTE                            | 70 (4.9%) (3.8%- 6.0%)     | 33 (7.4%) (5.0%- 9.9%)     | 22 (4.2%) (2.5%- 5.9%)     | 10 (2.5%) (0.9%- 4.0%)     | 1 (7.1%) (0%- 22.6%)      | 4 (10.3%) (0.3%- 20.2%)          | 23 (5.4%) (3.2%- 7.5%)     |
 | Major bleeding (fatal and non-fatal)         | 111 (7.8%) (6.4%- 9.1%)    | 31 (7.0%) (4.6%- 9.4%)     | 52 (9.8%) (7.3%- 12.4%)    | 21 (5.2%) (3.0%- 7.3%)     | 1 (7.1%) (0%- 22.6%)      | 6 (15.4%) (3.5%- 27.2%)          | 18 (4.2%) (2.3%- 6.1%)     |
@@ -740,7 +727,7 @@ There was a significant treatment benefit of enoxaparin sodium, as compared with
 
 The rate of the 30 day composite endpoint of death, myocardial re-infarction or intracranial haemorrhage (a measure of net clinical benefit) was significantly lower (p&lt;0.0001) in the enoxaparin sodium group (10.1%) as compared to the heparin group (12.2%), representing a 17% relative risk reduction in favour of treatment with enoxaparin sodium.
 
-The incidence of  major bleeding at 30 days was significantly higher (p&lt;0.0001) in the enoxaparin sodium group (2.1%) versus the heparin group (1.4%). There was a higher incidence of gastrointestinal bleeding in the enoxaparin  sodium  group  (0.5%)  versus  the  heparin  group  (0.1%),  while  the  incidence  of  intracranial haemorrhage was similar in both groups (0.8% with enoxaparin sodium versus 0.7% with heparin).
+The incidence of major bleeding at 30 days was significantly higher (p&lt;0.0001) in the enoxaparin sodium group (2.1%) versus the heparin group (1.4%). There was a higher incidence of gastrointestinal bleeding in the enoxaparin  sodium  group  (0.5%)  versus  the  heparin  group  (0.1%),  while  the  incidence  of  intracranial haemorrhage was similar in both groups (0.8% with enoxaparin sodium versus 0.7% with heparin).
 
 The beneficial effect of enoxaparin sodium on the primary end point observed during the first 30 days was maintained over a 12 month follow-up period.
 
@@ -762,7 +749,7 @@ and repeated SC administration and after single IV administration. The quantitat
 
 The absolute bioavailability of enoxaparin sodium after SC injection, based on anti-Xa activity, is close to 100%.
 
-## Different doses and formulations and dosing regimens can be used.
+Different doses and formulations and dosing regimens can be used.
 
 The mean maximum plasma anti-Xa activity level is observed 3 to 5 hours after SC injection and achieves approximately 0.2, 0.4, 1.0 and 1.3 anti-Xa IU/mL following single SC administration of 2,000 IU, 4,000 IU, 100 IU/kg and 150 IU/kg (20 mg, 40 mg, 1 mg/kg and 1.5 mg/kg) doses, respectively.
 
@@ -850,7 +837,7 @@ Enoxaparin sodium may be safely administered with sodium chloride 9mg/ml (0.9%) 
 
 ## 6.3 Shelf life
 
-## Pre-filled syringe
+Pre-filled syringe
 
 3 years
 
@@ -986,11 +973,10 @@ To avoid bruising, do not rub the injection site after you have injected yoursel
 
 <div style=\"page-break-after: always\"></div>
 
-## 10) Push hard the plunger. The needle guard, which is in the form of a plastic cylinder, will be activated automatically and it will completely cover the needle.
+- 10) Push hard the plunger. The needle guard, which is in the form of a plastic cylinder, will be activated automatically and it will completely cover the needle.
+- 11) Drop the used syringe into the sharps container. Close the container lid tightly and place the container out of reach of children.
 
 <!-- image -->
-
-- 11) Drop the used syringe into the sharps container. Close the container lid tightly and place the container out of reach of children.
 
 ## When the container is full, dispose of it as your doctor or pharmacist has instructed. Do not put it in the household rubbish.
 
@@ -1031,7 +1017,7 @@ Do not press on the plunger to remove the air bubble before injecting. The air b
 
 - 6) Hold the syringe in the hand you write with (like a pencil) and with your other hand, gently pinch the cleaned area of your abdomen between your forefinger and thumb to make a fold in the skin
 
-## Make sure you hold the skin fold throughout the injection.
+Make sure you hold the skin fold throughout the injection.
 
 - 7) Hold the syringe so that the needle is pointing downwards (vertically at a 90 º angle). Insert the full length of the needle into the skin fold
 - 8) Press down on the plunger with your thumb. This will inject the medicinal product into the fatty tissue of the abdomen. Make sure you hold the skin fold throughout the injection
@@ -1041,7 +1027,7 @@ Do not press on the plunger to remove the air bubble before injecting. The air b
 
 <!-- image -->
 
-## To avoid bruising, do not rub the injection site after you have injected yourself.
+To avoid bruising, do not rub the injection site after you have injected yourself.
 
 - 10) Let go of the plunger and allow the syringe to move up until the entire needle is guarded and locks into place.
 
@@ -1065,7 +1051,7 @@ Performing the injection properly under the skin (called 'subcutaneous injection
 
 | -   | Check the expiry date on the medicinal product. Do not use if the date has passed.                                                                                                                                                                                                                                                    |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| -   | Check if the syringe is not damaged and the liquid inside is clear. If not, use another syringe.                                                                                                                                                                                                                                      |
+| -   | Check if the syringe is not damaged and the liquid inside is clear . If not, use another syringe.                                                                                                                                                                                                                                     |
 | -   | Do not use this medicinal product if you notice any change in its appearance.                                                                                                                                                                                                                                                         |
 | -   | Make sure you know how much you are going to inject.                                                                                                                                                                                                                                                                                  |
 | -   | Check if the last injection caused any redness, change in skin colour, swelling, oozing or is still painful. If so talk to your doctor or nurse.                                                                                                                                                                                      |
@@ -1118,13 +1104,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Techdow Pharma Netherlands B.V. Strawinskylaan 1143, Toren C-11 1077XX Amsterdam Netherlands
+Techdow Pharma Netherlands B.V. Zuidplein 28, Tower 1, Level 3 (Unit 5) 1077 XV Amsterdam
+
+Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/16/1132/001 EU/1/16/1132/002 EU/1/16/1132/011 EU/1/16/1132/012 EU/1/16/1132/021 EU/1/16/1132/023 EU/1/16/1132/033 EU/1/16/1132/034 EU/1/16/1132/051 EU/1/16/1132/053 EU/1/16/1132/054 EU/1/16/1132/064 EU/1/16/1132/065 EU/1/16/1132/085 EU/1/16/1132/090 EU/1/16/1132/095
-
-EU/1/16/1132/117
+EU/1/16/1132/001 EU/1/16/1132/002 EU/1/16/1132/011 EU/1/16/1132/012 EU/1/16/1132/021 EU/1/16/1132/023 EU/1/16/1132/033 EU/1/16/1132/034 EU/1/16/1132/051 EU/1/16/1132/053 EU/1/16/1132/054 EU/1/16/1132/064 EU/1/16/1132/065 EU/1/16/1132/085 EU/1/16/1132/090 EU/1/16/1132/095 EU/1/16/1132/117
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1230,11 +1216,11 @@ Acute coronary syndrome: treatment of unstable angina and NSTEMI and treatment o
 
 should be maintained for a minimum of 2 days and continued until clinical stabilization. The usual duration of treatment is 2 to 8 days.
 
-Acetylsalicylic acid is recommended for all patients without contraindications at an initial oral loading dose of 150-300 mg (in acetylsalicylic acid-naive patients) and a maintenance dose of 75-325 mg/day long-term regardless of treatment strategy.
+Acetylsalicylic acid is recommended for all patients without contraindications at an initial oral loading dose of 150 -300 mg (in acetylsalicylic acid-naive patients) and a maintenance dose of 75 -325 mg/day long-term regardless of treatment strategy.
 
 For treatment of acute STEMI, the recommended dose of enoxaparin sodium is a single intravenous (IV) bolus of 3,000 IU (30 mg) plus a 100 IU/kg (1 mg/kg) SC dose followed by 100 IU/kg (1 mg/kg) administered SC every 12 hours (maximum 10,000 IU (100 mg) for each of the first two SC doses). Appropriate antiplatelet therapy such as oral acetylsalicylic acid (75 mg to 325 mg once daily) should be administered concomitantly unless contraindicated. The recommended duration of treatment is 8 days or until hospital discharge, whichever comes first. When administered in conjunction with a thrombolytic (fibrin specific or non-fibrin specific), enoxaparin sodium should be given between 15 minutes before and 30 minutes after the start of fibrinolytic therapy.
 
-- o For dose in patients ≥ 75 ye ars of age, see paragraph 'Elderly'.
+- o For dose in patients ≥ 75 years of age, see paragraph 'Elderly'.
 - o For patients managed with PCI, if the last dose of enoxaparin sodium SC was given less than 8 hours before balloon inflation, no additional dosing is needed. If the last SC administration was given more than 8 hours before balloon inflation, an IV bolus of 30 IU/kg (0.3 mg/kg) enoxaparin sodium should be administered.
 
 ## Special populations
@@ -1298,7 +1284,7 @@ The use of a tuberculin syringe or equivalent is recommended when using ampoules
 
 Injection should be made preferably when the patient is lying down. Enoxaparin sodium is administered by deep SC injection.
 
-When using pre-filled syringes, the air bubble should not be expelled from the syringe before the injection in order to avoid the loss of the medicinal product. When the quantity of the medicinal product to be injected requires to be adjusted based on the patient's body weight, use the graduated pre-filled syringes to reach the required volume by discarding the excess before injection. Please be aware that in some cases it is not possible to achieve an exact dose due to the graduations on the syringe, and in such case the volume shall be rounded up to the nearest graduation.
+When using pre-filled syringes, the air bubble should not be expelled from the syringe before the injection in order to avoid the loss of the medicinal product. When the quantity of the medicinal product to be injected requires to be adjusted based on the patient's body weight, use the graduated pre -filled syringes to reach the required volume by discarding the excess before injection. Please be aware that in some cases it is not possible to achieve an exact dose due to the graduations on the syringe, and in such case the volume shall be rounded up to the nearest graduation.
 
 The administration should be alternated between the left and right anterolateral or posterolateral abdominal wall.
 
@@ -1336,8 +1322,7 @@ Volume to be injected through IV line after dilution is completed at a concentra
 
 | Weight   | Required dose 30 IU/kg (0.3 mg/kg)   | Required dose 30 IU/kg (0.3 mg/kg)   | Volume to inject when diluted to a final concentration of 300 IU (3 mg)/mL   |
 |----------|--------------------------------------|--------------------------------------|------------------------------------------------------------------------------|
-| [kg]     | IU                                   | [mg]                                 | [mL]                                                                         |
-| 45       | 1,350                                | 13.5                                 | 4.5                                                                          |
+| [kg] 45  | IU 1,350                             | [mg] 13.5                            | [mL] 4.5                                                                     |
 | 50       | 1,500                                | 15                                   | 5                                                                            |
 | 55       | 1,650                                | 16.5                                 | 5.5                                                                          |
 | 60       | 1,800                                | 18                                   | 6                                                                            |
@@ -1350,19 +1335,19 @@ Volume to be injected through IV line after dilution is completed at a concentra
 | 95       | 2,850                                | 28.5                                 | 9.5                                                                          |
 | 100      | 3,000                                | 30                                   | 10                                                                           |
 | 105      | 3,150                                | 31.5                                 | 10.5                                                                         |
-| 110      | 3,300                                | 33                                   | 11                                                                           |
-| 115      | 3,450                                | 34.5                                 | 11.5                                                                         |
+|          | 3,300                                | 33                                   | 11                                                                           |
+| 110 115  | 3,450                                | 34.5                                 | 11.5                                                                         |
 | 120      | 3,600                                | 36                                   | 12                                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
-|   125 | 3,750   |   37.5 |   12.5 |
+|   125 |   3,750 |   37.5 |   12.5 |
 |-------|---------|--------|--------|
-|   130 | 3,900   |   39   |   13   |
-|   135 | 4,050   |   40.5 |   13.5 |
-|   140 | 4,200   |   42   |   14   |
-|   145 | 4,350   |   43.5 |   14.5 |
-|   150 | 4,500   |   45   |   15   |
+|   130 |   3,900 |   39   |   13   |
+|   135 |   4,050 |   40.5 |   13.5 |
+|   140 |   4,200 |   42   |   14   |
+|   145 |   4,350 |   43.5 |   14.5 |
+|   150 |   4,500 |   45   |   15   |
 
 ## Arterial line injection
 
@@ -1457,7 +1442,9 @@ In practice, if a confirmed significant decrease of the platelet count is observ
 
 ## Haemorrhage
 
-As with other anticoagulants, bleeding may occur at any site. If bleeding occurs, the origin of the haemorrhage should be investigated and appropriate treatment instituted. Enoxaparin sodium, as with any other anticoagulant therapy, should be used with caution in conditions with increased potential for bleeding, such as:
+As with other anticoagulants, bleeding may occur at any site. If bleeding occurs, the origin of the haemorrhage should be investigated and appropriate treatment instituted.
+
+Enoxaparin sodium, as with any other anticoagulant therapy, should be used with caution in conditions with increased potential for bleeding, such as:
 
 - -impaired haemostasis,
 - -history of peptic ulcer,
@@ -1541,7 +1528,7 @@ Heparins can suppress adrenal secretion of aldosterone leading to hyperkalaemia 
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## Acute generalized exanthematous pustulosis
 
@@ -1598,7 +1585,7 @@ Enoxaparin sodium has no or negligible influence on the ability to drive and use
 
 ## 4.8 Undesirable effects
 
-Summary of the safety profile
+## Summary of the safety profile
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1632,9 +1619,7 @@ Common: Allergic reaction
 
 Rare: Anaphylactic/Anaphylactoid reactions including shock*
 
-## Nervous system disorders
-
-Common: Headache*
+Nervous system disorders Common: Headache*
 
 ## Vascular disorders
 
@@ -1644,9 +1629,7 @@ Rare: Spinal haematoma* (or neuraxial haematoma). These reactions have resulted 
 
 Very common: Hepatic enzyme increases (mainly transaminases &gt; 3 times the upper limit of normality) Uncommon: Hepatocellular liver injury * Rare: Cholestatic liver injury*
 
-## Skin and subcutaneous tissue disorders
-
-Common: Urticaria, pruritus, erythema
+Skin and subcutaneous tissue disorders Common: Urticaria, pruritus, erythema
 
 Uncommon: Bullous dermatitis
 
@@ -1666,7 +1649,9 @@ Rare: Osteoporosis* following long term therapy (greater than 3 months)
 
 ## General disorders and administration site conditions
 
-Common: Injection site haematoma, injection site pain, other injection site reaction (such as oedema, haemorrhage, hypersensitivity, inflammation, mass, pain, or reaction) Uncommon: Local irritation, skin necrosis at injection site
+Common: Injection site haematoma, injection site pain, other injection site reaction (such as oedema, haemorrhage, hypersensitivity, inflammation, mass, pain, or reaction)
+
+Uncommon: Local irritation, skin necrosis at injection site
 
 ## Investigations
 
@@ -1683,10 +1668,6 @@ As with other anticoagulants, haemorrhage may occur in the presence of associate
 | System organ class                     | Prophylaxis in surgical patients                                | Prophylaxis in medical patients   | Treatment in patients with DVT with or without PE                                             | Extended treatment of DVT and PE in patients with active cancer   | Treatment in patients with unstable angina and non-Q-wave MI   | Treatment in patients with acute STEMI                                                   |
 |----------------------------------------|-----------------------------------------------------------------|-----------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | Blood and lymphat ic system disorde rs | Very common : Haemorrhag e α Rare: Retroperiton eal haemorrhage | Common: Haemorrha ge α            | Very common: Haemorrhag e α Uncommon: Intracranial haemorrhage , Retroperiton eal haemorrhage | Common b : Haemorrha ge                                           | Common: Haemorrhag e α Rare: Retroperiton eal haemorrhage      | Common: Haemorrhag e α Uncommon: Intracranial haemorrhage , Retroperiton eal haemorrhage |
-
-α : such as haematoma, ecchymosis other than at injection site, wound haematoma, haematuria, epistaxis and gastro-intestinal haemorrhage.
-
-b : frequency based on a retrospective study on a registry including 3526 patients (see section 5.1)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1766,7 +1747,7 @@ A double-blind, multicenter trial, compared a four-week and a one-week regimen o
 
 ## Prophylaxis of venous thromboembolic disease in medical patients with an acute illness expected to induce limitation of mobility
 
-In a double blind multicenter, parallel group study, enoxaparin sodium 2,000 IU (20 mg) or 4,000 IU (40 mg) once a day SC was compared to placebo in the prophylaxis of DVT in medical patients with severely restricted mobi lity during acute illness (defined as walking distance of &lt;10 meters for ≤3 days). This study included patients with heart failure (NYHA Class III or IV); acute respiratory failure or complicated chronic respiratory insufficiency, and acute infection or acute rheumatic; if associated with at least one VTE risk factor (age ≥75 years, cancer, previous VTE, obesity, varicose veins, hormone therapy, and chronic heart or respiratory failure).
+In a double blind multicenter, parallel group study, enoxaparin sodium 2,000 IU (20 mg) or 4,000 IU (40 mg) once a day SC was compared to placebo in the prophylaxis of DVT in medical patients with severely restricted mobility during acute illness (defined as walking distance of &lt;10 meters for ≤3 days). This study included patients with heart failure (NYHA Class III or IV); acute respiratory failure or complicated chronic respiratory insufficiency, and acute infection or acute rheumatic; if associated with at least one VTE risk factor (age ≥75 years, cancer, previous VTE, obesity, varicose veins, hormone therapy, and chronic heart or respiratory failure).
 
 A total of 1,102 patients were enrolled in the study, and 1,073 patients were treated. Treatment continued for 6 to 14 days (median duration 7 days). When given at a dose of 4,000 IU (40 mg) once a day SC, enoxaparin sodium significantly reduced the incidence of VTE as compared to placebo. The efficacy data are provided in the table below.
 
@@ -1782,7 +1763,7 @@ At approximately 3 months following enrolment, the incidence of VTE remained sig
 
 The occurrence of total and major bleeding were respectively 8.6% and 1.1% in the placebo group, 11.7% and 0.3% in the enoxaparin sodium 2,000 IU (20 mg) group and 12.6% and 1.7% in the enoxaparin sodium 4,000 IU (40 mg) group.
 
-Treatment of DVT with or without PE
+## Treatment of DVT with or without PE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1829,7 +1810,7 @@ Table. 6-month outcomes in patients completing 6-month treatment, by different r
 
 |                                              |                            | Enoxaparin all regimens    | Enoxaparin all regimens    | Enoxaparin all regimens    | Enoxaparin all regimens   | Enoxaparin all regimens          |                            |
 |----------------------------------------------|----------------------------|----------------------------|----------------------------|----------------------------|---------------------------|----------------------------------|----------------------------|
-| Outcome N (%) (95% CI)                       | Enoxapa rin all regimens   | Enoxapa rinOD              | Enoxapa rin BID            | Enoxapa rin BID to OD      | Enoxapar inOD to BID      | Enoxapar in More than one switch | EU- authorized LMWHs       |
+| Outcome N (%) (95% CI)                       | Enoxapa rin all regimens   | Enoxapa rin OD             | Enoxapa rin BID            | Enoxapa rin BID to OD      | Enoxapar inOD to BID      | Enoxapar in More than one switch | EU- authorized LMWHs       |
 |                                              | N=1432                     | N=444                      | N=529                      | N=406                      | N=14                      | N=39                             | N=428                      |
 | Recurrence of VTE                            | 70 (4.9%) (3.8%- 6.0%)     | 33 (7.4%) (5.0%- 9.9%)     | 22 (4.2%) (2.5%- 5.9%)     | 10 (2.5%) (0.9%- 4.0%)     | 1 (7.1%) (0%- 22.6%)      | 4 (10.3%) (0.3%- 20.2%)          | 23 (5.4%) (3.2%- 7.5%)     |
 | Major bleeding (fatal and non-fatal)         | 111 (7.8%) (6.4%- 9.1%)    | 31 (7.0%) (4.6%- 9.4%)     | 52 (9.8%) (7.3%- 12.4%)    | 21 (5.2%) (3.0%- 7.3%)     | 1 (7.1%) (0%- 22.6%)      | 6 (15.4%) (3.5%- 27.2%)          | 18 (4.2%) (2.3%- 6.1%)     |
@@ -1862,7 +1843,7 @@ There was a significant treatment benefit of enoxaparin sodium, as compared with
 
 The rate of the 30 day composite endpoint of death, myocardial re-infarction or intracranial haemorrhage (a measure of net clinical benefit) was significantly lower (p&lt;0.0001) in the enoxaparin sodium group (10.1%) as compared to the heparin group (12.2%), representing a 17% relative risk reduction in favour of treatment with enoxaparin sodium.
 
-The incidence of  major bleeding at 30 days was significantly higher (p&lt;0.0001) in the enoxaparin sodium group (2.1%) versus the heparin group (1.4%). There was a higher incidence of gastrointestinal bleeding in the enoxaparin  sodium  group  (0.5%)  versus  the  heparin  group  (0.1%),  while  the  incidence  of  intracranial haemorrhage was similar in both groups (0.8% with enoxaparin sodium versus 0.7% with heparin).
+The incidence of major bleeding at 30 days was significantly higher (p&lt;0.0001) in the enoxaparin sodium group (2.1%) versus the heparin group (1.4%). There was a higher incidence of gastrointestinal bleeding in the enoxaparin  sodium  group  (0.5%)  versus  the  heparin  group  (0.1%),  while  the  incidence  of  intracranial haemorrhage was similar in both groups (0.8% with enoxaparin sodium versus 0.7% with heparin).
 
 The beneficial effect of enoxaparin sodium on the primary end point observed during the first 30 days was maintained over a 12 month follow-up period.
 
@@ -1964,13 +1945,13 @@ SC injection
 
 Do not mix with other medicinal products.
 
-## IV (bolus) injection (for acute STEMI indication only)
+IV (bolus) injection (for acute STEMI indication only)
 
 Enoxaparin sodium may be safely administered with sodium chloride 9mg/ml (0.9%) solution for injection or 5% glucose in water for injections (see section 4.2).
 
 ## 6.3 Shelf life
 
-## Pre-filled syringe
+Pre-filled syringe
 
 3 years
 
@@ -2092,7 +2073,7 @@ Do not press on the plunger to remove the air bubble before injecting. The air b
 
 - 6) Hold the syringe in the hand you write with (like a pencil) and with your other hand, gently pinch the cleaned area of your abdomen between your forefinger and thumb to make a fold in the skin
 
-## Make sure you hold the skin fold throughout the injection.
+Make sure you hold the skin fold throughout the injection.
 
 - 7) Hold the syringe so that the needle is pointing downwards (vertically at a 90 º angle). Insert the full length of the needle into the skin fold
 - 8) Press down on the plunger with your thumb. This will inject the medicinal product into the fatty tissue of the abdomen. Make sure you hold the skin fold throughout the injection
@@ -2117,7 +2098,7 @@ Do not press on the plunger to remove the air bubble before injecting. The air b
 
 ## How to give yourself an injection of Inhixa with a pre-filled syringe with UltraSafe Passive needle guard
 
-## Your pre-filled syringe has UltraSafe Passive needle guard attached to it in order to protect you from needle stick injury.
+Your pre-filled syringe has UltraSafe Passive needle guard attached to it in order to protect you from needle stick injury.
 
 If you are able to give this medicinal product to yourself, your doctor or nurse will show you how to do this. Do not try to inject yourself if you have not been trained to do so. If you are not sure what to do, talk to your doctor or nurse immediately.
 
@@ -2174,7 +2155,7 @@ Make sure you hold the skin fold throughout the injection.
 
 ## When the container is full, dispose of it as your doctor or pharmacist has instructed. Do not put it in the household rubbish.
 
-How to give yourself an injection of Inhixa with a pre-filled syringe with manually activated needle guard
+## How to give yourself an injection of Inhixa with a pre-filled syringe with manually activated needle guard
 
 Your pre-filled syringe has a manually activated needle guard attached to it in order to protect you from needle stick injury.
 
@@ -2185,7 +2166,7 @@ Performing the injection properly under the skin (called 'subcutaneous injection
 ## Before injecting yourself with Inhixa
 
 - -Check the expiry date on the medicinal product. Do not use if the date has passed.
-- -Check if the syringe is not damaged and the liquid inside is clear. If not, use another syringe.
+- -Check if the syringe is not damaged and the liquid inside is clear . If not, use another syringe.
 - -Do not use this medicinal product if you notice any change in its appearance.
 - -Make sure you know how much you are going to inject.
 - -Check if the last injection caused any redness, change in skin colour, swelling, oozing or is still painful. If so talk to your doctor or nurse.
@@ -2236,7 +2217,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Techdow Pharma Netherlands B.V. Strawinskylaan 1143, Toren C-11 1077XX Amsterdam Netherlands
+Techdow Pharma Netherlands B.V. Zuidplein 28, Tower 1, Level 3 (Unit 5) 1077 XV Amsterdam Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2350,7 +2331,7 @@ Acute coronary syndrome: treatment of unstable angina and NSTEMI and treatment o
 
 should be maintained for a minimum of 2 days and continued until clinical stabilization. The usual duration of treatment is 2 to 8 days.
 
-Acetylsalicylic acid is recommended for all patients without contraindications at an initial oral loading dose of 150-300 mg (in acetylsalicylic acid-naive patients) and a maintenance dose of 75-325 mg/day long-term regardless of treatment strategy.
+Acetylsalicylic acid is recommended for all patients without contraindications at an initial oral loading dose of 150 -300 mg (in acetylsalicylic acid-naive patients) and a maintenance dose of 75 -325 mg/day long-term regardless of treatment strategy.
 
 For treatment of acute STEMI, the recommended dose of enoxaparin sodium is a single intravenous (IV) bolus of 3,000 IU (30 mg) plus a 100 IU/kg (1 mg/kg) SC dose followed by 100 IU/kg (1 mg/kg) administered SC every 12 hours (maximum 10,000 IU (100 mg) for each of the first two SC doses). Appropriate antiplatelet therapy such as oral acetylsalicylic acid (75 mg to 325 mg once daily) should be administered concomitantly unless contraindicated. The recommended duration of treatment is 8 days or until hospital discharge, whichever comes first. When administered in conjunction with a thrombolytic (fibrin specific or non-fibrin specific), enoxaparin sodium should be given between 15 minutes before and 30 minutes after the start of fibrinolytic therapy.
 
@@ -2418,7 +2399,7 @@ The use of a tuberculin syringe or equivalent is recommended when using ampoules
 
 Injection should be made preferably when the patient is lying down. Enoxaparin sodium is administered by deep SC injection.
 
-When using pre-filled syringes, the air bubble should not be expelled from the syringe before the injection in order to avoid the loss of the medicinal product. When the quantity of the medicinal product to be injected requires to be adjusted based on the patient's body weight, use the graduated pre-filled syringes to reach the required volume by discarding the excess before injection. Please be aware that in some cases it is not possible to achieve an exact dose due to the graduations on the syringe, and in such case the volume shall be rounded up to the nearest graduation.
+When using pre-filled syringes, the air bubble should not be expelled from the syringe before the injection in order to avoid the loss of the medicinal product. When the quantity of the medicinal product to be injected requires to be adjusted based on the patient's body weight, use the graduated pre -filled syringes to reach the required volume by discarding the excess before injection. Please be aware that in some cases it is not possible to achieve an exact dose due to the graduations on the syringe, and in such case the volume shall be rounded up to the nearest graduation.
 
 The administration should be alternated between the left and right anterolateral or posterolateral abdominal wall.
 
@@ -2456,8 +2437,7 @@ Volume to be injected through IV line after dilution is completed at a concentra
 
 | Weight   | Required dose 30 IU/kg (0.3 mg/kg)   | Required dose 30 IU/kg (0.3 mg/kg)   | Volume to inject when diluted to a final concentration of 300 IU (3 mg)/mL   |
 |----------|--------------------------------------|--------------------------------------|------------------------------------------------------------------------------|
-| [kg]     | IU                                   | [mg]                                 | [mL]                                                                         |
-| 45       | 1,350                                | 13.5                                 | 4.5                                                                          |
+| [kg] 45  | IU 1,350                             | [mg] 13.5                            | [mL] 4.5                                                                     |
 | 50       | 1,500                                | 15                                   | 5                                                                            |
 | 55       | 1,650                                | 16.5                                 | 5.5                                                                          |
 | 60       | 1,800                                | 18                                   | 6                                                                            |
@@ -2470,19 +2450,19 @@ Volume to be injected through IV line after dilution is completed at a concentra
 | 95       | 2,850                                | 28.5                                 | 9.5                                                                          |
 | 100      | 3,000                                | 30                                   | 10                                                                           |
 | 105      | 3,150                                | 31.5                                 | 10.5                                                                         |
-| 110      | 3,300                                | 33                                   | 11                                                                           |
-| 115      | 3,450                                | 34.5                                 | 11.5                                                                         |
+|          | 3,300                                | 33                                   | 11                                                                           |
+| 110 115  | 3,450                                | 34.5                                 | 11.5                                                                         |
 | 120      | 3,600                                | 36                                   | 12                                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
-|   125 | 3,750   |   37.5 |   12.5 |
+|   125 |   3,750 |   37.5 |   12.5 |
 |-------|---------|--------|--------|
-|   130 | 3,900   |   39   |   13   |
-|   135 | 4,050   |   40.5 |   13.5 |
-|   140 | 4,200   |   42   |   14   |
-|   145 | 4,350   |   43.5 |   14.5 |
-|   150 | 4,500   |   45   |   15   |
+|   130 |   3,900 |   39   |   13   |
+|   135 |   4,050 |   40.5 |   13.5 |
+|   140 |   4,200 |   42   |   14   |
+|   145 |   4,350 |   43.5 |   14.5 |
+|   150 |   4,500 |   45   |   15   |
 
 ## Arterial line injection
 
@@ -2661,7 +2641,7 @@ Heparins can suppress adrenal secretion of aldosterone leading to hyperkalaemia 
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## Acute generalized exanthematous pustulosis
 
@@ -2718,7 +2698,7 @@ Enoxaparin sodium has no or negligible influence on the ability to drive and use
 
 ## 4.8 Undesirable effects
 
-Summary of the safety profile
+## Summary of the safety profile
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2752,9 +2732,7 @@ Common: Allergic reaction
 
 Rare: Anaphylactic/Anaphylactoid reactions including shock*
 
-## Nervous system disorders
-
-Common: Headache*
+Nervous system disorders Common: Headache*
 
 ## Vascular disorders
 
@@ -2764,9 +2742,7 @@ Rare: Spinal haematoma* (or neuraxial haematoma). These reactions have resulted 
 
 Very common: Hepatic enzyme increases (mainly transaminases &gt; 3 times the upper limit of normality) Uncommon: Hepatocellular liver injury * Rare: Cholestatic liver injury*
 
-## Skin and subcutaneous tissue disorders
-
-Common: Urticaria, pruritus, erythema
+Skin and subcutaneous tissue disorders Common: Urticaria, pruritus, erythema
 
 Uncommon: Bullous dermatitis
 
@@ -2786,11 +2762,7 @@ Rare: Osteoporosis* following long term therapy (greater than 3 months)
 
 ## General disorders and administration site conditions
 
-Common: Injection site haematoma, injection site pain, other injection site reaction (such as oedema,
-
-haemorrhage, hypersensitivity, inflammation, mass, pain, or reaction)
-
-Uncommon: Local irritation, skin necrosis at injection site
+Common: Injection site haematoma, injection site pain, other injection site reaction (such as oedema, haemorrhage, hypersensitivity, inflammation, mass, pain, or reaction) Uncommon: Local irritation, skin necrosis at injection site
 
 ## Investigations
 
@@ -2807,10 +2779,6 @@ As with other anticoagulants, haemorrhage may occur in the presence of associate
 | System organ class                     | Prophylaxis in surgical patients                                | Prophylaxis in medical patients   | Treatment in patients with DVT with or without PE                                             | Extended treatment of DVT and PE in patients with active cancer   | Treatment in patients with unstable angina and non-Q-wave MI   | Treatment in patients with acute STEMI                                                   |
 |----------------------------------------|-----------------------------------------------------------------|-----------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | Blood and lymphat ic system disorde rs | Very common : Haemorrhag e α Rare: Retroperiton eal haemorrhage | Common: Haemorrha ge α            | Very common: Haemorrhag e α Uncommon: Intracranial haemorrhage , Retroperiton eal haemorrhage | Common b : Haemorrha ge                                           | Common: Haemorrhag e α Rare: Retroperiton eal haemorrhage      | Common: Haemorrhag e α Uncommon: Intracranial haemorrhage , Retroperiton eal haemorrhage |
-
-α : such as haematoma, ecchymosis other than at injection site, wound haematoma, haematuria, epistaxis and gastro-intestinal haemorrhage.
-
-b : frequency based on a retrospective study on a registry including 3526 patients (see section 5.1)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2890,7 +2858,7 @@ A double-blind, multicenter trial, compared a four-week and a one-week regimen o
 
 ## Prophylaxis of venous thromboembolic disease in medical patients with an acute illness expected to induce limitation of mobility
 
-In a double blind multicenter, parallel group study, enoxaparin sodium 2,000 IU (20 mg) or 4,000 IU (40 mg) once a day SC was compared to placebo in the prophylaxis of DVT in medical patients with severely restricted m obility during acute illness (defined as walking distance of &lt;10 meters for ≤3 days). This study included patients with heart failure (NYHA Class III or IV); acute respiratory failure or complicated chronic respiratory insufficiency, and acute infection or acute rheumatic; if associated with at least one VTE risk factor (age ≥75 years, cancer, previous VTE, obesity, varicose veins, hormone therapy, and chronic heart or respiratory failure).
+In a double blind multicenter, parallel group study, enoxaparin sodium 2,000 IU (20 mg) or 4,000 IU (40 mg) once a day SC was compared to placebo in the prophylaxis of DVT in medical patients with severely restricted mobility during acute illness (defined as walking distance of &lt;10 meters for ≤3 days). This study included patients with heart failure (NYHA Class III or IV); acute respiratory failure or complicated chronic respiratory insufficiency, and acute infection or acute rheumatic; if associated with at least one VTE risk factor (age ≥75 years, cancer, previous VTE, obesity, varicose veins, hormone therapy, and chronic heart or respiratory failure).
 
 A total of 1,102 patients were enrolled in the study, and 1,073 patients were treated. Treatment continued for 6 to 14 days (median duration 7 days). When given at a dose of 4,000 IU (40 mg) once a day SC, enoxaparin sodium significantly reduced the incidence of VTE as compared to placebo. The efficacy data are provided in the table below.
 
@@ -2925,7 +2893,7 @@ a day SC, (ii) enoxaparin sodium 100 IU/kg (1 mg/kg) every 12 hours SC, or (iii)
 
 Major bleeding were respectively 1.7% in the enoxaparin sodium 150 IU/kg (1.5 mg/kg) once a day group, 1.3% in the enoxaparin sodium 100 IU/kg (1 mg/kg) twice a day group and 2.1% in the heparin group.
 
-## Extended treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) and prevention of its recurrence in patients with active cancer
+Extended treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) and prevention of its recurrence in patients with active cancer
 
 In clinical trials with limited number of patients, reported rates of recurrent VTE in patients treated with enoxaparin given once or twice daily for 3 to 6 months appear comparable to those with warfarin.
 
@@ -2948,7 +2916,7 @@ Table. 6-month outcomes in patients completing 6-month treatment, by different r
 
 |                                              |                            | Enoxaparin all regimens    | Enoxaparin all regimens    | Enoxaparin all regimens    | Enoxaparin all regimens   | Enoxaparin all regimens          |                            |
 |----------------------------------------------|----------------------------|----------------------------|----------------------------|----------------------------|---------------------------|----------------------------------|----------------------------|
-| Outcome N (%) (95% CI)                       | Enoxapa rin all regimens   | Enoxapa rinOD              | Enoxapa rin BID            | Enoxapa rin BID to OD      | Enoxapar inOD to BID      | Enoxapar in More than one switch | EU- authorized LMWHs       |
+| Outcome N (%) (95% CI)                       | Enoxapa rin all regimens   | Enoxapa rin OD             | Enoxapa rin BID            | Enoxapa rin BID to OD      | Enoxapar inOD to BID      | Enoxapar in More than one switch | EU- authorized LMWHs       |
 |                                              | N=1432                     | N=444                      | N=529                      | N=406                      | N=14                      | N=39                             | N=428                      |
 | Recurrence of VTE                            | 70 (4.9%) (3.8%- 6.0%)     | 33 (7.4%) (5.0%- 9.9%)     | 22 (4.2%) (2.5%- 5.9%)     | 10 (2.5%) (0.9%- 4.0%)     | 1 (7.1%) (0%- 22.6%)      | 4 (10.3%) (0.3%- 20.2%)          | 23 (5.4%) (3.2%- 7.5%)     |
 | Major bleeding (fatal and non-fatal)         | 111 (7.8%) (6.4%- 9.1%)    | 31 (7.0%) (4.6%- 9.4%)     | 52 (9.8%) (7.3%- 12.4%)    | 21 (5.2%) (3.0%- 7.3%)     | 1 (7.1%) (0%- 22.6%)      | 6 (15.4%) (3.5%- 27.2%)          | 18 (4.2%) (2.3%- 6.1%)     |
@@ -2981,7 +2949,7 @@ There was a significant treatment benefit of enoxaparin sodium, as compared with
 
 The rate of the 30 day composite endpoint of death, myocardial re-infarction or intracranial haemorrhage (a measure of net clinical benefit) was significantly lower (p&lt;0.0001) in the enoxaparin sodium group (10.1%) as compared to the heparin group (12.2%), representing a 17% relative risk reduction in favour of treatment with enoxaparin sodium.
 
-The incidence of  major bleeding at 30 days was significantly higher (p&lt;0.0001) in the enoxaparin sodium group (2.1%) versus the heparin group (1.4%). There was a higher incidence of gastrointestinal bleeding in the enoxaparin  sodium  group  (0.5%)  versus  the  heparin  group  (0.1%),  while  the  incidence  of  intracranial haemorrhage was similar in both groups (0.8% with enoxaparin sodium versus 0.7% with heparin).
+The incidence of major bleeding at 30 days was significantly higher (p&lt;0.0001) in the enoxaparin sodium group (2.1%) versus the heparin group (1.4%). There was a higher incidence of gastrointestinal bleeding in the enoxaparin  sodium  group  (0.5%)  versus  the  heparin  group  (0.1%),  while  the  incidence  of  intracranial haemorrhage was similar in both groups (0.8% with enoxaparin sodium versus 0.7% with heparin).
 
 The beneficial effect of enoxaparin sodium on the primary end point observed during the first 30 days was maintained over a 12 month follow-up period.
 
@@ -3003,7 +2971,7 @@ and repeated SC administration and after single IV administration. The quantitat
 
 The absolute bioavailability of enoxaparin sodium after SC injection, based on anti-Xa activity, is close to 100%.
 
-## Different doses and formulations and dosing regimens can be used.
+Different doses and formulations and dosing regimens can be used.
 
 The mean maximum plasma anti-Xa activity level is observed 3 to 5 hours after SC injection and achieves approximately 0.2, 0.4, 1.0 and 1.3 anti-Xa IU/mL following single SC administration of 2,000 IU, 4,000 IU, 100 IU/kg and 150 IU/kg (20 mg, 40 mg, 1 mg/kg and 1.5 mg/kg) doses, respectively.
 
@@ -3121,7 +3089,7 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-## INSTRUCTIONS FOR USE: PRE-FILLED SYRINGE
+INSTRUCTIONS FOR USE: PRE-FILLED SYRINGE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3227,11 +3195,10 @@ To avoid bruising, do not rub the injection site after you have injected yoursel
 
 <div style=\"page-break-after: always\"></div>
 
-## 10) Push hard the plunger. The needle guard, which is in the form of a plastic cylinder, will be activated automatically and it will completely cover the needle.
+- 10) Push hard the plunger. The needle guard, which is in the form of a plastic cylinder, will be activated automatically and it will completely cover the needle.
+- 11) Drop the used syringe into the sharps container. Close the container lid tightly and place the container out of reach of children.
 
 <!-- image -->
-
-- 11) Drop the used syringe into the sharps container. Close the container lid tightly and place the container out of reach of children.
 
 ## When the container is full, dispose of it as your doctor or pharmacist has instructed. Do not put it in the household rubbish.
 
@@ -3272,7 +3239,7 @@ Do not press on the plunger to remove the air bubble before injecting. The air b
 
 - 6) Hold the syringe in the hand you write with (like a pencil) and with your other hand, gently pinch the cleaned area of your abdomen between your forefinger and thumb to make a fold in the skin
 
-## Make sure you hold the skin fold throughout the injection.
+Make sure you hold the skin fold throughout the injection.
 
 - 7) Hold the syringe so that the needle is pointing downwards (vertically at a 90 º angle). Insert the full length of the needle into the skin fold
 - 8) Press down on the plunger with your thumb. This will inject the medicinal product into the fatty tissue of the abdomen. Make sure you hold the skin fold throughout the injection
@@ -3282,7 +3249,7 @@ Do not press on the plunger to remove the air bubble before injecting. The air b
 
 <!-- image -->
 
-## To avoid bruising, do not rub the injection site after you have injected yourself.
+To avoid bruising, do not rub the injection site after you have injected yourself.
 
 - 10) Let go of the plunger and allow the syringe to move up until the entire needle is guarded and locks into place.
 
@@ -3294,7 +3261,7 @@ Do not press on the plunger to remove the air bubble before injecting. The air b
 
 ## When the container is full, dispose of it as your doctor or pharmacist has instructed. Do not put it in the household rubbish.
 
-How to give yourself an injection of Inhixa with a pre-filled syringe with manually activated needle guard
+## How to give yourself an injection of Inhixa with a pre-filled syringe with manually activated needle guard
 
 Your pre-filled syringe has a manually activated needle guard attached to it in order to protect you from needle stick injury.
 
@@ -3306,18 +3273,18 @@ Performing the injection properly under the skin (called 'subcutaneous injection
 
 | -   | Check the expiry date on the medicinal product. Do not use if the date has passed.                                                                                                                                                                                                                                                    |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| -   | Check if the syringe is not damaged and the liquid inside is clear. If not, use another syringe.                                                                                                                                                                                                                                      |
+| -   | Check if the syringe is not damaged and the liquid inside is clear . If not, use another syringe.                                                                                                                                                                                                                                     |
 | -   | Do not use this medicinal product if you notice any change in its appearance.                                                                                                                                                                                                                                                         |
 | -   | Make sure you know how much you are going to inject.                                                                                                                                                                                                                                                                                  |
 | -   | Check if the last injection caused any redness, change in skin colour, swelling, oozing or is still painful. If so talk to your doctor or nurse.                                                                                                                                                                                      |
 | -   | Decide where you are going to inject the medicinal product. Change the place where you inject each time from the right to the left side of your abdomen (belly). This medicinal product should be injected just under the skin on your abdomen, but not too near the belly button or any scar tissue (at least 5 cm away from these). |
-| -   | The pre-filled syringe is intended for single use only.                                                                                                                                                                                                                                                                               |
 
 ## Instructions on injecting yourself with Inhixa
 
-- 1) Wash your hands and the area that you will inject with soap and water. Dry them.
-- 2) Sit or lie in a comfortable position so you are relaxed. Make sure you can see the place you are going to inject. In a lounge chair, recliner, or propped up in bed with pillows is ideal.
-- 3) Choose an area on the right or left side of your stomach. This should be at least 5 cm away from your belly button and out towards your sides.
+| 1)   | Wash your hands and the area that you will inject with soap and water. Dry them.                                                                                                           |
+|------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2)   | Sit or lie in a comfortable position so you are relaxed. Make sure you can see the place you are going to inject. In a lounge chair, recliner, or propped up in bed with pillows is ideal. |
+| 3)   | Choose an area on the right or left side of your stomach. This should be at least 5 cm away from your belly button and out towards your sides.                                             |
 
 Remember: Do not inject yourself within 5 cm of your belly button or around existing scars or bruises. Change the place where you inject between the left and right sides of your stomach, depending on the area you were last injected.
 
@@ -3358,11 +3325,55 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Techdow Pharma Netherlands B.V. Strawinskylaan 1143, Toren C-11 1077XX Amsterdam Netherlands
+Techdow Pharma Netherlands B.V. Zuidplein 28, Tower 1, Level 3 (Unit 5) 1077 XV Amsterdam Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/16/1132/005 EU/1/16/1132/006 EU/1/16/1132/015 EU/1/16/1132/016 EU/1/16/1132/026 EU/1/16/1132/027 EU/1/16/1132/028 EU/1/16/1132/037 EU/1/16/1132/038 EU/1/16/1132/045 EU/1/16/1132/046 EU/1/16/1132/057 EU/1/16/1132/058 EU/1/16/1132/083 EU/1/16/1132/087 EU/1/16/1132/092 EU/1/16/1132/099 EU/1/16/1132/100 EU/1/16/1132/101 EU/1/16/1132/102 EU/1/16/1132/111 EU/1/16/1132/118 EU/1/16/1132/119
+EU/1/16/1132/005
+
+EU/1/16/1132/006
+
+EU/1/16/1132/015
+
+EU/1/16/1132/016
+
+EU/1/16/1132/026
+
+EU/1/16/1132/027
+
+EU/1/16/1132/028
+
+EU/1/16/1132/037
+
+EU/1/16/1132/038
+
+EU/1/16/1132/045
+
+EU/1/16/1132/046
+
+EU/1/16/1132/057
+
+EU/1/16/1132/058
+
+EU/1/16/1132/083
+
+EU/1/16/1132/087
+
+EU/1/16/1132/092
+
+EU/1/16/1132/099
+
+EU/1/16/1132/100
+
+EU/1/16/1132/101
+
+EU/1/16/1132/102
+
+EU/1/16/1132/111
+
+EU/1/16/1132/118
+
+EU/1/16/1132/119
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3476,7 +3487,7 @@ Acute coronary syndrome: treatment of unstable angina and NSTEMI and treatment o
 
 should be maintained for a minimum of 2 days and continued until clinical stabilization. The usual duration of treatment is 2 to 8 days.
 
-Acetylsalicylic acid is recommended for all patients without contraindications at an initial oral loading dose of 150-300 mg (in acetylsalicylic acid-naive patients) and a maintenance dose of 75-325 mg/day long-term regardless of treatment strategy.
+Acetylsalicylic acid is recommended for all patients without contraindications at an initial oral loading dose of 150 -300 mg (in acetylsalicylic acid-naive patients) and a maintenance dose of 75 -325 mg/day long-term regardless of treatment strategy.
 
 For treatment of acute STEMI, the recommended dose of enoxaparin sodium is a single intravenous (IV) bolus of 3,000 IU (30 mg) plus a 100 IU/kg (1 mg/kg) SC dose followed by 100 IU/kg (1 mg/kg) administered SC every 12 hours (maximum 10,000 IU (100 mg) for each of the first two SC doses). Appropriate antiplatelet therapy such as oral acetylsalicylic acid (75 mg to 325 mg once daily) should be administered concomitantly unless contraindicated. The recommended duration of treatment is 8 days or until hospital discharge, whichever comes first. When administered in conjunction with a thrombolytic (fibrin specific or non-fibrin specific), enoxaparin sodium should be given between 15 minutes before and 30 minutes after the start of fibrinolytic therapy.
 
@@ -3544,7 +3555,7 @@ The use of a tuberculin syringe or equivalent is recommended when using ampoules
 
 Injection should be made preferably when the patient is lying down. Enoxaparin sodium is administered by deep SC injection.
 
-When using pre-filled syringes, the air bubble should not be expelled from the syringe before the injection in order to avoid the loss of the medicinal product. When the quantity of the medicinal product to be injected requires to be adjusted based on the patient's body weight, use the graduated pre-filled syringes to reach the required volume by discarding the excess before injection. Please be aware that in some cases it is not possible to achieve an exact dose due to the graduations on the syringe, and in such case the volume shall be rounded up to the nearest graduation.
+When using pre-filled syringes, the air bubble should not be expelled from the syringe before the injection in order to avoid the loss of the medicinal product. When the quantity of the medicinal product to be injected requires to be adjusted based on the patient's body weight, use the graduated pre -filled syringes to reach the required volume by discarding the excess before injection. Please be aware that in some cases it is not possible to achieve an exact dose due to the graduations on the syringe, and in such case the volume shall be rounded up to the nearest graduation.
 
 The administration should be alternated between the left and right anterolateral or posterolateral abdominal wall.
 
@@ -3582,8 +3593,7 @@ Volume to be injected through IV line after dilution is completed at a concentra
 
 | Weight   | Required dose 30 IU/kg (0.3 mg/kg)   | Required dose 30 IU/kg (0.3 mg/kg)   | Volume to inject when diluted to a final concentration of 300 IU (3 mg)/mL   |
 |----------|--------------------------------------|--------------------------------------|------------------------------------------------------------------------------|
-| [kg]     | IU                                   | [mg]                                 | [mL]                                                                         |
-| 45       | 1,350                                | 13.5                                 | 4.5                                                                          |
+| [kg] 45  | IU 1,350                             | [mg] 13.5                            | [mL] 4.5                                                                     |
 | 50       | 1,500                                | 15                                   | 5                                                                            |
 | 55       | 1,650                                | 16.5                                 | 5.5                                                                          |
 | 60       | 1,800                                | 18                                   | 6                                                                            |
@@ -3596,19 +3606,19 @@ Volume to be injected through IV line after dilution is completed at a concentra
 | 95       | 2,850                                | 28.5                                 | 9.5                                                                          |
 | 100      | 3,000                                | 30                                   | 10                                                                           |
 | 105      | 3,150                                | 31.5                                 | 10.5                                                                         |
-| 110      | 3,300                                | 33                                   | 11                                                                           |
-| 115      | 3,450                                | 34.5                                 | 11.5                                                                         |
+|          | 3,300                                | 33                                   | 11                                                                           |
+| 110 115  | 3,450                                | 34.5                                 | 11.5                                                                         |
 | 120      | 3,600                                | 36                                   | 12                                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
-|   125 | 3,750   |   37.5 |   12.5 |
+|   125 |   3,750 |   37.5 |   12.5 |
 |-------|---------|--------|--------|
-|   130 | 3,900   |   39   |   13   |
-|   135 | 4,050   |   40.5 |   13.5 |
-|   140 | 4,200   |   42   |   14   |
-|   145 | 4,350   |   43.5 |   14.5 |
-|   150 | 4,500   |   45   |   15   |
+|   130 |   3,900 |   39   |   13   |
+|   135 |   4,050 |   40.5 |   13.5 |
+|   140 |   4,200 |   42   |   14   |
+|   145 |   4,350 |   43.5 |   14.5 |
+|   150 |   4,500 |   45   |   15   |
 
 ## Arterial line injection
 
@@ -3787,7 +3797,7 @@ Heparins can suppress adrenal secretion of aldosterone leading to hyperkalaemia 
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## Acute generalized exanthematous pustulosis
 
@@ -3844,7 +3854,7 @@ Enoxaparin sodium has no or negligible influence on the ability to drive and use
 
 ## 4.8 Undesirable effects
 
-Summary of the safety profile
+## Summary of the safety profile
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3890,9 +3900,7 @@ Rare: Spinal haematoma* (or neuraxial haematoma). These reactions have resulted 
 
 Very common: Hepatic enzyme increases (mainly transaminases &gt; 3 times the upper limit of normality) Uncommon: Hepatocellular liver injury * Rare: Cholestatic liver injury*
 
-## Skin and subcutaneous tissue disorders
-
-Common: Urticaria, pruritus, erythema
+Skin and subcutaneous tissue disorders Common: Urticaria, pruritus, erythema
 
 Uncommon: Bullous dermatitis
 
@@ -3912,11 +3920,7 @@ Rare: Osteoporosis* following long term therapy (greater than 3 months)
 
 ## General disorders and administration site conditions
 
-Common: Injection site haematoma, injection site pain, other injection site reaction (such as oedema,
-
-haemorrhage, hypersensitivity, inflammation, mass, pain, or reaction)
-
-Uncommon: Local irritation, skin necrosis at injection site
+Common: Injection site haematoma, injection site pain, other injection site reaction (such as oedema, haemorrhage, hypersensitivity, inflammation, mass, pain, or reaction) Uncommon: Local irritation, skin necrosis at injection site
 
 ## Investigations
 
@@ -3934,15 +3938,9 @@ As with other anticoagulants, haemorrhage may occur in the presence of associate
 |----------------------------------------|-----------------------------------------------------------------|-----------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | Blood and lymphat ic system disorde rs | Very common : Haemorrhag e α Rare: Retroperiton eal haemorrhage | Common: Haemorrha ge α            | Very common: Haemorrhag e α Uncommon: Intracranial haemorrhage , Retroperiton eal haemorrhage | Common b : Haemorrha ge                                           | Common: Haemorrhag e α Rare: Retroperiton eal haemorrhage      | Common: Haemorrhag e α Uncommon: Intracranial haemorrhage , Retroperiton eal haemorrhage |
 
-α : such as haematoma, ecchymosis other than at injection site, wound haematoma, haematuria, epistaxis and gastro-intestinal haemorrhage.
-
-b : frequency based on a retrospective study on a registry including 3526 patients (see section 5.1)
-
 <div style=\"page-break-after: always\"></div>
 
 Thrombocytopenia and thrombocytosis (see section 4.4 monitoring of platelet counts)
-
-β : Platelet increased &gt;400 G/L
 
 | System organ class                     | Prophylaxis in surgical patients                           | Prophylaxis in medical patients   | Treatment in patients with DVT with or without PE          | Extended treatment of DVT and PE in patients with active cancer   | Treatment in patients with unstable angina and non-Q- wave MI   | Treatment in patients with acute STEMI                                                      |
 |----------------------------------------|------------------------------------------------------------|-----------------------------------|------------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------|
@@ -4040,20 +4038,14 @@ In a multicenter, parallel group study, 900 patients with acute lower extremity 
 
 a day SC, (ii) enoxaparin sodium 100 IU/kg (1 mg/kg) every 12 hours SC, or (iii) heparin IV bolus (5,000 IU) followed by a continuous infusion (administered to achieve an aPTT of 55 to 85 seconds). A total of 900 patients were randomised in the study and all patients were treated. All patients also received warfarin sodium (dose adjusted according to prothrombin time to achieve an INR of 2.0 to 3.0), commencing within 72 hours of initiation of enoxaparin sodium or standard heparin therapy, and continuing for 90 days. Enoxaparin sodium or standard heparin therapy was administered for a minimum of 5 days and until the targeted warfarin sodium INR was achieved. Both enoxaparin sodium regimens were equivalent to standard heparin therapy in reducing the risk of recurrent venous thromboembolism (DVT and/or PE). The efficacy data are provided in the table below.
 
-|                                             | Enoxaparin sodium 150 IU/kg (1.5 mg/kg) once a day SC n (%)   | Enoxaparin sodium 100 IU/kg (1 mg/kg) twice a day SC n (%)   | Heparin aPTT adjusted IV therapy n (%)   |
-|---------------------------------------------|---------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------|
-| All treated DVT patients with or without PE | 298 (100)                                                     | 312 (100)                                                    | 290 (100)                                |
-| Total VTE (%)                               | 13 (4.4)*                                                     | 9 (2.9)*                                                     | 12 (4.1)                                 |
-| DVT only (%)                                | 11 (3.7)                                                      | 7 (2.2)                                                      | 8 (2.8)                                  |
-| Proximal DVT (%)                            | 9 (3.0)                                                       | 6 (1.9)                                                      | 7 (2.4)                                  |
-| PE (%)                                      | 2 (0.7)                                                       | 2 (0.6)                                                      | 4 (1.4)                                  |
-
-VTE = venous thromboembolic event (DVT and/or PE)
-
-*The 95% confidence intervals for the treatment differences for total VTE were:
-
-- -enoxaparin sodium once a day versus heparin (-3.0 to 3.5)
-- -enoxaparin sodium every 12 hours versus heparin (-4.2 to 1.7).
+|                                                                                                                                                                                                                                                                | Enoxaparin sodium 150 IU/kg (1.5 mg/kg) once a day SC n (%)                                                                                                                                                                                                    | Enoxaparin sodium 100 IU/kg (1 mg/kg) twice a day SC n (%)                                                                                                                                                                                                     | Heparin aPTT adjusted IV therapy n (%)                                                                                                                                                                                                                         |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| All treated DVT patients with or without PE                                                                                                                                                                                                                    | 298 (100)                                                                                                                                                                                                                                                      | 312 (100)                                                                                                                                                                                                                                                      | 290 (100)                                                                                                                                                                                                                                                      |
+| Total VTE (%)                                                                                                                                                                                                                                                  | 13 (4.4)*                                                                                                                                                                                                                                                      | 9 (2.9)*                                                                                                                                                                                                                                                       | 12 (4.1)                                                                                                                                                                                                                                                       |
+| DVT only (%)                                                                                                                                                                                                                                                   | 11 (3.7)                                                                                                                                                                                                                                                       | 7 (2.2)                                                                                                                                                                                                                                                        | 8 (2.8)                                                                                                                                                                                                                                                        |
+| Proximal DVT (%)                                                                                                                                                                                                                                               | 9 (3.0)                                                                                                                                                                                                                                                        | 6 (1.9)                                                                                                                                                                                                                                                        | 7 (2.4)                                                                                                                                                                                                                                                        |
+| PE (%)                                                                                                                                                                                                                                                         | 2 (0.7)                                                                                                                                                                                                                                                        | 2 (0.6)                                                                                                                                                                                                                                                        | 4 (1.4)                                                                                                                                                                                                                                                        |
+| VTE = venous thromboembolic event (DVT and/or PE) *The 95% confidence intervals for the treatment differences for total VTE were: - enoxaparin sodium once a day versus heparin (-3.0 to 3.5) - enoxaparin sodium every 12 hours versus heparin (-4.2 to 1.7). | VTE = venous thromboembolic event (DVT and/or PE) *The 95% confidence intervals for the treatment differences for total VTE were: - enoxaparin sodium once a day versus heparin (-3.0 to 3.5) - enoxaparin sodium every 12 hours versus heparin (-4.2 to 1.7). | VTE = venous thromboembolic event (DVT and/or PE) *The 95% confidence intervals for the treatment differences for total VTE were: - enoxaparin sodium once a day versus heparin (-3.0 to 3.5) - enoxaparin sodium every 12 hours versus heparin (-4.2 to 1.7). | VTE = venous thromboembolic event (DVT and/or PE) *The 95% confidence intervals for the treatment differences for total VTE were: - enoxaparin sodium once a day versus heparin (-3.0 to 3.5) - enoxaparin sodium every 12 hours versus heparin (-4.2 to 1.7). |
 
 Major bleeding were respectively 1.7% in the enoxaparin sodium 150 IU/kg (1.5 mg/kg) once a day group, 1.3% in the enoxaparin sodium 100 IU/kg (1 mg/kg) twice a day group and 2.1% in the heparin group.
 
@@ -4080,7 +4072,7 @@ Table. 6-month outcomes in patients completing 6-month treatment, by different r
 
 |                                              |                            | Enoxaparin all regimens    | Enoxaparin all regimens    | Enoxaparin all regimens    | Enoxaparin all regimens   | Enoxaparin all regimens          |                            |
 |----------------------------------------------|----------------------------|----------------------------|----------------------------|----------------------------|---------------------------|----------------------------------|----------------------------|
-| Outcome N (%) (95% CI)                       | Enoxapa rin all regimens   | Enoxapa rinOD              | Enoxapa rin BID            | Enoxapa rin BID to OD      | Enoxapar inOD to BID      | Enoxapar in More than one switch | EU- authorized LMWHs       |
+| Outcome N (%) (95% CI)                       | Enoxapa rin all regimens   | Enoxapa rin OD             | Enoxapa rin BID            | Enoxapa rin BID to OD      | Enoxapar inOD to BID      | Enoxapar in More than one switch | EU- authorized LMWHs       |
 |                                              | N=1432                     | N=444                      | N=529                      | N=406                      | N=14                      | N=39                             | N=428                      |
 | Recurrence of VTE                            | 70 (4.9%) (3.8%- 6.0%)     | 33 (7.4%) (5.0%- 9.9%)     | 22 (4.2%) (2.5%- 5.9%)     | 10 (2.5%) (0.9%- 4.0%)     | 1 (7.1%) (0%- 22.6%)      | 4 (10.3%) (0.3%- 20.2%)          | 23 (5.4%) (3.2%- 7.5%)     |
 | Major bleeding (fatal and non-fatal)         | 111 (7.8%) (6.4%- 9.1%)    | 31 (7.0%) (4.6%- 9.4%)     | 52 (9.8%) (7.3%- 12.4%)    | 21 (5.2%) (3.0%- 7.3%)     | 1 (7.1%) (0%- 22.6%)      | 6 (15.4%) (3.5%- 27.2%)          | 18 (4.2%) (2.3%- 6.1%)     |
@@ -4113,7 +4105,7 @@ There was a significant treatment benefit of enoxaparin sodium, as compared with
 
 The rate of the 30 day composite endpoint of death, myocardial re-infarction or intracranial haemorrhage (a measure of net clinical benefit) was significantly lower (p&lt;0.0001) in the enoxaparin sodium group (10.1%) as compared to the heparin group (12.2%), representing a 17% relative risk reduction in favour of treatment with enoxaparin sodium.
 
-The incidence of  major bleeding at 30 days was significantly higher (p&lt;0.0001) in the enoxaparin sodium group (2.1%) versus the heparin group (1.4%). There was a higher incidence of gastrointestinal bleeding in the enoxaparin  sodium  group  (0.5%)  versus  the  heparin  group  (0.1%),  while  the  incidence  of  intracranial haemorrhage was similar in both groups (0.8% with enoxaparin sodium versus 0.7% with heparin).
+The incidence of major bleeding at 30 days was significantly higher (p&lt;0.0001) in the enoxaparin sodium group (2.1%) versus the heparin group (1.4%). There was a higher incidence of gastrointestinal bleeding in the enoxaparin  sodium  group  (0.5%)  versus  the  heparin  group  (0.1%),  while  the  incidence  of  intracranial haemorrhage was similar in both groups (0.8% with enoxaparin sodium versus 0.7% with heparin).
 
 The beneficial effect of enoxaparin sodium on the primary end point observed during the first 30 days was maintained over a 12 month follow-up period.
 
@@ -4135,7 +4127,7 @@ and repeated SC administration and after single IV administration. The quantitat
 
 The absolute bioavailability of enoxaparin sodium after SC injection, based on anti-Xa activity, is close to 100%.
 
-## Different doses and formulations and dosing regimens can be used.
+Different doses and formulations and dosing regimens can be used.
 
 The mean maximum plasma anti-Xa activity level is observed 3 to 5 hours after SC injection and achieves approximately 0.2, 0.4, 1.0 and 1.3 anti-Xa IU/mL following single SC administration of 2,000 IU, 4,000 IU, 100 IU/kg and 150 IU/kg (20 mg, 40 mg, 1 mg/kg and 1.5 mg/kg) doses, respectively.
 
@@ -4145,7 +4137,9 @@ After repeated SC administration of 4,000 IU (40 mg) once daily and 150 IU/kg (1
 
 Injection volume and dose concentration over the range 100-200 mg/mL does not affect pharmacokinetic parameters in healthy volunteers.
 
-Enoxaparin sodium pharmacokinetics appears to be linear over the recommended dose ranges. Intra-patient and inter-patient variability is low. Following repeated SC administration no accumulation takes place.
+Enoxaparin sodium pharmacokinetics appears to be linear over the recommended dose ranges.
+
+Intra-patient and inter-patient variability is low. Following repeated SC administration no accumulation takes place.
 
 Plasma anti-IIa activity after SC administration is approximately ten-fold lower than anti-Xa activity. The mean maximum anti-IIa activity level is observed approximately 3 to 4 hours following SC injection and reaches 0.13 IU/mL and 0.19 IU/mL following repeated administration of 100 IU/kg (1 mg/kg) twice daily and 150 IU/kg (1.5 mg/kg) once daily, respectively.
 
@@ -4223,7 +4217,7 @@ Enoxaparin sodium may be safely administered with sodium chloride 9mg/ml (0.9%) 
 
 ## 6.3 Shelf life
 
-## Pre-filled syringe
+Pre-filled syringe
 
 3 years
 
@@ -4237,7 +4231,7 @@ Store below 25 °C. Do not freeze.
 
 ## 6.5 Nature and contents of container
 
-0.8 mL of solution in:
+## 0.8 mL of solution in:
 
 - -a clear, colourless type I neutral glass graduated syringe barrel with fixed needle and needle shield closed by chlorobutyl rubber stopper and a red polypropylene plunger rod. The syringe can be additionally equipped with needle guard or manual needle guard; or
 - -a clear, colourless type I neutral glass graduated syringe barrel with fixed needle and needle shield closed by chlorobutyl rubber stopper and a white polycarbonate plunger rod equipped with UltraSafe Passive needle guard.
@@ -4405,7 +4399,7 @@ Do not press on the plunger to remove the air bubble before injecting. The air b
 
 - 6) Hold the syringe in the hand you write with (like a pencil) and with your other hand, gently pinch the cleaned area of your abdomen between your forefinger and thumb to make a fold in the skin
 
-## Make sure you hold the skin fold throughout the injection.
+Make sure you hold the skin fold throughout the injection.
 
 - 7) Hold the syringe so that the needle is pointing downwards (vertically at a 90 º angle). Insert the full length of the needle into the skin fold
 - 8) Press down on the plunger with your thumb. This will inject the medicinal product into the fatty tissue of the abdomen. Make sure you hold the skin fold throughout the injection
@@ -4441,7 +4435,7 @@ Performing the injection properly under the skin (called 'subcutaneous injection
 
 | -   | Check the expiry date on the medicinal product. Do not use if the date has passed.                                                                                                                                                                                                                                                    |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| -   | Check if the syringe is not damaged and the liquid inside is clear. If not, use another syringe.                                                                                                                                                                                                                                      |
+| -   | Check if the syringe is not damaged and the liquid inside is clear . If not, use another syringe.                                                                                                                                                                                                                                     |
 | -   | Do not use this medicinal product if you notice any change in its appearance.                                                                                                                                                                                                                                                         |
 | -   | Make sure you know how much you are going to inject.                                                                                                                                                                                                                                                                                  |
 | -   | Check if the last injection caused any redness, change in skin colour, swelling, oozing or is still painful. If so talk to your doctor or nurse.                                                                                                                                                                                      |
@@ -4492,11 +4486,55 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Techdow Pharma Netherlands B.V. Strawinskylaan 1143, Toren C-11 1077XX Amsterdam Netherlands
+Techdow Pharma Netherlands B.V. Zuidplein 28, Tower 1, Level 3 (Unit 5) 1077 XV Amsterdam Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/16/1132/007 EU/1/16/1132/008 EU/1/16/1132/017 EU/1/16/1132/018 EU/1/16/1132/029 EU/1/16/1132/030 EU/1/16/1132/039 EU/1/16/1132/040 EU/1/16/1132/047 EU/1/16/1132/048 EU/1/16/1132/059 EU/1/16/1132/060 EU/1/16/1132/084 EU/1/16/1132/088 EU/1/16/1132/093 EU/1/16/1132/103 EU/1/16/1132/104 EU/1/16/1132/105 EU/1/16/1132/106 EU/1/16/1132/112 EU/1/16/1132/113 EU/1/16/1132/121 EU/1/16/1132/122
+EU/1/16/1132/007
+
+EU/1/16/1132/008
+
+EU/1/16/1132/017
+
+EU/1/16/1132/018
+
+EU/1/16/1132/029
+
+EU/1/16/1132/030
+
+EU/1/16/1132/039
+
+EU/1/16/1132/040
+
+EU/1/16/1132/047
+
+EU/1/16/1132/048
+
+EU/1/16/1132/059
+
+EU/1/16/1132/060
+
+EU/1/16/1132/084
+
+EU/1/16/1132/088
+
+EU/1/16/1132/093
+
+EU/1/16/1132/103
+
+EU/1/16/1132/104
+
+EU/1/16/1132/105
+
+EU/1/16/1132/106
+
+EU/1/16/1132/112
+
+EU/1/16/1132/113
+
+EU/1/16/1132/121
+
+EU/1/16/1132/122
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4514,9 +4552,7 @@ Date of latest renewal: 26/08/2021
 
 DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
 125
 
@@ -4612,7 +4648,7 @@ Acute coronary syndrome: treatment of unstable angina and NSTEMI and treatment o
 
 should be maintained for a minimum of 2 days and continued until clinical stabilization. The usual duration of treatment is 2 to 8 days.
 
-Acetylsalicylic acid is recommended for all patients without contraindications at an initial oral loading dose of 150-300 mg (in acetylsalicylic acid-naive patients) and a maintenance dose of 75-325 mg/day long-term regardless of treatment strategy.
+Acetylsalicylic acid is recommended for all patients without contraindications at an initial oral loading dose of 150 -300 mg (in acetylsalicylic acid-naive patients) and a maintenance dose of 75 -325 mg/day long-term regardless of treatment strategy.
 
 For treatment of acute STEMI, the recommended dose of enoxaparin sodium is a single intravenous (IV) bolus of 3,000 IU (30 mg) plus a 100 IU/kg (1 mg/kg) SC dose followed by 100 IU/kg (1 mg/kg) administered SC every 12 hours (maximum 10,000 IU (100 mg) for each of the first two SC doses). Appropriate antiplatelet therapy such as oral acetylsalicylic acid (75 mg to 325 mg once daily) should be administered concomitantly unless contraindicated. The recommended duration of treatment is 8 days or until hospital discharge, whichever comes first. When administered in conjunction with a thrombolytic (fibrin specific or non-fibrin specific), enoxaparin sodium should be given between 15 minutes before and 30 minutes after the start of fibrinolytic therapy.
 
@@ -4666,9 +4702,9 @@ Although no dose adjustment is recommended in patients with moderate (creatinine
 
 Inhixa is not indicated for intramuscular use and should not be administered by this route.
 
-For the prophylaxis of venous thrombo-embolic disease following surgery, treatment of DVT and PE, extended treatment of DVT and PE in patients with active cancer, treatment of unstable angina and NSTEMI, enoxaparin sodium should be administered by SC injection. For acute STEMI, treatment is to be initiated with a single IV bolus injection immediately followed by a SC
+For the prophylaxis of venous thrombo-embolic disease following surgery, treatment of DVT and PE, extended treatment of DVT and PE in patients with active cancer, treatment of unstable angina and NSTEMI, enoxaparin sodium should be administered by SC injection.
 
-injection.
+For acute STEMI, treatment is to be initiated with a single IV bolus injection immediately followed by a SC injection.
 
 For the prevention of thrombus formation in the extra corporeal circulation during haemodialysis, it is administered through the arterial line of a dialysis circuit.
 
@@ -4680,7 +4716,7 @@ The use of a tuberculin syringe or equivalent is recommended when using ampoules
 
 Injection should be made preferably when the patient is lying down. Enoxaparin sodium is administered by deep SC injection.
 
-When using pre-filled syringes, the air bubble should not be expelled from the syringe before the injection in order to avoid the loss of the medicinal product. When the quantity of the medicinal product to be injected requires to be adjusted based on the patient's body weight, use the graduated pre-filled syringes to reach the required volume by discarding the excess before injection. Please be aware that in some cases it is not possible to achieve an exact dose due to the graduations on the syringe, and in such case the volume shall be rounded up to the nearest graduation.
+When using pre-filled syringes, the air bubble should not be expelled from the syringe before the injection in order to avoid the loss of the medicinal product. When the quantity of the medicinal product to be injected requires to be adjusted based on the patient's body weight, use the graduated pre -filled syringes to reach the required volume by discarding the excess before injection. Please be aware that in some cases it is not possible to achieve an exact dose due to the graduations on the syringe, and in such case the volume shall be rounded up to the nearest graduation.
 
 The administration should be alternated between the left and right anterolateral or posterolateral abdominal wall.
 
@@ -4718,8 +4754,7 @@ Volume to be injected through IV line after dilution is completed at a concentra
 
 | Weight   | Required dose 30 IU/kg (0.3 mg/kg)   | Required dose 30 IU/kg (0.3 mg/kg)   | Volume to inject when diluted to a final concentration of 300 IU (3 mg)/mL   |
 |----------|--------------------------------------|--------------------------------------|------------------------------------------------------------------------------|
-| [kg]     | IU                                   | [mg]                                 | [mL]                                                                         |
-| 45       | 1,350                                | 13.5                                 | 4.5                                                                          |
+| [kg] 45  | IU 1,350                             | [mg] 13.5                            | [mL] 4.5                                                                     |
 | 50       | 1,500                                | 15                                   | 5                                                                            |
 | 55       | 1,650                                | 16.5                                 | 5.5                                                                          |
 | 60       | 1,800                                | 18                                   | 6                                                                            |
@@ -4732,19 +4767,19 @@ Volume to be injected through IV line after dilution is completed at a concentra
 | 95       | 2,850                                | 28.5                                 | 9.5                                                                          |
 | 100      | 3,000                                | 30                                   | 10                                                                           |
 | 105      | 3,150                                | 31.5                                 | 10.5                                                                         |
-| 110      | 3,300                                | 33                                   | 11                                                                           |
-| 115      | 3,450                                | 34.5                                 | 11.5                                                                         |
+|          | 3,300                                | 33                                   | 11                                                                           |
+| 110 115  | 3,450                                | 34.5                                 | 11.5                                                                         |
 | 120      | 3,600                                | 36                                   | 12                                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
-|   125 | 3,750   |   37.5 |   12.5 |
+|   125 |   3,750 |   37.5 |   12.5 |
 |-------|---------|--------|--------|
-|   130 | 3,900   |   39   |   13   |
-|   135 | 4,050   |   40.5 |   13.5 |
-|   140 | 4,200   |   42   |   14   |
-|   145 | 4,350   |   43.5 |   14.5 |
-|   150 | 4,500   |   45   |   15   |
+|   130 |   3,900 |   39   |   13   |
+|   135 |   4,050 |   40.5 |   13.5 |
+|   140 |   4,200 |   42   |   14   |
+|   145 |   4,350 |   43.5 |   14.5 |
+|   150 |   4,500 |   45   |   15   |
 
 ## Arterial line injection
 
@@ -4839,7 +4874,9 @@ In practice, if a confirmed significant decrease of the platelet count is observ
 
 ## Haemorrhage
 
-As with other anticoagulants, bleeding may occur at any site. If bleeding occurs, the origin of the haemorrhage should be investigated and appropriate treatment instituted. Enoxaparin sodium, as with any other anticoagulant therapy, should be used with caution in conditions with increased potential for bleeding, such as:
+As with other anticoagulants, bleeding may occur at any site. If bleeding occurs, the origin of the haemorrhage should be investigated and appropriate treatment instituted.
+
+Enoxaparin sodium, as with any other anticoagulant therapy, should be used with caution in conditions with increased potential for bleeding, such as:
 
 - -impaired haemostasis,
 - -history of peptic ulcer,
@@ -4921,7 +4958,7 @@ Heparins can suppress adrenal secretion of aldosterone leading to hyperkalaemia 
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## Acute generalized exanthematous pustulosis
 
@@ -5007,7 +5044,9 @@ Common: Haemorrhage, haemorrhagic anaemia*, thrombocytopenia, thrombocytosis
 
 Rare: Eosinophilia*
 
-Rare: Cases of immuno-allergic thrombocytopenia with thrombosis; in some of them thrombosis was complicated by organ infarction or limb ischaemia (see section 4.4).
+Rare: Cases of immuno-allergic thrombocytopenia with thrombosis; in some of them thrombosis was
+
+complicated by organ infarction or limb ischaemia (see section 4.4).
 
 ## Immune system disorders
 
@@ -5015,9 +5054,7 @@ Common: Allergic reaction
 
 Rare: Anaphylactic/Anaphylactoid reactions including shock*
 
-## Nervous system disorders
-
-Common: Headache*
+Nervous system disorders Common: Headache*
 
 ## Vascular disorders
 
@@ -5025,9 +5062,7 @@ Rare: Spinal haematoma* (or neuraxial haematoma). These reactions have resulted 
 
 ## Hepatobiliary disorders
 
-Very common: Hepatic enzyme increases (mainly transaminases &gt; 3 times the upper limit of normality) Uncommon: Hepatocellular liver injury *
-
-Rare: Cholestatic liver injury*
+Very common: Hepatic enzyme increases (mainly transaminases &gt; 3 times the upper limit of normality) Uncommon: Hepatocellular liver injury * Rare: Cholestatic liver injury*
 
 ## Skin and subcutaneous tissue disorders
 
@@ -5073,13 +5108,9 @@ As with other anticoagulants, haemorrhage may occur in the presence of associate
 |----------------------------------------|-----------------------------------------------------------------|-----------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | Blood and lymphat ic system disorde rs | Very common : Haemorrhag e α Rare: Retroperiton eal haemorrhage | Common: Haemorrha ge α            | Very common: Haemorrhag e α Uncommon: Intracranial haemorrhage , Retroperiton eal haemorrhage | Common b : Haemorrha ge                                           | Common: Haemorrhag e α Rare: Retroperiton eal haemorrhage      | Common: Haemorrhag e α Uncommon: Intracranial haemorrhage , Retroperiton eal haemorrhage |
 
-b : frequency based on a retrospective study on a registry including 3526 patients (see section 5.1)
-
 <div style=\"page-break-after: always\"></div>
 
 Thrombocytopenia and thrombocytosis (see section 4.4 monitoring of platelet counts)
-
-β : Platelet increased &gt;400 G/L
 
 | System organ class                     | Prophylaxis in surgical patients                           | Prophylaxis in medical patients   | Treatment in patients with DVT with or without PE          | Extended treatment of DVT and PE in patients with active cancer   | Treatment in patients with unstable angina and non-Q-wave MI   | Treatment in patients with acute STEMI                                                      |
 |----------------------------------------|------------------------------------------------------------|-----------------------------------|------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------|
@@ -5218,7 +5249,7 @@ Table. 6-month outcomes in patients completing 6-month treatment, by different r
 
 |                                              |                            | Enoxaparin all regimens    | Enoxaparin all regimens    | Enoxaparin all regimens    | Enoxaparin all regimens   | Enoxaparin all regimens          |                            |
 |----------------------------------------------|----------------------------|----------------------------|----------------------------|----------------------------|---------------------------|----------------------------------|----------------------------|
-| Outcome N (%) (95% CI)                       | Enoxapa rin all regimens   | Enoxapa rinOD              | Enoxapa rin BID            | Enoxapa rin BID to OD      | Enoxapar inOD to BID      | Enoxapar in More than one switch | EU- authorized LMWHs       |
+| Outcome N (%) (95% CI)                       | Enoxapa rin all regimens   | Enoxapa rin OD             | Enoxapa rin BID            | Enoxapa rin BID to OD      | Enoxapar inOD to BID      | Enoxapar in More than one switch | EU- authorized LMWHs       |
 |                                              | N=1432                     | N=444                      | N=529                      | N=406                      | N=14                      | N=39                             | N=428                      |
 | Recurrence of VTE                            | 70 (4.9%) (3.8%- 6.0%)     | 33 (7.4%) (5.0%- 9.9%)     | 22 (4.2%) (2.5%- 5.9%)     | 10 (2.5%) (0.9%- 4.0%)     | 1 (7.1%) (0%- 22.6%)      | 4 (10.3%) (0.3%- 20.2%)          | 23 (5.4%) (3.2%- 7.5%)     |
 | Major bleeding (fatal and non-fatal)         | 111 (7.8%) (6.4%- 9.1%)    | 31 (7.0%) (4.6%- 9.4%)     | 52 (9.8%) (7.3%- 12.4%)    | 21 (5.2%) (3.0%- 7.3%)     | 1 (7.1%) (0%- 22.6%)      | 6 (15.4%) (3.5%- 27.2%)          | 18 (4.2%) (2.3%- 6.1%)     |
@@ -5251,7 +5282,7 @@ There was a significant treatment benefit of enoxaparin sodium, as compared with
 
 The rate of the 30 day composite endpoint of death, myocardial re-infarction or intracranial haemorrhage (a measure of net clinical benefit) was significantly lower (p&lt;0.0001) in the enoxaparin sodium group (10.1%) as compared to the heparin group (12.2%), representing a 17% relative risk reduction in favour of treatment with enoxaparin sodium.
 
-The incidence of  major bleeding at 30 days was significantly higher (p&lt;0.0001) in the enoxaparin sodium group (2.1%) versus the heparin group (1.4%). There was a higher incidence of gastrointestinal bleeding in the enoxaparin  sodium  group  (0.5%)  versus  the  heparin  group  (0.1%),  while  the  incidence  of  intracranial haemorrhage was similar in both groups (0.8% with enoxaparin sodium versus 0.7% with heparin).
+The incidence of major bleeding at 30 days was significantly higher (p&lt;0.0001) in the enoxaparin sodium group (2.1%) versus the heparin group (1.4%). There was a higher incidence of gastrointestinal bleeding in the enoxaparin  sodium  group  (0.5%)  versus  the  heparin  group  (0.1%),  while  the  incidence  of  intracranial haemorrhage was similar in both groups (0.8% with enoxaparin sodium versus 0.7% with heparin).
 
 The beneficial effect of enoxaparin sodium on the primary end point observed during the first 30 days was maintained over a 12 month follow-up period.
 
@@ -5273,7 +5304,7 @@ and repeated SC administration and after single IV administration. The quantitat
 
 The absolute bioavailability of enoxaparin sodium after SC injection, based on anti-Xa activity, is close to 100%.
 
-## Different doses and formulations and dosing regimens can be used.
+Different doses and formulations and dosing regimens can be used.
 
 The mean maximum plasma anti-Xa activity level is observed 3 to 5 hours after SC injection and achieves approximately 0.2, 0.4, 1.0 and 1.3 anti-Xa IU/mL following single SC administration of 2,000 IU, 4,000 IU, 100 IU/kg and 150 IU/kg (20 mg, 40 mg, 1 mg/kg and 1.5 mg/kg) doses, respectively.
 
@@ -5375,12 +5406,12 @@ Store below 25 °C. Do not freeze.
 
 ## 6.5 Nature and contents of container
 
-1 mL of solution in:
+## 1 mL of solution in:
 
 - -a clear, colourless type I neutral glass graduated syringe barrel with fixed needle and needle shield closed by chlorobutyl rubber stopper and a black polypropylene plunger rod. The syringe can be additionally equipped with needle guard or manual needle guard; or
 - -a clear, colourless type I neutral glass graduated syringe barrel with fixed needle and needle shield closed by chlorobutyl rubber stopper and a white polycarbonate plunger rod equipped with UltraSafe Passive needle guard.
 
-Packs of:
+## Packs of:
 
 - -2, 6, 10, 12, 20, 24, 30, 50 and 90 pre-filled syringes
 - -2, 6, 10, 12, 20, 24, 30 and 50 pre-filled syringes with needle guard
@@ -5541,7 +5572,7 @@ Do not press on the plunger to remove the air bubble before injecting. The air b
 
 - 6) Hold the syringe in the hand you write with (like a pencil) and with your other hand, gently pinch the cleaned area of your abdomen between your forefinger and thumb to make a fold in the skin
 
-## Make sure you hold the skin fold throughout the injection.
+Make sure you hold the skin fold throughout the injection.
 
 - 7) Hold the syringe so that the needle is pointing downwards (vertically at a 90 º angle). Insert the full length of the needle into the skin fold
 - 8) Press down on the plunger with your thumb. This will inject the medicinal product into the fatty tissue of the abdomen. Make sure you hold the skin fold throughout the injection
@@ -5551,7 +5582,7 @@ Do not press on the plunger to remove the air bubble before injecting. The air b
 
 <!-- image -->
 
-## To avoid bruising, do not rub the injection site after you have injected yourself.
+To avoid bruising, do not rub the injection site after you have injected yourself.
 
 - 10) Let go of the plunger and allow the syringe to move up until the entire needle is guarded and locks into place.
 
@@ -5573,9 +5604,11 @@ Performing the injection properly under the skin (called 'subcutaneous injection
 
 ## Before injecting yourself with Inhixa
 
+- -The pre-filled syringe is intended for single use only.
+
 | -   | Check the expiry date on the medicinal product. Do not use if the date has passed.                                                                                                                                                                                                                                                    |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| -   | Check if the syringe is not damaged and the liquid inside is clear. If not, use another syringe.                                                                                                                                                                                                                                      |
+| -   | Check if the syringe is not damaged and the liquid inside is clear . If not, use another syringe.                                                                                                                                                                                                                                     |
 | -   | Do not use this medicinal product if you notice any change in its appearance.                                                                                                                                                                                                                                                         |
 | -   | Make sure you know how much you are going to inject.                                                                                                                                                                                                                                                                                  |
 | -   | Check if the last injection caused any redness, change in skin colour, swelling, oozing or is still painful. If so talk to your doctor or nurse.                                                                                                                                                                                      |
@@ -5626,11 +5659,55 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Techdow Pharma Netherlands B.V. Strawinskylaan 1143, Toren C-11 1077XX Amsterdam Netherlands
+Techdow Pharma Netherlands B.V. Zuidplein 28, Tower 1, Level 3 (Unit 5) 1077 XV Amsterdam Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/16/1132/009 EU/1/16/1132/010 EU/1/16/1132/019 EU/1/16/1132/020 EU/1/16/1132/022 EU/1/16/1132/031 EU/1/16/1132/032 EU/1/16/1132/041 EU/1/16/1132/042 EU/1/16/1132/049 EU/1/16/1132/050 EU/1/16/1132/061 EU/1/16/1132/062 EU/1/16/1132/063 EU/1/16/1132/089 EU/1/16/1132/094 EU/1/16/1132/107 EU/1/16/1132/108 EU/1/16/1132/109 EU/1/16/1132/110 EU/1/16/1132/114 EU/1/16/1132/115 EU/1/16/1132/124
+EU/1/16/1132/009
+
+EU/1/16/1132/010
+
+EU/1/16/1132/019
+
+EU/1/16/1132/020
+
+EU/1/16/1132/022
+
+EU/1/16/1132/031
+
+EU/1/16/1132/032
+
+EU/1/16/1132/041
+
+EU/1/16/1132/042
+
+EU/1/16/1132/049
+
+EU/1/16/1132/050
+
+EU/1/16/1132/061
+
+EU/1/16/1132/062
+
+EU/1/16/1132/063
+
+EU/1/16/1132/089
+
+EU/1/16/1132/094
+
+EU/1/16/1132/107
+
+EU/1/16/1132/108
+
+EU/1/16/1132/109
+
+EU/1/16/1132/110
+
+EU/1/16/1132/114
+
+EU/1/16/1132/115
+
+EU/1/16/1132/124
 
 EU/1/16/1132/125
 
@@ -5650,9 +5727,7 @@ Date of latest renewal: 26/08/2021
 
 DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
 156
 
@@ -5699,9 +5774,7 @@ Prevention of thrombus formation in extra corporeal circulation during haemodial
 
 ## Posology
 
-Prophylaxis of venous thromboembolic disease in moderate and high risk surgical patients
-
-Individual thromboembolic risk for patients can be estimated using validated risk stratification model.
+Prophylaxis of venous thromboembolic disease in moderate and high risk surgical patients Individual thromboembolic risk for patients can be estimated using validated risk stratification model.
 
 - In patients at moderate risk of thromboembolism, the recommended dose of enoxaparin sodium is 2,000 IU (20 mg) once daily by subcutaneous injection. Preoperative initiation (2 hours before surgery) of enoxaparin sodium 2,000 IU (20 mg) was proven effective and safe in moderate risk surgery. In moderate risk patients, enoxaparin sodium treatment should be maintained for a minimal period of 7-10 days whatever the recovery status (e.g. mobility). Prophylaxis should be continued until the patient no longer has significantly reduced mobility.
 
@@ -5739,8 +5812,8 @@ No data are available in patients using enoxaparin sodium for prophylaxis or tre
 
 ## Acute coronary syndrome: treatment of unstable angina and NSTEMI and treatment of acute STEMI
 
-- •
-- For treatment of unstable angina and NSTEMI, the recommended dose of enoxaparin sodium is 100 IU/kg (1 mg/kg) every 12 hours by subcutaneous injection administered in combination with antiplatelet therapy. Treatment should be maintained for a minimum of 2 days and continued until clinical stabilization. The usual duration of treatment is 2 to 8 days. Acetylsalicylic acid is recommended for all patients without contraindications at an initial oral loading dose of 150-300 mg (in acetylsalicylic acid-naive patients) and a maintenance dose of 75-325 mg/day long-term regardless of treatment strategy.
+- For treatment of unstable angina and NSTEMI, the recommended dose of enoxaparin sodium is 100 IU/kg (1 mg/kg) every 12 hours by subcutaneous injection administered in combination with antiplatelet therapy. Treatment should be maintained for a minimum of 2 days and continued until clinical stabilization. The usual duration of treatment is 2 to 8 days.
+- Acetylsalicylic acid is recommended for all patients without contraindications at an initial oral loading dose of 150 -300 mg (in acetylsalicylic acid-naive patients) and a maintenance dose of 75 -325 mg/day long-term regardless of treatment strategy.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5770,7 +5843,7 @@ Limited data are available in patients with hepatic impairment (see sections 5.1
 
 Enoxaparin sodium is not recommended for patients with end stage renal disease (creatinine clearance &lt; 15 mL/min) due to lack of data in this population outside the prevention of thrombus formation in extra corporeal circulation during haemodialysis.
 
-Dose table for patients with severe renal impairment (creatinine clearance [15-30] mL/min):
+## Dose table for patients with severe renal impairment (creatinine clearance [15-30] mL/min):
 
 | Indication                                                      | Dosing regimen                                                                                                                                                    |
 |-----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -5806,7 +5879,7 @@ The use of a tuberculin syringe or equivalent is recommended when using ampoules
 
 Injection should be made preferably when the patient is lying down. Enoxaparin sodium is administered by deep SC injection.
 
-When using pre-filled syringes, the air bubble should not be expelled from the syringe before the injection in order to avoid the loss of the medicinal product. When the quantity of the medicinal product to be injected requires to be adjusted based on the patient's body weight, the graduated pre-filled syringes should be used to reach the required volume by discarding the excess before injection. In some cases it is not possible to achieve an exact dose due to the graduations on the syringe, and in such case the volume shall be rounded up to the nearest graduation.
+When using pre-filled syringes, the air bubble should not be expelled from the syringe before the injection in order to avoid the loss of the medicinal product. When the quantity of the medicinal product to be injected requires to be adjusted based on the patient's body weight, the graduated pre -filled syringes should be used to reach the required volume by discarding the excess before injection. In some cases it is not possible to achieve an exact dose due to the graduations on the syringe, and in such case the volume shall be rounded up to the nearest graduation.
 
 The administration should be alternated between the left and right anterolateral or posterolateral abdominal wall.
 
@@ -5820,7 +5893,9 @@ In case of self-administration, patient should be advised to follow instructions
 
 For acute STEMI, treatment is to be initiated with a single intravenous bolus injection immediately followed by a subcutaneous injection.
 
-For intravenous injection, either the multidose vial or pre-filled syringe can be used. Enoxaparin sodium should be administered through an intravenous line. It should not be mixed or co-administered with other medicinal products. To avoid the possible mixture of enoxaparin sodium with
+For intravenous injection, either the multidose vial or pre-filled syringe can be used.
+
+Enoxaparin sodium should be administered through an intravenous line. It should not be mixed or co-administered with other medicinal products. To avoid the possible mixture of enoxaparin sodium with
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5846,8 +5921,7 @@ Volume to be injected through intravenous line after dilution is completed at a 
 
 | Weight   | Required dose 30 IU/kg (0.3 mg/kg)   | Required dose 30 IU/kg (0.3 mg/kg)   | Volume to inject when diluted to a final concentration of 300 IU (3 mg)/mL   |
 |----------|--------------------------------------|--------------------------------------|------------------------------------------------------------------------------|
-| [kg]     | IU                                   | [mg]                                 | [mL]                                                                         |
-| 45       | 1,350                                | 13.5                                 | 4.5                                                                          |
+| [kg] 45  | IU 1,350                             | [mg] 13.5                            | [mL] 4.5                                                                     |
 | 50       | 1,500                                | 15                                   | 5                                                                            |
 | 55       | 1,650                                | 16.5                                 | 5.5                                                                          |
 | 60       | 1,800                                | 18                                   | 6                                                                            |
@@ -5870,9 +5944,9 @@ Volume to be injected through intravenous line after dilution is completed at a 
 
 <div style=\"page-break-after: always\"></div>
 
-|   145 | 4,350   |   43.5 |   14.5 |
+|   145 |   4,350 |   43.5 |   14.5 |
 |-------|---------|--------|--------|
-|   150 | 4,500   |     45 |     15 |
+|   150 |   4,500 |     45 |     15 |
 
 ## Arterial line injection
 
@@ -5965,9 +6039,7 @@ In practice, if a confirmed significant decrease of the platelet count is observ
 
 ## Haemorrhage
 
-As with other anticoagulants, bleeding may occur at any site. If bleeding occurs, the origin of the haemorrhage should be investigated and appropriate treatment instituted.
-
-Enoxaparin sodium, as with any other anticoagulant therapy, should be used with caution in conditions with increased potential for bleeding, such as:
+As with other anticoagulants, bleeding may occur at any site. If bleeding occurs, the origin of the haemorrhage should be investigated and appropriate treatment instituted. Enoxaparin sodium, as with any other anticoagulant therapy, should be used with caution in conditions with increased potential for bleeding, such as:
 
 - -impaired haemostasis,
 - -history of peptic ulcer,
@@ -6021,9 +6093,7 @@ No increased bleeding tendency is observed in the elderly with the prophylactic 
 
 ## Renal impairment
 
-In patients with renal impairment, there is an increase in exposure of enoxaparin sodium which increases the risk of bleeding. In these patients, careful clinical monitoring is advised, and biological monitoring by anti-Xa activity measurement might be considered (see sections 4.2 and 5.2).
-
-Enoxaparin sodium is not recommended for patients with end stage renal disease (creatinine clearance &lt; 15 mL/min) due to lack of data in this population outside the prevention of thrombus formation in extra corporeal circulation during haemodialysis.
+In patients with renal impairment, there is an increase in exposure of enoxaparin sodium which increases the risk of bleeding. In these patients, careful clinical monitoring is advised, and biological monitoring by anti-Xa activity measurement might be considered (see sections 4.2 and 5.2). Enoxaparin sodium is not recommended for patients with end stage renal disease (creatinine clearance &lt; 15 mL/min) due to lack of data in this population outside the prevention of thrombus formation in extra corporeal circulation during haemodialysis.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6049,7 +6119,7 @@ Heparins can suppress adrenal secretion of aldosterone leading to hyperkalaemia 
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## Acute generalized exanthematous pustulosis
 
@@ -6153,9 +6223,7 @@ Rare: Spinal haematoma* (or neuraxial haematoma). These reactions have resulted 
 
 ## Hepatobiliary disorders
 
-Very common: Hepatic enzyme increases (mainly transaminases &gt; 3 times the upper limit of normality) Uncommon: Hepatocellular liver injury*
-
-Rare: Cholestatic liver injury*
+Very common: Hepatic enzyme increases (mainly transaminases &gt; 3 times the upper limit of normality) Uncommon: Hepatocellular liver injury* Rare: Cholestatic liver injury*
 
 ## Skin and subcutaneous tissue disorders
 
@@ -6179,7 +6247,9 @@ Rare: Osteoporosis* following long term therapy (greater than 3 months)
 
 ## General disorders and administration site conditions
 
-Common: Injection site haematoma, injection site pain, other injection site reaction (such as oedema, haemorrhage, hypersensitivity, inflammation, mass, pain, or reaction) Uncommon: Local irritation, skin necrosis at injection site
+Common: Injection site haematoma, injection site pain, other injection site reaction (such as oedema, haemorrhage, hypersensitivity, inflammation, mass, pain, or reaction)
+
+Uncommon: Local irritation, skin necrosis at injection site
 
 ## Investigations
 
@@ -6197,10 +6267,6 @@ As with other anticoagulants, haemorrhage may occur in the presence of associate
 |--------------------------------------|-----------------------------------------------------------------|-----------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | Blood and lymphatic system disorders | Very common : Haemorrhag e α Rare: Retroperiton eal haemorrhage | Common: Haemorrha ge α            | Very common: Haemorrha ge α Uncommon : Intracranial haemorrhag e, Retroperiton eal haemorrhag e | Common b : Haemorrhag e                                           | Common: Haemorrhag e α Rare: Retroperiton eal haemorrhage      | Common: Haemorrhage α Uncommon: Intracranial haemorrhage, Retroperitone al haemorrhage |
 
-α : such as haematoma, ecchymosis other than at injection site, wound haematoma, haematuria, epistaxis and gastro-intestinal haemorrhage.
-
-b : frequency based on a retrospective study on a registry including 3526 patients (see section 5.1)
-
 <div style=\"page-break-after: always\"></div>
 
 Thrombocytopenia and thrombocytosis (see section 4.4 monitoring of platelet counts)
@@ -6208,8 +6274,6 @@ Thrombocytopenia and thrombocytosis (see section 4.4 monitoring of platelet coun
 | System organ class                   | Prophylaxis in surgical patients                           | Prophylaxi s in medical patients   | Treatment in patients with DVT with or without PE           | Extended treatment of DVT and PE in patients with active cancer   | Treatment in patients with unstable angina and non-Q-wave MI   | Treatment in patients with acute STEMI                                                      |
 |--------------------------------------|------------------------------------------------------------|------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------|
 | Blood and lymphatic system disorders | Very common : Thrombocyto sis β Common: Thrombo- cytopenia | Uncommon : Thrombo- cytopenia      | Very common : Thrombo- cytosis β Common: Thrombo- cytopenia | Unknown: Thrombocyt openia                                        | Uncommon: Thrombo- cytopenia                                   | Common: Thrombocyto sis β Thrombo- cytopenia Very rare: Immuno- allergic thrombo- cytopenia |
-
-β : Platelet increased &gt; 400 G/L
 
 ## Paediatric population
 
@@ -6268,10 +6332,6 @@ The efficacy data are provided in the table below.
 | Total DVT (%)                             | 6 (6.6)*                                                             | 18 (20.2)                                 |
 | Proximal DVT (%)                          | 5 (5.6) #                                                            | 7 (8.8)                                   |
 
-*p value versus placebo = 0.008
-
-#p value versus placebo = 0.537
-
 In a second double-blind study, 262 patients without VTE disease and undergoing hip replacement surgery initially treated, while hospitalised, with enoxaparin sodium 4,000 IU (40 mg) subcutaneously were randomised to a post-discharge regimen of either enoxaparin sodium 4,000 IU (40 mg) (n = 131) once a day subcutaneously or to placebo (n = 131) for 3 weeks. Similar to the first study the incidence of VTE during extended prophylaxis was significantly lower for enoxaparin sodium compared to placebo for both total VTE (enoxaparin sodium 21 [16%] versus placebo 45 [34.4%]; p = 0.001) and proximal DVT (enoxaparin sodium 8 [6.1%] versus placebo 28 [21.4%]; p =&lt; 0.001). No difference in major bleeding was found between the enoxaparin sodium and the placebo group.
 
 ## Extended prophylaxis of DVT following cancer surgery
@@ -6315,10 +6375,6 @@ equivalent to standard heparin therapy in reducing the risk of recurrent venous 
 | Proximal DVT (%)                            | 9 (3.0)                                                                   | 6 (1.9)                                                                  | 7 (2.4)                                           |
 | PE (%)                                      | 2 (0.7)                                                                   | 2 (0.6)                                                                  | 4 (1.4)                                           |
 
-VTE = venous thromboembolic event (DVT and/or PE)
-
-*The 95% confidence intervals for the treatment differences for total VTE were:
-
 - -enoxaparin sodium once a day versus heparin (-3.0 to 3.5)
 - -enoxaparin sodium every 12 hours versus heparin (-4.2 to 1.7).
 
@@ -6347,7 +6403,7 @@ Table. 6-month outcomes in patients completing 6-month treatment, by different r
 
 |                                              |                            | Enoxaparin all regimens    | Enoxaparin all regimens    | Enoxaparin all regimens    | Enoxaparin all regimens   | Enoxaparin all regimens          |                            |
 |----------------------------------------------|----------------------------|----------------------------|----------------------------|----------------------------|---------------------------|----------------------------------|----------------------------|
-| Outcome N (%) (95% CI)                       | Enoxapa rin all regimens   | Enoxapa rinOD              | Enoxapa rin BID            | Enoxapa rin BID to OD      | Enoxapar inOD to BID      | Enoxapar in More than one switch | EU- authorized LMWHs       |
+| Outcome N (%) (95% CI)                       | Enoxapa rin all regimens   | Enoxapa rin OD             | Enoxapa rin BID            | Enoxapa rin BID to OD      | Enoxapar inOD to BID      | Enoxapar in More than one switch | EU- authorized LMWHs       |
 |                                              | N=1432                     | N=444                      | N=529                      | N=406                      | N=14                      | N=39                             | N=428                      |
 | Recurrence of VTE                            | 70 (4.9%) (3.8%- 6.0%)     | 33 (7.4%) (5.0%- 9.9%)     | 22 (4.2%) (2.5%- 5.9%)     | 10 (2.5%) (0.9%- 4.0%)     | 1 (7.1%) (0%- 22.6%)      | 4 (10.3%) (0.3%- 20.2%)          | 23 (5.4%) (3.2%- 7.5%)     |
 | Major bleeding (fatal and non-fatal)         | 111 (7.8%) (6.4%- 9.1%)    | 31 (7.0%) (4.6%- 9.4%)     | 52 (9.8%) (7.3%- 12.4%)    | 21 (5.2%) (3.0%- 7.3%)     | 1 (7.1%) (0%- 22.6%)      | 6 (15.4%) (3.5%- 27.2%)          | 18 (4.2%) (2.3%- 6.1%)     |
@@ -6380,7 +6436,9 @@ There was a significant treatment benefit of enoxaparin sodium, as compared with
 
 The rate of the 30 day composite endpoint of death, myocardial re-infarction or intracranial haemorrhage (a measure of net clinical benefit) was significantly lower (p &lt; 0.0001) in the enoxaparin sodium group (10.1%) as compared to the heparin group (12.2%), representing a 17% relative risk reduction in favour of treatment with enoxaparin sodium.
 
-The incidence of major bleeding at 30 days was significantly higher (p &lt; 0.0001) in the enoxaparin sodium group (2.1%) versus the heparin group (1.4%). There was a higher incidence of gastrointestinal bleeding in the enoxaparin  sodium  group  (0.5%)  versus  the  heparin  group  (0.1%),  while  the  incidence  of  intracranial haemorrhage was similar in both groups (0.8% with enoxaparin sodium versus 0.7% with heparin). The beneficial effect of enoxaparin sodium on the primary end point observed during the first 30 days was maintained over a 12 month follow-up period.
+The incidence of major bleeding at 30 days was significantly higher (p &lt; 0.0001) in the enoxaparin sodium group (2.1%) versus the heparin group (1.4%). There was a higher incidence of gastrointestinal bleeding in the enoxaparin  sodium  group  (0.5%)  versus  the  heparin  group  (0.1%),  while  the  incidence  of  intracranial haemorrhage was similar in both groups (0.8% with enoxaparin sodium versus 0.7% with heparin).
+
+The beneficial effect of enoxaparin sodium on the primary end point observed during the first 30 days was maintained over a 12 month follow-up period.
 
 ## Hepatic impairment
 
@@ -6486,7 +6544,7 @@ Enoxaparin sodium may be safely administered with sodium chloride 9 mg/ml (0.9%)
 
 ## 6.3 Shelf life
 
-Pre-filled syringe
+## Pre-filled syringe
 
 3 years
 
@@ -6634,7 +6692,7 @@ K
 
 <div style=\"page-break-after: always\"></div>
 
-Techdow Pharma Netherlands B.V. Strawinskylaan 1143, Toren C-11 1077XX Amsterdam
+Techdow Pharma Netherlands B.V. Zuidplein 28, Tower 1, Level 3 (Unit 5) 1077 XV Amsterdam
 
 Netherlands
 
@@ -6697,9 +6755,7 @@ Prevention of thrombus formation in extra corporeal circulation during haemodial
 
 ## Posology
 
-Prophylaxis of venous thromboembolic disease in moderate and high risk surgical patients
-
-Individual thromboembolic risk for patients can be estimated using validated risk stratification model.
+Prophylaxis of venous thromboembolic disease in moderate and high risk surgical patients Individual thromboembolic risk for patients can be estimated using validated risk stratification model.
 
 - In patients at moderate risk of thromboembolism, the recommended dose of enoxaparin sodium is 2,000 IU (20 mg) once daily by subcutaneous injection. Preoperative initiation (2 hours before surgery) of enoxaparin sodium 2,000 IU (20 mg) was proven effective and safe in moderate risk surgery.
 
@@ -6743,9 +6799,7 @@ No data are available in patients using enoxaparin sodium for prophylaxis or tre
 
 <div style=\"page-break-after: always\"></div>
 
-antiplatelet therapy. Treatment should be maintained for a minimum of 2 days and continued until clinical stabilization. The usual duration of treatment is 2 to 8 days.
-
-Acetylsalicylic acid is recommended for all patients without contraindications at an initial oral loading dose of 150-300 mg (in acetylsalicylic acid-naive patients) and a maintenance dose of 75-325 mg/day long-term regardless of treatment strategy.
+antiplatelet therapy. Treatment should be maintained for a minimum of 2 days and continued until clinical stabilization. The usual duration of treatment is 2 to 8 days. Acetylsalicylic acid is recommended for all patients without contraindications at an initial oral loading 325 mg/day dose of 150 -300 mg (in acetylsalicylic acid-naive patients) and a maintenance dose of 75 -long-term regardless of treatment strategy.
 
 - For treatment of acute STEMI, the recommended dose of enoxaparin sodium is a single intravenous bolus of 3,000 IU (30 mg) plus a 100 IU/kg (1 mg/kg) subcutaneous dose followed by 100 IU/kg (1 mg/kg) administered subcutaneously every 12 hours (maximum 10,000 IU (100 mg) for each of the first two subcutaneous doses). Appropriate antiplatelet therapy such as oral acetylsalicylic acid (75 mg to 325 mg once daily) should be administered concomitantly unless contraindicated. The recommended duration of treatment is 8 days or until hospital discharge, whichever comes first. When administered in conjunction with a thrombolytic (fibrin specific or non-fibrin specific), enoxaparin sodium should be given between 15 minutes before and 30 minutes after the start of fibrinolytic therapy.
 - o For dose in patients ≥ 75 years of age, see paragraph 'Elderly'.
@@ -6811,7 +6865,7 @@ The use of a tuberculin syringe or equivalent is recommended when using ampoules
 
 Injection should be made preferably when the patient is lying down. Enoxaparin sodium is administered by deep SC injection.
 
-When using pre-filled syringes, the air bubble should not be expelled from the syringe before the injection in order to avoid the loss of the medicinal product. When the quantity of the medicinal product to be injected requires to be adjusted based on the patient's body weight, the graduated pre-filled syringes should be used to reach the required volume by discarding the excess before injection. In some cases it is not possible to achieve an exact dose due to the graduations on the syringe, and in such case the volume shall be rounded up to the nearest graduation.
+When using pre-filled syringes, the air bubble should not be expelled from the syringe before the injection in order to avoid the loss of the medicinal product. When the quantity of the medicinal product to be injected requires to be adjusted based on the patient's body weight, the graduated pre -filled syringes should be used to reach the required volume by discarding the excess before injection. In some cases it is not possible to achieve an exact dose due to the graduations on the syringe, and in such case the volume shall be rounded up to the nearest graduation.
 
 The administration should be alternated between the left and right anterolateral or posterolateral abdominal wall.
 
@@ -6868,16 +6922,16 @@ Volume to be injected through intravenous line after dilution is completed at a 
 
 <div style=\"page-break-after: always\"></div>
 
-|   110 | 3,300   |   33 |   11 |
+|   110 |   3,300 |   33 |   11 |
 |-------|---------|------|------|
-|   115 | 3,450   | 34.5 | 11.5 |
-|   120 | 3,600   | 36   | 12   |
-|   125 | 3,750   | 37.5 | 12.5 |
-|   130 | 3,900   | 39   | 13   |
-|   135 | 4,050   | 40.5 | 13.5 |
-|   140 | 4,200   | 42   | 14   |
-|   145 | 4,350   | 43.5 | 14.5 |
-|   150 | 4,500   | 45   | 15   |
+|   115 |   3,450 | 34.5 | 11.5 |
+|   120 |   3,600 | 36   | 12   |
+|   125 |   3,750 | 37.5 | 12.5 |
+|   130 |   3,900 | 39   | 13   |
+|   135 |   4,050 | 40.5 | 13.5 |
+|   140 |   4,200 | 42   | 14   |
+|   145 |   4,350 | 43.5 | 14.5 |
+|   150 |   4,500 | 45   | 15   |
 
 ## Arterial line injection
 
@@ -6908,8 +6962,7 @@ Should the physician decide to administer anticoagulation in the context of epid
 A puncture-free interval of at least 12 hours shall be kept between the last injection of enoxaparin sodium at prophylactic doses and the needle or catheter placement.
 
 - For continuous techniques, a similar delay of at least 12 hours should be observed before removing the catheter.
-
-For patients with creatinine clearance [15-30] mL/min, consider doubling the timing of puncture/catheter placement or removal to at least 24 hours.
+- For patients with creatinine clearance [15-30] mL/min, consider doubling the timing of puncture/catheter placement or removal to at least 24 hours.
 
 The 2 hours preoperative initiation of enoxaparin sodium 2,000 IU (20 mg) is not compatible with neuraxial anaesthesia.
 
@@ -7056,7 +7109,7 @@ Heparins can suppress adrenal secretion of aldosterone leading to hyperkalaemia 
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## Acute generalized exanthematous pustulosis
 
@@ -7201,17 +7254,15 @@ As with other anticoagulants, haemorrhage may occur in the presence of associate
 |--------------------------------------|-----------------------------------------------------------------|-----------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | Blood and lymphatic system disorders | Very common : Haemorrhag e α Rare: Retroperiton eal haemorrhage | Common: Haemorrha ge α            | Very common: Haemorrha ge α Uncommon : Intracranial haemorrhag e, Retroperiton eal haemorrhag e | Common b : Haemorrhag e                                           | Common: Haemorrhag e α Rare: Retroperiton eal haemorrhage      | Common: Haemorrhage α Uncommon: Intracranial haemorrhage, Retroperitone al haemorrhage |
 
-α : such as haematoma, ecchymosis other than at injection site, wound haematoma, haematuria, epistaxis and gastro-intestinal haemorrhage.
-
 b : frequency based on a retrospective study on a registry including 3526 patients (see section 5.1)
 
 Thrombocytopenia and thrombocytosis (see section 4.4 monitoring of platelet counts)
 
-β : Platelet increased &gt; 400 G/L
-
 | System organ class                   | Prophylaxis in surgical patients                           | Prophylaxis in medical patients   | Treatment in patients with DVT with or without PE           | Extended treatment of DVT and PE in patients with active cancer   | Treatment in patients with unstable angina and non-Q-wave MI   | Treatment in patients with acute STEMI                                                      |
 |--------------------------------------|------------------------------------------------------------|-----------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------|
 | Blood and lymphatic system disorders | Very common : Thrombocytos is β Common: Thrombo- cytopenia | Uncommon : Thrombo- cytopenia     | Very common : Thrombo- cytosis β Common: Thrombo- cytopenia | Unknown: Thrombocyt openia                                        | Uncommon: Thrombo- cytopenia                                   | Common: Thrombocytos is β Thrombo- cytopenia Very rare: Immuno- allergic thrombo- cytopenia |
+
+β : Platelet increased &gt; 400 G/L
 
 ## Paediatric population
 
@@ -7321,7 +7372,7 @@ VTE = venous thromboembolic event (DVT and/or PE)
 
 *The 95% confidence intervals for the treatment differences for total VTE were:
 
-- -enoxaparin sodium once a day versus heparin (-3.0 to 3.5)
+-enoxaparin sodium once a day versus heparin (-3.0 to 3.5)
 
 -enoxaparin sodium every 12 hours versus heparin (-4.2 to 1.7).
 
@@ -7350,7 +7401,7 @@ Table. 6-month outcomes in patients completing 6-month treatment, by different r
 
 |                                              |                            | Enoxaparin all regimens    | Enoxaparin all regimens    | Enoxaparin all regimens    | Enoxaparin all regimens   | Enoxaparin all regimens          |                            |
 |----------------------------------------------|----------------------------|----------------------------|----------------------------|----------------------------|---------------------------|----------------------------------|----------------------------|
-| Outcome N (%) (95% CI)                       | Enoxapa rin all regimens   | Enoxapa rinOD              | Enoxapa rin BID            | Enoxapa rin BID to OD      | Enoxapar inOD to BID      | Enoxapar in More than one switch | EU- authorized LMWHs       |
+| Outcome N (%) (95% CI)                       | Enoxapa rin all regimens   | Enoxapa rin OD             | Enoxapa rin BID            | Enoxapa rin BID to OD      | Enoxapar inOD to BID      | Enoxapar in More than one switch | EU- authorized LMWHs       |
 |                                              | N=1432                     | N=444                      | N=529                      | N=406                      | N=14                      | N=39                             | N=428                      |
 | Recurrence of VTE                            | 70 (4.9%) (3.8%- 6.0%)     | 33 (7.4%) (5.0%- 9.9%)     | 22 (4.2%) (2.5%- 5.9%)     | 10 (2.5%) (0.9%- 4.0%)     | 1 (7.1%) (0%- 22.6%)      | 4 (10.3%) (0.3%- 20.2%)          | 23 (5.4%) (3.2%- 7.5%)     |
 | Major bleeding (fatal and non-fatal)         | 111 (7.8%) (6.4%- 9.1%)    | 31 (7.0%) (4.6%- 9.4%)     | 52 (9.8%) (7.3%- 12.4%)    | 21 (5.2%) (3.0%- 7.3%)     | 1 (7.1%) (0%- 22.6%)      | 6 (15.4%) (3.5%- 27.2%)          | 18 (4.2%) (2.3%- 6.1%)     |
@@ -7476,7 +7527,7 @@ Water for injections
 
 ## 6.2 Incompatibilities
 
-## SC injection
+SC injection
 
 Do not mix with other medicinal products.
 
@@ -7555,14 +7606,13 @@ Do not press on the plunger to remove the air bubble before injecting. The air b
 - 7) Hold the syringe so that the needle is pointing downwards (vertically at a 90 º angle). Insert the full length of the needle into the skin fold
 - 8) Press down on the plunger with your thumb. This will inject the medicinal product into the fatty tissue of the abdomen. Make sure you hold the skin fold throughout the injection
 - 9) Remove the needle by pulling it straight out.
-
-<!-- image -->
-
-<!-- image -->
-
-## To avoid bruising, do not rub the injection site after you have injected yourself.
-
 - 10) Drop the used syringe into the sharps container. Close the container lid tightly and place the container out of reach of children.
+
+<!-- image -->
+
+To avoid bruising, do not rub the injection site after you have injected yourself.
+
+<!-- image -->
 
 ## When the container is full, dispose of it as your doctor or pharmacist has instructed. Do not put it in the household rubbish.
 
@@ -7604,7 +7654,7 @@ Do not press on the plunger to remove the air bubble before injecting. The air b
 
 - 6) Hold the syringe in the hand you write with (like a pencil) and with your other hand, gently pinch the cleaned area of your abdomen between your forefinger and thumb to make a fold in the skin
 
-## Make sure you hold the skin fold throughout the injection.
+Make sure you hold the skin fold throughout the injection.
 
 - 7) Hold the syringe so that the needle is pointing downwards (vertically at a 90 º angle). Insert the full length of the needle into the skin fold
 - 8) Press down on the plunger with your thumb. This will inject the medicinal product into the fatty tissue of the abdomen. Make sure you hold the skin fold throughout the injection
@@ -7632,7 +7682,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Techdow Pharma Netherlands B.V. Strawinskylaan 1143, Toren C-11 1077XX Amsterdam Netherlands
+Techdow Pharma Netherlands B.V. Zuidplein 28, Tower 1, Level 3 (Unit 5) 1077 XV Amsterdam Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -7744,9 +7794,9 @@ No data are available in patients using enoxaparin sodium for prophylaxis or tre
 ## Acute coronary syndrome: treatment of unstable angina and NSTEMI and treatment of acute STEMI
 
 - For treatment of unstable angina and NSTEMI, the recommended dose of enoxaparin sodium is 100 IU/kg (1 mg/kg) every 12 hours by subcutaneous injection administered in combination with antiplatelet therapy. Treatment should be maintained for a minimum of 2 days and continued until clinical stabilization. The usual duration of treatment is 2 to 8 days.
-- Acetylsalicylic acid is recommended for all patients without contraindications at an initial oral loading dose of 150-300 mg (in acetylsalicylic acid-naive patients) and a maintenance dose of 75-325 mg/day long-term regardless of treatment strategy.
+- Acetylsalicylic acid is recommended for all patients without contraindications at an initial oral loading dose of 150 -300 mg (in acetylsalicylic acid-naive patients) and a maintenance dose of 75-325 mg/day long-term regardless of treatment strategy.
 - For treatment of acute STEMI, the recommended dose of enoxaparin sodium is a single intravenous bolus of 3,000 IU (30 mg) plus a 100 IU/kg (1 mg/kg) subcutaneous dose followed by 100 IU/kg (1 mg/kg) administered subcutaneously every 12 hours (maximum 10,000 IU (100 mg) for each of the first two subcutaneous doses). Appropriate antiplatelet therapy such as oral acetylsalicylic acid (75 mg to 325 mg once daily) should be administered concomitantly unless contraindicated. The recommended duration of treatment is 8 days or until hospital discharge, whichever comes first. When administered in conjunction with a thrombolytic (fibrin specific or non-fibrin specific), enoxaparin sodium should be given between 15 minutes before and 30 minutes after the start of fibrinolytic therapy.
-- o For dose in pati ents ≥ 75 years of age, see paragraph 'Elderly'.
+- o For dose in patients ≥ 75 years of age, see paragraph 'Elderly'.
 - o For patients managed with PCI, if the last subcutaneous dose of enoxaparin sodium was given less than 8 hours before balloon inflation, no additional dosing is needed. If the last subcutaneous administration was given more than 8 hours before balloon inflation, an intravenous bolus of 30 IU/kg (0.3 mg/kg) enoxaparin sodium should be administered.
 
 ## Special populations
@@ -7757,9 +7807,9 @@ The safety and efficacy of enoxaparin sodium in paediatric population have not b
 
 ## Elderly
 
-For all indications except STEMI, no dose reduction is necessary in the elderly patients, unless kidney function is impaired (see below paragraph 'Renal impairment' and section 4.4).
+For all indications except STEMI, no dose reduction is necessary in the elderly patients, unless kidney function is impaired (see below paragraph 'Renal impairment' and section 4.4). in elderly patients with impaired kidney function, see below 'renal
 
-For treatment of acute STEMI in elderly patients ≥75 years of age, an initial intravenous bolus must not be used. Initiate dosing with 75 IU/kg (0.75 mg/kg) subcutaneously every 12 hours (maximum 7,500 IU (75 mg) for each of the first two subcutaneous doses only, followed by 75 IU/kg (0.75 mg/kg) subcutaneous dosing for the remaining doses). For dose in elderly patients with impaired kidney function, see below 'renal impairment' and section 4.4.
+For treatment of acute STEMI in elderly patients ≥75 years of age, an initial intravenous bolus must not be used. Initiate dosing with 75 IU/kg (0.75 mg/kg) subcutaneously every 12 hours (maximum 7,500 IU (75 mg) for each of the first two subcutaneous doses only, followed by 75 IU/kg (0.75 mg/kg) subcutaneous dosing for the remaining doses). For dose impairment' and section 4.4.
 
 ## Hepatic impairment
 
@@ -7809,7 +7859,7 @@ The use of a tuberculin syringe or equivalent is recommended when using multidos
 
 Injection should be made preferably when the patient is lying down. Enoxaparin sodium is administered by deep SC injection.
 
-When using pre-filled syringes, the air bubble should not be expelled from the syringe before the injection in order to avoid the loss of the medicinal product. When the quantity of the medicinal product to be injected requires to be adjusted based on the patient's body weight, the graduated pre-filled syringes should be used to reach the required volume by discarding the excess before injection. In some cases it is not possible to achieve an exact dose due to the graduations on the syringe, and in such case the volume shall be rounded up to the nearest graduation.
+When using pre-filled syringes, the air bubble should not be expelled from the syringe before the injection in order to avoid the loss of the medicinal product. When the quantity of the medicinal product to be injected requires to be adjusted based on the patient's body weight, the graduated pre -filled syringes should be used to reach the required volume by discarding the excess before injection. In some cases it is not possible to achieve an exact dose due to the graduations on the syringe, and in such case the volume shall be rounded up to the nearest graduation.
 
 The administration should be alternated between the left and right anterolateral or posterolateral abdominal wall.
 
@@ -7862,16 +7912,16 @@ Volume to be injected through intravenous line after dilution is completed at a 
 
 <div style=\"page-break-after: always\"></div>
 
-|   110 | 3,300   |   33 |   11 |
+|   110 |   3,300 |   33 |   11 |
 |-------|---------|------|------|
-|   115 | 3,450   | 34.5 | 11.5 |
-|   120 | 3,600   | 36   | 12   |
-|   125 | 3,750   | 37.5 | 12.5 |
-|   130 | 3,900   | 39   | 13   |
-|   135 | 4,050   | 40.5 | 13.5 |
-|   140 | 4,200   | 42   | 14   |
-|   145 | 4,350   | 43.5 | 14.5 |
-|   150 | 4,500   | 45   | 15   |
+|   115 |   3,450 | 34.5 | 11.5 |
+|   120 |   3,600 | 36   | 12   |
+|   125 |   3,750 | 37.5 | 12.5 |
+|   130 |   3,900 | 39   | 13   |
+|   135 |   4,050 | 40.5 | 13.5 |
+|   140 |   4,200 | 42   | 14   |
+|   145 |   4,350 | 43.5 | 14.5 |
+|   150 |   4,500 | 45   | 15   |
 
 ## Arterial line injection
 
@@ -7956,9 +8006,7 @@ In patients with cancer with a platelet count below 80 G/L, anticoagulation trea
 
 <div style=\"page-break-after: always\"></div>
 
-The risk of antibody-mediated HIT also exists with LMWHs. Should thrombocytopenia occur, it usually appears between the 5 th and the 21 st day following the beginning of enoxaparin sodium treatment.
-
-The risk of HIT is higher in postoperative patients and mainly after cardiac surgery and in patients with cancer.
+The risk of antibody-mediated HIT also exists with LMWHs. Should thrombocytopenia occur, it usually appears between the 5 th and the 21 st day following the beginning of enoxaparin sodium treatment. The risk of HIT is higher in postoperative patients and mainly after cardiac surgery and in patients with cancer.
 
 Therefore, it is recommended that the platelet counts be measured before the initiation of therapy with enoxaparin sodium and then regularly thereafter during the treatment.
 
@@ -8051,7 +8099,7 @@ Heparins can suppress adrenal secretion of aldosterone leading to hyperkalaemia 
 
 ## Benzyl alcohol
 
-## Benzyl alcohol may cause allergic reactions.
+Benzyl alcohol may cause allergic reactions.
 
 Intravenous administration of benzyl alcohol has been associated with serious adverse events and death in neonates ('Gasping Syndrome') (see section 4.3). The minimum amount of benzyl alcohol at which toxicity may occur is not known. Benzyl alcohol may also cause toxic reactions in infants and children up to 3 years old, due to increased risk of accumulation.
 
@@ -8059,934 +8107,7 @@ High volumes of medicinal products containing benzyl alcohol should be used with
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose within the recommended dose range, that is to say essentially 'sodium-free'.
-
-## Acute generalized exanthematous pustulosis
-
-<div style=\"page-break-after: always\"></div>
-
-Acute generalized exanthematous pustulosis (AGEP) has been reported with frequency not known in association with enoxaparin treatment. At the time of prescription patients should be advised of the signs and symptoms and monitored closely for skin reactions. If signs and symptoms suggestive of these reactions appear, enoxaparin should be withdrawn immediately and an alternative treatment considered (as appropriate).
-
-## 4.5 Interaction with other medicinal products and other forms of interaction
-
-## Concomitant use not recommended
-
-## Medicinal products affecting haemostasis (see section 4.4)
-
-It is recommended that some agents which affect haemostasis should be discontinued prior to enoxaparin sodium therapy unless strictly indicated. If the combination is indicated, enoxaparin sodium should be used with careful clinical and laboratory monitoring when appropriate. These agents include medicinal products such as:
-
-- -Systemic salicylates, acetylsalicylic acid at anti-inflammatory doses, and NSAIDs including ketorolac,
-- -Other thrombolytics (e.g. alteplase, reteplase, streptokinase, tenecteplase, urokinase) and anticoagulants (see section 4.2).
-
-## Concomitant use with caution
-
-The following medicinal products may be administered with caution concomitantly with enoxaparin sodium:
-
-- Other medicinal products affecting haemostasis such as:
-- -Platelet aggregation inhibitors including acetylsalicylic acid used at antiaggregant dose (cardioprotection), clopidogrel, ticlopidine, and glycoprotein IIb/IIIa antagonists indicated in acute coronary syndrome due to the risk of bleeding,
-- -Dextran 40,
-- -Systemic glucocorticoids.
-- Medicinal products increasing potassium levels
-
-Medicinal products that increase serum potassium levels may be administered concurrently with enoxaparin sodium under careful clinical and laboratory monitoring (see sections 4.4 and 4.8).
-
-## 4.6 Fertility, pregnancy and lactation
-
-## Pregnancy
-
-In humans, there is no evidence that enoxaparin crosses the placental barrier during the second and third trimester of pregnancy. There is no information available concerning the first trimester.
-
-Animal studies have not shown any evidence of foetotoxicity or teratogenicity (see section 5.3). Animal data have shown that enoxaparin passage through the placenta is minimal.
-
-Enoxaparin sodium should be used during pregnancy only if the physician has established a clear need. Pregnant women receiving enoxaparin sodium should be carefully monitored for evidence of bleeding or excessive anticoagulation and should be warned of the haemorrhagic risk. Overall, the data suggest that there is no evidence for an increased risk of haemorrhage, thrombocytopenia or osteoporosis with respect to the risk observed in non-pregnant women, other than that observed in pregnant women with prosthetic heart valves (see section 4.4).
-
-If an epidural anaesthesia is planned, it is recommended to withdraw enoxaparin sodium treatment before (see section 4.4).
-
-As benzyl alcohol may cross the placenta, it is recommended to use a formulation that does not contain benzyl alcohol.
-
-<div style=\"page-break-after: always\"></div>
-
-## Breast-feeding
-
-It is not known whether unchanged enoxaparin is excreted in human breast milk. In lactating rats, the passage of enoxaparin or its metabolites in milk is very low. The oral absorption of enoxaparin sodium is unlikely. Inhixa can be used during breastfeeding.
-
-## Fertility
-
-There are no clinical data for enoxaparin sodium in fertility. Animal studies did not show any effect on fertility (see section 5.3).
-
-## 4.7 Effects on ability to drive and use machines
-
-Enoxaparin sodium has no or negligible influence on the ability to drive and use machines.
-
-## 4.8 Undesirable effects
-
-## Summary of the safety profile
-
-Enoxaparin sodium has been evaluated in more than 15,000 patients who received enoxaparin sodium in clinical trials. These included 1,776 for prophylaxis of DVT following orthopaedic or abdominal surgery in patients at risk for thromboembolic complications, 1,169 for prophylaxis of DVT in acutely ill medical patients with severely restricted mobility, 559 for treatment of DVT with or without PE, 1,578 for treatment of unstable angina and non-Q-wave myocardial infarction and 10,176 for treatment of acute STEMI.
-
-Enoxaparin sodium regimen administered during these clinical trials varies depending on indications. The enoxaparin sodium dose was 4,000 IU (40 mg) subcutaneously once daily for prophylaxis of DVT following surgery or in acutely ill medical patients with severely restricted mobility. In treatment of DVT with or without PE, patients receiving enoxaparin sodium were treated with either a 100 IU/kg (1 mg/kg) subcutaneous dose every 12 hours or a 150 IU/kg (1.5 mg/kg) subcutaneous dose once a day. In the clinical trials for treatment of unstable angina and non-Q-wave myocardial infarction, doses were 100 IU/kg (1 mg/kg) subcutaneously every 12 hours, and in the clinical study for treatment of acute STEMI enoxaparin sodium regimen was a 3,000 IU (30 mg) intravenous bolus followed by 100 IU/kg (1 mg/kg) subcutaneously every 12 hours.
-
-In clinical trials, haemorrhages, thrombocytopenia and thrombocytosis were the most commonly reported reactions (see sections 4.4 and 'Description of selected adverse reactions' below).
-
-The safety profile of enoxaparin for extended treatment of DVT and PE in patients with active cancer is similar to its safety profile for the treatment of DVT and PE.
-
-Acute generalized exanthematous pustulosis (AGEP) has been reported in association with enoxaparin treatment (see section 4.4).
-
-## Tabulated list of adverse reactions
-
-Other adverse reactions observed in clinical trials and reported in post-marketing experience (* indicates reactions from post-marketing experience) are detailed below.
-
-Frequencies are defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 t o &lt;1/1,000); and very rare (&lt; 1/10,000) or not known (cannot be estimated from available data). Within each system organ class, adverse reactions are presented in order of decreasing seriousness.
-
-## Blood and the lymphatic system disorders
-
-Common: Haemorrhage, haemorrhagic anaemia*, thrombocytopenia, thrombocytosis Rare: Eosinophilia*
-
-<div style=\"page-break-after: always\"></div>
-
-Rare: Cases of immuno-allergic thrombocytopenia with thrombosis; in some of them thrombosis was complicated by organ infarction or limb ischaemia (see section 4.4).
-
-## Immune system disorders
-
-Common: Allergic reaction
-
-Rare: Anaphylactic/Anaphylactoid reactions including shock*
-
-## Nervous system disorders
-
-Common: Headache*
-
-## Vascular disorders
-
-Rare: Spinal haematoma* (or neuraxial haematoma). These reactions have resulted in varying degrees of neurologic injuries including long-term or permanent paralysis (see section 4.4).
-
-## Hepatobiliary disorders
-
-Very common: Hepatic enzyme increases (mainly transaminases &gt; 3 times the upper limit of normality)
-
-Uncommon: Hepatocellular liver injury *
-
-Rare: Cholestatic liver injury*
-
-## Skin and subcutaneous tissue disorders
-
-Common: Urticaria, pruritus, erythema
-
-Uncommon: Bullous dermatitis
-
-Rare: Alopecia*
-
-Rare: Cutaneous vasculitis*, skin necrosis* usually occurring at the injection site (these phenomena have been usually preceded by purpura or erythematous plaques, infiltrated and painful).
-
-Injection site nodules* (inflammatory nodules, which were not cystic enclosure of enoxaparin). They resolve after a few days and should not cause treatment discontinuation.
-
-Not known: Acute generalized exanthematous pustulosis (AGEP)
-
-## Musculoskeletal and connective tissue disorders
-
-Rare: Osteoporosis* following long term therapy (greater than 3 months)
-
-## General disorders and administration site conditions
-
-Common: Injection site haematoma, injection site pain, other injection site reaction (such as oedema, haemorrhage, hypersensitivity, inflammation, mass, pain, or reaction)
-
-Uncommon: Local irritation, skin necrosis at injection site
-
-## Investigations
-
-Rare: Hyperkalaemia* (see sections 4.4 and 4.5).
-
-## Description of selected adverse reactions
-
-## Haemorrhages
-
-These included major haemorrhages, reported at most in 4.2 % of the patients (surgical patients). Some of these cases have been fatal. In surgical patients, haemorrhage complications were considered major: (1) if the haemorrhage caused a significant clinic al event, or (2) if accompanied by haemoglobin decrease ≥ 2 g/dL or transfusion of 2 or more units of blood products. Retroperitoneal and intracranial haemorrhages were always considered major.
-
-As with other anticoagulants, haemorrhage may occur in the presence of associated risk factors such as: organic lesions liable to bleed, invasive procedures or the concomitant use of medicinal products affecting haemostasis (see sections 4.4 and 4.5).
-
-<div style=\"page-break-after: always\"></div>
-
-| System organ class                     | Prophylaxis in surgical patients                               | Prophylaxis in medical patients   | Treatment in patients with DVT with or without PE                                           | Extended treatment of DVT and PE in patients with active cancer   | Treatment in patients with unstable angina and non-Q-wave MI   | Treatment in patients with acute STEMI                                                 |
-|----------------------------------------|----------------------------------------------------------------|-----------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| Blood and lympha tic system disorde rs | Very common : Haemorrhage α Rare: Retroperitonea l haemorrhage | Common: Haemorrhag e α            | Very common: Haemorrhage α Uncommon: Intracranial haemorrhage, Retroperitone al haemorrhage | Common b : Haemorrhage                                            | Common: Haemorrhage α Rare: Retroperiton eal haemorrhage       | Common: Haemorrhage α Uncommon: Intracranial haemorrhage, Retroperitone al haemorrhage |
-
-α : such as haematoma, ecchymosis other than at injection site, wound haematoma, haematuria, epistaxis and gastro-intestinal haemorrhage.
-
-b : frequency based on a retrospective study on a registry including 3526 patients (see section 5.1)
-
-Thrombocytopenia and thrombocytosis (see section 4.4 monitoring of platelet counts)
-
-| System organ class                     | Prophylaxis in surgical patients                            | Prophylaxis in medical patients   | Treatment in patients with DVT with or without PE           | Extended treatment of DVT and PE in patients with active cancer   | Treatment in patients with unstable angina and non-Q-wave MI   | Treatment in patients with acute STEMI                                                      |
-|----------------------------------------|-------------------------------------------------------------|-----------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| Blood and lympha tic system disorde rs | Very common : Thrombo- cytosis β Common: Thrombo- cytopenia | Uncommon: Thrombo- cytopenia      | Very common : Thrombo- cytosis β Common: Thrombo- cytopenia | Unknown: Thrombocyto penia                                        | Uncommon: Thrombo- cytopenia                                   | Common: Thrombocytos is β Thrombo- cytopenia Very rare: Immuno- allergic thrombo- cytopenia |
-
-β : Platelet increased &gt;400 G/L
-
-## Paediatric population
-
-The safety and efficacy of enoxaparin sodium in children have not been established (see section 4.2).
-
-Intravenous administration of benzyl alcohol has been associated with serious adverse events and death in neonates ('Gasping Syndrome') (see section 4.3).
-
-Benzyl alcohol may also cause toxic reactions in infants and children up to 3 years old, due to increased risk of accumulation (see section 4.4).
-
-## Reporting of suspected adverse reactions
-
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-<div style=\"page-break-after: always\"></div>
-
-## 4.9 Overdose
-
-## Signs and symptoms
-
-Accidental overdose with enoxaparin sodium after intravenous, extracorporeal or subcutaneous administration may lead to haemorrhagic complications. Following oral administration of even large doses, it is unlikely that enoxaparin sodium will be absorbed.
-
-## Management
-
-The anticoagulant effects can be largely neutralised by the slow intravenous injection of protamine. The dose of protamine depends on the dose of enoxaparin sodium injected; 1 mg protamine neutralises the anticoagulant effect of 100 IU (1 mg) of enoxaparin sodium, if enoxaparin sodium was administered in the previous 8 hours. An infusion of 0.5 mg protamine per 100 IU (1 mg) of enoxaparin sodium may be administered if enoxaparin sodium was administered greater than 8 hours previous to the protamine administration, or if it has been determined that a second dose of protamine is required. After 12 hours of the enoxaparin sodium injection, protamine administration may not be required. However, even with high doses of protamine, the anti-Xa activity of enoxaparin sodium is never completely neutralised (maximum about 60%) (see the prescribing information for protamine salts).
-
-## 5. PHARMACOLOGICAL PROPERTIES
-
-## 5.1 Pharmacodynamic properties
-
-Pharmacotherapeutic group: Antithrombotic agents, heparin group. ATC code: B01A B05
-
-Inhixa is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency http://www.ema.europa.eu.
-
-## Pharmacodynamic effects
-
-Enoxaparin is a LMWH with a mean molecular weight of approximately 4,500 daltons, in which the antithrombotic and anticoagulant activities of standard heparin have been dissociated. The active substance is the sodium salt.
-
-In the in vitro purified system, enoxaparin sodium has a high anti-Xa activity (approximately 100 IU/mg) and low anti-IIa or anti thrombin activity (approximately 28 IU/mg), with a ratio of 3.6. These anticoagulant activities are mediated through anti-thrombin III (ATIII) resulting in anti-thrombotic activities in humans.
-
-Beyond its anti-Xa/IIa activity, further antithrombotic and anti-inflammatory properties of enoxaparin have been identified in healthy subjects and patients as well as in non-clinical models.
-
-These include ATIII-dependent inhibition of other coagulation factors like factor VIIa, induction of endogenous Tissue Factor Pathway Inhibitor (TFPI) release as well as a reduced release of von Willebrand factor (vWF) from the vascular endothelium into the blood circulation. These factors are known to contribute to the overall antithrombotic effect of enoxaparin sodium.
-
-When used as prophylactic treatment, enoxaparin sodium does not significantly affect the aPTT. When used as curative treatment, aPTT can be prolonged by 1.5-2.2 times the control time at peak activity.
-
-## Clinical efficacy and safety
-
-## Prevention of venous thromboembolic disease associated with surgery
-
-## Extended prophylaxis of VTE following orthopaedic surgery
-
-In a double blind study of extended prophylaxis for patients undergoing hip replacement surgery, 179 patients with no venous thromboembolic disease initially treated, while hospitalised, with enoxaparin sodium 4,000 IU (40 mg) subcutaneously, were randomised to a post-discharge regimen of either enoxaparin
-
-<div style=\"page-break-after: always\"></div>
-
-sodium 4,000 IU (40 mg) (n=90) once a day subcutaneously or to placebo (n=89) for 3 weeks. The incidence of DVT during extended prophylaxis was significantly lower for enoxaparin sodium compared to placebo, no PE was reported. No major bleeding occurred.
-
-The efficacy data are provided in the table below.
-
-|                                           | Enoxaparin sodium 4,000 IU (40 mg) once a day subcutaneously n (%)   | Placebo once a day subcutaneously n (%)   |
-|-------------------------------------------|----------------------------------------------------------------------|-------------------------------------------|
-| All treated extended prophylaxis patients | 90 (100)                                                             | 89 (100)                                  |
-| Total VTE (%)                             | 6 (6.6)                                                              | 18 (20.2)                                 |
-| Total DVT (%)                             | 6 (6.6)*                                                             | 18 (20.2)                                 |
-| Proximal DVT (%)                          | 5 (5.6) #                                                            | 7 (8.8)                                   |
-
-*p value versus placebo =0.008
-
-#p value versus placebo =0.537
-
-In a second double-blind study, 262 patients without VTE disease and undergoing hip replacement surgery initially treated, while hospitalised, with enoxaparin sodium 4,000 IU (40 mg) subcutaneously were randomised to a post-discharge regimen of either enoxaparin sodium 4,000 IU (40 mg) (n=131) once a day subcutaneously or to placebo (n=131) for 3 weeks. Similar to the first study the incidence of VTE during extended prophylaxis was significantly lower for enoxaparin sodium compared to placebo for both total VTE (enoxaparin sodium 21 [16%] versus placebo 45 [34.4%]; p=0.001) and proximal DVT (enoxaparin sodium 8 [6.1%] versus placebo 28 [21.4%]; p=&lt;0.001). No difference in major bleeding was found between the enoxaparin sodium and the placebo group.
-
-## Extended prophylaxis of DVT following cancer surgery
-
-A double-blind, multicentre trial, compared a four-week and a one-week regimen of enoxaparin sodium prophylaxis in terms of safety and efficacy in 332 patients undergoing elective surgery for abdominal or pelvic cancer. Patients received enoxaparin sodium (4,000 IU (40 mg) subcutaneously) daily for 6 to 10 days and were then randomly assigned to receive either enoxaparin sodium or placebo for another 21 days. Bilateral venography was performed between days 25 and 31, or sooner if symptoms of venous thromboembolism occurred. The patients were followed for three months. Enoxaparin sodium prophylaxis for four weeks after surgery for abdominal or pelvic cancer significantly reduced the incidence of venographically demonstrated thrombosis, as compared with enoxaparin sodium prophylaxis for one week. The rates of venous thromboembolism at the end of the double-blind phase were 12.0 % (n=20) in the placebo group and 4.8% (n=8) in the enoxaparin sodium group; p=0.02. This difference persisted at three months [13.8% vs. 5.5% (n=23 vs 9), p=0.01]. There were no differences in the rates of bleeding or other complications during the double-blind or follow-up periods.
-
-## Prophylaxis of venous thromboembolic disease in medical patients with an acute illness expected to induce limitation of mobility
-
-In a double blind multicentre, parallel group study, enoxaparin sodium 2,000 IU (20 mg) or 4,000 IU (40 mg) once a day subcutaneously was compared to placebo in the prophylaxis of DVT in medical patients with severely restricted mobility during acute illness (defined as walking distance of &lt;10 meters for ≤3 days). This study included patients with heart failure (NYHA Class III or IV); acute respiratory failure or complicated chronic respiratory insufficiency, and acute infection or acute rheumatic; if associated with at least one VTE risk factor (age ≥75 years, cancer, previous VTE, obesity, varicose veins, hormone therapy, and chronic heart or respiratory failure).
-
-A total of 1,102 patients were enrolled in the study, and 1,073 patients were treated. Treatment continued for 6 to 14 days (median duration 7 days). When given at a dose of 4,000 IU (40 mg) once a day subcutaneously, enoxaparin sodium significantly reduced the incidence of VTE as compared to placebo. The efficacy data are provided in the table below.
-
-| Enoxaparin sodium 2,000 IU (20 mg)   | Enoxaparin sodium 4,000 IU (40 mg)   | Placebo n (%)   |
-|--------------------------------------|--------------------------------------|-----------------|
-
-<div style=\"page-break-after: always\"></div>
-
-|                                                   | once a day subcutaneously n (%)   | once a day subcutaneously n (%)   |           |
-|---------------------------------------------------|-----------------------------------|-----------------------------------|-----------|
-| All treated medical patients during acute illness | 287 (100)                         | 291(100)                          | 288 (100) |
-| Total VTE (%)                                     | 43 (15.0)                         | 16 (5.5)*                         | 43 (14.9) |
-| Total DVT (%)                                     | 43 (15.0)                         | 16 (5.5)                          | 40 (13.9) |
-| Proximal DVT (%)                                  | 13 (4.5)                          | 5 (1.7)                           | 14 (4.9)  |
-
-VTE = Venous thromboembolic events which included DVT, PE, and death considered to be thromboembolic in origin * p value versus placebo = 0.0002
-
-At approximately 3 months following enrolment, the incidence of VTE remained significantly lower in the enoxaparin sodium 4,000 IU (40 mg) treatment group versus the placebo treatment group.
-
-The occurrence of total and major bleeding were respectively 8.6% and 1.1% in the placebo group, 11.7% and 0.3% in the enoxaparin sodium 2,000 IU (20 mg) group and 12.6% and 1.7% in the enoxaparin sodium 4,000 IU (40 mg) group.
-
-## Treatment of DVT with or without PE
-
-In a multicentre, parallel group study, 900 patients with acute lower extremity DVT with or without PE were randomised to an inpatient (hospital) treatment of either (i) enoxaparin sodium 150 IU/kg (1.5 mg/kg) once a day subcutaneously, (ii) enoxaparin sodium 100 IU/kg (1 mg/kg) every 12 hours subcutaneously, or (iii) heparin intravenous bolus (5,000 IU) followed by a continuous infusion (administered to achieve an aPTT of 55 to 85 seconds). A total of 900 patients were randomised in the study and all patients were treated. All patients also received warfarin sodium (dose adjusted according to prothrombin time to achieve an INR of 2.0 to 3.0), commencing within 72 hours of initiation of enoxaparin sodium or standard heparin therapy, and continuing for 90 days. Enoxaparin sodium or standard heparin therapy was administered for a minimum of 5 days and until the targeted warfarin sodium INR was achieved. Both enoxaparin sodium regimens were equivalent to standard heparin therapy in reducing the risk of recurrent venous thromboembolism (DVT and/or PE). The efficacy data are provided in the table below.
-
-|                                             | Enoxaparin sodium 150 IU/kg (1.5 mg/kg) once a day subcutaneously n (%)   | Enoxaparin sodium 100 IU/kg (1 mg/kg) twice a day subcutaneously n (%)   | Heparin aPTT Adjusted Intravenous Therapy n (%)   |
-|---------------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------------|
-| All treated DVT patients with or without PE | 298 (100)                                                                 | 312 (100)                                                                | 290 (100)                                         |
-| Total VTE (%)                               | 13 (4.4)*                                                                 | 9 (2.9)*                                                                 | 12 (4.1)                                          |
-| DVT only (%)                                | 11 (3.7)                                                                  | 7 (2.2)                                                                  | 8 (2.8)                                           |
-| Proximal DVT (%)                            | 9 (3.0)                                                                   | 6 (1.9)                                                                  | 7 (2.4)                                           |
-| PE (%)                                      | 2 (0.7)                                                                   | 2 (0.6)                                                                  | 4 (1.4)                                           |
-
-VTE = venous thromboembolic event (DVT and/or PE)
-
-* The 95% confidence intervals for the treatment differences for total VTE were:
-
--enoxaparin sodium once a day versus heparin (-3.0 to 3.5)
-
--enoxaparin sodium every 12 hours versus heparin (-4.2 to 1.7).
-
-Major bleeding were respectively 1.7% in the enoxaparin sodium 150 IU/kg (1.5 mg/kg) once a day group, 1.3% in the enoxaparin sodium 100 IU/kg (1 mg/kg) twice a day group and 2.1% in the heparin group.
-
-## Extended treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) and prevention of its recurrence in patients with active cancer
-
-In clinical trials with limited number of patients, reported rates of recurrent VTE in patients treated with enoxaparin given once or twice daily for 3 to 6 months appear comparable to those with warfarin.
-
-Effectiveness in real-life setting was assessed in a cohort of 4,451 patients with symptomatic VTE and active cancer from the multinational registry RIETE of patients with VTE and other thrombotic conditions. 3,526
-
-<div style=\"page-break-after: always\"></div>
-
-patients received SC enoxaparin up to 6 months and 925 patients received tinzaparin or dalteparin SC. Among the 3,526 patients receiving enoxaparin treatment, 891 patients were treated with 1.5 mg/kg once daily as initial therapy and extended treatment up to 6 months (once daily alone), 1,854 patients received initial 1.0 mg/kg twice daily regimen and extended treatment up to 6 months (twice daily alone), and 687 patients received 1.0 mg/kg twice daily as initial treatment followed by 1.5 mg/kg once daily (twice dailyonce daily) as the extended treatment up to 6 months. The mean and median duration of treatment until regimen change was 17 days and 8 days, respectively. There was no significant difference for VTE recurrence rate between the two treatments groups (see table), with enoxaparin meeting the prespecified criterion for non inferiority of 1.5 (HR adjusted by relevant covariates 0.817, 95% CI: 0.499-1.336). There was no statistically significant difference between the two treatment groups with regards to the relative risks of major (fatal or non-fatal) bleeding and all-cause death (see table).
-
-Table. Efficacy and safety outcomes in the RIETECAT study
-
-| Outcome            | Enoxaparin n=3526   | OtherLMWH n=925   | Adjusted hazard ratios enoxaparin / otherLMWH [95% confidence interval]   |
-|--------------------|---------------------|-------------------|---------------------------------------------------------------------------|
-| VTE recurrence     | 70 (2.0%)           | 23 (2.5%)         | 0.817, [ 0.499-1.336]                                                     |
-| Major bleeding     | 111 (3.1%)          | 18 (1.9%)         | 1.522, [ 0.899-2.577]                                                     |
-| Non-major bleeding | 87 (2.5%)           | 24 (2.6%)         | 0.881, [0.550-1.410]                                                      |
-| Overall death      | 666 (18.9%)         | 157 (17.0%)       | 0.974, [ 0.813-1.165]                                                     |
-
-An overview of outcomes per treatment regimen used in the RIETECAT study among 6-month completers is provided below:
-
-Table. 6-month outcomes in patients completing 6-month treatment, by different regimens
-
-|                                              |                            | Enoxaparin all regimens    | Enoxaparin all regimens    | Enoxaparin all regimens    | Enoxaparin all regimens   | Enoxaparin all regimens          |                            |
-|----------------------------------------------|----------------------------|----------------------------|----------------------------|----------------------------|---------------------------|----------------------------------|----------------------------|
-| Outcome N (%) (95% CI)                       | Enoxapa rin all regimens   | Enoxapa rinOD              | Enoxapa rin BID            | Enoxapa rin BID to OD      | Enoxapar inOD to BID      | Enoxapar in More than one switch | EU- authorized LMWHs       |
-|                                              | N=1432                     | N=444                      | N=529                      | N=406                      | N=14                      | N=39                             | N=428                      |
-| Recurrence of VTE                            | 70 (4.9%) (3.8%- 6.0%)     | 33 (7.4%) (5.0%- 9.9%)     | 22 (4.2%) (2.5%- 5.9%)     | 10 (2.5%) (0.9%- 4.0%)     | 1 (7.1%) (0%- 22.6%)      | 4 (10.3%) (0.3%- 20.2%)          | 23 (5.4%) (3.2%- 7.5%)     |
-| Major bleeding (fatal and non-fatal)         | 111 (7.8%) (6.4%- 9.1%)    | 31 (7.0%) (4.6%- 9.4%)     | 52 (9.8%) (7.3%- 12.4%)    | 21 (5.2%) (3.0%- 7.3%)     | 1 (7.1%) (0%- 22.6%)      | 6 (15.4%) (3.5%- 27.2%)          | 18 (4.2%) (2.3%- 6.1%)     |
-| Non-major bleedings of clinical significance | 87 (6.1%) (4.8%- 7.3%)     | 26 (5.9%) (3.7%- 8.0%)     | 33 (6.2%) (4.2%- 8.3%)     | 23 (5.7%) (3.4%- 7.9%)     | 1 (7.1%) (0%- 22.6%)      | 4 (10.3%) (0.3%- 20.2%)          | 24 (5.6%) (3.4%- 7.8%)     |
-| All-cause death                              | 666 (46.5%) (43.9%- 49.1%) | 175 (39.4%) (34.9%- 44.0%) | 323 (61.1%) (56.9%- 65.2%) | 146 (36.0%) (31.3%- 40.6%) | 6 (42.9%) (13.2%- 72.5%)  | 16 (41.0%) (24.9%- 57.2%)        | 157 (36.7%) (32.1%- 41.3%) |
-| Fatal PE or fatal bleeding related death     | 48 (3.4%) (2.4%- 4.3%)     | 7 (1.6%) (0.4%- 2.7%)      | 35 (6.6%) (4.5%- 8.7%)     | 5 (1.2%) (0.2%- 2.3%)      | 0 (0%) -                  | 1 (2.6%) (0%- 7.8%)              | 11 2.6%) (1.1%- 4.1%)      |
-| *All data with 95% CI                        | *All data with 95% CI      | *All data with 95% CI      | *All data with 95% CI      | *All data with 95% CI      | *All data with 95% CI     | *All data with 95% CI            | *All data with 95% CI      |
-
-<div style=\"page-break-after: always\"></div>
-
-## Treatment of unstable angina and non ST elevation myocardial infarction
-
-In a large multicentre study, 3,171 patients enrolled at the acute phase of unstable angina or non-Q-wave myocardial infarction were randomised to receive in association with acetylsalicylic acid (100 to 325 mg once daily), either subcutaneous enoxaparin sodium 100 IU/kg (1 mg/kg) every 12 hours or intravenous unfractionated heparin adjusted based on aPTT. Patients had to be treated in hospital for a minimum of 2 days and a maximum of 8 days, until clinical stabilization, revascularization procedures or hospital discharge. The patients had to be followed up to 30 days. In comparison with heparin, enoxaparin sodium significantly reduced the combined incidence of angina pectoris, myocardial infarction and death, with a decrease of 19.8 to 16.6% (relative risk reduction of 16.2%) on day 14. This reduction in the combined incidence was maintained after 30 days (from 23.3 to 19.8%; relative risk reduction of 15%). There were no significant differences in major haemorrhages, although a haemorrhage at the site of the subcutaneous injection was more frequent.
-
-## Treatment of acute ST-segment elevation myocardial infarction
-
-In a large multicentre study, 20,479 patients with STEMI eligible to receive fibrinolytic therapy were randomised to receive either enoxaparin sodium in a single 3,000 IU (30 mg) intravenous bolus plus a 100 IU/kg (1 mg/kg) subcutaneously dose followed by an subcutaneous injection of 100 IU/kg (1 mg/kg) every 12 hours or intravenous unfractionated heparin adjusted based on aPTT for 48 hours. All patients were also treated with acetylsalicylic acid for a minimum of 30 days. The enoxaparin sodium dosing strategy was adjusted for severe renally impaired patients and for the elderly of at least 75 years of age. The subcutaneous injections of enoxaparin sodium were given until hospital discharge or for a maximum of eight days (whichever came first).
-
-4,716 patients underwent percutaneous coronary intervention receiving antithrombotic support with blinded investigational medicinal product. Therefore, for patients on enoxaparin sodium, the PCI was to be performed on enoxaparin sodium (no switch) using the regimen established in previous studies i.e. no additional dosing, if last subcutaneous administration given less than 8 hours before balloon inflation, intravenous bolus of 30 IU/ kg (0.3 mg/kg) enoxaparin sodium, if the last subcutaneous administration given more than 8 hours before balloon inflation.
-
-Enoxaparin sodium compared to unfractionated heparin significantly decreased the incidence of the primary end point, a composite of death from any cause or myocardial re-infarction in the first 30 days after randomization [9.9 percent in the enoxaparin sodium group, as compared with 12.0 percent in the unfractionated heparin group] with a 17 percent relative risk reduction (p&lt;0.001).
-
-The treatment benefits of enoxaparin sodium, evident for a number of efficacy outcomes, emerged at 48 hours, at which time there was a 35 percent reduction in the relative risk of myocardial re-infarction, as compared with treatment with unfractionated heparin (p&lt;0.001).
-
-The beneficial effect of enoxaparin sodium on the primary end point was consistent across key subgroups including age, gender, infarct location, history of diabetes, history of prior myocardial infarction, type of fibrinolytic administered, and time to treatment with the investigational medicinal product.
-
-There was a significant treatment benefit of enoxaparin sodium, as compared with unfractionated heparin, in patients who underwent percutaneous coronary intervention within 30 days after randomization (23 percent reduction in relative risk) or who were treated medically (15 percent reduction in relative risk, p=0.27 for interaction).
-
-The rate of the 30 day composite endpoint of death, myocardial re-infarction or intracranial haemorrhage (a measure of net clinical benefit) was significantly lower (p&lt;0.0001) in the enoxaparin sodium group (10.1%) as compared to the heparin group (12.2%), representing a 17% relative risk reduction in favour of treatment with enoxaparin sodium.
-
-The incidence of major bleeding at 30 days was significantly higher (p&lt;0.0001) in the enoxaparin sodium group (2.1%) versus the heparin group (1.4%). There was a higher incidence of gastrointestinal bleeding in the enoxaparin sodium group (0.5%) versus the heparin group (0.1%), while the incidence of intracranial haemorrhage was similar in both groups (0.8% with enoxaparin sodium versus 0.7% with heparin).
-
-The beneficial effect of enoxaparin sodium on the primary end point observed during the first 30 days was maintained over a 12 month follow-up period.
-
-## Hepatic impairment
-
-<div style=\"page-break-after: always\"></div>
-
-Based on literature data the use of enoxaparin sodium 4,000 IU (40 mg) in cirrhotic patients (Child-Pugh class B-C) appears to be safe and effective in preventing portal vein thrombosis. It should be noted that the literature studies may have limitations. Caution should be used in patients with hepatic impairment as these patients have an increased potential for bleeding (see section 4.4) and no formal dose finding studies have been performed in cirrhotic patients (Child Pugh class A, B nor C).
-
-## 5.2 Pharmacokinetic properties
-
-## General characteristics
-
-The pharmacokinetic parameters of enoxaparin sodium have been studied primarily in terms of the time course of plasma anti-Xa activity and also by anti-IIa activity, at the recommended dose ranges after single and repeated subcutaneous administration and after single intravenous administration. The quantitative determination of anti-Xa and anti-IIa pharmacokinetic activities was conducted by validated amidolytic methods.
-
-## Absorption
-
-The absolute bioavailability of enoxaparin sodium after subcutaneous injection, based on anti-Xa activity, is close to 100%.
-
-## Different doses and formulations and dosing regimens can be used.
-
-The mean maximum plasma anti-Xa activity level is observed 3 to 5 hours after subcutaneous injection and achieves approximately 0.2, 0.4, 1.0 and 1.3 anti-Xa IU/mL following single subcutaneous administration of 2,000 IU, 4,000 IU, 100 IU/kg and 150 IU/kg (20 mg, 40 mg, 1 mg/kg and 1.5 mg/kg) doses, respectively.
-
-A 3,000 IU (30 mg) intravenous bolus immediately followed by a 100 IU/kg (1 mg/kg) subcutaneous every 12 hours provided initial maximum anti-Xa activity level of 1.16 IU/mL (n=16) and average exposure corresponding to 88% of steady-state levels. Steady-state is achieved on the second day of treatment.
-
-After repeated subcutaneous administration of 4,000 IU (40 mg) once daily and 150 IU/kg (1.5 mg/kg) once daily regimens in healthy volunteers, the steady-state is reached on day 2 with an average exposure ratio about 15% higher than after a single dose. After repeated subcutaneous administration of the 100 IU/kg (1 mg/kg) twice daily regimen, the steady-state is reached from day 3 to 4 with mean exposure about 65% higher than after a single dose and mean maximum and trough anti-Xa activity levels of about 1.2 and 0.52 IU/mL, respectively.
-
-Injection volume and dose concentration over the range 100-200 mg/mL does not affect pharmacokinetic parameters in healthy volunteers.
-
-Enoxaparin sodium pharmacokinetics appears to be linear over the recommended dose ranges. Intra-patient and inter-patient variability is low. Following repeated subcutaneous administration no accumulation takes place.
-
-Plasma anti-IIa activity after subcutaneous administration is approximately ten-fold lower than anti-Xa activity. The mean maximum anti-IIa activity level is observed approximately 3 to 4 hours following subcutaneous injection and reaches 0.13 IU/mL and 0.19 IU/mL following repeated administration of 100 IU/kg (1 mg/kg) twice daily and 150 IU/kg (1.5 mg/kg) once daily, respectively.
-
-## Distribution
-
-The volume of distribution of enoxaparin sodium anti-Xa activity is about 4.3 litres and is close to the blood volume.
-
-## Biotransformation
-
-<div style=\"page-break-after: always\"></div>
-
-Enoxaparin sodium is primarily metabolised in the liver by desulfation and/or depolymerisation to lower molecular weight species with much reduced biological potency.
-
-## Elimination
-
-Enoxaparin sodium is a low clearance substance with a mean anti-Xa plasma clearance of 0.74 L/h after a 150 IU /kg (1.5 mg/kg) 6-hour intravenous infusion.
-
-Elimination appears monophasic with a half-life of about 5 hours after a single subcutaneous dose to about 7 hours after repeated dosing.
-
-Renal clearance of active fragments represents about 10% of the administered dose and total renal excretion of active and non-active fragments 40% of the dose.
-
-## Special populations
-
-## Elderly
-
-Based on the results of a population pharmacokinetic analysis, the enoxaparin sodium kinetic profile is not different in elderly subjects compared to younger subjects when renal function is normal. However, since renal function is known to decline with age, elderly patients may show reduced elimination of enoxaparin sodium (see sections 4.2 and 4.4).
-
-## Hepatic impairment
-
-In a study conducted in patients with advanced cirrhosis treated with enoxaparin sodium 4,000 IU (40 mg) once daily, a decrease in maximum anti-Xa activity was associated with an increase in the severity of hepatic impairment (assessed by Child-Pugh categories). This decrease was mainly attributed to a decrease in ATIII level secondary to a reduced synthesis of ATIII in patients with hepatic impairment.
-
-## Renal impairment
-
-A linear relationship between anti-Xa plasma clearance and creatinine clearance at steady-state has been observed, which indicates decreased clearance of enoxaparin sodium in patients with reduced renal function. Anti-Xa exposure represented by AUC, at steady-state, is marginally increased in mild (creatinine clearance 50-80 mL/min) and moderate (creatinine clearance 30-50 mL/min) renal impairment after repeated subcutaneous 4,000 IU (40 mg) once daily doses. In patients with severe renal impairment (creatinine clearance &lt;30 mL/min), the AUC at steady state is significantly increased on average by 65% after repeated subcutaneous 4,000 IU (40 mg) once daily doses (see sections 4.2 and 4.4).
-
-## Haemodialysis
-
-Enoxaparin sodium pharmacokinetics appeared similar than control population, after a single 25 IU, 50 IU or 100 IU/kg (0.25, 0.50 or 1.0 mg/kg) intravenous dose however, AUC was two-fold higher than control.
-
-## Weight
-
-After repeated subcutaneous 150 IU/kg (1.5 mg/kg) once daily dosing, mean AUC of anti-Xa activity is marginally higher at steady state in obese healthy volunteers (BMI 30-48 kg/m 2 ) compared to non-obese control subjects, while maximum plasma anti-Xa activity level is not increased. There is a lower weightadjusted clearance in obese subjects with subcutaneous dosing.
-
-When non-weight adjusted dosing was administered, it was found after a single- subcutaneous 4,000 IU (40 mg) dose, that anti-Xa exposure is 52% higher in low-weight women (&lt;45 kg) and 27% higher in lowweight men (&lt;57 kg) when compared to normal weight control subjects (see section 4.4).
-
-## Pharmacokinetic interactions
-
-No pharmacokinetic interactions were observed between enoxaparin sodium and thrombolytics when administered concomitantly.
-
-<div style=\"page-break-after: always\"></div>
-
-## 5.3 Preclinical safety data
-
-Besides the anticoagulant effects of enoxaparin sodium, there was no evidence of adverse reactions at 15 mg/kg/day in the 13-week subcutaneous toxicity studies both in rats and dogs and at 10 mg/kg/day in the 26-week subcutaneous and intravenous toxicity studies both in rats, and monkeys.
-
-Enoxaparin sodium has shown no mutagenic activity based on in vitro tests, including the Ames test, mouse lymphoma cell forward mutation test, and no clastogenic activity based on an in vitro human lymphocyte chromosomal aberration test, and the in vivo rat bone marrow chromosomal aberration test.
-
-Studies conducted in pregnant rats and rabbits at subcutaneous doses of enoxaparin sodium up to 30 mg/kg/day did not reveal any evidence of teratogenic effects or foetotoxicity. Enoxaparin sodium was found to have no effect on fertility or reproductive performance of male and female rats at subcutaneous doses up to 20 mg/kg/day.
-
-## 6. PHARMACEUTICAL PARTICULARS
-
-## 6.1 List of excipients
-
-Benzyl alcohol Water for injections
-
-## 6.2 Incompatibilities
-
-## SC injection
-
-Should not be mixed with other medicinal products.
-
-## IV (bolus) injection (for acute STEMI indication only)
-
-This medicinal product must not be mixed with other medicinal products except those mentioned in section 6.6.
-
-## 6.3 Shelf life
-
-3 years
-
-## After first opening
-
-Chemical and physical in-use stability has been demonstrated for 28 days at 25 °C. From a microbiological point of view, once opened, the medicinal product may be stored for a maximum of
-
-28 days below 25 °C. Other in-use storage times and conditions are the responsibility of the user.
-
-After dilution with sodium chloride 9 mg/ml (0.9%) solution for injection or 5% glucose solution for injection.
-
-Chemical and physical in-use stability has been demonstrated for 8 hours at 25 °C. From a microbiological point of view, unless the method of dilution precludes the risk of microbial contamination, the medicinal product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of user.
-
-## 6.4 Special precautions for storage
-
-Store below 25 °C. Do not freeze.
-
-For storage conditions after first opening and dilution of the medicinal product, see section 6.3.
-
-<div style=\"page-break-after: always\"></div>
-
-6.5
-
-Nature and contents of container
-
-3 mL of solution in clear, colourless type I glass vial sealed with rubber injection stopper and white aluminium-plastic cap in a cardboard box.
-
-Pack-sizes of 1 vial containing 3 mL.
-
-6.6
-
-Special precautions for disposal and other handling
-
-Enoxaparin sodium may be safely administered with sodium chloride 9 mg/ml (0.9%) solution for injection or 5% glucose in water for injections (see section 4.2).
-
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-7.
-
-MARKETING AUTHORISATION HOLDER
-
-Techdow Pharma Netherlands B.V.
-
-Strawinskylaan 1143, Toren C-11
-
-1077XX Amsterdam
-
-Netherlands
-
-8.
-
-MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/16/1132/071
-
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
-
-Date of first authorisation: 15/09/2016
-
-Date of latest renewal: 26/08/2021
-
-10.
-
-DATE OF REVISION OF THE TEXT
-
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency http://www.ema.europa.eu.
-
-232
-
-<div style=\"page-break-after: always\"></div>
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Inhixa 50,000 IU (500 mg)/5 mL solution for injection in multidose container
-
-## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
-
-Each vial contains enoxaparin sodium 50,000 IU anti-Xa activity (equivalent to 500 mg) in 5.0 mL water for injections.
-
-Each mL contains 10,000 IU (100 mg) enoxaparin sodium.
-
-Enoxaparin sodium is a biological substance obtained by alkaline depolymerisation of heparin benzyl ester derived from porcine intestinal mucosa.
-
-## Excipient(s) with known effect
-
-Benzyl alcohol (75 mg in 5.0 mL)
-
-For the full list of excipients, see section 6.1.
-
-## 3. PHARMACEUTICAL FORM
-
-Solution for injection
-
-Clear, colourless to pale yellow solution.
-
-## 4. CLINICAL PARTICULARS
-
-## 4.1 Therapeutic indications
-
-Inhixa is indicated in adults for:
-
-Prophylaxis of venous thromboembolic disease in moderate and high risk surgical patients, in particular those undergoing orthopaedic or general surgery including cancer surgery.
-
-Prophylaxis of venous thromboembolic disease in medical patients with an acute illness (such as acute heart failure, respiratory insufficiency, severe infections or rheumatic diseases) and reduced mobility at increased risk of venous thromboembolism (VTE).
-
-Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), excluding PE likely to require thrombolytic therapy or surgery.
-
-Extended treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) and prevention of its recurrence in patients with active cancer.
-
-Prevention of thrombus formation in extra corporeal circulation during haemodialysis.
-
-Acute coronary syndrome:
-
-- Treatment of unstable angina and Non ST-segment elevation myocardial infarction (NSTEMI), in combination with oral acetylsalicylic acid.
-- Treatment of acute ST-segment elevation myocardial infarction (STEMI) including patients to be managed medically or with subsequent percutaneous coronary intervention (PCI).
-
-## 4.2 Posology and method of administration
-
-Posology
-
-Prophylaxis of venous thromboembolic disease in moderate and high risk surgical patients Individual thromboembolic risk for patients can be estimated using validated risk stratification model.
-
-<div style=\"page-break-after: always\"></div>
-
-- In patients at moderate risk of thromboembolism, the recommended dose of enoxaparin sodium is 2,000 IU (20 mg) once daily by subcutaneous injection. Preoperative initiation (2 hours before surgery) of enoxaparin sodium 2,000 IU (20 mg) was proven effective and safe in moderate risk surgery.
-
-In moderate risk patients, enoxaparin sodium treatment should be maintained for a minimal period of 7-10 days whatever the recovery status (e.g. mobility). Prophylaxis should be continued until the patient no longer has significantly reduced mobility.
-
-- In patients at high risk of thromboembolism, the recommended dose of enoxaparin sodium is 4,000 IU (40 mg) once daily given by subcutaneous injection preferably started 12 hours before surgery. If there is a need for earlier than 12 hours enoxaparin sodium preoperative prophylactic initiation (e.g. high risk patient waiting for a deferred orthopaedic surgery), the last injection should be administered no later than 12 hours prior to surgery and resumed 12 hours after surgery.
-- o For patients who undergo major orthopaedic surgery an extended thromboprophylaxis up to 5 weeks is recommended.
-- o For patients with a high venous thromboembolism (VTE) risk who undergo abdominal or pelvic surgery for cancer an extended thromboprophylaxis up to 4 weeks is recommended.
-
-## Prophylaxis of venous thromboembolism in medical patients
-
-The recommended dose of enoxaparin sodium is 4,000 IU (40 mg) once daily by subcutaneous injection. Treatment with enoxaparin sodium is prescribed for at least 6 to 14 days whatever the recovery status (e.g. mobility). The benefit is not established for a treatment longer than 14 days.
-
-## Treatment of DVT and PE
-
-Enoxaparin sodium can be administered subcutaneously either as a once daily injection of 150 IU/kg (1.5 mg/kg) or as twice daily injections of 100 IU/kg (1 mg/kg).
-
-The regimen should be selected by the physician based on an individual assessment including evaluation of the thromboembolic risk and of the risk of bleeding. The dose regimen of 150 IU/kg (1.5 mg/kg) administered once daily should be used in uncomplicated patients with low risk of VTE recurrence. The dose regimen of 100 IU/kg (1 mg/kg) administered twice daily should be used in all other patients such as those with obesity, with symptomatic PE, cancer, recurrent VTE or proximal ( vena iliaca ) thrombosis.
-
-Enoxaparin sodium treatment is prescribed for an average period of 10 days. Oral anticoagulant therapy should be initiated when appropriate (see 'Switch between enoxaparin sodium and oral anticoagulants' at the end of section 4.2).
-
-In the extended treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) and prevention of its recurrence in patients with active cancer, physicians should carefully assess the individual thromboembolic and bleeding risks of the patient.
-
-The recommended dose is 100 IU/kg (1 mg/kg) administered twice daily by SC injections for 5 to 10 days, followed by a 150 IU/kg (1.5 mg/kg) once daily SC injection up to 6 months. The benefit of continuous anticoagulant therapy should be reassessed after 6 months of treatment.
-
-## Prevention of thrombus formation during haemodialysis
-
-The recommended dose is 100 IU/kg (1 mg/kg) of enoxaparin sodium.
-
-For patients with a high risk of haemorrhage, the dose should be reduced to 50 IU/kg (0.5 mg/kg) for double vascular access or 75 IU/kg (0.75 mg/kg) for single vascular access.
-
-During haemodialysis, enoxaparin sodium should be introduced into the arterial line of the circuit at the beginning of the dialysis session. The effect of this dose is usually sufficient for a 4-hour session; however, if fibrin rings are found, for example after a longer than normal session, a further dose of 50 IU to 100 IU/kg (0.5 to 1 mg/kg) may be given.
-
-No data are available in patients using enoxaparin sodium for prophylaxis or treatment and during haemodialysis sessions.
-
-<div style=\"page-break-after: always\"></div>
-
-## Acute coronary syndrome: treatment of unstable angina and NSTEMI and treatment of acute STEMI
-
-- For treatment of unstable angina and NSTEMI, the recommended dose of enoxaparin sodium is 100 IU/kg (1 mg/kg) every 12 hours by subcutaneous injection administered in combination with antiplatelet therapy. Treatment should be maintained for a minimum of 2 days and continued until clinical stabilization. The usual duration of treatment is 2 to 8 days.
-- Acetylsalicylic acid is recommended for all patients without contraindications at an initial oral loading dose of 150-300 mg (in acetylsalicylic acid-naive patients) and a maintenance dose of 75-325 mg/day long-term regardless of treatment strategy.
-- For treatment of acute STEMI, the recommended dose of enoxaparin sodium is a single intravenous bolus of 3,000 IU (30 mg) plus a 100 IU/kg (1 mg/kg) subcutaneous dose followed by 100 IU/kg (1 mg/kg) administered subcutaneously every 12 hours (maximum 10,000 IU (100 mg) for each of the first two subcutaneous doses). Appropriate antiplatelet therapy such as oral acetylsalicylic acid (75 mg to 325 mg once daily) should be administered concomitantly unless contraindicated. The recommended duration of treatment is 8 days or until hospital discharge, whichever comes first. When administered in conjunction with a thrombolytic (fibrin specific or non-fibrin specific), enoxaparin sodium should be given between 15 minutes before and 30 minutes after the start of fibrinolytic therapy.
-- o For dose in patients ≥ 75 years of age, see paragraph 'Elderly'.
-- o For patients managed with PCI, if the last subcutaneous dose of enoxaparin sodium was given less than 8 hours before balloon inflation, no additional dosing is needed. If the last subcutaneous administration was given more than 8 hours before balloon inflation, an intravenous bolus of 30 IU/kg (0.3 mg/kg) enoxaparin sodium should be administered.
-
-## Special populations
-
-## Paediatric population
-
-The safety and efficacy of enoxaparin sodium in paediatric population have not been established. No data are available.
-
-## Elderly
-
-For all indications except STEMI, no dose reduction is necessary in the elderly patients, unless kidney function is impaired (see below paragraph 'Renal impairment' and section 4.4). For treatment of acute STEMI in elderly patients ≥75 years of age, an initial intravenous bolus must not be used. Initiate dosing with 75 IU/kg (0.75 mg/kg) subcutaneously every 12 hours (maximum 7,500 IU (75 mg) for each of the first two subcutaneous doses only, followed by 75 IU/kg (0.75 mg/kg) subcutaneous dosing for the remaining doses). For dose in elderly patients with impaired kidney function, see below 'renal impairment' and section 4.4.
-
-## Hepatic impairment
-
-Limited data are available in patients with hepatic impairment (see sections 5.1 and 5.2) and caution should be used in these patients (see section 4.4).
-
-## Renal impairment (see sections 4.4 and 5.2)
-
-## Severe renal impairment
-
-Enoxaparin sodium is not recommended for patients with end stage renal disease (creatinine clearance &lt;15 mL/min) due to lack of data in this population outside the prevention of thrombus formation in extra corporeal circulation during haemodialysis.
-
-Dose table for patients with severe renal impairment (creatinine clearance [15-30] mL/min):
-
-| Indication                                   | Dosing regimen                                            |
-|----------------------------------------------|-----------------------------------------------------------|
-| Prophylaxis of venous thromboembolic disease | 2,000 IU (20 mg) subcutaneously once daily                |
-| Treatment of DVT and PE                      | 100 IU/kg (1 mg/kg) body weight subcutaneously once daily |
-
-<div style=\"page-break-after: always\"></div>
-
-| Extended treatment of DVT and PE in patients with active cancer   | 100 IU/kg (1 mg/kg) body weight SC once daily                                                                                                                     |
-|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Treatment of unstable angina and NSTEMI                           | 100 IU/kg (1 mg/kg) body weight subcutaneously once daily                                                                                                         |
-| Treatment of acute STEMI (patients under 75)                      | 1 x 3,000 IU (30 mg) intravenous bolus plus 100 IU/kg (1 mg/kg) body weight subcutaneously and then 100 IU/kg (1 mg/kg) body weight subcutaneously every 24 hours |
-| Treatment of acute STEMI (patients over 75)                       | No intravenous initial bolus, 100 IU/kg (1 mg/kg) body weight subcutaneously and then 100 IU/kg (1 mg/kg) body weight subcutaneously every 24 hours               |
-
-The recommended dose adjustments do not apply to the haemodialysis indication.
-
-## Moderate and mild renal impairment
-
-Although no dose adjustment is recommended in patients with moderate (creatinine clearance 30-50 mL/min) and mild (creatinine clearance 50-80 mL/min) renal impairment, careful clinical monitoring is advised.
-
-Inhixa multidose vial contains benzyl alcohol and must not be used in newborn babies and premature neonates (see section 4.3).
-
-## Method of administration
-
-Inhixa is not indicated for intramuscular use and should not be administered by this route.
-
-For the prophylaxis of venous thromboembolic disease following surgery, treatment of DVT and PE, extended treatment of DVT and PE in patients with active cancer, treatment of unstable angina and NSTEMI, enoxaparin sodium should be administered by subcutaneous injection.
-
-- For acute STEMI, treatment is to be initiated with a single intravenous bolus injection immediately followed by a subcutaneous injection.
-- For the prevention of thrombus formation in the extra corporeal circulation during haemodialysis, it is administered through the arterial line of a dialysis circuit.
-
-The use of a tuberculin syringe or equivalent is recommended when using multidose vials to assure withdrawal of the appropriate volume of the medicinal product.
-
-## SC injection technique
-
-Injection should be made preferably when the patient is lying down. Enoxaparin sodium is administered by deep SC injection.
-
-When using pre-filled syringes, the air bubble should not be expelled from the syringe before the injection in order to avoid the loss of the medicinal product. When the quantity of the medicinal product to be injected requires to be adjusted based on the patient's body weight, the graduated pre-filled syringes should be used to reach the required volume by discarding the excess before injection. In some cases it is not possible to achieve an exact dose due to the graduations on the syringe, and in such case the volume shall be rounded up to the nearest graduation.
-
-The administration should be alternated between the left and right anterolateral or posterolateral abdominal wall.
-
-The whole length of the needle should be introduced vertically into a skin fold gently held between the thumb and index finger. The skin fold should not be released until the injection is complete. The injection site should not be rubbed after administration.
-
-<div style=\"page-break-after: always\"></div>
-
-## IV (bolus) injection (for acute STEMI indication only)
-
-For acute STEMI, treatment is to be initiated with a single intravenous bolus injection immediately followed by a subcutaneous injection.
-
-For intravenous injection, either the multidose vial or pre-filled syringe can be used.
-
-Enoxaparin sodium should be administered through an intravenous line. It should not be mixed or coadministered with other medicinal products. To avoid the possible mixture of enoxaparin sodium with other medicinal products, the intravenous access chosen should be flushed with a sufficient amount of sodium chloride 9 mg/mL (0.9%) solution for infusion or 5% glucose in water for injection prior to and following the intravenous bolus administration of enoxaparin sodium to clear the port of the medicinal product. Enoxaparin sodium may be safely administered with sodium chloride 9 mg/mL (0.9%) solution for infusion or 5% glucose in water for injections.
-
-## Initial 3,000 IU (30 mg) bolus
-
-For the initial 3,000 IU (30 mg) bolus, using an enoxaparin sodium graduated pre-filled syringe, the excessive volume has to be expelled to retain only 3,000 IU (30 mg) in the syringe. The 3,000 IU (30 mg) dose can then be directly injected into the intravenous line.
-
-## Additional bolus for PCI when last subcutaneous administration was given more than 8 hours before balloon inflation
-
-For patients being managed with PCI, an additional intravenous bolus of 30 IU/kg (0.3 mg/kg) is to be administered if last subcutaneous administration was given more than 8 hours before balloon inflation.
-
-In order to assure the accuracy of the small volume to be injected, it is recommended to dilute the medicinal product to 300 IU/mL (3 mg/mL).
-
-To obtain a 300 IU/mL (3 mg/mL) solution, using a 6,000 IU (60 mg) enoxaparin sodium pre-filled syringe, it is recommended to use a 50 mL infusion bag (i.e. using either sodium chloride 9 mg/mL (0.9%) solution for infusion or 5% glucose in water for injections) as follows:
-
-30 mL of the solution should be withdrawn from the infusion bag with a syringe and discarded. The complete contents of the 6,000 IU (60 mg) enoxaparin sodium pre-filled syringe should be injected into the 20 mL remaining in the bag. The contents of the bag should be gently mixed. Then, the required volume of diluted solution should be withdrawn with a syringe for administration into the intravenous line.
-
-After dilution is completed, the volume to be injected can be calculated using the following formula [volume of diluted solution (mL) = patient weight (kg) x 0.1] or using the table below. It is recommended to prepare the dilution immediately before use.
-
-Volume to be injected through intravenous line after dilution is completed at a concentration of 300 IU (3 mg)/mL.
-
-| Weight   | Required dose 30 IU/kg (0.3 mg/kg)   | Required dose 30 IU/kg (0.3 mg/kg)   | Volume to inject when diluted to a final concentration of 300 IU (3 mg)/mL   |
-|----------|--------------------------------------|--------------------------------------|------------------------------------------------------------------------------|
-| [kg]     | IU                                   | [mg]                                 | [mL]                                                                         |
-| 45       | 1,350                                | 13.5                                 | 4.5                                                                          |
-| 50       | 1,500                                | 15                                   | 5                                                                            |
-| 55       | 1,650                                | 16.5                                 | 5.5                                                                          |
-| 60       | 1,800                                | 18                                   | 6                                                                            |
-| 65       | 1,950                                | 19.5                                 | 6.5                                                                          |
-| 70       | 2,100                                | 21                                   | 7                                                                            |
-| 75       | 2,250                                | 22.5                                 | 7.5                                                                          |
-| 80       | 2,400                                | 24                                   | 8                                                                            |
-| 85       | 2,550                                | 25.5                                 | 8.5                                                                          |
-| 90       | 2,700                                | 27                                   | 9                                                                            |
-| 95       | 2,850                                | 28.5                                 | 9.5                                                                          |
-| 100      | 3,000                                | 30                                   | 10                                                                           |
-
-<div style=\"page-break-after: always\"></div>
-
-|   105 | 3,150   |   31.5 |   10.5 |
-|-------|---------|--------|--------|
-|   110 | 3,300   |   33   |   11   |
-|   115 | 3,450   |   34.5 |   11.5 |
-|   120 | 3,600   |   36   |   12   |
-|   125 | 3,750   |   37.5 |   12.5 |
-|   130 | 3,900   |   39   |   13   |
-|   135 | 4,050   |   40.5 |   13.5 |
-|   140 | 4,200   |   42   |   14   |
-|   145 | 4,350   |   43.5 |   14.5 |
-|   150 | 4,500   |   45   |   15   |
-
-## Arterial line injection
-
-It is administered through the arterial line of a dialysis circuit for the prevention of thrombus formation in the extra corporeal circulation during haemodialysis.
-
-## Switch between enoxaparin sodium and oral anticoagulants
-
-## Switch between enoxaparin sodium and vitamin K antagonists (VKA)
-
-Clinical monitoring and laboratory tests [prothrombin time expressed as the International Normalised Ratio (INR)] must be intensified to monitor the effect of VKA.
-
-As there is an interval before the VKA reaches its maximum effect, enoxaparin sodium therapy should be continued at a constant dose for as long as necessary in order to maintain the INR within the desired therapeutic range for the indication in two successive tests.
-
-For patients currently receiving a VKA, the VKA should be discontinued and the first dose of enoxaparin sodium should be given when the INR has dropped below the therapeutic range.
-
-## Switch between enoxaparin sodium and direct oral anticoagulants (DOAC)
-
-For patients currently receiving enoxaparin sodium, discontinue enoxaparin sodium and start the DOAC 0 to 2 hours before the time that the next scheduled administration of enoxaparin sodium would be due as per DOAC label.
-
-For patients currently receiving a DOAC, the first dose of enoxaparin sodium should be given at the time the next DOAC dose would be taken.
-
-## Administration in spinal/epidural anaesthesia or lumbar puncture
-
-Should the physician decide to administer anticoagulation in the context of epidural or spinal anaesthesia/analgesia or lumbar puncture, careful neurological monitoring is recommended due to the risk of neuraxial haematomas (see section 4.4).
-
-- At doses used for prophylaxis
-
-A puncture-free interval of at least 12 hours shall be kept between the last injection of enoxaparin sodium at prophylactic doses and the needle or catheter placement.
-
-- For continuous techniques, a similar delay of at least 12 hours should be observed before removing the catheter.
-
-For patients with creatinine clearance [15-30] mL/min, consider doubling the timing of puncture/catheter placement or removal to at least 24 hours.
-
-The 2 hours preoperative initiation of enoxaparin sodium 2,000 IU (20 mg) is not compatible with neuraxial anaesthesia.
-
-- At doses used for treatment
-
-A puncture-free interval of at least 24 hours shall be kept between the last injection of enoxaparin sodium at curative doses and the needle or catheter placement (see also section 4.3).
-
-For continuous techniques, a similar delay of 24 hours should be observed before removing the catheter.
-
-For patients with creatinine clearance [15-30] mL/min, consider doubling the timing of puncture/catheter placement or removal to at least 48 hours.
-
-<div style=\"page-break-after: always\"></div>
-
-Patients receiving the twice daily doses (i.e. 75 IU/kg (0.75 mg/kg) twice daily or 100 IU/kg (1 mg/kg) twice-daily) should omit the second enoxaparin sodium dose to allow a sufficient delay before catheter placement or removal.
-
-Anti-Xa levels are still detectable at these time points, and these delays are not a guarantee that neuraxial hematoma will be avoided.
-
-Likewise, consider not using enoxaparin sodium until at least 4 hours after the spinal/epidural puncture or after the catheter has been removed. The delay must be based on a benefit-risk assessment considering both the risk for thrombosis and the risk for bleeding in the context of the procedure and patient risk factors.
-
-## 4.3 Contraindications
-
-Enoxaparin sodium is contraindicated in patients with:
-
-- Hypersensitivity to enoxaparin sodium, heparin or its derivatives, including other low molecular weight heparins (LMWH), to benzyl alcohol or any other of the excipients listed in section 6.1;
-- History of immune mediated heparin-induced thrombocytopenia (HIT) within the past 100 days or in the presence of circulating antibodies (see also section 4.4 );
-- Active clinically significant bleeding and conditions with a high risk of haemorrhage, including recent haemorrhagic stroke, gastrointestinal ulcer, presence of malignant neoplasm at high risk of bleeding, recent brain, spinal or ophthalmic surgery, known or suspected oesophageal varices, arteriovenous malformations, vascular aneurysms or major intraspinal or intracerebral vascular abnormalities;
-- Spinal or epidural anaesthesia or loco-regional anaesthesia when enoxaparin sodium is used for treatment in the previous 24 hours (see section 4.4).
-
-Because of the content of benzyl alcohol (see section 6.1), enoxaparin sodium multiple dose vial formulation must not be given to newborns or premature neonates (see sections 4.4 and 4.6).
-
-## 4.4 Special warnings and precautions for use
-
-## Traceability
-
-LMWHs are biological medicinal products. In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
-
-## General
-
-Enoxaparin sodium cannot be used interchangeably (unit for unit) with other LMWHs. These medicinal products differ in their manufacturing process, molecular weights, specific anti-Xa and anti-IIa activities, units, dose and clinical efficacy and safety. This results in differences in pharmacokinetics and associated biological activities (e.g. anti-thrombin activity, and platelet interactions). Special attention and compliance with the instructions for use specific to each proprietary medicinal product are therefore required.
-
-## History of HIT (&gt;100 days)
-
-Use of enoxaparin sodium in patients with a history of immune mediated HIT within the past 100 days or in the presence of circulating antibodies is contraindicated (see section 4.3). Circulating antibodies may persist several years.
-
-Enoxaparin sodium is to be used with extreme caution in patients with a history (&gt;100 days) of heparininduced thrombocytopenia without circulating antibodies. The decision to use enoxaparin sodium in such a case must be made only after a careful benefit risk assessment and after non-heparin alternative treatments are considered (e.g. danaparoid sodium or lepirudin).
-
-## Monitoring of platelet counts
-
-In patients with cancer with a platelet count below 80 G/L, anticoagulation treatment can only be considered on a case-by-case basis and careful monitoring is recommended.
-
-<div style=\"page-break-after: always\"></div>
-
-The risk of antibody-mediated HIT also exists with LMWHs. Should thrombocytopenia occur, it usually appears between the 5 th and the 21 st day following the beginning of enoxaparin sodium treatment.
-
-The risk of HIT is higher in postoperative patients and mainly after cardiac surgery and in patients with cancer.
-
-Therefore, it is recommended that the platelet counts be measured before the initiation of therapy with enoxaparin sodium and then regularly thereafter during the treatment.
-
-If there are clinical symptoms suggestive of HIT (any new episode of arterial and/or venous thromboembolism, any painful skin lesion at the injection site, any allergic or anaphylactoid reactions on treatment), platelet count should be measured. Patients must be aware that these symptoms may occur and if so, that they should inform their primary care physician.
-
-In practice, if a confirmed significant decrease of the platelet count is observed (30 to 50 % of the initial value), enoxaparin sodium treatment must be immediately discontinued and the patient switched to another non-heparin anticoagulant alternative treatment.
-
-## Haemorrhage
-
-As with other anticoagulants, bleeding may occur at any site. If bleeding occurs, the origin of the haemorrhage should be investigated and appropriate treatment instituted.
-
-Enoxaparin sodium, as with any other anticoagulant therapy, should be used with caution in conditions with increased potential for bleeding, such as:
-
-- -impaired haemostasis,
-- -history of peptic ulcer,
-- -recent ischemic stroke,
-- -severe arterial hypertension,
-- -recent diabetic retinopathy,
-- -neuro- or ophthalmologic surgery,
-- -concomitant use of medicinal products affecting haemostasis (see section 4.5).
-
-## Laboratory tests
-
-At doses used for prophylaxis of venous thromboembolism, enoxaparin sodium does not influence bleeding time and global blood coagulation tests significantly, nor does it affect platelet aggregation or binding of fibrinogen to platelets.
-
-At higher doses, increases in activated partial thromboplastin time (aPTT), and activated clotting time (ACT) may occur. Increases in aPTT and ACT are not linearly correlated with increasing enoxaparin sodium antithrombotic activity and therefore are unsuitable and unreliable for monitoring enoxaparin sodium activity.
-
-## Spinal/Epidural anaesthesia or lumbar puncture
-
-Spinal/epidural anaesthesia or lumbar puncture must not be performed within 24 hours of administration of enoxaparin sodium at therapeutic doses (see also section 4.3).
-
-There have been cases of neuraxial haematomas reported with the concurrent use of enoxaparin sodium and spinal/epidural anaesthesia or spinal puncture procedures resulting in long term or permanent paralysis. These events are rare with enoxaparin sodium dose regimens 4,000 IU (40 mg) once daily or lower. The risk of these events is higher with the use of post-operative indwelling epidural catheters, with the concomitant use of additional medicinal products affecting haemostasis such as Non-Steroidal Anti-Inflammatory Drugs (NSAIDs), with traumatic or repeated epidural or spinal puncture, or in patients with a history of spinal surgery or spinal deformity.
-
-To reduce the potential risk of bleeding associated with the concurrent use of enoxaparin sodium and epidural or spinal anaesthesia/analgesia or spinal puncture, consider the pharmacokinetic profile of enoxaparin sodium (see section 5.2). Placement or removal of an epidural catheter or lumbar puncture is best performed when the anticoagulant effect of enoxaparin sodium is low; however, the exact timing to reach a sufficiently low anticoagulant effect in each patient is not known. For patients with creatinine clearance [15-30 mL/minute], additional considerations are necessary because elimination of enoxaparin sodium is more prolonged (see section 4.2).
-
-<div style=\"page-break-after: always\"></div>
-
-Should the physician decide to administer anticoagulation in the context of epidural or spinal anaesthesia/analgesia or lumbar puncture, frequent monitoring must be exercised to detect any signs and symptoms of neurological impairment such as midline back pain, sensory and motor deficits (numbness or weakness in lower limbs), bowel and/or bladder dysfunction. Instruct patients to report immediately if they experience any of the above signs or symptoms. If signs or symptoms of spinal hematoma are suspected, initiate urgent diagnosis and treatment including consideration for spinal cord decompression even though such treatment may not prevent or reverse neurological sequelae.
-
-## Skin necrosis/cutaneous vasculitis
-
-Skin necrosis and cutaneous vasculitis have been reported with LMWHs and should lead to prompt treatment discontinuation.
-
-## Percutaneous coronary revascularization procedures
-
-To minimise the risk of bleeding following the vascular instrumentation during the treatment of unstable angina, NSTEMI and acute STEMI, adhere precisely to the intervals recommended between enoxaparin sodium injection doses. It is important to achieve haemostasis at the puncture site after PCI. In case a closure device is used, the sheath can be removed immediately. If a manual compression method is used, sheath should be removed 6 hours after the last intravenous/ subcutaneous enoxaparin sodium injection. If the treatment with enoxaparin sodium is to be continued, the next scheduled dose should be given no sooner than 6 to 8 hours after sheath removal. The site of the procedure should be observed for signs of bleeding or hematoma formation.
-
-## Acute infective endocarditis
-
-Use of heparin is usually not recommended in patients with acute infective endocarditis due to the risk of cerebral haemorrhage. If such use is considered absolutely necessary, the decision must be made only after a careful individual benefit risk assessment.
-
-## Mechanical prosthetic heart valves
-
-The use of enoxaparin sodium has not been adequately studied for thromboprophylaxis in patients with mechanical prosthetic heart valves. Isolated cases of prosthetic heart valve thrombosis have been reported in patients with mechanical prosthetic heart valves who have received enoxaparin sodium for thromboprophylaxis. Confounding factors, including underlying disease and insufficient clinical data, limit the evaluation of these cases. Some of these cases were pregnant women in whom thrombosis led to maternal and foetal death.
-
-## Pregnant women with mechanical prosthetic heart valves
-
-The use of enoxaparin sodium for thromboprophylaxis in pregnant women with mechanical prosthetic heart valves has not been adequately studied. In a clinical study of pregnant women with mechanical prosthetic heart valves given enoxaparin sodium (100 IU/kg (1 mg/kg ) twice daily) to reduce the risk of thromboembolism, 2 of 8 women developed clots resulting in blockage of the valve and leading to maternal and foetal death. There have been isolated post-marketing reports of valve thrombosis in pregnant women with mechanical prosthetic heart valves while receiving enoxaparin sodium for thromboprophylaxis. Pregnant women with mechanical prosthetic heart valves may be at higher risk for thromboembolism.
-
-## Elderly
-
-No increased bleeding tendency is observed in the elderly with the prophylactic dose ranges. Elderly patients (especially patients eighty years of age and older) may be at an increased risk for bleeding complications with the therapeutic dose ranges. Careful clinical monitoring is advised and dose reduction might be considered in patients older than 75 years treated for STEMI (see sections 4.2 and 5.2).
-
-## Renal impairment
-
-<div style=\"page-break-after: always\"></div>
-
-- In patients with renal impairment, there is an increase in exposure of enoxaparin sodium which increases the risk of bleeding. In these patients, careful clinical monitoring is advised, and biological monitoring by anti-Xa activity measurement might be considered (see sections 4.2 and 5.2).
-- Enoxaparin sodium is not recommended for patients with end stage renal disease (creatinine clearance &lt;15 mL/min) due to lack of data in this population outside the prevention of thrombus formation in extra corporeal circulation during haemodialysis.
-
-In patients with severe renal impairment (creatinine clearance 15-30 mL/min), since exposure of enoxaparin sodium is significantly increased, a dose adjustment is recommended for therapeutic and prophylactic dose ranges (see section 4.2).
-
-No dose adjustment is recommended in patients with moderate (creatinine clearance 30-50 mL/min) and mild (creatinine clearance 50-80 mL/min) renal impairment.
-
-## Hepatic impairment
-
-Enoxaparin sodium should be used with caution in patients with hepatic impairment due to an increased potential for bleeding. Dose adjustment based on monitoring of anti-Xa levels is unreliable in patients with liver cirrhosis and not recommended (see section 5.2).
-
-## Low weight
-
-An increase in exposure of enoxaparin sodium with prophylactic doses (non-weight adjusted) has been observed in low-weight women (&lt;45 kg) and low-weight men (&lt;57 kg), which may lead to a higher risk of bleeding. Therefore, careful clinical monitoring is advised in these patients (see section 5.2).
-
-## Obese patients
-
-Obese patients are at higher risk for thromboembolism. The safety and efficacy of prophylactic doses in obese patients (BMI &gt;30 kg/m2) has not been fully determined and there is no consensus for dose adjustment. These patients should be observed carefully for signs and symptoms of thromboembolism.
-
-## Hyperkalaemia
-
-Heparins can suppress adrenal secretion of aldosterone leading to hyperkalaemia (see section 4.8), particularly in patients such as those with diabetes mellitus, chronic renal failure, pre-existing metabolic acidosis, taking medicinal products known to increase potassium (see section 4.5). Plasma potassium should be monitored regularly especially in patients at risk.
-
-## Benzyl alcohol
-
-## Benzyl alcohol may cause allergic reactions.
-
-Intravenous administration of benzyl alcohol has been associated with serious adverse events and death in neonates ('Gasping Syndrome') (see section 4.3). The minimum amount of benzyl alcohol at which toxicity may occur is not known. Benzyl alcohol may also cause toxic reactions in infants and children up to 3 years old, due to increased risk of accumulation.
-
-High volumes of medicinal products containing benzyl alcohol should be used with caution and only if necessary in patients with liver or kidney impairment, or in pregnant women, because of the risk of accumulation of benzyl alcohol and its toxicity (metabolic acidosis).
-
-## Sodium
-
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose within the recommended dose range, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose within the recommended dose range, that is to say essentially 'sodium -free'.
 
 ## Acute generalized exanthematous pustulosis
 
@@ -9133,11 +8254,7 @@ As with other anticoagulants, haemorrhage may occur in the presence of associate
 
 | System organ class                     | Prophylaxis in surgical patients                               | Prophylaxis in medical patients   | Treatment in patients with DVT with or without PE                                           | Extended treatment of DVT and PE in patients with active cancer   | Treatment in patients with unstable angina and non-Q-wave MI   | Treatment in patients with acute STEMI                                                 |
 |----------------------------------------|----------------------------------------------------------------|-----------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| Blood and lymphati c system disorder s | Very common : Haemorrhage α Rare: Retroperitone al haemorrhage | Common: Haemorrhag e α            | Very common: Haemorrhage α Uncommon: Intracranial haemorrhage, Retroperitone al haemorrhage | Common b : Haemorrhag e                                           | Common: Haemorrhage α Rare: Retroperitone al haemorrhage       | Common: Haemorrhage α Uncommon: Intracranial haemorrhage, Retroperitone al haemorrhage |
-
-α : such as haematoma, ecchymosis other than at injection site, wound haematoma, haematuria, epistaxis and gastro-intestinal haemorrhage.
-
-b : frequency based on a retrospective study on a registry including 3526 patients (see section 5.1)
+| Blood and lympha tic system disorde rs | Very common : Haemorrhage α Rare: Retroperitonea l haemorrhage | Common: Haemorrhag e α            | Very common: Haemorrhage α Uncommon: Intracranial haemorrhage, Retroperitone al haemorrhage | Common b : Haemorrhage                                            | Common: Haemorrhage α Rare: Retroperiton eal haemorrhage       | Common: Haemorrhage α Uncommon: Intracranial haemorrhage, Retroperitone al haemorrhage |
 
 Thrombocytopenia and thrombocytosis (see section 4.4 monitoring of platelet counts)
 
@@ -9145,15 +8262,11 @@ Thrombocytopenia and thrombocytosis (see section 4.4 monitoring of platelet coun
 |----------------------------------------|-------------------------------------------------------------|-----------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------|
 | Blood and lympha tic system disorde rs | Very common : Thrombo- cytosis β Common: Thrombo- cytopenia | Uncommon: Thrombo- cytopenia      | Very common : Thrombo- cytosis β Common: Thrombo- cytopenia | Unknown: Thrombocyto penia                                        | Uncommon: Thrombo- cytopenia                                   | Common: Thrombocytos is β Thrombo- cytopenia Very rare: Immuno- allergic thrombo- cytopenia |
 
-β : Platelet increased &gt;400 G/L
-
 ## Paediatric population
 
 The safety and efficacy of enoxaparin sodium in children have not been established (see section 4.2).
 
-Intravenous administration of benzyl alcohol has been associated with serious adverse events and death in neonates ('Gasping Syndrome') (see section 4.3).
-
-Benzyl alcohol may also cause toxic reactions in infants and children up to 3 years old, due to increased risk of accumulation (see section 4.4).
+Intravenous administration of benzyl alcohol has been associated with serious adverse events and death in neonates ('Gasping Syndrome') (see section 4.3). Benzyl alcohol may also cause toxic reactions in infants and children up to 3 years old, due to increased risk of accumulation (see section 4.4).
 
 ## Reporting of suspected adverse reactions
 
@@ -9211,10 +8324,6 @@ The efficacy data are provided in the table below.
 | Total VTE (%)                             | 6 (6.6)                                                              | 18 (20.2)                                 |
 | Total DVT (%)                             | 6 (6.6)*                                                             | 18 (20.2)                                 |
 | Proximal DVT (%)                          | 5 (5.6) #                                                            | 7 (8.8)                                   |
-
-*p value versus placebo =0.008
-
-#p value versus placebo =0.537
 
 In a second double-blind study, 262 patients without VTE disease and undergoing hip replacement surgery initially treated, while hospitalised, with enoxaparin sodium 4,000 IU (40 mg) subcutaneously were randomised to a post-discharge regimen of either enoxaparin sodium 4,000 IU (40 mg) (n=131) once a day subcutaneously or to placebo (n=131) for 3 weeks. Similar to the first study the incidence of VTE during extended prophylaxis was significantly lower for enoxaparin sodium compared to placebo for both total VTE (enoxaparin sodium 21 [16%] versus placebo 45 [34.4%]; p=0.001) and proximal DVT (enoxaparin sodium 8 [6.1%] versus placebo 28 [21.4%]; p=&lt;0.001). No difference in major bleeding was found between the enoxaparin sodium and the placebo group.
 
@@ -9293,7 +8402,7 @@ Table. 6-month outcomes in patients completing 6-month treatment, by different r
 
 |                                              |                            | Enoxaparin all regimens    | Enoxaparin all regimens    | Enoxaparin all regimens    | Enoxaparin all regimens   | Enoxaparin all regimens          |                            |
 |----------------------------------------------|----------------------------|----------------------------|----------------------------|----------------------------|---------------------------|----------------------------------|----------------------------|
-| Outcome N (%) (95% CI)                       | Enoxapa rin all regimens   | Enoxapa rinOD              | Enoxapa rin BID            | Enoxapa rin BID to OD      | Enoxapar inOD to BID      | Enoxapar in More than one switch | EU- authorized LMWHs       |
+| Outcome N (%) (95% CI)                       | Enoxapa rin all regimens   | Enoxapa rin OD             | Enoxapa rin BID            | Enoxapa rin BID to OD      | Enoxapar inOD to BID      | Enoxapar in More than one switch | EU- authorized LMWHs       |
 |                                              | N=1432                     | N=444                      | N=529                      | N=406                      | N=14                      | N=39                             | N=428                      |
 | Recurrence of VTE                            | 70 (4.9%) (3.8%- 6.0%)     | 33 (7.4%) (5.0%- 9.9%)     | 22 (4.2%) (2.5%- 5.9%)     | 10 (2.5%) (0.9%- 4.0%)     | 1 (7.1%) (0%- 22.6%)      | 4 (10.3%) (0.3%- 20.2%)          | 23 (5.4%) (3.2%- 7.5%)     |
 | Major bleeding (fatal and non-fatal)         | 111 (7.8%) (6.4%- 9.1%)    | 31 (7.0%) (4.6%- 9.4%)     | 52 (9.8%) (7.3%- 12.4%)    | 21 (5.2%) (3.0%- 7.3%)     | 1 (7.1%) (0%- 22.6%)      | 6 (15.4%) (3.5%- 27.2%)          | 18 (4.2%) (2.3%- 6.1%)     |
@@ -9310,7 +8419,7 @@ In a large multicentre study, 3,171 patients enrolled at the acute phase of unst
 
 ## Treatment of acute ST-segment elevation myocardial infarction
 
-In a large multicentre study, 20,479 patients with STEMI eligible to receive fibrinolytic therapy were randomised to receive either enoxaparin sodium in a single 3,000 IU (30 mg) intravenous bolus plus a 100 IU/kg (1 mg/kg) subcutaneous dose followed by an subcutaneous injection of 100 IU/kg (1 mg/kg) every 12 hours or intravenous unfractionated heparin adjusted based on aPTT for 48 hours. All patients were also treated with acetylsalicylic acid for a minimum of 30 days. The enoxaparin sodium dosing strategy was adjusted for severe renally impaired patients and for the elderly of at least 75 years of age. The subcutaneous injections of enoxaparin sodium were given until hospital discharge or for a maximum of eight days (whichever came first).
+In a large multicentre study, 20,479 patients with STEMI eligible to receive fibrinolytic therapy were randomised to receive either enoxaparin sodium in a single 3,000 IU (30 mg) intravenous bolus plus a 100 IU/kg (1 mg/kg) subcutaneously dose followed by an subcutaneous injection of 100 IU/kg (1 mg/kg) every 12 hours or intravenous unfractionated heparin adjusted based on aPTT for 48 hours. All patients were also treated with acetylsalicylic acid for a minimum of 30 days. The enoxaparin sodium dosing strategy was adjusted for severe renally impaired patients and for the elderly of at least 75 years of age. The subcutaneous injections of enoxaparin sodium were given until hospital discharge or for a maximum of eight days (whichever came first).
 
 4,716 patients underwent percutaneous coronary intervention receiving antithrombotic support with blinded investigational medicinal product. Therefore, for patients on enoxaparin sodium, the PCI was to be performed on enoxaparin sodium (no switch) using the regimen established in previous studies i.e. no additional dosing, if last subcutaneous administration given less than 8 hours before balloon inflation, intravenous bolus of 30 IU/ kg (0.3 mg/kg) enoxaparin sodium, if the last subcutaneous administration given more than 8 hours before balloon inflation.
 
@@ -9324,9 +8433,7 @@ There was a significant treatment benefit of enoxaparin sodium, as compared with
 
 The rate of the 30 day composite endpoint of death, myocardial re-infarction or intracranial haemorrhage (a measure of net clinical benefit) was significantly lower (p&lt;0.0001) in the enoxaparin sodium group (10.1%) as compared to the heparin group (12.2%), representing a 17% relative risk reduction in favour of treatment with enoxaparin sodium.
 
-The incidence of major bleeding at 30 days was significantly higher (p&lt;0.0001) in the enoxaparin sodium group (2.1%) versus the heparin group (1.4%). There was a higher incidence of gastrointestinal bleeding in the enoxaparin sodium group (0.5%) versus the heparin group (0.1%), while the incidence of intracranial haemorrhage was similar in both groups (0.8% with enoxaparin sodium versus 0.7% with heparin).
-
-The beneficial effect of enoxaparin sodium on the primary end point observed during the first 30 days was maintained over a 12 month follow-up period.
+The incidence of major bleeding at 30 days was significantly higher (p&lt;0.0001) in the enoxaparin sodium group (2.1%) versus the heparin group (1.4%). There was a higher incidence of gastrointestinal bleeding in the enoxaparin sodium group (0.5%) versus the heparin group (0.1%), while the incidence of intracranial haemorrhage was similar in both groups (0.8% with enoxaparin sodium versus 0.7% with heparin). The beneficial effect of enoxaparin sodium on the primary end point observed during the first 30 days was maintained over a 12 month follow-up period.
 
 ## Hepatic impairment
 
@@ -9344,7 +8451,7 @@ The pharmacokinetic parameters of enoxaparin sodium have been studied primarily 
 
 The absolute bioavailability of enoxaparin sodium after subcutaneous injection, based on anti-Xa activity, is close to 100%.
 
-## Different doses and formulations and dosing regimens can be used.
+Different doses and formulations and dosing regimens can be used.
 
 The mean maximum plasma anti-Xa activity level is observed 3 to 5 hours after subcutaneous injection and achieves approximately 0.2, 0.4, 1.0 and 1.3 anti-Xa IU/mL following single subcutaneous administration of 2,000 IU, 4,000 IU, 100 IU/kg and 150 IU/kg (20 mg, 40 mg, 1 mg/kg and 1.5 mg/kg) doses, respectively.
 
@@ -9398,7 +8505,7 @@ Enoxaparin sodium pharmacokinetics appeared similar than control population, aft
 
 After repeated subcutaneous 150 IU/kg (1.5 mg/kg) once daily dosing, mean AUC of anti-Xa activity is marginally higher at steady state in obese healthy volunteers (BMI 30-48 kg/m 2 ) compared to non-obese control subjects, while maximum plasma anti-Xa activity level is not increased. There is a lower weightadjusted clearance in obese subjects with subcutaneous dosing.
 
-When non-weight adjusted dosing was administered, it was found after a single-subcutaneous 4,000 IU (40 mg) dose, that anti-Xa exposure is 52% higher in low-weight women (&lt;45 kg) and 27% higher in lowweight men (&lt;57 kg) when compared to normal weight control subjects (see section 4.4).
+When non-weight adjusted dosing was administered, it was found after a single- subcutaneous 4,000 IU (40 mg) dose, that anti-Xa exposure is 52% higher in low-weight women (&lt;45 kg) and 27% higher in lowweight men (&lt;57 kg) when compared to normal weight control subjects (see section 4.4).
 
 ## Pharmacokinetic interactions
 
@@ -9418,7 +8525,9 @@ Studies conducted in pregnant rats and rabbits at subcutaneous doses of enoxapar
 
 ## 6.1 List of excipients
 
-Benzyl alcohol Water for injections
+Benzyl alcohol
+
+Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -9436,9 +8545,7 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## After first opening
 
-Chemical and physical in-use stability has been demonstrated for 28 days at 25 °C. From a microbiological point of view, once opened, the medicinal product may be stored for a maximum of
-
-28 days below 25 °C. Other in-use storage times and conditions are the responsibility of the user.
+Chemical and physical in-use stability has been demonstrated for 28 days at 25 °C. From a microbiological point of view, once opened, the medicinal product may be stored for a maximum of 28 days below 25 °C. Other in-use storage times and conditions are the responsibility of the user.
 
 After dilution with sodium chloride 9 mg/ml (0.9%) solution for injection or 5% glucose solution for injection.
 
@@ -9456,9 +8563,9 @@ For storage conditions after first opening and dilution of the medicinal product
 
 Nature and contents of container
 
-5 mL of solution in clear, colourless type I glass vial sealed with rubber injection stopper and grey aluminium-plastic cap in a cardboard box.
+3 mL of solution in clear, colourless type I glass vial sealed with rubber injection stopper and white aluminium-plastic cap in a cardboard box.
 
-Pack-sizes of 5 vials containing 5 mL.
+Pack-sizes of 1 vial containing 3 mL.
 
 6.6
 
@@ -9474,9 +8581,9 @@ MARKETING AUTHORISATION HOLDER
 
 Techdow Pharma Netherlands B.V.
 
-Strawinskylaan 1143, Toren C-11
+Zuidplein 28, Tower 1, Level 3 (Unit 5)
 
-1077XX Amsterdam
+1077 XV Amsterdam
 
 Netherlands
 
@@ -9484,7 +8591,7 @@ Netherlands
 
 MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/16/1132/072
+EU/1/16/1132/071
 
 9.
 
@@ -9502,17 +8609,17 @@ Detailed information on this medicinal product is available on the website of th
 
 Agency http://www.ema.europa.eu.
 
-255
+232
 
 <div style=\"page-break-after: always\"></div>
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Inhixa 100,000 IU (1000 mg)/10 mL solution for injection in multidose container
+Inhixa 50,000 IU (500 mg)/5 mL solution for injection in multidose container
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each vial contains enoxaparin sodium 100,000 IU anti-Xa activity (equivalent to 1000 mg) in 10.0 mL water for injections.
+Each vial contains enoxaparin sodium 50,000 IU anti-Xa activity (equivalent to 500 mg) in 5.0 mL water for injections.
 
 Each mL contains 10,000 IU (100 mg) enoxaparin sodium.
 
@@ -9520,7 +8627,7 @@ Enoxaparin sodium is a biological substance obtained by alkaline depolymerisatio
 
 ## Excipient(s) with known effect
 
-Benzyl alcohol (150 mg in 10.0 mL)
+Benzyl alcohol (75 mg in 5.0 mL)
 
 For the full list of excipients, see section 6.1.
 
@@ -9569,7 +8676,11 @@ In moderate risk patients, enoxaparin sodium treatment should be maintained for 
 
 ## Prophylaxis of venous thromboembolism in medical patients
 
-The recommended dose of enoxaparin sodium is 4,000 IU (40 mg) once daily by subcutaneous injection. Treatment with enoxaparin sodium is prescribed for at least 6 to 14 days whatever the recovery status (e.g. mobility). The benefit is not established for a treatment longer than 14 days.
+The recommended dose of enoxaparin sodium is 4,000 IU (40 mg) once daily by subcutaneous injection.
+
+Treatment with enoxaparin sodium is prescribed for at least 6 to 14 days whatever the recovery status
+
+(e.g. mobility). The benefit is not established for a treatment longer than 14 days.
 
 ## Treatment of DVT and PE
 
@@ -9598,9 +8709,8 @@ No data are available in patients using enoxaparin sodium for prophylaxis or tre
 ## Acute coronary syndrome: treatment of unstable angina and NSTEMI and treatment of acute STEMI
 
 - For treatment of unstable angina and NSTEMI, the recommended dose of enoxaparin sodium is 100 IU/kg (1 mg/kg) every 12 hours by subcutaneous injection administered in combination with antiplatelet therapy. Treatment should be maintained for a minimum of 2 days and continued until clinical stabilization. The usual duration of treatment is 2 to 8 days.
-- Acetylsalicylic acid is recommended for all patients without contraindications at an initial oral loading dose of 150-300 mg (in acetylsalicylic acid-naive patients) and a maintenance dose of 75-325 mg/day long-term regardless of treatment strategy.
-- For treatment of acute STEMI, the recommended dose of enoxaparin sodium is a single intravenous bolus of 3,000 IU (30 mg) plus a 100 IU/kg (1 mg/kg) subcutaneous dose followed by 100 IU/kg (1 mg/kg) administered subcutaneously every 12 hours (maximum 10,000 IU (100 mg) for each of the first two subcutaneous doses). Appropriate antiplatelet therapy such as oral acetylsalicylic acid (75 mg
-- to 325 mg once daily) should be administered concomitantly unless contraindicated. The recommended duration of treatment is 8 days or until hospital discharge, whichever comes first. When administered in conjunction with a thrombolytic (fibrin specific or non-fibrin specific), enoxaparin sodium should be given between 15 minutes before and 30 minutes after the start of fibrinolytic therapy.
+- Acetylsalicylic acid is recommended for all patients without contraindications at an initial oral loading dose of 150 -300 mg (in acetylsalicylic acid-naive patients) and a maintenance dose of 75-325 mg/day long-term regardless of treatment strategy.
+- For treatment of acute STEMI, the recommended dose of enoxaparin sodium is a single intravenous bolus of 3,000 IU (30 mg) plus a 100 IU/kg (1 mg/kg) subcutaneous dose followed by 100 IU/kg (1 mg/kg) administered subcutaneously every 12 hours (maximum 10,000 IU (100 mg) for each of the first two subcutaneous doses). Appropriate antiplatelet therapy such as oral acetylsalicylic acid (75 mg to 325 mg once daily) should be administered concomitantly unless contraindicated. The recommended duration of treatment is 8 days or until hospital discharge, whichever comes first. When administered in conjunction with a thrombolytic (fibrin specific or non-fibrin specific), enoxaparin sodium should be given between 15 minutes before and 30 minutes after the start of fibrinolytic therapy.
 - o For dose in patients ≥ 75 years of age, see paragraph 'Elderly'.
 - o For patients managed with PCI, if the last subcutaneous dose of enoxaparin sodium was given less than 8 hours before balloon inflation, no additional dosing is needed. If the last subcutaneous administration was given more than 8 hours before balloon inflation, an intravenous bolus of 30 IU/kg (0.3 mg/kg) enoxaparin sodium should be administered.
 
@@ -9662,7 +8772,7 @@ The use of a tuberculin syringe or equivalent is recommended when using multidos
 
 Injection should be made preferably when the patient is lying down. Enoxaparin sodium is administered by deep SC injection.
 
-When using pre-filled syringes, the air bubble should not be expelled from the syringe before the injection in order to avoid the loss of the medicinal product. When the quantity of the medicinal product to be injected requires to be adjusted based on the patient's body weight, the graduated pre-filled syringes should be used to reach the required volume by discarding the excess before injection. In some cases it is not possible to achieve an exact dose due to the graduations on the syringe, and in such case the volume shall be rounded up to the nearest graduation.
+When using pre-filled syringes, the air bubble should not be expelled from the syringe before the injection in order to avoid the loss of the medicinal product. When the quantity of the medicinal product to be injected requires to be adjusted based on the patient's body weight, the graduated pre -filled syringes should be used to reach the required volume by discarding the excess before injection. In some cases it is not possible to achieve an exact dose due to the graduations on the syringe, and in such case the volume shall be rounded up to the nearest graduation.
 
 The administration should be alternated between the left and right anterolateral or posterolateral abdominal wall.
 
@@ -9714,17 +8824,17 @@ Volume to be injected through intravenous line after dilution is completed at a 
 
 <div style=\"page-break-after: always\"></div>
 
-|   105 | 3,150   |   31.5 |   10.5 |
+|   105 |   3,150 |   31.5 |   10.5 |
 |-------|---------|--------|--------|
-|   110 | 3,300   |   33   |   11   |
-|   115 | 3,450   |   34.5 |   11.5 |
-|   120 | 3,600   |   36   |   12   |
-|   125 | 3,750   |   37.5 |   12.5 |
-|   130 | 3,900   |   39   |   13   |
-|   135 | 4,050   |   40.5 |   13.5 |
-|   140 | 4,200   |   42   |   14   |
-|   145 | 4,350   |   43.5 |   14.5 |
-|   150 | 4,500   |   45   |   15   |
+|   110 |   3,300 |   33   |   11   |
+|   115 |   3,450 |   34.5 |   11.5 |
+|   120 |   3,600 |   36   |   12   |
+|   125 |   3,750 |   37.5 |   12.5 |
+|   130 |   3,900 |   39   |   13   |
+|   135 |   4,050 |   40.5 |   13.5 |
+|   140 |   4,200 |   42   |   14   |
+|   145 |   4,350 |   43.5 |   14.5 |
+|   150 |   4,500 |   45   |   15   |
 
 ## Arterial line injection
 
@@ -9750,14 +8860,17 @@ For patients currently receiving a DOAC, the first dose of enoxaparin sodium sho
 
 Should the physician decide to administer anticoagulation in the context of epidural or spinal anaesthesia/analgesia or lumbar puncture, careful neurological monitoring is recommended due to the risk of neuraxial haematomas (see section 4.4).
 
-- -At doses used for prophylaxis
-- A puncture-free interval of at least 12 hours shall be kept between the last injection of enoxaparin sodium at prophylactic doses and the needle or catheter placement.
-- For continuous techniques, a similar delay of at least 12 hours should be observed before removing the catheter.
+- At doses used for prophylaxis
+
+A puncture-free interval of at least 12 hours shall be kept between the last injection of enoxaparin sodium at prophylactic doses and the needle or catheter placement.
+
+For continuous techniques, a similar delay of at least 12 hours should be observed before removing the catheter.
 
 For patients with creatinine clearance [15-30] mL/min, consider doubling the timing of puncture/catheter placement or removal to at least 24 hours.
 
-- The 2 hours preoperative initiation of enoxaparin sodium 2,000 IU (20 mg) is not compatible with neuraxial anaesthesia.
-- -At doses used for treatment
+The 2 hours preoperative initiation of enoxaparin sodium 2,000 IU (20 mg) is not compatible with neuraxial anaesthesia.
+
+- At doses used for treatment
 
 A puncture-free interval of at least 24 hours shall be kept between the last injection of enoxaparin sodium at curative doses and the needle or catheter placement (see also section 4.3).
 
@@ -9806,9 +8919,7 @@ In patients with cancer with a platelet count below 80 G/L, anticoagulation trea
 
 <div style=\"page-break-after: always\"></div>
 
-The risk of antibody-mediated HIT also exists with LMWHs. Should thrombocytopenia occur, it usually appears between the 5 th and the 21 st day following the beginning of enoxaparin sodium treatment.
-
-The risk of HIT is higher in postoperative patients and mainly after cardiac surgery and in patients with cancer.
+The risk of antibody-mediated HIT also exists with LMWHs. Should thrombocytopenia occur, it usually appears between the 5 th and the 21 st day following the beginning of enoxaparin sodium treatment. The risk of HIT is higher in postoperative patients and mainly after cardiac surgery and in patients with cancer.
 
 Therefore, it is recommended that the platelet counts be measured before the initiation of therapy with enoxaparin sodium and then regularly thereafter during the treatment.
 
@@ -9901,15 +9012,15 @@ Heparins can suppress adrenal secretion of aldosterone leading to hyperkalaemia 
 
 ## Benzyl alcohol
 
-## Benzyl alcohol may cause allergic reactions.
+Benzyl alcohol may cause allergic reactions.
 
-Intravenous administration of benzyl alcohol has been associated with serious adverse events and death in neonates ('Gasping Syndrome') (see section 4.3). The minimum amount of benzyl alcohol at which toxicity may occur is not known. Benzyl alcohol may also cause toxic reactions in infants and children up to 3 years old, due to increased risk of accumulation.
+Intravenous administration of benzyl alcohol has been associated with serious adverse events and death in neonates ( 'Gasping Syndrome') (see section 4.3). The minimum amount of benzyl alcohol at which toxicity may occur is not known. Benzyl alcohol may also cause toxic reactions in infants and children up to 3 years old, due to increased risk of accumulation.
 
 High volumes of medicinal products containing benzyl alcohol should be used with caution and only if necessary in patients with liver or kidney impairment, or in pregnant women, because of the risk of accumulation of benzyl alcohol and its toxicity (metabolic acidosis).
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose within the recommended dose range, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose within the recommended dose range, that is to say essentially 'sodium -free'.
 
 ## Acute generalized exanthematous pustulosis
 
@@ -10046,7 +9157,7 @@ Rare: Hyperkalaemia* (see sections 4.4 and 4.5).
 
 ## Haemorrhages
 
-These included major haemorrhages, reported at most in 4.2 % of the patients (surgical patients). Some of these cases have been fatal. In surgical patients, haemorrhage complications were considered major: (1) if the haemorrhage caused a significant clinical event, or (2) if accompanied by haemoglobin decrease ≥ 2 g/dL or transfusion of 2 or more units of blood products. Retroperitoneal and intracranial haemorrhages were always considered major.
+These included major haemorrhages, reported at most in 4.2 % of the patients (surgical patients). Some of these cases have been fatal. In surgical patients, haemorrhage complications were considered major: (1) if the haemorrhage caused a significant clinic al event, or (2) if accompanied by haemoglobin decrease ≥ 2 g/dL or transfusion of 2 or more units of blood products. Retroperitoneal and intracranial haemorrhages were always considered major.
 
 As with other anticoagulants, haemorrhage may occur in the presence of associated risk factors such as: organic lesions liable to bleed, invasive procedures or the concomitant use of medicinal products affecting haemostasis (see sections 4.4 and 4.5).
 
@@ -10055,10 +9166,6 @@ As with other anticoagulants, haemorrhage may occur in the presence of associate
 | System organ class                     | Prophylaxis in surgical patients                               | Prophylaxis in medical patients   | Treatment in patients with DVT with or without PE                                           | Extended treatment of DVT and PE in patients with active cancer   | Treatment in patients with unstable angina and non-Q-wave MI   | Treatment in patients with acute STEMI                                                 |
 |----------------------------------------|----------------------------------------------------------------|-----------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | Blood and lymphati c system disorder s | Very common : Haemorrhage α Rare: Retroperitone al haemorrhage | Common: Haemorrhag e α            | Very common: Haemorrhage α Uncommon: Intracranial haemorrhage, Retroperitone al haemorrhage | Common b : Haemorrhag e                                           | Common: Haemorrhage α Rare: Retroperitone al haemorrhage       | Common: Haemorrhage α Uncommon: Intracranial haemorrhage, Retroperitone al haemorrhage |
-
-α : such as haematoma, ecchymosis other than at injection site, wound haematoma, haematuria, epistaxis and gastro-intestinal haemorrhage.
-
-b : frequency based on a retrospective study on a registry including 3526 patients (see section 5.1)
 
 Thrombocytopenia and thrombocytosis (see section 4.4 monitoring of platelet counts)
 
@@ -10133,9 +9240,918 @@ The efficacy data are provided in the table below.
 | Total DVT (%)                             | 6 (6.6)*                                                             | 18 (20.2)                                 |
 | Proximal DVT (%)                          | 5 (5.6) #                                                            | 7 (8.8)                                   |
 
-*p value versus placebo =0.008
+In a second double-blind study, 262 patients without VTE disease and undergoing hip replacement surgery initially treated, while hospitalised, with enoxaparin sodium 4,000 IU (40 mg) subcutaneously were randomised to a post-discharge regimen of either enoxaparin sodium 4,000 IU (40 mg) (n=131) once a day subcutaneously or to placebo (n=131) for 3 weeks. Similar to the first study the incidence of VTE during extended prophylaxis was significantly lower for enoxaparin sodium compared to placebo for both total VTE (enoxaparin sodium 21 [16%] versus placebo 45 [34.4%]; p=0.001) and proximal DVT (enoxaparin sodium 8 [6.1%] versus placebo 28 [21.4%]; p=&lt;0.001). No difference in major bleeding was found between the enoxaparin sodium and the placebo group.
 
-#p value versus placebo =0.537
+## Extended prophylaxis of DVT following cancer surgery
+
+A double-blind, multicentre trial, compared a four-week and a one-week regimen of enoxaparin sodium prophylaxis in terms of safety and efficacy in 332 patients undergoing elective surgery for abdominal or pelvic cancer. Patients received enoxaparin sodium (4,000 IU (40 mg) subcutaneously) daily for 6 to 10 days and were then randomly assigned to receive either enoxaparin sodium or placebo for another 21 days. Bilateral venography was performed between days 25 and 31, or sooner if symptoms of venous thromboembolism occurred. The patients were followed for three months. Enoxaparin sodium prophylaxis for four weeks after surgery for abdominal or pelvic cancer significantly reduced the incidence of venographically demonstrated thrombosis, as compared with enoxaparin sodium prophylaxis for one week. The rates of venous thromboembolism at the end of the double-blind phase were 12.0 % (n=20) in the placebo group and 4.8% (n=8) in the enoxaparin sodium group; p=0.02. This difference persisted at three months [13.8% vs. 5.5% (n=23 vs 9), p=0.01]. There were no differences in the rates of bleeding or other complications during the double-blind or follow-up periods.
+
+## Prophylaxis of venous thromboembolic disease in medical patients with an acute illness expected to induce limitation of mobility
+
+In a double blind multicentre, parallel group study, enoxaparin sodium 2,000 IU (20 mg) or 4,000 IU (40 mg) once a day subcutaneously was compared to placebo in the prophylaxis of DVT in medical patients with severely restricted mobility during acute illness (defined as walking distance of &lt;10 meters for ≤3 days). This study included patients with heart failure (NYHA Class III or IV); acute respiratory failure or complicated chronic respiratory insufficiency, and acute infection or acute rheumatic; if associated with at least one VTE risk factor (age ≥75 years, cancer, previous VTE, obesity, varicose veins, hormone therapy, and chronic heart or respiratory failure).
+
+A total of 1,102 patients were enrolled in the study, and 1,073 patients were treated. Treatment continued for 6 to 14 days (median duration 7 days). When given at a dose of 4,000 IU (40 mg) once a day subcutaneously, enoxaparin sodium significantly reduced the incidence of VTE as compared to placebo. The efficacy data are provided in the table below.
+
+| Enoxaparin sodium 2,000 IU (20 mg)   | Enoxaparin sodium 4,000 IU (40 mg)   | Placebo n (%)   |
+|--------------------------------------|--------------------------------------|-----------------|
+
+<div style=\"page-break-after: always\"></div>
+
+|                                                   | once a day subcutaneously n (%)   | once a day subcutaneously n (%)   |           |
+|---------------------------------------------------|-----------------------------------|-----------------------------------|-----------|
+| All treated medical patients during acute illness | 287 (100)                         | 291(100)                          | 288 (100) |
+| Total VTE (%)                                     | 43 (15.0)                         | 16 (5.5)*                         | 43 (14.9) |
+| Total DVT (%)                                     | 43 (15.0)                         | 16 (5.5)                          | 40 (13.9) |
+| Proximal DVT (%)                                  | 13 (4.5)                          | 5 (1.7)                           | 14 (4.9)  |
+
+VTE = Venous thromboembolic events which included DVT, PE, and death considered to be thromboembolic in origin * p value versus placebo = 0.0002
+
+At approximately 3 months following enrolment, the incidence of VTE remained significantly lower in the enoxaparin sodium 4,000 IU (40 mg) treatment group versus the placebo treatment group.
+
+The occurrence of total and major bleeding were respectively 8.6% and 1.1% in the placebo group, 11.7% and 0.3% in the enoxaparin sodium 2,000 IU (20 mg) group and 12.6% and 1.7% in the enoxaparin sodium 4,000 IU (40 mg) group.
+
+## Treatment of DVT with or without PE
+
+In a multicentre, parallel group study, 900 patients with acute lower extremity DVT with or without PE were randomised to an inpatient (hospital) treatment of either (i) enoxaparin sodium 150 IU/kg (1.5 mg/kg) once a day subcutaneously, (ii) enoxaparin sodium 100 IU/kg (1 mg/kg) every 12 hours subcutaneously, or (iii) heparin intravenous bolus (5,000 IU) followed by a continuous infusion (administered to achieve an aPTT of 55 to 85 seconds). A total of 900 patients were randomised in the study and all patients were treated. All patients also received warfarin sodium (dose adjusted according to prothrombin time to achieve an INR of 2.0 to 3.0), commencing within 72 hours of initiation of enoxaparin sodium or standard heparin therapy, and continuing for 90 days. Enoxaparin sodium or standard heparin therapy was administered for a minimum of 5 days and until the targeted warfarin sodium INR was achieved. Both enoxaparin sodium regimens were equivalent to standard heparin therapy in reducing the risk of recurrent venous thromboembolism (DVT and/or PE). The efficacy data are provided in the table below.
+
+|                                             | Enoxaparin sodium 150 IU/kg (1.5 mg/kg) once a day subcutaneously n (%)   | Enoxaparin sodium 100 IU/kg (1 mg/kg) twice a day subcutaneously n (%)   | Heparin aPTT Adjusted Intravenous Therapy n (%)   |
+|---------------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------------|
+| All treated DVT patients with or without PE | 298 (100)                                                                 | 312 (100)                                                                | 290 (100)                                         |
+| Total VTE (%)                               | 13 (4.4)*                                                                 | 9 (2.9)*                                                                 | 12 (4.1)                                          |
+| DVT only (%)                                | 11 (3.7)                                                                  | 7 (2.2)                                                                  | 8 (2.8)                                           |
+| Proximal DVT (%)                            | 9 (3.0)                                                                   | 6 (1.9)                                                                  | 7 (2.4)                                           |
+| PE (%)                                      | 2 (0.7)                                                                   | 2 (0.6)                                                                  | 4 (1.4)                                           |
+
+VTE = venous thromboembolic event (DVT and/or PE)
+
+* The 95% confidence intervals for the treatment differences for total VTE were:
+
+- -enoxaparin sodium once a day versus heparin (-3.0 to 3.5)
+- -enoxaparin sodium every 12 hours versus heparin (-4.2 to 1.7).
+
+Major bleeding were respectively 1.7% in the enoxaparin sodium 150 IU/kg (1.5 mg/kg) once a day group, 1.3% in the enoxaparin sodium 100 IU/kg (1 mg/kg) twice a day group and 2.1% in the heparin group.
+
+## Extended treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) and prevention of its recurrence in patients with active cancer
+
+In clinical trials with limited number of patients, reported rates of recurrent VTE in patients treated with enoxaparin given once or twice daily for 3 to 6 months appear comparable to those with warfarin.
+
+Effectiveness in real-life setting was assessed in a cohort of 4,451 patients with symptomatic VTE and active cancer from the multinational registry RIETE of patients with VTE and other thrombotic conditions. 3,526
+
+<div style=\"page-break-after: always\"></div>
+
+patients received SC enoxaparin up to 6 months and 925 patients received tinzaparin or dalteparin SC. Among the 3,526 patients receiving enoxaparin treatment, 891 patients were treated with 1.5 mg/kg once daily as initial therapy and extended treatment up to 6 months (once daily alone), 1,854 patients received initial 1.0 mg/kg twice daily regimen and extended treatment up to 6 months (twice daily alone), and 687 patients received 1.0 mg/kg twice daily as initial treatment followed by 1.5 mg/kg once daily (twice dailyonce daily) as the extended treatment up to 6 months. The mean and median duration of treatment until regimen change was 17 days and 8 days, respectively. There was no significant difference for VTE recurrence rate between the two treatments groups (see table), with enoxaparin meeting the prespecified criterion for non inferiority of 1.5 (HR adjusted by relevant covariates 0.817, 95% CI: 0.499-1.336). There was no statistically significant difference between the two treatment groups with regards to the relative risks of major (fatal or non-fatal) bleeding and all-cause death (see table).
+
+Table. Efficacy and safety outcomes in the RIETECAT study
+
+| Outcome            | Enoxaparin n=3526   | OtherLMWH n=925   | Adjusted hazard ratios enoxaparin / otherLMWH [95% confidence interval]   |
+|--------------------|---------------------|-------------------|---------------------------------------------------------------------------|
+| VTE recurrence     | 70 (2.0%)           | 23 (2.5%)         | 0.817, [ 0.499-1.336]                                                     |
+| Major bleeding     | 111 (3.1%)          | 18 (1.9%)         | 1.522, [ 0.899-2.577]                                                     |
+| Non-major bleeding | 87 (2.5%)           | 24 (2.6%)         | 0.881, [0.550-1.410]                                                      |
+| Overall death      | 666 (18.9%)         | 157 (17.0%)       | 0.974, [ 0.813-1.165]                                                     |
+
+An overview of outcomes per treatment regimen used in the RIETECAT study among 6-month completers is provided below:
+
+Table. 6-month outcomes in patients completing 6-month treatment, by different regimens
+
+|                                              |                            | Enoxaparin all regimens    | Enoxaparin all regimens    | Enoxaparin all regimens    | Enoxaparin all regimens   | Enoxaparin all regimens          |                            |
+|----------------------------------------------|----------------------------|----------------------------|----------------------------|----------------------------|---------------------------|----------------------------------|----------------------------|
+| Outcome N (%) (95% CI)                       | Enoxapa rin all regimens   | Enoxapa rin OD             | Enoxapa rin BID            | Enoxapa rin BID to OD      | Enoxapar inOD to BID      | Enoxapar in More than one switch | EU- authorized LMWHs       |
+|                                              | N=1432                     | N=444                      | N=529                      | N=406                      | N=14                      | N=39                             | N=428                      |
+| Recurrence of VTE                            | 70 (4.9%) (3.8%- 6.0%)     | 33 (7.4%) (5.0%- 9.9%)     | 22 (4.2%) (2.5%- 5.9%)     | 10 (2.5%) (0.9%- 4.0%)     | 1 (7.1%) (0%- 22.6%)      | 4 (10.3%) (0.3%- 20.2%)          | 23 (5.4%) (3.2%- 7.5%)     |
+| Major bleeding (fatal and non-fatal)         | 111 (7.8%) (6.4%- 9.1%)    | 31 (7.0%) (4.6%- 9.4%)     | 52 (9.8%) (7.3%- 12.4%)    | 21 (5.2%) (3.0%- 7.3%)     | 1 (7.1%) (0%- 22.6%)      | 6 (15.4%) (3.5%- 27.2%)          | 18 (4.2%) (2.3%- 6.1%)     |
+| Non-major bleedings of clinical significance | 87 (6.1%) (4.8%- 7.3%)     | 26 (5.9%) (3.7%- 8.0%)     | 33 (6.2%) (4.2%- 8.3%)     | 23 (5.7%) (3.4%- 7.9%)     | 1 (7.1%) (0%- 22.6%)      | 4 (10.3%) (0.3%- 20.2%)          | 24 (5.6%) (3.4%- 7.8%)     |
+| All-cause death                              | 666 (46.5%) (43.9%- 49.1%) | 175 (39.4%) (34.9%- 44.0%) | 323 (61.1%) (56.9%- 65.2%) | 146 (36.0%) (31.3%- 40.6%) | 6 (42.9%) (13.2%- 72.5%)  | 16 (41.0%) (24.9%- 57.2%)        | 157 (36.7%) (32.1%- 41.3%) |
+| Fatal PE or fatal bleeding related death     | 48 (3.4%) (2.4%- 4.3%)     | 7 (1.6%) (0.4%- 2.7%)      | 35 (6.6%) (4.5%- 8.7%)     | 5 (1.2%) (0.2%- 2.3%)      | 0 (0%) -                  | 1 (2.6%) (0%- 7.8%)              | 11 2.6%) (1.1%- 4.1%)      |
+| *All data with 95% CI                        | *All data with 95% CI      | *All data with 95% CI      | *All data with 95% CI      | *All data with 95% CI      | *All data with 95% CI     | *All data with 95% CI            | *All data with 95% CI      |
+
+<div style=\"page-break-after: always\"></div>
+
+## Treatment of unstable angina and non ST elevation myocardial infarction
+
+In a large multicentre study, 3,171 patients enrolled at the acute phase of unstable angina or non-Q-wave myocardial infarction were randomised to receive in association with acetylsalicylic acid (100 to 325 mg once daily), either subcutaneous enoxaparin sodium 100 IU/kg (1 mg/kg) every 12 hours or intravenous unfractionated heparin adjusted based on aPTT. Patients had to be treated in hospital for a minimum of 2 days and a maximum of 8 days, until clinical stabilization, revascularization procedures or hospital discharge. The patients had to be followed up to 30 days. In comparison with heparin, enoxaparin sodium significantly reduced the combined incidence of angina pectoris, myocardial infarction and death, with a decrease of 19.8 to 16.6% (relative risk reduction of 16.2%) on day 14. This reduction in the combined incidence was maintained after 30 days (from 23.3 to 19.8%; relative risk reduction of 15%). There were no significant differences in major haemorrhages, although a haemorrhage at the site of the subcutaneous injection was more frequent.
+
+## Treatment of acute ST-segment elevation myocardial infarction
+
+In a large multicentre study, 20,479 patients with STEMI eligible to receive fibrinolytic therapy were randomised to receive either enoxaparin sodium in a single 3,000 IU (30 mg) intravenous bolus plus a 100 IU/kg (1 mg/kg) subcutaneous dose followed by an subcutaneous injection of 100 IU/kg (1 mg/kg) every 12 hours or intravenous unfractionated heparin adjusted based on aPTT for 48 hours. All patients were also treated with acetylsalicylic acid for a minimum of 30 days. The enoxaparin sodium dosing strategy was adjusted for severe renally impaired patients and for the elderly of at least 75 years of age. The subcutaneous injections of enoxaparin sodium were given until hospital discharge or for a maximum of eight days (whichever came first).
+
+4,716 patients underwent percutaneous coronary intervention receiving antithrombotic support with blinded investigational medicinal product. Therefore, for patients on enoxaparin sodium, the PCI was to be performed on enoxaparin sodium (no switch) using the regimen established in previous studies i.e. no additional dosing, if last subcutaneous administration given less than 8 hours before balloon inflation, intravenous bolus of 30 IU/ kg (0.3 mg/kg) enoxaparin sodium, if the last subcutaneous administration given more than 8 hours before balloon inflation.
+
+Enoxaparin sodium compared to unfractionated heparin significantly decreased the incidence of the primary end point, a composite of death from any cause or myocardial re-infarction in the first 30 days after randomization [9.9 percent in the enoxaparin sodium group, as compared with 12.0 percent in the unfractionated heparin group] with a 17 percent relative risk reduction (p&lt;0.001).
+
+The treatment benefits of enoxaparin sodium, evident for a number of efficacy outcomes, emerged at 48 hours, at which time there was a 35 percent reduction in the relative risk of myocardial re-infarction, as compared with treatment with unfractionated heparin (p&lt;0.001).
+
+The beneficial effect of enoxaparin sodium on the primary end point was consistent across key subgroups including age, gender, infarct location, history of diabetes, history of prior myocardial infarction, type of fibrinolytic administered, and time to treatment with the investigational medicinal product.
+
+There was a significant treatment benefit of enoxaparin sodium, as compared with unfractionated heparin, in patients who underwent percutaneous coronary intervention within 30 days after randomization (23 percent reduction in relative risk) or who were treated medically (15 percent reduction in relative risk, p=0.27 for interaction).
+
+The rate of the 30 day composite endpoint of death, myocardial re-infarction or intracranial haemorrhage (a measure of net clinical benefit) was significantly lower (p&lt;0.0001) in the enoxaparin sodium group (10.1%) as compared to the heparin group (12.2%), representing a 17% relative risk reduction in favour of treatment with enoxaparin sodium.
+
+The incidence of major bleeding at 30 days was significantly higher (p&lt;0.0001) in the enoxaparin sodium group (2.1%) versus the heparin group (1.4%). There was a higher incidence of gastrointestinal bleeding in the enoxaparin sodium group (0.5%) versus the heparin group (0.1%), while the incidence of intracranial haemorrhage was similar in both groups (0.8% with enoxaparin sodium versus 0.7% with heparin). The beneficial effect of enoxaparin sodium on the primary end point observed during the first 30 days was maintained over a 12 month follow-up period.
+
+## Hepatic impairment
+
+<div style=\"page-break-after: always\"></div>
+
+Based on literature data the use of enoxaparin sodium 4,000 IU (40 mg) in cirrhotic patients (Child-Pugh class B-C) appears to be safe and effective in preventing portal vein thrombosis. It should be noted that the literature studies may have limitations. Caution should be used in patients with hepatic impairment as these patients have an increased potential for bleeding (see section 4.4) and no formal dose finding studies have been performed in cirrhotic patients (Child Pugh class A, B nor C).
+
+## 5.2 Pharmacokinetic properties
+
+## General characteristics
+
+The pharmacokinetic parameters of enoxaparin sodium have been studied primarily in terms of the time course of plasma anti-Xa activity and also by anti-IIa activity, at the recommended dose ranges after single and repeated subcutaneous administration and after single intravenous administration. The quantitative determination of anti-Xa and anti-IIa pharmacokinetic activities was conducted by validated amidolytic methods.
+
+## Absorption
+
+The absolute bioavailability of enoxaparin sodium after subcutaneous injection, based on anti-Xa activity, is close to 100%.
+
+Different doses and formulations and dosing regimens can be used.
+
+The mean maximum plasma anti-Xa activity level is observed 3 to 5 hours after subcutaneous injection and achieves approximately 0.2, 0.4, 1.0 and 1.3 anti-Xa IU/mL following single subcutaneous administration of 2,000 IU, 4,000 IU, 100 IU/kg and 150 IU/kg (20 mg, 40 mg, 1 mg/kg and 1.5 mg/kg) doses, respectively.
+
+A 3,000 IU (30 mg) intravenous bolus immediately followed by a 100 IU/kg (1 mg/kg) subcutaneous every 12 hours provided initial maximum anti-Xa activity level of 1.16 IU/mL (n=16) and average exposure corresponding to 88% of steady-state levels. Steady-state is achieved on the second day of treatment.
+
+After repeated subcutaneous administration of 4,000 IU (40 mg) once daily and 150 IU/kg (1.5 mg/kg) once daily regimens in healthy volunteers, the steady-state is reached on day 2 with an average exposure ratio about 15% higher than after a single dose. After repeated subcutaneous administration of the 100 IU/kg (1 mg/kg) twice daily regimen, the steady-state is reached from day 3 to 4 with mean exposure about 65% higher than after a single dose and mean maximum and trough anti-Xa activity levels of about 1.2 and 0.52 IU/mL, respectively.
+
+Injection volume and dose concentration over the range 100-200 mg/mL does not affect pharmacokinetic parameters in healthy volunteers.
+
+Enoxaparin sodium pharmacokinetics appears to be linear over the recommended dose ranges. Intra-patient and inter-patient variability is low. Following repeated subcutaneous administration no accumulation takes place.
+
+Plasma anti-IIa activity after subcutaneous administration is approximately ten-fold lower than anti-Xa activity. The mean maximum anti-IIa activity level is observed approximately 3 to 4 hours following subcutaneous injection and reaches 0.13 IU/mL and 0.19 IU/mL following repeated administration of 100 IU/kg (1 mg/kg) twice daily and 150 IU/kg (1.5 mg/kg) once daily, respectively.
+
+## Distribution
+
+The volume of distribution of enoxaparin sodium anti-Xa activity is about 4.3 litres and is close to the blood volume.
+
+## Biotransformation
+
+<div style=\"page-break-after: always\"></div>
+
+Enoxaparin sodium is primarily metabolised in the liver by desulfation and/or depolymerisation to lower molecular weight species with much reduced biological potency.
+
+## Elimination
+
+Enoxaparin sodium is a low clearance substance with a mean anti-Xa plasma clearance of 0.74 L/h after a 150 IU /kg (1.5 mg/kg) 6-hour intravenous infusion.
+
+Elimination appears monophasic with a half-life of about 5 hours after a single subcutaneous dose to about 7 hours after repeated dosing.
+
+Renal clearance of active fragments represents about 10% of the administered dose and total renal excretion of active and non-active fragments 40% of the dose.
+
+## Special populations
+
+## Elderly
+
+Based on the results of a population pharmacokinetic analysis, the enoxaparin sodium kinetic profile is not different in elderly subjects compared to younger subjects when renal function is normal. However, since renal function is known to decline with age, elderly patients may show reduced elimination of enoxaparin sodium (see sections 4.2 and 4.4).
+
+## Hepatic impairment
+
+In a study conducted in patients with advanced cirrhosis treated with enoxaparin sodium 4,000 IU (40 mg) once daily, a decrease in maximum anti-Xa activity was associated with an increase in the severity of hepatic impairment (assessed by Child-Pugh categories). This decrease was mainly attributed to a decrease in ATIII level secondary to a reduced synthesis of ATIII in patients with hepatic impairment.
+
+## Renal impairment
+
+A linear relationship between anti-Xa plasma clearance and creatinine clearance at steady-state has been observed, which indicates decreased clearance of enoxaparin sodium in patients with reduced renal function. Anti-Xa exposure represented by AUC, at steady-state, is marginally increased in mild (creatinine clearance 50-80 mL/min) and moderate (creatinine clearance 30-50 mL/min) renal impairment after repeated subcutaneous 4,000 IU (40 mg) once daily doses. In patients with severe renal impairment (creatinine clearance &lt;30 mL/min), the AUC at steady state is significantly increased on average by 65% after repeated subcutaneous 4,000 IU (40 mg) once daily doses (see sections 4.2 and 4.4).
+
+## Haemodialysis
+
+Enoxaparin sodium pharmacokinetics appeared similar than control population, after a single 25 IU, 50 IU or 100 IU/kg (0.25, 0.50 or 1.0 mg/kg) intravenous dose however, AUC was two-fold higher than control.
+
+## Weight
+
+After repeated subcutaneous 150 IU/kg (1.5 mg/kg) once daily dosing, mean AUC of anti-Xa activity is marginally higher at steady state in obese healthy volunteers (BMI 30-48 kg/m 2 ) compared to non-obese control subjects, while maximum plasma anti-Xa activity level is not increased. There is a lower weightadjusted clearance in obese subjects with subcutaneous dosing.
+
+When non-weight adjusted dosing was administered, it was found after a single-subcutaneous 4,000 IU (40 mg) dose, that anti-Xa exposure is 52% higher in low-weight women (&lt;45 kg) and 27% higher in lowweight men (&lt;57 kg) when compared to normal weight control subjects (see section 4.4).
+
+## Pharmacokinetic interactions
+
+No pharmacokinetic interactions were observed between enoxaparin sodium and thrombolytics when administered concomitantly.
+
+<div style=\"page-break-after: always\"></div>
+
+## 5.3 Preclinical safety data
+
+Besides the anticoagulant effects of enoxaparin sodium, there was no evidence of adverse reactions at 15 mg/kg/day in the 13-week subcutaneous toxicity studies both in rats and dogs and at 10 mg/kg/day in the 26-week subcutaneous and intravenous toxicity studies both in rats, and monkeys.
+
+Enoxaparin sodium has shown no mutagenic activity based on in vitro tests, including the Ames test, mouse lymphoma cell forward mutation test, and no clastogenic activity based on an in vitro human lymphocyte chromosomal aberration test, and the in vivo rat bone marrow chromosomal aberration test.
+
+Studies conducted in pregnant rats and rabbits at subcutaneous doses of enoxaparin sodium up to 30 mg/kg/day did not reveal any evidence of teratogenic effects or foetotoxicity. Enoxaparin sodium was found to have no effect on fertility or reproductive performance of male and female rats at subcutaneous doses up to 20 mg/kg/day.
+
+## 6. PHARMACEUTICAL PARTICULARS
+
+## 6.1 List of excipients
+
+Benzyl alcohol
+
+Water for injections
+
+## 6.2 Incompatibilities
+
+## SC injection
+
+Should not be mixed with other medicinal products.
+
+## IV (bolus) injection (for acute STEMI indication only)
+
+This medicinal product must not be mixed with other medicinal products except those mentioned in section 6.6.
+
+## 6.3 Shelf life
+
+3 years
+
+## After first opening
+
+Chemical and physical in-use stability has been demonstrated for 28 days at 25 °C. From a microbiological point of view, once opened, the medicinal product may be stored for a maximum of 28 days below 25 °C. Other in-use storage times and conditions are the responsibility of the user.
+
+After dilution with sodium chloride 9 mg/ml (0.9%) solution for injection or 5% glucose solution for injection.
+
+Chemical and physical in-use stability has been demonstrated for 8 hours at 25 °C. From a microbiological point of view, unless the method of dilution precludes the risk of microbial contamination, the medicinal product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of user.
+
+## 6.4 Special precautions for storage
+
+Store below 25 °C. Do not freeze.
+
+For storage conditions after first opening and dilution of the medicinal product, see section 6.3.
+
+<div style=\"page-break-after: always\"></div>
+
+6.5
+
+Nature and contents of container
+
+5 mL of solution in clear, colourless type I glass vial sealed with rubber injection stopper and grey aluminium-plastic cap in a cardboard box.
+
+Pack-sizes of 5 vials containing 5 mL.
+
+6.6
+
+Special precautions for disposal and other handling
+
+Enoxaparin sodium may be safely administered with sodium chloride 9 mg/ml (0.9%) solution for injection or 5% glucose in water for injections (see section 4.2).
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+7.
+
+MARKETING AUTHORISATION HOLDER
+
+Techdow Pharma Netherlands B.V.
+
+Zuidplein 28, Tower 1, Level 3 (Unit 5)
+
+1077 XV Amsterdam
+
+Netherlands
+
+8.
+
+MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/16/1132/072
+
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 15/09/2016
+
+Date of latest renewal: 26/08/2021
+
+10.
+
+DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines
+
+Agency http://www.ema.europa.eu.
+
+255
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Inhixa 100,000 IU (1000 mg)/10 mL solution for injection in multidose container
+
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+Each vial contains enoxaparin sodium 100,000 IU anti-Xa activity (equivalent to 1000 mg) in 10.0 mL water for injections.
+
+Each mL contains 10,000 IU (100 mg) enoxaparin sodium.
+
+Enoxaparin sodium is a biological substance obtained by alkaline depolymerisation of heparin benzyl ester derived from porcine intestinal mucosa.
+
+## Excipient(s) with known effect
+
+Benzyl alcohol (150 mg in 10.0 mL)
+
+For the full list of excipients, see section 6.1.
+
+## 3. PHARMACEUTICAL FORM
+
+Solution for injection
+
+Clear, colourless to pale yellow solution.
+
+## 4. CLINICAL PARTICULARS
+
+## 4.1 Therapeutic indications
+
+Inhixa is indicated in adults for:
+
+Prophylaxis of venous thromboembolic disease in moderate and high risk surgical patients, in particular those undergoing orthopaedic or general surgery including cancer surgery.
+
+Prophylaxis of venous thromboembolic disease in medical patients with an acute illness (such as acute heart failure, respiratory insufficiency, severe infections or rheumatic diseases) and reduced mobility at increased risk of venous thromboembolism (VTE).
+
+Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), excluding PE likely to require thrombolytic therapy or surgery.
+
+Extended treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) and prevention of its recurrence in patients with active cancer.
+
+Prevention of thrombus formation in extra corporeal circulation during haemodialysis.
+
+Acute coronary syndrome:
+
+- Treatment of unstable angina and Non ST-segment elevation myocardial infarction (NSTEMI), in combination with oral acetylsalicylic acid.
+- Treatment of acute ST-segment elevation myocardial infarction (STEMI) including patients to be managed medically or with subsequent percutaneous coronary intervention (PCI).
+
+## 4.2 Posology and method of administration
+
+Posology
+
+Prophylaxis of venous thromboembolic disease in moderate and high risk surgical patients Individual thromboembolic risk for patients can be estimated using validated risk stratification model.
+
+<div style=\"page-break-after: always\"></div>
+
+- In patients at moderate risk of thromboembolism, the recommended dose of enoxaparin sodium is 2,000 IU (20 mg) once daily by subcutaneous injection. Preoperative initiation (2 hours before surgery) of enoxaparin sodium 2,000 IU (20 mg) was proven effective and safe in moderate risk surgery.
+
+In moderate risk patients, enoxaparin sodium treatment should be maintained for a minimal period of 7-10 days whatever the recovery status (e.g. mobility). Prophylaxis should be continued until the patient no longer has significantly reduced mobility.
+
+- In patients at high risk of thromboembolism, the recommended dose of enoxaparin sodium is 4,000 IU (40 mg) once daily given by subcutaneous injection preferably started 12 hours before surgery. If there is a need for earlier than 12 hours enoxaparin sodium preoperative prophylactic initiation (e.g. high risk patient waiting for a deferred orthopaedic surgery), the last injection should be administered no later than 12 hours prior to surgery and resumed 12 hours after surgery.
+- o For patients who undergo major orthopaedic surgery an extended thromboprophylaxis up to 5 weeks is recommended.
+- o For patients with a high venous thromboembolism (VTE) risk who undergo abdominal or pelvic surgery for cancer an extended thromboprophylaxis up to 4 weeks is recommended.
+
+## Prophylaxis of venous thromboembolism in medical patients
+
+The recommended dose of enoxaparin sodium is 4,000 IU (40 mg) once daily by subcutaneous injection.
+
+Treatment with enoxaparin sodium is prescribed for at least 6 to 14 days whatever the recovery status
+
+(e.g. mobility). The benefit is not established for a treatment longer than 14 days.
+
+## Treatment of DVT and PE
+
+Enoxaparin sodium can be administered subcutaneously either as a once daily injection of 150 IU/kg (1.5 mg/kg) or as twice daily injections of 100 IU/kg (1 mg/kg).
+
+The regimen should be selected by the physician based on an individual assessment including evaluation of the thromboembolic risk and of the risk of bleeding. The dose regimen of 150 IU/kg (1.5 mg/kg) administered once daily should be used in uncomplicated patients with low risk of VTE recurrence. The dose regimen of 100 IU/kg (1 mg/kg) administered twice daily should be used in all other patients such as those with obesity, with symptomatic PE, cancer, recurrent VTE or proximal ( vena iliaca ) thrombosis.
+
+Enoxaparin sodium treatment is prescribed for an average period of 10 days. Oral anticoagulant therapy should be initiated when appropriate (see 'Switch between enoxaparin sodium and oral anticoagulants' at the end of section 4.2).
+
+In the extended treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) and prevention of its recurrence in patients with active cancer, physicians should carefully assess the individual thromboembolic and bleeding risks of the patient.
+
+The recommended dose is 100 IU/kg (1 mg/kg) administered twice daily by SC injections for 5 to 10 days, followed by a 150 IU/kg (1.5 mg/kg) once daily SC injection up to 6 months. The benefit of continuous anticoagulant therapy should be reassessed after 6 months of treatment.
+
+## Prevention of thrombus formation during haemodialysis
+
+The recommended dose is 100 IU/kg (1 mg/kg) of enoxaparin sodium.
+
+For patients with a high risk of haemorrhage, the dose should be reduced to 50 IU/kg (0.5 mg/kg) for double vascular access or 75 IU/kg (0.75 mg/kg) for single vascular access.
+
+During haemodialysis, enoxaparin sodium should be introduced into the arterial line of the circuit at the beginning of the dialysis session. The effect of this dose is usually sufficient for a 4-hour session; however, if fibrin rings are found, for example after a longer than normal session, a further dose of 50 IU to 100 IU/kg (0.5 to 1 mg/kg) may be given.
+
+No data are available in patients using enoxaparin sodium for prophylaxis or treatment and during haemodialysis sessions.
+
+<div style=\"page-break-after: always\"></div>
+
+## Acute coronary syndrome: treatment of unstable angina and NSTEMI and treatment of acute STEMI
+
+- For treatment of unstable angina and NSTEMI, the recommended dose of enoxaparin sodium is 100 IU/kg (1 mg/kg) every 12 hours by subcutaneous injection administered in combination with antiplatelet therapy. Treatment should be maintained for a minimum of 2 days and continued until clinical stabilization. The usual duration of treatment is 2 to 8 days.
+- Acetylsalicylic acid is recommended for all patients without contraindications at an initial oral loading dose of 150 -300 mg (in acetylsalicylic acid-naive patients) and a maintenance dose of 75-325 mg/day long-term regardless of treatment strategy.
+- For treatment of acute STEMI, the recommended dose of enoxaparin sodium is a single intravenous bolus of 3,000 IU (30 mg) plus a 100 IU/kg (1 mg/kg) subcutaneous dose followed by 100 IU/kg (1 mg/kg) administered subcutaneously every 12 hours (maximum 10,000 IU (100 mg) for each of the first two subcutaneous doses). Appropriate antiplatelet therapy such as oral acetylsalicylic acid (75 mg
+- to 325 mg once daily) should be administered concomitantly unless contraindicated. The recommended duration of treatment is 8 days or until hospital discharge, whichever comes first. When administered in conjunction with a thrombolytic (fibrin specific or non-fibrin specific), enoxaparin sodium should be given between 15 minutes before and 30 minutes after the start of fibrinolytic therapy.
+- o For dose in patients ≥ 75 years of age, see paragraph 'Elderly'.
+- o For patients managed with PCI, if the last subcutaneous dose of enoxaparin sodium was given less than 8 hours before balloon inflation, no additional dosing is needed. If the last subcutaneous administration was given more than 8 hours before balloon inflation, an intravenous bolus of 30 IU/kg (0.3 mg/kg) enoxaparin sodium should be administered.
+
+## Special populations
+
+## Paediatric population
+
+The safety and efficacy of enoxaparin sodium in paediatric population have not been established. No data are available.
+
+## Elderly
+
+For all indications except STEMI, no dose reduction is necessary in the elderly patients, unless kidney function is impaired (see below paragraph 'Renal impairment' and section 4.4). For treatment of acute STEMI in elderly patients ≥75 years of age, an initial intravenous bolus must not be used. Initiate dosing with 75 IU/kg (0.75 mg/kg) subcutaneously every 12 hours (maximum 7,500 IU (75 mg) for each of the first two subcutaneous doses only, followed by 75 IU/kg (0.75 mg/kg) subcutaneous dosing for the remaining doses). For dose in elderly patients with impaired kidney function, see below 'renal impairment' and section 4.4.
+
+## Hepatic impairment
+
+Limited data are available in patients with hepatic impairment (see sections 5.1 and 5.2) and caution should be used in these patients (see section 4.4).
+
+## Renal impairment (see sections 4.4 and 5.2)
+
+## Severe renal impairment
+
+Enoxaparin sodium is not recommended for patients with end stage renal disease (creatinine clearance &lt;15 mL/min) due to lack of data in this population outside the prevention of thrombus formation in extra corporeal circulation during haemodialysis.
+
+Dose table for patients with severe renal impairment (creatinine clearance [15-30] mL/min):
+
+| Indication                                   | Dosing regimen                                            |
+|----------------------------------------------|-----------------------------------------------------------|
+| Prophylaxis of venous thromboembolic disease | 2,000 IU (20 mg) subcutaneously once daily                |
+| Treatment of DVT and PE                      | 100 IU/kg (1 mg/kg) body weight subcutaneously once daily |
+
+<div style=\"page-break-after: always\"></div>
+
+| Extended treatment of DVT and PE in patients with active cancer   | 100 IU/kg (1 mg/kg) body weight SC once daily                                                                                                                     |
+|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Treatment of unstable angina and NSTEMI                           | 100 IU/kg (1 mg/kg) body weight subcutaneously once daily                                                                                                         |
+| Treatment of acute STEMI (patients under 75)                      | 1 x 3,000 IU (30 mg) intravenous bolus plus 100 IU/kg (1 mg/kg) body weight subcutaneously and then 100 IU/kg (1 mg/kg) body weight subcutaneously every 24 hours |
+| Treatment of acute STEMI (patients over 75)                       | No intravenous initial bolus, 100 IU/kg (1 mg/kg) body weight subcutaneously and then 100 IU/kg (1 mg/kg) body weight subcutaneously every 24 hours               |
+
+The recommended dose adjustments do not apply to the haemodialysis indication.
+
+## Moderate and mild renal impairment
+
+Although no dose adjustment is recommended in patients with moderate (creatinine clearance 30-50 mL/min) and mild (creatinine clearance 50-80 mL/min) renal impairment, careful clinical monitoring is advised.
+
+Inhixa multidose vial contains benzyl alcohol and must not be used in newborn babies and premature neonates (see section 4.3).
+
+## Method of administration
+
+Inhixa is not indicated for intramuscular use and should not be administered by this route.
+
+For the prophylaxis of venous thromboembolic disease following surgery, treatment of DVT and PE, extended treatment of DVT and PE in patients with active cancer, treatment of unstable angina and NSTEMI, enoxaparin sodium should be administered by subcutaneous injection.
+
+- For acute STEMI, treatment is to be initiated with a single intravenous bolus injection immediately followed by a subcutaneous injection.
+- For the prevention of thrombus formation in the extra corporeal circulation during haemodialysis, it is administered through the arterial line of a dialysis circuit.
+
+The use of a tuberculin syringe or equivalent is recommended when using multidose vials to assure withdrawal of the appropriate volume of the medicinal product.
+
+## SC injection technique
+
+Injection should be made preferably when the patient is lying down. Enoxaparin sodium is administered by deep SC injection.
+
+When using pre-filled syringes, the air bubble should not be expelled from the syringe before the injection in order to avoid the loss of the medicinal product. When the quantity of the medicinal product to be injected requires to be adjusted based on the patient's body weight, the graduated pre -filled syringes should be used to reach the required volume by discarding the excess before injection. In some cases it is not possible to achieve an exact dose due to the graduations on the syringe, and in such case the volume shall be rounded up to the nearest graduation.
+
+The administration should be alternated between the left and right anterolateral or posterolateral abdominal wall.
+
+The whole length of the needle should be introduced vertically into a skin fold gently held between the thumb and index finger. The skin fold should not be released until the injection is complete. The injection site should not be rubbed after administration.
+
+<div style=\"page-break-after: always\"></div>
+
+## IV (bolus) injection (for acute STEMI indication only)
+
+For acute STEMI, treatment is to be initiated with a single intravenous bolus injection immediately followed by a subcutaneous injection.
+
+For intravenous injection, either the multidose vial or pre-filled syringe can be used.
+
+Enoxaparin sodium should be administered through an intravenous line. It should not be mixed or coadministered with other medicinal products. To avoid the possible mixture of enoxaparin sodium with other medicinal products, the intravenous access chosen should be flushed with a sufficient amount of sodium chloride 9 mg/mL (0.9%) solution for infusion or 5% glucose in water for injection prior to and following the intravenous bolus administration of enoxaparin sodium to clear the port of the medicinal product. Enoxaparin sodium may be safely administered with sodium chloride 9 mg/mL (0.9%) solution for infusion or 5% glucose in water for injections.
+
+## Initial 3,000 IU (30 mg) bolus
+
+For the initial 3,000 IU (30 mg) bolus, using an enoxaparin sodium graduated pre-filled syringe, the excessive volume has to be expelled to retain only 3,000 IU (30 mg) in the syringe. The 3,000 IU (30 mg) dose can then be directly injected into the intravenous line.
+
+## Additional bolus for PCI when last subcutaneous administration was given more than 8 hours before balloon inflation
+
+For patients being managed with PCI, an additional intravenous bolus of 30 IU/kg (0.3 mg/kg) is to be administered if last subcutaneous administration was given more than 8 hours before balloon inflation.
+
+In order to assure the accuracy of the small volume to be injected, it is recommended to dilute the medicinal product to 300 IU/mL (3 mg/mL).
+
+To obtain a 300 IU/mL (3 mg/mL) solution, using a 6,000 IU (60 mg) enoxaparin sodium pre-filled syringe, it is recommended to use a 50 mL infusion bag (i.e. using either sodium chloride 9 mg/mL (0.9%) solution for infusion or 5% glucose in water for injections) as follows:
+
+30 mL of the solution should be withdrawn from the infusion bag with a syringe and discarded. The complete contents of the 6,000 IU (60 mg) enoxaparin sodium pre-filled syringe should be injected into the 20 mL remaining in the bag. The contents of the bag should be gently mixed. Then, the required volume of diluted solution should be withdrawn with a syringe for administration into the intravenous line.
+
+After dilution is completed, the volume to be injected can be calculated using the following formula [volume of diluted solution (mL) = patient weight (kg) x 0.1] or using the table below. It is recommended to prepare the dilution immediately before use.
+
+Volume to be injected through intravenous line after dilution is completed at a concentration of 300 IU (3 mg)/mL.
+
+| Weight   | Required dose 30 IU/kg (0.3 mg/kg)   | Required dose 30 IU/kg (0.3 mg/kg)   | Volume to inject when diluted to a final concentration of 300 IU (3 mg)/mL   |
+|----------|--------------------------------------|--------------------------------------|------------------------------------------------------------------------------|
+| [kg]     | IU                                   | [mg]                                 | [mL]                                                                         |
+| 45       | 1,350                                | 13.5                                 | 4.5                                                                          |
+| 50       | 1,500                                | 15                                   | 5                                                                            |
+| 55       | 1,650                                | 16.5                                 | 5.5                                                                          |
+| 60       | 1,800                                | 18                                   | 6                                                                            |
+| 65       | 1,950                                | 19.5                                 | 6.5                                                                          |
+| 70       | 2,100                                | 21                                   | 7                                                                            |
+| 75       | 2,250                                | 22.5                                 | 7.5                                                                          |
+| 80       | 2,400                                | 24                                   | 8                                                                            |
+| 85       | 2,550                                | 25.5                                 | 8.5                                                                          |
+| 90       | 2,700                                | 27                                   | 9                                                                            |
+| 95       | 2,850                                | 28.5                                 | 9.5                                                                          |
+| 100      | 3,000                                | 30                                   | 10                                                                           |
+
+<div style=\"page-break-after: always\"></div>
+
+|   105 |   3,150 |   31.5 |   10.5 |
+|-------|---------|--------|--------|
+|   110 |   3,300 |   33   |   11   |
+|   115 |   3,450 |   34.5 |   11.5 |
+|   120 |   3,600 |   36   |   12   |
+|   125 |   3,750 |   37.5 |   12.5 |
+|   130 |   3,900 |   39   |   13   |
+|   135 |   4,050 |   40.5 |   13.5 |
+|   140 |   4,200 |   42   |   14   |
+|   145 |   4,350 |   43.5 |   14.5 |
+|   150 |   4,500 |   45   |   15   |
+
+## Arterial line injection
+
+It is administered through the arterial line of a dialysis circuit for the prevention of thrombus formation in the extra corporeal circulation during haemodialysis.
+
+## Switch between enoxaparin sodium and oral anticoagulants
+
+## Switch between enoxaparin sodium and vitamin K antagonists (VKA)
+
+Clinical monitoring and laboratory tests [prothrombin time expressed as the International Normalised Ratio (INR)] must be intensified to monitor the effect of VKA.
+
+As there is an interval before the VKA reaches its maximum effect, enoxaparin sodium therapy should be continued at a constant dose for as long as necessary in order to maintain the INR within the desired therapeutic range for the indication in two successive tests.
+
+For patients currently receiving a VKA, the VKA should be discontinued and the first dose of enoxaparin sodium should be given when the INR has dropped below the therapeutic range.
+
+## Switch between enoxaparin sodium and direct oral anticoagulants (DOAC)
+
+For patients currently receiving enoxaparin sodium, discontinue enoxaparin sodium and start the DOAC 0 to 2 hours before the time that the next scheduled administration of enoxaparin sodium would be due as per DOAC label.
+
+For patients currently receiving a DOAC, the first dose of enoxaparin sodium should be given at the time the next DOAC dose would be taken.
+
+## Administration in spinal/epidural anaesthesia or lumbar puncture
+
+Should the physician decide to administer anticoagulation in the context of epidural or spinal anaesthesia/analgesia or lumbar puncture, careful neurological monitoring is recommended due to the risk of neuraxial haematomas (see section 4.4).
+
+- -At doses used for prophylaxis
+
+A puncture-free interval of at least 12 hours shall be kept between the last injection of enoxaparin sodium at prophylactic doses and the needle or catheter placement.
+
+- For continuous techniques, a similar delay of at least 12 hours should be observed before removing the catheter.
+
+For patients with creatinine clearance [15-30] mL/min, consider doubling the timing of puncture/catheter placement or removal to at least 24 hours.
+
+The 2 hours preoperative initiation of enoxaparin sodium 2,000 IU (20 mg) is not compatible with neuraxial anaesthesia.
+
+- -At doses used for treatment
+
+A puncture-free interval of at least 24 hours shall be kept between the last injection of enoxaparin sodium at curative doses and the needle or catheter placement (see also section 4.3).
+
+For continuous techniques, a similar delay of 24 hours should be observed before removing the catheter.
+
+For patients with creatinine clearance [15-30] mL/min, consider doubling the timing of puncture/catheter placement or removal to at least 48 hours.
+
+<div style=\"page-break-after: always\"></div>
+
+Patients receiving the twice daily doses (i.e. 75 IU/kg (0.75 mg/kg) twice daily or 100 IU/kg (1 mg/kg) twice-daily) should omit the second enoxaparin sodium dose to allow a sufficient delay before catheter placement or removal.
+
+Anti-Xa levels are still detectable at these time points, and these delays are not a guarantee that neuraxial hematoma will be avoided.
+
+Likewise, consider not using enoxaparin sodium until at least 4 hours after the spinal/epidural puncture or after the catheter has been removed. The delay must be based on a benefit-risk assessment considering both the risk for thrombosis and the risk for bleeding in the context of the procedure and patient risk factors.
+
+## 4.3 Contraindications
+
+Enoxaparin sodium is contraindicated in patients with:
+
+- Hypersensitivity to enoxaparin sodium, heparin or its derivatives, including other low molecular weight heparins (LMWH), to benzyl alcohol or any other of the excipients listed in section 6.1;
+- History of immune mediated heparin-induced thrombocytopenia (HIT) within the past 100 days or in the presence of circulating antibodies (see also section 4.4 );
+- Active clinically significant bleeding and conditions with a high risk of haemorrhage, including recent haemorrhagic stroke, gastrointestinal ulcer, presence of malignant neoplasm at high risk of bleeding, recent brain, spinal or ophthalmic surgery, known or suspected oesophageal varices, arteriovenous malformations, vascular aneurysms or major intraspinal or intracerebral vascular abnormalities;
+- Spinal or epidural anaesthesia or loco-regional anaesthesia when enoxaparin sodium is used for treatment in the previous 24 hours (see section 4.4).
+
+Because of the content of benzyl alcohol (see section 6.1), enoxaparin sodium multiple dose vial formulation must not be given to newborns or premature neonates (see sections 4.4 and 4.6).
+
+## 4.4 Special warnings and precautions for use
+
+## Traceability
+
+LMWHs are biological medicinal products. In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+## General
+
+Enoxaparin sodium cannot be used interchangeably (unit for unit) with other LMWHs. These medicinal products differ in their manufacturing process, molecular weights, specific anti-Xa and anti-IIa activities, units, dose and clinical efficacy and safety. This results in differences in pharmacokinetics and associated biological activities (e.g. anti-thrombin activity, and platelet interactions). Special attention and compliance with the instructions for use specific to each proprietary medicinal product are therefore required.
+
+## History of HIT (&gt;100 days)
+
+Use of enoxaparin sodium in patients with a history of immune mediated HIT within the past 100 days or in the presence of circulating antibodies is contraindicated (see section 4.3). Circulating antibodies may persist several years.
+
+Enoxaparin sodium is to be used with extreme caution in patients with a history (&gt;100 days) of heparininduced thrombocytopenia without circulating antibodies. The decision to use enoxaparin sodium in such a case must be made only after a careful benefit risk assessment and after non-heparin alternative treatments are considered (e.g. danaparoid sodium or lepirudin).
+
+## Monitoring of platelet counts
+
+In patients with cancer with a platelet count below 80 G/L, anticoagulation treatment can only be considered on a case-by-case basis and careful monitoring is recommended.
+
+<div style=\"page-break-after: always\"></div>
+
+The risk of antibody-mediated HIT also exists with LMWHs. Should thrombocytopenia occur, it usually appears between the 5 th and the 21 st day following the beginning of enoxaparin sodium treatment. The risk of HIT is higher in postoperative patients and mainly after cardiac surgery and in patients with cancer.
+
+Therefore, it is recommended that the platelet counts be measured before the initiation of therapy with enoxaparin sodium and then regularly thereafter during the treatment.
+
+If there are clinical symptoms suggestive of HIT (any new episode of arterial and/or venous thromboembolism, any painful skin lesion at the injection site, any allergic or anaphylactoid reactions on treatment), platelet count should be measured. Patients must be aware that these symptoms may occur and if so, that they should inform their primary care physician.
+
+In practice, if a confirmed significant decrease of the platelet count is observed (30 to 50 % of the initial value), enoxaparin sodium treatment must be immediately discontinued and the patient switched to another non-heparin anticoagulant alternative treatment.
+
+## Haemorrhage
+
+As with other anticoagulants, bleeding may occur at any site. If bleeding occurs, the origin of the haemorrhage should be investigated and appropriate treatment instituted.
+
+Enoxaparin sodium, as with any other anticoagulant therapy, should be used with caution in conditions with increased potential for bleeding, such as:
+
+- -impaired haemostasis,
+- -history of peptic ulcer,
+- -recent ischemic stroke,
+- -severe arterial hypertension,
+- -recent diabetic retinopathy,
+- -neuro- or ophthalmologic surgery,
+- -concomitant use of medicinal products affecting haemostasis (see section 4.5).
+
+## Laboratory tests
+
+At doses used for prophylaxis of venous thromboembolism, enoxaparin sodium does not influence bleeding time and global blood coagulation tests significantly, nor does it affect platelet aggregation or binding of fibrinogen to platelets.
+
+At higher doses, increases in activated partial thromboplastin time (aPTT), and activated clotting time (ACT) may occur. Increases in aPTT and ACT are not linearly correlated with increasing enoxaparin sodium antithrombotic activity and therefore are unsuitable and unreliable for monitoring enoxaparin sodium activity.
+
+## Spinal/Epidural anaesthesia or lumbar puncture
+
+Spinal/epidural anaesthesia or lumbar puncture must not be performed within 24 hours of administration of enoxaparin sodium at therapeutic doses (see also section 4.3).
+
+There have been cases of neuraxial haematomas reported with the concurrent use of enoxaparin sodium and spinal/epidural anaesthesia or spinal puncture procedures resulting in long term or permanent paralysis. These events are rare with enoxaparin sodium dose regimens 4,000 IU (40 mg) once daily or lower. The risk of these events is higher with the use of post-operative indwelling epidural catheters, with the concomitant use of additional medicinal products affecting haemostasis such as Non-Steroidal Anti-Inflammatory Drugs (NSAIDs), with traumatic or repeated epidural or spinal puncture, or in patients with a history of spinal surgery or spinal deformity.
+
+To reduce the potential risk of bleeding associated with the concurrent use of enoxaparin sodium and epidural or spinal anaesthesia/analgesia or spinal puncture, consider the pharmacokinetic profile of enoxaparin sodium (see section 5.2). Placement or removal of an epidural catheter or lumbar puncture is best performed when the anticoagulant effect of enoxaparin sodium is low; however, the exact timing to reach a sufficiently low anticoagulant effect in each patient is not known. For patients with creatinine clearance [15-30 mL/minute], additional considerations are necessary because elimination of enoxaparin sodium is more prolonged (see section 4.2).
+
+<div style=\"page-break-after: always\"></div>
+
+Should the physician decide to administer anticoagulation in the context of epidural or spinal anaesthesia/analgesia or lumbar puncture, frequent monitoring must be exercised to detect any signs and symptoms of neurological impairment such as midline back pain, sensory and motor deficits (numbness or weakness in lower limbs), bowel and/or bladder dysfunction. Instruct patients to report immediately if they experience any of the above signs or symptoms. If signs or symptoms of spinal hematoma are suspected, initiate urgent diagnosis and treatment including consideration for spinal cord decompression even though such treatment may not prevent or reverse neurological sequelae.
+
+## Skin necrosis/cutaneous vasculitis
+
+Skin necrosis and cutaneous vasculitis have been reported with LMWHs and should lead to prompt treatment discontinuation.
+
+## Percutaneous coronary revascularization procedures
+
+To minimise the risk of bleeding following the vascular instrumentation during the treatment of unstable angina, NSTEMI and acute STEMI, adhere precisely to the intervals recommended between enoxaparin sodium injection doses. It is important to achieve haemostasis at the puncture site after PCI. In case a closure device is used, the sheath can be removed immediately. If a manual compression method is used, sheath should be removed 6 hours after the last intravenous/ subcutaneous enoxaparin sodium injection. If the treatment with enoxaparin sodium is to be continued, the next scheduled dose should be given no sooner than 6 to 8 hours after sheath removal. The site of the procedure should be observed for signs of bleeding or hematoma formation.
+
+## Acute infective endocarditis
+
+Use of heparin is usually not recommended in patients with acute infective endocarditis due to the risk of cerebral haemorrhage. If such use is considered absolutely necessary, the decision must be made only after a careful individual benefit risk assessment.
+
+## Mechanical prosthetic heart valves
+
+The use of enoxaparin sodium has not been adequately studied for thromboprophylaxis in patients with mechanical prosthetic heart valves. Isolated cases of prosthetic heart valve thrombosis have been reported in patients with mechanical prosthetic heart valves who have received enoxaparin sodium for thromboprophylaxis. Confounding factors, including underlying disease and insufficient clinical data, limit the evaluation of these cases. Some of these cases were pregnant women in whom thrombosis led to maternal and foetal death.
+
+## Pregnant women with mechanical prosthetic heart valves
+
+The use of enoxaparin sodium for thromboprophylaxis in pregnant women with mechanical prosthetic heart valves has not been adequately studied. In a clinical study of pregnant women with mechanical prosthetic heart valves given enoxaparin sodium (100 IU/kg (1 mg/kg ) twice daily) to reduce the risk of thromboembolism, 2 of 8 women developed clots resulting in blockage of the valve and leading to maternal and foetal death. There have been isolated post-marketing reports of valve thrombosis in pregnant women with mechanical prosthetic heart valves while receiving enoxaparin sodium for thromboprophylaxis. Pregnant women with mechanical prosthetic heart valves may be at higher risk for thromboembolism.
+
+## Elderly
+
+No increased bleeding tendency is observed in the elderly with the prophylactic dose ranges. Elderly patients (especially patients eighty years of age and older) may be at an increased risk for bleeding complications with the therapeutic dose ranges. Careful clinical monitoring is advised and dose reduction might be considered in patients older than 75 years treated for STEMI (see sections 4.2 and 5.2).
+
+## Renal impairment
+
+<div style=\"page-break-after: always\"></div>
+
+- In patients with renal impairment, there is an increase in exposure of enoxaparin sodium which increases the risk of bleeding. In these patients, careful clinical monitoring is advised, and biological monitoring by anti-Xa activity measurement might be considered (see sections 4.2 and 5.2).
+- Enoxaparin sodium is not recommended for patients with end stage renal disease (creatinine clearance &lt;15 mL/min) due to lack of data in this population outside the prevention of thrombus formation in extra corporeal circulation during haemodialysis.
+
+In patients with severe renal impairment (creatinine clearance 15-30 mL/min), since exposure of enoxaparin sodium is significantly increased, a dose adjustment is recommended for therapeutic and prophylactic dose ranges (see section 4.2).
+
+No dose adjustment is recommended in patients with moderate (creatinine clearance 30-50 mL/min) and mild (creatinine clearance 50-80 mL/min) renal impairment.
+
+## Hepatic impairment
+
+Enoxaparin sodium should be used with caution in patients with hepatic impairment due to an increased potential for bleeding. Dose adjustment based on monitoring of anti-Xa levels is unreliable in patients with liver cirrhosis and not recommended (see section 5.2).
+
+## Low weight
+
+An increase in exposure of enoxaparin sodium with prophylactic doses (non-weight adjusted) has been observed in low-weight women (&lt;45 kg) and low-weight men (&lt;57 kg), which may lead to a higher risk of bleeding. Therefore, careful clinical monitoring is advised in these patients (see section 5.2).
+
+## Obese patients
+
+Obese patients are at higher risk for thromboembolism. The safety and efficacy of prophylactic doses in obese patients (BMI &gt;30 kg/m2) has not been fully determined and there is no consensus for dose adjustment. These patients should be observed carefully for signs and symptoms of thromboembolism.
+
+## Hyperkalaemia
+
+Heparins can suppress adrenal secretion of aldosterone leading to hyperkalaemia (see section 4.8), particularly in patients such as those with diabetes mellitus, chronic renal failure, pre-existing metabolic acidosis, taking medicinal products known to increase potassium (see section 4.5). Plasma potassium should be monitored regularly especially in patients at risk.
+
+## Benzyl alcohol
+
+Benzyl alcohol may cause allergic reactions.
+
+Intravenous administration of benzyl alcohol has been associated with serious adverse events and death in neonates ( 'Gasping Syndrome') (see section 4.3). The minimum amount of benzyl alcohol at which toxicity may occur is not known. Benzyl alcohol may also cause toxic reactions in infants and children up to 3 years old, due to increased risk of accumulation.
+
+High volumes of medicinal products containing benzyl alcohol should be used with caution and only if necessary in patients with liver or kidney impairment, or in pregnant women, because of the risk of accumulation of benzyl alcohol and its toxicity (metabolic acidosis).
+
+## Sodium
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose within the recommended dose range, that is to say essentially 'sodium -free'.
+
+## Acute generalized exanthematous pustulosis
+
+<div style=\"page-break-after: always\"></div>
+
+Acute generalized exanthematous pustulosis (AGEP) has been reported with frequency not known in association with enoxaparin treatment. At the time of prescription patients should be advised of the signs and symptoms and monitored closely for skin reactions. If signs and symptoms suggestive of these reactions appear, enoxaparin should be withdrawn immediately and an alternative treatment considered (as appropriate).
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
+
+## Concomitant use not recommended
+
+## Medicinal products affecting haemostasis (see section 4.4)
+
+It is recommended that some agents which affect haemostasis should be discontinued prior to enoxaparin sodium therapy unless strictly indicated. If the combination is indicated, enoxaparin sodium should be used with careful clinical and laboratory monitoring when appropriate. These agents include medicinal products such as:
+
+- -Systemic salicylates, acetylsalicylic acid at anti-inflammatory doses, and NSAIDs including ketorolac,
+- -Other thrombolytics (e.g. alteplase, reteplase, streptokinase, tenecteplase, urokinase) and anticoagulants (see section 4.2).
+
+## Concomitant use with caution
+
+The following medicinal products may be administered with caution concomitantly with enoxaparin sodium:
+
+- Other medicinal products affecting haemostasis such as:
+- -Platelet aggregation inhibitors including acetylsalicylic acid used at antiaggregant dose (cardioprotection), clopidogrel, ticlopidine, and glycoprotein IIb/IIIa antagonists indicated in acute coronary syndrome due to the risk of bleeding,
+- -Dextran 40,
+- -Systemic glucocorticoids.
+- Medicinal products increasing potassium levels
+
+Medicinal products that increase serum potassium levels may be administered concurrently with enoxaparin sodium under careful clinical and laboratory monitoring (see sections 4.4 and 4.8).
+
+## 4.6 Fertility, pregnancy and lactation
+
+## Pregnancy
+
+In humans, there is no evidence that enoxaparin crosses the placental barrier during the second and third trimester of pregnancy. There is no information available concerning the first trimester.
+
+Animal studies have not shown any evidence of foetotoxicity or teratogenicity (see section 5.3). Animal data have shown that enoxaparin passage through the placenta is minimal.
+
+Enoxaparin sodium should be used during pregnancy only if the physician has established a clear need. Pregnant women receiving enoxaparin sodium should be carefully monitored for evidence of bleeding or excessive anticoagulation and should be warned of the haemorrhagic risk. Overall, the data suggest that there is no evidence for an increased risk of haemorrhage, thrombocytopenia or osteoporosis with respect to the risk observed in non-pregnant women, other than that observed in pregnant women with prosthetic heart valves (see section 4.4).
+
+If an epidural anaesthesia is planned, it is recommended to withdraw enoxaparin sodium treatment before (see section 4.4).
+
+As benzyl alcohol may cross the placenta, it is recommended to use a formulation that does not contain benzyl alcohol.
+
+<div style=\"page-break-after: always\"></div>
+
+## Breast-feeding
+
+It is not known whether unchanged enoxaparin is excreted in human breast milk. In lactating rats, the passage of enoxaparin or its metabolites in milk is very low. The oral absorption of enoxaparin sodium is unlikely. Inhixa can be used during breastfeeding.
+
+## Fertility
+
+There are no clinical data for enoxaparin sodium in fertility. Animal studies did not show any effect on fertility (see section 5.3).
+
+## 4.7 Effects on ability to drive and use machines
+
+Enoxaparin sodium has no or negligible influence on the ability to drive and use machines.
+
+## 4.8 Undesirable effects
+
+## Summary of the safety profile
+
+Enoxaparin sodium has been evaluated in more than 15,000 patients who received enoxaparin sodium in clinical trials. These included 1,776 for prophylaxis of DVT following orthopaedic or abdominal surgery in patients at risk for thromboembolic complications, 1,169 for prophylaxis of DVT in acutely ill medical patients with severely restricted mobility, 559 for treatment of DVT with or without PE, 1,578 for treatment of unstable angina and non-Q-wave myocardial infarction and 10,176 for treatment of acute STEMI.
+
+Enoxaparin sodium regimen administered during these clinical trials varies depending on indications. The enoxaparin sodium dose was 4,000 IU (40 mg) subcutaneously once daily for prophylaxis of DVT following surgery or in acutely ill medical patients with severely restricted mobility. In treatment of DVT with or without PE, patients receiving enoxaparin sodium were treated with either a 100 IU/kg (1 mg/kg) subcutaneous dose every 12 hours or a 150 IU/kg (1.5 mg/kg) subcutaneous dose once a day. In the clinical trials for treatment of unstable angina and non-Q-wave myocardial infarction, doses were 100 IU/kg (1 mg/kg) subcutaneously every 12 hours, and in the clinical study for treatment of acute STEMI enoxaparin sodium regimen was a 3,000 IU (30 mg) intravenous bolus followed by 100 IU/kg (1 mg/kg) subcutaneously every 12 hours.
+
+In clinical trials, haemorrhages, thrombocytopenia and thrombocytosis were the most commonly reported reactions (see sections 4.4 and 'Description of selected adverse reactions' below).
+
+The safety profile of enoxaparin for extended treatment of DVT and PE in patients with active cancer is similar to its safety profile for the treatment of DVT and PE.
+
+Acute generalized exanthematous pustulosis (AGEP) has been reported in association with enoxaparin treatment (see section 4.4).
+
+## Tabulated list of adverse reactions
+
+Other adverse reactions observed in clinical trials and reported in post-marketing experience (* indicates reactions from post-marketing experience) are detailed below.
+
+Frequencies are defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt;1/1,000); and very rare (&lt; 1/10,000) or not known (cannot be estimated from available data). Within each system organ class, adverse reactions are presented in order of decreasing seriousness.
+
+## Blood and the lymphatic system disorders
+
+Common: Haemorrhage, haemorrhagic anaemia*, thrombocytopenia, thrombocytosis Rare: Eosinophilia*
+
+<div style=\"page-break-after: always\"></div>
+
+Rare: Cases of immuno-allergic thrombocytopenia with thrombosis; in some of them thrombosis was complicated by organ infarction or limb ischaemia (see section 4.4).
+
+## Immune system disorders
+
+Common: Allergic reaction
+
+Rare: Anaphylactic/Anaphylactoid reactions including shock*
+
+## Nervous system disorders
+
+Common: Headache*
+
+## Vascular disorders
+
+Rare: Spinal haematoma* (or neuraxial haematoma). These reactions have resulted in varying degrees of neurologic injuries including long-term or permanent paralysis (see section 4.4).
+
+## Hepatobiliary disorders
+
+Very common: Hepatic enzyme increases (mainly transaminases &gt; 3 times the upper limit of normality) Uncommon: Hepatocellular liver injury *
+
+Rare: Cholestatic liver injury*
+
+## Skin and subcutaneous tissue disorders
+
+Common: Urticaria, pruritus, erythema
+
+Uncommon: Bullous dermatitis
+
+Rare: Alopecia*
+
+Rare: Cutaneous vasculitis*, skin necrosis* usually occurring at the injection site (these phenomena have been usually preceded by purpura or erythematous plaques, infiltrated and painful).
+
+Injection site nodules* (inflammatory nodules, which were not cystic enclosure of enoxaparin). They resolve after a few days and should not cause treatment discontinuation.
+
+Not known: Acute generalized exanthematous pustulosis (AGEP)
+
+## Musculoskeletal and connective tissue disorders
+
+Rare: Osteoporosis* following long term therapy (greater than 3 months)
+
+## General disorders and administration site conditions
+
+Common: Injection site haematoma, injection site pain, other injection site reaction (such as oedema, haemorrhage, hypersensitivity, inflammation, mass, pain, or reaction) Uncommon: Local irritation, skin necrosis at injection site
+
+## Investigations
+
+Rare: Hyperkalaemia* (see sections 4.4 and 4.5).
+
+## Description of selected adverse reactions
+
+## Haemorrhages
+
+These included major haemorrhages, reported at most in 4.2 % of the patients (surgical patients). Some of these cases have been fatal. In surgical patients, haemorrhage complications were considered major: (1) if the haemorrhage caused a significant clinic al event, or (2) if accompanied by haemoglobin decrease ≥ 2 g/dL or transfusion of 2 or more units of blood products. Retroperitoneal and intracranial haemorrhages were always considered major.
+
+As with other anticoagulants, haemorrhage may occur in the presence of associated risk factors such as: organic lesions liable to bleed, invasive procedures or the concomitant use of medicinal products affecting haemostasis (see sections 4.4 and 4.5).
+
+<div style=\"page-break-after: always\"></div>
+
+| System organ class                     | Prophylaxis in surgical patients                               | Prophylaxis in medical patients   | Treatment in patients with DVT with or without PE                                           | Extended treatment of DVT and PE in patients with active cancer   | Treatment in patients with unstable angina and non-Q-wave MI   | Treatment in patients with acute STEMI                                                 |
+|----------------------------------------|----------------------------------------------------------------|-----------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| Blood and lymphati c system disorder s | Very common : Haemorrhage α Rare: Retroperitone al haemorrhage | Common: Haemorrhag e α            | Very common: Haemorrhage α Uncommon: Intracranial haemorrhage, Retroperitone al haemorrhage | Common b : Haemorrhag e                                           | Common: Haemorrhage α Rare: Retroperitone al haemorrhage       | Common: Haemorrhage α Uncommon: Intracranial haemorrhage, Retroperitone al haemorrhage |
+
+Thrombocytopenia and thrombocytosis (see section 4.4 monitoring of platelet counts)
+
+| System organ class                     | Prophylaxis in surgical patients                            | Prophylaxis in medical patients   | Treatment in patients with DVT with or without PE           | Extended treatment of DVT and PE in patients with active cancer   | Treatment in patients with unstable angina and non-Q-wave MI   | Treatment in patients with acute STEMI                                                      |
+|----------------------------------------|-------------------------------------------------------------|-----------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| Blood and lympha tic system disorde rs | Very common : Thrombo- cytosis β Common: Thrombo- cytopenia | Uncommon: Thrombo- cytopenia      | Very common : Thrombo- cytosis β Common: Thrombo- cytopenia | Unknown: Thrombocyto penia                                        | Uncommon: Thrombo- cytopenia                                   | Common: Thrombocytos is β Thrombo- cytopenia Very rare: Immuno- allergic thrombo- cytopenia |
+
+## Paediatric population
+
+The safety and efficacy of enoxaparin sodium in children have not been established (see section 4.2).
+
+Intravenous administration of benzyl alcohol has been associated with serious adverse events and death in neonates ('Gasping Syndrome') (see section 4.3).
+
+Benzyl alcohol may also cause toxic reactions in infants and children up to 3 years old, due to increased risk of accumulation (see section 4.4).
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+<div style=\"page-break-after: always\"></div>
+
+## 4.9 Overdose
+
+## Signs and symptoms
+
+Accidental overdose with enoxaparin sodium after intravenous, extracorporeal or subcutaneous administration may lead to haemorrhagic complications. Following oral administration of even large doses, it is unlikely that enoxaparin sodium will be absorbed.
+
+## Management
+
+The anticoagulant effects can be largely neutralised by the slow intravenous injection of protamine. The dose of protamine depends on the dose of enoxaparin sodium injected; 1 mg protamine neutralises the anticoagulant effect of 100 IU (1 mg) of enoxaparin sodium, if enoxaparin sodium was administered in the previous 8 hours. An infusion of 0.5 mg protamine per 100 IU (1 mg) of enoxaparin sodium may be administered if enoxaparin sodium was administered greater than 8 hours previous to the protamine administration, or if it has been determined that a second dose of protamine is required. After 12 hours of the enoxaparin sodium injection, protamine administration may not be required. However, even with high doses of protamine, the anti-Xa activity of enoxaparin sodium is never completely neutralised (maximum about 60%) (see the prescribing information for protamine salts).
+
+## 5. PHARMACOLOGICAL PROPERTIES
+
+## 5.1 Pharmacodynamic properties
+
+Pharmacotherapeutic group: Antithrombotic agents, heparin group. ATC code: B01A B05
+
+Inhixa is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+
+## Pharmacodynamic effects
+
+Enoxaparin is a LMWH with a mean molecular weight of approximately 4,500 daltons, in which the antithrombotic and anticoagulant activities of standard heparin have been dissociated. The active substance is the sodium salt.
+
+In the in vitro purified system, enoxaparin sodium has a high anti-Xa activity (approximately 100 IU/mg) and low anti-IIa or anti thrombin activity (approximately 28 IU/mg), with a ratio of 3.6. These anticoagulant activities are mediated through anti-thrombin III (ATIII) resulting in anti-thrombotic activities in humans.
+
+Beyond its anti-Xa/IIa activity, further antithrombotic and anti-inflammatory properties of enoxaparin have been identified in healthy subjects and patients as well as in non-clinical models.
+
+These include ATIII-dependent inhibition of other coagulation factors like factor VIIa, induction of endogenous Tissue Factor Pathway Inhibitor (TFPI) release as well as a reduced release of von Willebrand factor (vWF) from the vascular endothelium into the blood circulation. These factors are known to contribute to the overall antithrombotic effect of enoxaparin sodium.
+
+When used as prophylactic treatment, enoxaparin sodium does not significantly affect the aPTT. When used as curative treatment, aPTT can be prolonged by 1.5-2.2 times the control time at peak activity.
+
+## Clinical efficacy and safety
+
+## Prevention of venous thromboembolic disease associated with surgery
+
+## Extended prophylaxis of VTE following orthopaedic surgery
+
+In a double blind study of extended prophylaxis for patients undergoing hip replacement surgery, 179 patients with no venous thromboembolic disease initially treated, while hospitalised, with enoxaparin sodium 4,000 IU (40 mg) subcutaneously, were randomised to a post-discharge regimen of either enoxaparin
+
+<div style=\"page-break-after: always\"></div>
+
+sodium 4,000 IU (40 mg) (n=90) once a day subcutaneously or to placebo (n=89) for 3 weeks. The incidence of DVT during extended prophylaxis was significantly lower for enoxaparin sodium compared to placebo, no PE was reported. No major bleeding occurred.
+
+The efficacy data are provided in the table below.
+
+|                                           | Enoxaparin sodium 4,000 IU (40 mg) once a day subcutaneously n (%)   | Placebo once a day subcutaneously n (%)   |
+|-------------------------------------------|----------------------------------------------------------------------|-------------------------------------------|
+| All treated extended prophylaxis patients | 90 (100)                                                             | 89 (100)                                  |
+| Total VTE (%)                             | 6 (6.6)                                                              | 18 (20.2)                                 |
+| Total DVT (%)                             | 6 (6.6)*                                                             | 18 (20.2)                                 |
+| Proximal DVT (%)                          | 5 (5.6) #                                                            | 7 (8.8)                                   |
 
 In a second double-blind study, 262 patients without VTE disease and undergoing hip replacement surgery initially treated, while hospitalised, with enoxaparin sodium 4,000 IU (40 mg) subcutaneously were randomised to a post-discharge regimen of either enoxaparin sodium 4,000 IU (40 mg) (n=131) once a day subcutaneously or to placebo (n=131) for 3 weeks. Similar to the first study the incidence of VTE during extended prophylaxis was significantly lower for enoxaparin sodium compared to placebo for both total VTE (enoxaparin sodium 21 [16%] versus placebo 45 [34.4%]; p=0.001) and proximal DVT (enoxaparin sodium 8 [6.1%] versus placebo 28 [21.4%]; p=&lt;0.001). No difference in major bleeding was found between the enoxaparin sodium and the placebo group.
 
@@ -10213,7 +10229,7 @@ Table. 6-month outcomes in patients completing 6-month treatment, by different r
 
 |                                              |                            | Enoxaparin all regimens    | Enoxaparin all regimens    | Enoxaparin all regimens    | Enoxaparin all regimens   | Enoxaparin all regimens          |                            |
 |----------------------------------------------|----------------------------|----------------------------|----------------------------|----------------------------|---------------------------|----------------------------------|----------------------------|
-| Outcome N (%) (95% CI)                       | Enoxapa rin all regimens   | Enoxapa rinOD              | Enoxapa rin BID            | Enoxapa rin BID to OD      | Enoxapar inOD to BID      | Enoxapar in More than one switch | EU- authorized LMWHs       |
+| Outcome N (%) (95% CI)                       | Enoxapa rin all regimens   | Enoxapa rin OD             | Enoxapa rin BID            | Enoxapa rin BID to OD      | Enoxapar inOD to BID      | Enoxapar in More than one switch | EU- authorized LMWHs       |
 |                                              | N=1432                     | N=444                      | N=529                      | N=406                      | N=14                      | N=39                             | N=428                      |
 | Recurrence of VTE                            | 70 (4.9%) (3.8%- 6.0%)     | 33 (7.4%) (5.0%- 9.9%)     | 22 (4.2%) (2.5%- 5.9%)     | 10 (2.5%) (0.9%- 4.0%)     | 1 (7.1%) (0%- 22.6%)      | 4 (10.3%) (0.3%- 20.2%)          | 23 (5.4%) (3.2%- 7.5%)     |
 | Major bleeding (fatal and non-fatal)         | 111 (7.8%) (6.4%- 9.1%)    | 31 (7.0%) (4.6%- 9.4%)     | 52 (9.8%) (7.3%- 12.4%)    | 21 (5.2%) (3.0%- 7.3%)     | 1 (7.1%) (0%- 22.6%)      | 6 (15.4%) (3.5%- 27.2%)          | 18 (4.2%) (2.3%- 6.1%)     |
@@ -10244,9 +10260,7 @@ There was a significant treatment benefit of enoxaparin sodium, as compared with
 
 The rate of the 30 day composite endpoint of death, myocardial re-infarction or intracranial haemorrhage (a measure of net clinical benefit) was significantly lower (p&lt;0.0001) in the enoxaparin sodium group (10.1%) as compared to the heparin group (12.2%), representing a 17% relative risk reduction in favour of treatment with enoxaparin sodium.
 
-The incidence of major bleeding at 30 days was significantly higher (p&lt;0.0001) in the enoxaparin sodium group (2.1%) versus the heparin group (1.4%). There was a higher incidence of gastrointestinal bleeding in the enoxaparin sodium group (0.5%) versus the heparin group (0.1%), while the incidence of intracranial haemorrhage was similar in both groups (0.8% with enoxaparin sodium versus 0.7% with heparin).
-
-The beneficial effect of enoxaparin sodium on the primary end point observed during the first 30 days was maintained over a 12 month follow-up period.
+The incidence of major bleeding at 30 days was significantly higher (p&lt;0.0001) in the enoxaparin sodium group (2.1%) versus the heparin group (1.4%). There was a higher incidence of gastrointestinal bleeding in the enoxaparin sodium group (0.5%) versus the heparin group (0.1%), while the incidence of intracranial haemorrhage was similar in both groups (0.8% with enoxaparin sodium versus 0.7% with heparin). The beneficial effect of enoxaparin sodium on the primary end point observed during the first 30 days was maintained over a 12 month follow-up period.
 
 ## Hepatic impairment
 
@@ -10264,7 +10278,7 @@ The pharmacokinetic parameters of enoxaparin sodium have been studied primarily 
 
 The absolute bioavailability of enoxaparin sodium after subcutaneous injection, based on anti-Xa activity, is close to 100%.
 
-## Different doses and formulations and dosing regimens can be used.
+Different doses and formulations and dosing regimens can be used.
 
 The mean maximum plasma anti-Xa activity level is observed 3 to 5 hours after subcutaneous injection and achieves approximately 0.2, 0.4, 1.0 and 1.3 anti-Xa IU/mL following single subcutaneous administration of 2,000 IU, 4,000 IU, 100 IU/kg and 150 IU/kg (20 mg, 40 mg, 1 mg/kg and 1.5 mg/kg) doses, respectively.
 
@@ -10356,9 +10370,7 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## After first opening
 
-Chemical and physical in-use stability has been demonstrated for 28 days at 25 °C. From a microbiological point of view, once opened, the medicinal product may be stored for a maximum of
-
-28 days below 25 °C. Other in-use storage times and conditions are the responsibility of the user.
+Chemical and physical in-use stability has been demonstrated for 28 days at 25 °C. From a microbiological point of view, once opened, the medicinal product may be stored for a maximum of 28 days below 25 °C. Other in-use storage times and conditions are the responsibility of the user.
 
 After dilution with sodium chloride 9 mg/ml (0.9%) solution for injection or 5% glucose solution for injection.
 
@@ -10386,7 +10398,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Techdow Pharma Netherlands B.V. Strawinskylaan 1143, Toren C-11 1077XX Amsterdam Netherlands
+Techdow Pharma Netherlands B.V. Zuidplein 28, Tower 1, Level 3 (Unit 5) 1077 XV Amsterdam Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -10424,8 +10436,6 @@ Shenzhen Hepalink Pharmaceutical Group Co., Ltd. No. 1 Rongtian Road, Kengzi Sub
 Name and address of the manufacturer responsible for batch release
 
 SciencePharma spółka z ograniczoną odpowiedzialnością Chełmska 30/ 34 00-725 Warsaw Poland
-
-The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -10534,9 +10544,9 @@ Do not freeze.
 
 Techdow Pharma Netherlands B.V.
 
-Strawinskylaan 1143, Toren C-11
+Zuidplein 28, Tower 1, Level 3 (Unit 5)
 
-1077XX Amsterdam
+1077 XV Amsterdam
 
 Netherlands
 
@@ -10557,8 +10567,8 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+| 15.   | INSTRUCTIONSON USE   |
+|-------|----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -10570,10 +10580,12 @@ Inhixa 2,000 IU (20 mg)/0.2 mL
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
+|-------|----------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -10694,7 +10706,7 @@ Store below 25 °C. Do not freeze.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Techdow Pharma Netherlands B.V. Strawinskylaan 1143, Toren C-11 1077XX Amsterdam Netherlands
+Techdow Pharma Netherlands B.V. Zuidplein 28, Tower 1, Level 3 (Unit 5) 1077 XV Amsterdam Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -10718,8 +10730,7 @@ Medicinal product subject to medical prescription.
 
 Inhixa 4,000 IU (40 mg)/0.4 mL
 
-| 17.   | UNIQUE IDENTIFIER - 2DBARCODE   |
-|-------|---------------------------------|
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -10729,36 +10740,21 @@ PC SN
 
 NN
 
-<div style=\"page-break-after: always\"></div>
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
-
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
-
-| 3.   | EXPIRY DATE   |
-|------|---------------|
-
-| 4.   | BATCHNUMBER   |
-|------|---------------|
-
-| 5.   | OTHER   |
-|------|---------|
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS PRE-FILLED SYRINGE
+## PRE-FILLED SYRINGE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Inhixa 4,000 IU (40 mg) /0.4 mL injection enoxaparin sodium
+Inhixa 4,000 IU (40 mg) /0.4 mL injection
 
-SC, IV and extracorporeal use
+enoxaparin sodium SC, IV and extracorporeal use
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Techdow
 
-3. EXPIRY DATE
+## 3. EXPIRY DATE
 
 4. BATCH NUMBER
 
@@ -10766,11 +10762,15 @@ Techdow
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Inhixa 4,000 IU (40 mg) /0.4 mL injection enoxaparin sodium SC, IV and extracorporeal use
+Inhixa 4,000 IU (40 mg) /0.4 mL injection
+
+enoxaparin sodium SC, IV and extracorporeal use
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -10835,9 +10835,15 @@ Water for injections.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For single use only. Read the package leaflet before use.
+For single use only.
+
+Read the package leaflet before use.
 
 <div style=\"page-break-after: always\"></div>
+
+Subcutaneous, intravenous use.
+
+Extracorporeal use (in the dialysis circuit).
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -10859,7 +10865,11 @@ Store below 25 °C. Do not freeze.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Techdow Pharma Netherlands B.V. Strawinskylaan 1143, Toren C-11 1077XX Amsterdam
+Techdow Pharma Netherlands B.V.
+
+Zuidplein 28, Tower 1, Level 3 (Unit 5)
+
+1077 XV Amsterdam
 
 Netherlands
 
@@ -10882,8 +10892,8 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+| 15.   | INSTRUCTIONSON USE   |
+|-------|----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -10895,8 +10905,8 @@ Inhixa 6,000 IU (60 mg)/0.6 mL
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
+|-------|----------------------------------------|
 
 PC SN
 
@@ -10922,9 +10932,6 @@ Techdow
 
 <div style=\"page-break-after: always\"></div>
 
-| 5.   | OTHER   |
-|------|---------|
-
 <div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE
@@ -10935,17 +10942,17 @@ Inhixa 6,000 IU (60 mg)/0.6 mL injection enoxaparin sodium SC, IV and extracorpo
 
 ## 2. METHOD OF ADMINISTRATION
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
-4. BATCH NUMBER
+## 4. BATCH NUMBER
 
 Lot
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-## 6. OTHER
+6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -10996,9 +11003,15 @@ Water for injections.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For single use only. Read the package leaflet before use.
+For single use only.
+
+Read the package leaflet before use.
 
 <div style=\"page-break-after: always\"></div>
+
+Subcutaneous, intravenous use.
+
+Extracorporeal use (in the dialysis circuit).
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -11020,7 +11033,11 @@ Store below 25 °C. Do not freeze.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Techdow Pharma Netherlands B.V. Strawinskylaan 1143, Toren C-11 1077XX Amsterdam
+Techdow Pharma Netherlands B.V.
+
+Zuidplein 28, Tower 1, Level 3 (Unit 5)
+
+1077 XV Amsterdam
 
 Netherlands
 
@@ -11044,12 +11061,11 @@ Medicinal product subject to medical prescription.
 
 ## 15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Inhixa 8,000 IU (80 mg)/0.8 mL
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -11079,9 +11095,6 @@ Techdow
 
 <div style=\"page-break-after: always\"></div>
 
-| 5.   | OTHER   |
-|------|---------|
-
 <div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE
@@ -11092,7 +11105,7 @@ Inhixa 8,000 IU (80 mg)/0.8 mL injection enoxaparin sodium SC, IV and extracorpo
 
 ## 2. METHOD OF ADMINISTRATION
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -11102,7 +11115,7 @@ Lot
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-## 6. OTHER
+6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -11158,7 +11171,11 @@ For single use only.
 
 <div style=\"page-break-after: always\"></div>
 
-Read the package leaflet before use. Subcutaneous, intravenous use. Extracorporeal use (in the dialysis circuit).
+Read the package leaflet before use.
+
+Subcutaneous, intravenous use.
+
+Extracorporeal use (in the dialysis circuit).
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -11184,9 +11201,9 @@ Do not freeze.
 
 Techdow Pharma Netherlands B.V.
 
-Strawinskylaan 1143, Toren C-11
+Zuidplein 28, Tower 1, Level 3 (Unit 5)
 
-1077XX Amsterdam
+1077 XV Amsterdam
 
 Netherlands
 
@@ -11210,8 +11227,8 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+| 15.   | INSTRUCTIONSON USE   |
+|-------|----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -11223,8 +11240,8 @@ Inhixa 10,000 IU (100 mg)/1 mL
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
+|-------|----------------------------------------|
 
 PC SN
 
@@ -11254,7 +11271,9 @@ Techdow
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Inhixa 10,000 IU (100 mg) /1 mL injection enoxaparin sodium SC, IV and extracorporeal use
+Inhixa 10,000 IU (100 mg) /1 mL injection
+
+enoxaparin sodium SC, IV and extracorporeal use
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -11336,9 +11355,9 @@ Do not freeze.
 
 Techdow Pharma Netherlands B.V.
 
-Strawinskylaan 1143, Toren C-11
+Zuidplein 28, Tower 1, Level 3 (Unit 5)
 
-1077XX Amsterdam
+1077 XV Amsterdam
 
 Netherlands
 
@@ -11368,7 +11387,7 @@ Medicinal product subject to medical prescription.
 
 Inhixa 12,000 IU (120 mg)/0.8 mL
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -11377,8 +11396,6 @@ Inhixa 12,000 IU (120 mg)/0.8 mL
 PC
 
 SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -11422,7 +11439,7 @@ Lot
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-## 6. OTHER
+6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -11446,8 +11463,7 @@ Water for injections.
 
 ## Solution for injection
 
-2 pre-filled syringes
-
+- 2 pre-filled syringes
 - 10 pre-filled syringes
 - 30 pre-filled syringes
 - 10 pre-filled syringes with needle guard
@@ -11489,9 +11505,9 @@ Do not freeze.
 
 Techdow Pharma Netherlands B.V.
 
-Strawinskylaan 1143, Toren C-11
+Zuidplein 28, Tower 1, Level 3 (Unit 5)
 
-1077XX Amsterdam
+1077 XV Amsterdam
 
 Netherlands
 
@@ -11521,7 +11537,7 @@ Medicinal product subject to medical prescription.
 
 Inhixa 15,000 IU (150 mg)/ mL
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -11559,9 +11575,7 @@ Techdow
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Inhixa 15,000 IU (150 mg)/1 mL injection enoxaparin sodium
-
-SC, IV and extracorporeal use
+Inhixa 15,000 IU (150 mg)/1 mL injection enoxaparin sodium SC, IV and extracorporeal use
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -11575,7 +11589,7 @@ Lot
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-## 6. OTHER
+6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -11635,7 +11649,7 @@ Do not freeze.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Techdow Pharma Netherlands B.V. Strawinskylaan 1143, Toren C-11 1077XX Amsterdam Netherlands
+Techdow Pharma Netherlands B.V. Zuidplein 28, Tower 1, Level 3 (Unit 5) 1077 XV Amsterdam Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -11669,13 +11683,13 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS MULTIPLE DOSE CONTAINER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Inhixa 30,000 IU (300 mg)/3 mL solution for injection in multidose container enoxaparin sodium SC, IV and extracorporeal use
+Inhixa 30,000 IU (300 mg)/3 mL solution for injection in multidose container enoxaparin sodium
+
+SC, IV and extracorporeal use
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -11690,6 +11704,8 @@ Lot
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 6. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -11741,13 +11757,15 @@ The contents of the multidose vial should be used within 28 days of opening.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 25 °C. Do not freeze.
+Store below 25 °C.
+
+Do not freeze.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Techdow Pharma Netherlands B.V. Strawinskylaan 1143, Toren C-11 1077XX Amsterdam Netherlands
+Techdow Pharma Netherlands B.V. Zuidplein 28, Tower 1, Level 3 (Unit 5) 1077 XV Amsterdam Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -11781,8 +11799,6 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS MULTIPLE DOSE CONTAINER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
@@ -11802,6 +11818,8 @@ Lot
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 6. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -11825,7 +11843,7 @@ Benzyl alcohol (see leaflet for further information) Water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 1 vial
 
@@ -11851,8 +11869,6 @@ EXP
 
 The contents of the multidose vial should be used within 28 days of opening.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store below 25 °C.
@@ -11865,9 +11881,9 @@ Do not freeze.
 
 Techdow Pharma Netherlands B.V.
 
-Strawinskylaan 1143, Toren C-11
+Zuidplein 28, Tower 1, Level 3 (Unit 5)
 
-1077XX Amsterdam
+1077 XV Amsterdam
 
 Netherlands
 
@@ -11905,11 +11921,15 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS MULTIPLE DOSE CONTAINER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Inhixa 100,000 IU (1000 mg)/10 mL solution for injection in multidose container enoxaparin sodium SC, IV and extracorporeal use
+Inhixa 100,000 IU (1000 mg)/10 mL solution for injection in multidose container enoxaparin sodium
+
+SC, IV and extracorporeal use
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -11934,10 +11954,10 @@ Lot
 <div style=\"page-break-after: always\"></div>
 
 ```
-Inhixa 2,000 IU (20 mg)/0.2 mL solution for injection Inhixa 4,000 IU (40 mg)/0.4 mL solution for injection Inhixa 6,000 IU (60 mg)/0.6 mL solution for injection Inhixa 8,000 IU (80 mg)/0.8 mL solution for injection Inhixa 10,000 IU (100 mg)/1 mL solution for injection
+Inhixa 2,000 IU (20 mg)/0.2 mL solution for injection Inhixa 4,000 IU (40 mg)/0.4 mL solution for injection Inhixa 6,000 IU (60 mg)/0.6 mL solution for injection Inhixa 8,000 IU (80 mg)/0.8 mL solution for injection
 ```
 
-enoxaparin sodium
+Inhixa 10,000 IU (100 mg)/1 mL solution for injection enoxaparin sodium
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -12008,7 +12028,7 @@ Inhixa should not be used interchangeably with other medicines belonging to the 
 - you have liver problems
 - you are underweight or overweight
 - you have high level of potassium in your blood (this may be checked with a blood test)
-- you are currently using medicines which affect bleeding (see section below - Other medicines and Inhixa).
+- you are currently using medicines which affect bleeding (see section below -Other medicines and Inhixa).
 
 You may have a blood test before you start using this medicine and at intervals while you are using it; this is to check the level of the clotting cells (platelets) and potassium in your blood.
 
@@ -12020,9 +12040,9 @@ The safety and efficacy of Inhixa has not been evaluated in children or adolesce
 
 Tell your doctor, pharmacist or nurse if you are taking, have recently taken or might take any other medicines.
 
-- Warfarin - another anticoagulant medicine used for thinning the blood
+- Warfarin -another anticoagulant medicine used for thinning the blood
 - Acetylsalicylic acid (also known as aspirin or ASA), clopidogrel or other medicines used to stop blood clots from forming (see also in section 3, 'Changing anticoagulant medicine')
-- Dextran injection - used as a blood replacer
+- Dextran injection -used as a blood replacer
 - Ibuprofen, diclofenac, ketorolac or other medicines known as non-steroidal anti-inflammatory agents which are used to treat pain and swelling in arthritis and other conditions
 - Prednisolone, dexamethasone or other medicines used to treat asthma, rheumatoid arthritis and other conditions
 - Medicines which increase potassium level in your blood such as potassium salts, water pills, some medicines for heart problems.
@@ -12051,7 +12071,7 @@ It is important to keep a record of the batch number of your Inhixa. So, every t
 
 ## Inhixa contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## 3. How to use Inhixa
 
@@ -12078,7 +12098,7 @@ Do not inject Inhixa into a muscle.
 - Your doctor will decide how long you should receive Inhixa.
 2. Stopping blood clots forming in your blood in the following situations:
 
-##  Operation or periods of limited mobility due to an illness
+## ❖ Operation or periods of limited mobility due to an illness
 
 - The dose will depend on how likely you are to develop a clot. You will be given 2,000 IU (20 mg) or 4,000 IU (40 mg) of Inhixa each day.
 
@@ -12088,7 +12108,7 @@ Do not inject Inhixa into a muscle.
 - If you have restricted mobility due to illness, you will normally be given 4,000 IU (40 mg) of Inhixa each day.
 - Your doctor will decide how long you should receive Inhixa.
 
-##  After you have had a heart attack
+## ❖ After you have had a heart attack
 
 Inhixa can be used for two different types of heart attack called STEMI (ST segment elevation myocardial infarction) or non-STEMI (NSTEMI). The amount of Inhixa given to you will depend on your age and the kind of heart attack you have had.
 
@@ -12211,7 +12231,7 @@ Do not press on the plunger to remove the air bubble before injecting. The air b
 
 - 6) Hold the syringe in the hand you write with (like a pencil) and with your other hand, gently pinch the cleaned area of your abdomen between your forefinger and thumb to make a fold in the skin.
 
-## Make sure you hold the skin fold throughout the injection.
+Make sure you hold the skin fold throughout the injection.
 
 - 7) Hold the syringe so that the needle is pointing downwards (vertically at a 90 º angle). Insert the full length of the needle into the skin fold.
 - 8) Press down on the plunger with your thumb. This will inject the medicine into the fatty tissue of the abdomen. Make sure you hold the skin fold throughout the injection.
@@ -12328,7 +12348,7 @@ Do not press on the plunger to remove the air bubble before injecting. The air b
 
 - 6) Hold the syringe in the hand you write with (like a pencil) and with your other hand, gently pinch the cleaned area of your abdomen between your forefinger and thumb to make a fold in the skin.
 
-## Make sure you hold the skin fold throughout the injection.
+Make sure you hold the skin fold throughout the injection.
 
 - 7) Hold the syringe so that the needle is pointing downwards (vertically at a 90 º angle). Insert the full length of the needle into the skin fold.
 
@@ -12393,11 +12413,11 @@ Stop using enoxaparin and seek medical attention immediately if you notice any o
 ## You should tell your doctor straight away
 
 - If you have any sign of blockage of a blood vessel by a blood clot such as:
-- -cramping pain, redness, warmth, or swelling in one of your legs - these are symptoms of deep vein thrombosis
+- -cramping pain, redness, warmth, or swelling in one of your legs -these are symptoms of deep vein thrombosis
 
 <div style=\"page-break-after: always\"></div>
 
-- -breathlessness, chest pain, fainting or coughing up blood - these are symptoms of a pulmonary embolism
+- -breathlessness, chest pain, fainting or coughing up blood -these are symptoms of a pulmonary embolism
 - If you have a painful rash of dark red spots under the skin which do not go away when you put pressure on them.
 
 Your doctor may ask you to have performed a blood test to check your platelet count.
@@ -12479,7 +12499,9 @@ Each pre-filled syringe of 0.8 mL contains 8,000 IU (80 mg) of enoxaparin sodium
 
 Each pre-filled syringe of 1 mL contains 10,000 IU (100 mg) of enoxaparin sodium.
 
-- -The other ingredient is water for injections.
+- -
+
+The other ingredient is water for injections.
 
 ## What Inhixa looks like and contents of the pack
 
@@ -12549,7 +12571,9 @@ Inhixa 6,000 IU (60 mg)/0.6 mL is 0.6 mL of solution in:
 
 ## Marketing Authorisation Holder
 
-Techdow Pharma Netherlands B.V. Strawinskylaan 1143, Toren C-11 1077XX Amsterdam Netherlands
+Techdow Pharma Netherlands B.V. Zuidplein 28, Tower 1, Level 3 (Unit 5) 1077 XV Amsterdam
+
+Netherlands
 
 ## Manufacturer
 
@@ -12762,7 +12786,7 @@ Inhixa should not be used interchangeably with other medicines belonging to the 
 - you have liver problems
 - you are underweight or overweight
 - you have high level of potassium in your blood (this may be checked with a blood test)
-- you are currently using medicines which affect bleeding (see section below - Other medicines and Inhixa).
+- you are currently using medicines which affect bleeding (see section below -Other medicines and Inhixa).
 
 You may have a blood test before you start using this medicine and at intervals while you are using it; this is to check the level of the clotting cells (platelets) and potassium in your blood.
 
@@ -12774,9 +12798,9 @@ The safety and efficacy of Inhixa has not been evaluated in children or adolesce
 
 Tell your doctor, pharmacist or nurse if you are taking, have recently taken or might take any other medicines.
 
-- Warfarin - another anticoagulant medicine used for thinning the blood
+- Warfarin -another anticoagulant medicine used for thinning the blood
 - Acetylsalicylic acid (also known as aspirin or ASA), clopidogrel or other medicines used to stop blood clots from forming (see also in section 3, 'Changing anticoagulant medicine')
-- Dextran injection - used as a blood replacer
+- Dextran injection -used as a blood replacer
 - Ibuprofen, diclofenac, ketorolac or other medicines known as non-steroidal anti-inflammatory agents which are used to treat pain and swelling in arthritis and other conditions
 - Prednisolone, dexamethasone or other medicines used to treat asthma, rheumatoid arthritis and other conditions
 - Medicines which increase potassium level in your blood such as potassium salts, water pills, some medicines for heart problems.
@@ -12805,7 +12829,7 @@ It is important to keep a record of the batch number of your Inhixa. So, every t
 
 ## Inhixa contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## 3. How to use Inhixa
 
@@ -12827,7 +12851,7 @@ Always use this medicine exactly as your doctor or pharmacist has told you. Chec
 - The usual dose is 150 IU (1.5 mg) for every kilogram of your weight once daily or 100 IU (1 mg) for every kilogram of your weight twice a day.
 - Your doctor will decide how long you should receive Inhixa.
 2. Stopping blood clots forming in your blood in the following situations:
--  Operation or periods of limited mobility due to an illness
+- ❖ Operation or periods of limited mobility due to an illness
 - The dose will depend on how likely you are to develop a clot. You will be given 2,000 IU (20 mg) or 4,000 IU (40 mg) of Inhixa each day.
 
 <div style=\"page-break-after: always\"></div>
@@ -12836,7 +12860,7 @@ Always use this medicine exactly as your doctor or pharmacist has told you. Chec
 - If you have restricted mobility due to illness, you will normally be given 4,000 IU (40 mg) of Inhixa each day.
 - Your doctor will decide how long you should receive Inhixa.
 
-##  After you have had a heart attack
+## ❖ After you have had a heart attack
 
 Inhixa can be used for two different types of heart attack called STEMI (ST segment elevation myocardial infarction) or non-STEMI (NSTEMI). The amount of Inhixa given to you will depend on your age and the kind of heart attack you have had.
 
@@ -12972,13 +12996,13 @@ To avoid bruising, do not rub the injection site after you have injected yoursel
 
 - 10) Push hard the plunger. The needle guard, which is in the form of a plastic cylinder, will be activated automatically and it will completely cover the needle.
 
-\"CLICK\"
+\"CLICK
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-## 11) Drop the used syringe into the sharps container. Close the container lid tightly and place the container out of reach of children.
+- 11) Drop the used syringe into the sharps container. Close the container lid tightly and place the container out of reach of children.
 
 ## When the container is full, dispose of it as your doctor or pharmacist has instructed. Do not put it in the household rubbish.
 
@@ -13019,11 +13043,11 @@ Stop using enoxaparin and seek medical attention immediately if you notice any o
 
 - A red, scaly widespread rash with bumps under the skin and blisters accompanied by fever. The symptoms usually appear at the initiation of treatment (acute generalised exanthematous pustulosis).
 
-## You should tell your doctor straight away
+You should tell your doctor straight away
 
 - If you have any sign of blockage of a blood vessel by a blood clot such as:
-- -cramping pain, redness, warmth, or swelling in one of your legs - these are symptoms of deep vein thrombosis
-- -breathlessness, chest pain, fainting or coughing up blood - these are symptoms of a pulmonary embolism
+- -cramping pain, redness, warmth, or swelling in one of your legs -these are symptoms of deep vein thrombosis
+- -breathlessness, chest pain, fainting or coughing up blood -these are symptoms of a pulmonary embolism
 - If you have a painful rash of dark red spots under the skin which do not go away when you put pressure on them.
 
 Your doctor may ask you to have performed a blood test to check your platelet count.
@@ -13046,7 +13070,7 @@ Very common (may affect more than 1 in 10 people)
 - High platelet counts in the blood.
 - Headache.
 
-## Uncommon (may affect up to 1 in 100 people)
+Uncommon (may affect up to 1 in 100 people)
 
 - Sudden severe headache. This could be a sign of bleeding in the brain.
 - A feeling of tenderness and swelling in your stomach. You may have bleeding in your stomach.
@@ -13054,7 +13078,7 @@ Very common (may affect more than 1 in 10 people)
 - Skin irritation (local irritation).
 - Yellowing of your skin or eyes and your urine becoming darker. These may be signs of a liver problem.
 
-## Rare (may affect up to 1 in 1,000 people)
+Rare (may affect up to 1 in 1,000 people)
 
 - Severe allergic reaction. The signs may include: a rash, swallowing or breathing problems, swelling of your lips, face, throat or tongue.
 - Increased potassium in your blood. This is more likely to happen in people with kidney problems or diabetes. Your doctor will be able to check this by carrying out a blood test.
@@ -13083,9 +13107,7 @@ After dilution the solution should be used within 8 hours.
 
 Do not use this medicine if you notice any visible change in the appearance of the solution.
 
-The Inhixa pre-filled syringes are for single dose use only. Discard any unused medicine.
-
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+The Inhixa pre-filled syringes are for single dose use only. Discard any unused medicine. Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
 
@@ -13106,21 +13128,22 @@ Inhixa 12,000 IU (120 mg)/0.8 mL is 0.8 mL of solution in:
 - -2, 10 and 30 pre-filled syringes,
 - -10 and 30 pre-filled syringes with needle guard.
 
-## Inhixa 15,000 IU (150 mg)/1 mL is 1 mL of solution in:
+Inhixa 15,000 IU (150 mg)/1 mL is 1 mL of solution in:
 
 - -a clear, colourless type I neutral glass syringe barrel with fixed needle and needle shield closed by chlorobutyl rubber stopper and a dark blue polypropylene plunger rod. The syringe can be additionally equipped with needle guard.
 
 ## Supplied in packs of:
 
 - -2, 10 and 30 pre-filled syringes,
+- -10 and 30 pre-filled syringes with needle guard.
 
 Not all pack sizes may be marketed.
 
-- -10 and 30 pre-filled syringes with needle guard.
-
 ## Marketing Authorisation Holder
 
-Techdow Pharma Netherlands B.V. Strawinskylaan 1143, Toren C-11 1077XX Amsterdam Netherlands
+Techdow Pharma Netherlands B.V. Zuidplein 28, Tower 1, Level 3 (Unit 5) 1077 XV Amsterdam
+
+Netherlands
 
 ## Manufacturer
 
@@ -13166,7 +13189,9 @@ TECHDOW PHARMA SPAIN, S.L. Tel: +34 91 123 21 16
 
 ## France
 
-Viatris Santé +33 4 37 25 75 00
+Viatris Santé
+
++33 4 37 25 75 00
 
 ## Hrvatska
 
@@ -13206,7 +13231,9 @@ Techdow Pharma Netherlands B.V. +4721569855
 
 ## Österreich
 
-Techdow Pharma Netherlands B.V. +43720230772
+Techdow Pharma Netherlands B.V.
+
++43720230772
 
 ## Polska
 
@@ -13334,7 +13361,7 @@ Inhixa should not be used interchangeably with other medicines belonging to the 
 - you have liver problems
 - you are underweight or overweight
 - you have high level of potassium in your blood (this may be checked with a blood test)
-- you are currently using medicines which affect bleeding (see section below - Other medicines and Inhixa).
+- you are currently using medicines which affect bleeding (see section below -Other medicines and Inhixa).
 
 You may have a blood test before you start using this medicine and at intervals while you are using it; this is to check the level of the clotting cells (platelets) and potassium in your blood.
 
@@ -13346,9 +13373,9 @@ The safety and efficacy of Inhixa has not been evaluated in children or adolesce
 
 Tell your doctor, pharmacist or nurse if you are taking, have recently taken or might take any other medicines.
 
-- Warfarin - another anticoagulant medicine used for thinning the blood
+- Warfarin -another anticoagulant medicine used for thinning the blood
 - Acetylsalicylic acid (also known as aspirin or ASA), clopidogrel or other medicines used to stop blood clots from forming (see also in section 3, 'Changing anticoagulant medicine')
-- Dextran injection - used as a blood replacer
+- Dextran injection -used as a blood replacer
 - Ibuprofen, diclofenac, ketorolac or other medicines known as non-steroidal anti-inflammatory agents which are used to treat pain and swelling in arthritis and other conditions
 - Prednisolone, dexamethasone or other medicines used to treat asthma, rheumatoid arthritis and other conditions
 - Medicines which increase potassium level in your blood such as potassium salts, water pills, some medicines for heart problems.
@@ -13377,7 +13404,7 @@ It is important to keep a record of the batch number of your Inhixa. So, every t
 
 ## Inhixa contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose within the recommended dose range, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose within the recommended dose range, that is to say essentially 'sodium -free'.
 
 ## Inhixa contains benzyl alcohol
 
@@ -13413,13 +13440,13 @@ Always use this medicine exactly as your doctor or pharmacist has told you. Chec
 - The usual dose is 150 IU (1.5 mg) for every kilogram of your weight once daily or 100 IU (1 mg) for every kilogram of your weight twice a day.
 - Your doctor will decide how long you should receive Inhixa.
 2. Stopping blood clots forming in your blood in the following situations:
--  Operation or periods of limited mobility due to an illness
+- ❖ Operation or periods of limited mobility due to an illness
 - The dose will depend on how likely you are to develop a clot. You will be given 2,000 IU (20 mg) or 4,000 IU (40 mg) of Inhixa each day.
 - If you are going to have an operation your first injection will be usually given 2 hours or 12 hours before your operation.
 - If you have restricted mobility due to illness, you will normally be given 4,000 IU (40 mg) of Inhixa each day.
 - Your doctor will decide how long you should receive Inhixa.
 
-##  After you have had a heart attack
+## ❖ After you have had a heart attack
 
 Inhixa can be used for two different types of heart attack called STEMI (ST segment elevation myocardial infarction) or non-STEMI (NSTEMI). The amount of Inhixa given to you will depend on your age and the kind of heart attack you have had.
 
@@ -13429,14 +13456,14 @@ Inhixa can be used for two different types of heart attack called STEMI (ST segm
 - Your doctor will normally ask you to take acetylsalicylic acid (aspirin) as well.
 - Your doctor will decide how long you should receive Inhixa.
 
-## STEMI type of heart attack if you are under 75 years old:
+STEMI type of heart attack if you are under 75 years old:
 
 - An initial dose of 3,000 IU (30 mg) of Inhixa will be given as injection into your vein.
 - At the same time you will also be given Inhixa as an injection underneath your skin (subcutaneous injection). The usual dose is 100 IU (1 mg) for every kilogram of your weight, every 12 hours.
 - Your doctor will normally ask you to take acetylsalicylic acid (aspirin) as well.
 - Your doctor will decide how long you should receive Inhixa.
 
-## STEMI type of heart attack if you are 75 years old or older:
+STEMI type of heart attack if you are 75 years old or older:
 
 - The usual dose is 75 IU (0.75 mg) for every kilogram of your weight, every 12 hours.
 - The maximum amount of Inhixa given for the first two injections is 7,500 IU (75 mg).
@@ -13465,9 +13492,7 @@ Your doctor will ask you to have performed blood tests called INR and tell you w
 
 Stop taking Inhixa. Start taking the direct oral anticoagulant 0-2 hours before the time you would have had the next Inhixa injection, then continue as normal.
 
-- -
-
-## Changing from treatment with direct oral anticoagulant to Inhixa
+## -Changing from treatment with direct oral anticoagulant to Inhixa
 
 Stop taking direct oral anticoagulant. Do not start treatment with Inhixa until 12 hours after the final dose of direct oral anticoagulant.
 
@@ -13502,8 +13527,8 @@ Stop using enoxaparin and seek medical attention immediately if you notice any o
 You should tell your doctor straight away
 
 - If you have any sign of blockage of a blood vessel by a blood clot such as:
-- -cramping pain, redness, warmth, or swelling in one of your legs - these are symptoms of deep vein thrombosis
-- -breathlessness, chest pain, fainting or coughing up blood - these are symptoms of a pulmonary embolism
+- -cramping pain, redness, warmth, or swelling in one of your legs -these are symptoms of deep vein thrombosis
+- -breathlessness, chest pain, fainting or coughing up blood -these are symptoms of a pulmonary embolism
 
 <div style=\"page-break-after: always\"></div>
 
@@ -13537,7 +13562,7 @@ Very common (may affect more than 1 in 10 people)
 - Skin irritation (local irritation).
 - Yellowing of your skin or eyes and your urine becoming darker. These may be signs of a liver problem.
 
-## Rare (may affect up to 1 in 1,000 people)
+Rare (may affect up to 1 in 1,000 people)
 
 - Severe allergic reaction. The signs may include: a rash, swallowing or breathing problems, swelling of your lips, face, throat or tongue.
 - Increased potassium in your blood. This is more likely to happen in people with kidney problems or diabetes. Your doctor will be able to check this by carrying out a blood test.
@@ -13564,9 +13589,7 @@ Store below 25 °C. Do not freeze.
 
 ## After first opening
 
-Chemical and physical in-use stability has been demonstrated for 28 days at 25 °C.
-
-From a microbiological point of view, once opened, the medicine may be stored for a maximum of 28 days below 25 °C. Other in-use storage times and conditions are the responsibility of the user.
+Chemical and physical in-use stability has been demonstrated for 28 days at 25 °C. From a microbiological point of view, once opened, the medicine may be stored for a maximum of 28 days below 25 °C. Other in-use storage times and conditions are the responsibility of the user.
 
 After dilution with sodium chloride 9 mg/ml (0.9%) solution for infusion or 5% glucose solution for injection
 
@@ -13605,7 +13628,7 @@ Supplied in packs of 1 and 5 vials. Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Techdow Pharma Netherlands B.V. Strawinskylaan 1143, Toren C-11 1077XX Amsterdam Netherlands
+Techdow Pharma Netherlands B.V. Zuidplein 28, Tower 1, Level 3 (Unit 5) 1077 XV Amsterdam Netherlands
 
 <div style=\"page-break-after: always\"></div>
 
@@ -13673,9 +13696,7 @@ Techdow Pharma Netherlands B.V. +49 (0)30 220 13 6906
 
 ## Magyarország
 
-Techdow Pharma Netherlands B.V.
-
-+3618001930
+Techdow Pharma Netherlands B.V. +3618001930
 
 ## Malta
 
@@ -13699,7 +13720,9 @@ Techdow Pharma Netherlands B.V. +49 (0)30 220 13 6906
 
 ## Portugal
 
-Laboratórios Atral, S.A. +351308801067
+Laboratórios Atral, S.A.
+
++351308801067
 
 ## România
 
@@ -13717,25 +13740,15 @@ Techdow Pharma Netherlands B.V.
 
 +49 (0)30 220 13 6906
 
-+421233331071
-
 ## Italia
 
 Techdow Pharma Italy S.R.L.
 
 Tel: +39 0256569157
 
-## Suomi/Finland
-
-Techdow Pharma Netherlands B.V. +358942733040
-
 ## Κύπρος
 
 MA Pharmaceuticals Trading Ltd +357 25 587112
-
-## Sverige
-
-Techdow Pharma Netherlands B.V. +46184445720
 
 ## Latvija
 
@@ -13746,3 +13759,13 @@ Techdow Pharma Netherlands B.V. +37125892152
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
++421233331071
+
+## Suomi/Finland
+
+Techdow Pharma Netherlands B.V. +358942733040
+
+## Sverige
+
+Techdow Pharma Netherlands B.V. +46184445720

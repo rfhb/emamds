@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-08-04 16:38:34
+document_datetime: 2026-03-11 12:10:30
 document_pages: 107
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vitrakvi-epar-product-information_en.pdf
 document_name: vitrakvi-epar-product-information_en.pdf
 version: success
-processing_time: 34.156775
-conversion_datetime: 2025-12-21 23:28:50.539058
+processing_time: 37.7527816
+conversion_datetime: 2026-03-13 18:38:17.682445
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,9 +28,7 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-VITRAKVI 25 mg hard capsules
-
-VITRAKVI 100 mg hard capsules
+VITRAKVI 25 mg hard capsules VITRAKVI 100 mg hard capsules
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -83,6 +81,8 @@ The recommended dose in adults is 100 mg larotrectinib twice daily, until diseas
 
 Dosing in paediatric patients is based on body surface area (BSA). The recommended dose in paediatric patients is 100 mg/m 2 larotrectinib twice daily with a maximum of 100 mg per dose until disease progression or until unacceptable toxicity occurs.
 
+For paediatric patients from birth to less than 3 months the recommended starting dose is 50 mg/m 2 twice daily (see section 5.2).
+
 ## Missed dose
 
 If a dose is missed, the patient should not take two doses at the same time to make up for a missed dose. Patients should take the next dose at the next scheduled time. If the patient vomits after taking a dose, the patient should not take an additional dose to make up for vomiting.
@@ -100,13 +100,11 @@ The recommended dose modifications for VITRAKVI for adverse reactions are provid
 
 Table 1: Recommended dose modifications for VITRAKVI for adverse reactions
 
-| Dose modification   | Adult and paediatric patients with body surface area of at least 1.0m 2   | Paediatric patients with body surface area less than 1.0m 2   |
-|---------------------|---------------------------------------------------------------------------|---------------------------------------------------------------|
-| First               | 75 mg twice daily                                                         | 75 mg/m 2 twice daily                                         |
-| Second              | 50 mg twice daily                                                         | 50 mg/m 2 twice daily                                         |
-| Third               | 100 mg once daily                                                         | 25 mg/m 2 twice daily a                                       |
-
-a Paediatric patients on 25 mg/m² twice daily should remain on this dose even if body surface area becomes greater 1.0 m² during the treatment. Maximum dose should be 25 mg/m² twice daily at the third dose modification.
+| Dose modification   | Adult and paediatric patients with body surface area of at least 1.0m 2   | Paediatric patients aged 3 months or older with body surface area less than 1.0m 2   | Paediatric patients aged less than 3 months   |
+|---------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------|
+| First               | 75 mg twice daily                                                         | 75 mg/m 2 twice daily                                                                | 25 mg/m 2 twice daily                         |
+| 50 mg twice         | daily                                                                     | 50 mg/m 2 twice daily                                                                | Second -                                      |
+| Third               | 100 mg once daily                                                         | 25 mg/m 2 twice daily a                                                              | -                                             |
 
 VITRAKVI should be permanently discontinued in patients who are unable to tolerate VITRAKVI after three dose modifications.
 
@@ -204,7 +202,7 @@ Larotrectinib is a substrate of cytochrome P450 (CYP) 3A, P-glycoprotein (P-gp) 
 
 Co-administration of VITRAKVI with strong or moderate CYP3A inducers and strong P-gp inducers (e.g. carbamazepine, phenobarbital, phenytoin, rifabutin, rifampicin, or St. John's Wort) may decrease larotrectinib plasma concentrations and should be avoided (see section 4.4).
 
-Clinical data in healthy adult subjects indicate that co-administration of a single 100 mg VITRAKVI dose with rifampicin (a strong CYP3A and P-gp inducer) 600 mg once daily for 11 days decreased larotrectinib Cmax and AUC by 71% and 81%, respectively. No clinical data is available on the effect of a moderate inducer, but a decrease in larotrectinib exposure is expected.
+Clinical data in healthy adult subjects indicate that co-administration of a single 100 mg VITRAKVI larotrectinib Cmax and AUC by 71% and 81%, respectively. No clinical data is available on the effect dose with rifampicin (a strong CYP3A and P-gp inducer) 600 mg once daily for 11 days decreased of a moderate inducer, but a decrease in larotrectinib exposure is expected.
 
 ## Effects of larotrectinib on other agents
 
@@ -282,7 +280,9 @@ The safety of VITRAKVI was evaluated in 361 patients with TRK fusion-positive ca
 
 The adverse drug reactions reported in patients (n=361) treated with VITRAKVI are shown in Table 3 and Table 4.
 
-The adverse drug reactions are classified according to the System Organ Class. Frequency groups are defined by the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000), and not known (cannot be estimated from available data).
+The adverse drug reactions are classified according to the System Organ Class.
+
+Frequency groups are defined by the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000), and not known (cannot be estimated from available data).
 
 Within each frequency group, undesirable effects are presented in order of decreasing seriousness.
 
@@ -310,14 +310,6 @@ Table 3: Adverse drug reactions reported in TRK fusion-positive cancer patients 
 | Investigations                                       | Very common | Alanine aminotransferase (ALT) increased Aspartate aminotransferase (AST) increased Weight increased (Abnormal weight gain) |                                                                                                                                 |
 |                                                      | Common      | Blood alkaline phosphatase increased                                                                                        | Alanine aminotransferase (ALT) increased a Aspartate aminotransferase (AST) increased a Weight increased (Abnormal weight gain) |
 |                                                      | Uncommon    |                                                                                                                             | Blood alkaline phosphatase increased a, b                                                                                       |
-
-a grade 4 reactions were reported
-
-b   each grade frequency was less than &lt;1%
-
-c   ADR dysgeusia includes the preferred terms 'dysgeusia' and 'taste disorder'
-
-d   includes cases with ALT/AST ≥3x ULN and bilirubin ≥2x ULN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -452,14 +444,6 @@ Table 6: Pooled efficacy results in solid tumours including and excluding primar
 | Time to first response (median, months) [range]                                                                                                           | 1.84 [0.89, 22.90]                                                  | 1.84 [0.89, 49.87]                                                     |
 | Duration of response (median, months) [range] %with duration ≥ 12 months %with duration ≥ 24 months %with duration ≥ 36 months %with duration ≥ 48 months | 43.3 [0.0+,84.7+] 80% 66% 57% 48%                                   | 43.3 [0.0+, 84.7+] 79% 65% 54% 47%                                     |
 
-+ denotes ongoing
-
-a Independent review committee analysis by RECIST v1.1 for solid tumours except primary CNS tumours (304 patients).
-
-b Evaluated using either RANO or RECIST v1.1 criteria for primary CNS tumours (60 patients).
-
-c A pathological CR was a CR achieved by patients who were treated with larotrectinib and subsequently underwent surgical resection with no viable tumour cells and negative margins on post-surgical pathology evaluation. The pre-surgical best response for these patients was reclassified pathological CR after surgery following RECIST v.1.1.
-
 <div style=\"page-break-after: always\"></div>
 
 Table 7: Overall response rate and duration of response by tumour type *
@@ -592,11 +576,7 @@ Table 8: Exposure (Cmax and AUC a ) in patients grouped by age group at the reco
 | 12 to < 18 years | 32        | 0.9                                                        | 0.8                                                        |
 | ≥ 18 years       | 285       | 1.0                                                        | 1.0                                                        |
 
-a area under the plasma concentration-time curve at steady-state
-
-b   number of patients from 23 September 2024 data cut-off
-
-c fold difference is the ratio of stated age group to ≥18 years group. A fold-difference of 1 equates to no difference.
+Simulations have shown that the dose of 50 mg/m 2 BID in patients aged less than 3 months results in exposures comparable to patients aged 3 months to less than 2 years at a dose of 100 mg/m 2 BID, without the exposure metrics (Cmax, AUC, Ctrough) falling below the simulated exposure in patients aged 3 months to less than 2 years. There is no clinical data with a dose of 50 mg/m 2 BID in patients aged less than 3 months.
 
 ## Elderly
 
@@ -688,11 +668,13 @@ MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/19/1385/001 - VITRAKVI 25 mg EU/1/19/1385/002 - VITRAKVI 100 mg
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 19 September 2019
 
-Date of latest renewal: 22 July 2024
+Date of latest renewal: 18 July 2025
 
 10.
 
@@ -749,11 +731,13 @@ The presence of an NTRK gene fusion in a tumour specimen should be confirmed by 
 
 The recommended dose in adults is 100 mg larotrectinib twice daily, until disease progression or until unacceptable toxicity occurs.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric population
 
 Dosing in paediatric patients is based on body surface area (BSA). The recommended dose in paediatric patients is 100 mg/m 2 larotrectinib twice daily with a maximum of 100 mg per dose until disease progression or until unacceptable toxicity occurs.
 
-<div style=\"page-break-after: always\"></div>
+For paediatric patients from birth to less than 3 months the recommended starting dose is 50 mg/m 2 twice daily (see section 5.2).
 
 ## Missed dose
 
@@ -772,13 +756,11 @@ The recommended dose modifications for VITRAKVI for adverse reactions are provid
 
 Table 1: Recommended dose modifications for VITRAKVI for adverse reactions
 
-| Dose modification   | Adult and paediatric patients with body surface area of at least 1.0m 2   | Paediatric patients with body surface area less than 1.0m 2   |
-|---------------------|---------------------------------------------------------------------------|---------------------------------------------------------------|
-| First               | 75 mg twice daily                                                         | 75 mg/m 2 twice daily                                         |
-| Second              | 50 mg twice daily                                                         | 50 mg/m 2 twice daily                                         |
-| Third               | 100 mg once daily                                                         | 25 mg/m 2 twice daily a                                       |
-
-a Paediatric patients on 25 mg/m² twice daily should remain on this dose even if body surface area becomes greater 1.0 m² during the treatment. Maximum dose should be 25 mg/m² twice daily at the third dose modification.
+| Dose modification   | Adult and paediatric patients with body surface area of at least 1.0m 2   | Paediatric patients aged 3 months or older with body surface area less than 1.0m 2   | Paediatric patients aged less than 3 months   |
+|---------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------|
+| First               | 75 mg twice daily                                                         | 75 mg/m 2 twice daily                                                                | 25 mg/m 2 twice daily                         |
+| 50 mg twice         | daily                                                                     | 50 mg/m 2 twice daily                                                                | Second -                                      |
+| Third               | 100 mg once daily                                                         | 25 mg/m 2 twice daily a                                                              | -                                             |
 
 VITRAKVI should be permanently discontinued in patients who are unable to tolerate VITRAKVI after three dose modifications.
 
@@ -967,7 +949,9 @@ The safety of VITRAKVI was evaluated in 361 patients with TRK fusion-positive ca
 
 The adverse drug reactions reported in patients (n=361) treated with VITRAKVI are shown in Table 3 and Table 4.
 
-The adverse drug reactions are classified according to the System Organ Class. Frequency groups are defined by the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000), and not known (cannot be estimated from available data).
+The adverse drug reactions are classified according to the System Organ Class.
+
+Frequency groups are defined by the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000), and not known (cannot be estimated from available data).
 
 Within each frequency group, undesirable effects are presented in order of decreasing seriousness.
 
@@ -995,14 +979,6 @@ Table 3: Adverse drug reactions reported in TRK fusion-positive cancer patients 
 | Investigations                                       | Very common | Alanine aminotransferase (ALT) increased Aspartate aminotransferase (AST) increased Weight increased (Abnormal weight gain) |                                                                                                                                 |
 | Investigations                                       | Common      | Blood alkaline phosphatase increased                                                                                        | Alanine aminotransferase (ALT) increased a Aspartate aminotransferase (AST) increased a Weight increased (Abnormal weight gain) |
 | Investigations                                       | Uncommon    |                                                                                                                             | Blood alkaline phosphatase increased a, b                                                                                       |
-
-a grade 4 reactions were reported
-
-b   each grade frequency was less than &lt;1%
-
-c   ADR dysgeusia includes the preferred terms 'dysgeusia' and 'taste disorder'
-
-d   includes cases with ALT/AST ≥3x ULN and bilirubin ≥2x ULN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1149,29 +1125,29 @@ c A pathological CR was a CR achieved by patients who were treated with larotrec
 
 Table 7: Overall response rate and duration of response by tumour type*
 
-|                                 | Patients   | ORR a   | ORR a     | DOR    | DOR    | DOR    | DOR            |
-|---------------------------------|------------|---------|-----------|--------|--------|--------|----------------|
-| Tumour type                     |            | %       | 95% CI    | months | months | months | Range (months) |
-|                                 | (n=364)    |         |           | ≥ 12   | ≥ 24   | ≥ 36   |                |
-| Soft tissue sarcoma             | 72         | 68%     | 56%, 79%  | 80%    | 72%    | 60%    | 0.03+, 84.7+   |
-| Primary CNS                     | 60         | 35%     | 23%, 48%  | 66%    | 50%    | 50%    | 2.8+, 70.9+    |
-| Infantile fibrosarcoma          | 49         | 94%     | 83%, 99%  | 83%    | 66%    | 60%    | 1.6+, 73.7+    |
-| Lung                            | 32         | 69%     | 50%, 84%  | 75%    | 52%    | 45%    | 1.9+, 67.2+    |
-| Thyroid                         | 31         | 65%     | 45%, 81%  | 85%    | 63%    | 47%    | 3.7, 83.9+     |
-| Salivary gland                  | 27         | 85%     | 66%, 96%  | 91%    | 86%    | 76%    | 2.7, 81.1+     |
-| Colon                           | 25         | 48%     | 28%, 69%  | 83%    | 62%    | 31%    | 3.9, 56.3+     |
-| Breast                          | 16         |         |           |        |        |        |                |
-| Non-secretory c                 | 10         | 30%     | 7%, 65%   | 67%    | 0%     | 0%     | 7.4, 15.3      |
-| Secretory b                     | 6          | 83%     | 36%, 100% | 80%    | 80%    | 80%    | 11.1, 69.2+    |
-| Melanoma                        | 11         | 45%     | 17%, 77%  | 50%    | NR     | NR     | 1.9+, 23.2+    |
-| Pancreas                        | 7          | 14%     | 0%, 58%   | 0%     | 0%     | 0%     | 5.8, 5.8       |
-| Gastrointestinal stromal tumour | 5          | 80%     | 28%, 99%  | 75%    | 38%    | 38%    | 9.5, 50.4+     |
-| Bone sarcoma                    | 3          | 33%     | 1%, 91%   | 0%     | 0%     | 0%     | 9.5, 9.5       |
-| Congenital mesoblastic nephroma | 2          | 100%    | 16%, 100% | 100%   | 100%   | 50%    | 32.9, 44.5     |
-| Cervix                          | 2          | 50%     | 1%, 99%   | 100%   | NR     | NR     | 18.7+, 18.7+   |
-| Unknown primary cancer          | 2          | 100%    | 16%, 100% | 0      | 0      | 0      | 5.6, 7.4       |
-| External auditory canal         | 1          | 100%    | 3%, 100%  | 100%   | 100%   | 100%   | 45.1+, 45.1+   |
-| Lipofibromatosis                | 1          | 100%    | 3%, 100%  | 100%   | NR     | NR     | 17.7+, 17.7+   |
+|                                 | Patients   | ORR a   | ORR a     | DOR    | DOR    | DOR    | DOR          |
+|---------------------------------|------------|---------|-----------|--------|--------|--------|--------------|
+| Tumour type                     |            | %       | 95% CI    | months | months | months | Range        |
+|                                 | (n=364)    |         |           | ≥ 12   | ≥ 24   | ≥ 36   | (months)     |
+| Soft tissue sarcoma             | 72         | 68%     | 56%, 79%  | 80%    | 72%    | 60%    | 0.03+, 84.7+ |
+| Primary CNS                     | 60         | 35%     | 23%, 48%  | 66%    | 50%    | 50%    | 2.8+, 70.9+  |
+| Infantile fibrosarcoma          | 49         | 94%     | 83%, 99%  | 83%    | 66%    | 60%    | 1.6+, 73.7+  |
+| Lung                            | 32         | 69%     | 50%, 84%  | 75%    | 52%    | 45%    | 1.9+, 67.2+  |
+| Thyroid                         | 31         | 65%     | 45%, 81%  | 85%    | 63%    | 47%    | 3.7, 83.9+   |
+| Salivary gland                  | 27         | 85%     | 66%, 96%  | 91%    | 86%    | 76%    | 2.7, 81.1+   |
+| Colon                           | 25         | 48%     | 28%, 69%  | 83%    | 62%    | 31%    | 3.9, 56.3+   |
+| Breast                          | 16         |         |           |        |        |        |              |
+| Non-secretory c                 | 10         | 30%     | 7%, 65%   | 67%    | 0%     | 0%     | 7.4, 15.3    |
+| Secretory b                     | 6          | 83%     | 36%, 100% | 80%    | 80%    | 80%    | 11.1, 69.2+  |
+| Melanoma                        | 11         | 45%     | 17%, 77%  | 50%    | NR     | NR     | 1.9+, 23.2+  |
+| Pancreas                        | 7          | 14%     | 0%, 58%   | 0%     | 0%     | 0%     | 5.8, 5.8     |
+| Gastrointestinal stromal tumour | 5          | 80%     | 28%, 99%  | 75%    | 38%    | 38%    | 9.5, 50.4+   |
+| Bone sarcoma                    | 3          | 33%     | 1%, 91%   | 0%     | 0%     | 0%     | 9.5, 9.5     |
+| Congenital mesoblastic nephroma | 2          | 100%    | 16%, 100% | 100%   | 100%   | 50%    | 32.9, 44.5   |
+| Cervix                          | 2          | 50%     | 1%, 99%   | 100%   | NR     | NR     | 18.7+, 18.7+ |
+| Unknown primary cancer          | 2          | 100%    | 16%, 100% | 0      | 0      | 0      | 5.6, 7.4     |
+| External auditory canal         | 1          | 100%    | 3%, 100%  | 100%   | 100%   | 100%   | 45.1+, 45.1+ |
+| Lipofibromatosis                | 1          | 100%    | 3%, 100%  | 100%   | NR     | NR     | 17.7+, 17.7+ |
 
 DOR: duration of response
 
@@ -1279,11 +1255,7 @@ Table 8: Exposure (Cmax and AUC a ) in patients grouped by age group at the reco
 | 12 to < 18 years | 32        | 0.9                                                        | 0.8                                                        |
 | ≥ 18 years       | 285       | 1.0                                                        | 1.0                                                        |
 
-a area under the plasma concentration-time curve at steady-state
-
-b   number of patients from 23 September 2024 data cut-off
-
-c fold difference is the ratio of stated age group to ≥18 years group. A fold-difference of 1 equates to no difference.
+Simulations have shown that the dose of 50 mg/m 2 BID in patients aged less than 3 months results in exposures comparable to patients aged 3 months to less than 2 years at a dose of 100 mg/m 2 BID, without the exposure metrics (Cmax, AUC, Ctrough) falling below the simulated exposure in patients aged 3 months to less than 2 years. There is no clinical data with a dose of 50 mg/m 2 BID in patients aged less than 3 months.
 
 ## Elderly
 
@@ -1441,11 +1413,13 @@ EU/1/19/1385/003 - VITRAKVI 20 mg/mL oral solution
 
 Date of first authorisation: 19 September 2019
 
-Date of latest renewal: 22 July 2024
+Date of latest renewal: 18 July 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+44
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1494,11 +1468,13 @@ The presence of an NTRK gene fusion in a tumour specimen should be confirmed by 
 
 The recommended dose in adults is 100 mg larotrectinib twice daily, until disease progression or until unacceptable toxicity occurs.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric population
 
 Dosing in paediatric patients is based on body surface area (BSA). The recommended dose in paediatric patients is 100 mg/m 2 larotrectinib twice daily with a maximum of 100 mg per dose until disease progression or until unacceptable toxicity occurs.
 
-<div style=\"page-break-after: always\"></div>
+For paediatric patients from birth to less than 3 months the recommended starting dose is 50 mg/m 2 twice daily (see section 5.2).
 
 ## Missed dose
 
@@ -1517,13 +1493,11 @@ The recommended dose modifications for VITRAKVI for adverse reactions are provid
 
 Table 1: Recommended dose modifications for VITRAKVI for adverse reactions
 
-| Dose modification   | Adult and paediatric patients with body surface area of at least 1.0m 2   | Paediatric patients with body surface area less than 1.0m 2   |
-|---------------------|---------------------------------------------------------------------------|---------------------------------------------------------------|
-| First               | 75 mg twice daily                                                         | 75 mg/m 2 twice daily                                         |
-| Second              | 50 mg twice daily                                                         | 50 mg/m 2 twice daily                                         |
-| Third               | 100 mg once daily                                                         | 25 mg/m 2 twice daily a                                       |
-
-a Paediatric patients on 25 mg/m² twice daily should remain on this dose even if body surface area becomes greater 1.0 m² during the treatment. Maximum dose should be 25 mg/m² twice daily at the third dose modification.
+| Dose modification   | Adult and paediatric patients with body surface area of at least 1.0m 2   | Paediatric patients aged 3 months or older with body surface area less than 1.0m 2   | Paediatric patients aged less than 3 months   |
+|---------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------|
+| First               | 75 mg twice daily                                                         | 75 mg/m 2 twice daily                                                                | 25 mg/m 2 twice daily                         |
+| 50 mg twice         | daily                                                                     | 50 mg/m 2 twice daily                                                                | Second -                                      |
+| Third               | 100 mg once daily                                                         | 25 mg/m 2 twice daily a                                                              | -                                             |
 
 VITRAKVI should be permanently discontinued in patients who are unable to tolerate VITRAKVI after three dose modifications.
 
@@ -1708,7 +1682,9 @@ The adverse drug reactions reported in patients (n=361) treated with VITRAKVI ar
 
 The adverse drug reactions are classified according to the System Organ Class.
 
-Frequency groups are defined by the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000), and not known (cannot be estimated from available data).
+Frequency groups are defined by the following convention: very common (≥ 1/10); common (≥ 1/100
+
+to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000), and not known (cannot be estimated from available data).
 
 Within each frequency group, undesirable effects are presented in order of decreasing seriousness.
 
@@ -1736,14 +1712,6 @@ Table 3: Adverse drug reactions reported in TRK fusion-positive cancer patients 
 | Investigations                                       | Very common | Alanine aminotransferase (ALT) increased Aspartate aminotransferase (AST) increased Weight increased (Abnormal weight gain) |                                                                                                                                 |
 | Investigations                                       | Common      | Blood alkaline phosphatase increased                                                                                        | Alanine aminotransferase (ALT) increased a Aspartate aminotransferase (AST) increased a Weight increased (Abnormal weight gain) |
 | Investigations                                       | Uncommon    |                                                                                                                             | Blood alkaline phosphatase increased a, b                                                                                       |
-
-a grade 4 reactions were reported
-
-b   each grade frequency was less than &lt;1%
-
-c   ADR dysgeusia includes the preferred terms 'dysgeusia' and 'taste disorder'
-
-d   includes cases with ALT/AST ≥3x ULN and bilirubin ≥2x ULN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2018,11 +1986,7 @@ Table 8: Exposure (Cmax and AUC a ) in patients grouped by age group at the reco
 | 12 to < 18 years | 32        | 0.9                                                        | 0.8                                                        |
 | ≥ 18 years       | 285       | 1.0                                                        | 1.0                                                        |
 
-a area under the plasma concentration-time curve at steady-state
-
-b   number of patients from 23 September 2024 data cut-off
-
-c fold difference is the ratio of stated age group to ≥18 years group. A fold-difference of 1 equates to no difference.
+Simulations have shown that the dose of 50 mg/m 2 BID in patients aged less than 3 months results in exposures comparable to patients aged 3 months to less than 2 years at a dose of 100 mg/m 2 BID, without the exposure metrics (Cmax, AUC, Ctrough) falling below the simulated exposure in patients aged 3 months to less than 2 years. There is no clinical data with a dose of 50 mg/m 2 BID in patients aged less than 3 months.
 
 ## Elderly
 
@@ -2150,7 +2114,7 @@ EU/1/19/1385/004 - VITRAKVI 20 mg/mL oral solution
 
 Date of first authorisation: 19 September 2019
 
-Date of latest renewal: 22 July 2024
+Date of latest renewal: 18 July 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -2260,18 +2224,13 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
-
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Bayer AG 51368 Leverkusen Germany
 
-| 12. MARKETING AUTHORISATION NUMBER   |
-|--------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/19/1385/001
 
@@ -2279,13 +2238,11 @@ EU/1/19/1385/001
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 VITRAKVI 25 mg
 
@@ -2293,10 +2250,11 @@ VITRAKVI 25 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -2342,8 +2300,13 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10.
+
+SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
+
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
+
+APPROPRIATE
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -2493,13 +2456,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-10.
-
-SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
-
-OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
-
-APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -2579,8 +2537,7 @@ Do not freeze.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|--------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2662,7 +2619,9 @@ Do not freeze.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bayer AG 51368 Leverkusen Germany
+Bayer AG Germany
+
+51368 Leverkusen
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -2684,15 +2643,15 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-VITRAKVI 20 mg/mL oral solution larotrectinib
+VITRAKVI 20 mg/mL oral solution
+
+larotrectinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2728,6 +2687,8 @@ Use within 10 days of opening.
 
 Store in a refrigerator.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not freeze.
 
 <div style=\"page-break-after: always\"></div>
@@ -2735,29 +2696,23 @@ Do not freeze.
 | 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Bayer AG 51368 Leverkusen Germany
 
-| 12. MARKETING AUTHORISATION NUMBER   |
-|--------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/19/1385/004
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 VITRAKVI 20 mg/mL
 
@@ -2765,8 +2720,7 @@ VITRAKVI 20 mg/mL
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
 
@@ -2830,7 +2784,7 @@ Bayer AG 51368 Leverkusen Germany
 
 EU/1/19/1385/004
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
@@ -2918,7 +2872,8 @@ Tell your doctor, pharmacist or nurse if you are taking, have recently taken or 
 
 In particular, tell your doctor, pharmacist or nurse if you are taking any of the following medicines:
 
-- -medicines used to treat fungal or bacterial infections called itraconazole, voriconazole, clarithromycin, telithromycin, troleandomycin
+- medicines used to treat fungal or bacterial infections called itraconazole, voriconazole,
+- -clarithromycin, telithromycin, troleandomycin
 - -a medicine used to treat Cushing's syndrome called ketoconazole
 - -medicines used to treat HIV infection called atazanavir, indinavir, nelfinavir, ritonavir, saquinavir, rifabutin, efavirenz
 - -a medicine used to treat depression called nefazodone
@@ -3019,7 +2974,7 @@ If you have further questions on the use of this medicine, ask your doctor, phar
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-## You should immediately contact your doctor if you experience any of the following serious side effects:
+You should immediately contact your doctor if you experience any of the following serious side effects:
 
 - -feeling dizzy (very common side effect, may affect more than 1 in 10 people), tingling, feeling numb, or a burning feeling in your hands and feet, difficulty walking normally (common side effect, may affect up to 1 in 10 people). This could be symptoms of nervous system problems.
 
@@ -3037,7 +2992,7 @@ Tell your doctor, pharmacist or nurse if you notice any of the following side ef
 - -increased amount of liver enzymes in blood tests
 - -weight increase.
 
-## Common (may affect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people):
 
 - -you may bruise or bleed more easily, which could be symptoms of reduced number of platelets (thrombocytopenia)
 - -change in how things taste (dysgeusia)
@@ -3066,9 +3021,7 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 
 ## What VITRAKVI contains
 
-The active substance is larotrectinib. Each VITRAKVI 25 mg capsule contains 25 mg of larotrectinib (as sulfate).
-
-Each VITRAKVI 100 mg capsule contains 100 mg of larotrectinib (as sulfate).
+The active substance is larotrectinib. Each VITRAKVI 25 mg capsule contains 25 mg of larotrectinib (as sulfate). Each VITRAKVI 100 mg capsule contains 100 mg of larotrectinib (as sulfate).
 
 ## The other ingredients are:
 
@@ -3146,15 +3099,11 @@ Bayer Ελλάς ΑΒΕΕ Τηλ: +30-210-61 87 500
 
 ## España
 
-Bayer Hispania S.L.
-
-Tel: +34-93-495 65 00
+Bayer Hispania S.L. Tel: +34-93-495 65 00
 
 ## France
 
-Bayer HealthCare
-
-Tél (N° vert): +33-(0)800 87 54 54
+Bayer HealthCare Tél (N° vert): +33-(0)800 87 54 54
 
 ## Hrvatska
 
@@ -3174,9 +3123,7 @@ Sími: +354 540 8000
 
 ## Italia
 
-Bayer S.p.A.
-
-Tel: +39 02 397 8 1
+Bayer S.p.A. Tel: +39 02 397 8 1
 
 ## Κύπρος
 
@@ -3200,15 +3147,11 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Lietuva
 
-UAB Bayer
-
-Tel. +37 05 23 36 868
+UAB Bayer Tel. +37 05 23 36 868
 
 ## Luxembourg/Luxemburg
 
-Bayer SA-NV
-
-Tél/Tel: +32-(0)2-535 63 11
+Bayer SA-NV Tél/Tel: +32-(0)2-535 63 11
 
 ## Magyarország
 
@@ -3230,9 +3173,7 @@ Bayer AS Tlf: +47 23 13 05 00
 
 ## Österreich
 
-Bayer Austria Ges.m.b.H.
-
-Tel: +43-(0)1-711 46-0
+Bayer Austria Ges.m.b.H. Tel: +43-(0)1-711 46-0
 
 ## Polska
 
@@ -3305,7 +3246,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 VITRAKVI contains the active substance larotrectinib.
 
-It is used in adults, adolescents and children to treat solid tumours (cancer) in various parts of the body that are caused by a change in the NTRK gene (neurotrophic tyrosine receptor kinase). VITRAKVI is only used when
+It is used in adults, adolescents and children to treat solid tumours (cancer) in various parts of the body that are caused by a change in the NTRK gene (neurotrophic tyrosine receptor kinase).
+
+## VITRAKVI is only used when
 
 - -these cancers are advanced or have spread to other parts of the body or if a surgery to remove the cancer is likely to cause severe complications and
 - -there are no satisfactory treatment options.
@@ -3336,7 +3279,8 @@ Tell your doctor, pharmacist or nurse if you are taking, have recently taken or 
 
 In particular, tell your doctor, pharmacist or nurse if you are taking any of the following medicines:
 
-- -medicines used to treat fungal or bacterial infections called itraconazole, voriconazole, clarithromycin, telithromycin, troleandomycin
+- medicines used to treat fungal or bacterial infections called itraconazole, voriconazole,
+- -clarithromycin, telithromycin, troleandomycin
 - -a medicine used to treat Cushing's syndrome called ketoconazole
 - -medicines used to treat HIV infection called atazanavir, indinavir, nelfinavir, ritonavir, saquinavir, rifabutin, efavirenz
 - -a medicine used to treat depression called nefazodone
@@ -3759,7 +3703,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 VITRAKVI contains the active substance larotrectinib.
 
-It is used in adults, adolescents and children to treat solid tumours (cancer) in various parts of the body that are caused by a change in the NTRK gene (neurotrophic tyrosine receptor kinase). VITRAKVI is only used when
+It is used in adults, adolescents and children to treat solid tumours (cancer) in various parts of the body that are caused by a change in the NTRK gene (neurotrophic tyrosine receptor kinase).
+
+## VITRAKVI is only used when
 
 - -these cancers are advanced or have spread to other parts of the body or if a surgery to remove the cancer is likely to cause severe complications and
 - -there are no satisfactory treatment options.

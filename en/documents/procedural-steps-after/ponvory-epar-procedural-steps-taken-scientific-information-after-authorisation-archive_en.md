@@ -1,34 +1,28 @@
 ---
-document_datetime: 2025-10-15 14:26:31
+document_datetime: 2026-03-10 16:00:13
 document_pages: 5
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/ponvory-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
 document_name: ponvory-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
 version: success
-processing_time: 4.0735628
-conversion_datetime: 2025-12-19 13:53:45.135821
+processing_time: 4.0617345
+conversion_datetime: 2026-03-13 18:26:02.631852
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
-## PONVORY
+## Ponvory
 
 Procedural steps taken and scientific information after the authorisation
 
 | Application number   | Scope                                                                                                                                                                                                                             | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                                                                                                                                                                                                                                                                                                                                |
 |----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| II/0018/G            | This was an application for a group of variations. Grouped application comprised of two Type II Variations, as follows: C.I.13: Submission of the final report from study AC- 058B202; this is a Multicenter, Randomized, Double- | 04/09/2025                          |                                             | SmPC                             | Section 5.1 is being updated as follows: Patients with RMS who completed the phase 3 OPTIMUM study were eligible to enter the exploratory, open-label extension study OPTIMUM-LT. In total, 877 patients were enrolled (i.e., 77.4% of patients from OPTIMUM; n=439 from ponesimod arm and n=438 from teriflunomide arm). All patients |
-
-1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
-
-2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
-
-3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+| II/0018/G            | This was an application for a group of variations. Grouped application comprised of two Type II Variations, as follows: C.I.13: Submission of the final report from study AC- 058B202; this is a Multicenter, Randomized, Double- | 04/09/2025                          | 12/02/2026                                  | SmPC                             | Section 5.1 is being updated as follows: Patients with RMS who completed the phase 3 OPTIMUM study were eligible to enter the exploratory, open-label extension study OPTIMUM-LT. In total, 877 patients were enrolled (i.e., 77.4% of patients from OPTIMUM; n=439 from ponesimod arm and n=438 from teriflunomide arm). All patients |
 
 <!-- image -->
 

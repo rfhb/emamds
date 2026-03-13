@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 09:22:28
+document_datetime: 2026-03-12 17:32:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/forxiga.html
 document_name: forxiga.html
 version: success
-processing_time: 0.1585506
-conversion_datetime: 2025-12-30 22:53:13.047594
+processing_time: 0.1299646
+conversion_datetime: 2026-03-13 18:30:53.336839
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Forxiga
 
 [RSS](/en/individual-human-medicine.xml/67130)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 dapagliflozin Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -151,17 +149,17 @@ English (EN) (1007.96 KB - PDF)
 
 Forxiga : EPAR - Product Information
 
-English (EN) (1.42 MB - PDF)
+English (EN) (998.05 KB - PDF)
 
 **First published:** 07/12/2012
 
-**Last updated:** 29/10/2024
+**Last updated:** 12/03/2026
 
 [View](/en/documents/product-information/forxiga-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-5)
+[Other languages (24)](#file-language-dropdown-223)
 
-български (BG) (1.2 MB - PDF)
+български (BG) (884.4 KB - PDF)
 
 **First published:**
 
@@ -169,11 +167,11 @@ English (EN) (1.42 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/bg/documents/product-information/forxiga-epar-product-information_bg.pdf)
 
-español (ES) (1.29 MB - PDF)
+español (ES) (867.53 KB - PDF)
 
 **First published:**
 
@@ -181,11 +179,11 @@ español (ES) (1.29 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/es/documents/product-information/forxiga-epar-product-information_es.pdf)
 
-čeština (CS) (1003.88 KB - PDF)
+čeština (CS) (902.23 KB - PDF)
 
 **First published:**
 
@@ -193,11 +191,11 @@ español (ES) (1.29 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/cs/documents/product-information/forxiga-epar-product-information_cs.pdf)
 
-dansk (DA) (784.95 KB - PDF)
+dansk (DA) (746.93 KB - PDF)
 
 **First published:**
 
@@ -205,11 +203,11 @@ dansk (DA) (784.95 KB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/da/documents/product-information/forxiga-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.32 MB - PDF)
+Deutsch (DE) (1001.53 KB - PDF)
 
 **First published:**
 
@@ -217,11 +215,11 @@ Deutsch (DE) (1.32 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/de/documents/product-information/forxiga-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.07 MB - PDF)
+eesti keel (ET) (744.7 KB - PDF)
 
 **First published:**
 
@@ -229,11 +227,11 @@ eesti keel (ET) (1.07 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/et/documents/product-information/forxiga-epar-product-information_et.pdf)
 
-ελληνικά (EL) (903.17 KB - PDF)
+ελληνικά (EL) (914.41 KB - PDF)
 
 **First published:**
 
@@ -241,11 +239,11 @@ eesti keel (ET) (1.07 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/el/documents/product-information/forxiga-epar-product-information_el.pdf)
 
-français (FR) (4.13 MB - PDF)
+français (FR) (1.01 MB - PDF)
 
 **First published:**
 
@@ -253,11 +251,11 @@ français (FR) (4.13 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/fr/documents/product-information/forxiga-epar-product-information_fr.pdf)
 
-hrvatski (HR) (985.71 KB - PDF)
+hrvatski (HR) (971.04 KB - PDF)
 
 **First published:**
 
@@ -265,11 +263,11 @@ hrvatski (HR) (985.71 KB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/hr/documents/product-information/forxiga-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.55 MB - PDF)
+íslenska (IS) (839.8 KB - PDF)
 
 **First published:**
 
@@ -277,11 +275,11 @@ hrvatski (HR) (985.71 KB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/is/documents/product-information/forxiga-epar-product-information_is.pdf)
 
-italiano (IT) (1.23 MB - PDF)
+italiano (IT) (2.1 MB - PDF)
 
 **First published:**
 
@@ -289,11 +287,11 @@ italiano (IT) (1.23 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/it/documents/product-information/forxiga-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.4 MB - PDF)
+latviešu valoda (LV) (1.1 MB - PDF)
 
 **First published:**
 
@@ -301,11 +299,11 @@ latviešu valoda (LV) (1.4 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/lv/documents/product-information/forxiga-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.44 MB - PDF)
+lietuvių kalba (LT) (1.12 MB - PDF)
 
 **First published:**
 
@@ -313,11 +311,11 @@ lietuvių kalba (LT) (1.44 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/lt/documents/product-information/forxiga-epar-product-information_lt.pdf)
 
-magyar (HU) (1.06 MB - PDF)
+magyar (HU) (1.05 MB - PDF)
 
 **First published:**
 
@@ -325,11 +323,11 @@ magyar (HU) (1.06 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/hu/documents/product-information/forxiga-epar-product-information_hu.pdf)
 
-Malti (MT) (1.06 MB - PDF)
+Malti (MT) (1.04 MB - PDF)
 
 **First published:**
 
@@ -337,11 +335,11 @@ Malti (MT) (1.06 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/mt/documents/product-information/forxiga-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.45 MB - PDF)
+Nederlands (NL) (913.36 KB - PDF)
 
 **First published:**
 
@@ -349,11 +347,11 @@ Nederlands (NL) (1.45 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/nl/documents/product-information/forxiga-epar-product-information_nl.pdf)
 
-norsk (NO) (925.44 KB - PDF)
+norsk (NO) (917.11 KB - PDF)
 
 **First published:**
 
@@ -361,11 +359,11 @@ norsk (NO) (925.44 KB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/no/documents/product-information/forxiga-epar-product-information_no.pdf)
 
-polski (PL) (1.18 MB - PDF)
+polski (PL) (899.93 KB - PDF)
 
 **First published:**
 
@@ -373,11 +371,11 @@ polski (PL) (1.18 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/pl/documents/product-information/forxiga-epar-product-information_pl.pdf)
 
-português (PT) (1.18 MB - PDF)
+português (PT) (892.27 KB - PDF)
 
 **First published:**
 
@@ -385,11 +383,11 @@ português (PT) (1.18 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/pt/documents/product-information/forxiga-epar-product-information_pt.pdf)
 
-română (RO) (2.46 MB - PDF)
+română (RO) (1.09 MB - PDF)
 
 **First published:**
 
@@ -397,11 +395,11 @@ română (RO) (2.46 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/ro/documents/product-information/forxiga-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.19 MB - PDF)
+slovenčina (SK) (844.58 KB - PDF)
 
 **First published:**
 
@@ -409,11 +407,11 @@ slovenčina (SK) (1.19 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/sk/documents/product-information/forxiga-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.34 MB - PDF)
+slovenščina (SL) (989.75 KB - PDF)
 
 **First published:**
 
@@ -421,11 +419,11 @@ slovenščina (SL) (1.34 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/sl/documents/product-information/forxiga-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.24 MB - PDF)
+Suomi (FI) (1010.39 KB - PDF)
 
 **First published:**
 
@@ -433,11 +431,11 @@ Suomi (FI) (1.24 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/fi/documents/product-information/forxiga-epar-product-information_fi.pdf)
 
-svenska (SV) (1.21 MB - PDF)
+svenska (SV) (896.26 KB - PDF)
 
 **First published:**
 
@@ -445,11 +443,11 @@ svenska (SV) (1.21 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+12/03/2026
 
 [View](/sv/documents/product-information/forxiga-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUSA/00010029/202310 09/08/2024
+**Latest procedure affecting product information:** VR/0000310736 12/03/2026
 
 icon globe
 
@@ -475,7 +473,7 @@ English (EN) (32.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-320)
+[Other languages (24)](#file-language-dropdown-383)
 
 български (BG) (34.99 KB - PDF)
 
@@ -807,7 +805,7 @@ AstraZeneca AB
 
 151 85 Sodertalje
 
-Marketing authorisation issued 11/11/2012 Revision 32
+Marketing authorisation issued 11/11/2012 Revision 33
 
 ## Assessment history
 
@@ -819,13 +817,21 @@ Collapse section
 
 Forxiga : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (150.95 KB - PDF)
+
+**First published:** 12/03/2026
+
+[View](/en/documents/procedural-steps-after/forxiga-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Forxiga : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (348.55 KB - PDF)
 
 **First published:** 16/09/2013
 
-**Last updated:** 29/10/2024
+**Last updated:** 12/03/2026
 
-[View](/en/documents/procedural-steps-after/forxiga-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/forxiga-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Forxiga-H-C-PSUSA-00010029-202310 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1013,7 +1019,7 @@ English (EN) (41.36 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-837)
+[Other languages (24)](#file-language-dropdown-744)
 
 български (BG) (84.18 KB - PDF)
 
@@ -1327,7 +1333,7 @@ English (EN) (44.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-111)
+[Other languages (22)](#file-language-dropdown-303)
 
 български (BG) (78.43 KB - PDF)
 
@@ -1637,7 +1643,7 @@ English (EN) (57.03 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-forxiga_en.pdf)
 
-#### News on Forxiga
+## News on Forxiga
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 December 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-december-2022) 16/12/2022
 
@@ -1657,7 +1663,7 @@ English (EN) (57.03 KB - PDF)
 
 [Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 8-11 June 2015](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-8-11-june-2015) 12/06/2015
 
-#### More information on Forxiga
+## More information on Forxiga
 
 - [EMEA-000694-PIP01-09-M08 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000694-pip01-09-m08)
 - [EMEA-000694-PIP02-14-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000694-pip02-14-m03)
@@ -1672,11 +1678,11 @@ English (EN) (57.03 KB - PDF)
 - [Comparison of the Risk of Severe Complications of Urinary Tract Infections (UTI) Between Patients With Type 2 Diabetes Exposed to Dapagliflozin and Those Exposed to Other Antidiabetic Treatments - post-authorisation study](https://catalogues.ema.europa.eu/study/50496)
 - [Comparison of the Risk of Acute Kidney Injury Between Patients With Type 2 Diabetes Exposed to Dapagliflozin and Those Exposed to Other Antidiabetic Treatments - post-authorisation study](https://catalogues.ema.europa.eu/study/50490)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 31/10/2024
+**This page was last updated on** 12/03/2026
 
 ## Share this page
 

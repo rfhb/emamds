@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-08 16:33:14
+document_datetime: 2026-03-12 16:50:34
 document_pages: 43
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tecartus-epar-product-information_en.pdf
 document_name: tecartus-epar-product-information_en.pdf
 version: success
-processing_time: 10.7119738
-conversion_datetime: 2025-12-31 04:07:24.935879
+processing_time: 12.0313584
+conversion_datetime: 2026-03-13 18:25:44.149957
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -40,7 +40,7 @@ Tecartus (brexucabtagene autoleucel) is a genetically modified autologous cell-b
 
 ## Mantle cell lymphoma
 
-Each patient-specific infusion bag of Tecartus contains brexucabtagene autoleucel at a batchdependent concentration of autologous T cells genetically modified to express an anti-CD19 chimeric antigen receptor (CAR-positive viable T cells). The medicinal product is packaged in one infusion bag overall containing a cell dispersion for infusion of a target dose of 2 × 10 6  anti-CD19 CAR-positive viable T cells/kg body weight (range: 1 × 10 6 - 2 × 10 6 cells/kg), with a maximum of 2 × 10 8 anti-CD19 CAR-positive viable T cells suspended in a Cryostor CS10 solution.
+Each patient-specific infusion bag of Tecartus contains brexucabtagene autoleucel at a batchdependent concentration of autologous T cells genetically modified to express an anti-CD19 chimeric antigen receptor (CAR-positive viable T cells). The medicinal product is packaged in one infusion bag overall containing a cell dispersion for infusion of a target dose of 2 × 10 6 anti-CD19 CAR-positive viable T cells/kg body weight (range: 1 × 10 6 - 2 × 10 6 cells/kg), with a maximum of 2 × 10 8 anti-CD19 CAR-positive viable T cells suspended in a Cryostor CS10 solution.
 
 Each infusion bag contains approximately 68 mL of dispersion for infusion.
 
@@ -52,7 +52,9 @@ Each infusion bag contains approximately 68 mL of dispersion for infusion.
 
 ## Excipient(s) with known effect
 
-This medicinal product contains 300 mg sodium. Each dose contains 0.05 mL of dimethyl sulfoxide (DMSO) per mL of Tecartus.
+This medicinal product contains 300 mg sodium.
+
+Each dose contains 0.05 mL of dimethyl sulfoxide (DMSO) per mL of Tecartus.
 
 For the full list of excipients, see section 6.1.
 
@@ -104,7 +106,7 @@ Tecartus is recommended to be infused 2 to 14 days after completion of the lymph
 
 ## Pre-treatment (lymphodepleting chemotherapy) for ALL patients
 
-A lymphodepleting chemotherapy regimen consisting of cyclophosphamide 900 mg/m 2  intravenously over 60 minutes must be administered prior to infusing Tecartus. This is recommended on the 2 nd day before infusion of Tecartus. Fludarabine 25 mg/m 2 intravenously over 30 minutes must be administered prior to infusing Tecartus. The recommended days are on the 4 th , 3 rd , and 2 nd day before infusion of Tecartus.
+A lymphodepleting chemotherapy regimen consisting of cyclophosphamide 900 mg/m 2 intravenously over 60 minutes must be administered prior to infusing Tecartus. This is recommended on the 2 nd day before infusion of Tecartus. Fludarabine 25 mg/m 2 intravenously over 30 minutes must be administered prior to infusing Tecartus. The recommended days are on the 4 th , 3 rd , and 2 nd day before infusion of Tecartus.
 
 ## Mantle cell lymphoma and acute lymphoblastic leukaemia
 
@@ -215,7 +217,7 @@ Patients with a history of or active CNS disorder or inadequate renal, hepatic, 
 
 ## Cytokine release syndrome
 
-Nearly all patients experienced some degree of CRS. Severe CRS, which can be fatal, was  observed with Tecartus with a median time to onset of 3 days (range: 1 to 13 days). Patients must be closely monitored for signs or symptoms of these events, such as high fever, hypotension, hypoxia, chills, tachycardia and headache (see section 4.8). Diagnosis of CRS requires excluding alternate causes of systemic inflammatory response, including infection.
+Nearly all patients experienced some degree of CRS. Severe CRS, which can be fatal, was observed with Tecartus with a median time to onset of 3 days (range: 1 to 13 days). Patients must be closely monitored for signs or symptoms of these events, such as high fever, hypotension, hypoxia, chills, tachycardia and headache (see section 4.8). Diagnosis of CRS requires excluding alternate causes of systemic inflammatory response, including infection.
 
 ## Management of cytokine release syndrome associated with Tecartus
 
@@ -347,7 +349,7 @@ Due to the potential for neurologic events, including altered mental status or s
 
 ## Mantle cell lymphoma
 
-The safety data described in this section reflect exposure to Tecartus in ZUMA-2, a Phase 2 study in which a total of 82 patients with relapsed/refractory MCL received a single dose of CAR-positive viable T cells (2 × 10 6 or 0.5 × 10 6  anti-CD19 CAR T cells/kg) based on a recommended dose which was weight-based.
+The safety data described in this section reflect exposure to Tecartus in ZUMA-2, a Phase 2 study in which a total of 82 patients with relapsed/refractory MCL received a single dose of CAR-positive viable T cells (2 × 10 6 or 0.5 × 10 6 anti-CD19 CAR T cells/kg) based on a recommended dose which was weight-based.
 
 The most significant and frequently occurring adverse reactions were CRS (91%), infections (55%) and encephalopathy (51%).
 
@@ -513,8 +515,8 @@ The efficacy and safety of Tecartus in adult patients with relapsed or refractor
 | Median number of prior therapies (min, max)                                                                                  | 3 (1; 5)                                                                                                                     |
 | Relapsed/refractory subgroup                                                                                                 |                                                                                                                              |
 | Relapsed after auto-SCT                                                                                                      | 42%                                                                                                                          |
-| Refractory to last MCLtherapy                                                                                                | 39%                                                                                                                          |
-| Relapsed after last MCLtherapy                                                                                               | 19%                                                                                                                          |
+| Refractory to last MCL therapy                                                                                               | 39%                                                                                                                          |
+| Relapsed after last MCL therapy                                                                                              | 19%                                                                                                                          |
 | Patients with disease stage IV                                                                                               | 86%                                                                                                                          |
 | Patients with bone marrow involvement                                                                                        | 51%                                                                                                                          |
 | Morphological characteristic                                                                                                 |                                                                                                                              |
@@ -599,7 +601,7 @@ Table 4 Summary of baseline characteristics for ZUMA-3 Phase 2
 | Inotuzumab                                             | 23%                              | 22%                         |
 | Philadelphia chromosome (Ph + )                        | 27%                              | 27%                         |
 
-Following lymphodepleting chemotherapy, Tecartus was administered to patients as a single intravenous infusion at a target dose of 1 × 10 6  anti-CD19 CAR T cells/kg (maximum permitted dose: 1 × 10 8 cells). The lymphodepleting regimen consisted of cyclophosphamide 900 mg/m 2 intravenously over 60 mins on the 2 nd day before Tecartus infusion and fludarabine 25 mg/m 2 intravenously over 30 mins on the 4 th , 3 rd , and 2 nd day before Tecartus infusion. Of the 55 patients who received Tecartus, 51 patients received bridging therapy between leukapheresis and lymphodepleting chemotherapy to control disease burden.
+Following lymphodepleting chemotherapy, Tecartus was administered to patients as a single intravenous infusion at a target dose of 1 × 10 6 anti-CD19 CAR T cells/kg (maximum permitted dose: 1 × 10 8 cells). The lymphodepleting regimen consisted of cyclophosphamide 900 mg/m 2 intravenously over 60 mins on the 2 nd day before Tecartus infusion and fludarabine 25 mg/m 2 intravenously over 30 mins on the 4 th , 3 rd , and 2 nd day before Tecartus infusion. Of the 55 patients who received Tecartus, 51 patients received bridging therapy between leukapheresis and lymphodepleting chemotherapy to control disease burden.
 
 The median time from leukapheresis to product delivery was 16 days (range: 11 to 42 days) and the median time from leukapheresis to Tecartus infusion was 29 days (range: 20 to 60 days). The median dose was 1.0 × 10 6 anti-CD19 CAR T cells/kg. All patients received Tecartus infusion on day 0 and were hospitalized until day 7 at the minimum.
 
@@ -645,7 +647,7 @@ The European Medicines Agency will review new information on this medicinal prod
 
 ## Mantle cell lymphoma
 
-Following infusion of 2 × 10 6  anti-CD19 CAR T cells/kg of Tecartus in ZUMA-2, anti-CD19 CAR T cells exhibited an initial rapid expansion followed by a decline to near baseline levels by 3 months. Peak levels of anti-CD19 CAR T cells occurred within the first 7 to 15 days after the infusion.
+Following infusion of 2 × 10 6 anti-CD19 CAR T cells/kg of Tecartus in ZUMA-2, anti-CD19 CAR T cells exhibited an initial rapid expansion followed by a decline to near baseline levels by 3 months. Peak levels of anti-CD19 CAR T cells occurred within the first 7 to 15 days after the infusion.
 
 Among patients with MCL, the number of anti-CD19 CAR T cells in blood was associated with objective response (CR or PR) (Table 6).
 
@@ -662,7 +664,7 @@ Median peak anti-CD19 CAR T-cell values were 74.08 cells/μL in MCL patients ≥
 
 ## Acute lymphoblastic leukaemia
 
-Following infusion of a target dose of 1 × 10 6  anti-CD19 CAR T cells/kg of Tecartus in ZUMA-3 (Phase 2), anti-CD19 CAR T cells exhibited an initial rapid expansion followed by a decline to near baseline levels by 3 months. Median time to peak levels of anti-CD19 CAR T cells was within the first 15 days after Tecartus infusion.
+Following infusion of a target dose of 1 × 10 6 anti-CD19 CAR T cells/kg of Tecartus in ZUMA-3 (Phase 2), anti-CD19 CAR T cells exhibited an initial rapid expansion followed by a decline to near baseline levels by 3 months. Median time to peak levels of anti-CD19 CAR T cells was within the first 15 days after Tecartus infusion.
 
 A summary of the Tecartus pharmacokinetics over time, based on central assessment by overall response, is provided in Table 7.
 
@@ -707,7 +709,7 @@ Tecartus is stable at room temperature (20 °C to 25 °C) for up to 3 hours afte
 
 ## 6.4 Special precautions for storage
 
-Tecartus must be stored in the vapour phase of liquid nitrogen (≤ -150 °C) and must remain frozen until the patient is ready for treatment to ensure viable live autologous cells are available for patient administration.
+Tecartus must be stored at ≤ -120 °C and must remain frozen until the patient is ready for treatment to ensure viable live autologous cells are available for patient administration.
 
 Tecartus may be stored a single time at -80 °C (± 10 °C), for up to 90 days. After storage at -80 °C (± 10 °C), the product must be used within the 90-day period or the labelled expiration date, whichever comes first. After these dates, the product must not be used and must be discarded.
 
@@ -772,9 +774,7 @@ In case of accidental exposure to Tecartus local guidelines on handling of human
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Kite Pharma EU B.V. Tufsteen 1 2132 NT Hoofddorp
-
-The Netherlands
+Kite Pharma EU B.V. Tufsteen 1 2132 NT Hoofddorp The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER
 
@@ -784,7 +784,7 @@ EU/1/20/1492/001
 
 Date of first authorisation: 14 December 2020
 
-Date of latest renewal: 26 February 2025
+Date of latest renewal: 17 November 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -910,7 +910,9 @@ METAL CASSETTE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Tecartus 0.4 - 2 × 10 8 cells dispersion for infusion brexucabtagene autoleucel (CAR+ viable T cells)
+8
+
+Tecartus 0.4 - 2 × 10 cells dispersion for infusion brexucabtagene autoleucel (CAR+ viable T cells)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -926,7 +928,7 @@ Excipients: Cryostor CS10 (contains DMSO), human albumin, sodium chloride.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Dispersion for infusion
+Dispersion for infusion
 
 One sterile infusion bag.
 
@@ -960,7 +962,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store frozen in vapour phase of liquid nitrogen ≤ -150 °C or as indicated in the package leaflet. Do not refreeze.
+Store frozen at ≤ -120 °C or as indicated in the package leaflet. Do not refreeze.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1008,8 +1010,8 @@ Not applicable.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 Not applicable.
 
@@ -1181,16 +1183,13 @@ Do not drive, use machines, or take part in activities that need you to be alert
 
 This medicine contains 300 mg sodium (main component of cooking/table salt) in each infusion bag. This is equivalent to 15% of the recommended maximum daily dietary intake of sodium for an adult. It also contains DMSO and gentamicin which may cause severe hypersensitivity reactions.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 3. How Tecartus is given
 
 Tecartus will always be given to you by a healthcare professional.
 
-- Since Tecartus is made from your own white blood cells, your cells will be collected from you to prepare your medicine. Your doctor will take some of your blood using a catheter placed in
-
-<div style=\"page-break-after: always\"></div>
-
-your vein (a procedure call leukapheresis ). Some of your white blood cells are separated from your blood and the rest of your blood is returned to your vein. This can take 3 to 6 hours and may need to be repeated.
-
+- Since Tecartus is made from your own white blood cells, your cells will be collected from you to prepare your medicine. Your doctor will take some of your blood using a catheter placed in your vein (a procedure call leukapheresis ). Some of your white blood cells are separated from your blood and the rest of your blood is returned to your vein. This can take 3 to 6 hours and may need to be repeated.
 - Your white blood cells are sent away to a manufacturing center to make your Tecartus. It usually takes about 2 to 3 weeks to make Tecartus but the time may vary.
 
 ## Medicines given before Tecartus treatment
@@ -1222,12 +1221,11 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Tecartus can cause side effects that may be serious or life-threatening. Get urgent medical attention if you get any of the following side effects after the Tecartus infusion.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Very common: may affect more than 1 in 10 people
 
 - -Fever, chills, reduced blood pressure which may cause symptoms such as dizziness, lightheadedness, fluid in the lungs, which may be severe and can be fatal (all symptoms of a condition called cytokine release syndrome ).
-
-<div style=\"page-break-after: always\"></div>
-
 - -Loss of consciousness or decreased level of consciousness, confusion or memory loss due to disturbances of brain function, difficulty speaking or slurred speech, involuntary shaking ( tremor ), sudden confusion with agitation, disorientation, hallucination or irritability ( delirium ).
 - -Fever, chills, which may be signs of an infection.
 
@@ -1273,22 +1271,18 @@ Other side effects are listed below. If these side effects become severe or seri
 - -High levels of bilirubin seen in blood tests.
 - -Irregular heartbeat (arrhythmia) .
 - -Loss of control of body movements.
+
+<div style=\"page-break-after: always\"></div>
+
 - -Dry mouth, dehydration, difficulty swallowing.
 - -Decreased output of urine (due to kidney problems described above).
 - -Breathlessness (respiratory failure) .
 - -Difficulty breathing which makes you unable to speak in full sentence, cough due to fluid in the lungs.
-
-<div style=\"page-break-after: always\"></div>
-
 - -Increase of the pressure inside your skull.
 - -Blood clots: symptoms can include pain in the chest or upper back, difficulty breathing, coughing up blood or cramping pain, swelling in a single leg, warm and darkened skin around the painful area.
 - -Alteration of the blood ability to form clots ( coagulopathy ): symptoms can include excessive or prolonged bleeding or bruising.
 - -Changes in vision which makes it difficult to see things (visual impairment).
-- -
-- Infusion related reactions: symptoms including dizziness or fainting, flushing, rash, itching,
-
-fever, shortness of breath or vomiting, abdominal pain, and diarrhoea.
-
+- -Infusion related reactions: symptoms including dizziness or fainting, flushing, rash, itching, fever, shortness of breath or vomiting, abdominal pain, and diarrhoea.
 - -Hypersensitivity: symptoms such as rash, hives, itching, swelling and anaphylaxis.
 
 A new type of cancer beginning in a type of white blood cells called T-cells (secondary malignancy of T-cell origin) has been reported for other similar medicines.
@@ -1303,9 +1297,9 @@ If you get any side effects, talk to your doctor or nurse. This includes any pos
 
 Do not use this medicine after the expiry date which is stated on the container label and infusion bag after EXP.
 
-Store frozen in vapour phase of liquid nitrogen ≤ -150 °C until thawed for use.
+Store frozen at ≤ -120 °C until thawed for use.
 
-Tecartus may be stored a single time at -80 °C (± 10 °C), for up to 90 days. After storage at -80 °C (± 10 °C), use the product within the 90-day period or the expiry date, whichever comes first. After these dates the product must be discarded.
+Tecartus may be stored a single time at -80°C (± 10 °C), for up to 90 days. After storage at  -80 °C (± 10 °C), use the product within the 90-day period or the expiry date, whichever comes first. After these dates the product must be discarded.
 
 Do not refreeze.
 
@@ -1345,9 +1339,7 @@ Gilead Sciences Ireland UC Тел .: + 353 (0) 1 686 1888
 
 ## Česká republika
 
-Gilead Sciences s.r.o.
-
-Tel: + 420 910 871 986
+Gilead Sciences s.r.o. Tel: + 420 910 871 986
 
 ## Danmark
 
@@ -1367,11 +1359,9 @@ Gilead Sciences Ελλάς Μ.ΕΠΕ. Τηλ: + 30 210 8930 100
 
 ## España
 
-Gilead Sciences, S.L. Tel: + 34 91 378 98 30
+Gilead Sciences, S.L.
 
-## France
-
-Gilead Sciences Tél : + 33 (0) 1 46 09 41 00
+Tel: + 34 91 378 98 30
 
 ## Lietuva
 
@@ -1387,9 +1377,7 @@ Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
 
 ## Malta
 
-Gilead Sciences Ireland UC
-
-Tel: + 353 (0) 1 686 1888
+Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
 
 ## Nederland
 
@@ -1407,17 +1395,31 @@ Gilead Sciences GesmbH Tel: + 43 1 260 830
 
 Gilead Sciences Poland Sp. z o.o. Tel: + 48 22 262 8702
 
+<div style=\"page-break-after: always\"></div>
+
+## France
+
 ## Portugal
 
-Gilead Sciences, Lda. Tel: + 351 21 7928790
+Gilead Sciences
+
+Tél : + 33 (0) 1 46 09 41 00
+
+Gilead Sciences, Lda.
+
+Tel: + 351 21 7928790
 
 ## Hrvatska
 
-Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
+Gilead Sciences Ireland UC
+
+Tel: + 353 (0) 1 686 1888
 
 ## România
 
-Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
+Gilead Sciences Ireland UC
+
+Tel: + 353 (0) 1 686 1888
 
 ## Ireland
 
@@ -1431,7 +1433,9 @@ Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
 
 ## Ísland
 
-Gilead Sciences Sweden AB Sími: + 46 (0) 8 5057 1849
+Gilead Sciences Sweden AB
+
+Sími: + 46 (0) 8 5057 1849
 
 ## Slovenská republika
 
@@ -1439,7 +1443,9 @@ Gilead Sciences Slovakia s.r.o. Tel: + 421 232 121 210
 
 ## Italia
 
-Gilead Sciences S.r.l. Tel: + 39 02 439201
+Gilead Sciences S.r.l.
+
+Tel: + 39 02 439201
 
 ## Suomi/Finland
 
@@ -1459,11 +1465,7 @@ Gilead Sciences Poland Sp. z o.o. Tel: + 48 22 262 8702
 
 ## United Kingdom (Northern Ireland)
 
-Gilead Sciences Ireland UC
-
-Tel: + 44 (0) 8000 113700
-
-<div style=\"page-break-after: always\"></div>
+Gilead Sciences Ireland UC Tel: + 44 (0) 8000 113700
 
 ## This leaflet was last revised in
 
@@ -1483,15 +1485,15 @@ Detailed information on this medicine is available on the European Medicines Age
 
 It is important that you read the entire content of this procedure prior to administering Tecartus.
 
-Precautions to be taken before handling or administering the medicinal product
+<div style=\"page-break-after: always\"></div>
+
+## Precautions to be taken before handling or administering the medicinal product
 
 Tecartus must be transported within the facility in closed, break-proof, leak-proof containers.
 
 This medicinal product contains human blood cells. Healthcare professionals handling Tecartus must take appropriate precautions (wearing gloves and eye protection) to avoid potential transmission of infectious diseases.
 
 Work surfaces and materials that have potentially been in contact with Tecartus must be decontaminated according to local guidelines on the handling of waste of human-derived materials.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Preparation prior to administration
 
@@ -1517,13 +1519,14 @@ Do NOT use a leukodepleting filter.
 - Tecartus is for autologous use only.
 - Tecartus must be administered as an intravenous infusion using latex-free intravenous tubing without a leukocyte depleting filter within 30 minutes by either gravity or a peristaltic pump.
 - Gently agitate the infusion bag during infusion to prevent cell clumping. All contents of the infusion bag must be infused.
-- Sterile sodium chloride 9 mg/mL (0.9%) (0.154 mmol sodium per mL) solution for injection must be used to prime the tubing prior to infusion as well as rinse it afterwards. When the full volume of Tecartus has been infused, the infusion bag must be rinsed with 10 to 30 mL sodium chloride 9 mg/mL (0.9%) solution for injection by back priming to ensure as many cells as possible are infused into the patient.
-
-## Preca u tions to be taken for the disposal of the medicinal product
-
-Unused medicinal product and any waste material that has been in contact with Tecartus (solid and liquid waste) must be handled and disposed of as potentially infectious waste in accordance with local guidelines on handling of waste of human-derived material.
 
 <div style=\"page-break-after: always\"></div>
+
+- Sterile sodium chloride 9 mg/mL (0.9%) (0.154 mmol sodium per mL) solution for injection must be used to prime the tubing prior to infusion as well as rinse it afterwards. When the full volume of Tecartus has been infused, the infusion bag must be rinsed with 10 to 30 mL sodium chloride 9 mg/mL (0.9%) solution for injection by back priming to ensure as many cells as possible are infused into the patient.
+
+## Precautions to be taken for the disposal of the medicinal product
+
+Unused medicinal product and any waste material that has been in contact with Tecartus (solid and liquid waste) must be handled and disposed of as potentially infectious waste in accordance with local guidelines on handling of waste of human-derived material.
 
 ## Accidental exposure
 

@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:41:09
+document_datetime: 2026-03-11 15:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/winrevair.html
 document_name: winrevair.html
 version: success
-processing_time: 0.1093265
-conversion_datetime: 2025-12-30 10:13:06.598908
+processing_time: 0.135018
+conversion_datetime: 2026-03-13 19:04:46.287178
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Winrevair
 
 [RSS](/en/individual-human-medicine.xml/244587)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 sotatercept Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -46,9 +44,9 @@ Page contents
 
 ## Overview
 
-Winrevair is a medicine used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH). Patients with PAH have an abnormally high blood pressure in the arteries of the lungs, causing symptoms such as breathlessness and fatigue.
+Winrevair is a medicine used to improve the ability to exercise in adults with pulmonary arterial hypertension (PAH). Patients with PAH have an abnormally high blood pressure in the arteries of the lungs, causing symptoms such as breathlessness, fatigue and fainting.
 
-Winrevair is used in combination with other PAH medicines in patients with moderate or marked limitations of physical activity (corresponding to WHO functional class II or III respectively).
+Winrevair is used in combination with other PAH medicines in patients with moderate to severe limitations of physical activity (corresponding to WHO functional class II to IV).
 
 PAH is rare, and Winrevair was designated an 'orphan medicine' (a medicine used in rare diseases) on 9 December 2020. Further information on the orphan designation can be found on the EMA [website](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-20-2369) .
 
@@ -62,9 +60,9 @@ Collapse section
 
 Treatment with Winrevair should be started and supervised by a doctor experienced in the diagnosis and treatment of PAH. The medicine can only be obtained with a prescription.
 
-Winrevair is available as a powder to be mixed with water to make a solution. It is given by injection with a syringe under the skin of the abdomen (belly), upper arm or upper thigh, every 3 weeks. Patients or their caregiver may inject Winrevair themselves after they have been trained to do so.
+Winrevair is available as a powder to be mixed with water to make a solution. It is given by injection under the skin of the abdomen (belly), upper arm or upper thigh, every 3 weeks. Patients or their caregiver may inject Winrevair themselves after they have been trained to do so.
 
-Before each of the first 5 doses of Winrevair, the doctor will verify that the patient's platelet levels are high enough and haemoglobin levels are not too high. These tests will then be carried out every 3 to 6 months. The doctor may adjust the dose, interrupt or stop treatment if certain side effects occur.
+Because Winrevair can increase the level of haemoglobin (the protein in red blood cells that carries oxygen around the body) and decrease the level of platelets (components that help the blood clot), the doctor will check these levels before each of the first 5 doses of Winrevair. These tests will then be repeated every 3 to 6 months. The doctor may need to adjust the dose, interrupt or stop treatment if certain side effects occur.
 
 For more information about using Winrevair, see the package leaflet or contact your doctor or pharmacist.
 
@@ -74,31 +72,35 @@ The active substance in Winrevair, sotatercept, attaches to and blocks a protein
 
 ## What benefits of Winrevair have been shown in studies?
 
-A main study has shown that Winrevair was more effective than placebo (a dummy treatment) at improving the ability of adults with PAH to exercise. The main measure of effectiveness was the difference in the distance patients could walk in 6 minutes before and after treatment.
+A first main study showed that Winrevair was more effective than placebo (a dummy treatment) at improving the ability of adults with class II and III PAH to exercise. The main measure of effectiveness was the difference in the distance patients could walk in 6 minutes before and after treatment.
 
-In this study, involving 323 patients with PAH, after 24 weeks of treatment, Winrevair given in addition to other PAH medicines improved the distance patients could walk in 6 minutes by around 34 meters, compared with 1 meter in patients who had placebo in place of Winrevair.
+In this study, involving 323 people with class II and III PAH, after 24 weeks of treatment, Winrevair given in addition to other PAH medicines improved the distance patients could walk in 6 minutes by around 34 meters, compared with 1 meter in patients who had placebo.
+
+A second main study in 172 people with class III and IV PAH showed that, when Winrevair was given with other PAH medicines, around 17% of people had a poor outcome, compared with around 55% of those given placebo with other PAH medicines. Poor outcomes included being admitted to hospital for more than 24 hours, lung transplantation or death.
 
 ## What are the risks associated with Winrevair?
 
 For the full list of side effects and restrictions with Winrevair, see the package leaflet.
 
-The most common side effects with Winrevair (which may affect more than 1 in 10 people) include headache, epistaxis (nosebleed), telangiectasia (small red blood vessels in the skin), diarrhoea, dizziness, rash and thrombocytopenia (low levels of blood platelets).
+The most common side effects with Winrevair (which may affect more than 1 in 10 people) include headache, epistaxis (nosebleed), telangiectasia (small red blood vessels in the skin), diarrhoea, increased haemoglobin levels, dizziness, back pain, rash, thrombocytopenia (low levels of blood platelets) and bleeding of the gums.
 
-The most common serious side effects with Winrevair (which may affect up to 1 in 100 people) include thrombocytopenia and epistaxis.
+Some side effects can be serious. The most frequent serious side effects with Winrevair (which may affect up to 1 in 100 people) include thrombocytopenia, epistaxis and dizziness.
 
-Winrevair must not be given to patients whose platelet levels are consistently low (less than 50 x 10 9 /L) as it may increase the risk of bleeding. Winrevair should also not be used during pregnancy as it may harm the foetus.
+Winrevair must not be given to patients whose platelet levels are consistently low (less than 50 x 109/L) as it may increase the risk of bleeding. Winrevair should also not be used during pregnancy as it may harm the unborn baby.
 
 ## Why is Winrevair authorised in the EU?
 
-In a main study, Winrevair was shown to improve the ability of patients with PAH to exercise. Regarding safety, the side effects of Winrevair were considered manageable. There are limited data about the cardiovascular (affecting the heart or blood circulation) safety of Winrevair and more data are required.
+At the time of authorisation, existing treatments for PAH often did not control the disease well enough and people with PAH still had a shorter life expectancy, highlighting a need for additional treatments.
+
+Winrevair was shown to improve the ability of people with PAH class II and III to exercise and to reduce the risk of poor outcomes in those with class III and IV disease.
+
+Regarding safety, the side effects of Winrevair were considered manageable. There are limited data about the cardiovascular (affecting the heart or blood circulation) safety of Winrevair and more data are required. The company was requested to provide further results from studies with Winrevair to evaluate the cardiovascular safety of the medicine.
 
 The European Medicines Agency therefore decided that Winrevair's benefits are greater than its risks and it can be authorised for use in the EU.
 
 ## What measures are being taken to ensure the safe and effective use of Winrevair?
 
-The company that markets Winrevair must provide the results of a study assessing the cardiovascular safety of Winrevair.
-
-Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Winrevair have also been included in the summary of product characteristics and the package leaflet.
+Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Winrevair have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Winrevair are continuously monitored. Suspected side effects reported with Winrevair are carefully evaluated and any necessary action taken to protect patients.
 
@@ -108,197 +110,23 @@ Winrevair received a marketing authorisation valid throughout the EU on 22 Augus
 
 Winrevair : EPAR - Medicine overview
 
-Reference Number: EMA/313481/2024
+Reference Number: EMADOC-1829012207-38767
 
-English (EN) (122.22 KB - PDF)
+English (EN) (124.47 KB - PDF)
 
 **First published:** 25/09/2024
+
+**Last updated:** 11/03/2026
 
 [View](/en/documents/overview/winrevair-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-676)
-
-български (BG) (135.61 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/bg/documents/overview/winrevair-epar-medicine-overview_bg.pdf)
-
-español (ES) (121.79 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/es/documents/overview/winrevair-epar-medicine-overview_es.pdf)
-
-čeština (CS) (142.84 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/cs/documents/overview/winrevair-epar-medicine-overview_cs.pdf)
-
-dansk (DA) (121.31 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/da/documents/overview/winrevair-epar-medicine-overview_da.pdf)
-
-Deutsch (DE) (123.69 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/de/documents/overview/winrevair-epar-medicine-overview_de.pdf)
-
-eesti keel (ET) (118.64 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/et/documents/overview/winrevair-epar-medicine-overview_et.pdf)
-
-ελληνικά (EL) (145.06 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/el/documents/overview/winrevair-epar-medicine-overview_el.pdf)
-
-français (FR) (123.45 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/fr/documents/overview/winrevair-epar-medicine-overview_fr.pdf)
-
-hrvatski (HR) (142.66 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/hr/documents/overview/winrevair-epar-medicine-overview_hr.pdf)
-
-italiano (IT) (121.83 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/it/documents/overview/winrevair-epar-medicine-overview_it.pdf)
-
-latviešu valoda (LV) (150.84 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/lv/documents/overview/winrevair-epar-medicine-overview_lv.pdf)
-
-lietuvių kalba (LT) (143.83 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/lt/documents/overview/winrevair-epar-medicine-overview_lt.pdf)
-
-magyar (HU) (143.94 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/hu/documents/overview/winrevair-epar-medicine-overview_hu.pdf)
-
-Malti (MT) (145.44 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/mt/documents/overview/winrevair-epar-medicine-overview_mt.pdf)
-
-Nederlands (NL) (121.24 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/nl/documents/overview/winrevair-epar-medicine-overview_nl.pdf)
-
-polski (PL) (145.01 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/pl/documents/overview/winrevair-epar-medicine-overview_pl.pdf)
-
-português (PT) (121.91 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/pt/documents/overview/winrevair-epar-medicine-overview_pt.pdf)
-
-română (RO) (141.6 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/ro/documents/overview/winrevair-epar-medicine-overview_ro.pdf)
-
-slovenčina (SK) (142.93 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/sk/documents/overview/winrevair-epar-medicine-overview_sk.pdf)
-
-slovenščina (SL) (143.2 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/sl/documents/overview/winrevair-epar-medicine-overview_sl.pdf)
-
-Suomi (FI) (119.57 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/fi/documents/overview/winrevair-epar-medicine-overview_fi.pdf)
-
-svenska (SV) (119.94 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/sv/documents/overview/winrevair-epar-medicine-overview_sv.pdf)
-
 Winrevair : EPAR - Risk management plan
 
-English (EN) (665.9 KB - PDF)
+English (EN) (855.3 KB - PDF)
 
 **First published:** 25/09/2024
+
+**Last updated:** 09/03/2026
 
 [View](/en/documents/rmp/winrevair-epar-risk-management-plan_en.pdf)
 
@@ -306,17 +134,17 @@ English (EN) (665.9 KB - PDF)
 
 Winrevair : EPAR - Product information
 
-English (EN) (2.82 MB - PDF)
+English (EN) (3.13 MB - PDF)
 
 **First published:** 25/09/2024
 
-**Last updated:** 28/03/2025
+**Last updated:** 09/03/2026
 
 [View](/en/documents/product-information/winrevair-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-967)
+[Other languages (24)](#file-language-dropdown-316)
 
-български (BG) (2.94 MB - PDF)
+български (BG) (3.08 MB - PDF)
 
 **First published:**
 
@@ -324,11 +152,11 @@ English (EN) (2.82 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/bg/documents/product-information/winrevair-epar-product-information_bg.pdf)
 
-español (ES) (3.04 MB - PDF)
+español (ES) (3.2 MB - PDF)
 
 **First published:**
 
@@ -336,11 +164,11 @@ español (ES) (3.04 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/es/documents/product-information/winrevair-epar-product-information_es.pdf)
 
-čeština (CS) (3.15 MB - PDF)
+čeština (CS) (3.22 MB - PDF)
 
 **First published:**
 
@@ -348,11 +176,11 @@ español (ES) (3.04 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/cs/documents/product-information/winrevair-epar-product-information_cs.pdf)
 
-dansk (DA) (3.1 MB - PDF)
+dansk (DA) (3.25 MB - PDF)
 
 **First published:**
 
@@ -360,11 +188,11 @@ dansk (DA) (3.1 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/da/documents/product-information/winrevair-epar-product-information_da.pdf)
 
-Deutsch (DE) (3.6 MB - PDF)
+Deutsch (DE) (4.14 MB - PDF)
 
 **First published:**
 
@@ -372,11 +200,11 @@ Deutsch (DE) (3.6 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/de/documents/product-information/winrevair-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.85 MB - PDF)
+eesti keel (ET) (3 MB - PDF)
 
 **First published:**
 
@@ -384,11 +212,11 @@ eesti keel (ET) (2.85 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/et/documents/product-information/winrevair-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.94 MB - PDF)
+ελληνικά (EL) (3.13 MB - PDF)
 
 **First published:**
 
@@ -396,11 +224,11 @@ eesti keel (ET) (2.85 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/el/documents/product-information/winrevair-epar-product-information_el.pdf)
 
-français (FR) (3.1 MB - PDF)
+français (FR) (3.26 MB - PDF)
 
 **First published:**
 
@@ -408,11 +236,11 @@ français (FR) (3.1 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/fr/documents/product-information/winrevair-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.83 MB - PDF)
+hrvatski (HR) (2.98 MB - PDF)
 
 **First published:**
 
@@ -420,11 +248,11 @@ hrvatski (HR) (2.83 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/hr/documents/product-information/winrevair-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.86 MB - PDF)
+íslenska (IS) (3.01 MB - PDF)
 
 **First published:**
 
@@ -432,11 +260,11 @@ hrvatski (HR) (2.83 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/is/documents/product-information/winrevair-epar-product-information_is.pdf)
 
-italiano (IT) (2.98 MB - PDF)
+italiano (IT) (3.13 MB - PDF)
 
 **First published:**
 
@@ -444,11 +272,11 @@ italiano (IT) (2.98 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/it/documents/product-information/winrevair-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (3.39 MB - PDF)
+latviešu valoda (LV) (3.51 MB - PDF)
 
 **First published:**
 
@@ -456,11 +284,11 @@ latviešu valoda (LV) (3.39 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/lv/documents/product-information/winrevair-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.84 MB - PDF)
+lietuvių kalba (LT) (2.98 MB - PDF)
 
 **First published:**
 
@@ -468,11 +296,11 @@ lietuvių kalba (LT) (2.84 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/lt/documents/product-information/winrevair-epar-product-information_lt.pdf)
 
-magyar (HU) (3.14 MB - PDF)
+magyar (HU) (3.29 MB - PDF)
 
 **First published:**
 
@@ -480,11 +308,11 @@ magyar (HU) (3.14 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/hu/documents/product-information/winrevair-epar-product-information_hu.pdf)
 
-Malti (MT) (3.31 MB - PDF)
+Malti (MT) (3.46 MB - PDF)
 
 **First published:**
 
@@ -492,11 +320,11 @@ Malti (MT) (3.31 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/mt/documents/product-information/winrevair-epar-product-information_mt.pdf)
 
-Nederlands (NL) (3.63 MB - PDF)
+Nederlands (NL) (3.77 MB - PDF)
 
 **First published:**
 
@@ -504,11 +332,11 @@ Nederlands (NL) (3.63 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/nl/documents/product-information/winrevair-epar-product-information_nl.pdf)
 
-norsk (NO) (2.84 MB - PDF)
+norsk (NO) (3 MB - PDF)
 
 **First published:**
 
@@ -516,11 +344,11 @@ norsk (NO) (2.84 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/no/documents/product-information/winrevair-epar-product-information_no.pdf)
 
-polski (PL) (3.83 MB - PDF)
+polski (PL) (4.03 MB - PDF)
 
 **First published:**
 
@@ -528,11 +356,11 @@ polski (PL) (3.83 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/pl/documents/product-information/winrevair-epar-product-information_pl.pdf)
 
-português (PT) (2.97 MB - PDF)
+português (PT) (3.12 MB - PDF)
 
 **First published:**
 
@@ -540,11 +368,11 @@ português (PT) (2.97 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/pt/documents/product-information/winrevair-epar-product-information_pt.pdf)
 
-română (RO) (2.82 MB - PDF)
+română (RO) (2.94 MB - PDF)
 
 **First published:**
 
@@ -552,11 +380,11 @@ română (RO) (2.82 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/ro/documents/product-information/winrevair-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.79 MB - PDF)
+slovenčina (SK) (3.01 MB - PDF)
 
 **First published:**
 
@@ -564,11 +392,11 @@ slovenčina (SK) (2.79 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/sk/documents/product-information/winrevair-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.7 MB - PDF)
+slovenščina (SL) (2.84 MB - PDF)
 
 **First published:**
 
@@ -576,11 +404,11 @@ slovenščina (SL) (2.7 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/sl/documents/product-information/winrevair-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.95 MB - PDF)
+Suomi (FI) (3.11 MB - PDF)
 
 **First published:**
 
@@ -588,11 +416,11 @@ Suomi (FI) (2.95 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/fi/documents/product-information/winrevair-epar-product-information_fi.pdf)
 
-svenska (SV) (3 MB - PDF)
+svenska (SV) (3.16 MB - PDF)
 
 **First published:**
 
@@ -600,11 +428,11 @@ svenska (SV) (3 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+09/03/2026
 
 [View](/sv/documents/product-information/winrevair-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000246288 28/03/2025
+**Latest procedure affecting product information:** VR/0000278021 19/01/2026
 
 icon globe
 
@@ -628,7 +456,7 @@ English (EN) (22.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-856)
+[Other languages (24)](#file-language-dropdown-678)
 
 български (BG) (25.24 KB - PDF)
 
@@ -832,7 +660,7 @@ Antihypertensives
 
 ### Therapeutic indication
 
-Winrevair, in combination with other pulmonary arterial hypertension (PAH) therapies, is indicated for the treatment of PAH in adult patients with WHO Functional Class (FC) II to III, to improve exercise capacity (see section 5.1).
+Winrevair, in combination with other pulmonary arterial hypertension (PAH) therapies, is indicated for the treatment of PAH in adult patients with WHO Functional Class (FC) II, III and IV.
 
 ## Authorisation details
 
@@ -856,7 +684,7 @@ Merck Sharp &amp; Dohme B.V.
 
 Waarderweg 39
 
-Opinion adopted 27/06/2024 Marketing authorisation issued 22/08/2024 Revision 1
+Opinion adopted 27/06/2024 Marketing authorisation issued 22/08/2024 Revision 2
 
 ## Assessment history
 
@@ -868,11 +696,37 @@ Collapse section
 
 Winrevair : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (124.23 KB - PDF)
+English (EN) (162.51 KB - PDF)
 
 **First published:** 28/03/2025
 
+**Last updated:** 09/03/2026
+
 [View](/en/documents/procedural-steps-after/winrevair-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Winrevair-VR-0000278021 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2692691
+
+English (EN) (4.96 MB - PDF)
+
+**First published:** 09/03/2026
+
+[View](/en/documents/variation-report/winrevair-vr-0000278021-epar-assessment-report_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Winrevair (EMA/VR/0000278021)
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2692693
+
+English (EN) (138.88 KB - PDF)
+
+**First published:** 12/12/2025
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-winrevair-ema-vr-0000278021_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -912,7 +766,7 @@ English (EN) (156.35 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-winrevair_en.pdf)
 
-#### News on Winrevair
+## News on Winrevair
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 8-11 December 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-8-11-december-2025) 12/12/2025
 
@@ -920,12 +774,11 @@ English (EN) (156.35 KB - PDF)
 
 [Positive CHMP opinion on first-in-class medicine to treat pulmonary arterial hypertension](/en/news/positive-chmp-opinion-first-class-medicine-treat-pulmonary-arterial-hypertension) 28/06/2024
 
-#### More information on Winrevair
+## More information on Winrevair
 
 - [EU/3/20/2369 - orphan designation for treatment of pulmonary arterial hypertension](/en/medicines/human/orphan-designations/eu-3-20-2369)
-- [Winrevair - opinion on variation to marketing authorisation](/en/medicines/human/variation/winrevair)
 
-**This page was last updated on** 28/03/2025
+**This page was last updated on** 11/03/2026
 
 ## Share this page
 

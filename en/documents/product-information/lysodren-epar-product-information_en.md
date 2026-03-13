@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-04-08 11:52:02
+document_datetime: 2026-03-11 10:48:53
 document_pages: 25
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lysodren-epar-product-information_en.pdf
 document_name: lysodren-epar-product-information_en.pdf
 version: success
-processing_time: 4.6306504
-conversion_datetime: 2025-12-21 17:37:09.146756
+processing_time: 5.2772687
+conversion_datetime: 2026-03-13 19:30:44.170921
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -114,7 +114,7 @@ Before the initiation of the treatment: Large metastatic masses should be surgic
 
 Risk of adrenal insufficiency: All patients with non functional tumour and 75% of patients with functional tumour show signs of adrenal insufficiency. Therefore, steroid replacement may be necessary in these patients. Since mitotane increases plasma levels of steroid binding proteins, free cortisol and corticotropin (ACTH) determinations are necessary for optimal dosing of steroid substitution (see section 4.8). Glucocorticoid insufficiency is more frequent, but mineralocorticoid insufficiency may also be associated and the steroid substitution may need to be adapted accordingly.
 
-Shock, severe trauma or infection: Mitotane should be temporarily discontinued immediately following shock, severe trauma or infection, since adrenal suppression is its prime action. Exogenous steroids should be administered in such circumstances, since the depressed adrenal gland may not immediately start to secrete steroids. Because of an increased risk of acute adrenocortical insufficiency, patients should be instructed to contact their physician immediately if injury, infection, or any other concomitant illness occurs. Patients should carry with them the Lysodren Patient Card provided with the package leaflet indicating that they are prone to adrenal insufficiency and that, in case of emergency care, adequate precautionary measures should be taken.
+Shock, severe trauma or infection: Mitotane should be temporarily discontinued immediately following shock, severe trauma or infection, since adrenal suppression is its prime action. Exogenous steroids should be administered in such circumstances, since the depressed adrenal gland may not immediately start to secrete steroids. Because of an increased risk of acute adrenocortical insufficiency, patients should be instructed to contact their physician immediately if injury, infection, or any other concomitant illness occurs.
 
 Monitoring of plasma levels: Mitotane plasma levels should be monitored in order to adjust the mitotane dose, particularly if high starting doses are considered necessary. Dose adjustments may be necessary to achieve the desired therapeutic levels in the window between 14 - 20 mg/L and avoid specific adverse reactions (see section 4.2). For further information on the sample testing please contact the Marketing Authorisation Holder or its local representative (see section 7).
 
@@ -124,11 +124,11 @@ Hepatotoxicity has been observed in patients treated with mitotane. Cases of liv
 
 Metabolism and nutrition disorders: Regardless of Lysodren dosage, triglycerides should be monitored regularly especially in patients with or at risk of dyslipidemia (such as metabolic syndrome, alcohol abuse, high fat diet…). Triglyceride-lowering therapy and discontinuation of Lysodren may be considered in case of severe hypertriglyceridemia as it is a potential cause of acute pancreatitis.
 
-Mitotane tissue accumulation: Fat tissue can act as a reservoir for mitotane, resulting in a prolonged half-life and potential accumulation of mitotane. Consequently, despite a constant dose, mitotane levels may increase. Therefore, monitoring of mitotane plasma levels (e.g. every two months) is also
+Mitotane tissue accumulation: Fat tissue can act as a reservoir for mitotane, resulting in a prolonged half-life and potential accumulation of mitotane. Consequently, despite a constant dose, mitotane levels may increase. Therefore, monitoring of mitotane plasma levels (e.g. every two months) is also necessary after interruption of treatment, as prolonged release of mitotane can occur. Caution and close monitoring of mitotane plasma levels are highly recommended when treating overweight
 
 <div style=\"page-break-after: always\"></div>
 
-necessary after interruption of treatment, as prolonged release of mitotane can occur. Caution and close monitoring of mitotane plasma levels are highly recommended when treating overweight patients and patients with recent weight loss.
+patients and patients with recent weight loss.
 
 Central nervous system disorders: Long-term continuous administration of high doses of mitotane may lead to reversible brain damage and impairment of function. Behavioural and neurological assessments should be made at regular intervals, especially when mitotane plasma levels exceed 20 mg/L (see section 4.8).
 
@@ -150,11 +150,11 @@ Spironolactone : Mitotane must not be given in combination with spironolactone, 
 
 Warfarin and coumarin-like anticoagulants : Mitotane has been reported to accelerate the metabolism of warfarin through hepatic microsomal enzyme induction, leading to an increase in dose requirements for warfarin. Therefore, patients should be closely monitored for a change in anticoagulant dose requirements when mitotane is administered to patients on coumarin-like anticoagulants.
 
-Substances metabolised through cytochrome P450 : Mitotane has been shown to have an inductive effect on cytochrome P450 enzymes. Therefore, the plasma concentrations of the substances metabolised via cytochrome P450 may be modified. In the absence of information on the specific P450 isoenzymes involved, caution should be taken when co-prescribing active substances metabolised by this route such as, among others, anticonvulsants, rifabutin, rifampicin, griseofulvin and St. John's wort ( Hypericum perforatum ). Particularly, mitotane has been shown to have an inductive effect on cytochrome 3A4. Therefore, the plasma concentrations of the substances metabolised via cytochrome 3A4 may be modified. Caution should be taken when co-prescribing
+Substances metabolised through cytochrome P450 : Mitotane has been shown to have an inductive effect on cytochrome P450 enzymes. Therefore, the plasma concentrations of the substances metabolised via cytochrome P450 may be modified. In the absence of information on the specific P450 isoenzymes involved, caution should be taken when co-prescribing active substances metabolised by this route such as, among others, anticonvulsants, rifabutin, rifampicin, griseofulvin and St. John's wort ( Hypericum perforatum ). Particularly, mitotane has been shown to have an inductive effect on cytochrome 3A4. Therefore, the plasma concentrations of the substances metabolised via cytochrome 3A4 may be modified. Caution should be taken when co-prescribing active substances metabolised by this pathway such as, among others, sunitinib, etoposide and midazolam and dose should be adjusted as appropriate when coadministered with mitotane.
 
 <div style=\"page-break-after: always\"></div>
 
-active substances metabolised by this pathway such as, among others, sunitinib, etoposide and midazolam and dose should be adjusted as appropriate when coadministered with mitotane. Enzyme induction is likely to persist after discontinuation of mitotane treatment.
+Enzyme induction is likely to persist after discontinuation of mitotane treatment.
 
 Medicinal products active on central nervous system: Mitotane can cause central nervous system undesirable effects at high concentrations (see section 4.8). Although no specific information on pharmacodynamic interactions in the central nervous system is available, this should be borne in mind when co-prescribing medicinal products with central nervous system depressant action.
 
@@ -344,7 +344,7 @@ EU/1/04/273/001
 
 Date of first authorisation: 28 April 2004
 
-Date of last renewal: 25 March 2009
+Date of last renewal: 28 April 2009
 
 <div style=\"page-break-after: always\"></div>
 
@@ -497,9 +497,9 @@ NN
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 ## Lysodren 500 mg tablets
 
@@ -511,8 +511,6 @@ mitotane
 - -If you have any further questions, ask your doctor or pharmacist.
 - -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
 - -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
-
-Always keep with you the Lysodren Patient Card included at the end of this leaflet.
 
 ## What is in this leaflet
 
@@ -546,10 +544,10 @@ You should tell your doctor if any of the following applies to you:
 - -if you have an injury (shock, severe trauma), an infection or if you have any illness while you are taking Lysodren. Tell your doctor immediately, who may decide to temporarily stop treatment.
 - -if you have liver problems: Tell your doctor if you develop any of the following signs and symptoms of liver problems during Lysodren treatment: itching, yellow eyes or skin, dark urine, and pain or discomfort in the right upper stomach area. Your doctor should do blood tests to check your liver function before and during treatment with Lysodren, and as clinically indicated. Your doctor may decide to interrupt Lysodren treatment.
 - -if you have severe kidney problems.
+- -if you are using any medicines mentioned below (see \"Other medicines and Lysodren\").
 
 <div style=\"page-break-after: always\"></div>
 
-- -if you are using any medicines mentioned below (see \"Other medicines and Lysodren\").
 - -if you have gynaecological problems such as vaginal bleeding, menstrual disorders and/ or pelvic pain.
 
 This medicine should not be handled by persons other than the patient and his/her caregivers, and especially not by pregnant women. Caregivers should wear disposable gloves when handling the tablets.
@@ -559,8 +557,6 @@ This medicine should not be handled by persons other than the patient and his/he
 Lysodren may temporarily lower the amount of hormones produced by your adrenal gland (cortisol) but your doctor will correct this using appropriate hormone medication (steroids).
 
 Lysodren can cause bleeding that lasts longer than usual. If you need to have surgery or dental procedures during treatment with Lysodren, your healthcare provider will do blood tests to check for prolonged bleeding risks.
-
-Always keep with you the Lysodren Patient Card included at the end of this leaflet.
 
 ## Other medicines and Lysodren
 
@@ -594,17 +590,15 @@ Because of the potential for serious adverse reactions in your baby, you must no
 
 Lysodren has a major influence on your ability to drive and use machines. Ask your doctor for advice.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 3. How to take Lysodren
 
 Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Dose and schedule
 
-The usual starting dose for adults is 2 to 3 g (4 to 6 tablets) per day.
-
-Your doctor may start treatment at higher doses such as 4 to 6 g (8 to 12 tablets).
+The usual starting dose for adults is 2 to 3 g (4 to 6 tablets) per day. Your doctor may start treatment at higher doses such as 4 to 6 g (8 to 12 tablets).
 
 In order to find the optimal dose for you, your doctor will monitor regularly the levels of Lysodren in your blood. Your doctor may decide to stop treatment with Lysodren temporarily or to lower the dose if you experience certain side effects.
 
@@ -630,7 +624,7 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-Tell your doctor immediately if you experience any of the following side effects:
+## Tell your doctor immediately if you experience any of the following side effects:
 
 - -Adrenal insufficiency: fatigue, abdominal pain, nausea, vomiting, diarrhoea, confusion
 - -Anaemia: cutaneous pallor, muscular fatigability, feeling breathless, vertigo especially when standing up
@@ -650,14 +644,14 @@ Side effects may occur with certain frequencies, which are defined as follows:
 - -vomiting, nausea (feeling sick), diarrhoea, belly pain
 - -lack of appetite
 - -abnormal sensations like pins and needles
-
-<div style=\"page-break-after: always\"></div>
-
 - -movement and coordination disorders, vertigo, confusional state
 - -feeling sleepy, fatigue, muscle weakness (fatigue of muscle during effort)
 - -inflammation (swelling, heat, pain) of mucosa, skin rash
 - -blood disorders (bleeding time prolonged)
 - -increase of cholesterol, triglycerides (fats) and liver enzymes (in blood tests)
+
+<div style=\"page-break-after: always\"></div>
+
 - -decrease in white blood cells count
 - -breast overdevelopment in men
 - -adrenal insufficiency (may cause fatigue, abdominal pain, nausea, vomiting, diarrhoea, confusion)
@@ -676,7 +670,8 @@ Side effects may occur with certain frequencies, which are defined as follows:
 
 - -fever
 - -general aching
-- -flushing, high or low blood pressure, feeling of dizziness/vertigo when you suddenly stand up
+- -
+- flushing, high or low blood pressure, feeling of dizziness/vertigo when you suddenly stand up
 - -increased production of saliva
 - -eye disorders: visual impairment, vision blurred, double vision, distortion of images, complain of glare
 - -opportunistic infection
@@ -701,11 +696,11 @@ Side effects may occur with certain frequencies, which are defined as follows:
 
 In children and adolescents, thyroid problems, neuro-psychological, growth retardation and one case of encephalopathy have been observed. In addition, some signs of hormonal changes (such as breast overdevelopment in males and vaginal bleeding and/or early breast development in females) have been observed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Lysodren
 
@@ -740,34 +735,16 @@ Esteve Pharmaceuticals S.A. Passeig de La Zona Franca 109 Planta 4 08038 Barcelo
 
 Latina Pharma S.p.A. Via Murillo, 7 04013 Sermoneta (LT) Italy or
 
-Centre Spécialités Pharmaceutiques 76-78, avenue du Midi 63800 Cournon d'Auvergne France
+Centre Spécialités Pharmaceutiques 76-78, avenue du Midi 63800 Cournon d'Auvergne
+
+France
 
 ## This leaflet was last revised in
-
-<div style=\"page-break-after: always\"></div>
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency (EMA) web site: https://www.emea.europa.eu/. There are also links to other websites about rare diseases and treatments.
 
+<div style=\"page-break-after: always\"></div>
+
 This leaflet is available in all EU/EEA on the European Medicines Agency website.
-
-<!-- image -->
-
-## LYSODREN   PATIENT   CARD
-
-I am on Lysodren (mitotane) treatment
-
-I am prone to acute adrenal insufficiency
-
-In case I need emergency care, adequate precautionary measures should be taken
-
-The name of my Doctor is:
-
-………………………………………..
-
-Phone: ……………………………….
-
-For information on the product, please contact: Esteve Pharmaceuticals S.A.
-
-Tel: + 34 93 446 60 00 medinfo-RD@esteve.com

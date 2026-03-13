@@ -1,32 +1,30 @@
 ---
-document_datetime: 2026-01-07 16:30:00
+document_datetime: 2026-03-12 17:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lenalidomide-krka.html
 document_name: lenalidomide-krka.html
 version: success
-processing_time: 0.1484314
-conversion_datetime: 2026-01-10 11:39:58.089995
+processing_time: 0.1283103
+conversion_datetime: 2026-03-13 18:24:21.631052
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.1
-  docling: 2.67.0
-  docling-core: 2.58.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Lenalidomide Krka (previously Lenalidomide Krka d.d. Novo mesto)
 
 [RSS](/en/individual-human-medicine.xml/67412)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 lenalidomide Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +116,7 @@ English (EN) (160.61 KB - PDF)
 
 [View](/en/documents/overview/lenalidomide-krka-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-358)
+[Other languages (22)](#file-language-dropdown-908)
 
 български (BG) (138.53 KB - PDF)
 
@@ -386,11 +384,11 @@ svenska (SV) (130.12 KB - PDF)
 
 Lenalidomide Krka : EPAR - Risk management plan
 
-English (EN) (957.02 KB - PDF)
+English (EN) (825.83 KB - PDF)
 
 **First published:** 18/02/2021
 
-**Last updated:** 26/07/2024
+**Last updated:** 12/03/2026
 
 [View](/en/documents/rmp-summary/lenalidomide-krka-epar-risk-management-plan_en.pdf)
 
@@ -398,17 +396,17 @@ English (EN) (957.02 KB - PDF)
 
 Lenalidomide Krka : EPAR - Product information
 
-English (EN) (623.77 KB - PDF)
+English (EN) (658.6 KB - PDF)
 
 **First published:** 18/02/2021
 
-**Last updated:** 07/01/2026
+**Last updated:** 12/03/2026
 
 [View](/en/documents/product-information/lenalidomide-krka-epar-product-information_en.pdf)
 
-[Other languages (19)](#file-language-dropdown-421)
+[Other languages (24)](#file-language-dropdown-413)
 
-български (BG) (699.92 KB - PDF)
+български (BG) (734.5 KB - PDF)
 
 **First published:**
 
@@ -416,11 +414,11 @@ English (EN) (623.77 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+12/03/2026
 
 [View](/bg/documents/product-information/lenalidomide-krka-epar-product-information_bg.pdf)
 
-español (ES) (789 KB - PDF)
+español (ES) (821.14 KB - PDF)
 
 **First published:**
 
@@ -428,11 +426,11 @@ español (ES) (789 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+12/03/2026
 
 [View](/es/documents/product-information/lenalidomide-krka-epar-product-information_es.pdf)
 
-čeština (CS) (552.8 KB - PDF)
+čeština (CS) (587.71 KB - PDF)
 
 **First published:**
 
@@ -440,11 +438,11 @@ español (ES) (789 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+12/03/2026
 
 [View](/cs/documents/product-information/lenalidomide-krka-epar-product-information_cs.pdf)
 
-Deutsch (DE) (585.16 KB - PDF)
+dansk (DA) (586.18 KB - PDF)
 
 **First published:**
 
@@ -452,11 +450,23 @@ Deutsch (DE) (585.16 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+12/03/2026
+
+[View](/da/documents/product-information/lenalidomide-krka-epar-product-information_da.pdf)
+
+Deutsch (DE) (615.68 KB - PDF)
+
+**First published:**
+
+18/02/2021
+
+**Last updated:**
+
+12/03/2026
 
 [View](/de/documents/product-information/lenalidomide-krka-epar-product-information_de.pdf)
 
-français (FR) (586.84 KB - PDF)
+eesti keel (ET) (563.07 KB - PDF)
 
 **First published:**
 
@@ -464,11 +474,35 @@ français (FR) (586.84 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+12/03/2026
+
+[View](/et/documents/product-information/lenalidomide-krka-epar-product-information_et.pdf)
+
+ελληνικά (EL) (792.2 KB - PDF)
+
+**First published:**
+
+18/02/2021
+
+**Last updated:**
+
+12/03/2026
+
+[View](/el/documents/product-information/lenalidomide-krka-epar-product-information_el.pdf)
+
+français (FR) (619.18 KB - PDF)
+
+**First published:**
+
+18/02/2021
+
+**Last updated:**
+
+12/03/2026
 
 [View](/fr/documents/product-information/lenalidomide-krka-epar-product-information_fr.pdf)
 
-hrvatski (HR) (575.82 KB - PDF)
+hrvatski (HR) (613.03 KB - PDF)
 
 **First published:**
 
@@ -476,11 +510,11 @@ hrvatski (HR) (575.82 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+12/03/2026
 
 [View](/hr/documents/product-information/lenalidomide-krka-epar-product-information_hr.pdf)
 
-íslenska (IS) (575.58 KB - PDF)
+íslenska (IS) (606.85 KB - PDF)
 
 **First published:**
 
@@ -488,11 +522,11 @@ hrvatski (HR) (575.82 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+12/03/2026
 
 [View](/is/documents/product-information/lenalidomide-krka-epar-product-information_is.pdf)
 
-italiano (IT) (565.91 KB - PDF)
+italiano (IT) (599.99 KB - PDF)
 
 **First published:**
 
@@ -500,11 +534,11 @@ italiano (IT) (565.91 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+12/03/2026
 
 [View](/it/documents/product-information/lenalidomide-krka-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (572.01 KB - PDF)
+latviešu valoda (LV) (608.9 KB - PDF)
 
 **First published:**
 
@@ -512,11 +546,11 @@ latviešu valoda (LV) (572.01 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+12/03/2026
 
 [View](/lv/documents/product-information/lenalidomide-krka-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (586.23 KB - PDF)
+lietuvių kalba (LT) (624.99 KB - PDF)
 
 **First published:**
 
@@ -524,11 +558,11 @@ lietuvių kalba (LT) (586.23 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+12/03/2026
 
 [View](/lt/documents/product-information/lenalidomide-krka-epar-product-information_lt.pdf)
 
-magyar (HU) (605.57 KB - PDF)
+magyar (HU) (640.07 KB - PDF)
 
 **First published:**
 
@@ -536,11 +570,11 @@ magyar (HU) (605.57 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+12/03/2026
 
 [View](/hu/documents/product-information/lenalidomide-krka-epar-product-information_hu.pdf)
 
-Malti (MT) (687.62 KB - PDF)
+Malti (MT) (718.18 KB - PDF)
 
 **First published:**
 
@@ -548,11 +582,11 @@ Malti (MT) (687.62 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+12/03/2026
 
 [View](/mt/documents/product-information/lenalidomide-krka-epar-product-information_mt.pdf)
 
-Nederlands (NL) (563.29 KB - PDF)
+Nederlands (NL) (585.28 KB - PDF)
 
 **First published:**
 
@@ -560,11 +594,11 @@ Nederlands (NL) (563.29 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+12/03/2026
 
 [View](/nl/documents/product-information/lenalidomide-krka-epar-product-information_nl.pdf)
 
-norsk (NO) (557.78 KB - PDF)
+norsk (NO) (588.11 KB - PDF)
 
 **First published:**
 
@@ -572,11 +606,11 @@ norsk (NO) (557.78 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+12/03/2026
 
 [View](/no/documents/product-information/lenalidomide-krka-epar-product-information_no.pdf)
 
-polski (PL) (612.5 KB - PDF)
+polski (PL) (647.15 KB - PDF)
 
 **First published:**
 
@@ -584,11 +618,11 @@ polski (PL) (612.5 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+12/03/2026
 
 [View](/pl/documents/product-information/lenalidomide-krka-epar-product-information_pl.pdf)
 
-português (PT) (563.85 KB - PDF)
+português (PT) (593.45 KB - PDF)
 
 **First published:**
 
@@ -596,11 +630,11 @@ português (PT) (563.85 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+12/03/2026
 
 [View](/pt/documents/product-information/lenalidomide-krka-epar-product-information_pt.pdf)
 
-română (RO) (618.38 KB - PDF)
+română (RO) (654.5 KB - PDF)
 
 **First published:**
 
@@ -608,11 +642,11 @@ română (RO) (618.38 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+12/03/2026
 
 [View](/ro/documents/product-information/lenalidomide-krka-epar-product-information_ro.pdf)
 
-slovenčina (SK) (570.37 KB - PDF)
+slovenčina (SK) (609.04 KB - PDF)
 
 **First published:**
 
@@ -620,11 +654,11 @@ slovenčina (SK) (570.37 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+12/03/2026
 
 [View](/sk/documents/product-information/lenalidomide-krka-epar-product-information_sk.pdf)
 
-Suomi (FI) (557.52 KB - PDF)
+slovenščina (SL) (581.37 KB - PDF)
 
 **First published:**
 
@@ -632,11 +666,35 @@ Suomi (FI) (557.52 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+12/03/2026
+
+[View](/sl/documents/product-information/lenalidomide-krka-epar-product-information_sl.pdf)
+
+Suomi (FI) (578.5 KB - PDF)
+
+**First published:**
+
+18/02/2021
+
+**Last updated:**
+
+12/03/2026
 
 [View](/fi/documents/product-information/lenalidomide-krka-epar-product-information_fi.pdf)
 
-**Latest procedure affecting product information:** R/0000272358 04/12/2025
+svenska (SV) (558.79 KB - PDF)
+
+**First published:**
+
+18/02/2021
+
+**Last updated:**
+
+12/03/2026
+
+[View](/sv/documents/product-information/lenalidomide-krka-epar-product-information_sv.pdf)
+
+**Latest procedure affecting product information:** VR/0000310403 12/03/2026
 
 icon globe
 
@@ -662,7 +720,7 @@ English (EN) (45.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lenalidomide-krka-epar-all-authorised-presentation_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-50)
+[Other languages (24)](#file-language-dropdown-340)
 
 български (BG) (51.88 KB - PDF)
 
@@ -962,7 +1020,7 @@ English (EN) (56.83 KB - PDF)
 
 [View](/en/documents/conditions-member-states/lenalidomide-krka-epar-conditions-or-restrictions-regard-safe-and-effective-use-medicinal-product-be-implemented-member-states_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-343)
+[Other languages (24)](#file-language-dropdown-757)
 
 български (BG) (69.33 KB - PDF)
 
@@ -1305,7 +1363,7 @@ Krka, d.d., Novo mesto
 
 Krka, d.d., Novo mesto Šmarješka cesta 6 8501 Novo mesto Slovenia
 
-Opinion adopted 10/12/2020 Marketing authorisation issued 11/02/2021 Revision 6
+Opinion adopted 10/12/2020 Marketing authorisation issued 11/02/2021 Revision 7
 
 ## Assessment history
 
@@ -1317,9 +1375,11 @@ Collapse section
 
 Lenalidomide Krka : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (142.19 KB - PDF)
+English (EN) (145.1 KB - PDF)
 
 **First published:** 07/01/2026
+
+**Last updated:** 12/03/2026
 
 [View](/en/documents/procedural-steps-after/lenalidomide-krka-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1359,11 +1419,11 @@ English (EN) (156.88 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-lenalidomide-krka-dd-novo-mesto_en.pdf)
 
-#### News on Lenalidomide Krka (previously Lenalidomide Krka d.d. Novo mesto)
+## News on Lenalidomide Krka (previously Lenalidomide Krka d.d. Novo mesto)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 December 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-december-2020) 11/12/2020
 
-#### More information on Lenalidomide Krka
+## More information on Lenalidomide Krka
 
 Questions and answers on generic medicines
 
@@ -1377,7 +1437,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-184)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1643,7 +1703,7 @@ svenska (SV) (67.11 KB - PDF)
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-**This page was last updated on** 07/01/2026
+**This page was last updated on** 12/03/2026
 
 ## Share this page
 

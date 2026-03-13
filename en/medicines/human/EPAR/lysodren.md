@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 14:33:40
+document_datetime: 2026-03-11 10:53:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lysodren.html
 document_name: lysodren.html
 version: success
-processing_time: 0.1117977
-conversion_datetime: 2025-12-31 05:10:01.257015
+processing_time: 0.0970584
+conversion_datetime: 2026-03-13 18:30:39.378906
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Lysodren
 
 [RSS](/en/individual-human-medicine.xml/67001)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 mitotane Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +113,7 @@ English (EN) (76.28 KB - PDF)
 
 [View](/en/documents/overview/lysodren-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-457)
+[Other languages (21)](#file-language-dropdown-899)
 
 български (BG) (130.04 KB - PDF)
 
@@ -371,19 +369,19 @@ svenska (SV) (101.94 KB - PDF)
 
 ## Product information
 
-Lysodren : EPAR - Product Information
+Lysodren : EPAR - Product information
 
-English (EN) (530.88 KB - PDF)
+English (EN) (480.27 KB - PDF)
 
 **First published:** 29/04/2009
 
-**Last updated:** 08/04/2025
+**Last updated:** 11/03/2026
 
 [View](/en/documents/product-information/lysodren-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-406)
+[Other languages (24)](#file-language-dropdown-573)
 
-български (BG) (483.19 KB - PDF)
+български (BG) (438.02 KB - PDF)
 
 **First published:**
 
@@ -391,11 +389,11 @@ English (EN) (530.88 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/bg/documents/product-information/lysodren-epar-product-information_bg.pdf)
 
-español (ES) (502.57 KB - PDF)
+español (ES) (472.9 KB - PDF)
 
 **First published:**
 
@@ -403,11 +401,11 @@ español (ES) (502.57 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/es/documents/product-information/lysodren-epar-product-information_es.pdf)
 
-čeština (CS) (550.4 KB - PDF)
+čeština (CS) (529.16 KB - PDF)
 
 **First published:**
 
@@ -415,11 +413,11 @@ español (ES) (502.57 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/cs/documents/product-information/lysodren-epar-product-information_cs.pdf)
 
-dansk (DA) (438.57 KB - PDF)
+dansk (DA) (395.11 KB - PDF)
 
 **First published:**
 
@@ -427,11 +425,11 @@ dansk (DA) (438.57 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/da/documents/product-information/lysodren-epar-product-information_da.pdf)
 
-Deutsch (DE) (558.68 KB - PDF)
+Deutsch (DE) (522.58 KB - PDF)
 
 **First published:**
 
@@ -439,11 +437,11 @@ Deutsch (DE) (558.68 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/de/documents/product-information/lysodren-epar-product-information_de.pdf)
 
-eesti keel (ET) (378.62 KB - PDF)
+eesti keel (ET) (348.7 KB - PDF)
 
 **First published:**
 
@@ -451,11 +449,11 @@ eesti keel (ET) (378.62 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/et/documents/product-information/lysodren-epar-product-information_et.pdf)
 
-ελληνικά (EL) (488.64 KB - PDF)
+ελληνικά (EL) (465.35 KB - PDF)
 
 **First published:**
 
@@ -463,11 +461,11 @@ eesti keel (ET) (378.62 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/el/documents/product-information/lysodren-epar-product-information_el.pdf)
 
-français (FR) (433.26 KB - PDF)
+français (FR) (400.35 KB - PDF)
 
 **First published:**
 
@@ -475,11 +473,11 @@ français (FR) (433.26 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/fr/documents/product-information/lysodren-epar-product-information_fr.pdf)
 
-hrvatski (HR) (452.83 KB - PDF)
+hrvatski (HR) (416.4 KB - PDF)
 
 **First published:**
 
@@ -487,11 +485,11 @@ hrvatski (HR) (452.83 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/hr/documents/product-information/lysodren-epar-product-information_hr.pdf)
 
-íslenska (IS) (419.4 KB - PDF)
+íslenska (IS) (374.88 KB - PDF)
 
 **First published:**
 
@@ -499,11 +497,11 @@ hrvatski (HR) (452.83 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/is/documents/product-information/lysodren-epar-product-information_is.pdf)
 
-italiano (IT) (500.27 KB - PDF)
+italiano (IT) (460.56 KB - PDF)
 
 **First published:**
 
@@ -511,11 +509,11 @@ italiano (IT) (500.27 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/it/documents/product-information/lysodren-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (578.7 KB - PDF)
+latviešu valoda (LV) (528.15 KB - PDF)
 
 **First published:**
 
@@ -523,11 +521,11 @@ latviešu valoda (LV) (578.7 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/lv/documents/product-information/lysodren-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (426.67 KB - PDF)
+lietuvių kalba (LT) (397.25 KB - PDF)
 
 **First published:**
 
@@ -535,11 +533,11 @@ lietuvių kalba (LT) (426.67 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/lt/documents/product-information/lysodren-epar-product-information_lt.pdf)
 
-magyar (HU) (469.74 KB - PDF)
+magyar (HU) (438.83 KB - PDF)
 
 **First published:**
 
@@ -547,11 +545,11 @@ magyar (HU) (469.74 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/hu/documents/product-information/lysodren-epar-product-information_hu.pdf)
 
-Malti (MT) (480.13 KB - PDF)
+Malti (MT) (446.87 KB - PDF)
 
 **First published:**
 
@@ -559,11 +557,11 @@ Malti (MT) (480.13 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/mt/documents/product-information/lysodren-epar-product-information_mt.pdf)
 
-Nederlands (NL) (541.62 KB - PDF)
+Nederlands (NL) (481.28 KB - PDF)
 
 **First published:**
 
@@ -571,11 +569,11 @@ Nederlands (NL) (541.62 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/nl/documents/product-information/lysodren-epar-product-information_nl.pdf)
 
-norsk (NO) (476.48 KB - PDF)
+norsk (NO) (429.96 KB - PDF)
 
 **First published:**
 
@@ -583,11 +581,11 @@ norsk (NO) (476.48 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/no/documents/product-information/lysodren-epar-product-information_no.pdf)
 
-polski (PL) (476.74 KB - PDF)
+polski (PL) (434.25 KB - PDF)
 
 **First published:**
 
@@ -595,11 +593,11 @@ polski (PL) (476.74 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/pl/documents/product-information/lysodren-epar-product-information_pl.pdf)
 
-português (PT) (592.66 KB - PDF)
+português (PT) (553.44 KB - PDF)
 
 **First published:**
 
@@ -607,11 +605,11 @@ português (PT) (592.66 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/pt/documents/product-information/lysodren-epar-product-information_pt.pdf)
 
-română (RO) (533.96 KB - PDF)
+română (RO) (506.55 KB - PDF)
 
 **First published:**
 
@@ -619,11 +617,11 @@ română (RO) (533.96 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/ro/documents/product-information/lysodren-epar-product-information_ro.pdf)
 
-slovenčina (SK) (549.59 KB - PDF)
+slovenčina (SK) (507.9 KB - PDF)
 
 **First published:**
 
@@ -631,11 +629,11 @@ slovenčina (SK) (549.59 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/sk/documents/product-information/lysodren-epar-product-information_sk.pdf)
 
-slovenščina (SL) (617.7 KB - PDF)
+slovenščina (SL) (493.78 KB - PDF)
 
 **First published:**
 
@@ -643,11 +641,11 @@ slovenščina (SL) (617.7 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/sl/documents/product-information/lysodren-epar-product-information_sl.pdf)
 
-Suomi (FI) (382.05 KB - PDF)
+Suomi (FI) (333.62 KB - PDF)
 
 **First published:**
 
@@ -655,11 +653,11 @@ Suomi (FI) (382.05 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/fi/documents/product-information/lysodren-epar-product-information_fi.pdf)
 
-svenska (SV) (400.76 KB - PDF)
+svenska (SV) (346.75 KB - PDF)
 
 **First published:**
 
@@ -667,11 +665,11 @@ svenska (SV) (400.76 KB - PDF)
 
 **Last updated:**
 
-08/04/2025
+11/03/2026
 
 [View](/sv/documents/product-information/lysodren-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** T/0000248630 04/04/2025
+**Latest procedure affecting product information:** VR/0000322704 13/02/2026
 
 icon globe
 
@@ -697,7 +695,7 @@ English (EN) (57.27 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lysodren-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-456)
+[Other languages (18)](#file-language-dropdown-173)
 
 español (ES) (56.72 KB - PDF)
 
@@ -931,11 +929,11 @@ Symptomatic treatment of advanced (unresectable, metastatic or relapsed) adrenal
 
 EMA product number EMEA/H/C/000521 Marketing authorisation holder
 
-Esteve RD France SAS
+Esteve Pharmaceuticals, S.A.
 
-25 Boulevard Romain Rolland 92120 Montrouge FRANCE
+Passeig de la Zona Franca, 109 Planta 4 08038 Barcelona Spain
 
-Marketing authorisation issued 28/04/2004 Revision 23
+Marketing authorisation issued 28/04/2004 Revision 24
 
 ## Assessment history
 
@@ -947,9 +945,11 @@ Collapse section
 
 Lysodren : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (139.56 KB - PDF)
+English (EN) (142.68 KB - PDF)
 
 **First published:** 08/04/2025
+
+**Last updated:** 11/03/2026
 
 [View](/en/documents/procedural-steps-after/lysodren-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1023,11 +1023,11 @@ English (EN) (32.68 KB - PDF)
 
 [View](/en/documents/procedural-steps/lysodren-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### News on Lysodren
+## News on Lysodren
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 May 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-may-2013) 31/05/2013
 
-#### More information on Lysodren
+## More information on Lysodren
 
 Questions and answers on the outcome of an extension of indication application for Lysodren (mitotane)
 
@@ -1043,11 +1043,11 @@ English (EN) (73.92 KB - PDF)
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](/en/medicines/human/orphan-designations/eu302102) on 12 June 2002. Lysodren was removed from the Community register of orphan medicinal products in April 2014 at the end of the 10-year period of market exclusivity.
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 08/04/2025
+**This page was last updated on** 11/03/2026
 
 ## Share this page
 

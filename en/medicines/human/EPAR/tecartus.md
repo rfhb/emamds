@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 09:09:32
+document_datetime: 2026-03-12 17:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tecartus.html
 document_name: tecartus.html
 version: success
-processing_time: 0.11376
-conversion_datetime: 2025-12-30 19:58:56.83148
+processing_time: 0.1054256
+conversion_datetime: 2026-03-13 18:28:06.491528
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Tecartus
 
 [RSS](/en/individual-human-medicine.xml/67387)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 brexucabtagene autoleucel Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -131,7 +129,7 @@ English (EN) (150.79 KB - PDF)
 
 [View](/en/documents/overview/tecartus-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-445)
+[Other languages (22)](#file-language-dropdown-7)
 
 български (BG) (180.17 KB - PDF)
 
@@ -411,17 +409,17 @@ English (EN) (1.51 MB - PDF)
 
 Tecartus : EPAR - Product information
 
-English (EN) (364.3 KB - PDF)
+English (EN) (409.07 KB - PDF)
 
 **First published:** 25/01/2021
 
-**Last updated:** 08/12/2025
+**Last updated:** 12/03/2026
 
 [View](/en/documents/product-information/tecartus-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-419)
+[Other languages (24)](#file-language-dropdown-500)
 
-български (BG) (621.67 KB - PDF)
+български (BG) (616.58 KB - PDF)
 
 **First published:**
 
@@ -429,11 +427,11 @@ English (EN) (364.3 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/bg/documents/product-information/tecartus-epar-product-information_bg.pdf)
 
-español (ES) (434.46 KB - PDF)
+español (ES) (433.43 KB - PDF)
 
 **First published:**
 
@@ -441,11 +439,11 @@ español (ES) (434.46 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/es/documents/product-information/tecartus-epar-product-information_es.pdf)
 
-čeština (CS) (557.62 KB - PDF)
+čeština (CS) (563.13 KB - PDF)
 
 **First published:**
 
@@ -453,11 +451,11 @@ español (ES) (434.46 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/cs/documents/product-information/tecartus-epar-product-information_cs.pdf)
 
-dansk (DA) (452.9 KB - PDF)
+dansk (DA) (442.81 KB - PDF)
 
 **First published:**
 
@@ -465,11 +463,11 @@ dansk (DA) (452.9 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/da/documents/product-information/tecartus-epar-product-information_da.pdf)
 
-Deutsch (DE) (471.65 KB - PDF)
+Deutsch (DE) (459.87 KB - PDF)
 
 **First published:**
 
@@ -477,11 +475,11 @@ Deutsch (DE) (471.65 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/de/documents/product-information/tecartus-epar-product-information_de.pdf)
 
-eesti keel (ET) (514.96 KB - PDF)
+eesti keel (ET) (513.57 KB - PDF)
 
 **First published:**
 
@@ -489,11 +487,11 @@ eesti keel (ET) (514.96 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/et/documents/product-information/tecartus-epar-product-information_et.pdf)
 
-ελληνικά (EL) (602.36 KB - PDF)
+ελληνικά (EL) (632.58 KB - PDF)
 
 **First published:**
 
@@ -501,11 +499,11 @@ eesti keel (ET) (514.96 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/el/documents/product-information/tecartus-epar-product-information_el.pdf)
 
-français (FR) (450.85 KB - PDF)
+français (FR) (449.99 KB - PDF)
 
 **First published:**
 
@@ -513,11 +511,11 @@ français (FR) (450.85 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/fr/documents/product-information/tecartus-epar-product-information_fr.pdf)
 
-hrvatski (HR) (519.53 KB - PDF)
+hrvatski (HR) (519.33 KB - PDF)
 
 **First published:**
 
@@ -525,11 +523,11 @@ hrvatski (HR) (519.53 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/hr/documents/product-information/tecartus-epar-product-information_hr.pdf)
 
-íslenska (IS) (434.56 KB - PDF)
+íslenska (IS) (425.58 KB - PDF)
 
 **First published:**
 
@@ -537,11 +535,11 @@ hrvatski (HR) (519.53 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/is/documents/product-information/tecartus-epar-product-information_is.pdf)
 
-italiano (IT) (455.94 KB - PDF)
+italiano (IT) (438.72 KB - PDF)
 
 **First published:**
 
@@ -549,11 +547,11 @@ italiano (IT) (455.94 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/it/documents/product-information/tecartus-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (574.06 KB - PDF)
+latviešu valoda (LV) (573.97 KB - PDF)
 
 **First published:**
 
@@ -561,11 +559,11 @@ latviešu valoda (LV) (574.06 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/lv/documents/product-information/tecartus-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (532.96 KB - PDF)
+lietuvių kalba (LT) (532.74 KB - PDF)
 
 **First published:**
 
@@ -573,11 +571,11 @@ lietuvių kalba (LT) (532.96 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/lt/documents/product-information/tecartus-epar-product-information_lt.pdf)
 
-magyar (HU) (457.72 KB - PDF)
+magyar (HU) (588.83 KB - PDF)
 
 **First published:**
 
@@ -585,11 +583,11 @@ magyar (HU) (457.72 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/hu/documents/product-information/tecartus-epar-product-information_hu.pdf)
 
-Malti (MT) (601.24 KB - PDF)
+Malti (MT) (601.04 KB - PDF)
 
 **First published:**
 
@@ -597,11 +595,11 @@ Malti (MT) (601.24 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/mt/documents/product-information/tecartus-epar-product-information_mt.pdf)
 
-Nederlands (NL) (452.78 KB - PDF)
+Nederlands (NL) (440.87 KB - PDF)
 
 **First published:**
 
@@ -609,11 +607,11 @@ Nederlands (NL) (452.78 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/nl/documents/product-information/tecartus-epar-product-information_nl.pdf)
 
-norsk (NO) (371.64 KB - PDF)
+norsk (NO) (427 KB - PDF)
 
 **First published:**
 
@@ -621,11 +619,11 @@ norsk (NO) (371.64 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/no/documents/product-information/tecartus-epar-product-information_no.pdf)
 
-polski (PL) (594.36 KB - PDF)
+polski (PL) (598.78 KB - PDF)
 
 **First published:**
 
@@ -633,11 +631,11 @@ polski (PL) (594.36 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/pl/documents/product-information/tecartus-epar-product-information_pl.pdf)
 
-português (PT) (442.82 KB - PDF)
+português (PT) (428.13 KB - PDF)
 
 **First published:**
 
@@ -645,11 +643,11 @@ português (PT) (442.82 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/pt/documents/product-information/tecartus-epar-product-information_pt.pdf)
 
-română (RO) (595.71 KB - PDF)
+română (RO) (577.97 KB - PDF)
 
 **First published:**
 
@@ -657,11 +655,11 @@ română (RO) (595.71 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/ro/documents/product-information/tecartus-epar-product-information_ro.pdf)
 
-slovenčina (SK) (558.69 KB - PDF)
+slovenčina (SK) (565.66 KB - PDF)
 
 **First published:**
 
@@ -669,11 +667,11 @@ slovenčina (SK) (558.69 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/sk/documents/product-information/tecartus-epar-product-information_sk.pdf)
 
-slovenščina (SL) (441.71 KB - PDF)
+slovenščina (SL) (553.97 KB - PDF)
 
 **First published:**
 
@@ -681,11 +679,11 @@ slovenščina (SL) (441.71 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/sl/documents/product-information/tecartus-epar-product-information_sl.pdf)
 
-Suomi (FI) (458.21 KB - PDF)
+Suomi (FI) (444.92 KB - PDF)
 
 **First published:**
 
@@ -693,11 +691,11 @@ Suomi (FI) (458.21 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/fi/documents/product-information/tecartus-epar-product-information_fi.pdf)
 
-svenska (SV) (444.58 KB - PDF)
+svenska (SV) (431.4 KB - PDF)
 
 **First published:**
 
@@ -705,11 +703,11 @@ svenska (SV) (444.58 KB - PDF)
 
 **Last updated:**
 
-08/12/2025
+12/03/2026
 
 [View](/sv/documents/product-information/tecartus-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000285857 13/11/2025
+**Latest procedure affecting product information:** VR/0000309793 26/02/2026
 
 icon globe
 
@@ -733,7 +731,7 @@ English (EN) (43.69 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tecartus-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-921)
+[Other languages (24)](#file-language-dropdown-144)
 
 български (BG) (62.2 KB - PDF)
 
@@ -971,7 +969,7 @@ Kite Pharma EU B.V.
 
 Science Park 408 1098 XH Amsterdam Netherlands
 
-Opinion adopted 15/10/2020 Marketing authorisation issued 14/12/2020 Revision 16
+Opinion adopted 15/10/2020 Marketing authorisation issued 14/12/2020 Revision 17
 
 ## Assessment history
 
@@ -983,11 +981,11 @@ Collapse section
 
 Tecartus : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (128.99 KB - PDF)
+English (EN) (159.67 KB - PDF)
 
 **First published:** 02/06/2025
 
-**Last updated:** 08/12/2025
+**Last updated:** 12/03/2026
 
 [View](/en/documents/procedural-steps-after/tecartus-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1105,7 +1103,7 @@ English (EN) (105.56 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-tecartus_en.pdf)
 
-#### News on Tecartus
+## News on Tecartus
 
 [Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 10-13 June 2024](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-10-13-june-2024) 14/06/2024
 
@@ -1115,18 +1113,18 @@ English (EN) (105.56 KB - PDF)
 
 [First CAR-T cell medicine for mantle cell lymphoma](/en/news/first-car-t-cell-medicine-mantle-cell-lymphoma) 16/10/2020
 
-#### More information on Tecartus
+## More information on Tecartus
 
 - [EMEA-001862-PIP01-15-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001862-pip01-15-m04)
 - [EU/3/19/2220 - orphan designation for treatment of mantle cell lymphoma](/en/medicines/human/orphan-designations/eu-3-19-2220)
 - [EU/3/20/2344 - orphan designation for treatment of acute lymphoblastic leukaemia](/en/medicines/human/orphan-designations/eu-3-20-2344)
 - [EMEA-001862-PIP03-20-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001862-pip03-20-m02)
 - [Abecma / Breyanzi / Carvykti / Kymriah / Tecartus / Yescarta - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/abecma-breyanzi-carvykti-kymriah-tecartus-yescarta)
-- [Long-term, Non-interventional Study of Recipients of Tecartus for Treatment of Adult Patients With Relapsed or Refractory (R/R) Mantle Cell Lymphoma (MCL) or Adult Patients With R/R B-Cell Precursor Acute Lymphoblastic Leukemia (ALL) - post-authorisation study](https://catalogues.ema.europa.eu/study/50709)
 - [Molecular profiling of tissue samples from patients who received a Kite-manufactured gene-modified cell therapy and have developed a secondary malignancy of T-cell origin - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000769)
+- [Long-term, Non-interventional Study of Recipients of Tecartus for Treatment of Adult Patients With Relapsed or Refractory (R/R) Mantle Cell Lymphoma (MCL) or Adult Patients With R/R B-Cell Precursor Acute Lymphoblastic Leukemia (ALL) - post-authorisation study](https://catalogues.ema.europa.eu/study/50709)
 - [Tecartus Survey: Quantitative Testing of Health Care Professional Knowledge About Tecartus® Risk Minimisation Measures - post-authorisation study](https://catalogues.ema.europa.eu/study/105577)
 
-**This page was last updated on** 08/12/2025
+**This page was last updated on** 12/03/2026
 
 ## Share this page
 

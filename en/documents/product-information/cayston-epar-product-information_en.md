@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-07-12 13:47:27
+document_datetime: 2026-03-09 10:02:04
 document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cayston-epar-product-information_en.pdf
 document_name: cayston-epar-product-information_en.pdf
 version: success
-processing_time: 8.6565439
-conversion_datetime: 2025-12-20 09:54:28.913454
+processing_time: 8.7519196
+conversion_datetime: 2026-03-13 19:25:46.797564
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -90,7 +90,7 @@ The safety and efficacy of Cayston in children younger than 6 years of age have 
 
 ## For inhalation use.
 
-Cayston should only be used with the Altera Nebuliser Handset and Altera Aerosol Head connected to an eBase Controller or an eFlow rapid Control Unit.  For instructions on reconstitution of the medicinal product before administration, see section 6.6.
+Cayston should only be used with the Altera Nebuliser Handset and Altera Aerosol Head connected to an eBase Controller or an eTrack Controller.  For instructions on reconstitution of the medicinal product before administration, see section 6.6.
 
 ## 4.3 Contraindications
 
@@ -189,8 +189,6 @@ Frequencies are defined as follows: very common (≥ 1/10), common (≥ 1/100 to
 | Very common:                                          | pyrexia                                                             |
 | Investigations:                                       | Investigations:                                                     |
 | Common:                                               | lung function test decreased 1                                      |
-
-1 See section  Description of selected adverse reactions
 
 ## Description of selected adverse reactions
 
@@ -427,13 +425,13 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-## Reconstitution
+Reconstitution
 
 Cayston should only be reconstituted with the solvent provided.  Following reconstitution, Cayston is a clear, colourless to slightly coloured solution.
 
 It is recommended that Cayston be administered immediately after reconstitution with solvent. Cayston should not be reconstituted until a dose is ready to be administered.  One glass vial containing Cayston is opened by carefully removing the blue cap and the metal ring, and then the grey rubber stopper.  The liquid is squeezed out of one solvent ampoule into the glass vial.  The vial is then gently swirled until contents have completely dissolved.  The reconstituted Cayston is then poured into the Altera Nebuliser Handset and the dose administered.
 
-Cayston is administered by inhalation over a 2 to 3 minute period, using a Cayston specific Altera Nebuliser Handset and Altera Aerosol Head connected to an eBase Controller or an eFlow rapid Control Unit.  Cayston should not be used with any other type of handset or aerosol head.  Cayston should not be mixed with any other medicinal products in the Altera Nebuliser Handset.  Do not put other medicinal products in the Altera Nebuliser Handset.
+Cayston is administered by inhalation over a 2 to 3 minute period, using a Cayston specific Altera Nebuliser Handset and Altera Aerosol Head connected to an eBase Controller or an eTrack Controller. Cayston should not be used with any other type of handset or aerosol head.  Cayston should not be mixed with any other medicinal products in the Altera Nebuliser Handset.  Do not put other medicinal products in the Altera Nebuliser Handset.
 
 Do not reconstitute or mix Cayston with any other solvent or medicinal product.  Do not reconstitute more than one dose at a time.  Any unused product or waste material should be disposed of in accordance with local requirements.
 
@@ -591,7 +589,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Cayston 75 mg
 
@@ -601,7 +599,9 @@ Cayston 75 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC {number} SN {number} NN {number}
+PC {number} SN {number}
+
+NN {number}
 
 <div style=\"page-break-after: always\"></div>
 
@@ -679,7 +679,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Cayston 75 mg
 
@@ -687,9 +687,13 @@ Cayston 75 mg
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC {number} SN {number} NN {number}
+PC {number}
+
+SN {number}
+
+NN {number}
 
 <div style=\"page-break-after: always\"></div>
 
@@ -776,8 +780,8 @@ Store in a refrigerator.  May be stored outside a refrigerator but below 25°C f
 
 Gilead Sciences Ireland UC Carrigtohill County Cork, T45 DP77 Ireland
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/09/543/002: 28-day pack of Cayston plus one Altera Nebuliser Handset
 
@@ -789,8 +793,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -876,7 +880,9 @@ Cayston 75 mg
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS Cayston VIAL LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+Cayston VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -904,17 +910,17 @@ GILEAD
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| SOLVENT AMPOULE LABEL                                              |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| SOLVENT AMPOULE LABEL                                            |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Solvent for Cayston Sodium Chloride 0.17%
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 Inhalation use only
 
@@ -924,8 +930,8 @@ Inhalation use only
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 1 ml
 
@@ -1016,7 +1022,7 @@ Always take this medicine exactly as your doctor has told you.  Check with your 
 
 The recommended dose is:
 
-- -Take Cayston 3 times a day in repeated cycles of 28 days on therapy followed by 28 days off Cayston therapy. Each of the three doses should be taken by inhalation at least four hours apart, using an Altera Nebuliser Handset.  You can use either an eBase Controller or an eFlow rapid Control Unit with the Altera Handset.
+- -Take Cayston 3 times a day in repeated cycles of 28 days on therapy followed by 28 days off Cayston therapy. Each of the three doses should be taken by inhalation at least four hours apart, using an Altera Nebuliser Handset.  You can use either an eBase Controller or an eTrack Controller with the Altera Nebuliser Handset.
 - -Each dose consists of one vial of Cayston mixed with one ampoule of solvent.  Cayston needs to be mixed with a solvent before being inhaled through the Altera Nebuliser.
 
 Put the prepared Cayston solution in the Altera Nebuliser Handset (see below).  Each treatment takes about 2 to 3 minutes to inhale.
@@ -1042,9 +1048,9 @@ You will need the following:
 
 -  One amber-coloured vial of Cayston with a blue cap.
 -  One plastic ampoule of solvent (0.17% w/v sodium chloride).  The information that appears on the solvent ampoule is provided in English only (see section 6).
--  An Altera Nebuliser Handset containing an Altera Aerosol Head connected to an eFlow Control Unit of the type 178 (eFlow rapid) or type 678 (eBase Controller).
+-  An Altera Nebuliser Handset containing an Altera Aerosol Head connected to an eBase Controller or eTrack Controller.
 
-You must use the Cayston specific Altera Nebuliser Handset containing an Altera Aerosol Head. Do not try to take Cayston using any other type of nebuliser handset (including the eFlow rapid handset).
+You must use the Cayston specific Altera Nebuliser Handset containing an Altera Aerosol Head. Do not try to take Cayston using any other type of nebuliser handset.
 
 Check that your nebuliser works properly before starting your treatment with Cayston.  Read the manufacturer's instructions for use provided with your Altera Nebuliser System carefully.
 
@@ -1089,10 +1095,11 @@ Figure 2
 
 ## Preparing the Altera Nebuliser to take your Cayston
 
-1. Make sure the Altera Nebuliser Handset is on a flat, stable surface.
-2. Remove the medicine cap by twisting anticlockwise.
-3. Pour all of the prepared Cayston from the vial into the Altera Nebuliser Handset medicine reservoir (Figure 3a).  Be sure to completely empty the vial.  Gently tap the vial against the side of the medicine reservoir if necessary.
-4. Close the medicine reservoir by aligning the tabs of the medicine cap with the slots on the reservoir.  Press down and turn the cap clockwise as far as it will go (Figure 3b).
+1. Make sure you have an eBase or eTrack Controller to connect to the Altera Nebuliser Handset.
+2. 2.. Make sure the Altera Nebuliser Handset is on a flat, stable surface.
+3. Remove the medicine cap by twisting anticlockwise.
+4. Pour all of the prepared Cayston from the vial into the Altera Nebuliser Handset medicine reservoir (Figure 3a).  Be sure to completely empty the vial.  Gently tap the vial against the side of the medicine reservoir if necessary.
+5. Close the medicine reservoir by aligning the tabs of the medicine cap with the slots on the reservoir.  Press down and turn the cap clockwise as far as it will go (Figure 3b).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1102,29 +1109,29 @@ Figure 3a
 
 ## Using the Altera Nebuliser to take your Cayston
 
-1. Begin your treatment. Sit in a relaxed, upright position.  Hold the handset level and place the mouthpiece in your mouth and close your lips around it (Figure 4).
+1. Begin your treatment. Sit in a relaxed, upright position.  Hold the nebuliser handset level and place the mouthpiece in your mouth and close your lips around it (Figure 4).
 
 Figure 4
 
 <!-- image -->
 
-## Keep the handset level.
+## Keep the nebuliser handset level.
 
-2. Press the On/Off button on the Control Unit.  You will hear one 'beep'.
-3. After a few seconds, an aerosol mist will begin to flow into the Aerosol Chamber of the Altera Nebuliser Handset.  If aerosol mist does not begin to flow, please refer to the Altera manual for information.
+2. Turn on the controller. Press and hold the ON/OFF button . You will hear one 'beep' and the eFlow® Technology logo will appear on the display. Select the treatment mode by pressing the OK button when using the eTrack Controller.
+3. Aerosol mist will begin to flow into the Aerosol Chamber of the Altera Nebuliser Handset.  If aerosol mist does not begin to flow, please refer to the instructions for use of the Altera Nebuliser Handset. .
 4. Breathe normally (inhale and exhale) through the mouthpiece.  Avoid breathing through your nose.  Continue to inhale and exhale comfortably until the treatment is finished.
-5. When all of the medicine has been delivered, you will hear a tone that means 'treatment complete' (2 beeps).
-6. When treatment is complete, open the medicine cap to ensure that all medicine has been used. A few drops of medicine may remain in the reservoir at the end of treatment.  If there is more than a few drops of liquid left, replace the medicine cap and restart treatment.
+5. When all of the medicine has been delivered, you will hear a tone that means 'treatment complete' (2 beeps) and the dose complete checkmark will appear briefly on the display.
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-7. Once treatment is complete, disconnect the Control Unit and take apart the Altera Nebuliser Handset for cleaning and disinfecting.  For complete details on cleaning and disinfecting refer to the manufacturer's instructions for use provided with your Altera Nebuliser Handset.
+6. When treatment is complete, open the medicine cap to ensure that all medicine has been used. A few drops of medicine may remain in the reservoir at the end of treatment.  If there is more than a few drops of liquid left, replace the medicine cap and restart treatment.
+7. Once treatment is complete, disconnect the eBase Controller or the eTrack Controller and take apart the Altera Nebuliser Handset for cleaning and disinfecting.  For complete details on cleaning and disinfecting refer to the manufacturer's instructions for use provided with your Altera Nebuliser Handset.
 
 ## What if I need to stop my treatment before I've finished?
 
-8. If for any reason you must stop the treatment before you have finished, press and hold the On/Off button for one full second.  To re-start the treatment, press and hold the On/Off button for one full second and then restart the treatment.
+8. If for any reason you must stop the treatment before you have finished, press the ON/OFF button. To restart the treatment, press the ON/OFF button again and restart the treatment.
 
 ## Replacing the Altera Nebuliser Handset
 
@@ -1208,12 +1215,11 @@ Do not throw away any medicines via wastewater or household waste.  Ask your pha
 - -The powder vial contains 75 mg aztreonam (as lysine).
 - -The solvent ampoule contains water for injections and sodium chloride.  The ampoule is imprinted in English only.  The information that appears on the ampoule is presented below:
 
-| Solvent for Cayston Sodium Chloride   |
-|---------------------------------------|
-| 0.17%                                 |
-| Inhalation use only                   |
-| 1 ml                                  |
-| GILEAD SCIENCES                       |
+| Solvent for Cayston Sodium Chloride 0.17%   |
+|---------------------------------------------|
+| Inhalation use only                         |
+| 1 ml                                        |
+| GILEAD SCIENCES                             |
 
 ## What Cayston looks like and contents of the pack
 
@@ -1248,61 +1254,69 @@ For any information about this medicine, please contact the local representative
 
 Gilead Sciences Belgium SRL-BV Tél/Tel: + 32 (0) 2 401 35 50
 
-## България
-
-Gilead Sciences Ireland UC Teл.: + 353 (0) 1 686 1888
-
-## Česká republika
-
-Gilead Sciences s.r.o. Tel: + 420 910 871 986
-
-## Danmark
-
-Gilead Sciences Sweden AB Tlf: + 46 (0) 8 5057 1849
-
-## Deutschland
-
-Gilead Sciences GmbH Tel: + 49 (0) 89 899890-0
-
-## Eesti
+## Lietuva
 
 Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
 
-## Lietuva
+## България
 
 Gilead Sciences Ireland UC
 
-Tel: + 353 (0) 1 686 1888
+Teл.:
+
++ 353 (0) 1 686 1888
 
 ## Luxembourg/Luxemburg
 
 Gilead Sciences Belgium SRL-BV Tél/Tel: + 32 (0) 2 401 35 79
 
+## Česká republika
+
+Gilead Sciences s.r.o.
+
+Tel: + 420 910 871 986
+
 ## Magyarország
 
-Gilead Sciences Ireland UC
+Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
 
-Tel: + 353 (0) 1 686 1888
+## Danmark
+
+Gilead Sciences Sweden AB Tlf.: + 46 (0) 8 5057 1849
 
 ## Malta
 
 Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
 
+## Deutschland
+
+Gilead Sciences GmbH
+
+Tel: + 49 (0) 89 899890-0
+
 ## Nederland
 
-Gilead Sciences Netherlands B.V. Tel: + 31 (0) 20 718 36 98
+Gilead Sciences Netherlands B.V.
+
+Tel: + 31 (0) 20 718 36 98
+
+## Eesti
+
+Gilead Sciences Ireland UC
+
+Tel: + 353 (0) 1 686 1888
 
 ## Norge
 
-Gilead Sciences Sweden AB Tlf: + 46 (0) 8 5057 1849
+Gilead Sciences Sweden AB
+
+Tlf: + 46 (0) 8 5057 1849
 
 <div style=\"page-break-after: always\"></div>
 
 ## Ελλάδα
 
-Gilead Sciences Ελλάς Μ.ΕΠΕ.
-
-Τηλ: +30 210 8930 100
+Gilead Sciences Ελλάς Μ.ΕΠΕ. Τηλ: +30 210 8930 100
 
 ## España
 
@@ -1368,14 +1382,8 @@ Gilead Sciences Slovakia s.r.o Tel: + 421 232 121 210
 
 ## Suomi/Finland
 
-Gilead Sciences Sweden AB
-
-Puh/Tel: + 46 (0) 8 5057 1849
+Gilead Sciences Sweden AB Puh/Tel: + 46 (0) 8 5057 1849
 
 ## Sverige
 
 Gilead Sciences Sweden AB Tel: + 46 (0) 8 5057 1849
-
-## United Kingdom (Northern Ireland)
-
-Gilead Sciences Ireland UC Tel: + 44 (0) 8000 113700

@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-01-29 16:30:00
+document_datetime: 2026-03-11 12:32:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/spinraza.html
 document_name: spinraza.html
 version: success
-processing_time: 0.1257451
-conversion_datetime: 2026-02-01 20:40:44.584268
+processing_time: 0.060703
+conversion_datetime: 2026-03-13 18:28:20.525133
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Spinraza
 
 [RSS](/en/individual-human-medicine.xml/66504)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -45,29 +45,25 @@ Page contents
 
 ## Overview
 
-This is a summary of the European public assessment report (EPAR) for Spinraza. It explains how the Agency assessed the medicine to recommend its authorisation in the EU and its conditions of use. It is not intended to provide practical advice on how to use Spinraza.
+Spinraza is a medicine used to treat 5q spinal muscular atrophy (SMA), a genetic disease that causes weakness and wasting of the muscles including the lung muscles. The disease is linked to a defect on chromosome 5q and symptoms usually start shortly after birth.
 
-For practical information about using Spinraza, patients should read the package leaflet or contact their doctor or pharmacist.
+SMA is rare, and Spinraza was designated an 'orphan medicine' (a medicine used in rare diseases) on 2 April 2012. Further information on the orphan designation can be found on the [EMA website](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-12-976) .
+
+Spinraza contains the active substance nusinersen.
 
 Expand section
 
 Collapse section
 
-## What is Spinraza and what is it used for?
-
-Spinraza is a medicine used to treat 5q spinal muscular atrophy (SMA), a genetic disease that causes weakness and wasting of the muscles including the lung muscles. The disease is linked to a defect on chromosome 5q and symptoms usually start shortly after birth.
-
-Because the number of patients with SMA is low, the disease is considered 'rare', and Spinraza was designated an 'orphan medicine' (a medicine used in rare diseases) on 2 April 2012.
-
-Spinraza contains the active substance nusinersen.
-
 ## How is Spinraza used?
 
-Spinraza can only be obtained with a prescription and treatment should be started by a doctor with experience in the treatment of SMA.
+Spinraza can only be obtained with a prescription, and treatment should be started by a doctor with experience in the treatment of SMA.
 
-The medicine is available as a solution for injection in 12 mg vials. It is given by intrathecal injection (into the lower back, directly into the spine) by a doctor or nurse experienced in carrying out this procedure. The patient may need to be sedated (given a medicine to calm them) before they are given Spinraza.
+The medicine is available as a solution for injection. It is given by intrathecal injection (into the lower back, directly into the spine) by a doctor or nurse experienced in carrying out this procedure. The patient may need to be sedated (given a medicine to calm them) before they are given Spinraza.
 
-The recommended dose is 12 mg (one vial), given as soon as possible after the patient has been diagnosed with SMA. The first dose should be followed by 3 more doses after 2, 4, and 9 weeks and then one dose every 4 months thereafter. Treatment should be continued for as long as the patient benefits from it. For further information, see the package leaflet.
+Spinraza should be given as soon as possible after the patient has been diagnosed with SMA. Treatment should be continued for as long as the patient benefits from it.
+
+For more information about using Spinraza, see the package leaflet or contact your doctor or pharmacist.
 
 ## How does Spinraza work?
 
@@ -77,19 +73,21 @@ Spinraza is a synthetic anti-sense oligonucleotide (a type of genetic material) 
 
 ## What benefits of Spinraza have been shown in studies?
 
-One main study, involving 121 babies (of an average age of 7 months) with SMA, showed that Spinraza is effective in improving movement when compared to placebo (sham injection).
+One main study, involving 121 babies (of an average age of 7 months) with SMA, showed that Spinraza is effective in improving movement when compared with placebo (sham injection).
 
 After one year of treatment, 51% of babies receiving Spinraza (37 out of 73) showed progress in developing head control, rolling, sitting, crawling, standing and walking, whereas no similar progress was seen in any of the babies who received placebo. In addition, most babies treated with Spinraza survived for longer and needed breathing support later than those given placebo.
 
 Another study assessed Spinraza's effectiveness in children whose SMA was less severe and diagnosed at a later stage (average age of 3 years). After 15 months of treatment, 57% of children receiving Spinraza showed improvement in movement compared with 26% of children on placebo.
 
-## What are the risks associated with Spinraza?
+Studies carried out with Spinraza are described in more detail in the medicine's assessment reports.
 
-The most common side effects with Spinraza (which may affect more than 1 in 10 people) are headache, back pain and vomiting. These side effects are thought to be caused by the injections into the spine used to give the medicine. In babies some side effects could not be assessed, as they could not communicate them.
+## What are the side effects and restrictions with Spinraza?
 
 For the full list of all side effects and restrictions with Spinraza, see the package leaflet.
 
-## Why is Spinraza approved?
+The most common side effects with Spinraza (which may affect more than 1 in 10 people) include headache, back pain and vomiting. These side effects are thought to be caused by the injections into the spine used to give the medicine. In babies some side effects could not be assessed, as they could not communicate them.
+
+## Why is Spinraza authorised in the EU?
 
 In its assessment, the European Medicines Agency recognised the serious nature of the disease and the urgent need for effective treatments.
 
@@ -101,291 +99,27 @@ The Agency therefore decided that Spinraza's benefits are greater than its risks
 
 ## What measures are being taken to ensure the safe and effective use of Spinraza?
 
-The company that markets Spinraza will complete ongoing studies of the long-term safety and effectiveness of the medicine in patients who are showing symptoms of SMA and patients not yet showing symptoms.
+The company that markets Spinraza will complete and submit the results of an ongoing study on the long-term safety and effectiveness of the medicine in patients who are not yet showing symptoms of SMA.
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Spinraza have also been included in the summary of product characteristics and the package leaflet.
 
+As for all medicines, data on the use of Spinraza are continuously monitored. Suspected side effects reported with Spinraza are carefully evaluated and any necessary action taken to protect patients.
+
 ## Other information about Spinraza
 
-The European Commission granted a marketing authorisation valid throughout the European Union for Spinraza on 30 May 2017.
+Spinraza received a marketing authorisation valid throughout the EU on 30 May 2017.
 
-For more information about treatment with Spinraza, read the package leaflet (also part of the EPAR) or contact your doctor or pharmacist.
+Spinraza : EPAR - Medicine overview
 
-Spinraza : EPAR - Summary for the public
+Reference Number: EMA/59031/2026
 
-English (EN) (78.3 KB - PDF)
+English (EN) (126.38 KB - PDF)
 
 **First published:** 21/06/2017
 
-**Last updated:** 11/01/2018
+**Last updated:** 11/03/2026
 
-[View](/en/documents/overview/spinraza-epar-summary-public_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-127)
-
-български (BG) (105.89 KB - PDF)
-
-**First published:**
-
-21/06/2017
-
-**Last updated:**
-
-11/01/2018
-
-[View](/bg/documents/overview/spinraza-epar-summary-public_bg.pdf)
-
-español (ES) (77.46 KB - PDF)
-
-**First published:**
-
-21/06/2017
-
-**Last updated:**
-
-11/01/2018
-
-[View](/es/documents/overview/spinraza-epar-summary-public_es.pdf)
-
-čeština (CS) (103.4 KB - PDF)
-
-**First published:**
-
-21/06/2017
-
-**Last updated:**
-
-11/01/2018
-
-[View](/cs/documents/overview/spinraza-epar-summary-public_cs.pdf)
-
-dansk (DA) (76.58 KB - PDF)
-
-**First published:**
-
-21/06/2017
-
-**Last updated:**
-
-11/01/2018
-
-[View](/da/documents/overview/spinraza-epar-summary-public_da.pdf)
-
-Deutsch (DE) (79.14 KB - PDF)
-
-**First published:**
-
-21/06/2017
-
-**Last updated:**
-
-11/01/2018
-
-[View](/de/documents/overview/spinraza-epar-summary-public_de.pdf)
-
-eesti keel (ET) (76.37 KB - PDF)
-
-**First published:**
-
-21/06/2017
-
-**Last updated:**
-
-11/01/2018
-
-[View](/et/documents/overview/spinraza-epar-summary-public_et.pdf)
-
-ελληνικά (EL) (107.94 KB - PDF)
-
-**First published:**
-
-21/06/2017
-
-**Last updated:**
-
-11/01/2018
-
-[View](/el/documents/overview/spinraza-epar-summary-public_el.pdf)
-
-français (FR) (77.91 KB - PDF)
-
-**First published:**
-
-21/06/2017
-
-**Last updated:**
-
-11/01/2018
-
-[View](/fr/documents/overview/spinraza-epar-summary-public_fr.pdf)
-
-hrvatski (HR) (98.33 KB - PDF)
-
-**First published:**
-
-21/06/2017
-
-**Last updated:**
-
-11/01/2018
-
-[View](/hr/documents/overview/spinraza-epar-summary-public_hr.pdf)
-
-italiano (IT) (76.57 KB - PDF)
-
-**First published:**
-
-21/06/2017
-
-**Last updated:**
-
-11/01/2018
-
-[View](/it/documents/overview/spinraza-epar-summary-public_it.pdf)
-
-latviešu valoda (LV) (100.53 KB - PDF)
-
-**First published:**
-
-21/06/2017
-
-**Last updated:**
-
-11/01/2018
-
-[View](/lv/documents/overview/spinraza-epar-summary-public_lv.pdf)
-
-lietuvių kalba (LT) (102.54 KB - PDF)
-
-**First published:**
-
-21/06/2017
-
-**Last updated:**
-
-11/01/2018
-
-[View](/lt/documents/overview/spinraza-epar-summary-public_lt.pdf)
-
-magyar (HU) (99.8 KB - PDF)
-
-**First published:**
-
-21/06/2017
-
-**Last updated:**
-
-11/01/2018
-
-[View](/hu/documents/overview/spinraza-epar-summary-public_hu.pdf)
-
-Malti (MT) (104.86 KB - PDF)
-
-**First published:**
-
-21/06/2017
-
-**Last updated:**
-
-11/01/2018
-
-[View](/mt/documents/overview/spinraza-epar-summary-public_mt.pdf)
-
-Nederlands (NL) (76.98 KB - PDF)
-
-**First published:**
-
-21/06/2017
-
-**Last updated:**
-
-11/01/2018
-
-[View](/nl/documents/overview/spinraza-epar-summary-public_nl.pdf)
-
-polski (PL) (102.97 KB - PDF)
-
-**First published:**
-
-21/06/2017
-
-**Last updated:**
-
-11/01/2018
-
-[View](/pl/documents/overview/spinraza-epar-summary-public_pl.pdf)
-
-português (PT) (77.92 KB - PDF)
-
-**First published:**
-
-21/06/2017
-
-**Last updated:**
-
-11/01/2018
-
-[View](/pt/documents/overview/spinraza-epar-summary-public_pt.pdf)
-
-română (RO) (100.49 KB - PDF)
-
-**First published:**
-
-21/06/2017
-
-**Last updated:**
-
-11/01/2018
-
-[View](/ro/documents/overview/spinraza-epar-summary-public_ro.pdf)
-
-slovenčina (SK) (96.15 KB - PDF)
-
-**First published:**
-
-21/06/2017
-
-**Last updated:**
-
-11/01/2018
-
-[View](/sk/documents/overview/spinraza-epar-summary-public_sk.pdf)
-
-slovenščina (SL) (90.68 KB - PDF)
-
-**First published:**
-
-21/06/2017
-
-**Last updated:**
-
-11/01/2018
-
-[View](/sl/documents/overview/spinraza-epar-summary-public_sl.pdf)
-
-Suomi (FI) (76.49 KB - PDF)
-
-**First published:**
-
-21/06/2017
-
-**Last updated:**
-
-11/01/2018
-
-[View](/fi/documents/overview/spinraza-epar-summary-public_fi.pdf)
-
-svenska (SV) (77.21 KB - PDF)
-
-**First published:**
-
-21/06/2017
-
-**Last updated:**
-
-11/01/2018
-
-[View](/sv/documents/overview/spinraza-epar-summary-public_sv.pdf)
+[View](/en/documents/overview/spinraza-epar-medicine-overview_en.pdf)
 
 Spinraza : EPAR - Risk management plan
 
@@ -409,7 +143,7 @@ English (EN) (780.46 KB - PDF)
 
 [View](/en/documents/product-information/spinraza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-721)
+[Other languages (24)](#file-language-dropdown-248)
 
 български (BG) (1.05 MB - PDF)
 
@@ -725,7 +459,7 @@ English (EN) (63.67 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/spinraza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-130)
+[Other languages (23)](#file-language-dropdown-198)
 
 български (BG) (47.05 KB - PDF)
 
@@ -1141,23 +875,23 @@ English (EN) (112.75 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-spinraza_en.pdf)
 
-#### News on Spinraza
+## News on Spinraza
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 April 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-april-2017) 21/04/2017
 
 [First medicine for spinal muscular atrophy](/en/news/first-medicine-spinal-muscular-atrophy) 21/04/2017
 
-#### More information on Spinraza
+## More information on Spinraza
 
 - [EU/3/12/976 - orphan designation for treatment of 5q spinal muscular atrophy](/en/medicines/human/orphan-designations/eu-3-12-976)
 - [EMEA-001448-PIP01-13-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001448-pip01-13-m03)
 - [Spinraza (nusinersen) SMA Pregnancy Exposure Study Within Existing SMA Registries - post-authorisation study](https://catalogues.ema.europa.eu/study/104369)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 29/01/2026
+**This page was last updated on** 11/03/2026
 
 ## Share this page
 

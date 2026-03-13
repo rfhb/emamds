@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-04-30 11:41:04
+document_datetime: 2026-03-12 12:19:24
 document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/quviviq-epar-product-information_en.pdf
 document_name: quviviq-epar-product-information_en.pdf
 version: success
-processing_time: 10.2525886
-conversion_datetime: 2025-12-25 11:16:14.90124
+processing_time: 11.8772199
+conversion_datetime: 2026-03-13 18:24:45.749973
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -584,30 +584,26 @@ Name and address of the manufacturer responsible for batch release
 
 Idorsia Pharmaceuticals Deutschland GmbH Marie-Curie-Strasse 8 79539 Lörrach Germany
 
-PharmaKorell GmbH Georges-Koehler-Str. 2 79539 Lörrach Germany
-
-The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
-
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1065,7 +1061,7 @@ Film coating: Hypromellose (E464), microcrystalline cellulose (E460), glycerol, 
 
 Film-coated tablet (tablet)
 
-QUVIVIQ 25 mg film-coated tablets
+## QUVIVIQ 25 mg film-coated tablets
 
 Light purple, triangular tablet with 25 on one side, and 'i' (Idorsia logo) on the other side.
 
@@ -1084,8 +1080,6 @@ Idorsia Pharmaceuticals Deutschland GmbH Marie-Curie-Strasse 8 79539 Lörrach Ge
 ## Manufacturer
 
 Idorsia Pharmaceuticals Deutschland GmbH Marie-Curie-Strasse 8 79539 Lörrach Germany
-
-PharmaKorell GmbH Georges-Koehler-Str. 2 79539 Lörrach Germany
 
 ## This leaflet was last revised in
 

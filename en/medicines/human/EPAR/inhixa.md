@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 07:19:12
+document_datetime: 2026-03-05 17:14:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/inhixa.html
 document_name: inhixa.html
 version: success
-processing_time: 0.1144465
-conversion_datetime: 2025-12-30 22:20:14.200787
+processing_time: 0.290451
+conversion_datetime: 2026-03-13 18:27:20.144481
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Inhixa
 
 [RSS](/en/individual-human-medicine.xml/66104)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 enoxaparin sodium Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -127,7 +125,7 @@ English (EN) (142.71 KB - PDF)
 
 [View](/en/documents/overview/inhixa-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-457)
+[Other languages (22)](#file-language-dropdown-169)
 
 български (BG) (166.72 KB - PDF)
 
@@ -405,17 +403,17 @@ English (EN) (205.53 KB - PDF)
 
 Inhixa : EPAR - Product information
 
-English (EN) (3.25 MB - PDF)
+English (EN) (3.12 MB - PDF)
 
 **First published:** 26/10/2016
 
-**Last updated:** 18/11/2025
+**Last updated:** 05/03/2026
 
 [View](/en/documents/product-information/inhixa-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-126)
+[Other languages (24)](#file-language-dropdown-112)
 
-български (BG) (3.98 MB - PDF)
+български (BG) (3.68 MB - PDF)
 
 **First published:**
 
@@ -423,11 +421,11 @@ English (EN) (3.25 MB - PDF)
 
 **Last updated:**
 
-18/11/2025
+05/03/2026
 
 [View](/bg/documents/product-information/inhixa-epar-product-information_bg.pdf)
 
-español (ES) (3.58 MB - PDF)
+español (ES) (3.35 MB - PDF)
 
 **First published:**
 
@@ -435,9 +433,21 @@ español (ES) (3.58 MB - PDF)
 
 **Last updated:**
 
-18/11/2025
+05/03/2026
 
 [View](/es/documents/product-information/inhixa-epar-product-information_es.pdf)
+
+čeština (CS) (3.62 MB - PDF)
+
+**First published:**
+
+26/10/2016
+
+**Last updated:**
+
+05/03/2026
+
+[View](/cs/documents/product-information/inhixa-epar-product-information_cs.pdf)
 
 dansk (DA) (3.42 MB - PDF)
 
@@ -447,11 +457,11 @@ dansk (DA) (3.42 MB - PDF)
 
 **Last updated:**
 
-18/11/2025
+05/03/2026
 
 [View](/da/documents/product-information/inhixa-epar-product-information_da.pdf)
 
-Deutsch (DE) (3.81 MB - PDF)
+Deutsch (DE) (3.72 MB - PDF)
 
 **First published:**
 
@@ -459,11 +469,11 @@ Deutsch (DE) (3.81 MB - PDF)
 
 **Last updated:**
 
-18/11/2025
+05/03/2026
 
 [View](/de/documents/product-information/inhixa-epar-product-information_de.pdf)
 
-eesti keel (ET) (3.31 MB - PDF)
+eesti keel (ET) (3.17 MB - PDF)
 
 **First published:**
 
@@ -471,11 +481,11 @@ eesti keel (ET) (3.31 MB - PDF)
 
 **Last updated:**
 
-18/11/2025
+05/03/2026
 
 [View](/et/documents/product-information/inhixa-epar-product-information_et.pdf)
 
-ελληνικά (EL) (4.45 MB - PDF)
+ελληνικά (EL) (3.9 MB - PDF)
 
 **First published:**
 
@@ -483,11 +493,11 @@ eesti keel (ET) (3.31 MB - PDF)
 
 **Last updated:**
 
-18/11/2025
+05/03/2026
 
 [View](/el/documents/product-information/inhixa-epar-product-information_el.pdf)
 
-français (FR) (4.15 MB - PDF)
+français (FR) (5.87 MB - PDF)
 
 **First published:**
 
@@ -495,11 +505,11 @@ français (FR) (4.15 MB - PDF)
 
 **Last updated:**
 
-18/11/2025
+05/03/2026
 
 [View](/fr/documents/product-information/inhixa-epar-product-information_fr.pdf)
 
-hrvatski (HR) (3.83 MB - PDF)
+hrvatski (HR) (3.53 MB - PDF)
 
 **First published:**
 
@@ -507,11 +517,11 @@ hrvatski (HR) (3.83 MB - PDF)
 
 **Last updated:**
 
-18/11/2025
+05/03/2026
 
 [View](/hr/documents/product-information/inhixa-epar-product-information_hr.pdf)
 
-íslenska (IS) (3.49 MB - PDF)
+íslenska (IS) (3.36 MB - PDF)
 
 **First published:**
 
@@ -519,11 +529,11 @@ hrvatski (HR) (3.83 MB - PDF)
 
 **Last updated:**
 
-18/11/2025
+05/03/2026
 
 [View](/is/documents/product-information/inhixa-epar-product-information_is.pdf)
 
-italiano (IT) (4.2 MB - PDF)
+italiano (IT) (5.56 MB - PDF)
 
 **First published:**
 
@@ -531,11 +541,11 @@ italiano (IT) (4.2 MB - PDF)
 
 **Last updated:**
 
-18/11/2025
+05/03/2026
 
 [View](/it/documents/product-information/inhixa-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (3.97 MB - PDF)
+latviešu valoda (LV) (3.56 MB - PDF)
 
 **First published:**
 
@@ -543,11 +553,11 @@ latviešu valoda (LV) (3.97 MB - PDF)
 
 **Last updated:**
 
-18/11/2025
+05/03/2026
 
 [View](/lv/documents/product-information/inhixa-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (4.05 MB - PDF)
+lietuvių kalba (LT) (3.55 MB - PDF)
 
 **First published:**
 
@@ -555,11 +565,11 @@ lietuvių kalba (LT) (4.05 MB - PDF)
 
 **Last updated:**
 
-18/11/2025
+05/03/2026
 
 [View](/lt/documents/product-information/inhixa-epar-product-information_lt.pdf)
 
-magyar (HU) (4.02 MB - PDF)
+magyar (HU) (3.64 MB - PDF)
 
 **First published:**
 
@@ -567,11 +577,11 @@ magyar (HU) (4.02 MB - PDF)
 
 **Last updated:**
 
-18/11/2025
+05/03/2026
 
 [View](/hu/documents/product-information/inhixa-epar-product-information_hu.pdf)
 
-Malti (MT) (4.55 MB - PDF)
+Malti (MT) (4.29 MB - PDF)
 
 **First published:**
 
@@ -579,11 +589,11 @@ Malti (MT) (4.55 MB - PDF)
 
 **Last updated:**
 
-18/11/2025
+05/03/2026
 
 [View](/mt/documents/product-information/inhixa-epar-product-information_mt.pdf)
 
-Nederlands (NL) (3.76 MB - PDF)
+Nederlands (NL) (5.35 MB - PDF)
 
 **First published:**
 
@@ -591,11 +601,11 @@ Nederlands (NL) (3.76 MB - PDF)
 
 **Last updated:**
 
-18/11/2025
+05/03/2026
 
 [View](/nl/documents/product-information/inhixa-epar-product-information_nl.pdf)
 
-norsk (NO) (3.31 MB - PDF)
+norsk (NO) (3.23 MB - PDF)
 
 **First published:**
 
@@ -603,11 +613,11 @@ norsk (NO) (3.31 MB - PDF)
 
 **Last updated:**
 
-18/11/2025
+05/03/2026
 
 [View](/no/documents/product-information/inhixa-epar-product-information_no.pdf)
 
-polski (PL) (4.19 MB - PDF)
+polski (PL) (3.35 MB - PDF)
 
 **First published:**
 
@@ -615,11 +625,11 @@ polski (PL) (4.19 MB - PDF)
 
 **Last updated:**
 
-18/11/2025
+05/03/2026
 
 [View](/pl/documents/product-information/inhixa-epar-product-information_pl.pdf)
 
-português (PT) (3.53 MB - PDF)
+português (PT) (3.49 MB - PDF)
 
 **First published:**
 
@@ -627,11 +637,11 @@ português (PT) (3.53 MB - PDF)
 
 **Last updated:**
 
-18/11/2025
+05/03/2026
 
 [View](/pt/documents/product-information/inhixa-epar-product-information_pt.pdf)
 
-română (RO) (4.17 MB - PDF)
+română (RO) (3.76 MB - PDF)
 
 **First published:**
 
@@ -639,11 +649,11 @@ română (RO) (4.17 MB - PDF)
 
 **Last updated:**
 
-18/11/2025
+05/03/2026
 
 [View](/ro/documents/product-information/inhixa-epar-product-information_ro.pdf)
 
-slovenčina (SK) (4.01 MB - PDF)
+slovenčina (SK) (3.58 MB - PDF)
 
 **First published:**
 
@@ -651,11 +661,11 @@ slovenčina (SK) (4.01 MB - PDF)
 
 **Last updated:**
 
-18/11/2025
+05/03/2026
 
 [View](/sk/documents/product-information/inhixa-epar-product-information_sk.pdf)
 
-slovenščina (SL) (3.87 MB - PDF)
+slovenščina (SL) (3.39 MB - PDF)
 
 **First published:**
 
@@ -663,7 +673,7 @@ slovenščina (SL) (3.87 MB - PDF)
 
 **Last updated:**
 
-18/11/2025
+05/03/2026
 
 [View](/sl/documents/product-information/inhixa-epar-product-information_sl.pdf)
 
@@ -675,11 +685,11 @@ Suomi (FI) (3.63 MB - PDF)
 
 **Last updated:**
 
-18/11/2025
+05/03/2026
 
 [View](/fi/documents/product-information/inhixa-epar-product-information_fi.pdf)
 
-svenska (SV) (3.44 MB - PDF)
+svenska (SV) (3.47 MB - PDF)
 
 **First published:**
 
@@ -687,11 +697,11 @@ svenska (SV) (3.44 MB - PDF)
 
 **Last updated:**
 
-18/11/2025
+05/03/2026
 
 [View](/sv/documents/product-information/inhixa-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000303314 15/11/2025
+**Latest procedure affecting product information:** VR/0000332178 05/03/2026
 
 icon globe
 
@@ -717,7 +727,7 @@ English (EN) (269.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-113)
+[Other languages (24)](#file-language-dropdown-186)
 
 български (BG) (189.35 KB - PDF)
 
@@ -1038,9 +1048,9 @@ Marketing authorisation holder
 
 Techdow Pharma Netherlands B.V.
 
-Strawinskylaan 1143, Toren C-11
+Zuidplein 28, Tower 1 Level 3 (Unit 5) 1077XV Amsterdam Netherlands
 
-Opinion adopted 21/07/2016 Marketing authorisation issued 15/09/2016 Revision 30
+Opinion adopted 21/07/2016 Marketing authorisation issued 15/09/2016 Revision 31
 
 ## Assessment history
 
@@ -1052,11 +1062,11 @@ Collapse section
 
 Inhixa : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (153.74 KB - PDF)
+English (EN) (144.39 KB - PDF)
 
 **First published:** 23/05/2025
 
-**Last updated:** 18/11/2025
+**Last updated:** 05/03/2026
 
 [View](/en/documents/procedural-steps-after/inhixa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1110,21 +1120,21 @@ English (EN) (70.05 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-inhixa_en.pdf)
 
-#### News on Inhixa
+## News on Inhixa
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 July 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-july-2016) 22/07/2016
 
-#### Related content
+## Related content
 
 - [Biosimilar medicines](/en/human-regulatory/overview/biosimilar-medicines)
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/home?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-3=2=EMEAHC0042640000) (initial marketing authorisation)
 
-#### Topics
+## Topics
 
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 18/11/2025
+**This page was last updated on** 05/03/2026
 
 ## Share this page
 

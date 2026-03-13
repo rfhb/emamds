@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-04 13:38:53
-document_pages: 147
+document_datetime: 2026-03-09 10:40:29
+document_pages: 156
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/nucala-epar-product-information_en.pdf
 document_name: nucala-epar-product-information_en.pdf
 version: success
-processing_time: 44.0944648
-conversion_datetime: 2025-12-28 18:06:19.614611
+processing_time: 54.0459579
+conversion_datetime: 2026-03-13 18:42:36.517979
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -30,11 +30,11 @@ Nucala 100 mg solution for injection in pre-filled pen Nucala 100 mg solution fo
 
 Nucala 100 mg solution for injection in pre-filled pen
 
-Each 1 ml pre-filled pen contains 100 mg of mepolizumab.
+Each 1 mL pre-filled pen contains 100 mg of mepolizumab.
 
 Nucala 100 mg solution for injection in pre-filled syringe
 
-Each 1 ml pre-filled syringe contains 100 mg of mepolizumab.
+Each 1 mL pre-filled syringe contains 100 mg of mepolizumab.
 
 Nucala 40 mg solution for injection in pre-filled syringe
 
@@ -42,11 +42,21 @@ Each 0.4 mL pre-filled syringe contains 40 mg of mepolizumab.
 
 Mepolizumab is a humanised monoclonal antibody produced in Chinese hamster ovary cells by recombinant DNA technology.
 
+## Excipient with known effect
+
+Nucala 100 mg solution for injection in pre-filled pen Each 1 mL pre-filled pen contains 0.2 mg polysorbate 80
+
+Nucala 100 mg solution for injection in pre-filled syringe Each 1 mL pre-filled syringe contains 0.2 mg polysorbate 80
+
+Nucala 40 mg solution for injection in pre-filled syringe Each 0.4 mL pre-filled syringe contains 0.08 mg polysorbate 80
+
 For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Solution for injection (injection) A clear to opalescent, colourless to pale yellow to pale brown solution
+Solution for injection (injection)
+
+A clear to opalescent, colourless to pale yellow to pale brown solution, with a pH of 6.0-6.6 and an osmolality of 415-615 mOsm/kg.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -56,15 +66,19 @@ Solution for injection (injection) A clear to opalescent, colourless to pale yel
 
 Nucala is indicated as an add-on treatment for severe refractory eosinophilic asthma in adults, adolescents and children aged 6 years and older (see section 5.1).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Chronic rhinosinusitis with nasal polyps (CRSwNP)
 
 Nucala is indicated as an add-on therapy with intranasal corticosteroids for the treatment of adult patients with severe CRSwNP for whom therapy with systemic corticosteroids and/or surgery do not provide adequate disease control.
 
+## Chronic obstructive pulmonary disease (COPD)
+
+Nucala is indicated in adults as an add-on maintenance treatment for uncontrolled chronic obstructive pulmonary disease (COPD) characterised by raised blood eosinophils on a combination of an inhaled corticosteroid (ICS), a long-acting beta2-agonist (LABA), and a long-acting muscarinic antagonist (LAMA) (see section 5.1).
+
 ## Eosinophilic granulomatosis with polyangiitis (EGPA)
 
 Nucala is indicated as an add-on treatment for patients aged 6 years and older with relapsing-remitting or refractory eosinophilic granulomatosis with polyangiitis (EGPA).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Hypereosinophilic syndrome (HES)
 
@@ -72,7 +86,7 @@ Nucala is indicated as an add-on treatment for adult patients with inadequately 
 
 ## 4.2 Posology and method of administration
 
-Nucala should be prescribed by physicians experienced in the diagnosis and treatment of severe refractory eosinophilic asthma, CRSwNP, EGPA or HES.
+It is recommended that Nucala is prescribed by physicians experienced in the diagnosis and treatment of severe refractory eosinophilic asthma, CRSwNP, COPD, EGPA or HES.
 
 ## Posology
 
@@ -86,7 +100,7 @@ The recommended dose of mepolizumab is 100 mg administered subcutaneously once e
 
 The recommended dose of mepolizumab is 40 mg administered subcutaneously once every 4 weeks.
 
-Nucala is intended for long-term treatment. The need for continued therapy should be considered at least on an annual basis as determined by physician assessment of the patient's disease severity and level of control of exacerbations.
+Nucala is intended for long-term treatment. The need for continued therapy is to be considered at least on an annual basis as determined by physician assessment of the patient's disease severity and level of control of exacerbations.
 
 ## CRSwNP
 
@@ -95,6 +109,16 @@ Nucala is intended for long-term treatment. The need for continued therapy shoul
 The recommended dose of mepolizumab is 100 mg administered subcutaneously once every 4 weeks.
 
 Nucala is intended for long-term treatment. Consideration can be given to alternative treatments in patients who have shown no response after 24 weeks of treatment for CRSwNP. Some patients with initial partial response may subsequently improve with continued treatment beyond 24 weeks.
+
+<div style=\"page-break-after: always\"></div>
+
+## COPD
+
+## Adults
+
+The recommended dose of mepolizumab is 100 mg administered subcutaneously once every 4 weeks.
+
+Nucala is intended for long-term treatment. The need for continued therapy is to be considered at least on an annual basis as determined by physician assessment of the patient's disease severity and level of control of exacerbations.
 
 ## EGPA
 
@@ -112,31 +136,31 @@ Children aged 6 to 11 years old weighing &lt; 40 kg
 
 The recommended dose of mepolizumab is 100 mg administered subcutaneously once every 4 weeks.
 
-<div style=\"page-break-after: always\"></div>
+Nucala is intended for long-term treatment. The need for continued therapy is to be reviewed at least on an annual basis as determined by physician assessment of the patient's disease severity and improvement of symptom control.
 
-Nucala is intended for long-term treatment. The need for continued therapy should be reviewed at least on an annual basis as determined by physician assessment of the patient's disease severity and improvement of symptom control.
-
-Patients who develop life-threatening manifestations of EGPA should also be evaluated for the need for continued therapy, as Nucala has not been studied in this population.
+Patients who develop life-threatening manifestations of EGPA must also be evaluated for the need for continued therapy, as Nucala has not been studied in this population.
 
 ## HES
 
-## Adults
+Adults
 
 The recommended dose of mepolizumab is 300 mg administered subcutaneously once every 4 weeks.
 
-Nucala is intended for long-term treatment. The need for continued therapy should be reviewed at least on an annual basis as determined by physician assessment of the patient's disease severity and level of symptom control.
+Nucala is intended for long-term treatment. The need for continued therapy is to be reviewed at least on an annual basis as determined by physician assessment of the patient's disease severity and level of symptom control.
 
-Patients who develop life-threatening manifestations of HES should also be evaluated for the need for continued therapy, as Nucala has not been studied in this population.
+Patients who develop life-threatening manifestations of HES must also be evaluated for the need for continued therapy, as Nucala has not been studied in this population.
 
 ## Special populations
 
-## Elderly patients
+Elderly patients
 
-No dose adjustment is required for elderly patients (see section 5.2).
+No dose adjustment is required for elderly patients aged ≥65 years old (see section 5.2).
 
-## Renal and hepatic impairment
+Renal and hepatic impairment
 
 No dose adjustment is required in patients with renal or hepatic impairment (see section 5.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -158,7 +182,9 @@ No data are available.
 
 The safety and efficacy in children with CRSwNP below the age of 18 years have not been established. No data are available.
 
-<div style=\"page-break-after: always\"></div>
+## COPD in children less than 18 years old
+
+There is no relevant use of mepolizumab in the paediatric population (under 18 years of age) for the indication of COPD.
 
 ## EGPA in children less than 6 years old
 
@@ -176,11 +202,13 @@ Currently available data are described in sections 4.8, 5.1 and 5.2 but no recom
 
 Nucala 100 mg solution for injection in pre-filled pen or pre-filled syringe
 
-The pre-filled pen or pre-filled syringe should be used for subcutaneous injection only.
+The pre-filled pen or pre-filled syringe must be used for subcutaneous injection only.
 
 Nucala may be self-administered by the patient or administered by a caregiver if their healthcare professional determines that it is appropriate, and the patient or caregiver are trained in injection techniques.
 
 For children aged 6 to 11 years old, administration must be carried out by a healthcare professional or a trained caregiver.
+
+<div style=\"page-break-after: always\"></div>
 
 For self-administration the recommended injection sites are the abdomen or thigh. A caregiver can also inject Nucala into the upper arm.
 
@@ -190,7 +218,7 @@ Comprehensive instructions for subcutaneous administration of Nucala in a pre-fi
 
 Nucala 40 mg solution for injection in pre-filled syringe
 
-The pre-filled syringe should be used for subcutaneous injection only.
+The pre-filled syringe must be used for subcutaneous injection only.
 
 Nucala must be administered by a healthcare professional or a caregiver. It may be administered by a caregiver if a healthcare professional determines that it is appropriate, and the caregiver is trained in injection techniques.
 
@@ -202,31 +230,35 @@ Comprehensive instructions for subcutaneous administration of Nucala in a pre-fi
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.4 Special warnings and precautions for use
 
 ## Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
-## Asthma exacerbations
+## Asthma or COPD exacerbations
 
-Mepolizumab should not be used to treat acute asthma exacerbations.
+Mepolizumab must not be used to treat acute asthma or COPD exacerbations.
 
-Asthma-related adverse symptoms or exacerbations may occur during treatment. Patients should be instructed to seek medical advice if their asthma remains uncontrolled or worsens after initiation of treatment.
+Asthma-related or COPD-related adverse symptoms or exacerbations may occur during treatment. Patients must be instructed to seek medical advice if their asthma or COPD remains uncontrolled or worsens after initiation of treatment.
 
 ## Corticosteroids
 
-Abrupt discontinuation of corticosteroids after initiation of mepolizumab therapy is not recommended. Reduction in corticosteroid doses, if required, should be gradual and performed under the supervision of a physician.
+Abrupt discontinuation of corticosteroids after initiation of mepolizumab therapy is not recommended. Reduction in corticosteroid doses, if required, must be gradual and performed under the supervision of a physician.
 
 ## Hypersensitivity and administration-related reactions
 
-Acute and delayed systemic reactions, including hypersensitivity reactions (e.g. anaphylaxis, urticaria, angioedema, rash, bronchospasm, hypotension), have occurred following administration of mepolizumab. These reactions generally occur within hours of administration, but in some instances have a delayed onset (i.e., typically within several days). These reactions may occur for the first time after a long duration of treatment (see section 4.8). In the event of a hypersensitivity reaction, appropriate treatment as clinically indicated should be initiated.
+Acute and delayed systemic reactions, including hypersensitivity reactions (e.g. anaphylaxis, urticaria, angioedema, rash, bronchospasm, hypotension), have occurred following administration of mepolizumab. These reactions generally occur within hours of administration, but in some instances have a delayed onset (i.e., typically within several days). These reactions may occur for the first time after a long duration of treatment (see section 4.8). In the event of a hypersensitivity reaction, appropriate treatment as clinically indicated must be initiated.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Parasitic infections
 
 Eosinophils may be involved in the immunological response to some helminth infections. Patients with pre-existing helminth infections should be treated before starting therapy. If patients become infected whilst receiving treatment with mepolizumab and do not respond to anti-helminth treatment, temporary discontinuation of therapy should be considered.
+
+## COPD patients with low blood eosinophil counts
+
+Data do not support the use of Nucala in patients with COPD with blood eosinophil count &lt;150 cells/mcL and no evidence of blood eosinophil count ≥ 300 cells/mcL in the previous 12 months.
 
 ## Organ threatening or life-threatening EGPA
 
@@ -238,15 +270,1042 @@ Nucala has not been studied in patients with life-threatening manifestations of 
 
 ## Excipients
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per 100 mg dose, that is to say essentially 'sodium -free'.
+This medicinal product contains polysorbate 80 (see section 2), which may cause allergic reactions.
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per 100 mg dose, that is to say essentially 'sodium-free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No interaction studies have been performed.
 
+Cytochrome P450 enzymes, efflux pumps and protein-binding mechanisms are not involved in the clearance of mepolizumab. Increased levels of pro-inflammatory cytokines (e.g. IL-6), via interaction with their cognate receptors on hepatocytes, have been shown to suppress the formation of CYP450 enzymes and drug transporters, however, elevation of systemic pro-inflammatory markers in severe refractory eosinophilic asthma is minimal and there is no evidence of IL-5 receptor alpha expression on hepatocytes. The potential for interactions with mepolizumab is therefore considered low.
+
+## 4.6 Fertility, pregnancy and lactation
+
+## Pregnancy
+
+There is a limited amount of data (less than 300 pregnancy outcomes) from the use of mepolizumab in pregnant women.
+
+Mepolizumab crosses the placental barrier in monkeys. Animal studies do not indicate reproductive toxicity (see section 5.3). The potential for harm to a human fetus is unknown.
+
+As a precautionary measure, it is preferable to avoid the use of Nucala during pregnancy. Administration of Nucala to pregnant women should only be considered if the expected benefit to the mother is greater than any possible risk to the fetus.
+
 <div style=\"page-break-after: always\"></div>
 
-Cytochrome P450 enzymes, efflux pumps and protein-binding mechanisms are not involved in the clearance of mepolizumab. Increased levels of pro-inflammatory cytokines (e.g. IL-6), via interaction with their cognate receptors on hepatocytes, have been shown to suppress the formation of CYP450 enzymes and drug transporters, however, elevation of systemic pro-inflammatory markers in severe refractory eosinophilic asthma is minimal and there is no evidence of IL-5 receptor alpha expression on hepatocytes. The potential for interactions with mepolizumab is therefore considered low.
+## Breast-feeding
+
+There are no data regarding the excretion of mepolizumab in human milk. However, mepolizumab was excreted into the milk of cynomolgus monkeys at concentrations of less than 0.5% of those detected in plasma.
+
+A decision must be made whether to discontinue breast-feeding or to discontinue Nucala therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
+
+## Fertility
+
+There are no fertility data in humans. Animal studies showed no adverse effects of anti-IL5 treatment on fertility (see section 5.3).
+
+## 4.7 Effects on ability to drive and use machines
+
+Nucala has no or negligible influence on the ability to drive and use machines.
+
+## 4.8 Undesirable effects
+
+## Summary of the safety profile
+
+## Severe eosinophilic asthma
+
+In placebo-controlled studies in adult and adolescent patients with severe refractory eosinophilic asthma, the most commonly reported adverse reactions during treatment were headache (20%), injection site reactions (8%) and back pain (6%).
+
+## CRSwNP
+
+In a placebo-controlled study in patients with CRSwNP, the most commonly reported adverse reactions during treatment were headache (18%) and back pain (7%).
+
+## COPD
+
+In three placebo-controlled studies in patients with COPD, the most commonly reported adverse reactions during treatment were headache (10%), back pain (7%) and arthralgia (5%).
+
+## EGPA
+
+In a placebo-controlled study in patients with EGPA, the most commonly reported adverse reactions during treatment were headache (32%), injection site reactions (15%) and back pain (13%). Systemic allergic/hypersensitivity reactions were reported by 4% of EGPA patients.
+
+## HES
+
+In a placebo-controlled study in patients with HES, the most commonly reported adverse reactions during treatment were headache (13%), urinary tract infection (9%), injection site reactions and pyrexia (7% each).
+
+## Tabulated list of adverse reactions
+
+The table below presents the adverse reactions from placebo-controlled severe eosinophilic asthma studies from patients receiving mepolizumab 100 mg subcutaneously (SC) (n=263), from a
+
+<div style=\"page-break-after: always\"></div>
+
+randomised, double-blind placebo-controlled 52-week study in patients with CRSwNP receiving mepolizumab 100 mg SC (n=206), in three double-blind placebo-controlled 52- to 104-week studies in patients with COPD receiving mepolizumab 100 mg SC (n=1043), in patients with EGPA receiving mepolizumab 300 mg SC (n=68), in a double-blind placebo-controlled 32-week study in patients with HES receiving mepolizumab 300 mg SC (n= 54), and from spontaneous post-marketing reports. Safety data is also available from open-label extension studies in severe refractory eosinophilic asthma patients (n=998) treated for a median of 2.8 years (range 4 weeks to 4.5 years). The safety profile of mepolizumab in HES patients (n=102) enrolled in a 20-week open label extension study was similar to the safety profile of patients in the pivotal placebo-controlled study.
+
+The frequency of adverse reactions is defined using the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000); and not known (cannot be estimated from available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
+| System Organ Class                                   | Adverse reactions                                                                                  | Frequency   |
+|------------------------------------------------------|----------------------------------------------------------------------------------------------------|-------------|
+| Infections and infestations                          | Lower respiratory tract infection Urinary tract infection Pharyngitis Herpes zoster**              | Common      |
+| Immune system disorders                              | Hypersensitivity reactions (systemic allergic)* Anaphylaxis**                                      | Common Rare |
+| Nervous system disorders                             | Headache                                                                                           | Very common |
+| Respiratory, thoracic and mediastinal disorders      | Nasal congestion                                                                                   | Common      |
+| Gastrointestinal disorders                           | Abdominal pain upper                                                                               | Common      |
+| Skin and subcutaneous tissue disorders               | Eczema                                                                                             | Common      |
+| Musculoskeletal and connective tissue disorders      | Back pain Arthralgia**                                                                             | Common      |
+| General disorders and administration site conditions | Administration-related reactions (systemic non allergic)*** Local injection site reactions Pyrexia | Common      |
+
+## Description of selected adverse reactions
+
+Systemic reactions, including hypersensitivity reactions, in CRSwNP
+
+In the 52-week placebo-controlled study, systemic allergic (type I hypersensitivity) reactions were reported in 2 patients (&lt;1%) in the group receiving mepolizumab 100 mg and in no patients in the placebo group. Other systemic reactions were reported by no patients in the group receiving mepolizumab 100 mg and in 1 patient (&lt;1%) in the placebo group.
+
+<div style=\"page-break-after: always\"></div>
+
+## Systemic reactions, including hypersensitivity reactions, in COPD
+
+In the 52- to 104-week placebo-controlled study, systemic allergic (type I hypersensitivity) reactions were reported in 1 patient (&lt;1%) in the group receiving mepolizumab 100 mg and in no patients in the placebo group. Other systemic reactions were reported by 4 patients (&lt;1%) in the group receiving mepolizumab 100 mg and in 4 patients (&lt;1%) in the placebo group.
+
+In the two 52-week placebo-controlled studies, systemic allergic/hypersensitivity reactions were reported in 4 patients (&lt;1%) in the groups receiving mepolizumab 100 mg and in 3 patients (&lt;1%) in the placebo groups. Systemic non-allergic reactions were reported by 7 patients (1%) in the groups receiving mepolizumab 100 mg and in 10 patients (2%) in the placebo groups.
+
+## Systemic reactions, including hypersensitivity reactions, in EGPA
+
+In the 52-week placebo-controlled study the percentage of patients who experienced systemic (allergic and non-allergic) reactions was 6% in the group receiving 300 mg of mepolizumab and 1% in the placebo group. Systemic allergic/hypersensitivity reactions were reported by 4% of patients in the group receiving 300 mg of mepolizumab and 1% of patients in the placebo group. Systemic nonallergic reactions (angioedema) were reported by 1 (1%) patient in the group receiving 300 mg of mepolizumab and no patients in the placebo group.
+
+## Systemic reactions, including hypersensitivity reactions, in HES
+
+In the 32-week placebo-controlled study, 1 patient (2%) reported a systemic (other) reaction in the group receiving 300 mg of mepolizumab (multifocal skin reaction) and no patients in the placebo group.
+
+## Local injection site reactions
+
+## Severe eosinophilic asthma
+
+In placebo-controlled studies the incidence of local injection site reactions with mepolizumab 100 mg subcutaneous and placebo was 8% and 3%, respectively. These events were all non-serious, mild to moderate in intensity and the majority resolved within a few days. Local injection site reactions occurred mainly at the start of treatment and within the first 3 injections with fewer reports on subsequent injections. The most common manifestations reported with these events included pain, erythema, swelling, itching, and burning sensation.
+
+## CRSwNP
+
+In the placebo-controlled study, local injection site reactions (e.g., erythema, pruritus) occurred in 2% of patients receiving mepolizumab 100 mg compared with &lt;1% in patients receiving placebo.
+
+## COPD
+
+In the placebo-controlled studies, local injection site reactions occurred in 2% of patients receiving mepolizumab 100 mg compared with 2% in patients receiving placebo. The most common manifestations reported were pain, swelling, itching and erythema.
+
+## EGPA
+
+In the placebo-controlled study, local injection site reactions (e.g., pain, erythema, swelling) occurred at a rate of 15% in patients receiving mepolizumab 300 mg compared with 13% in patients receiving placebo.
+
+<div style=\"page-break-after: always\"></div>
+
+## HES
+
+In the placebo-controlled study, local injection site reactions (e.g., burning, itching) occurred at a rate of 7% in patients receiving mepolizumab 300 mg compared with 4% in patients receiving placebo.
+
+## Paediatric population
+
+## Severe eosinophilic asthma
+
+Thirty-seven adolescents (aged 12-17) were enrolled in four placebo-controlled studies (25 mepolizumab treated intravenously or subcutaneously) of 24 to 52 weeks duration. Thirty -six paediatric patients (aged 6-11) received mepolizumab subcutaneously in an open-label study for 12 weeks. After a treatment interruption of 8 weeks, 30 of these patients, received mepolizumab for a further 52 weeks. The safety profile was similar to that seen in adults. No additional adverse reactions were identified.
+
+In addition, the long-term safety of mepolizumab was assessed in 9 adolescent patients (aged 12-17) and 15 paediatric patients (aged 6-11) who were enrolled in an open-label extension study (201956). In this study, patients received mepolizumab subcutaneously for an average of 21.5 months. No additional adverse reactions were identified.
+
+## HES
+
+Four adolescents aged 12 to 17 years were enrolled in the placebo-controlled study 200622, one adolescent received 300 mg of mepolizumab, and 3 adolescents received placebo for 32 weeks. All 4 adolescents continued into a 20-week open-label extension study 205203 (see Section 5.1).
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+## 4.9 Overdose
+
+Single doses of up to 1 500 mg were administered intravenously in a clinical trial to patients with eosinophilic disease without evidence of dose-related toxicities.
+
+There is no specific treatment for an overdose with mepolizumab. If overdose occurs, it is recommended that the patient be treated supportively with appropriate monitoring as necessary.
+
+Further management should be as clinically indicated or as recommended by the national poisons centre, where available.
+
+## 5. PHARMACOLOGICAL PROPERTIES
+
+## 5.1 Pharmacodynamic properties
+
+Pharmacotherapeutic group: Drugs for obstructive airway diseases, other systemic drugs for obstructive airway diseases, ATC code: R03DX09 .
+
+<div style=\"page-break-after: always\"></div>
+
+## Mechanism of action
+
+Mepolizumab is an IL-5 antagonist (IgG1 kappa) that binds to IL-5, inhibiting its bioactivity with nanomolar potency by blocking its binding to the IL-5R alpha complex on the cell surface. IL-5 is the major cytokine responsible for the growth and differentiation, recruitment, activation and survival of eosinophils. In patients where their disease is driven by type 2 inflammation, IL-5 is an important component of the processes driving the pathogenesis of asthma, CRSwNP, COPD, EGPA and HES. Additional structural and inflammatory cell types also express the IL-5R alpha e.g., epithelial cells, mast cells, plasma cells, basophils, ILC-2 cells, T cells, smooth muscle cells, neutrophils and fibroblasts. In severe asthma and CRSwNP, inhibition of IL-5 has been associated with an improvement in aspects of airway remodelling. However, the mechanism of action in these cells and across the different diseases has not been definitively established.
+
+## Pharmacodynamic effects
+
+## Severe eosinophilic asthma
+
+In patients with severe refractory eosinophilic asthma (adults/adolescents), following a dose of 100 mg administered subcutaneously every 4 weeks for 32 weeks, blood eosinophils were reduced from a geometric mean count at baseline of 290 to 40 cells/μL at week 32 (n=182), a reduction of 84% compared to placebo. This magnitude of blood eosinophils reduction was maintained in severe refractory eosinophilic asthma patients (n=998) treated for a median of 2.8 years (range 4 weeks to 4.5 years) in open-label extension studies .
+
+In children aged 6 to 11 years old with severe refractory eosinophilic asthma administered mepolizumab subcutaneously every 4 weeks for 52 weeks, blood eosinophils were reduced from a geometric mean count at baseline to week 52 of 306 (n=16) to 48 (n=15) following 40 mg (for a weight &lt; 40kg) and 331 to 44 cells/µL (n=10) following 100 mg (for a weight ≥ 40 kg), a reduction from baseline of 85% and 87%, respectively.
+
+In adults, adolescents and children, this magnitude of reduction was observed within 4 weeks of treatment.
+
+## CRSwNP
+
+In patients with CRSwNP, following a 100 mg dose of mepolizumab administered subcutaneously every 4 weeks for 52 weeks, blood eosinophils were reduced from a geometric mean count at baseline to week 52 of 390 (n=206) to 60 cells/µL (n=126), which corresponds to a geometric mean reduction of 83% compared to placebo. This magnitude of reduction was observed within 4 weeks of treatment and was maintained throughout the treatment period of 52 weeks.
+
+## COPD
+
+In patients with COPD, following a 100 mg dose of mepolizumab administered subcutaneously every 4 weeks for 52 (and up to 104) weeks, blood eosinophils were reduced from a geometric mean count at baseline of 480 cells/µL (n=403) to 60 cells/µL at week 52 (n=257) and week 104 (n=61), which corresponds to a geometric mean reduction of 79% at week 52 and 80% at week 104 compared to placebo. This magnitude of reduction was observed within 4 weeks of treatment.
+
+## EGPA
+
+In patients with EGPA, following a 300 mg dose of mepolizumab administered subcutaneously every 4 weeks for 52 weeks, blood eosinophils were reduced from a geometric mean count at baseline of 177 (n=68) to 38 cells/µL (n=64) at week 52. There was a geometric mean reduction of 83% compared to placebo and this magnitude of reduction was observed within 4 weeks of treatment.
+
+<div style=\"page-break-after: always\"></div>
+
+## HES
+
+In patients with HES (adults/adolescents), following a 300 mg dose of mepolizumab administered subcutaneously every 4 weeks for 32 weeks, blood eosinophil reduction was observed within 2 weeks of treatment. At week 32, blood eosinophils were reduced from a geometric mean count at baseline of 1 460 (n=54) to 70 cells/µL (n=48) and a geometric mean reduction of 92% compared to placebo was observed. This magnitude of reduction was maintained for a further 20 weeks in patients that continued mepolizumab treatment in the open-label extension study.
+
+## Immunogenicity
+
+## Severe eosinophilic asthma, CRSwNP, COPD, EGPA and HES
+
+Consistent with the potentially immunogenic properties of protein and peptide therapeutics, patients may develop antibodies to mepolizumab following treatment. In the placebo-controlled trials, 15/260 (6%) of adults and adolescents with severe refractory eosinophilic asthma treated with 100 mg dose, 6/196 (3%) of adults with CRSwNP treated with 100 mg dose, 9/381 (2%) of adults with COPD treated with 100 mg dose, 1/68 (&lt;2%) of adults with EGPA treated with 300 mg dose and 1/53 (2%) of adults and adolescents with HES treated with 300 mg dose of mepolizumab subcutaneously had detectable anti-mepolizumab antibodies after having received at least one dose of mepolizumab. The immunogenicity profile of mepolizumab in severe refractory eosinophilic asthma patients (n=998) treated for a median of 2.8 years (range 4 weeks to 4.5 years) or in HES patients (n=102) treated for 20 weeks in open-label extension studies was similar to that observed in the placebocontrolled studies. The immunogenicity data were collected in patients with CRSwNP for 68 weeks (n=68), in patients with COPD for 104 weeks (n=127) and in patients with EGPA for 60 weeks (n=65).
+
+In children aged 6 to 11 years old with severe refractory eosinophilic asthma following either 40 mg subcutaneously (for a weight &lt; 40kg) or 100 mg subcutaneously (for a weight ≥ 40 kg), 2/35 (6%) had detectable anti-mepolizumab antibodies after having received at least one dose of mepolizumab during the initial short phase of the study. No children had detectable anti-mepolizumab antibodies during the long-term phase of the study.
+
+Neutralising antibodies were detected in one adult patient with severe refractory eosinophilic asthma and in no patients with CRSwNP, COPD, EGPA or HES. Anti-mepolizumab antibodies did not discernibly impact the pharmacokinetics and pharmacodynamics of mepolizumab in the majority of patients and there was no evidence of a correlation between antibody titres and change in blood eosinophil level.
+
+## Clinical efficacy
+
+## Severe eosinophilic asthma
+
+The efficacy of mepolizumab in the treatment of a targeted group of patients with severe refractory eosinophilic asthma was evaluated in 3 randomised, double-blind, parallel-group clinical studies of between 24-52 weeks duration, in patients aged 12 years and older. These patients either remained uncontrolled (at least two severe exacerbations in the previous 12 months) on their current standard of care, including at least high doses of inhaled corticosteroids (ICS) plus an additional maintenance treatment(s), or were dependent on systemic corticosteroids. Additional maintenance treatments included long-acting beta2 -adrenergic agonists (LABA), leukotriene modifiers, long-acting muscarinic antagonists (LAMA), theophylline, and oral corticosteroids (OCS).
+
+The two exacerbations studies MEA112997 and MEA115588 enrolled a total of 1 192 patients, 60% females, with a mean age of 49 years (range 12- 82). The proportion of patients on maintenance OCS was 31% and 24%, respectively. Patients were required to have a history of two or more severe asthma exacerbations requiring oral or systemic corticosteroid treatment in the past 12 months and reduced lung function at baseline (pre-bronchodilator FEV1&lt;80% in adults and &lt;90% in adolescents).
+
+<div style=\"page-break-after: always\"></div>
+
+The mean number of exacerbations in the previous year was 3.6 and the mean predicted prebronchodilator FEV1 was 60%. Patients continued to receive their existing asthma medicinal product during the studies .
+
+For the oral corticosteroid-sparing study MEA115575, a total of 135 patients were enrolled (55% were female; mean age of 50 years ) who were being treated daily with OCS (5-35 mg per day), and high-dose ICS plus an additional maintenance medicinal product.
+
+## Dose-ranging efficacy MEA112997 (DREAM) study
+
+In MEA112997, a randomised, double-blind, placebo-controlled, parallel-group, multi-centre study of 52 weeks duration in 616 patients with severe refractory eosinophilic asthma, mepolizumab significantly reduced clinically significant asthma exacerbations (defined as worsening of asthma requiring use of oral/systemic corticosteroids and/or hospitalisation and/or emergency department visits) when administered in doses of 75 mg, 250 mg or 750 mg intravenously compared to placebo (see Table 1).
+
+Table 1: Frequency of clinically significant exacerbations at week 52 in the intent to treat population
+
+|                        | Intravenous mepolizumab   | Intravenous mepolizumab   | Intravenous mepolizumab   | Placebo   |
+|------------------------|---------------------------|---------------------------|---------------------------|-----------|
+|                        | 75mg n=153                | 250mg n=152               | 750mg n=156               | n= 155    |
+| Exacerbation rate/year | 1.24                      | 1.46                      | 1.15                      | 2.40      |
+| Percent reduction      | 48%                       | 39%                       | 52%                       |           |
+| Rate ratio (95% CI)    | 0.52 (0.39, 0.69)         | 0.61(0.46, 0.81)          | 0.48 (0.36, 0.64)         |           |
+| p-value                | <0.001                    | <0.001                    | <0.001                    | -         |
+
+## Exacerbation reduction MEA115588 (MENSA) study
+
+MEA115588 was a randomised, double-blind, placebo-controlled, parallel-group, multi-centre study which evaluated the efficacy and safety of mepolizumab as add-on therapy in 576 patients with severe refractory eosinophilic asthma defined as peripheral blood eosinophils greater than or equal to 150 cells/μL at initiation of treatment or greater than or equal to 300 cells/μL within the past 12 months.
+
+Patients received mepolizumab 100 mg administered subcutaneously, mepolizumab 75 mg administered intravenously or placebo treatment once every 4 weeks over 32 weeks. The primary endpoint was the frequency of clinically significant exacerbations of asthma and the reductions for both mepolizumab treatment arms compared to placebo were statistically significant (p&lt;0.001). Table 2 provides the results of the primary and secondary endpoints for patients treated with subcutaneous mepolizumab or placebo.
+
+Table 2: Results of primary and secondary endpoints at week 32 in the intent to treat population (MEA115588)
+
+|                                                   |   Mepolizumab 100 mg (subcutaneous) N= 194 |   Placebo N= 191 |
+|---------------------------------------------------|--------------------------------------------|------------------|
+| Primary endpoint                                  |                                            |                  |
+| Frequency of clinically significant exacerbations |                                            |                  |
+| Exacerbation rate per year                        |                                       0.83 |             1.74 |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                                                             | Mepolizumab 100 mg (subcutaneous) N= 194                                    | Placebo N= 191                                                              |
+|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| Percent reduction Rate ratio (95% CI)                                       | 53% 0.47 (0.35, 0.64)                                                       | -                                                                           |
+| p-value                                                                     | <0.001                                                                      |                                                                             |
+| Secondary endpoints                                                         | Secondary endpoints                                                         | Secondary endpoints                                                         |
+| Frequency of exacerbations requiring hospitalisations/emergency room visits | Frequency of exacerbations requiring hospitalisations/emergency room visits | Frequency of exacerbations requiring hospitalisations/emergency room visits |
+| Exacerbation rate per year                                                  | 0.08                                                                        | 0.20                                                                        |
+| Percent reduction Rate ratio (95% CI)                                       | 61% 0.39 (0.18, 0.83)                                                       | _                                                                           |
+| p-value                                                                     | 0.015                                                                       |                                                                             |
+| Frequency of exacerbations requiring hospitalisation                        | Frequency of exacerbations requiring hospitalisation                        | Frequency of exacerbations requiring hospitalisation                        |
+| Exacerbations rate per year                                                 | 0.03                                                                        | 0.10                                                                        |
+| Percent reduction Rate ratio (95% CI)                                       | 69% 0.31 (0.11, 0.91)                                                       | _                                                                           |
+| p-value                                                                     | 0.034                                                                       |                                                                             |
+| Pre-bronchodilator FEV 1 (mL) at week 32                                    | Pre-bronchodilator FEV 1 (mL) at week 32                                    | Pre-bronchodilator FEV 1 (mL) at week 32                                    |
+| Baseline (SD)                                                               | 1 730 (659)                                                                 | 1 860 (631)                                                                 |
+| Mean change from baseline (SE)                                              | 183 (31)                                                                    | 86 (31)                                                                     |
+| Difference (mepolizumab vs. placebo)                                        | 98                                                                          |                                                                             |
+| 95% CI                                                                      | (11, 184)                                                                   |                                                                             |
+| p-value                                                                     | 0.028                                                                       |                                                                             |
+| St. George's Respiratory Questionnaire (SGRQ) at week 32                    | St. George's Respiratory Questionnaire (SGRQ) at week 32                    | St. George's Respiratory Questionnaire (SGRQ) at week 32                    |
+| Baseline (SD)                                                               | 47.9 (19. 5)                                                                | 46.9 (19.8)                                                                 |
+| Mean change from baseline (SE)                                              | -16.0 (1.1)                                                                 | -9.0 (1.2)                                                                  |
+| Difference (mepolizumab vs. placebo)                                        | -7.0                                                                        |                                                                             |
+| 95% CI                                                                      | (-10.2, -3.8)                                                               |                                                                             |
+| p-value                                                                     | <0.001                                                                      |                                                                             |
+
+## Reduction of exacerbation rate by baseline blood eosinophil count
+
+Table 3 shows the results of a combined analysis of the two exacerbation studies (MEA112997 and MEA115588) by baseline blood eosinophil count. The rate of exacerbations in the placebo arm increased with increasing baseline blood eosinophil count. The reduction rate with mepolizumab was greater in patients with higher blood eosinophil counts.
+
+Table 3: Combined analysis of the rate of clinically significant exacerbations by baseline blood eosinophil count in patients with severe refractory eosinophilic asthma
+
+|                            | Mepolizumab 75 mg IV/100 mg SC N=538   | Placebo N=346   |
+|----------------------------|----------------------------------------|-----------------|
+| MEA112997+MEA115588        |                                        |                 |
+| <150 cells/ µ L            |                                        |                 |
+| n                          | 123                                    | 66              |
+| Exacerbation rate per year | 1.16                                   | 1.73            |
+| Mepolizumab vs. placebo    |                                        |                 |
+| Rate ratio (95% CI)        | 0.67 (0.46,0.98)                       | ---             |
+
+<div style=\"page-break-after: always\"></div>
+
+|                            | Mepolizumab 75 mg IV/100 mg SC N=538   | Placebo N=346   |
+|----------------------------|----------------------------------------|-----------------|
+| 150 to <300 cells/ µ L     |                                        |                 |
+| n                          | 139                                    | 86              |
+| Exacerbation rate per year | 1.01                                   | 1.41            |
+| Mepolizumab vs. placebo    |                                        |                 |
+| Rate ratio (95% CI)        | 0.72 (0.47,1.10)                       | ---             |
+| 300 to <500 cells/ µ L     |                                        |                 |
+| n                          | 109                                    | 76              |
+| Exacerbation rate per year | 1.02                                   | 1.64            |
+| Mepolizumab vs. placebo    |                                        |                 |
+| Rate ratio (95% CI)        | 0.62 (0.41,0.93)                       | ---             |
+| ≥ 500 cells/ µ L           |                                        |                 |
+| n                          | 162                                    | 116             |
+| Exacerbation rate per year | 0.67                                   | 2.49            |
+| Mepolizumab vs. placebo    |                                        |                 |
+| Rate ratio (95% CI)        | 0.27 (0.19,0.37)                       | ---             |
+
+## Oral corticosteroid reduction study MEA115575 (SIRIUS)
+
+MEA115575 evaluated the effect of mepolizumab 100 mg administered subcutaneously on reducing the requirement for maintenance oral corticosteroids (OCS) while maintaining asthma control in subjects with severe refractory eosinophilic asthma. Patients had a blood eosinophil count of ≥ 150/ µ L at baseline or a blood eosinophil count of ≥ 300/ µ L in the 12 months prior to screening. Patients were administered mepolizumab or placebo treatment once every 4 weeks over the treatment period. Patients continued to receive their existing asthma medicinal product during the study with the exception of their OCS dose which was reduced every 4 weeks during the OCS reduction phase (Weeks 4 -20), as long as asthma control was maintained.
+
+A total of 135 patients were enrolled: mean age was 50 years, 55% were female, and 48% had been receiving oral steroid therapy for at least 5 years. The baseline mean prednisone equivalent dose was approximately 13 mg per day.
+
+The primary endpoint was the percent reduction in daily OCS dose (weeks 20-24), whilst maintaining asthma control by defined dose reduction categories (see Table 4). Predefined categories included percent reductions ranging from 90-100% reduction, to no decrease in the prednisone dose from the end of the optimisation phase. The comparison between mepolizumab and placebo was statistically significant (p=0.008).
+
+Table 4: Results of the primary and secondary endpoints in MEA115575
+
+|                                               | ITT Population                          | ITT Population   |
+|-----------------------------------------------|-----------------------------------------|------------------|
+|                                               | Mepolizumab 100 mg (subcutaneous) N= 69 | Placebo N= 66    |
+| Primary endpoint                              |                                         |                  |
+| Percent reduction in OCS from baseline (weeks | 20-24)                                  |                  |
+| 90% - 100%                                    | 16 (23%)                                | 7(11%)           |
+| 75% - <90%                                    | 12 (17%)                                | 5 (8%)           |
+| 50% - <75%                                    | 9 (13%)                                 | 10 (15%)         |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                                                                 | ITT Population                          | ITT Population                    |
+|---------------------------------------------------------------------------------|-----------------------------------------|-----------------------------------|
+|                                                                                 | Mepolizumab 100 mg (subcutaneous) N= 69 | Placebo N= 66                     |
+| >0% - <50% No decrease in OCS/lack of asthma control/ withdrawal from treatment | 7 (10%) 25 (36%)                        | 7 (11%) 37 (56%)                  |
+| Odds ratio (95% CI)                                                             | 2.39 (1.25, 4.56)                       |                                   |
+| p-value                                                                         | 0.008                                   |                                   |
+| Secondary endpoints (weeks 20-24)                                               | Secondary endpoints (weeks 20-24)       | Secondary endpoints (weeks 20-24) |
+| Reduction in the daily OCS dose to 0 mg/d                                       | 10 (14%)                                | 5 (8%)                            |
+| Odds ratio (95% CI)                                                             | 1.67 (0.49, 5.75)                       |                                   |
+| p-value                                                                         | 0. 414                                  |                                   |
+| Reduction in the daily OCS dose to ≤5mg/day                                     | 37 (54%)                                | 21 (32%)                          |
+| Odds ratio (95% CI)                                                             | 2.45 (1.12, 5.37)                       |                                   |
+| p-value                                                                         | 0.025                                   |                                   |
+| Median %reduction in daily OCS dose from baseline (95% CI)                      | 50.0 (20.0, 75.0)                       | 0.0 (-20.0, 33.3)                 |
+| Median difference (95% CI)                                                      | -30.0 (-66.7, 0.0)                      |                                   |
+| p-value                                                                         | 0.007                                   |                                   |
+
+## Open-label extension studies in severe refractory eosinophilic asthma MEA115666 (COLUMBA), MEA115661 (COSMOS) and 201312 (COSMEX)
+
+The long-term efficacy profile of mepolizumab in severe refractory eosinophilic asthma patients (n=998) treated for a median of 2.8 years (range 4 weeks to 4.5 years) in open-label extension studies MEA115666, MEA115661 and 201312 was generally consistent with the 3 placebo-controlled studies.
+
+## Chronic rhinosinusitis with nasal polyps (CRSwNP)
+
+Study 205687 (SYNAPSE) was a 52-week, randomised, double-blind, placebo-controlled study which evaluated 407 patients aged 18 years and older with CRSwNP.
+
+Patients enrolled in the study were required to have a nasal obstruction VAS (Visual Analogue Scale) symptom score of &gt;5 out of a maximum score of 10, an overall VAS symptom score &gt;7 out of a maximum score of 10 and an endoscopic bilateral NP score of ≥ 5 out of a maximum score of 8 (with a minimum score of 2 in each nasal cavity). Patients must also have had a history of at least one prior surgery for nasal polyps in the previous 10 years.
+
+Key baseline characteristics included total endoscopic NP score mean (SD) 5.5 (1.29), nasal obstruction VAS score mean (SD) 9.0 (0.83), overall VAS symptom score mean (SD) 9.1 (0.74), loss of smell VAS score mean (SD) 9.7 (0.72) and Sino-Nasal Outcome Test (SNOT-22) mean (SD) 64.1 (18.32). The geometric mean eosinophil count was 390 cells/mcL (95% CI: 360, 420). In addition, 27% of patients had aspirin-exacerbated respiratory disease (AERD) and 48% of patients had at least 1 course of OCS for CRSwNP in the past 12 months.
+
+Patients received a 100 mg dose of mepolizumab or placebo, administered subcutaneously once every 4 weeks in addition to background intranasal corticosteroid therapy.
+
+<div style=\"page-break-after: always\"></div>
+
+The co-primary endpoints were change from baseline in total endoscopic NP score at week 52 and change from baseline in mean nasal obstruction VAS score during weeks 49-52. The key secondary endpoint was the time to first NP surgery up to Week 52 (surgery was defined as any procedure involving instruments resulting in incision and removal of tissue [e.g. polypectomy] in the nasal cavity). Patients who received mepolizumab had significantly greater improvements (decreases) in total endoscopic NP score at Week 52 and in nasal obstruction VAS score during weeks 49-52 compared to placebo, and all secondary endpoints were statistically significant in favour of mepolizumab (see Table 5 and Figure 1).
+
+Table 5: Summary of results for primary and secondary endpoints (intent to treat population)
+
+|                                                                                                                                                                       | Placebo (N=201)                           | Mepolizumab 100 mg SC (N=206)                                          |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|------------------------------------------------------------------------|
+| Co-primary endpoints                                                                                                                                                  |                                           |                                                                        |
+| Total endoscopic score at week 52 a                                                                                                                                   |                                           |                                                                        |
+| Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c ≥1 -point improvement, n (%)                               | 6.0 (0, 8) 0.0 57 (28)                    | 5.0 (2, 8) -1.0 <0.001 -0.73 (-1.11, -0.34) 104 (50)                   |
+| ≥2 -point improvement, n (%)                                                                                                                                          | 26 (13)                                   | 74 (36)                                                                |
+| Nasal obstruction VAS score (weeks 49 to 52) a                                                                                                                        |                                           |                                                                        |
+| Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c >1-point improvement, n (%) ≥3 -point improvement, n (%) d | 9.14 (5.31, 10.00) -0.82 100 (50) 73 (36) | 9.01 (6.54, 10.00) -4.41 <0.001 -3.14 (-4.09, -2.18) 146 (71) 124 (60) |
+| Key secondary endpoint                                                                                                                                                |                                           |                                                                        |
+| Time to first nasal polyps surgery                                                                                                                                    |                                           |                                                                        |
+| Participants with surgery                                                                                                                                             | 46 (23)                                   | 18 (9)                                                                 |
+| Hazard ratio (Mepolizumab/Placebo) (95% CI) e                                                                                                                         |                                           | 0.43 (0.25, 0.76)                                                      |
+| p-value e                                                                                                                                                             |                                           | 0.003                                                                  |
+| Other secondary endpoints                                                                                                                                             |                                           |                                                                        |
+| Overall VAS score (Weeks 49-52) a                                                                                                                                     |                                           |                                                                        |
+| Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c ≥2.5 -point improvement (%) f                              | 9.20 (7.21, 10.00) -0.90 40               | 9.12 (7.17, 10.00) -4.48 <0.001 -3.18 (-4.10, -2.26) 64                |
+| SNOT-22 total score at week 52 a, g                                                                                                                                   |                                           |                                                                        |
+| n Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c ≥ 28-point improvement (%) f                             | 198 64.0 (19, 110) -14.0 32               | 205 64.0 (17, 105) -30.0 <0.001 -16.49 (-23.57, -9.42) 54              |
+
+<div style=\"page-break-after: always\"></div>
+
+| Patients requiring systemic corticosteroids for nasal polyps up to Week 52                                                             | Patients requiring systemic corticosteroids for nasal polyps up to Week 52   | Patients requiring systemic corticosteroids for nasal polyps up to Week 52   |
+|----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| Number of patients with ≥1 course Odds Ratio to Placebo (95% CI) h p-value h                                                           | 74 (37)                                                                      | 52 (25) 0.58 (0.36, 0.92) 0.020                                              |
+| Composite VAS score - nasal symptoms (Weeks 49-52) a, i                                                                                | Composite VAS score - nasal symptoms (Weeks 49-52) a, i                      | Composite VAS score - nasal symptoms (Weeks 49-52) a, i                      |
+| Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c ≥ 2-point improvement (%) f | 9.18 (6.03, 10.00) -0.89 40                                                  | 9.11 (4.91, 10.00) -3.96 <0.001 -2.68 (-3.44, -1.91) 66                      |
+| Loss of smell VAS score (Weeks 49-52) a                                                                                                | Loss of smell VAS score (Weeks 49-52) a                                      | Loss of smell VAS score (Weeks 49-52) a                                      |
+| Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c ≥ 3-point improvement (%) f | 9.97 (6.69, 10.00) 0.00 19                                                   | 9.97 (0.94, 10.00) -0.53 <0.001 -0.37 (-0.65, -0.08) 36                      |
+
+a Patients with nasal surgery/sinuplasty prior to visit were assigned their worst observed score prior to nasal surgery/sinuplasty. Those who withdrew from study with no nasal surgery/sinuplasty were assigned their worst observed score prior to study withdrawal.
+
+b Based on Wilcoxon rank -sum test.
+
+c Quantile regression with covariates of treatment group, geographic region, baseline score and log(e) baseline blood eosinophil count.
+
+d A three-point improvement in nasal obstruction VAS has been identified as a meaningful withinpatient change for this assessment.
+
+e Estimated from a Cox Proportional Hazards Model with covariates of treatment group, geographic region, baseline total endoscopic score (centrally read), baseline nasal obstruction
+
+VAS, log(e) baseline blood eosinophil count and number of previous surgeries (1, 2, &gt;2 as ordinal).
+
+f Threshold for improvement has been identified as a meaningful within-patient change for this assessment g  Improvement seen in all 6 domains of symptoms and impact associated with CRSwNP.
+
+h Analysis using logistic regression model with covariates of treatment group, geographic region, number of OCS courses for NP in last 12 months (0, 1, &gt;1 as ordinal), baseline total Endoscopic Nasal Polyps score (centrally read), baseline nasal obstruction VAS score and log(e) baseline blood eosinophil count.
+
+i Composite VAS score of nasal obstruction, nasal discharge, mucus in the throat and loss of smell.
+
+## Time to first NP surgery
+
+Across the 52-week treatment period, patients in the mepolizumab group had a lower probability of undergoing NP surgery than patients in the placebo group. The risk of surgery over the treatment period was significantly lower by 57% for patients treated with mepolizumab compared with placebo ( Hazard Ratio: 0.43; 95% CI 0.25, 0.76; p=0.003) .
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 1: Kaplan Meier Curve for Time to First Nasal Polyps Surgery
+
+<!-- image -->
+
+Time to Event (Weeks)
+
+A post-hoc analysis of the proportion of patients with surgery showed a 61% reduction in the odds of surgery versus placebo (OR: 0.39, 95% CI: 0.21, 0.72; p= 0.003).
+
+## CRSwNP patients with co-morbid asthma
+
+In 289 (71%) patients with co-morbid asthma, pre-specified analyses showed improvements in the coprimary endpoints consistent with those seen in the overall population in the patients who received mepolizumab 100 mg compared with placebo. Additionally in these patients, there was a greater improvement from baseline at Week 52 in asthma control as measured by the Asthma Control Questionnaire (ACQ-5) for mepolizumab 100 mg compared with placebo (median change [Q1, Q3] of -0.80 [-2.20, 0.00] and 0.00 [-1.10, 0.20], respectively).
+
+## Chronic obstructive pulmonary disease (COPD)
+
+## Study 208657 (MATINEE)
+
+The efficacy of mepolizumab (100 mg SC every 4 weeks) added to standard of care was evaluated in 804 adult patients aged 40 years and older with COPD with an eosinophilic phenotype in a 52-104 week randomised, placebo-controlled, multicentre study (208657, MATINEE). Patients were required to have a blood eosinophil count (BEC) of ≥300 cells/mcL at screening and a BEC of ≥150 cells/mcL within the previous 12 months. All patients were on inhaled triple therapy (ICS, long-acting beta agonist, and long-acting anti-muscarinic) for the duration of the study. Enrolled patients had moderate to very severe airflow limitation (post-bronchodilator FEV1 of 20-80% predicted), no prior or concurrent history of asthma, and a history of exacerbations (at least 1 severe exacerbation requiring hospitalisation, or 2 moderate exacerbations requiring treatment with systemic corticosteroids with or without antibiotics) in the previous 12 months despite regular use of inhaled corticosteroids plus 2 additional maintenance therapies for at least 3 months prior to screening.
+
+The primary objective of the study was to evaluate the efficacy of mepolizumab on the annualised rate of moderate (defined as worsening of COPD symptoms requiring treatment with oral/systemic corticosteroids and/or antibiotics) or severe exacerbations (defined as requiring hospitalisation or
+
+<div style=\"page-break-after: always\"></div>
+
+resulting in death). Symptoms and health-related quality of life were assessed using a COPD Assessment Test (CAT) responder analysis (defined as a reduction in score of 2 or more from baseline); a responder analysis on the St. George's Respiratory Question naire (SGRQ) (defined as a reduction in score of 4 or more from baseline); and Evaluating Respiratory Symptoms in Chronic Obstructive Pulmonary Disease (E-RS: COPD) responder analysis (defined as a reduction in score of 2 or more from baseline).
+
+The demographics and baseline characteristics of the patients are provided in Table 6.
+
+Table 6: Demographics and baseline characteristics in MATINEE (mITT population)
+
+|                                                                        | (N=804)        |
+|------------------------------------------------------------------------|----------------|
+| Age (y) of patients, mean (SD)                                         | 66 (8.0)       |
+| Female, n (%)                                                          | 253 (31)       |
+| White, n (%)                                                           | 673 (84)       |
+| Current smokers, n (%)                                                 | 222 (28)       |
+| Average smoking history (pack-years), mean (SD)                        | 43.0 (24.88)   |
+| Duration of COPD (y), mean (SD)                                        | 10.0 (6.28)    |
+| mMRCscore ≥2 (range 0 -4), n (%)                                       | 611 (76)       |
+| Emphysema only a , n (%)                                               | 252 (31)       |
+| Chronic bronchitis only a , n (%)                                      | 338 (42)       |
+| Emphysema and chronic bronchitis a , n (%)                             | 143 (18)       |
+| Moderate airflow limitation: ≥50% to <80% predicted FEV 1 , n (%)      | 349 (43)       |
+| Severe airflow limitation: ≥30% to <50% predicted FEV 1 , n (%)        | 340 (42)       |
+| Very severe airflow limitation: <30% predicted FEV 1 , n (%)           | 110 (14)       |
+| Post-bronchodilator %predicted FEV 1, mean (SD)                        | 48.2 (15.77)   |
+| Post-bronchodilator FEV 1 /FVC ratio, mean (SD)                        | 0.49 (0.124)   |
+| Number of moderate or severe exacerbations in previous year, mean (SD) | 2.3 (0.94)     |
+| One or more severe exacerbation in previous year, n (%)                | 165 (21)       |
+| CAT score, mean (SD)                                                   | 19.2 (6.85)    |
+| SGRQ score, mean (SD)                                                  | 54.6 (17.80)   |
+| E-RS: COPD score, mean (SD)                                            | 13.05 (6.790)  |
+| Geometric mean eosinophil count at screening, cells/mcL (95% CI)       | 480 (470, 490) |
+
+mITT = modified Intent-to-Treat, SD = standard deviation, mMRC = modified Medical Research Council, FEV1
+
+= forced expiratory volume in 1 second, FVC = forced vital capacity, CAT = COPD Assessment Test, SGRQ = St. George's Respiratory Questionnaire, E-RS: COPD = Evaluating Respiratory Symptoms in COPD a  COPD type based on Investigator assessment. 544 (68%) patients reported symptoms of chronic bronchitis based on SGRQ.
+
+## Exacerbations
+
+In patients who received mepolizumab 100 mg there was a statistically significant reduction in the annualised rate of moderate/severe exacerbations and lower risk of moderate/severe exacerbations compared with placebo, in addition there was a reduction in the annualised rate of severe exacerbations (see Table 7).
+
+<div style=\"page-break-after: always\"></div>
+
+Table 7: COPD exacerbation endpoints in MATINEE (mITT population)
+
+|                                                          | Mepolizumab 100 mg SC N=403                       | Placebo N=401                                     |
+|----------------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
+| Rate of moderate a or severe b exacerbations             | Rate of moderate a or severe b exacerbations      | Rate of moderate a or severe b exacerbations      |
+| Exacerbation rate per year                               | 0.80                                              | 1.01                                              |
+| Percent rate reduction Rate ratio vs. placebo (95% CI)   | 21% 0.79 (0.66, 0.94)                             | 21% 0.79 (0.66, 0.94)                             |
+| p-value                                                  | 0.011                                             | 0.011                                             |
+| Time to first moderate a or severe b exacerbation        | Time to first moderate a or severe b exacerbation | Time to first moderate a or severe b exacerbation |
+| Median time to first exacerbation c (days)               | 419                                               | 321                                               |
+| Percent risk reduction Hazard ratio vs. placebo (95% CI) | 23% 0.77 (0.64, 0.93)                             | 23% 0.77 (0.64, 0.93)                             |
+| p-value                                                  | 0.009                                             | 0.009                                             |
+| Rate of severe b exacerbations d                         | Rate of severe b exacerbations d                  | Rate of severe b exacerbations d                  |
+| Exacerbation rate per year                               | 0.10                                              | 0.15                                              |
+| Percent rate reduction Rate ratio vs. placebo (95% CI)   | 34% 0.66 (0.43, 1.01)                             | 34% 0.66 (0.43, 1.01)                             |
+
+## Lung function
+
+No direct effect on lung function (pre-bronchodilator FEV1) in patients who received mepolizumab 100 mg SC in comparison to placebo was observed at 52 weeks, with a mean change from baseline of 30.2 mL for mepolizumab and 35.6 mL for placebo (difference 5.4 mL; 95% CI: -56.2, 45.4).
+
+## Health-related quality of life assessments
+
+The results of symptoms and health-related quality of life endpoints (CAT, SGRQ and E-RS: COPD) were not statistically significant. The percentage of SGRQ responders (defined as a reduction in score of 4 or more from baseline) at Week 52 was 50% for mepolizumab 100 mg compared with 46% for placebo (Odds Ratio 1.17; 95% CI: 0.87, 1.57).
+
+## Eosinophilic granulomatosis with polyangiitis (EGPA)
+
+MEA115921 was a randomised, double-blind, placebo-controlled, 52-week study which evaluated 136 adult patients with EGPA, who had a history of relapsing or refractory disease, and who were on stable oral corticosteroid therapy (OCS; ≥7.5 to ≤ 50 mg/day prednisolone/prednisone), with or without stable immunosuppressant therapy (excluding cyclophosphamide). Other background standard of care therapy was allowed during the study. Fifty-three percent (n=72) were also on
+
+<div style=\"page-break-after: always\"></div>
+
+concomitant stable immunosuppressant therapy. Patients with organ threatening or life-threatening EGPA were excluded from study MEA115921. Patients either received a 300 mg dose of mepolizumab or placebo administered subcutaneously once every 4 weeks in addition to their background prednisolone/prednisone with or without immunosuppressive therapy. The OCS dose was tapered at the discretion of the investigator.
+
+## Remission
+
+The co- primary endpoints were the total accrued duration of remission, defined as a Birmingham Vasculitis Activity Score (BVAS) =0 plus prednisolone/prednisone dose ≤4 mg/day, and the proportion of patients in remission at both 36 and 48 weeks of treatment. BVAS=0 represents no active vasculitis.
+
+Compared with placebo, patients receiving mepolizumab 300 mg achieved a significantly greater accrued time in remission. Additionally, compared to placebo, a significantly higher proportion of patients receiving mepolizumab 300 mg achieved remission at both Week 36 and Week 48 (Table 8).
+
+For both co-primary endpoints, compared with placebo, the beneficial effect observed following mepolizumab 300 mg treatment was present irrespective of if patients were receiving immunosuppressant therapy in addition to background corticosteroids.
+
+Using the secondary endpoint remission definition of BVAS=0 plus prednisolone/prednisone ≤7.5 mg/day, patients receiving mepolizumab 300 mg also achieved significantly greater accrued time in remission (p&lt;0.001), and a higher proportion of patients were in remission at both Week 36 and Week 48 (p&lt;0.001), compared to placebo .
+
+Table 8: Analyses of Co-Primary Endpoints
+
+|                                                 | Number (%) of patients   | Number (%) of patients   |
+|-------------------------------------------------|--------------------------|--------------------------|
+|                                                 | Placebo N=68             | Mepolizumab 300mg N=68   |
+| Accrued Duration of Remission Over 52 Weeks     |                          |                          |
+| 0                                               | 55 (81)                  | 32 (47)                  |
+| >0 to <12 weeks                                 | 8 (12)                   | 8 (12)                   |
+| 12 to <24 weeks                                 | 3 (4)                    | 9 (13)                   |
+| 24 to <36 weeks                                 | 0                        | 10 (15)                  |
+| ≥ 36 weeks                                      | 2 (3)                    | 9 (13)                   |
+| Odds ratio (mepolizumab/placebo) 95% CI p-value | --- ---                  | 5.91 2.68, 13.03 <0.001  |
+| Patients in remission at Weeks 36 and 48        | 2 (3)                    | 22 (32)                  |
+| Odds ratio (mepolizumab/placebo) 95% CI p-value | --- ---                  | 16.74 3.61, 77.56 <0.001 |
+
+An odds ratio &gt;1 favours mepolizumab. Remission: BVAS=0 and OCS dose ≤ 4mg / day.
+
+## Relapse
+
+Compared with placebo, the time to first relapse was significantly longer for patients receiving mepolizumab 300 mg (p&lt;0.001). Additionally, patients receiving mepolizumab had a 50% reduction in annualised relapse rate compared with placebo: 1.14 vs 2.27, respectively.
+
+<div style=\"page-break-after: always\"></div>
+
+## Oral corticosteroid reduction
+
+Patients treated with mepolizumab had a significantly lower average daily OCS during Weeks 48 -52 compared with patients who received placebo. During Weeks 48 to 52, 59% and 44% of patients treated with mepolizumab achieved an average daily OCS dose of ≤ 7.5 mg and ≤ 4 mg respectively compared with 33% and 7% in the placebo group. 18% of patients in the mepolizumab group were able to taper off OCS completely compared with 3% in the placebo group.
+
+## Asthma Control Questionnaire - 6 (ACQ-6)
+
+Patients treated with mepolizumab had significant improvements in mean ACQ 6 score during Weeks 49-52 compared with patients who received placebo.
+
+## Hypereosinophilic syndrome (HES)
+
+Study 200622 was a randomised, double-blind, placebo-controlled, 32-week study which evaluated 108 patients ≥12 years old with HES. Patients received 300 mg of mepolizumab, or placebo administered subcutaneously once every 4 weeks while continuing their HES therapy. In study 200622, HES therapy included but was not limited to OCS, immunosuppressive, cytotoxic therapy or other symptomatic therapies associated with HES such as omeprazole.
+
+Patients entering the study had experienced at least two HES flares within the past 12 months and had a blood eosinophil count ≥1 000 cells/ µ L during screening. Patients who were FIP1L1PDGFRα kinase-positive were excluded from the study.
+
+The primary endpoint of study 200622 was the proportion of patients who experienced a HES flare during the 32-week treatment period. A HES flare was defined as worsening of clinical signs and symptoms of HES resulting in the need to increase OCS or increase/add cytotoxic or immunosuppressive HES therapy or receiving blinded active OCS due to increased blood eosinophils (on ≥2 occasions) .
+
+The primary analysis compared patients who experienced a HES flare or withdrew from the study in the mepolizumab and placebo treatment groups. Over the 32-week treatment period, 50% fewer patients experienced a HES flare or withdrew from the study when treated with 300 mg mepolizumab compared with placebo; 28% versus 56% respectively (OR 0.28, 95% CI: 0.12, 0.64) (see Table 9). Secondary endpoints were time to first HES flare, proportion of patients who experienced a HES flare during Week 20 through Week 32, rate of HES flares and change from baseline in fatigue severity. All secondary endpoints were statistically significant and provided support for the primary endpoint (see Figure 2 and Table 10).
+
+Table 9: Results of primary endpoint/analysis in the Intent to Treat population (Study 200622)
+
+|                                                           | Mepolizumab 300 mg N= 54                           | Placebo N= 54                                      |
+|-----------------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
+| Proportion of patients who experienced a HES flare        | Proportion of patients who experienced a HES flare | Proportion of patients who experienced a HES flare |
+| Patients with ≥1 HES flare or who withdrew from study (%) | 15 (28)                                            | 30 (56)                                            |
+| Patients with ≥1 HES flare (%)                            | 14 (26)                                            | 28 (52)                                            |
+| Patients with no HES flare who withdrew (%)               | 1 (2)                                              | 2 (4)                                              |
+| Odds ratio (95% CI)                                       | 0.28 (0.12, 0.64)                                  |                                                    |
+| CMHp-value                                                | 0.002                                              |                                                    |
+
+CMH =Cochran-Mantel-Haenszel
+
+<div style=\"page-break-after: always\"></div>
+
+## Time to first flare
+
+Patients who received 300 mg mepolizumab had a significant increase in the time to first HES flare compared with placebo. The risk of first HES flare over the treatment period was 66 % lower for patients treated with mepolizumab compared with placebo (Haza rd Ratio: 0.34; 95 % CI 0.18, 0.67; p=0.002).
+
+Figure 2: Kaplan Meier Curve for Time to First HES Flare
+
+Time to Event (Weeks)
+
+<!-- image -->
+
+Table 10: Results of other secondary endpoints in the Intent to Treat population (Study 200622)
+
+|                                                                                                                                                   | Mepolizumab 300 mg N= 54                                                                                                                          | Placebo N= 54                                                                                                                                     |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| HES flares during week 20 and up to and including week 32                                                                                         | HES flares during week 20 and up to and including week 32                                                                                         | HES flares during week 20 and up to and including week 32                                                                                         |
+| Patients with ≥1 HES flare or who withdrew from study (%)                                                                                         | 9 (17)                                                                                                                                            | 19 (35)                                                                                                                                           |
+| Odds ratio (95% CI)                                                                                                                               | 0.33 (0.13, 0.85)                                                                                                                                 | 0.33 (0.13, 0.85)                                                                                                                                 |
+| CMHp-value                                                                                                                                        | 0.02                                                                                                                                              | 0.02                                                                                                                                              |
+| Rate of HES flares                                                                                                                                | Rate of HES flares                                                                                                                                | Rate of HES flares                                                                                                                                |
+| Estimated mean rate/year                                                                                                                          | 0.50                                                                                                                                              | 1.46                                                                                                                                              |
+| Rate ratio (95% CI) a                                                                                                                             | 0.34 (0.19, 0.63)                                                                                                                                 | 0.34 (0.19, 0.63)                                                                                                                                 |
+| Wilcoxon Rank Sum Test p-value                                                                                                                    | 0.002                                                                                                                                             | 0.002                                                                                                                                             |
+| Change from baseline in fatigue severity based on Brief Fatigue Inventory (BFI) Item 3 (worst level of fatigue during past 24 hours) at week 32 b | Change from baseline in fatigue severity based on Brief Fatigue Inventory (BFI) Item 3 (worst level of fatigue during past 24 hours) at week 32 b | Change from baseline in fatigue severity based on Brief Fatigue Inventory (BFI) Item 3 (worst level of fatigue during past 24 hours) at week 32 b |
+| Median change in BFI item 3                                                                                                                       | -0.66                                                                                                                                             | 0.32                                                                                                                                              |
+
+<div style=\"page-break-after: always\"></div>
+
+| Comparison (mepolizumab vs. placebo) Wilcoxon Rank Sum Test p-value   | 0.036   |
+|-----------------------------------------------------------------------|---------|
+
+CMH =Cochran-Mantel-Haenszel
+
+## Open-label extension (OLE)
+
+Study 205203 was a 20-week open-label extension of Study 200622. HES therapy was allowed to be adjusted per local standard of care while maintaining mepolizumab 300 mg treatment starting at Week 4. In this study the effect of treatment with mepolizumab on the reduction of HES flares reported during Study 200622 was sustained for patients who continued mepolizumab treatment in study 205203, in which 94% (47/50) of patients did not experience a flare.
+
+In the 72 patients requiring OCS during Weeks 0 to 4 of the OLE, 28% of patients achieved a mean daily dose OCS dose reduction of ≥ 50% during Weeks 16 to 20.
+
+## Paediatric population
+
+## Severe refractory eosinophilic asthma
+
+In MEA115588 and in the double-blind placebo-controlled study 200862, there were 34 adolescents (12 to 17 years old). Of these 34 subjects: 12 received placebo, 9 received mepolizumab 75 mg intravenously, and 13 received 100 mg subcutaneously. In a combined analysis of these studies, a 40% reduction in clinically significant exacerbations was observed in adolescents following mepolizumab treatment compared to placebo (rate ratio 0.60; 95% CI: 0.17, 2.10).
+
+Eosinophilic granulomatosis with polyangiitis (EGPA)
+
+The are no clinical data available in children and adolescents aged 6 to 17 years old.
+
+## HES
+
+Four adolescents (12 to 17 years old) were enrolled in study 200622; one adolescent received mepolizumab 300 mg, and 3 adolescents received placebo for 32 weeks. The one adolescent treated with mepolizumab in the 32-week Study 200622 did not have a HES flare. All 4 adolescents that completed study 200622 continued into a 20-week open-label extension study 205203 in which one of the 4 adolescents experienced one HES flare.
+
+## 5.2 Pharmacokinetic properties
+
+Following subcutaneous dosing in patients with asthma and CRSwNP, mepolizumab exhibited approximately dose-proportional pharmacokinetics over a dose range of 12.5 mg to 250 mg. Subcutaneous administration of mepolizumab 300 mg had approximately three times the systemic exposure of mepolizumab 100 mg. Mepolizumab pharmacokinetics were consistent in patients with asthma, CRSwNP, COPD, EGPA or HES. Following administration of a single 100 mg subcutaneous dose in healthy subjects, mepolizumab systemic exposure was comparable between formulations.
+
+## Absorption
+
+Following subcutaneous administration to healthy subjects or patients with asthma, mepolizumab was absorbed slowly with a median time to reach maximum plasma concentration (Tmax) ranging from 4 to 8 days.
+
+<div style=\"page-break-after: always\"></div>
+
+Following a single subcutaneous administration in the abdomen, thigh or arm of healthy subjects, mepolizumab absolute bioavailability was 64%, 71% and 75%, respectively. In patients with asthma the absolute bioavailability of mepolizumab administered subcutaneously in the arm ranged from 7480%. Following repeat subcutaneous administration every 4 weeks, there is approximately a two-fold accumulation at steady state.
+
+## Distribution
+
+Following a single intravenous administration to patients with asthma, mepolizumab distributes into a mean volume of distribution of 55 to 85 mL/kg.
+
+## Biotransformation
+
+Mepolizumab is a humanised IgG1 monoclonal antibody degraded by proteolytic enzymes which are widely distributed in the body and not restricted to hepatic tissue.
+
+## Elimination
+
+Following a single intravenous administration to patients with asthma, the mean systemic clearance (CL) ranged from 1.9 to 3.3 mL/day/kg, with a mean terminal half-life of approximately 20 days. Following subcutaneous administration of mepolizumab the mean terminal half-life (t1/2) ranged from 16 to 22 days. In the population pharmacokinetic analysis estimated mepolizumab systemic clearance was 3.1 mL/day/kg.
+
+## Special populations
+
+## Elderly patients (≥65 years old)
+
+There are limited pharmacokinetic data available in elderly patients (≥65 years old) across all clinical studies (N=90). However, in the population pharmacokinetic analysis, there were no indications of an effect of age on the pharmacokinetics of mepolizumab over the age range of 12 to 82 years.
+
+## Renal impairment
+
+No formal studies have been conducted to investigate the effect of renal impairment on the pharmacokinetics of mepolizumab. Based on population pharmacokinetic analyses, no dose adjustment is required in patients with creatinine clearance values between 50-80 mL/min. There are limited data available in patients with creatinine clearance values &lt;50 mL/min.
+
+## Hepatic impairment
+
+No formal studies have been conducted to investigate the effect of hepatic impairment on the pharmacokinetics of mepolizumab. Since mepolizumab is degraded by widely distributed proteolytic enzymes, not restricted to hepatic tissue, changes in hepatic function are unlikely to have any effect on the elimination of mepolizumab.
+
+## Paediatric population
+
+## Severe eosinophilic asthma and HES
+
+There are limited pharmacokinetic data available in the paediatric population (59 patients with eosinophilic esophagitis, 55 patients with severe refractory eosinophilic asthma and 1 patient with HES). Intravenous mepolizumab pharmacokinetics was evaluated by population pharmacokinetic analysis in a paediatric study conducted in patients aged 2-17 years old with eosinophilic esophagitis.
+
+<div style=\"page-break-after: always\"></div>
+
+Paediatric pharmacokinetics was largely predictable from adults, after taking into account bodyweight. Mepolizumab pharmacokinetics in adolescent patients with severe refractory eosinophilic asthma or HES included in the phase 3 studies were consistent with adults (see section 4.2).
+
+Paediatric pharmacokinetics following subcutaneous administration in patients 6 to 11 years old with severe refractory eosinophilic asthma was investigated in an open label, uncontrolled study of 12weeks duration. Paediatric pharmacokinetics were broadly consistent with adults and adolescents after accounting for bodyweight and bioavailability. The absolute subcutaneous bioavailability appears complete compared to that observed in adults and adolescents of 76%. Exposure following subcutaneous administration of either 40 mg (for a weight &lt; 40 kg) or 100 mg (for a weight ≥ 40 kg) was 1.32 and 1.97 times of that observed in adults at 100 mg.
+
+Investigation of a 40 mg subcutaneous dosing regimen administered every 4 weeks in children 6 to 11 years old over a 15-70 kg broad weight range by PK modelling and simulation predicts that the exposure of this dosing regimen would remain on average within 38% of adults at 100 mg. This dosing regimen is considered acceptable due to the wide therapeutic index of mepolizumab.
+
+## EGPA
+
+Mepolizumab pharmacokinetics in children (6 to 17 years old) with EGPA were predicted using modelling and simulation, based on pharmacokinetics in other eosinophilic diseases, and are expected to be consistent with those observed in children with severe eosinophilic asthma. The recommended posology in children 6 to 11 years old over a 15-70 kg broad weight range predicts that the exposure would remain on average within 26% of adults at 300 mg.
+
+## 5.3 Preclinical safety data
+
+As mepolizumab is a monoclonal antibody, no genotoxicity or carcinogenicity studies have been conducted.
+
+## Animal toxicology and/or pharmacology
+
+Non-clinical data reveal no special hazards for humans based on conventional studies of safety pharmacology or repeated dose toxicity studies in monkeys. Intravenous and subcutaneous administration to monkeys was associated with reductions in peripheral and lung eosinophil counts, with no toxicological findings.
+
+Eosinophils are thought to be associated with immune system responses to some parasitic infections. Studies conducted in mice treated with anti-IL-5 antibodies or genetically deficient in IL-5 or eosinophils have not shown impaired ability to clear parasitic infections. The relevance of these findings for humans is unknown.
+
+## Fertility
+
+No impairment of fertility was observed in a fertility and general reproduction toxicity study in mice performed with an analogous antibody that inhibits IL-5 in mice. This study did not include a littering or functional offspring assessment.
+
+## Pregnancy
+
+In monkeys, mepolizumab had no effect on pregnancy or on embryonic/fetal and postnatal development (including immune function) of the offspring. Examinations for internal or skeletal malformations were not performed. Data in cynomolgus monkeys demonstrate that mepolizumab
+
+<div style=\"page-break-after: always\"></div>
+
+crossed the placenta. Concentrations of mepolizumab were about 1.2-2.4 times higher in infants than in mothers for several months post partum and did not affect the immune system of the infants.
+
+## 6. PHARMACEUTICAL PARTICULARS
+
+## 6.1 List of excipients
+
+Sucrose Sodium phosphate dibasic heptahydrate Citric acid monohydrate Polysorbate 80 (E 433) Disodium edetate Water for injections
+
+## 6.2 Incompatibilities
+
+In the absence of compatability studies, this medicinal product must not be mixed with other medicinal products.
+
+## 6.3 Shelf life
+
+3 years.
+
+## 6.4 Special precautions for storage
+
+Store in a refrigerator (2°C - 8°C).
+
+Do not freeze.
+
+Store in the original carton in order to protect from light.
+
+If necessary, the pre-filled pen and pre-filled syringe(s) can be removed from the refrigerator and kept in the unopened pack for up to 7 days at room temperature (up to 30°C), when protected from light. The pack must be discarded if left out of the refrigerator for more than 7 days.
+
+The pre-filled pen or pre-filled syringe(s) must be administered within 8 hours once the pack is opened. The pack must be discarded if not administered within 8 hours.
+
+## 6.5 Nature and contents of container
+
+## Nucala 100 mg solution for injection in pre-filled pen
+
+1 mL solution in a Type 1 glass syringe with a fixed needle (stainless steel) in a pre-filled pen.
+
+Pack sizes: 1 pre-filled pen Multipack containing 3 (3 packs of 1) pre-filled pens Multipack containing 9 (9 packs of 1) pre-filled pens
+
+Not all pack-sizes may be marketed .
+
+Nucala 100 mg solution for injection in pre-filled syringe
+
+1 mL solution in a Type 1 glass syringe with a fixed needle (stainless steel) and passive safety needle guard.
+
+Pack sizes: 1 pre-filled syringe Multipack containing 3 (3 packs of 1) pre-filled syringes Multipack containing 9 (9 packs of 1) pre-filled syringes
+
+Not all pack-sizes may be marketed.
+
+Nucala 40 mg solution for injection in pre-filled syringe
+
+0.4 mL solution in a 1 mL Type 1 glass syringe with a fixed needle (stainless steel) and passive safety needle guard.
+
+Pack sizes:
+
+1 pre-filled syringe
+
+Multipack containing 3 (3 packs of 1) pre-filled syringes
+
+Not all pack-sizes may be marketed.
+
+<div style=\"page-break-after: always\"></div>
+
+## 6.6 Special precautions for disposal and other handling
+
+Before administration, the solution must be inspected visually. The liquid must be clear to opalescent, colourless to pale yellow to pale brown. If the solution is cloudy, discoloured or contains particles, the solution must not be used.
+
+After removing the pre-filled pen or pre-filled syringe(s) from the refrigerator, allow the pen or syringe(s) to reach room temperature for at least 30 minutes before injecting Nucala.
+
+Comprehensive instructions for subcutaneous administration of Nucala in a pre-filled pen or pre-filled syringe(s) are provided at the end of the package leaflet.
+
+Disposal
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 D24 YK11 Ireland
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+Nucala 100 mg solution for injection in pre-filled pen
+
+EU/1/15/1043/003 1 pre-filled pen EU/1/15/1043/004 3 (3 x 1) pre-filled pens (multipack) EU/1/15/1043/007 9 (9 x 1) pre-filled pens (multipack)
+
+<div style=\"page-break-after: always\"></div>
+
+## Nucala 100 mg solution for injection in pre-filled syringe
+
+EU/1/15/1043/005 1 pre-filled syringe EU/1/15/1043/006 3 (3 x 1) pre-filled syringes (multipack) EU/1/15/1043/008 9 (9 x 1) pre-filled syringes (multipack)
+
+Nucala 40 mg solution for injection in pre-filled syringe
+
+EU/1/15/1043/009 1 pre-filled syringe EU/1/15/1043/010 3 (3 x 1) pre-filled syringes (multipack)
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 02 December 2015
+
+Date of latest renewal: 10 August 2020
+
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Nucala 100 mg powder for solution for injection
+
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+Each vial contains 100 mg mepolizumab. After reconstitution, each mL of solution contains 100 mg mepolizumab.
+
+Mepolizumab is a humanised monoclonal antibody produced in Chinese hamster ovary cells by recombinant DNA technology.
+
+## Excipient with known effect
+
+Each 1 mL dose (after reconstitution) contains 0.74 mg polysorbate 80
+
+For the full list of excipients, see section 6.1.
+
+## 3. PHARMACEUTICAL FORM
+
+Powder for solution for injection
+
+Lyophilised white powder.
+
+## 4. CLINICAL PARTICULARS
+
+## 4.1 Therapeutic indications
+
+Severe eosinophilic asthma
+
+Nucala is indicated as an add-on treatment for severe refractory eosinophilic asthma in adults, adolescents and children aged 6 years and older (see section 5.1).
+
+Chronic rhinosinusitis with nasal polyps (CRSwNP)
+
+Nucala is indicated as an add-on therapy with intranasal corticosteroids for the treatment of adult patients with severe CRSwNP for whom therapy with systemic corticosteroids and/or surgery do not provide adequate control.
+
+## Chronic obstructive pulmonary disease (COPD)
+
+Nucala is indicated in adults as an add-on maintenance treatment for uncontrolled chronic obstructive pulmonary disease (COPD) characterised by raised blood eosinophils on a combination of an inhaled corticosteroid (ICS), a long-acting beta2-agonist (LABA), and a long-acting muscarinic antagonist (LAMA) (see section 5.1).
+
+Eosinophilic granulomatosis with polyangiitis (EGPA)
+
+Nucala is indicated as an add-on treatment for patients aged 6 years and older with relapsing-remitting or refractory eosinophilic granulomatosis with polyangiitis (EGPA).
+
+<div style=\"page-break-after: always\"></div>
+
+## Hypereosinophilic syndrome (HES)
+
+Nucala is indicated as an add-on treatment for adult patients with inadequately controlled hypereosinophilic syndrome without an identifiable non-haematologic secondary cause (see section 5.1).
+
+## 4.2 Posology and method of administration
+
+It is recommended that Nucala is prescribed by physicians experienced in the diagnosis and treatment of severe refractory eosinophilic asthma, CRSwNP, COPD, EGPA or HES.
+
+## Posology
+
+## Severe eosinophilic asthma
+
+Adults and adolescents aged 12 years and older
+
+The recommended dose of mepolizumab is 100 mg administered subcutaneously once every 4 weeks.
+
+## Children aged 6 to 11 years old
+
+The recommended dose of mepolizumab is 40 mg administered subcutaneously once every 4 weeks.
+
+Nucala is intended for long-term treatment. The need for continued therapy is to be considered at least on an annual basis as determined by physician assessment of the patient's disease severity and level of control of exacerbations.
+
+## CRSwNP
+
+## Adults
+
+The recommended dose of mepolizumab is 100 mg administered subcutaneously once every 4 weeks.
+
+Nucala is intended for long-term treatment. Consideration can be given to alternative treatments in patients who have shown no response after 24 weeks of treatment for CRSwNP. Some patients with initial partial response may subsequently improve with continued treatment beyond 24 weeks.
+
+## COPD
+
+## Adults
+
+The recommended dose of mepolizumab is 100 mg administered subcutaneously once every 4 weeks.
+
+Nucala is intended for long-term treatment. The need for continued therapy is to be considered at least on an annual basis as determined by physician assessment of the patient's disease severity and level of control of exacerbations.
+
+## EGPA
+
+Adults and adolescents aged 12 years and older
+
+The recommended dose of mepolizumab is 300 mg administered subcutaneously once every 4 weeks.
+
+<div style=\"page-break-after: always\"></div>
+
+The posology of mepolizumab in children and adolescents aged 6 to 17 years old with EGPA was supported by modelling and simulation data (see section 5.2).
+
+Children aged 6 to 11 years old weighing ≥ 40 kg
+
+The recommended dose of mepolizumab is 200 mg administered subcutaneously once every 4 weeks.
+
+Children aged 6 to 11 years old weighing &lt; 40 kg
+
+The recommended dose of mepolizumab is 100 mg administered subcutaneously once every 4 weeks.
+
+Nucala is intended for long-term treatment. The need for continued therapy is to be reviewed at least on an annual basis as determined by physician assessment of the patient's disease severity and improvement of symptom control.
+
+Patients who develop life-threatening manifestations of EGPA must also be evaluated for the need for continued therapy, as Nucala has not been studied in this population.
+
+## HES
+
+## Adults
+
+The recommended dose of mepolizumab is 300 mg administered subcutaneously once every 4 weeks.
+
+Nucala is intended for long-term treatment. The need for continued therapy is to be reviewed at least on an annual basis as determined by physician assessment of the patient's disease severity and level of symptom control.
+
+Patients who develop life-threatening manifestations of HES must also be evaluated for the need for continued therapy, as Nucala has not been studied in this population.
+
+## Special populations
+
+## Elderly patients
+
+No dose adjustment is required for elderly patients aged ≥65 years old (see section 5.2).
+
+## Renal and hepatic impairment
+
+No dose adjustment is required in patients with renal or hepatic impairment (see section 5.2).
+
+## Paediatric population
+
+## Severe eosinophilic asthma
+
+## Children less than 6 years old
+
+The safety and efficacy of mepolizumab in children less than 6 years old have not yet been established.
+
+No data are available.
+
+## Children aged 6 to 17 years old
+
+The posology of mepolizumab in children and adolescents aged 6 to 17 years old with severe refractory eosinophilic asthma has been determined by limited efficacy, pharmacokinetic and pharmacodynamic studies and supported by modelling and simulation data (see sections 5.1 and 5.2).
+
+<div style=\"page-break-after: always\"></div>
+
+## CRSwNP in children less than 18 years old
+
+The safety and efficacy in children with CRSwNP below the age of 18 years have not been established. No data are available.
+
+## COPD in children less than 18 years old
+
+There is no relevant use of mepolizumab in the paediatric population (under 18 years of age) for the indication of COPD.
+
+## EGPA in children less than 6 years old
+
+The safety and efficacy of mepolizumab has not been established in children below the age of 6 years old.
+
+No data are available.
+
+## HES in children aged less than 18 years old
+
+The safety and efficacy of mepolizumab in children and adolescents aged less than 18 years old have not yet been established.
+
+Currently available data are described in sections 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
+
+## Method of administration
+
+Nucala is for subcutaneous injection only and must be administered by a healthcare professional. It may be injected into the upper arm, thigh, or abdomen.
+
+For doses which require more than one injection, it is recommended that each injection is administered at least 5 cm apart.
+
+The powder should be reconstituted prior to administration and the reconstituted solution should be used immediately. For instructions on the reconstitution of the medicinal product before administration, see section 6.6.
+
+Each vial of mepolizumab should be used for a single patient, and any remainder of the vial should be discarded.
+
+## 4.3 Contraindications
+
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+
+## 4.4 Special warnings and precautions for use
+
+## Traceability
+
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+## Asthma or COPD exacerbations
+
+Mepolizumab must not be used to treat acute asthma or COPD exacerbations.
+
+<div style=\"page-break-after: always\"></div>
+
+Asthma-related or COPD-related adverse symptoms or exacerbations may occur during treatment. Patients must be instructed to seek medical advice if their asthma or COPD remains uncontrolled or worsens after initiation of treatment.
+
+## Corticosteroids
+
+Abrupt discontinuation of corticosteroids after initiation of mepolizumab therapy is not recommended. Reduction in corticosteroid doses, if required, must be gradual and performed under the supervision of a physician.
+
+## Hypersensitivity and administration-related reactions
+
+Acute and delayed systemic reactions, including hypersensitivity reactions (e.g. anaphylaxis, urticaria, angioedema, rash, bronchospasm, hypotension), have occurred following administration of mepolizumab. These reactions generally occur within hours of administration, but in some instances have a delayed onset (i.e., typically within several days). These reactions may occur for the first time after a long duration of treatment (see section 4.8). In the event of a hypersensitivity reaction, appropriate treatment as clinically indicated must be initiated.
+
+## Parasitic infections
+
+Eosinophils may be involved in the immunological response to some helminth infections. Patients with pre-existing helminth infections should be treated before starting therapy. If patients become infected whilst receiving treatment with mepolizumab and do not respond to anti-helminth treatment, temporary discontinuation of therapy should be considered.
+
+## COPD patients with low blood eosinophil counts
+
+Data do not support the use of Nucala in patients with COPD with blood eosinophil count &lt;150 cells/mcL and no evidence of blood eosinophil count ≥ 300 cells/mcL in the previous 12 months.
+
+## Organ threatening or life-threatening EGPA
+
+Nucala has not been studied in patients with organ threatening or life-threatening manifestations of EGPA (see section 4.2).
+
+## Life-threatening HES
+
+Nucala has not been studied in patients with life-threatening manifestations of HES (see section 4.2).
+
+## Excipients
+
+This medicinal product contains polysorbate 80 (see section 2), which may cause allergic reactions.
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per 100 mg dose, that is to say essentially 'sodium-free'.
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
+
+## No interaction studies have been performed.
+
+Cytochrome P450 enzymes, efflux pumps and protein-binding mechanisms are not involved in the clearance of mepolizumab. Increased levels of pro-inflammatory cytokines (e.g. IL-6), via interaction with their cognate receptors on hepatocytes, have been shown to suppress the formation of CYP450
+
+<div style=\"page-break-after: always\"></div>
+
+enzymes and drug transporters, however, elevation of systemic pro-inflammatory markers in severe refractory eosinophilic asthma is minimal and there is no evidence of IL-5 receptor alpha expression on hepatocytes. The potential for interactions with mepolizumab is therefore considered low.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -286,6 +1345,10 @@ In a placebo-controlled study in patients with CRSwNP, the most commonly reporte
 
 <div style=\"page-break-after: always\"></div>
 
+## COPD
+
+In three placebo-controlled studies in patients with COPD, the most commonly reported adverse reactions during treatment were headache (10%), back pain (7%) and arthralgia (5%).
+
 ## EGPA
 
 In a placebo-controlled study in patients with EGPA, the most commonly reported adverse reactions during treatment were headache (32%), injection site reactions (15%) and back pain (13%). Systemic allergic/hypersensitivity reactions were reported by 4% of EGPA patients.
@@ -296,30 +1359,43 @@ In a placebo-controlled study in patients with HES, the most commonly reported a
 
 ## Tabulated list of adverse reactions
 
-The table below presents the adverse reactions from placebo-controlled severe eosinophilic asthma studies from patients receiving mepolizumab 100 mg subcutaneously (SC) (n=263), from a randomised, double-blind placebo-controlled 52-week study in patients with CRSwNP receiving mepolizumab 100 mg SC (n=206), in patients with EGPA receiving mepolizumab 300 mg SC (n=68), in a double-blind placebo-controlled 32-week study in patients with HES receiving mepolizumab 300 mg SC (n= 54), and from spontaneous post-marketing reports. Safety data is also available from open-label extension studies in severe refractory eosinophilic asthma patients (n=998) treated for a median of 2.8 years (range 4 weeks to 4.5 years). The safety profile of mepolizumab in HES patients (n=102) enrolled in a 20-week open label extension study was similar to the safety profile of patients in the pivotal placebo-controlled study.
+The table below presents the adverse reactions from placebo-controlled severe eosinophilic asthma studies from patients receiving mepolizumab 100 mg subcutaneously (SC) (n= 263), from a randomised, double-blind placebo-controlled 52-week study in patients with CRSwNP receiving mepolizumab 100 mg SC (n=206), in three double-blind placebo-controlled 52- to 104-week studies in patients with COPD receiving mepolizumab 100 mg SC (n=1043), in patients with EGPA receiving mepolizumab 300 mg SC (n=68), in a double-blind placebo-controlled 32-week study in patients with HES receiving mepolizumab 300 mg SC (n= 54), and from spontaneous post-marketing reports. Safety data is also available from open-label extension studies in severe refractory eosinophilic asthma patients (n=998) treated for a median of 2.8 years (range 4 weeks to 4.5 years). The safety profile of mepolizumab in HES patients (n=102) enrolled in a 20-week open label extension study was similar to the safety profile of patients in the pivotal placebo-controlled study.
 
 The frequency of adverse reactions is defined using the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000); and not known (cannot be estimated from available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-| System Organ Class                                   | Adverse reactions                                                                                  | Frequency       |
-|------------------------------------------------------|----------------------------------------------------------------------------------------------------|-----------------|
-| Infections and infestations                          | Lower respiratory tract infection Urinary tract infection Pharyngitis Herpes zoster**              | Common Uncommon |
-| Immune system disorders                              | Hypersensitivity reactions (systemic allergic)* Anaphylaxis**                                      | Common Rare     |
-| Nervous system disorders                             | Headache                                                                                           | Very common     |
-| Respiratory, thoracic and mediastinal disorders      | Nasal congestion                                                                                   | Common          |
-| Gastrointestinal disorders                           | Abdominal pain upper                                                                               | Common          |
-| Skin and subcutaneous tissue disorders               | Eczema                                                                                             | Common          |
-| Musculoskeletal and connective tissue disorders      | Back pain Arthralgia**                                                                             | Common          |
-| General disorders and administration site conditions | Administration-related reactions (systemic non allergic)*** Local injection site reactions Pyrexia | Common          |
+| System Organ Class                                   | Adverse reactions                                                                     | Frequency   |
+|------------------------------------------------------|---------------------------------------------------------------------------------------|-------------|
+| Infections and infestations                          | Lower respiratory tract infection Urinary tract infection Pharyngitis Herpes zoster** | Common      |
+| Immune system disorders                              | Hypersensitivity reactions (systemic allergic)* Anaphylaxis**                         | Common Rare |
+| Nervous system disorders                             | Headache                                                                              | Very common |
+| Respiratory, thoracic and mediastinal disorders      | Nasal congestion                                                                      | Common      |
+| Gastrointestinal disorders                           | Abdominal pain upper                                                                  | Common      |
+| Skin and subcutaneous tissue disorders               | Eczema                                                                                | Common      |
+| Musculoskeletal and connective tissue disorders      | Back pain Arthralgia**                                                                | Common      |
+| General disorders and administration site conditions | Administration-related reactions (systemic non allergic)***                           | Common      |
 
 <div style=\"page-break-after: always\"></div>
 
-*** The most common manifestations associated with reports of systemic non-allergic administrationrelated reactions from patients in the severe eosinophilic asthma studies were rash, flushing and myalgia; these manifestations were reported infrequently and in &lt;1% of patients receiving mepolizumab 100 mg subcutaneously.
+| System Organ Class   | Adverse reactions                      | Frequency   |
+|----------------------|----------------------------------------|-------------|
+|                      | Local injection site reactions Pyrexia |             |
+
+* Systemic reactions including hypersensitivity have been reported at an overall incidence comparable to that of placebo in the severe eosinophilic asthma and COPD studies. For examples of the associated manifestations reported and a description of the time to onset, see section 4.4.
+- **From spontaneous post marketing reporting. Herpes zoster was reported uncommonly in severe asthma studies.
+
+*** The most common manifestations associated with reports of systemic non-allergic administrationrelated reactions from patients in the severe eosinophilic asthma and COPD studies were rash, flushing, myalgia and fatigue ; these manifestations were reported infrequently and in &lt;1% of patients receiving mepolizumab 100 mg subcutaneously.
 
 ## Description of selected adverse reactions
 
 ## Systemic reactions, including hypersensitivity reactions, in CRSwNP
 
 In the 52-week placebo-controlled study, systemic allergic (type I hypersensitivity) reactions were reported in 2 patients (&lt;1%) in the group receiving mepolizumab 100 mg and in no patients in the placebo group. Other systemic reactions were reported by no patients in the group receiving mepolizumab 100 mg and in 1 patient (&lt;1%) in the placebo group.
+
+## Systemic reactions, including hypersensitivity reactions, in COPD
+
+In the 52- to 104-week placebo-controlled study, systemic allergic (type I hypersensitivity) reactions were reported in 1 patient (&lt;1%) in the group receiving mepolizumab 100 mg and in no patients in the placebo group. Other systemic reactions were reported by 4 patients (&lt;1%) in the group receiving mepolizumab 100 mg and in 4 patients (&lt;1%) in the placebo group.
+
+In the two 52-week placebo-controlled studies, systemic allergic/hypersensitivity reactions were reported in 4 patients (&lt;1%) in the groups receiving mepolizumab 100 mg and in 3 patients (&lt;1%) in the placebo groups. Systemic non-allergic reactions were reported by 7 patients (1%) in the groups receiving mepolizumab 100 mg and in 10 patients (2%) in the placebo groups.
 
 ## Systemic reactions, including hypersensitivity reactions, in EGPA
 
@@ -328,6 +1404,8 @@ In the 52-week placebo-controlled study the percentage of patients who experienc
 ## Systemic reactions, including hypersensitivity reactions, in HES
 
 In the 32-week placebo-controlled study, 1 patient (2%) reported a systemic (other) reaction in the group receiving 300 mg of mepolizumab (multifocal skin reaction) and no patients in the placebo group.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Local injection site reactions
 
@@ -339,6 +1417,10 @@ In placebo-controlled studies the incidence of local injection site reactions wi
 
 In the placebo-controlled study, local injection site reactions (e.g., erythema, pruritus) occurred in 2% of patients receiving mepolizumab 100 mg compared with &lt;1% in patients receiving placebo.
 
+## COPD
+
+In the placebo-controlled studies, local injection site reactions occurred in 2% of patients receiving mepolizumab 100 mg compared with 2% in patients receiving placebo. The most common manifestations reported were pain, swelling, itching and erythema.
+
 ## EGPA
 
 In the placebo-controlled study, local injection site reactions (e.g., pain, erythema, swelling) occurred at a rate of 15% in patients receiving mepolizumab 300 mg compared with 13% in patients receiving placebo.
@@ -347,17 +1429,19 @@ In the placebo-controlled study, local injection site reactions (e.g., pain, ery
 
 In the placebo-controlled study, local injection site reactions (e.g., burning, itching) occurred at a rate of 7% in patients receiving mepolizumab 300 mg compared with 4% in patients receiving placebo.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Paediatric population
 
 ## Severe eosinophilic asthma
 
 Thirty-seven adolescents (aged 12-17) were enrolled in four placebo-controlled studies (25 mepolizumab treated intravenously or subcutaneously) of 24 to 52 weeks duration. Thirty -six paediatric patients (aged 6-11) received mepolizumab subcutaneously in an open-label study for 12 weeks. After a treatment interruption of 8 weeks, 30 of these patients, received mepolizumab for a further 52 weeks. The safety profile was similar to that seen in adults. No additional adverse reactions were identified.
 
+In addition, the long-term safety of mepolizumab was assessed in 9 adolescent patients (aged 12-17) and 15 paediatric patients (aged 6-11) who were enrolled in an open-label extension study (201956). In this study, patients received mepolizumab subcutaneously for an average of 21.5 months. No additional adverse reactions were identified.
+
 ## HES
 
 Four adolescents aged 12 to 17 years were enrolled in the placebo-controlled study 200622, one adolescent received 300 mg of mepolizumab, and 3 adolescents received placebo for 32 weeks. All 4 adolescents continued into a 20-week open-label extension study 205203 (see Section 5.1).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
@@ -367,7 +1451,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Single doses of up to 1 500 mg were administered intravenously in a clinical trial to patients with eosinophilic disease without evidence of dose-related toxicities.
 
-There is no specific treatment for an overdose with mepolizumab. If overdose occurs, the patient should be treated supportively with appropriate monitoring as necessary.
+There is no specific treatment for an overdose with mepolizumab. If overdose occurs, it is recommended that the patient be treated supportively with appropriate monitoring as necessary.
 
 Further management should be as clinically indicated or as recommended by the national poisons centre, where available.
 
@@ -379,17 +1463,21 @@ Pharmacotherapeutic group: Drugs for obstructive airway diseases, other systemic
 
 ## Mechanism of action
 
-Mepolizumab is a humanised monoclonal antibody (IgG1, kappa), which targets human interleukin-5 (IL-5) with high affinity and specificity. IL-5 is the major cytokine responsible for the growth and differentiation, recruitment, activation and survival of eosinophils. Mepolizumab inhibits the bioactivity of IL-5 with nanomolar potency by blocking the binding of IL-5 to the alpha chain of the IL-5 receptor complex expressed on the eosinophil cell surface, thereby inhibiting IL-5 signalling and reducing the production and survival of eosinophils.
-
-<div style=\"page-break-after: always\"></div>
+Mepolizumab is an IL-5 antagonist (IgG1 kappa) that binds to IL-5, inhibiting its bioactivity with nanomolar potency by blocking its binding to the IL-5R alpha complex on the cell surface. IL-5 is the major cytokine responsible for the growth and differentiation, recruitment, activation and survival of eosinophils. In patients where their disease is driven by type 2 inflammation, IL-5 is an important component of the processes driving the pathogenesis of asthma, CRSwNP, COPD, EGPA and HES. Additional structural and inflammatory cell types also express the IL-5R alpha e.g., epithelial cells, mast cells, plasma cells, basophils, ILC-2 cells, T cells, smooth muscle cells, neutrophils and fibroblasts. In severe asthma and CRSwNP, inhibition of IL-5 has been associated with an improvement in aspects of airway remodelling. However, the mechanism of action in these cells and across the different diseases has not been definitively established.
 
 ## Pharmacodynamic effects
 
 ## Severe eosinophilic asthma
 
-In patients with severe refractory eosinophilic asthma (adults/adolescents), following a dose of 100 mg administered subcutaneously every 4 weeks for 32 weeks, blood eosinophils were reduced from a geometric mean count at baseline of 290 to 40 cells/μL at week 32 (n=182), a reduction of 84% compared to placebo. This magnitude of blood eosinophils reduction was maintained in severe refractory eosinophilic asthma patients (n=998) treated for a median of 2.8 years (range 4 weeks to 4.5 years) in open-label extension studies .
+In patients with severe refractory eosinophilic asthma (adults/adolescents), following a dose of 100 mg administered subcutaneously every 4 weeks for 32 weeks, blood eosinophils were reduced from a geometric mean count at baseline of 290 to 40 cells/µL at week 32 (n=182), a reduction of 84% compared to placebo.
 
-In children aged 6 to 11 years old with severe refractory eosinophilic asthma administered mepolizumab subcutaneously every 4 weeks for 52 weeks, blood eosinophils were reduced from a geometric mean count at baseline to week 52 of 306 (n=16) to 48 (n=15) following 40 mg (for a weight &lt; 40kg) and 331 to 44 cells/µL (n=10) following 100 mg (for a weight ≥ 40 kg), a reduction from baseline of 85% and 87%, respectively.
+This magnitude of blood eosinophils reduction was maintained in severe refractory eosinophilic asthma patients (n=998) treated for a median of 2.8 years (range 4 weeks to 4.5 years) in open-label extension studies.
+
+In children aged 6 to 11 years old with severe refractory eosinophilic asthma administered mepolizumab subcutaneously every 4 weeks for 52 weeks, blood eosinophils were reduced from a geometric mean count at baseline to week 52 of 306 (n=16) to 48 (n=15) following 40 mg (for a
+
+<div style=\"page-break-after: always\"></div>
+
+weight &lt; 40kg) and 331 to 44 cells/µL (n=10) following 100 mg (for a weight ≥ 40 kg), a reduction from baseline of 85% and 87%, respectively.
 
 In adults, adolescents and children, this magnitude of reduction was observed within 4 weeks of treatment.
 
@@ -397,29 +1485,27 @@ In adults, adolescents and children, this magnitude of reduction was observed wi
 
 In patients with CRSwNP, following a 100 mg dose of mepolizumab administered subcutaneously every 4 weeks for 52 weeks, blood eosinophils were reduced from a geometric mean count at baseline to week 52 of 390 (n=206) to 60 cells/µL (n=126), which corresponds to a geometric mean reduction of 83% compared to placebo. This magnitude of reduction was observed within 4 weeks of treatment and was maintained throughout the treatment period of 52 weeks.
 
+## COPD
+
+In patients with COPD, following a 100 mg dose of mepolizumab administered subcutaneously every 4 weeks for 52 (and up to 104) weeks, blood eosinophils were reduced from a geometric mean count at baseline of 480 (n=403) to 60 cells/µL at week 52 (n=257) and week 104 (n=61), which corresponds to a geometric mean reduction of 79% at week 52 and 80% at week 104 compared to placebo. This magnitude of reduction was observed within 4 weeks of treatment.
+
 ## EGPA
 
 In patients with EGPA, following a 300 mg dose of mepolizumab administered subcutaneously every 4 weeks for 52 weeks, blood eosinophils were reduced from a geometric mean count at baseline of 177 (n=68) to 38 cells/µL (n=64) at week 52. There was a geometric mean reduction of 83% compared to placebo and this magnitude of reduction was observed within 4 weeks of treatment.
 
 ## HES
 
-In patients with HES (adults/adolescents), following a 300 mg dose of mepolizumab administered subcutaneously every 4 weeks for 32 weeks, blood eosinophil reduction was observed within 2 weeks of treatment.  At week 32, blood eosinophils were reduced from a geometric mean count at baseline of 1 460 (n=54) to 70 cells/µL (n=48) and a geometric mean reduction of 92% compared to placebo was observed. This magnitude of reduction was maintained for a further 20 weeks in patients that continued mepolizumab treatment in the open-label extension study.
+In patients with HES (adults/adolescents), following a 300 mg dose of mepolizumab administered subcutaneously every 4 weeks for 32 weeks, blood eosinophil reduction was observed within 2 weeks of treatment. At week 32, blood eosinophils were reduced from a geometric mean count at baseline of 1 460 (n=54) to 70 cells/µL (n=48) and a geometric mean reduction of 92% compared to placebo was observed. This magnitude of reduction was maintained for a further 20 weeks in patients that continued mepolizumab treatment in the open-label extension study.
 
 ## Immunogenicity
 
-## Severe eosinophilic asthma, CRSwNP, EGPA and HES
+## Severe eosinophilic asthma, CRSwNP, COPD, EGPA and HES
 
-Consistent with the potentially immunogenic properties of protein and peptide therapeutics, patients may develop antibodies to mepolizumab following treatment. In the placebo-controlled trials, 15/260 (6%) of adults and adolescents with severe refractory eosinophilic asthma treated with 100 mg dose, 6/196 (3%) of adults with CRSwNP treated with 100 mg dose, 1/68 (&lt;2%) of adults with EGPA treated with 300 mg dose and 1/53 (2%) of adults and adolescents with HES treated with 300 mg dose of mepolizumab subcutaneously had detectable anti-mepolizumab antibodies after having received at least one dose of mepolizumab.
-
-The immunogenicity profile of mepolizumab in severe refractory eosinophilic asthma patients (n=998) treated for a median of 2.8 years (range 4 weeks to 4.5 years) or in HES patients (n=102)
+Consistent with the potentially immunogenic properties of protein and peptide therapeutics, patients may develop antibodies to mepolizumab following treatment. In the placebo-controlled trials, 15/260 (6%) of adults and adolescents with severe refractory eosinophilic asthma treated with 100 mg dose, 6/196 (3%) of adults with CRSwNP treated with 100 mg dose, 9/381 (2%) of adults with COPD treated with 100 mg dose, 1/68 (&lt;2%) of adults with EGPA treated with 300 mg dose and 1/53 (2%) of adults and adolescents with HES treated with 300 mg dose of mepolizumab subcutaneously had detectable anti-mepolizumab antibodies after having received at least one dose of mepolizumab. The immunogenicity profile of mepolizumab in severe refractory eosinophilic asthma patients (n=998) treated for a median of 2.8 years (range 4 weeks to 4.5 years) or in HES patients (n=102) treated for 20 weeks in open-label extension studies was similar to that observed in the placebocontrolled studies. The immunogenicity data were collected in patients with CRSwNP for 68 weeks (n=68), in patients with COPD for 104 weeks (n=127) and in patients with EGPA for 60 weeks (n=65).
 
 <div style=\"page-break-after: always\"></div>
 
-treated for 20 weeks in open-label extension studies was similar to that observed in the placebocontrolled studies.
-
-In children aged 6 to 11 years old with severe refractory eosinophilic asthma following either 40 mg subcutaneously (for a weight &lt; 40kg) or 100 mg subcutaneously (for a weight ≥ 40 kg), 2/35 (6%) had detectable anti-mepolizumab antibodies after having received at least one dose of mepolizumab during the initial short phase of the study. No children had detectable anti-mepolizumab antibodies during the long-term phase of the study.
-
-Neutralising antibodies were detected in one adult patient with severe refractory eosinophilic asthma and in no patients with CRSwNP, EGPA or HES. Anti-mepolizumab antibodies did not discernibly impact the pharmacokinetics and pharmacodynamics of mepolizumab in the majority of patients and there was no evidence of a correlation between antibody titres and change in blood eosinophil level.
+In children aged 6 to 11 years old with severe refractory eosinophilic asthma following either 40 mg subcutaneously (for a weight &lt; 40kg) or 100 mg subcutaneously (for a weight ≥ 40 kg), 2/35 (6%) had detectable anti-mepolizumab antibodies after having received at least one dose of mepolizumab during the initial short phase of the study. No children had detectable anti-mepolizumab antibodies during the long-term phase of the study. Neutralising antibodies were detected in one adult patient with severe refractory eosinophilic asthma and in no patients with CRSwNP, COPD, EGPA or HES. Anti-mepolizumab antibodies did not discernibly impact the pharmacokinetics and pharmacodynamics of mepolizumab in the majority of patients and there was no evidence of a correlation between antibody titres and change in blood eosinophil level.
 
 ## Clinical efficacy
 
@@ -427,9 +1513,9 @@ Neutralising antibodies were detected in one adult patient with severe refractor
 
 The efficacy of mepolizumab in the treatment of a targeted group of patients with severe refractory eosinophilic asthma was evaluated in 3 randomised, double-blind, parallel-group clinical studies of between 24-52 weeks duration, in patients aged 12 years and older. These patients either remained uncontrolled (at least two severe exacerbations in the previous 12 months) on their current standard of care, including at least high doses of inhaled corticosteroids (ICS) plus an additional maintenance treatment(s), or were dependent on systemic corticosteroids. Additional maintenance treatments included long-acting beta2 -adrenergic agonists (LABA), leukotriene modifiers, long-acting muscarinic antagonists (LAMA), theophylline, and oral corticosteroids (OCS).
 
-The two exacerbations studies MEA112997 and MEA115588 enrolled a total of 1 192 patients, 60% females, with a mean age of 49 years (range 12 -82). The proportion of patients on maintenance OCS was 31% and 24%, respectively. Patients were required to have a history of two or more severe asthma exacerbations requiring oral or systemic corticosteroid treatment in the past 12 months and reduced lung function at baseline (pre-bronchodilator FEV1&lt;80% in adults and &lt;90% in adolescents). The mean number of exacerbations in the previous year was 3.6 and the mean predicted prebronchodilator FEV1 was 60%. Patients continued to receive their existing asthma medicinal product during the studies .
+The two exacerbations studies MEA112997 and MEA115588 enrolled a total of 1 192 patients, 60% females, with a mean age of 49 years (range 12- 82). The proportion of patients on maintenance OCS was 31% and 24%, respectively. Patients were required to have a history of two or more severe asthma exacerbations requiring oral or systemic corticosteroid treatment in the past 12 months and reduced lung function at baseline (pre-bronchodilator FEV1&lt;80% in adults and &lt;90% in adolescents). The mean number of exacerbations in the previous year was 3.6 and the mean predicted prebronchodilator FEV1 was 60%. Patients continued to receive their existing asthma medicinal product during the studies .
 
-For the oral corticosteroid-sparing study MEA115575, a total of 135 patients were enrolled (55% were female; mean age of 50 years) who were being treated daily with OCS (5-35 mg per day), and high-dose ICS plus an additional maintenance medicinal product.
+For the oral corticosteroid-sparing study MEA115575, a total of 135 patients were enrolled (55% were female; mean age of 50 years ) who were being treated daily with OCS (5-35 mg per day), and high-dose ICS plus an additional maintenance medicinal product.
 
 ## Dose-ranging efficacy MEA112997 (DREAM) study
 
@@ -470,13 +1556,13 @@ Table 2: Results of primary and secondary endpoints at week 32 in the intent to 
 | Frequency of exacerbations requiring hospitalisation                        | Frequency of exacerbations requiring hospitalisation                        | Frequency of exacerbations requiring hospitalisation                        |
 | Exacerbations rate per year                                                 | 0.03                                                                        | 0.10                                                                        |
 | Percent reduction Rate ratio (95% CI)                                       | 69% 0.31 (0.11, 0.91)                                                       | _                                                                           |
-| p-value                                                                     | 0.034                                                                       |                                                                             |
 
 <div style=\"page-break-after: always\"></div>
 
 |                                                          | Mepolizumab 100 mg (subcutaneous) N= 194                 | Placebo N= 191                                           |
 |----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
-| Pre-bronchodilator FEV 1 (mL) at week 32                 | Pre-bronchodilator FEV 1 (mL) at week 32                 | Pre-bronchodilator FEV 1 (mL) at week 32                 |
+| p-value                                                  | 0.034                                                    |                                                          |
+| Pre-bronchodilator FEV 1 (mL) at week 32                 | Pre-bronchodilator FEV 1 (mL) at week 32                 |                                                          |
 | Baseline (SD)                                            | 1 730 (659)                                              | 1 860 (631)                                              |
 | Mean change from baseline (SE)                           | 183 (31)                                                 | 86 (31)                                                  |
 | Difference (mepolizumab vs. placebo)                     | 98                                                       |                                                          |
@@ -498,22 +1584,22 @@ Table 3: Combined analysis of the rate of clinically significant exacerbations b
 |                            | Mepolizumab 75 mg IV/100 mg SC N=538   | Placebo N=346   |
 |----------------------------|----------------------------------------|-----------------|
 | MEA112997+MEA115588        |                                        |                 |
-| <150 cells/  L            |                                        |                 |
+| <150 cells/ µ L            |                                        |                 |
 | n                          | 123                                    | 66              |
 | Exacerbation rate per year | 1.16                                   | 1.73            |
 | Mepolizumab vs. placebo    |                                        |                 |
 | Rate ratio (95% CI)        | 0.67 (0.46,0.98)                       | ---             |
-| 150 to <300 cells/  L     |                                        |                 |
+| 150 to <300 cells/ µ L     |                                        |                 |
 | n                          | 139                                    | 86              |
 | Exacerbation rate per year | 1.01                                   | 1.41            |
 | Mepolizumab vs. placebo    |                                        |                 |
 | Rate ratio (95% CI)        | 0.72 (0.47,1.10)                       | ---             |
-| 300 to <500 cells/  L     |                                        |                 |
+| 300 to <500 cells/ µ L     |                                        |                 |
 | n                          | 109                                    | 76              |
 | Exacerbation rate per year | 1.02                                   | 1.64            |
 | Mepolizumab vs. placebo    |                                        |                 |
 | Rate ratio (95% CI)        | 0.62 (0.41,0.93)                       | ---             |
-|  500 cells/  L           |                                        |                 |
+| ≥ 500 cells/ µ L           |                                        |                 |
 | n                          | 162                                    | 116             |
 | Exacerbation rate per year | 0.67                                   | 2.49            |
 | Mepolizumab vs. placebo    |                                        |                 |
@@ -523,7 +1609,7 @@ Table 3: Combined analysis of the rate of clinically significant exacerbations b
 
 ## Oral corticosteroid reduction study MEA115575 (SIRIUS)
 
-MEA115575 evaluated the effect of mepolizumab 100 mg administered subcutaneously on reducing the requirement for maintenance oral corticosteroids (OCS) while maintaining asthma control in subjects with severe refractory eosinophilic asthma. Patients had a blood eosinophil count of  150/  L at baseline or a blood eosinophil count of  300/  L in the 12 months prior to screening. Patients were administered mepolizumab or placebo treatment once every 4 weeks over the treatment period. Patients continued to receive their existing asthma medicinal product during the study with the exception of their OCS dose which was reduced every 4 weeks during the OCS reduction phase (Weeks 4-20), as long as asthma control was maintained.
+MEA115575 evaluated the effect of mepolizumab 100 mg administered subcutaneously on reducing the requirement for maintenance oral corticosteroids (OCS) while maintaining asthma control in subjects with severe refractory eosinophilic asthma. Patients had a blood eosinophil count of ≥ 150/ µ L at baseline or a blood eosinophil count of ≥ 300/ µ L in the 12 months prior to screening. Patients were administered mepolizumab or placebo treatment once every 4 weeks over the treatment period. Patients continued to receive their existing asthma medicinal product during the study with the exception of their OCS dose which was reduced every 4 weeks during the OCS reduction phase (Weeks 4 -20), as long as asthma control was maintained.
 
 A total of 135 patients were enrolled: mean age was 50 years, 55% were female, and 48% had been receiving oral steroid therapy for at least 5 years. The baseline mean prednisone equivalent dose was approximately 13 mg per day.
 
@@ -536,7 +1622,7 @@ Table 4: Results of the primary and secondary endpoints in MEA115575
 |                                                                                                                  | Mepolizumab 100 mg (subcutaneous) N= 69              | Placebo N= 66                                        |
 | Primary endpoint                                                                                                 |                                                      |                                                      |
 | Percent reduction in OCS from baseline (weeks 20-24)                                                             | Percent reduction in OCS from baseline (weeks 20-24) | Percent reduction in OCS from baseline (weeks 20-24) |
-| 90% - 100% 75% - <90% 50% - <75% >0% - <50% No decrease in OCS/lack of asthma control/ withdrawal from treatment | 16 (23%) 12 (17%) 9 (13%) 7 (10%) 25 (36%)           | 7(11%) 5 (8%) 10 (15%) 7 (11%) 37 (56%)              |
+| 90% - 100% 75% - <90% 50% - <75% >0% - <50% No decrease in OCS/lack of asthma control/ withdrawal from treatment | 16 (23%) 12 (17%) 9 (13%) 7 (10%) 25 (36%)           | 7 (11%) 5 (8%) 10 (15%) 7 (11%) 37 (56%)             |
 | Odds ratio (95% CI)                                                                                              | 2.39 (1.25, 4.56)                                    |                                                      |
 | p-value                                                                                                          | 0.008                                                |                                                      |
 | Secondary endpoints (weeks 20-24)                                                                                | Secondary endpoints (weeks 20-24)                    | Secondary endpoints (weeks 20-24)                    |
@@ -548,9 +1634,13 @@ Table 4: Results of the primary and secondary endpoints in MEA115575
 | p-value                                                                                                          | 0.025                                                |                                                      |
 | Median %reduction in daily OCS dose from baseline (95% CI)                                                       | 50.0 (20.0, 75.0)                                    | 0.0 (-20.0, 33.3)                                    |
 | Median difference (95% CI)                                                                                       | -30.0 (-66.7, 0.0)                                   |                                                      |
-| p-value                                                                                                          | 0.007                                                |                                                      |
 
 <div style=\"page-break-after: always\"></div>
+
+|         | ITT Population                          | ITT Population   |
+|---------|-----------------------------------------|------------------|
+|         | Mepolizumab 100 mg (subcutaneous) N= 69 | Placebo N= 66    |
+| p-value | 0.007                                   |                  |
 
 ## Open-label extension studies in severe refractory eosinophilic asthma MEA115666 (COLUMBA), MEA115661 (COSMOS) and 201312 (COSMEX)
 
@@ -560,7 +1650,7 @@ The long-term efficacy profile of mepolizumab in severe refractory eosinophilic 
 
 Study 205687 (SYNAPSE) was a 52-week, randomised, double-blind, placebo-controlled study which evaluated 407 patients aged 18 years and older with CRSwNP.
 
-Patients enrolled in the study were required to have a nasal obstruction VAS (Visual Analogue Scale) symptom score of &gt;5 out of a maximum score of 10, an overall VAS symptom score &gt;7 out of a maximum score of 10 and an endoscopic bilateral NP score of  5 out of a maximum score of 8 (with a minimum score of 2 in each nasal cavity). Patients must also have had a history of at least one prior surgery for nasal polyps in the previous 10 years.
+Patients enrolled in the study were required to have a nasal obstruction VAS (Visual Analogue Scale) symptom score of &gt;5 out of a maximum score of 10, an overall VAS symptom score &gt;7 out of a maximum score of 10 and an endoscopic bilateral NP score of ≥ 5 out of a maximum score of 8 (with a minimum score of 2 in each nasal cavity). Patients must also have had a history of at least one prior surgery for nasal polyps in the previous 10 years.
 
 Key baseline characteristics included total endoscopic NP score mean (SD) 5.5 (1.29), nasal obstruction VAS score mean (SD) 9.0 (0.83), overall VAS symptom score mean (SD) 9.1 (0.74), loss of smell VAS score mean (SD) 9.7 (0.72) and Sino-Nasal Outcome Test (SNOT-22) mean (SD) 64.1 (18.32). The geometric mean eosinophil count was 390 cells/mcL (95% CI: 360, 420). In addition, 27% of patients had aspirin-exacerbated respiratory disease (AERD) and 48% of patients had at least 1 course of OCS for CRSwNP in the past 12 months.
 
@@ -572,26 +1662,24 @@ The co-primary endpoints were change from baseline in total endoscopic NP score 
 
 Table 5: Summary of results for primary and secondary endpoints (intent to treat population)
 
-|                                                                                                                                          | Placebo (N=201)                   | Mepolizumab 100 mg SC (N=206)                                 |
-|------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|---------------------------------------------------------------|
-| Co-primary endpoints                                                                                                                     |                                   |                                                               |
-| Total endoscopic score at week 52 a                                                                                                      |                                   |                                                               |
-| Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c ≥1 -point improvement, n (%)  | 6.0 (0, 8) 0.0 57 (28)            | 5.0 (2, 8) -1.0 <0.001 -0.73 (-1.11, -0.34) 104 (50)          |
-| ≥2 -point improvement, n (%)                                                                                                             | 26 (13)                           | 74 (36)                                                       |
-| Nasal obstruction VAS score (weeks 49 to 52) a                                                                                           |                                   |                                                               |
-| Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c >1-point improvement, n (%)   | 9.14 (5.31, 10.00) -0.82 100 (50) | 9.01 (6.54, 10.00) -4.41 <0.001 -3.14 (-4.09, -2.18) 146 (71) |
-| Key secondary endpoint                                                                                                                   |                                   |                                                               |
-| Time to first nasal polyps surgery                                                                                                       |                                   |                                                               |
-| Participants with surgery                                                                                                                | 46 (23)                           | 18 (9)                                                        |
-| Hazard ratio (Mepolizumab/Placebo) (95% CI) e                                                                                            |                                   | 0.43 (0.25, 0.76)                                             |
-| p-value e                                                                                                                                |                                   | 0.003                                                         |
-| Other secondary endpoints                                                                                                                |                                   |                                                               |
-| Overall VAS score (Weeks 49-52) a                                                                                                        |                                   |                                                               |
-| Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c ≥2.5 -point improvement (%) f | 9.20 (7.21, 10.00) -0.90 40       | 9.12 (7.17, 10.00) -4.48 <0.001 -3.18 (-4.10, -2.26) 64       |
-| SNOT-22 total score at week 52 a, g                                                                                                      |                                   |                                                               |
-| n Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c                             | 198 64.0 (19, 110) -14.0          | 205 64.0 (17, 105) -30.0 <0.001 -16.49 (-23.57,               |
-| f                                                                                                                                        |                                   | -9.42)                                                        |
-| ≥ 28-point improvement (%)                                                                                                               | 32                                | 54                                                            |
+|                                                                                                                                           | Placebo (N=201)                   | Mepolizumab 100 mg SC (N=206)                                 |
+|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|---------------------------------------------------------------|
+| Co-primary endpoints                                                                                                                      |                                   |                                                               |
+| Total endoscopic score at week 52 a                                                                                                       |                                   |                                                               |
+| Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c ≥1 -point improvement, n (%)   | 6.0 (0, 8) 0.0 57 (28)            | 5.0 (2, 8) -1.0 <0.001 -0.73 (-1.11, -0.34) 104 (50)          |
+| ≥2 -point improvement, n (%)                                                                                                              | 26 (13)                           | 74 (36)                                                       |
+| Nasal obstruction VAS score (weeks 49 to 52) a                                                                                            |                                   |                                                               |
+| Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c >1-point improvement, n (%)    | 9.14 (5.31, 10.00) -0.82 100 (50) | 9.01 (6.54, 10.00) -4.41 <0.001 -3.14 (-4.09, -2.18) 146 (71) |
+| Key secondary endpoint                                                                                                                    |                                   |                                                               |
+| Time to first nasal polyps surgery                                                                                                        |                                   |                                                               |
+| Participants with surgery                                                                                                                 | 46 (23)                           | 18 (9)                                                        |
+| Hazard ratio (Mepolizumab/Placebo) (95% CI) e                                                                                             |                                   | 0.43 (0.25, 0.76)                                             |
+| p-value e                                                                                                                                 |                                   | 0.003                                                         |
+| Other secondary endpoints                                                                                                                 |                                   |                                                               |
+| Overall VAS score (Weeks 49-52) a                                                                                                         |                                   |                                                               |
+| Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c ≥2.5 -point improvement (%) f  | 9.20 (7.21, 10.00) -0.90 40       | 9.12 (7.17, 10.00) -4.48 <0.001 -3.18 (-4.10, -2.26) 64       |
+| SNOT-22 total score at week 52 a, g                                                                                                       |                                   |                                                               |
+| n Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c ≥ 28-point improvement (%) f | 198 64.0 (19, 110) -14.0 32       | 205 64.0 (17, 105) -30.0 <0.001 -16.49 (-23.57, -9.42) 54     |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -603,9 +1691,9 @@ Table 5: Summary of results for primary and secondary endpoints (intent to treat
 | Loss of smell VAS score (Weeks 49-52) a                                                                                                | Loss of smell VAS score (Weeks 49-52) a                                      | Loss of smell VAS score (Weeks 49-52) a                                      |
 | Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c ≥ 3-point improvement (%) f | 9.97 (6.69, 10.00) 0.00 19                                                   | 9.97 (0.94, 10.00) -0.53 <0.001 -0.37 (-0.65, -0.08) 36                      |
 
-a Patients with nasal surgery/sinuplasty prior to visit were assigned their worst observed score prior to nasal surgery/sinuplasty. Those who withdrew from study with no nasal surgery/sinuplasty were assigned their worst observed score prior to study withdrawal.
+a Patients with nasal surgery/sinuplasty prior to visit assigned their worst observed score prior to nasal surgery/sinuplasty. Those who withdrew from study with no nasal surgery/sinuplasty assigned their worst observed score prior to study withdrawal.
 
-b  Based on Wilcoxon rank-sum test.
+b Based on Wilcoxon rank -sum test.
 
 c Quantile regression with covariates of treatment group, geographic region, baseline score and log(e) baseline blood eosinophil count.
 
@@ -623,7 +1711,7 @@ i Composite VAS score of nasal obstruction, nasal discharge, mucus in the throat
 
 ## Time to first NP surgery
 
-Across the 52-week treatment period, patients in the mepolizumab group had a lower probability of undergoing NP surgery than patients in the placebo group. The risk of surgery over the treatment period was significantly lower by 57% for patients treated with mepolizumab compared with placebo (Hazard Ratio: 0.43; 95% CI 0.25, 0.76; p=0.003).
+Across the 52-week treatment period, patients in the mepolizumab group had a lower probability of undergoing NP surgery than patients in the placebo group. The risk of surgery over the treatment period was significantly lower by 57% for patients treated with mepolizumab compared with placebo ( Hazard Ratio: 0.43; 95% CI 0.25, 0.76; p=0.003) .
 
 <div style=\"page-break-after: always\"></div>
 
@@ -631,35 +1719,103 @@ Figure 1: Kaplan Meier Curve for Time to First Nasal Polyps Surgery
 
 <!-- image -->
 
-Time to Event (Weeks)
-
 A post-hoc analysis of the proportion of patients with surgery showed a 61% reduction in the odds of surgery versus placebo (OR: 0.39, 95% CI: 0.21, 0.72; p= 0.003).
 
 ## CRSwNP patients with co-morbid asthma
 
-In 289 (71%) patients with co-morbid asthma, pre-specified analyses showed improvements in the coprimary endpoints consistent with those seen in the overall population in the patients who received mepolizumab 100 mg compared with placebo. Additionally in these patients, there was a greater improvement from baseline at Week 52 in asthma control as measured by the Asthma Control Questionnaire (ACQ-5) for mepolizumab 100 mg compared with placebo (median change [Q1, Q3] of -0.80 [-2.20, 0.00] and 0.00 [-1.10, 0.20], respectively).
+In 289 (71%) patients with co-morbid asthma, pre-specified analyses showed improvements in the coprimary endpoints consistent with those seen in the overall population in the patients who received mepolizumab 100 mg compared with placebo. Additionally in these patients, there was a greater improveme nt from baseline at Week 52 in asthma control as measured by the Asthma Control Questionnaire (ACQ-5) for mepolizumab 100 mg compared with placebo (median change [Q1, Q3] of -0.80 [-2.20, 0.00] and 0.00 [-1.10, 0.20], respectively).
+
+## Chronic obstructive pulmonary disease (COPD)
+
+## Study 208657 (MATINEE)
+
+The efficacy of mepolizumab (100 mg SC every 4 weeks) added to standard of care was evaluated in 804 adult patients aged 40 years and older with COPD with an eosinophilic phenotype in a 52-104 week randomised, placebo-controlled, multicentre study (208657, MATINEE). Patients were required to have a blood eosinophil count (BEC) of ≥300 cells/mcL at screening and a BEC of ≥150 cells/mcL within the previous 12 months. All patients were on inhaled triple therapy (ICS, long-acting beta agonist, and long-acting anti-muscarinic) for the duration of the study. Enrolled patients had moderate to very severe airflow limitation (post-bronchodilator FEV1 of 20-80% predicted), no prior or concurrent history of asthma, and a history of exacerbations (at least 1 severe exacerbation requiring hospitalisation, or 2 moderate exacerbations requiring treatment with systemic corticosteroids with or without antibiotics) in the previous 12 months despite regular use of inhaled corticosteroids plus 2 additional maintenance therapies for at least 3 months prior to screening.
+
+<div style=\"page-break-after: always\"></div>
+
+The primary objective of the study was to evaluate the efficacy of mepolizumab on the annualised rate of moderate (defined as worsening of COPD symptoms requiring treatment with oral/systemic corticosteroids and/or antibiotics) or severe exacerbations (defined as requiring hospitalisation or resulting in death). Symptoms and health-related quality of life were assessed using a COPD Assessment Test (CAT) responder analysis (defined as a reduction in score of 2 or more from baseline); a responder analysis on the St. George's Respiratory Questionnaire (SGRQ) (defined as a reduction in score of 4 or more from baseline); and Evaluating Respiratory Symptoms in Chronic Obstructive Pulmonary Disease (E-RS: COPD) responder analysis (defined as a reduction in score of 2 or more from baseline).
+
+The demographics and baseline characteristics of the patients are provided in Table 6.
+
+Table 6: Demographics and baseline characteristics in MATINEE (mITT population)
+
+|                                                                        | (N=804)        |
+|------------------------------------------------------------------------|----------------|
+| Age (y) of patients, mean (SD)                                         | 66 (8.0)       |
+| Female, n (%)                                                          | 253 (31)       |
+| White, n (%)                                                           | 673 (84)       |
+| Current smokers, n (%)                                                 | 222 (28)       |
+| Average smoking history (pack-years), mean (SD)                        | 43.0 (24.88)   |
+| Duration of COPD (y), mean (SD)                                        | 10.0 (6.28)    |
+| mMRCscore ≥2 (range 0 -4), n (%)                                       | 611 (76)       |
+| Emphysema only a , n (%)                                               | 252 (31)       |
+| Chronic bronchitis only a , n (%)                                      | 338 (42)       |
+| Emphysema and chronic bronchitis a , n (%)                             | 143 (18)       |
+| Moderate airflow limitation: ≥50% to <80% predicted FEV 1 , n (%)      | 349 (43)       |
+| Severe airflow limitation: ≥30% to <50% predicted FEV 1 , n (%)        | 340 (42)       |
+| Very severe airflow limitation: <30% predicted FEV 1 , n (%)           | 110 (14)       |
+| Post-bronchodilator %predicted FEV 1, mean (SD)                        | 48.2 (15.77)   |
+| Post-bronchodilator FEV 1 /FVC ratio, mean (SD)                        | 0.49 (0.124)   |
+| Number of moderate or severe exacerbations in previous year, mean (SD) | 2.3 (0.94)     |
+| One or more severe exacerbation in previous year, n (%)                | 165 (21)       |
+| CAT score, mean (SD)                                                   | 19.2 (6.85)    |
+| SGRQ score, mean (SD)                                                  | 54.6 (17.80)   |
+| E-RS: COPD score, mean (SD)                                            | 13.05 (6.790)  |
+| Geometric mean eosinophil count at screening, cells/mcL (95% CI)       | 480 (470, 490) |
+
+mITT = modified Intent-to-Treat, SD = standard deviation, mMRC = modified Medical Research Council, FEV1 = forced expiratory volume in 1 second, FVC = forced vital capacity, CAT = COPD Assessment Test, SGRQ = St. George's Respiratory Questionnaire, E-RS: COPD = Evaluating Respiratory Symptoms in COPD a  COPD type based on Investigator assessment. 544 (68%) patients reported symptoms of chronic bronchitis based on SGRQ.
+
+## Exacerbations
+
+In patients who received mepolizumab 100 mg there was a statistically significant reduction in the annualised rate of moderate/severe exacerbations and lower risk of moderate/severe exacerbations compared with placebo, in addition there was a reduction in the annualised rate of severe exacerbations (see Table 7).
+
+<div style=\"page-break-after: always\"></div>
+
+Table 7: COPD exacerbation endpoints in MATINEE (mITT population)
+
+|                                                          | Mepolizumab 100 mg SC N=403                       | Placebo N=401                                     |
+|----------------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
+| Rate of moderate a or severe b exacerbations             | Rate of moderate a or severe b exacerbations      | Rate of moderate a or severe b exacerbations      |
+| Exacerbation rate per year                               | 0.80                                              | 1.01                                              |
+| Percent rate reduction Rate ratio vs. placebo (95% CI)   | 21% 0.79 (0.66, 0.94)                             | 21% 0.79 (0.66, 0.94)                             |
+| p-value                                                  | 0.011                                             | 0.011                                             |
+| Time to first moderate a or severe b exacerbation        | Time to first moderate a or severe b exacerbation | Time to first moderate a or severe b exacerbation |
+| Median time to first exacerbation c (days)               | 419                                               | 321                                               |
+| Percent risk reduction Hazard ratio vs. placebo (95% CI) | 23% 0.77 (0.64, 0.93)                             | 23% 0.77 (0.64, 0.93)                             |
+| p-value                                                  | 0.009                                             | 0.009                                             |
+| Rate of severe b exacerbations d                         | Rate of severe b exacerbations d                  | Rate of severe b exacerbations d                  |
+| Exacerbation rate per year                               | 0.10                                              | 0.15                                              |
+| Percent rate reduction Rate ratio vs. placebo (95% CI)   | 34% 0.66 (0.43, 1.01)                             | 34% 0.66 (0.43, 1.01)                             |
+
+## Lung function
+
+No direct effect on lung function (pre-bronchodilator FEV1) in patients who received mepolizumab 100 mg SC in comparison to placebo was observed at 52 weeks, with a mean change from baseline of 30.2 mL for mepolizumab and 35.6 mL for placebo (difference -5.4 mL; 95% CI: -56.2, 45.4).
+
+## Health-related quality of life assessments
+
+The results of symptoms and health-related quality of life endpoints (CAT, SGRQ and E-RS: COPD) were not statistically significant. The percentage of SGRQ responders (defined as a reduction in score of 4 or more from baseline) at Week 52 was 50% for mepolizumab 100 mg compared with 46% for placebo (Odds Ratio 1.17; 95% CI: 0.87, 1.57).
 
 ## Eosinophilic granulomatosis with polyangiitis (EGPA)
 
-MEA115921 was a randomised, double-blind, placebo-controlled, 52-week study which evaluated 136 adult patients with EGPA, who had a history of relapsing or refractory disease, and who were on stable oral corticosteroid therapy (OCS; ≥7.5 to  50 mg/day prednisolone/prednisone), with or without stable immunosuppressant therapy (excluding cyclophosphamide). Other background standard of care therapy was allowed during the study. Fifty-three percent (n=72) were also on concomitant stable immunosuppressant therapy. Patients with organ threatening or life-threatening EGPA were excluded from study MEA115921.
+MEA115921 was a randomised, double-blind, placebo-controlled, 52-week study which evaluated 136 adult patients with EGPA, who had a history of relapsing or refractory disease, and who were on stable oral corticosteroid therapy (OCS; ≥7.5 to ≤ 50 mg/day prednisolone/prednisone), with or without stable immunosuppressant therapy (excluding cyclophosphamide). Other background
+
+<div style=\"page-break-after: always\"></div>
+
+standard of care therapy was allowed during the study. Fifty-three percent (n=72) were also on concomitant stable immunosuppressant therapy. Patients with organ threatening or life- threatening EGPA were excluded from study MEA115921.
 
 Patients either received a 300 mg dose of mepolizumab or placebo administered subcutaneously once every 4 weeks in addition to their background prednisolone/prednisone with or without immunosuppressive therapy. The OCS dose was tapered at the discretion of the investigator.
 
 ## Remission
 
-The co- primary endpoints were the total accrued duration of remission, defined as a Birmingham Vasculitis Activity Score (BVAS) =0 plus prednisolone/prednisone dose ≤4 mg/day, and the
+The co- primary endpoints were the total accrued duration of remission, defined as a Birmingham Vasculitis Activity Score (BVAS) =0 plus prednisolone/prednisone dose ≤4 mg/day, and the proportion of patients in remission at both 36 and 48 weeks of treatment. BVAS=0 represents no active vasculitis.
 
-<div style=\"page-break-after: always\"></div>
-
-proportion of patients in remission at both 36 and 48 weeks of treatment. BVAS=0 represents no active vasculitis.
-
-Compared with placebo, patients receiving mepolizumab 300 mg achieved a significantly greater accrued time in remission. Additionally, compared to placebo, a significantly higher proportion of patients receiving mepolizumab 300 mg achieved remission at both Week 36 and Week 48 (Table 6).
+Compared with placebo, patients receiving mepolizumab 300 mg achieved a significantly greater accrued time in remission. Additionally, compared to placebo, a significantly higher proportion of patients receiving mepolizumab 300 mg achieved remission at both Week 36 and Week 48 (Table 8).
 
 For both co-primary endpoints, compared with placebo, the beneficial effect observed following mepolizumab 300 mg treatment was present irrespective of if patients were receiving immunosuppressant therapy in addition to background corticosteroids.
 
-Using the secondary endpoint remission definition of BVAS=0 plus prednisolone/prednisone ≤7.5 mg/day, patients receiving mepolizumab 300 mg also achieved significantly greater accrued time in remission (p&lt;0.001), and a higher proportion of patients were in remission at both Week 36 and Week 48 (p&lt;0.001), compared to placebo.
+Using the secondary endpoint remission definition of BVAS=0 plus prednisolone/prednisone ≤7.5 mg/day, patients receiving mepolizumab 300 mg also achieved significantly greater accrued time in remission (p&lt;0.001), and a higher proportion of patients were in remission at both Week 36 and Week 48 (p&lt;0.001), compared to placebo .
 
-Table 6:  Analyses of Co-Primary Endpoints
+Table 8: Analyses of Co-Primary Endpoints
 
 |                                                 | Number (%) of patients   | Number (%) of patients   |
 |-------------------------------------------------|--------------------------|--------------------------|
@@ -669,38 +1825,38 @@ Table 6:  Analyses of Co-Primary Endpoints
 | >0 to <12 weeks                                 | 8 (12)                   | 8 (12)                   |
 | 12 to <24 weeks                                 | 3 (4)                    | 9 (13)                   |
 | 24 to <36 weeks                                 | 0                        | 10 (15)                  |
-|  36 weeks                                      | 2 (3)                    | 9 (13)                   |
+| ≥ 36 weeks                                      | 2 (3)                    | 9 (13)                   |
 | Odds ratio (mepolizumab/placebo) 95% CI p-value | --- ---                  | 5.91 2.68, 13.03 <0.001  |
 | Patients in remission at Weeks 36 and 48        | 2 (3)                    | 22 (32)                  |
 | Odds ratio (mepolizumab/placebo) 95% CI p-value | --- ---                  | 16.74 3.61, 77.56 <0.001 |
 
-An odds ratio &gt;1 favours mepolizumab. Remission: BVAS=0 and OCS dose ≤ 4mg / day.
+An odds ratio &gt;1 favours Nucala. Remission: BVAS=0 and OCS dose ≤ 4mg / day.
 
 ## Relapse
 
 Compared with placebo, the time to first relapse was significantly longer for patients receiving mepolizumab 300 mg (p&lt;0.001). Additionally, patients receiving mepolizumab had a 50% reduction in annualised relapse rate compared with placebo: 1.14 vs 2.27, respectively.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Oral corticosteroid reduction
 
-Patients treated with mepolizumab had a significantly lower average daily OCS during Weeks 48-52 compared with patients who received placebo. During Weeks 48 to 52, 59% and 44% of patients treated with mepolizumab achieved an average daily OCS dose of  7.5 mg and  4 mg respectively compared with 33% and 7% in the placebo group. 18% of patients in the mepolizumab group were able to taper off OCS completely compared with 3% in the placebo group.
+Patients treated with mepolizumab had a significantly lower average daily OCS during Weeks 48 -52 compared with patients who received placebo. During Weeks 48 to 52, 59% and 44% of patients treated with mepolizumab achieved an average daily OCS dose of ≤ 7.5 mg and ≤ 4 mg respectively compared with 33% and 7% in the placebo group. 18% of patients in the mepolizumab group were able to taper off OCS completely compared with 3% in the placebo group.
 
-## Asthma Control Questionnaire -6 (ACQ-6)
+## Asthma Control Questionnaire - 6 (ACQ-6)
 
 Patients treated with mepolizumab had significant improvements in mean ACQ 6 score during Weeks 49-52 compared with patients who received placebo.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Hypereosinophilic syndrome (HES)
 
 Study 200622 was a randomised, double-blind, placebo-controlled, 32-week study which evaluated 108 patients ≥12 years old with HES. Patients received 300 mg of mepolizumab, or placebo administered subcutaneously once every 4 weeks while continuing their HES therapy. In study 200622, HES therapy included but was not limited to OCS, immunosuppressive, cytotoxic therapy or other symptomatic therapies associated with HES such as omeprazole.
 
-Patients entering the study had experienced at least two HES flares within the past 12 months and had a blood eosinophil count ≥1 000 cells/  L during screening. Patients who were FIP1L1PDGFRα kinase-positive were excluded from the study.
+Patients entering the study had experienced at least two HES flares within the past 12 months and had a blood eosinophil count ≥1000 cells/ µ L during screening. Patients who were FIP1L1PDGFRα kinase-positive were excluded from the study.
 
-The primary endpoint of study 200622 was the proportion of patients who experienced a HES flare during the 32-week treatment period. A HES flare was defined as worsening of clinical signs and symptoms of HES resulting in the need to increase OCS or increase/add cytotoxic or immunosuppressive HES therapy or receiving blinded active OCS due to increased blood eosinophils (on ≥2 occasions) .
+The primary endpoint of study 200622 was the proportion of patients who experienced a HES flare during the 32-week treatment period. A HES flare was defined as worsening of clinical signs and symptoms of HES resulting in the need to increase OCS or increase/add cytotoxic or immunosuppressive HES therapy or receiving blinded active OCS due to increased blood eosinophils (on ≥ 2 occasions) .
 
-The primary analysis compared patients who experienced a HES flare or withdrew from the study in the mepolizumab and placebo treatment groups. Over the 32-week treatment period, 50% fewer patients experienced a HES flare or withdrew from the study when treated with 300 mg mepolizumab compared with placebo; 28% versus 56% respectively (OR 0.28, 95% CI: 0.12, 0.64) (see Table 7). Secondary endpoints were time to first HES flare, proportion of patients who experienced a HES flare during Week 20 through Week 32, rate of HES flares and change from baseline in fatigue severity. All secondary endpoints were statistically significant and provided support for the primary endpoint (see Figure 2 and Table 8).
+The primary analysis compared patients who experienced a HES flare or withdrew from the study in the mepolizumab and placebo treatment groups. Over the 32-week treatment period, 50% fewer patients experienced a HES flare or withdrew from the study when treated with 300 mg mepolizumab compared with placebo; 28% versus 56% respectively (OR 0.28, 95% CI: 0.12, 0.64) (see Table 9). Secondary endpoints were time to first HES flare, proportion of patients who experienced a HES flare during Week 20 through Week 32, rate of HES flares and change from baseline in fatigue severity. All secondary endpoints were statistically significant and provided support for the primary endpoint (see Figure 2 and Table 10).
 
-Table 7: Results of primary endpoint/analysis in the Intent to Treat population (Study 200622)
+Table 9: Results of primary endpoint/analysis in the Intent to Treat population (Study 200622)
 
 |                                                           | Mepolizumab 300 mg N= 54                           | Placebo N= 54                                      |
 |-----------------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
@@ -713,17 +1869,17 @@ Table 7: Results of primary endpoint/analysis in the Intent to Treat population 
 
 CMH =Cochran-Mantel-Haenszel
 
+<div style=\"page-break-after: always\"></div>
+
 ## Time to first flare
 
-Patients who received 300 mg mepolizumab had a significant increase in the time to first HES flare compared with placebo. The risk of first HES flare over the treatment period was 66 % lower for patients treated with mepolizumab compared with placebo (Hazard Ratio: 0.34; 95 % CI 0.18, 0.67; p=0.002).
-
-<div style=\"page-break-after: always\"></div>
+Patients who received 300 mg mepolizumab had a significant increase in the time to first HES flare compared with placebo. The risk of first HES flare over the treatment period was 66 % lower for patients treated with Nucala compared with placebo (Hazard Ra tio: 0.34; 95 % CI 0.18, 0.67; p=0.002).
 
 Figure 2: Kaplan Meier Curve for Time to First HES Flare
 
 <!-- image -->
 
-Table 8: Results of other secondary endpoints in the Intent to Treat population (Study 200622)
+Table 10: Results of other secondary endpoints in the Intent to Treat population (Study 200622)
 
 |                                                                                                                                                   | Mepolizumab 300 mg N= 54                                                                                                                          | Placebo N= 54                                                                                                                                     |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -737,23 +1893,27 @@ Table 8: Results of other secondary endpoints in the Intent to Treat population 
 | Wilcoxon Rank Sum Test p-value                                                                                                                    | 0.002                                                                                                                                             | 0.002                                                                                                                                             |
 | Change from baseline in fatigue severity based on Brief Fatigue Inventory (BFI) Item 3 (worst level of fatigue during past 24 hours) at week 32 b | Change from baseline in fatigue severity based on Brief Fatigue Inventory (BFI) Item 3 (worst level of fatigue during past 24 hours) at week 32 b | Change from baseline in fatigue severity based on Brief Fatigue Inventory (BFI) Item 3 (worst level of fatigue during past 24 hours) at week 32 b |
 | Median change in BFI item 3                                                                                                                       | -0.66                                                                                                                                             | 0.32                                                                                                                                              |
-| Comparison (mepolizumab vs. placebo) Wilcoxon Rank Sum Test p-value                                                                               | 0.036                                                                                                                                             |                                                                                                                                                   |
 
 <div style=\"page-break-after: always\"></div>
+
+| Comparison (mepolizumab vs. placebo) Wilcoxon Rank Sum Test p-value   | 0.036   |
+|-----------------------------------------------------------------------|---------|
+
+CMH =Cochran-Mantel-Haenszel
 
 ## Open-label extension (OLE)
 
 Study 205203 was a 20-week open-label extension of Study 200622. HES therapy was allowed to be adjusted per local standard of care while maintaining mepolizumab 300 mg treatment starting at Week 4. In this study the effect of treatment with mepolizumab on the reduction of HES flares reported during Study 200622 was sustained for patients who continued mepolizumab treatment in study 205203, in which 94% (47/50) of patients did not experience a flare.
 
-In the 72 patients requiring OCS during Weeks 0 to 4 of the OLE, 28% of patients achieved a mean daily dose OCS dose reduction of  50% during Weeks 16 to 20.
+In the 72 patients requiring OCS during Weeks 0 to 4 of the OLE, 28% of patients achieved a mean daily dose OCS dose reduction of ≥ 50% during Weeks 16 to 20.
 
 ## Paediatric population
 
-## Severe refractory eosinophilic asthma
+Severe refractory eosinophilic asthma
 
 In MEA115588 and in the double-blind placebo-controlled study 200862, there were 34 adolescents (12 to 17 years old). Of these 34 subjects: 12 received placebo, 9 received mepolizumab 75 mg intravenously, and 13 received 100 mg subcutaneously. In a combined analysis of these studies, a 40% reduction in clinically significant exacerbations was observed in adolescents following mepolizumab treatment compared to placebo (rate ratio 0.60; 95% CI: 0.17, 2.10).
 
-## Eosinophilic granulomatosis with polyangiitis (EGPA)
+Eosinophilic granulomatosis with polyangiitis (EGPA)
 
 The are no clinical data available in children and adolescents aged 6 to 17 years old.
 
@@ -763,15 +1923,15 @@ Four adolescents (12 to 17 years old) were enrolled in study 200622; one adolesc
 
 ## 5.2 Pharmacokinetic properties
 
-Following subcutaneous dosing in patients with asthma and CRSwNP, mepolizumab exhibited approximately dose-proportional pharmacokinetics over a dose range of 12.5 mg to 250 mg. Subcutaneous administration of mepolizumab 300 mg had approximately three times the systemic exposure of mepolizumab 100 mg. Following administration of a single 100 mg subcutaneous dose in healthy subjects, mepolizumab systemic exposure was comparable between formulations.
+Following subcutaneous dosing in patients with asthma and CRSwNP, mepolizumab exhibited approximately dose-proportional pharmacokinetics over a dose range of 12.5 mg to 250 mg. Subcutaneous administration of mepolizumab 300 mg had approximately three times the systemic exposure of mepolizumab 100 mg. Mepolizumab pharmacokinetics were consistent in patients with asthma, CRSwNP, COPD, EGPA or HES. Following administration of a single 100 mg subcutaneous dose in healthy subjects, mepolizumab systemic exposure was comparable between formulations.
 
 ## Absorption
 
 Following subcutaneous administration to healthy subjects or patients with asthma, mepolizumab was absorbed slowly with a median time to reach maximum plasma concentration (Tmax) ranging from 4 to 8 days.
 
-Following a single subcutaneous administration in the abdomen, thigh or arm of healthy subjects, mepolizumab absolute bioavailability was 64%, 71% and 75%, respectively. In patients with asthma the absolute bioavailability of mepolizumab administered subcutaneously in the arm ranged from 7480%. Following repeat subcutaneous administration every 4 weeks, there is approximately a two-fold accumulation at steady state.
-
 <div style=\"page-break-after: always\"></div>
+
+Following a single subcutaneous administration in the abdomen, thigh or arm of healthy subjects, mepolizumab absolute bioavailability was 64%, 71% and 75%, respectively. In patients with asthma the absolute bioavailability of mepolizumab administered subcutaneously in the arm ranged from 7480%. Following repeat subcutaneous administration every 4 weeks, there is approximately a two-fold accumulation at steady state.
 
 ## Distribution
 
@@ -787,7 +1947,7 @@ Following a single intravenous administration to patients with asthma, the mean 
 
 ## Special populations
 
-## Elderly patients ( ≥ 65 years old)
+## Elderly patients (≥65 years old)
 
 There are limited pharmacokinetic data available in elderly patients (≥65 years old) across all clinical studies (N=90). However, in the population pharmacokinetic analysis, there were no indications of an effect of age on the pharmacokinetics of mepolizumab over the age range of 12 to 82 years.
 
@@ -803,9 +1963,11 @@ No formal studies have been conducted to investigate the effect of hepatic impai
 
 ## Severe eosinophilic asthma and HES
 
-There are limited pharmacokinetic data available in the paediatric population (59 patients with eosinophilic esophagitis, 55 patients with severe refractory eosinophilic asthma and 1 patient with HES). Intravenous mepolizumab pharmacokinetics was evaluated by population pharmacokinetic analysis in a paediatric study conducted in patients aged 2 -17 years old with eosinophilic esophagitis. Paediatric pharmacokinetics was largely predictable from adults, after taking into account bodyweight. Mepolizumab pharmacokinetics in adolescent patients with severe refractory eosinophilic asthma or HES included in the phase 3 studies were consistent with adults (see section 4.2).
+There are limited pharmacokinetic data available in the paediatric population (59 patients with eosinophilic esophagitis, 55 patients with severe refractory eosinophilic asthma and 1 patient with HES). Intravenous mepolizumab pharmacokinetics was evaluated by population pharmacokinetic analysis in a paediatric study conducted in patients aged 2-17 years old with eosinophilic esophagitis.
 
 <div style=\"page-break-after: always\"></div>
+
+Paediatric pharmacokinetics was largely predictable from adults, after taking into account bodyweight. Mepolizumab pharmacokinetics in adolescent patients with severe refractory eosinophilic asthma or HES included in the phase 3 studies were consistent with adults (see section 4.2).
 
 Paediatric pharmacokinetics following subcutaneous administration in patients 6 to 11 years old with severe refractory eosinophilic asthma was investigated in an open label, uncontrolled study of 12weeks duration. Paediatric pharmacokinetics were broadly consistent with adults and adolescents after accounting for bodyweight and bioavailability. The absolute subcutaneous bioavailability appears complete compared to that observed in adults and adolescents of 76%. Exposure following subcutaneous administratio n of either 40 mg (for a weight &lt; 40kg) or 100 mg (for a weight ≥ 40 kg) was 1.32 and 1.97 times of that observed in adults at 100 mg.
 
@@ -831,936 +1993,17 @@ No impairment of fertility was observed in a fertility and general reproduction 
 
 ## Pregnancy
 
-In monkeys, mepolizumab had no effect on pregnancy or on embryonic/fetal and postnatal development (including immune function) of the offspring. Examinations for internal or skeletal malformations were not performed. Data in cynomolgus monkeys demonstrate that mepolizumab crossed the placenta. Concentrations of mepolizumab were about 1.2-2.4 times higher in infants than in mothers for several months post partum and did not affect the immune system of the infants.
+In monkeys, mepolizumab had no effect on pregnancy or on embryonic/fetal and postnatal development (including immune function) of the offspring. Examinations for internal or skeletal malformations were not performed. Data in cynomolgus monkeys demonstrate that mepolizumab
 
 <div style=\"page-break-after: always\"></div>
+
+crossed the placenta. Concentrations of mepolizumab were about 1.2-2.4 times higher in infants than in mothers for several months post partum and did not affect the immune system of the infants.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Sucrose Sodium phosphate dibasic heptahydrate Citric acid monohydrate Polysorbate 80 Disodium edetate Water for injections
-
-## 6.2 Incompatibilities
-
-In the absence of compatability studies, this medicinal product must not be mixed with other medicinal products.
-
-## 6.3 Shelf life
-
-3 years.
-
-## 6.4 Special precautions for storage
-
-Store in a refrigerator (2°C - 8°C).
-
-Do not freeze.
-
-Store in the original carton in order to protect from light.
-
-If necessary, the pre-filled pen and pre-filled syringe(s) can be removed from the refrigerator and kept in the unopened pack for up to 7 days at room temperature (up to 30°C), when protected from light. The pack should be discarded if left out of the refrigerator for more than 7 days.
-
-The pre-filled pen or pre-filled syringe(s) must be administered within 8 hours once the pack is opened. The pack should be discarded if not administered within 8 hours.
-
-## 6.5 Nature and contents of container
-
-Nucala 100 mg solution for injection in pre-filled pen
-
-1 mL solution in a Type 1 glass syringe with a fixed needle (stainless steel) in a pre-filled pen.
-
-Pack sizes:
-
-1 pre-filled pen
-
-Multipack containing 3 (3 packs of 1) pre-filled pens
-
-Multipack containing 9 (9 packs of 1) pre-filled pens
-
-Not all pack-sizes may be marketed .
-
-Nucala 100 mg solution for injection in pre-filled syringe
-
-1 ml solution in a Type 1 glass syringe with a fixed needle (stainless steel) and passive safety needle guard.
-
-Pack sizes:
-
-1 pre-filled syringe
-
-Multipack containing 3 (3 packs of 1) pre-filled syringes
-
-Multipack containing 9 (9 packs of 1) pre-filled syringes
-
-<div style=\"page-break-after: always\"></div>
-
-Not all pack-sizes may be marketed.
-
-Nucala 40 mg solution for injection in pre-filled syringe
-
-0.4 mL solution in a 1 mL Type 1 glass syringe with a fixed needle (stainless steel) and passive safety needle guard.
-
-Pack sizes:
-
-1 pre-filled syringe
-
-Multipack containing 3 (3 packs of 1) pre-filled syringes
-
-Not all pack-sizes may be marketed.
-
-## 6.6 Special precautions for disposal and other handling
-
-Before administration, the solution should be inspected visually. The liquid should be clear to opalescent, colourless to pale yellow to pale brown. If the solution is cloudy, discoloured or contains particles, the solution should not be used.
-
-After removing the pre-filled pen or pre-filled syringe(s) from the refrigerator, allow the pen or syringe(s) to reach room temperature for at least 30 minutes before injecting Nucala.
-
-Comprehensive instructions for subcutaneous administration of Nucala in a pre-filled pen or pre-filled syringe(s) are provided at the end of the package leaflet.
-
-## Disposal
-
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-## 7. MARKETING AUTHORISATION HOLDER
-
-GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
-
-## 8. MARKETING AUTHORISATION NUMBER(S)
-
-Nucala 100 mg solution for injection in pre-filled pen
-
-EU/1/15/1043/003 1 pre-filled pen
-
-EU/1/15/1043/004 3 (3 x 1) pre-filled pens (multipack)
-
-EU/1/15/1043/007 9 (9 x 1) pre-filled pens (multipack)
-
-Nucala 100 mg solution for injection in pre-filled syringe
-
-EU/1/15/1043/005 1 pre-filled syringe
-
-EU/1/15/1043/006 3 (3 x 1) pre-filled syringes (multipack)
-
-EU/1/15/1043/008 9 (9 x 1) pre-filled syringes (multipack)
-
-<div style=\"page-break-after: always\"></div>
-
-## Nucala 40 mg solution for injection in pre-filled syringe
-
-EU/1/15/1043/009 1 pre-filled syringe EU/1/15/1043/010 3 (3 x 1) pre-filled syringes (multipack)
-
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
-
-Date of first authorisation: 02 December 2015
-
-Date of latest renewal: 10 August 2020
-
-## 10. DATE OF REVISION OF THE TEXT
-
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
-
-<div style=\"page-break-after: always\"></div>
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Nucala 100 mg powder for solution for injection
-
-## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
-
-Each vial contains 100 mg mepolizumab. After reconstitution, each ml of solution contains 100 mg mepolizumab.
-
-Mepolizumab is a humanised monoclonal antibody produced in Chinese hamster ovary cells by recombinant DNA technology.
-
-For the full list of excipients, see section 6.1.
-
-## 3. PHARMACEUTICAL FORM
-
-Powder for solution for injection
-
-Lyophilised white powder.
-
-## 4. CLINICAL PARTICULARS
-
-## 4.1 Therapeutic indications
-
-## Severe eosinophilic asthma
-
-Nucala is indicated as an add-on treatment for severe refractory eosinophilic asthma in adults, adolescents and children aged 6 years and older (see section 5.1).
-
-## Chronic rhinosinusitis with nasal polyps (CRSwNP)
-
-Nucala is indicated as an add-on therapy with intranasal corticosteroids for the treatment of adult patients with severe CRSwNP for whom therapy with systemic corticosteroids and/or surgery do not provide adequate control.
-
-Eosinophilic granulomatosis with polyangiitis (EGPA)
-
-Nucala is indicated as an add-on treatment for patients aged 6 years and older with relapsing-remitting or refractory eosinophilic granulomatosis with polyangiitis (EGPA).
-
-## Hypereosinophilic syndrome (HES)
-
-Nucala is indicated as an add-on treatment for adult patients with inadequately controlled hypereosinophilic syndrome without an identifiable non-haematologic secondary cause (see section 5.1).
-
-## 4.2 Posology and method of administration
-
-Nucala should be prescribed by physicians experienced in the diagnosis and treatment of severe refractory eosinophilic asthma, CRSwNP, EGPA or HES.
-
-<div style=\"page-break-after: always\"></div>
-
-## Posology
-
-## Severe eosinophilic asthma
-
-Adults and adolescents aged 12 years and older
-
-The recommended dose of mepolizumab is 100 mg administered subcutaneously once every 4 weeks.
-
-Children aged 6 to 11 years old
-
-The recommended dose of mepolizumab is 40 mg administered subcutaneously once every 4 weeks.
-
-Nucala is intended for long-term treatment. The need for continued therapy should be considered at least on an annual basis as determined by physician assessment of the patient's disease severity and level of control of exacerbations.
-
-## CRSwNP
-
-## Adults
-
-The recommended dose of mepolizumab is 100 mg administered subcutaneously once every 4 weeks.
-
-Nucala is intended for long-term treatment. Consideration can be given to alternative treatments in patients who have shown no response after 24 weeks of treatment for CRSwNP. Some patients with initial partial response may subsequently improve with continued treatment beyond 24 weeks.
-
-## EGPA
-
-Adults and adolescents aged 12 years and older
-
-The recommended dose of mepolizumab is 300 mg administered subcutaneously once every 4 weeks.
-
-The posology of mepolizumab in children and adolescents aged 6 to 17 years old with EGPA was supported by modelling and simulation data (see section 5.2).
-
-Children aged 6 to 11 years old weighing ≥ 40 kg
-
-The recommended dose of mepolizumab is 200 mg administered subcutaneously once every 4 weeks.
-
-Children aged 6 to 11 years old weighing &lt; 40 kg
-
-The recommended dose of mepolizumab is 100 mg administered subcutaneously once every 4 weeks.
-
-Nucala is intended for long-term treatment. The need for continued therapy should be reviewed at least on an annual basis as determined by physician assessment of the patient's disease severity and improvement of symptom control.
-
-Patients who develop life-threatening manifestations of EGPA should also be evaluated for the need for continued therapy, as Nucala has not been studied in this population.
-
-## HES
-
-## Adults
-
-The recommended dose of mepolizumab is 300 mg administered subcutaneously once every 4 weeks.
-
-<div style=\"page-break-after: always\"></div>
-
-Nucala is intended for long-term treatment. The need for continued therapy should be reviewed at least on an annual basis as determined by physician assessment of the patient's disease severity and level of symptom control.
-
-Patients who develop life-threatening manifestations of HES should also be evaluated for the need for continued therapy, as Nucala has not been studied in this population.
-
-## Special populations
-
-## Elderly patients
-
-No dose adjustment is required for elderly patients (see section 5.2).
-
-## Renal and hepatic impairment
-
-No dose adjustment is required in patients with renal or hepatic impairment (see section 5.2).
-
-## Paediatric population
-
-## Severe eosinophilic asthma
-
-## Children less than 6 years old
-
-The safety and efficacy of mepolizumab in children less than 6 years old have not yet been established.
-
-No data are available.
-
-## Children aged 6 to 17 years old
-
-The posology of mepolizumab in children and adolescents aged 6 to 17 years old with severe refractory eosinophilic asthma has been determined by limited efficacy, pharmacokinetic and pharmacodynamic studies and supported by modelling and simulation data (see sections 5.1 and 5.2).
-
-## CRSwNP in children less than 18 years old
-
-The safety and efficacy in children with CRSwNP below the age of 18 years have not been established. No data are available.
-
-## EGPA in children less than 6 years old
-
-The safety and efficacy of mepolizumab has not been established in children below the age of 6 years old.
-
-No data are available.
-
-## HES in children aged less than 18 years old
-
-The safety and efficacy of mepolizumab in children and adolescents aged less than 18 years old have not yet been established.
-
-Currently available data are described in sections 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
-
-## Method of administration
-
-Nucala is for subcutaneous injection only and should be administered by a healthcare professional. It may be injected into the upper arm, thigh, or abdomen.
-
-<div style=\"page-break-after: always\"></div>
-
-For doses which require more than one injection, it is recommended that each injection is administered at least 5 cm apart.
-
-The powder should be reconstituted prior to administration and the reconstituted solution should be used immediately. For instructions on the reconstitution of the medicinal product before administration, see section 6.6.
-
-Each vial of mepolizumab should be used for a single patient, and any remainder of the vial should be discarded.
-
-## 4.3 Contraindications
-
-Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-
-## 4.4 Special warnings and precautions for use
-
-## Traceability
-
-In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
-
-## Asthma exacerbations
-
-Mepolizumab should not be used to treat acute asthma exacerbations.
-
-Asthma-related adverse symptoms or exacerbations may occur during treatment. Patients should be instructed to seek medical advice if their asthma remains uncontrolled or worsens after initiation of treatment.
-
-## Corticosteroids
-
-Abrupt discontinuation of corticosteroids after initiation of mepolizumab therapy is not recommended. Reduction in corticosteroid doses, if required, should be gradual and performed under the supervision of a physician.
-
-## Hypersensitivity and administration-related reactions
-
-Acute and delayed systemic reactions, including hypersensitivity reactions (e.g. anaphylaxis, urticaria, angioedema, rash, bronchospasm, hypotension), have occurred following administration of mepolizumab. These reactions generally occur within hours of administration, but in some instances have a delayed onset (i.e., typically within several days). These reactions may occur for the first time after a long duration of treatment (see section 4.8). In the event of a hypersensitivity reaction, appropriate treatment as clinically indicated should be initiated.
-
-## Parasitic infections
-
-Eosinophils may be involved in the immunological response to some helminth infections. Patients with pre-existing helminth infections should be treated before starting therapy. If patients become infected whilst receiving treatment with mepolizumab and do not respond to anti-helminth treatment, temporary discontinuation of therapy should be considered.
-
-## Organ threatening or life-threatening EGPA
-
-Nucala has not been studied in patients with organ threatening or life-threatening manifestations of EGPA (see section 4.2).
-
-<div style=\"page-break-after: always\"></div>
-
-## Life-threatening HES
-
-Nucala has not been studied in patients with life-threatening manifestations of HES (see section 4.2).
-
-## Excipients
-
-This medicinal product contains less than 1 mmol sodium (23 mg) per 100 mg dose, that is to say essentially 'sodium -free'.
-
-## 4.5 Interaction with other medicinal products and other forms of interaction
-
-No interaction studies have been performed.
-
-Cytochrome P450 enzymes, efflux pumps and protein-binding mechanisms are not involved in the clearance of mepolizumab. Increased levels of pro-inflammatory cytokines (e.g. IL-6), via interaction with their cognate receptors on hepatocytes, have been shown to suppress the formation of CYP450 enzymes and drug transporters, however, elevation of systemic pro-inflammatory markers in severe refractory eosinophilic asthma is minimal and there is no evidence of IL-5 receptor alpha expression on hepatocytes. The potential for interactions with mepolizumab is therefore considered low.
-
-## 4.6 Fertility, pregnancy and lactation
-
-## Pregnancy
-
-There is a limited amount of data (less than 300 pregnancy outcomes) from the use of mepolizumab in pregnant women.
-
-Mepolizumab crosses the placental barrier in monkeys. Animal studies do not indicate reproductive toxicity (see section 5.3). The potential for harm to a human fetus is unknown.
-
-As a precautionary measure, it is preferable to avoid the use of Nucala during pregnancy. Administration of Nucala to pregnant women should only be considered if the expected benefit to the mother is greater than any possible risk to the fetus.
-
-## Breast-feeding
-
-There are no data regarding the excretion of mepolizumab in human milk. However, mepolizumab was excreted into the milk of cynomolgus monkeys at concentrations of less than 0.5% of those detected in plasma.
-
-A decision must be made whether to discontinue breast-feeding or to discontinue Nucala therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
-
-## Fertility
-
-There are no fertility data in humans. Animal studies showed no adverse effects of anti-IL5 treatment on fertility (see section 5.3).
-
-## 4.7 Effects on ability to drive and use machines
-
-Nucala has no or negligible influence on the ability to drive and use machines.
-
-<div style=\"page-break-after: always\"></div>
-
-## 4.8 Undesirable effects
-
-## Summary of the safety profile
-
-## Severe eosinophilic asthma
-
-In placebo-controlled studies in adult and adolescent patients with severe refractory eosinophilic asthma, the most commonly reported adverse reactions during treatment were headache (20%), injection site reactions (8%) and back pain (6%).
-
-## CRSwNP
-
-In a placebo-controlled study in patients with CRSwNP, the most commonly reported adverse reactions during treatment were headache (18%) and back pain (7%).
-
-## EGPA
-
-In a placebo-controlled study in patients with EGPA, the most commonly reported adverse reactions during treatment were headache (32%), injection site reactions (15%) and back pain (13%). Systemic allergic/hypersensitivity reactions were reported by 4% of EGPA patients.
-
-## HES
-
-In a placebo-controlled study in patients with HES, the most commonly reported adverse reactions during treatment were headache (13%), urinary tract infection (9%), injection site reactions and pyrexia (7% each).
-
-## Tabulated list of adverse reactions
-
-The table below presents the adverse reactions from placebo-controlled severe eosinophilic asthma studies from patients receiving mepolizumab 100 mg subcutaneously (SC) (n= 263), from a randomised, double-blind placebo-controlled 52-week study in patients with CRSwNP receiving mepolizumab 100 mg SC (n=206), in patients with EGPA receiving mepolizumab 300 mg SC (n=68), in a double-blind placebo-controlled 32-week study in patients with HES receiving mepolizumab 300 mg SC (n= 54), and from spontaneous post-marketing reports. Safety data is also available from open-label extension studies in severe refractory eosinophilic asthma patients (n=998) treated for a median of 2.8 years (range 4 weeks to 4.5 years). The safety profile of mepolizumab in HES patients (n=102) enrolled in a 20-week open label extension study was similar to the safety profile of patients in the pivotal placebo-controlled study.
-
-The frequency of adverse reactions is defined using the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000); and not known (cannot be estimated from available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-
-| System Organ Class          | Adverse reactions                                                                     | Frequency       |
-|-----------------------------|---------------------------------------------------------------------------------------|-----------------|
-| Infections and infestations | Lower respiratory tract infection Urinary tract infection Pharyngitis Herpes zoster** | Common Uncommon |
-| Immune system disorders     | Hypersensitivity reactions (systemic allergic)* Anaphylaxis**                         | Common Rare     |
-| Nervous system disorders    | Headache                                                                              | Very common     |
-
-<div style=\"page-break-after: always\"></div>
-
-| System Organ Class                                   | Adverse reactions                                                                                  | Frequency   |
-|------------------------------------------------------|----------------------------------------------------------------------------------------------------|-------------|
-| Respiratory, thoracic and mediastinal disorders      | Nasal congestion                                                                                   | Common      |
-| Gastrointestinal disorders                           | Abdominal pain upper                                                                               | Common      |
-| Skin and subcutaneous tissue disorders               | Eczema                                                                                             | Common      |
-| Musculoskeletal and connective tissue disorders      | Back pain Arthralgia**                                                                             | Common      |
-| General disorders and administration site conditions | Administration-related reactions (systemic non allergic)*** Local injection site reactions Pyrexia | Common      |
-
-## Description of selected adverse reactions
-
-Systemic reactions, including hypersensitivity reactions, in CRSwNP
-
-In the 52-week placebo-controlled study, systemic allergic (type I hypersensitivity) reactions were reported in 2 patients (&lt;1%) in the group receiving mepolizumab 100 mg and in no patients in the placebo group. Other systemic reactions were reported by no patients in the group receiving mepolizumab 100 mg and in 1 patient (&lt;1%) in the placebo group.
-
-## Systemic reactions, including hypersensitivity reactions, in EGPA
-
-In the 52-week placebo-controlled study the percentage of patients who experienced systemic (allergic and non-allergic) reactions was 6% in the group receiving 300 mg of mepolizumab and 1% in the placebo group. Systemic allergic/hypersensitivity reactions were reported by 4% of patients in the group receiving 300 mg of mepolizumab and 1% of patients in the placebo group. Systemic nonallergic reactions (angioedema) were reported by 1 (1%) patient in the group receiving 300 mg of mepolizumab and no patients in the placebo group.
-
-## Systemic reactions, including hypersensitivity reactions, in HES
-
-In the 32-week placebo-controlled study, 1 patient (2%) reported a systemic (other) reaction in the group receiving 300 mg of mepolizumab (multifocal skin reaction) and no patients in the placebo group.
-
-Local injection site reactions
-
-## Severe eosinophilic asthma
-
-In placebo-controlled studies the incidence of local injection site reactions with mepolizumab 100 mg subcutaneous and placebo was 8% and 3%, respectively. These events were all non-serious, mild to moderate in intensity and the majority resolved within a few days. Local injection site reactions occurred mainly at the start of treatment and within the first 3 injections with fewer reports on
-
-<div style=\"page-break-after: always\"></div>
-
-subsequent injections. The most common manifestations reported with these events included pain, erythema, swelling, itching, and burning sensation.
-
-## CRSwNP
-
-In the placebo-controlled study, local injection site reactions (e.g., erythema, pruritus) occurred in 2% of patients receiving mepolizumab 100 mg compared with &lt;1% in patients receiving placebo.
-
-## EGPA
-
-In the placebo-controlled study, local injection site reactions (e.g., pain, erythema, swelling) occurred at a rate of 15% in patients receiving mepolizumab 300 mg compared with 13% in patients receiving placebo.
-
-## HES
-
-In the placebo-controlled study, local injection site reactions (e.g., burning, itching) occurred at a rate of 7% in patients receiving mepolizumab 300 mg compared with 4% in patients receiving placebo.
-
-## Paediatric population
-
-## Severe eosinophilic asthma
-
-Thirty-seven adolescents (aged 12-17) were enrolled in four placebo-controlled studies (25 mepolizumab treated intravenously or subcutaneously) of 24 to 52 weeks duration. Thirty -six paediatric patients (aged 6-11) received mepolizumab subcutaneously in an open-label study for 12 weeks. After a treatment interruption of 8 weeks, 30 of these patients, received mepolizumab for a further 52 weeks. The safety profile was similar to that seen in adults. No additional adverse reactions were identified.
-
-## HES
-
-Four adolescents aged 12 to 17 years were enrolled in the placebo-controlled study 200622, one adolescent received 300 mg of mepolizumab, and 3 adolescents received placebo for 32 weeks. All 4 adolescents continued into a 20-week open-label extension study 205203 (see Section 5.1).
-
-## Reporting of suspected adverse reactions
-
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-## 4.9 Overdose
-
-Single doses of up to 1 500 mg were administered intravenously in a clinical trial to patients with eosinophilic disease without evidence of dose-related toxicities.
-
-There is no specific treatment for an overdose with mepolizumab. If overdose occurs, the patient should be treated supportively with appropriate monitoring as necessary.
-
-Further management should be as clinically indicated or as recommended by the national poisons centre, where available.
-
-<div style=\"page-break-after: always\"></div>
-
-## 5. PHARMACOLOGICAL PROPERTIES
-
-## 5.1 Pharmacodynamic properties
-
-Pharmacotherapeutic group: Drugs for obstructive airway diseases, other systemic drugs for obstructive airway diseases, ATC code: R03DX09 .
-
-## Mechanism of action
-
-Mepolizumab is a humanised monoclonal antibody (IgG1, kappa), which targets human interleukin-5 (IL-5) with high affinity and specificity. IL-5 is the major cytokine responsible for the growth and differentiation, recruitment, activation and survival of eosinophils. Mepolizumab inhibits the bioactivity of IL-5 with nanomolar potency by blocking the binding of IL-5 to the alpha chain of the IL-5 receptor complex expressed on the eosinophil cell surface, thereby inhibiting IL-5 signalling and reducing the production and survival of eosinophils.
-
-## Pharmacodynamic effects
-
-## Severe eosinophilic asthma
-
-In patients with severe refractory eosinophilic asthma (adults/adolescents), following a dose of 100 mg administered subcutaneously every 4 weeks for 32 weeks, blood eosinophils were reduced from a geometric mean count at baseline of 290 to 40 cells/µL at week 32 (n=182), a reduction of 84% compared to placebo.
-
-This magnitude of blood eosinophils reduction was maintained in severe refractory eosinophilic asthma patients (n=998) treated for a median of 2.8 years (range 4 weeks to 4.5 years) in open-label extension studies.
-
-In children aged 6 to 11 years old with severe refractory eosinophilic asthma administered mepolizumab subcutaneously every 4 weeks for 52 weeks, blood eosinophils were reduced from a geometric mean count at baseline to week 52 of 306 (n=16) to 48 (n=15) following 40 mg (for a weight &lt; 40kg) and 331 to 44 cells/µL (n=10) following 100 mg (for a weight ≥ 40 kg), a reduction from baseline of 85% and 87%, respectively.
-
-In adults, adolescents and children, this magnitude of reduction was observed within 4 weeks of treatment.
-
-## CRSwNP
-
-In patients with CRSwNP, following a 100 mg dose of mepolizumab administered subcutaneously every 4 weeks for 52 weeks, blood eosinophils were reduced from a geometric mean count at baseline to week 52 of 390 (n=206) to 60 cells/µL (n=126), which corresponds to a geometric mean reduction of 83% compared to placebo. This magnitude of reduction was observed within 4 weeks of treatment and was maintained throughout the treatment period of 52 weeks.
-
-## EGPA
-
-In patients with EGPA, following a 300 mg dose of mepolizumab administered subcutaneously every 4 weeks for 52 weeks, blood eosinophils were reduced from a geometric mean count at baseline of 177 (n=68) to 38 cells/µL (n=64) at week 52. There was a geometric mean reduction of 83% compared to placebo and this magnitude of reduction was observed within 4 weeks of treatment.
-
-## HES
-
-In patients with HES (adults/adolescents), following a 300 mg dose of mepolizumab administered subcutaneously every 4 weeks for 32 weeks, blood eosinophil reduction was observed within 2 weeks
-
-<div style=\"page-break-after: always\"></div>
-
-of treatment.  At week 32, blood eosinophils were reduced from a geometric mean count at baseline of 1 460 (n=54) to 70 cells/µL (n=48) and a geometric mean reduction of 92% compared to placebo was observed. This magnitude of reduction was maintained for a further 20 weeks in patients that continued mepolizumab treatment in the open-label extension study.
-
-## Immunogenicity
-
-## Severe eosinophilic asthma, CRSwNP, EGPA and HES
-
-Consistent with the potentially immunogenic properties of protein and peptide therapeutics, patients may develop antibodies to mepolizumab following treatment. In the placebo-controlled trials, 15/260 (6%) of adults and adolescents with severe refractory eosinophilic asthma treated with 100 mg dose, 6/196 (3%) of adults with CRSwNP treated with 100 mg dose, 1/68 (&lt;2%) of adults with EGPA treated with 300 mg dose and 1/53 (2%) of adults and adolescents with HES treated with 300 mg dose of mepolizumab subcutaneously had detectable anti-mepolizumab antibodies after having received at least one dose of mepolizumab.
-
-The immunogenicity profile of mepolizumab in severe refractory eosinophilic asthma patients (n=998) treated for a median of 2.8 years (range 4 weeks to 4.5 years) or in HES patients (n=102) treated for 20 weeks in open-label extension studies was similar to that observed in the placebocontrolled studies.
-
-In children aged 6 to 11 years old with severe refractory eosinophilic asthma following either 40 mg subcutaneously (for a weight &lt; 40kg) or 100 mg subcutaneously (for a weight ≥ 40 kg), 2/35 (6%) had detectable anti-mepolizumab antibodies after having received at least one dose of mepolizumab during the initial short phase of the study. No children had detectable anti-mepolizumab antibodies during the long-term phase of the study. Neutralising antibodies were detected in one adult patient with severe refractory eosinophilic asthma and in no patients with CRSwNP, EGPA or HES. Antimepolizumab antibodies did not discernibly impact the pharmacokinetics and pharmacodynamics of mepolizumab in the majority of patients and there was no evidence of a correlation between antibody titres and change in blood eosinophil level.
-
-## Clinical efficacy
-
-## Severe eosinophilic asthma
-
-The efficacy of mepolizumab in the treatment of a targeted group of patients with severe refractory eosinophilic asthma was evaluated in 3 randomised, double-blind, parallel-group clinical studies of between 24-52 weeks duration, in patients aged 12 years and older. These patients either remained uncontrolled (at least two severe exacerbations in the previous 12 months) on their current standard of care, including at least high doses of inhaled corticosteroids (ICS) plus an additional maintenance treatment(s), or were dependent on systemic corticosteroids. Additional maintenance treatments included long-acting beta2 -adrenergic agonists (LABA), leukotriene modifiers, long-acting muscarinic antagonists (LAMA), theophylline, and oral corticosteroids (OCS).
-
-The two exacerbations studies MEA112997 and MEA115588 enrolled a total of 1 192 patients, 60% females, with a mean age of 49 years (range 12 -82). The proportion of patients on maintenance OCS was 31% and 24%, respectively. Patients were required to have a history of two or more severe asthma exacerbations requiring oral or systemic corticosteroid treatment in the past 12 months and reduced lung function at baseline (pre-bronchodilator FEV1&lt;80% in adults and &lt;90% in adolescents). The mean number of exacerbations in the previous year was 3.6 and the mean predicted prebronchodilator FEV1 was 60%. Patients continued to receive their existing asthma medicinal product during the studies .
-
-For the oral corticosteroid-sparing study MEA115575, a total of 135 patients were enrolled (55% were female; mean age of 50 years) who were being treated daily with OCS (5-35 mg per day), and high-dose ICS plus an additional maintenance medicinal product.
-
-<div style=\"page-break-after: always\"></div>
-
-## Dose-ranging efficacy MEA112997 (DREAM) study
-
-In MEA112997, a randomised, double-blind, placebo-controlled, parallel-group, multi-centre study of 52 weeks duration in 616 patients with severe refractory eosinophilic asthma, mepolizumab significantly reduced clinically significant asthma exacerbations (defined as worsening of asthma requiring use of oral/systemic corticosteroids and/or hospitalisation and/or emergency department visits) when administered in doses of 75 mg, 250 mg or 750 mg intravenously compared to placebo (see Table 1).
-
-Table 1: Frequency of clinically significant exacerbations at week 52 in the intent to treat population
-
-|                        | Intravenous mepolizumab   | Intravenous mepolizumab   | Intravenous mepolizumab   | Placebo   |
-|------------------------|---------------------------|---------------------------|---------------------------|-----------|
-|                        | 75mg n=153                | 250mg n=152               | 750mg n=156               | n= 155    |
-| Exacerbation rate/year | 1.24                      | 1.46                      | 1.15                      | 2.40      |
-| Percent reduction      | 48%                       | 39%                       | 52%                       |           |
-| Rate ratio (95% CI)    | 0.52 (0.39, 0.69)         | 0.61(0.46, 0.81)          | 0.48 (0.36, 0.64)         |           |
-| p-value                | <0.001                    | <0.001                    | <0.001                    | -         |
-
-## Exacerbation reduction MEA115588 (MENSA) study
-
-MEA115588 was a randomised, double-blind, placebo-controlled, parallel-group, multi-centre study which evaluated the efficacy and safety of mepolizumab as add-on therapy in 576 patients with severe refractory eosinophilic asthma defined as peripheral blood eosinophils greater than or equal to 150 cells/μL at initiation of treatment or greater than or equal to 300 cells/μL within the past 12 months.
-
-Patients received mepolizumab 100 mg administered subcutaneously, mepolizumab 75 mg administered intravenously or placebo treatment once every 4 weeks over 32 weeks. The primary endpoint was the frequency of clinically significant exacerbations of asthma and the reductions for both mepolizumab treatment arms compared to placebo were statistically significant (p&lt;0.001). Table 2 provides the results of the primary and secondary endpoints for patients treated with subcutaneous mepolizumab or placebo.
-
-Table 2: Results of primary and secondary endpoints at week 32 in the intent to treat population (MEA115588)
-
-|                                                   | Mepolizumab 100 mg (subcutaneous) N= 194          | Placebo N= 191                                    |
-|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
-| Primary endpoint                                  | Primary endpoint                                  | Primary endpoint                                  |
-| Frequency of clinically significant exacerbations | Frequency of clinically significant exacerbations | Frequency of clinically significant exacerbations |
-| Exacerbation rate per year                        | 0.83                                              | 1.74                                              |
-| Percent reduction Rate ratio (95% CI)             | 53% 0.47 (0.35, 0.64)                             | -                                                 |
-| p-value                                           | <0.001                                            |                                                   |
-| Secondary endpoints                               |                                                   |                                                   |
-
-<div style=\"page-break-after: always\"></div>
-
-|                                                                             | Mepolizumab 100 mg (subcutaneous) N= 194                                    | Placebo N= 191                                                              |
-|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| Frequency of exacerbations requiring hospitalisations/emergency room visits | Frequency of exacerbations requiring hospitalisations/emergency room visits | Frequency of exacerbations requiring hospitalisations/emergency room visits |
-| Exacerbation rate per year                                                  | 0.08                                                                        | 0.20                                                                        |
-| Percent reduction Rate ratio (95% CI)                                       | 61% 0.39 (0.18, 0.83)                                                       | _                                                                           |
-| p-value                                                                     | 0.015                                                                       |                                                                             |
-| Frequency of exacerbations requiring hospitalisation                        | Frequency of exacerbations requiring hospitalisation                        | Frequency of exacerbations requiring hospitalisation                        |
-| Exacerbations rate per year                                                 | 0.03                                                                        | 0.10                                                                        |
-| Percent reduction Rate ratio (95% CI)                                       | 69% 0.31 (0.11, 0.91)                                                       | _                                                                           |
-| p-value                                                                     | 0.034                                                                       |                                                                             |
-| Pre-bronchodilator FEV 1 (mL) at week 32                                    | Pre-bronchodilator FEV 1 (mL) at week 32                                    | Pre-bronchodilator FEV 1 (mL) at week 32                                    |
-| Baseline (SD)                                                               | 1 730 (659)                                                                 | 1 860 (631)                                                                 |
-| Mean change from baseline (SE)                                              | 183 (31)                                                                    | 86 (31)                                                                     |
-| Difference (mepolizumab vs. placebo)                                        | 98                                                                          |                                                                             |
-| 95% CI                                                                      | (11, 184)                                                                   |                                                                             |
-| p-value                                                                     | 0.028                                                                       |                                                                             |
-| St. George's Respiratory Questionnaire (SGRQ) at week 32                    | St. George's Respiratory Questionnaire (SGRQ) at week 32                    | St. George's Respiratory Questionnaire (SGRQ) at week 32                    |
-| Baseline (SD)                                                               | 47.9 (19. 5)                                                                | 46.9 (19.8)                                                                 |
-| Mean change from baseline (SE)                                              | -16.0 (1.1)                                                                 | -9.0 (1.2)                                                                  |
-| Difference (mepolizumab vs. placebo)                                        | -7.0                                                                        |                                                                             |
-| 95% CI                                                                      | (-10.2, -3.8)                                                               |                                                                             |
-| p-value                                                                     | <0.001                                                                      |                                                                             |
-
-Reduction of exacerbation rate by baseline blood eosinophil count
-
-Table 3 shows the results of a combined analysis of the two exacerbation studies (MEA112997 and MEA115588) by baseline blood eosinophil count. The rate of exacerbations in the placebo arm increased with increasing baseline blood eosinophil count. The reduction rate with mepolizumab was greater in patients with higher blood eosinophil counts.
-
-Table 3: Combined analysis of the rate of clinically significant exacerbations by baseline blood eosinophil count in patients with severe refractory eosinophilic asthma
-
-|                            | Mepolizumab 75 mg IV/100 mg SC N=538   | Placebo N=346   |
-|----------------------------|----------------------------------------|-----------------|
-| MEA112997+MEA115588        |                                        |                 |
-| <150 cells/  L            |                                        |                 |
-| n                          | 123                                    | 66              |
-| Exacerbation rate per year | 1.16                                   | 1.73            |
-| Mepolizumab vs. placebo    |                                        |                 |
-| Rate ratio (95% CI)        | 0.67 (0.46,0.98)                       | ---             |
-| 150 to <300 cells/  L     |                                        |                 |
-| n                          | 139                                    | 86              |
-| Exacerbation rate per year | 1.01                                   | 1.41            |
-| Mepolizumab vs. placebo    |                                        |                 |
-
-<div style=\"page-break-after: always\"></div>
-
-|                            | Mepolizumab 75 mg IV/100 mg SC N=538   | Placebo N=346   |
-|----------------------------|----------------------------------------|-----------------|
-| Rate ratio (95% CI)        | 0.72 (0.47,1.10)                       | ---             |
-| 300 to <500 cells/  L     |                                        |                 |
-| n                          | 109                                    | 76              |
-| Exacerbation rate per year | 1.02                                   | 1.64            |
-| Mepolizumab vs. placebo    |                                        |                 |
-| Rate ratio (95% CI)        | 0.62 (0.41,0.93)                       | ---             |
-|  500 cells/  L           |                                        |                 |
-| n                          | 162                                    | 116             |
-| Exacerbation rate per year | 0.67                                   | 2.49            |
-| Mepolizumab vs. placebo    |                                        |                 |
-| Rate ratio (95% CI)        | 0.27 (0.19,0.37)                       | ---             |
-
-## Oral corticosteroid reduction study MEA115575 (SIRIUS)
-
-MEA115575 evaluated the effect of mepolizumab 100 mg administered subcutaneously on reducing the requirement for maintenance oral corticosteroids (OCS) while maintaining asthma control in subjects with severe refractory eosinophilic asthma. Patients had a blood eosinophil count of  150/  L at baseline or a blood eosinophil count of  300/  L in the 12 months prior to screening. Patients were administered mepolizumab or placebo treatment once every 4 weeks over the treatment period. Patients continued to receive their existing asthma medicinal product during the study with the exception of their OCS dose which was reduced every 4 weeks during the OCS reduction phase (Weeks 4-20), as long as asthma control was maintained.
-
-A total of 135 patients were enrolled: mean age was 50 years, 55% were female, and 48% had been receiving oral steroid therapy for at least 5 years. The baseline mean prednisone equivalent dose was approximately 13 mg per day.
-
-The primary endpoint was the percent reduction in daily OCS dose (weeks 20-24), whilst maintaining asthma control by defined dose reduction categories (see Table 4). Predefined categories included percent reductions ranging from 90-100% reduction, to no decrease in the prednisone dose from the end of the optimisation phase. The comparison between mepolizumab and placebo was statistically significant (p=0.008).
-
-Table 4: Results of the primary and secondary endpoints in MEA115575
-
-|                                                                      | ITT Population                                       | ITT Population   |
-|----------------------------------------------------------------------|------------------------------------------------------|------------------|
-|                                                                      | Mepolizumab 100 mg (subcutaneous) N= 69              | Placebo N= 66    |
-| Primary endpoint                                                     |                                                      |                  |
-| Percent reduction in OCS from baseline (weeks 20-24)                 | Percent reduction in OCS from baseline (weeks 20-24) |                  |
-| 90% - 100%                                                           | 16 (23%)                                             | 7 (11%)          |
-| 75% - <90%                                                           | 12 (17%)                                             | 5 (8%)           |
-| 50% - <75%                                                           | 9 (13%)                                              | 10 (15%)         |
-| >0% - <50%                                                           | 7 (10%)                                              | 7 (11%)          |
-| No decrease in OCS/lack of asthma control/ withdrawal from treatment | 25 (36%)                                             | 37 (56%)         |
-| Odds ratio (95% CI)                                                  | 2.39 (1.25, 4.56)                                    |                  |
-
-<div style=\"page-break-after: always\"></div>
-
-|                                                            | ITT Population                          | ITT Population                    |
-|------------------------------------------------------------|-----------------------------------------|-----------------------------------|
-|                                                            | Mepolizumab 100 mg (subcutaneous) N= 69 | Placebo N= 66                     |
-| p-value                                                    | 0.008                                   |                                   |
-| Secondary endpoints (weeks 20-24)                          | Secondary endpoints (weeks 20-24)       | Secondary endpoints (weeks 20-24) |
-| Reduction in the daily OCS dose to 0 mg/d                  | 10 (14%)                                | 5 (8%)                            |
-| Odds ratio (95% CI)                                        | 1.67 (0.49, 5.75)                       |                                   |
-| p-value                                                    | 0. 414                                  |                                   |
-| Reduction in the daily OCS dose to ≤5mg/day                | 37 (54%)                                | 21 (32%)                          |
-| Odds ratio (95% CI)                                        | 2.45 (1.12, 5.37)                       |                                   |
-| p-value                                                    | 0.025                                   |                                   |
-| Median %reduction in daily OCS dose from baseline (95% CI) | 50.0 (20.0, 75.0)                       | 0.0 (-20.0, 33.3)                 |
-| Median difference (95% CI)                                 | -30.0 (-66.7, 0.0)                      |                                   |
-| p-value                                                    | 0.007                                   |                                   |
-
-## Open-label extension studies in severe refractory eosinophilic asthma MEA115666 (COLUMBA), MEA115661 (COSMOS) and 201312 (COSMEX)
-
-The long-term efficacy profile of mepolizumab in severe refractory eosinophilic asthma patients (n=998) treated for a median of 2.8 years (range 4 weeks to 4.5 years) in open-label extension studies MEA115666, MEA115661 and 201312 was generally consistent with the 3 placebo-controlled studies.
-
-## Chronic rhinosinusitis with nasal polyps (CRSwNP)
-
-Study 205687 (SYNAPSE) was a 52-week, randomised, double-blind, placebo-controlled study which evaluated 407 patients aged 18 years and older with CRSwNP.
-
-Patients enrolled in the study were required to have a nasal obstruction VAS (Visual Analogue Scale) symptom score of &gt;5 out of a maximum score of 10, an overall VAS symptom score &gt;7 out of a maximum score of 10 and an endoscopic bilateral NP score of  5 out of a maximum score of 8 (with a minimum score of 2 in each nasal cavity). Patients must also have had a history of at least one prior surgery for nasal polyps in the previous 10 years.
-
-Key baseline characteristics included total endoscopic NP score mean (SD) 5.5 (1.29), nasal obstruction VAS score mean (SD) 9.0 (0.83), overall VAS symptom score mean (SD) 9.1 (0.74), loss of smell VAS score mean (SD) 9.7 (0.72) and Sino-Nasal Outcome Test (SNOT-22) mean (SD) 64.1 (18.32). The geometric mean eosinophil count was 390 cells/mcL (95% CI: 360, 420). In addition, 27% of patients had aspirin-exacerbated respiratory disease (AERD) and 48% of patients had at least 1 course of OCS for CRSwNP in the past 12 months.
-
-Patients received a 100 mg dose of mepolizumab or placebo, administered subcutaneously once every 4 weeks in addition to background intranasal corticosteroid therapy.
-
-The co-primary endpoints were change from baseline in total endoscopic NP score at week 52 and change from baseline in mean nasal obstruction VAS score during weeks 49-52. The key secondary endpoint was the time to first NP surgery up to Week 52 (surgery was defined as any procedure involving instruments resulting in incision and removal of tissue [e.g. polypectomy] in the nasal cavity). Patients who received mepolizumab had significantly greater improvements (decreases) in
-
-<div style=\"page-break-after: always\"></div>
-
-total endoscopic NP score at Week 52 and in nasal obstruction VAS score during weeks 49-52 compared to placebo, and all secondary endpoints were statistically significant in favour of mepolizumab (see Table 5 and Figure 1).
-
-Table 5: Summary of results for primary and secondary endpoints (intent to treat population)
-
-|                                                                                                                                                                       | Placebo (N=201)                           | Mepolizumab 100 mg SC (N=206)                                          |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|------------------------------------------------------------------------|
-| Co-primary endpoints                                                                                                                                                  |                                           |                                                                        |
-| Total endoscopic score at week 52 a                                                                                                                                   |                                           |                                                                        |
-| Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c ≥1 -point improvement, n (%)                               | 6.0 (0, 8) 0.0 57 (28)                    | 5.0 (2, 8) -1.0 <0.001 -0.73 (-1.11, -0.34) 104 (50)                   |
-| ≥2 -point improvement, n (%)                                                                                                                                          | 26 (13)                                   | 74 (36)                                                                |
-| Nasal obstruction VAS score (weeks 49 to 52) a                                                                                                                        |                                           |                                                                        |
-| Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c >1-point improvement, n (%) ≥3 -point improvement, n (%) d | 9.14 (5.31, 10.00) -0.82 100 (50) 73 (36) | 9.01 (6.54, 10.00) -4.41 <0.001 -3.14 (-4.09, -2.18) 146 (71) 124 (60) |
-| Key secondary endpoint                                                                                                                                                |                                           |                                                                        |
-| Time to first nasal polyps surgery                                                                                                                                    |                                           |                                                                        |
-| Participants with surgery                                                                                                                                             | 46 (23)                                   | 18 (9)                                                                 |
-| Hazard ratio (Mepolizumab/Placebo) (95% CI) e                                                                                                                         |                                           | 0.43 (0.25, 0.76)                                                      |
-| p-value e                                                                                                                                                             |                                           | 0.003                                                                  |
-| Other secondary endpoints                                                                                                                                             |                                           |                                                                        |
-| Overall VAS score (Weeks 49-52) a                                                                                                                                     |                                           |                                                                        |
-| Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c ≥2.5 -point improvement (%) f                              | 9.20 (7.21, 10.00) -0.90 40               | 9.12 (7.17, 10.00) -4.48 <0.001 -3.18 (-4.10, -2.26) 64                |
-| SNOT-22 total score at week 52 a, g                                                                                                                                   |                                           |                                                                        |
-| n Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c ≥ 28-point improvement (%) f                             | 198 64.0 (19, 110) -14.0 32               | 205 64.0 (17, 105) -30.0 <0.001 -16.49 (-23.57, -9.42) 54              |
-
-<div style=\"page-break-after: always\"></div>
-
-| Patients requiring systemic corticosteroids for nasal polyps up to Week 52                                                             | Patients requiring systemic corticosteroids for nasal polyps up to Week 52   | Patients requiring systemic corticosteroids for nasal polyps up to Week 52   |
-|----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| Number of patients with ≥1 course Odds Ratio to Placebo (95% CI) h p-value h                                                           | 74 (37)                                                                      | 52 (25) 0.58 (0.36, 0.92) 0.020                                              |
-| Composite VAS score - nasal symptoms (Weeks 49-52) a, i                                                                                | Composite VAS score - nasal symptoms (Weeks 49-52) a, i                      | Composite VAS score - nasal symptoms (Weeks 49-52) a, i                      |
-| Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c ≥ 2-point improvement (%) f | 9.18 (6.03, 10.00) -0.89 40                                                  | 9.11 (4.91, 10.00) -3.96 <0.001 -2.68 (-3.44, -1.91) 66                      |
-| Loss of smell VAS score (Weeks 49-52) a                                                                                                | Loss of smell VAS score (Weeks 49-52) a                                      | Loss of smell VAS score (Weeks 49-52) a                                      |
-| Median score at baseline (min, max) Median change from baseline p-value b Difference in medians (95% CI) c ≥ 3-point improvement (%) f | 9.97 (6.69, 10.00) 0.00 19                                                   | 9.97 (0.94, 10.00) -0.53 <0.001 -0.37 (-0.65, -0.08) 36                      |
-
-a Patients with nasal surgery/sinuplasty prior to visit assigned their worst observed score prior to nasal surgery/sinuplasty. Those who withdrew from study with no nasal surgery/sinuplasty assigned their worst observed score prior to study withdrawal.
-
-b  Based on Wilcoxon rank-sum test.
-
-c Quantile regression with covariates of treatment group, geographic region, baseline score and log(e) baseline blood eosinophil count.
-
-d A three-point improvement in nasal obstruction VAS has been identified as a meaningful withinpatient change for this assessment.
-
-e Estimated from a Cox Proportional Hazards Model with covariates of treatment group, geographic region, baseline total endoscopic score (centrally read), baseline nasal obstruction
-
-VAS, log(e) baseline blood eosinophil count and number of previous surgeries (1, 2, &gt;2 as ordinal).
-
-f Threshold for improvement has been identified as a meaningful within-patient change for this assessment g  Improvement seen in all 6 domains of symptoms and impact associated with CRSwNP.
-
-h Analysis using logistic regression model with covariates of treatment group, geographic region, number of OCS courses for NP in last 12 months (0, 1, &gt;1 as ordinal), baseline total Endoscopic Nasal Polyps score (centrally read), baseline nasal obstruction VAS score and log(e) baseline blood eosinophil count.
-
-i Composite VAS score of nasal obstruction, nasal discharge, mucus in the throat and loss of smell.
-
-## Time to first NP surgery
-
-Across the 52-week treatment period, patients in the mepolizumab group had a lower probability of undergoing NP surgery than patients in the placebo group. The risk of surgery over the treatment period was significantly lower by 57% for patients treated with mepolizumab compared with placebo (Hazard Ratio: 0.43; 95% CI 0.25, 0.76; p=0.003).
-
-<div style=\"page-break-after: always\"></div>
-
-Figure 1: Kaplan Meier Curve for Time to First Nasal Polyps Surgery
-
-<!-- image -->
-
-A post-hoc analysis of the proportion of patients with surgery showed a 61% reduction in the odds of surgery versus placebo (OR: 0.39, 95% CI: 0.21, 0.72; p= 0.003).
-
-## CRSwNP patients with co-morbid asthma
-
-In 289 (71%) patients with co-morbid asthma, pre-specified analyses showed improvements in the coprimary endpoints consistent with those seen in the overall population in the patients who received mepolizumab 100 mg compared with placebo. Additionally in these patients, there was a greater improvement from baseline at Week 52 in asthma control as measured by the Asthma Control Questionnaire (ACQ-5) for mepolizumab 100 mg compared with placebo (median change [Q1, Q3] of -0.80 [-2.20, 0.00] and 0.00 [-1.10, 0.20], respectively).
-
-## Eosinophilic granulomatosis with polyangiitis (EGPA)
-
-MEA115921 was a randomised, double-blind, placebo-controlled, 52-week study which evaluated 136 adult patients with EGPA, who had a history of relapsing or refractory disease, and who were on stable oral corticosteroid therapy (OCS; ≥7.5 to  50 mg/day prednisolone/prednisone), with or without stable immunosuppressant therapy (excluding cyclophosphamide). Other background standard of care therapy was allowed during the study. Fifty-three percent (n=72) were also on concomitant stable immunosuppressant therapy. Patients with organ threatening or life- threatening EGPA were excluded from study MEA115921.
-
-Patients either received a 300 mg dose of mepolizumab or placebo administered subcutaneously once every 4 weeks in addition to their background prednisolone/prednisone with or without immunosuppressive therapy. The OCS dose was tapered at the discretion of the investigator.
-
-<div style=\"page-break-after: always\"></div>
-
-## Remission
-
-The co- primary endpoints were the total accrued duration of remission, defined as a Birmingham Vasculitis Activity Score (BVAS) =0 plus prednisolone/prednisone dose ≤4 mg/day, and the proportion of patients in remission at both 36 and 48 weeks of treatment. BVAS=0 represents no active vasculitis.
-
-Compared with placebo, patients receiving mepolizumab 300 mg achieved a significantly greater accrued time in remission. Additionally, compared to placebo, a significantly higher proportion of patients receiving mepolizumab 300 mg achieved remission at both Week 36 and Week 48 (Table 6).
-
-For both co-primary endpoints, compared with placebo, the beneficial effect observed following mepolizumab 300 mg treatment was present irrespective of if patients were receiving immunosuppressant therapy in addition to background corticosteroids.
-
-Using the secondary endpoint remission definition of BVAS=0 plus prednisolone/prednisone ≤7.5 mg/day, patients receiving mepolizumab 300 mg also achieved significantly greater accrued time in remission (p&lt;0.001), and a higher proportion of patients were in remission at both Week 36 and Week 48 (p&lt;0.001), compared to placebo.
-
-Table 6:  Analyses of Co-Primary Endpoints
-
-|                                                 | Number (%) of patients   | Number (%) of patients   |
-|-------------------------------------------------|--------------------------|--------------------------|
-|                                                 | Placebo N=68             | Mepolizumab 300mg N=68   |
-| Accrued Duration of Remission Over 52 Weeks     |                          |                          |
-| 0                                               | 55 (81)                  | 32 (47)                  |
-| >0 to <12 weeks                                 | 8 (12)                   | 8 (12)                   |
-| 12 to <24 weeks                                 | 3 (4)                    | 9 (13)                   |
-| 24 to <36 weeks                                 | 0                        | 10 (15)                  |
-|  36 weeks                                      | 2 (3)                    | 9 (13)                   |
-| Odds ratio (mepolizumab/placebo) 95% CI p-value | --- ---                  | 5.91 2.68, 13.03 <0.001  |
-| Patients in remission at Weeks 36 and 48        | 2 (3)                    | 22 (32)                  |
-| Odds ratio (mepolizumab/placebo) 95% CI p-value | --- ---                  | 16.74 3.61, 77.56 <0.001 |
-
-An odds ratio &gt;1 favours Nucala. Remission: BVAS=0 and OCS dose ≤ 4mg / day.
-
-## Relapse
-
-Compared with placebo, the time to first relapse was significantly longer for patients receiving mepolizumab 300 mg (p&lt;0.001). Additionally, patients receiving mepolizumab had a 50% reduction in annualised relapse rate compared with placebo: 1.14 vs 2.27, respectively.
-
-## Oral corticosteroid reduction
-
-Patients treated with mepolizumab had a significantly lower average daily OCS during Weeks 48-52 compared with patients who received placebo. During Weeks 48 to 52, 59% and 44% of patients treated with mepolizumab achieved an average daily OCS dose of  7.5 mg and  4 mg respectively compared with 33% and 7% in the placebo group. 18% of patients in the mepolizumab group were able to taper off OCS completely compared with 3% in the placebo group.
-
-<div style=\"page-break-after: always\"></div>
-
-## Asthma Control Questionnaire -6 (ACQ-6)
-
-Patients treated with mepolizumab had significant improvements in mean ACQ 6 score during Weeks 49-52 compared with patients who received placebo.
-
-## Hypereosinophilic syndrome (HES)
-
-Study 200622 was a randomised, double-blind, placebo-controlled, 32-week study which evaluated 108 patients ≥12 years old with HES. Patients received 300 mg of mepolizumab, or placebo administered subcutaneously once every 4 weeks while continuing their HES therapy. In study 200622, HES therapy included but was not limited to OCS, immunosuppressive, cytotoxic therapy or other symptomatic therapies associated with HES such as omeprazole.
-
-Patients entering the study had experienced at least two HES flares within the past 12 months and had a blood eosinophil count ≥1000 cells/  L during screening. Patients who were FIP1L1PDGFRα kinase-positive were excluded from the study.
-
-The primary endpoint of study 200622 was the proportion of patients who experienced a HES flare during the 32-week treatment period. A HES flare was defined as worsening of clinical signs and symptoms of HES resulting in the need to increase OCS or increase/add cytotoxic or immunosuppressive HES therapy or receiving blinded active OCS due to increased blood eosinophils (on ≥ 2 occasions) .
-
-The primary analysis compared patients who experienced a HES flare or withdrew from the study in the mepolizumab and placebo treatment groups. Over the 32-week treatment period, 50% fewer patients experienced a HES flare or withdrew from the study when treated with 300 mg mepolizumab compared with placebo; 28% versus 56% respectively (OR 0.28, 95% CI: 0.12, 0.64) (see Table 7). Secondary endpoints were time to first HES flare, proportion of patients who experienced a HES flare during Week 20 through Week 32, rate of HES flares and change from baseline in fatigue severity. All secondary endpoints were statistically significant and provided support for the primary endpoint (see Figure 2 and Table 8).
-
-Table 7: Results of primary endpoint/analysis in the Intent to Treat population (Study 200622)
-
-|                                                           | Mepolizumab 300 mg N= 54                           | Placebo N= 54                                      |
-|-----------------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
-| Proportion of patients who experienced a HES flare        | Proportion of patients who experienced a HES flare | Proportion of patients who experienced a HES flare |
-| Patients with ≥1 HES flare or who withdrew from study (%) | 15 (28)                                            | 30 (56)                                            |
-| Patients with ≥1 HES flare (%)                            | 14 (26)                                            | 28 (52)                                            |
-| Patients with no HES flare who withdrew (%)               | 1 (2)                                              | 2 (4)                                              |
-| Odds ratio (95% CI)                                       | 0.28 (0.12, 0.64)                                  |                                                    |
-| CMHp-value                                                | 0.002                                              |                                                    |
-
-CMH =Cochran-Mantel-Haenszel
-
-## Time to first flare
-
-Patients who received 300 mg mepolizumab had a significant increase in the time to first HES flare compared with placebo. The risk of first HES flare over the treatment period was 66 % lower for patients treated with Nucala compared with placebo (Hazard Ratio: 0.34; 95 % CI 0.18, 0.67; p=0.002).
-
-<div style=\"page-break-after: always\"></div>
-
-Figure 2: Kaplan Meier Curve for Time to First HES Flare
-
-Time to Event (Weeks)
-
-<!-- image -->
-
-Table 8: Results of other secondary endpoints in the Intent to Treat population (Study 200622)
-
-|                                                                                                                                                   | Mepolizumab 300 mg N= 54                                                                                                                          | Placebo N= 54                                                                                                                                     |
-|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| HES flares during week 20 and up to and including week 32                                                                                         | HES flares during week 20 and up to and including week 32                                                                                         | HES flares during week 20 and up to and including week 32                                                                                         |
-| Patients with ≥1 HES flare or who withdrew from study (%)                                                                                         | 9 (17)                                                                                                                                            | 19 (35)                                                                                                                                           |
-| Odds ratio (95% CI)                                                                                                                               | 0.33 (0.13, 0.85)                                                                                                                                 | 0.33 (0.13, 0.85)                                                                                                                                 |
-| CMHp-value                                                                                                                                        | 0.02                                                                                                                                              | 0.02                                                                                                                                              |
-| Rate of HES flares                                                                                                                                | Rate of HES flares                                                                                                                                | Rate of HES flares                                                                                                                                |
-| Estimated mean rate/year                                                                                                                          | 0.50                                                                                                                                              | 1.46                                                                                                                                              |
-| Rate ratio (95% CI) a                                                                                                                             | 0.34 (0.19, 0.63)                                                                                                                                 | 0.34 (0.19, 0.63)                                                                                                                                 |
-| Wilcoxon Rank Sum Test p-value                                                                                                                    | 0.002                                                                                                                                             | 0.002                                                                                                                                             |
-| Change from baseline in fatigue severity based on Brief Fatigue Inventory (BFI) Item 3 (worst level of fatigue during past 24 hours) at week 32 b | Change from baseline in fatigue severity based on Brief Fatigue Inventory (BFI) Item 3 (worst level of fatigue during past 24 hours) at week 32 b | Change from baseline in fatigue severity based on Brief Fatigue Inventory (BFI) Item 3 (worst level of fatigue during past 24 hours) at week 32 b |
-| Median change in BFI item 3                                                                                                                       | -0.66                                                                                                                                             | 0.32                                                                                                                                              |
-| Comparison (mepolizumab vs. placebo) Wilcoxon Rank Sum Test p-value                                                                               | 0.036                                                                                                                                             |                                                                                                                                                   |
-
-<div style=\"page-break-after: always\"></div>
-
-## Open-label extension (OLE)
-
-Study 205203 was a 20-week open-label extension of Study 200622. HES therapy was allowed to be adjusted per local standard of care while maintaining mepolizumab 300 mg treatment starting at Week 4. In this study the effect of treatment with mepolizumab on the reduction of HES flares reported during Study 200622 was sustained for patients who continued mepolizumab treatment in study 205203, in which 94% (47/50) of patients did not experience a flare.
-
-In the 72 patients requiring OCS during Weeks 0 to 4 of the OLE, 28% of patients achieved a mean daily dose OCS dose reduction of  50% during Weeks 16 to 20.
-
-## Paediatric population
-
-## Severe refractory eosinophilic asthma
-
-In MEA115588 and in the double-blind placebo-controlled study 200862, there were 34 adolescents (12 to 17 years old). Of these 34 subjects: 12 received placebo, 9 received mepolizumab 75 mg intravenously, and 13 received 100 mg subcutaneously. In a combined analysis of these studies, a 40% reduction in clinically significant exacerbations was observed in adolescents following mepolizumab treatment compared to placebo (rate ratio 0.60; 95% CI: 0.17, 2.10).
-
-## Eosinophilic granulomatosis with polyangiitis (EGPA)
-
-The are no clinical data available in children and adolescents aged 6 to 17 years old.
-
-## HES
-
-Four adolescents (12 to 17 years old) were enrolled in study 200622; one adolescent received mepolizumab 300 mg, and 3 adolescents received placebo for 32 weeks. The one adolescent treated with mepolizumab in the 32-week Study 200622 did not have a HES flare. All 4 adolescents that completed study 200622 continued into a 20-week open-label extension study 205203 in which one of the 4 adolescents experienced one HES flare.
-
-## 5.2 Pharmacokinetic properties
-
-Following subcutaneous dosing in patients with asthma and CRSwNP, mepolizumab exhibited approximately dose-proportional pharmacokinetics over a dose range of 12.5 mg to 250 mg. Subcutaneous administration of mepolizumab 300 mg had approximately three times the systemic exposure of mepolizumab 100 mg.
-
-## Absorption
-
-Following subcutaneous administration to healthy subjects or patients with asthma, mepolizumab was absorbed slowly with a median time to reach maximum plasma concentration (Tmax) ranging from 4 to 8 days.
-
-Following a single subcutaneous administration in the abdomen, thigh or arm of healthy subjects, mepolizumab absolute bioavailability was 64%, 71% and 75%, respectively. In patients with asthma the absolute bioavailability of mepolizumab administered subcutaneously in the arm ranged from 7480%. Following repeat subcutaneous administration every 4 weeks, there is approximately a two-fold accumulation at steady state.
-
-## Distribution
-
-Following a single intravenous administration to patients with asthma, mepolizumab distributes into a mean volume of distribution of 55 to 85 mL/kg.
-
-<div style=\"page-break-after: always\"></div>
-
-## Biotransformation
-
-Mepolizumab is a humanised IgG1 monoclonal antibody degraded by proteolytic enzymes which are widely distributed in the body and not restricted to hepatic tissue.
-
-## Elimination
-
-Following a single intravenous administration to patients with asthma, the mean systemic clearance (CL) ranged from 1.9 to 3.3 mL/day/kg, with a mean terminal half-life of approximately 20 days. Following subcutaneous administration of mepolizumab the mean terminal half-life (t1/2) ranged from 16 to 22 days. In the population pharmacokinetic analysis estimated mepolizumab systemic clearance was 3.1 mL/day/kg.
-
-## Special populations
-
-## Elderly patients ( ≥ 65 years old)
-
-There are limited pharmacokinetic data available in elderly patients (≥65 years old) across all clinical studies (N=90). However, in the population pharmacokinetic analysis, there were no indications of an effect of age on the pharmacokinetics of mepolizumab over the age range of 12 to 82 years.
-
-## Renal impairment
-
-No formal studies have been conducted to investigate the effect of renal impairment on the pharmacokinetics of mepolizumab. Based on population pharmacokinetic analyses, no dose adjustment is required in patients with creatinine clearance values between 50-80 mL/min. There are limited data available in patients with creatinine clearance values &lt;50 mL/min.
-
-## Hepatic impairment
-
-No formal studies have been conducted to investigate the effect of hepatic impairment on the pharmacokinetics of mepolizumab. Since mepolizumab is degraded by widely distributed proteolytic enzymes, not restricted to hepatic tissue, changes in hepatic function are unlikely to have any effect on the elimination of mepolizumab.
-
-## Paediatric population
-
-## Severe eosinophilic asthma and HES
-
-There are limited pharmacokinetic data available in the paediatric population (59 patients with eosinophilic esophagitis, 55 patients with severe refractory eosinophilic asthma and 1 patient with HES). Intravenous mepolizumab pharmacokinetics was evaluated by population pharmacokinetic analysis in a paediatric study conducted in patients aged 2 -17 years old with eosinophilic esophagitis. Paediatric pharmacokinetics was largely predictable from adults, after taking into account bodyweight. Mepolizumab pharmacokinetics in adolescent patients with severe refractory eosinophilic asthma or HES included in the phase 3 studies were consistent with adults (see section 4.2).
-
-Paediatric pharmacokinetics following subcutaneous administration in patients 6 to 11 years old with severe refractory eosinophilic asthma was investigated in an open label, uncontrolled study of 12weeks duration. Paediatric pharmacokinetics were broadly consistent with adults and adolescents after accounting for bodyweight and bioavailability. The absolute subcutaneous bioavailability appears complete compared to that observed in adults and adolescents of 76%. Exposure following
-
-<div style=\"page-break-after: always\"></div>
-
-subcutaneous administration of either 40 mg (for a weight &lt; 40kg) or 100 mg (for a weight ≥ 40 kg) was 1.32 and 1.97 times of that observed in adults at 100 mg.
-
-Investigation of a 40 mg subcutaneous dosing regimen administered every 4 weeks in children 6 to 11 years old over a 15-70 kg broad weight range by PK modelling and simulation predicts that the exposure of this dosing regimen would remain on average within 38% of adults at 100 mg. This dosing regimen is considered acceptable due to the wide therapeutic index of mepolizumab.
-
-## EGPA
-
-Mepolizumab pharmacokinetics in children (6 to 17 years old) with EGPA were predicted using modelling and simulation, based on pharmacokinetics in other eosinophilic diseases, and are expected to be consistent with those observed in children with severe eosinophilic asthma. The recommended posology in children 6 to 11 years old over a 15-70 kg broad weight range predicts that the exposure would remain on average within 26% of adults at 300 mg.
-
-## 5.3 Preclinical safety data
-
-As mepolizumab is a monoclonal antibody, no genotoxicity or carcinogenicity studies have been conducted.
-
-## Animal toxicology and/or pharmacology
-
-Non-clinical data reveal no special hazards for humans based on conventional studies of safety pharmacology or repeated dose toxicity studies in monkeys. Intravenous and subcutaneous administration to monkeys was associated with reductions in peripheral and lung eosinophil counts, with no toxicological findings.
-
-Eosinophils are thought to be associated with immune system responses to some parasitic infections. Studies conducted in mice treated with anti-IL-5 antibodies or genetically deficient in IL-5 or eosinophils have not shown impaired ability to clear parasitic infections. The relevance of these findings for humans is unknown.
-
-## Fertility
-
-No impairment of fertility was observed in a fertility and general reproduction toxicity study in mice performed with an analogous antibody that inhibits IL-5 in mice. This study did not include a littering or functional offspring assessment.
-
-## Pregnancy
-
-In monkeys, mepolizumab had no effect on pregnancy or on embryonic/fetal and postnatal development (including immune function) of the offspring. Examinations for internal or skeletal malformations were not performed. Data in cynomolgus monkeys demonstrate that mepolizumab crossed the placenta. Concentrations of mepolizumab were about 1.2-2.4 times higher in infants than in mothers for several months post partum and did not affect the immune system of the infants.
-
-## 6. PHARMACEUTICAL PARTICULARS
-
-## 6.1 List of excipients
-
-Sucrose Sodium phosphate dibasic heptahydrate Polysorbate 80
-
-<div style=\"page-break-after: always\"></div>
+Sucrose Sodium phosphate dibasic heptahydrate Polysorbate 80 (E 433)
 
 ## 6.2 Incompatibilities
 
@@ -1774,11 +2017,13 @@ This medicinal product must not be mixed with other medicinal products.
 
 Chemical and physical stability of the reconstituted medicinal product have been demonstrated for 8 hours when stored below 30°C.
 
-From a microbiological point of view, unless the method of reconstitution precludes the risk of microbial contamination, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of user .
+From a microbiological point of view, unless the method of reconstitution precludes the risk of microbial contamination, the product must be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of user .
 
 ## 6.4 Special precautions for storage
 
-Store below 25°C. Do not freeze.
+Store below 25°C.
+
+Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
@@ -1798,7 +2043,9 @@ Not all pack-sizes may be marketed .
 
 ## 6.6 Special precautions for disposal and other handling
 
-Reconstitution should be carried out under aseptic conditions.
+Reconstitution must be carried out under aseptic conditions.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Instructions for reconstitution for each vial
 
@@ -1806,13 +2053,8 @@ Reconstitution should be carried out under aseptic conditions.
 
 Note: The reconstituted solution must not be shaken during the procedure as this may lead to product foaming or precipitation. Reconstitution is typically complete within 5 minutes after the sterile water has been added, but it may take additional time.
 
-2. If a mechanical reconstitution device (swirler) is used to reconstitute Nucala, reconstitution can
-
-<div style=\"page-break-after: always\"></div>
-
-be accomplished by swirling at 450 rpm for no longer than 10 minutes. Alternatively, swirling at 1 000 rpm for no longer than 5 minutes is acceptable.
-
-3. Following reconstitution, Nucala should be visually inspected for particulate matter and clarity prior to use.  The solution should be clear to opalescent, and colourless to pale yellow or pale brown, free of visible particles. Small air bubbles, however, are expected and acceptable. If particulate matter remains in the solution or if the solution appears cloudy or milky, the solution must not be used.
+2. If a mechanical reconstitution device (swirler) is used to reconstitute Nucala, reconstitution can be accomplished by swirling at 450 rpm for no longer than 10 minutes. Alternatively, swirling at 1 000 rpm for no longer than 5 minutes is acceptable.
+3. Following reconstitution, Nucala must be visually inspected for particulate matter and clarity prior to use. The solution must be clear to opalescent, and colourless to pale yellow or pale brown, free of visible particles. Small air bubbles, however, are expected and acceptable. If particulate matter remains in the solution or if the solution appears cloudy or milky, the solution must not be used.
 4. The reconstituted solution, if not used immediately must be:
 - Protected from sunlight
 - Stored below 30°C, not frozen
@@ -1820,7 +2062,7 @@ be accomplished by swirling at 450 rpm for no longer than 10 minutes. Alternativ
 
 ## Instructions for administration of 100 mg dose
 
-1. For subcutaneous administration, a 1 mL polypropylene syringe fitted with a disposable needle 21 gauge to 27 gauge x 0.5 inch (13 mm) should preferably be used.
+1. For subcutaneous administration, a 1 mL polypropylene syringe fitted with a disposable needle 21 gauge to 27 gauge x 0.5 inch (13 mm) is recommended to be used.
 2. Just prior to administration, remove 1 mL of reconstituted Nucala. Do not shake the reconstituted solution during the procedure as this could lead to product foaming or precipitation.
 3. Administer the 1 mL injection (equivalent to 100 mg mepolizumab) subcutaneously into the upper arm, thigh, or abdomen.
 
@@ -1828,7 +2070,7 @@ If more than one vial is required for administration of the prescribed dosage, r
 
 ## Instructions for administration of 40 mg dose
 
-1. For subcutaneous administration, a 1 mL polypropylene syringe fitted with a disposable needle 21 gauge to 27 gauge x 0.5 inch (13 mm) should preferably be used.
+1. For subcutaneous administration, a 1 mL polypropylene syringe fitted with a disposable needle 21 gauge to 27 gauge x 0.5 inch (13 mm) is recommended to be used.
 2. Just prior to administration, remove 0.4mL of reconstituted Nucala. Do not shake the reconstituted solution during the procedure as this could lead to product foaming or precipitation. Dispose of the remaining solution.
 3. Administer the 0.4mL injection (equivalent to 40 mg mepolizumab) subcutaneously into the upper arm, thigh, or abdomen.
 
@@ -1836,15 +2078,17 @@ If more than one vial is required for administration of the prescribed dosage, r
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 7. MARKETING AUTHORISATION HOLDER
 
-GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 D24 YK11
+
+Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/15/1043/001 EU/1/15/1043/002
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1852,13 +2096,9 @@ Date of first authorisation: 02 December 2015
 
 Date of latest renewal: 10 August 2020
 
-10.
-
-DATE OF REVISION OF THE TEXT
+## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
-
-54
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1933,7 +2173,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## CARTON -PRE-FILLED PEN
+## CARTON - PRE-FILLED PEN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1941,11 +2181,11 @@ Nucala 100 mg solution for injection in pre-filled pen mepolizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each 1 ml pre-filled pen contains 100 mg mepolizumab.
+Each 1 mL pre-filled pen contains 100 mg mepolizumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains: sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80, disodium edetate, water for injections
+Also contains: sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80 (E 433), disodium edetate, water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1983,7 +2223,7 @@ Do not freeze.
 
 Store pen in the original carton in order to protect from light.
 
-Time out of refrigeration should not exceed a maximum of 7 days when protected from light and stored below 30°C.
+Time out of refrigeration must not exceed a maximum of 7 days when protected from light and stored below 30°C.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1996,6 +2236,8 @@ GlaxoSmithKline Trading Services Ltd.
 Citywest Business Campus
 
 Dublin 24
+
+D24 YK11
 
 Ireland
 
@@ -2015,17 +2257,16 @@ Lot
 
 nucala pen
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
-
-PC
-
 <div style=\"page-break-after: always\"></div>
 
-SN NN
+| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|----------------------------------------------|
+
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2039,11 +2280,11 @@ Nucala 100 mg solution for injection in pre-filled pen mepolizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each 1 ml pre-filled pen contains 100 mg mepolizumab.
+Each 1 mL pre-filled pen contains 100 mg mepolizumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains: sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80, disodium edetate, water for injections
+Also contains: sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80 (E 433), disodium edetate, water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2071,9 +2312,9 @@ Keep out of the sight and reach of children.
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
-
 <div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
 
@@ -2081,7 +2322,7 @@ Do not freeze.
 
 Store pen in the original carton in order to protect from light.
 
-Time out of refrigeration should not exceed a maximum of 7 days when protected from light and stored below 30°C.
+Time out of refrigeration must not exceed a maximum of 7 days when protected from light and stored below 30°C.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2094,6 +2335,8 @@ GlaxoSmithKline Trading Services Ltd.
 Citywest Business Campus
 
 Dublin 24
+
+D24 YK11
 
 Ireland
 
@@ -2117,15 +2360,14 @@ nucala pen
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC
+## 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-SN NN
+| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|----------------------------------------------|
+
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2139,11 +2381,11 @@ Nucala 100 mg solution for injection in pre-filled pen mepolizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each 1 ml pre-filled pen contains 100 mg mepolizumab.
+Each 1 mL pre-filled pen contains 100 mg mepolizumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains: sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80, disodium edetate, water for injections
+Also contains: sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80 (E 433), disodium edetate, water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2155,7 +2397,7 @@ Solution for injection in pre-filled pen.
 
 Read the package leaflet before use. Subcutaneous use. For single use only.
 
-## PRESS HERE TO OPEN
+PRESS HERE TO OPEN
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN
 
@@ -2177,7 +2419,7 @@ Do not freeze.
 
 Store pen in the original carton in order to protect from light.
 
-Time out of refrigeration should not exceed a maximum of 7 days when protected from light and stored below 30°C.
+Time out of refrigeration must not exceed a maximum of 7 days when protected from light and stored below 30°C.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2191,6 +2433,8 @@ Citywest Business Campus
 
 Dublin 24
 
+D24 YK11
+
 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
@@ -2201,15 +2445,15 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 nucala pen
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2255,15 +2499,15 @@ Nucala 100 mg solution for injection in pre-filled syringe mepolizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each 1 ml pre-filled syringe contains 100 mg mepolizumab.
+Each 1 mL pre-filled syringe contains 100 mg mepolizumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains: sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80, disodium edetate, water for injections
+Also contains: sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80 (E 433), disodium edetate, water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection in pre-filled syringe
+Solution for injection in pre-filled syringe
 
 1 pre-filled syringe.
 
@@ -2297,7 +2541,7 @@ Do not freeze.
 
 Store syringe in the original carton in order to protect from light.
 
-Time out of refrigeration should not exceed a maximum of 7 days when protected from light and stored below 30°C.
+Time out of refrigeration must not exceed a maximum of 7 days when protected from light and stored below 30°C.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2311,11 +2555,13 @@ Citywest Business Campus
 
 Dublin 24
 
+D24 YK11
+
 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/15/1043/005
+## EU/1/15/1043/005
 
 ## 13. BATCH NUMBER
 
@@ -2329,23 +2575,22 @@ Lot
 
 nucala 100 mg syringe
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
-
-PC
-
 <div style=\"page-break-after: always\"></div>
 
-SN NN
+| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|----------------------------------------------|
+
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON -FOR PRE-FILLED SYRINGE MULTIPACK (WITH BLUE BOX)
+## OUTER CARTON- FOR PRE-FILLED SYRINGE MULTIPACK (WITH BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2353,11 +2598,11 @@ Nucala 100 mg solution for injection in pre-filled syringe mepolizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each 1 ml pre-filled syringe contains 100 mg mepolizumab.
+Each 1 mL pre-filled syringe contains 100 mg mepolizumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains: sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80, disodium edetate, water for injections
+Also contains: sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80 (E 433), disodium edetate, water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2395,7 +2640,7 @@ Do not freeze.
 
 Store syringe in the original carton in order to protect from light.
 
-Time out of refrigeration should not exceed a maximum of 7 days when protected from light and stored below 30°C.
+Time out of refrigeration must not exceed a maximum of 7 days when protected from light and stored below 30°C.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2408,6 +2653,8 @@ GlaxoSmithKline Trading Services Ltd.
 Citywest Business Campus
 
 Dublin 24
+
+D24 YK11
 
 Ireland
 
@@ -2429,21 +2676,22 @@ Lot
 
 nucala 100 mg syringe
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
+## 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-## PC SN NN
+| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|----------------------------------------------|
+
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON INTERMEDIATE PACKAGING
 
-INTERMEDIATE CARTON -PRE-FILLED SYRINGE MULTIPACK (WITHOUT BLUE BOX)
+INTERMEDIATE CARTON - PRE-FILLED SYRINGE MULTIPACK (WITHOUT BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2451,11 +2699,11 @@ Nucala 100 mg solution for injection in pre-filled syringe mepolizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each 1 ml pre-filled syringe contains 100 mg mepolizumab.
+Each 1 mL pre-filled syringe contains 100 mg mepolizumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains: sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80, disodium edetate, water for injections
+Also contains: sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80 (E 433), disodium edetate, water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2493,7 +2741,7 @@ Do not freeze.
 
 Store syringe in the original carton in order to protect from light.
 
-Time out of refrigeration should not exceed a maximum of 7 days when protected from light and stored below 30°C.
+Time out of refrigeration must not exceed a maximum of 7 days when protected from light and stored below 30°C.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2507,6 +2755,8 @@ Citywest Business Campus
 
 Dublin 24
 
+D24 YK11
+
 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
@@ -2517,15 +2767,15 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 nucala 100 mg syringe
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2571,11 +2821,11 @@ Nucala 40 mg solution for injection in pre-filled syringe mepolizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each 0.4 ml pre-filled syringe contains 40 mg mepolizumab.
+Each 0.4 mL pre-filled syringe contains 40 mg mepolizumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains: sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80, disodium edetate, water for injections
+Also contains: sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80 (E 433), disodium edetate, water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2613,7 +2863,7 @@ Do not freeze.
 
 Store syringe in the original carton in order to protect from light.
 
-Time out of refrigeration should not exceed a maximum of 7 days when protected from light and stored below 30°C.
+Time out of refrigeration must not exceed a maximum of 7 days when protected from light and stored below 30°C.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2626,6 +2876,8 @@ GlaxoSmithKline Trading Services Ltd.
 Citywest Business Campus
 
 Dublin 24
+
+D24 YK11
 
 Ireland
 
@@ -2645,23 +2897,22 @@ Lot
 
 nucala 40 mg syringe
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
-
-PC
-
 <div style=\"page-break-after: always\"></div>
 
-SN NN
+| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|----------------------------------------------|
+
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON -FOR PRE-FILLED SYRINGE MULTIPACK (WITH BLUE BOX)
+## OUTER CARTON- FOR PRE-FILLED SYRINGE MULTIPACK (WITH BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2669,11 +2920,11 @@ Nucala 40 mg solution for injection in pre-filled syringe mepolizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each 0.4 ml pre-filled syringe contains 40 mg mepolizumab.
+Each 0.4 mL pre-filled syringe contains 40 mg mepolizumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains: sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80, disodium edetate, water for injections
+Also contains: sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80 (E 433), disodium edetate, water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2709,7 +2960,7 @@ Do not freeze.
 
 Store syringe in the original carton in order to protect from light.
 
-Time out of refrigeration should not exceed a maximum of 7 days when protected from light and stored below 30°C.
+Time out of refrigeration must not exceed a maximum of 7 days when protected from light and stored below 30°C.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2722,6 +2973,8 @@ GlaxoSmithKline Trading Services Ltd.
 Citywest Business Campus
 
 Dublin 24
+
+D24 YK11
 
 Ireland
 
@@ -2741,13 +2994,14 @@ Lot
 
 nucala 40 mg syringe
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
-
 <div style=\"page-break-after: always\"></div>
+
+| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|----------------------------------------------|
 
 PC SN NN
 
@@ -2755,7 +3009,7 @@ PC SN NN
 
 ## PARTICULARS TO APPEAR ON INTERMEDIATE PACKAGING
 
-INTERMEDIATE CARTON -PRE-FILLED SYRINGE MULTIPACK (WITHOUT BLUE BOX)
+INTERMEDIATE CARTON - PRE-FILLED SYRINGE MULTIPACK (WITHOUT BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2763,11 +3017,11 @@ Nucala 40 mg solution for injection in pre-filled syringe mepolizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each 0.4 ml pre-filled syringe contains 40 mg mepolizumab.
+Each 0.4 mL pre-filled syringe contains 40 mg mepolizumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains: sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80, disodium edetate, water for injections
+Also contains: sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80 (E 433), disodium edetate, water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2805,7 +3059,7 @@ Do not freeze.
 
 Store syringe in the original carton in order to protect from light.
 
-Time out of refrigeration should not exceed a maximum of 7 days when protected from light and stored below 30°C.
+Time out of refrigeration must not exceed a maximum of 7 days when protected from light and stored below 30°C.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2818,6 +3072,8 @@ GlaxoSmithKline Trading Services Ltd.
 Citywest Business Campus
 
 Dublin 24
+
+D24 YK11
 
 Ireland
 
@@ -2835,9 +3091,9 @@ Lot
 
 nucala 40 mg syringe
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2875,7 +3131,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON (INDIVIDUAL PACKS INCLUDING BLUE BOX)
+## CARTON (INDIVIDUAL PACKS INCLUDING BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2883,11 +3139,11 @@ Nucala 100 mg powder for solution for injection mepolizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each vial contains 100 mg mepolizumab (100 mg/ml after reconstitution)
+Each vial contains 100 mg mepolizumab (100 mg/mL after reconstitution)
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: Sucrose, sodium phosphate dibasic heptahydrate and polysorbate 80
+Excipients: Sucrose, sodium phosphate dibasic heptahydrate and polysorbate 80 (E 433)
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2913,9 +3169,11 @@ For single use only.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 25  C.
+Store below 25 ° C.
 
 Do not freeze.
 
@@ -2932,6 +3190,8 @@ GlaxoSmithKline Trading Services Ltd.
 Citywest Business Campus
 
 Dublin 24
+
+D24 YK11
 
 Ireland
 
@@ -2955,21 +3215,18 @@ Justification for not including Braille accepted
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC
-
-SN
-
 <div style=\"page-break-after: always\"></div>
 
-NN
+| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|----------------------------------------------|
+
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON OUTER PACKAGING
 
-## MULTIPACK CARTON (3 PACKS OF 1 VIAL -WITH BLUE BOX)
+## MULTIPACK CARTON (3 PACKS OF 1 VIAL - WITH BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2977,11 +3234,11 @@ Nucala 100 mg powder for solution for injection mepolizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each vial contains 100 mg mepolizumab (100 mg/ml after reconstitution)
+Each vial contains 100 mg mepolizumab (100 mg/mL after reconstitution)
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: Sucrose, sodium phosphate dibasic heptahydrate and polysorbate 80
+Excipients: Sucrose, sodium phosphate dibasic heptahydrate and polysorbate 80 (E 433)
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -3007,9 +3264,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 25  C.
-
-<div style=\"page-break-after: always\"></div>
+Store below 25 ° C.
 
 Do not freeze.
 
@@ -3027,6 +3282,8 @@ Citywest Business Campus
 
 Dublin 24
 
+D24 YK11
+
 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
@@ -3037,31 +3294,32 @@ EU/1/15/1043/002
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
+<div style=\"page-break-after: always\"></div>
+
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+<div style=\"page-break-after: always\"></div>
 
-PC
+| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|----------------------------------------------|
 
-SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON (MULTIPACK ONLY WITHOUT BLUE BOX)
+## CARTON (MULTIPACK ONLY WITHOUT BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3069,11 +3327,11 @@ Nucala 100 mg powder for solution for injection mepolizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each vial contains 100 mg mepolizumab (100 mg/ml after reconstitution)
+Each vial contains 100 mg mepolizumab (100 mg/mL after reconstitution)
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: Sucrose, sodium phosphate dibasic heptahydrate and polysorbate 80
+Excipients: Sucrose, sodium phosphate dibasic heptahydrate and polysorbate 80 (E 433)
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -3081,9 +3339,7 @@ Powder for solution for injection 1 vial. Component of a multipack, can't be sol
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Subcutaneous use after reconstitution.
-
-Read the package leaflet before use.
+Subcutaneous use after reconstitution. Read the package leaflet before use.
 
 PRESS HERE TO OPEN
 
@@ -3099,11 +3355,11 @@ For single use only.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 25  C.
-
-<div style=\"page-break-after: always\"></div>
+Store below 25 ° C.
 
 Do not freeze.
 
@@ -3121,6 +3377,8 @@ Citywest Business Campus
 
 Dublin 24
 
+D24 YK11
+
 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
@@ -3132,29 +3390,26 @@ EU/1/15/1043/002
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+17. UNIQUE IDENTIFIER - 2D BARCODE
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL                                                       |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+## VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Nucala 100 mg powder for solution for injection mepolizumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -3166,8 +3421,7 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 100 mg
 
@@ -3178,9 +3432,9 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Nucala 100 mg solution for injection in pre-filled pen
 
@@ -3204,13 +3458,13 @@ mepolizumab
 
 ## 1. What Nucala is and what it is used for
 
-Nucala contains the active substance mepolizumab, a monoclonal antibody , a type of protein designed to recognise a specific target substance in the body. It is used to treat severe asthma and EGPA (Eosinophilic Granulomatosis with Polyangiitis) in adults, adolescents and children aged 6 years and older. It is also used to treat CRSwNP (Chronic Rhinosinusitis with Nasal Polyps) and HES (Hypereosinophilic syndrome) in adults.
+Nucala contains the active substance mepolizumab, a monoclonal antibody , a type of protein designed to recognise a specific target substance in the body. It is used to treat severe asthma and EGPA (Eosinophilic Granulomatosis with Polyangiitis) in adults, adolescents and children aged 6 years and older. It is also used to treat CRSwNP (Chronic Rhinosinusitis with Nasal Polyps), COPD (Chronic Obstructive Pulmonary Disease) and HES (Hypereosinophilic syndrome) in adults.
 
 Mepolizumab, the active substance in Nucala, blocks a protein called interleukin-5 . By blocking the action of this protein , it limits the production of eosinophils from the bone marrow and lowers the number of eosinophils in the bloodstream and the lungs.
 
 ## Severe eosinophilic asthma
 
-Some people with severe asthma have too many eosinophils (a type of white blood cell) in the blood and lungs. This condition is called eosinophilic asthma -the type of asthma Nucala can treat.
+Some people with severe asthma have too many eosinophils (a type of white blood cell) in the blood and lungs. This condition is called eosinophilic asthma the type of asthma Nucala can treat.
 
 Nucala can reduce your number of asthma attacks, if you or your child are already using medicines such as high dose inhalers, but your asthma is not well controlled by these medicines. If you are taking medicines called oral corticosteroids, Nucala can also help reduce the daily dose you need to control your asthma.
 
@@ -3224,6 +3478,10 @@ Nucala reduces the number of eosinophils in the blood and can reduce the size of
 
 Nucala can also help reduce the need for oral corticosteroids to control your symptoms.
 
+## Chronic obstructive pulmonary disease (COPD)
+
+Some people with COPD have too many eosinophils (a type of white blood cell) in the blood and lungs, causing the airways to become inflamed and thickened. It is a long-term condition that slowly gets worse. Symptoms include shortness of breath, cough, chest discomfort and coughing up mucus. Nucala reduces the number of eosinophils in the blood and can reduce flare-ups of COPD symptoms.
+
 ## Eosinophilic granulomatosis with polyangiitis (EGPA)
 
 EGPA is a condition where people have too many eosinophils (a type of white blood cell) in the blood and tissues and also have a form of vasculitis . This means there is inflammation of the blood vessels. This condition most commonly affects the lungs and sinuses but often affects other organs such as the skin, heart and kidneys.
@@ -3232,7 +3490,7 @@ Nucala can control and delay a flare-up of these EGPA symptoms. This medicine ca
 
 ## Hypereosinophilic syndrome (HES)
 
-Hypereosinophilic syndrome (HES) is a condition in which there are a high number of eosinophils (a type of blood cell) in the blood. These cells can damage organs in the body, particularly the heart, lungs, nerves and skin .
+Hypereosinophilic syndrome (HES) is a condition in which there are a high number of eosinophils (a type of white blood cell) in the blood. These cells can damage organs in the body, particularly the heart, lungs, nerves and skin .
 
 Nucala helps reduce your symptoms and prevents flares. If you are taking medicines often referred to as oral corticosteroids, Nucala can also help reduce the daily dose you need to control your HES symptoms/flares.
 
@@ -3241,17 +3499,17 @@ Nucala helps reduce your symptoms and prevents flares. If you are taking medicin
 ## Do not use Nucala:
 
 - -if you are allergic to mepolizumab or any of the other ingredients of this medicine (listed in section 6).
-- ➔ Check with your doctor if you think this applies to you.
+-  Check with your doctor if you think this applies to you.
 
 ## Warnings and precautions
 
 Talk to your doctor before using this medicine.
 
-## Worsening asthma
+## Worsening asthma or COPD
 
-Some people get asthma-related side effects, or their asthma may become worse, during treatment with Nucala.
+Some people get asthma-related or COPD-related side effects, or their asthma or COPD may become worse, during treatment with Nucala.
 
-- ➔ Tell your doctor or nurse if your asthma remains uncontrolled, or gets worse, after you start Nucala treatment.
+-  Tell your doctor or nurse if your asthma or COPD remains uncontrolled, or gets worse, after you start Nucala treatment.
 
 ## Allergic and injection site reactions
 
@@ -3259,15 +3517,15 @@ Medicines of this type (monoclonal antibodies) can cause severe allergic reactio
 
 If you may have had a similar reaction to any injection or medicine:
 
-- ➔ Tell your doctor before you are given Nucala.
+-  Tell your doctor before you are given Nucala.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Parasitic infections
 
 Nucala may weaken your resistance to infections caused by parasites. If you already have a parasitic infection; it should be treated before you start treatment with Nucala. If you live in a region where these infections are common or if you are travelling to such a region:
 
-- ➔ Check with your doctor if you think any of these may apply to you.
-
-<div style=\"page-break-after: always\"></div>
+-  Check with your doctor if you think any of these may apply to you.
 
 ## Children and adolescents
 
@@ -3277,25 +3535,21 @@ The pre-filled pen is not intended for use in children below 12 years of age for
 
 For children aged 6-11 years, contact your doctor who will prescribe the recommended dose of Nucala which will be administered by a nurse or doctor.
 
-## CRSwNP
+## CRSwNP, COPD and HES
 
-This medicine is not intended for use in children or adolescents below 18 years of age for the treatment of CRSwNP.
+This medicine is not intended for use in children or adolescents below 18 years of age for the treatment of CRSwNP, COPD or HES.
 
 ## EGPA
 
 This medicine is not intended for use in children below 6 years of age for the treatment of EGPA.
 
-## HES
-
-This medicine is not intended for use in adolescents or children below 18 years of age for the treatment of HES.
-
 ## Other medicines and Nucala
 
 Tell your doctor if you are taking, have recently taken or might take any other medicines.
 
-## Other medicines for asthma, CRSwNP, EGPA or HES
+## Other medicines for asthma, CRSwNP, COPD, EGPA or HES
 
--  Don't suddenly stop taking your existing medicines for your asthma, CRSwNP, EGPA or HES once you have started Nucala. These medicines (especially ones called oral corticosteroids ) must be stopped gradually, under the direct supervision of your doctor and dependent on your response to Nucala.
+-  Don't suddenly stop taking your existing medicines for your asthma, CRSwNP, COPD, EGPA or HES once you have started Nucala. These medicines (especially ones called oral corticosteroids ) must be stopped gradually, under the direct supervision of your doctor and dependent on your response to Nucala.
 
 ## Pregnancy and breast-feeding
 
@@ -3307,25 +3561,31 @@ It is not known whether the ingredients of Nucala can pass into breast milk. If 
 
 The possible side effects of Nucala are unlikely to affect your ability to drive or use machines.
 
+## Nucala contains polysorbate
+
+This medicine contains 0.2 mg of polysorbate per 100 mg dose. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
 ## Nucala contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per 100 mg dose, i.e., that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per 100 mg dose, i.e., that is to say essentially 'sodium-free'.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 3. How to use Nucala
 
 Nucala is given by injection just under the skin ( subcutaneous injection ).
 
-Your doctor or nurse will decide if you or your caregiver can inject Nucala. If appropriate, they will then provide training to show you or your caregiver the correct way to use Nucala.
-
-<div style=\"page-break-after: always\"></div>
-
-Nucala must be given to children aged 6 to 11 years by a doctor, nurse or trained caregiver.
+Your doctor or nurse will decide if you or your caregiver can inject Nucala. If appropriate, they will then provide training to show you or your caregiver the correct way to use Nucala. Nucala must be given to children aged 6 to 11 years by a doctor, nurse or trained caregiver.
 
 ## Severe eosinophilic asthma
 
 The recommended dose for adults and adolescents aged 12 years and older is 100 mg. You will have 1 injection every four weeks.
 
 ## CRSwNP
+
+The recommended dose for adults is 100 mg. You will have 1 injection every four weeks.
+
+## COPD
 
 The recommended dose for adults is 100 mg. You will have 1 injection every four weeks.
 
@@ -3343,13 +3603,13 @@ Children weighing less than 40 kg:
 
 The recommended dose is 100 mg. You will have 1 injection every four weeks.
 
-The injection sites should be at least 5 cm apart.
+The injection sites must be at least 5 cm apart.
 
 ## HES
 
 The recommended dose for adults is 300 mg. You will have 3 injections every four weeks.
 
-The injection sites should be at least 5 cm apart.
+The injection sites must be at least 5 cm apart.
 
 Instructions for using the pre-filled pen are given on the other side of this leaflet.
 
@@ -3359,17 +3619,17 @@ If you think you have injected too much Nucala, contact your doctor for advice.
 
 ## If a dose of Nucala is missed
 
-You or your caregiver should inject the next dose of Nucala as soon as you remember. If you do not notice that you have missed a dose until it is already time for your next dose, then just inject the next dose as planned. If you are not sure what to do, ask your doctor, pharmacist or nurse.
+You or your caregiver can inject the next dose of Nucala as soon as you remember. If you do not notice that you have missed a dose until it is already time for your next dose, then just inject the next dose as planned. If you are not sure what to do, ask your doctor, pharmacist or nurse.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Stopping treatment with Nucala
 
 Do not stop injections of Nucala unless your doctor advises you to. Interrupting or stopping the treatment with Nucala may cause your symptoms and attacks to come back.
 
-If your symptoms get worse while receiving injections of Nucala ➔ Call your doctor .
+## If your symptoms get worse while receiving injections of Nucala  Call your doctor .
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
 
@@ -3386,11 +3646,11 @@ Some people may have allergic or allergic-like reactions. These reactions may be
 - swelling of eyelids, face, lips, tongue or mouth
 - hives
 - rash
-- ➔ Seek medical attention immediately if you think you (or your child) may be having a reaction.
+-  Seek medical attention immediately if you think you (or your child) may be having a reaction.
 
-If you may have had a similar reaction to any injection or medicine:
+If you (or your child) may have had a similar reaction to any injection or medicine:
 
-- ➔ Tell your doctor before you (or your child) are given Nucala.
+-  Tell your doctor before you (or your child) are given Nucala.
 
 ## Other side effects include:
 
@@ -3406,6 +3666,7 @@ may affect up to 1 in 10 people
 
 - chest infection - symptoms of which may include cough and fever (high temperature)
 - urinary tract infection (blood in urine, painful and frequent urination, fever, pain in lower back)
+- herpes zoster (shingles)
 - upper abdominal pain (stomach pain or discomfort in the upper area of the stomach)
 - fever (high temperature)
 - eczema (itchy red patches on the skin)
@@ -3415,20 +3676,14 @@ may affect up to 1 in 10 people
 - pharyngitis (sore throat)
 - nasal congestion (stuffy nose)
 
-## Uncommon:
-
-may affect up to 1 in 100 people
-
-- herpes zoster (shingles)
+<div style=\"page-break-after: always\"></div>
 
 ## Rare:
 
 may affect up to 1 in 1 000 people
 
 - severe allergic reactions ( anaphylaxis )
-- ➔ Tell your doctor or a nurse immediately if you get any of these symptoms.
-
-<div style=\"page-break-after: always\"></div>
+-  Tell your doctor or a nurse immediately if you get any of these symptoms.
 
 ## Reporting of side effects
 
@@ -3440,13 +3695,13 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use Nucala after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2  C to 8  C).
+Store in a refrigerator (2 ° C to 8 ° C).
 
 Do not freeze.
 
 Store in the original package in order to protect from light.
 
-The Nucala pre-filled pen can be removed from the refrigerator and kept in its unopened carton for up to 7 days at room temperature (up to 30  C), when protected from light. Discard if left out of the refrigerator for more than 7 days.
+The Nucala pre-filled pen can be removed from the refrigerator and kept in its unopened carton for up to 7 days at room temperature (up to 30 ° C), when protected from light. Discard if left out of the refrigerator for more than 7 days.
 
 ## 6. Contents of the pack and other information
 
@@ -3456,7 +3711,7 @@ The active substance is mepolizumab.
 
 Each 1 mL pre-filled pen contains 100 mg of mepolizumab.
 
-The other ingredients are sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80, disodium edetate, water for injections.
+The other ingredients are sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80 (E 433), disodium edetate, water for injections.
 
 ## What Nucala looks like and contents of the pack
 
@@ -3466,13 +3721,17 @@ Nucala is available in a pack containing 1 pre-filled pen, or in a multipack com
 
 ## Marketing Authorisation Holder
 
-GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24
+
+## D24 YK11
+
+Ireland
+
+<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
 GlaxoSmithKline Manufacturing S.P.A Strada Provinciale Asolana, No 90 43056 San Polo di Torrile, Parma Italy
-
-<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -3482,7 +3741,7 @@ GlaxoSmithKline Pharmaceuticals s.a./n.v. Tél/Tel: + 32 (0) 10 85 52 00
 
 ## България
 
-'Берлин -Хеми/А. Менарини България' EООД Teл.: + 359 2 454 0950 bcsofia@berlin-chemie.com
+' Берлин -Хеми/А. Менарини България' EООД Teл.: + 359 2 454 0950 bcsofia@berlin-chemie.com
 
 ## Česká republika
 
@@ -3494,7 +3753,9 @@ GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
 
 ## Deutschland
 
-GlaxoSmithKline GmbH &amp; Co. KG Tel.: + 49 (0)89 36044 8701 produkt.info@gsk.com
+GlaxoSmithKline GmbH &amp; Co. KG Tel.: + 49 (0)89 36044 8701
+
+produkt.info@gsk.com
 
 ## Eesti
 
@@ -3508,23 +3769,21 @@ GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Τηλ: + 30 210 68 82 100
 
 GlaxoSmithKline, S.A.
 
-Tel: + 34 900 202 700 es-ci@gsk.com
+Tel: + 34 900 202 700
 
-## France
-
-Laboratoire GlaxoSmithKline Tél: + 33 (0)1 39 17 84 44 diam@gsk.com
-
-## Hrvatska
-
-Berlin-Chemie Menarini Hrvatska d.o.o. Tel: +385 1 4821 361 office-croatia@berlin-chemie.com
+es-ci@gsk.com
 
 ## Lietuva
 
-UAB ' BERLIN- CHEMIE MENARINI BALTIC' Tel: + 370 52 691 947 lt@berlin-chemie.com
+UAB 'BERLIN-CHEMIE MENARINI BALTIC' Tel: + 370 52 691 947 lt@berlin-chemie.com
 
 ## Luxembourg/Luxemburg
 
-GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien Tél/Tel: + 32 (0) 10 85 52 00
+GlaxoSmithKline Pharmaceuticals s.a./n.v.
+
+Belgique/Belgien
+
+Tél/Tel: + 32 (0) 10 85 52 00
 
 ## Magyarország
 
@@ -3532,7 +3791,9 @@ Berlin-Chemie/A. Menarini Kft. Tel.: + 36 23501301 bc-hu@berlin-chemie.com
 
 ## Malta
 
-GlaxoSmithKline Trading Services Ltd. Tel: + 356 80065004
+GlaxoSmithKline Trading Services Ltd.
+
+Tel: + 356 80065004
 
 ## Nederland
 
@@ -3542,7 +3803,9 @@ Tel: + 31 (0)33 2081100
 
 ## Norge
 
-GlaxoSmithKline AS Tlf: + 47 22 70 20 00
+GlaxoSmithKline AS
+
+Tlf: + 47 22 70 20 00
 
 ## Österreich
 
@@ -3550,15 +3813,39 @@ GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com
 
 ## Polska
 
-GSK Services Sp. z o.o. Tel.: + 48 (0)22 576 9000
+GSK Services Sp. z o.o.
+
+Tel.: + 48 (0)22 576 9000
+
+## France
+
+Laboratoire GlaxoSmithKline
+
+Tél: + 33 (0)1 39 17 84 44
+
+diam@gsk.com
 
 ## Portugal
 
-GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
+GlaxoSmithKline - Produtos Farmacêuticos, Lda.
+
+Tel: + 351 21 412 95 00
+
+FI.PT@gsk.com
+
+## Hrvatska
+
+Berlin-Chemie Menarini Hrvatska d.o.o.
+
+Tel: +385 1 4821 361
+
+office-croatia@berlin-chemie.com
 
 ## România
 
-GlaxoSmithKline Trading Services Ltd. Tel: + 40 800672524
+GlaxoSmithKline Trading Services Ltd.
+
+Tel: + 40 800672524
 
 ## Ireland
 
@@ -3568,7 +3855,9 @@ Tel: + 353 (0)1 4955000
 
 ## Slovenija
 
-Berlin-Chemie / A. Menarini Distribution Ljubljana d.o.o.
+Berlin-Chemie / A. Menarini Distribution
+
+Ljubljana d.o.o.
 
 Tel: + 386 (0)1 300 2160
 
@@ -3576,15 +3865,13 @@ slovenia@berlin-chemie.com
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: + 354 535 7000
 
 ## Slovenská republika
 
-Berlin-Chemie / A. Menarini Distribution
-
-Slovakia s.r.o.
+Berlin-Chemie / A. Menarini Distribution Slovakia s.r.o.
 
 Tel: + 421 2 544 30 730
 
@@ -3608,19 +3895,15 @@ GlaxoSmithKline Trading Services Ltd. Τηλ: + 357 80070017
 
 ## Sverige
 
-GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
+GlaxoSmithKline AB
+
+Tel: + 46 (0)8 638 93 00
+
+info.produkt@gsk.com
 
 ## Latvija
 
 SIA Berlin-Chemie/Menarini Baltic Tel: + 371 67103210 lv@berlin-chemie.com
-
-## United Kingdom (Northern Ireland)
-
-GlaxoSmithKline Trading Services Ltd.
-
-Tel: + 44 (0)800 221441
-
-customercontactuk@gsk.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3636,7 +3919,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 Administer once every four weeks.
 
-Follow these instructions on how to use the pre-filled pen. Failure to follow these instructions may affect proper function of the pre-filled pen. You should also receive training on how to use the prefilled pen. Nucala pre-filled pen is for use under the skin only (subcutaneous).
+Follow these instructions on how to use the pre-filled pen. Failure to follow these instructions may affect proper function of the pre-filled pen. You must also receive training on how to use the pre-filled pen. Nucala pre-filled pen is for use under the skin only (subcutaneous).
 
 ## How to store Nucala
 
@@ -3649,7 +3932,7 @@ Follow these instructions on how to use the pre-filled pen. Failure to follow th
 
 ## Before you use Nucala
 
-The pre-filled pen should be used only once and then discarded.
+The pre-filled pen must be used only once and then discarded.
 
 - Do not share your Nucala pre-filled pen with another person.
 - Do not shake the pen.
@@ -3764,7 +4047,7 @@ After removal, do not put the needle cap back onto the pen, as it may accidental
 
 Do not lift the pen from your skin at this stage, as that may mean you don't get your full dose of medicine. Your injection may take up to 15 seconds to complete.
 
-Do not use the pen if the yellow needle guard doesn't slide up as described. D ispose of it (see Step 9), and start again with a new pen.
+Do not use the pen if the yellow needle guard doesn't slide up as described. Dispose of it (see Step 9), and start again with a new pen.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3772,11 +4055,11 @@ Do not use the pen if the yellow needle guard doesn't slide up as described. D i
 
 <!-- image -->
 
-- Continue to hold the pen down until you hear the 2nd 'click', and the s topper and yellow indicator have stopped moving and fill the inspection window.
+- Continue to hold the pen down until you hear the 2nd 'click', and the stopper and yellow indicator have stopped moving and fill the inspection window.
 - Continue to hold the pen in place while you count to 5. Then lift the pen away from your skin.
 - If you do not hear the 2 nd 'click':
-- -Check that the inspection window is filled with the yellow indicator.
-- -If you are not sure, hold the pen down for another 15 seconds to make sure the injection is complete.
+-  Check that the inspection window is filled with the yellow indicator.
+-  If you are not sure, hold the pen down for another 15 seconds to make sure the injection is complete.
 
 Do not lift the pen until you are sure you have completed your injection.
 
@@ -3817,13 +4100,13 @@ mepolizumab
 
 ## 1. What Nucala is and what it is used for
 
-Nucala contains the active substance mepolizumab, a monoclonal antibody , a type of protein designed to recognise a specific target substance in the body. It is used to treat severe asthma and EGPA (Eosinophilic Granulomatosis with Polyangiitis) in adults, adolescents and children aged 6 years and older. It is also used to treat CRSwNP (Chronic Rhinosinusitis with Nasal Polyps) and HES (Hypereosinophilic syndrome) in adults.
+Nucala contains the active substance mepolizumab, a monoclonal antibody , a type of protein designed to recognise a specific target substance in the body. It is used to treat severe asthma and EGPA (Eosinophilic Granulomatosis with Polyangiitis) in adults, adolescents and children aged 6 years and older. It is also used to treat CRSwNP (Chronic Rhinosinusitis with Nasal Polyps), COPD (Chronic Obstructive Pulmonary Disease) and HES (Hypereosinophilic syndrome) in adults.
 
 Mepolizumab, the active substance in Nucala, blocks a protein called interleukin-5 . By blocking the action of this protein , it limits the production of eosinophils from the bone marrow and lowers the number of eosinophils in the bloodstream and the lungs.
 
 ## Severe eosinophilic asthma
 
-Some people with severe asthma have too many eosinophils (a type of white blood cell) in the blood and lungs. This condition is called eosinophilic asthma -the type of asthma Nucala can treat.
+Some people with severe asthma have too many eosinophils (a type of white blood cell) in the blood and lungs. This condition is called eosinophilic asthma the type of asthma Nucala can treat.
 
 Nucala can reduce your number of asthma attacks, if you or your child are already using medicines such as high dose inhalers, but your asthma is not well controlled by these medicines. If you are taking medicines called oral corticosteroids, Nucala can also help reduce the daily dose you need to control your asthma.
 
@@ -3836,6 +4119,10 @@ Nucala reduces the number of eosinophils in the blood and can reduce the size of
 <div style=\"page-break-after: always\"></div>
 
 Nucala can also help reduce the need for oral corticosteroids to control your symptoms.
+
+## Chronic obstructive pulmonary disease (COPD)
+
+Some people with COPD have too many eosinophils (a type of white blood cell) in the blood and lungs, causing the airways to become inflamed and thickened. It is a long-term condition that slowly gets worse. Symptoms include shortness of breath, cough, chest discomfort and coughing up mucus. Nucala reduces the number of eosinophils in the blood and can reduce flare-ups of COPD symptoms.
 
 ## Eosinophilic granulomatosis with polyangiitis (EGPA)
 
@@ -3854,17 +4141,17 @@ Nucala helps reduce your symptoms and prevents flares. If you are taking medicin
 ## Do not use Nucala:
 
 - -if you are allergic to mepolizumab or any of the other ingredients of this medicine (listed in section 6).
-- ➔ Check with your doctor if you think this applies to you.
+-  Check with your doctor if you think this applies to you.
 
 ## Warnings and precautions
 
 Talk to your doctor before using this medicine.
 
-## Worsening asthma
+## Worsening asthma or COPD
 
-Some people get asthma-related side effects, or their asthma may become worse, during treatment with Nucala.
+Some people get asthma-related or COPD-related side effects, or their asthma or COPD may become worse, during treatment with Nucala.
 
-- ➔ Tell your doctor or nurse if your asthma remains uncontrolled, or gets worse, after you start Nucala treatment.
+-  Tell your doctor or nurse if your asthma or COPD remains uncontrolled, or gets worse, after you start Nucala treatment.
 
 ## Allergic and injection site reactions
 
@@ -3872,15 +4159,15 @@ Medicines of this type (monoclonal antibodies) can cause severe allergic reactio
 
 If you may have had a similar reaction to any injection or medicine:
 
-- ➔ Tell your doctor before you are given Nucala.
+-  Tell your doctor before you are given Nucala.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Parasitic infections
 
 Nucala may weaken your resistance to infections caused by parasites. If you already have a parasitic infection; it should be treated before you start treatment with Nucala. If you live in a region where these infections are common or if you are travelling to such a region:
 
-- ➔ Check with your doctor if you think any of these may apply to you.
-
-<div style=\"page-break-after: always\"></div>
+-  Check with your doctor if you think any of these may apply to you.
 
 ## Children and adolescents
 
@@ -3890,25 +4177,21 @@ The pre-filled syringe is not intended for use in children below 12 years of age
 
 For children aged 6-11 years, contact your doctor who will prescribe the recommended dose of Nucala which will be administered by a nurse or doctor.
 
-## CRSwNP
+## CRSwNP, COPD and HES
 
-This medicine is not intended for use in children or adolescents below 18 years of age for the treatment of CRSwNP.
+This medicine is not intended for use in children or adolescents below 18 years of age for the treatment of CRSwNP, COPD or HES.
 
 ## EGPA
 
 This medicine is not intended for use in children below 6 years of age for the treatment of EGPA.
 
-## HES
-
-This medicine is not intended for use in adolescents or children below 18 years of age for the treatment of HES.
-
 ## Other medicines and Nucala
 
 Tell your doctor if you are taking, have recently taken or might take any other medicines.
 
-## Other medicines for asthma, CRSwNP, EGPA or HES
+## Other medicines for asthma, CRSwNP, COPD, EGPA or HES
 
--  Don't suddenly stop taking your existing medicines for your asthma, CRSwNP, EGPA or HES once you have started Nucala. These medicines (especially ones called oral corticosteroids ) must be stopped gradually, under the direct supervision of your doctor and dependent on your response to Nucala.
+-  Don't suddenly stop taking your existing medicines for your asthma, CRSwNP, COPD, EGPA or HES once you have started Nucala. These medicines (especially ones called oral corticosteroids ) must be stopped gradually, under the direct supervision of your doctor and dependent on your response to Nucala.
 
 ## Pregnancy and breast-feeding
 
@@ -3920,17 +4203,21 @@ It is not known whether the ingredients of Nucala can pass into breast milk. If 
 
 The possible side effects of Nucala are unlikely to affect your ability to drive or use machines.
 
+## Nucala contains polysorbate
+
+This medicine contains 0.2 mg of polysorbate per 100 mg dose. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
 ## Nucala contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per 100 mg dose, i.e., that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per 100 mg dose, i.e., that is to say essentially 'sodium-free'.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 3. How to use Nucala
 
 Nucala is given by injection just under the skin ( subcutaneous injection ).
 
 Your doctor or nurse will decide if you or your caregiver can inject Nucala. If appropriate, they will then provide training to show you or your caregiver the correct way to use Nucala.
-
-<div style=\"page-break-after: always\"></div>
 
 Nucala must be given to children aged 6 to 11 years by a doctor, nurse or trained caregiver.
 
@@ -3939,6 +4226,10 @@ Nucala must be given to children aged 6 to 11 years by a doctor, nurse or traine
 The recommended dose for adults and adolescents aged 12 years and older is 100 mg. You will have 1 injection every four weeks.
 
 ## CRSwNP
+
+The recommended dose for adults is 100 mg. You will have 1 injection every four weeks.
+
+## COPD
 
 The recommended dose for adults is 100 mg. You will have 1 injection every four weeks.
 
@@ -3956,13 +4247,13 @@ Children weighing less than 40 kg:
 
 The recommended dose is 100 mg. You will have 1 injection every four weeks.
 
-The injection sites should be at least 5 cm apart.
+The injection sites must be at least 5 cm apart.
 
 ## HES
 
 The recommended dose for adults is 300 mg. You will have 3 injections every four weeks.
 
-The injection sites should be at least 5 cm apart.
+The injection sites must be at least 5 cm apart.
 
 Instructions for using the pre-filled syringe are given on the other side of this leaflet.
 
@@ -3972,7 +4263,9 @@ If you think you have injected too much Nucala, contact your doctor for advice.
 
 ## If a dose of Nucala is missed
 
-You or your caregiver should inject the next dose of Nucala as soon as you remember. If you do not notice that you have missed a dose until it is already time for your next dose, then just inject the next dose as planned. If you are not sure what to do, ask your doctor, pharmacist or nurse.
+You or your caregiver can inject the next dose of Nucala as soon as you remember. If you do not notice that you have missed a dose until it is already time for your next dose, then just inject the next dose as planned. If you are not sure what to do, ask your doctor, pharmacist or nurse.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Stopping treatment with Nucala
 
@@ -3980,11 +4273,9 @@ Do not stop injections of Nucala unless your doctor advises you to. Interrupting
 
 If your symptoms get worse while receiving injections of Nucala:
 
-➔ Call your doctor
+-  Call your doctor
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
 
@@ -3992,7 +4283,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Allergic reactions
 
-Some people may have allergic or allergic-like reactions.  These reactions may be common (they can affect up to 1 in 10 people). They usually occur within minutes to hours after the injection, but sometimes symptoms can start up to several days later.
+Some people may have allergic or allergic-like reactions. These reactions may be common (they can affect up to 1 in 10 people). They usually occur within minutes to hours after the injection, but sometimes symptoms can start up to several days later.
 
 ## Symptoms can include:
 
@@ -4001,11 +4292,11 @@ Some people may have allergic or allergic-like reactions.  These reactions may b
 - swelling of eyelids, face, lips, tongue or mouth
 - hives
 - rash
-- ➔ Seek medical attention immediately if you think you (or your child) may be having a reaction.
+-  Seek medical attention immediately if you think you (or your child) may be having a reaction.
 
-If you may have had a similar reaction to any injection or medicine:
+If you (or your child) may have had a similar reaction to any injection or medicine:
 
-- ➔ Tell your doctor before you (or your child) are given Nucala
+-  Tell your doctor before you (or your child) are given Nucala
 
 ## Other side effects include:
 
@@ -4021,6 +4312,7 @@ may affect up to 1 in 10 people
 
 - chest infection - symptoms of which may include cough and fever (high temperature)
 - urinary tract infection (blood in urine, painful and frequent urination, fever, pain in lower back)
+- herpes zoster (shingles)
 - upper abdominal pain (stomach pain or discomfort in the upper area of the stomach)
 - fever (high temperature)
 - eczema (itchy red patches on the skin)
@@ -4030,20 +4322,14 @@ may affect up to 1 in 10 people
 - pharyngitis (sore throat)
 - nasal congestion (stuffy nose)
 
-## Uncommon:
-
-may affect up to 1 in 100 people
-
-- herpes zoster (shingles)
+<div style=\"page-break-after: always\"></div>
 
 ## Rare:
 
 may affect up to 1 in 1 000 people
 
 - Severe allergic reactions ( anaphylaxis )
-- ➔ Tell your doctor or a nurse immediately if you get any of these symptoms.
-
-<div style=\"page-break-after: always\"></div>
+-  Tell your doctor or a nurse immediately if you get any of these symptoms.
 
 ## Reporting of side effects
 
@@ -4055,13 +4341,13 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use Nucala after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2  C to 8  C).
+Store in a refrigerator (2 ° C to 8 ° C).
 
 Do not freeze.
 
 Store in the original package in order to protect from light.
 
-The Nucala pre-filled syringe can be removed from the refrigerator and kept in its unopened carton for up to 7 days at room temperature (up to 30  C), when protected from light. Discard if left out of the refrigerator for more than 7 days.
+The Nucala pre-filled syringe can be removed from the refrigerator and kept in its unopened carton for up to 7 days at room temperature (up to 30 ° C), when protected from light. Discard if left out of the refrigerator for more than 7 days.
 
 ## 6. Contents of the pack and other information
 
@@ -4071,7 +4357,7 @@ The active substance is mepolizumab.
 
 Each 1 mL pre-filled syringe contains 100 mg of mepolizumab.
 
-The other ingredients are sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80, disodium edetate, water for injections.
+The other ingredients are sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80 (E 433), disodium edetate, water for injections.
 
 ## What Nucala looks like and contents of the pack
 
@@ -4081,13 +4367,17 @@ Nucala is available in a pack containing 1 pre-filled syringe or in multipacks c
 
 ## Marketing Authorisation Holder
 
-GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24
+
+## D24 YK11
+
+Ireland
+
+<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
 GlaxoSmithKline Manufacturing S.P.A Strada Provinciale Asolana, No 90 43056 San Polo di Torrile, Parma Italy
-
-<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -4097,7 +4387,7 @@ GlaxoSmithKline Pharmaceuticals s.a./n.v. Tél/Tel: + 32 (0) 10 85 52 00
 
 ## България
 
-'Берлин -Хеми/А. Менарини България' EООД Teл.: + 359 2 454 0950 bcsofia@berlin-chemie.com
+' Берлин -Хеми/А. Менарини България' EООД Teл.: + 359 2 454 0950 bcsofia@berlin-chemie.com
 
 ## Česká republika
 
@@ -4109,7 +4399,9 @@ GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
 
 ## Deutschland
 
-GlaxoSmithKline GmbH &amp; Co. KG Tel.: + 49 (0)89 36044 8701 produkt.info@gsk.com
+GlaxoSmithKline GmbH &amp; Co. KG Tel.: + 49 (0)89 36044 8701
+
+produkt.info@gsk.com
 
 ## Eesti
 
@@ -4121,19 +4413,15 @@ GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Τηλ: + 30 210 68 82 100
 
 ## España
 
-GlaxoSmithKline, S.A. Tel: + 34 900 202 700 es-ci@gsk.com
+GlaxoSmithKline, S.A.
 
-## France
+Tel: + 34 900 202 700
 
-Laboratoire GlaxoSmithKline Tél: + 33 (0)1 39 17 84 44 diam@gsk.com
-
-## Hrvatska
-
-Berlin-Chemie Menarini Hrvatska d.o.o. Tel: +385 1 4821 361
+es-ci@gsk.com
 
 ## Lietuva
 
-UAB 'BERLIN - CHEMIE MENARINI BALTIC' Tel: + 370 52 691 947 lt@berlin-chemie.com
+UAB 'BERLIN-CHEMIE MENARINI BALTIC' Tel: + 370 52 691 947 lt@berlin-chemie.com
 
 ## Luxembourg/Luxemburg
 
@@ -4149,11 +4437,15 @@ GlaxoSmithKline Trading Services Ltd. Tel: + 356 80065004
 
 ## Nederland
 
-GlaxoSmithKline BV Tel: + 31 (0)33 2081100
+GlaxoSmithKline BV
+
+Tel: + 31 (0)33 2081100
 
 ## Norge
 
-GlaxoSmithKline AS Tlf: + 47 22 70 20 00
+GlaxoSmithKline AS
+
+Tlf: + 47 22 70 20 00
 
 ## Österreich
 
@@ -4165,15 +4457,21 @@ GSK Services Sp. z o.o.
 
 Tel.: + 48 (0)22 576 9000
 
-## Portugal
-
-GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
-
-## România
-
-GlaxoSmithKline Trading Services Ltd. Tel: + 40 800672524
-
 <div style=\"page-break-after: always\"></div>
+
+## France
+
+Laboratoire GlaxoSmithKline
+
+Tél: + 33 (0)1 39 17 84 44
+
+diam@gsk.com
+
+## Hrvatska
+
+Berlin-Chemie Menarini Hrvatska d.o.o.
+
+Tel: +385 1 4821 361
 
 office-croatia@berlin-chemie.com
 
@@ -4185,7 +4483,7 @@ Tel: + 353 (0)1 4955000
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: + 354 535 7000
 
@@ -4197,15 +4495,15 @@ Tel: + 39 (0)45 7741111
 
 ## Κύπρος
 
-GlaxoSmithKline Trading Services Ltd.
-
-Τηλ: + 357
-
-80070017
+GlaxoSmithKline Trading Services Ltd. Τηλ: + 357 80070017
 
 ## Latvija
 
-SIA Berlin-Chemie/Menarini Baltic Tel: + 371 67103210 lv@berlin-chemie.com
+SIA Berlin-Chemie/Menarini Baltic
+
+Tel: + 371 67103210
+
+lv@berlin-chemie.com
 
 ## This leaflet was last revised in
 
@@ -4213,9 +4511,25 @@ SIA Berlin-Chemie/Menarini Baltic Tel: + 371 67103210 lv@berlin-chemie.com
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
+## Portugal
+
+GlaxoSmithKline - Produtos Farmacêuticos, Lda.
+
+Tel: + 351 21 412 95 00
+
+FI.PT@gsk.com
+
+## România
+
+GlaxoSmithKline Trading Services Ltd.
+
+Tel: + 40 800672524
+
 ## Slovenija
 
-Berlin-Chemie / A. Menarini Distribution Ljubljana d.o.o.
+Berlin-Chemie / A. Menarini Distribution
+
+Ljubljana d.o.o.
 
 Tel: + 386 (0)1 300 2160
 
@@ -4223,7 +4537,9 @@ slovenia@berlin-chemie.com
 
 ## Slovenská republika
 
-Berlin-Chemie / A. Menarini Distribution Slovakia s.r.o.
+Berlin-Chemie / A. Menarini Distribution
+
+Slovakia s.r.o.
 
 Tel: + 421 2 544 30 730
 
@@ -4237,15 +4553,7 @@ Puh/Tel: + 358 (0)10 30 30 30
 
 ## Sverige
 
-GlaxoSmithKline AB
-
-Tel: + 46 (0)8 638 93 00
-
-info.produkt@gsk.com
-
-## United Kingdom (Northern Ireland)
-
-GlaxoSmithKline Trading Services Ltd. Tel: + 44 (0)800 221441 customercontactuk@gsk.com
+GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4253,7 +4561,7 @@ GlaxoSmithKline Trading Services Ltd. Tel: + 44 (0)800 221441 customercontactuk@
 
 Administer once every four weeks.
 
-Follow these instructions on how to use the pre-filled syringe. Failure to follow these instructions may affect proper function of the pre-filled syringe. You should also receive training on how to use the prefilled syringe. Nucala pre-filled syringe is for use under the skin only (subcutaneous).
+Follow these instructions on how to use the pre-filled syringe. Failure to follow these instructions may affect proper function of the pre-filled syringe. You must also receive training on how to use the prefilled syringe. Nucala pre-filled syringe is for use under the skin only (subcutaneous).
 
 ## How to store Nucala
 
@@ -4266,7 +4574,7 @@ Follow these instructions on how to use the pre-filled syringe. Failure to follo
 
 ## Before you use Nucala
 
-The pre-filled syringe should be used only once and then discarded.
+The pre-filled syringe must be used only once and then discarded.
 
 - Do not share your Nucala pre-filled syringe with another person.
 - Do not shake the syringe.
@@ -4425,7 +4733,7 @@ mepolizumab
 
 Nucala contains the active substance mepolizumab, a monoclonal antibody , a type of protein designed to recognise a specific target substance in the body. It is used to treat severe asthma in adults, adolescents and children aged 6 years and older.
 
-Some people with severe asthma have too many eosinophils (a type of white blood cell) in the blood and lungs. This condition is called eosinophilic asthma -the type of asthma Nucala can treat.
+Some people with severe asthma have too many eosinophils (a type of white blood cell) in the blood and lungs. This condition is called eosinophilic asthma the type of asthma Nucala can treat.
 
 Nucala can reduce the number of asthma attacks, if the child is already using medicines such as high dose inhalers, but their asthma is not well controlled by these medicines.
 
@@ -4438,7 +4746,7 @@ Mepolizumab, the active substance in Nucala, blocks a protein called interleukin
 ## Do not use Nucala:
 
 - -if the child you are caring for is allergic to mepolizumab or any of the other ingredients of this medicine (listed in section 6).
-- ➔ Check with your doctor if you think this applies to the child.
+-  Check with your doctor if you think this applies to the child.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4450,7 +4758,7 @@ Talk to your doctor before using this medicine.
 
 Some people get asthma-related side effects, or their asthma may become worse, during treatment with Nucala.
 
-- ➔ Tell your doctor or nurse if the child's asthma remains uncontrolled, or gets worse, after starting Nucala treatment.
+-  Tell your doctor or nurse if the child's asthma remains uncontrolled, or gets worse, after starting Nucala treatment.
 
 ## Allergic and injection site reactions
 
@@ -4458,13 +4766,13 @@ Medicines of this type (monoclonal antibodies) can cause severe allergic reactio
 
 If the child may have had a similar reaction to any injection or medicine:
 
-- ➔ Tell your doctor before you give Nucala.
+-  Tell your doctor before you give Nucala.
 
 ## Parasitic infections
 
 Nucala may weaken the child's resistance to infections caused by parasites. If they already have a parasitic infection; it should be treated before they start treatment with Nucala. If they live in a region where these infections are common or if they are travelling to such a region:
 
-- ➔ Check with your doctor if you think any of these may apply to the child.
+-  Check with your doctor if you think any of these may apply to the child.
 
 ## Children and adolescents
 
@@ -4488,15 +4796,19 @@ It is not known whether the ingredients of Nucala can pass into breast milk. Pat
 
 The possible side effects of Nucala are unlikely to affect the ability to drive or use machines.
 
+## Nucala contains polysorbate
+
+This medicine contains 0.08 mg of polysorbate per 40 mg dose. Polysorbates may cause allergic reactions. Tell your doctor if the child has any known allergies.
+
 ## Nucala contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per 40 mg dose, i.e., that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per 40 mg dose, i.e., that is to say essentially 'sodium-free'.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 3. How to use Nucala
 
 Nucala is given by injection just under the skin ( subcutaneous injection ).
-
-<div style=\"page-break-after: always\"></div>
 
 Your doctor or nurse will decide if you can inject Nucala for the child you are caring for. If appropriate, they will then provide training to show you the correct way to use Nucala.
 
@@ -4510,7 +4822,7 @@ If you think you have injected too much Nucala, contact your doctor for advice.
 
 ## If a dose of Nucala is missed
 
-You should inject the next dose of Nucala as soon as you remember. If you do not notice that you have missed a dose until it is already time to give the next dose, then just inject the next dose as planned. If you are not sure what to do, ask your doctor, pharmacist or nurse.
+You can inject the next dose of Nucala as soon as you remember. If you do not notice that you have missed a dose until it is already time to give the next dose, then just inject the next dose as planned. If you are not sure what to do, ask your doctor, pharmacist or nurse.
 
 ## Stopping treatment with Nucala
 
@@ -4518,7 +4830,7 @@ Do not stop injections of Nucala unless your doctor advises you to. Interrupting
 
 If the child's asthma symptoms get worse while receiving injections of Nucala:
 
-- ➔ Call your doctor
+-  Call your doctor
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
@@ -4528,7 +4840,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Allergic reactions
 
-Some people may have allergic or allergic-like reactions.  These reactions may be common (they can affect up to 1 in 10 people). They usually occur within minutes to hours after the injection, but sometimes symptoms can start up to several days later.
+Some people may have allergic or allergic-like reactions. These reactions may be common (they can affect up to 1 in 10 people). They usually occur within minutes to hours after the injection, but sometimes symptoms can start up to several days later.
 
 Symptoms can include:
 
@@ -4537,19 +4849,21 @@ Symptoms can include:
 - swelling of eyelids, face, lips, tongue or mouth
 - hives
 - rash
-- ➔ Seek medical attention immediately if you think the child may be having a reaction.
+-  Seek medical attention immediately if you think the child may be having a reaction.
 
 If the child may have had a similar reaction to any injection or medicine:
 
-- ➔ Tell your doctor before the child is given Nucala
+-  Tell your doctor before the child is given Nucala
+
+<div style=\"page-break-after: always\"></div>
 
 ## Other side effects include:
 
-Very common: may affect more than 1 in 10 people
+## Very common:
+
+may affect more than 1 in 10 people
 
 - headache
-
-<div style=\"page-break-after: always\"></div>
 
 ## Common:
 
@@ -4577,7 +4891,7 @@ may affect up to 1 in 100 people
 may affect up to 1 in 1 000 people
 
 - Severe allergic reactions ( anaphylaxis )
-- ➔ Tell your doctor or a nurse immediately if the child gets any of these symptoms.
+-  Tell your doctor or a nurse immediately if the child gets any of these symptoms.
 
 ## Reporting of side effects
 
@@ -4589,13 +4903,13 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use Nucala after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2  C to 8  C).
+Store in a refrigerator (2 ° C to 8 ° C).
 
 Do not freeze.
 
 Store in the original package in order to protect from light.
 
-The Nucala pre-filled syringe can be removed from the refrigerator and kept in its unopened carton for up to 7 days at room temperature (up to 30  C), when protected from light. Discard if left out of the refrigerator for more than 7 days.
+The Nucala pre-filled syringe can be removed from the refrigerator and kept in its unopened carton for up to 7 days at room temperature (up to 30 ° C), when protected from light. Discard if left out of the refrigerator for more than 7 days.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4607,7 +4921,7 @@ The active substance is mepolizumab.
 
 Each 0.4 mL pre-filled syringe contains 40 mg of mepolizumab.
 
-The other ingredients are sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80, disodium edetate, water for injections.
+The other ingredients are sucrose, sodium phosphate dibasic heptahydrate, citric acid monohydrate, polysorbate 80 (E 433), disodium edetate, water for injections.
 
 ## What Nucala looks like and contents of the pack
 
@@ -4617,7 +4931,7 @@ Nucala is available in a pack containing 1 pre-filled syringe or in multipacks c
 
 ## Marketing Authorisation Holder
 
-GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 D24 YK11 Ireland
 
 ## Manufacturer
 
@@ -4627,13 +4941,13 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-## Lietuva
-
 GlaxoSmithKline Pharmaceuticals s.a./n.v.
 
 Tél/Tel: + 32 (0) 10 85 52 00
 
-UAB 'BERLIN - CHEMIE MENARINI BALTIC'
+## Lietuva
+
+UAB 'BERLIN-CHEMIE MENARINI BALTIC'
 
 Tel: + 370 52 691 947
 
@@ -4641,55 +4955,27 @@ lt@berlin-chemie.com
 
 ## България
 
-## Luxembourg/Luxemburg
-
-'Берлин -
+' Берлин - България' EООД
 
 Хеми/А. Менарини
 
-България' EООД
+Teл.: + 359 2 454 0950 bcsofia@berlin-chemie.com
 
-Teл.: + 359 2 454 0950
+## Luxembourg/Luxemburg
 
-bcsofia@berlin-chemie.com
+GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien Tél/Tel: + 32 (0) 10 85 52 00
 
-GlaxoSmithKline Pharmaceuticals s.a./n.v.
-
-Belgique/Belgien
-
-Tél/Tel: + 32 (0) 10 85 52 00
-
-## Česká republika
-
-GlaxoSmithKline, s.r.o.
-
-Tel: + 420 222 001 111
-
-cz.info@gsk.com
+Česká republika GlaxoSmithKline, s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
 
 ## Magyarország
 
-Berlin-Chemie/A. Menarini Kft.
+Berlin-Chemie/A. Menarini Kft. Tel.: + 36 23501301 bc-hu@berlin-chemie.com
 
-Tel.: + 36 23501301
-
-bc-hu@berlin-chemie.com
+<div style=\"page-break-after: always\"></div>
 
 ## Danmark
 
-GlaxoSmithKline Pharma A/S
-
-Tlf.: + 45 36 35 91 00
-
-dk-info@gsk.com
-
-## Malta
-
-GlaxoSmithKline Trading Services Ltd.
-
-Tel: + 356 80065004
-
-<div style=\"page-break-after: always\"></div>
+GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
 
 ## Deutschland
 
@@ -4721,9 +5007,7 @@ GlaxoSmithKline (Ireland) Limited Tel: + 353 (0)1 4955000
 
 ## Ísland
 
-Vistor hf.
-
-Sími: + 354 535 7000
+Vistor ehf. Sími: + 354 535 7000
 
 ## Italia
 
@@ -4731,13 +5015,17 @@ GlaxoSmithKline S.p.A. Tel: + 39 (0)45 7741111
 
 ## Κύπρος
 
-GlaxoSmithKline Trading Services Ltd. Τηλ: + 357 80070017
+GlaxoSmithKline Trading Services Ltd.
 
-## Latvija
+## Malta
+
+GlaxoSmithKline Trading Services Ltd. Tel: + 356 80065004
 
 ## Nederland
 
-GlaxoSmithKline BV Tel: + 31 (0)33 2081100
+GlaxoSmithKline BV
+
+Tel: + 31 (0)33 2081100
 
 ## Norge
 
@@ -4749,11 +5037,13 @@ GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com
 
 ## Polska
 
-GSK Services Sp. z o.o. Tel.: + 48 (0)22 576 9000
+GSK Services Sp. z o.o.
+
+Tel.: + 48 (0)22 576 9000
 
 ## Portugal
 
-GlaxoSmithKline -Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
+GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
 
 ## România
 
@@ -4773,11 +5063,15 @@ GlaxoSmithKline Oy Puh/Tel: + 358 (0)10 30 30 30
 
 ## Sverige
 
-GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
+GlaxoSmithKline AB
 
-## United Kingdom (Northern Ireland)
+Τηλ: + 357
+
+80070017
 
 <div style=\"page-break-after: always\"></div>
+
+## Latvija
 
 SIA Berlin-Chemie/Menarini Baltic Tel: + 371 67103210 lv@berlin-chemie.com
 
@@ -4787,9 +5081,7 @@ SIA Berlin-Chemie/Menarini Baltic Tel: + 371 67103210 lv@berlin-chemie.com
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
-GlaxoSmithKline Trading Services Ltd.
-
-Tel: + 44 (0)800 221441 customercontactuk@gsk.com
+Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4797,7 +5089,7 @@ Tel: + 44 (0)800 221441 customercontactuk@gsk.com
 
 Administer once every 4 weeks.
 
-Follow these instructions on how to use the pre-filled syringe. Failure to follow these instructions may affect proper function of the pre-filled syringe. You should also receive training on how to use the pre-filled syringe. Nucala pre-filled syringe is for use under the skin only (subcutaneous).
+Follow these instructions on how to use the pre-filled syringe. Failure to follow these instructions may affect proper function of the pre-filled syringe. You must also receive training on how to use the pre-filled syringe. Nucala pre-filled syringe is for use under the skin only (subcutaneous).
 
 ## How to store Nucala
 
@@ -4810,7 +5102,7 @@ Follow these instructions on how to use the pre-filled syringe. Failure to follo
 
 ## Before you use Nucala
 
-The pre-filled syringe should be used only once and then discarded.
+The pre-filled syringe must be used only once and then discarded.
 
 - Do not share the Nucala pre-filled syringe with another person.
 - Do not shake the syringe.
@@ -4838,14 +5130,6 @@ Find a comfortable, well-lit and clean surface. Make sure you have within reach:
 
 <!-- image -->
 
-Peel off the
-
-plastic cover
-
-Take the syringe out
-
-of the tray
-
 - Take the carton out of the refrigerator. Check the security seals are not broken.
 - Remove the tray from the carton.
 - Peel back the film cover from the tray.
@@ -4869,7 +5153,8 @@ Do not remove the needle cap at this stage.
 
 Do not use if the expiry date has passed.
 
-- Do not warm the syringe in a microwave, hot water, or direct sunlight.
+Do not warm the syringe in a microwave, hot water, or direct sunlight.
+
 - Do not inject if the solution looks cloudy or discoloured, or has particles.
 - Do not use the syringe if left out of the carton for more than 8 hours.
 
@@ -4951,7 +5236,9 @@ Do not put the needle cap back onto the syringe. This could cause a needle injur
 
 ## mepolizumab
 
-## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
+## Read all of this leaflet carefully before you start using this medicine because it contains important
+
+information for you.
 
 - -Keep this leaflet. You may need to read it again.
 - -If you have any further questions, ask your doctor, pharmacist or nurse.
@@ -4965,17 +5252,17 @@ Do not put the needle cap back onto the syringe. This could cause a needle injur
 4. Possible side effects
 5. How to store Nucala
 6. Contents of the pack and other information
-7.     Step-by-step instructions for use
+7. Step-by-step instructions for use
 
 ## 1. What Nucala is and what it is used for
 
-Nucala contains the active substance mepolizumab, a monoclonal antibody , a type of protein designed to recognise a specific target substance in the body. It is used to treat severe asthma and EGPA (Eosinophilic Granulomatosis with Polyangiitis) in adults, adolescents and children aged 6 years and older. It is also used to treat CRSwNP (Chronic Rhinosinusitis with Nasal Polyps) and HES (Hypereosinophilic syndrome) in adults.
+Nucala contains the active substance mepolizumab, a monoclonal antibody , a type of protein designed to recognise a specific target substance in the body. It is used to treat severe asthma and EGPA (Eosinophilic Granulomatosis with Polyangiitis) in adults, adolescents and children aged 6 years and older. It is also used to treat CRSwNP (Chronic Rhinosinusitis with Nasal Polyps), COPD (Chronic Obstructive Pulmonary Disease) and HES (Hypereosinophilic syndrome) in adults.
 
 Mepolizumab, the active substance in Nucala, blocks a protein called interleukin-5 . By blocking the action of this protein , it limits the production of eosinophils from the bone marrow and lowers the number of eosinophils in the bloodstream and the lungs.
 
 ## Severe eosinophilic asthma
 
-Some people with severe asthma have too many eosinophils (a type of white blood cell) in the blood and lungs. This condition is called eosinophilic asthma -the type of asthma Nucala can treat.
+Some people with severe asthma have too many eosinophils (a type of white blood cell) in the blood and lungs. This condition is called eosinophilic asthma the type of asthma Nucala can treat.
 
 Nucala can reduce your number of asthma attacks, if you or your child are already using medicines such as high dose inhalers, but your asthma is not well controlled by these medicines. If you are taking medicines called oral corticosteroids, Nucala can also help reduce the daily dose you need to control your asthma.
 
@@ -4988,6 +5275,10 @@ CRSwNP is a condition in which people have too many eosinophils (a type of white
 Nucala reduces the number of eosinophils in the blood and can reduce the size of your polyps, relieves your nasal congestion and helps prevent surgery for nasal polyps.
 
 Nucala can also help reduce the need for oral corticosteroids to control your symptoms.
+
+## Chronic obstructive pulmonary disease (COPD)
+
+Some people with COPD have too many eosinophils (a type of white blood cell) in the blood and lungs, causing the airways to become inflamed and thickened. It is a long-term condition that slowly gets worse. Symptoms include shortness of breath, cough, chest discomfort and coughing up mucus. Nucala reduces the number of eosinophils in the blood and can reduce flare-ups of COPD symptoms.
 
 ## Eosinophilic granulomatosis with polyangiitis (EGPA)
 
@@ -5006,17 +5297,17 @@ Nucala helps reduce your symptoms and prevents flares. If you are taking medicin
 ## Do not use Nucala:
 
 - -if you are allergic to mepolizumab or any of the other ingredients of this medicine (listed in section 6).
-- ➔ Check with your doctor if you think this applies to you.
+-  Check with your doctor if you think this applies to you.
 
 ## Warnings and precautions
 
 Talk to your doctor before using this medicine.
 
-## Worsening asthma
+## Worsening asthma or COPD
 
-Some people get asthma-related side effects, or their asthma may become worse, during treatment with Nucala.
+Some people get asthma-related or COPD-related side effects, or their asthma or COPD may become worse, during treatment with Nucala.
 
-- ➔ Tell your doctor or nurse if your asthma remains uncontrolled, or gets worse, after you start Nucala treatment.
+-  Tell your doctor or nurse if your asthma or COPD remains uncontrolled, or gets worse, after you start Nucala treatment.
 
 ## Allergic and injection site reactions
 
@@ -5024,15 +5315,15 @@ Medicines of this type (monoclonal antibodies) can cause severe allergic reactio
 
 If you may have had a similar reaction to any injection or medicine,
 
-- ➔ Tell your doctor before you are given Nucala .
+-  Tell your doctor before you are given Nucala .
+
+<div style=\"page-break-after: always\"></div>
 
 ## Parasitic infections
 
 Nucala may weaken your resistance to infections caused by parasites. If you already have a parasitic infection; it should be treated before you start treatment with Nucala. If you live in a region where these infections are common or if you are travelling to such a region:
 
-- ➔ Check with your doctor if you think any of these may apply to you.
-
-<div style=\"page-break-after: always\"></div>
+-  Check with your doctor if you think any of these may apply to you.
 
 ## Children
 
@@ -5040,17 +5331,17 @@ Nucala may weaken your resistance to infections caused by parasites. If you alre
 
 This medicine is not intended for use in children below 6 years of age for the treatment of severe eosinophilic asthma or EGPA.
 
-## CRSwNP and HES
+## CRSwNP, COPD and HES
 
-This medicine is not intended for use in children or adolescents below 18 years of age for the treatment of CRSwNP or HES.
+This medicine is not intended for use in children or adolescents below 18 years of age for the treatment of CRSwNP, COPD or HES.
 
 ## Other medicines and Nucala
 
 Tell your doctor if you are taking, have recently taken or might take any other medicines.
 
-## Other medicines for asthma,CRSwNP, EGPA or HES
+## Other medicines for asthma,CRSwNP, COPD, EGPA or HES
 
- Don't suddenly stop taking your existing medicines for your asthma,CRSwNP, EGPA or HES once you have started Nucala. These medicines (especially ones called oral corticosteroids ) must be stopped gradually, under the direct supervision of your doctor and dependent on your response to Nucala.
+-  Don't suddenly stop taking your existing medicines for your asthma,CRSwNP, COPD, EGPA or HES once you have started Nucala. These medicines (especially ones called oral corticosteroids ) must be stopped gradually, under the direct supervision of your doctor and dependent on your response to Nucala.
 
 ## Pregnancy and breast-feeding
 
@@ -5062,69 +5353,46 @@ It is not known whether the ingredients of Nucala can pass into breast milk. If 
 
 The possible side effects of Nucala are unlikely to affect your ability to drive or use machines.
 
+## Nucala contains polysorbate
+
+This medicine contains 0.74 mg of polysorbate per 100 mg dose. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
 ## Nucala contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per 100 mg dose, i.e., that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per 100 mg dose, i.e., that is to say essentially 'sodium-free'.
 
 ## 3. How to use Nucala
 
 Nucala is given to you by a doctor, nurse or healthcare professional, as an injection just under the skin (subcutaneously).
 
-## Severe eosinophilic asthma
-
-## Adults and adolescents aged 12 years and over
-
-The recommended dose for adults and adolescents is 100 mg. You will be given 1 injection every four weeks.
-
-## Children aged 6 to 11 years old
-
-The recommended dose is 40 mg. You will be given 1 injection every four weeks.
-
 <div style=\"page-break-after: always\"></div>
 
-## CRSwNP
+## Severe eosinophilic asthma
 
-## Adults
+| Adults and adolescents aged 12 years and over                                                                                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| The recommended dose for adults and adolescents is 100 mg. You will be given 1 injection every four weeks.                                                                                                        |
+| Children aged 6 to 11 years old                                                                                                                                                                                   |
+| The recommended dose is 40 mg. You will be given 1 injection every four weeks.                                                                                                                                    |
+| CRSwNP                                                                                                                                                                                                            |
+| The recommended dose for adults is 100 mg. You will be given 1 injection every four weeks.                                                                                                                        |
+| COPD                                                                                                                                                                                                              |
+| The recommended dose for adults is 100 mg. You will be given 1 injection every four weeks.                                                                                                                        |
+| EGPA                                                                                                                                                                                                              |
+| Adults and adolescents aged 12 years and over                                                                                                                                                                     |
+| The recommended dose for adults and adolescents is 300 mg. You will be given 3 injections every four weeks.                                                                                                       |
+| Children aged 6 to 11 years old                                                                                                                                                                                   |
+| Children weighing 40 kg or more: The recommended dose is 200 mg. You will be given 2 injections every four weeks.                                                                                                 |
+| Children weighing less than 40 kg: The recommended dose is 100 mg. You will be given 1 injection every four weeks.                                                                                                |
+| The injection sites must be at least 5 cm apart.                                                                                                                                                                  |
+| HES                                                                                                                                                                                                               |
+| The recommended dose for adults is 300 mg. You will be given 3 injections every four weeks.                                                                                                                       |
+| The injection sites must be at least 5 cm apart.                                                                                                                                                                  |
+| If a dose of Nucala is missed Contact your doctor or hospital as soon as possible to re-schedule your appointment.                                                                                                |
+| Stopping treatment with Nucala Do not stop receiving injections of Nucala unless your doctor advises you to. Interrupting or stopping the treatment with Nucala may cause your symptoms and attacks to come back. |
+| If your symptoms get worse while receiving injections of Nucala  Call your doctor.                                                                                                                               |
 
-The recommended dose for adults is 100 mg. You will be given 1 injection every four weeks.
-
-## EGPA
-
-Adults and adolescents aged 12 years and over
-
-The recommended dose for adults and adolescents is 300 mg. You will have 3 injections every four weeks.
-
-Children aged 6 to 11 years old
-
-Children weighing 40 kg or more:
-
-The recommended dose is 200 mg. You will be given 2 injections every four weeks.
-
-Children weighing less than 40 kg:
-
-The recommended dose is 100 mg. You will be given 1 injection every four weeks.
-
-The injection sites should be at least 5 cm apart.
-
-## HES
-
-## Adults
-
-The recommended dose for adults is 300 mg. You will be given 3 injections every four weeks.
-
-The injection sites should be at least 5 cm apart.
-
-## If a dose of Nucala is missed
-
-Contact your doctor or hospital as soon as possible to re-schedule your appointment.
-
-## Stopping treatment with Nucala
-
-Do not stop receiving injections of Nucala unless your doctor advises you to. Interrupting or stopping the treatment with Nucala may cause your symptoms and attacks to come back.
-
-If your symptoms get worse while receiving injections of Nucala
-
-- ➔ Call your doctor.
+<div style=\"page-break-after: always\"></div>
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
@@ -5134,23 +5402,20 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Allergic reactions
 
-Some people may have allergic or allergic-like reactions.  These reactions may be common (they can affect up to 1 in 10 people). They usually occur within minutes to hours after the injection, but sometimes symptoms can start up to several days later.
+Some people may have allergic or allergic-like reactions. These reactions may be common (they can affect up to 1 in 10 people). They usually occur within minutes to hours after the injection, but sometimes symptoms can start up to several days later.
 
 ## Symptoms can include:
 
 - chest tightness, cough, difficulty breathing
-
-<div style=\"page-break-after: always\"></div>
-
 - fainting, dizziness, feeling lightheaded (due to a drop in blood pressure)
 - swelling of eyelids, face, lips, tongue or mouth
 - hives
 - rash
-- ➔ Seek medical attention immediately if you think you (or your child) may be having a reaction.
+-  Seek medical attention immediately if you think you (or your child) may be having a reaction.
 
 If you (or your child) may have had a similar reaction to any injection or medicine:
 
-- ➔ Tell your doctor before you are given Nucala.
+-  Tell your doctor before you (or your child) are given Nucala.
 
 ## Other side effects include:
 
@@ -5166,6 +5431,7 @@ may affect up to 1 in 10 people
 
 - chest infection - symptoms of which may include cough and fever (high temperature)
 - urinary tract infection (blood in urine, painful and frequent urination, fever, pain in lower back)
+- herpes zoster (shingles)
 - upper abdominal pain (stomach pain or discomfort in the upper area of the stomach)
 - fever (high temperature)
 - eczema (itchy red patches on the skin)
@@ -5175,18 +5441,14 @@ may affect up to 1 in 10 people
 - pharyngitis (sore throat)
 - nasal congestion (stuffy nose)
 
-## Uncommon:
-
-may affect up to 1 in 100 people
-
-- herpes zoster (shingles)
-
 ## Rare:
 
 may affect up to 1 in 1 000 people
 
 - Severe allergic reactions ( anaphylaxis )
-- ➔ Tell your doctor or a nurse immediately if you get any of these symptoms.
+-  Tell your doctor or a nurse immediately if you get any of these symptoms.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -5196,11 +5458,9 @@ If you get any side effects, talk to your doctor or nurse. This includes any pos
 
 Keep this medicine out of the sight and reach of children.
 
-<div style=\"page-break-after: always\"></div>
-
 Do not use Nucala after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store below 25  C.
+Store below 25 ° C.
 
 Do not freeze.
 
@@ -5210,9 +5470,9 @@ Store in the original package to protect from light.
 
 ## What Nucala contains
 
-The active substance is mepolizumab. Each vial contains 100 mg of mepolizumab. After reconstitution, each ml of solution contains 100 mg mepolizumab.
+The active substance is mepolizumab. Each vial contains 100 mg of mepolizumab. After reconstitution, each mL of solution contains 100 mg mepolizumab.
 
-The other ingredients are sucrose, sodium phosphate dibasic heptahydrate and polysorbate 80.
+The other ingredients are sucrose, sodium phosphate dibasic heptahydrate and polysorbate 80 (E 433).
 
 ## What Nucala looks like and contents of the pack
 
@@ -5222,7 +5482,7 @@ Nucala is available in a pack containing 1 vial, or in multipacks with 3 individ
 
 ## Marketing Authorisation Holder
 
-GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 D24 YK11 Ireland
 
 ## Manufacturer
 
@@ -5232,73 +5492,85 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-GlaxoSmithKline Pharmaceuticals s.a./n.v. Tél/Tel: + 32 (0) 10 85 52 00
-
 ## Lietuva
 
-UAB 'BERLIN - CHEMIE MENARINI BALTIC' Tel: + 370 52 691 947 lt@berlin-chemie.com
+GlaxoSmithKline Pharmaceuticals s.a./n.v.
+
+Tél/Tel: + 32 (0) 10 85 52 00
+
+UAB 'BERLIN-CHEMIE MENARINI BALTIC'
+
+Tel: + 370 52 691 947
+
+lt@berlin-chemie.com
+
+<div style=\"page-break-after: always\"></div>
 
 ## България
 
-'Берлин - България' EООД
-
-Хеми/А. Менарини
-
-Teл.: + 359 2 454 0950
-
-bcsofia@berlin-chemie.com
-
-## Luxembourg/Luxemburg
-
-GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien
-
-Tél/Tel: + 32 (0) 10 85 52 00
+' Берлин -Хеми/А. Менарини България' EООД Teл.: + 359 2 454 0950 bcsofia@berlin-chemie.com
 
 ## Česká republika
 
 GlaxoSmithKline, s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
 
-## Magyarország
-
-Berlin-Chemie/A. Menarini Kft. Tel.: + 36 23501301 bc-hu@berlin-chemie.com
-
 ## Danmark
 
 GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
-
-## Malta
-
-GlaxoSmithKline Trading Services Ltd. Tel: + 356 80065004
 
 ## Deutschland
 
 GlaxoSmithKline GmbH &amp; Co. KG Tel.: + 49 (0)89 36044 8701 produkt.info@gsk.com
 
-## Nederland
-
-GlaxoSmithKline BV
-
-Tel: + 31 (0)33 2081100
-
 ## Eesti
 
 OÜ Berlin-Chemie Menarini Eesti Tel: + 372 667 5001 ee@berlin-chemie.com
-
-## Norge
-
-GlaxoSmithKline AS Tlf: + 47 22 70 20 00
 
 ## Ελλάδα
 
 GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Τηλ: + 30 210 68 82 100
 
-## Österreich
-
-GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com
-
 ## España
 
 GlaxoSmithKline, S.A. Tel: + 34 900 202 700 es-ci@gsk.com
+
+## France
+
+Laboratoire GlaxoSmithKline Tél: + 33 (0)1 39 17 84 44 diam@gsk.com
+
+## Hrvatska
+
+Berlin-Chemie Menarini Hrvatska d.o.o. Tel: +385 1 4821 361
+
+office-croatia@berlin-chemie.com
+
+## Ireland
+
+GlaxoSmithKline (Ireland) Limited Tel: + 353 (0)1 4955000
+
+## Luxembourg/Luxemburg
+
+GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien Tél/Tel: + 32 (0) 10 85 52 00
+
+## Magyarország
+
+Berlin-Chemie/A. Menarini Kft. Tel.: + 36 23501301 bc-hu@berlin-chemie.com
+
+## Malta
+
+GlaxoSmithKline Trading Services Ltd. Tel: + 356 80065004
+
+## Nederland
+
+GlaxoSmithKline BV Tel: + 31 (0)33 2081100
+
+## Norge
+
+GlaxoSmithKline AS Tlf: + 47 22 70 20 00
+
+## Österreich
+
+GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com
 
 ## Polska
 
@@ -5306,53 +5578,31 @@ GSK Services Sp. z o.o.
 
 Tel.: + 48 (0)22 576 9000
 
-## France
-
-Laboratoire GlaxoSmithKline Tél: + 33 (0)1 39 17 84 44 diam@gsk.com
-
 ## Portugal
 
 GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
-
-## Hrvatska
-
-Berlin-Chemie Menarini Hrvatska d.o.o. Tel: +385 1 4821 361 office-croatia@berlin-chemie.com
 
 ## România
 
 GlaxoSmithKline Trading Services Ltd. Tel: + 40 800672524
 
-## Ireland
-
-GlaxoSmithKline (Ireland) Limited Tel: + 353 (0)1 4955000
-
 ## Slovenija
 
 Berlin-Chemie / A. Menarini Distribution Ljubljana d.o.o. Tel: + 386 (0)1 300 2160 slovenia@berlin-chemie.com
 
+<div style=\"page-break-after: always\"></div>
+
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: + 354 535 7000
-
-## Slovenská republika
-
-Berlin-Chemie / A. Menarini Distribution Slovakia s.r.o. Tel: + 421 2 544 30 730 slovakia@berlin-chemie.com
 
 ## Italia
 
 GlaxoSmithKline S.p.A.
 
-## Suomi/Finland
-
-GlaxoSmithKline Oy
-
-<div style=\"page-break-after: always\"></div>
-
 Tel: + 39 (0)45 7741111
-
-<div style=\"page-break-after: always\"></div>
 
 ## Κύπρος
 
@@ -5372,6 +5622,18 @@ lv@berlin-chemie.com
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
+## Slovenská republika
+
+Berlin-Chemie / A. Menarini Distribution Slovakia s.r.o.
+
+Tel: + 421 2 544 30 730
+
+slovakia@berlin-chemie.com
+
+## Suomi/Finland
+
+GlaxoSmithKline Oy
+
 Puh/Tel: + 358 (0)10 30 30 30
 
 ## Sverige
@@ -5382,23 +5644,15 @@ Tel: + 46 (0)8 638 93 00
 
 info.produkt@gsk.com
 
-## United Kingdom (Northern Ireland)
-
-GlaxoSmithKline Trading Services Ltd.
-
-Tel: + 44 (0)800 221441
-
-customercontactuk@gsk.com
-
 <div style=\"page-break-after: always\"></div>
 
 ## The following information is intended for healthcare professionals only :
 
 ## 7. Step-by-step instructions for use and handling, reconstitution, and administration
 
-Nucala is provided as a lyophilised, white powder in a single-use vial for subcutaneous injection only. Reconstitution should be carried out under aseptic conditions.
+Nucala is provided as a lyophilised, white powder in a single-use vial for subcutaneous injection only. Reconstitution must be carried out under aseptic conditions.
 
-Once reconstituted, Nucala will contain a concentration of 100 mg/mL mepolizumab. The solution for injection can be stored between 2  C to 30  C for no more than 8 hours. Any unused concentrate or solution remaining after 8 hours must be discarded.
+Once reconstituted, Nucala will contain a concentration of 100 mg/mL mepolizumab. The solution for injection can be stored between 2 ° C to 30 ° C for no more than 8 hours. Any unused concentrate or solution remaining after 8 hours must be discarded.
 
 ## Traceability
 
@@ -5406,12 +5660,12 @@ In order to improve traceability of the biological medicinal products, the name 
 
 ## Instructions for reconstitution for each vial
 
-1. Reconstitute the contents of the vial with 1.2 mL of sterile water for injections preferably using a 2 to 3 ml syringe and a 21 gauge needle. The stream of sterile water should be directed vertically, onto the centre of the lyophilised cake. Allow the vial to sit at room temperature during reconstitution, gently swirling the vial for 10 seconds with circular motion at 15-second intervals until the powder is dissolved.
+1. Reconstitute the contents of the vial with 1.2 mL of sterile water for injections preferably using a 2 to 3 mL syringe and a 21 gauge needle. The stream of sterile water must be directed vertically, onto the centre of the lyophilised cake. Allow the vial to sit at room temperature during reconstitution, gently swirling the vial for 10 seconds with circular motion at 15-second intervals until the powder is dissolved.
 
 Note: The reconstituted solution must not be shaken during the procedure as this may lead to product foaming or precipitation. Reconstitution is typically complete within 5 minutes after the sterile water has been added, but it may take additional time.
 
 2. If a mechanical reconstitution device (swirler) is used to reconstitute Nucala, reconstitution can be accomplished by swirling at 450 rpm for no longer than 10 minutes. Alternatively, swirling at 1 000 rpm for no longer than 5 minutes is acceptable.
-3. Following reconstitution, Nucala should be visually inspected for particulate matter and clarity prior to use.  The solution should be clear to opalescent, and colourless to pale yellow or pale brown, free of visible particles. Small air bubbles, however, are expected and acceptable. If particulate matter remains in the solution or if the solution appears cloudy or milky, the solution must not be used.
+3. Following reconstitution, Nucala must be visually inspected for particulate matter and clarity prior to use. The solution must be clear to opalescent, and colourless to pale yellow or pale brown, free of visible particles. Small air bubbles, however, are expected and acceptable. If particulate matter remains in the solution or if the solution appears cloudy or milky, the solution must not be used.
 4. The reconstituted solution, if not used immediately must be:
 - Protected from sunlight
 - Stored below 30°C, not frozen
@@ -5420,7 +5674,7 @@ Note: The reconstituted solution must not be shaken during the procedure as this
 ## Instructions for administration of 100 mg dose
 
 1. For subcutaneous administration, a 1 mL polypropylene syringe fitted with a disposable needle 21 gauge to 27 gauge x 0.5 inch (13 mm) should preferably be used.
-2. Just prior to administration, remove 1 mL of reconstituted Nucala from one vial.  Do not shake the reconstituted solution during the procedure as this could lead to product foaming or precipitation.
+2. Just prior to administration, remove 1 mL of reconstituted Nucala from one vial. Do not shake the reconstituted solution during the procedure as this could lead to product foaming or precipitation.
 3. Administer the 1 mL injection (equivalent to 100 mg mepolizumab) subcutaneously into the upper arm, thigh, or abdomen.
 
 If more than one vial is required for administration of the prescribed dosage, repeat steps 1 to 3. It is recommended that individual injection sites are separated by at least 5 cm.
@@ -5430,7 +5684,7 @@ If more than one vial is required for administration of the prescribed dosage, r
 ## Instructions for administration of 40 mg dose
 
 1. For subcutaneous administration, a 1 mL polypropylene syringe fitted with a disposable needle 21 gauge to 27 gauge x 0.5 inch (13 mm) should preferably be used.
-2. Just prior to administration, remove 0.4mL of reconstituted Nucala.  Do not shake the reconstituted solution during the procedure as this could lead to product foaming or precipitation. Dispose of the remaining solution.
+2. Just prior to administration, remove 0.4mL of reconstituted Nucala. Do not shake the reconstituted solution during the procedure as this could lead to product foaming or precipitation. Dispose of the remaining solution.
 3. Administer the 0.4mL injection (equivalent to 40 mg mepolizumab) subcutaneously into the upper arm, thigh, or abdomen.
 
 ## Disposal

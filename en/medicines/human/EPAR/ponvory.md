@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:01:07
+document_datetime: 2026-03-10 16:14:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ponvory.html
 document_name: ponvory.html
 version: success
-processing_time: 0.1113163
-conversion_datetime: 2025-12-29 23:05:23.981231
+processing_time: 0.0948632
+conversion_datetime: 2026-03-13 18:29:52.595547
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Ponvory
 
 [RSS](/en/individual-human-medicine.xml/67445)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 ponesimod Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +104,7 @@ English (EN) (99.04 KB - PDF)
 
 [View](/en/documents/overview/ponvory-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-380)
+[Other languages (22)](#file-language-dropdown-1000)
 
 български (BG) (131.94 KB - PDF)
 
@@ -298,17 +296,17 @@ English (EN) (1.96 MB - PDF)
 
 Ponvory : EPAR - Product information
 
-English (EN) (881.53 KB - PDF)
+English (EN) (1.14 MB - PDF)
 
 **First published:** 02/06/2021
 
-**Last updated:** 23/10/2025
+**Last updated:** 10/03/2026
 
 [View](/en/documents/product-information/ponvory-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-520)
+[Other languages (24)](#file-language-dropdown-737)
 
-български (BG) (740.56 KB - PDF)
+български (BG) (1.31 MB - PDF)
 
 **First published:**
 
@@ -316,11 +314,11 @@ English (EN) (881.53 KB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/bg/documents/product-information/ponvory-epar-product-information_bg.pdf)
 
-español (ES) (724.25 KB - PDF)
+español (ES) (1.15 MB - PDF)
 
 **First published:**
 
@@ -328,11 +326,11 @@ español (ES) (724.25 KB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/es/documents/product-information/ponvory-epar-product-information_es.pdf)
 
-čeština (CS) (727.19 KB - PDF)
+čeština (CS) (1.26 MB - PDF)
 
 **First published:**
 
@@ -340,11 +338,11 @@ español (ES) (724.25 KB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/cs/documents/product-information/ponvory-epar-product-information_cs.pdf)
 
-dansk (DA) (716.11 KB - PDF)
+dansk (DA) (1.15 MB - PDF)
 
 **First published:**
 
@@ -352,11 +350,11 @@ dansk (DA) (716.11 KB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/da/documents/product-information/ponvory-epar-product-information_da.pdf)
 
-Deutsch (DE) (754.17 KB - PDF)
+Deutsch (DE) (1.19 MB - PDF)
 
 **First published:**
 
@@ -364,11 +362,11 @@ Deutsch (DE) (754.17 KB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/de/documents/product-information/ponvory-epar-product-information_de.pdf)
 
-eesti keel (ET) (714.21 KB - PDF)
+eesti keel (ET) (1.16 MB - PDF)
 
 **First published:**
 
@@ -376,11 +374,11 @@ eesti keel (ET) (714.21 KB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/et/documents/product-information/ponvory-epar-product-information_et.pdf)
 
-ελληνικά (EL) (782.4 KB - PDF)
+ελληνικά (EL) (1.28 MB - PDF)
 
 **First published:**
 
@@ -388,11 +386,11 @@ eesti keel (ET) (714.21 KB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/el/documents/product-information/ponvory-epar-product-information_el.pdf)
 
-français (FR) (738.73 KB - PDF)
+français (FR) (1.16 MB - PDF)
 
 **First published:**
 
@@ -400,11 +398,11 @@ français (FR) (738.73 KB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/fr/documents/product-information/ponvory-epar-product-information_fr.pdf)
 
-hrvatski (HR) (716.38 KB - PDF)
+hrvatski (HR) (1.21 MB - PDF)
 
 **First published:**
 
@@ -412,11 +410,11 @@ hrvatski (HR) (716.38 KB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/hr/documents/product-information/ponvory-epar-product-information_hr.pdf)
 
-íslenska (IS) (706.75 KB - PDF)
+íslenska (IS) (1.15 MB - PDF)
 
 **First published:**
 
@@ -424,11 +422,11 @@ hrvatski (HR) (716.38 KB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/is/documents/product-information/ponvory-epar-product-information_is.pdf)
 
-italiano (IT) (743.13 KB - PDF)
+italiano (IT) (1.18 MB - PDF)
 
 **First published:**
 
@@ -436,11 +434,11 @@ italiano (IT) (743.13 KB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/it/documents/product-information/ponvory-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (731.62 KB - PDF)
+latviešu valoda (LV) (1.26 MB - PDF)
 
 **First published:**
 
@@ -448,11 +446,11 @@ latviešu valoda (LV) (731.62 KB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/lv/documents/product-information/ponvory-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (737.52 KB - PDF)
+lietuvių kalba (LT) (753.34 KB - PDF)
 
 **First published:**
 
@@ -460,11 +458,11 @@ lietuvių kalba (LT) (737.52 KB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/lt/documents/product-information/ponvory-epar-product-information_lt.pdf)
 
-magyar (HU) (738.75 KB - PDF)
+magyar (HU) (1.29 MB - PDF)
 
 **First published:**
 
@@ -472,11 +470,11 @@ magyar (HU) (738.75 KB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/hu/documents/product-information/ponvory-epar-product-information_hu.pdf)
 
-Malti (MT) (863.89 KB - PDF)
+Malti (MT) (1.31 MB - PDF)
 
 **First published:**
 
@@ -484,11 +482,11 @@ Malti (MT) (863.89 KB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/mt/documents/product-information/ponvory-epar-product-information_mt.pdf)
 
-Nederlands (NL) (733.02 KB - PDF)
+Nederlands (NL) (1.18 MB - PDF)
 
 **First published:**
 
@@ -496,11 +494,11 @@ Nederlands (NL) (733.02 KB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/nl/documents/product-information/ponvory-epar-product-information_nl.pdf)
 
-norsk (NO) (692.77 KB - PDF)
+norsk (NO) (656.33 KB - PDF)
 
 **First published:**
 
@@ -508,11 +506,11 @@ norsk (NO) (692.77 KB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/no/documents/product-information/ponvory-epar-product-information_no.pdf)
 
-polski (PL) (1.02 MB - PDF)
+polski (PL) (1.28 MB - PDF)
 
 **First published:**
 
@@ -520,11 +518,11 @@ polski (PL) (1.02 MB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/pl/documents/product-information/ponvory-epar-product-information_pl.pdf)
 
-português (PT) (732.69 KB - PDF)
+português (PT) (1.17 MB - PDF)
 
 **First published:**
 
@@ -532,11 +530,11 @@ português (PT) (732.69 KB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/pt/documents/product-information/ponvory-epar-product-information_pt.pdf)
 
-română (RO) (729.83 KB - PDF)
+română (RO) (1.23 MB - PDF)
 
 **First published:**
 
@@ -544,11 +542,11 @@ română (RO) (729.83 KB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/ro/documents/product-information/ponvory-epar-product-information_ro.pdf)
 
-slovenčina (SK) (712.08 KB - PDF)
+slovenčina (SK) (1.22 MB - PDF)
 
 **First published:**
 
@@ -556,11 +554,11 @@ slovenčina (SK) (712.08 KB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/sk/documents/product-information/ponvory-epar-product-information_sk.pdf)
 
-slovenščina (SL) (796.15 KB - PDF)
+slovenščina (SL) (1.23 MB - PDF)
 
 **First published:**
 
@@ -568,11 +566,11 @@ slovenščina (SL) (796.15 KB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/sl/documents/product-information/ponvory-epar-product-information_sl.pdf)
 
-Suomi (FI) (714.15 KB - PDF)
+Suomi (FI) (1.15 MB - PDF)
 
 **First published:**
 
@@ -580,11 +578,11 @@ Suomi (FI) (714.15 KB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/fi/documents/product-information/ponvory-epar-product-information_fi.pdf)
 
-svenska (SV) (702.35 KB - PDF)
+svenska (SV) (1.13 MB - PDF)
 
 **First published:**
 
@@ -592,11 +590,11 @@ svenska (SV) (702.35 KB - PDF)
 
 **Last updated:**
 
-23/10/2025
+10/03/2026
 
 [View](/sv/documents/product-information/ponvory-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0018/G 04/09/2025
+**Latest procedure affecting product information:** R/0000292277 12/02/2026
 
 icon globe
 
@@ -622,7 +620,7 @@ English (EN) (26.02 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ponvory-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-377)
+[Other languages (24)](#file-language-dropdown-552)
 
 български (BG) (28.06 KB - PDF)
 
@@ -926,19 +924,13 @@ Ponvory is indicated for the treatment of adult patients with relapsing forms of
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005163
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
+EMA product number EMEA/H/C/005163 Marketing authorisation holder
 
 Laboratoires Juvisé Pharmaceuticals
 
 149 Boulevard Bataille de Stalingrad 69100 Villeurbanne FRANCE
 
-Opinion adopted 25/03/2021 Marketing authorisation issued 19/05/2021 Revision 10
+Opinion adopted 25/03/2021 Marketing authorisation issued 19/05/2021 Revision 11
 
 ## Assessment history
 
@@ -950,21 +942,21 @@ Collapse section
 
 Ponvory : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (269.16 KB - PDF)
+English (EN) (149.21 KB - PDF)
 
 **First published:** 05/02/2025
 
-**Last updated:** 22/07/2025
+**Last updated:** 10/03/2026
 
 [View](/en/documents/procedural-steps-after/ponvory-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Ponvory : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-English (EN) (167.78 KB - PDF)
+English (EN) (167.91 KB - PDF)
 
 **First published:** 15/03/2022
 
-**Last updated:** 15/10/2025
+**Last updated:** 10/03/2026
 
 [View](/en/documents/procedural-steps-after/ponvory-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1004,16 +996,16 @@ English (EN) (96.44 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-ponvory_en.pdf)
 
-#### News on Ponvory
+## News on Ponvory
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 March 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-march-2021) 26/03/2021
 
-#### More information on Ponvory
+## More information on Ponvory
 
 - [EMEA-000798-PIP01-09-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000798-pip01-09-m04)
 - [Survey to Assess the Effectiveness of Ponvory® Educational Materials for Additional Risk Minimization Measures in the European Union - post-authorisation study](https://catalogues.ema.europa.eu/study/107764)
 
-**This page was last updated on** 23/10/2025
+**This page was last updated on** 10/03/2026
 
 ## Share this page
 

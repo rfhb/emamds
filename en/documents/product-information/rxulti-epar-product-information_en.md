@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-04-04 09:35:47
+document_datetime: 2026-03-12 09:05:52
 document_pages: 55
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rxulti-epar-product-information_en.pdf
 document_name: rxulti-epar-product-information_en.pdf
 version: success
-processing_time: 14.583178
-conversion_datetime: 2025-12-30 10:15:02.121849
+processing_time: 16.2665162
+conversion_datetime: 2026-03-13 18:40:20.942565
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -134,7 +134,9 @@ The recommended target dose range is 2 mg to 4 mg once daily. The maximum recomm
 
 ## Paediatric population
 
-The recommended starting dose for brexpiprazole is 0.5 mg once daily on days 1 to 4. The brexpiprazole dose should be titrated to 1 mg once daily on day 5 through day 7 and then to 2 mg on day 8. Weekly dose increases can be made in 1 mg increments based on clinical response and tolerability.
+The recommended starting dose for brexpiprazole is 0.5 mg once daily on days 1 to 4.
+
+The brexpiprazole dose should be titrated to 1 mg once daily on day 5 through day 7 and then to 2 mg on day 8. Weekly dose increases can be made in 1 mg increments based on clinical response and tolerability.
 
 The recommended target dose range is 2 mg to 4 mg once daily. The maximum recommended daily dose is 4 mg.
 
@@ -356,7 +358,7 @@ The most frequently observed adverse drug reactions (ADRs) in adults were akathi
 
 ## Tabulated list of adverse reactions
 
-The incidences of the ADRs associated with brexpiprazole therapy are tabulated below. The table is based on adverse reactions reported in short-term placebo-controlled phase 2 and 3 adult clinical trials with relevant therapeutic doses (2 mg to 4 mg) and short-term placebo-controlled phase 3 paediatric clinical trials with relevant therapeutic doses (1 mg to 4 mg).
+The incidences of the ADRs associated with brexpiprazole therapy are tabulated below. The table is based on adverse reactions reported in short--term placebo--controlled phase 2 and 3 adult clinical trials with relevant therapeutic doses (2 mg to 4 mg) and short-term placebo-controlled phase 3 paediatric clinical trials with relevant therapeutic doses (1 mg to 4 mg).
 
 All ADRs are listed by system organ class (SOC) and frequency: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -395,9 +397,9 @@ Akathisia was the most frequently reported EPS related ADR in the brexpiprazole 
 
 ## Akathisia
 
-From fixed-dose trials there appears to be a dose-response relationship for akathisia in patients treated with brexpiprazole, with an increasing frequency with higher doses. The incidence of akathisia in the brexpiprazole 1 mg/day, 2 mg/day, and 4 mg/day groups was 3.0 %, 4.6 %, and 6.5 %, respectively, compared with 5.2 % of subjects in the placebo group.
+From fixed -dose trials there appears to be a dose-response relationship for akathisia in patients treated with brexpiprazole, with an increasing frequency with higher doses. The incidence of akathisia in the brexpiprazole 1 mg/day, 2 mg/day, and 4 mg/day groups was 3.0 %, 4.6 %, and 6.5 %, respectively, compared with 5.2 % of subjects in the placebo group.
 
-The incidence of akathisia in the short-term, controlled trials (5.4 %) was similar to the incidence in the long-term, open-label trials (5.7 %).
+The incidence of akathisia in the short -term, controlled trials (5.4 %) was similar to the incidence in the long -term, open -label trials (5.7 %).
 
 ## Suicidal behaviour
 
@@ -407,15 +409,15 @@ In short-term, controlled trials, Treatment Emergent Adverse Events (TEAEs) rela
 
 In the short-term controlled trials with brexpiprazole, 3 TEAEs related to QT prolongation were reported in the 2 mg to 4 mg group (0.3 %), compared with 3 TEAEs (0.5 %) reported in subjects receiving placebo. The incidence of TEAEs in long-term trials was similar to that of the short-term trials.
 
-The effects of brexpiprazole at therapeutic (4 mg) and supra-therapeutic (12 mg) doses on QT interval were evaluated in subjects with schizophrenia or schizoaffective disorder in a randomised, double-blind, placebo- and positive-controlled (moxifloxacin), parallel-arm trial. Subgroup analyses from this trial suggested that the QTc prolongation was larger in female subjects than in males (see sections 4.4, 4.5 and 5.1).
+The effects of brexpiprazole at therapeutic (4 mg) and supra-therapeutic (12 mg) doses on QT interval were evaluated in subjects with schizophrenia or schizoaffective disorder in a randomised, doubleblind, placebo- and positive-controlled (moxifloxacin), parallel-arm trial. Subgroup analyses from this trial suggested that the QTc prolongation was larger in female subjects than in males (see sections 4.4, 4.5 and 5.1).
 
 ## Weight gain
 
-In short-term, controlled trials, the percentage of subjects with clinically significant weight gain (increase of ≥ 7 % from baseline in body weight) was 9.1 % in the brexpiprazole 2 mg/day to 4 mg/day group, compared with 3.8 % in the placebo group. In the long-term, open-label trial, the percentage of subjects with clinically significant weight gain (increase of ≥ 7 % in body weight) at any visit was 20.7 % and 0.4 % of the subjects discontinued due
+In short-term, controlled trials, the percentage of subjects with clinically significant weight gain (increase of ≥ 7 % from baseline in body weight) was 9.1 % in the brexpiprazole 2 mg/day to 4 mg/day group, compared with 3.8 % in the placebo group.
 
 <div style=\"page-break-after: always\"></div>
 
-to weight gain. In subjects who had a weight gain ≥ 7 % from baseline, weight increased over time, with mean weight gain up to 10.2 kg at week 52. The mean change in body weight overall for the brexpiprazole group in the long term, open label trial was 2.1 kg at week 52. See section 4.4.
+In the long-term, open-label trial, the percentage of subjects with clinically significant weight gain (increase of ≥ 7 % in body weight) at any visit was 20.7 % and 0.4 % of the subjects discontinued due to weight gain. In subjects who had a weight gain ≥ 7 % from baseline, weight increased over time, with mean weight gain up to 10.2 kg at week 52. The mean change in body weight overall for the brexpiprazole group in the long term, open label trial was 2.1 kg at week 52. See section 4.4.
 
 ## Prolactin
 
@@ -439,35 +441,33 @@ Frequency, type and severity of adverse reactions in adolescents are expected to
 
 ## Extrapyramidal Symptoms (EPS)
 
-In short-term trials, akathisia was the most frequently reported EPS related ADR in the brexpiprazole 1 mg/day to 4 mg/day group (3.6 %) compared to 2.9 % in placebo. The incidences of other EPS-related ADRs reported in short-term, controlled trials in paediatric patients were muscle rigidity (0.9 %), hypokinesia (0.9 %) and tremor (0.9 %).
+In short-term trials, akathisia was the most frequently reported EPS related ADR in the brexpiprazole 1 mg/day to 4 mg/day group (3.6 %) compared to 2.9 % in placebo. The incidences of other EPS--related ADRs reported in short-term-, controlled trials in paediatric patients were muscle rigidity (0.9 %), hypokinesia (0.9 %) and tremor (0.9 %).
 
 ## Akathisia
 
 The incidence of akathisia in the brexpiprazole-treated paediatric subjects in a short-term, randomized, double-blind trial was 3.6 % versus 2.9 % for placebo-treated subjects.
 
-The incidence of akathisia in the ongoing-long-term, open label trial was 5.1 %. See section 4.4.
+The incidence of akathisia in the long-term, open label trial was 5.1 %. See section 4.4.
 
 ## Suicidal behaviour
 
-In a short-term, controlled trial, a TEAE of suicidal behaviour was reported in 1 subject (0.9 %, nonserious event) in the brexpiprazole treatment group and none in the placebo group. In a long-term, open-label trial, TEAEs of suicidal behaviour were reported in 8 subjects (2.7 %). See section 4.4.
+In a short-term, controlled trial, a TEAE of suicidal behaviour was reported in 1 subject (0.9 %, nonserious event) in the brexpiprazole treatment group and none in the placebo group. In a long-term, open-label trial, TEAEs of suicidal behaviour were reported in 9 subjects (3.1%). See section 4.4.
 
 ## QT prolongation
 
 No TEAEs related to QT prolongation have been reported in the adolescent schizophrenia trials. The safety profile observed in the adolescent population is considered to be similar to that observed in the adult population (see section 4.4).
 
-## Weight gain
-
-In a short-term, controlled trial the percentage of subjects with clinically significant weight gain ( increase of ≥ 7 % from baseline in body weight) was 8.2 % in brexpiprazole treated group, compared with 4.9 % in placebo group The mean increase in weight from baseline to last visit was 0.8 kg in
-
 <div style=\"page-break-after: always\"></div>
 
-brexpiprazole and 0.0 kg in placebo-treated subjects. To adjust for normal growth, z-scores were derived (measured in standard deviations [SD]), which normalize for natural growth of children and adolescents by comparisons to age- and gender- matched population standards. A z-score change &lt;0.5 SD is considered not clinically significant. In this study, no change in mean z-score from baseline to last visit was observed in brexpiprazole and placebo-treated groups. 4.5 % of subjects in brexpiprazole and 3.9 % subjects in placebo had an increase in age-and-gender-adjusted body weight z-score of at least 0.5 SD from baseline. TEAEs of weight gain was reported in 1.7% of all patients in the brexpiprazole group compared to 3.4% in placebo group. See section 4.4.
+## Weight gain
 
-In the long-term, open-label trial, the percentage of subjects with clinically significant weight gain (increase of ≥ 7 % from baseline in body weight) at any visit was 44.6% in brexpiprazole treated group. Mean change in z-score from baseline to last visit was 0.10 SD for body weight, while 20% of patients had an increase in age-and gender-adjusted body weight z-score of at least 0.5 SD from baseline. TEAEs related to weight increased were observed in 11.5 % of subjects, while other TEAEs related to weight increase, such as increased BMI and waist circumference, were each reported in one subject.
+In a short-term, controlled trial the percentage of subjects with clinically significant weight gain (increase of ≥ 7 % from baseline in body weight) was 8.2 % in brexpiprazole treated group, compared with 4.9 % in placebo group. The mean increase in weight from baseline to last visit was 0.8 kg in brexpiprazole and 0.0 kg in placebo-treated subjects. To adjust for normal growth, z-scores were derived (measured in standard deviations [SD]), which normalize for natural growth of children and adolescents by comparisons to age- and gender- matched population standards. A z-score change &lt;0.5 SD is considered not clinically significant. In this study, no change in mean z-score from baseline to last visit was observed in brexpiprazole and placebo-treated groups. 4.5 % of subjects in brexpiprazole and 3.9 % subjects in placebo had an increase in age-and-gender-adjusted body weight z-score of at least 0.5 SD from baseline. TEAEs of weight gain was reported in 1.7% of all patients in the brexpiprazole group compared to 3.4% in placebo group. See section 4.4.
+
+In the long-term, open-label trial, the percentage of subjects with clinically significant weight gain (increase of ≥ 7% from baseline in body weight) at any visit was 47.3% in brexpiprazole treated group. Mean change in z-score from baseline to last visit was 0.00 SD for body weight, while 21.8% of patients had an increase in age-and gender-adjusted body weight z-score of at least 0.5 SD from baseline. TEAEs of weight increased were observed in 10.9% of subjects, while TEAEs of increased appetite, increased BMI and waist circumference increased, were each reported in two, one and one subjects, respectively.
 
 ## Prolactin
 
-In the short-term trial, no treatment emergent adverse events associated with elevated prolactin were reported. The frequencies of prolactin elevations &gt; 1 × ULN in the 2 mg to 4 mg brexpiprazole group was 26.8 % in females versus 6.3 % in the placebo group and 24.5 % in males versus 6 % in the placebo group. In the long-term trials, 1.7% of the subjects reported TEAEs of blood prolactin increased and 0.7% subjects reported TEAEs of hyperprolactinaemia. See section 4.4.
+In the short-term trial, no treatment emergent adverse events associated with elevated prolactin were reported. The frequencies of prolactin elevations &gt; 1 × ULN in the 2 mg to 4 mg brexpiprazole group was 26.8 % in females versus 6.3 % in the placebo group and 24.5 % in males versus 6 % in the placebo group. In the long-term trial, 2.0% of the subjects reported TEAEs of blood prolactin increased and 0.7% subjects reported TEAEs of hyperprolactinaemia. See section 4.4.
 
 ## Neuroleptic malignant syndrome
 
@@ -479,7 +479,7 @@ TEAEs of Nausea have been reported in the adolescent schizophrenia trials. The s
 
 ## Somnolence including sedation and hypersomnia
 
-In short-term trials, the incidence of somnolence-related TEAEs (sedation, somnolence, hypersomnia) was 7.3% in the brexpiprazole 2-4 mg group compared to 6.7% in the placebo group. In a long-term, open-label trial, the incidence of somnolence-related TEAEs (sedation, somnolence, hypersomnia) was 11.9%. These TEAEs were mild to moderate in severity.
+In short-term trial, the incidence of somnolence-related TEAEs (sedation, somnolence, hypersomnia) was 7.3% in the brexpiprazole 2-4 mg group compared to 6.7% in the placebo group. In a long-term, open-label trial, the incidence of somnolence-related TEAEs (sedation, somnolence, hypersomnia) was 12.6%. These TEAEs were mild to moderate in severity.
 
 ## Reporting of suspected adverse reactions
 
@@ -489,9 +489,9 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Gastric lavage and treatment with an emetic may be useful immediately after overdose. An electrocardiogram should be obtained in case of overdose and if QT interval prolongation is present, cardiac monitoring should be instituted.
 
-Otherwise, management of overdose should concentrate on supportive therapy, maintaining an adequate airway, oxygenation and ventilation, and management of symptoms. Close medical supervision and monitoring should continue until the patient recovers.
-
 <div style=\"page-break-after: always\"></div>
+
+Otherwise, management of overdose should concentrate on supportive therapy, maintaining an adequate airway, oxygenation and ventilation, and management of symptoms. Close medical supervision and monitoring should continue until the patient recovers.
 
 Oral activated charcoal and sorbitol (50 g/240 mL), administered one hour after ingesting 2 mg oral dose of brexpiprazole, decreased brexpiprazole Cmax and AUC by approximately 5 % to 23 % and 31 % to 39 % respectively. However, there is insufficient information available on the therapeutic potential of activated charcoal in treating an overdose with brexpiprazole.
 
@@ -521,9 +521,11 @@ Subgroup analyses from the thorough QTc trial suggested that the QTc prolongatio
 
 ## Adults:
 
-The efficacy and safety of brexpiprazole in the treatment of adults with schizophrenia was studied in two multi-national and one regional (Japan), 6-week, randomised, double-blind, placebo-controlled, fixed-dose clinical trials (trials 1 to 3), a multi-national, 6-week, randomised, double-blind, placebo-controlled, active reference (quetiapine), flexible-dose clinical trial (trial 4), and, one multi-national, placebo-controlled, 52-week maintenance trial (trial 5). The trials included 2 690 patients with the age of 18 years to 65 years.
+The efficacy and safety of brexpiprazole in the treatment of adults with schizophrenia was studied in two multi-national and one regional (Japan), 6-week, randomised, double-blind, placebo-controlled, fixed-dose clinical trials (trials 1 to 3), a multi-national, 6-week, randomised, double-blind, placebo-controlled, active reference (quetiapine), flexible-dose clinical trial (trial 4), and, one
 
 <div style=\"page-break-after: always\"></div>
+
+multi-national, placebo-controlled, 52-week maintenance trial (trial 5). The trials included 2 690 patients with the age of 18 years to 65 years.
 
 In trials 1, 2 and 3, brexpiprazole was titrated as described in section 4.2 with 1 mg for 4 days, followed by 2 mg on days 5 to 7. On day 8, the dose was increased to 4 mg for some of the treatment arms.
 
@@ -543,25 +545,25 @@ In the flexible-dose trial 4, at week 6, subjects in the brexpiprazole treatment
 
 Table 2: Primary efficacy results for 6-week trials in schizophrenia
 
-| Trial   | Treatment group           | n   | Primary efficacy measure: PANSS   | Primary efficacy measure: PANSS   | Primary efficacy measure: PANSS   | Primary efficacy measure: PANSS   |
+|   Trial | Treatment group           |   n | Primary efficacy measure: PANSS   | Primary efficacy measure: PANSS   | Primary efficacy measure: PANSS   | Primary efficacy measure: PANSS   |
 |---------|---------------------------|-----|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
 |         |                           |     | Mean baseline score (SD)          | LS mean change from baseline (SE) | LS mean difference a, b (95 %CI)  | p-value                           |
-| 1       | Brexpiprazole (2 mg/day)* | 180 | 95.85 (13.75)                     | - 20.73 (1.55)                    | - 8.72 ( -13.1, -4 .37)           | < 0.0001                          |
+|       1 | Brexpiprazole (2 mg/day)* | 180 | 95.85 (13.75)                     | - 20.73 (1.55)                    | - 8.72 ( -13.1, -4 .37)           | < 0.0001                          |
 |         | Brexpiprazole (4 mg/day)* | 178 | 94.70 (12.06)                     | - 19.65 (1.54)                    | - 7.64 (-12.0, -3.30)             | 0.0006                            |
 |         | Placebo                   | 178 | 95.69 (11.46)                     | - 12.01 (1.60)                    | --                                | --                                |
-| 2       | Brexpiprazole (2 mg/day)  | 179 | 96.30 (12.91)                     | - 16.61 (1.49)                    | - 3.08 (-7.23, 1.07)              | 0.1448                            |
+|       2 | Brexpiprazole (2 mg/day)  | 179 | 96.30 (12.91)                     | - 16.61 (1.49)                    | - 3.08 (-7.23, 1.07)              | 0.1448                            |
 |         | Brexpiprazole (4 mg/day)* | 181 | 94.99 (12.38)                     | - 20.00 (1.48)                    | - 6.47 (-10.6, -2.35)             | 0.0022                            |
 |         | Placebo                   | 180 | 94.63 (12.84)                     | - 13.53 (1.52)                    | --                                | --                                |
-| 3       | Brexpiprazole (2 mg/day)* | 113 | 96.55 (19.20)                     | - 14.95 (2.00)                    | - 7.32 (-13.04, -1.59)            | 0.0124                            |
-|         | Brexpiprazole (4 mg/day)  | 109 | 96.39 (15.73)                     | - 11.49 (2.10)                    | - 3.86 (-9.71, 2.00)              | 0.1959                            |
 
 <div style=\"page-break-after: always\"></div>
 
-| Trial   | Treatment group                       | n   | Primary efficacy measure: PANSS   | Primary efficacy measure: PANSS   | Primary efficacy measure: PANSS   | Primary efficacy measure: PANSS   |
+|   Trial | Treatment group                       |   n | Primary efficacy measure: PANSS   | Primary efficacy measure: PANSS   | Primary efficacy measure: PANSS   | Primary efficacy measure: PANSS   |
 |---------|---------------------------------------|-----|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
 |         |                                       |     | Mean baseline score (SD)          | LS mean change from baseline (SE) | LS mean difference a, b (95 %CI)  | p-value                           |
+|       3 | Brexpiprazole (2 mg/day)*             | 113 | 96.55 (19.20)                     | - 14.95 (2.00)                    | - 7.32 (-13.04, -1.59)            | 0.0124                            |
+|         | Brexpiprazole (4 mg/day)              | 109 | 96.39 (15.73)                     | - 11.49 (2.10)                    | - 3.86 (-9.71, 2.00)              | 0.1959                            |
 |         | Placebo                               | 113 | 97.19 (19.27)                     | - 7.63 (2.11)                     | --                                | --                                |
-| 4       | Brexpiprazole (2 mg/day to 4 mg/day ) | 150 | 97.82 (10.25)                     | - 19.99 (1.51)                    | - 4.1 (-8.2, 0.1)                 | 0.0560                            |
+|       4 | Brexpiprazole (2 mg/day to 4 mg/day ) | 150 | 97.82 (10.25)                     | - 19.99 (1.51)                    | - 4.1 (-8.2, 0.1)                 | 0.0560                            |
 |         | Placebo                               | 159 | 98.38 (10.30)                     | - 15.93 (1.49)                    | --                                | --                                |
 
 SD
@@ -598,46 +600,46 @@ In trial 1, statistically significant greater improvement on the CGI-S, the key 
 
 Table 3: Key secondary efficacy results for 6 -week trials in schizophrenia
 
-| Trial   | Treatment group           | n   | Key secondary efficacy measure: CGI-S   | Key secondary efficacy measure: CGI-S   | Key secondary efficacy measure: CGI-S   | Key secondary efficacy measure: CGI-S   |
+|   Trial | Treatment group           |   n | Key secondary efficacy measure: CGI-S   | Key secondary efficacy measure: CGI-S   | Key secondary efficacy measure: CGI-S   | Key secondary efficacy measure: CGI-S   |
 |---------|---------------------------|-----|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
 |         |                           |     | Mean baseline score (SD)                | LS mean change from baseline (SE)       | LS mean difference a (95 %CI)           | p-value                                 |
-| 1       | Brexpiprazole (2 mg/day)* | 181 | 4.90 (0.64)                             | - 1.15 (0.08)                           | - 0.33 ( -0.56, -0.10)                  | 0.0056                                  |
+|       1 | Brexpiprazole (2 mg/day)* | 181 | 4.90 (0.64)                             | - 1.15 (0.08)                           | - 0.33 ( -0.56, -0.10)                  | 0.0056                                  |
 |         | Brexpiprazole (4 mg/day)* | 178 | 4.81 (0.64)                             | - 1.20 (0.08)                           | - 0.38 (-0.61, -0.15)                   | 0.0012                                  |
 |         | Placebo                   | 181 | 4.84 (0.66)                             | - 0.82 (0.09)                           | --                                      | --                                      |
-| 2       | Brexpiprazole (2 mg/day)  | 180 | 4.96 (0.65)                             | - 0.99 (0.09)                           | - 0.19 (-0.42, 0.05)                    | 0.1269                                  |
+|       2 | Brexpiprazole (2 mg/day)  | 180 | 4.96 (0.65)                             | - 0.99 (0.09)                           | - 0.19 (-0.42, 0.05)                    | 0.1269                                  |
 |         | Brexpiprazole (4 mg/day)* | 183 | 4.85 (0.64)                             | - 1.19 (0.08)                           | - 0.38 (-0.62, -0.15)                   | 0.0015                                  |
 |         | Placebo                   | 181 | 4.87 (0.61)                             | - 0.81 (0.09)                           | --                                      | --                                      |
-| 3       | Brexpiprazole (2 mg/day)* | 113 | 4.80 (0.78)                             | - 0.84 (0.11)                           | - 0.35 (-0.67, -0.03)                   | 0.0308                                  |
-|         | Brexpiprazole (4 mg/day)  | 109 | 4.71 (0.75)                             | - 0.64 (0.12)                           | - 0.16 (-0.48, 0.17)                    | 0.3461                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| Trial   | Treatment group                         | n   | Key secondary efficacy measure: CGI-S   | Key secondary efficacy measure: CGI-S   | Key secondary efficacy measure: CGI-S   | Key secondary efficacy measure: CGI-S   |
+|   Trial | Treatment group                         |   n | Key secondary efficacy measure: CGI-S   | Key secondary efficacy measure: CGI-S   | Key secondary efficacy measure: CGI-S   | Key secondary efficacy measure: CGI-S   |
 |---------|-----------------------------------------|-----|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
 |         |                                         |     | Mean baseline score (SD)                | LS mean change from baseline (SE)       | LS mean difference a (95 %CI)           | p-value                                 |
+|       3 | Brexpiprazole (2 mg/day)*               | 113 | 4.80 (0.78)                             | - 0.84 (0.11)                           | - 0.35 (-0.67, -0.03)                   | 0.0308                                  |
+|         | Brexpiprazole (4 mg/day)                | 109 | 4.71 (0.75)                             | - 0.64 (0.12)                           | - 0.16 (-0.48, 0.17)                    | 0.3461                                  |
 |         | Placebo                                 | 113 | 4.73 (0.71)                             | - 0.48 (0.12)                           | --                                      | --                                      |
-| 4       | Brexpiprazole* (2 mg/day to 4 mg/day) b | 150 | 4.96 (0.59)                             | - 1.21 (0.08)                           | - 0.27 (-0.49, -0.06)                   | 0.0142                                  |
+|       4 | Brexpiprazole* (2 mg/day to 4 mg/day) b | 150 | 4.96 (0.59)                             | - 1.21 (0.08)                           | - 0.27 (-0.49, -0.06)                   | 0.0142                                  |
 |         | Placebo                                 | 159 | 4.94 (0.57)                             | - 0.93 (0.08)                           | --                                      | --                                      |
 
 SD
 
-SE
-
-LS Mean
-
-CI
-
-*
-
 Standard deviation
+
+SE
 
 Standard error
 
+LS Mean
+
 Least-squares mean
+
+CI
 
 Confidence interval
 
-Treatment statistically significantly superior to placebo a Difference (brexpiprazole minus placebo) in least-squares mean change from baseline, at week 6
+* Treatment statistically significantly superior to placebo
+
+a Difference (brexpiprazole minus placebo) in least-squares mean change from baseline, at week 6
 
 b Mean dose 3.5 mg/day
 
@@ -649,7 +651,7 @@ In the primary analysis of time to impending relapse patients on brexpiprazole s
 
 ## Paediatric population
 
-The efficacy and safety of brexpiprazole in the treatment of paediatric patients with schizophrenia was studied in one 6-week, randomised, double-blind and placebo- controlled trial (trial 6) and an on-going long-term, 24-month open-label trial. The short-term trial included 110 patients randomized to
+The efficacy and safety of brexpiprazole in the treatment of paediatric patients with schizophrenia was studied in one 6-week, randomised, double-blind and placebo- controlled trial (trial 6) and a longterm, 24-month open-label trial. The short-term trial included 110 patients randomized to
 
 <div style=\"page-break-after: always\"></div>
 
@@ -661,14 +663,14 @@ The primary efficacy endpoint was defined as the mean change from baseline to we
 
 Brexpiprazole 2 to 4 mg/day and aripiprazole showed statistically significant improvements compared to placebo in the mean change from baseline in the PANSS Total Score.
 
-Interim analyses from long-term trial with flexible doses of brexpiprazole 1 to 4 mg/day showed maintained improvement in symptoms from baseline through month 24 in PANSS Total Score.
+Completed analyses from long-term trial with flexible doses of brexpiprazole 1 to 4 mg/day showed maintained improvement in symptoms from baseline through month 24 in PANSS Total Score.
 
 Table 4: Primary efficacy results for 6-week trial in schizophrenia in Paediatric Patients
 
-| Trial   | Treatment group                       | n     | Primary efficacy measure: PANSS   | Primary efficacy measure: PANSS   | Primary efficacy measure: PANSS   | Primary efficacy measure: PANSS   |
+|   Trial | Treatment group                       | n     | Primary efficacy measure: PANSS   | Primary efficacy measure: PANSS   | Primary efficacy measure: PANSS   | Primary efficacy measure: PANSS   |
 |---------|---------------------------------------|-------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
 |         |                                       |       | Mean baseline score (SD)          | LS mean change from baseline (SE) | LS mean difference a (95 %CI)     | p-value                           |
-| 6       | Brexpiprazole (2 mg/day to 4 mg/day)* | 110   | 101.06 (14.87)                    | -22.75 (1.49)                     | -5.33 (-9.55, -1.10)              | 0.0136                            |
+|       6 | Brexpiprazole (2 mg/day to 4 mg/day)* | 110   | 101.06 (14.87)                    | -22.75 (1.49)                     | -5.33 (-9.55, -1.10)              | 0.0136                            |
 |         | Aripiprazole (10 mg/day to 20 mg/day) | 101   | 101.03 (13.08)                    | -23.95 (1.57)                     | -6.53 (-10.8, -2.21)              | 0.0032                            |
 |         | Placebo                               | 103 b | 102.17 (16.30)                    | -17.42 (1.58)                     | --                                | --                                |
 
@@ -692,7 +694,15 @@ Confidence interval
 
 Treatment statistically significantly superior to placebo
 
-a Difference (brexpiprazole minus placebo) in least-squares mean change from baseline, at week 6 b Efficacy sample includes treated subjects who have baseline and at least 1 post-baseline efficacy evaluation for the PANSS Total Score
+a
+
+Difference (brexpiprazole minus placebo) in least-squares mean change from baseline, at week 6
+
+b
+
+Efficacy sample includes treated subjects who have baseline and at least 1 post-baseline efficacy
+
+evaluation for the PANSS Total Score
 
 Furthermore, a pharmacokinetic/pharmacodynamic analysis has been considered supportive for the comparison of clinical efficacy data between adolescents and adults with schizophrenia.
 
@@ -800,9 +810,7 @@ Hypromellose (E 464) Talc (E 553b) Titanium dioxide (E 171)
 
 RXULTI 0.25 mg film-coated tablets Iron oxide (E 172) (yellow, red, black)
 
-RXULTI 0.5 mg film-coated tablets
-
-Iron oxide (E 172) (yellow, red)
+RXULTI 0.5 mg film-coated tablets Iron oxide (E 172) (yellow, red)
 
 RXULTI 1 mg film-coated tablets Iron oxide (E 172) (yellow)
 
@@ -994,7 +1002,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1034,32 +1042,46 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
-RXULTI 0.25 mg film-coated tablets brexpiprazole
-
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
-
-Otsuka
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
-EXP
-
-| 4.   | BATCHNUMBER   |
-|------|---------------|
-
-Lot
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 | 5.   | OTHER   |
 |------|---------|
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+RXULTI 0.25 mg film-coated tablets
+
+brexpiprazole
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Otsuka
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. OTHER
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1107,7 +1129,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1147,9 +1169,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
@@ -1166,8 +1188,8 @@ Otsuka
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -1256,7 +1278,7 @@ Medicinal product subject to medical prescription.
 
 RXULTI 1 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1272,9 +1294,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
@@ -1291,8 +1313,8 @@ Otsuka
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -1323,9 +1345,9 @@ See package leaflet for further information.
 
 ## Film-coated tablet
 
-- 28 film-coated tablets
+28 film-coated tablets
 
-- 56 film-coated tablets
+56 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1349,7 +1371,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1387,9 +1409,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
@@ -1406,8 +1428,8 @@ Otsuka
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -1438,9 +1460,9 @@ See package leaflet for further information.
 
 ## Film-coated tablet
 
-- 28 film-coated tablets
+28 film-coated tablets
 
-- 56 film-coated tablets
+56 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1464,7 +1486,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1502,9 +1524,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
@@ -1521,8 +1543,8 @@ Otsuka
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -1579,7 +1601,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1617,9 +1639,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
@@ -1636,8 +1658,8 @@ Otsuka
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -1708,8 +1730,7 @@ Talk to your doctor or pharmacist before taking RXULTI, or during treatment if y
 - or had low or high blood pressure.
 - a history of blood clots, or if someone else in your family has a history of blood clots, as medicines for schizophrenia have been associated with formation of blood clots.
 - or had dizziness on standing up due to a drop in your blood pressure, which may cause fainting.
-- or had problems with your movements called extrapyramidal symptoms (EPS) in the past.
-- These may include jerky movements, spasms, restlessness or slow movements.
+- or had problems with your movements called extrapyramidal symptoms (EPS) in the past. These may include jerky movements, spasms, restlessness or slow movements.
 - ever experienced or start to experience restlessness and inability to sit still. These symptoms may occur early during treatment. Tell your doctor if this happens.
 - diabetes or risk factors for diabetes (e.g., obesity, or someone else in your family has diabetes). Your doctor will need to check your blood sugar regularly since it may be increased by this medicine. Signs of high blood sugar level are excessive thirst, passing of large amounts of urine, increase in appetite and feeling weak.
 - a history of seizures (fits) or epilepsy.
@@ -1740,7 +1761,8 @@ Receiving RXULTI with some medicines may mean the doctor will need to change you
 
 - medicines to correct heart rhythm (such as quinidine),
 - antidepressants or herbal remedies used to treat depression and anxiety (such as fluoxetine, paroxetine, St. John's Wort),
-- antifungal medicines (such as ketoconazole, itraconazole),
+- antifungal medicines (such as itraconazole),
+- ketoconazole (used to treat Cushing's syndrome when the body produces an excess of cortisol),
 - certain medicines to treat HIV infection (such as ritonavir),
 - anticonvulsants used to treat epilepsy (such as carbamazepine, phenobarbital),
 - antibiotics to treat bacterial infections (such as clarithromycin),
@@ -1784,7 +1806,7 @@ For adults:
 - from day 5 to day 7 take two 1 mg film-coated tablets per day,
 - from day 8 onwards take one film-coated tablet of the strength prescribed by your doctor each day.
 
-## Paediatric patients:
+Paediatric patients:
 
 - for the first 4 days take one  0.5 mg film-coated tablet per day,
 - from day 5 to day 7 take one 1 mg film-coated tablet per day,
@@ -1989,43 +2011,35 @@ Tél/Tel: +32 2 340 2828
 
 ## България
 
-Lundbeck Export A/S Representative Office Tel: +359 2 962 4696
+Swixx Biopharma EOOD
+
+Te л
+
+.: +359 2 4942 480
 
 ## Česká republika
 
-Lundbeck Česká republika s.r.o. Tel: +420 225 275 600
+Swixx Biopharma s.r.o. Tel: +420 242 434 222
 
 ## Danmark
 
-Otsuka Pharma Scandinavia AB
-
-Tel: +46 8 54528660
+Otsuka Pharma Scandinavia AB Tel: +46 8 54528660
 
 ## Deutschland
 
-Otsuka Pharma GmbH
-
-Tel: +49 69 1700860
+Otsuka Pharma GmbH Tel: +49 69 1700860
 
 ## Eesti
 
-H. Lundbeck A/S
-
-Tel: +45 36301311
+Swixx Biopharma OÜ Tel: +372 640 1030
 
 ## Ελλάδα
 
-Lundbeck Hellas S.A.
-
-Τηλ:
-
-+30 210 610 5036
+Swixx Biopharma Μ.Α.Ε Τηλ: +30 214 444 9670
 
 ## España
 
-Otsuka Pharmaceutical S.A.
-
-Tel: +34 93 208 10 20
+Otsuka Pharmaceutical S.A. Tel: +34 93 208 10 20
 
 ## France
 
@@ -2033,29 +2047,23 @@ Otsuka Pharmaceutical France SAS Tél: +33 (0)1 47 08 00 00
 
 ## Hrvatska
 
-Lundbeck Croatia d.o.o.
-
-Tel.: +385 1 644 82 63
-
-Tel.: +385 1 3649 210
+Swixx Biopharma d.o.o. Tel: +385 1 2078 500
 
 ## Ireland
 
-Lundbeck (Ireland) Limited
-
-Tel: +353 1 468 9800
+Lundbeck (Ireland) Limited Tel: +353 1 468 9800
 
 ## Ísland
 
-Vistor hf.
+Vistor
 
 Sími: +354 535 7000
 
 ## Lietuva
 
-H. Lundbeck A/S
+Swixx Biopharma UAB
 
-Tel: +45 36301311
+Tel: +370 5 236 91 40
 
 ## Luxembourg/Luxemburg
 
@@ -2067,39 +2075,27 @@ Tél: +32 2 340 2828
 
 ## Magyarország
 
-Lundbeck Hungaria Kft.
-
-Tel: +36 1 4369980
+Swixx Biopharma Kft. Tel.: +36 1 9206 570
 
 ## Malta
 
-H. Lundbeck A/S
-
-Tel: +45 36301311
+H. Lundbeck A/S Tel: +45 36301311
 
 ## Nederland
 
-Lundbeck B.V.
-
-Tel: +31 20 697 1901
+Lundbeck B.V. Tel: +31 20 697 1901
 
 ## Norge
 
-Otsuka Pharma Scandinavia AB
-
-Tel: +46 8 54528660
+Otsuka Pharma Scandinavia AB Tel: +46 8 54528660
 
 ## Österreich
 
-Lundbeck Austria GmbH
-
-Tel: +43 1 253 621 6033
+Lundbeck Austria GmbH Tel: +43 1 253 621 6033
 
 ## Polska
 
-Lundbeck Poland Sp. z o. o.
-
-Tel.: +48 22 626 93 00
+Swixx Biopharma Sp. z o.o. Tel.: +48 22 4600 720
 
 ## Portugal
 
@@ -2107,21 +2103,19 @@ Lundbeck Portugal - Produtos Farmacêuticos, Unipessoal Lda. Tel: +351 21 00 45 
 
 ## România
 
-Lundbeck Romania SRL
-
-Tel: +40 21319 88 26
+Swixx Biopharma S.R.L Tel: +40 37 1530 850
 
 ## Slovenija
 
-Lundbeck Pharma d.o.o.
-
-Tel.: +386 2 229 4500
+Swixx Biopharma d.o.o. Tel: +386 1 2355 100
 
 ## Slovenská republika
 
-Lundbeck Slovensko s.r.o.
+Swixx Biopharma s.r.o.
 
-Tel: +421 2 5341 42 18
+Tel: +421 2 20833 600
+
+<div style=\"page-break-after: always\"></div>
 
 ## Italia
 
@@ -2129,36 +2123,32 @@ Otsuka Pharmaceutical Italy S.r.l.
 
 Tel: +39 02 00 63 27 10
 
-## Suomi/Finland
-
-Otsuka Pharma Scandinavia AB
-
-Tel: +46 8 54528660
-
 ## Κύπρος
 
-Lundbeck Hellas A.E
+Swixx Biopharma Μ.Α.Ε
 
-Τηλ.:
-
-+357 22490305
-
-## Sverige
-
-Otsuka Pharma Scandinavia AB
-
-Tel: +46 8 54528660
+Τηλ: +30 214 444 9670
 
 ## Latvija
 
-H. Lundbeck A/S
+Swixx Biopharma SIA
 
-Tel: +45 36301311
-
-<div style=\"page-break-after: always\"></div>
+Tel: +371 6 616 47 50
 
 ## This leaflet was last revised in.
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/
+
+## Suomi/Finland
+
+Otsuka Pharma Scandinavia AB
+
+Tel: +46 8 54528660
+
+## Sverige
+
+Otsuka Pharma Scandinavia AB
+
+Tel: +46 8 54528660

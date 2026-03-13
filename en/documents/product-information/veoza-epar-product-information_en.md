@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-03-21 11:19:37
-document_pages: 26
+document_datetime: 2026-03-10 11:00:25
+document_pages: 27
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/veoza-epar-product-information_en.pdf
 document_name: veoza-epar-product-information_en.pdf
 version: success
-processing_time: 8.0844765
-conversion_datetime: 2025-12-17 14:48:17.134062
+processing_time: 8.5028417
+conversion_datetime: 2026-03-13 18:22:46.740671
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -64,13 +64,13 @@ If a dose of Veoza is missed or not taken at the usual time, the missed dose sho
 
 Fezolinetant has not been studied for safety and efficacy in women initiating Veoza treatment over 65 years of age. No dose recommendation can be made for this population.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hepatic impairment
 
 No dose modification is recommended for individuals with Child-Pugh Class A (mild) chronic hepatic impairment (see section 5.2).
 
 Veoza is not recommended for use in individuals with Child-Pugh Class B (moderate) or C (severe) chronic hepatic impairment. Fezolinetant has not been studied in individuals with Child-Pugh Class C (severe) chronic hepatic impairment (see section 5.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -102,8 +102,6 @@ Prior to the initiation or reinstitution of Veoza, a careful diagnosis should be
 
 Veoza is not recommended for use in individuals with Child-Pugh Class B (moderate) or C (severe) chronic hepatic impairment. Women with active liver disease or Child-Pugh Class B (moderate) or C (severe) chronic hepatic impairment have not been included in the clinical efficacy and safety studies with fezolinetant (see section 4.2) and this information cannot be reliably extrapolated. The pharmacokinetics of fezolinetant has been studied in women with Child-Pugh Class A (mild) and B (moderate) chronic hepatic impairment (see section 5.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Drug-induced liver injury (DILI)
 
 Elevations in serum alanine aminotransferase (ALT) levels and serum aspartate aminotransferase (AST) at least 3 times the upper limit of normal (ULN) were observed in women treated with fezolinetant, including serious cases with increased total bilirubin and symptoms suggesting liver injury. Elevated liver function tests (LFTs) and symptoms suggestive of liver injury were generally reversible on discontinuation of therapy. LFTs must be performed prior to treatment initiation with fezolinetant. Treatment should not be started if ALT or AST is ≥ 2 x ULN or if total bilirubin is elevated (e.g., ≥ 2 x ULN). LFTs must be performed monthly during the first three months of treatment, then based on clinical judgement. LFTs must also be performed when symptoms suggestive of liver injury occur.
@@ -112,6 +110,8 @@ Treatment should be discontinued in the following situations:
 
 - -Transaminase elevations are ≥ 3 x ULN with: total bilirubin &gt; 2 x ULN OR symptoms of liver injury.
 - -Transaminase elevations &gt; 5 x ULN.
+
+<div style=\"page-break-after: always\"></div>
 
 Monitoring of liver function should be maintained until they have normalised.
 
@@ -131,8 +131,6 @@ Concomitant use of fezolinetant and hormone replacement therapy with oestrogens 
 
 Fezolinetant has not been studied in women with a history of seizures or other convulsive disorders. There were no cases of seizures or convulsive disorders during clinical studies. A decision to treat these women with Veoza should be based on a benefit-risk consideration for the individual.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 ## Effect of other medicinal products on fezolinetant
@@ -145,21 +143,21 @@ Concomitant use of moderate or strong CYP1A2 inhibitors with Veoza is contraindi
 
 Co-administration with fluvoxamine, a strong CYP1A2 inhibitor, resulted in an overall 1.8-fold increase in fezolinetant Cmax and 9.4-fold increase in AUC; no change in tmax was observed. Given the large effect of a strong CYP1A2 inhibitor and supportive modelling, the increase in fezolinetant concentrations is expected to be of clinical concern also following concomitant use with moderate CYP1A2 inhibitors (see section 4.3). The increase in fezolinetant exposure was however not predicted to be clinically relevant following concomitant use with weak CYP1A2 inhibitors.
 
-## CYP1A2 inducers
-
-## In vivo data
+## CYP1A2 inducers In vivo data
 
 Smoking (moderate inducer of CYP1A2) decreased fezolinetant Cmax to a geometric LS mean ratio of 71.74%, while AUC decreased to a geometric LS mean ratio of 48.29%. The efficacy data did not point to relevant differences between smokers and non-smokers. No dose modification is recommended for smokers.
 
-## Transporters
+<div style=\"page-break-after: always\"></div>
 
-## In vitro data
+## Transporters In vitro data
 
 Fezolinetant is not a substrate of P-glycoprotein (P-gp). Major metabolite ES259564 is a substrate of P-gp.
 
 ## Effect of fezolinetant on other medicinal products
 
-## Cytochrome P450 (CYP) enzymes In vitro data
+## Cytochrome P450 (CYP) enzymes
+
+## In vitro data
 
 Fezolinetant and ES259564 are not inhibitors of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4. Fezolinetant and ES259564 are not inducers of CYP1A2, CYP2B6, and CYP3A4.
 
@@ -174,8 +172,6 @@ Fezolinetant and ES259564 are not inhibitors of P-gp, BCRP, OATP1B1, OATP1B3, OC
 Veoza is contraindicated during pregnancy (see section 4.3). If pregnancy occurs during use with Veoza, treatment should be withdrawn immediately.
 
 There are no or limited data from the use of fezolinetant in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3). Perimenopausal women of childbearing potential should use effective contraception. Non-hormonal contraceptives are recommended for this population.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Breast-feeding
 
@@ -197,6 +193,8 @@ Fezolinetant has no or negligible influence on the ability to drive and use mach
 
 The most frequent adverse reactions with fezolinetant 45 mg were diarrhoea (3.2%) and insomnia (3.0%).
 
+<div style=\"page-break-after: always\"></div>
+
 There were no serious adverse reactions reported at an incidence greater than 1% across the total study population. On fezolinetant 45 mg, four serious adverse reactions were reported. The most serious adverse reaction was an event of endometrial adenocarcinoma (0.1%).
 
 The most frequent adverse reactions leading to dose discontinuation with fezolinetant 45 mg were alanine aminotransferase (ALT) increased (0.3%) and insomnia (0.2%).
@@ -209,22 +207,18 @@ Adverse reactions observed during clinical studies and from spontaneous reportin
 
 Table 1. Adverse reactions for fezolinetant 45 mg
 
-| MedDRA system organ class (SOC)   | Frequency category   | Adverse reaction                                                                      |
-|-----------------------------------|----------------------|---------------------------------------------------------------------------------------|
-| Psychiatric disorders             | Common               | Insomnia                                                                              |
-| Gastrointestinal disorders        | Common               | Diarrhoea, Abdominal pain                                                             |
-| Hepatobiliary disorders           | Common               | Alanine aminotransferase (ALT) increased, Aspartate aminotransferase (AST) increased* |
-| Hepatobiliary disorders           | Not known            | Drug-induced liver injury (DILI)*                                                     |
+| MedDRA system organ class (SOC)   | Frequency category   | Adverse reaction                                                                     |
+|-----------------------------------|----------------------|--------------------------------------------------------------------------------------|
+| Psychiatric disorders             | Common               | Insomnia                                                                             |
+| Gastrointestinal disorders        | Common               | Diarrhoea, Abdominal pain                                                            |
+| Hepatobiliary disorders           | Common               | Alanine aminotransferase (ALT) increased, Aspartate aminotransferase (AST) increased |
+| Hepatobiliary disorders           | Not known            | Drug-induced liver injury (DILI)*                                                    |
 
 * see Description of selected adverse reactions
-
-<div style=\"page-break-after: always\"></div>
 
 ## Description of selected adverse reactions
 
 ## ALT increased/AST increased/DILI
-
-In clinical trials, elevations in ALT levels &gt; 3 x ULN occurred in 2.1% of women receiving fezolinetant compared to 0.8% of women receiving placebo. Elevations in AST levels &gt; 3 x ULN occurred in 1.0% of women receiving fezolinetant compared to 0.4% of women receiving placebo.
 
 Serious cases with elevations of ALT and/or AST (&gt; 10 x ULN) with concurrent elevations in bilirubin and/or alkaline phosphatase (ALP) were reported post-marketing. In some cases, elevated liver function tests were associated with signs and symptoms suggestive of liver injury such as fatigue, pruritus, jaundice, dark urine, pale faeces, nausea, vomiting, decreased appetite, and/or abdominal pain (see section 4.4).
 
@@ -237,6 +231,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 Doses of fezolinetant up to 900 mg have been tested in clinical studies in healthy women. At 900 mg, headache, nausea, and paraesthesia were observed.
 
 In the case of overdose, the individual should be closely monitored, and supportive treatment should be considered based on signs and symptoms.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -252,15 +248,13 @@ Fezolinetant is a non-hormonal selective neurokinin 3 (NK3) receptor antagonist.
 
 In postmenopausal women, with fezolinetant treatment, a transient decrease of luteinizing hormone (LH) levels was observed. No clear trends or clinically relevant changes in sex hormones measured (follicle-stimulating hormone (FSH), testosterone, oestrogen, and dehydroepiandrosterone sulphate) in postmenopausal women were observed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Clinical efficacy and safety
 
 ## Efficacy: Effects on VMS
 
-The effects of fezolinetant were studied in postmenopausal women with moderate to severe VMS in two 12-week, randomised, placebo-controlled, double-blind phase 3 studies of identical design, followed by a 40-week extension treatment period (SKYLIGHT 1 -2693-CL-0301 and SKYLIGHT 2 -2693-CL-0302). Women who had a minimum average of 7 moderate to severe VMS per day were enrolled in the studies.
+The effects of fezolinetant were studied in postmenopausal women with moderate to severe VMS in two 12-week, randomised, placebo-controlled, double-blind phase 3 studies of identical design, followed by a 40-week extension treatment period (SKYLIGHT 1 - 2693-CL-0301 and SKYLIGHT 2 - 2693-CL-0302). Women who had a minimum average of 7 moderate to severe VMS per day were enrolled in the studies.
 
-The study population included postmenopausal women defined as having amenorrho ea for ≥ 12 consecutive months (70.1%) or amenorrho ea for ≥ 6 months with FSH &gt; 40 IU/l (4.1%) or having had bilateral oophorectomy ≥ 6 weeks prior to the screening visit (16.1%).
+The study population included postmenopausal women defined as having amenorrhoea for ≥ 12 consecutive months (70.1%) or amenorrhoea for ≥ 6 months with FSH &gt; 40 IU/l (4.1%) or having had bilateral oophorectomy ≥ 6 weeks prior to the screening visit (16.1%).
 
 The study population included postmenopausal women with one or more of the following: prior hormone replacement therapy (HRT) use (19.9%), prior oophorectomy (21.6%), or prior hysterectomy (32.1%).
 
@@ -270,14 +264,16 @@ The 4 co-primary efficacy endpoints for both studies were the change from baseli
 
 Results of the co-primary endpoint for change from baseline to weeks 4 and 12 in mean frequency of moderate to severe VMS per 24 hours from SKYLIGHT 1 and 2 and from pooled studies are shown in Table 2.
 
-Table 1 . Mean baseline and change from baseline to weeks 4 and 12 for mean frequency of moderate to severe VMS per 24 hours
+<div style=\"page-break-after: always\"></div>
+
+Table 2. Mean baseline and change from baseline to weeks 4 and 12 for mean frequency of moderate to severe VMS per 24 hours
 
 |                                 | SKYLIGHT 1                 | SKYLIGHT 1      | SKYLIGHT 2                 | SKYLIGHT 2      | Pooled studies (SKYLIGHT 1 and 2)   | Pooled studies (SKYLIGHT 1 and 2)   |
 |---------------------------------|----------------------------|-----------------|----------------------------|-----------------|-------------------------------------|-------------------------------------|
 | Parameter                       | Fezolinetant 45 mg (n=174) | Placebo (n=175) | Fezolinetant 45 mg (n=167) | Placebo (n=167) | Fezolinetant 45 mg (n=341)          | Placebo (n=342)                     |
 | Baseline                        |                            |                 |                            |                 |                                     |                                     |
 | Mean (SD)                       | 10.44 (3.92)               | 10.51 (3.79)    | 11.79 (8.26)               | 11.59 (5.02)    | 11.10 (6.45)                        | 11.04 (4.46)                        |
-| Change from baseline to week    | 4                          |                 |                            |                 |                                     |                                     |
+| Change from baseline to week 4  |                            |                 |                            |                 |                                     |                                     |
 | LS Mean (SE)                    | -5.39 (0.30)               | -3.32 (0.29)    | -6.26 (0.33)               | -3.72 (0.33)    | -5.79 (0.23)                        | -3.51 (0.22)                        |
 | Mean %Reduction 2               | 50.63%                     | 30.46%          | 55.16%                     | 33.60%          | 52.84%                              | 31.96%                              |
 | Difference vs Placebo (SE)      | -2.07 (0.42)               | --              | -2.55 (0.46)               | --              | -2.28 (0.32)                        | --                                  |
@@ -288,15 +284,13 @@ Table 1 . Mean baseline and change from baseline to weeks 4 and 12 for mean freq
 | Difference vs Placebo (SE)      | -2.55 (0.43)               | --              | -2.53 (0.55)               | --              | -2.51 (0.35)                        | --                                  |
 | P-value                         | < 0.001 1                  | --              | < 0.001 1                  | --              | < 0.001                             | --                                  |
 
-1 Statistically significantly superior compared to placebo at the 0.05 level with multiplicity adjustment. LS Mean: Least Squares Mean estimated from a mixed model for repeated measures analysis of covariance; SD: Standard Deviation; SE: Standard Error.
+Statistically significantly superior compared to placebo at the 0.05 level with multiplicity adjustment. LS Mean: Least Squares Mean estimated from a mixed model for repeated measures analysis of covariance; SD: Standard Deviation; SE: Standard Error.
 
 2 Mean % Reduction is a descriptive statistic and not from the mixed model.
 
-<div style=\"page-break-after: always\"></div>
-
 Results of the co-primary endpoint for change from baseline to weeks 4 and 12 in mean severity of moderate to severe VMS per 24 hours from SKYLIGHT 1 and 2 and from pooled studies are shown in Table 3.
 
-Table 2 . Mean baseline and change from baseline to weeks 4 and 12 for mean severity of moderate to severe VMS per 24 hours
+Table 3. Mean baseline and change from baseline to weeks 4 and 12 for mean severity of moderate to severe VMS per 24 hours
 
 |                                 | SKYLIGHT 1                      | SKYLIGHT 1      | SKYLIGHT 2                 | SKYLIGHT 2      | Pooled studies (SKYLIGHT 1 and 2)   | Pooled studies (SKYLIGHT 1 and 2)   |
 |---------------------------------|---------------------------------|-----------------|----------------------------|-----------------|-------------------------------------|-------------------------------------|
@@ -312,7 +306,9 @@ Table 2 . Mean baseline and change from baseline to weeks 4 and 12 for mean seve
 | Difference vs Placebo (SE)      | -0.20 (0.08)                    | --              | -0.29 (0.08)               | --              | -0.24 (0.06)                        | --                                  |
 | P-value                         | 0.007 1                         | --              | < 0.001 1                  | --              | < 0.001                             | --                                  |
 
-1 Statistically significantly superior compared to placebo at the 0.05 level with multiplicity adjustment.
+1
+
+Statistically significantly superior compared to placebo at the 0.05 level with multiplicity adjustment.
 
 LS Mean: Least Squares Mean estimated from a mixed model for repeated measures analysis of covariance;
 
@@ -320,9 +316,11 @@ SD: Standard Deviation; SE: Standard Error.
 
 ## Safety: Endometrial safety
 
-In the long-term safety data (SKYLIGHT 1, 2, and 4), endometrial safety of fezolinetant 45 mg was assessed by transvaginal ultrasound and endometrial biopsies (304 women had baseline and postbaseline endometrial biopsies during 52 weeks of treatment).
+In the long-term safety data (SKYLIGHT 1, 2, and 4), endometrial safety of fezolinetant 45 mg was assessed by transvaginal ultrasound and endometrial biopsies (304 women had baseline and post-baseline endometrial biopsies during 52 weeks of treatment).
 
 Endometrial biopsy assessments did not identify an increased risk of endometrial hyperplasia or malignancy according to pre-specified criteria for endometrial safety. Transvaginal ultrasound did not reveal increased endometrial thickness.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -337,8 +335,6 @@ After once-a-day dosing, steady-state plasma concentrations of fezolinetant were
 ## Absorption
 
 Fezolinetant Cmax is usually achieved at 1 to 4 hours post-dose. No clinically significant differences in fezolinetant pharmacokinetics were observed following administration with a high-calorie, high-fat meal. Veoza may be administered with or without food (see section 4.2).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Distribution
 
@@ -364,13 +360,13 @@ Following single-dose administration of 30 mg fezolinetant in women with Child-P
 
 Fezolinetant has not been studied in individuals with Child-Pugh Class C (severe) chronic hepatic impairment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Renal impairment
 
 Following single-dose administration of 30 mg fezolinetant, there was no clinically relevant effect on fezolinetant exposure (Cmax and AUC) in women with mild (eGFR 60 to less than 90 ml/min/1.73 m 2 ) to severe (eGFR less than 30 ml/min/1.73 m 2 ) renal impairment. The AUC of ES259564 was not changed in women with mild renal impairment but increased approximately 1.7- to 4.8-fold in moderate (eGFR 30 to less than 60 ml/min/1.73 m 2 ) and severe renal impairment. Veoza is not recommended for use in women with severe renal impairment or with end-stage renal disease because of lack of long-term safety data in this population.
 
 Fezolinetant has not been studied in individuals with end-stage renal disease (eGFR less than 15 ml/min/1.73 m 2 ).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -378,9 +374,9 @@ Effects in non-clinical studies were observed only at exposures considered suffi
 
 ## Repeated dose toxicity
 
-Repeated administration of fezolinetant to rats and monkeys showed the effects consistent with the primary pharmacological action (oestrous cycle disruptions, the lack of ovarian activity, decreased uterine and/or ovarian weight, uterine atrophy). These effects were observed at high exposure levels (&gt; 10-fold of the anticipated clinical exposure at the human therapeutic dose of 45 mg ). Furthermore, in rats, secondary effects were seen on the liver and thyroid which are considered to be an adaptive response to the enzyme induction and in the absence of functional impairment and accompanying necrotic changes were considered non-adverse. The finding of thyroid follicular cell hyperplasia is considered secondary to the liver enzyme induction due to the increased thyroid hormone metabolism, resulting in the positive feedback to the pituitary for the stimulation of thyroid stimulating hormone production and increased thyroid activity. It is generally accepted that rodents are more sensitive to this type of liver-mediated thyroid toxicity than humans, thus these findings are not expected to be clinically relevant .
+Repeated administration of fezolinetant to rats and monkeys showed the effects consistent with the primary pharmacological action (oestrous cycle disruptions, the lack of ovarian activity, decreased uterine and/or ovarian weight, uterine atrophy). These effects were observed at high exposure levels (&gt; 10-fold of the anticipated clinical exposure at the human therapeutic dose of 45 mg). Furthermore, in rats, secondary effects were seen on the liver and thyroid which are considered to be an adaptive response to the enzyme induction and in the absence of functional impairment and accompanying necrotic changes were considered non-adverse. The finding of thyroid follicular cell hyperplasia is considered secondary to the liver enzyme induction due to the increased thyroid hormone metabolism, resulting in the positive feedback to the pituitary for the stimulation of thyroid stimulating hormone production and increased thyroid activity. It is generally accepted that rodents are more sensitive to this type of liver-mediated thyroid toxicity than humans, thus these findings are not expected to be clinically relevant.
 
-In monkeys, thrombocytopenia, sometimes associated with haemorrhagic episodes and regenerative anaemia, was seen following repeated administration at high dose levels (&gt; 60-fold of human exposure at the human therapeutic dose ).
+In monkeys, thrombocytopenia, sometimes associated with haemorrhagic episodes and regenerative anaemia, was seen following repeated administration at high dose levels (&gt; 60-fold of human exposure at the human therapeutic dose).
 
 ## Genotoxicity
 
@@ -392,15 +388,15 @@ An increase in the incidence of thyroid follicular cell adenoma was noted in a 2
 
 Additionally, increased incidence of thymomas, which slightly exceeded the historical control range, was observed in both species. However, these findings were only noted at exposure levels significantly in excess (&gt; 50-fold) of the clinical exposure at the human therapeutic dose, and therefore are not expected to be relevant to humans.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reproductive and developmental toxicity
 
-Fezolinetant had no effect on female fertility or early embryonic development in the rat study at exposure levels of 143-fold of human exposure at the human therapeutic dose .
+Fezolinetant had no effect on female fertility or early embryonic development in the rat study at exposure levels of 143-fold of human exposure at the human therapeutic dose.
 
-In embryo-foetal development toxicity studies, embryo-lethality was noted at the exposure levels of 128- and 174-fold at the human therapeutic dose in rats and rabbits, respectively. Rabbits also showed increased late resorption and reduced foetal weight at the exposure levels of 28-fold at the human therapeutic dose. Fezolinetant did not show teratogenic potential in either rats or rabbits. In the preand post-natal development study in rats, increased dose-responsive total litter loss/abortions was observed at the exposure levels of 36-fold of the anticipated clinical exposure at the maximum recommended human dose, while reduced sexual maturation in male progeny was seen at the 204-fold exposure levels at the maximum recommended human dose.
+In embryo-foetal development toxicity studies, embryo-lethality was noted at the exposure levels of 128- and 174-fold at the human therapeutic dose in rats and rabbits, respectively. Rabbits also showed increased late resorption and reduced foetal weight at the exposure levels of 28-fold at the human therapeutic dose. Fezolinetant did not show teratogenic potential in either rats or rabbits. In the pre- and post-natal development study in rats, increased dose-responsive total litter loss/abortions was observed at the exposure levels of 36-fold of the anticipated clinical exposure at the maximum recommended human dose, while reduced sexual maturation in male progeny was seen at the 204-fold exposure levels at the maximum recommended human dose.
 
 Following administration of radiolabelled fezolinetant to lactating rats, the radioactivity concentration in milk was higher than that in the plasma at all time points, indicating excretion of fezolinetant and/or its metabolites in the breast milk.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Environmental risk assessment
 
@@ -430,6 +426,8 @@ Not applicable.
 
 This medicinal product does not require any special storage conditions.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.5 Nature and contents of container
 
 PA/Aluminium/PVC/Aluminium unit dose blisters in cartons.
@@ -444,17 +442,23 @@ This medicinal product may pose a risk to the aquatic environment (see section 5
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Astellas Pharma Europe B.V.
 
-Sylviusweg 62 2333 BE Leiden The Netherlands
+Sylviusweg 62
+
+2333 BE Leiden
+
+The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/23/1771/001 EU/1/23/1771/002 EU/1/23/1771/003
+EU/1/23/1771/001
+
+EU/1/23/1771/002
+
+EU/1/23/1771/003
 
 EU/1/23/1771/004
 
@@ -465,6 +469,8 @@ Date of first authorisation: 07 December 2023
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+12
 
 <div style=\"page-break-after: always\"></div>
 
@@ -532,7 +538,7 @@ Each film-coated tablet contains 45 mg of fezolinetant
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablets (tablets)
+## Film-coated tablets (tablets)
 
 28 × 1 tablets
 
@@ -544,11 +550,7 @@ Film-coated tablets (tablets)
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Do not break, crush, or chew the tablets.
-
-Read the package leaflet before use.
-
-Oral use.
+Do not break, crush, or chew the tablets. Read the package leaflet before use. Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -620,7 +622,7 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+| MINIMUM PARTICULARS TO APPEARON BLISTERS OR STRIPS   |
 |------------------------------------------------------|
 | BLISTER                                              |
 
@@ -647,7 +649,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-20
+19
 
 <div style=\"page-break-after: always\"></div>
 
@@ -814,7 +816,7 @@ Tablet core: mannitol (E421), hydroxypropyl cellulose (E463), low-substituted hy
 
 ## What Veoza looks like and contents of the pack
 
-Veoza 45 mg tablets are round, light red, film-coated tablets (tablets) debossed with the company logo and '645' on the same side .
+Veoza 45 mg tablets are round, light red, film-coated tablets (tablets) debossed with the company logo and '645' on the same side.
 
 Veoza is available in PA/Aluminium/PVC/Aluminium unit dose blisters in cartons.
 
@@ -846,9 +848,7 @@ Tel: + 370 37 408 681
 
 Астелас Фарма ЕООД
 
-Teл.: +
-
-359 2 862 53 72
+Teл.: + 359 2 862 53 72
 
 ## Luxembourg/Luxemburg
 
@@ -902,7 +902,7 @@ Tel: + 372 6 056 014
 
 Astellas Pharmaceuticals AEBE
 
-Τηλ : + 30 210 8189900
+Τηλ: + 30 210 8189900
 
 ## España
 
@@ -930,7 +930,7 @@ Tel: + 353 (0)1 4671555
 
 ## Ísland
 
-Vistor hf
+Vistor ehf
 
 Sími: + 354 535 7000
 
@@ -946,9 +946,7 @@ Tel: + 39 (0)2 921381
 
 Astellas Pharmaceuticals AEBE
 
-Τηλ
-
-: + 30 210 8189900
+Τηλ: + 30 210 8189900
 
 ## Latvija
 
@@ -1008,6 +1006,26 @@ Puh/Tel: + 358 (0)9 85606000
 
 ## Sverige
 
-Astellas Pharma AB
+Astellas Pharma AB Tel: + 46 (0)40-650 15 00
 
-Tel: + 46 (0)40-650 15 00
+<div style=\"page-break-after: always\"></div>
+
+## Annex IV
+
+Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for fezolinetant, the scientific conclusions of PRAC are as follows:
+
+In view of available data from clinical trials and information provided in the present PSUSA, the PRAC recommended to remove information about incidence rates of ALT/AST elevations calculated from pooled data of clinical trials in SmPC Section 4.8, due to the heterogeneity of clinical studies on fezolinetant and since it was decided that such information does not provide relevant additional value for HCPs. There is also a consequential removal of the asterisk in the respective cell of the Adverse reactions table.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for fezolinetant the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing fezolinetant is unchanged subject to the proposed changes to the product information
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

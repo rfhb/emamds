@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-03-21 11:11:22
-document_pages: 48
+document_datetime: 2026-03-10 14:59:22
+document_pages: 49
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/drovelis-epar-product-information_en.pdf
 document_name: drovelis-epar-product-information_en.pdf
 version: success
-processing_time: 11.303118
-conversion_datetime: 2025-12-20 01:01:41.70781
+processing_time: 11.8931017
+conversion_datetime: 2026-03-13 18:26:50.123343
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -22,31 +22,27 @@ docling_version:
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
-
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 Drovelis 3 mg/14.2 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each pink active tablet contains 3 mg drospirenone and estetrol monohydrate equivalent to 14.2 mg estetrol.
+Each pink active film-coated tablet contains 3 mg drospirenone and estetrol monohydrate equivalent to 14.2 mg estetrol.
 
-Each white placebo tablet does not contain active substances.
+Each white placebo film-coated tablet does not contain active substances.
 
-Excipient with known effect
+## Excipient with known effect
 
-Each pink active tablet contains 40 mg lactose monohydrate.
+Each pink active film-coated tablet contains 40 mg lactose monohydrate.
 
-Each white placebo tablet contains 68 mg lactose monohydrate.
+Each white placebo film-coated tablet contains 68 mg lactose monohydrate.
 
 For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Film-coated tablet (tablet).
+Film-coated tablet (tablet)
 
 The active film-coated tablet is pink, 6 mm diameter, round, biconvex with a drop-shaped logo embossed on one side.
 
@@ -62,31 +58,17 @@ The decision to prescribe Drovelis should take into consideration the individual
 
 ## 4.2 Posology and method of administration
 
-Posology and method of administration
+Posology
 
-How to take Drovelis
+How to start Drovelis
 
-Oral use.
-
-One tablet is to be taken daily for 28 consecutive days. The tablets must be taken every day at about the same time, if necessary, with a little liquid, in the order shown on the blister pack. Each pack starts
+· No preceding hormonal contraceptive use (in the past month) Tablet-taking has to start on day 1 of the woman's menstrual cycle, i.e. the first day of her menstrual bleeding, and when doing so, no additional contraceptive measures are necessary. If the first tablet is taken on days 2 to 5 of the woman's menstruation, this medicinal product will not be effective until after the first 7 consecutive days of  pink active tablet-taking. A reliable barrier method of contraception such as a condom must therefore be used additionally during these first 7 days. The possibility of pregnancy should be considered before starting Drovelis.
 
 <div style=\"page-break-after: always\"></div>
 
-with 24 pink active tablets, followed by 4 white placebo tablets. Each subsequent pack is started the day after the last tablet of the previous pack.
-
-Stickers marked with the 7 days of the week are provided, and the relevant weekday sticker should be stuck on the tablet blister as an indicator of when the first tablet has been taken.
-
-Withdrawal bleeding usually starts on day 2-3 after starting the white placebo tablets and may not have finished before the next pack is started. See 'Cycle control' in section 4.4.
-
-## How to start Drovelis
-
-- No preceding hormonal contraceptive use (in the past month)
-
-Tablet-taking has to start on day 1 of the woman's menstrual cycle, i.e., the first day of her menstrual bleeding, and when doing so, no additional contraceptive measures are  necessary. If the first tablet is taken on days 2 to 5 of the woman's menstruation, this medicinal product will not be effective until after the first 7 consecutive days of  pink active tablet-taking. A reliable barrier method of contraception such as a condom must therefore be used additionally during these first 7 days. The possibility of pregnancy should be considered before starting Drovelis.
-
 - Changing from a CHC (combined oral contraceptive (COC), vaginal ring or transdermal patch)
 
-The woman should start with Drovelis preferably on the day after the last active tablet  (the last tablet containing the active substances) of her previous COC, but at the latest on the day following the usual tablet-free or placebo tablet interval of her previous COC.
+The woman should start with Drovelis preferably on the day after the last active tablet (the last tablet containing the active substances) of her previous COC, but at the latest on the day following the usual tablet-free or placebo tablet interval of her previous COC.
 
 In case a vaginal ring or transdermal patch has been used the woman should start using Drovelis preferably on the day of removal, but at the latest when the next application would have been due.
 
@@ -102,19 +84,17 @@ The woman may start immediately. When doing so, she needs not take additional co
 
 Women should be advised to start between day 21 and 28 after delivery or second-trimester abortion. When starting later, the woman should be advised to additionally use a barrier method for the first 7 days. However, if intercourse has already occurred, pregnancy should be excluded before the actual start of CHC use or the woman has to wait for her first menstrual period.
 
-For breast-feeding women see section 4.6.
+For breast-feeding women, see section 4.6.
 
-## Management of missed tablets
+## Missed or delayed doses
 
 White placebo tablets from the last row of the blister can be disregarded. However, they should be discarded to avoid unintentionally prolonging the placebo tablet phase.
 
-## The following advice only refers to missed pink active tablets :
+The following advice only refers to missed pink active tablets :
 
 If the user is less than 24 hours late in taking any pink active tablet, contraceptive protection is not reduced. The woman should take the tablet as soon as possible and should take further tablets at the usual time.
 
 If she is more than 24 hours late in taking any pink active tablet, contraceptive protection may be reduced. The management of missed tablets can be guided by the following two basic rules:
-
-<div style=\"page-break-after: always\"></div>
 
 1. The recommended hormone-free tablet interval is 4 days, tablet-taking must never be discontinued for longer than 4 days.
 2. Seven days of uninterrupted pink active tablet-taking are required to attain adequate suppression of the hypothalamic-pituitary-ovarian-axis.
@@ -125,7 +105,7 @@ Accordingly, the following advice can be given in daily practice:
 
 The user should take the last missed tablet as soon as possible, even if this means taking two tablets at the same time. She then continues to take tablets at her usual time. In addition, a barrier method such as a condom should be used until she has completed 7 days of uninterrupted pink active tablet-taking. If intercourse took place in the preceding 7 days, the possibility of a pregnancy should be considered. The more tablets are missed and the closer they are to the placebo tablet phase, the higher the risk of a pregnancy.
 
-## Day 8-17
+<div style=\"page-break-after: always\"></div>
 
 The user should take the last missed tablet as soon as possible, even if this means taking two tablets at the same time. She then continues to take tablets at her usual time. Provided that the woman has taken her tablets correctly in the 7 days preceding the first missed tablet, there is no need to use extra contraceptive precautions. However, if she has missed more than 1 tablet, the woman should be advised to use extra precautions until she has completed 7 days of uninterrupted pink active tablettaking.
 
@@ -138,15 +118,13 @@ The risk of reduced reliability is imminent because of the forthcoming placebo t
 
 If the woman missed tablets and subsequently has no withdrawal bleeding in the placebo tablet phase, the possibility of a pregnancy should be considered.
 
-## Advice in case of gastro-intestinal disturbances
+## Advice in case of gastrointestinal disturbances
 
-In case of severe gastro-intestinal disturbances (e.g., vomiting or diarrhoea), absorption may not be complete and additional contraceptive measures should be taken. If vomiting occurs within 3-4 hours after pink active tablet-taking, a new (replacement) tablet should be taken as soon as possible. The new pink active tablet should be taken within 24 hours of the usual time of tablet-taking if possible. If more than 24 hours elapse, the advice concerning missed tablets, as given in section 4.2 ' Management of missed tablets ', is applicable. If the woman does not want to change her normal tablet-taking schedule, she has to take the extra pink active tablet(s) from another blister pack.
+In case of severe gastrointestinal disturbances (e.g. vomiting or diarrhoea), absorption may not be complete and additional contraceptive measures should be taken. If vomiting occurs within 3-4 hours after pink active tablet-taking, a new (replacement) tablet should be taken as soon as possible. The new pink active tablet should be taken within 24 hours of the usual time of tablet-taking if possible. If more than 24 hours elapse, the advice concerning missed tablets, as given in section 4.2 ' Missed or delayed doses ', is applicable. If the woman does not want to change her normal tablet-taking schedule, she has to take the extra pink active tablet(s) from another blister pack.
 
 ## How to postpone a withdrawal bleed
 
-<div style=\"page-break-after: always\"></div>
-
-To delay a period the woman should continue with another blister pack of Drovelis without taking the white placebo tablets from her current pack. The extension can be carried on for as long as wished until the end of the pink active tablets in the second pack. During the extension the woman may experience breakthrough-bleeding or spotting. Regular intake of Drovelis is then resumed after the placebo tablet phase.
+To delay a period the woman should continue with another blister pack of medicinal products without taking the white placebo tablets from her current pack. The extension can be carried on for as long as wished until the end of the pink active tablets in the second pack. During the extension the woman may experience breakthrough-bleeding or spotting. Regular intake of Drovelis is then resumed after the placebo tablet phase.
 
 To shift her periods to another day of the week than the woman is used to with her current scheme, she can be advised to shorten her forthcoming placebo tablet phase by as many days as she likes. The shorter the interval, the higher the risk that she does not have a withdrawal bleed and will experience breakthrough-bleeding and spotting during the subsequent pack (just as when delaying a period).
 
@@ -156,11 +134,13 @@ To shift her periods to another day of the week than the woman is used to with h
 
 Drovelis is not indicated after menopause.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Renal impairment
 
-Based on currently available data, Drovelis is contraindicated in women with severe renal insufficiency (see section 4.3).
+Based on currently available data, it is contraindicated in women with severe renal insufficiency (see section 4.3).
 
-## Drovelis is not recommended in women with moderate renal impairment.
+It is not recommended in women with moderate renal impairment.
 
 No dose adjustment for Drovelis is required in patients with mild renal impairment (see section 5.2).
 
@@ -168,29 +148,41 @@ No dose adjustment for Drovelis is required in patients with mild renal impairme
 
 A study to evaluate the effect of hepatic disease on the pharmacokinetics of estetrol is presented in section 5.2. The study results indicate that the increase of estetrol plasma exposure in subjects with severe hepatic impairment (Child-Pugh class C) compared to subjects with a normal hepatic function could be of clinical relevance.
 
-Based on currently available data, Drovelis is contraindicated in women with severe hepatic disease as long as liver function values have not returned to normal (see section 4.3).
+Based on currently available data, it is contraindicated in women with severe hepatic disease as long as liver function values have not returned to normal (see section 4.3).
 
 Based on currently available data, no dose adjustment for Drovelis is required in patients with mild or moderate hepatic impairment (see section 5.2).
 
 ## Paediatric population
 
-Safety of Drovelis has been established in post-menarchal adolescents under age of 18 years.  The contraceptive efficacy is expected to be the same in post-menarchal adolescents compared to users 18 years and older. Currently available safety and efficacy data are described in section 4.8, 5.1 and 5.2. There is no relevant use of Drovelis in pre-menarcheal adolescents.
+Safety of Drovelis has been established in post-menarchal adolescents under age of 18 years. The contraceptive efficacy is expected to be the same in post-menarchal adolescents compared to users 18 years and older. Currently available safety and efficacy data are described in section 4.8, 5.1 and 5.2.There is no relevant use of Drovelis in pre-menarcheal adolescents.
+
+## Method of administration
+
+Oral use.
+
+One tablet is to be taken daily for 28 consecutive days. The tablets must be taken every day at about the same time, if necessary, with a little liquid, in the order shown on the blister pack. Each pack starts with 24 pink active tablets, followed by 4 white placebo tablets. Each subsequent pack is started the day after the last tablet of the previous pack.
+
+Stickers marked with the 7 days of the week are provided, and the relevant weekday sticker should be stuck on the tablet blister as an indicator of when the first tablet has been taken.
+
+Withdrawal bleeding usually starts on day 2-3 after starting the white placebo tablets and may not have finished before the next pack is started. See 'Cycle control' in section 4.4.
 
 ## 4.3 Contraindications
+
+Hypersensitivity to the active substances or to any of the excipients listed in section 6.1.
 
 As no epidemiological data are yet available for estetrol-containing CHCs, the contraindications for ethinylestradiol -containing CHCs are considered applicable to the use of Drovelis. CHCs should not be used in the following conditions. Should any of the conditions appear for the first time during Drovelis use, the medicinal product should be stopped immediately.
 
 - -Presence or risk of venous thromboembolism (VTE)
-- -VTE - current VTE (on anticoagulants) or history of VTE (e.g., deep venous thrombosis [DVT] or pulmonary embolism [PE]).
+- -VTE - current VTE (on anticoagulants) or history of VTE (e.g. deep venous thrombosis [DVT] or pulmonary embolism [PE]).
 - -Known hereditary or acquired predisposition for venous thromboembolism, such as activated protein C (APC)-resistance (including factor V Leiden), antithrombin-IIIdeficiency, protein C deficiency, protein S deficiency.
 - -Major surgery with prolonged immobilisation (see section 4.4).
 - -A high risk of venous thromboembolism due to the presence of multiple risk factors (see section 4.4).
+- -Presence or risk of arterial thromboembolism (ATE)
 
 <div style=\"page-break-after: always\"></div>
 
-- -Presence or risk of arterial thromboembolism (ATE)
-- -ATE - current ATE, history of ATE (e.g., myocardial infarction [MI]) or prodromal condition (e.g., angina pectoris).
-- -Cerebrovascular disease - current stroke, history of stroke or prodromal condition (e.g., transient ischaemic attack [TIA]).
+- -ATE - current ATE, history of ATE (e.g. myocardial infarction [MI]) or prodromal condition (e.g. angina pectoris).
+- -Cerebrovascular disease - current stroke, history of stroke or prodromal condition (e.g. transient ischaemic attack [TIA]).
 - -Known hereditary or acquired predisposition for arterial thromboembolism, such as hyperhomocysteinaemia and antiphospholipid-antibodies (anticardiolipin-antibodies, lupus anticoagulant).
 - -History of migraine with focal neurological symptoms.
 - -A high risk of arterial thromboembolism due to multiple risk factors (see section 4.4) or to the presence of one serious risk factor such as:
@@ -200,17 +192,14 @@ As no epidemiological data are yet available for estetrol-containing CHCs, the c
 - -Presence or history of severe hepatic disease as long as liver function values have not returned to normal.
 - -Severe renal insufficiency or acute renal failure.
 - -Presence or history of liver tumours (benign or malignant).
-- -Known or suspected sex steroid-influenced malignancies (e.g., of the genital organs or the breasts).
+- -Known or suspected sex steroid-influenced malignancies (e.g. of the genital organs or the breasts).
 - -Undiagnosed vaginal bleeding.
-- -Hypersensitivity to the active substances or to any of the excipients listed in section 6.1.
 
 ## 4.4 Special warnings and precautions for use
 
-## Warnings
+If any of the conditions or risk factors mentioned below is present, the suitability of Drovelis should be discussed with the woman before she decides to start using it.
 
-If any of the conditions or risk factors mentioned below is present, the suitability of Drovelis should be discussed with the woman before she decides to start using Drovelis.
-
-In the event of aggravation, or first appearance of any of these conditions or risk factors, the woman should be advised to contact her doctor to determine whether the use of Drovelis should be discontinued. All data presented below are based upon epidemiological data obtained with CHCs containing ethinylestradiol. Drovelis contains estetrol. As no epidemiological data are yet available with estetrol containing-CHCs, the warnings are considered applicable to the use of Drovelis.
+In the event of aggravation, or first appearance of any of these conditions or risk factors, the woman should be advised to contact her doctor to determine whether the use of Drovelis should be discontinued. All data presented below are based upon epidemiological data obtained with CHCs containing ethinylestradiol. It contains estetrol. As no epidemiological data are yet available with estetrol containing-CHCs, the warnings are considered applicable to the use of Drovelis.
 
 In case of suspected or confirmed VTE or ATE, CHC use must be discontinued. In case anticoagulant therapy is started, adequate alternative non-hormonal contraception should be initiated because of the teratogenicity of anticoagulant therapy (coumarins).
 
@@ -218,17 +207,17 @@ In case of suspected or confirmed VTE or ATE, CHC use must be discontinued. In c
 
 ## Risk of VTE
 
-The use of any CHC increases the risk of VTE compared with no use. Products that contain low dose ethinylestradiol (&lt;50 µg ethinylestradiol) combined with levonorgestrel, norgestimate or norethisterone are associated with the lowest risk of VTE. It is not yet known how the risk with Drovelis compares with these lower risk products. The decision to use any product other than one known to have the lowest VTE risk should be taken only after a discussion with the woman to ensure she understands the risk of VTE with CHCs, how her current risk factors influence this risk, and that her VTE risk is highest in the first ever year of use.
+The use of any CHC increases the risk of VTE compared with no use. Products that contain low dose ethinylestradiol (&lt; 50 mcg ethinylestradiol) combined with levonorgestrel, norgestimate or norethisterone are associated with the lowest risk of VTE. It is not yet known how the risk with Drovelis compares with these lower risk products. The decision to use any product other than one known to have the lowest VTE risk should be taken only after a discussion with the woman to ensure she understands the risk of VTE with CHCs, how her current risk factors influence this risk, and that her VTE risk is highest in the first ever year of use.
 
-There is also some evidence that the risk is increased when a CHC is re-started after a break in use of 4 weeks or more .
+## There is also some evidence that the risk is increased when a CHC is re-started after a break in use of 4 weeks or more .
 
-In women who do not use a CHC and are not pregnant about 2 out of 10,000 will develop a VTE over the period of one year. However, in any individual woman the risk may be far higher, depending on her underlying risk factors (see below).
+In women who do not use a CHC and are not pregnant about 2 out of 10 000 will develop a VTE over the period of one year. However, in any individual woman the risk may be far higher, depending on her underlying risk factors (see below).
+
+Epidemiological studies in women who use low dose (&lt; 50 mcg ethinylestradiol) combined hormonal contraceptives have found that out of 10 000 women between about 6 and 12 will develop a VTE in one year.
 
 <div style=\"page-break-after: always\"></div>
 
-Epidemiological studies in women who use low dose (&lt;50 µg ethinylestradiol) combined hormonal contraceptives have found that out of 10,000 women between about 6 and 12 will develop a VTE in one year.
-
-It is estimated 1 that out of 10,000 women who use a CHC containing ethinylestradiol and drospirenone, between 9 and 12 women will develop a VTE in one year; this compares with about 6 2 in 10,000 women who use a levonorgestrel-containing CHC.
+It is estimated 1 that out of 10 000 women who use a CHC containing ethinylestradiol and drospirenone, between 9 and 12 women will develop a VTE in one year; this compares with about 6 2 in 10 000 women who use a levonorgestrel-containing CHC.
 
 It is not yet known how the risk of VTE with CHC containing estetrol and drospirenone compares with the risk with low dose levonorgestrel-containing CHCs.
 
@@ -236,7 +225,7 @@ The number of VTEs per year with low-dose CHCs is fewer than the number expected
 
 ## VTE may be fatal in 1-2% of cases.
 
-Extremely rarely, thrombosis has been reported to occur in CHC users in other blood vessels, e.g., hepatic, mesenteric, renal or retinal veins and arteries.
+Extremely rarely, thrombosis has been reported to occur in CHC users in other blood vessels, e.g. hepatic, mesenteric, renal or retinal veins and arteries.
 
 ## Risk factors for VTE
 
@@ -246,22 +235,19 @@ Drovelis is contraindicated if a woman has multiple risk factors that put her at
 
 Table 1: Risk factors for VTE
 
-| Risk factor                                                                                                                                    | Comment                                                                                                                                                                                                                                                                                                                                                                             |
-|------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Obesity (body mass index [BMI] over 30 kg/m²).                                                                                                 | Risk increases substantially as BMI rises. Particularly important to consider if other risk factors also present.                                                                                                                                                                                                                                                                   |
-| Prolonged immobilisation, major surgery, any surgery to the legs or pelvis, neurosurgery, or major trauma.                                     | In these situations, it is advisable to discontinue use of the pill (in the case of elective surgery at least four weeks in advance) and not resume until two weeks after complete remobilisation. Another method of contraception should be used to avoid unintentional pregnancy. Antithrombotic treatment should be considered if Drovelis has not been discontinued in advance. |
-| Note: temporary immobilisation including air travel >4 hours can also be a risk factor for VTE, particularly in women with other risk factors. |                                                                                                                                                                                                                                                                                                                                                                                     |
-
-1 These incidences were estimated from the totality of the epidemiological study data, using relative risks for the different products compared with levonorgestrel-containing CHCs.
-
-2 Mid-point of range of 5-7 per 10,000 WY, based on a relative risk for CHCs containing levonorgestrel versus non-use of approximately 2.3 to 3.6
+| Risk factor                                                                                                                                     | Comment                                                                                                                                                                                                                                                                                                                                                                             |
+|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Obesity (body mass index [BMI] over 30 kg/m²).                                                                                                  | Risk increases substantially as BMI rises. Particularly important to consider if other risk factors also present.                                                                                                                                                                                                                                                                   |
+| Prolonged immobilisation, major surgery, any surgery to the legs or pelvis, neurosurgery, or major trauma.                                      | In these situations, it is advisable to discontinue use of the pill (in the case of elective surgery at least four weeks in advance) and not resume until two weeks after complete remobilisation. Another method of contraception should be used to avoid unintentional pregnancy. Antithrombotic treatment should be considered if Drovelis has not been discontinued in advance. |
+| Note: temporary immobilisation including air travel > 4 hours can also be a risk factor for VTE, particularly in women with other risk factors. |                                                                                                                                                                                                                                                                                                                                                                                     |
+| Positive family history (VTE ever in a sibling or parent especially at a relatively early age, e.g. before 50 years).                           | If a hereditary predisposition is suspected, the woman should be referred to a specialist for advice before deciding about any CHC use.                                                                                                                                                                                                                                             |
 
 <div style=\"page-break-after: always\"></div>
 
-| Positive family history (VTE ever in a sibling or parent especially at a relatively early age, e.g., before 50 years).   | If a hereditary predisposition is suspected, the woman should be referred to a specialist for advice before deciding about any CHC use.                                |
-|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Other medical conditions associated with VTE.                                                                            | Cancer, systemic lupus erythematosus, haemolytic uraemic syndrome, chronic inflammatory bowel disease (Crohn's disease or ulcerative colitis) and sickle cell disease. |
-| Increasing age.                                                                                                          | Particularly above 35 years.                                                                                                                                           |
+| Risk factor                                   | Comment                                                                                                                                                                |
+|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Other medical conditions associated with VTE. | Cancer, systemic lupus erythematosus, haemolytic uraemic syndrome, chronic inflammatory bowel disease (Crohn's disease or ulcerative colitis) and sickle cell disease. |
+| Increasing age.                               | Particularly above 35 years.                                                                                                                                           |
 
 There is no consensus about the possible role of varicose veins and superficial thrombophlebitis in the onset or progression of venous thrombosis.
 
@@ -285,33 +271,35 @@ Symptoms of PE can include:
 - -severe light headedness or dizziness;
 - -rapid or irregular heartbeat.
 
-Some of these symptoms (e.g., 'shortness of breath', 'coughing') are non-specific and might be misinterpreted as more common or less severe events (e.g., respiratory tract infections). Other signs of vascular occlusion can include: sudden pain, swelling and slight blue discoloration of an extremity.
+Some of these symptoms (e.g. 'shortness of breath', 'coughing') are non-specific and might be misinterpreted as more common or less severe events (e.g. respiratory tract infections). Other signs of vascular occlusion can include: sudden pain, swelling and slight blue discoloration of an extremity.
 
 If the occlusion occurs in the eye symptoms can range from painless blurring of vision which can progress to loss of vision. Sometimes loss of vision can occur almost immediately.
 
 ## Risk of ATE
 
-Epidemiological studies have associated the use of CHCs with an increased risk for arterial thromboembolism (myocardial infarction [MI]) or for cerebrovascular accident (e.g., TIA, stroke). Arterial thromboembolic events may be fatal.
+Epidemiological studies have associated the use of CHCs with an increased risk for arterial thromboembolism (myocardial infarction [MI]) or for cerebrovascular accident (e.g. TIA, stroke). Arterial thromboembolic events may be fatal.
 
 ## Risk factors for ATE
 
 The risk of arterial thromboembolic complications or of a cerebrovascular accident in CHC users increases in women with risk factors (see table 2). Drovelis is contraindicated if a woman has one serious or multiple risk factors for ATE that puts her at high risk of arterial thrombosis (see section 4.3). If a woman has more than one risk factor, it is possible that the increase in risk is greater than the sum of the individual factors - in this case her total risk should be considered. If the balance of benefits and risks is considered to be negative a CHC should not be prescribed (see section 4.3).
 
-## Table 2: Risk factors for ATE
+Table 2: Risk factors for ATE
 
-| Risk factor     | Comment                      |
-|-----------------|------------------------------|
-| Increasing age. | Particularly above 35 years. |
+| Risk factor     | Comment                                                                                |
+|-----------------|----------------------------------------------------------------------------------------|
+| Increasing age. | Particularly above 35 years.                                                           |
+| Smoking.        | Women should be advised not to smoke if they wish to use a CHC. Women over 35 years of |
 
 <div style=\"page-break-after: always\"></div>
 
-| Smoking.                                                                                                                                 | Women should be advised not to smoke if they wish to use a CHC. Women over 35 years who continue to smoke should be strongly advised to use a different method of contraception.   |
-|------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hypertension.                                                                                                                            |                                                                                                                                                                                    |
-| Obesity (BMI over 30 kg/m 2 ).                                                                                                           | Risk increases substantially as BMI increases. Particularly important in women with additional risk factors.                                                                       |
-| Positive family history (arterial thromboembolism ever in a sibling or parent especially at relatively early age, e.g., below 50 years). | If a hereditary predisposition is suspected, the woman should be referred to a specialist for advice before deciding about any CHC use.                                            |
-| Migraine.                                                                                                                                | An increase in frequency or severity of migraine during CHC use (which may be prodromal of a cerebrovascular event) may be a reason for immediate discontinuation.                 |
-| Other medical conditions associated with adverse vascular events.                                                                        | Diabetes mellitus, hyperhomocysteinaemia, valvular heart disease and atrial fibrillation, dyslipoproteinaemia and systemic lupus erythematosus.                                    |
+| Risk factor                                                                                                                             | Comment                                                                                                                                                            |
+|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                         | age who continue to smoke should be strongly advised to use a different method of contraception.                                                                   |
+| Hypertension.                                                                                                                           |                                                                                                                                                                    |
+| Obesity (BMI over 30 kg/m 2 ).                                                                                                          | Risk increases substantially as BMI increases. Particularly important in women with additional risk factors.                                                       |
+| Positive family history (arterial thromboembolism ever in a sibling or parent especially at relatively early age, e.g. below 50 years). | If a hereditary predisposition is suspected, the woman should be referred to a specialist for advice before deciding about any CHC use.                            |
+| Migraine.                                                                                                                               | An increase in frequency or severity of migraine during CHC use (which may be prodromal of a cerebrovascular event) may be a reason for immediate discontinuation. |
+| Other medical conditions associated with adverse vascular events.                                                                       | Diabetes mellitus, hyperhomocysteinaemia, valvular heart disease and atrial fibrillation, dyslipoproteinaemia and systemic lupus erythematosus.                    |
 
 ## Symptoms of ATE
 
@@ -339,11 +327,11 @@ Symptoms of myocardial infarction (MI) can include:
 
 ## Tumours
 
-An increased risk of cervical cancer in long-term users of CHCs containing ethinylestradiol (&gt;5 years) has been reported in some epidemiological studies, but there continues to be controversy about the extent to which this finding is attributable to the confounding effects of sexual behaviour and other factors such as human papilloma virus (HPV).
-
-With the use of the higher-dosed CHCs (50 µg ethinylestradiol) the risk of endometrial and ovarian cancer is reduced. Whether this also applies to estetrol-containing CHCs remains to be confirmed.
+An increased risk of cervical cancer in long-term users of CHCs containing ethinylestradiol (&gt; 5 years) has been reported in some epidemiological studies, but there continues to be controversy about the extent to which this finding is attributable to the confounding effects of sexual behaviour and other factors such as human papilloma virus (HPV).
 
 <div style=\"page-break-after: always\"></div>
+
+With the use of the higher-dosed CHCs (50 mcg ethinylestradiol) the risk of endometrial and ovarian cancer is reduced. Whether this also applies to estetrol-containing CHCs remains to be confirmed.
 
 A meta-analysis from 54 epidemiological studies reported that there is a slightly increased relative risk (RR=1.24) of having breast cancer diagnosed in women who are currently using CHCs containing ethinylestradiol. The excess risk gradually disappears during the course of the 10 years after cessation of CHC use. Because breast cancer is rare in women under 40 years of age, the excess number of breast cancer diagnoses in current and recent CHC users is small in relation to the overall risk of breast cancer. The breast cancers diagnosed in ever-users tend to be less advanced clinically than the cancers diagnosed in never-users. The observed pattern of increased risk may be due to an earlier diagnosis of breast cancer in CHC users, the biological effects of CHCs or a combination of both.
 
@@ -363,13 +351,13 @@ Although small increases in blood pressure have been reported in many women taki
 
 The following conditions have been reported to occur or deteriorate with both pregnancy and CHC use, but the evidence of an association with CHC use is inconclusive: jaundice and/or pruritus related to cholestasis; gallstone formation; porphyria; systemic lupus erythematosus; haemolytic uraemic syndrome; Sydenham's chorea; herpes gestationis; otosclerosis-related hearing loss.
 
-Exogenous estrogens may induce or exacerbate symptoms of hereditary and acquired angioedema.
-
 <div style=\"page-break-after: always\"></div>
+
+Exogenous estrogens may induce or exacerbate symptoms of hereditary and acquired angioedema.
 
 Acute or chronic disturbances of liver function may necessitate the discontinuation of CHC use until markers of liver function return to normal. Recurrence of cholestatic jaundice which occurred first during pregnancy or previous use of sex steroids necessitates the discontinuation of CHCs.
 
-Although CHCs may have an effect on peripheral insulin resistance and glucose tolerance, there is no evidence for a need to alter the therapeutic regimen in diabetics using low-dose CHCs (containing &lt;50 µg ethinylestradiol). However, diabetic women should be carefully observed, particularly in the early stage of CHC use.
+Although CHCs may have an effect on peripheral insulin resistance and glucose tolerance, there is no evidence for a need to alter the therapeutic regimen in diabetics using low-dose CHCs (containing &lt; 50 mcg ethinylestradiol). However, diabetic women should be carefully observed, particularly in the early stage of CHC use.
 
 Worsening of endogenous depression, of epilepsy, of Crohn's disease and ulcerative colitis has been reported during CHC use.
 
@@ -385,7 +373,7 @@ Women should be advised that hormonal contraceptives do not protect against huma
 
 ## Reduced efficacy
 
-The efficacy of CHCs may be reduced in the event of missed tablets (see section 4.2), gastro-intestinal disturbances during pink active tablet taking (see section 4.2) or concomitant medicinal products (see section 4.5).
+The efficacy of CHCs may be reduced in the event of missed tablets (see section 4.2), gastrointestinal disturbances during pink active tablet taking (see section 4.2) or concomitant medicinal products (see section 4.5).
 
 ## Cycle control
 
@@ -393,23 +381,23 @@ With all CHCs, unscheduled bleeding (spotting or bleeding) may occur, especially
 
 If bleeding irregularities persist or occur after previously regular cycles, then non-hormonal causes should be considered, and adequate diagnostic measures are indicated to exclude malignancy or pregnancy. These may include curettage.
 
+<div style=\"page-break-after: always\"></div>
+
 In a small percentage of women (6-8%), withdrawal bleeding may not occur during the placebo tablet phase. If absence of withdrawal bleeding occurs and Drovelis has been taken according to the instructions as described in section 4.2, pregnancy is unlikely. However, pregnancy must be ruled out before Drovelis use is continued, if Drovelis has not been taken as directed, or if two consecutive withdrawal bleeds do not occur.
 
 ## Laboratory tests
 
-<div style=\"page-break-after: always\"></div>
+The use of contraceptive steroids may influence the results of certain laboratory tests, including biochemical parameters of liver, thyroid, adrenal and renal function, plasma levels of (carrier) proteins, e.g. corticosteroid binding globulin (CBG) and lipid/lipoprotein fractions, parameters of carbohydrate metabolism and parameters of coagulation and fibrinolysis. Changes generally remain within the normal laboratory range. Drospirenone causes an increase in plasma renin activity and plasma aldosterone induced by its mild anti-mineralocorticoid activity.
 
-The use of contraceptive steroids may influence the results of certain laboratory tests, including biochemical parameters of liver, thyroid, adrenal and renal function, plasma levels of (carrier) proteins, e.g., corticosteroid binding globulin (CBG) and lipid/lipoprotein fractions, parameters of carbohydrate metabolism and parameters of coagulation and fibrinolysis. Changes generally remain within the normal laboratory range. Drospirenone causes an increase in plasma renin activity and plasma aldosterone induced by its mild anti-mineralocorticoid activity.
-
-## Excipients
+## Excipients with known effect
 
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucosegalactose malabsorption should not take this medicinal product.
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially
+
+'sodium-free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
-
-Note: The prescribing information of concomitant medicinal products should be consulted to identify potential interactions.
 
 ## Pharmacokinetic interactions
 
@@ -431,21 +419,17 @@ In women on long-term treatment with hepatic enzyme-inducing active substances, 
 
 The following interactions have been reported in the literature.
 
-## Medicinal products increasing the clearance of CHCs (enzyme-induction), e.g.:
+Medicinal products increasing the clearance of CHCs (enzyme-induction) Barbiturates, bosentan, carbamazepine, phenytoin, primidone, rifampicin and HIV medicinal products (e.g., ritonavir, nevirapine and efavirenz) and possibly also felbamate, griseofulvin, oxcarbazepine, topiramate and herbal preparationscontaining St. John's wort ( Hypericum perforatum ).
 
-barbiturates, bosentan, carbamazepine, phenytoin, primidone, rifampicin and HIV medicinal products (e.g. ritonavir, nevirapine and efavirenz) and possibly also felbamate, griseofulvin, oxcarbazepine, topiramate and products containing the herbal St. John's wort ( Hypericum perforatum ).
-
-## Medicinal products with variable effects on the clearance of CHCs:
-
-When co-administered with CHCs, many combinations of HIV protease inhibitors and non-nucleoside reverse transcriptase inhibitors, including combinations with HCV inhibitors can increase or decrease plasma concentrations of oestrogens and progestogens. The effect of these changes may be clinically relevant in some cases.
-
-Therefore, the prescribing information of concomitant HIV/HCV medicinal products should be consulted to identify potential interactions and any related recommendations. In case of any doubt, an
+Medicinal products with variable effects on the clearance of CHCs
 
 <div style=\"page-break-after: always\"></div>
 
-additional barrier method of contraception should be used by women on protease inhibitor or nonnucleoside reverse transcriptase inhibitor therapy.
+When co-administered with CHCs, many combinations of HIV protease inhibitors and non-nucleoside reverse transcriptase inhibitors, including combinations with HCV inhibitors can increase or decrease plasma concentrations of oestrogens and progestogens. The effect of these changes may be clinically relevant in some cases.
 
-## Medicinal products decreasing the clearance of CHCs (enzyme inhibitors):
+Therefore, the prescribing information of concomitant HIV/HCV medicinal products should be consulted to identify potential interactions and any related recommendations. In case of any doubt, an additional barrier method of contraception should be used by women on protease inhibitor or nonnucleoside reverse transcriptase inhibitor therapy.
+
+## Medicinal products decreasing the clearance of CHCs (enzyme inhibitors)
 
 The clinical relevance of potential interactions with enzyme inhibitors remains unknown. Concomitant administration of strong CYP3A4 inhibitors can increase plasma concentrations of oestrogens or progestogens or both.
 
@@ -459,7 +443,7 @@ Estetrol is predominantly glucuronised by UDP-glucuronosyltransferase (UGT) 2B7 
 
 ## Effects of Drovelis on other medicinal products
 
-Oral contraceptives may affect the metabolism of certain other active substances. Accordingly, plasma and tissue concentrations may either increase (e.g., ciclosporin) or decrease (e.g., lamotrigine).
+Oral contraceptives may affect the metabolism of certain other active substances. Accordingly, plasma and tissue concentrations may either increase (e.g. ciclosporin) or decrease (e.g. lamotrigine).
 
 Based on in vitro inhibition studies and in vivo interaction studies in female volunteers using omeprazole, simvastatin and midazolam as marker substrate, an interaction of drospirenone at doses of 3 mg with the metabolism of other active substances is unlikely.
 
@@ -473,6 +457,8 @@ In patients without renal impairment, the concomitant use of drospirenone and an
 
 ## Paediatric population
 
+<div style=\"page-break-after: always\"></div>
+
 Interaction studies have only been performed in adults.
 
 ## 4.6 Fertility, pregnancy and lactation
@@ -481,21 +467,19 @@ Interaction studies have only been performed in adults.
 
 Drovelis is not indicated during pregnancy.
 
-<div style=\"page-break-after: always\"></div>
-
 If pregnancy occurs while taking Drovelis, further intake must be stopped.
 
 There is limited amount of data from the use of Drovelis in pregnant women.
 
 Studies in animals have shown reproductive toxicity (see section 5.3). Based on animal experience, harmful effects due to hormonal action of the active substances cannot be excluded.
 
-The increased risk of VTE during the postpartum period should be considered when re-starting Drovelis (see section 4.2 and 4.4).
+The increased risk of VTE during the postpartum period should be considered when re-starting Drovelis (see sections 4.2 and 4.4).
 
 ## Breast-feeding
 
-Small amounts of the contraceptive steroids and/or their metabolites may be excreted with the breast milk and might affect the child.
+Small amounts of the contraceptive steroids and metabolites may be excreted in human milk and might affect the newborns/infants.
 
-Breast-feeding may be influenced by CHCs as they may reduce the quantity and change the composition of breast milk. Therefore, the use of CHCs should not be recommended until the breast-feeding mother has completely weaned her child and an alternative method of contraception should be proposed to women wishing to breastfeed.
+Breast-feeding may be influenced by CHCs as they may reduce the quantity and change the composition of human milk. Therefore, the use of CHCs should not be recommended until the breast-feeding mother has completely weaned her child and an alternative method of contraception should be proposed to women wishing to breastfeed.
 
 ## Fertility
 
@@ -515,80 +499,56 @@ The most commonly reported adverse reactions with Drovelis are metrorrhagia (4.3
 
 Adverse reactions that have been identified are listed below (see table 3).
 
-Adverse reactions are listed according to the MedDRA system organ class and ranked under frequency groupings using the following convention: common ( ≥ 1/100 to &lt;1/10), uncommon ( ≥ 1/1,000 to &lt;1/100) and rare ( ≥ 1/10,000 to &lt;1/1,000).
+Adverse reactions are listed according to the MedDRA system organ class and ranked under frequency groupings using the following convention: common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1000 to &lt; 1/100) and rare ( ≥ 1/10 000 to &lt; 1/1000).
 
-Table 3: List of adverse reactions
+## Table 3: List of adverse reactions
 
-| System organ class                                                       | Common   | Uncommon                                                   | Rare                   |
-|--------------------------------------------------------------------------|----------|------------------------------------------------------------|------------------------|
-| Infections and infestations                                              |          | Fungal infection Vaginal infection Urinary tract infection | Mastitis               |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |          |                                                            | Fibroadenoma of breast |
-| Immune system disorders                                                  |          |                                                            | Hypersensitivity       |
+| System organ class          | Common   | Uncommon                                                   | Rare     |
+|-----------------------------|----------|------------------------------------------------------------|----------|
+| Infections and infestations |          | Fungal infection Vaginal infection Urinary tract infection | Mastitis |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                              | Common                                              | Uncommon                                                                   | Rare                                                                                                                                |
-|-------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Metabolism and nutrition disorders              |                                                     | Appetite disorder                                                          | Hyperkalaemia Fluid retention                                                                                                       |
-| Psychiatric disorders                           | Mood disorders and disturbances (1) Libido disorder | Depression (2) Anxiety disorder (3) Insomnia Emotional disorder (4) Stress | Nervousness                                                                                                                         |
-| Nervous system disorders                        | Headache                                            | Migraine Dizziness Paraesthesia Somnolence                                 | Amnesia                                                                                                                             |
-| Eye disorders                                   |                                                     |                                                                            | Visual impairment Vision blurred Dry eye                                                                                            |
-| Ear and labyrinth disorders                     |                                                     |                                                                            | Vertigo                                                                                                                             |
-| Vascular disorders                              |                                                     | Hot flush                                                                  | Hypertension Venous thrombosis Thrombophlebitis Hypotension Varicose vein                                                           |
-| Gastrointestinal disorders                      | Abdominal pain Nausea                               | Abdominal distension Vomiting Diarrhoea                                    | Gastroesophageal reflux disease Colitis Gastrointestinal motility disorder Constipation Dyspepsia Flatulence Dry mouth Lip swelling |
-| Skin and subcutaneous tissue disorders          | Acne                                                | Alopecia Hyperhidrosis (5) Skin disorders (6)                              | Dermatitis (7) Pigmentation disorder (8) Hirsutism Seborrhoea Pruritus Swelling of face Urticaria Skin discolouration               |
-| Musculoskeletal and connective tissue disorders |                                                     | Back pain                                                                  | Muscle spasms Limb discomfort Joint swelling Pain in extremity                                                                      |
-| Renal and urinary disorders                     |                                                     |                                                                            | Bladder spasm Urine odour abnormal                                                                                                  |
-| Pregnancy, puerperium and perinatal conditions  |                                                     |                                                                            | Ectopic pregnancy                                                                                                                   |
+| System organ class                                                       | Common                                              | Uncommon                                                                   | Rare                                                                                                                                |
+|--------------------------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |                                                     |                                                                            | Fibroadenoma of breast                                                                                                              |
+| Immune system disorders                                                  |                                                     |                                                                            | Hypersensitivity                                                                                                                    |
+| Metabolism and nutrition disorders                                       |                                                     | Appetite disorder                                                          | Hyperkalaemia Fluid retention                                                                                                       |
+| Psychiatric disorders                                                    | Mood disorders and disturbances (1) Libido disorder | Depression (2) Anxiety disorder (3) Insomnia Emotional disorder (4) Stress | Nervousness                                                                                                                         |
+| Nervous system disorders                                                 | Headache                                            | Migraine Dizziness Paraesthesia Somnolence                                 | Amnesia                                                                                                                             |
+| Eye disorders                                                            |                                                     |                                                                            | Visual impairment Vision blurred Dry eye                                                                                            |
+| Ear and labyrinth disorders                                              |                                                     |                                                                            | Vertigo                                                                                                                             |
+| Vascular disorders                                                       |                                                     | Hot flush                                                                  | Hypertension Venous thrombosis Thrombophlebitis Hypotension Varicose vein                                                           |
+| Gastrointestinal disorders                                               | Abdominal pain Nausea                               | Abdominal distension Vomiting Diarrhoea                                    | Gastroesophageal reflux disease Colitis Gastrointestinal motility disorder Constipation Dyspepsia Flatulence Dry mouth Lip swelling |
+| Skin and subcutaneous tissue disorders                                   | Acne                                                | Alopecia Hyperhidrosis (5) Skin disorders (6)                              | Dermatitis (7) Pigmentation disorder (8) Hirsutism Seborrhoea Pruritus Swelling of face Urticaria Skin discolouration               |
+| Musculoskeletal and connective tissue disorders                          |                                                     | Back pain                                                                  | Muscle spasms Limb discomfort Joint swelling Pain in extremity                                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class                                   | Common                                                                 | Uncommon                                                                                                                                                                                            | Rare                                                                                                                                                                  |
 |------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Renal and urinary disorders                          |                                                                        |                                                                                                                                                                                                     | Bladder spasm Urine odour abnormal                                                                                                                                    |
+| Pregnancy, puerperium and perinatal conditions       |                                                                        |                                                                                                                                                                                                     | Ectopic pregnancy                                                                                                                                                     |
 | Reproductive system and breast disorders             | Breast pain Metrorrhagia Vaginal haemorrhage Dysmenorrhoea Menorrhagia | Abnormal withdrawal bleeding (9) Breast swelling Vulvovaginal disorder (10) Vaginal discharge Premenstrual syndrome Breast mass (11) Uterine spasm Uterine haemorrhage Menometrorrhagia Dyspareunia | Ovarian cyst Lactation disorders Endometrial disorder Dysfunctional uterine bleeding Pelvic pain Nipple disorder Breast discolouration Coital bleeding                |
 | General disorders and administration site conditions |                                                                        | Fatigue Oedema Chest pain Feeling abnormal                                                                                                                                                          | Malaise (12) Pain Hyperthermia                                                                                                                                        |
 | Investigations                                       | Weight fluctuation                                                     | Hepatic enzyme increased Lipids abnormal                                                                                                                                                            | Blood pressure increased Renal function test abnormal Blood potassium increased Blood glucose increased Haemoglobin decreased Serum ferritin decreased Blood in urine |
-
-(1) including affect lability, anger, euphoric mood, irritability, altered mood and mood swings
-
-(2) including depressed mood, depressive symptom, tearfulness and depression
-
-(3) including agitation, anxiety, generalised anxiety disorder and panic attack
-
-(4 ) including emotional disorder, emotional distress and crying
-
-(5) including night sweats, hyperhidrosis and cold sweat
-
-(6) including dry skin, rash and skin swelling
-
-(7) including dermatitis and eczema
-
-(8) including chloasma and skin hyperpigmentation
-
-(9) including abnormal withdrawal bleeding, amenorrhoea, menstrual disorder, irregular menstruation, oligomenorrhoea and polymenorrhoe
-
-(10) including  vaginal  odour,  vulvovaginal  discomfort,  vulvovaginal  dryness,  vulvovaginal  pain, vulvovaginal pruritus and vulvovaginal burning sensation
-
-(11) including breast mass and fibrocystic breast disease
-
-(12) including malaise and decreased performance status
 
 ## Description of selected adverse reactions
 
 An increased risk of arterial and venous thrombotic and thromboembolic events, including myocardial infarction, stroke, transient ischemic attacks, venous thrombosis and pulmonary embolism has been observed in women using CHCs, which is discussed in more detail in section 4.4.
 
-The following serious adverse events have been reported in women using CHCs, which are discussed in section 4.4 Special warning and precautions for use:
+The following serious adverse reactions have been reported in women using CHCs, which are discussed in section 4.4 Special warning and precautions for use:
 
 - -Venous thromboembolic disorders;
 - -Arterial thromboembolic disorders;
-- -Hypertension;
-- -Liver tumours;
-- -Occurrence or deterioration of conditions for which association with CHC use is not conclusive: Crohn's disease, ulcerative colitis, epilepsy, uterine myoma, porphyria, systemic lupus erythematosus, herpes gestationis, Sydenham's chorea, haemolytic uremic syndrome, cholestatic jaundice;
 
 <div style=\"page-break-after: always\"></div>
 
+- -Hypertension;
+- -Liver tumours;
+- -Occurrence or deterioration of conditions for which association with CHC use is not conclusive: Crohn's disease, ulcerative colitis, epilepsy, uterine myoma, porphyria, systemic lupus erythematosus, herpes gestationis, Sydenham's chorea, haemolytic uremic syndrome, cholestatic jaundice;
 - -Chloasma;
-- -Acute or chronic disturbances of liver function may necessitate the discontinuation of CHC use until markers of liver function return to normal.
+- -Acute or chronic disturbances of liver function may necessitate the discontinuation of CHC use until markers of liver function return to normal;
 - -Exogenous estrogens may induce or exacerbate symptoms of hereditary and acquired angioedema.
 
 The frequency of diagnosis of breast cancer is very slightly increased among CHC users. As breast cancer is rare in women under 40 years of age the excess number is small in relation to the overall risk of breast cancer. Causation with CHC use is unknown. For further information, see sections 4.3 and 4.4.
@@ -599,9 +559,9 @@ Breakthrough bleeding and/or contraceptive failure may result from interactions 
 
 ## Paediatric population
 
-In a phase 3 study including 105 adolescents aged 12 to-17 years, Drovelis was well-tolerated for 6 cycles of use and no safety concerns were raised during the study.
+In a phase 3 study including 105 adolescents aged 12 to 17 years, Drovelis was well-tolerated for 6 cycles of use and no safety concerns were raised during the study.
 
-The most commonly reported adverse reactions in the adolescent population were dysmenorrhoea (1.9%) and nausea (1.9%). Other adverse events were reported in ≤ 1% of the study population.
+The most commonly reported adverse reactions in the adolescent population were dysmenorrhoea (1.9%) and nausea (1.9%). Other adverse reactions were reported in ≤ 1% of the study population.
 
 ## Reporting of suspected adverse reactions
 
@@ -621,11 +581,11 @@ Pharmacotherapeutic group: Sex hormones and modulators of the genital system, pr
 
 Drovelis contains the oestrogen estetrol and the progestogen drospirenone. Estetrol is an oestrogen that is only produced during pregnancy by the human foetal liver.
 
+<div style=\"page-break-after: always\"></div>
+
 Estetrol demonstrates anti-gonadotropic activity characterised by a dose-dependent decrease in both serum follicle-stimulating hormone (FSH) and luteinizing hormone (LH) levels.
 
 The progestogen drospirenone possesses progestagenic, antigonadotropic, antiandrogenic and mild antimineralocorticoid properties and has no oestrogenic, glucocorticoid or antiglucocorticoid activity. These properties are pharmacologically similar to the natural hormone progesterone.
-
-<div style=\"page-break-after: always\"></div>
 
 The contraceptive effect of Drovelis is based on the interaction of various factors, the most important of which is inhibition of ovulation.
 
@@ -633,9 +593,11 @@ The contraceptive effect of Drovelis is based on the interaction of various fact
 
 Two clinical studies were performed worldwide, one pivotal study in the EU/Russia and a supportive study in the US in women between 16 and 50 years of age for 13 cycles/1 year.
 
-The following Pearl Indices in women 18-35 years of age were found in the pivotal EU/Russia study based on a total of 14,759 cycles in which cycles with back-up contraception and cycles with no sexual activity have been excluded:
+The following Pearl Indices in women 18-35 years of age were found in the pivotal EU/Russia study based on a total of 14 759 cycles in which cycles with back-up contraception and cycles with no sexual activity have been excluded:
 
-Method failure: 0.26 (upper limit 95% confidence interval 0.77); Method and user failure: 0.44 (upper limit 95% confidence interval 1.03).
+Method failure: 0.26 (upper limit 95% confidence interval 0.77);
+
+Method and user failure: 0.44 (upper limit 95% confidence interval 1.03).
 
 The study in the US found higher Pearl Indices than noted in the EU/Russia study. It is known that Pearl Indices of studies performed in the US are higher than noted in EU studies, but the cause of this discrepancy is unknown.
 
@@ -645,7 +607,7 @@ Endometrial histology was investigated in a subgroup of women (n=108) in one cli
 
 ## Paediatric population
 
-A multicenter, open-label, single-arm phase 3 study to evaluate the safety, compliance and pharmacokinetics  (PK) of Drovelis in post-menarchal adolescents was conducted in Europe in 105 patients aged 12 to 17 years for 6 cycles. Scheduled and unscheduled bleeding data in adolescents showed good cycle control and acceptable pattern and were consistent with those from phase 3 Studies in adult females. Treatment with Drovelis in adolescents resulted in decreased symptoms for dysmenorrhea, indicated by a decreased Visual Analogue Scale score &gt;30% and a decreased use of rescue medication after 3 cycles of use and remained up to the end of the study. Available pharmacokinetic data are described in section 5.2.
+A multicenter, open-label, single-arm phase 3 study to evaluate the safety, compliance and pharmacokinetics (PK) of Drovelis in post-menarchal adolescents was conducted in Europe in 105 patients aged 12 to 17 years for 6 cycles. Scheduled and unscheduled bleeding data in adolescents showed good cycle control and acceptable pattern and were consistent with those from phase 3 Studies in adult females. Treatment with Drovelis in adolescents resulted in decreased symptoms for dysmenorrhea, indicated by a decreased Visual Analogue Scale score &gt; 30% and a decreased use of rescue medication after 3 cycles of use and remained up to the end of the study. Available pharmacokinetic data are described in section 5.2.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -657,17 +619,15 @@ Estetrol is rapidly absorbed after ingestion. After intake of Drovelis, average 
 
 ## Distribution
 
+<div style=\"page-break-after: always\"></div>
+
 Estetrol does not bind to SHBG. Estetrol displayed moderate binding to human plasma proteins (45.5% to 50.4%) and human serum albumin (58.6%), and low binding to human alpha-glycoprotein (11.2%). Estetrol is equally distributed between red blood cells and plasma.
 
-In vitro studies indicated that estetrol is a substrate of P-gp and BCRP transporters. Co-administration of drugs that affect the activity of P-gp and BCRP is however unlikely to result in a clinically relevant drug interaction with estetrol.
+In vitro studies indicated that estetrol is a substrate of P-gp and BCRP transporters. Co-administration of medicinal products that affect the activity of P-gp and BCRP is however unlikely to result in a clinically relevant drug interaction with estetrol.
 
 ## Biotransformation
 
-After oral administration, estetrol undergoes extensive phase 2 metabolism to form glucuronide and sulphate conjugates. The two main metabolites estetrol-3-glucuronide and estetrol-16-glucuronide have negligible oestrogenic activity. UGT2B7 is the dominant UGT isoform involved in the
-
-<div style=\"page-break-after: always\"></div>
-
-biotransformation of estetrol into a direct glucuronide. Estetrol undergoes sulfation, mainly by specific oestrogen sulfotransferase (SULT1E1).
+After oral administration, estetrol undergoes extensive phase 2 metabolism to form glucuronide and sulphate conjugates. The two main metabolites estetrol-3-glucuronide and estetrol-16-glucuronide have negligible oestrogenic activity. UGT2B7 is the dominant UGT isoform involved in the biotransformation of estetrol into a direct glucuronide. Estetrol undergoes sulfation, mainly by specific oestrogen sulfotransferase (SULT1E1).
 
 ## Elimination
 
@@ -683,11 +643,29 @@ When Drovelis is administered from 1 to 5 times the dose, estetrol plasma levels
 
 Steady-state is achieved after 5 days. Cmax of estetrol is about 17.9 ng/mL and is reached 0.5-2 hours after dosing. Average serum concentrations are 2.46 ng/mL. The accumulation is very limited with daily area under the curve (AUC) at steady-state 60% larger than after a single dose.
 
+## Renal impairment
+
+A study to evaluate the effect of renal disease on pharmacokinetics of estetrol was performed with a single oral dose of 20 mg estetrol monohydrate administered in female subjects with normal renal function, mild renal impairment (absolute glomerular filtration rate (GFR) ≥ 60 to &lt; 90 mL/min), moderate renal impairment (GFR ≥ 30 to &lt; 60 mL/min) and severe renal impairment (GFR &lt; 30 mL/min)).
+
+Cmax and AUCinf for estetrol were ~1.1-fold and ~1.7-fold, respectively, in mild renal impairment versus subjects with normal renal function; ~1.8-fold and ~ 2.3-fold, respectively, in moderate renal impairment versus subjects with normal renal function, and ~1.5-fold and ~2.3-fold, respectively, in severe renal impairment versus subjects with normal renal function.
+
+Renal clearance (CLr) was decreased by 20% in the group with mild renal impairment, 40% in the group with moderate renal impairment, and 71% in the group with severe renal impairment compared to the group with normal renal function.
+
+The study results indicate that the increase of estetrol plasma exposure in subjects with moderate and severe renal impairment compared to subjects with a normal renal function could be of clinical relevance (see section 4.2).
+
+## Hepatic impairment
+
+<div style=\"page-break-after: always\"></div>
+
+A study has been performed with a single oral dose of 20 mg estetrol monohydrate administered in female subjects with normal hepatic function, mild hepatic impairment (Child-Pugh class A), moderate hepatic impairment (Child-Pugh class B), and severe hepatic impairment (Child-Pugh class C).
+
+The results show that Cmax and AUCinf ratios for estetrol were ~ 1.7-fold and ~ 1.1-fold, respectively, in mild hepatic impairment versus subjects with normal hepatic function; ~ 1.9-fold and ~ 1-fold, respectively, in moderate hepatic impairment versus subjects with normal hepatic function, and ~ 5.4fold and ~ 1.9-fold, respectively, in severe hepatic impairment versus subjects with normal hepatic function.
+
 ## Drospirenone
 
 ## Absorption
 
-Drospirenone is rapidly and almost completely absorbed. After intake of Drovelis, Cmax of about 48.7 ng/mL is reached at about 1-3 h after multiple ingestion. Bioavailability is between 76 and 85%. The overall exposure to drospirenone is similar regardless of food intake around tablet intake of Drovelis.
+Drospirenone is rapidly and almost completely absorbed. After intake of Drovelis, Cmax of about 48.7 ng/mL is reached at about 1-3 h after multiple ingestion. Bioavailability is between 76 and 85%. The overall exposure to drospirenone is similar regardless of food intake around tablet intake.
 
 ## Distribution
 
@@ -709,35 +687,15 @@ Drospirenone plasma levels do not show any relevant deviation from dose-proporti
 
 Steady-state is achieved after 10 days. Cmax of drospirenone of about 48.7 ng/mL is reached after about 1-3 hours after dosing. The mean concentration during steady state over a 24-hour dosing period is approximately 22 ng/mL. The accumulation is very limited with daily AUC at steady-state 80% larger than after a single dose.
 
-## Special populations
+## Renal impairment
+
+In a study performed with drospirenone 3 mg alone administered orally for 14 days, steady-state serum drospirenone levels in women with mild renal impairment (creatinine clearance (CLcr)=50-80 mL/min) were comparable to those of women with normal renal function. The serum
 
 <div style=\"page-break-after: always\"></div>
 
-## Renal impairment
-
-## Estetrol
-
-A study to evaluate the effect of renal disease on pharmacokinetics of estetrol was performed with a single oral dose of 20 mg estetrol monohydrate administered in female subjects with normal renal function, mild renal impairment (absolute glomerular filtration rate (GFR)  ≥60 to &lt;90 mL/min), moderate  renal  impairment  (GFR  ≥30  to  &lt;60  mL/min)  and  severe  renal  impairment  (GFR  &lt;30 mL/min)).
-
-Cmax and AUCinf for estetrol were ~1.1 fold and ~1.7 fold, respectively, in mild renal impairment versus subjects with normal renal function; ~1.8 fold and ~ 2.3 fold, respectively, in moderate renal impairment versus subjects with normal renal function, and ~1.5 fold and ~2.3 fold, respectively, in severe renal impairment versus subjects with normal renal function.
-
-Renal clearance (CLr) was decreased by 20% in the group with mild renal impairment, 40% in the group with moderate renal impairment, and 71% in the group with severe renal impairment compared to the group with normal renal function.
-
-The study results indicate that the increase of estetrol plasma exposure in subjects with moderate and severe renal impairment compared to subjects with a normal renal function could be of clinical relevance (see section 4.2).
-
-## Drospirenone
-
-In a study performed with drospirenone 3 mg alone administered orally for 14 days, steady-state serum drospirenone levels in women with mild renal impairment (creatinine clearance (CLcr)=50-80 mL/min) were comparable to those of women with normal renal function. The serum drospirenone levels were on average 37% higher in women with moderate renal impairment (CLcr=30-50 mL/min) compared with those in women with normal renal function.
+drospirenone levels were on average 37% higher in women with moderate renal impairment (CLcr=30-50 mL/min) compared with those in women with normal renal function.
 
 ## Hepatic impairment
-
-## Estetrol
-
-A study has been performed with a single oral dose of 20 mg estetrol monohydrate administered in female subjects with normal hepatic function, mild hepatic impairment (Child-Pugh class A), moderate hepatic impairment (Child-Pugh class B), and severe hepatic impairment (Child-Pugh class C).
-
-The results show that Cmax and AUCinf ratios for estetrol were ~ 1.7-fold and ~ 1.1-fold, respectively, in mild hepatic impairment versus subjects with normal hepatic function; ~ 1.9-fold and ~ 1-fold, respectively, in moderate hepatic impairment versus subjects with normal hepatic function, and ~ 5.4fold and ~ 1.9-fold, respectively, in severe hepatic impairment versus subjects with normal hepatic function.
-
-## Drospirenone
 
 In a single dose study, oral clearance of drospirenone (CL/F) was decreased approximately 50% in volunteers with moderate hepatic impairment as compared to those with normal liver function.
 
@@ -751,8 +709,6 @@ Concentrations (Ctrough) at steady state remain stable over cycles and are simil
 
 No clinically relevant differences in the pharmacokinetics of estetrol or drospirenone between Japanese and Caucasian women have been observed after single dose administration of Drovelis.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5.3 Preclinical safety data
 
 Repeated dose toxicity studies with estetrol, drospirenone or the combination have indicated expected estrogenic and gestagen effects.
@@ -763,7 +719,9 @@ Reproductive toxicity studies in rats and rabbits performed with estetrol have s
 
 Genotoxicity and carcinogenicity studies were not conducted with the combination. Estetrol and drospirenone are not considered to be genotoxic. However, it is known that due to their hormonal action, sex steroids can promote the growth of certain hormone-dependent tissues and tumours.
 
-Environmental risk assessment  studies with drospirenone have shown that drospirenone  may pose a risk to the aquatic environment (see section 6.6). Environmental risk assessment studies with estetrol including the Japanese medaka fish extended one generation reproduction test indicated that the predicted environmental exposure to estetrol will not affect the aquatic ecosystem.
+## Environmental risk assessment (ERA)
+
+Environmental risk assessment studies with drospirenone have shown that drospirenone  may pose a risk to the aquatic environment (see section 6.6). Environmental risk assessment studies with estetrol including the Japanese medaka fish extended one generation reproduction test indicated that the predicted environmental exposure to estetrol will not affect the aquatic ecosystem.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -771,17 +729,17 @@ Environmental risk assessment  studies with drospirenone have shown that drospir
 
 ## Pink active film-coated tablets
 
-Tablet core Lactose monohydrate Sodium starch glycolate Maize starch Povidone K30 Magnesium stearate (E470b)
+Tablet core Lactose monohydrate Sodium starch glycolate Maize starch Povidone K30 Magnesium stearate (E 470b)
 
-Tablet coating Hypromellose (E464) Hydroxypropylcellulose (E463) Talc (E553b) Cottonseed oil, hydrogenated Titanium dioxide (E171) Iron oxide red (E172)
+<div style=\"page-break-after: always\"></div>
+
+Tablet coating Hypromellose (E 464) Hydroxypropylcellulose (E 463) Talc (E 553b) Cottonseed oil, hydrogenated Titanium dioxide (E 171) Iron oxide red (E 172)
 
 ## White placebo film-coated tablets
 
-Tablet core Lactose monohydrate Maize starch Magnesium stearate (E470b)
+Tablet core Lactose monohydrate Maize starch Magnesium stearate (E 470b)
 
-Tablet coating Hypromellose (E464) Hydroxypropylcellulose (E463) Talc (E553b) Cottonseed oil, hydrogenated Titanium dioxide (E171)
-
-<div style=\"page-break-after: always\"></div>
+Tablet coating Hypromellose (E 464) Hydroxypropylcellulose (E 463) Talc (E 553b) Cottonseed oil, hydrogenated Titanium dioxide (E 171)
 
 ## 6.2 Incompatibilities
 
@@ -789,7 +747,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-4 years.
+4 years
 
 ## 6.4 Special precautions for storage
 
@@ -805,13 +763,15 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal
 
-Drospirenone containing medicinal products may pose a risk to the environment (see section  5.3). Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+Drospirenone containing medicinal products may pose a risk to the environment (see section 5.3). Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Gedeon Richter Plc. Gyömrői út 19 -21. 1103 Budapest Hungary
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+<div style=\"page-break-after: always\"></div>
+
+## 8. MARKETING AUTHORISATION NUMBERS
 
 EU/1/21/1547/001 EU/1/21/1547/002 EU/1/21/1547/003
 
@@ -821,26 +781,26 @@ EU/1/21/1547/004
 
 Date of first authorisation: 19 May 2021
 
+Date of latest renewal:
+
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
-
-22
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer(s) responsible for batch release
+Name and address of the manufacturers responsible for batch release
 
 Haupt Pharma Münster GmbH Schleebrüggenkamp 15 48159 Münster Germany
 
@@ -858,8 +818,6 @@ Medicinal product subject to medical prescription.
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
-The marketing authorisation holder (MAH) shall submit the first PSUR for this medicinal product within 6 months following authorisation.
-
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 ## · Risk management plan (RMP)
@@ -873,11 +831,11 @@ An updated RMP should be submitted:
 
 ## · Additional risk minimisation measures
 
+Prior to the launch of Drovelis in each Member State, the MAH will agree about the content and other aspects of the programme with the National Competent Authority.
+
+format of the educational material, including communication media, distribution modalities and any The educational materials are aimed at providing guidance on how to manage risk of thromboembolic events.
+
 <div style=\"page-break-after: always\"></div>
-
-Prior to the launch of Drovelis in each Member State, the MAH will agree about the content and format of the educational material, including communication media, distribution modalities and any other aspects of the programme with the National Competent Authority.
-
-The educational materials are aimed at providing guidance on how to manage risk of thromboembolic events.
 
 The MAH shall ensure that in each Member State where Drovelis is marketed, all healthcare professionals and patients/carers who are expected to prescribe, dispense or use the product have access to:
 
@@ -915,7 +873,7 @@ CARTON BOX
 
 Drovelis 3 mg/14.2 mg film-coated tablets drospirenone/estetrol
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+## 2. STATEMENT OF ACTIVE SUBSTANCES
 
 Each pink active tablet contains 3 mg drospirenone and estetrol monohydrate equivalent to 14.2 mg estetrol.
 
@@ -923,7 +881,7 @@ Each white placebo (inactive) tablet does not contain active substances.
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains lactose monohydrate. See package leaflet for further information.
+Also contains lactose monohydrate. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -937,7 +895,7 @@ Also contains lactose monohydrate. See package leaflet for further information.
 
 364 (13 x 28) film-coated tablets
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTES OF ADMINISTRATION
 
 Read the package leaflet before use.
 
@@ -955,73 +913,80 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
-
-Gedeon Richter Plc. Gyömrői út 19 -21.
-
-1103 Budapest, Hungary
-
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
-
-EU/1/21/1547/001 EU/1/21/1547/002 EU/1/21/1547/003
-
-EU/1/21/1547/004
-
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
-
-Lot
-
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
-
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
-
-Drovelis
-
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
-
-2D barcode carrying the unique identifier included.
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
-
-PC SN NN
-
-<div style=\"page-break-after: always\"></div>
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Drovelis 3 mg/14.2 mg tablets drospirenone/estetrol
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Gedeon Richter Plc.
 
-## 3. EXPIRY DATE
+Gyömrői út 19 -21.
 
-EXP
+1103 Budapest, Hungary
 
-## 4. BATCH NUMBER
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/21/1547/001
+
+EU/1/21/1547/002
+
+EU/1/21/1547/003
+
+EU/1/21/1547/004
+
+## 13. BATCH NUMBER
 
 Lot
 
-## 5. OTHER
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Drovelis
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTER                                             |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+Drovelis 3 mg/14.2 mg tablets drospirenone/estetrol
+
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
+
+Gedeon Richter Plc.
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
 
 Start
 
@@ -1063,7 +1028,7 @@ It is very important that you recognise when you might be at greater risk of a b
 - -in the first year of using Drovelis (including if you are re-starting use after a break of 4 weeks or more)
 - -if you are very overweight
 - -if you are older than 35 years
-- -if you have a family member who has had a blood clot at a relatively young age (eg below 50)
+- -if you have a family member who has had a blood clot at a relatively young age (e.g., below 50 years old)
 - -if you have given birth in the previous few weeks
 
 If you smoke and are over 35 years old you are strongly advised to stop smoking or use a non-hormonal method of contraception.
@@ -1072,13 +1037,13 @@ If you smoke and are over 35 years old you are strongly advised to stop smoking 
 
 - Severe pain or swelling in either of your legs that may be accompanied by tenderness, warmth or changes in the skin colour such as turning pale, red or blue. You may be experiencing a deep vein thrombosis .
 - Sudden unexplained breathlessness or rapid breathing; severe pain in the chest which may increase with deep breathing; sudden cough without an obvious cause (which may bring up blood). You may be experiencing a serious complication of deep vein thrombosis called a pulmonary embolism . This occurs if the blood clot travels from the leg to the lung.
-- Chest pain, often acute, but sometimes just discomfort, pressure, heaviness, upper body discomfort radiating to the back, jaw, throat, arm together with a feeling of fullness associated with indigestion or choking, sweating, nausea, vomiting or dizziness.  You may be experiencing a heart attack.
-- Face, arm or leg weakness or numbness, especially on one side of the body; trouble speaking or understanding; sudden confusion; sudden loss of vision or blurred vision; severe headache/migraine that is worse than normal.  You may be experiencing a stroke .
+- Chest pain, often acute, but sometimes just discomfort, pressure, heaviness, upper body discomfort radiating to the back, jaw, throat, arm together with a feeling of fullness associated with indigestion or choking, sweating, nausea, vomiting or dizziness. You may be experiencing a heart attack.
+- Face, arm or leg weakness or numbness, especially on one side of the body; trouble speaking or understanding; sudden confusion; sudden loss of vision or blurred vision; severe headache/migraine that is worse than normal. You may be experiencing a stroke .
 
 ## Watch out for symptoms of a blood clot, especially if you have :
 
 - just had an operation
-- been off your feet for a long time (eg. because of an injury or illness, or if your leg is in a cast)
+- been off your feet for a long time (e.g., because of an injury or illness, or if your leg is in a cast)
 - a long journey (more than about 4 hours)
 
 ## Remember to tell your doctor, nurse or surgeon that you are taking Drovelis if you:
@@ -1086,7 +1051,7 @@ If you smoke and are over 35 years old you are strongly advised to stop smoking 
 - are due to or have had surgery
 - are in any situation when a healthcare professional asks you if you are taking any medications
 
-For further information please read the accompanying Patient Information Leaflet or go to [NCA web address].
+For further information please read the accompanying Package Leaflet or go to [NCA web address].
 
 If you suspect you have an undesirable effect associated with the use of your CHC, you can report it to a Healthcare professional or according to your national reporting requirements.
 
@@ -1098,11 +1063,7 @@ If you suspect you have an undesirable effect associated with the use of your CH
 
 <div style=\"page-break-after: always\"></div>
 
-## Drovelis 3 mg/14.2 mg film-coated tablets
-
-## drospirenone/estetrol
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+## Drovelis 3 mg/14.2 mg film-coated tablets drospirenone/estetrol
 
 ## Important things to know about combined hormonal contraceptives (CHCs):
 
@@ -1142,9 +1103,11 @@ Before your start taking Drovelis, you should read the information on blood clot
 
 Before you can begin taking Drovelis, your doctor will ask you some questions about your personal health history and that of your close relatives. The doctor will also measure your blood pressure and, depending upon your personal situation, may also carry out some other tests.
 
+In this leaflet, several situations are described where you should stop taking the pill, or where the reliability of the pill may be decreased. In such situations, you should not have sexual intercourse or you should take extra non-hormonal contraceptive precautions, e.g. use a condom or another barrier method. Do not use rhythm or temperature methods. These methods can be unreliable because the
+
 <div style=\"page-break-after: always\"></div>
 
-In this leaflet, several situations are described where you should stop taking the pill, or where the reliability of the pill may be decreased. In such situations, you should not have sexual intercourse or you should take extra non-hormonal contraceptive precautions, e.g., use a condom or another barrier method. Do not use rhythm or temperature methods. These methods can be unreliable because the pill alters the usual changes in temperature and cervical mucus that occur during the menstrual cycle.
+pill alters the usual changes in temperature and cervical mucus that occur during the menstrual cycle.
 
 Drovelis, like other hormonal contraceptives, does not prevent against human immunodeficiency virus (HIV) infection (acquired immunodeficiency syndrome, AIDS) or any other sexually transmitted disease.
 
@@ -1152,6 +1115,7 @@ Drovelis, like other hormonal contraceptives, does not prevent against human imm
 
 You should not take Drovelis if you have any of the conditions listed below. If you do have any of the conditions listed below, you must tell your doctor. Your doctor will discuss with you what other form of birth control would be more appropriate.
 
+- -if you are allergic to estetrol or drospirenone, or any of the other ingredients of this medicine (listed in section 6);
 - -if you have (or have ever had) a blood clot in a blood vessel of your legs (deep vein thrombosis, DVT), your lungs (pulmonary embolus, PE) or other organs;
 - -if you know you have a disorder affecting your blood clotting - for instance, protein C deficiency, protein S deficiency, antithrombin-III deficiency, factor V Leiden or antiphospholipid antibodies;
 - -if you need an operation or if you are off your feet for a long time (see section 'Blood clots');
@@ -1167,8 +1131,7 @@ You should not take Drovelis if you have any of the conditions listed below. If 
 - -if you have (or have ever had) a liver disease and your liver function is still not normal;
 - -if your kidneys are not working well (renal failure);
 - -if you have (or have ever had) or if you are suspected of having breast cancer or cancer of the genital organs;
-- -if you have any unexplained bleeding from the vagina;
-- -if you are allergic to estetrol or drospirenone, or any of the other ingredients of this medicine (listed in section 6).
+- -if you have any unexplained bleeding from the vagina.
 
 If any of these conditions appear for the first time while using Drovelis, stop taking it immediately and tell your doctor. In the meantime, use a non-hormonal contraceptive. See also 'General notes' in section 2 above.
 
@@ -1176,19 +1139,19 @@ If any of these conditions appear for the first time while using Drovelis, stop 
 
 Talk to your doctor or pharmacist before taking Drovelis.
 
-<div style=\"page-break-after: always\"></div>
-
 When should you contact your doctor?
 
 ## Seek urgent medical attention
 
-- if you notice possible signs of a blood clot that may mean you are suffering from a blood clot in the leg (i.e. deep vein thrombosis), a blood clot in the lung (i.e. pulmonary embolism), a heart attack or a stroke (see 'Blood clots' section below).
+- if you notice possible signs of a blood clot that may mean you are suffering from a blood clot in the leg (i.e., deep vein thrombosis), a blood clot in the lung (i.e., pulmonary embolism), a heart attack or a stroke (see 'Blood clots' section below).
 
 For a description of the symptoms of these serious side effects please go to 'How to recognise a blood clot'.
 
 ## Tell your doctor if any of the following conditions apply to you
 
 If the condition develops, or gets worse while you are taking Drovelis, you should also tell your doctor:
+
+<div style=\"page-break-after: always\"></div>
 
 - -if a close relative has or has ever had breast cancer;
 - -if you have hereditary or acquired angioedema. Medicines containing oestrogens may induce or worsen symptoms of angioedema. See your doctor immediately if you experience symptoms of angioedema such as swollen face, tongue and/or throat and/or difficulty swallowing or hives, together with difficulty breathing;
@@ -1220,39 +1183,45 @@ Blood clots can develop
 
 Recovery from blood clots is not always complete. Rarely, there may be serious lasting effects or, very rarely, they may be fatal.
 
-<div style=\"page-break-after: always\"></div>
-
-## It is important to remember that the overall risk of a harmful blood clot due to Drovelis is small.
+It is important to remember that the overall risk of a harmful blood clot due to Drovelis is small.
 
 ## HOW TO RECOGNISE A BLOOD CLOT
 
 Seek urgent medical attention if you notice any of the following signs or symptoms.
 
-| Are you experiencing any of these signs?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | What are you possibly suffering from?           |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| - swelling of one leg or along a vein in the leg or foot especially when accompanied by: - pain or tenderness in the leg which may be felt only when standing or walking - increased warmth in the affected leg - change in colour of the skin on the leg e.g. turing pale, red or blue                                                                                                                                                                                                                                                                                             | Deep vein thrombosis                            |
-| - sudden unexplained breathlessness or rapid breathing; - sudden cough without an obvious cause, which may bring up blood; - sharp chest pain which may increase with deep breathing; - severe light headedness or dizziness; - rapid or irregular heartbeat; - severe pain in your stomach; If you are unsure, talk to a doctor as some of these symptoms such as coughing or being short of breath may be mistaken for a milder condition such as a respiratory tract infection (e.g. a 'common cold').                                                                           | Pulmonary embolism                              |
-| Symptoms most commonly occur in one eye: - immediate loss of vision or painless blurring of vision which can progress to loss of vision;                                                                                                                                                                                                                                                                                                                                                                                                                                            | Retinal vein thrombosis (blood clot in the eye) |
-| - chest pain, discomfort, pressure, heaviness; - sensation of squeezing or fullness in the chest, arm or below the breastbone; - fullness, indigestion or choking feeling; - upper body discomfort radiating to the back, jaw, throat, arm and stomach; - sweating, nausea, vomiting or dizziness; - extreme weakness, anxiety, or shortness of breath; - rapid or irregular heartbeats.                                                                                                                                                                                            | Heart attack                                    |
-| - sudden weakness or numbness of the face, arm or leg, especially on one side of the body; - sudden confusion, trouble speaking or understanding; - sudden trouble seeing in one or both eyes; - sudden trouble walking, dizziness, loss of balance or coordination; - sudden, severe or prolonged headache with no known cause; - loss of consciousness or fainting with or without seizure; Sometimes the symptoms of stroke can be brief with an almost immediate and full recovery, but you should still seek urgent medical attention as you may be at risk of another stroke. | Stroke                                          |
+| Are you experiencing any of these signs?   | Are you experiencing any of these signs?                                               | What are you possibly suffering from?   |
+|--------------------------------------------|----------------------------------------------------------------------------------------|-----------------------------------------|
+| -                                          | swelling of one leg or along a vein in the leg or foot especially when accompanied by: | Deep vein thrombosis                    |
 
 <div style=\"page-break-after: always\"></div>
 
-| - -   | swelling and slight blue discolouration of an extremity; severe pain in your stomach (acute abdomen).   | Blood clots blocking other blood vessels   |
-|-------|---------------------------------------------------------------------------------------------------------|--------------------------------------------|
+| - pain or tenderness in the leg which may be felt only when standing or walking - increased warmth in the affected leg - change in colour of the skin on the leg e.g., turing pale, red or blue                                                                                                                                                                                                                                                                                                                                                                                     |                                                 |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| - sudden unexplained breathlessness or rapid breathing; - sudden cough without an obvious cause, which may bring up blood; - sharp chest pain which may increase with deep breathing; - severe light headedness or dizziness; - rapid or irregular heartbeat; - severe pain in your stomach; If you are unsure, talk to a doctor as some of these symptoms such as coughing or being short of breath may be mistaken for a milder condition such as a respiratory tract infection (e.g., a 'common cold').                                                                          | Pulmonary embolism                              |
+| Symptoms most commonly occur in one eye: - immediate loss of vision or painless blurring of vision which can progress to loss of vision;                                                                                                                                                                                                                                                                                                                                                                                                                                            | Retinal vein thrombosis (blood clot in the eye) |
+| - chest pain, discomfort, pressure, heaviness; - sensation of squeezing or fullness in the chest, arm or below the breastbone; - fullness, indigestion or choking feeling; - upper body discomfort radiating to the back, jaw, throat, arm and stomach; - sweating, nausea, vomiting or dizziness; - extreme weakness, anxiety, or shortness of breath; - rapid or irregular heartbeats.                                                                                                                                                                                            | Heart attack                                    |
+| - sudden weakness or numbness of the face, arm or leg, especially on one side of the body; - sudden confusion, trouble speaking or understanding; - sudden trouble seeing in one or both eyes; - sudden trouble walking, dizziness, loss of balance or coordination; - sudden, severe or prolonged headache with no known cause; - loss of consciousness or fainting with or without seizure; Sometimes the symptoms of stroke can be brief with an almost immediate and full recovery, but you should still seek urgent medical attention as you may be at risk of another stroke. | Stroke                                          |
+| - swelling and slight blue discolouration of an extremity; - severe pain in your stomach (acute abdomen).                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Blood clots blocking other blood vessels        |
 
 ## BLOOD CLOTS IN A VEIN
 
 ## What can happen if a blood clot forms in a vein?
 
-- -The use of combined hormonal contraceptives has been connected with an increase in the risk of blood clots in the vein (venous thrombosis). However, these side effects are rare. Most frequently, they occur in the first year of use of a combined hormonal contraceptive.
-- -If a blood clot forms in a vein in the leg or foot it can cause a deep vein thrombosis (DVT).
-- -If a blood clot travels from the leg and lodges in the lung it can cause a pulmonary embolism.
+- -The use of combined hormonal contraceptives has been connected with an increase in the risk of blood clots in the vein (venous thrombosis). However, these side effects are rare. Most
+
+frequently, they occur in the first year of use of a combined hormonal contraceptive.
+
+- -If a blood clot forms in a vein in the leg or foot it can cause a DVT.
+- -If a blood clot travels from the leg and lodges in the lung it can cause a PE.
 - -Very rarely a clot may form in a vein in another organ such as the eye (retinal vein thrombosis).
+
+<div style=\"page-break-after: always\"></div>
 
 ## When is the risk of developing a blood clot in a vein highest?
 
-The risk of developing a blood clot in a vein is highest during the first year of taking combined hormonal contraceptive for the first time. The risk may also be higher if you restart taking a combined hormonal contraceptive (the same medicine or a different medicine) after a break of 4 weeks or more. After the first year, the risk gets smaller but is always slightly higher than if you were not using a combined hormonal contraceptive.
+The risk of developing a blood clot in a vein is highest during the first year of taking combined hormonal contraceptive for the first time. The risk may also be higher if you restart taking a combined hormonal contraceptive (the same medicine or a different medicine) after a break of 4 weeks or more. After the first year, the risk gets smaller but is always slightly higher than if you were not using a
+
+combined hormonal contraceptive.
 
 When you stop Drovelis your risk of a blood clot returns to normal within a few weeks.
 
@@ -1262,26 +1231,26 @@ The risk depends on your natural risk of VTE and the type of combined hormonal c
 
 The overall risk of a blood clot in the leg or lung (DVT or PE) with Drovelis is small.
 
-- -Out of 10,000 women who are not using any combined hormonal contraceptive and are not pregnant, about 2 will develop a blood clot in a year.
-- -Out of 10,000 women who are using a combined hormonal contraceptive that contains low-dose ethinylestradiol (&lt;50 microgram ethinylestradiol) combined with levonorgestrel, norethisterone, or norgestimate about 5-7 will develop a blood clot in a year.
+- -Out of 10 000 women who are not using any combined hormonal contraceptive and are not pregnant, about 2 will develop a blood clot in a year.
+- -Out of 10 000 women who are using a combined hormonal contraceptive that contains low-dose ethinylestradiol (&lt; 50 microgram ethinylestradiol) combined with levonorgestrel,
+
+norethisterone, or norgestimate about 5-7 will develop a blood clot in a year.
+
 - -It is not yet known how the risk of a blood clot with Drovelis compares to the risk with a combined hormonal contraceptive that contains levonorgestrel.
 - -The risk of having a blood clot will vary according to your personal medical history (see 'Factors that increase your risk of a blood clot' below).
 
-|                                                                                                                                                                                      | Risk of developing a blood clot in a year   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
-| Women who are not using a combined hormonal pill/patch/ring and are not pregnant                                                                                                     | About 2 out of 10,000 women                 |
-| Women using a combined hormonal contraceptive pill containing low-dose ethinylestradiol(<50 microgram ethinylestradiol) combined with levonorgestrel, norethisterone or norgestimate | About 5-7 out of 10,000 women               |
-| Women using Drovelis                                                                                                                                                                 | Not yet known                               |
+|                                                                                                                                                                                       | Risk of developing a blood clot in a year   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| Women who are not using a combined hormonal pill/patch/ring and are not pregnant                                                                                                      | About 2 out of 10 000 women                 |
+| Women using a combined hormonal contraceptive pill containing low-dose ethinylestradiol(< 50 microgram ethinylestradiol) combined with levonorgestrel, norethisterone or norgestimate | About 5-7 out of 10 000 women               |
+| Women using Drovelis                                                                                                                                                                  | Not yet known                               |
 
-## Factors that increase your risk of a blood clot in a  vein
+## Factors that increase your risk of a blood clot in a vein
 
 The risk of a blood clot with Drovelis is small but some conditions will increase the risk. Your risk is higher:
 
 - -if you are very overweight (body mass index or BMI over 30 kg/m 2 );
-- -if one of your immediate family has had a blood clot in the leg, lung or other organ at a young age (e.g. below the age of about 50 years). In this case you could have a hereditary blood clotting disorder;
-
-<div style=\"page-break-after: always\"></div>
-
+- -if one of your immediate family has had a blood clot in the leg, lung or other organ at a young age (e.g., below the age of about 50 years). In this case you could have a hereditary blood clotting disorder;
 - -if you need to have an operation, or if you are off your feet for a long time because of an injury or illness, or you have your leg in a cast. The use of Drovelis may need to be stopped several weeks before surgery or while you are less mobile. If you need to stop Drovelis ask your doctor when you can start using it again.
 - -as you get older (particularly above about 35 years);
 - -if you gave birth less than a few weeks ago.
@@ -1293,6 +1262,8 @@ Air travel (&gt; 4 hours) may temporarily increase your risk of a blood clot, pa
 It is important to tell your doctor if any of these conditions apply to you, even if you are unsure. Your doctor may decide that Drovelis needs to be stopped.
 
 If any of the above conditions change while you are using Drovelis, for example a close family member experiences a thrombosis for no known reason; or you gain a lot of weight, tell your doctor.
+
+<div style=\"page-break-after: always\"></div>
 
 ## BLOOD CLOTS IN AN ARTERY
 
@@ -1324,8 +1295,6 @@ Breast cancer has been observed slightly more often in women using combination p
 
 In rare cases, benign (noncancerous) liver tumours, and in even fewer cases malignant (cancerous) liver tumours have been reported in pill users. Contact your doctor if you have unusual severe abdominal pain.
 
-<div style=\"page-break-after: always\"></div>
-
 Cervical cancer is caused by an infection with the human papilloma virus (HPV). It has been reported to occur more often in women using the pill for more than 5 years. It is unknown if this finding is due to the use of homonal contraceptives or to other factors, such as difference in sexual behaviour.
 
 ## Psychiatric disorders
@@ -1334,7 +1303,11 @@ Some women using hormonal contraceptives including Drovelis have reported depres
 
 ## Bleeding between periods
 
-Your period will normally start while you are taking the white placebo tablets in the Drovelis pack. During the first few month that you are taking Drovelis, you may have unexpected bleeding (bleeding outside the placebo days). Mostly this bleeding is mild and usually not requiring any sanitary protection. If this bleeding occurs for more than a few months, or if it begins after some months, your doctor must find out what is wrong.
+Your period will normally start while you are taking the white placebo tablets in the Drovelis pack. During the first few month that you are taking Drovelis, you may have unexpected bleeding (bleeding
+
+<div style=\"page-break-after: always\"></div>
+
+outside the placebo days). Mostly this bleeding is mild and usually not requiring any sanitary protection. If this bleeding occurs for more than a few months, or if it begins after some months, your doctor must find out what is wrong.
 
 ## What you must do if no bleeding occurs during the placebo days
 
@@ -1352,26 +1325,26 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 Some medicines can have an influence on the blood levels of Drovelis and can make it less effective in preventing pregnancy, or can cause unexpected bleeding. These include medicines used for the treatment of:
 
-- -epilepsy (e.g. barbiturate, carbamazepine, phenytoin, primidone, felbamate, oxcarbazepine, topiramate);
-- -tuberculosis (e.g. rifampicin);
-- -HIV and hepatitis C virus (HCV) infections (e.g. so-called protease inhibitors and non-nucleoside reverse transcriptase inhibitors such as, ritonavir, nevirapine, efavirenz);
-- -fungal infections (e.g. griseofulvin);
-- -high blood pressure in the blood vessels in the lungs (e.g. bosentan).
+- -epilepsy (e.g., barbiturates, carbamazepine, phenytoin, primidone, felbamate, oxcarbazepine, topiramate);
+- -tuberculosis (e.g., rifampicin);
+- -HIV and hepatitis C virus (HCV) infections (e.g., so-called protease inhibitors and non-nucleoside reverse transcriptase inhibitors such as, ritonavir, nevirapine, efavirenz);
+- -fungal infections (e.g., griseofulvin);
+- -high blood pressure in the blood vessels in the lungs (e.g., bosentan).
 
 The herbal product St. John's wort ( Hypericum perforatum ) may also stop Drovelis from working properly. If you want to use herbal products containing St. John's wort while you are already using Drovelis you should consult your doctor first.
 
 If you are taking these medicines or herbal products that might make Drovelis less effective, a barrier contraceptive method should also be used. The barrier method must be used during the whole time of the concomitant medicine therapy and for 28 days after its discontinuation If the concomitant  medicine therapy runs beyond the end of the pink active tablets in the current pack, the white placebo tablets must be discarded and the next pack of Drovelis should be started right away.
 
-<div style=\"page-break-after: always\"></div>
-
 If long-term treatment with the above mentioned medicines is necessary, you should use non-hormonal contraceptive methods. Ask your doctor or pharmacist for advice.
 
-Drovelis may influence the effect of other medicines, e.g.:
+Drovelis may influence the effect of other medicines, e.g.,:
 
 - -ciclosporin (medicine used for the treatment of suppression of tissue rejection following transplant surgery);
 - -lamotrigine (medicine used for the treatment of epilepsy).
 
 The HCV combination therapeutic regimen ombitasvir/paritaprevir/ritonavir and dasabuvir with or without ribavirin as well as regimen glecaprevir/pibrentasvir or sofosbuvir/velpatasvir/voxilaprevir may cause increases in liver function blood test results (increase in ALT liver enzyme) in women using CHCs containing ethinylestradiol. Drovelis contains estetrol instead of ethinylestradiol. It is not known whether an increase in ALT liver enzyme can occur when using Drovelis with these HCV combination therapeutic regimens. Your doctor will advise you.
+
+<div style=\"page-break-after: always\"></div>
 
 Ask your doctor or pharmacist for advice before taking any medicine.
 
@@ -1381,15 +1354,15 @@ If you are having any blood or urinary test, tell your doctor that you are using
 
 ## Drovelis with food and drink
 
-Drovelis may be taken with or without food, if necessary with a small amount of water.
+This medicine may be taken with or without food, if necessary with a small amount of water.
 
 ## Pregnancy and breast-feeding
 
-Drovelis must not be taken by women who are pregnant, or think they may be pregnant. If you become pregnant while taking Drovelis you should stop taking Drovelis immediately and contact your doctor.
+This medicine must not be taken by women who are pregnant, or think they may be pregnant. If you become pregnant while taking Drovelis you should stop taking it immediately and contact your doctor.
 
 If you want to become pregnant, you can stop taking Drovelis at any time (see section 3 'If you stop taking Drovelis').
 
-Drovelis is not recommended during breast-feeding. If you wish to take the pill while breast-feeding, you should contact your doctor.
+This medicine is not recommended during breast-feeding. If you wish to take the pill while breastfeeding, you should contact your doctor.
 
 ## Driving and using machines
 
@@ -1407,13 +1380,7 @@ Always take this medicine exactly as your doctor or pharmacist has told you. Che
 
 ## When and how to take the tablets
 
-The Drovelis blister contains 28 film-coated tablets: 24 pink active tablets with the active substances (number 1-24) and 4 white placebo tablets without active substances (number 25-28).
-
-Each time you start a new blister of Drovelis, take the number 1 pink active tablet (see 'Start'). Choose from the 7 weekday stickers, the one that begins with your starting day. For example, if you start on a Wednesday, use the day label sticker that starts with 'Wed'. Place it in the frame on the front of the
-
-<div style=\"page-break-after: always\"></div>
-
-blister card on the ' ' symbol. Each day will line up with a row of pills. This allows you to check whether you took your daily tablet.
+The blister contains 28 film-coated tablets: 24 pink active tablets with the active substances (number 1-24) and 4 white placebo tablets without active substances (number 25-28). Each time you start a new blister of Drovelis, take the number 1 pink active tablet (see 'Start'). Choose from the 7 weekday stickers, the one that begins with your starting day. For example, if you start on a Wednesday, use the day label sticker that starts with 'Wed'. Place it in the frame on the front of the blister card on the ' ' symbol. Each day will line up with a row of pills. This allows you to check whether you took your daily tablet.
 
 Take one tablet each day at about the same time, with some water if necessary.
 
@@ -1422,6 +1389,8 @@ Follow the direction of the arrows on the blister, so take the pink active table
 Your period will start during the 4 days that you take the white placebo tablets (so-called withdrawal bleeding). Usually it will start 2 to 4 days after the last pink active tablet intake and may not have finished before the next blister is started.
 
 Start taking your next blister immediately after the last white placebo tablet, even if your period has not finished. This means that you will always start a new blister on the same day of the week, and also that you have your period on roughly the same days each month.
+
+<div style=\"page-break-after: always\"></div>
 
 Some users may not have their period every month during the intake of the white placebo tablets. If you have taken Drovelis every day according to these instructions, it is unlikely that you are pregnant.
 
@@ -1455,8 +1424,6 @@ Ask your doctor or pharmacist what to do if you are not sure when to start.
 
 There are no reports of serious harmful results of taking too many Drovelis tablets. If you take several tablets at once, then you may feel sick or vomit or bleed from the vagina. Even girls who have not yet started to menstruate but have accidentally taken this medicine may experience such bleeding.
 
-<div style=\"page-break-after: always\"></div>
-
 If you have taken too many Drovelis tablets, or you discover that a child has taken some, ask your doctor or pharmacist for advice.
 
 ## If you forget to take Drovelis
@@ -1468,9 +1435,11 @@ If you miss a pink, active tablet (tablets 1-24 of your blister-strip), you must
 - if you are less than 24 hours late taking a pink active tablet, the protection against pregnancy is not reduced. Take the tablet as soon as possible and then take the following tablets again at the usual time.
 - if you are more than 24 hours late taking a pink active tablet, the protection against pregnancy may be reduced. The greater the number of tablets that you have forgotten, the greater is the risk of becoming pregnant.
 
+<div style=\"page-break-after: always\"></div>
+
 The risk of incomplete protection against pregnancy is greatest if you forget a pink active tablet at the beginning or at the end of the strip. Therefore, you should keep to the following rules (see also the diagram):
 
-## More than one tablet forgotten in this strip:
+## More than one tablet forgotten in this strip
 
 Contact your doctor.
 
@@ -1478,7 +1447,7 @@ Contact your doctor.
 
 Take the forgotten tablet as soon as possible, even if that means that you have to take two tablets at the same time. Continue taking the tablets at the usual time and use extra precautions, for example, a condom, for the next 7 days while taking the tablets correctly. If you have had sex in the week before forgetting the tablet you must realize that there is a risk of a pregnancy. In that case, contact your doctor.
 
-## One pink active  tablet forgotten between  days 8-17
+## One pink active tablet forgotten between  days 8-17
 
 Take the forgotten tablet as soon as possible, even if that means that you have to take two tablets at the same time. Continue taking the tablets at the usual time. The protection against pregnancy is not reduced, and you do not need to take extra precautions.
 
@@ -1528,7 +1497,7 @@ period of white placebo tablet intake. While using the next blister you may have
 
 You can stop taking Drovelis at any time. If you do not want to become pregnant, first ask your doctor about other methods of birth control.
 
-If you stop taking Drovelis because you want to get pregnant,  it is best to wait until you have had a natural period before trying to become pregnant. This will help you to calculate the expected delivery date more easily.
+If you stop taking Drovelis because you want to get pregnant, it is best to wait until you have had a natural period before trying to become pregnant. This will help you to calculate the expected delivery date more easily.
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
@@ -1540,7 +1509,7 @@ An increased risk of blood clots in your veins (VTE) or blood clots in your arte
 
 The followig side effects have been linked with the use of Drovelis:
 
-Common (may affect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people)
 
 - -mood disorder and disturbance, libido disorder;
 - -headache;
@@ -1549,7 +1518,7 @@ Common (may affect up to 1 in 10 people):
 - -breast pain, painful periods, vaginal bleeding (during or outside periods, heavy irregular bleeding);
 - -weight fluctuation.
 
-## Uncommon (may affect up to 1 in 100 people):
+## Uncommon (may affect up to 1 in 100 people)
 
 - -fungal infection, vaginal infection, urinary tract infection;
 - -changes in appetite (appetite disorder);
@@ -1561,10 +1530,10 @@ Common (may affect up to 1 in 10 people):
 - -back pain;
 - -
 - swollen breasts, lumps in the breast, abnormal genital bleeding, pain with intercourse, fibrocystic breast disease (presence of one or more cysts in a breast), heavy periods, no periods, menstrual disorders, premenstrual syndrome, contractions of the uterus, uterine or vaginal bleeding including spotting, vaginal discharge, vulvovaginal disorder (dryness, pain, odour, discomfort);
-- -fatigue, swelling of parts of your body e.g. ankles (oedema), chest pain, feeling abnormal;
+- -fatigue, swelling of parts of your body e.g., ankles (oedema), chest pain, feeling abnormal;
 - -blood tests showing increased liver enzymes, changes in certain blood fats (lipids).
 
-## Rare (may affect up to 1 in 1,000 people):
+## Rare (may affect up to 1 in 1 000 people)
 
 - -breast inflammation;
 - -benign breast mass;
@@ -1580,15 +1549,15 @@ Common (may affect up to 1 in 10 people):
 - -high or low blood pressure, inflammation of a vein with the formation of a blood clot (thrombophlebitis), varicose vein;
 - -constipation, dry mouth, indigestion, lip swelling, flatulence, bowel inflammation, gastric reflux, abnormal bowel contractions;
 - -allergic skin reactions, golden brown pigment patches (chloasma) and other pigmentation disorders, male pattern hair growth, excessive hair growth, skin conditions such as dermatitis and itchy dermatitis, dandruff and oily skin (seborrhoea) and other skin disorders;
-- -muscle and joint cramps, pain and discomfort;
+- -muscle spasm and joint swelling, pain and discomfort;
 - -urinary tract pain, abnormal urine smell;
 - -pregnancy that occurs outside the womb (ectopic pregnancy);
 - -ovarian cyst, increased spontaneous milk flow, pelvic pain, breast discolouration, bleeding during intercourse, endometrial disorders, nipple disorders, abnormal uterine bleeding;
 - -malaise and feeling generally unwell, increase in body temperature, pain;
-- -incease in blood pressure, changes in  blood tests (abnormal kidney function test, increased blood potassium, increased blood glucose, decreased haemoglobin, decresed iron stores in blood, blood in urine);
+- -incease in blood pressure, changes in blood tests (abnormal kidney function test, increased blood potassium, increased blood glucose, decreased haemoglobin, decresed iron stores in blood, blood in urine);
 - -harmful blood clots in a vein for example:
-- -in a leg or foot (i.e. DVT)
-- -in a lung (i.e. PE)
+- -in a leg or foot (i.e., DVT)
+- -in a lung (i.e., PE)
 - -heart attack
 - -stroke
 - -mini-stroke or temporary stroke-like symptoms, known as a transient ischaemic attack (TIA)
@@ -1618,31 +1587,31 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## The active substances are drospirenone and estetrol.
 
-Each pink active tablet contains 3 mg drospirenone and estetrol monohydrate equivalent to 14.2 mg estetrol .
+Each pink active tablet contains 3 mg drospirenone and estetrol monohydrate equivalent to 14.2 mg estetrol.
 
 Each white placebo tablet does not contain active substances.
 
-The other excipients are:
+## The other excipients are:
 
-## Pink active film-coated tablets:
+## Pink active film-coated tablets
 
-Tablet core:
+## Tablet core
 
-Lactose monohydrate (see section 2 'Drovelis contains lactose and sodium'), sodium starch glycolate (see section 2 'Drovelis contains lactose and sodium '), maize starch, povidone K30, magnesium stearate (E470b).
+Lactose monohydrate (see section 2 'Drovelis contains lactose and sodium'), sodium starch glycolate (see section 2 'Drovelis contains lactose and sodium '), maize starch, povidone K30, magnesium stearate (E 470b).
 
-## Tablet coating:
+## Tablet coating
 
-Hypromellose (E464), hydroxypropylcellulose (E463), talc (E553b), cottonseed oil, hydrogenated, titanium dioxide (E171), iron oxide red (E172).
+Hypromellose (E 464), hydroxypropylcellulose (E 463), talc (E 553b), cottonseed oil, hydrogenated, titanium dioxide (E 171), iron oxide red (E 172).
 
-## White placebo film-coated tablets:
+## White placebo film-coated tablets
 
-## Tablet core:
+## Tablet core
 
-Lactose monohydrate (see section 2 'Drovelis contains lactose and sodium'), maize starch, magnesium stearate (E470b).
+Lactose monohydrate (see section 2 'Drovelis contains lactose and sodium'), maize starch, magnesium stearate (E 470b).
 
-## Tablet coating:
+## Tablet coating
 
-Hypromellose (E464), hydroxypropylcellulose (E463), talc (E553b), cottonseed oil, hydrogenated, titanium dioxide (E171).
+Hypromellose (E 464), hydroxypropylcellulose (E 463), talc (E 553b), cottonseed oil, hydrogenated, titanium dioxide (E 171).
 
 ## What Drovelis looks like and contents of the pack
 
@@ -1664,10 +1633,12 @@ Gedeon Richter Plc. Gyömrői út 19 -21. 1103 Budapest Hungary
 
 Haupt Pharma Münster GmbH Schleebrüggenkamp 15 48159 Münster Germany
 
-Gedeon Richter Plc. Gyömrői út 19 -21. 1103 Budapest Hungary
+Gedeon Richter Plc. Gyömrői út 19 -21.
 
 <div style=\"page-break-after: always\"></div>
 
+1103 Budapest Hungary
+
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.

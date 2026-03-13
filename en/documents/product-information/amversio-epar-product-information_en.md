@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 21:13:23
+document_datetime: 2026-03-10 13:48:54
 document_pages: 20
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/amversio-epar-product-information_en.pdf
 document_name: amversio-epar-product-information_en.pdf
 version: success
-processing_time: 16.6549074
-conversion_datetime: 2025-12-15 06:36:34.262313
+processing_time: 3.9971965
+conversion_datetime: 2026-03-13 18:37:07.32889
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -86,7 +86,7 @@ Hypersensitivity to the active substance.
 
 Uncommon cases of severe cerebral oedema associated with hypermethioninemia were reported with betaine anhydrous therapy in patients with CBS deficiency (see section 4.8). Complete recovery was seen after treatment discontinuation:
 
-- -The plasma methionine concentrations should be kept below 1,000 μmol/L. It is recommended to measure plasma methionine level at start of treatment and about annually or biannually thereafter. If methionine increases particularly above the first safety threshold of 700 μmol/L, patient should be monitored more frequently and compliance with diet should be checked. In order to reduce methionine levels, modification of diet as well as dose reduction of Amversio or temporal interruption of Amversio treatment should be considered.
+- -The plasma methionine concentrations should be kept below 1,000 μmol/L . It is recommended to measure plasma methionine level at start of treatment and about annually or biannually thereafter. If methionine increases particularly above the first safety threshold of 700 μmol/L, patient should be monitored more frequently and compliance with diet should be checked. In order to reduce methionine levels, modification of diet as well as dose reduction of Amversio or temporal interruption of Amversio treatment should be considered.
 - -If any symptoms of cerebral oedema like morning headaches with vomiting and/or visual changes appear, plasma methionine level and compliance to the diet should be checked and treatment with Amversio interrupted.
 - -If symptoms of cerebral oedema recur after re-introduction of treatment then betaine anhydrous therapy should be discontinued indefinitely.
 
@@ -104,11 +104,13 @@ Based on in vitro data, betaine anhydrous might interact with amino acids mixtur
 
 Data on a limited number of exposed pregnancies indicate no adverse event of betaine anhydrous on pregnancy or on the health of the foetus/newborn child. To date, no other relevant epidemiologic data are available. Animal reproduction studies have not been conducted. During pregnancy, administering betaine anhydrous in addition to pyridoxine, folate, anticoagulant and diet under close monitoring of plasma homocysteine would be compatible with good maternal and foetal outcomes. However, Amversio should not be used during pregnancy unless clearly necessary.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Breast-feeding
 
-It is not known whether betaine anhydrous is excreted in human milk (although its metabolic precursor, choline, occurs at high levels in human milk). Because of lack of data, caution should be exercised when prescribing Amversio to breast-feeding women.
+It is not known whether betaine anhydrous is excreted in human milk (although its metabolic precursor, choline, occurs at high levels in human milk). Because of lack of data, caution should be
+
+<div style=\"page-break-after: always\"></div>
+
+exercised when prescribing Amversio to breast-feeding women.
 
 ## Fertility
 
@@ -124,9 +126,7 @@ Amversio has no or negligible influence on the ability to drive and use machines
 
 In general, adverse reactions seen with betaine anhydrous therapy appeared to be not serious and are mainly related to the gastrointestinal system. Gastrointestinal disorders like diarrhoea, glossitis, nausea, stomach discomfort, vomiting and dental disorders may occur uncommonly.
 
-The most commonly reported adverse reaction during treatment is blood methionine increased.
-
-Complete recovery was seen after treatment discontinuation (see section 4.4).
+The most commonly reported adverse reaction during treatment is blood methionine increased. Complete recovery was seen after treatment discontinuation (see section 4.4).
 
 ## Tabulated list of adverse reactions
 
@@ -145,19 +145,17 @@ Reported adverse reactions are listed below, by system organ class and by freque
 
 *Uncommon cases of severe cerebral oedema and hypermethioninemia were reported within 2 weeks to 6 months of starting betaine anhydrous therapy in patients with CBS deficiency, with complete recovery after treatment discontinuation.
 
-Symptoms of cerebral oedema include morning headaches with vomiting and/or visual changes. High increases in plasma methionine levels in a range from 1,000 to 3,000 μmol/L were noted in these patients. As cerebral oedema has also been reported in patients with hypermethioninemia, secondary hypermethioninemia due to betaine anhydrous therapy has been postulated as a possible mechanism of action.
+Symptoms of cerebral oedema include morning headaches with vomiting and/or visual changes. High increases in plasma methionine levels in a range from 1,000 to 3,000 μ mol/L were noted in these patients. As cerebral oedema has also been reported in patients with hypermethioninemia, secondary hypermethioninemia due to betaine anhydrous therapy has been postulated as a possible mechanism of action.
 
 For specific recommendations, see section 4.4.
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
-
-<div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
+
+<div style=\"page-break-after: always\"></div>
 
 No case of overdose has been reported.
 
@@ -187,9 +185,9 @@ Monitoring plasma homocysteine levels has demonstrated that the onset of action 
 
 ## Paediatric population
 
-<div style=\"page-break-after: always\"></div>
-
 In paediatric patients less than 10 years of age, the usual effective dose regimen is 100 mg/kg/day given in 2 doses daily; increasing the frequency above twice daily and/or the dose above 150 mg/kg/day does not improve the homocysteine-lowering effect.
+
+<div style=\"page-break-after: always\"></div>
 
 Monitoring betaine plasma concentrations does not help to define the efficacy of treatment, since these concentrations do not directly correspond to the flux through the cytosolic betaine homocysteine methyl transferase pathway.
 
@@ -231,19 +229,15 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-Unopened bottle: 3 years.
-
-After the first opening: 3 months.
-
-<div style=\"page-break-after: always\"></div>
+Unopened bottle: 3 years. After the first opening: 3 months.
 
 ## 6.4 Special precautions for storage
 
 Store in the original package.
 
-Keep the bottle tightly closed in order to protect from moisture.
+<div style=\"page-break-after: always\"></div>
 
-This medicinal product does not require any special temperature storage conditions
+Keep the bottle tightly closed in order to protect from moisture. This medicinal product does not require any special temperature storage conditions
 
 ## 6.5 Nature and contents of container
 
@@ -269,7 +263,7 @@ EU/1/22/1640/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 05 May 2022
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -290,7 +284,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-MoNo Chem-Pharm Produkte GmbH, Leystraße 129, 1200 Wien, Austria
+BePharBel Manufacturing S.A. rue du Luxembourg 13, 6180 Courcelles, Belgium
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -343,14 +337,21 @@ Amversio 1 g oral powder betaine anhydrous
 
 ## Oral powder
 
-- 1 bottle with 180 g of oral powder and three measuring spoons.
-- The green measuring spoon dispenses 100 mg.
-- The blue measuring spoon dispenses 150 mg.
-- The purple measuring spoon dispenses 1 g.
+1 bottle with 180 g of oral powder and three measuring spoons.
+
+The green measuring spoon dispenses 100 mg.
+
+The blue measuring spoon dispenses 150 mg.
+
+The purple measuring spoon dispenses 1 g.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Lightly shake the bottle before opening. Read the package leaflet before use. Oral use.
+Lightly shake the bottle before opening.
+
+Read the package leaflet before use.
+
+Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -368,34 +369,33 @@ Shelf life after the first opening: 3 months.
 
 Store in the original package.
 
-<div style=\"page-break-after: always\"></div>
-
 Keep the bottle tightly closed in order to protect from moisture.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-SERB S.A. Avenue Louise 480 1050 Brussels Belgium
+SERB S.A.
 
-12. MARKETING AUTHORISATION NUMBER(S)
+Avenue Louise 480 1050 Brussels Belgium
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/22/1640/001
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Batch
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Amversio
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -404,8 +404,6 @@ Amversio
 PC SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -429,11 +427,7 @@ Oral powder
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Lightly shake the bottle before opening.
-
-Read the package leaflet before use.
-
-Oral use.
+Lightly shake the bottle before opening. Read the package leaflet before use. Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -450,6 +444,8 @@ Shelf life after the first opening: 3 months.
 Opened:
 
 ## 9. SPECIAL STORAGE CONDITIONS
+
+<div style=\"page-break-after: always\"></div>
 
 Keep the bottle tightly closed in order to protect from moisture.
 
@@ -472,7 +468,7 @@ Batch
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -614,7 +610,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the bottle label and the carton after EXP. The expiry date refers to the last day of that month.
 
-Store in the original package.
+## Store in the original package.
 
 Keep the bottle tightly closed in order to protect from moisture.
 
@@ -631,27 +627,27 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 - -The active substance is betaine anhydrous. 1 g of oral powder contains 1 g of betaine anhydrous.
 - -There is no other ingredient.
 
-<div style=\"page-break-after: always\"></div>
-
 ## What Amversio looks like and contents of the pack
 
-Amversio is a white crystalline free flowing powder. It is presented in a bottle with a child resistant closure. Each bottle contains 180 g of powder. Each carton contains one bottle and three measuring spoons.
+Amversio is a white crystalline free flowing powder. It is presented in a bottle with a child resistant
+
+<div style=\"page-break-after: always\"></div>
+
+closure. Each bottle contains 180 g of powder. Each carton contains one bottle and three measuring spoons.
 
 The green measuring spoon dispenses 100 mg.
 
-The blue measuring spoon dispenses 150 mg.
-
-The purple measuring spoon dispenses 1 g.
+The blue measuring spoon dispenses 150 mg. The purple measuring spoon dispenses 1 g.
 
 ## Marketing Authorisation Holder
 
-SERB S.A. Avenue Louise 480
+SERB S.A.
 
-1050 Brussels Belgium
+Avenue Louise 480 1050 Brussels Belgium
 
 ## Manufacturer
 
-MoNo Chem-Pharm Produkte GmbH, Leystraße 129, 1200 Wien, Austria
+BePharBel Manufacturing S.A. rue du Luxembourg 13, 6180 Courcelles, Belgium
 
 ## This leaflet was last revised in
 

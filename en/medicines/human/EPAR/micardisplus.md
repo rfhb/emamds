@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 07:09:07
+document_datetime: 2026-03-06 13:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/micardisplus.html
 document_name: micardisplus.html
 version: success
-processing_time: 0.1391995
-conversion_datetime: 2025-12-31 02:38:44.349492
+processing_time: 0.1226588
+conversion_datetime: 2026-03-13 18:38:31.992326
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # MicardisPlus
 
 [RSS](/en/individual-human-medicine.xml/65799)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+telmisartan / hydrochlorothiazide Medicine Human Authorised
 
 Page contents
 
@@ -38,6 +36,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on MicardisPlus](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-84031)
 - [More information on MicardisPlus](#more-information-on-micardisplus-523)
 - [More information on MicardisPlus](#related-medicines)
 - [Topics](#topics)
@@ -120,7 +119,7 @@ English (EN) (75.62 KB - PDF)
 
 [View](/en/documents/overview/micardisplus-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-248)
+[Other languages (22)](#file-language-dropdown-283)
 
 български (BG) (107.82 KB - PDF)
 
@@ -398,7 +397,7 @@ English (EN) (1.04 MB - PDF)
 
 [View](/en/documents/product-information/micardisplus-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-969)
+[Other languages (24)](#file-language-dropdown-978)
 
 български (BG) (1.19 MB - PDF)
 
@@ -714,7 +713,7 @@ English (EN) (36.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/micardisplus-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-586)
+[Other languages (24)](#file-language-dropdown-64)
 
 български (BG) (109.17 KB - PDF)
 
@@ -1011,6 +1010,11 @@ Name of medicine MicardisPlus Active substance
 - telmisartan
 - hydrochlorothiazide
 
+International non-proprietary name (INN) or common name
+
+- telmisartan
+- hydrochlorothiazide
+
 Therapeutic area (MeSH) Hypertension Anatomical therapeutic chemical (ATC) code C09DA07
 
 ### Pharmacotherapeutic group
@@ -1087,7 +1091,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/micardisplus-h-c-413-a31-0085-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recom_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-463)
+[Other languages (22)](#file-language-dropdown-859)
 
 български (BG) (87.49 KB - PDF)
 
@@ -1411,7 +1415,7 @@ English (EN) (85.44 KB - PDF)
 
 [View](/en/documents/procedural-steps/micardisplus-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### News on MicardisPlus
+## News on MicardisPlus
 
 [Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 13-16 May 2013](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-13-16-may-2013) 17/05/2013
 
@@ -1421,7 +1425,19 @@ English (EN) (85.44 KB - PDF)
 
 [European Medicines Agency concludes that benefit-risk balance of angiotensin-II-receptor antagonists remains positive](/en/news/european-medicines-agency-concludes-benefit-risk-balance-angiotensin-ii-receptor-antagonists-remains-positive) 20/10/2011
 
-#### More information on MicardisPlus
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+MicardisPlus : EPAR - Product information - tracked changes
+
+English (EN) (245.3 KB - DOCX)
+
+**First published:** 06/03/2026
+
+[View](/en/documents/product-information-tracked-changes/micardisplus-epar-product-information-tracked-changes_en.docx)
+
+## More information on MicardisPlus
 
 - [Renin-angiotensin-system (RAS)-acting agents: Article-31 referral](/en/medicines/human/referrals/renin-angiotensin-system-ras-acting-agents)
 
@@ -1437,16 +1453,16 @@ English (EN) (511.41 KB - PDF)
 
 [View](/en/documents/opinion-any-scientific-matter/questions-answers-review-angiotensin-ii-receptor-antagonists-risk-cancer_en.pdf)
 
-#### More information on MicardisPlus
+## More information on MicardisPlus
 
 - [EMEA-000885-PIP01-10 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000885-pip01-10)
 - [Renin-angiotensin-system (RAS)-acting agents - referral](/en/medicines/human/referrals/renin-angiotensin-system-ras-acting-agents)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 31/03/2025
+**This page was last updated on** 06/03/2026
 
 ## Share this page
 

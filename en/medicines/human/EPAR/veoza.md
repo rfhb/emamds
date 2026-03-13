@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 12:10:31
+document_datetime: 2026-03-10 11:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/veoza.html
 document_name: veoza.html
 version: success
-processing_time: 0.1087165
-conversion_datetime: 2025-12-31 01:51:04.620975
+processing_time: 0.0776057
+conversion_datetime: 2026-03-13 18:41:27.673109
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Veoza
 
 [RSS](/en/individual-human-medicine.xml/77412)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 fezolinetant Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +102,7 @@ English (EN) (117.21 KB - PDF)
 
 [View](/en/documents/overview/veoza-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-736)
+[Other languages (22)](#file-language-dropdown-765)
 
 български (BG) (141.05 KB - PDF)
 
@@ -286,17 +284,17 @@ svenska (SV) (116.02 KB - PDF)
 
 Veoza : EPAR - Product information
 
-English (EN) (2.11 MB - PDF)
+English (EN) (297.26 KB - PDF)
 
 **First published:** 20/12/2023
 
-**Last updated:** 21/03/2025
+**Last updated:** 10/03/2026
 
 [View](/en/documents/product-information/veoza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-3)
+[Other languages (24)](#file-language-dropdown-986)
 
-български (BG) (2.19 MB - PDF)
+български (BG) (320.68 KB - PDF)
 
 **First published:**
 
@@ -304,11 +302,11 @@ English (EN) (2.11 MB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/bg/documents/product-information/veoza-epar-product-information_bg.pdf)
 
-español (ES) (2.11 MB - PDF)
+español (ES) (301.56 KB - PDF)
 
 **First published:**
 
@@ -316,11 +314,11 @@ español (ES) (2.11 MB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/es/documents/product-information/veoza-epar-product-information_es.pdf)
 
-čeština (CS) (2.18 MB - PDF)
+čeština (CS) (304.83 KB - PDF)
 
 **First published:**
 
@@ -328,11 +326,11 @@ español (ES) (2.11 MB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/cs/documents/product-information/veoza-epar-product-information_cs.pdf)
 
-dansk (DA) (2.52 MB - PDF)
+dansk (DA) (324.41 KB - PDF)
 
 **First published:**
 
@@ -340,11 +338,11 @@ dansk (DA) (2.52 MB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/da/documents/product-information/veoza-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.13 MB - PDF)
+Deutsch (DE) (312.27 KB - PDF)
 
 **First published:**
 
@@ -352,11 +350,11 @@ Deutsch (DE) (2.13 MB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/de/documents/product-information/veoza-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.11 MB - PDF)
+eesti keel (ET) (291.14 KB - PDF)
 
 **First published:**
 
@@ -364,11 +362,11 @@ eesti keel (ET) (2.11 MB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/et/documents/product-information/veoza-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.2 MB - PDF)
+ελληνικά (EL) (335.13 KB - PDF)
 
 **First published:**
 
@@ -376,11 +374,11 @@ eesti keel (ET) (2.11 MB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/el/documents/product-information/veoza-epar-product-information_el.pdf)
 
-français (FR) (2.18 MB - PDF)
+français (FR) (311.77 KB - PDF)
 
 **First published:**
 
@@ -388,11 +386,11 @@ français (FR) (2.18 MB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/fr/documents/product-information/veoza-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.66 MB - PDF)
+hrvatski (HR) (323.42 KB - PDF)
 
 **First published:**
 
@@ -400,11 +398,11 @@ hrvatski (HR) (2.66 MB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/hr/documents/product-information/veoza-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.12 MB - PDF)
+íslenska (IS) (297.53 KB - PDF)
 
 **First published:**
 
@@ -412,11 +410,11 @@ hrvatski (HR) (2.66 MB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/is/documents/product-information/veoza-epar-product-information_is.pdf)
 
-italiano (IT) (2.12 MB - PDF)
+italiano (IT) (310.68 KB - PDF)
 
 **First published:**
 
@@ -424,11 +422,11 @@ italiano (IT) (2.12 MB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/it/documents/product-information/veoza-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.18 MB - PDF)
+latviešu valoda (LV) (305.67 KB - PDF)
 
 **First published:**
 
@@ -436,11 +434,11 @@ latviešu valoda (LV) (2.18 MB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/lv/documents/product-information/veoza-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.18 MB - PDF)
+lietuvių kalba (LT) (303.72 KB - PDF)
 
 **First published:**
 
@@ -448,11 +446,11 @@ lietuvių kalba (LT) (2.18 MB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/lt/documents/product-information/veoza-epar-product-information_lt.pdf)
 
-magyar (HU) (322.3 KB - PDF)
+magyar (HU) (327.01 KB - PDF)
 
 **First published:**
 
@@ -460,11 +458,11 @@ magyar (HU) (322.3 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/hu/documents/product-information/veoza-epar-product-information_hu.pdf)
 
-Malti (MT) (2.59 MB - PDF)
+Malti (MT) (339.83 KB - PDF)
 
 **First published:**
 
@@ -472,11 +470,11 @@ Malti (MT) (2.59 MB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/mt/documents/product-information/veoza-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.12 MB - PDF)
+Nederlands (NL) (303.3 KB - PDF)
 
 **First published:**
 
@@ -484,11 +482,11 @@ Nederlands (NL) (2.12 MB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/nl/documents/product-information/veoza-epar-product-information_nl.pdf)
 
-norsk (NO) (2.12 MB - PDF)
+norsk (NO) (300.18 KB - PDF)
 
 **First published:**
 
@@ -496,11 +494,11 @@ norsk (NO) (2.12 MB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/no/documents/product-information/veoza-epar-product-information_no.pdf)
 
-polski (PL) (2.19 MB - PDF)
+polski (PL) (323.02 KB - PDF)
 
 **First published:**
 
@@ -508,11 +506,11 @@ polski (PL) (2.19 MB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/pl/documents/product-information/veoza-epar-product-information_pl.pdf)
 
-português (PT) (2.13 MB - PDF)
+português (PT) (312.87 KB - PDF)
 
 **First published:**
 
@@ -520,11 +518,11 @@ português (PT) (2.13 MB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/pt/documents/product-information/veoza-epar-product-information_pt.pdf)
 
-română (RO) (2.17 MB - PDF)
+română (RO) (301.25 KB - PDF)
 
 **First published:**
 
@@ -532,11 +530,11 @@ română (RO) (2.17 MB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/ro/documents/product-information/veoza-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.19 MB - PDF)
+slovenčina (SK) (319.69 KB - PDF)
 
 **First published:**
 
@@ -544,11 +542,11 @@ slovenčina (SK) (2.19 MB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/sk/documents/product-information/veoza-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.16 MB - PDF)
+slovenščina (SL) (317.47 KB - PDF)
 
 **First published:**
 
@@ -556,11 +554,11 @@ slovenščina (SL) (2.16 MB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/sl/documents/product-information/veoza-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.12 MB - PDF)
+Suomi (FI) (300.96 KB - PDF)
 
 **First published:**
 
@@ -568,11 +566,11 @@ Suomi (FI) (2.12 MB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/fi/documents/product-information/veoza-epar-product-information_fi.pdf)
 
-svenska (SV) (2.12 MB - PDF)
+svenska (SV) (304.22 KB - PDF)
 
 **First published:**
 
@@ -580,11 +578,11 @@ svenska (SV) (2.12 MB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/sv/documents/product-information/veoza-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000255226 21/03/2025
+**Latest procedure affecting product information:** PSUR/0000288230 12/02/2026
 
 icon globe
 
@@ -610,7 +608,7 @@ English (EN) (250.66 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/veoza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-449)
+[Other languages (24)](#file-language-dropdown-248)
 
 български (BG) (182.2 KB - PDF)
 
@@ -931,7 +929,7 @@ Astellas Pharma Europe B.V.
 
 Sylviusweg 62
 
-Opinion adopted 12/10/2023 Marketing authorisation issued 07/12/2023 Revision 4
+Opinion adopted 12/10/2023 Marketing authorisation issued 07/12/2023 Revision 5
 
 ## Assessment history
 
@@ -943,9 +941,11 @@ Collapse section
 
 Veoza : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (122.12 KB - PDF)
+English (EN) (152.58 KB - PDF)
 
 **First published:** 21/03/2025
+
+**Last updated:** 10/03/2026
 
 [View](/en/documents/procedural-steps-after/veoza-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -991,16 +991,16 @@ English (EN) (133.26 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-veoza_en.pdf)
 
-#### News on Veoza
+## News on Veoza
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 October 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-october-2023) 13/10/2023
 
-#### More information on Veoza
+## More information on Veoza
 
 - [Veoza - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/veoza)
 - [Fezolinetant Experience for the Treatment of Vasomotor Symptoms Associated with Menopause Among Women in a German Real-life Setting - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000132)
 
-**This page was last updated on** 21/03/2025
+**This page was last updated on** 10/03/2026
 
 ## Share this page
 

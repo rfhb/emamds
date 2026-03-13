@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:21:01
+document_datetime: 2026-03-11 14:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vimpat.html
 document_name: vimpat.html
 version: success
-processing_time: 0.1727326
-conversion_datetime: 2025-12-30 10:50:49.108841
+processing_time: 0.1477354
+conversion_datetime: 2026-03-13 18:43:39.881967
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Vimpat
 
 [RSS](/en/individual-human-medicine.xml/66270)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 lacosamide Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +115,7 @@ English (EN) (124.11 KB - PDF)
 
 [View](/en/documents/overview/vimpat-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-499)
+[Other languages (22)](#file-language-dropdown-316)
 
 български (BG) (149.49 KB - PDF)
 
@@ -405,7 +403,7 @@ English (EN) (1.19 MB - PDF)
 
 [View](/en/documents/product-information/vimpat-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-903)
+[Other languages (24)](#file-language-dropdown-215)
 
 български (BG) (1.31 MB - PDF)
 
@@ -721,7 +719,7 @@ English (EN) (43.07 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vimpat-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-714)
+[Other languages (24)](#file-language-dropdown-246)
 
 български (BG) (163.37 KB - PDF)
 
@@ -1031,7 +1029,7 @@ UCB Pharma SA
 
 Allée de la Recherche 60
 
-Opinion adopted 26/06/2008 Marketing authorisation issued 29/08/2008 Revision 56
+Opinion adopted 26/06/2008 Marketing authorisation issued 29/08/2008 Revision 57
 
 ## Assessment history
 
@@ -1060,6 +1058,18 @@ English (EN) (285.66 KB - PDF)
 **Last updated:** 28/03/2025
 
 [View](/en/documents/procedural-steps-after/vimpat-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Vimpat-PAM-0000303848 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2979171
+
+English (EN) (486.17 KB - PDF)
+
+**First published:** 11/03/2026
+
+[View](/en/documents/variation-report/vimpat-pam-0000303848-epar-assessment-report_en.pdf)
 
 Vimpat-H-C-000863-P46-051 : EPAR - Assessment report
 
@@ -1513,7 +1523,7 @@ English (EN) (32.28 KB - PDF)
 
 [View](/en/documents/smop-initial/committee-medicinal-products-human-use-summary-positive-opinion-vimpat_en.pdf)
 
-#### News on Vimpat
+## News on Vimpat
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 January 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-january-2022) 28/01/2022
 
@@ -1527,7 +1537,7 @@ English (EN) (32.28 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 September 2011](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-september-2011) 23/09/2011
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1539,7 +1549,7 @@ English (EN) (697.51 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/vimpat-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-607)
+[Other languages (24)](#file-language-dropdown-657)
 
 български (BG) (586.97 KB - DOCX)
 
@@ -1735,7 +1745,7 @@ svenska (SV) (532.86 KB - DOCX)
 
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/home?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-3=2=EMEAHC000863II0060G) (variation II/0060)
 
-#### More information on Vimpat
+## More information on Vimpat
 
 Questions and answers on the review of Vimpat (lacosamide) 15-mg/ml syrup
 
@@ -1761,16 +1771,16 @@ English (EN) (100.94 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-recall-vimpat-15-mgml-syrup-lacosamide_en.pdf)
 
-#### More information on Vimpat
+## More information on Vimpat
 
 - [EMEA-000402-PIP03-17-M08 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000402-pip03-17-m08)
 - [EMEA-000402-PIP02-11-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000402-pip02-11-m05)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 21/11/2025
+**This page was last updated on** 11/03/2026
 
 ## Share this page
 

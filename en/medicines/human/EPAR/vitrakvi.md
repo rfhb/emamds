@@ -1,17 +1,17 @@
 ---
-document_datetime: 2026-03-04 15:20:00
+document_datetime: 2026-03-11 14:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vitrakvi.html
 document_name: vitrakvi.html
 version: success
-processing_time: 0.1063605
-conversion_datetime: 2026-03-09 14:21:14.540689
+processing_time: 0.0976791
+conversion_datetime: 2026-03-13 18:43:54.306835
 docling_version:
   docling-serve: 1.14.3
   docling-jobkit: 1.13.0
-  docling: 2.77.0
+  docling: 2.79.0
   docling-core: 2.69.0
-  docling-ibm-models: 3.11.0
+  docling-ibm-models: 3.12.0
   docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
   plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
@@ -108,7 +108,7 @@ English (EN) (74.59 KB - PDF)
 
 [View](/en/documents/overview/vitrakvi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-427)
+[Other languages (22)](#file-language-dropdown-798)
 
 български (BG) (101.03 KB - PDF)
 
@@ -298,17 +298,17 @@ English (EN) (1.98 MB - PDF)
 
 Vitrakvi : EPAR - Product information
 
-English (EN) (980.57 KB - PDF)
+English (EN) (893.36 KB - PDF)
 
 **First published:** 24/10/2019
 
-**Last updated:** 04/08/2025
+**Last updated:** 11/03/2026
 
 [View](/en/documents/product-information/vitrakvi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-849)
+[Other languages (24)](#file-language-dropdown-189)
 
-български (BG) (1.1 MB - PDF)
+български (BG) (1.59 MB - PDF)
 
 **First published:**
 
@@ -316,11 +316,11 @@ English (EN) (980.57 KB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/bg/documents/product-information/vitrakvi-epar-product-information_bg.pdf)
 
-español (ES) (1 MB - PDF)
+español (ES) (1.32 MB - PDF)
 
 **First published:**
 
@@ -328,11 +328,11 @@ español (ES) (1 MB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/es/documents/product-information/vitrakvi-epar-product-information_es.pdf)
 
-čeština (CS) (1.05 MB - PDF)
+čeština (CS) (1.52 MB - PDF)
 
 **First published:**
 
@@ -340,11 +340,11 @@ español (ES) (1 MB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/cs/documents/product-information/vitrakvi-epar-product-information_cs.pdf)
 
-dansk (DA) (970.49 KB - PDF)
+dansk (DA) (1.25 MB - PDF)
 
 **First published:**
 
@@ -352,11 +352,11 @@ dansk (DA) (970.49 KB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/da/documents/product-information/vitrakvi-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.04 MB - PDF)
+Deutsch (DE) (1.41 MB - PDF)
 
 **First published:**
 
@@ -364,11 +364,11 @@ Deutsch (DE) (1.04 MB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/de/documents/product-information/vitrakvi-epar-product-information_de.pdf)
 
-eesti keel (ET) (1 MB - PDF)
+eesti keel (ET) (1.36 MB - PDF)
 
 **First published:**
 
@@ -376,11 +376,11 @@ eesti keel (ET) (1 MB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/et/documents/product-information/vitrakvi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.07 MB - PDF)
+ελληνικά (EL) (1.35 MB - PDF)
 
 **First published:**
 
@@ -388,11 +388,11 @@ eesti keel (ET) (1 MB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/el/documents/product-information/vitrakvi-epar-product-information_el.pdf)
 
-français (FR) (1.08 MB - PDF)
+français (FR) (1.49 MB - PDF)
 
 **First published:**
 
@@ -400,11 +400,11 @@ français (FR) (1.08 MB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/fr/documents/product-information/vitrakvi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.04 MB - PDF)
+hrvatski (HR) (1.5 MB - PDF)
 
 **First published:**
 
@@ -412,11 +412,11 @@ hrvatski (HR) (1.04 MB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/hr/documents/product-information/vitrakvi-epar-product-information_hr.pdf)
 
-íslenska (IS) (1006.03 KB - PDF)
+íslenska (IS) (1.32 MB - PDF)
 
 **First published:**
 
@@ -424,11 +424,11 @@ hrvatski (HR) (1.04 MB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/is/documents/product-information/vitrakvi-epar-product-information_is.pdf)
 
-italiano (IT) (1.06 MB - PDF)
+italiano (IT) (1.44 MB - PDF)
 
 **First published:**
 
@@ -436,11 +436,11 @@ italiano (IT) (1.06 MB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/it/documents/product-information/vitrakvi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.06 MB - PDF)
+latviešu valoda (LV) (1.47 MB - PDF)
 
 **First published:**
 
@@ -448,11 +448,11 @@ latviešu valoda (LV) (1.06 MB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/lv/documents/product-information/vitrakvi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.05 MB - PDF)
+lietuvių kalba (LT) (1.45 MB - PDF)
 
 **First published:**
 
@@ -460,11 +460,11 @@ lietuvių kalba (LT) (1.05 MB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/lt/documents/product-information/vitrakvi-epar-product-information_lt.pdf)
 
-magyar (HU) (1.1 MB - PDF)
+magyar (HU) (1.6 MB - PDF)
 
 **First published:**
 
@@ -472,11 +472,11 @@ magyar (HU) (1.1 MB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/hu/documents/product-information/vitrakvi-epar-product-information_hu.pdf)
 
-Malti (MT) (1.07 MB - PDF)
+Malti (MT) (1.62 MB - PDF)
 
 **First published:**
 
@@ -484,11 +484,11 @@ Malti (MT) (1.07 MB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/mt/documents/product-information/vitrakvi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.05 MB - PDF)
+Nederlands (NL) (1.41 MB - PDF)
 
 **First published:**
 
@@ -496,11 +496,11 @@ Nederlands (NL) (1.05 MB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/nl/documents/product-information/vitrakvi-epar-product-information_nl.pdf)
 
-norsk (NO) (976.28 KB - PDF)
+norsk (NO) (1.18 MB - PDF)
 
 **First published:**
 
@@ -508,11 +508,11 @@ norsk (NO) (976.28 KB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/no/documents/product-information/vitrakvi-epar-product-information_no.pdf)
 
-polski (PL) (1.06 MB - PDF)
+polski (PL) (1.5 MB - PDF)
 
 **First published:**
 
@@ -520,11 +520,11 @@ polski (PL) (1.06 MB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/pl/documents/product-information/vitrakvi-epar-product-information_pl.pdf)
 
-português (PT) (1.01 MB - PDF)
+português (PT) (1.34 MB - PDF)
 
 **First published:**
 
@@ -532,11 +532,11 @@ português (PT) (1.01 MB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/pt/documents/product-information/vitrakvi-epar-product-information_pt.pdf)
 
-română (RO) (1.08 MB - PDF)
+română (RO) (1.43 MB - PDF)
 
 **First published:**
 
@@ -544,11 +544,11 @@ română (RO) (1.08 MB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/ro/documents/product-information/vitrakvi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.08 MB - PDF)
+slovenčina (SK) (1.58 MB - PDF)
 
 **First published:**
 
@@ -556,11 +556,11 @@ slovenčina (SK) (1.08 MB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/sk/documents/product-information/vitrakvi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.05 MB - PDF)
+slovenščina (SL) (1.5 MB - PDF)
 
 **First published:**
 
@@ -568,11 +568,11 @@ slovenščina (SL) (1.05 MB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/sl/documents/product-information/vitrakvi-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.05 MB - PDF)
+Suomi (FI) (1.44 MB - PDF)
 
 **First published:**
 
@@ -580,11 +580,11 @@ Suomi (FI) (1.05 MB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/fi/documents/product-information/vitrakvi-epar-product-information_fi.pdf)
 
-svenska (SV) (1005.54 KB - PDF)
+svenska (SV) (1.18 MB - PDF)
 
 **First published:**
 
@@ -592,11 +592,11 @@ svenska (SV) (1005.54 KB - PDF)
 
 **Last updated:**
 
-04/08/2025
+11/03/2026
 
 [View](/sv/documents/product-information/vitrakvi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000286907 04/08/2025
+**Latest procedure affecting product information:** VR/0000277850 09/03/2026
 
 icon globe
 
@@ -622,7 +622,7 @@ English (EN) (54.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vitrakvi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-995)
+[Other languages (24)](#file-language-dropdown-25)
 
 български (BG) (70.61 KB - PDF)
 
@@ -945,7 +945,7 @@ Bayer AG
 
 51368 Leverkusen
 
-Opinion adopted 25/07/2019 Marketing authorisation issued 19/09/2019 Revision 15
+Opinion adopted 25/07/2019 Marketing authorisation issued 19/09/2019 Revision 16
 
 ## Assessment history
 
@@ -957,11 +957,11 @@ Collapse section
 
 Vitrakvi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (148.79 KB - PDF)
+English (EN) (159.51 KB - PDF)
 
 **First published:** 24/07/2025
 
-**Last updated:** 04/08/2025
+**Last updated:** 11/03/2026
 
 [View](/en/documents/procedural-steps-after/vitrakvi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1064,7 +1064,7 @@ Vitrakvi was withdrawn from the Community register of orphan medicinal products 
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 04/03/2026
+**This page was last updated on** 11/03/2026
 
 ## Share this page
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-08 16:24:58
+document_datetime: 2026-03-12 16:40:57
 document_pages: 50
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/yescarta-epar-product-information_en.pdf
 document_name: yescarta-epar-product-information_en.pdf
 version: success
-processing_time: 14.1674239
-conversion_datetime: 2025-12-26 13:04:29.188138
+processing_time: 16.843028
+conversion_datetime: 2026-03-13 19:19:28.259222
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -695,34 +695,11 @@ Figure 3. Forest Plot of Event-Free Survival in Selected Subgroups in ZUMA-7
 
 <!-- image -->
 
-| Subgroup                                          | Axicabtagene Ciloleucel Event/N (%)   | Standard of Care Event/N (%)   | HR (95 %CI)          |      |
-|---------------------------------------------------|---------------------------------------|--------------------------------|----------------------|------|
-| Overall                                           | 108/180 (60)                          | 144/179 (80)                   | 0.398 (0.308, 0.514) |      |
-| Age                                               |                                       |                                |                      |      |
-| < 65                                              | 81/129 (63)                           | 96/121 (79)                    | 0.490 (0.361, 0.666) |      |
-| ≥ 65                                              | 27/51 (53)                            | 48/58 (83)                     | 0.276 (0.164, 0.465) |      |
-| ECOG performance status                           |                                       |                                |                      |      |
-| 0                                                 | 59/95 (62)                            | 76/100 (76)                    | 0.504 (0.356, 0.713) |      |
-| 1                                                 | 49/85 (58)                            | 68/79 (86)                     | 0.292 (0.195, 0.436) |      |
-| Second-line age-adjusted IPI score per IXRS       |                                       |                                |                      |      |
-| 0-1                                               | 54/98 (55)                            | 73/100 (73)                    | 0.407 (0.285, 0.582) |      |
-| 2-3                                               | 54/82 (66)                            | 71/79 (90)                     | 0.388 (0.269, 0.561) |      |
-| Response to first-line therapy per IXRS           |                                       |                                |                      |      |
-| Primary refractory                                | 85/133 (64)                           | 106/131 (81)                   | 0.426 (0.319, 0.570) |      |
-| Relapse ≤ 12 months of first line therapy         | 23/47 (49)                            | 38/48 (79)                     | 0.342 (0.202, 0.579) |      |
-| Central Laboratory Double Expressor Status        |                                       |                                |                      |      |
-| Double expressor lymphoma                         | 35/57 (61)                            | 50/62 (81)                     | 0.424 (0.268, 0.671) |      |
-| Central Laboratory Disease Type                   |                                       |                                |                      |      |
-| DLBCL NOS/without further classification possible | 79/126 (63)                           | 95/120 (79)                    | 0.443 (0.325, 0.603) |      |
-| HGBL with or without MYC and BCL2 and/or BLCL6    | 15/31 (48)                            | 21/26 (81)                     | 0.285 (0.137, 0.594) | SOCT |
-
 CI, confidence interval; HR, hazard ratio; IxRS, interactive voice/web response system; SOCT, standard of care. Note: At the time of the primary EFS analysis, disease type by central laboratory was confirmed in 303 of 359 patients, the remaining patients were categorised by the central laboratory as not confirmed, missing or other.
 
 The OS benefit with Yescarta is consistent across clinically relevant subgroups.
 
-## Relapsed or refractory FL after three or more lines of systemic therapy (ZUMA-5)
-
-The efficacy and safety of Yescarta in adult patients with FL, were evaluated in a phase 2 single-arm, open-label, multicentre study in patients with r/r FL based on 2016 WHO-classification.
+Relapsed or refractory FL after three or more lines of systemic therapy (ZUMA-5) The efficacy and safety of Yescarta in adult patients with FL, were evaluated in a phase 2 single-arm, open-label, multicentre study in patients with r/r FL based on 2016 WHO-classification.
 
 Eligible patients were ≥ 18 years of age with refractory disease after 2 or more prior lines of therapy. Prior therapy must have included an anti-CD20 monoclonal antibody combined with an alkylating agent (single-agent anti-CD20 antibody did not count as line of therapy for eligibility). Patients with SD (without relapse) &gt; 1 year from completion of last therapy were not considered eligible. Patients with CNS lymphoma, a history of allogeneic SCT or prior anti-CD19 CAR or other genetically modified T-cell therapy were excluded. Patients with a history of CNS disorders (such as seizures or cerebrovascular ischemia), left ventricular ejection fraction of less than 50% or room air oxygen saturation of less than 92%, or autoimmune disease requiring systemic immunosuppression were ineligible. The study excluded patients with active or serious infections and patients with FL Grade 3b. The actual duration of follow-up was 25.9 months (range: 0.3 to 44.3 months, still ongoing). A summary of the patient demographics is provided in Table 5.
 
@@ -874,7 +851,7 @@ The stability of Yescarta upon completion of thawing is up to 3 hours at room te
 
 ## 6.4 Special precautions for storage
 
-Yescarta must be stored in the vapour phase of liquid nitrogen ( ≤ -150 ˚ C) and must remain frozen until the patient is ready for treatment to ensure viable live autologous cells are available for patient administration.
+Yescarta must be stored at ≤ -120 ˚ C and must remain frozen until the patient is ready for treatment to ensure viable live autologous cells are available for patient administration.
 
 Yescarta may be stored a single time at -80 °C (± 10 °C), for up to 90 days. After storage at -80 °C (± 10 °C), the product must be used within the 90-day period or the labelled expiration date, whichever comes first. After these dates, the product must not be used and must be discarded.
 
@@ -896,11 +873,9 @@ Precautions to be taken before handling or administering the medicinal product
 
 Yescarta must be transported within the facility in closed, break-proof, leak-proof containers.
 
-This medicinal product contains human blood cells. Healthcare professionals handling Yescarta must take appropriate precautions (wearing gloves and eye protection) to avoid potential transmission of
+This medicinal product contains human blood cells. Healthcare professionals handling Yescarta must take appropriate precautions (wearing gloves and eye protection) to avoid potential transmission of infectious diseases.
 
 <div style=\"page-break-after: always\"></div>
-
-infectious diseases.
 
 ## Preparation prior to administration
 
@@ -955,8 +930,6 @@ Date of latest renewal: 24 July 2023
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
-
-28
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1117,7 +1090,9 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store frozen in vapour phase of liquid nitrogen ≤ -150 ˚ C or as indicated in the package leaflet. Do not refreeze.
+Store frozen at ≤ -120 ˚ C or as indicated in the package leaflet.
+
+Do not refreeze.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1510,9 +1485,9 @@ The following information is intended for doctors only.
 
 Do not use this medicine after the expiry date which is stated on the container label and infusion bag after 'EXP'.
 
-Store frozen in vapour phase of liquid nitrogen ≤ -150 °C until thawed for use.
+Store frozen at ≤ -120 °C until thawed for use.
 
-Yescarta may be stored a single time at -80 °C (± 10 °C), for up to 90 days. After storage at -80 °C (± 10 °C), use the product within the 90-day period or the expiry date, whichever comes first. After these dates the product must be discarded.
+Yescarta may be stored a single time at -80°C (± 10 °C), for up to 90 days. After storage at  -80 °C (± 10 °C), use the product within the 90-day period or the expiry date, whichever comes first. After these dates the product must be discarded.
 
 Do not refreeze.
 

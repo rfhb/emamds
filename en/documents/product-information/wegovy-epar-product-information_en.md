@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-05 13:55:43
+document_datetime: 2026-03-11 09:59:17
 document_pages: 107
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/wegovy-epar-product-information_en.pdf
 document_name: wegovy-epar-product-information_en.pdf
 version: success
-processing_time: 33.9520852
-conversion_datetime: 2026-02-09 22:02:04.087235
+processing_time: 35.4586978
+conversion_datetime: 2026-03-13 18:29:38.497815
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.1
-  docling: 2.72.0
-  docling-core: 2.63.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -40,7 +40,8 @@ Wegovy 0.25 mg solution for injection in pre-filled pen
 Wegovy 1 mg FlexTouch solution for injection in pre-filled pen
 
 - Wegovy 1.7 mg FlexTouch solution for injection in pre-filled pen
-- Wegovy 2.4 mg FlexTouch solution for injection in pre-filled pen
+
+Wegovy 2.4 mg FlexTouch solution for injection in pre-filled pen
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -222,11 +223,13 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Aspiration in association with general anaesthesia or deep sedation
 
-Cases of pulmonary aspiration have been reported in patients receiving GLP-1 receptor agonists undergoing general anaesthesia or deep sedation. Therefore, the increased risk of residual gastric content due to delayed gastric emptying (see section 4.8) should be considered prior to performing procedures with general anaesthesia or deep sedation.
+Cases of pulmonary aspiration have been reported in patients receiving GLP-1 receptor agonists
+
+<div style=\"page-break-after: always\"></div>
+
+undergoing general anaesthesia or deep sedation. Therefore, the increased risk of residual gastric content due to delayed gastric emptying (see section 4.8) should be considered prior to performing procedures with general anaesthesia or deep sedation.
 
 ## Gastrointestinal effects and Dehydration
 
@@ -761,7 +764,7 @@ Table 10 STEP 9: Results at week 68
 
 <div style=\"page-break-after: always\"></div>
 
-were -14.5% and -2.3% (semaglutide 2.4 mg and placebo, respectively) and for WOMAC pain score: -43.0 and -28.3 (semaglutide 2.4 mg and placebo, respectively).
+2 Based on a Mixed Model for Repeated Measures assuming that all randomised patients stayed on treatment and did not receive additional anti-obesity therapies or additional knee OA interventions and complied with washout period for pain medication (the latter only relevant for knee OA related pain), including all observations until first discontinuation the estimated changes from baseline to week 68 for body weight were -14.5% and -2.3% (semaglutide 2.4 mg and placebo, respectively) and for WOMAC pain score: -43.0 and -28.3 (semaglutide 2.4 mg and placebo, respectively).
 
 3 Estimated from logistic regression model based on same imputation procedure as for the primary analysis.
 
@@ -1029,25 +1032,13 @@ In the absence of compatibility studies this medicinal product must not be mixed
 
 ## Pre-filled pen, single-dose
 
-2 years.
+1 year.
 
 Wegovy may be stored unrefrigerated for up to 28 days at a temperature not above 30°C. Discard the pen if it has been out of the refrigerator for more than 28 days.
 
 ## Pre-filled pen, FlexTouch
 
-Wegovy 0.25 mg FlexTouch solution for injection in pre-filled pen
-
-Before use: 2 years.
-
-After first use: 6 weeks. Store below 30°C or in a refrigerator (2°C to 8°C).
-
-Wegovy 0.5 mg FlexTouch solution for injection in pre-filled pen
-
-Wegovy 1 mg FlexTouch solution for injection in pre-filled pen
-
-Wegovy 1.7 mg FlexTouch solution for injection in pre-filled pen
-
-Wegovy 2.4 mg FlexTouch solution for injection in pre-filled pen
+Wegovy 0.25 mg FlexTouch solution for injection in pre-filled pen Wegovy 0.5 mg FlexTouch solution for injection in pre-filled pen Wegovy 1 mg FlexTouch solution for injection in pre-filled pen Wegovy 1.7 mg FlexTouch solution for injection in pre-filled pen Wegovy 2.4 mg FlexTouch solution for injection in pre-filled pen
 
 Before use: 3 years.
 
@@ -1057,31 +1048,29 @@ After first use: 6 weeks. Store below 30°C or in a refrigerator (2°C to 8°C).
 
 Store in a refrigerator (2°C to 8°C). Keep away from the cooling element. Do not freeze.
 
-Pre-filled pen, single-dose
+## Pre-filled pen, single-dose
 
 Store the pen in the original carton in order to protect from light.
 
-Pre-filled pen, FlexTouch
+## Pre-filled pen, FlexTouch
 
 Keep the pen cap on when the pen is not in use in order to protect it from light.
 
 ## 6.5 Nature and contents of container
 
-## Pre-filled pen, single-dose
+Pre-filled pen, single-dose
 
 1 mL glass syringe (type I glass) with attached stainless steel needle, rigid needle shield (type II/polyisoprene) and a rubber plunger (type I/chlorobutyl).
 
-## Pre-filled pen, FlexTouch (0.25, 0.5 mg) 1.5 mL pre-filled pen
+Pre-filled pen, FlexTouch (0.25, 0.5 mg) 1.5 mL pre-filled pen
 
 1.5 mL glass cartridge (type I glass) closed at the one end with a rubber plunger (chlorobutyl) and at the other end with an aluminium cap with a laminated rubber sheet (bromobutyl/polyisoprene) inserted. The cartridge is assembled into a disposable pre-filled pen made of polypropylene, polyoxymethylene, polycarbonate and acrylonitrile butadiene styrene.
 
-## Pre-filled pen, FlexTouch (0.5 1, 1.7 and 2.4 mg) 3 mL pre-filled pen
+Pre-filled pen, FlexTouch (0.5 1, 1.7 and 2.4 mg) 3 mL pre-filled pen
 
-3 mL glass cartridge (type I glass) closed at the one end with a rubber plunger (chlorobutyl) and at the other end with an aluminium cap with a laminated rubber sheet (bromobutyl/polyisoprene) inserted.
+3 mL glass cartridge (type I glass) closed at the one end with a rubber plunger (chlorobutyl) and at the other end with an aluminium cap with a laminated rubber sheet (bromobutyl/polyisoprene) inserted. The cartridge is assembled into a disposable pre-filled pen made of polypropylene, polyoxymethylene, polycarbonate and acrylonitrile butadiene styrene.
 
 <div style=\"page-break-after: always\"></div>
-
-The cartridge is assembled into a disposable pre-filled pen made of polypropylene, polyoxymethylene, polycarbonate and acrylonitrile butadiene styrene.
 
 ## Pack sizes
 
@@ -1109,11 +1098,11 @@ Wegovy should not be used if it does not appear clear and colourless. The pen sh
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## Pre-filled pen, single-dose
+Pre-filled pen, single-dose
 
 The pen is for single-dose only.
 
-## Pre-filled pen, FlexTouch
+Pre-filled pen, FlexTouch
 
 This pen is for multi-use. It contains 4 doses. After having injected the 4 doses, there might still be solution left in the pen despite having administered correctly. Any solution left is insufficient for a dose and the pen should be disposed of.
 
@@ -1186,11 +1175,12 @@ The marketing authorisation holder (MAH) shall submit the first PSUR for this pr
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
-<div style=\"page-break-after: always\"></div>
-
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
+
+<div style=\"page-break-after: always\"></div>
+
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
@@ -1280,8 +1270,7 @@ Batch
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Wegovy 0.25 mg
 
@@ -1530,8 +1519,7 @@ Batch
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Wegovy 1 mg
 
@@ -1546,6 +1534,8 @@ PC
 SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
@@ -1572,8 +1562,6 @@ Batch
 0.5 mL (1 dose)
 
 ## 6. OTHER
-
-<div style=\"page-break-after: always\"></div>
 
 Novo Nordisk A/S
 
@@ -3031,6 +3019,12 @@ People who are blind or have vision problems should not use Wegovy pen without h
 
 Always follow these user instructions and any directions given by your doctor or nurse.
 
+<!-- image -->
+
+Pull out to get started
+
+<!-- image -->
+
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
@@ -3405,7 +3399,11 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Wegovy contains
 
-- -The active substance is semaglutide. Wegovy 0.25 mg FlexTouch solution for injection
+- -
+
+The active substance is semaglutide.
+
+Wegovy 0.25 mg FlexTouch solution for injection
 
 Each pre-filled pen contains 1 mg semaglutide in 1.5 mL (0.68 mg/mL).
 
@@ -3419,7 +3417,7 @@ Each pre-filled pen contains 1 mg semaglutide in 1.5 mL (0.68 mg/mL).
 
 Each pre-filled pen contains 4 mg semaglutide in 3 mL (1.34 mg/mL).
 
-Wegovy 1.7 mg FlexTouch solution for injection
+## Wegovy 1.7 mg FlexTouch solution for injection
 
 Each pre-filled pen contains 6.8 mg semaglutide in 3 mL (2.27 mg/mL).
 
@@ -3503,9 +3501,7 @@ Check the name and dose of your pen to make sure it contains your prescribed dos
 
 (See figure A).
 
-## Check that the solution in your pen is clear and colourless
-
-.
+## Check that the solution in your pen is clear and colourless .
 
 Look through the pen window. If Wegovy looks cloudy or coloured, do not use the pen.
 
@@ -3526,24 +3522,6 @@ Take a needle when you are ready to take your injection. Check the paper tab and
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-## Push the needle straight onto the pen. Turn until it is on tight.
-
-(See figure D).
-
-The needle is covered by two caps. You must remove both caps. If you forget to remove both caps you will not inject any Wegovy.
-
-Pull off the outer needle cap and keep it for later. You will need it to safely remove the needle from the pen after the injection.
-
-Pull off the inner needle cap and dispose of it. A drop of Wegovy may appear at the needle tip. You must still check the Wegovy flow if you use a new pen for the first time. See 'Check the flow with each new pen'.
-
-Never use a bent or damaged needle. For more information about needle handling, see 'About your needles' below these instructions.
-
-(See figure E).
-
-D
-
-f
 
 <!-- image -->
 
@@ -3709,7 +3687,8 @@ If the dose counter stops before you reach your prescribed dose, there is not en
 
 - Only inject one dose of Wegovy once weekly. If you do not use your Wegovy as prescribed, you may not get the intended effect of this medicine.
 - If you use more than one type of injectable medicine, it is very important to check the name and dose of your pen label before use.
-- Do not use this pen without help if you have poor eyesight and cannot follow these instructions. Get help from a person with good eyesight who is trained to use the Wegovy pen.
+- Do not use this pen without help if you have poor eyesight and cannot follow these
+- instructions. Get help from a person with good eyesight who is trained to use the Wegovy pen.
 - Always keep pen and needles out of sight and reach of others, especially children.
 
 <!-- image -->

@@ -1,102 +1,26 @@
 ---
-document_datetime: 2026-02-05 13:57:00
+document_datetime: 2026-03-11 12:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/wegovy.html
 document_name: wegovy.html
 version: success
-processing_time: 0.109365
-conversion_datetime: 2026-02-09 22:28:00.971084
+processing_time: 0.0998718
+conversion_datetime: 2026-03-13 18:43:04.806046
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.1
-  docling: 2.72.0
-  docling-core: 2.63.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [Glossaries](/en/about-us/glossaries)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Wegovy
-
 # Wegovy
 
 [RSS](/en/individual-human-medicine.xml/67518)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -121,7 +45,16 @@ Page contents
 
 ## Overview
 
-Wegovy is used together with diet and physical activity to help people to lose weight and keep their weight under control. It is used in adults who have: • a BMI of 30 kg/m² or greater (obesity) or • a BMI of at least 27 kg/m² but less than 30 kg/m² (overweight) who have weight-related health problems (such as diabetes, high blood pressure, abnormal levels of fats in the blood, breathing problems during sleep called 'obstructive sleep apnoea' or a history of heart attack, stroke or blood vessel problems). It is also used in adolescents from 12 years of age whose BMI is at or above the 95th percentile for their age and gender (obesity) and who weigh more than 60 kg. BMI (body mass index) is a measure of your weight in relation to your height. A BMI at the 95th percentile means that it is greater than that of 95% of people of the same age and gender. Wegovy contains the active substance semaglutide.
+Wegovy is used together with diet and physical activity to help people to lose weight and keep their weight under control. It is used in adults who have:
+
+- a BMI of 30 kg/m² or greater (obesity) or
+- a BMI of at least 27 kg/m² but less than 30 kg/m² (overweight) who have weight-related health problems (such as diabetes, high blood pressure, abnormal levels of fats in the blood, breathing problems during sleep called 'obstructive sleep apnoea' or a history of heart attack, stroke or blood vessel problems).
+
+It is also used in adolescents from 12 years of age whose BMI is at or above the 95th percentile for their age and gender (obesity) and who weigh more than 60 kg.
+
+BMI (body mass index) is a measure of your weight in relation to your height. A BMI at the 95th percentile means that it is greater than that of 95% of people of the same age and gender.
+
+Wegovy contains the active substance semaglutide.
 
 Expand section
 
@@ -131,6 +64,12 @@ Collapse section
 
 Wegovy is available as pre-filled pens containing a solution for injection. It is injected once a week under the skin in the belly, thigh or upper arm.
 
+To reduce the risk of symptoms affecting the gut, the weekly dose is gradually increased over 16 weeks.
+
+Patients can administer the medicine themselves.
+
+The medicine can only be obtained with a prescription. For more information about using Wegovy, see the package leaflet or contact your healthcare provider.
+
 ## How does Wegovy work?
 
 The active substance in Wegovy, semaglutide, is a 'GLP-1 receptor agonist'. It acts in the same way as GLP-1 (a natural hormone in the body) and, among other things, appears to regulate appetite by increasing a person's feelings of fullness, while reducing their food intake, hunger and cravings.
@@ -139,21 +78,41 @@ The active substance in Wegovy, semaglutide, is a 'GLP-1 receptor agonist'. It a
 
 Studies have shown that Wegovy is effective in helping people lose weight, with a significant proportion of them achieving at least a 5% weight reduction.
 
+Three of the studies involved adults who had tried unsuccessfully to lose weight in the past and had a BMI of ?30 kg/m2 or a BMI of ?27 kg/m2 plus a weight-related health problem.
+
+In the first of these, involving 1,961 people, people treated with Wegovy were able to lose on average 15% of their body weight after 68 weeks compared with a 2% loss of weight in people who had placebo (a dummy treatment). In addition, 84% of people in the Wegovy group were able to lose at least 5% of their weight compared with 31% of people in the placebo group.
+
+In the second study, involving 611 people, those treated with Wegovy lost on average 16% of their body weight after 68 weeks compared with a 6% loss of weight in people who had placebo. Around 85% of people in the Wegovy group lost at least 5% of their weight compared with 48% of people in the placebo group. All participants in this study also received counselling to help them lose weight.
+
+The third study, involving 902 people, looked at how the effects of Wegovy were maintained over the first 20 weeks. In this study, all participants had Wegovy for 20 weeks, after which some were stopped having Wegovy and were given placebo instead. After 48 more weeks, those who continued on Wegovy lost a further 8% of their body weight while those on placebo regained 7% of theirs, indicating that people need to continue taking Wegovy in order not to regain weight.
+
+A fourth study involved 1,210 adults with type 2 diabetes with a BMI of ?27 kg/m2 and who had also tried unsuccessfully to lose weight in the past. After 68 weeks, those treated with Wegovy were able on average to lose 10% of their weight compared with a 3% loss in people who had placebo. In addition, 67% of people in the Wegovy group were able to lose at least 5% of their weight compared with 30% of people in the placebo group.
+
+Another study involved 200 adolescents aged 12 to less than 18 years with a BMI at or above the 95th percentile (obesity) and 1 with a BMI at or above the 85th percentile (overweight) and at least one weight-related health problem. The study found that after 68 weeks, BMI dropped by an average of 16% in those treated with Wegovy compared with an average increase of less than 1% in those who received placebo. Around 73% of those who received Wegovy lost at least 5% of their weight compared with around 18% of those who received placebo.
+
 ## What are the risks associated with Wegovy?
 
-The most common side effects with Wegovy (which may affect more than 1 in 10 people) are headache, nausea (feeling sick), vomiting, diarrhoea, constipations and abdominal (belly) pain. For the full list of side effects and restrictions of Wegovy, see the package leaflet.
+The most common side effects with Wegovy (which may affect more than 1 in 10 people) are headache, nausea (feeling sick), vomiting, diarrhoea, constipations and abdominal (belly) pain.
+
+For the full list of side effects and restrictions of Wegovy, see the package leaflet.
 
 ## Why is Wegovy authorised in the EU?
 
-Obesity can lead to severe health problems and many people with obesity experience difficulty trying to lose weight. Wegovy is effective at reducing weight in adults with obesity or who are overweight with a weight-related health problem. It is also effective in adolescents with obesity, but there were not enough data on overweight adolescents. The medicine's side effects are considered manageable. However, to prevent unnecessary long-term treatment, treatment should be stopped if adolescents do not achieve a weight loss of at least 5% within 12 weeks on the maximum dose or maximum tolerated dose. The European Medicines Agency therefore decided that Wegovy's benefits are greater than its risks and it can be authorised for use in the EU.
+Obesity can lead to severe health problems and many people with obesity experience difficulty trying to lose weight. Wegovy is effective at reducing weight in adults with obesity or who are overweight with a weight-related health problem. It is also effective in adolescents with obesity, but there were not enough data on overweight adolescents.
+
+The medicine's side effects are considered manageable. However, to prevent unnecessary long-term treatment, treatment should be stopped if adolescents do not achieve a weight loss of at least 5% within 12 weeks on the maximum dose or maximum tolerated dose.
+
+The European Medicines Agency therefore decided that Wegovy's benefits are greater than its risks and it can be authorised for use in the EU.
 
 ## What measures are being taken to ensure the safe and effective use of Wegovy?
 
-Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Wegovy have been included in the summary of product characteristics and the package leaflet. As for all medicines, data on the use of Wegovy are continuously monitored. Suspected side effects reported with Wegovy are carefully evaluated and any necessary action taken to protect patients.
+Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Wegovy have been included in the summary of product characteristics and the package leaflet.
+
+As for all medicines, data on the use of Wegovy are continuously monitored. Suspected side effects reported with Wegovy are carefully evaluated and any necessary action taken to protect patients.
 
 ## Other information about Wegovy
 
-Wegovy received a marketing authorisation valid throughout the EU on 6 January 2022. Further information on Wegovy can be found on the Agency's website: ema.europa.eu/medicines/human/EPAR/wegovy This overview was last updated in 04-2023.
+Wegovy received a marketing authorisation valid throughout the EU on 6 January 2022.
 
 Wegovy : EPAR - Medicine Overview
 
@@ -167,7 +126,7 @@ English (EN) (117.86 KB - PDF)
 
 [View](/en/documents/overview/wegovy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-135)
+[Other languages (22)](#file-language-dropdown-227)
 
 български (BG) (130.17 KB - PDF)
 
@@ -451,11 +410,11 @@ English (EN) (1.01 MB - PDF)
 
 **First published:** 10/03/2022
 
-**Last updated:** 05/02/2026
+**Last updated:** 11/03/2026
 
 [View](/en/documents/product-information/wegovy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-355)
+[Other languages (24)](#file-language-dropdown-514)
 
 български (BG) (1.14 MB - PDF)
 
@@ -465,7 +424,7 @@ English (EN) (1.01 MB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/bg/documents/product-information/wegovy-epar-product-information_bg.pdf)
 
@@ -477,7 +436,7 @@ español (ES) (1.07 MB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/es/documents/product-information/wegovy-epar-product-information_es.pdf)
 
@@ -489,11 +448,11 @@ español (ES) (1.07 MB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/cs/documents/product-information/wegovy-epar-product-information_cs.pdf)
 
-dansk (DA) (997.4 KB - PDF)
+dansk (DA) (997.15 KB - PDF)
 
 **First published:**
 
@@ -501,11 +460,11 @@ dansk (DA) (997.4 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/da/documents/product-information/wegovy-epar-product-information_da.pdf)
 
-Deutsch (DE) (999.21 KB - PDF)
+Deutsch (DE) (999.31 KB - PDF)
 
 **First published:**
 
@@ -513,7 +472,7 @@ Deutsch (DE) (999.21 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/de/documents/product-information/wegovy-epar-product-information_de.pdf)
 
@@ -525,7 +484,7 @@ eesti keel (ET) (1.05 MB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/et/documents/product-information/wegovy-epar-product-information_et.pdf)
 
@@ -537,7 +496,7 @@ eesti keel (ET) (1.05 MB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/el/documents/product-information/wegovy-epar-product-information_el.pdf)
 
@@ -549,7 +508,7 @@ français (FR) (1.1 MB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/fr/documents/product-information/wegovy-epar-product-information_fr.pdf)
 
@@ -561,11 +520,11 @@ hrvatski (HR) (1.07 MB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/hr/documents/product-information/wegovy-epar-product-information_hr.pdf)
 
-íslenska (IS) (1004.02 KB - PDF)
+íslenska (IS) (1003.88 KB - PDF)
 
 **First published:**
 
@@ -573,11 +532,11 @@ hrvatski (HR) (1.07 MB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/is/documents/product-information/wegovy-epar-product-information_is.pdf)
 
-italiano (IT) (1011.5 KB - PDF)
+italiano (IT) (1010.53 KB - PDF)
 
 **First published:**
 
@@ -585,7 +544,7 @@ italiano (IT) (1011.5 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/it/documents/product-information/wegovy-epar-product-information_it.pdf)
 
@@ -597,7 +556,7 @@ latviešu valoda (LV) (1.17 MB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/lv/documents/product-information/wegovy-epar-product-information_lv.pdf)
 
@@ -609,7 +568,7 @@ lietuvių kalba (LT) (1.1 MB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/lt/documents/product-information/wegovy-epar-product-information_lt.pdf)
 
@@ -621,11 +580,11 @@ magyar (HU) (1.11 MB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/hu/documents/product-information/wegovy-epar-product-information_hu.pdf)
 
-Malti (MT) (1.17 MB - PDF)
+Malti (MT) (1.16 MB - PDF)
 
 **First published:**
 
@@ -633,11 +592,11 @@ Malti (MT) (1.17 MB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/mt/documents/product-information/wegovy-epar-product-information_mt.pdf)
 
-Nederlands (NL) (988.04 KB - PDF)
+Nederlands (NL) (986.97 KB - PDF)
 
 **First published:**
 
@@ -645,11 +604,11 @@ Nederlands (NL) (988.04 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/nl/documents/product-information/wegovy-epar-product-information_nl.pdf)
 
-norsk (NO) (977.93 KB - PDF)
+norsk (NO) (977.36 KB - PDF)
 
 **First published:**
 
@@ -657,7 +616,7 @@ norsk (NO) (977.93 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/no/documents/product-information/wegovy-epar-product-information_no.pdf)
 
@@ -669,11 +628,11 @@ polski (PL) (1.11 MB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/pl/documents/product-information/wegovy-epar-product-information_pl.pdf)
 
-português (PT) (1021.54 KB - PDF)
+português (PT) (1020.01 KB - PDF)
 
 **First published:**
 
@@ -681,11 +640,11 @@ português (PT) (1021.54 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/pt/documents/product-information/wegovy-epar-product-information_pt.pdf)
 
-română (RO) (1.26 MB - PDF)
+română (RO) (1.25 MB - PDF)
 
 **First published:**
 
@@ -693,7 +652,7 @@ română (RO) (1.26 MB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/ro/documents/product-information/wegovy-epar-product-information_ro.pdf)
 
@@ -705,7 +664,7 @@ slovenčina (SK) (1.17 MB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/sk/documents/product-information/wegovy-epar-product-information_sk.pdf)
 
@@ -717,7 +676,7 @@ slovenščina (SL) (1.06 MB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/sl/documents/product-information/wegovy-epar-product-information_sl.pdf)
 
@@ -729,7 +688,7 @@ Suomi (FI) (1 MB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/fi/documents/product-information/wegovy-epar-product-information_fi.pdf)
 
@@ -741,11 +700,11 @@ svenska (SV) (1.06 MB - PDF)
 
 **Last updated:**
 
-05/02/2026
+11/03/2026
 
 [View](/sv/documents/product-information/wegovy-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000315102 07/01/2026
+**Latest procedure affecting product information:** VR/0000324232 11/03/2026
 
 icon globe
 
@@ -771,7 +730,7 @@ English (EN) (31.84 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/wegovy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-762)
+[Other languages (24)](#file-language-dropdown-755)
 
 български (BG) (69.83 KB - PDF)
 
@@ -1076,15 +1035,21 @@ Antiobesity preparations, excl. diet products
 
 ### Therapeutic indication
 
-Adults
+**Adults**
 
-Wegovy is indicated as an adjunct to a reduced-calorie diet and increased physical activity for weight management, including weight loss and weight maintenance, in adults with an initial Body Mass Index (BMI) of • ≥30 kg/m2 (obesity), or • ≥27 kg/m2 to &lt;30 kg/m2 (overweight) in the presence of at least one weight-related comorbidity e.g. dysglycaemia (prediabetes or type 2 diabetes mellitus), hypertension, dyslipidaemia, obstructive sleep apnoea or cardiovascular disease.
+Wegovy is indicated as an adjunct to a reduced-calorie diet and increased physical activity for weight management, including weight loss and weight maintenance, in adults with an initial Body Mass Index (BMI) of
+
+- ≥30 kg/m2 (obesity), or
+- ≥27 kg/m2 to &lt;30 kg/m2 (overweight) in the presence of at least one weight-related comorbidity e.g. dysglycaemia (prediabetes or type 2 diabetes mellitus), hypertension, dyslipidaemia, obstructive sleep apnoea or cardiovascular disease.
 
 For trial results with respect to cardiovascular risk reduction and populations studied, see section 5.1.
 
-Adolescents (≥12 years)
+**Adolescents (≥12 years)**
 
-Wegovy is indicated as an adjunct to a reduced-calorie diet and increased physical activity for weight management in adolescents ages 12 years and above with • obesity* and • body weight above 60 kg.
+Wegovy is indicated as an adjunct to a reduced-calorie diet and increased physical activity for weight management in adolescents ages 12 years and above with
+
+- obesity* and
+- body weight above 60 kg.
 
 Treatment with Wegovy should be discontinued and re-evaluated if adolescent patients have not reduced their BMI by at least 5% after 12 weeks on the 2.4 mg or maximum tolerated dose.
 
@@ -1106,7 +1071,7 @@ Novo Nordisk A/S
 
 Novo Alle 1
 
-Opinion adopted 11/11/2021 Marketing authorisation issued 06/01/2022 Revision 14
+Opinion adopted 11/11/2021 Marketing authorisation issued 06/01/2022 Revision 15
 
 ## Assessment history
 
@@ -1118,11 +1083,11 @@ Collapse section
 
 Wegovy : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (175.6 KB - PDF)
+English (EN) (172.71 KB - PDF)
 
 **First published:** 30/09/2025
 
-**Last updated:** 05/02/2026
+**Last updated:** 11/03/2026
 
 [View](/en/documents/procedural-steps-after/wegovy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1208,7 +1173,7 @@ English (EN) (174.49 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-wegovy_en.pdf)
 
-#### News on Wegovy
+## News on Wegovy
 
 [Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 2-5 June 2025](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-2-5-june-2025) 06/06/2025
 
@@ -1224,7 +1189,7 @@ English (EN) (174.49 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 8-11 November 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-8-11-november-2021) 12/11/2021
 
-#### Related documents
+## Related documents
 
 Questions and answers on the outcome of assessment to extend the use of Wegovy (semaglutide)
 
@@ -1236,12 +1201,12 @@ English (EN) (128.64 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-answers-outcome-assessment-extend-use-wegovy-semaglutide_en.pdf)
 
-#### More information on Wegovy
+## More information on Wegovy
 
 - [EMEA-001441-PIP08-23 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001441-pip08-23)
 - [Database Linkage Study to Evaluate the Risk of Medullary Thyroid Carcinoma - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000513)
 
-**This page was last updated on** 05/02/2026
+**This page was last updated on** 11/03/2026
 
 ## Share this page
 

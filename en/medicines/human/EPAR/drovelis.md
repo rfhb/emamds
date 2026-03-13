@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:03:54
+document_datetime: 2026-03-10 15:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/drovelis.html
 document_name: drovelis.html
 version: success
-processing_time: 0.1071958
-conversion_datetime: 2025-12-30 02:25:29.37912
+processing_time: 0.0993184
+conversion_datetime: 2026-03-13 18:30:23.304399
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Drovelis
 
 [RSS](/en/individual-human-medicine.xml/67442)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 estetrol / drospirenone Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +102,7 @@ English (EN) (109.31 KB - PDF)
 
 [View](/en/documents/overview/drovelis-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-191)
+[Other languages (22)](#file-language-dropdown-847)
 
 български (BG) (133.66 KB - PDF)
 
@@ -296,17 +294,17 @@ English (EN) (101.47 KB - PDF)
 
 Drovelis : EPAR - Product information
 
-English (EN) (512.54 KB - PDF)
+English (EN) (505.88 KB - PDF)
 
 **First published:** 02/06/2021
 
-**Last updated:** 21/03/2025
+**Last updated:** 10/03/2026
 
 [View](/en/documents/product-information/drovelis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-209)
+[Other languages (24)](#file-language-dropdown-141)
 
-български (BG) (750.01 KB - PDF)
+български (BG) (755.75 KB - PDF)
 
 **First published:**
 
@@ -314,11 +312,11 @@ English (EN) (512.54 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/bg/documents/product-information/drovelis-epar-product-information_bg.pdf)
 
-español (ES) (536.45 KB - PDF)
+español (ES) (534.47 KB - PDF)
 
 **First published:**
 
@@ -326,11 +324,11 @@ español (ES) (536.45 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/es/documents/product-information/drovelis-epar-product-information_es.pdf)
 
-čeština (CS) (594.42 KB - PDF)
+čeština (CS) (608.74 KB - PDF)
 
 **First published:**
 
@@ -338,11 +336,11 @@ español (ES) (536.45 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/cs/documents/product-information/drovelis-epar-product-information_cs.pdf)
 
-dansk (DA) (540.85 KB - PDF)
+dansk (DA) (538.77 KB - PDF)
 
 **First published:**
 
@@ -350,11 +348,11 @@ dansk (DA) (540.85 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/da/documents/product-information/drovelis-epar-product-information_da.pdf)
 
-Deutsch (DE) (611.79 KB - PDF)
+Deutsch (DE) (611.12 KB - PDF)
 
 **First published:**
 
@@ -362,11 +360,11 @@ Deutsch (DE) (611.79 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/de/documents/product-information/drovelis-epar-product-information_de.pdf)
 
-eesti keel (ET) (582.98 KB - PDF)
+eesti keel (ET) (579.44 KB - PDF)
 
 **First published:**
 
@@ -374,11 +372,11 @@ eesti keel (ET) (582.98 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/et/documents/product-information/drovelis-epar-product-information_et.pdf)
 
-ελληνικά (EL) (730.24 KB - PDF)
+ελληνικά (EL) (729.03 KB - PDF)
 
 **First published:**
 
@@ -386,11 +384,11 @@ eesti keel (ET) (582.98 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/el/documents/product-information/drovelis-epar-product-information_el.pdf)
 
-français (FR) (583.9 KB - PDF)
+français (FR) (577.79 KB - PDF)
 
 **First published:**
 
@@ -398,11 +396,11 @@ français (FR) (583.9 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/fr/documents/product-information/drovelis-epar-product-information_fr.pdf)
 
-hrvatski (HR) (595.62 KB - PDF)
+hrvatski (HR) (578.6 KB - PDF)
 
 **First published:**
 
@@ -410,11 +408,11 @@ hrvatski (HR) (595.62 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/hr/documents/product-information/drovelis-epar-product-information_hr.pdf)
 
-íslenska (IS) (610.49 KB - PDF)
+íslenska (IS) (581.49 KB - PDF)
 
 **First published:**
 
@@ -422,11 +420,11 @@ hrvatski (HR) (595.62 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/is/documents/product-information/drovelis-epar-product-information_is.pdf)
 
-italiano (IT) (541.3 KB - PDF)
+italiano (IT) (532.56 KB - PDF)
 
 **First published:**
 
@@ -434,11 +432,11 @@ italiano (IT) (541.3 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/it/documents/product-information/drovelis-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (748.42 KB - PDF)
+latviešu valoda (LV) (745.19 KB - PDF)
 
 **First published:**
 
@@ -446,11 +444,11 @@ latviešu valoda (LV) (748.42 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/lv/documents/product-information/drovelis-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (589.56 KB - PDF)
+lietuvių kalba (LT) (599.83 KB - PDF)
 
 **First published:**
 
@@ -458,11 +456,11 @@ lietuvių kalba (LT) (589.56 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/lt/documents/product-information/drovelis-epar-product-information_lt.pdf)
 
-magyar (HU) (717.67 KB - PDF)
+magyar (HU) (682.74 KB - PDF)
 
 **First published:**
 
@@ -470,11 +468,11 @@ magyar (HU) (717.67 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/hu/documents/product-information/drovelis-epar-product-information_hu.pdf)
 
-Malti (MT) (645.06 KB - PDF)
+Malti (MT) (677.76 KB - PDF)
 
 **First published:**
 
@@ -482,11 +480,11 @@ Malti (MT) (645.06 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/mt/documents/product-information/drovelis-epar-product-information_mt.pdf)
 
-Nederlands (NL) (546.89 KB - PDF)
+Nederlands (NL) (542.41 KB - PDF)
 
 **First published:**
 
@@ -494,11 +492,11 @@ Nederlands (NL) (546.89 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/nl/documents/product-information/drovelis-epar-product-information_nl.pdf)
 
-norsk (NO) (504.6 KB - PDF)
+norsk (NO) (505.68 KB - PDF)
 
 **First published:**
 
@@ -506,11 +504,11 @@ norsk (NO) (504.6 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/no/documents/product-information/drovelis-epar-product-information_no.pdf)
 
-polski (PL) (742.73 KB - PDF)
+polski (PL) (745.81 KB - PDF)
 
 **First published:**
 
@@ -518,11 +516,11 @@ polski (PL) (742.73 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/pl/documents/product-information/drovelis-epar-product-information_pl.pdf)
 
-português (PT) (554.51 KB - PDF)
+português (PT) (548.61 KB - PDF)
 
 **First published:**
 
@@ -530,11 +528,11 @@ português (PT) (554.51 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/pt/documents/product-information/drovelis-epar-product-information_pt.pdf)
 
-română (RO) (667.75 KB - PDF)
+română (RO) (689.05 KB - PDF)
 
 **First published:**
 
@@ -542,11 +540,11 @@ română (RO) (667.75 KB - PDF)
 
 **Last updated:**
 
-30/09/2025
+10/03/2026
 
 [View](/ro/documents/product-information/drovelis-epar-product-information_ro.pdf)
 
-slovenčina (SK) (611.53 KB - PDF)
+slovenčina (SK) (629.37 KB - PDF)
 
 **First published:**
 
@@ -554,11 +552,11 @@ slovenčina (SK) (611.53 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/sk/documents/product-information/drovelis-epar-product-information_sk.pdf)
 
-slovenščina (SL) (634.05 KB - PDF)
+slovenščina (SL) (620.67 KB - PDF)
 
 **First published:**
 
@@ -566,11 +564,11 @@ slovenščina (SL) (634.05 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/sl/documents/product-information/drovelis-epar-product-information_sl.pdf)
 
-Suomi (FI) (532.97 KB - PDF)
+Suomi (FI) (526.01 KB - PDF)
 
 **First published:**
 
@@ -578,11 +576,11 @@ Suomi (FI) (532.97 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/fi/documents/product-information/drovelis-epar-product-information_fi.pdf)
 
-svenska (SV) (586.54 KB - PDF)
+svenska (SV) (564.49 KB - PDF)
 
 **First published:**
 
@@ -590,11 +588,11 @@ svenska (SV) (586.54 KB - PDF)
 
 **Last updated:**
 
-21/03/2025
+10/03/2026
 
 [View](/sv/documents/product-information/drovelis-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0026 28/02/2025
+**Latest procedure affecting product information:** VR/0000280151 05/02/2026
 
 icon globe
 
@@ -618,7 +616,7 @@ English (EN) (17.65 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/drovelis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-768)
+[Other languages (24)](#file-language-dropdown-463)
 
 български (BG) (40.38 KB - PDF)
 
@@ -848,7 +846,7 @@ Gedeon Richter Plc.
 
 Gyomroi ut 19-21
 
-Opinion adopted 25/03/2021 Marketing authorisation issued 19/05/2021 Revision 8
+Opinion adopted 25/03/2021 Marketing authorisation issued 19/05/2021 Revision 9
 
 ## Assessment history
 
@@ -860,13 +858,21 @@ Collapse section
 
 Drovelis : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (148.71 KB - PDF)
+
+**First published:** 10/03/2026
+
+[View](/en/documents/procedural-steps-after/drovelis-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Drovelis : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (186.72 KB - PDF)
 
 **First published:** 29/11/2021
 
-**Last updated:** 21/03/2025
+**Last updated:** 10/03/2026
 
-[View](/en/documents/procedural-steps-after/drovelis-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/drovelis-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Drovelis : EPAR - Statement indicating compliance with the agreed completed paediatric investigation plan
 
@@ -904,15 +910,15 @@ English (EN) (119.31 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-drovelis_en.pdf)
 
-#### News on Drovelis
+## News on Drovelis
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 March 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-march-2021) 26/03/2021
 
-#### More information on Drovelis
+## More information on Drovelis
 
 - [International Active Surveillance Study: Native Estrogen Estetrol (E4) Safety Study (INAS-NEES) - post-authorisation study](https://catalogues.ema.europa.eu/study/49985)
 
-**This page was last updated on** 21/03/2025
+**This page was last updated on** 10/03/2026
 
 ## Share this page
 

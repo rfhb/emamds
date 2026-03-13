@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-08-06 11:56:30
+document_datetime: 2026-03-10 15:40:39
 document_pages: 29
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kengrexal-epar-product-information_en.pdf
 document_name: kengrexal-epar-product-information_en.pdf
 version: success
-processing_time: 7.948826
-conversion_datetime: 2025-12-30 22:08:45.326447
+processing_time: 7.9513635
+conversion_datetime: 2026-03-13 18:37:27.274888
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.79.0
+  docling-core: 2.69.0
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -50,15 +50,21 @@ Kengrexal should be administered by a physician experienced in either acute coro
 
 The recommended dose of Kengrexal for patients undergoing PCI is a 30 micrograms/kg intravenous bolus followed immediately by 4 micrograms/kg/min intravenous infusion. The bolus and infusion should be initiated prior to the procedure and continued for at least two hours or for the duration of the procedure, whichever is longer. At the discretion of the physician, the infusion may be continued for a total duration of four hours, see section 5.1.
 
-Patients should be transitioned to oral P2Y12 therapy for chronic treatment. For transition, a loading dose of oral P2Y12 therapy (clopidogrel, ticagrelor or prasugrel) should be administered immediately following discontinuation of cangrelor infusion. Alternatively, a loading dose of ticagrelor or prasugrel, but not clopidogrel, may be administered up to 30 minutes before the end of the infusion, see section 4.5.
+Patients should be transitioned to oral P2Y12 therapy for chronic treatment. For transition, a loading dose of oral P2Y12 therapy (clopidogrel, prasugrel or ticagrelor) should be administered  as described below, see also section 4.5:
 
-Use with other anticoagulant agents In patients undergoing PCI, standard procedural adjunctive therapy should be implemented (see section 5.1).
+- Clopidogrel: immediately following discontinuation of cangrelor infusion.
+- Prasugrel: immediately following discontinuation of cangrelor infusion. Alternatively, a loading dose of prasugrel may be administered up to 30 minutes before the end of the infusion.
+- Ticagrelor: at any time during cangrelor infusion or immediately after discontinuation.
+
+<div style=\"page-break-after: always\"></div>
+
+## Use with other anticoagulant agents
+
+In patients undergoing PCI, standard procedural adjunctive therapy should be implemented (see section 5.1).
 
 ## Elderly
 
 No dose adjustment is needed in elderly (≥75 years) patients.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -82,9 +88,9 @@ For instructions on reconstitution and dilution of the medicinal product before 
 
 ## 4.3 Contraindications
 
--  Active bleeding or increased risk of bleeding, because of impaired haemostasis and/or irreversible coagulation disorders or due to recent major surgery/trauma or uncontrolled severe hypertension.
--  Any history of stroke or transient ischaemic attack (TIA).
--  Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+- Active bleeding or increased risk of bleeding, because of impaired haemostasis and/or irreversible coagulation disorders or due to recent major surgery/trauma or uncontrolled severe hypertension.
+- Any history of stroke or transient ischaemic attack (TIA).
+- Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
 ## 4.4 Special warnings and precautions for use
 
@@ -96,15 +102,13 @@ In pivotal studies conducted in patients undergoing PCI, GUSTO (Global Use of St
 
 Although most bleeding associated with the use of cangrelor occurs at the site of arterial puncture, haemorrhage can occur at any site. Any unexplained fall in blood pressure or haematocrit should lead to the serious consideration of a haemorrhagic event and the cessation of cangrelor administration. Cangrelor should be used with caution in patients with disease states associated with an increased bleeding risk. Cangrelor should be used with caution in patients taking medicines that may increase the risk of bleeding.
 
+<div style=\"page-break-after: always\"></div>
+
 Cangrelor has a half-life of three to six minutes. Platelet function is restored within 60 minutes of stopping infusion.
 
 ## Intracranial haemorrhage
 
-Treatment with Kengrexal may increase the risk of intracranial haemorrhage. In pivotal studies conducted in patients undergoing PCI, there were more intracranial bleeds at 30 days with cangrelor (0.07%) than with clopidogrel (0.02%), of which 4 bleeds with cangrelor and 1 bleed with clopidogrel
-
-<div style=\"page-break-after: always\"></div>
-
-were fatal. Cangrelor is contraindicated in patients with any history of stroke/TIA, (see sections 4.3 and 4.8).
+Treatment with Kengrexal may increase the risk of intracranial haemorrhage. In pivotal studies conducted in patients undergoing PCI, there were more intracranial bleeds at 30 days with cangrelor (0.07%) than with clopidogrel (0.02%), of which 4 bleeds with cangrelor and 1 bleed with clopidogrel were fatal. Cangrelor is contraindicated in patients with any history of stroke/TIA, (see sections 4.3 and 4.8).
 
 ## Cardiac tamponade
 
@@ -134,15 +138,15 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per vial, that i
 
 Interaction studies have only been performed in adults.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Oral P2Y12 agents (clopidogrel, prasugrel, ticagrelor)
 
 When clopidogrel is administered during infusion of cangrelor, the expected inhibitory effect of clopidogrel on platelets is not achieved. Administration of 600 mg clopidogrel immediately after the cessation of the cangrelor infusion results in the anticipated full pharmacodynamic effect. No clinically relevant interruption of P2Y12 inhibition was observed in phase III studies when 600 mg clopidogrel was administered immediately after discontinuation of the cangrelor infusion.
 
-<div style=\"page-break-after: always\"></div>
+A  pharmacodynamic  interaction  study  has  been  conducted  with  cangrelor  and  prasugrel,  which demonstrated  that  cangrelor  and  prasugrel  can  be  administered  concomitantly.  Patients  can  be transitioned  from  cangrelor  to  prasugrel  when  prasugrel  is  administered  immediately  following discontinuation of the cangrelor infusion or up to 30 minutes before the end of the cangrelor infusion to limit recovery of platelet reactivity.
 
-A pharmacodynamic interaction study has been conducted with cangrelor and prasugrel, which demonstrated that cangrelor and prasugrel can be administered concomitantly. Patients can be transitioned from cangrelor to prasugrel when prasugrel is administered immediately following discontinuation of the cangrelor infusion or up to one hour before, optimally at 30 minutes before the end of the cangrelor infusion to limit recovery of platelet reactivity.
-
-A pharmacodynamic interaction study has also been conducted with cangrelor and ticagrelor. No interaction on cangrelor was observed. Patients can be transitioned from cangrelor to ticagrelor without interruption of antiplatelet effect.
+A pharmacodynamic interaction study has also been conducted with cangrelor and ticagrelor. No interaction on cangrelor was observed. Patients can be transitioned from cangrelor to ticagrelor without interruption of antiplatelet effect, see section 4.2.
 
 ## Pharmacodynamic effects
 
@@ -168,6 +172,8 @@ Metabolism of cangrelor is not dependent on CYPs and CYP isoenzymes are not inhi
 
 In vitro inhibition of BCRP by the metabolite ARC-69712XX at clinically relevant concentrations has been observed. Possible implications for the in vivo situation have not been investigated, but caution is advised when cangrelor is to be combined with a BCRP substrate.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Pregnancy
@@ -175,8 +181,6 @@ In vitro inhibition of BCRP by the metabolite ARC-69712XX at clinically relevant
 There are no or limited amount of data from the use of Kengrexal in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3).
 
 Kengrexal is not recommended during pregnancy.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Breast-feeding
 
@@ -198,25 +202,25 @@ The most common adverse reactions with cangrelor include mild and moderate bleed
 
 ## Tabulated list of adverse reactions
 
-Table 1 depicts adverse reactions that have been identified based upon a pooling of combined data from all CHAMPION studies. Adverse reactions are classified according to frequency and system organ class. Frequency categories are defined according to the following conventions: Very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000).
+Table 1 depicts adverse reactions that have been identified based upon a pooling of combined data from all CHAMPION studies. Adverse reactions are classified according to frequency and system organ class. Frequency categories are defined according to the following conventions: Very common (≥1/10), c ommon (≥1/100 to &lt;1/10), u ncommon (≥1/1,000 to &lt;1/100), r are (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000).
 
 Table 1: Adverse reactions for cangrelor in CHAMPION pooled studies within 48 hours
 
-| System organ class                                                      | Common   | Uncommon                                    | Rare                                                         | Very rare              |
-|-------------------------------------------------------------------------|----------|---------------------------------------------|--------------------------------------------------------------|------------------------|
-| Infections and infestations                                             |          |                                             |                                                              | Haematoma infection    |
-| Neoplasms benign, malignant and unspecified (includes cysts and polyps) |          |                                             |                                                              | Skin neoplasm bleeding |
-| Blood and lymphatic system disorders                                    |          |                                             | Anaemia, thrombo- cytopenia                                  |                        |
-| Immune system disorders                                                 |          |                                             | Anaphylactic reaction (anaphylactic shock), hypersensitivity |                        |
-| Nervous system disorders                                                |          |                                             | Haemorrhage intracranial d *                                 |                        |
-| Eye disorders                                                           |          |                                             | Eye haemorrhage                                              |                        |
-| Ear and labyrinth disorders                                             |          |                                             |                                                              | Ear haemorrhage        |
-| Cardiac disorders                                                       |          | Cardiac tamponade (pericardial haemorrhage) |                                                              |                        |
+| System organ class                                                      | Common   | Uncommon   | Rare                                                         | Very rare              |
+|-------------------------------------------------------------------------|----------|------------|--------------------------------------------------------------|------------------------|
+| Infections and infestations                                             |          |            |                                                              | Haematoma infection    |
+| Neoplasms benign, malignant and unspecified (includes cysts and polyps) |          |            |                                                              | Skin neoplasm bleeding |
+| Blood and lymphatic system disorders                                    |          |            | Anaemia, thrombo- cytopenia                                  |                        |
+| Immune system disorders                                                 |          |            | Anaphylactic reaction (anaphylactic shock), hypersensitivity |                        |
+| Nervous system disorders                                                |          |            | Haemorrhage intracranial d *                                 |                        |
+| Eye disorders                                                           |          |            | Eye haemorrhage                                              |                        |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class                                   | Common                                         | Uncommon                                                                           | Rare                                                                                                 | Very rare                                     |
 |------------------------------------------------------|------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| Ear and labyrinth disorders                          |                                                |                                                                                    |                                                                                                      | Ear haemorrhage                               |
+| Cardiac disorders                                    |                                                | Cardiac tamponade (pericardial haemorrhage)                                        |                                                                                                      |                                               |
 | Vascular disorders                                   | Haematoma <5 cm, haemorrhage                   | Haemodynamic instability                                                           | Wound haemorrhage, vascular pseudoaneurysm                                                           |                                               |
 | Respiratory, thoracic and mediastinal disorders      | Dyspnoea (dyspnoea exertional)                 | Epistaxis, haemoptysis                                                             | Pulmonary haemorrhage                                                                                |                                               |
 | Gastrointestinal disorders                           |                                                | Retroperitoneal haemorrhage,* peritoneal haematoma, gastrointestinal haemorrhage a |                                                                                                      |                                               |
@@ -225,7 +229,7 @@ Table 1: Adverse reactions for cangrelor in CHAMPION pooled studies within 48 ho
 | Reproductive system and breast disorders             |                                                |                                                                                    | Pelvic haemorrhage                                                                                   | Menorrhagia, penile haemorrhage               |
 | General disorders and administration site conditions | Vessel puncture site discharge                 | Vessel puncture site haematoma b                                                   |                                                                                                      |                                               |
 | Investigations                                       | Haematocrit decreased, haemoglobin decreased** | Blood creatinine increased                                                         | Platelet count decreased, red blood cell count decreased, international normalised ratio increased c |                                               |
-| Injury, poisoning and procedural complications       | Haematoma ≥5 cm                                |                                                                                    | Contusion                                                                                            | Periorbital haematoma, subcutaneous haematoma |
+| Injury, poisoning and procedural complications       | Haematoma ≥ 5 cm                               |                                                                                    | Contusion                                                                                            | Periorbital haematoma, subcutaneous haematoma |
 
 Multiple related adverse reaction terms have been grouped together in the table and include medical terms as described below:
 
@@ -238,13 +242,13 @@ Multiple related adverse reaction terms have been grouped together in the table 
 * Including events with fatal outcome.
 8. ** Transfusion was uncommon 101/12,565 (0.8%).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Description of selected adverse reactions
 
 The GUSTO bleeding scale was measured in the CHAMPION (PHOENIX, PLATFORM, and PCI) clinical trials. An analysis of non-coronary artery bypass grafting (CABG)-related bleeding is presented in Table 2.
 
-<div style=\"page-break-after: always\"></div>
-
-When administered in the PCI setting, cangrelor   was associated with a greater incidence of GUSTO mild bleeding compared with clopidogrel. Further analysis of GUSTO mild bleeding revealed that a large proportion of mild bleeding events were ecchymosis, oozing and &lt;5 cm haematoma. Transfusion and GUSTO severe/life-threatening bleeding rates were similar. In the pooled safety population from the CHAMPION trials, the incidence of fatal bleeding within 30 days of dosing was low and similar in patients who received cangrelor compared to clopidogrel (8 [0.1%] vs. 9 [0.1%]).
+When administered in the PCI setting, cangrelor was associated with a greater incidence of GUSTO mild bleeding compared with clopidogrel. Further analysis of GUSTO mild bleeding revealed that a large proportion of mild bleeding events were ecchymosis, oozing and &lt;5 cm haematoma. Transfusion and GUSTO severe/life-threatening bleeding rates were similar. In the pooled safety population from the CHAMPION trials, the incidence of fatal bleeding within 30 days of dosing was low and similar in patients who received cangrelor compared to clopidogrel (8 [0.1%] vs. 9 [0.1%]).
 
 No baseline demographic factor altered the relative risk of bleeding with cangrelor.
 
@@ -267,12 +271,6 @@ Table 2: Non-CABG-related bleeding
 | Mild w/o ecchymosis, oozing and haematoma <5 cm | 98 (1.8)             | 51 (0.9)               |
 | Patients with any transfusion                   | 25 (0.5)             | 16 (0.3)               |
 
-CABG: Coronary Artery Bypass Graft Surgery; GUSTO: Global Use of Strategies to Open Coronary Arteries; w/o: without
-
-a  In the CHAMPION pooled analysis, GUSTO Mild was defined as other bleed not requiring blood transfusion or causing haemodynamic compromise.
-
-b  In CHAMPION PHOENIX, GUSTO Mild was defined as other bleeding requiring intervention but not requiring blood transfusion or causing haemodynamic compromise.
-
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
@@ -281,11 +279,11 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 In clinical studies, healthy volunteers received up to two times the proposed daily dose. In clinical trials, the maximum accidental overdose was 10 times (bolus) or 3.5 times the infusion dose normally administered and bleeding was the most frequently observed adverse event.
 
+<div style=\"page-break-after: always\"></div>
+
 Bleeding is the most likely pharmacological effect of overdose. If bleeding occurs appropriate supportive measures should be taken, which may include stopping the medicinal product so platelet function can return.
 
 There is no antidote to Kengrexal, however, the pharmacokinetic half-life of Kengrexal is three to six minutes. Platelet function is restored within 60 minutes of stopping the infusion.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -319,7 +317,7 @@ Table 3: Thrombotic events at 48 hours in CHAMPION PHOENIX (mITT population)
 
 |                                    | Cangrelor vs. Clopidogrel   | Cangrelor vs. Clopidogrel   | Cangrelor vs. Clopidogrel   | Cangrelor vs. Clopidogrel   |
 |------------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
-| n (%)                              | Cangrelor N=5,470           | Clopidogrel N=5,469         | OR (95% CI)                 | p-value                     |
+| n (%)                              | Cangrelor N=5,470           | Clopidogrel N=5,469         | OR(95% CI)                  | p-value                     |
 | Primary Endpoint Death/MI/IDR/ST a | 257 (4.7)                   | 322 (5.9)                   | 0.78 (0.66,0.93)            | 0.005                       |
 | Key Secondary Endpoint             |                             |                             |                             |                             |
 | Stent thrombosis                   | 46 (0.8)                    | 74 (1.4)                    | 0.62 (0.43, 0.90)           | 0.010                       |
@@ -335,7 +333,7 @@ Table 4: Thrombotic events at 30 days in CHAMPION PHOENIX (mITT population)
 
 |                                  |                   | Cangrelor vs. Clopidogrel   | Cangrelor vs. Clopidogrel   | Cangrelor vs. Clopidogrel   |
 |----------------------------------|-------------------|-----------------------------|-----------------------------|-----------------------------|
-| n (%)                            | Cangrelor N=5,462 | Clopidogrel N=5,457         | OR (95% CI)                 | p-value a                   |
+| n (%)                            | Cangrelor N=5,462 | Clopidogrel N=5,457         | OR(95% CI)                  | p-value a                   |
 | Primary Endpoint Death/MI/IDR/ST | 326 (6.0)         | 380 (7.0)                   | 0.85 (0.73, 0.99)           | 0.035                       |
 | Key Secondary Endpoint           |                   |                             |                             |                             |
 | Stent thrombosis                 | 71 (1.3)          | 104 (1.9)                   | 0.68 (0.50, 0.92)           | 0.012                       |
@@ -343,15 +341,15 @@ Table 4: Thrombotic events at 30 days in CHAMPION PHOENIX (mITT population)
 | MI                               | 225 (4.1)         | 272 (5.0)                   | 0.82 (0.68, 0.98)           | 0.030                       |
 | IDR                              | 56 (1.0)          | 66 (1.2)                    | 0.85 (0.59, 1.21)           | 0.360                       |
 
-a  p-values based on Chi-squared test.
+a p-values based on Chi-squared test.
 
 OR = odds ratio; CI = confidence interval; IDR = ischaemia-driven revascularisation; MI = myocardial infarction; mITT = modified intent-to-treat; ST = stent thrombosis.
 
 ## Paediatric Population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Kengrexal in one or more subsets of the paediatric population in the prevention of non-site specific embolism and thrombosis, for the treatment of thrombosis in paediatric patients undergoing diagnostic and / or therapeutic percutaneous vascular procedures. See section 4.2 for information on paediatric use.
+The European Medicines Agency has deferred the obligation to submit the results of studies with Kengrexal in one or more subsets of the paediatric population in the prevention of non-site specific embolism and thrombosis, for the treatment of thrombosis in paediatric patients undergoing diagnostic and / or therapeutic percutaneous vascular procedures (see section 4.2 for information on paediatric use).
 
-In a prospective, open-label, single-arm, multi-center, Phase I study, cangrelor was evaluated at 2 dose levels of 0.5 and 0.25 micrograms/kg/min in 15 neonates ≤28 days of life with congenital heart disease requiring palliation with a systemic-to-pulmonary artery shunt, a right ventricle-to-pulmonary artery shunt, or a ductus arteriosus stent (see section 4.2). Platelet aggregation inhibition was assessed by light transmission aggregometry (LTA) in response to stimulation with 20 and 5 µM ADP. The % inhibition of maximal aggregation 45 minutes into cangrelor infusion and the number of subjects who achieved &gt;90% of maximal platelet aggregation inhibition are summarized in the table below.
+In a prospective, open-label, single-arm, multi-center, Phase I study, cangrelor was evaluated at 2 dose levels of 0.5 and 0.25 micrograms /kg/min in 15 neonates ≤28 days of life with congenital heart disease requiring palliation with a systemic-to-pulmonary artery shunt, a right ventricle-to-pulmonary artery shunt, or a ductus arteriosus stent (see section 4.2). Platelet aggregation inhibition was assessed by light transmission aggregometry (LTA) in response to stimulation with 20 and 5 µM ADP. The % inhibition of maximal aggregation 45 minutes into cangrelor infusion and the number of subjects who achieved &gt;90% of maximal platelet aggregation inhibition are summarized in the table below.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -420,7 +418,9 @@ Female fertility was not affected at any dose.
 
 ## 6.1 List of excipients
 
-Mannitol Sorbitol Sodium hydroxide (for pH-adjustment)
+Mannitol Sorbitol
+
+Sodium hydroxide (for pH-adjustment)
 
 ## 6.2 Incompatibilities
 
@@ -430,13 +430,13 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-## 3 years.
+3 years.
 
 The powder should be reconstituted immediately prior to dilution and use. Do not refrigerate. From a microbiological point of view, unless the method of reconstitution/dilution precludes the risk of microbiological contamination, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user.
 
 ## 6.4 Special precautions for storage
 
-This medicinal product does not require any special storage conditions. For storage conditions after reconstitution and dilution of the medicinal product see section 6.3.
+This medicinal product does not require any special storage conditions. For storage conditions after reconstitution and dilution of the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
@@ -482,7 +482,7 @@ Date of latest renewal: 16 December 2019
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -513,20 +513,20 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -590,8 +590,8 @@ The powder should be reconstituted immediately prior to dilution and use. Do not
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -630,18 +630,15 @@ NN
 
 Kengrexal 50 mg powder for concentrate cangrelor Intravenous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 Read the package leaflet before use.
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -705,11 +702,11 @@ Kengrexal is only for use in adults.
 
 Talk to your doctor before using Kengrexal if:
 
--  You are, or you think you may be at increased risk of bleeding. For example, if you have a medical condition that affects blood clotting or because of another medical condition that may increase the risk of bleeding such as a recent serious injury, any recent surgery, history of a stroke or a transient ischaemic attack  or recent bleeding from your stomach or gut.
--  You suffer from impaired kidney function or require dialysis.
--  You suffer from breathing difficulties such as asthma.
--  You have ever suffered from an allergic reaction to Kengrexal or any of its constituents.
--  You have been told by your doctor that you have an intolerance to some sugars.
+- You are, or you think you may be at increased risk of bleeding. For example, if you have a medical condition that affects blood clotting or because of another medical condition that may increase the risk of bleeding such as a recent serious injury, any recent surgery, history of a stroke or a transient ischaemic attack  or recent bleeding from your stomach or gut.
+- You suffer from impaired kidney function or require dialysis.
+- You have ever suffered from an allergic reaction to Kengrexal or any of its constituents.
+- You suffer from breathing difficulties such as asthma.
+- You have been told by your doctor that you have an intolerance to some sugars.
 
 ## Children and adolescents
 
@@ -747,8 +744,8 @@ Kengrexal is for injection, followed by infusion (drip), into a vein. The dose g
 
 The recommended dose is:
 
--  30 micrograms per kilogram body weight by injection, followed immediately by
--  4 micrograms per kilogram body weight per minute by infusion (drip), for at least 2 hours. The doctor will decide if you will need to be treated for longer periods.
+- 30 micrograms per kilogram body weight by injection, followed immediately by
+- 4 micrograms per kilogram body weight per minute by infusion (drip), for at least 2 hours. The doctor will decide if you will need to be treated for longer periods.
 
 ## If you use more Kengrexal than you should
 
@@ -766,47 +763,45 @@ If side effects occur, they may need medical attention.
 
 Tell your doctor immediately if you notice any of the following:
 
--  Bleeding from anywhere in the body. Bleeding is a common side effect of treatment with Kengrexal (may affect up to 1 in 10 people). Bleeding can be serious, and fatal outcomes have been reported.
--  Allergic reaction (a rash, itching, throat tightening/swelling, swelling of the tongue or lips, difficulty breathing). Allergic reaction is a rare side effect of treatment with Kengrexal (may affect up to 1 in 1,000 people) but may be potentially serious.
+- Bleeding from anywhere in the body. Bleeding is a common side effect of treatment with Kengrexal (may affect up to 1 in 10 people). Bleeding can be serious, and fatal outcomes have been reported.
+- Allergic reaction (a rash, itching, throat tightening/swelling, swelling of the tongue or lips, difficulty breathing). Allergic reaction is a rare side effect of treatment with Kengrexal (may affect up to 1 in 1,000 people) but may be potentially serious.
 
 ## Common side effects: may affect up to 1 in 10 people
 
--  Minor bruising can occur anywhere in the body (including small red bruises on the skin or at the site of an injection under the skin causing swelling),
--  dyspnoea (shortness of breath),
--  fluid discharge from injection or catheter sites.
--  bleeding leading to decreases in blood volume or red blood cell numbers,
+- Minor bruising can occur anywhere in the body (including small red bruises on the skin or at the site of an injection under the skin causing swelling),
+- dyspnoea (shortness of breath),
+- bleeding leading to decreases in blood volume or red blood cell numbers,
+- fluid discharge from injection or catheter sites.
 
 ## Uncommon side effects: may affect up to 1 in 100 people
 
--  Bleeding leading to fluid around the heart, blood in the chest cavity or bleeding from the nose, gastrointestinal tract, in the abdomen, or in the urine or from injection or catheter sites,
--  increased levels of creatinine in the blood (identified by blood tests), indicating reduced kidney function,
--  variations in blood pressure,
--  vessel puncture site haematoma.
--  rash, pruritus, urticaria,
+- Bleeding leading to fluid around the heart, blood in the chest cavity or bleeding from the nose, gastrointestinal tract, in the abdomen, or in the urine or from injection or catheter sites,
+- increased levels of creatinine in the blood (identified by blood tests), indicating reduced kidney function,
+- variations in blood pressure,
+- rash, pruritus, urticaria,
+- vessel puncture site haematoma.
 
 ## Rare side effects: may affect up to 1 in 1,000 people
 
--  Bleeding leading to low platelet count or anaemia,
--  bleeding from the site of wounds,
--  bleeding in the eye, brain (including stroke), pelvis and lung,
--  balloon-like swelling in an artery or wall of the heart, which involves only a few layers of the vessel walls,
--  severe allergic reactions,
--  bruising,
--  reduced clotting of the blood,
--  swollen face.
+- Bleeding leading to low platelet count or anaemia,
+- bleeding in the eye, brain (including stroke), pelvis and lung,
+- bleeding from the site of wounds,
+- balloon-like swelling in an artery or wall of the heart, which involves only a few layers of the vessel walls,
+- severe allergic reactions,
+- reduced clotting of the blood,
+- bruising,
+- swollen face.
 
 ## Very rare side effects: may affect up to 1 in 10,000 people
 
--  Bleeding under the skin or around the eye,
--  heavy menstrual bleeding,
--  infection of bleeding sites,
--  bleeding from the penis, ear or pre-existing skin tumours.
+- Bleeding under the skin or around the eye,
+- infection of bleeding sites,
+- heavy menstrual bleeding,
+- bleeding from the penis, ear or pre-existing skin tumours.
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet.
-
-You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -852,13 +847,13 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Ferrer Benelux B.V. Tél/Tel: +31 (0)88 - 2045 888
+Ferrer Benelux B.V.
+
+Tél/Tel: +31 (0)88 - 2045 888
 
 ## България
 
-Chiesi Bulgaria EOOD
-
-Te л .: + 359 29201205
+Chiesi Bulgaria EOOD Te л .: + 359 29201205
 
 ## Česká republika
 
@@ -866,7 +861,7 @@ Chiesi CZ s.r.o. Tel: +420 261221745
 
 ## Danmark
 
-Chiesi Pharma AB Tlf: +46 8 753 35 20
+Chiesi Pharma AB Tlf.: +46 8 753 35 20
 
 ## Deutschland
 
@@ -886,9 +881,7 @@ Ferrer Farma, S.A. Tel: +34 93 600 3700
 
 ## France
 
-Bioprojet Pharma
-
-+33 (0)1 47 03 66 33
+Bioprojet Pharma +33 (0)1 47 03 66 33
 
 ## Hrvatska
 
@@ -912,7 +905,9 @@ Chiesi Pharmaceuticals GmbH Tel: +43 1 4073919
 
 ## Luxembourg/Luxemburg
 
-Ferrer Benelux B.V. Tél/Tel: +31 (0)88 - 2045 888
+Ferrer Benelux B.V.
+
+Tél/Tel: +31 (0)88 - 2045 888
 
 ## Magyarország
 
@@ -952,29 +947,29 @@ Chiesi Slovenija d.o.o. Tel: + 386-1-43 00 901
 
 ## Slovenská republika
 
-Chiesi Slovakia s.r.o. Tel: + 421 259300060
+Chiesi Slovakia s.r.o.
+
+Tel: + 421 259300060
 
 ## Suomi/Finland
 
 Chiesi Pharma AB Tlf: +46 8 753 35 20
 
-## Κύπρος
+Κύπρος Chiesi Farmaceutici S.p.A.
 
-Chiesi Farmaceutici S.p.A. Τηλ: + 39 0521 2791
+Τηλ: + 39 0521 2791
 
 <div style=\"page-break-after: always\"></div>
 
-Latvija
+## Latvija
 
-Chiesi Pharmaceuticals GmbH
-
-Tel: +  43 1 4073919
+Chiesi Pharmaceuticals GmbH Tel: +  43 1 4073919
 
 ## This leaflet was last revised in {MM/YYYY}.
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -986,7 +981,7 @@ Kengrexal should be administered by a physician experienced in either acute coro
 
 The recommended dose of Kengrexal for patients undergoing PCI is a 30 micrograms/kg intravenous bolus followed immediately by 4 micrograms/kg/min intravenous infusion. The bolus and infusion should be initiated prior to the procedure and continued for at least two hours or for the duration of the procedure, whichever is longer. At the discretion of the physician, the infusion may be continued for a total duration of four hours, see section 5.1.
 
-Patients should be transitioned to oral P2Y12 therapy for chronic treatment. For transition, a loading dose of oral P2Y12 therapy (clopidogrel, ticagrelor or prasugrel) should be administered immediately following discontinuation of cangrelor infusion. Alternatively, a loading dose of ticagrelor or prasugrel, but not clopidogrel, may be administered up to 30 minutes before the end of the infusion, see section 4.5.
+Patients should be transitioned to oral P2Y12 therapy for chronic treatment. For transition, a loading dose of oral P2Y12 therapy (clopidogrel, ticagrelor or prasugrel) should be administered immediately following discontinuation of cangrelor infusion. Alternatively, a loading dose of prasugrel, but not clopidogrel, may be administered up to 30 minutes before the end of the infusion. A standart loading dose of ticagrelor can be given any time during cangrelor infusion, see section 4.5.
 
 ## Instructions for preparation
 
@@ -1001,12 +996,6 @@ The medicinal product should be inspected visually for particulate matter after 
 Kengrexal is administered as a weight-based regimen consisting of an initial intravenous bolus followed by an intravenous infusion. The bolus and infusion should be administered from the infusion solution.
 
 Sverige Chiesi Pharma AB Tlf: +46 8 753 35 20
-
-## United Kingdom (Northern Ireland)
-
-Chiesi Farmaceutici S.p.A.
-
-Tel: + 39 0521 2791
 
 <div style=\"page-break-after: always\"></div>
 

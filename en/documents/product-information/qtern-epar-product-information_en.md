@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-11-25 17:41:25
+document_datetime: 2026-03-13 09:17:19
 document_pages: 45
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/qtern-epar-product-information_en.pdf
 document_name: qtern-epar-product-information_en.pdf
 version: success
-processing_time: 12.642056
-conversion_datetime: 2025-12-28 03:37:19.273393
+processing_time: 13.5303515
+conversion_datetime: 2026-03-17 18:58:28.537817
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.80.0
+  docling-core: 2.70.1
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -137,9 +137,13 @@ Treatment should be interrupted in patients who are hospitalised for major surgi
 
 Before initiating treatment with this medicinal product, factors in the patient history that may predispose to ketoacidosis should be considered.
 
-Patients who may be at higher risk of DKA include patients with a low beta-cell function reserve (e.g. type 2 diabetes patients with low C-peptide or latent autoimmune diabetes in adults (LADA) or patients with a history of pancreatitis), patients with conditions that lead to restricted food intake or severe dehydration, patients for whom insulin doses are reduced and patients with increased insulin requirements due to acute medical illness, surgery or alcohol abuse. SGLT2 inhibitors should be used with caution in these patients.
+Prolonged ketoacidosis and prolonged glucosuria have been observed with dapagliflozin. Ketoacidosis may last longer after discontinuation of dapagliflozin than expected from the plasma half-life (see section 5.2). Dapagliflozin-independent factors, such as insulin deficiency, might be involved in prolonged periods of ketoacidosis.
+
+Patients who may be at higher risk of DKA include patients with a low beta-cell function reserve (e.g. type 2 diabetes patients with low C-peptide or latent autoimmune diabetes in adults (LADA) or patients with a history of pancreatitis), patients with conditions that lead to restricted food intake or
 
 <div style=\"page-break-after: always\"></div>
+
+severe dehydration, patients for whom insulin doses are reduced and patients with increased insulin requirements due to acute medical illness, surgery or alcohol abuse. SGLT2 inhibitors should be used with caution in these patients.
 
 Restarting SGLT2 inhibitor treatment in patients with previous DKA while on SGLT2 inhibitor treatment is not recommended, unless another clear precipitating factor is identified and resolved.
 
@@ -169,13 +173,11 @@ Elderly patients are more likely to have impaired renal function, and/or to be t
 
 Therapeutic experience with this medicinal product in patients 65 years and older is limited, and very limited in patients 75 years and older.
 
-## Skin disorders
-
-Ulcerative and necrotic skin lesions have been reported in extremities of monkeys in non-clinical toxicology studies with saxagliptin (see section 5.3). Skin lesions were not observed at an increased incidence in saxagliptin clinical trials. Post-marketing reports of rash have been described in the DPP-4
-
 <div style=\"page-break-after: always\"></div>
 
-inhibitor class. Rash is also noted as an adverse  reaction for this medicinal product (see section 4.8). Therefore, in keeping with routine care of the diabetic patient, monitoring for skin disorders, such as blistering, ulceration or rash is recommended.
+## Skin disorders
+
+Ulcerative and necrotic skin lesions have been reported in extremities of monkeys in non-clinical toxicology studies with saxagliptin (see section 5.3). Skin lesions were not observed at an increased incidence in saxagliptin clinical trials. Post-marketing reports of rash have been described in the DPP-4 inhibitor class. Rash is also noted as an adverse  reaction for this medicinal product (see section 4.8). Therefore, in keeping with routine care of the diabetic patient, monitoring for skin disorders, such as blistering, ulceration or rash is recommended.
 
 ## Bullous pemphigoid
 
@@ -197,6 +199,12 @@ Joint pain, which may be severe, has been reported in post-marketing reports for
 
 Immunocompromised patients, such as patients who have undergone organ transplantation or patients diagnosed with human immunodeficiency syndrome have not been studied in the saxagliptin clinical programme. The efficacy and safety profile of the saxagliptin/dapagliflozin fixed dose combination in these patients has not been established.
 
+## Increased haematocrit
+
+Increased haematocrit has been observed with dapagliflozin treatment (see section 4.8). Patients with pronounced elevations in haematocrit should be monitored and investigated for underlying haematological disease.
+
+<div style=\"page-break-after: always\"></div>
+
 ## Lower limb amputations
 
 An increase in cases of lower limb amputation (primarily of the toe) has been observed in ongoing long-term, clinical studies with another SGLT2 inhibitor. It is unknown whether this constitutes a class effect. Like for all diabetic patients it is important to counsel patients on routine preventative foot care.
@@ -204,8 +212,6 @@ An increase in cases of lower limb amputation (primarily of the toe) has been ob
 ## Use with medicinal products known to cause hypoglycaemia
 
 Both saxagliptin and dapagliflozin can individually increase the risk of hypoglycaemia when combined with an insulin secretagogue. If this medicinal product is used in combination with insulin secretagogue (sulphonylurea), a reduction in the dose of sulphonylurea may be required to minimise the risk of hypoglycaemia (see section 4.8).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Urine laboratory assessments
 
@@ -241,17 +247,19 @@ Saxagliptin: The metabolism of saxagliptin is primarily mediated by cytochrome P
 
 Dapagliflozin: The metabolism of dapagliflozin is primarily via glucuronide conjugation mediated by UDP glucuronosyltransferase 1A9 (UGT1A9).
 
-## Interactions with other oral anti-diabetic or cardiovascular medicinal products
+Interactions with other oral anti-diabetic or cardiovascular medicinal products
 
-Saxagliptin: Saxagliptin did not meaningfully alter the pharmacokinetics of dapagliflozin, metformin, glibenclamide, pioglitazone, digoxin, diltiazem or simvastatin. These medicinal products did not alter the pharmacokinetics of saxagliptin or its major active metabolite.
+Saxagliptin: Saxagliptin did not meaningfully alter the pharmacokinetics of dapagliflozin, metformin, glibenclamide, pioglitazone, digoxin, diltiazem or simvastatin. These medicinal products
+
+<div style=\"page-break-after: always\"></div>
+
+did not alter the pharmacokinetics of saxagliptin or its major active metabolite.
 
 Dapagliflozin: Dapagliflozin did not meaningfully alter the pharmacokinetics of saxagliptin, metformin, pioglitazone, sitagliptin, glimepiride, voglibose, hydrochlorothiazide, bumetanide, valsartan, or simvastatin. These medicinal products did not alter the pharmacokinetics of dapagliflozin.
 
 ## Effect of other medicinal products on saxagliptin or dapagliflozin
 
 Saxagliptin: Concomitant administration of saxagliptin with the moderate inhibitor of CYP3A4/5 diltiazem, increased the C max  and AUC of saxagliptin by 63% and 2.1-fold, respectively, and the corresponding values for the active metabolite were decreased by 44% and 34%, respectively. These pharmacokinetic effects are not clinically meaningful and do not require dose adjustment.
-
-<div style=\"page-break-after: always\"></div>
 
 Concomitant administration of saxagliptin with the potent inhibitor of CYP3A4/5 ketoconazole, increased the C max  and AUC of saxagliptin by 62% and 2.5-fold, respectively, and the corresponding values for the active metabolite were decreased by 95% and 88%, respectively. These pharmacokinetic effects are not clinically meaningful and do not require dose adjustment.
 
@@ -271,13 +279,15 @@ Saxagliptin: Saxagliptin did not meaningfully alter the pharmacokinetics of metf
 
 Dapagliflozin: Dapagliflozin may increase renal lithium excretion and the blood lithium levels may be decreased. Serum concentration of lithium should be monitored more frequently after dapagliflozin initiation. Please refer the patient to the lithium prescribing doctor in order to monitor serum concentration of lithium.
 
-In interaction studies conducted in healthy subjects, using mainly a single-dose design, dapagliflozin did not alter the pharmacokinetics of metformin, pioglitazone [a CYP2C8 (major) and CYP3A4 (minor) substrate], sitagliptin, glimepiride (a CYP2C9 substrate), hydrochlorothiazide, bumetanide, valsartan, digoxin (a P-gp substrate) or warfarin (S-warfarin, a CYP2C9 substrate), or the anticoagulatory effects of warfarin as measured by INR. Combination of a single dose of dapagliflozin 20 mg and simvastatin (a CYP3A4 substrate) resulted in a 19% increase in AUC of simvastatin and 31% increase in AUC of simvastatin acid. The increase in simvastatin and simvastatin acid exposures are not considered clinically relevant.
+In interaction studies conducted in healthy subjects, using mainly a single-dose design, dapagliflozin did not alter the pharmacokinetics of metformin, pioglitazone [a CYP2C8 (major) and CYP3A4 (minor) substrate], sitagliptin, glimepiride (a CYP2C9 substrate), hydrochlorothiazide, bumetanide,
+
+<div style=\"page-break-after: always\"></div>
+
+valsartan, digoxin (a P-gp substrate) or warfarin (S-warfarin, a CYP2C9 substrate), or the anticoagulatory effects of warfarin as measured by INR. Combination of a single dose of dapagliflozin 20 mg and simvastatin (a CYP3A4 substrate) resulted in a 19% increase in AUC of simvastatin and 31% increase in AUC of simvastatin acid. The increase in simvastatin and simvastatin acid exposures are not considered clinically relevant.
 
 ## Interference with 1,5-anhydroglucitol (1,5-AG) assay
 
 Monitoring glycaemic control with 1,5-AG assay is not recommended as measurements of 1,5-AG are unreliable in assessing glycaemic control in patients taking SGLT2 inhibitors. Use of alternative methods to monitor glycaemic control is advised.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -303,52 +313,42 @@ Qtern has no or negligible influence on the ability to drive and use machines. W
 
 The combination of saxagliptin 5 mg and dapagliflozin 10 mg in 1 169 adults with type 2 diabetes mellitus (T2DM) and inadequate glycaemic control on metformin has been evaluated in three phase 3, randomised, double-blind, active/placebo-control, parallel group, multi-centre clinical trials for up to 52 weeks (see section 5.1). The pooled safety analysis comprised 3 treatment groups: saxagliptin plus dapagliflozin plus metformin (492 subjects), saxagliptin plus metformin (336 subjects), and dapagliflozin plus metformin (341 subjects). The safety profile of the combined use of saxagliptin plus dapagliflozin plus metformin was comparable to the adverse reactions identified for the respective monocomponents.
 
+<div style=\"page-break-after: always\"></div>
+
 The most frequently reported adverse reactions associated with Qtern are upper respiratory tract infections (very common), hypoglycaemia when used with SU (very common), and urinary tract infections (common). Diabetic ketoacidosis may occur rarely (see section 4.4).
 
 ## Tabulated list of adverse reactions
 
-The adverse reactions are presented in table 1. The safety profile is based on the summarised data from the saxagliptin/dapagliflozin combination clinical trials pooled safety data, and also clinical trials, post-authorisation safety studies and post-marketing experience with the monocomponents. The adverse reactions are listed by system organ class (SOC) and frequency. Frequency categories were defined according to very common (≥ 1/10), common (≥ 1/100 to ˂ 1/10), uncommon (≥ 1/1 000 to
-
-<div style=\"page-break-after: always\"></div>
-
-˂ 1/100), rare (  1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), and not known (cannot be estimated from the available data).
+The adverse reactions are presented in table 1. The safety profile is based on the summarised data from the saxagliptin/dapagliflozin combination clinical trials pooled safety data, and also clinical trials, post-authorisation safety studies and post-marketing experience with the monocomponents. The adverse reactions are listed by system organ class (SOC) and frequency. Frequency categories were defined according to very common (≥ 1/10), common (≥ 1/100 to ˂ 1/10), uncommon (≥ 1/1 000 to ˂ 1/100), rare (  1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), and not known (cannot be estimated from the available data).
 
 Table 1. Compilation of reported adverse reactions
 
-| System organ class                               | Very common                          | Common A                                                                                                   | Uncommon B                                                    | Rare                                                  | Very rare                                                         | Not known              |
-|--------------------------------------------------|--------------------------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------------------|------------------------|
-| Infections and infestations                      | Upper respiratory tract infection 1  | Urinary tract infection 2 , vulvovaginitis , balanitis and related genital infection 3 , gastroenteritis D | Fungal infection                                              |                                                       | Necrotising fasciitis of the perineum (Fournier's gangrene) C,F,7 |                        |
-| Immune system disorders                          |                                      |                                                                                                            | Hypersensitiv ity reactions C                                 | Anaphylactic reactions including anaphylactic shock C |                                                                   |                        |
-| Metabolism and nutrition disorders               | Hypoglycaem ia D (when used with SU) | Dyslipidaemi a 4                                                                                           | Volume depletion F , thirst                                   | Diabetic ketoacidosis F, G,7                          |                                                                   |                        |
-| Nervous system disorders                         |                                      | Headache, dizziness                                                                                        |                                                               |                                                       |                                                                   |                        |
-| Gastrointesti nal disorders                      |                                      | Abdominal pain C , diarrhoea, dyspepsia D , gastritis D , nausea C , vomiting D                            | Constipation, dry mouth, pancreatitis C                       |                                                       |                                                                   |                        |
-| Skin and subcutaneou s tissue disorders          |                                      | Rash 5                                                                                                     | Dermatitis C , pruritus C , urticaria C                       | Angioedema C                                          |                                                                   | Bullous pemphigoid C,7 |
-| Musculoskel etal and connective tissue disorders |                                      | Arthralgia, back pain, myalgia D                                                                           |                                                               |                                                       |                                                                   |                        |
-| Renal and urinary disorders                      |                                      | Dysuria, polyuria D,6                                                                                      | Nocturia                                                      |                                                       | Tubulo- interstitial nephritis                                    |                        |
-| Reproductiv e system and breast disorders        |                                      |                                                                                                            | Erectile dysfunction, pruritus genital, vulvovaginal pruritus |                                                       |                                                                   |                        |
-| General disorders and administrati               |                                      | Fatigue D , oedema peripheral D                                                                            |                                                               |                                                       |                                                                   |                        |
+| System organ class                               | Very common                          | Common A                                                                                                   | Uncommon B                              | Rare                                                  | Very rare                                                         | Not known              |
+|--------------------------------------------------|--------------------------------------|------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------------------------------------------------------|-------------------------------------------------------------------|------------------------|
+| Infections and infestations                      | Upper respiratory tract infection 1  | Urinary tract infection 2 , vulvovaginitis , balanitis and related genital infection 3 , gastroenteritis D | Fungal infection                        |                                                       | Necrotising fasciitis of the perineum (Fournier's gangrene) C,F,7 |                        |
+| Immune system disorders                          |                                      |                                                                                                            | Hypersensitiv ity reactions C           | Anaphylactic reactions including anaphylactic shock C |                                                                   |                        |
+| Metabolism and nutrition disorders               | Hypoglycaem ia D (when used with SU) | Dyslipidaemi a 4                                                                                           | Volume depletion F , thirst             | Diabetic ketoacidosis F, G,7                          |                                                                   |                        |
+| Nervous system disorders                         |                                      | Headache, dizziness                                                                                        |                                         |                                                       |                                                                   |                        |
+| Gastrointesti nal disorders                      |                                      | Abdominal pain C , diarrhoea, dyspepsia D , gastritis D , nausea C , vomiting D                            | Constipation, dry mouth, pancreatitis C |                                                       |                                                                   |                        |
+| Skin and subcutaneou s tissue disorders          |                                      | Rash 5                                                                                                     | Dermatitis C , pruritus C , urticaria C | Angioedema C                                          |                                                                   | Bullous pemphigoid C,7 |
+| Musculoskel etal and connective tissue disorders |                                      | Arthralgia, back pain, myalgia D                                                                           |                                         |                                                       |                                                                   |                        |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class   | Very common   | Common A                                                                                  | Uncommon B                                                                                     | Rare   | Very rare   | Not known   |
-|----------------------|---------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------|-------------|-------------|
-| on site conditions   |               |                                                                                           |                                                                                                |        |             |             |
-| Investigation s      |               | Creatinine renal clearance decreased during initial treatment F , haematocrit increased E | Blood creatinine increased during initial treatment F , blood urea increased, weight decreased |        |             |             |
+| System organ class                                    | Very common   | Common A                                                                                  | Uncommon B                                                                                     | Rare   | Very rare                      | Not known   |
+|-------------------------------------------------------|---------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------|--------------------------------|-------------|
+| Renal and urinary disorders                           |               | Dysuria, polyuria D,6                                                                     | Nocturia                                                                                       |        | Tubulo- interstitial nephritis |             |
+| Reproductiv e system and breast disorders             |               |                                                                                           | Erectile dysfunction, pruritus genital, vulvovaginal pruritus                                  |        |                                |             |
+| General disorders and administrati on site conditions |               | Fatigue D , oedema peripheral D                                                           |                                                                                                |        |                                |             |
+| Investigation s                                       |               | Creatinine renal clearance decreased during initial treatment F , haematocrit increased E | Blood creatinine increased during initial treatment F , blood urea increased, weight decreased |        |                                |             |
 
-- A Adverse reactions reported in ≥ 2% of subjects treated with the combined use of saxagliptin + dapagliflozin in the pooled safety analysis, or if reported in &lt; 2% in the pooled safety analysis, they were based on the individual monocomponents data.
-- B  Frequencies of all uncommon adverse reactions were based on the individual monocomponents data.
-- C  Adverse reaction originates from saxagliptin or dapagliflozin post-marketing surveillance data.
-- D  Adverse reactions were reported in ≥ 2% of subjects with either monocomponent and ≥ 1% more than placebo, but not in the pooled analysis.
-- E  Haematocrit values &gt; 55% were reported in 1.3% of the subjects treated with dapagliflozin 10 mg versus 0.4% of placebo subjects.
-- F Frequency is based on events in the dapagliflozin clinical programme.
-- G Reported in the dapagliflozin cardiovascular outcomes study in patients with type 2 diabetes (DECLARE). Frequency is based on annual rate.
-- 1 Upper respiratory tract infection includes the following preferred terms: nasopharyngitis, influenza, upper respiratory tract infection, pharyngitis, rhinitis, sinusitis, pharyngitis bacterial, tonsillitis, acute tonsillitis, laryngitis, viral pharyngitis, and viral upper respiratory tract infection.
 - 2 Urinary tract infection includes the following preferred terms: urinary tract infection, Escherichia urinary tract infection, pyelonephritis, and prostatitis.
 - 3 Vulvovaginitis, balanitis and related genital infection include the following preferred terms: vulvovaginal mycotic infection, balanoposthitis, genital infection fungal, vaginal infection, and vulvovaginitis.
 - 4 Dyslipidaemia includes the following preferred terms: dyslipidaemia, hyperlipidaemia, hypercholesterolaemia, and hypertriglyceridaemia.
 - 5 Rash was reported during the post-marketing use of saxagliptin and dapagliflozin. Preferred terms reported in dapagliflozin clinical trials included in order of frequency: rash, rash generalised, rash pruritic, rash macular, rash maculo-papular, rash pustular, rash vesicular, and rash erythematous.
 - 6 Polyuria includes the following preferred terms: polyuria, and pollakiuria.
-- 7 See section 4.4
+
+7 See section 4.4
 
 SU=sulphonylurea
 
@@ -356,17 +356,17 @@ SU=sulphonylurea
 
 ## Vulvovaginitis, balanitis and related genital infections
 
-Saxagliptin/dapagliflozin combination: The reported adverse events of vulvovaginitis, balanitis and related genital infections from pooled safety analysis were reflective of the safety profile of dapagliflozin. Adverse events of genital infection were reported in 3.0% in the saxagliptin plus dapagliflozin plus metformin group, 0.9% of saxagliptin plus metformin group and 5.9% of subjects in the dapagliflozin plus metformin group. The majority of the genital infection adverse events were reported in females (84% of subjects with a genital infection), were mild or moderate in intensity, of single occurrence, and most patients continued on therapy.
+Saxagliptin/dapagliflozin combination: The reported adverse events of vulvovaginitis, balanitis and related genital infections from pooled safety analysis were reflective of the safety profile of
+
+<div style=\"page-break-after: always\"></div>
+
+dapagliflozin. Adverse events of genital infection were reported in 3.0% in the saxagliptin plus dapagliflozin plus metformin group, 0.9% of saxagliptin plus metformin group and 5.9% of subjects in the dapagliflozin plus metformin group. The majority of the genital infection adverse events were reported in females (84% of subjects with a genital infection), were mild or moderate in intensity, of single occurrence, and most patients continued on therapy.
 
 Cases of phimosis/acquired phimosis have been reported with dapagliflozin concurrent with genital infections and in some cases, circumcision was required.
 
 ## Hypoglycaemia
 
-In the pooled safety analysis, the overall incidence of hypoglycaemia (all reported events including those with central laboratory FPG ≤ 3.9 mmol/L) was 2.0% in subjects treated with saxagliptin 5 mg
-
-<div style=\"page-break-after: always\"></div>
-
-plus dapagliflozin 10 mg plus metformin (combination therapy), 0.6% in the saxagliptin plus metformin group, and 2.3% in the dapagliflozin plus metformin group.
+In the pooled safety analysis, the overall incidence of hypoglycaemia (all reported events including those with central laboratory FPG ≤ 3.9 mmol/L) was 2.0% in subjects treated with saxagliptin 5 mg plus dapagliflozin 10 mg plus metformin (combination therapy), 0.6% in the saxagliptin plus metformin group, and 2.3% in the dapagliflozin plus metformin group.
 
 In a 24-week study comparing the combination of saxagliptin and dapagliflozin plus metformin with or without SU, with insulin plus metformin with or without SU, the overall incidence rates for hypoglycaemia in patients without a background treatment of SU, were 12.7% for the combination compared to 33.1% for insulin. The overall incidence rates of hypoglycaemia in two 52-week studies comparing the combination therapy to glimepiride (SU) were: for the 1 st study, 4.2% for the combination therapy versus 27.9% for glimepiride plus metformin versus 2.9% for dapagliflozin plus metformin; for the 2 nd study, 18.5% for the combination therapy versus 43.1% for glimepiride plus metformin.
 
@@ -388,15 +388,15 @@ In the dapagliflozin cardiovascular outcomes study (DECLARE) with 17 160 type 2 
 
 ## Diabetic ketoacidosis
 
-In the dapagliflozin cardiovascular outcomes study (DECLARE), with a median exposure time of 48 months, events of DKA were reported in 27 patients in the dapagliflozin 10 mg group and 12 patients in the placebo group. The events occurred evenly distributed over the study period. Of the 27 patients with DKA events in the dapagliflozin group, 22 had concomitant insulin treatment at the time of the event. Precipitating factors for DKA were as expected in a type 2 diabetes mellitus population (see section 4.4).
-
-## Urinary tract infections
-
-Saxagliptin/dapagliflozin combination: In the pooled safety analysis, urinary tract infections (UTIs) were balanced across the 3 treatment groups: 5.7% in the saxagliptin plus dapagliflozin plus metformin group, 7.4% in the saxagliptin plus metformin group and 5.6% in the dapagliflozin plus metformin group. One patient in the saxagliptin plus dapagliflozin plus metformin group experienced an SAE of pyelonephritis and discontinued treatment. The majority of the urinary tract infection adverse events
+In the dapagliflozin cardiovascular outcomes study (DECLARE), with a median exposure time of 48 months, events of DKA were reported in 27 patients in the dapagliflozin 10 mg group and
 
 <div style=\"page-break-after: always\"></div>
 
-were reported in females (81% of subjects with UTI), were mild or moderate in intensity, of single occurrence, and most patients continued on therapy.
+12 patients in the placebo group. The events occurred evenly distributed over the study period. Of the 27 patients with DKA events in the dapagliflozin group, 22 had concomitant insulin treatment at the time of the event. Precipitating factors for DKA were as expected in a type 2 diabetes mellitus population (see section 4.4).
+
+## Urinary tract infections
+
+Saxagliptin/dapagliflozin combination: In the pooled safety analysis, urinary tract infections (UTIs) were balanced across the 3 treatment groups: 5.7% in the saxagliptin plus dapagliflozin plus metformin group, 7.4% in the saxagliptin plus metformin group and 5.6% in the dapagliflozin plus metformin group. One patient in the saxagliptin plus dapagliflozin plus metformin group experienced an SAE of pyelonephritis and discontinued treatment. The majority of the urinary tract infection adverse events were reported in females (81% of subjects with UTI), were mild or moderate in intensity, of single occurrence, and most patients continued on therapy.
 
 ## Laboratory findings
 
@@ -426,13 +426,11 @@ There is no information available on overdose with the saxagliptin/dapagliflozin
 
 Saxagliptin had no clinically meaningful effect on QTc interval or heart rate at oral doses up to 400 mg daily for 2 weeks (80 times the recommended dose). Saxagliptin and its major metabolite are removed by haemodialysis (23% of dose over four hours).
 
-## Dapagliflozin
-
-Dapagliflozin did not show any toxicity in healthy subjects at single oral doses up to 500 mg (50 times the maximum recommended human dose). These subjects had detectable glucose in the urine for a dose-related period of time (at least 5 days for the 500 mg dose), with no reports of dehydration, hypotension or electrolyte imbalance, and with no clinically meaningful effect on QTc interval. The incidence of hypoglycaemia was similar to placebo. In clinical studies where once-daily doses of up to 100 mg (10 times the maximum recommended human dose) were administered for 2 weeks in healthy subjects and type 2 diabetes subjects, the incidence of hypoglycaemia was slightly higher than placebo and was not dose-related. Rates of adverse events including dehydration or hypotension were similar to placebo, and there were no clinically meaningful dose-related changes in laboratory parameters,
-
 <div style=\"page-break-after: always\"></div>
 
-including serum electrolytes and biomarkers of renal function. The removal of dapagliflozin by haemodialysis has not been studied.
+## Dapagliflozin
+
+Dapagliflozin did not show any toxicity in healthy subjects at single oral doses up to 500 mg (50 times the maximum recommended human dose). These subjects had detectable glucose in the urine for a dose-related period of time (at least 5 days for the 500 mg dose), with no reports of dehydration, hypotension or electrolyte imbalance, and with no clinically meaningful effect on QTc interval. The incidence of hypoglycaemia was similar to placebo. In clinical studies where once-daily doses of up to 100 mg (10 times the maximum recommended human dose) were administered for 2 weeks in healthy subjects and type 2 diabetes subjects, the incidence of hypoglycaemia was slightly higher than placebo and was not dose-related. Rates of adverse events including dehydration or hypotension were similar to placebo, and there were no clinically meaningful dose-related changes in laboratory parameters, including serum electrolytes and biomarkers of renal function. The removal of dapagliflozin by haemodialysis has not been studied.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -454,17 +452,17 @@ Dapagliflozin is a highly potent (K i : 0.55 nM), selective and reversible inhib
 
 Inhibition of SGLT2 by dapagliflozin reduces reabsorption of glucose from the glomerular filtrate in the proximal renal tubule with a concomitant reduction in sodium reabsorption leading to urinary excretion of glucose and osmotic diuresis. Dapagliflozin therefore increases the delivery of sodium to the distal tubule which increases tubuloglomerular feedback and reduces intraglomerular pressure. This combined with osmotic diuresis leads to a reduction in volume overload, reduced blood pressure, and lower preload and afterload, which may have beneficial effects on cardiac remodelling and diastolic function, and preserve renal function. The cardiac and renal benefits of dapagliflozin are not solely dependent on the blood glucose-lowering effect. Other effects include an increase in haematocrit and reduction in body weight.
 
-Dapagliflozin improves both fasting and post-prandial plasma glucose levels by reducing renal glucose reabsorption leading to urinary glucose excretion. This glucose excretion (glucuretic effect) is observed after the first dose, is continuous over the 24-hour dosing interval and is sustained for the duration of treatment. The amount of glucose removed by the kidney through this mechanism is dependent upon the blood glucose concentration and GFR. Thus, in subjects with normal blood glucose, dapagliflozin has a low propensity to cause hypoglycaemia. Dapagliflozin does not impair normal endogenous glucose production in response to hypoglycaemia. Dapagliflozin acts independently of insulin secretion and insulin action. Improvement in homeostasis model assessment for beta cell function (HOMA beta-cell) has been observed in clinical studies with dapagliflozin.
+Dapagliflozin improves both fasting and post-prandial plasma glucose levels by reducing renal glucose reabsorption leading to urinary glucose excretion. This glucose excretion (glucuretic effect) is observed after the first dose, is continuous over the 24-hour dosing interval and is sustained for the duration of treatment. The amount of glucose removed by the kidney through this mechanism is dependent upon the blood glucose concentration and GFR. Thus, in subjects with normal blood glucose, dapagliflozin has a low propensity to cause hypoglycaemia. Dapagliflozin does not impair normal endogenous glucose production in response to hypoglycaemia. Dapagliflozin acts
+
+<div style=\"page-break-after: always\"></div>
+
+independently of insulin secretion and insulin action. Improvement in homeostasis model assessment for beta cell function (HOMA beta-cell) has been observed in clinical studies with dapagliflozin.
 
 The SGLT2 is selectively expressed in the kidney. Dapagliflozin does not inhibit other glucose transporters important for glucose transport into peripheral tissues and is &gt; 1 400 times more selective for SGLT2 versus SGLT1, the major transporter in the gut responsible for glucose absorption.
 
 ## Pharmacodynamic effects
 
-In patients with type 2 diabetes, administration of saxagliptin inhibited DPP-4 enzyme activity throughout a 24-hour period. The inhibition of plasma DPP-4 activity by saxagliptin for at least
-
-<div style=\"page-break-after: always\"></div>
-
-24 hours after oral administration of saxagliptin is due to high potency, high affinity, and extended binding to the active site. After an oral glucose load, this produced in a 2- to 3-fold increase in circulating levels glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP), decreased glucagon concentrations, and increased beta-cell responsiveness, resulting in higher insulin and C-peptide concentrations. The rise in insulin from pancreatic beta-cells and the decrease in glucagon from pancreatic alpha-cells were associated with lower fasting glucose concentrations and reduced glucose excursion following an oral glucose load or a meal.
+In patients with type 2 diabetes, administration of saxagliptin inhibited DPP-4 enzyme activity throughout a 24-hour period. The inhibition of plasma DPP-4 activity by saxagliptin for at least 24 hours after oral administration of saxagliptin is due to high potency, high affinity, and extended binding to the active site. After an oral glucose load, this produced in a 2- to 3-fold increase in circulating levels glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP), decreased glucagon concentrations, and increased beta-cell responsiveness, resulting in higher insulin and C-peptide concentrations. The rise in insulin from pancreatic beta-cells and the decrease in glucagon from pancreatic alpha-cells were associated with lower fasting glucose concentrations and reduced glucose excursion following an oral glucose load or a meal.
 
 Dapagliflozin's glucuretic effect is observed after the first dose, is continuous over the 24-hour dosing interval, and is sustained for the duration of treatment. Increases in the amount of glucose excreted in the urine were observed in healthy subjects and in subjects with type 2 diabetes mellitus following the administration of dapagliflozin. Approximately 70 g of glucose was excreted in the urine per day (corresponding to 280 kcal/day) at a dapagliflozin dose of 10 mg/day in subjects with type 2 diabetes mellitus for 12 weeks. Evidence of sustained glucose excretion was seen in subjects with type 2 diabetes mellitus given dapagliflozin 10 mg/day for up to 2 years. Urinary uric acid excretion was also increased transiently (for 3-7 days) and accompanied by a sustained reduction in serum uric acid concentration. At 24 weeks, reductions in serum uric acid concentrations ranged from -48.3 to -18.3 micromoles/L (-0.87 to -0.33 mg/dL).
 
@@ -480,44 +478,42 @@ A total of 534 adult patients with type 2 diabetes mellitus and inadequate glyca
 
 The saxagliptin and dapagliflozin group achieved significantly greater reductions in HbA1c versus either the saxagliptin group or dapagliflozin group at 24 weeks (see table 2).
 
-Table 2. HbA1c at week 24 in active-controlled study comparing the combination of saxagliptin and dapagliflozin added concurrently to metformin with either saxagliptin or dapagliflozin added to metformin
-
-| Efficacy parameter     | Saxagliptin 5 mg + dapagliflozin 10 mg + metformin N=179 2   | Saxagliptin 5 mg + metformin N=176 2   | Dapagliflozin 10 mg + metformin N=179 2   |
-|------------------------|--------------------------------------------------------------|----------------------------------------|-------------------------------------------|
-| HbA1c (%) at week 24 1 | HbA1c (%) at week 24 1                                       | HbA1c (%) at week 24 1                 | HbA1c (%) at week 24 1                    |
-
 <div style=\"page-break-after: always\"></div>
 
-| Baseline (mean)                                                        | 8.93                   | 9.03                 | 8.87                 |
-|------------------------------------------------------------------------|------------------------|----------------------|----------------------|
-| Change from baseline (adjusted mean 3 ) (95% confidence interval [CI]) | -1.47 (-1.62, -1.31)   | -0.88 (-1.03, -0.72) | -1.20 (-1.35, -1.04) |
-| Difference from saxagliptin + metformin (adjusted mean 3 ) (95% CI)    | -0.59 4 (-0.81, -0.37) | -                    | -                    |
-| Difference from dapagliflozin + metformin (adjusted mean 3 ) (95% CI)  | -0.27 5 (-0.48, -0.05) | -                    | -                    |
+Table 2. HbA1c at week 24 in active-controlled study comparing the combination of saxagliptin and dapagliflozin added concurrently to metformin with either saxagliptin or dapagliflozin added to metformin
+
+| Efficacy parameter                                                     | Saxagliptin 5 mg + dapagliflozin 10 mg + metformin N=179 2   | Saxagliptin 5 mg + metformin N=176 2   | Dapagliflozin 10 mg + metformin N=179 2   |
+|------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------------|-------------------------------------------|
+| HbA1c (%) at week 24 1                                                 |                                                              |                                        |                                           |
+| Baseline (mean)                                                        | 8.93                                                         | 9.03                                   | 8.87                                      |
+| Change from baseline (adjusted mean 3 ) (95% confidence interval [CI]) | -1.47 (-1.62, -1.31)                                         | -0.88 (-1.03, -0.72)                   | -1.20 (-1.35, -1.04)                      |
+| Difference from saxagliptin + metformin (adjusted mean 3 ) (95% CI)    | -0.59 4 (-0.81, -0.37)                                       | -                                      | -                                         |
+| Difference from dapagliflozin + metformin (adjusted mean 3 ) (95% CI)  | -0.27 5 (-0.48, -0.05)                                       | -                                      | -                                         |
 
 The majority of patients in this study had a baseline HbA1c of &gt; 8% (see table 3). The combination of saxagliptin and dapagliflozin added to metformin consistently demonstrated greater reductions in HbA1c, irrespective of baseline HbA1c compared with saxagliptin or dapagliflozin alone added to metformin. In a separate pre-specified subgroup analysis, mean reductions from baseline in HbA1c were generally greater for patients with higher baseline HbA1c values.
 
 Table 3. HbA1c subgroup analysis by baseline HbA1c at week 24 in randomised subjects
 
-|                                                                                     | Adjusted mean change from baseline by baseline HbA1c   | Adjusted mean change from baseline by baseline HbA1c   | Adjusted mean change from baseline by baseline HbA1c   |
-|-------------------------------------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
-| Treatments                                                                          | < 8.0%                                                 | ≥ 8%to < 9.0%                                          | ≥ 9.0%                                                 |
-| Saxagliptin + dapagliflozin + metformin Adjusted mean change from baseline (95% CI) | -0.80 (n=37) (-1.12, -0.47)                            | -1.17 (n=56) (-1.44, -0.90)                            | -2.03 (n=65) (-2.27, -1.80)                            |
-| Saxagliptin + metformin Adjusted mean change from baseline (95% CI)                 | -0.69 (n=29) (-1.06, -0.33)                            | -0.51 (n=51) (-0.78, -0.25)                            | -1.32 (n=63) (-1.56, -1.09)                            |
-| Dapagliflozin + metformin Adjusted mean change from baseline                        | -0.45 (n=37) (-0.77, -0.13)                            | -0.84 (n=52) (-1.11, -0.57)                            | -1.87 (n=62)                                           |
-| (95% CI)                                                                            |                                                        |                                                        |                                                        |
-|                                                                                     |                                                        |                                                        | (-2.11, -1.63)                                         |
+|                                                                            | Adjusted mean change from baseline by baseline HbA1c   | Adjusted mean change from baseline by baseline HbA1c   | Adjusted mean change from baseline by baseline HbA1c   |
+|----------------------------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
+| Treatments                                                                 | < 8.0%                                                 | ≥ 8%to < 9.0%                                          | ≥ 9.0%                                                 |
+| Saxagliptin + dapagliflozin + metformin Adjusted mean change from baseline | -0.80 (n=37) (-1.12, -0.47)                            | -1.17 (n=56) (-1.44, -0.90)                            | -2.03 (n=65)                                           |
+| (95% CI) Saxagliptin                                                       | -0.69 (n=29)                                           | -0.51 (n=51) (-0.78, -0.25)                            | (-2.27, -1.80)                                         |
+| + metformin Adjusted mean change from baseline (95% CI)                    | (-1.06, -0.33)                                         |                                                        | -1.32 (n=63) (-1.56, -1.09)                            |
+| Dapagliflozin + metformin Adjusted mean change from                        |                                                        | -0.84                                                  |                                                        |
+| baseline                                                                   | -0.45                                                  |                                                        | -1.87                                                  |
+|                                                                            | (n=37)                                                 | (n=52)                                                 | (n=62)                                                 |
+| (95% CI)                                                                   | (-0.77, -0.13)                                         | (-1.11, -0.57)                                         | (-2.11, -1.63)                                         |
 
 n=number of subjects with non-missing baseline and a week 24 value.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Proportion of patients achieving HbA1c &lt; 7%
 
 Forty-one point four percent (41.4%) (95% CI [34.5, 48.2]) of patients in the saxagliptin and dapagliflozin combination group achieved HbA1c levels of less than 7% compared to 18.3% (95% CI [13.0, 23.5]) patients in the saxagliptin group and 22.2% (95% CI [16.1, 28.3]) patients in the dapagliflozin group.
 
-Add-on therapy with dapagliflozin in patients inadequately controlled on saxagliptin plus metformin A 24-week randomised, double-blind, placebo-controlled study compared the sequential addition of 10 mg dapagliflozin to 5 mg saxagliptin and metformin to the addition of placebo to 5 mg saxagliptin
-
-<div style=\"page-break-after: always\"></div>
-
-(DPP-4 inhibitor) and metformin in patients with type 2 diabetes mellitus and inadequate glycaemic control (HbA1c ≥ 7% and ≤ 10.5%). Three hundred twenty (320) subjects were randomised equally into either the dapagliflozin added to saxagliptin plus metformin treatment group or placebo plus saxagliptin plus metformin treatment group. Patients who completed the initial 24-week study period were eligible to enter a controlled 28-week long-term study extension (52 weeks).
+Add-on therapy with dapagliflozin in patients inadequately controlled on saxagliptin plus metformin A 24-week randomised, double-blind, placebo-controlled study compared the sequential addition of 10 mg dapagliflozin to 5 mg saxagliptin and metformin to the addition of placebo to 5 mg saxagliptin (DPP-4 inhibitor) and metformin in patients with type 2 diabetes mellitus and inadequate glycaemic control (HbA1c ≥ 7% and ≤ 10.5%). Three hundred twenty (320) subjects were randomised equally into either the dapagliflozin added to saxagliptin plus metformin treatment group or placebo plus saxagliptin plus metformin treatment group. Patients who completed the initial 24-week study period were eligible to enter a controlled 28-week long-term study extension (52 weeks).
 
 The group with dapagliflozin sequentially added to saxagliptin and metformin achieved statistically significant (p-value &lt; 0.0001) greater reductions in HbA1c versus the group with placebo sequentially added to saxagliptin plus metformin group at 24 weeks (see table 4). The effect in HbA1c observed at week 24 was sustained at week 52.
 
@@ -527,22 +523,20 @@ The group with saxagliptin sequentially added to dapagliflozin and metformin ach
 
 Table 4. HbA1c change from baseline at week 24 excluding data after rescue for randomised subjects - studies MB102129 and CV181168
 
-|                                                  | Sequential add-on clinical trials                                 | Sequential add-on clinical trials                | Sequential add-on clinical trials                                   | Sequential add-on clinical trials                   | Sequential add-on clinical trials   |
-|--------------------------------------------------|-------------------------------------------------------------------|--------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------|
-|                                                  | Study MB102129                                                    | Study MB102129                                   | Study CV181168                                                      | Study CV181168                                      |                                     |
-| Efficacy parameter                               | Dapagliflozin 10 mg add to saxagliptin 5 mg + metformin (N=160) † | Placebo + saxagliptin 5 mg + metformin (N=160) † | Saxagliptin 5 mg added to dapagliflozin 10 mg + metformin (N=153) † | Placebo + dapagliflozin 10 mg + metformin (N=162) † |                                     |
-| HbA1c (%) at week 24 *                           | HbA1c (%) at week 24 *                                            | HbA1c (%) at week 24 *                           | HbA1c (%) at week 24 *                                              | HbA1c (%) at week 24 *                              | HbA1c (%) at week 24 *              |
-| Baseline (mean)                                  | 8.24                                                              | 8.16                                             | 7.95                                                                | 7.85                                                |                                     |
-| Change from baseline (adjusted mean ‡ ) (95% CI) | -0.82                                                             | -0.10                                            | -0.51                                                               | -0.16                                               |                                     |
-|                                                  | (-0.96, 0.69)                                                     | (-0.24, 0.04)                                    | (-0.63, -0.39)                                                      | (-0.28, -0.04)                                      |                                     |
+|                        | Sequential add-on clinical trials                                 | Sequential add-on clinical trials                | Sequential add-on clinical trials                                   | Sequential add-on clinical trials                   | Sequential add-on clinical trials   |
+|------------------------|-------------------------------------------------------------------|--------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------|
+|                        | Study MB102129                                                    | Study MB102129                                   | Study CV181168                                                      | Study CV181168                                      |                                     |
+| Efficacy parameter     | Dapagliflozin 10 mg add to saxagliptin 5 mg + metformin (N=160) † | Placebo + saxagliptin 5 mg + metformin (N=160) † | Saxagliptin 5 mg added to dapagliflozin 10 mg + metformin (N=153) † | Placebo + dapagliflozin 10 mg + metformin (N=162) † |                                     |
+| HbA1c (%) at week 24 * | HbA1c (%) at week 24 *                                            | HbA1c (%) at week 24 *                           | HbA1c (%) at week 24 *                                              | HbA1c (%) at week 24 *                              | HbA1c (%) at week 24 *              |
+| Baseline (mean)        | 8.24                                                              | 8.16                                             | 7.95                                                                | 7.85                                                |                                     |
 
 <div style=\"page-break-after: always\"></div>
 
-| Difference in HbA1c effect Adjusted mean   | -0.72          | -0.35          |
-|--------------------------------------------|----------------|----------------|
-| (95% CI)                                   | (-0.91, -0.53) | (-0.52, -0.18) |
-|                                            |                | < 0.0001       |
-| p-value                                    | < 0.0001       |                |
+| Change from baseline (adjusted mean ‡ ) (95% CI)   | -0.82 (-0.96, 0.69)   | -0.10 (-0.24, 0.04)   | -0.16 (-0.28,   | -0.04)         |
+|----------------------------------------------------|-----------------------|-----------------------|-----------------|----------------|
+| Difference in HbA1c effect Adjusted mean           | -0.72                 | -0.72                 | -0.35           |                |
+| (95% CI)                                           | (-0.91, -0.53)        | (-0.91, -0.53)        | (-0.52, -0.18)  | (-0.52, -0.18) |
+| p-value                                            | < 0.0001              | < 0.0001              | < 0.0001        | < 0.0001       |
 
  LRM=Longitudinal repeated measures (using values prior to rescue).
 
@@ -572,9 +566,11 @@ No cardiovascular outcomes studies have been conducted to evaluate the saxaglipt
 
 ## Saxagliptin assessment of vascular outcomes recorded in patients with diabetes mellitus - thrombolysis in myocardial infarction (SAVOR) study
 
-SAVOR was a CV outcome trial in 16 492 patients with HbA1c ≥ 6.5% and &lt; 12% (12 959 with established CV disease; 3 533 with multiple risk factors only) who were randomised to saxagliptin (n=8 280) or placebo (n=8 212) added to regional standards of care for HbA1c and CV risk factors. The study population included those ≥ 65 years (n=8 561) and ≥ 75 years (n=2 330), with normal or mild renal impairment (n=13 916) as well as moderate (n=2 240) or severe (n=336) renal impairment.
+SAVOR was a CV outcome trial in 16 492 patients with HbA1c ≥ 6.5% and &lt; 12% (12 959 with established CV disease; 3 533 with multiple risk factors only) who were randomised to saxagliptin (n=8 280) or placebo (n=8 212) added to regional standards of care for HbA1c and CV risk factors.
 
 <div style=\"page-break-after: always\"></div>
+
+The study population included those ≥ 65 years (n=8 561) and ≥ 75 years (n=2 330), with normal or mild renal impairment (n=13 916) as well as moderate (n=2 240) or severe (n=336) renal impairment.
 
 The primary safety (non-inferiority) and efficacy (superiority) endpoint was a composite endpoint consisting of the time-to-first occurrence of any of the following major adverse CV events (MACE): CV death, nonfatal myocardial infarction, or nonfatal ischemic stroke.
 
@@ -600,11 +596,11 @@ Most patients (98%) used one or more diabetic medicinal products at baseline, in
 
 The primary endpoints were time to first event of the composite of cardiovascular death, myocardial infarction or ischaemic stroke (MACE) and time to first event of the composite of hospitalisation for heart failure or cardiovascular death. The secondary endpoints were a renal composite endpoint and all-cause mortality.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Major adverse cardiovascular events
 
 Dapagliflozin 10 mg demonstrated non-inferiority versus placebo for the composite of cardiovascular death, myocardial infarction or ischaemic stroke (one-sided p &lt; 0.001).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Heart failure or cardiovascular death
 
@@ -670,16 +666,16 @@ The efficacy of dapagliflozin was assessed in a dedicated study in diabetic pati
 
 Table 5. Results at week 24 of a placebo-controlled study of dapagliflozin in diabetic patients with an eGFR ≥ 45 to &lt; 60 mL/min/1.73 m 2
 
-|                                             | Dapagliflozin a 10 mg   | Placebo a   |
+|                                             | Dapagliflozin a 10 mg   |   Placebo a |
 |---------------------------------------------|-------------------------|-------------|
-| N b                                         | 159                     | 161         |
+| N b                                         | 159                     |      161    |
 | HbA1c (%)                                   |                         |             |
-| Baseline (mean)                             | 8.35                    | 8.03        |
-| Change from baseline b                      | -0.37                   | -0.03       |
+| Baseline (mean)                             | 8.35                    |        8.03 |
+| Change from baseline b                      | -0.37                   |       -0.03 |
 | Difference from placebo b (95% CI)          | -0.34* (-0.53, -0.15)   |             |
 | Body weight (kg)                            |                         |             |
-| Baseline (mean)                             | 92.51                   | 88.30       |
-| Percent change from baseline c              | -3.42                   | -2.02       |
+| Baseline (mean)                             | 92.51                   |       88.3  |
+| Percent change from baseline c              | -3.42                   |       -2.02 |
 | Difference in percent change from placebo c | -1.43*                  |             |
 | (95% CI)                                    | (-2.15, -0.69)          |             |
 
@@ -881,7 +877,7 @@ Date of latest renewal: 19 May 2021
 
 <div style=\"page-break-after: always\"></div>
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1057,8 +1053,8 @@ Lot
 
 Qtern 5 mg/10 mg tablets saxagliptin/dapagliflozin
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 AstraZeneca AB
 
@@ -1077,8 +1073,6 @@ Lot
 
 Mon. Tue. Wed. Thu. Fri. Sat. Sun.
 
-36
-
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
@@ -1087,9 +1081,7 @@ Mon. Tue. Wed. Thu. Fri. Sat. Sun.
 
 ## Package leaflet: Information for the patient
 
-## Qtern 5 mg/10 mg film-coated tablets
-
-saxagliptin/dapagliflozin
+## Qtern 5 mg/10 mg film-coated tablets saxagliptin/dapagliflozin
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1438,7 +1430,7 @@ AstraZeneca A/S
 
 Tlf.: +45 43 66 64 62
 
-## Malta
+Malta
 
 Associated Drug Co. Ltd
 
@@ -1448,9 +1440,7 @@ Tel: +356 2277 8000
 
 ## Deutschland
 
-AstraZeneca GmbH
-
-Tel: +49 40 809034100
+AstraZeneca GmbH Tel: +49 40 809034100
 
 ## Eesti
 
@@ -1482,9 +1472,7 @@ AstraZeneca Pharmaceuticals (Ireland) DAC Tel: +353 1609 7100
 
 ## Ísland
 
-Vistor hf.
-
-Sími: +354 535 7000
+Vistor Sími: +354 535 7000
 
 ## Italia
 
@@ -1506,7 +1494,7 @@ Tel: +371 67377100
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 ## Nederland
 
@@ -1546,10 +1534,6 @@ AstraZeneca Oy Puh/Tel: +358 10 23 010
 
 ## Sverige
 
-AstraZeneca AB Tel: +46 8 553 26 000
+AstraZeneca AB
 
-## United Kingdom (Northern Ireland)
-
-AstraZeneca UK Ltd
-
-Tel: +44 1582 836 836
+Tel: +46 8 553 26 000

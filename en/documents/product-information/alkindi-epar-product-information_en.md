@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-24 12:05:51
+document_datetime: 2026-03-10 10:41:33
 document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/alkindi-epar-product-information_en.pdf
 document_name: alkindi-epar-product-information_en.pdf
 version: success
-processing_time: 7.6480331
-conversion_datetime: 2025-12-21 21:05:04.146021
+processing_time: 8.6603491
+conversion_datetime: 2026-03-17 19:35:27.05142
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.80.0
+  docling-core: 2.70.1
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -299,7 +299,7 @@ As this was a single-dose study, the primary efficacy assessment was serum corti
 
 <div style=\"page-break-after: always\"></div>
 
-Alkindi was positively assessed in terms of palatability. Among parents and carers asked about their child's experience of taking the medication (n=23), 82.6% agreed/strongly agreed that their child found swallowing Alkindi easy; 65.2% agreed/strongly agreed that their child showed a positive reaction after Alkindi administration; 95.5% would be happy to give their child Alkindi in the future; and 95.5% said that they would prefer Alkindi for their child's treatment over their usual hydrocortisone formulation. Six of the 12 children in Cohort 1 (age range 2.6 to 4.7 years) responded to an adjusted palatability questionnaire. ≥50% subjects report ed that the taste, feel in mouth and ease of swallowing were very good and that they were likely to take the medicinal product again. 68.8% of healthy adult volunteers have described the taste as neutral.
+Alkindi was positively assessed in terms of palatability. Among parents and carers asked about their child's experience of taking the medication (n=23), 82.6% agreed/strongly agreed that their child found swallowing Alkindi easy; 65.2% agreed/strongly agreed that their child showed a positive reaction after Alkindi administration; 95.5% would be happy to give their child Alkindi in the future; and 95.5% said that they would prefer Alkindi for their child's treatment over their usual hydrocortisone formulation. Six of the 12 children in Cohort 1 (age range 2.6 to 4.7 years) responded to an adjusted palatability questionnaire. ≥50% subjects reported that the taste, feel in mouth and ease of swallowing were very good and that they were likely to take the medicinal product again. 68.8% of healthy adult volunteers have described the taste as neutral.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -399,7 +399,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Neurocrine Netherlands B.V. Van Heuven Goedhartlaan 935 A 1181LD Amstelveen The Netherlands infoEU@neurocrine.com
+Immedica Netherlands B.V., Van Heuven Goedhartlaan 935 A 1181LD Amstelveen The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -444,7 +444,7 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+- Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -523,7 +523,7 @@ Do not store above 30°C. Store in the original bottle in order to protect from 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Neurocrine Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen, The Netherlands
+Immedica Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen, The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -533,7 +533,7 @@ EU/1/17/1260/001 50 capsules
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -603,7 +603,7 @@ Do not store above 30°C. Store in the original bottle in order to protect from 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Neurocrine Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen, The Netherlands
+Immedica Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen, The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -673,7 +673,7 @@ Do not store above 30°C. Store in the original bottle in order to protect from 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Neurocrine Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen, The Netherlands
+Immedica Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen, The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -683,11 +683,9 @@ EU/1/17/1260/002 50 capsules
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Alkindi 1 mg
 
@@ -753,7 +751,7 @@ Do not store above 30°C. Store in the original bottle in order to protect from 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Neurocrine Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen, The Netherlands
+Immedica Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen, The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -823,7 +821,7 @@ Do not store above 30°C. Store in the original bottle in order to protect from 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Neurocrine Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen, The Netherlands
+Immedica Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen, The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -833,7 +831,7 @@ EU/1/17/1260/003 50 capsules
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -903,7 +901,7 @@ Do not store above 30°C. Store in the original bottle in order to protect from 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Neurocrine Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen, The Netherlands
+Immedica Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen, The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -971,7 +969,9 @@ Do not store above 30°C. Store in the original bottle in order to protect from 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Neurocrine Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen, The Netherlands
+Immedica Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen,
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1055,7 +1055,7 @@ Do not store above 30°C. Store in the original bottle in order to protect from 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Neurocrine Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen, The Netherlands
+Immedica Netherlands B.V., Van Heuven Goedhartlaan 935 A, 1181LD Amstelveen, The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1329,7 +1329,7 @@ Pack size: 1 bottle containing 50 capsules.
 
 ## Marketing Authorisation Holder
 
-Neurocrine Netherlands B.V., Van Heuven Goedhartlaan 935 A 1181LD Amstelveen The Netherlands infoEU@neurocrine.com
+Immedica Netherlands B.V., Van Heuven Goedhartlaan 935 A 1181LD Amstelveen The Netherlands
 
 ## Manufacturer
 

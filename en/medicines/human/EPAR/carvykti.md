@@ -1,102 +1,26 @@
 ---
-document_datetime: 2026-02-10 14:12:00
+document_datetime: 2026-03-13 16:53:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/carvykti.html
 document_name: carvykti.html
 version: success
-processing_time: 0.1149288
-conversion_datetime: 2026-02-13 18:33:46.480615
+processing_time: 0.1033068
+conversion_datetime: 2026-03-17 19:25:57.638538
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.2
-  docling: 2.73.1
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.80.0
+  docling-core: 2.70.1
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [Glossaries](/en/about-us/glossaries)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Carvykti
-
 # Carvykti
 
 [RSS](/en/individual-human-medicine.xml/67564)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -202,7 +126,7 @@ English (EN) (108.78 KB - PDF)
 
 [View](/en/documents/overview/carvykti-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-996)
+[Other languages (22)](#file-language-dropdown-220)
 
 български (BG) (136.47 KB - PDF)
 
@@ -470,11 +394,11 @@ svenska (SV) (106.07 KB - PDF)
 
 Carvykti : EPAR - Risk management plan
 
-English (EN) (1.47 MB - PDF)
+English (EN) (1.74 MB - PDF)
 
 **First published:** 13/06/2022
 
-**Last updated:** 08/05/2025
+**Last updated:** 13/03/2026
 
 [View](/en/documents/rmp/carvykti-epar-risk-management-plan_en.pdf)
 
@@ -490,7 +414,7 @@ English (EN) (431.31 KB - PDF)
 
 [View](/en/documents/product-information/carvykti-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-19)
+[Other languages (24)](#file-language-dropdown-938)
 
 български (BG) (462.62 KB - PDF)
 
@@ -806,7 +730,7 @@ English (EN) (30.79 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-469)
+[Other languages (24)](#file-language-dropdown-150)
 
 български (BG) (32.29 KB - PDF)
 
@@ -1130,7 +1054,7 @@ Janssen-Cilag International NV
 
 Turnhoutseweg 30
 
-Opinion adopted 24/03/2022 Marketing authorisation issued 25/05/2022 Revision 16
+Opinion adopted 24/03/2022 Marketing authorisation issued 25/05/2022 Revision 17
 
 ## Assessment history
 
@@ -1142,11 +1066,11 @@ Collapse section
 
 Carvykti : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (1.12 MB - PDF)
+English (EN) (196.4 KB - PDF)
 
 **First published:** 11/07/2025
 
-**Last updated:** 10/02/2026
+**Last updated:** 13/03/2026
 
 [View](/en/documents/procedural-steps-after/carvykti-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1238,7 +1162,7 @@ English (EN) (156.58 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-carvykti_en.pdf)
 
-#### News on Carvykti
+## News on Carvykti
 
 [Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 10-13 June 2024](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-10-13-june-2024) 14/06/2024
 
@@ -1248,7 +1172,7 @@ English (EN) (156.58 KB - PDF)
 
 [New gene therapy to treat adult patients with multiple myeloma](/en/news/new-gene-therapy-treat-adult-patients-multiple-myeloma) 25/03/2022
 
-#### More information on Carvykti
+## More information on Carvykti
 
 - [EU/3/20/2252 - orphan designation for treatment of multiple myeloma](/en/medicines/human/orphan-designations/eu-3-20-2252)
 - [Abecma / Breyanzi / Carvykti / Kymriah / Tecartus / Yescarta - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/abecma-breyanzi-carvykti-kymriah-tecartus-yescarta)
@@ -1256,7 +1180,7 @@ English (EN) (156.58 KB - PDF)
 - [Postauthorization Safety Study Survey to Evaluate the Effectiveness of the Ciltacabtagene Autoleucel HCP Educational Program and the Product Handling Training - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000047)
 - [A Post-authorization Safety Study to Evaluate the Safety of Multiple Myeloma Patients Treated with Ciltacabtagene Autoleucel - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000046)
 
-**This page was last updated on** 10/02/2026
+**This page was last updated on** 13/03/2026
 
 ## Share this page
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-23 14:00:50
+document_datetime: 2026-03-10 15:59:43
 document_pages: 66
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ponvory-epar-product-information_en.pdf
 document_name: ponvory-epar-product-information_en.pdf
 version: success
-processing_time: 29.6565864
-conversion_datetime: 2025-12-23 23:33:33.546271
+processing_time: 31.9787558
+conversion_datetime: 2026-03-17 19:22:05.687433
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.80.0
+  docling-core: 2.70.1
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -22,75 +22,81 @@ docling_version:
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
-
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ponvory 2 mg film-coated tablets Ponvory 3 mg film-coated tablets Ponvory 4 mg film-coated tablets Ponvory 5 mg film-coated tablets Ponvory 6 mg film-coated tablets Ponvory 7 mg film-coated tablets Ponvory 8 mg film-coated tablets Ponvory 9 mg film-coated tablets Ponvory 10 mg film-coated tablets Ponvory 20 mg film-coated tablets
+| Ponvory 2 mg   | film-coated tablets   |
+|----------------|-----------------------|
+| Ponvory 3 mg   | film-coated tablets   |
+| Ponvory 4 mg   | film-coated tablets   |
+| Ponvory 5 mg   | film-coated tablets   |
+| Ponvory 6 mg   | film-coated tablets   |
+| Ponvory 7 mg   | film-coated tablets   |
+| Ponvory 8 mg   | film-coated tablets   |
+| Ponvory 9 mg   | film-coated tablets   |
+| Ponvory 10 mg  | film-coated tablets   |
+| Ponvory 20 mg  | film-coated tablets   |
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 ## Ponvory 2 mg film-coated tablets
 
-Each film-coated tablet contains 2 mg of ponesimod
+Each film-coated tablet contains 2 mg of ponesimod.
 
 Excipient with known effect Each tablet contains 23 mg of lactose.
 
-Ponvory 3 mg film-coated tablets
+## Ponvory 3 mg film-coated tablets
 
-Each film-coated tablet contains 3 mg of ponesimod
+Each film-coated tablet contains 3 mg of ponesimod.
 
 Excipient with known effect Each tablet contains 22 mg of lactose.
 
-Ponvory 4 mg film-coated tablets
+## Ponvory 4 mg film-coated tablets
 
-Each film-coated tablet contains 4 mg of ponesimod
+Each film-coated tablet contains 4 mg of ponesimod.
 
 Excipient with known effect Each tablet contains 21 mg of lactose.
 
-Ponvory 5 mg film-coated tablets
+## Ponvory 5 mg film-coated tablets
 
-Each film-coated tablet contains 5 mg of ponesimod
+Each film-coated tablet contains 5 mg of ponesimod.
 
 Excipient with known effect Each tablet contains 118 mg of lactose.
 
-Ponvory 6 mg film-coated tablets
+## Ponvory 6 mg film-coated tablets
 
-Each film-coated tablet contains 6 mg of ponesimod
+Each film-coated tablet contains 6 mg of ponesimod.
 
 Excipient with known effect Each tablet contains 117 mg of lactose.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Ponvory 7 mg film-coated tablets
 
-Each film-coated tablet contains 7 mg of ponesimod
+Each film-coated tablet contains 7 mg of ponesimod.
+
+<div style=\"page-break-after: always\"></div>
 
 Excipient with known effect Each tablet contains 117 mg of lactose.
 
-## Ponvory 8 mg film-coated tablets
+Ponvory 8 mg film-coated tablets
 
-Each film-coated tablet contains 8 mg of ponesimod
+Each film-coated tablet contains 8 mg of ponesimod.
 
 Excipient with known effect Each tablet contains 116 mg of lactose.
 
 Ponvory 9 mg film-coated tablets
 
-Each film-coated tablet contains 9 mg of ponesimod
+Each film-coated tablet contains 9 mg of ponesimod.
 
 Excipient with known effect Each tablet contains 115 mg of lactose.
 
 Ponvory 10 mg film-coated tablets
 
-Each film-coated tablet contains 10 mg of ponesimod
+Each film-coated tablet contains 10 mg of ponesimod.
 
 Excipient with known effect Each tablet contains 114 mg of lactose.
 
 Ponvory 20 mg film-coated tablets
 
-Each film-coated tablet contains 20 mg of ponesimod
+Each film-coated tablet contains 20 mg of ponesimod.
 
 Excipient with known effect Each tablet contains 104 mg of lactose.
 
@@ -112,11 +118,11 @@ Red, round, biconvex, film-coated tablet of 5 mm diameter with '3' on one side a
 
 Purple, round, biconvex, film-coated tablet of 5 mm diameter with '4' on one side and an arch on the other side.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Ponvory 5 mg film-coated tablets
 
 Green, round, biconvex, film-coated tablet of 8.6 mm diameter with '5' on one side and an arch and an 'A' on the other side.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Ponvory 6 mg film-coated tablets
 
@@ -158,27 +164,29 @@ Treatment should be initiated under the supervision of a physician experienced i
 
 Treatment must be started with the 14-day treatment initiation pack (see section 6.5). Treatment starts with one 2 mg tablet orally once daily on day 1 and dose-escalation progresses with the titration schedule outlined in Table 1.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 1: Dose titration regimen
 
-| Titration day     | Daily dose   |
-|-------------------|--------------|
-| Day 1 and 2       | 2 mg         |
-| Day 3 and 4       | 3 mg         |
-| Day 5 and 6       | 4 mg         |
-| Day 7             | 5 mg         |
-| Day 8             | 6 mg         |
-| Day 9             | 7 mg         |
-| Day 10            | 8 mg         |
-| Day 11            | 9 mg         |
-| Day 12, 13 and 14 | 10 mg        |
+| Titration day   | Daily dose   |
+|-----------------|--------------|
+| Day 1 and 2     | 2 mg         |
+| Day 3 and 4     | 3 mg         |
+| Day 5 and 6     | 4 mg         |
+| Day 7           | 5 mg         |
+
+<div style=\"page-break-after: always\"></div>
+
+| Day 8             | 6 mg   |
+|-------------------|--------|
+| Day 9             | 7 mg   |
+| Day 10            | 8 mg   |
+| Day 11            | 9 mg   |
+| Day 12, 13 and 14 | 10 mg  |
 
 If dose titration is interrupted, missed dose instructions must be followed (see also section 4.2, 'Re-initiation of therapy following treatment interruption during dose titration or maintenance period').
 
 ## Maintenance dose
 
-After dose titration is complete (see also section 4.2, Treatment initiation) , the recommended maintenance dose of Ponvory is one 20 mg tablet taken orally once daily.
+After dose titration is complete (see also section 4.2, Treatment initiation) , the recommended maintenance dose is one 20 mg tablet taken orally once daily.
 
 Re-initiation of therapy following treatment interruption during dose titration or maintenance period
 
@@ -211,13 +219,14 @@ The safety and efficacy of Ponvory in children and adolescents aged less than 18
 
 Ponesimod should be administered orally once daily. Ponesimod can be taken with or without food (see section 5.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.3 Contraindications
 
 - -Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 - -Immunodeficient state (see section 4.4).
 - -Patients who in the last 6 months experienced myocardial infarction, unstable angina, stroke, transient ischaemic attack (TIA), decompensated heart failure requiring hospitalisation, or New York Heart Association (NYHA) Class III or IV heart failure.
+
+<div style=\"page-break-after: always\"></div>
+
 - -Patients who have presence of Mobitz type II second-degree, third-degree atrioventricular (AV) block, or sick sinus syndrome, unless patient has a functioning pacemaker (see section 4.4).
 - -Severe active infections, active chronic infections.
 - -Active malignancies.
@@ -246,16 +255,14 @@ Because initiation of ponesimod treatment may result in a decrease in HR, first-
 
 Administer the first dose of ponesimod in a setting where resources to appropriately manage symptomatic bradycardia are available. Monitor patients for 4 hours after the first dose for signs and symptoms of bradycardia with a minimum of hourly pulse and blood pressure measurements. Obtain an ECG in these patients at the end of the 4-hour observation period.
 
-<div style=\"page-break-after: always\"></div>
-
 Additional monitoring after 4-hours is recommended if any of the following abnormalities are present (even in the absence of symptoms), continue monitoring until the abnormality resolves:
 
 - -HR 4 hours postdose is less than 45 bpm
-- -HR 4 hours postdose is at the lowest value postdose, suggesting that the maximum
-
-pharmacodynamic effect on the heart may not have occurred
-
+- -
+- HR 4 hours postdose is at the lowest value postdose, suggesting that the maximum pharmacodynamic effect on the heart may not have occurred
 - -The ECG 4 hours postdose shows new onset second-degree or higher AV block
+
+<div style=\"page-break-after: always\"></div>
 
 If postdose symptomatic bradycardia, bradyarrhythmia, or conduction related symptoms occur, or if ECG 4 hours post-dose shows new onset second degree or higher AV block or QTc greater than or equal to 500 msec, initiate appropriate management, begin continuous ECG monitoring, and continue monitoring until the symptoms have resolved if no pharmacological treatment is required. If pharmacological treatment is required, continue monitoring overnight and repeat 4-hour monitoring after the second dose.
 
@@ -266,7 +273,7 @@ Cardiologist advice should be obtained before initiation of ponesimod in the fol
 - -In patients with unstable ischaemic heart disease, cardiac decompensated failure occurring more than 6 months prior to treatment initiation, history of cardiac arrest, cerebrovascular disease (TIA, stroke occurring more than 6 months prior to treatment initiation), and uncontrolled hypertension, since significant bradycardia may be poorly tolerated in these patients, treatment is not recommended
 - -In patients with a history of Mobitz Type II second degree AV block or higher-grade AV block, sick-sinus syndrome, or sino-atrial heart block (see section 4.3)
 - -In patients with a history of recurrent syncope or symptomatic bradycardia
-- -In patients receiving concurrent therapy with drugs that decrease heart rate (e.g., beta-blockers, non-dihydropyridine calcium channel blockers - diltiazem and verapamil, and other drugs that may decrease HR such as digoxin) (see above and section 4.5), consider potential need to switch to non-HR lowering medicinal products. Concomitant use of these medicinal products during ponesimod initiation may be associated with severe bradycardia and heart block.
+- -In patients receiving concurrent therapy with medicinal products that decrease heart rate (e.g., beta-blockers, non-dihydropyridine calcium channel blockers - diltiazem and verapamil, and other drugs that may decrease HR such as digoxin) (see above and section 4.5), consider potential need to switch to non-HR lowering medicinal products. Concomitant use of these medicinal products during ponesimod initiation may be associated with severe bradycardia and heart block.
 
 ## Infections
 
@@ -278,11 +285,13 @@ Before initiating treatment with ponesimod, results from a recent complete blood
 
 Initiation of treatment with ponesimod should be delayed in patients with severe active infection until resolution.
 
-<div style=\"page-break-after: always\"></div>
-
 Effective diagnostic and therapeutic strategies should be employed in patients with symptoms of infection while on therapy. Suspension of treatment with ponesimod should be considered if a patient develops a serious infection.
 
-In the development program, pharmacodynamic effects, such as lowering effects on peripheral lymphocyte count, were restored to normal within 1 week after discontinuation of ponesimod. In the OPTIMUM study, peripheral lymphocyte counts were restored to normal within 2 weeks after discontinuation of ponesimod, which was the first timepoint evaluated. Vigilance for signs and symptoms of infection should be continued for 1-2 weeks after ponesimod is discontinued (see below and section 4.8).
+In the development program, pharmacodynamic effects, such as lowering effects on peripheral lymphocyte count, were restored to normal within 1 week after discontinuation of ponesimod. In the OPTIMUM study, peripheral lymphocyte counts were restored to normal within 2 weeks after discontinuation of ponesimod, which was the first timepoint evaluated. Vigilance for signs and
+
+<div style=\"page-break-after: always\"></div>
+
+symptoms of infection should be continued for 1-2 weeks after ponesimod is discontinued (see below and section 4.8).
 
 ## Herpes viral infections
 
@@ -304,11 +313,11 @@ Physicians should be vigilant for clinical symptoms or magnetic resonance imagin
 
 IRIS has been reported in patients treated with S1P receptor modulators who developed PML and subsequently discontinued treatment. IRIS presents as a clinical decline in the patient's condition that may be rapid, can lead to serious neurological complications or death, and is often associated with characteristic changes on MRI. The time to onset of IRIS in patients with PML was generally within four months after S1P receptor modulator discontinuation. Monitoring for development of IRIS and appropriate treatment of the associated inflammation should be undertaken.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Prior and concomitant treatment with anti-neoplastic, immune-modulating, or immunosuppressive therapies
 
 In patients that are taking anti-neoplastic, immune-modulating, or immunosuppressive therapies (including corticosteroids), or if there is a history of prior use of these medicinal products, possible unintended additive immune system effects should be considered before initiating treatment with ponesimod (see section 4.5).
+
+<div style=\"page-break-after: always\"></div>
 
 When switching from medicinal products with prolonged immune effects, the half-life and mode of action of these medicinal products must be considered in order to avoid unintended additive effects on the immune system while at the same time minimising risk of disease reactivation, when initiating ponesimod.
 
@@ -338,13 +347,11 @@ Patients with a history of uveitis and patients with diabetes mellitus are at in
 
 ## Respiratory effects
 
-Dose-dependent reductions in forced expiratory volume over 1 second (FEV1) and reductions in diffusion lung capacity for carbon monoxide (DLCO) were observed in ponesimod-treated patients mostly occurring in the first month after treatment initiation (see section 4.8). Respiratory symptoms
-
-<div style=\"page-break-after: always\"></div>
-
-associated with ponesimod treatment can be reversed with administration of a short-acting beta2 agonist.
+Dose-dependent reductions in forced expiratory volume over 1 second (FEV1) and reductions in diffusion lung capacity for carbon monoxide (DLCO) were observed in ponesimod-treated patients mostly occurring in the first month after treatment initiation (see section 4.8). Respiratory symptoms associated with ponesimod treatment can be reversed with administration of a short-acting beta2 agonist.
 
 Ponesimod should be used with caution in patients with severe respiratory disease, pulmonary fibrosis and chronic obstructive pulmonary disease. Spirometry evaluation of respiratory function should be performed during therapy with ponesimod if clinically indicated.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Liver injury
 
@@ -370,19 +377,21 @@ Based on animal studies, ponesimod may cause foetal harm. Due to the risk to the
 
 Rare cases of posterior reversible encephalopathy syndrome (PRES) have been reported in patients receiving a S1P receptor modulator. Such events have not been reported for ponesimod-treated patients in the development program. However, should a ponesimod-treated patient develop any unexpected neurological or psychiatric symptoms/signs (e.g., cognitive deficits, behavioural changes, cortical visual disturbances, or any other neurological cortical symptoms/signs), any symptom/sign suggestive of an increase of intracranial pressure, or accelerated neurological deterioration, the physician should promptly schedule a complete physical and neurological examination and should consider a MRI. Symptoms of PRES are usually reversible but may evolve into ischaemic stroke or cerebral haemorrhage. Delay in diagnosis and treatment may lead to permanent neurological sequelae. If PRES is suspected, ponesimod should be discontinued.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Return of disease activity after ponesimod discontinuation
 
-Severe exacerbation of disease, including disease rebound, has been rarely reported after discontinuation of a S1P receptor modulator. The possibility of severe exacerbation of disease should be considered after stopping ponesimod treatment. Patients should be observed for a severe exacerbation or return of high disease activity upon ponesimod discontinuation and appropriate treatment should be instituted, as required (see above).
+Severe exacerbation of disease, including disease rebound, has been rarely reported after discontinuation of a S1P receptor modulator. The possibility of severe exacerbation of disease should be considered after stopping ponesimod treatment. Patients should be observed for a severe
 
-After stopping Ponvory in the setting of PML, monitor for development of immune reconstitution inflammatory syndrome (PML-IRIS) (see above).
+<div style=\"page-break-after: always\"></div>
 
-## Excipients
+exacerbation or return of high disease activity upon ponesimod discontinuation and appropriate treatment should be instituted, as required (see above).
+
+After treatment discontinuation in the setting of PML, patients should be monitored for development of immune reconstitution inflammatory syndrome (PML-IRIS) (see above).
+
+## Excipients with known effect
 
 ## Lactose
 
-Ponvory contains lactose (see section 2). Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+This medicinal product contains lactose (see section 2). Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
 ## Sodium
 
@@ -408,13 +417,13 @@ In a drug-drug interaction study, the up-titration regimen of ponesimod (see sec
 
 Vaccinations may be less effective if administered while being treated with ponesimod and up to 1 week after its discontinuation (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 The use of live attenuated vaccines may carry the risk of infection and should therefore be avoided during ponesimod treatment and up to 1 week after its discontinuation of treatment with ponesimod (see section 4.4).
 
 ## Effect of other medicinal products on ponesimod
 
 Medicinal products that are inhibitors of major CYP or UGT enzymes are unlikely to impact the pharmacokinetics of ponesimod (see section 5.2).
+
+<div style=\"page-break-after: always\"></div>
 
 No dose adjustment is needed when ponesimod is co-administered with strong CYP3A4 and UGT1A1 inducers. Co-administration of carbamazepine 300 mg twice daily (a strong CYP3A4 and UGT1A1 inducer) at steady-state decreased ponesimod Cmax by 19.6% and AUC by 25.7%. This decrease is not clinically relevant.
 
@@ -440,15 +449,15 @@ Ponvory is contraindicated in women of childbearing potential not using effectiv
 
 Specific measures are also included in the Healthcare Professional checklist. These measures must be implemented before ponesimod is prescribed to female patients and during treatment.
 
-When stopping ponesimod therapy for planning a pregnancy the possible return of disease activity should be considered (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
+When stopping ponesimod therapy for planning a pregnancy, the possible return of disease activity should be considered (see section 4.4).
 
 ## Pregnancy
 
 Ponvory is contraindicated during pregnancy (see section 4.3). Although there are no data from the use of ponesimod in pregnant women, studies in animals have shown reproductive toxicity (see section 5.3). If a woman becomes pregnant during treatment, ponesimod must be immediately discontinued. Medical advice should be given regarding the risk of harmful effects to the foetus associated with treatment (see section 5.3) and follow-up examinations should be performed.
 
 Based on clinical experience in patients receiving another S1P receptor modulator, the use is associated with an increased risk of major congenital malformations.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Breast-feeding
 
@@ -466,7 +475,7 @@ Ponvory has no or negligible influence on the ability to drive and use machines.
 
 ## Summary of the safety profile
 
-The most commonly reported adverse drug reactions are nasopharyngitis (19.7%), alanine aminotransferase increased (17.9%) and upper respiratory tract infection (11%).
+The most commonly reported adverse reactions are nasopharyngitis (19.7%), alanine aminotransferase increased (17.9%) and upper respiratory tract infection (11%).
 
 ## Tabulated list of adverse reactions
 
@@ -518,7 +527,7 @@ In OPTIMUM, macular oedema was reported in 1.1% of ponesimod-treated patients co
 
 ## Liver enzymes elevation
 
-In the OPTIMUM study, ALT increased to three and five times the upper limit of normal (ULN) in 17.3% and 4.6% of ponesimod-treated patients, respectively, compared to 8.3% and 2.5% of patients receiving, teriflunomide 14 mg, respectively. ALT increased eight times ULN in 0.7% ponesimod-treated patients compared to 2.1% in patients receiving teriflunomide 14 mg. The majority of elevations occurred within 6 or 12 months of starting treatment. ALT levels returned to normal after discontinuation of ponesimod. M ost cases of ALT increases ≥3×ULN resolved on continued ponesimod treatment, and the remaining cases resolved upon treatment discontinuation. In clinical trials, ponesimod was discontinued if the elevation exceeded a 3 -fold increase and the patient showed symptoms related to hepatic dysfunction.
+In the OPTIMUM study, ALT increased to three and five times the upper limit of normal (ULN) in 17.3% and 4.6% of ponesimod-treated patients, respectively, compared to 8.3% and 2.5% of patients receiving, teriflunomide 14 mg, respectively. ALT increased eight times ULN in 0.7% ponesimod-treated patients compared to 2.1% in patients receiving teriflunomide 14 mg. The majority of elevations occurred within 6 or 12 months of starting treatment. ALT levels returned to normal after discontinuation of ponesimod. Most cases of ALT increases ≥3×ULN resolved on continued ponesimod treatment, and the remaining cases resolved upon treatment discontinuation. In clinical trials, ponesimod was discontinued if the elevation exceeded a 3 -fold increase and the patient showed symptoms related to hepatic dysfunction.
 
 ## Respiratory effects
 
@@ -568,11 +577,11 @@ Ponesimod blocks the capacity of lymphocytes to egress from lymph nodes reducing
 
 ## Immune system
 
-In healthy volunteers, ponesimod induces a dose-dependent reduction of the peripheral blood lymphocyte count from a single dose of 5 mg onwards, with the greatest reduction observed 6 hours post-dose, caused by reversible sequestration of lymphocytes in lymphoid tissues. After 7 daily doses
+In healthy volunteers, ponesimod induces a dose-dependent reduction of the peripheral blood lymphocyte count from a single dose of 5 mg onwards, with the greatest reduction observed 6 hours
 
 <div style=\"page-break-after: always\"></div>
 
-of 20 mg, the greatest decrease in absolute mean lymphocyte count was to 26% of baseline (650 cells/µL), observed 6 hours after administration. Peripheral blood B cells [CD19+] and T cells [CD3+], T-helper [CD3+CD4+], and T-cytotoxic [CD3+CD8+] cell subsets are all affected, while NK cells are not. T-helper cells were more sensitive to the effects of ponesimod than T-cytotoxic cells.
+post-dose, caused by reversible sequestration of lymphocytes in lymphoid tissues. After 7 daily doses of 20 mg, the greatest decrease in absolute mean lymphocyte count was to 26% of baseline (650 cells/µL), observed 6 hours after administration. Peripheral blood B cells [CD19+] and T cells [CD3+], T-helper [CD3+CD4+], and T-cytotoxic [CD3+CD8+] cell subsets are all affected, while NK cells are not. T-helper cells were more sensitive to the effects of ponesimod than T-cytotoxic cells.
 
 Pharmacokinetic/Pharmacodynamic modelling indicates lymphocyte counts returned to the normal range in &gt;90% of healthy subjects within 1 week of stopping therapy. In the development program, peripheral lymphocyte counts returned to the normal range within 1 week after discontinuation of ponesimod.
 
@@ -600,11 +609,9 @@ The efficacy of ponesimod was evaluated in the Phase 3 study, OPTIMUM, a multice
 
 Patients were randomised to receive either once daily ponesimod or teriflunomide 14 mg, beginning with a 14-day dose titration (see section 4.2). Neurological evaluations were performed every 12 weeks as well as at the time of a suspected relapse. Brain MRIs were performed at baseline and at Weeks 60 and 108.
 
-The primary endpoint of the study was the annualised relapse rate (ARR) from baseline up to end of study (EOS). The prespecified hierarchical fallback testing sequence included the primary endpoint
-
 <div style=\"page-break-after: always\"></div>
 
-and the secondary endpoints: cumulative number of combined unique active lesions (CUAL, defined as new Gd+ T1 lesions plus new or enlarging T2 lesions [without double-counting of lesions]) from baseline to Week 108; time to 12-week confirmed disability accumulation (CDA) from baseline to EOS; and time to 24-week CDA from baseline to EOS. A 12-week CDA was defined as an increase of at least 1.5 in EDSS for subjects with a baseline EDSS score of 0 or an increase of at least 1.0 in EDSS for subjects with a baseline EDSS score of 1.0 to 5.0, or an increase of at least 0.5 in EDSS for subjects with a baseline EDSS score ≥5.5 which was confirmed after 12 weeks.
+The primary endpoint of the study was the annualised relapse rate (ARR) from baseline up to end of study (EOS). The prespecified hierarchical fallback testing sequence included the primary endpoint and the secondary endpoints: cumulative number of combined unique active lesions (CUAL, defined as new Gd+ T1 lesions plus new or enlarging T2 lesions [without double-counting of lesions]) from baseline to Week 108; time to 12-week confirmed disability accumulation (CDA) from baseline to EOS; and time to 24-week CDA from baseline to EOS. A 12-week CDA was defined as an increase of at least 1.5 in EDSS for subjects with a baseline EDSS score of 0 or an increase of at least 1.0 in EDSS for subjects with a baseline EDSS score of 1.0 to 5.0, or an increase of at least 0.5 in EDSS for subjects with a baseline EDSS score ≥5.5 which was confirmed after 12 weeks.
 
 In OPTIMUM, 1133 patients were randomised to either ponesimod (N=567) or teriflunomide 14 mg (N=566); 86.4% of ponesimod-treated patients and 87.5% of teriflunomide 14 mg-treated patients completed the study as per protocol. The baseline demographic and disease characteristics were balanced between the treatment groups. At baseline, the mean age of patients was 37 years (standard deviation 8.74), 97% were white and 65% were female. The mean disease duration was 7.6 years, the mean number of relapses in the previous year was 1.3, and the mean EDSS score was 2.6; 57% of patients had not received any prior disease-modifying treatments (DMT) for MS. At baseline, 40% of ponesimod-treated patients had one or more Gd+ T1 lesions on brain MRI (mean 1.9).
 
@@ -642,7 +649,7 @@ All analyses are based on the full analysis set (FAS), which includes all random
 
 ## Long-term data
 
-Patients with RMS who completed the phase 3 OPTIMUM study were eligible to enter the exploratory, open-label extension study OPTIMUM-LT. In total, 877 patients were enrolled (i.e., 77.4% of patients from OPTIMUM; n=439 from ponesimod arm and n=438 from teriflunomide arm). All patients received ponesimod 20 mg once daily for up to 240 weeks. The mean treatment duration was 46.91 months (range: 0.7-71.8 months) and drop-out rate was 25.4%. The mean ARR in the extension period was 0.132 (95% CLs: 0.113, 0.152). At Week 384, the Kaplan Meier estimate of patients with a 24-week CDA in the extension study, continuously treated with ponesimod (P20 mg/P20 mg) since core study randomization, was 21.3% (95% CLs: 17.7, 25.6).
+Patients with RMS who completed the phase 3 OPTIMUM study were eligible to enter the exploratory, open-label extension study OPTIMUM-LT. In total, 877 patients were enrolled (i.e., 77.4% of patients from OPTIMUM; n=439 from ponesimod arm and n=438 from teriflunomide arm). All patients received ponesimod 20 mg once daily for up to 240 weeks. The mean treatment duration was 46.91 months (range: 0.7-71.8 months) and drop-out rate was 25.4%. The mean ARR in the extension period was 0.132 (95% CLs: 0.113, 0.152). At Week 384, the Kaplan Meier estimate of patients with a 24-week CDA in the extension study, continuously treated with ponesimod (P20 mg/P20 mg) since core study randomisation, was 21.3% (95% CLs: 17.7, 25.6).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -770,11 +777,7 @@ Iron oxide red (E172) Black iron oxide (E172)
 
 Ponvory 9 mg film-coated tablets
 
-Iron oxide red (E172)
-
-Black iron oxide (E172)
-
-Iron oxide yellow (E172)
+Iron oxide red (E172) Black iron oxide (E172) Iron oxide yellow (E172)
 
 Ponvory 10 mg film-coated tablets
 
@@ -806,21 +809,41 @@ Each blister pack of 14 film-coated tablets for a 2-week treatment schedule cont
 
 <div style=\"page-break-after: always\"></div>
 
-| 1 film-coated tablet of 6 mg 1 film-coated tablet of 7 mg 1 film-coated tablet of 8 mg 1 film-coated tablet of 9 mg 3 film-coated tablets of 10 mg   |                       |                  |                  |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|------------------|------------------|
-| Ponvory 20 mg film-coated tablets (maintenance pack)                                                                                                 |                       |                  |                  |
-| Pack of 28 film-coated tablets or multipack containing 84 (3 packs of 28) film-coated tablets.                                                       |                       |                  |                  |
-| Not all pack sizes may be marketed.                                                                                                                  |                       |                  |                  |
-| 6.6 Special precautions for disposal                                                                                                                 |                       |                  |                  |
-| Any unused medicinal product or waste material should be disposed of in accordance with                                                              |                       |                  |                  |
-| local requirements.                                                                                                                                  |                       |                  |                  |
-| LABORATOIRES JUVISE PHARMACEUTICALS 149 Boulevard Bataille de Stalingrad 69100 Villeurbanne                                                          |                       |                  |                  |
-| France                                                                                                                                               |                       |                  |                  |
-| 8. MARKETING AUTHORISATION NUMBER(S)                                                                                                                 |                       |                  |                  |
-| Date of first authorisation: 19 May 2021                                                                                                             |                       |                  |                  |
-| 10. DATE OF REVISION OF THE TEXT                                                                                                                     |                       |                  |                  |
-| 9. DATE OF FIRST OF THE AUTHORISATION                                                                                                                |                       |                  |                  |
-|                                                                                                                                                      | AUTHORISATION/RENEWAL | EU/1/21/1550/003 | EU/1/21/1550/002 |
+- 1 film-coated tablet of 6 mg
+- 1 film-coated tablet of 7 mg
+- 1 film-coated tablet of 8 mg
+- 1 film-coated tablet of 9 mg
+- 3 film-coated tablets of 10 mg
+
+Ponvory 20 mg film-coated tablets (maintenance pack)
+
+Pack of 28 film-coated tablets or multipack containing 84 (3 packs of 28) film-coated tablets.
+
+Not all pack sizes may be marketed.
+
+## 6.6 Special precautions for disposal
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+LABORATOIRES JUVISE PHARMACEUTICALS 149 Boulevard Bataille de Stalingrad 69100 Villeurbanne France
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/21/1550/001 EU/1/21/1550/002
+
+EU/1/21/1550/003
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 19 May 2021
+
+Date of latest renewal:
+
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1077,23 +1100,23 @@ Ponvory 10 mg film-coated tablets ponesimod
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each 2 mg film-coated tablet contains 2 mg of ponesimod
+Each 2 mg film-coated tablet contains 2 mg of ponesimod.
 
-Each 3 mg film-coated tablet contains 3 mg of ponesimod
+Each 3 mg film-coated tablet contains 3 mg of ponesimod.
 
-Each 4 mg film-coated tablet contains 4 mg of ponesimod
+Each 4 mg film-coated tablet contains 4 mg of ponesimod.
 
-Each 5 mg film-coated tablet contains 5 mg of ponesimod
+Each 5 mg film-coated tablet contains 5 mg of ponesimod.
 
-Each 6 mg film-coated tablet contains 6 mg of ponesimod
+Each 6 mg film-coated tablet contains 6 mg of ponesimod.
 
-Each 7 mg film-coated tablet contains 7 mg of ponesimod
+Each 7 mg film-coated tablet contains 7 mg of ponesimod.
 
-Each 8 mg film-coated tablet contains 8 mg of ponesimod
+Each 8 mg film-coated tablet contains 8 mg of ponesimod.
 
-Each 9 mg film-coated tablet contains 9 mg of ponesimod or
+Each 9 mg film-coated tablet contains 9 mg of ponesimod.
 
-Each 10 mg film-coated tablet contains 10 mg of ponesimod
+Each 10 mg film-coated tablet contains 10 mg of ponesimod.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1205,16 +1228,10 @@ Contains lactose. See package leaflet for further information.
 
 Treatment initiation pack
 
-Each pack of 14 film-coated tablets for a 2-week treatment schedule contains:
+```
+Each pack of 14 film-coated tablets for a 2-week treatment schedule contains: 2 film-coated tablets of Ponvory 2 mg 2 film-coated tablets of Ponvory 3 mg 2 film-coated tablets of Ponvory 4 mg 1 film-coated tablet of Ponvory 5 mg 1 film-coated tablet of Ponvory 6 mg 1 film-coated tablet of Ponvory 7 mg 1 film-coated tablet of Ponvory 8 mg 1 film-coated tablet of Ponvory 9 mg
+```
 
-- 2 film-coated tablets of Ponvory 2 mg
-- 2 film-coated tablets of Ponvory 3 mg
-- 2 film-coated tablets of Ponvory 4 mg
-- 1 film-coated tablet of Ponvory 5 mg
-- 1 film-coated tablet of Ponvory 6 mg
-- 1 film-coated tablet of Ponvory 7 mg
-- 1 film-coated tablet of Ponvory 8 mg
-- 1 film-coated tablet of Ponvory 9 mg
 - 3 film-coated tablets of Ponvory 10 mg
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -1251,7 +1268,9 @@ EXP
 
 ## LABORATOIRES JUVISE PHARMACEUTICALS
 
-149 Boulevard Bataille de Stalingrad 69100 Villeurbanne France
+149 Boulevard Bataille de Stalingrad 69100 Villeurbanne
+
+France
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1438,9 +1457,7 @@ Ponvory 20 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -1735,18 +1752,22 @@ Keep out of the sight and reach of children.
 | 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
 |------|------------------------------------------|
 
-8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 | 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-LABORATOIRES JUVISE PHARMACEUTICALS 149 Boulevard Bataille de Stalingrad 69100 Villeurbanne France
+LABORATOIRES JUVISE PHARMACEUTICALS 149 Boulevard Bataille de Stalingrad 69100 Villeurbanne
+
+France
 
 | 12. MARKETING AUTHORISATION NUMBER(S)   |
 |-----------------------------------------|
@@ -1758,8 +1779,7 @@ EU/1/21/1550/003 84 tablets (3 packs of 28)
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
 
@@ -1845,17 +1865,13 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 ## Package leaflet: Information for the patient
+
+<div style=\"page-break-after: always\"></div>
 
 ```
 Ponvory 2 mg film-coated tablets Ponvory 3 mg film-coated tablets Ponvory 4 mg film-coated tablets Ponvory 5 mg film-coated tablets Ponvory 6 mg film-coated tablets Ponvory 7 mg film-coated tablets Ponvory 8 mg film-coated tablets Ponvory 9 mg film-coated tablets Ponvory 10 mg film-coated tablets Ponvory 20 mg film-coated tablets ponesimod
 ```
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1889,9 +1905,9 @@ Multiple sclerosis (MS) affects the nerves in the brain and spinal cord (the cen
 
 In MS, the immune system (one of the body's main defence systems) does not work properly. The immune system attacks a protective covering of nerve cells called myelin sheath - this causes inflammation. This breakdown of the myelin sheath (called demyelination) stops the nerves working properly.
 
-<div style=\"page-break-after: always\"></div>
-
 Symptoms of MS depend on which part of the brain and spinal cord are affected. These can include problems with walking and balance, weakness, numbness, double vision and blurring, poor coordination and bladder problems.
+
+<div style=\"page-break-after: always\"></div>
 
 Symptoms of a relapse may disappear completely when the relapse is over - but some problems may remain.
 
@@ -2070,7 +2086,7 @@ Ponvory is not expected to have an influence on your ability to drive and use ma
 
 ## Ponvory contains lactose
 
-Ponvory contains lactose which is a type of sugar. If you have been told by your doctor that you have an intolerance to some sugars, talk to your doctor before taking this medicine.
+This medicine contains lactose which is a type of sugar. If you have been told by your doctor that you have an intolerance to some sugars, talk to your doctor before taking this medicine.
 
 ## Ponvory contains sodium
 
@@ -2167,9 +2183,8 @@ Tell your doctor or pharmacist immediately if you notice any of the side effects
 
 ## Very common (may affect more than 1 in 10 people)
 
-- infection of the nose, sinuses, or throat (nasopharyngitis, respiratory tract infection)
+- infection of the nose, sinuses, or throat (nasopharyngitis, upper respiratory tract infection)
 - increased level of liver enzymes in the blood (a sign of liver problems)
-- low number of a type of white blood cell, called lymphocytes (lymphopenia)
 
 ## Common (may affect up to 1 in 10 people)
 
@@ -2186,10 +2201,10 @@ Tell your doctor or pharmacist immediately if you notice any of the side effects
 - cough
 - itchy, runny, or blocked nose (rhinitis), infected or irritated throat (pharyngitis, laryngitis), sinus infection (sinusitis)
 - feeling anxious (anxiety)
+- decreased feeling or sensitivity, especially in the skin (hypoaesthesia)
 
 <div style=\"page-break-after: always\"></div>
 
-- decreased feeling or sensitivity, especially in the skin (hypoaesthesia)
 - increased level of a protein in the blood that may indicate an infection or inflammation (C-reactive protein increased)
 - feeling sleepy (somnolence)
 - indigestion (dyspepsia)
@@ -2197,8 +2212,9 @@ Tell your doctor or pharmacist immediately if you notice any of the side effects
 - migraine
 - ligament sprain
 - chest discomfort
+- low number of a type of white blood cell, called lymphocytes (lymphopenia)
 
-## Uncommon (may affect up to 1 in 100 people)
+Uncommon (may affect up to 1 in 100 people)
 
 - high level of potassium in the blood (hyperkalaemia)
 - swollen joint
@@ -2223,9 +2239,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Ponvory contains
 
 - The active substance is ponesimod
-- The other excipients are:
-
-## Tablet core
+- The other excipients are: Tablet core
 
 Croscarmellose sodium, lactose monohydrate (see 'Ponvory contains lactose'), magnesium stearate, microcrystalline cellulose, Povidone K30, silica colloidal anhydrous and sodium laurilsulfate.
 
@@ -2235,9 +2249,9 @@ Hypromellose 2910, lactose monohydrate, Macrogol 3350, titanium dioxide and tria
 
 Ponvory 3 mg film-coated tablets Iron oxide red (E172) and iron oxide yellow (E172)
 
-Ponvory 4 mg film-coated tablets Iron oxide red (E172) and black iron oxide (E172)
-
 <div style=\"page-break-after: always\"></div>
+
+Ponvory 4 mg film-coated tablets Iron oxide red (E172) and black iron oxide (E172)
 
 Ponvory 5 mg film-coated tablets Black iron oxide (E172) and iron oxide yellow (E172)
 
@@ -2281,13 +2295,9 @@ Each blister pack of 14 film-coated tablets for a 2-week treatment schedule cont
 
 2 film-coated tablets of 3 mg
 
-2 film-coated tablets of 4 mg
-
-1 film-coated tablet of 5 mg
-
 <div style=\"page-break-after: always\"></div>
 
-1 film-coated tablet of 6 mg 1 film-coated tablet of 7 mg 1 film-coated tablet of 8 mg 1 film-coated tablet of 9 mg
+2 film-coated tablets of 4 mg 1 film-coated tablet of 5 mg 1 film-coated tablet of 6 mg 1 film-coated tablet of 7 mg 1 film-coated tablet of 8 mg 1 film-coated tablet of 9 mg
 
 3 film-coated tablets of 10 mg
 
@@ -2299,7 +2309,9 @@ Not all pack sizes may be marketed in your country.
 
 ## Marketing Authorisation Holder
 
-LABORATOIRES JUVISE PHARMACEUTICALS 149 Boulevard Bataille de Stalingrad 69100 Villeurbanne France
+LABORATOIRES JUVISE PHARMACEUTICALS 149 Boulevard Bataille de Stalingrad 69100 Villeurbanne
+
+France
 
 ## Manufacturer
 
@@ -2313,4 +2325,4 @@ Creapharm Industry 29 rue Leon Faucher 51100 Reims France
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.

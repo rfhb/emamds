@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-16 17:08:00
+document_datetime: 2026-03-13 16:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pradaxa.html
 document_name: pradaxa.html
 version: success
-processing_time: 0.1778022
-conversion_datetime: 2026-01-03 12:30:09.937826
+processing_time: 0.1263659
+conversion_datetime: 2026-03-17 19:23:27.394902
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.80.0
+  docling-core: 2.70.1
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Pradaxa
 
 [RSS](/en/individual-human-medicine.xml/66413)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 dabigatran etexilate Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -149,7 +147,7 @@ English (EN) (155.33 KB - PDF)
 
 [View](/en/documents/overview/pradaxa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-248)
+[Other languages (22)](#file-language-dropdown-361)
 
 български (BG) (180.13 KB - PDF)
 
@@ -437,7 +435,7 @@ English (EN) (3.15 MB - PDF)
 
 [View](/en/documents/product-information/pradaxa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-167)
+[Other languages (24)](#file-language-dropdown-582)
 
 български (BG) (6.99 MB - PDF)
 
@@ -753,7 +751,7 @@ English (EN) (27.6 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pradaxa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-792)
+[Other languages (24)](#file-language-dropdown-780)
 
 български (BG) (31.92 KB - PDF)
 
@@ -1053,7 +1051,7 @@ English (EN) (116.82 KB - PDF)
 
 [View](/en/documents/conditions-member-states/pradaxa-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-569)
+[Other languages (23)](#file-language-dropdown-689)
 
 български (BG) (149.41 KB - PDF)
 
@@ -1369,7 +1367,7 @@ Boehringer Ingelheim International GmbH
 
 D-55216 Ingelheim am Rhein
 
-Marketing authorisation issued 17/03/2008 Revision 45
+Marketing authorisation issued 17/03/2008 Revision 46
 
 ## Assessment history
 
@@ -1396,6 +1394,18 @@ English (EN) (384.94 KB - PDF)
 **Last updated:** 24/11/2025
 
 [View](/en/documents/procedural-steps-after/pradaxa-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Pradaxa-VR-0000256456 : EPAR - Assessment report - Variation
+
+Adopted
+
+Reference Number: EMADOC-1700519818-1955530
+
+English (EN) (516.62 KB - PDF)
+
+**First published:** 13/03/2026
+
+[View](/en/documents/variation-report/pradaxa-vr-0000256456-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Pradaxa (II-147-G)
 
@@ -1691,7 +1701,7 @@ English (EN) (274.66 KB - PDF)
 
 [View](/en/documents/assessment-report/pradaxa-epar-public-assessment-report_en.pdf)
 
-#### News on Pradaxa
+## News on Pradaxa
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 6-9 November 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-6-9-november-2023) 10/11/2023
 
@@ -1717,7 +1727,7 @@ English (EN) (274.66 KB - PDF)
 
 [European Medicines Agency updates on safety of Pradaxa](/en/news/european-medicines-agency-updates-safety-pradaxa) 18/11/2011
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1729,7 +1739,7 @@ English (EN) (830.13 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/pradaxa-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-457)
+[Other languages (24)](#file-language-dropdown-738)
 
 български (BG) (688.62 KB - DOCX)
 
@@ -1923,15 +1933,11 @@ svenska (SV) (614.67 KB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/pradaxa-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Pradaxa
+## More information on Pradaxa
 
 No change is needed in use of direct oral anticoagulants following EMA-funded study
 
 Reference Number: EMA/94424/2020
-
-Summary:
-
-No change to the conditions of use of the direct oral anticoagulants Eliquis (apixaban), Pradaxa (dabigatran etexilate) and Xarelto (rivaroxaban) is needed following a review of the results of a European study of real-world data for these medicines.
 
 English (EN) (160.71 KB - PDF)
 
@@ -1961,11 +1967,11 @@ English (EN) (537.56 KB - PDF)
 
 [View](/en/documents/other/pradaxa-product-information-approved-chmp-24-may-2012-pending-endorsement-european-commission_en.pdf)
 
-#### Related content
+## Related content
 
 - [Direct oral anticoagulants (DOACs) - Article 5(3) opinion](/en/human-regulatory-overview/post-authorisation/referral-procedures-human-medicines/article-53-opinions-any-scientific-matter-human-medicines)
 
-#### More information on Pradaxa
+## More information on Pradaxa
 
 - [EMEA-000081-PIP01-07-M11 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000081-pip01-07-m11)
 - [Relationship of Advanced Holding Education and ADherence on antithrombotic in younger NVAF patients (ReAHEAD) - post-authorisation study](https://catalogues.ema.europa.eu/study/36808)
@@ -1987,11 +1993,11 @@ English (EN) (537.56 KB - PDF)
 - [Oral Anticoagulant Use in Patients with Non Valvular Atrial Fibrillation: Analysis of Electronic Medical Record Data - post-authorisation study](https://catalogues.ema.europa.eu/study/17685)
 - [The Comparative Safety and Effectiveness of Warfarin and Dabigatran Utilized in the Department of Defense (DoD) Non-Valvular Atrial Fibrillation (NVAF) Patient Population-A Retrospective Database Analysis - post-authorisation study](https://catalogues.ema.europa.eu/study/9772)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 16/12/2025
+**This page was last updated on** 13/03/2026
 
 ## Share this page
 

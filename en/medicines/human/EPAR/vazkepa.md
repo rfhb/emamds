@@ -1,102 +1,26 @@
 ---
-document_datetime: 2026-02-05 15:10:00
+document_datetime: 2026-03-13 16:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vazkepa.html
 document_name: vazkepa.html
 version: success
-processing_time: 0.0962805
-conversion_datetime: 2026-02-09 22:05:41.440837
+processing_time: 0.0978081
+conversion_datetime: 2026-03-17 19:35:55.082916
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.1
-  docling: 2.72.0
-  docling-core: 2.63.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.80.0
+  docling-core: 2.70.1
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [Glossaries](/en/about-us/glossaries)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Vazkepa
-
 # Vazkepa
 
 [RSS](/en/individual-human-medicine.xml/67429)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -179,7 +103,7 @@ English (EN) (135.97 KB - PDF)
 
 [View](/en/documents/overview/vazkepa-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-494)
+[Other languages (21)](#file-language-dropdown-397)
 
 български (BG) (158.95 KB - PDF)
 
@@ -361,17 +285,17 @@ English (EN) (226.11 KB - PDF)
 
 Vazkepa : EPAR - Product information
 
-English (EN) (214.48 KB - PDF)
+English (EN) (301.08 KB - PDF)
 
 **First published:** 14/04/2021
 
-**Last updated:** 05/02/2026
+**Last updated:** 13/03/2026
 
 [View](/en/documents/product-information/vazkepa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-687)
+[Other languages (24)](#file-language-dropdown-248)
 
-български (BG) (385.25 KB - PDF)
+български (BG) (494.57 KB - PDF)
 
 **First published:**
 
@@ -379,11 +303,11 @@ English (EN) (214.48 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/bg/documents/product-information/vazkepa-epar-product-information_bg.pdf)
 
-español (ES) (230.28 KB - PDF)
+español (ES) (328.47 KB - PDF)
 
 **First published:**
 
@@ -391,11 +315,11 @@ español (ES) (230.28 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/es/documents/product-information/vazkepa-epar-product-information_es.pdf)
 
-čeština (CS) (347.67 KB - PDF)
+čeština (CS) (446.79 KB - PDF)
 
 **First published:**
 
@@ -403,11 +327,11 @@ español (ES) (230.28 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/cs/documents/product-information/vazkepa-epar-product-information_cs.pdf)
 
-dansk (DA) (223.6 KB - PDF)
+dansk (DA) (328.98 KB - PDF)
 
 **First published:**
 
@@ -415,11 +339,11 @@ dansk (DA) (223.6 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/da/documents/product-information/vazkepa-epar-product-information_da.pdf)
 
-Deutsch (DE) (260.46 KB - PDF)
+Deutsch (DE) (358.96 KB - PDF)
 
 **First published:**
 
@@ -427,11 +351,11 @@ Deutsch (DE) (260.46 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/de/documents/product-information/vazkepa-epar-product-information_de.pdf)
 
-eesti keel (ET) (229.42 KB - PDF)
+eesti keel (ET) (324.24 KB - PDF)
 
 **First published:**
 
@@ -439,11 +363,11 @@ eesti keel (ET) (229.42 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/et/documents/product-information/vazkepa-epar-product-information_et.pdf)
 
-ελληνικά (EL) (377.23 KB - PDF)
+ελληνικά (EL) (483.33 KB - PDF)
 
 **First published:**
 
@@ -451,11 +375,11 @@ eesti keel (ET) (229.42 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/el/documents/product-information/vazkepa-epar-product-information_el.pdf)
 
-français (FR) (236.78 KB - PDF)
+français (FR) (334.38 KB - PDF)
 
 **First published:**
 
@@ -463,11 +387,11 @@ français (FR) (236.78 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/fr/documents/product-information/vazkepa-epar-product-information_fr.pdf)
 
-hrvatski (HR) (321.31 KB - PDF)
+hrvatski (HR) (416.92 KB - PDF)
 
 **First published:**
 
@@ -475,11 +399,11 @@ hrvatski (HR) (321.31 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/hr/documents/product-information/vazkepa-epar-product-information_hr.pdf)
 
-íslenska (IS) (216.07 KB - PDF)
+íslenska (IS) (310.03 KB - PDF)
 
 **First published:**
 
@@ -487,11 +411,11 @@ hrvatski (HR) (321.31 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/is/documents/product-information/vazkepa-epar-product-information_is.pdf)
 
-italiano (IT) (256.87 KB - PDF)
+italiano (IT) (348.72 KB - PDF)
 
 **First published:**
 
@@ -499,11 +423,11 @@ italiano (IT) (256.87 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/it/documents/product-information/vazkepa-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (348.45 KB - PDF)
+latviešu valoda (LV) (445.09 KB - PDF)
 
 **First published:**
 
@@ -511,11 +435,11 @@ latviešu valoda (LV) (348.45 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/lv/documents/product-information/vazkepa-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (321.15 KB - PDF)
+lietuvių kalba (LT) (420.58 KB - PDF)
 
 **First published:**
 
@@ -523,11 +447,11 @@ lietuvių kalba (LT) (321.15 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/lt/documents/product-information/vazkepa-epar-product-information_lt.pdf)
 
-magyar (HU) (356.85 KB - PDF)
+magyar (HU) (458.07 KB - PDF)
 
 **First published:**
 
@@ -535,11 +459,11 @@ magyar (HU) (356.85 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/hu/documents/product-information/vazkepa-epar-product-information_hu.pdf)
 
-Malti (MT) (354.59 KB - PDF)
+Malti (MT) (454.64 KB - PDF)
 
 **First published:**
 
@@ -547,11 +471,11 @@ Malti (MT) (354.59 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/mt/documents/product-information/vazkepa-epar-product-information_mt.pdf)
 
-Nederlands (NL) (240.57 KB - PDF)
+Nederlands (NL) (338.02 KB - PDF)
 
 **First published:**
 
@@ -559,11 +483,11 @@ Nederlands (NL) (240.57 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/nl/documents/product-information/vazkepa-epar-product-information_nl.pdf)
 
-norsk (NO) (204.99 KB - PDF)
+norsk (NO) (292.38 KB - PDF)
 
 **First published:**
 
@@ -571,11 +495,11 @@ norsk (NO) (204.99 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/no/documents/product-information/vazkepa-epar-product-information_no.pdf)
 
-polski (PL) (343.43 KB - PDF)
+polski (PL) (442.24 KB - PDF)
 
 **First published:**
 
@@ -583,11 +507,11 @@ polski (PL) (343.43 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/pl/documents/product-information/vazkepa-epar-product-information_pl.pdf)
 
-português (PT) (214.22 KB - PDF)
+português (PT) (300.64 KB - PDF)
 
 **First published:**
 
@@ -595,11 +519,11 @@ português (PT) (214.22 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/pt/documents/product-information/vazkepa-epar-product-information_pt.pdf)
 
-română (RO) (340.69 KB - PDF)
+română (RO) (440.41 KB - PDF)
 
 **First published:**
 
@@ -607,11 +531,11 @@ română (RO) (340.69 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/ro/documents/product-information/vazkepa-epar-product-information_ro.pdf)
 
-slovenčina (SK) (322.34 KB - PDF)
+slovenčina (SK) (421.86 KB - PDF)
 
 **First published:**
 
@@ -619,11 +543,11 @@ slovenčina (SK) (322.34 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/sk/documents/product-information/vazkepa-epar-product-information_sk.pdf)
 
-slovenščina (SL) (364.88 KB - PDF)
+slovenščina (SL) (468.19 KB - PDF)
 
 **First published:**
 
@@ -631,11 +555,11 @@ slovenščina (SL) (364.88 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/sl/documents/product-information/vazkepa-epar-product-information_sl.pdf)
 
-Suomi (FI) (208.47 KB - PDF)
+Suomi (FI) (302.05 KB - PDF)
 
 **First published:**
 
@@ -643,11 +567,11 @@ Suomi (FI) (208.47 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/fi/documents/product-information/vazkepa-epar-product-information_fi.pdf)
 
-svenska (SV) (230.83 KB - PDF)
+svenska (SV) (326.59 KB - PDF)
 
 **First published:**
 
@@ -655,11 +579,11 @@ svenska (SV) (230.83 KB - PDF)
 
 **Last updated:**
 
-05/02/2026
+13/03/2026
 
 [View](/sv/documents/product-information/vazkepa-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** R/0000275813 15/01/2025
+**Latest procedure affecting product information:** T/0000326784 09/03/2026
 
 icon globe
 
@@ -685,7 +609,7 @@ English (EN) (6.95 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vazkepa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-536)
+[Other languages (24)](#file-language-dropdown-477)
 
 български (BG) (31.08 KB - PDF)
 
@@ -997,11 +921,11 @@ This medicine is under additional monitoring, meaning that it is monitored even 
 
 Marketing authorisation holder
 
-Amarin Pharmaceuticals Ireland Limited
+Recordati Industria Chimica e Farmaceutica S.p.A.
 
-88 Harcourt Street
+Via Matteo Civitali 20148 Milan Italy
 
-Opinion adopted 28/01/2021 Marketing authorisation issued 26/03/2021 Revision 8
+Opinion adopted 28/01/2021 Marketing authorisation issued 26/03/2021 Revision 9
 
 ## Assessment history
 
@@ -1013,9 +937,11 @@ Collapse section
 
 Vazkepa : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (148.02 KB - PDF)
+English (EN) (151.21 KB - PDF)
 
 **First published:** 05/02/2026
+
+**Last updated:** 13/03/2026
 
 [View](/en/documents/procedural-steps-after/vazkepa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1063,11 +989,11 @@ English (EN) (184.45 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-vazkepa_en.pdf)
 
-#### News on Vazkepa
+## News on Vazkepa
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-29 January 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-29-january-2021) 29/01/2021
 
-**This page was last updated on** 05/02/2026
+**This page was last updated on** 13/03/2026
 
 ## Share this page
 

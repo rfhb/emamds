@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:03:50
+document_datetime: 2026-03-10 16:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lydisilka.html
 document_name: lydisilka.html
 version: success
-processing_time: 0.1051275
-conversion_datetime: 2025-12-29 23:31:00.683448
+processing_time: 0.0967148
+conversion_datetime: 2026-03-17 18:56:33.137579
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.80.0
+  docling-core: 2.70.1
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Lydisilka
 
 [RSS](/en/individual-human-medicine.xml/67444)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 estetrol / drospirenone Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +102,7 @@ English (EN) (104.77 KB - PDF)
 
 [View](/en/documents/overview/lydisilka-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-699)
+[Other languages (22)](#file-language-dropdown-150)
 
 български (BG) (130.96 KB - PDF)
 
@@ -294,17 +292,17 @@ English (EN) (174.05 KB - PDF)
 
 Lydisilka : EPAR - Product information
 
-English (EN) (592.84 KB - PDF)
+English (EN) (622.58 KB - PDF)
 
 **First published:** 02/06/2021
 
-**Last updated:** 28/03/2025
+**Last updated:** 10/03/2026
 
 [View](/en/documents/product-information/lydisilka-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-77)
+[Other languages (24)](#file-language-dropdown-299)
 
-български (BG) (1.04 MB - PDF)
+български (BG) (901.06 KB - PDF)
 
 **First published:**
 
@@ -312,11 +310,11 @@ English (EN) (592.84 KB - PDF)
 
 **Last updated:**
 
-28/03/2025
+10/03/2026
 
 [View](/bg/documents/product-information/lydisilka-epar-product-information_bg.pdf)
 
-español (ES) (850.93 KB - PDF)
+español (ES) (771.22 KB - PDF)
 
 **First published:**
 
@@ -324,11 +322,11 @@ español (ES) (850.93 KB - PDF)
 
 **Last updated:**
 
-28/03/2025
+10/03/2026
 
 [View](/es/documents/product-information/lydisilka-epar-product-information_es.pdf)
 
-čeština (CS) (892.73 KB - PDF)
+čeština (CS) (820.07 KB - PDF)
 
 **First published:**
 
@@ -336,11 +334,11 @@ español (ES) (850.93 KB - PDF)
 
 **Last updated:**
 
-28/03/2025
+10/03/2026
 
 [View](/cs/documents/product-information/lydisilka-epar-product-information_cs.pdf)
 
-dansk (DA) (885.27 KB - PDF)
+dansk (DA) (800.37 KB - PDF)
 
 **First published:**
 
@@ -348,11 +346,11 @@ dansk (DA) (885.27 KB - PDF)
 
 **Last updated:**
 
-28/03/2025
+10/03/2026
 
 [View](/da/documents/product-information/lydisilka-epar-product-information_da.pdf)
 
-Deutsch (DE) (954.23 KB - PDF)
+Deutsch (DE) (832.21 KB - PDF)
 
 **First published:**
 
@@ -360,11 +358,11 @@ Deutsch (DE) (954.23 KB - PDF)
 
 **Last updated:**
 
-28/03/2025
+10/03/2026
 
 [View](/de/documents/product-information/lydisilka-epar-product-information_de.pdf)
 
-eesti keel (ET) (786.82 KB - PDF)
+eesti keel (ET) (742.57 KB - PDF)
 
 **First published:**
 
@@ -372,11 +370,11 @@ eesti keel (ET) (786.82 KB - PDF)
 
 **Last updated:**
 
-28/03/2025
+10/03/2026
 
 [View](/et/documents/product-information/lydisilka-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.08 MB - PDF)
+ελληνικά (EL) (828.09 KB - PDF)
 
 **First published:**
 
@@ -384,11 +382,11 @@ eesti keel (ET) (786.82 KB - PDF)
 
 **Last updated:**
 
-28/03/2025
+10/03/2026
 
 [View](/el/documents/product-information/lydisilka-epar-product-information_el.pdf)
 
-français (FR) (920.25 KB - PDF)
+français (FR) (818.23 KB - PDF)
 
 **First published:**
 
@@ -396,11 +394,11 @@ français (FR) (920.25 KB - PDF)
 
 **Last updated:**
 
-28/03/2025
+10/03/2026
 
 [View](/fr/documents/product-information/lydisilka-epar-product-information_fr.pdf)
 
-hrvatski (HR) (873.74 KB - PDF)
+hrvatski (HR) (791.85 KB - PDF)
 
 **First published:**
 
@@ -408,11 +406,11 @@ hrvatski (HR) (873.74 KB - PDF)
 
 **Last updated:**
 
-28/03/2025
+10/03/2026
 
 [View](/hr/documents/product-information/lydisilka-epar-product-information_hr.pdf)
 
-íslenska (IS) (834.21 KB - PDF)
+íslenska (IS) (757.75 KB - PDF)
 
 **First published:**
 
@@ -420,11 +418,11 @@ hrvatski (HR) (873.74 KB - PDF)
 
 **Last updated:**
 
-28/03/2025
+10/03/2026
 
 [View](/is/documents/product-information/lydisilka-epar-product-information_is.pdf)
 
-italiano (IT) (897.29 KB - PDF)
+italiano (IT) (771.99 KB - PDF)
 
 **First published:**
 
@@ -432,11 +430,11 @@ italiano (IT) (897.29 KB - PDF)
 
 **Last updated:**
 
-28/03/2025
+10/03/2026
 
 [View](/it/documents/product-information/lydisilka-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1015.48 KB - PDF)
+latviešu valoda (LV) (848.26 KB - PDF)
 
 **First published:**
 
@@ -444,11 +442,11 @@ latviešu valoda (LV) (1015.48 KB - PDF)
 
 **Last updated:**
 
-28/03/2025
+10/03/2026
 
 [View](/lv/documents/product-information/lydisilka-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (852.89 KB - PDF)
+lietuvių kalba (LT) (749.12 KB - PDF)
 
 **First published:**
 
@@ -456,11 +454,11 @@ lietuvių kalba (LT) (852.89 KB - PDF)
 
 **Last updated:**
 
-28/03/2025
+10/03/2026
 
 [View](/lt/documents/product-information/lydisilka-epar-product-information_lt.pdf)
 
-magyar (HU) (915.96 KB - PDF)
+magyar (HU) (825.38 KB - PDF)
 
 **First published:**
 
@@ -468,11 +466,11 @@ magyar (HU) (915.96 KB - PDF)
 
 **Last updated:**
 
-28/03/2025
+10/03/2026
 
 [View](/hu/documents/product-information/lydisilka-epar-product-information_hu.pdf)
 
-Malti (MT) (1.05 MB - PDF)
+Malti (MT) (922.79 KB - PDF)
 
 **First published:**
 
@@ -480,11 +478,11 @@ Malti (MT) (1.05 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+10/03/2026
 
 [View](/mt/documents/product-information/lydisilka-epar-product-information_mt.pdf)
 
-Nederlands (NL) (915.81 KB - PDF)
+Nederlands (NL) (785.81 KB - PDF)
 
 **First published:**
 
@@ -492,11 +490,11 @@ Nederlands (NL) (915.81 KB - PDF)
 
 **Last updated:**
 
-28/03/2025
+10/03/2026
 
 [View](/nl/documents/product-information/lydisilka-epar-product-information_nl.pdf)
 
-norsk (NO) (872.73 KB - PDF)
+norsk (NO) (745.47 KB - PDF)
 
 **First published:**
 
@@ -504,11 +502,11 @@ norsk (NO) (872.73 KB - PDF)
 
 **Last updated:**
 
-28/03/2025
+10/03/2026
 
 [View](/no/documents/product-information/lydisilka-epar-product-information_no.pdf)
 
-polski (PL) (998.78 KB - PDF)
+polski (PL) (901.42 KB - PDF)
 
 **First published:**
 
@@ -516,11 +514,11 @@ polski (PL) (998.78 KB - PDF)
 
 **Last updated:**
 
-28/03/2025
+10/03/2026
 
 [View](/pl/documents/product-information/lydisilka-epar-product-information_pl.pdf)
 
-português (PT) (835.23 KB - PDF)
+português (PT) (775.33 KB - PDF)
 
 **First published:**
 
@@ -528,11 +526,11 @@ português (PT) (835.23 KB - PDF)
 
 **Last updated:**
 
-28/03/2025
+10/03/2026
 
 [View](/pt/documents/product-information/lydisilka-epar-product-information_pt.pdf)
 
-română (RO) (1.03 MB - PDF)
+română (RO) (887.74 KB - PDF)
 
 **First published:**
 
@@ -540,11 +538,11 @@ română (RO) (1.03 MB - PDF)
 
 **Last updated:**
 
-17/09/2025
+10/03/2026
 
 [View](/ro/documents/product-information/lydisilka-epar-product-information_ro.pdf)
 
-slovenčina (SK) (895.62 KB - PDF)
+slovenčina (SK) (813.54 KB - PDF)
 
 **First published:**
 
@@ -552,11 +550,11 @@ slovenčina (SK) (895.62 KB - PDF)
 
 **Last updated:**
 
-28/03/2025
+10/03/2026
 
 [View](/sk/documents/product-information/lydisilka-epar-product-information_sk.pdf)
 
-slovenščina (SL) (842.31 KB - PDF)
+slovenščina (SL) (780.96 KB - PDF)
 
 **First published:**
 
@@ -564,11 +562,11 @@ slovenščina (SL) (842.31 KB - PDF)
 
 **Last updated:**
 
-28/03/2025
+10/03/2026
 
 [View](/sl/documents/product-information/lydisilka-epar-product-information_sl.pdf)
 
-Suomi (FI) (889.47 KB - PDF)
+Suomi (FI) (768.82 KB - PDF)
 
 **First published:**
 
@@ -576,11 +574,11 @@ Suomi (FI) (889.47 KB - PDF)
 
 **Last updated:**
 
-28/03/2025
+10/03/2026
 
 [View](/fi/documents/product-information/lydisilka-epar-product-information_fi.pdf)
 
-svenska (SV) (865.71 KB - PDF)
+svenska (SV) (752.29 KB - PDF)
 
 **First published:**
 
@@ -588,11 +586,11 @@ svenska (SV) (865.71 KB - PDF)
 
 **Last updated:**
 
-28/03/2025
+10/03/2026
 
 [View](/sv/documents/product-information/lydisilka-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0026 26/02/2025
+**Latest procedure affecting product information:** VR/0000280122 05/02/2026
 
 icon globe
 
@@ -616,7 +614,7 @@ English (EN) (44.67 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lydisilka-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-630)
+[Other languages (24)](#file-language-dropdown-864)
 
 български (BG) (61.18 KB - PDF)
 
@@ -848,7 +846,7 @@ Estetra SPRL
 
 Rue Saint-Georges 5
 
-Opinion adopted 25/03/2021 Marketing authorisation issued 19/05/2021 Revision 7
+Opinion adopted 25/03/2021 Marketing authorisation issued 19/05/2021 Revision 8
 
 ## Assessment history
 
@@ -860,13 +858,21 @@ Collapse section
 
 Lydisilka : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (148.49 KB - PDF)
+
+**First published:** 10/03/2026
+
+[View](/en/documents/procedural-steps-after/lydisilka-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Lydisilka : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (186.78 KB - PDF)
 
 **First published:** 29/11/2021
 
-**Last updated:** 28/03/2025
+**Last updated:** 10/03/2026
 
-[View](/en/documents/procedural-steps-after/lydisilka-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/lydisilka-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Lydisilka : EPAR - Statement indicating compliance with the agreed completed paediatric investigation plan
 
@@ -904,16 +910,16 @@ English (EN) (119.11 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-lydisilka_en.pdf)
 
-#### News on Lydisilka
+## News on Lydisilka
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 March 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-march-2021) 26/03/2021
 
-#### More information on Lydisilka
+## More information on Lydisilka
 
 - [EMEA-001332-PIP01-12-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001332-pip01-12-m06)
 - [International Active Surveillance Study: Native Estrogen Estetrol (E4) Safety Study (INAS-NEES) - post-authorisation study](https://catalogues.ema.europa.eu/study/49985)
 
-**This page was last updated on** 28/03/2025
+**This page was last updated on** 10/03/2026
 
 ## Share this page
 

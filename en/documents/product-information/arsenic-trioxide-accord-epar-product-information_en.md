@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-12-05 13:18:06
+document_datetime: 2026-03-13 11:17:04
 document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/arsenic-trioxide-accord-epar-product-information_en.pdf
 document_name: arsenic-trioxide-accord-epar-product-information_en.pdf
 version: success
-processing_time: 8.333081
-conversion_datetime: 2025-12-15 00:13:26.265731
+processing_time: 9.4386749
+conversion_datetime: 2026-03-17 19:29:33.370312
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.80.0
+  docling-core: 2.70.1
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -36,7 +36,7 @@ For the full list of excipients, see section 6.1
 
 Concentrate for solution for infusion
 
-Sterile, clear, colourless, aqueous solution, free from particles having a pH range of 7.7 - 8.3.
+Sterile, clear, colourless, aqueous solution, free from particles having a pH range of 7.7 -8.3.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -169,10 +169,10 @@ In newly diagnosed and relapsed/refractory APL patients who develop sustained le
 
 Table 1 Recommendation for initiation of hydroxyurea
 
-| WBC              | Hydroxyurea              |
-|------------------|--------------------------|
-| 10-50 x 10 3 /µl | 500 mg four times a day  |
-| > 50 x 10 3 /µl  | 1000 mg four times a day |
+| WBC                | Hydroxyurea              |
+|--------------------|--------------------------|
+| 10 - 50 x 10 3 /µl | 500 mg four times a day  |
+| > 50 x 10 3 /µl    | 1000 mg four times a day |
 
 ## Development of second primary malignancies
 
@@ -184,7 +184,7 @@ Cases of encephalopathy were reported with treatment with arsenic trioxide. Wern
 
 ## Excipient with known effect
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ' sodium-free ' .
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -254,25 +254,24 @@ Within each frequency grouping, undesirable effects are presented in order of de
 
 Table 2
 
-|                                                                     | All grades                         | Grades ≥ 3          |
-|---------------------------------------------------------------------|------------------------------------|---------------------|
-| Infections and infestations                                         |                                    |                     |
-| Herpes zoster Sepsis                                                | Common Not known                   | Not known Not known |
-| Blood and lymphatic system disorders                                |                                    |                     |
-| Febrile neutropenia Thrombocytopenia Anaemia Leukopenia Lymphopenia | Common Common Common Common Common | Common Common       |
-| Leukocytosis                                                        |                                    |                     |
-| Neutropenia                                                         |                                    | Common              |
-| Pancytopenia                                                        |                                    | Common              |
-|                                                                     |                                    | Common              |
-|                                                                     | Common                             |                     |
-|                                                                     |                                    | Not known           |
-|                                                                     | Not known                          | Not known           |
-|                                                                     | Not known                          | Not known           |
-| Metabolism and nutrition disorders                                  |                                    |                     |
-| Hyperglycaemia                                                      | Very common                        | Very common         |
-| Hypokalaemia                                                        | Very common                        | Very common         |
-| Hypomagnesaemia                                                     | Very common                        | Common              |
-| Hypernatraemia                                                      | Common                             | Common              |
+|                                                           | All grades           | Grades ≥ 3          |
+|-----------------------------------------------------------|----------------------|---------------------|
+| Infections and infestations                               |                      |                     |
+| Herpes zoster Sepsis                                      | Common Not known     | Not known Not known |
+| Blood and lymphatic system disorders                      |                      |                     |
+| Febrile neutropenia Leukocytosis Neutropenia Pancytopenia | Common Common Common | Common Common       |
+|                                                           |                      | Common              |
+|                                                           | Common               | Common              |
+| Thrombocytopenia                                          | Common Common        |                     |
+| Anaemia                                                   |                      | Common              |
+|                                                           |                      | Not known           |
+| Leukopenia                                                | Not known            | Not known           |
+| Lymphopenia                                               | Not known            | Not known           |
+| Metabolism and nutrition disorders                        |                      |                     |
+| Hyperglycaemia                                            | Very common          | Very common         |
+| Hypokalaemia                                              | Very common          | Very common         |
+| Hypomagnesaemia                                           | Very common          | Common              |
+| Hypernatraemia                                            | Common               | Common              |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -331,17 +330,17 @@ Table 2
 
 <div style=\"page-break-after: always\"></div>
 
-|                                       | All grades                     | Grades ≥ 3                 |
-|---------------------------------------|--------------------------------|----------------------------|
-| Fatigue Oedema Chest pain             | Very common Very common Common | Not known Not known Common |
-| Investigations                        |                                |                            |
-| Alanine amino transferase increased   | Very common                    | Common                     |
-| Aspartate amino transferase increased | Very common                    | Common                     |
-| Electrocardiogram QT prolonged        | Very common                    | Common                     |
-| Hyperbilirubinaemia                   | Common                         | Common                     |
-| Blood creatinine increased            | Common                         | Not known                  |
-| Weight increased                      | Common                         | Not known                  |
-| Gamma-glutamyltransferase increased*  | Not known*                     | Not known*                 |
+|                                       | All grades              | Grades ≥ 3          |
+|---------------------------------------|-------------------------|---------------------|
+| Fatigue Oedema                        | Very common Very common | Not known Not known |
+| Investigations                        |                         |                     |
+| Alanine amino transferase increased   | Very common             | Common              |
+| Aspartate amino transferase increased | Very common             | Common              |
+| Electrocardiogram QT prolonged        | Very common             | Common              |
+| Hyperbilirubinaemia                   | Common                  | Common              |
+| Blood creatinine increased            | Common                  | Not known           |
+| Weight increased                      | Common                  | Not known           |
+| Gamma-glutamyltransferase increased*  | Not known*              | Not known*          |
 
 * In the CALGB study C9710, 2 cases of grade ≥3 increased GGT were reported out of the 200 patients who received arsenic trioxide consolidation cycles (cycle 1 and cycle 2) versus none in the control arm.
 
@@ -399,13 +398,13 @@ Pharmacotherapeutic group: Other antineoplastic agents, ATC code: L01XX27
 
 <div style=\"page-break-after: always\"></div>
 
-The mechanism of action of arsenic trioxide is not completely understood. Arsenic trioxide causes morphological changes and deoxyribonucleic acid (DNA) fragmentation characteristic of apoptosis in NB4 human promyelocytic leukaemia cells in vitro . Arsenic trioxide also causes damage or degradation of the fusion protein  promyelocytic leukaemia/retinoic acid receptor-alpha (PML/RAR alpha).
+The mechanism of action of arsenic trioxide is not completely understood. Arsenic trioxide causes morphological changes and deoxyribonucleic acid (DNA) fragmentation characteristic of apoptosis in NB4 human promyelocytic leukaemia cells in vitro . Arsenic trioxide also causes damage or degradation of the fusion protein promyelocytic leukaemia/retinoic acid receptor-alpha (PML/RAR alpha).
 
 ## Clinical efficacy and safety
 
 ## Newly diagnosed non high risk APL patients
 
-Arsenic trioxide has been investigated in 77 newly diagnosed patients with low to intermediate risk APL, in a controlled, randomized, non-inferiority Phase 3 clinical study comparing the efficacy and safety of arsenic trioxide combined with alltrans -retinoic acid (ATRA) with those of ATRA+chemotherapy (eg, idarubicin and mitoxantrone) (Study APL0406). Patients with newly diagnosed APL confirmed by the presence of t(15; 17) or PML-RARα by RT-PCR or micro speckled PML nuclear distribution in leukaemic cells were included. No data are available on patient with variant translocations like t(11;17) (PLZF/RARα). Patients with significant arrhythmias, EKG abnormalities (congenital long QT syndrome, history or presence of significant ventricular or atrial tachyarrhythmia, clinically significant resting bradycardia (&lt;50 beats per minute), QTc &gt; 450 msec on screening EKG, right bundle branch block plus left anterior hemiblock, bifascicular block) or neuropathy were excluded from the study. Patients in the ATRA+ arsenic trioxide treatment group received oral ATRA at 45 mg/m 2 daily and iv arsenic trioxide at 0.15 mg/kg daily until CR. During consolidation, ATRA was given at the same dose for periods of 2 weeks on and 2 weeks off for a total of 7 courses, and arsenic trioxide was given at the same dose 5 days per week, 4 weeks on and 4 weeks off, for a total of 4 courses. Patients in the ATRA+chemotherapy treatment group received iv idarubicin at 12 mg/m 2  on days 2, 4, 6, and 8 and oral ATRA at 45 mg/m 2  daily until CR. During consolidation, patients received idarubicin at 5 mg/m 2  on days 1 to 4 and ATRA at 45 mg/m 2 daily for 15 days, then iv mitoxantrone at 10 mg/m 2 on days 1 to 5 and ATRA again at 45 mg/m 2   daily for 15 days, and finally a single dose of idarubicin at 12 mg/m 2 and ATRA at 45 mg/m 2  daily for 15 days. Each course of consolidation was initiated at haematological recovery from the previous course defined as absolute neutrophil count &gt;1.5×10 9 /L and platelets &gt;100×10 9 /L. Patients in the ATRA+chemotherapy treatment group also received maintenance treatment for up to 2 years, consisting of oral 6-mercaptopurine at 50 mg/m 2 daily, intramuscular methotrexate at 15 mg/m 2 weekly, and ATRA at 45 mg/m 2  daily for 15 days every 3 months.
+Arsenic trioxide has been investigated in 77 newly diagnosed patients with low to intermediate risk APL, in a controlled, randomized, non-inferiority Phase 3 clinical study comparing the efficacy and safety of arsenic trioxide combined with alltrans -retinoic acid (ATRA) with those of ATRA+chemotherapy (eg, idarubicin and mitoxantrone) (Study APL0406). Patients with newly diagnosed APL confirmed by the presence of t(15; 17) or PMLRARα by RT-PCR or micro speckled PML nuclear distribution in leukaemic cells were included. No data are available on patient with variant translocations like t(11;17) (PLZF/ RARα ). Patients with significant arrhythmias, EKG abnormalities (congenital long QT syndrome, history or presence of significant ventricular or atrial tachyarrhythmia, clinically significant resting bradycardia (&lt;50 beats per minute), QTc &gt; 450 msec on screening EKG, right bundle branch block plus left anterior hemiblock, bifascicular block) or neuropathy were excluded from the study. Patients in the ATRA+ arsenic trioxide treatment group received oral ATRA at 45 mg/m 2 daily and iv arsenic trioxide at 0.15 mg/kg daily until CR. During consolidation, ATRA was given at the same dose for periods of 2 weeks on and 2 weeks off for a total of 7 courses, and arsenic trioxide was given at the same dose 5 days per week, 4 weeks on and 4 weeks off, for a total of 4 courses. Patients in the ATRA+chemotherapy treatment group received iv idarubicin at 12 mg/m 2  on days 2, 4, 6, and 8 and oral ATRA at 45 mg/m 2  daily until CR. During consolidation, patients received idarubicin at 5 mg/m 2  on days 1 to 4 and ATRA at 45 mg/m 2 daily for 15 days, then iv mitoxantrone at 10 mg/m 2 on days 1 to 5 and ATRA again at 45 mg/m 2   daily for 15 days, and finally a single dose of idarubicin at 12 mg/m 2 and ATRA at 45 mg/m 2  daily for 15 days. Each course of consolidation was initiated at haematological recovery from the previous course defined as absolute neutrophil count &gt;1.5×10 9 /L and platelets &gt;100×10 9 /L. Patients in the ATRA+chemotherapy treatment group also received maintenance treatment for up to 2 years, consisting of oral 6-mercaptopurine at 50 mg/m 2 daily, intramuscular methotrexate at 15 mg/m 2 weekly, and ATRA at 45 mg/m 2  daily for 15 days every 3 months.
 
 The key efficacy results are summarised in table 3 below:
 
@@ -530,7 +529,7 @@ In the absence of incompatibility studies, this medicinal product must not be mi
 
 ## 6.3 Shelf life
 
-Unopened vial 3 years
+Unopened vial 4 years
 
 After first opening Once opened the product should be used immediately.
 
@@ -582,7 +581,13 @@ EU/1/19/1398/001 (pack of 1 vial) EU/1/19/1398/002 (pack of 5 vials) EU/1/19/139
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 14 th  November 2019
+Date of first authorisation: 14
+
+th  November 2019
+
+Date of latest renewal: 19
+
+th  September 2024
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -724,7 +729,7 @@ Lot
 
 Justification for not including Braille accepted
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -735,6 +740,8 @@ PC
 SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
 
@@ -759,8 +766,6 @@ Lot
 ## 6. OTHER
 
 Cytotoxic
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -876,7 +881,7 @@ you should wait until the symptoms go away before driving or using machines.
 
 ## Arsenic trioxide Accord contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose. This means that the medicine is essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose. This means that the medicine is essentially 'sodium -free'.
 
 ## 3. How Arsenic trioxide Accord is given
 
@@ -996,19 +1001,17 @@ Accord Healthcare Polska Sp.z o.o., ul. Lutomierska 50, 95-200 Pabianice, Poland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-AT / BE / BG / CY / CZ / DE / DK / EE / FI / FR / HR / HU / IE / IS / IT / LT / LV / LX / MT / NL / NO / PT / PL / RO / SE / SI / SK / ES
-
-Accord Healthcare S.L.U.
+AT / BE / BG / CY / CZ / DE / DK / EE / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PT / PL / RO / SE / SI / SK / ES Accord Healthcare S.L.U.
 
 Tel: +34 93 301 00 64
 
 EL
 
-Win Medica Pharmaceutical S.A.
-
-<div style=\"page-break-after: always\"></div>
+Win Medica A.E.
 
 Tel: +30 210 7488 821
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in {MM/YYYY}
 

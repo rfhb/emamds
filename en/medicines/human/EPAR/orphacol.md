@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-02-16 14:55:00
+document_datetime: 2026-03-13 16:26:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/orphacol.html
 document_name: orphacol.html
 version: success
-processing_time: 0.1156739
-conversion_datetime: 2026-02-18 17:56:12.433203
+processing_time: 0.1155697
+conversion_datetime: 2026-03-17 19:31:34.326733
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.80.0
+  docling-core: 2.70.1
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Orphacol
 
 [RSS](/en/individual-human-medicine.xml/65542)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -115,7 +115,7 @@ English (EN) (85.95 KB - PDF)
 
 [View](/en/documents/overview/orphacol-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-459)
+[Other languages (22)](#file-language-dropdown-480)
 
 български (BG) (106.45 KB - PDF)
 
@@ -393,17 +393,17 @@ English (EN) (105.97 KB - PDF)
 
 Orphacol : EPAR - Product Information
 
-English (EN) (342.45 KB - PDF)
+English (EN) (410.39 KB - PDF)
 
 **First published:** 02/10/2013
 
-**Last updated:** 16/02/2026
+**Last updated:** 13/03/2026
 
 [View](/en/documents/product-information/orphacol-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-760)
+[Other languages (24)](#file-language-dropdown-629)
 
-български (BG) (411.81 KB - PDF)
+български (BG) (488.46 KB - PDF)
 
 **First published:**
 
@@ -411,11 +411,11 @@ English (EN) (342.45 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/bg/documents/product-information/orphacol-epar-product-information_bg.pdf)
 
-español (ES) (324.83 KB - PDF)
+español (ES) (398.24 KB - PDF)
 
 **First published:**
 
@@ -423,11 +423,11 @@ español (ES) (324.83 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/es/documents/product-information/orphacol-epar-product-information_es.pdf)
 
-čeština (CS) (366.37 KB - PDF)
+čeština (CS) (436.88 KB - PDF)
 
 **First published:**
 
@@ -435,11 +435,11 @@ español (ES) (324.83 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/cs/documents/product-information/orphacol-epar-product-information_cs.pdf)
 
-dansk (DA) (357.12 KB - PDF)
+dansk (DA) (426.14 KB - PDF)
 
 **First published:**
 
@@ -447,11 +447,11 @@ dansk (DA) (357.12 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/da/documents/product-information/orphacol-epar-product-information_da.pdf)
 
-Deutsch (DE) (359.66 KB - PDF)
+Deutsch (DE) (372.8 KB - PDF)
 
 **First published:**
 
@@ -459,11 +459,11 @@ Deutsch (DE) (359.66 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/de/documents/product-information/orphacol-epar-product-information_de.pdf)
 
-eesti keel (ET) (336.43 KB - PDF)
+eesti keel (ET) (405.18 KB - PDF)
 
 **First published:**
 
@@ -471,11 +471,11 @@ eesti keel (ET) (336.43 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/et/documents/product-information/orphacol-epar-product-information_et.pdf)
 
-ελληνικά (EL) (415.62 KB - PDF)
+ελληνικά (EL) (541.96 KB - PDF)
 
 **First published:**
 
@@ -483,11 +483,11 @@ eesti keel (ET) (336.43 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/el/documents/product-information/orphacol-epar-product-information_el.pdf)
 
-français (FR) (390.48 KB - PDF)
+français (FR) (470.93 KB - PDF)
 
 **First published:**
 
@@ -495,11 +495,11 @@ français (FR) (390.48 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/fr/documents/product-information/orphacol-epar-product-information_fr.pdf)
 
-hrvatski (HR) (356.42 KB - PDF)
+hrvatski (HR) (432.56 KB - PDF)
 
 **First published:**
 
@@ -507,11 +507,11 @@ hrvatski (HR) (356.42 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/hr/documents/product-information/orphacol-epar-product-information_hr.pdf)
 
-íslenska (IS) (371.81 KB - PDF)
+íslenska (IS) (441.38 KB - PDF)
 
 **First published:**
 
@@ -519,11 +519,11 @@ hrvatski (HR) (356.42 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/is/documents/product-information/orphacol-epar-product-information_is.pdf)
 
-italiano (IT) (369.54 KB - PDF)
+italiano (IT) (441.38 KB - PDF)
 
 **First published:**
 
@@ -531,11 +531,11 @@ italiano (IT) (369.54 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/it/documents/product-information/orphacol-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (360.44 KB - PDF)
+latviešu valoda (LV) (431.95 KB - PDF)
 
 **First published:**
 
@@ -543,11 +543,11 @@ latviešu valoda (LV) (360.44 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/lv/documents/product-information/orphacol-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (347.22 KB - PDF)
+lietuvių kalba (LT) (424.91 KB - PDF)
 
 **First published:**
 
@@ -555,11 +555,11 @@ lietuvių kalba (LT) (347.22 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/lt/documents/product-information/orphacol-epar-product-information_lt.pdf)
 
-magyar (HU) (397.93 KB - PDF)
+magyar (HU) (465.4 KB - PDF)
 
 **First published:**
 
@@ -567,11 +567,11 @@ magyar (HU) (397.93 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/hu/documents/product-information/orphacol-epar-product-information_hu.pdf)
 
-Malti (MT) (411.49 KB - PDF)
+Malti (MT) (500.81 KB - PDF)
 
 **First published:**
 
@@ -579,11 +579,11 @@ Malti (MT) (411.49 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/mt/documents/product-information/orphacol-epar-product-information_mt.pdf)
 
-Nederlands (NL) (365.18 KB - PDF)
+Nederlands (NL) (426.29 KB - PDF)
 
 **First published:**
 
@@ -591,11 +591,11 @@ Nederlands (NL) (365.18 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/nl/documents/product-information/orphacol-epar-product-information_nl.pdf)
 
-norsk (NO) (343.74 KB - PDF)
+norsk (NO) (356.04 KB - PDF)
 
 **First published:**
 
@@ -603,11 +603,11 @@ norsk (NO) (343.74 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/no/documents/product-information/orphacol-epar-product-information_no.pdf)
 
-polski (PL) (374.08 KB - PDF)
+polski (PL) (442.02 KB - PDF)
 
 **First published:**
 
@@ -615,11 +615,11 @@ polski (PL) (374.08 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/pl/documents/product-information/orphacol-epar-product-information_pl.pdf)
 
-português (PT) (417.95 KB - PDF)
+português (PT) (522.19 KB - PDF)
 
 **First published:**
 
@@ -627,11 +627,11 @@ português (PT) (417.95 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/pt/documents/product-information/orphacol-epar-product-information_pt.pdf)
 
-română (RO) (360.76 KB - PDF)
+română (RO) (434.8 KB - PDF)
 
 **First published:**
 
@@ -639,11 +639,11 @@ română (RO) (360.76 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/ro/documents/product-information/orphacol-epar-product-information_ro.pdf)
 
-slovenčina (SK) (373.62 KB - PDF)
+slovenčina (SK) (440.5 KB - PDF)
 
 **First published:**
 
@@ -651,11 +651,11 @@ slovenčina (SK) (373.62 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/sk/documents/product-information/orphacol-epar-product-information_sk.pdf)
 
-slovenščina (SL) (346.63 KB - PDF)
+slovenščina (SL) (415.88 KB - PDF)
 
 **First published:**
 
@@ -663,11 +663,11 @@ slovenščina (SL) (346.63 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/sl/documents/product-information/orphacol-epar-product-information_sl.pdf)
 
-Suomi (FI) (344.07 KB - PDF)
+Suomi (FI) (412.04 KB - PDF)
 
 **First published:**
 
@@ -675,11 +675,11 @@ Suomi (FI) (344.07 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/fi/documents/product-information/orphacol-epar-product-information_fi.pdf)
 
-svenska (SV) (340.74 KB - PDF)
+svenska (SV) (407.27 KB - PDF)
 
 **First published:**
 
@@ -687,11 +687,11 @@ svenska (SV) (340.74 KB - PDF)
 
 **Last updated:**
 
-16/02/2026
+13/03/2026
 
 [View](/sv/documents/product-information/orphacol-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000324497 13/02/2026
+**Latest procedure affecting product information:** VR/0000333960 13/03/2026
 
 icon globe
 
@@ -717,7 +717,7 @@ English (EN) (81.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/orphacol-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-542)
+[Other languages (24)](#file-language-dropdown-138)
 
 български (BG) (87.45 KB - PDF)
 
@@ -1017,7 +1017,7 @@ English (EN) (41.66 KB - PDF)
 
 [View](/en/documents/conditions-member-states/orphacol-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-437)
+[Other languages (24)](#file-language-dropdown-385)
 
 български (BG) (82.69 KB - PDF)
 
@@ -1342,7 +1342,7 @@ Theravia
 
 16 rue Montrosier
 
-Opinion adopted 16/12/2010 Marketing authorisation issued 12/09/2013 Revision 16
+Opinion adopted 16/12/2010 Marketing authorisation issued 12/09/2013 Revision 17
 
 ## Assessment history
 
@@ -1354,9 +1354,11 @@ Collapse section
 
 Orphacol : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (147.43 KB - PDF)
+English (EN) (152.68 KB - PDF)
 
 **First published:** 16/02/2026
+
+**Last updated:** 13/03/2026
 
 [View](/en/documents/procedural-steps-after/orphacol-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1386,19 +1388,19 @@ English (EN) (639.35 KB - PDF)
 
 [View](/en/documents/assessment-report/orphacol-epar-public-assessment-report_en.pdf)
 
-#### More information on Orphacol
+## More information on Orphacol
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](/en/medicines/human/orphan-designations/eu-3-02-127) on 18 December 2002. Orphacol was withdrawn from the Community register of orphan medicinal products in September 2023 at the end of the 10-year period of market exclusivity.
 
-#### More information on Orphacol
+## More information on Orphacol
 
 - [Orphacol® patient surveillance database (Orphabase) - post-authorisation study](https://catalogues.ema.europa.eu/study/49962)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 16/02/2026
+**This page was last updated on** 13/03/2026
 
 ## Share this page
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-19 13:24:33
+document_datetime: 2026-03-10 11:20:42
 document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/teduglutide-viatris-epar-product-information_en.pdf
 document_name: teduglutide-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 9.2016181
-conversion_datetime: 2026-01-20 20:14:50.642872
+processing_time: 9.3502542
+conversion_datetime: 2026-03-17 18:57:27.235471
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.80.0
+  docling-core: 2.70.1
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -581,7 +581,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 Unopened powder vial
 
-18 months
+2 years
 
 Unopened solvent vial
 
@@ -655,7 +655,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 All needles and syringes should be disposed of in a sharps disposal container.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
+
+MARKETING AUTHORISATION HOLDER
 
 Viatris Limited Damastown Industrial Park Mulhuddart, Dublin 15 DUBLIN Ireland
 
@@ -663,13 +665,19 @@ Viatris Limited Damastown Industrial Park Mulhuddart, Dublin 15 DUBLIN Ireland
 
 EU/1/25/2005/001
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9.
 
-Date of first authorisation:
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-## 10. DATE OF REVISION OF THE TEXT
+Date of first authorisation: 08 January 2026
+
+10.
+
+DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+19
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1242,7 +1250,9 @@ Mylan, Lda. Tel: + 351 214 127 200
 
 ## România
 
-BGP Products SRL Tel: +40 372 579 000
+BGP Products SRL
+
+Tel: +40 372 579 000
 
 ## Slovenija
 

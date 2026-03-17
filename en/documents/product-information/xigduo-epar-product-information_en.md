@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-05-23 16:12:08
+document_datetime: 2026-03-13 09:11:51
 document_pages: 61
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/xigduo-epar-product-information_en.pdf
 document_name: xigduo-epar-product-information_en.pdf
 version: success
-processing_time: 17.1997648
-conversion_datetime: 2025-12-20 11:44:46.527319
+processing_time: 19.6877079
+conversion_datetime: 2026-03-17 19:26:33.402999
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.80.0
+  docling-core: 2.70.1
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -190,6 +190,8 @@ Treatment should be interrupted in patients who are hospitalised for major surgi
 
 Before initiating dapagliflozin, factors in the patient history that may predispose to ketoacidosis should be considered.
 
+Prolonged ketoacidosis and prolonged glucosuria have been observed with dapagliflozin. Ketoacidosis may last longer after discontinuation of dapagliflozin than expected from the plasma half-life (see section 5.2). Dapagliflozin-independent factors, such as insulin deficiency, might be involved in prolonged periods of ketoacidosis.
+
 Patients who may be at higher risk of DKA include patients with a low beta-cell function reserve (e.g. type 2 diabetes patients with low C-peptide or latent autoimmune diabetes in adults (LADA) or patients with a history of pancreatitis), patients with conditions that lead to restricted food intake or severe dehydration, patients for whom insulin doses are reduced and patients with increased insulin requirements due to acute medical illness, surgery or alcohol abuse. SGLT2 inhibitors should be used with caution in these patients.
 
 Restarting SGLT2 inhibitor treatment in patients with previous DKA while on SGLT2 inhibitor treatment is not recommended, unless another clear precipitating factor is identified and resolved.
@@ -220,11 +222,11 @@ Experience with dapagliflozin in New York Heart Association (NYHA) class IV is l
 
 Increased haematocrit has been observed with dapagliflozin treatment (see section 4.8). Patients with pronounced elevations in haematocrit should be monitored and investigated for underlying haematological disease.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Lower limb amputations
 
 An increase in cases of lower limb amputation (primarily of the toe) has been observed in ongoing long-term, clinical studies with another SGLT2 inhibitor. It is unknown whether this constitutes a class effect. Like for all diabetic patients it is important to counsel patients on routine preventative foot care.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Urine laboratory assessments
 
@@ -264,11 +266,11 @@ No interaction studies have been performed for Xigduo. The following statements 
 
 This medicinal product may add to the diuretic effect of thiazide and loop diuretics and may increase the risk of dehydration and hypotension (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Insulin and insulin secretagogues
 
 Insulin and insulin secretagogues, such as sulphonylureas, cause hypoglycaemia. Therefore, a lower dose of insulin or an insulin secretagogue may be required to reduce the risk of hypoglycaemia when used in combination with dapagliflozin (see sections 4.2 and 4.8).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pharmacokinetic interactions
 
@@ -302,9 +304,11 @@ Interaction studies have only been performed in adults.
 
 ## Concomitant use not recommended
 
-Cationic substances that are eliminated by renal tubular secretion (e.g. cimetidine) may interact with metformin by competing for common renal tubular transport systems. A study conducted in seven normal healthy volunteers showed that cimetidine, administered as 400 mg twice daily, increased metformin systemic exposure (AUC) by 50% and Cmax by 81%. Therefore, close monitoring of glycaemic control, dose adjustment within the recommended posology and changes in diabetic treatment should be considered when cationic medicinal products that are eliminated by renal tubular secretion are coadministered.
+Cationic substances that are eliminated by renal tubular secretion (e.g. cimetidine) may interact with metformin by competing for common renal tubular transport systems. A study conducted in seven normal healthy volunteers showed that cimetidine, administered as 400 mg twice daily, increased metformin systemic exposure (AUC) by 50% and Cmax by 81%. Therefore, close monitoring of
 
 <div style=\"page-break-after: always\"></div>
+
+glycaemic control, dose adjustment within the recommended posology and changes in diabetic treatment should be considered when cationic medicinal products that are eliminated by renal tubular secretion are coadministered.
 
 ## Alcohol
 
@@ -336,9 +340,9 @@ When the patient plans to become pregnant, and during pregnancy, it is recommend
 
 It is unknown whether this medicinal product or dapagliflozin (and/or its metabolites) are excreted in human milk. Available pharmacodynamic/toxicological data in animals have shown excretion of dapagliflozin/metabolites in milk, as well as pharmacologically-mediated effects in nursing offspring (see section 5.3). Metformin is excreted in human milk in small amounts. A risk to the newborns/infants cannot be excluded.
 
-This medicinal product should not be used while breast-feeding.
-
 <div style=\"page-break-after: always\"></div>
+
+This medicinal product should not be used while breast-feeding.
 
 ## Fertility
 
@@ -352,7 +356,9 @@ Xigduo has no or negligible influence on the ability to drive and use machines. 
 
 Xigduo has been demonstrated to be bioequivalent with coadministered dapagliflozin and metformin (see section 5.2). There have been no therapeutic clinical trials conducted with Xigduo tablets.
 
-## Dapagliflozin plus metformin Summary of the safety profile
+## Dapagliflozin plus metformin
+
+## Summary of the safety profile
 
 In an analysis of 5 placebo-controlled dapagliflozin add-on to metformin studies, the safety results were similar to that of the pre-specified pooled analysis of 13 placebo-controlled dapagliflozin studies (see Dapagliflozin, Summary of the safety profile below). No additional adverse reactions were identified for the dapagliflozin plus metformin group compared with those reported for the individual components. In the separate dapagliflozin add-on to metformin pooled analysis, 623 subjects were treated with dapagliflozin 10 mg as add-on to metformin and 523 were treated with placebo plus metformin.
 
@@ -388,14 +394,6 @@ Table 2. Adverse reactions in dapagliflozin and metformin immediate-release clin
 | Renal and urinary disorders                       |                                                | Dysuria Polyuria *,f                                                                                    | Nocturia **                                                                                          |                             | Tubulo- interstitial nephritis                                  |
 | Reproductive system and breast disorders          |                                                |                                                                                                         | Vulvovaginal pruritus ** Pruritus genital **                                                         |                             |                                                                 |
 | Investigations                                    |                                                | Haematocrit increased g Creatinine renal clearance decreased during initial treatment b Dyslipidaemia i | Blood creatinine increased during initial treatment **,b Blood urea increased ** Weight decreased ** |                             |                                                                 |
-
-a The table shows adverse reactions identified from up to 24-week (short-term) data regardless of glycaemic rescue, except those marked with § (see below).
-
-b See corresponding subsection below for additional information.
-
-c Vulvovaginitis, balanitis and related genital infections includes, e.g. the predefined preferred terms: vulvovaginal mycotic infection, vaginal infection, balanitis, genital infection fungal, vulvovaginal candidiasis, vulvovaginitis, balanitis candida, genital candidiasis, genital infection, genital infection male, penile infection, vulvitis, vaginitis bacterial, vulval abscess.
-
-d Urinary tract infection includes the following preferred terms, listed in order of frequency reported: urinary tract infection, cystitis, Escherichia urinary tract infection, genitourinary tract infection, pyelonephritis, trigonitis, urethritis, kidney infection and prostatitis.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -579,23 +577,21 @@ and week 208 was 56.2% and 39.7% for the group treated with dapagliflozin and 50
 
 Table 3. Results at week 52 (LOCF a ) in an active-controlled study comparing dapagliflozin with glipizide as add-on to metformin
 
-| Parameter                                        | Dapagliflozin + metformin   | Glipizide + metformin   |
+| Parameter                                        | Dapagliflozin + metformin   |   Glipizide + metformin |
 |--------------------------------------------------|-----------------------------|-------------------------|
-| N b                                              | 400                         | 401                     |
+| N b                                              | 400                         |                  401    |
 | HbA1c (%)                                        |                             |                         |
-| Baseline (mean)                                  | 7.69                        | 7.74                    |
-| Change from baseline c                           | -0.52                       | -0.52                   |
+| Baseline (mean)                                  | 7.69                        |                    7.74 |
+| Change from baseline c                           | -0.52                       |                   -0.52 |
 | Difference from glipizide + metformin c (95% CI) | 0.00 d (-0.11, 0.11)        |                         |
 | Body weight (kg)                                 |                             |                         |
-| Baseline (mean)                                  | 88.44                       | 87.60                   |
-| Change from baseline c                           | -3.22                       | 1.44                    |
+| Baseline (mean)                                  | 88.44                       |                   87.6  |
+| Change from baseline c                           | -3.22                       |                    1.44 |
 | Difference from glipizide + metformin c (95% CI) | -4.65 * (-5.14, -4.17)      |                         |
 
 a LOCF: Last observation carried forward.
 
-b
-
-Randomised and treated subjects with baseline and at least 1 post-baseline efficacy measurement.
+b Randomised and treated subjects with baseline and at least 1 post-baseline efficacy measurement.
 
 c Least squares mean adjusted for baseline value.
 
@@ -684,31 +680,29 @@ c Least squares mean adjusted for baseline value.
 
 Table 6. Results at week 24 (LOCF a ) in a placebo-controlled study of dapagliflozin in combination with insulin (alone or with oral glucose-lowering medicinal products, including metformin)
 
-| Parameter                        | Dapagliflozin 10 mg + insulin ± oral glucose-lowering medicinal products 2   | Placebo + insulin ± oral glucose-lowering medicinal products 2   |
+| Parameter                        | Dapagliflozin 10 mg + insulin ± oral glucose-lowering medicinal products 2   |   Placebo + insulin ± oral glucose-lowering medicinal products 2 |
 |----------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------|
-| N b                              | 194                                                                          | 193                                                              |
+| N b                              | 194                                                                          |                                                           193    |
 | HbA1c (%)                        |                                                                              |                                                                  |
-| Baseline (mean)                  | 8.58                                                                         | 8.46                                                             |
-| Change from baseline c           | -0.90                                                                        | -0.30                                                            |
+| Baseline (mean)                  | 8.58                                                                         |                                                             8.46 |
+| Change from baseline c           | -0.90                                                                        |                                                            -0.3  |
 | Difference from placebo c        | -0.60 *                                                                      |                                                                  |
 | (95% CI)                         | (-0.74, -0.45)                                                               |                                                                  |
 | Body weight (kg)                 |                                                                              |                                                                  |
-| Baseline (mean)                  | 94.63                                                                        | 94.21                                                            |
-| Change from baseline c           | -1.67                                                                        | 0.02                                                             |
+| Baseline (mean)                  | 94.63                                                                        |                                                            94.21 |
+| Change from baseline c           | -1.67                                                                        |                                                             0.02 |
 | Difference from placebo c        | -1.68 *                                                                      |                                                                  |
 | (95% CI)                         | (-2.19, -1.18)                                                               |                                                                  |
 | Mean daily insulin dose (IU) 1   |                                                                              |                                                                  |
-| Baseline (mean)                  | 77.96                                                                        | 73.96                                                            |
-| Change from baseline c           | -1.16                                                                        | 5.08                                                             |
+| Baseline (mean)                  | 77.96                                                                        |                                                            73.96 |
+| Change from baseline c           | -1.16                                                                        |                                                             5.08 |
 | Difference from placebo c        | -6.23 *                                                                      |                                                                  |
 | (95% CI)                         | (-8.84, -3.63)                                                               |                                                                  |
 | Subjects with mean daily insulin |                                                                              |                                                                  |
-| dose reduction of at least       | 19.7 **                                                                      | 11.0                                                             |
+| dose reduction of at least       | 19.7 **                                                                      |                                                            11    |
 | 10% (%)                          |                                                                              |                                                                  |
 
-a
-
-LOCF: Last observation (prior to or on the date of the first insulin up-titration, if needed) carried forward.
+a LOCF: Last observation (prior to or on the date of the first insulin up-titration, if needed) carried forward.
 
 b All randomised subjects who took at least one dose of double-blind study medicinal product during the shortterm double-blind period.
 
@@ -756,17 +750,17 @@ In a 28-week, double-blind, active comparator-controlled study, the combination 
 
 Table 8. Results of one 28-week trial of dapagliflozin and prolonged-release exenatide versus dapagliflozin alone and prolonged-release exenatide alone, in combination with metformin (intent to treat patients)
 
-| Parameter                                                                                    | Dapagliflozin 10 mg QD + prolonged-release exenatide2mgQW   | Dapagliflozin 10 mg QD + placeboQW   | Prolonged-release exenatide 2 mg QW + placebo QD   |
+| Parameter                                                                                    |   Dapagliflozin 10 mg QD + prolonged-release exenatide2mgQW | Dapagliflozin 10 mg QD + placeboQW   | Prolonged-release exenatide 2 mg QW + placebo QD   |
 |----------------------------------------------------------------------------------------------|-------------------------------------------------------------|--------------------------------------|----------------------------------------------------|
-| N                                                                                            | 228                                                         | 230                                  | 227                                                |
+| N                                                                                            |                                                      228    | 230                                  | 227                                                |
 | HbA1c (%)                                                                                    |                                                             |                                      |                                                    |
-| Baseline (mean)                                                                              | 9.29                                                        | 9.25                                 | 9.26                                               |
-| Change from baseline a                                                                       | -1.98                                                       | -1.39                                | -1.60                                              |
+| Baseline (mean)                                                                              |                                                        9.29 | 9.25                                 | 9.26                                               |
+| Change from baseline a                                                                       |                                                       -1.98 | -1.39                                | -1.60                                              |
 | Mean difference in change from baseline between combination and single active agent (95% CI) |                                                             | -0.59* (-0.84, -0.34)                | -0.38** (-0.63, -0.13)                             |
-| Subjects (%) achieving HbA1c  7%                                                            | 44.7                                                        | 19.1                                 | 26.9                                               |
+| Subjects (%) achieving HbA1c  7%                                                            |                                                       44.7  | 19.1                                 | 26.9                                               |
 | Body weight (kg)                                                                             |                                                             |                                      |                                                    |
-| Baseline (mean)                                                                              | 92.13                                                       | 90.87                                | 89.12                                              |
-| Change from baseline a                                                                       | -3.55                                                       | -2.22                                | -1.56                                              |
+| Baseline (mean)                                                                              |                                                       92.13 | 90.87                                | 89.12                                              |
+| Change from baseline a                                                                       |                                                       -3.55 | -2.22                                | -1.56                                              |
 | Mean difference in change from baseline between combination and single active agent (95% CI) |                                                             | -1.33* (-2.12, -0.55)                | -2.00* (-2.79, -1.20)                              |
 
 QD=once daily, QW=once weekly, N=number of patients, CI=confidence interval.
@@ -829,26 +823,18 @@ The efficacy of dapagliflozin was assessed in a dedicated study in diabetic pati
 
 Table 9. Results at week 24 of a placebo-controlled study of dapagliflozin in diabetic patients with an eGFR ≥ 45 to &lt; 60 mL/min/1.73 m 2
 
-|                                             | Dapagliflozin a 10 mg   | Placebo a   |
+|                                             | Dapagliflozin a 10 mg   |   Placebo a |
 |---------------------------------------------|-------------------------|-------------|
-| N b                                         | 159                     | 161         |
+| N b                                         | 159                     |      161    |
 | HbA1c (%)                                   |                         |             |
-| Baseline (mean)                             | 8.35                    | 8.03        |
-| Change from baseline b                      | -0.37                   | -0.03       |
+| Baseline (mean)                             | 8.35                    |        8.03 |
+| Change from baseline b                      | -0.37                   |       -0.03 |
 | Difference from placebo b (95% CI)          | -0.34* (-0.53, -0.15)   |             |
 | Body weight (kg)                            |                         |             |
-| Baseline (mean)                             | 92.51                   | 88.30       |
-| Percent change from baseline c              | -3.42                   | -2.02       |
+| Baseline (mean)                             | 92.51                   |       88.3  |
+| Percent change from baseline c              | -3.42                   |       -2.02 |
 | Difference in percent change from placebo c | -1.43*                  |             |
 | (95% CI)                                    | (-2.15, -0.69)          |             |
-
-a  Metformin or metformin hydrochloride were part of the usual care in 69.4% and 64.0% of the patients for the dapagliflozin and placebo groups, respectively.
-
-b Least squares mean adjusted for baseline value.
-
-c Derived from least squares mean adjusted for baseline value.
-
-* p &lt; 0.001.
 
 ## Cardiovascular and renal outcomes
 
@@ -1072,19 +1058,7 @@ Tablet core Hydroxypropyl cellulose (E463) Microcrystalline cellulose (E460(i)) 
 
 ## Film-coating
 
-Xigduo 5 mg/850 mg film-coated tablets
-
-Polyvinyl alcohol (E1203)
-
-Macrogol 3350 (E1521)
-
-Talc (E553b)
-
-Titanium dioxide (E171)
-
-Iron oxide yellow (E172)
-
-Iron oxide red (E172)
+Xigduo 5 mg/850 mg film-coated tablets Polyvinyl alcohol (E1203) Macrogol 3350 (E1521) Talc (E553b) Titanium dioxide (E171) Iron oxide yellow (E172) Iron oxide red (E172)
 
 ## Xigduo 5 mg/1,000 mg film-coated tablets
 
@@ -1148,7 +1122,7 @@ Date of latest renewal: 28 September 2018
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1420,11 +1394,11 @@ EXP
 
 AstraZeneca AB SE-151 85 Södertälje Sweden
 
-12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/13/900/006 Xigduo 5 mg/850 mg 196 (2 x 98) tablets (multipack)
 
-## 13. BATCH NUMBER
+13. BATCH NUMBER
 
 Lot
 
@@ -1672,8 +1646,6 @@ xigduo 5 mg/1,000 mg
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTERS (PERFORATED)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
@@ -1691,6 +1663,10 @@ EXP
 ## 4. BATCH NUMBER
 
 Lot
+
+## 5. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 | 5.   | OTHER   |
 |------|---------|
@@ -2235,7 +2211,7 @@ Tel: +371 67377100
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 Tlf: +47 21 00 64 00
 
@@ -2255,7 +2231,9 @@ AstraZeneca Produtos Farmacêuticos, Lda. Tel: +351 21 434 61 00
 
 ## România
 
-AstraZeneca Pharma SRL Tel: +40 21 317 60 41
+AstraZeneca Pharma SRL
+
+Tel: +40 21 317 60 41
 
 ## Slovenija
 
@@ -2267,9 +2245,7 @@ AstraZeneca AB, o.z. Tel: +421 2 5737 7777
 
 ## Suomi/Finland
 
-AstraZeneca Oy
-
-Puh/Tel: +358 10 23 010
+AstraZeneca Oy Puh/Tel: +358 10 23 010
 
 ## Sverige
 

@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 14:01:34
+document_datetime: 2026-03-09 15:32:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cayston.html
 document_name: cayston.html
 version: success
-processing_time: 0.2966483
-conversion_datetime: 2025-12-31 03:02:33.20475
+processing_time: 0.1065248
+conversion_datetime: 2026-03-17 19:31:48.196257
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.80.0
+  docling-core: 2.70.1
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Cayston
 
 [RSS](/en/individual-human-medicine.xml/65728)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 aztreonam Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +120,7 @@ English (EN) (63.96 KB - PDF)
 
 [View](/en/documents/overview/cayston-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-642)
+[Other languages (21)](#file-language-dropdown-117)
 
 български (BG) (106.33 KB - PDF)
 
@@ -388,17 +386,17 @@ English (EN) (73.42 KB - PDF)
 
 Cayston : EPAR - Product Information
 
-English (EN) (364.67 KB - PDF)
+English (EN) (431.03 KB - PDF)
 
 **First published:** 04/11/2009
 
-**Last updated:** 12/07/2024
+**Last updated:** 09/03/2026
 
 [View](/en/documents/product-information/cayston-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-868)
+[Other languages (24)](#file-language-dropdown-865)
 
-български (BG) (513.81 KB - PDF)
+български (BG) (584.04 KB - PDF)
 
 **First published:**
 
@@ -406,11 +404,11 @@ English (EN) (364.67 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/bg/documents/product-information/cayston-epar-product-information_bg.pdf)
 
-español (ES) (363.09 KB - PDF)
+español (ES) (435.31 KB - PDF)
 
 **First published:**
 
@@ -418,11 +416,11 @@ español (ES) (363.09 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/es/documents/product-information/cayston-epar-product-information_es.pdf)
 
-čeština (CS) (483.22 KB - PDF)
+čeština (CS) (543.02 KB - PDF)
 
 **First published:**
 
@@ -430,11 +428,11 @@ español (ES) (363.09 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/cs/documents/product-information/cayston-epar-product-information_cs.pdf)
 
-dansk (DA) (411.69 KB - PDF)
+dansk (DA) (434.58 KB - PDF)
 
 **First published:**
 
@@ -442,11 +440,11 @@ dansk (DA) (411.69 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/da/documents/product-information/cayston-epar-product-information_da.pdf)
 
-Deutsch (DE) (458.88 KB - PDF)
+Deutsch (DE) (531.3 KB - PDF)
 
 **First published:**
 
@@ -454,11 +452,11 @@ Deutsch (DE) (458.88 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/de/documents/product-information/cayston-epar-product-information_de.pdf)
 
-eesti keel (ET) (366.51 KB - PDF)
+eesti keel (ET) (385.16 KB - PDF)
 
 **First published:**
 
@@ -466,11 +464,11 @@ eesti keel (ET) (366.51 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/et/documents/product-information/cayston-epar-product-information_et.pdf)
 
-ελληνικά (EL) (476.86 KB - PDF)
+ελληνικά (EL) (553.76 KB - PDF)
 
 **First published:**
 
@@ -478,11 +476,11 @@ eesti keel (ET) (366.51 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/el/documents/product-information/cayston-epar-product-information_el.pdf)
 
-français (FR) (395.78 KB - PDF)
+français (FR) (467.77 KB - PDF)
 
 **First published:**
 
@@ -490,11 +488,11 @@ français (FR) (395.78 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/fr/documents/product-information/cayston-epar-product-information_fr.pdf)
 
-hrvatski (HR) (506.65 KB - PDF)
+hrvatski (HR) (566.91 KB - PDF)
 
 **First published:**
 
@@ -502,11 +500,11 @@ hrvatski (HR) (506.65 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/hr/documents/product-information/cayston-epar-product-information_hr.pdf)
 
-íslenska (IS) (486.46 KB - PDF)
+íslenska (IS) (555 KB - PDF)
 
 **First published:**
 
@@ -514,11 +512,11 @@ hrvatski (HR) (506.65 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/is/documents/product-information/cayston-epar-product-information_is.pdf)
 
-italiano (IT) (422.38 KB - PDF)
+italiano (IT) (497.47 KB - PDF)
 
 **First published:**
 
@@ -526,11 +524,11 @@ italiano (IT) (422.38 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/it/documents/product-information/cayston-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (499.04 KB - PDF)
+latviešu valoda (LV) (564.68 KB - PDF)
 
 **First published:**
 
@@ -538,11 +536,11 @@ latviešu valoda (LV) (499.04 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/lv/documents/product-information/cayston-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (456.15 KB - PDF)
+lietuvių kalba (LT) (521.28 KB - PDF)
 
 **First published:**
 
@@ -550,11 +548,11 @@ lietuvių kalba (LT) (456.15 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/lt/documents/product-information/cayston-epar-product-information_lt.pdf)
 
-magyar (HU) (465.84 KB - PDF)
+magyar (HU) (526.27 KB - PDF)
 
 **First published:**
 
@@ -562,11 +560,11 @@ magyar (HU) (465.84 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/hu/documents/product-information/cayston-epar-product-information_hu.pdf)
 
-Malti (MT) (498.95 KB - PDF)
+Malti (MT) (576.37 KB - PDF)
 
 **First published:**
 
@@ -574,11 +572,11 @@ Malti (MT) (498.95 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/mt/documents/product-information/cayston-epar-product-information_mt.pdf)
 
-Nederlands (NL) (363.02 KB - PDF)
+Nederlands (NL) (439.47 KB - PDF)
 
 **First published:**
 
@@ -586,11 +584,11 @@ Nederlands (NL) (363.02 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/nl/documents/product-information/cayston-epar-product-information_nl.pdf)
 
-norsk (NO) (353 KB - PDF)
+norsk (NO) (426.16 KB - PDF)
 
 **First published:**
 
@@ -598,11 +596,11 @@ norsk (NO) (353 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/no/documents/product-information/cayston-epar-product-information_no.pdf)
 
-polski (PL) (443.1 KB - PDF)
+polski (PL) (459.04 KB - PDF)
 
 **First published:**
 
@@ -610,11 +608,11 @@ polski (PL) (443.1 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/pl/documents/product-information/cayston-epar-product-information_pl.pdf)
 
-português (PT) (335.99 KB - PDF)
+português (PT) (404.19 KB - PDF)
 
 **First published:**
 
@@ -622,11 +620,11 @@ português (PT) (335.99 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/pt/documents/product-information/cayston-epar-product-information_pt.pdf)
 
-română (RO) (476.57 KB - PDF)
+română (RO) (548.06 KB - PDF)
 
 **First published:**
 
@@ -634,11 +632,11 @@ română (RO) (476.57 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/ro/documents/product-information/cayston-epar-product-information_ro.pdf)
 
-slovenčina (SK) (462.01 KB - PDF)
+slovenčina (SK) (503.52 KB - PDF)
 
 **First published:**
 
@@ -646,11 +644,11 @@ slovenčina (SK) (462.01 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/sk/documents/product-information/cayston-epar-product-information_sk.pdf)
 
-slovenščina (SL) (495.94 KB - PDF)
+slovenščina (SL) (558.88 KB - PDF)
 
 **First published:**
 
@@ -658,11 +656,11 @@ slovenščina (SL) (495.94 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/sl/documents/product-information/cayston-epar-product-information_sl.pdf)
 
-Suomi (FI) (656.98 KB - PDF)
+Suomi (FI) (460.61 KB - PDF)
 
 **First published:**
 
@@ -670,11 +668,11 @@ Suomi (FI) (656.98 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/fi/documents/product-information/cayston-epar-product-information_fi.pdf)
 
-svenska (SV) (362.67 KB - PDF)
+svenska (SV) (346.16 KB - PDF)
 
 **First published:**
 
@@ -682,11 +680,11 @@ svenska (SV) (362.67 KB - PDF)
 
 **Last updated:**
 
-12/07/2024
+09/03/2026
 
 [View](/sv/documents/product-information/cayston-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0097 08/07/2024
+**Latest procedure affecting product information:** VR/0000319787 09/03/2026
 
 icon globe
 
@@ -712,7 +710,7 @@ English (EN) (22.1 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cayston-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-226)
+[Other languages (21)](#file-language-dropdown-222)
 
 български (BG) (91.15 KB - PDF)
 
@@ -993,7 +991,7 @@ Gilead Sciences Ireland UC
 
 IDA Business &amp; Technology Park
 
-Marketing authorisation issued 21/09/2009 Revision 21
+Marketing authorisation issued 21/09/2009 Revision 22
 
 ## Assessment history
 
@@ -1005,13 +1003,21 @@ Collapse section
 
 Cayston : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (143.14 KB - PDF)
+
+**First published:** 09/03/2026
+
+[View](/en/documents/procedural-steps-after/cayston-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Cayston : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (227.77 KB - PDF)
 
 **First published:** 04/11/2009
 
-**Last updated:** 12/07/2024
+**Last updated:** 09/03/2026
 
-[View](/en/documents/procedural-steps-after/cayston-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/cayston-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Cayston-H-C-996-P46-0034: EPAR - Assessment Report
 
@@ -1157,7 +1163,7 @@ English (EN) (35.13 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-recommendation-refusal-marketing-authorisation-cayston-international-non-proprietary-name-inn-aztreonam_en.pdf)
 
-#### News on Cayston
+## News on Cayston
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 June 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-june-2012) 22/06/2012
 
@@ -1171,7 +1177,7 @@ English (EN) (35.13 KB - PDF)
 
 [European Medicines Agency gives interim recommendations to deal with shortcomings in quality assurance at Ben Venue Laboratories](/en/news/european-medicines-agency-gives-interim-recommendations-deal-shortcomings-quality-assurance-ben-venue-laboratories) 22/11/2011
 
-#### More information on Cayston
+## More information on Cayston
 
 This product is no longer an orphan medicine. It was originally designated an [orphan medicine (EU/3/04/204)](/en/medicines/human/orphan-designations/eu-3-04-204) on 21 June 2004. Cayston was withdrawn from the Community register of orphan medicinal products in September 2019 at the end of the 10-year period of market exclusivity.
 
@@ -1199,16 +1205,16 @@ English (EN) (71.91 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-shortcomings-quality-assurance-ben-venue-laboratories_en.pdf)
 
-#### More information on Cayston
+## More information on Cayston
 
 - [EMEA-000827-PIP01-09-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000827-pip01-09-m05)
 - [EMEA-000827-PIP03-11 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000827-pip03-11)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 12/07/2024
+**This page was last updated on** 09/03/2026
 
 ## Share this page
 

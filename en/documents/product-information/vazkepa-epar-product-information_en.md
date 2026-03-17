@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-05 12:58:31
+document_datetime: 2026-03-13 11:32:56
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vazkepa-epar-product-information_en.pdf
 document_name: vazkepa-epar-product-information_en.pdf
 version: success
-processing_time: 11.2852535
-conversion_datetime: 2026-02-09 21:58:25.460442
+processing_time: 7.2456539
+conversion_datetime: 2026-03-17 18:55:49.261972
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.1
-  docling: 2.72.0
-  docling-core: 2.63.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.80.0
+  docling-core: 2.70.1
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -379,7 +379,7 @@ Store in the original package in order to protect from moisture.
 
 ## 6.5 Nature and contents of container
 
-## Bottle
+Bottle
 
 High density polyethylene (HDPE) bottles with a child-resistant polypropylene heat induction sealed closure containing 120 soft capsules.
 
@@ -407,7 +407,7 @@ No special requirements for disposal.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Amarin Pharmaceuticals Ireland Limited 88 Harcourt Street Dublin 2, D02DK18 Ireland
+Recordati Industria Chimica e Farmaceutica S.p.A. Via Matteo Civitali 1 20148 Milan Italy
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -417,7 +417,9 @@ EU/1/20/1524/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 26 March 2021 Date of latest renewal:
+Date of first authorisation: 26 March 2021
+
+Date of latest renewal: 15 January 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -528,41 +530,31 @@ Store below 30 °C.
 | 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Amarin Pharmaceuticals Ireland Ltd. 88 Harcourt Street Dublin 2 D02DK18
+Recordati Industria Chimica e Farmaceutica S.p.A. Via Matteo Civitali 1 20148 Milan Italy
 
-Ireland
-
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/20/1524/001
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 vazkepa
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
 
@@ -618,50 +610,45 @@ EXP
 
 Keep the bottle tightly closed in order to protect from moisture.
 
-<div style=\"page-break-after: always\"></div>
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-Store below 30 °C.
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+Recordati Industria Chimica e Farmaceutica S.p.A.
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+Via Matteo Civitali 1
 
-Amarin Pharmaceuticals Ireland Ltd. 88 Harcourt Street Dublin 2 D02DK18
+20148 Milan
 
-Ireland
+Italy
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/20/1524/003
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 vazkepa
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -719,40 +706,25 @@ Keep the bottle tightly closed in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Amarin Pharmaceuticals Ireland Ltd. 88 Harcourt Street Dublin 2 D02DK18
+Recordati Industria Chimica e Farmaceutica S.p.A. Via Matteo Civitali 1 20148 Milan Italy
 
-Ireland
-
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/20/1524/001 EU/1/20/1524/003
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
-
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
-
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+17. UNIQUE IDENTIFIER - 2D BARCODE
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -798,61 +770,51 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
 Store in the original package in order to protect from moisture. Store below 30 °C.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Amarin Pharmaceuticals Ireland Ltd. 88 Harcourt Street Dublin 2 D02DK18
+Recordati Industria Chimica e Farmaceutica S.p.A. Via Matteo Civitali 1 20148 Milan Italy
 
-Ireland
-
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/20/1524/002
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 vazkepa
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| UNIT DOSE BLISTERS                                    |
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+## UNIT DOSE BLISTERS
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
@@ -862,7 +824,7 @@ Vazkepa 998 mg capsules icosapent ethyl
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
-Amarin Pharmaceuticals Ireland Ltd.
+Recordati Industria Chimica e Farmaceutica S.p.A.
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1124,7 +1086,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Amarin Pharmaceuticals Ireland Limited 88 Harcourt Street Dublin 2, D02DK18 Ireland
+Recordati Industria Chimica e Farmaceutica S.p.A. Via Matteo Civitali 1 20148 Milan Italy
 
 ## Manufacturer
 
@@ -1136,124 +1098,150 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Amarin Pharmaceuticals Ireland Limited Tél/Tel: 0800-75394 AmarinConnect@amarincorp.eu
+Recordati BV
 
-## България
-
-Amarin Pharmaceuticals Ireland Limited Te л .: 008002100595 AmarinConnect@amarincorp.eu
-
-## Česká republika
-
-Amarin Pharmaceuticals Ireland Limited Tel: 800720602 AmarinConnect@amarincorp.eu
-
-## Danmark
+Tél/Tel: +32 2 461 01 36
 
 ## Lietuva
 
-Amarin Pharmaceuticals Ireland Limited Tel: +353(0)16915000 AmarinConnect@amarincorp.eu
+Recordati Polska sp. z o.o. Tel: +48 22 206 84 50
+
+## България
+
+Recordati Bulgaria Ltd.
+
+Te л
+
+.: + 359 2 829 39 37
 
 ## Luxembourg/Luxemburg
 
-Amarin Pharmaceuticals Ireland Limited Tél/Tel: +353(0)16915000 AmarinConnect@amarincorp.eu
+Recordati BV
+
+Tél/Tel: +32 2 461 01 36
+
+## Česká republika
+
+Herbacos Recordati s.r.o.
+
+Tel: + 420 466 741 915
 
 ## Magyarország
 
-Amarin Pharmaceuticals Ireland Limited Tel.: 0680080683 AmarinConnect@amarincorp.eu
+Recordati Industria Chimica e Farmaceutica
 
-Malta
+S.p.A.
 
-<div style=\"page-break-after: always\"></div>
+Tel.: +39 02 487871
 
-Amarin Pharmaceuticals Ireland Limited Tlf.: +46 84 4685033 AmarinConnect@amarincorp.eu
+Danmark
 
-Deutschland Amarin Germany GmbH Tel: 0800-0008975
+Recordati AB
 
-AmarinConnect@amarincorp.eu
+Tlf.: +46 8 545 80 230
 
-Eesti Amarin Pharmaceuticals Ireland Limited Tel: +353(0)16915000
+## Malta
 
-AmarinConnect@amarincorp.eu
-
-Ελλάδα ΒΙΑΝΕΞ Α.Ε. Τηλ. +30 210 8009111
-
-España Amarin Pharmaceuticals Ireland Limited Tel: 900806101 AmarinConnect@amarincorp.eu
-
-France Amarin Pharmaceuticals Ireland Limited Tél: 0800-991006
-
-AmarinConnect@amarincorp.eu
-
-Hrvatska Amarin Pharmaceuticals Ireland Limited Tel: 0800787073
-
-AmarinConnect@amarincorp.eu
-
-Ireland Amarin Pharmaceuticals Ireland Limited Tel: 1800001144
-
-AmarinConnect@amarincorp.eu
-
-Ísland Amarin Pharmaceuticals Ireland Limited Sími: +46-84-4685033 AmarinConnect@amarincorp.eu
-
-Italia Amarin Pharmaceuticals Ireland Limited Tel: 0800-940560
-
-AmarinConnect@amarincorp.eu
-
-Κύπρος Amarin Pharmaceuticals Ireland Limited Τηλ : 80090829
-
-AmarinConnect@amarincorp.eu
-
-32
-
-Amarin Pharmaceuticals Ireland Limited Tel: +353(0)16915000 AmarinConnect@amarincorp.eu
-
-Nederland Amarin Pharmaceuticals Ireland Limited Tel: 0800-0228734
-
-AmarinConnect@amarincorp.eu
-
-Norge Amarin Pharmaceuticals Ireland Limited Tlf: +46 84 468 5033 AmarinConnect@amarincorp.eu
-
-Österreich
-
-Amarin Pharmaceuticals Ireland Limited Tel: 0800-281516
-
-AmarinConnect@amarincorp.eu
-
-Polska Amarin Pharmaceuticals Ireland Limited Tel.: 008001125446 AmarinConnect@amarincorp.eu
-
-Portugal Amarin Pharmaceuticals Ireland Limited Tel: 0800-882989
-
-AmarinConnect@amarincorp.eu
-
-România Amarin Pharmaceuticals Ireland Limited Tel: 0800 890426
-
-AmarinConnect@amarincorp.eu
-
-Slovenija Amarin Pharmaceuticals Ireland Limited Tel: 080082095
-
-AmarinConnect@amarincorp.eu
-
-Slovenská republika Amarin Pharmaceuticals Ireland Limited Tel: 0800003352
-
-AmarinConnect@amarincorp.eu
-
-Suomi/Finland Amarin Pharmaceuticals Ireland Limited Puh/Tel: +46 84 4685033
-
-AmarinConnect@amarincorp.eu
-
-Sverige Amarin Pharmaceuticals Ireland Limited Tel: +46 84 4685033
-
-AmarinConnect@amarincorp.eu
+Recordati Industria Chimica e Farmaceutica S.p.A.
 
 <div style=\"page-break-after: always\"></div>
+
+## Deutschland
+
+Recordati Pharma GmbH Tel: + 49 731 70470
+
+## Eesti
+
+Recordati Polska sp. z o.o. Tel: +48 22 206 84 50
+
+## Ελλάδα
+
+ΒΙΑΝΕΞ Α.Ε. Τηλ. +30 210 8009111
+
+## España
+
+Casen Recordati, S.L. Tel: + 34 91 351 88 00
+
+## France
+
+Laboratoires Bouchara-Recordati Tél: + 33 1 45 19 10 00
+
+## Hrvatska
+
+Recordati Industria Chimica e Farmaceutica S.p.A. Tel: +39 02 487871
+
+## Ireland
+
+Recordati Ireland Ltd. Tel: + 353 21 4379400
+
+## Ísland
+
+Recordati AB Sími: +46 8 545 80 230
+
+## Italia
+
+Recordati Industria Chimica e Farmaceutica S.p.A. Tel: +39 02 487871
+
+## Κύπρος
+
+Recordati Industria Chimica e Farmaceutica S.p.A. Τηλ : +39 02 487871
 
 ## Latvija
 
-Amarin Pharmaceuticals Ireland Limited
+Recordati Polska sp. z o.o.
 
-Tel: +353(0)16915000
-
-AmarinConnect@amarincorp.eu
+Tel: +48 22 206 84 50
 
 ## This leaflet was last revised in .
 
 ## Other sources of information
+
+Tel: +39 02 487871
+
+## Nederland
+
+Recordati BV
+
+Tel: +32 2 461 01 36
+
+## Norge
+
+Recordati AB Tlf: +46 8 545 80 230
+
+## Österreich
+
+Recordati Austria GmbH Tel: + 43 664 128 4879
+
+## Polska
+
+Recordati Polska sp. z o.o. Tel.: + 48 22 206 84 50
+
+## Portugal
+
+Jaba Recordati, S.A. Tel: + 351 21 432 95 00
+
+## România
+
+Recordati România S.R.L. Tel: + 40 21 667 17 41
+
+## Slovenija
+
+Recordati Industria Chimica e Farmaceutica S.p.A. Tel: +39 02 487871
+
+## Slovenská republika
+
+Herbacos Recordati s.r.o. Tel: + 420 466 741 915
+
+## Suomi/Finland
+
+Recordati AB Puh/Tel: +46 8 545 80 230
+
+## Sverige
+
+Recordati AB
+
+Tel: +46 8 545 80 230
+
+<div style=\"page-break-after: always\"></div>
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.

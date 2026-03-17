@@ -1,16 +1,16 @@
 ---
-document_datetime: 2026-03-11 12:50:00
+document_datetime: 2026-03-13 16:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/wegovy.html
 document_name: wegovy.html
 version: success
-processing_time: 0.0998718
-conversion_datetime: 2026-03-13 18:43:04.806046
+processing_time: 0.1080367
+conversion_datetime: 2026-03-17 19:29:47.285787
 docling_version:
   docling-serve: 1.14.3
   docling-jobkit: 1.13.0
-  docling: 2.79.0
-  docling-core: 2.69.0
+  docling: 2.80.0
+  docling-core: 2.70.1
   docling-ibm-models: 3.12.0
   docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
@@ -126,7 +126,7 @@ English (EN) (117.86 KB - PDF)
 
 [View](/en/documents/overview/wegovy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-227)
+[Other languages (22)](#file-language-dropdown-343)
 
 български (BG) (130.17 KB - PDF)
 
@@ -406,17 +406,17 @@ English (EN) (271.55 KB - PDF)
 
 Wegovy : EPAR - Product Information
 
-English (EN) (1.01 MB - PDF)
+English (EN) (1.07 MB - PDF)
 
 **First published:** 10/03/2022
 
-**Last updated:** 11/03/2026
+**Last updated:** 13/03/2026
 
 [View](/en/documents/product-information/wegovy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-514)
+[Other languages (24)](#file-language-dropdown-388)
 
-български (BG) (1.14 MB - PDF)
+български (BG) (1.23 MB - PDF)
 
 **First published:**
 
@@ -424,11 +424,11 @@ English (EN) (1.01 MB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/bg/documents/product-information/wegovy-epar-product-information_bg.pdf)
 
-español (ES) (1.07 MB - PDF)
+español (ES) (1.14 MB - PDF)
 
 **First published:**
 
@@ -436,11 +436,11 @@ español (ES) (1.07 MB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/es/documents/product-information/wegovy-epar-product-information_es.pdf)
 
-čeština (CS) (1.08 MB - PDF)
+čeština (CS) (1.17 MB - PDF)
 
 **First published:**
 
@@ -448,11 +448,11 @@ español (ES) (1.07 MB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/cs/documents/product-information/wegovy-epar-product-information_cs.pdf)
 
-dansk (DA) (997.15 KB - PDF)
+dansk (DA) (1.03 MB - PDF)
 
 **First published:**
 
@@ -460,11 +460,11 @@ dansk (DA) (997.15 KB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/da/documents/product-information/wegovy-epar-product-information_da.pdf)
 
-Deutsch (DE) (999.31 KB - PDF)
+Deutsch (DE) (1.04 MB - PDF)
 
 **First published:**
 
@@ -472,11 +472,11 @@ Deutsch (DE) (999.31 KB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/de/documents/product-information/wegovy-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.05 MB - PDF)
+eesti keel (ET) (1.11 MB - PDF)
 
 **First published:**
 
@@ -484,11 +484,11 @@ eesti keel (ET) (1.05 MB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/et/documents/product-information/wegovy-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.21 MB - PDF)
+ελληνικά (EL) (1.32 MB - PDF)
 
 **First published:**
 
@@ -496,11 +496,11 @@ eesti keel (ET) (1.05 MB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/el/documents/product-information/wegovy-epar-product-information_el.pdf)
 
-français (FR) (1.1 MB - PDF)
+français (FR) (1.16 MB - PDF)
 
 **First published:**
 
@@ -508,11 +508,11 @@ français (FR) (1.1 MB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/fr/documents/product-information/wegovy-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.07 MB - PDF)
+hrvatski (HR) (1.14 MB - PDF)
 
 **First published:**
 
@@ -520,11 +520,11 @@ hrvatski (HR) (1.07 MB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/hr/documents/product-information/wegovy-epar-product-information_hr.pdf)
 
-íslenska (IS) (1003.88 KB - PDF)
+íslenska (IS) (1.04 MB - PDF)
 
 **First published:**
 
@@ -532,11 +532,11 @@ hrvatski (HR) (1.07 MB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/is/documents/product-information/wegovy-epar-product-information_is.pdf)
 
-italiano (IT) (1010.53 KB - PDF)
+italiano (IT) (1.05 MB - PDF)
 
 **First published:**
 
@@ -544,11 +544,11 @@ italiano (IT) (1010.53 KB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/it/documents/product-information/wegovy-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.17 MB - PDF)
+latviešu valoda (LV) (1.27 MB - PDF)
 
 **First published:**
 
@@ -556,11 +556,11 @@ latviešu valoda (LV) (1.17 MB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/lv/documents/product-information/wegovy-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.1 MB - PDF)
+lietuvių kalba (LT) (1.17 MB - PDF)
 
 **First published:**
 
@@ -568,11 +568,11 @@ lietuvių kalba (LT) (1.1 MB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/lt/documents/product-information/wegovy-epar-product-information_lt.pdf)
 
-magyar (HU) (1.11 MB - PDF)
+magyar (HU) (1.18 MB - PDF)
 
 **First published:**
 
@@ -580,11 +580,11 @@ magyar (HU) (1.11 MB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/hu/documents/product-information/wegovy-epar-product-information_hu.pdf)
 
-Malti (MT) (1.16 MB - PDF)
+Malti (MT) (1.23 MB - PDF)
 
 **First published:**
 
@@ -592,11 +592,11 @@ Malti (MT) (1.16 MB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/mt/documents/product-information/wegovy-epar-product-information_mt.pdf)
 
-Nederlands (NL) (986.97 KB - PDF)
+Nederlands (NL) (1.03 MB - PDF)
 
 **First published:**
 
@@ -604,11 +604,11 @@ Nederlands (NL) (986.97 KB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/nl/documents/product-information/wegovy-epar-product-information_nl.pdf)
 
-norsk (NO) (977.36 KB - PDF)
+norsk (NO) (1.02 MB - PDF)
 
 **First published:**
 
@@ -616,11 +616,11 @@ norsk (NO) (977.36 KB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/no/documents/product-information/wegovy-epar-product-information_no.pdf)
 
-polski (PL) (1.11 MB - PDF)
+polski (PL) (1.19 MB - PDF)
 
 **First published:**
 
@@ -628,11 +628,11 @@ polski (PL) (1.11 MB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/pl/documents/product-information/wegovy-epar-product-information_pl.pdf)
 
-português (PT) (1020.01 KB - PDF)
+português (PT) (1.07 MB - PDF)
 
 **First published:**
 
@@ -640,11 +640,11 @@ português (PT) (1020.01 KB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/pt/documents/product-information/wegovy-epar-product-information_pt.pdf)
 
-română (RO) (1.25 MB - PDF)
+română (RO) (1.34 MB - PDF)
 
 **First published:**
 
@@ -652,11 +652,11 @@ română (RO) (1.25 MB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/ro/documents/product-information/wegovy-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.17 MB - PDF)
+slovenčina (SK) (1.21 MB - PDF)
 
 **First published:**
 
@@ -664,11 +664,11 @@ slovenčina (SK) (1.17 MB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/sk/documents/product-information/wegovy-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.06 MB - PDF)
+slovenščina (SL) (1.14 MB - PDF)
 
 **First published:**
 
@@ -676,11 +676,11 @@ slovenščina (SL) (1.06 MB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/sl/documents/product-information/wegovy-epar-product-information_sl.pdf)
 
-Suomi (FI) (1 MB - PDF)
+Suomi (FI) (1.06 MB - PDF)
 
 **First published:**
 
@@ -688,11 +688,11 @@ Suomi (FI) (1 MB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/fi/documents/product-information/wegovy-epar-product-information_fi.pdf)
 
-svenska (SV) (1.06 MB - PDF)
+svenska (SV) (1.13 MB - PDF)
 
 **First published:**
 
@@ -700,11 +700,11 @@ svenska (SV) (1.06 MB - PDF)
 
 **Last updated:**
 
-11/03/2026
+13/03/2026
 
 [View](/sv/documents/product-information/wegovy-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000324232 11/03/2026
+**Latest procedure affecting product information:** VR/0000284664 16/02/2026
 
 icon globe
 
@@ -730,7 +730,7 @@ English (EN) (31.84 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/wegovy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-755)
+[Other languages (24)](#file-language-dropdown-85)
 
 български (BG) (69.83 KB - PDF)
 
@@ -1071,7 +1071,7 @@ Novo Nordisk A/S
 
 Novo Alle 1
 
-Opinion adopted 11/11/2021 Marketing authorisation issued 06/01/2022 Revision 15
+Opinion adopted 11/11/2021 Marketing authorisation issued 06/01/2022 Revision 16
 
 ## Assessment history
 
@@ -1083,11 +1083,11 @@ Collapse section
 
 Wegovy : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (172.71 KB - PDF)
+English (EN) (169.64 KB - PDF)
 
 **First published:** 30/09/2025
 
-**Last updated:** 11/03/2026
+**Last updated:** 13/03/2026
 
 [View](/en/documents/procedural-steps-after/wegovy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1100,6 +1100,18 @@ English (EN) (183.24 KB - PDF)
 **Last updated:** 30/09/2025
 
 [View](/en/documents/procedural-steps-after/wegovy-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Wegovy-VR-0000284664 : EPAR - Assessment report - Variation
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2317237
+
+English (EN) (5.95 MB - PDF)
+
+**First published:** 13/03/2026
+
+[View](/en/documents/variation-report/wegovy-vr-0000284664-epar-assessment-report-variation_en.pdf)
 
 Wegovy-H-C-005422-II-0017 : EPAR - Assessment report - Variation
 
@@ -1206,7 +1218,7 @@ English (EN) (128.64 KB - PDF)
 - [EMEA-001441-PIP08-23 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001441-pip08-23)
 - [Database Linkage Study to Evaluate the Risk of Medullary Thyroid Carcinoma - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000513)
 
-**This page was last updated on** 11/03/2026
+**This page was last updated on** 13/03/2026
 
 ## Share this page
 

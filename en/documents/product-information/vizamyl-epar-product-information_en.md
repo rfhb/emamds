@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-30 10:38:20
-document_pages: 38
+document_datetime: 2026-03-13 09:31:42
+document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vizamyl-epar-product-information_en.pdf
 document_name: vizamyl-epar-product-information_en.pdf
 version: success
-processing_time: 7.6534094
-conversion_datetime: 2026-02-01 20:26:30.099742
+processing_time: 8.8024003
+conversion_datetime: 2026-03-17 19:25:43.816041
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.80.0
+  docling-core: 2.70.1
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -36,7 +36,7 @@ Fluorine ( 18 F) decays to stable oxygen ( 18 O) with a half-life of approximate
 
 ## Excipients with known effect
 
-Each mL of solution contains 55.2 mg of ethanol and 4.1 mg of sodium.
+Each mL of solution contains 55.2 mg of ethanol,4.1 mg of sodium and 4.98 mg of polysorbate 80.
 
 For the full list of excipients, see section 6.1.
 
@@ -199,6 +199,8 @@ Close contact with infants and pregnant women should be restricted during the in
 This medicinal product contains (7 vol %) of ethanol (alcohol), i.e. up to 552 mg (approximately 0.7 mL) per dose. This amount may be harmful for those suffering from alcoholism. To be taken into account in pregnant or breast-feeding women and high-risk groups such as patients with liver disease or epilepsy.
 
 This medicinal product contains up to 41 mg (or 1.8 mmol) sodium per dose,equivalent to 2 % of the WHO recommended maximum daily intake of 2 g sodium for an adult. This may need to be taken into consideration by patients on a controlled sodium diet.
+
+This medicinal product contains up to 49.8 mg of polysorbate 80 per dose. Polysorbates may cause allergic reactions.
 
 For precautions with respect to environmental hazard see section 6.6.
 
@@ -564,20 +566,6 @@ An updated RMP should be submitted:
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 If the dates for submission of a PSUR and the update of a RMP coincide, they can be submitted at the same time.
-
-## · Additional risk minimisation measures
-
-Prior to launch in each Member State the Marketing Authorisation Holder (MAH) shall agree the final educational programme with the National Competent Authority.
-
-The MAH shall ensure that, following discussions and agreement with the National Competent Authorities in each Member State where VIZAMYL is marketed, at launch and after launch, all physicians who are expected to use VIZAMYL have access to a training course in order to ensure accurate and reliable interpretation of the PET images.
-
-The training course for healthcare professionals should contain the following key elements:
-
-- Information on amyloid pathology in Alzheimer Disease; relevant information on VIZAMYL as an β-amyloid PET tracer, including the approved indication according to the SmPC, limitations of VIZAMYL use, interpretation errors, safety information and the results of clinical trials informing on the diagnostic use of VIZAMYL.
-- Review of the PET reading criteria, including method of image review, criteria for interpretation, and images demonstrating the binary read methodology.
-- The material should include VIZAMYL PET demonstration cases with correct PET scan interpretation by an experienced reader; VIZAMYL-PET scans for self-assessment; and a selfqualification procedure to be offered to each trainee. Training should include a sufficient number of clearly positive and negative cases as well as intermediate level cases. Cases should be histopathologically confirmed, if possible.
-
-Expertise and qualification of trainers in both electronic and in-person training should be ensured.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1043,11 +1031,13 @@ If you are pregnant or breast-feeding, think you may be pregnant or are planning
 
 VIZAMYL may cause transient dizziness or vertigo, which may affect your ability to drive or use machines. You should not drive, use machines or engage in other potentially hazardous activities until these effects have completely disappeared.
 
-## VIZAMYL contains alcohol (ethanol) and sodium
+## VIZAMYL contains alcohol (ethanol),sodium and polysorbate 80
 
 VIZAMYL contains alcohol (ethanol). Each dose contains up to 552 mg alcohol. This is about the same as 14 mL of beer or 6 mL of wine. This could be harmful for people with alcoholism and needs to be taken into account in pregnant or breast-feeding women and people with liver problems or epilepsy.
 
 VIZAMYL contains a maximum of 41 mg of sodium (main component of cooking/table salt) in each dose. This is equivalent to approximately 2% of the adult recommended maximum daily dietary intake for sodium  These amounts may need to be considered for people on a low sodium diet.
+
+VIZAMYL contains up to 49.8 mg of polysorbate 80 per dose. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How VIZAMYL will be used
 
@@ -1055,11 +1045,11 @@ There are strict laws on the use, handling and disposal of radiopharmaceutical p
 
 Your nuclear medicine doctor may ask you to drink plenty of water before the start of the examination and the 24 hours after the study in order to urinate as often as possible to help remove it from your body faster.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Dose
 
 The nuclear medicine doctor supervising the procedure will decide on the amount of VIZAMYL to be used in your case. The doctor will choose the smallest amount necessary.
-
-<div style=\"page-break-after: always\"></div>
 
 The usual amount recommended for an adult is 185 MBq. Megabecquerel (MBq) is the unit used to measure radioactivity.
 
@@ -1109,14 +1099,14 @@ Common may affect up to 1 in 10 people
 Uncommon may affect up to 1 in 100 people. You may experience the following uncommon side effects:
 
 - -headache
+
+<div style=\"page-break-after: always\"></div>
+
 - -feeling dizzy
 - -feeling anxious
 - -feeling sick (nausea)
 - -chest discomfort
 - -low blood sugar (symptoms: hunger, headache)
-
-<div style=\"page-break-after: always\"></div>
-
 - -back pain
 - -feeling hot or cold
 - -increased breathing rate
@@ -1159,6 +1149,9 @@ Do not use this medicine if you notice that the vial is damaged or the solution 
 ## What VIZAMYL contains
 
 - -The active substance is flutemetamol ( 18 F). Each mL of solution contains flutemetamol ( 18 F) 400 MBq at reference date and time.
+
+<div style=\"page-break-after: always\"></div>
+
 - -The other ingredients are sodium chloride and ethanol anhydrous, polysorbate 80, sodium dihydrogen phosphate dihydrate, disodium hydrogen phosphate dodecahydrate and water for injections, see section 2.
 
 <div style=\"page-break-after: always\"></div>
@@ -1183,9 +1176,7 @@ Seibersdorf Labor GmbH Oesterreichisches Forschungszentrum 0 Seibersdorf Lower A
 
 Curium PET France Parc scientifique Georges Besse 180 allee Von Neumann 30000 Nîmes France
 
-Advanced Accelerator Applications Molecular Imaging Iberica S.L.U. Hospital Clinico Universitario Virgen de la Arrixaca, Ctra. Madrid-Cartagena, sn, El Palmar, 30120 Murcia
-
-Spain
+Advanced Accelerator Applications Molecular Imaging Iberica S.L.U. Hospital Clinico Universitario Virgen de la Arrixaca, Ctra. Madrid-Cartagena, sn, El Palmar, 30120 Murcia Spain
 
 Curium Italy S.R.L. Via Ripamonti 435 20141 Milano (MI) Italy
 

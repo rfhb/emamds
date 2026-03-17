@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-18 13:02:00
+document_datetime: 2026-03-13 12:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/qtern.html
 document_name: qtern.html
 version: success
-processing_time: 0.1001942
-conversion_datetime: 2026-01-03 12:24:28.441209
+processing_time: 0.0981863
+conversion_datetime: 2026-03-17 19:32:32.000002
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.80.0
+  docling-core: 2.70.1
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Qtern
 
 [RSS](/en/individual-human-medicine.xml/66382)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 saxagliptin / dapagliflozin Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -133,7 +131,7 @@ English (EN) (85.16 KB - PDF)
 
 [View](/en/documents/overview/qtern-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-275)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (114.72 KB - PDF)
 
@@ -413,17 +411,17 @@ English (EN) (362.57 KB - PDF)
 
 Qtern : EPAR - Product Information
 
-English (EN) (677.5 KB - PDF)
+English (EN) (612.98 KB - PDF)
 
 **First published:** 27/07/2016
 
-**Last updated:** 25/11/2024
+**Last updated:** 13/03/2026
 
 [View](/en/documents/product-information/qtern-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-559)
+[Other languages (24)](#file-language-dropdown-842)
 
-български (BG) (833.95 KB - PDF)
+български (BG) (613.87 KB - PDF)
 
 **First published:**
 
@@ -431,11 +429,11 @@ English (EN) (677.5 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/bg/documents/product-information/qtern-epar-product-information_bg.pdf)
 
-español (ES) (445.11 KB - PDF)
+español (ES) (468.74 KB - PDF)
 
 **First published:**
 
@@ -443,11 +441,11 @@ español (ES) (445.11 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/es/documents/product-information/qtern-epar-product-information_es.pdf)
 
-čeština (CS) (576.92 KB - PDF)
+čeština (CS) (596.42 KB - PDF)
 
 **First published:**
 
@@ -455,11 +453,11 @@ español (ES) (445.11 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/cs/documents/product-information/qtern-epar-product-information_cs.pdf)
 
-dansk (DA) (696.98 KB - PDF)
+dansk (DA) (1.9 MB - PDF)
 
 **First published:**
 
@@ -467,11 +465,11 @@ dansk (DA) (696.98 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/da/documents/product-information/qtern-epar-product-information_da.pdf)
 
-Deutsch (DE) (722.51 KB - PDF)
+Deutsch (DE) (521.74 KB - PDF)
 
 **First published:**
 
@@ -479,11 +477,11 @@ Deutsch (DE) (722.51 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/de/documents/product-information/qtern-epar-product-information_de.pdf)
 
-eesti keel (ET) (685.18 KB - PDF)
+eesti keel (ET) (475.09 KB - PDF)
 
 **First published:**
 
@@ -491,11 +489,11 @@ eesti keel (ET) (685.18 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/et/documents/product-information/qtern-epar-product-information_et.pdf)
 
-ελληνικά (EL) (691.69 KB - PDF)
+ελληνικά (EL) (692.17 KB - PDF)
 
 **First published:**
 
@@ -503,11 +501,11 @@ eesti keel (ET) (685.18 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/el/documents/product-information/qtern-epar-product-information_el.pdf)
 
-français (FR) (790.98 KB - PDF)
+français (FR) (575.59 KB - PDF)
 
 **First published:**
 
@@ -515,11 +513,11 @@ français (FR) (790.98 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/fr/documents/product-information/qtern-epar-product-information_fr.pdf)
 
-hrvatski (HR) (904.59 KB - PDF)
+hrvatski (HR) (702.95 KB - PDF)
 
 **First published:**
 
@@ -527,11 +525,11 @@ hrvatski (HR) (904.59 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/hr/documents/product-information/qtern-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.07 MB - PDF)
+íslenska (IS) (518.6 KB - PDF)
 
 **First published:**
 
@@ -539,11 +537,11 @@ hrvatski (HR) (904.59 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/is/documents/product-information/qtern-epar-product-information_is.pdf)
 
-italiano (IT) (552.57 KB - PDF)
+italiano (IT) (567.14 KB - PDF)
 
 **First published:**
 
@@ -551,11 +549,11 @@ italiano (IT) (552.57 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/it/documents/product-information/qtern-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (834.48 KB - PDF)
+latviešu valoda (LV) (653.88 KB - PDF)
 
 **First published:**
 
@@ -563,11 +561,11 @@ latviešu valoda (LV) (834.48 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/lv/documents/product-information/qtern-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (545.03 KB - PDF)
+lietuvių kalba (LT) (538.84 KB - PDF)
 
 **First published:**
 
@@ -575,11 +573,11 @@ lietuvių kalba (LT) (545.03 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/lt/documents/product-information/qtern-epar-product-information_lt.pdf)
 
-magyar (HU) (558.33 KB - PDF)
+magyar (HU) (609.47 KB - PDF)
 
 **First published:**
 
@@ -587,11 +585,11 @@ magyar (HU) (558.33 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/hu/documents/product-information/qtern-epar-product-information_hu.pdf)
 
-Malti (MT) (656.67 KB - PDF)
+Malti (MT) (680.73 KB - PDF)
 
 **First published:**
 
@@ -599,11 +597,11 @@ Malti (MT) (656.67 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/mt/documents/product-information/qtern-epar-product-information_mt.pdf)
 
-Nederlands (NL) (781.07 KB - PDF)
+Nederlands (NL) (1.47 MB - PDF)
 
 **First published:**
 
@@ -611,11 +609,11 @@ Nederlands (NL) (781.07 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/nl/documents/product-information/qtern-epar-product-information_nl.pdf)
 
-norsk (NO) (775.67 KB - PDF)
+norsk (NO) (498.2 KB - PDF)
 
 **First published:**
 
@@ -623,11 +621,11 @@ norsk (NO) (775.67 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/no/documents/product-information/qtern-epar-product-information_no.pdf)
 
-polski (PL) (531.13 KB - PDF)
+polski (PL) (551.31 KB - PDF)
 
 **First published:**
 
@@ -635,11 +633,11 @@ polski (PL) (531.13 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/pl/documents/product-information/qtern-epar-product-information_pl.pdf)
 
-português (PT) (615.23 KB - PDF)
+português (PT) (520.15 KB - PDF)
 
 **First published:**
 
@@ -647,11 +645,11 @@ português (PT) (615.23 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/pt/documents/product-information/qtern-epar-product-information_pt.pdf)
 
-română (RO) (607.22 KB - PDF)
+română (RO) (604.02 KB - PDF)
 
 **First published:**
 
@@ -659,11 +657,11 @@ română (RO) (607.22 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/ro/documents/product-information/qtern-epar-product-information_ro.pdf)
 
-slovenčina (SK) (794.31 KB - PDF)
+slovenčina (SK) (589.99 KB - PDF)
 
 **First published:**
 
@@ -671,11 +669,11 @@ slovenčina (SK) (794.31 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/sk/documents/product-information/qtern-epar-product-information_sk.pdf)
 
-slovenščina (SL) (848.93 KB - PDF)
+slovenščina (SL) (649.1 KB - PDF)
 
 **First published:**
 
@@ -683,11 +681,11 @@ slovenščina (SL) (848.93 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/sl/documents/product-information/qtern-epar-product-information_sl.pdf)
 
-Suomi (FI) (797.19 KB - PDF)
+Suomi (FI) (575.2 KB - PDF)
 
 **First published:**
 
@@ -695,11 +693,11 @@ Suomi (FI) (797.19 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/fi/documents/product-information/qtern-epar-product-information_fi.pdf)
 
-svenska (SV) (844.38 KB - PDF)
+svenska (SV) (638.5 KB - PDF)
 
 **First published:**
 
@@ -707,11 +705,11 @@ svenska (SV) (844.38 KB - PDF)
 
 **Last updated:**
 
-25/11/2024
+13/03/2026
 
 [View](/sv/documents/product-information/qtern-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** WS2664 18/07/2024
+**Latest procedure affecting product information:** VR/0000310736 12/03/2026
 
 icon globe
 
@@ -737,7 +735,7 @@ English (EN) (30.17 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/qtern-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-786)
+[Other languages (24)](#file-language-dropdown-924)
 
 български (BG) (38.44 KB - PDF)
 
@@ -1070,7 +1068,7 @@ Astra Zeneca AB
 
 51 85 Södertälje
 
-Marketing authorisation issued 15/07/2016 Revision 14
+Marketing authorisation issued 15/07/2016 Revision 15
 
 ## Assessment history
 
@@ -1082,11 +1080,11 @@ Collapse section
 
 Qtern : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (142.38 KB - PDF)
+English (EN) (153.5 KB - PDF)
 
 **First published:** 13/06/2017
 
-**Last updated:** 30/04/2025
+**Last updated:** 13/03/2026
 
 [View](/en/documents/procedural-steps-after/qtern-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1120,25 +1118,25 @@ English (EN) (70.01 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-opinion-qtern_en.pdf)
 
-#### News on Qtern
+## News on Qtern
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 April 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-april-2018) 27/04/2018
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 May 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-may-2016) 27/05/2016
 
-#### Related information
+## Related information
 
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/home?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-3=2=EMEAHC0040570000) (initial marketing authorisation)
 
-#### More information on Qtern
+## More information on Qtern
 
 - [Qtern - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/qtern)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 18/12/2025
+**This page was last updated on** 13/03/2026
 
 ## Share this page
 

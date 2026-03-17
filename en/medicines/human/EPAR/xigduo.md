@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-18 13:01:00
+document_datetime: 2026-03-13 12:32:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xigduo.html
 document_name: xigduo.html
 version: success
-processing_time: 0.1734391
-conversion_datetime: 2026-01-03 12:31:27.734069
+processing_time: 0.1423546
+conversion_datetime: 2026-03-17 19:25:21.618717
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.80.0
+  docling-core: 2.70.1
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Xigduo
 
 [RSS](/en/individual-human-medicine.xml/65424)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 dapagliflozin / metformin Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -134,7 +132,7 @@ English (EN) (132.54 KB - PDF)
 
 [View](/en/documents/overview/xigduo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-750)
+[Other languages (22)](#file-language-dropdown-274)
 
 български (BG) (171.39 KB - PDF)
 
@@ -414,17 +412,17 @@ English (EN) (334.42 KB - PDF)
 
 Xigduo : EPAR - Product Information
 
-English (EN) (877.36 KB - PDF)
+English (EN) (620.88 KB - PDF)
 
 **First published:** 10/02/2014
 
-**Last updated:** 23/05/2025
+**Last updated:** 13/03/2026
 
 [View](/en/documents/product-information/xigduo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-868)
+[Other languages (24)](#file-language-dropdown-806)
 
-български (BG) (961.34 KB - PDF)
+български (BG) (614.31 KB - PDF)
 
 **First published:**
 
@@ -432,11 +430,11 @@ English (EN) (877.36 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/bg/documents/product-information/xigduo-epar-product-information_bg.pdf)
 
-español (ES) (495.75 KB - PDF)
+español (ES) (523.61 KB - PDF)
 
 **First published:**
 
@@ -444,11 +442,11 @@ español (ES) (495.75 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/es/documents/product-information/xigduo-epar-product-information_es.pdf)
 
-čeština (CS) (663.43 KB - PDF)
+čeština (CS) (660.13 KB - PDF)
 
 **First published:**
 
@@ -456,11 +454,11 @@ español (ES) (495.75 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/cs/documents/product-information/xigduo-epar-product-information_cs.pdf)
 
-dansk (DA) (854.15 KB - PDF)
+dansk (DA) (556.24 KB - PDF)
 
 **First published:**
 
@@ -468,11 +466,11 @@ dansk (DA) (854.15 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/da/documents/product-information/xigduo-epar-product-information_da.pdf)
 
-Deutsch (DE) (844.34 KB - PDF)
+Deutsch (DE) (553.34 KB - PDF)
 
 **First published:**
 
@@ -480,11 +478,11 @@ Deutsch (DE) (844.34 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/de/documents/product-information/xigduo-epar-product-information_de.pdf)
 
-eesti keel (ET) (802.36 KB - PDF)
+eesti keel (ET) (514.86 KB - PDF)
 
 **First published:**
 
@@ -492,11 +490,11 @@ eesti keel (ET) (802.36 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/et/documents/product-information/xigduo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (670.2 KB - PDF)
+ελληνικά (EL) (666.88 KB - PDF)
 
 **First published:**
 
@@ -504,11 +502,11 @@ eesti keel (ET) (802.36 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/el/documents/product-information/xigduo-epar-product-information_el.pdf)
 
-français (FR) (622.4 KB - PDF)
+français (FR) (642.3 KB - PDF)
 
 **First published:**
 
@@ -516,11 +514,11 @@ français (FR) (622.4 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/fr/documents/product-information/xigduo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (875.42 KB - PDF)
+hrvatski (HR) (591.34 KB - PDF)
 
 **First published:**
 
@@ -528,11 +526,11 @@ hrvatski (HR) (875.42 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/hr/documents/product-information/xigduo-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.2 MB - PDF)
+íslenska (IS) (556.13 KB - PDF)
 
 **First published:**
 
@@ -540,11 +538,11 @@ hrvatski (HR) (875.42 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/is/documents/product-information/xigduo-epar-product-information_is.pdf)
 
-italiano (IT) (589.96 KB - PDF)
+italiano (IT) (615.07 KB - PDF)
 
 **First published:**
 
@@ -552,11 +550,11 @@ italiano (IT) (589.96 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/it/documents/product-information/xigduo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (712 KB - PDF)
+latviešu valoda (LV) (734.64 KB - PDF)
 
 **First published:**
 
@@ -564,11 +562,11 @@ latviešu valoda (LV) (712 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/lv/documents/product-information/xigduo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1016.24 KB - PDF)
+lietuvių kalba (LT) (714.28 KB - PDF)
 
 **First published:**
 
@@ -576,11 +574,11 @@ lietuvių kalba (LT) (1016.24 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/lt/documents/product-information/xigduo-epar-product-information_lt.pdf)
 
-magyar (HU) (624.83 KB - PDF)
+magyar (HU) (654.72 KB - PDF)
 
 **First published:**
 
@@ -588,11 +586,11 @@ magyar (HU) (624.83 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/hu/documents/product-information/xigduo-epar-product-information_hu.pdf)
 
-Malti (MT) (727.65 KB - PDF)
+Malti (MT) (750.41 KB - PDF)
 
 **First published:**
 
@@ -600,11 +598,11 @@ Malti (MT) (727.65 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/mt/documents/product-information/xigduo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (981.94 KB - PDF)
+Nederlands (NL) (696.22 KB - PDF)
 
 **First published:**
 
@@ -612,11 +610,11 @@ Nederlands (NL) (981.94 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/nl/documents/product-information/xigduo-epar-product-information_nl.pdf)
 
-norsk (NO) (531.5 KB - PDF)
+norsk (NO) (558.98 KB - PDF)
 
 **First published:**
 
@@ -624,11 +622,11 @@ norsk (NO) (531.5 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/no/documents/product-information/xigduo-epar-product-information_no.pdf)
 
-polski (PL) (1.01 MB - PDF)
+polski (PL) (717.52 KB - PDF)
 
 **First published:**
 
@@ -636,11 +634,11 @@ polski (PL) (1.01 MB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/pl/documents/product-information/xigduo-epar-product-information_pl.pdf)
 
-português (PT) (860.57 KB - PDF)
+português (PT) (601.41 KB - PDF)
 
 **First published:**
 
@@ -648,11 +646,11 @@ português (PT) (860.57 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/pt/documents/product-information/xigduo-epar-product-information_pt.pdf)
 
-română (RO) (1.02 MB - PDF)
+română (RO) (746.37 KB - PDF)
 
 **First published:**
 
@@ -660,11 +658,11 @@ română (RO) (1.02 MB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/ro/documents/product-information/xigduo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (944.64 KB - PDF)
+slovenčina (SK) (618.14 KB - PDF)
 
 **First published:**
 
@@ -672,11 +670,11 @@ slovenčina (SK) (944.64 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/sk/documents/product-information/xigduo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (928.46 KB - PDF)
+slovenščina (SL) (639.79 KB - PDF)
 
 **First published:**
 
@@ -684,11 +682,11 @@ slovenščina (SL) (928.46 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/sl/documents/product-information/xigduo-epar-product-information_sl.pdf)
 
-Suomi (FI) (949.36 KB - PDF)
+Suomi (FI) (682.95 KB - PDF)
 
 **First published:**
 
@@ -696,11 +694,11 @@ Suomi (FI) (949.36 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/fi/documents/product-information/xigduo-epar-product-information_fi.pdf)
 
-svenska (SV) (970.48 KB - PDF)
+svenska (SV) (681.04 KB - PDF)
 
 **First published:**
 
@@ -708,11 +706,11 @@ svenska (SV) (970.48 KB - PDF)
 
 **Last updated:**
 
-23/05/2025
+13/03/2026
 
 [View](/sv/documents/product-information/xigduo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000258017 08/05/2025
+**Latest procedure affecting product information:** VR/0000310736 12/03/2026
 
 icon globe
 
@@ -738,7 +736,7 @@ English (EN) (23.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xigduo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-246)
+[Other languages (24)](#file-language-dropdown-973)
 
 български (BG) (43.15 KB - PDF)
 
@@ -1063,7 +1061,7 @@ AstraZeneca AB
 
 151 85 Sodertalje Sweden
 
-Opinion adopted 20/11/2013 Marketing authorisation issued 16/01/2014 Revision 25
+Opinion adopted 20/11/2013 Marketing authorisation issued 16/01/2014 Revision 26
 
 ## Assessment history
 
@@ -1075,9 +1073,11 @@ Collapse section
 
 Xigduo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (148.13 KB - PDF)
+English (EN) (154.54 KB - PDF)
 
 **First published:** 23/05/2025
+
+**Last updated:** 13/03/2026
 
 [View](/en/documents/procedural-steps-after/xigduo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1139,7 +1139,7 @@ English (EN) (41.36 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/xigduo-h-a20-1442-c-2672-0024-epar-scientific-conclusion-article-20_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-188)
+[Other languages (24)](#file-language-dropdown-213)
 
 български (BG) (84.18 KB - PDF)
 
@@ -1453,7 +1453,7 @@ English (EN) (39.29 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/xigduo-metformin-epar-scientific-conclusion_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-107)
+[Other languages (24)](#file-language-dropdown-129)
 
 български (BG) (74.69 KB - PDF)
 
@@ -1753,7 +1753,7 @@ English (EN) (44.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/xigduo-sglt2-inhibitors-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-463)
+[Other languages (22)](#file-language-dropdown-672)
 
 български (BG) (111.7 KB - PDF)
 
@@ -2063,7 +2063,7 @@ English (EN) (63.86 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-xigduo_en.pdf)
 
-#### News on Xigduo
+## News on Xigduo
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2019) 28/06/2019
 
@@ -2075,7 +2075,7 @@ English (EN) (63.86 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 November 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-november-2013) 22/11/2013
 
-#### More information on Xigduo
+## More information on Xigduo
 
 - [SGLT2 inhibitors - referral](/en/medicines/human/referrals/sglt2-inhibitors)
 - [Metformin and metformin-containing medicines - referral](/en/medicines/human/referrals/metformin-metformin-containing-medicines)
@@ -2085,11 +2085,11 @@ English (EN) (63.86 KB - PDF)
 - [Comparison of the Risk of Acute Kidney Injury Between Patients With Type 2 Diabetes Exposed to Dapagliflozin and Those Exposed to Other Antidiabetic Treatments - post-authorisation study](https://catalogues.ema.europa.eu/study/50490)
 - [Comparison of the Risk of Acute Liver Injury Between Patients With Type 2 Diabetes Exposed to Dapagliflozin and Those Exposed to Other Antidiabetic Treatments - post-authorisation study](https://catalogues.ema.europa.eu/study/50493)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 18/12/2025
+**This page was last updated on** 13/03/2026
 
 ## Share this page
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-07 16:45:31
+document_datetime: 2026-03-13 11:07:22
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/skyclarys-epar-product-information_en.pdf
 document_name: skyclarys-epar-product-information_en.pdf
 version: success
-processing_time: 6.5885137
-conversion_datetime: 2025-12-20 19:01:03.924772
+processing_time: 7.4680249
+conversion_datetime: 2026-03-17 19:30:25.266421
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.80.0
+  docling-core: 2.70.1
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -253,14 +253,6 @@ Table 2 Adverse reactions
 | Investigations                                       | BNP increased b    | Common               |
 | Investigations                                       | Weight decreased c | Very common          |
 
-a  Cases have been reported in the post-marketing setting with unknown frequency.
-
-b Based on laboratory evaluations with values &gt; 200 pg/mL.
-
-c Based on weight measured in the clinic with ontreatment weight loss ≥ 5%.
-
-ALT=alanine aminotransferase; AST=aspartate aminotransferase; BNP=B-type natriuretic peptide; GGT=gamma glutamyltransferase.
-
 ## Description of selected adverse reactions
 
 ## Gastrointestinal disorders
@@ -313,7 +305,7 @@ The precise mechanism by which omaveloxolone exerts its therapeutic effect in pa
 
 ## Pharmacodynamic effects
 
-Omaveloxolone binds to Kelch-like ECH-associated protein 1 (Keap1), a protein that regulates the activity of Nrf2. Binding to Keap1 allows nuclear translocation of Nrf2 and transcription of its target genes. In fibroblasts isolated from patients with Friedreich's ataxi a, omaveloxolone was shown to restore Nrf2 protein levels and increase Nrf2 activity. Omaveloxolone was also shown to rescue mitochondrial dysfunction and restore redox balance in these cells, as well as in neurons from mouse models of Friedreich's ataxia. Evidence of pharmacodynamic activity was observed in omaveloxolone-treated patients, with dose-dependent changes in the products of Nrf2 target genes, serum ferritin and GGT, across the dose range of 20 mg to 300 mg. Patients who received omaveloxolone 160 mg generally showed the largest increase from baseline for these serum markers.
+Omaveloxolone binds to Kelch-like ECH-associated protein 1 (Keap1), a protein that regulates the activity of Nrf2. Binding to Keap1 allows nuclear translocation of Nrf2 and transcription of its target genes. In fibroblasts isolated from patients with Fried reich's ataxia, omaveloxolone was shown to restore Nrf2 protein levels and increase Nrf2 activity. Omaveloxolone was also shown to rescue mitochondrial dysfunction and restore redox balance in these cells, as well as in neurons from mouse models of Friedre ich's ataxia. Evidence of pharmacodynamic activity was observed in omaveloxolone-treated patients, with dose-dependent changes in the products of Nrf2 target genes, serum ferritin and GGT, across the dose range of 20 mg to 300 mg. Patients who received omaveloxolone 160 mg generally showed the largest increase from baseline for these serum markers.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -352,7 +344,7 @@ Table 3 Study 1 Part 2: mFARS Results (FAS)
 | LS Mean Difference (SE)      | -2.41 (0.955)      | -                |
 | p-value vs. placebo          | 0.0138             |                  |
 
-Abbreviations: FAS=Full Analysis Set; LS=least squares; mFARS =modified Friedreich's ataxia rating scale. Note: mFARS scores can range from 0 to 99 points. Within each section of the mFARS, the minimum score is 0. The maximum score for each section is as follows: 11 points for Bulbar Function, 36 points for Upper Limb Coordination, 16 points for Lower Limb Coordination, and 36 points for Upright Stability.
+Abbreviations: FAS=Full Analysis Set; LS=least squares; mFARS=modified Friedreich's ataxia rating scale. Note: mFARS scores can range from 0 to 99 points. Within each section of the mFARS, the minimum score is 0. The maximum score for each section is as follows: 11 points for Bulbar Function, 36 points for Upper Limb Coordination, 16 points for Lower Limb Coordination, and 36 points for Upright Stability.
 
 In the All Randomized Population (N=103), which included all patients regardless of pes cavus status, Skyclarys improved mFARS scores relative to placebo, with a least squares mean difference of -1.9 4 (standard error 0.894) (nominal p=0.0331).
 
@@ -360,21 +352,21 @@ In exploratory subgroup analyses, point estimates for changes in mFARS consisten
 
 Table 4 Study 1 Part 2: Change in mFARS at Week 48 in subgroups (FAS)
 
-| Subgroup                 | Least Squares Mean Difference a (95% CI)   | P-Value   |
+| Subgroup                 | Least Squares Mean Difference a (95% CI)   |   P-Value |
 |--------------------------|--------------------------------------------|-----------|
 | Age                      |                                            |           |
-| < 18 years (n=20)        | -4.21 (-8.48, 0.06)                        | 0.0532    |
-| ≥ 18 years (n=62)        | -1.59 (-3.77. 0.58)                        | 0.1486    |
+| < 18 years (n=20)        | -4.21 (-8.48, 0.06)                        |    0.0532 |
+| ≥ 18 years (n=62)        | -1.59 (-3.77. 0.58)                        |    0.1486 |
 | GAA1 repeat length ≥ 675 |                                            |           |
-| Yes (n=39)               | -4.27 (-6.96, -1.58)                       | 0.0024    |
-| No (n=28)                | -1.95 (-5.20, 1.29)                        | 0.2325    |
+| Yes (n=39)               | -4.27 (-6.96, -1.58)                       |    0.0024 |
+| No (n=28)                | -1.95 (-5.20, 1.29)                        |    0.2325 |
 | Ambulatory status        |                                            |           |
-| Non-ambulatory (n=6)     | -4.57 (-11.41, 2.27)                       | 0.1864    |
-| Ambulatory (n=76)        | -2.20 (-4.22, -0.18)                       | 0.0336    |
+| Non-ambulatory (n=6)     | -4.57 (-11.41, 2.27)                       |    0.1864 |
+| Ambulatory (n=76)        | -2.20 (-4.22, -0.18)                       |    0.0336 |
 
 Abbreviations: CI=confidence interval; FAS=Full Analysis Set; GAA1 repeat length=length of the trinucleotide repeats in the GAA1 allele composed of 1 guanine and 2 adenines; mFARS=modified Friedreich's ataxia rating scale.
 
-a Least squares mean difference is Skyclarys ₋ placebo.
+a  Least squares mean difference is Skyclarys ₋ placebo.
 
 Although Study 1 was not powered to detect a difference in the key secondary endpoints, Patient Global Impression of Change (PGIC) and Clinical Global Impression of Change (CGIC), PGIC and CGIC scores at Week 48 were numerically improved in patients treated with Skyclarys relative to placebo in the primary analysis population (least squares [LS] mean difference in PGIC= -0.43, LS mean difference in CGIC= -0.13). Additionally, treatment of patients with Skyclarys resulted in numerically improved FA-ADL scores relative to placebo, with an LS mean difference of -1.30 points (standard error=0.629).
 
@@ -476,7 +468,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-4 years
+5 years
 
 ## 6.4 Special precautions for storage
 

@@ -1,28 +1,26 @@
 ---
-document_datetime: 2026-02-16 14:52:03
+document_datetime: 2026-03-13 12:29:33
 document_pages: 26
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/orphacol-epar-product-information_en.pdf
 document_name: orphacol-epar-product-information_en.pdf
 version: success
-processing_time: 5.5200535
-conversion_datetime: 2026-02-18 17:46:50.448929
+processing_time: 5.4943277
+conversion_datetime: 2026-03-17 19:00:41.977835
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.80.0
+  docling-core: 2.70.1
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
 
 This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
@@ -194,7 +192,7 @@ The following table lists adverse reactions reported in the literature under tre
 
 ## Description of selected adverse reactions
 
-The development of pruritus and/or diarrhoea has been observed during treatment with Orphacol. These reactions  abated  after  dose  reduction  and  are  suggestive  of  overdose.  Patients  presenting  with  pruritus and/or persistent diarrhoea should be investigated for a potential overdose by a serum and/or urine bile acid assay (see section 4.9).
+The development of pruritus and/or diarrhoea has been observed during treatment with Orphacol. These reactions abated after dose reduction and are suggestive of overdose. Patients presenting with pruritus and/or persistent diarrhoea should be investigated for a potential overdose by a serum and/or urine bile acid assay (see section 4.9).
 
 Gallstones have been reported after long-term therapy.
 
@@ -346,6 +344,10 @@ Name and address of the manufacturer(s) responsible for batch release
 
 THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine France
 
+Norgine B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam Netherlands
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
+
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 Medicinal product subject to restricted medical prescription (See Annex I: Summary of Product Characteristics, section 4.2).
@@ -369,14 +371,15 @@ An updated RMP should be submitted:
 
 ## · Additional risk minimisation measures
 
-The MAH, in agreement with the competent authorities in the Member States, shall implement, prior to the launch, an educational programme for physicians aiming to provide educational material on correct diagnosis and therapeutic managements of the treatment of inborn errors in primary bile acid synthesis due to 3β -HydroxyΔ 5 -C27steroid oxidoreductase deficiency or Δ 4 -3-Oxosteroid5β -reductase deficiency and to inform on expected and potential risks associated with the treatment.
+The MAH, in agreement with the competent authorities in the Member States, shall implement, prior to the launch, an educational programme for physicians aiming to provide educational material on correct
+
+<div style=\"page-break-after: always\"></div>
+
+diagnosis and therapeutic managements of the treatment of inborn errors in primary bile acid synthesis due to 3β -HydroxyΔ 5 -C27steroid oxidoreductase deficiency or Δ 4 -3-Oxosteroid5β -reductase deficiency and to inform on expected and potential risks associated with the treatment.
 
 The physician educational programme should contain the following key elements:
 
 - Prescription of a supratherapeutic dose (MedDRA term: drug toxicity)
-
-<div style=\"page-break-after: always\"></div>
-
 - Risk of gallstones
 
 ## E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE MARKETING AUTHORISATION UNDER EXCEPTIONAL CIRCUMSTANCES
@@ -396,8 +399,6 @@ This being an approval under exceptional circumstances and pursuant to Article 1
 <div style=\"page-break-after: always\"></div>
 
 ## A. LABELLING
-
-<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -444,6 +445,8 @@ Keep out of the reach and sight of children.
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 ## 8. EXPIRY DATE
+
+<div style=\"page-break-after: always\"></div>
 
 EXP
 
@@ -497,11 +500,11 @@ Justification for not including Braille accepted
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
+PC: {number}
+
 <div style=\"page-break-after: always\"></div>
 
-```
-PC: {number} SN: {number} NN: {number}
-```
+SN: {number} NN: {number}
 
 <div style=\"page-break-after: always\"></div>
 
@@ -670,7 +673,9 @@ Medicines should not be disposed of via wasterwater or household waste. Ask your
 
 ## What Orphacol contains
 
-- The active substance is cholic acid.
+- -
+
+The active substance is cholic acid.
 
 Orphacol 50 mg
 
@@ -708,41 +713,29 @@ Manufacturer THERAVIA 16 Rue Montrosier 92200 Neuilly-sur-Seine
 
 France
 
+Norgine B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam Netherlands
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
+België/Belgique/Belgien Norgine N.V./S.A.
 
-Norgine N.V./S.A. Tél/Tel: +32 16 39 27 43 medinfo@norgine.com
+Tél/Tel: +32 16 39 27 43 medinfo@norgine.com
 
 Lietuva
 
 Immedica Pharma AB Tel/Puh: +46 (0)8 533 39 500 info@immedica.com
 
+<div style=\"page-break-after: always\"></div>
+
 ## България
 
-THERAVIA
+THERAVIA .: +33 (0)1 72 69 01 86
 
-Te л
-
-.: +33 (0)1 72 69 01 86
-
-question@theravia.com
-
-## Luxembourg/Luxemburg
-
-THERAVIA
-
-Tél/Tel: +352 278 62 329
-
-question@theravia.com
-
-<div style=\"page-break-after: always\"></div>
+Te л question@theravia.com
 
 ## Česká republika
 
-THERAVIA
-
-Tel.: +33 (0)1 72 69 01 86 question@theravia.com
+THERAVIA Tel.: +33 (0)1 72 69 01 86 question@theravia.com
 
 ## Danmark
 
@@ -750,13 +743,7 @@ Immedica Pharma AB Tlf: +46 (0)8 533 39 500 info@immedica.com
 
 ## Deutschland
 
-THERAVIA
-
-Tel:
-
-Tel: 08001090001
-
-question@theravia.com
+THERAVIA Tel: Tel: 08001090001 question@theravia.com
 
 ## Eesti
 
@@ -764,7 +751,7 @@ Immedica Pharma AB Tel/Puh: +46 (0)8 533 39 500 info@immedica.com
 
 ## Ελλάδα
 
-THERAVIA Τηλ : +33 (0)1 72 69 01 86 question@theravia.com
+THERAVIA Τηλ : 0080044145096 question@theravia.com
 
 ## España
 
@@ -782,27 +769,33 @@ Medis Adria d.o.o. Tel: +385 (1) 230 3446 info@medisadria.hr
 
 THERAVIA Tel: Tel : +353-(0)1-903 8043 question@theravia.com
 
-## Ísland
+## Luxembourg/Luxemburg
 
-Immedica Pharma AB Sími: + 46 (0)8 533 39 500 info@immedica.com
+THERAVIA Tél/Tel: +352 278 62 329 question@theravia.com
 
 ## Magyarország
 
 Medis Hungary Kft Tel: +36 (2) 380 1028 info@medis.hu
 
+## Malta
+
+THERAVIA Tel: +33 (0)1 72 69 01 86 question@theravia.com
+
 ## Nederland
 
-THERAVIA
-
-Tel:
-
-Tel : +31 (0)20 208 2161
-
-question@theravia.com
+THERAVIA Tel: Tel : +31 (0)20 208 2161 question@theravia.com
 
 ## Norge
 
 Immedica Pharma AB Tel/Puh: +46 (0)8 533 39 500 info@immedica.com
+
+## Österreich
+
+THERAVIA
+
+Tel: +33 (0)1 72 69 01 86
+
+question@theravia.com
 
 ## Polska
 
@@ -818,13 +811,19 @@ THERAVIA Tel: +33 (0)1 72 69 01 86 question@theravia.com
 
 ## Slovenija
 
-Medis d.o.o. Tel: +386 (1) 589 6900 info@medis.si
+Medis d.o.o.
 
-## Slovenská republika
-
-THERAVIA Tel: +33 (0)1 72 69 01 86 question@theravia.com
+Tel: +386 (1) 589 6900 info@medis.si
 
 <div style=\"page-break-after: always\"></div>
+
+## Ísland
+
+Immedica Pharma AB
+
+Sími: + 46 (0)8 533 39 500
+
+info@immedica.com
 
 ## Italia
 
@@ -840,7 +839,9 @@ question@theravia.com
 
 THERAVIA
 
-Τηλ : +33 (0)1 72 69 01 86
+Τηλ
+
+: +33 (0)1 72 69 01 86
 
 question@theravia.com
 
@@ -864,9 +865,21 @@ The European Medicines Agency will review any new information on the medicine ev
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/. There are also links to other websites about rare diseases and treatments.
 
+## Slovenská republika
+
+THERAVIA
+
+Tel: +33 (0)1 72 69 01 86
+
+question@theravia.com
+
 ## Suomi/Finland
 
-Immedica Pharma AB Tel/Puh: +46 (0)8 533 39 500 info@immedica.com
+Immedica Pharma AB
+
+Tel/Puh: +46 (0)8 533 39 500
+
+info@immedica.com
 
 ## Sverige
 

@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 12:11:09
+document_datetime: 2026-03-13 12:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/edistride.html
 document_name: edistride.html
 version: success
-processing_time: 0.1350041
-conversion_datetime: 2025-12-31 04:26:25.762795
+processing_time: 0.0881566
+conversion_datetime: 2026-03-17 19:27:59.792523
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.80.0
+  docling-core: 2.70.1
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Edistride
 
 [RSS](/en/individual-human-medicine.xml/66666)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 dapagliflozin Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -151,17 +149,17 @@ English (EN) (1007.93 KB - PDF)
 
 Edistride : EPAR - Product information
 
-English (EN) (1.45 MB - PDF)
+English (EN) (996.16 KB - PDF)
 
 **First published:** 10/12/2015
 
-**Last updated:** 29/10/2024
+**Last updated:** 13/03/2026
 
 [View](/en/documents/product-information/edistride-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-959)
+[Other languages (24)](#file-language-dropdown-563)
 
-български (BG) (939.44 KB - PDF)
+български (BG) (945.37 KB - PDF)
 
 **First published:**
 
@@ -169,11 +167,11 @@ English (EN) (1.45 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/bg/documents/product-information/edistride-epar-product-information_bg.pdf)
 
-español (ES) (952.4 KB - PDF)
+español (ES) (967.3 KB - PDF)
 
 **First published:**
 
@@ -181,11 +179,11 @@ español (ES) (952.4 KB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/es/documents/product-information/edistride-epar-product-information_es.pdf)
 
-čeština (CS) (960.73 KB - PDF)
+čeština (CS) (863.36 KB - PDF)
 
 **First published:**
 
@@ -193,11 +191,11 @@ español (ES) (952.4 KB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/cs/documents/product-information/edistride-epar-product-information_cs.pdf)
 
-dansk (DA) (762.9 KB - PDF)
+dansk (DA) (703.46 KB - PDF)
 
 **First published:**
 
@@ -205,11 +203,11 @@ dansk (DA) (762.9 KB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/da/documents/product-information/edistride-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.32 MB - PDF)
+Deutsch (DE) (999.97 KB - PDF)
 
 **First published:**
 
@@ -217,11 +215,11 @@ Deutsch (DE) (1.32 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/de/documents/product-information/edistride-epar-product-information_de.pdf)
 
-eesti keel (ET) (3.85 MB - PDF)
+eesti keel (ET) (747.09 KB - PDF)
 
 **First published:**
 
@@ -229,11 +227,11 @@ eesti keel (ET) (3.85 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/et/documents/product-information/edistride-epar-product-information_et.pdf)
 
-ελληνικά (EL) (945 KB - PDF)
+ελληνικά (EL) (917.26 KB - PDF)
 
 **First published:**
 
@@ -241,11 +239,11 @@ eesti keel (ET) (3.85 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/el/documents/product-information/edistride-epar-product-information_el.pdf)
 
-français (FR) (4.26 MB - PDF)
+français (FR) (1.05 MB - PDF)
 
 **First published:**
 
@@ -253,11 +251,11 @@ français (FR) (4.26 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/fr/documents/product-information/edistride-epar-product-information_fr.pdf)
 
-hrvatski (HR) (986.21 KB - PDF)
+hrvatski (HR) (965.67 KB - PDF)
 
 **First published:**
 
@@ -265,11 +263,11 @@ hrvatski (HR) (986.21 KB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/hr/documents/product-information/edistride-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.59 MB - PDF)
+íslenska (IS) (884.12 KB - PDF)
 
 **First published:**
 
@@ -277,11 +275,11 @@ hrvatski (HR) (986.21 KB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/is/documents/product-information/edistride-epar-product-information_is.pdf)
 
-italiano (IT) (958.73 KB - PDF)
+italiano (IT) (869.75 KB - PDF)
 
 **First published:**
 
@@ -289,11 +287,11 @@ italiano (IT) (958.73 KB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/it/documents/product-information/edistride-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.12 MB - PDF)
+latviešu valoda (LV) (1.07 MB - PDF)
 
 **First published:**
 
@@ -301,11 +299,11 @@ latviešu valoda (LV) (1.12 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/lv/documents/product-information/edistride-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.17 MB - PDF)
+lietuvių kalba (LT) (1.16 MB - PDF)
 
 **First published:**
 
@@ -313,11 +311,11 @@ lietuvių kalba (LT) (1.17 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/lt/documents/product-information/edistride-epar-product-information_lt.pdf)
 
-magyar (HU) (1.11 MB - PDF)
+magyar (HU) (1.05 MB - PDF)
 
 **First published:**
 
@@ -325,11 +323,11 @@ magyar (HU) (1.11 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/hu/documents/product-information/edistride-epar-product-information_hu.pdf)
 
-Malti (MT) (1.03 MB - PDF)
+Malti (MT) (1.02 MB - PDF)
 
 **First published:**
 
@@ -337,11 +335,11 @@ Malti (MT) (1.03 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/mt/documents/product-information/edistride-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.48 MB - PDF)
+Nederlands (NL) (967.36 KB - PDF)
 
 **First published:**
 
@@ -349,11 +347,11 @@ Nederlands (NL) (1.48 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/nl/documents/product-information/edistride-epar-product-information_nl.pdf)
 
-norsk (NO) (989.14 KB - PDF)
+norsk (NO) (981.6 KB - PDF)
 
 **First published:**
 
@@ -361,11 +359,11 @@ norsk (NO) (989.14 KB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/no/documents/product-information/edistride-epar-product-information_no.pdf)
 
-polski (PL) (1.17 MB - PDF)
+polski (PL) (878.79 KB - PDF)
 
 **First published:**
 
@@ -373,11 +371,11 @@ polski (PL) (1.17 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/pl/documents/product-information/edistride-epar-product-information_pl.pdf)
 
-português (PT) (1.18 MB - PDF)
+português (PT) (892.8 KB - PDF)
 
 **First published:**
 
@@ -385,11 +383,11 @@ português (PT) (1.18 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/pt/documents/product-information/edistride-epar-product-information_pt.pdf)
 
-română (RO) (4.49 MB - PDF)
+română (RO) (1.13 MB - PDF)
 
 **First published:**
 
@@ -397,11 +395,11 @@ română (RO) (4.49 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/ro/documents/product-information/edistride-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.14 MB - PDF)
+slovenčina (SK) (830.67 KB - PDF)
 
 **First published:**
 
@@ -409,11 +407,11 @@ slovenčina (SK) (1.14 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/sk/documents/product-information/edistride-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.01 MB - PDF)
+slovenščina (SL) (965.56 KB - PDF)
 
 **First published:**
 
@@ -421,11 +419,11 @@ slovenščina (SL) (1.01 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/sl/documents/product-information/edistride-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.08 MB - PDF)
+Suomi (FI) (1.06 MB - PDF)
 
 **First published:**
 
@@ -433,11 +431,11 @@ Suomi (FI) (1.08 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/fi/documents/product-information/edistride-epar-product-information_fi.pdf)
 
-svenska (SV) (1.21 MB - PDF)
+svenska (SV) (895.47 KB - PDF)
 
 **First published:**
 
@@ -445,11 +443,11 @@ svenska (SV) (1.21 MB - PDF)
 
 **Last updated:**
 
-29/10/2024
+13/03/2026
 
 [View](/sv/documents/product-information/edistride-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUSA/00010029/202310 01/08/2024
+**Latest procedure affecting product information:** VR/0000310736 12/03/2026
 
 icon globe
 
@@ -475,7 +473,7 @@ English (EN) (27.12 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-131)
+[Other languages (24)](#file-language-dropdown-15)
 
 български (BG) (31.32 KB - PDF)
 
@@ -807,7 +805,7 @@ AstraZeneca AB
 
 151 85 Sodertalje
 
-Opinion adopted 23/09/2015 Marketing authorisation issued 09/11/2015 Revision 25
+Opinion adopted 23/09/2015 Marketing authorisation issued 09/11/2015 Revision 26
 
 ## Assessment history
 
@@ -819,13 +817,21 @@ Collapse section
 
 Edistride : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (150.96 KB - PDF)
+
+**First published:** 13/03/2026
+
+[View](/en/documents/procedural-steps-after/edistride-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Edistride : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (275.68 KB - PDF)
 
 **First published:** 14/04/2016
 
-**Last updated:** 29/10/2024
+**Last updated:** 13/03/2026
 
-[View](/en/documents/procedural-steps-after/edistride-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/edistride-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Edistride-H-C-PSUSA-00010029-202310 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1015,7 +1021,7 @@ English (EN) (41.36 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-521)
+[Other languages (24)](#file-language-dropdown-51)
 
 български (BG) (84.18 KB - PDF)
 
@@ -1347,7 +1353,7 @@ English (EN) (69.91 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-edistride_en.pdf)
 
-#### News on Edistride
+## News on Edistride
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 December 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-december-2022) 16/12/2022
 
@@ -1367,16 +1373,16 @@ English (EN) (69.91 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 September 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-september-2015) 25/09/2015
 
-#### More information on Edistride
+## More information on Edistride
 
 - [SGLT2 inhibitors - referral](/en/medicines/human/referrals/sglt2-inhibitors)
 - [SGLT2 inhibitors (previously canagliflozin) - referral](/en/medicines/human/referrals/sglt2-inhibitors-previously-canagliflozin)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 31/10/2024
+**This page was last updated on** 13/03/2026
 
 ## Share this page
 

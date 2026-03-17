@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:37:39
+document_datetime: 2026-03-13 15:33:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/skyclarys.html
 document_name: skyclarys.html
 version: success
-processing_time: 0.1089383
-conversion_datetime: 2025-12-30 03:29:30.942801
+processing_time: 0.0933099
+conversion_datetime: 2026-03-17 19:28:29.770369
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.80.0
+  docling-core: 2.70.1
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Skyclarys
 
 [RSS](/en/individual-human-medicine.xml/99260)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 omaveloxolone Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +110,7 @@ English (EN) (106.58 KB - PDF)
 
 [View](/en/documents/overview/skyclarys-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-993)
+[Other languages (22)](#file-language-dropdown-997)
 
 български (BG) (149.06 KB - PDF)
 
@@ -302,17 +300,17 @@ English (EN) (798.39 KB - PDF)
 
 Skyclarys : EPAR - Product information
 
-English (EN) (334.62 KB - PDF)
+English (EN) (334.75 KB - PDF)
 
 **First published:** 26/02/2024
 
-**Last updated:** 07/10/2025
+**Last updated:** 13/03/2026
 
 [View](/en/documents/product-information/skyclarys-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-415)
+[Other languages (24)](#file-language-dropdown-514)
 
-български (BG) (438.21 KB - PDF)
+български (BG) (432.46 KB - PDF)
 
 **First published:**
 
@@ -320,11 +318,11 @@ English (EN) (334.62 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/bg/documents/product-information/skyclarys-epar-product-information_bg.pdf)
 
-español (ES) (387.45 KB - PDF)
+español (ES) (378.99 KB - PDF)
 
 **First published:**
 
@@ -332,11 +330,11 @@ español (ES) (387.45 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/es/documents/product-information/skyclarys-epar-product-information_es.pdf)
 
-čeština (CS) (403.74 KB - PDF)
+čeština (CS) (397.99 KB - PDF)
 
 **First published:**
 
@@ -344,11 +342,11 @@ español (ES) (387.45 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/cs/documents/product-information/skyclarys-epar-product-information_cs.pdf)
 
-dansk (DA) (389.38 KB - PDF)
+dansk (DA) (380.4 KB - PDF)
 
 **First published:**
 
@@ -356,11 +354,11 @@ dansk (DA) (389.38 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/da/documents/product-information/skyclarys-epar-product-information_da.pdf)
 
-Deutsch (DE) (374.37 KB - PDF)
+Deutsch (DE) (369.58 KB - PDF)
 
 **First published:**
 
@@ -368,11 +366,11 @@ Deutsch (DE) (374.37 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/de/documents/product-information/skyclarys-epar-product-information_de.pdf)
 
-eesti keel (ET) (352.93 KB - PDF)
+eesti keel (ET) (348.21 KB - PDF)
 
 **First published:**
 
@@ -380,11 +378,11 @@ eesti keel (ET) (352.93 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/et/documents/product-information/skyclarys-epar-product-information_et.pdf)
 
-ελληνικά (EL) (405.94 KB - PDF)
+ελληνικά (EL) (401.2 KB - PDF)
 
 **First published:**
 
@@ -392,11 +390,11 @@ eesti keel (ET) (352.93 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/el/documents/product-information/skyclarys-epar-product-information_el.pdf)
 
-français (FR) (383.77 KB - PDF)
+français (FR) (379.12 KB - PDF)
 
 **First published:**
 
@@ -404,11 +402,11 @@ français (FR) (383.77 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/fr/documents/product-information/skyclarys-epar-product-information_fr.pdf)
 
-hrvatski (HR) (381.05 KB - PDF)
+hrvatski (HR) (376.37 KB - PDF)
 
 **First published:**
 
@@ -416,11 +414,11 @@ hrvatski (HR) (381.05 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/hr/documents/product-information/skyclarys-epar-product-information_hr.pdf)
 
-íslenska (IS) (356.12 KB - PDF)
+íslenska (IS) (347.85 KB - PDF)
 
 **First published:**
 
@@ -428,11 +426,11 @@ hrvatski (HR) (381.05 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/is/documents/product-information/skyclarys-epar-product-information_is.pdf)
 
-italiano (IT) (390.18 KB - PDF)
+italiano (IT) (385.42 KB - PDF)
 
 **First published:**
 
@@ -440,11 +438,11 @@ italiano (IT) (390.18 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/it/documents/product-information/skyclarys-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (374.45 KB - PDF)
+latviešu valoda (LV) (369.61 KB - PDF)
 
 **First published:**
 
@@ -452,11 +450,11 @@ latviešu valoda (LV) (374.45 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/lv/documents/product-information/skyclarys-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (403.75 KB - PDF)
+lietuvių kalba (LT) (397.66 KB - PDF)
 
 **First published:**
 
@@ -464,11 +462,11 @@ lietuvių kalba (LT) (403.75 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/lt/documents/product-information/skyclarys-epar-product-information_lt.pdf)
 
-magyar (HU) (396.4 KB - PDF)
+magyar (HU) (391.82 KB - PDF)
 
 **First published:**
 
@@ -476,11 +474,11 @@ magyar (HU) (396.4 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/hu/documents/product-information/skyclarys-epar-product-information_hu.pdf)
 
-Malti (MT) (413.84 KB - PDF)
+Malti (MT) (405.88 KB - PDF)
 
 **First published:**
 
@@ -488,11 +486,11 @@ Malti (MT) (413.84 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/mt/documents/product-information/skyclarys-epar-product-information_mt.pdf)
 
-Nederlands (NL) (385.45 KB - PDF)
+Nederlands (NL) (380.67 KB - PDF)
 
 **First published:**
 
@@ -500,11 +498,11 @@ Nederlands (NL) (385.45 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/nl/documents/product-information/skyclarys-epar-product-information_nl.pdf)
 
-norsk (NO) (357.99 KB - PDF)
+norsk (NO) (350.03 KB - PDF)
 
 **First published:**
 
@@ -512,11 +510,11 @@ norsk (NO) (357.99 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/no/documents/product-information/skyclarys-epar-product-information_no.pdf)
 
-polski (PL) (415.76 KB - PDF)
+polski (PL) (407.38 KB - PDF)
 
 **First published:**
 
@@ -524,11 +522,11 @@ polski (PL) (415.76 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/pl/documents/product-information/skyclarys-epar-product-information_pl.pdf)
 
-português (PT) (380.94 KB - PDF)
+português (PT) (376.09 KB - PDF)
 
 **First published:**
 
@@ -536,11 +534,11 @@ português (PT) (380.94 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/pt/documents/product-information/skyclarys-epar-product-information_pt.pdf)
 
-română (RO) (381.02 KB - PDF)
+română (RO) (372.68 KB - PDF)
 
 **First published:**
 
@@ -548,11 +546,11 @@ română (RO) (381.02 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/ro/documents/product-information/skyclarys-epar-product-information_ro.pdf)
 
-slovenčina (SK) (398.96 KB - PDF)
+slovenčina (SK) (394.18 KB - PDF)
 
 **First published:**
 
@@ -560,11 +558,11 @@ slovenčina (SK) (398.96 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/sk/documents/product-information/skyclarys-epar-product-information_sk.pdf)
 
-slovenščina (SL) (389.79 KB - PDF)
+slovenščina (SL) (385.1 KB - PDF)
 
 **First published:**
 
@@ -572,11 +570,11 @@ slovenščina (SL) (389.79 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/sl/documents/product-information/skyclarys-epar-product-information_sl.pdf)
 
-Suomi (FI) (354.17 KB - PDF)
+Suomi (FI) (349.43 KB - PDF)
 
 **First published:**
 
@@ -584,11 +582,11 @@ Suomi (FI) (354.17 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/fi/documents/product-information/skyclarys-epar-product-information_fi.pdf)
 
-svenska (SV) (355.14 KB - PDF)
+svenska (SV) (350.46 KB - PDF)
 
 **First published:**
 
@@ -596,11 +594,11 @@ svenska (SV) (355.14 KB - PDF)
 
 **Last updated:**
 
-07/10/2025
+13/03/2026
 
 [View](/sv/documents/product-information/skyclarys-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000294883 03/09/2025
+**Latest procedure affecting product information:** VR/0000328186 13/03/2026
 
 icon globe
 
@@ -624,7 +622,7 @@ English (EN) (70.83 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/skyclarys-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-276)
+[Other languages (24)](#file-language-dropdown-570)
 
 български (BG) (78.79 KB - PDF)
 
@@ -848,7 +846,7 @@ Biogen Netherlands B.V.
 
 Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
 
-Opinion adopted 14/12/2023 Marketing authorisation issued 09/02/2024 Revision 7
+Opinion adopted 14/12/2023 Marketing authorisation issued 09/02/2024 Revision 8
 
 ## Assessment history
 
@@ -860,11 +858,11 @@ Collapse section
 
 Skyclarys : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (215.98 KB - PDF)
+English (EN) (148.79 KB - PDF)
 
 **First published:** 04/03/2025
 
-**Last updated:** 04/09/2025
+**Last updated:** 13/03/2026
 
 [View](/en/documents/procedural-steps-after/skyclarys-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -914,16 +912,16 @@ English (EN) (103.4 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-skyclarys_en.pdf)
 
-#### News on Skyclarys
+## News on Skyclarys
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 December 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-december-2023) 15/12/2023
 
-#### More information on Skyclarys
+## More information on Skyclarys
 
 - [EU/3/18/2037 - orphan designation for treatment of Friedreich's ataxia](/en/medicines/human/orphan-designations/eu-3-18-2037)
 - [An Observational, Multinational, Post-Marketing Registry of Omaveloxolone-Treated Patients With Friedreich's Ataxia - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000196)
 
-**This page was last updated on** 04/09/2025
+**This page was last updated on** 13/03/2026
 
 ## Share this page
 

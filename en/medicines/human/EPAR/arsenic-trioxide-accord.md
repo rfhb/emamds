@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 12:04:04
+document_datetime: 2026-03-13 16:13:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/arsenic-trioxide-accord.html
 document_name: arsenic-trioxide-accord.html
 version: success
-processing_time: 0.1168431
-conversion_datetime: 2025-12-30 13:13:11.920896
+processing_time: 0.1065855
+conversion_datetime: 2026-03-17 19:32:02.09232
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.80.0
+  docling-core: 2.70.1
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Arsenic trioxide Accord
 
 [RSS](/en/individual-human-medicine.xml/67251)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 arsenic trioxide Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +108,7 @@ English (EN) (94.13 KB - PDF)
 
 [View](/en/documents/overview/arsenic-trioxide-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-130)
+[Other languages (22)](#file-language-dropdown-448)
 
 български (BG) (118.6 KB - PDF)
 
@@ -300,17 +298,17 @@ English (EN) (102.37 KB - PDF)
 
 Arsenic trioxide Accord : EPAR - Product information
 
-English (EN) (306.98 KB - PDF)
+English (EN) (385.36 KB - PDF)
 
 **First published:** 26/11/2019
 
-**Last updated:** 05/12/2024
+**Last updated:** 13/03/2026
 
 [View](/en/documents/product-information/arsenic-trioxide-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-835)
+[Other languages (24)](#file-language-dropdown-516)
 
-български (BG) (424.89 KB - PDF)
+български (BG) (571.34 KB - PDF)
 
 **First published:**
 
@@ -318,11 +316,11 @@ English (EN) (306.98 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/bg/documents/product-information/arsenic-trioxide-accord-epar-product-information_bg.pdf)
 
-español (ES) (401.36 KB - PDF)
+español (ES) (479.27 KB - PDF)
 
 **First published:**
 
@@ -330,11 +328,11 @@ español (ES) (401.36 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/es/documents/product-information/arsenic-trioxide-accord-epar-product-information_es.pdf)
 
-čeština (CS) (353.04 KB - PDF)
+čeština (CS) (442.95 KB - PDF)
 
 **First published:**
 
@@ -342,11 +340,11 @@ español (ES) (401.36 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/cs/documents/product-information/arsenic-trioxide-accord-epar-product-information_cs.pdf)
 
-dansk (DA) (393.19 KB - PDF)
+dansk (DA) (502.19 KB - PDF)
 
 **First published:**
 
@@ -354,11 +352,11 @@ dansk (DA) (393.19 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/da/documents/product-information/arsenic-trioxide-accord-epar-product-information_da.pdf)
 
-Deutsch (DE) (393.67 KB - PDF)
+Deutsch (DE) (507.99 KB - PDF)
 
 **First published:**
 
@@ -366,11 +364,11 @@ Deutsch (DE) (393.67 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/de/documents/product-information/arsenic-trioxide-accord-epar-product-information_de.pdf)
 
-eesti keel (ET) (348.19 KB - PDF)
+eesti keel (ET) (437.49 KB - PDF)
 
 **First published:**
 
@@ -378,11 +376,11 @@ eesti keel (ET) (348.19 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/et/documents/product-information/arsenic-trioxide-accord-epar-product-information_et.pdf)
 
-ελληνικά (EL) (404.89 KB - PDF)
+ελληνικά (EL) (528.98 KB - PDF)
 
 **First published:**
 
@@ -390,11 +388,11 @@ eesti keel (ET) (348.19 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/el/documents/product-information/arsenic-trioxide-accord-epar-product-information_el.pdf)
 
-français (FR) (378.6 KB - PDF)
+français (FR) (495.14 KB - PDF)
 
 **First published:**
 
@@ -402,11 +400,11 @@ français (FR) (378.6 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/fr/documents/product-information/arsenic-trioxide-accord-epar-product-information_fr.pdf)
 
-hrvatski (HR) (377.34 KB - PDF)
+hrvatski (HR) (502.27 KB - PDF)
 
 **First published:**
 
@@ -414,11 +412,11 @@ hrvatski (HR) (377.34 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/hr/documents/product-information/arsenic-trioxide-accord-epar-product-information_hr.pdf)
 
-íslenska (IS) (386.61 KB - PDF)
+íslenska (IS) (469.57 KB - PDF)
 
 **First published:**
 
@@ -426,11 +424,11 @@ hrvatski (HR) (377.34 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/is/documents/product-information/arsenic-trioxide-accord-epar-product-information_is.pdf)
 
-italiano (IT) (336.46 KB - PDF)
+italiano (IT) (479.24 KB - PDF)
 
 **First published:**
 
@@ -438,11 +436,11 @@ italiano (IT) (336.46 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/it/documents/product-information/arsenic-trioxide-accord-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (401.76 KB - PDF)
+latviešu valoda (LV) (525.12 KB - PDF)
 
 **First published:**
 
@@ -450,11 +448,11 @@ latviešu valoda (LV) (401.76 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/lv/documents/product-information/arsenic-trioxide-accord-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (344.85 KB - PDF)
+lietuvių kalba (LT) (490.67 KB - PDF)
 
 **First published:**
 
@@ -462,11 +460,11 @@ lietuvių kalba (LT) (344.85 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/lt/documents/product-information/arsenic-trioxide-accord-epar-product-information_lt.pdf)
 
-magyar (HU) (370.29 KB - PDF)
+magyar (HU) (484.11 KB - PDF)
 
 **First published:**
 
@@ -474,11 +472,11 @@ magyar (HU) (370.29 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/hu/documents/product-information/arsenic-trioxide-accord-epar-product-information_hu.pdf)
 
-Malti (MT) (411.31 KB - PDF)
+Malti (MT) (569.85 KB - PDF)
 
 **First published:**
 
@@ -486,11 +484,11 @@ Malti (MT) (411.31 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/mt/documents/product-information/arsenic-trioxide-accord-epar-product-information_mt.pdf)
 
-Nederlands (NL) (340.85 KB - PDF)
+Nederlands (NL) (306.66 KB - PDF)
 
 **First published:**
 
@@ -498,11 +496,11 @@ Nederlands (NL) (340.85 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/nl/documents/product-information/arsenic-trioxide-accord-epar-product-information_nl.pdf)
 
-norsk (NO) (340.88 KB - PDF)
+norsk (NO) (487.12 KB - PDF)
 
 **First published:**
 
@@ -510,11 +508,11 @@ norsk (NO) (340.88 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/no/documents/product-information/arsenic-trioxide-accord-epar-product-information_no.pdf)
 
-polski (PL) (374.48 KB - PDF)
+polski (PL) (496.06 KB - PDF)
 
 **First published:**
 
@@ -522,11 +520,11 @@ polski (PL) (374.48 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/pl/documents/product-information/arsenic-trioxide-accord-epar-product-information_pl.pdf)
 
-português (PT) (372.24 KB - PDF)
+português (PT) (413.38 KB - PDF)
 
 **First published:**
 
@@ -534,11 +532,11 @@ português (PT) (372.24 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/pt/documents/product-information/arsenic-trioxide-accord-epar-product-information_pt.pdf)
 
-română (RO) (367.24 KB - PDF)
+română (RO) (523.98 KB - PDF)
 
 **First published:**
 
@@ -546,11 +544,11 @@ română (RO) (367.24 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/ro/documents/product-information/arsenic-trioxide-accord-epar-product-information_ro.pdf)
 
-slovenčina (SK) (377.43 KB - PDF)
+slovenčina (SK) (520.54 KB - PDF)
 
 **First published:**
 
@@ -558,11 +556,11 @@ slovenčina (SK) (377.43 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/sk/documents/product-information/arsenic-trioxide-accord-epar-product-information_sk.pdf)
 
-slovenščina (SL) (354.52 KB - PDF)
+slovenščina (SL) (493.23 KB - PDF)
 
 **First published:**
 
@@ -570,11 +568,11 @@ slovenščina (SL) (354.52 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/sl/documents/product-information/arsenic-trioxide-accord-epar-product-information_sl.pdf)
 
-Suomi (FI) (369.23 KB - PDF)
+Suomi (FI) (474.37 KB - PDF)
 
 **First published:**
 
@@ -582,11 +580,11 @@ Suomi (FI) (369.23 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/fi/documents/product-information/arsenic-trioxide-accord-epar-product-information_fi.pdf)
 
-svenska (SV) (363.84 KB - PDF)
+svenska (SV) (469.85 KB - PDF)
 
 **First published:**
 
@@ -594,11 +592,11 @@ svenska (SV) (363.84 KB - PDF)
 
 **Last updated:**
 
-05/12/2024
+13/03/2026
 
 [View](/sv/documents/product-information/arsenic-trioxide-accord-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IA/0012 03/12/2024
+**Latest procedure affecting product information:** VR/0000319865 13/03/2026
 
 icon globe
 
@@ -622,7 +620,7 @@ English (EN) (21.23 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/arsenic-trioxide-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-143)
+[Other languages (24)](#file-language-dropdown-847)
 
 български (BG) (45.78 KB - PDF)
 
@@ -845,7 +843,7 @@ Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a World Trade Center Moll De Barcelona S/n 08039 Barcelona SPAIN
 
-Opinion adopted 19/09/2019 Marketing authorisation issued 14/11/2019 Revision 7
+Opinion adopted 19/09/2019 Marketing authorisation issued 14/11/2019 Revision 8
 
 ## Assessment history
 
@@ -857,13 +855,21 @@ Collapse section
 
 Arsenic trioxide Accord : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (112.6 KB - PDF)
+
+**First published:** 13/03/2026
+
+[View](/en/documents/procedural-steps-after/arsenic-trioxide-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Arsenic trioxide Accord : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (111.67 KB - PDF)
 
 **First published:** 08/07/2020
 
-**Last updated:** 05/12/2024
+**Last updated:** 13/03/2026
 
-[View](/en/documents/procedural-steps-after/arsenic-trioxide-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/arsenic-trioxide-accord-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -891,11 +897,11 @@ English (EN) (97.63 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-arsenic-trioxide-accord_en.pdf)
 
-#### News on Arsenic trioxide Accord
+## News on Arsenic trioxide Accord
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2019) 20/09/2019
 
-#### More information on Arsenic trioxide Accord
+## More information on Arsenic trioxide Accord
 
 Questions and answers on generic medicines
 
@@ -909,7 +915,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-788)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1175,12 +1181,12 @@ svenska (SV) (67.11 KB - PDF)
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-#### Topics
+## Topics
 
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 05/12/2024
+**This page was last updated on** 13/03/2026
 
 ## Share this page
 

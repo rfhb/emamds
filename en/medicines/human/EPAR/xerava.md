@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-02-13 15:09:00
+document_datetime: 2026-03-13 15:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xerava.html
 document_name: xerava.html
 version: success
-processing_time: 0.1188332
-conversion_datetime: 2026-02-18 17:55:58.5978
+processing_time: 0.1163443
+conversion_datetime: 2026-03-17 19:35:04.889464
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.80.0
+  docling-core: 2.70.1
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.5.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Xerava
 
 [RSS](/en/individual-human-medicine.xml/66660)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -112,7 +112,7 @@ English (EN) (108.38 KB - PDF)
 
 [View](/en/documents/overview/xerava-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-55)
+[Other languages (22)](#file-language-dropdown-923)
 
 български (BG) (133.65 KB - PDF)
 
@@ -378,15 +378,15 @@ svenska (SV) (107.95 KB - PDF)
 
 [View](/sv/documents/overview/xerava-epar-medicine-overview_sv.pdf)
 
-Xerava : EPAR - Risk-management-plan summary
+Xerava : EPAR - Risk management plan
 
-English (EN) (198.19 KB - PDF)
+English (EN) (668.68 KB - PDF)
 
 **First published:** 08/10/2018
 
-**Last updated:** 20/04/2023
+**Last updated:** 13/03/2026
 
-[View](/en/documents/rmp-summary/xerava-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/xerava-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
@@ -400,7 +400,7 @@ English (EN) (542.39 KB - PDF)
 
 [View](/en/documents/product-information/xerava-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-70)
+[Other languages (24)](#file-language-dropdown-60)
 
 български (BG) (889.42 KB - PDF)
 
@@ -716,7 +716,7 @@ English (EN) (57.58 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xerava-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-763)
+[Other languages (24)](#file-language-dropdown-950)
 
 български (BG) (67.81 KB - PDF)
 
@@ -1033,7 +1033,7 @@ PAION Pharma GmbH
 
 Heussstraße 25 Brand 52078 Aachen Germany
 
-Marketing authorisation issued 20/09/2018 Revision 10
+Marketing authorisation issued 20/09/2018 Revision 11
 
 ## Assessment history
 
@@ -1045,9 +1045,11 @@ Collapse section
 
 Xerava : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (155.53 KB - PDF)
+English (EN) (148.34 KB - PDF)
 
 **First published:** 06/02/2026
+
+**Last updated:** 13/03/2026
 
 [View](/en/documents/procedural-steps-after/xerava-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1099,13 +1101,13 @@ English (EN) (68.46 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-xerava_en.pdf)
 
-#### News on Xerava
+## News on Xerava
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 November 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-november-2025) 14/11/2025
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 July 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-july-2018) 27/07/2018
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1117,7 +1119,7 @@ English (EN) (180.87 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-402)
+[Other languages (24)](#file-language-dropdown-969)
 
 български (BG) (161.68 KB - DOCX)
 
@@ -1311,16 +1313,16 @@ svenska (SV) (149.8 KB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/xerava-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Xerava
+## More information on Xerava
 
 - [EMEA-001555-PIP01-13-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001555-pip01-13-m05)
 - [Xerava - opinion on variation to marketing authorisation](/en/medicines/human/variation/xerava)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 13/02/2026
+**This page was last updated on** 13/03/2026
 
 ## Share this page
 

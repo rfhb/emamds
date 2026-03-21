@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-26 14:32:33
+document_datetime: 2026-03-18 16:33:55
 document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/voranigo-epar-product-information_en.pdf
 document_name: voranigo-epar-product-information_en.pdf
 version: success
-processing_time: 8.2025862
-conversion_datetime: 2025-12-22 10:07:19.442033
+processing_time: 24.7833817
+conversion_datetime: 2026-03-21 13:22:46.773472
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -56,11 +56,11 @@ Film-coated tablet
 
 Voranigo 10 mg film-coated tablets
 
-White to off-white, round tablets with a 6 mm diameter, imprinted with '10' on one side.
+White to off-white, round tablets with a 6 mm diameter, imprinted with ' 10 ' on one side.
 
-Voranigo 40 mg film-coated tablets
+## Voranigo 40 mg film-coated tablets
 
-White to off-white, oblong tablets with a length of 14.8 mm and width of 6.3 mm, imprinted with '40' on one side.
+White to off-white, oblong tablets with a length of 14.8 mm and width of 6.3 mm, imprinted with ' 4 0' on one side.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -124,7 +124,7 @@ Table 2: Recommended Voranigo dose modifications and management for adverse reac
 
 Abbreviations: ALT = Alanine aminotransferase; AST = Aspartate aminotransferase; ULN = Upper limit of normal a  Adverse reactions graded by the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE) version 5.0.
 
-b If an alternative aetiology is identified, consider resuming Voranigo at reduced dose (see Table 1) following resolution to Grade 1 or baseline.
+b  If an alternative aetiology is identified, consider resuming Voranigo at reduced dose (see Table 1) following resolution to Grade 1 or baseline.
 
 ## Special populations
 
@@ -136,7 +136,7 @@ No dose adjustment is recommended for patients ≥ 65 years of age (see section 
 
 ## Renal impairment
 
-No starting dose adjustment is recommended for patients with renal impairment (estimated glomerular filtration rate [eGFR] &gt; 40 mL/min/1.73 m 2 ). The pharmacokinetics of vorasidenib and metabolite AGI-69460 have not been studied in patients with eGFR ≤ 40 mL/min/1.73 m 2 or renal impairment requiring dialysis. Vorasidenib should not be used in patients with eGFR ≤ 40 mL/min/1.73 m 2 or who require dialysis (see sections 4.4 and 5.2).
+No starting dose adjustment is recommended for patients with renal impairment (estimated glomerular filtration rate [eGFR] &gt; 40 mL/min/1.73 m 2 ). The pharmacokinetics of vorasidenib and metabolite AGI-69460 have not been studied in patients with eGFR ≤ 40 mL/min/1.73 m 2  or renal impairment requiring dialysis. Vorasidenib should not be used in patients with eGFR ≤ 40 mL/min/1.73 m 2  or who require dialysis (see sections 4.4 and 5.2).
 
 ## Hepatic impairment
 
@@ -182,7 +182,7 @@ Males with female partners of childbearing potential should use effective contra
 
 ## Hepatic impairment
 
-The safety and efficacy of vorasidenib have not been established in patients with severe hepatic impairment (Child-Pugh classes C) . Vorasidenib should be used with caution in patients with pre-existing severe hepatic impairment (Child-Pugh class C) and this patient population should be closely monitored (see sections 4.2 and 5.2).
+The safety and efficacy of vorasidenib have not been established in patients with severe hepatic impairment (Child-Pugh classes C) . Vorasidenib should be used with caution in patients with pre-existing severe hepatic impairment (Child-Pugh class C) and and this patient population should be closely monitored (see sections 4.2 and 5.2).
 
 ## Renal impairment
 
@@ -194,7 +194,7 @@ Voranigo contains lactose. Patients with rare hereditary problems of galactose i
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -282,9 +282,9 @@ Dose interruptions due to an adverse reaction occurred in 18.6% of patients trea
 
 Dose reductions of vorasidenib due to an adverse reaction occurred in 9.6% of patients. The most common adverse reaction requiring dose reduction was ALT increased (7.8%).
 
-## Tabulated list of adverse reactions
-
 <div style=\"page-break-after: always\"></div>
+
+## Tabulated list of adverse reactions
 
 Adverse reactions reported in patients treated with vorasidenib are listed below in Table 3 by MedDRA system organ class and by frequency.
 
@@ -309,8 +309,6 @@ Table 3: Adverse drug reactions reported in patients treated with vorasidenib in
 | Hepatobiliary disorders                              | Common      | Alkaline phosphatase increased a       |
 | General disorders and administration site conditions | Very common | Fatigue                                |
 
-a Laboratory abnormality is defined as new or worsened by at least one grade from baseline, or baseline is unknown.
-
 ## Description of selected adverse reactions
 
 ## Hepatobiliary disorders
@@ -321,9 +319,9 @@ In Study AG881-C-004, of the 167 patients treated with vorasidenib, 18.6% experi
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-## 4.9 Overdose
-
 <div style=\"page-break-after: always\"></div>
+
+## 4.9 Overdose
 
 In the event of overdose, toxicity is likely to manifest as exacerbation of the adverse reactions associated with vorasidenib (see section 4.8). Patients should be closely monitored and provided with appropriate supportive care (see sections 4.2 and 4.4). There is no specific antidote for vorasidenib overdose.
 
@@ -349,11 +347,9 @@ Patients were randomised to receive either vorasidenib 40 mg orally once daily o
 
 The primary efficacy outcome measure was radiographic progression-free survival (PFS) as evaluated by a BIRC according to modified response assessment in neuro-oncology for low grade glioma (RANO-LGG) criteria (radiographic progression only).
 
-Patient demographics and disease characteristics were balanced between the treatment arms. Among the 168 patients randomised to vorasidenib, the median age was 41 years (range: 21 to 71 years), with 98.8% aged 18-64 years. A single paediatric patient aged 16 years was randomised to placebo, and no
-
 <div style=\"page-break-after: always\"></div>
 
-patient under the age of 18 was randomised to vorasidenib. A majority of patients were male (60.1%), 74.4% were White, 3.0% Asian, 1.2% Black, 1.2% other, 19.6% not reported and 53.6% had a Karnofsky Performance Status (KPS) score of 100, 45.8% had a KPS score of 90-80, and 0.6% had a KPS score of 70-60. Most patients had at least 1 prior surgery for glioma (75%) and 25% had ≥ 2 prior surgeries. Across both arms, 95% of patients had an IDH1 R132 mutation and 5% had an IDH2 R172 mutation.
+Patient demographics and disease characteristics were balanced between the treatment arms. Among the 168 patients randomised to vorasidenib, the median age was 41 years (range: 21 to 71 years), with 98.8% aged 18-64 years. A single paediatric patient aged 16 years was randomised to placebo, and no patient under the age of 18 was randomised to vorasidenib. A majority of patients were male (60.1%), 74.4% were White, 3.0% Asian, 1.2% Black, 1.2% other, 19.6% not reported and 53.6% had a Karnofsky Performance Status (KPS) score of 100, 45.8% had a KPS score of 90-80, and 0.6% had a KPS score of 70-60. Most patients had at least 1 prior surgery for glioma (75%) and 25% had ≥ 2 prior surgeries. Across both arms, 95% of patients had an IDH1 R132 mutation and 5% had an IDH2 R172 mutation.
 
 Efficacy results for PFS are summarised in Table 4 and Figure 1.
 
@@ -373,7 +369,7 @@ The full analysis set included all patients who had undergone randomisation.
 
 a  The 95% confidence interval for the median was calculated using the Brookmeyer and Crowley method.
 
-b Estimated with Cox proportional hazard model adjusted by the following stratification factors: 1p19q status and baseline tumour size.
+b  Estimated with Cox proportional hazard model adjusted by the following stratification factors: 1p19q status and baseline tumour size.
 
 c Estimated from one-sided stratified log-rank test. PFS was tested at a onesided efficacy α -level of 0.000359, based on an updated efficacy boundary corresponding to the 82% information fraction.
 
@@ -381,11 +377,13 @@ Figure 1 : Kaplan-Meier curve for progression-free survival per BIRC review in I
 
 <!-- image -->
 
-An updated PFS by BIRC analysis, carried out at 96% (N = 158) of events, confirmed the benefit of vorasidenib compared to placebo (hazard ratio: 0.35 [95% CI: 0.25, 0.49]). At 24 months, the progression-free survival rate was 59% (95% CI: 48.4, 67.8) in the vorasidenib arm and 26% (95% CI: 17.9, 35.3) in the placebo arm. The median PFS was not estimable (95% CI: 22.1, NE) for the vorasidenib arm and was 11.4 (95% CI: 11.1, 13.9) months for the placebo arm.
-
-## Paediatric population
+An updated PFS by BIRC analysis, carried out at 96% (N = 158) of events, confirmed the benefit of vorasidenib compared to placebo (hazard ratio: 0.35 [95% CI: 0.25, 0.49]). At 24 months, the progression-free survival rate was 59% (95% CI: 48.4, 67.8) in the vorasidenib arm and 26%
 
 <div style=\"page-break-after: always\"></div>
+
+(95% CI: 17.9, 35.3) in the placebo arm. The median PFS was not estimable (95% CI: 22.1, NE) for the vorasidenib arm and was 11.4 (95% CI: 11.1, 13.9) months for the placebo arm.
+
+## Paediatric population
 
 ## Adolescents from 12 to less than 18 years of age
 
@@ -415,9 +413,9 @@ AGI-69460 is a downstream active metabolite of vorasidenib. After a single 40 mg
 
 ## Interactions
 
-In vitro , vorasidenib has a strong induction effect on sensitive CYP3A4 substrates and a moderate induction effect on sensitive CYP2B6 and CYP2C19 substrates (see section 4.5).
-
 <div style=\"page-break-after: always\"></div>
+
+In vitro , vorasidenib has a strong induction effect on sensitive CYP3A4 substrates and a moderate induction effect on sensitive CYP2B6 and CYP2C19 substrates (see section 4.5).
 
 In vitro data indicate that vorasidenib is an inhibitor of BCRP. Vorasidenib does not inhibit P-glycoprotein (P-gp) and hepatic transporter organic anion transporting polypeptide (OATP)1B1. In vitro , AGI-69460 is an inhibitor of BCRP and OATP1B3.
 
@@ -441,7 +439,7 @@ No clinically meaningful effects on the pharmacokinetics of vorasidenib were obs
 
 ## Renal impairment
 
-Renal impairment (eGFR &gt; 40 mL/min/1.73 m 2 ) had no clinically significant effect on the pharmacokinetics of vorasidenib. The pharmacokinetics of vorasidenib in patients with eGFR ≤ 40 mL/min/1.73 m 2 or renal impairment requiring dialysis are unknown.
+Renal impairment (eGFR &gt; 40 mL/min/1.73 m 2 ) had no clinically significant effect on the pharmacokinetics of vorasidenib. The pharmacokinetics of vorasidenib in patients with eGFR ≤ 40 mL/min/1.73 m 2  or renal impairment requiring dialysis are unknown.
 
 ## Hepatic impairment
 
@@ -453,11 +451,11 @@ No clinically significant effects on the pharmacokinetics of vorasidenib were ob
 
 ## Paediatric population
 
+<div style=\"page-break-after: always\"></div>
+
 Pharmacokinetic data demonstrated that age had no clinically meaningful effect on the pharmacokinetics of vorasidenib. The exposure of vorasidenib is expected to be similar between adults and adolescent patients aged 12 years and older.
 
 ## 5.3 Preclinical safety data
-
-<div style=\"page-break-after: always\"></div>
 
 The main target toxicities identified during repeat-dose toxicity studies concern liver, gastrointestinal tract, skin, kidney, skeletal muscle, reproductive organs and mammary gland.
 
@@ -483,27 +481,49 @@ Hypromellose Titanium dioxide (E171) Lactose monohydrate Macrogol (E1521)
 
 ## Printing ink
 
+<div style=\"page-break-after: always\"></div>
+
 Black iron oxide (E172) Propylene glycol (E1520) Hypromellose (E464)
 
 ## 6.2 Incompatibilities
 
-<div style=\"page-break-after: always\"></div>
+Not applicable.
 
-| Not applicable.                                                                                                                                                                                                         | Not applicable.                                                                                                                                                                                                         |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 6.3                                                                                                                                                                                                                     | Shelf life                                                                                                                                                                                                              |
-| 30 months.                                                                                                                                                                                                              | 30 months.                                                                                                                                                                                                              |
-| 6.4                                                                                                                                                                                                                     | Special precautions for storage                                                                                                                                                                                         |
-| This medicinal product does not require any special storage conditions.                                                                                                                                                 | This medicinal product does not require any special storage conditions.                                                                                                                                                 |
-| 6.5                                                                                                                                                                                                                     | Nature and contents of container                                                                                                                                                                                        |
-| White HDPE bottle with a polypropylene (PP) child-resistant closure and polyethylene (PE) faced induction heat seal liner including three silica gel desiccants in HDPE canisters. Pack-size of 30 film-coated tablets. | White HDPE bottle with a polypropylene (PP) child-resistant closure and polyethylene (PE) faced induction heat seal liner including three silica gel desiccants in HDPE canisters. Pack-size of 30 film-coated tablets. |
-| 6.6                                                                                                                                                                                                                     | Special precautions for disposal                                                                                                                                                                                        |
-| Patients should be advised not to swallow the silica gel desiccant found in the tablet bottle.                                                                                                                          | Patients should be advised not to swallow the silica gel desiccant found in the tablet bottle.                                                                                                                          |
-| 7.                                                                                                                                                                                                                      | MARKETING AUTHORISATIONHOLDER                                                                                                                                                                                           |
-| Les Laboratoires Servier 50, rue Carnot 92284 Suresnes cedex France                                                                                                                                                     | Les Laboratoires Servier 50, rue Carnot 92284 Suresnes cedex France                                                                                                                                                     |
-| 8. MARKETING EU/1/25/1912/001 EU/1/25/1912/002                                                                                                                                                                          | AUTHORISATION NUMBER(S)                                                                                                                                                                                                 |
-| 10.                                                                                                                                                                                                                     | DATE OF REVISION OF THE TEXT                                                                                                                                                                                            |
-| Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.                                                                                  | Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.                                                                                  |
+## 6.3 Shelf life
+
+36 months.
+
+## 6.4 Special precautions for storage
+
+This medicinal product does not require any special storage conditions.
+
+## 6.5 Nature and contents of container
+
+White HDPE bottle with a polypropylene (PP) child-resistant closure and polyethylene (PE) faced induction heat seal liner including three silica gel desiccants in HDPE canisters. Pack-size of 30 film-coated tablets.
+
+## 6.6 Special precautions for disposal
+
+Patients should be advised not to swallow the silica gel desiccant found in the tablet bottle.
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+Les Laboratoires Servier 50, rue Carnot 92284 Suresnes cedex France
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/25/1912/001
+
+EU/1/25/1912/002
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 17 September 2025
+
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -597,6 +617,8 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Discard unused contents appropriately.
@@ -628,8 +650,6 @@ Voranigo 10 mg
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -675,41 +695,42 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-10.
+<div style=\"page-break-after: always\"></div>
 
-SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
-
-OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
-
-APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 Discard unused contents appropriately.
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
 Les Laboratoires Servier
 
-12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/25/1912/001
 
-13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -717,7 +738,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Voranigo 40 mg film-coated tablets vorasidenib
+Voranigo 40 mg film-coated tablets
+
+vorasidenib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -753,6 +776,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Discard unused contents appropriately.
@@ -783,9 +808,7 @@ Voranigo 40 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -856,8 +879,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -865,8 +888,8 @@ Lot
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -932,7 +955,7 @@ Voranigo may affect how well your liver functions. Your doctor will carry out bl
 Tell your doctor, pharmacist or nurse right away if you develop any of the following, which may be signs and symptoms of liver problems:
 
 - yellowing of your skin or the white part of your eyes (jaundice)
-- dark 'tea-coloured' urine
+- dark 'tea -coloured' urine
 - loss of appetite
 - pain on the upper right side of your stomach area
 - feeling weak or very tired
@@ -1021,7 +1044,7 @@ This medicine contains lactose (found in milk or dairy products). If you have be
 
 ## Voranigo contains sodium
 
-This medicine contains less than 1 mmol of sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol of sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## 3. How to take Voranigo
 
@@ -1069,7 +1092,7 @@ If you experience any serious side effects, stop taking this medicine and tell y
 
 Very common (may affect more than 1 in 10 people):
 
-- Increased amount of liver enzymes, as measured in blood tests (see section 2, 'Monitoring of liver function')
+- Increased amount of liver enzymes, as measured in blood tests (see section 2, ' Monitoring of liver function ' )
 
 ## Other side effects
 
@@ -1124,11 +1147,11 @@ The active substance is vorasidenib.
 
 ## 10 mg film-coated tablets
 
-- White to off-white, round tablets, imprinted with '10' on one side.
+- White to offwhite, round tablets, imprinted with '10' on one side.
 
 ## 40 mg film-coated tablets
 
-- White to off-white, oblong tablets, imprinted with '40' on one side.
+- White to offwhite, oblong tablets, imprinted with '40' on one side.
 
 Voranigo is available in a plastic bottle with child-resistant closure containing 30 film-coated tablets and 3 desiccant canisters. The bottles are packaged in a cardboard box. Each box contains 1 bottle.
 

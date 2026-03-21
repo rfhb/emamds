@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-02-19 16:10:00
+document_datetime: 2026-03-19 14:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imfinzi.html
 document_name: imfinzi.html
 version: success
-processing_time: 0.1299231
-conversion_datetime: 2026-02-21 12:09:20.721293
+processing_time: 0.103984
+conversion_datetime: 2026-03-21 11:38:11.264535
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Imfinzi
 
 [RSS](/en/individual-human-medicine.xml/66166)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -191,7 +191,7 @@ English (EN) (169.04 KB - PDF)
 
 [View](/en/documents/overview/imfinzi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-532)
+[Other languages (22)](#file-language-dropdown-478)
 
 български (BG) (199.38 KB - PDF)
 
@@ -457,16 +457,6 @@ svenska (SV) (165.71 KB - PDF)
 
 [View](/sv/documents/overview/imfinzi-epar-medicine-overview_sv.pdf)
 
-Imfinzi : EPAR - Risk management plan
-
-English (EN) (912.27 KB - PDF)
-
-**First published:** 30/10/2018
-
-**Last updated:** 19/02/2026
-
-[View](/en/documents/rmp/imfinzi-epar-risk-management-plan_en.pdf)
-
 ## Product information
 
 Imfinzi : EPAR - Product information
@@ -479,7 +469,7 @@ English (EN) (1.51 MB - PDF)
 
 [View](/en/documents/product-information/imfinzi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-181)
+[Other languages (24)](#file-language-dropdown-952)
 
 български (BG) (1.65 MB - PDF)
 
@@ -793,7 +783,7 @@ English (EN) (27.17 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-55)
+[Other languages (24)](#file-language-dropdown-676)
 
 български (BG) (30.76 KB - PDF)
 
@@ -1145,9 +1135,11 @@ Imfinzi-H-C-1049-WS-2463 : EPAR - Assessment Report - Variation
 
 Reference Number: EMA/346655/2024
 
-English (EN) (13.43 MB - PDF)
+English (EN) (13.46 MB - PDF)
 
 **First published:** 19/08/2024
+
+**Last updated:** 19/03/2026
 
 [View](/en/documents/variation-report/imfinzi-h-c-1049-ws-2463-epar-assessment-report-variation_en.pdf)
 
@@ -1329,7 +1321,7 @@ English (EN) (73.86 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-imfinzi_en.pdf)
 
-#### News on Imfinzi
+## News on Imfinzi
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 26-29 January 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-26-29-january-2026) 30/01/2026
 
@@ -1351,7 +1343,7 @@ English (EN) (73.86 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 July 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-july-2018) 27/07/2018
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1365,7 +1357,7 @@ English (EN) (4.69 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (23)](#file-language-dropdown-90)
+[Other languages (23)](#file-language-dropdown-806)
 
 български (BG) (4.65 MB - DOCX)
 
@@ -1643,18 +1635,18 @@ svenska (SV) (4.64 MB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Imfinzi
+## More information on Imfinzi
 
 - [EMEA-002028-PIP01-16-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002028-pip01-16-m04)
 - [Imfinzi - opinion on variation to marketing authorisation](/en/medicines/human/variation/imfinzi)
-- [Spanish Real World Data on unresectable stage III NSCLC patients treated with durvalumab after chemoradiotherapy (S-REAL Study) - post-authorisation study](https://catalogues.ema.europa.eu/study/38962)
 - [DARWIN EU® Overall survival in patients with locally advanced or metastatic non-small cell lung cancer treated with selected immunotherapies as first line of treatment - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000112)
+- [Spanish Real World Data on unresectable stage III NSCLC patients treated with durvalumab after chemoradiotherapy (S-REAL Study) - post-authorisation study](https://catalogues.ema.europa.eu/study/38962)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 19/02/2026
+**This page was last updated on** 19/03/2026
 
 ## Share this page
 

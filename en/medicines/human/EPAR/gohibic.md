@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 08:05:38
+document_datetime: 2026-03-17 17:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/gohibic.html
 document_name: gohibic.html
 version: success
-processing_time: 0.1058341
-conversion_datetime: 2025-12-30 22:57:44.02994
+processing_time: 0.0794267
+conversion_datetime: 2026-03-21 12:06:52.13282
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Gohibic
 
 [RSS](/en/individual-human-medicine.xml/250706)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 vilobelimab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +105,7 @@ English (EN) (100.73 KB - PDF)
 
 [View](/en/documents/overview/gohibic-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-820)
+[Other languages (22)](#file-language-dropdown-580)
 
 български (BG) (124.59 KB - PDF)
 
@@ -287,11 +285,9 @@ svenska (SV) (100.52 KB - PDF)
 
 Gohibic : EPAR - Risk management plan
 
-English (EN) (143.7 KB - PDF)
+English (EN) (400.59 KB - PDF)
 
 **First published:** 03/02/2025
-
-**Last updated:** 09/12/2025
 
 [View](/en/documents/rmp/gohibic-epar-risk-management-plan_en.pdf)
 
@@ -299,17 +295,17 @@ English (EN) (143.7 KB - PDF)
 
 Gohibic : EPAR - Product information
 
-English (EN) (274.61 KB - PDF)
+English (EN) (308.91 KB - PDF)
 
 **First published:** 03/02/2025
 
-**Last updated:** 09/12/2025
+**Last updated:** 17/03/2026
 
 [View](/en/documents/product-information/gohibic-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-546)
+[Other languages (24)](#file-language-dropdown-510)
 
-български (BG) (385.1 KB - PDF)
+български (BG) (379.96 KB - PDF)
 
 **First published:**
 
@@ -317,11 +313,11 @@ English (EN) (274.61 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/bg/documents/product-information/gohibic-epar-product-information_bg.pdf)
 
-español (ES) (320.5 KB - PDF)
+español (ES) (332.25 KB - PDF)
 
 **First published:**
 
@@ -329,11 +325,11 @@ español (ES) (320.5 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/es/documents/product-information/gohibic-epar-product-information_es.pdf)
 
-čeština (CS) (341.49 KB - PDF)
+čeština (CS) (354.25 KB - PDF)
 
 **First published:**
 
@@ -341,11 +337,11 @@ español (ES) (320.5 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/cs/documents/product-information/gohibic-epar-product-information_cs.pdf)
 
-dansk (DA) (318.99 KB - PDF)
+dansk (DA) (329.23 KB - PDF)
 
 **First published:**
 
@@ -353,11 +349,11 @@ dansk (DA) (318.99 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/da/documents/product-information/gohibic-epar-product-information_da.pdf)
 
-Deutsch (DE) (330.96 KB - PDF)
+Deutsch (DE) (341.58 KB - PDF)
 
 **First published:**
 
@@ -365,11 +361,11 @@ Deutsch (DE) (330.96 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/de/documents/product-information/gohibic-epar-product-information_de.pdf)
 
-eesti keel (ET) (315 KB - PDF)
+eesti keel (ET) (325.5 KB - PDF)
 
 **First published:**
 
@@ -377,11 +373,11 @@ eesti keel (ET) (315 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/et/documents/product-information/gohibic-epar-product-information_et.pdf)
 
-ελληνικά (EL) (368.02 KB - PDF)
+ελληνικά (EL) (381.82 KB - PDF)
 
 **First published:**
 
@@ -389,11 +385,11 @@ eesti keel (ET) (315 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/el/documents/product-information/gohibic-epar-product-information_el.pdf)
 
-français (FR) (327.64 KB - PDF)
+français (FR) (339.02 KB - PDF)
 
 **First published:**
 
@@ -401,11 +397,11 @@ français (FR) (327.64 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/fr/documents/product-information/gohibic-epar-product-information_fr.pdf)
 
-hrvatski (HR) (370.54 KB - PDF)
+hrvatski (HR) (383.53 KB - PDF)
 
 **First published:**
 
@@ -413,11 +409,11 @@ hrvatski (HR) (370.54 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/hr/documents/product-information/gohibic-epar-product-information_hr.pdf)
 
-íslenska (IS) (280.75 KB - PDF)
+íslenska (IS) (313.35 KB - PDF)
 
 **First published:**
 
@@ -425,11 +421,11 @@ hrvatski (HR) (370.54 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/is/documents/product-information/gohibic-epar-product-information_is.pdf)
 
-italiano (IT) (322.67 KB - PDF)
+italiano (IT) (333.72 KB - PDF)
 
 **First published:**
 
@@ -437,11 +433,11 @@ italiano (IT) (322.67 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/it/documents/product-information/gohibic-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (358.41 KB - PDF)
+latviešu valoda (LV) (370.75 KB - PDF)
 
 **First published:**
 
@@ -449,11 +445,11 @@ latviešu valoda (LV) (358.41 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/lv/documents/product-information/gohibic-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (374.42 KB - PDF)
+lietuvių kalba (LT) (387.5 KB - PDF)
 
 **First published:**
 
@@ -461,11 +457,11 @@ lietuvių kalba (LT) (374.42 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/lt/documents/product-information/gohibic-epar-product-information_lt.pdf)
 
-magyar (HU) (366.2 KB - PDF)
+magyar (HU) (381.38 KB - PDF)
 
 **First published:**
 
@@ -473,11 +469,11 @@ magyar (HU) (366.2 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/hu/documents/product-information/gohibic-epar-product-information_hu.pdf)
 
-Malti (MT) (390.87 KB - PDF)
+Malti (MT) (404.06 KB - PDF)
 
 **First published:**
 
@@ -485,11 +481,11 @@ Malti (MT) (390.87 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/mt/documents/product-information/gohibic-epar-product-information_mt.pdf)
 
-Nederlands (NL) (329.61 KB - PDF)
+Nederlands (NL) (340.19 KB - PDF)
 
 **First published:**
 
@@ -497,11 +493,11 @@ Nederlands (NL) (329.61 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/nl/documents/product-information/gohibic-epar-product-information_nl.pdf)
 
-norsk (NO) (300.78 KB - PDF)
+norsk (NO) (313.66 KB - PDF)
 
 **First published:**
 
@@ -509,11 +505,11 @@ norsk (NO) (300.78 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/no/documents/product-information/gohibic-epar-product-information_no.pdf)
 
-polski (PL) (391.83 KB - PDF)
+polski (PL) (405.96 KB - PDF)
 
 **First published:**
 
@@ -521,11 +517,11 @@ polski (PL) (391.83 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/pl/documents/product-information/gohibic-epar-product-information_pl.pdf)
 
-português (PT) (317.49 KB - PDF)
+português (PT) (328.9 KB - PDF)
 
 **First published:**
 
@@ -533,11 +529,11 @@ português (PT) (317.49 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/pt/documents/product-information/gohibic-epar-product-information_pt.pdf)
 
-română (RO) (358.1 KB - PDF)
+română (RO) (371.51 KB - PDF)
 
 **First published:**
 
@@ -545,11 +541,11 @@ română (RO) (358.1 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/ro/documents/product-information/gohibic-epar-product-information_ro.pdf)
 
-slovenčina (SK) (373.33 KB - PDF)
+slovenčina (SK) (387.02 KB - PDF)
 
 **First published:**
 
@@ -557,11 +553,11 @@ slovenčina (SK) (373.33 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/sk/documents/product-information/gohibic-epar-product-information_sk.pdf)
 
-slovenščina (SL) (380.51 KB - PDF)
+slovenščina (SL) (393.52 KB - PDF)
 
 **First published:**
 
@@ -569,11 +565,11 @@ slovenščina (SL) (380.51 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/sl/documents/product-information/gohibic-epar-product-information_sl.pdf)
 
-Suomi (FI) (317.46 KB - PDF)
+Suomi (FI) (328.42 KB - PDF)
 
 **First published:**
 
@@ -581,11 +577,11 @@ Suomi (FI) (317.46 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/fi/documents/product-information/gohibic-epar-product-information_fi.pdf)
 
-svenska (SV) (318.67 KB - PDF)
+svenska (SV) (329.27 KB - PDF)
 
 **First published:**
 
@@ -593,11 +589,11 @@ svenska (SV) (318.67 KB - PDF)
 
 **Last updated:**
 
-09/12/2025
+17/03/2026
 
 [View](/sv/documents/product-information/gohibic-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000306962 09/12/2025
+**Latest procedure affecting product information:** VR/0000332043 17/03/2026
 
 icon globe
 
@@ -621,7 +617,7 @@ English (EN) (61.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/gohibic-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-681)
+[Other languages (24)](#file-language-dropdown-210)
 
 български (BG) (32.83 KB - PDF)
 
@@ -850,7 +846,7 @@ InflaRx GmbH
 
 Winzerlaer Strasse 2 Ammerbach 07745 Jena GERMANY
 
-Opinion adopted 14/11/2024 Marketing authorisation issued 13/01/2025 Revision 2
+Opinion adopted 14/11/2024 Marketing authorisation issued 13/01/2025 Revision 3
 
 ## Assessment history
 
@@ -862,9 +858,11 @@ Collapse section
 
 Gohibic : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (143.7 KB - PDF)
+English (EN) (138.28 KB - PDF)
 
 **First published:** 09/12/2025
+
+**Last updated:** 17/03/2026
 
 [View](/en/documents/procedural-steps-after/gohibic-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf-0)
 
@@ -894,11 +892,11 @@ English (EN) (93.96 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-gohibic_en.pdf)
 
-#### News on Gohibic
+## News on Gohibic
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 November 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-november-2024) 15/11/2024
 
-**This page was last updated on** 09/12/2025
+**This page was last updated on** 17/03/2026
 
 ## Share this page
 

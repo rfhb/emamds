@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-23 10:30:56
-document_pages: 38
+document_datetime: 2026-03-18 08:54:58
+document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cegfila-epar-product-information_en.pdf
 document_name: cegfila-epar-product-information_en.pdf
 version: success
-processing_time: 9.0898689
-conversion_datetime: 2025-12-22 07:51:06.967483
+processing_time: 11.9758663
+conversion_datetime: 2026-03-21 13:25:30.20762
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -32,7 +32,9 @@ Each pre-filled syringe contains 6 mg of pegfilgrastim* in 0.6 mL solution for i
 
 *Produced in Escherichia coli cells by recombinant DNA technology followed by conjugation with polyethylene glycol (PEG).
 
-** The concentration is 20 mg/mL if the PEG moiety is included. The potency of this product should not be compared to the potency of another pegylated or nonpegylated protein of the same therapeutic class. For more information, see section 5.1
+** The concentration is 20 mg/mL if the PEG moiety is included.
+
+The potency of this product should not be compared to the potency of another pegylated or nonpegylated protein of the same therapeutic class. For more information, see section 5.1
 
 ## Excipient with known effect
 
@@ -42,7 +44,9 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Solution for injection Clear, colourless solution for injection.
+Solution for injection
+
+Clear, colourless solution for injection.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -239,10 +243,6 @@ The data in the table below describe adverse reactions reported from clinical tr
 | General disorders and administration site conditions |                      | Injection site pain, Non-cardiac chest pain 1                                                             | Injection site reactions 2                                                                                      |                                |                        |
 | Investigations                                       |                      |                                                                                                           | Elevations in lactate dehydrogenase and alkaline phosphatase 1 ; Transient elevations in LFT's for ALT or AST 1 |                                |                        |
 
-1 See section 'Description of selected adverse reactions' below.
-
-2 This adverse reaction was identified through post-marketing surveillance but not observed in randomised, controlled clinical trials in adults that supported the marketing authorisation. The frequency category was estimated from a statistical calculation based upon 1,576 patients receiving pegfilgrastim in nine randomised clinical trials.
-
 ## Description of selected adverse reactions
 
 Uncommon cases of Sweet's syndrome have been reported, although in some cases underlying haematological malignancies may play a role.
@@ -416,6 +416,8 @@ PharmaKorell GmbH Georges-Köhler-Str. 2, 79539 Loerrach Germany
 
 PharmaKorell GmbH Schleissheimer Strasse 373, 80935 Munich Germany
 
+Mundipharma DC B.V. Leusderend 16 3832 RC Leusden The Netherlands
+
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
@@ -434,14 +436,12 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
+<div style=\"page-break-after: always\"></div>
+
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of
-
-<div style=\"page-break-after: always\"></div>
-
-an important (pharmacovigilance or risk minimisation) milestone being reached.
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -495,17 +495,19 @@ Avoid vigorous shaking.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
 Store in a refrigerator. Do not freeze.
 
 Keep the container in the outer carton in order to protect from light.
 
-Mundipharma Corporation (Ireland) Limited,
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-United Drug House Magna Drive, Magna Business Park,
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Citywest Road, Dublin 24,
-
-Ireland
+Mundipharma Corporation (Ireland) Limited, United Drug House Magna Drive, Magna Business Park, Citywest Road, Dublin 24, Ireland
 
 EU/1/19/1409/001
 
@@ -519,15 +521,11 @@ PC
 
 SN
 
-## 9. SPECIAL STORAGE CONDITIONS
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+NN
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 15. INSTRUCTIONS ON USE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 ## 13. BATCH NUMBER
 
@@ -538,10 +536,6 @@ SN
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
-
-NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -827,147 +821,17 @@ PharmaKorell GmbH Georges-Köhler-Str. 2, D-79539 Lörrach Germany
 
 PharmaKorell GmbH Schleissheimer Strasse 373, 80935 Munich Germany
 
-<div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Mundipharma DC B.V.
 
 <div style=\"page-break-after: always\"></div>
 
-## België/Belgique/Belgien
-
-Mundipharma BV Tél/Tel: +32 2 358 54 68 info@mundipharma.be
-
-## България
-
-ТП'Мундифарма Гезелшафт м.б.Х.' Teл.: + 359 2 962 13 56 mundipharma@mundipharma.bg
-
-## Česká republika
-
-Mundipharma Gesellschaft m.b.H., organizační složka Tel: + 420 296 188 338 office@mundipharma.cz
-
-## Danmark
-
-Mundipharma A/S Tlf: + 45 45 17 48 00 nordics@mundipharma.dk
-
-## Deutschland
-
-STADAPHARM GmbH Tel: +49 6101 6030
-
-## Eesti
-
-Medis Pharma Lithua nia Tel: +37052512550 medis.lt@medis.com
-
-## Ελλάδα
-
-Mundipharma Corporation (Ireland) Limited Τηλ : + 353 1 206 3800
-
-## España
-
-Mundipharma Pharmaceuticals, S.L. Tel: +34 91 3821870 infomed@mundipharma.es
-
-## France
-
-Laboratoires Biogaran Tél: +33 (0) 800 970 109
-
-## Lietuva
-
-EGIS Pharmaceuticals PLC atstovybė Tel.:+ 370 5 231 4658 info@egis.lt
-
-## Luxembourg/Luxemburg
-
-Mundipharma BV Tél/Tel: +32 2 358 54 68 info@mundipharma.be
-
-## Magyarország
-
-Egis Gyógyszergyár Zrt. Tel.: +36 1 803 5555 mailbox@egis.hu
-
-## Malta
-
-Mundipharma Corporation (Ireland) Limited Tel: +353 1 206 3800
-
-## Nederland
-
-Mundipharma Pharmaceuticals B.V. Tel: + 31 (0)33 450 82 70 info@mundipharma.nl
-
-## Norge
-
-Mundipharma AS Tlf: + 47 67 51 89 00 nordics@mundipharma.dk
-
-## Österreich
-
-Mundipharma Gesellschaft m.b.H. Tel: +43 (0)1 523 25 05-0 info@mundipharma.at
-
-## Polska
-
-Mundipharma Polska Sp. z o.o. Tel.: + (48 22) 866 87 12 biuro@mundipharma.pl
-
-## Portugal
-
-Mundipharma Farmacêutica Lda Tel: +351 21 901 31 62 med.info@mundipharma.pt
-
-<div style=\"page-break-after: always\"></div>
-
-## Hrvatska
-
-Medis Adria d.o.o Tel: + 385 (0) 1 230 34 46 medis.hr@medis.com
-
-## Ireland
-
-Mundipharma Pharmaceuticals Limited Tel: +353 1 206 3800
-
-## Ísland
-
-Icepharma hf. Sími: + 354 540 8000
-
-icepharma@icepharma.is
-
-## Italia
-
-Mundipharma Pharmaceuticals Srl Tel: +39 02 3182881 infomedica@mundipharma.it
-
-## Κύπρος
-
-Mundipharma Pharmaceuticals Ltd Τηλ: +357 22 815656 info@mundipharma.com.cy
-
-## Latvija
-
-EGIS Pharmaceuticals PLC parstavniecibas Tel: + 371 676 13 859 info@egis.lv
+Leusderend 16 3832 RC Leusden The Netherlands
 
 ## This leaflet was last revised in {month YYYY}.
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
-## România
-
-Egis Rompharma SRL
-
-Tel: +40 21 412 00 17 office@egis.ro
-
-## Slovenija
-
-Medis, d.o.o.
-
-Tel: +386 158969 00
-
-medis.si@medis.com
-
-## Slovenská republika
-
-Mundipharma Ges.m.b.H.-o.z. Tel: + 4212 6381 1611 mundipharma@mundipharma.sk
-
-## Suomi/Finland
-
-Mundipharma Oy Puh/Tel: + 358 (0)9 8520 2065 nordics@mundipharma.dk
-
-## Sverige
-
-Mundipharma AB Tel: + 46 (0)31 773 75 30 nordics@mundipharma.dk
-
-## United Kingdom (Northern Ireland)
-
-Mundipharma Pharmaceuticals Limited Tel: +353 1 206 3800
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1031,7 +895,9 @@ Do not touch the injection site before injecting.
 
 <!-- image -->
 
-Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid injecting into areas with scars or stretch marks.
+Do not inject into areas where the skin is tender, bruised, red, or hard.
+
+Avoid injecting into areas with scars or stretch marks.
 
 <div style=\"page-break-after: always\"></div>
 

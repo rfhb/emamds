@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:58:58
+document_datetime: 2026-03-18 16:36:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/akynzeo.html
 document_name: akynzeo.html
 version: success
-processing_time: 0.3879939
-conversion_datetime: 2025-12-30 09:34:45.310166
+processing_time: 0.086433
+conversion_datetime: 2026-03-21 12:06:04.604719
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Akynzeo
 
 [RSS](/en/individual-human-medicine.xml/65759)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 netupitant / palonosetron Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +105,7 @@ English (EN) (110.16 KB - PDF)
 
 [View](/en/documents/overview/akynzeo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-977)
+[Other languages (22)](#file-language-dropdown-589)
 
 български (BG) (134.71 KB - PDF)
 
@@ -375,11 +373,11 @@ svenska (SV) (108.78 KB - PDF)
 
 Akynzeo : EPAR - Risk management plan
 
-English (EN) (1008.37 KB - PDF)
+English (EN) (1.26 MB - PDF)
 
 **First published:** 23/06/2015
 
-**Last updated:** 10/04/2025
+**Last updated:** 18/03/2026
 
 [View](/en/documents/rmp-summary/akynzeo-epar-risk-management-plan_en.pdf)
 
@@ -387,17 +385,17 @@ English (EN) (1008.37 KB - PDF)
 
 Akynzeo : EPAR - Product information
 
-English (EN) (606.97 KB - PDF)
+English (EN) (893.87 KB - PDF)
 
 **First published:** 23/06/2015
 
-**Last updated:** 01/12/2025
+**Last updated:** 18/03/2026
 
 [View](/en/documents/product-information/akynzeo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-678)
+[Other languages (24)](#file-language-dropdown-158)
 
-български (BG) (833.68 KB - PDF)
+български (BG) (1017.73 KB - PDF)
 
 **First published:**
 
@@ -405,11 +403,11 @@ English (EN) (606.97 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/bg/documents/product-information/akynzeo-epar-product-information_bg.pdf)
 
-español (ES) (643.65 KB - PDF)
+español (ES) (823.44 KB - PDF)
 
 **First published:**
 
@@ -417,11 +415,11 @@ español (ES) (643.65 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/es/documents/product-information/akynzeo-epar-product-information_es.pdf)
 
-čeština (CS) (780.19 KB - PDF)
+čeština (CS) (1.13 MB - PDF)
 
 **First published:**
 
@@ -429,11 +427,11 @@ español (ES) (643.65 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/cs/documents/product-information/akynzeo-epar-product-information_cs.pdf)
 
-dansk (DA) (620.81 KB - PDF)
+dansk (DA) (829.12 KB - PDF)
 
 **First published:**
 
@@ -441,11 +439,11 @@ dansk (DA) (620.81 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/da/documents/product-information/akynzeo-epar-product-information_da.pdf)
 
-Deutsch (DE) (665.91 KB - PDF)
+Deutsch (DE) (885.43 KB - PDF)
 
 **First published:**
 
@@ -453,11 +451,11 @@ Deutsch (DE) (665.91 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/de/documents/product-information/akynzeo-epar-product-information_de.pdf)
 
-eesti keel (ET) (623.25 KB - PDF)
+eesti keel (ET) (874.31 KB - PDF)
 
 **First published:**
 
@@ -465,11 +463,11 @@ eesti keel (ET) (623.25 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/et/documents/product-information/akynzeo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (985.7 KB - PDF)
+ελληνικά (EL) (1.19 MB - PDF)
 
 **First published:**
 
@@ -477,11 +475,11 @@ eesti keel (ET) (623.25 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/el/documents/product-information/akynzeo-epar-product-information_el.pdf)
 
-français (FR) (662.93 KB - PDF)
+français (FR) (890.28 KB - PDF)
 
 **First published:**
 
@@ -489,11 +487,11 @@ français (FR) (662.93 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/fr/documents/product-information/akynzeo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (716.45 KB - PDF)
+hrvatski (HR) (926.65 KB - PDF)
 
 **First published:**
 
@@ -501,11 +499,11 @@ hrvatski (HR) (716.45 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/hr/documents/product-information/akynzeo-epar-product-information_hr.pdf)
 
-íslenska (IS) (625.62 KB - PDF)
+íslenska (IS) (856.4 KB - PDF)
 
 **First published:**
 
@@ -513,11 +511,11 @@ hrvatski (HR) (716.45 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/is/documents/product-information/akynzeo-epar-product-information_is.pdf)
 
-italiano (IT) (649.58 KB - PDF)
+italiano (IT) (898.32 KB - PDF)
 
 **First published:**
 
@@ -525,11 +523,11 @@ italiano (IT) (649.58 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/it/documents/product-information/akynzeo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (731.96 KB - PDF)
+latviešu valoda (LV) (944.33 KB - PDF)
 
 **First published:**
 
@@ -537,11 +535,11 @@ latviešu valoda (LV) (731.96 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/lv/documents/product-information/akynzeo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (725.63 KB - PDF)
+lietuvių kalba (LT) (922.34 KB - PDF)
 
 **First published:**
 
@@ -549,11 +547,11 @@ lietuvių kalba (LT) (725.63 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/lt/documents/product-information/akynzeo-epar-product-information_lt.pdf)
 
-magyar (HU) (913.71 KB - PDF)
+magyar (HU) (1.2 MB - PDF)
 
 **First published:**
 
@@ -561,11 +559,11 @@ magyar (HU) (913.71 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/hu/documents/product-information/akynzeo-epar-product-information_hu.pdf)
 
-Malti (MT) (830.19 KB - PDF)
+Malti (MT) (1.02 MB - PDF)
 
 **First published:**
 
@@ -573,11 +571,11 @@ Malti (MT) (830.19 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/mt/documents/product-information/akynzeo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (648.38 KB - PDF)
+Nederlands (NL) (952.45 KB - PDF)
 
 **First published:**
 
@@ -585,11 +583,11 @@ Nederlands (NL) (648.38 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/nl/documents/product-information/akynzeo-epar-product-information_nl.pdf)
 
-norsk (NO) (587.26 KB - PDF)
+norsk (NO) (805.31 KB - PDF)
 
 **First published:**
 
@@ -597,11 +595,11 @@ norsk (NO) (587.26 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/no/documents/product-information/akynzeo-epar-product-information_no.pdf)
 
-polski (PL) (769.29 KB - PDF)
+polski (PL) (1016.85 KB - PDF)
 
 **First published:**
 
@@ -609,11 +607,11 @@ polski (PL) (769.29 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/pl/documents/product-information/akynzeo-epar-product-information_pl.pdf)
 
-português (PT) (621.79 KB - PDF)
+português (PT) (809.94 KB - PDF)
 
 **First published:**
 
@@ -621,11 +619,11 @@ português (PT) (621.79 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/pt/documents/product-information/akynzeo-epar-product-information_pt.pdf)
 
-română (RO) (764.73 KB - PDF)
+română (RO) (966.92 KB - PDF)
 
 **First published:**
 
@@ -633,11 +631,11 @@ română (RO) (764.73 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/ro/documents/product-information/akynzeo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (636.31 KB - PDF)
+slovenčina (SK) (954.6 KB - PDF)
 
 **First published:**
 
@@ -645,11 +643,11 @@ slovenčina (SK) (636.31 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/sk/documents/product-information/akynzeo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (695.84 KB - PDF)
+slovenščina (SL) (957.68 KB - PDF)
 
 **First published:**
 
@@ -657,11 +655,11 @@ slovenščina (SL) (695.84 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/sl/documents/product-information/akynzeo-epar-product-information_sl.pdf)
 
-Suomi (FI) (636.79 KB - PDF)
+Suomi (FI) (850.76 KB - PDF)
 
 **First published:**
 
@@ -669,11 +667,11 @@ Suomi (FI) (636.79 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/fi/documents/product-information/akynzeo-epar-product-information_fi.pdf)
 
-svenska (SV) (593.3 KB - PDF)
+svenska (SV) (774.07 KB - PDF)
 
 **First published:**
 
@@ -681,11 +679,11 @@ svenska (SV) (593.3 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+18/03/2026
 
 [View](/sv/documents/product-information/akynzeo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000314740 28/11/2025
+**Latest procedure affecting product information:** X/0000258060 12/02/2026
 
 icon globe
 
@@ -711,7 +709,7 @@ English (EN) (10.11 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/akynzeo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-375)
+[Other languages (24)](#file-language-dropdown-237)
 
 български (BG) (65.78 KB - PDF)
 
@@ -1041,7 +1039,7 @@ Helsinn Birex Pharmaceuticals Ltd
 
 Damastown
 
-Opinion adopted 26/03/2015 Marketing authorisation issued 27/05/2015 Revision 20
+Opinion adopted 26/03/2015 Marketing authorisation issued 27/05/2015 Revision 21
 
 ## Assessment history
 
@@ -1053,9 +1051,11 @@ Collapse section
 
 Akynzeo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (151.44 KB - PDF)
+English (EN) (151.43 KB - PDF)
 
 **First published:** 01/12/2025
+
+**Last updated:** 18/03/2026
 
 [View](/en/documents/procedural-steps-after/akynzeo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1068,6 +1068,18 @@ English (EN) (167.29 KB - PDF)
 **Last updated:** 01/12/2025
 
 [View](/en/documents/procedural-steps-after/akynzeo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Akynzeo-X-0000258060 : EPAR - Assessment report - Extension
+
+Adopted
+
+Reference Number: EMADOC-1700519818-3001016
+
+English (EN) (1.19 MB - PDF)
+
+**First published:** 18/03/2026
+
+[View](/en/documents/variation-report/akynzeo-x-0000258060-epar-assessment-report-extension_en.pdf)
 
 Aakynzeo-H-C-003728-P46-004.1 : EPAR - Assessment report
 
@@ -1135,23 +1147,23 @@ English (EN) (2.09 MB - PDF)
 
 [View](/en/documents/assessment-report/akynzeo-epar-public-assessment-report_en.pdf)
 
-#### News on Akynzeo
+## News on Akynzeo
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 December 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-december-2019) 13/12/2019
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 March 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-march-2015) 27/03/2015
 
-#### More information on Akynzeo
+## More information on Akynzeo
 
 - [EMEA-001198-PIP02-16 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001198-pip02-16)
 - [EMEA-001198-PIP03-17-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001198-pip03-17-m05)
 - [EMEA-001198-PIP04-23 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001198-pip04-23)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 01/12/2025
+**This page was last updated on** 18/03/2026
 
 ## Share this page
 

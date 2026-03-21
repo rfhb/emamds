@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 07:27:00
+document_datetime: 2026-03-18 11:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pelmeg.html
 document_name: pelmeg.html
 version: success
-processing_time: 0.1228422
-conversion_datetime: 2025-12-29 23:35:10.599064
+processing_time: 0.0848006
+conversion_datetime: 2026-03-21 12:15:49.284056
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Pelmeg
 
 [RSS](/en/individual-human-medicine.xml/67151)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 pegfilgrastim Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +106,7 @@ English (EN) (74.55 KB - PDF)
 
 [View](/en/documents/overview/pelmeg-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-315)
+[Other languages (22)](#file-language-dropdown-502)
 
 български (BG) (127.01 KB - PDF)
 
@@ -300,17 +298,17 @@ English (EN) (336.87 KB - PDF)
 
 Pelmeg : EPAR - Product information
 
-English (EN) (642.38 KB - PDF)
+English (EN) (733.05 KB - PDF)
 
 **First published:** 03/12/2018
 
-**Last updated:** 23/09/2025
+**Last updated:** 18/03/2026
 
 [View](/en/documents/product-information/pelmeg-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-351)
+[Other languages (24)](#file-language-dropdown-666)
 
-български (BG) (887.92 KB - PDF)
+български (BG) (1.14 MB - PDF)
 
 **First published:**
 
@@ -318,11 +316,11 @@ English (EN) (642.38 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/bg/documents/product-information/pelmeg-epar-product-information_bg.pdf)
 
-español (ES) (760.55 KB - PDF)
+español (ES) (900.67 KB - PDF)
 
 **First published:**
 
@@ -330,11 +328,11 @@ español (ES) (760.55 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/es/documents/product-information/pelmeg-epar-product-information_es.pdf)
 
-čeština (CS) (879.99 KB - PDF)
+čeština (CS) (1.03 MB - PDF)
 
 **First published:**
 
@@ -342,11 +340,11 @@ español (ES) (760.55 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/cs/documents/product-information/pelmeg-epar-product-information_cs.pdf)
 
-dansk (DA) (776.76 KB - PDF)
+dansk (DA) (965.69 KB - PDF)
 
 **First published:**
 
@@ -354,11 +352,11 @@ dansk (DA) (776.76 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/da/documents/product-information/pelmeg-epar-product-information_da.pdf)
 
-Deutsch (DE) (856.31 KB - PDF)
+Deutsch (DE) (1.03 MB - PDF)
 
 **First published:**
 
@@ -366,11 +364,11 @@ Deutsch (DE) (856.31 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/de/documents/product-information/pelmeg-epar-product-information_de.pdf)
 
-eesti keel (ET) (704.42 KB - PDF)
+eesti keel (ET) (870.61 KB - PDF)
 
 **First published:**
 
@@ -378,11 +376,11 @@ eesti keel (ET) (704.42 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/et/documents/product-information/pelmeg-epar-product-information_et.pdf)
 
-ελληνικά (EL) (782.73 KB - PDF)
+ελληνικά (EL) (1.01 MB - PDF)
 
 **First published:**
 
@@ -390,11 +388,11 @@ eesti keel (ET) (704.42 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/el/documents/product-information/pelmeg-epar-product-information_el.pdf)
 
-français (FR) (863.62 KB - PDF)
+français (FR) (807.24 KB - PDF)
 
 **First published:**
 
@@ -402,11 +400,11 @@ français (FR) (863.62 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/fr/documents/product-information/pelmeg-epar-product-information_fr.pdf)
 
-hrvatski (HR) (806.72 KB - PDF)
+hrvatski (HR) (1.01 MB - PDF)
 
 **First published:**
 
@@ -414,11 +412,11 @@ hrvatski (HR) (806.72 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/hr/documents/product-information/pelmeg-epar-product-information_hr.pdf)
 
-íslenska (IS) (776.43 KB - PDF)
+íslenska (IS) (954.54 KB - PDF)
 
 **First published:**
 
@@ -426,11 +424,11 @@ hrvatski (HR) (806.72 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/is/documents/product-information/pelmeg-epar-product-information_is.pdf)
 
-italiano (IT) (797.57 KB - PDF)
+italiano (IT) (978.64 KB - PDF)
 
 **First published:**
 
@@ -438,11 +436,11 @@ italiano (IT) (797.57 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/it/documents/product-information/pelmeg-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (798.23 KB - PDF)
+latviešu valoda (LV) (1.03 MB - PDF)
 
 **First published:**
 
@@ -450,11 +448,11 @@ latviešu valoda (LV) (798.23 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/lv/documents/product-information/pelmeg-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (823.26 KB - PDF)
+lietuvių kalba (LT) (1.08 MB - PDF)
 
 **First published:**
 
@@ -462,11 +460,11 @@ lietuvių kalba (LT) (823.26 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/lt/documents/product-information/pelmeg-epar-product-information_lt.pdf)
 
-magyar (HU) (790.64 KB - PDF)
+magyar (HU) (1.02 MB - PDF)
 
 **First published:**
 
@@ -474,11 +472,11 @@ magyar (HU) (790.64 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/hu/documents/product-information/pelmeg-epar-product-information_hu.pdf)
 
-Malti (MT) (943.78 KB - PDF)
+Malti (MT) (1.16 MB - PDF)
 
 **First published:**
 
@@ -486,11 +484,11 @@ Malti (MT) (943.78 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/mt/documents/product-information/pelmeg-epar-product-information_mt.pdf)
 
-Nederlands (NL) (729.76 KB - PDF)
+Nederlands (NL) (886.19 KB - PDF)
 
 **First published:**
 
@@ -498,11 +496,11 @@ Nederlands (NL) (729.76 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/nl/documents/product-information/pelmeg-epar-product-information_nl.pdf)
 
-norsk (NO) (776.78 KB - PDF)
+norsk (NO) (968.82 KB - PDF)
 
 **First published:**
 
@@ -510,11 +508,11 @@ norsk (NO) (776.78 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/no/documents/product-information/pelmeg-epar-product-information_no.pdf)
 
-polski (PL) (867.72 KB - PDF)
+polski (PL) (1.09 MB - PDF)
 
 **First published:**
 
@@ -522,11 +520,11 @@ polski (PL) (867.72 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/pl/documents/product-information/pelmeg-epar-product-information_pl.pdf)
 
-português (PT) (801.55 KB - PDF)
+português (PT) (995.4 KB - PDF)
 
 **First published:**
 
@@ -534,11 +532,11 @@ português (PT) (801.55 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/pt/documents/product-information/pelmeg-epar-product-information_pt.pdf)
 
-română (RO) (883.69 KB - PDF)
+română (RO) (1.08 MB - PDF)
 
 **First published:**
 
@@ -546,11 +544,11 @@ română (RO) (883.69 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/ro/documents/product-information/pelmeg-epar-product-information_ro.pdf)
 
-slovenčina (SK) (841.87 KB - PDF)
+slovenčina (SK) (1.04 MB - PDF)
 
 **First published:**
 
@@ -558,11 +556,11 @@ slovenčina (SK) (841.87 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/sk/documents/product-information/pelmeg-epar-product-information_sk.pdf)
 
-slovenščina (SL) (727.58 KB - PDF)
+slovenščina (SL) (947.21 KB - PDF)
 
 **First published:**
 
@@ -570,11 +568,11 @@ slovenščina (SL) (727.58 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/sl/documents/product-information/pelmeg-epar-product-information_sl.pdf)
 
-Suomi (FI) (796.58 KB - PDF)
+Suomi (FI) (957.16 KB - PDF)
 
 **First published:**
 
@@ -582,11 +580,11 @@ Suomi (FI) (796.58 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/fi/documents/product-information/pelmeg-epar-product-information_fi.pdf)
 
-svenska (SV) (808.2 KB - PDF)
+svenska (SV) (940.57 KB - PDF)
 
 **First published:**
 
@@ -594,11 +592,11 @@ svenska (SV) (808.2 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/sv/documents/product-information/pelmeg-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000271752 22/09/2025
+**Latest procedure affecting product information:** VR/0000325838 17/03/2026
 
 icon globe
 
@@ -622,7 +620,7 @@ English (EN) (111.19 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pelmeg-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-482)
+[Other languages (24)](#file-language-dropdown-504)
 
 български (BG) (38.42 KB - PDF)
 
@@ -842,7 +840,7 @@ Mundipharma Corporation (Ireland) Limited
 
 United Drug House Magna Drive
 
-Opinion adopted 19/09/2018 Marketing authorisation issued 20/11/2018 Revision 11
+Opinion adopted 19/09/2018 Marketing authorisation issued 20/11/2018 Revision 12
 
 ## Assessment history
 
@@ -854,11 +852,11 @@ Collapse section
 
 Pelmeg : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (129.13 KB - PDF)
+English (EN) (145.96 KB - PDF)
 
 **First published:** 02/04/2025
 
-**Last updated:** 23/09/2025
+**Last updated:** 18/03/2026
 
 [View](/en/documents/procedural-steps-after/pelmeg-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -912,11 +910,11 @@ English (EN) (68.62 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-pelmeg_en.pdf)
 
-#### News on Pelmeg
+## News on Pelmeg
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 September 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-september-2018) 21/09/2018
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -926,23 +924,33 @@ English (EN) (1.27 MB - DOCX)
 
 **First published:** 23/09/2025
 
+**Last updated:** 18/03/2026
+
 [View](/en/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-404)
+[Other languages (24)](#file-language-dropdown-733)
 
-български (BG) (1.3 MB - DOCX)
+български (BG) (1.31 MB - DOCX)
 
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/bg/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (1.02 MB - DOCX)
+español (ES) (1.03 MB - DOCX)
 
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/es/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_es.docx)
 
@@ -952,6 +960,10 @@ español (ES) (1.02 MB - DOCX)
 
 23/09/2025
 
+**Last updated:**
+
+18/03/2026
+
 [View](/cs/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_cs.docx)
 
 dansk (DA) (1.09 MB - DOCX)
@@ -959,6 +971,10 @@ dansk (DA) (1.09 MB - DOCX)
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/da/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_da.docx)
 
@@ -968,13 +984,21 @@ Deutsch (DE) (1.21 MB - DOCX)
 
 23/09/2025
 
+**Last updated:**
+
+18/03/2026
+
 [View](/de/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (1.12 MB - DOCX)
+eesti keel (ET) (1.13 MB - DOCX)
 
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/et/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_et.docx)
 
@@ -984,13 +1008,21 @@ eesti keel (ET) (1.12 MB - DOCX)
 
 23/09/2025
 
+**Last updated:**
+
+18/03/2026
+
 [View](/el/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (947.02 KB - DOCX)
+français (FR) (949.61 KB - DOCX)
 
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/fr/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_fr.docx)
 
@@ -1000,29 +1032,45 @@ hrvatski (HR) (1.04 MB - DOCX)
 
 23/09/2025
 
+**Last updated:**
+
+18/03/2026
+
 [View](/hr/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (967.74 KB - DOCX)
+íslenska (IS) (970.67 KB - DOCX)
 
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/is/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_is.docx)
 
-italiano (IT) (1.11 MB - DOCX)
+italiano (IT) (1.1 MB - DOCX)
 
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/it/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (980.05 KB - DOCX)
+latviešu valoda (LV) (983.16 KB - DOCX)
 
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/lv/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_lv.docx)
 
@@ -1032,6 +1080,10 @@ lietuvių kalba (LT) (1.26 MB - DOCX)
 
 23/09/2025
 
+**Last updated:**
+
+18/03/2026
+
 [View](/lt/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_lt.docx)
 
 magyar (HU) (1.05 MB - DOCX)
@@ -1039,6 +1091,10 @@ magyar (HU) (1.05 MB - DOCX)
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/hu/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_hu.docx)
 
@@ -1048,13 +1104,21 @@ Malti (MT) (1.25 MB - DOCX)
 
 23/09/2025
 
+**Last updated:**
+
+18/03/2026
+
 [View](/mt/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (861.82 KB - DOCX)
+Nederlands (NL) (862.53 KB - DOCX)
 
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/nl/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_nl.docx)
 
@@ -1064,6 +1128,10 @@ norsk (NO) (1.09 MB - DOCX)
 
 23/09/2025
 
+**Last updated:**
+
+18/03/2026
+
 [View](/no/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (1.07 MB - DOCX)
@@ -1072,13 +1140,21 @@ polski (PL) (1.07 MB - DOCX)
 
 23/09/2025
 
+**Last updated:**
+
+18/03/2026
+
 [View](/pl/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (1.08 MB - DOCX)
+português (PT) (1.09 MB - DOCX)
 
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/pt/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_pt.docx)
 
@@ -1088,6 +1164,10 @@ română (RO) (1.08 MB - DOCX)
 
 23/09/2025
 
+**Last updated:**
+
+18/03/2026
+
 [View](/ro/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_ro.docx)
 
 slovenčina (SK) (1.14 MB - DOCX)
@@ -1095,6 +1175,10 @@ slovenčina (SK) (1.14 MB - DOCX)
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/sk/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_sk.docx)
 
@@ -1104,34 +1188,46 @@ slovenščina (SL) (1.29 MB - DOCX)
 
 23/09/2025
 
+**Last updated:**
+
+18/03/2026
+
 [View](/sl/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (992.59 KB - DOCX)
+Suomi (FI) (994.56 KB - DOCX)
 
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/fi/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (989.75 KB - DOCX)
+svenska (SV) (990.2 KB - DOCX)
 
 **First published:**
 
 23/09/2025
 
+**Last updated:**
+
+18/03/2026
+
 [View](/sv/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_sv.docx)
 
-#### Relatd content
+## Relatd content
 
 - [Biosimilar medicines](/en/human-regulatory/overview/biosimilar-medicines)
 
-#### Topics
+## Topics
 
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 23/09/2025
+**This page was last updated on** 18/03/2026
 
 ## Share this page
 

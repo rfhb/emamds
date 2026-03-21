@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-02 12:42:00
+document_datetime: 2026-03-19 16:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/neoclarityn.html
 document_name: neoclarityn.html
 version: success
-processing_time: 0.103042
-conversion_datetime: 2026-03-05 11:56:02.094499
+processing_time: 0.2465539
+conversion_datetime: 2026-03-21 12:17:39.893957
 docling_version:
-  docling-serve: 1.14.1
+  docling-serve: 1.14.3
   docling-jobkit: 1.13.0
-  docling: 2.76.0
-  docling-core: 2.66.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.4.2
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Neoclarityn
 
@@ -35,6 +35,7 @@ Page contents
 - [Product details](#product-details)
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-84374)
 - [Topics](#topics)
 
 - Application under evaluation
@@ -109,7 +110,7 @@ English (EN) (75.37 KB - PDF)
 
 [View](/en/documents/overview/neoclarityn-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-717)
+[Other languages (22)](#file-language-dropdown-932)
 
 български (BG) (103.78 KB - PDF)
 
@@ -395,7 +396,7 @@ English (EN) (397.58 KB - PDF)
 
 [View](/en/documents/product-information/neoclarityn-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-442)
+[Other languages (24)](#file-language-dropdown-196)
 
 български (BG) (495.82 KB - PDF)
 
@@ -711,7 +712,7 @@ English (EN) (62.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/neoclarityn-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-414)
+[Other languages (24)](#file-language-dropdown-460)
 
 български (BG) (56.23 KB - PDF)
 
@@ -1192,11 +1193,217 @@ English (EN) (90.28 KB - PDF)
 
 [View](/en/documents/procedural-steps/neoclarityn-epar-procedural-steps-taken-authorisation_en.pdf)
 
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Neoclarityn : EPAR - Product information - tracked changes
+
+English (EN) (138.98 KB - DOCX)
+
+**First published:** 19/03/2026
+
+[View](/en/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-76)
+
+български (BG) (161.4 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/bg/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (126.97 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/es/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (126.04 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/cs/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (128.82 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/da/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (126.96 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/de/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (133.97 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/et/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (141.52 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/el/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (136.25 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/fr/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (142.45 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/hr/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (124.51 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/is/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (128.12 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/it/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (127.8 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/lv/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (154.34 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/lt/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (151.51 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/hu/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (153.63 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/mt/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (130.56 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/nl/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (122.53 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/no/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (149.5 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/pl/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (131.54 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/pt/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (123.61 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/ro/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (139.85 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/sk/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (155.59 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/sl/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (132.67 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/fi/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (126.14 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/sv/documents/product-information-tracked-changes/neoclarityn-epar-product-information-tracked-changes_sv.docx)
+
 ## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 02/03/2026
+**This page was last updated on** 19/03/2026
 
 ## Share this page
 

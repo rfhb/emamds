@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-23 10:45:51
+document_datetime: 2026-03-18 08:44:37
 document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/pelmeg-epar-product-information_en.pdf
 document_name: pelmeg-epar-product-information_en.pdf
 version: success
-processing_time: 8.628174
-conversion_datetime: 2025-12-24 00:00:14.190369
+processing_time: 22.8953902
+conversion_datetime: 2026-03-21 12:56:39.768172
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -241,10 +241,6 @@ The data in the table below describe adverse reactions reported from clinical tr
 | General disorders and administration site conditions |                      | Injection site pain, Non-cardiac chest pain 1                                                             | Injection site reactions 2                                                                                      |                                |                        |
 | Investigations                                       |                      |                                                                                                           | Elevations in lactate dehydrogenase and alkaline phosphatase 1 ; Transient elevations in LFT's for ALT or AST 1 |                                |                        |
 
-1 See section 'Description of selected adverse reactions' below.
-
-2  This adverse reaction was identified through post-marketing surveillance but not observed in randomised, controlled clinical trials in adults that supported the marketing authorisation. The frequency category was estimated from a statistical calculation based upon 1,576 patients receiving pegfilgrastim in nine randomised clinical trials.
-
 ## Description of selected adverse reactions
 
 Uncommon cases of Sweet's syndrome have been reported, although in some cases underlying haematological malignancies may play a role.
@@ -423,6 +419,8 @@ PharmaKorell GmbH Georges-Köhler-Str. 2, 79539 Loerrach Germany
 
 PharmaKorell GmbH Schleissheimer Strasse 373, 80935 Munich Germany
 
+Mundipharma DC B.V. Leusderend 16 3832 RC Leusden The Netherlands
+
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
@@ -443,12 +441,12 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or
-
 <div style=\"page-break-after: always\"></div>
 
-as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+
+<div style=\"page-break-after: always\"></div>
 
 ## ANNEX III
 
@@ -488,9 +486,7 @@ For single use only.
 
 For subcutaneous use.
 
-Important
-
-: read the package leaflet before handling pre-filled syringe
+Important : read the package leaflet before handling pre-filled syringe
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -832,137 +828,13 @@ PharmaKorell GmbH Schleissheimer Strasse 373, 80935 Munich Germany
 
 <div style=\"page-break-after: always\"></div>
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-## België/Belgique/Belgien
-
-Mundipharma BV Tél/Tel: +32 2 358 54 68 info@mundipharma.be
-
-## България
-
-ТП'Мундифарма Гезелшафт м.б.Х.' Teл.: + 359 2 962 13 56 mundipharma@mundipharma.bg
-
-## Česká republika
-
-Mundipharma Gesellschaft m.b.H., organizační složka Tel: + 420 296 188 338 office@mundipharma.cz
-
-## Danmark
-
-Mundipharma A/S Tlf: + 45 45 17 48 00 nordics@mundipharma.dk
-
-## Deutschland
-
-Mundipharma GmbH Tel: +49 (0) 69 506029-000 info@mundipharma.de
-
-## Eesti
-
-Medis Pharma Lithuania UAB Tel: +370 68735006 medis.lt@medis.com
-
-## Ελλάδα
-
-Mundipharma Corporation (Ireland) Limited Τηλ: + 353 1 206 3800
-
-## España
-
-Mundipharma Pharmaceuticals, S.L. Tel: +34 91 3821870 infomed@mundipharma.es
-
-## France
-
-MUNDIPHARMA SAS Tél: +33 1 40 65 29 29 infomed@mundipharma.fr
-
-## Lietuva
-
-EGIS Pharmaceuticals PLC atstovybė Tel.:+ 370 5 231 4658 info@egis.lt
-
-## Luxembourg/Luxemburg
-
-Mundipharma BV Tél/Tel: +32 2 358 54 68 info@mundipharma.be
-
-## Magyarország
-
-Medis Hungary Kft Tel.: +36 23 801 028 medis.hu@medis.com
-
-## Malta
-
-Mundipharma Corporation (Ireland) Limited Tel: +353 1 206 3800
-
-## Nederland
-
-Mundipharma Pharmaceuticals B.V. Tel: + 31 (0)33 450 82 70 info@mundipharma.nl
-
-## Norge
-
-Mundipharma AS Tlf: + 47 67 51 89 00 nordics@mundipharma.dk
-
-## Österreich
-
-Mundipharma Gesellschaft m.b.H. Tel: +43 (0)1 523 25 05 info@mundipharma.at
-
-## Polska
-
-Mundipharma Polska Sp. z o.o. Tel.: + (48 22) 3824850 office@mundipharma.pl
-
-## Portugal
-
-Mundipharma Farmacêutica Lda Tel: +351 21 901 31 62 medinfo@mundipharma.pt
-
-<div style=\"page-break-after: always\"></div>
-
-## Hrvatska
-
-Medis Adria d.o.o. Tel: + 385 (0) 1 230 34 46 medis.hr@medis.com
-
-## Ireland
-
-Mundipharma Pharmaceuticals Limited Tel: +353 1 206 3800
-
-## Ísland
-
-Icepharma hf. Sími: + 354 540 8000 icepharma@icepharma.is
-
-## Italia
-
-Mundipharma Pharmaceuticals Srl Tel: +39 02 3182881 infomedica@mundipharma.it
-
-## Κύπρος
-
-Mundipharma Pharmaceuticals Ltd
-
-Τηλ: +357 22 815656 info@mundipharma.com.cy
-
-## Latvija
-
-Medis Pharma Lithuania UAB Tel: + 370 68735006 medis.lt@medis.com
+Mundipharma DC B.V. Leusderend 16 3832 RC Leusden The Netherlands
 
 ## This leaflet was last revised in .
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
-## România
-
-Medis RO S.R.L. Tel: +40 744 777 258
-
-medis.ro@medis.com
-
-## Slovenija
-
-Medis, d.o.o. Tel: +386 158969 00 medis.si@medis.com
-
-## Slovenská republika
-
-Mundipharma Ges.m.b.H.-o.z. Tel: + 4212 6381 1611
-
-mundipharma@mundipharma.sk
-
-## Suomi/Finland
-
-Mundipharma Oy Puh/Tel: + 358 (0)9 8520 2065 nordics@mundipharma.dk
-
-## Sverige
-
-Mundipharma AB Tel: + 46 (0)31 773 75 30 nordics@mundipharma.dk
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1078,7 +950,7 @@ Turn the plunger to move the label into a position where you can remove the syri
 
 Step 4: Finish
 
-- A Discard the used pre-filled syringe and other supplies in a sharps disposal container.
+## A Discard the used pre-filled syringe and other supplies in a sharps disposal container.
 
 <!-- image -->
 

@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 14:36:20
+document_datetime: 2026-03-18 11:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cegfila.html
 document_name: cegfila.html
 version: success
-processing_time: 0.127186
-conversion_datetime: 2025-12-31 05:20:38.119638
+processing_time: 0.1012499
+conversion_datetime: 2026-03-21 12:18:41.582503
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Cegfila (previously Pegfilgrastim Mundipharma)
 
 [RSS](/en/individual-human-medicine.xml/67261)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 pegfilgrastim Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +108,7 @@ English (EN) (122.54 KB - PDF)
 
 [View](/en/documents/overview/cegfila-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-61)
+[Other languages (22)](#file-language-dropdown-128)
 
 български (BG) (147.42 KB - PDF)
 
@@ -388,17 +386,17 @@ English (EN) (83.89 KB - PDF)
 
 Cegfila : EPAR - Product information
 
-English (EN) (883.73 KB - PDF)
+English (EN) (614.81 KB - PDF)
 
 **First published:** 20/12/2019
 
-**Last updated:** 23/09/2025
+**Last updated:** 18/03/2026
 
 [View](/en/documents/product-information/cegfila-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-65)
+[Other languages (24)](#file-language-dropdown-956)
 
-български (BG) (1.89 MB - PDF)
+български (BG) (775.38 KB - PDF)
 
 **First published:**
 
@@ -406,11 +404,11 @@ English (EN) (883.73 KB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/bg/documents/product-information/cegfila-epar-product-information_bg.pdf)
 
-español (ES) (1.23 MB - PDF)
+español (ES) (684.61 KB - PDF)
 
 **First published:**
 
@@ -418,11 +416,11 @@ español (ES) (1.23 MB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/es/documents/product-information/cegfila-epar-product-information_es.pdf)
 
-čeština (CS) (1.58 MB - PDF)
+čeština (CS) (791.05 KB - PDF)
 
 **First published:**
 
@@ -430,11 +428,11 @@ español (ES) (1.23 MB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/cs/documents/product-information/cegfila-epar-product-information_cs.pdf)
 
-dansk (DA) (1.33 MB - PDF)
+dansk (DA) (708.68 KB - PDF)
 
 **First published:**
 
@@ -442,11 +440,11 @@ dansk (DA) (1.33 MB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/da/documents/product-information/cegfila-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.35 MB - PDF)
+Deutsch (DE) (755.75 KB - PDF)
 
 **First published:**
 
@@ -454,11 +452,11 @@ Deutsch (DE) (1.35 MB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/de/documents/product-information/cegfila-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.14 MB - PDF)
+eesti keel (ET) (649.63 KB - PDF)
 
 **First published:**
 
@@ -466,11 +464,11 @@ eesti keel (ET) (1.14 MB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/et/documents/product-information/cegfila-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.33 MB - PDF)
+ελληνικά (EL) (744.05 KB - PDF)
 
 **First published:**
 
@@ -478,11 +476,11 @@ eesti keel (ET) (1.14 MB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/el/documents/product-information/cegfila-epar-product-information_el.pdf)
 
-français (FR) (1.6 MB - PDF)
+français (FR) (780.69 KB - PDF)
 
 **First published:**
 
@@ -490,11 +488,11 @@ français (FR) (1.6 MB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/fr/documents/product-information/cegfila-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.44 MB - PDF)
+hrvatski (HR) (713.66 KB - PDF)
 
 **First published:**
 
@@ -502,11 +500,11 @@ hrvatski (HR) (1.44 MB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/hr/documents/product-information/cegfila-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.26 MB - PDF)
+íslenska (IS) (719.8 KB - PDF)
 
 **First published:**
 
@@ -514,11 +512,11 @@ hrvatski (HR) (1.44 MB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/is/documents/product-information/cegfila-epar-product-information_is.pdf)
 
-italiano (IT) (1.31 MB - PDF)
+italiano (IT) (730.46 KB - PDF)
 
 **First published:**
 
@@ -526,11 +524,11 @@ italiano (IT) (1.31 MB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/it/documents/product-information/cegfila-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.47 MB - PDF)
+latviešu valoda (LV) (735.36 KB - PDF)
 
 **First published:**
 
@@ -538,11 +536,11 @@ latviešu valoda (LV) (1.47 MB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/lv/documents/product-information/cegfila-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.51 MB - PDF)
+lietuvių kalba (LT) (752.94 KB - PDF)
 
 **First published:**
 
@@ -550,11 +548,11 @@ lietuvių kalba (LT) (1.51 MB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/lt/documents/product-information/cegfila-epar-product-information_lt.pdf)
 
-magyar (HU) (1.42 MB - PDF)
+magyar (HU) (723.38 KB - PDF)
 
 **First published:**
 
@@ -562,11 +560,11 @@ magyar (HU) (1.42 MB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/hu/documents/product-information/cegfila-epar-product-information_hu.pdf)
 
-Malti (MT) (1.86 MB - PDF)
+Malti (MT) (840.15 KB - PDF)
 
 **First published:**
 
@@ -574,11 +572,11 @@ Malti (MT) (1.86 MB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/mt/documents/product-information/cegfila-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.24 MB - PDF)
+Nederlands (NL) (672.31 KB - PDF)
 
 **First published:**
 
@@ -586,11 +584,11 @@ Nederlands (NL) (1.24 MB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/nl/documents/product-information/cegfila-epar-product-information_nl.pdf)
 
-norsk (NO) (1.34 MB - PDF)
+norsk (NO) (709.63 KB - PDF)
 
 **First published:**
 
@@ -598,11 +596,11 @@ norsk (NO) (1.34 MB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/no/documents/product-information/cegfila-epar-product-information_no.pdf)
 
-polski (PL) (1.42 MB - PDF)
+polski (PL) (771.63 KB - PDF)
 
 **First published:**
 
@@ -610,11 +608,11 @@ polski (PL) (1.42 MB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/pl/documents/product-information/cegfila-epar-product-information_pl.pdf)
 
-português (PT) (1.29 MB - PDF)
+português (PT) (758.94 KB - PDF)
 
 **First published:**
 
@@ -622,11 +620,11 @@ português (PT) (1.29 MB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/pt/documents/product-information/cegfila-epar-product-information_pt.pdf)
 
-română (RO) (1.74 MB - PDF)
+română (RO) (836.71 KB - PDF)
 
 **First published:**
 
@@ -634,11 +632,11 @@ română (RO) (1.74 MB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/ro/documents/product-information/cegfila-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.61 MB - PDF)
+slovenčina (SK) (761.85 KB - PDF)
 
 **First published:**
 
@@ -646,11 +644,11 @@ slovenčina (SK) (1.61 MB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/sk/documents/product-information/cegfila-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.3 MB - PDF)
+slovenščina (SL) (664.52 KB - PDF)
 
 **First published:**
 
@@ -658,11 +656,11 @@ slovenščina (SL) (1.3 MB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/sl/documents/product-information/cegfila-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.29 MB - PDF)
+Suomi (FI) (734.29 KB - PDF)
 
 **First published:**
 
@@ -670,11 +668,11 @@ Suomi (FI) (1.29 MB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/fi/documents/product-information/cegfila-epar-product-information_fi.pdf)
 
-svenska (SV) (1.28 MB - PDF)
+svenska (SV) (743.47 KB - PDF)
 
 **First published:**
 
@@ -682,11 +680,11 @@ svenska (SV) (1.28 MB - PDF)
 
 **Last updated:**
 
-23/09/2025
+18/03/2026
 
 [View](/sv/documents/product-information/cegfila-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000271752 22/09/2025
+**Latest procedure affecting product information:** VR/0000325838 17/03/2026
 
 icon globe
 
@@ -712,7 +710,7 @@ English (EN) (48.02 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cegfila-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-360)
+[Other languages (24)](#file-language-dropdown-36)
 
 български (BG) (60.19 KB - PDF)
 
@@ -1028,7 +1026,7 @@ Mundipharma Corporation (Ireland) Limited
 
 United Drug House Magna Drive
 
-Opinion adopted 17/10/2019 Marketing authorisation issued 19/12/2019 Revision 9
+Opinion adopted 17/10/2019 Marketing authorisation issued 19/12/2019 Revision 10
 
 ## Assessment history
 
@@ -1040,9 +1038,11 @@ Collapse section
 
 Cegfila : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (127.77 KB - PDF)
+English (EN) (144.18 KB - PDF)
 
 **First published:** 23/09/2025
+
+**Last updated:** 18/03/2026
 
 [View](/en/documents/procedural-steps-after/cegfila-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1082,29 +1082,35 @@ English (EN) (115.6 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-pegfilgrastim-mundipharma_en.pdf)
 
-#### News on Cegfila (previously Pegfilgrastim Mundipharma)
+## News on Cegfila (previously Pegfilgrastim Mundipharma)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 October 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-october-2019) 18/10/2019
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
 Cegfila : EPAR - Product information - tracked changes
 
-English (EN) (928.92 KB - DOCX)
+English (EN) (932.63 KB - DOCX)
 
 **First published:** 23/09/2025
 
+**Last updated:** 18/03/2026
+
 [View](/en/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-982)
+[Other languages (24)](#file-language-dropdown-731)
 
-български (BG) (1.3 MB - DOCX)
+български (BG) (1.31 MB - DOCX)
 
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/bg/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_bg.docx)
 
@@ -1114,6 +1120,10 @@ español (ES) (1.03 MB - DOCX)
 
 23/09/2025
 
+**Last updated:**
+
+18/03/2026
+
 [View](/es/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_es.docx)
 
 čeština (CS) (1.16 MB - DOCX)
@@ -1121,6 +1131,10 @@ español (ES) (1.03 MB - DOCX)
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/cs/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_cs.docx)
 
@@ -1130,21 +1144,33 @@ dansk (DA) (1.1 MB - DOCX)
 
 23/09/2025
 
+**Last updated:**
+
+18/03/2026
+
 [View](/da/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (1.12 MB - DOCX)
+Deutsch (DE) (1.03 MB - DOCX)
 
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/de/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (1.12 MB - DOCX)
+eesti keel (ET) (1.13 MB - DOCX)
 
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/et/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_et.docx)
 
@@ -1154,13 +1180,21 @@ eesti keel (ET) (1.12 MB - DOCX)
 
 23/09/2025
 
+**Last updated:**
+
+18/03/2026
+
 [View](/el/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (974.15 KB - DOCX)
+français (FR) (977.42 KB - DOCX)
 
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/fr/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_fr.docx)
 
@@ -1170,13 +1204,21 @@ hrvatski (HR) (1.05 MB - DOCX)
 
 23/09/2025
 
+**Last updated:**
+
+18/03/2026
+
 [View](/hr/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (974 KB - DOCX)
+íslenska (IS) (977.2 KB - DOCX)
 
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/is/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_is.docx)
 
@@ -1186,13 +1228,21 @@ italiano (IT) (1.11 MB - DOCX)
 
 23/09/2025
 
+**Last updated:**
+
+18/03/2026
+
 [View](/it/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (984.56 KB - DOCX)
+latviešu valoda (LV) (987.34 KB - DOCX)
 
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/lv/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_lv.docx)
 
@@ -1202,6 +1252,10 @@ lietuvių kalba (LT) (1.26 MB - DOCX)
 
 23/09/2025
 
+**Last updated:**
+
+18/03/2026
+
 [View](/lt/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_lt.docx)
 
 magyar (HU) (1.06 MB - DOCX)
@@ -1209,6 +1263,10 @@ magyar (HU) (1.06 MB - DOCX)
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/hu/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_hu.docx)
 
@@ -1218,13 +1276,21 @@ Malti (MT) (1.23 MB - DOCX)
 
 23/09/2025
 
+**Last updated:**
+
+18/03/2026
+
 [View](/mt/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (859 KB - DOCX)
+Nederlands (NL) (865.51 KB - DOCX)
 
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/nl/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_nl.docx)
 
@@ -1234,13 +1300,21 @@ norsk (NO) (1.1 MB - DOCX)
 
 23/09/2025
 
+**Last updated:**
+
+18/03/2026
+
 [View](/no/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_no.docx)
 
-polski (PL) (1.15 MB - DOCX)
+polski (PL) (1.08 MB - DOCX)
 
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/pl/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_pl.docx)
 
@@ -1250,21 +1324,33 @@ português (PT) (1.06 MB - DOCX)
 
 23/09/2025
 
+**Last updated:**
+
+18/03/2026
+
 [View](/pt/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (1.14 MB - DOCX)
+română (RO) (1.08 MB - DOCX)
 
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/ro/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (1.09 MB - DOCX)
+slovenčina (SK) (1015.95 KB - DOCX)
 
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/sk/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_sk.docx)
 
@@ -1274,34 +1360,46 @@ slovenščina (SL) (1.29 MB - DOCX)
 
 23/09/2025
 
+**Last updated:**
+
+18/03/2026
+
 [View](/sl/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (997.99 KB - DOCX)
+Suomi (FI) (1000.31 KB - DOCX)
 
 **First published:**
 
 23/09/2025
+
+**Last updated:**
+
+18/03/2026
 
 [View](/fi/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (989.71 KB - DOCX)
+svenska (SV) (992.28 KB - DOCX)
 
 **First published:**
 
 23/09/2025
 
+**Last updated:**
+
+18/03/2026
+
 [View](/sv/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_sv.docx)
 
-#### Related content
+## Related content
 
 - [Biosimilar medicines: Overview](/en/human-regulatory-overview/biosimilar-medicines-overview)
 
-#### Topics
+## Topics
 
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 23/09/2025
+**This page was last updated on** 18/03/2026
 
 ## Share this page
 

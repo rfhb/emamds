@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-03-10 11:02:00
+document_datetime: 2026-03-18 11:46:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/veoza.html
 document_name: veoza.html
 version: success
-processing_time: 0.0776057
-conversion_datetime: 2026-03-13 18:41:27.673109
+processing_time: 0.0807426
+conversion_datetime: 2026-03-21 12:03:55.755388
 docling_version:
   docling-serve: 1.14.3
   docling-jobkit: 1.13.0
-  docling: 2.79.0
-  docling-core: 2.69.0
+  docling: 2.81.0
+  docling-core: 2.70.2
   docling-ibm-models: 3.12.0
-  docling-parse: 5.5.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
   plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
@@ -36,6 +36,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Veoza](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-84339)
 - [More information on Veoza](#related-medicines)
 
 - Application under evaluation
@@ -102,7 +103,7 @@ English (EN) (117.21 KB - PDF)
 
 [View](/en/documents/overview/veoza-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-765)
+[Other languages (22)](#file-language-dropdown-837)
 
 български (BG) (141.05 KB - PDF)
 
@@ -292,7 +293,7 @@ English (EN) (297.26 KB - PDF)
 
 [View](/en/documents/product-information/veoza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-986)
+[Other languages (24)](#file-language-dropdown-990)
 
 български (BG) (320.68 KB - PDF)
 
@@ -608,7 +609,7 @@ English (EN) (250.66 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/veoza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-248)
+[Other languages (24)](#file-language-dropdown-288)
 
 български (BG) (182.2 KB - PDF)
 
@@ -959,6 +960,16 @@ English (EN) (146.4 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/veoza-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
+Veoza-PSUSA-00000231-202505; EMA-PSUR-0000288230 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-2332248
+
+English (EN) (117.27 KB - PDF)
+
+**First published:** 18/03/2026
+
+[View](/en/documents/scientific-conclusion/veoza-psusa-00000231-202505-ema-psur-0000288230-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
+
 Veoza : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
 
 English (EN) (1.95 MB - PDF)
@@ -995,12 +1006,218 @@ English (EN) (133.26 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 October 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-october-2023) 13/10/2023
 
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Veoza : EPAR - Product information - tracked changes
+
+English (EN) (170.5 KB - DOCX)
+
+**First published:** 18/03/2026
+
+[View](/en/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-132)
+
+български (BG) (181.54 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/bg/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (129.19 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/es/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (171.16 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/cs/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (171.26 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/da/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (174.02 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/de/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (169.6 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/et/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (183.21 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/el/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (173.54 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/fr/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (173.68 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/hr/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (171.82 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/is/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (172.01 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/it/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (173.86 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/lv/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (173.56 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/lt/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (174.98 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/hu/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (171.36 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/mt/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (171.3 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/nl/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (171.84 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/no/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (176.78 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/pl/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (173.4 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/pt/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (181.1 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/ro/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (177.25 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/sk/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (172.04 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/sl/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (171.4 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/fi/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (170.64 KB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/sv/documents/product-information-tracked-changes/veoza-epar-product-information-tracked-changes_sv.docx)
+
 ## More information on Veoza
 
 - [Veoza - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/veoza)
 - [Fezolinetant Experience for the Treatment of Vasomotor Symptoms Associated with Menopause Among Women in a German Real-life Setting - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000132)
 
-**This page was last updated on** 10/03/2026
+**This page was last updated on** 18/03/2026
 
 ## Share this page
 

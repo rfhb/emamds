@@ -1,101 +1,26 @@
 ---
-document_datetime: 2026-01-20 17:21:00
+document_datetime: 2026-03-19 10:37:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kostaive.html
 document_name: kostaive.html
 version: success
-processing_time: 0.1089952
-conversion_datetime: 2026-01-20 20:10:51.544261
+processing_time: 0.2433398
+conversion_datetime: 2026-03-21 13:23:44.517101
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Academia](/en/partners-networks/academia)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [Glossaries](/en/about-us/glossaries)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Kostaive
-
 # Kostaive
 
 [RSS](/en/individual-human-medicine.xml/253181)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -110,6 +35,7 @@ Page contents
 - [Product details](#product-details)
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
+- [Safety updates](#safety-updates)
 - [News on Kostaive](#news-on)
 
 - Application under evaluation
@@ -232,7 +158,7 @@ English (EN) (138.61 KB - PDF)
 
 [View](/en/documents/overview/kostaive-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-593)
+[Other languages (22)](#file-language-dropdown-496)
 
 български (BG) (146.91 KB - PDF)
 
@@ -432,7 +358,7 @@ English (EN) (579.9 KB - PDF)
 
 [View](/en/documents/product-information/kostaive-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-27)
+[Other languages (24)](#file-language-dropdown-371)
 
 български (BG) (531.7 KB - PDF)
 
@@ -746,7 +672,7 @@ English (EN) (51.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-542)
+[Other languages (24)](#file-language-dropdown-576)
 
 български (BG) (57.93 KB - PDF)
 
@@ -1014,11 +940,25 @@ English (EN) (133.35 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-kostaive_en.pdf)
 
-#### News on Kostaive
+## Safety updates
+
+Kostaive: Periodic safety update report assessment 28th November 2024 to 27th May 2025
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2457701
+
+English (EN) (2.9 MB - PDF)
+
+**First published:** 19/03/2026
+
+[View](/en/documents/covid-19-vaccine-safety-update/kostaive-periodic-safety-update-report-assessment-28th-november-2024-27th-may-2025_en.pdf)
+
+## News on Kostaive
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 December 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-december-2024) 13/12/2024
 
-**This page was last updated on** 20/01/2026
+**This page was last updated on** 19/03/2026
 
 ## Share this page
 

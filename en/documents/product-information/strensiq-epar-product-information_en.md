@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-02-07 10:17:30
-document_pages: 46
+document_datetime: 2026-03-18 15:02:19
+document_pages: 49
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/strensiq-epar-product-information_en.pdf
 document_name: strensiq-epar-product-information_en.pdf
 version: success
-processing_time: 14.8517656
-conversion_datetime: 2025-12-22 12:59:14.328785
+processing_time: 21.4173336
+conversion_datetime: 2026-03-21 11:59:54.875491
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -32,7 +32,7 @@ Strensiq 40 mg/ml solution for injection Strensiq 100 mg/ml solution for injecti
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-## Strensiq 40 mg/ml solution for injection
+Strensiq 40 mg/ml solution for injection
 
 Each ml of solution contains 40 mg of asfotase alfa*.
 
@@ -58,7 +58,7 @@ Clear, slightly opalescent or opalescent, colourless to slightly yellow, aqueous
 
 ## 4.1 Therapeutic indications
 
-Strensiq is indicated for long-term enzyme replacement therapy in patients with paediatric-onset hypophosphatasia to treat the bone manifestations of the disease (see section 5.1).
+Strensiq is indicated for long-term enzyme replacement therapy in patients of all ages with paediatriconset hypophosphatasia to treat the bone manifestations of the disease (see section 5.1).
 
 ## 4.2 Posology and method of administration
 
@@ -74,37 +74,36 @@ Maximum recommended dose of asfotase alfa is 6 mg/kg/week (see Section 5.1).
 
 Refer to the dosing chart below for more details.
 
-|                                   |                       |                              | If injecting 6 x per week   | If injecting 6 x per week   | If injecting 6 x per week    |
-|-----------------------------------|-----------------------|------------------------------|-----------------------------|-----------------------------|------------------------------|
-| Body Weight (kg) Dose to injected | Volume to be injected | Vial type used for injection | Dose to be injected         | Volume to be injected       | Vial type used for injection |
-| 3 6 mg                            | 0.15 ml               | 0.3 ml                       |                             |                             |                              |
-| 4 8 mg                            | 0.20 ml               | 0.3 ml                       |                             |                             |                              |
-| 5 10 mg                           | 0.25 ml               | 0.3 ml                       |                             |                             |                              |
-| 6 12 mg                           | 0.30 ml               | 0.3 ml                       | 6 mg                        | 0.15 ml                     | 0.3 ml                       |
-| 7 14 mg                           | 0.35 ml               | 0.45 ml                      | 7 mg                        | 0.18 ml                     | 0.3 ml                       |
-| 8 16 mg                           | 0.40 ml               | 0.45 ml                      | 8 mg                        | 0.20 ml                     | 0.3 ml                       |
-| 9 18 mg                           | 0.45 ml               | 0.45 ml                      | 9 mg                        | 0.23 ml                     | 0.3 ml                       |
-| 10 20 mg                          | 0.50 ml               | 0.7 ml                       | 10 mg                       | 0.25 ml                     | 0.3 ml                       |
-| 11 22 mg                          | 0.55 ml               | 0.7 ml                       | 11 mg                       | 0.28 ml                     | 0.3 ml                       |
-| 12 24 mg                          | 0.60 ml               | 0.7 ml                       | 12 mg                       | 0.30 ml                     | 0.3 ml                       |
-| 13 26 mg                          | 0.65 ml               | 0.7 ml                       | 13 mg                       | 0.33 ml                     | 0.45 ml                      |
-| 14 28 mg                          | 0.70 ml               | 0.7 ml                       | 14 mg                       | 0.35 ml                     | 0.45 ml                      |
-| 15 30 mg                          | 0.75 ml               | 1 ml                         | 15 mg                       | 0.38 ml                     | 0.45 ml                      |
-| 16 32 mg                          | 0.80 ml               | 1 ml                         | 16 mg                       | 0.40 ml                     | 0.45 ml                      |
-| 17 34 mg                          | 0.85 ml               | 1 ml                         | 17 mg                       | 0.43 ml                     | 0.45 ml                      |
-| 18 36 mg                          | 0.90 ml               | 1 ml                         | 18 mg                       | 0.45 ml                     | 0.45 ml                      |
-| 19 38 mg                          | 0.95 ml               | 1 ml                         | 19 mg                       | 0.48 ml                     | 0.7 ml                       |
-| 20 40 mg                          | 1.00 ml               | 1 ml                         | 20 mg                       | 0.50 ml                     | 0.7 ml                       |
-| 25 50 mg                          | 0.50 ml               | 0.8 ml                       | 25 mg                       | 0.63 ml                     | 0.7 ml                       |
-| 30 60 mg                          | 0.60 ml               | 0.8 ml                       | 30 mg                       | 0.75 ml                     | 1 ml                         |
-| 35 70 mg                          | 0.70 ml               | 0.8 ml                       | 35 mg                       | 0.88 ml                     | 1 ml                         |
-| 40 80 mg                          | 0.80 ml               | 0.8 ml                       | 40 mg                       | 1.00 ml                     | 1 ml                         |
-| 50                                |                       |                              | 50 mg                       | 0.50 ml                     | 0.8 ml                       |
-| 60                                |                       |                              | 60 mg                       | 0.60 ml                     | 0.8 ml                       |
-| 70                                |                       |                              | 70 mg                       | 0.70 ml                     | 0.8 ml                       |
-| 80                                |                       |                              | 80 mg                       | 0.80 ml                     | 0.8 ml                       |
-| 90                                |                       |                              | 90 mg                       | 0.90 ml                     | 0.8 ml (x2)                  |
-| 100                               |                       |                              | 100 mg                      | 1.00 ml                     | 0.8 ml (x2)                  |
+|                  | If injecting 3x per week                  | If injecting 3x per week     | If injecting 6 x per week   | If injecting 6 x per week   | If injecting 6 x per week    |
+|------------------|-------------------------------------------|------------------------------|-----------------------------|-----------------------------|------------------------------|
+| Body Weight (kg) | Dose to be injected Volume to be injected | Vial type used for injection | Dose to be injected         | Volume to be injected       | Vial type used for injection |
+| 3 6 mg           | 0.15 ml                                   | 0.3 ml                       |                             |                             |                              |
+| 4 8 mg           | 0.20 ml                                   | 0.3 ml                       |                             |                             |                              |
+| 5 10 mg          | 0.25 ml                                   | 0.3 ml                       |                             |                             |                              |
+| 6 12 mg          | 0.30 ml                                   | 0.3 ml                       | 6 mg                        | 0.15 ml                     | 0.3 ml                       |
+| 7 14 mg          | 0.35 ml                                   | 0.45 ml                      | 7 mg                        | 0.18 ml                     | 0.3 ml                       |
+| 8 16 mg          | 0.40 ml                                   | 0.45 ml                      | 8 mg                        | 0.20 ml                     | 0.3 ml                       |
+| 9 18 mg          | 0.45 ml                                   | 0.45 ml                      | 9 mg                        | 0.23 ml                     | 0.3 ml                       |
+| 10 20 mg         | 0.50 ml                                   | 0.7 ml                       | 10 mg                       | 0.25 ml                     | 0.3 ml                       |
+| 11 22 mg         | 0.55 ml                                   | 0.7 ml                       | 11 mg                       | 0.28 ml                     | 0.3 ml                       |
+| 12 24 mg         | 0.60 ml                                   | 0.7 ml                       | 12 mg                       | 0.30 ml                     | 0.3 ml                       |
+| 13 26 mg         | 0.65 ml                                   | 0.7 ml                       | 13 mg                       | 0.33 ml                     | 0.45 ml                      |
+| 14 28 mg         | 0.70 ml                                   | 0.7 ml                       | 14 mg                       | 0.35 ml                     | 0.45 ml                      |
+| 15 30 mg         | 0.75 ml                                   | 1 ml                         | 15 mg                       | 0.38 ml                     | 0.45 ml                      |
+| 16 32 mg         | 0.80 ml                                   | 1 ml                         | 16 mg                       | 0.40 ml                     | 0.45 ml                      |
+| 17 34 mg         | 0.85 ml                                   | 1 ml                         | 17 mg                       | 0.43 ml                     | 0.45 ml                      |
+| 18 36 mg         | 0.90 ml                                   | 1 ml                         | 18 mg                       | 0.45 ml                     | 0.45 ml                      |
+| 19 38 mg         | 0.95 ml                                   | 1 ml                         | 19 mg                       | 0.48 ml                     | 0.7 ml                       |
+| 20 40 mg         | 1.00 ml                                   | 1 ml                         | 20 mg                       | 0.50 ml                     | 0.7 ml                       |
+| 25 50 mg         | 0.50 ml                                   | 0.8 ml                       | 25 mg                       | 0.63 ml                     | 0.7 ml                       |
+| 30 60 mg         | 0.60 ml                                   | 0.8 ml                       | 30 mg                       | 0.75 ml                     | 1 ml                         |
+| 35 70 mg         | 0.70 ml                                   | 0.8 ml                       | 35 mg                       | 0.88 ml                     | 1 ml                         |
+| 40 80 mg         | 0.80 ml                                   | 0.8 ml                       | 40 mg                       | 1.00 ml                     | 1 ml                         |
+| 50               |                                           |                              | 50 mg                       | 0.50 ml                     | 0.8 ml                       |
+| 60               |                                           |                              | 60 mg                       | 0.60 ml                     | 0.8 ml                       |
+| 70               |                                           |                              | 70 mg                       | 0.70 ml                     | 0.8 ml                       |
+| 80               |                                           |                              | 80 mg                       | 0.80 ml                     | 0.8 ml                       |
+| 90               |                                           |                              | 90 mg                       | 0.90 ml                     | 0.8 ml (x2)                  |
 
 ## Missed dose
 
@@ -152,9 +151,11 @@ In order to improve the traceability of biological medicinal products, the name 
 
 ## Hypersensitivity
 
-Hypersensitivity reactions including signs and symptoms consistent with anaphylaxis have been reported in patients treated with asfotase alfa (see section 4.8). These symptoms included difficulty breathing, choking sensation, periorbital edema, and dizziness. The reactions have occurred within minutes after subcutaneous administration of asfotase alfa and can occur in patients on treatment for more than 1 year. Other hypersensitivity reactions included vomiting, nausea, fever, headache, flushing, irritability, chills, skin erythema, rash, pruritus, and oral hypoaesthesia. If these reactions occur, immediate discontinuation of treatment is recommended and appropriate medical treatment should be initiated. The current medical standards for emergency treatment should be observed.
+Hypersensitivity reactions including signs and symptoms consistent with anaphylaxis have been reported in patients treated with asfotase alfa (see section 4.8). These symptoms included difficulty breathing, choking sensation, periorbital edema, and dizziness. The reactions have occurred within minutes after subcutaneous administration of asfotase alfa and can occur in patients on treatment for more than 1 year. Other hypersensitivity reactions included vomiting, nausea, fever, headache, flushing, irritability, chills, skin erythema, rash, pruritus, and oral hypoaesthesia. If these reactions
 
 <div style=\"page-break-after: always\"></div>
+
+occur, immediate discontinuation of treatment is recommended and appropriate medical treatment should be initiated. The current medical standards for emergency treatment should be observed.
 
 Consider the risks and benefits of re-administering asfotase alfa to individual patients following a severe reaction, taking other factors into account that may contribute to the risk of a hypersensitivity reaction, such as concurrent infection and/ or use of antibiotics. If the decision is made to readminister the product, the re-challenge should be made under medical supervision and consideration may be given to use of appropriate pre-medication. Patients should be monitored for recurrence of signs and symptoms of a severe hypersensitivity reaction.
 
@@ -182,11 +183,9 @@ In asfotase alfa clinical studies ophthalmic (conjunctival and corneal) calcific
 
 ## Serum Parathyroid Hormone and Calcium
 
-Serum parathyroid hormone concentration may increase in hypophosphatasia patients administered asfotase alfa, most notably during the first 12 weeks of treatment. It is recommended that serum
-
 <div style=\"page-break-after: always\"></div>
 
-parathyroid hormone and calcium be monitored in patients treated with asfotase alfa. Supplements of calcium and oral vitamin D may be required. See section 5.1.
+Serum parathyroid hormone concentration may increase in hypophosphatasia patients administered asfotase alfa, most notably during the first 12 weeks of treatment. It is recommended that serum parathyroid hormone and calcium be monitored in patients treated with asfotase alfa. Supplements of calcium and oral vitamin D may be required. See section 5.1.
 
 ## Disproportionate weight gain
 
@@ -222,17 +221,17 @@ A decision must be made whether to discontinue breast-feeding or to discontinue/
 
 Preclinical fertility studies were conducted and showed no evidence of effect on fertility and embryo-fetal development (see section 5.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
 Strensiq has no or negligible influence on the ability to drive and use machines.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
-Supportive safety data reflect exposure in 112 patients with perinatal/infantile (n=89), juvenile-onset (n = 22), adult onset (n = 1) HPP (age at enrollment from 1 day to 66.5 years) treated with asfotase alfa, with a treatment duration range from 1 day to 391.9 weeks [7.5 years]). The most common adverse reactions observed were injection site reactions (74%). A few case reports of anaphylactoid/hypersensitivity reaction have been received
+Supportive safety data reflect exposure in 112 patients with perinatal/infantile (n=89), juvenile-onset (n = 22), adult onset (n = 1) HPP (age at enrollment from 1 day to 66.5 years) treated with asfotase alfa, with a treatment duration range from 1 day to 391.9 weeks [7.5 years]). The most common adverse reactions observed were injection site reactions (74%). A few case reports of anaphylactoid/hypersensitivity reaction have been received.
 
 ## Tabulated list of adverse reactions
 
@@ -258,10 +257,6 @@ Table 1: Adverse Reactions Reported in clinical trials in hypophosphatasia patie
 | General disorders and administration site conditions | Common               | Chills                                             |
 | Injury, poisoning and procedural complications       | Very common          | Contusion                                          |
 | Injury, poisoning and procedural complications       | Common               | Scar                                               |
-
-1Preferred terms considered as injection site reactions are presented in section below
-
-2Preferred terms considered as hypersensitivity are presented in the section below
 
 <div style=\"page-break-after: always\"></div>
 
@@ -297,17 +292,9 @@ There is limited experience with overdose of asfotase alfa. The maximum dose of 
 
 Pharmacotherapeutic group: Other alimentary tract and metabolism products, enzymes, ATC code: A16AB13
 
-Asfotase alfa is a human recombinant tissue-nonspecific alkaline phosphatase-Fc-deca-aspartate fusion protein that is expressed in an engineered Chinese hamster ovary cell line. Asfotase alfa is a soluble glycoprotein comprised of two identical polypeptide chains, each with a length of 726 amino acids made from (i) the catalytic domain of human tissue-nonspecific alkaline phosphatase, (ii) the human immunoglobulin G1 Fc domain and (iii) a deca-aspartate peptide domain.
-
-## Hypophosphatasia
-
-Hypophosphatasia is a rare, severe, and potentially fatal, genetic disorder caused by loss-of-function mutation(s) in the gene encoding tissue non-specific alkaline phosphatase. Hypophosphatasia is associated with multiple bone manifestations including rickets / osteomalacia, altered calcium and phosphate metabolism, impaired growth and mobility, respiratory compromise that may require ventilation, and vitamin B6-responsive seizures.
-
 ## Mechanism of action
 
-Asfotase alfa, a human recombinant tissue-nonspecific alkaline phosphatase-Fc-deca-aspartate fusion protein with enzymatic activity, promotes mineralisation of the skeleton in patients with hypophosphatasia.
-
-## Clinical efficacy and safety
+Asfotase alfa is the human recombinant tissue-nonspecific alkaline phosphatase-Fc-deca-aspartate fusion protein. Asfotase alfa is a soluble glycoprotein comprised of two identical polypeptide chains, each with a length of 726 amino acids made from (i) the catalytic domain of human tissue-nonspecific alkaline phosphatase, (ii) the human immunoglobulin G1 Fc domain and (iii) a deca-aspartate peptide domain. Hypophosphatasia is a rare, severe, and potentially fatal, genetic disorder caused by loss-offunction mutation(s) in the gene encoding tissue non-specific alkaline phosphatase which leads to failure of bone mineralisation associated with other clinical manifestation including impaired mobility and respiratory complications. By replacing deficient tissue-nonspecific alkaline phosphatase, asfotase alfa promotes mineralisation of the skeleton in patients with hypophosphatasia. Clinical efficacy and safety
 
 ## Study ENB-006-09/ENB-008-10
 
@@ -315,7 +302,7 @@ Study ENB-006-09/ENB-008-10 was an open-label, randomised study. Thirteen patien
 
 The study employed historical controls from the same centres as patients who received asfotase alfa and who had been subject to a similar protocol of clinical management.
 
-## The effects of asfotase alfa on x-ray appearance
+## The effects of asfotase alfa on X-ray appearance
 
 Trained radiologists evaluated pre- and post-baseline x-rays of wrists and knees of patients for the following signs: apparent physeal widening, metaphyseal flaring, irregularity of provisional zone of calcification, metaphyseal radiolucencies, metadiaphyseal sclerosis, osteopenia, 'popcorn' calcification in metadiaphysis, demineralization of distal metaphysis, transverse subphyseal band of lucency and tongues of radiolucency. X-ray changes from baseline were then rated using the Radiographic Global Impression of Change rating scale as follows: -3=severe worsening, -2=moderate worsening, -1=minimal worsening, 0=no change, +1=minimal healing, +2=substantial healing, +3= near-complete or complete healing. The majority of the patients who received asfotase alfa moved to scores of +2 and +3 over the first 6 months of exposure and this was sustained with on-going treatment. Historical controls did not show change over time.
 
@@ -323,19 +310,19 @@ Trained radiologists evaluated pre- and post-baseline x-rays of wrists and knees
 
 Tetracycline for bone-labelling was administered in two 3-day courses (separated by a 14-day interval) prior to acquisition of the bone biopsy. Trans-iliac crest bone biopsies were obtained by standard procedure. Histological analysis of biopsies used Osteomeasure software (Osteometrics, USA). Nomenclature, symbols and units followed recommendations of the American Society for Bone and Mineral Research. For 10 patients in the per-protocol set (excludes those patients who received oral vitamin D between baseline and week 24) who underwent biopsy of the trans-iliac bone crest before and after receiving asfotase alfa:
 
-<div style=\"page-break-after: always\"></div>
-
 - -Mean (SD) osteoid thickness was 12.8 (3.5) µm at baseline and 9.5 (5.1) µm at week 24
 - -Mean (SD) osteoid volume / bone volume was 11.8 (5.9)% at baseline and 8.6 (7.2)% at week 24
 - -Mean (SD) mineralisation lag-time was 93 (70) days at baseline and 119 (225) days at week 24
 
 ## Growth
 
-Height, weight and head circumference were plotted on growth charts (series of percentile curves that illustrate distribution) available from the Centers for Disease Control and Prevention, USA. These reference data were drawn from a representative sample of healthy children and are not specific for children with special health care needs: they have been used in the absence of growth charts for children with hypophosphatasia.
+Height, weight and head circumference were plotted on growth charts (series of percentile curves that illustrate distribution) available from the Centers for Disease Control and Prevention, USA. These
 
-For those patients who received asfotase alfa: 11/13 patients displayed persistent apparent catch-up height-gain as shown by movement over time to a higher percentile on CDC growth charts.
+<div style=\"page-break-after: always\"></div>
 
-1/13 patients did not display apparent catch-up height-gain and 1 patient did not have enough data to permit judgement. Progress through Tanner stages appeared appropriate.
+reference data were drawn from a representative sample of healthy children and are not specific for children with special health care needs: they have been used in the absence of growth charts for children with hypophosphatasia.
+
+For those patients who received asfotase alfa: 11/13 patients displayed persistent apparent catch-up height-gain as shown by movement over time to a higher percentile on CDC growth charts. 1/13 patients did not display apparent catch-up height-gain and 1 patient did not have enough data to permit judgement. Progress through Tanner stages appeared appropriate.
 
 For the time period of observation of historical controls: 1/16 patients displayed apparent catch-up height-gain, 12/16 patients did not display apparent catch-up height-gain and data were inconclusive in 3/16 patients.
 
@@ -357,11 +344,13 @@ At Week 48, 50/69 patients (72.5%) in the full analysis set achieved Radiographi
 
 Height, weight and head circumference were plotted on growth charts (series of percentile curves that illustrate distribution) available from the Centers for Disease Control and Prevention (CDC), USA. A total of 24/69 (35%) patients displayed apparent catch-up height-gain and 32/69 (46%) patients displayed apparent catch-up weight-gain, as shown by movement over time to a higher percentile on CDC growth charts. 40/69 patients and 32/69 patients did not show apparent catch-up gain in height and in weight, respectively. 4 patients did not have enough data to permit judgement and 1 patient could not be determined with certainty.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Study ENB-009-10
 
-Study ENB-009-10 was an open-label, randomised study. The patients were randomly assigned to treatment group for the primary treatment period. Nineteen patients were enrolled, 14 completed, and 5 discontinued.  At study completion patients had received a median of over 60 months of treatment (24 to 68 months). The onset of hypophosphatasia was under 6 months in 4 patients, between 6 months and 17 years in 14 patients, and over 18 years in one patient.  Age at inclusion was from 13 to 66 years and was between 17 and 72 years at study completion.
+Study ENB-009-10 was an open-label, randomised study. The patients were randomly assigned to treatment group for the primary treatment period. Nineteen patients were enrolled, 14 completed, and 5 discontinued.  At study completion patients had received a median of over 60 months of treatment (24 to 68 months). The onset of hypophosphatasia was under 6 months in 4 patients, between 6
+
+<div style=\"page-break-after: always\"></div>
+
+months and 17 years in 14 patients, and over 18 years in one patient.  Age at inclusion was from 13 to 66 years and was between 17 and 72 years at study completion.
 
 The adolescent (and adult) patients in this study did not display apparent height-gain.
 
@@ -377,16 +366,14 @@ After approximately 48 weeks all patients were adjusted to the recommended dose 
 
 In studies ENB-002-08/ENB-003-08 (11 patients) and ENB-010-10 (69 patients), both open-label, non-randomised, non-controlled studies of patients aged 0.1 to 312 weeks at baseline. 69 patients completed the studies, and 11 discontinued. Patients received a median duration of treatment of 27.6 month (range from 1 day to 90 months). 29 of 80 patients required ventilation support at baseline:
 
-∙ 16 patients required invasive ventilation support (intubation or tracheostomy) at baseline (one had a brief period of non-invasive ventilation at baseline before transfer).
-
-- 7 patients were weaned off invasive ventilation (time on ventilation from 12 to 168 weeks), 4 patients were off any ventilation support, and 3 patients were on noninvasive ventilation support. Five out of 7 patients achieved an RGI-C score ≥2
+- 16 patients required invasive ventilation support (intubation or tracheostomy) at baseline (one had a brief period of non-invasive ventilation at baseline before transfer).
+- 7 patients were weaned off invasive ventilation (time on ventilation from 12 to 168 weeks), 4 patients were off any ventilation support, and 3 patients were on non-invasive ventilation support. Five out of 7 patients achieved an RGI-C score ≥2
 - 5 patients continued with invasive ventilation support, 4 of them with RGI-C score &lt;2
 - 3 patients died whilst on ventilation support
 - 1 patient withdrew consent
 - 13 patients required non-invasive ventilation support at baseline.
-- 10 patients were weaned off any ventilation support (time on ventilation from 3 to
-- 216 weeks). 9 out of 10 patients achieved a RGI-C score ≥2, only 1 with RGI-C &lt;2.
-- 2 patients required invasive ventilation support and 1 patient continued with noninvasive ventilation support, all 3 patients died and with RGI-C score &lt;2
+- 10 patients were weaned off any ventilation support (time on ventilation from 3 to 216 weeks). 9 out of 10 patients achieved a RGI-C score ≥2, only 1 with RGI-C &lt;2.
+- 2 patients required invasive ventilation support and 1 patient continued with non-invasive ventilation support, all 3 patients died and with RGI-C score &lt;2
 
 The natural history of untreated infantile-onset hypophosphatasia patients suggests high mortality if ventilation is required.
 
@@ -396,11 +383,11 @@ The European Medicines Agency will review any new information which may become a
 
 ## 5.2 Pharmacokinetic properties
 
-Pharmacokinetics of asfotase alfa were evaluated in a 1-month, multicenter, open-label, doseescalating, study in adults with hypophosphatasia. Cohort 1 (n=3) of the study received asfotase alfa 3 mg/kg intravenously the first week followed by 3 doses at 1 mg/kg subcutaneous at weekly intervals from weeks 2 to 4. Cohort 2 (n=3) received asfotase alfa 3 mg/kg intravenously the first week followed by 3 doses at 2 mg/kg subcutaneous at weekly intervals from weeks 2 to 4. After the 3 mg/kg
+Pharmacokinetics of asfotase alfa were evaluated in a 1-month, multicenter, open-label, doseescalating, study in adults with hypophosphatasia. Cohort 1 (n=3) of the study received asfotase alfa 3 mg/kg intravenously the first week followed by 3 doses at 1 mg/kg subcutaneous at weekly intervals from weeks 2 to 4. Cohort 2 (n=3) received asfotase alfa 3 mg/kg intravenously the first week followed by 3 doses at 2 mg/kg subcutaneous at weekly intervals from weeks 2 to 4. After the 3 mg/kg for 1.08 hours intravenous infusion, the median time (Tmax) ranged between 1.25 to 1.50 hours, and the mean (SD) Cmax ranged between 42694 (8443) and 46890 (6635) U/L over the studied cohorts. The absolute bioavailability after the first and third subcutaneous administration ranged from 45.8 to 98.4%, with median Tmax ranging between 24.2 to 48.1 hours. After the 1 mg/kg weekly subcutaneous administration in Cohort 1 the mean (SD) AUC over the dosing interval (AUC  ) was 66034 (19241) and 40444 (N=1) U*h/L following the first and the third dose, respectively. After the 2 mg/kg weekly
 
 <div style=\"page-break-after: always\"></div>
 
-for 1.08 hours intravenous infusion, the median time (Tmax) ranged between 1.25 to 1.50 hours, and the mean (SD) Cmax ranged between 42694 (8443) and 46890 (6635) U/L over the studied cohorts. The absolute bioavailability after the first and third subcutaneous administration ranged from 45.8 to 98.4%, with median Tmax ranging between 24.2 to 48.1 hours. After the 1 mg/kg weekly subcutaneous administration in Cohort 1 the mean (SD) AUC over the dosing interval (AUC  ) was 66034 (19241) and 40444 (N=1) U*h/L following the first and the third dose, respectively. After the 2 mg/kg weekly subcutaneous administration in Cohort 2 the mean (SD) AUC  was 138595 (6958) and 136109 (41875) following the first and the third dose, respectively.
+subcutaneous administration in Cohort 2 the mean (SD) AUC  was 138595 (6958) and 136109 (41875) following the first and the third dose, respectively.
 
 Pharmacokinetic data from all asfotase alfa clinical trials were analysed using population pharmacokinetic methods. The pharmacokinetic variables characterized by population pharmacokinetic analysis represent the overall hypophosphatasia patient population with age range from 1 day to 66 years, subcutaneous doses of up to 28 mg/kg/week and a range of disease onset cohorts. Twenty five percent (15 out of 60) of the overall patient population was adult (&gt;18 years) at baseline. The absolute bioavailability and absorption rate following subcutaneous administration were estimated to be 0.602 (95% CI: 0.567, 0.638) or 60.2% and 0.572 (95%CI: 0.338, 0.967)/day or 57.2%, respectively. The central and peripheral volumes of distribution estimates for a patient with body weight of 70 kg (and 95% CI) were 5.66 (2.76, 11.6) L and 44.8 (33.2, 60.5) L, respectively. The central and peripheral clearance estimates for a patient with body weight of 70 kg (and 95% CI) were 15.8 (13.2, 18.9) L/day and 51.9 (44.0, 61.2) L/day, respectively. The extrinsic factors affecting asfotase alfa pharmacokinetic exposures were formulation specific activity and total sialic acid content. The average ± SD elimination half-life following subcutaneous administration was 2.28 ± 0.58 days.
 
@@ -416,15 +403,13 @@ In nonclinical safety testing in rats, no body system-specific adverse effects w
 
 Dose - and time-dependent acute injection reactions that were transient and self-limiting were noted in rats at intravenous use doses of 1 to 180 mg/kg.
 
-Ectopic calcifications and injection site reactions were observed in monkeys when asfotase alfa was administered subcutaneously at daily doses up to 10 mg/kg through 26 weeks. These effects were restricted to injection sites and were partially or completely reversible.
-
-There was no evidence of ectopic calcification observed in any other tissues examined.
+Ectopic calcifications and injection site reactions were observed in monkeys when asfotase alfa was administered subcutaneously at daily doses up to 10 mg/kg through 26 weeks. These effects were restricted to injection sites and were partially or completely reversible. There was no evidence of ectopic calcification observed in any other tissues examined.
 
 Preclinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity or toxicity to reproduction and development. However, in pregnant rabbits administered intravenous doses of up to 50 mg/kg/day asfotase alfa, anti-drug antibodies were detected in up to 75% of animals which could affect the detection of reproductive toxicity.
 
-<div style=\"page-break-after: always\"></div>
-
 No animal studies have been conducted to evaluate the genotoxic and carcinogenic potential of asfotase alfa.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -444,13 +429,7 @@ Chemical and physical in-use stability has been demonstrated for up to 3 hours a
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C).
-
-Do not freeze.
-
-Store in the original package in order to protect from light.
-
-For storage conditions after first opening of the medicinal product, see section 6.3.
+Store in a refrigerator (2°C - 8°C). Do not freeze. Store in the original package in order to protect from light. For storage conditions after first opening of the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
@@ -464,9 +443,7 @@ Strensiq 100 mg/ml solution for injection
 
 Filled volumes of the vials are: 0.8 ml
 
-Pack sizes of 1 or 12 vials
-
-Not all pack sizes may be marketed.
+Pack sizes of 1 or 12 vials Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -474,9 +451,9 @@ Each vial is intended for single use only and should only be punctured once. Any
 
 Strensiq should be administered using sterile disposable syringes and injection needles. The syringes should be of small enough volume that the prescribed dose can be withdrawn from the vial with reasonable accuracy. An aseptic technique should be used.
 
-<div style=\"page-break-after: always\"></div>
-
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -492,7 +469,9 @@ EU/1/15/1015/010
 
 ## Strensiq 100 mg/ml solution for injection
 
-EU/1/15/1015/003 EU/1/15/1015/004
+EU/1/15/1015/003
+
+EU/1/15/1015/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -502,7 +481,7 @@ Date of latest renewal: 28/04/2020
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -598,7 +577,9 @@ OUTER CARTON 40 mg/ml
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Strensiq 40 mg/ml solution for injection asfotase alfa
+Strensiq 40 mg/ml solution for injection
+
+asfotase alfa
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -650,7 +631,7 @@ Store in a refrigerator.
 
 Do not freeze.
 
-Store in the original pack in order to protect from light.
+Store in the original package in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -704,28 +685,26 @@ STRENSIQ 40 mg/ml 12 mg/0.3 ml 18 mg/0.45 ml 28 mg/0.7 ml 40 mg/1 ml
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC {number} SN {number} NN {number}
 
-22
-
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| VIAL LABEL 40 mg/ml                                                |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| VIAL LABEL 40 mg/ml                                              |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Strensiq 40 mg/ml injection Strensiq 40 mg/ml injection Strensiq 40 mg/ml injection Strensiq 40 mg/ml injection asfotase alfa
 
 SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -737,8 +716,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
@@ -801,7 +780,7 @@ Store in a refrigerator.
 
 Do not freeze.
 
-Store in the original pack in order to protect from light.
+Store in the original package in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -827,8 +806,7 @@ EU/1/15/1015/004
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -853,9 +831,12 @@ NN {number}
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| VIAL LABEL 100 mg/ml                                               |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| VIAL LABEL 100 mg/ml                                             |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -863,7 +844,7 @@ Strensiq 100 mg/ml injection asfotase alfa SC
 
 ## 2. METHOD OF ADMINISTRATION
 
-3. EXPIRY DATE
+## 3. EXPIRY DATE
 
 EXP
 
@@ -1054,7 +1035,8 @@ Always use this medicine exactly as described in this leaflet or as your doctor,
 
 <div style=\"page-break-after: always\"></div>
 
-- lumps or large particles in it and get a new vial. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+lumps or large particles in it and get a new vial. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
 - If you are injecting this medicine yourself, you will be shown how to prepare and inject the medicine by your doctor, pharmacist or nurse. Do not inject this medicine yourself unless you have received training and you understand the procedure.
 
 ## How to inject Strensiq
@@ -1062,30 +1044,29 @@ Always use this medicine exactly as described in this leaflet or as your doctor,
 ## Step 1: Preparing the Strensiq dose
 
 1. Wash your hands thoroughly with soap and water.
-2. Take the unopened Strensiq vial(s) out of the refrigerator 15 to 30 minutes before injecting to allow the liquid to reach room temperature. Do not warm Strensiq in any other way (for example, do not warm it in a microwave or in hot water). Upon Removal of the vial(s) from refrigeration, Strensiq should be used within 3 hours maximum (see section 5. How to store Strensiq).
-3. Remove the protective cap from the Strensiq vial(s). Remove the protective plastic from the syringe to be used.
-4. Always use a new syringe contained in a protective plastic.
-5. Place a larger bore needle (e.g. 25G) on the empty syringe and with the protective cap on, push down and turn clockwise the needle onto the syringe until it is tight.
-6. Remove the plastic cap covering the syringe needle. Pay attention not to hurt yourself with the needle.
-7. Pull the plunger back to draw air into the syringe equal to your dose.
+2. Take the unopened Strensiq vial(s) out of the refrigerator 15 to 30 minutes before injecting to allow the liquid to reach room temperature. Do not warm Strensiq in any other way (for example, do not warm it in a microwave or in hot water). Upon removal of the vial(s) from refrigeration, Strensiq should be used within 3 hours maximum (see section 5. How to store Strensiq).
+3. Remove the protective cap from the Strensiq vial(s). Remove the protective plastic from the syringe to be used (not included in the package). Always use a new disposable syringe.
+4. Place a larger bore needle (e.g. 25G) on the empty syringe and with the protective cap on, push down and turn clockwise the needle onto the syringe until it is tight.
+5. Remove the plastic cap covering the syringe needle. Pay attention not to hurt yourself with the needle.
+6. Pull the plunger back to draw air into the syringe equal to your dose.
+
+## Step 2: Withdrawing Strensiq solution from the vial
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
 1. Holding the syringe and vial, insert the needle through the sterile rubber seal and into the vial.
 2. Push the plunger in completely to inject air into the vial.
 3. Invert the vial and syringe. With the needle in the solution, pull the plunger to withdraw the correct dose into the syringe.
-4. Before removing the needle from the vial, check that the appropriate volume
-
-<!-- image -->
-
-<!-- image -->
-
-Step 2: Withdrawing Strensiq solution from the vial
-
-<!-- image -->
+4. Before removing the needle from the vial, check that the appropriate volume has been withdrawn and check the syringe for air bubbles. In the event that bubbles appear in the syringe, hold the syringe with the needle pointing upwards and gently tap the side of the syringe until the bubbles rise to the top.
+5. Once all the bubbles are at the top of the syringe, gently push on the plunger
 
 <div style=\"page-break-after: always\"></div>
 
-has been withdrawn and check the syringe for air bubbles. In the event that bubbles appear in the syringe, hold the syringe with the needle pointing upwards and gently tap the side of the syringe until the bubbles rise to the top.
-
-5. Once all the bubbles are at the top of the syringe, gently push on the plunger to force the bubbles out of the syringe and back into the vial.
+- to force the bubbles out of the syringe and back into the vial.
 6. After removing the bubbles, recheck the dose of medication in the syringe to be sure you have drawn up the correct amount. You may need to use several vials to withdraw the complete amount needed to reach the correct dose.
 
 ## Step 3: Placing the needle for injection on the syringe
@@ -1101,7 +1082,9 @@ The volume per injection should not exceed 1 ml. If it is the case, multiple inj
 
 You are now ready to inject the correct dose.
 
-## Step 4: Injecting Strensiq
+Step 4: Injecting Strensiq
+
+<!-- image -->
 
 <!-- image -->
 
@@ -1112,16 +1095,13 @@ You are now ready to inject the correct dose.
 NOTE: do not use any areas in which you feel lumps, firm knots, or pain; talk to your doctor about anything you find.
 
 2. Gently pinch the skin of the chosen injection area between your thumb and index finger.
+3. Holding the syringe like a pencil or a dart, insert the needle into the raised skin so it is at an angle of between 45º and 90º to the skin surface.
+
+For patients who have little fat under the skin or thin skin, a 45º angle may be preferable.
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
-
-<!-- image -->
-
-3. Holding the syringe like a pencil or a dart, insert the needle into the raised skin so it is at an angle of between 45º and 90º to the skin surface.
-
-For patients who have little fat under the skin or thin skin, a 45º angle may be preferable.
 
 4. While continuing to hold the skin, push the syringe plunger to inject the medicine slowly, and steadily all the way in.
 5. Remove the needle, release the skin fold and gently place a piece of cotton wool or gauze over the injection site for a few seconds.
@@ -1146,6 +1126,8 @@ For more information, please consult:
 
 <!-- image -->
 
+and URL: http://asfotasealfa-patienteducation.co.uk
+
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
 ## 4. Possible side effects
@@ -1154,33 +1136,36 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 If you are not sure what the side effects below are, ask your doctor to explain them to you.
 
-The most serious side effects seen in patients receiving asfotase alfa have been allergic reactions including life threatening allergic reactions requiring medical treatment similar to anaphylaxis. This
+The most serious side effects seen in patients receiving asfotase alfa have been allergic reactions including life threatening allergic reactions requiring medical treatment similar to anaphylaxis. This side effect is common [may affect up to 1 in 10 people]). Patients who experienced these serious allergic reactions had difficulty breathing, choking sensation, nausea, swelling around the eyes, and dizziness. The reactions occurred within minutes after using asfotase alfa and can occur in patients who were using asfotase alfa for more than one year. If you experience any of these symptoms, discontinue Strensiq and seek medical help immediately.
+
+Additionally, other allergic reactions (hypersensitivity) which may appear as redness (erythema), fever (pyrexia), rash, itchiness (pruritis), irritability, feeling sick (nausea), throwing up (vomiting), pain, chills (rigor), numbness of the mouth (hypoaesthesia oral), headache, blushing (flushing), fast beating
 
 <div style=\"page-break-after: always\"></div>
 
-side effect is common [may affect up to 1 in 10 people]). Patients who experienced these serious allergic reactions had difficulty breathing, choking sensation, nausea, swelling around the eyes, and dizziness. The reactions occurred within minutes after using asfotase alfa and can occur in patients who were using asfotase alfa for more than one year. If you experience any of these symptoms, discontinue Strensiq and seek medical help immediately.
-
-Additionally, other allergic reactions (hypersensitivity) which may appear as redness (erythema), fever (pyrexia), rash, itchiness (pruritis), irritability, feeling sick (nausea), throwing up (vomiting), pain, chills (rigor), numbness of the mouth (hypoaesthesia oral), headache, blushing (flushing), fast beating of the heart (tachycardia), and cough may occur commonly . If you experience any of these symptoms, discontinue Strensiq and seek medical help immediately.
+of the heart (tachycardia), and cough may occur commonly. If you experience any of these symptoms, discontinue Strensiq and seek medical help immediately.
 
 ## Very common: may affect more than 1 in 10 people
 
-Reactions at the injection site during the injection of the medicine or during the hours following the injection (which can lead to redness, discolorations, itching, pain, fatty lumps or decreased fatty tissue on the surface of the skin, skin hypopigmentation, and/or swelling)
-
-Fever (pyrexia)
-
-Irritability
-
-Skin redness (erythema)
-
-Pain in hands and feet (pain in extremity)
-
-Bruise (contusion)
-
-Headache
+- -Reactions at the injection site during the injection of the medicine or during the hours following the injection (which can lead to redness, discolorations, itching, pain, fatty lumps or decreased fatty tissue on the surface of the skin, skin hypopigmentation, and/or swelling)
+- -Fever (pyrexia)
+- -Irritability
+- -Skin redness (erythema)
+- -Pain in hands and feet (pain in extremity)
+- -Bruise (contusion)
+- -Headache
 
 ## Common: may affect up to 1 in 10 people
 
-Stretched skin, skin discolouration Feeling sick (nausea) Numbness of the mouth (hypoaesthesia oral) Aching muscles (myalgia) Scar Increased tendency to bruise Hot flush Infection of skin at injection site (injection site cellulitis) Reduced levels of calcium in the blood (hypocalcaemia) Kidney stones (nephrolithiasis)
+- -Stretched skin, skin discolouration
+- -Feeling sick (nausea)
+- -Numbness of the mouth (hypoaesthesia oral)
+- -Aching muscles (myalgia)
+- -Scar
+- -Increased tendency to bruise
+- -Hot flush
+- -Infection of skin at injection site (injection site cellulitis)
+- -Reduced levels of calcium in the blood (hypocalcaemia)
+- -Kidney stones (nephrolithiasis)
 
 ## Reporting of side effects
 
@@ -1192,9 +1177,13 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and the vial label after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2°C-8°C). Do not freeze. Store in the original package in order to protect from light. After opening the vial, the product should be used immediately (within 3 hours maximum at room temperature, between 23°C and 27°C).
+Store in a refrigerator (2°C-8°C).
 
-<div style=\"page-break-after: always\"></div>
+Do not freeze.
+
+Store in the original package in order to protect from light.
+
+After opening the vial, the product should be used immediately (within 3 hours maximum at room temperature, between 23°C and 27°C).
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1202,21 +1191,17 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Strensiq contains
 
-The active substance is asfotase alfa. Each ml of solution contains 40 mg of asfotase alfa.
+The active substance is asfotase alfa. Each ml of solution contains 40 mg of asfotase alfa. Each vial of 0.3 ml solution (40 mg/ml) contains 12 mg of asfotase alfa. Each vial of 0.45 ml solution (40 mg/ml) contains 18 mg of asfotase alfa.
 
-Each vial of 0.3 ml solution (40 mg/ml) contains 12 mg of asfotase alfa.
+<div style=\"page-break-after: always\"></div>
 
-Each vial of 0.45 ml solution (40 mg/ml) contains 18 mg of asfotase alfa.
-
-Each vial of 0.7 ml solution (40 mg/ml) contains 28 mg of asfotase alfa.
-
-Each vial of 1 ml solution (40 mg/ml) contains 40 mg of asfotase alfa.
+Each vial of 0.7 ml solution (40 mg/ml) contains 28 mg of asfotase alfa. Each vial of 1 ml solution (40 mg/ml) contains 40 mg of asfotase alfa.
 
 The other ingredients are sodium chloride, sodium phosphate monobasic monohydrate, sodium phosphate dibasic heptahydrate and water for injections.
 
 ## What Strensiq looks like and contents of the pack
 
-Strensiq is presented as a clear, slightly opalescent or opalescent, colourless to slightly yellow aqueous solution for injection in vials containing 0.3 ml, 0.45 ml, 0.7 ml and 1 ml of solution. A few small translucent or white particles may be present.
+Strensiq is presented as a clear, slightly opalescent or opalescent, colourless to slightly yellow aqueous solution for injection in glass vials containing 0.3 ml, 0.45 ml, 0.7 ml and 1 ml of solution. A few small translucent or white particles may be present.
 
 Pack sizes of 1 or 12 vials. Not all pack sizes may be marketed in your country.
 
@@ -1226,9 +1211,167 @@ Alexion Europe SAS 103-105 rue Anatole France 92300 Levallois-Perret France
 
 ## Manufacturer
 
-Alexion Pharma International Operations Limited College Business and Technology Park, Blanchardstown Dublin 15
+Alexion Pharma International Operations Limited College Business and Technology Park, Blanchardstown Dublin 15 Ireland
 
-Ireland
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+Alexion Pharma Belgium Tél/Tel: +32 0 800 200 31
+
+## България
+
+АстраЗенека България ЕООД Teл.: +359 24455000
+
+## Česká republika
+
+AstraZeneca Czech Republic s.r.o. Tel: +420 222 807 111
+
+## Danmark
+
+Alexion Pharma Nordics AB Tlf: +46 (0) 8 557 727 50
+
+## Deutschland
+
+Alexion Pharma Germany GmbH Tel: +49 (0) 89 45 70 91 300
+
+## Eesti
+
+AstraZeneca
+
+Tel: +372 6549 600
+
+## Lietuva
+
+UAB AstraZeneca Lietuva Tel: +370 5 2660550
+
+## Luxembourg/Luxemburg
+
+Alexion Pharma Belgium Tél/Tel: +32 0 800 200 31
+
+## Magyarország
+
+AstraZeneca Kft.
+
+Tel.: +36 1 883 6500
+
+## Malta
+
+Associated Drug Co. Ltd Tel: +356 2277 8000
+
+## Nederland
+
+Alexion Pharma Netherlands B.V. Tel: +32 (0) 2 548 36 67
+
+## Norge
+
+Alexion Pharma Nordics AB
+
+Tlf: +46 (0) 8 557 727 50
+
+## Ελλάδα
+
+AstraZeneca A.E.
+
+Τηλ: +30 210 6871500
+
+## Österreich
+
+Alexion Pharma Austria GmbH
+
+Tel: +41 44 457 40 00
+
+## España
+
+Alexion Pharma Spain, S.L.U.
+
+Tel: +34 93 272 30 05
+
+## Polska
+
+AstraZeneca Pharma Poland Sp. z o.o.
+
+Tel.: +48 22 245 73 00
+
+## France
+
+Alexion Pharma France SAS
+
+Tél: +33 1 47 32 36 21
+
+## Portugal
+
+Alexion Pharma Spain, S.L. - Sucursal em Portugal
+
+Tel: +34 93 272 30 05
+
+## Hrvatska
+
+AstraZeneca d.o.o.
+
+Tel: +385 1 4628 000
+
+## România
+
+AstraZeneca Pharma SRL
+
+Tel: +40 21 317 60 41
+
+## Ireland
+
+Alexion Europe SAS
+
+Tel: 1 800 882 840
+
+## Slovenija
+
+AstraZeneca UK Limited
+
+Tel: +386 1 51 35 600
+
+## Ísland
+
+Alexion Pharma Nordics AB
+
+Sími: +46 (0) 8 557 727 50
+
+## Slovenská republika
+
+AstraZeneca AB, o.z.
+
+Tel: +421 2 5737 7777
+
+## Italia
+
+Alexion Pharma Italy srl
+
+Tel: +39 02 7767 9211
+
+## Suomi/Finland
+
+Alexion Pharma Nordics AB
+
+Puh/Tel: +46 (0) 8 557 727 50
+
+## Κύπρος
+
+Alexion Europe SAS
+
+Τηλ: +357 22490305
+
+## Sverige
+
+Alexion Pharma Nordics AB
+
+Tel: +46 (0) 8 557 727 50
+
+## Latvija
+
+SIA AstraZeneca Latvija
+
+Tel: +371 67377100
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -1240,7 +1383,7 @@ The European Medicines Agency will review any new information on this medicine e
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
 
 ## Package leaflet: Information for the user
 
@@ -1425,32 +1568,32 @@ lumps or large particles in it and get a new vial. Any unused medicinal product 
 
 1. Wash your hands thoroughly with soap and water.
 2. Take the unopened Strensiq vial(s) out of the refrigerator 15 to 30 minutes before injecting to allow the liquid to reach room temperature. Do not warm Strensiq in any other way (for example, do not warm it in a microwave or in hot water). Upon removal of the vial(s) from refrigeration, Strensiq should be used within 3 hours maximum (see section 5. How to store Strensiq).
-3. Remove the protective cap from the Strensiq vial(s). Remove the protective plastic from the syringe to be used.
-4. Always use a new syringe contained in a protective plastic.
-5. Place a larger bore needle (e.g. 25G) on the empty syringe and with the protective cap on, push down and turn clockwise the needle onto the syringe until it is tight.
-6. Remove the plastic cap covering the syringe needle. Pay attention not to hurt yourself with the needle.
-7. Pull the plunger back to draw air into the syringe equal to your dose.
+3. Remove the protective cap from the Strensiq vial(s). Remove the protective plastic from the syringe to be used (not included in the package). Always use a new disposable syringe.
+4. Place a larger bore needle (e.g. 25G) on the empty syringe and with the protective cap on, push down and turn clockwise the needle onto the syringe until it is tight.
+5. Remove the plastic cap covering the syringe needle. Pay attention not to hurt yourself with the needle.
+6. Pull the plunger back to draw air into the syringe equal to your dose.
+
+## Step 2: Withdrawing Strensiq solution from the vial
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
 1. Holding the syringe and vial, insert the needle through the sterile rubber seal and into the vial.
 2. Push the plunger in completely to inject air into the vial.
 3. Invert the vial and syringe. With the needle in the solution, pull the plunger to withdraw the correct dose into the syringe.
-
-<!-- image -->
-
-<!-- image -->
-
-Step 2: Withdrawing Strensiq solution from the vial
-
-<!-- image -->
+4. Before removing the needle from the vial, check that the appropriate volume has been withdrawn and check the syringe for air bubbles. In the event that bubbles appear in the syringe, hold the syringe with the needle pointing upwards and gently tap the side of the syringe until the bubbles rise to the top.
 
 <div style=\"page-break-after: always\"></div>
 
-4. Before removing the needle from the vial, check that the appropriate volume has been withdrawn and check the syringe for air bubbles. In the event that bubbles appear in the syringe, hold the syringe with the needle pointing upwards and gently tap the side of the syringe until the bubbles rise to the top.
 5. Once all the bubbles are at the top of the syringe, gently push on the plunger to force the bubbles out of the syringe and back into the vial.
 6. After removing the bubbles, recheck the dose of medication in the syringe to be sure you have drawn up the correct amount. You may need to use several vials to withdraw the complete amount needed to reach the correct dose.
 
 ## Step 3: Placing the needle for injection on the syringe
 
-1. Remove the needle from the vial.Recap with one hand by placing the cap on a flat surface, slide the needle into the cap, lift it up and snap it on securely using only one hand.
+1. Remove the needle from the vial. Recap with one hand by placing the cap on a flat surface, slide the needle into the cap, lift it up and snap it on securely using only one hand.
 2. Carefully, remove the larger bore needle pushing down and turning counterclockwise. Dispose the needle with the protective cap in your sharps container.
 3. Place a smaller bore needle (e.g. 27 or 29G) on the filled syringe and with the protective cap on, push down and turn clockwise the needle onto the syringe until it is tight. Pull the cap straight off the needle.
 4. Hold the syringe with the needle pointing up and tap the barrel of the syringe with your finger to remove any air bubbles.
@@ -1461,7 +1604,7 @@ The volume per injection should not exceed 1 ml. If it is the case, multiple inj
 
 You are now ready to inject the correct dose.
 
-## Step 4: Injecting Strensiq
+Step 4: Injecting Strensiq
 
 <!-- image -->
 
@@ -1506,6 +1649,8 @@ For more information, please consult:
 
 <!-- image -->
 
+and URL: http://asfotasealfa-patienteducation.co.uk
+
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
 ## 4. Possible side effects
@@ -1524,23 +1669,26 @@ Additionally, other allergic reactions (hypersensitivity) which may appear as re
 
 ## Very common: may affect more than 1 in 10 people
 
-Reactions at the injection site during the injection of the medicine or during the hours following the injection (which can lead to redness, discolorations, itching, pain, fatty lumps or decreased fatty tissue on the surface of the skin, skin hypopigmentation, and/or swelling)
-
-Fever (pyrexia)
-
-Irritability
-
-Skin redness (erythema)
-
-Pain in hands and feet (pain in extremity)
-
-Bruise (contusion)
-
-Headache
+- -Reactions at the injection site during the injection of the medicine or during the hours following the injection (which can lead to redness, discolorations, itching, pain, fatty lumps or decreased fatty tissue on the surface of the skin, skin hypopigmentation, and/or swelling)
+- -Fever (pyrexia)
+- -Irritability
+- -Skin redness (erythema)
+- -Pain in hands and feet (pain in extremity)
+- -Bruise (contusion)
+- -Headache
 
 ## Common: may affect up to 1 in 10 people
 
-Stretched skin, skin discolouration Feeling sick (nausea) Numbness of the mouth (hypoaesthesia oral) Aching muscles (myalgia) Scar Increased tendency to bruise Hot flush Infection of skin at injection site (injection site cellulitis) Reduced levels of calcium in the blood (hypocalcaemia) Kidney stones (nephrolithiasis)
+- -Stretched skin, skin discolouration
+- -Feeling sick (nausea)
+- -Numbness of the mouth (hypoaesthesia oral)
+- -Aching muscles (myalgia)
+- -Scar
+- -Increased tendency to bruise
+- -Hot flush
+- -Infection of skin at injection site (injection site cellulitis)
+- -Reduced levels of calcium in the blood (hypocalcaemia)
+- -Kidney stones (nephrolithiasis)
 
 ## Reporting of side effects
 
@@ -1552,7 +1700,13 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and the vial label after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2°C-8°C). Do not freeze. Store in the original package in order to protect from light. After opening the vial, the product should be used immediately (within 3 hours maximum at room temperature, between 23°C and 27°C).
+Store in a refrigerator (2°C-8°C).
+
+Do not freeze.
+
+Store in the original package in order to protect from light.
+
+After opening the vial, the product should be used immediately (within 3 hours maximum at room temperature, between 23°C and 27°C).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1568,9 +1722,11 @@ The other ingredients are sodium chloride, sodium phosphate monobasic monohydrat
 
 ## What Strensiq looks like and contents of the pack
 
-Strensiq is presented as a clear, slightly opalescent or opalescent, colourless to slightly yellow aqueous solution for injection in vials containing 0.8 ml of solution. A few small translucent or white particles may be present.
+Strensiq is presented as a clear, slightly opalescent or opalescent, colourless to slightly yellow aqueous solution for injection in glass vials containing 0.8 ml of solution. A few small translucent or white particles may be present.
 
-Pack sizes of 1 or 12 vials. Not all pack sizes may be marketed in your country.
+Pack sizes of 1 or 12 vials.
+
+Not all pack sizes may be marketed in your country.
 
 ## Marketing Authorisation Holder
 
@@ -1578,9 +1734,181 @@ Alexion Europe SAS 103-105 rue Anatole France 92300 Levallois-Perret France
 
 ## Manufacturer
 
-Alexion Pharma International Operations Limited College Business and Technology Park, Blanchardstown Dublin 15
+Alexion Pharma International Operations Limited College Business and Technology Park, Blanchardstown Dublin 15 Ireland
 
-Ireland
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+Alexion Pharma Belgium Tél/Tel: +32 0 800 200 31
+
+## Lietuva
+
+UAB AstraZeneca Lietuva Tel: +370 5 2660550
+
+## България
+
+АстраЗенека България ЕООД Teл.: +359 24455000
+
+## Luxembourg/Luxemburg
+
+Alexion Pharma Belgium
+
+Tél/Tel: +32 0 800 200 31
+
+## Česká republika
+
+AstraZeneca Czech Republic s.r.o.
+
+Tel: +420 222 807 111
+
+## Magyarország
+
+AstraZeneca Kft.
+
+Tel.: +36 1 883 6500
+
+## Danmark
+
+Alexion Pharma Nordics AB
+
+Tlf: +46 (0) 8 557 727 50
+
+Malta
+
+Associated Drug Co. Ltd
+
+Tel: +356 2277 8000
+
+<div style=\"page-break-after: always\"></div>
+
+## Deutschland
+
+## Nederland
+
+Alexion Pharma Germany GmbH
+
+Tel: +49 (0) 89 45 70 91 300
+
+Alexion Pharma Netherlands B.V.
+
+Tel: +32 (0) 2 548 36 67
+
+## Eesti
+
+AstraZeneca
+
+Tel: +372 6549 600
+
+## Norge
+
+Alexion Pharma Nordics AB
+
+Tlf: +46 (0) 8 557 727 50
+
+## Ελλάδα
+
+AstraZeneca A.E.
+
+Τηλ: +30 210 6871500
+
+## Österreich
+
+Alexion Pharma Austria GmbH
+
+Tel: +41 44 457 40 00
+
+## España
+
+Alexion Pharma Spain, S.L.U.
+
+Tel: +34 93 272 30 05
+
+## Polska
+
+AstraZeneca Pharma Poland Sp. z o.o.
+
+Tel.: +48 22 245 73 00
+
+## France
+
+Alexion Pharma France SAS
+
+Tél: +33 1 47 32 36 21
+
+## Portugal
+
+Alexion Pharma Spain, S.L. - Sucursal em
+
+Portugal
+
+Tel: +34 93 272 30 05
+
+## Hrvatska
+
+AstraZeneca d.o.o.
+
+Tel: +385 1 4628 000
+
+## România
+
+AstraZeneca Pharma SRL
+
+Tel: +40 21 317 60 41
+
+## Ireland
+
+Alexion Europe SAS
+
+Tel: 1 800 882 840
+
+## Slovenija
+
+AstraZeneca UK Limited
+
+Tel: +386 1 51 35 600
+
+## Ísland
+
+Alexion Pharma Nordics AB
+
+Sími: +46 (0) 8 557 727 50
+
+## Slovenská republika
+
+AstraZeneca AB, o.z.
+
+Tel: +421 2 5737 7777
+
+## Italia
+
+Alexion Pharma Italy srl
+
+Tel: +39 02 7767 9211
+
+## Suomi/Finland
+
+Alexion Pharma Nordics AB
+
+Puh/Tel: +46 (0) 8 557 727 50
+
+## Κύπρος
+
+Alexion Europe SAS
+
+Τηλ: +357 22490305
+
+## Sverige
+
+Alexion Pharma Nordics AB
+
+Tel: +46 (0) 8 557 727 50
+
+## Latvija
+
+SIA AstraZeneca Latvija
+
+Tel: +371 67377100
 
 ## This leaflet was last revised in
 
@@ -1592,4 +1920,6 @@ The European Medicines Agency will review any new information on this medicine e
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+<div style=\"page-break-after: always\"></div>
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.

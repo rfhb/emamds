@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-03-06 10:36:43
-document_pages: 292
+document_datetime: 2026-03-18 14:18:33
+document_pages: 298
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/opdivo-epar-product-information_en.pdf
 document_name: opdivo-epar-product-information_en.pdf
 version: success
-processing_time: 194.3795119
-conversion_datetime: 2026-03-09 14:20:57.653185
+processing_time: 259.6900618
+conversion_datetime: 2026-03-21 12:15:21.258794
 docling_version:
   docling-serve: 1.14.3
   docling-jobkit: 1.13.0
-  docling: 2.77.0
-  docling-core: 2.69.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.5.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
   plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
@@ -100,6 +100,8 @@ OPDIVO as monotherapy is indicated for the treatment of advanced renal cell carc
 
 OPDIVO as monotherapy is indicated for the treatment of adult patients with relapsed or refractory classical Hodgkin lymphoma after autologous stem cell transplant (ASCT) and treatment with brentuximab vedotin.
 
+OPDIVO in combination with brentuximab vedotin is indicated for the treatment of children 5 years of age and older, adolescents and adults up to 30 years of age with relapsed or refractory classical Hodgkin lymphoma after one prior line of therapy (see section 5.1).
+
 ## Squamous cell cancer of the head and neck (SCCHN)
 
 OPDIVO as monotherapy is indicated for the treatment of recurrent or metastatic squamous cell cancer of the head and neck in adults progressing on or after platinum-based therapy (see section 5.1).
@@ -110,9 +112,9 @@ OPDIVO as monotherapy is indicated for the adjuvant treatment of adults with mus
 
 OPDIVO in combination with cisplatin and gemcitabine is indicated for the first-line treatment of adult patients with unresectable or metastatic urothelial carcinoma.
 
-OPDIVO as monotherapy is indicated for the treatment of locally advanced unresectable or metastatic urothelial carcinoma in adults after failure of prior platinum-containing therapy.
-
 <div style=\"page-break-after: always\"></div>
+
+OPDIVO as monotherapy is indicated for the treatment of locally advanced unresectable or metastatic urothelial carcinoma in adults after failure of prior platinum-containing therapy.
 
 ## Mismatch repair deficient (dMMR) or microsatellite instability-high (MSI-H) colorectal cancer (CRC)
 
@@ -149,11 +151,11 @@ Treatment must be initiated and supervised by physicians experienced in the trea
 
 If specified in the indication, patient selection for treatment with OPDIVO based on the tumour expression of PD-L1 should be assessed by a CE-marked in vitro IVD medical device test. If the CEmarked IVD is not available, an alternative validated test should be used (see sections 4.1, 4.4, and 5.1).
 
+<div style=\"page-break-after: always\"></div>
+
 ## MSI/MMR testing
 
 If specified in the indication, patient selection for treatment with OPDIVO based on MSI-H/dMMR tumour status should be assessed by a CE-marked IVD with the corresponding intended purpose. If the CE-marked IVD is not available, an alternative validated test should be used (see sections 4.1, 4.4, and 5.1).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Posology
 
@@ -300,7 +302,7 @@ Table 13 Recommended doses and infusion times for intravenous administration of 
 | Nivolumab                                          | 360 mg every 3 weeks over 30 minutes or 240 mg every 2 weeks over 30 minutes |
 | fluoropyrimidine- and platinum- based chemotherapy | Every 2 weeks or every 3 weeks, depending on the regimen                     |
 
-## Urothelial carcinoma (UC)
+Urothelial carcinoma (UC)
 
 Table 14 Recommended doses and infusion times for intravenous administration of nivolumab in combination with cisplatin and gemcitabine followed by nivolumab monotherapy for UC (see section 5.1)
 
@@ -309,44 +311,65 @@ Table 14 Recommended doses and infusion times for intravenous administration of 
 | Nivolumab                 | 360 mg every 3 weeks over 30 minutes | 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 30 minutes |
 | Cisplatin and gemcitabine | Every 3 weeks                        | -                                                                            |
 
+OPDIVO in combination with brentuximab vedotin
+
+## Classical Hodgkin lymphoma
+
+Table 15: Recommended doses and infusion times for intravenous administration of nivolumab in combination with brentuximab vedotin for cHL
+
+|                     | Combination therapy*                                                                                                                                                                                                                                 |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nivolumab           | 3 mg/kg every 3 weeks over 30 minutes For Cycle 1 only, nivolumab should be administered on Day 8 of the cycle. For Cycles 2-6, nivolumab should be administered 30 minutes after completion of brentuximab vedotin administration, on the same day. |
+| Brentuximab Vedotin | 1.8 mg/kg up to a maximum of 180 mg, every 3 weeks over 30 minutes                                                                                                                                                                                   |
+
+·
+
+low risk of relapse: up to 6 cycles of the combination and proceed to consolidation therapy, if achieving complete response
+
+- standard risk of relapse: up to 4 cycles of the combination and proceed to consolidation therapy, if achieving complete response.
+
+In case of sub-optimal response to 4 cycles of the combination treatment, patients should receive intensification therapy prior to proceeding to consolidation therapy once complete response is achieved (see section 5.1).
+
 ## Duration of treatment
 
 Treatment with OPDIVO, either as a monotherapy or in combination with ipilimumab or other therapeutic agents, should be continued as long as clinical benefit is observed or until treatment is no longer tolerated by the patient (and up to maximum duration of therapy if specified for an indication).
 
 Atypical responses (i.e., an initial transient increase in tumour size or small new lesions within the first few months followed by tumour shrinkage) have been observed. It is recommended to continue treatment with nivolumab or nivolumab in combination with ipilimumab for clinically stable patients with initial evidence of disease progression until disease progression is confirmed.
 
-Dose escalation or reduction is not recommended for OPDIVO as monotherapy or in combination with other therapeutic agents. Dosing delay or discontinuation may be required based on individual safety and tolerability. Guidelines for permanent discontinuation or withholding of doses are described in Table 15. Detailed guidelines for the management of immune-related adverse reactions are described in section 4.4. When nivolumab is administered in combination with other therapeutic agents, refer to the SmPC of these other combination therapeutic agents regarding dosing.
+<div style=\"page-break-after: always\"></div>
 
-Table 15: Recommended treatment modifications for OPDIVO or OPDIVO in combination
+Dose escalation or reduction is not recommended for OPDIVO as monotherapy or in combination with other therapeutic agents. Dosing delay or discontinuation may be required based on individual safety and tolerability. Guidelines for permanent discontinuation or withholding of doses are described in Table 16. Detailed guidelines for the management of immune-related adverse reactions are described in section 4.4. When nivolumab is administered in combination with other therapeutic agents, refer to the SmPC of these other combination therapeutic agents regarding dosing.
 
-| Immune-related adverse reaction   | Severity                 | Treatment modification                                                                                                       |
-|-----------------------------------|--------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| Immune-related pneumonitis        | Grade 2 pneumonitis      | Withhold dose(s) until symptoms resolve, radiographic abnormalities improve, and management with corticosteroids is complete |
-|                                   | Grade 3 or 4 pneumonitis | Permanently discontinue treatment                                                                                            |
+Table 16: Recommended treatment modifications for OPDIVO or OPDIVO in combination
+
+| Immune-related adverse reaction                                                               | Severity                                                                                                                                                                                                                                                                                                                                            | Treatment modification                                                                                                                                                                         |
+|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Immune-related pneumonitis                                                                    | Grade 2 pneumonitis Grade 3 or 4 pneumonitis Grade 2 diarrhoea or colitis                                                                                                                                                                                                                                                                           | Withhold dose(s) until symptoms resolve, radiographic abnormalities improve, and management with corticosteroids is complete Permanently discontinue treatment Withhold dose(s) until symptoms |
+| Immune-related colitis                                                                        | Grade 3 diarrhoea or colitis - OPDIVO monotherapy                                                                                                                                                                                                                                                                                                   | Withhold dose(s) until symptoms resolve and management with corticosteroids is complete Permanently discontinue treatment                                                                      |
+| Immune-related colitis                                                                        | - OPDIVO+ipilimumab a                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                |
+| Immune-related colitis                                                                        | Grade 4 diarrhoea or colitis                                                                                                                                                                                                                                                                                                                        | Permanently discontinue treatment                                                                                                                                                              |
+| Immune-related hepatitis without HCC                                                          | Grade 2 elevation in aspartate aminotransferase (AST), alanine aminotransferase (ALT), or total bilirubin                                                                                                                                                                                                                                           | Withhold dose(s) until laboratory values return to baseline and management with corticosteroids,                                                                                               |
+| NOTE: for RCC patients treated with OPDIVO in combination with cabozantinib with liver enzyme | Grade 3 or 4 elevation in AST, ALT, or total bilirubin                                                                                                                                                                                                                                                                                              | if needed, is complete Permanently discontinue treatment                                                                                                                                       |
+| Immune-related hepatitis with HCC                                                             | If AST/ALT is within normal limits at baseline and increases to > 3 and ≤ 10 times ULN or Baseline AST/ALT is > 1 and ≤ 3 times ULN and increases to > 5 and ≤ 10 times ULN or Baseline AST/ALT is > 3 and ≤ 5 times ULN and increases to > 8 and ≤ 10 times ULN. AST/ALT increases to > 10 times ULN or Total bilirubin increases to > 3 times ULN | Withhold dose(s) until laboratory values return to baseline and management with corticosteroids, if needed, is complete Permanently discontinue treatment                                      |
 
 <div style=\"page-break-after: always\"></div>
 
-| Immune-related adverse reaction                                                                                                           | Severity                                                                                                                                                                                                                                                                                                                                                                              | Treatment modification                                                                                                                                                                                                                                          |
-|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Immune-related colitis                                                                                                                    | Grade 2 diarrhoea or colitis Grade 3 diarrhoea or colitis - OPDIVO monotherapy - OPDIVO+ipilimumab a Grade 4 diarrhoea or colitis                                                                                                                                                                                                                                                     | Withhold dose(s) until symptoms resolve and management with corticosteroids, if needed, is complete Withhold dose(s) until symptoms resolve and management with corticosteroids is complete Permanently discontinue treatment Permanently discontinue treatment |
-| Immune-related hepatitis without HCC NOTE: for RCC patients treated with OPDIVO in                                                        | Grade 2 elevation in aspartate aminotransferase (AST), alanine aminotransferase (ALT), or total bilirubin                                                                                                                                                                                                                                                                             | Withhold dose(s) until laboratory values return to baseline and management with corticosteroids, if needed, is complete Permanently discontinue                                                                                                                 |
-| combination with cabozantinib with liver enzyme elevations, see dosing guidelines following this table. Immune-related hepatitis with HCC | Grade 3 or 4 elevation in AST, ALT, or total bilirubin                                                                                                                                                                                                                                                                                                                                | treatment Withhold dose(s) until laboratory values return to baseline and management with corticosteroids,                                                                                                                                                      |
-| Immune-related nephritis and renal dysfunction                                                                                            | If AST/ALT is within normal limits at baseline and increases to > 3 and ≤ 10 times ULN or Baseline AST/ALT is > 1 and ≤ 3 times ULN and increases to > 5 and ≤ 10 times ULN or Baseline AST/ALT is > 3 and ≤ 5 times ULN and increases to > 8 and ≤ 10 times ULN. AST/ALT increases to > 10 times ULN or Total bilirubin increases to > 3 times ULN Grade 2 or 3 creatinine elevation | if needed, is complete Permanently discontinue treatment Withhold dose(s) until creatinine returns to baseline and management with corticosteroids is complete                                                                                                  |
-
-<div style=\"page-break-after: always\"></div>
-
-| Immune-related adverse reaction        | Severity                                                                                                                                                                                                                      | Treatment modification                                                                                                                                                                                                                                                                      |
-|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Immune-related endocrinopathies        | Symptomatic Grade 2 or 3 hypothyroidism, hyperthyroidism, hypophysitis, Grade 2 adrenal insufficiency Grade 3 diabetes Grade 4 hypothyroidism Grade 4 hyperthyroidism Grade 4 hypophysitis Grade 3 or 4 adrenal insufficiency | Withhold dose(s) until symptoms resolve and management with corticosteroids (if needed for symptoms of acute inflammation) is complete. Treatment should be continued in the presence of hormone replacement therapy b as long as no symptoms are present Permanently discontinue treatment |
-| Immune-related skin adverse reactions  | Grade 3 rash Grade 4 rash                                                                                                                                                                                                     | Withhold dose(s) until symptoms resolve and management with corticosteroids is complete Permanently discontinue treatment                                                                                                                                                                   |
-| Immune-related myocarditis             | Grade 2 myocarditis Grade 3 or 4 myocarditis                                                                                                                                                                                  | Withhold dose(s) until symptoms resolve and management with corticosteroids is complete c Permanently discontinue treatment                                                                                                                                                                 |
-| Other immune-related adverse reactions | Grade 4 or recurrent Grade 3; persistent Grade 2 or 3 despite treatment modification; inability to reduce corticosteroid dose to 10 mg prednisone or equivalent per day                                                       | Permanently discontinue treatment                                                                                                                                                                                                                                                           |
+| Immune-related adverse reaction                | Severity                                                                                                                                                                                                                           | Treatment modification                                                                                                                                                                                                                                                                      |
+|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Immune-related nephritis and renal dysfunction | Grade 2 or 3 creatinine elevation Grade 4 creatinine elevation Symptomatic                                                                                                                                                         | Withhold dose(s) until creatinine returns to baseline and management with corticosteroids is complete Permanently discontinue treatment                                                                                                                                                     |
+| Immune-related endocrinopathies                | Grade 2 or 3 hypothyroidism, hyperthyroidism, hypophysitis, Grade 2 adrenal insufficiency Grade 3 diabetes Grade 4 hypothyroidism Grade 4 hyperthyroidism Grade 4 hypophysitis Grade 3 or 4 adrenal insufficiency Grade 4 diabetes | Withhold dose(s) until symptoms resolve and management with corticosteroids (if needed for symptoms of acute inflammation) is complete. Treatment should be continued in the presence of hormone replacement therapy b as long as no symptoms are present Permanently discontinue treatment |
+| Immune-related skin adverse reactions          | Grade 3 rash Grade 4 rash                                                                                                                                                                                                          | Withhold dose(s) until symptoms resolve and management with corticosteroids is complete Permanently discontinue treatment                                                                                                                                                                   |
+| Immune-related myocarditis                     | Grade 2 myocarditis Grade 3 or 4 myocarditis                                                                                                                                                                                       | Withhold dose(s) until symptoms resolve and management with corticosteroids is complete c Permanently discontinue treatment                                                                                                                                                                 |
+| Other immune-related adverse reactions         | Grade 3 (first occurrence) Grade 4 or recurrent Grade 3; persistent Grade 2 or 3 despite treatment modification; inability to reduce corticosteroid dose                                                                           | Withhold dose(s) Permanently discontinue                                                                                                                                                                                                                                                    |
+|                                                | to 10 mg prednisone or equivalent per day                                                                                                                                                                                          | treatment                                                                                                                                                                                                                                                                                   |
 
 Note: Toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0 (NCI-CTCAE v4).
 
-- a During administration of the second phase of treatment (nivolumab monotherapy) following combination treatment, permanently discontinue treatment if Grade 3 diarrhoea or colitis occurs.
-- b Recommendation for the use of hormone replacement therapy is provided in section 4.4.
-- c The safety of re-initiating nivolumab or nivolumab in combination with ipilimumab therapy in patients previously experiencing immune-related myocarditis is not known.
+a During administration of the second phase of treatment (nivolumab monotherapy) following combination treatment, permanently discontinue treatment if Grade 3 diarrhoea or colitis occurs.
+
+b Recommendation for the use of hormone replacement therapy is provided in section 4.4.
+
+c The safety of re-initiating nivolumab or nivolumab in combination with ipilimumab therapy in patients previously experiencing immune-related myocarditis is not known.
 
 OPDIVO as monotherapy or in combination with other therapeutic agents should be permanently discontinued for:
 
@@ -355,17 +378,15 @@ OPDIVO as monotherapy or in combination with other therapeutic agents should be 
 
 Patients treated with OPDIVO must be given the patient card and be informed about the risks of OPDIVO (see also package leaflet).
 
-When OPDIVO is administered in combination with ipilimumab, if either agent is withheld, the other agent should also be withheld. If dosing is resumed after a delay, either the combination treatment or OPDIVO monotherapy could be resumed based on the evaluation of the individual patient.
-
-When OPDIVO is administered in combination with chemotherapy, refer to the SmPC of the other combination therapy agents regarding dosing. If any agents are withheld, the other agents may be
-
 <div style=\"page-break-after: always\"></div>
 
-continued. If dosing is resumed after a delay, either the combination treatment, OPDIVO monotherapy or chemotherapy alone could be resumed based on the evaluation of the individual patient.
+When OPDIVO is administered in combination with ipilimumab, if either agent is withheld, the other agent should also be withheld. If dosing is resumed after a delay, either the combination treatment or OPDIVO monotherapy could be resumed based on the evaluation of the individual patient.
+
+When OPDIVO is administered in combination with chemotherapy, refer to the SmPC of the other combination therapy agents regarding dosing. If any agents are withheld, the other agents may be continued. If dosing is resumed after a delay, either the combination treatment, OPDIVO monotherapy or chemotherapy alone could be resumed based on the evaluation of the individual patient.
 
 ## OPDIVO in combination with cabozantinib in RCC
 
-When OPDIVO is used in combination with cabozantinib, the above treatment modifications in Table 15 also apply to the OPDIVO component. In addition, for liver enzyme elevations, in patients with RCC being treated with OPDIVO in combination with cabozantinib:
+When OPDIVO is used in combination with cabozantinib, the above treatment modifications in Table 16 also apply to the OPDIVO component. In addition, for liver enzyme elevations, in patients with RCC being treated with OPDIVO in combination with cabozantinib:
 
 - If ALT or AST &gt; 3 times ULN but ≤ 10 times ULN without concurrent total bilirubin ≥ 2 times ULN, both OPDIVO and cabozantinib should be withheld until these adverse reactions recover to Grades 0-1. Corticosteroid therapy may be considered. Rechallenge with a single medicine or rechallenge with both medicines after recovery may be considered. If rechallenging with cabozantinib, refer to cabozantinib SmPC.
 - If ALT or AST &gt; 10 times ULN or &gt; 3 times ULN with concurrent total bilirubin ≥ 2 times ULN, both OPDIVO and cabozantinib should be permanently discontinued and corticosteroid therapy may be considered.
@@ -386,21 +407,21 @@ Based on the population PK results, no dose adjustment is required in patients w
 
 ## Paediatric population
 
-The safety and efficacy of OPDIVO in children below 18 years of age have not been established except in adolescents 12 years of age and older with melanoma. Currently available data of OPDIVO as monotherapy or in combination with ipilimumab are described in sections 4.2, 4.8, 5.1 and 5.2.
+The safety and efficacy of OPDIVO in children below 18 years of age have not been established except in adolescents 12 years of age and older with melanoma and paediatric patients 5 years of age and older with cHL. Currently available data of OPDIVO as monotherapy, in combination with ipilimumab, or in combination with brentuximab vedotin are described in sections 4.2, 4.8, 5.1 and 5.2.
 
 ## Method of administration
 
-OPDIVO is for intravenous use only. It is to be administered as an intravenous infusion over a period of 30 or 60 minutes depending on the dose (see Tables 1, 2, 3, 4 and 5). The infusion must be administered through a sterile, non-pyrogenic, low protein binding in-line filter with a pore size of 0.2-1.2 μ m.
+OPDIVO is for intravenous use only. It is to be administered as an intravenous infusion over a period of 30 or 60 minutes depending on the dose (see Tables 1, 2, 3, 4 and 5). The infusion must be administered through a sterile, non-pyrogenic, low protein binding in-line filter with a pore size of 0.2-1.2 μm.
 
 OPDIVO must not be administered as an intravenous push or bolus injection.
 
+<div style=\"page-break-after: always\"></div>
+
 The total dose of OPDIVO required can be infused directly as a 10 mg/mL solution or can be diluted with sodium chloride 9 mg/mL (0.9%) solution for injection or glucose 50 mg/mL (5%) solution for injection (see section 6.6).
 
-When administered in combination with ipilimumab and/or chemotherapy, OPDIVO should be given first followed by ipilimumab (if applicable) and then by chemotherapy on the same day. Use separate infusion bags and filters for each infusion.
+When administered in combination with ipilimumab and/or chemotherapy, OPDIVO should be given first followed by ipilimumab (if applicable) and then by chemotherapy on the same day. When administered in combination with brentuximab vedotin, for Cycle 1, brentuximab vedotin should be given on Day 1 and OPDIVO on Day 8. For Cycle 2-6, OPDIVO should be given at least 30 minutes after the completion of brentuximab vedotin infusion on the same day. Use separate infusion bags and filters for each infusion.
 
 For instructions on the preparation and handling of the medicinal product before administration, see section 6.6.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.3 Contraindications
 
@@ -422,21 +443,19 @@ When assessing the MSI-H and dMMR status of the tumour, it is important that a w
 
 ## Immune-related adverse reactions
 
-When nivolumab is administered in combination, refer to the SmPC of the other combination therapy agents prior to initiation of treatment. Immune-related adverse reactions have occurred at higher frequencies when nivolumab was administered in combination with ipilimumab compared with nivolumab as monotherapy. Immune-related adverse reactions have occurred at similar frequencies when OPDIVO was administered in combination with cabozantinib relative to nivolumab monotherapy. Therefore, the guidance below for immune-related adverse reactions applies to the OPDIVO component of the combination, except where specifically noted. Most immune-related adverse reactions improved or resolved with appropriate management, including initiation of corticosteroids and treatment modifications (see section 4.2).
+When nivolumab is administered in combination, refer to the SmPC of the other combination therapy agents prior to initiation of treatment. Immune-related adverse reactions have occurred at higher frequencies when nivolumab was administered in combination with ipilimumab compared with nivolumab as monotherapy. Immune-related adverse reactions have occurred at similar frequencies when OPDIVO was administered in combination with cabozantinib or in combination with brentuximab vedotin relative to nivolumab monotherapy. Therefore, the guidance below for immune-related adverse reactions applies to the OPDIVO component of the combination, except where specifically noted. Most immune-related adverse reactions improved or resolved with appropriate management, including initiation of corticosteroids and treatment modifications (see section 4.2).
 
 Immune-related adverse reactions affecting more than one body system can occur simultaneously.
 
 Cardiac and pulmonary adverse reactions including pulmonary embolism have also been reported with combination therapy. Patients should be monitored for cardiac and pulmonary adverse reactions continuously, as well as for clinical signs, symptoms, and laboratory abnormalities indicative of electrolyte disturbances and dehydration prior to and periodically during treatment. Nivolumab in combination with ipilimumab should be discontinued for life-threatening or recurrent severe cardiac and pulmonary adverse reactions (see section 4.2).
 
+<div style=\"page-break-after: always\"></div>
+
 Patients should be monitored continuously (at least up to 5 months after the last dose) as an adverse reaction with nivolumab or nivolumab in combination with ipilimumab may occur at any time during or after discontinuation of therapy.
 
 For suspected immune-related adverse reactions, adequate evaluation should be performed to confirm aetiology or exclude other causes. Based on the severity of the adverse reaction, nivolumab or nivolumab in combination with ipilimumab should be withheld and corticosteroids administered. If immunosuppression with corticosteroids is used to treat an adverse reaction, a taper of at least 1 month duration should be initiated upon improvement. Rapid tapering may lead to worsening or recurrence of the adverse reaction. Non-corticosteroid immunosuppressive therapy should be added if there is worsening or no improvement despite corticosteroid use.
 
-In patients with pre-existing autoimmune disease (AID), data from observational studies suggest that the risk of immune-mediated adverse reactions following immune-checkpoint inhibitor therapy may
-
-<div style=\"page-break-after: always\"></div>
-
-be increased as compared with the risk in patients without pre-existing AID. In addition, flares of the underlying AID were frequent, but the majority were mild and manageable.
+In patients with pre-existing autoimmune disease (AID), data from observational studies suggest that the risk of immune-mediated adverse reactions following immune-checkpoint inhibitor therapy may be increased as compared with the risk in patients without pre-existing AID. In addition, flares of the underlying AID were frequent, but the majority were mild and manageable.
 
 Nivolumab or nivolumab in combination with ipilimumab should not be resumed while the patient is receiving immunosuppressive doses of corticosteroids or other immunosuppressive therapy. Prophylactic antibiotics should be used to prevent opportunistic infections in patients receiving immunosuppressive therapy.
 
@@ -454,15 +473,13 @@ For Grade 2 (symptomatic) pneumonitis, nivolumab or nivolumab in combination wit
 
 Severe diarrhoea or colitis has been observed with nivolumab monotherapy or nivolumab in combination with ipilimumab (see section 4.8). Patients should be monitored for diarrhoea and additional symptoms of colitis, such as abdominal pain and mucus or blood in stool. Cytomegalovirus (CMV) infection/reactivation has been reported in patients with corticosteroid-refractory immune-related colitis. Infectious and other aetiologies of diarrhoea should be ruled out, therefore appropriate laboratory tests and additional examinations must be performed. If diagnosis of corticosteroid-refractory immune-related colitis is confirmed addition of an alternative immunosuppressive agent to the corticosteroid therapy, or replacement of the corticosteroid therapy, should be considered.
 
+<div style=\"page-break-after: always\"></div>
+
 For Grade 4 diarrhoea or colitis, nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued, and corticosteroids should be initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
 
 Nivolumab monotherapy should be withheld for Grade 3 diarrhoea or colitis, and corticosteroids initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents. Upon improvement, nivolumab monotherapy may be resumed after corticosteroid taper. If worsening or no improvement occurs despite initiation of corticosteroids, nivolumab monotherapy must be permanently discontinued. Grade 3 diarrhoea or colitis observed with nivolumab in combination with ipilimumab requires permanent discontinuation of treatment and initiation of corticosteroids at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
 
-For Grade 2 diarrhoea or colitis, nivolumab or nivolumab in combination with ipilimumab should be withheld. Persistent diarrhoea or colitis should be managed with corticosteroids at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents. Upon improvement, nivolumab or nivolumab
-
-<div style=\"page-break-after: always\"></div>
-
-in combination with ipilimumab may be resumed after corticosteroid taper, if needed. If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents and nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued.
+For Grade 2 diarrhoea or colitis, nivolumab or nivolumab in combination with ipilimumab should be withheld. Persistent diarrhoea or colitis should be managed with corticosteroids at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents. Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper, if needed. If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents and nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued.
 
 ## Immune-related hepatitis
 
@@ -480,13 +497,13 @@ For Grade 4 serum creatinine elevation, nivolumab or nivolumab in combination wi
 
 For Grade 2 or 3 serum creatinine elevation, nivolumab or nivolumab in combination with ipilimumab should be withheld, and corticosteroids should be initiated at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents. Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper. If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents, and nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Immune-related endocrinopathies
 
 Severe endocrinopathies, including hypothyroidism, hyperthyroidism, adrenal insufficiency (including secondary adrenocortical insufficiency), hypophysitis (including hypopituitarism), diabetes mellitus, and diabetic ketoacidosis have been observed with nivolumab monotherapy or nivolumab in combination with ipilimumab (see section 4.8).
 
 Patients should be monitored for clinical signs and symptoms of endocrinopathies and for hyperglycaemia and changes in thyroid function (at the start of treatment, periodically during treatment, and as indicated based on clinical evaluation). Patients may present with fatigue, headache, mental status changes, abdominal pain, unusual bowel habits, and hypotension, or nonspecific symptoms which may resemble other causes such as brain metastasis or underlying disease. Unless an alternate aetiology has been identified, signs or symptoms of endocrinopathies should be considered immune-related.
-
-<div style=\"page-break-after: always\"></div>
 
 For symptomatic hypothyroidism, nivolumab or nivolumab in combination with ipilimumab should be withheld, and thyroid hormone replacement should be initiated as needed. For symptomatic hyperthyroidism, nivolumab or nivolumab in combination with ipilimumab should be withheld and antithyroid medication should be initiated as needed. Corticosteroids at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents should also be considered if acute inflammation of the thyroid is suspected. Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper, if needed. Monitoring of thyroid function should continue to ensure appropriate hormone replacement is utilised. Nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued for life-threatening hyperthyroidism or hypothyroidism.
 
@@ -502,13 +519,13 @@ Severe rash has been observed with nivolumab in combination with ipilimumab and,
 
 Rare cases of SJS and TEN some of them with fatal outcome have been observed. If symptoms or signs of SJS or TEN appear, treatment with nivolumab or nivolumab in combination with ipilimumab should be discontinued and the patient referred to a specialised unit for assessment and treatment. If the patient has developed SJS or TEN with the use of nivolumab or nivolumab in combination with ipilimumab, permanent discontinuation of treatment is recommended (see section 4.2).
 
+<div style=\"page-break-after: always\"></div>
+
 Caution should be used when considering the use of nivolumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anticancer agents.
 
 ## Other immune-related adverse reactions
 
 The following immune-related adverse reactions were reported in less than 1% of patients treated with nivolumab monotherapy or nivolumab in combination with ipilimumab in clinical trials across doses and tumour types: pancreatitis, uveitis, demyelination, autoimmune neuropathy (including facial and abducens nerve paresis), Guillain-Barré syndrome, myasthenia gravis, myasthenic syndrome, aseptic meningitis, encephalitis, gastritis, sarcoidosis, duodenitis, myositis, myocarditis, rhabdomyolysis, and myelitis. Cases of Vogt-Koyanagi-Harada syndrome, hypoparathyroidism, and cystitis noninfective have been reported post-marketing (see sections 4.2 and 4.8).
-
-<div style=\"page-break-after: always\"></div>
 
 For suspected immune-related adverse reactions, adequate evaluation should be performed to confirm aetiology or exclude other causes. Based on the severity of the adverse reaction, nivolumab or nivolumab in combination with ipilimumab should be withheld and corticosteroids administered. Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper. Nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued for any severe immune-related adverse reaction that recurs and for any life-threatening immune-related adverse reaction.
 
@@ -522,17 +539,15 @@ Haemophagocytic lymphohistiocytosis (HLH) has been observed with nivolumab as mo
 
 ## Infusion reactions
 
-Severe infusion reactions have been reported in clinical trials of nivolumab or nivolumab in combination with ipilimumab (see section 4.8). In case of a severe or life-threatening infusion reaction, the nivolumab or nivolumab in combination with ipilimumab infusion must be discontinued and appropriate medical therapy administered. Patients with mild or moderate infusion reaction may receive nivolumab or nivolumab in combination with ipilimumab with close monitoring and use of premedication according to local treatment guidelines for prophylaxis of infusion reactions.
+Infusion reactions, including severe infusion reactions have been reported in clinical trials of nivolumab or nivolumab in combination with ipilimumab or other therapeutic agents (see section 4.8). In case of a severe or life-threatening infusion reaction, the nivolumab or nivolumab in combination with ipilimumab or other therapeutic agent infusion must be discontinued and appropriate medical therapy administered. Patients with a mild or moderate infusion reaction may receive nivolumab or nivolumab in combination with ipilimumab or other therapeutic agents with close monitoring and use of premedication according to local treatment guidelines for prophylaxis of infusion reactions.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Disease-specific precautions
 
 ## Advanced melanoma
 
-Patients with a baseline performance score ≥ 2, active brain metastases or leptomeningeal metastases, autoimmune disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the pivotal clinical trials of nivolumab or nivolumab in combination with ipilimumab (see sections 4.5 and 5.1). Patients with ocular/uveal melanoma were excluded from pivotal clinical trials of melanoma. In addition, CA209037 excluded patients who have had a Grade 4 adverse reaction that was related to anti-CTLA-4 therapy (see section 5.1). Patients with baseline performance score of 2, treated leptomeningeal metastases, ocular/uveal melanoma, autoimmune disease and patients who have had a Grade 3-4 adverse reaction that was related to prior anti-CTLA-4 therapy were included in study CA209172 (see section 5.1). In the absence of data for patients who had been receiving systemic immunosuppressants prior to study entry, and for patients with active
-
-<div style=\"page-break-after: always\"></div>
-
-brain or leptomeningeal metastases, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+Patients with a baseline performance score ≥ 2, active brain metastases or leptomeningeal metastases, autoimmune disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the pivotal clinical trials of nivolumab or nivolumab in combination with ipilimumab (see sections 4.5 and 5.1). Patients with ocular/uveal melanoma were excluded from pivotal clinical trials of melanoma. In addition, CA209037 excluded patients who have had a Grade 4 adverse reaction that was related to anti-CTLA-4 therapy (see section 5.1). Patients with baseline performance score of 2, treated leptomeningeal metastases, ocular/uveal melanoma, autoimmune disease and patients who have had a Grade 3-4 adverse reaction that was related to prior anti-CTLA-4 therapy were included in study CA209172 (see section 5.1). In the absence of data for patients who had been receiving systemic immunosuppressants prior to study entry, and for patients with active brain or leptomeningeal metastases, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
 Relative to nivolumab monotherapy, an increase in PFS for the combination of nivolumab with ipilimumab is established only in patients with low tumour PD-L1 expression. The improvement in OS was similar between nivolumab in combination with ipilimumab and nivolumab monotherapy in patients with high tumour PD-L1 expression (PD-L1 ≥ 1%). Before initiating treatment with the combination, physicians are advised to carefully evaluate the individual patient and tumour characteristics, taking into consideration the observed benefits and the toxicity of the combination relative to nivolumab monotherapy (see sections 4.8 and 5.1).
 
@@ -544,7 +559,7 @@ Physicians should consider the delayed onset of nivolumab effect before initiati
 
 There are no data on adjuvant treatment in patients with melanoma with the following risk factors (see sections 4.5 and 5.1):
 
-- patients with prior autoimmune disease, and any condition requiring systemic treatment with either corticosteroids ( ≥ 10 mg daily prednisone or equivalent) or other immunosuppressive medications,
+- patients with prior autoimmune disease, and any condition requiring systemic treatment with either corticosteroids (≥ 10 mg daily prednisone or equivalent) or other immunosuppressive medications,
 - patients with prior therapy for melanoma (except patients with surgery, adjuvant radiotherapy after neurosurgical resection for lesions of the central nervous system, and prior adjuvant interferon completed ≥ 6 months prior to randomisation),
 - patients treated with prior therapy with anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CD137, or anti CTLA-4 antibody (including ipilimumab or any other antibody or drug specifically targeting T cell co-stimulation or checkpoint pathways),
 - subjects under the age of 18 years.
@@ -555,13 +570,11 @@ In the absence of data, nivolumab should be used with caution in these populatio
 
 Patients with active autoimmune disease, symptomatic interstitial lung disease, medical conditions requiring systemic immunosuppression, active (untreated) brain metastasis, who received prior systemic treatment for advanced disease, or who had sensitising EGFR mutations or ALK translocations were excluded from the pivotal trial in first-line treatment of NSCLC (see sections 4.5 and 5.1). Limited data are available in elderly patients (≥ 75 years) (see section 5.1). In these patients, nivolumab in combination with ipilimumab and chemotherapy should be used with caution after careful consideration of the potential benefit/risk on an individual basis.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Treatment of NSCLC after prior chemotherapy
 
-Patients with a baseline performance score ≥ 2, active brain metastases or autoimmune disease, symptomatic interstitial lung disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the pivotal clinical trials of NSCLC (see sections 4.5 and 5.1). Patients with baseline performance score of 2 were included in study CA209171 (see section 5.1). In the absence of data for patients with autoimmune disease, symptomatic interstitial lung disease, active brain metastases and patients who had been receiving systemic immunosuppressants prior to study entry, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
-
-Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with poorer prognostic features and/or aggressive disease. In non-squamous NSCLC, a higher number of deaths within 3 months was observed in nivolumab compared to docetaxel. Factors associated with early deaths were poorer prognostic factors and/or more aggressive disease combined with low or no tumour PD-L1 expression (see section 5.1).
-
-<div style=\"page-break-after: always\"></div>
+Patients with a baseline performance score ≥ 2, active brain metastases or autoimmune disease, symptomatic interstitial lung disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the pivotal clinical trials of NSCLC (see sections 4.5 and 5.1). Patients with baseline performance score of 2 were included in study CA209171 (see section 5.1). In the absence of data for patients with autoimmune disease, symptomatic interstitial lung disease, active brain metastases and patients who had been receiving systemic immunosuppressants prior to study entry, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis. Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with poorer prognostic features and/or aggressive disease. In non-squamous NSCLC, a higher number of deaths within 3 months was observed in nivolumab compared to docetaxel. Factors associated with early deaths were poorer prognostic factors and/or more aggressive disease combined with low or no tumour PD-L1 expression (see section 5.1).
 
 ## Neoadjuvant treatment of NSCLC
 
@@ -585,13 +598,17 @@ Patients with any history of concurrent brain metastases, active autoimmune dise
 
 Patients with any active brain metastases, autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trials of nivolumab in combination with cabozantinib (see sections 4.5 and 5.1). In the absence of data, nivolumab in combination with cabozantinib should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
+<div style=\"page-break-after: always\"></div>
+
 When nivolumab is given with cabozantinib, higher frequencies of Grades 3 and 4 ALT and AST elevations have been reported relative to nivolumab monotherapy in patients with advanced RCC (see section 4.8). Liver enzymes should be monitored before initiation of and periodically throughout treatment. Medical management guidelines for both medicines should be followed (see section 4.2 and refer to the SmPC for cabozantinib).
 
-## Classical Hodgkin lymphoma
+## Classical Hodgkin lymphoma Nivolumab monotherapy
 
 Patients with active autoimmune disease and symptomatic interstitial lung disease were excluded from clinical trials of cHL (see section 5.1). In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
-<div style=\"page-break-after: always\"></div>
+## Nivolumab in combination with brentuximab vedotin
+
+Patients with active autoimmune disease, with nodular lymphocyte predominant HL, and who had prior exposure to anti-PD1, anti-PDL1, anti-PD-L2, anti-CD137 or anti-CTLA-4 antibody, or any other antibody or drug specifically targeting T-cell co-stimulation or checkpoint pathways were excluded from the clinical trial of nivolumab in combination with brentuximab vedotin in the treatment of cHL (see section 5.1).
 
 ## Complications of allogeneic haematopoietic stem cell transplant (HSCT) in classical Hodgkin lymphoma
 
@@ -605,11 +622,11 @@ Patients with a baseline performance score ≥ 2, active brain or leptomeningeal
 
 Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with poorer prognostic features and/or aggressive disease. In head and neck cancer, a higher number of deaths within 3 months was observed in nivolumab compared to docetaxel. Factors associated with early deaths were ECOG performance status, fast progressive disease on prior platinum therapy and high tumour burden.
 
-## Urothelial carcinoma
-
-## Treatment of advanced urothelial carcinoma
+## Urothelial carcinoma Treatment of advanced urothelial carcinoma
 
 Patients with a baseline performance score ≥ 2, active brain metastases or leptomeningeal metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trials of urothelial carcinoma (see sections 4.5 and 5.1). In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Adjuvant treatment of urothelial carcinoma
 
@@ -619,15 +636,9 @@ Patients with a baseline performance score of ≥ 2 (except patients with a base
 
 Patients with a baseline performance score ≥ 2, active brain metastases or leptomeningeal metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trial in dMMR or MSI-H metastatic CRC (see sections 4.5 and 5.1). In the absence of data, nivolumab in combination with ipilimumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
-## Oesophageal squamous cell carcinoma
+## Oesophageal squamous cell carcinoma First-line treatment of OSCC
 
-## First-line treatment of OSCC
-
-Patients with a baseline performance score ≥ 2, any history of concurrent brain metastases, active autoimmune disease, medical conditions requiring systemic immunosuppression, or at high risk of bleeding or fistula due to apparent invasion of tumour to organs adjacent to the oesophageal tumour were excluded from the clinical trial in OSCC (see sections 4.5 and 5.1). In the absence of data,
-
-<div style=\"page-break-after: always\"></div>
-
-nivolumab in combination with ipilimumab or chemotherapy should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+Patients with a baseline performance score ≥ 2, any history of concurrent brain metastases, active autoimmune disease, medical conditions requiring systemic immunosuppression, or at high risk of bleeding or fistula due to apparent invasion of tumour to organs adjacent to the oesophageal tumour were excluded from the clinical trial in OSCC (see sections 4.5 and 5.1). In the absence of data, nivolumab in combination with ipilimumab or chemotherapy should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
 In the first-line OSCC trial, a higher number of deaths within 4 months was observed with nivolumab in combination with ipilimumab compared to chemotherapy. Physicians should consider the delayed onset of effect of nivolumab in combination with ipilimumab before initiating treatment in patients with poorer prognostic features and/or aggressive disease (see section 5.1).
 
@@ -645,7 +656,11 @@ Patients with a baseline performance score ≥ 2, who did not receive concurrent
 
 ## Gastric, gastro-oesophageal junction or oesophageal adenocarcinoma
 
-Patients who had baseline ECOG performance score ≥ 2, untreated central nervous system metastases, active, known, or suspected autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical study in gastric, GEJ or oesophageal adenocarcinoma (see sections 4.5 and 5.1). In the absence of data, nivolumab in combination with chemotherapy should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+Patients who had baseline ECOG performance score ≥ 2, untreated central nervous system metastases, active, known, or suspected autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical study in gastric, GEJ or oesophageal
+
+<div style=\"page-break-after: always\"></div>
+
+adenocarcinoma (see sections 4.5 and 5.1). In the absence of data, nivolumab in combination with chemotherapy should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
 Study CA209649 excluded patients with known HER2-positive status. Patients with undetermined status were allowed in the study and represented 40.3% of patients (see section 5.1).
 
@@ -654,8 +669,6 @@ Study CA209649 excluded patients with known HER2-positive status. Patients with 
 Patients who had baseline ECOG performance score ≥ 2, prior liver transplant, Child-Pugh C liver disease, a history of concurrent brain metastases, a history of hepatic encephalopathy (within 12 months of randomisation), clinically significant ascites, infection with HIV, or active co-infection with hepatitis B virus (HBV) and hepatitis C virus (HCV) or HBV and hepatitis D virus (HDV), active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical study in HCC (see sections 4.5 and 5.1). Limited data are available in HCC patients with Child-Pugh B. In the absence of data, nivolumab in combination with ipilimumab followed by nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
 In HCC, a higher number of deaths within 6 months was observed with nivolumab in combination with ipilimumab compared to lenvatinib or sorafenib. A higher risk of death may be associated with poor prognostic features. Physicians should consider this risk before initiating treatment with nivolumab in combination with ipilimumab in patients with poor prognostic features.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Patients on controlled sodium diet
 
@@ -679,6 +692,8 @@ Nivolumab is a human monoclonal antibody, as such pharmacokinetic interaction st
 
 The use of systemic corticosteroids and other immunosuppressants at baseline, before starting nivolumab, should be avoided because of their potential interference with the pharmacodynamic activity. However, systemic corticosteroids and other immunosuppressants can be used after starting nivolumab to treat immune-related adverse reactions. The preliminary results show that systemic immunosuppression after starting nivolumab treatment does not appear to preclude the response on nivolumab.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Pregnancy
@@ -689,15 +704,13 @@ There are no data from the use of nivolumab in pregnant women. Studies in animal
 
 It is unknown whether nivolumab is secreted in human milk. Because many medicinal products, including antibodies, can be secreted in human milk, a risk to the newborns/infants cannot be excluded. A decision must be made whether to discontinue breast-feeding or to discontinue from nivolumab therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Fertility
 
 Studies to evaluate the effect of nivolumab on fertility have not been performed. Thus, the effect of nivolumab on male and female fertility is unknown.
 
 ## 4.7 Effects on ability to drive and use machines
 
-Nivolumab or nivolumab in combination with ipilimumab may have a minor influence on the ability to drive and use machines. Because of potential adverse reactions such as fatigue (see section 4.8), patients should be advised to use caution when driving or operating machinery until they are certain that nivolumab does not adversely affect them.
+Nivolumab or nivolumab in combination with ipilimumab or other therapeutic agents may have a minor influence on the ability to drive and use machines. Because of potential adverse reactions such as fatigue (see section 4.8), patients should be advised to use caution when driving or operating machinery until they are certain that nivolumab does not adversely affect them.
 
 ## 4.8 Undesirable effects
 
@@ -709,9 +722,11 @@ In the pooled dataset of nivolumab as monotherapy across tumour types (n = 4646)
 
 ## Tabulated summary of adverse reactions
 
-Adverse reactions reported in the pooled dataset for patients treated with nivolumab monotherapy (n = 4646) are presented in Table 16. These reactions are presented by system organ class and by frequency. Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from available post-marketing data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+Adverse reactions reported in the pooled dataset for patients treated with nivolumab monotherapy (n = 4646) are presented in Table 17. These reactions are presented by system organ class and by frequency. Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from available post-marketing data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
-Table 16: Adverse reactions with nivolumab monotherapy
+<div style=\"page-break-after: always\"></div>
+
+Table 17: Adverse reactions with nivolumab monotherapy
 
 |                                                                          | Nivolumab monotherapy                                                                                               |
 |--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
@@ -729,58 +744,53 @@ Table 16: Adverse reactions with nivolumab monotherapy
 | Common                                                                   | infusion related reaction (including cytokine release syndrome), hypersensitivity (including anaphylactic reaction) |
 | Uncommon                                                                 | sarcoidosis                                                                                                         |
 | Not known                                                                | solid organ transplant rejection f                                                                                  |
-
-<div style=\"page-break-after: always\"></div>
-
-|                                                 | Nivolumab monotherapy                                                                          |
-|-------------------------------------------------|------------------------------------------------------------------------------------------------|
-| Endocrine disorders                             | Endocrine disorders                                                                            |
-| Common                                          | hypothyroidism, hyperthyroidism, thyroiditis                                                   |
-| Uncommon                                        | adrenal insufficiency j , hypopituitarism, hypophysitis, diabetes mellitus                     |
-| Rare                                            | diabetic ketoacidosis, hypoparathyroidism                                                      |
-| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                                             |
-| Very common                                     | decreased appetite, hyperglycaemia b                                                           |
-| Common                                          | dehydration, weight decreased, hypoglycaemia b                                                 |
-| Uncommon                                        | metabolic acidosis                                                                             |
-| Not known                                       | tumour lysis syndrome g                                                                        |
-| Nervous system disorders                        | Nervous system disorders                                                                       |
-| Very common                                     | headache                                                                                       |
-| Common                                          | peripheral neuropathy, dizziness                                                               |
-| Uncommon                                        | polyneuropathy, autoimmune neuropathy (including facial and abducens nerve paresis)            |
-| Rare                                            | Guillain-Barré syndrome, demyelination, myasthenic syndrome, encephalitis a,k , optic neuritis |
-| Not known                                       | myelitis (including transverse myelitis)                                                       |
-| Eye disorders                                   | Eye disorders                                                                                  |
-| Common                                          | blurred vision, dry eye                                                                        |
-| Uncommon                                        | uveitis                                                                                        |
-| Not known                                       | Vogt-Koyanagi-Harada syndrome f                                                                |
-| Cardiac disorders                               | Cardiac disorders                                                                              |
-| Common                                          | tachycardia, atrial fibrillation                                                               |
-| Uncommon                                        | myocarditis a , pericardial disorders h , arrhythmia (including ventricular arrhythmia)        |
-| Vascular disorders                              | Vascular disorders                                                                             |
-| Common                                          | hypertension                                                                                   |
-| Rare                                            | vasculitis                                                                                     |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                |
-| Very common                                     | dyspnoea a , cough                                                                             |
-| Common                                          | pneumonitis a , pleural effusion                                                               |
-| Uncommon                                        | lung infiltration                                                                              |
-| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                     |
-| Very common                                     | diarrhoea, vomiting, nausea, abdominal pain, constipation                                      |
-| Common                                          | colitis a , stomatitis, dry mouth                                                              |
-| Uncommon                                        | pancreatitis, gastritis                                                                        |
-| Rare                                            | duodenal ulcer, pancreatic exocrine insufficiency, coeliac disease                             |
-| Hepatobiliary disorders                         | Hepatobiliary disorders                                                                        |
-| Uncommon                                        | hepatitis, cholestasis                                                                         |
-| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                                         |
-| Very common                                     | rash c , pruritus                                                                              |
-| Common                                          | vitiligo, dry skin, erythema, alopecia                                                         |
-| Uncommon                                        | psoriasis, rosacea, erythema multiforme, urticaria                                             |
-| Rare                                            | toxic epidermal necrolysis a, d , Stevens-Johnson syndrome a                                   |
-| Not known                                       | lichen sclerosus g , other lichen disorders                                                    |
+| Endocrine disorders                                                      | Endocrine disorders                                                                                                 |
+| Common                                                                   | hypothyroidism, hyperthyroidism, thyroiditis                                                                        |
+| Uncommon                                                                 | adrenal insufficiency j , hypopituitarism, hypophysitis, diabetes mellitus                                          |
+| Rare                                                                     | diabetic ketoacidosis, hypoparathyroidism                                                                           |
+| Metabolism and nutrition disorders                                       | Metabolism and nutrition disorders                                                                                  |
+| Very common                                                              | decreased appetite, hyperglycaemia b                                                                                |
+| Common                                                                   | dehydration, weight decreased, hypoglycaemia b                                                                      |
+| Uncommon                                                                 | metabolic acidosis                                                                                                  |
+| Not known                                                                | tumour lysis syndrome g                                                                                             |
+| Nervous system disorders                                                 | Nervous system disorders                                                                                            |
+| Very common                                                              | headache                                                                                                            |
+| Common                                                                   | peripheral neuropathy, dizziness                                                                                    |
+| Uncommon                                                                 | polyneuropathy, autoimmune neuropathy (including facial and abducens nerve paresis)                                 |
+| Rare                                                                     | Guillain-Barré syndrome, demyelination, myasthenic syndrome, encephalitis a,k , optic neuritis                      |
+| Not known                                                                | myelitis (including transverse myelitis)                                                                            |
+| Eye disorders                                                            | Eye disorders                                                                                                       |
+| Common                                                                   | blurred vision, dry eye                                                                                             |
+| Uncommon                                                                 | uveitis                                                                                                             |
+| Not known                                                                | Vogt-Koyanagi-Harada syndrome f                                                                                     |
+| Cardiac disorders                                                        | Cardiac disorders                                                                                                   |
+| Common                                                                   | tachycardia, atrial fibrillation                                                                                    |
+| Uncommon                                                                 | myocarditis a , pericardial disorders h , arrhythmia (including ventricular arrhythmia)                             |
+| Vascular disorders                                                       | Vascular disorders                                                                                                  |
+| Common                                                                   | hypertension                                                                                                        |
+| Rare                                                                     | vasculitis                                                                                                          |
+| Respiratory, thoracic and mediastinal disorders                          | Respiratory, thoracic and mediastinal disorders                                                                     |
+| Very common                                                              | dyspnoea a , cough                                                                                                  |
+| Common                                                                   | pneumonitis a , pleural effusion                                                                                    |
+| Uncommon                                                                 | lung infiltration                                                                                                   |
 
 <div style=\"page-break-after: always\"></div>
 
 |                                                      | Nivolumab monotherapy                                                                                                                                                                                                                 |
 |------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                                                                                                                            |
+| Very common                                          | diarrhoea, vomiting, nausea, abdominal pain, constipation                                                                                                                                                                             |
+| Common                                               | colitis a , stomatitis, dry mouth                                                                                                                                                                                                     |
+| Uncommon                                             | pancreatitis, gastritis                                                                                                                                                                                                               |
+| Rare                                                 | duodenal ulcer, pancreatic exocrine insufficiency, coeliac disease                                                                                                                                                                    |
+| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                                                                                                                               |
+| Uncommon                                             | hepatitis, cholestasis                                                                                                                                                                                                                |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                                                                                                                |
+| Very common                                          | rash c , pruritus                                                                                                                                                                                                                     |
+| Common                                               | vitiligo, dry skin, erythema, alopecia                                                                                                                                                                                                |
+| Uncommon                                             | psoriasis, rosacea, erythema multiforme, urticaria                                                                                                                                                                                    |
+| Rare                                                 | toxic epidermal necrolysis a, d , Stevens-Johnson syndrome a                                                                                                                                                                          |
+| Not known                                            | lichen sclerosus g , other lichen disorders                                                                                                                                                                                           |
 | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                                                                                                       |
 | Very common                                          | musculoskeletal pain e , arthralgia                                                                                                                                                                                                   |
 | Common                                               | arthritis                                                                                                                                                                                                                             |
@@ -796,13 +806,16 @@ Table 16: Adverse reactions with nivolumab monotherapy
 | Very common                                          | increased AST, hyponatraemia, hypoalbuminaemia, increased alkaline phosphatase, increased creatinine, increased ALT, increased lipase, hyperkalaemia, increased amylase, hypocalcaemia, hypomagnesaemia, hypokalaemia, hypercalcaemia |
 | Common                                               | increased total bilirubin, hypernatraemia, hypermagnesaemia                                                                                                                                                                           |
 
-Adverse reaction frequencies presented in Table 16 may not be fully attributable to nivolumab alone but may contain contributions from the underlying disease.
+Adverse reaction frequencies presented in Table 17 may not be fully attributable to nivolumab alone but may contain contributions from the underlying disease.
 
 - a Fatal cases have been reported in completed or ongoing clinical studies.
 - b Frequencies of laboratory terms reflect the proportion of patients who experienced a worsening from baseline in laboratory measurements. See 'Description of selected adverse reactions; laboratory abnormalities' below.
 - c Rash is a composite term which includes rash maculopapular, rash erythematous, rash pruritic, rash follicular, rash macular, rash morbilliform, rash papular, rash pustular, rash vesicular, exfoliative rash, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis atopic, dermatitis bullous, dermatitis exfoliative, dermatitis psoriasiform, drug eruption and pemphigoid.
-- d Reported also in studies outside the pooled dataset. The frequency is based on the program-wide exposure.
-- e Musculoskeletal pain is a composite term which includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, myalgia intercostal, neck pain, pain in extremity, and spinal pain.
+- d Reported also in studies outside the pooled dataset. The frequency is based on the programme-wide exposure.
+- e Musculoskeletal pain is a composite term which includes back pain, bone pain, musculoskeletal chest pain,
+
+musculoskeletal discomfort, myalgia, myalgia intercostal, neck pain, pain in extremity, and spinal pain.
+
 - f Post-marketing event (also see section 4.4).
 - g Reported in clinical studies and in the post-marketing setting.
 - h Pericardial disorders is a composite term which includes pericarditis, pericardial effusion, cardiac tamponade, and Dressler's syndrome.
@@ -810,6 +823,8 @@ Adverse reaction frequencies presented in Table 16 may not be fully attributable
 - j Includes adrenal insufficiency, adrenocortical insufficiency acute, and secondary adrenocortical insufficiency.
 - k Includes encephalitis and limbic encephalitis.
 - l Oedema is a composite term which includes generalised oedema, oedema peripheral, peripheral swelling and swelling.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Nivolumab in combination with other therapeutic agents (see section 4.2)
 
@@ -819,11 +834,7 @@ When nivolumab is administered in combination, refer to the SmPC for the other t
 
 ## Nivolumab in combination with ipilimumab (with or without chemotherapy)
 
-In the pooled dataset of nivolumab administered in combination with ipilimumab (with or without chemotherapy) across tumour types (n = 2626) with minimum follow-up ranging from 6 to 47 months, the most frequent adverse reactions (≥ 10%) were fatigue (47%), diarrhoea (35%), rash (37%), nausea (27%), pruritus (29%), musculoskeletal pain (26%), pyrexia (23%), decreased appetite (22%), cough (21%), abdominal pain (18%), vomiting (18%), constipation (18%), arthralgia (18%), dyspnoea (17%), hypothyroidism (16%), headache (15%), upper respiratory tract infection (13%), oedema (13%), and dizziness (10%). The incidence of Grade 3-5 adverse reactions was 66% for nivolumab in combination with ipilimumab (with or without chemotherapy), with 1.0% fatal adverse reactions attributed to study drug. Among patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg for melanoma, fatigue (62%), rash (57%), diarrhoea (52%), nausea (42%),
-
-<div style=\"page-break-after: always\"></div>
-
-pruritus (40%), pyrexia (36%), and headache (26%) were reported at an incidence rate ≥ 10% higher than the rates reported in the pooled dataset of nivolumab in combination with ipilimumab (with or without chemotherapy) incidence rate. Among patients treated with nivolumab 360 mg in combination with ipilimumab 1 mg/kg and chemotherapy for NSCLC, anaemia (32%) and neutropaenia (15%) were reported at an incidence rate ≥ 10% higher than the rates reported in the pooled dataset of nivolumab in combination with ipilimumab (with or without chemotherapy) incidence rate.
+In the pooled dataset of nivolumab administered in combination with ipilimumab (with or without chemotherapy) across tumour types (n = 2626) with minimum follow-up ranging from 6 to 47 months, the most frequent adverse reactions (≥ 10%) were fatigue (47%), diarrhoea (35%), rash (37%), nausea (27%), pruritus (29%), musculoskeletal pain (26%), pyrexia (23%), decreased appetite (22%), cough (21%), abdominal pain (18%), vomiting (18%), constipation (18%), arthralgia (18%), dyspnoea (17%), hypothyroidism (16%), headache (15%), upper respiratory tract infection (13%), oedema (13%), and dizziness (10%). The incidence of Grade 3-5 adverse reactions was 66% for nivolumab in combination with ipilimumab (with or without chemotherapy), with 1.0% fatal adverse reactions attributed to study drug. Among patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg for melanoma, fatigue (62%), rash (57%), diarrhoea (52%), nausea (42%), pruritus (40%), pyrexia (36%), and headache (26%) were reported at an incidence rate ≥ 10% higher than the rates reported in the pooled dataset of nivolumab in combination with ipilimumab (with or without chemotherapy) incidence rate. Among patients treated with nivolumab 360 mg in combination with ipilimumab 1 mg/kg and chemotherapy for NSCLC, anaemia (32%) and neutropaenia (15%) were reported at an incidence rate ≥ 10% higher than the rates reported in the pooled dataset of nivolumab in combination with ipilimumab (with or without chemotherapy) incidence rate.
 
 ## Nivolumab in combination with chemotherapy
 
@@ -833,120 +844,126 @@ In the pooled dataset of nivolumab 240 mg every 2 weeks or 360 mg every 3 weeks 
 
 In the dataset of nivolumab 240 mg every 2 weeks in combination with cabozantinib 40 mg once daily in RCC (n =320), with a minimum follow -up of 16.0 months, the most frequent adverse reactions (≥ 10%) were diarrhoea (64.7%), fatigue (51.3%), -palmar plantar erythrodysaesthesia syndrome (40.0%), stomatitis (38.8%), musculoskeletal pain (37.5%), hypertension (37.2%), rash (36.3%), hypothyroidism (35.6%), decreased appetite (30.3%), nausea (28.8%), abdominal pain (25.0%), dysgeusia (23.8%), upper respiratory tract infection (20.6%), cough (20.6%), pruritus (20.6%), arthralgia (19.4%), vomiting (18.4%), dysphonia (17.8%), headache (16.3%), dyspepsia (15.9%), dizziness (14.1%), constipation (14.1%), pyrexia (14.1%), oedema (13.4%), muscle spasm (12.2%), dyspnoea (11.6%), proteinuria (10.9%) and hyperthyroidism (10.0%). The incidence of Grade 3-5 adverse reactions was 78%, with 0.3% fatal adverse reactions attributed to study drug.
 
+## Nivolumab in combination with brentuximab vedotin
+
+In the dataset of nivolumab 3 mg/kg every 3 weeks in combination with brentuximab vedotin 1.8 mg/kg every 3 weeks in all treated patients with relapse or refractory cHL (n = 72), with a minimum follow-up of 40.7 months, the most frequent adverse reactions (≥ 10%) were nausea (50.0%), rash (29.2%), pyrexia (26.4%), headache (25.0%), diarrhoea (25.0%), musculoskeletal pain
+
+<div style=\"page-break-after: always\"></div>
+
+(25.0%), abdominal pain (22.2%), hypersensitivity (20.8%), infusion related reaction (18.1%), vomiting (18.1%), fatigue (18.1%), transaminases increased (13.9%), and constipation (11.1%). The incidence of Grade 3-5 adverse reactions was 36.1%. No fatal drug related adverse reactions were reported.
+
 ## Tabulated summary of adverse reactions
 
-Adverse reactions reported in the pooled dataset for patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy) (n = 2626), nivolumab in combination with chemotherapy (n = 1800), and nivolumab in combination with cabozantinib (n = 320) are presented in Table 17. These reactions are presented by system organ class and by frequency. Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000), not known (cannot be estimated from available post-marketing data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+Adverse reactions reported in the pooled dataset for patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy) (n = 2626), nivolumab in combination with chemotherapy (n = 1800), and nivolumab in combination with cabozantinib (n = 320) are presented in Table 18. These reactions are presented by system organ class and by frequency. Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000), not known (cannot be estimated from available post-marketing data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
-| Table 17:                   | Adverse reactions with nivolumab in combination with other therapeutic agents   | Adverse reactions with nivolumab in combination with other therapeutic agents   | Adverse reactions with nivolumab in combination with other therapeutic agents   |
-|-----------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-|                             | Combination with ipilimumab (with or without chemotherapy)                      | Combination with chemotherapy                                                   | Combination with cabozantinib                                                   |
-| Infections and infestations | Infections and infestations                                                     | Infections and infestations                                                     | Infections and infestations                                                     |
-| Very common                 | upper respiratory tract infection                                               |                                                                                 | upper respiratory tract infection                                               |
-| Common                      | pneumonia, bronchitis, conjunctivitis                                           | upper respiratory tract infection, pneumonia a                                  | pneumonia                                                                       |
-| Rare                        | aseptic meningitis                                                              |                                                                                 |                                                                                 |
-
-<div style=\"page-break-after: always\"></div>
-
-|                                      | Combination with ipilimumab (with or without chemotherapy)                                            | Combination with chemotherapy                                                       | Combination with cabozantinib                                                     |
-|--------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                                  | Blood and lymphatic system disorders                                                | Blood and lymphatic system disorders                                              |
-| Very common                          | anaemia b,j , thrombocytopaenia b , leucopoenia b , lymphopaenia b , neutropaenia b                   | neutropaenia b , anaemia b,j , leucopoenia b , lymphopaenia b , thrombocytopaenia b | anaemia b , thrombocytopaenia b , leucopoenia b , lymphopaenia b , neutropaenia b |
-| Common                               | eosinophilia                                                                                          | febrile neutropaenia a                                                              | eosinophilia                                                                      |
-| Uncommon                             | febrile neutropaenia                                                                                  | eosinophilia                                                                        |                                                                                   |
-| Not known                            | haemophagocytic lymphohistiocytosis                                                                   |                                                                                     |                                                                                   |
-| Immune system disorders              | Immune system disorders                                                                               | Immune system disorders                                                             | Immune system disorders                                                           |
-| Common                               | infusion related reaction (including cytokine release syndrome), hypersensitivity                     | hypersensitivity, infusion related reaction (including cytokine release syndrome)   | hypersensitivity (including anaphylactic reaction)                                |
-| Uncommon                             |                                                                                                       |                                                                                     | infusion related hypersensitivity reaction                                        |
-| Rare                                 | sarcoidosis                                                                                           |                                                                                     |                                                                                   |
-| Not known                            | solid organ transplant rejection g                                                                    |                                                                                     |                                                                                   |
-| Endocrine disorders                  | Endocrine disorders                                                                                   | Endocrine disorders                                                                 | Endocrine disorders                                                               |
-| Very common                          | hypothyroidism                                                                                        |                                                                                     | hypothyroidism, hyperthyroidism                                                   |
-| Common                               | hyperthyroidism, thyroiditis, adrenal insufficiency, hypophysitis, hypopituitarism, diabetes mellitus | hypothyroidism, hyperthyroidism, diabetes mellitus                                  | adrenal insufficiency                                                             |
-| Uncommon                             | diabetic ketoacidosis                                                                                 | adrenal insufficiency, thyroiditis, hypopituitarism, hypophysitis                   | hypophysitis, thyroiditis                                                         |
-| Rare                                 | hypoparathyroidism                                                                                    |                                                                                     |                                                                                   |
-| Metabolism and nutrition disorders   | Metabolism and nutrition disorders                                                                    | Metabolism and nutrition disorders                                                  | Metabolism and nutrition disorders                                                |
-| Very common                          | decreased appetite, hyperglycaemia b , hypoglycaemia b                                                | decreased appetite, hyperglycaemia b , hypoglycaemia b                              | decreased appetite, hypoglycaemia b , hyperglycaemia b , weight decreased         |
-| Common                               | dehydration, hypoalbuminaemia, hypophosphataemia, weight decreased                                    | hypoalbuminaemia, hypophosphataemia                                                 | dehydration                                                                       |
-| Uncommon                             | metabolic acidosis                                                                                    |                                                                                     |                                                                                   |
-| Rare                                 |                                                                                                       | tumour lysis syndrome                                                               |                                                                                   |
-| Not known                            | tumour lysis syndrome h                                                                               |                                                                                     |                                                                                   |
+| Table 18:                            | Combination with ipilimumab (with or without chemotherapy)                          | Combination with chemotherapy                                                       | Combination with cabozantinib                                                     |
+|--------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| Infections and infestations          | Infections and infestations                                                         | Infections and infestations                                                         | Infections and infestations                                                       |
+| Very common                          | upper respiratory tract infection                                                   |                                                                                     | upper respiratory tract infection                                                 |
+| Common                               | pneumonia, bronchitis, conjunctivitis                                               | upper respiratory tract infection, pneumonia a                                      | pneumonia                                                                         |
+| Rare                                 | aseptic meningitis                                                                  |                                                                                     |                                                                                   |
+| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                | Blood and lymphatic system disorders                                                | Blood and lymphatic system disorders                                              |
+| Very common                          | anaemia b,j , thrombocytopaenia b , leucopoenia b , lymphopaenia b , neutropaenia b | neutropaenia b , anaemia b,j , leucopoenia b , lymphopaenia b , thrombocytopaenia b | anaemia b , thrombocytopaenia b , leucopoenia b , lymphopaenia b , neutropaenia b |
+| Common                               | eosinophilia                                                                        | febrile neutropaenia a                                                              | eosinophilia                                                                      |
+| Uncommon                             | febrile neutropaenia                                                                | eosinophilia                                                                        |                                                                                   |
+| Not known                            | haemophagocytic lymphohistiocytosis                                                 |                                                                                     |                                                                                   |
+| Immune system disorders              | Immune system disorders                                                             | Immune system disorders                                                             | Immune system disorders                                                           |
+| Common                               | infusion related reaction (including cytokine release syndrome), hypersensitivity   | hypersensitivity, infusion related reaction (including cytokine release syndrome)   | hypersensitivity (including anaphylactic reaction)                                |
+| Uncommon                             |                                                                                     |                                                                                     | infusion related hypersensitivity reaction                                        |
+| Rare                                 | sarcoidosis                                                                         |                                                                                     |                                                                                   |
+| Not known                            | solid organ transplant rejection g                                                  |                                                                                     |                                                                                   |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                 | Combination with ipilimumab (with or without chemotherapy)                                                                                 | Combination with chemotherapy                            | Combination with cabozantinib                                         |
-|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------|
-| Nervous system disorders                        | Nervous system disorders                                                                                                                   | Nervous system disorders                                 | Nervous system disorders                                              |
-| Very common                                     | headache                                                                                                                                   | peripheral neuropathy                                    | dysgeusia, dizziness, headache                                        |
-| Common                                          | dizziness, peripheral neuropathy                                                                                                           | paraesthesia, dizziness, headache                        | peripheral neuropathy                                                 |
-| Uncommon                                        | polyneuropathy, peroneal nerve palsy, autoimmune neuropathy (including facial and abducens nerve paresis), encephalitis, myasthenia gravis | Guillain-Barré syndrome                                  | encephalitis autoimmune, Guillain-Barré syndrome, myasthenic syndrome |
-| Rare                                            | Guillain-Barré syndrome, neuritis, myelitis (including transverse myelitis), optic neuritis                                                | encephalitis                                             |                                                                       |
-| Not known                                       |                                                                                                                                            | myelitis (including transverse myelitis), optic neuritis |                                                                       |
-| Ear and labyrinth disorders                     | Ear and labyrinth disorders                                                                                                                | Ear and labyrinth disorders                              | Ear and labyrinth disorders                                           |
-| Common                                          |                                                                                                                                            |                                                          | tinnitus                                                              |
-| Eye disorders                                   | Eye disorders                                                                                                                              | Eye disorders                                            | Eye disorders                                                         |
-| Common                                          | blurred vision, dry eye                                                                                                                    | dry eye, blurred vision                                  | dry eye, blurred vision                                               |
-| Uncommon                                        | uveitis, episcleritis                                                                                                                      | uveitis                                                  | uveitis                                                               |
-| Rare                                            | Vogt Koyanagi Harada syndrome                                                                                                              |                                                          |                                                                       |
-| Cardiac disorders                               | Cardiac disorders                                                                                                                          | Cardiac disorders                                        | Cardiac disorders                                                     |
-| Common                                          | tachycardia, atrial fibrillation                                                                                                           | tachycardia, atrial fibrillation                         | atrial fibrillation, tachycardia                                      |
-| Uncommon                                        | myocarditis a , arrhythmia (including ventricular arrhythmia) a , bradycardia                                                              | myocarditis                                              | myocarditis                                                           |
-| Not known                                       | pericardial disorders i                                                                                                                    |                                                          |                                                                       |
-| Vascular disorders                              | Vascular disorders                                                                                                                         | Vascular disorders                                       | Vascular disorders                                                    |
-| Very common                                     |                                                                                                                                            |                                                          | hypertension                                                          |
-| Common                                          | hypertension                                                                                                                               | thrombosis a, k , hypertension, vasculitis               | thrombosis k                                                          |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                            | Respiratory, thoracic and mediastinal disorders          | Respiratory, thoracic and mediastinal disorders                       |
-| Very common                                     | cough, dyspnoea                                                                                                                            | cough                                                    | dysphonia, dyspnoea, cough                                            |
-| Common                                          | pneumonitis a , pulmonary embolism a , pleural effusion                                                                                    | pneumonitis a , dyspnoea                                 | pneumonitis, pulmonary embolism, pleural effusion, epistaxis          |
+|                                    | Combination with ipilimumab (with or without chemotherapy)                                                                                 | Combination with chemotherapy                                     | Combination with cabozantinib                                             |
+|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Endocrine disorders                | Endocrine disorders                                                                                                                        | Endocrine disorders                                               | Endocrine disorders                                                       |
+| Very common                        | hypothyroidism                                                                                                                             |                                                                   | hypothyroidism, hyperthyroidism                                           |
+| Common                             | hyperthyroidism, thyroiditis, adrenal insufficiency, hypophysitis, hypopituitarism, diabetes mellitus                                      | hypothyroidism, hyperthyroidism, diabetes mellitus                | adrenal insufficiency                                                     |
+| Uncommon                           | diabetic ketoacidosis                                                                                                                      | adrenal insufficiency, thyroiditis, hypopituitarism, hypophysitis | hypophysitis, thyroiditis                                                 |
+| Rare                               | hypoparathyroidism                                                                                                                         |                                                                   |                                                                           |
+| Metabolism and nutrition disorders | Metabolism and nutrition disorders                                                                                                         | Metabolism and nutrition disorders                                | Metabolism and nutrition disorders                                        |
+| Very common                        | decreased appetite, hyperglycaemia b , hypoglycaemia b                                                                                     | decreased appetite, hyperglycaemia b , hypoglycaemia b            | decreased appetite, hypoglycaemia b , hyperglycaemia b , weight decreased |
+| Common                             | dehydration, hypoalbuminaemia, hypophosphataemia, weight decreased                                                                         | hypoalbuminaemia, hypophosphataemia                               | dehydration                                                               |
+| Uncommon                           | metabolic acidosis                                                                                                                         |                                                                   |                                                                           |
+| Rare                               |                                                                                                                                            | tumour lysis syndrome                                             |                                                                           |
+| Not known                          | tumour lysis syndrome h                                                                                                                    |                                                                   |                                                                           |
+| Nervous system disorders           | Nervous system disorders                                                                                                                   | Nervous system disorders                                          | Nervous system disorders                                                  |
+| Very common                        | headache                                                                                                                                   | peripheral neuropathy                                             | dysgeusia, dizziness, headache                                            |
+| Common                             | dizziness, peripheral neuropathy                                                                                                           | paraesthesia, dizziness, headache                                 | peripheral neuropathy                                                     |
+| Uncommon                           | polyneuropathy, peroneal nerve palsy, autoimmune neuropathy (including facial and abducens nerve paresis), encephalitis, myasthenia gravis | Guillain-Barré syndrome                                           | encephalitis autoimmune, Guillain-Barré syndrome, myasthenic syndrome     |
+| Rare                               | Guillain-Barré syndrome, neuritis, myelitis (including transverse myelitis), optic neuritis                                                | encephalitis                                                      |                                                                           |
+| Not known                          |                                                                                                                                            | myelitis (including transverse myelitis), optic neuritis          |                                                                           |
+| Ear and labyrinth disorders        | Ear and labyrinth disorders                                                                                                                | Ear and labyrinth disorders                                       | Ear and labyrinth disorders                                               |
+| Common                             |                                                                                                                                            |                                                                   | tinnitus                                                                  |
+| Eye disorders                      | Eye disorders                                                                                                                              | Eye disorders                                                     | Eye disorders                                                             |
+| Common                             | blurred vision, dry eye                                                                                                                    | dry eye, blurred vision                                           | dry eye, blurred vision                                                   |
+| Uncommon                           | uveitis, episcleritis                                                                                                                      | uveitis                                                           | uveitis                                                                   |
+| Rare                               | Vogt Koyanagi Harada syndrome                                                                                                              |                                                                   |                                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                 | Combination with ipilimumab (with or without chemotherapy)                         | Combination with chemotherapy                                                                     | Combination with cabozantinib                                                    |
-|-------------------------------------------------|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| Gastrointestinal disorders                      | Gastrointestinal disorders                                                         | Gastrointestinal disorders                                                                        | Gastrointestinal disorders                                                       |
-| Very common                                     | diarrhoea, vomiting, nausea, abdominal pain, constipation                          | diarrhoea a , stomatitis, vomiting, nausea, abdominal pain, constipation                          | diarrhoea, vomiting, nausea, constipation, stomatitis, abdominal pain, dyspepsia |
-| Common                                          | colitis a , pancreatitis, stomatitis, gastritis, dry mouth                         | colitis, dry mouth                                                                                | colitis, gastritis, oral pain, dry mouth, haemorrhoids                           |
-| Uncommon                                        | duodenitis                                                                         | pancreatitis                                                                                      | pancreatitis, small intestine perforation a , glossodynia                        |
-| Rare                                            | intestinal perforation a , pancreatic exocrine insufficiency, coeliac disease      |                                                                                                   |                                                                                  |
-| Not known                                       |                                                                                    | pancreatic exocrine insufficiency, coeliac disease                                                | pancreatic exocrine insufficiency, coeliac disease                               |
-| Hepatobiliary disorders                         | Hepatobiliary disorders                                                            | Hepatobiliary disorders                                                                           | Hepatobiliary disorders                                                          |
-| Common                                          | hepatitis                                                                          |                                                                                                   | hepatitis                                                                        |
-| Uncommon                                        |                                                                                    | hepatitis                                                                                         |                                                                                  |
-| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                             | Skin and subcutaneous tissue disorders                                                            | Skin and subcutaneous tissue disorders                                           |
-| Very common                                     | rash c , pruritus                                                                  | rash c , pruritus                                                                                 | palmar-plantar erythrodysaesthesia syndrome, rash c , pruritus                   |
-| Common                                          | alopecia, vitiligo, urticaria, dry skin, erythema                                  | palmar-plantar erythrodysaesthesia syndrome, skin hyperpigmentation, alopecia, dry skin, erythema | alopecia, dry skin, erythema, hair colour change                                 |
-| Uncommon                                        | Stevens-Johnson syndrome, erythema multiforme, psoriasis, other lichen disorders d |                                                                                                   | psoriasis, urticaria                                                             |
-| Rare                                            | toxic epidermal necrolysis a,e , lichen sclerosus                                  |                                                                                                   |                                                                                  |
-| Not known                                       |                                                                                    |                                                                                                   | lichen sclerosus, other lichen disorders                                         |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                    | Musculoskeletal and connective tissue disorders                                                   | Musculoskeletal and connective tissue disorders                                  |
-| Very common                                     | musculoskeletal pain f , arthralgia                                                | musculoskeletal pain f                                                                            | musculoskeletal pain f , arthralgia, muscle spasm                                |
-| Common                                          | muscle spasms, muscular weakness, arthritis                                        | arthralgia, muscular weakness                                                                     | arthritis                                                                        |
-| Uncommon                                        | polymyalgia rheumatica, myopathy, myositis (including polymyositis) a              |                                                                                                   | myopathy, osteonecrosis of the jaw, fistula                                      |
-| Rare                                            | spondyloarthropathy, Sjogren's syndrome, rhabdomyolysis a                          |                                                                                                   |                                                                                  |
+|                                                 | Combination with ipilimumab (with or without chemotherapy)                    | Combination with chemotherapy                                            | Combination with cabozantinib                                                    |
+|-------------------------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| Cardiac disorders                               | Cardiac disorders                                                             | Cardiac disorders                                                        | Cardiac disorders                                                                |
+| Common                                          | tachycardia, atrial fibrillation                                              | tachycardia, atrial fibrillation                                         | atrial fibrillation, tachycardia                                                 |
+| Uncommon                                        | myocarditis a , arrhythmia (including ventricular arrhythmia) a , bradycardia | myocarditis                                                              | myocarditis                                                                      |
+| Not known                                       | pericardial disorders i                                                       |                                                                          |                                                                                  |
+| Vascular disorders                              | Vascular disorders                                                            | Vascular disorders                                                       | Vascular disorders                                                               |
+| Very common                                     |                                                                               |                                                                          | hypertension                                                                     |
+| Common                                          | hypertension                                                                  | thrombosis a, k , hypertension, vasculitis                               | thrombosis k                                                                     |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                               | Respiratory, thoracic and mediastinal disorders                          | Respiratory, thoracic and mediastinal disorders                                  |
+| Very common                                     | cough, dyspnoea                                                               | cough                                                                    | dysphonia, dyspnoea, cough                                                       |
+| Common                                          | pneumonitis a , pulmonary embolism a , pleural effusion                       | pneumonitis a , dyspnoea                                                 | pneumonitis, pulmonary embolism, pleural effusion, epistaxis                     |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                                                    | Gastrointestinal disorders                                               | Gastrointestinal disorders                                                       |
+| Very common                                     | diarrhoea, vomiting, nausea, abdominal pain, constipation                     | diarrhoea a , stomatitis, vomiting, nausea, abdominal pain, constipation | diarrhoea, vomiting, nausea, constipation, stomatitis, abdominal pain, dyspepsia |
+| Common                                          | colitis a , pancreatitis, stomatitis, gastritis, dry mouth                    | colitis, dry mouth                                                       | colitis, gastritis, oral pain, dry mouth, haemorrhoids                           |
+| Uncommon                                        | duodenitis                                                                    | pancreatitis                                                             | pancreatitis, small intestine perforation a , glossodynia                        |
+| Rare                                            | intestinal perforation a , pancreatic exocrine insufficiency, coeliac disease |                                                                          |                                                                                  |
+| Not known                                       |                                                                               | pancreatic exocrine insufficiency, coeliac disease                       | pancreatic exocrine insufficiency, coeliac disease                               |
+| Hepatobiliary disorders                         | Hepatobiliary disorders                                                       | Hepatobiliary disorders                                                  | Hepatobiliary disorders                                                          |
+| Common                                          | hepatitis                                                                     |                                                                          | hepatitis                                                                        |
+| Uncommon                                        |                                                                               | hepatitis                                                                |                                                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                      | Combination with ipilimumab (with or without chemotherapy)                                                                                                                                                                                                                           | Combination with chemotherapy                                                                                                                                                                                                                                     | Combination with cabozantinib                                                                                                                                                                                                                                                                                                                      |
-|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                                                                                                                                                          | Renal and urinary disorders                                                                                                                                                                                                                                       | Renal and urinary disorders                                                                                                                                                                                                                                                                                                                        |
-| Very common                                          |                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                   | proteinuria                                                                                                                                                                                                                                                                                                                                        |
-| Common                                               | renal failure (including acute kidney injury) a                                                                                                                                                                                                                                      | renal failure a                                                                                                                                                                                                                                                   | renal failure, acute kidney injury                                                                                                                                                                                                                                                                                                                 |
-| Uncommon                                             | tubulointerstitial nephritis, nephritis                                                                                                                                                                                                                                              | cystitis noninfective, nephritis                                                                                                                                                                                                                                  | nephritis                                                                                                                                                                                                                                                                                                                                          |
-| Rare                                                 | cystitis noninfective                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                   | cystitis noninfective h                                                                                                                                                                                                                                                                                                                            |
-| General disorders and administration site conditions | General disorders and administration site conditions                                                                                                                                                                                                                                 | General disorders and administration site conditions                                                                                                                                                                                                              | General disorders and administration site conditions                                                                                                                                                                                                                                                                                               |
-| Very common                                          | fatigue, pyrexia, oedema (including peripheral oedema)                                                                                                                                                                                                                               | fatigue, pyrexia, oedema (including peripheral oedema)                                                                                                                                                                                                            | fatigue, pyrexia, oedema                                                                                                                                                                                                                                                                                                                           |
-| Common                                               | chest pain, pain, chills                                                                                                                                                                                                                                                             | malaise                                                                                                                                                                                                                                                           | pain, chest pain                                                                                                                                                                                                                                                                                                                                   |
-| Investigations                                       | Investigations                                                                                                                                                                                                                                                                       | Investigations                                                                                                                                                                                                                                                    | Investigations                                                                                                                                                                                                                                                                                                                                     |
-| Very common                                          | increased alkaline phosphatase b , increased AST b , increased ALT b , increased total bilirubin b , increased creatinine b , increased amylase b , increased lipase b , hyponatraemia b , hyperkalaemia b , hypokalaemia b , hypercalcaemia b , hypocalcaemia b , hypomagnesaemia b | hypocalcaemia b , increased AST b , increased ALT b , hyponatraemia b , increased amylase b , hypomagnesaemia b , increased alkaline phosphatase b , hypokalaemia b , increased creatinine b , increased lipase b , hyperkalaemia b , increased total bilirubin b | increased alkaline phosphatase b , increased ALT b , increased AST b , increased total bilirubin b , increased creatinine b , increased amylase b , increased lipase b , hypokalaemia b , hypomagnesaemia b , hyponatraemia b , hypocalcaemia b , hypercalcaemia b , hypophosphataemia b , hyperkalaemia b , hypermagnesaemia b , hypernatraemia b |
-| Common                                               | hypernatraemia b , hypermagnesaemia b , increased thyroid stimulating hormone, increased gamma- glutamyltransferase                                                                                                                                                                  | hypernatraemia b , hypercalcaemia b , hypermagnesaemia b                                                                                                                                                                                                          | blood cholesterol increased, hypertriglyceridaemia                                                                                                                                                                                                                                                                                                 |
+|                                                      | Combination with ipilimumab (with or without chemotherapy)                         | Combination with chemotherapy                                                                     | Combination with cabozantinib                                  |
+|------------------------------------------------------|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                             | Skin and subcutaneous tissue disorders                                                            | Skin and subcutaneous tissue disorders                         |
+| Very common                                          | rash c , pruritus                                                                  | rash c , pruritus                                                                                 | palmar-plantar erythrodysaesthesia syndrome, rash c , pruritus |
+| Common                                               | alopecia, vitiligo, urticaria, dry skin, erythema                                  | palmar-plantar erythrodysaesthesia syndrome, skin hyperpigmentation, alopecia, dry skin, erythema | alopecia, dry skin, erythema, hair colour change               |
+| Uncommon                                             | Stevens-Johnson syndrome, erythema multiforme, psoriasis, other lichen disorders d |                                                                                                   | psoriasis, urticaria                                           |
+| Rare                                                 | toxic epidermal necrolysis a,e , lichen sclerosus                                  |                                                                                                   |                                                                |
+| Not known                                            |                                                                                    |                                                                                                   | lichen sclerosus, other lichen disorders                       |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                    | Musculoskeletal and connective tissue disorders                                                   | Musculoskeletal and connective tissue disorders                |
+| Very common                                          | musculoskeletal pain f , arthralgia                                                | musculoskeletal pain f                                                                            | musculoskeletal pain f , arthralgia, muscle spasm              |
+| Common                                               | muscle spasms, muscular weakness, arthritis                                        | arthralgia, muscular weakness                                                                     | arthritis                                                      |
+| Uncommon                                             | polymyalgia rheumatica, myopathy, myositis (including polymyositis) a              |                                                                                                   | myopathy, osteonecrosis of the jaw, fistula                    |
+| Rare                                                 | spondyloarthropathy, Sjogren's syndrome, rhabdomyolysis a                          |                                                                                                   |                                                                |
+| Renal and urinary disorders                          | Renal and urinary disorders                                                        | Renal and urinary disorders                                                                       | Renal and urinary disorders                                    |
+| Very common                                          |                                                                                    |                                                                                                   | proteinuria                                                    |
+| Common                                               | renal failure (including acute kidney injury) a                                    | renal failure a                                                                                   | renal failure, acute kidney injury                             |
+| Uncommon                                             | tubulointerstitial nephritis, nephritis                                            | cystitis noninfective, nephritis                                                                  | nephritis                                                      |
+| Rare                                                 | cystitis noninfective                                                              |                                                                                                   | cystitis noninfective h                                        |
+| General disorders and administration site conditions | General disorders and administration site conditions                               | General disorders and administration site conditions                                              | General disorders and administration site conditions           |
+| Very common                                          | fatigue, pyrexia, oedema (including peripheral oedema)                             | fatigue, pyrexia, oedema (including peripheral oedema)                                            | fatigue, pyrexia, oedema                                       |
+| Common                                               | chest pain, pain, chills                                                           | malaise                                                                                           | pain, chest pain                                               |
 
-Adverse reaction frequencies presented in Table 17 may not be fully attributable to nivolumab alone or in combination with other therapeutic agents, but may contain contributions from the underlying disease or from medicinal product used in combination.
+<div style=\"page-break-after: always\"></div>
 
-a Fatal cases have been reported in completed or ongoing clinical studies.
+|                | Combination with ipilimumab (with or without chemotherapy)                                                                                                                                                                                                                           | Combination with chemotherapy                                                                                                                                                                                                                                     | Combination with cabozantinib                                                                                                                                                                                                                                                                                                                      |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Investigations | Investigations                                                                                                                                                                                                                                                                       | Investigations                                                                                                                                                                                                                                                    | Investigations                                                                                                                                                                                                                                                                                                                                     |
+| Very common    | increased alkaline phosphatase b , increased AST b , increased ALT b , increased total bilirubin b , increased creatinine b , increased amylase b , increased lipase b , hyponatraemia b , hyperkalaemia b , hypokalaemia b , hypercalcaemia b , hypocalcaemia b , hypomagnesaemia b | hypocalcaemia b , increased AST b , increased ALT b , hyponatraemia b , increased amylase b , hypomagnesaemia b , increased alkaline phosphatase b , hypokalaemia b , increased creatinine b , increased lipase b , hyperkalaemia b , increased total bilirubin b | increased alkaline phosphatase b , increased ALT b , increased AST b , increased total bilirubin b , increased creatinine b , increased amylase b , increased lipase b , hypokalaemia b , hypomagnesaemia b , hyponatraemia b , hypocalcaemia b , hypercalcaemia b , hypophosphataemia b , hyperkalaemia b , hypermagnesaemia b , hypernatraemia b |
+| Common         | hypernatraemia b , hypermagnesaemia b , increased thyroid stimulating hormone, increased gamma- glutamyltransferase                                                                                                                                                                  | hypernatraemia b , hypercalcaemia b , hypermagnesaemia b                                                                                                                                                                                                          | blood cholesterol increased, hypertriglyceridaemia                                                                                                                                                                                                                                                                                                 |
 
+Adverse reaction frequencies presented in Table 18 may not be fully attributable to nivolumab alone or in combination with other therapeutic agents, but may contain contributions from the underlying disease or from medicinal product used in combination.
+
+- a Fatal cases have been reported in completed or ongoing clinical studies.
 - b Frequencies of laboratory terms reflect the proportion of patients who experienced a worsening from baseline in laboratory measurements. See 'Description of selected adverse reactions; laboratory abnormalities' below.
 - c Rash is a composite term which includes maculopapular rash, rash erythematous, rash pruritic, rash follicular, rash macular, rash morbilliform, rash papular, rash pustular, rash papulosquamous, rash vesicular, rash generalised, exfoliative rash, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis atopic, dermatitis bullous, dermatitis exfoliative, dermatitis psoriasiform, drug eruption, nodular rash, and pemphigoid.
 - d Lichen disorders is a composite term which includes lichen keratosis and lichen planus.
-- e Reported also in studies outside the pooled dataset. The frequency is based on the program-wide exposure.
+- e Reported also in studies outside the pooled dataset. The frequency is based on the programme-wide exposure.
 - f Musculoskeletal pain is a composite term which includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, myalgia intercostal, neck pain, pain in extremity, and spinal pain.
 - g Post-marketing event (also see section 4.4).
 - h Reported in clinical studies and in the post-marketing setting.
@@ -954,13 +971,66 @@ a Fatal cases have been reported in completed or ongoing clinical studies.
 - j Anaemia is a composite term which includes, among other causes, haemolytic anaemia and autoimmune anaemia, haemoglobin decreased, iron deficiency anaemia and red blood cell count decreased.
 - k Thrombosis is a composite term which includes portal vein thrombosis, pulmonary vein thrombosis, pulmonary thrombosis, aortic thrombosis, arterial thrombosis, deep vein thrombosis, pelvic vein thrombosis, vena cava thrombosis, venous thrombosis, limb venous thrombosis.
 
+Adverse reactions reported for patients treated with nivolumab in combination with brentuximab vedotin (n = 72) are presented in Table 19. These reactions are presented by system organ class and by frequency. Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10).
+
+## Table 19: Adverse reactions with nivolumab in combination with brentuximab vedotin Infections and infestations
+
+| Infections and infestations          | Infections and infestations                                                          |
+|--------------------------------------|--------------------------------------------------------------------------------------|
+| Very common                          | Upper respiratory tract infection                                                    |
+| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                 |
+| Common                               | neutropenia, anaemia, lymphopenia, febrile neutropenia, leukopenia, thrombocytopenia |
+| Immune system disorders              | Immune system disorders                                                              |
+| Very common                          | hypersensitivity a , infusion related reaction                                       |
+
 <div style=\"page-break-after: always\"></div>
+
+| Endocrine disorders                                  | Endocrine disorders                                              |
+|------------------------------------------------------|------------------------------------------------------------------|
+| Common                                               | hyperthyroidism, hypothyroidism                                  |
+| Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                               |
+| Common                                               | decreased appetite, hyperglycaemia, hypokalaemia, hypernatraemia |
+| Nervous system disorders                             | Nervous system disorders                                         |
+| Very common                                          | Headache                                                         |
+| Common                                               | peripheral neuropathy, dizziness                                 |
+| Vascular disorders                                   | Vascular disorders                                               |
+| Common                                               | thrombosis                                                       |
+| Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders                  |
+| Very common                                          | cough                                                            |
+| Common                                               | pneumonitis, dyspnoea                                            |
+| Gastrointestinal disorders                           | Gastrointestinal disorders                                       |
+| Very common                                          | diarrhoea, vomiting, nausea, abdominal pain, constipation        |
+| Common                                               | stomatitis                                                       |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                           |
+| Very common                                          | rash b                                                           |
+| Common                                               | alopecia, pruritus, dry skin, erythema, urticaria                |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                  |
+| Very common                                          | musculoskeletal pain c                                           |
+| Renal and urinary disorders                          | Renal and urinary disorders                                      |
+| Common                                               | renal failure                                                    |
+| General disorders and administration site conditions | General disorders and administration site conditions             |
+| Very common                                          | pyrexia, fatigue                                                 |
+| Common                                               | oedema                                                           |
+| Investigations                                       | Investigations                                                   |
+| Very common                                          | transaminases increased d                                        |
+| Common                                               | increased total bilirubin, increased amylase, increased lipase   |
+
+Adverse reaction frequencies presented in Table 19 may not be fully attributable to nivolumab alone or in combination with brentuximab but may contain contributions from the underlying disease or from medicinal product used in combination.
+
+- a Hypersensitivity is a composite term which includes anaphylactic reaction.
+- b Rash is a composite term which includes rash maculopapular, rash erythematous, rash pruritic, rash papular, dermatitis acneiform and dermatitis allergic.
+- c Musculoskeletal pain is a composite term which includes back pain, bone pain, musculoskeletal chest pain, myalgia, neck pain, pain in extremity, spinal pain, arthralgia and jaw pain.
+- d Transaminases increased is a composite term which includes alanine aminotransferase increased and aspartate aminotransferase increased.
 
 ## Description of selected adverse reactions
 
-Nivolumab or nivolumab in combination with other therapeutic agents is associated with immune-related adverse reactions. With appropriate medical therapy, immune-related adverse reactions resolved in most cases. Permanent discontinuation of treatment generally was required in a greater proportion of patients receiving nivolumab in combination with other agents than in those receiving nivolumab monotherapy. Table 18 presents the percentage of patients with immune-related adverse reactions who were permanently discontinued from treatment by dosing regimen. Additionally, for patients who experienced an event, Table 18 presents the percentage of patients who required high-dose corticosteroids (at least 40 mg daily prednisone equivalents) by dosing regimen. The management guidelines for these adverse reactions are described in section 4.4.
+Nivolumab or nivolumab in combination with other therapeutic agents is associated with immune-related adverse reactions. With appropriate medical therapy, immune-related adverse reactions resolved in most cases. Permanent discontinuation of treatment generally was required in a greater proportion of patients receiving nivolumab in combination with other agents than in those receiving nivolumab monotherapy. Table 20 presents the percentage of patients with immune-related adverse reactions who were permanently discontinued from treatment by dosing regimen. Additionally, for patients who experienced an event, Table 20 presents the percentage of patients who
 
-Table 18: Immune-related adverse reactions leading to permanent discontinuation or requiring high-dose corticosteroids by dosing regimen (nivolumab monotherapy, nivolumab in combination with ipilimumab (with or without chemotherapy), nivolumab in combination with chemotherapy, or nivolumab in combination with cabozantinib)
+<div style=\"page-break-after: always\"></div>
+
+required high-dose corticosteroids (at least 40 mg daily prednisone equivalents) by dosing regimen. The management guidelines for these adverse reactions are described in section 4.4.
+
+Table 20: Immune-related adverse reactions leading to permanent discontinuation or requiring high-dose corticosteroids by dosing regimen (nivolumab monotherapy, nivolumab in combination with ipilimumab (with or without chemotherapy), nivolumab in combination with chemotherapy, or nivolumab in combination with cabozantinib)
 
 |                                                                         | Nivolumab monotherapy %                                                 | Nivolumab in combination with ipilimumab (with or without chemotherapy) %   | Nivolumab in combination with chemotherapy %                            | Nivolumab in combination with cabozantinib %                            |
 |-------------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
@@ -987,11 +1057,13 @@ a at least 40 mg daily prednisone equivalents b frequency is based on the number
 
 In patients treated with nivolumab monotherapy, the incidence of pneumonitis, including interstitial lung disease and lung infiltration, was 3.3% (155/4646). The majority of cases were Grade 1 or 2 in severity reported in 0.9% (42/4646) and 1.7% (77/4646) of patients respectively. Grade 3 and 4 cases were reported in 0.7% (33/4646) and &lt; 0.1% (1/4646) of patients respectively. Six patients (0.1%) had a fatal outcome. Median time to onset was 15.1 weeks (range: 0.7-85.1). Resolution occurred in 107 patients (69.0%) with a median time to resolution of 6.7 weeks (range: 0.1 + -109.1 + ); + denotes a censored observation.
 
-<div style=\"page-break-after: always\"></div>
-
 In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the incidence of pneumonitis including interstitial lung disease, was 6.0% (157/2626). Grade 2, Grade 3, and Grade 4 cases were reported in 3.0% (78/2626), 1.0% (27/2626), and 0.3% (8/2626) of patients, respectively. Four patients (0.2%) had a fatal outcome. Median time to onset was 2.7 months (range: 0.1-56.8). Resolution occurred in 129 patients (82.2%) with a median time to resolution of 6.1 weeks (range: 0.1 + -149.3 + ).
 
-In patients treated with nivolumab in combination with chemotherapy, the incidence of pneumonitis including interstitial lung disease was 4.4% (80/1800). Grade 2, Grade 3, and Grade 4 cases were reported in 2.2% (40/1800), 0.9% (17/1800), and 0.2% (3/1800), of patients, respectively. Three patients (0.2%) had a fatal outcome. Median time to onset was 24.6 weeks (range: 0.6-96.9). Resolution occurred in 58 patients (72.5%) with a median time to resolution of 10.4 weeks (range: 0.3 + -171.4 + ).
+In patients treated with nivolumab in combination with chemotherapy, the incidence of pneumonitis including interstitial lung disease was 4.4% (80/1800). Grade 2, Grade 3, and Grade 4 cases were
+
+<div style=\"page-break-after: always\"></div>
+
+reported in 2.2% (40/1800), 0.9% (17/1800), and 0.2% (3/1800), of patients, respectively. Three patients (0.2%) had a fatal outcome. Median time to onset was 24.6 weeks (range: 0.6-96.9). Resolution occurred in 58 patients (72.5%) with a median time to resolution of 10.4 weeks (range: 0.3 + -171.4 + ).
 
 In patients treated with nivolumab in combination with cabozantinib, the incidence of pneumonitis including interstitial lung disease was 5.6% (18/320). Grade 2 and Grade 3 cases were reported in 1.9% (6/320) and 1.6% (5/320) of patients, respectively. Median time to onset was 26.9 weeks (range: 12.3-74.3 weeks). Resolution occurred in 14 patients (77.8%) with a median time to resolution of 7.5 weeks (range: 2.1-60.7 + weeks).
 
@@ -1009,9 +1081,11 @@ In patients treated with nivolumab in combination with cabozantinib, the inciden
 
 In patients treated with nivolumab monotherapy, the incidence of liver function test abnormalities was 8.0% (371/4646). The majority of cases were Grade 1 or 2 in severity reported in 4.3% (200/4646) and 1.8% (82/4646) of patients respectively. Grade 3 and 4 cases were reported in 1.6% (74/4646) and 0.3% (15/4646) of patients, respectively. Median time to onset was 10.6 weeks (range: 0.1-132.0). Resolution occurred in 298 patients (81.4%) with a median time to resolution of 6.1 weeks (range: 0.1-126.4 + ).
 
+In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the incidence of liver function test abnormalities was 21.2% (556/2626). Grade 2, Grade 3, and Grade 4 cases were reported in 5.0% (132/2626), 8.3% (218/2626), and 1.3% (34/2626) of patients, respectively. Seven patients (0.3%) had a fatal outcome. Median time to onset was 1.5 months (range: 0.0-36.6). Resolution occurred in 482 patients (87.0%) with a median time to resolution of 5.9 weeks (range: 0.1-175.9 + ). Among patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg for melanoma, the incidence of liver function test abnormalities was 30.1% including Grade 2 (6.9%), Grade 3 (15.8%), and Grade 4 (1.8%). Among patients treated with
+
 <div style=\"page-break-after: always\"></div>
 
-In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the incidence of liver function test abnormalities was 21.2% (556/2626). Grade 2, Grade 3, and Grade 4 cases were reported in 5.0% (132/2626), 8.3% (218/2626), and 1.3% (34/2626) of patients, respectively. Seven patients (0.3%) had a fatal outcome. Median time to onset was 1.5 months (range: 0.0-36.6). Resolution occurred in 482 patients (87.0%) with a median time to resolution of 5.9 weeks (range: 0.1-175.9 + ). Among patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg for melanoma, the incidence of liver function test abnormalities was 30.1% including Grade 2 (6.9%), Grade 3 (15.8%), and Grade 4 (1.8%). Among patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg for HCC, the incidence of liver function test abnormalities was 34.3% including Grade 2 (8.4%), Grade 3 (14.2%), and Grade 4 (2.7%).
+nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg for HCC, the incidence of liver function test abnormalities was 34.3% including Grade 2 (8.4%), Grade 3 (14.2%), and Grade 4 (2.7%).
 
 In patients treated with nivolumab in combination with chemotherapy, the incidence of liver function test abnormalities was 18% (322/1800). Grade 2, Grade 3 and Grade 4 cases were reported in 5.1% (92/1800), 2.6% (47/1800) and &lt; 0.1% (1/1800) of patients, respectively. Median time to onset was 7.0 weeks (range: 0.1-99.0). Resolution occurred in 258 patients (81.1%) with a median time to resolution of 7.4 weeks (range: 0.4-240.0 + ).
 
@@ -1029,17 +1103,15 @@ In patients treated with nivolumab in combination with cabozantinib, the inciden
 
 ## Immune-related endocrinopathies
 
-In patients treated with nivolumab monotherapy, the incidence of thyroid disorders, including hypothyroidism or hyperthyroidism, was 13.0% (603/4646). The majority of cases were Grade 1 or 2 in severity reported in 6.6% (305/4646) and 6.2% (290/4646) of patients, respectively. Grade 3 thyroid disorders were reported in 0.2% (8/4646) of patients. Hypophysitis (3 Grade 1, 7 Grade 2, 9 Grade 3,
+In patients treated with nivolumab monotherapy, the incidence of thyroid disorders, including hypothyroidism or hyperthyroidism, was 13.0% (603/4646). The majority of cases were Grade 1 or 2 in severity reported in 6.6% (305/4646) and 6.2% (290/4646) of patients, respectively. Grade 3 thyroid disorders were reported in 0.2% (8/4646) of patients. Hypophysitis (3 Grade 1, 7 Grade 2, 9 Grade 3, and 1 Grade 4), hypopituitarism (6 Grade 2 and 1 Grade 3), adrenal insufficiency (including secondary adrenocortical insufficiency, adrenocortical insufficiency acute and blood corticotrophin decreased) (2 Grade 1, 23 Grade 2, and 11 Grade 3), diabetes mellitus (including Type 1 diabetes mellitus, and diabetic ketoacidosis) (1 Grade 1, 3 Grade 2 and 8 Grade 3 and 2 Grade 4), were reported. Median time to onset of these endocrinopathies was 11.1 weeks (range: 0.1-126.7). Resolution occurred in 323 patients (48.7%). Median time to resolution was 48.6 weeks (range: 0.4-204.4 + ).
+
+In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the incidence of thyroid disorders was 23.2% (608/2626). Grade 2 and Grade 3 thyroid disorders were
 
 <div style=\"page-break-after: always\"></div>
 
-and 1 Grade 4), hypopituitarism (6 Grade 2 and 1 Grade 3), adrenal insufficiency (including secondary adrenocortical insufficiency, adrenocortical insufficiency acute and blood corticotrophin decreased) (2 Grade 1, 23 Grade 2, and 11 Grade 3), diabetes mellitus (including Type 1 diabetes mellitus, and diabetic ketoacidosis) (1 Grade 1, 3 Grade 2 and 8 Grade 3 and 2 Grade 4), were reported. Median time to onset of these endocrinopathies was 11.1 weeks (range: 0.1-126.7). Resolution occurred in 323 patients (48.7%). Median time to resolution was 48.6 weeks (range: 0.4-204.4 + ).
+reported in 12.7% (333/2626) and 1.0% (27/2626) of patients, respectively. Grade 2 and Grade 3 hypophysitis (including lymphocytic hypophysitis) occurred in 1.9% (49/2626) and 1.5% (40/2626) of patients, respectively. Grade 2 and Grade 3 hypopituitarism occurred in 0.6% (16/2626) and 0.5% (13/2626) of patients, respectively. Grade 2, Grade 3, and Grade 4 adrenal insufficiency (including secondary adrenocortical insufficiency, adrenocortical insufficiency acute, blood corticotrophin decreased and immune-mediated adrenal insufficiency) occurred in 2.7% (72/2626), 1.6% (43/2626) and 0.2% (4/2626) of patients, respectively. Grade 1, Grade 2, Grade 3, and Grade 4 diabetes mellitus (including Type 1 diabetes mellitus, and diabetic ketoacidosis) occurred in &lt; 0.1% (1/2626), 0.3% (8/2626), 0.3% (7/2626), and 0.2% (6/2626) of patients, respectively. Median time to onset of these endocrinopathies was 2.1 months (range: 0.0-28.1). Resolution occurred in 297 patients (40.0%). Time to resolution ranged from 0.3 to 257.1 + weeks.
 
-In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the incidence of thyroid disorders was 23.2% (608/2626). Grade 2 and Grade 3 thyroid disorders were reported in 12.7% (333/2626) and 1.0% (27/2626) of patients, respectively.
-
-Grade 2 and Grade 3 hypophysitis (including lymphocytic hypophysitis) occurred in 1.9% (49/2626) and 1.5% (40/2626) of patients, respectively. Grade 2 and Grade 3 hypopituitarism occurred in 0.6% (16/2626) and 0.5% (13/2626) of patients, respectively. Grade 2, Grade 3, and Grade 4 adrenal insufficiency (including secondary adrenocortical insufficiency, adrenocortical insufficiency acute, blood corticotrophin decreased and immune-mediated adrenal insufficiency) occurred in 2.7% (72/2626), 1.6% (43/2626) and 0.2% (4/2626) of patients, respectively. Grade 1, Grade 2, Grade 3, and Grade 4 diabetes mellitus (including Type 1 diabetes mellitus, and diabetic ketoacidosis) occurred in &lt; 0.1% (1/2626), 0.3% (8/2626), 0.3% (7/2626), and 0.2% (6/2626) of patients, respectively. Median time to onset of these endocrinopathies was 2.1 months (range: 0.0-28.1). Resolution occurred in 297 patients (40.0%). Time to resolution ranged from 0.3 to 257.1 + weeks.
-
-In patients treated with nivolumab in combination with chemotherapy, the incidence of thyroid disorders was 12.8% (230/1800). Grade 2 and Grade 3 thyroid disorders were reported in 6.3% (114/1800) and 0.1% (2/1800) of patients, respectively. Grade 3 hypophysitis occurred in 0.1% (2/1800) of patients. Grade 2 and Grade 3 hypopituitarism occurred in 0.2% (4/1800) of patients, each. Grade 2, Grade 3, and Grade 4 adrenal insufficiency occurred in 0.6% (11/1800), 0.2% (3/1800), and &lt; 0.1% (1/1800) of patients, respectively. One patient (&lt; 0.1%) had a fatal outcome due to adrenal insufficiency. Diabetes mellitus including Type 1 diabetes mellitus and fulminant Type 1 diabetes mellitus (4 Grade 2, 2 Grade 3, and 1 Grade 4), and diabetic ketoacidosis (1 Grade 2 and 1 Grade 4) were reported. Median time to onset of these endocrinopathies was 15.3 weeks (range: 1.1-124.3). Resolution occurred in 101 patients (40.1%). Time to resolution ranged from 0.3 + to 233.6 + weeks.
+In patients treated with nivolumab in combination with chemotherapy, the incidence of thyroid disorders was 12.8% (230/1800). Grade 2 and Grade 3 thyroid disorders were reported in 6.3% (114/1800) and 0.1% (2/1800) of patients, respectively. Grade 3 hypophysitis occurred in 0.1% (2/1800) of patients. Grade 2 and Grade 3 hypopituitarism occurred in 0.2% (4/1800) of patients, each. Grade 2, Grade 3, and Grade 4 adrenal insufficiency occurred in 0.6% (11/1800), 0.2% (3/1800), and &lt; 0.1% (1/1800) of patients, respectively. One patient (&lt; 0.1%) had a fatal outcome due to adrenal insufficiency. Diabetes mellitus including Type 1 diabetes mellitus, and fulminant Type 1 diabetes mellitus (4 Grade 2, 2 Grade 3, and 1 Grade 4), and diabetic ketoacidosis (1 Grade 2 and 1 Grade 4) were reported. Median time to onset of these endocrinopathies was 15.3 weeks (range: 1.1-124.3). Resolution occurred in 101 patients (40.1%). Time to resolution ranged from 0.3 + to 233.6 + weeks.
 
 In patients treated with nivolumab in combination with cabozantinib, the incidence of thyroid disorders was 43.1% (138/320). Grade 2 and Grade 3 thyroid disorders were reported in 23.1% (74/320) and 0.9% (3/320) of patients, respectively. Hypophysitis occurred in 0.6% (2/320) of patients, all Grade 2. Adrenal insufficiency (including secondary adrenocortical insufficiency) occurred in 4.7% (15/320) of patients. Grade 2 and Grade 3 adrenal insufficiency cases were reported in 2.2% (7/320) and 1.9% (6/320) of patients, respectively. Median time to onset of these endocrinopathies was 12.3 weeks (range: 2.0-89.7 weeks). Resolution occurred in 50 patients (35.2%). Time to resolution ranged from 0.9 to 132.0 + weeks.
 
@@ -1049,11 +1121,11 @@ In patients treated with nivolumab monotherapy, the incidence of rash was 30.0% 
 
 In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the incidence of rash was 46.1% (1210/2626). Grade 2, Grade 3, and Grade 4 cases were reported in 14.3% (375/2626), 4.6% (120/2626), and 0.1% (3/2626) of patients, respectively. Median time to onset was 0.7 months (range: 0.0-33.8). Resolution occurred in 843 patients (70%) with a median time to resolution of 12.1 weeks (range: 0.1-268.7 + ). Among patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg for melanoma, the incidence of rash was 65.2%, including Grade 2 (20.3%) and Grade 3 (7.8%).
 
-<div style=\"page-break-after: always\"></div>
-
 In patients treated with nivolumab in combination with chemotherapy, the incidence of rash was 25.4% (457/1800). Grade 2 and Grade 3 cases were reported in 6.2% (111/1800) and 2.3% (42/1800) of patients, respectively. Median time to onset was 6.4 weeks (range: 0.1-97.4). Resolution occurred in 320 patients (70.2%) with a median time to resolution of 12.1 weeks (range: 0.1-258.7 + ).
 
 In patients treated with nivolumab in combination with cabozantinib, the incidence of rash was 62.8% (201/320). Grade 2 and Grade 3 cases were reported in 23.1% (74/320) and 10.6% (34/320) of patients, respectively. Median time to onset was 6.14 weeks (range: 0.1-104.4 weeks). Resolution occurred in 137 patients (68.2%) with a median time to resolution of 18.1 weeks (range: 0.1-130.6 + weeks).
+
+<div style=\"page-break-after: always\"></div>
 
 Rare cases of SJS and TEN some of them with fatal outcome have been observed (see sections 4.2 and 4.4).
 
@@ -1071,17 +1143,19 @@ In patients treated with nivolumab in combination with cabozantinib, the inciden
 
 Rapid onset of GVHD has been reported with nivolumab use before and after allogeneic HSCT (see section 4.4).
 
-In 62 evaluated patients from two cHL studies who underwent allogeneic HSCT after discontinuing nivolumab monotherapy, Grade 3 or 4 acute GVHD was reported in 17/62 patients (27.4%). Hyperacute GVHD, defined as acute GVHD occurring within 14 days after stem cell infusion, was reported in four patients (6%). A steroid-requiring febrile syndrome, without an identified infectious cause, was reported in six patients (12%) within the first 6 weeks post-transplantation. Steroids were used in four patients and three patients responded to steroids. Hepatic veno-occlusive disease occurred in two patients, one of whom died of GVHD and multi-organ failure. Nineteen of 62 patients (30.6%) died from complications of allogeneic HSCT after nivolumab. The 62 patients had a median follow-up from subsequent allogeneic HSCT of 38.5 months (range: 0-68 months).
+In 62 evaluated patients from two cHL studies assessing treatment of adult patients with relapsed or refractory cHL after ASCT, who underwent allogeneic HSCT after discontinuing nivolumab monotherapy, Grade 3 or 4 acute GVHD was reported in 17/62 patients (27.4%). Hyperacute GVHD, defined as acute GVHD occurring within 14 days after stem cell infusion, was reported in four patients (6%). A steroid-requiring febrile syndrome, without an identified infectious cause, was reported in six patients (12%) within the first 6 weeks post-transplantation. Steroids were used in four patients and three patients responded to steroids. Hepatic veno-occlusive disease occurred in two patients, one of whom died of GVHD and multi-organ failure. Nineteen of 62 patients (30.6%) died from complications of allogeneic HSCT after nivolumab. The 62 patients had a median follow-up from subsequent allogeneic HSCT of 38.5 months (range: 0-68 months).
 
 ## Elevated liver enzymes when nivolumab is combined with cabozantinib in RCC
 
 In a clinical study of previously untreated patients with RCC receiving nivolumab in combination with cabozantinib, a higher incidence of Grades 3 and 4 ALT increased (10.1%) and AST increased (8.2%) were observed relative to nivolumab monotherapy in patients with advanced RCC. In patients with Grade ≥ 2 increased ALT or AST (n=85): median time to onset was 10.1 weeks (range: 2.0 to 106.6 weeks), 26% received corticosteroids for median duration of 1.4 weeks (range: 0.9 to 75.3 weeks), and resolution to Grades 0-1 occurred in 91% with median time to resolution of 2.3 weeks (range: 0.4 to 108.1 + weeks). Among the 45 patients with Grade ≥ 2 increased ALT or AST who were rechallenged with either nivolumab (n=10) or cabozantinib (n=10) administered as a single agent or with both (n=25), recurrence of Grade ≥ 2 increased ALT or AST was observed in 3 patients receiving OPDIVO, 4 patients receiving cabozantinib, and 8 patients receiving both OPDIVO and cabozantinib.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Laboratory abnormalities
 
-In patients treated with nivolumab monotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 3.4% for anaemia (all Grade 3), 0.7% for thrombocytopaenia, 0.7% for leucopoenia, 8.7% for lymphopaenia, 0.9% for neutropaenia, 1.7% for increased alkaline phosphatase, 2.6% for increased AST, 2.3% for increased ALT, 0.8% for increased total bilirubin, 0.7% for increased creatinine, 2.0% for hyperglycaemia, 0.7% for hypoglycaemia, 3.8% for increased amylase, 6.9% for increased lipase, 4.7% for hyponatraemia, 1.6% for hyperkalaemia, 1.3% for hypokalaemia, 1.1% for hypercalcaemia, 0.6% for hypermagnesaemia, 0.4% for hypomagnesaemia, 0.6% for hypocalcaemia, 0.6% for hypoalbuminaemia, and &lt; 0.1% for hypernatraemia.
+In patients treated with nivolumab monotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 3.4% for anaemia (all Grade 3), 0.7% for thrombocytopaenia, 0.7% for leucopoenia, 8.7% for lymphopaenia, 0.9% for neutropaenia, 1.7% for increased alkaline phosphatase, 2.6% for increased AST, 2.3% for increased ALT, 0.8% for increased total bilirubin, 0.7% for increased creatinine, 2.0% for hyperglycaemia, 0.7% for hypoglycaemia, 3.8% for increased amylase, 6.9% for increased lipase, 4.7% for hyponatraemia, 1.6% for hyperkalaemia, 1.3% for hypokalaemia, 1.1% for hypercalcaemia, 0.6% for
+
+<div style=\"page-break-after: always\"></div>
+
+hypermagnesaemia, 0.4% for hypomagnesaemia, 0.6% for hypocalcaemia, 0.6% for hypoalbuminaemia, and &lt; 0.1% for hypernatraemia.
 
 In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the proportion of patients who experienced a worsening from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 4.8% for anaemia, 1.8% for thrombocytopaenia, 2.2% for leucopoenia, 6.9% for lymphopaenia, 3.3% for neutropaenia, 2.7% for increased alkaline phosphatase, 9.8% for increased AST, 9.3% for increased ALT, 2.3% for increased total bilirubin, 1.8% for increased creatinine, 1.4% for hypoalbuminaemia, 7.1% for hyperglycaemia, 0.7% for hypoglycaemia, 7.8% for increased amylase, 16.3% for increased lipase, 0.8% for hypocalcaemia, 0.2% for hypernatraemia, 0.8% for hypercalcaemia, 2.0% for hyperkalaemia, 0.8% for hypermagnesaemia, 0.4% for hypomagnesaemia, 3.0% for hypokalaemia, and 8.7% for hyponatraemia.
 
@@ -1097,31 +1171,41 @@ Of the 3529 patients who were treated with nivolumab monotherapy 3 mg/kg or 240 
 
 Co-administration with chemotherapy did not affect nivolumab immunogenicity. Of the 1407 patients who were treated with nivolumab 240 mg every 2 weeks or 360 mg every 3 weeks in combination with chemotherapy and evaluable for the presence of anti-product-antibodies, 7.2% tested positive for treatment emergent anti-product-antibodies with 0.5% tested positive for neutralising antibodies.
 
-<div style=\"page-break-after: always\"></div>
-
 Of the patients who were treated with nivolumab in combination with ipilimumab and evaluable for the presence of anti-nivolumab antibodies, the incidence of anti-nivolumab antibodies was 26.0% with nivolumab 3 mg/kg and ipilimumab 1 mg/kg every 3 weeks, 24.9% with nivolumab 3 mg/kg every 2 weeks and ipilimumab 1 mg/kg every 6 weeks, and 37.8% with nivolumab 1 mg/kg and ipilimumab 3 mg/kg every 3 weeks. The incidence of neutralising antibodies against nivolumab was 0.8% with nivolumab 3 mg/kg and ipilimumab 1 mg/kg every 3 weeks, 1.5% with nivolumab 3 mg/kg every 2 weeks and ipilimumab 1 mg/kg every 6 weeks, and 4.6% with nivolumab 1 mg/kg and ipilimumab 3 mg/kg every 3 weeks. Of patients evaluable for the presence of anti-ipilimumab antibodies, the incidence of anti-ipilimumab antibodies ranged from 6.3 to 13.7% and neutralising antibodies against ipilimumab ranged from 0 to 0.4%.
 
+<div style=\"page-break-after: always\"></div>
+
 Of the patients who were treated with nivolumab in combination with ipilimumab and chemotherapy and evaluable for the presence of anti-nivolumab antibodies or neutralising antibodies against nivolumab, the incidence of anti-nivolumab antibodies was 33.8% and the incidence of neutralising antibodies was 2.6%. Of the patients who were treated with nivolumab in combination with ipilimumab and chemotherapy and evaluable for the presence of anti-ipilimumab antibodies or neutralising antibodies against ipilimumab, the incidence of anti-ipilimumab antibodies was 7.5%, and the neutralising antibodies was 1.6%.
+
+Of the patients who were treated with nivolumab in combination with brentuximab vedotin and evaluable for the presence of anti-nivolumab antibodies, the incidences of anti-nivolumab antibodies in patients at low risk of relapse and patients at standard risk of relapse were 36% and 12.5%, respectively. No patients tested positive for nivolumab neutralising antibodies.
+
+Of the patients who were treated with nivolumab in combination with brentuximab vedotin and evaluable for the presence of anti-brentuximab vedotin antibodies, the incidences of anti-brentuximab antibodies in patients at low risk of relapse and patients at standard risk of relapse were 95.8% and 58.5%, respectively. All patients who developed anti-brentuximab vedotin antibodies also tested positive for brentuximab vedotin neutralizing antibodies.
 
 Although the clearance of nivolumab was increased by 20% when anti-nivolumab-antibodies were present, there was no evidence of loss of efficacy or altered toxicity profile in the presence of nivolumab antibodies based on the pharmacokinetic and exposure-response analyses for both monotherapy and combination.
 
 ## Paediatric population
 
-The safety of nivolumab as monotherapy (3 mg/kg every 2 weeks) and in combination with ipilimumab (nivolumab 1 mg/kg or 3 mg/kg in combination with ipilimumab 1 mg/kg every 3 weeks for the first 4 doses, followed by nivolumab 3 mg/kg as monotherapy every 2 weeks) was evaluated in 97 paediatric patients aged ≥ 1 year to &lt; 18 years (including 53 patients 12 to &lt; 18 years) with recurrent or refractory solid or haematological tumours, including advanced melanoma, in clinical study CA209070. The safety profile in paediatric patients was generally similar to that seen in adults treated with nivolumab as monotherapy or in combination with ipilimumab. No new safety signals were observed. Long-term safety data is unavailable on the use of nivolumab in adolescents 12 years of age and older.
+## Nivolumab as monotherapy or nivolumab in combination with ipilimumab
 
-The most common adverse reactions (reported in at least 20% of paediatric patients) treated with nivolumab monotherapy were fatigue (35.9%) and decreased appetite (21.9%). The majority of adverse reactions reported for nivolumab monotherapy were Grade 1 or 2 in severity. Twenty-one patients (33%) had one or more Grades 3 to 4 adverse reactions.
+The safety of nivolumab as monotherapy (3 mg/kg every 2 weeks) and in combination with ipilimumab (nivolumab 1 mg/kg or 3 mg/kg in combination with ipilimumab 1 mg/kg every 3 weeks for the first 4 doses, followed by nivolumab 3 mg/kg as monotherapy every 2 weeks) was evaluated in 97 paediatric patients aged ≥ 1 year to &lt; 18 years (including 53 patients 12 to &lt; 18 years) with recurrent or refractory solid or haematological tumours, including advanced melanoma, in clinical study CA209070. The safety profile in paediatric patients was generally similar to that seen in adults treated with nivolumab as monotherapy or in combination with ipilimumab. No new safety signals were identified. Long-term safety data is unavailable on the use of nivolumab in adolescents 12 years of age and older.
 
-The most common adverse reactions (reported in at least 20% of paediatric patients) treated with nivolumab in combination with ipilimumab were fatigue (33.3%) and rash maculo-papular (21.2%). The majority of adverse reactions reported for nivolumab in combination with ipilimumab were Grade 1 or 2 in severity. Ten patients (30%) had one or more Grades 3 to 4 adverse reactions.
+The most frequently reported adverse reactions (reported in at least 20% of paediatric patients) treated with nivolumab monotherapy were fatigue (35.9%) and decreased appetite (21.9%). The majority of adverse reactions reported for nivolumab monotherapy were Grade 1 or 2 in severity. One or more Grades 3 to 4 adverse reactions were reported in twenty-one patients (33%).
 
-No new safety signals were observed in clinical study CA209908 of 151 paediatric patients with high-grade primary central nervous system (CNS) malignancies (see section 5.1), relative to data available in adult studies across indications.
+The most frequently reported adverse reactions (reported in at least 20% of paediatric patients) treated with nivolumab in combination with ipilimumab were fatigue (33.3%) and rash maculo-papular (21.2%). The majority of adverse reactions reported for nivolumab in combination with ipilimumab were Grade 1 or 2 in severity. One or more Grades 3 to 4 adverse reactions were reported in ten patients (30%).
 
-## Elderly
-
-No overall differences in safety were reported between elderly (≥ 65 years) and younger patients (&lt; 65 years). Data from SCCHN, adjuvant melanoma, and adjuvant OC or GEJC patients 75 years of age or older are too limited to draw conclusions on this population (see section 5.1). Data from dMMR or MSI-H CRC patients 75 years of age or older are limited (see section 5.1). Data from cHL patients 65 years of age or older are too limited to draw conclusions on this population (see section 5.1).
+The safety of nivolumab as monotherapy (3 mg/kg every 2 weeks) and in combination with ipilimumab (3 mg/kg nivolumab followed by 1 mg/kg ipilimumab, every 3 weeks for 4 doses, followed by nivolumab monotherapy 3 mg/kg every 2 weeks) was evaluated in 151 paediatric patients aged ≥ 6 months to &lt; 18 years old with high-grade primary CNS malignancies. No new safety signals were identified (see section 5.1), relative to data available in adult studies across indications.
 
 <div style=\"page-break-after: always\"></div>
 
-In MPM patients, there was a higher rate of serious adverse reactions and discontinuation rate due to adverse reactions in patients 75 years of age or older (68% and 35%, respectively) relative to all patients who received nivolumab in combination with ipilimumab (54% and 28%, respectively). In HCC patients there were higher rates of serious adverse reactions and discontinuation due to adverse reactions in patients aged 75 years or older (67% and 35%, respectively) relative to all patients who received nivolumab with ipilimumab (53% and 27%, respectively).
+## Nivolumab in combination with brentuximab vedotin
+
+The safety of nivolumab (3 mg/kg every 3 weeks) in combination with brentuximab vedotin (1.8 mg/kg every 3 weeks) was evaluated in 49 paediatric patients aged ≥ 5 to &lt; 18 years with relapsed or refractory cHL in clinical study CA209744 No new safety signals were identified.
+
+The most frequently reported adverse reactions in at least 20% of paediatric patients treated with nivolumab in combination with brentuximab vedotin were nausea (57.1%), pyrexia (30.6%), abdominal pain (26.5%), rash (24.5%), headache (22.4%), musculoskeletal pain (22.4%), diarrhoea (20.4%), vomiting (20.4%), fatigue (20.4%), infusion related reaction (20.4%) and hypersensitivity (20.4%). The majority of adverse reactions reported for nivolumab in combination with brentuximab vedotin were Grade 1 or 2 in severity. Grades 3 to 4 adverse reactions were reported in 17 patients (34.7%).
+
+## Elderly
+
+No overall differences in safety were reported between elderly (≥ 65 years) and younger patients (&lt; 65 years). Data from SCCHN, adjuvant melanoma, and adjuvant OC or GEJC patients 75 years of age or older are too limited to draw conclusions on this population (see section 5.1). Data from dMMR or MSI-H CRC patients 75 years of age or older are limited (see section 5.1). Data from cHL patients 65 years of age or older are too limited to draw conclusions on this population (see section 5.1). In MPM patients, there was a higher rate of serious adverse reactions and discontinuation rate due to adverse reactions in patients 75 years of age or older (68% and 35%, respectively) relative to all patients who received nivolumab in combination with ipilimumab (54% and 28%, respectively). In HCC patients there were higher rates of serious adverse reactions and discontinuation due to adverse reactions in patients aged 75 years or older (67% and 35%, respectively) relative to all patients who received nivolumab with ipilimumab (53% and 27%, respectively).
 
 For patients treated with nivolumab in combination with cabozantinib, data from RCC patients 75 years of age or older are too limited to draw conclusions on this population (see section 5.1).
 
@@ -1143,13 +1227,13 @@ No cases of overdose have been reported in clinical trials. In case of overdose,
 
 Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies and antibody drug conjugates, PD-1/PDL-1 (Programmed cell death protein 1/ death ligand 1) inhibitors. ATC code: L01FF01.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Mechanism of action
 
 Nivolumab is a human immunoglobulin G4 (IgG4) monoclonal antibody (HuMAb), which binds to the programmed death-1 (PD-1) receptor and blocks its interaction with PD-L1 and PD-L2. The PD-1 receptor is a negative regulator of T-cell activity that has been shown to be involved in the control of T-cell immune responses. Engagement of PD-1 with the ligands PD-L1 and PD-L2, which are expressed in antigen presenting cells and may be expressed by tumours or other cells in the tumour microenvironment, results in inhibition of T-cell proliferation and cytokine secretion. Nivolumab potentiates T-cell responses, including anti-tumour responses, through blockade of PD-1 binding to PD-L1 and PD-L2 ligands. In syngeneic mouse models, blocking PD-1 activity resulted in decreased tumour growth.
 
 Combined nivolumab (anti-PD-1) and ipilimumab (anti-CTLA-4) mediated inhibition results in improved anti-tumour responses in metastatic melanoma. In murine syngeneic tumour models, dual blockade of PD-1 and CTLA-4 resulted in synergistic anti-tumour activity.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Clinical efficacy and safety
 
@@ -1167,11 +1251,11 @@ A total of 790 patients were randomised (2:1) to receive either nivolumab (n = 5
 
 Baseline characteristics were generally balanced between the two groups. The median age was 62 years (range: 19-92), 61% were men, and 98% were white. Baseline ECOG performance status score was 0 (94%) or 1 (6%). Sixty percent had stage IIB and 40% had stage IIC.
 
-At a primary pre-specified interim analysis (minimum follow-up 7.8 months) a statistically significant improvement in RFS was demonstrated with nivolumab compared to placebo with a HR of 0.42 (95% CI: 0.30, 0.59; p &lt; 0.0001). At an updated descriptive RFS analysis (minimum follow-up of 15.6 months), nivolumab continued to demonstrate an RFS improvement with a HR of 0.53 (95% CI: 0.40, 0.71). OS was not mature. At an additional RFS descriptive analysis (minimum followup 26.9 months), nivolumab continued to demonstrate an RFS improvement with a HR of 0.62 (95% CI: 0.47-0.80). The median follow-up was 34.25 months for the nivolumab arm and 33.92 months for the placebo arm. The outcomes were consistent with the formal interim analysis. Results reported from the analyses with minimum follow-up of 15.6 months are summarised in Table 19 and Figure 1.
-
 <div style=\"page-break-after: always\"></div>
 
-Table 19: Efficacy results (CA20976K)
+At a primary pre-specified interim analysis (minimum follow-up 7.8 months) a statistically significant improvement in RFS was demonstrated with nivolumab compared to placebo with a HR of 0.42 (95% CI: 0.30, 0.59; p &lt; 0.0001). At an updated descriptive RFS analysis (minimum follow-up of 15.6 months), nivolumab continued to demonstrate an RFS improvement with a HR of 0.53 (95% CI: 0.40, 0.71). OS was not mature. At an additional RFS descriptive analysis (minimum followup 26.9 months), nivolumab continued to demonstrate an RFS improvement with a HR of 0.62 (95% CI: 0.47-0.80). The median follow-up was 34.25 months for the nivolumab arm and 33.92 months for the placebo arm. The outcomes were consistent with the formal interim analysis. Results reported from the analyses with minimum follow-up of 15.6 months are summarised in Table 21 and Figure 1.
+
+Table 21: Efficacy results (CA20976K)
 
 |                                                             | nivolumab (n = 526)                                         | placebo (n = 264)                                           |
 |-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
@@ -1184,7 +1268,13 @@ Table 19: Efficacy results (CA20976K)
 | Rate (95% CI) at 12 months b                                | 88.8 (85.6, 91.2)                                           | 81.1 (75.7, 85.4)                                           |
 | Rate (95% CI) at 18 months b                                | 83.9 (80.3, 86.9)                                           | 70.7 (64.5, 76.1)                                           |
 
+a Based on stratified Cox proportional hazard model.
+
+b Based on Kaplan-Meier estimates.
+
 RFS benefit was consistent across key subgroups, including disease stage, T-category, and age.
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 1: Recurrence-free survival (CA20976K)
 
@@ -1192,59 +1282,55 @@ Figure 1: Recurrence-free survival (CA20976K)
 
 Based on data cut-off: 21-February-2023, minimum follow-up of 15.6 months
 
-Tumour PD-L1 expression data were available for 302/790 (38.2%) randomised patients (36.3% and 42.0% in the nivolumab and placebo arms, respectively), as PD-L1 expression was not a stratification factor for randomisation. The exploratory RFS analyses by PD-L1 expression showed a HR for nivolumab vs placebo of 0.43 (95% CI: 0.22, 0.84) in patients (N = 167) with PDL1 expression ≥ 1%,
-
-<div style=\"page-break-after: always\"></div>
-
-0.82 (95% CI: 0.44, 1.54) in patients (N = 135) with PD-L1 expression &lt; 1%, and 0.50 (95% CI: 0.34, 0.73) in patients (N = 488) with indeterminate/not reported/not evaluable PD-L1 expression.
+Tumour PD-L1 expression data were available for 302/790 (38.2%) randomised patients (36.3% and 42.0% in the nivolumab and placebo arms, respectively), as PD-L1 expression was not a stratification factor for randomisation. The exploratory RFS analyses by PD-L1 expression showed a HR for nivolumab vs placebo of 0.43 (95% CI: 0.22, 0.84) in patients (N = 167) with PD-L1 expression ≥ 1%, 0.82 (95% CI: 0.44, 1.54) in patients (N = 135) with PD-L1 expression &lt; 1%, and 0.50 (95% CI: 0.34, 0.73) in patients (N = 488) with indeterminate/not reported/not evaluable PD-L1 expression.
 
 ## Randomised phase 3 study of nivolumab vs ipilimumab 10 mg/kg (CA209238)
 
 The safety and efficacy of nivolumab 3 mg/kg as a single agent for the treatment of patients with completely resected melanoma were evaluated in a phase 3, randomised, double-blind study (CA209238). The study included adult patients, who had an ECOG performance status score of 0 or 1, with Stage IIIB/C or Stage IV American Joint Committee on Cancer (AJCC), 7 th edition, histologically confirmed melanoma that is completely surgically resected. Per the AJCC 8 th edition, this corresponds to patients with lymph node involvement or metastases. Patients were enrolled regardless of their tumour PD-L1 status. Patients with prior autoimmune disease, and any condition requiring systemic treatment with either corticosteroids (≥ 10 mg daily prednisone or equivalent) or other immunosuppressive medications, as well as patients with prior therapy for melanoma (except patients with surgery, adjuvant radiotherapy after neurosurgical resection for lesions of the central nervous system, and prior adjuvant interferon completed ≥ 6 months prior to randomisation) prior therapy with, anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CD137, or anti CTLA-4 antibody (including ipilimumab or any other antibody or drug specifically targeting T cell co-stimulation or checkpoint pathways), were excluded from the study.
 
+<div style=\"page-break-after: always\"></div>
+
 A total of 906 patients were randomised to receive either nivolumab 3 mg/kg (n = 453) administered every 2 weeks or ipilimumab 10 mg/kg (n = 453) administered every 3 weeks for 4 doses then every 12 weeks beginning at week 24 for up to 1 year. Randomisation was stratified by tumour PD-L1 expression (≥ 5% vs. &lt; 5%/indeterminate), and stage of disease per the AJCC staging system. Tumour assessments were conducted every 12 weeks for the first 2 years then every 6 months thereafter. The primary endpoint was recurrence-free survival (RFS). RFS, assessed by investigator, was defined as the time between the date of randomisation and the date of first recurrence (local, regional, or distant metastasis), new primary melanoma, or death due to any cause, whichever occurred first.
 
 Baseline characteristics were generally balanced between the two groups. The median age was 55 years (range: 18-86), 58% were men, and 95% were white. Baseline ECOG performance status score was 0 (90%) or 1 (10%). The majority of patients had AJCC Stage III disease (81%), and 19% had Stage IV disease. Forty-eight percent of patients had macroscopic lymph nodes and 32% had tumour ulceration. Forty-two percent of patients were BRAF V600 mutation positive while 45% were BRAF wild type and 13% BRAF were status unknown. For tumour PD-L1 expression, 34% of patients had PD-L1 expression ≥ 5% and 62% had &lt; 5% as determined by clinical trial assay. Among patients with quantifiable tumour PD-L1 expression, the distribution of patients was balanced across the treatment groups. Tumour PD-L1 expression was determined using the PD-L1 IHC 28-8 pharmDx assay.
 
-At a primary pre-specified interim analysis (minimum follow-up 18 months) a statistically significant improvement in RFS with nivolumab compared to ipilimumab with HR of 0.65 (97.56% CI: 0.51, 0.83; stratified log-rank p&lt; 0.0001) was demonstrated. At an updated descriptive RFS analysis, with minimum follow-up of 24 months RFS improvement was confirmed with HR of 0.66 (95% Cl: 0.54, 0.81; p&lt; 0.0001) and OS was not mature. Efficacy results with minimum follow-up of 36 months (RFS pre-specified final analysis) and 48 months (OS pre-specified final analysis) are shown in Table 20 and Figure 2 and 3 (all randomised population).
+At a primary pre-specified interim analysis (minimum follow-up 18 months) a statistically significant improvement in RFS with nivolumab compared to ipilimumab with HR of 0.65 (97.56% CI: 0.51, 0.83; stratified log-rank p&lt; 0.0001) was demonstrated. At an updated descriptive RFS analysis, with minimum follow-up of 24 months RFS improvement was confirmed with HR of 0.66 (95% Cl: 0.54, 0.81; p&lt; 0.0001) and OS was not mature. Efficacy results with minimum follow-up of 36 months (RFS pre-specified final analysis) and 48 months (OS pre-specified final analysis) are shown in Table 22 and Figure 2 and 3 (all randomised population).
 
-<div style=\"page-break-after: always\"></div>
-
-Table 20: Efficacy results (CA209238)
-
-a
+Table 22: Efficacy results (CA209238)
 
 |                                                                                        | nivolumab (n = 453)                                                                    | ipilimumab 10 mg/kg (n = 453)                                                          |
 |----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | Final pre-specified analysis Recurrence-free survival with minimum follow-up 36 months | Final pre-specified analysis Recurrence-free survival with minimum follow-up 36 months | Final pre-specified analysis Recurrence-free survival with minimum follow-up 36 months |
 | Events                                                                                 | 188 (41.5%)                                                                            | 239 (52.8%)                                                                            |
-| Hazard ratio a                                                                         | 0.68                                                                                   |                                                                                        |
-| 95% CI                                                                                 | (0.56,                                                                                 | 0.82)                                                                                  |
-| p-value                                                                                | p <                                                                                    | 0.0001                                                                                 |
+| Hazard ratio a                                                                         | 0.68                                                                                   | 0.68                                                                                   |
+| 95% CI                                                                                 | (0.56, 0.82) p < 0.0001                                                                | (0.56, 0.82) p < 0.0001                                                                |
+| p-value                                                                                |                                                                                        |                                                                                        |
 | Median (95% CI) months                                                                 | NR (38.67, NR)                                                                         | 24.87 (16.62, 35.12)                                                                   |
 | Recurrence-free survival with minimum follow-up 48 months                              | Recurrence-free survival with minimum follow-up 48 months                              | Recurrence-free survival with minimum follow-up 48 months                              |
 | Events                                                                                 | 212 (46.8%)                                                                            | 253 (55.8%)                                                                            |
-| Hazard ratio a                                                                         | 0.71                                                                                   |                                                                                        |
-| 95% CI                                                                                 | (0.60, 0.86)                                                                           |                                                                                        |
+| Hazard ratio a                                                                         | 0.71                                                                                   | 0.71                                                                                   |
+| 95% CI                                                                                 | (0.60, 0.86)                                                                           | (0.60, 0.86)                                                                           |
 | Median (95% CI) months                                                                 | 52.37 (42.51, NR)                                                                      | 24.08 (16.56, 35.09)                                                                   |
 | Rate (95% CI) at 12 months                                                             | 70.4 (65.9, 74.4)                                                                      | 60.0 (55.2, 64.5)                                                                      |
 | Rate (95% CI) at 18 months                                                             | 65.8 (61.2, 70.0)                                                                      | 53.0 (48.1, 57.6)                                                                      |
 | Rate (95% CI) at 24 months                                                             | 62.6 (57.9, 67.0)                                                                      | 50.2 (45.3, 54.8)                                                                      |
 | Rate (95% CI) at 36 months                                                             | 57.6 (52.8, 62.1)                                                                      | 44.4 (39.6, 49.1)                                                                      |
 | Rate (95% CI) at 48 months                                                             | 51.7 (46.8, 56.3)                                                                      | 41.2 (36.4, 45.9)                                                                      |
-| Final pre-specified analysis Overall survival with minimum follow-up 48 months         | Final pre-specified analysis Overall survival with minimum follow-up 48 months         | Final pre-specified analysis Overall survival with minimum follow-up 48 months         |
-| Events                                                                                 | 100 (22.1%)                                                                            | 111 (24.5%)                                                                            |
-| Hazard ratio a                                                                         | 0.87                                                                                   |                                                                                        |
-| 95.03% CI                                                                              | (0.66,                                                                                 | 1.14)                                                                                  |
-| p-value                                                                                | 0.3148                                                                                 |                                                                                        |
-| Median (95% CI) months                                                                 | Not Reached                                                                            | Not Reached                                                                            |
-| Rate (95% CI) at 12 months                                                             | 96.2 (93.9, 97.6)                                                                      | 95.3 (92.8, 96.9)                                                                      |
-| Rate (95% CI) at 18 months                                                             | 91.9 (88.9, 94.1)                                                                      | 91.8 (88.8, 94.0)                                                                      |
-| Rate (95% CI) at 24 months                                                             | 88.0 (84.6, 90.7)                                                                      | 87.8 (84.4, 90.6)                                                                      |
-| Rate (95% CI) at 36 months                                                             | 81.7 (77.8, 85.1)                                                                      | 81.6 (77.6, 85.0)                                                                      |
-| Rate (95% CI) at 48 months                                                             | 77.9 (73.7, 81.5)                                                                      | 76.6 (72.2, 80.3)                                                                      |
 
-Derived from a stratified proportional hazards model.
+<div style=\"page-break-after: always\"></div>
+
+|                                                                                | nivolumab (n = 453)                                                            | ipilimumab 10 mg/kg (n = 453)                                                  |
+|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| Final pre-specified analysis Overall survival with minimum follow-up 48 months | Final pre-specified analysis Overall survival with minimum follow-up 48 months | Final pre-specified analysis Overall survival with minimum follow-up 48 months |
+| Events                                                                         | 100 (22.1%)                                                                    | 111 (24.5%)                                                                    |
+| Hazard ratio a 95.03% CI p-value Median (95% CI) months                        | 0.87 (0.66, 1.14) 0.3148 Not Reached                                           | Not Reached                                                                    |
+| Rate (95% CI) at 12 months Rate (95% CI) at 18 months                          | 96.2 (93.9, 97.6)                                                              | 95.3 (92.8, 96.9) 91.8 (88.8, 94.0)                                            |
+| Rate (95% CI) at 24 months                                                     | 91.9 (88.9, 94.1) 88.0 (84.6, 90.7)                                            |                                                                                |
+| Rate (95% CI) at 36 months                                                     | 81.7 (77.8, 85.1)                                                              | 87.8 (84.4, 90.6)                                                              |
+|                                                                                |                                                                                | 81.6 (77.6, 85.0)                                                              |
+| Rate (95% CI) at 48 months                                                     | 77.9 (73.7, 81.5)                                                              | 76.6 (72.2, 80.3)                                                              |
+
+a Derived from a stratified proportional hazards model.
 
 With a minimum follow-up of 36 months, the trial demonstrated a statistically significant improvement in RFS for patients randomised to the nivolumab arm compared with the ipilimumab 10 mg/kg arm. RFS benefit was consistently demonstrated across subgroups, including tumour PD-L1 expression, BRAF status, and stage of disease. With a minimum follow up of 48 months, shown in Figure 2, the trial continued to demonstrate improvement in RFS in the nivolumab arm compared with the ipilimumab arm. RFS benefit was sustained across all subgroups.
 
@@ -1253,6 +1339,110 @@ With a minimum follow-up of 36 months, the trial demonstrated a statistically si
 Figure 2: Recurrence-free survival (CA209238)
 
 <!-- image -->
+
+Recurrence-free survival (months)
+
+293
+
+262
+
+250
+
+234
+
+
+
+283
+
+271
+
+220
+
+208
+
+201
+
+Ipilimumab
+
+191
+
+245
+
+185
+
+240
+
+177
+
+233
+
+171
+
+Number of subjects at risk
+
+Nivolumab
+
+453
+
+395
+
+354
+
+Ipilimumab
+
+453
+
+366
+
+316
+
+- - -
+
+Nivolumab
+
+332
+
+273
+
+- - -
+
+
+
+311
+
+253
+
+
+
+
+
+224
+
+168
+
+218
+
+163
+
+206
+
+154
+
+147
+
+113
+
+37
+
+32
+
+11
+
+10
+
+0
+
+0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1268,7 +1458,7 @@ Number of subjects at risk Nivolumab 453 450 447 438 427 416 405 388 383 373 366
 
 With a minimum follow-up of 48 months, shown in Figure 3, median OS was not reached in either group (HR = 0.87, 95.03% CI: 0.66, 1.14; p-value: 0.3148). The overall survival data are confounded by the effects of effective subsequent anti-cancer therapies. Subsequent systemic therapy was received by 33% and 42% of patients in the nivolumab and ipilimumab arms, respectively. Subsequent immunotherapy (including anti-PD1 therapy, anti-CTLA-4 antibody, or other immunotherapy) was received by 23% and 34% of patients in the nivolumab and ipilimumab arms, respectively.
 
-Quality of life (QoL) with nivolumab remained stable and close to baseline values during treatment, as assessed by valid and reliable scales like the European Organisation for Research and Treatment of Cancer (EORTC) QLQ-C30 and the EQ-5D utility index and visual analog scale (VAS).
+Quality of life (QoL) with nivolumab remained stable and close to baseline values during treatment, as assessed by valid and reliable scales like the European Organisation for Research and Treatment of Cancer (EORTC) QLQ-C30 and the EQ-5D utility index and visual analogue scale (VAS).
 
 ## Treatment of advanced melanoma
 
@@ -1280,13 +1470,11 @@ The safety and efficacy of nivolumab 3 mg/kg for the treatment of advanced (unre
 
 A total of 418 patients were randomised to receive either nivolumab (n = 210) administered intravenously over 60 minutes at 3 mg/kg every 2 weeks or dacarbazine (n = 208) at 1000 mg/m 2 every 3 weeks. Randomisation was stratified by tumour PD-L1 status and M stage (M0/M1a/M1b versus M1c). Treatment was continued as long as clinical benefit was observed or until treatment was no longer tolerated. Treatment after disease progression was permitted for patients who had a clinical benefit and did not have substantial adverse events with the study drug, as determined by the investigator. Tumour assessments, according to the Response Evaluation Criteria in Solid Tumours (RECIST), version 1.1, were conducted 9 weeks after randomisation and continued every 6 weeks for the first year and then every 12 weeks thereafter. The primary efficacy outcome measure was OS. Key secondary efficacy outcome measures were investigator-assessed PFS and objective response rate (ORR).
 
-Baseline characteristics were balanced between the two groups. The median age was 65 years (range: 18-87), 59% were men, and 99.5% were white. Most patients had ECOG performance score of 0 (64%) or 1 (34%). Sixty-one percent of patients had M1c stage disease at study entry. Seventy-four percent of patients had cutaneous melanoma, and 11% had mucosal melanoma; 35% of patients had PD-L1 positive melanoma ( ≥ 5% tumour cell membrane expression). Sixteen percent of patients had received prior adjuvant therapy; the most common adjuvant treatment was interferon (9%). Four percent of patients had a history of brain metastasis, and 37% of patients had a baseline LDH level greater than ULN at study entry.
+Baseline characteristics were balanced between the two groups. The median age was 65 years (range: 18-87), 59% were men, and 99.5% were white. Most patients had ECOG performance score of 0 (64%) or 1 (34%). Sixty-one percent of patients had M1c stage disease at study entry. Seventy-four percent of patients had cutaneous melanoma, and 11% had mucosal melanoma; 35% of patients had PD-L1 positive melanoma (≥ 5% tumour cell membrane expression). Sixteen percent of patients had received prior adjuvant therapy; the most common adjuvant treatment was interferon (9%). Four percent of patients had a history of brain metastasis, and 37% of patients had a baseline LDH level greater than ULN at study entry.
 
 The Kaplan-Meier curves for OS are shown in Figure 4.
 
 <!-- image -->
-
-18
 
 The observed OS benefit was consistently demonstrated across subgroups of patients including baseline ECOG performance status, M stage, history of brain metastases, and baseline LDH level. Survival benefit was observed regardless of whether patients had tumours that were designated PD-L1 negative or PD-L1 positive (tumour membrane expression cut off of 5% or 10%).
 
@@ -1294,9 +1482,9 @@ The observed OS benefit was consistently demonstrated across subgroups of patien
 
 Data available indicate that the onset of nivolumab effect is delayed such that benefit of nivolumab above chemotherapy may take 2-3 months.
 
-Efficacy results are shown in Table 21.
+Efficacy results are shown in Table 23.
 
-Table 21: Efficacy results (CA209066)
+Table 23: Efficacy results (CA209066)
 
 |                             | nivolumab (n = 210)    | (n =              | dacarbazine 208)   |
 |-----------------------------|------------------------|-------------------|--------------------|
@@ -1345,9 +1533,9 @@ The co-primary efficacy outcome measures were confirmed ORR in the first 120 pat
 
 The median age was 60 years (range: 23-88). Sixty-four percent of patients were men and 98% were white. ECOG performance scores were 0 for 61% of patients and 1 for 39% of patients. The majority (75%) of patients had M1c stage disease at study entry. Seventy-three percent of patients had cutaneous melanoma and 10% had mucosal melanoma. The number of prior systemic regimen received was 1 for 27% of patients, 2 for 51% of patients, and &gt; 2 for 21% of patients. Twenty-two percent of patients had tumours that tested BRAF mutation positive and 50% of patients had tumours that were considered PD-L1 positive. Sixty-four percent of patients had no prior clinical benefit (CR/PR or SD) on ipilimumab. Baseline characteristics were balanced between groups except for the proportions of patients who had a history of brain metastasis (19% and 13% in the nivolumab group and chemotherapy group, respectively) and patients with LDH greater than ULN at baseline (51% and 35%, respectively).
 
-At the time of this final ORR analysis, results from 120 nivolumab-treated patients and 47 chemotherapy-treated patients who had a minimum of 6 months of follow-up were analysed. Efficacy results are presented in Table 22.
+At the time of this final ORR analysis, results from 120 nivolumab-treated patients and 47 chemotherapy-treated patients who had a minimum of 6 months of follow-up were analysed. Efficacy results are presented in Table 24.
 
-Table 22: Best overall response, time and duration of response (CA209037)
+Table 24: Best overall response, time and duration of response (CA209037)
 
 |                                     | nivolumab (n = 120)   | chemotherapy (n = 47)   |
 |-------------------------------------|-----------------------|-------------------------|
@@ -1397,9 +1585,9 @@ Study CA209172 was a single-arm, open label study of nivolumab monotherapy in pa
 
 <div style=\"page-break-after: always\"></div>
 
-13 (1.3%) had treated leptomeningeal metastases, 25 (2%) had autoimmune disease, and 84 (8%) had Grade 3-4 immune-related AEs with prior anti-CTLA-4 therapy. No new safety signals were identified in all treated patients and the overall safety profile of nivolumab was similar across subgroups. Efficacy results based on investigator-assessed response rates at week 12 are presented in Table 23 below.
+13 (1.3%) had treated leptomeningeal metastases, 25 (2%) had autoimmune disease, and 84 (8%) had Grade 3-4 immune-related AEs with prior anti-CTLA-4 therapy. No new safety signals were identified in all treated patients and the overall safety profile of nivolumab was similar across subgroups. Efficacy results based on investigator-assessed response rates at week 12 are presented in Table 25 below.
 
-Table 23: Response rate at week 12 - all response evaluable patients and by subgroup (CA209172)
+Table 25: Response rate at week 12 - all response evaluable patients and by subgroup (CA209172)
 
 |       | Total   | Ocular/ Uveal melanoma   | ECOG PS 2   | CNS metastasis   | Autoimmune disease   | Grade 3-4 irAEs with anti-CTLA-4   |
 |-------|---------|--------------------------|-------------|------------------|----------------------|------------------------------------|
@@ -1412,7 +1600,7 @@ a Responses were assessed per RECIST 1.1 for 588/1008 (58.3%) of patients who co
 
 The safety and efficacy of nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg or nivolumab 3 mg/kg vs. ipilimumab 3 mg/kg monotherapy for the treatment of advanced (unresectable or metastatic) melanoma were evaluated in a phase 3, randomised, double-blind study (CA209067). The differences between the two nivolumab-containing groups were evaluated descriptively. The study included adult patients with confirmed unresectable Stage III or Stage IV melanoma. Patients were to have ECOG performance status score of 0 or 1. Patients who had not received prior systemic anticancer therapy for unresectable or metastatic melanoma were enrolled. Prior adjuvant or neoadjuvant therapy was allowed if it was completed at least 6 weeks prior to randomisation. Patients with active autoimmune disease, ocular/uveal melanoma, or active brain or leptomeningeal metastases were excluded from the study.
 
-A total of 945 patients were randomised to receive nivolumab in combination with ipilimumab (n = 314), nivolumab monotherapy (n = 316), or ipilimumab monotherapy (n = 315). Patients in the combination arm received nivolumab 1 mg/kg over 60 minutes and ipilimumab 3 mg/kg over 90 minutes administered intravenously every 3 weeks for the first 4 doses, followed by nivolumab 3 mg/kg as monotherapy every 2 weeks. Patients in the nivolumab monotherapy arm received nivolumab 3 mg/kg every 2 weeks. Patients in the comparator arm received ipilimumab 3 mg/kg and nivolumab-matched placebo intravenously every 3 weeks for 4 doses followed by placebo every 2 weeks. Randomisation was stratified by PDL1 expression (≥ 5% vs. &lt; 5% tumour cell membrane expression), BRAF status, and M stage per the American Joint Committee on Cancer (AJCC) staging system. Treatment was continued as long as clinical benefit was observed or until treatment was no longer tolerated. Tumour assessments were conducted 12 weeks after randomisation then every 6 weeks for the first year, and every 12 weeks thereafter. The primary outcome measures were progression-free survival and OS. ORR and the duration of response were also assessed.
+A total of 945 patients were randomised to receive nivolumab in combination with ipilimumab (n = 314), nivolumab monotherapy (n = 316), or ipilimumab monotherapy (n = 315). Patients in the combination arm received nivolumab 1 mg/kg over 60 minutes and ipilimumab 3 mg/kg over 90 minutes administered intravenously every 3 weeks for the first 4 doses, followed by nivolumab 3 mg/kg as monotherapy every 2 weeks. Patients in the nivolumab monotherapy arm received nivolumab 3 mg/kg every 2 weeks. Patients in the comparator arm received ipilimumab 3 mg/kg and nivolumab-matched placebo intravenously every 3 weeks for 4 doses followed by placebo every 2 weeks. Randomisation was stratified by PD-L1 expression (≥ 5% vs. &lt; 5% tumour cell membrane expression), BRAF status, and M stage per the American Joint Committee on Cancer (AJCC) staging system. Treatment was continued as long as clinical benefit was observed or until treatment was no longer tolerated. Tumour assessments were conducted 12 weeks after randomisation then every 6 weeks for the first year, and every 12 weeks thereafter. The primary outcome measures were progression-free survival and OS. ORR and the duration of response were also assessed.
 
 Baseline characteristics were balanced across the three treatment groups. The median age was 61 years (range: 18 to 90 years), 65% of patients were men, and 97% were white. ECOG performance status score was 0 (73%) or 1 (27%). The majority of the patients had AJCC Stage IV disease (93%); 58% had M1c disease at study entry. Twenty-two percent of patients had received prior adjuvant therapy. Thirty-two percent of patients had BRAF mutation-positive melanoma; 26.5% of patients had PD-L1 ≥ 5% tumour cell membrane expression. Four percent of patients had a history of brain metastasis, and 36% of patients had a baseline LDH level greater than ULN at study entry. Among patients with quantifiable tumour PD-L1 expression, the distribution of patients was balanced across the three treatment groups. Tumour PD-L1 expression was determined using the PD-L1 IHC 28-8 pharmDx assay.
 
@@ -1428,7 +1616,6 @@ PFS results from descriptive analysis (with minimum follow up of 90 months) are 
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
 | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       |
 | 314                          | 175                          | 138                          | 126                          | 112                          | 103                          | 99                           | 93                           | 87                           | 84                           | 78                           | 76                           | 70                           | 66                           | 33                           | 1                            | -                            |
-| Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    |
 | 316                          | 151                          | 120                          | 106                          | 97                           | 84                           | 78                           | 73                           | 69                           | 66                           | 62                           | 57                           | 54                           | 50                           | 21                           | 0                            | -                            |
 | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   |
 | 315                          | 78                           | 46                           | 34                           | 31                           | 28                           | 21                           | 18                           | 16                           | 15                           | 12                           | 11                           | 10                           | 9                            | 7                            | 1                            | -                            |
@@ -1443,11 +1630,14 @@ Figure 6: Progression-free survival by PD-L1 expression: 5% cut off (CA209067)
 
 ## PD-L1 expression &lt; 5%
 
-| Number of subjects at risk   | Number of subjects at risk   |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk | Number of subjects at risk   |
+| Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-|                              | 210                          |                          113 |                           78 |                           71 |                           64 |                           60 |                           56 |                           54 |                           52 |                           50 |                           49 |                           45 |                           43 |                           39 |                           22 | 0 -                          |
-|                              | 208 Ipilimumab               |                           91 |                           66 |                           60 |                           51 |                           49 |                           46 |                           42 |                           40 |                           38 |                           33 |                           31 |                           29 |                           27 |                           12 | 0 -                          |
-|                              | 202                          |                           45 |                           19 |                           18 |                           16 |                           14 |                           13 |                           11 |                           10 |                            7 |                            6 |                            5 |                            4 |                            4 |                            3 | 0 -                          |
+|                              | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       |
+|                              | 210                          | 113                          | 87 78                        | 71                           | 64                           | 60                           | 56                           | 54                           | 52                           | 50                           | 49                           | 45                           | 43                           | 39                           | 22                           | 0 -                          |
+|                              | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    |
+|                              | 208                          | 91                           | 73 66                        | 60                           | 51                           | 49                           | 46                           | 42                           | 40                           | 38                           | 33                           | 31                           | 29                           | 27                           | 12                           | 0 -                          |
+|                              | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   |
+|                              | 202                          | 45                           | 26 19                        | 18                           | 16                           | 14                           | 13                           | 11                           | 10                           | 7                            | 6                            | 5                            | 4                            | 4                            | 3                            | 0 -                          |
 
 <!-- image -->
 
@@ -1464,7 +1654,7 @@ Figure 6: Progression-free survival by PD-L1 expression: 5% cut off (CA209067)
 | - - -  - - - ----  ---- - - -  - - - | - - -  - - - ----  ---- - - -  - - - | - - -  - - - ----  ---- - - -  - - - | - - -  - - - ----  ---- - - -  - - - | Nivolumab+ipilimumab (events: 36/68), median and 95% CI: 22.11 (9.72, 82.07) Nivolumab (events: 48/80), median and 95% CI: 22.34 (9.46, 39.13) Ipilimumab (events: 60/75), median and 95% CI: 3.94 (2.79, 4.21)                        | Nivolumab+ipilimumab (events: 36/68), median and 95% CI: 22.11 (9.72, 82.07) Nivolumab (events: 48/80), median and 95% CI: 22.34 (9.46, 39.13) Ipilimumab (events: 60/75), median and 95% CI: 3.94 (2.79, 4.21)                        | Nivolumab+ipilimumab (events: 36/68), median and 95% CI: 22.11 (9.72, 82.07) Nivolumab (events: 48/80), median and 95% CI: 22.34 (9.46, 39.13) Ipilimumab (events: 60/75), median and 95% CI: 3.94 (2.79, 4.21)                        | Nivolumab+ipilimumab (events: 36/68), median and 95% CI: 22.11 (9.72, 82.07) Nivolumab (events: 48/80), median and 95% CI: 22.34 (9.46, 39.13) Ipilimumab (events: 60/75), median and 95% CI: 3.94 (2.79, 4.21)                        | Nivolumab+ipilimumab (events: 36/68), median and 95% CI: 22.11 (9.72, 82.07) Nivolumab (events: 48/80), median and 95% CI: 22.34 (9.46, 39.13) Ipilimumab (events: 60/75), median and 95% CI: 3.94 (2.79, 4.21)                        | Nivolumab+ipilimumab (events: 36/68), median and 95% CI: 22.11 (9.72, 82.07) Nivolumab (events: 48/80), median and 95% CI: 22.34 (9.46, 39.13) Ipilimumab (events: 60/75), median and 95% CI: 3.94 (2.79, 4.21)                        | Nivolumab+ipilimumab (events: 36/68), median and 95% CI: 22.11 (9.72, 82.07) Nivolumab (events: 48/80), median and 95% CI: 22.34 (9.46, 39.13) Ipilimumab (events: 60/75), median and 95% CI: 3.94 (2.79, 4.21)                        | Nivolumab+ipilimumab (events: 36/68), median and 95% CI: 22.11 (9.72, 82.07) Nivolumab (events: 48/80), median and 95% CI: 22.34 (9.46, 39.13) Ipilimumab (events: 60/75), median and 95% CI: 3.94 (2.79, 4.21)                        | Nivolumab+ipilimumab (events: 36/68), median and 95% CI: 22.11 (9.72, 82.07) Nivolumab (events: 48/80), median and 95% CI: 22.34 (9.46, 39.13) Ipilimumab (events: 60/75), median and 95% CI: 3.94 (2.79, 4.21)                        | Nivolumab+ipilimumab (events: 36/68), median and 95% CI: 22.11 (9.72, 82.07) Nivolumab (events: 48/80), median and 95% CI: 22.34 (9.46, 39.13) Ipilimumab (events: 60/75), median and 95% CI: 3.94 (2.79, 4.21)                        | Nivolumab+ipilimumab (events: 36/68), median and 95% CI: 22.11 (9.72, 82.07) Nivolumab (events: 48/80), median and 95% CI: 22.34 (9.46, 39.13) Ipilimumab (events: 60/75), median and 95% CI: 3.94 (2.79, 4.21)                        | Nivolumab+ipilimumab (events: 36/68), median and 95% CI: 22.11 (9.72, 82.07) Nivolumab (events: 48/80), median and 95% CI: 22.34 (9.46, 39.13) Ipilimumab (events: 60/75), median and 95% CI: 3.94 (2.79, 4.21)                        | Nivolumab+ipilimumab (events: 36/68), median and 95% CI: 22.11 (9.72, 82.07) Nivolumab (events: 48/80), median and 95% CI: 22.34 (9.46, 39.13) Ipilimumab (events: 60/75), median and 95% CI: 3.94 (2.79, 4.21)                        |
 |                                         |                                         |                                         |                                         | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.38 (0.25, 0.58) Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.43 (0.29, 0.64) Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.89 (0.58, 1.35) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.38 (0.25, 0.58) Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.43 (0.29, 0.64) Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.89 (0.58, 1.35) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.38 (0.25, 0.58) Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.43 (0.29, 0.64) Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.89 (0.58, 1.35) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.38 (0.25, 0.58) Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.43 (0.29, 0.64) Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.89 (0.58, 1.35) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.38 (0.25, 0.58) Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.43 (0.29, 0.64) Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.89 (0.58, 1.35) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.38 (0.25, 0.58) Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.43 (0.29, 0.64) Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.89 (0.58, 1.35) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.38 (0.25, 0.58) Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.43 (0.29, 0.64) Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.89 (0.58, 1.35) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.38 (0.25, 0.58) Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.43 (0.29, 0.64) Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.89 (0.58, 1.35) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.38 (0.25, 0.58) Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.43 (0.29, 0.64) Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.89 (0.58, 1.35) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.38 (0.25, 0.58) Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.43 (0.29, 0.64) Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.89 (0.58, 1.35) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.38 (0.25, 0.58) Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.43 (0.29, 0.64) Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.89 (0.58, 1.35) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.38 (0.25, 0.58) Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.43 (0.29, 0.64) Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.89 (0.58, 1.35) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.38 (0.25, 0.58) Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.43 (0.29, 0.64) Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.89 (0.58, 1.35) |
 
-PDL1 expression ≥ 5%
+PD-L1 expression ≥ 5%
 
 <!-- image -->
 
@@ -1478,7 +1668,7 @@ Figure 7: Progression-free survival by PD-L1 expression: 1% cut off (CA209067)
 
 <div style=\"page-break-after: always\"></div>
 
-PDL1 expression ≥ 1%
+PD-L1 expression ≥ 1%
 
 <!-- image -->
 
@@ -1495,7 +1685,7 @@ PDL1 expression ≥ 1%
 
 The final (primary) OS analysis occurred when all patients had a minimum follow-up of 28 months. At 28 months, median OS was not reached in the nivolumab group as compared with 19.98 months in the ipilimumab group (HR = 0.63, 98% CI: 0.48, 0.81; p-value: &lt; 0.0001). Median OS was not reached in the nivolumab in combination with ipilimumab group as compared with the ipilimumab group (HR = 0.55, 98% CI: 0.42, 0.72; p-value: &lt; 0.0001).
 
-OS results at an additional descriptive analysis undertaken at a minimum follow-up of 90 months show outcomes consistent with the original primary analysis. OS results from this follow-up analysis are shown in Figure 8 (all randomised), Figure 9 and 10 (at the tumour PD-L1 5% and 1% cut off).
+OS results at an additional descriptive analysis undertaken at a minimum follow-up of 90 months show outcomes consistent with the original primary analysis. OS results from this follow-up analysis are shown in Figure 8 (all randomised), Figures 9 and 10 (at the tumour PD-L1 5% and 1% cut off).
 
 The OS analysis was not adjusted to account for subsequent therapies received. Subsequent systemic therapy was received by 36.0%, 49.1%, and 66.3% of patients in the combination, nivolumab monotherapy, and ipilimumab arms, respectively. Subsequent immunotherapy (including anti-PD1 therapy, anti-CTLA-4 antibody, or other immunotherapy) was received by 19.1%, 34.2%, and 48.3% of patients in the combination, nivolumab monotherapy, and ipilimumab arms, respectively.
 
@@ -1513,10 +1703,11 @@ Figure 8: Overall survival (CA209067) - Minimum follow-up of 90 months
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
 | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |
 | 314                          | 265                          | 227                          | 210                          | 199                          | 187                          | 179                          | 169                          | 163                          | 158                          | 156                          | 153                          | 147                          | 144                          | 141                          | 129                          | 7                            |
-| Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    |
 | 316                          | 266                          | 231                          | 201                          | 181                          | 171                          | 158                          | 145                          | 141                          | 137                          | 134                          | 130                          | 126                          | 123                          | 120                          | 107                          | 4                            |
 | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   |
 | 315                          | 253                          | 203                          | 163                          | 135                          | 113                          | 100                          | 94                           | 87                           | 81                           | 75                           | 68                           | 64                           | 63                           | 63                           | 57                           | 5                            |
+
+Nivolumab+ipilimumab vs nivolumab - HR (95% CI): 0.84 (0.68, 1.04)
 
 <!-- image -->
 
@@ -1524,7 +1715,7 @@ Figure 8: Overall survival (CA209067) - Minimum follow-up of 90 months
 
 Figure 9: Overall survival by PD-L1 expression: 5% cut off (CA209067) - Minimum follow-up of 90 months
 
-PD-L1 expression &lt; 5%
+## PD-L1 expression &lt; 5%
 
 <!-- image -->
 
@@ -1538,21 +1729,29 @@ PD-L1 expression ≥ 5%
 
 Figure 10: Overall survival by PD-L1 expression: 1% cut off (CA209067) - Minimum follow-up of 90 months
 
-## PD-L1 expression &lt; 1%
+PD-L1 expression &lt; 1%
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-PDL1 expression ≥ 1%
+| Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |
+|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
+| Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         | Nivolumab+ipilimumab         |
+| 155                          | 132                          | 116                          | 105                          | 101                          | 96                           | 94                           | 87                           | 84                           | 79                           | 79                           | 77                           | 74                           | 72                           | 70                           | 65                           | 2                            |
+| 171                          | 159                          | 140                          | 122                          | 112                          | 108                          | 100                          | 93                           | 90                           | 87                           | 86                           | 83                           | 81                           | 80                           | 78                           | 70                           | 2                            |
+| Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   |
+| 164                          | 137                          | 113                          | 88                           | 76                           | 67                           | 58                           | 54                           | 49                           | 46                           | 41                           | 39                           | 36                           | 35                           | 35                           | 33                           | 4                            |
+
+PD-L1 expression ≥ 1%
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-Minimum follow-up for the analysis of ORR was 90 months. Responses are summarised in Table 24.
+Minimum follow-up for the analysis of ORR was 90 months. Responses are summarised in Table 26.
 
-Table 24: Objective response (CA209067)
+Table 26: Objective response (CA209067)
 
 |                                         | nivolumab + ipilimumab (n = 314)        | nivolumab (n = 316)      | ipilimumab (n = 315)     |
 |-----------------------------------------|-----------------------------------------|--------------------------|--------------------------|
@@ -1576,7 +1775,7 @@ Both nivolumab-containing arms demonstrated a significant PFS and OS benefit and
 
 Among 131 patients who discontinued the combination due to adverse reaction after 28 months of follow-up, the ORR was 71% (93/131) with 20% (26/131) achieving a complete response and median OS was not reached.
 
-Both nivolumab-containing arms demonstrated greater objective response rates than ipilimumab regardless of PD-L1 expression levels. ORRs were higher for the combination of nivolumab and ipilimumab relative to nivolumab monotherapy across tumour PD-L1 expression levels (Table 24) after 90 months of follow-up, with a best overall response of complete response correlating to an improved survival rate.
+Both nivolumab-containing arms demonstrated greater objective response rates than ipilimumab regardless of PD-L1 expression levels. ORRs were higher for the combination of nivolumab and ipilimumab relative to nivolumab monotherapy across tumour PD-L1 expression levels (Table 26) after 90 months of follow-up, with a best overall response of complete response correlating to an improved survival rate.
 
 After 90 months of follow-up, median durations of response for patients with tumour PD-L1 expression level ≥ 5% were 78.19 months (range: 18.07-N.A.) in the combination arm,77.21 months (range: 26.25-N.A.) in the nivolumab monotherapy arm and 31.28 months (range: 6.08-N.A.) in the ipilimumab arm. At tumour PD-L1 expression &lt; 5%, median durations of response were not reached (range: 61.93-N.A.) in the combination arm, were 90.84 months (range: 50.43-N.A.) in the nivolumab monotherapy arm and 19.25 months (range: 5.32-47.44) in the ipilimumab monotherapy arm.
 
@@ -1628,9 +1827,9 @@ At the final OS analysis with a minimum follow up of 59.9 months, the HR for OS 
 
 ## Exploratory subgroup analysis by tumour PD-L1 expression and disease stage
 
-The key efficacy results for the subgroup of patients with tumour PDL1 expression ≥ 1% and disease stage II-IIIA from an exploratory analysis with a minimum follow-up of 32.9 months are summarized in Table 25.
+The key efficacy results for the subgroup of patients with tumour PD-L1 expression ≥ 1% and disease stage II-IIIA from an exploratory analysis with a minimum follow-up of 32.9 months are summarized in Table 27.
 
-Table 25: Efficacy results in patients with tumour PDL1 ≥ 1% and stage II-IIIA disease * (CA209816)
+Table 27: Efficacy results in patients with tumour PD-L1 ≥ 1% and stage II-IIIA disease * (CA209816)
 
 |                                       | nivolumab + chemotherapy (n = 81)   | nivolumab + chemotherapy (n = 81)   | chemotherapy (n = 86)   |
 |---------------------------------------|-------------------------------------|-------------------------------------|-------------------------|
@@ -1643,11 +1842,11 @@ Table 25: Efficacy results in patients with tumour PDL1 ≥ 1% and stage II-IIIA
 | 95% CI c                              | (22.2, 43.4)                        |                                     | (0.3, 8.1)              |
 | Difference of pCR (95% CI) d          |                                     | 29.8% (19.0, 40.7)                  |                         |
 
-The Kaplan-Meier curves for EFS for the subgroup of patients with tumour PDL1 expression ≥ 1% and stage II-IIIA disease, with a minimum follow-up of 32.9 months, are shown in Figure 11.
+The Kaplan-Meier curves for EFS for the subgroup of patients with tumour PD-L1 expression ≥ 1% and stage II-IIIA disease, with a minimum follow-up of 32.9 months, are shown in Figure 11.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 11: Kaplan-Meier curves of EFS in patients with tumour PDL1 ≥ 1% and stage II-IIIA disease (CA209816)
+Figure 11: Kaplan-Meier curves of EFS in patients with tumour PD-L1 ≥ 1% and stage II-IIIA disease (CA209816)
 
 <!-- image -->
 
@@ -1655,11 +1854,11 @@ Figure 11: Kaplan-Meier curves of EFS in patients with tumour PDL1 ≥ 1% and st
 
 At the time of the updated EFS analysis, an interim analysis for OS was performed (minimum followup of 32.9 months). The exploratory, descriptive HR for OS in patients with tumour PD-L1 expression ≥ 1% and stage II-IIIA disease was 0.43 (95% CI: 0.22, 0.83) for nivolumab in combination with chemotherapy vs. chemotherapy.
 
-At the final analysis (minimum follow-up of 59.9 months), the HR for OS in patients with tumour PDL1 expression ≥ 1% and stage II IIIA disease was 0.59 (95% CI: 0.35, 0.98) for nivolumab in combination with chemotherapy vs. chemotherapy. The corresponding Kaplan-Meier curves for OS are shown in Figure 12.
+At the final analysis (minimum follow-up of 59.9 months), the HR for OS in patients with tumour PD-L1 expression ≥ 1% and stage II IIIA disease was 0.59 (95% CI: 0.35, 0.98) for nivolumab in combination with chemotherapy vs. chemotherapy. The corresponding Kaplan-Meier curves for OS are shown in Figure 12.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 12: Kaplan-Meier curves of OS in patients with tumour PDL1 ≥ 1% and stage II-IIIA disease (CA209816)
+Figure 12: Kaplan-Meier curves of OS in patients with tumour PD-L1 ≥ 1% and stage II-IIIA disease (CA209816)
 
 <!-- image -->
 
@@ -1705,9 +1904,9 @@ Patients with unresectable or metastatic NSCLC, EGFR mutations or known ALK tran
 
 A total of 461 patients were randomised to receive either nivolumab in combination with platinumbased chemotherapy followed by nivolumab monotherapy (n = 229) or platinum-based chemotherapy followed by placebo (n = 232). In the neoadjuvant phase, patients received either nivolumab 360 mg administered intravenously over 30 minutes and platinum-doublet chemotherapy administered every 3 weeks, or placebo and platinum-doublet chemotherapy administered every 3 weeks until disease progression or unacceptable toxicity, for up to 4 cycles. Patients in both treatment arms could receive post-operative radiation therapy (PORT) as standard of care. In the adjuvant phase, within 90 days after the surgery patients received either nivolumab 480 mg administered intravenously over 30 minutes every 4 weeks, or placebo administered every 4 weeks for until disease progression, recurrence, or unacceptable toxicity, for up to 13 cycles. Platinum-based chemotherapy consisted of paclitaxel 175 mg/m 2 or 200 mg/m 2 and carboplatin AUC 5 or AUC 6 (any histology); pemetrexed 500 mg/m 2 , and cisplatin 75 mg/m 2 or carboplatin AUC 5 or AUC 6 (non-squamous histology); or cisplatin 75 mg/m 2 and docetaxel 75 mg/m 2 (squamous histology).
 
-Stratification factors for randomisation were tumour PDL1 expression level (≥ 1% versus &lt; 1% versus indeterminate/not evaluable), disease stage (Stage II versus Stage III), and tumour histology (squamous versus nonsquamous). Tumour PD-L1 expression levels were assessed using the PD-L1 IHC 28-8 pharmDx test. Tumour assessments were performed at baseline, within 14 days after the last dose of neoadjuvant treatment and before surgery, within 7 days prior to the start of adjuvant treatment after surgery, every 12 weeks after the first dose of adjuvant treatment for 2 years, then every 24 weeks for up to 5 years until disease recurrence or progression was confirmed by BICR.
+Stratification factors for randomisation were tumour PD-L1 expression level (≥ 1% versus &lt; 1% versus indeterminate/not evaluable), disease stage (Stage II versus Stage III), and tumour histology (squamous versus nonsquamous). Tumour PD-L1 expression levels were assessed using the PD-L1 IHC 28-8 pharmDx test. Tumour assessments were performed at baseline, within 14 days after the last dose of neoadjuvant treatment and before surgery, within 7 days prior to the start of adjuvant treatment after surgery, every 12 weeks after the first dose of adjuvant treatment for 2 years, then every 24 weeks for up to 5 years until disease recurrence or progression was confirmed by BICR.
 
-Among the 442 patients in CA20977T, 256 (58%) had tumour PDL1 expression ≥ 1% based on the PD-L1 IHC 28-8 pharmDx test. The median age was 66 years (range: 35 to 86) with 55% of patients ≥ 65 years and 7% of patients ≥ 75 years, 69% were White, 28% were Asian, 2% were Black, and 75% were male. Baseline ECOG performance status was 0 (59%) or 1 (41%); 36% had stage II and 63% had stage III disease; 24% were N1 and 39% were N2; 25% were single-station and 14% were multistation; 61% had tumours with squamous histology and 39% had tumours with non-squamous histology; and 91% were former/current smokers.
+Among the 442 patients in CA20977T, 256 (58%) had tumour PD-L1 expression ≥ 1% based on the PD-L1 IHC 28-8 pharmDx test. The median age was 66 years (range: 35 to 86) with 55% of patients ≥ 65 years and 7% of patients ≥ 75 years, 69% were White, 28% were Asian, 2% were Black, and 75% were male. Baseline ECOG performance status was 0 (59%) or 1 (41%); 36% had stage II and 63% had stage III disease; 24% were N1 and 39% were N2; 25% were single-station and 14% were multistation; 61% had tumours with squamous histology and 39% had tumours with non-squamous histology; and 91% were former/current smokers.
 
 Seventy-eight percent of patients in the neoadjuvant nivolumab in combination with platinum-doublet chemotherapy followed by adjuvant nivolumab arm had definitive surgery compared to 77% of patients in the neoadjuvant placebo and platinum-doublet chemotherapy followed by placebo arm. Approximately 5% of patients in each treatment arm received PORT.
 
@@ -1719,9 +1918,9 @@ In a pre-specified interim analysis in all randomised patients with a median fol
 
 Exploratory subgroup analysis by tumour PD-L1 expression
 
-EFS for the subgroup of patients with tumour PDL1 expression ≥ 1%, with a median follow-up of 41 months (range: 31.3-59.8 months), are presented in Table 26 and Figure 13.
+EFS for the subgroup of patients with tumour PD-L1 expression ≥ 1%, with a median follow-up of 41 months (range: 31.3-59.8 months), are presented in Table 28 and Figure 13.
 
-Table 26: Efficacy results in patients with tumour PDL1 ≥ 1% (CA20977T)
+Table 28: Efficacy results in patients with tumour PD-L1 ≥ 1% (CA20977T)
 
 |                                    | nivolumab with chemotherapy/ nivolumab (n = 128)   | placebo with chemotherapy/ placebo (n = 128)   |
 |------------------------------------|----------------------------------------------------|------------------------------------------------|
@@ -1738,7 +1937,7 @@ a Kaplan-Meier estimate.
 
 b Based on an unstratified Cox proportional hazard model.
 
-Figure 13: Kaplan-Meier curves of EFS in patients with tumour PDL1 ≥ 1% (CA20977T)
+Figure 13: Kaplan-Meier curves of EFS in patients with tumour PD-L1 ≥ 1% (CA20977T)
 
 <!-- image -->
 
@@ -1752,29 +1951,99 @@ Event Free Survival per BICR (Months)
 
    Nivolumab + chemotherapy/Nivolumab (events: 47/128), median and 95% CI:46.55 (35.81, NE) - - - - - -Placebo + Chemotherapy/Placebo (events: 70/128), median and 95% CI: 15.08 (9.33, 31.41) Based on data cut-off 11-Nov-2024, minimum follow-up of 31.3 months
 
-At the time of the updated EFS analysis, an interim analysis for OS was performed (minimum followup of 31.3 months). The exploratory, descriptive HR for OS in patients with tumour PD-L1 expression ≥ 1% was 0.61 (95% CI: 0.39, 0.97) for the nivolumab in combination with chemotherapy/nivolumab arm vs. the placebo with chemotherapy/placebo arm. The Kaplan-Meier curves for OS for the subgroup of patients with tumour PDL1 expression ≥ 1% are shown in Figure 14.
+At the time of the updated EFS analysis, an interim analysis for OS was performed (minimum followup of 31.3 months). The exploratory, descriptive HR for OS in patients with tumour PD-L1 expression ≥ 1% was 0.61 (95% CI: 0.39, 0.97) for the nivolumab in combination with chemotherapy/nivolumab arm vs. the placebo with chemotherapy/placebo arm. The Kaplan-Meier curves for OS for the subgroup of patients with tumour PD-L1 expression ≥ 1% are shown in Figure 14.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 14: Kaplan-Meier curves of OS in patients with tumour PDL1 ≥ 1% (CA20977T)
+Figure 14: Kaplan-Meier curves of OS in patients with tumour PD-L1 ≥ 1% (CA20977T)
 
 <!-- image -->
 
 Overall Survival (Months)
 
-Number of Subjects at Risk Nivolumab + chemotherapy/Nivolumab 128  123  114  108  103 99 96 94 92 90 90 80 67 55 42 26 15 4 2 1 0 Placebo + chemotherapy/Placebo 128  126  116  106  101 96 88 86 77 77 73 65 54 36 25 17 10 5 4 0 0
+92
+
+90
+
+90
+
+80
+
+77
+
+## Number of Subjects at Risk
+
+Nivolumab + chemotherapy/Nivolumab
+
+128  123  114  108  103
+
+99
+
+96
+
+Placebo + chemotherapy/Placebo
+
+128  126  116  106  101
+
+96
+
+88
+
+94
+
+86
+
+77
+
+73
+
+65
+
+67
+
+54
+
+55
+
+36
+
+42
+
+25
+
+26
+
+17
+
+15
+
+10
+
+4
+
+5
+
+2
+
+4
+
+1
+
+0
 
    Nivolumab + chemotherapy/Nivolumab (events: 31/128), median and 95% CI: NR - - - - - -Placebo + Chemotherapy/Placebo (events: 46/128), median and 95% CI: NR (38.08, NE) Based on data cut-off 11-Nov-2024, minimum follow-up of 31.3 months
 
 ## First-line treatment of NSCLC
 
-## Randomised phase 3 study of nivolumab in combination with ipilimumab and 2 cycles of platinum-based chemotherapy vs. 4 cycles of platinum-based chemotherapy (CA2099LA)
-
-The safety and efficacy of nivolumab 360 mg every 3 weeks in combination with ipilimumab 1 mg/kg every 6 weeks and 2 cycles of platinum-based chemotherapy were evaluated in a phase 3, randomised, open-label study (CA2099LA). The study included patients (18 years or older) with histologically confirmed non-squamous or squamous Stage IV or recurrent NSCLC (per the 7 th International Association for the Study of Lung Cancer classification), ECOG performance status 0 or 1, and no prior anticancer therapy (including EGFR and ALK inhibitors). Patients were enrolled regardless of their tumour PD-L1 status.
+Randomised phase 3 study of nivolumab in combination with ipilimumab and 2 cycles of platinum-based chemotherapy vs. 4 cycles of platinum-based chemotherapy (CA2099LA) The safety and efficacy of nivolumab 360 mg every 3 weeks in combination with ipilimumab 1 mg/kg every 6 weeks and 2 cycles of platinum-based chemotherapy were evaluated in a phase 3, randomised, open-label study (CA2099LA). The study included patients (18 years or older) with histologically confirmed non-squamous or squamous Stage IV or recurrent NSCLC (per the 7 th International Association for the Study of Lung Cancer classification), ECOG performance status 0 or 1, and no prior anticancer therapy (including EGFR and ALK inhibitors). Patients were enrolled regardless of their tumour PD-L1 status.
 
 Patients with sensitising EGFR mutations or ALK translocations, active (untreated) brain metastases, carcinomatous meningitis, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the study. Patients with treated brain metastases were eligible if neurologically returned to baseline at least 2 weeks prior to enrolment, and either off corticosteroids, or on a stable or decreasing dose of &lt; 10 mg daily prednisone equivalents. Randomisation was stratified by histology (squamous vs non-squamous), tumour PD-L1 expression level (≥ 1% vs &lt; 1%), and gender (male vs female).
 
 A total of 719 patients were randomised to receive either nivolumab in combination with ipilimumab and platinum-based chemotherapy (n = 361) or platinum-based chemotherapy (n = 358). Patients in the nivolumab in combination with ipilimumab and platinum-based chemotherapy arm received nivolumab 360 mg administered intravenously over 30 minutes every 3 weeks in combination with ipilimumab 1 mg/kg administered intravenously over 30 minutes every 6 weeks and platinum-based
+
+0
+
+0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1790,7 +2059,7 @@ CA2099LA primary efficacy outcome measure was OS. Additional efficacy endpoints 
 
 The study demonstrated a statistically significant benefit in OS, PFS, and ORR for patients randomised to nivolumab in combination with ipilimumab and platinum-based chemotherapy as compared to platinum-based chemotherapy alone at the prespecified interim analysis when 351 events were observed (87% of the planned number of events for final analysis). Minimum follow-up for OS was 8.1 months.
 
-Efficacy results are shown in Figure 15 (updated OS analysis with a minimum follow-up of 12.7 months) and Table 27 (primary analysis with a minimum follow-up of 8.1 months).
+Efficacy results are shown in Figure 15 (updated OS analysis with a minimum follow-up of 12.7 months) and Table 29 (primary analysis with a minimum follow-up of 8.1 months).
 
 An updated efficacy analysis was performed when all patients had a minimum follow-up of 12.7 months (see Figure 15). At the time of this analysis, the hazard ratio for OS was 0.66 (95% CI: 0.55, 0.80) and the hazard ratio for PFS was 0.68 (95% CI: 0.57, 0.82).
 
@@ -1812,7 +2081,7 @@ Figure 15: Kaplan-Meier plot of OS (CA2099LA)
 
 - - - - - -Chemotherapy (events: 242/358), median and 95% CI: 10.91 (9.46, 12.55)
 
-Table 27: Efficacy results (CA2099LA)
+Table 29: Efficacy results (CA2099LA)
 
 |                               | nivolumab + ipilimumab + chemotherapy (n = 361)   | chemotherapy (n = 358)   |
 |-------------------------------|---------------------------------------------------|--------------------------|
@@ -1865,18 +2134,18 @@ Subsequent systemic therapy was received by 28.8% and 41.1% of patients in the c
 
 In study CA2099LA, subgroup descriptive analysis relative to chemotherapy, OS benefit was shown in patients treated with nivolumab in combination with ipilimumab and chemotherapy with squamous histology (HR [95% CI] 0.65 [0.46, 0.93], n = 227) and in patients with non-squamous histology (HR [95% CI] 0.72 [0.55, 0.93], n = 492).
 
-Table 28 summarises efficacy results of OS, PFS, and ORR by tumour PD-L1 expression in pre-specified subgroup analyses.
+Table 30 summarises efficacy results of OS, PFS, and ORR by tumour PD-L1 expression in pre-specified subgroup analyses.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 28: Efficacy results by tumour PD-L1 expression (CA2099LA)
+Table 30: Efficacy results by tumour PD-L1 expression (CA2099LA)
 
-|                             | nivolumab + ipilimumab + chemo- therapy   | chemo- therapy     | nivolumab + ipilimumab + chemo- therapy   | chemo- therapy       | nivolumab + ipilimumab + chemo- therapy   | chemo- therapy             | nivolumab + ipilimumab + chemo- therapy   | chemo- therapy        |
-|-----------------------------|-------------------------------------------|--------------------|-------------------------------------------|----------------------|-------------------------------------------|----------------------------|-------------------------------------------|-----------------------|
-|                             | PD-L1<1% (n = 264)                        | PD-L1<1% (n = 264) | PD-L1 ≥ 1% (n = 406)                      | PD-L1 ≥ 1% (n = 406) | PD-L1 ≥ 1%to 49% (n = 233)                | PD-L1 ≥ 1%to 49% (n = 233) | PD-L1 ≥ 50% (n = 173)                     | PD-L1 ≥ 50% (n = 173) |
-| OS hazard ratio (95% CI) a  | 0.65 (0.46, 0.92)                         | 0.65 (0.46, 0.92)  | 0.67 (0.51, 0.89)                         | 0.67 (0.51, 0.89)    | 0.69 (0.48, 0.98)                         | 0.69 (0.48, 0.98)          | 0.64 (0.41, 1.02)                         | 0.64 (0.41, 1.02)     |
-| PFS hazard ratio (95% CI) a | 0.77 (0.57, 1.03)                         | 0.77 (0.57, 1.03)  | 0.67 (0.53, 0.85)                         | 0.67 (0.53, 0.85)    | 0.71 (0.52, 0.97)                         | 0.71 (0.52, 0.97)          | 0.59 (0.40, 0.86)                         | 0.59 (0.40, 0.86)     |
-| ORR%                        | 31.1                                      | 20.9               | 41.9                                      | 27.6                 | 37.8                                      | 24.5                       | 48.7                                      | 30.9                  |
+|                             | nivolumab + ipilimumab + chemo- therapy   | chemo- therapy     | nivolumab + ipilimumab + chemo- therapy   | chemo- therapy     | nivolumab + ipilimumab + chemo- therapy   | chemo- therapy             | nivolumab + ipilimumab + chemo- therapy   | chemo- therapy        |
+|-----------------------------|-------------------------------------------|--------------------|-------------------------------------------|--------------------|-------------------------------------------|----------------------------|-------------------------------------------|-----------------------|
+|                             | PD-L1<1% (n = 264)                        | PD-L1<1% (n = 264) | PD-L1≥1% (n = 406)                        | PD-L1≥1% (n = 406) | PD-L1 ≥ 1%to 49% (n = 233)                | PD-L1 ≥ 1%to 49% (n = 233) | PD-L1 ≥ 50% (n = 173)                     | PD-L1 ≥ 50% (n = 173) |
+| OS hazard ratio (95% CI) a  | 0.65 (0.46, 0.92)                         | 0.65 (0.46, 0.92)  | 0.67 (0.51, 0.89)                         | 0.67 (0.51, 0.89)  | 0.69 (0.48, 0.98)                         | 0.69 (0.48, 0.98)          | 0.64 (0.41, 1.02)                         | 0.64 (0.41, 1.02)     |
+| PFS hazard ratio (95% CI) a | 0.77 (0.57, 1.03)                         | 0.77 (0.57, 1.03)  | 0.67 (0.53, 0.85)                         | 0.67 (0.53, 0.85)  | 0.71 (0.52, 0.97)                         | 0.71 (0.52, 0.97)          | 0.59 (0.40, 0.86)                         | 0.59 (0.40, 0.86)     |
+| ORR%                        | 31.1                                      | 20.9               | 41.9                                      | 27.6               | 37.8                                      | 24.5                       | 48.7                                      | 30.9                  |
 
 a Hazard ratio based on unstratified Cox proportional hazards model.
 
@@ -1926,7 +2195,7 @@ The observed OS benefit was consistently demonstrated across subgroups of patien
 
 Study CA209017 included a limited number of patients ≥ 75 years (11 in the nivolumab group and 18 in the docetaxel group). Nivolumab showed numerically less effect on OS (HR 1.85; 95% CI: 0.76, 4.51), PFS (HR = 1.76; 95%-CI: 0.77, 4.05) and ORR (9.1% vs. 16.7%). Because of the small sample size, no definitive conclusions can be drawn from these data.
 
-Efficacy results are shown in Table 29.
+Efficacy results are shown in Table 31.
 
 24
 
@@ -1936,7 +2205,7 @@ Efficacy results are shown in Table 29.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 29: Efficacy results (CA209017)
+Table 31: Efficacy results (CA209017)
 
 |                                                 | nivolumab (n = 135)                             | (n =                                            | docetaxel 137)                                  |
 |-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
@@ -1966,7 +2235,7 @@ Table 29: Efficacy results (CA209017)
 | p-value                                         |                                                 | < 0.0004                                        |                                                 |
 | Median (95% CI) (months)                        | 3.48 (2.14, 4.86)                               |                                                 | 2.83 (2.10, 3.52)                               |
 | Rate (95% CI) at 12 months                      | 20.8 (14.0, 28.4)                               |                                                 | 6.4 (2.9, 11.8)                                 |
-| Updated analysis                                | Updated analysis                                | Updated analysis                                | Updated analysis                                |
+| Updated analysis Minimum follow-up: 24.2 months | Updated analysis Minimum follow-up: 24.2 months | Updated analysis Minimum follow-up: 24.2 months | Updated analysis Minimum follow-up: 24.2 months |
 | Overall survival a                              |                                                 |                                                 |                                                 |
 | Events                                          | 110 (81.4%)                                     |                                                 | 128 (93.4%)                                     |
 | Hazard ratio                                    |                                                 | 0.62                                            |                                                 |
@@ -2006,9 +2275,9 @@ Study CA209063 was a single-arm, open-label study conducted in 117 patients with
 
 ## Single-arm phase 2 study (CA209171)
 
-Study CA209171 was a single-arm, open label study of nivolumab monotherapy in patients with previously treated advanced or metastatic squamous NSCLC. Safety was the primary endpoint and efficacy was a secondary endpoint. Of the 811 treated patients, 103 (13%) had an ECOG performance score of 2, 686 (85%) were &lt; 75 years old and 125 (15%) were ≥ 75 years old. No new safety signals were identified in all treated patients and the overall safety profile of nivolumab was similar across subgroups. Efficacy results based on investigator-assessed ORR are presented in Table 30 below.
+Study CA209171 was a single-arm, open label study of nivolumab monotherapy in patients with previously treated advanced or metastatic squamous NSCLC. Safety was the primary endpoint and efficacy was a secondary endpoint. Of the 811 treated patients, 103 (13%) had an ECOG performance score of 2, 686 (85%) were &lt; 75 years old and 125 (15%) were ≥ 75 years old. No new safety signals were identified in all treated patients and the overall safety profile of nivolumab was similar across subgroups. Efficacy results based on investigator-assessed ORR are presented in Table 32 below.
 
-Table 30: ORR based on response evaluable patients - total and by subgroup (CA209171)
+Table 32: ORR based on response evaluable patients - total and by subgroup (CA209171)
 
 | Results                         | Total        | ECOG PS 2   | < 75 years   | ≥ 75 years    |
 |---------------------------------|--------------|-------------|--------------|---------------|
@@ -2042,21 +2311,19 @@ Figure 17: Kaplan-Meier curves of OS (CA209057)
 
 <!-- image -->
 
-   Nivolumab 3 mg/kg (events: 190/292), median and 95% CI: 12.19 (9.66, 14.98)
+   Nivolumab 3 mg/kg (events: 190/292), median and 95% CI: 12.19 (9.66, 14.98) - - - - - -Docetaxel (events: 223/290), median and 95% CI: 9.36 (8.05, 10.68)
 
-- - - - - -Docetaxel (events: 223/290), median and 95% CI: 9.36 (8.05, 10.68)
+The trial demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with docetaxel at the prespecified interim analysis when 413 events were observed (93% of the planned number of events for final analysis). Efficacy results are shown in Table 33.
 
-The trial demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with docetaxel at the prespecified interim analysis when 413 events were observed (93% of the planned number of events for final analysis). Efficacy results are shown in Table 31.
-
-Table 31: Efficacy results (CA209057)
+Table 33: Efficacy results (CA209057)
 
 |                                                              | nivolumab (n = 292)                                          | docetaxel (n = 290)                                          |
 |--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
 | Prespecified interim analysis Minimum follow-up: 13.2 months | Prespecified interim analysis Minimum follow-up: 13.2 months | Prespecified interim analysis Minimum follow-up: 13.2 months |
 | Overall survival                                             |                                                              |                                                              |
 | Events                                                       | 190 (65.1%)                                                  | 223 (76.9%)                                                  |
-| Hazard ratio a                                               | 0.73                                                         |                                                              |
-| (95.92% CI)                                                  | (0.59, 0.89)                                                 |                                                              |
+| Hazard ratio a CI)                                           | 0.73                                                         |                                                              |
+| (95.92%                                                      | (0.59, 0.89)                                                 |                                                              |
 | p-value b                                                    | 0.0015                                                       |                                                              |
 | Median (95% CI) months                                       | 12.19 (9.66, 14.98)                                          | 9.36 (8.05, 10.68)                                           |
 | Rate (95% CI) at 12 months                                   | 50.5 (44.6, 56.1)                                            | 39.0 (33.3, 44.6)                                            |
@@ -2125,9 +2392,9 @@ Quantifiable tumour PD-L1 expression was measured in 79% of patients in the nivo
 
 Patients with tumour PD-L1 expression by all predefined expression levels in the nivolumab group demonstrated greater likelihood of improved survival compared to docetaxel, whereas survival was similar to docetaxel in patients with low or no tumour PD-L1 expression. In terms of ORR, increasing PD-L1 expression was associated with larger ORR. Comparable to the overall population, median duration of response was increased with nivolumab vs. docetaxel for patients with no PD-L1 expression (18.3 months vs. 5.6 months) and for patients with PD-L1 expression (16.0 months vs. 5.6 months).
 
-Table 32 summarises results of ORR and OS by tumour PD-L1 expression.
+Table 34 summarises results of ORR and OS by tumour PD-L1 expression.
 
-Table 32: ORR and OS by tumour PD-L1 expression (CA209057)
+Table 34: ORR and OS by tumour PD-L1 expression (CA209057)
 
 | PD-L1 expression   | nivolumab                                                     | docetaxel                                                     |                     |
 |--------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------|
@@ -2179,11 +2446,11 @@ Treatment continued until disease progression, unacceptable toxicity, or for up 
 
 CA209743 baseline characteristics were generally balanced across all treatment groups. The median age was 69 years (range: 25-89) with 72% ≥ 65 years of age and 26% ≥ 75 years of age. The majority of patients were white (85%) and male (77%). Baseline ECOG performance status was 0 (40%) or 1 (60%), 80% of patients with PD-L1 ≥ 1% and 20% with PD-L1 &lt; 1%, 75% had epithelioid and 25% had non-epithelioid histology.
 
-CA209743 primary efficacy outcome measure was OS. Key secondary efficacy endpoints were PFS, ORR, and duration of response as assessed by Blinded Independent Central Review (BICR) utilising modified RECIST criteria for pleural mesothelioma. Descriptive analyses for these secondary endpoints are presented in Table 33.
+CA209743 primary efficacy outcome measure was OS. Key secondary efficacy endpoints were PFS, ORR, and duration of response as assessed by Blinded Independent Central Review (BICR) utilising modified RECIST criteria for pleural mesothelioma. Descriptive analyses for these secondary endpoints are presented in Table 35.
 
 The study demonstrated a statistically significant improvement in OS for patients randomised to nivolumab in combination with ipilimumab as compared to chemotherapy at the prespecified interim analysis when 419 events were observed (89% of the planned number of events for final analysis). Minimum follow-up for OS was 22 months.
 
-Efficacy results are shown in Figure 18 and Table 33.
+Efficacy results are shown in Figure 18 and Table 35.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2191,9 +2458,16 @@ Figure 18: Kaplan-Meier curves of OS (CA209743)
 
 <!-- image -->
 
-Table 33: Efficacy results (CA209743)
-
 39
+
+| Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |
+|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
+| Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       |
+| 303                          | 273                          | 251                          | 226                          | 200                          | 173                          | 143                          | 124                          | 101                          | 65                           | 30                           | 11                           | 0                            |
+| Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 |
+| 302                          | 268                          | 233                          | 190                          | 162                          | 136                          | 113                          | 95                           | 62                           | 38                           | 20                           | 11                           | 0                            |
+
+Table 35: Efficacy results (CA209743)
 
 |                               | nivolumab + ipilimumab (n = 303)   | chemotherapy (n = 302)   |
 |-------------------------------|------------------------------------|--------------------------|
@@ -2222,9 +2496,9 @@ Table 33: Efficacy results (CA209743)
 
 Subsequent systemic therapy was received by 44.2% and 40.7% of patients in the combination and chemotherapy arms, respectively. Subsequent immunotherapy (including anti-PD-1, anti-PD-L1, and anti-CTLA-4) was received by 3.3% and 20.2% of patients in the combination and chemotherapy arms, respectively.
 
-Table 34 summarises efficacy results of OS, PFS, and ORR by histology in prespecified subgroup analyses.
+Table 36 summarises efficacy results of OS, PFS, and ORR by histology in prespecified subgroup analyses.
 
-Table 34: Efficacy results by histology (CA209743)
+Table 36: Efficacy results by histology (CA209743)
 
 |                            | Epithelioid (n = 471)            | Epithelioid (n = 471)   | Non-epithelioid (n = 134)       | Non-epithelioid (n = 134)   |
 |----------------------------|----------------------------------|-------------------------|---------------------------------|-----------------------------|
@@ -2243,13 +2517,13 @@ Table 34: Efficacy results by histology (CA209743)
 | Duration of response       | 8.44                             | 6.83                    | 24.02                           | 4.21                        |
 | Median (months) (95% CI) c | (7.16, 14.59)                    | (5.59, 7.13)            | (8.31, N.A.)                    | (2.79, 7.03)                |
 
-Table 35 summarises efficacy results of OS, PFS, and ORR by baseline tumour PD-L1 expression in prespecified subgroup analyses.
+Table 37 summarises efficacy results of OS, PFS, and ORR by baseline tumour PD-L1 expression in prespecified subgroup analyses.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 35: Efficacy results by tumour PD-L1 expression (CA209743)
+Table 37: Efficacy results by tumour PD-L1 expression (CA209743)
 
-|                            | PD-L1<1% (n = 135)              | PD-L1<1% (n = 135)        | PD-L1 ≥ 1% (n = 451)             | PD-L1 ≥ 1% (n = 451)      |
+|                            | PD-L1<1% (n = 135)              | PD-L1<1% (n = 135)        | PD-L1≥1% (n = 451)               | PD-L1≥1% (n = 451)        |
 |----------------------------|---------------------------------|---------------------------|----------------------------------|---------------------------|
 |                            | nivolumab + ipilimumab (n = 57) | chemotherapy (n = 78)     | nivolumab + ipilimumab (n = 232) | chemotherapy (n = 219)    |
 | Overall survival           | Overall survival                | Overall survival          | Overall survival                 | Overall survival          |
@@ -2284,11 +2558,11 @@ daily, administered orally for 4 weeks followed by 2 weeks off, every cycle. Tre
 
 Baseline characteristics were generally balanced between the two groups. The median age was 61 years (range: 21-85) with 38% ≥ 65 years of age and 8% ≥ 75 years of age. The majority of patients were male (73%) and white (87%), and 31% and 69% of patients had a baseline KPS of 70 to 80% and 90 to 100%, respectively. The median duration of time from initial diagnosis to randomisation was 0.4 years in both the nivolumab 3 mg/kg in combination with ipilimumab 1 mg/kg and sunitinib groups. The median duration of treatment was 7.9 months (range: 1 day-21.4+ months) in nivolumab with ipilimumab-treated patients and was 7.8 months (range: 1 days-20.2+ months) in sunitinib-treated patients. Nivolumab with ipilimumab was continued beyond progression in 29% of patients.
 
-Efficacy results for the intermediate/poor risk patients are shown in Table 36 (primary analysis with a minimum follow-up of 17.5 months and with a minimum follow-up of 60 months) and in Figure 19 (minimum follow-up of 60 months).
+Efficacy results for the intermediate/poor risk patients are shown in Table 38 (primary analysis with a minimum follow-up of 17.5 months and with a minimum follow-up of 60 months) and in Figure 19 (minimum follow-up of 60 months).
 
 OS results at an additional descriptive analysis undertaken at a minimum follow-up of 60 months show outcomes consistent with the original primary analysis.
 
-Table 36: Efficacy results in intermediate/poor risk patients (CA209214)
+Table 38: Efficacy results in intermediate/poor risk patients (CA209214)
 
 |                                                 | nivolumab + ipilimumab (n = 425)                | nivolumab + ipilimumab (n = 425)                | sunitinib (n = 422)                             |
 |-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
@@ -2357,24 +2631,30 @@ c p-value is compared to alpha 0.002 in order to achieve statistical significanc
 - f p-value is compared to alpha 0.001 in order to achieve statistical significance.
 - g Computed using Kaplan-Meier method.
 - h p-value is compared to alpha 0.009 in order to achieve statistical significance.
-
-'+'  denotes a censored observation.
+- '+'  denotes a censored observation.
 
 NE = non-estimable
 
 * Descriptive analysis based on data cut-off: 26-Feb-2021.
 
-| Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |
-|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-| Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       |
-| 425                          | 372                          | 332                          | 306                          | 270                          | 241                          | 220                          | 207                          | 196                          | 181                          | 163                          | 79                           | 2 0                          |
-| Sunitinib 422                | 353                          | 291                          | 237                          | 206                          | 184                          | 169                          | 151                          | 137                          | 125                          | 112                          | 58                           | 3 0                          |
-
 Figure 19: Kaplan-Meier curves of OS in intermediate/poor risk patients (CA209214) Minimum follow-up of 60 months
 
 <!-- image -->
 
-An updated descriptive OS analysis was performed when all patients had a minimum follow-up of 24 months. At the time of this analysis, the hazard ratio was 0.66 (99.8% CI 0.48-0.91) with 166/425 events in the combination arm and 209/422 events in the sunitinib arm. In intermediate/poor-risk patients, OS benefit was observed in the nivolumab in combination with ipilimumab arm vs. sunitinib regardless of tumour PD-L1 expression. Median OS for tumour PDL1 expression ≥ 1% was not reached for nivolumab in combination with ipilimumab, and was 19.61 months in the sunitinib arm (HR = 0.52; 95% CI: 0.34, 0.78). For tumour PD-L1 expression &lt; 1%, the median OS was 34.7 months for the nivolumab in combination with ipilimumab, and was 32.2 months in the sunitinib arm (HR = 0.70; 95% CI: 0.54, 0.92).
+0
+
+0
+
+Overall survival (months)
+
+| Number of subjects at risk   |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |
+|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
+| Nivolumab + 425              |                          372 |                          332 |                          306 |                          270 |                          241 |                          220 |                          207 |                          196 |                          181 |                          163 |                           79 |                            0 |
+| 422                          |                          353 |                          291 |                          237 |                          206 |                          184 |                          169 |                          151 |                          137 |                          125 |                          112 |                           58 |                            0 |
+
+   Nivolumab + ipilimumab (events: 242/425), median and 95.0% CI: 46.95 (35.35, 57.43) - - - - - -Sunitinib (events: 282/422), median and 95.0% CI: 26.64 (22.08, 33.54)
+
+An updated descriptive OS analysis was performed when all patients had a minimum follow-up of 24 months. At the time of this analysis, the hazard ratio was 0.66 (99.8% CI 0.48-0.91) with 166/425 events in the combination arm and 209/422 events in the sunitinib arm. In intermediate/poor-risk patients, OS benefit was observed in the nivolumab in combination with ipilimumab arm vs. sunitinib regardless of tumour PD-L1 expression. Median OS for tumour PD-L1 expression ≥ 1% was not reached for nivolumab in combination with ipilimumab, and was 19.61 months in the sunitinib arm (HR = 0.52; 95% CI: 0.34, 0.78). For tumour PD-L1 expression &lt; 1%, the median OS was 34.7 months for the nivolumab in combination with ipilimumab, and was 32.2 months in the sunitinib arm (HR = 0.70; 95% CI: 0.54, 0.92).
 
 CA209214 also randomised 249 favourable risk patients as per IMDC criteria to nivolumab plus ipilimumab (n = 125) or to sunitinib (n = 124). These patients were not evaluated as part of the primary efficacy population. At a minimum of 24 months follow-up, OS in favourable risk patients
 
@@ -2392,13 +2672,13 @@ The safety and efficacy of nivolumab 240 mg in combination with cabozantinib 40 
 
 A total of 651 patients were randomised to receive either nivolumab 240 mg (n = 323) administered intravenously every 2 weeks in combination with cabozantinib 40 mg once daily orally or sunitinib (n = 328) 50 mg daily, administered orally for 4 weeks followed by 2 weeks off. Treatment continued until disease progression or unacceptable toxicity with nivolumab administration for up to 24 months. Treatment beyond initial investigator-assessed RECIST version 1.1-defined progression was permitted if the patient had a clinical benefit and was tolerating study drug, as determined by the investigator. First tumour assessment post-baseline was performed at 12 weeks (± 7 days) following randomisation. Subsequent tumour assessments occurred at every 6 weeks (± 7 days) until Week 60, then every 12 weeks (± 14 days) until radiographic progression, confirmed by the BICR. The primary efficacy outcome measure was PFS as determined by a BICR. Additional efficacy measures included OS and ORR as key secondary endpoints.
 
-Baseline characteristics were generally balanced between the two groups. The median age was 61 years (range: 28-90) with 38.4% ≥ 65 years of age and 9.5% ≥ 75 years of age. The majority of patients were male (73.9%) and white (81.9%). Eight percent of patients were Asian, 23.2% and 76.5% of patients had a baseline KPS of 70 to 80% and 90 to 100%, respectively. Patient distribution by IMDC risk categories was 22.6% favourable, 57.6% intermediate, and 19.7% poor. For tumour PD-L1 expression, 72.5% of patients had PD-L1 expression &lt; 1% or indeterminate and 24.9% of patients had PDL1 expression ≥ 1%. 11.5% of patients had tumours with sarcomatoid features. The median duration of treatment was 14.26 months (range: 0.2-27.3 months) in nivolumab with cabozantinib-treated patients and was 9.23 months (range: 0.8-27.6 months) in sunitinib-treated patients.
+Baseline characteristics were generally balanced between the two groups. The median age was 61 years (range: 28-90) with 38.4% ≥ 65 years of age and 9.5% ≥ 75 years of age. The majority of patients were male (73.9%) and white (81.9%). Eight percent of patients were Asian, 23.2% and 76.5% of patients had a baseline KPS of 70 to 80% and 90 to 100%, respectively. Patient distribution by IMDC risk categories was 22.6% favourable, 57.6% intermediate, and 19.7% poor. For tumour PD-L1 expression, 72.5% of patients had PD-L1 expression &lt; 1% or indeterminate and 24.9% of patients had PD-L1 expression ≥ 1%. 11.5% of patients had tumours with sarcomatoid features. The median duration of treatment was 14.26 months (range: 0.2-27.3 months) in nivolumab with cabozantinib-treated patients and was 9.23 months (range: 0.8-27.6 months) in sunitinib-treated patients.
 
-The study demonstrated a statistically significant benefit in PFS, OS, and ORR for patients randomised to nivolumab in combination with cabozantinib as compared to sunitinib. Efficacy results from the primary analysis (minimum follow-up 10.6 months; median follow-up 18.1 months) are shown in Table 37.
+The study demonstrated a statistically significant benefit in PFS, OS, and ORR for patients randomised to nivolumab in combination with cabozantinib as compared to sunitinib. Efficacy results from the primary analysis (minimum follow-up 10.6 months; median follow-up 18.1 months) are shown in Table 39.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 37: Efficacy results (CA2099ER)
+Table 39: Efficacy results (CA2099ER)
 
 |                               | nivolumab + cabozantinib (n = 323)   | sunitinib (n = 328)   |
 |-------------------------------|--------------------------------------|-----------------------|
@@ -2430,11 +2710,9 @@ Table 37: Efficacy results (CA2099ER)
 
 a Stratified Cox proportional hazards model. Hazard ratio is nivolumab and cabozantinib over sunitinib.
 
-b Log-rank test stratified by IMDC prognostic risk score (0, 1-2, 3-6), PD-L1 tumour expression ( ≥ 1% versus &lt; 1% or indeterminate) and region (US/Canada/W Europe/N Europe, ROW) as entered in the IRT.
+b Log-rank test stratified by IMDC prognostic risk score (0, 1-2, 3-6), PD-L1 tumour expression (≥ 1% versus &lt; 1% or indeterminate) and region (US/Canada/W Europe/N Europe, ROW) as entered in the IRT.
 
-c
-
-2-sided p-values from stratified regular log-rank test.
+c 2-sided p-values from stratified regular log-rank test.
 
 d Based on Kaplan-Meier estimates.
 
@@ -2448,15 +2726,17 @@ h 2-sided p-value from CMH test.
 
 NE = non-estimable
 
-The primary analysis of PFS included censoring for new anti-cancer treatment (Table 37). Results for PFS with and without censoring for new anti-cancer treatment were consistent.
+The primary analysis of PFS included censoring for new anti-cancer treatment (Table 39). Results for PFS with and without censoring for new anti-cancer treatment were consistent.
 
 PFS benefit was observed in the nivolumab in combination with cabozantinib arm vs. suntinib regardless of the IMDC risk category. Median PFS for the favourable risk group was not reached for nivolumab in combination with cabozantinib, and was 12.81 months in the sunitinib arm (HR = 0.60; 95% CI: 0.37, 0.98). Median PFS for the intermediate risk group was 17.71 months for nivolumab in combination with cabozantinib and was 8.38 months in the sunitinib arm (HR = 0.54; 95% CI: 0.41, 0.73). Median PFS for the poor risk group was 12.29 months for nivolumab in combination with cabozantinib and was 4.21 months in the sunitinib arm (HR = 0.36; 95% CI: 0.23, 0.58).
 
 <div style=\"page-break-after: always\"></div>
 
-PFS benefit was observed in the nivolumab in combination with cabozantinib arm vs. sunitinib regardless of tumour PD-L1 expression. Median PFS for tumour PDL1 expression ≥ 1% was 13.08 months for nivolumab in combination with cabozantinib, and was 4.67 months in the sunitinib arm (HR = 0.45; 95% CI: 0.29, 0.68). For tumour PD-L1 expression &lt; 1%, the median PFS was 19.84 months for nivolumab in combination with cabozantinib, and 9.26 months in the sunitinib arm (HR = 0.50; 95% CI: 0.38, 0.65).
+PFS benefit was observed in the nivolumab in combination with cabozantinib arm vs. sunitinib regardless of tumour PD-L1 expression. Median PFS for tumour PD-L1 expression ≥ 1% was 13.08 months for nivolumab in combination with cabozantinib, and was 4.67 months in the sunitinib arm (HR = 0.45; 95% CI: 0.29, 0.68). For tumour PD-L1 expression &lt; 1%, the median PFS was 19.84 months for nivolumab in combination with cabozantinib, and 9.26 months in the sunitinib arm (HR = 0.50; 95% CI: 0.38, 0.65).
 
 An updated PFS and OS analysis were performed when all patients had a minimum follow-up of 16.0 months and a median follow-up of 23.5 months (see Figures 20 and 21). The PFS hazard ratio was 0.52 (95% CI: 0.43, 0.64). The OS hazard ratio was 0.66 (95% CI: 0.50, 0.87). Updated efficacy data (PFS and OS) in subgroups for the IMDC risk categories and PD-L1 expression levels confirmed the original results. With the updated analysis, median PFS is reached for the favourable risk group.
+
+Figure 20: Kaplan-Meier curves of PFS (CA2099ER)
 
 <!-- image -->
 
@@ -2476,8 +2756,6 @@ An updated PFS and OS analysis were performed when all patients had a minimum fo
 <div style=\"page-break-after: always\"></div>
 
 Figure 21: Kaplan-Meier curves of OS (CA2099ER)
-
-   Nivolumab + cabozantinib (events: 86/323), median and 95% CI: NE - - - - - -Sunitinib (events: 116/328), median and 95% CI: 29.47 (28.35, NE)
 
 <!-- image -->
 
@@ -2501,11 +2779,11 @@ The Kaplan-Meier curves for OS are shown in Figure 22.
 
 <!-- image -->
 
-The trial demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with everolimus at the prespecified interim analysis when 398 events were observed (70% of the planned number of events for final analysis) (Table 38 and Figure 22). OS benefit was observed regardless of tumour PD-L1 expression level. Efficacy results are shown in Table 38.
+The trial demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with everolimus at the prespecified interim analysis when 398 events were observed (70% of the planned number of events for final analysis) (Table 40 and Figure 22). OS benefit was observed regardless of tumour PD-L1 expression level. Efficacy results are shown in Table 40.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 38: Efficacy results (CA209025)
+Table 40: Efficacy results (CA209025)
 
 |                             | nivolumab (n = 410)   | everolimus (n = 411)   |
 |-----------------------------|-----------------------|------------------------|
@@ -2555,17 +2833,19 @@ In subjects with non-clear cell histology, at a minimum follow-up of approximate
 
 ## Classical Hodgkin lymphoma
 
+## Open-label, phase 2 study (CA209205) and open-label, phase 1b study (CA209039) of nivolumab monotherapy
+
 The safety and efficacy of nivolumab 3 mg/kg as a single agent for the treatment of relapsed or refractory cHL following ASCT was evaluated in two multi-centre, open-label, single-arm studies (CA209205 and CA209039).
 
 CA209205 is a Phase 2, open-label, multi-cohort, single-arm study of nivolumab in cHL. It includes 243 patients who had ASCT; Cohort A included 63 (26%) patients who were brentuximab vedotin naïve; Cohort B included 80 (33%) patients who had received brentuximab vedotin after ASCT failure; and Cohort C included 100 (41%) patients who had received brentuximab vedotin before and/or after ASCT out of which 33 (14%) patients received brentuximab vedotin only prior to ASCT. All patients received nivolumab 3 mg/kg monotherapy intravenously over 60 minutes every 2 weeks. The first tumour assessments were conducted 9 weeks after the start of treatment and continued thereafter until disease progression or treatment discontinuation. The primary efficacy outcome measure was ORR as determined by an IRRC. Additional efficacy measures included duration of response, PFS and OS.
 
 CA209039 is a Phase 1b open-label, multi-centre, dose-escalation, and multidose study of nivolumab in relapsed/refractory hematologic malignancies, including 23 patients with cHL treated with nivolumab 3 mg/kg monotherapy; amongst which, 15 patients received prior brentuximab vedotin treatment as a salvage therapy following ASCT, similar to Cohort B of study CA209205. The first tumour assessments were conducted 4 weeks after the start of treatment and continued thereafter until disease progression or treatment discontinuation. Efficacy assessments included investigator-assessed ORR, retrospectively evaluated by an IRRC, and duration of response.
 
-Data from the 80 patients from CA209205 Cohort B and from the 15 patients from CA209039 who received prior brentuximab vedotin treatment following ASCT were integrated. Additional data from 100 patients from CA209205 Cohort C who received brentuximab before and/or after ASCT are also presented. Baseline characteristics were similar across the two studies and cohorts (see Table 39 below).
+Data from the 80 patients from CA209205 Cohort B and from the 15 patients from CA209039 who received prior brentuximab vedotin treatment following ASCT were integrated. Additional data from 100 patients from CA209205 Cohort C who received brentuximab before and/or after ASCT are also presented. Baseline characteristics were similar across the two studies and cohorts (see Table 41 below).
 
 <div style=\"page-break-after: always\"></div>
 
-| Table 39: Baseline                                                | patient characteristics CA209205 Cohort B and CA209039 (n = 95)   | in CA209205 CA209205 Cohort B a (n = 80)   | Cohort B, Cohort CA209039 (n = 15)   | C and CA209039 CA209205 Cohort C b (n = 100)   |
+| Table 41: Baseline                                                | patient characteristics CA209205 Cohort B and CA209039 (n = 95)   | in CA209205 CA209205 Cohort B a (n = 80)   | Cohort B, Cohort CA209039 (n = 15)   | C and CA209039 CA209205 Cohort C b (n = 100)   |
 |-------------------------------------------------------------------|-------------------------------------------------------------------|--------------------------------------------|--------------------------------------|------------------------------------------------|
 | Median age, years (range)                                         | 37.0 (18-72)                                                      | 37.0 (18-72)                               | 40.0 (24-54)                         | 32.0 (19-69)                                   |
 | Gender                                                            | 61 (64%)M 34 (36%) F                                              | 51 (64%)M 29 (36%) F                       | 10 (67%)M 5 (33%) F                  | 56 (56%)M 44 (44%) F                           |
@@ -2577,9 +2857,9 @@ Data from the 80 patients from CA209205 Cohort B and from the 15 patients from C
 | from most recent                                                  | 3.5 (0.2-19.0)                                                    | 3.4 (0.2-19.0)                             | 5.6 (0.5-15.0)                       | 1.7 (0.2-17.0)                                 |
 | Years transplant to first dose of study therapy, median (min-max) |                                                                   |                                            |                                      |                                                |
 
-Efficacy from both studies was evaluated by the same IRRC. Results are shown in Table 40.
+Efficacy from both studies was evaluated by the same IRRC. Results are shown in Table 42.
 
-Table 40: Efficacy results in patients with relapsed/refractory classical Hodgkin lymphoma
+Table 42: Efficacy results in patients with relapsed/refractory classical Hodgkin lymphoma
 
 | Number (n)/ minimum follow-up (months)   | CA209205 Cohort B a and CA209039 (n = 95/12.0)   | CA209205 Cohort B a (n = 80/12.0)   | CA209039 (n = 15/12.0)   |
 |------------------------------------------|--------------------------------------------------|-------------------------------------|--------------------------|
@@ -2597,21 +2877,17 @@ Table 40: Efficacy results in patients with relapsed/refractory classical Hodgki
 | Progression-free survival                |                                                  |                                     |                          |
 | Rate (95% CI) at 12 months               | 57 (45, 68)                                      | 55 (41, 66)                         | 69 (37, 88)              |
 
-'+'  denotes a censored observation.
-
-a Follow-up was ongoing at the time of data submission.
-
 b
 
 Data unstable due to the limited duration of response for Cohort B resulting from censoring.
 
 NE = non-estimable
 
-Updated efficacy results from longer follow-up data of Cohort B (minimum 68.7 months) and Cohort C (minimum 61.9 months) from CA209205 are presented below in Table 41.
+Updated efficacy results from longer follow-up data of Cohort B (minimum 68.7 months) and Cohort C (minimum 61.9 months) from CA209205 are presented below in Table 43.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 41: Updated efficacy results in patients with relapsed/refractory classical Hodgkin lymphoma from longer follow-up of study CA209205
+Table 43: Updated efficacy results in patients with relapsed/refractory classical Hodgkin lymphoma from longer follow-up of study CA209205
 
 | Number (n)/ minimum follow-up (months)            | CA209205 Cohort B (n = 80/68.7)   | CA209205 Cohort C (n = 100/61.9) a   |
 |---------------------------------------------------|-----------------------------------|--------------------------------------|
@@ -2655,23 +2931,74 @@ B-symptoms were present in 22% (53/243) of the patients in CA209205 at baseline.
 
 In a post-hoc analysis of the 80 patients in CA209205 Cohort B, 37 had no response to prior brentuximab vedotin treatment. Among these 37 patients, treatment with nivolumab resulted in an ORR of 62.2% (23/37). The median duration of response is 25.6 months (10.6, 56.5) for the 23 responders to nivolumab who had failed to achieve response with prior brentuximab vedotin treatment.
 
-## Squamous cell cancer of the head and neck
+## Open-label phase 2 study of nivolumab in combination with brentuximab vedotin (CA209744)
 
-The safety and efficacy of nivolumab 3 mg/kg as a single agent for the treatment of metastatic or recurrent SCCHN were evaluated in a phase 3, randomised, open-label study (CA209141). The study included patients (18 years or older), with histologically confirmed recurrent or metastatic SCCHN (oral cavity, pharynx, larynx), stage III/IV and not amenable to local therapy with curative intent (surgery or radiation therapy with or without chemotherapy) and who have experienced disease
+The safety and efficacy of nivolumab 3 mg/kg in combination with brentuximab vedotin 1.8 mg/kg for the treatment of relapsed or refractory cHL after one prior line of therapy were evaluated in a phase 2, risk-based, response adapted, open-label study. Cohort R1 included 28 patients at low risk of relapse and Cohort R2 included 44 patients at standard risk of relapse. Risk stratification was based on stage at initial diagnosis, time to relapse (from end of therapy), B symptoms or extranodal disease at relapse,
 
 <div style=\"page-break-after: always\"></div>
 
-progression during or within 6 months of receiving platinum-based therapy regimen and had an ECOG performance status score of 0 or 1. Prior platinum-based therapy was administered in either the adjuvant, neo-adjuvant, primary, recurrent, or metastatic setting. Patients were enrolled regardless of their tumour PD-L1 or human papilloma virus (HPV) status. Patients with active autoimmune disease, medical conditions requiring immunosuppression, recurrent or metastatic carcinoma of the nasopharynx, squamous cell carcinoma of unknown primary, salivary gland or non-squamous histologies (e.g., mucosal melanoma), or active brain or leptomeningeal metastases were excluded from the study. Patients with treated brain metastases were eligible if neurologically returned to baseline at least 2 weeks prior to enrolment, and either off corticosteroids, or on a stable or decreasing dose of &lt; 10 mg daily prednisone equivalents.
+extensive disease where radiation therapy was contraindicated at relapse, or relapse in a prior radiation field, as shown in the Table 44. CD30 expression was not measured prior to the study enrolment.
+
+Table 44: Risk stratification algorithm for study CA209744
+
+| Stage at initial diagnosis   | Time to relapse (from end of therapy)   | B symptoms or extranodal disease at relapse, extensive disease where radiation therapy was contraindicated at relapse, or relapse in a prior radiation field   | Relapse risk category   |
+|------------------------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
+| IA, IIA                      | ≥ 12 months                             | No                                                                                                                                                             | Cohort R1 Low Risk      |
+| IA, IIA                      | 3-12 months (≤ 3 cycles and no RT)      | No                                                                                                                                                             | Cohort R1 Low Risk      |
+| IB, IIB, IIIA                | > 12 months                             | No                                                                                                                                                             | Cohort R1 Low Risk      |
+| All Others                   | All Others                              | All Others                                                                                                                                                     | Cohort R2 Standard Risk |
+
+The first tumour assessments were conducted 6 weeks after the start of treatment and continued thereafter until disease progression or treatment completion or discontinuation. The co-primary efficacy outcome measures in Cohort R1 were complete metabolic response (CMR) rate by BICR at any time prior to radiation therapy and EFS rate by BICR at 3 years. The primary efficacy outcome measure in Cohort R2 was CMR rate by BICR at any time prior to high-dose chemotherapy (HDCT/ASCT). Additional efficacy measures included ORR per BICR following 4 cycles of nivolumab in combination with brentuximab vedotin and PFS rate by BICR at 3 years. Patients with prior exposure to anti-PD(L) 1/2 or brentuximab vedotin were excluded from the study.
+
+All patients entered the Induction Phase and received treatment with nivolumab in combination with brentuximab vedotin. Patients with investigator assessed tumour progression after two cycles were taken off treatment. Patients who did not achieve CMR after 4 cycles of nivolumab in combination with brentuximab vedotin moved to the Intensification Phase and received 2 cycles (Cohort R1) or 2-4 cycles (Cohort R2) of brentuximab vedotin with 90 mg/m 2 /day of bendamustine to help achieve CMR. Patients who achieved CMR following 4 cycles of nivolumab in combination with brentuximab vedotin in Cohort R1 received 2 additional cycles of nivolumab in combination with brentuximab vedotin prior to the Consolidation Phase. Patients who achieved CMR after induction or intensification moved to the Consolidation Phase where they received radiation therapy (Cohort R1) or HDCT/ASCT (Cohort R2).
+
+Baseline characteristics were balanced across treatment groups. Most patients were in the age group of ≥ 5 years to &lt; 18 years in both R1 and R2 cohorts (64.3% and 70.5%, respectively). In Cohort R1 there were 3 children (5-11 years), 15 adolescents (12-17 years) and 10 adults (18-30 years) and in Cohort R2 there were 4 children (5-11 years), 27 adolescents (12-17 years) and 13 adults (18-30 years) treated. In Cohort R1, 64.3% were female while in Cohort R2, 65.9% were male. In Cohort R1, 64.3% had Stage IIA disease at study entry, while in Cohort R2, 25%, 22.7%, and 25% had Stage IIA, IIB, and IVA disease at study entry, respectively. The mean Karnofsky and Lansky performance status was &gt; 95% in both cohorts. In Cohort R1, 82.1% had a time from end of prior therapy to relapse of ≥ 12 months. In Cohort R2, 36.4% had a time from end of prior therapy to relapse of &lt; 3 months, while 40.9% had a time from end of prior therapy to relapse of ≥ 3 months to &lt; 12 months. 96.4% of subjects in Cohort R1 had relapsed after prior line of therapy, whereas Cohort R2 generally had an even distribution among relapsed (45.5%) and refractory (54.5%) response to prior line of therapy.
+
+All patients received prior anti-cancer therapy in Cohorts R1 and R2. The most common prior anticancer therapy was OEPA/COPDAC in both Cohort R1 (42.9%) and Cohort R2 (45.5%).
+
+The baseline characteristics and prior cancer therapies of treated paediatric patients were consistent with those of all treated patients in CA209744.
+
+Efficacy results are shown in Table 45.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 45: Efficacy results (CA209744)
+
+|                                                        | Cohort R1 Low risk of relapse                          | Cohort R1 Low risk of relapse                          | Cohort R2 Standard risk of relapse                     | Cohort R2 Standard risk of relapse                     |
+|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
+|                                                        | All treated patients (n = 28)                          | Treated paediatric patients (n = 18)                   | All treated patients (n = 44)                          | Treated paediatric patients (n = 31)                   |
+| Complete metabolic response prior to consolidation a,b | Complete metabolic response prior to consolidation a,b | Complete metabolic response prior to consolidation a,b | Complete metabolic response prior to consolidation a,b | Complete metabolic response prior to consolidation a,b |
+| n (%)                                                  | 26 (92.9)                                              | 16 (88.9)                                              | 39 (88.6)                                              | 28 (90.3)                                              |
+| 95% CI                                                 | (76.5, 99.1)                                           | (65.3, 98.6)                                           | (75.4, 96.2)                                           | (74.2, 98.0)                                           |
+| Overall response rate after 4 cycles of induction c    | Overall response rate after 4 cycles of induction c    | Overall response rate after 4 cycles of induction c    | Overall response rate after 4 cycles of induction c    | Overall response rate after 4 cycles of induction c    |
+| n (%)                                                  | 27 (96.4)                                              | 17 (94.4)                                              | 41 (93.2)                                              | 29 (93.5)                                              |
+| 95% CI                                                 | (81.7, 99.9)                                           | (72.7, 99.9)                                           | (81.3, 98.6)                                           | (78.6, 99.2)                                           |
+| Complete metabolic response, n (%)                     | Complete metabolic response, n (%)                     | Complete metabolic response, n (%)                     | Complete metabolic response, n (%)                     | Complete metabolic response, n (%)                     |
+|                                                        | 23 (82.1)                                              | 13 (72.2)                                              | 33 (75.0)                                              | 23 (74.2)                                              |
+| Partial metabolic response, n (%)                      | Partial metabolic response, n (%)                      | Partial metabolic response, n (%)                      | Partial metabolic response, n (%)                      | Partial metabolic response, n (%)                      |
+|                                                        | 4 (14.3)                                               | 4 (22.2)                                               | 8 (18.2)                                               | 6 (19.4)                                               |
+
+a The denominator is the number of response-evaluable patients. All Treated patients/Treated Paediatric patients were response-evaluable.
+
+Six patients in Cohort R1 and 11 patients in Cohort R2 received brentuximab vedotin in combination with bendamustine as intensification chemotherapy, prior to consolidation, since they did not achieve a CMR following 4 cycles of induction with nivolumab in combination with brentuximab vedotin.
+
+b In cohort R1, 22 patients proceeded to consolidation with RT therapy on study. In cohort R2, 41 patients underwent HDCT +ASCT as consolidation (32 on study and 9 off study at PI discretion).
+
+c The denominator is the number of subjects who were evaluable after 4 cycles of nivolumab +brentuximab vedotin.
+
+## Squamous cell cancer of the head and neck
+
+The safety and efficacy of nivolumab 3 mg/kg as a single agent for the treatment of metastatic or recurrent SCCHN were evaluated in a phase 3, randomised, open-label study (CA209141). The study included patients (18 years or older), with histologically confirmed recurrent or metastatic SCCHN (oral cavity, pharynx, larynx), stage III/IV and not amenable to local therapy with curative intent (surgery or radiation therapy with or without chemotherapy) and who have experienced disease progression during or within 6 months of receiving platinum-based therapy regimen and had an ECOG performance status score of 0 or 1. Prior platinum-based therapy was administered in either the adjuvant, neo-adjuvant, primary, recurrent, or metastatic setting. Patients were enrolled regardless of their tumour PD-L1 or human papilloma virus (HPV) status. Patients with active autoimmune disease, medical conditions requiring immunosuppression, recurrent or metastatic carcinoma of the nasopharynx, squamous cell carcinoma of unknown primary, salivary gland or non-squamous histologies (e.g., mucosal melanoma), or active brain or leptomeningeal metastases were excluded from the study. Patients with treated brain metastases were eligible if neurologically returned to baseline at least 2 weeks prior to enrolment, and either off corticosteroids, or on a stable or decreasing dose of &lt; 10 mg daily prednisone equivalents.
 
 A total of 361 patients were randomised to receive either nivolumab 3 mg/kg (n = 240) administered intravenously over 60 minutes every 2 weeks or investigator's choice of either cetuximab (n = 15), 400 mg/m 2 loading dose followed by 250 mg/m 2 weekly or methotrexate (n = 52) 40 to 60 mg/m 2 weekly, or docetaxel (n = 54) 30 to 40 mg/m 2 weekly. Randomisation was stratified by prior cetuximab treatment. Treatment was continued as long as clinical benefit was observed or until treatment was no longer tolerated. Tumour assessments, according to RECIST version 1.1, were conducted 9 weeks after randomisation and continued every 6 weeks thereafter. Treatment beyond initial investigator-assessed RECIST version 1.1-defined progression was permitted in patients receiving nivolumab, if the patient had a clinical benefit and was tolerating study drug, as determined by the investigator. The primary efficacy outcome measure was OS. Key secondary efficacy outcome measures were investigator-assessed PFS and ORR. Additional prespecified subgroup analyses were conducted to evaluate the efficacy by tumour PD-L1 expression at predefined levels of 1%, 5%, and 10%.
+
+<div style=\"page-break-after: always\"></div>
 
 Pre-study tumour tissue specimens were systematically collected prior to randomisation in order to conduct pre-planned analyses of efficacy according to tumour PD-L1 expression. Tumour PD-L1 expression was determined using the PD-L1 IHC 28-8 pharmDx assay.
 
 Baseline characteristics were generally balanced between the two groups. The median age was 60 years (range: 28-83) with 31% ≥ 65 years of age and 5% ≥ 75 years of age, 83% were male, and 83% were white. Baseline ECOG performance status score was 0 (20%) or 1 (78%), 77% were former/current smokers, 90% had Stage IV disease, 66% had two or more lesions, 45%, 34% and 20% received 1, 2, or 3 or more prior lines of systemic therapy, respectively, and 25% were HPV-16 status positive.
 
-With a minimum follow-up of 11.4 months, the trial demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with investigator's choice. The Kaplan-Meier curves for OS are shown in Figure 23. Efficacy results are shown in Table 42.
-
-<div style=\"page-break-after: always\"></div>
+With a minimum follow-up of 11.4 months, the trial demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with investigator's choice. The Kaplan-Meier curves for OS are shown in Figure 23. Efficacy results are shown in Table 46.
 
 Figure 23: Kaplan-Meier curves of OS (CA209141)
 
@@ -2721,57 +3048,51 @@ Investigator's choice
 
 0
 
+Nivolumab 3 mg/kg (events: 184/240), median and 95% CI: 7.72 (5.68, 8.77)
+
+Investigator's choice (events: 105/121), median and 95% CI: 5.06 (4.04, 6.24)
+
 
 
 
 
 
 
-Nivolumab 3 mg/kg (events: 184/240), median and 95% CI: 7.72 (5.68, 8.77)
-
-- - -
-
 
 
 - - -
 
-Investigator's choice (events: 105/121), median and 95% CI: 5.06 (4.04, 6.24)
-
-Table 42: Efficacy results (CA209141)
-
-|                                    | nivolumab (n = 240)   | investigator's choice (n = 121)   |
-|------------------------------------|-----------------------|-----------------------------------|
-| Overall survival                   |                       |                                   |
-| Events                             | 184 (76.7%)           | 105 (86.8%)                       |
-| Hazard ratio a                     | 0.71 (0.55, 0.90)     | 0.71 (0.55, 0.90)                 |
-| (95% CI)                           |                       |                                   |
-| p-value b Median (95% CI) (months) | 7.72 (5.68, 8.77)     | 5.06 (4.04, 6.24)                 |
-| Rate (95% CI) at 6 months          | 56.5 (49.9, 62.5)     | 43.0 (34.0, 51.7)                 |
-| Rate (95% CI) at 12 months         | 34.0 (28.0, 40.1)     | 19.7 (13.0, 27.3)                 |
-| Rate (95% CI) at 18 months         | 21.5 (16.2, 27.4)     | 8.3 (3.6, 15.7)                   |
-| Progression-free survival          |                       |                                   |
-| Events                             | 204 (85.0%)           | 104 (86.0%)                       |
-| Hazard ratio                       | 0.87                  | 0.87                              |
-| 95% CI                             | (0.69, 1.11)          | (0.69, 1.11)                      |
-| p-value                            | 0.2597                | 0.2597                            |
-| Median (95% CI) (months)           | 2.04 (1.91, 2.14)     | 2.33 (1.97, 3.12)                 |
-| Rate (95% CI) at 6 months          | 21.0 (15.9, 26.6)     | 11.1 (5.9, 18.3)                  |
-| Rate (95% CI) at 12 months         | 9.5 (6.0, 13.9)       | 2.5 (0.5, 7.8)                    |
+- - -
 
 <div style=\"page-break-after: always\"></div>
 
-|                                | nivolumab (n = 240)   | investigator's choice (n = 121)   |
-|--------------------------------|-----------------------|-----------------------------------|
-| Confirmed objective response c | 32 (13.3%)            | 7 (5.8%)                          |
-| (95% CI)                       | (9.3, 18.3)           | (2.4, 11.6)                       |
-| Odds ratio (95% CI)            | 2.49 (1.07, 5.82)     | 2.49 (1.07, 5.82)                 |
-| Complete response (CR)         | 6 (2.5%)              | 1 (0.8%)                          |
-| Partial response (PR)          | 26 (10.8%)            | 6 (5.0%)                          |
-| Stable disease (SD)            | 55 (22.9%)            | 43 (35.5%)                        |
-| Median time to response        |                       |                                   |
-| Months (range)                 | 2.1 (1.8-7.4)         | 2.0 (1.9-4.6)                     |
-| Median duration of response    |                       |                                   |
-| Months (range)                 | 9.7 (2.8-20.3+)       | 4.0 (1.5+-8.5+)                   |
+Table 46: Efficacy results (CA209141)
+
+|                                    | nivolumab (n = 240)      | investigator's choice (n = 121)   |
+|------------------------------------|--------------------------|-----------------------------------|
+| Overall survival                   |                          |                                   |
+| Events                             | 184 (76.7%)              | 105 (86.8%)                       |
+| Hazard ratio a                     | 0.71 (0.55, 0.90)        | 0.71 (0.55, 0.90)                 |
+| p-value b Median (95% CI) (months) | 7.72 (5.68, 8.77)        | 5.06 (4.04, 6.24)                 |
+| Rate (95% CI) at 6 months          | 56.5 (49.9, 62.5)        | 43.0 (34.0, 51.7)                 |
+| Rate (95% CI) at 12 months         | 34.0 (28.0, 40.1)        | 19.7 (13.0, 27.3)                 |
+| Rate (95% CI) at 18 months         | 21.5 (16.2, 27.4)        | 8.3 (3.6, 15.7)                   |
+| Progression-free survival          |                          |                                   |
+| Events                             | 204 (85.0%)              | 104 (86.0%)                       |
+| Hazard ratio 95% CI                | 0.87 (0.69, 1.11) 0.2597 | 0.87 (0.69, 1.11) 0.2597          |
+| Median (95% CI) (months)           | 2.04 (1.91, 2.14)        | 2.33 (1.97, 3.12)                 |
+| Rate (95% CI) at 6 months          | 21.0 (15.9, 26.6)        | 11.1 (5.9, 18.3)                  |
+| Rate (95% CI) at 12 months         | 9.5 (6.0, 13.9)          | 2.5 (0.5, 7.8)                    |
+| Confirmed objective response c     | 32 (13.3%)               | 7 (5.8%)                          |
+| (95% CI)                           | (9.3, 18.3)              | (2.4, 11.6)                       |
+| Odds ratio (95% CI)                | 2.49 (1.07, 5.82)        | 2.49 (1.07, 5.82)                 |
+| Complete response (CR)             | 6 (2.5%)                 | 1 (0.8%)                          |
+| Partial response (PR)              | 26 (10.8%)               | 6 (5.0%)                          |
+| Stable disease (SD)                | 55 (22.9%)               | 43 (35.5%)                        |
+| Median time to response            |                          |                                   |
+| Months (range)                     | 2.1 (1.8-7.4)            | 2.0 (1.9-4.6)                     |
+| Median duration of response        |                          |                                   |
+| Months (range)                     | 9.7 (2.8-20.3+)          | 4.0 (1.5+-8.5+)                   |
 
 a Derived from a stratified proportional hazards model.
 
@@ -2779,11 +3100,13 @@ b P-value is derived from a log-rank test stratified by prior cetuximab; the cor
 
 c In the nivolumab group there were two patients with CRs and seven patients with PRs who had tumour PD-L1 expression &lt; 1%.
 
-Quantifiable tumour PD-L1 expression was measured in 67% of patients in the nivolumab group and 82% of patients in the investigator's choice group. Tumour PD-L1 expression levels were balanced between the two treatment groups (nivolumab vs. investigator's choice) at each of the predefined tumour PD-L1 expression levels of ≥ 1% (55% vs. 62%), ≥ 5% (34% vs . 43%), or ≥ 10% (27% vs. 34%).
+Quantifiable tumour PD-L1 expression was measured in 67% of patients in the nivolumab group and 82% of patients in the investigator's choice group. Tumour PD-L1 expression levels were balanced between the two treatment groups (nivolumab vs. investigator's choice) at each of the predefined tumour PD-L1 expression levels of ≥ 1% (55% vs. 62%), ≥ 5% (34% vs. 43%), or ≥ 10% (27% vs. 34%).
 
-Patients with tumour PD-L1 expression by all predefined expression levels in the nivolumab group demonstrated greater likelihood of improved survival compared to investigator's choice. The magnitude of OS benefit was consistent for ≥ 1%, ≥ 5% or ≥ 10% tumour PD-L1 expression levels (see Table 43).
+Patients with tumour PD-L1 expression by all predefined expression levels in the nivolumab group demonstrated greater likelihood of improved survival compared to investigator's choice. The magnitude of OS benefit was consistent for ≥ 1%, ≥ 5% or ≥ 10% tumour PD-L1 expression levels (see Table 47).
 
-Table 43: OS by tumour PD-L1 expression (CA209141)
+<div style=\"page-break-after: always\"></div>
+
+Table 47: OS by tumour PD-L1 expression (CA209141)
 
 | PD-L1 Expression   | nivolumab                                                           | investigator's choice                                               |                                    |
 |--------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------|
@@ -2793,33 +3116,21 @@ Table 43: OS by tumour PD-L1 expression (CA209141)
 | ≥ 5%               | 39 (54)                                                             | 40 (43)                                                             | 0.51 (0.32, 0.80)                  |
 | ≥ 10%              | 30 (43)                                                             | 31 (34)                                                             | 0.57 (0.34, 0.95)                  |
 
-In an exploratory post-hoc analysis using a non-validated assay, both tumour cell PD-L1 expression and tumour-associated immune cell (TAIC) PD-L1 expression were analysed in relation to the magnitude of treatment effect of nivolumab compared to investigator's choice. This analysis showed that not only tumour cell PD-L1 expression but also TAIC PD-L1 expression appeared to be associated with benefit from nivolumab relative to investigator's choice (see Table 44). Due to the small numbers of patients in the subgroups, and exploratory nature of the analysis, no definitive conclusions can be drawn from these data.
+In an exploratory post-hoc analysis using a non-validated assay, both tumour cell PD-L1 expression and tumour-associated immune cell (TAIC) PD-L1 expression were analysed in relation to the magnitude of treatment effect of nivolumab compared to investigator's choice. This analysis showed that not only tumour cell PD-L1 expression but also TAIC PD-L1 expression appeared to be associated with benefit from nivolumab relative to investigator's choice (see Table 48). Due to the small numbers of patients in the subgroups, and exploratory nature of the analysis, no definitive conclusions can be drawn from these data.
 
-<div style=\"page-break-after: always\"></div>
+Table 48: Efficacy by tumour cell and TAIC PD-L1 expression (CA209141)
 
-Table 44: Efficacy by tumour cell and TAIC PD-L1 expression (CA209141)
-
-|                                                             | Median OS a (months) HR b (95% CI)   | Median OS a (months) HR b (95% CI)   | Median PFS a (months) HR b (95% CI)   | Median PFS a (months) HR b (95% CI)   | ORR (%) (95% CI) c        | ORR (%) (95% CI) c        |
-|-------------------------------------------------------------|--------------------------------------|--------------------------------------|---------------------------------------|---------------------------------------|---------------------------|---------------------------|
-|                                                             | nivolumab                            | investigator's choice                | nivolumab                             | investigator's choice                 | nivolumab                 | investigator's choice     |
-| PD-L1 ≥ 1%,                                                 | 9.10                                 | 4.60                                 | 3.19                                  | 1.97                                  | 19.7                      | 0                         |
-| PD-L1+ TAIC abundant d (61 nivolumab, 47 investigator's     | 0.43 (0.28, 0.67)                    | 0.43 (0.28, 0.67)                    | 0.48 (0.31, 0.75)                     | 0.48 (0.31, 0.75)                     | (10.6, 31.8)              | (0, 7.5)                  |
-| PD-L1 ≥ 1%,                                                 | 6.67                                 | 4.93                                 | 1.99                                  | 2.04                                  | 11.1                      | 7.1                       |
-| rare d (27 nivolumab, 14 investigator's choice) PD-L1 < 1%, | 0.89 (0.44,                          | 1.80)                                | 0.93 (0.46, 1.88)                     | 0.93 (0.46, 1.88)                     | (2.4, 29.2) (0.2, 33.9)   | (2.4, 29.2) (0.2, 33.9)   |
-|                                                             | 11.73                                | 6.51                                 | 2.10                                  | 2.73                                  | 18.6                      | 12.0                      |
-| PD-L1+ TAIC abundant d (43 nivolumab,                       | 0.67 (0.38, 1.18)                    | 0.67 (0.38, 1.18)                    | 0.96 (0.55, 1.67)                     | 0.96 (0.55, 1.67)                     | (8.4, 33.4) (2.5, 31.2)   | (8.4, 33.4) (2.5, 31.2)   |
-| PD-L1 < 1%,                                                 | 3.71                                 | 4.85                                 | 1.84                                  | 2.12                                  | 3.7                       | 10.0                      |
-| PD-L1+ TAIC rare d                                          | 1.09 (0.50, 2.36)                    | 1.09 (0.50, 2.36)                    | 1.91 (0.84, 4.36)                     | 1.91 (0.84, 4.36)                     | (< 0.1, 19.0) (0.3, 44.5) | (< 0.1, 19.0) (0.3, 44.5) |
-
-b Hazard ratio in each subgroup derived from a Cox proportional hazards model with treatment as the only covariate.
-
-c Confidence interval for ORR calculated using the Clopper-Pearson method.
-
-d
-
-PD-L1+ TAIC in the tumour microenvironment were qualitatively assessed, and characterised as 'numerous', 'intermediate', and 'rare' based on pathologist assessments. 'Numerous' and 'intermediate' groups were combined to define the 'abundant' group.
+|                                                                             | Median OS a (months) HR b (95% CI)   | Median OS a (months) HR b (95% CI)   | Median PFS a (months) HR b (95% CI)   | Median PFS a (months) HR b (95% CI)   | ORR (%) (95% CI) c   | ORR (%) (95% CI) c    |
+|-----------------------------------------------------------------------------|--------------------------------------|--------------------------------------|---------------------------------------|---------------------------------------|----------------------|-----------------------|
+|                                                                             | nivolumab                            | investigator's choice                | nivolumab                             | investigator's choice                 | nivolumab            | investigator's choice |
+| PD-L1 ≥ 1%, PD-L1+ TAIC abundant d (61 nivolumab,                           | 9.10 0.43 (0.28,                     | 4.60 0.67)                           | 3.19 0.48 (0.31,                      | 1.97 0.75)                            | 19.7 (10.6, 31.8)    | 0 (0, 7.5)            |
+| PD-L1 ≥ 1%, PD-L1+ TAIC rare d (27 nivolumab, 14 investigator's             | 6.67 0.89 (0.44,                     | 4.93 1.80)                           | 1.99 0.93                             | 2.04 (0.46, 1.88)                     | 11.1 (2.4, 29.2)     | 7.1 (0.2, 33.9)       |
+| PD-L1 < 1%, PD-L1+ TAIC abundant d (43 nivolumab, 25 investigator's choice) | 11.73 0.67 (0.38,                    | 6.51 1.18)                           | 2.10 0.96                             | 2.73 (0.55, 1.67)                     | 18.6 (8.4, 33.4)     | 12.0 (2.5, 31.2)      |
+| PD-L1 < 1%, PD-L1+ TAIC rare d (27 nivolumab, 10 investigator's             | 3.71 1.09 (0.50,                     | 4.85 2.36)                           | 1.84 1.91 (0.84,                      | 2.12 4.36)                            | 3.7 (< 0.1, 19.0)    | 10.0 (0.3, 44.5)      |
 
 Patients with investigator-assessed primary site of oropharyngeal cancer were tested for HPV (determined by p16 immunohistochemistry [IHC]). OS benefit was observed regardless of HPV status (HPV-positive: HR = 0.63; 95% CI: 0.38, 1.04, HPV-negative: HR = 0.64; 95% CI: 0.40, 1.03, and HPV-unknown: HR = 0.78; 95% CI: 0.55, 1.10).
+
+<div style=\"page-break-after: always\"></div>
 
 Patient-reported outcomes (PROs) were assessed using the EORTC QLQ-C30, EORTC QLQ-H&amp;N35, and 3-level EQ-5D. Over 15 weeks of follow-up, patients treated with nivolumab exhibited stable PROs, while those assigned to investigator's choice therapy exhibited significant declines in functioning (e.g., physical, role, social) and health status as well as increased symptomatology (e.g., fatigue, dyspnoea, appetite loss, pain, sensory problems, social contact problems). The PRO data should be interpreted in the context of the open-label study design and therefore taken cautiously.
 
@@ -2829,25 +3140,23 @@ Patient-reported outcomes (PROs) were assessed using the EORTC QLQ-C30, EORTC QL
 
 ## Randomised phase 3 study of adjuvant nivolumab vs. placebo (CA209274)
 
-The safety and efficacy of nivolumab monotherapy for the adjuvant treatment of urothelial carcinoma was evaluated in a phase 3 multicentre, randomised, placebo-controlled, double-blinded study (CA209274). The study included patients (18 years or older) who have undergone radical resection of muscle invasive urothelial carcinoma (MIUC) originating in the bladder or upper urinary tract (renal pelvis or ureter) and are at high risk of recurrence. The MIUC pathologic staging criteria that defines high risk patients was ypT2-ypT4a or ypN + for adult patients who received neoadjuvant cisplatin
+The safety and efficacy of nivolumab monotherapy for the adjuvant treatment of urothelial carcinoma was evaluated in a phase 3 multicentre, randomised, placebo-controlled, double-blinded study (CA209274). The study included patients (18 years or older) who have undergone radical resection of muscle invasive urothelial carcinoma (MIUC) originating in the bladder or upper urinary tract (renal pelvis or ureter) and are at high risk of recurrence. The MIUC pathologic staging criteria that defines high risk patients was ypT2-ypT4a or ypN + for adult patients who received neoadjuvant cisplatin chemotherapy, and pT3-pT4a or pN + for adult patients who did not receive neoadjuvant cisplatin chemotherapy and were not eligible or refused adjuvant cisplatin chemotherapy. The study included patients regardless of their PD-L1 status, who had an ECOG performance status score of 0 or 1 (an ECOG PS of 2 was allowed for patients ineligible for neoadjuvant cisplatin chemotherapy). Tumour cell PD-L1 expression was determined using the PD-L1 IHC 28-8 pharmDx assay. The study excluded patients with active, known or suspected autoimmune disease, patients who had treatment with any chemotherapy, radiation therapy, biologics for cancer, intravesical therapy, or investigational therapy within 28 days of first administration of study treatment.
 
-<div style=\"page-break-after: always\"></div>
-
-chemotherapy, and pT3-pT4a or pN + for adult patients who did not receive neoadjuvant cisplatin chemotherapy and were not eligible or refused adjuvant cisplatin chemotherapy. The study included patients regardless of their PD-L1 status, who had an ECOG performance status score of 0 or 1 (an ECOG PS of 2 was allowed for patients ineligible for neoadjuvant cisplatin chemotherapy). Tumour cell PD-L1 expression was determined using the PD-L1 IHC 28-8 pharmDx assay. The study excluded patients with active, known or suspected autoimmune disease, patients who had treatment with any chemotherapy, radiation therapy, biologics for cancer, intravesical therapy, or investigational therapy within 28 days of first administration of study treatment.
-
-A total of 709 patients were randomised to receive either nivolumab 240 mg (n = 353) every 2 weeks or placebo (n = 356) every 2 weeks until recurrence or unacceptable toxicity for a maximum treatment duration of 1 year. Of these, 282 patients had tumour cell PDL1 expression ≥ 1%; 140 in the nivolumab arm and 142 in the placebo arm. Randomisation was stratified by pathologic nodal status (N+ vs. N0/x with &lt; 10 nodes removed vs. N0 with ≥ 10 nodes removed), tumour cell PD-L1 expression (≥ 1% vs. &lt; 1%/indeterminate), and use of cisplatin neoadjuvant chemotherapy. Tumour imaging assessments were to be performed every 12 weeks from the date of first dose to week 96, then every 16 weeks from week 96 to week 160, then every 24 weeks until non-urothelial tract recurrence or treatment was discontinued (whichever occurred later) for a maximum of 5 years. The primary efficacy outcome measures were disease-free survival (DFS) in all randomised patients and DFS in randomised patients with tumour cell PD-L1 expression ≥ 1%. DFS was defined as the time between the date of randomisation and the date of the first documented recurrence assessed by investigator (local urothelial tract, local non-urothelial tract or distant), or death (from any cause), whichever occurred first. Secondary efficacy outcome measures included overall survival (OS).
+A total of 709 patients were randomised to receive either nivolumab 240 mg (n = 353) every 2 weeks or placebo (n = 356) every 2 weeks until recurrence or unacceptable toxicity for a maximum treatment duration of 1 year. Of these, 282 patients had tumour cell PD-L1 expression ≥ 1%; 140 in the nivolumab arm and 142 in the placebo arm. Randomisation was stratified by pathologic nodal status (N+ vs. N0/x with &lt; 10 nodes removed vs. N0 with ≥ 10 nodes removed), tumour cell PD-L1 expression (≥ 1% vs. &lt; 1%/indeterminate), and use of cisplatin neoadjuvant chemotherapy. Tumour imaging assessments were to be performed every 12 weeks from the date of first dose to week 96, then every 16 weeks from week 96 to week 160, then every 24 weeks until non-urothelial tract recurrence or treatment was discontinued (whichever occurred later) for a maximum of 5 years. The primary efficacy outcome measures were disease-free survival (DFS) in all randomised patients and DFS in randomised patients with tumour cell PD-L1 expression ≥ 1%. DFS was defined as the time between the date of randomisation and the date of the first documented recurrence assessed by investigator (local urothelial tract, local non-urothelial tract or distant), or death (from any cause), whichever occurred first. Secondary efficacy outcome measures included overall survival (OS).
 
 Baseline characteristics were generally balanced across treatment groups. In patients with tumour cell PD-L1 expression ≥ 1%, the median age was 66 years (range: 34 - 92 years), 76% were male and 76% were white. Eighty two percent had muscle invasive bladder cancer (MIBC), 18% had upper tract urothelial carcinoma (UTUC) (renal pelvis and ureter), 42% of patients received prior cisplatin in the neoadjuvant setting, 45% of patients were N+ at radical resection, patients had ECOG performance status of 0 (61%), 1 (37%), or 2 (2%), and 7% of patients had a haemoglobin &lt; 10 g/dL.
 
-At the primary pre-specified interim analysis in patients with tumour cell PD-L1 expression ≥ 1% (minimum follow-up of 6.3 months and median follow-up of 22.1 months for the nivolumab arm), the study demonstrated a statistically significant improvement in DFS for patients randomised to nivolumab as compared to placebo. Median DFS as determined by the investigator was not reached (95% CI: 21.19, N.R.) for nivolumab versus 8.41 months (95% CI: 5.59, 21.19) for placebo, HR 0.55 (98.72% CI: 0.35, 0.85), p-value = 0.0005. The primary analysis of DFS included censoring for new anti-cancer treatment. Results for DFS with and without censoring for new anti-cancer treatment were consistent.
-
-In an updated descriptive DFS analysis in patients with tumour cell PD-L1 expression ≥ 1% (minimum follow-up of 11.4 months and median follow-up of 25.5 months for the nivolumab arm), DFS improvement was confirmed.
-
-Efficacy results from this descriptive updated analysis are shown in Table 45 and Figure 24.
+At the primary pre-specified interim analysis in patients with tumour cell PD-L1 expression ≥ 1% (minimum follow-up of 6.3 months and median follow-up of 22.1 months for the nivolumab arm), the study demonstrated a statistically significant improvement in DFS for patients randomised to nivolumab as compared to placebo. Median DFS as determined by the investigator was not reached (95% CI: 21.19, N.R.) for nivolumab versus 8.41 months (95% CI: 5.59, 21.19) for placebo, HR 0.55 (98.72% CI: 0.35, 0.85), p-value = 0.0005. The primary analysis of DFS included censoring for new
 
 <div style=\"page-break-after: always\"></div>
 
-Table 45: Efficacy results in patients with tumour cell PD-L1 ≥ 1% (CA209274)
+anti-cancer treatment. Results for DFS with and without censoring for new anti-cancer treatment were consistent.
+
+In an updated descriptive DFS analysis in patients with tumour cell PD-L1 expression ≥ 1% (minimum follow-up of 11.4 months and median follow-up of 25.5 months for the nivolumab arm), DFS improvement was confirmed.
+
+Efficacy results from this descriptive updated analysis are shown in Table 49 and Figure 24.
+
+Table 49: Efficacy results in patients with tumour cell PD-L1 ≥ 1% (CA209274)
 
 |                            | nivolumab (n = 140)           | placebo (n = 142)             |
 |----------------------------|-------------------------------|-------------------------------|
@@ -2865,130 +3174,61 @@ a Stratified Cox proportional hazard model. Hazard Ratio is nivolumab over place
 
 b Based on Kaplan-Meier estimates.
 
+<div style=\"page-break-after: always\"></div>
+
 Figure 24: Kaplan-Meier curves of DFS in patients with tumour cell PD-L1 expression ≥ 1% (CA209274)
 
 <!-- image -->
 
 Disease-Free Survival (Months)
 
-49
+```
+Number of subjects at risk Placebo 142 90 74 62 57 53 49 44 36 29 23 21 18 14 9 5 3 2 1 0 Nivolumab 140  113 99 96 85 75 67 58 50 38 33 30 29 22 19 8 3 1 0 0
+```
 
-36
+
 
-29
+- - -
 
-23
+
 
-67
+
 
-Number of subjects at risk
+- - -
 
-Placebo
+
 
-142
+Placebo (events: 85/142), median and 95% CI: 8.41 (5.59, 20.04)
 
-90
-
-74
-
-Nivolumab
-
-140  113
-
-99
-
-62
-
-96
-
-57
-
-85
-
-53
-
-75
-
-44
-
-58
-
-50
-
-38
-
-33
-
-21
-
-30
-
-18
-
-29
-
-14
-
-22
-
-9
-
-19
-
-- - - - - -Placebo (events: 85/142), median and 95% CI: 8.41 (5.59, 20.04)    Nivolumab (events: 56/140), median and 95% CI: N.A. (22.11, N.A.)
+Nivolumab (events: 56/140), median and 95% CI: N.A. (22.11, N.A.)
 
 Minimum follow-up of 11.4 months
 
 Exploratory pre-specified subgroup descriptive analyses were performed in patients based on prior cisplatin treatment in the neoadjuvant setting.
 
-In the subgroup of patients with tumour cell PDL1 expression ≥ 1% who received prior cisplatin in the neoadjuvant setting (n = 118), the DFS HR was 0.37 (95% CI: 0.22, 0.64) with median DFS not
-
-5
-
-8
-
-3
-
-3
-
-2
-
-1
-
-1
-
-0
-
-0
-
-0
-
-<div style=\"page-break-after: always\"></div>
-
-reached and 8.41 months for the nivolumab and placebo arms, respectively. In the subgroup of patients with tumour cell PDL1 expression ≥ 1% who did not receive prior cisplatin in the neoadjuvant setting (n = 164), the DFS HR was 0.69 (95% CI: 0.44, 1.08) with median DFS of 29.67 and 11.37 months for the nivolumab and placebo arms, respectively.
+In the subgroup of patients with tumour cell PD-L1 expression ≥ 1% who received prior cisplatin in the neoadjuvant setting (n = 118), the DFS HR was 0.37 (95% CI: 0.22, 0.64) with median DFS not reached and 8.41 months for the nivolumab and placebo arms, respectively. In the subgroup of patients with tumour cell PD-L1 expression ≥ 1% who did not receive prior cisplatin in the neoadjuvant setting (n = 164), the DFS HR was 0.69 (95% CI: 0.44, 1.08) with median DFS of 29.67 and 11.37 months for the nivolumab and placebo arms, respectively.
 
 ## Randomised open-label phase 3 study of nivolumab in combination with chemotherapy vs. chemotherapy (CA209901)
 
-The safety and efficacy of nivolumab in combination with cisplatin and gemcitabine followed by nivolumab monotherapy were evaluated in a randomised open-label study CA209901 in cisplatineligible patients with unresectable or metastatic urothelial carcinoma. The study included subjects (18 years or older) with histological or cytological evidence of metastatic or surgically unresectable transitional cell carcinoma (TCC) of the urothelium involving the renal pelvis, ureter, bladder or urethra, who were eligible for cisplatin and gemcitabine. Minor histologic variants (&lt; 50% overall) were acceptable (TCC must have been the dominant histology). All subjects were required to have measurable disease by computed tomography (CT) or magnetic resonance imaging (MRI) per RECIST 1.1 criteria. No prior systemic anti-cancer therapy for metastatic or surgically unresectable urothelial carcinoma was permitted. Prior neoadjuvant chemotherapy or prior adjuvant platinum-based chemotherapy following radical cystectomy were permitted as long as the disease recurrence took place ≥ 12 months from completion of therapy. Prior intravesical therapy was permitted if completed at least 4 weeks prior to initiation of study treatment. Radiation therapy (with or without chemotherapy) with curative intent was permitted if treatment was completed ≥ 12 months before enrolment. Palliative radiotherapy was permitted as long as it was completed at least 2 weeks prior to therapy.
-
-A total of 608 patients were randomised to receive either nivolumab in combination with cisplatin and gemcitabine (n = 304) or cisplatin and gemcitabine (n = 304). Randomisation was stratified by tumour PDL1 status (≥ 1% vs. &lt; 1% or indeterminate) and liver metastasis (yes vs. no). The median age was 65 years of age (range: 32 to 86) with 51 % of patients ≥ 65 years of age and 12% of patients ≥ 75 years of age, 23% were Asian, 72% were White, 0.3% were Black; 77% were male, 23% were female. Baseline ECOG performance status was 0 (53%) or 1 (46%). Patients in the nivolumab in combination with cisplatin and gemcitabine arm were treated with nivolumab 360 mg every three weeks, in combination with cisplatin and gemcitabine for up to 6 cycles, after which patients received nivolumab monotherapy 480 mg every 4 weeks for a total of up to 24 months. Patients received gemcitabine dosed at 1000 mg/m 2 IV over 30-minutes on Days 1 and 8 of the 3 week treatment cycle and cisplatin dosed at 70 mg/m 2 IV over 30 to 120-minutes on Day 1 of the 3 week treatment cycle. A total of 92 patients (49 in the nivolumab in combination with cisplatin and gemcitabine arm and 43 in the cisplatin and gemcitabine arm) switched from cisplatin to carboplatin after at least one cycle of cisplatin.
-
-The study demonstrated a statistically significant benefit in OS and PFS for patients randomised to nivolumab in combination with cisplatin and gemcitabine compared to cisplatin and gemcitabine alone. Efficacy results are presented in Table 46 and Figures 25 and 26.
-
-Table 46: Efficacy Results (CA209901)
-
-|                          | nivolumab and cisplatin- gemcitabine chemotherapy (n = 304)   | cisplatin- gemcitabine chemotherapy (n = 304)   |
-|--------------------------|---------------------------------------------------------------|-------------------------------------------------|
-| Overall Survival a       |                                                               |                                                 |
-| Events                   | 172 (56.6)                                                    | 193 (63.5)                                      |
-| Median (months) (95% CI) | 21.7 (18.6, 26.4)                                             | 18.9 (14.7, 22.4)                               |
-| Hazard ratio (95% CI) b  | 0.78 (0.63, 0.96)                                             | 0.78 (0.63, 0.96)                               |
-| p-value c                | 0.0171                                                        | 0.0171                                          |
+The safety and efficacy of nivolumab in combination with cisplatin and gemcitabine followed by nivolumab monotherapy were evaluated in a randomised open-label study CA209901 in cisplatineligible patients with unresectable or metastatic urothelial carcinoma. The study included subjects (18 years or older) with histological or cytological evidence of metastatic or surgically unresectable transitional cell carcinoma (TCC) of the urothelium involving the renal pelvis, ureter, bladder or urethra, who were eligible for cisplatin and gemcitabine. Minor histologic variants (&lt; 50% overall) were acceptable (TCC must have been the dominant histology). All subjects were required to have
 
 <div style=\"page-break-after: always\"></div>
 
+measurable disease by computed tomography (CT) or magnetic resonance imaging (MRI) per RECIST 1.1 criteria. No prior systemic anti-cancer therapy for metastatic or surgically unresectable urothelial carcinoma was permitted. Prior neoadjuvant chemotherapy or prior adjuvant platinum-based chemotherapy following radical cystectomy were permitted as long as the disease recurrence took place ≥ 12 months from completion of therapy. Prior intravesical therapy was permitted if completed at least 4 weeks prior to initiation of study treatment. Radiation therapy (with or without chemotherapy) with curative intent was permitted if treatment was completed ≥ 12 months before enrolment. Palliative radiotherapy was permitted as long as it was completed at least 2 weeks prior to therapy.
+
+A total of 608 patients were randomised to receive either nivolumab in combination with cisplatin and gemcitabine (n = 304) or cisplatin and gemcitabine (n = 304). Randomisation was stratified by tumour PD-L1 status (≥ 1% vs. &lt; 1% or indeterminate) and liver metastasis (yes vs. no). The median age was 65 years of age (range: 32 to 86) with 51% of patients ≥ 65 years of age and 12% of patients ≥ 75 years of age, 23% were Asian, 72% were White, 0.3% were Black; 77% were male, 23% were female. Baseline ECOG performance status was 0 (53%) or 1 (46%). Patients in the nivolumab in combination with cisplatin and gemcitabine arm were treated with nivolumab 360 mg every three weeks, in combination with cisplatin and gemcitabine for up to 6 cycles, after which patients received nivolumab monotherapy 480 mg every 4 weeks for a total of up to 24 months. Patients received gemcitabine dosed at 1000 mg/m 2 IV over 30-minutes on Days 1 and 8 of the 3 week treatment cycle and cisplatin dosed at 70 mg/m 2 IV over 30 to 120-minutes on Day 1 of the 3 week treatment cycle. A total of 92 patients (49 in the nivolumab in combination with cisplatin and gemcitabine arm and 43 in the cisplatin and gemcitabine arm) switched from cisplatin to carboplatin after at least one cycle of cisplatin.
+
+The study demonstrated a statistically significant benefit in OS and PFS for patients randomised to nivolumab in combination with cisplatin and gemcitabine compared to cisplatin and gemcitabine alone. Efficacy results are presented in Table 50 and Figures 25 and 26.
+
+Table 50: Efficacy Results (CA209901)
+
 |                             | nivolumab and cisplatin- gemcitabine chemotherapy (n = 304)   | cisplatin- gemcitabine chemotherapy (n = 304)   |
 |-----------------------------|---------------------------------------------------------------|-------------------------------------------------|
+| Overall Survival a          |                                                               |                                                 |
+| Events                      | 172 (56.6)                                                    | 193 (63.5)                                      |
+| Median (months) (95% CI)    | 21.7 (18.6, 26.4)                                             | 18.9 (14.7, 22.4)                               |
+| Hazard ratio (95% CI) b     | 0.78 (0.63, 0.96)                                             | 0.78 (0.63, 0.96)                               |
+| p-value c                   | 0.0171                                                        | 0.0171                                          |
 | Progression-free Survival a |                                                               |                                                 |
 | Events                      | 211 (69.4)                                                    | 191 (62.8)                                      |
 | Median (months) (95% CI)    | 7.92 (7.62, 9.49)                                             | 7.56 (6.05, 7.75)                               |
@@ -2998,19 +3238,83 @@ Table 46: Efficacy Results (CA209901)
 | Responders                  | 175 (57.6)                                                    | 131 (43.1)                                      |
 | (95% CI)                    | (51.8, 63.2)                                                  | (37.5, 48.9)                                    |
 
+a Based on Kaplan-Meier Estimates
+
+b Stratified Cox proportional hazard model.
+
+c 2 sided p-value from stratified log-rank test.
+
+<div style=\"page-break-after: always\"></div>
+
 Figure 25: Kaplan Meier curves of OS (CA209901)
 
 <!-- image -->
 
-Overall Survival (months)
-
 ## Number of subjects at risk
 
-Nivolumab + gemcitabine-cisplatin chemotherapy 304  286  264  228  196  167  142  119  97 84 69 58 48 36 25 20 15 12 7 4 2 0 Gemcitabine-cisplatin chemotherapy 304  277  242  208  166  140  122  102  82 65 49 39 33 24 17 16 13 9 4 4 1 0
+Nivolumab + gemcitabine-cisplatin chemotherapy
+
+304  286  264  228  196  167  142  119  97
+
+Gemcitabine-cisplatin chemotherapy
+
+304  277  242  208  166  140  122  102  82
 
 <!-- image -->
 
-Nivolumab + gemcitabine-cisplatin chemotherapy (events: 172/304), median and 95% CI: 21.72 (18,63, 26.38)
+84
+
+65
+
+69
+
+49
+
+58
+
+39
+
+48
+
+33
+
+36
+
+24
+
+25
+
+17
+
+20
+
+16
+
+15
+
+13
+
+12
+
+9
+
+7
+
+4
+
+4
+
+4
+
+2
+
+1
+
+0
+
+0
+
+  - Nivolumab + gemcitabine-cisplatin chemotherapy (events: 172/304), median and 95% CI: 21.72 (18,63, 26.38)
 
 - - - - - -Gemcitabine-cisplatin chemotherapy (events: 193/304), median and 95% CI: 18.85 (14.72, 22.44) Based on clinical data cut-off: 09-May-2023, minimum follow-up of 7.4 months
 
@@ -3020,15 +3324,89 @@ Figure 26: Kaplan Meier curves of PFS (CA209901)
 
 <!-- image -->
 
-0
+## Number of subjects at risk
+
+Nivolumab + gemcitabine-cisplatin chemotherapy
+
+304  253  179  116
+
+82
+
+65
+
+57
+
+49
+
+Gemcitabine-cisplatin chemotherapy
+
+304  223  119
+
+63
+
+35
+
+25
+
+17
+
+12
+
+41
+
+12
+
+36
+
+10
+
+31
+
+9
+
+26
+
+8
+
+19
+
+6
+
+14
+
+5
+
+11
+
+2
+
+10
+
+1
+
+10
+
+1
+
+6
 
 0
 
-<!-- image -->
+5
+
+0
+
+1
+
+0
+
+Nivolumab + gemcitabine-cisplatin chemotherapy (events: 211/304), median and 95% CI: 7.92 (7.62, 9.49)
+
+  
 
 - - - - - -Gemcitabine-cisplatin chemotherapy (events: 191/304), median and 95% CI: 7.56 (6.05, 7.75) Based on clinical data cut-off: 09-May-2023, minimum follow-up of 7.4 months
 
-The primary analysis of PFS included censoring for new anti-cancer treatment before disease progression (Table 46). Results for PFS with and without censoring for new anti-cancer treatment before disease progression were consistent.
+The primary analysis of PFS included censoring for new anti-cancer treatment before disease progression (Table 50). Results for PFS with and without censoring for new anti-cancer treatment before disease progression were consistent.
 
 ## Open-label phase 2 study (CA209275)
 
@@ -3038,13 +3416,19 @@ The study included patients (18 years or older) who had disease progression duri
 
 A total of 270 patients who received nivolumab 3 mg/kg administered intravenously over 60 minutes every 2 weeks with a minimum follow-up of 8.3 months were evaluable for efficacy. Treatment was continued as long as clinical benefit was observed or until treatment was no longer tolerated. The first
 
+Progression free Survival (months)
+
+0
+
+0
+
 <div style=\"page-break-after: always\"></div>
 
 tumour assessments were conducted 8 weeks after the start of treatment and continued every 8 weeks thereafter up to 48 weeks, then every 12 weeks until disease progression or treatment discontinuation, whichever occurred later. Tumour assessments were continued after treatment discontinuation in patients who discontinued treatment for reasons other than progression. Treatment beyond initial investigator-assessed RECIST, version 1.1-defined progression was permitted if the patient had a clinical benefit, did not have rapid disease progression, and was tolerating study drug as determined by the investigator. The primary efficacy outcome measure was ORR as determined by BICR. Additional efficacy measures included duration of response, PFS and OS.
 
 The median age was 66 years (range: 38 to 90) with 55% ≥ 65 years of age and 14% ≥ 75 years of age. The majority of patients were white (86%) and male (78%). Baseline ECOG performance status was 0 (54%) or 1 (46%).
 
-Table 47: Efficacy results (CA209275) a
+Table 51: Efficacy results (CA209275) a
 
 |                                            | nivolumab (n = 270)   |                               |
 |--------------------------------------------|-----------------------|-------------------------------|
@@ -3065,7 +3449,7 @@ Table 47: Efficacy results (CA209275) a
 | Events (%)                                 |                       | 154 (57)                      |
 | Median (95% CI) months                     |                       | 8.6 (6.05, 11.27)             |
 | Rate (95% CI) at 12 months                 |                       | 41.0 (34.8, 47.1)             |
-| Tumour PD-L1                               | expression level < 1% | ≥ 1%                          |
+| Tumour PD-L1                               | expression level < 1% | ≥1%                           |
 | Median duration of response Months (range) |                       |                               |
 |                                            | 10.4 (3.7, 12.0 + )   | Not Reached (1.9 + , 12.0 + ) |
 | Progression-free survival                  |                       |                               |
@@ -3109,19 +3493,20 @@ of age; 46% were male and 86% were White. Baseline ECOG performance status was 0
 
 A primary efficacy outcome measure of the study was BICR-assessed PFS per RECIST 1.1. Additional efficacy measures included ORR assessed by BICR, OS, and duration of response.
 
-The study met the primary endpoint, at the planned interim analysis, demonstrating a statistically significant improvement in BICR assessed-PFS for patients with centrally confirmed MSI-H/dMMR in the nivolumab in combination with ipilimumab arm compared with the chemotherapy arm. The BICR-assessed PFS results are presented in Table 48 and Figure 27. At the time of this interim analysis, the other endpoints, including the data from nivolumab monotherapy arm, were not tested, due to testing hierarchy.
+The study met the primary endpoint, at the planned interim analysis, demonstrating a statistically significant improvement in BICR assessed-PFS for patients with centrally confirmed MSI-H/dMMR in the nivolumab in combination with ipilimumab arm compared with the chemotherapy arm. The BICR-assessed PFS results are presented in Table 52 and Figure 27. At the time of this interim analysis, the other endpoints, including the data from nivolumab monotherapy arm, were not tested, due to testing hierarchy.
 
-Table 48: Efficacy results in first-line MSI-H/dMMR centrally confirmed CRC (CA2098HW) a
+Table 52: Efficacy results in first-line MSI-H/dMMR centrally confirmed CRC (CA2098HW) a
 
-|                                                          | nivolumab + ipilimumab (n = 171)           | chemotherapy (n = 84)   |
-|----------------------------------------------------------|--------------------------------------------|-------------------------|
-| Progression-free survival                                |                                            |                         |
-| Events                                                   | 48 (28%)                                   | 52 (62%)                |
-| Hazard ratio                                             |                                            | 0.21                    |
-| 95% CI                                                   |                                            | (0.14, 0.32)            |
-| p-value b                                                | <                                          | 0.0001                  |
-| Median (95% CI) (months)                                 | NR (38.4, NR)                              | 5.9 (4.4, 7.8)          |
-| a Median follow-up of 31.5 b Based on stratified 2-sided | (range: 6.1 to 48.4 months). log-rank test |                         |
+a Median follow-up of 31.5 months (range: 6.1 to 48.4 months).
+
+|                           | nivolumab + ipilimumab (n = 171)   | chemotherapy (n = 84)   |
+|---------------------------|------------------------------------|-------------------------|
+| Progression-free survival |                                    |                         |
+| Events                    | 48 (28%)                           | 52 (62%)                |
+| Hazard ratio              | 0.21                               |                         |
+| 95% CI                    | (0.14, 0.32)                       |                         |
+| p-value b                 | < 0.0001                           |                         |
+| Median (95% CI) (months)  | NR (38.4, NR)                      | 5.9 (4.4, 7.8)          |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3149,9 +3534,9 @@ The median age was 58 years (range: 21-88) with 32% ≥ 65 years of age and 9% �
 
 setting and 9 in the adjuvant setting. Before study enrolment, of the 119 treated patients, 118 (99%) had received fluorouracil, 111 (93%) had received oxaliplatin, 87 (73%) had received irinotecan as part of prior therapies; 82 (69%) had received prior treatment with fluoropyrimidine, oxaliplatin, and irinotecan. Twenty three percent, 36%, 24%, and 16% received 1, 2, 3, or 4 or more prior therapies respectively, and 29% of patients had received an EGFR inhibitor.
 
-Efficacy results (minimum follow-up 46.9 months; median follow-up 51.1 months) are shown in Table 49.
+Efficacy results (minimum follow-up 46.9 months; median follow-up 51.1 months) are shown in Table 53.
 
-Table 49: Efficacy results (CA209142)*
+Table 53: Efficacy results (CA209142)*
 
 |                                     | nivolumab + ipilimumab (n = 119)   |
 |-------------------------------------|------------------------------------|
@@ -3173,7 +3558,7 @@ Of 119 patients 11 (9.2%) patients were ≥ 75 years. The investigator assessed 
 
 Oesophageal squamous cell carcinoma
 
-Randomised phase 3 study of nivolumab in combination with ipilimumab vs. chemotherapy and nivolumab in combination with chemotherapy vs. chemotherapy as first-line treatment (CA209648) The safety and efficacy of nivolumab in combination with ipilimumab and nivolumab in combination with chemotherapy were evaluated in a randomised, active-controlled, open-label study (CA209648). The study included adult patients (18 years or older) with previously untreated, unresectable advanced, recurrent or metastatic OSCC. Patients were enrolled regardless of their tumour PD-L1 status, and tumour cell PD-L1 expression was determined using the PD-L1 IHC 28-8 pharmDx assay. Patients were required to have squamous cell carcinoma or adenosquamous cell carcinoma of oesophagus, not amenable to chemoradiation and/or surgery. Prior adjuvant, neoadjuvant, or definitive chemotherapy, radiotherapy or chemoradiotherapy was permitted if given as part of curative intent regimen prior to trial enrollment. Patients who had a baseline performance score ≥ 2, had brain metastases that were symptomatic, had active autoimmune disease, used systemic corticosteroids or immunosuppressants, or patients at high risk of bleeding or fistula due to apparent invasion of tumour to organs adjacent to the oesophageal tumour were excluded from the study. Randomisation was stratified by tumour cell PDL1 status (≥ 1% vs. &lt; 1% or indeterminate), region (East Asia vs. rest of Asia vs. rest of world), ECOG performance status (0 vs. 1), and number of organs with metastases (≤ 1 vs. ≥ 2).
+Randomised phase 3 study of nivolumab in combination with ipilimumab vs. chemotherapy and nivolumab in combination with chemotherapy vs. chemotherapy as first-line treatment (CA209648) The safety and efficacy of nivolumab in combination with ipilimumab and nivolumab in combination with chemotherapy were evaluated in a randomised, active-controlled, open-label study (CA209648). The study included adult patients (18 years or older) with previously untreated, unresectable advanced, recurrent or metastatic OSCC. Patients were enrolled regardless of their tumour PD-L1 status, and tumour cell PD-L1 expression was determined using the PD-L1 IHC 28-8 pharmDx assay. Patients were required to have squamous cell carcinoma or adenosquamous cell carcinoma of oesophagus, not amenable to chemoradiation and/or surgery. Prior adjuvant, neoadjuvant, or definitive chemotherapy, radiotherapy or chemoradiotherapy was permitted if given as part of curative intent regimen prior to trial enrollment. Patients who had a baseline performance score ≥ 2, had brain metastases that were symptomatic, had active autoimmune disease, used systemic corticosteroids or immunosuppressants, or patients at high risk of bleeding or fistula due to apparent invasion of tumour to organs adjacent to the oesophageal tumour were excluded from the study. Randomisation was stratified by tumour cell PD-L1 status (≥ 1% vs. &lt; 1% or indeterminate), region (East Asia vs. rest of Asia vs. rest of world), ECOG performance status (0 vs. 1), and number of organs with metastases (≤ 1 vs. ≥ 2).
 
 A total of 970 patients were randomised to receive either nivolumab in combination with ipilimumab, (n = 325), nivolumab in combination with chemotherapy (n = 321), or chemotherapy (n = 324). Of these, 473 patients had tumour cell PD-L1 expression ≥ 1%,158 in the nivolumab plus ipilimumab arm, 158 in the nivolumab plus chemotherapy arm, and 157 in the chemotherapy arm. Patients in the
 
@@ -3187,7 +3572,7 @@ Baseline characteristics were generally balanced across treatment groups. In pat
 
 The primary efficacy outcome measures were PFS (by BICR) and OS assessed in patients with tumour cell PD-L1 expression ≥ 1%. Secondary endpoints per the pre-specified hierarchical testing included OS, PFS (by BICR), and ORR (by BICR) in all randomised patients. The tumour assessments per RECIST v1.1 were conducted every 6 weeks up to and including week 48, then every 12 weeks thereafter.
 
-At the primary pre-specified analysis, with a minimum follow-up of 13.1 months, the study demonstrated a statistically significant improvement in OS in patients with tumour cell PD-L1 expression ≥ 1%. Efficacy results are shown in Table 50.
+At the primary pre-specified analysis, with a minimum follow-up of 13.1 months, the study demonstrated a statistically significant improvement in OS in patients with tumour cell PD-L1 expression ≥ 1%. Efficacy results are shown in Table 54.
 
 |                                     | nivolumab + ipilimumab (n = 158)   | chemotherapy a (n = 157)    |
 |-------------------------------------|------------------------------------|-----------------------------|
@@ -3198,7 +3583,7 @@ At the primary pre-specified analysis, with a minimum follow-up of 13.1 months, 
 | Rate (95% CI) at 12 months d        | 57.1 (49.0, 64.4)                  | 37.1 (29.2, 44.9)           |
 | Progression-free survival e         | Progression-free survival e        | Progression-free survival e |
 | Events                              | 123 (77.8%)                        | 100 (63.7%)                 |
-| Events                              | 1.02 (0.73, 1.43) 0.8958           | 1.02 (0.73, 1.43) 0.8958    |
+| Hazard ratio (98.5% CI) b p-value c | 1.02 (0.73, 1.43) 0.8958           | 1.02 (0.73, 1.43) 0.8958    |
 | Median (95% CI) (months) d          | 4.04 (2.40, 4.93)                  | 4.44 (2.89, 5.82)           |
 | Rate (95% CI) at 12 months d        | 26.4 (19.5, 33.9)                  | 10.5 (4.7, 18.8)            |
 | Overall response rate, n (%) e      | 56 (35.4)                          | 31 (19.7)                   |
@@ -3232,9 +3617,9 @@ The primary efficacy outcome measures were PFS (by BICR) and OS in patients with
 
 <div style=\"page-break-after: always\"></div>
 
-At the primary pre-specified analysis, with a minimum follow-up of 12.9 months the study demonstrated a statistically significant improvement in OS and PFS in patients with tumour cell PD-L1 expression ≥ 1%. Efficacy results are shown in Table 51.
+At the primary pre-specified analysis, with a minimum follow-up of 12.9 months the study demonstrated a statistically significant improvement in OS and PFS in patients with tumour cell PD-L1 expression ≥ 1%. Efficacy results are shown in Table 55.
 
-Table 51: Efficacy results in patients with tumour cell PD-L1 ≥ 1% (CA209648)
+Table 55: Efficacy results in patients with tumour cell PD-L1 ≥ 1% (CA209648)
 
 |                                     | nivolumab + chemotherapy (n = 158)   | chemotherapy a (n = 157)   |
 |-------------------------------------|--------------------------------------|----------------------------|
@@ -3284,10 +3669,10 @@ Figure 30: Kaplan-Meier curves of PFS in patients with tumour cell PD-L1 ≥ 1% 
 
 | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-| Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     |
-| 158                          | 107                          | 75                           | 47                           | 30                           | 22                           | 16                           | 10                           | 10                           | 7                            | 6                            | 4                            | 0                            | 0                            | 0                            |
-| Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 |
-| 157                          | 68                           | 36                           | 17                           | 5                            | 1                            | 1                            | 1                            | 1                            | 1                            | 1                            | 1                            | 1                            | 1                            | 0                            |
+|                              | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     | Nivolumab + chemotherapy     |
+|                              | 158                          | 107                          | 75                           | 47                           | 30 22                        | 16                           | 10                           | 10                           | 7                            | 6                            | 4                            | 0                            | 0                            | 0                            |
+|                              | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 |
+|                              | 157                          | 68                           | 36 17                        |                              | 5 1                          | 1                            | 1                            | 1                            | 1                            | 1                            | 1                            | 1                            | 1                            | 0                            |
 
 Based on data cut-off: 23-Aug-2021, minimum follow-up of 20 months
 
@@ -3297,19 +3682,19 @@ Based on data cut-off: 23-Aug-2021, minimum follow-up of 20 months
 
 The safety and efficacy of nivolumab 240 mg monotherapy for the treatment of unresectable advanced, recurrent or metastatic oesophageal squamous cell carcinoma (OSCC) was evaluated in a phase 3 randomised active-controlled, open-label study (ONO-4538-24/CA209473). The study included adult patients (20 years or older) who were refractory or intolerant to at least one fluoropyrimidine- and platinum-based combination regimen, and patients were enrolled regardless of tumour PD-L1 expression level. Patients who were refractory or intolerant to taxane therapy, had brain metastases that were symptomatic or required treatment, had active autoimmune disease, medical conditions requiring systemic immunosuppression, and patients with apparent tumour invasion in organs located adjacent to the oesophagus (e.g. the aorta or respiratory tract), were excluded from the study.
 
-A total of 419 patients were randomised 1:1 to receive either nivolumab 240 mg administered intravenously over 30 minutes every 2 weeks (n = 210) or investigator's choice of taxane chemotherapy: either docetaxel (n = 65) 75 mg/m 2 intravenously every 3 weeks, or paclitaxel (n = 144) 100 mg/m 2 intravenously once a week for 6 weeks followed by 1 week off. Randomisation was stratified by location (Japan vs. rest of world), number of organs with metastases (≤ 1 vs. ≥ 2) and tumour PDL1 expression (≥ 1% vs. &lt; 1% or indeterminate). Treatment continued until disease progression, assessed by the investigator per RECIST version 1.1, or unacceptable toxicity. Tumour assessments were conducted every 6 weeks for 1 year, and every 12 weeks thereafter. Treatment beyond initial investigator-assessed progression was permitted in patients receiving nivolumab with no rapid progression, investigator-assessed benefit, tolerance to treatment, stable performance status, and for whom treatment beyond progression would not delay an imminent intervention to prevent serious
+A total of 419 patients were randomised 1:1 to receive either nivolumab 240 mg administered intravenously over 30 minutes every 2 weeks (n = 210) or investigator's choice of taxane chemotherapy: either docetaxel (n = 65) 75 mg/m 2 intravenously every 3 weeks, or paclitaxel (n = 144) 100 mg/m 2 intravenously once a week for 6 weeks followed by 1 week off. Randomisation was stratified by location (Japan vs. rest of world), number of organs with metastases (≤ 1 vs. ≥ 2) and tumour PD-L1 expression (≥ 1% vs. &lt; 1% or indeterminate). Treatment continued until disease progression, assessed by the investigator per RECIST version 1.1, or unacceptable toxicity. Tumour assessments were conducted every 6 weeks for 1 year, and every 12 weeks thereafter. Treatment beyond initial investigator-assessed progression was permitted in patients receiving nivolumab with no rapid progression, investigator-assessed benefit, tolerance to treatment, stable performance status, and for whom treatment beyond progression would not delay an imminent intervention to prevent serious
 
 <div style=\"page-break-after: always\"></div>
 
 complications associated with disease progression (e.g. brain metastasis). The primary efficacy outcome measure was OS. Key secondary efficacy outcome measures were investigator-assessed ORR and PFS. Additional prespecified subgroup analyses were conducted to evaluate the efficacy by tumour PD-L1 expression at a predefined level of 1%. Tumour PD-L1 expression was determined using the PD-L1 IHC 28-8 pharmDx assay.
 
-Baseline characteristics were generally balanced between the two groups. The median age was 65 years (range: 3387), 53% were ≥ 65 years of age, 10% were aged ≥ 75 years, 87% were male, 96% were Asian and 4% were white. Baseline ECOG performance status was 0 (50%) or 1 (50%).
+Baseline characteristics were generally balanced between the two groups. The median age was 65 years (range: 33-87), 53% were ≥ 65 years of age, 10% were aged ≥ 75 years, 87% were male, 96% were Asian and 4% were white. Baseline ECOG performance status was 0 (50%) or 1 (50%).
 
-With a minimum follow-up of 17.6 months, the study demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with investigator's choice taxane chemotherapy. Efficacy results are shown in Table 52 and Figure 31.
+With a minimum follow-up of 17.6 months, the study demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with investigator's choice taxane chemotherapy. Efficacy results are shown in Table 56 and Figure 31.
 
 A higher proportion of patients experienced death within the first 2.5 months in the nivolumab arm (32/210, 15.2%) as compared to the chemotherapy arm (15/209, 7.2%). No specific factor(s) associated with early deaths could be identified.
 
-Table 52: Efficacy results (ONO-4538-24/CA209473)
+Table 56: Efficacy results (ONO-4538-24/CA209473)
 
 |                                               | nivolumab (n = 210)   | investigator's choice (n = 209)   |
 |-----------------------------------------------|-----------------------|-----------------------------------|
@@ -3347,7 +3732,7 @@ Figure 31: Kaplan-Meier curves of OS (ONO-4538-24/CA209473)
 
 
 
-Of the 419 patients, 48% had tumour PDL1 expression ≥ 1%. The remaining 52% of patients had tumour PD-L1 expression &lt; 1%. The hazard ratio (HR) for OS was 0.69 (95% CI: 0.51, 0.94) with median survivals of 10.9 and 8.1 months for the nivolumab and investigator's choice taxane chemotherapy arms, respectively, in the tumour PD-L1 positive subgroup. In the tumour PD-L1 negative OSCC subgroup, the HR for OS was 0.84 (95% CI: 0.62, 1.14) with median survivals of 10.9 and 9.3 months for the nivolumab and chemotherapy arms, respectively.
+Of the 419 patients, 48% had tumour PD-L1 expression ≥ 1%. The remaining 52% of patients had tumour PD-L1 expression &lt; 1%. The hazard ratio (HR) for OS was 0.69 (95% CI: 0.51, 0.94) with median survivals of 10.9 and 8.1 months for the nivolumab and investigator's choice taxane chemotherapy arms, respectively, in the tumour PD-L1 positive subgroup. In the tumour PD-L1 negative OSCC subgroup, the HR for OS was 0.84 (95% CI: 0.62, 1.14) with median survivals of 10.9 and 9.3 months for the nivolumab and chemotherapy arms, respectively.
 
 ## Adjuvant treatment of oesophageal or gastro-oesophageal junction cancer
 
@@ -3357,13 +3742,13 @@ A total of 794 patients were randomised 2:1 to receive either nivolumab 240 mg (
 
 <div style=\"page-break-after: always\"></div>
 
-nonevaluable), pathologic lymph node status (positive ≥ ypN1 vs. negative ypN0), and histology (squamous vs. adenocarcinoma). Treatment continued until disease recurrence, unacceptable toxicity, or for up to 1 year in total duration. The primary efficacy outcome measure was disease-free survival (DFS), as assessed by the investigator, defined as the time between the date of randomisation and the date of first recurrence (local, regional, or distant from the primary resected site) or death from any cause, whichever occurred first. Patients on treatment underwent imaging for tumour recurrence every 12 weeks for 2 years, and a minimum of one scan every 6 to 12 months for years 3 to 5.
+non-evaluable), pathologic lymph node status (positive ≥ ypN1 vs. negative ypN0), and histology (squamous vs. adenocarcinoma). Treatment continued until disease recurrence, unacceptable toxicity, or for up to 1 year in total duration. The primary efficacy outcome measure was disease-free survival (DFS), as assessed by the investigator, defined as the time between the date of randomisation and the date of first recurrence (local, regional, or distant from the primary resected site) or death from any cause, whichever occurred first. Patients on treatment underwent imaging for tumour recurrence every 12 weeks for 2 years, and a minimum of one scan every 6 to 12 months for years 3 to 5.
 
-Baseline characteristics were generally balanced between the two groups. The median age was 62 years (range: 2686) with 36% ≥ 65 years of age and 5% ≥ 75 years of years. The majority of patients were white (82%) and male (85 %). Baseline ECOG performance status was 0 (58%) or 1 (42%).
+Baseline characteristics were generally balanced between the two groups. The median age was 62 years (range: 26-86) with 36% ≥ 65 years of age and 5% ≥ 75 years of years. The majority of patients were white (82%) and male (85 %). Baseline ECOG performance status was 0 (58%) or 1 (42%).
 
-At the primary pre-specified interim analysis (minimum of 6.2 months and a median of 24.4 months follow-up), the study demonstrated a statistically significant improvement in DFS for patients randomised to nivolumab compared with placebo. Median DFS as determined by the investigator was 22.41 months (95% CI: 16.62, 34.00) for nivolumab versus 11.04 months (95% CI: 8.34, 14.32) for placebo, HR 0.69 (96.4% CI: 0.56, 0.86), p-value &lt; 0.0003. The primary analysis of DFS included censoring for new anti-cancer treatment. Results for DFS with and without censoring for new anti-cancer treatment were consistent. In an updated descriptive DFS analysis with minimum of 14 months and median of 32.2 months follow-up, DFS improvement was confirmed. Efficacy results from this descriptive secondary analysis are shown in Table 53 and Figure 32.
+At the primary pre-specified interim analysis (minimum of 6.2 months and a median of 24.4 months follow-up), the study demonstrated a statistically significant improvement in DFS for patients randomised to nivolumab compared with placebo. Median DFS as determined by the investigator was 22.41 months (95% CI: 16.62, 34.00) for nivolumab versus 11.04 months (95% CI: 8.34, 14.32) for placebo, HR 0.69 (96.4% CI: 0.56, 0.86), p-value &lt; 0.0003. The primary analysis of DFS included censoring for new anti-cancer treatment. Results for DFS with and without censoring for new anti-cancer treatment were consistent. In an updated descriptive DFS analysis with minimum of 14 months and median of 32.2 months follow-up, DFS improvement was confirmed. Efficacy results from this descriptive secondary analysis are shown in Table 57 and Figure 32.
 
-Table 53: Efficacy results (CA209577)
+Table 57: Efficacy results (CA209577)
 
 |                                                            | nivolumab (n = 532)                                        | placebo (n = 262)                                          |
 |------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
@@ -3385,11 +3770,7 @@ c Descriptive analysis based on data cut-off: 18-Feb-2021.
 
 <!-- image -->
 
-- - -
-
-
-
-- - -
+<!-- image -->
 
 Placebo (events: 171/262), median and 95% CI: 10.35 (8.31, 13.93)
 
@@ -3403,9 +3784,11 @@ Figure 33: Kaplan-Meier curves of OS (CA209577)
 
 <!-- image -->
 
+Based on data cut-off: 17-Dec-2024, minimum follow-up of 60 months
+
 Gastric, gastro-oesophageal junction or oesophageal adenocarcinoma
 
-The safety and efficacy of nivolumab 240 mg every 2 weeks or 360 mg every 3 weeks in combination with chemotherapy (dose and schedule of nivolumab selected depending on the chemotherapy regimen used, see below) was evaluated in a phase 3, randomised, open-label study (CA209649). The study included adult patients (18 years or older) with previously untreated advanced or metastatic gastric, gastro-oesophageal junction (GEJ) or oesophageal adenocarcinoma, no prior systemic treatment (including HER2 inhibitors), and ECOG performance status score 0 or 1. Patients were enrolled regardless of their tumour cell PD-L1 status, and tumour cell PD-L1 expression was determined using the PD-L1 IHC 28-8 pharmDx assay. A retrospective re-scoring of a patient's tumour PD-L1 status using CPS was conducted using the PD-L1-stained tumour specimens used for randomisation. Patients with known HER2-positive tumours, who had baseline ECOG performance score ≥ 2, untreated central nervous system metastases, or who had active, known, or suspected autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the study. A total of 643 patients with HER2-undetermined status (40.3% of the study population) were included in the study. Randomisation was stratified by tumour cell PDL1 status (≥ 1% vs. &lt; 1% or indeterminate), region (Asia vs. US vs. rest of world), ECOG performance status (0 vs. 1), and chemotherapy regimen. Chemotherapy consisted of FOLFOX (fluorouracil, leucovorin and oxaliplatin) or CapeOX (capecitabine and oxaliplatin).
+The safety and efficacy of nivolumab 240 mg every 2 weeks or 360 mg every 3 weeks in combination with chemotherapy (dose and schedule of nivolumab selected depending on the chemotherapy regimen used, see below) was evaluated in a phase 3, randomised, open-label study (CA209649). The study included adult patients (18 years or older) with previously untreated advanced or metastatic gastric, gastro-oesophageal junction (GEJ) or oesophageal adenocarcinoma, no prior systemic treatment (including HER2 inhibitors), and ECOG performance status score 0 or 1. Patients were enrolled regardless of their tumour cell PD-L1 status, and tumour cell PD-L1 expression was determined using the PD-L1 IHC 28-8 pharmDx assay. A retrospective re-scoring of a patient's tumour PD-L1 status using CPS was conducted using the PD-L1-stained tumour specimens used for randomisation. Patients with known HER2-positive tumours, who had baseline ECOG performance score ≥ 2, untreated central nervous system metastases, or who had active, known, or suspected autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the study. A total of 643 patients with HER2-undetermined status (40.3% of the study population) were included in the study. Randomisation was stratified by tumour cell PD-L1 status (≥ 1% vs. &lt; 1% or indeterminate), region (Asia vs. US vs. rest of world), ECOG performance status (0 vs. 1), and chemotherapy regimen. Chemotherapy consisted of FOLFOX (fluorouracil, leucovorin and oxaliplatin) or CapeOX (capecitabine and oxaliplatin).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3415,9 +3798,9 @@ Baseline characteristics were generally balanced across treatment groups. In pat
 
 Primary efficacy outcome measures were PFS (by BICR) and OS assessed in patients with PD-L1 CPS ≥ 5 based on the PD-L1 IHC 28-8 pharmDX. Secondary endpoints per the pre-specified hierarchical testing were OS in patients with PD-L1 CPS ≥ 1 and in all randomised patients; further endpoints included ORR (BICR) in PD-L1 CPS ≥ 5 and all randomised patients. At the primary prespecified analysis, with a minimum follow-up of 12.1 months, the study demonstrated a statistically significant improvement in OS and PFS in patients with PD-L1 CPS ≥ 5. Median OS was 14.4 months (95% CI: 13.1, 16.2) for nivolumab in combination with chemotherapy vs. 11.1 months (95% CI: 10.0, 12.1) for chemotherapy (HR = 0.71; 98.4% CI: 0.59, 0.86; p-value &lt; 0.0001). Median PFS was 7.69 months (95% CI: 7.03, 9.17) for nivolumab in combination with chemotherapy vs. 6.05 months (95% CI: 5.55, 6.90) for chemotherapy (HR = 0.68; 98% CI: 0.56, 0.81; p-value &lt; 0.0001). The ORR was 60% (95% CI: 55, 65) for nivolumab in combination with chemotherapy vs. 45% (95% CI: 40, 50) for chemotherapy.
 
-At an updated descriptive analysis with a minimum follow-up of 19.4 months, OS improvements were consistent with the primary analysis. Efficacy results are shown in Table 54, and Figures 34, and 35.
+At an updated descriptive analysis with a minimum follow-up of 19.4 months, OS improvements were consistent with the primary analysis. Efficacy results are shown in Table 58, and Figures 34, and 35.
 
-Table 54: Efficacy results in patients with PD-L1 CPS ≥ 5 (CA209649)
+Table 58: Efficacy results in patients with PD-L1 CPS ≥ 5 (CA209649)
 
 |                             | nivolumab + chemotherapy (n = 473)   | chemotherapy (n = 482)          |
 |-----------------------------|--------------------------------------|---------------------------------|
@@ -3450,8 +3833,7 @@ b Based on stratified long Cox proportional hazard model.
 
 c Kaplan-Meier estimate.
 
-d Confirmed by BICR.
-
+- d Confirmed by BICR.
 - e Based on patients with measurable disease at baseline.
 
 Figure 34: Kaplan-Meier curves of OS in patients with PD-L1 CPS ≥ 5 (CA209649)
@@ -3554,7 +3936,7 @@ Figure 35: Kaplan-Meier curves of PFS in patients with PD-L1 CPS ≥ 5 (CA209649
 
 ## Hepatocellular carcinoma
 
-The safety and efficacy of nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg every 3 weeks, for a maximum of 4 doses, followed by nivolumab monotherapy 480 mg every 4 weeks in the first-line treatment of unresectable or advanced hepatocellular carcinoma (HCC) were evaluated in a phase 3, randomised, active-controlled, open-label study (CA2099DW). The study included adult patients (18 years or older) with histologically confirmed HCC, Child Pugh Class A, ECOG performance status 0 or 1, and no prior systemic therapy for advanced disease. Esophagogastroduodenoscopy was not mandated prior to enrolment. The study enrolled adults whose disease was not amenable to or progressed after surgical and/or locoregional therapies. Prior neo-adjuvant or adjuvant systemic therapy was permitted. Patients with active autoimmune disease, brain or leptomeningeal metastases, prior liver transplant, a history of hepatic encephalopathy (within 12 months of randomisation), clinically significant ascites, medical conditions requiring systemic immunosuppression, infection with HIV, or active co infection with hepatitis B virus (HBV) and hepatitis C virus (HCV) or HBV and hepatitis D virus (HDV) were excluded from the study. Randomisation was stratified by aetiology (HBV vs. HCV vs. non-viral), macrovascular invasion and/or extrahepatic spread (present or absent), and alphafetoprotein levels (≥ 400 or &lt; 400 ng/mL).
+The safety and efficacy of nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg every 3 weeks, for a maximum of 4 doses, followed by nivolumab monotherapy 480 mg every 4 weeks in the first-line treatment of unresectable or advanced hepatocellular carcinoma (HCC) were evaluated in a phase 3, randomised, active-controlled, open-label study (CA2099DW). The study included adult patients (18 years or older) with histologically confirmed HCC, Child Pugh Class A, ECOG performance status 0 or 1, and no prior systemic therapy for advanced disease. Esophagogastroduodenoscopy was not mandated prior to enrolment. The study enrolled adults whose disease was not amenable to or progressed after surgical and/or locoregional therapies. Prior neo-adjuvant or adjuvant systemic therapy was permitted. Patients with active autoimmune disease, brain or leptomeningeal metastases, prior liver transplant, a history of hepatic encephalopathy (within 12 months of randomisation), clinically significant ascites, medical conditions requiring systemic immunosuppression, infection with HIV, or active co infection with hepatitis B virus (HBV) and hepatitis C virus (HCV) or HBV and hepatitis D virus (HDV) were excluded from the study. Randomisation was stratified by aetiology (HBV vs. HCV vs. non-viral), macrovascular invasion and/or extrahepatic spread (present or absent), and alpha-fetoprotein levels (≥ 400 or &lt; 400 ng/mL).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3562,9 +3944,9 @@ A total of 668 patients were randomised to receive nivolumab in combination with
 
 Baseline characteristics were generally balanced across treatment groups. The median age was 66 years (range: 20 to 89), with 53% ≥ 65 years and 16% ≥ 75 years, 53% were White, 44% were Asian, 2.2% were Black, and 82% were male. Baseline ECOG performance status was 0 (71%) or 1 (29%). Thirty-four percent (34%) of patients had HBV infection, 28% had HCV infection, and 36% had no evidence of HBV or HCV infection. Nineteen percent (19%) of patients had alcoholic liver disease and 11% had non-alcoholic fatty liver disease. The majority of patients had BCLC stage C (73%) disease at baseline, 19% had stage B, and 6% had stage A. Patients with Child-Pugh scores of 5, 6, and ≥ 7 were 77%, 20%, and 3%, respectively. A total of 54% of patients had extrahepatic spread; 25% had macrovascular invasion; and 33% had AFP levels ≥ 400 µg/L.
 
-The study demonstrated a statistically significant benefit in OS and ORR for patients randomised to nivolumab in combination with ipilimumab compared to investigator's choice of lenvatinib or sorafenib. Efficacy results are presented in Table 55 and Figure 36.
+The study demonstrated a statistically significant benefit in OS and ORR for patients randomised to nivolumab in combination with ipilimumab compared to investigator's choice of lenvatinib or sorafenib. Efficacy results are presented in Table 59 and Figure 36.
 
-Table 55: Efficacy results in first-line HCC (CA2099DW) a
+Table 59: Efficacy results in first-line HCC (CA2099DW) a
 
 |                                 | nivolumab + ipilimumab (n = 335)   | lenvatinib or sorafenib (n = 333)   |
 |---------------------------------|------------------------------------|-------------------------------------|
@@ -3572,6 +3954,7 @@ Table 55: Efficacy results in first-line HCC (CA2099DW) a
 | Events                          | 194 (58%)                          | 228 (68%)                           |
 | Median (months) (95% CI)        | 23.7 (18.8, 29.4)                  | 20.6 (17.5, 22.5)                   |
 | Hazard ratio (95% CI) b         | 0.79 (0.65, 0.96)                  | 0.79 (0.65, 0.96)                   |
+| p-value c                       | 0.0180                             | 0.0180                              |
 | Overall Response Rate, n (%) d  | 121 (36.1)                         | 44 (13.2)                           |
 | (95% CI)                        | (31.0, 41.5)                       | (9.8, 17.3)                         |
 | p-value e                       | < 0.0001                           | < 0.0001                            |
@@ -3584,11 +3967,11 @@ a Minimum follow-up of 26.8 months. Median follow up of 35.2 months.
 
 b Based on stratified Cox proportional hazard model.
 
-c Based on a 2-sided stratified log-rank test. Boundary for statistical significance: pvalue ≤ 0.0257.
+c Based on a 2-sided stratified log-rank test. Boundary for statistical significance: p-value ≤ 0.0257.
 
 d Assessed by BICR using RECIST 1.1.
 
-e Based on a 2-sided stratified Cochran-Mantel-Haenszel test. Boundary for statistical significance: pvalue ≤ 0.025.
+e Based on a 2-sided stratified Cochran-Mantel-Haenszel test. Boundary for statistical significance: p-value ≤ 0.025.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3641,7 +4024,7 @@ No overall differences in safety or efficacy were reported between elderly (≥ 
 
 ## Nivolumab monotherapy
 
-The pharmacokinetics (PK) of nivolumab is linear in the dose range of 0.1 to 10 mg/kg. The geometric mean clearance (CL), terminal half-life, and average exposure at steady state at 3 mg/kg every 2 weeks of nivolumab were 7.9 mL/h, 25.0 days, and 86.6 μ g/mL, respectively, based on a population PK analysis.
+The pharmacokinetics (PK) of nivolumab is linear in the dose range of 0.1 to 10 mg/kg. The geometric mean clearance (CL), terminal half-life, and average exposure at steady state at 3 mg/kg every 2 weeks of nivolumab were 7.9 mL/h, 25.0 days, and 86.6 μg/mL, respectively, based on a population PK analysis.
 
 Nivolumab CL in cHL patients was approximately 32% lower relative to NSCLC. Nivolumab baseline CL in adjuvant melanoma patients was approximately 40% lower and steady state CL approximately 20% lower relative to advanced melanoma. With available safety data, these decreases in CL were not clinically meaningful.
 
@@ -3669,17 +4052,17 @@ For nivolumab monotherapy, the exposures of nivolumab in adolescents 12 years of
 
 For nivolumab in combination with ipilimumab, the exposures of nivolumab and ipilimumab in adolescents 12 years of age and older are expected to be comparable to those in adult patients at the recommended dose.
 
+Similar to the adult population, nivolumab CL was lower in cHL paediatric patients relative to patients with solid tumours. The magnitude of the CL decrease was similar for paediatric and adult cHL patients. Exposures of nivolumab were similar (&lt; 20% difference in geometric means) in paediatric patients with cHL receiving nivolumab 3 mg/kg IV every 3 weeks and adult patients with cHL receiving nivolumab 3 mg/kg IV every 3 weeks, or adult patients with solid tumours receiving nivolumab 3 mg/kg IV every 2 weeks.
+
 ## Renal impairment
 
 The effect of renal impairment on the CL of nivolumab was evaluated in patients with mild (GFR &lt; 90 and ≥ 60 mL/min/1.73 m 2 ; n = 379), moderate (GFR &lt; 60 and ≥ 30 mL/min/1.73 m 2 ; n = 179), or severe (GFR &lt; 30 and ≥ 15 mL/min/1.73 m 2 ; n = 2) renal impairment compared to patients with normal renal function (GFR ≥ 90 mL/min/1.73 m 2 ; n = 342) in population PK analyses. No clinically important differences in the CL of nivolumab were found between patients with mild or moderate renal impairment and patients with normal renal function. Data from patients with severe renal impairment are too limited to draw conclusions on this population (see section 4.2).
 
-## Hepatic impairment
-
-The effect of hepatic impairment on the CL of nivolumab was evaluated in patients with different tumour types (NSCLC, SCLC, melanoma, RCC, SCCHN, UC, GC, and cHL) with mild hepatic impairment (total bilirubin 1.0 × to 1.5 × ULN or AST &gt; ULN as defined using the National Cancer Institute criteria of hepatic dysfunction; n = 351) and in patients with moderate hepatic impairment (total bilirubin &gt; 1.5 × to 3 × ULN and any AST; n = 10) compared to patients with normal hepatic function (total bilirubin and AST ≤ ULN; n = 3096) in a population PK analysis. No clinically important differences in the CL of nivolumab were found between patients with mild or moderate
-
 <div style=\"page-break-after: always\"></div>
 
-hepatic impairment and normal hepatic function. Similar results were observed in patients with HCC (mild hepatic impairment: n = 152; moderate hepatic impairment: n = 13). Nivolumab has not been studied in patients with severe hepatic impairment (total bilirubin &gt; 3 × ULN and any AST) (see section 4.2).
+## Hepatic impairment
+
+The effect of hepatic impairment on the CL of nivolumab was evaluated in patients with different tumour types (NSCLC, SCLC, melanoma, RCC, SCCHN, UC, GC, and cHL) with mild hepatic impairment (total bilirubin 1.0 × to 1.5 × ULN or AST &gt; ULN as defined using the National Cancer Institute criteria of hepatic dysfunction; n = 351) and in patients with moderate hepatic impairment (total bilirubin &gt; 1.5 × to 3 × ULN and any AST; n = 10) compared to patients with normal hepatic function (total bilirubin and AST ≤ ULN; n = 3096) in a population PK analysis. No clinically important differences in the CL of nivolumab were found between patients with mild or moderate hepatic impairment and normal hepatic function. Similar results were observed in patients with HCC (mild hepatic impairment: n = 152; moderate hepatic impairment: n = 13). Nivolumab has not been studied in patients with severe hepatic impairment (total bilirubin &gt; 3 × ULN and any AST) (see section 4.2).
 
 ## 5.3 Preclinical safety data
 
@@ -3699,13 +4082,15 @@ Sodium citrate dihydrate Sodium chloride Mannitol (E421) Pentetic acid (diethyle
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products. OPDIVO should not be infused concomitantly in the same intravenous line with other medicinal products.
 
-## 6.3 Shelf life
-
-Unopened vial 3 years
-
 <div style=\"page-break-after: always\"></div>
 
-## After preparation of infusion
+## 6.3 Shelf life
+
+Unopened vial
+
+3 years
+
+After preparation of infusion
 
 Chemical and physical in-use stability from the time of preparation has been demonstrated as follows (times are inclusive of the administration period):
 
@@ -3745,6 +4130,8 @@ Not all pack sizes may be marketed.
 
 Preparation should be performed by trained personnel in accordance with good practices rules, especially with respect to asepsis.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Preparation and administration
 
 ## Calculating the dose
@@ -3754,8 +4141,6 @@ More than one vial of OPDIVO concentrate may be needed to give the total dose fo
 ## Nivolumab monotherapy
 
 The prescribed dose for the adult patient is 240 mg or 480 mg given regardless of body weight depending on indication (see section 4.2).
-
-<div style=\"page-break-after: always\"></div>
 
 Melanoma (advanced or adjuvant treatment) in adolescents. The prescribed dose for adolescents 12 years of age and older weighing at least 50 kg is 240 mg or 480 mg. For adolescents 12 years of age and older and weighing less than 50 kg, the prescribed dose is given in mg/kg. Based on this prescribed dose, calculate the total dose to be given.
 
@@ -3798,6 +4183,10 @@ The prescribed dose for the patient is 360 mg given regardless of body weight.
 
 The prescribed dose for the patient is nivolumab 240 mg or 480 mg given regardless of body weight.
 
+## Nivolumab in combination with brentuximab vedotin
+
+The prescribed dose for the patient is given in mg/kg. Based on this prescribed dose, calculate the total dose to be given (please see above).
+
 ## Preparing the infusion
 
 Take care to ensure aseptic handling when you prepare the infusion.
@@ -3805,23 +4194,21 @@ Take care to ensure aseptic handling when you prepare the infusion.
 ## OPDIVO can be used for intravenous administration either:
 
 -  without dilution, after transfer to an infusion container using an appropriate sterile syringe; or
+
+<div style=\"page-break-after: always\"></div>
+
 -  after diluting according to the following instructions:
 -  the final infusion concentration should range between 1 and 10 mg/mL
 -  the total volume of infusion must not exceed 160 mL. For patients weighing less than 40 kg, the total volume of infusion must not exceed 4 mL per kilogram of patient weight.
 
-## OPDIVO concentrate may be diluted with either:
+OPDIVO concentrate may be diluted with either:
 
 -  sodium chloride 9 mg/mL (0.9%) solution for injection; or
 -  50 mg/mL (5%) glucose solution for injection.
 
 ## STEP 1
 
--  Inspect the OPDIVO concentrate for particulate matter or discoloration. Do not shake the vial. OPDIVO concentrate is a clear to opalescent, colourless to pale yellow liquid. Discard the vial
-
-<div style=\"page-break-after: always\"></div>
-
-if the solution is cloudy, is discoloured, or contains particulate matter other than a few translucent-to-white particles.
-
+-  Inspect the OPDIVO concentrate for particulate matter or discolouration. Do not shake the vial. OPDIVO concentrate is a clear to opalescent, colourless to pale yellow liquid. Discard the vial if the solution is cloudy, is discoloured, or contains particulate matter other than a few translucent-to-white particles.
 -  Withdraw the required volume of OPDIVO concentrate using an appropriate sterile syringe.
 
 ## STEP 2
@@ -3840,13 +4227,15 @@ OPDIVO infusion should not be infused at the same time in the same intravenous l
 
 Use an infusion set and an in-line, sterile, non-pyrogenic, low protein binding filter (pore size of 0.2 μm to 1.2 μm).
 
-OPDIVO infusion is compatible with PVC and polyolefin containers, glass bottles, PVC infusion sets and in-line filters with polyethersulfone membranes with pore sizes of 0.2 μ m to 1.2 μ m.
+OPDIVO infusion is compatible with PVC and polyolefin containers, glass bottles, PVC infusion sets and in-line filters with polyethersulfone membranes with pore sizes of 0.2 μm to 1.2 μm.
 
 After administration of the nivolumab dose, flush the line with sodium chloride 9 mg/mL (0.9%) solution for injection or 50 mg/mL (5%) glucose solution for injection.
 
 ## Disposal
 
 Do not store any unused portion of the infusion solution for reuse. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -3855,8 +4244,6 @@ Bristol-Myers Squibb Pharma EEIG Plaza 254 Blanchardstown Corporate Park 2 Dubli
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/15/1014/001 EU/1/15/1014/002 EU/1/15/1014/003 EU/1/15/1014/004
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -4089,22 +4476,21 @@ Dose escalation or reduction is not recommended for OPDIVO as monotherapy or in 
 
 Table 10: Recommended treatment modifications for OPDIVO or OPDIVO in combination
 
-| Immune-related adverse reaction                                                                                       | Severity                                                                                                                                                                                                                                                    | Treatment modification                                                                                                                                                                                                                                                                                                                                  |
-|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Immune-related pneumonitis                                                                                            | Grade 2 pneumonitis                                                                                                                                                                                                                                         | Withhold dose(s) until symptoms resolve, radiographic abnormalities improve, and management with corticosteroids is complete                                                                                                                                                                                                                            |
-| Immune-related pneumonitis                                                                                            | Grade 3 or 4 pneumonitis                                                                                                                                                                                                                                    | Permanently discontinue treatment                                                                                                                                                                                                                                                                                                                       |
-| Immune-related pneumonitis                                                                                            | Grade 2 diarrhoea or colitis                                                                                                                                                                                                                                | Withhold dose(s) until symptoms resolve and management with corticosteroids, if needed, is complete                                                                                                                                                                                                                                                     |
-| Immune-related colitis                                                                                                | Grade 3 diarrhoea or colitis OPDIVO monotherapy                                                                                                                                                                                                             | Withhold dose(s) until symptoms resolve and management with corticosteroids is complete                                                                                                                                                                                                                                                                 |
-| Immune-related colitis                                                                                                | OPDIVO+ipilimumab a                                                                                                                                                                                                                                         | Permanently discontinue treatment                                                                                                                                                                                                                                                                                                                       |
-| Immune-related colitis                                                                                                | Grade 4 diarrhoea or colitis                                                                                                                                                                                                                                | Permanently discontinue treatment                                                                                                                                                                                                                                                                                                                       |
-| Immune-related hepatitis NOTE: for                                                                                    | Grade 2 elevation in aspartate aminotransferase (AST), alanine aminotransferase (ALT), or total bilirubin                                                                                                                                                   | Withhold dose(s) until laboratory values return to baseline and management with corticosteroids, if needed, is complete                                                                                                                                                                                                                                 |
-| RCC patients treated with OPDIVO in combination with cabozantinib with liver enzyme elevations, see dosing guidelines | Grade 3 or 4 elevation in AST, ALT, total bilirubin                                                                                                                                                                                                         | Permanently discontinue treatment                                                                                                                                                                                                                                                                                                                       |
-| Immune-related nephritis and renal dysfunction                                                                        | Grade 2 or 3 creatinine elevation                                                                                                                                                                                                                           | Withhold dose(s) until creatinine returns to baseline and management with corticosteroids is complete                                                                                                                                                                                                                                                   |
-| Immune-related nephritis and renal dysfunction                                                                        | Grade 4 creatinine elevation                                                                                                                                                                                                                                | Permanently discontinue treatment                                                                                                                                                                                                                                                                                                                       |
-| Immune-related endocrinopathies                                                                                       | Symptomatic Grade 2 or 3 hypothyroidism, hyperthyroidism, hypophysitis, Grade 2 adrenal insufficiency Grade 3 diabetes Grade 4 hypothyroidism Grade 4 hyperthyroidism Grade 4 hypophysitis Grade 3 or 4 adrenal insufficiency Grade 4 diabetes Grade 3 rash | Withhold dose(s) until symptoms resolve and management with corticosteroids (if needed for symptoms of acute inflammation) is complete. Treatment should be continued in the presence of hormone replacement therapy b as long as no symptoms are present Permanently discontinue treatment Withhold dose(s) until symptoms resolve and management with |
-| Immune-related endocrinopathies                                                                                       |                                                                                                                                                                                                                                                             | corticosteroids is complete                                                                                                                                                                                                                                                                                                                             |
-| Immune-related skin adverse reactions                                                                                 | Grade 4 rash                                                                                                                                                                                                                                                | Permanently discontinue treatment Permanently discontinue treatment                                                                                                                                                                                                                                                                                     |
-| Immune-related skin adverse reactions                                                                                 | Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN)                                                                                                                                                                                          | (see section 4.4)                                                                                                                                                                                                                                                                                                                                       |
+| Immune-related adverse reaction                                                                                                                          | Severity                                                                                                                | Treatment modification                                                                                                                |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| Immune-related pneumonitis                                                                                                                               | Grade 2 pneumonitis                                                                                                     | Withhold dose(s) until symptoms resolve, radiographic abnormalities improve, and management with corticosteroids is complete          |
+| Immune-related pneumonitis                                                                                                                               | Grade 3 or 4 pneumonitis                                                                                                | Permanently discontinue treatment Withhold dose(s) until symptoms                                                                     |
+| Immune-related pneumonitis                                                                                                                               | Grade 2 diarrhoea or colitis                                                                                            | resolve and management with corticosteroids, if needed, is complete                                                                   |
+| Immune-related colitis                                                                                                                                   | Grade 3 diarrhoea or colitis OPDIVO monotherapy                                                                         | Withhold dose(s) until symptoms resolve and management with corticosteroids is complete                                               |
+| Immune-related pneumonitis                                                                                                                               | OPDIVO+ipilimumab a                                                                                                     | Permanently discontinue treatment                                                                                                     |
+| Immune-related pneumonitis                                                                                                                               | Grade 4 diarrhoea or colitis                                                                                            | Permanently discontinue treatment                                                                                                     |
+| Immune-related hepatitis NOTE: for RCC patients treated with OPDIVO in combination with cabozantinib with liver enzyme elevations, see dosing guidelines | Grade 2 elevation in aspartate aminotransferase (AST), alanine aminotransferase (ALT), or total bilirubin               | Withhold dose(s) until laboratory values return to baseline and management with corticosteroids, if needed, is complete               |
+| Immune-related hepatitis NOTE: for RCC patients treated with OPDIVO in combination with cabozantinib with liver enzyme elevations, see dosing guidelines | Grade 3 or 4 elevation in AST, ALT, total bilirubin                                                                     | Permanently discontinue treatment                                                                                                     |
+| Immune-related nephritis and renal dysfunction                                                                                                           | Grade 2 or 3 creatinine elevation                                                                                       | Withhold dose(s) until creatinine returns to baseline and management with corticosteroids is complete                                 |
+| Immune-related nephritis and renal dysfunction                                                                                                           | Grade 4 creatinine elevation Symptomatic Grade 2 or 3 hypothyroidism, hyperthyroidism, hypophysitis,                    | Permanently discontinue treatment Withhold dose(s) until symptoms resolve and management with corticosteroids (if needed for symptoms |
+| Immune-related endocrinopathies                                                                                                                          | Grade 4 hypothyroidism Grade 4 hyperthyroidism Grade 4 hypophysitis Grade 3 or 4 adrenal insufficiency Grade 4 diabetes | presence of hormone replacement therapy b as long as no symptoms are present Permanently discontinue treatment                        |
+| Immune-related endocrinopathies                                                                                                                          | Grade 3 rash                                                                                                            | Withhold dose(s) until symptoms resolve and management with                                                                           |
+| Immune-related skin adverse reactions                                                                                                                    | Grade 4 rash Stevens-Johnson syndrome (SJS) or                                                                          | corticosteroids is complete Permanently discontinue treatment Permanently discontinue treatment (see                                  |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4141,11 +4527,11 @@ When OPDIVO is used in combination with cabozantinib, the above treatment modifi
 
 ## Special populations
 
-<div style=\"page-break-after: always\"></div>
-
 ## Elderly
 
 No dose adjustment is required for elderly patients (≥ 65 years).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -4185,11 +4571,11 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Assessment of PD-L1 status
 
 When assessing the PD-L1 status of the tumour, it is important that a well-validated and robust methodology is used.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Assessment of MSI/MMR status
 
@@ -4215,11 +4601,9 @@ Nivolumab or nivolumab in combination with ipilimumab must be permanently discon
 
 ## Immune-related pneumonitis
 
-Severe pneumonitis or interstitial lung disease, including fatal cases, has been observed with nivolumab monotherapy or nivolumab in combination with ipilimumab (see section 4.8). Patients
+Severe pneumonitis or interstitial lung disease, including fatal cases, has been observed with nivolumab monotherapy or nivolumab in combination with ipilimumab (see section 4.8). Patients should be monitored for signs and symptoms of pneumonitis such as radiographic changes (e.g., focal ground glass opacities, patchy filtrates), dyspnoea, and hypoxia. Infectious and disease-related aetiologies should be ruled out.
 
 <div style=\"page-break-after: always\"></div>
-
-should be monitored for signs and symptoms of pneumonitis such as radiographic changes (e.g., focal ground glass opacities, patchy filtrates), dyspnoea, and hypoxia. Infectious and disease-related aetiologies should be ruled out.
 
 For Grade 3 or 4 pneumonitis, nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued, and corticosteroids should be initiated at a dose of 2 to 4 mg/kg/day methylprednisolone equivalents.
 
@@ -4241,9 +4625,11 @@ Severe hepatitis has been observed with nivolumab monotherapy or nivolumab in co
 
 For Grade 3 or 4 transaminase or total bilirubin elevation, nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued, and corticosteroids should be initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
 
+For Grade 2 transaminase or total bilirubin elevation, nivolumab or nivolumab in combination with ipilimumab should be withheld. Persistent elevations in these laboratory values should be managed with corticosteroids at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents. Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after
+
 <div style=\"page-break-after: always\"></div>
 
-For Grade 2 transaminase or total bilirubin elevation, nivolumab or nivolumab in combination with ipilimumab should be withheld. Persistent elevations in these laboratory values should be managed with corticosteroids at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents. Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper, if needed. If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents and nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued.
+corticosteroid taper, if needed. If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents and nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued.
 
 ## Immune-related nephritis and renal dysfunction
 
@@ -4263,9 +4649,11 @@ For symptomatic hypothyroidism, nivolumab or nivolumab in combination with ipili
 
 For symptomatic Grade 2 adrenal insufficiency, nivolumab or nivolumab in combination with ipilimumab should be withheld, and physiologic corticosteroid replacement should be initiated as needed. Nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued for severe (Grade 3) or life-threatening (Grade 4) adrenal insufficiency. Monitoring of adrenal function and hormone levels should continue to ensure appropriate corticosteroid replacement is utilised.
 
+For symptomatic Grade 2 or 3 hypophysitis, nivolumab or nivolumab in combination with ipilimumab should be withheld, and hormone replacement should be initiated as needed. Corticosteroids at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents should also be considered if acute inflammation
+
 <div style=\"page-break-after: always\"></div>
 
-For symptomatic Grade 2 or 3 hypophysitis, nivolumab or nivolumab in combination with ipilimumab should be withheld, and hormone replacement should be initiated as needed. Corticosteroids at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents should also be considered if acute inflammation of the pituitary gland is suspected. Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper, if needed. Nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued for life-threatening (Grade 4) hypophysitis. Monitoring of pituitary function and hormone levels should continue to ensure appropriate hormone replacement is utilised.
+of the pituitary gland is suspected. Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper, if needed. Nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued for life-threatening (Grade 4) hypophysitis. Monitoring of pituitary function and hormone levels should continue to ensure appropriate hormone replacement is utilised.
 
 For symptomatic diabetes, nivolumab or nivolumab in combination with ipilimumab should be withheld, and insulin replacement should be initiated as needed. Monitoring of blood sugar should continue to ensure appropriate insulin replacement is utilised. Nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued for life-threatening diabetes.
 
@@ -4285,9 +4673,11 @@ For suspected immune-related adverse reactions, adequate evaluation should be pe
 
 Cases of myotoxicity (myositis, myocarditis, and rhabdomyolysis), some with fatal outcome, have been reported with nivolumab or nivolumab in combination with ipilimumab. If a patient develops signs and symptoms of myotoxicity, close monitoring should be implemented, and the patient referred to a specialist for assessment and treatment without delay. Based on the severity of myotoxicity, nivolumab or nivolumab in combination with ipilimumab should be withheld or discontinued (see section 4.2), and appropriate treatment instituted.
 
+The diagnosis of myocarditis requires a high index of suspicion. Patients with cardiac or cardio-pulmonary symptoms should be assessed for potential myocarditis. If myocarditis is suspected, prompt initiation of a high dose of steroids (prednisone 1 to 2 mg/kg/day or methylprednisolone 1 to 2 mg/kg/day) and prompt cardiology consultation with diagnostic workup according to current clinical guidelines should be initiated. Once a diagnosis of myocarditis is established, nivolumab or
+
 <div style=\"page-break-after: always\"></div>
 
-The diagnosis of myocarditis requires a high index of suspicion. Patients with cardiac or cardio-pulmonary symptoms should be assessed for potential myocarditis. If myocarditis is suspected, prompt initiation of a high dose of steroids (prednisone 1 to 2 mg/kg/day or methylprednisolone 1 to 2 mg/kg/day) and prompt cardiology consultation with diagnostic workup according to current clinical guidelines should be initiated. Once a diagnosis of myocarditis is established, nivolumab or nivolumab in combination with ipilimumab should be withheld or permanently discontinued (see section 4.2).
+nivolumab in combination with ipilimumab should be withheld or permanently discontinued (see section 4.2).
 
 Solid organ transplant rejection has been reported in the post-marketing setting in patients treated with PD-1 inhibitors. Treatment with nivolumab may increase the risk of rejection in solid organ transplant recipients. The benefit of treatment with nivolumab versus the risk of possible organ rejection should be considered in these patients.
 
@@ -4305,11 +4695,9 @@ Severe infusion reactions have been reported in clinical trials of intravenous n
 
 Patients with a baseline performance score ≥ 2, active brain metastases or leptomeningeal metastases, autoimmune disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the pivotal clinical trials of nivolumab or nivolumab in combination with ipilimumab (see sections 4.5 and 5.1). Patients with ocular/uveal melanoma were excluded from pivotal clinical trials of melanoma. In addition, CA209037 excluded patients who have had a Grade 4 adverse reaction that was related to anti-CTLA-4 therapy (see section 5.1). Patients with baseline performance score of 2, treated leptomeningeal metastases, ocular/uveal melanoma, autoimmune disease and patients who have had a Grade 3-4 adverse reaction that was related to prior anti-CTLA-4 therapy were included in study CA209172 (see section 5.1). In the absence of data for patients who had been receiving systemic immunosuppressants prior to study entry, and for patients with active brain or leptomeningeal metastases, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
-Relative to nivolumab monotherapy, an increase in PFS for the combination of nivolumab with ipilimumab is established only in patients with low tumour PD-L1 expression. The improvement in OS was similar between nivolumab in combination with ipilimumab and nivolumab monotherapy in
+Relative to nivolumab monotherapy, an increase in PFS for the combination of nivolumab with ipilimumab is established only in patients with low tumour PD-L1 expression. The improvement in OS was similar between nivolumab in combination with ipilimumab and nivolumab monotherapy in patients with high tumour PD-L1 expression (PD-L1 ≥ 1%). Before initiating treatment with the combination, physicians are advised to carefully evaluate the individual patient and tumour characteristics, taking into consideration the observed benefits and the toxicity of the combination relative to nivolumab monotherapy (see sections 4.8 and 5.1).
 
 <div style=\"page-break-after: always\"></div>
-
-patients with high tumour PD-L1 expression (PD-L1 ≥ 1%). Before initiating treatment with the combination, physicians are advised to carefully evaluate the individual patient and tumour characteristics, taking into consideration the observed benefits and the toxicity of the combination relative to nivolumab monotherapy (see sections 4.8 and 5.1).
 
 ## Use of nivolumab in melanoma patients with rapidly progressing disease
 
@@ -4338,13 +4726,13 @@ Physicians should consider the delayed onset of nivolumab effect before initiati
 
 Patients with a baseline performance score ≥ 2, Grade 2 or greater peripheral neuropathy, active autoimmune disease, symptomatic interstitial lung disease, medical conditions requiring systemic immunosuppression, unresectable or metastatic disease, who received prior anti-cancer treatment for resectable disease, who had EGFR mutations or known ALK translocations, or who had brain metastasis, were excluded from the pivotal trial in neoadjuvant and adjuvant treatment of NSCLC (see sections 4.5 and 5.1). In the absence of data, nivolumab in combination with chemotherapy should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Renal cell carcinoma
 
 ## Nivolumab or nivolumab in combination with ipilimumab
 
 Patients with any history of concurrent brain metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trials of nivolumab or nivolumab in combination with ipilimumab (see sections 4.5 and 5.1). In the absence of data, nivolumab or nivolumab in combination with ipilimumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Nivolumab in combination with cabozantinib
 
@@ -4370,17 +4758,17 @@ Patients with a baseline performance score of ≥ 2 (except patients with a base
 
 ## dMMR or MSI-H colorectal cancer
 
-Patients with a baseline performance score ≥ 2, active brain metastases or leptomeningeal metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trial in dMMR or MSI-H metastatic CRC (see sections 4.5 and 5.1). In the
-
-<div style=\"page-break-after: always\"></div>
-
-absence of data, nivolumab in combination with ipilimumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+Patients with a baseline performance score ≥ 2, active brain metastases or leptomeningeal metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trial in dMMR or MSI-H metastatic CRC (see sections 4.5 and 5.1). In the absence of data, nivolumab in combination with ipilimumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
 ## Oesophageal squamous cell carcinoma
 
 ## First-line treatment of OSCC
 
-Patients with a baseline performance score ≥ 2, any history of concurrent brain metastases, active autoimmune disease, medical conditions requiring systemic immunosuppression, or at high risk of bleeding or fistula due to apparent invasion of tumour to organs adjacent to the oesophageal tumour were excluded from the clinical trial in OSCC (see sections 4.5 and 5.1). In the absence of data, nivolumab in combination with chemotherapy should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+Patients with a baseline performance score ≥ 2, any history of concurrent brain metastases, active autoimmune disease, medical conditions requiring systemic immunosuppression, or at high risk of
+
+<div style=\"page-break-after: always\"></div>
+
+bleeding or fistula due to apparent invasion of tumour to organs adjacent to the oesophageal tumour were excluded from the clinical trial in OSCC (see sections 4.5 and 5.1). In the absence of data, nivolumab in combination with chemotherapy should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
 ## Treatment of OSCC after prior first-line chemotherapy
 
@@ -4402,13 +4790,11 @@ Study CA209649 excluded patients with known HER2-positive status. Patients with 
 
 ## Hepatocellular carcinoma
 
-Patients who had baseline ECOG performance score ≥ 2, prior liver transplant, Child-Pugh C liver disease, a history of concurrent brain metastases, a history of hepatic encephalopathy (within 12 months of randomisation), clinically significant ascites, infection with HIV, or active co-infection with hepatitis B virus (HBV) and hepatitis C virus (HCV) or HBV and hepatitis D virus (HDV), active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical study in HCC (see sections 4.5 and 5.1). Limited data are available in HCC patients with Child-Pugh B. In the absence of data, nivolumab in combination with ipilimumab followed by
-
-<div style=\"page-break-after: always\"></div>
-
-nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+Patients who had baseline ECOG performance score ≥ 2, prior liver transplant, Child-Pugh C liver disease, a history of concurrent brain metastases, a history of hepatic encephalopathy (within 12 months of randomisation), clinically significant ascites, infection with HIV, or active co-infection with hepatitis B virus (HBV) and hepatitis C virus (HCV) or HBV and hepatitis D virus (HDV), active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical study in HCC (see sections 4.5 and 5.1). Limited data are available in HCC patients with Child-Pugh B. In the absence of data, nivolumab in combination with ipilimumab followed by nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
 In HCC, a higher number of deaths within 6 months was observed with nivolumab in combination with ipilimumab compared to lenvatinib or sorafenib. A higher risk of death may be associated with poor prognostic features. Physicians should consider this risk before initiating treatment with nivolumab in combination with ipilimumab in patients with poor prognostic features.
+
+<div style=\"page-break-after: always\"></div>
 
 ## OPDIVO contains polysorbate 80 (E433)
 
@@ -4438,15 +4824,17 @@ There are no data from the use of nivolumab in pregnant women. Studies in animal
 
 It is unknown whether nivolumab is secreted in human milk. Because many medicinal products, including antibodies, can be secreted in human milk, a risk to the newborns/infants cannot be excluded. A decision must be made whether to discontinue breast-feeding or to discontinue from nivolumab therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Fertility
 
 Studies to evaluate the effect of nivolumab on fertility have not been performed. Thus, the effect of nivolumab on male and female fertility is unknown.
 
 ## 4.7 Effects on ability to drive and use machines
 
-Nivolumab or nivolumab in combination with ipilimumab may have a minor influence on the ability to drive and use machines. Because of potential adverse reactions such as fatigue (see section 4.8), patients should be advised to use caution when driving or operating machinery until they are certain that nivolumab does not adversely affect them.
+Nivolumab or nivolumab in combination with ipilimumab may have a minor influence on the ability to drive and use machines. Because of potential adverse reactions such as fatigue (see section 4.8),
+
+<div style=\"page-break-after: always\"></div>
+
+patients should be advised to use caution when driving or operating machinery until they are certain that nivolumab does not adversely affect them.
 
 ## 4.8 Undesirable effects
 
@@ -4464,86 +4852,86 @@ Adverse reactions reported in the pooled dataset for patients treated with nivol
 
 Table 11: Adverse reactions with nivolumab monotherapy
 
-|                                                                          | Nivolumab monotherapy                                                                 |
-|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| Infections and infestations                                              | Infections and infestations                                                           |
-| Very common                                                              | upper respiratory tract infection                                                     |
-| Common                                                                   | pneumonia a , bronchitis                                                              |
-| Rare                                                                     | aseptic meningitis                                                                    |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) | Neoplasms benign, malignant and unspecified (including cysts and polyps)              |
-| Rare                                                                     | histiocytic necrotising lymphadenitis (Kikuchi lymphadenitis)                         |
-| Blood and lymphatic system disorders                                     | Blood and lymphatic system disorders                                                  |
-| Very common                                                              | lymphopaenia b , anaemia b,i , leucopoenia b , neutropaenia a,b , thrombocytopaenia b |
-| Uncommon                                                                 | eosinophilia                                                                          |
-| Not known                                                                | haemophagocytic lymphohistiocytosis                                                   |
+|                                                                          | Nivolumab monotherapy                                                                                               |
+|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                                              | Infections and infestations                                                                                         |
+| Very common                                                              | upper respiratory tract infection                                                                                   |
+| Common                                                                   | pneumonia a , bronchitis                                                                                            |
+| Rare                                                                     | aseptic meningitis                                                                                                  |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) | Neoplasms benign, malignant and unspecified (including cysts and polyps)                                            |
+| Rare                                                                     | histiocytic necrotising lymphadenitis (Kikuchi lymphadenitis)                                                       |
+| Blood and lymphatic system disorders                                     | Blood and lymphatic system disorders                                                                                |
+| Very common                                                              | lymphopaenia b , anaemia b,i , leucopoenia b , neutropaenia a,b , thrombocytopaenia b                               |
+| Uncommon                                                                 | eosinophilia                                                                                                        |
+| Not known                                                                | haemophagocytic lymphohistiocytosis                                                                                 |
+| Immune system disorders                                                  | Immune system disorders                                                                                             |
+| Common                                                                   | infusion related reaction (including cytokine release syndrome), hypersensitivity (including anaphylactic reaction) |
+| Uncommon                                                                 | sarcoidosis                                                                                                         |
+| Not known                                                                | solid organ transplant rejection f                                                                                  |
+| Endocrine disorders                                                      | Endocrine disorders                                                                                                 |
+| Common                                                                   | hypothyroidism, hyperthyroidism, thyroiditis                                                                        |
+| Uncommon                                                                 | adrenal insufficiency j , hypopituitarism, hypophysitis, diabetes mellitus                                          |
+| Rare                                                                     | diabetic ketoacidosis, hypoparathyroidism                                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
-| Immune system disorders                         | Immune system disorders                                                                                             |
-|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Common                                          | infusion related reaction (including cytokine release syndrome), hypersensitivity (including anaphylactic reaction) |
-| Uncommon                                        | sarcoidosis                                                                                                         |
-| Not known                                       | solid organ transplant rejection f                                                                                  |
-| Endocrine disorders                             | Endocrine disorders                                                                                                 |
-| Common                                          | hypothyroidism, hyperthyroidism, thyroiditis                                                                        |
-| Uncommon                                        | adrenal insufficiency j , hypopituitarism, hypophysitis, diabetes mellitus                                          |
-| Rare                                            | diabetic ketoacidosis, hypoparathyroidism                                                                           |
-| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                                                                  |
-| Very common                                     | decreased appetite, hyperglycaemia b                                                                                |
-| Common                                          | dehydration, weight decreased, hypoglycaemia b                                                                      |
-| Uncommon                                        | metabolic acidosis                                                                                                  |
-| Not known                                       | tumour lysis syndrome g                                                                                             |
-| Nervous system disorders                        | Nervous system disorders                                                                                            |
-| Very common                                     | headache                                                                                                            |
-| Common                                          | peripheral neuropathy, dizziness                                                                                    |
-| Uncommon                                        | polyneuropathy, autoimmune neuropathy (including facial and abducens nerve paresis)                                 |
-| Rare                                            | Guillain-Barré syndrome, demyelination, myasthenic syndrome, encephalitis a,k , optic neuritis                      |
-| Not known                                       | myelitis (including transverse myelitis)                                                                            |
-| Eye disorders                                   | Eye disorders                                                                                                       |
-| Common                                          | blurred vision, dry eye                                                                                             |
-| Uncommon                                        | uveitis                                                                                                             |
-| Not known                                       | Vogt-Koyanagi-Harada syndrome f                                                                                     |
-| Cardiac disorders                               | Cardiac disorders                                                                                                   |
-| Common                                          | tachycardia, atrial fibrillation                                                                                    |
-| Uncommon                                        | myocarditis a , pericardial disorders h , arrhythmia (including ventricular arrhythmia)                             |
-| Vascular disorders                              | Vascular disorders                                                                                                  |
-| Common                                          | hypertension                                                                                                        |
-| Rare                                            | vasculitis                                                                                                          |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                     |
-| Very common                                     | dyspnoea a , cough                                                                                                  |
-| Common                                          | pneumonitis a , pleural effusion                                                                                    |
-| Uncommon                                        | lung infiltration                                                                                                   |
-| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                                          |
-| Very common                                     | diarrhoea, vomiting, nausea, abdominal pain, constipation                                                           |
-| Common                                          | colitis a , stomatitis, dry mouth                                                                                   |
-| Uncommon                                        | pancreatitis, gastritis                                                                                             |
-| Rare                                            | duodenal ulcer, pancreatic exocrine insufficiency, coeliac disease                                                  |
-| Hepatobiliary disorders                         | Hepatobiliary disorders                                                                                             |
-| Uncommon                                        | hepatitis, cholestasis                                                                                              |
-| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                                                              |
-| Very common                                     | rash c , pruritus                                                                                                   |
-| Common                                          | vitiligo, dry skin, erythema, alopecia                                                                              |
-| Uncommon                                        | psoriasis, rosacea, erythema multiforme, urticaria                                                                  |
-| Rare                                            | toxic epidermal necrolysis a, d , Stevens-Johnson syndrome a                                                        |
-| Not known                                       | lichen sclerosus g , other lichen disorders                                                                         |
+| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                                             |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------|
+| Very common                                     | decreased appetite, hyperglycaemia b                                                           |
+| Common                                          | dehydration, weight decreased, hypoglycaemia b                                                 |
+| Uncommon                                        | metabolic acidosis                                                                             |
+| Not known                                       | tumour lysis syndrome g                                                                        |
+| Nervous system disorders                        | Nervous system disorders                                                                       |
+| Very common                                     | headache                                                                                       |
+| Common                                          | peripheral neuropathy, dizziness                                                               |
+| Uncommon                                        | polyneuropathy, autoimmune neuropathy (including facial and abducens nerve paresis)            |
+| Rare                                            | Guillain-Barré syndrome, demyelination, myasthenic syndrome, encephalitis a,k , optic neuritis |
+| Not known                                       | myelitis (including transverse myelitis)                                                       |
+| Eye disorders                                   | Eye disorders                                                                                  |
+| Common                                          | blurred vision, dry eye                                                                        |
+| Uncommon                                        | uveitis                                                                                        |
+| Not known                                       | Vogt-Koyanagi-Harada syndrome f                                                                |
+| Cardiac disorders                               | Cardiac disorders                                                                              |
+| Common                                          | tachycardia, atrial fibrillation                                                               |
+| Uncommon                                        | myocarditis a , pericardial disorders h , arrhythmia (including ventricular arrhythmia)        |
+| Vascular disorders                              | Vascular disorders                                                                             |
+| Common                                          | hypertension                                                                                   |
+| Rare                                            | vasculitis                                                                                     |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                |
+| Very common                                     | dyspnoea a , cough                                                                             |
+| Common                                          | pneumonitis a , pleural effusion                                                               |
+| Uncommon                                        | lung infiltration                                                                              |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                     |
+| Very common                                     | diarrhoea, vomiting, nausea, abdominal pain, constipation                                      |
+| Common                                          | colitis a , stomatitis, dry mouth                                                              |
+| Uncommon                                        | pancreatitis, gastritis                                                                        |
+| Rare                                            | duodenal ulcer, pancreatic exocrine insufficiency, coeliac disease                             |
+| Hepatobiliary disorders                         | Hepatobiliary disorders                                                                        |
+| Uncommon                                        | hepatitis, cholestasis                                                                         |
+| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                                         |
+| Very common                                     | rash c , pruritus                                                                              |
+| Common                                          | vitiligo, dry skin, erythema, alopecia                                                         |
+| Uncommon                                        | psoriasis, rosacea, erythema multiforme, urticaria                                             |
+| Rare                                            | toxic epidermal necrolysis a, d , Stevens-Johnson syndrome a                                   |
+| Not known                                       | lichen sclerosus g , other lichen disorders                                                    |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                                |
+| Very common                                     | musculoskeletal pain e , arthralgia                                                            |
+| Common                                          | arthritis                                                                                      |
+| Uncommon                                        | polymyalgia rheumatica                                                                         |
+| Rare                                            | Sjogren's syndrome, myopathy, myositis (including polymyositis) a , rhabdomyolysis a,d         |
+| Renal and urinary disorders                     | Renal and urinary disorders                                                                    |
+| Common                                          | renal failure (including acute kidney injury) a                                                |
+| Rare                                            | tubulointerstitial nephritis, cystitis noninfective                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                                                                                                       |
-|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Very common                                          | musculoskeletal pain e , arthralgia                                                                                                                                                                                                   |
-| Common                                               | arthritis                                                                                                                                                                                                                             |
-| Uncommon                                             | polymyalgia rheumatica                                                                                                                                                                                                                |
-| Rare                                                 | Sjogren's syndrome, myopathy, myositis (including polymyositis) a , rhabdomyolysis a,d                                                                                                                                                |
-| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                                                                                                           |
-| Common                                               | renal failure (including acute kidney injury) a                                                                                                                                                                                       |
-| Rare                                                 | tubulointerstitial nephritis, cystitis noninfective                                                                                                                                                                                   |
-| General disorders and administration site conditions | General disorders and administration site conditions                                                                                                                                                                                  |
-| Very common                                          | fatigue, pyrexia                                                                                                                                                                                                                      |
-| Common                                               | pain, chest pain, oedema l , injection site reaction m                                                                                                                                                                                |
-| Investigations b                                     | Investigations b                                                                                                                                                                                                                      |
-| Very common                                          | increased AST, hyponatraemia, hypoalbuminaemia, increased alkaline phosphatase, increased creatinine, increased ALT, increased lipase, hyperkalaemia, increased amylase, hypocalcaemia, hypomagnesaemia, hypokalaemia, hypercalcaemia |
-| Common                                               | increased total bilirubin, hypernatraemia, hypermagnesaemia                                                                                                                                                                           |
+| General disorders and administration site conditions   | General disorders and administration site conditions                                                                                                                                                                                  |
+|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Very common                                            | fatigue, pyrexia                                                                                                                                                                                                                      |
+| Common                                                 | pain, chest pain, oedema l , injection site reaction m                                                                                                                                                                                |
+| Investigations b                                       | Investigations b                                                                                                                                                                                                                      |
+| Very common                                            | increased AST, hyponatraemia, hypoalbuminaemia, increased alkaline phosphatase, increased creatinine, increased ALT, increased lipase, hyperkalaemia, increased amylase, hypocalcaemia, hypomagnesaemia, hypokalaemia, hypercalcaemia |
+| Common                                                 | increased total bilirubin, hypernatraemia, hypermagnesaemia                                                                                                                                                                           |
 
 Adverse reaction frequencies presented in Table 11 may not be fully attributable to nivolumab alone but may contain contributions from the underlying disease.
 
@@ -4569,11 +4957,9 @@ When nivolumab is administered in combination, refer to the SmPC for the other t
 
 ## Nivolumab in combination with ipilimumab (with or without chemotherapy)
 
-In the pooled dataset of nivolumab administered in combination with ipilimumab (with or without chemotherapy) across tumour types (n = 2626) with minimum follow-up ranging from 6 to 47 months, the most frequent adverse reactions (≥ 10%) were fatigue (47%), diarrhoea (35%), rash (37%), nausea (27%), pruritus (29%), musculoskeletal pain (26%), pyrexia (23%), decreased appetite (22%), cough (21%), abdominal pain (18%), vomiting (18%), constipation (18%), arthralgia (18%), dyspnoea (17%), hypothyroidism (16%), headache (15%), upper respiratory tract infection (13%), oedema (13%), and dizziness (10%). The incidence of Grade 3-5 adverse reactions was 66% for nivolumab in combination with ipilimumab (with or without chemotherapy), with 1.0% fatal adverse reactions
+In the pooled dataset of nivolumab administered in combination with ipilimumab (with or without chemotherapy) across tumour types (n = 2626) with minimum follow-up ranging from 6 to 47 months, the most frequent adverse reactions (≥ 10%) were fatigue (47%), diarrhoea (35%), rash (37%), nausea (27%), pruritus (29%), musculoskeletal pain (26%), pyrexia (23%), decreased appetite (22%), cough (21%), abdominal pain (18%), vomiting (18%), constipation (18%), arthralgia (18%), dyspnoea (17%), hypothyroidism (16%), headache (15%), upper respiratory tract infection (13%), oedema (13%), and dizziness (10%). The incidence of Grade 3-5 adverse reactions was 66% for nivolumab in combination with ipilimumab (with or without chemotherapy), with 1.0% fatal adverse reactions attributed to study drug. Among patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg for melanoma, fatigue (62%), rash (57%), diarrhoea (52%), nausea (42%), pruritus (40%), pyrexia (36%), and headache (26%) were reported at an incidence rate ≥ 10% higher than the rates reported in the pooled dataset of nivolumab in combination with ipilimumab (with or without chemotherapy) incidence rate. Among patients treated with nivolumab 360 mg in combination with ipilimumab 1 mg/kg and chemotherapy for NSCLC, anaemia (32%) and neutropaenia (15%) were reported at an incidence rate ≥ 10% higher than the rates reported in the pooled dataset of nivolumab in combination with ipilimumab (with or without chemotherapy) incidence rate.
 
 <div style=\"page-break-after: always\"></div>
-
-attributed to study drug. Among patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg for melanoma, fatigue (62%), rash (57%), diarrhoea (52%), nausea (42%), pruritus (40%), pyrexia (36%), and headache (26%) were reported at an incidence rate ≥ 10% higher than the rates reported in the pooled dataset of nivolumab in combination with ipilimumab (with or without chemotherapy) incidence rate. Among patients treated with nivolumab 360 mg in combination with ipilimumab 1 mg/kg and chemotherapy for NSCLC, anaemia (32%) and neutropaenia (15%) were reported at an incidence rate ≥ 10% higher than the rates reported in the pooled dataset of nivolumab in combination with ipilimumab (with or without chemotherapy) incidence rate.
 
 ## Nivolumab in combination with chemotherapy
 
@@ -4587,16 +4973,19 @@ In the dataset of nivolumab intravenous formulation 240 mg every 2 weeks in comb
 
 Adverse reactions reported in the pooled dataset for patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy) (n = 2626), nivolumab in combination with chemotherapy (n = 1800), and nivolumab in combination with cabozantinib (n = 320) are presented in Table 12. These reactions are presented by system organ class and by frequency. Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000), not known (cannot be estimated from available post-marketing data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 12: Adverse reactions with nivolumab in combination with other therapeutic agents
+
+|                             | Combination with ipilimumab (with or without chemotherapy)   | Combination with chemotherapy                  | Combination with cabozantinib     |
+|-----------------------------|--------------------------------------------------------------|------------------------------------------------|-----------------------------------|
+| Infections and infestations | Infections and infestations                                  | Infections and infestations                    | Infections and infestations       |
+| Very common                 | upper respiratory tract infection                            |                                                | upper respiratory tract infection |
+| Common                      | pneumonia, bronchitis, conjunctivitis                        | upper respiratory tract infection, pneumonia a | pneumonia                         |
+| Rare                        | aseptic meningitis                                           |                                                |                                   |
+
+<div style=\"page-break-after: always\"></div>
 
 |                                      | Combination with ipilimumab (with or without chemotherapy)                                            | Combination with chemotherapy                                                       | Combination with cabozantinib                                                     |
 |--------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| Infections and infestations          | Infections and infestations                                                                           | Infections and infestations                                                         | Infections and infestations                                                       |
-| Very common                          | upper respiratory tract infection                                                                     |                                                                                     | upper respiratory tract infection                                                 |
-| Common                               | pneumonia, bronchitis, conjunctivitis                                                                 | upper respiratory tract infection, pneumonia a                                      | pneumonia                                                                         |
-| Rare                                 | aseptic meningitis                                                                                    |                                                                                     |                                                                                   |
 | Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                                  | Blood and lymphatic system disorders                                                | Blood and lymphatic system disorders                                              |
 | Very common                          | anaemia b,j , thrombocytopaenia b , leucopoenia b , lymphopaenia b , neutropaenia b                   | neutropaenia b , anaemia b,j , leucopoenia b , lymphopaenia b , thrombocytopaenia b | anaemia b , thrombocytopaenia b , leucopoenia b , lymphopaenia b , neutropaenia b |
 | Common                               | eosinophilia                                                                                          | febrile neutropaenia a                                                              | eosinophilia                                                                      |
@@ -4612,44 +5001,44 @@ Table 12: Adverse reactions with nivolumab in combination with other therapeutic
 | Common                               | hyperthyroidism, thyroiditis, adrenal insufficiency, hypophysitis, hypopituitarism, diabetes mellitus | hypothyroidism, hyperthyroidism, diabetes mellitus                                  | adrenal insufficiency                                                             |
 | Uncommon                             | diabetic ketoacidosis                                                                                 | adrenal insufficiency, thyroiditis, hypopituitarism, hypophysitis                   | hypophysitis, thyroiditis                                                         |
 | Rare                                 | hypoparathyroidism                                                                                    |                                                                                     |                                                                                   |
+| Metabolism and nutrition disorders   | Metabolism and nutrition disorders                                                                    | Metabolism and nutrition disorders                                                  | Metabolism and nutrition disorders                                                |
+| Very common                          | decreased appetite, hyperglycaemia b , hypoglycaemia b                                                | decreased appetite, hyperglycaemia b , hypoglycaemia b                              | decreased appetite, hypoglycaemia b , hyperglycaemia b , weight decreased         |
+| Common                               | dehydration, hypoalbuminaemia, hypophosphataemia, weight decreased                                    | hypoalbuminaemia, hypophosphataemia,                                                | dehydration                                                                       |
+| Uncommon                             | metabolic acidosis                                                                                    |                                                                                     |                                                                                   |
+| Rare                                 |                                                                                                       | tumour lysis syndrome                                                               |                                                                                   |
+| Not known                            | tumour lysis syndrome h                                                                               |                                                                                     |                                                                                   |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                    | Combination with ipilimumab (with or without chemotherapy)                                                                                 | Combination with chemotherapy                            | Combination with cabozantinib                                             |
-|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------|
-| Metabolism and nutrition disorders | Metabolism and nutrition disorders                                                                                                         | Metabolism and nutrition disorders                       | Metabolism and nutrition disorders                                        |
-| Very common                        | decreased appetite, hyperglycaemia b , hypoglycaemia b                                                                                     | decreased appetite, hyperglycaemia b , hypoglycaemia b   | decreased appetite, hypoglycaemia b , hyperglycaemia b , weight decreased |
-| Common                             | dehydration, hypoalbuminaemia, hypophosphataemia, weight decreased                                                                         | hypoalbuminaemia, hypophosphataemia,                     | dehydration                                                               |
-| Uncommon                           | metabolic acidosis                                                                                                                         |                                                          |                                                                           |
-| Rare                               |                                                                                                                                            | tumour lysis syndrome                                    |                                                                           |
-| Not known                          | tumour lysis syndrome h                                                                                                                    |                                                          |                                                                           |
-| Nervous system disorders           | Nervous system disorders                                                                                                                   | Nervous system disorders                                 | Nervous system disorders                                                  |
-| Very common                        | headache                                                                                                                                   | peripheral neuropathy                                    | dysgeusia, dizziness, headache                                            |
-| Common                             | dizziness, peripheral neuropathy                                                                                                           | paraesthesia, dizziness, headache                        | peripheral neuropathy                                                     |
-| Uncommon                           | polyneuropathy, peroneal nerve palsy, autoimmune neuropathy (including facial and abducens nerve paresis), encephalitis, myasthenia gravis | Guillain-Barré syndrome                                  | encephalitis autoimmune, Guillain-Barré syndrome, myasthenic syndrome     |
-| Rare                               | Guillain-Barré syndrome, neuritis, myelitis (including transverse myelitis), optic neuritis                                                | encephalitis                                             |                                                                           |
-| Not known                          |                                                                                                                                            | myelitis (including transverse myelitis), optic neuritis |                                                                           |
-| Ear and labyrinth disorders        | Ear and labyrinth disorders                                                                                                                | Ear and labyrinth disorders                              | Ear and labyrinth disorders                                               |
-| Common                             |                                                                                                                                            |                                                          | tinnitus                                                                  |
-| Eye disorders                      | Eye disorders                                                                                                                              | Eye disorders                                            | Eye disorders                                                             |
-| Common                             | blurred vision, dry eye                                                                                                                    | dry eye, blurred vision                                  | dry eye, blurred vision                                                   |
-| Uncommon                           | uveitis, episcleritis                                                                                                                      | uveitis                                                  | uveitis                                                                   |
-| Rare                               | Vogt-Koyanagi-Harada syndrome                                                                                                              |                                                          |                                                                           |
-| Cardiac disorders                  | Cardiac disorders                                                                                                                          | Cardiac disorders                                        | Cardiac disorders                                                         |
-| Common                             | tachycardia, atrial fibrillation                                                                                                           | tachycardia, atrial fibrillation                         | atrial fibrillation, tachycardia                                          |
-| Uncommon                           | myocarditis a , arrhythmia (including ventricular arrhythmia) a , bradycardia                                                              | myocarditis                                              | myocarditis                                                               |
-| Not known                          | pericardial disorders i                                                                                                                    |                                                          |                                                                           |
-| Vascular disorders                 | Vascular disorders                                                                                                                         | Vascular disorders                                       | Vascular disorders                                                        |
-| Very common                        |                                                                                                                                            |                                                          | hypertension                                                              |
-| Common                             | hypertension                                                                                                                               | thrombosis a, k , hypertension, vasculitis               | thrombosis k                                                              |
+|                                                 | Combination with ipilimumab (with or without chemotherapy)                                                                                 | Combination with chemotherapy                            | Combination with cabozantinib                                         |
+|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------|
+| Nervous system disorders                        | Nervous system disorders                                                                                                                   | Nervous system disorders                                 | Nervous system disorders                                              |
+| Very common                                     | headache                                                                                                                                   | peripheral neuropathy                                    | dysgeusia, dizziness, headache                                        |
+| Common                                          | dizziness, peripheral neuropathy                                                                                                           | paraesthesia, dizziness, headache                        | peripheral neuropathy                                                 |
+| Uncommon                                        | polyneuropathy, peroneal nerve palsy, autoimmune neuropathy (including facial and abducens nerve paresis), encephalitis, myasthenia gravis | Guillain-Barré syndrome                                  | encephalitis autoimmune, Guillain-Barré syndrome, myasthenic syndrome |
+| Rare                                            | Guillain-Barré syndrome, neuritis, myelitis (including transverse myelitis), optic neuritis                                                | encephalitis                                             |                                                                       |
+| Not known                                       |                                                                                                                                            | myelitis (including transverse myelitis), optic neuritis |                                                                       |
+| Ear and labyrinth disorders                     | Ear and labyrinth disorders                                                                                                                | Ear and labyrinth disorders                              | Ear and labyrinth disorders                                           |
+| Common                                          |                                                                                                                                            |                                                          | tinnitus                                                              |
+| Eye disorders                                   | Eye disorders                                                                                                                              | Eye disorders                                            | Eye disorders                                                         |
+| Common                                          | blurred vision, dry eye                                                                                                                    | dry eye, blurred vision                                  | dry eye, blurred vision                                               |
+| Uncommon                                        | uveitis, episcleritis                                                                                                                      | uveitis                                                  | uveitis                                                               |
+| Rare                                            | Vogt-Koyanagi-Harada syndrome                                                                                                              |                                                          |                                                                       |
+| Cardiac disorders                               | Cardiac disorders                                                                                                                          | Cardiac disorders                                        | Cardiac disorders                                                     |
+| Common                                          | tachycardia, atrial fibrillation                                                                                                           | tachycardia, atrial fibrillation                         | atrial fibrillation, tachycardia                                      |
+| Uncommon                                        | myocarditis a , arrhythmia (including ventricular arrhythmia) a , bradycardia                                                              | myocarditis                                              | myocarditis                                                           |
+| Not known                                       | pericardial disorders i                                                                                                                    |                                                          |                                                                       |
+| Vascular disorders                              | Vascular disorders                                                                                                                         | Vascular disorders                                       | Vascular disorders                                                    |
+| Very common                                     |                                                                                                                                            |                                                          | hypertension                                                          |
+| Common                                          | hypertension                                                                                                                               | thrombosis a, k , hypertension, vasculitis               | thrombosis k                                                          |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                            | Respiratory, thoracic and mediastinal disorders          | Respiratory, thoracic and mediastinal disorders                       |
+| Very common                                     | cough, dyspnoea                                                                                                                            | cough                                                    | dysphonia, dyspnoea, cough                                            |
+| Common                                          | pneumonitis a , pulmonary embolism a , pleural effusion                                                                                    | pneumonitis a , dyspnoea                                 | pneumonitis, pulmonary embolism, pleural effusion, epistaxis          |
 
 <div style=\"page-break-after: always\"></div>
 
 |                                                 | Combination with ipilimumab (with or without chemotherapy)                         | Combination with chemotherapy                                                                     | Combination with cabozantinib                                                    |
 |-------------------------------------------------|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                    | Respiratory, thoracic and mediastinal disorders                                                   | Respiratory, thoracic and mediastinal disorders                                  |
-| Very common                                     | cough, dyspnoea                                                                    | cough                                                                                             | dysphonia, dyspnoea, cough                                                       |
-| Common                                          | pneumonitis a , pulmonary embolism a , pleural effusion                            | pneumonitis a , dyspnoea                                                                          | pneumonitis, pulmonary embolism, pleural effusion, epistaxis                     |
 | Gastrointestinal disorders                      | Gastrointestinal disorders                                                         | Gastrointestinal disorders                                                                        | Gastrointestinal disorders                                                       |
 | Very common                                     | diarrhoea, vomiting, nausea, abdominal pain, constipation                          | diarrhoea a , stomatitis, vomiting, nausea, abdominal pain, constipation                          | diarrhoea, vomiting, nausea, constipation, stomatitis, abdominal pain, dyspepsia |
 | Common                                          | colitis a , pancreatitis, stomatitis, gastritis, dry mouth                         | colitis, dry mouth                                                                                | colitis, gastritis, oral pain, dry mouth, haemorrhoids                           |
@@ -4665,16 +5054,16 @@ Table 12: Adverse reactions with nivolumab in combination with other therapeutic
 | Uncommon                                        | Stevens-Johnson syndrome, erythema multiforme, psoriasis, other lichen disorders d |                                                                                                   | psoriasis, urticaria                                                             |
 | Rare                                            | toxic epidermal necrolysis a,e, lichen sclerosus                                   |                                                                                                   |                                                                                  |
 | Not known                                       |                                                                                    |                                                                                                   | lichen sclerosus, other lichen disorders                                         |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                    | Musculoskeletal and connective tissue disorders                                                   | Musculoskeletal and connective tissue disorders                                  |
+| Very common                                     | musculoskeletal pain f , arthralgia                                                | musculoskeletal pain f                                                                            | musculoskeletal pain f , arthralgia, muscle spasm                                |
+| Common                                          | muscle spasms, muscular weakness, arthritis                                        | arthralgia, muscular weakness                                                                     | arthritis                                                                        |
+| Uncommon                                        | polymyalgia rheumatica, myopathy, myositis (including polymyositis) a              |                                                                                                   | myopathy, osteonecrosis of the jaw, fistula                                      |
+| Rare                                            | spondyloarthropathy, Sjogren's syndrome, rhabdomyolysis a                          |                                                                                                   |                                                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
 |                                                      | Combination with ipilimumab (with or without chemotherapy)                                                                                                                                                                                                                           | Combination with chemotherapy                                                                                                                                                                                                                                     | Combination with cabozantinib                                                                                                                                                                                                                                                                                                                      |
 |------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                                      | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                   | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                                                                                                    |
-| Very common                                          | musculoskeletal pain f , arthralgia                                                                                                                                                                                                                                                  | musculoskeletal pain f                                                                                                                                                                                                                                            | musculoskeletal pain f , arthralgia, muscle spasm                                                                                                                                                                                                                                                                                                  |
-| Common                                               | muscle spasms, muscular weakness, arthritis                                                                                                                                                                                                                                          | arthralgia, muscular weakness                                                                                                                                                                                                                                     | arthritis                                                                                                                                                                                                                                                                                                                                          |
-| Uncommon                                             | polymyalgia rheumatica, myopathy, myositis (including polymyositis) a                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                   | myopathy, osteonecrosis of the jaw, fistula                                                                                                                                                                                                                                                                                                        |
-| Rare                                                 | spondyloarthropathy, Sjogren's syndrome, rhabdomyolysis a                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                    |
 | Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                                                                                                                                                          | Renal and urinary disorders                                                                                                                                                                                                                                       | Renal and urinary disorders                                                                                                                                                                                                                                                                                                                        |
 | Very common                                          |                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                   | proteinuria                                                                                                                                                                                                                                                                                                                                        |
 | Common                                               | renal failure (including acute kidney injury) a                                                                                                                                                                                                                                      | renal failure a                                                                                                                                                                                                                                                   | renal failure, acute kidney injury                                                                                                                                                                                                                                                                                                                 |
@@ -4689,13 +5078,9 @@ Table 12: Adverse reactions with nivolumab in combination with other therapeutic
 
 Adverse reaction frequencies presented in Table 12 may not be fully attributable to nivolumab alone or in combination with other therapeutic agents, but may contain contributions from the underlying disease or from medicinal product used in combination.
 
-a Fatal cases have been reported in completed or ongoing clinical studies.
-
+- a Fatal cases have been reported in completed or ongoing clinical studies.
 - b Frequencies of laboratory terms reflect the proportion of patients who experienced a worsening from baseline in laboratory measurements. See 'Description of selected adverse reactions; laboratory abnormalities' below.
 - c Rash is a composite term which includes maculopapular rash, rash erythematous, rash pruritic, rash follicular, rash macular, rash morbilliform, rash papular, rash pustular, rash papulosquamous, rash vesicular, rash generalised, exfoliative rash, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis atopic, dermatitis bullous, dermatitis exfoliative, dermatitis psoriasiform, drug eruption, nodular rash, and pemphigoid.
-
-<div style=\"page-break-after: always\"></div>
-
 - d Lichen disorders is a composite term which includes lichen keratosis and lichen planus.
 - e Reported also in studies outside the pooled dataset. The frequency is based on the programme-wide exposure.
 - f Musculoskeletal pain is a composite term which includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, myalgia intercostal, neck pain, pain in extremity, and spinal pain.
@@ -4705,27 +5090,24 @@ a Fatal cases have been reported in completed or ongoing clinical studies.
 - j Anaemia is a composite term which includes, among other causes, haemolytic anaemia and autoimmune anaemia, haemoglobin decreased, iron deficiency anaemia and red blood cell count decreased.
 - k Thrombosis is a composite term which includes portal vein thrombosis, pulmonary vein thrombosis, pulmonary thrombosis, aortic thrombosis, arterial thrombosis, deep vein thrombosis, pelvic vein thrombosis, vena cava thrombosis, venous thrombosis, limb venous thrombosis.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Description of selected adverse reactions
 
 Nivolumab or nivolumab in combination with other therapeutic agents is associated with immune-related adverse reactions. With appropriate medical therapy, immune-related adverse reactions resolved in most cases. Permanent discontinuation of treatment generally was required in a greater proportion of patients receiving nivolumab in combination with other agents than in those receiving nivolumab monotherapy. Table 13 presents the percentage of patients with immune-related adverse reactions who were permanently discontinued from treatment by dosing regimen. Additionally, for patients who experienced an event, Table 13 presents the percentage of patients who required high-dose corticosteroids (at least 40 mg daily prednisone equivalents) by dosing regimen. The management guidelines for these adverse reactions are described in section 4.4.
 
 Table 13: Immune-related adverse reactions leading to permanent discontinuation or requiring high-dose corticosteroids by dosing regimen (nivolumab monotherapy, nivolumab in combination with ipilimumab (with or without chemotherapy), nivolumab in combination with chemotherapy, or nivolumab in combination with cabozantinib)
 
-|                                                                      | Nivolumab monotherapy %                                              | Nivolumab in combination with ipilimumab (with or without chemotherapy) %   | Nivolumab in combination with chemotherapy %                         | Nivolumab in combination with cabozantinib %                         |
-|----------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
-| Immune-related adverse reaction leading to permanent discontinuation | Immune-related adverse reaction leading to permanent discontinuation | Immune-related adverse reaction leading to permanent discontinuation        | Immune-related adverse reaction leading to permanent discontinuation | Immune-related adverse reaction leading to permanent discontinuation |
-| Pneumonitis                                                          | 1.4                                                                  | 2.1                                                                         | 2.0                                                                  | 2.5                                                                  |
-| Colitis                                                              | 1.2                                                                  | 6                                                                           | 1.8                                                                  | 2.5                                                                  |
-| Hepatitis                                                            | 1.1                                                                  | 5                                                                           | 0.7                                                                  | 4.1                                                                  |
-| Nephritis and renal dysfunction                                      | 0.3                                                                  | 1.1                                                                         | 3.1                                                                  | 0.6                                                                  |
-| Endocrinopathies                                                     | 0.5                                                                  | 2.2                                                                         | 0.6                                                                  | 1.3                                                                  |
-| Skin                                                                 | 0.8                                                                  | 1.0                                                                         | 0.9                                                                  | 2.2                                                                  |
-| Hypersensitivity/Infusion reaction                                   | 0.1                                                                  | 0.3                                                                         | 1.7                                                                  | 0                                                                    |
-
-<div style=\"page-break-after: always\"></div>
-
 |                                                                         | Nivolumab monotherapy %                                                 | Nivolumab in combination with ipilimumab (with or without chemotherapy) %   | Nivolumab in combination with chemotherapy %                            | Nivolumab in combination with cabozantinib %                            |
 |-------------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Immune-related adverse reaction leading to permanent discontinuation    | Immune-related adverse reaction leading to permanent discontinuation    | Immune-related adverse reaction leading to permanent discontinuation        | Immune-related adverse reaction leading to permanent discontinuation    | Immune-related adverse reaction leading to permanent discontinuation    |
+| Pneumonitis                                                             | 1.4                                                                     | 2.1                                                                         | 2.0                                                                     | 2.5                                                                     |
+| Colitis                                                                 | 1.2                                                                     | 6                                                                           | 1.8                                                                     | 2.5                                                                     |
+| Hepatitis                                                               | 1.1                                                                     | 5                                                                           | 0.7                                                                     | 4.1                                                                     |
+| Nephritis and renal dysfunction                                         | 0.3                                                                     | 1.1                                                                         | 3.1                                                                     | 0.6                                                                     |
+| Endocrinopathies                                                        | 0.5                                                                     | 2.2                                                                         | 0.6                                                                     | 1.3                                                                     |
+| Skin                                                                    | 0.8                                                                     | 1.0                                                                         | 0.9                                                                     | 2.2                                                                     |
+| Hypersensitivity/Infusion reaction                                      | 0.1                                                                     | 0.3                                                                         | 1.7                                                                     | 0                                                                       |
 | Immune-related adverse reaction requiring high-dose corticosteroids a,b | Immune-related adverse reaction requiring high-dose corticosteroids a,b | Immune-related adverse reaction requiring high-dose corticosteroids a,b     | Immune-related adverse reaction requiring high-dose corticosteroids a,b | Immune-related adverse reaction requiring high-dose corticosteroids a,b |
 | Pneumonitis                                                             | 65                                                                      | 59                                                                          | 59                                                                      | 56                                                                      |
 | Colitis                                                                 | 14                                                                      | 32                                                                          | 9                                                                       | 8                                                                       |
@@ -4741,6 +5123,8 @@ a at least 40 mg daily prednisone equivalents b frequency is based on the number
 
 In patients treated with nivolumab monotherapy, the incidence of pneumonitis, including interstitial lung disease and lung infiltration, was 3.3% (155/4646). The majority of cases were Grade 1 or 2 in severity reported in 0.9% (42/4646) and 1.7% (77/4646) of patients respectively. Grade 3 and 4 cases were reported in 0.7% (33/4646) and &lt; 0.1% (1/4646) of patients respectively. Six patients (0.1%) had a fatal outcome. Median time to onset was 15.1 weeks (range: 0.7-85.1). Resolution occurred in 107 patients (69.0%) with a median time to resolution of 6.7 weeks (range: 0.1 + -109.1 + ); + denotes a censored observation.
 
+<div style=\"page-break-after: always\"></div>
+
 In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the incidence of pneumonitis including interstitial lung disease, was 6.0% (157/2626). Grade 2, Grade 3, and Grade 4 cases were reported in 3.0% (78/2626), 1.0% (27/2626), and 0.3% (8/2626) of patients, respectively. Four patients (0.2%) had a fatal outcome. Median time to onset was 2.7 months (range: 0.1-56.8). Resolution occurred in 129 patients (82.2%) with a median time to resolution of 6.1 weeks (range: 0.1 + -149.3 + ).
 
 In patients treated with nivolumab in combination with chemotherapy, the incidence of pneumonitis including interstitial lung disease was 4.4% (80/1800). Grade 2, Grade 3, and Grade 4 cases were reported in 2.2% (40/1800), 0.9% (17/1800), and 0.2% (3/1800), of patients, respectively. Three patients (0.2%) had a fatal outcome. Median time to onset was 24.6 weeks (range: 0.6-96.9). Resolution occurred in 58 patients (72.5%) with a median time to resolution of 10.4 weeks (range: 0.3 + -171.4 + ).
@@ -4750,8 +5134,6 @@ In patients treated with nivolumab in combination with cabozantinib, the inciden
 ## Immune-related colitis
 
 In patients treated with nivolumab monotherapy, the incidence of diarrhoea, colitis, or frequent bowel movements was 15.4% (716/4646). The majority of cases were Grade 1 or 2 in severity reported in 9.9% (462/4646) and 4.0% (186/4646) of patients respectively. Grade 3 and 4 cases were reported in 1.4% (67/4646) and &lt; 0.1% (1/4646) of patients respectively. Median time to onset was 8.3 weeks (range: 0.1-115.6). Resolution occurred in 639 patients (90.3%) with a median time to resolution of 2.9 weeks (range: 0.1-124.4 + ).
-
-<div style=\"page-break-after: always\"></div>
 
 In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the incidence of diarrhoea or colitis was 26.0% (682/2626). Grade 2, Grade 3, and Grade 4 cases were reported in 8.1% (212/2626), 6.4% (167/2626), and 0.2% (4/2626), of patients, respectively. Two patients (&lt; 0.1%) had a fatal outcome. Median time to onset was 1.4 months (range: 0.0-48.9). Resolution occurred in 618 patients (91%) with a median time to resolution of 2.9 weeks (range: 0.1-170.0 + ). Among patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg for melanoma, the incidence of diarrhoea or colitis was 46.7%, including Grade 2 (13.6%), Grade 3 (15.8%), and Grade 4 (0.4%).
 
@@ -4763,6 +5145,8 @@ In patients treated with nivolumab in combination with cabozantinib, the inciden
 
 In patients treated with nivolumab monotherapy, the incidence of liver function test abnormalities was 8.0% (371/4646). The majority of cases were Grade 1 or 2 in severity reported in 4.3% (200/4646) and 1.8% (82/4646) of patients respectively. Grade 3 and 4 cases were reported in 1.6% (74/4646) and 0.3% (15/4646) of patients, respectively. Median time to onset was 10.6 weeks (range: 0.1-132.0). Resolution occurred in 298 patients (81.4%) with a median time to resolution of 6.1 weeks (range: 0.1-126.4 + ).
 
+<div style=\"page-break-after: always\"></div>
+
 In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the incidence of liver function test abnormalities was 21.2% (556/2626). Grade 2, Grade 3, and Grade 4 cases were reported in 5.0% (132/2626), 8.3% (218/2626), and 1.3% (34/2626) of patients, respectively. Seven patients (0.3%) had a fatal outcome. Median time to onset was 1.5 months (range: 0.0-36.6). Resolution occurred in 482 patients (87.0%) with a median time to resolution of 5.9 weeks (range: 0.1-175.9 + ). Among patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg for melanoma, the incidence of liver function test abnormalities was 30.1% including Grade 2 (6.9%), Grade 3 (15.8%), and Grade 4 (1.8%). Among patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg for HCC, the incidence of liver function test abnormalities was 34.3% including Grade 2 (8.4%), Grade 3 (14.2%), and Grade 4 (2.7%).
 
 In patients treated with nivolumab in combination with chemotherapy, the incidence of liver function test abnormalities was 18% (322/1800). Grade 2, Grade 3 and Grade 4 cases were reported in 5.1% (92/1800), 2.6% (47/1800) and &lt; 0.1% (1/1800) of patients, respectively. Median time to onset was 7.0 weeks (range: 0.1-99.0). Resolution occurred in 258 patients (81.1%) with a median time to resolution of 7.4 weeks (range: 0.4-240.0 + ).
@@ -4771,11 +5155,7 @@ In patients treated with nivolumab in combination with cabozantinib, the inciden
 
 ## Immune-related nephritis and renal dysfunction
 
-In patients treated with nivolumab monotherapy, the incidence of nephritis or renal dysfunction was 2.6% (121/4646). The majority of cases were Grade 1 or 2 in severity reported in 1.5% (69/4646) and 0.7% (32/4646) of patients respectively. Grade 3 and 4 cases were reported in 0.4% (18/4646) and &lt; 0.1% (2/4646) of patients, respectively. Median time to onset was 12.1 weeks (range: 0.1-79.1).
-
-<div style=\"page-break-after: always\"></div>
-
-Resolution occurred in 80 patients (69.0%) with a median time to resolution of 8.0 weeks (range: 0.3-79.1 + ).
+In patients treated with nivolumab monotherapy, the incidence of nephritis or renal dysfunction was 2.6% (121/4646). The majority of cases were Grade 1 or 2 in severity reported in 1.5% (69/4646) and 0.7% (32/4646) of patients respectively. Grade 3 and 4 cases were reported in 0.4% (18/4646) and &lt; 0.1% (2/4646) of patients, respectively. Median time to onset was 12.1 weeks (range: 0.1-79.1). Resolution occurred in 80 patients (69.0%) with a median time to resolution of 8.0 weeks (range: 0.3-79.1 + ).
 
 In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the incidence of nephritis or renal dysfunction was 5.4% (141/2626). Grade 2, Grade 3, and Grade 4 cases were reported in 2.0% (52/2626), 0.8% (21/2626), and 0.4% (11/2626) of patients, respectively. Two patients (&lt; 0.1%) had a fatal outcome. Median time to onset was 2.6 months (range: 0.0-34.8). Resolution occurred in 110 patients (78.0%) with a median time to resolution of 5.9 weeks (range: 0.1-172.1 + ).
 
@@ -4785,17 +5165,17 @@ In patients treated with nivolumab in combination with cabozantinib, the inciden
 
 ## Immune-related endocrinopathies
 
-In patients treated with nivolumab monotherapy, the incidence of thyroid disorders, including hypothyroidism or hyperthyroidism, was 13.0% (603/4646). The majority of cases were Grade 1 or 2 in severity reported in 6.6% (305/4646) and 6.2% (290/4646) of patients, respectively. Grade 3 thyroid disorders were reported in 0.2% (8/4646) of patients. Hypophysitis (3 Grade 1, 7 Grade 2, 9 Grade 3, and 1 Grade 4), hypopituitarism (6 Grade 2 and 1 Grade 3), adrenal insufficiency (including secondary adrenocortical insufficiency, adrenocortical insufficiency acute and blood corticotrophin decreased) (2 Grade 1, 23 Grade 2, and 11 Grade 3), diabetes mellitus (including Type 1 diabetes mellitus, and diabetic ketoacidosis) (1 Grade 1, 3 Grade 2 and 8 Grade 3 and 2 Grade 4), were reported. Median time to onset of these endocrinopathies was 11.1 weeks (range: 0.1-126.7). Resolution occurred in 323 patients (48.7%). Median time to resolution was 48.6 weeks (range: 0.4-204.4 + ).
+In patients treated with nivolumab monotherapy, the incidence of thyroid disorders, including hypothyroidism or hyperthyroidism, was 13.0% (603/4646). The majority of cases were Grade 1 or 2 in severity reported in 6.6% (305/4646) and 6.2% (290/4646) of patients, respectively. Grade 3 thyroid disorders were reported in 0.2% (8/4646) of patients. Hypophysitis (3 Grade 1, 7 Grade 2, 9 Grade 3,
+
+<div style=\"page-break-after: always\"></div>
+
+and 1 Grade 4), hypopituitarism (6 Grade 2 and 1 Grade 3), adrenal insufficiency (including secondary adrenocortical insufficiency, adrenocortical insufficiency acute and blood corticotrophin decreased) (2 Grade 1, 23 Grade 2, and 11 Grade 3), diabetes mellitus (including Type 1 diabetes mellitus, and diabetic ketoacidosis) (1 Grade 1, 3 Grade 2 and 8 Grade 3 and 2 Grade 4), were reported. Median time to onset of these endocrinopathies was 11.1 weeks (range: 0.1-126.7). Resolution occurred in 323 patients (48.7%). Median time to resolution was 48.6 weeks (range: 0.4-204.4 + ).
 
 In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the incidence of thyroid disorders was 23.2% (608/2626). Grade 2 and Grade 3 thyroid disorders were reported in 12.7% (333/2626) and 1.0% (27/2626) of patients, respectively.
 
 Grade 2 and Grade 3 hypophysitis (including lymphocytic hypophysitis) occurred in 1.9% (49/2626) and 1.5% (40/2626) of patients, respectively. Grade 2 and Grade 3 hypopituitarism occurred in 0.6% (16/2626) and 0.5% (13/2626) of patients, respectively. Grade 2, Grade 3, and Grade 4 adrenal insufficiency (including secondary adrenocortical insufficiency, adrenocortical insufficiency acute, blood corticotrophin decreased and immune-mediated adrenal insufficiency) occurred in 2.7% (72/2626), 1.6% (43/2626) and 0.2% (4/2626) of patients, respectively. Grade 1, Grade 2, Grade 3, and Grade 4 diabetes mellitus (including Type 1 diabetes mellitus, and diabetic ketoacidosis) occurred in &lt; 0.1% (1/2626), 0.3% (8/2626), 0.3% (7/2626), and 0.2% (6/2626) of patients, respectively. Median time to onset of these endocrinopathies was 2.1 months (range: 0.0-28.1). Resolution occurred in 297 patients (40.0%). Time to resolution ranged from 0.3 to 257.1 + weeks.
 
-In patients treated with nivolumab in combination with chemotherapy, the incidence of thyroid disorders was 12.8% (230/1800). Grade 2 and Grade 3 thyroid disorders were reported in 6.3% (114/1800) and 0.1% (2/1800) of patients, respectively. Grade 3 hypophysitis occurred in 0.1% (2/1800) of patients. Grade 2 and Grade 3 hypopituitarism occurred in 0.2% (4/1800) of patients, each. Grade 2, Grade 3, and Grade 4 adrenal insufficiency occurred in 0.6% (11/1800), 0.2% (3/1800), and &lt; 0.1% (1/1800) of patients, respectively. One patient (&lt; 0.1%) had a fatal outcome due to adrenal insufficiency. Diabetes mellitus including Type 1 diabetes mellitus and fulminant Type 1 diabetes mellitus, (4 Grade 2, 2 Grade 3, and 1 Grade 4), and diabetic ketoacidosis (1 Grade 2 and 1 Grade 4)
-
-<div style=\"page-break-after: always\"></div>
-
-were reported. Median time to onset of these endocrinopathies was 15.3 weeks (range: 1.1-124.3). Resolution occurred in 101 patients (40.1%). Time to resolution ranged from 0.3 + to 233.6 + weeks.
+In patients treated with nivolumab in combination with chemotherapy, the incidence of thyroid disorders was 12.8% (230/1800). Grade 2 and Grade 3 thyroid disorders were reported in 6.3% (114/1800) and 0.1% (2/1800) of patients, respectively. Grade 3 hypophysitis occurred in 0.1% (2/1800) of patients. Grade 2 and Grade 3 hypopituitarism occurred in 0.2% (4/1800) of patients, each. Grade 2, Grade 3, and Grade 4 adrenal insufficiency occurred in 0.6% (11/1800), 0.2% (3/1800), and &lt; 0.1% (1/1800) of patients, respectively. One patient (&lt; 0.1%) had a fatal outcome due to adrenal insufficiency. Diabetes mellitus including Type 1 diabetes mellitus, and fulminant Type 1 diabetes mellitus, (4 Grade 2, 2 Grade 3, and 1 Grade 4), and diabetic ketoacidosis (1 Grade 2 and 1 Grade 4) were reported. Median time to onset of these endocrinopathies was 15.3 weeks (range: 1.1-124.3). Resolution occurred in 101 patients (40.1%). Time to resolution ranged from 0.3 + to 233.6 + weeks.
 
 In patients treated with nivolumab in combination with cabozantinib, the incidence of thyroid disorders was 43.1% (138/320). Grade 2 and Grade 3 thyroid disorders were reported in 23.1% (74/320) and 0.9% (3/320) of patients, respectively. Hypophysitis occurred in 0.6% (2/320) of patients, all Grade 2. Adrenal insufficiency (including secondary adrenocortical insufficiency) occurred in 4.7% (15/320) of patients. Grade 2 and Grade 3 adrenal insufficiency cases were reported in 2.2% (7/320) and 1.9% (6/320) of patients, respectively. Median time to onset of these endocrinopathies was 12.3 weeks (range: 2.0-89.7 weeks). Resolution occurred in 50 patients (35.2%). Time to resolution ranged from 0.9 to 132.0 + weeks.
 
@@ -4804,6 +5184,8 @@ In patients treated with nivolumab in combination with cabozantinib, the inciden
 In patients treated with nivolumab monotherapy, the incidence of rash was 30.0% (1396/4646). The majority of cases were Grade 1 in severity reported in 22.8% (1060/4646) of patients. Grade 2 and Grade 3 cases were reported in 5.9% (274/4646) and 1.3% (62/4646) of patients respectively. Median time to onset was 6.7 weeks (range: 0.1-121.1). Resolution occurred in 896 patients (64.6%) with a median time to resolution of 20.1 weeks (0.1-192.7 + ).
 
 In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the incidence of rash was 46.1% (1210/2626). Grade 2, Grade 3, and Grade 4 cases were reported in 14.3% (375/2626), 4.6% (120/2626), and 0.1% (3/2626) of Gpatients, respectively. Median time to onset was 0.7 months (range: 0.0-33.8). Resolution occurred in 843 patients (70%) with a median time to resolution of 12.1 weeks (range: 0.1-268.7 + ). Among patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg for melanoma, the incidence of rash was 65.2%, including Grade 2 (20.3%) and Grade 3 (7.8%).
+
+<div style=\"page-break-after: always\"></div>
 
 In patients treated with nivolumab in combination with chemotherapy, the incidence of rash was 25.4% (457/1800). Grade 2 and Grade 3 cases were reported in 6.2% (111/1800) and 2.3% (42/1800) of patients, respectively. Median time to onset was 6.4 weeks (range: 0.1-97.4). Resolution occurred in 320 patients (70.2%) with a median time to resolution of 12.1 weeks (range: 0.1-258.7 + ).
 
@@ -4819,8 +5201,6 @@ In patients treated with nivolumab in combination with ipilimumab (with or witho
 
 In patients treated with nivolumab in combination with chemotherapy, the incidence of hypersensitivity/infusion reactions was 8.2% (148/1800). Grade 2, Grade 3, and Grade 4 cases were reported in 4.6% (83/1800), 1.1% (20/1800), and 0.2% (3/1800) of patients, respectively.
 
-<div style=\"page-break-after: always\"></div>
-
 In patients treated with nivolumab in combination with cabozantinib, the incidence of hypersensitivity/infusion reactions was 2.5% (8/320). All 8 patients were Grade 1 or 2 in severity. Grade 2 cases were reported in 0.3% (1/320) of patients.
 
 ## Elevated liver enzymes when nivolumab is combined with cabozantinib in RCC
@@ -4831,17 +5211,15 @@ In a clinical study of previously untreated patients with RCC receiving nivoluma
 
 In patients treated with nivolumab monotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 3.4% for anaemia (all Grade 3), 0.7% for thrombocytopaenia, 0.7% for leucopoenia, 8.7% for lymphopaenia, 0.9% for neutropaenia, 1.7% for increased alkaline phosphatase, 2.6% for increased AST, 2.3% for increased ALT, 0.8% for increased total bilirubin, 0.7% for increased creatinine, 2.0% for hyperglycaemia, 0.7% for hypoglycaemia, 3.8% for increased amylase, 6.9% for increased lipase, 4.7% for hyponatraemia, 1.6% for hyperkalaemia, 1.3% for hypokalaemia, 1.1% for hypercalcaemia, 0.6% for hypermagnesaemia, 0.4% for hypomagnesaemia, 0.6% for hypocalcaemia, 0.6% for hypoalbuminaemia, and &lt; 0.1% for hypernatraemia.
 
+<div style=\"page-break-after: always\"></div>
+
 In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the proportion of patients who experienced a worsening from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 4.8% for anaemia, 1.8% for thrombocytopaenia, 2.2% for leucopoenia, 6.9% for lymphopaenia, 3.3% for neutropaenia, 2.7% for increased alkaline phosphatase, 9.8% for increased AST, 9.3% for increased ALT, 2.3% for increased total bilirubin, 1.8% for increased creatinine, 1.4% for hypoalbuminaemia, 7.1% for hyperglycaemia, 0.7% for hypoglycaemia, 7.8% for increased amylase, 16.3% for increased lipase, 0.8% for hypocalcaemia, 0.2% for hypernatraemia, 0.8% for hypercalcaemia, 2.0% for hyperkalaemia, 0.8% for hypermagnesaemia, 0.4% for hypomagnesaemia, 3.0% for hypokalaemia, and 8.7% for hyponatraemia.
 
 Among patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg for melanoma, a higher proportion of patients experienced a worsening from baseline to Grade 3 or 4 increased ALT (15.3%).
 
 In patients treated with nivolumab in combination with chemotherapy, the proportion of patients who experienced a worsening from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 14.7% for anaemia, 6.2% for thrombocytopaenia, 11.7% leukopaenia, 13.6% for lymphopaenia, 26.3% neutropaenia, 2.0% for increased alkaline phosphatase, 3.3% for increased AST, 2.6% for increased ALT, 1.9% for increased bilirubin, 1.3% for increased creatinine, 4.5% for increased amylase, 5.2% for increased lipase, 0.4% for hypernatraemia, 8.1% for hyponatraemia, 1.8% for hyperkalaemia, 5.1% for hypokalaemia, 0.7% for hypercalcaemia, 1.8% for hypocalcaemia, 1.5% for hypermagnesaemia, 2.9% for hypomagnesaemia, 3.7% for hyperglycaemia, and 0.6% for hypoglycaemia.
 
-In patients treated with nivolumab in combination with cabozantinib, the proportion of patients who experienced a worsening from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 3.5% for anaemia (all Grade 3), 0.3% for thrombocytopaenia, 0.3% for leucopoenia, 7.5% for lymphopaenia, 3.5% for neutropaenia, 3.2% for increased alkaline phosphatase, 8.2% for increased AST, 10.1% for increased ALT, 1.3% for increased total bilirubin, 1.3% for increased creatinine, 11.9% for increased amylase, 15.6% for increased lipase, 3.5% for hyperglycaemia, 0.8% for
-
-<div style=\"page-break-after: always\"></div>
-
-hypoglycaemia, 2.2% for hypocalcaemia, 0.3% for hypercalcaemia, 5.4% for hyperkalaemia, 4.2% for hypermagnesaemia, 1.9% for hypomagnesaemia 3.2% for hypokalaemia, 12.3% for hyponatraemia, and 21.2% for hypophosphataemia.
+In patients treated with nivolumab in combination with cabozantinib, the proportion of patients who experienced a worsening from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 3.5% for anaemia (all Grade 3), 0.3% for thrombocytopaenia, 0.3% for leucopoenia, 7.5% for lymphopaenia, 3.5% for neutropaenia, 3.2% for increased alkaline phosphatase, 8.2% for increased AST, 10.1% for increased ALT, 1.3% for increased total bilirubin, 1.3% for increased creatinine, 11.9% for increased amylase, 15.6% for increased lipase, 3.5% for hyperglycaemia, 0.8% for hypoglycaemia, 2.2% for hypocalcaemia, 0.3% for hypercalcaemia, 5.4% for hyperkalaemia, 4.2% for hypermagnesaemia, 1.9% for hypomagnesaemia 3.2% for hypokalaemia, 12.3% for hyponatraemia, and 21.2% for hypophosphataemia.
 
 ## Immunogenicity
 
@@ -4855,6 +5233,8 @@ Of the 3529 patients who were treated with nivolumab monotherapy 3 mg/kg or 240 
 
 Co-administration with chemotherapy did not affect nivolumab immunogenicity. Of the 1407 patients who were treated with nivolumab 240 mg every 2 weeks or 360 mg every 3 weeks in combination with chemotherapy and evaluable for the presence of anti-product-antibodies, 7.2% tested positive for treatment emergent anti-product-antibodies with 0.5% tested positive for neutralising antibodies.
 
+<div style=\"page-break-after: always\"></div>
+
 Of the patients who were treated with nivolumab in combination with ipilimumab and evaluable for the presence of anti-nivolumab antibodies, the incidence of anti-nivolumab antibodies was 26.0% with nivolumab 3 mg/kg and ipilimumab 1 mg/kg every 3 weeks, 24.9% with nivolumab 3 mg/kg every 2 weeks and ipilimumab 1 mg/kg every 6 weeks, and 37.8% with nivolumab 1 mg/kg and ipilimumab 3 mg/kg every 3 weeks. The incidence of neutralising antibodies against nivolumab was 0.8% with nivolumab 3 mg/kg and ipilimumab 1 mg/kg every 3 weeks, 1.5% with nivolumab 3 mg/kg every 2 weeks and ipilimumab 1 mg/kg every 6 weeks, and 4.6% with nivolumab 1 mg/kg and ipilimumab 3 mg/kg every 3 weeks. Of patients evaluable for the presence of anti-ipilimumab antibodies, the incidence of anti-ipilimumab antibodies ranged from 6.3 to 13.7% and neutralising antibodies against ipilimumab ranged from 0 to 0.4%.
 
 Of the patients who were treated with nivolumab in combination with ipilimumab and chemotherapy and evaluable for the presence of anti-nivolumab antibodies or neutralising antibodies against nivolumab, the incidence of anti-nivolumab antibodies was 33.8% and the incidence of neutralising antibodies was 2.6%. Of the patients who were treated with nivolumab in combination with ipilimumab and chemotherapy and evaluable for the presence of anti-ipilimumab antibodies or neutralising antibodies against ipilimumab, the incidence of anti-ipilimumab antibodies was 7.5%, and the neutralising antibodies was 1.6%.
@@ -4863,11 +5243,7 @@ Although the clearance of nivolumab was increased by 20% when anti-nivolumab-ant
 
 ## Elderly
 
-No overall differences in safety were reported between elderly (≥ 65 years) and younger patients (&lt; 65 years). Data from SCCHN, adjuvant melanoma, and adjuvant OC or GEJC patients 75 years of age or older are too limited to draw conclusions on this population (see section 5.1). Data from dMMR or MSI-H CRC patients 75 years of age or older are limited (see section 5.1). In HCC patients there
-
-<div style=\"page-break-after: always\"></div>
-
-were higher rates of serious adverse reactions and discontinuation due to adverse reactions in patients aged 75 years or older (67% and 35%, respectively) relative to all patients who received nivolumab with ipilimumab (53% and 27%, respectively).
+No overall differences in safety were reported between elderly (≥ 65 years) and younger patients (&lt; 65 years). Data from SCCHN, adjuvant melanoma, and adjuvant OC or GEJC patients 75 years of age or older are too limited to draw conclusions on this population (see section 5.1). Data from dMMR or MSI-H CRC patients 75 years of age or older are limited (see section 5.1). In HCC patients there were higher rates of serious adverse reactions and discontinuation due to adverse reactions in patients aged 75 years or older (67% and 35%, respectively) relative to all patients who received nivolumab with ipilimumab (53% and 27%, respectively).
 
 For patients treated with nivolumab in combination with cabozantinib, data from RCC patients 75 years of age or older are too limited to draw conclusions on this population (see section 5.1).
 
@@ -4883,6 +5259,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 No cases of overdose have been reported in clinical trials. In case of overdose, patients should be closely monitored for signs or symptoms of adverse reactions, and appropriate symptomatic treatment instituted immediately.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -4896,8 +5274,6 @@ OPDIVO solution for injection contains the active substance nivolumab, which pro
 Nivolumab is a human immunoglobulin G4 (IgG4) monoclonal antibody (HuMAb), which binds to the programmed death-1 (PD-1) receptor and blocks its interaction with PD-L1 and PD-L2. The PD-1 receptor is a negative regulator of T-cell activity that has been shown to be involved in the control of T-cell immune responses. Engagement of PD-1 with the ligands PD-L1 and PD-L2, which are expressed in antigen presenting cells and may be expressed by tumours or other cells in the tumour microenvironment, results in inhibition of T-cell proliferation and cytokine secretion. Nivolumab potentiates T-cell responses, including anti-tumour responses, through blockade of PD-1 binding to PD-L1 and PD-L2 ligands. In syngeneic mouse models, blocking PD-1 activity resulted in decreased tumour growth.
 
 Combined nivolumab (anti-PD-1) and ipilimumab (anti-CTLA-4) mediated inhibition results in improved anti-tumour responses in metastatic melanoma. In murine syngeneic tumour models, dual blockade of PD-1 and CTLA-4 resulted in synergistic anti-tumour activity.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Clinical efficacy and safety
 
@@ -4915,15 +5291,17 @@ The subcutaneous nivolumab clinical safety profile was comparable to intravenous
 
 ## Randomised phase 3 study of nivolumab vs. placebo (CA20976K)
 
-The safety and efficacy of nivolumab 480 mg monotherapy for the treatment of patients with completely resected melanoma were evaluated in a phase 3, randomised, double-blind study (CA20976K). The study included patients with an ECOG performance status score of 0 or 1 who had Stage IIB or IIC American Joint Committee on Cancer (AJCC), 8 th edition, histologically confirmed melanoma that had been completely surgically resected. Enrolment required complete resection of the primary melanoma with negative margins and a negative sentinel lymph node biopsy within 12 weeks prior to randomisation. Patients were enrolled regardless of their tumour PD-L1 status. The study excluded patients with ocular/uveal or mucosal melanoma, active autoimmune disease, any condition requiring systemic treatment with either corticosteroids (≥ 10 mg daily prednisone or equivalent) or other immunosuppressive medications, as well as patients with prior therapy for melanoma except surgery.
+The safety and efficacy of nivolumab 480 mg monotherapy for the treatment of patients with completely resected melanoma were evaluated in a phase 3, randomised, double-blind study (CA20976K). The study included patients with an ECOG performance status score of 0 or 1 who had Stage IIB or IIC American Joint Committee on Cancer (AJCC), 8 th edition, histologically confirmed melanoma that had been completely surgically resected. Enrolment required complete resection of the primary melanoma with negative margins and a negative sentinel lymph node biopsy within 12 weeks prior to randomisation. Patients were enrolled regardless of their tumour PD-L1 status. The study excluded patients with ocular/uveal or mucosal melanoma, active autoimmune disease, any condition requiring systemic treatment with either corticosteroids (≥ 10 mg daily prednisone or equivalent) or
+
+<div style=\"page-break-after: always\"></div>
+
+other immunosuppressive medications, as well as patients with prior therapy for melanoma except surgery.
 
 A total of 790 patients were randomised (2:1) to receive either nivolumab (n = 526) administered intravenously over 30 minutes at 480 mg every 4 weeks or placebo (n = 264) for up to 1 year or until disease recurrence or unacceptable toxicity. Randomisation was stratified by AJCC 8 th edition T-category (T3b vs. T4a vs. T4b). Tumour assessments were conducted every 26 weeks during years 1-3 and every 52 weeks from 3 years to 5 years. The primary efficacy outcome measure was recurrence-free survival (RFS). RFS, assessed by the investigator, was defined as the time between the date of randomisation and the date of first recurrence (local, regional, or distant metastasis), new primary melanoma, or death from any cause, whichever occurred first. The secondary outcome measures included OS and distant metastasis-free survival (DMFS).
 
 Baseline characteristics were generally balanced between the two groups. The median age was 62 years (range: 19-92), 61% were men, and 98% were white. Baseline ECOG performance status score was 0 (94%) or 1 (6%). Sixty percent had stage IIB and 40% had stage IIC.
 
 At a primary pre-specified interim analysis (minimum follow-up 7.8 months) a statistically significant improvement in RFS was demonstrated with nivolumab compared to placebo with a HR of 0.42 (95% CI: 0.30, 0.59; p &lt; 0.0001). At an updated descriptive RFS analysis (minimum follow-up of 15.6 months), nivolumab continued to demonstrate an RFS improvement with a HR of 0.53 (95% CI: 0.40, 0.71). OS was not mature. At an additional RFS descriptive analysis (minimum followup 26.9 months), nivolumab continued to demonstrate an RFS improvement with a HR of 0.62 (95% CI: 0.47-0.80). The median follow-up was 34.25 months for the nivolumab arm and 33.92 months for the placebo arm. The outcomes were consistent with the formal interim analysis. Results reported from the analyses with minimum follow-up of 15.6 months are summarised in Table 14 and Figure 1.
-
-<div style=\"page-break-after: always\"></div>
 
 Table 14: Efficacy results (CA20976K)
 
@@ -4932,31 +5310,35 @@ Table 14: Efficacy results (CA20976K)
 | Recurrence-free survival with minimum follow-up 15.6 months | Recurrence-free survival with minimum follow-up 15.6 months | Recurrence-free survival with minimum follow-up 15.6 months |
 | Recurrence-free survival                                    |                                                             |                                                             |
 | Events                                                      | 102 (19.4%)                                                 | 84 (31.8%)                                                  |
-| Hazard ratio a                                              | 0.53                                                        |                                                             |
-| 95% CI                                                      | (0.40, 0.71)                                                |                                                             |
+| Hazard ratio a                                              | 0.53                                                        | 0.53                                                        |
+| 95% CI                                                      | (0.40, 0.71)                                                | (0.40, 0.71)                                                |
 | Median (95% CI) months                                      | NR                                                          | 36.14 (24.77, NR)                                           |
 | Rate (95% CI) at 12 months b                                | 88.8 (85.6, 91.2)                                           | 81.1 (75.7, 85.4)                                           |
 | Rate (95% CI) at 18 months b                                | 83.9 (80.3, 86.9)                                           | 70.7 (64.5, 76.1)                                           |
 
+a Based on stratified Cox proportional hazard model.
+
+b Based on Kaplan-Meier estimates.
+
 RFS benefit was consistent across key subgroups, including disease stage, T-category, and age.
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 1: Recurrence-free survival (CA20976K)
 
 <!-- image -->
 
-Nivolumab vs. Placebo - HR (95% CI): 0.53 (0.40, 0.71)
-
 Based on data cut-off: 21-February-2023, minimum follow-up of 15.6 months
 
-Tumour PD-L1 expression data were available for 302/790 (38.2%) randomised patients (36.3% and 42.0% in the nivolumab and placebo arms, respectively), as PD-L1 expression was not a stratification factor for randomisation. The exploratory RFS analyses by PD-L1 expression showed a HR for nivolumab vs placebo of 0.43 (95% CI: 0.22, 0.84) in patients (N = 167) with PDL1 expression ≥ 1%, 0.82 (95% CI: 0.44, 1.54) in patients (N = 135) with PD-L1 expression &lt; 1%, and 0.50 (95% CI: 0.34, 0.73) in patients (N = 488) with indeterminate/not reported/not evaluable PD-L1 expression.
-
-<div style=\"page-break-after: always\"></div>
+Tumour PD-L1 expression data were available for 302/790 (38.2%) randomised patients (36.3% and 42.0% in the nivolumab and placebo arms, respectively), as PD-L1 expression was not a stratification factor for randomisation. The exploratory RFS analyses by PD-L1 expression showed a HR for nivolumab vs placebo of 0.43 (95% CI: 0.22, 0.84) in patients (N = 167) with PD-L1 expression ≥ 1%, 0.82 (95% CI: 0.44, 1.54) in patients (N = 135) with PD-L1 expression &lt; 1%, and 0.50 (95% CI: 0.34, 0.73) in patients (N = 488) with indeterminate/not reported/not evaluable PD-L1 expression.
 
 ## Intravenous formulation
 
 ## Randomised phase 3 study of nivolumab vs ipilimumab 10 mg/kg (CA209238)
 
 The safety and efficacy of nivolumab 3 mg/kg as a single agent for the treatment of patients with completely resected melanoma were evaluated in a phase 3, randomised, double-blind study (CA209238). The study included adult patients, who had an ECOG performance status score of 0 or 1, with Stage IIIB/C or Stage IV American Joint Committee on Cancer (AJCC), 7 th edition, histologically confirmed melanoma that is completely surgically resected. Per the AJCC 8 th edition, this corresponds to patients with lymph node involvement or metastases. Patients were enrolled regardless of their tumour PD-L1 status. Patients with prior autoimmune disease, and any condition requiring systemic treatment with either corticosteroids (≥ 10 mg daily prednisone or equivalent) or other immunosuppressive medications, as well as patients with prior therapy for melanoma (except patients with surgery, adjuvant radiotherapy after neurosurgical resection for lesions of the central nervous system, and prior adjuvant interferon completed ≥ 6 months prior to randomisation) prior therapy with, anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CD137, or anti CTLA-4 antibody (including ipilimumab or any other antibody or drug specifically targeting T cell co-stimulation or checkpoint pathways), were excluded from the study.
+
+<div style=\"page-break-after: always\"></div>
 
 A total of 906 patients were randomised to receive either nivolumab 3 mg/kg (n = 453) administered every 2 weeks or ipilimumab 10 mg/kg (n = 453) administered every 3 weeks for 4 doses then every 12 weeks beginning at week 24 for up to 1 year. Randomisation was stratified by tumour PD-L1 expression (≥ 5% vs. &lt; 5%/indeterminate), and stage of disease per the AJCC staging system. Tumour assessments were conducted every 12 weeks for the first 2 years then every 6 months thereafter. The primary endpoint was recurrence-free survival (RFS). RFS, assessed by investigator, was defined as the time between the date of randomisation and the date of first recurrence (local, regional, or distant metastasis), new primary melanoma, or death due to any cause, whichever occurred first.
 
@@ -4966,36 +5348,35 @@ At a primary pre-specified interim analysis (minimum follow-up 18 months) a stat
 
 Table 15: Efficacy results (CA209238)
 
-| nivolumab (n = 453)                                                                    |                                                                                        | ipilimumab 10 mg/kg (n = 453)                                                          |
+|                                                                                        | nivolumab (n = 453)                                                                    | ipilimumab 10 mg/kg (n = 453)                                                          |
 |----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | Final pre-specified analysis Recurrence-free survival with minimum follow-up 36 months | Final pre-specified analysis Recurrence-free survival with minimum follow-up 36 months | Final pre-specified analysis Recurrence-free survival with minimum follow-up 36 months |
 | Events                                                                                 | 188 (41.5%)                                                                            | 239 (52.8%)                                                                            |
-| Hazard ratio a                                                                         |                                                                                        | 0.68                                                                                   |
-| 95% CI                                                                                 |                                                                                        | (0.56, 0.82)                                                                           |
-| p-value                                                                                |                                                                                        | p < 0.0001                                                                             |
+| Hazard ratio a                                                                         | 0.68 (0.56, 0.82)                                                                      | 0.68 (0.56, 0.82)                                                                      |
+| 95% CI                                                                                 | p < 0.0001                                                                             | p < 0.0001                                                                             |
+| Median (95% CI) months                                                                 | NR (38.67, NR)                                                                         | 24.87 (16.62, 35.12)                                                                   |
+| Recurrence-free survival with minimum follow-up 48 months                              | Recurrence-free survival with minimum follow-up 48 months                              | Recurrence-free survival with minimum follow-up 48 months                              |
+| Events                                                                                 | 212 (46.8%)                                                                            | 253 (55.8%)                                                                            |
+| Hazard ratio a                                                                         | 0.71                                                                                   | 0.71                                                                                   |
+| Median (95% CI) months                                                                 | 52.37 (42.51, NR)                                                                      | 24.08 (16.56, 35.09)                                                                   |
+| Rate (95% CI) at 12 months                                                             | 70.4 (65.9, 74.4)                                                                      | 60.0 (55.2, 64.5)                                                                      |
+| Rate (95% CI) at 18 months                                                             | 65.8 (61.2, 70.0)                                                                      | 53.0 (48.1, 57.6)                                                                      |
+| Rate (95% CI) at 24 months                                                             | 62.6 (57.9, 67.0)                                                                      | 50.2 (45.3, 54.8)                                                                      |
+| Rate (95% CI) at 36 months                                                             | 57.6 (52.8, 62.1)                                                                      | 44.4 (39.6, 49.1)                                                                      |
+| Rate (95% CI) at 48 months                                                             | 51.7 (46.8, 56.3)                                                                      | 41.2 (36.4, 45.9)                                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
 |                                                                                | nivolumab (n = 453)                                                            | ipilimumab 10 mg/kg (n = 453)                                                  |
 |--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| Median (95% CI) months                                                         | NR (38.67, NR)                                                                 | 24.87 (16.62, 35.12)                                                           |
-| Recurrence-free survival with minimum follow-up 48 months                      | Recurrence-free survival with minimum follow-up 48 months                      | Recurrence-free survival with minimum follow-up 48 months                      |
-| Events                                                                         | 212 (46.8%)                                                                    | 253 (55.8%)                                                                    |
-| Hazard ratio a 95% CI                                                          | 0.71 (0.60, 0.86)                                                              | 0.71 (0.60, 0.86)                                                              |
-| Median (95% CI) months                                                         | 52.37 (42.51, NR)                                                              | 24.08 (16.56, 35.09)                                                           |
-| Rate (95% CI) at 12 months                                                     | 70.4 (65.9, 74.4)                                                              | 60.0 (55.2, 64.5)                                                              |
-| Rate (95% CI) at 18 months                                                     | 65.8 (61.2, 70.0)                                                              | 53.0 (48.1, 57.6)                                                              |
-| Rate (95% CI) at 24 months                                                     | 62.6 (57.9, 67.0)                                                              | 50.2 (45.3, 54.8)                                                              |
-| Rate (95% CI) at 36 months                                                     | 57.6 (52.8, 62.1)                                                              | 44.4 (39.6, 49.1)                                                              |
-| Rate (95% CI) at 48 months                                                     | 51.7 (46.8, 56.3)                                                              | 41.2 (36.4, 45.9)                                                              |
 | Final pre-specified analysis Overall survival with minimum follow-up 48 months | Final pre-specified analysis Overall survival with minimum follow-up 48 months | Final pre-specified analysis Overall survival with minimum follow-up 48 months |
 | Events                                                                         | 100 (22.1%)                                                                    | 111 (24.5%)                                                                    |
-| Hazard ratio a 95.03% CI p-value Median (95% CI) months                        | Not Reached                                                                    | Not Reached                                                                    |
-| Rate (95% CI) at 12 months                                                     | 96.2 (93.9, 97.6)                                                              | 95.3 (92.8, 96.9)                                                              |
-| Rate (95% CI) at 18 months                                                     | 91.9 (88.9, 94.1)                                                              | 91.8 (88.8, 94.0)                                                              |
+| Hazard ratio a 95.03% CI p-value Median (95% CI) months                        | 0.87 (0.66, 1.14) 0.3148 Not Reached                                           | Not Reached                                                                    |
+| Rate (95% CI) at 12 months Rate (95% CI) at 18 months                          | 96.2 (93.9, 97.6) 91.9 (88.9, 94.1)                                            | 95.3 (92.8, 96.9) 91.8 (88.8, 94.0)                                            |
 | Rate (95% CI) at 24 months                                                     | 88.0 (84.6, 90.7)                                                              | 87.8 (84.4, 90.6)                                                              |
 | Rate (95% CI) at 36 months                                                     | 81.7 (77.8, 85.1)                                                              | 81.6 (77.6, 85.0)                                                              |
-| Rate (95% CI) at 48 months                                                     | 77.9 (73.7, 81.5)                                                              | 76.6 (72.2, 80.3)                                                              |
+| Rate (95% CI) at 48                                                            |                                                                                |                                                                                |
+| months                                                                         | 77.9 (73.7, 81.5)                                                              | 76.6 (72.2, 80.3)                                                              |
 
 a Derived from a stratified proportional hazards model.
 
@@ -5141,7 +5522,7 @@ autoimmune disease, ocular melanoma, or active brain or leptomeningeal metastase
 
 A total of 418 patients were randomised to receive either nivolumab (n = 210) administered intravenously over 60 minutes at 3 mg/kg every 2 weeks or dacarbazine (n = 208) at 1 000 mg/m 2 every 3 weeks. Randomisation was stratified by tumour PD-L1 status and M stage (M0/M1a/M1b versus M1c). Treatment was continued as long as clinical benefit was observed or until treatment was no longer tolerated. Treatment after disease progression was permitted for patients who had a clinical benefit and did not have substantial adverse events with the study drug, as determined by the investigator. Tumour assessments, according to the Response Evaluation Criteria in Solid Tumours (RECIST), version 1.1, were conducted 9 weeks after randomisation and continued every 6 weeks for the first year and then every 12 weeks thereafter. The primary efficacy outcome measure was OS. Key secondary efficacy outcome measures were investigator-assessed PFS and objective response rate (ORR).
 
-Baseline characteristics were balanced between the two groups. The median age was 65 years (range: 18-87), 59% were men, and 99.5% were white. Most patients had ECOG performance score of 0 (64%) or 1 (34%). Sixty-one percent of patients had M1c stage disease at study entry. Seventy-four percent of patients had cutaneous melanoma, and 11% had mucosal melanoma; 35% of patients had PDL1 positive melanoma (≥ 5% tumour cell membrane expression). Sixteen percent of patients had received prior adjuvant therapy; the most common adjuvant treatment was interferon (9%). Four percent of patients had a history of brain metastasis, and 37% of patients had a baseline LDH level greater than ULN at study entry.
+Baseline characteristics were balanced between the two groups. The median age was 65 years (range: 18-87), 59% were men, and 99.5% were white. Most patients had ECOG performance score of 0 (64%) or 1 (34%). Sixty-one percent of patients had M1c stage disease at study entry. Seventy-four percent of patients had cutaneous melanoma, and 11% had mucosal melanoma; 35% of patients had PD-L1 positive melanoma (≥ 5% tumour cell membrane expression). Sixteen percent of patients had received prior adjuvant therapy; the most common adjuvant treatment was interferon (9%). Four percent of patients had a history of brain metastasis, and 37% of patients had a baseline LDH level greater than ULN at study entry.
 
 The Kaplan-Meier curves for OS are shown in Figure 4.
 
@@ -5287,7 +5668,7 @@ a Responses were assessed per RECIST 1.1 for 588/1008 (58.3%) of patients who co
 
 The safety and efficacy of nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg or nivolumab 3 mg/kg vs. ipilimumab 3 mg/kg monotherapy for the treatment of advanced (unresectable or metastatic) melanoma were evaluated in a phase 3, randomised, double-blind study (CA209067). The differences between the two nivolumab-containing groups were evaluated descriptively. The study included adult patients with confirmed unresectable Stage III or Stage IV melanoma. Patients were to have ECOG performance status score of 0 or 1. Patients who had not received prior systemic anticancer therapy for unresectable or metastatic melanoma were enrolled. Prior adjuvant or neoadjuvant therapy was allowed if it was completed at least 6 weeks prior to randomisation. Patients with active autoimmune disease, ocular/uveal melanoma, or active brain or leptomeningeal metastases were excluded from the study.
 
-A total of 945 patients were randomised to receive nivolumab in combination with ipilimumab (n = 314), nivolumab monotherapy (n = 316), or ipilimumab monotherapy (n = 315). Patients in the combination arm received nivolumab 1 mg/kg over 60 minutes and ipilimumab 3 mg/kg over 90 minutes administered intravenously every 3 weeks for the first 4 doses, followed by nivolumab 3 mg/kg as monotherapy every 2 weeks. Patients in the nivolumab monotherapy arm received nivolumab 3 mg/kg every 2 weeks. Patients in the comparator arm received ipilimumab 3 mg/kg and nivolumab-matched placebo intravenously every 3 weeks for 4 doses followed by placebo every 2 weeks. Randomisation was stratified by PDL1 expression (≥ 5% vs. &lt; 5% tumour cell membrane expression), BRAF status, and M stage per the American Joint Committee on Cancer (AJCC) staging system. Treatment was continued as long as clinical benefit was observed or until treatment was no longer tolerated. Tumour assessments were conducted 12 weeks after randomisation then every 6 weeks for the first year, and every 12 weeks thereafter. The primary outcome measures were progression-free survival and OS. ORR and the duration of response were also assessed.
+A total of 945 patients were randomised to receive nivolumab in combination with ipilimumab (n = 314), nivolumab monotherapy (n = 316), or ipilimumab monotherapy (n = 315). Patients in the combination arm received nivolumab 1 mg/kg over 60 minutes and ipilimumab 3 mg/kg over 90 minutes administered intravenously every 3 weeks for the first 4 doses, followed by nivolumab 3 mg/kg as monotherapy every 2 weeks. Patients in the nivolumab monotherapy arm received nivolumab 3 mg/kg every 2 weeks. Patients in the comparator arm received ipilimumab 3 mg/kg and nivolumab-matched placebo intravenously every 3 weeks for 4 doses followed by placebo every 2 weeks. Randomisation was stratified by PD-L1 expression (≥ 5% vs. &lt; 5% tumour cell membrane expression), BRAF status, and M stage per the American Joint Committee on Cancer (AJCC) staging system. Treatment was continued as long as clinical benefit was observed or until treatment was no longer tolerated. Tumour assessments were conducted 12 weeks after randomisation then every 6 weeks for the first year, and every 12 weeks thereafter. The primary outcome measures were progression-free survival and OS. ORR and the duration of response were also assessed.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5298,13 +5679,6 @@ At primary analysis (minimum follow-up 9 months) the median PFS was 6.9 months i
 PFS results from descriptive analysis (with minimum follow up of 90 months) are shown in Figure 5 (all randomised population), Figure 6 (at the tumour PD-L1 5% cut off), and Figure 7 (at the tumour PD-L1 1% cut off).
 
 <div style=\"page-break-after: always\"></div>
-
-| Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |
-|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-|                              | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |
-|                              | 314                          | 175                          | 126                          |                          112 |                          103 |                           99 |                           93 |                           87 |                           84 |                           78 |                           76 |                           70 |                           66 | 57 33                        | -                            |                              |
-|                              | 316 Ipilimumab               | 151                          | 106                          |                           97 |                           84 |                           78 |                           73 |                           69 |                           66 |                           62 |                           57 |                           54 |                           50 | 44 21                        | -                            |                              |
-|                              | 315                          | 78                           | 34                           |                           31 |                           28 |                           21 |                           18 |                           16 |                           15 |                           12 |                           11 |                           10 |                            9 | 9 7                          | -                            |                              |
 
 Figure 5: Progression-free survival (CA209067)
 
@@ -5320,7 +5694,7 @@ Figure 6: Progression-free survival by PD-L1 expression: 5% cut off (CA209067)
 
 <div style=\"page-break-after: always\"></div>
 
-PDL1 expression ≥ 5%
+PD-L1 expression ≥ 5%
 
 <!-- image -->
 
@@ -5337,14 +5711,14 @@ Figure 7: Progression-free survival by PD-L1 expression: 1% cut off (CA209067)
 | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk                                                       | Number of subjects at risk                                                       | Number of subjects at risk                                                       | Number of subjects at risk                                                       | Number of subjects at risk                                                       | Number of subjects at risk                                                       | Number of subjects at risk                                                       | Number of subjects at risk                                                       | Number of subjects at risk                                                       | Number of subjects at risk                                                       | Number of subjects at risk                                                       | Number of subjects at risk                                                       | Number of subjects at risk                                                       |
 |------------------------------|------------------------------|------------------------------|------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab       | Nivolumab + ipilimumab                                                           | Nivolumab + ipilimumab                                                           | Nivolumab + ipilimumab                                                           | Nivolumab + ipilimumab                                                           | Nivolumab + ipilimumab                                                           | Nivolumab + ipilimumab                                                           | Nivolumab + ipilimumab                                                           | Nivolumab + ipilimumab                                                           | Nivolumab + ipilimumab                                                           | Nivolumab + ipilimumab                                                           | Nivolumab + ipilimumab                                                           | Nivolumab + ipilimumab                                                           | Nivolumab + ipilimumab                                                           |
-| 155                          | 93                           | 73                           | 67                           | 60                                                                               | 55                                                                               | 53                                                                               | 50                                                                               | 47                                                                               | 46                                                                               | 41                                                                               | 40                                                                               | 37                                                                               | 34                                                                               | 17                                                                               | 1                                                                                | -                                                                                |
+|                              | 155 93                       | 73                           | 67                           | 60                                                                               | 55                                                                               | 53                                                                               | 50                                                                               | 47                                                                               | 46                                                                               | 41                                                                               | 40                                                                               | 37                                                                               | 34                                                                               | 17                                                                               | -                                                                                |                                                                                  |
 | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                                                                        | Nivolumab                                                                        | Nivolumab                                                                        | Nivolumab                                                                        | Nivolumab                                                                        | Nivolumab                                                                        | Nivolumab                                                                        | Nivolumab                                                                        | Nivolumab                                                                        | Nivolumab                                                                        | Nivolumab                                                                        | Nivolumab                                                                        | Nivolumab                                                                        |
-| 171                          | 99                           | 79                           | 69                           | 63                                                                               | 54                                                                               | 51                                                                               | 49                                                                               | 47                                                                               | 46                                                                               | 44                                                                               | 43                                                                               | 40                                                                               | 38                                                                               | 14                                                                               | 0                                                                                | -                                                                                |
+|                              | 171 99                       | 79                           | 69                           | 63                                                                               | 54                                                                               | 51                                                                               | 49                                                                               | 47                                                                               | 46                                                                               | 44                                                                               | 43                                                                               | 40                                                                               | 38                                                                               | 14                                                                               | -                                                                                |                                                                                  |
 | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                   | Ipilimumab                                                                       | Ipilimumab                                                                       | Ipilimumab                                                                       | Ipilimumab                                                                       | Ipilimumab                                                                       | Ipilimumab                                                                       | Ipilimumab                                                                       | Ipilimumab                                                                       | Ipilimumab                                                                       | Ipilimumab                                                                       | Ipilimumab                                                                       | Ipilimumab                                                                       | Ipilimumab                                                                       |
-| 164                          | 46                           | 28                           | 20                           | 19                                                                               | 18                                                                               | 14                                                                               | 13                                                                               | 13                                                                               | 12                                                                               | 9                                                                                | 9                                                                                | 9                                                                                | 9                                                                                | 7                                                                                | 1                                                                                | -                                                                                |
+|                              | 164 46                       | 28                           | 20                           | 19                                                                               | 18                                                                               | 14                                                                               | 13                                                                               | 13                                                                               | 12                                                                               | 9                                                                                | 9                                                                                | 9                                                                                | 9                                                                                | 7                                                                                | -                                                                                |                                                                                  |
 | - - -  - - -                | - - -  - - -                | - - -  - - -                | - - -  - - -                | Nivolumab+ipilimumab (events: 90/155), median and 95% CI: 16.13 (8.90, 45.08)    | Nivolumab+ipilimumab (events: 90/155), median and 95% CI: 16.13 (8.90, 45.08)    | Nivolumab+ipilimumab (events: 90/155), median and 95% CI: 16.13 (8.90, 45.08)    | Nivolumab+ipilimumab (events: 90/155), median and 95% CI: 16.13 (8.90, 45.08)    | Nivolumab+ipilimumab (events: 90/155), median and 95% CI: 16.13 (8.90, 45.08)    | Nivolumab+ipilimumab (events: 90/155), median and 95% CI: 16.13 (8.90, 45.08)    | Nivolumab+ipilimumab (events: 90/155), median and 95% CI: 16.13 (8.90, 45.08)    | Nivolumab+ipilimumab (events: 90/155), median and 95% CI: 16.13 (8.90, 45.08)    | Nivolumab+ipilimumab (events: 90/155), median and 95% CI: 16.13 (8.90, 45.08)    | Nivolumab+ipilimumab (events: 90/155), median and 95% CI: 16.13 (8.90, 45.08)    | Nivolumab+ipilimumab (events: 90/155), median and 95% CI: 16.13 (8.90, 45.08)    | Nivolumab+ipilimumab (events: 90/155), median and 95% CI: 16.13 (8.90, 45.08)    | Nivolumab+ipilimumab (events: 90/155), median and 95% CI: 16.13 (8.90, 45.08)    |
-| ----  ----                  | ----  ----                  | ----  ----                  | ----  ----                  | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              |
-| - - -  - - -                | - - -  - - -                | - - -  - - -                | - - -  - - -                | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               |
+|                              | ----  ----                  | ----  ----                  | ----  ----                  | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              | Nivolumab (events: 102/171), median and 95% CI: 16.20 (8.11, 27.60)              |
+|                              | - - -  - - -                | - - -  - - -                | - - -  - - -                | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               | Ipilimumab (events: 137/164), median and 95% CI: 3.48 (2.83, 4.17)               |
 |                              |                              |                              |                              | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.42 (0.32, 0.55) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.42 (0.32, 0.55) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.42 (0.32, 0.55) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.42 (0.32, 0.55) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.42 (0.32, 0.55) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.42 (0.32, 0.55) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.42 (0.32, 0.55) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.42 (0.32, 0.55) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.42 (0.32, 0.55) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.42 (0.32, 0.55) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.42 (0.32, 0.55) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.42 (0.32, 0.55) | Nivolumab+ipilimumab vs. ipilimumab - hazard ratio and 95% CI: 0.42 (0.32, 0.55) |
 |                              |                              |                              |                              | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            | Nivolumab vs. ipilimumab - hazard ratio and 95% CI: 0.45 (0.35, 0.59)            |
 |                              |                              |                              |                              | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  | Nivolumab+ipilimumab vs. nivolumab - hazard ratio and 95% CI: 0.92 (0.69, 1.22)  |
@@ -5361,6 +5735,8 @@ The OS analysis was not adjusted to account for subsequent therapies received. S
 
 <div style=\"page-break-after: always\"></div>
 
+Figure 8: Overall survival (CA209067) - Minimum follow-up of 90 months
+
 -
 
 -
@@ -5374,7 +5750,8 @@ The OS analysis was not adjusted to account for subsequent therapies received. S
 | Nivolumab                    | Nivolumab                    |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |
 | 316                          | 266                          | 231                          | 201                          |                          181 |                          171 |                          158 |                          145 |                          141 |                          137 |                          134 |                          130 |                          126 |                          123 |                          120 |                          107 |                            4 |
 | Ipilimumab                   | Ipilimumab                   |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |
-| 315                          |                              | 203                          | 163                          |                          135 |                          113 |                          100 |                              |                           87 |                           81 |                           75 |                           68 |                           64 |                           63 |                           63 |                           57 |                              |
+| 315                          |                              | 203                          | 163                          |                          135 |                          113 |                          100 |                              |                           87 |                           81 |                              |                              |                           64 |                           63 |                           63 |                           57 |                              |
+|                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                           75 |                           68 |                              |                              |                              |                              |                              |
 |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                            5 |
 |                              |                              |                              |                              |                              |                              |                              |                           94 |                              |                              |                              |                              |                              |                              |                              |                              |                              |
 |                              | 253                          |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |
@@ -5399,13 +5776,19 @@ PD-L1 expression ≥ 5%
 
 Figure 10: Overall survival by PD-L1 expression: 1% cut off (CA209067) - Minimum follow-up of 90 months
 
-## PD-L1 expression &lt; 1%
+PD-L1 expression &lt; 1%
 
 <!-- image -->
 
+-
+
+-
+
+-
+
 <div style=\"page-break-after: always\"></div>
 
-PDL1 expression ≥ 1%
+PD-L1 expression ≥ 1%
 
 <!-- image -->
 
@@ -5477,9 +5860,9 @@ Patients with unresectable or metastatic NSCLC, EGFR mutations or known ALK tran
 
 A total of 461 patients were randomised to receive either nivolumab in combination with platinumbased chemotherapy followed by nivolumab monotherapy (n = 229) or platinum-based chemotherapy followed by placebo (n = 232). In the neoadjuvant phase, patients received either nivolumab 360 mg administered intravenously over 30 minutes and platinum-doublet chemotherapy administered every 3 weeks, or placebo and platinum-doublet chemotherapy administered every 3 weeks until disease progression or unacceptable toxicity, for up to 4 cycles. Patients in both treatment arms could receive post-operative radiation therapy (PORT) as standard of care. In the adjuvant phase, within 90 days after the surgery patients received either nivolumab 480 mg administered intravenously over 30 minutes every 4 weeks, or placebo administered every 4 weeks for until disease progression, recurrence, or unacceptable toxicity, for up to 13 cycles. Platinum-based chemotherapy consisted of paclitaxel 175 mg/m 2 or 200 mg/m 2 and carboplatin AUC 5 or AUC 6 (any histology); pemetrexed 500 mg/m 2 , and cisplatin 75 mg/m 2 or carboplatin AUC 5 or AUC 6 (non-squamous histology); or cisplatin 75 mg/m 2 and docetaxel 75 mg/m 2 (squamous histology).
 
-Stratification factors for randomisation were tumour PDL1 expression level (≥ 1% versus &lt; 1% versus indeterminate/not evaluable), disease stage (Stage II versus Stage III), and tumour histology (squamous versus nonsquamous). Tumour PD-L1 expression levels were assessed using the PD-L1 IHC 28-8 pharmDx test. Tumour assessments were performed at baseline, within 14 days after the last dose of neoadjuvant treatment and before surgery, within 7 days prior to the start of adjuvant treatment after surgery, every 12 weeks after the first dose of adjuvant treatment for 2 years, then every 24 weeks for up to 5 years until disease recurrence or progression was confirmed by BICR.
+Stratification factors for randomisation were tumour PD-L1 expression level (≥ 1% versus &lt; 1% versus indeterminate/not evaluable), disease stage (Stage II versus Stage III), and tumour histology (squamous versus nonsquamous). Tumour PD-L1 expression levels were assessed using the PD-L1 IHC 28-8 pharmDx test. Tumour assessments were performed at baseline, within 14 days after the last dose of neoadjuvant treatment and before surgery, within 7 days prior to the start of adjuvant treatment after surgery, every 12 weeks after the first dose of adjuvant treatment for 2 years, then every 24 weeks for up to 5 years until disease recurrence or progression was confirmed by BICR.
 
-Among the 442 patients in CA20977T, 256 (58%) had tumour PDL1 expression ≥ 1% based on the PD-L1 IHC 28-8 pharmDx test. The median age was 66 years (range: 35 to 86) with 55% of patients ≥ 65 years and 7% of patients ≥ 75 years, 69% were White, 28% were Asian, 2% were Black, and 75% were male. Baseline ECOG performance status was 0 (59%) or 1 (41%); 36% had stage II and 63% had stage III disease; 24% were N1 and 39% were N2; 25% were single-station and 14% were multistation; 61% had tumours with squamous histology and 39% had tumours with non-squamous histology; and 91% were former/current smokers.
+Among the 442 patients in CA20977T, 256 (58%) had tumour PD-L1 expression ≥ 1% based on the PD-L1 IHC 28-8 pharmDx test. The median age was 66 years (range: 35 to 86) with 55% of patients ≥ 65 years and 7% of patients ≥ 75 years, 69% were White, 28% were Asian, 2% were Black, and 75% were male. Baseline ECOG performance status was 0 (59%) or 1 (41%); 36% had stage II and 63% had stage III disease; 24% were N1 and 39% were N2; 25% were single-station and 14% were multistation; 61% had tumours with squamous histology and 39% had tumours with non-squamous histology; and 91% were former/current smokers.
 
 Seventy-eight percent of patients in the neoadjuvant nivolumab in combination with platinum-doublet chemotherapy followed by adjuvant nivolumab arm had definitive surgery compared to 77% of patients in the neoadjuvant placebo and platinum-doublet chemotherapy followed by placebo arm. Approximately 5% of patients in each treatment arm received PORT.
 
@@ -5491,9 +5874,9 @@ In a pre-specified interim analysis in all randomised patients with a median fol
 
 ## Exploratory subgroup analysis by tumour PD-L1 expression
 
-EFS for the subgroup of patients with tumour PDL1 expression ≥ 1%, with a median follow-up of 41 months (range: 31.3-59.8 months), are presented in Table 20 and Figure 11.
+EFS for the subgroup of patients with tumour PD-L1 expression ≥ 1%, with a median follow-up of 41 months (range: 31.3-59.8 months), are presented in Table 20 and Figure 11.
 
-Table 20: Efficacy results in patients with tumour PDL1 ≥ 1% (CA20977T)
+Table 20: Efficacy results in patients with tumour PD-L1 ≥ 1% (CA20977T)
 
 |                                    | nivolumab with chemotherapy/ nivolumab (n = 128)   | placebo with chemotherapy/ placebo (n = 128)   |
 |------------------------------------|----------------------------------------------------|------------------------------------------------|
@@ -5512,7 +5895,7 @@ b Based on an unstratified Cox proportional hazard model.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 11: Kaplan-Meier curves of EFS in patients with tumour PDL1 ≥ 1% (CA20977T)
+Figure 11: Kaplan-Meier curves of EFS in patients with tumour PD-L1 ≥ 1% (CA20977T)
 
 <!-- image -->
 
@@ -5522,11 +5905,11 @@ Event Free Survival per BICR (Months)
 
    Nivolumab + chemotherapy/Nivolumab (events: 47/128), median and 95% CI:46.55 (35.81, NE) - - - - - -Placebo + Chemotherapy/Placebo (events: 70/128), median and 95% CI: 15.08 (9.33, 31.41) Based on data cut-off 11-Nov-2024, minimum follow-up of 31.3 months
 
-At the time of the updated EFS analysis, an interim analysis for OS was performed (minimum followup of 31.3 months). The exploratory, descriptive HR for OS in patients with tumour PD-L1 expression ≥ 1% was 0.61 (95% CI: 0.39, 0.97) for the nivolumab in combination with chemotherapy/nivolumab arm vs. the placebo with chemotherapy/placebo arm. The Kaplan-Meier curves for OS for the subgroup of patients with tumour PDL1 expression ≥ 1% are shown in Figure 12.
+At the time of the updated EFS analysis, an interim analysis for OS was performed (minimum followup of 31.3 months). The exploratory, descriptive HR for OS in patients with tumour PD-L1 expression ≥ 1% was 0.61 (95% CI: 0.39, 0.97) for the nivolumab in combination with chemotherapy/nivolumab arm vs. the placebo with chemotherapy/placebo arm. The Kaplan-Meier curves for OS for the subgroup of patients with tumour PD-L1 expression ≥ 1% are shown in Figure 12.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 12: Kaplan-Meier curves of OS in patients with tumour PDL1 ≥ 1% (CA20977T)
+Figure 12: Kaplan-Meier curves of OS in patients with tumour PD-L1 ≥ 1% (CA20977T)
 
 <!-- image -->
 
@@ -5550,7 +5933,7 @@ A total of 272 patients were randomised to receive either nivolumab 3 mg/kg (n =
 
 <div style=\"page-break-after: always\"></div>
 
-Baseline characteristics were generally balanced between the two groups. The median age was 63 years (range: 3985) with 44% ≥ 65 years of age and 11% ≥ 75 years of age. The majority of patients were white (93%) and male (76%). Thirty-one percent had progressive disease reported as the best response to their most recent prior regimen and 45% received nivolumab within 3 months of completing their most recent prior regimen. Baseline ECOG performance status score was 0 (24%) or 1 (76%).
+Baseline characteristics were generally balanced between the two groups. The median age was 63 years (range: 39-85) with 44% ≥ 65 years of age and 11% ≥ 75 years of age. The majority of patients were white (93%) and male (76%). Thirty-one percent had progressive disease reported as the best response to their most recent prior regimen and 45% received nivolumab within 3 months of completing their most recent prior regimen. Baseline ECOG performance status score was 0 (24%) or 1 (76%).
 
 The Kaplan-Meier curves for OS are shown in Figure 13.
 
@@ -5560,7 +5943,7 @@ Figure 13: Kaplan-Meier curves of OS (CA209017)
 
 24
 
-----  ---- Nivolumab 3 mg/kg (events: 86/135), median and 95% CI: 9.23 (7.33, 13.27) - - -  - - - Docetaxel (events: 113/137), median and 95% CI: 6.01 (5.13, 7.33)
+---- ----Nivolumab 3 mg/kg (events: 86/135), median and 95% CI: 9.23 (7.33, 13.27) - - - - - -Docetaxel (events: 113/137), median and 95% CI: 6.01 (5.13, 7.33)
 
 The observed OS benefit was consistently demonstrated across subgroups of patients. Survival benefit was observed regardless of whether patients had tumours that were designated PD-L1 negative or PD-L1 positive (tumour membrane expression cut off of 1%, 5% or 10%). However, the role of this biomarker (tumour PD-L1 expression) has not been fully elucidated. With a minimum of 62.6 months follow-up, OS benefit remains consistently demonstrated across subgroups.
 
@@ -5678,19 +6061,17 @@ The Kaplan-Meier curves for OS are shown in Figure 14.
 
 <div style=\"page-break-after: always\"></div>
 
-| Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |
-|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-|                              | Nivolumab 3 mg/kg            | Nivolumab 3 mg/kg            | Nivolumab 3 mg/kg            | Nivolumab 3 mg/kg            | Nivolumab 3 mg/kg            | Nivolumab 3 mg/kg            | Nivolumab 3 mg/kg            | Nivolumab 3 mg/kg            | Nivolumab 3 mg/kg            |
-|                              | 292                          | 232                          | 194                          | 169                          | 146                          | 123                          | 62                           | 32                           | 9 0                          |
-|                              | Docetaxel 290                | 244                          | 194                          | 150                          | 111                          | 88                           | 34                           | 10                           | 5 0                          |
-
 Figure 14: Kaplan-Meier curves of OS (CA209057)
 
 <!-- image -->
 
+27
+
 0
 
 0
+
+---- ----Nivolumab 3 mg/kg (events: 190/292), median and 95% CI: 12.19 (9.66, 14.98) - - - - - -Docetaxel (events: 223/290), median and 95% CI: 9.36 (8.05, 10.68)
 
 The trial demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with docetaxel at the prespecified interim analysis when 413 events were observed (93% of the planned number of events for final analysis). Efficacy results are shown in Table 23.
 
@@ -5818,40 +6199,64 @@ OS results at an additional descriptive analysis undertaken at a minimum follow-
 
 Table 25: Efficacy results in intermediate/poor risk patients (CA209214)
 
-|                                                 | nivolumab + ipilimumab (n = 425)                | sunitinib (n = 422)                             |
-|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-| Primary analysis minimum follow-up: 17.5 months | Primary analysis minimum follow-up: 17.5 months | Primary analysis minimum follow-up: 17.5 months |
-| Overall survival                                |                                                 |                                                 |
-| Events                                          | 140 (33%)                                       | 188 (45%)                                       |
-| Hazard ratio a                                  | 0.63                                            |                                                 |
-| 99.8% CI                                        | (0.44, 0.89)                                    |                                                 |
-| p-value b, c                                    | < 0.0001                                        |                                                 |
-| Median (95% CI)                                 | NE (28.2, NE)                                   | 25.9 (22.1, NE)                                 |
-| Rate (95% CI)                                   |                                                 |                                                 |
-| At 6 months                                     | 89.5 (86.1, 92.1)                               | 86.2 (82.4, 89.1)                               |
-| At 12 months                                    | 80.1 (75.9, 83.6)                               | 72.1 (67.4, 76.2)                               |
-| Progression-free survival                       |                                                 |                                                 |
-| Events                                          | 228 (53.6%)                                     | 228 (54.0%)                                     |
-| Hazard ratio a                                  |                                                 | 0.82                                            |
-| 99.1% CI                                        | (0.64,                                          | 1.05)                                           |
-| p-value b,h                                     |                                                 | 0.0331                                          |
-| Median (95% CI)                                 | 11.6 (8.71, 15.51)                              | 8.4 (7.03, 10.81)                               |
-| Confirmed objective response (BICR)             | 177 (41.6%)                                     | 112 (26.5%)                                     |
-| (95% CI)                                        | (36.9, 46.5)                                    | (22.4, 31.0)                                    |
-| Difference in ORR (95% CI) d                    | 16.0                                            | (9.8, 22.2)                                     |
-| p-value e,f                                     |                                                 | < 0.0001                                        |
+|                                                 | nivolumab + ipilimumab (n = 425)                | nivolumab + ipilimumab (n = 425)                | sunitinib (n = 422)                             |
+|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
+| Primary analysis minimum follow-up: 17.5 months | Primary analysis minimum follow-up: 17.5 months | Primary analysis minimum follow-up: 17.5 months | Primary analysis minimum follow-up: 17.5 months |
+| Overall survival                                |                                                 |                                                 |                                                 |
+| Events                                          | 140 (33%)                                       |                                                 | 188 (45%)                                       |
+| Hazard ratio a                                  |                                                 | 0.63                                            |                                                 |
+| 99.8% CI                                        |                                                 | (0.44, 0.89)                                    |                                                 |
+| p-value b, c                                    |                                                 | < 0.0001                                        |                                                 |
+| Median (95% CI)                                 | NE (28.2, NE)                                   |                                                 | 25.9 (22.1, NE)                                 |
+| Rate (95% CI)                                   |                                                 |                                                 |                                                 |
+| At 6 months                                     | 89.5 (86.1, 92.1)                               |                                                 | 86.2 (82.4, 89.1)                               |
+| At 12 months                                    | 80.1 (75.9, 83.6)                               |                                                 | 72.1 (67.4, 76.2)                               |
+| Progression-free survival                       |                                                 |                                                 |                                                 |
+| Events                                          | 228 (53.6%)                                     |                                                 | 228 (54.0%)                                     |
+| Hazard ratio a                                  |                                                 | 0.82                                            |                                                 |
+| 99.1% CI                                        |                                                 | (0.64, 1.05)                                    |                                                 |
+| p-value b,h                                     |                                                 | 0.0331                                          |                                                 |
+| Median (95% CI)                                 | 11.6 (8.71, 15.51)                              |                                                 | 8.4 (7.03, 10.81)                               |
+| Confirmed objective response (BICR)             | 177 (41.6%)                                     |                                                 | 112 (26.5%)                                     |
+| (95% CI)                                        | (36.9, 46.5)                                    |                                                 | (22.4, 31.0)                                    |
+| Difference in ORR (95% CI) d                    |                                                 | 16.0 (9.8, 22.2)                                |                                                 |
+| p-value e,f                                     |                                                 | < 0.0001                                        |                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
-|                               | nivolumab + ipilimumab (n = 425)   | sunitinib (n = 422)    |
-|-------------------------------|------------------------------------|------------------------|
-| Complete response (CR)        | 40 (9.4%)                          | 5 (1.2%)               |
-| Partial response (PR)         | 137 (32.2%)                        | 107 (25.4%)            |
-| Stable disease (SD)           | 133 (31.3%)                        | 188 (44.5%)            |
-| Median duration of response g |                                    |                        |
-| Months (range)                | NE (1.4 + -25.5 + )                | 18.17 (1.3 + -23.6 + ) |
-| Median time to response       |                                    |                        |
-| Months (range)                | 2.8 (0.9-11.3)                     | 3.0 (0.6-15.0)         |
+Complete response (CR)
+
+Partial response (PR)
+
+Stable disease (SD)
+
+Median duration of response g
+
+Months (range)
+
+Median time to response
+
+Months (range)
+
+nivolumab + ipilimumab
+
+(n = 425)
+
+40 (9.4%)
+
+137 (32.2%)
+
+133 (31.3%)
+
+NE (1.4 +
+
+-25.5
+
++
+
+)
+
+2.8 (0.9-11.3)
 
 Updated analysis*
 
@@ -5863,8 +6268,7 @@ minimum follow-up: 60 months
 | Hazard ratio a                      | 0.68                 | 0.68                 |
 | 95% CI                              | (0.58, 0.81)         | (0.58, 0.81)         |
 | Median (95% CI)                     | 46.95 (35.35, 57.43) | 26.64 (22.08, 33.54) |
-| Rate (95% CI)                       |                      |                      |
-| At 24 months                        | 66.3 (61.5, 70.6)    | 52.4 (47.4, 57.1)    |
+| Rate (95% CI) At 24 months          | 66.3 (61.5, 70.6)    | 52.4 (47.4, 57.1)    |
 | At 36 months                        | 54.6 (49.7, 59.3)    | 43.7 (38.7, 48.5)    |
 | At 48 months                        | 49.9 (44.9, 54.6)    | 35.8 (31.1, 40.5)    |
 | At 60 months                        | 43.0 (38.1, 47.7)    | 31.3 (26.8, 35.9)    |
@@ -5884,13 +6288,37 @@ minimum follow-up: 60 months
 | Median time to response             |                      |                      |
 | Months (range)                      | 2.8 (0.9-35.0)       | 3.1 (0.6-23.6)       |
 
+sunitinib
+
+(n = 422)
+
+5 (1.2%)
+
+107 (25.4%)
+
+188 (44.5%)
+
+18.17 (1.3
+
++
+
+-23.6
+
++
+
+3.0 (0.6-15.0)
+
+)
+
 <div style=\"page-break-after: always\"></div>
 
 Figure 15: Kaplan-Meier curves of OS in intermediate/poor risk patients (CA209214) Minimum follow-up of 60 months
 
 <!-- image -->
 
-An updated descriptive OS analysis was performed when all patients had a minimum follow-up of 24 months. At the time of this analysis, the hazard ratio was 0.66 (99.8% CI 0.48-0.91) with 166/425 events in the combination arm and 209/422 events in the sunitinib arm. In intermediate/poor-risk patients, OS benefit was observed in the nivolumab in combination with ipilimumab arm vs. sunitinib regardless of tumour PD-L1 expression. Median OS for tumour PDL1 expression ≥ 1% was not reached for nivolumab in combination with ipilimumab, and was 19.61 months in the sunitinib arm (HR = 0.52; 95% CI: 0.34, 0.78). For tumour PD-L1 expression &lt; 1%, the median OS was 34.7 months for the nivolumab in combination with ipilimumab, and was 32.2 months in the sunitinib arm (HR = 0.70; 95% CI: 0.54, 0.92).
+---- ----Nivolumab + ipilimumab (events: 242/425), median and 95.0% CI: 46.95 (35.35, 57.43) - - - - - -Sunitinib (events: 282/422), median and 95.0% CI: 26.64 (22.08, 33.54)
+
+An updated descriptive OS analysis was performed when all patients had a minimum follow-up of 24 months. At the time of this analysis, the hazard ratio was 0.66 (99.8% CI 0.48-0.91) with 166/425 events in the combination arm and 209/422 events in the sunitinib arm. In intermediate/poor-risk patients, OS benefit was observed in the nivolumab in combination with ipilimumab arm vs. sunitinib regardless of tumour PD-L1 expression. Median OS for tumour PD-L1 expression ≥ 1% was not reached for nivolumab in combination with ipilimumab, and was 19.61 months in the sunitinib arm (HR = 0.52; 95% CI: 0.34, 0.78). For tumour PD-L1 expression &lt; 1%, the median OS was 34.7 months for the nivolumab in combination with ipilimumab, and was 32.2 months in the sunitinib arm (HR = 0.70; 95% CI: 0.54, 0.92).
 
 CA209214 also randomised 249 favourable risk patients as per IMDC criteria to nivolumab plus ipilimumab (n = 125) or to sunitinib (n = 124). These patients were not evaluated as part of the primary efficacy population. At a minimum of 24 months follow-up, OS in favourable risk patients receiving nivolumab plus ipilimumab compared to sunitinib had a hazard ratio of 1.13 (95% CI: 0.64, 1.99; p = 0.6710). With 60 months minimum follow-up, the HR for OS was 0.94 (95% CI: 0.65, 1.37).
 
@@ -5908,7 +6336,7 @@ The safety and efficacy of nivolumab 240 mg in combination with cabozantinib 40 
 
 A total of 651 patients were randomised to receive either nivolumab 240 mg (n = 323) administered intravenously every 2 weeks in combination with cabozantinib 40 mg once daily orally or sunitinib (n = 328) 50 mg daily, administered orally for 4 weeks followed by 2 weeks off. Treatment continued until disease progression or unacceptable toxicity with nivolumab administration for up to 24 months. Treatment beyond initial investigator-assessed RECIST version 1.1-defined progression was permitted if the patient had a clinical benefit and was tolerating study drug, as determined by the investigator. First tumour assessment post-baseline was performed at 12 weeks (± 7 days) following randomisation. Subsequent tumour assessments occurred at every 6 weeks (± 7 days) until Week 60, then every 12 weeks (± 14 days) until radiographic progression, confirmed by the BICR. The primary efficacy outcome measure was PFS as determined by a BICR. Additional efficacy measures included OS and ORR as key secondary endpoints.
 
-Baseline characteristics were generally balanced between the two groups. The median age was 61 years (range: 28-90) with 38.4% ≥ 65 years of age and 9.5% ≥ 75 years of age. The majority of patients were male (73.9%) and white (81.9%). Eight percent of patients were Asian, 23.2% and 76.5% of patients had a baseline KPS of 70 to 80% and 90 to 100%, respectively. Patient distribution by IMDC risk categories was 22.6% favourable, 57.6% intermediate, and 19.7% poor. For tumour PD-L1 expression, 72.5% of patients had PD-L1 expression &lt; 1% or indeterminate and 24.9% of patients had PDL1 expression ≥ 1%. 11.5% of patients had tumours with sarcomatoid features. The median duration of treatment was 14.26 months (range: 0.2-27.3 months) in nivolumab with cabozantinib-treated patients and was 9.23 months (range: 0.8-27.6 months) in sunitinib-treated patients.
+Baseline characteristics were generally balanced between the two groups. The median age was 61 years (range: 28-90) with 38.4% ≥ 65 years of age and 9.5% ≥ 75 years of age. The majority of patients were male (73.9%) and white (81.9%). Eight percent of patients were Asian, 23.2% and 76.5% of patients had a baseline KPS of 70 to 80% and 90 to 100%, respectively. Patient distribution by IMDC risk categories was 22.6% favourable, 57.6% intermediate, and 19.7% poor. For tumour PD-L1 expression, 72.5% of patients had PD-L1 expression &lt; 1% or indeterminate and 24.9% of patients had PD-L1 expression ≥ 1%. 11.5% of patients had tumours with sarcomatoid features. The median duration of treatment was 14.26 months (range: 0.2-27.3 months) in nivolumab with cabozantinib-treated patients and was 9.23 months (range: 0.8-27.6 months) in sunitinib-treated patients.
 
 The study demonstrated a statistically significant benefit in PFS, OS, and ORR for patients randomised to nivolumab in combination with cabozantinib as compared to sunitinib. Efficacy results from the primary analysis (minimum follow-up 10.6 months; median follow-up 18.1 months) are shown in Table 26.
 
@@ -5949,7 +6377,7 @@ Table 26: Efficacy results (CA2099ER)
 
 a Stratified Cox proportional hazards model. Hazard ratio is nivolumab and cabozantinib over sunitinib.
 
-b Log-rank test stratified by IMDC prognostic risk score (0, 1-2, 3-6), PD-L1 tumour expression ( ≥ 1% versus &lt; 1% or indeterminate) and region (US/Canada/W Europe/N Europe, ROW) as entered in the IRT.
+b Log-rank test stratified by IMDC prognostic risk score (0, 1-2, 3-6), PD-L1 tumour expression (≥ 1% versus &lt; 1% or indeterminate) and region (US/Canada/W Europe/N Europe, ROW) as entered in the IRT.
 
 c 2-sided p-values from stratified regular log-rank test.
 
@@ -5969,13 +6397,73 @@ The primary analysis of PFS included censoring for new anti-cancer treatment (Ta
 
 PFS benefit was observed in the nivolumab in combination with cabozantinib arm vs. sunitinib regardless of the IMDC risk category. Median PFS for the favourable risk group was not reached for nivolumab in combination with cabozantinib, and was 12.81 months in the sunitinib arm (HR = 0.60; 95% CI: 0.37, 0.98). Median PFS for the intermediate risk group was 17.71 months for nivolumab in combination with cabozantinib and was 8.38 months in the sunitinib arm (HR = 0.54; 95% CI: 0.41, 0.73). Median PFS for the poor risk group was 12.29 months for nivolumab in combination with cabozantinib and was 4.21 months in the sunitinib arm (HR = 0.36; 95% CI: 0.23, 0.58).
 
-PFS benefit was observed in the nivolumab in combination with cabozantinib arm vs. sunitinib regardless of tumour PD-L1 expression. Median PFS for tumour PDL1 expression ≥ 1% was 13.08 months for nivolumab in combination with cabozantinib, and was 4.67 months in the sunitinib arm (HR = 0.45; 95% CI: 0.29, 0.68). For tumour PD-L1 expression &lt; 1%, the median PFS was 19.84 months for nivolumab in combination with cabozantinib, and 9.26 months in the sunitinib arm (HR = 0.50; 95% CI: 0.38, 0.65).
+PFS benefit was observed in the nivolumab in combination with cabozantinib arm vs. sunitinib regardless of tumour PD-L1 expression. Median PFS for tumour PD-L1 expression ≥ 1% was 13.08 months for nivolumab in combination with cabozantinib, and was 4.67 months in the sunitinib arm (HR = 0.45; 95% CI: 0.29, 0.68). For tumour PD-L1 expression &lt; 1%, the median PFS was 19.84 months for nivolumab in combination with cabozantinib, and 9.26 months in the sunitinib arm (HR = 0.50; 95% CI: 0.38, 0.65).
 
 <div style=\"page-break-after: always\"></div>
 
 An updated PFS and OS analysis were performed when all patients had a minimum follow-up of 16.0 months and a median follow-up of 23.5 months (see Figures 16 and 17). The PFS hazard ratio was 0.52 (95% CI: 0.43, 0.64). The OS hazard ratio was 0.66 (95% CI: 0.50, 0.87). Updated efficacy data (PFS and OS) in subgroups for the IMDC risk categories and PD-L1 expression levels confirmed the original results. With the updated analysis, median PFS is reached for the favourable risk group.
 
+Figure 16: Kaplan-Meier curves of PFS (CA2099ER)
+
 <!-- image -->
+
+Progression-free Survival per BICR (months)
+
+## Number of subjects at risk
+
+Nivolumab + cabozantinib
+
+323
+
+280
+
+236
+
+Sunitinib
+
+328
+
+230
+
+160
+
+201
+
+122
+
+166
+
+87
+
+145
+
+61
+
+102
+
+37
+
+56
+
+17
+
+26
+
+7
+
+5
+
+2
+
+2
+
+1
+
+0
+
+0
+
+---- ----Nivolumab + cabozantinib (events: 175/323), median and 95.0% CI: 16.95 (12.58, 19.38) - - - - - -Sunitinib (events: 206/328), median and 95.0% CI: 8.31 (6.93, 9.69)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5994,6 +6482,8 @@ The safety and efficacy of nivolumab subcutaneous formulation was evaluated in a
 Stratification factors for randomisation were weight (&lt; 80 kg vs ≥ 80 kg) and International Metastatic Renal Cell Carcinoma Database Consortium (IMDC) risk classification (favourable vs intermediate vs poor risk).
 
 The primary objective of the study was to demonstrate noninferiority of the serum nivolumab Cavgd28 and Cminss for the subcutaneous administration of nivolumab to the intravenous administration of
+
+33
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6043,6 +6533,8 @@ Nivolumab was continued beyond progression in 44% of patients.
 The Kaplan-Meier curves for OS are shown in Figure 18.
 
 Figure 18: Kaplan-Meier curves of OS (CA209025)
+
+---- ----Nivolumab 3 mg/kg (events: 183/410), median and 95% CI: 25.00 (21.75, N.A.) - - - - - -Everolimus 10 mg (events: 215/411), median and 95% CI: 19.55 (17.64, 23.06)
 
 <!-- image -->
 
@@ -6110,9 +6602,16 @@ Figure 19: Kaplan-Meier curves of OS (CA209141)
 
 <!-- image -->
 
-## Overall survival (months)
+Overall survival (months)
 
 <!-- image -->
+
+| Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |
+|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
+|                              | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    | Nivolumab                    |
+|                              | 240                          | 169                          | 132                          | 98                           | 76                           | 45                           | 27                           | 12                           | 3                            |
+|                              | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        |
+|                              | 121                          | 88                           | 51                           | 32                           | 22                           | 9                            | 4                            | 3                            | 0                            |
 
 3
 
@@ -6227,13 +6726,13 @@ The safety and efficacy of nivolumab monotherapy for the adjuvant treatment of u
 
 pelvis or ureter) and are at high risk of recurrence. The MIUC pathologic staging criteria that defines high risk patients was ypT2-ypT4a or ypN + for adult patients who received neoadjuvant cisplatin chemotherapy, and pT3-pT4a or pN + for adult patients who did not receive neoadjuvant cisplatin chemotherapy and were not eligible or refused adjuvant cisplatin chemotherapy. The study included patients regardless of their PD-L1 status, who had an ECOG performance status score of 0 or 1 (an ECOG PS of 2 was allowed for patients ineligible for neoadjuvant cisplatin chemotherapy). Tumour cell PD-L1 expression was determined using the PD-L1 IHC 28-8 pharmDx assay. The study excluded patients with active, known or suspected autoimmune disease, patients who had treatment with any chemotherapy, radiation therapy, biologics for cancer, intravesical therapy, or investigational therapy within 28 days of first administration of study treatment.
 
-A total of 709 patients were randomised to receive either nivolumab 240 mg (n = 353) every 2 weeks or placebo (n = 356) every 2 weeks until recurrence or unacceptable toxicity for a maximum treatment duration of 1 year. Of these, 282 patients had tumour cell PDL1 expression ≥ 1%; 140 in the nivolumab arm and 142 in the placebo arm. Randomisation was stratified by pathologic nodal status (N+ vs. N0/x with &lt; 10 nodes removed vs. N0 with ≥ 10 nodes removed), tumour cell PD-L1 expression (≥ 1% vs. &lt; 1%/indeterminate), and use of cisplatin neoadjuvant chemotherapy. Tumour imaging assessments were to be performed every 12 weeks from the date of first dose to week 96, then every 16 weeks from week 96 to week 160, then every 24 weeks until non-urothelial tract recurrence or treatment was discontinued (whichever occurred later) for a maximum of 5 years. The primary efficacy outcome measures were disease-free survival (DFS) in all randomised patients and DFS in randomised patients with tumour cell PD-L1 expression ≥ 1%. DFS was defined as the time between the date of randomisation and the date of the first documented recurrence assessed by investigator (local urothelial tract, local non-urothelial tract or distant), or death (from any cause), whichever occurred first. Secondary efficacy outcome measures included overall survival (OS).
+A total of 709 patients were randomised to receive either nivolumab 240 mg (n = 353) every 2 weeks or placebo (n = 356) every 2 weeks until recurrence or unacceptable toxicity for a maximum treatment duration of 1 year. Of these, 282 patients had tumour cell PD-L1 expression ≥ 1%; 140 in the nivolumab arm and 142 in the placebo arm. Randomisation was stratified by pathologic nodal status (N+ vs. N0/x with &lt; 10 nodes removed vs. N0 with ≥ 10 nodes removed), tumour cell PD-L1 expression (≥ 1% vs. &lt; 1%/indeterminate), and use of cisplatin neoadjuvant chemotherapy. Tumour imaging assessments were to be performed every 12 weeks from the date of first dose to week 96, then every 16 weeks from week 96 to week 160, then every 24 weeks until non-urothelial tract recurrence or treatment was discontinued (whichever occurred later) for a maximum of 5 years. The primary efficacy outcome measures were disease-free survival (DFS) in all randomised patients and DFS in randomised patients with tumour cell PD-L1 expression ≥ 1%. DFS was defined as the time between the date of randomisation and the date of the first documented recurrence assessed by investigator (local urothelial tract, local non-urothelial tract or distant), or death (from any cause), whichever occurred first. Secondary efficacy outcome measures included overall survival (OS).
 
 Baseline characteristics were generally balanced across treatment groups. In patients with tumour cell PD-L1 expression ≥ 1%, the median age was 66 years (range: 34-92 years), 76% were male and 76% were white. Eighty two percent had muscle invasive bladder cancer (MIBC), 18% had upper tract urothelial carcinoma (UTUC) (renal pelvis and ureter), 42% of patients received prior cisplatin in the neoadjuvant setting, 45% of patients were N+ at radical resection, patients had ECOG performance status of 0 (61%), 1 (37%), or 2 (2%), and 7% of patients had a haemoglobin &lt; 10 g/dL.
 
-At the primary pre-specified interim analysis in patients with tumour cell PDL1 expression ≥ 1% (minimum follow-up of 6.3 months and median follow-up of 22.1 months for the nivolumab arm), the study demonstrated a statistically significant improvement in DFS for patients randomised to nivolumab as compared to placebo. Median DFS as determined by the investigator was not reached (95% CI: 21.19, N.R.) for nivolumab versus 8.41 months (95% CI: 5.59, 21.19) for placebo, HR 0.55 (98.72% CI: 0.35, 0.85), p-value = 0.0005. The primary analysis of DFS included censoring for new anti-cancer treatment. Results for DFS with and without censoring for new anti-cancer treatment were consistent.
+At the primary pre-specified interim analysis in patients with tumour cell PD-L1 expression ≥ 1% (minimum follow-up of 6.3 months and median follow-up of 22.1 months for the nivolumab arm), the study demonstrated a statistically significant improvement in DFS for patients randomised to nivolumab as compared to placebo. Median DFS as determined by the investigator was not reached (95% CI: 21.19, N.R.) for nivolumab versus 8.41 months (95% CI: 5.59, 21.19) for placebo, HR 0.55 (98.72% CI: 0.35, 0.85), p-value = 0.0005. The primary analysis of DFS included censoring for new anti-cancer treatment. Results for DFS with and without censoring for new anti-cancer treatment were consistent.
 
-In an updated descriptive DFS analysis in patients with tumour cell PDL1 expression ≥ 1% (minimum follow-up of 11.4 months and median follow-up of 25.5 months for the nivolumab arm), DFS improvement was confirmed.
+In an updated descriptive DFS analysis in patients with tumour cell PD-L1 expression ≥ 1% (minimum follow-up of 11.4 months and median follow-up of 25.5 months for the nivolumab arm), DFS improvement was confirmed.
 
 Efficacy results from this descriptive updated analysis are shown in Table 32 and Figure 20.
 
@@ -6365,7 +6864,7 @@ Exploratory pre-specified subgroup descriptive analyses were performed in patien
 
 <div style=\"page-break-after: always\"></div>
 
-In the subgroup of patients with tumour cell PDL1 expression ≥ 1% who received prior cisplatin in the neoadjuvant setting (n = 118), the DFS HR was 0.37 (95% CI: 0.22, 0.64) with median DFS not reached and 8.41 months for the nivolumab and placebo arms, respectively. In the subgroup of patients with tumour cell PDL1 expression ≥ 1% who did not receive prior cisplatin in the neoadjuvant setting (n = 164), the DFS HR was 0.69 (95% CI: 0.44, 1.08) with median DFS of 29.67 and 11.37 months for the nivolumab and placebo arms, respectively.
+In the subgroup of patients with tumour cell PD-L1 expression ≥ 1% who received prior cisplatin in the neoadjuvant setting (n = 118), the DFS HR was 0.37 (95% CI: 0.22, 0.64) with median DFS not reached and 8.41 months for the nivolumab and placebo arms, respectively. In the subgroup of patients with tumour cell PD-L1 expression ≥ 1% who did not receive prior cisplatin in the neoadjuvant setting (n = 164), the DFS HR was 0.69 (95% CI: 0.44, 1.08) with median DFS of 29.67 and 11.37 months for the nivolumab and placebo arms, respectively.
 
 ## Treatment of advanced urothelial carcinoma
 
@@ -6375,7 +6874,7 @@ In the subgroup of patients with tumour cell PDL1 expression ≥ 1% who received
 
 The safety and efficacy of nivolumab in combination with cisplatin and gemcitabine followed by nivolumab monotherapy were evaluated in a randomised open-label study CA209901 in cisplatineligible patients with unresectable or metastatic urothelial carcinoma. The study included subjects (18 years or older) with histological or cytological evidence of metastatic or surgically unresectable transitional cell carcinoma (TCC) of the urothelium involving the renal pelvis, ureter, bladder or urethra, who were eligible for cisplatin and gemcitabine. Minor histologic variants (&lt; 50% overall) were acceptable (TCC must have been the dominant histology). All subjects were required to have measurable disease by computed tomography (CT) or magnetic resonance imaging (MRI) per RECIST 1.1 criteria. No prior systemic anti-cancer therapy for metastatic or surgically unresectable urothelial carcinoma was permitted. Prior neoadjuvant chemotherapy or prior adjuvant platinum-based chemotherapy following radical cystectomy were permitted as long as the disease recurrence took place ≥ 12 months from completion of therapy. Prior intravesical therapy was permitted if completed at least 4 weeks prior to initiation of study treatment. Radiation therapy (with or without chemotherapy) with curative intent was permitted if treatment was completed ≥ 12 months before enrolment. Palliative radiotherapy was permitted as long as it was completed at least 2 weeks prior to therapy.
 
-A total of 608 patients were randomised to receive either nivolumab in combination with cisplatin and gemcitabine (n = 304) or cisplatin and gemcitabine (n = 304). Randomisation was stratified by tumour PDL1 status (≥ 1% vs. &lt; 1% or indeterminate) and liver metastasis (yes vs. no). The median age was 65 years of age (range: 32 to 86) with 51% of patients ≥ 65 years of age and 12% of patients ≥ 75 years of age, 23% were Asian, 72% were White, 0.3% were Black; 77% were male, 23% were female. Baseline ECOG performance status was 0 (53%) or 1 (46%). Patients in the nivolumab in combination with cisplatin and gemcitabine arm were treated with nivolumab 360 mg every three weeks, in combination with cisplatin and gemcitabine for up to 6 cycles, after which patients received nivolumab monotherapy 480 mg every 4 weeks for a total of up to 24 months. Patients received gemcitabine dosed at 1000 mg/m 2 IV over 30-minutes on Days 1 and 8 of the 3 week treatment cycle and cisplatin dosed at 70 mg/m 2 IV over 30 to 120-minutes on Day 1 of the 3 week treatment cycle. A total of 92 patients (49 in the nivolumab in combination with cisplatin and gemcitabine arm and 43 in the cisplatin and gemcitabine arm) switched from cisplatin to carboplatin after at least one cycle of cisplatin.
+A total of 608 patients were randomised to receive either nivolumab in combination with cisplatin and gemcitabine (n = 304) or cisplatin and gemcitabine (n = 304). Randomisation was stratified by tumour PD-L1 status (≥ 1% vs. &lt; 1% or indeterminate) and liver metastasis (yes vs. no). The median age was 65 years of age (range: 32 to 86) with 51% of patients ≥ 65 years of age and 12% of patients ≥ 75 years of age, 23% were Asian, 72% were White, 0.3% were Black; 77% were male, 23% were female. Baseline ECOG performance status was 0 (53%) or 1 (46%). Patients in the nivolumab in combination with cisplatin and gemcitabine arm were treated with nivolumab 360 mg every three weeks, in combination with cisplatin and gemcitabine for up to 6 cycles, after which patients received nivolumab monotherapy 480 mg every 4 weeks for a total of up to 24 months. Patients received gemcitabine dosed at 1000 mg/m 2 IV over 30-minutes on Days 1 and 8 of the 3 week treatment cycle and cisplatin dosed at 70 mg/m 2 IV over 30 to 120-minutes on Day 1 of the 3 week treatment cycle. A total of 92 patients (49 in the nivolumab in combination with cisplatin and gemcitabine arm and 43 in the cisplatin and gemcitabine arm) switched from cisplatin to carboplatin after at least one cycle of cisplatin.
 
 The study demonstrated a statistically significant benefit in OS and PFS for patients randomised to nivolumab in combination with cisplatin and gemcitabine compared to cisplatin and gemcitabine alone. Efficacy results are presented in Table 33 and Figures 21 and 22.
 
@@ -6421,13 +6920,9 @@ Gemcitabine-cisplatin chemotherapy
 
 
 
-
-
 
 
-- - -
-
-
+
 
 84
 
@@ -6483,9 +6978,7 @@ Gemcitabine-cisplatin chemotherapy
 
 Nivolumab + gemcitabine-cisplatin chemotherapy (events: 172/304), median and 95% CI: 21.72 (18,63, 26.38)
 
-- - -
-
-Gemcitabine-cisplatin chemotherapy (events: 193/304), median and 95% CI: 18.85 (14.72, 22.44)
+- - - - - -Gemcitabine-cisplatin chemotherapy (events: 193/304), median and 95% CI: 18.85 (14.72, 22.44)
 
 Based on clinical data cut-off: 09-May-2023, minimum follow-up of 7.4 months
 
@@ -6494,6 +6987,8 @@ Based on clinical data cut-off: 09-May-2023, minimum follow-up of 7.4 months
 Figure 22: Kaplan Meier curves of PFS (CA209901)
 
 <!-- image -->
+
+Progression free Survival (months)
 
 ## Number of subjects at risk
 
@@ -6571,7 +7066,9 @@ Gemcitabine-cisplatin chemotherapy
 
 0
 
-   Nivolumab + gemcitabine-cisplatin chemotherapy (events: 211/304), median and 95% CI: 7.92 (7.62, 9.49)
+Nivolumab + gemcitabine-cisplatin chemotherapy (events: 211/304), median and 95% CI: 7.92
+
+   (7.62, 9.49)
 
 - - - - - -Gemcitabine-cisplatin chemotherapy (events: 191/304), median and 95% CI: 7.56 (6.05, 7.75)
 
@@ -6586,8 +7083,6 @@ The primary analysis of PFS included censoring for new anti-cancer treatment bef
 The safety and efficacy of nivolumab 3 mg/kg as a single agent for the treatment of patients with locally advanced or metastatic urothelial carcinoma was evaluated in a phase 2, multicentre, open-label, single-arm study (CA209275).
 
 The study included patients (18 years or older) who had disease progression during or following platinum-containing chemotherapy for advanced or metastatic disease or had disease progression within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy. Patients had an ECOG performance status score of 0 or 1 and were enrolled regardless of their tumour PD-L1 status. Patients with active brain metastases or leptomeningeal metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the study. Patients that received more than 2 prior lines of chemotherapy with liver metastases were excluded.
-
-Progression free Survival (months)
 
 0
 
@@ -6667,9 +7162,7 @@ Rate (95% CI) at 12 months
 
 a median follow-up 11.5 months.
 
-≥
-
-1%
+≥ 1%
 
 25% (17.7, 33.6)
 
@@ -6714,11 +7207,11 @@ CA209032 was a Phase 1/2 open-label multi-cohort study which included a cohort o
 
 The safety and efficacy of nivolumab 240 mg in combination with ipilimumab 1 mg/kg every 3 weeks, for a maximum of 4 doses, followed by nivolumab monotherapy 480 mg every 4 weeks in the firstline treatment of unresectable or metastatic CRC with known tumour MSI-H or dMMR status were evaluated in a randomised, multi-arm, phase 3, open-label study (CA2098HW). Study treatment arms included nivolumab monotherapy, nivolumab in combination with ipilimumab, or investigator's choice of chemotherapy. MSI-H or dMMR tumour status was determined in accordance with local standard of practice using PCR, NGS or IHC, assays. Central assessment of MSI-H status using PCR (Idylla MSI) test and dMMR status using IHC (Omnis MMR) test was conducted retrospectively on patient tumour specimens used for local MSI-H/dMMR status determination. Patients with confirmed MSI-H/dMMR status by either central test comprised the primary efficacy population. Patients with brain metastasis that were symptomatic, had active autoimmune disease, used systemic corticosteroids or immunosuppressants, or had been treated with checkpoint inhibitors were excluded from the study. Randomisation was stratified by tumour location (right vs left). Patients randomised to the chemotherapy arm could receive nivolumab plus ipilimumab combination upon progression assessed by BICR.
 
-A total of 303 previously untreated patients, in the metastatic setting, were randomised to study, including 202 patients to nivolumab in combination with ipilimumab and 101 patients to chemotherapy. Among them 255 had centrally confirmed MSI-H/dMMR status, 171 in the nivolumab in combination with ipilimumab arm and 84 in the chemotherapy arm. Patients in the nivolumab plus ipilimumab arm received nivolumab 240 mg every 3 weeks in combination with ipilimumab 1 mg/kg every 3 weeks, for a maximum of 4 doses, followed by nivolumab monotherapy 480 mg every 4 weeks. Patients in the chemotherapy arm received: mFOLFOX6 (oxaliplatin, leucovorin, and fluorouracil) with or without either bevacizumab or cetuximab: Oxaliplatin 85 mg/m 2 , leucovorin 400 mg/m 2 , and fluorouracil 400 mg/m 2 bolus followed by fluorouracil 2400 mg/m 2 over 46 hours every 2 weeks. Bevacizumab 5 mg/kg or cetuximab 500 mg/m 2 administered prior to mFOLFOX6 every 2 weeks; or FOLFIRI (irinotecan, leucovorin, and fluorouracil) with or without either bevacizumab or cetuximab: Irinotecan 180 mg/m 2 , leucovorin 400 mg/m 2 , and fluorouracil 400 mg/m 2 bolus and fluorouracil 2400 mg/m 2 over 46 hours every 2 weeks. Bevacizumab 5 mg/kg on or cetuximab 500 mg/m 2 administered prior to FOLFIRI every 2 weeks. Treatment continued until
+A total of 303 previously untreated patients, in the metastatic setting, were randomised to study, including 202 patients to nivolumab in combination with ipilimumab and 101 patients to chemotherapy. Among them 255 had centrally confirmed MSI-H/dMMR status, 171 in the nivolumab in combination with ipilimumab arm and 84 in the chemotherapy arm. Patients in the nivolumab plus ipilimumab arm received nivolumab 240 mg every 3 weeks in combination with ipilimumab 1 mg/kg every 3 weeks, for a maximum of 4 doses, followed by nivolumab monotherapy 480 mg every 4 weeks. Patients in the chemotherapy arm received: mFOLFOX6 (oxaliplatin, leucovorin, and fluorouracil) with or without either bevacizumab or cetuximab: Oxaliplatin 85 mg/m 2 , leucovorin 400 mg/m 2 , and fluorouracil 400 mg/m 2 bolus followed by fluorouracil 2400 mg/m 2 over 46 hours every 2 weeks. Bevacizumab 5 mg/kg or cetuximab 500 mg/m 2 administered prior to mFOLFOX6 every 2 weeks; or FOLFIRI (irinotecan, leucovorin, and fluorouracil) with or without either bevacizumab or cetuximab: Irinotecan 180 mg/m 2 , leucovorin 400 mg/m 2 , and fluorouracil 400 mg/m 2 bolus and fluorouracil 2400 mg/m 2 over 46 hours every 2 weeks. Bevacizumab 5 mg/kg on or cetuximab 500 mg/m 2 administered prior to FOLFIRI every 2 weeks. Treatment continued until disease progression, unacceptable toxicity, or for nivolumab in combination with ipilimumab up to
 
 <div style=\"page-break-after: always\"></div>
 
-disease progression, unacceptable toxicity, or for nivolumab in combination with ipilimumab up to 24 months. Patients who discontinued combination therapy because of an adverse reaction attributed to ipilimumab were permitted to continue nivolumab as a single agent. Tumour assessments per RECIST v1.1 were conducted every 6 weeks for the first 24 weeks, then every 8 weeks thereafter until week 96, then every 16 weeks thereafter until week 146, and then every 24 weeks.
+24 months. Patients who discontinued combination therapy because of an adverse reaction attributed to ipilimumab were permitted to continue nivolumab as a single agent. Tumour assessments per RECIST v1.1 were conducted every 6 weeks for the first 24 weeks, then every 8 weeks thereafter until week 96, then every 16 weeks thereafter until week 146, and then every 24 weeks.
 
 The baseline characteristics of all randomised previously untreated for metastatic disease patients were: the median age was 63 years (range: 21 to 87), with 46% ≥ 65 years of age and 18% ≥ 75 years of age; 46% were male and 86% were White. Baseline ECOG performance status was 0 (54%) and ≥ 1 (46%); tumour location was right-sided or left-sided for 68% and 32% of patients, respectively; and 39 patients had confirmed Lynch syndrome among the 223 patients with a known status. The baseline characteristics of previously untreated for metastatic disease patients with centrally confirmed MSI-H/dMMR were consistent with all randomised previously untreated patients. Among the 101 patients randomised to receive chemotherapy, 88 received chemotherapy per protocol, including oxaliplatin-containing regimens (58%) and irinotecan-containing regimens (42%). Additionally, 66 patients received a targeted agent, either bevacizumab (64%) or cetuximab (11%).
 
@@ -6734,9 +7227,9 @@ a Median follow-up of 31.5 months (range: 6.1 to 48.4 months).
 |---------------------------|------------------------------------|-------------------------|
 | Progression-free survival |                                    |                         |
 | Events                    | 48 (28%)                           | 52 (62%)                |
-| Hazard ratio              |                                    | 0.21                    |
-| 95% CI                    |                                    | (0.14, 0.32)            |
-| p-value b                 |                                    | < 0.0001                |
+| Hazard ratio              | 0.21                               |                         |
+| 95% CI                    | (0.14, 0.32)                       |                         |
+| p-value b                 | < 0.0001                           |                         |
 | Median (95% CI) (months)  | NR (38.4, NR)                      | 5.9 (4.4, 7.8)          |
 
 <div style=\"page-break-after: always\"></div>
@@ -6749,11 +7242,11 @@ Figure 23: Kaplan-Meier curve of PFS in first-line patients with MSI-H/dMMR cent
 
 <!-- image -->
 
-| Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   | Number of subjects at risk Nivolumab + ipilimumab   |
-|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-| 171                                                 | 144                                                 | 132                                                 | 122                                                 | 108                                                 | 95                                                  | 92                                                  | 77                                                  | 64                                                  | 53                                                  | 42                                                  | 37                                                  | 22                                                  | 10 9                                                | 1                                                   | 0                                                   |
-| Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        | Chemotherapy                                        |
-| 84                                                  | 53                                                  | 29                                                  | 20                                                  | 10                                                  | 6                                                   | 5                                                   | 5                                                   | 3                                                   | 2                                                   | 0                                                   | 0                                                   | 0 0                                                 | 0                                                   | 0                                                   | 0                                                   |
+| Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |
+|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
+| 171                          | 144                          | 132                          | 122                          | 108                          | 95                           | 92                           | 77                           | 64                           | 53                           | 42                           | 37                           | 22                           | 10 9                         | 1                            | 0                            |
+| Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 | Chemotherapy                 |
+| 84                           | 53                           | 29                           | 20                           | 10                           | 6                            | 5                            | 5                            | 3                            | 2                            | 0                            | 0                            | 0 0                          | 0                            | 0                            | 0                            |
 
 Open-label study of nivolumab in combination with ipilimumab in dMMR or MSI-H CRC in patients who received prior fluoropyrimidine-based combination chemotherapy
 
@@ -6795,13 +7288,13 @@ Oesophageal squamous cell carcinoma
 
 Intravenous formulation
 
-Randomised phase 3 study of nivolumab in combination with ipilimumab vs. chemotherapy and nivolumab in combination with chemotherapy vs. chemotherapy as first-line treatment (CA209648) The safety and efficacy of nivolumab in combination with ipilimumab and nivolumab in combination with chemotherapy were evaluated in a randomised, active-controlled, open-label study (CA209648). The study included adult patients (18 years or older) with previously untreated, unresectable advanced, recurrent or metastatic OSCC. Patients were enrolled regardless of their tumour PD-L1 status, and tumour cell PD-L1 expression was determined using the PD-L1 IHC 28-8 pharmDx assay. Patients were required to have squamous cell carcinoma or adenosquamous cell carcinoma of oesophagus, not amenable to chemoradiation and/or surgery. Prior adjuvant, neoadjuvant, or definitive chemotherapy, radiotherapy or chemoradiotherapy was permitted if given as part of curative intent regimen prior to trial enrollment. Patients who had a baseline performance score ≥ 2, had brain metastases that were symptomatic, had active autoimmune disease, used systemic corticosteroids or immunosuppressants, or patients at high risk of bleeding or fistula due to apparent invasion of tumour to organs adjacent to the oesophageal tumour were excluded from the study. Randomisation was stratified by tumour cell PDL1 status (≥ 1% vs. &lt; 1% or indeterminate), region (East Asia vs. rest of Asia vs. rest of world), ECOG performance status (0 vs. 1), and number of organs with metastases (≤ 1 vs. ≥ 2).
+Randomised phase 3 study of nivolumab in combination with ipilimumab vs. chemotherapy and nivolumab in combination with chemotherapy vs. chemotherapy as first-line treatment (CA209648) The safety and efficacy of nivolumab in combination with ipilimumab and nivolumab in combination with chemotherapy were evaluated in a randomised, active-controlled, open-label study (CA209648). The study included adult patients (18 years or older) with previously untreated, unresectable advanced, recurrent or metastatic OSCC. Patients were enrolled regardless of their tumour PD-L1 status, and tumour cell PD-L1 expression was determined using the PD-L1 IHC 28-8 pharmDx assay. Patients were required to have squamous cell carcinoma or adenosquamous cell carcinoma of oesophagus, not amenable to chemoradiation and/or surgery. Prior adjuvant, neoadjuvant, or definitive chemotherapy, radiotherapy or chemoradiotherapy was permitted if given as part of curative intent regimen prior to trial enrollment. Patients who had a baseline performance score ≥ 2, had brain metastases that were symptomatic, had active autoimmune disease, used systemic corticosteroids or immunosuppressants, or patients at high risk of bleeding or fistula due to apparent invasion of tumour to organs adjacent to the oesophageal tumour were excluded from the study. Randomisation was stratified by tumour cell PD-L1 status (≥ 1% vs. &lt; 1% or indeterminate), region (East Asia vs. rest of Asia vs. rest of world), ECOG performance status (0 vs. 1), and number of organs with metastases (≤ 1 vs. ≥ 2).
 
 <div style=\"page-break-after: always\"></div>
 
 A total of 970 patients were randomised to receive either nivolumab in combination with ipilimumab, (n = 325), nivolumab in combination with chemotherapy (n = 321) or chemotherapy (n = 324). Of these, 473 patients had tumour cell PD-L1 expression ≥ 1%,158 in the nivolumab plus ipilimumab arm, 158 in the nivolumab plus chemotherapy arm, and 157 in the chemotherapy arm. Patients in the nivolumab plus ipilimumab arm received nivolumab 3 mg/kg every 2 weeks in combination with ipilimumab 1 mg/kg every 6 weeks, and patients in the nivolumab plus chemotherapy arm received nivolumab 240 mg every 2 weeks on days 1 and 15, fluorouracil 800 mg/m 2 /day intravenously on days 1 through 5 (for 5 days), and cisplatin 80 mg/m 2 intravenously on day 1 (of a 4-week cycle). Patients in the chemotherapy arm received fluorouracil 800 mg/m 2 /day intravenously on days 1 through 5 (for 5 days), and cisplatin 80 mg/m 2 intravenously on day 1 (of a 4-week cycle). Treatment continued until disease progression, unacceptable toxicity, or up to 24 months. Patients in the nivolumab plus ipilimumab arm who discontinued combination therapy because of an adverse reaction attributed to ipilimumab were permitted to continue nivolumab as a single agent. Patients in the nivolumab plus chemotherapy arm in whom either fluorouracil and/or cisplatin were discontinued, other components of the treatment regimen were allowed to be continued.
 
-Baseline characteristics were generally balanced across treatment groups. In patients with tumour cell PD-L1 expression ≥ 1%, the median age was 63 years (range: 2685), 8.2% were ≥ 75 years of age, 81.8% were male, 73.1% were Asian, and 23.3% were white. Patients had histological confirmation of squamous cell carcinoma (98.9%) or adenosquamous cell carcinoma (1.1%) in the oesophagus. Baseline ECOG performance status was 0 (45.2%) or 1 (54.8%).
+Baseline characteristics were generally balanced across treatment groups. In patients with tumour cell PD-L1 expression ≥ 1%, the median age was 63 years (range: 26-85), 8.2% were ≥ 75 years of age, 81.8% were male, 73.1% were Asian, and 23.3% were white. Patients had histological confirmation of squamous cell carcinoma (98.9%) or adenosquamous cell carcinoma (1.1%) in the oesophagus. Baseline ECOG performance status was 0 (45.2%) or 1 (54.8%).
 
 ## Nivolumab in combination with chemotherapy vs. chemotherapy
 
@@ -6854,8 +7347,6 @@ The Kaplan-Meier curves for OS and PFS with a minimum follow-up of 20 months are
 
 Figure 24: Kaplan-Meier curves of OS in patients with tumour cell PD-L1 ≥ 1% (CA209648)
 
-Based on data cut-off: 23-Aug-2021, minimum follow-up of 20 months
-
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
@@ -6872,13 +7363,13 @@ Based on data cut-off: 23-Aug-2021, minimum follow-up of 20 months
 
 The safety and efficacy of nivolumab 240 mg monotherapy for the treatment of unresectable advanced, recurrent or metastatic oesophageal squamous cell carcinoma (OSCC) was evaluated in a phase 3 randomised active-controlled, open-label study (ONO-4538-24/CA209473). The study included adult patients (20 years or older) who were refractory or intolerant to at least one fluoropyrimidine- and platinum-based combination regimen, and patients were enrolled regardless of tumour PD-L1 expression level. Patients who were refractory or intolerant to taxane therapy, had brain metastases that were symptomatic or required treatment, had active autoimmune disease, medical conditions requiring systemic immunosuppression, and patients with apparent tumour invasion in organs located adjacent to the oesophagus (e.g. the aorta or respiratory tract), were excluded from the study.
 
-A total of 419 patients were randomised 1:1 to receive either nivolumab 240 mg administered intravenously over 30 minutes every 2 weeks (n = 210) or investigator's choice of taxane chemotherapy: either docetaxel (n = 65) 75 mg/m 2 intravenously every 3 weeks, or paclitaxel (n = 144) 100 mg/m 2 intravenously once a week for 6 weeks followed by 1 week off. Randomisation was stratified by location (Japan vs. rest of world), number of organs with metastases (≤ 1 vs. ≥ 2) and tumour PDL1 expression (≥ 1% vs. &lt;1% or indeterminate). Treatment continued until disease progression, assessed by the investigator per RECIST version 1.1, or unacceptable toxicity. Tumour assessments were conducted every 6 weeks for 1 year, and every 12 weeks thereafter. Treatment beyond initial investigator-assessed progression was permitted in patients receiving nivolumab with no
+A total of 419 patients were randomised 1:1 to receive either nivolumab 240 mg administered intravenously over 30 minutes every 2 weeks (n = 210) or investigator's choice of taxane chemotherapy: either docetaxel (n = 65) 75 mg/m 2 intravenously every 3 weeks, or paclitaxel (n = 144) 100 mg/m 2 intravenously once a week for 6 weeks followed by 1 week off. Randomisation was stratified by location (Japan vs. rest of world), number of organs with metastases (≤ 1 vs. ≥ 2) and tumour PD-L1 expression (≥ 1% vs. &lt;1% or indeterminate). Treatment continued until disease progression, assessed by the investigator per RECIST version 1.1, or unacceptable toxicity. Tumour assessments were conducted every 6 weeks for 1 year, and every 12 weeks thereafter. Treatment beyond initial investigator-assessed progression was permitted in patients receiving nivolumab with no
 
 <div style=\"page-break-after: always\"></div>
 
 rapid progression, investigator-assessed benefit, tolerance to treatment, stable performance status, and for whom treatment beyond progression would not delay an imminent intervention to prevent serious complications associated with disease progression (e.g. brain metastasis). The primary efficacy outcome measure was OS. Key secondary efficacy outcome measures were investigator-assessed ORR and PFS. Additional prespecified subgroup analyses were conducted to evaluate the efficacy by tumour PD-L1 expression at a predefined level of 1%. Tumour PD-L1 expression was determined using the PD-L1 IHC 28-8 pharmDx assay.
 
-Baseline characteristics were generally balanced between the two groups. The median age was 65 years (range: 3387), 53% were ≥ 65 years of age, 10% were aged ≥ 75 years, 87% were male, 96% were Asian and 4% were white. Baseline ECOG performance status was 0 (50%) or 1 (50%).
+Baseline characteristics were generally balanced between the two groups. The median age was 65 years (range: 33-87), 53% were ≥ 65 years of age, 10% were aged ≥ 75 years, 87% were male, 96% were Asian and 4% were white. Baseline ECOG performance status was 0 (50%) or 1 (50%).
 
 With a minimum follow-up of 17.6 months, the study demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with investigator's choice taxane chemotherapy. Efficacy results are shown in Table 38 and Figure 26.
 
@@ -6918,28 +7409,27 @@ e Not significant, p-value 0.6323.
 
 | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   | Number of subjects at risk   |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-| Nivolumab                    |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              |                              | 13                           |                              |                              |                              |                              |                              |
-| 210                          | 182                          | 167                          | 147                          | 126                          | 111                          | 95                           | 82                           | 70                           | 60                           | 43                           | 25                           | 17                           |                              | 7                            | 4                            | 3                            | 0                            | 0                            |
+| 210                          | Nivolumab 182                | 167                          | 147                          | 126                          | 111                          | 95                           | 82                           | 70                           | 60                           | 43                           | 25                           | 17                           | 13                           | 7                            | 4                            | 3                            | 0                            | 0                            |
 | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        | Investigator's choice        |
 | 209                          | 196                          | 169                          | 126                          | 105                          | 84                           | 68                           | 57                           | 49                           | 40                           | 27                           | 17                           | 12                           | 6                            | 2                            | 1                            | 1                            | 1                            | 0                            |
 
 <!-- image -->
 
-Of the 419 patients, 48% had tumour PDL1 expression ≥ 1%. The remaining 52% of patients had tumour PD-L1 expression &lt; 1%. The hazard ratio (HR) for OS was 0.69 (95% CI: 0.51, 0.94) with median survivals of 10.9 and 8.1 months for the nivolumab and investigator's choice taxane chemotherapy arms, respectively, in the tumour PD-L1 positive subgroup. In the tumour PD-L1 negative OSCC subgroup, the HR for OS was 0.84 (95% CI: 0.62, 1.14) with median survivals of 10.9 and 9.3 months for the nivolumab and chemotherapy arms, respectively.
+Of the 419 patients, 48% had tumour PD-L1 expression ≥ 1%. The remaining 52% of patients had tumour PD-L1 expression &lt; 1%. The hazard ratio (HR) for OS was 0.69 (95% CI: 0.51, 0.94) with median survivals of 10.9 and 8.1 months for the nivolumab and investigator's choice taxane chemotherapy arms, respectively, in the tumour PD-L1 positive subgroup. In the tumour PD-L1 negative OSCC subgroup, the HR for OS was 0.84 (95% CI: 0.62, 1.14) with median survivals of 10.9 and 9.3 months for the nivolumab and chemotherapy arms, respectively.
 
-## Adjuvant treatment of oesophageal or gastro-oesophageal junction cancer
+Adjuvant treatment of oesophageal or gastro-oesophageal junction cancer
 
 ## Intravenous formulation
 
 The safety and efficacy of nivolumab monotherapy for the adjuvant treatment of oesophageal or gastro-oesophageal junction cancer was evaluated in a phase 3 multicentre, randomised, placebo-controlled, double-blinded study (CA209577). The study included adult patients who had received CRT, followed by complete surgical resection of carcinoma within 16 weeks prior to randomisation, and who had residual pathologic disease as confirmed by the investigator, with at least ypN1 or ypT1. Patients with a baseline performance score ≥ 2, who did not receive concurrent CRT prior to surgery, with stage IV resectable disease, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the study. Patients were enrolled regardless of tumour PD-L1 expression level.
 
-A total of 794 patients were randomised 2:1 to receive either nivolumab 240 mg (n = 532) or placebo (n = 262). Patients were administered nivolumab intravenously over 30 minutes every 2 weeks for 16 weeks followed by 480 mg infused over 30 minutes every 4 weeks beginning at week 17. Patients
+A total of 794 patients were randomised 2:1 to receive either nivolumab 240 mg (n = 532) or placebo (n = 262). Patients were administered nivolumab intravenously over 30 minutes every 2 weeks for 16 weeks followed by 480 mg infused over 30 minutes every 4 weeks beginning at week 17. Patients were administered placebo over 30 minutes with the same dosing schedule as nivolumab.
 
 <div style=\"page-break-after: always\"></div>
 
-were administered placebo over 30 minutes with the same dosing schedule as nivolumab. Randomisation was stratified by tumour PD-L1 status (≥ 1% vs. &lt; 1% or indeterminate or nonevaluable), pathologic lymph node status (positive ≥ ypN1 vs. negative ypN0), and histology (squamous vs. adenocarcinoma). Treatment continued until disease recurrence, unacceptable toxicity, or for up to 1 year in total duration. The primary efficacy outcome measure was disease-free survival (DFS), as assessed by the investigator, defined as the time between the date of randomisation and the date of first recurrence (local, regional, or distant from the primary resected site) or death from any cause, whichever occurred first. Patients on treatment underwent imaging for tumour recurrence every 12 weeks for 2 years, and a minimum of one scan every 6 to 12 months for years 3 to 5.
+Randomisation was stratified by tumour PD-L1 status (≥ 1% vs. &lt; 1% or indeterminate or non-evaluable), pathologic lymph node status (positive ≥ ypN1 vs. negative ypN0), and histology (squamous vs. adenocarcinoma). Treatment continued until disease recurrence, unacceptable toxicity, or for up to 1 year in total duration. The primary efficacy outcome measure was disease-free survival (DFS), as assessed by the investigator, defined as the time between the date of randomisation and the date of first recurrence (local, regional, or distant from the primary resected site) or death from any cause, whichever occurred first. Patients on treatment underwent imaging for tumour recurrence every 12 weeks for 2 years, and a minimum of one scan every 6 to 12 months for years 3 to 5.
 
-Baseline characteristics were generally balanced between the two groups. The median age was 62 years (range: 2686) with 36% ≥ 65 years of age and 5% ≥ 75 years of years. The majority of patients were white (82%) and male (85 %). Baseline ECOG performance status was 0 (58%) or 1 (42%).
+Baseline characteristics were generally balanced between the two groups. The median age was 62 years (range: 26-86) with 36% ≥ 65 years of age and 5% ≥ 75 years of years. The majority of patients were white (82%) and male (85 %). Baseline ECOG performance status was 0 (58%) or 1 (42%).
 
 At the primary pre-specified interim analysis (minimum of 6.2 months and a median of 24.4 months follow-up), the study demonstrated a statistically significant improvement in DFS for patients randomised to nivolumab compared with placebo. Median DFS as determined by the investigator was 22.41 months (95% CI: 16.62, 34.00) for nivolumab versus 11.04 months (95% CI: 8.34, 14.32) for placebo, HR 0.69 (96.4% CI: 0.56, 0.86), p-value &lt; 0.0003. The primary analysis of DFS included censoring for new anti-cancer treatment. Results for DFS with and without censoring for new anti-cancer treatment were consistent. In an updated descriptive DFS analysis with minimum of 14 months and median of 32.2 months follow-up, DFS improvement was confirmed. Efficacy results from this descriptive secondary analysis are shown in Table 39 and Figure 27.
 
@@ -6965,11 +7455,13 @@ c Descriptive analysis based on data cut-off: 18-Feb-2021.
 
 Figure 27: Kaplan-Meier curves of DFS (CA209577)
 
-Based on data cut-off: 18-Feb-2021, minimum follow-up of 14 months
-
 <!-- image -->
 
 At the final OS analysis with a minimum follow up of 60 months, the HR for OS was 0.85 (95.87% CI: 0.70, 1.04), p-value = 0.1064. Median OS was 51.71 (95% CI: 41.03, 61.63) months in the nivolumab arm compared with 35.25 (95% CI: 30.72, 48.76) months in the placebo arm. The Kaplan-Meier curves for OS with a minimum follow-up of 60 months are shown in Figure 28.
+
+0
+
+0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6977,38 +7469,37 @@ Figure 28: Kaplan-Meier curves of OS (CA209577)
 
 <!-- image -->
 
-Based on data cut-off: 17-Dec-2024, minimum follow-up of 60 months
-
 Gastric, gastro-oesophageal junction or oesophageal adenocarcinoma
 
 ## Intravenous formulation
 
-The safety and efficacy of nivolumab 240 mg every 2 weeks or 360 mg every 3 weeks in combination with chemotherapy (dose and schedule of nivolumab selected depending on the chemotherapy regimen used, see below) was evaluated in a phase 3, randomised, open-label study (CA209649). The study included adult patients (18 years or older) with previously untreated advanced or metastatic gastric, gastro-oesophageal junction (GEJ) or oesophageal adenocarcinoma, no prior systemic treatment (including HER2 inhibitors), and ECOG performance status score 0 or 1. Patients were enrolled regardless of their tumour cell PD-L1 status, and tumour cell PD-L1 expression was determined using the PD-L1 IHC 28-8 pharmDx assay. A retrospective re-scoring of a patient's tumour PD-L1 status using CPS was conducted using the PD-L1-stained tumour specimens used for randomisation. Patients with known HER2-positive tumours, who had baseline ECOG performance score ≥ 2, untreated central nervous system metastases, or who had active, known, or suspected autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the study. A total of 643 patients with HER2-undetermined status (40.3% of the study population) were included in the study. Randomisation was stratified by tumour cell PDL1 status (≥ 1% vs. &lt; 1% or indeterminate), region (Asia vs. US vs. rest of world), ECOG performance status (0 vs. 1), and chemotherapy regimen. Chemotherapy consisted of FOLFOX (fluorouracil, leucovorin and oxaliplatin) or CapeOX (capecitabine and oxaliplatin).
+The safety and efficacy of nivolumab 240 mg every 2 weeks or 360 mg every 3 weeks in combination with chemotherapy (dose and schedule of nivolumab selected depending on the chemotherapy regimen used, see below) was evaluated in a phase 3, randomised, open-label study (CA209649). The study included adult patients (18 years or older) with previously untreated advanced or metastatic gastric, gastro-oesophageal junction (GEJ) or oesophageal adenocarcinoma, no prior systemic treatment (including HER2 inhibitors), and ECOG performance status score 0 or 1. Patients were enrolled regardless of their tumour cell PD-L1 status, and tumour cell PD-L1 expression was determined using the PD-L1 IHC 28-8 pharmDx assay. A retrospective re-scoring of a patient's tumour PD-L1 status using CPS was conducted using the PD-L1-stained tumour specimens used for randomisation. Patients with known HER2-positive tumours, who had baseline ECOG performance score ≥ 2, untreated central nervous system metastases, or who had active, known, or suspected autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the study. A total of 643 patients with HER2-undetermined status (40.3% of the study population) were included in the study. Randomisation was stratified by tumour cell PD-L1 status (≥ 1% vs. &lt; 1% or indeterminate), region (Asia vs. US vs. rest of world), ECOG performance status (0 vs. 1), and chemotherapy regimen. Chemotherapy consisted of FOLFOX (fluorouracil, leucovorin and oxaliplatin) or CapeOX (capecitabine and oxaliplatin).
 
 <div style=\"page-break-after: always\"></div>
 
 A total of 1581 patients were randomised to receive either nivolumab in combination with chemotherapy or chemotherapy. Of these, 955 patients had PD-L1 CPS ≥ 5; 473 in the nivolumab plus chemotherapy arm and 482 in the chemotherapy arm. Patients in the nivolumab plus chemotherapy arm received either nivolumab 240 mg by intravenous infusion over 30 minutes in combination with FOLFOX (oxaliplatin 85 mg/m 2 , leucovorin 400 mg/m 2 and fluorouracil 400 mg/m 2 intravenously on day 1 and fluorouracil 1200 mg/m 2 intravenously by continuous infusion over 24 hours daily or per local standard on days 1 and 2) every 2 weeks, or nivolumab 360 mg by intravenous infusion over 30 minutes in combination with CapeOX (oxaliplatin 130 mg/m 2 intravenously on day 1 and capecitabine 1000 mg/m 2 orally twice daily on days 1-14) every 3 weeks. Treatment continued until disease progression, unacceptable toxicity, or for up to 24 months for nivolumab only. In patients who received nivolumab plus chemotherapy and in whom chemotherapy was discontinued, nivolumab monotherapy was allowed to be given at 240 mg every 2 weeks, 360 mg every 3 weeks or 480 mg every 4 weeks up to 24 months after treatment initiation. Tumour assessments were performed every 6 weeks up to and including week 48, then every 12 weeks thereafter.
 
-Baseline characteristics were generally balanced across treatment groups. In patients with PD-L1 CPS ≥ 5, the median age was 62 years (range: 1890), 11% were ≥ 75 years of age, 71% were male, 25% were Asian and 69% were white. Baseline ECOG performance status was 0 (42%) or 1 (58%). Tumour locations were distributed as gastric (70%), GEJ (18%) and oesophagus (12%).
+Baseline characteristics were generally balanced across treatment groups. In patients with PD-L1 CPS ≥ 5, the median age was 62 years (range: 18-90), 11% were ≥ 75 years of age, 71% were male, 25% were Asian and 69% were white. Baseline ECOG performance status was 0 (42%) or 1 (58%). Tumour locations were distributed as gastric (70%), GEJ (18%) and oesophagus (12%).
 
 Primary efficacy outcome measures were PFS (by BICR) and OS assessed in patients with PD-L1 CPS ≥ 5 based on the PD-L1 IHC 28-8 pharmDX. Secondary endpoints per the pre-specified hierarchical testing were OS in patients with PD-L1 CPS ≥ 1 and in all randomised patients; further endpoints included ORR (BICR) in PD-L1 CPS ≥ 5 and all randomised patients. At the primary prespecified analysis, with a minimum follow-up of 12.1 months, the study demonstrated a statistically significant improvement in OS and PFS in patients with PD-L1 CPS ≥ 5. Median OS was 14.4 months (95% CI: 13.1, 16.2) for nivolumab in combination with chemotherapy vs. 11.1 months (95% CI: 10.0, 12.1) for chemotherapy (HR = 0.71; 98.4% CI: 0.59, 0.86; p-value &lt; 0.0001). Median PFS was 7.69 months (95% CI: 7.03, 9.17) for nivolumab in combination with chemotherapy vs. 6.05 months (95% CI: 5.55, 6.90) for chemotherapy (HR = 0.68; 98% CI: 0.56, 0.81; p-value &lt; 0.0001). The ORR was 60% (95% CI: 55, 65) for nivolumab in combination with chemotherapy vs. 45% (95% CI: 40, 50) for chemotherapy.
 
 At an updated descriptive analysis with a minimum follow-up of 19.4 months, OS improvements were consistent with the primary analysis. Efficacy results are shown in Table 40, and Figures 29 and 30.
 
-| Table 40:                   | Efficacy results in patients with PD-L1 CPS ≥ 5 (CA209649)   | Efficacy results in patients with PD-L1 CPS ≥ 5 (CA209649)   |
-|-----------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
-|                             | nivolumab + chemotherapy (n = 473)                           | chemotherapy (n = 482)                                       |
-|                             | Minimum follow-up 19.4 months a                              | Minimum follow-up 19.4 months a                              |
-| Overall survival            |                                                              |                                                              |
-| Events                      | 344 (73%)                                                    | 397 (82%)                                                    |
-| Hazard ratio (95% CI) b     | 0.69 (0.60, 0.81)                                            | 0.69 (0.60, 0.81)                                            |
-| Median (95% CI) (months) c  | 14.4 (13.1, 16.3)                                            | 11.1 (10.0, 12.1)                                            |
-| Rate (95% CI) at 12 months  | 57.3 (52.6, 61.6)                                            | 46.4 (41.8, 50.8)                                            |
-| Progression-free survival d |                                                              |                                                              |
-| Events                      | 342 (72.3%)                                                  | 366 (75.9%)                                                  |
-| Hazard ratio (95% CI) b     | 0.68 (0.59, 0.79)                                            | 0.68 (0.59, 0.79)                                            |
-| Median (95% CI) (months) c  | 8.31 (7.03, 9.26)                                            | 6.05 (5.55, 6.90)                                            |
-| Rate (95% CI) at 12 months  | 36.3 (31.7, 41.0)                                            | 21.9 (17.8, 26.1)                                            |
+Table 40: Efficacy results in patients with PD-L1 CPS ≥ 5 (CA209649)
+
+|                             | nivolumab + chemotherapy (n = 473)   | chemotherapy (n = 482)          |
+|-----------------------------|--------------------------------------|---------------------------------|
+|                             | Minimum follow-up 19.4 months a      | Minimum follow-up 19.4 months a |
+| Overall survival            | Overall survival                     | Overall survival                |
+| Events                      | 344 (73%)                            | 397 (82%)                       |
+| Hazard ratio (95% CI) b     | 0.69 (0.60, 0.81)                    | 0.69 (0.60, 0.81)               |
+| Median (95% CI) (months) c  | 14.4 (13.1, 16.3)                    | 11.1 (10.0, 12.1)               |
+| Rate (95% CI) at 12 months  | 57.3 (52.6, 61.6)                    | 46.4 (41.8, 50.8)               |
+| Progression-free survival d | Progression-free survival d          | Progression-free survival d     |
+| Events                      | 342 (72.3%)                          | 366 (75.9%)                     |
+| Hazard ratio (95% CI) b     | 0.68 (0.59, 0.79)                    | 0.68 (0.59, 0.79)               |
+| Median (95% CI) (months) c  | 8.31 (7.03, 9.26)                    | 6.05 (5.55, 6.90)               |
+| Rate (95% CI) at 12 months  | 36.3 (31.7, 41.0)                    | 21.9 (17.8, 26.1)               |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7034,17 +7525,81 @@ Figure 29: Kaplan-Meier curves of OS in patients with PD-L1 CPS ≥ 5 (CA209649)
 
 <!-- image -->
 
-0
+## Number of subjects at risk
 
-0
+Nivolumab + chemotherapy
+
+473
+
+439
+
+378
+
+314
+
+Chemotherapy
+
+482
+
+421
+
+350
+
+272
 
 <!-- image -->
 
-<!-- image -->
+263
+
+213
+
+223
+
+152
+
+187
+
+122
+
+155
+
+92
+
+118
+
+68
+
+78
+
+44
+
+56
+
+28
+
+37
+
+16
+
+23
+
+8
+
+13
+
+2
+
+4
+
+0
 
    Nivolumab + chemotherapy (events: 344/473), median and 95% CI: 14.42 (13.14, 16.26) - - - - - -Chemotherapy (events: 397/482), median and 95% CI: 11.10 (10.02, 12.09)
 
 Minimum follow-up of 19.4 months
+
+0
+
+0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7056,7 +7611,7 @@ Figure 30: Kaplan-Meier curves of PFS in patients with PD-L1 CPS ≥ 5 (CA209649
 
 ## Intravenous formulation
 
-The safety and efficacy of nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg every 3 weeks, for a maximum of 4 doses, followed by nivolumab monotherapy 480 mg every 4 weeks in the first-line treatment of unresectable or advanced hepatocellular carcinoma (HCC) were evaluated in a phase 3, randomised, active-controlled, open-label study (CA2099DW). The study included adult patients (18 years or older) with histologically confirmed HCC, Child Pugh Class A, ECOG performance status 0 or 1, and no prior systemic therapy for advanced disease. Esophagogastroduodenoscopy was not mandated prior to enrolment. The study enrolled adults whose disease was not amenable to or progressed after surgical and/or locoregional therapies. Prior neo-adjuvant or adjuvant systemic therapy was permitted. Patients with active autoimmune disease, brain or leptomeningeal metastases, prior liver transplant, a history of hepatic encephalopathy (within 12 months of randomisation), clinically significant ascites, medical conditions requiring systemic immunosuppression, infection with HIV, or active co infection with hepatitis B virus (HBV) and hepatitis C virus (HCV) or HBV and hepatitis D virus (HDV) were excluded from the study. Randomisation was stratified by aetiology (HBV vs. HCV vs. non-viral), macrovascular invasion and/or extrahepatic spread (present or absent), and alphafetoprotein levels (≥ 400 or &lt; 400 ng/mL).
+The safety and efficacy of nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg every 3 weeks, for a maximum of 4 doses, followed by nivolumab monotherapy 480 mg every 4 weeks in the first-line treatment of unresectable or advanced hepatocellular carcinoma (HCC) were evaluated in a phase 3, randomised, active-controlled, open-label study (CA2099DW). The study included adult patients (18 years or older) with histologically confirmed HCC, Child Pugh Class A, ECOG performance status 0 or 1, and no prior systemic therapy for advanced disease. Esophagogastroduodenoscopy was not mandated prior to enrolment. The study enrolled adults whose disease was not amenable to or progressed after surgical and/or locoregional therapies. Prior neo-adjuvant or adjuvant systemic therapy was permitted. Patients with active autoimmune disease, brain or leptomeningeal metastases, prior liver transplant, a history of hepatic encephalopathy (within 12 months of randomisation), clinically significant ascites, medical conditions requiring systemic immunosuppression, infection with HIV, or active co infection with hepatitis B virus (HBV) and hepatitis C virus (HCV) or HBV and hepatitis D virus (HDV) were excluded from the study. Randomisation was stratified by aetiology (HBV vs. HCV vs. non-viral), macrovascular invasion and/or extrahepatic spread (present or absent), and alpha-fetoprotein levels (≥ 400 or &lt; 400 ng/mL).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7087,11 +7642,11 @@ a Minimum follow-up of 26.8 months. Median follow up of 35.2 months.
 
 b Based on stratified Cox proportional hazard model.
 
-c Based on a 2-sided stratified log-rank test. Boundary for statistical significance: pvalue ≤ 0.0257.
+c Based on a 2-sided stratified log-rank test. Boundary for statistical significance: p-value ≤ 0.0257.
 
 d Assessed by BICR using RECIST 1.1.
 
-e Based on a 2-sided stratified Cochran-Mantel-Haenszel test. Boundary for statistical significance: pvalue ≤ 0.025.
+e Based on a 2-sided stratified Cochran-Mantel-Haenszel test. Boundary for statistical significance: p-value ≤ 0.025.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7284,7 +7839,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Agency https://www.ema.europa.eu.
 
-247
+252
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7352,9 +7907,9 @@ The MAH shall complete, within the stated timeframe, the below measures:
 | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Due date               |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
 | 1. Post authorisation efficacy study (PAES): In order to further elucidate the contribution of ipilimumab to the efficacy and toxicity of the combination regimen of nivolumab and ipilimumab, the MAHshould conduct and submit the results of a randomised, clinical study comparing the efficacy and safety of the combination of nivolumab and ipilimumab to nivolumab monotherapy in previously untreated adult patients with intermediate/poor-risk advanced renal cell carcinoma and with an appropriate spectrum of PD-L1 expression levels. This study should be conducted according to an agreed protocol. | By 28 th February 2027 |
-| 2. Post authorisation efficacy study (PAES): In order to further characterise the efficacy of nivolumab as adjuvant treatment of adults with muscle invasive urothelial carcinoma, the MAHshould submit the OS data from the 2 nd IA and the final OS analysis of the Phase 3 CA209274 study in the PD- L1 ≥ 1% population.                                                                                                                                                                                                                                                                                         | By 31 st December 2027 |
+| 2. Post authorisation efficacy study (PAES): In order to further characterise the efficacy of nivolumab as adjuvant treatment of adults with muscle invasive urothelial carcinoma, the MAHshould submit the OS data from the 2 nd IA and the final OS analysis of the Phase 3 CA209274 study in the PD-L1 ≥ 1% population.                                                                                                                                                                                                                                                                                          | By 31 st December 2027 |
 | 3. Post authorisation efficacy study (PAES): In order to further characterise the efficacy of nivolumab as adjuvant treatment of adults and adolescents aged 12 years and older with stage IIB or stage IIC melanoma, the MAHshould submit the OS data from the 5-year OS analysis of the Phase III study CA20976K.                                                                                                                                                                                                                                                                                                 | By 31 st May 2027      |
-| 4. Post authorisation efficacy study (PAES): In order to further characterise the long-term efficacy of OPDIVO in combination with platinum-based chemotherapy as neoadjuvant treatment, followed by OPDIVO as monotherapy as adjuvant treatment, for the treatment of resectable non-small cell lung cancer at high risk of recurrence in adult patients whose tumours have PD- L1 expression ≥ 1%, the MAHshould submit the results of the final OS analysis from study CA20977T, a phase III, randomised, double-blind study.                                                                                    | By 30 th June 2027     |
+| 4. Post authorisation efficacy study (PAES): In order to further characterise the long-term efficacy of OPDIVO in combination with platinum-based chemotherapy as neoadjuvant treatment, followed by OPDIVO as monotherapy as adjuvant treatment, for the treatment of resectable non-small cell lung cancer at high risk of recurrence in adult patients whose tumours have PD-L1 expression ≥ 1%, the MAHshould submit the results of the final OS analysis from study CA20977T, a phase III, randomised, double-blind study.                                                                                     | By 30 th June 2027     |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7705,16 +8260,13 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| VIAL LABEL                                                         |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 OPDIVO 600 mg solution for injection Nivolumab Subcutaneous use
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -7765,13 +8317,15 @@ Lot
 ## OPDIVO is a medicine used to treat:
 
 -  advanced melanoma (a type of skin cancer) in adults and adolescents 12 years of age and older
--  melanoma after complete resection in adults and adolescents 12 years of age and older (treatment after surgery is called adjuvant therapy)
+- 
+- melanoma after complete resection in adults and adolescents 12 years of age and older (treatment after surgery is called adjuvant therapy)
 -  advanced non-small cell lung cancer (a type of lung cancer) in adults
 -  non-small cell lung cancer (a type of lung cancer) prior to resection in adults (treatment prior to surgery is called neoadjuvant therapy)
 -  non-small cell lung cancer (a type of lung cancer) prior to resection and after resection in adults (treatment prior to surgery is called neoadjuvant therapy; treatment after surgery is called adjuvant therapy)
 -  malignant pleural mesothelioma (a type of cancer that affects the lining of the lung) in adults
 -  advanced renal cell carcinoma (advanced kidney cancer) in adults
 -  classical Hodgkin lymphoma that has come back after or has not responded to previous therapies, including an autologous stem-cell transplant (a transplant of your own blood-producing cells) in adults
+-  classical Hodgkin lymphoma that has come back after or has not responded to one previous therapy in children 5 years of age and older, adolescents and adults up to 30 years of age
 -  advanced cancer of the head and neck in adults
 -  advanced urothelial carcinoma (bladder and urinary tract cancer) in adults
 -  urothelial carcinoma after complete resection in adults
@@ -7783,11 +8337,9 @@ Lot
 
 It contains the active substance nivolumab, which is a monoclonal antibody, a type of protein designed to recognise and attach to a specific target substance in the body.
 
-Nivolumab attaches to a target protein called programmed death-1 receptor (PD-1) that can switch off the activity of T cells (a type of white blood cell that forms part of the immune system, the body's natural defences). By attaching to PD-1, nivolumab blocks its action and prevents it from switching
-
 <div style=\"page-break-after: always\"></div>
 
-off your T cells. This helps increase their activity against the melanoma, lung, kidney, lymphoid, head and neck, bladder, colon, rectal, stomach, oesophageal or gastro-oesophageal junction cancer cells.
+Nivolumab attaches to a target protein called programmed death-1 receptor (PD-1) that can switch off the activity of T cells (a type of white blood cell that forms part of the immune system, the body's natural defences). By attaching to PD-1, nivolumab blocks its action and prevents it from switching off your T cells. This helps increase their activity against the melanoma, lung, kidney, lymphoid, head and neck, bladder, colon, rectal, stomach, oesophageal or gastro-oesophageal junction cancer cells.
 
 OPDIVO may be given in combination with other anti-cancer medicines. It is important that you also read the package leaflet for these other medicines. If you have any questions about these medicines, please ask your doctor.
 
@@ -7814,13 +8366,13 @@ Talk to your doctor before using OPDIVO as it may cause:
 -  Graft-versus-host disease.
 -  Haemophagocytic lymphohistiocytosis . A rare disease in which our immune system makes too many of otherwise normal infection fighting cells called histiocytes and lymphocytes. Symptoms may include enlarged liver and/or spleen, skin rash, lymph node enlargement, breathing problems, easy bruising, kidney abnormalities, and heart problems.
 
+<div style=\"page-break-after: always\"></div>
+
 Tell your doctor immediately if you have any of these signs or symptoms or if they get worse. Do not try to treat your symptoms with other medicines on your own. Your doctor may
 
 -  give you other medicines in order to prevent complications and reduce your symptoms,
 -  withhold the next dose of OPDIVO,
 -  or stop your treatment with OPDIVO altogether.
-
-<div style=\"page-break-after: always\"></div>
 
 Please note that these signs and symptoms are sometimes delayed , and may develop weeks or months after your last dose. Before treatment, your doctor will check your general health. You will also have blood tests during your treatment.
 
@@ -7831,7 +8383,8 @@ Please note that these signs and symptoms are sometimes delayed , and may develo
 -  you were previously given ipilimumab, another medicine for treating melanoma, and experienced serious side effects because of that medicine;
 -  you have been told that your cancer has spread to your brain;
 -  you have any history of inflammation of the lungs ;
--  you have been taken medicines to suppress your immune system.
+-  you have been taken medicines to suppress your immune system
+-  you have a type of lymphoma called nodular lymphocyte-predominant Hodgkin lymphoma (NLPHL).
 
 OPDIVO acts on your immune system. It may cause inflammation in parts of your body. Your risk of these side effects may be higher if you already have an autoimmune disease (a condition where the body attacks its own cells). You may also experience frequent flares of your autoimmune disease, which in the majority of cases are mild.
 
@@ -7839,7 +8392,7 @@ Complications of stem cell transplant that uses donor stem cells (allogeneic) af
 
 ## Children and adolescents
 
-OPDIVO should not be used in children and adolescents below 18 years of age except for adolescents 12 years of age and older with melanoma.
+OPDIVO should not be used in children and adolescents below 18 years of age except for adolescents 12 years of age and older with melanoma and children 5 years of age and older and adolescents with classical Hodgkin lymphoma.
 
 ## Other medicines and OPDIVO
 
@@ -7858,11 +8411,11 @@ Do not use OPDIVO if you are pregnant unless your doctor specifically tells you 
 
 It is not known whether OPDIVO gets into breast milk. A risk to the breast-fed infant cannot be excluded. Ask your doctor if you can breast-feed during or after treatment with OPDIVO.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Driving and using machines
 
-OPDIVO or OPDIVO in combination with ipilimumab may have a minor influence on the ability to drive and use machines; however, use caution when performing these activities until you are sure that OPDIVO does not adversely affect you.
-
-<div style=\"page-break-after: always\"></div>
+OPDIVO or OPDIVO in combination with ipilimumab or other anti-cancer medicines may have a minor influence on the ability to drive and use machines; however, use caution when performing these activities until you are sure that OPDIVO does not adversely affect you.
 
 ## OPDIVO contains sodium
 
@@ -7890,9 +8443,9 @@ When OPDIVO is given in combination with ipilimumab for the treatment of advance
 
 When OPDIVO is given in combination with ipilimumab for the treatment of malignant pleural mesothelioma, the recommended dose of OPDIVO is 360 mg every 3 weeks.
 
-When OPDIVO is given in combination with ipilimumab for the treatment of advanced oesophageal cancer, the recommended dose of OPDIVO is 3 mg of nivolumab per kilogram of your body weight every 2 weeks or 360 mg every 3 weeks.
-
 <div style=\"page-break-after: always\"></div>
+
+When OPDIVO is given in combination with ipilimumab for the treatment of advanced oesophageal cancer, the recommended dose of OPDIVO is 3 mg of nivolumab per kilogram of your body weight every 2 weeks or 360 mg every 3 weeks.
 
 When OPDIVO is given in combination with ipilimumab for the treatment of unresectable or advanced liver cancer, the recommended dose of OPDIVO is 1 mg of nivolumab per kilogram of your body weight for up to 4 doses (combination phase) depending on your treatment. Thereafter, the recommended dose of OPDIVO is 240 mg given every 2 weeks or 480 mg every 4 weeks (single agent phase) depending on your treatment.
 
@@ -7910,6 +8463,8 @@ When OPDIVO is given in combination with ipilimumab and chemotherapy for the tre
 
 When OPDIVO is given in combination with cabozantinib for the treatment of advanced kidney cancer, the recommended dose of OPDIVO is 240 mg given every 2 weeks or 480 mg given every 4 weeks.
 
+When OPDIVO is given in combination with brentuximab vedotin for the treatment of relapsed or refractory classical Hodgkin lymphoma, the recommended dose of OPDIVO is 3 mg/kg every 3 weeks for 4 to 6 cycles.
+
 Depending on your dose, the appropriate amount of OPDIVO will be diluted with sodium chloride 9 mg/mL (0.9%) solution for injection or glucose 50 mg/mL (5%) solution for injection before use. More than one vial of OPDIVO may be necessary to obtain the required dose.
 
 ## How OPDIVO is given
@@ -7918,11 +8473,11 @@ You will receive treatment with OPDIVO in a hospital or clinic, under the superv
 
 OPDIVO will be given to you as an infusion (a drip) into a vein (intravenously) over a period of 30 or 60 minutes, every 2 weeks or 4 weeks, depending on the dose you are receiving. Your doctor will continue giving you OPDIVO for as long as you keep benefitting from it or until you no longer tolerate the treatment.
 
+<div style=\"page-break-after: always\"></div>
+
 When OPDIVO is given in combination with ipilimumab for the treatment of skin, advanced kidney advanced colon or rectal cancer, or unresectable or advanced liver cancer, you will be given an infusion over a period of 30 minutes, every 3 weeks for up to 4 doses (combination phase) depending on your treatment. Thereafter it will be given as an infusion over a period of 30 or 60 minutes, every 2 weeks or 4 weeks, depending on the dose you are receiving (single-agent phase).
 
 When OPDIVO is given in combination with ipilimumab for the treatment of malignant pleural mesothelioma, you will be given an infusion over a period of 30 minutes, every 3 weeks.
-
-<div style=\"page-break-after: always\"></div>
 
 When OPDIVO is given in combination with ipilimumab for the treatment of advanced oesophageal cancer, you will be given an infusion over a period of 30 minutes, every 2 or 3 weeks, depending on the dose you are receiving.
 
@@ -7938,6 +8493,8 @@ When OPDIVO is given in combination with ipilimumab and chemotherapy for the tre
 
 When OPDIVO is given in combination with cabozantinib, you will be given an infusion over a period of 30 minutes or 60 minutes, every 2 weeks or 4 weeks, depending on the dose you are receiving.
 
+When OPDIVO is given in combination with brentuximab vedotin for the treatment of relapsed or refractory classical Hodgkin lymphoma, you will be given an infusion over a period of 30 minutes, every 3 weeks. For Cycle 1, on Day 1, you will be given brentuximab vedotin and on Day 8, you will be given OPDIVO. For Cycles 2-6, you will first be given brentuximab vedotin followed by OPDIVO at least 30 minutes after the completion of the brentuximab vedotin infusion on the same day.
+
 ## If you miss a dose of OPDIVO
 
 It is very important for you to keep all your appointments to receive OPDIVO. If you miss an appointment, ask your doctor when to schedule your next dose.
@@ -7948,7 +8505,11 @@ Stopping your treatment may stop the effect of the medicine. Do not stop treatme
 
 If you have any further questions about your treatment or on the use of this medicine, ask your doctor.
 
-When OPDIVO is given in combination with other anti-cancer medicines, you will first be given OPDIVO followed by the other medicine.
+When OPDIVO is given in combination with other anti-cancer medicines, except with brentuximab vedotin, you will first be given OPDIVO followed by the other medicine. When OPDIVO is given in combination with brentuximab vedotin, for Cycle-1, on Day 1 you will be given brentuximab vedotin and on Day 8, you will be given OPDIVO. For Cycles 2-6,you will first be given brentuximab vedotin
+
+<div style=\"page-break-after: always\"></div>
+
+followed by OPDIVO at least 30 minutes after the completion of the brentuximab vedotin infusion on the same day.
 
 Please refer to the package leaflet of these other medicines in order to understand the use of these medicines. If you have questions about them, please ask your doctor.
 
@@ -7957,8 +8518,6 @@ Please refer to the package leaflet of these other medicines in order to underst
 Like all medicines, this medicine can cause side effects, although not everybody gets them. Your doctor will discuss these with you and will explain the risks and benefits of your treatment.
 
 Be aware of important symptoms of inflammation. OPDIVO acts on your immune system and may cause inflammation in parts of your body. Inflammation may cause serious damage to your body and some inflammatory conditions may be life-threatening and need treatment or withdrawal of OPDIVO.
-
-<div style=\"page-break-after: always\"></div>
 
 The following side effects have been reported with OPDIVO alone:
 
@@ -7995,6 +8554,9 @@ The following side effects have been reported with OPDIVO alone:
 
 -  Increase in some white blood cells
 -  Chronic diseases associated with a build-up of inflammatory cells in various organs and tissues, most commonly the lungs (sarcoidosis)
+
+<div style=\"page-break-after: always\"></div>
+
 -  Decreased secretion of hormones produced by adrenal glands (glands situated above the kidneys), underactive function (hypopituitarism) or inflammation (hypophysitis) of the pituitary gland situated at the base of the brain, diabetes
 -  Increased acid levels in the blood (metabolic acidosis)
 -  Damage to nerves causing numbness and weakness (polyneuropathy), inflammation of the nerves caused by the body attacking itself, causing numbness, weakness, tingling or burning pain (autoimmune neuropathy)
@@ -8003,9 +8565,6 @@ The following side effects have been reported with OPDIVO alone:
 -  Fluid in the lungs
 -  Inflammation of the pancreas (pancreatitis), inflammation of the stomach (gastritis)
 -  Inflammation of the liver (hepatitis), blockage of bile ducts (cholestasis)
-
-<div style=\"page-break-after: always\"></div>
-
 -  Skin disease with thickened patches of red skin, often with silvery scales (psoriasis), skin condition of the face where the nose and cheeks are unusually red (rosacea), severe condition of the skin that causes red, often itchy spots, similar to the rash of measles, which starts on the limbs and sometimes on the face and the rest of the body (erythema multiforme), hives (itchy, bumpy rash)
 -  Inflammation of the muscles causing pain or stiffness (polymyalgia rheumatica)
 
@@ -8029,11 +8588,12 @@ The following side effects have been reported with OPDIVO alone:
 -  A condition where the immune system makes too many infection-fighting cells called histiocytes and lymphocytes that may cause various symptoms (called haemophagocytic lymphohistiocytosis)
 -  Solid organ transplant rejection
 -  A group of metabolic complications occurring after cancer treatment characterised by high blood levels of potassium and phosphate, and low blood levels of calcium (tumour lysis syndrome)
+
+<div style=\"page-break-after: always\"></div>
+
 -  An inflammatory disorder (most likely of autoimmune origin) affecting the eyes, skin and the membranes of the ears, brain and spinal cord (Vogt-Koyanagi-Harada syndrome)
 -  Pain, numbness, tingling, or weakness in the arms or legs; bladder or bowel problems including needing to urinate more frequently, urinary incontinence, difficulty urinating and constipation (myelitis/transverse myelitis)
 -  Changes in any area of the skin and/or genital area that are associated with drying out, thinning, itching and pain (lichen sclerosus or other lichen disorders)
-
-<div style=\"page-break-after: always\"></div>
 
 The following side effects have been reported with OPDIVO in combination with other anti-cancer medicines (the frequency and severity of side effects may vary with the combination of anti-cancer medicines received):
 
@@ -8041,13 +8601,14 @@ The following side effects have been reported with OPDIVO in combination with ot
 
 -  Infections of the upper respiratory tract
 -  A decreased number of red blood cells (which carry oxygen), white blood cells (which are important in fighting infection) or platelets (cells which help the blood to clot)
+-  Allergic reaction, reactions related to the infusion of the medicine
 -  Underactive thyroid gland (which can cause tiredness or weight gain), overactive thyroid gland (which can cause rapid heart rate, sweating and weight loss)
 -  Decreased appetite, decrease in body weight, decreased levels of albumin in the blood, high (hyperglycaemia) or low (hypoglycaemia) sugar levels in the blood
 -  Inflammation of the nerves (causing numbness, weakness, tingling or burning pain of the arms and legs), headache, dizziness, altered sense of taste
 -  High blood pressure (hypertension)
 -  Shortness of breath (dyspnoea), cough, abnormal speaking sound (dysphonia)
 -  Diarrhoea (watery, loose or soft stools), constipation, vomiting, nausea, stomach pain, mouth ulcers and cold sores (stomatitis), indigestion (dyspepsia)
--  Skin rash sometimes with blisters, itching, pain of the hands or soles of the feet: rash or redness of the skin, tingling and tenderness developing to symmetrical redness, swelling and pain primarily on the palm of the hand and sole of the foot (palmar-plantar erythrodysaesthaesia syndrome)
+-  Skin rash sometimes with blisters, itching, pain of the hands or soles of the feet: rash or redness of the skin, tingling and tenderness developing to symmetrical redness, swelling and pain primarily on the palm of the hand and sole of the foot (palmar-plantar erythrodysaesthesia syndrome)
 -  Pain in the joints (arthralgia), pain in the muscles and bones (musculoskeletal pain), muscle spasm
 -  Excess protein in urine
 -  Feeling tired or weak, fever, oedema (swelling)
@@ -8056,7 +8617,6 @@ The following side effects have been reported with OPDIVO in combination with ot
 
 -  Serious lung infection (pneumonia), bronchitis, inflammation of the eye (conjunctivitis)
 -  Increase in some white blood cells, decrease in neutrophils with fever
--  Allergic reaction, reactions related to the infusion of the medicine
 -  Decreased secretion of hormones produced by adrenal glands (glands situated above the kidneys), underactive function (hypopituitarism) or inflammation (hypophysitis) of the pituitary gland situated at the base of the brain, swelling of the thyroid gland, diabetes
 -  Dehydration, decreased levels of phosphate in the blood
 -  Sensations like numbness and tingling (paraesthesia)
@@ -8069,6 +8629,9 @@ The following side effects have been reported with OPDIVO in combination with ot
 -  Inflammation of the liver
 -  Skin colour change in patches (including vitiligo), redness of the skin, unusual hair loss or thinning, hair colour change, hives (itchy rash), discolouration or abnormal darkening of the skin (skin hyperpigmentation), dry skin
 -  Inflammation of the joints (arthritis), muscle weakness, aching muscles
+
+<div style=\"page-break-after: always\"></div>
+
 -  Kidney failure (including abrupt loss of kidney function)
 -  Pain, chest pain, chills
 -  Feeling generally unwell (malaise)
@@ -8077,9 +8640,6 @@ The following side effects have been reported with OPDIVO in combination with ot
 
 -  Acid in the blood produced from diabetes (diabetic ketoacidosis)
 -  Increased acid levels in the blood
-
-<div style=\"page-break-after: always\"></div>
-
 -  A temporary inflammation of the nerves that causes pain, weakness and paralysis in the extremities (Guillain-Barré syndrome); damage to nerves causing numbness and weakness (polyneuropathy); foot drop (peroneal nerve palsy); inflammation of the nerves caused by the body attacking itself, causing numbness, weakness, tingling or burning pain (autoimmune neuropathy); muscle weakness and tiredness without atrophy (myasthenia gravis or syndrome)
 -  Inflammation of the brain
 -  Inflammation of the eye (which causes pain and redness)
@@ -8101,15 +8661,15 @@ The following side effects have been reported with OPDIVO in combination with ot
 -  Pain, numbness, tingling, or weakness in the arms or legs; bladder or bowel problems including needing to urinate more frequently, urinary incontinence, difficulty urinating and constipation (myelitis/transverse myelitis)
 -  Severe and possibly fatal peeling of the skin (toxic epidermal necrolysis), changes in any area of the skin and/or genital area that are associated with drying out, thinning, itching and pain (lichen sclerosus)
 -  Chronic disease of joints (spondyloarthropathy), disease in which the immune system attacks the glands that make moisture for the body, such as tears and saliva (Sjogren's syndrome), muscle spasm (rhabdomyolysis)
+
+<div style=\"page-break-after: always\"></div>
+
 -  Lack or reduction of digestive enzymes made by the pancreas (pancreatic exocrine insufficiency)
 -  Coeliac disease (characterised by symptoms such as stomach pain, diarrhoea, and bloating after consuming gluten-containing foods)
 
 ## Other side effects that have been reported with frequency not known (cannot be estimated from the available data):
 
 -  A condition where the immune system makes too many infection-fighting cells called histiocytes and lymphocytes that may cause various symptoms (called haemophagocytic lymphohistiocytosis)
-
-<div style=\"page-break-after: always\"></div>
-
 -  Solid organ transplant rejection
 -  Inflammation of the covering of the heart and accumulation of fluid around the heart (pericardial disorders)
 
@@ -8140,23 +8700,26 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and the vial label after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2°C to 8°C). Do not freeze. Store in the original package in order to protect from light. The unopened vial can be stored at controlled room temperature up to 25°C with room light for up to 48 hours.
+Store in a refrigerator (2°C to 8°C).
+
+Do not freeze.
+
+Store in the original package in order to protect from light.
+
+The unopened vial can be stored at controlled room temperature up to 25°C with room light for up to 48 hours.
 
 Do not store any unused portion of the infusion solution for reuse. Any unused medicine or waste material should be disposed of in accordance with local requirements.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
 ## What OPDIVO contains
 
--  The active substance is nivolumab. Each mL of concentrate for solution for infusion contains 10 mg of nivolumab.
+Each mL of concentrate for solution for infusion contains 10 mg of nivolumab. Each vial contains either 40 mg (in 4 mL), 100 mg (in 10 mL), 120 mg (in 12 mL) or 240 mg
 
-Each vial contains either 40 mg (in 4 mL), 100 mg (in 10 mL), 120 mg (in 12 mL) or 240 mg
-
-(in 24 mL) of nivolumab.
-
+-  The active substance is nivolumab. (in 24 mL) of nivolumab.
 -  The other ingredients are sodium citrate dihydrate, sodium chloride, mannitol (E421), pentetic acid, polysorbate 80 (E433), sodium hydroxide, hydrochloric acid and water for injections (see section 2 \"OPDIVO contains sodium\" and 'OPDIVO contains polysorbate 80 (E433)'.
-
-<div style=\"page-break-after: always\"></div>
 
 ## What OPDIVO looks like and contents of the pack
 
@@ -8172,7 +8735,9 @@ Bristol-Myers Squibb Pharma EEIG Plaza 254 Blanchardstown Corporate Park 2 Dubli
 
 ## Manufacturer
 
-Swords Laboratories Unlimited Company t/a Bristol-Myers Squibb Cruiserath Biologics Cruiserath Road, Mulhuddart Dublin 15, D15 H6EF Ireland
+Swords Laboratories Unlimited Company t/a Bristol-Myers Squibb Cruiserath Biologics Cruiserath Road, Mulhuddart Dublin 15, D15 H6EF
+
+Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -8182,111 +8747,87 @@ N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.be
 
 ## България
 
-Swixx Biopharma EOOD Teл.: + 359 2 4942 480
+Swixx Biopharma EOOD Teл.: + 359 2 4942 480 medinfo.bulgaria@swixxbiopharma.com
 
-medinfo.bulgaria@swixxbiopharma.com
-
-## Česká republika
-
-Bristol-Myers Squibb spol. s r.o. Tel: + 420 221 016 111 medinfo.czech@bms.com
-
-## Danmark
-
-Bristol-Myers Squibb Denmark Tlf: + 45 45 93 05 06 medinfo.denmark@bms.com
-
-## Deutschland
-
-Bristol-Myers Squibb GmbH &amp; Co. KGaA
-
-Tel: 0800 0752002 (+ 49 89 121 42 350) medwiss.info@bms.com
-
-## Eesti
-
-Swixx Biopharma OÜ Tel: + 372 640 1030 medinfo.estonia@swixxbiopharma.com
+Česká republika Bristol-Myers Squibb spol. s r.o. Tel: + 420 221 016 111 medinfo.czech@bms.com
 
 ## Lietuva
 
-Swixx Biopharma UAB Tel: + 370 52 369140
-
-medinfo.lithuania@swixxbiopharma.com
+Swixx Biopharma UAB Tel: + 370 52 369140 medinfo.lithuania@swixxbiopharma.com
 
 ## Luxembourg/Luxemburg
 
-N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
+N.V. Bristol-Myers Squibb Belgium S.A.
 
-## Magyarország
+Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
 
-Bristol-Myers Squibb Kft. Tel.: + 36 1 301 9797 Medinfo.hungary@bms.com
+Magyarország Bristol-Myers Squibb Kft. Tel.: + 36 1 301 9797
 
-## Malta
+Medinfo.hungary@bms.com
+
+<div style=\"page-break-after: always\"></div>
+
+Danmark Bristol-Myers Squibb Denmark Tlf: + 45 45 93 05 06 medinfo.denmark@bms.com
+
+Deutschland Bristol-Myers Squibb GmbH &amp; Co. KGaA Tel: 0800 0752002 (+ 49 89 121 42 350) medwiss.info@bms.com
+
+Eesti Swixx Biopharma OÜ Tel: + 372 640 1030
+
+medinfo.estonia@swixxbiopharma.com
+
+Ελλάδα Bristol-Myers Squibb A.E. Τηλ: + 30 210 6074300
+
+medinfo.greece@bms.com
+
+España Bristol-Myers Squibb, S.A. Tel: + 34 91 456 53 00
+
+informacion.medica@bms.com
+
+France Bristol-Myers Squibb SAS Tél: + 33 (0)1 58 83 84 96 infomed@bms.com
+
+Hrvatska Swixx Biopharma d.o.o. Tel: + 385 1 2078 500 medinfo.croatia@swixxbiopharma.com
+
+Ireland Bristol-Myers Squibb Pharmaceuticals uc Tel: 1 800 749 749 (+ 353 (0)1 483 3625) medical.information@bms.com
+
+Ísland Vistor ehf. Sími: + 354 535 7000 medical.information@bms.com
+
+Italia Bristol-Myers Squibb S.r.l. Tel: + 39 06 50 39 61 medicalinformation.italia@bms.com
+
+Malta
 
 A.M. Mangion Ltd Tel: + 356 23976333
 
 pv@ammangion.com
 
-## Nederland
+Nederland
 
 Bristol-Myers Squibb B.V. Tel: + 31 (0)30 300 2222 medischeafdeling@bms.com
 
-## Norge
+Norge Bristol-Myers Squibb Norway AS Tlf: + 47 67 55 53 50 medinfo.norway@bms.com
 
-Bristol-Myers Squibb Norway AS
+Österreich Bristol-Myers Squibb GesmbH Tel: + 43 1 60 14 30 medinfo.austria@bms.com
 
-Tlf: + 47 67 55 53 50 medinfo.norway@bms.com
+Polska Bristol-Myers Squibb Polska Sp. z o.o. Tel.: + 48 22 2606400 informacja.medyczna@bms.com
+
+Portugal Bristol-Myers Squibb Farmacêutica Portuguesa, S.A. Tel: + 351 21 440 70 00 portugal.medinfo@bms.com
+
+România Bristol-Myers Squibb Marketing Services S.R.L. Tel: + 40 (0)21 272 16 19
+
+medinfo.romania@bms.com
+
+Slovenija Swixx Biopharma d.o.o. Tel: + 386 1 2355 100 medinfo.slovenia@swixxbiopharma.com
+
+Slovenská republika Swixx Biopharma s.r.o. Tel: + 421 2 20833 600 medinfo.slovakia@swixxbiopharma.com
+
+Suomi/Finland Oy Bristol-Myers Squibb (Finland) Ab Puh/Tel: + 358 9 251 21 230 medinfo.finland@bms.com
 
 <div style=\"page-break-after: always\"></div>
 
-## Ελλάδα
-
-Bristol-Myers Squibb A.E. Τηλ: + 30 210 6074300
+Κύπρος Bristol-Myers Squibb A.E. Τηλ: 800 92666 (+ 30 210 6074300)
 
 medinfo.greece@bms.com
 
-## España
-
-Bristol-Myers Squibb, S.A. Tel: + 34 91 456 53 00
-
-informacion.medica@bms.com
-
-France Bristol-Myers Squibb SAS Tél: + 33 (0)1 58 83 84 96
-
-infomed@bms.com
-
-## Hrvatska
-
-Swixx Biopharma d.o.o. Tel: + 385 1 2078 500
-
-medinfo.croatia@swixxbiopharma.com
-
-## Ireland
-
-Bristol-Myers Squibb Pharmaceuticals uc Tel: 1 800 749 749 (+ 353 (0)1 483 3625)
-
-medical.information@bms.com
-
-## Ísland
-
-Vistor ehf. Sími: + 354 535 7000
-
-medical.information@bms.com
-
-## Italia
-
-Bristol-Myers Squibb S.r.l. Tel: + 39 06 50 39 61
-
-medicalinformation.italia@bms.com
-
-## Κύπρος
-
-Bristol-Myers Squibb A.E. Τηλ: 800 92666 (+ 30 210 6074300)
-
-medinfo.greece@bms.com
-
-## Latvija
-
-Swixx Biopharma SIA Tel: + 371 66164750
-
-medinfo.latvia@swixxbiopharma.com
+Latvija Swixx Biopharma SIA Tel: + 371 66164750 medinfo.latvia@swixxbiopharma.com
 
 ## This leaflet was last revised in
 
@@ -8294,55 +8835,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-## Österreich
-
-Bristol-Myers Squibb GesmbH Tel: + 43 1 60 14 30
-
-medinfo.austria@bms.com
-
-## Polska
-
-Bristol-Myers Squibb Polska Sp. z o.o. Tel.: + 48 22 2606400
-
-informacja.medyczna@bms.com
-
-## Portugal
-
-Bristol-Myers Squibb Farmacêutica Portuguesa, S.A. Tel: + 351 21 440 70 00 portugal.medinfo@bms.com
-
-## România
-
-Bristol-Myers Squibb Marketing Services S.R.L. Tel: + 40 (0)21 272 16 19
-
-medinfo.romania@bms.com
-
-## Slovenija
-
-Swixx Biopharma d.o.o. Tel: + 386 1 2355 100
-
-medinfo.slovenia@swixxbiopharma.com
-
-## Slovenská republika
-
-Swixx Biopharma s.r.o. Tel: + 421 2 20833 600
-
-medinfo.slovakia@swixxbiopharma.com
-
-## Suomi/Finland
-
-Oy Bristol-Myers Squibb (Finland) Ab Puh/Tel: + 358 9 251 21 230
-
-medinfo.finland@bms.com
-
-## Sverige
-
-Bristol-Myers Squibb Aktiebolag Tel: + 46 8 704 71 00
-
-medinfo.sweden@bms.com
-
-<div style=\"page-break-after: always\"></div>
-
-## The following information is intended for healthcare professionals only:
+The following information is intended for healthcare professionals only:
 
 ## Preparation and administration of OPDIVO
 
@@ -8373,7 +8866,11 @@ Nivolumab in combination with ipilimumab in advanced colorectal cancer
 
 The prescribed dose for the patient can be based on body weight (3 mg/kg) or can be 240 mg given regardless of body weight.
 
-## Nivolumab in combination with ipilimumab in advanced oesophageal cancer
+Sverige Bristol-Myers Squibb Aktiebolag Tel: + 46 8 704 71 00 medinfo.sweden@bms.com
+
+<div style=\"page-break-after: always\"></div>
+
+Nivolumab in combination with ipilimumab in advanced oesophageal cancer
 
 The prescribed dose for the patient can be based on body weight (3 mg/kg) or is 360 mg given regardless of body weight.
 
@@ -8389,8 +8886,6 @@ Nivolumab in combination with chemotherapy in advanced oesophageal cancer
 
 The prescribed dose for the patient is 240 mg or 480 mg given regardless of body weight.
 
-<div style=\"page-break-after: always\"></div>
-
 Nivolumab in combination with chemotherapy in gastric, gastro-oesophageal junction or oesophageal adenocarcinoma
 
 The prescribed dose for the patient is 360 mg or 240 mg given regardless of body weight.
@@ -8402,6 +8897,10 @@ The prescribed dose for the patient is 360 mg given regardless of body weight.
 Nivolumab in combination with cabozantinib
 
 The prescribed dose for the patient is nivolumab 240 mg or 480 mg given regardless of body weight.
+
+Nivolumab in combination with brentuximab vedotin
+
+The prescribed dose for the patient is given in mg/kg. Based on this prescribed dose, calculate the total dose to be given (please see above).
 
 ## Preparing the infusion
 
@@ -8422,8 +8921,10 @@ or
 
 ## STEP 1
 
--  Inspect the OPDIVO concentrate for particulate matter or discoloration. Do not shake the vial. OPDIVO concentrate is a clear to opalescent, colourless to pale yellow liquid. Discard the vial if the solution is cloudy, is discoloured, or contains particulate matter other than a few translucent-to-white particles.
+-  Inspect the OPDIVO concentrate for particulate matter or discolouration. Do not shake the vial. OPDIVO concentrate is a clear to opalescent, colourless to pale yellow liquid. Discard the vial if the solution is cloudy, is discoloured, or contains particulate matter other than a few translucent-to-white particles.
 -  Withdraw the required volume of OPDIVO concentrate using an appropriate sterile syringe.
+
+<div style=\"page-break-after: always\"></div>
 
 ## STEP 2
 
@@ -8441,15 +8942,13 @@ OPDIVO infusion should not be infused at the same time in the same intravenous l
 
 Use an infusion set and an in-line, sterile, non-pyrogenic, low protein binding filter (pore size of 0.2 μm to 1.2 μm).
 
-<div style=\"page-break-after: always\"></div>
-
 OPDIVO infusion is compatible with:
 
 -  PVC containers
 -  Polyolefin containers
 -  Glass bottles
 -  PVC infusion sets
--  In-line filters with polyethersulfone membranes with pore sizes of 0.2 μ m to 1.2 μ m.
+-  In-line filters with polyethersulfone membranes with pore sizes of 0.2 μm to 1.2 μm.
 
 After administration of the nivolumab dose, flush the line with sodium chloride 9 mg/mL (0.9%) solution for injection or 50 mg/mL (5%) glucose solution for injection.
 
@@ -8464,6 +8963,8 @@ Do not use OPDIVO after the expiry date which is stated on the carton and on the
 ## OPDIVO infusion
 
 Chemical and physical in-use stability from the time of preparation has been demonstrated as follows (times are inclusive of the administration period):
+
+<div style=\"page-break-after: always\"></div>
 
 |                                                                                 | Chemical and physical in-use stability     | Chemical and physical in-use stability              |
 |---------------------------------------------------------------------------------|--------------------------------------------|-----------------------------------------------------|
@@ -8851,7 +9352,11 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and the vial label after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2°C to 8°C). Do not freeze. Store in the original package in order to protect from light.
+Store in a refrigerator (2°C to 8°C).
+
+Do not freeze.
+
+Store in the original package in order to protect from light.
 
 Do not store any unused portion of the injection solution for reuse. Any unused medicine or waste material should be disposed of in accordance with local requirements.
 
@@ -8907,17 +9412,15 @@ Swixx Biopharma OÜ Tel: + 372 640 1030
 
 medinfo.estonia@swixxbiopharma.com
 
-Ελλάδα
+Ελλάδα Bristol-Myers Squibb A.E. Τηλ: + 30 210 6074300
 
-Bristol-Myers Squibb A.E. Τηλ: + 30 210 6074300 medinfo.greece@bms.com
+medinfo.greece@bms.com
 
 Lietuva Swixx Biopharma UAB Tel: + 370 52 369140 medinfo.lithuania@swixxbiopharma.com
 
 Luxembourg/Luxemburg N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
 
-## Magyarország
-
-Bristol-Myers Squibb Kft. Tel.: + 36 1 301 9797 Medinfo.hungary@bms.com
+Magyarország Bristol-Myers Squibb Kft. Tel.: + 36 1 301 9797 Medinfo.hungary@bms.com
 
 Malta A.M. Mangion Ltd Tel: + 356 23976333
 
@@ -8981,13 +9484,19 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-Polska Bristol-Myers Squibb Polska Sp. z o.o. Tel.: + 48 22 2606400 informacja.medyczna@bms.com
+Bristol-Myers Squibb Polska Sp. z o.o.
+
+Polska Tel.: + 48 22 2606400
+
+informacja.medyczna@bms.com
 
 ## Portugal
 
 Bristol-Myers Squibb Farmacêutica Portuguesa,
 
-S.A. Tel: + 351 21 440 70 00
+S.A.
+
+Tel: + 351 21 440 70 00
 
 portugal.medinfo@bms.com
 

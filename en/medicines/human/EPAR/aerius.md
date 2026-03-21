@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-02 12:14:00
+document_datetime: 2026-03-19 16:06:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aerius.html
 document_name: aerius.html
 version: success
-processing_time: 0.1128888
-conversion_datetime: 2026-03-05 11:44:20.456887
+processing_time: 0.108613
+conversion_datetime: 2026-03-21 12:16:03.091853
 docling_version:
-  docling-serve: 1.14.1
+  docling-serve: 1.14.3
   docling-jobkit: 1.13.0
-  docling: 2.76.0
-  docling-core: 2.66.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.4.2
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Aerius
 
@@ -35,6 +35,7 @@ Page contents
 - [Product details](#product-details)
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-84376)
 - [Topics](#topics)
 
 - Application under evaluation
@@ -107,7 +108,7 @@ English (EN) (75 KB - PDF)
 
 [View](/en/documents/overview/aerius-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-364)
+[Other languages (22)](#file-language-dropdown-303)
 
 български (BG) (124.32 KB - PDF)
 
@@ -393,7 +394,7 @@ English (EN) (396.08 KB - PDF)
 
 [View](/en/documents/product-information/aerius-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-346)
+[Other languages (24)](#file-language-dropdown-940)
 
 български (BG) (486.74 KB - PDF)
 
@@ -709,7 +710,7 @@ English (EN) (47.76 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/aerius-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-219)
+[Other languages (24)](#file-language-dropdown-936)
 
 български (BG) (53.43 KB - PDF)
 
@@ -1208,11 +1209,217 @@ English (EN) (92.23 KB - PDF)
 
 [View](/en/documents/procedural-steps/aerius-epar-procedural-steps-taken-authorisation_en.pdf)
 
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Aerius : EPAR - Product information - tracked changes
+
+English (EN) (150.14 KB - DOCX)
+
+**First published:** 19/03/2026
+
+[View](/en/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-628)
+
+български (BG) (166.73 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/bg/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (142.97 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/es/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (132.41 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/cs/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (132.07 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/da/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (128.74 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/de/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (125.3 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/et/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (146.91 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/el/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (137.33 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/fr/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (143.58 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/hr/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (129.85 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/is/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (133.95 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/it/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (128.58 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/lv/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (147.7 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/lt/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (150.92 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/hu/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (153.21 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/mt/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (139.86 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/nl/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (128.81 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/no/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (146.76 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/pl/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (140.98 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/pt/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (128.61 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/ro/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (133.51 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/sk/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (158.66 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/sl/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (133.79 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/fi/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (127.19 KB - DOCX)
+
+**First published:**
+
+19/03/2026
+
+[View](/sv/documents/product-information-tracked-changes/aerius-epar-product-information-tracked-changes_sv.docx)
+
 ## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 02/03/2026
+**This page was last updated on** 19/03/2026
 
 ## Share this page
 

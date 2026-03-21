@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-26 14:23:05
-document_pages: 35
+document_datetime: 2026-03-18 12:27:40
+document_pages: 41
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zynyz-epar-product-information_en.pdf
 document_name: zynyz-epar-product-information_en.pdf
 version: success
-processing_time: 7.6297898
-conversion_datetime: 2026-01-29 11:46:25.193199
+processing_time: 12.2737828
+conversion_datetime: 2026-03-21 11:46:31.733799
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -50,6 +50,12 @@ Clear to slightly opalescent, colourless to pale yellow solution, with a pH of 5
 
 ## 4.1 Therapeutic indications
 
+## Squamous cell carcinoma of the anal canal (SCAC)
+
+ZYNYZ is indicated in combination with carboplatin and paclitaxel for the first-line treatment of adult patients with metastatic or with inoperable locally recurrent squamous cell carcinoma of the anal canal (SCAC).
+
+## Merkel cell carcinoma (MCC)
+
 ZYNYZ is indicated as monotherapy for the first-line treatment of adult patients with metastatic or recurrent locally advanced Merkel cell carcinoma (MCC) not amenable to curative surgery or radiation therapy.
 
 ## 4.2 Posology and method of administration
@@ -57,6 +63,16 @@ ZYNYZ is indicated as monotherapy for the first-line treatment of adult patients
 Treatment should be initiated and supervised by a physician experienced in the treatment of cancer.
 
 ## Posology
+
+## Squamous cell carcinoma of the anal canal (SCAC)
+
+The recommended dose is 500 mg retifanlimab every 4 weeks administered as an intravenous infusion over 30 minutes, in combination with carboplatin and paclitaxel for 6 cycles followed by retifanlimab 500 mg as monotherapy every 4 weeks for all cycles thereafter. Treatment should continue until disease progression or unacceptable toxicity for up to 1 year.
+
+<div style=\"page-break-after: always\"></div>
+
+For the dosing and administration of carboplatin and paclitaxel, including recommended patient management, refer to the respective Summary of Product Characteristics (SmPC).
+
+## Merkel cell carcinoma (MCC)
 
 The recommended dose is 500 mg retifanlimab every 4 weeks administered as an intravenous infusion over 30 minutes. Treatment should continue until disease progression or unacceptable toxicity for up to 2 years.
 
@@ -66,9 +82,7 @@ Dose escalation or reduction of retifanlimab is not indicated.
 
 Recommended dose modifications to manage immune-related adverse reactions are provided in Table 1 (see also sections 4.4 and 4.8).
 
-<div style=\"page-break-after: always\"></div>
-
-Table 1: Recommended dose modifications
+Table 1: Recommended dose modifications for ZYNYZ
 
 | Adverse reaction                                                                                                                       | Severity a                                                                                                                 | Dose modification                                                                                                                                                                                                                                        |
 |----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -78,38 +92,38 @@ Table 1: Recommended dose modifications
 | Colitis                                                                                                                                | Recurrent Grade 3 or Grade 4                                                                                               | Permanently discontinue.                                                                                                                                                                                                                                 |
 | Hepatitis with no tumour involvement of the liver OR Increased total bilirubin                                                         | Grade 3 with AST or ALT greater than 3 but no more than 8 times ULN OR TB increases to more than 1.5 and up to 3 times ULN | Withhold until adverse reactions recover to Grades 0-1. Permanently discontinue if no resolution within 12 weeks of initiating steroids or inability to reduce prednisone to less than 10 mg/day (or equivalent) within 12 weeks of initiating steroids. |
 | Hepatitis with no tumour involvement of the liver OR Increased total bilirubin                                                         | Grade 4 with AST or ALT increases to more than 8 times ULN OR TB greater than 3 times ULN                                  | Permanently discontinue.                                                                                                                                                                                                                                 |
-| Hepatitis with tumour involvement of the liver OR Increased total bilirubin                                                            | Grade 3 with AST or ALT more than 5 and up to 10 times ULN OR TB greater than 1.5 but no more than 3 times ULN             | Withhold until adverse reactions recover to Grades 0-1. Permanently discontinue if no resolution within 12 weeks of initiating steroids or inability to reduce prednisone to less than 10 mg/day (or equivalent) within 12 weeks of initiating steroids. |
+| Hepatitis with tumour involvement of the liver OR Increased total bilirubin                                                            | Grade 3 with AST or ALT more than 5 and up to 10 times ULN OR TB greater than 1.5 but no more than 3                       | Withhold until adverse reactions recover to Grades 0-1. Permanently discontinue if no                                                                                                                                                                    |
 | Hepatitis with tumour involvement of the liver OR Increased total bilirubin                                                            | Grade 4 with AST or ALT increase to more than 10 times ULN OR TB greater than 3 times ULN                                  | Permanently discontinue.                                                                                                                                                                                                                                 |
 | Endocrinopathies • Adrenal insufficiency • Hypothyroidism • Hyperthyroidism • Type 1 diabetes mellitus • Hyperglycaemia • Hypophysitis | Grade 2 adrenal insufficiency                                                                                              | Withhold until adverse reactions recover to Grades 0-1 or otherwise clinically stable.                                                                                                                                                                   |
-| Endocrinopathies • Adrenal insufficiency • Hypothyroidism • Hyperthyroidism • Type 1 diabetes mellitus • Hyperglycaemia • Hypophysitis | Grades 3 or 4 adrenal insufficiency                                                                                        | Withhold until adverse reactions recover to Grades 0-1. Permanently discontinue if no resolution within 12 weeks of initiating steroids or inability to reduce prednisone to less than 10 mg/day (or equivalent) within 12 weeks of initiating steroids. |
-| Endocrinopathies • Adrenal insufficiency • Hypothyroidism • Hyperthyroidism • Type 1 diabetes mellitus • Hyperglycaemia • Hypophysitis | Grades 3 or 4 hypothyroidism                                                                                               | Withhold until adverse reactions recover to Grades 0-1 or is otherwise clinically stable.                                                                                                                                                                |
-| Endocrinopathies • Adrenal insufficiency • Hypothyroidism • Hyperthyroidism • Type 1 diabetes mellitus • Hyperglycaemia • Hypophysitis | Grades 3 or 4 hyperthyroidism                                                                                              | Withhold until adverse reactions recover to Grades 0-1 or is otherwise clinically stable.                                                                                                                                                                |
+| Endocrinopathies • Adrenal insufficiency • Hypothyroidism • Hyperthyroidism • Type 1 diabetes mellitus • Hyperglycaemia • Hypophysitis | Grades 3 or 4 adrenal insufficiency                                                                                        | Withhold until adverse reactions recover to Grades 0-1. Permanently discontinue if no resolution within 12 weeks of initiating steroids or inability to                                                                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| Adverse reaction                                                                                                                                                       | Severity a                                                               | Dose modification                                                                                                                                                                                                                                        |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                        | Grades 3 or 4 type 1 diabetes mellitus (or hyperglycaemia)               | Withhold until adverse reactions recover to Grades 0-1 or is otherwise clinically stable.                                                                                                                                                                |
-|                                                                                                                                                                        | Grade 2 hypophysitis (asymptomatic)                                      | Withhold until adverse reactions recover to Grades 0-1. May restart after controlled by hormone replacement therapy.                                                                                                                                     |
-|                                                                                                                                                                        | Grade 2 hypophysitis (symptomatic e.g., headaches, visual disturbances)  | Withhold until adverse reactions recover to Grades 0-1. May restart after controlled by hormone replacement therapy, if indicated and steroid taper is complete.                                                                                         |
-|                                                                                                                                                                        | Grade 3 or 4 hypophysitis (symptomatic)                                  | Withhold until adverse reactions recover to Grades 0-1. Permanently discontinue if no resolution within 12 weeks of initiating steroids or inability to reduce prednisone to less than 10 mg/day (or equivalent) within 12 weeks of initiating steroids. |
-| Nephritis with renal dysfunction                                                                                                                                       | Grade 2 increased blood creatinine                                       | Withhold until adverse reactions recover to Grades 0-1.                                                                                                                                                                                                  |
-| Nephritis with renal dysfunction                                                                                                                                       | Grade 3 or 4 increased blood creatinine                                  | Permanently discontinue. b                                                                                                                                                                                                                               |
-| Skin reactions                                                                                                                                                         | Grade 3 or suspected SJS or suspected TEN Persistent Grade 2 (≥ 2 weeks) | Withhold until adverse reactions recover to Grades 0-1.                                                                                                                                                                                                  |
-| Skin reactions                                                                                                                                                         | Grade 4 or confirmed SJS or confirmed TEN                                | Permanently discontinue.                                                                                                                                                                                                                                 |
-| Myocarditis                                                                                                                                                            | Confirmed Grades 2, 3 or 4                                               | Permanently discontinue.                                                                                                                                                                                                                                 |
-| Other immune-related adverse reactions (including myositis,                                                                                                            | Grade 3                                                                  | Withhold until adverse reactions recover to Grades 0-1.                                                                                                                                                                                                  |
-| encephalitis, demyelinating neuropathy, Guillain Barré syndrome, sarcoidosis, autoimmune haemolytic anaemia, pancreatitis, uveitis, diabetic ketoacidosis, arthralgia) | Grade 4                                                                  | Permanently discontinue.                                                                                                                                                                                                                                 |
+| Adverse reaction                                                                                                                                                  | Severity a                                                               | Dose modification                                                                                                                                                                                                                                        |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                                   | Grades 3 or 4 hypothyroidism                                             | reduce prednisone to less than 10 mg/day (or equivalent) within 12 weeks of initiating steroids. Withhold until adverse reactions recover to Grades 0-1 or is otherwise                                                                                  |
+|                                                                                                                                                                   | Grades 3 or 4 hyperthyroidism                                            | clinically stable. Withhold until adverse reactions recover to Grades 0-1 or is otherwise clinically stable.                                                                                                                                             |
+|                                                                                                                                                                   | Grades 3 or 4 type 1 diabetes mellitus (or hyperglycaemia)               | Withhold until adverse reactions recover to Grades 0-1 or is otherwise clinically stable.                                                                                                                                                                |
+|                                                                                                                                                                   | Grade 2 hypophysitis (asymptomatic)                                      | Withhold until adverse reactions recover to Grades 0-1. May restart after controlled by hormone replacement therapy.                                                                                                                                     |
+|                                                                                                                                                                   | Grade 2 hypophysitis (symptomatic e.g., headaches, visual disturbances)  | Withhold until adverse reactions recover to Grades 0-1. May restart after controlled by hormone replacement therapy, if indicated and steroid taper is complete.                                                                                         |
+|                                                                                                                                                                   | Grade 3 or 4 hypophysitis (symptomatic)                                  | Withhold until adverse reactions recover to Grades 0-1. Permanently discontinue if no resolution within 12 weeks of initiating steroids or inability to reduce prednisone to less than 10 mg/day (or equivalent) within 12 weeks of initiating steroids. |
+| Nephritis with renal dysfunction                                                                                                                                  | Grade 2 increased blood creatinine                                       | Withhold until adverse reactions recover to Grades 0-1.                                                                                                                                                                                                  |
+| Nephritis with renal dysfunction                                                                                                                                  | Grade 3 or 4 increased blood creatinine                                  | Permanently discontinue. b                                                                                                                                                                                                                               |
+| Skin reactions                                                                                                                                                    | Grade 3 or suspected SJS or suspected TEN Persistent Grade 2 (≥ 2 weeks) | Withhold until adverse reactions recover to Grades 0-1.                                                                                                                                                                                                  |
+| Skin reactions                                                                                                                                                    | Grade 4 or confirmed SJS or confirmed TEN                                | Permanently discontinue.                                                                                                                                                                                                                                 |
+| Myocarditis                                                                                                                                                       | Confirmed Grades 2, 3 or 4                                               | Permanently discontinue.                                                                                                                                                                                                                                 |
+| Other immune-related adverse reactions                                                                                                                            | Grade 3                                                                  | Withhold until adverse reactions recover to Grades 0-1.                                                                                                                                                                                                  |
+| (including myositis, encephalitis, demyelinating neuropathy, Guillain Barré syndrome, sarcoidosis, autoimmune haemolytic anaemia, pancreatitis, uveitis, diabetic | Grade 4                                                                  | Permanently discontinue.                                                                                                                                                                                                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
-| Adverse reaction                                                                      | Severity a                                                                                     | Dose modification                                                                                                                                                                             |
-|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Persistent Grade 2 or 3 immune-related adverse reactions (excluding endocrinopathies) | Grade 2 or 3 (≥ 12 weeks after last dose) Recurrent Grade 3 or 4 Recurrent Grade 2 pneumonitis | Permanently discontinue.                                                                                                                                                                      |
-| Infusion-related reactions                                                            | Grade 1                                                                                        | Interrupt or slow the rate of infusion.                                                                                                                                                       |
-| Infusion-related reactions                                                            | Grade 2                                                                                        | First occurrence: Interrupt infusion and resume at 50% of the original rate if symptoms resolve within 1 hour. Subsequent occurrences: Permanently discontinue after recommended prophylaxis. |
-| Infusion-related reactions                                                            | Grade 3                                                                                        | Permanently discontinue. If rapidly responsive to symptomatic management and/or to brief interruption of infusion, retifanlimab does not need to be permanently discontinued.                 |
-| Infusion-related reactions                                                            | Grade 4                                                                                        | Permanently discontinue.                                                                                                                                                                      |
+| Adverse reaction                                                                      | Severity a                                                                                      | Dose modification                                                                                                                                                                             |
+|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Persistent Grade 2 or 3 immune-related adverse reactions (excluding endocrinopathies) | Grade 2 or 3 ( ≥ 12 weeks after last dose) Recurrent Grade 3 or 4 Recurrent Grade 2 pneumonitis | Permanently discontinue.                                                                                                                                                                      |
+| Infusion-related reactions                                                            | Grade 1                                                                                         | Interrupt or slow the rate of infusion.                                                                                                                                                       |
+| Infusion-related reactions                                                            | Grade 2                                                                                         | First occurrence: Interrupt infusion and resume at 50% of the original rate if symptoms resolve within 1 hour. Subsequent occurrences: Permanently discontinue after recommended prophylaxis. |
+| Infusion-related reactions                                                            | Grade 3                                                                                         | Permanently discontinue. If rapidly responsive to symptomatic management and/or to brief interruption of infusion, retifanlimab does not need to be permanently discontinued.                 |
+| Infusion-related reactions                                                            | Grade 4                                                                                         | Permanently discontinue.                                                                                                                                                                      |
 
 AST = aspartate aminotransferase; ALT = alanine aminotransferase; ULN = upper limit of normal; TB = total bilirubin; SJS = Stevens-Johnson syndrome; TEN = toxic epidermal necrolysis.
 
@@ -135,11 +149,11 @@ No dose adjustment is needed for patients with mild or moderate renal impairment
 
 No dose adjustment is needed for patients with mild hepatic impairment. There are insufficient data in patients with moderate hepatic impairment and no data in patients with severe hepatic impairment and therefore no dosing recommendations can be made (see section 5.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Paediatric population
 
-There is no relevant use of retifanlimab in children and adolescents below the age of 18 years with Merkel cell carcinoma.
+There is no relevant use of retifanlimab in children and adolescents below the age of 18 years with squamous cell carcinoma of the anal canal and Merkel cell carcinoma.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Method of administration
 
@@ -173,11 +187,9 @@ In patients with pre-existing autoimmune disease (AID), data from observational 
 
 ## Immune-related pneumonitis
 
-Immune-related pneumonitis has been reported in patients receiving retifanlimab (see section 4.8). Patients should be monitored for signs and symptoms of pneumonitis. Suspected pneumonitis should
+Immune-related pneumonitis has been reported in patients receiving retifanlimab (see section 4.8). Patients should be monitored for signs and symptoms of pneumonitis. Suspected pneumonitis should be confirmed with radiographic imaging and other causes excluded. Patients should be managed with retifanlimab treatment modifications and corticosteroids (see Table 1).
 
 <div style=\"page-break-after: always\"></div>
-
-be confirmed with radiographic imaging and other causes excluded. Patients should be managed with retifanlimab treatment modifications and corticosteroids (see Table 1).
 
 ## Immune-related colitis
 
@@ -215,19 +227,25 @@ Immune-related nephritis has been reported in patients receiving retifanlimab (s
 
 Immune-related skin reactions, such as toxic epidermal necrolysis, have been reported in patients receiving retifanlimab (see section 4.8). Events of Stevens-Johnson syndrome have been reported in patients treated with PD-1 inhibitors. Patients should be monitored for signs and symptoms of skin reactions. Immune-related skin reactions should be managed as recommended in Table 1.
 
-<div style=\"page-break-after: always\"></div>
-
 Caution should be used when considering the use of retifanlimab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other checkpoint inhibitors.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Other immune-related adverse reactions
 
-Clinically significant, immune-related adverse reactions were reported in patients treated with retifanlimab in clinical studies including: uveitis, arthritis, myositis, demyelinating polyneuropathy (e.g. Guillain Barré syndrome), pancreatitis and myocarditis (see section 4.8).
+Clinically significant, immune-related adverse reactions were reported in patients treated with retifanlimab in clinical studies including: uveitis, arthritis, myositis, demyelinating polyneuropathy (e.g. Guillain Barré syndrome), pancreatitis, myocarditis, cholangitis, and stomatitis (see section 4.8).
 
 Patients should be monitored for signs and symptoms of immune-related adverse reactions and managed with retifanlimab treatment modifications as described in section 4.2.
 
 ## Infusion-related reactions
 
 As with any therapeutic protein, retifanlimab can cause infusion-related reactions, some of which may be severe. Patients should be monitored for signs and symptoms of infusion-related reactions. Retifanlimab treatment should be interrupted or the rate of infusion slowed or treatment should be permanently discontinued based on severity of reaction and the response to treatment (see section 4.2). Premedication with an antipyretic and/or an antihistamine should be considered for patients who have had previous clinically significant reactions to infusions of therapeutic proteins (see section 4.8).
+
+## Haematology
+
+The concomitant administration of retifanlimab with carboplatin and paclitaxel increased the risk and severity of neutropaenia.
+
+Frequent hematological monitoring is recommended and treatment guidelines for neutropenia should be followed.
 
 ## Transplant-related adverse reactions
 
@@ -241,17 +259,17 @@ Fatal and other serious complications can occur in patients who receive allogene
 
 ## Patients excluded from the clinical programme
 
-Patients with the following status were excluded from the clinical programme: Eastern Cooperative Oncology Group (ECOG) baseline performance score ≥ 2; symptomatic central nervous system metastases; prior immunotherapy or autoimmune disease that required systemic therapy with immunosuppressant agents; history of other malignancies within the last 3 years; organ transplant; or active hepatitis infection. Patients with uncontrolled HIV infection (CD4+ count &lt; 300 cells/μL, detectable viral load, or not receiving highly active antiretroviral therapy) were also excluded.
+Patients with the following status were excluded from the clinical programme: Eastern Cooperative Oncology Group (ECO G) baseline performance score ≥ 2; symptomatic central nervous system metastases; prior immunotherapy or autoimmune disease that required systemic therapy with immunosuppressant agents; history of other malignancies within the last 3 years; organ transplant; or active hepatitis infection. Patients with uncontrolled HIV infection (CD4+ count &lt; 300 cells/μL, detectable viral load, or not receiving highly active antiretroviral therapy) were also excluded.
 
 ## Sodium content
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is essentially 'sodium-free'.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No formal pharmacokinetic drug interaction studies have been conducted with retifanlimab. Since retifanlimab is cleared from the circulation through catabolism, no metabolic drug-drug interactions are expected.
-
-<div style=\"page-break-after: always\"></div>
 
 The use of systemic corticosteroids or immunosuppressants before starting retifanlimab, except for physiological doses of systemic corticosteroids (≤ 10 mg/day prednisone or equivalent), should be avoided because of their potential interference with the pharmacodynamic activity and efficacy of retifanlimab. However, systemic corticosteroids or other immunosuppressants can be used after starting retifanlimab to treat immune-related adverse reactions (see sections 4.2 and 4.4).
 
@@ -277,6 +295,8 @@ Human IgGs are known to be excreted in breast milk during the first few days aft
 
 No clinical data are available on the possible effects of retifanlimab on fertility. Animal reproduction studies to evaluate the effect of retifanlimab on fertility have not been conducted.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
 ZYNYZ has minor influence on the ability to drive and use machines. Because of potential adverse reactions such as fatigue (see section 4.8), patients should be advised to use caution when driving or operating machinery until they are certain that retifanlimab does not adversely affect them.
@@ -287,117 +307,153 @@ ZYNYZ has minor influence on the ability to drive and use machines. Because of p
 
 Immune-related adverse reactions occurred with retifanlimab. Most of these, including severe reactions, resolved following initiation of appropriate medical therapy or withdrawal of retifanlimab (see 'Description of selected adverse reactions' below).
 
-The most common adverse reactions are fatigue (35.4%), rash (18.8%), diarrhoea (18.6%), anaemia (16.2%), pruritus (15.9%), arthralgia (13.3%), constipation (13.3%), nausea (13.3%), pyrexia (13.1%) and decreased appetite (12.6%). Adverse reactions were serious in 11.7% of patients; most serious adverse reactions were immune-related adverse reactions.
+The safety of retifanlimab as monotherapy has been evaluated in 452 patients with advanced solid malignancies who received the recommended 500 mg every 4 weeks dose, including 107 patients with metastatic or recurrent locally advanced MCC. Median duration of treatment was 5.4 months (range, 1 day - 27 months). The most common adverse reactions were fatigue (35.4%), rash (18.8%), diarrhoea (18.6%), anaemia (16.2%), pruritus (15.9%), arthralgia (13.3%), constipation (13.3%), nausea (13.3%), pyrexia (13.1%) and decreased appetite (12.6%). Adverse reactions were serious in 11.7% of patients; most serious adverse reactions were immune-related adverse reactions.  ZYNYZ was permanently discontinued due to adverse reactions in 8% of patients; most of them were immune-related events.
 
-<div style=\"page-break-after: always\"></div>
-
-ZYNYZ was permanently discontinued due to adverse reactions in 8% of patients; most of them were immune-related events.
+The safety of retifanlimab in combination with carboplatin and paclitaxel has been evaluated in 154 patients with metastatic or with inoperable locally recurrent SCAC. Median duration of retifanlimab treatment was 7.4 months (range, 1 day - 14.6 months). The most common adverse reactions were neutropenia (70.1%), pruritus (24%), rash (23.4%), lymphopenia (14.3%), hypothyroidism (14.3%), and alanine aminotransferase increased (10.4%). Adverse reactions were serious in 13.6% of patients; most serious adverse reactions were immune-related adverse reactions. ZYNYZ was permanently discontinued due to adverse reactions in 5.8% of patients; most of them were immune-related events.
 
 ## Tabulated list of adverse reactions
 
-The safety of retifanlimab has been evaluated in 452 patients with advanced solid malignancies who received the recommended 500 mg every 4 weeks dose, including 107 patients with metastatic or recurrent locally advanced MCC. Median duration of treatment was 5.4 months (range, 1 day - 27 months). The frequencies included below are based on all reported adverse drug reactions, regardless of the investigator assessment of causality.
+Adverse reactions reported in the pooled dataset for patients treated with ZYNYZ monotherapy (N = 452) and in combination with carboplatin and paclitaxel (N = 154) are presented in Table 2.
 
-These reactions are presented by system organ class and by frequency. Frequencies are defined as: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt; 1/10); uncommon ( ≥ 1/1 000 to &lt; 1/100); rare ( ≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing incidence.
-
-Table 2: Adverse reactions in patients treated with retifanlimab (N = 452)
-
-| System organ class                              | Frequency of all grades                                                                                                     | Frequency of grades 3-4                                                |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| Blood and lymphatic system disorders            | Very common Anaemia a                                                                                                       | Common Anaemia a                                                       |
-| Endocrine disorders                             | Common Hypothyroidism, Hyperthyroidism Uncommon Adrenal insufficiency Thyroiditis b Hypophysitis Type 1 diabetes mellitus c | Uncommon Adrenal insufficiency Hypophysitis Type 1 diabetes mellitus c |
-| Metabolism and nutrition disorders              | Very common Decreased appetite                                                                                              | Uncommon Decreased appetite                                            |
-| Nervous system disorders                        | Common Paraesthesia Uncommon Polyneuropathy d Radiculopathy Vocal cord paralysis                                            | Uncommon Polyneuropathy d Radiculopathy                                |
-| Eye disorders                                   | Uncommon Uveitis e Keratitis                                                                                                | Uncommon Uveitis e                                                     |
-| Cardiac disorders                               | Uncommon Pericarditis Myocarditis                                                                                           | Uncommon Myocarditis                                                   |
-| Respiratory, thoracic and mediastinal disorders | Common Pneumonitis f                                                                                                        | Uncommon Pneumonitis f                                                 |
-| Gastrointestinal disorders                      | Very common Diarrhoea Nausea Constipation Common Colitis g Uncommon                                                         | Uncommon Diarrhoea Pancreatitis Colitis g                              |
+These reactions are presented by system organ class and by frequency. Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing incidence.
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                                   | Frequency of all grades                                                                                                                                                                                                   | Frequency of grades 3-4                                                                                                           |
-|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-|                                                      | Pancreatitis                                                                                                                                                                                                              |                                                                                                                                   |
-| Hepatobiliary disorders                              | Common Hepatocellular injury Hepatitis h Uncommon Hyperbilirubinaemia Cholangitis                                                                                                                                         | Uncommon Hepatitis h Hepatocellular injury Cholangitis Hyperbilirubinaemia                                                        |
-| Skin and subcutaneous skin disorders                 | Very common Rash i Pruritus                                                                                                                                                                                               | Common Rash i                                                                                                                     |
-| Musculoskeletal and connective tissue disorders      | Very common Arthralgia Uncommon Arthritis j Myositis Eosinophilic fasciitis Polymyalgia rheumatica                                                                                                                        | Uncommon Arthralgia Arthritis j Myositis Eosinophilic fasciitis                                                                   |
-| Renal and urinary disorders                          | Common Acute kidney injury Renal failure Uncommon Tubulointerstitial nephritis                                                                                                                                            | Uncommon Acute kidney injury Tubulointerstitial nephritis                                                                         |
-| General disorders and administration site conditions | Very common Fatigue k Pyrexia                                                                                                                                                                                             | Common Fatigue k Uncommon Pyrexia                                                                                                 |
-| Investigations                                       | Common Transaminases increased l Blood creatinine increased Amylase increased Lipase increased Blood bilirubin increased Blood thyroid stimulating hormone increased Uncommon Blood thyroid stimulating hormone decreased | Common Transaminases increased l Uncommon Blood bilirubin increased Lipase increased Blood creatinine increased Amylase increased |
-| Injury, poisoning and procedural complications       | Common Infusion-related reaction m                                                                                                                                                                                        | Uncommon Infusion-related reaction m                                                                                              |
+Table 2: Adverse reactions in patients treated with retifanlimab
 
-- a Includes anaemia, iron deficiency anaemia, anaemia of malignant disease and anaemia vitamin B12 deficiency
-
-b Includes thyroiditis and autoimmune thyroiditis
-
-c Includes diabetic ketoacidosis
-
-d Includes polyneuropathy and demyelinating polyneuropathy
-
-e Includes uveitis and iritis
-
-f Includes pneumonitis, interstitial lung disease, organising pneumonia and lung infiltration
-
-g Includes colitis and immune-mediated enterocolitis
-
-h Includes hepatitis and autoimmune hepatitis
-
-i Includes rash, rash maculo-papular, rash erythematous, rash pruritic, dermatitis, psoriasis, rash macular, rash papular, lichenoid keratosis, rash pustular, dermatitis bullous, palmar-plantar erythrodyseasthesia syndrome, toxic epidermal necrolysis and toxic skin eruption
+|                                                 | Retifanlimab monotherapy (N = 452)                                                                                          | Retifanlimab monotherapy (N = 452)                                     | Retifanlimab in combination with carboplatin and paclitaxel (N = 154)                                                                                                      | Retifanlimab in combination with carboplatin and paclitaxel (N = 154)                                       |
+|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| System organ class                              | Frequency of all grades                                                                                                     | Frequency of grades 3-4                                                | Frequency of all grades                                                                                                                                                    | Frequency of grades 3-4                                                                                     |
+| Blood and lymphatic system disorders            | Very common Anaemia a                                                                                                       | Common Anaemia a                                                       | Very common Lymphopenia b Neutropenia c                                                                                                                                    | Very common Neutropenia c Common Lymphopenia b                                                              |
+| Endocrine disorders                             | Common Hypothyroidism, Hyperthyroidism Uncommon Adrenal insufficiency Thyroiditis d Hypophysitis Type 1 diabetes mellitus e | Uncommon Adrenal insufficiency Hypophysitis Type 1 diabetes mellitus e | Very common Hypothyroidism Common Adrenal insufficiency Hyperthyroidism Hypophysitis Hyperglycaemia Uncommon Autoimmune thyroiditis Secondary adrenocortical insufficiency | Common Adrenal insufficiency Uncommon Hypothyroidism Hyperthyroidism Secondary adrenocortical insufficiency |
+| Metabolism and nutrition disorders              | Very common Decreased appetite                                                                                              | Uncommon Decreased appetite                                            | Common Hyponatraemia                                                                                                                                                       | Common Hyponatraemia                                                                                        |
+| Nervous system disorders                        | Common Paraesthesia Uncommon Polyneuropathy f Radiculopathy Vocal cord paralysis                                            | Uncommon Polyneuropathy f Radiculopathy                                | Very common Peripheral sensory neuropathy Common Peripheral motor neuropathy Peripheral sensorimotor neuropathy                                                            | Common Peripheral sensorimotor neuropathy                                                                   |
+| Eye disorders                                   | Uncommon Uveitis g Keratitis                                                                                                | Uncommon Uveitis g                                                     |                                                                                                                                                                            |                                                                                                             |
+| Cardiac disorders                               | Uncommon Pericarditis Myocarditis                                                                                           | Uncommon Myocarditis                                                   |                                                                                                                                                                            |                                                                                                             |
+| Respiratory, thoracic and mediastinal disorders | Common Pneumonitis h                                                                                                        | Uncommon Pneumonitis h                                                 |                                                                                                                                                                            |                                                                                                             |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class   | Frequency of all grades   | Frequency of grades 3-4   |
-|----------------------|---------------------------|---------------------------|
+|                                                      | Retifanlimab monotherapy (N = 452)                                                                                       | Retifanlimab monotherapy (N = 452)                                                   | Retifanlimab in combination with carboplatin and paclitaxel (N = 154)                      | Retifanlimab in combination with carboplatin and paclitaxel (N = 154)                           |
+|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| Gastrointestinal disorders                           | Very common Diarrhoea Nausea Constipation Common Colitis i Uncommon Pancreatitis                                         | Uncommon Diarrhoea Pancreatitis Colitis i                                            | Very common Colitis j Common Stomatitis                                                    | Common Colitis j                                                                                |
+| Hepatobiliary disorders                              | Common Hepatocellular injury Hepatitis k Uncommon Hyperbilirubinaemia Cholangitis                                        | Uncommon Hepatitis k Hepatocellular injury Cholangitis Hyperbilirubinaemia           | Common Hepatitis l Uncommon Immune-mediated cholangitis                                    | Common Hepatitis l Uncommon Immune-mediated cholangitis                                         |
+| Skin and subcutaneous skin disorders                 | Very common Rash m Pruritus                                                                                              | Common Rash m                                                                        | Very common Pruritus Rash n                                                                | Common Rash n Uncommon Pruritus                                                                 |
+| Musculoskeletal and connective tissue disorders      | Very common Arthralgia Uncommon Arthritis o Myositis Eosinophilic fasciitis Polymyalgia rheumatica                       | Uncommon Arthralgia Arthritis o Myositis Eosinophilic fasciitis                      | Common Arthritis                                                                           |                                                                                                 |
+| Renal and urinary disorders                          | Common Acute kidney injury Renal failure Uncommon Tubulointerstitial nephritis                                           | Uncommon Acute kidney injury Tubulointerstitial nephritis                            |                                                                                            |                                                                                                 |
+| General disorders and administration site conditions | Very common Fatigue p Pyrexia                                                                                            | Common Fatigue p Uncommon Pyrexia                                                    | Very common Asthenia                                                                       | Common Asthenia                                                                                 |
+| Investigations                                       | Common Transaminases increased q Blood creatinine increased Amylase increased Lipase increased Blood bilirubin increased | Common Transaminases increased q Uncommon Blood bilirubin increased Lipase increased | Very common Alanine aminotransferase increased Common Aspartate aminotransferase increased | Common Alanine aminotransferase increased Aspartate aminotransferase increased Lipase increased |
 
-- j Includes arthritis and polyarthritis
-- k Includes asthenia and fatigue
-- l Includes transaminases increased, alanine aminotransferase increased and aspartate aminotransferase increased
-- m Includes drug hypersensitivity and infusion-related reaction
+<div style=\"page-break-after: always\"></div>
+
+|                                                | Retifanlimab monotherapy (N = 452)                                                               | Retifanlimab monotherapy (N = 452)           | Retifanlimab in combination with carboplatin and paclitaxel (N = 154)   | Retifanlimab in combination with carboplatin and paclitaxel (N = 154)   |
+|------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+|                                                | Blood thyroid stimulating hormone increased Uncommon Blood thyroid stimulating hormone decreased | Blood creatinine increased Amylase increased | Lipase increased Blood creatinine increased Amylase increased           | Uncommon Blood creatinine increased Amylase increased                   |
+| Injury, poisoning and procedural complications | Common Infusion-related reaction r                                                               | Uncommon Infusion-related reaction r         | Common Infusion-related reaction                                        | Uncommon Infusion-related reaction                                      |
+
+a Includes anaemia, iron deficiency anaemia, anaemia of malignant disease and anaemia vitamin B12 deficiency.
+
+b Includes lymphopenia and lymphocyte count decreased.
+
+c Includes neutropenia and neutrophil count decreased.
+
+d Includes thyroiditis and autoimmune thyroiditis.
+
+e Includes diabetic ketoacidosis.
+
+f Includes polyneuropathy and demyelinating polyneuropathy.
+
+g Includes uveitis and iritis.
+
+h Includes pneumonitis, interstitial lung disease, organising pneumonia and lung infiltration.
+
+i Includes colitis and immune mediated enterocolitis.
+
+j Includes colitis, immune mediated enterocolitis and immune mediated diarrhoea.
+
+k Includes hepatitis and autoimmune hepatitis.
+
+l Includes hepatitis and immune-mediated hepatitis.
+
+- m Includes rash, rash maculo-papular, rash erythematous, rash pruritic, dermatitis, psoriasis, rash macular, rash papular, lichenoid keratosis, rash pustular, dermatitis bullous, palmar-plantar erythrodyseasthesia syndrome, toxic epidermal necrolysis and toxic skin eruption.
+- n Includes rash, rash erythematous, rash maculo-papular and rash pruritic.
+- o Includes arthritis and polyarthritis.
+
+p Includes asthenia and fatigue.
+
+q Includes transaminases increased, alanine aminotransferase increased and aspartate aminotransferase increased.
+
+- r Includes drug hypersensitivity and infusion related reaction.
 
 ## Description of selected adverse reactions
 
-The selected adverse reactions described below are based on the safety of retifanlimab in a pooled safety population of 452 patients with advanced solid malignancies, including patients with metastatic or recurrent locally advanced MCC. The management guidelines for these adverse reactions are described in section 4.2.
+The selected adverse reactions described below are based on the safety of retifanlimab monotherapy in a pooled safety population of 452 patients with advanced solid malignancies, including patients with metastatic or recurrent locally advanced MCC and on the safety of retifanlimab in combination with carboplatin and paclitaxel in 154 patients with metastatic or with inoperable locally recurrent SCAC. The management guidelines for these adverse reactions are described in section 4.2.
 
 ## Immune-related adverse reactions (see section 4.4)
 
 ## Immune-related pneumonitis
 
-Immune-related pneumonitis occurred in 3.1% of patients receiving retifanlimab, including 1.3% of patients with Grade 2, 0.9% of patients with Grade 3 and 0.2% of patients with Grade 5. The median time to onset of pneumonitis was 100 days (range, 43 - 673 days). Pneumonitis led to discontinuation of retifanlimab in 0.2% of patients. Among the patients with pneumonitis, 71.4% received systemic corticosteroids. Pneumonitis resolved in 78.6% of patients, with a median time to resolution of 37 days (range, 9 - 104 days).
+Immune-related pneumonitis occurred in 3.1% of patients receiving retifanlimab monotherapy, including 1.3% of patients with Grade 2, 0.9% of patients with Grade 3 and 0.2% of patients with Grade 5. The median time to onset of pneumonitis was 100 days (range, 43 - 673 days). Pneumonitis led to discontinuation of retifanlimab in 0.2% of patients. Among the patients with pneumonitis, 71.4% received systemic corticosteroids. Pneumonitis resolved in 78.6% of patients, with a median time to resolution of 37 days (range, 9 - 104 days).
 
 ## Immune-related colitis
 
-Immune-related colitis occurred in 2.7% of patients receiving retifanlimab, including 1.1% of patients with Grade 2, 0.4% of patients with Grade 3 and 0.2% of patients with Grade 4. The median time to onset of colitis was 165.5 days (range, 11 - 749 days). Colitis led to discontinuation of retifanlimab in 0.9% of patients. Among the patients with colitis, 75% received systemic corticosteroids and 8.3% received another immunosuppressant (infliximab). Colitis resolved in 66.7% of patients, with a median time to resolution of 83.5 days (range, 15 - 675 days).
-
-## Immune-related nephritis
-
-Immune-related nephritis occurred in 2% of patients receiving retifanlimab, including 0.4% of patients with Grade 2, 1.1% of patients with Grade 3 and 0.4% of patients with Grade 4. The median time to onset of nephritis was 176 days (range, 15 - 515 days). Nephritis led to discontinuation of retifanlimab in 1.1% of patients. Among the patients with nephritis, 66.7% received systemic corticosteroids. Nephritis resolved in 44.4% of patients, with a median time to resolution of 22.5 days (range, 9 - 136 days).
-
-## Immune-related endocrinopathies
-
-Hypothyroidism occurred in 10.2% of patients receiving retifanlimab, including 4.9% of patients with Grade 2. The median time to onset of hypothyroidism was 88 days (range, 1 - 505 days). None of the events led to discontinuation of retifanlimab. Hypothyroidism resolved in 32.6% of patients, with a median time to resolution of 56 days (range, 2 - 224 days).
-
-Hyperthyroidism occurred in 5.8% of patients receiving retifanlimab, including 2.7% of patients with Grade 2. The median time to onset of hyperthyroidism was 55.5 days (range, 8 - 575 days). None of the events led to discontinuation of retifanlimab. Hyperthyroidism resolved in 61.5% of patients, with a median time to resolution of 74 days (range, 15 - 295 days).
-
-Hypophysitis occurred in 0.7% of patients receiving retifanlimab, including 0.4% of patients with Grade 2 and 0.2% of patients with Grade 3. The median time to onset of hypophysitis was 308 days (range, 266 - 377 days). Hypophysitis led to discontinuation of retifanlimab in 0.2% of patients. Hypophysitis resolved in 33.3% of patients, with a time to resolution of 6 days.
-
-Adrenal insufficiency occurred in 0.9% of patients receiving retifanlimab, including 0.4% of patients with Grade 2 and 0.4% of patients with Grade 3. The median time to onset of adrenal insufficiency
+Immune-related colitis occurred in 2.7% of patients receiving retifanlimab monotherapy, including 1.1% of patients with Grade 2, 0.4% of patients with Grade 3 and 0.2% of patients with Grade 4. The median time to onset of colitis was 165.5 days (range, 11 - 749 days). Colitis led to discontinuation of retifanlimab in 0.9% of patients. Among the patients with colitis, 75% received systemic
 
 <div style=\"page-break-after: always\"></div>
 
-was 220.5 days (range, 146 - 275 days). None of the events led to discontinuation of retifanlimab. Adrenal insufficiency resolved in 25% of patients, with a time to resolution of 12 days.
+corticosteroids and 8.3% received another immunosuppressant (infliximab). Colitis resolved in 66.7% of patients, with a median time to resolution of 83.5 days (range, 15 - 675 days).
 
-Type 1 diabetes mellitus presenting as diabetic ketoacidosis (Grade 3) occurred in 0.2% of patients receiving retifanlimab. The time to onset of diabetic ketoacidosis was 284 days. The event did not lead to discontinuation of retifanlimab and resolved with a time to resolution of 6 days.
+In patients with SCAC receiving retifanlimab in combination with carboplatin and paclitaxel, immune-related colitis occurred in 10.4% of patients, including 3.2% of patients with Grade 2, 2.6% of patients with Grade 3 and 0.6% of patients with Grade 4. The median time to onset of colitis was 83.5 days (range, 3 - 271 days). Colitis led to discontinuation of retifanlimab in 1.3% of patients. Among the patients with colitis, 93.8% received systemic corticosteroids and 6.3% received another immunosuppressant (infliximab). Colitis resolved in 93.8% of patients, with a median time to resolution of 27 days (range, 1 - 102 days).
+
+## Immune-related nephritis
+
+Immune-related nephritis occurred in 2% of patients receiving retifanlimab monotherapy, including 0.4% of patients with Grade 2, 1.1% of patients with Grade 3 and 0.4% of patients with Grade 4. The median time to onset of nephritis was 176 days (range, 15 - 515 days). Nephritis led to discontinuation of retifanlimab in 1.1% of patients. Among the patients with nephritis, 66.7% received systemic corticosteroids. Nephritis resolved in 44.4% of patients, with a median time to resolution of 22.5 days (range, 9 - 136 days).
+
+## Immune-related endocrinopathies
+
+Hypothyroidism occurred in 10.2% of patients receiving retifanlimab monotherapy, including 4.9% of patients with Grade 2. The median time to onset of hypothyroidism was 88 days (range, 1 - 505 days). None of the events led to discontinuation of retifanlimab. Hypothyroidism resolved in 32.6% of patients, with a median time to resolution of 56 days (range, 2 - 224 days).
+
+In patients with SCAC receiving retifanlimab in combination with carboplatin and paclitaxel, hypothyroidism occurred in 14.3% of patients, including 9.1% of patients with Grade 2 and 0.6% of patients with Grade 4. The median time to onset of hypothyroidism was 138.5 days (range, 55 - 390 days). Hypothyroidism led to discontinuation of retifanlimab in 1 patient. Hypothyroidism resolved in 27.3% of patients, with a median time to resolution of 114 days (range, 57 - 212 days).
+
+Hyperthyroidism occurred in 5.8% of patients receiving retifanlimab monotherapy, including 2.7% of patients with Grade 2. The median time to onset of hyperthyroidism was 55.5 days (range, 8 - 575 days). None of the events led to discontinuation of retifanlimab. Hyperthyroidism resolved in 61.5% of patients, with a median time to resolution of 74 days (range, 15 - 295 days).
+
+In patients with SCAC receiving retifanlimab in combination with carboplatin and paclitaxel, hyperthyroidism occurred in 8.4% of patients, including 3.2% of patients with Grade 2 and 0.6% of patients with Grade 3. The median time to onset of hyperthyroidism was 82 days (range, 8 - 278 days). None of the events led to discontinuation of retifanlimab. Hyperthyroidism resolved in 76.9% of patients, with a median time to resolution of 29 days (range, 8 - 130 days).
+
+Hypophysitis occurred in 0.7% of patients receiving retifanlimab monotherapy, including 0.4% of patients with Grade 2 and 0.2% of patients with Grade 3. The median time to onset of hypophysitis was 308 days (range, 266 - 377 days). Hypophysitis led to discontinuation of retifanlimab in 0.2% of patients. Hypophysitis resolved in 33.3% of patients, with a time to resolution of 6 days.
+
+In patients with SCAC receiving retifanlimab in combination with carboplatin and paclitaxel, hypophysitis occurred in 2 patients (1.3%, both Grade 2). The median time to onset of hypophysitis was 192 days (range, 90 - 294 days). Neither of the events led to discontinuation of retifanlimab. Hypophysitis resolved in 1 of the 2 patients, with a time to resolution of 8 days.
+
+Adrenal insufficiency occurred in 0.9% of patients receiving retifanlimab monotherapy, including 0.4% of patients with Grade 2 and 0.4% of patients with Grade 3. The median time to onset of adrenal insufficiency was 220.5 days (range, 146 - 275 days). None of the events led to discontinuation of retifanlimab. Adrenal insufficiency resolved in 25% of patients, with a time to resolution of 12 days.
+
+<div style=\"page-break-after: always\"></div>
+
+In patients with SCAC receiving retifanlimab in combination with carboplatin and paclitaxel, adrenal insufficiency occurred in 5.8% of patients, including 1.9% of patients with Grade 2 and 1.9% of patients with Grade 3. The median time to onset of adrenal insufficiency was 197 days (range, 63 - 302 days). One event led to discontinuation of retifanlimab. Adrenal insufficiency resolved in 44.4% of patients, with a time to resolution of 13.5 days.
+
+Type 1 diabetes mellitus presenting as diabetic ketoacidosis (Grade 3) occurred in 0.2% of patients receiving retifanlimab monotherapy. The time to onset of diabetic ketoacidosis was 284 days. The event did not lead to discontinuation of retifanlimab and resolved with a time to resolution of 6 days.
 
 ## Immune-related hepatitis
 
-Immune-related hepatitis occurred in 3.5% of patients receiving retifanlimab, including 0.9% of patients with Grade 2, 2.4% of patients with Grade 3 and 0.2% of patients with Grade 4. The median time to onset of hepatitis was 70.5 days (range, 8 - 580 days). Hepatitis led to discontinuation of retifanlimab in 1.5% of patients. Among the patients with hepatitis, 81.3% of patients received systemic corticosteroids and 6.3% of patients received another immunosuppressant (mycophenolate mofetil). Hepatitis resolved in 56.3% of patients, with a median time to resolution of 22 days (range, 6 - 104 days).
+Immune-related hepatitis occurred in 3.5% of patients receiving retifanlimab monotherapy, including 0.9% of patients with Grade 2, 2.4% of patients with Grade 3 and 0.2% of patients with Grade 4. The median time to onset of hepatitis was 70.5 days (range, 8 - 580 days). Hepatitis led to discontinuation of retifanlimab in 1.5% of patients. Among the patients with hepatitis, 81.3% of patients received systemic corticosteroids and 6.3% of patients received another immunosuppressant (mycophenolate mofetil). Hepatitis resolved in 56.3% of patients, with a median time to resolution of 22 days (range, 6 - 104 days).
+
+In patients with SCAC receiving retifanlimab in combination with carboplatin and paclitaxel, immune-related hepatitis occurred in 2 patients (1.3%, both Grade 3). The median time to onset of hepatitis was 195.5 days (range, 140 - 251 days). Hepatitis led to discontinuation of retifanlimab in 1 patient. Both patients with hepatitis received systemic corticosteroids and another immunosuppressant (mycophenolate mofetil). Hepatitis resolved in both patients, with a median time to resolution of 58.5 days (range, 57 - 60 days).
 
 ## Immune-related skin reactions
 
-Immune-related skin reactions occurred in 9.5% of patients receiving retifanlimab, including 8% of patients with Grade 2, 1.1% of patients with Grade 3 and 0.2% of patients with Grade 4. The median time to onset of skin reactions was 86 days (range, 2 - 589 days). Skin reactions led to discontinuation of retifanlimab in 0.7% of patients. Among the patients with skin reactions, 32.6% of patients received systemic corticosteroids. Skin reactions resolved in 72.1% of patients, with a median time to resolution of 37 days (range, 3 - 470 days).
+Immune-related skin reactions occurred in 9.5% of patients receiving retifanlimab monotherapy, including 8% of patients with Grade 2, 1.1% of patients with Grade 3 and 0.2% of patients with Grade 4. The median time to onset of skin reactions was 86 days (range, 2 - 589 days). Skin reactions led to discontinuation of retifanlimab in 0.7% of patients. Among the patients with skin reactions, 32.6% of patients received systemic corticosteroids. Skin reactions resolved in 72.1% of patients, with a median time to resolution of 37 days (range, 3 - 470 days).
 
-## Infusion-related reactions
+In patients with SCAC receiving retifanlimab in combination with carboplatin and paclitaxel, immune-related skin reactions occurred in 11.7% of patients, including 9.7% of patients with Grade 2 and 1.9% of patients with Grade 3. The median time to onset of skin reactions was 46.5 days (range, 2 - 443 days). Skin reactions led to discontinuation of retifanlimab in 2 patients. Among the patients with skin reactions, 33.3% of patients received systemic corticosteroids. Skin reactions resolved in 72.2% of patients, with a median time to resolution of 22 days (range, 5 - 385 days).
 
-Infusion-related reactions occurred in 6.2% of patients, including 2.2% of patients with Grade 2 and 0.4% of patients with Grade 3. Infusion-related reactions led to discontinuation of retifanlimab in 0.4% patients.
+## Infusion related-reactions
+
+Infusion-related reactions occurred in 6.2% of patients receiving retifanlimab monotherapy, including 2.2% of patients with Grade 2 and 0.4% of patients with Grade 3. Infusion-related reactions led to discontinuation of retifanlimab in 0.4% patients.
+
+In patients with SCAC receiving retifanlimab in combination with carboplatin and paclitaxel, infusion-related reactions occurred in 9.7% of patients, including 1.9% of patients with Grade 3. None of the infusion-related reactions led to discontinuation of retifanlimab.
+
+## Laboratory abnormalities
+
+In patients with SCAC receiving retifanlimab in combination with chemotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality occurring in &gt; 3% of patients was 42.8% for decreased lymphocytes, 52% for decreased neutrophils, 4.5 % for lipase, 3.9 % for alanine aminotransferase, and 3.9% for aspartate aminotransferase.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
@@ -417,8 +473,6 @@ Pharmacotherapeutic group: Antineoplastic agents, PD-1/PD-L1 (Programmed cell de
 
 Retifanlimab is an immunoglobulin G4 (IgG4) monoclonal antibody that binds to the programmed death receptor-1 (PD-1) and blocks its interaction with its ligands PD-L1 and PD-L2. Engagement of PD-1 with its ligands PD-L1 and PD-L2, which are expressed by antigen presenting cells and may be expressed by tumour cells and/or other cells in the tumour microenvironment, results in inhibition of T-cell function such as proliferation, cytokine secretion and cytotoxic activity. Retifanlimab binds to the PD-1 receptor, blocks interaction with its ligands PD-L1 and PD-L2, and potentiates T-cell activity.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pharmacodynamic effects
 
 ## Immunogenicity
@@ -427,15 +481,62 @@ Anti-drug antibodies (ADA) were uncommonly detected. No evidence of ADA impact o
 
 ## Clinical efficacy and safety
 
-The efficacy and safety of retifanlimab was studied in the POD1UM-201 study, an open-label, single-arm, multiregional study that enrolled patients with metastatic or recurrent locally advanced MCC who had not received prior systemic therapy for their advanced disease. Patients with active autoimmune disease or a medical condition that required immunosuppression, severe hepatic or renal impairment, clinically significant cardiac disease, history of organ transplant, or Eastern Cooperative Oncology Group (ECO G) performance score (PS) ≥ 2 were ineligible. Patients who were HIVpositive, with an undetectable viral load, a CD4+ count ≥ 300 cells/microliter and receiving antiretroviral therapy were eligible.
+## Squamous cell carcinoma of the anal canal (SCAC)
 
-Patients received retifanlimab 500 mg every 4 weeks until disease progression or unacceptable toxicity for a maximum of 2 years. Assessment of efficacy was performed every 8 weeks for the first year of therapy and 12 weeks thereafter. The major efficacy outcome measure of confirmed objective response rate, and duration of response were assessed by an independent central review committee according to Response Evaluation Criteria in Solid Tumours (RECIST) v1.1. All ongoing responses were followed for a minimum of 12 months.
+The efficacy and safety of retifanlimab in combination with carboplatin and paclitaxel was studied in the POD1UM-303/InterAACT-2 study, a randomised, multicenter, double-blind phase III study that enrolled patients with chemotherapy-naïve metastatic or inoperable locally recurrent SCAC. Patients with active autoimmune disease or a medical condition that required immunosuppression, severe hepatic or renal impairment, clinically significant cardiac disease, history of organ transplant, Eastern Cooperative Oncology Group (ECOG) performance score (PS) ≥ 2 , or evidence of interstitial lung disease or active noninfectious pneumonitis were ineligible. Patients who had not received prior systemic therapy other than a radiosensitising agent or neoadjuvant or adjuvant therapy completed &gt; 6 months prior to study entry were eligible as were patients who were HIV-positive if they had an undetectable viral load, a CD4+ count ≥ 200 cells/microliter and were receiving antiretroviral therapy. The study did not enroll patients who received prior treatment with PD-(L)1 directed therapies. Randomisation was stratified by PDL1 expression (&lt; 1% versus ≥ 1%), region, and extent of disease (locally recurrent versus metastatic). Patients were randomised (1:1) to receive either:
+
+- Retifanlimab 500 mg intravenously every 4 weeks on Day 1, carboplatin AUC of 5 mg/mL on Day 1, and paclitaxel 80 mg/m 2 on Days 1, 8, and 15 for 6 cycles followed by retifanlimab 500 mg intravenously every 4 weeks.
+- Placebo intravenously every 4 weeks on Day 1, carboplatin AUC 5 mg/mL on Day 1, and paclitaxel 80 mg/m 2 on Days 1, 8, and 15 for 6 cycles followed by placebo 500 mg intravenously every 4 weeks.
+
+<div style=\"page-break-after: always\"></div>
+
+Treatment with retifanlimab continued until disease progression, unacceptable toxicity, death, or withdrawal of consent, for up to 12 months. Tumour response assessments were performed every 8 weeks throughout the treatment period. Patients who received placebo in combination with carboplatin and paclitaxel and who experienced documented disease progression (verified by blinded independent central review (BICR)), had the option of receiving retifanlimab 500 mg monotherapy in a crossover treatment period.
+
+Among the 308 patients enrolled, the median age was 62 years (range, 29 - 86 years) with 31 (10.1%) age 75 or older; 27.9% of patients were male, 87.3% of patients were Caucasian and the ECOG performance status was 0 (54.5%) or 1 (45.1%). Seventy-one percent of patients were reported to have had prior radiotherapy and 34.7% had prior surgery. Four percent of patients were HIV-positive. Eighty-three percent of patients had metastatic disease at baseline. PDL1 expression of ≥ 1% was present in 91% of tumours.
+
+The primary efficacy endpoint was progression-free survival (PFS) as assessed by a BICR according to Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 and the key secondary endpoint was overall survival (OS). Additional secondary efficacy endpoints included objective response rate (ORR) and duration of response (DOR).
+
+Efficacy results are summarised in Table 3, Figure 1, and Figure 2.
+
+Table 3: Efficacy results in POD1UM-303/InterAACT-2 for patients with metastatic or inoperable locally recurrent SCAC
+
+| Endpoint                         | ZYNYZ in combination with carboplatin and paclitaxel (N = 154)   | Placebo in combination with carboplatin and paclitaxel (N = 154)   |
+|----------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------|
+| Progression-free survival a,b    |                                                                  |                                                                    |
+| Events, n (%)                    | 92 (59.7)                                                        | 110 (71.4)                                                         |
+| Median in months (95% CI)        | 9.3 (7.5, 11.3)                                                  | 7.4 (7.1, 7.7)                                                     |
+| Hazard ratio (95% CI)            | 0.63 (0.47, 0.84)                                                | 0.63 (0.47, 0.84)                                                  |
+| p-value c                        | 0.0013                                                           | 0.0013                                                             |
+| Overall survival d               |                                                                  |                                                                    |
+| Deaths, n (%)                    | 78 (50.6)                                                        | 94 (61.0)                                                          |
+| Median in months (95% CI)        | 32.8 (25.7, 44.5)                                                | 22.2 (15.7, 27.2)                                                  |
+| Hazard ratio (95% CI)            | 0.75 (0.55, 1.01)                                                | 0.75 (0.55, 1.01)                                                  |
+| Objective response rate a        |                                                                  |                                                                    |
+| Objective response rate (95% CI) | 55.8% (47.6, 63.8)                                               | 44.2% (36.2, 52.4)                                                 |
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 1: Kaplan-Meier curve for PFS in POD1UM-303/InterAACT-2 (Final Analysis)
+
+<!-- image -->
+
+Figure 2: Kaplan-Meier curve for OS in POD1UM-303/InterAACT-2 (Final Analysis)
+
+<!-- image -->
+
+## Merkel cell carcinoma (MCC)
+
+The efficacy and safety of retifanlimab was studied in the POD1UM-201 study, an open-label, single-arm, multiregional study that enrolled patients with metastatic or recurrent locally advanced MCC who had not received prior systemic therapy for their advanced disease. Patients with active autoimmune disease or a medical condition that required immunosuppression, severe hepatic or renal impairment, clinically significant cardiac disease, history of organ transplant, or ECOG PS ≥ 2 were ineligible. Patients who were HIV-positive, with an undetectable viral load, a CD4+ count ≥ 300 cells/microliter and receiving antiretroviral therapy were eligible.
+
+<div style=\"page-break-after: always\"></div>
+
+Patients received retifanlimab 500 mg every 4 weeks until disease progression or unacceptable toxicity for a maximum of 2 years. Assessment of efficacy was performed every 8 weeks for the first year of therapy and 12 weeks thereafter. The major efficacy outcome measure of confirmed objective response rate, and duration of response were assessed by an independent central review committee according to RECIST v1.1. All ongoing responses were followed for a minimum of 12 months.
 
 A total of 101 patients were analysed for efficacy. The median age of enrolled patients was 71.1 years (range, 38 - 90 years) with 39 (39%) age 75 or older; 67.3% of patients were male, all but one patient were Caucasian and the Eastern Cooperative Oncology Group performance status was 0 (73.3%) or 1 (26.7%). Thirty-seven percent of patients were reported to have had prior radiotherapy and 68.3% had prior surgery. Ninety percent of patients had metastatic disease. One patient was HIV-positive. The majority of tumour samples tested (72.3%) were positive for Merkel cell polyomavirus (MCPyV).
 
-Efficacy results are summarized in Table 3. The median duration of treatment was 10.3 months (range, 1 day - 24.8 months).
+Efficacy results are summarised in Table 4. The median duration of treatment was 10.3 months (range, 1 day - 24.8 months).
 
-Table 3: Efficacy results in POD1UM-201 study for patients with metastatic or recurrent locally advanced MCC
+Table 4: Efficacy results in POD1UM-201 study for patients with metastatic or recurrent locally advanced MCC
 
 | Endpoint                         | ZYNYZ (N = 101)    |
 |----------------------------------|--------------------|
@@ -447,46 +548,48 @@ Table 3: Efficacy results in POD1UM-201 study for patients with metastatic or re
 | Median in months (95% CI)        | 25.3 (14.2, NE)    |
 | Minimum, maximum (months)        | 1.1, 38.7+         |
 
-CI = confidence interval; NE = not estimable; + denotes ongoing response.
-
 Median duration of follow-up: 17.6 months (range, 1.1 - 38.7 months).
 
 ## Efficacy and PD-L1/MCPyV status
 
-Clinical activity was observed regardless of PD-L1 or MCPyV status. Table 4 summarises the objective response rates by tumour PD-L1 expression and MCPyV status of chemotherapy-naïve MCC patients with central biomarker results in the POD1UM-201 study.
+Clinical activity was observed regardless of PD-L1 or MCPyV status. Table 5 summarises the objective response rates by tumour PD-L1 expression and MCPyV status of chemotherapy-naïve MCC patients with central biomarker results in the POD1UM-201 study.
 
-<div style=\"page-break-after: always\"></div>
+Table 5: Objective response rates by tumour PD-L1 expression and MCPyV status
 
-Table 4: Objective response rates by tumour PD-L1 expression and MCPyV status
-
-|                                          | ZYNYZ Objective response rates (95% CI) N = 101   |
-|------------------------------------------|---------------------------------------------------|
-| PD-L1 expression a at cut- off of ≥ 1%   |                                                   |
-| Positive (n = 83)                        | 57.8% (46.5, 68.6)                                |
-| Negative or missing (n = 18)             | 33.3% (13.3, 59.0)                                |
-| MCPyV status                             |                                                   |
-| Positive (n = 73)                        | 52.1% (40, 63.9)                                  |
-| Negative, equivocal, or missing (n = 28) | 57.1% (37.2, 75.5)                                |
+|                                                        | ZYNYZ Objective response rates (95% CI) N = 101   |
+|--------------------------------------------------------|---------------------------------------------------|
+| PD-L1 expression a at cut- off of ≥ 1% Positive (n=83) | 57.8% (46.5, 68.6)                                |
+| Negative or missing (n=18)                             | 33.3% (13.3, 59.0)                                |
+| MCPyV status Positive (n=73)                           | 52.1% (40, 63.9)                                  |
+| Negative, equivocal, or missing (n=28)                 | 57.1% (37.2, 75.5)                                |
 
 MCPyV = Merkel cell polyomavirus.
 
 a PD-L1 expression was determined by IHC using Combined Positive Score (CPS) interpretation.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Elderly population
 
-Of the 101 patients treated with retifanlimab in the efficacy population, 76.2% (77/101) were 65 years or older, and 38.6% (39/101) were 75 years or older. Objective response rates in these age groups were 55.8% (95% CI: 44.1, 67.2) and 48.7% (95% CI: 32.4, 65.2), respectively.
+## Squamous cell carcinoma of the anal canal (SCAC)
+
+Of the 154 patients treated with retifanlimab in combination with carboplatin and paclitaxel in the efficacy population in POD1UM-303/InterAACT-2, 37.7% (58/154) were 65 years or older, and 9.1% (14/154) were 75 years or older. No overall differences in efficacy were observed between elderly patients and younger patients treated with retifanlimab in combination with carboplatin and paclitaxel.
+
+## Merkel cell carcinoma (MCC)
+
+Of the 101 patients treated with retifanlimab in the efficacy population in POD1UM-201, 76.2% (77/101) were 65 years or older, and 38.6% (39/101) were 75 years or older.  Objective response rates in these age groups were 55.8% (95% CI: 44.1, 67.2) and 48.7% (95% CI: 32.4, 65.2), respectively.
 
 ## Paediatric population
 
-The European Medicines Agency has waived the obligation to submit the results of studies with ZYNYZ in all subsets of the paediatric population for the treatment of MCC. See 4.2 for information on paediatric use.
+The European Medicines Agency has waived the obligation to submit the results of studies with ZYNYZ in all subsets of the paediatric population for the treatment of MCC and SCAC. See 4.2 for information on paediatric use.
 
 ## 5.2 Pharmacokinetic properties
 
-The pharmacokinetics (PK) of retifanlimab were characterised using a population pharmacokinetics analysis with concentration data collected from 634 patients with various cancers who received retifanlimab doses of 1, 3, 10 mg/kg every 2 weeks, 375 mg every 3 weeks, or 3 mg/kg, 10 mg/kg, 500 mg and 750 mg every 4 weeks. The AUC was dose proportional in the studied dose range. The geometric mean (CV%) of Cmax and AUC at steady state for the recommended 500 mg every 4 weeks dose were 193 mg/L (24.1%) and 2190 day*mg/L (32.4%).
+The pharmacokinetics (PK) of retifanlimab were characterised using a population pharmacokinetics analysis with concentration data collected from 788 patients with various cancers who received retifanlimab doses of 1, 3, 10 mg/kg every 2 weeks, 375 mg every 3 weeks, or 3 mg/kg, 10 mg/kg, 500 mg and 750 mg every 4 weeks. The AUC was dose proportional in the studied dose range. The geometric mean (CV%) of Cmax and AUC at steady state for the recommended 500 mg every 4 weeks dose were 197 mg/L (25.4%) and 2270 day*mg/L (35.1%).
 
 ## Distribution
 
-The geometric mean value (CV%) for volume of distribution at steady state is 6.1 L (20.2%).
+The geometric mean value (CV%) for volume of distribution at steady state is 6 L (19.8%).
 
 ## Biotransformation
 
@@ -494,21 +597,23 @@ The metabolic route of retifanlimab has not been characterised. Retifanlimab is 
 
 ## Elimination
 
-A geometric mean (CV%) clearance of 0.314 L/day (36%), without accounting for the time-varying part of the clearance, with a half-life of 14.6 days (31.5%) and 18.7 days (28.7%), after first-dose and at steady-state, respectively, were estimated in the population pharmacokinetic analyses.
+The geometric mean (CV%) clearance of retifanlimab after the first dose was 0.301 L/day (38.3%) and decreased over time by 22.9%, resulting in a steady-state clearance of 0.232 L/day (35.7%). For the recommended 500 mg every 4 weeks dose, half-life is 15.6 days (31.5%) and 19.8 days (29.9%) after first-dose and at steady-state, respectively.
 
 ## Special Populations
 
-The following factors are not expected to have clinically important effects on the pharmacokinetics of retifanlimab: age (range: 18 to 94 years), weight (35 to 133 kg), sex, race, or tumour burden.
+The following factors are not expected to have clinically important effects on the pharmacokinetics of retifanlimab: age (range: 18 to 94 years), weight (33 to 133 kg), sex, race, or tumour burden.
 
 ## Renal impairment
 
-The effect of renal impairment on the clearance of retifanlimab was evaluated by population pharmacokinetic analyses in patients with mild (n = 277) or moderate (n = 142) renal impairment (eGFR between 89 and 30 mL/min/1.73m 2 ; n = 419) compared to patients with normal renal function (eGFR ≥ 90 mL/min/1.73m 2 ; n = 200). No clinically important differences were found in the clearance of retifanlimab. There are limited data in patients with severe renal impairment (n = 4, lowest eGFR 26.0 mL/min/1.73m 2 ). Retifanlimab has not been studied in patients with end-stage renal disease.
-
-<div style=\"page-break-after: always\"></div>
+The effect of renal impairment on the clearance of retifanlimab was evaluated by population pharmacokinetic analyses in patients with mild (n = 354) or moderate (n = 151) renal impairment (eGFR between 89 and 30 mL/min/1.73m 2 ; n = 505) compared to patients with normal renal function (eGFR ≥ 90 mL/min/1.73m 2 ; n = 263). No clinically important differences were found in the clearance of retifanlimab. There are limited data in patients with severe renal impairment (n = 4, lowest eGFR 26.0 mL/min/1.73m 2 ). Retifanlimab has not been studied in patients with end-stage renal disease.
 
 ## Hepatic impairment
 
-The effect of hepatic impairment on the clearance of retifanlimab was evaluated by population pharmacokinetic analyses in patients with mild (n = 78; TB &gt; ULN to 1.5 ULN or AST &gt; ULN) hepatic impairment compared to patients with normal (n = 555; TB and AST ≤ ULN ) hepatic function. No clinically important differences were found in the clearance of retifanlimab. There are limited data in patients with moderate (n = 1; TB between 1.5 and 3.0 times ULN and any AST) hepatic impairment. Retifanlimab has not been studied in patients with severe (TB between 3.0 and 10 times ULN and any AST) hepatic impairment.
+The effect of hepatic impairment on the clearance of retifanlimab was evaluated by population pharmacokinetic analyses in patients with mild (n = 93; TB &gt; ULN to 1.5 ULN or AST &gt; ULN) hepatic impairment compared to patients with normal (n = 692; TB and AST ≤ ULN ) hepatic function. No clinically important differences were found in the clearance of retifanlimab. There are limited data in patients with moderate (n = 1; TB between 1.5 and 3.0 times ULN and any AST) hepatic
+
+<div style=\"page-break-after: always\"></div>
+
+impairment. Retifanlimab has not been studied in patients with severe (TB between 3.0 and 10 times ULN and any AST) hepatic impairment.
 
 ## 5.3 Preclinical safety data
 
@@ -536,15 +641,13 @@ Unopened vial 2 years
 
 Chemical and physical in-use stability has been demonstrated for 24 hours at 2 ºC to 8 ºC and 8 hours at room temperature (20 ºC to 25 ºC).
 
-From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and
-
-<div style=\"page-break-after: always\"></div>
-
-would normally not be longer than 24 hours at 2 ºC to 8 °C, unless dilution has taken place in controlled and validated aseptic conditions.
+From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 ºC to 8 °C, unless dilution has taken place in controlled and validated aseptic conditions.
 
 ## 6.4 Special precautions for storage
 
 Store in a refrigerator (2 °C to 8 °C).
+
+<div style=\"page-break-after: always\"></div>
 
 Do not freeze.
 
@@ -578,13 +681,15 @@ Each carton contains one vial.
 - Retifanlimab is for single use only; discard any unused portion left in the vial.
 - Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Incyte Biosciences Distribution B.V. Paasheuvelweg 25 1105 BP Amsterdam Netherlands
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+<div style=\"page-break-after: always\"></div>
+
+8.
+
+MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/24/1800/001
 
@@ -746,8 +851,7 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -763,7 +867,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| VIAL LABEL                                                       |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -824,7 +930,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ZYNYZ contains the active substance retifanlimab, a monoclonal antibody (a protein that recognises and attaches to a specific target substance in the body). ZYNYZ helps your immune system fight your cancer.
 
-ZYNYZ is used in adults to treat Merkel cell carcinoma , a rare type of skin cancer . It is given when the cancer has spread or returned and cannot be treated with surgery or radiation.
+## ZYNYZ is used in adults to treat:
+
+- Squamous cell carcinoma of the anal canal , the most common type of anal cancer . It is given when the cancer has spread or returned after initial treatment and cannot be treated with surgery. When used to treat this type of cancer, ZYNYZ is given in combination with chemotherapy. It is important that you also read the package leaflets for the specific chemotherapy you may be receiving. If you have any questions about these medicines, ask your doctor.
+- Merkel cell carcinoma , a rare type of skin cancer . It is given when the cancer has spread or returned and cannot be treated with surgery or radiation.
 
 ## 2. What you need to know before you are given ZYNYZ
 
@@ -840,11 +949,12 @@ Talk to your doctor or nurse before you are given ZYNYZ if you have:
 - had a solid organ transplant or a bone marrow (stem cell) transplant that used donor stem cells
 - lung or breathing problems
 - liver or kidney problems
+
+<div style=\"page-break-after: always\"></div>
+
 - diabetes
 
 ZYNYZ acts on your immune system. It may cause inflammation in parts of your body. Your risk of these side effects may be higher if you already have an autoimmune disease (a condition where the body attacks its own cells). You may also experience frequent flares of your autoimmune disease, which in the majority of cases are mild.
-
-<div style=\"page-break-after: always\"></div>
 
 Tell your doctor immediately if you have any of the following symptoms during treatment or if they get worse:
 
@@ -856,7 +966,7 @@ Tell your doctor immediately if you have any of the following symptoms during tr
 - kidney inflammation . Symptoms include decreased volume of urine, foamy urine, passing blood or traces of blood in the urine that may change its colour, swollen ankles or loss of appetite.
 - skin problems that can lead to a severe skin reaction known as toxic epidermal necrolysis and Stevens-Johnson syndrome. Symptoms include rash, itching, skin blistering or ulcers in the mouth or in the lining of the nose, throat or genital area.
 - inflammation in other parts of the body such as eyes (changes in eyesight), joints, muscles, nerves, pancreas (symptoms include abdominal pain, nausea or vomiting), or of the heart muscle.
-- infusion-related reactions such as chills, shaking, rigor, fever, itching, rash, flushing or swollen face, shortness of breath or wheezing, feeling dizzy or faint.
+- infusion -related reactions such as chills, shaking, rigor, fever, itching, rash, flushing or swollen face, shortness of breath or wheezing, feeling dizzy or faint.
 
 If you have any of the above-mentioned symptoms during treatment, do not try to treat your symptoms with other medicines on your own. Your doctor may:
 
@@ -874,11 +984,11 @@ Complications of solid organ transplant rejection, including graft-versus-host d
 
 ZYNYZ should not be given to children and adolescents under 18 years of age because it has not been studied in this patient group.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other medicines and ZYNYZ
 
-Tell your doctor or nurse if you are using, have recently used or might use any other medicines. This applies in particular to medicines that suppress your immune system, such as corticosteroids, which may disrupt the effect of ZYNYZ. Once you are treated with ZYNYZ, your doctor may prescribe corticosteroids to reduce side effects that you may have during treatment. This will not impact the effect of the medicine.
-
-<div style=\"page-break-after: always\"></div>
+Tell your doctor or nurse if you are using, have recently used or might use any other medicines. This applies in particular to medicines that weaken your immune system, such as corticosteroids (prednisone is one example), which may interfere with the effect of ZYNYZ. When you are treated with ZYNYZ, your doctor may prescribe corticosteroids to reduce side effects that you may have during treatment.
 
 ## Contraception
 
@@ -906,6 +1016,8 @@ ZYNYZ will be given to you in a hospital or clinic, supervised by a doctor exper
 
 The recommended dose of ZYNYZ is 500 mg every 4 weeks.
 
+For the treatment of squamous cell carcinoma of the anal canal, ZYNYZ is given in combination with carboplatin and paclitaxel.
+
 Your doctor will give you ZYNYZ as a drip into a vein (intravenous infusion) which will last about 30 minutes.
 
 Your doctor will decide how many treatments you need.
@@ -918,6 +1030,8 @@ It is very important that you do not miss a dose of this medicine. Contact your 
 
 Stopping your treatment may stop the effect of the medicine. Do not stop treatment with ZYNYZ without the agreement of your doctor.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Patient card
 
 Important information from this package leaflet can be found in the patient card you have been given by your doctor. It is important that you keep this patient card and show it to your partner or caregivers.
@@ -928,23 +1042,23 @@ If you have any further questions about your treatment, ask your doctor or nurse
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-<div style=\"page-break-after: always\"></div>
-
 ZYNYZ can have serious side effects, which can sometimes become life-threatening and can lead to death. These side effects may happen at any time during treatment, or even after your treatment has ended. You may get more than one side effect at the same time (See section 2, 'Warnings and precautions' for symptoms).
 
-## Tell your doctor immediately if you have any of the following serious side effects :
+## The following side effects have been reported in clinical trials of patients with Merkel cell carcinoma treated with retifanlimab alone.
 
-## Common (may affect up to 1 in 10 people):
+Tell your doctor immediately if you have any of the following serious side effects :
+
+Common (may affect up to 1 in 10 people):
 
 - lung inflammation (pneumonitis)
 - bowel inflammation (colitis)
 - liver inflammation (hepatitis)
 - liver cell injury (hepatocellular injury)
-- sudden kidney damage (acute kidney failure)
+- sudden kidney damage (acute kidney injury)
 - kidney failure (renal failure)
 - infusion-related reactions that can cause symptoms such as chills, shaking or fever, itching or rash, flushing or swollen face, being short of breath or wheezing, feeling dizzy or nausea.
 
-## Uncommon (may affect up to 1 in 100 people)
+Uncommon (may affect up to 1 in 100 people)
 
 - inflammation of the pituitary gland in the base of the brain (hypophysitis)
 - acid in the blood produced from diabetes (diabetic ketoacidosis)
@@ -957,9 +1071,9 @@ ZYNYZ can have serious side effects, which can sometimes become life-threatening
 - inflammation of the heart muscle (myocarditis)
 - inflammation of the pancreas (pancreatitis)
 
-## Other side effects may occur with the following frequencies:
+Other side effects may occur with the following frequencies:
 
-## Very common (may affect more than 1 in 10 people):
+Very common (may affect more than 1 in 10 people):
 
 - decrease in the number of red blood cells (anaemia)
 - decreased appetite
@@ -969,6 +1083,9 @@ ZYNYZ can have serious side effects, which can sometimes become life-threatening
 - rash
 - itching of the skin (pruritus)
 - joint pain (arthralgia)
+
+<div style=\"page-break-after: always\"></div>
+
 - tiredness (fatigue)
 - fever (pyrexia)
 
@@ -980,14 +1097,11 @@ ZYNYZ can have serious side effects, which can sometimes become life-threatening
 - increased blood level of liver enzymes, including alanine aminotransferase, aspartate aminotransferase
 - increased blood levels of bilirubin
 - increased blood levels of creatinine
-
-<div style=\"page-break-after: always\"></div>
-
 - increased blood levels of thyroid stimulating hormone
 - increased level of amylase, an enzyme that breaks down starch
 - increased levels of lipase, an enzyme that breaks down fats
 
-Uncommon (may affect up to 1 in 100 people):
+## Uncommon (may affect up to 1 in 100 people):
 
 - decreased secretion of hormones produced by the adrenal glands (adrenal insufficiency)
 - thyroid gland inflammation (thyroiditis)
@@ -998,6 +1112,52 @@ Uncommon (may affect up to 1 in 100 people):
 - inflammation of the tissue between the muscle and skin which may cause skin swelling (eosinophilic fasciitis)
 - inflammation of the muscles causing pain or stiffness (polymyalgia rheumatica)
 - decreased blood levels of thyroid stimulating hormone
+
+## The following side effects have been reported in clinical trial of patients with squamous cell carcinoma of the anal canal treated with retifanlimab in combination with chemotherapy.
+
+## Tell your doctor immediately if you have any of the following serious side effects :
+
+## Very common (may affect more than 1 in 10 people)
+
+- bowel inflammation (colitis)
+- inflammation of the nerves causing numbness, weakness, difficulty in moving, tingling or burning pain of the hands, arms and legs
+
+## Common (may affect up to 1 in 10 people):
+
+- inflammation of the pituitary gland in the base of the brain (hypophysitis)
+- liver inflammation (hepatitis)
+- infusion-related reactions that can cause symptoms such as chills, shaking or fever, itching or rash, flushing or swollen face, being short of breath or wheezing, feeling dizzy or nausea.
+
+## Other side effects may occur with the following frequencies:
+
+## Very common (may affect more than 1 in 10 people):
+
+- decrease in the number of white blood cells (lymphopenia and neutropenia)
+- underactive thyroid gland (hypothyroidism)
+- itching of the skin (pruritus)
+- rash
+- unusual tiredness or weakness (asthenia)
+- increased blood level of the liver enzyme alanine aminotransferase
+
+<div style=\"page-break-after: always\"></div>
+
+Common (may affect up to 1 in 10 people):
+
+- decreased secretion of hormones produced by the adrenal glands (adrenal insufficiency and secondary adrenocortical insufficiency)
+- overactive thyroid gland (hyperthyroidism)
+- increased blood levels of sugar (hyperglycaemia)
+- decreased blood levels of sodium (hyponatraemia)
+- inflammation of the gums (stomatitis)
+- joint inflammation (arthritis)
+- increased blood level of liver enzymes, including aspartate aminotransferase
+- increased levels of lipase, an enzyme that breaks down fats
+- increased blood levels of creatinine
+- increased level of amylase, an enzyme that breaks down starch
+
+Uncommon (may affect up to 1 in 100 people):
+
+- thyroid gland inflammation (thyroiditis)
+- inflammation of the bile ducts (cholangitis)
 
 ## Reporting of side effects
 
@@ -1021,14 +1181,17 @@ Do not store any unused medicine for reuse. Any unused medicine or waste materia
 
 ## What ZYNYZ contains
 
-- The active substance is retifanlimab. One mL of concentrate for solution for infusion contains 25 mg of retifanlimab. One vial of 20 mL of concentrate contains 500 mg of retifanlimab.
+- The active substance is retifanlimab.
+
+One mL of concentrate for solution for infusion contains 25 mg of retifanlimab. One vial of 20 mL of concentrate contains 500 mg of retifanlimab.
+
 - The other ingredients are sodium acetate trihydrate (E262), acetic acid (glacial) (E260), sucrose, polysorbate 80 (E433), water for injections. See section 2 'ZYNYZ contains sodium\".
+
+<div style=\"page-break-after: always\"></div>
 
 ## What ZYNYZ looks like and contents of the pack
 
 ZYNYZ is a clear to slightly opalescent, colourless to pale yellow concentrate for solution for infusion (sterile concentrate).
-
-<div style=\"page-break-after: always\"></div>
 
 It is available in a pack containing 1 glass vial of 20 mL of concentrate.
 
@@ -1036,7 +1199,7 @@ It is available in a pack containing 1 glass vial of 20 mL of concentrate.
 
 Incyte Biosciences Distribution B.V. Paasheuvelweg 25 1105 BP Amsterdam Netherlands
 
-## This leaflet was last revised in { MM/YYYY }
+This leaflet was last revised in { MM/YYYY }
 
 ## Other sources of information
 
@@ -1068,20 +1231,12 @@ The following information is intended for healthcare professionals only:
 
 ## Annex IV
 
-Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
+Conclusions on the request for one-year marketing protection presented by the European Medicines Agency
 
 <div style=\"page-break-after: always\"></div>
 
-## Scientific conclusions
+## Conclusions presented by the European Medicines Agency on:
 
-Taking into account the PRAC Assessment Report on the PSUR(s) for retifanlimab, the scientific conclusions of PRAC are as follows:
+## · one-year marketing protection
 
-In view of data on patients with pre-existing autoimmune disease, that suggest an increased risk of immune-mediated adverse reactions and flares of the underlying autoimmune disease following therapy from the literature, the PRAC concluded that the product information of products containing retifanlimab should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for retifanlimab the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing retifanlimab is unchanged subject to the proposed changes to the product information
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.
+The CHMP reviewed the data submitted by the marketing authorisation holder, taking into account the provisions of Article 14(11) of Regulation (EC) No 726/2004, and considers that the new therapeutic indication brings significant clinical benefit in comparison with existing therapies as further explained in the European Public Assessment Report.

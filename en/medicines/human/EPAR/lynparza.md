@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-02-19 16:30:00
+document_datetime: 2026-03-19 14:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lynparza.html
 document_name: lynparza.html
 version: success
-processing_time: 0.2103904
-conversion_datetime: 2026-02-21 12:27:41.91642
+processing_time: 0.1258479
+conversion_datetime: 2026-03-21 11:40:40.061092
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Lynparza
 
 [RSS](/en/individual-human-medicine.xml/67036)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -161,7 +161,7 @@ English (EN) (159.3 KB - PDF)
 
 [View](/en/documents/overview/lynparza-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-48)
+[Other languages (22)](#file-language-dropdown-819)
 
 български (BG) (186.45 KB - PDF)
 
@@ -427,16 +427,6 @@ svenska (SV) (157.03 KB - PDF)
 
 [View](/sv/documents/overview/lynparza-epar-medicine-overview_sv.pdf)
 
-Lynparza : EPAR - Risk-management-plan
-
-English (EN) (741.13 KB - PDF)
-
-**First published:** 09/01/2015
-
-**Last updated:** 19/02/2026
-
-[View](/en/documents/rmp-summary/lynparza-epar-risk-management-plan_en.pdf)
-
 ## Product information
 
 Lynparza : EPAR - Product Information
@@ -449,7 +439,7 @@ English (EN) (1.72 MB - PDF)
 
 [View](/en/documents/product-information/lynparza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-84)
+[Other languages (24)](#file-language-dropdown-954)
 
 български (BG) (1.72 MB - PDF)
 
@@ -765,7 +755,7 @@ English (EN) (35.27 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-508)
+[Other languages (24)](#file-language-dropdown-272)
 
 български (BG) (35.76 KB - PDF)
 
@@ -1159,9 +1149,13 @@ English (EN) (305.51 KB - PDF)
 
 Lynparza-H-C-WS2463 : EPAR - Assessment Report - Variation
 
-English (EN) (13.45 MB - PDF)
+Reference Number: EMA/346655/2024
+
+English (EN) (13.46 MB - PDF)
 
 **First published:** 20/08/2024
+
+**Last updated:** 19/03/2026
 
 [View](/en/documents/variation-report/lynparza-h-c-ws2463-epar-assessment-report-variation_en.pdf)
 
@@ -1401,7 +1395,7 @@ English (EN) (44.36 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-lynparza_en.pdf)
 
-#### News on Lynparza
+## News on Lynparza
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2024) 28/06/2024
 
@@ -1423,7 +1417,7 @@ English (EN) (44.36 KB - PDF)
 
 [Lynparza recommended for approval in ovarian cancer](/en/news/lynparza-recommended-approval-ovarian-cancer) 24/10/2014
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1437,7 +1431,7 @@ English (EN) (2.15 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-154)
+[Other languages (24)](#file-language-dropdown-301)
 
 български (BG) (2.1 MB - DOCX)
 
@@ -1727,13 +1721,13 @@ svenska (SV) (2.28 MB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Lynparza
+## More information on Lynparza
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](/en/medicines/human/orphan-designations/eu307501) on 6 December 2007.
 
 Lynparza was withdrawn from the Community register of orphan medicinal products in March 2018 upon request of the marketing authorisation holder at the time of the granting of a change to the terms of the marketing authorisation.
 
-#### Recommendations on medication errors
+## Recommendations on medication errors
 
 Lynparza: warning that new tablets are used at different doses to the capsules
 
@@ -1745,16 +1739,16 @@ English (EN) (79.43 KB - PDF)
 
 [View](/en/documents/medication-error/lynparza-warning-new-tablets-are-used-different-doses-capsules_en.pdf)
 
-#### More information on Lynparza
+## More information on Lynparza
 
 - [EMEA-002269-PIP01-17-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002269-pip01-17-m03)
 - [Post-Marketing Observational Prospective Study to Assess Real World Outcomes and the Risk of Myelodysplastic syndromes (MDS)/acute myeloid leukaemia (AML) in Platinum Sensitive Relapsed breast cancer susceptibility gene (BRCA) Mutated Ovarian Cancer Patients Treated with Lynparza (olaparib); the LOCALISE Study - post-authorisation study](https://catalogues.ema.europa.eu/study/18336)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 19/02/2026
+**This page was last updated on** 19/03/2026
 
 ## Share this page
 

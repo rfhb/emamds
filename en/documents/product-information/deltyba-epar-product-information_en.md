@@ -1,30 +1,26 @@
 ---
-document_datetime: 2025-05-05 15:09:36
-document_pages: 49
+document_datetime: 2026-03-18 16:20:13
+document_pages: 50
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/deltyba-epar-product-information_en.pdf
 document_name: deltyba-epar-product-information_en.pdf
 version: success
-processing_time: 10.4860422
-conversion_datetime: 2025-12-30 01:43:05.31948
+processing_time: 12.022732
+conversion_datetime: 2026-03-21 12:00:21.558366
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -62,20 +58,23 @@ Delamanid must always be administered as part of an appropriate combination regi
 
 It is recommended that delamanid is administered by directly observed therapy (DOT).
 
-## Posology
+Posology
 
 Adults
 
 The recommended dose for adults is 100 mg twice daily for 24 weeks.
 
-Adolescents and children Paediatric patients with a body weight of
+Adolescents and children
 
-<div style=\"page-break-after: always\"></div>
+Paediatric patients with a body weight of
 
-- -≥ 30 to &lt; 50 kg: the recommended dose is 50 mg twice daily for 24 weeks
-- -≥ 50 kg: the recommended dose is 100 mg twice daily for 24 weeks
+-≥ 30 to &lt; 50 kg: the recommended dose is 50 mg twice daily for 24 weeks
+
+-≥ 50 kg: the recommended dose is 100 mg twice daily for 24 weeks
 
 For patients with a body weight below 30 kg please see the SmPC for Deltyba 25 mg dispersible tablets.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Treatment duration
 
@@ -110,6 +109,494 @@ Delamanid should be taken with food.
 - -Coadministration of medicinal products that are strong inducers of CYP3A4 (e.g. carbamazepine).
 
 ## 4.4 Special warnings and precautions for use
+
+There are no clinical data on the use of delamanid to treat
+
+- -extra pulmonary tuberculosis (e.g. central nervous system, bone)
+- -infections due to Mycobacterial species other than those of the M. tuberculosis complex
+- -latent infection with M. tuberculosis
+
+There are no clinical data on the use of delamanid as part of combination regimens used to treat drugsusceptible M. tuberculosis .
+
+## Resistance to delamanid
+
+Delamanid must only be used in an appropriate combination regimen for MDR-TB treatment as recommended by WHO to prevent development of resistance to delamanid.
+
+## QT prolongation
+
+QT prolongation has been observed in patients treated with delamanid. This prolongation increases slowly over time in the first 6 to 10 weeks of treatment and remains stable thereafter. QTc prolongation is very closely correlated with the major delamanid metabolite DM-6705. Plasma
+
+<div style=\"page-break-after: always\"></div>
+
+albumin and CYP3A4 regulate the formation and metabolism of DM-6705 respectively (see Special Considerations below).
+
+## General recommendations
+
+It is recommended that electrocardiograms (ECG) should be obtained before initiation of treatment and monthly during the full course of treatment with delamanid. If a QTcF &gt; 500 ms is observed either before the first dose of delamanid or during delamanid treatment, treatment with delamanid should either not be started or should be discontinued. If the QTc interval duration exceeds 450/470 ms for male/female patients during delamanid treatment, these patients should be administered more frequent ECG monitoring. It is also recommended that serum electrolytes, e.g. potassium, are obtained at baseline and corrected if abnormal.
+
+## Special considerations
+
+## Cardiac risk factors
+
+Treatment with delamanid should not be initiated in patients with the following risk factors unless the possible benefit of delamanid is considered to outweigh the potential risks. Such patients should receive very frequent monitoring of ECG throughout the full delamanid treatment period.
+
+- -Known congenital prolongation of the QTc-interval or any clinical condition known to prolong the QTc interval or QTc &gt; 500 ms.
+- -History of symptomatic cardiac arrhythmias or with clinically relevant bradycardia.
+- -Any predisposing cardiac conditions for arrhythmia such as severe hypertension, left ventricular hypertrophy (including hypertrophic cardiomyopathy) or congestive cardiac failure accompanied by reduced left ventricle ejection fraction.
+- -Electrolyte disturbances, particularly hypokalaemia, hypocalcaemia or hypomagnesaemia.
+- -Taking medicinal products that are known to prolong the QTc interval. These include (but are not limited to):
+- -Antiarrhythmics (e.g. amiodarone, disopyramide, dofetilide, ibutilide, procainamide, quinidine, hydroquinidine, sotalol).
+- -Neuroleptics (e.g. phenothiazines, sertindole, sultopride, chlorpromazine, haloperidol, mesoridazine, pimozide, or thioridazine), antidepressive agents.
+- -Certain antimicrobial agents, including:
+- -macrolides (e.g. erythromycin, clarithromycin)
+- -moxifloxacin, sparfloxacin (see section 4.4 regarding use with other fluoroquinolones)
+- -bedaquiline
+- -triazole antifungal agents
+- -pentamidine
+- -saquinavir
+- -Certain non-sedating antihistamines (e.g. terfenadine, astemizole, mizolastine).
+- -Certain antimalarials with QT-prolonging potential (e.g. halofantrine, quinine, chloroquine, artesunate/amodiaquine, dihydroartemisinin/piperaquine).
+- -Cisapride, droperidol, domperidone, bepridil, diphemanil, probucol, levomethadyl, methadone, vinca alkaloids, arsenic trioxide.
+
+## Hypoalbuminaemia
+
+In a clinical study, the presence of hypoalbuminaemia was associated with an increased risk of prolongation of the QTc interval in delamanid treated patients. Delamanid is contraindicated in patients with albumin &lt; 2.8 g/dL (see section 4.3). Patients who commence delamanid with serum albumin &lt; 3.4 g/dL or experience a fall in serum albumin into this range during treatment should receive very frequent monitoring of ECGs throughout the full delamanid treatment period.
+
+## Co-administration with strong inhibitors of CYP3A4
+
+Co-administration of delamanid with a strong inhibitor of CYP3A4 (lopinavir/ritonavir) was associated with a 30% higher exposure to the metabolite DM-6705, which has been associated with QTc prolongation. Therefore, if co-administration of delamanid with any strong inhibitor of CYP3A4
+
+<div style=\"page-break-after: always\"></div>
+
+is considered necessary it is recommended that there is very frequent monitoring of ECGs, throughout the full delamanid treatment period.
+
+## Co-administration of delamanid with quinolones
+
+All QTcF prolongations above 60 ms were associated with concomitant fluoroquinolone use. Therefore, if co-administration is considered to be unavoidable in order to construct an adequate treatment regimen for MDR-TB it is recommended that there is very frequent monitoring of ECGs throughout the full delamanid treatment period.
+
+## Hepatic impairment
+
+Deltyba is not recommended in patients with moderate to severe hepatic impairment (see sections 4.2 and 5.2).
+
+## Renal impairment
+
+There are no data on the use of delamanid in patients with severe renal impairment and its use is not recommended (see sections 4.2 and 5.2).
+
+## Paradoxical drug reaction
+
+Post-marketing cases of paradoxical drug reactions (clinical or radiological worsening of existing lesions or development of new lesions in a patient who had previously shown improvement with appropriate antimycobacterial treatment) have been reported with Deltyba. Paradoxical drug reactions are often transient and should not be misinterpreted as failure to respond to treatment. If a paradoxical response is suspected, continuation of planned combination therapy is recommended and symptomatic therapy to suppress the exaggerated immune reaction should be initiated if necessary (see section 4.8).
+
+## Excipients
+
+Deltyba film-coated tablets contain lactose. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
+
+## Effects of other medicinal products on delamanid
+
+## Cytochrome P450 3A4 inducers
+
+Clinical drug-drug interactions studies in healthy subjects indicated a reduced exposure to delamanid, of up to 45% following 15 days of concomitant administration of the strong inducer of cytochrome P450 (CYP) 3A4 (rifampicin 300 mg daily) with delamanid (200 mg daily). No clinically relevant reduction in delamanid exposure was observed with the weak inducer efavirenz when administered at a dose of 600 mg daily for 10 days in combination with delamanid 100 mg twice daily.
+
+## Anti-HIV medicinal products
+
+In clinical drug-drug interaction studies in healthy subjects, delamanid was administered alone (100 mg twice daily) and with tenofovir disoproxil (245 mg daily) or lopinavir/ritonavir (400/100 mg daily) for 14 days and with efavirenz for 10 days (600 mg daily). Delamanid exposure remained unchanged (&lt; 25% difference) with anti-HIV medicinal products tenofovir disoproxil and efavirenz but was slightly increased with the combination anti-HIV medicinal products containing lopinavir/ritonavir.
+
+## Effects of delamanid on other medicinal products
+
+In-vitro studies showed that delamanid did not inhibit CYP450 isozymes.
+
+<div style=\"page-break-after: always\"></div>
+
+In-vitro studies showed that delamanid and metabolites did not have any effect on the transporters MDR1(p-gp), BCRP, OATP1, OATP3, OCT1, OCT2, OATP1B1, OATP1B3 and BSEP, at concentrations of approximately 5 to 20-fold greater than the Cmax at steady state. However, since the concentrations in the gut can potentially be much greater than these multiples of the Cmax, there is a potential for delamanid to have an effect on these transporters.
+
+## Anti-tuberculosis medicinal products
+
+In a clinical drug-drug interaction study in healthy subjects, delamanid was administered alone (200 mg daily) and with rifampicin/isoniazid/pyrazinamide (300/720/1800 mg daily) or ethambutol (1100 mg daily) for 15 days. Exposure of concomitant anti-TB drugs (rifampicin [R]/ isoniazid [H]/ pyrazinamide [Z]) was not affected. Co-administration with delamanid significantly increased steady state plasma concentrations of ethambutol by approximately 25%, the clinical relevance is unknown.
+
+## Anti-HIV medicinal products
+
+In a clinical drug-drug interaction study in healthy subjects, delamanid was administered alone (100 mg twice daily) and tenofovir disoproxil (245 mg daily), lopinavir/ritonavir (400/100 mg daily) for 14 days and with efavirenz for 10 days (600 mg daily). Delamanid given in combination with the anti-HIV-medicines, tenofovir disoproxil, lopinavir/ritonavir and efavirenz, did not affect the exposure to these medicinal products.
+
+## Medicinal products with the potential to prolong QTc
+
+Care must be taken in using delamanid in patients already receiving medicinal products associated with QT prolongation (see section 4.4). Co-administration of moxifloxacin and delamanid in MDR-TB patients has not been studied. Moxifloxacin is not recommended for use in patients treated with delamanid.
+
+## 4.6 Fertility, pregnancy and lactation
+
+## Pregnancy
+
+There are no or limited amount of data from the use of delamanid in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3).
+
+Deltyba is not recommended during pregnancy and in women of childbearing potential not using contraception.
+
+## Breast-feeding
+
+It is unknown whether delamanid/metabolites are excreted in human milk. Available pharmacokinetic/toxicological data in animals have shown excretion of delamanid and/or its metabolites in milk (for details see section 5.3). A risk to the newborns/infants cannot be excluded. It is recommended that women should not breastfeed during treatment with Deltyba.
+
+## Fertility
+
+Deltyba had no effect on male or female fertility in animals (see section 5.3). There are no clinical data on the effects of delamanid on fertility in humans.
+
+## 4.7 Effects on ability to drive and use machines
+
+Deltyba is expected to have a moderate influence on the ability to drive and use machines. Patients should be advised not to drive or use machines if they experience any adverse reaction with a potential impact on the ability to perform these activities (e.g. headache is very common and tremor is common).
+
+## 4.8 Undesirable effects
+
+## Summary of the safety profile
+
+<div style=\"page-break-after: always\"></div>
+
+The most frequently observed adverse drug reactions in patients treated with delamanid + Optimised Background Regimen (OBR) (i.e. incidence &gt; 10%) are nausea (32.9%), vomiting (29.9%), headache (28.4%), sleep disorders and disturbances (28.2%), dizziness (22.4%), gastritis (15.9%) and decreased appetite (13.1%).
+
+## Tabulated list of adverse reactions
+
+The list of adverse drug reactions and frequencies are based on the results from 2 double-blind placebo controlled clinical trials and on spontaneous reports. The adverse drug reactions are listed by MedDRA System Organ Class and Preferred Term. Within each System Organ Class, adverse reactions are listed under frequency categories of very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
+## Table: Adverse drug reactions to delamanid
+
+| System Organ Class                                   | Frequency very common              | Frequency common                                                           | Frequency uncommon   | Frequency not known       |
+|------------------------------------------------------|------------------------------------|----------------------------------------------------------------------------|----------------------|---------------------------|
+| Endocrine disorders                                  | -                                  | Hypothyroidism a                                                           | -                    | -                         |
+| Metabolism and nutrition disorders                   | Decreased appetite                 | -                                                                          | -                    | -                         |
+| Psychiatric disorders                                | Sleep disorders and disturbances b | Psychotic disorder c Anxiety d Depression e Hallucination f                | -                    | -                         |
+| Nervous system disorders                             | Dizziness Headache g               | Hypoaesthesia Tremor                                                       | Lethargy             | -                         |
+| Cardiac disorders                                    | -                                  | Atrioventricular block first degree Ventricular extrasystoles Palpitations | -                    | -                         |
+| Respiratory, thoracic and mediastinal disorders      | -                                  | Throat irritation                                                          | -                    | -                         |
+| Gastrointestinal disorders                           | Nausea Vomiting Gastritis h        | Dyspepsia                                                                  | -                    | -                         |
+| Musculoskeletal and connective tissue disorders      | -                                  | Muscular weakness Muscle spasms                                            | -                    | -                         |
+| General disorders and administration site conditions | -                                  | Chest pain                                                                 | -                    | Paradoxical drug reaction |
+| Investigations                                       | -                                  | Cortisol increased i Electrocardiogram QT prolonged                        | -                    | -                         |
+
+Event terms that represent the same medical concept or condition were grouped together and reported as  a  single  adverse  drug  reaction  in  Table  'Adverse  drug  reactions  to  delamanid'.  Preferred  terms actually reported in the double-blind clinical trials and contributing to the relevant adverse drug reaction are indicated in parentheses, as listed below:
+
+- a. Hypothyroidism (hypothyroidism, primary hypothyroidism)
+
+b. Sleep disorders and disturbances (initial insomnia, insomnia, sleep disorder, nightmare)
+
+<div style=\"page-break-after: always\"></div>
+
+- c. Psychotic disorder (acute psychosis, psychotic disorder, reactive psychosis, substance-induced psychotic disorder)
+- d. Anxiety (anxiety, anxiety disorder, generalised anxiety disorder)
+- e. Depression (adjustment disorder with depressed mood, depressed mood, depression, major depression, mixed anxiety and depressive disorder, persistent depressive disorder, schizoaffective disorder depressive type)
+- f. Hallucination (hallucination; hallucination, auditory; hallucination, visual; hallucination tactile; hallucination mixed; hypnopompic hallucination; hypnagogic hallucination)
+- g. Headache (head discomfort, headache, migraine, sinus headache, tension headache, vascular headache)
+- h. Gastritis (chronic gastritis, gastritis, gastritis erosive)
+- i. Cortisol increased (Cushing's syndrome, hyperadrenocorticism, cortisol increased)
+
+## Description of selected adverse reactions
+
+## ECG QT interval prolongation
+
+In patients receiving 200 mg delamanid total daily dose in the phase 2 and 3 trials, the mean placebo corrected increase in QTcF from baseline ranged from 4.7 - 7.6 ms at 1 month and 5.3 ms - 12.1 ms at 2 months, respectively. The incidence of a QTcF interval &gt; 500 ms ranged from 0.6% (1/161) - 2.1% (7/341) in patients receiving delamanid 200 mg total daily dose versus 0% (0/160) - 1.2% (2/170) of patients receiving placebo + OBR, while the incidence of QTcF change from baseline &gt; 60 ms ranged from 3.1% (5/161) - 10.3% (35/341) in patients receiving delamanid 200 mg total daily dose versus 0% (0/160) - 7.1% (12/170) in patients receiving placebo.
+
+## Palpitations
+
+For patients receiving delamanid + OBR in the phase 2 and 3 trials, the frequency was 7.9% (frequency category common) in comparison to a frequency of 6.7% in patients receiving placebo + OBR.
+
+## Paediatric population
+
+Based on a study (see section 5.1) in 37 paediatric patients aged 0 to 17 years, the frequency, type and severity of adverse reactions in children are expected to be the same as in adults.
+
+Cases of hallucination have been reported predominantly in the paediatric population during postmarketing. The incidence of hallucination in clinical trials was common for children (5.4%) and adults (1%).
+
+Cases of nightmare have been reported predominantly in the paediatric population during postmarketing.
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+## 4.9 Overdose
+
+No cases of delamanid overdose have been observed in clinical trials. However, additional clinical data showed that in patients receiving 200 mg twice daily, i.e. total 400 mg delamanid per day, the overall safety profile is comparable to that in patients receiving the recommended dose of 100 mg twice daily. Albeit, some reactions were observed at a higher frequency and the rate of QT prolongation increased in a dose-related manner. Treatment of overdose should involve immediate measures to remove delamanid from the gastrointestinal tract and supportive care as required. Frequent ECG monitoring should be performed.
+
+<div style=\"page-break-after: always\"></div>
+
+## 5. PHARMACOLOGICAL PROPERTIES
+
+## 5.1 Pharmacodynamic properties
+
+Pharmacotherapeutic group: Antimycobacterials, drugs for treatment of tuberculosis, ATC code: J04AK06.
+
+## Mechanism of action
+
+The pharmacological mode of action of delamanid involves inhibition of the synthesis of the mycobacterial cell wall components, methoxy-mycolic and keto-mycolic acid. The identified metabolites of delamanid do not show anti-mycobacterial activity.
+
+## Activity against specific pathogens
+
+Delamanid has no in vitro activity against bacterial species other than mycobacteria.
+
+## Resistance
+
+Mutation in one of the 5 coenzyme F420 genes is suggested as the mechanism for resistance against delamanid in mycobacteria. In mycobacteria, the in vitro frequencies of spontaneous resistance to delamanid were similar to those for isoniazid and were higher than those for rifampicin. Resistance to delamanid has been documented to occur during treatment (see section 4.4). Delamanid does not show cross-resistance with any of the currently used anti-tuberculosis medicinal products except pretomanid. In vitro studies have shown cross-resistance with pretomanid. This is likely to be due to delamanid and pretomanid being activated via the same pathway.
+
+## Susceptibility testing breakpoints
+
+MIC (minimum inhibitory concentration) interpretive criteria for susceptibility testing have been established by the European Committee on Antimicrobial Susceptibility Testing (EUCAST) for delamanid and are listed here: https://www.ema.europa.eu/documents/other/minimum-inhibitoryconcentration-mic-breakpoints\\_en.xlsx
+
+## Data from clinical studies
+
+Delamanid has been evaluated in two, double-blind, placebo-controlled trials for the treatment of MDR-TB. The analyses of SCC were conducted on the modified intent to treat population which included patients who had positive cultures at baseline and the isolate was resistant to both isoniazid and rifampicin, i.e., had MDR-TB.
+
+In the first trial (Trial 204), 64/141 (45.4%) patients randomised to receive delamanid 100 mg BID + OBR and 37/125 (29.6%) of patients randomised to receive placebo (PLC) + OBR achieved twomonth sputum culture conversion (SCC) (i.e. growth of Mycobacterium tuberculosis to no growth over the first 2 months and maintained for 1 more month) (p = 0.0083). The time to SCC for the group randomised to 100 mg BID was also found to be faster than for the group randomised to receive placebo + OBR (p = 0.0056).
+
+In the second trial (Trial 213), delamanid was administered orally at 100 mg BID as an add-on therapy to an OBR for 2 months followed by 200 mg once daily for 4 months. The median time to SCC was 51 days in the delamanid + OBR group compared with 57 days in the PLC + OBR group (p = 0.0562 using the stratified modified Peto-Peto modification of Gehan's Wilcoxon rank sum test). The proportion of patients achieving SCC (sputum culture conversion) after the 6-month treatment period was 87.6% (198/226) in the delamanid + OBR treatment group compared to 86.1% (87/101) in the placebo + OBR treatment group (p = 0.7131).
+
+All missing cultures up to the time of SCC were assumed to be positive cultures in the primary analysis. Two sensitivity analyses were conducted - a last-observation-carried-forward (LOCF)
+
+<div style=\"page-break-after: always\"></div>
+
+analysis and an analysis using 'bookending' methodology (which required that the previous and subsequent cultures were both observed negative cultures to impute a negative result, otherwise a positive result was imputed). Both showed a 13-day shorter median time to SCC in the delamanid + OBR group (p = 0.0281 for LOCF and p = 0.0052 for 'bookending').
+
+Delamanid resistance (defined as MIC ≥ 0.2 µg/mL) has been observed at baseline in 2 of 316 patients in Trial 204 and 2 of 511 patients in Trial 213 (4 of 827 patients [0.48%]). Delamanid resistance emerged in 4 of 341 patients (1.2%) randomised to receive delamanid for 6 months in Trial 213. These four patients were only receiving two other medicinal products in addition to delamanid.
+
+## end-TB (Evaluating Newly approved Drugs for multidrug resistant TB) study
+
+end-TB was an independent investigator-initiated phase 3, multi-country, open-label, randomised, controlled non-inferiority study in patients aged 15 years and older with pulmonary TB due to Mycobacterium tuberculosis resistant to rifampicin and susceptible to fluoroquinolones. Five 9 -month oral regimens were evaluated versus the then recommended WHO standard of care (SoC) (mostly individualised regimens of ≥ 18 months' duration). Three of the 9 -month regimens contained delamanid: BDLLfxZ (bedaquiline, delamanid, linezolid, levofloxacin and pyrazinamide), DCLLfxZ (delamanid, clofazimine, linezolid, levofloxacin and pyrazinamide) and DCMZ (delamanid, clofazimine, moxifloxacin and pyrazinamide). Delamanid dosing was 100 mg BID.
+
+The primary efficacy outcome was the proportion of participants with a favorable outcome at week 73, defined as the absence of an unfavorable outcome and either two consecutive negative cultures (including one between weeks 65 and 73) or favorable bacteriologic, radiologic, and clinical evolution. Unfavorable outcomes included death (from any cause), the replacement or addition of one drug in the experimental regimens or two drugs in the standard-therapy regimen, or the initiation of new treatment for rifampin-resistant tuberculosis. The maximum duration of follow-up was 104 weeks.
+
+The modified intention-to-treat (mITT) population included all the participants who underwent randomization and received at least one dose of trial treatment and who had a prerandomization culture positive for Mycobacterium tuberculosis .
+
+In the mITT population, 37.8% were women. The median age was 32 years, and 25 participants (3.6%) were younger than 18 years of age; 14.0% were living with HIV infection and 57.1% of the participants had cavitation on chest radiography.
+
+The outcome of the primary efficacy analysis is presented in the table below.
+
+Table 2. Primary Efficacy Analysis for endTB (mITT)
+
+|                                             | BDLLfxZ (N = 122)   | DCLLfxZ (N = 118)    | DCMZ (N = 107)     | Standard Therapy (N = 119)   |
+|---------------------------------------------|---------------------|----------------------|--------------------|------------------------------|
+| Participants with favorable outcome - n (%) | 104 (85.2)          | 93 (78.8)            | 89 (83.2)          | 96 (80.7)                    |
+| Difference from standard therapy (95% CI)   | 4.6 (-4.9 to 14.1)  | - 1.9 (-12.1 to 8.4) | 2.5 (-7.5 to 12.5) |                              |
+
+Based on hierarchical testing, four experimental regimens were found to be non-inferior to standard therapy in the mITT analysis. Non-inferiority to standard therapy was established for two of the three delamanid-containing regimens (BDLLfxZ and DCMZ). Week 104 data confirmed these results.
+
+WHO analysis of week 104 data showed that both the DCMZ and DCLLfxZ regimens had higher levels of failure (failure to culture convert or culture reversion) or recurrence and higher levels of amplified resistance than the SoC group and are not preferred over the SoC treatment. Levels of
+
+<div style=\"page-break-after: always\"></div>
+
+failure or recurrence were 2.5% for SoC, 1.6% for BDLLfxZ, 11.0% for DCLLfxZ and 11.2% for DCMZ. Amplification of drug resistance was shown in 0.0% for SoC and BDLLfxZ, 4.0% for DCLLfxZ and 6.7% for DCMZ.
+
+## BEAT-TB study South-Africa
+
+BEAT-TB was an independent investigator-initiated phase 3, multicentre, open-label, pragmatic, randomised-controlled-strategy and non-inferiority study in patients aged 6 years and older with pulmonary TB due to Mycobacterium tuberculosis resistant to at least rifampicin. Participants were randomised to receive the six-month BDLLfxC (bedaquiline, delamanid, linezolid, levofloxacin, clofazimine) regimen, or the then-current South African nine-month, or longer control regimen. Upon receipt of the FQ DST result, either levofloxacin (if FQ-resistant) or clofazimine (if FQ-susceptible) was dropped from the regimen (ie, discontinued or not initiated, depending on when DST results became available). The regimen could be given for 6 months or extended to 9 months if there was no clinical or bacteriological improvement.
+
+The primary efficacy endpoint was a successful end of treatment followed by a successful end of follow-up outcome. A successful treatment outcome measured at the end of treatment was defined as either 'Cured' ie, adequate treatment adherence (≥ 80% of doses taken) as per protocol without evidence of failure and last 2 negative sputum specimens at the end of treatment (≥ 14 days apart) being negative or 'Treatment Completed' ie, adequate treatment adherence (as above) without evidence of failure but without evidence that ≥ 2 consecutive cultures taken ≥ 14 days apart were negative. A successful end of follow-up outcome measured at 76 weeks after treatment initiation was defined as either 'Cured' ie, culture negative at the end of follow-up or 'Culture negative' when patient was last seen (if the patient was lost before the end of follow-up and provided they had a successful treatment outcome at the last available study visit).
+
+In this study, 42% were female. Median age was 35.0 years, 30 (7%) patients were &lt; 18 years of age. Half of the patients (51%) were HIV positive.
+
+The outcome of the primary efficacy analysis is presented in the table below.
+
+Table 3. Primary Efficacy Analysis for BEAT-TB (ITT)
+
+|                                                              | BDLLfxC (N=202)     | Control (N=200)   |
+|--------------------------------------------------------------|---------------------|-------------------|
+| Successful outcome at end of treatment and follow-up - n (%) | 174 (86.1%)         | 172 (86.0%)       |
+| Adjusted risk difference (95% CI)                            | -0.2% (-6.9%, 6.5%) |                   |
+
+In the ITT population the BDLLfxC regimen was shown to be non-inferior to the control. Levels of failure (failure to culture convert or culture reversion) or recurrence were 8.4% for BDLLfxC and 7.0% for the control group.
+
+Amplification of drug resistance was shown 2.5% in the BDLLfxC group and 3.0% in the control group.
+
+## Paediatric population
+
+The pharmacokinetics, safety and efficacy of delamanid in combination with a background regimen (BR) were evaluated in trial 242-12 -232 (10 days pharmacokinetics) followed by trial -233 (pharmacokinetics, efficacy and safety), both single-arm, open-label trials, which included 37 patients who had a median age of 4.55 years (range 0.78 to 17.60 years), 25 (67.6%) were Asian and 19 (51.4%) were female.
+
+Paediatric patients were enrolled in four groups:
+
+<div style=\"page-break-after: always\"></div>
+
+Group 1: 12 to 17 years (7 patients), group 2: 6 to 11 years (6 patients), group 3: 3 to 5 years (12 patients) and group 4: 0 to 2 years (12 patients). The overall mean baseline body weight of subjects was 19.5 kg and in groups 1, 2, 3, and 4 the mean body weights were 38.4, 25.1, 14.8, and 10.3 kg, respectively.
+
+The patients had confirmed or probable MDR-TB infection and were to complete 26 weeks of treatment with delamanid + OBR, followed by OBR only in accordance with the WHO recommendation. Patients in groups 1 and 2 received film-coated tablets. The delamanid dose in group 1 was 100 mg twice daily and 50 mg twice daily in group 2. The doses administered were higher than the currently recommended weight-based dosage in the paediatric population. Patients in groups 3 and 4 received dispersible tablets. This paediatric formulation is not bio-equivalent with the film-coated tablets. Patients in group 3 were administered 25 mg twice daily and patients in group 4 were administered doses between 10 mg twice daily and 5 mg once daily based on body weight. The doses administered in group 4 were below the currently recommended weight-based dosage in the paediatric population.
+
+A population PK analysis was performed on data from the 2 paediatric trials to determine the doses in paediatric subjects which would provide delamanid exposures similar to those observed in adult subjects with MDR-TB. Data in children with a body weight of less than 10 kg were too limited to determine doses for that patient population.
+
+## 5.2 Pharmacokinetic properties
+
+## Absorption
+
+Oral bioavailability of delamanid improves when administered with a standard meal, by about 2.7-fold compared to fasting conditions. The peak plasma concentrations are reached in approximately 4 hours post-dose, regardless of food intake.
+
+## Distribution
+
+Delamanid highly binds to all plasma proteins with a binding to total proteins of ≥ 99.5%. Delamanid has a large apparent volume of distribution (Vz/F of 2 100 L).
+
+## Biotransformation
+
+Delamanid is primarily metabolised in plasma by albumin and to a lesser extent by CYP3A4. The complete metabolic profile of delamanid has not yet been elucidated, and there is a potential for drug interactions with other co-administered medicinal products, if significant unknown metabolites are discovered. The identified metabolites do not show anti-mycobacterial activity but some contribute to QTc prolongation, mainly DM-6705. Concentrations of the identified metabolites progressively increase to steady state after 6 to 10 weeks.
+
+## Elimination
+
+Delamanid disappears from plasma with a t1/2 of 30 to 38 hours. Delamanid is not excreted in urine.
+
+## Linearity/non-linearity
+
+Delamanid plasma exposure increases less than proportionally with increasing dose.
+
+## Special populations
+
+## Paediatric population
+
+During treatment with the recommended delamanid doses to adolescents and children with a body weight of at least 10 kg (see section 4.2), similar plasma exposure were obtained as in adults.
+
+## Patients with renal impairment
+
+<div style=\"page-break-after: always\"></div>
+
+Less than 5% of an oral dose of delamanid is recovered from urine. Mild renal impairment (50 mL/min &lt; CrCLN &lt; 80 mL/min) does not appear to affect delamanid exposure. Therefore no dose adjustment is needed for patients with mild or moderate renal impairment. It is not known whether delamanid and metabolites will be significantly removed by haemodialysis or peritoneal dialysis.
+
+## Patients with hepatic impairment
+
+No dose adjustment is considered necessary for patients with mild hepatic impairment. Delamanid is not recommended in patients with moderate to severe hepatic impairment.
+
+## Elderly patients (≥ 65 years)
+
+No patients of ≥ 65 years of age were included in clinical trials.
+
+## 5.3 Preclinical safety data
+
+Non-clinical data reveal no specific hazard for humans based on conventional studies for genotoxicity and carcinogenic potential. Delamanid and/or its metabolites have the potential to affect cardiac repolarisation via blockade of hERG potassium channels. In the dog, foamy macrophages were observed in lymphoid tissue of various organs during repeat-dose toxicity studies. The finding was shown to be partially reversible; the clinical relevance of this finding is unknown. Repeat-dose toxicity studies in rabbits revealed an inhibitory effect of delamanid and/or its metabolites on vitamin Kdependent blood clotting. In rabbits reproductive studies, embryo-fetal toxicity was observed at maternally toxic dosages. Pharmacokinetic data in animals have shown excretion of delamanid/metabolites into breast milk. In lactating rats, the Cmax for delamanid in breast milk was 4fold higher than that of the blood. In juvenile toxicity studies in rats, all delamanid treatment-related findings were consistent with those noted in adult animals.
+
+## 6. PHARMACEUTICAL PARTICULARS
+
+## 6.1 List of excipients
+
+Tablet core Hypromellose phthalate Povidone all-racα -Tocopherol Cellulose, microcrystalline Sodium starch glycolate (type A) Carmellose calcium Silica, colloidal hydrated Magnesium stearate Lactose monohydrate
+
+Film coating Hypromellose Macrogol 8000 Titanium dioxide Talc Iron oxide yellow (E172)
+
+## 6.2 Incompatibilities
+
+Not applicable.
+
+## 6.3 Shelf life
+
+5 years
+
+<div style=\"page-break-after: always\"></div>
+
+## 6.4 Special precautions for storage
+
+Store in the original package in order to protect from moisture.
+
+## 6.5 Nature and contents of container
+
+Aluminium/Aluminium blister: 48 tablets.
+
+## 6.6 Special precautions for disposal
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+7.
+
+MARKETING AUTHORISATION HOLDER
+
+Otsuka Novel Products GmbH Erika-Mann-Straße 21 80636 München Germany
+
+8.
+
+MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/13/875/004
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 28 April 2014
+
+Date of latest renewal: 25 April 2025
+
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu/.
+
+14
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Deltyba 25 mg dispersible tablets
+
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+Each dispersible tablet contains 25 mg delamanid.
+
+For the full list of excipients, see section 6.1.
+
+## 3. PHARMACEUTICAL FORM
+
+## Dispersible tablet
+
+Round, white to off-white dispersible tablet, 11 mm in diameter, debossed with 'DLM' and '25' on one side.
+
+## 4. CLINICAL PARTICULARS
+
+## 4.1 Therapeutic indications
+
+Deltyba is indicated for use as part of an appropriate combination regimen for pulmonary multi-drug resistant tuberculosis (MDR-TB) in adults, adolescents, children and infants with a body weight of at least 10 kg when an effective treatment regimen cannot otherwise be composed for reasons of resistance or tolerability (see sections 4.2, 4.4 and 5.1).
+
+Consideration should be given to official guidance on the appropriate use of antibacterial agents.
+
+## 4.2 Posology and method of administration
+
+Treatment with delamanid should be initiated and monitored by a physician experienced in the management of multidrug-resistant Mycobacterium tuberculosis .
+
+Delamanid must always be administered as part of an appropriate combination regimen for the treatment of multidrug-resistant tuberculosis (MDR-TB) (see sections 4.4 and 5.1). Treatment with an appropriate combination regimen should continue after completion of the 24-week delamanid treatment period according to WHO guidelines.
+
+It is recommended that delamanid is administered by directly observed therapy (DOT).
+
+## Posology
+
+## Adults
+
+For adult patients the use of film-coated tablets is recommended, please see the SmPC for Deltyba 50 mg film-coated tablets.
+
+## Adolescents, children and infants
+
+Paediatric patients with a body weight of
+
+- -≥ 10 to &lt; 20 kg: the recommended dose is 25 mg twice daily for 24 weeks
+- -≥ 20 to &lt; 30 kg: the recommended dose is 50 mg every morning and 25 mg every evening for 24 weeks
+
+<div style=\"page-break-after: always\"></div>
+
+For patients with a body weight of 30 kg or more please see the SmPC for Deltyba 50 mg film-coated tablets.
+
+## Elderly patients (&gt; 65 years of age)
+
+No data are available in the elderly. For adult patients please see the SmPC for Deltyba 50 mg filmcoated tablets.
+
+## Renal impairment
+
+No dose adjustment is considered necessary in patients with mild or moderate renal impairment. There are no data on the use of delamanid in patients with severe renal impairment and its use is not recommended (see sections 4.4 and 5.2).
+
+## Hepatic impairment
+
+No dose adjustment is considered necessary in patients with mild hepatic impairment. Delamanid is not recommended in patients with moderate to severe hepatic impairment (see sections 4.4 and 5.2).
+
+## Paediatric population
+
+The safety and efficacy of Deltyba in children with a body weight below 10 kg have not yet been established. Currently available data are described in sections 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
+
+## Method of administration
+
+## Oral use.
+
+Delamanid should be taken with food.
+
+The dispersible tablets must be dispersed in water using 10 to 15 mL per 25 mg dispersible tablet and the resulting whitish suspension must be ingested immediately. Thereafter further 10 to 15 mL of water per dispersible tablet must be added to the glass or cup to ensure that potentially remaining suspension is dispersed and the resulting suspension must also be ingested.
+
+## 4.3 Contraindications
+
+- -Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+- -Serum albumin &lt; 2.8 g/dL (see section 4.4 regarding use in patients with serum albumin ≥ 2.8 g/dL).
+- -Coadministration of medicinal products that are strong inducers of CYP3A4 (e.g. carbamazepine).
+
+## 4.4 Special warnings and precautions for use
+
+There are no data on treatment with delamanid for more than 24 consecutive weeks (see section 4.2).
 
 There are no clinical data on the use of delamanid to treat
 
@@ -183,10 +670,6 @@ There are no data on the use of delamanid in patients with severe renal impairme
 
 Post-marketing cases of paradoxical drug reactions (clinical or radiological worsening of existing lesions or development of new lesions in a patient who had previously shown improvement with appropriate antimycobacterial treatment) have been reported with Deltyba. Paradoxical drug reactions are often transient and should not be misinterpreted as failure to respond to treatment. If a paradoxical response is suspected, continuation of planned combination therapy is recommended and symptomatic therapy to suppress the exaggerated immune reaction should be initiated if necessary (see section 4.8).
 
-## Excipients
-
-Deltyba film-coated tablets contain lactose. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
-
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 ## Effects of other medicinal products on delamanid
@@ -201,11 +684,11 @@ In clinical drug-drug interaction studies in healthy subjects, delamanid was adm
 
 ## Effects of delamanid on other medicinal products
 
+In-vitro studies showed that delamanid did not inhibit CYP450 isozymes. In-vitro studies showed that delamanid and metabolites did not have any effect on the transporters MDR1(p-gp), BCRP, OATP1, OATP3, OCT1, OCT2, OATP1B1, OATP1B3 and BSEP, at concentrations of approximately 5 to 20-fold greater than the Cmax at steady state. However, since the
+
 <div style=\"page-break-after: always\"></div>
 
-## In-vitro studies showed that delamanid did not inhibit CYP450 isozymes.
-
-In-vitro studies showed that delamanid and metabolites did not have any effect on the transporters MDR1(p-gp), BCRP, OATP1, OATP3, OCT1, OCT2, OATP1B1, OATP1B3 and BSEP, at concentrations of approximately 5 to 20-fold greater than the Cmax at steady state. However, since the concentrations in the gut can potentially be much greater than these multiples of the Cmax, there is a potential for delamanid to have an effect on these transporters.
+concentrations in the gut can potentially be much greater than these multiples of the Cmax, there is a potential for delamanid to have an effect on these transporters.
 
 ## Anti-tuberculosis medicinal products
 
@@ -241,9 +724,9 @@ Deltyba is expected to have a moderate influence on the ability to drive and use
 
 ## 4.8 Undesirable effects
 
-<div style=\"page-break-after: always\"></div>
-
 ## Summary of the safety profile
+
+<div style=\"page-break-after: always\"></div>
 
 The most frequently observed adverse drug reactions in patients treated with delamanid + Optimised Background Regimen (OBR) (i.e. incidence &gt; 10%) are nausea (32.9%), vomiting (29.9%), headache (28.4%), sleep disorders and disturbances (28.2%), dizziness (22.4%), gastritis (15.9%) and decreased appetite (13.1%).
 
@@ -266,14 +749,14 @@ The list of adverse drug reactions and frequencies are based on the results from
 | General disorders and administration site conditions | -                                  | Chest pain                                                                 | -                    | Paradoxical drug reaction |
 | Investigations                                       | -                                  | Cortisol increased i Electrocardiogram QT prolonged                        | -                    | -                         |
 
-Event terms that represent the same medical concept or condition were grouped together and reported as  a  single  adverse  drug  reaction  in  Table  'Adverse  drug  reactions  to  delamanid'.  Preferred  terms
+Event terms that represent the same medical concept or condition were grouped together and reported as a single adverse drug reaction in Table 'Adverse drug reactions to delamanid'. Preferred terms actually reported in the double-blind clinical trials and contributing to the relevant adverse drug reaction are indicated in parentheses, as listed below:
+
+a. Hypothyroidism (hypothyroidism, primary hypothyroidism)
+
+b. Sleep disorders and disturbances (initial insomnia, insomnia, sleep disorder, nightmare)
 
 <div style=\"page-break-after: always\"></div>
 
-actually reported in the double-blind clinical trials and contributing to the relevant adverse drug reaction are indicated in parentheses, as listed below:
-
-- a. Hypothyroidism (hypothyroidism, primary hypothyroidism)
-- b. Sleep disorders and disturbances (initial insomnia, insomnia, sleep disorder, nightmare)
 - c. Psychotic disorder (acute psychosis, psychotic disorder, reactive psychosis, substance-induced psychotic disorder)
 - d. Anxiety (anxiety, anxiety disorder, generalised anxiety disorder)
 - e. Depression (adjustment disorder with depressed mood, depressed mood, depression, major depression, mixed anxiety and depressive disorder, persistent depressive disorder, schizoaffective disorder depressive type)
@@ -306,11 +789,9 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-No cases of delamanid overdose have been observed in clinical trials. However, additional clinical data showed that in patients receiving 200 mg twice daily, i.e. total 400 mg delamanid per day, the overall safety profile is comparable to that in patients receiving the recommended dose of 100 mg twice daily. Albeit, some reactions were observed at a higher frequency and the rate of QT prolongation increased in a dose-related manner. Treatment of overdose should involve immediate
+No cases of delamanid overdose have been observed in clinical trials. However, additional clinical data showed that in patients receiving 200 mg twice daily, i.e. total 400 mg delamanid per day, the overall safety profile is comparable to that in patients receiving the recommended dose of 100 mg twice daily. Albeit, some reactions were observed at a higher frequency and the rate of QT prolongation increased in a dose-related manner. Treatment of overdose should involve immediate measures to remove delamanid from the gastrointestinal tract and supportive care as required. Frequent ECG monitoring should be performed.
 
 <div style=\"page-break-after: always\"></div>
-
-measures to remove delamanid from the gastrointestinal tract and supportive care as required. Frequent ECG monitoring should be performed.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -340,15 +821,63 @@ Delamanid has been evaluated in two, double-blind, placebo-controlled trials for
 
 In the first trial (Trial 204), 64/141 (45.4%) patients randomised to receive delamanid 100 mg BID + OBR and 37/125 (29.6%) of patients randomised to receive placebo (PLC) + OBR achieved twomonth sputum culture conversion (SCC) (i.e. growth of Mycobacterium tuberculosis to no growth over the first 2 months and maintained for 1 more month) (p = 0.0083). The time to SCC for the group randomised to 100 mg BID was also found to be faster than for the group randomised to receive placebo + OBR (p = 0.0056).
 
-In the second trial (Trial 213), delamanid was administered orally at 100 mg BID as an add-on therapy to an OBR for 2 months followed by 200 mg once daily for 4 months. The median time to SCC was 51 days in the delamanid + OBR group compared with 57 days in the PLC + OBR group (p = 0.0562 using the stratified modified Peto-Peto modification of Gehan's Wilcoxon rank sum test). The proportion of patients achieving SCC (sputum culture conversion) after the 6-month treatment period
+In the second trial (Trial 213), delamanid was administered orally at 100 mg BID as an add-on therapy to an OBR for 2 months followed by 200 mg once daily for 4 months. The median time to SCC was 51 days in the delamanid + OBR group compared with 57 days in the PLC + OBR group (p = 0.0562 using the stratified modified Peto-Peto modification of Gehan's Wilcoxon rank sum test). The proportion of patients achieving SCC (sputum culture conversion) after the 6-month treatment period was 87.6% (198/226) in the delamanid + OBR treatment group compared to 86.1% (87/101) in the placebo + OBR treatment group (p = 0.7131).
+
+All missing cultures up to the time of SCC were assumed to be positive cultures in the primary analysis. Two sensitivity analyses were conducted - a last-observation-carried-forward (LOCF)
 
 <div style=\"page-break-after: always\"></div>
 
-was 87.6% (198/226) in the delamanid + OBR treatment group compared to 86.1% (87/101) in the placebo + OBR treatment group (p = 0.7131).
-
-All missing cultures up to the time of SCC were assumed to be positive cultures in the primary analysis. Two sensitivity analyses were conducted - a last-observation-carried-forward (LOCF) analysis and an analysis using 'bookending' methodology (which required that the previous and subsequent cultures were both observed negative cultures to impute a negative result, otherwise a positive result was imputed). Both showed a 13-day shorter median time to SCC in the delamanid + OBR group (p = 0.0281 for LOCF and p = 0.0052 for 'bookending').
+analysis and an analysis using 'bookending' methodology (which required that the previous and subsequent cultures were both observed negative cultures to impute a negative result, otherwise a positive result was imputed). Both showed a 13-day shorter median time to SCC in the delamanid + OBR group (p = 0.0281 for LOCF and p = 0.0052 for 'bookending').
 
 Delamanid resistance (defined as MIC ≥ 0.2 µg/mL) has been observed at baseline in 2 of 316 patients in Trial 204 and 2 of 511 patients in Trial 213 (4 of 827 patients [0.48%]). Delamanid resistance emerged in 4 of 341 patients (1.2%) randomised to receive delamanid for 6 months in Trial 213. These four patients were only receiving two other medicinal products in addition to delamanid.
+
+## end-TB (Evaluating Newly approved Drugs for multidrug resistant TB) study
+
+end-TB was an independent investigator-initiated phase 3, multi-country, open-label, randomised, controlled non-inferiority study in patients aged 15 years and older with pulmonary TB due to Mycobacterium tuberculosis resistant to rifampicin and susceptible to fluoroquinolones. Five 9 -month oral regimens were evaluated versus the then recommended WHO standard of care (SoC) (mostly individualised regimens of ≥ 18 months' duration). Three of the 9 -month regimens contained delamanid: BDLLfxZ (bedaquiline, delamanid, linezolid, levofloxacin and pyrazinamide), DCLLfxZ (delamanid, clofazimine, linezolid, levofloxacin and pyrazinamide) and DCMZ (delamanid, clofazimine, moxifloxacin and pyrazinamide). Delamanid dosing was 100 mg BID.
+
+The primary efficacy outcome was the proportion of participants with a favorable outcome at week 73, defined as the absence of an unfavorable outcome and either two consecutive negative cultures (including one between weeks 65 and 73) or favorable bacteriologic, radiologic, and clinical evolution. Unfavorable outcomes included death (from any cause), the replacement or addition of one drug in the experimental regimens or two drugs in the standard-therapy regimen, or the initiation of new treatment for rifampin-resistant tuberculosis. The maximum duration of follow-up was 104 weeks.
+
+The modified intention-to-treat (mITT) population included all the participants who underwent randomization and received at least one dose of trial treatment and who had a prerandomization culture positive for Mycobacterium tuberculosis .
+
+In the mITT population, 37.8% were women. The median age was 32 years, and 25 participants (3.6%) were younger than 18 years of age; 14.0% were living with HIV infection and 57.1% of the participants had cavitation on chest radiography.
+
+The outcome of the primary efficacy analysis is presented in the table below.
+
+Table 2. Primary Efficacy Analysis for endTB (mITT)
+
+|                                             | BDLLfxZ (N = 122)   | DCLLfxZ (N = 118)    | DCMZ (N = 107)     | Standard Therapy (N = 119)   |
+|---------------------------------------------|---------------------|----------------------|--------------------|------------------------------|
+| Participants with favorable outcome - n (%) | 104 (85.2)          | 93 (78.8)            | 89 (83.2)          | 96 (80.7)                    |
+| Difference from standard therapy (95% CI)   | 4.6 (-4.9 to 14.1)  | - 1.9 (-12.1 to 8.4) | 2.5 (-7.5 to 12.5) |                              |
+
+Based on hierarchical testing, four experimental regimens were found to be non-inferior to standard therapy in the mITT analysis. Non-inferiority to standard therapy was established for two of the three delamanid-containing regimens (BDLLfxZ and DCMZ). Week 104 data confirmed these results.
+
+WHO analysis of week 104 data showed that both the DCMZ and DCLLfxZ regimens had higher levels of failure (failure to culture convert or culture reversion) or recurrence and higher levels of amplified resistance than the SoC group and are not preferred over the SoC treatment. Levels of
+
+<div style=\"page-break-after: always\"></div>
+
+failure or recurrence were 2.5% for SoC, 1.6% for BDLLfxZ, 11.0% for DCLLfxZ and 11.2% for DCMZ. Amplification of drug resistance was shown in 0.0% for SoC and BDLLfxZ, 4.0% for DCLLfxZ and 6.7% for DCMZ.
+
+## BEAT-TB study South-Africa
+
+BEAT-TB was an independent investigator-initiated phase 3, multicentre, open-label, pragmatic, randomised-controlled-strategy and non-inferiority study in patients aged 6 years and older with pulmonary TB due to Mycobacterium tuberculosis resistant to at least rifampicin. Participants were randomised to receive the six-month BDLLfxC (bedaquiline, delamanid, linezolid, levofloxacin, clofazimine) regimen, or the then-current South African nine-month, or longer control regimen. Upon receipt of the FQ DST result, either levofloxacin (if FQ-resistant) or clofazimine (if FQ-susceptible) was dropped from the regimen (ie, discontinued or not initiated, depending on when DST results became available). The regimen could be given for 6 months or extended to 9 months if there was no clinical or bacteriological improvement.
+
+The primary efficacy endpoint was a successful end of treatment followed by a successful end of follow-up outcome. A successful treatment outcome measured at the end of treatment was defined as either 'Cured' ie, adequate treatment adherence (≥ 80% of doses taken) as per protocol without evidence of failure and last 2 negative sputum specimens at the end of treatment (≥ 14 days apart) being negative or 'Treatment Completed' ie, adequate treatment adherence (as above) without evidence of failure but without evidence that ≥ 2 consecutive cultures taken ≥ 14 days apart were negative. A successful end of follow-up outcome measured at 76 weeks after treatment initiation was defined as either 'Cured' ie, culture negative at the end of follow-up or 'Culture negative' when patient was last seen (if the patient was lost before the end of follow-up and provided they had a successful treatment outcome at the last available study visit).
+
+In this study, 42% were female. Median age was 35.0 years, 30 (7%) patients were &lt; 18 years of age. Half of the patients (51%) were HIV positive.
+
+The outcome of the primary efficacy analysis is presented in the table below.
+
+Table 3. Primary Efficacy Analysis for BEAT-TB (ITT)
+
+|                                                              | BDLLfxC (N=202)     | Control (N=200)   |
+|--------------------------------------------------------------|---------------------|-------------------|
+| Successful outcome at end of treatment and follow-up - n (%) | 174 (86.1%)         | 172 (86.0%)       |
+| Adjusted risk difference (95% CI)                            | -0.2% (-6.9%, 6.5%) |                   |
+
+In the ITT population the BDLLfxC regimen was shown to be non-inferior to the control. Levels of failure (failure to culture convert or culture reversion) or recurrence were 8.4% for BDLLfxC and 7.0% for the control group.
+
+Amplification of drug resistance was shown 2.5% in the BDLLfxC group and 3.0% in the control group.
 
 ## Paediatric population
 
@@ -356,456 +885,13 @@ The pharmacokinetics, safety and efficacy of delamanid in combination with a bac
 
 Paediatric patients were enrolled in four groups:
 
-Group 1: 12 to 17 years (7 patients), group 2: 6 to 11 years (6 patients), group 3: 3 to 5 years (12 patients) and group 4: 0 to 2 years (12 patients). The overall mean baseline body weight of subjects was 19.5 kg and in groups 1, 2, 3, and 4 the mean body weights were 38.4, 25.1, 14.8, and 10.3 kg, respectively.
-
-The patients had confirmed or probable MDR-TB infection and were to complete 26 weeks of treatment with delamanid + OBR, followed by OBR only in accordance with the WHO recommendation. Patients in groups 1 and 2 received film-coated tablets. The delamanid dose in group 1 was 100 mg twice daily and 50 mg twice daily in group 2. The doses administered were higher than the currently recommended weight-based dosage in the paediatric population. Patients in groups 3 and 4 received dispersible tablets. This paediatric formulation is not bio-equivalent with the film-coated tablets. Patients in group 3 were administered 25 mg twice daily and patients in group 4 were administered doses between 10 mg twice daily and 5 mg once daily based on body weight. The doses administered in group 4 were below the currently recommended weight-based dosage in the paediatric population.
-
-A population PK analysis was performed on data from the 2 paediatric trials to determine the doses in paediatric subjects which would provide delamanid exposures similar to those observed in adult subjects with MDR-TB. Data in children with a body weight of less than 10 kg were too limited to determine doses for that patient population.
-
-This medicinal product has been authorised under a so-called 'conditional approval' scheme. This means that further evidence on this medicinal product is awaited.
-
-The European Medicines Agency will review new information on this medicinal product at least every year and this SmPC will be updated as necessary.
-
-## 5.2 Pharmacokinetic properties
-
-## Absorption
-
-Oral bioavailability of delamanid improves when administered with a standard meal, by about 2.7-fold compared to fasting conditions. The peak plasma concentrations are reached in approximately 4 hours post-dose, regardless of food intake.
-
-## Distribution
-
 <div style=\"page-break-after: always\"></div>
-
-Delamanid highly binds to all plasma proteins with a binding to total proteins of ≥ 99.5%. Delamanid has a large apparent volume of distribution (Vz/F of 2 100 L).
-
-## Biotransformation
-
-Delamanid is primarily metabolised in plasma by albumin and to a lesser extent by CYP3A4. The complete metabolic profile of delamanid has not yet been elucidated, and there is a potential for drug interactions with other co-administered medicinal products, if significant unknown metabolites are discovered. The identified metabolites do not show anti-mycobacterial activity but some contribute to QTc prolongation, mainly DM-6705. Concentrations of the identified metabolites progressively increase to steady state after 6 to 10 weeks.
-
-## Elimination
-
-Delamanid disappears from plasma with a t1/2 of 30 to 38 hours. Delamanid is not excreted in urine.
-
-## Linearity/non-linearity
-
-Delamanid plasma exposure increases less than proportionally with increasing dose.
-
-## Special populations
-
-## Paediatric population
-
-During treatment with the recommended delamanid doses to adolescents and children with a body weight of at least 10 kg (see section 4.2), similar plasma exposure were obtained as in adults.
-
-## Patients with renal impairment
-
-Less than 5% of an oral dose of delamanid is recovered from urine. Mild renal impairment (50 mL/min &lt; CrCLN &lt; 80 mL/min) does not appear to affect delamanid exposure. Therefore no dose adjustment is needed for patients with mild or moderate renal impairment. It is not known whether delamanid and metabolites will be significantly removed by haemodialysis or peritoneal dialysis.
-
-## Patients with hepatic impairment
-
-No dose adjustment is considered necessary for patients with mild hepatic impairment. Delamanid is not recommended in patients with moderate to severe hepatic impairment.
-
-## Elderly patients (≥ 65 years)
-
-No patients of ≥ 65 years of age were included in clinical trials.
-
-## 5.3 Preclinical safety data
-
-Non-clinical data reveal no specific hazard for humans based on conventional studies for genotoxicity and carcinogenic potential. Delamanid and/or its metabolites have the potential to affect cardiac repolarisation via blockade of hERG potassium channels. In the dog, foamy macrophages were observed in lymphoid tissue of various organs during repeat-dose toxicity studies. The finding was shown to be partially reversible; the clinical relevance of this finding is unknown. Repeat-dose toxicity studies in rabbits revealed an inhibitory effect of delamanid and/or its metabolites on vitamin Kdependent blood clotting. In rabbits reproductive studies, embryo-fetal toxicity was observed at maternally toxic dosages. Pharmacokinetic data in animals have shown excretion of delamanid/metabolites into breast milk. In lactating rats, the Cmax for delamanid in breast milk was 4fold higher than that of the blood. In juvenile toxicity studies in rats, all delamanid treatment-related findings were consistent with those noted in adult animals.
-
-## 6. PHARMACEUTICAL PARTICULARS
-
-## 6.1 List of excipients
-
-<div style=\"page-break-after: always\"></div>
-
-Tablet core Hypromellose phthalate Povidone all-rac-α-Tocopherol Cellulose, microcrystalline Sodium starch glycolate (type A) Carmellose calcium Silica, colloidal hydrated Magnesium stearate Lactose monohydrate
-
-Film coating Hypromellose Macrogol 8000 Titanium dioxide Talc
-
-Iron oxide yellow (E172)
-
-## 6.2 Incompatibilities
-
-Not applicable.
-
-## 6.3 Shelf life
-
-5 years
-
-## 6.4 Special precautions for storage
-
-Store in the original package in order to protect from moisture.
-
-## 6.5 Nature and contents of container
-
-Aluminium/Aluminium blister: 48 tablets.
-
-## 6.6 Special precautions for disposal
-
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-## 7. MARKETING AUTHORISATION HOLDER
-
-Otsuka Novel Products GmbH Erika-Mann-Straße 21 80636 München Germany
-
-## 8. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/13/875/004
-
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
-
-Date of first authorisation: 28 April 2014
-
-Date of latest renewal: 26 February 2024
-
-<div style=\"page-break-after: always\"></div>
-
-## 10. DATE OF REVISION OF THE TEXT
-
-&lt;{MM/YYYY}&gt;
-
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Deltyba 25 mg dispersible tablets
-
-## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
-
-Each dispersible tablet contains 25 mg delamanid.
-
-For the full list of excipients, see section 6.1.
-
-## 3. PHARMACEUTICAL FORM
-
-Dispersible tablet
-
-Round, white to off-white dispersible tablet, 11 mm in diameter, debossed with 'DLM' and '25' on one side.
-
-## 4. CLINICAL PARTICULARS
-
-## 4.1 Therapeutic indications
-
-Deltyba is indicated for use as part of an appropriate combination regimen for pulmonary multi-drug resistant tuberculosis (MDR-TB) in adults, adolescents, children and infants with a body weight of at least 10 kg when an effective treatment regimen cannot otherwise be composed for reasons of resistance or tolerability (see sections 4.2, 4.4 and 5.1).
-
-Consideration should be given to official guidance on the appropriate use of antibacterial agents.
-
-## 4.2 Posology and method of administration
-
-Treatment with delamanid should be initiated and monitored by a physician experienced in the management of multidrug-resistant Mycobacterium tuberculosis .
-
-Delamanid must always be administered as part of an appropriate combination regimen for the treatment of multidrug-resistant tuberculosis (MDR-TB) (see sections 4.4 and 5.1). Treatment with an appropriate combination regimen should continue after completion of the 24-week delamanid treatment period according to WHO guidelines.
-
-It is recommended that delamanid is administered by directly observed therapy (DOT).
-
-## Posology
-
-## Adults
-
-For adult patients the use of film-coated tablets is recommended, please see the SmPC for Deltyba 50 mg film-coated tablets.
-
-Adolescents, children and infants
-
-Paediatric patients with a body weight of
-
-- -≥ 10 to &lt; 20 kg: the recommended dose is 25 mg twice daily for 24 weeks
-
-<div style=\"page-break-after: always\"></div>
-
-- -≥ 20 to &lt; 30 kg: the recommended dose is 50 mg every morning and 25 mg every evening for 24 weeks
-
-For patients with a body weight of 30 kg or more please see the SmPC for Deltyba 50 mg film-coated tablets.
-
-## Elderly patients (&gt; 65 years of age)
-
-No data are available in the elderly. For adult patients please see the SmPC for Deltyba 50 mg filmcoated tablets.
-
-## Renal impairment
-
-No dose adjustment is considered necessary in patients with mild or moderate renal impairment. There are no data on the use of delamanid in patients with severe renal impairment and its use is not recommended (see sections 4.4 and 5.2).
-
-## Hepatic impairment
-
-No dose adjustment is considered necessary in patients with mild hepatic impairment. Delamanid is not recommended in patients with moderate to severe hepatic impairment (see sections 4.4 and 5.2).
-
-## Paediatric population
-
-The safety and efficacy of Deltyba in children with a body weight below 10 kg have not yet been established. Currently available data are described in sections 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
-
-## Method of administration
-
-## Oral use.
-
-Delamanid should be taken with food.
-
-The dispersible tablets must be dispersed in water using 10 to 15 mL per 25 mg dispersible tablet and the resulting whitish suspension must be ingested immediately. Thereafter further 10 to 15 mL of water per dispersible tablet must be added to the glass or cup to ensure that potentially remaining suspension is dispersed and the resulting suspension must also be ingested.
-
-## 4.3 Contraindications
-
-- -Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-- -Serum albumin &lt; 2.8 g/dL (see section 4.4 regarding use in patients with serum albumin ≥ 2.8 g/dL).
-- -Coadministration of medicinal products that are strong inducers of CYP3A4 (e.g. carbamazepine).
-
-## 4.4 Special warnings and precautions for use
-
-There are no data on treatment with delamanid for more than 24 consecutive weeks (see section 4.2).
-
-There are no clinical data on the use of delamanid to treat
-
-- -extra pulmonary tuberculosis (e.g. central nervous system, bone)
-- -infections due to Mycobacterial species other than those of the M. tuberculosis complex
-- -latent infection with M. tuberculosis
-
-There are no clinical data on the use of delamanid as part of combination regimens used to treat drugsusceptible M. tuberculosis .
-
-<div style=\"page-break-after: always\"></div>
-
-## Resistance to delamanid
-
-Delamanid must only be used in an appropriate combination regimen for MDR-TB treatment as recommended by WHO to prevent development of resistance to delamanid.
-
-## QT prolongation
-
-QT prolongation has been observed in patients treated with delamanid. This prolongation increases slowly over time in the first 6 to 10 weeks of treatment and remains stable thereafter. QTc prolongation is very closely correlated with the major delamanid metabolite DM-6705. Plasma albumin and CYP3A4 regulate the formation and metabolism of DM-6705 respectively (see Special Considerations below).
-
-## General recommendations
-
-It is recommended that electrocardiograms (ECG) should be obtained before initiation of treatment and monthly during the full course of treatment with delamanid. If a QTcF &gt; 500 ms is observed either before the first dose of delamanid or during delamanid treatment, treatment with delamanid should either not be started or should be discontinued. If the QTc interval duration exceeds 450/470 ms for male/female patients during delamanid treatment, these patients should be administered more frequent ECG monitoring. It is also recommended that serum electrolytes, e.g. potassium, are obtained at baseline and corrected if abnormal.
-
-## Special considerations
-
-## Cardiac risk factors
-
-Treatment with delamanid should not be initiated in patients with the following risk factors unless the possible benefit of delamanid is considered to outweigh the potential risks. Such patients should receive very frequent monitoring of ECG throughout the full delamanid treatment period.
-
-- -Known congenital prolongation of the QTc-interval or any clinical condition known to prolong the QTc interval or QTc &gt; 500 ms.
-- -History of symptomatic cardiac arrhythmias or with clinically relevant bradycardia.
-- -Any predisposing cardiac conditions for arrhythmia such as severe hypertension, left ventricular hypertrophy (including hypertrophic cardiomyopathy) or congestive cardiac failure accompanied by reduced left ventricle ejection fraction.
-- -Electrolyte disturbances, particularly hypokalaemia, hypocalcaemia or hypomagnesaemia.
-- -Taking medicinal products that are known to prolong the QTc interval. These include (but are not limited to):
-- -Antiarrhythmics (e.g. amiodarone, disopyramide, dofetilide, ibutilide, procainamide, quinidine, hydroquinidine, sotalol).
-- -Neuroleptics (e.g. phenothiazines, sertindole, sultopride, chlorpromazine, haloperidol, mesoridazine, pimozide, or thioridazine), antidepressive agents.
-- -Certain antimicrobial agents, including:
-- -macrolides (e.g. erythromycin, clarithromycin)
-- -moxifloxacin, sparfloxacin (see section 4.4 regarding use with other fluoroquinolones)
-- -bedaquiline
-- -triazole antifungal agents
-- -pentamidine
-- -saquinavir
-- -Certain non-sedating antihistamines (e.g. terfenadine, astemizole, mizolastine).
-- -Certain antimalarials with QT-prolonging potential (e.g. halofantrine, quinine, chloroquine, artesunate/amodiaquine, dihydroartemisinin/piperaquine).
-- -Cisapride, droperidol, domperidone, bepridil, diphemanil, probucol, levomethadyl, methadone, vinca alkaloids, arsenic trioxide.
-
-Hypoalbuminaemia
-
-<div style=\"page-break-after: always\"></div>
-
-In a clinical study, the presence of hypoalbuminaemia was associated with an increased risk of prolongation of the QTc interval in delamanid treated patients. Delamanid is contraindicated in patients with albumin &lt; 2.8 g/dL (see section 4.3). Patients who commence delamanid with serum albumin &lt; 3.4 g/dL or experience a fall in serum albumin into this range during treatment should receive very frequent monitoring of ECGs throughout the full delamanid treatment period.
-
-## Co-administration with strong inhibitors of CYP3A4
-
-Co-administration of delamanid with a strong inhibitor of CYP3A4 (lopinavir/ritonavir) was associated with a 30% higher exposure to the metabolite DM-6705, which has been associated with QTc prolongation. Therefore, if co-administration of delamanid with any strong inhibitor of CYP3A4 is considered necessary it is recommended that there is very frequent monitoring of ECGs, throughout the full delamanid treatment period.
-
-## Co-administration of delamanid with quinolones
-
-All QTcF prolongations above 60 ms were associated with concomitant fluoroquinolone use. Therefore, if co-administration is considered to be unavoidable in order to construct an adequate treatment regimen for MDR-TB it is recommended that there is very frequent monitoring of ECGs throughout the full delamanid treatment period.
-
-## Hepatic impairment
-
-Deltyba is not recommended in patients with moderate to severe hepatic impairment (see sections 4.2 and 5.2).
-
-## Renal impairment
-
-There are no data on the use of delamanid in patients with severe renal impairment and its use is not recommended (see sections 4.2 and 5.2).
-
-## Paradoxical drug reaction
-
-Post-marketing cases of paradoxical drug reactions (clinical or radiological worsening of existing lesions or development of new lesions in a patient who had previously shown improvement with appropriate antimycobacterial treatment) have been reported with Deltyba. Paradoxical drug reactions are often transient and should not be misinterpreted as failure to respond to treatment. If a paradoxical response is suspected, continuation of planned combination therapy is recommended and symptomatic therapy to suppress the exaggerated immune reaction should be initiated if necessary (see section 4.8).
-
-## 4.5 Interaction with other medicinal products and other forms of interaction
-
-## Effects of other medicinal products on delamanid
-
-## Cytochrome P450 3A4 inducers
-
-Clinical drug-drug interactions studies in healthy subjects indicated a reduced exposure to delamanid, of up to 45% following 15 days of concomitant administration of the strong inducer of cytochrome P450 (CYP) 3A4 (rifampicin 300 mg daily) with delamanid (200 mg daily). No clinically relevant reduction in delamanid exposure was observed with the weak inducer efavirenz when administered at a dose of 600 mg daily for 10 days in combination with delamanid 100 mg twice daily.
-
-## Anti-HIV medicinal products
-
-In clinical drug-drug interaction studies in healthy subjects, delamanid was administered alone (100 mg twice daily) and with tenofovir disoproxil (245 mg daily) or lopinavir/ritonavir (400/100 mg daily) for 14 days and with efavirenz for 10 days (600 mg daily). Delamanid exposure remained unchanged (&lt; 25% difference) with anti-HIV medicinal products tenofovir disoproxil and efavirenz but was slightly increased with the combination anti-HIV medicinal products containing lopinavir/ritonavir.
-
-<div style=\"page-break-after: always\"></div>
-
-## Effects of delamanid on other medicinal products
-
-In-vitro studies showed that delamanid did not inhibit CYP450 isozymes.
-
-In-vitro studies showed that delamanid and metabolites did not have any effect on the transporters MDR1(p-gp), BCRP, OATP1, OATP3, OCT1, OCT2, OATP1B1, OATP1B3 and BSEP, at concentrations of approximately 5 to 20-fold greater than the Cmax at steady state. However, since the concentrations in the gut can potentially be much greater than these multiples of the Cmax, there is a potential for delamanid to have an effect on these transporters.
-
-## Anti-tuberculosis medicinal products
-
-In a clinical drug-drug interaction study in healthy subjects, delamanid was administered alone (200 mg daily) and with rifampicin/isoniazid/pyrazinamide (300/720/1800 mg daily) or ethambutol (1100 mg daily) for 15 days. Exposure of concomitant anti-TB drugs (rifampicin [R]/ isoniazid [H]/ pyrazinamide [Z]) was not affected. Co-administration with delamanid significantly increased steady state plasma concentrations of ethambutol by approximately 25%, the clinical relevance is unknown.
-
-## Anti-HIV medicinal products
-
-In a clinical drug-drug interaction study in healthy subjects, delamanid was administered alone (100 mg twice daily) and tenofovir disoproxil (245 mg daily), lopinavir/ritonavir (400/100 mg daily) for 14 days and with efavirenz for 10 days (600 mg daily). Delamanid given in combination with the anti-HIV-medicines, tenofovir disoproxil, lopinavir/ritonavir and efavirenz, did not affect the exposure to these medicinal products.
-
-## Medicinal products with the potential to prolong QTc
-
-Care must be taken in using delamanid in patients already receiving medicinal products associated with QT prolongation (see section 4.4). Co-administration of moxifloxacin and delamanid in MDR-TB patients has not been studied. Moxifloxacin is not recommended for use in patients treated with delamanid.
-
-## 4.6 Fertility, pregnancy and lactation
-
-## Pregnancy
-
-There are no or limited amount of data from the use of delamanid in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3).
-
-Deltyba is not recommended during pregnancy and in women of childbearing potential not using contraception.
-
-## Breast-feeding
-
-It is unknown whether delamanid/metabolites are excreted in human milk. Available pharmacokinetic/toxicological data in animals have shown excretion of delamanid and/or its metabolites in milk (for details see section 5.3). A risk to the newborns/infants cannot be excluded. It is recommended that women should not breastfeed during treatment with Deltyba.
-
-## Fertility
-
-Deltyba had no effect on male or female fertility in animals (see section 5.3). There are no clinical data on the effects of delamanid on fertility in humans.
-
-## 4.7 Effects on ability to drive and use machines
-
-Deltyba is expected to have a moderate influence on the ability to drive and use machines. Patients should be advised not to drive or use machines if they experience any adverse reaction with a potential impact on the ability to perform these activities (e.g. headache is very common and tremor is common).
-
-<div style=\"page-break-after: always\"></div>
-
-## 4.8 Undesirable effects
-
-## Summary of the safety profile
-
-The most frequently observed adverse drug reactions in patients treated with delamanid + Optimised Background Regimen (OBR) (i.e. incidence &gt; 10%) are nausea (32.9%), vomiting (29.9%), headache (28.4%), sleep disorders and disturbances (28.2%), dizziness (22.4%), gastritis (15.9%) and decreased appetite (13.1%).
-
-## Tabulated list of adverse reactions
-
-The list of adverse drug reactions and frequencies are based on the results from 2 double-blind placebo controlled clinical trials and on spontaneous reports. The adverse drug reactions are listed by MedDRA System Organ Class and Preferred Term. Within each System Organ Class, adverse reactions are listed under frequency categories of very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-
-## Table: Adverse drug reactions to delamanid
-
-| System Organ Class                                   | Frequency very common              | Frequency common                                                           | Frequency uncommon   | Frequency not known       |
-|------------------------------------------------------|------------------------------------|----------------------------------------------------------------------------|----------------------|---------------------------|
-| Endocrine disorders                                  | -                                  | Hypothyroidism a                                                           | -                    | -                         |
-| Metabolism and nutrition disorders                   | Decreased appetite                 | -                                                                          | -                    | -                         |
-| Psychiatric disorders                                | Sleep disorders and disturbances b | Psychotic disorder c Anxiety d Depression e Hallucination f                | -                    | -                         |
-| Nervous system disorders                             | Dizziness Headache g               | Hypoaesthesia Tremor                                                       | Lethargy             | -                         |
-| Cardiac disorders                                    | -                                  | Atrioventricular block first degree Ventricular extrasystoles Palpitations | -                    | -                         |
-| Respiratory, thoracic and mediastinal disorders      | -                                  | Throat irritation                                                          | -                    | -                         |
-| Gastrointestinal disorders                           | Nausea Vomiting Gastritis h        | Dyspepsia                                                                  | -                    | -                         |
-| Musculoskeletal and connective tissue disorders      | -                                  | Muscular weakness Muscle spasms                                            | -                    | -                         |
-| General disorders and administration site conditions | -                                  | Chest pain                                                                 | -                    | Paradoxical drug reaction |
-| Investigations                                       | -                                  | Cortisol increased i Electrocardiogram QT prolonged                        | -                    | -                         |
-
-Event terms that represent the same medical concept or condition were grouped together and reported as a single adverse drug reaction in Table 'Adverse drug reactions to delamanid'. Preferred terms
-
-<div style=\"page-break-after: always\"></div>
-
-actually reported in the double-blind clinical trials and contributing to the relevant adverse drug reaction are indicated in parentheses, as listed below:
-
-- a. Hypothyroidism (hypothyroidism, primary hypothyroidism)
-- b. Sleep disorders and disturbances (initial insomnia, insomnia, sleep disorder, nightmare)
-- c. Psychotic disorder (acute psychosis, psychotic disorder, reactive psychosis, substance-induced psychotic disorder)
-- d. Anxiety (anxiety, anxiety disorder, generalised anxiety disorder)
-- e. Depression (adjustment disorder with depressed mood, depressed mood, depression, major depression, mixed anxiety and depressive disorder, persistent depressive disorder, schizoaffective disorder depressive type)
-- f. Hallucination (hallucination; hallucination, auditory; hallucination, visual; hallucination tactile; hallucination mixed; hypnopompic hallucination; hypnagogic hallucination)
-- g. Headache (head discomfort, headache, migraine, sinus headache, tension headache, vascular headache)
-- h. Gastritis (chronic gastritis, gastritis, gastritis erosive)
-- i. Cortisol increased (Cushing's syndrome, hyperadrenocorticism, cortisol increased)
-
-## Description of selected adverse reactions
-
-## ECG QT interval prolongation
-
-In patients receiving 200 mg delamanid total daily dose in the phase 2 and 3 trials, the mean placebo corrected increase in QTcF from baseline ranged from 4.7 - 7.6 ms at 1 month and 5.3 ms - 12.1 ms at 2 months, respectively. The incidence of a QTcF interval &gt; 500 ms ranged from 0.6% (1/161) - 2.1% (7/341) in patients receiving delamanid 200 mg total daily dose versus 0% (0/160) - 1.2% (2/170) of patients receiving placebo + OBR, while the incidence of QTcF change from baseline &gt; 60 ms ranged from 3.1% (5/161) - 10.3% (35/341) in patients receiving delamanid 200 mg total daily dose versus 0% (0/160) - 7.1% (12/170) in patients receiving placebo.
-
-## Palpitations
-
-For patients receiving delamanid + OBR in the phase 2 and 3 trials, the frequency was 7.9% (frequency category common) in comparison to a frequency of 6.7% in patients receiving placebo + OBR.
-
-## Paediatric population
-
-Based on a study (see section 5.1) in 37 paediatric patients aged 0 to 17 years, the frequency, type and severity of adverse reactions in children are expected to be the same as in adults.
-
-Cases of hallucination have been reported predominantly in the paediatric population during postmarketing. The incidence of hallucination in clinical trials was common for children (5.4%) and adults (1%).
-
-Cases of nightmare have been reported predominantly in the paediatric population during postmarketing.
-
-## Reporting of suspected adverse reactions
-
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-## 4.9 Overdose
-
-No cases of delamanid overdose have been observed in clinical trials. However, additional clinical data showed that in patients receiving 200 mg twice daily, i.e. total 400 mg delamanid per day, the overall safety profile is comparable to that in patients receiving the recommended dose of 100 mg twice daily. Albeit, some reactions were observed at a higher frequency and the rate of QT prolongation increased in a dose-related manner. Treatment of overdose should involve immediate
-
-<div style=\"page-break-after: always\"></div>
-
-measures to remove delamanid from the gastrointestinal tract and supportive care as required. Frequent ECG monitoring should be performed.
-
-## 5. PHARMACOLOGICAL PROPERTIES
-
-## 5.1 Pharmacodynamic properties
-
-Pharmacotherapeutic group: Antimycobacterials, drugs for treatment of tuberculosis, ATC code: J04AK06.
-
-## Mechanism of action
-
-The pharmacological mode of action of delamanid involves inhibition of the synthesis of the mycobacterial cell wall components, methoxy-mycolic and keto-mycolic acid. The identified metabolites of delamanid do not show anti-mycobacterial activity.
-
-## Activity against specific pathogens
-
-Delamanid has no in vitro activity against bacterial species other than mycobacteria.
-
-## Resistance
-
-Mutation in one of the 5 coenzyme F420 genes is suggested as the mechanism for resistance against delamanid in mycobacteria. In mycobacteria, the in vitro frequencies of spontaneous resistance to delamanid were similar to those for isoniazid and were higher than those for rifampicin. Resistance to delamanid has been documented to occur during treatment (see section 4.4). Delamanid does not show cross-resistance with any of the currently used anti-tuberculosis medicinal products except pretomanid. In vitro studies have shown cross-resistance with pretomanid. This is likely to be due to delamanid and pretomanid being activated via the same pathway.
-
-## Susceptibility testing breakpoints
-
-MIC (minimum inhibitory concentration) interpretive criteria for susceptibility testing have been established by the European Committee on Antimicrobial Susceptibility Testing (EUCAST) for delamanid and are listed here: https://www.ema.europa.eu/documents/other/minimum-inhibitoryconcentration-mic-breakpoints\\_en.xlsx
-
-## Data from clinical studies
-
-Delamanid has been evaluated in two, double-blind, placebo-controlled trials for the treatment of MDR-TB. The analyses of SCC were conducted on the modified intent to treat population which included patients who had positive cultures at baseline and the isolate was resistant to both isoniazid and rifampicin, i.e., had MDR-TB.
-
-In the first trial (Trial 204), 64/141 (45.4%) patients randomised to receive delamanid 100 mg BID + OBR and 37/125 (29.6%) of patients randomised to receive placebo (PLC) + OBR achieved twomonth sputum culture conversion (SCC) (i.e. growth of Mycobacterium tuberculosis to no growth over the first 2 months and maintained for 1 more month) (p = 0.0083). The time to SCC for the group randomised to 100 mg BID was also found to be faster than for the group randomised to receive placebo + OBR (p = 0.0056).
-
-In the second trial (Trial 213), delamanid was administered orally at 100 mg BID as an add-on therapy to an OBR for 2 months followed by 200 mg once daily for 4 months. The median time to SCC was 51 days in the delamanid + OBR group compared with 57 days in the PLC + OBR group (p = 0.0562 using the stratified modified Peto-Peto modification of Gehan's Wilcoxon rank sum test). The proportion of patients achieving SCC (sputum culture conversion) after the 6-month treatment period
-
-<div style=\"page-break-after: always\"></div>
-
-was 87.6% (198/226) in the delamanid + OBR treatment group compared to 86.1% (87/101) in the placebo + OBR treatment group (p = 0.7131).
-
-All missing cultures up to the time of SCC were assumed to be positive cultures in the primary analysis. Two sensitivity analyses were conducted - a last-observation-carried-forward (LOCF) analysis and an analysis using 'bookending' methodology (which required that the previous and subsequent cultures were both observed negative cultures to impute a negative result, otherwise a positive result was imputed). Both showed a 13-day shorter median time to SCC in the delamanid + OBR group (p = 0.0281 for LOCF and p = 0.0052 for 'bookending').
-
-Delamanid resistance (defined as MIC ≥ 0.2 µg/mL) has been observed at baseline in 2 of 316 patients in Trial 204 and 2 of 511 patients in Trial 213 (4 of 827 patients [0.48%]). Delamanid resistance emerged in 4 of 341 patients (1.2%) randomised to receive delamanid for 6 months in Trial 213. These four patients were only receiving two other medicinal products in addition to delamanid.
-
-## Paediatric population
-
-The pharmacokinetics, safety and efficacy of delamanid in combination with a background regimen (BR) were evaluated in trial 242-12 -232 (10 days pharmacokinetics) followed by trial -233 (pharmacokinetics, efficacy and safety), both single-arm, open-label trials, which included 37 patients who had a median age of 4.55 years (range 0.78 to 17.60 years), 25 (67.6%) were Asian and 19 (51.4%) were female.
-
-Paediatric patients were enrolled in four groups:
 
 Group 1: 12 to 17 years (7 patients), group 2: 6 to 11 years (6 patients), group 3: 3 to 5 years (12 patients) and group 4: 0 to 2 years (12 patients). The overall mean baseline body weight of subjects was 19.5 kg and in groups 1, 2, 3, and 4 the mean body weights were 38.4, 25.1, 14.8, and 10.3 kg, respectively.
 
 The patients had confirmed or probable MDR-TB infection and were to complete 26 weeks of treatment with delamanid + OBR, followed by OBR only in accordance with the WHO recommendation. Patients in groups 1 and 2 received film-coated tablets. The delamanid dose in group 1 was 100 mg twice daily and 50 mg twice daily in group 2. The doses administered were higher than the currently recommended weight-based dosage in the paediatric population. Patients in groups 3 and 4 received dispersible tablets. This paediatric formulation is not bio-equivalent with the film-coated tablets. Patients in group 3 were administered 25 mg twice daily and patients in group 4 were administered doses between 10 mg twice daily and 5 mg once daily based on body weight. The doses administered in group 4 were below the currently recommended weight-based dosage in the paediatric population.
 
 A population PK analysis was performed on data from the 2 paediatric trials to determine the doses in paediatric subjects which would provide delamanid exposures similar to those observed in adult subjects with MDR-TB. Data in children with a body weight of less than 10 kg were too limited to determine doses for that patient population.
-
-This medicinal product has been authorised under a so-called 'conditional approval' scheme. This means that further evidence on this medicinal product is awaited.
-
-The European Medicines Agency will review new information on this medicinal product at least every year and this SmPC will be updated as necessary.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -815,8 +901,6 @@ Oral bioavailability of delamanid improves when administered with a standard mea
 
 ## Distribution
 
-<div style=\"page-break-after: always\"></div>
-
 Delamanid highly binds to all plasma proteins with a binding to total proteins of ≥ 99.5%. Delamanid has a large apparent volume of distribution (Vz/F of 2 100 L).
 
 ## Biotransformation
@@ -839,6 +923,8 @@ During treatment with the recommended delamanid doses to adolescents and childre
 
 ## Patients with renal impairment
 
+<div style=\"page-break-after: always\"></div>
+
 Less than 5% of an oral dose of delamanid is recovered from urine. Mild renal impairment (50 mL/min &lt; CrCLN &lt; 80 mL/min) does not appear to affect delamanid exposure. Therefore no dose adjustment is needed for patients with mild or moderate renal impairment. It is not known whether delamanid and metabolites will be significantly removed by haemodialysis or peritoneal dialysis.
 
 ## Patients with hepatic impairment
@@ -857,11 +943,7 @@ Non-clinical data reveal no specific hazard for humans based on conventional stu
 
 ## 6.1 List of excipients
 
-<div style=\"page-break-after: always\"></div>
-
-Hypromellose phthalate Povidone (K-25) all-rac-α-Tocopherol Mannitol Crospovidone Sucralose Silica, colloidal hydrated Cherry micron OT-22685
-
-Calcium stearate
+Hypromellose phthalate Povidone (K-25) all-racα -Tocopherol Mannitol Crospovidone Sucralose Silica, colloidal hydrated Cherry micron OT-22685 Calcium stearate
 
 ## 6.2 Incompatibilities
 
@@ -879,31 +961,43 @@ Store in the original package in order to protect from moisture and light.
 
 Aluminium/Aluminium blister: 48 tablets.
 
-## 6.6 Special precautions for disposal
+<div style=\"page-break-after: always\"></div>
+
+6.6
+
+Special precautions for disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
+
+MARKETING AUTHORISATION HOLDER
 
 Otsuka Novel Products GmbH Erika-Mann-Straße 21 80636 München Germany
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+8.
+
+MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/13/875/005
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 28 April 2014
 
-Date of latest renewal: 26 February 2024
+Date of latest renewal: 25 April 2025
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
 
-&lt;{MM/YYYY}&gt;
+DATE OF REVISION OF THE TEXT
 
-<div style=\"page-break-after: always\"></div>
+Detailed information on this medicinal product is available on the website of the European Medicines
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Agency https://www.ema.europa.eu/.
+
+27
 
 <div style=\"page-break-after: always\"></div>
 
@@ -913,7 +1007,6 @@ Detailed information on this medicinal product is available on the website of th
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
-- E. SPECIFIC OBLIGATION TO COMPLETE POSTAUTHORISATION MEASURES FOR THE CONDITIONAL MARKETING AUTHORISATION
 
 <div style=\"page-break-after: always\"></div>
 
@@ -935,9 +1028,7 @@ Medicinal products subject to restricted medical prescription (see Annex I: Summ
 
 ## · Periodic safety update reports (PSURs)
 
-The requirements for submission of PSURs for this medicinal product are set out in Article 9 of Regulation (EC) No 507/2006 and, accordingly, the marketing authorisation holder (MAH) shall submit PSURs every 6 months.
-
-The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines webportal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -949,16 +1040,6 @@ An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-
-## E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE CONDITIONAL MARKETING AUTHORISATION
-
-<div style=\"page-break-after: always\"></div>
-
-This being a conditional marketing authorisation and pursuant to Article 14-a of Regulation (EC) No 726/2004, the MAH shall complete, within the stated timeframe, the following measures:
-
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Due date   |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| In order to further investigate the use of delamanid in different combination treatment regimens as per approved indication as well as safety, the MAHshould submit the publicly available data of the endTB (Evaluating Newly approved Drugs for multidrug- resistant TB) study, a randomised, controlled Phase III trial in adults and adolescents with multi-drug resistant tuberculosis conducted by Médecins Sans Frontières, with an analysis based on the agreed statistical analysis plan and publicly available results from the BEAT-TB study conducted by Wits Health Consortium. . | Q3 2026    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -972,7 +1053,7 @@ This being a conditional marketing authorisation and pursuant to Article 14-a of
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## CARTONS FOR BLISTER PACKS
+CARTONS FOR BLISTER PACKS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1012,8 +1093,6 @@ Store in the original package in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Otsuka Novel Products GmbH Erika-Mann-Straße 21, 80636 München Germany
@@ -1026,23 +1105,19 @@ EU/1/13/875/004
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 Deltyba 50 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
 
@@ -1050,17 +1125,19 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| Blisters (Alu/Alu)                                    |
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| Blisters (Alu/Alu)                                  |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Deltyba 50 mg film-coated tablets delamanid
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 OTSUKA
 
@@ -1107,7 +1184,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -1119,41 +1196,31 @@ Store in the original package in order to protect from moisture and light.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Otsuka Novel Products GmbH Erika-Mann-Straße 21, 80636 München Germany
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/13/875/005
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 Deltyba 25 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
 
@@ -1161,17 +1228,19 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| Blisters (Alu/Alu)                                    |
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| Blisters (Alu/Alu)                                  |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Deltyba 25 mg dispersible tablets delamanid
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 OTSUKA
 
@@ -1194,15 +1263,11 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 ## Package leaflet: Information for the patient
 
 ## Deltyba 50 mg film-coated tablets
 
 ## delamanid
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1244,11 +1309,10 @@ Tell your doctor if you have one of the following conditions:
 
 - you have reduced levels of albumin, potassium, magnesium or calcium in the blood.
 - you have been told that you have heart problems, for example a slow heart rhythm (bradycardia) or have a history of heart attack (myocardial infarction).
-
-<div style=\"page-break-after: always\"></div>
-
 - if you have a condition called congenital long QT syndrome or have a serious heart disease or problems with heart rhythm.
 - you have liver disease or severe kidney disease.
+
+<div style=\"page-break-after: always\"></div>
 
 Inform your doctor immediately while taking this medicine:
 
@@ -1292,11 +1356,11 @@ If you have been told by your doctor that you have an intolerance to some sugars
 
 Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
 
-<div style=\"page-break-after: always\"></div>
-
 The recommended dose as advised by your doctor is:
 
 Adults, adolescents and children with a body weight of 50 kg or more: two 50 mg film-coated tablets taken twice a day (morning and evening) for 24 weeks.
+
+<div style=\"page-break-after: always\"></div>
 
 Children with a body weight of 30 kg or more and less than 50 kg: one 50 mg film-coated tablet taken twice daily for 24 weeks.
 
@@ -1346,13 +1410,13 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - Depression
 - Feeling anxious (anxiety)
 - Hallucination (seeing, hearing or feeling things that are not there)*
-
-<div style=\"page-break-after: always\"></div>
-
 - Heart rhythm disturbance (atrioventricular block first degree)
 - Indigestion (dyspepsia)
 - Irregular heartbeats (ventricular extrasystoles)
 - Muscular weakness
+
+<div style=\"page-break-after: always\"></div>
+
 - Muscle spasms
 - Numbness, decreased sensation in hands and/or feet (hypoaesthesia)
 - Pounding heartbeat (palpitations)
@@ -1390,19 +1454,23 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Deltyba 50 mg film-coated tablets contain
 
 - -One film-coated tablet contains 50 mg of the active substance delamanid.
-- -The other ingredients are hypromellose phthalate, povidone, all-rac-α-tocopherol, microcrystalline cellulose, sodium starch glycolate, carmellose calcium, colloidal hydrated silica, magnesium stearate, lactose monohydrate, hypromellose, macrogol 8000, titanium dioxide, talc, iron oxide (E172).
+- -The other ingredients are hypromellose phthalate, povidone, all-racα -tocopherol, microcrystalline cellulose, sodium starch glycolate, carmellose calcium, colloidal hydrated silica, magnesium stearate, lactose monohydrate, hypromellose, macrogol 8000, titanium dioxide, talc, iron oxide (E172).
 
 ## What Deltyba 50 mg film-coated tablets look like and contents of the pack
 
 Deltyba 50 mg film-coated tablets are round, and yellow.
 
-<div style=\"page-break-after: always\"></div>
-
 Deltyba is supplied in packs of 48 film-coated tablets in aluminium/aluminium blisters.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Marketing Authorisation Holder: Otsuka Novel Products GmbH Erika-Mann-Straße 21 80636 München Germany Tel: +49 (0)89 206020 500
+Marketing Authorisation Holder:
+
+<div style=\"page-break-after: always\"></div>
+
+Otsuka Novel Products GmbH Erika-Mann-Straße 21 80636 München Germany
+
+Tel: +49 (0)89 206020 500
 
 Manufacturer: R-Pharm Germany GmbH Heinrich-Mack-Straße 35 89257 Illertissen Germany
 
@@ -1422,7 +1490,7 @@ Otsuka Novel Products GmbH Tel: +49 (0)89 206020 500
 
 ## DK
 
-Otsuka Novel Products GmbH Tlf: +49 (0)89 206020 500
+Otsuka Novel Products GmbH Tlf.: +49 (0)89 206020 500
 
 ## DE
 
@@ -1434,15 +1502,19 @@ Otsuka Novel Products GmbH Tel: +49 (0)89 206020 500
 
 ## EL
 
-Otsuka Novel Products GmbH Τηλ: +49 (0)89 206020 500
+Otsuka Novel Products GmbH Τηλ : +49 (0)89 206020 500
 
 ## ES
 
-Otsuka Pharmaceutical S.A. Tel: +34 93 208 10 20
+Otsuka Pharmaceutical S.A. Tel: +34 (0)93 208 10 20
 
 ## FR
 
-Otsuka Pharmaceutical France SAS Tél. : +33 (0)1 47 08 00 00
+Otsuka Pharmaceutical France SAS Tél : +33 (0)1 47 08 00 00
+
+## HR
+
+Otsuka Novel Products GmbH Tel: +49 (0)89 206020 500
 
 ## LT
 
@@ -1480,15 +1552,17 @@ Otsuka Novel Products GmbH Tel.: +49 (0)89 206020 500
 
 Otsuka Novel Products GmbH Tel: +49 (0)89 206020 500
 
-<div style=\"page-break-after: always\"></div>
+## RO
 
-## HR
+Swixx Biopharma S.R.L. Tel: +40 (0)37 1530 850
+
+## IE
 
 Otsuka Novel Products GmbH
 
 Tel: +49 (0)89 206020 500
 
-## IE
+## SI
 
 Otsuka Novel Products GmbH
 
@@ -1500,45 +1574,17 @@ Otsuka Novel Products GmbH
 
 Sími: +49 (0)89 206020 500
 
-## IT
-
-Otsuka Pharmaceutical Italy S.r.l.
-
-Tel: +39 (0)2 00632710
-
-## CY
-
-Otsuka Novel Products GmbH
-
-Τηλ: +49 (0)89 206020 500
-
-## LV
-
-Otsuka Novel Products GmbH
-
-Tel: +49 (0)89 206020 500
-
-## This leaflet was last revised in &lt; { MM/YYYY }&gt;.
-
-This medicine has been given 'conditional approval'. This means that there is more evidence to come about this medicine.
-
-The European Medicines Agency will review new information on this medicine at least every year and this leaflet will be updated as necessary.
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
-
-## RO
-
-Swixx Biopharma S.R.L. Tel. +40 37 1530 850
-
-## SI
-
-Otsuka Novel Products GmbH Tel: +49 (0)89 206020 500
-
 ## SK
 
 Otsuka Novel Products GmbH
 
 Tel: +49 (0)89 206020 500
+
+## IT
+
+Otsuka Pharmaceutical Italy S.r.l.
+
+Tel: +39 (0)2 00632710
 
 ## FI
 
@@ -1546,7 +1592,19 @@ Otsuka Novel Products GmbH
 
 Puh/Tel: +49 (0)89 206020 500
 
+## CY
+
+Otsuka Novel Products GmbH
+
+Τηλ: +49 (0)89 206020 500
+
 ## SE
+
+Otsuka Novel Products GmbH
+
+Tel: +49 (0)89 206020 500
+
+## LV
 
 Otsuka Novel Products GmbH
 
@@ -1554,15 +1612,17 @@ Tel: +49 (0)89 206020 500
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
+## This leaflet was last revised in
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/. There are also links to other websites about rare diseases and treatments.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Package leaflet: Information for the patient
 
 ## Deltyba 25 mg dispersible tablets
 
 ## delamanid
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1604,11 +1664,10 @@ Tell your doctor if you have one of the following conditions:
 
 - you have reduced levels of albumin, potassium, magnesium or calcium in the blood.
 - you have been told that you have heart problems, for example a slow heart rhythm (bradycardia) or have a history of heart attack (myocardial infarction).
-
-<div style=\"page-break-after: always\"></div>
-
 - if you have a condition called congenital long QT syndrome or have a serious heart disease or problems with heart rhythm.
 - you have liver disease or severe kidney disease.
+
+<div style=\"page-break-after: always\"></div>
 
 Inform your doctor immediately while taking this medicine:
 
@@ -1648,13 +1707,13 @@ Deltyba is expected to have a moderate influence on your ability to drive and us
 
 Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
 
-## The recommended dose as advised by your doctor is:
+The recommended dose as advised by your doctor is:
 
 Children with a body weight of 20 kg or more and less than 30 kg: two 25 mg dispersible tablets in the morning and one 25 mg dispersible tablet in the evening for 24 weeks.
 
-<div style=\"page-break-after: always\"></div>
-
 Children with a body weight of 10 kg or more and less than 20 kg: one 25 mg dispersible tablet in the morning and one 25 mg dispersible tablet in the evening for 24 weeks.
+
+<div style=\"page-break-after: always\"></div>
 
 For children with a body weight of 30 kg or more please see the package leaflet for Deltyba 50 mg film-coated tablets.
 
@@ -1700,12 +1759,12 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - Decrease in the thyroid gland activity (hypothyroidism)
 - Defect in cardiac rhythm that predisposes to fainting, dizziness and palpitations (electrocardiogram QT prolonged)
 - Depression
-
-<div style=\"page-break-after: always\"></div>
-
 - Feeling anxious (anxiety)
 - Hallucination (seeing, hearing or feeling things that are not there)*
 - Heart rhythm disturbance (atrioventricular block first degree)
+
+<div style=\"page-break-after: always\"></div>
+
 - Indigestion (dyspepsia)
 - Irregular heartbeats (ventricular extrasystoles)
 - Muscular weakness
@@ -1746,15 +1805,15 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Deltyba 25 mg dispersible tablets contain
 
 - -One dispersible tablet contains 25 mg of the active substance delamanid.
-- -The other ingredients are hypromellose phthalate, povidone (K-25), all-rac-α-tocopherol, mannitol, crospovidone, sucralose, colloidal hydrated silica, cherry micron OT-22685, calcium stearate.
+- -The other ingredients are hypromellose phthalate, povidone (K-25), all-racα -tocopherol, mannitol, crospovidone, sucralose, colloidal hydrated silica, cherry micron OT-22685, calcium stearate.
 
 ## What Deltyba 25 mg dispersible tablets look like and contents of the pack
 
 Deltyba 25 mg dispersible tablets are round, and white to off-white.
 
-<div style=\"page-break-after: always\"></div>
-
 Deltyba is supplied in packs of 48 dispersible tablets in aluminium/aluminium blisters.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder and Manufacturer
 
@@ -1780,7 +1839,7 @@ Otsuka Novel Products GmbH Tel: +49 (0)89 206020 500
 
 ## DK
 
-Otsuka Novel Products GmbH Tlf: +49 (0)89 206020 500
+Otsuka Novel Products GmbH Tlf.: +49 (0)89 206020 500
 
 ## DE
 
@@ -1792,15 +1851,19 @@ Otsuka Novel Products GmbH Tel: +49 (0)89 206020 500
 
 ## EL
 
-Otsuka Novel Products GmbH Τηλ: +49 (0)89 206020 500
+Otsuka Novel Products GmbH Τηλ : +49 (0)89 206020 500
 
 ## ES
 
-Otsuka Pharmaceutical S.A. Tel: +34 93 208 10 20
+Otsuka Pharmaceutical S.A. Tel: +34 (0)93 208 10 20
 
 ## FR
 
-Otsuka Pharmaceutical France SAS Tél. : +33 (0)1 47 08 00 00
+Otsuka Pharmaceutical France SAS Tél: +33 (0)1 47 08 00 00
+
+## HR
+
+Otsuka Novel Products GmbH Tel: +49 (0)89 206020 500
 
 ## LT
 
@@ -1838,15 +1901,17 @@ Otsuka Novel Products GmbH Tel.: +49 (0)89 206020 500
 
 Otsuka Novel Products GmbH Tel: +49 (0)89 206020 500
 
-<div style=\"page-break-after: always\"></div>
+## RO
 
-## HR
+Swixx Biopharma S.R.L. Tel: +40 (0)37 1530 850
+
+## IE
 
 Otsuka Novel Products GmbH
 
 Tel: +49 (0)89 206020 500
 
-## IE
+## SI
 
 Otsuka Novel Products GmbH
 
@@ -1858,47 +1923,17 @@ Otsuka Novel Products GmbH
 
 Sími: +49 (0)89 206020 500
 
-## IT
-
-Otsuka Pharmaceutical Italy S.r.l.
-
-Tel: +39 (0)2 00632710
-
-## CY
-
-Otsuka Novel Products GmbH
-
-Τηλ: +49 (0)89 206020 500
-
-## LV
-
-Otsuka Novel Products GmbH
-
-Tel: +49 (0)89 206020 500
-
-## This leaflet was last revised in &lt; { MM/YYYY }&gt;.
-
-This medicine has been given 'conditional approval'. This means that there is more evidence to come about this medicine.
-
-The European Medicines Agency will review new information on this medicine at least every year and this leaflet will be updated as necessary.
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
-
-## RO
-
-Swixx Biopharma S.R.L. Tel. +40 37 1530 850
-
-## SI
-
-Otsuka Novel Products GmbH
-
-Tel: +49 (0)89 206020 500
-
 ## SK
 
 Otsuka Novel Products GmbH
 
 Tel: +49 (0)89 206020 500
+
+## IT
+
+Otsuka Pharmaceutical Italy S.r.l.
+
+Tel: +39 (0)2 00632710
 
 ## FI
 
@@ -1906,8 +1941,26 @@ Otsuka Novel Products GmbH
 
 Puh/Tel: +49 (0)89 206020 500
 
+## CY
+
+Otsuka Novel Products GmbH
+
+Τηλ: +49 (0)89 206020 500
+
 ## SE
 
 Otsuka Novel Products GmbH
 
 Tel: +49 (0)89 206020 500
+
+## LV
+
+Otsuka Novel Products GmbH
+
+Tel: +49 (0)89 206020 500
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/. There are also links to other websites about rare diseases and treatments.

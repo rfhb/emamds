@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-20 13:44:54
+document_datetime: 2026-03-20 16:47:50
 document_pages: 56
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/apremilast-accord-epar-product-information_en.pdf
 document_name: apremilast-accord-epar-product-information_en.pdf
 version: success
-processing_time: 17.9291985
-conversion_datetime: 2026-02-21 12:14:26.458887
+processing_time: 20.0156133
+conversion_datetime: 2026-03-21 13:28:26.244878
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -129,7 +129,7 @@ No re-titration is required after initial titration.
 
 The recommended twice daily apremilast dose should be taken approximately 12 hours apart (morning and evening), with no food restrictions.
 
-If a patient misses a dose, the next dose should be taken as soon as possible. If it is close to the time for the next dose, the missed dose should not be taken and the next dose should be taken at the regular time.
+If patients miss a dose, the next dose should be taken as soon as possible. If it is close to the time for their next dose, the missed dose should not be taken and the next dose should be taken at the regular time.
 
 During pivotal trials the greatest improvement was observed within the first 24 weeks of treatment for PsA and PSOR and within the first 12 weeks of treatment for BD. If a patient shows no evidence of therapeutic benefit after this time period, treatment should be reconsidered. The patient's response to treatment should be evaluated on a regular basis.
 
@@ -177,7 +177,7 @@ There have been post-marketing reports of severe diarrhoea, nausea, and vomiting
 
 ## Psychiatric disorders
 
-Apremilast is associated with an increased risk of psychiatric disorders such as insomnia and depression. Instances of suicidal ideation and behaviour, including suicide, have been observed in patients with or without history of depression (see section 4.8). The risks and benefits of starting or continuing treatment with apremilast should be carefully assessed if patients report previous or existing psychiatric symptoms or if concomitant treatment with other medicinal products likely to cause psychiatric events is intended. Patients and caregivers should be instructed to notify the prescriber of any changes in behaviour or mood and of any suicidal ideation. If patients suffered from new or worsening psychiatric symptoms, or suicidal ideation or suicidal attempt is identified, it is recommended to discontinue treatment with apremilast.
+Apremilast is associated with an increased risk of psychiatric disorders such as insomnia, anxiety, altered mood, and depression. Instances of suicidal ideation and behaviour, including suicide, have been observed in patients with or without history of depression (see section 4.8). The risks and benefits of starting or continuing treatment with apremilast should be carefully assessed if patients report previous or existing psychiatric symptoms or if concomitant treatment with other medicinal products likely to cause psychiatric events is intended. Patients and caregivers should be instructed to notify the prescriber of any changes in behaviour or mood and of any suicidal ideation. If patients suffered from new or worsening psychiatric symptoms, or suicidal ideation or suicidal attempt is identified, it is recommended to discontinue treatment with apremilast.
 
 ## Severe renal impairment
 
@@ -276,6 +276,8 @@ Table 3. Summary of adverse reactions in psoriatic arthritis (PsA), psoriasis (P
 
 | System Organ Class                                   | Frequency   | Adverse reaction                |
 |------------------------------------------------------|-------------|---------------------------------|
+|                                                      |             | Anxiety                         |
+|                                                      |             | Mood altered                    |
 | Nervous system disorders                             | Very common | Headache* ,a                    |
 | Nervous system disorders                             | Common      | Migraine*                       |
 | Nervous system disorders                             | Common      | Tension headache*               |
@@ -309,11 +311,11 @@ Please see additional warning in section 4.4 for patients who are underweight at
 
 ## Special populations
 
-## Elderly patients
-
-From postmarketing experience, elderly patients ≥ 65 years of age may be at a higher risk of complications of severe diarrhoea, nausea and vomiting (see section 4.4).
+Elderly patients
 
 <div style=\"page-break-after: always\"></div>
+
+From postmarketing experience, elderly patients ≥ 65 years of age may be at a higher risk of complications of severe diarrhoea, nausea and vomiting (see section 4.4).
 
 ## Patients with hepatic impairment
 
@@ -347,11 +349,11 @@ Apremilast, an oral small-molecule inhibitor of phosphodiesterase 4 (PDE4), work
 
 ## Pharmacodynamic effects
 
-In clinical studies in patients with psoriatic arthritis, apremilast significantly modulated, but did not fully inhibit, plasma protein levels of IL1α, IL -6, IL-8, MCP-1, MIP1β, MMP -3, and TNFα. After 40 weeks of treatment with apremilast, there was a decrease in plasma protein levels of IL-17 and IL23, and an increase in IL-10. In clinical studies in patients with psoriasis, apremilast decreased lesional skin epidermal thickness, inflammatory cell infiltration, and expression of pro-inflammatory genes, including those for inducible nitric oxide synthase (iNOS), IL-12/IL-23p40, IL-17A, IL-22 and IL-8. In clinical studies in patients with Behçet Disease treated with apremilast, there was a significant
+In clinical studies in patients with psoriatic arthritis, apremilast significantly modulated, but did not fully inhibit, plasma protein levels of IL1α, IL -6, IL-8, MCP-1, MIP1β, MMP -3, and TNFα. After 40 weeks of treatment with apremilast, there was a decrease in plasma protein levels of IL-17 and IL23, and an increase in IL-10. In clinical studies in patients with psoriasis, apremilast decreased lesional
 
 <div style=\"page-break-after: always\"></div>
 
-positive association between the change in plasma TNF-alpha and clinical efficacy as measured by the number of oral ulcers.
+skin epidermal thickness, inflammatory cell infiltration, and expression of pro-inflammatory genes, including those for inducible nitric oxide synthase (iNOS), IL-12/IL-23p40, IL-17A, IL-22 and IL-8. In clinical studies in patients with Behçet Disease treated with apremilast, there was a significant positive association between the change in plasma TNF-alpha and clinical efficacy as measured by the number of oral ulcers.
 
 Apremilast administered at doses of up to 50 mg twice daily did not prolong the QT interval in healthy subjects.
 
@@ -397,7 +399,7 @@ Responses observed in the apremilast treated group were similar in patients rece
 
 Similar ACR responses were observed in patients with different PsA subtypes, including DIP. The number of patients with arthritis mutilans and predominant spondylitis subtypes was too small to allow meaningful assessment.
 
-In PALACE 1, PALACE 2 and PALACE 3, improvements in Disease Activity Scale (DAS) 28 C-reactive protein (CRP) and in the proportion of patients achieving a modified PsA response criteria (PsARC) were greater in the apremilast group, compared to placebo at week 16 (nominal p-value p ≤ 0.0004, pvalue ≤ 0.0017, respectively). These improvements were maintained at week 24. Among patients who remained on the apremilast treatment to which they were randomised at study start, DAS28 (CRP) score and PsARC response were maintained through week 52.
+In PALACE 1, PALACE 2 and PALACE 3, improvements in Disease Activity Scale (DAS) 28 C-reactive protein (CRP) and in the proportion of patients achieving a modified PsA response criteria (PsARC) were greater in the apremilast group, compared to placebo at week 16 (nominal p-value p ≤ 0.0004, pvalue ≤ 0.0017, respectively). These improvement s were maintained at week 24. Among patients who remained on the apremilast treatment to which they were randomised at study start, DAS28 (CRP) score and PsARC response were maintained through week 52.
 
 At weeks 16 and 24 improvements in parameters of peripheral activity characteristic of psoriatic arthritis (e.g. number of swollen joints, number of painful/tender joints, dactylitis and enthesitis) and in the skin manifestations of psoriasis were seen in the apremilast-treated patients. Among patients who remained on the apremilast treatment to which they were randomised at study start, these improvements were maintained through week 52.
 
@@ -608,7 +610,7 @@ Time (weeks)
 | Weeks                | 0124681012 16                                                          | 28       | 40       | 52       | 64 Follow-up      |
 |----------------------|------------------------------------------------------------------------|----------|----------|----------|-------------------|
 | Placebo, n (Mean)    | 1039697939186 83 82 83 (3.9)2.9)(2.8X2.3) (2.5) (2.2) (1.9)(2.0) (0.7) | 7B (0.8) | 73 (0.7) | 70 (1.1) | 67 82 (0.8) (2.0) |
-| APR 30 BID, n (Mean) | 104 101 101 101 98 6 97 95 (）（0）(z）（91）（XXX） (0.9)                     | 92 (60)  | 85 (0.9) | 79 (0.9) | 75 85 (1.4) (2.5) |
+| APR 30 BID, n (Mean) | 104 101 101 101 98 6 97 95 (）（0）(z）（91）（XX） (0.9)                      | 92 (60)  | 85 (0.9) | 79 (0.9) | 75 85 (1.4) (2.5) |
 
 ITT = Intent To Treat; DAO = Data As Observed.
 
@@ -669,7 +671,7 @@ In vitro , apremilast is not an inhibitor or inducer of cytochrome P450 enzymes.
 
 In vitro , apremilast is a substrate, and a weak inhibitor of Pglycoprotein (IC50 &gt; 50 μM), however clinically relevant drug interactions mediated via P-gp are not expected to occur.
 
-In vitro , apremilast has little to no inhibitory effect (IC50 &gt; 10 μM ) on Organic Anion Transporter (OAT)1 and OAT3, Organic Cation Transporter (OCT)2, Organic Anion Transporting Polypeptide (OATP)1B1 and OATP1B3, or breast cancer resistance protein (BCRP) and is not a substrate for these transporters. Hence, clinically relevant drug-drug interactions are unlikely when apremilast is coadministered with drugs that are substrates or inhibitors of these transporters.
+In vitro , apremilast has little to no inhibitory effect (IC50 &gt; 10 μM) on Organic Anion Transporter (OAT)1 and OAT3, Organic Cation Transporter (OCT)2, Organic Anion Transporting Polypeptide (OATP)1B1 and OATP1B3, or breast cancer resistance protein (BCRP) and is not a substrate for these transporters. Hence, clinically relevant drug-drug interactions are unlikely when apremilast is coadministered with drugs that are substrates or inhibitors of these transporters.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1065,6 +1067,8 @@ Apremilast Accord 30 mg
 
 PC SN NN
 
+<div style=\"page-break-after: always\"></div>
+
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 Blister sealed inside the wallet card
@@ -1086,8 +1090,6 @@ EXP
 Lot
 
 ## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -1155,6 +1157,8 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+<div style=\"page-break-after: always\"></div>
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -1170,24 +1174,20 @@ EU/1/24/1796/006 EU/1/24/1796/007
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Apremilast Accord 20 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 PC
 
 SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1748,10 +1748,13 @@ Tell your doctor straight away about any changes in behaviour or mood, feelings 
 - allergic reaction
 - bleeding in the bowel or in the stomach
 - suicidal ideation or behaviour
+- anxiety
 
 <div style=\"page-break-after: always\"></div>
 
-## Not known side effects (frequency cannot be estimated from the available data)
+## · mood changes
+
+Not known side effects (frequency cannot be estimated from the available data)
 
 - severe allergic reaction (may include swelling of the face, lips, mouth, tongue, or throat that may lead to difficulty breathing or swallowing)
 
@@ -1826,7 +1829,9 @@ For any information about this medicine, please contact the local representative
 
 AT / BE / BG / CY / CZ / DE / DK / EE / ES / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU/ MT / NL / NO / PL / PT / RO / SE / SI / SK
 
-Accord Healthcare S.L.U. Tel: +34 93 301 00 64
+Accord Healthcare S.L.U.
+
+Tel: +34 93 301 00 64
 
 EL
 
@@ -1838,8 +1843,8 @@ el: +30 210 74 88 821
 
 ## This leaflet was last revised in.
 
-## Other sources of information
-
 <div style=\"page-break-after: always\"></div>
 
-Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu.
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu.

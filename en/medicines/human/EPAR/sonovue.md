@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 10:18:07
+document_datetime: 2026-03-20 09:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sonovue.html
 document_name: sonovue.html
 version: success
-processing_time: 0.1209471
-conversion_datetime: 2025-12-30 03:16:32.440167
+processing_time: 0.08799
+conversion_datetime: 2026-03-21 12:05:36.690656
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # SonoVue
 
 [RSS](/en/individual-human-medicine.xml/65494)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 sulphur hexafluoride Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +115,7 @@ English (EN) (85.25 KB - PDF)
 
 [View](/en/documents/overview/sonovue-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-429)
+[Other languages (22)](#file-language-dropdown-984)
 
 български (BG) (113.51 KB - PDF)
 
@@ -395,17 +393,17 @@ English (EN) (526.32 KB - PDF)
 
 SonoVue : EPAR - Product Information
 
-English (EN) (251.38 KB - PDF)
+English (EN) (599.67 KB - PDF)
 
 **First published:** 21/02/2008
 
-**Last updated:** 05/06/2023
+**Last updated:** 20/03/2026
 
 [View](/en/documents/product-information/sonovue-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-391)
+[Other languages (24)](#file-language-dropdown-683)
 
-български (BG) (284.89 KB - PDF)
+български (BG) (376.35 KB - PDF)
 
 **First published:**
 
@@ -413,11 +411,11 @@ English (EN) (251.38 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/bg/documents/product-information/sonovue-epar-product-information_bg.pdf)
 
-español (ES) (234.88 KB - PDF)
+español (ES) (610.29 KB - PDF)
 
 **First published:**
 
@@ -425,11 +423,11 @@ español (ES) (234.88 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/es/documents/product-information/sonovue-epar-product-information_es.pdf)
 
-čeština (CS) (370.28 KB - PDF)
+čeština (CS) (490.64 KB - PDF)
 
 **First published:**
 
@@ -437,11 +435,11 @@ español (ES) (234.88 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/cs/documents/product-information/sonovue-epar-product-information_cs.pdf)
 
-dansk (DA) (201.37 KB - PDF)
+dansk (DA) (281.49 KB - PDF)
 
 **First published:**
 
@@ -449,11 +447,11 @@ dansk (DA) (201.37 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/da/documents/product-information/sonovue-epar-product-information_da.pdf)
 
-Deutsch (DE) (264.56 KB - PDF)
+Deutsch (DE) (260.81 KB - PDF)
 
 **First published:**
 
@@ -461,11 +459,11 @@ Deutsch (DE) (264.56 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/de/documents/product-information/sonovue-epar-product-information_de.pdf)
 
-eesti keel (ET) (184.4 KB - PDF)
+eesti keel (ET) (844.25 KB - PDF)
 
 **First published:**
 
@@ -473,11 +471,11 @@ eesti keel (ET) (184.4 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/et/documents/product-information/sonovue-epar-product-information_et.pdf)
 
-ελληνικά (EL) (451.61 KB - PDF)
+ελληνικά (EL) (378.37 KB - PDF)
 
 **First published:**
 
@@ -485,11 +483,11 @@ eesti keel (ET) (184.4 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/el/documents/product-information/sonovue-epar-product-information_el.pdf)
 
-français (FR) (229.82 KB - PDF)
+français (FR) (299.5 KB - PDF)
 
 **First published:**
 
@@ -497,11 +495,11 @@ français (FR) (229.82 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/fr/documents/product-information/sonovue-epar-product-information_fr.pdf)
 
-hrvatski (HR) (303.33 KB - PDF)
+hrvatski (HR) (373.52 KB - PDF)
 
 **First published:**
 
@@ -509,11 +507,11 @@ hrvatski (HR) (303.33 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/hr/documents/product-information/sonovue-epar-product-information_hr.pdf)
 
-íslenska (IS) (218.19 KB - PDF)
+íslenska (IS) (296.14 KB - PDF)
 
 **First published:**
 
@@ -521,11 +519,11 @@ hrvatski (HR) (303.33 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/is/documents/product-information/sonovue-epar-product-information_is.pdf)
 
-italiano (IT) (219.06 KB - PDF)
+italiano (IT) (592.3 KB - PDF)
 
 **First published:**
 
@@ -533,11 +531,11 @@ italiano (IT) (219.06 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/it/documents/product-information/sonovue-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (298.09 KB - PDF)
+latviešu valoda (LV) (634.41 KB - PDF)
 
 **First published:**
 
@@ -545,11 +543,11 @@ latviešu valoda (LV) (298.09 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/lv/documents/product-information/sonovue-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (291.79 KB - PDF)
+lietuvių kalba (LT) (552.68 KB - PDF)
 
 **First published:**
 
@@ -557,11 +555,11 @@ lietuvių kalba (LT) (291.79 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/lt/documents/product-information/sonovue-epar-product-information_lt.pdf)
 
-magyar (HU) (302.01 KB - PDF)
+magyar (HU) (370.32 KB - PDF)
 
 **First published:**
 
@@ -569,11 +567,11 @@ magyar (HU) (302.01 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/hu/documents/product-information/sonovue-epar-product-information_hu.pdf)
 
-Malti (MT) (343.08 KB - PDF)
+Malti (MT) (797.37 KB - PDF)
 
 **First published:**
 
@@ -581,11 +579,11 @@ Malti (MT) (343.08 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/mt/documents/product-information/sonovue-epar-product-information_mt.pdf)
 
-Nederlands (NL) (198.29 KB - PDF)
+Nederlands (NL) (603.38 KB - PDF)
 
 **First published:**
 
@@ -593,11 +591,11 @@ Nederlands (NL) (198.29 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/nl/documents/product-information/sonovue-epar-product-information_nl.pdf)
 
-norsk (NO) (262.04 KB - PDF)
+norsk (NO) (593.41 KB - PDF)
 
 **First published:**
 
@@ -605,11 +603,11 @@ norsk (NO) (262.04 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/no/documents/product-information/sonovue-epar-product-information_no.pdf)
 
-polski (PL) (310.29 KB - PDF)
+polski (PL) (607.39 KB - PDF)
 
 **First published:**
 
@@ -617,11 +615,11 @@ polski (PL) (310.29 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/pl/documents/product-information/sonovue-epar-product-information_pl.pdf)
 
-português (PT) (248.58 KB - PDF)
+português (PT) (557.22 KB - PDF)
 
 **First published:**
 
@@ -629,11 +627,11 @@ português (PT) (248.58 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/pt/documents/product-information/sonovue-epar-product-information_pt.pdf)
 
-română (RO) (321.37 KB - PDF)
+română (RO) (549.71 KB - PDF)
 
 **First published:**
 
@@ -641,11 +639,11 @@ română (RO) (321.37 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/ro/documents/product-information/sonovue-epar-product-information_ro.pdf)
 
-slovenčina (SK) (368.04 KB - PDF)
+slovenčina (SK) (865.08 KB - PDF)
 
 **First published:**
 
@@ -653,11 +651,11 @@ slovenčina (SK) (368.04 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/sk/documents/product-information/sonovue-epar-product-information_sk.pdf)
 
-slovenščina (SL) (305.91 KB - PDF)
+slovenščina (SL) (536.6 KB - PDF)
 
 **First published:**
 
@@ -665,11 +663,11 @@ slovenščina (SL) (305.91 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/sl/documents/product-information/sonovue-epar-product-information_sl.pdf)
 
-Suomi (FI) (226.06 KB - PDF)
+Suomi (FI) (272.31 KB - PDF)
 
 **First published:**
 
@@ -677,11 +675,11 @@ Suomi (FI) (226.06 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/fi/documents/product-information/sonovue-epar-product-information_fi.pdf)
 
-svenska (SV) (265.12 KB - PDF)
+svenska (SV) (588.18 KB - PDF)
 
 **First published:**
 
@@ -689,11 +687,11 @@ svenska (SV) (265.12 KB - PDF)
 
 **Last updated:**
 
-05/06/2023
+20/03/2026
 
 [View](/sv/documents/product-information/sonovue-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0049 10/11/2022
+**Latest procedure affecting product information:** EMA/VR/0000337224 18/03/2026
 
 icon globe
 
@@ -719,7 +717,7 @@ English (EN) (79.2 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sonovue-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-645)
+[Other languages (24)](#file-language-dropdown-370)
 
 български (BG) (96.98 KB - PDF)
 
@@ -1054,9 +1052,9 @@ EMA product number EMEA/H/C/000303 Marketing authorisation holder
 
 Bracco International B.V.
 
-Strawinskylaan 3051
+Argonstraat 3 6422 PH Heerlen The Netherlands
 
-Marketing authorisation issued 26/03/2001 Revision 21
+Marketing authorisation issued 26/03/2001 Revision 22
 
 ## Assessment history
 
@@ -1068,9 +1066,11 @@ Collapse section
 
 SonoVue : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (143.45 KB - PDF)
+English (EN) (131.84 KB - PDF)
 
 **First published:** 24/11/2025
+
+**Last updated:** 20/03/2026
 
 [View](/en/documents/procedural-steps-after/sonovue-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1164,19 +1164,19 @@ English (EN) (415.09 KB - PDF)
 
 [View](/en/documents/scientific-discussion/sonovue-epar-scientific-discussion_en.pdf)
 
-#### News on SonoVue
+## News on SonoVue
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 June 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-june-2017) 23/06/2017
 
-#### More information on SonoVue
+## More information on SonoVue
 
 - [An Observational Study of SonoVue®/Lumason®-Enhanced Urosonography in Paediatric Subjects with Known or Suspected Vesicoureteral Reflux (VUS for evaluation of Paediatric VUR) - post-authorisation study](https://catalogues.ema.europa.eu/study/47474)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 24/11/2025
+**This page was last updated on** 20/03/2026
 
 ## Share this page
 

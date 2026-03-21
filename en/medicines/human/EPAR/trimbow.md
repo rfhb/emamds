@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:24:15
+document_datetime: 2026-03-17 14:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trimbow.html
 document_name: trimbow.html
 version: success
-processing_time: 0.1240627
-conversion_datetime: 2025-12-30 20:49:05.752801
+processing_time: 0.194263
+conversion_datetime: 2026-03-21 12:03:13.895694
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Trimbow
 
 [RSS](/en/individual-human-medicine.xml/67092)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 beclometasone / formoterol / glycopyrronium bromide Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -123,7 +121,7 @@ English (EN) (132.54 KB - PDF)
 
 [View](/en/documents/overview/trimbow-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-292)
+[Other languages (22)](#file-language-dropdown-531)
 
 български (BG) (158.32 KB - PDF)
 
@@ -403,17 +401,17 @@ English (EN) (115.27 KB - PDF)
 
 Trimbow : EPAR - Product information
 
-English (EN) (732.14 KB - PDF)
+English (EN) (2.19 MB - PDF)
 
 **First published:** 09/08/2017
 
-**Last updated:** 17/02/2025
+**Last updated:** 17/03/2026
 
 [View](/en/documents/product-information/trimbow-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-519)
+[Other languages (24)](#file-language-dropdown-341)
 
-български (BG) (897.74 KB - PDF)
+български (BG) (1.18 MB - PDF)
 
 **First published:**
 
@@ -421,11 +419,11 @@ English (EN) (732.14 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/bg/documents/product-information/trimbow-epar-product-information_bg.pdf)
 
-español (ES) (775.52 KB - PDF)
+español (ES) (2.31 MB - PDF)
 
 **First published:**
 
@@ -433,11 +431,11 @@ español (ES) (775.52 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/es/documents/product-information/trimbow-epar-product-information_es.pdf)
 
-čeština (CS) (820.69 KB - PDF)
+čeština (CS) (2.38 MB - PDF)
 
 **First published:**
 
@@ -445,11 +443,11 @@ español (ES) (775.52 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/cs/documents/product-information/trimbow-epar-product-information_cs.pdf)
 
-dansk (DA) (753.12 KB - PDF)
+dansk (DA) (2.24 MB - PDF)
 
 **First published:**
 
@@ -457,11 +455,11 @@ dansk (DA) (753.12 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/da/documents/product-information/trimbow-epar-product-information_da.pdf)
 
-Deutsch (DE) (772.61 KB - PDF)
+Deutsch (DE) (2.29 MB - PDF)
 
 **First published:**
 
@@ -469,11 +467,11 @@ Deutsch (DE) (772.61 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/de/documents/product-information/trimbow-epar-product-information_de.pdf)
 
-eesti keel (ET) (734.49 KB - PDF)
+eesti keel (ET) (2.2 MB - PDF)
 
 **First published:**
 
@@ -481,11 +479,11 @@ eesti keel (ET) (734.49 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/et/documents/product-information/trimbow-epar-product-information_et.pdf)
 
-ελληνικά (EL) (894.73 KB - PDF)
+ελληνικά (EL) (2.4 MB - PDF)
 
 **First published:**
 
@@ -493,11 +491,11 @@ eesti keel (ET) (734.49 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/el/documents/product-information/trimbow-epar-product-information_el.pdf)
 
-français (FR) (792.06 KB - PDF)
+français (FR) (2.33 MB - PDF)
 
 **First published:**
 
@@ -505,11 +503,11 @@ français (FR) (792.06 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/fr/documents/product-information/trimbow-epar-product-information_fr.pdf)
 
-hrvatski (HR) (859.25 KB - PDF)
+hrvatski (HR) (2.39 MB - PDF)
 
 **First published:**
 
@@ -517,11 +515,11 @@ hrvatski (HR) (859.25 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/hr/documents/product-information/trimbow-epar-product-information_hr.pdf)
 
-íslenska (IS) (759.48 KB - PDF)
+íslenska (IS) (2.2 MB - PDF)
 
 **First published:**
 
@@ -529,11 +527,11 @@ hrvatski (HR) (859.25 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/is/documents/product-information/trimbow-epar-product-information_is.pdf)
 
-italiano (IT) (760.34 KB - PDF)
+italiano (IT) (2.3 MB - PDF)
 
 **First published:**
 
@@ -541,11 +539,11 @@ italiano (IT) (760.34 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/it/documents/product-information/trimbow-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (852.87 KB - PDF)
+latviešu valoda (LV) (2.39 MB - PDF)
 
 **First published:**
 
@@ -553,11 +551,11 @@ latviešu valoda (LV) (852.87 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/lv/documents/product-information/trimbow-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (824.16 KB - PDF)
+lietuvių kalba (LT) (2.32 MB - PDF)
 
 **First published:**
 
@@ -565,11 +563,11 @@ lietuvių kalba (LT) (824.16 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/lt/documents/product-information/trimbow-epar-product-information_lt.pdf)
 
-magyar (HU) (800.39 KB - PDF)
+magyar (HU) (2.45 MB - PDF)
 
 **First published:**
 
@@ -577,11 +575,11 @@ magyar (HU) (800.39 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/hu/documents/product-information/trimbow-epar-product-information_hu.pdf)
 
-Malti (MT) (871.01 KB - PDF)
+Malti (MT) (2.5 MB - PDF)
 
 **First published:**
 
@@ -589,11 +587,11 @@ Malti (MT) (871.01 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/mt/documents/product-information/trimbow-epar-product-information_mt.pdf)
 
-Nederlands (NL) (751.34 KB - PDF)
+Nederlands (NL) (2.25 MB - PDF)
 
 **First published:**
 
@@ -601,11 +599,11 @@ Nederlands (NL) (751.34 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/nl/documents/product-information/trimbow-epar-product-information_nl.pdf)
 
-norsk (NO) (736.76 KB - PDF)
+norsk (NO) (2.22 MB - PDF)
 
 **First published:**
 
@@ -613,11 +611,11 @@ norsk (NO) (736.76 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/no/documents/product-information/trimbow-epar-product-information_no.pdf)
 
-polski (PL) (843.73 KB - PDF)
+polski (PL) (2.48 MB - PDF)
 
 **First published:**
 
@@ -625,11 +623,11 @@ polski (PL) (843.73 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/pl/documents/product-information/trimbow-epar-product-information_pl.pdf)
 
-português (PT) (756.96 KB - PDF)
+português (PT) (2.27 MB - PDF)
 
 **First published:**
 
@@ -637,11 +635,11 @@ português (PT) (756.96 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/pt/documents/product-information/trimbow-epar-product-information_pt.pdf)
 
-română (RO) (837.7 KB - PDF)
+română (RO) (2.43 MB - PDF)
 
 **First published:**
 
@@ -649,11 +647,11 @@ română (RO) (837.7 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/ro/documents/product-information/trimbow-epar-product-information_ro.pdf)
 
-slovenčina (SK) (791.52 KB - PDF)
+slovenčina (SK) (2.31 MB - PDF)
 
 **First published:**
 
@@ -661,11 +659,11 @@ slovenčina (SK) (791.52 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/sk/documents/product-information/trimbow-epar-product-information_sk.pdf)
 
-slovenščina (SL) (780.58 KB - PDF)
+slovenščina (SL) (2.35 MB - PDF)
 
 **First published:**
 
@@ -673,11 +671,11 @@ slovenščina (SL) (780.58 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/sl/documents/product-information/trimbow-epar-product-information_sl.pdf)
 
-Suomi (FI) (760.28 KB - PDF)
+Suomi (FI) (2.25 MB - PDF)
 
 **First published:**
 
@@ -685,11 +683,11 @@ Suomi (FI) (760.28 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/fi/documents/product-information/trimbow-epar-product-information_fi.pdf)
 
-svenska (SV) (736.07 KB - PDF)
+svenska (SV) (2.24 MB - PDF)
 
 **First published:**
 
@@ -697,11 +695,11 @@ svenska (SV) (736.07 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/sv/documents/product-information/trimbow-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** WS2763/G 13/02/2025
+**Latest procedure affecting product information:** VR/0000294832 16/03/2026
 
 icon globe
 
@@ -719,17 +717,17 @@ Product information documents contain:
 
 Trimbow : EPAR - All Authorised presentations
 
-English (EN) (16.54 KB - PDF)
+English (EN) (38.16 KB - PDF)
 
 **First published:** 09/08/2017
 
-**Last updated:** 09/04/2021
+**Last updated:** 17/03/2026
 
 [View](/en/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-48)
+[Other languages (24)](#file-language-dropdown-581)
 
-български (BG) (41.57 KB - PDF)
+български (BG) (35.24 KB - PDF)
 
 **First published:**
 
@@ -737,11 +735,11 @@ English (EN) (16.54 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/bg/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (17.99 KB - PDF)
+español (ES) (29.78 KB - PDF)
 
 **First published:**
 
@@ -749,11 +747,11 @@ español (ES) (17.99 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/es/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (39 KB - PDF)
+čeština (CS) (33.06 KB - PDF)
 
 **First published:**
 
@@ -761,11 +759,11 @@ español (ES) (17.99 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/cs/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (16.7 KB - PDF)
+dansk (DA) (28.82 KB - PDF)
 
 **First published:**
 
@@ -773,11 +771,11 @@ dansk (DA) (16.7 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/da/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (15.9 KB - PDF)
+Deutsch (DE) (30.81 KB - PDF)
 
 **First published:**
 
@@ -785,11 +783,11 @@ Deutsch (DE) (15.9 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/de/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (14.83 KB - PDF)
+eesti keel (ET) (27.43 KB - PDF)
 
 **First published:**
 
@@ -797,11 +795,11 @@ eesti keel (ET) (14.83 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/et/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (42.99 KB - PDF)
+ελληνικά (EL) (34.54 KB - PDF)
 
 **First published:**
 
@@ -809,11 +807,11 @@ eesti keel (ET) (14.83 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/el/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (18.06 KB - PDF)
+français (FR) (29.38 KB - PDF)
 
 **First published:**
 
@@ -821,11 +819,11 @@ français (FR) (18.06 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/fr/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (35.45 KB - PDF)
+hrvatski (HR) (31.01 KB - PDF)
 
 **First published:**
 
@@ -833,11 +831,11 @@ hrvatski (HR) (35.45 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/hr/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (17.43 KB - PDF)
+íslenska (IS) (29.59 KB - PDF)
 
 **First published:**
 
@@ -845,11 +843,11 @@ hrvatski (HR) (35.45 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/is/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (16.92 KB - PDF)
+italiano (IT) (28.23 KB - PDF)
 
 **First published:**
 
@@ -857,11 +855,11 @@ italiano (IT) (16.92 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/it/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (41.09 KB - PDF)
+latviešu valoda (LV) (33.19 KB - PDF)
 
 **First published:**
 
@@ -869,11 +867,11 @@ latviešu valoda (LV) (41.09 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/lv/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (39.57 KB - PDF)
+lietuvių kalba (LT) (32.3 KB - PDF)
 
 **First published:**
 
@@ -881,11 +879,11 @@ lietuvių kalba (LT) (39.57 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/lt/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (34.77 KB - PDF)
+magyar (HU) (31.65 KB - PDF)
 
 **First published:**
 
@@ -893,11 +891,11 @@ magyar (HU) (34.77 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/hu/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (40.55 KB - PDF)
+Malti (MT) (32.88 KB - PDF)
 
 **First published:**
 
@@ -905,11 +903,11 @@ Malti (MT) (40.55 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/mt/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (16.1 KB - PDF)
+Nederlands (NL) (27.2 KB - PDF)
 
 **First published:**
 
@@ -917,11 +915,11 @@ Nederlands (NL) (16.1 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/nl/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (17.36 KB - PDF)
+norsk (NO) (29.25 KB - PDF)
 
 **First published:**
 
@@ -929,11 +927,11 @@ norsk (NO) (17.36 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/no/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (38.25 KB - PDF)
+polski (PL) (33.8 KB - PDF)
 
 **First published:**
 
@@ -941,11 +939,11 @@ polski (PL) (38.25 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/pl/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (17.2 KB - PDF)
+português (PT) (29.08 KB - PDF)
 
 **First published:**
 
@@ -953,11 +951,11 @@ português (PT) (17.2 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/pt/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (41.33 KB - PDF)
+română (RO) (31.35 KB - PDF)
 
 **First published:**
 
@@ -965,11 +963,11 @@ română (RO) (41.33 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/ro/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (36.88 KB - PDF)
+slovenčina (SK) (31.83 KB - PDF)
 
 **First published:**
 
@@ -977,11 +975,11 @@ slovenčina (SK) (36.88 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/sk/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (24.95 KB - PDF)
+slovenščina (SL) (29.53 KB - PDF)
 
 **First published:**
 
@@ -989,11 +987,11 @@ slovenščina (SL) (24.95 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/sl/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (16.23 KB - PDF)
+Suomi (FI) (27.18 KB - PDF)
 
 **First published:**
 
@@ -1001,11 +999,11 @@ Suomi (FI) (16.23 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/fi/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (18.04 KB - PDF)
+svenska (SV) (28.37 KB - PDF)
 
 **First published:**
 
@@ -1013,7 +1011,7 @@ svenska (SV) (18.04 KB - PDF)
 
 **Last updated:**
 
-09/04/2021
+17/03/2026
 
 [View](/sv/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_sv.pdf)
 
@@ -1053,7 +1051,7 @@ Chiesi Farmaceutici S.p.A.
 
 Via Palermo 26/A 43122 Parma Italy
 
-Opinion adopted 18/05/2017 Marketing authorisation issued 17/07/2017 Revision 9
+Opinion adopted 18/05/2017 Marketing authorisation issued 17/07/2017 Revision 10
 
 ## Assessment history
 
@@ -1065,13 +1063,21 @@ Collapse section
 
 Trimbow : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (131.89 KB - PDF)
+
+**First published:** 17/03/2026
+
+[View](/en/documents/procedural-steps-after/trimbow-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Trimbow : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (211.83 KB - PDF)
 
 **First published:** 05/03/2020
 
-**Last updated:** 17/02/2025
+**Last updated:** 17/03/2026
 
-[View](/en/documents/procedural-steps-after/trimbow-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/trimbow-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Trimbow-H-C-4257-P46-003 : EPAR - Assessment report
 
@@ -1175,7 +1181,7 @@ English (EN) (75.12 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-trimbow_en.pdf)
 
-#### News on Trimbow
+## News on Trimbow
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 November 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-november-2020) 13/11/2020
 
@@ -1183,16 +1189,16 @@ English (EN) (75.12 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 May 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-may-2017) 19/05/2017
 
-#### More information on Trimbow
+## More information on Trimbow
 
 - [EMEA-001875-PIP02-18-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001875-pip02-18-m04)
 - [Patient characteristics and treatment pathways in patients with asthma or asthma-COPD overlap treated with Medium-Strength ICS/LABA and switching to High-StrEngth ICS/LABA or Medium-Strength TRImbow (BETRI) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000205)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 17/02/2025
+**This page was last updated on** 17/03/2026
 
 ## Share this page
 

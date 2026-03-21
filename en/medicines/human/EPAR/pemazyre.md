@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 13:07:10
+document_datetime: 2026-03-17 15:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pemazyre.html
 document_name: pemazyre.html
 version: success
-processing_time: 0.1113727
-conversion_datetime: 2025-12-30 09:33:11.510394
+processing_time: 0.082396
+conversion_datetime: 2026-03-21 12:15:35.632076
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Pemazyre
 
 [RSS](/en/individual-human-medicine.xml/67423)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 pemigatinib Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +104,7 @@ English (EN) (120.91 KB - PDF)
 
 [View](/en/documents/overview/pemazyre-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-663)
+[Other languages (22)](#file-language-dropdown-615)
 
 български (BG) (135.22 KB - PDF)
 
@@ -296,17 +294,17 @@ English (EN) (144.66 KB - PDF)
 
 Pemazyre : EPAR - Product information
 
-English (EN) (450.21 KB - PDF)
+English (EN) (449.9 KB - PDF)
 
 **First published:** 04/05/2021
 
-**Last updated:** 12/09/2023
+**Last updated:** 17/03/2026
 
 [View](/en/documents/product-information/pemazyre-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-609)
+[Other languages (24)](#file-language-dropdown-689)
 
-български (BG) (584.15 KB - PDF)
+български (BG) (495.19 KB - PDF)
 
 **First published:**
 
@@ -314,11 +312,11 @@ English (EN) (450.21 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/bg/documents/product-information/pemazyre-epar-product-information_bg.pdf)
 
-español (ES) (372.62 KB - PDF)
+español (ES) (365.83 KB - PDF)
 
 **First published:**
 
@@ -326,11 +324,11 @@ español (ES) (372.62 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/es/documents/product-information/pemazyre-epar-product-information_es.pdf)
 
-čeština (CS) (415.6 KB - PDF)
+čeština (CS) (409.07 KB - PDF)
 
 **First published:**
 
@@ -338,11 +336,11 @@ español (ES) (372.62 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/cs/documents/product-information/pemazyre-epar-product-information_cs.pdf)
 
-dansk (DA) (386.8 KB - PDF)
+dansk (DA) (379.41 KB - PDF)
 
 **First published:**
 
@@ -350,11 +348,11 @@ dansk (DA) (386.8 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/da/documents/product-information/pemazyre-epar-product-information_da.pdf)
 
-Deutsch (DE) (388.5 KB - PDF)
+Deutsch (DE) (389.48 KB - PDF)
 
 **First published:**
 
@@ -362,11 +360,11 @@ Deutsch (DE) (388.5 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/de/documents/product-information/pemazyre-epar-product-information_de.pdf)
 
-eesti keel (ET) (374.42 KB - PDF)
+eesti keel (ET) (358.29 KB - PDF)
 
 **First published:**
 
@@ -374,11 +372,11 @@ eesti keel (ET) (374.42 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/et/documents/product-information/pemazyre-epar-product-information_et.pdf)
 
-ελληνικά (EL) (455.59 KB - PDF)
+ελληνικά (EL) (442.01 KB - PDF)
 
 **First published:**
 
@@ -386,11 +384,11 @@ eesti keel (ET) (374.42 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/el/documents/product-information/pemazyre-epar-product-information_el.pdf)
 
-français (FR) (393.32 KB - PDF)
+français (FR) (373.26 KB - PDF)
 
 **First published:**
 
@@ -398,11 +396,11 @@ français (FR) (393.32 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/fr/documents/product-information/pemazyre-epar-product-information_fr.pdf)
 
-hrvatski (HR) (448.36 KB - PDF)
+hrvatski (HR) (426.14 KB - PDF)
 
 **First published:**
 
@@ -410,11 +408,11 @@ hrvatski (HR) (448.36 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/hr/documents/product-information/pemazyre-epar-product-information_hr.pdf)
 
-íslenska (IS) (367.18 KB - PDF)
+íslenska (IS) (369.71 KB - PDF)
 
 **First published:**
 
@@ -422,11 +420,11 @@ hrvatski (HR) (448.36 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/is/documents/product-information/pemazyre-epar-product-information_is.pdf)
 
-italiano (IT) (391.79 KB - PDF)
+italiano (IT) (366.25 KB - PDF)
 
 **First published:**
 
@@ -434,11 +432,11 @@ italiano (IT) (391.79 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/it/documents/product-information/pemazyre-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (501.6 KB - PDF)
+latviešu valoda (LV) (456.47 KB - PDF)
 
 **First published:**
 
@@ -446,11 +444,11 @@ latviešu valoda (LV) (501.6 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/lv/documents/product-information/pemazyre-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (537.44 KB - PDF)
+lietuvių kalba (LT) (493.12 KB - PDF)
 
 **First published:**
 
@@ -458,11 +456,11 @@ lietuvių kalba (LT) (537.44 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/lt/documents/product-information/pemazyre-epar-product-information_lt.pdf)
 
-magyar (HU) (487.17 KB - PDF)
+magyar (HU) (472.71 KB - PDF)
 
 **First published:**
 
@@ -470,11 +468,11 @@ magyar (HU) (487.17 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/hu/documents/product-information/pemazyre-epar-product-information_hu.pdf)
 
-Malti (MT) (462.71 KB - PDF)
+Malti (MT) (433.64 KB - PDF)
 
 **First published:**
 
@@ -482,11 +480,11 @@ Malti (MT) (462.71 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/mt/documents/product-information/pemazyre-epar-product-information_mt.pdf)
 
-Nederlands (NL) (379.66 KB - PDF)
+Nederlands (NL) (376.92 KB - PDF)
 
 **First published:**
 
@@ -494,11 +492,11 @@ Nederlands (NL) (379.66 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/nl/documents/product-information/pemazyre-epar-product-information_nl.pdf)
 
-norsk (NO) (355.78 KB - PDF)
+norsk (NO) (355.45 KB - PDF)
 
 **First published:**
 
@@ -506,11 +504,11 @@ norsk (NO) (355.78 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/no/documents/product-information/pemazyre-epar-product-information_no.pdf)
 
-polski (PL) (471.95 KB - PDF)
+polski (PL) (456.63 KB - PDF)
 
 **First published:**
 
@@ -518,11 +516,11 @@ polski (PL) (471.95 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/pl/documents/product-information/pemazyre-epar-product-information_pl.pdf)
 
-português (PT) (396.23 KB - PDF)
+português (PT) (357.04 KB - PDF)
 
 **First published:**
 
@@ -530,11 +528,11 @@ português (PT) (396.23 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/pt/documents/product-information/pemazyre-epar-product-information_pt.pdf)
 
-română (RO) (462.81 KB - PDF)
+română (RO) (446.48 KB - PDF)
 
 **First published:**
 
@@ -542,11 +540,11 @@ română (RO) (462.81 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/ro/documents/product-information/pemazyre-epar-product-information_ro.pdf)
 
-slovenčina (SK) (465.96 KB - PDF)
+slovenčina (SK) (458.83 KB - PDF)
 
 **First published:**
 
@@ -554,11 +552,11 @@ slovenčina (SK) (465.96 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/sk/documents/product-information/pemazyre-epar-product-information_sk.pdf)
 
-slovenščina (SL) (436.2 KB - PDF)
+slovenščina (SL) (438.74 KB - PDF)
 
 **First published:**
 
@@ -566,11 +564,11 @@ slovenščina (SL) (436.2 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/sl/documents/product-information/pemazyre-epar-product-information_sl.pdf)
 
-Suomi (FI) (404.91 KB - PDF)
+Suomi (FI) (399.55 KB - PDF)
 
 **First published:**
 
@@ -578,11 +576,11 @@ Suomi (FI) (404.91 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/fi/documents/product-information/pemazyre-epar-product-information_fi.pdf)
 
-svenska (SV) (365.28 KB - PDF)
+svenska (SV) (365.52 KB - PDF)
 
 **First published:**
 
@@ -590,11 +588,11 @@ svenska (SV) (365.28 KB - PDF)
 
 **Last updated:**
 
-12/09/2023
+17/03/2026
 
 [View](/sv/documents/product-information/pemazyre-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUSA/00010923/202210 26/07/2023
+**Latest procedure affecting product information:** R/0019 02/07/2025
 
 icon globe
 
@@ -618,7 +616,7 @@ English (EN) (46.45 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pemazyre-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-284)
+[Other languages (24)](#file-language-dropdown-143)
 
 български (BG) (46.74 KB - PDF)
 
@@ -846,7 +844,7 @@ Incyte Biosciences Distribution B.V.
 
 Paasheuvelweg 25
 
-Opinion adopted 28/01/2021 Marketing authorisation issued 26/03/2021 Revision 6
+Opinion adopted 28/01/2021 Marketing authorisation issued 26/03/2021 Revision 7
 
 ## Assessment history
 
@@ -858,13 +856,13 @@ Collapse section
 
 Pemazyre : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (149.46 KB - PDF)
+English (EN) (178.68 KB - PDF)
 
 **First published:** 01/09/2021
 
-**Last updated:** 12/09/2023
+**Last updated:** 17/03/2026
 
-[View](/en/documents/procedural-steps-after/pemazyre-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/pemazyre-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Questions and answers on the refusal of a change to the marketing authorisation for Pemazyre (pemigatinib) (II-15)
 
@@ -938,19 +936,19 @@ English (EN) (100.16 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-pemazyre_en.pdf)
 
-#### News on Pemazyre
+## News on Pemazyre
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 March 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-march-2025) 28/03/2025
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-29 January 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-29-january-2021) 29/01/2021
 
-#### More information on Pemazyre
+## More information on Pemazyre
 
 - [EU/3/18/2066 - orphan designation for treatment of biliary tract cancer](/en/medicines/human/orphan-designations/eu-3-18-2066)
 - [EU/3/19/2216 - orphan designation for treatment of myeloid/lymphoid neoplasms with eosinophilia and rearrangement of PDGFRA, PDGFRB, or FGFR1, or with PCM1-JAK](/en/medicines/human/orphan-designations/eu-3-19-2216)
 - [EMEA-002370-PIP03-22 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002370-pip03-22)
 
-**This page was last updated on** 12/09/2023
+**This page was last updated on** 17/03/2026
 
 ## Share this page
 

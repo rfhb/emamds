@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 11:34:25
+document_datetime: 2026-03-20 14:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xofluza.html
 document_name: xofluza.html
 version: success
-processing_time: 0.1153661
-conversion_datetime: 2025-12-29 23:48:31.648966
+processing_time: 0.2006796
+conversion_datetime: 2026-03-21 11:36:07.20579
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Xofluza
 
 [RSS](/en/individual-human-medicine.xml/67394)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 baloxavir marboxil Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +112,7 @@ English (EN) (119.96 KB - PDF)
 
 [View](/en/documents/overview/xofluza-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-462)
+[Other languages (22)](#file-language-dropdown-905)
 
 български (BG) (145.45 KB - PDF)
 
@@ -394,17 +392,17 @@ English (EN) (1.47 MB - PDF)
 
 Xofluza : EPAR - Product information
 
-English (EN) (478.92 KB - PDF)
+English (EN) (1.24 MB - PDF)
 
 **First published:** 22/01/2021
 
-**Last updated:** 01/12/2025
+**Last updated:** 20/03/2026
 
 [View](/en/documents/product-information/xofluza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-764)
+[Other languages (24)](#file-language-dropdown-766)
 
-български (BG) (1.57 MB - PDF)
+български (BG) (1.74 MB - PDF)
 
 **First published:**
 
@@ -412,11 +410,11 @@ English (EN) (478.92 KB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/bg/documents/product-information/xofluza-epar-product-information_bg.pdf)
 
-español (ES) (1.11 MB - PDF)
+español (ES) (1.28 MB - PDF)
 
 **First published:**
 
@@ -424,11 +422,11 @@ español (ES) (1.11 MB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/es/documents/product-information/xofluza-epar-product-information_es.pdf)
 
-čeština (CS) (1.12 MB - PDF)
+čeština (CS) (1.26 MB - PDF)
 
 **First published:**
 
@@ -436,11 +434,11 @@ español (ES) (1.11 MB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/cs/documents/product-information/xofluza-epar-product-information_cs.pdf)
 
-dansk (DA) (1.13 MB - PDF)
+dansk (DA) (1.38 MB - PDF)
 
 **First published:**
 
@@ -448,11 +446,11 @@ dansk (DA) (1.13 MB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/da/documents/product-information/xofluza-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.3 MB - PDF)
+Deutsch (DE) (1.48 MB - PDF)
 
 **First published:**
 
@@ -460,11 +458,11 @@ Deutsch (DE) (1.3 MB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/de/documents/product-information/xofluza-epar-product-information_de.pdf)
 
-eesti keel (ET) (1 MB - PDF)
+eesti keel (ET) (1.21 MB - PDF)
 
 **First published:**
 
@@ -472,11 +470,11 @@ eesti keel (ET) (1 MB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/et/documents/product-information/xofluza-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.42 MB - PDF)
+ελληνικά (EL) (1.62 MB - PDF)
 
 **First published:**
 
@@ -484,11 +482,11 @@ eesti keel (ET) (1 MB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/el/documents/product-information/xofluza-epar-product-information_el.pdf)
 
-français (FR) (1.1 MB - PDF)
+français (FR) (1.4 MB - PDF)
 
 **First published:**
 
@@ -496,11 +494,11 @@ français (FR) (1.1 MB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/fr/documents/product-information/xofluza-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.05 MB - PDF)
+hrvatski (HR) (1.23 MB - PDF)
 
 **First published:**
 
@@ -508,11 +506,11 @@ hrvatski (HR) (1.05 MB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/hr/documents/product-information/xofluza-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.02 MB - PDF)
+íslenska (IS) (1.2 MB - PDF)
 
 **First published:**
 
@@ -520,11 +518,11 @@ hrvatski (HR) (1.05 MB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/is/documents/product-information/xofluza-epar-product-information_is.pdf)
 
-italiano (IT) (1.15 MB - PDF)
+italiano (IT) (1.36 MB - PDF)
 
 **First published:**
 
@@ -532,11 +530,11 @@ italiano (IT) (1.15 MB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/it/documents/product-information/xofluza-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.18 MB - PDF)
+latviešu valoda (LV) (1.36 MB - PDF)
 
 **First published:**
 
@@ -544,11 +542,11 @@ latviešu valoda (LV) (1.18 MB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/lv/documents/product-information/xofluza-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.24 MB - PDF)
+lietuvių kalba (LT) (1.39 MB - PDF)
 
 **First published:**
 
@@ -556,11 +554,11 @@ lietuvių kalba (LT) (1.24 MB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/lt/documents/product-information/xofluza-epar-product-information_lt.pdf)
 
-magyar (HU) (1.25 MB - PDF)
+magyar (HU) (1.5 MB - PDF)
 
 **First published:**
 
@@ -568,11 +566,11 @@ magyar (HU) (1.25 MB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/hu/documents/product-information/xofluza-epar-product-information_hu.pdf)
 
-Malti (MT) (1.19 MB - PDF)
+Malti (MT) (1.41 MB - PDF)
 
 **First published:**
 
@@ -580,11 +578,11 @@ Malti (MT) (1.19 MB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/mt/documents/product-information/xofluza-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.07 MB - PDF)
+Nederlands (NL) (1.27 MB - PDF)
 
 **First published:**
 
@@ -592,11 +590,11 @@ Nederlands (NL) (1.07 MB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/nl/documents/product-information/xofluza-epar-product-information_nl.pdf)
 
-norsk (NO) (1.14 MB - PDF)
+norsk (NO) (1.34 MB - PDF)
 
 **First published:**
 
@@ -604,11 +602,11 @@ norsk (NO) (1.14 MB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/no/documents/product-information/xofluza-epar-product-information_no.pdf)
 
-polski (PL) (1.23 MB - PDF)
+polski (PL) (1.39 MB - PDF)
 
 **First published:**
 
@@ -616,11 +614,11 @@ polski (PL) (1.23 MB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/pl/documents/product-information/xofluza-epar-product-information_pl.pdf)
 
-português (PT) (1.22 MB - PDF)
+português (PT) (1.43 MB - PDF)
 
 **First published:**
 
@@ -628,11 +626,11 @@ português (PT) (1.22 MB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/pt/documents/product-information/xofluza-epar-product-information_pt.pdf)
 
-română (RO) (1.34 MB - PDF)
+română (RO) (1.36 MB - PDF)
 
 **First published:**
 
@@ -640,11 +638,11 @@ română (RO) (1.34 MB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/ro/documents/product-information/xofluza-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.06 MB - PDF)
+slovenčina (SK) (1.25 MB - PDF)
 
 **First published:**
 
@@ -652,11 +650,11 @@ slovenčina (SK) (1.06 MB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/sk/documents/product-information/xofluza-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.08 MB - PDF)
+slovenščina (SL) (1.27 MB - PDF)
 
 **First published:**
 
@@ -664,11 +662,11 @@ slovenščina (SL) (1.08 MB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/sl/documents/product-information/xofluza-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.16 MB - PDF)
+Suomi (FI) (1.37 MB - PDF)
 
 **First published:**
 
@@ -676,11 +674,11 @@ Suomi (FI) (1.16 MB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/fi/documents/product-information/xofluza-epar-product-information_fi.pdf)
 
-svenska (SV) (1.13 MB - PDF)
+svenska (SV) (1.38 MB - PDF)
 
 **First published:**
 
@@ -688,7 +686,7 @@ svenska (SV) (1.13 MB - PDF)
 
 **Last updated:**
 
-01/12/2025
+20/03/2026
 
 [View](/sv/documents/product-information/xofluza-epar-product-information_sv.pdf)
 
@@ -718,7 +716,7 @@ English (EN) (16.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xofluza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-218)
+[Other languages (24)](#file-language-dropdown-221)
 
 български (BG) (40.95 KB - PDF)
 
@@ -1120,7 +1118,7 @@ English (EN) (142.7 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-xofluza_en.pdf)
 
-#### News on Xofluza
+## News on Xofluza
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2025) 25/04/2025
 
@@ -1128,11 +1126,11 @@ English (EN) (142.7 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 November 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-november-2020) 13/11/2020
 
-#### More information on Xofluza
+## More information on Xofluza
 
 - [EMEA-002440-PIP01-18-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002440-pip01-18-m05)
 
-**This page was last updated on** 01/12/2025
+**This page was last updated on** 20/03/2026
 
 ## Share this page
 

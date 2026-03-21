@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-10-31 11:05:57
-document_pages: 36
+document_datetime: 2026-03-17 14:24:31
+document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/pemazyre-epar-product-information_en.pdf
 document_name: pemazyre-epar-product-information_en.pdf
 version: success
-processing_time: 7.8138695
-conversion_datetime: 2025-12-27 16:43:14.015584
+processing_time: 9.0541637
+conversion_datetime: 2026-03-21 11:37:37.484643
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -36,11 +36,11 @@ Pemazyre 4.5 mg tablets Pemazyre 9 mg tablets Pemazyre 13.5 mg tablets
 
 Each tablet contains 4.5 mg of pemigatinib.
 
-Pemazyre 9 mg tablets Each tablet contains 9 mg of pemigatinib.
+Pemazyre 9 mg tablets
 
-Pemazyre 13.5 mg tablets
+Each tablet contains 9 mg of pemigatinib.
 
-Each tablet contains 13.5 mg of pemigatinib.
+Pemazyre 13.5 mg tablets Each tablet contains 13.5 mg of pemigatinib.
 
 For the full list of excipients, see section 6.1.
 
@@ -170,7 +170,7 @@ Recommendations for management of hyperphosphataemia include dietary phosphate r
 
 ## Hypophosphataemia
 
-Discontinuing phosphate-lowering therapy and diet should be considered during pemigatinib treatment breaks or if serum phosphate level falls below normal range. Severe hypophosphataemia may present with confusion, seizures, focal neurologic findings, heart failure, respiratory failure, muscle weakness, rhabdomyolysis, and haemolytic anemia (see section 4.2). Hypophosphataemia react ions were ≥ Grade 3 in 14.3 % of participants. None of the events were serious, led to discontinuation or to dose reduction. Dose interruption occurred in 1.4 % of participants.
+Discontinuing phosphate-lowering therapy and diet should be considered during pemigatinib treatment breaks or if serum phosphate level falls below normal range. Severe hypophosphataemia may present with confusion, seizures, focal neurologic findings, heart failure, respiratory failure, muscle weakness, rhabdomyolysis, and haemolytic anemia (see section 4.2). Hypophosphataemia reactions were ≥ Grade 3 in 14.3 % of participants. None of the events were serious, led to discontinuation or to dose reduction. Dose interruption occurred in 1.4 % of participants.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -294,7 +294,7 @@ Eye disorders serious adverse reactions were retinal detachment (0.7 %), non-art
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions are presented in table 4. Frequency categories are very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10) and uncommon (≥ 1/1,000 to &lt; 1/100) . Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+Adverse reactions are presented in table 4. Frequency categories are very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10) and uncommon (≥ 1/1,000 to &lt; 1/100). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Table 4: Adverse reactions reported in clinical studies
 
@@ -524,11 +524,11 @@ EU/1/21/1535/005 EU/1/21/1535/006
 
 Date of first authorisation: 26 March 2021
 
-Date of latest renewal: 23 February 2023
+Date of latest renewal: 16 February 2024
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -581,9 +581,11 @@ This being a conditional marketing authorisation and pursuant to Article 14-a of
 
 <div style=\"page-break-after: always\"></div>
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Due date      |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
-| In order to confirm the efficacy and safety of Pemazyre in adults with locally advanced or metastatic cholangiocarcinoma with a fibroblast growth factor receptor 2 (FGFR2) fusion or rearrangement that have progressed after at least one prior line of systemic therapy, the MAHshould submit the results of FIGHT- 302 (INCB 54828-302), a phase 3 study comparing the efficacy and safety of pemigatinib vs. gemcitabine plus cisplatin chemotherapy in adults with unresectable or metastatic cholangiocarcinoma with FGFR2 rearrangement. | December 2026 |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Due date      |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+| In order to confirm the benefit-risk balance of Pemazyre in adults with locally advanced or metastatic cholangiocarcinoma with a fibroblast growth factor receptor 2 (FGFR2) fusion or rearrangement that have progressed after at least one prior line of systemic therapy, the MAHshould submit the results of FIGHT- 302 (INCB 54828-302), a phase 3 study comparing the efficacy and safety of pemigatinib vs. gemcitabine plus cisplatin chemotherapy in adults with unresectable or metastatic cholangiocarcinoma with FGFR2 rearrangement.                                                  | April 2026    |
+| In order to confirm the benefit-risk balance of Pemazyre in adults with locally advanced or metastatic cholangiocarcinoma with a fibroblast growth factor receptor 2 (FGFR2) fusion or rearrangement that have progressed after at least one prior line of systemic therapy, the MAHshould submit the results of CIBI375A201, a phase 2 study evaluating the efficacy and safety of pemigatinib in subjects with surgically unresectable and locally advanced, recurrent or metastatic bile duct carcinoma with FGFR2 fusion or rearrangement who have failed at least one prior systemic therapy. | April 2026    |
+| In order to confirm the benefit-risk balance of Pemazyre in adults with locally advanced or metastatic cholangiocarcinoma with a fibroblast growth factor receptor 2 (FGFR2) fusion or rearrangement that have progressed after at least one prior line of systemic therapy, the MAHshould submit the results of a phase 2 study evaluating the efficacy and safety of pemigatinib in adults with unresectable or metastatic cholangiocarcinoma with FGFR2 rearrangement who failed previous therapy.                                                                                              | December 2031 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1170,7 +1172,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Pemazyre contains
 
-- •
+- ·
 - The active substance is pemigatinib. Each 4.5 mg tablet contains 4.5 mg pemigatinib. Each 9 mg tablet contains 9 mg pemigatinib.
 
 Each 13.5 mg tablet contains 13.5 mg pemigatinib.
@@ -1205,26 +1207,4 @@ The European Medicines Agency will review new information on this medicine at le
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for pemigatinib, the scientific conclusions of CHMP are as follows:
-
-In view of available data on cutaneous calcification from clinical trials, including in some cases a close temporal relationship, and in view of a plausible mechanism of action, the PRAC considers a causal relationship between pemigatinib and cutaneous calcification is at least a reasonable possibility. The PRAC concluded that the product information of products containing pemigatinib should be amended accordingly.
-
-The CHMP agrees with the scientific conclusions made by the PRAC.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for pemigatinib the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing pemigatinib is unchanged subject to the proposed changes to the product information
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.

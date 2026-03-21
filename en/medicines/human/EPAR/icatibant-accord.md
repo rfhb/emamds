@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 12:46:52
+document_datetime: 2026-03-20 10:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/icatibant-accord.html
 document_name: icatibant-accord.html
 version: success
-processing_time: 0.1366999
-conversion_datetime: 2025-12-29 23:04:39.970708
+processing_time: 0.0991371
+conversion_datetime: 2026-03-21 13:27:52.402089
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Icatibant Accord
 
 [RSS](/en/individual-human-medicine.xml/67462)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 icatibant Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +101,7 @@ English (EN) (133 KB - PDF)
 
 [View](/en/documents/overview/icatibant-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-313)
+[Other languages (22)](#file-language-dropdown-275)
 
 български (BG) (156.1 KB - PDF)
 
@@ -283,9 +281,11 @@ svenska (SV) (132.01 KB - PDF)
 
 Icatibant Accord : EPAR - Risk-management-plan summary
 
-English (EN) (97.93 KB - PDF)
+English (EN) (371.28 KB - PDF)
 
 **First published:** 06/09/2021
+
+**Last updated:** 20/03/2026
 
 [View](/en/documents/rmp-summary/icatibant-accord-epar-risk-management-plan-summary_en.pdf)
 
@@ -301,7 +301,7 @@ English (EN) (603.22 KB - PDF)
 
 [View](/en/documents/product-information/icatibant-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-513)
+[Other languages (24)](#file-language-dropdown-294)
 
 български (BG) (707.64 KB - PDF)
 
@@ -591,7 +591,7 @@ svenska (SV) (651.54 KB - PDF)
 
 [View](/sv/documents/product-information/icatibant-accord-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000293287 26/08/2025
+**Latest procedure affecting product information:** VR/0000333262 19/03/2026
 
 icon globe
 
@@ -615,7 +615,7 @@ English (EN) (53.75 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/icatibant-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-623)
+[Other languages (24)](#file-language-dropdown-933)
 
 български (BG) (70.57 KB - PDF)
 
@@ -835,7 +835,7 @@ Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a
 
-Opinion adopted 20/05/2021 Marketing authorisation issued 16/07/2021 Revision 2
+Opinion adopted 20/05/2021 Marketing authorisation issued 16/07/2021 Revision 3
 
 ## Assessment history
 
@@ -847,9 +847,11 @@ Collapse section
 
 Icatibant Accord : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (223.79 KB - PDF)
+English (EN) (147.8 KB - PDF)
 
 **First published:** 27/08/2025
+
+**Last updated:** 20/03/2026
 
 [View](/en/documents/procedural-steps-after/icatibant-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -889,11 +891,11 @@ English (EN) (119.65 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-icatibant-accord_en.pdf)
 
-#### News on Icatibant Accord
+## News on Icatibant Accord
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 May 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-may-2021) 21/05/2021
 
-#### More information on Icatibant Accord
+## More information on Icatibant Accord
 
 Questions and answers on generic medicines
 
@@ -907,7 +909,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-817)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1173,7 +1175,7 @@ svenska (SV) (67.11 KB - PDF)
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1185,7 +1187,7 @@ English (EN) (379.65 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-43)
+[Other languages (24)](#file-language-dropdown-727)
 
 български (BG) (320.91 KB - DOCX)
 
@@ -1379,7 +1381,7 @@ svenska (SV) (319.6 KB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/icatibant-accord-epar-product-information-tracked-changes_sv.docx)
 
-**This page was last updated on** 27/08/2025
+**This page was last updated on** 20/03/2026
 
 ## Share this page
 

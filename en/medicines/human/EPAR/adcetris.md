@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 14:47:37
+document_datetime: 2026-03-20 15:28:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/adcetris.html
 document_name: adcetris.html
 version: success
-processing_time: 0.1435804
-conversion_datetime: 2025-12-30 22:38:23.625133
+processing_time: 0.1088278
+conversion_datetime: 2026-03-21 12:19:26.96665
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Adcetris
 
 [RSS](/en/individual-human-medicine.xml/66239)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 brentuximab vedotin Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -147,7 +145,7 @@ English (EN) (228.13 KB - PDF)
 
 [View](/en/documents/overview/adcetris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-136)
+[Other languages (22)](#file-language-dropdown-79)
 
 български (BG) (256.84 KB - PDF)
 
@@ -427,17 +425,17 @@ English (EN) (783.2 KB - PDF)
 
 Adcetris : EPAR - Product information
 
-English (EN) (1.01 MB - PDF)
+English (EN) (925.47 KB - PDF)
 
 **First published:** 22/11/2012
 
-**Last updated:** 01/10/2025
+**Last updated:** 20/03/2026
 
 [View](/en/documents/product-information/adcetris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-253)
+[Other languages (24)](#file-language-dropdown-589)
 
-български (BG) (1.38 MB - PDF)
+български (BG) (1010.73 KB - PDF)
 
 **First published:**
 
@@ -445,11 +443,11 @@ English (EN) (1.01 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/bg/documents/product-information/adcetris-epar-product-information_bg.pdf)
 
-español (ES) (1.07 MB - PDF)
+español (ES) (897.1 KB - PDF)
 
 **First published:**
 
@@ -457,11 +455,11 @@ español (ES) (1.07 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/es/documents/product-information/adcetris-epar-product-information_es.pdf)
 
-čeština (CS) (1.17 MB - PDF)
+čeština (CS) (1.01 MB - PDF)
 
 **First published:**
 
@@ -469,11 +467,11 @@ español (ES) (1.07 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/cs/documents/product-information/adcetris-epar-product-information_cs.pdf)
 
-dansk (DA) (1.19 MB - PDF)
+dansk (DA) (831.1 KB - PDF)
 
 **First published:**
 
@@ -481,11 +479,11 @@ dansk (DA) (1.19 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/da/documents/product-information/adcetris-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.18 MB - PDF)
+Deutsch (DE) (857.98 KB - PDF)
 
 **First published:**
 
@@ -493,11 +491,11 @@ Deutsch (DE) (1.18 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/de/documents/product-information/adcetris-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.25 MB - PDF)
+eesti keel (ET) (928.93 KB - PDF)
 
 **First published:**
 
@@ -505,11 +503,11 @@ eesti keel (ET) (1.25 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/et/documents/product-information/adcetris-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.3 MB - PDF)
+ελληνικά (EL) (1.03 MB - PDF)
 
 **First published:**
 
@@ -517,11 +515,11 @@ eesti keel (ET) (1.25 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/el/documents/product-information/adcetris-epar-product-information_el.pdf)
 
-français (FR) (1.27 MB - PDF)
+français (FR) (1.08 MB - PDF)
 
 **First published:**
 
@@ -529,11 +527,11 @@ français (FR) (1.27 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/fr/documents/product-information/adcetris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.29 MB - PDF)
+hrvatski (HR) (1.08 MB - PDF)
 
 **First published:**
 
@@ -541,11 +539,11 @@ hrvatski (HR) (1.29 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/hr/documents/product-information/adcetris-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.23 MB - PDF)
+íslenska (IS) (1.03 MB - PDF)
 
 **First published:**
 
@@ -553,11 +551,11 @@ hrvatski (HR) (1.29 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/is/documents/product-information/adcetris-epar-product-information_is.pdf)
 
-italiano (IT) (1.11 MB - PDF)
+italiano (IT) (961.05 KB - PDF)
 
 **First published:**
 
@@ -565,11 +563,11 @@ italiano (IT) (1.11 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/it/documents/product-information/adcetris-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.19 MB - PDF)
+latviešu valoda (LV) (1.1 MB - PDF)
 
 **First published:**
 
@@ -577,11 +575,11 @@ latviešu valoda (LV) (1.19 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/lv/documents/product-information/adcetris-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.2 MB - PDF)
+lietuvių kalba (LT) (1.02 MB - PDF)
 
 **First published:**
 
@@ -589,11 +587,11 @@ lietuvių kalba (LT) (1.2 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/lt/documents/product-information/adcetris-epar-product-information_lt.pdf)
 
-magyar (HU) (1.37 MB - PDF)
+magyar (HU) (1015.38 KB - PDF)
 
 **First published:**
 
@@ -601,11 +599,11 @@ magyar (HU) (1.37 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/hu/documents/product-information/adcetris-epar-product-information_hu.pdf)
 
-Malti (MT) (1.22 MB - PDF)
+Malti (MT) (1010.33 KB - PDF)
 
 **First published:**
 
@@ -613,11 +611,11 @@ Malti (MT) (1.22 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/mt/documents/product-information/adcetris-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.26 MB - PDF)
+Nederlands (NL) (998.45 KB - PDF)
 
 **First published:**
 
@@ -625,11 +623,11 @@ Nederlands (NL) (1.26 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/nl/documents/product-information/adcetris-epar-product-information_nl.pdf)
 
-norsk (NO) (1.04 MB - PDF)
+norsk (NO) (965.74 KB - PDF)
 
 **First published:**
 
@@ -637,11 +635,11 @@ norsk (NO) (1.04 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/no/documents/product-information/adcetris-epar-product-information_no.pdf)
 
-polski (PL) (1.28 MB - PDF)
+polski (PL) (1.05 MB - PDF)
 
 **First published:**
 
@@ -649,11 +647,11 @@ polski (PL) (1.28 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/pl/documents/product-information/adcetris-epar-product-information_pl.pdf)
 
-português (PT) (1.12 MB - PDF)
+português (PT) (843.99 KB - PDF)
 
 **First published:**
 
@@ -661,11 +659,11 @@ português (PT) (1.12 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/pt/documents/product-information/adcetris-epar-product-information_pt.pdf)
 
-română (RO) (1.28 MB - PDF)
+română (RO) (983.8 KB - PDF)
 
 **First published:**
 
@@ -673,11 +671,11 @@ română (RO) (1.28 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/ro/documents/product-information/adcetris-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.26 MB - PDF)
+slovenčina (SK) (1.09 MB - PDF)
 
 **First published:**
 
@@ -685,11 +683,11 @@ slovenčina (SK) (1.26 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/sk/documents/product-information/adcetris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.28 MB - PDF)
+slovenščina (SL) (1.03 MB - PDF)
 
 **First published:**
 
@@ -697,11 +695,11 @@ slovenščina (SL) (1.28 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/sl/documents/product-information/adcetris-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.16 MB - PDF)
+Suomi (FI) (923.5 KB - PDF)
 
 **First published:**
 
@@ -709,11 +707,11 @@ Suomi (FI) (1.16 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/fi/documents/product-information/adcetris-epar-product-information_fi.pdf)
 
-svenska (SV) (1.16 MB - PDF)
+svenska (SV) (895.66 KB - PDF)
 
 **First published:**
 
@@ -721,11 +719,11 @@ svenska (SV) (1.16 MB - PDF)
 
 **Last updated:**
 
-01/10/2025
+20/03/2026
 
 [View](/sv/documents/product-information/adcetris-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0111 02/06/2025
+**Latest procedure affecting product information:** VR/0000323310 18/02/2026
 
 icon globe
 
@@ -751,7 +749,7 @@ English (EN) (9.99 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/adcetris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-949)
+[Other languages (24)](#file-language-dropdown-792)
 
 български (BG) (40.92 KB - PDF)
 
@@ -1068,7 +1066,7 @@ Takeda Pharma A/S
 
 Delta Park 45
 
-Opinion adopted 19/07/2012 Marketing authorisation issued 25/10/2012 Revision 37
+Opinion adopted 19/07/2012 Marketing authorisation issued 25/10/2012 Revision 38
 
 ## Assessment history
 
@@ -1080,13 +1078,21 @@ Collapse section
 
 Adcetris : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (151.27 KB - PDF)
+
+**First published:** 20/03/2026
+
+[View](/en/documents/procedural-steps-after/adcetris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Adcetris : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (423.99 KB - PDF)
 
 **First published:** 05/04/2013
 
-**Last updated:** 01/10/2025
+**Last updated:** 20/03/2026
 
-[View](/en/documents/procedural-steps-after/adcetris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/adcetris-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Adcetris-H-C-002455-II-0111 : EPAR - Assessment report - Variation
 
@@ -1390,7 +1396,7 @@ English (EN) (48.62 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-adcetris_en.pdf)
 
-#### News on Adcetris
+## News on Adcetris
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2025) 25/04/2025
 
@@ -1406,7 +1412,7 @@ English (EN) (48.62 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 May 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-may-2016) 27/05/2016
 
-#### More information on Adcetris
+## More information on Adcetris
 
 This product is no longer an orphan medicine. It was originally designated an orphan medicine for the following orphan indications:
 
@@ -1416,7 +1422,7 @@ This product is no longer an orphan medicine. It was originally designated an or
 
 Adcetris was withdrawn from the Community register of orphan medicinal products in June 2024 upon request of the marketing authorisation holder.
 
-#### More information on Adcetris
+## More information on Adcetris
 
 - [EU/3/08/596 - orphan designation for treatment of Hodgkin's lymphoma](/en/medicines/human/orphan-designations/eu-3-08-596)
 - [EMEA-000980-PIP01-10-M07 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000980-pip01-10-m07)
@@ -1427,11 +1433,11 @@ Adcetris was withdrawn from the Community register of orphan medicinal products 
 - [Post-Authorisation Safety Study (PASS) MA25101: An Observational Cohort Study of the Safety of Brentuximab Vedotin in the Treatment of Relapsed or Refractory CD30+ Hodgkin Lymphoma and Relapsed or Refractory Systemic Anaplastic Large Cell Lymphoma (ARROVEN) - post-authorisation study](https://catalogues.ema.europa.eu/study/42799)
 - [Evaluation of the immunomodulatory effects of therapy with Brentuximab (IMMBRE) - post-authorisation study](https://catalogues.ema.europa.eu/study/13580)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 04/12/2025
+**This page was last updated on** 20/03/2026
 
 ## Share this page
 

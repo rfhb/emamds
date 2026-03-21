@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 14:09:44
+document_datetime: 2026-03-18 12:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vaborem.html
 document_name: vaborem.html
 version: success
-processing_time: 0.1133775
-conversion_datetime: 2025-12-30 01:03:16.797188
+processing_time: 0.0801846
+conversion_datetime: 2026-03-21 11:41:09.641429
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Vaborem
 
 [RSS](/en/individual-human-medicine.xml/67152)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 meropenem / vaborbactam Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +109,7 @@ English (EN) (75.82 KB - PDF)
 
 [View](/en/documents/overview/vabomere-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-35)
+[Other languages (21)](#file-language-dropdown-454)
 
 български (BG) (101.73 KB - PDF)
 
@@ -301,7 +299,7 @@ English (EN) (340.27 KB - PDF)
 
 [View](/en/documents/product-information/vaborem-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-937)
+[Other languages (24)](#file-language-dropdown-376)
 
 български (BG) (393.36 KB - PDF)
 
@@ -617,7 +615,7 @@ English (EN) (42.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-746)
+[Other languages (24)](#file-language-dropdown-964)
 
 български (BG) (49.54 KB - PDF)
 
@@ -956,7 +954,7 @@ Menarini International Operations Luxembourg S.A.
 
 1, Avenue de la Gare
 
-Opinion adopted 20/09/2018 Marketing authorisation issued 20/11/2018 Revision 9
+Opinion adopted 20/09/2018 Marketing authorisation issued 20/11/2018 Revision 10
 
 ## Assessment history
 
@@ -983,6 +981,18 @@ English (EN) (139.27 KB - PDF)
 **Last updated:** 16/10/2025
 
 [View](/en/documents/procedural-steps-after/vaborem-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Vaborem-H-C-004669-II-0020 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2531410
+
+English (EN) (1.95 MB - PDF)
+
+**First published:** 18/03/2026
+
+[View](/en/documents/variation-report/vaborem-h-c-004669-ii-0020-epar-assessment-report_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -1012,21 +1022,21 @@ English (EN) (77.44 KB - PDF)
 
 [View](/en/documents/smop-initial/summary-opinion-vabomere_en.pdf)
 
-#### News on Vaborem
+## News on Vaborem
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 September 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-september-2018) 21/09/2018
 
 [New medicine to treat infections in adults](/en/news/new-medicine-treat-infections-adults) 21/09/2018
 
-#### More information on Vaborem
+## More information on Vaborem
 
 - [EMEA-001731-PIP01-14-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001731-pip01-14-m04)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 16/10/2025
+**This page was last updated on** 18/03/2026
 
 ## Share this page
 

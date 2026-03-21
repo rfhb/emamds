@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 07:12:30
+document_datetime: 2026-03-17 14:46:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trydonis.html
 document_name: trydonis.html
 version: success
-processing_time: 0.1149994
-conversion_datetime: 2025-12-30 19:59:40.785757
+processing_time: 0.0685778
+conversion_datetime: 2026-03-21 13:21:15.606622
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Trydonis
 
 [RSS](/en/individual-human-medicine.xml/66681)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 beclometasone / formoterol / glycopyrronium bromide Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +116,7 @@ English (EN) (48.63 KB - PDF)
 
 [View](/en/documents/overview/trydonis-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-97)
+[Other languages (22)](#file-language-dropdown-236)
 
 български (BG) (121.19 KB - PDF)
 
@@ -398,17 +396,17 @@ English (EN) (1.3 MB - PDF)
 
 Trydonis : EPAR - Product Information
 
-English (EN) (601 KB - PDF)
+English (EN) (37.98 KB - PDF)
 
 **First published:** 02/05/2018
 
-**Last updated:** 17/02/2025
+**Last updated:** 17/03/2026
 
 [View](/en/documents/product-information/trydonis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-384)
+[Other languages (24)](#file-language-dropdown-299)
 
-български (BG) (712.34 KB - PDF)
+български (BG) (33.72 KB - PDF)
 
 **First published:**
 
@@ -416,11 +414,11 @@ English (EN) (601 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/bg/documents/product-information/trydonis-epar-product-information_bg.pdf)
 
-español (ES) (629.07 KB - PDF)
+español (ES) (28.15 KB - PDF)
 
 **First published:**
 
@@ -428,11 +426,11 @@ español (ES) (629.07 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/es/documents/product-information/trydonis-epar-product-information_es.pdf)
 
-čeština (CS) (664.35 KB - PDF)
+čeština (CS) (32.81 KB - PDF)
 
 **First published:**
 
@@ -440,11 +438,11 @@ español (ES) (629.07 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/cs/documents/product-information/trydonis-epar-product-information_cs.pdf)
 
-dansk (DA) (626.96 KB - PDF)
+dansk (DA) (28.49 KB - PDF)
 
 **First published:**
 
@@ -452,11 +450,11 @@ dansk (DA) (626.96 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/da/documents/product-information/trydonis-epar-product-information_da.pdf)
 
-Deutsch (DE) (626.91 KB - PDF)
+Deutsch (DE) (30.38 KB - PDF)
 
 **First published:**
 
@@ -464,11 +462,11 @@ Deutsch (DE) (626.91 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/de/documents/product-information/trydonis-epar-product-information_de.pdf)
 
-eesti keel (ET) (612.25 KB - PDF)
+eesti keel (ET) (37.33 KB - PDF)
 
 **First published:**
 
@@ -476,11 +474,11 @@ eesti keel (ET) (612.25 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/et/documents/product-information/trydonis-epar-product-information_et.pdf)
 
-ελληνικά (EL) (717.42 KB - PDF)
+ελληνικά (EL) (32.96 KB - PDF)
 
 **First published:**
 
@@ -488,11 +486,11 @@ eesti keel (ET) (612.25 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/el/documents/product-information/trydonis-epar-product-information_el.pdf)
 
-français (FR) (641.65 KB - PDF)
+français (FR) (28.43 KB - PDF)
 
 **First published:**
 
@@ -500,11 +498,11 @@ français (FR) (641.65 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/fr/documents/product-information/trydonis-epar-product-information_fr.pdf)
 
-hrvatski (HR) (709.55 KB - PDF)
+hrvatski (HR) (41.07 KB - PDF)
 
 **First published:**
 
@@ -512,11 +510,11 @@ hrvatski (HR) (709.55 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/hr/documents/product-information/trydonis-epar-product-information_hr.pdf)
 
-íslenska (IS) (624.63 KB - PDF)
+íslenska (IS) (29.27 KB - PDF)
 
 **First published:**
 
@@ -524,11 +522,11 @@ hrvatski (HR) (709.55 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/is/documents/product-information/trydonis-epar-product-information_is.pdf)
 
-italiano (IT) (626.43 KB - PDF)
+italiano (IT) (27.9 KB - PDF)
 
 **First published:**
 
@@ -536,11 +534,11 @@ italiano (IT) (626.43 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/it/documents/product-information/trydonis-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (679.9 KB - PDF)
+latviešu valoda (LV) (31.39 KB - PDF)
 
 **First published:**
 
@@ -548,11 +546,11 @@ latviešu valoda (LV) (679.9 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/lv/documents/product-information/trydonis-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (660.75 KB - PDF)
+lietuvių kalba (LT) (31.82 KB - PDF)
 
 **First published:**
 
@@ -560,11 +558,11 @@ lietuvių kalba (LT) (660.75 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/lt/documents/product-information/trydonis-epar-product-information_lt.pdf)
 
-magyar (HU) (639.14 KB - PDF)
+magyar (HU) (31.31 KB - PDF)
 
 **First published:**
 
@@ -572,11 +570,11 @@ magyar (HU) (639.14 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/hu/documents/product-information/trydonis-epar-product-information_hu.pdf)
 
-Malti (MT) (705.21 KB - PDF)
+Malti (MT) (32.91 KB - PDF)
 
 **First published:**
 
@@ -584,11 +582,11 @@ Malti (MT) (705.21 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/mt/documents/product-information/trydonis-epar-product-information_mt.pdf)
 
-Nederlands (NL) (605.94 KB - PDF)
+Nederlands (NL) (27.14 KB - PDF)
 
 **First published:**
 
@@ -596,11 +594,11 @@ Nederlands (NL) (605.94 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/nl/documents/product-information/trydonis-epar-product-information_nl.pdf)
 
-norsk (NO) (599.74 KB - PDF)
+norsk (NO) (38.95 KB - PDF)
 
 **First published:**
 
@@ -608,11 +606,11 @@ norsk (NO) (599.74 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/no/documents/product-information/trydonis-epar-product-information_no.pdf)
 
-polski (PL) (670.52 KB - PDF)
+polski (PL) (41.97 KB - PDF)
 
 **First published:**
 
@@ -620,11 +618,11 @@ polski (PL) (670.52 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/pl/documents/product-information/trydonis-epar-product-information_pl.pdf)
 
-português (PT) (614.45 KB - PDF)
+português (PT) (28.99 KB - PDF)
 
 **First published:**
 
@@ -632,11 +630,11 @@ português (PT) (614.45 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/pt/documents/product-information/trydonis-epar-product-information_pt.pdf)
 
-română (RO) (660.5 KB - PDF)
+română (RO) (31.31 KB - PDF)
 
 **First published:**
 
@@ -644,11 +642,11 @@ română (RO) (660.5 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/ro/documents/product-information/trydonis-epar-product-information_ro.pdf)
 
-slovenčina (SK) (641.2 KB - PDF)
+slovenčina (SK) (32.05 KB - PDF)
 
 **First published:**
 
@@ -656,11 +654,11 @@ slovenčina (SK) (641.2 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/sk/documents/product-information/trydonis-epar-product-information_sk.pdf)
 
-slovenščina (SL) (624.07 KB - PDF)
+slovenščina (SL) (29.29 KB - PDF)
 
 **First published:**
 
@@ -668,11 +666,11 @@ slovenščina (SL) (624.07 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/sl/documents/product-information/trydonis-epar-product-information_sl.pdf)
 
-Suomi (FI) (618.24 KB - PDF)
+Suomi (FI) (27.1 KB - PDF)
 
 **First published:**
 
@@ -680,11 +678,11 @@ Suomi (FI) (618.24 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/fi/documents/product-information/trydonis-epar-product-information_fi.pdf)
 
-svenska (SV) (597.02 KB - PDF)
+svenska (SV) (38.03 KB - PDF)
 
 **First published:**
 
@@ -692,11 +690,11 @@ svenska (SV) (597.02 KB - PDF)
 
 **Last updated:**
 
-17/02/2025
+17/03/2026
 
 [View](/sv/documents/product-information/trydonis-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** WS2763/G 13/02/2025
+**Latest procedure affecting product information:** VR/0000294832 16/03/2026
 
 icon globe
 
@@ -721,296 +719,6 @@ English (EN) (25.72 KB - PDF)
 **Last updated:** 18/01/2022
 
 [View](/en/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-199)
-
-български (BG) (61.77 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/bg/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_bg.pdf)
-
-español (ES) (24.52 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/es/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_es.pdf)
-
-čeština (CS) (59.65 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/cs/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_cs.pdf)
-
-dansk (DA) (23.61 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/da/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_da.pdf)
-
-Deutsch (DE) (23.68 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/de/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_de.pdf)
-
-eesti keel (ET) (24.14 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/et/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_et.pdf)
-
-ελληνικά (EL) (60.46 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/el/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_el.pdf)
-
-français (FR) (24.79 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/fr/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_fr.pdf)
-
-hrvatski (HR) (63.71 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/hr/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_hr.pdf)
-
-íslenska (IS) (24.11 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/is/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_is.pdf)
-
-italiano (IT) (24.25 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/it/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_it.pdf)
-
-latviešu valoda (LV) (59.51 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/lv/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_lv.pdf)
-
-lietuvių kalba (LT) (58.9 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/lt/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_lt.pdf)
-
-magyar (HU) (59.09 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/hu/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_hu.pdf)
-
-Malti (MT) (59.75 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/mt/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_mt.pdf)
-
-Nederlands (NL) (22.66 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/nl/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (25.65 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/no/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_no.pdf)
-
-polski (PL) (60.65 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/pl/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_pl.pdf)
-
-português (PT) (22.91 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/pt/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_pt.pdf)
-
-română (RO) (58.33 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/ro/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_ro.pdf)
-
-slovenčina (SK) (58.57 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/sk/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_sk.pdf)
-
-slovenščina (SL) (37.72 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/sl/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_sl.pdf)
-
-Suomi (FI) (23.55 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/fi/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_fi.pdf)
-
-svenska (SV) (27.1 KB - PDF)
-
-**First published:**
-
-02/05/2018
-
-**Last updated:**
-
-18/01/2022
-
-[View](/sv/documents/all-authorised-presentations/trydonis-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
@@ -1044,7 +752,7 @@ Chiesi Farmaceutici S.p.A.
 
 Via Palermo 26/A
 
-Marketing authorisation issued 26/04/2018 Revision 8
+Marketing authorisation issued 26/04/2018 Revision 9
 
 ## Assessment history
 
@@ -1056,13 +764,21 @@ Collapse section
 
 Trydonis : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (131.9 KB - PDF)
+
+**First published:** 17/03/2026
+
+[View](/en/documents/procedural-steps-after/trydonis-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Trydonis : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (206.15 KB - PDF)
 
 **First published:** 09/09/2019
 
-**Last updated:** 17/02/2025
+**Last updated:** 17/03/2026
 
-[View](/en/documents/procedural-steps-after/trydonis-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/trydonis-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Trydonis-H-C-004702-X-0015 : EPAR - Assessment Report - Variation
 
@@ -1128,17 +844,17 @@ English (EN) (71.88 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-trydonis_en.pdf)
 
-#### News on Trydonis
+## News on Trydonis
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 February 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-february-2019) 01/03/2019
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 February 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-february-2018) 23/02/2018
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 17/02/2025
+**This page was last updated on** 17/03/2026
 
 ## Share this page
 

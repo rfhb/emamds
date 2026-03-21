@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-01-15 12:40:00
+document_datetime: 2026-03-20 16:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ebglyss.html
 document_name: ebglyss.html
 version: success
-processing_time: 0.1168851
-conversion_datetime: 2026-01-17 13:09:27.328104
+processing_time: 0.0956979
+conversion_datetime: 2026-03-21 13:24:12.139404
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Ebglyss
 
 [RSS](/en/individual-human-medicine.xml/77396)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -112,7 +112,7 @@ English (EN) (123.33 KB - PDF)
 
 [View](/en/documents/overview/ebglyss-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-244)
+[Other languages (22)](#file-language-dropdown-494)
 
 български (BG) (124.02 KB - PDF)
 
@@ -292,11 +292,11 @@ svenska (SV) (100.34 KB - PDF)
 
 Ebglyss : EPAR - Risk management plan
 
-English (EN) (601.67 KB - PDF)
+English (EN) (422.39 KB - PDF)
 
 **First published:** 21/11/2023
 
-**Last updated:** 17/11/2025
+**Last updated:** 20/03/2026
 
 [View](/en/documents/rmp/ebglyss-epar-risk-management-plan_en.pdf)
 
@@ -312,7 +312,7 @@ English (EN) (1.36 MB - PDF)
 
 [View](/en/documents/product-information/ebglyss-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-802)
+[Other languages (24)](#file-language-dropdown-938)
 
 български (BG) (1.39 MB - PDF)
 
@@ -628,7 +628,7 @@ English (EN) (55.2 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ebglyss-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-99)
+[Other languages (24)](#file-language-dropdown-345)
 
 български (BG) (71.55 KB - PDF)
 
@@ -944,7 +944,7 @@ Almirall, S.A.
 
 Ronda General Mitre, 151
 
-Opinion adopted 14/09/2023 Marketing authorisation issued 16/11/2023 Revision 6
+Opinion adopted 14/09/2023 Marketing authorisation issued 16/11/2023 Revision 7
 
 ## Assessment history
 
@@ -956,11 +956,11 @@ Collapse section
 
 Ebglyss : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (181.58 KB - PDF)
+English (EN) (195.14 KB - PDF)
 
 **First published:** 07/04/2025
 
-**Last updated:** 15/01/2026
+**Last updated:** 20/03/2026
 
 [View](/en/documents/procedural-steps-after/ebglyss-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1000,17 +1000,17 @@ English (EN) (106.47 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-ebglyss_en.pdf)
 
-#### News on Ebglyss
+## News on Ebglyss
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 September 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-september-2023) 15/09/2023
 
-#### More information on Ebglyss
+## More information on Ebglyss
 
 - [EMEA-002536-PIP01-18-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002536-pip01-18-m04)
 - [EMEA-002536-PIP02-24 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002536-pip02-24)
 - [Lebrikizumab Exposure during Pregnancy: A Non-Interventional Post-Approval Safety Study of Pregnancy and Infant Outcomes in the Organization of Teratology Information Specialists (OTIS) MotherToBaby Pregnancy Registry (J2T-MC-B005) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000608)
 
-**This page was last updated on** 15/01/2026
+**This page was last updated on** 20/03/2026
 
 ## Share this page
 

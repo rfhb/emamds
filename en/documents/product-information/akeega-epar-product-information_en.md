@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-09-06 12:17:37
-document_pages: 59
+document_datetime: 2026-03-17 12:50:22
+document_pages: 63
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/akeega-epar-product-information_en.pdf
 document_name: akeega-epar-product-information_en.pdf
 version: success
-processing_time: 12.6018486
-conversion_datetime: 2025-12-30 02:12:25.171756
+processing_time: 17.8401896
+conversion_datetime: 2026-03-21 12:19:11.657493
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -58,25 +58,31 @@ Orange, oval, film-coated tablets (22 mm x 11 mm), debossed with 'N 100 A' on on
 
 ## 4.1 Therapeutic indications
 
-Akeega is indicated with prednisone or prednisolone for the treatment of adult patients with metastatic castration-resistant prostate cancer (mCRPC) and BRCA 1/2 mutations (germline and/or somatic) in whom chemotherapy is not clinically indicated.
+Akeega is indicated with prednisone or prednisolone:
+
+-  in combination with androgen deprivation therapy (ADT) for the treatment of adult patients with metastatic hormone-sensitive prostate cancer (mHSPC) and BRCA 1/2 mutations (germline and/or somatic).
+-  for the treatment of adult patients with metastatic castration-resistant prostate cancer (mCRPC) and BRCA 1/2 mutations (germline and/or somatic) in whom chemotherapy is not clinically indicated.
 
 ## 4.2 Posology and method of administration
 
 Treatment with Akeega plus prednisone or prednisolone should be initiated and supervised by specialist physicians experienced in the medical treatment of prostate cancer.
 
-Before initiation of Akeega therapy, positive BRCA status must be established using a validated test method (see section 5.1).
+Before initiation of Akeega therapy for adult patients:
+
+-  with mHSPC, positive BRCA status must be established using a validated test method (see section 5.1).
+-  with mCRPC, positive BRCA status must be established using a validated test method (see section 5.1).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Posology
 
 The recommended starting dose of Akeega is 200 mg/1 000 mg (two 100 mg niraparib/500 mg abiraterone acetate tablets), as a single daily dose at approximately the same time every day (see 'Method of administration' below). The 50 mg/500 mg tablet is available for dose reduction.
 
-<div style=\"page-break-after: always\"></div>
-
 Medical castration with a gonadotropin-releasing hormone (GnRH) analogue should be continued during treatment in patients not surgically castrated.
 
 ## Dosage of prednisone or prednisolone
 
-Akeega is used with 10 mg prednisone or prednisolone daily.
+Akeega is used with prednisone or prednisolone 5 mg daily for mHSPC. Akeega is used with prednisone or prednisolone 10 mg daily for mCRPC.
 
 ## Duration of treatment
 
@@ -86,7 +92,9 @@ Patients should be treated until disease progression or unacceptable toxicity.
 
 If a dose of either Akeega, prednisone or prednisolone is missed, it should be taken as soon as possible on the same day with a return to the normal schedule the following day. Extra tablets must not be taken to make up for the missed dose.
 
-## Dose adjustments for adverse reactions Non-haematological adverse reactions
+## Dose adjustments for adverse reactions
+
+## Non-haematological adverse reactions
 
 For patients who develop Grade ≥ 3 non-haematological adverse reactions, treatment should be interrupted and appropriate medical management should be instituted (see section 4.4). Treatment with Akeega should not be reinitiated until symptoms of the toxicity have resolved to Grade 1 or baseline.
 
@@ -98,16 +106,17 @@ The dose adjustment recommendations for thrombocytopenia and neutropenia are lis
 
 Table 1: Dose adjustment recommendations for thrombocytopenia and neutropenia
 
-| Grade 1                     | No change, consider weekly monitoring                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Grade 2                     | At least weekly monitoring and consider withholding Akeega until recovery to Grade 1 or baseline. 1 Resume Akeega with recommendation of weekly monitoring for 28 days after restarting dose.                                                                                                                                                                                                                                                                                                                                                                         |
-| Grade ≥ 3                   | Withhold Akeega and monitor at least weekly until platelets and neutrophils recover to Grade 1 or baseline. 1 Then resume Akeega or, if warranted, use two lower strength tablets (50 mg/500 mg). Weekly monitoring of blood counts is recommended for 28 days after restarting dose or starting the lower strength dose (two 50 mg/500 mg tablets). When starting the lower strength dose, please refer to 'Recommended monitoring' below for further information regarding liver function.                                                                          |
-| Second occurrence ≥ grade 3 | Withhold Akeega and monitor at least weekly until platelets and/or neutrophils recover to Grade 1. Further treatment should restart with two lower strength tablets (50 mg/500 mg) . Weekly monitoring is recommended for 28 days after resuming treatment with lower strength Akeega . When starting the lower strength dose (two 50 mg/500 mg tablets), please refer to 'Recommended monitoring' below for further information regarding liver function. If patient was already on lower strength Akeega tablet (50 mg/500 mg), consider treatment discontinuation. |
-| Third occurrence ≥ grade 3  | Permanently discontinue treatment.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Grade 1                     | No change, consider weekly monitoring                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Grade 2                     | At least weekly monitoring and consider withholding Akeega until recovery to Grade 1 or baseline. 1 Resume Akeega with recommendation of weekly monitoring for 28 days after restarting dose.                                                                                                                                                                                                                                                                                                |
+| Grade ≥ 3                   | Withhold Akeega and monitor at least weekly until platelets and neutrophils recover to Grade 1 or baseline. 1 Then resume Akeega or, if warranted, use two lower strength tablets (50 mg/500 mg). Weekly monitoring of blood counts is recommended for 28 days after restarting dose or starting the lower strength dose (two 50 mg/500 mg tablets). When starting the lower strength dose, please refer to 'Recommended monitoring' below for further information regarding liver function. |
+| Second occurrence ≥ grade 3 | Withhold Akeega and monitor at least weekly until platelets and/or neutrophils recover to Grade 1. Further treatment should restart with two lower strength tablets (50 mg/500 mg). Weekly monitoring is recommended for 28 days after resuming treatment with lower strength Akeega . When starting the lower strength dose (two                                                                                                                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-1 During Akeega treatment interruption, abiraterone acetate and prednisone or prednisolone may be considered by the physician and given to maintain daily dose of abiraterone acetate (see abiraterone acetate prescribing information).
+|                            | 50 mg/500 mg tablets), please refer to 'Recommended monitoring' below for further information regarding liver function. If patient was already on lower strength Akeega tablet (50 mg/500 mg) , consider treatment discontinuation.   |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Third occurrence ≥ grade 3 | Permanently discontinue treatment.                                                                                                                                                                                                    |
 
 Further dosing with Akeega may be resumed only when toxicity due to thrombocytopenia and neutropenia is improved to Grade 1 or resolved to baseline. Treatment may resume at a lower strength of Akeega 50 mg/500 mg (2 tablets). For the most common adverse reactions, see section 4.8.
 
@@ -115,12 +124,12 @@ For Grade ≥ 3 anaemia, Akeega should be interrupted and supportive management 
 
 Table 2: Dose adjustment recommendations for anaemia
 
-| Grade 1                     | No change, consider weekly monitoring.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Grade 2                     | At least weekly monitoring for 28 days, if baseline anaemia was Grade ≤ 1.                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Grade ≥ 3                   | Withhold Akeega 1 and provide supportive management with monitoring at least weekly until recovered to Grade ≤ 2. Dose reduction [ two lower strength tablets (50 mg/500 mg) ] should be considered if anaemia persists based on clinical judgment. When starting the lower strength dose, please refer to 'Recommended monitoring' below for further information regarding liver function.                                                                                                                                                     |
-| Second occurrence ≥ Grade 3 | Withhold Akeega, provide supportive management and monitor at least weekly until recovered to Grade ≤ 2. Further treatment should restart with two lower strength tablets (50 mg/500 mg). Weekly monitoring is recommended for 28 days after resuming treatment with lower strength Akeega . When starting the lower strength dose, please refer to 'Recommended monitoring' below for further information regarding liver function. If patient was already on lower strength Akeega tablet (50 mg/500 mg), consider treatment discontinuation. |
-| Third occurrence ≥ Grade 3  | Consider discontinuing treatment with Akeega based on clinical judgment.                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Grade 1                     | No change, consider weekly monitoring.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Grade 2                     | At least weekly monitoring for 28 days, if baseline anaemia was Grade ≤ 1.                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Grade ≥ 3                   | Withhold Akeega 1 and provide supportive management with monitoring at least weekly until recovered to Grade ≤ 2. Dose reduction [ two lower strength tablets (50 mg/500 mg) ] should be considered if anaemia persists based on clinical judgment. When starting the lower strength dose, please refer to 'Recommended monitoring' below for further information regarding liver function.                                                                                                                                                       |
+| Second occurrence ≥ Grade 3 | Withhold Akeega, provide supportive management and monitor at least weekly until recovered to Grade ≤ 2. Further treatment should restart with two lower strength tablets (50 mg/500 mg) . Weekly monitoring is recommended for 28 days after resuming treatment with lower strength Akeega . When starting the lower strength dose, please refer to 'Recommended monitoring' below for further information regarding liver function. If patient was already on lower strength Akeega tablet (50 mg/500 mg) , consider treatment discontinuation. |
+| Third occurrence ≥ Grade 3  | Consider discontinuing treatment with Akeega based on clinical judgment.                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 1 During Akeega treatment interruption, abiraterone acetate and prednisone or prednisolone may be considered by the physician and given to maintain daily dose of abiraterone acetate (see abiraterone acetate prescribing information).
 
@@ -130,17 +139,17 @@ For patients who develop ≥ Grade 3 hepatotoxicity (alanine aminotransferase [A
 
 Re-treatment may take place only after return of liver function tests to the patient's baseline and at a reduced dose level of one regular strength Akeega tablet (equivalent to 100 mg niraparib/500 mg abiraterone acetate). For patients being re-treated, serum transaminases should be monitored at a minimum of every two weeks for three months and monthly thereafter. If hepatotoxicity recurs at the reduced dose of 100 mg/500 mg daily (1 tablet), treatment with Akeega should be discontinued.
 
+<div style=\"page-break-after: always\"></div>
+
 If patients develop severe hepatotoxicity (ALT or AST 20 times the ULN) while on Akeega, treatment should be permanently discontinued.
 
 Permanently discontinue Akeega for patients who develop a concurrent elevation of ALT greater than 3  ULN, and total bilirubin greater than 2  ULN, in the absence of biliary obstruction or other causes responsible for the concurrent elevation (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Recommended monitoring
 
 Complete blood counts should be obtained prior to starting treatment, weekly for the first month, every two weeks for the next two months, followed by monthly monitoring for the first year and then every other month for the remainder of treatment to monitor for clinically significant changes in any haematologic parameter (see section 4.4).
 
-Serum aminotransferases and total bilirubin should be measured prior to starting treatment, every two weeks for the first three months of treatment and monthly thereafter for the first year and then every other month for the duration of treatment. When starting the lower strength dose (two tablets) after dose interruption, liver function should be monitored every two weeks for six weeks due to risk of increased abiraterone exposure (see section 5.2), before resuming regular monitoring. Serum potassium should be monitored monthly for the first year and then every other month for the duration of treatment (see section 4.4).
+Serum aminotransferases and total bilirubin should be measured prior to starting treatment, every two weeks for the first three months of treatment and monthly thereafter for the first year and then every other month for the duration of treatment. When starting the lower strength dose of Akeega (two 50 mg/500 mg tablets) after dose interruption, liver function should be monitored every two weeks for six weeks due to risk of increased abiraterone exposure (see section 5.2), before resuming regular monitoring. Serum potassium should be monitored monthly for the first year and then every other month for the duration of treatment (see section 4.4).
 
 Blood pressure monitoring should occur weekly for the first two months, monthly for the first year and then every other month for the duration of treatment.
 
@@ -158,7 +167,7 @@ No dose adjustment is necessary for patients with pre-existing mild hepatic impa
 
 ## Renal impairment
 
-No dose adjustment is necessary for patients with mild to moderate renal impairment, although close monitoring of safety events should be conducted with moderate renal impairment due to the potential for increased niraparib exposure. There are no data on the use of Akeega in patients with severe renal impairment or end stage renal disease undergoing haemodialysis, Akeega may only be used in patients with severe renal impairment if the benefit outweighs the potential risk, and the patient should be carefully monitored for renal function and adverse events (see sections 4.4 and 5.2).
+No dose adjustment is necessary for patients with mild to moderate renal impairment, although close monitoring of safety events should be conducted with moderate renal impairment due to the potential for increased niraparib exposure. There are no data on the use of Akeega in patients with severe renal impairment or end stage renal disease undergoing haemodialysis. Akeega may only be used in patients with severe renal impairment if the benefit outweighs the potential risk, and the patient should be carefully monitored for renal function and adverse events (see sections 4.4 and 5.2).
 
 ## Paediatric population
 
@@ -170,6 +179,8 @@ There is no relevant use of Akeega in the paediatric population.
 
 The tablets must be taken as a single dose, once daily. Akeega should be taken on an empty stomach, at least 1 hour before or 2 hours after a meal (see section 5.2). For optimal absorption, Akeega tablets must be swallowed whole with water, they must not be broken, crushed, or chewed.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Precaution to be taken before manipulating or administering the product
 
 Women who are or may become pregnant should wear gloves when handling the tablets (see section 6.6).
@@ -177,8 +188,6 @@ Women who are or may become pregnant should wear gloves when handling the tablet
 ## 4.3 Contraindications
 
 Hypersensitivity to the active substances or to any of the excipients listed in section 6.1.
-
-<div style=\"page-break-after: always\"></div>
 
 Women who are or may become pregnant (see section 4.6).
 
@@ -200,7 +209,7 @@ If a patient develops severe persistent haematological toxicity including pancyt
 
 Due to the risk of thrombocytopenia, other medicinal products known to reduce platelet counts should be used with caution in patients taking Akeega (see section 4.8).
 
-When starting the lower strength dose (two tablets) after dose interruption due to haematological adverse reactions, liver function should be monitored every two weeks for six weeks due to risk of increased abiraterone exposure (see section 5.2), before resuming regular monitoring (see section 4.2).
+When starting the lower strength dose of Akeega (two 50 mg/500 mg tablets) after dose interruption due to haematological adverse reactions, liver function should be monitored every two weeks for six weeks due to risk of increased abiraterone exposure (see section 5.2), before resuming regular monitoring (see section 4.2).
 
 ## Hypertension
 
@@ -208,27 +217,29 @@ Akeega may cause hypertension and pre-existing hypertension should be adequately
 
 Hypokalaemia, fluid retention, &amp; cardiovascular adverse reactions due to mineralocorticoid excess Akeega may cause hypokalaemia and fluid retention (see section 4.8) as a consequence of increased mineralocorticoid levels resulting from CYP17 inhibition (see section 5.1). Co-administration of a corticosteroid suppresses adrenocorticotropic hormone (ACTH) drive, resulting in a reduction in incidence and severity of these adverse reactions. Caution is required in treating patients whose underlying medical conditions might be compromised by hypokalaemia (e.g., those on cardiac glycosides), or fluid retention (e.g., those with heart failure, severe or unstable angina pectoris, recent myocardial infarction or ventricular arrhythmia and those with severe renal impairment). QT prolongation has been observed in patients experiencing hypokalaemia in association with Akeega treatment. Hypokalaemia and fluid retention should be corrected and controlled.
 
+<div style=\"page-break-after: always\"></div>
+
 Before treating patients with a significant risk for congestive heart failure (e.g., a history of cardiac failure, or cardiac events such as ischaemic heart disease), cardiac failure should be treated and cardiac function optimised. Fluid retention (weight gain, peripheral oedema), and other signs and symptoms of congestive heart failure should be monitored every two weeks for three months, then monthly thereafter and abnormalities corrected. Akeega should be used with caution in patients with a history of cardiovascular disease.
 
 Management of cardiac risk factors (including hypertension, dyslipidaemia, and diabetes) should be optimised in patients receiving Akeega and these patients should be monitored for signs and symptoms of cardiac disease.
 
-<div style=\"page-break-after: always\"></div>
-
-Abiraterone acetate, a component of Akeega, increases mineralocorticoid levels and carries a risk for cardiovascular events. Mineralocorticoid excess may cause hypertension, hypokalaemia, and fluid retention. Previous androgen deprivation therapy (ADT) exposure as well as advanced age are additional risks for cardiovascular morbidity and mortality. The MAGNITUDE study excluded patients with clinically significant heart disease as evidenced by myocardial infarction, arterial and venous thrombotic events in the past six months, severe or unstable angina, or NYHA Class II to IV heart failure or cardiac ejection fraction measurement of &lt; 50%. Patients with a history of cardiac failure should be clinically optimised and appropriate management of symptoms instituted. If there is a clinically significant decrease in cardiac function, discontinuation of Akeega should be considered.
+Abiraterone acetate, a component of Akeega, increases mineralocorticoid levels and carries a risk for cardiovascular events. Mineralocorticoid excess may cause hypertension, hypokalaemia, and fluid retention. Previous ADT exposure as well as advanced age are additional risks for cardiovascular morbidity and mortality. The AMPLITUDE and MAGNITUDE studies excluded patients with clinically significant heart disease as evidenced by myocardial infarction, arterial and venous thrombotic events in the past 6 months, severe or unstable angina, or NYHA Class II to IV heart failure or cardiac ejection fraction measurement of &lt; 50%. Patients with a history of cardiac failure should be clinically optimised and appropriate management of symptoms instituted. If there is a clinically significant decrease in cardiac function, discontinuation of Akeega should be considered.
 
 ## Infections
 
-In MAGNITUDE, severe infections including COVID-19 infections with fatal outcome occurred more frequently in patients treated with Akeega. Patients should be monitored for signs and symptoms of infection. Severe infections may occur in absence of neutropenia and/or leukopenia.
+In both the AMPLITUDE and MAGNITUDE studies, severe infections including COVID-19 infections with fatal outcome occurred more frequently in patients treated with Akeega.
+
+Patients should be monitored for signs and symptoms of infection. Severe infections may occur in absence of neutropenia and/or leukopenia.
 
 ## Pulmonary embolism (PE)
 
-In MAGNITUDE, cases of PE were reported in patients treated with Akeega with a higher frequency compared to control. Patients with a prior history of PE or venous thrombosis may be more at risk of a further occurrence. Patients should be monitored for clinical signs and symptoms of PE. If clinical features of PE occur, patients should be evaluated promptly, followed by appropriate treatment.
+In both the AMPLITUDE and MAGNITUDE studies, cases of PE were reported in patients treated with Akeega with a higher frequency compared to control. Patients with a prior history of PE or venous thrombosis may be more at risk of a further occurrence. Patients should be monitored for clinical signs and symptoms of PE. If clinical features of PE occur, patients should be evaluated promptly, followed by appropriate treatment.
 
 ## Posterior reversible encephalopathy syndrome (PRES)
 
 PRES is a rare, reversible, neurological disorder which can present with rapidly evolving symptoms including seizures, headache, altered mental status, visual disturbance, or cortical blindness, with or without associated hypertension. A diagnosis of PRES requires confirmation by brain imaging, preferably magnetic resonance imaging (MRI).
 
-There have been reports of PRES in patients receiving 300 mg niraparib (a component of Akeega) as a monotherapy in the ovarian cancer population. In the MAGNITUDE study, among prostate cancer patients treated with 200 mg of niraparib, there were no PRES cases reported.
+There have been reports of PRES in patients receiving 300 mg niraparib (a component of Akeega) as a monotherapy in the ovarian cancer population. In both the AMPLITUDE and MAGNITUDE studies, among prostate cancer patients treated with 200 mg of niraparib, there were no PRES cases reported.
 
 In case of PRES, treatment with Akeega should be permanently discontinued and appropriate medical management should be instituted.
 
@@ -236,13 +247,11 @@ In case of PRES, treatment with Akeega should be permanently discontinued and ap
 
 Hepatotoxicity had been recognised as an important identified risk for abiraterone acetate, a component of Akeega. The mechanism for hepatotoxicity of abiraterone acetate is not fully understood. Patients with moderate and severe hepatic impairment (NCI classification) and patients with Child-Turcotte-Pugh Class B and C were excluded from Akeega combination studies.
 
-In the MAGNITUDE study and all combination clinical studies, the risk for hepatotoxicity was mitigated by exclusion of patients with baseline hepatitis or significant abnormalities of liver function tests (Serum total bilirubin &gt; 1.5  ULN or direct bilirubin &gt; 1  ULN and AST or ALT &gt; 3  ULN).
-
-Marked increases in liver enzymes leading to treatment interruption or discontinuation occurred in clinical studies, although these were uncommon (see section 4.8). Serum aminotransferase and total bilirubin levels should be measured prior to starting treatment, every two weeks for the first three months of treatment, and monthly thereafter for the first year and then every other month for the duration of treatment. When starting the lower strength dose (two tablets) after dose interruption, liver function should be monitored every two weeks for six weeks due to risk of increased abiraterone exposure (see section 5.2), before resuming regular monitoring. If clinical symptoms or signs suggestive of hepatotoxicity develop, serum transaminases should be measured immediately. Development of elevated aminotransferases in patients treated with Akeega should be promptly managed with treatment interruption. If at any time the ALT or AST rises above 5 times the ULN, treatment with Akeega should be interrupted and liver function closely monitored. Re-treatment may
+In all Akeega clinical studies, the risk for hepatotoxicity was mitigated by exclusion of patients with baseline hepatitis or significant abnormalities of liver function tests (Serum total bilirubin &gt; 1.5  ULN or direct bilirubin &gt; 1  ULN and AST or ALT &gt; 3  ULN).
 
 <div style=\"page-break-after: always\"></div>
 
-take place only after return of liver function tests to the patient's baseline and at a reduced dose level (see section 4.2).
+Marked increases in liver enzymes leading to treatment interruption or discontinuation occurred in clinical studies, although these were infrequent (see section 4.8). Serum aminotransferase and total bilirubin levels should be measured prior to starting treatment, every two weeks for the first three months of treatment, and monthly thereafter for the first year and then every other month for the duration of treatment. When starting the lower strength dose of Akeega (two 50 mg/500 mg tablets) after dose interruption, liver function should be monitored every two weeks for six weeks due to risk of increased abiraterone exposure (see section 5.2), before resuming regular monitoring. If clinical symptoms or signs suggestive of hepatotoxicity develop, serum transaminases should be measured immediately. Development of elevated aminotransferases in patients treated with Akeega should be promptly managed with treatment interruption. If at any time the ALT or AST rises above 5 times the ULN, treatment with Akeega should be interrupted and liver function closely monitored. Re-treatment may take place only after return of liver function tests to the patient's baseline and at a reduced dose level (see section 4.2).
 
 Treatment should be permanently discontinued in patients with elevations of ALT or AST &gt; 20  ULN. Treatment should be permanently discontinued in patients who develop a concurrent elevation of ALT &gt; 3  ULN and a total bilirubin &gt; 2  ULN in the absence of biliary obstruction or other causes responsible for the concurrent elevation.
 
@@ -260,13 +269,17 @@ Cases of hypoglycaemia have been reported when abiraterone acetate (a component 
 
 MDS/AML, including cases with fatal outcome, have been reported in ovarian cancer studies among patients who received 300 mg of niraparib (a component of Akeega).
 
-In the MAGNITUDE study, no cases of MDS/AML have been observed in patients treated with 200 mg of niraparib and 1 000 mg of abiraterone acetate plus prednisone or prednisolone.
+In both the AMPLITUDE and MAGNITUDE studies, MDS/AML, including cases with fatal outcome, have been reported in patients with prostate cancer treated with 200 mg niraparib and 1 000 mg abiraterone acetate plus prednisone or prednisolone.
 
-For suspected MDS/AML or prolonged haematological toxicities that has not resolved with treatment interruption or dose reduction, the patient should be referred to a haematologist for further evaluation. If MDS and/or AML is confirmed, treatment with Akeega should be permanently discontinued, and the patient should be treated appropriately.
+For suspected MDS/AML or prolonged haematological toxicities that have not resolved with treatment interruption or dose reduction, the patient should be referred to a haematologist for further evaluation. If MDS/AML is confirmed, treatment with Akeega should be permanently discontinued, and the patient should be treated appropriately.
 
 ## Corticosteroid withdrawal and coverage of stress situations
 
-Caution is advised and monitoring for adrenocortical insufficiency should occur if patients are withdrawn from prednisone or prednisolone. If Akeega is continued after corticosteroids are withdrawn, patients should be monitored for symptoms of mineralocorticoid excess (see information above).
+Caution is advised and monitoring for adrenocortical insufficiency should occur if patients are withdrawn from prednisone or prednisolone. If Akeega is continued after corticosteroids are
+
+<div style=\"page-break-after: always\"></div>
+
+withdrawn, patients should be monitored for symptoms of mineralocorticoid excess (see information above).
 
 In patients on prednisone or prednisolone who are subjected to unusual stress, an increased dose of corticosteroids may be indicated before, during and after the stressful situation.
 
@@ -274,11 +287,7 @@ In patients on prednisone or prednisolone who are subjected to unusual stress, a
 
 Decreased bone density may occur in men with metastatic advanced prostate cancer. The use of abiraterone acetate (a component of Akeega) in combination with a glucocorticoid could increase this effect.
 
-Increased fractures and mortality in combination with Radium (Ra) 223 Dichloride Treatment with Akeega plus prednisone or prednisolone in combination with Ra-223 treatment is contraindicated (see section 4.3) due to an increased risk of fractures and a trend for increased
-
-<div style=\"page-break-after: always\"></div>
-
-mortality among asymptomatic or mildly symptomatic prostate cancer patients as observed in clinical studies with abiraterone acetate, a component of Akeega.
+Increased fractures and mortality in combination with Radium (Ra) 223 Dichloride Treatment with Akeega plus prednisone or prednisolone in combination with Ra-223 treatment is contraindicated (see section 4.3) due to an increased risk of fractures and a trend for increased mortality among asymptomatic or mildly symptomatic prostate cancer patients as observed in clinical studies with abiraterone acetate, a component of Akeega.
 
 It is recommended that subsequent treatment with Ra-223 not be initiated for at least five days after the last administration of Akeega in combination with prednisone or prednisolone.
 
@@ -308,17 +317,17 @@ No clinical study evaluating drug interactions has been performed using Akeega. 
 
 ## Effects of other medicinal products on niraparib or abiraterone acetate CYP3A4 inducers and inhibitors
 
-Abiraterone is a CYP3A4 substrate. In a clinical study in healthy subjects pretreated with the strong CYP3A4 inducer rifampicin, 600 mg daily for six days, followed by a single dose of abiraterone acetate 1 000 mg, the mean plasma AUC∞ of abiraterone was decreased by 55%. Strong inducers of CYP3A4 (e.g., phenytoin, carbamazepine, rifampicin, rifabutin, rifapentine, phenobarbital, St. John's wort [ Hypericum perforatum ]) during treatment with Akeega should be avoided unless there is no therapeutic alternative (see section 4.4).
+Abiraterone is a CYP3A4 substrate. In a clinical study in healthy subjects pretreated with the strong CYP3A4 inducer rifampicin, 600 mg daily for six days, followed by a single dose of abiraterone acetate 1 000 mg, the mean plasma AUC∞ of abiraterone was decreased by 55%. Strong inducers of CYP3A4 (e.g., phenytoin, carbamazepine, rifampicin, rifabutin, rifapentine, phenobarbital, St. John's
+
+<div style=\"page-break-after: always\"></div>
+
+wort [ Hypericum perforatum ]) during treatment with Akeega should be avoided unless there is no therapeutic alternative (see section 4.4).
 
 In a separate clinical study in healthy subjects, co-administration of ketoconazole, a strong inhibitor of CYP3A4, had no clinically meaningful effect on the pharmacokinetics of abiraterone.
 
 ## Effects of niraparib or abiraterone acetate on other medicinal products CYP2D6 substrates
 
-Abiraterone is an inhibitor of CYP2D6. In a clinical study to determine the effects of abiraterone acetate plus prednisone (AAP) on a single dose of the CYP2D6 substrate dextromethorphan, the systemic exposure (AUC) of dextromethorphan was increased approximately 2.9-fold. The AUC24 for dextrorphan, the active metabolite of dextromethorphan, increased approximately 33%. Dose reduction of medicinal products with a narrow therapeutic index that are metabolised by CYP2D6 should be considered. Examples of medicinal products metabolised by CYP2D6 include metoprolol,
-
-<div style=\"page-break-after: always\"></div>
-
-propranolol, desipramine, venlafaxine, haloperidol, risperidone, propafenone, flecainide, codeine, oxycodone and tramadol.
+Abiraterone is an inhibitor of CYP2D6. In a clinical study to determine the effects of abiraterone acetate plus prednisone (AAP) on a single dose of the CYP2D6 substrate dextromethorphan, the systemic exposure (AUC) of dextromethorphan was increased approximately 2.9-fold. The AUC24 for dextrorphan, the active metabolite of dextromethorphan, increased approximately 33%. Dose reduction of medicinal products with a narrow therapeutic index that are metabolised by CYP2D6 should be considered. Examples of medicinal products metabolised by CYP2D6 include metoprolol, propranolol, desipramine, venlafaxine, haloperidol, risperidone, propafenone, flecainide, codeine, oxycodone and tramadol.
 
 ## CYP2C8 substrates
 
@@ -355,6 +364,8 @@ Studies in animals have shown reproductive toxicity (see section 5.3).
 
 Akeega is not for use in women (see section 4.3).
 
+<div style=\"page-break-after: always\"></div>
+
 There are no data from the use of Akeega in pregnant women. Akeega has the potential to cause foetal harm based on the mechanism of action of both components and findings from animal studies with abiraterone acetate. Animal developmental and reproductive toxicology studies were not conducted with niraparib (see section 5.3).
 
 ## Breast-feeding
@@ -365,8 +376,6 @@ Akeega is not for use in women.
 
 There are no clinical data on fertility with Akeega. In animal studies, male fertility was reduced with niraparib or abiraterone acetate but these effects were reversible following treatment cessation (see section 5.3) .
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.7 Effects on ability to drive and use machines
 
 Akeega has moderate influence on the ability to drive or use machines. Patients who take Akeega may experience asthenia, fatigue, dizziness or difficulties concentrating. Patients should use caution when driving or using machines.
@@ -375,7 +384,7 @@ Akeega has moderate influence on the ability to drive or use machines. Patients 
 
 ## Summary of the safety profile
 
-The overall safety profile of Akeega is based on data from a Phase 3, randomised, double-blind, placebo-controlled study, MAGNITUDE cohort 1 (N=212). The most common adverse reactions of all grades occurring in &gt;10% in the niraparib plus AAP arm were anaemia (52.4%), hypertension (34.0%), constipation (34.0%), fatigue (31.1%), nausea (25.0%), thrombocytopenia (24.1%), dyspnoea (18.9%), arthralgia (18.4%), back pain (17.9%), asthenia (17.0%), neutropenia (16.0%), decreased appetite (15.6%), hypokalaemia (15.6%), vomiting (15.1%), dizziness (13.2%), abdominal pain (12.7%), hyperglycaemia (12.7%), blood alkaline phosphatase increased (11.8%), weight decreased (11.8%), insomnia (11.3%), leukopenia (10.8%), lymphopenia (10.8%), blood creatinine increased (10.4%), and urinary tract infection (10.4%). The most frequently observed Grade 3-4 adverse reactions were anaemia (30.7%), hypertension (16.5%), thrombocytopenia (8.5%), neutropenia (6.6%), blood alkaline phosphatase increased (5.7%), and hypokalaemia (5.7%).
+The overall safety profile of Akeega is based on pooled data from two clinical Phase 3 trials with 559 patients (AMPLITUDE [n=347] and MAGNITUDE cohort 1 [n=212]). The most common adverse reactions of all grades occurring in &gt;10% in the niraparib plus AAP arm were anaemia (51.9%), hypertension (40.1%), fatigue (39.7%), musculoskeletal pain (35.8%), constipation (34.7%), nausea (28.6%), hypokalaemia (22.0%), thrombocytopenia (20.9%), neutropenia (19.7%), oedema (18.1%), respiratory tract infections (17.7%), dyspnoea (16.6%), vomiting (15.7%), decreased appetite (15.0%), leukopenia (14.5%), hot flush (14.1%), dizziness (14.0%), weight decreased (14.0%), abdominal pain (13.4%), hyperglycaemia (13.4%), insomnia (13.1%), diarrhoea (12.3%), lymphopenia (12.2%), headache (12.0%), blood creatinine increased (11.8%), urinary tract infection (11.8%), and cough (10.4%). The most frequently observed Grade 3-4 adverse reactions were anaemia (29.7%), hypertension (22.7%), hypokalaemia (9.3%), neutropenia (8.4%), thrombocytopenia (7.5%), and lymphopenia (5.2%).
 
 ## Tabulated list of adverse reactions
 
@@ -385,113 +394,123 @@ Within each frequency grouping, undesirable effects are presented in order of de
 
 Table 3: Adverse reactions identified in clinical studies
 
-| System Organ Class                   | Frequency   | Adverse reaction                                                                                             |
-|--------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------|
-| Infections and infestations          | very common | urinary tract infection                                                                                      |
-| Infections and infestations          | common      | pneumoniae, bronchitis, nasopharyngitis                                                                      |
-| Infections and infestations          | uncommon    | urosepsis, conjunctivitis                                                                                    |
-| Blood and lymphatic system disorders | very common | anaemia, thrombocytopenia, neutropenia, leukopenia, lymphopenia                                              |
-| Blood and lymphatic system disorders | not known   | pancytopenia 7                                                                                               |
-| Immune system disorders              | not known   | hypersensitivity (including anaphylaxis) 7                                                                   |
-| Endocrine disorders                  | not known   | adrenal insufficiency 9                                                                                      |
-| Metabolism and nutrition disorders   | very common | decreased appetite, hypokalaemia, hyperglycaemia                                                             |
-| Metabolism and nutrition disorders   | common      | hypertriglyceridaemia                                                                                        |
-| Psychiatric disorders                | very common | insomnia                                                                                                     |
-| Psychiatric disorders                | common      | depression, anxiety                                                                                          |
-| Psychiatric disorders                | uncommon    | confusional state                                                                                            |
-| Psychiatric disorders                | not known   | cognitive impairment 8                                                                                       |
-| Nervous system disorders             | very common | dizziness                                                                                                    |
-| Nervous system disorders             | common      | headache, cognitive disorder                                                                                 |
-| Nervous system disorders             | uncommon    | dysgeusia                                                                                                    |
-| Nervous system disorders             | not known   | posterior reversible encephalopathy syndrome (PRES) 7                                                        |
-| Cardiac disorders                    | common      | tachycardia, palpitations, atrial fibrillation, cardiac failure 1 , myocardial infarction, angina pectoris 2 |
-| Cardiac disorders                    | uncommon    | QT prolongation                                                                                              |
-| Vascular disorders                   | very common | hypertension                                                                                                 |
-| Vascular disorders                   | not known   | hypertensive crisis 7                                                                                        |
-| Vascular disorders                   | very common | dyspnoea                                                                                                     |
+| System Organ Class                                                       | Frequency   | Adverse reaction                                                |
+|--------------------------------------------------------------------------|-------------|-----------------------------------------------------------------|
+| Infections and infestations                                              | very common | respiratory tract infections 1 , urinary tract infection 2      |
+| Infections and infestations                                              | common      | pneumonia, gastrointestinal infection 3 , sepsis 4              |
+| Infections and infestations                                              | uncommon    | skin infection 5 , conjunctivitis                               |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) | uncommon    | myelodysplastic syndrome/acute myeloid leukaemia                |
+| Blood and lymphatic system disorders                                     | very common | anaemia, thrombocytopenia, neutropenia, leukopenia, lymphopenia |
+| Blood and lymphatic system disorders                                     | not known   | pancytopenia 6                                                  |
+| Immune system disorders                                                  | uncommon    | hypersensitivity 7                                              |
 
 <div style=\"page-break-after: always\"></div>
 
-| Respiratory, thoracic and mediastinal disorders      | common      | cough, pulmonary embolism, pneumonitis                                             |
-|------------------------------------------------------|-------------|------------------------------------------------------------------------------------|
-| Respiratory, thoracic and mediastinal disorders      | uncommon    | epistaxis                                                                          |
-| Respiratory, thoracic and mediastinal disorders      | not known   | allergic alveolitis 9                                                              |
-| Gastrointestinal disorders                           | very common | constipation, nausea, vomiting, abdominal pain 3                                   |
-| Gastrointestinal disorders                           | common      | dyspepsia, diarrhoea, abdominal distention, stomatitis, dry mouth                  |
-| Gastrointestinal disorders                           | uncommon    | mucosal inflammation                                                               |
-| Hepatobiliary disorders                              | common      | hepatic failure 4                                                                  |
-| Skin and subcutaneous tissue disorders               | common      | rash 5                                                                             |
-| Skin and subcutaneous tissue disorders               | uncommon    | photosensitivity                                                                   |
-| Musculoskeletal and connective tissue disorders      | very common | back pain, arthralgia                                                              |
-| Musculoskeletal and connective tissue disorders      | common      | myalgia                                                                            |
-| Musculoskeletal and connective tissue disorders      | not known   | myopathy 9 , rhabdomyolysis 9                                                      |
-| Renal and urinary disorders                          | common      | haematuria                                                                         |
-| General disorders and administration site conditions | very common | fatigue, asthenia                                                                  |
-| General disorders and administration site conditions | common      | oedema peripheral                                                                  |
-| Investigations                                       | very common | blood alkaline phosphatase increased, weight decreased, blood creatinine increased |
-| Investigations                                       | common      | AST increased, ALT increased                                                       |
-| Investigations                                       | uncommon    | gamma-glutamyl transferase increased                                               |
-| Injury, poisoning and procedural complications       | common      | fractures 6                                                                        |
+| Endocrine disorders                                  | not known   | adrenal insufficiency 8                                                                 |
+|------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------|
+| Metabolism and nutrition disorders                   | very common | decreased appetite, hypokalaemia, hyperglycaemia                                        |
+| Metabolism and nutrition disorders                   | common      | lipid metabolism disorders 9                                                            |
+| Psychiatric disorders                                | very common | insomnia                                                                                |
+| Psychiatric disorders                                | common      | depression, anxiety, confusional state                                                  |
+| Nervous system disorders                             | very common | dizziness, headache                                                                     |
+| Nervous system disorders                             | common      | lethargy, cognitive disorder, dysgeusia 10                                              |
+| Nervous system disorders                             | not known   | posterior reversible encephalopathy syndrome (PRES) 6                                   |
+| Cardiac disorders                                    | common      | cardiac failure 11 , arrhythmia 12 , angina pectoris 13 , tachycardia 14 , palpitations |
+| Cardiac disorders                                    | uncommon    | myocardial infarction 15                                                                |
+| Vascular disorders                                   | very common | hypertension 16 , hot flush                                                             |
+| Vascular disorders                                   | not known   | hypertensive crisis 6                                                                   |
+| Respiratory, thoracic and mediastinal disorders      | very common | dyspnoea 17 , cough                                                                     |
+| Respiratory, thoracic and mediastinal disorders      | common      | pulmonary embolism, epistaxis                                                           |
+| Respiratory, thoracic and mediastinal disorders      | uncommon    | pneumonitis                                                                             |
+| Respiratory, thoracic and mediastinal disorders      | not known   | allergic alveolitis 8                                                                   |
+| Gastrointestinal disorders                           | very common | constipation, nausea, vomiting, abdominal pain 18 , diarrhoea                           |
+| Gastrointestinal disorders                           | common      | gastritis, abdominal distention, dyspepsia, stomatitis, dry mouth                       |
+| Hepatobiliary disorders                              | common      | hyperbilirubinaemia                                                                     |
+| Hepatobiliary disorders                              | uncommon    | hepatic failure, hepatitis 19                                                           |
+| Skin and subcutaneous tissue disorders               | common      | rash 20 , pruritus, photosensitivity reaction                                           |
+| Musculoskeletal and connective tissue disorders      | very common | musculoskeletal pain 21                                                                 |
+| Musculoskeletal and connective tissue disorders      | not known   | rhabdomyolysis 8 , myopathy 8                                                           |
+| Renal and urinary disorders                          | common      | haematuria, acute kidney injury                                                         |
+| Renal and urinary disorders                          | uncommon    | urethral haemorrhage                                                                    |
+| General disorders and administration site conditions | very common | fatigue 22 , oedema 23                                                                  |
+| General disorders and administration site conditions | common      | non-cardiac chest pain                                                                  |
+| General disorders and administration site conditions | uncommon    | chest pain, mucosal inflammation                                                        |
+| Investigations                                       | very common | weight decreased, blood creatinine increased                                            |
+| Investigations                                       | common      | blood alkaline phosphatase increased, AST increased, ALT increased                      |
+| Investigations                                       | uncommon    | electrocardiogram QT prolongation, gamma-glutamyl transferase increased                 |
+| Injury, poisoning and procedural complications       | common      | fractures 24                                                                            |
 
-- 1 Includes cardiac failure congestive, cor pulmonale, left ventricular dysfunction
-- 2 Includes coronary artery disease, acute coronary syndrome
-- 3 Includes abdominal pain upper, abdominal pain lower
-- 4 Includes hepatic cytolysis, hepatotoxicity, hepatic failure
-- 5 Includes rash, erythema, dermatitis, rash maculo-papular, rash pruritic
-- 6 Includes osteoporosis and osteoporosis-related fractures
-- 7 Not observed with Akeega. Reported in post-marketing experience with niraparib monotherapy
-- 8 Not observed with Akeega. Reported with niraparib monotherapy
-- 9 Not observed with Akeega. Reported in post-marketing experience with abiraterone monotherapy
+- 1 Includes upper respiratory tract infection, lower respiratory tract infection, laryngitis, rhinitis, bronchitis, nasopharyngitis, respiratory tract infection viral, laryngopharyngitis, viral upper respiratory tract infection
+- 2 Includes cystitis
+- 3 Includes gastroenteritis, gastroeneteritis viral, fungal oesophagitis, oesophageal candidiasis, oropharyngeal candidiasis
+- 4 Includes urosepsis
+- 5 Includes streptococcal infection
+- 6 Not observed with Akeega. Reported with niraparib monotherapy
+- 7 Hypersensitivity without anaphylaxis was observed in AMPLITUDE. Anaphylactic reactions were not reported in Akeega clinical studies, but were reported post-marketing with niraparib monotherapy
+- 8 Not observed with Akeega. Reported in post-marketing experience with abiraterone monotherapy
+- 9 Includes hypercholesterolaemia, hypertriglyceridaemia, dyslipidaemia
+- 10 Includes taste disorder
+- 11 Includes cardiac failure acute, cardiac failure congestive, cor pulmonale, left ventricular dysfunction
+- 12 Includes atrial fibrillation, extrasystoles, supraventricular extrasystoles, ventricular extrasystoles, sinus arrhythmia
+- 13 Includes coronary artery disease, acute coronary syndrome
+- 14 Includes sinus tachycardia, atrial tachycardia
+- 15 Includes myocardial ischaemia
+
+<div style=\"page-break-after: always\"></div>
+
+- 16 Includes systolic hypertension
+- 17 Includes dyspnoea exertional
+- 18 Includes abdominal pain upper, abdominal pain lower
+- 19 Includes hepatic function abnormal, hepatitis acute, fulminant hepatitis, hepatic cytolysis, hepatotoxicity
+- 20 Includes erythema, dermatitis, rash maculo-papular, rash pruritic
+- 21 Includes arthralgia, back pain, myalgia, musculoskeletal discomfort
+- 22 Includes asthenia
+- 23 Includes oedema peripheral, swelling, face oedema, peripheral swelling, swelling face
+- 24 Includes osteoporosis, rib fracture, femoral neck fracture, femur fracture, ankle fracture, humerus fracture, fibula fracture, lower limb fracture, sternal fracture, stress fracture, upper limb fracture, acetabulum fracture, radius fracture, thoracic vertebral fracture, tibia fracture
 
 ## Description of selected adverse reactions
+
+The selected adverse reactions described below are based on pooled data from two clinical Phase 3 studies with 559 patients (AMPLITUDE [n=347] and MAGNITUDE cohort 1 [n=212]).
 
 ## Haematological toxicities
 
 Haematological toxicities (anaemia, thrombocytopenia and neutropenia) including laboratory findings are the most frequent adverse reactions attributable to niraparib (a component of Akeega). These toxicities generally occurred within the first three months of treatment with the incidence decreasing over time.
 
-In the MAGNITUDE study and other Akeega studies, the following haematological parameters were inclusion criteria: absolute neutrophil count (ANC) ≥ 1 500 cells/μL; platelets ≥ 100 000 cells/μL and haemoglobin ≥ 9 g/dL. Haematological adverse reactions were managed with laboratory monitoring and dose modifications (see sections 4.2 and 4.4).
+In the MAGNITUDE and AMPLITUDE studies, the following haematological parameters were inclusion criteria: absolute neutrophil count (ANC) ≥ 1 500 cells/μL; platelets ≥ 100 000 cells/μL and haemoglobin ≥ 9 g/dL. Haematological adverse reactions were managed with laboratory monitoring and dose modifications (see sections 4.2 and 4.4).
 
 ## Anaemia
 
-Anaemia was the most frequent adverse reaction (52.4%) and most commonly observed Grade 3-4 event (30.7%) in the MAGNITUDE study. Anaemia occurred early during the course of therapy (median time to onset of 64 days). In the MAGNITUDE study, dose interruptions occurred in 24.1% and dose reductions in 13.7% of patients. Twenty-seven percent of patients received at least one anaemia-related red blood cell transfusion. Anaemia caused discontinuation in a relatively small number of patients (2.8%).
+Anaemia was the most frequent adverse reaction (51.9%) and most commonly observed Grade 3-4 event (29.7%). Anaemia occurred early during the course of therapy (median time to onset of 64.5 days). Dose interruptions occurred in 26.1% and dose reductions in 13.6% of patients. Anaemia was managed with at least one red blood cell transfusion in 25.9% of patients. Discontinuation occurred in 2.5% of patients.
 
 ## Thrombocytopenia
 
-In the MAGNITUDE study, 24.1% of treated patients reported thrombocytopenia while 8.5% of patients experienced Grade 3-4 thrombocytopenia. Median time from first dose to first onset was 71 days. In the MAGNITUDE study, thrombocytopenia was managed with dose modification
-
-<div style=\"page-break-after: always\"></div>
-
-(interruption 11.3% and reduction in 2.8%) and platelet transfusion (3.8%) where appropriate (see section 4.2). Discontinuation occurred in 0.5% of patients. In the MAGNITUDE study, 1.9% of patients experienced a nonlife-threatening bleeding event.
+Thrombocytopenia was reported in 20.9% of treated patients while 7.5% of patients experienced Grade 3-4 thrombocytopenia. Median time from first dose to first onset was 56 days. Thrombocytopenia was managed with dose modification (interruption 9.5% and reduction in 1.6%) and platelet transfusion (2.1%) where appropriate (see section 4.2). Discontinuation occurred in 0.5% of patients. Thrombocytopenia and non-life-threatening bleeding events occurred in 2.3% of patients.
 
 ## Neutropenia
 
-In the MAGNITUDE study, 16.0% of patients experienced neutropenia with Grade 3-4 neutropenia reported in 6.6% of patients. Median time from first dose to first report of neutropenia was 65 days. Neutropenia led to treatment interruption in 6.6% of patients and dose reduction in 1.4%. There were no treatment discontinuations due to neutropenia. In the MAGNITUDE study, 0.9% of patients had a concurrent infection.
+Neutropenia was reported in 19.7% of patients with Grade 3-4 neutropenia reported in 8.4% of patients. Median time from first dose to first report of neutropenia was 58 days. Neutropenia led to treatment interruption in 8.9% of patients and dose reduction in 1.3%. Discontinuation occurred in 0.4% of patients. Neutropenia and infection were reported in 2.5% of patients.
 
 ## Hypertension
 
-Hypertension is an adverse reaction for both components of Akeega and patients with uncontrolled hypertension (persistent systolic blood pressure [BP] ≥ 160 mmHg or diastolic BP ≥ 100 mmHg) were excluded in all combination studies. Hypertension was reported in 34% of patients of whom 16.5% had Grade ≥ 3. The median time to onset of hypertension was 60.5 days. Hypertension was managed with adjunctive medicinal products.
+Hypertension is an adverse reaction for both components of Akeega and patients with uncontrolled hypertension (persistent systolic blood pressure [BP] ≥ 160 mmHg or diastolic BP ≥ 100 mmHg) were excluded in all combination studies.
+
+Hypertension was reported in 40.6% of patients of whom 22.9% had Grade ≥ 3. The median time to onset of hypertension was 70 days. Hypertension was managed with adjunctive medicinal products.
 
 Patients should have blood pressure controlled before initiating Akeega and blood pressure should be monitored on treatment (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Cardiac events
 
-In the MAGNITUDE study, the incidence of TEAEs of cardiac disorder (all grades) was similar in both arms, except for the arrhythmia category, where AEs were observed in 13.2% of patients in the niraparib plus AAP arm and 7.6% of patients in the placebo plus AAP arm (see section 4.4). Higher frequency of arrhythmias was largely due to low grade events of palpitations, tachycardias and atrial arrhythmias.
+The incidence of treatment-emergent adverse events (TEAEs) of cardiac disorder (all grades) was similar in both the niraparib plus AAP arm and the placebo plus AAP arm, except for the arrhythmia category, where AEs were observed in 17.2% of patients in the niraparib plus AAP arm and 7.9% of patients in the placebo plus AAP arm (see section 4.4). Higher frequency of arrhythmias was largely due to low grade events of palpitations, tachycardias and atrial arrhythmias. The median time to onset of the events of arrhythmias was 150.5 days in the niraparib plus AAP arm and 233.5 days in the placebo plus AAP arm. Events of arrhythmia were resolved in 70.8% of patients in the niraparib plus AAP arm and 72.7% of patients in the placebo plus AAP arm.
 
-The median time to onset of the events of arrhythmias was 81 days in the niraparib plus AAP arm and 262 days in the placebo plus AAP arm. Events of arrhythmia were resolved in 64.3% of patients in the niraparib plus AAP arm and 62.5% of subjects in the placebo plus AAP arm.
+The incidence of cardiac failure (grouped term) was 4.7% in the niraparib plus AAP arm vs 1.8% in placebo plus AAP arm. The median time to onset of cardiac failure was 359.5 days in the niraparib plus AAP arm and 165.5 days in the placebo plus AAP arm. Events of cardiac failure were resolved in 42.3% of patients in the niraparib plus AAP arm and 40% of patients in the placebo plus AAP arm.
 
-The incidence of cardiac failure, cardiac failure acute, cardiac failure chronic, cardiac failure congestive was 2.8% in the niraparib plus AAP arm vs 1.9% in placebo plus AAP arm. The median time to onset of the AESI of cardiac failure was 312 days in the niraparib plus AAP arm and 83 days in the placebo plus AAP arm. Events of cardiac failure were resolved in 16.7% of patients in the niraparib plus AAP arm and 25% of patients in the placebo plus AAP arm.
-
-The grouped term of ischaemic heart disease (included preferred terms of angina pectoris, acute myocardial infarction, acute coronary syndrome, unstable angina, and arteriosclerosis coronary artery) occurred in 5.2% of the niraparib plus AAP arm vs 4.7% in the placebo plus AAP arm. The median time to onset of the AESI of ischaemic heart disease was 684 days in the niraparib plus AAP arm and 296 days in the placebo plus AAP arm. Events of ischaemic heart disease were resolved in 81.8% of patients in the niraparib plus AAP arm and 80% of patients in the placebo plus AAP arm.
+The incidence of ischaemic heart disease (grouped term) was 5.4% in the niraparib plus AAP arm vs 5.0% in the placebo plus AAP arm. Ischaemic heart disease included angina, coronary artery disease or stenosis, myocardial infarction, laboratory abnormalities (such as troponin increased) and electrocardiogram changes consistent with ischaemic heart disease. The median time to onset of ischaemic heart disease was 237.5 days in the niraparib plus AAP arm and 322.5 days in the placebo plus AAP arm. Events of ischaemic heart disease were resolved in 73.3% of patients in the niraparib plus AAP arm and 67.9% of patients in the placebo plus AAP arm.
 
 ## Hepatotoxicity
 
-The overall incidence of hepatotoxicity in the MAGNITUDE study was similar for the niraparib plus AAP (14.2%) and placebo plus AAP (12.8%) arms (see sections 4.2 and 4.4). The majority of these events were low grade aminotransferase elevations. Grade 3 events occurred in 1.4% of patients in the niraparib plus AAP arm and a Grade 4 event occurred in only one patient (0.5%). The incidence of SAEs was also 1.4%. The median time to onset of hepatotoxicity in the MAGNITUDE study was 43 days. Hepatotoxicity was managed with dose interruptions in 1.9% and dose reduction in 0.9% of patients. In the MAGNITUDE study, 0.9% of patients discontinued treatment due to hepatotoxicity.
-
-## Paediatric population
-
-No studies have been conducted in paediatric patients with Akeega.
-
-<div style=\"page-break-after: always\"></div>
+The overall incidence of hepatotoxicity was similar for the niraparib plus AAP (13.6%) and placebo plus AAP (17.5%) arms (see sections 4.2 and 4.4). The majority of these events were low grade aminotransferase elevations. Grade 3 events occurred in 2.0% of patients in the niraparib plus AAP arm and there was one (0.2%) patient with a Grade 4 event and one (0.2%) patient with a Grade 5 event. The incidence of serious adverse events (SAEs) was 0.7%. The median time to onset of hepatotoxicity was 43 days. Hepatotoxicity was managed with dose interruptions in 2.0% and dose reduction in 0.7% of patients. Discontinuation occurred in 0.5% of patients.
 
 ## Reporting of suspected adverse reactions
 
@@ -509,7 +528,9 @@ Pharmacotherapeutic group: antineoplastic agents, other antineoplastic agents, A
 
 ## Mechanism of action
 
-Akeega is a combination of niraparib, an inhibitor of poly(ADP-ribose) polymerase (PARP), and abiraterone acetate (a prodrug of abiraterone), a CYP17 inhibitor targeting two oncogenic dependencies in patients with mCRPC and HRR gene mutations.
+Akeega is a combination of niraparib, an inhibitor of poly(ADP-ribose) polymerase (PARP), and abiraterone acetate (a prodrug of abiraterone), a CYP17 inhibitor targeting two oncogenic dependencies in patients with metastatic prostate cancer and HRR gene mutations.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Niraparib
 
@@ -519,7 +540,7 @@ Niraparib is an inhibitor of poly(ADP-ribose) polymerase (PARP) enzymes, PARP-1 
 
 Abiraterone acetate is converted in vivo to abiraterone, an androgen biosynthesis inhibitor. Specifically, abiraterone selectively inhibits the enzyme 17α-hydroxylase/C17,20-lyase (CYP17). This enzyme is expressed in, and is required for, androgen biosynthesis in testicular, adrenal and prostatic tumour tissues. CYP17 catalyses the conversion of pregnenolone and progesterone into testosterone precursors, DHEA and androstenedione, respectively, by 17α-hydroxylation and cleavage of the C17,20 bond. CYP17 inhibition also results in increased mineralocorticoid production by the adrenals (see section 4.4).
 
-Androgen-sensitive prostatic carcinoma responds to treatment that decreases androgen levels. Androgen deprivation therapies, such as treatment with luteinising hormone releasing hormone (LHRH) analogues or orchiectomy, decrease androgen production in the testes but do not affect androgen production by the adrenals or in the tumour. Treatment with abiraterone decreases serum testosterone to undetectable levels (using commercial assays) when given with LHRH analogues (or orchiectomy).
+Androgen-sensitive prostatic carcinoma responds to treatment that decreases androgen levels. Androgen deprivation therapies, such as treatment with luteinising hormone releasing hormone (LHRH) analogues or orchiectomy, decrease androgen production in the testes but do not affect androgen production by the adrenals or in the tumour. Treatment with abiraterone acetate decreases serum testosterone to undetectable levels (using commercial assays) when given with LHRH analogues (or orchiectomy).
 
 ## Pharmacodynamic effects
 
@@ -529,11 +550,58 @@ Abiraterone decreases serum testosterone and other androgens to levels lower tha
 
 ## Clinical efficacy and safety
 
-## First-line treatment of mCRPC patients with BRCA 1/2 mutations
+The efficacy of Akeega was established in two randomised placebo-controlled multicentre Phase 3 clinical studies: in patients with mHSPC, AMPLITUDE (Study 67652000PCR3002), and in patients with mCRPC, MAGNITUDE (Study 64091742PCR3001).
 
-The efficacy of Akeega was established in a randomised placebo-controlled multicentre Phase 3 clinical study of patients with mCRPC, MAGNITUDE (Study 64091742PCR3001).
+## Treatment of mHSPC patients with BRCA 1/2 mutations
+
+AMPLITUDE is a Phase 3, randomised, double-blind, placebo-controlled, multinational study evaluating treatment with the combination of niraparib (200 mg) and abiraterone acetate (1 000 mg) plus prednisone (5 mg) daily versus AAP standard of care in 696 patients with mHSPC and select HRR gene alterations. Patients were randomised (1:1) to receive either niraparib plus AAP (N=348) or placebo plus AAP (N=348) orally daily. Randomisation was stratified by HRR gene alteration (BRCA2 versus CDK12 versus all other pathogenic alterations), prior docetaxel for mHSPC (yes or no), and volume of disease at screening (high versus low). Treatment was continued until disease progression, unacceptable toxicity, or death.
+
+Patients with mHSPC and select HRR gene alterations could have previously received ≤ 6 cycles of docetaxel, ≤ 45 days of prior AAP, ≤ 6 months of ADT, and up to 2 weeks of ketoconazole. Patients may have also received 1 course of radiation and 1 surgical intervention for symptomatic control of prostate cancer. Patients with small cell or neuroendocrine carcinoma of the prostate were excluded from the study. Plasma, blood, and/or tumour tissue samples for all patients were tested by validated next generation sequencing tests to determine germline and/or somatic HRR gene mutation status. There were 696 patients with at least one of the following mutations enrolled (348 received Akeega): BRCA1, BRCA2, BRIP1, CDK12, CHEK2, FANCA, PALB2, RAD51B, RAD54L. There were 387 subjects with a BRCA1/2 mutation enrolled in the study (191 received Akeega). There were an additional 309 patients with a non-BRCA1/2 mutation (BRIP1, CDK12, CHEK2, FANCA, PALB2, RAD51B, RAD54L) enrolled in the study (157 received Akeega). The Eastern Cooperative Oncology Group Performance Status (ECOG PS) score was 0 in 68.0% of patients, 1 in 31.0% of patients, and 2 in 1.0% of patients at study entry. The majority of patients had androgen deprivation with a GnRH
 
 <div style=\"page-break-after: always\"></div>
+
+analogue (95.3%) and surgical castration with bilateral orchiectomy was reported in 6.5% of patients. Patients who had not received prior orchiectomy continued background ADT with a GnRH analogue.
+
+The primary endpoint, radiographic progression free survival (rPFS), was defined as the time interval from the date of randomisation to the date of investigator-assessed first radiographic progression, or death due to any cause, whichever occurred first. Radiographic progression was determined as the first occurrence of progression by bone scan (according to Prostate Cancer Working Group 3 criteria) or soft tissue lesions by CT or MRI (according to RECIST 1.1 criteria). Time to symptomatic progression (TSP) was defined as the time from randomisation to the time of symptomatic progression, which included use of external beam radiation for skeletal or pelvic symptoms, cancer-related morbid events, initiation of new systemic anti-cancer therapy, and other cancer-related procedures. The endpoints were formally tested in the order of rPFS, TSP and overall survival (OS), and these were controlled for multiplicity.
+
+Demographics and baseline characteristics of patients were comparable between both treatment arms in AMPLITUDE. Overall, the median age at baseline was 67 years (range 41-92) and 20.9% of patients were ≥ 75 years of age. In the study population, 69.5% were White, 23.8% were Asian, and 3.6% were Black or African American. Hispanic or Latino ethnicity was reported in 12% of patients. At the time of diagnosis, the median PSA was 107.00 ug/L (range 0.1-15900.0) and most (82.2%) patients had a Gleason score ≥ 8. At study entry, 98.2% had bone metastases, 40.8% had bone only metastases (with no other metastatic site of disease), 16.5% had visceral metastases (metastases to organs such as liver, lung, or adrenal gland), and 49.6% had lymph node metastases. The majority of patients had high volume disease (79.1%) and 20.9% had low volume disease. Prior docetaxel treatment was reported in 16.0% of patients. Bone-sparing agents (bisphosphonates or denosumab) were used to treat 24.1% of patients in the niraparib plus AAP arm and 23.0% of patients in the placebo plus AAP arm.
+
+In the BRCA population a statistically significant improvement in investigator-assessed rPFS was observed for subjects treated with niraparib plus AAP, compared with subjects treated with placebo plus AAP. Key efficacy results in the BRCA population are presented in Table 4. The Kaplan-Meier curves for investigator-assessed rPFS and OS in the BRCA population are shown in Figure 1 and 2, respectively.
+
+Table 4: Efficacy results from the BRCA population of the AMPLITUDE study
+
+| Endpoints                                | Akeega+P 1 (N=191)   | Placebo+AAP 1 (N=196)   |
+|------------------------------------------|----------------------|-------------------------|
+| Radiographic Progression-free Survival 2 |                      |                         |
+| Events                                   | 57 (29.8%)           | 93 (47.4%)              |
+| Median (95% CI) time to event (months)   | NE (41.20, NE)       | 25.99 (22.11, 41.17)    |
+| Hazard Ratio (95% CI)                    | 0.515 (0.370,0.717)  | 0.515 (0.370,0.717)     |
+| p-value                                  | <.0001               | <.0001                  |
+| Time to Symptomatic Progression 3        |                      |                         |
+| Events                                   | 31 (16.2%)           | 66 (33.7%)              |
+| Median (95% CI) time to event (months)   | NE (NE, NE)          | NE (39.72, NE)          |
+| Hazard Ratio (95% CI)                    | 0.444 (0.290,0.681)  | 0.444 (0.290,0.681)     |
+| p-value                                  | 0.0001               | 0.0001                  |
+| Overall Survival 4                       |                      |                         |
+| Events                                   | 65 (34.0%)           | 80 (40.8%)              |
+| Median (95% CI) time to event (months)   | 52.01 (44.98, NE)    | 47.61 (39.36, NE)       |
+| Hazard Ratio (95% CI)                    | 0.799 (0.576,1.109)  | 0.799 (0.576,1.109)     |
+
+NE = not estimable
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 1: Kaplan-Meier Plot of Radiographic Progression-free Survival by Investigator in the BRCA population (AMPLITUDE, primary analysis)
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 2: Kaplan-Meier Plot of Overall Survival in the BRCA population (AMPLITUDE, second interim analysis)
+
+<!-- image -->
+
+## First-line treatment of mCRPC patients with BRCA 1/2 mutations
 
 MAGNITUDE was a Phase 3, randomised, double-blind, placebo-controlled, multicentre study that evaluated treatment with the combination of niraparib (200 mg) and abiraterone acetate (1 000 mg) plus prednisone (10 mg) daily versus AAP standard of care. Efficacy data are based on Cohort 1 that consisted of 423 patients with mCRPC and select HRR gene mutations, who were randomised (1:1) to receive either niraparib plus AAP (N=212) or placebo plus AAP (N=211) orally daily. Treatment was continued until disease progression, unacceptable toxicity, or death.
 
@@ -543,51 +611,49 @@ The primary endpoint was radiographic progression free survival (rPFS) as determ
 
 In the All HRR Population, the primary efficacy results with a median follow-up of 18.6 months showed statistically significant improvement in BICR-assessed rPFS with a HR =0.729 (95% CI: 0.556, 0.956; p=0.0217).
 
-Table 4 summarises the demographics and baseline characteristics of BRCA patients enrolled in Cohort 1 of the MAGNITUDE study. The median PSA at diagnosis was 41.07 ug/L (range 01-12080). All patients had an Eastern Cooperative Oncology Group Performance Status (ECOG PS) score of 0 or 1 at study entry. All patients who had not received prior orchiectomy continued background androgen deprivation therapy with a GnRH analogue.
-
-Table 4: Summary of demographics and baseline characteristics in the MAGNITUDE study Cohort 1 (BRCA)
-
-|                                         | Akeega+P 1 N=113 n (%)   | Placebo+AAP 1 N=112 n (%)   | Total N=225 n (%)   |
-|-----------------------------------------|--------------------------|-----------------------------|---------------------|
-| Age (years)                             |                          |                             |                     |
-| < 65                                    | 39 (34.5)                | 37 (33.0)                   | 76 (33.8)           |
-| ≥ 65-74                                 | 44 (38.9)                | 52 (46.4)                   | 96 (42.7)           |
-| ≥ 75                                    | 30 (26.5)                | 23 (20.5)                   | 53 (23.6)           |
-| Median                                  | 67.0                     | 68.0                        | 68.0                |
-| Range                                   | 45-100                   | 43-88                       | 43-100              |
-| Race                                    |                          |                             |                     |
-| Caucasian                               | 78 (69.0)                | 84 (75.0)                   | 162 (72.0)          |
-| Asian                                   | 18 (15.9)                | 20 (17.9)                   | 38 (16.9)           |
-| Black                                   | 3 (2.7)                  | 0                           | 3 (1.3)             |
-| Unknown                                 | 14 (12.4)                | 8 (7.1)                     | 22 (9.8)            |
-| Stratification factors                  |                          |                             |                     |
-| Past taxane-based chemotherapy exposure | 26 (23.0)                | 29 (25.9)                   | 55 (24.4)           |
-| Past AR-targeted therapy exposure       | 6 (5.3)                  | 5 (4.5)                     | 11 (4.9)            |
-| Prior AAP use                           | 30 (26.5)                | 29 (25.9)                   | 59 (26.2)           |
-| Baseline disease characteristics        |                          |                             |                     |
-| Gleason score ≥ 8                       | 83 (74.1)                | 72 (64.3)                   | 155 (69.2)          |
-| Bone involvement                        | 99 (87.6)                | 93 (83.0)                   | 192 (85.3)          |
+Table 5 summarises the demographics and baseline characteristics of BRCA patients enrolled in Cohort 1 of the MAGNITUDE study. The median PSA at diagnosis was 41.07 ug/L (range 01-12080).
 
 <div style=\"page-break-after: always\"></div>
 
-| Visceral disease (liver, lung, adrenal gland, other)                                       | 26 (23.0)   | 22 (19.6)                     | 48 (21.3)            |
-|--------------------------------------------------------------------------------------------|-------------|-------------------------------|----------------------|
-| Metastasis stage at initial diagnosis (M1)                                                 | 70 (61.9)   | 50 (44.6)                     | 120 (53.3)           |
-| Median time from initial diagnosis to randomisation (years)                                | 2.00        | 2.31                          | 2.26                 |
-| Median time from mCRPC to first dose (years)                                               | 0.27        | 0.28                          | 0.27                 |
-| BPI-SF pain score last score before first dose) 0 1 to 3 > 3 ECOG Performance Status Score | 57 (50.4)   | 57 (50.9) 40 (35.7) 15 (13.4) | 114 (50.7) 91 (40.4) |
-|                                                                                            | 51 (45.1)   |                               |                      |
-|                                                                                            | 5 (4.4)     |                               | 20 (8.9)             |
-| 0 1                                                                                        | 69 (61.1)   | 80 (71.4) 32 (28.6)           | 149 (66.2)           |
-|                                                                                            | 44 (38.9)   |                               | 76 (33.8)            |
+All patients had an Eastern Cooperative Oncology Group Performance Status (ECOG PS) score of 0 or 1 at study entry. All patients who had not received prior orchiectomy continued background androgen deprivation therapy with a GnRH analogue.
 
-1
+Table 5: Summary of demographics and baseline characteristics in the MAGNITUDE study Cohort 1 (BRCA)
 
-P=prednisone or prednisolone
+|                                                             | Akeega+P 1 N=113 n (%)   | Placebo+AAP 1 N=112 n (%)   | Total N=225 n (%)   |
+|-------------------------------------------------------------|--------------------------|-----------------------------|---------------------|
+| Age (years)                                                 |                          |                             |                     |
+| < 65                                                        | 39 (34.5)                | 37 (33.0)                   | 76 (33.8)           |
+| ≥ 65-74                                                     | 44 (38.9)                | 52 (46.4)                   | 96 (42.7)           |
+| ≥ 75                                                        | 30 (26.5)                | 23 (20.5)                   | 53 (23.6)           |
+| Median                                                      | 67.0                     | 68.0                        | 68.0                |
+| Range                                                       | 45-100                   | 43-88                       | 43-100              |
+| Race                                                        |                          |                             |                     |
+| Caucasian                                                   | 78 (69.0)                | 84 (75.0)                   | 162 (72.0)          |
+| Asian                                                       | 18 (15.9)                | 20 (17.9)                   | 38 (16.9)           |
+| Black                                                       | 3 (2.7)                  | 0                           | 3 (1.3)             |
+| Unknown                                                     | 14 (12.4)                | 8 (7.1)                     | 22 (9.8)            |
+| Stratification factors                                      |                          |                             |                     |
+| Past taxane-based chemotherapy exposure                     | 26 (23.0)                | 29 (25.9)                   | 55 (24.4)           |
+| Past AR-targeted therapy exposure                           | 6 (5.3)                  | 5 (4.5)                     | 11 (4.9)            |
+| Prior AAP use                                               | 30 (26.5)                | 29 (25.9)                   | 59 (26.2)           |
+| Baseline disease characteristics                            |                          |                             |                     |
+| Gleason score ≥ 8                                           | 83 (74.1)                | 72 (64.3)                   | 155 (69.2)          |
+| Bone involvement                                            | 99 (87.6)                | 93 (83.0)                   | 192 (85.3)          |
+| Visceral disease (liver, lung, adrenal gland, other)        | 26 (23.0)                | 22 (19.6)                   | 48 (21.3)           |
+| Metastasis stage at initial diagnosis (M1)                  | 70 (61.9)                | 50 (44.6)                   | 120 (53.3)          |
+| Median time from initial diagnosis to randomisation (years) | 2.00                     | 2.31                        | 2.26                |
+| Median time from mCRPC to first dose (years)                | 0.27                     | 0.28                        | 0.27                |
+| BPI-SF pain score last score before first dose) 0           | 57 (50.4)                | 57 (50.9)                   | 114 (50.7)          |
+| 1 to 3                                                      | 51 (45.1)                | 40 (35.7)                   | 91 (40.4)           |
+| > 3 ECOG Performance Status Score                           | 5 (4.4)                  | 15 (13.4)                   | 20 (8.9)            |
+| 0                                                           | 69 (61.1)                | 80 (71.4)                   | 149 (66.2)          |
+| 1                                                           | 44 (38.9)                | 32 (28.6)                   | 76 (33.8)           |
 
-A statistically significant improvement in BICR-assessed rPFS was observed in the primary analysis for BRCA subjects treated with niraparib plus AAP, compared with BRCA subjects treated with placebo plus AAP. Key efficacy results in the BRCA population are presented in Table 5. The KaplanMeier curves for BICR assessed rPFS in the BRCA population are shown in Figure 1.
+A statistically significant improvement in BICR-assessed rPFS was observed in the primary analysis for BRCA subjects treated with niraparib plus AAP, compared with BRCA subjects treated with placebo plus AAP. Key efficacy results in the BRCA population are presented in Table 6. The Kaplan-Meier curves for BICR assessed rPFS in the BRCA population are shown in Figure 3.
 
-Table 5: Efficacy results from the BRCA population of the MAGNITUDE study
+<div style=\"page-break-after: always\"></div>
+
+Table 6: Efficacy results from the BRCA population of the MAGNITUDE study
 
 | Endpoints                                 | Akeega+P 1 (N=113)   | Placebo+AAP 1 (N=112)   |
 |-------------------------------------------|----------------------|-------------------------|
@@ -599,15 +665,13 @@ Table 5: Efficacy results from the BRCA population of the MAGNITUDE study
 | Overall Survival 3                        |                      |                         |
 | Hazard Ratio (95% CI)                     | 0.788 (0.554, 1.120) | 0.788 (0.554, 1.120)    |
 
-<div style=\"page-break-after: always\"></div>
-
-Figure 1: Kaplan-Meier Plot of BICR assessed radiologic progression-free survival in the BRCA population (MAGNITUDE, primary analysis)
+Figure 3: Kaplan-Meier Plot of BICR assessed radiologic progression-free survival in the BRCA population (MAGNITUDE, primary analysis)
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 2: Kaplan-Meier Plot of Overall Survival (MAGNITUDE Cohort 1, BRCA, final analysis)
+Figure 4: Kaplan-Meier Plot of Overall Survival (MAGNITUDE Cohort 1, BRCA, final analysis)
 
 <!-- image -->
 
@@ -750,7 +814,7 @@ Aside from reproductive organ changes seen in all animal toxicology studies, non
 
 ## Environmental risk assessment (ERA)
 
-The active substance, abiraterone, shows an environmental risk for the aquatic environment, especially to fish (see section 6.6).
+Environmental risk assessment studies have shown that abiraterone acetate may pose a risk for the surface water, groundwater and sediment compartments (see section 6.6).
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -760,7 +824,9 @@ The active substance, abiraterone, shows an environmental risk for the aquatic e
 
 Tablet core Colloidal anhydrous silica Crospovidone Hypromellose Lactose monohydrate Magnesium stearate Microcrystalline cellulose Sodium lauryl sulfate
 
-Film-coating Iron oxide black (E172) Iron oxide red (E172) Iron oxide yellow (E172) Sodium lauryl sulphate Glycerol monocaprylocaprate Polyvinyl alcohol Talc Titanium dioxide (E171)
+## Film-coating
+
+Iron oxide black (E172) Iron oxide red (E172) Iron oxide yellow (E172) Sodium lauryl sulphate Glycerol monocaprylocaprate Polyvinyl alcohol Talc Titanium dioxide (E171)
 
 ## Akeega 100 mg/500 mg film-coated tablets
 
@@ -790,7 +856,7 @@ Each 28-day carton contains 56 film-coated tablets in two cardboard wallet packs
 
 Based on its mechanism of action, this medicinal product may harm a developing foetus. Therefore, women who are or may become pregnant should handle Akeega with protection, e.g., gloves (see section 4.6).
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements. This medicinal product may pose a risk to the aquatic environment (see section 5.3).
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements. This medicinal product may pose a risk to the environment (see section 5.3).
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -812,13 +878,11 @@ Date of latest renewal:
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
-23
-
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
@@ -840,8 +904,6 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 ##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
-
-The marketing authorisation holder (MAH) shall submit the first PSUR for this product within six months following authorisation.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -972,7 +1034,7 @@ Each film-coated tablet contains 50 mg niraparib and 500 mg abiraterone acetate.
 
 28 film-coated tablets
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHODAND ROUTE(S) OF ADMINISTRATION
 
 Take Akeega at least two hours after eating. Do not eat any food for at least one hour after taking Akeega.
 
@@ -1044,6 +1106,8 @@ Akeega 50 mg/500 mg
 | 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
 |-------|----------------------------------------|
 
+35
+
 <div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
@@ -1070,13 +1134,17 @@ Lot
 
 Fold over to close
 
-Fold over to close
+<!-- image -->
 
 <!-- image -->
 
 Flip open
 
-<!-- image -->
+Fold over to close
+
+A
+
+Flip open
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -1278,8 +1346,6 @@ Akeega 100 mg/500 mg
 | 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
 |-------|----------------------------------------|
 
-39
-
 <div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
@@ -1373,7 +1439,7 @@ Lot
 
 Akeega is a medicine that contains two active substances: niraparib and abiraterone acetate, and works in two different ways.
 
-Akeega is used to treat adult men with prostate cancer who have changes in certain genes and whose prostate cancer has spread to other parts of the body and no longer responds to medical or surgical treatment that lowers testosterone (also called metastatic castration-resistant prostate cancer).
+Akeega is used to treat adult men with prostate cancer who have changes in certain genes and whose prostate cancer has spread to other parts of the body (also called metastatic prostate cancer).
 
 Niraparib is a type of cancer medicine called a PARP inhibitor. PARP inhibitors block an enzyme called poly [adenosine diphosphate-ribose] polymerase (PARP). PARP helps cells repair damaged DNA. When PARP is blocked, cancer cells cannot repair their DNA, resulting in tumour cell death and helping to control the cancer.
 
@@ -1390,9 +1456,9 @@ When you take this medicine, your doctor will also prescribe another medicine ca
 -  if you have severe liver damage.
 -  in combination with Ra-223 treatment (which is used to treat prostate cancer). This is because of a possible increase in the risk of bone fracture or death.
 
-<div style=\"page-break-after: always\"></div>
-
 Do not take this medicine if any of the above apply to you. If you are not sure, talk to your doctor or pharmacist before taking this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Warnings and precautions
 
@@ -1433,10 +1499,9 @@ Tell your doctor or pharmacist if you are taking, have recently taken, or might 
 Treatment with medicines that stop the body from producing testosterone, may increase the risk of heart rhythm problems. Tell your doctor if you are receiving medicine:
 
 -  to treat heart rhythm problems (e.g. quinidine, procainamide, amiodarone and sotalol);
+-  known to increase the risk of heart rhythm problems (e.g., methadone), used for pain relief and part of drug addiction detoxification; moxifloxacin, an antibiotic; antipsychotics, used for serious mental illnesses.
 
 <div style=\"page-break-after: always\"></div>
-
--  known to increase the risk of heart rhythm problems (e.g., methadone), used for pain relief and part of drug addiction detoxification; moxifloxacin, an antibiotic; antipsychotics, used for serious mental illnesses.
 
 Tell your doctor if you are taking any of the medicines listed above.
 
@@ -1512,9 +1577,9 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-## Serious side effects Stop taking Akeega and seek medical attention immediately if you notice any of the following
+## Serious side effects
 
-## symptoms:
+Stop taking Akeega and seek medical attention immediately if you notice any of the following symptoms:
 
 Very common (may affect more than 1 in 10 people)
 
@@ -1522,7 +1587,14 @@ Very common (may affect more than 1 in 10 people)
 -  Being short of breath, feeling very tired, having pale skin, or fast heartbeat - these may be signs of a low red blood cell count (anaemia).
 -  Fever or infection - low white blood cell count (neutropenia) can increase your risk for infection. Signs may include fever, chills, feeling weak or confused, cough, pain or burning feeling when passing urine. Some infections can be serious and may lead to death.
 -  Muscle weakness, muscle twitching or a pounding heart beat (palpitations). These may be signs that the level of potassium in your blood is low (hypokalaemia).
+
+Common (may affect up to 1 in 10 people):
+
 -  Increased level of the enzyme 'alkaline phosphatase' in the blood
+
+Uncommon (may affect up to 1 in 100 people):
+
+-  low blood cell counts due to a problem in the bone marrow or blood cancer starting from the bone marrow 'myelodysplastic syndrome' (MDS) or acute myeloid leukaemia (AML)
 
 Not known (cannot be estimated) - not reported with the use of Akeega but reported with use of niraparib or abiraterone acetate (components of Akeega)
 
@@ -1533,86 +1605,93 @@ Not known (cannot be estimated) - not reported with the use of Akeega but report
 
 Talk to your doctor if you get any other side effects. These can include:
 
-Very common (may affect more than 1 in 10 people):
-
--  urinary tract infection
--  low number of white blood cells (leukopenia), seen in blood tests
-
 <div style=\"page-break-after: always\"></div>
 
+## Very common (may affect more than 1 in 10 people):
+
+-  urinary tract infection
+-  infection of nose, throat or chest
+-  low number of white blood cells (leukopenia), seen in blood tests
 -  low number of a type of white blood cell (lymphopenia), seen in blood tests
 -  high blood pressure
 -  decreased appetite
 -  difficulty sleeping (insomnia)
 -  feeling dizzy
+-  headache
 -  shortness of breath
 -  stomach pain
 -  constipation
 -  feeling sick (nausea)
 -  vomiting
--  back pain
--  joint pain
--  feeling very tired
--  feeling weak
+-  feeling very weak or tired
 -  high level of sugar in blood
 -  weight loss
--  swollen hands, ankles, or feet
+-  swelling, including swollen hands, ankles, or feet
 -  increased level of 'creatinine' in the blood
+-  feeling hot or sweaty
+-  cough
+-  diarrhoea
+-  muscle and joint pain
 
 ## Common (may affect up to 1 in 10 people):
 
--  pneumoniae
--  lung infection (bronchitis)
--  infection of the nose and throat (nasopharyngitis)
--  high level of a type of fat (hypertriglyceridaemia) in the blood
+-  pneumonia
+-  high level of a type of fat (triglycerides, cholesterol) in the blood
 -  depression
 -  feeling anxious
--  headache
 -  fast heart beat
--  fast or uneven heart beat (palpitations)
--  irregular heart beat (atrial fibrillation)
+-  feeling your heart racing, fluttering, or pounding in your chest (palpitations)
 -  heart failure, causing shortness of breath and swollen legs
--  heart attack
+-  abnormal heart rhythm, including atrial fibrillation
 -  chest discomfort, often brought on by physical activity
--  cough
 -  blood clot in the lungs, causing chest pain and shortness of breath
--  inflamed lungs
 -  indigestion
--  diarrhoea
 -  bloating
 -  sores in the mouth
 -  dry mouth
--  liver failure
 -  skin rash
--  muscle aches
 -  blood in the urine
 -  increased level of the enzyme 'aspartate aminotransferase' in the blood
 -  increased level of the enzyme 'alanine aminotransferase' in the blood
 -  bone fractures
-
-## Uncommon (may affect up to 1 in 100 people):
-
--  severe infection (sepsis) that spreads from the urinary tract throughout the body
--  inflamed eye (conjunctivitis)
+-  infection of the stomach and gut
 -  feeling confused
+-  feeling very sleepy with low energy
 -  change in sense of taste
+-  nose bleeds
+-  inflammation of the stomach lining
+-  high level of 'bilirubin' in the blood
+-  itching
 
 <div style=\"page-break-after: always\"></div>
 
--  abnormal ECG (electrocardiogram), which could be a sign of heart problems
--  nose bleeds
--  inflammation of the protective linings in the body cavities, such as the nose, mouth, or digestive system
 -  increased sensitivity of the skin to sunlight
+-  sudden, possibly reversible kidney damage
+-  chest pain not related to the heart
+-  difficulty thinking, remembering information, or solving problems (cognitive disorder)
+-  severe infection (sepsis)
+
+## Uncommon (may affect up to 1 in 100 people):
+
+-  inflammation of the eye (conjunctivitis)
+-  abnormal ECG (electrocardiogram), which could be a sign of heart problems
+-  inflammation of the protective linings in the body cavities, such as the nose, mouth, or digestive system
 -  increased level of 'gamma-glutamyltransferase' in the blood
+-  skin infection
+-  allergic reaction
+-  heart attack
+-  inflammation of the lungs
+-  liver failure
+-  inflammation of the liver (hepatitis)
+-  bleeding inside the urethra (tube that carries urine from the bladder)
+-  chest pain
 
 Not known (cannot be estimated) - not reported with the use of Akeega but reported with use of niraparib or abiraterone acetate (components of Akeega)
 
 -  low numbers of all types of blood cells (pancytopenia)
 -  brain condition with symptoms including seizures (fits), headache, confusion, and changes in vision (posterior reversible encephalopathy syndrome or PRES), which is a medical emergency that could lead to organ damage or can be life-threatening
 -  adrenal gland problems (related to salt and water problems) where too little hormone is produced which may cause problems like weakness, tiredness, loss of appetite, nausea, dehydration and skin changes
--  difficulty thinking, remembering information, or solving problems (cognitive impairment)
--  inflamed lungs caused by an allergic reaction (allergic alveolitis)
--  allergic reaction
+-  inflammation of the lungs caused by an allergic reaction (allergic alveolitis)
 -  muscle disease (myopathy), which may cause muscle weakness, stiffness or spasms
 -  breakdown of muscle tissue (rhabdomyolysis), which may cause muscle cramps or pains, tiredness and dark urine
 
@@ -1630,14 +1709,14 @@ This medicine does not require any special storage conditions.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. Contents of the pack and other information
 
 ## What Akeega contains
 
 -  The active substances are niraparib and abiraterone acetate. Each film-coated tablet contains 50 mg niraparib and 500 mg abiraterone acetate.
 -  The other ingredients of the tablet core are colloidal anhydrous silica, crospovidone, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, sodium lauryl sulfate. The film-coating contains iron oxide black (E172), iron oxide red (E172), iron oxide yellow (E172), sodium lauryl sulphate, glycerol monocaprylocaprate, polyvinyl alcohol, talc, and titanium dioxide (E171) (see section 2, Akeega contains lactose and sodium).
-
-<div style=\"page-break-after: always\"></div>
 
 ## What Akeega looks like and contents of the pack
 
@@ -1657,15 +1736,23 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
 
-janssen@jacbe.jnj.com
+## Lietuva
+
+UAB \"JOHNSON &amp; JOHNSON\"
+
+Tel: +370 5 278 68 88
+
+lt@its.jnj.com
 
 ## България
 
-'Джонсън &amp; Джонсън България' ЕООД
+'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
 
-Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
+## Luxembourg/Luxemburg
+
+Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
 
 ## Česká republika
 
@@ -1673,45 +1760,15 @@ Janssen-Cilag s.r.o.
 
 Tel: +420 227 012 227
 
-## Danmark
-
-Janssen-Cilag A/S
-
-Tlf.: +45 4594 8282
-
-jacdk@its.jnj.com
-
-## Deutschland
-
-Janssen-Cilag GmbH
-
-Tel: 0800 086 9247 / +49 2137 955 6955
-
-jancil@its.jnj.com
-
-## Eesti
-
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
-
-Tel: +372 617 7410
-
-ee@its.jnj.com
-
-## Lietuva
-
-UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
-
-## Luxembourg/Luxemburg
-
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
-
 ## Magyarország
 
-Janssen-Cilag Kft.
-
-Tel.: +36 1 884 2858
+Janssen-Cilag Kft. Tel.: +36 1 884 2858
 
 janssenhu@its.jnj.com
+
+## Danmark
+
+Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
 
 ## Malta
 
@@ -1719,69 +1776,43 @@ AM MANGION LTD
 
 Tel: +356 2397 6000
 
-## Nederland
-
-Janssen-Cilag B.V.
-
-Tel: +31 76 711 1111
-
-janssen@jacnl.jnj.com
-
-## Norge
-
-Janssen-Cilag AS
-
-Tlf: +47 24 12 65 00 jacno@its.jnj.com
-
 <div style=\"page-break-after: always\"></div>
+
+## Deutschland
+
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
+
+## Eesti
+
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
 
 ## Ελλάδα
 
-Janssen-Cilag Φαρμακευτική Μονοπρόσωπη
-
-Α.Ε.Β.Ε.
-
-Tηλ: +30 210 80 90 000
+Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ: +30 210 80 90 000
 
 ## España
 
-Janssen-Cilag, S.A.
-
-Tel: +34 91 722 81 00
-
-contacto@its.jnj.com
+Janssen-Cilag, S.A. Tel: +34 91 722 81 00 contacto@its.jnj.com
 
 ## France
 
-Janssen-Cilag
-
-Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
+Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
 
 ## Hrvatska
 
-Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700
-
-jjsafety@JNJCR.JNJ.com
+Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
 
 ## Ireland
 
-Janssen Sciences Ireland UC Tel: 1 800 709 122
-
-medinfo@its.jnj.com
+Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
 
 ## Ísland
 
-Janssen-Cilag AB c/o Vistor hf. Sími: +354 535 7000
-
-janssen@vistor.is
+Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
 
 ## Italia
 
-Janssen-Cilag SpA
-
-Tel: 800.688.777 / +39 02 2510 1
-
-janssenita@its.jnj.com
+Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1 janssenita@its.jnj.com
 
 ## Κύπρος
 
@@ -1789,49 +1820,39 @@ janssenita@its.jnj.com
 
 ## Latvija
 
-UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
+UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā Tel: +371 678 93561 lv@its.jnj.com
 
-Tel: +371 678 93561 lv@its.jnj.com
+## Nederland
 
-## This leaflet was last revised in MM/YYYY .
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
 
-## Other sources of information
+## Norge
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
 
 ## Österreich
 
-Janssen-Cilag Pharma GmbH
-
-Tel: +43 1 610 300
+Janssen-Cilag Pharma GmbH Tel: +43 1 610 300
 
 ## Polska
 
-Janssen-Cilag Polska Sp. z o.o.
-
-Tel.: +48 22 237 60 00
+Janssen-Cilag Polska Sp. z o.o. Tel.: +48 22 237 60 00
 
 ## Portugal
 
-Janssen-Cilag Farmacêutica, Lda.
-
-Tel: +351 214 368 600
+Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
 
 ## România
 
-Johnson &amp; Johnson România SRL
-
-Tel: +40 21 207 1800
+Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
 
 ## Slovenija
 
-Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 Janssen\\_safety\\_slo@its.jnj.com
+Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 JNJ-SI-safety@its.jnj.com
 
 ## Slovenská republika
 
-Johnson &amp; Johnson, s.r.o.
-
-Tel: +421 232 408 400
+Johnson &amp; Johnson, s.r.o. Tel: +421 232 408 400
 
 ## Suomi/Finland
 
@@ -1841,11 +1862,13 @@ Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
 
 Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
 
-## United Kingdom (Northern Ireland)
+<div style=\"page-break-after: always\"></div>
 
-Janssen Sciences Ireland UC
+## This leaflet was last revised in
 
-Tel: +44 1 494 567 444 medinfo@its.jnj.com
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Package leaflet: Information for the user
 
@@ -1875,7 +1898,7 @@ niraparib/abiraterone acetate
 
 Akeega is a medicine that contains two active substances: niraparib and abiraterone acetate, and works in two different ways.
 
-Akeega is used to treat adult men with prostate cancer who have changes in certain genes and whose prostate cancer has spread to other parts of the body and no longer responds to medical or surgical treatment that lowers testosterone (also called metastatic castration-resistant prostate cancer).
+Akeega is used to treat adult men with prostate cancer who have changes in certain genes and whose prostate cancer has spread to other parts of the body (also called metastatic prostate cancer).
 
 Niraparib is a type of cancer medicine called a PARP inhibitor. PARP inhibitors block an enzyme called poly [adenosine diphosphate-ribose] polymerase (PARP). PARP helps cells repair damaged DNA. When PARP is blocked, cancer cells cannot repair their DNA, resulting in tumour cell death and helping to control the cancer.
 
@@ -1892,9 +1915,9 @@ When you take this medicine, your doctor will also prescribe another medicine ca
 -  if you have severe liver damage.
 -  in combination with Ra-223 treatment (which is used to treat prostate cancer). This is because of a possible increase in the risk of bone fracture or death.
 
-<div style=\"page-break-after: always\"></div>
-
 Do not take this medicine if any of the above apply to you. If you are not sure, talk to your doctor or pharmacist before taking this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Warnings and precautions
 
@@ -1935,10 +1958,9 @@ Tell your doctor or pharmacist if you are taking, have recently taken, or might 
 Treatment with medicines that stop the body from producing testosterone, may increase the risk of heart rhythm problems. Tell your doctor if you are receiving medicine:
 
 -  to treat heart rhythm problems (e.g., quinidine, procainamide, amiodarone and sotalol);
+-  known to increase the risk of heart rhythm problems (e.g., methadone), used for pain relief and part of drug addiction detoxification; moxifloxacin, an antibiotic; antipsychotics, used for serious mental illnesses.
 
 <div style=\"page-break-after: always\"></div>
-
--  known to increase the risk of heart rhythm problems (e.g., methadone), used for pain relief and part of drug addiction detoxification; moxifloxacin, an antibiotic; antipsychotics, used for serious mental illnesses.
 
 Tell your doctor if you are taking any of the medicines listed above.
 
@@ -2014,9 +2036,9 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-## Serious side effects Stop taking Akeega and seek medical attention immediately if you notice any of the following
+## Serious side effects
 
-## symptoms:
+Stop taking Akeega and seek medical attention immediately if you notice any of the following symptoms:
 
 Very common (may affect more than 1 in 10 people)
 
@@ -2024,7 +2046,14 @@ Very common (may affect more than 1 in 10 people)
 -  Being short of breath, feeling very tired, having pale skin, or fast heartbeat - these may be signs of a low red blood cell count (anaemia).
 -  Fever or infection - low white blood cell count (neutropenia) can increase your risk for infection. Signs may include fever, chills, feeling weak or confused, cough, pain or burning feeling when passing urine. Some infections can be serious and may lead to death.
 -  Muscle weakness, muscle twitching or a pounding heart beat (palpitations). These may be signs that the level of potassium in your blood is low (hypokalaemia).
+
+Common (may affect up to 1 in 10 people):
+
 -  Increased level of the enzyme 'alkaline phosphatase' in the blood
+
+Uncommon (may affect up to 1 in 100 people):
+
+-  low blood cell counts due to a problem in the bone marrow or blood cancer starting from the bone marrow 'myelodysplastic syndrome' (MDS) or acute myeloid leukaemia (AML)
 
 Not known (cannot be estimated) - not reported with the use of Akeega but reported with use of niraparib or abiraterone acetate (components of Akeega)
 
@@ -2035,86 +2064,93 @@ Not known (cannot be estimated) - not reported with the use of Akeega but report
 
 Talk to your doctor if you get any other side effects. These can include:
 
-Very common (may affect more than 1 in 10 people):
-
--  urinary tract infection
--  low number of white blood cells (leukopenia), seen in blood tests
-
 <div style=\"page-break-after: always\"></div>
 
+## Very common (may affect more than 1 in 10 people):
+
+-  urinary tract infection
+-  infection of nose, throat or chest
+-  low number of white blood cells (leukopenia), seen in blood tests
 -  low number of a type of white blood cell (lymphopenia), seen in blood tests
 -  high blood pressure
 -  decreased appetite
 -  difficulty sleeping (insomnia)
 -  feeling dizzy
+-  headache
 -  shortness of breath
 -  stomach pain
 -  constipation
 -  feeling sick (nausea)
 -  vomiting
--  back pain
--  joint pain
--  feeling very tired
--  feeling weak
+-  feeling very weak or tired
 -  high level of sugar in blood
 -  weight loss
--  swollen hands, ankles, or feet
+-  swelling, including swollen hands, ankles, or feet
 -  increased level of 'creatinine' in the blood
+-  feeling hot or sweaty
+-  cough
+-  diarrhoea
+-  muscle and joint pain
 
 ## Common (may affect up to 1 in 10 people):
 
--  pneumoniae
--  lung infection (bronchitis)
--  infection of the nose and throat (nasopharyngitis)
--  high level of a type of fat (hypertriglyceridaemia) in the blood
+-  pneumonia
+-  high level of a type of fat (triglycerides, cholesterol) in the blood
 -  depression
 -  feeling anxious
--  headache
 -  fast heart beat
--  fast or uneven heart beat (palpitations)
--  irregular heart beat (atrial fibrillation)
+-  feeling your heart racing, fluttering, or pounding in your chest (palpitations)
 -  heart failure, causing shortness of breath and swollen legs
--  heart attack
+-  abnormal heart rhythm, including atrial fibrillation
 -  chest discomfort, often brought on by physical activity
--  cough
 -  blood clot in the lungs, causing chest pain and shortness of breath
--  inflamed lungs
 -  indigestion
--  diarrhoea
 -  bloating
 -  sores in the mouth
 -  dry mouth
--  liver failure
 -  skin rash
--  muscle aches
 -  blood in the urine
 -  increased level of the enzyme 'aspartate aminotransferase' in the blood
 -  increased level of the enzyme 'alanine aminotransferase' in the blood
 -  bone fractures
-
-## Uncommon (may affect up to 1 in 100 people):
-
--  severe infection (sepsis) that spreads from the urinary tract throughout the body
--  inflamed eye (conjunctivitis)
+-  infection of the stomach and gut
 -  feeling confused
+-  feeling very sleepy with low energy
 -  change in sense of taste
+-  nose bleeds
+-  inflammation of the stomach lining
+-  high level of 'bilirubin' in the blood
+-  itching
 
 <div style=\"page-break-after: always\"></div>
 
--  abnormal ECG (electrocardiogram), which could be a sign of heart problems
--  nose bleeds
--  inflammation of the protective linings in the body cavities, such as the nose, mouth, or digestive system
 -  increased sensitivity of the skin to sunlight
+-  sudden, possibly reversible kidney damage
+-  chest pain not related to the heart
+-  difficulty thinking, remembering information, or solving problems (cognitive disorder)
+-  severe infection (sepsis)
+
+## Uncommon (may affect up to 1 in 100 people):
+
+-  inflammation of the eye (conjunctivitis)
+-  abnormal ECG (electrocardiogram), which could be a sign of heart problems
+-  inflammation of the protective linings in the body cavities, such as the nose, mouth, or digestive system
 -  increased level of 'gamma-glutamyltransferase' in the blood
+-  skin infection
+-  allergic reaction
+-  heart attack
+-  inflammation of the lungs
+-  liver failure
+-  inflammation of the liver (hepatitis)
+-  bleeding inside the urethra (tube that carries urine from the bladder)
+-  chest pain
 
 Not known (cannot be estimated) - not reported with the use of Akeega but reported with use of niraparib or abiraterone acetate (components of Akeega)
 
 -  low numbers of all types of blood cells (pancytopenia)
 -  brain condition with symptoms including seizures (fits), headache, confusion, and changes in vision (posterior reversible encephalopathy syndrome or PRES), which is a medical emergency that could lead to organ damage or can be life-threatening
 -  adrenal gland problems (related to salt and water problems) where too little hormone is produced which may cause problems like weakness, tiredness, loss of appetite, nausea, dehydration and skin changes
--  difficulty thinking, remembering information, or solving problems (cognitive impairment)
--  inflamed lungs caused by an allergic reaction (allergic alveolitis)
--  allergic reaction
+-  inflammation of the lungs caused by an allergic reaction (allergic alveolitis)
 -  muscle disease (myopathy), which may cause muscle weakness, stiffness or spasms
 -  breakdown of muscle tissue (rhabdomyolysis), which may cause muscle cramps or pains, tiredness and dark urine
 
@@ -2132,14 +2168,14 @@ This medicine does not require any special storage conditions.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. Contents of the pack and other information
 
 ## What Akeega contains
 
 -  The active substances are niraparib and abiraterone acetate. Each film-coated tablet contains 100 mg niraparib and 500 mg abiraterone acetate.
 -  The other ingredients of the tablet core are colloidal anhydrous silica, crospovidone, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, sodium lauryl sulfate. The film-coating contains iron oxide red (E172), iron oxide yellow (E172), sodium lauryl sulphate, glycerol monocaprylocaprate, polyvinyl alcohol, talc, and titanium dioxide (E171) (see section 2, Akeega contains lactose and sodium)
-
-<div style=\"page-break-after: always\"></div>
 
 ## What Akeega looks like and contents of the pack
 
@@ -2159,7 +2195,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
 
 ## България
 
@@ -2173,19 +2209,11 @@ Tel: +420 227 012 227
 
 ## Danmark
 
-Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
+Janssen-Cilag A/S
 
-## Deutschland
+Tlf.: +45 4594 8282
 
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
-
-## Eesti
-
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
-
-Tel: +372 617 7410
-
-ee@its.jnj.com
+jacdk@its.jnj.com
 
 ## Lietuva
 
@@ -2195,13 +2223,11 @@ Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
 
 ## Magyarország
 
-Janssen-Cilag Kft. Tel.: +36 1 884 2858
-
-janssenhu@its.jnj.com
+Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
 
 ## Malta
 
@@ -2209,121 +2235,83 @@ AM MANGION LTD
 
 Tel: +356 2397 6000
 
+<div style=\"page-break-after: always\"></div>
+
+## Deutschland
+
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
+
+## Eesti
+
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
+
+## Ελλάδα
+
+Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ: +30 210 80 90 000
+
+## España
+
+Janssen-Cilag, S.A. Tel: +34 91 722 81 00 contacto@its.jnj.com
+
+## France
+
+Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
+
+## Hrvatska
+
+Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
+
+## Ireland
+
+Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
+
+## Ísland
+
+Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
+
+## Italia
+
+Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1 janssenita@its.jnj.com
+
+## Κύπρος
+
+Βαρνάβας Χατζηπαναγής Λτδ Τηλ: +357 22 207 700
+
+## Latvija
+
+UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā Tel: +371 678 93561 lv@its.jnj.com
+
 ## Nederland
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
 
 ## Norge
 
 Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
 
-<div style=\"page-break-after: always\"></div>
-
-## Ελλάδα
-
-Janssen-Cilag Φαρμακευτική Μονοπρόσωπη
-
-Α.Ε.Β.Ε.
-
-Tηλ: +30 210 80 90 000
-
-## España
-
-Janssen-Cilag, S.A.
-
-Tel: +34 91 722 81 00
-
-contacto@its.jnj.com
-
-## France
-
-Janssen-Cilag
-
-Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
-
-## Hrvatska
-
-Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700
-
-jjsafety@JNJCR.JNJ.com
-
-## Ireland
-
-Janssen Sciences Ireland UC Tel: 1 800 709 122
-
-medinfo@its.jnj.com
-
-## Ísland
-
-Janssen-Cilag AB
-
-c/o Vistor hf.
-
-Sími: +354 535 7000
-
-janssen@vistor.is
-
-## Italia
-
-Janssen-Cilag SpA
-
-Tel: 800.688.777 / +39 02 2510 1
-
-janssenita@its.jnj.com
-
-## Κύπρος
-
-Βαρνάβας Χατζηπαναγής Λτδ
-
-Τηλ: +357 22 207 700
-
-## Latvija
-
-UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
-
-Tel: +371 678 93561
-
-lv@its.jnj.com
-
-## This leaflet was last revised in MM/YYYY .
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
 ## Österreich
 
-Janssen-Cilag Pharma GmbH
-
-Tel: +43 1 610 300
+Janssen-Cilag Pharma GmbH Tel: +43 1 610 300
 
 ## Polska
 
-Janssen-Cilag Polska Sp. z o.o.
-
-Tel.: +48 22 237 60 00
+Janssen-Cilag Polska Sp. z o.o. Tel.: +48 22 237 60 00
 
 ## Portugal
 
-Janssen-Cilag Farmacêutica, Lda.
-
-Tel: +351 214 368 600
+Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
 
 ## România
 
-Johnson &amp; Johnson România SRL
-
-Tel: +40 21 207 1800
+Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
 
 ## Slovenija
 
-Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 Janssen\\_safety\\_slo@its.jnj.com
+Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 JNJ-SI-safety@its.jnj.com
 
 ## Slovenská republika
 
-Johnson &amp; Johnson, s.r.o.
-
-Tel: +421 232 408 400
+Johnson &amp; Johnson, s.r.o. Tel: +421 232 408 400
 
 ## Suomi/Finland
 
@@ -2333,10 +2321,10 @@ Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
 
 Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
 
-## United Kingdom (Northern Ireland)
+<div style=\"page-break-after: always\"></div>
 
-Janssen Sciences Ireland UC
+## This leaflet was last revised in
 
-Tel: +44 1 494 567 444
+## Other sources of information
 
-medinfo@its.jnj.com
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.

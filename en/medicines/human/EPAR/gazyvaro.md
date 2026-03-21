@@ -1,32 +1,30 @@
 ---
-document_datetime: 2026-01-07 15:10:00
+document_datetime: 2026-03-17 16:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/gazyvaro.html
 document_name: gazyvaro.html
 version: success
-processing_time: 0.1329822
-conversion_datetime: 2026-01-10 11:37:39.562819
+processing_time: 0.0965371
+conversion_datetime: 2026-03-21 12:09:41.053144
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.1
-  docling: 2.67.0
-  docling-core: 2.58.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Gazyvaro
 
 [RSS](/en/individual-human-medicine.xml/66305)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 obinutuzumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -150,7 +148,7 @@ English (EN) (137.67 KB - PDF)
 
 [View](/en/documents/overview/gazyvaro-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-672)
+[Other languages (22)](#file-language-dropdown-555)
 
 български (BG) (158.34 KB - PDF)
 
@@ -430,17 +428,17 @@ English (EN) (1.79 MB - PDF)
 
 Gazyvaro : EPAR - Product Information
 
-English (EN) (1.88 MB - PDF)
+English (EN) (1.38 MB - PDF)
 
 **First published:** 20/08/2014
 
-**Last updated:** 07/01/2026
+**Last updated:** 17/03/2026
 
 [View](/en/documents/product-information/gazyvaro-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-281)
+[Other languages (24)](#file-language-dropdown-251)
 
-български (BG) (1.74 MB - PDF)
+български (BG) (1.76 MB - PDF)
 
 **First published:**
 
@@ -448,11 +446,11 @@ English (EN) (1.88 MB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/bg/documents/product-information/gazyvaro-epar-product-information_bg.pdf)
 
-español (ES) (1.27 MB - PDF)
+español (ES) (1.28 MB - PDF)
 
 **First published:**
 
@@ -460,11 +458,11 @@ español (ES) (1.27 MB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/es/documents/product-information/gazyvaro-epar-product-information_es.pdf)
 
-čeština (CS) (1.16 MB - PDF)
+čeština (CS) (1.14 MB - PDF)
 
 **First published:**
 
@@ -472,11 +470,11 @@ español (ES) (1.27 MB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/cs/documents/product-information/gazyvaro-epar-product-information_cs.pdf)
 
-dansk (DA) (927.53 KB - PDF)
+dansk (DA) (954.21 KB - PDF)
 
 **First published:**
 
@@ -484,11 +482,11 @@ dansk (DA) (927.53 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/da/documents/product-information/gazyvaro-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.03 MB - PDF)
+Deutsch (DE) (2.05 MB - PDF)
 
 **First published:**
 
@@ -496,11 +494,11 @@ Deutsch (DE) (2.03 MB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/de/documents/product-information/gazyvaro-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.06 MB - PDF)
+eesti keel (ET) (1.08 MB - PDF)
 
 **First published:**
 
@@ -508,11 +506,11 @@ eesti keel (ET) (1.06 MB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/et/documents/product-information/gazyvaro-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.05 MB - PDF)
+ελληνικά (EL) (1.06 MB - PDF)
 
 **First published:**
 
@@ -520,7 +518,7 @@ eesti keel (ET) (1.06 MB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/el/documents/product-information/gazyvaro-epar-product-information_el.pdf)
 
@@ -532,11 +530,11 @@ français (FR) (1.11 MB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/fr/documents/product-information/gazyvaro-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.21 MB - PDF)
+hrvatski (HR) (1.22 MB - PDF)
 
 **First published:**
 
@@ -544,11 +542,11 @@ hrvatski (HR) (1.21 MB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/hr/documents/product-information/gazyvaro-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.08 MB - PDF)
+íslenska (IS) (1.04 MB - PDF)
 
 **First published:**
 
@@ -556,11 +554,11 @@ hrvatski (HR) (1.21 MB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/is/documents/product-information/gazyvaro-epar-product-information_is.pdf)
 
-italiano (IT) (981.39 KB - PDF)
+italiano (IT) (923.16 KB - PDF)
 
 **First published:**
 
@@ -568,7 +566,7 @@ italiano (IT) (981.39 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/it/documents/product-information/gazyvaro-epar-product-information_it.pdf)
 
@@ -580,11 +578,11 @@ latviešu valoda (LV) (1.19 MB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/lv/documents/product-information/gazyvaro-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.14 MB - PDF)
+lietuvių kalba (LT) (1.16 MB - PDF)
 
 **First published:**
 
@@ -592,11 +590,11 @@ lietuvių kalba (LT) (1.14 MB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/lt/documents/product-information/gazyvaro-epar-product-information_lt.pdf)
 
-magyar (HU) (1.12 MB - PDF)
+magyar (HU) (1.06 MB - PDF)
 
 **First published:**
 
@@ -604,11 +602,11 @@ magyar (HU) (1.12 MB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/hu/documents/product-information/gazyvaro-epar-product-information_hu.pdf)
 
-Malti (MT) (1.11 MB - PDF)
+Malti (MT) (1.14 MB - PDF)
 
 **First published:**
 
@@ -616,11 +614,11 @@ Malti (MT) (1.11 MB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/mt/documents/product-information/gazyvaro-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.04 MB - PDF)
+Nederlands (NL) (1.05 MB - PDF)
 
 **First published:**
 
@@ -628,11 +626,11 @@ Nederlands (NL) (1.04 MB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/nl/documents/product-information/gazyvaro-epar-product-information_nl.pdf)
 
-norsk (NO) (939.89 KB - PDF)
+norsk (NO) (948.19 KB - PDF)
 
 **First published:**
 
@@ -640,11 +638,11 @@ norsk (NO) (939.89 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/no/documents/product-information/gazyvaro-epar-product-information_no.pdf)
 
-polski (PL) (1.21 MB - PDF)
+polski (PL) (1.31 MB - PDF)
 
 **First published:**
 
@@ -652,11 +650,11 @@ polski (PL) (1.21 MB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/pl/documents/product-information/gazyvaro-epar-product-information_pl.pdf)
 
-português (PT) (2.03 MB - PDF)
+português (PT) (939.02 KB - PDF)
 
 **First published:**
 
@@ -664,11 +662,11 @@ português (PT) (2.03 MB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/pt/documents/product-information/gazyvaro-epar-product-information_pt.pdf)
 
-română (RO) (1.16 MB - PDF)
+română (RO) (1.15 MB - PDF)
 
 **First published:**
 
@@ -676,11 +674,11 @@ română (RO) (1.16 MB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/ro/documents/product-information/gazyvaro-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.19 MB - PDF)
+slovenčina (SK) (1.13 MB - PDF)
 
 **First published:**
 
@@ -688,11 +686,11 @@ slovenčina (SK) (1.19 MB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/sk/documents/product-information/gazyvaro-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.07 MB - PDF)
+slovenščina (SL) (1.08 MB - PDF)
 
 **First published:**
 
@@ -700,11 +698,11 @@ slovenščina (SL) (1.07 MB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/sl/documents/product-information/gazyvaro-epar-product-information_sl.pdf)
 
-Suomi (FI) (988.44 KB - PDF)
+Suomi (FI) (1000.49 KB - PDF)
 
 **First published:**
 
@@ -712,11 +710,11 @@ Suomi (FI) (988.44 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/fi/documents/product-information/gazyvaro-epar-product-information_fi.pdf)
 
-svenska (SV) (929.64 KB - PDF)
+svenska (SV) (959.15 KB - PDF)
 
 **First published:**
 
@@ -724,11 +722,11 @@ svenska (SV) (929.64 KB - PDF)
 
 **Last updated:**
 
-07/01/2026
+17/03/2026
 
 [View](/sv/documents/product-information/gazyvaro-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000244907 04/12/2025
+**Latest procedure affecting product information:** VR/0000313033 05/03/2026
 
 icon globe
 
@@ -746,17 +744,17 @@ Product information documents contain:
 
 Gazyvaro : EPAR - All Authorised presentations
 
-English (EN) (17.37 KB - PDF)
+English (EN) (90.53 KB - PDF)
 
 **First published:** 20/08/2014
 
-**Last updated:** 20/08/2014
+**Last updated:** 17/03/2026
 
 [View](/en/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-696)
+[Other languages (24)](#file-language-dropdown-666)
 
-български (BG) (39.55 KB - PDF)
+български (BG) (38.29 KB - PDF)
 
 **First published:**
 
@@ -764,11 +762,11 @@ English (EN) (17.37 KB - PDF)
 
 **Last updated:**
 
-20/08/2014
+17/03/2026
 
 [View](/bg/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (23.39 KB - PDF)
+español (ES) (61.83 KB - PDF)
 
 **First published:**
 
@@ -776,11 +774,11 @@ español (ES) (23.39 KB - PDF)
 
 **Last updated:**
 
-20/08/2014
+17/03/2026
 
 [View](/es/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (32.34 KB - PDF)
+čeština (CS) (30.14 KB - PDF)
 
 **First published:**
 
@@ -788,11 +786,11 @@ español (ES) (23.39 KB - PDF)
 
 **Last updated:**
 
-20/08/2014
+17/03/2026
 
 [View](/cs/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (18.27 KB - PDF)
+dansk (DA) (12.43 KB - PDF)
 
 **First published:**
 
@@ -800,11 +798,11 @@ dansk (DA) (18.27 KB - PDF)
 
 **Last updated:**
 
-20/08/2014
+17/03/2026
 
 [View](/da/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (23.87 KB - PDF)
+Deutsch (DE) (16.28 KB - PDF)
 
 **First published:**
 
@@ -812,11 +810,11 @@ Deutsch (DE) (23.87 KB - PDF)
 
 **Last updated:**
 
-20/08/2014
+17/03/2026
 
 [View](/de/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (23.67 KB - PDF)
+eesti keel (ET) (17.28 KB - PDF)
 
 **First published:**
 
@@ -824,11 +822,11 @@ eesti keel (ET) (23.67 KB - PDF)
 
 **Last updated:**
 
-20/08/2014
+17/03/2026
 
 [View](/et/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (40.17 KB - PDF)
+ελληνικά (EL) (35.62 KB - PDF)
 
 **First published:**
 
@@ -836,11 +834,11 @@ eesti keel (ET) (23.67 KB - PDF)
 
 **Last updated:**
 
-20/08/2014
+17/03/2026
 
 [View](/el/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (23.55 KB - PDF)
+français (FR) (17.68 KB - PDF)
 
 **First published:**
 
@@ -848,11 +846,11 @@ français (FR) (23.55 KB - PDF)
 
 **Last updated:**
 
-20/08/2014
+17/03/2026
 
 [View](/fr/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_fr.pdf)
 
-íslenska (IS) (18.14 KB - PDF)
+hrvatski (HR) (31.2 KB - PDF)
 
 **First published:**
 
@@ -860,11 +858,23 @@ français (FR) (23.55 KB - PDF)
 
 **Last updated:**
 
+17/03/2026
+
+[View](/hr/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_hr.pdf)
+
+íslenska (IS) (57.44 KB - PDF)
+
+**First published:**
+
 20/08/2014
+
+**Last updated:**
+
+17/03/2026
 
 [View](/is/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (18.2 KB - PDF)
+italiano (IT) (14.13 KB - PDF)
 
 **First published:**
 
@@ -872,11 +882,11 @@ italiano (IT) (18.2 KB - PDF)
 
 **Last updated:**
 
-20/08/2014
+17/03/2026
 
 [View](/it/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (34.25 KB - PDF)
+latviešu valoda (LV) (33.02 KB - PDF)
 
 **First published:**
 
@@ -884,11 +894,11 @@ latviešu valoda (LV) (34.25 KB - PDF)
 
 **Last updated:**
 
-20/08/2014
+17/03/2026
 
 [View](/lv/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (36.37 KB - PDF)
+lietuvių kalba (LT) (28.9 KB - PDF)
 
 **First published:**
 
@@ -896,11 +906,11 @@ lietuvių kalba (LT) (36.37 KB - PDF)
 
 **Last updated:**
 
-20/08/2014
+17/03/2026
 
 [View](/lt/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (29.63 KB - PDF)
+magyar (HU) (26.11 KB - PDF)
 
 **First published:**
 
@@ -908,11 +918,11 @@ magyar (HU) (29.63 KB - PDF)
 
 **Last updated:**
 
-20/08/2014
+17/03/2026
 
 [View](/hu/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (35.55 KB - PDF)
+Malti (MT) (35.8 KB - PDF)
 
 **First published:**
 
@@ -920,11 +930,11 @@ Malti (MT) (35.55 KB - PDF)
 
 **Last updated:**
 
-20/08/2014
+17/03/2026
 
 [View](/mt/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (17.2 KB - PDF)
+Nederlands (NL) (11.86 KB - PDF)
 
 **First published:**
 
@@ -932,11 +942,11 @@ Nederlands (NL) (17.2 KB - PDF)
 
 **Last updated:**
 
-20/08/2014
+17/03/2026
 
 [View](/nl/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (23.53 KB - PDF)
+norsk (NO) (11.8 KB - PDF)
 
 **First published:**
 
@@ -944,11 +954,11 @@ norsk (NO) (23.53 KB - PDF)
 
 **Last updated:**
 
-20/08/2014
+17/03/2026
 
 [View](/no/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (39.29 KB - PDF)
+polski (PL) (37.81 KB - PDF)
 
 **First published:**
 
@@ -956,11 +966,11 @@ polski (PL) (39.29 KB - PDF)
 
 **Last updated:**
 
-20/08/2014
+17/03/2026
 
 [View](/pl/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (18.35 KB - PDF)
+português (PT) (15.79 KB - PDF)
 
 **First published:**
 
@@ -968,11 +978,11 @@ português (PT) (18.35 KB - PDF)
 
 **Last updated:**
 
-20/08/2014
+17/03/2026
 
 [View](/pt/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (40 KB - PDF)
+română (RO) (79.51 KB - PDF)
 
 **First published:**
 
@@ -980,11 +990,11 @@ română (RO) (40 KB - PDF)
 
 **Last updated:**
 
-20/08/2014
+17/03/2026
 
 [View](/ro/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (37.97 KB - PDF)
+slovenčina (SK) (80.12 KB - PDF)
 
 **First published:**
 
@@ -992,11 +1002,11 @@ slovenčina (SK) (37.97 KB - PDF)
 
 **Last updated:**
 
-20/08/2014
+17/03/2026
 
 [View](/sk/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (24.08 KB - PDF)
+slovenščina (SL) (19.7 KB - PDF)
 
 **First published:**
 
@@ -1004,11 +1014,11 @@ slovenščina (SL) (24.08 KB - PDF)
 
 **Last updated:**
 
-20/08/2014
+17/03/2026
 
 [View](/sl/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (23.26 KB - PDF)
+Suomi (FI) (18.33 KB - PDF)
 
 **First published:**
 
@@ -1016,11 +1026,11 @@ Suomi (FI) (23.26 KB - PDF)
 
 **Last updated:**
 
-20/08/2014
+17/03/2026
 
 [View](/fi/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (23.34 KB - PDF)
+svenska (SV) (12.06 KB - PDF)
 
 **First published:**
 
@@ -1028,7 +1038,7 @@ svenska (SV) (23.34 KB - PDF)
 
 **Last updated:**
 
-20/08/2014
+17/03/2026
 
 [View](/sv/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_sv.pdf)
 
@@ -1058,7 +1068,7 @@ Roche Registration GmbH
 
 Emil-Barell-Strasse 1
 
-Opinion adopted 21/05/2014 Marketing authorisation issued 22/07/2014 Revision 20
+Opinion adopted 21/05/2014 Marketing authorisation issued 22/07/2014 Revision 21
 
 ## Assessment history
 
@@ -1070,11 +1080,11 @@ Collapse section
 
 Gazyvaro : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (153.33 KB - PDF)
+English (EN) (145.32 KB - PDF)
 
 **First published:** 08/10/2025
 
-**Last updated:** 07/01/2026
+**Last updated:** 17/03/2026
 
 [View](/en/documents/procedural-steps-after/gazyvaro-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1204,7 +1214,7 @@ English (EN) (67.08 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-gazyvaro_en.pdf)
 
-#### News on Gazyvaro
+## News on Gazyvaro
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 October 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-october-2025) 17/10/2025
 
@@ -1222,13 +1232,13 @@ English (EN) (67.08 KB - PDF)
 
 [European Medicines Agency recommends approval of Gazyvaro for chronic lymphocytic leukaemia](/en/news/european-medicines-agency-recommends-approval-gazyvaro-chronic-lymphocytic-leukaemia) 23/05/2014
 
-#### Related content
+## Related content
 
 - This product originally had an orphan designation for [treatment of chronic lymphocytic leukaemia](/en/medicines/human/orphan-designations/eu-3-12-1054) , granted on 10 October 2012. This designation was withdrawn from the Community register of orphan medicinal products in July 2024 at the end of the 10-year period of market exclusivity.
 - This product originally had an orphan designation for [treatment of follicular lymphoma](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-15-1504) , granted on 19 June 2015. This designation was withdrawn from the Community register of orphan medicinal products in October 2025 upon request of the marketing authorisation holder.
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/search?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-1=1=EMEAHC002799II0007) (variation II/0007)
 
-#### More information on Gazyvaro
+## More information on Gazyvaro
 
 - [EMEA-001207-PIP01-11-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001207-pip01-11-m01)
 - [EMEA-001207-PIP03-20 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001207-pip03-20)
@@ -1237,11 +1247,11 @@ English (EN) (67.08 KB - PDF)
 - [EMEA-001207-PIP06-22 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001207-pip06-22)
 - [EMEA-001207-PIP05-22 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001207-pip05-22)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 07/01/2026
+**This page was last updated on** 17/03/2026
 
 ## Share this page
 

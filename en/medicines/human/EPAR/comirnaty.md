@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-27 14:31:00
+document_datetime: 2026-03-17 15:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/comirnaty.html
 document_name: comirnaty.html
 version: success
-processing_time: 0.3628947
-conversion_datetime: 2026-03-01 20:08:39.423406
+processing_time: 0.1767601
+conversion_datetime: 2026-03-21 12:16:17.0115
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Comirnaty
 
@@ -227,7 +227,7 @@ English (EN) (165.99 KB - PDF)
 
 [View](/en/documents/overview/comirnaty-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-705)
+[Other languages (22)](#file-language-dropdown-186)
 
 български (BG) (204.05 KB - PDF)
 
@@ -515,7 +515,7 @@ English (EN) (2.41 MB - PDF)
 
 [View](/en/documents/product-information/comirnaty-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-818)
+[Other languages (24)](#file-language-dropdown-246)
 
 български (BG) (2.92 MB - PDF)
 
@@ -831,7 +831,7 @@ English (EN) (43.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-6)
+[Other languages (24)](#file-language-dropdown-312)
 
 български (BG) (85.87 KB - PDF)
 
@@ -1157,7 +1157,7 @@ BioNTech Manufacturing GmbH
 
 An der Goldgrube 12
 
-Opinion adopted 21/12/2020 Marketing authorisation issued 21/12/2020 Revision 57
+Opinion adopted 21/12/2020 Marketing authorisation issued 21/12/2020 Revision 58
 
 ## Assessment history
 
@@ -1186,6 +1186,18 @@ English (EN) (637.91 KB - PDF)
 **Last updated:** 28/11/2024
 
 [View](/en/documents/procedural-steps-after/comirnaty-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Comirnaty-PAM-0000309529 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2611525
+
+English (EN) (741.18 KB - PDF)
+
+**First published:** 17/03/2026
+
+[View](/en/documents/variation-report/comirnaty-pam-0000309529-epar-assessment-report_en.pdf)
 
 Comirnaty-VR-0000231586 : EPAR - Assessment report - Variation
 
@@ -2041,6 +2053,36 @@ This structure divides the types of documents into 5 modules, of which the sub-m
 
 You can subscribe to update notifications by selecting the RSS option available at the top of this page. You will need a news reader or other similar device. To learn more about RSS and news readers, see our [RSS user guide](https://www.ema.europa.eu/en/news-event/rss-feeds#user-guide-section) .
 
+### Reading guide
+
+In the context of these exceptional transparency measures, documents published by EMA that contain Commercially Confidential Information (CCI) and Protected Personal Data (PPD) shall be subject to redaction prior to their disclosure.
+
+CCI and PPD are redacted here following the principles laid out in the [HMA/EMA guidance document on the identification of personal data and commercially confidential information within the structure of the marketing authorisation application (MAA) dossier](/en/documents/other/heads-medicines-agencies-european-medicines-agency-guidance-document-identification-commercially-confidential-information-personal-data-within-structure-marketing-authorisation-application_en.pdf) . This entails consultation with the Marketing Authorisation Holder (MAH) and a thorough assessment of their justified proposal of redaction by EMA.
+
+In this guidance, Heads of Medicines Agencies (HMA) and the European Medicines Agency (EMA) agreed on a common approach on what should be considered personal data (PD) and CCI in the Marketing Authorisation Application (MAA) dossier of medicinal products for human use. The definition of CCI and PPD and the principles for the redaction of this information are set out from pages 5 to 13.The Annex to the above-mentioned guidance provides a non-exhaustive list of information that may be considered PPD or CCI in each of the modules of the MAA dossier based on the agreed Common Technical Document (CTD) laid out in the [ICH guideline on common technical documents (CTD) for the registration of pharmaceuticals for human use](/en/ich-m4-common-technical-document-ctd-registration-pharmaceuticals-human-use-organisation-ctd-scientific-guideline) .
+
+As regards the documents published under the exceptional transparency measures, the following pages of the Annex are of relevance:
+
+- For Module 2.3 - Quality Overall Summary: pages 30-33
+- For Module 2.4 - Nonclinical Overview: pages 33-34
+- For Module 2.6 - Nonclinical Summary: pages 37-39
+- For Module 3.2 - Body of quality data: pages 42-47
+- For Module 4.2 - Nonclinical study reports: pages 47-49
+
+Therefore, the documents **published under the exceptional transparency measures** may contain redactions, which are coloured and labelled as follows:
+
+- for CCI: black background with \"CCI\" overlay text
+- for PPD: blue background with \"PPD\" overlay text
+
+CCI and PPD
+
+<!-- image -->
+
+Documents published within the scope of the exceptional transparency measures that have been **previously released under an access to document procedure** under [Regulation (EC) No 1049/2001](https://eur-lex.europa.eu/eli/reg/2001/1049/oj/eng) follow the above-referred principles regarding the redaction of CCI and PPD. However, the formatting of these labels is different, and the overlay text states the exceptions applied in accordance with Article 4 of [Regulation (EC) No 1049/2001](https://eur-lex.europa.eu/eli/reg/2001/1049/oj/eng) .
+
+- for CCI: black background with \"4.2 1 ind.\" overlay text (corresponding to Article 4.2 1 st indent of Regulation (EC) No1049/2001) 4.2 1 ind.
+- for PPD: black background with \"4.1(b)\" overlay text (corresponding to Article 4.1 (b) of Regulation (EC) No1049/2001) 4.1(b)
+
 **Module 2.3 - quality overall summary**
 
 Comirnaty : 2.3.P drug product
@@ -2205,7 +2247,7 @@ English (EN) (813.79 KB - PDF)
 
 ## More information on Comirnaty
 
-- [EMEA-002861-PIP02-20-M07 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002861-pip02-20-m07)
+- [EMA/PE/0000221583 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000221583)
 - [Comirnaty / Spikevax (previously COVID-19 Vaccine Moderna) - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/comirnaty-spikevax-previously-covid-19-vaccine-moderna)
 - [Non-Interventional Postmarketing Safety Study of the COMIRNATY 2025-2026 Formula (LP.8.1) in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000932)
 - [Post Conditional Approval Active Surveillance Study Among Individuals in Europe Receiving the Pfizer-BioNTech Coronavirus Disease 2019 (COVID-19) Vaccine - post-authorisation study](https://catalogues.ema.europa.eu/study/46939)
@@ -2231,7 +2273,7 @@ English (EN) (813.79 KB - PDF)
 - [A Non-Interventional Post-Authorization Safety Study (PASS) for Active Safety Surveillance of Recipients of the Pfizer-BioNTech COVID-19 mRNA vaccine in the EU - post-authorisation study](https://catalogues.ema.europa.eu/study/47010)
 - [Real-world effectiveness of different COVID-19 vaccines in Spain: a cohort study based on public electronic health records (BIFAP) (effectiveness of COVID-19 vaccines in Spain) - post-authorisation study](https://catalogues.ema.europa.eu/study/42710)
 
-**This page was last updated on** 27/02/2026
+**This page was last updated on** 17/03/2026
 
 ## Share this page
 

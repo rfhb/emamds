@@ -1,36 +1,30 @@
 ---
-document_datetime: 2025-08-27 17:56:47
-document_pages: 2
+document_datetime: 2026-03-20 09:54:48
+document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/icatibant-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: icatibant-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 3.3168352
-conversion_datetime: 2025-12-17 08:06:35.827957
+processing_time: 1.7415124
+conversion_datetime: 2026-03-21 12:03:41.80476
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## Icatibant Accord
 
 Procedural steps taken and scientific information after the authorisation*
 
-*Due to the Agency' s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessmenthistory'section.Forthe completeproduct lifecycleprocedures,you mayneedtoalsorefertoEPAR-Proceduralsteps taken andscientific informationafterauthorisation(archive).
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Applicationnumber    | Scope                                  | Opinion/ Notification 1 issued on   | Commission Decision Issued²/ amendedon   | Product Information affected3   | Summary   |
-|----------------------|----------------------------------------|-------------------------------------|------------------------------------------|---------------------------------|-----------|
-| Variation typeIA_IN/ | This was an application for a group of | 26/08/2025                          |                                          | Annex II and                    |           |
-
-1 Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions areissuedforallotherprocedures.
-
-3SmPC(Summary ofProductCharacteristics),AnnexII,Labelling,PL(PackageLeaflet).
-
-2 A Commission decision(CD) is issued for procedures that affect the terms of the marketing authorisation(e.g.summary of product characteristics, annexII, labelling,package leaflet).The CDisissuedwithintwomonths of the opinionforvariationsfallingunderthescope ofArticle23.1a(a)ofRegulation(EU)No.712/2012,orwithinoneyearforotherprocedures.
+| Application number   | Scope                                     | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                                            |
+|----------------------|-------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|----------------------------------------------------|
+| Variation type IB /  | C.9 Introduction of, or change(s) to, the | 19/03/2026                          |                                             |                                  | To update the RMP in line with the approved safety |
 
 <!-- image -->
 
@@ -38,5 +32,12 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/VR/0000293287   | variations. B.II.b.2.cReplacement or addition of a manufacturerresponsibleforimportation and/orbatch release -B.11.b.2.c.2Including batch control/testing-Accepted B.II.b.1Replacement or addition of a manufacturingsiteforpart or all of the manufacturing process of the finished product - B.1I1.b.1.a Secondary packaging site -Accepted A.ADMINISTRATIVECHANGES-A.7 Deletionofmanufacturingsitesforanactive substance, intermediate or finished product, packaging site, manufacturer responsible for batch release, site where batch control takes place,orsupplierof astartingmaterial, reagent or excipient(when mentioned in the dossier)*- Accepted   | PL   |
-|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
+| EMA/VR/0000333262                     | obligations and conditions of a marketing authorisation, including the risk management plan - C.9.b) Implementation of changes which require additional minor assessment (e.g. change to the due date of obligations and conditions of a marketing authorisation and required pharmacovigilance activities in the risk management plan, including changes to the due date of study milestones, and template updates) - Accepted C.9.b (Type IB) - To update the RMP in line with the approved safety concern updates for the reference product Firazyr by removing all important identified risks, all important potential risks, and one missing information (use in children below 2 years of   |            | concern updates for the reference product Firazyr by removing all important identified risks, all important potential risks, and one missing information (use in children below 2 years of age).   |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Variation type IA / EMA/VR/0000297152 | This was an application for a group of variations. A.5 Change in the name and/or address of a manufacturer/importer of the finished product (including batch release or quality control testing sites) - A.5.b The activities for which the manufacturer/importer is responsible do not include batch release - Accepted A.5 Change in the name and/or address of a manufacturer/importer of the finished                                                                                                                                                                                                                                                                                         | 02/10/2025 |                                                                                                                                                                                                    |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                          | product (including batch release or quality control testing sites) - A.5.b The activities for which the manufacturer/importer is responsible do not include batch release - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |            |                 |
+|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------|
+| Variation type IA_IN / EMA/VR/0000293287 | This was an application for a group of variations. B.II.b.2.c Replacement or addition of a manufacturer responsible for importation and/or batch release - B.II.b.2.c.2 Including batch control/testing - Accepted B.II.b.1 Replacement or addition of a manufacturing site for part or all of the manufacturing process of the finished product - B.II.b.1.a Secondary packaging site - Accepted A. ADMINISTRATIVE CHANGES - A.7 Deletion of manufacturing sites for an active substance, intermediate or finished product, packaging site, manufacturer responsible for batch release, site where batch control takes place, or supplier of a starting material, reagent or excipient (when mentioned in the dossier)* - Accepted | 26/08/2025 | Annex II and PL |

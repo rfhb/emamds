@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-09 12:20:48
+document_datetime: 2026-03-17 16:15:00
 document_pages: 23
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/gohibic-epar-product-information_en.pdf
 document_name: gohibic-epar-product-information_en.pdf
 version: success
-processing_time: 4.4300876
-conversion_datetime: 2025-12-19 14:16:32.903459
+processing_time: 5.4239178
+conversion_datetime: 2026-03-21 12:06:38.381826
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -130,9 +130,9 @@ No interaction studies have been performed. Vilobelimab is not renally excreted 
 
 ## Pregnancy
 
-There are no data from the use of vilobelimab in pregnant women. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity
+There are no data from the use of vilobelimab in pregnant women.
 
-(see section 5.3).
+Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
 
 As a precautionary measure, it is preferable to avoid the use of vilobelimab during pregnancy.
 
@@ -234,12 +234,6 @@ Table 3. Mortality through Day 28 in the PANAMO phase III trial
 | Day 28 Mortality site-stratified pre-specified analysis |                               |                           |
 | Hazard Ratio 2 (95% CI)                                 | 0.73 (0.50, 1.06)             | 0.73 (0.50, 1.06)         |
 
-SoC = standard of care; CI = confidence interval.
-
-1  Results from Kaplan-Meier estimates. Percentages will not be proportional to the number of deaths divided by the total number of patients due to missing values (8 patients missing mortality status in vilobelimab + SoC and 9 in placebo + SoC).
-
-2  Results from Cox proportional hazards regression with treatment and age as covariates.
-
 ## Paediatric population
 
 The  European  Medicines  Agency  has  deferred  the  obligation  to  submit  the  results  of  studies  with Gohibic in one or more subsets of the paediatric population in treatment of COVID-19 (see section 4.2 for information on paediatric use).
@@ -306,7 +300,7 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## Unopened vial
 
-18 months
+## 24 months
 
 ## Diluted solution
 
@@ -476,39 +470,46 @@ Store in a refrigerator. Do not freeze or shake.
 
 Store in the original package in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 InflaRx GmbH Winzerlaer Strasse 2 07745 Jena Germany
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/24/1884/001
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
 
@@ -516,7 +517,7 @@ NN
 
 Gohibic 200 mg sterile concentrate vilobelimab IV use after dilution
 
-2. METHOD OF ADMINISTRATION
+## 2. METHOD OF ADMINISTRATION
 
 3. EXPIRY DATE
 

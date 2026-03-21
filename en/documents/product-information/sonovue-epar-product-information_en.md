@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-11-15 10:09:36
+document_datetime: 2026-03-20 09:24:40
 document_pages: 25
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/sonovue-epar-product-information_en.pdf
 document_name: sonovue-epar-product-information_en.pdf
 version: success
-processing_time: 4.9322658
-conversion_datetime: 2025-12-28 01:38:49.939751
+processing_time: 6.6007295
+conversion_datetime: 2026-03-21 12:02:59.908058
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -76,8 +76,8 @@ This product should only be used by physicians experienced in diagnostic ultraso
 
 The recommended doses of SonoVue in adults are:
 
-- B-mode imaging of cardiac chambers, at rest or with stress: 2 mL.
-- Vascular Doppler imaging: 2.4 mL.
+-  B-mode imaging of cardiac chambers, at rest or with stress: 2 mL.
+-  Vascular Doppler imaging: 2.4 mL.
 
 During a single examination, a second injection of the recommended dose can be made when deemed necessary by the physician.
 
@@ -91,7 +91,7 @@ The safety and efficacy of SonoVue in patients under 18 years of age has not bee
 
 ## Intravesical use
 
-- In paediatric patients the recommended dose of SonoVue is 1 mL
+-  In paediatric patients the recommended dose of SonoVue is 1 mL
 
 ## Method of administration
 
@@ -117,13 +117,13 @@ SonoVue must not be used in combination with dobutamine in patients with conditi
 
 ## Hypersensitivity reactions
 
-Serious hypersensitivity reactions have been observed during or shortly  following  SonoVue administration  in  patients  with  no  prior  exposure  to  sulphur  hexafluoride  microbubbles  products, including  patients  with  prior  hypersensitivity  reaction(s)  to  macrogol,  also  known  as  polyethylene glycol (PEG) (see section 4.8).
+Serious hypersensitivity reactions have been observed during or shortly following  SonoVue administration  in  patients  with  no  prior  exposure  to  sulphur  hexafluoride  microbubbles  products, including  patients  with  prior  hypersensitivity  reaction(s)  to  macrogol,  also  known  as  polyethylene glycol (PEG) (see section 4.8).
 
 <div style=\"page-break-after: always\"></div>
 
 SonoVue contains PEG (see section 6.1). There may be increased risk of serious reactions in patients with prior hypersensitivity reaction(s) to PEG.
 
-It  is  recommended  to  keep  all  patients  under  close  medical  supervision  during  and  for  at  least  30 minutes  following  the  administration  of  SonoVue  to  monitor  the  risk  of  serious  hypersensitivity reactions (see section 4.2).
+It is recommended to keep all patients under close medical supervision during and for at least 30 minutes following the administration of SonoVue to monitor the risk of serious hypersensitivity reactions (see section 4.2).
 
 Use caution when treating anaphylaxis with epinephrine in patients on beta blockers since response may be poor or promote undesired alpha-adrenergic and vagotonic effects (hypertension, bradycardia).
 
@@ -141,9 +141,7 @@ It should be emphasised that stress echocardiography not only can induce an isch
 
 Caution is advisable when administering the product to patients with: acute endocarditis, prosthetic valves, acute systemic inflammation and/or sepsis, hyperactive coagulation states and/or recent thromboembolism, and end-stage renal or hepatic disease, as the numbers of patients with those conditions who were exposed to SonoVue in the clinical trials were limited.
 
-Interpretation of voiding urosonography with SonoVue and limitations of use
-
-False  negative  cases  can  occur  with  voiding  ultrasonography  with  SonoVue  and  have  not  been clarified (see section 5.1).
+Interpretation of voiding urosonography with SonoVue and limitations of use False  negative  cases  can  occur  with  voiding  ultrasonography  with  SonoVue  and  have  not  been clarified (see section 5.1).
 
 ## Technical recommendation
 
@@ -151,7 +149,7 @@ In animal studies, the application of echo-contrast agents revealed biological a
 
 ## Excipients
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'sodiumfree'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'sodium-free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -200,11 +198,6 @@ The adverse reactions are classified by System Organ Class and frequency, using 
 | Musculoskeletal, connective tissue and bone disorders |                                                        | Back pain                                   |                                                                  |
 | General disorders and administration site conditions  | Chest discomfort, injection site reaction, feeling hot | Chest pain, pain, fatigue                   |                                                                  |
 
-*   Cases suggestive of hypersensitivity may include: skin erythema, bradycardia, hypotension, dyspnoea, loss of consciousness, cardiac/cardio-respiratory arrest, anaphylactic reaction, anaphylactic shock.
-- ** In some of the cases of hypersensitivity, in patients with underlying coronary artery disease, myocardial ischemia and/or myocardial infarctions were also reported.
-
-***Allergic acute coronary syndrome
-
 In very rare cases, fatal outcomes have been reported in temporal association with the use of SonoVue. In all these patients there was a high underlying risk for major cardiac complications, which could have led to the fatal outcome.
 
 ## Paediatric population-Intravesical use
@@ -233,11 +226,11 @@ Sulphur hexafluoride is an inert, innocuous gas, poorly soluble in aqueous solut
 
 ## Intravenous use
 
-At the proposed clinical doses for intravenous administration, SonoVue has been shown to provide marked increase in signal intensity of more than 2 minutes for B-mode imaging in echocardiography and of 3 to 8 minutes for Doppler imaging of the macrovasculature and microvasculature.
+At  the  proposed  clinical  doses for  intravenous  administration,  SonoVue  has  been  shown  to  provide marked increase in signal intensity of more than 2 minutes for B-mode imaging in echocardiography and of 3 to 8 minutes for Doppler imaging of the macrovasculature and microvasculature.
 
 ## Intravesical use
 
-For ultrasonography of the excretory urinary tract in paediatric patients, after intravesical administration, SonoVue increases the signal intensity of fluids within the urethra, bladder, ureters, and renal pelvis, and facilitates the detection of reflux of fluid from the bladder into the ureters. The efficacy of SonoVue for detection/exclusion of vesicoureteral reflux was studied in two published open  label  single  centre  studies.  The  presence  or  absence  of  vesicoureteral  reflux  with  SonoVue ultrasound was compared to the radiographic reference standard. In one study including 183 patients (366 kidney-ureter units), SonoVue ultrasound was correctly positive in 89 out 103 units with reflux and  correctly  negative  in  226  out  of  263  units  without  reflux.  In  the  second  study  including  228 patients  (463  kidney-ureter  units),  SonoVue ultrasound  was  correctly  positive in  57  out  of 71  units with reflux and correctly negative in 302 out of 392 units without reflux.
+For ultrasonography of the excretory urinary tract in paediatric patients, after intravesical administration, SonoVue increases the signal intensity of fluids within the urethra, bladder, ureters, and renal pelvis, and facilitates the detection of reflux of fluid from the bladder into the ureters. The efficacy of SonoVue for detection/exclusion of vesicoureteral reflux was studied in two published open  label  single  centre  studies.  The  presence  or  absence  of  vesicoureteral  reflux  with  SonoVue ultrasound was compared to the radiographic reference standard. In one study including 183 patients (366 kidney-ureter units), SonoVue ultrasound was correctly positive in 89 out 103 units with reflux and  correctly  negative  in  226  out  of  263  units  without  reflux.  In  the  second  study  including 228 patients (463 kidney-ureter units), SonoVue ultrasound was correctly positive in 57 out of 71 units with reflux and correctly negative in 302 out of 392 units without reflux.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -263,7 +256,9 @@ Intravesical local tolerance for SonoVue was also assessed. A single-dose study 
 
 Powder: Macrogol 4000 Distearoylphosphatidylcholine Dipalmitoylphosphatidylglycerol Sodium Palmitic acid
 
-Solvent: Sodium chloride 9 mg/mL (0.9%) solution for injection.
+Solvent:
+
+Sodium chloride 9 mg/mL (0.9%) solution for injection.
 
 ## 6.2 Incompatibilities
 
@@ -297,8 +292,6 @@ SonoVue must be prepared before use by injecting through the septum 5 mL of sodi
 
 <!-- image -->
 
-v1.0-08/2000   © BRG 2000
-
 1. Connect the plunger rod by screwing it clockwise into the syringe.
 2. Open the MiniSpike transfer system blister and remove syringe tip cap.
 3. Open the transfer system cap and connect the syringe to the transfer system by screwing it in clockwise.
@@ -324,9 +317,7 @@ requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Bracco International B.V. Strawinskylaan 3051 NL - 1077 ZX Amsterdam
-
-The Netherlands
+Bracco International B.V. Argonstraat 3 6422 PH Heerlen The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
@@ -367,20 +358,20 @@ Medicinal product subject to restricted medical prescription (See Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic Safety Update Reports
+##  Periodic Safety Update Reports
 
 The marketing authorisation holder shall submit periodic safety update reports for this product in accordance with the requirements set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk Management Plan (RMP)
+##  Risk Management Plan (RMP)
 
 The MAH shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the Marketing Authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 If the dates for submission of a PSUR and the update of a RMP coincide, they can be submitted at the same time.
 
@@ -442,7 +433,7 @@ EXP:
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bracco International B.V., Strawinskylaan 3051, NL - 1077 ZX Amsterdam, The Netherlands
+Bracco International B.V. Argonstraat 3 6422 PH Heerlen The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -454,45 +445,51 @@ Lot:
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted
 
+<div style=\"page-break-after: always\"></div>
+
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 SonoVue 8 microlitres/mL powder for dispersion for injection sulphur hexafluoride
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 Intravenous or intravesical use
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP:
 
-## 4. BATCH NUMBER
+| 4.   | BATCHNUMBER   |
+|------|---------------|
 
 Lot:
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 25 mg powder
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+| MINIMUM PARTICULARSTO APPEARON SMALL IMMEDIATE PACKAGING UNITS   |
 |------------------------------------------------------------------|
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Sodium chloride 9 mg/mL solution for injection Solvent for SonoVue
 
@@ -504,8 +501,8 @@ Sodium chloride 9 mg/mL solution for injection Solvent for SonoVue
 
 EXP:
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+| 4.   | BATCHNUMBER   |
+|------|---------------|
 
 Lot:
 
@@ -571,7 +568,8 @@ SonoVue helps to obtain clearer pictures of the urinary tract in children.
 Please tell your doctor if in the past 2 days you have:
 
 - -had frequent and/or repeated angina or chest pain, especially if you have history of heart disease,
-- -had recent electrocardiography changes.
+- -
+- had recent electrocardiography changes.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -613,7 +611,7 @@ SonoVue does not affect the ability to drive and use machines.
 
 ## SonoVue contains sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'sodiumfree'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'sodium-free'.
 
 ## 3. How SonoVue is given
 
@@ -623,7 +621,7 @@ For ultrasound scan of heart or your blood vessels and/or tissues of the liver a
 
 <div style=\"page-break-after: always\"></div>
 
-needed up to 4.8 mL.
+## needed up to 4.8 mL.
 
 For ultrasound scan of urinary tract in children the recommended dose is 1 mL per patient to be administered into the bladder as follows:
 
@@ -696,8 +694,7 @@ SonoVue dispersion should be administered to you within six hours of its prepara
 ## What SonoVue contains
 
 - -The active substance is sulphur hexafluoride in the form of microbubbles.
-- -
-- The other ingredients are: macrogol 4000, distearoylphosphatidylcholine,
+- -The other ingredients are: macrogol 4000, distearoylphosphatidylcholine,
 
 dipalmitoylphosphatidylglycerol sodium, palmitic acid.
 
@@ -711,13 +708,13 @@ SonoVue is a kit which includes a glass vial containing white powder, a glass sy
 
 ## Marketing authorisation holder
 
-Bracco International B.V. Strawinskylaan 3051 NL - 1077 ZX Amsterdam The Netherlands
+Bracco International B.V. Argonstraat 3 6422 PH Heerlen The Netherlands
 
 ## Manufacturer:
 
 Bracco Imaging S.p.A. Via Ribes 5, Bioindustry Park Colleretto Giacosa - 10010 (TO) Italy
 
-This leaflet was last revised on
+## This leaflet was last revised on
 
 ## Other sources of information
 
@@ -750,6 +747,4 @@ After reconstitution, SonoVue is a homogeneous white milky dispersion.
 
 Do not use if the liquid obtained is clear and/or if solid parts of the lyophilisate are seen in the suspension.
 
-SonoVue dispersion should be administered within six hours of its preparation.
-
-Do not throw away any medicines via wastewater. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+SonoVue dispersion should be administered within six hours of its preparation. Do not throw away any medicines via wastewater. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.

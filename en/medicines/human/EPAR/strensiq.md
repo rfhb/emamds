@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 08:12:03
+document_datetime: 2026-03-18 16:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/strensiq.html
 document_name: strensiq.html
 version: success
-processing_time: 0.1339696
-conversion_datetime: 2025-12-31 01:23:59.893396
+processing_time: 0.1151265
+conversion_datetime: 2026-03-21 11:48:14.993678
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Strensiq
 
 [RSS](/en/individual-human-medicine.xml/66288)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 asfotase alfa Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -38,6 +36,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Strensiq](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-84366)
 - [Preventing medication errors](#preventing-medication-errors-1259)
 - [More information on Strensiq](#related-medicines)
 - [Topics](#topics)
@@ -116,7 +115,7 @@ English (EN) (102.9 KB - PDF)
 
 [View](/en/documents/overview/strensiq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-350)
+[Other languages (22)](#file-language-dropdown-416)
 
 български (BG) (126.76 KB - PDF)
 
@@ -396,17 +395,17 @@ English (EN) (63.76 KB - PDF)
 
 Strensiq : EPAR - Product Information
 
-English (EN) (546.96 KB - PDF)
+English (EN) (601.69 KB - PDF)
 
 **First published:** 28/09/2015
 
-**Last updated:** 07/02/2024
+**Last updated:** 18/03/2026
 
 [View](/en/documents/product-information/strensiq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-706)
+[Other languages (24)](#file-language-dropdown-63)
 
-български (BG) (900.12 KB - PDF)
+български (BG) (550.12 KB - PDF)
 
 **First published:**
 
@@ -414,11 +413,11 @@ English (EN) (546.96 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/bg/documents/product-information/strensiq-epar-product-information_bg.pdf)
 
-español (ES) (566.34 KB - PDF)
+español (ES) (541.41 KB - PDF)
 
 **First published:**
 
@@ -426,11 +425,11 @@ español (ES) (566.34 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/es/documents/product-information/strensiq-epar-product-information_es.pdf)
 
-čeština (CS) (616.28 KB - PDF)
+čeština (CS) (577.05 KB - PDF)
 
 **First published:**
 
@@ -438,11 +437,11 @@ español (ES) (566.34 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/cs/documents/product-information/strensiq-epar-product-information_cs.pdf)
 
-dansk (DA) (520.86 KB - PDF)
+dansk (DA) (759.65 KB - PDF)
 
 **First published:**
 
@@ -450,11 +449,11 @@ dansk (DA) (520.86 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/da/documents/product-information/strensiq-epar-product-information_da.pdf)
 
-Deutsch (DE) (607.18 KB - PDF)
+Deutsch (DE) (603.52 KB - PDF)
 
 **First published:**
 
@@ -462,11 +461,11 @@ Deutsch (DE) (607.18 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/de/documents/product-information/strensiq-epar-product-information_de.pdf)
 
-eesti keel (ET) (592.31 KB - PDF)
+eesti keel (ET) (562.65 KB - PDF)
 
 **First published:**
 
@@ -474,11 +473,11 @@ eesti keel (ET) (592.31 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/et/documents/product-information/strensiq-epar-product-information_et.pdf)
 
-ελληνικά (EL) (882.78 KB - PDF)
+ελληνικά (EL) (592.18 KB - PDF)
 
 **First published:**
 
@@ -486,11 +485,11 @@ eesti keel (ET) (592.31 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/el/documents/product-information/strensiq-epar-product-information_el.pdf)
 
-français (FR) (577.24 KB - PDF)
+français (FR) (571.96 KB - PDF)
 
 **First published:**
 
@@ -498,11 +497,11 @@ français (FR) (577.24 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/fr/documents/product-information/strensiq-epar-product-information_fr.pdf)
 
-hrvatski (HR) (546.86 KB - PDF)
+hrvatski (HR) (541.26 KB - PDF)
 
 **First published:**
 
@@ -510,11 +509,11 @@ hrvatski (HR) (546.86 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/hr/documents/product-information/strensiq-epar-product-information_hr.pdf)
 
-íslenska (IS) (558.85 KB - PDF)
+íslenska (IS) (520.38 KB - PDF)
 
 **First published:**
 
@@ -522,11 +521,11 @@ hrvatski (HR) (546.86 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/is/documents/product-information/strensiq-epar-product-information_is.pdf)
 
-italiano (IT) (914.88 KB - PDF)
+italiano (IT) (570.43 KB - PDF)
 
 **First published:**
 
@@ -534,11 +533,11 @@ italiano (IT) (914.88 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/it/documents/product-information/strensiq-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (578.9 KB - PDF)
+latviešu valoda (LV) (545.85 KB - PDF)
 
 **First published:**
 
@@ -546,11 +545,11 @@ latviešu valoda (LV) (578.9 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/lv/documents/product-information/strensiq-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (557.12 KB - PDF)
+lietuvių kalba (LT) (528.43 KB - PDF)
 
 **First published:**
 
@@ -558,11 +557,11 @@ lietuvių kalba (LT) (557.12 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/lt/documents/product-information/strensiq-epar-product-information_lt.pdf)
 
-magyar (HU) (610.84 KB - PDF)
+magyar (HU) (611.2 KB - PDF)
 
 **First published:**
 
@@ -570,11 +569,11 @@ magyar (HU) (610.84 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/hu/documents/product-information/strensiq-epar-product-information_hu.pdf)
 
-Malti (MT) (628.36 KB - PDF)
+Malti (MT) (589.71 KB - PDF)
 
 **First published:**
 
@@ -582,11 +581,11 @@ Malti (MT) (628.36 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/mt/documents/product-information/strensiq-epar-product-information_mt.pdf)
 
-Nederlands (NL) (536.47 KB - PDF)
+Nederlands (NL) (526.45 KB - PDF)
 
 **First published:**
 
@@ -594,11 +593,11 @@ Nederlands (NL) (536.47 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/nl/documents/product-information/strensiq-epar-product-information_nl.pdf)
 
-norsk (NO) (866.04 KB - PDF)
+norsk (NO) (794.64 KB - PDF)
 
 **First published:**
 
@@ -606,11 +605,11 @@ norsk (NO) (866.04 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/no/documents/product-information/strensiq-epar-product-information_no.pdf)
 
-polski (PL) (607.79 KB - PDF)
+polski (PL) (606.62 KB - PDF)
 
 **First published:**
 
@@ -618,11 +617,11 @@ polski (PL) (607.79 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/pl/documents/product-information/strensiq-epar-product-information_pl.pdf)
 
-português (PT) (566.63 KB - PDF)
+português (PT) (590.82 KB - PDF)
 
 **First published:**
 
@@ -630,11 +629,11 @@ português (PT) (566.63 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/pt/documents/product-information/strensiq-epar-product-information_pt.pdf)
 
-română (RO) (619.89 KB - PDF)
+română (RO) (612.95 KB - PDF)
 
 **First published:**
 
@@ -642,11 +641,11 @@ română (RO) (619.89 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/ro/documents/product-information/strensiq-epar-product-information_ro.pdf)
 
-slovenčina (SK) (596.14 KB - PDF)
+slovenčina (SK) (568.3 KB - PDF)
 
 **First published:**
 
@@ -654,11 +653,11 @@ slovenčina (SK) (596.14 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/sk/documents/product-information/strensiq-epar-product-information_sk.pdf)
 
-slovenščina (SL) (858.7 KB - PDF)
+slovenščina (SL) (556.22 KB - PDF)
 
 **First published:**
 
@@ -666,11 +665,11 @@ slovenščina (SL) (858.7 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/sl/documents/product-information/strensiq-epar-product-information_sl.pdf)
 
-Suomi (FI) (550.86 KB - PDF)
+Suomi (FI) (759.38 KB - PDF)
 
 **First published:**
 
@@ -678,11 +677,11 @@ Suomi (FI) (550.86 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/fi/documents/product-information/strensiq-epar-product-information_fi.pdf)
 
-svenska (SV) (541.06 KB - PDF)
+svenska (SV) (530.06 KB - PDF)
 
 **First published:**
 
@@ -690,11 +689,11 @@ svenska (SV) (541.06 KB - PDF)
 
 **Last updated:**
 
-07/02/2024
+18/03/2026
 
 [View](/sv/documents/product-information/strensiq-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0065/G 19/10/2023
+**Latest procedure affecting product information:** S/0000293951 16/02/2026
 
 icon globe
 
@@ -720,7 +719,7 @@ English (EN) (55.62 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/strensiq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-151)
+[Other languages (24)](#file-language-dropdown-618)
 
 български (BG) (64.37 KB - PDF)
 
@@ -1044,7 +1043,7 @@ Alexion Europe SAS
 
 103-105 rue Anatole France
 
-Opinion adopted 24/06/2015 Marketing authorisation issued 28/08/2015 Revision 17
+Opinion adopted 24/06/2015 Marketing authorisation issued 28/08/2015 Revision 18
 
 ## Assessment history
 
@@ -1056,13 +1055,21 @@ Collapse section
 
 Strensiq : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (147.22 KB - PDF)
+
+**First published:** 18/03/2026
+
+[View](/en/documents/procedural-steps-after/strensiq-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Strensiq : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (285.41 KB - PDF)
 
 **First published:** 09/12/2015
 
-**Last updated:** 07/02/2024
+**Last updated:** 18/03/2026
 
-[View](/en/documents/procedural-steps-after/strensiq-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/strensiq-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Strensiq-H-C-3794-II-0047 : EPAR - Assessment report - Variation
 
@@ -1096,7 +1103,7 @@ English (EN) (20.48 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/strensiq-epar-scientific-conclusion_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-815)
+[Other languages (24)](#file-language-dropdown-759)
 
 български (BG) (114.13 KB - PDF)
 
@@ -1416,13 +1423,219 @@ English (EN) (69.05 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-strensiq_en.pdf)
 
-#### News on Strensiq
+## News on Strensiq
 
 [First treatment recommended for rare bone disease](/en/news/first-treatment-recommended-rare-bone-disease) 26/06/2015
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 June 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-june-2015) 26/06/2015
 
-#### Preventing medication errors
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Strensiq : EPAR - Product information - tracked changes
+
+English (EN) (1.51 MB - DOCX)
+
+**First published:** 18/03/2026
+
+[View](/en/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-299)
+
+български (BG) (1.56 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/bg/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (1.52 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/es/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (1.54 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/cs/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (1.53 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/da/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (1.2 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/de/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (1.52 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/et/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (1.55 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/el/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (1.53 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/fr/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (1.51 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/hr/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (1.53 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/is/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (1.52 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/it/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (1.51 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/lv/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (1.49 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/lt/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (1.55 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/hu/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (1.52 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/mt/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (1.51 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/nl/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (1.53 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/no/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (1.54 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/pl/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (1.53 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/pt/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (1.53 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/ro/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (1.53 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/sk/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (1.52 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/sl/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (1.56 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/fi/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (1.52 MB - DOCX)
+
+**First published:**
+
+18/03/2026
+
+[View](/sv/documents/product-information-tracked-changes/strensiq-epar-product-information-tracked-changes_sv.docx)
+
+## Preventing medication errors
 
 Strensiq: European Medicines Agency recommends measures to ensure safe and effective use
 
@@ -1440,18 +1653,18 @@ English (EN) (86.86 KB - PDF)
 
 [View](/en/documents/medication-error/strensiq-european-medicines-agency-recommends-measures-ensure-safe-and-effective-use_en.pdf)
 
-#### More information on Strensiq
+## More information on Strensiq
 
 - [EU/3/08/594 - orphan designation for treatment of hypophosphatasia](/en/medicines/human/orphan-designations/eu-3-08-594)
 - [EMEA-000987-PIP01-10-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000987-pip01-10-m04)
 - [AN OBSERVATIONAL, LONGITUDINAL, PROSPECTIVE, LONG-TERM REGISTRY OF PATIENTS WITH HYPOPHOSPHATASIA (ALX-HPP-501) - post-authorisation study](https://catalogues.ema.europa.eu/study/47907)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 - [Paediatrics](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A65)
 
-**This page was last updated on** 07/02/2024
+**This page was last updated on** 18/03/2026
 
 ## Share this page
 

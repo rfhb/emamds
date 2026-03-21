@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 07:04:29
+document_datetime: 2026-03-18 16:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/keytruda.html
 document_name: keytruda.html
 version: success
-processing_time: 0.2256694
-conversion_datetime: 2025-12-30 12:41:33.361029
+processing_time: 0.1815909
+conversion_datetime: 2026-03-21 13:23:16.732229
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Keytruda
 
 [RSS](/en/individual-human-medicine.xml/66911)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 pembrolizumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -261,7 +259,7 @@ English (EN) (185.9 KB - PDF)
 
 [View](/en/documents/overview/keytruda-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-257)
+[Other languages (22)](#file-language-dropdown-407)
 
 български (BG) (212.89 KB - PDF)
 
@@ -545,11 +543,11 @@ English (EN) (6.19 MB - PDF)
 
 **First published:** 30/07/2015
 
-**Last updated:** 03/12/2025
+**Last updated:** 18/03/2026
 
 [View](/en/documents/product-information/keytruda-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-595)
+[Other languages (23)](#file-language-dropdown-990)
 
 български (BG) (7.37 MB - PDF)
 
@@ -559,7 +557,7 @@ English (EN) (6.19 MB - PDF)
 
 **Last updated:**
 
-03/12/2025
+18/03/2026
 
 [View](/bg/documents/product-information/keytruda-epar-product-information_bg.pdf)
 
@@ -571,7 +569,7 @@ español (ES) (8.9 MB - PDF)
 
 **Last updated:**
 
-03/12/2025
+18/03/2026
 
 [View](/es/documents/product-information/keytruda-epar-product-information_es.pdf)
 
@@ -583,7 +581,7 @@ español (ES) (8.9 MB - PDF)
 
 **Last updated:**
 
-03/12/2025
+18/03/2026
 
 [View](/cs/documents/product-information/keytruda-epar-product-information_cs.pdf)
 
@@ -595,7 +593,7 @@ dansk (DA) (6.2 MB - PDF)
 
 **Last updated:**
 
-03/12/2025
+18/03/2026
 
 [View](/da/documents/product-information/keytruda-epar-product-information_da.pdf)
 
@@ -607,7 +605,7 @@ Deutsch (DE) (12.72 MB - PDF)
 
 **Last updated:**
 
-03/12/2025
+18/03/2026
 
 [View](/de/documents/product-information/keytruda-epar-product-information_de.pdf)
 
@@ -619,7 +617,7 @@ eesti keel (ET) (7.36 MB - PDF)
 
 **Last updated:**
 
-03/12/2025
+18/03/2026
 
 [View](/et/documents/product-information/keytruda-epar-product-information_et.pdf)
 
@@ -631,7 +629,7 @@ eesti keel (ET) (7.36 MB - PDF)
 
 **Last updated:**
 
-03/12/2025
+18/03/2026
 
 [View](/el/documents/product-information/keytruda-epar-product-information_el.pdf)
 
@@ -643,21 +641,9 @@ français (FR) (6.84 MB - PDF)
 
 **Last updated:**
 
-03/12/2025
+18/03/2026
 
 [View](/fr/documents/product-information/keytruda-epar-product-information_fr.pdf)
-
-hrvatski (HR) (6.9 MB - PDF)
-
-**First published:**
-
-30/07/2015
-
-**Last updated:**
-
-03/12/2025
-
-[View](/hr/documents/product-information/keytruda-epar-product-information_hr.pdf)
 
 íslenska (IS) (9.45 MB - PDF)
 
@@ -667,11 +653,11 @@ hrvatski (HR) (6.9 MB - PDF)
 
 **Last updated:**
 
-03/12/2025
+18/03/2026
 
 [View](/is/documents/product-information/keytruda-epar-product-information_is.pdf)
 
-italiano (IT) (7.29 MB - PDF)
+italiano (IT) (7.3 MB - PDF)
 
 **First published:**
 
@@ -679,7 +665,7 @@ italiano (IT) (7.29 MB - PDF)
 
 **Last updated:**
 
-03/12/2025
+18/03/2026
 
 [View](/it/documents/product-information/keytruda-epar-product-information_it.pdf)
 
@@ -691,7 +677,7 @@ latviešu valoda (LV) (7.01 MB - PDF)
 
 **Last updated:**
 
-03/12/2025
+18/03/2026
 
 [View](/lv/documents/product-information/keytruda-epar-product-information_lv.pdf)
 
@@ -703,7 +689,7 @@ lietuvių kalba (LT) (6.47 MB - PDF)
 
 **Last updated:**
 
-03/12/2025
+18/03/2026
 
 [View](/lt/documents/product-information/keytruda-epar-product-information_lt.pdf)
 
@@ -715,7 +701,7 @@ magyar (HU) (6.52 MB - PDF)
 
 **Last updated:**
 
-03/12/2025
+18/03/2026
 
 [View](/hu/documents/product-information/keytruda-epar-product-information_hu.pdf)
 
@@ -727,7 +713,7 @@ Malti (MT) (6.57 MB - PDF)
 
 **Last updated:**
 
-03/12/2025
+18/03/2026
 
 [View](/mt/documents/product-information/keytruda-epar-product-information_mt.pdf)
 
@@ -739,7 +725,7 @@ Nederlands (NL) (7.11 MB - PDF)
 
 **Last updated:**
 
-03/12/2025
+18/03/2026
 
 [View](/nl/documents/product-information/keytruda-epar-product-information_nl.pdf)
 
@@ -751,7 +737,7 @@ norsk (NO) (8.16 MB - PDF)
 
 **Last updated:**
 
-03/12/2025
+18/03/2026
 
 [View](/no/documents/product-information/keytruda-epar-product-information_no.pdf)
 
@@ -763,7 +749,7 @@ polski (PL) (7.16 MB - PDF)
 
 **Last updated:**
 
-03/12/2025
+18/03/2026
 
 [View](/pl/documents/product-information/keytruda-epar-product-information_pl.pdf)
 
@@ -775,7 +761,7 @@ português (PT) (6.96 MB - PDF)
 
 **Last updated:**
 
-03/12/2025
+18/03/2026
 
 [View](/pt/documents/product-information/keytruda-epar-product-information_pt.pdf)
 
@@ -787,7 +773,7 @@ română (RO) (6.8 MB - PDF)
 
 **Last updated:**
 
-03/12/2025
+18/03/2026
 
 [View](/ro/documents/product-information/keytruda-epar-product-information_ro.pdf)
 
@@ -799,7 +785,7 @@ slovenčina (SK) (6.96 MB - PDF)
 
 **Last updated:**
 
-03/12/2025
+18/03/2026
 
 [View](/sk/documents/product-information/keytruda-epar-product-information_sk.pdf)
 
@@ -811,11 +797,11 @@ slovenščina (SL) (6.17 MB - PDF)
 
 **Last updated:**
 
-03/12/2025
+18/03/2026
 
 [View](/sl/documents/product-information/keytruda-epar-product-information_sl.pdf)
 
-Suomi (FI) (7.19 MB - PDF)
+Suomi (FI) (7.2 MB - PDF)
 
 **First published:**
 
@@ -823,7 +809,7 @@ Suomi (FI) (7.19 MB - PDF)
 
 **Last updated:**
 
-03/12/2025
+18/03/2026
 
 [View](/fi/documents/product-information/keytruda-epar-product-information_fi.pdf)
 
@@ -835,11 +821,11 @@ svenska (SV) (6.32 MB - PDF)
 
 **Last updated:**
 
-03/12/2025
+18/03/2026
 
 [View](/sv/documents/product-information/keytruda-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** X/0000248795 17/11/2025
+**Latest procedure affecting product information:** VR/0000332176 18/03/2026
 
 icon globe
 
@@ -865,7 +851,7 @@ English (EN) (17.37 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-255)
+[Other languages (24)](#file-language-dropdown-698)
 
 български (BG) (24.69 KB - PDF)
 
@@ -1276,7 +1262,7 @@ Merck Sharp &amp; Dohme B.V.
 
 Waarderweg 39
 
-Opinion adopted 20/05/2015 Marketing authorisation issued 17/07/2015 Revision 68
+Opinion adopted 20/05/2015 Marketing authorisation issued 17/07/2015 Revision 69
 
 ## Assessment history
 
@@ -1288,11 +1274,11 @@ Collapse section
 
 Keytruda : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (170.96 KB - PDF)
+English (EN) (184.67 KB - PDF)
 
 **First published:** 14/08/2025
 
-**Last updated:** 03/12/2025
+**Last updated:** 18/03/2026
 
 [View](/en/documents/procedural-steps-after/keytruda-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -2198,7 +2184,9 @@ English (EN) (69.01 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-keytruda_en.pdf)
 
-#### News on Keytruda
+## News on Keytruda
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 February 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-february-2026) 27/02/2026
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 September 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-september-2025) 19/09/2025
 
@@ -2270,7 +2258,7 @@ English (EN) (69.01 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 May 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-may-2015) 22/05/2015
 
-#### Related content
+## Related content
 
 Questions and answers on the use of Keytruda alone in non-small cell lung cancer with low levels of PD-L1
 
@@ -2282,7 +2270,7 @@ English (EN) (129.42 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-951)
+[Other languages (22)](#file-language-dropdown-899)
 
 български (BG) (145.05 KB - PDF)
 
@@ -2460,31 +2448,32 @@ svenska (SV) (122.23 KB - PDF)
 
 [View](/sv/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_sv.pdf)
 
-#### Clinical data
+### Clinical data
 
 - [Clinical data (variation II/0007)](https://clinicaldata.ema.europa.eu/web/cdp/home?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-3=2=EMEAHC003820II0007)
 - [Clinical data (variation II/0011)](https://clinicaldata.ema.europa.eu/web/cdp/home?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-3=2=EMEAHC003820II0011)
 
-#### More information on Keytruda
+## More information on Keytruda
 
 - [EMEA-001474-PIP01-13-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001474-pip01-13-m01)
 - [EMEA-001474-PIP02-16-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001474-pip02-16-m02)
 - [Keytruda - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/keytruda)
 - [Keytruda - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/keytruda-0)
 - [EMEA-001474-PIP03-22 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001474-pip03-22)
+- [Keytruda - opinion on variation to marketing authorisation](/en/medicines/human/variation/keytruda-1)
 - [Real-life Enfortumab Vedotin Outcomes as First-line Urothelial Carcinoma Treatment in the Non-interventional Observational and Nationwide French Study - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000763)
-- [A Non-interventional Real-World Study on Dose Modifications of Enfortumab Vedotin (EV) in Combination with Pembrolizumab (P) in Previously Untreated Patients with Advanced Urothelial Carcinoma in Germany - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000467)
-- [Real-world post-authorization effectiveness study (PAES) of pembrolizumab for the treatment of NSCLC across races, ethnicities, and age groups (MK-3475-G18) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000576)
 - [DARWIN EU® Overall survival in patients with locally advanced or metastatic non-small cell lung cancer treated with selected immunotherapies as first line of treatment - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000112)
+- [Real-world post-authorization effectiveness study (PAES) of pembrolizumab for the treatment of NSCLC across races, ethnicities, and age groups (MK-3475-G18) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000576)
+- [A Non-interventional Real-World Study on Dose Modifications of Enfortumab Vedotin (EV) in Combination with Pembrolizumab (P) in Previously Untreated Patients with Advanced Urothelial Carcinoma in Germany - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000467)
 - [Real-world effectiveness of pembrolizumab among patients with TMB-H advanced solid tumors (MK-3475-G34) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000542)
 - [A post-licensure prospective observational registry study in real-world Taiwanese cancer patients with microsatellite instability-high (MSI-H) or deficient mismatch repair (dMMR) genes - post-authorisation study](https://catalogues.ema.europa.eu/study/47306)
 - [Non-interventional post-marketing safety study (PMSS) to collect information on hepatic function disorders among Japanese patients with radically unresectable or metastatic renal cell carcinoma treated with pembrolizumab in combination with axitinib (MK-3475-A97) - post-authorisation study](https://catalogues.ema.europa.eu/study/48486)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 03/12/2025
+**This page was last updated on** 18/03/2026
 
 ## Share this page
 

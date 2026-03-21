@@ -1,32 +1,30 @@
 ---
-document_datetime: 2025-12-29 09:35:46
+document_datetime: 2026-03-19 16:26:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/osenvelt.html
 document_name: osenvelt.html
 version: success
-processing_time: 0.1221686
-conversion_datetime: 2025-12-31 07:47:17.267773
+processing_time: 0.0850191
+conversion_datetime: 2026-03-21 12:03:27.933396
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Osenvelt
 
 [RSS](/en/individual-human-medicine.xml/253183)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
 denosumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +116,7 @@ English (EN) (122.81 KB - PDF)
 
 [View](/en/documents/overview/osenvelt-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-164)
+[Other languages (22)](#file-language-dropdown-80)
 
 български (BG) (148.9 KB - PDF)
 
@@ -308,17 +306,17 @@ English (EN) (2.63 MB - PDF)
 
 Osenvelt : EPAR - Product information
 
-English (EN) (717.99 KB - PDF)
+English (EN) (753.24 KB - PDF)
 
 **First published:** 03/04/2025
 
-**Last updated:** 18/07/2025
+**Last updated:** 19/03/2026
 
 [View](/en/documents/product-information/osenvelt-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-561)
+[Other languages (24)](#file-language-dropdown-474)
 
-български (BG) (706.99 KB - PDF)
+български (BG) (743.7 KB - PDF)
 
 **First published:**
 
@@ -326,11 +324,11 @@ English (EN) (717.99 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/bg/documents/product-information/osenvelt-epar-product-information_bg.pdf)
 
-español (ES) (645.43 KB - PDF)
+español (ES) (674.8 KB - PDF)
 
 **First published:**
 
@@ -338,11 +336,11 @@ español (ES) (645.43 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/es/documents/product-information/osenvelt-epar-product-information_es.pdf)
 
-čeština (CS) (678.94 KB - PDF)
+čeština (CS) (700.62 KB - PDF)
 
 **First published:**
 
@@ -350,11 +348,11 @@ español (ES) (645.43 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/cs/documents/product-information/osenvelt-epar-product-information_cs.pdf)
 
-dansk (DA) (650.25 KB - PDF)
+dansk (DA) (684.75 KB - PDF)
 
 **First published:**
 
@@ -362,11 +360,11 @@ dansk (DA) (650.25 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/da/documents/product-information/osenvelt-epar-product-information_da.pdf)
 
-Deutsch (DE) (667.26 KB - PDF)
+Deutsch (DE) (836.04 KB - PDF)
 
 **First published:**
 
@@ -374,11 +372,11 @@ Deutsch (DE) (667.26 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/de/documents/product-information/osenvelt-epar-product-information_de.pdf)
 
-eesti keel (ET) (638.77 KB - PDF)
+eesti keel (ET) (676.59 KB - PDF)
 
 **First published:**
 
@@ -386,11 +384,11 @@ eesti keel (ET) (638.77 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/et/documents/product-information/osenvelt-epar-product-information_et.pdf)
 
-ελληνικά (EL) (716.43 KB - PDF)
+ελληνικά (EL) (751.8 KB - PDF)
 
 **First published:**
 
@@ -398,11 +396,11 @@ eesti keel (ET) (638.77 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/el/documents/product-information/osenvelt-epar-product-information_el.pdf)
 
-français (FR) (665.12 KB - PDF)
+français (FR) (697.59 KB - PDF)
 
 **First published:**
 
@@ -410,11 +408,11 @@ français (FR) (665.12 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/fr/documents/product-information/osenvelt-epar-product-information_fr.pdf)
 
-hrvatski (HR) (668.89 KB - PDF)
+hrvatski (HR) (705.92 KB - PDF)
 
 **First published:**
 
@@ -422,11 +420,11 @@ hrvatski (HR) (668.89 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/hr/documents/product-information/osenvelt-epar-product-information_hr.pdf)
 
-íslenska (IS) (644.02 KB - PDF)
+íslenska (IS) (672.88 KB - PDF)
 
 **First published:**
 
@@ -434,11 +432,11 @@ hrvatski (HR) (668.89 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/is/documents/product-information/osenvelt-epar-product-information_is.pdf)
 
-italiano (IT) (659.26 KB - PDF)
+italiano (IT) (698.77 KB - PDF)
 
 **First published:**
 
@@ -446,11 +444,11 @@ italiano (IT) (659.26 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/it/documents/product-information/osenvelt-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (663.78 KB - PDF)
+latviešu valoda (LV) (696.62 KB - PDF)
 
 **First published:**
 
@@ -458,11 +456,11 @@ latviešu valoda (LV) (663.78 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/lv/documents/product-information/osenvelt-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (681.62 KB - PDF)
+lietuvių kalba (LT) (715.88 KB - PDF)
 
 **First published:**
 
@@ -470,11 +468,11 @@ lietuvių kalba (LT) (681.62 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/lt/documents/product-information/osenvelt-epar-product-information_lt.pdf)
 
-magyar (HU) (685.07 KB - PDF)
+magyar (HU) (718.85 KB - PDF)
 
 **First published:**
 
@@ -482,11 +480,11 @@ magyar (HU) (685.07 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/hu/documents/product-information/osenvelt-epar-product-information_hu.pdf)
 
-Malti (MT) (759.35 KB - PDF)
+Malti (MT) (796.55 KB - PDF)
 
 **First published:**
 
@@ -494,11 +492,11 @@ Malti (MT) (759.35 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/mt/documents/product-information/osenvelt-epar-product-information_mt.pdf)
 
-Nederlands (NL) (654.01 KB - PDF)
+Nederlands (NL) (689.12 KB - PDF)
 
 **First published:**
 
@@ -506,11 +504,11 @@ Nederlands (NL) (654.01 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/nl/documents/product-information/osenvelt-epar-product-information_nl.pdf)
 
-norsk (NO) (642.98 KB - PDF)
+norsk (NO) (678.98 KB - PDF)
 
 **First published:**
 
@@ -518,11 +516,11 @@ norsk (NO) (642.98 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/no/documents/product-information/osenvelt-epar-product-information_no.pdf)
 
-polski (PL) (696.44 KB - PDF)
+polski (PL) (730.26 KB - PDF)
 
 **First published:**
 
@@ -530,11 +528,11 @@ polski (PL) (696.44 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/pl/documents/product-information/osenvelt-epar-product-information_pl.pdf)
 
-português (PT) (649.21 KB - PDF)
+português (PT) (683.97 KB - PDF)
 
 **First published:**
 
@@ -542,11 +540,11 @@ português (PT) (649.21 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/pt/documents/product-information/osenvelt-epar-product-information_pt.pdf)
 
-română (RO) (702.05 KB - PDF)
+română (RO) (796.47 KB - PDF)
 
 **First published:**
 
@@ -554,11 +552,11 @@ română (RO) (702.05 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/ro/documents/product-information/osenvelt-epar-product-information_ro.pdf)
 
-slovenčina (SK) (763.29 KB - PDF)
+slovenčina (SK) (798.05 KB - PDF)
 
 **First published:**
 
@@ -566,11 +564,11 @@ slovenčina (SK) (763.29 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/sk/documents/product-information/osenvelt-epar-product-information_sk.pdf)
 
-slovenščina (SL) (682.22 KB - PDF)
+slovenščina (SL) (712.78 KB - PDF)
 
 **First published:**
 
@@ -578,11 +576,11 @@ slovenščina (SL) (682.22 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/sl/documents/product-information/osenvelt-epar-product-information_sl.pdf)
 
-Suomi (FI) (645.77 KB - PDF)
+Suomi (FI) (683.74 KB - PDF)
 
 **First published:**
 
@@ -590,11 +588,11 @@ Suomi (FI) (645.77 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/fi/documents/product-information/osenvelt-epar-product-information_fi.pdf)
 
-svenska (SV) (646.77 KB - PDF)
+svenska (SV) (681.63 KB - PDF)
 
 **First published:**
 
@@ -602,11 +600,11 @@ svenska (SV) (646.77 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+19/03/2026
 
 [View](/sv/documents/product-information/osenvelt-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000284948 18/07/2025
+**Latest procedure affecting product information:** VR/0000296328 15/01/2026
 
 icon globe
 
@@ -630,7 +628,7 @@ English (EN) (55.79 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/osenvelt-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-384)
+[Other languages (24)](#file-language-dropdown-676)
 
 български (BG) (65.37 KB - PDF)
 
@@ -859,7 +857,7 @@ Celltrion Healthcare Hungary Kft.
 
 1062 Budapest
 
-Opinion adopted 12/12/2024 Marketing authorisation issued 14/02/2025 Revision 3
+Opinion adopted 12/12/2024 Marketing authorisation issued 14/02/2025 Revision 4
 
 ## Assessment history
 
@@ -871,11 +869,11 @@ Collapse section
 
 Osenvelt : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (148.49 KB - PDF)
+English (EN) (159.78 KB - PDF)
 
 **First published:** 25/04/2025
 
-**Last updated:** 18/07/2025
+**Last updated:** 19/03/2026
 
 [View](/en/documents/procedural-steps-after/osenvelt-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -905,217 +903,315 @@ English (EN) (155.16 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-osenvelt_en.pdf)
 
-#### News on Osenvelt
+## News on Osenvelt
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 December 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-december-2024) 13/12/2024
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
 Osenvelt : EPAR - Product information - tracked changes
 
-English (EN) (326.83 KB - DOCX)
+English (EN) (420.34 KB - DOCX)
 
 **First published:** 15/05/2025
 
+**Last updated:** 19/03/2026
+
 [View](/en/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-550)
+[Other languages (24)](#file-language-dropdown-764)
 
-български (BG) (223.06 KB - DOCX)
+български (BG) (430.8 KB - DOCX)
 
 **First published:**
 
 15/05/2025
+
+**Last updated:**
+
+19/03/2026
 
 [View](/bg/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (223.27 KB - DOCX)
+español (ES) (420.98 KB - DOCX)
 
 **First published:**
 
 15/05/2025
+
+**Last updated:**
+
+19/03/2026
 
 [View](/es/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (224.09 KB - DOCX)
+čeština (CS) (427.89 KB - DOCX)
 
 **First published:**
 
 15/05/2025
+
+**Last updated:**
+
+19/03/2026
 
 [View](/cs/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (207.9 KB - DOCX)
+dansk (DA) (416.92 KB - DOCX)
 
 **First published:**
 
 15/05/2025
+
+**Last updated:**
+
+19/03/2026
 
 [View](/da/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (220.79 KB - DOCX)
+Deutsch (DE) (435.51 KB - DOCX)
 
 **First published:**
 
 15/05/2025
+
+**Last updated:**
+
+19/03/2026
 
 [View](/de/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (216.1 KB - DOCX)
+eesti keel (ET) (418.35 KB - DOCX)
 
 **First published:**
 
 15/05/2025
+
+**Last updated:**
+
+19/03/2026
 
 [View](/et/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (238.12 KB - DOCX)
+ελληνικά (EL) (435.39 KB - DOCX)
 
 **First published:**
 
 15/05/2025
+
+**Last updated:**
+
+19/03/2026
 
 [View](/el/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (230.01 KB - DOCX)
+français (FR) (422.09 KB - DOCX)
 
 **First published:**
 
 15/05/2025
+
+**Last updated:**
+
+19/03/2026
 
 [View](/fr/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (229.97 KB - DOCX)
+hrvatski (HR) (426.97 KB - DOCX)
 
 **First published:**
 
 15/05/2025
+
+**Last updated:**
+
+19/03/2026
 
 [View](/hr/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (219.37 KB - DOCX)
+íslenska (IS) (419.08 KB - DOCX)
 
 **First published:**
 
 15/05/2025
+
+**Last updated:**
+
+19/03/2026
 
 [View](/is/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_is.docx)
 
-italiano (IT) (225.04 KB - DOCX)
+italiano (IT) (423.04 KB - DOCX)
 
 **First published:**
 
 15/05/2025
+
+**Last updated:**
+
+19/03/2026
 
 [View](/it/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (220.31 KB - DOCX)
+latviešu valoda (LV) (422.14 KB - DOCX)
 
 **First published:**
 
 15/05/2025
+
+**Last updated:**
+
+19/03/2026
 
 [View](/lv/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (220.24 KB - DOCX)
+lietuvių kalba (LT) (421.33 KB - DOCX)
 
 **First published:**
 
 15/05/2025
+
+**Last updated:**
+
+19/03/2026
 
 [View](/lt/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (217.29 KB - DOCX)
+magyar (HU) (425.62 KB - DOCX)
 
 **First published:**
 
 15/05/2025
+
+**Last updated:**
+
+19/03/2026
 
 [View](/hu/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (218.93 KB - DOCX)
+Malti (MT) (419.47 KB - DOCX)
 
 **First published:**
 
 15/05/2025
+
+**Last updated:**
+
+19/03/2026
 
 [View](/mt/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (220.04 KB - DOCX)
+Nederlands (NL) (420.86 KB - DOCX)
 
 **First published:**
 
 15/05/2025
+
+**Last updated:**
+
+19/03/2026
 
 [View](/nl/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (210.83 KB - DOCX)
+norsk (NO) (416.46 KB - DOCX)
 
 **First published:**
 
 15/05/2025
+
+**Last updated:**
+
+19/03/2026
 
 [View](/no/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_no.docx)
 
-polski (PL) (223.73 KB - DOCX)
+polski (PL) (423.42 KB - DOCX)
 
 **First published:**
 
 15/05/2025
+
+**Last updated:**
+
+19/03/2026
 
 [View](/pl/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (218.46 KB - DOCX)
+português (PT) (423.56 KB - DOCX)
 
 **First published:**
 
 15/05/2025
+
+**Last updated:**
+
+19/03/2026
 
 [View](/pt/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (219.09 KB - DOCX)
+română (RO) (426.66 KB - DOCX)
 
 **First published:**
 
 15/05/2025
+
+**Last updated:**
+
+19/03/2026
 
 [View](/ro/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (228.47 KB - DOCX)
+slovenčina (SK) (425.32 KB - DOCX)
 
 **First published:**
 
 15/05/2025
+
+**Last updated:**
+
+19/03/2026
 
 [View](/sk/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (207.4 KB - DOCX)
+slovenščina (SL) (407.09 KB - DOCX)
 
 **First published:**
 
 15/05/2025
+
+**Last updated:**
+
+19/03/2026
 
 [View](/sl/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (251.97 KB - DOCX)
+Suomi (FI) (458.19 KB - DOCX)
 
 **First published:**
 
 15/05/2025
+
+**Last updated:**
+
+19/03/2026
 
 [View](/fi/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (208.07 KB - DOCX)
+svenska (SV) (421.62 KB - DOCX)
 
 **First published:**
 
 15/05/2025
 
+**Last updated:**
+
+19/03/2026
+
 [View](/sv/documents/product-information-tracked-changes/osenvelt-epar-product-information-tracked-changes_sv.docx)
 
-**This page was last updated on** 18/07/2025
+**This page was last updated on** 19/03/2026
 
 ## Share this page
 

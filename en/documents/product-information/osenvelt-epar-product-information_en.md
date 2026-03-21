@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-18 15:56:00
+document_datetime: 2026-03-19 16:01:21
 document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/osenvelt-epar-product-information_en.pdf
 document_name: osenvelt-epar-product-information_en.pdf
 version: success
-processing_time: 9.7535814
-conversion_datetime: 2025-12-20 07:41:44.433531
+processing_time: 15.4027253
+conversion_datetime: 2026-03-21 11:59:20.557089
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -255,14 +255,6 @@ Table 1. Adverse reactions reported in patients with advanced malignancies invol
 | Musculoskeletal and connective tissue disorders                          | Uncommon            | Atypical femoral fracture 1                                                                    |
 | Musculoskeletal and connective tissue disorders                          | Not known           | Osteonecrosis of the external auditory canal 3,4                                               |
 
-1 See section Description of selected adverse reactions
-
-2 See section Other special populations
-
-3 See section 4.4
-
-4 Class effect
-
 <div style=\"page-break-after: always\"></div>
 
 ## Description of selected adverse reactions
@@ -445,7 +437,7 @@ In studies 1, 2 and 3, overall survival was balanced between denosumab and zoled
 
 ## Effect on pain
 
-The time to pain improvement (i.e. ≥ 2-point decrease from baseline in BPI-SF worst pain score) was similar for denosumab and zoledronic acid in each study and the integrated analyses. In a post-hoc analysis of the combined dataset, the median time to worsening pain (&gt; 4-point worst pain score) in patients with mild or no pain at baseline was delayed for denosumab compared to zoledronic acid (198 versus 143 days) (p = 0.0002).
+The time to pain improvement (i.e. ≥ 2 -point decrease from baseline in BPI-SF worst pain score) was similar for denosumab and zoledronic acid in each study and the integrated analyses. In a post-hoc analysis of the combined dataset, the median time to worsening pain (&gt; 4-point worst pain score) in patients with mild or no pain at baseline was delayed for denosumab compared to zoledronic acid (198 versus 143 days) (p = 0.0002).
 
 ## Clinical efficacy in patients with multiple myeloma
 
@@ -513,7 +505,7 @@ Study 7 enrolled 85 adult patients who were previously enrolled and completed st
 
 ## Effect on pain
 
-In the final analysis cohorts 1 and 2 combined, a clinically meaningful reduction in worst pain (i.e. ≥ 2-point decrease from baseline) was reported for 30.8% of patients at risk (i.e. those who had a worst pain score of ≥ 2 at baseline) within 1 week of treatment, and ≥ 50% at week 5. These pain improvements were maintained at all subsequent evaluations.
+In the final analysis cohorts 1 and 2 combined, a clinically meaningful reduction in worst pain (i.e. ≥ 2 -point decrease from baseline) was reported for 30.8% of patients at risk (i.e. those who had a worst pain score of ≥ 2 at baseline) within 1 week of treatment, and ≥ 50% at week 5. These pain improvements were maintained at all subsequent evaluations.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -521,7 +513,7 @@ In the final analysis cohorts 1 and 2 combined, a clinically meaningful reductio
 
 The European Medicines Agency has waived the obligation to submit the results of studies with denosumab in all subsets of the paediatric population in the prevention of skeletal related events in patients with bone metastases and subsets of the paediatric population below the age of 12 in the treatment of giant cell tumour of bone (see section 4.2 for information on paediatric use).
 
-In study 6, denosumab has been evaluated in a subset of 28 adolescent patients (aged 13-17 years) with giant cell tumour of bone who had reached skeletal maturity defined by at least 1 mature long bone (e.g. closed epiphyseal growth plate of the humerus) and body weight ≥ 45 kg. One adolescent patient with surgically unsalvageable disease (N = 14) had disease recurrence during initial treatment. Thirteen of the 14 patients with surgically salvageable disease whose planned surgery was associated with severe morbidity had not undergone surgery by month 6.
+In study 6, denosumab has been evaluated in a subset of 28 adolescent patients (aged 13-17 years) with giant cell tumour of bone who had reached skeletal maturity defined by at least 1 mature long bone (e.g. closed epiphyseal growth plate of the humerus) and body weight ≥ 45 k g. One adolescent patient with surgically unsalvageable disease (N = 14) had disease recurrence during initial treatment. Thirteen of the 14 patients with surgically salvageable disease whose planned surgery was associated with severe morbidity had not undergone surgery by month 6.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -601,17 +593,21 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-42 months.
+4 years.
 
-Once removed from the refrigerator, Osenvelt may be stored at room temperature (up to 25°C) for up to 30 days in the original container, do not put it back in the refrigerator. It must be used within this 30 day period.
+Once removed from the refrigerator, Osenvelt may be stored at temperatures up to a maximum of 30°C for a single period of up to 63 days, in the original carton, but not exceeding the original expiry date. If necessary, Osenvelt may be returned to the refrigerator once within these 63 days and stored there until the original expiry date.
+
+Discard Osenvelt if not used within the single period of 63 days outside of the refrigerator or by the original expiry date, whichever is earlier.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
-
-## 6.5 Nature and contents of container
+Store in a refrigerator (2°C - 8°C). Do not freeze.
 
 <div style=\"page-break-after: always\"></div>
+
+Keep the vial in the outer carton in order to protect from light.
+
+## 6.5 Nature and contents of container
 
 1.7 mL solution in a single use type 1 glass vial with a (butyl) rubber stopper and an aluminium seal with a flip-off button.
 
@@ -621,7 +617,7 @@ Pack sizes of one, three or four vials. Not all pack sizes may be marketed.
 
 - Before administration, the Osenvelt solution should be inspected visually. Do not inject the solution if it contains visible particles or is cloudy or discoloured.
 - Do not shake.
-- To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25ºC) before injecting and inject slowly.
+- To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 30ºC) before injecting and inject slowly.
 - The entire contents of the vial should be injected.
 - A 27 gauge needle is recommended for the administration of denosumab.
 - The vial should not be re-entered.
@@ -630,13 +626,11 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony Hungary
+Celltrion Healthcare Hungary Kft. 1062 Budapest, Váci út 1-3. WestEnd Office Building B torony Hungary
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/24/1904/001 EU/1/24/1904/002
-
-EU/1/24/1904/003
+EU/1/24/1904/001 EU/1/24/1904/002 EU/1/24/1904/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -665,11 +659,11 @@ CELLTRION, Inc. 20, Academy-ro 51 beon-gil, Yeonsu-gu, Incheon, 22014 Republic o
 
 Name and address of the manufacturers responsible for batch release
 
-Nuvisan France S.A.R.L 2400 Route des Colles, Biot, 06410 France
+Nuvisan France S.A.R.L 2400 Route des Colles, 06410 Biot, France
 
-Midas Pharma GmbH Rheinstrasse 49, West, Ingelheim Am Rhein, Rhineland-Palatinate, 55218 Germany
+Midas Pharma GmbH Rheinstrasse 49, West, 55218 Ingelheim Am Rhein, Rhineland-Palatinate, Germany
 
-Kymos S.L. Ronda de Can Fatjó, 7B Parc Tecnològic del Vallès, Cerdanyola del Vallès, Barcelona, 08290 Spain
+Kymos S.L. Ronda de Can Fatjó, 7B Parc Tecnològic del Vallès, Cerdanyola del Vallès, 08290 Barcelona, Spain
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -776,7 +770,7 @@ Keep the vial in the outer carton in order to protect from light.
 
 Celltrion Healthcare Hungary Kft.
 
-1062 Budapest
+1062 Budapest,
 
 Váci út 1-3. WestEnd Office Building B torony
 
@@ -954,7 +948,7 @@ Osenvelt has not been tested in pregnant women. It is important to tell your doc
 
 If you become pregnant during treatment with Osenvelt or less than 5 months after stopping treatment with Osenvelt, please inform your doctor.
 
-It is not known whether Osenvelt is excreted in breast milk. It is important to tell your doctor if you are breast-feeding or plan to do so. Your doctor will then help you decide whether to stop breast-feeding or whether to stop taking Osenvelt, considering the benefit of breast-feeding to the baby and the benefit of Osenvelt to the mother.
+It is not known whether Osenvelt is excreted in breast milk. It is important to tell your doctor if you are breast-feeding or plan to do so. Your doctor will then help you decide whether to stop breastfeeding or whether to stop taking Osenvelt, considering the benefit of breast-feeding to the baby and the benefit of Osenvelt to the mother.
 
 If you are nursing during treatment with Osenvelt, please inform your doctor.
 
@@ -1043,7 +1037,9 @@ Do not use this medicine after the expiry date which is stated on the label and 
 
 Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
-The vial may be left outside the refrigerator to reach room temperature (up to 25°C) before injection. This will make the injection more comfortable. Once your vial has been left to reach room temperature (up to 25°C), do not put it back in the refrigerator and it must be used within 30 days.
+The vial may be left outside the refrigerator to reach room temperature (up to 30°C) before injection. This will make the injection more comfortable. Once your vial has been left to reach room temperature (up to 30°C), it may be stored at room temperature for a single period of up to 63 days, but not exceeding the original expiry date. If necessary, your vial may be returned to the refrigerator once within these 63 days and stored there until the original expiry date.
+
+Discard the vial if not used within the single period of 63 days outside of the refrigerator or by the original expiry date, whichever is earlier.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
 
@@ -1066,19 +1062,21 @@ Each pack contains one, three or four single use vials. Not all pack sizes may b
 
 ## Marketing Authorisation Holder
 
-Celltrion Healthcare Hungary Kft. 1062 Budapest Váci út 1-3. WestEnd Office Building B torony Hungary
+Celltrion Healthcare Hungary Kft. 1062 Budapest, Váci út 1-3. WestEnd Office Building B torony Hungary
 
 ## Manufacturer
 
-Nuvisan France S.A.R.L 2400 Route des Colles, Biot, 06410 France
+Nuvisan France S.A.R.L 2400 Route des Colles, 06410 Biot,
+
+France
 
 ## Manufacturer
 
-Midas Pharma GmbH Rheinstrasse. 49, West, Ingelheim Am Rhein, Rhineland-Palatinate, 55218 Germany
+Midas Pharma GmbH Rheinstrasse. 49, West, 55218 Ingelheim Am Rhein, Rhineland-Palatinate, Germany
 
 ## Manufacturer
 
-Kymos S.L. Ronda de Can Fatjó, 7B Parc Tecnològic del Vallès, Cerdanyola del Vallès, Barcelona, 08290 Spain
+Kymos S.L. Ronda de Can Fatjó, 7B Parc Tecnològic del Vallès, Cerdanyola del Vallès, 08290 Barcelona, Spain
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1104,7 +1102,7 @@ Celltrion Healthcare Deutschland GmbH Tel: +49 303 464 941 50 infoDE@celltrionhc
 
 ## Eesti
 
-Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
+Celltrion Healthcare Hungary Kft.
 
 ## Lietuva
 
@@ -1120,9 +1118,7 @@ Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
 
 ## Malta
 
-Mint Health Ltd
-
-Tel: +356 2093 9800
+Mint Health Ltd Tel: +356 2093 9800
 
 ## Nederland
 
@@ -1130,21 +1126,23 @@ Celltrion Healthcare Netherlands B.V. Tel: +31 20 888 7300 NLinfo@celltrionhc.co
 
 ## Norge
 
-Celltrion Healthcare Norway AS contact\\_no@celltrionhc.com
+Celltrion Healthcare Norway AS
 
 <div style=\"page-break-after: always\"></div>
 
-## contact\\_fi@celltrionhc.com
+Tel: +36 1 231 0493 contact\\_fi@celltrionhc.com
 
-Ελλάδα
+## Ελλάδα
 
 ΒΙΑΝΕΞ Α.Ε. Τηλ: +30 210 8009111
 
-España CELLTRION FARMACEUTICA (ESPAÑA) S.L. Tel: +34 910498478 contact\\_es@celltrion.com
+## España
 
-France Celltrion Healthcare France SAS
+CELLTRION FARMACEUTICA (ESPAÑA) S.L. Tel: +34 910498478 contact\\_es@celltrion.com
 
-Tél: +33 (0)1 71 25 27 00
+## France
+
+Celltrion Healthcare France SAS Tél: +33 (0)1 71 25 27 00
 
 ## Hrvatska
 
@@ -1152,15 +1150,11 @@ Oktal Pharma d.o.o. Tel: +385 1 6595 777
 
 ## Ireland
 
-Celltrion Healthcare Ireland Limited Tel: +353 1 223 4026
-
-enquiry\\_ie@celltrionhc.com
+Celltrion Healthcare Ireland Limited Tel: +353 1 223 4026 enquiry\\_ie@celltrionhc.com
 
 ## Ísland
 
-Celltrion Healthcare Hungary Kft. Sími: +36 1 231 0493
-
-contact\\_fi@celltrionhc.com
+Celltrion Healthcare Hungary Kft. Sími: +36 1 231 0493 contact\\_fi@celltrionhc.com
 
 ## Italia
 
@@ -1172,7 +1166,11 @@ celltrionhealthcare\\_italy@legalmail.it
 
 C.A. Papaellinas Ltd Τηλ: +357 22741741
 
-Latvija Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
+## Latvija
+
+Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
+
+contact\\_no@celltrionhc.com
 
 ## Österreich
 
@@ -1182,19 +1180,21 @@ Astro-Pharma GmbH Tel: +43 1 97 99 860
 
 Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
 
-Portugal CELLTRION PORTUGAL, UNIPESSOAL LDA Tel: +351 21 936 8542 contact\\_pt@celltrion.com
+## Portugal
+
+CELLTRION PORTUGAL, UNIPESSOAL LDA
+
+Tel: +351 21 936 8542
+
+contact\\_pt@celltrion.com
 
 ## România
 
-Celltrion Healthcare Hungary Kft.
-
-Tel: +36 1 231 0493
+Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
 ## Slovenija
 
-OPH Oktal Pharma d.o.o.
-
-Tel: +386 1 519 29 22
+OPH Oktal Pharma d.o.o. Tel: +386 1 519 29 22
 
 ## Slovenská republika
 
@@ -1202,11 +1202,11 @@ Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
 ## Suomi/Finland
 
-Celltrion Healthcare Finland Oy. Puh/Tel: +358 29 170 7755
+Celltrion Healthcare Finland Oy. Puh/Tel: +358 29 170 7755 contact\\_fi@celltrionhc.com
 
-contact\\_fi@celltrionhc.com
+## Sverige
 
-Sverige Celltrion Sweden AB Tel: +46 8 80 11 77
+Celltrion Sweden AB Tel: +46 8 80 11 77
 
 contact\\_se@celltrionhc.com
 
@@ -1222,7 +1222,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 - Before administration, the Osenvelt solution should be inspected visually. Do not inject the solution if it contains visible particles or is cloudy or discoloured.
 - Do not shake.
-- To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25ºC) before injecting and inject slowly.
+- To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 30ºC) before injecting and inject slowly.
 - The entire contents of the vial should be injected.
 - A 27 gauge needle is recommended for the administration of denosumab.
 - The vial should not be re-entered.

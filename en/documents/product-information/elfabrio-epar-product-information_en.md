@@ -1,26 +1,28 @@
 ---
-document_datetime: 2026-01-20 12:32:14
-document_pages: 29
+document_datetime: 2026-03-17 15:35:07
+document_pages: 30
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/elfabrio-epar-product-information_en.pdf
 document_name: elfabrio-epar-product-information_en.pdf
 version: success
-processing_time: 6.729461
-conversion_datetime: 2026-01-20 20:39:30.605298
+processing_time: 9.10774
+conversion_datetime: 2026-03-21 14:55:01.278412
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
@@ -60,43 +62,51 @@ Elfabrio is indicated for long-term enzyme replacement therapy in adult patients
 
 ## 4.2 Posology and method of administration
 
-Elfabrio treatment must be managed by a physician experienced in the treatment of patients with Fabry disease.
+Pegunigalsidase alfa treatment must be managed by a physician experienced in the treatment of patients with Fabry disease.
 
-Appropriate medical support measures should be readily available when Elfabrio is administered to patients who have not had treatment before, or who have experienced severe hypersensitivity reactions to Elfabrio in the past.
+Appropriate medical support measures should be readily available when pegunigalsidase alfa is administered to patients who have not had treatment before, or who have experienced severe hypersensitivity reactions to pegunigalsidase alfa in the past.
 
 <div style=\"page-break-after: always\"></div>
 
-Pre-treatment with antihistamines and/or corticosteroids may be advisable for patients who had previously experienced hypersensitivity reactions to Elfabrio or to another enzyme replacement therapies (ERT) treatment (see section 4.4).
+Pre-treatment with antihistamines and/or corticosteroids may be advisable for patients who had previously experienced hypersensitivity reactions to pegunigalsidase alfa or to another enzyme replacement therapies (ERT) treatment (see section 4.4).
 
 ## Posology
 
 The recommended dose of pegunigalsidase alfa is 1 mg/kg of body weight administered once every two weeks.
 
+The treatment can be also administered at the dose of 2 mg/kg of body weight once every four weeks in patients stable with an ERT treatment (see section 4.4 Treatment monitoring).
+
 For instructions on reconstitution, see section 6.6.
 
 ## Patients switching treatment from agalsidase alfa or beta
 
-For the initial 3 months (6 infusions) of treatment with Elfabrio, pre-treatment regimen should be preserved with stepwise discontinuation of pre-treatment based on appropriate tolerability of the patients.
+For the initial 3 months of treatment with pegunigalsidase alfa, pre-treatment regimen should be preserved with stepwise discontinuation of pre-treatment based on appropriate tolerability of the patients.
 
 ## Special populations
 
-## Renal or hepatic impairment
+## Hepatic impairment
 
-No dose adjustment is needed in patients with renal or hepatic impairment.
+No dose adjustment is needed in patients with hepatic impairment.
+
+## Renal impairment
+
+No dose adjustment is needed in patients with renal impairment.
+
+Renal function should be evaluated regularly during pegunigalsidase alfa treatment (see section 4.4).
 
 ## Elderly (≥ 65 years old)
 
-Safety and efficacy of Elfabrio in patients older than 65 years have not been evaluated and no alternative dose regimens can be recommended for these patients. Elderly patients may be treated with the same dose as other adult patients, see section 5.1.
+Safety and efficacy of pegunigalsidase alfa in patients older than 65 years have not been evaluated and no alternative dose regimens can be recommended for these patients. Elderly patients may be treated with the same dose as other adult patients, see section 5.1.
 
 ## Paediatric population
 
-The safety and efficacy of Elfabrio in children and adolescents aged 0-17 years have not yet been established. No data are available.
+The safety and efficacy of pegunigalsidase alfa in children and adolescents aged 0-17 years have not yet been established. No data are available.
 
 ## Method of administration
 
 For intravenous infusion use only.
 
-Elfabrio must not be infused in the same intravenous line with other products.
+Pegunigalsidase alfa must not be infused in the same intravenous line with other products.
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.
 
@@ -104,38 +114,59 @@ After preparation, the dilution should be administered via intravenous infusion 
 
 The patient should be observed for infusion-related reactions (IRRs) for two hours after the infusion; see section 4.4.
 
-Further details on how to handle Elfabrio before administration, see section 6.6.
+Further details on how to handle pegunigalsidase alfa before administration, see section 6.6.
 
 ## Home administration
 
-Infusion of Elfabrio at home may be considered if the patient is tolerating his infusions well and have no history of moderate or severe IRRs for a few months.
+Infusion of pegunigalsidase alfa at home may be considered if the patient is tolerating infusions well and has no history of moderate or severe IRRs for a few months.
+
+<div style=\"page-break-after: always\"></div>
 
 The decision to move to home infusion should be made after evaluation and recommendation by the treating physician. The patient should be medically stable. Home infusion infrastructure, resources, and procedures, including training, must be established and available to the healthcare professional in charge of home infusion.
 
 The healthcare professional should be available at all times during the home infusion and for a specified time after infusion.
 
-<div style=\"page-break-after: always\"></div>
-
 Appropriate training should be given by the treating physician and/or nurse to the patient and/or caregiver prior to initiation of home infusion. The dose and infusion rate used in the home setting should remain the same as was used in the hospital setting; they should be changed only under the supervision of the treating physician.
 
 Infusion rate and duration of infusion
 
-Table 1: Recommended dose and infusion time for intravenous administration of Elfabrio
+Table 1: Recommended dose and infusion time for intravenous administration of 1 mg/kg of body weight of pegunigalsidase alfa every 2 weeks
 
 | Initial infusion 1 mg/kg of body weight every 2 weeks                                                                                                                                                                | Initial infusion 1 mg/kg of body weight every 2 weeks                                                                                                                                                                | Initial infusion 1 mg/kg of body weight every 2 weeks                                                                                                                                                                | Initial infusion 1 mg/kg of body weight every 2 weeks                                                                                                                                                                |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Body weight (Kg)                                                                                                                                                                                                     | Total volume (mL)                                                                                                                                                                                                    | Infusion time                                                                                                                                                                                                        | Infusion rate*                                                                                                                                                                                                       |
-| up to 70                                                                                                                                                                                                             | 150 mL                                                                                                                                                                                                               | not less than 3 hours                                                                                                                                                                                                | 0.83 mL/min (50 mL/hr)                                                                                                                                                                                               |
-| 70-100                                                                                                                                                                                                               | 250 mL                                                                                                                                                                                                               | not less than 3 hours                                                                                                                                                                                                | 1.39 mL/min (83.33 mL/hr)                                                                                                                                                                                            |
-| > 100                                                                                                                                                                                                                | 500 mL                                                                                                                                                                                                               | not less than 3 hours                                                                                                                                                                                                | 2.78 mL/min (166.67 mL/hr)                                                                                                                                                                                           |
+| Body weight (Kg)                                                                                                                                                                                                     | Total volume (ml)                                                                                                                                                                                                    | Infusion time                                                                                                                                                                                                        | Infusion rate*                                                                                                                                                                                                       |
+| <70                                                                                                                                                                                                                  | 150 ml                                                                                                                                                                                                               | ≥ 3 hours                                                                                                                                                                                                            | 0.83 ml/min (50 ml/hr)                                                                                                                                                                                               |
+| 70-100                                                                                                                                                                                                               | 250 ml                                                                                                                                                                                                               | ≥ 3 hours                                                                                                                                                                                                            | 1.39 ml/min (83.33 ml/hr)                                                                                                                                                                                            |
+| > 100                                                                                                                                                                                                                | 500 ml                                                                                                                                                                                                               | ≥ 3 hours                                                                                                                                                                                                            | 2.78 ml/min (166.67 ml/hr)                                                                                                                                                                                           |
 | Maintenance infusion The target infusion duration can be achieved pending patient's tolerability. The increase in the infusion rate should be achieved gradually starting from the rate given at the first infusion. | Maintenance infusion The target infusion duration can be achieved pending patient's tolerability. The increase in the infusion rate should be achieved gradually starting from the rate given at the first infusion. | Maintenance infusion The target infusion duration can be achieved pending patient's tolerability. The increase in the infusion rate should be achieved gradually starting from the rate given at the first infusion. | Maintenance infusion The target infusion duration can be achieved pending patient's tolerability. The increase in the infusion rate should be achieved gradually starting from the rate given at the first infusion. |
 | 1 mg/kg of body weight every 2 weeks                                                                                                                                                                                 | 1 mg/kg of body weight every 2 weeks                                                                                                                                                                                 | 1 mg/kg of body weight every 2 weeks                                                                                                                                                                                 | 1 mg/kg of body weight every 2 weeks                                                                                                                                                                                 |
-| Body weight (Kg)                                                                                                                                                                                                     | Total volume (mL)                                                                                                                                                                                                    | Infusion time                                                                                                                                                                                                        | Infusion rate*                                                                                                                                                                                                       |
-| up to 70                                                                                                                                                                                                             | 150 mL                                                                                                                                                                                                               | not less than 1.5 hours                                                                                                                                                                                              | 1.68 mL/min (100 mL/hr)                                                                                                                                                                                              |
-| 70-100                                                                                                                                                                                                               | 250 mL                                                                                                                                                                                                               | not less than 1.5 hours                                                                                                                                                                                              | 2.78 mL/min (166.67 mL/hr)                                                                                                                                                                                           |
-| > 100                                                                                                                                                                                                                | 500 mL                                                                                                                                                                                                               | not less than 1.5 hours                                                                                                                                                                                              | 5.56 mL/min (333.33 mL/hr)                                                                                                                                                                                           |
+| Body weight (Kg)                                                                                                                                                                                                     | Total volume (ml)                                                                                                                                                                                                    | Infusion time                                                                                                                                                                                                        | Infusion rate*                                                                                                                                                                                                       |
+| <70                                                                                                                                                                                                                  | 150 ml                                                                                                                                                                                                               | ≥ 1.5 hours                                                                                                                                                                                                          | 1.68 ml/min (100 ml/hr)                                                                                                                                                                                              |
+| 70-100                                                                                                                                                                                                               | 250 ml                                                                                                                                                                                                               | ≥ 1.5 hours                                                                                                                                                                                                          | 2.78 ml/min (166.67 ml/hr)                                                                                                                                                                                           |
+| > 100                                                                                                                                                                                                                | 500 ml                                                                                                                                                                                                               | ≥ 1.5 hours                                                                                                                                                                                                          | 5.56 ml/min (333.33 ml/hr)                                                                                                                                                                                           |
+
+*infusion rate may be adjusted in case of infusion reaction (see section 4.4)
+
+Table 2: Recommended dose and infusion time for intravenous administration of 2 mg/kg of body weight of pegunigalsidase alfa every 4 weeks
+
+| Initial infusion 2 mg/kg of body weight every 4 weeks                                                                                                                                                                | Initial infusion 2 mg/kg of body weight every 4 weeks                                                                                                                                                                | Initial infusion 2 mg/kg of body weight every 4 weeks                                                                                                                                                                | Initial infusion 2 mg/kg of body weight every 4 weeks                                                                                                                                                                |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Body weight (Kg)                                                                                                                                                                                                     | Total volume (ml)                                                                                                                                                                                                    | Infusion time                                                                                                                                                                                                        | Infusion rate*                                                                                                                                                                                                       |
+| < 70                                                                                                                                                                                                                 | 150 ml                                                                                                                                                                                                               | ≥ 4.5 hours                                                                                                                                                                                                          | 0.56 ml/min (33.33 ml/hr)                                                                                                                                                                                            |
+| 70-100                                                                                                                                                                                                               | 250 ml                                                                                                                                                                                                               | ≥ 4.5 hours                                                                                                                                                                                                          | 0.93 ml/min (55.56 ml/hr)                                                                                                                                                                                            |
+| > 100                                                                                                                                                                                                                | 500 ml                                                                                                                                                                                                               | ≥ 6 hours                                                                                                                                                                                                            | 1.39 ml/min (83.33 ml/hr)                                                                                                                                                                                            |
+| Maintenance infusion The target infusion duration can be achieved pending patient's tolerability. The increase in the infusion rate should be achieved gradually starting from the rate given at the first infusion. | Maintenance infusion The target infusion duration can be achieved pending patient's tolerability. The increase in the infusion rate should be achieved gradually starting from the rate given at the first infusion. | Maintenance infusion The target infusion duration can be achieved pending patient's tolerability. The increase in the infusion rate should be achieved gradually starting from the rate given at the first infusion. | Maintenance infusion The target infusion duration can be achieved pending patient's tolerability. The increase in the infusion rate should be achieved gradually starting from the rate given at the first infusion. |
+| 2 mg/kg of body weight every 4 weeks                                                                                                                                                                                 | 2 mg/kg of body weight every 4 weeks                                                                                                                                                                                 | 2 mg/kg of body weight every 4 weeks                                                                                                                                                                                 | 2 mg/kg of body weight every 4 weeks                                                                                                                                                                                 |
+| Body weight (Kg)                                                                                                                                                                                                     | Total volume (ml)                                                                                                                                                                                                    | Infusion time                                                                                                                                                                                                        | Infusion rate*                                                                                                                                                                                                       |
+| < 70                                                                                                                                                                                                                 | 150 ml                                                                                                                                                                                                               | ≥ 2 hours                                                                                                                                                                                                            | 1.25 ml/min (75 ml/hr)                                                                                                                                                                                               |
+| 70-100                                                                                                                                                                                                               | 250 ml                                                                                                                                                                                                               | ≥ 2 hours                                                                                                                                                                                                            | 2.08 ml/min (125 ml/hr)                                                                                                                                                                                              |
+| > 100                                                                                                                                                                                                                | 500 ml                                                                                                                                                                                                               | ≥ 3 hours                                                                                                                                                                                                            | 2.78 ml/min (166.67 ml/hr)                                                                                                                                                                                           |
+
+*infusion rate may be adjusted in case of infusion reaction (see section 4.4)
 
 If patients experience infusion-related reactions, including hypersensitivity reactions or anaphylactic reactions during the infusion, the infusion must be immediately stopped and appropriate medical treatment should be initiated (see section 4.4).
+
+<div style=\"page-break-after: always\"></div>
 
 Any patients experiencing adverse events during the home infusion need to immediately stop the infusion process and seek the attention of a healthcare professional. Subsequent infusions may need to occur in a clinical setting.
 
@@ -149,31 +180,39 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
+## Treatment monitoring
+
+For patients switched to pegunigalsidase alfa 2 mg/kg body weight once every 4 weeks, regular monitoring (e.g.: after 3, 6, 12, 18 and 24 months) should be performed. Monitoring should include at least the evaluation of lyso-Gb3, renal (eGFR, proteinuria), cardiac (LVMi, NT-proBNP, troponin or ECG), and biochemical parameters. A change in any individual parameter should be interpreted in the context of the patient's overall clinical status, and clinically relevant deterioration should prompt reevaluation of the treatment regimen.
+
 ## Infusion related reactions
 
 Infusion-related reactions (IRRs), defined as any related adverse events with onset after start of infusion and up to 2 hours after end of infusion have been reported (see section 4.8). The most commonly observed symptoms of IRRs were hypersensitivity, itching, nausea, dizziness, chills and muscular pain.
 
-The management of IRRs must be based on the severity of the reaction, and include slowing the infusion rate and treatment with medicinal products such as antihistamines, antipyretics and/or corticosteroids, for mild to moderate reactions. Pre-treatment with antihistamines and/or
-
-<div style=\"page-break-after: always\"></div>
-
-corticosteroids may prevent subsequent reactions in those cases where symptomatic treatment was required, although IRRs occurred in some patients after receiving pre-treatment (see section 4.2).
+The management of IRRs must be based on the severity of the reaction, and include slowing the infusion rate and treatment with medicinal products such as antihistamines, antipyretics and/or corticosteroids, for mild to moderate reactions. Pre-treatment with antihistamines and/or corticosteroids may prevent subsequent reactions in those cases where symptomatic treatment was required, although IRRs occurred in some patients after receiving pre-treatment (see section 4.2).
 
 ## Hypersensitivity
 
-Hypersensitivity reactions have been reported in patients in clinical studies (see section 4.8). As with any intravenous protein product, allergic-type hypersensitivity reactions may manifest and can include localised angioedema (including swelling of the face, mouth, and throat), bronchospasm, hypotension, generalised urticaria, dysphagia, rash, dyspnoea, flushing, chest discomfort, pruritus, and nasal congestion. If a severe allergic or anaphylactic-type reactions occur, immediate discontinuation of Elfabrio is recommended and current medical standards for emergency treatment are to be followed. In patients who have experienced severe hypersensitivity reactions during Elfabrio infusion, caution should be exercised upon re-challenge and appropriate medical support should be readily available. Moreover, for patients who experienced severe hypersensitivity reactions with ERT infusion including Elfabrio, appropriate medical support should be readily available.
+Hypersensitivity reactions have been reported in patients in clinical studies (see section 4.8). As with any intravenous protein product, allergic-type hypersensitivity reactions may manifest and can include localised angioedema (including swelling of the face, mouth, and throat), bronchospasm, hypotension, generalised urticaria, dysphagia, rash, dyspnoea, flushing, chest discomfort, pruritus, nausea, chills and nasal congestion. If a severe allergic or anaphylactic-type reactions occur, immediate discontinuation of pegunigalsidase alfa is recommended and current medical standards for emergency treatment are to be followed.
+
+In patients who have experienced severe hypersensitivity reactions during pegunigalsidase alfa infusion, caution should be exercised upon re-challenge and appropriate medical support should be readily available. Moreover, for patients who experienced severe hypersensitivity reactions with ERT infusion including pegunigalsidase alfa, appropriate medical support should be readily available.
 
 ## Immunogenicity
 
 In clinical studies, treatment-induced anti-drug antibodies (ADA) development has been observed (see section 4.8).
 
-The presence of ADAs to Elfabrio may be associated with a higher risk of infusion-related reactions, and severe IRRs are more likely to occur in ADA positive patients. Patients who develop infusion or immune reactions with Elfabrio treatment should be monitored.
+<div style=\"page-break-after: always\"></div>
 
-Additionally, patients who are ADA positive to other enzyme replacement therapies, who have experienced hypersensitivity reactions to Elfabrio and patients who are switching to Elfabrio should be monitored.
+The presence of ADAs to pegunigalsidase alfa may be associated with a higher risk of infusion-related reactions, and severe IRRs are more likely to occur in ADA positive patients. Patients who develop infusion or immune reactions with pegunigalsidase alfa treatment should be monitored.
 
-## Glomerulonephritis membranoproliferative
+Additionally, patients who are ADA positive to other enzyme replacement therapies, who have experienced hypersensitivity reactions to pegunigalsidase alfa and patients who are switching to pegunigalsidase alfa should be monitored.
 
-Depositions of immune complexes can potentially occur during treatment with ERTs, as a manifestation of immunological response to the product. A single case of glomerulonephritis membranoproliferative was reported during the clinical development of Elfabrio, due to immune depositions in the kidney (see section 4.8). This event led to a temporary decline in renal function, which improved upon discontinuation of the medicinal product.
+## Membranoproliferative glomerulonephritis
+
+Depositions of immune complexes can potentially occur during treatment with ERTs, as a manifestation of immunological response to the product. A single case of membranoproliferative glomerulonephritis was reported during the clinical development of pegunigalsidase alfa, due to immune depositions in the kidney (see section 4.8). This event led to a temporary decline in renal function, which improved upon discontinuation of the medicinal product.
+
+## Patients with renal impairment
+
+The presence of extensive renal damage (eGFR &lt; 60 ml/min) may limit the renal response to enzyme replacement therapy, possibly due to underlying irreversible pathological changes. In such cases, the loss of renal function remains within the expected range of the natural progression of disease. Regular evaluation of changes in the estimated glomerular filtration rate (eGFR) during pegunigalsidase alfa treatment is recommended.
 
 ## Excipients of known effect
 
@@ -185,19 +224,19 @@ This medicinal product contains 11.5 mg sodium per 2.5 mL vial, equivalent to 1%
 
 No interaction studies and no in vitro metabolism studies have been performed. Based on its metabolism, pegunigalsidase alfa is an unlikely candidate for cytochrome P450 mediated drug-drug interactions.
 
-Elfabrio is a protein and is expected to be metabolically degraded through peptide hydrolysis.
-
-<div style=\"page-break-after: always\"></div>
+Pegunigalsidase alfa is a protein and is expected to be metabolically degraded through peptide hydrolysis.
 
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Pregnancy
 
-There are no or limited amount of data from the use of pegunigalsidase alfa in pregnant women. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of Elfabrio during pregnancy unless clearly necessary.
+There are no or limited amount of data from the use of pegunigalsidase alfa in pregnant women. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of pegunigalsidase alfa during pregnancy unless clearly necessary.
 
 ## Breast-feeding
 
-It is unknown whether pegunigalsidase alfa/metabolites are excreted in human milk. Available pharmacodynamic/toxicological data in animals have shown excretion of Elfabrio in milk (for details see section 5.3). A risk to the newborns/infants cannot be excluded. A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from Elfabrio therapy taking into account the benefit of breast feeding for the child and the benefit of therapy for the woman.
+It is unknown whether pegunigalsidase alfa/metabolites are excreted in human milk. Available pharmacodynamic/toxicological data in animals have shown excretion of pegunigalsidase alfa in milk (for details see section 5.3). A risk to the newborns/infants cannot be excluded. A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from pegunigalsidase alfa therapy taking into account the benefit of breast feeding for the child and the benefit of therapy for the woman.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Fertility
 
@@ -205,52 +244,50 @@ There are no studies assessing the potential effect of pegunigalsidase alfa on f
 
 ## 4.7 Effects on ability to drive and use machines
 
-Dizziness or vertigo were observed in some patients following Elfabrio administration. These patients should refrain from driving or the use of machines until symptoms have subsided.
+Dizziness, syncope or vertigo were observed in some patients following pegunigalsidase alfa administration. These patients should refrain from driving or the use of machines until symptoms have subsided.
 
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
-The most common adverse reactions were infusion-related reactions reported in 6.3% of patients, followed by hypersensitivity and asthenia reported each by 5.6% of patients.
+The most common adverse reactions were infusion-related reactions reported in 7.8% of patients, followed by nausea and asthenia, both reported in 5.6% of patients and headache, reported in 4.2% of patients.
 
-In clinical studies, 5 patients (3.5%) experienced a serious reaction that was considered related to Elfabrio. Four of these reactions were confirmed IgE-mediated hypersensitivity (bronchospasm, hypersensitivity) that occurred at the first infusion of Elfabrio and resolved within the day after occurrence.
+In clinical studies, 5 patients (3.5%) experienced a serious reaction that was considered related to pegunigalsidase alfa. Four of these reactions were confirmed IgE-mediated hypersensitivity (bronchospasm, hypersensitivity) that occurred at the first infusion of pegunigalsidase alfa and resolved within the day after occurrence.
 
 ## Tabulated summary of adverse reactions
 
-The data described below reflects data from 141 patients with Fabry disease who received Elfabrio in 8 clinical studies, following the posology of 1 mg/kg every two weeks or 2 mg/kg every four weeks for a minimum of 1 infusion up to 6 years.
+The data described below reflects data from 141 patients with Fabry disease who received pegunigalsidase alfa in 8 clinical studies, following the posology of 1 mg/kg every two weeks or 2 mg/kg every four weeks for a minimum of 1 infusion up to 7 years.
 
-Adverse reactions are listed in Table 2. Information is presented by system organ class. Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); frequency not known (cannot be estimated from available data).
+Adverse reactions are listed in Table 3. Information is presented by system organ class. Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); frequency not known (cannot be estimated from available data).
 
-<div style=\"page-break-after: always\"></div>
+Table 3: Adverse reactions reported during treatment with pegunigalsidase alfa
 
-Table 2: Adverse reactions reported during treatment with Elfabrio
-
-| System organ class                                   | Frequency                                      | Frequency                                                                                                                                                                  |
-|------------------------------------------------------|------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                      | Common                                         | Uncommon                                                                                                                                                                   |
-| Immune system disorders                              | hypersensitivity * type I hypersensitivity *   |                                                                                                                                                                            |
-| Psychiatric disorders                                | agitation *                                    | insomnia                                                                                                                                                                   |
-| Nervous system disorders                             | paraesthesia * dizziness * headache *          | restless legs syndrome peripheral neuropathy neuralgia burning sensation tremor *                                                                                          |
-| Ear and labyrinth disorders                          | vertigo                                        |                                                                                                                                                                            |
-| Vascular disorders                                   |                                                | flushing hypotension * hypertension * lymphoedema                                                                                                                          |
-| Respiratory, thoracic and mediastinal disorders      |                                                | bronchospasm * dyspnoea * throat irritation * nasal congestion * sneezing *                                                                                                |
-| Gastrointestinal disorders                           | nausea * abdominal pain * diarrhoea vomiting * | gastrooesophageal reflux disease gastritis dyspepsia flatulence                                                                                                            |
-| Skin and subcutaneous issue disorders                | rash * erythema * pruritus *                   | hypohidrosis                                                                                                                                                               |
-| Musculoskeletal and connective tissue disorders      | arthralgia musculoskeletal pain *              |                                                                                                                                                                            |
-| Renal and urinary disorders                          |                                                | glomerulonephritis membranoproliferative chronic kidney disease proteinuria                                                                                                |
-| Reproductive system and breast disorders             |                                                | nipple pain                                                                                                                                                                |
-| General disorders and administration site conditions | asthenia * chills * chest pain * pain *        | infusion site extravasation oedema influenza-like illness infusion site pain                                                                                               |
-| Investigations                                       |                                                | body temperature increased * hepatic enzyme increased urine protein/creatinine ratio increased white blood cells urine positive blood uric acid increased weight increased |
-| Injury, poisoning and procedural complications       | infusion related reaction                      |                                                                                                                                                                            |
+|                             | Frequency                                  | Frequency                                                                                   |
+|-----------------------------|--------------------------------------------|---------------------------------------------------------------------------------------------|
+| System organ class          | Common                                     | Uncommon                                                                                    |
+| Immune system disorders     | hypersensitivity * type I hypersensitivity |                                                                                             |
+| Psychiatric disorders       | agitation *                                | insomnia                                                                                    |
+| Nervous system disorders    | paraesthesia * dizziness * headache *      | restless legs syndrome peripheral neuropathy neuralgia burning sensation tremor * syncope * |
+| Ear and labyrinth disorders | vertigo                                    |                                                                                             |
+| Vascular disorders          |                                            | flushing hypotension * hypertension * lymphoedema                                           |
 
 <div style=\"page-break-after: always\"></div>
 
-|                    | Frequency                      | Frequency                                  |
-|--------------------|--------------------------------|--------------------------------------------|
-| System organ class | Common                         | Uncommon                                   |
-| Cardiac disorders  | supraventricular extrasystoles | bradycardia * left ventricular hypertrophy |
+| System organ                                         | Frequency                                      | Frequency                                                                                                                                         |
+|------------------------------------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| class                                                | Common                                         | Uncommon                                                                                                                                          |
+| Respiratory, thoracic and mediastinal disorders      |                                                | bronchospasm * sneezing * nasal congestion * dyspnoea * throat irritation * throat tightness                                                      |
+| Gastrointestinal disorders                           | nausea * abdominal pain * diarrhoea vomiting * | gastrooesophageal reflux disease gastritis dyspepsia flatulence                                                                                   |
+| Skin and subcutaneous issue disorders                | rash * erythema * pruritus *                   | hypohidrosis                                                                                                                                      |
+| Musculoskeletal and connective tissue disorders      | arthralgia musculoskeletal pain                | *                                                                                                                                                 |
+| Renal and urinary disorders                          |                                                | membranoproliferative glomerulonephritis chronic kidney disease proteinuria                                                                       |
+| Reproductive system and breast disorders             |                                                | nipple pain                                                                                                                                       |
+| General disorders and administration site conditions | asthenia * chills * chest pain * pain *        | influenza-like illness infusion site extravasation infusion site pain oedema                                                                      |
+| Investigations                                       |                                                | body temperature increased * urine protein/creatinine ratio increased white blood cells urine positive blood uric acid increased weight increased |
+| Injury, poisoning and procedural complications       | infusion related reaction                      | *                                                                                                                                                 |
+| Cardiac disorders                                    | supraventricular extrasystoles                 |                                                                                                                                                   |
 
-The following preferred terms have been grouped in Table 2:
+The following preferred terms have been grouped in Table 3:
 
 - hypersensitivity includes: drug hypersensitivity
 - agitation includes: nervousness
@@ -261,21 +298,26 @@ The following preferred terms have been grouped in Table 2:
 - chest pain includes: chest discomfort and non-cardiac chest pain
 - pain includes: pain in extremity
 - oedema peripheral recorded as oedema
+
 * Preferred terms considered as IRR as described in the section below.
 
 ## Description of selected adverse reactions
 
 ## Infusion related reactions (adverse reactions within 2 hours of infusion)
 
-IRRs were reported in a total of 32 patients (22%): 26 patients (23%) treated with 1 mg/kg every two weeks and 6 patients (2%) treated with 2 mg/kg every four weeks. The most commonly reported symptoms associated with IRRs reported for 1 mg/kg dosage were: hypersensitivity, chills, dizziness, rash and itching. For the 2 mg/kg dose the most commonly reported symptom was pain. IRRs were mostly mild or moderate in intensity and resolved with continuous treatment; however, 5 patients (all male, 1 mg/kg dose) experienced 5 severe IRRs. These 5 IRRs were also serious. Four of these events were confirmed type I hypersensitivity reactions and 3 led to the discontinuation from the study. Another patient was later withdrawn from the study, after the occurrence of another moderate IRR. All 5 patients however recovered within the day after of occurrence with appropriate treatment. IRRs predominantly occurred within the first year of treatment with Elfabrio and no serious IRR was observed during the second year and beyond.
+IRRs were reported in a total of 36 patients (25%): 26 patients (23%) treated with 1 mg/kg every two weeks and 10 patients (34%) treated with 2 mg/kg every four weeks. The most commonly reported symptoms associated with IRRs reported for 1 mg/kg dosage were: hypersensitivity, chills, dizziness, rash and itching. For the 2 mg/kg dose the most commonly reported symptoms were pain, headache and nausea. IRRs were mostly mild or moderate in intensity and resolved with continuous treatment; however, 5 patients (all male, 1 mg/kg dose) experienced 5 severe IRRs. These 5 IRRs were also
+
+<div style=\"page-break-after: always\"></div>
+
+serious. Four of these events were confirmed type I hypersensitivity reactions and 3 led to the discontinuation from the study. Another patient was later withdrawn from the study, after the occurrence of another moderate IRR. All 5 patients however recovered within the day after of occurrence with appropriate treatment. IRRs predominantly occurred within the first year of treatment with pegunigalsidase alfa and no serious IRR was observed during the second year and beyond.
 
 ## Immunogenicity
 
-In clinical studies, 17 out of 111 of patients (16%) treated with 1 mg/kg Elfabrio every two weeks and 0 out of 30 patients treated with 2 mg/kg Elfabrio every four weeks developed treatment-induced antidrug antibodies (ADAs).
+In clinical studies, 17 out of 111 of patients (16%) treated with 1 mg/kg pegunigalsidase alfa every two weeks and 1 out of 30 patients (3.4%) treated with 2 mg/kg pegunigalsidase alfa every four weeks developed treatment-induced anti-drug antibodies (ADAs).
 
-## Glomerulonephritis membranoproliferative
+## Membranoproliferative glomerulonephritis
 
-During the clinical development of Elfabrio, one patient out of 136 reported a severe event of glomerulonephritis membranoproliferative after receiving treatment for more than 2 years. The patient was ADA positive at the start of the infusions. The event led to a transitory reduction in the eGFR and an increase on the level of proteinuria, with no additional signs or symptoms. A biopsy revealed the immune-complex mediated nature of this event. Upon discontinuation of the treatment, the eGFR values stabilised and the glomerulonephritis was reported as resolving.
+During the clinical development of pegunigalsidase alfa, one patient out of 141 reported a severe event of membranoproliferative glomerulonephritis after receiving treatment for more than 2 years. The patient was ADA positive at the start of the infusions. The event led to a transitory reduction in the eGFR and an increase on the level of proteinuria, with no additional signs or symptoms. A biopsy revealed the immune-complex mediated nature of this event. Upon discontinuation of the treatment, the eGFR values stabilised and the glomerulonephritis was reported as resolving.
 
 ## Reporting of suspected adverse reactions
 
@@ -283,11 +325,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-There are no reports of overdose of Elfabrio during clinical studies. The maximum dose of Elfabrio studied was 2 mg/kg body weight every two weeks and no specific signs and symptoms were
-
-<div style=\"page-break-after: always\"></div>
-
-identified following the higher doses. The most common adverse reactions reported were infusion related reaction and pain in extremity. If overdose is suspected, seek emergency medical attention.
+There are no reports of overdose of pegunigalsidase alfa during clinical studies. The maximum dose of pegunigalsidase alfa studied was 2 mg/kg body weight every two weeks and no specific signs and symptoms were identified following the higher doses. The most common adverse reactions reported were infusion related reaction and pain in extremity. If overdose is suspected, seek emergency medical attention.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -301,21 +339,31 @@ The active substance of Elfabrio is pegunigalsidase alfa. Pegunigalsidase alfa i
 
 Pegunigalsidase alfa supplements or replaces α -galactosidase-A, the enzyme that catalyses the hydrolysis of the terminal α -galactosyl moieties of oligosaccharides and polysaccharides in the lysosome, reducing the amount of accumulation of globotriaosylceramide (Gb3) and globotriaosylsphingosine (Lyso-Gb3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Clinical efficacy and safety
 
 ## Efficacy
 
-The efficacy and safety of pegunigalsidase alfa were evaluated in 142 patients (94 males and 48 females), of which 112 receiving pegunigalsidase alfa 1 mg/kg every other week (EOW).
+The efficacy and safety of pegunigalsidase alfa were evaluated in 141 patients. Among these patients, the efficacy was evaluated in 111 receiving pegunigalsidase alfa 1 mg/kg once every two weeks (E2W), and in 29 receiving pegunigalsidase alfa 2 mg/kg body weight once every four weeks (E4W).
 
 ## Disease substrate
 
-Analyses of kidney biopsies from naïve patients treated with pegunigalsidase alfa in a phase 1/2 study exhibited a reduction of the globotriaosylceramide (Gb3) substrate from the renal peritubular capillaries, measured with BLISS (Barisoni Lipid Inclusion Scoring System) of 68% in the overall population (including females, classic males and non-classic males exposed to different tested doses; n=13) after 6 months of treatment. Additionally, 11 out of 13 subjects with available biopsies had substantial reduction (≥50%) in their BLISS score following 6 months of treatment. Plasma Lys o-Gb3 decreased by 49% after 12 months of treatment (n=16) and by 83% after 60 months of treatment (n=10). In a phase 3 study, where patients were switching from agalsidase beta to pegunigalsidase alfa, plasma Lyso-Gb3 values stayed stable after 24 months of treatment (+3.3 nM mean value, n=48).
+Analyses of kidney biopsies from naïve patients treated with pegunigalsidase alfa at a dosage of 1 mg/kg body weight E2W in a phase 1/2 study exhibited a reduction of the globotriaosylceramide (Gb3) substrate from the renal peritubular capillaries, measured with BLISS (Barisoni Lipid Inclusion Scoring System) of 68% in the overall population (including females, classic males and non-classic males exposed to different tested doses; n=13) after 6 months of treatment. Additionally, 11 out of 13 subjects with available biopsies had substantial reduction (≥50%) in their BLISS score following 6 months of treatment. Plasma Lyso-Gb3 decreased by 49% after 12 months of treatment (n=16) and by 83% after 60 months of treatment (n=10). In a phase 3 study, where patients were switching from agalsidase beta to pegunigalsidase alfa at a dosage of 1 mg/kg body weight E2W, plasma lyso-Gb3 values stayed stable after 24 months of treatment (+3.3 nM mean value, n=48).
+
+In an open-label Phase 3 study in 29 patients with stable Fabry disease on ERT (agalsidase alfa or agalsidase beta), lyso-Gb3 values were evaluated prior to and after treatment conversion into pegunigalsidase alfa at a dosage of 2 mg/kg body weight E4W. The observed median (Q1, Q3) plasma lyso-Gb3 levels at baseline were 17.2 (12.1, 32.8) nmol/l for male study patients (n= 23) and 4.4 (2.9, 5.9) nmol/l for female study patients (n=6). In men, the median (Q1, Q3) changes in lyso-Gb3 levels after 1, 2, and 4 years compared to baseline were respectively +5.1 (0.3, 7.8), +4.5 (-0.1, 9.4), and +2.7 (-2.0, 7.4) nmol/l. In women, the median (Q1, Q3) changes in lyso-Gb3 levels after 1, 2, and 4 years compared to baseline were respectively -0.1 (-0.4, 0.2), +0.2 (-0.2, 0.7), and -0.3 (-1.0, 1.2) nmol/l.
 
 ## Renal function
 
-The renal function was evaluated through the estimated glomerular filtration rate (eGFR - CKD-EPI equation) and its annualised measurement slope was the primary endpoint for efficacy in two phase 3 studies in previously ERT-treated adult Fabry patients: BALANCE (main study), a randomized, double blinded, head-to-head comparison with agalsidase beta, after switch from agalsidase beta at month 12 (primary analysis) and month 24, and an open label single arm study, after switch from agalsidase alfa, both followed by a long-term extension study.
+The renal function was evaluated through the estimated glomerular filtration rate (eGFR - CKD-EPI equation) and its annualised measurement slope was the primary endpoint for efficacy in several phase 3 studies.
 
-No final conclusion on non-inferiority over agalsidase beta as measured by the annualised eGFR can be retrieved from the main study given that the data for the primary endpoint comparison at month 12 was not on its own sufficiently informative due to the design and size of the trial. Nevertheless, the median eGFR slopes from baseline to month 24 of pegunigalsidase and the comparator agalsidase beta appeared close. At month 12, the mean slopes for eGFR were -2.507 mL/min/1.73 m²/year for the pegunigalsidase alfa arm and -1.748 for the agalsidase beta arm (difference -0.759 [-3.026, 1.507]. At month 24, the median slopes for eGFR were - 2.514 [-3.788; - 1.240] mL/min/1.73 m²/year for the pegunigalsidase alfa arm and -2.155 [-3.805; - 0.505] for the agalsidase beta arm (difference -0.359 [-2.444; 1.726]).
+Two phase 3 studies evaluated pegunigalsidase alfa 1 mg/kg E2W in previously ERT-treated adult Fabry patients: BALANCE (main study), a randomized, double blinded, head-to-head comparison with agalsidase beta, after switch from agalsidase beta at month 12 (primary analysis) and month 24, and an open label single arm study, after switch from agalsidase alfa, both followed by a long-term extension study.
+
+No final conclusion on non-inferiority over agalsidase beta as measured by the annualised eGFR can be retrieved from the main study given that the data for the primary endpoint comparison at month 12 was not on its own sufficiently informative due to the design and size of the trial. Nevertheless, the median eGFR slopes from baseline to month 24 of pegunigalsidase and the comparator agalsidase beta appeared close. At month 12, the mean slopes for eGFR were -2.5 ml/min/1.73 m²/year for the pegunigalsidase alfa arm and -1.7 for the agalsidase beta arm (difference -0.8 [-3.0, 1.5]. At month 24, the median slopes for eGFR were -2.5 [-3. 8; -1.2] ml/min/1.73 m²/year for the pegunigalsidase alfa arm and -2.2 [-3.8; -0.5] for the agalsidase beta arm (difference -0.36 [-2.4; 1.7]).
+
+The renal function was also evaluated through the annualised eGFR slope in a phase 3 study that investigated pegunigalsidase alfa 2 mg/kg E4W in previously ERT-treated adult Fabry patients: this study was an open label single arm study, after switch from agalsidase beta or agalsidase alfa, followed by a long-term extension study.
+
+The mean (SD) annualized eGFR slope in the efficacy population was -1.8 (3.7) and -2.0 (2.1) ml/min/1.73 m 2 /year respectively at pre-treatment baseline and during treatment over ≥4 years of treatment with pegunigalsidase alfa 2 mg/kg E4W.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -325,15 +373,29 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## 5.2 Pharmacokinetic properties
 
-Plasma pharmacokinetic (PK) profiles of pegunigalsidase alfa were characterized during the course of the clinical development at 0.2, 1, and 2 mg/kg administered every two weeks in adult patients with Fabry disease. The pharmacokinetic results for all three dose levels demonstrated that the enzyme was available throughout the 2-week intervals with a plasma half-life (t1/2) ranging from 53-134 hours across dose groups and visit day. The mean value for AUC0-∞ increased with increasing dose on Day 1 and throughout the study. Mean values for dose-normalized AUC0-2wk were similar for all dose levels, indicating linear dose-proportionality. For patients who received 1 and 2 mg/kg Elfabrio, there were increases in mean t1/2 and AUC0-∞ with increasing duration of treatment and corresponding decreases in Cl and Vz, suggesting a saturated clearance.
+Plasma pharmacokinetic (PK) profiles of pegunigalsidase alfa were characterized during the course of the clinical development at 0.2, 1, and 2 mg/kg administered every two weeks and 2 mg/kg every four weeks in adult patients with Fabry disease. The pharmacokinetic results (non-compartmental PK analysis) for all dose levels demonstrated that the enzyme was available throughout the whole dosing intervals with a plasma half-life (t1/2) ranging from 53-134 hours across dose groups and visit day.
 
-Pegunigalsidase alfa is a protein and is expected to be metabolically degraded through peptide hydrolysis. Consequently, impaired liver function is not expected to affect the pharmacokinetics of Elfabrio in a clinically significant way. The molecular weight of pegunigalsidase alfa is ~116 KDa, which is twice the cut-off value for glomerular filtration, thus excluding filtration and/or proteolytic degradation in kidneys.
+In adult ERT-naïve patients, on Day 1, the mean values for dose-normalized AUCs were similar for all dose levels, indicating linear dose-proportionality in the range of tested doses (0.2, 1 and 2 mg/kg E2W). At 3, 6 and 12 Months, the mean values for AUCs and Clast  increased more than as per doseproportionality with relatively high inter-subject variability in 0.2 mg/kg group and at some visits in 1 and 2 mg/kg dose groups. For patients who received 1 and 2 mg/kg pegunigalsidase alfa, there were increases in mean t1/2 and AUC0-2wk with increasing duration of treatment and corresponding decreases in CL and Vz, suggesting a saturated clearance.
+
+In adult ERT-experienced patients, for 1 mg/kg E2W dosing regimen, mean Cmax ranged from 21.2 to 23.3 mcg/mL, while mean AUClast ranged from 972 to 1156 mcg·h/mL. All the observations on the PK parameters indicate a consistent PK profile of pegunigalsidase alfa throughout the 2-years study treatment duration.
+
+For 2 mg/kg E4W dosing regimen, mean Cmax ranged from 36 to 47 mcg/mL, while mean AUClast ranged from 1648 to 2179 mcg·h/mL. There appears to be no time effect on the PK.
+
+Population PK modelling indicates that steady state is effectively achieved within the first month of treatment, with negligible accumulation, in both ERT-experienced and ERT-naïve patients irrespective of the dosing regimen.
+
+Pegunigalsidase alfa is a protein and is expected to be metabolically degraded through peptide hydrolysis. Consequently, impaired liver function is not expected to affect the pharmacokinetics of pegunigalsidase alfa in a clinically significant way. The molecular weight of pegunigalsidase alfa is ~116 KDa, which is twice the cut-off value for glomerular filtration, thus excluding filtration and/or proteolytic degradation in kidneys.
+
+The population PK model showed that over a 4-week interval AUC and Cavg are simulated to be similar following 1 mg/kg E2W or 2 mg/kg E4W, whereas Cmax is simulated to be 2-fold higher and Cmin is simulated to be 0.4-fold lower in the 2 mg/kg E4W regimen. The PK/PD analysis indicated that no clear relationship between pegunigalsidase alfa exposure and Lyso-Gb3 change from baseline at 12 months of treatment or with eGFR annualized slope can be quantified. Despite the fact that the data do not support the quantification of an exposure-response relationship, an overlap in the median [Q1, Q3] lyso-Gb3 concentrations at baseline, 24 months, and 48 months after switching from ERT to 2 mg/kg E4W was observed (see section 5.1).
 
 ## 5.3 Preclinical safety data
 
-There are no animal studies to assess the carcinogenic or mutagenic potential of Elfabrio.
+There are no animal studies to assess the carcinogenic or mutagenic potential of pegunigalsidase alfa.
 
-In the 6-month chronic toxicity study in mice, an increased incidence and/or mean severity of multifocal nephropathy and interstitial lymphocytic infiltration in the kidneys, hepatocytic vacuolation and hepatocyte necrosis in the liver, were confined to males and females administered the high-dose of 40 mg/kg/injection (3.2-fold human exposure, in terms of AUC, following a dose of 1 mg/kg); in monkeys, an increased incidence of Kupffer cell hypertrophy was noted in the liver (7.6-fold above AUC reached in humans following a dose of 1 mg/kg); all findings resolved during the recovery period.
+In the 6-month chronic toxicity study in mice, an increased incidence and/or mean severity of multifocal nephropathy and interstitial lymphocytic infiltration in the kidneys, hepatocytic vacuolation and hepatocyte necrosis in the liver, were confined to males and females administered the high-dose of 40 mg/kg/injection (3.2-fold human exposure, in terms of AUC, following a dose of 1 mg/kg); in monkeys, an increased incidence of Kupffer cell hypertrophy was noted in the liver (7.6-fold above
+
+<div style=\"page-break-after: always\"></div>
+
+AUC reached in humans following a dose of 1 mg/kg); all findings resolved during the recovery period.
 
 Animal studies demonstrated low systemic exposure in foetus (between 0.005 and 0.025% of dams' systemic exposure) and suckling pups (maximum 0.014% compared to mother's systemic exposure) following repeated treatment of the dams or mothers with pegunigalsidase alfa. Fertility and embryofoetal developmental toxicity studies did not show evidence of impaired fertility, embryotoxicity or teratogenicity. However, prenatal and postnatal developmental toxicity studies were not performed with pegunigalsidase alfa and the risks for foetus and pups during the late pregnancy and lactation are unknown.
 
@@ -342,8 +404,6 @@ Animal studies demonstrated low systemic exposure in foetus (between 0.005 and 0
 ## 6.1 List of excipients
 
 Sodium citrate tribasic dihydrate Citric acid Sodium chloride
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.2 Incompatibilities
 
@@ -375,7 +435,9 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-Elfabrio is for intravenous infusion only. Aseptic technique to be used.
+Pegunigalsidase alfa is for intravenous infusion only. Aseptic technique to be used.
+
+<div style=\"page-break-after: always\"></div>
 
 Vials are for single use only.
 
@@ -385,25 +447,31 @@ Filter needles do not have to be used during the preparation of the infusion.
 
 The number of vials to be diluted should be determined based on the individual patient's weight and the required vials should be removed from the refrigerator in order to allow them to reach room temperature (in approximately 30 minutes).
 
-Dilution
+## Dilution
 
-## 1) Determine the total number of vials required for the infusion.
+- 1) Determine the total number of vials required for the infusion.
 
 The number of vials required is based on the total dose required for each individual patient and requires calculation for weight-based dosing.
-
-<div style=\"page-break-after: always\"></div>
 
 An example calculation for total dose in an 80 kg patient prescribed 1 mg/kg is as follows:
 
 - -Patient weight (in kg) ÷ 2 = Volume of dose (in mL)
 - -Example: 80 kg patient ÷ 2 = 40 mL (volume to be withdrawn).
 - -In this example, 4 vials of the 10 mL vial (or 16 vials of the 2.5 mL vial) are needed.
+
+An example calculation for total dose in an 80 kg patient prescribed 2 mg/kg is as follows:
+
+- -Patient weight (in kg) = Volume of dose (in mL)
+- -Example: 80 kg patient = 80 mL (volume to be withdrawn).
+- -In this example, 8 vials of the 10 mL vial (or 32 vials of the 2.5 mL vial) are needed.
 - 2) Allow the required number of vials to reach room temperature prior to dilution (approximately 30 minutes).
 
-Visually inspect the vials. Do not use if cap is missing or broken. Do not use if there is particulate matter or if it is discoloured. Avoid shaking or agitating the vials.
+Visually inspect the vials. Do not use if cap is missing or broken. Do not use if there is particulate matter or if it is discoloured.
+
+Avoid shaking or agitating the vials.
 
 - 3) Remove and discard the same volume as calculated in step 1 of sodium chloride 9 mg/mL (0.9%) solution for infusion from the infusion bag.
-- 4) Withdraw the required volume of Elfabrio solution from the vials, and dilute with sodium chloride 9 mg/mL (0.9%) solution for infusion, to a total volume based on patient weight specified in Table 4 below.
+- 4) Withdraw the required volume of pegunigalsidase alfa solution from the vials, and dilute with sodium chloride 9 mg/mL (0.9%) solution for infusion, to a total volume based on patient weight specified in Table 4 below.
 
 ## Table 4: Minimum total infusion volume for patients by body weight
 
@@ -413,7 +481,9 @@ Visually inspect the vials. Do not use if cap is missing or broken. Do not use i
 | 70-100 kg        | 250 mL                          |
 | > 100 kg         | 500 mL                          |
 
-Inject the Elfabrio solution directly into the infusion bag.
+Inject the pegunigalsidase alfa solution directly into the infusion bag.
+
+<div style=\"page-break-after: always\"></div>
 
 Do NOT inject in the airspace within the infusion bag.
 
@@ -429,27 +499,17 @@ Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma Italy
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/23/1724/001 EU/1/23/1724/002 EU/1/23/1724/003
+EU/1/23/1724/001 EU/1/23/1724/002 EU/1/23/1724/003 EU/1/23/1724/004 EU/1/23/1724/005
 
-EU/1/23/1724/004
+EU/1/23/1724/006
 
-<div style=\"page-break-after: always\"></div>
-
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 4 May 2023
 
-10.
+## 10. DATE OF REVISION OF THE TEXT
 
-DATE OF REVISION OF THE TEXT
-
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency https://www.ema.europa.eu.
-
-13
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -592,8 +652,8 @@ EXP
 
 Store in a refrigerator.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -613,8 +673,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -630,6 +690,8 @@ Justification for not including Braille accepted.
 |-------|------------------------------------------|
 
 PC SN NN
+
+21
 
 <div style=\"page-break-after: always\"></div>
 
@@ -712,7 +774,11 @@ If you are treated with Elfabrio, you may experience a side effect during or imm
 - If the infusion-related reactions are severe and/or there is a loss of effect from this medicine, your doctor will perform a blood test to check for antibodies that might affect the outcome of your treatment.
 - Most of the time you can still be given Elfabrio even if you experience an infusion-related reaction.
 
-In very rare cases, your immune system may not be able to recognise Elfabrio, leading to an immunological kidney disease (glomerulonephritis membranoproliferative). During the clinical studies, only one case occurred, and the only symptoms reported were a temporary decline of renal functions with excess proteins in the urine. The symptoms resolved upon discontinuation of the treatment.
+In very rare cases, your immune system may not be able to recognise Elfabrio, leading to an immunological kidney disease (membranoproliferative glomerulonephritis). During the clinical studies, only one case occurred, and the only symptoms reported were a temporary decline of renal functions with excess proteins in the urine. The symptoms resolved upon discontinuation of the treatment.
+
+## Treatment monitoring
+
+For patients switched to Elfabrio 2 mg/kg body weight once every 4 weeks, regular monitoring (e.g.: after 3, 6, 12, 18 and 24 months) should be performed. Monitoring should include at least the evaluation of lyso-Gb3, renal (eGFR, proteinuria), cardiac (LVMi, NT-proBNP, troponin or ECG), and biochemical parameters. A change in any individual parameter should be interpreted in the context of the patient's overall clinical status, and clinically relevant deterioration should prompt re-evaluation of the treatment regimen.
 
 ## Children and adolescents
 
@@ -730,7 +796,7 @@ It is unknown whether Elfabrio is excreted in human milk. Tell your doctor if yo
 
 ## Driving and using machines
 
-Elfabrio may cause dizziness or vertigo. If you feel dizzy or vertigo on the day of treatment with Elfabrio, do not to drive or use machines until you feel better.
+Elfabrio may cause dizziness or vertigo. If you feel dizzy or vertigo or experience syncope on the day of treatment with Elfabrio, do not to drive or use machines until you feel better.
 
 ## Elfabrio contains sodium
 
@@ -740,13 +806,27 @@ This medicine contains 46 mg sodium (main component of cooking/table salt) in ea
 
 This medicine is only to be used under the supervision of a doctor experienced in the treatment of Fabry disease or other similar diseases and should only be given by a healthcare professional.
 
+<div style=\"page-break-after: always\"></div>
+
 The recommended dose is 1 mg/kg of body weight given once every two weeks.
 
-Your doctor may advice that you can be treated at home provided you meet certain criteria. Please contact your doctor if you would like to be treated at home.
+The treatment can be also administered at the dose of 2 mg/kg of body weight every four weeks in patients stable with an ERT treatment.
+
+Your doctor may advise that you can be treated at home provided you meet certain criteria. Please contact your doctor if you would like to be treated at home.
+
+## Special populations
+
+## Hepatic impairment
+
+No dose adjustment is needed in patients with hepatic impairment.
+
+## Renal impairment
+
+No dose adjustment is needed in patients with renal impairment. Renal function should be evaluated regularly during Elfabrio treatment.
+
+The presence of extensive renal damage (eGFR &lt; 60 ml/min) may limit the renal response to enzyme replacement therapy, possibly due to underlying irreversible pathological changes. In such cases, the loss of renal function remains within the expected range of the natural progression of disease. Regular evaluation of changes in the estimated glomerular filtration rate (eGFR) during Elfabrio treatment is recommended.
 
 See information for healthcare professionals at the end of this package leaflet.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
 
@@ -758,7 +838,7 @@ While under treatment with Elfabrio, you may experience some of the following re
 
 Common side effects (may affect up to 1 in 10 people)
 
-- hypersensitivity and serious allergic reaction (symptoms including excessive and prolonged contraction of the airway muscles causing breathing difficulty (bronchospasm), swelling of the face, mouth and throat, wheezing, low blood pressure, hives, difficulty swallowing, rash, shortness of breath, flushing, chest discomfort, itchiness, sneezing and nasal congestion)
+- hypersensitivity and serious allergic reaction (symptoms including excessive and prolonged contraction of the airway muscles causing breathing difficulty (bronchospasm), swelling of the face, mouth and throat, wheezing, low blood pressure, hives, difficulty swallowing, rash, shortness of breath, flushing, chest discomfort, itchiness, nausea, chills, sneezing and nasal congestion)
 
 If these side effects happen, immediately seek medical attention and stop the infusion. Your doctor will give you medical treatment if required.
 
@@ -774,6 +854,9 @@ Common (may affect up to 1 in 10 people)
 - dizziness
 - pain
 - chest pain
+
+<div style=\"page-break-after: always\"></div>
+
 - headache
 - muscle and joint pain
 - sensations like numbness, tingling, or pins and needles (paraesthesia)
@@ -786,28 +869,27 @@ Common (may affect up to 1 in 10 people)
 - alteration of the normal heart rhythm
 - agitation
 
-Uncommon (may affect up to 1 in 100 people)
+## Uncommon (may affect up to 1 in 100 people)
 
 - shaking (tremor)
 - high blood pressure (hypertension)
 - bronchospasm (contraction of the bronchial muscles causing obstruction of breathing airways) and difficult breathing
 - throat irritation
+- throat tightness
 - increased body temperature
 - difficulty sleeping (insomnia)
 - restless legs syndrome
 - nerve damage in arms and legs causing pain or numbness, burning and tingling (peripheral neuropathy)
 - nerve pain (neuralgia)
 - burning sensation
-
-<div style=\"page-break-after: always\"></div>
-
+- syncope
 - flushing
 - disease where stomach acid goes upwards into the oesophagus (gastro-oesophageal reflux disease)
 - inflammation of the stomach lining (dyspepsia)
 - indigestion
 - gas (flatulence)
 - diminished sweating (hypohydrosis)
-- immunological kidney disease causing excess protein in the urine and renal malfunctioning (glomerulonephritis membranoproliferative)
+- immunological kidney disease causing excess protein in the urine and renal malfunctioning (membranoproliferative glomerulonephritis)
 - chronic kidney disease
 - excess protein in the urine (proteinuria)
 - tissue damage because the medicine that is normally infused into a vein leaks or is accidentally infused into the surrounding tissue (infusion site extravasation)
@@ -816,15 +898,15 @@ Uncommon (may affect up to 1 in 100 people)
 - influenza-like illness
 - nasal congestion and sneezing
 - infusion site pain
-- increased liver enzymes and uric acid in the blood, increased urine protein/creatinine ratio, white blood cells in the urine, as tested in the laboratory
+- increased uric acid in the blood, increased urine protein/creatinine ratio, white blood cells in the urine, as tested in the laboratory
 - weight increase
 - low blood pressure (hypotension)
-- slow heart rate (bradycardia)
-- thickening of the wall within the ventricle in the heart
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Elfabrio
 
@@ -845,9 +927,6 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Elfabrio contains
 
 - -The active substance is pegunigalsidase alfa. Each vial contains 20 mg pegunigalsidase alfa in 10 mL or 5 mg pegunigalsidase alfa in 2.5 mL (2 mg/mL)
-
-<div style=\"page-break-after: always\"></div>
-
 - -The other ingredients are: tribasic dihydrate sodium citrate, citric acid, and sodium chloride (see section 2 'Elfabrio contains sodium').
 
 ## What Elfabrio looks like and contents of the pack
@@ -868,143 +947,125 @@ Chiesi Farmaceutici S.p.A. Via San Leonardo 96 43122 Parma Italy
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
+België/Belgique/Belgien Chiesi sa/nv Tél/Tel: + 32 (0)2 788 42 00
 
-Chiesi sa/nv
+Lietuva
 
-Tél/Tel: + 32 (0)2 788 42 00
-
-## Lietuva
-
-Chiesi Pharmaceuticals GmbH
-
-Tel: + 43 1 4073919
-
-## България
-
-ExCEEd Orphan Distribution d.o.o.
-
-Тел
-
-.: +359 87 663 1858
-
-## Luxembourg/Luxemburg
-
-Chiesi sa/nv
-
-Tél/Tel: + 32 (0)2 788 42 00
-
-## Česká republika
-
-Chiesi CZ s.r.o.
-
-Tel: + 420 261221745
-
-## Magyarország
-
-ExCEEd Orphan Distribution d.o.o.
-
-Tel.: +36 70 612 7768
-
-## Danmark
-
-Chiesi Pharma AB
-
-Tlf: + 46 8 753 35 20
-
-## Malta
-
-Chiesi Farmaceutici S.p.A.
-
-Tel: + 39 0521 2791
-
-## Deutschland
-
-Chiesi GmbH
-
-Tel: + 49 40 89724-0
-
-## Nederland
-
-Chiesi Pharmaceuticals B.V.
-
-Tel: + 31 88 501 64 00
-
-## Eesti
-
-Chiesi Pharmaceuticals GmbH
-
-Tel: + 43 1 4073919
-
-## Norge
-
-Chiesi Pharma AB
-
-Tlf: + 46 8 753 35 20
-
-## Ελλάδα
-
-Chiesi Hellas AEBE
-
-Τηλ
-
-: + 30 210 6179763
-
-## Österreich
-
-Chiesi Pharmaceuticals GmbH
-
-Tel: + 43 1 4073919
+Chiesi Pharmaceuticals GmbH Tel: + 43 1 4073919
 
 <div style=\"page-break-after: always\"></div>
 
+## България
+
+ExCEEd Orphan Distribution d.o.o. Тел .: +359 87 663 1858
+
+## Česká republika
+
+Chiesi CZ s.r.o. Tel: + 420 261221745
+
+## Danmark
+
+Chiesi Pharma AB Tlf: + 46 8 753 35 20
+
+## Deutschland
+
+Chiesi GmbH Tel: + 49 40 89724-0
+
+## Eesti
+
+Chiesi Pharmaceuticals GmbH Tel: + 43 1 4073919
+
+## Ελλάδα
+
+Chiesi Hellas AEBE Τηλ : + 30 210 6179763
+
 ## España
 
-Chiesi España, S.A.U.
-
-Tel: + 34 934948000
+Chiesi España, S.A.U. Tel: + 34 934948000
 
 ## France
 
-Chiesi S.A.S.
-
-Tél: + 33 1 47688899
+Chiesi S.A.S. Tél: + 33 1 47688899
 
 ## Hrvatska
 
-Chiesi Pharmaceuticals GmbH
-
-Tel: + 43 1 4073919
+Chiesi Pharmaceuticals GmbH Tel: + 43 1 4073919
 
 ## Ireland
 
-Chiesi Farmaceutici S.p.A.
-
-Tel: + 39 0521 2791
+Chiesi Farmaceutici S.p.A. Tel: + 39 0521 2791
 
 ## Ísland
 
-Chiesi Pharma AB
-
-Sími: +46 8 753 35 20
+Chiesi Pharma AB Sími: +46 8 753 35 20
 
 ## Italia
 
-Chiesi Italia S.p.A.
-
-Tel: + 39 0521 2791
+Chiesi Italia S.p.A. Tel: + 39 0521 2791
 
 ## Κύπρος
 
-Chiesi Farmaceutici S.p.A.
-
-Τηλ: + 39 0521 2791
+Chiesi Farmaceutici S.p.A. Τηλ: + 39 0521 2791
 
 ## Latvija
 
-Chiesi Pharmaceuticals GmbH
+Chiesi Pharmaceuticals GmbH Tel: + 43 1 4073919
 
-Tel: + 43 1 4073919
+## Luxembourg/Luxemburg
+
+Chiesi sa/nv Tél/Tel: + 32 (0)2 788 42 00
+
+## Magyarország
+
+ExCEEd Orphan Distribution d.o.o. Tel.: +36 70 612 7768
+
+## Malta
+
+Chiesi Farmaceutici S.p.A. Tel: + 39 0521 2791
+
+## Nederland
+
+Chiesi Pharmaceuticals B.V. Tel: + 31 88 501 64 00
+
+## Norge
+
+Chiesi Pharma AB Tlf: + 46 8 753 35 20
+
+## Österreich
+
+Chiesi Pharmaceuticals GmbH Tel: + 43 1 4073919
+
+## Polska
+
+ExCEEd Orphan Distribution d.o.o. Tel.: +48 799 090 131
+
+## Portugal
+
+Chiesi Farmaceutici S.p.A. Tel: + 39 0521 2791
+
+## România
+
+Chiesi Romania S.R.L. Tel: + 40 212023642
+
+## Slovenija
+
+CHIESI SLOVENIJA, d.o.o.
+
+Tel: + 386-1-43 00 901
+
+## Slovenská republika
+
+Chiesi Slovakia s.r.o. Tel: + 421 259300060
+
+## Suomi/Finland
+
+Chiesi Pharma AB Puh/Tel: +46 8 753 35 20
+
+## Sverige
+
+Chiesi Pharma AB Tel: +46 8 753 35 20
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -1028,50 +1089,11 @@ An example calculation for total dose in an 80 kg patient prescribed 1 mg/kg is 
 - -Example: 80 kg patient ÷ 2 = 40 mL (volume to be withdrawn).
 - -In this example, 4 vials of the 10 mL vial (or 16 vials of the 2.5 mL vial) are needed.
 
-## Polska
+An example calculation for total dose in an 80 kg patient prescribed 2 mg/kg is as follows:
 
-ExCEEd Orphan Distribution d.o.o.
-
-Tel.: +48 799 090 131
-
-## Portugal
-
-Chiesi Farmaceutici S.p.A.
-
-Tel: + 39 0521 2791
-
-## România
-
-Chiesi Romania S.R.L.
-
-Tel: + 40 212023642
-
-## Slovenija
-
-CHIESI SLOVENIJA, d.o.o.
-
-Tel: + 386-1-43 00 901
-
-## Slovenská republika
-
-Chiesi Slovakia s.r.o.
-
-Tel: + 421 259300060
-
-## Suomi/Finland
-
-Chiesi Pharma AB
-
-Puh/Tel: +46 8 753 35 20
-
-## Sverige
-
-Chiesi Pharma AB
-
-Tel: +46 8 753 35 20
-
-<div style=\"page-break-after: always\"></div>
-
+- -Patient weight (in kg) = Volume of dose (in mL)
+- -Example: 80 kg patient = 80 mL (volume to be withdrawn).
+- -In this example, 8 vials of the 10 mL vial (or 32 vials of the 2.5 mL vial) are needed.
 - 2) Allow the required number of vials to reach room temperature prior to dilution (approximately 30 minutes).
 
 Visually inspect the vials. Do not use if cap is missing or broken. Do not use if there is particulate matter or if it is discoloured. Avoid shaking or agitating the vials.
@@ -1087,8 +1109,4 @@ Visually inspect the vials. Do not use if cap is missing or broken. Do not use i
 | 70-100 kg        | 250 mL                          |
 | > 100 kg         | 500 mL                          |
 
-Inject the Elfabrio solution directly into the infusion bag.
-
-Do NOT inject in the airspace within the infusion bag.
-
-Gently invert the infusion bag to mix the solution, avoiding vigorous shaking and agitation. The diluted solution should be administered using an inline low protein binding 0.2 μm filter.
+Inject the Elfabrio solution directly into the infusion bag. Do NOT inject in the airspace within the infusion bag. Gently invert the infusion bag to mix the solution, avoiding vigorous shaking and agitation. The diluted solution should be administered using an inline low protein binding 0.2 μm filter.

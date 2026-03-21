@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-01 16:20:47
+document_datetime: 2026-03-20 15:23:38
 document_pages: 74
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/adcetris-epar-product-information_en.pdf
 document_name: adcetris-epar-product-information_en.pdf
 version: success
-processing_time: 36.028384
-conversion_datetime: 2025-12-29 20:30:53.564507
+processing_time: 31.1347197
+conversion_datetime: 2026-03-21 14:23:48.190586
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.14.3
+  docling-jobkit: 1.13.0
+  docling: 2.81.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -186,7 +186,7 @@ Table 3: Dosing recommendations for brentuximab vedotin for haematotoxicities du
 
 In patients receiving the BrECADD regimen, if one or more events occur in a given cycle, dose is reduced to the level below and continue for next cycles.
 
-If events occur in two successive cycles, the dose is reduced to baseline level (see Table 4). Events include leukopenia for more than 4 days, thrombocytopenia on one or more days, infection CTCAE Grade 4, other CTCAE grade toxicities, and treatment delay of more than 2 weeks due to inadequate recovery of blood values.
+If events occur in two successive cycles, the dose is reduced to baseline level (see Table 4). Events include leukopenia for more than 4 days, thrombocytopenia on one or more days, infection CTCAE Grade 4, other CTCAE Grade 4 toxicities, and treatment delay of more than 2 weeks due to inadequate recovery of blood values.
 
 Table 4: Starting dose and dose reduction levels for BrECADD treatment regimen
 
@@ -463,7 +463,7 @@ The safety data in patients with relapsed or refractory HL who had not received 
 
 For safety information of chemotherapy agents given in combination with ADCETRIS (doxorubicin, vinblastine and dacarbazine (AVD) or cyclophosphamide, doxorubicin and prednisone (CHP)), refer to their summary of product characteristics.
 
-In the studies of ADCETRIS as combination therapy in 662 patients with previously untreated advanced HL (C25003) and 223 patients with previously untreated CD30+ peripheral T-cell lymphoma (PTCL) (SGN35014), the most common adverse reactions (≥ 10%) were: infections, neutropenia, peripheral sensory neuropathy, nausea, constipation, vomiting, diarrhoea, fatigue, pyrexia, alopecia, anaemia, weight decreased, stomatitis, febrile neutropenia, abdominal pain, decreased appetite, insomnia, bone pain, rash, cough, dyspnoea, arthralgia, myalgia, back pain, peripheral motor neuropathy, upper respiratory tract infection, and dizziness.
+In the studies of ADCETRIS as combination therapy in 662 patients with previously untreated advanced HL (C25003) and 223 patients with previously untreated CD30+ peripheral T-cell lymphoma (PTCL) (SGN35-014), the most common adverse reactions (≥ 10%) were: infections, neutropenia, peripheral sensory neuropathy, nausea, constipation, vomiting, diarrhoea, fatigue, pyrexia, alopecia, anaemia, weight decreased, stomatitis, febrile neutropenia, abdominal pain, decreased appetite, insomnia, bone pain, rash, cough, dyspnoea, arthralgia, myalgia, back pain, peripheral motor neuropathy, upper respiratory tract infection, and dizziness.
 
 In patients receiving ADCETRIS combination therapy, serious adverse reactions occurred in 34% of patients. Serious adverse reactions occurring in ≥ 3% of patients included febrile neutropenia (15%), pyrexia (5%), and neutropenia (3%).
 
@@ -471,7 +471,7 @@ Adverse events led to treatment discontinuation in 10% of patients. Adverse even
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions for ADCETRIS are listed by MedDRA System Organ Class and Preferred Term (see Table 7). Within each System Organ Class, adverse reactions are listed under frequency categories of: v ery common (≥ 1/10); c ommon (≥ 1/100 to &lt; 1/10); u ncommon (≥ 1/1 000 to &lt; 1/100); r are (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+Adverse reactions for ADCETRIS are listed by MedDRA System Organ Class and Preferred Term (see Table 7). Within each System Organ Class, adverse reactions are listed under frequency categories of: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 Table 7: Adverse reactions to ADCETRIS
 
@@ -696,26 +696,26 @@ The efficacy and safety of ADCETRIS were evaluated in a randomised, open-label, 
 
 Table 8: Summary of baseline patient and disease characteristics in the phase 3 previously untreated HL study
 
-| Patient Characteristics                                                                                      | ADCETRIS + AVD n = 664       | ABVD n = 670                 |
-|--------------------------------------------------------------------------------------------------------------|------------------------------|------------------------------|
-| Median age (range)                                                                                           | 35 years (18-82)             | 37 years (18-83)             |
-| Patients ≥ 65 years old n (%)                                                                                | 60 (9)                       | 62 (9)                       |
-| Gender, n (%) ECOG status, n (%) 0                                                                           | 378M (57) 286F (43) 376 (57) | 398M (59) 272F (41) 378 (57) |
-| 1 2                                                                                                          | 260 (39) (4)                 | 263 (39) 27 (4) 2            |
-| Median time from HL diagnosis to first dose (range) Disease stage a at initial diagnosis of HL, n (%) III IV | 0 0.92 mo (0.1-21.4)         | 0.89 mo (0.0-81.4)           |
-| Disease Characteristics                                                                                      | 28                           |                              |
-| Missing                                                                                                      |                              |                              |
-| Not applicable Missing Extranodal involvement at time of diagnosis, n (%) IPFP b risk factors, n (%) 0-1     | 237 (36) 425 (64)            | 246 (37)                     |
-|                                                                                                              | 1 (< 1)                      | 421 (63)                     |
-|                                                                                                              | 0                            | 2 (< 1 )                     |
-|                                                                                                              |                              | 1 (< 1)                      |
-|                                                                                                              | 411 (62)                     | 416 (62)                     |
-|                                                                                                              | 141 (21)                     |                              |
-|                                                                                                              |                              | 141 (21)                     |
-| 2-3                                                                                                          | 354 (53)                     | 351 (52)                     |
-| 4-7                                                                                                          | 169 (25)                     | 178 (27)                     |
-| Bone marrow involvement at time of diagnosis or study entry, n (%)                                           | 147(22)                      | 151 (23)                     |
-| B symptoms a n (%)                                                                                           | 400 (60)                     | 381 (57)                     |
+| Patient Characteristics                                                                                                       | ADCETRIS + AVD n = 664   | ABVD n = 670             |
+|-------------------------------------------------------------------------------------------------------------------------------|--------------------------|--------------------------|
+| Median age (range)                                                                                                            | 35 years (18-82)         | 37 years (18-83)         |
+| Patients ≥ 65 years old n (%)                                                                                                 | 60 (9)                   | 62 (9)                   |
+| Gender, n (%) ECOG status, n (%) 0                                                                                            | 378M (57) 286F (43)      | 398M (59) 272F (41)      |
+| 1                                                                                                                             | 376 (57) 260 (39)        | 378 (57) 263 (39) 27 (4) |
+| Disease Characteristics Median time from HL diagnosis to first dose (range) Disease stage a at initial diagnosis of HL, n (%) |                          |                          |
+| 2                                                                                                                             | 28 (4)                   |                          |
+| Missing                                                                                                                       | 0                        | 2                        |
+|                                                                                                                               | 0.92 mo (0.1-21.4)       | 0.89 mo (0.0-81.4)       |
+| III IV Not applicable Missing                                                                                                 | 237 (36) 425 (64)        | 246 (37) 421 (63)        |
+| Extranodal involvement at time                                                                                                |                          | 1 (< 1)                  |
+|                                                                                                                               | 1 (< 1)                  |                          |
+|                                                                                                                               | 0 411 (62)               | 2 (< 1 ) 416 (62)        |
+| of diagnosis, n (%) IPFP b risk factors, n (%)                                                                                |                          |                          |
+| 0-1                                                                                                                           | 141 (21)                 | 141 (21)                 |
+| 2-3                                                                                                                           | 354 (53)                 | 351 (52)                 |
+| 4-7                                                                                                                           | 169 (25)                 | 178 (27)                 |
+| Bone marrow involvement at time of diagnosis or study entry, n (%)                                                            | 147(22)                  | 151 (23)                 |
+| B symptoms a n (%)                                                                                                            | 400 (60)                 | 381 (57)                 |
 
 a. Per Ann Arbor Staging.
 
@@ -768,29 +768,25 @@ Table 10 provides a summary of the baseline patient and disease characteristics.
 
 Table 10: Summary of baseline patient and disease characteristics in the phase 3 previously untreated HL study
 
-| Patient Characteristics                                | BrECADD n = 751   | eBEACOPP n = 749   |
-|--------------------------------------------------------|-------------------|--------------------|
-| Median age (range)                                     | 31 years (18-60)  | 31 years (18-60)   |
-| Patients < 45 years old, n (%)                         | 590 (79)          | 584 (78)           |
-| Patients aged 45 to 60 years old, n (%)                | 161 (21)          | 165 (22)           |
-| Gender, n (%)                                          | 419M (56)         | 419M (56)          |
-|                                                        | 332F (44)         | 330F (44)          |
-| ECOG status, n (%)                                     |                   |                    |
-| 0                                                      | 514 (68)          | 521 (70)           |
-| 1                                                      | 223 (30)          | 205 (27)           |
-| 2                                                      | 11 (1)            | 18 (2)             |
-| Missing                                                | 3 (< 1)           | 5 (< 1)            |
-| Disease Characteristics                                |                   |                    |
-| Median time from HL diagnosis to randomization (range) | 0.6 mo (0,12)     | 0.6 mo (0,10)      |
-| Disease stage a at initial diagnosis of HL, n (%)      |                   |                    |
-| II                                                     | 118 (16)          | 117 (16)           |
-| III                                                    | 298 (40)          | 293 (39)           |
-| IV                                                     | 332 (44)          | 334 (45)           |
-| Missing                                                | 3 (< 1)           | 5 (< 1)            |
-| IPS b Groups, n (%)                                    |                   |                    |
-| 0-2                                                    | 394 (52)          | 403 (54)           |
-| 3-7                                                    | 357 (48)          | 346 (46)           |
-| B symptoms a n (%)                                     | 517 (69)          | 501 (67)           |
+| Patient Characteristics                                                        | BrECADD n = 751   | eBEACOPP n = 749   |
+|--------------------------------------------------------------------------------|-------------------|--------------------|
+| Median age (range)                                                             | 31 years (18-60)  | 31 years (18-60)   |
+| Patients < 45 years old, n (%)                                                 | 590 (79)          | 584 (78)           |
+| Patients aged 45 to 60 years old, n (%)                                        | 161 (21)          | 165 (22)           |
+| Gender, n (%)                                                                  | 419M (56)         | 419M (56)          |
+|                                                                                | 332F (44)         | 330F (44)          |
+| ECOG status, n (%) 0                                                           | 514 (68)          | 521 (70)           |
+| 1 2                                                                            | 223 (30)          | 205 (27)           |
+|                                                                                | 11 (1)            | 18 (2)             |
+| Missing                                                                        | 3 (< 1)           | 5 (< 1)            |
+| Disease Characteristics Median time from HL diagnosis to randomization (range) | 0.6 mo (0,12)     | 0.6 mo (0,10)      |
+| Disease stage a at initial diagnosis of HL, n (%) II                           | 118 (16)          | 117 (16)           |
+| III                                                                            | 298 (40)          | 293 (39)           |
+| IV                                                                             | 332 (44)          | 334 (45)           |
+| Missing                                                                        | 3 (< 1)           | 5 (< 1)            |
+| IPS b Groups, n (%)                                                            |                   | 403 (54)           |
+| 0-2 3-7                                                                        | 394 (52) 357 (48) | 346 (46)           |
+| B symptoms a n (%)                                                             | 517 (69)          | 501 (67)           |
 
 Study HD21 was designed with 2 co-primary endpoints (Treatment Related Morbidity [TRMB] and PFS [per investigator with central confirmation]). The first co-primary objective of the study was to demonstrate reduced toxicity of BrECADD compared with eBEACOPP, measured by TRMB. If reduced toxicity was shown by superiority test, the second co-primary objective was to further demonstrate non-inferior efficacy of BrECADD compared with eBEACOPP in terms of PFS.
 
@@ -953,9 +949,19 @@ Post-hoc analyses were performed for the primary analysis of the primary endpoin
 
 The results of these post-hoc analyses suggest increased clinical benefit for patients with two or more risk factors but no difference based on any of the individual risk factors. No benefit in terms of PFS or OS has been observed in patients with one risk factor for relapse or progression.
 
+1763
+
+9.64
+
+999
+
+3(64)
+
 2(65)
 
-0 671
+166
+
+0:67)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -977,13 +983,13 @@ Table 15: Summary of PFS per IRF and OS by number of risk factors in the phase 3
 
 At the time of the updated analysis (3 years of follow-up) for patients with 2 or more risk factors, the hazard ratio for PFS per IRF was 0.49 (95% CI [0.34, 0.71]) and the hazard ratio for PFS per investigator was 0.41 (95% CI [0.29, 0.58]) (see Figures 4 and 5).
 
-Figure 4: KaplanMeier Plot of PFS per IRF in Patients with ≥ 2 Risk Factors (3-year follow-up)
+Figure 4: Kaplan-Meier Plot of PFS per IRF in Patients with ≥ 2 Risk Factors (3-year follow-up)
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 5: KaplanMeier Plot of PFS per Investigator in Patients with ≥ 2 Risk Factors (3-year follow-up)
+Figure 5: Kaplan-Meier Plot of PFS per Investigator in Patients with ≥ 2 Risk Factors (3-year follow-up)
 
 <!-- image -->
 
@@ -1076,53 +1082,53 @@ The efficacy and safety of ADCETRIS were evaluated in a randomised, double-blind
 
 <div style=\"page-break-after: always\"></div>
 
-CHP (cyclophosphamide 750 mg/m 2  every 3 weeks by IV infusion; doxorubicin 50 mg/m 2 every 3 weeks by IV infusion; and prednisone 100 mg on Days 1 to 5 of each 3-week cycle, orally) for 6 to 8 cycles. The median number of cycles received was 6 (range, 1 to 8 cycles); 70% of patients received 6 cycles of treatment, and 18% received 8 cycles of treatment. Table 18 provides a summary of baseline patient and disease characteristics.
+CHP (cyclophosphamide 750 mg/m 2  every 3 weeks by IV infusion; doxorubicin 50 mg/m 2  every 3 weeks by IV infusion; and prednisone 100 mg on Days 1 to 5 of each 3-week cycle, orally) for 6 to 8 cycles. The median number of cycles received was 6 (range, 1 to 8 cycles); 70% of patients received 6 cycles of treatment, and 18% received 8 cycles of treatment. Table 18 provides a summary of baseline patient and disease characteristics.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 18: Summary of baseline patient and disease characteristics in the phase 3 previously untreated PTCL study (ITT and sALCL)
 
-|                                                   | ITT Population         | ITT Population   | sALCL Population b     | sALCL Population b   |
-|---------------------------------------------------|------------------------|------------------|------------------------|----------------------|
-| Patient characteristics                           | ADCETRIS + CHP n = 226 | CHOP n = 226     | ADCETRIS + CHP n = 162 | CHOP n = 154         |
-| Median age (range)                                | 58.0 (18-85)           | 58.0 (18-83)     | 55.0 (18-85)           | 54.0 (18-83)         |
-| Patients ≥ 65 years old (%)                       | 69 (31)                | 70 (31)          | 38 (23)                | 36 (23)              |
-| Male sex, n (%)                                   | 133 (59)               | 151 (67)         | 95 (59)                | 110 (71)             |
-| ECOG status, n (%)                                |                        |                  |                        |                      |
-| 0                                                 | 84 (37)                | 93 (41)          | 58 (36)                | 53 (34)              |
-| 1                                                 | 90 (40)                | 86 (38)          | 62 (38)                | 61 (40)              |
-| 2                                                 | 51 (23)                | 47 (21)          | 41 (25)                | 40 (26)              |
-| Disease characteristics                           |                        |                  |                        |                      |
-| Diagnosis, per local assessment, n (%) a          |                        |                  |                        |                      |
-| sALCL                                             | 162 (72)               | 154 (68)         | 162 (100)              | 154 (100)            |
-| ALK-positive                                      | 49 (22)                | 49 (22)          | 49 (30)                | 49 (32)              |
-| ALK-negative                                      | 113 (50)               | 105 (46)         | 113 (70)               | 105 (68)             |
-| Peripheral T-cell lymphoma (PTCL-NOS)             | 29 (13)                | 43 (19)          | NA                     | NA                   |
-| Angioimmunoblastic T-cell                         | 30 (13)                | 24 (11)          | NA                     | NA                   |
-| Adult T-cell leukemia/lymphoma (ATLL)             | 4 (2)                  | 3 (1)            | NA                     | NA                   |
-| Enteropathy-associated T-cell                     | 1 (0)                  | 2 (1)            | NA                     | NA                   |
-| lymphoma (EATL) to first                          | 0.8 (0, 19)            | 0.9 (0, 10)      | 0.8 (0, 19)            | 0.9 (0, 10)          |
-| Median time from diagnosis dose, months (range)   |                        |                  |                        |                      |
-| Disease stage at initial diagnosis of PTCL, n (%) |                        |                  |                        |                      |
-| Stage I                                           | 12 (5)                 | 9 (4)            | 12 (7)                 | 7 (5)                |
-| Stage II                                          | 30 (13)                | 37 (16)          | 22 (14)                | 27 (18)              |
-| Stage III                                         | 57 (25)                | 67 (30)          | 29 (18)                | 46 (30)              |
-| Stage IV                                          | 127 (56)               | 113 (50)         | 99 (61)                | 74 (48)              |
-| IPI score                                         |                        |                  |                        |                      |
-| 0                                                 | 8 (4)                  | 16 (7)           | 7 (4)                  | 14 (9)               |
-| 1                                                 | 45 (20)                | 32 (14)          | 34 (21)                | 18 (12)              |
-| 2                                                 | 74 (33)                | 78 (35)          | 58 (36)                | 60 (39)              |
-| 3                                                 | 66 (29)                | 66 (29)          | 37 (23)                | 40 (26)              |
-| 4                                                 | 29 (13)                | 25 (11)          | 22 (14)                | 16 (10)              |
-| 5                                                 | 4 (2)                  | 9 (4)            | 4 (2)                  | 6 (4)                |
-| Extranodal involvement at time of                 |                        |                  |                        |                      |
-| diagnosis, n (%)                                  |                        |                  |                        |                      |
-| ≤ 1 site                                          | 142 (63)               | 146 (65)         | 94 (58)                | 95 (62)              |
-| > 1 site                                          | 84 (37)                | 80 (35)          | 68 (42)                | 59 (38)              |
-| Baseline bone marrow biopsy-                      |                        |                  |                        |                      |
-| lymphoma involvement, n (%)                       |                        |                  |                        |                      |
-| Yes                                               | 30 (13)                | 34 (15)          | 15 (9)                 | 13 (8)               |
-| No                                                | 196 (87)               | 192 (85)         | 147 (91)               | 141 (92)             |
+|                                                     | ITT Population         | ITT Population   | sALCL Population b     | sALCL Population b   |
+|-----------------------------------------------------|------------------------|------------------|------------------------|----------------------|
+| Patient characteristics                             | ADCETRIS + CHP n = 226 | CHOP n = 226     | ADCETRIS + CHP n = 162 | CHOP n = 154         |
+| Median age (range)                                  | 58.0 (18-85)           | 58.0 (18-83)     | 55.0 (18-85)           | 54.0 (18-83)         |
+| Patients ≥ 65 years old (%)                         | 69 (31)                | 70 (31)          | 38 (23)                | 36 (23)              |
+| Male sex, n (%)                                     | 133 (59)               | 151 (67)         | 95 (59)                | 110 (71)             |
+| ECOG status, n (%)                                  |                        |                  |                        |                      |
+| 0                                                   | 84 (37)                | 93 (41)          | 58 (36)                | 53 (34)              |
+| 1                                                   | 90 (40)                | 86 (38)          | 62 (38)                | 61 (40)              |
+| 2                                                   | 51 (23)                | 47 (21)          | 41 (25)                | 40 (26)              |
+| Disease characteristics                             |                        |                  |                        |                      |
+| Diagnosis, per local assessment, n (%) a            |                        |                  |                        |                      |
+| sALCL                                               | 162 (72)               | 154 (68)         | 162 (100)              | 154 (100)            |
+| ALK-positive                                        | 49 (22)                | 49 (22)          | 49 (30)                | 49 (32)              |
+| ALK-negative                                        | 113 (50)               | 105 (46)         | 113 (70)               | 105 (68)             |
+| Peripheral T-cell lymphoma (PTCL-NOS)               | 29 (13)                | 43 (19)          | NA                     | NA                   |
+| Angioimmunoblastic T-cell                           | 30 (13)                | 24 (11)          | NA                     | NA                   |
+| Adult T-cell leukemia/lymphoma (ATLL)               | 4 (2)                  | 3 (1)            | NA                     | NA                   |
+| Enteropathy-associated T-cell                       | 1 (0)                  | 2 (1)            | NA                     | NA                   |
+| lymphoma (EATL) Median time from diagnosis to first | 0.8 (0, 19)            | 0.9 (0, 10)      | 0.8 (0, 19)            | 0.9 (0, 10)          |
+| dose, months (range)                                |                        |                  |                        |                      |
+| Disease stage at initial diagnosis of PTCL, n (%)   |                        |                  |                        |                      |
+| Stage I                                             | 12 (5)                 | 9 (4)            | 12 (7)                 | 7 (5)                |
+| Stage II                                            | 30 (13)                | 37 (16)          | 22 (14)                | 27 (18)              |
+| Stage III                                           | 57 (25)                | 67 (30)          | 29 (18)                | 46 (30)              |
+| Stage IV                                            | 127 (56)               | 113 (50)         | 99 (61)                | 74 (48)              |
+| IPI score                                           |                        |                  |                        |                      |
+| 0                                                   | 8 (4)                  | 16 (7)           | 7 (4)                  | 14 (9)               |
+| 1                                                   | 45 (20)                | 32 (14)          | 34 (21)                | 18 (12)              |
+| 2                                                   | 74 (33)                | 78 (35)          | 58 (36)                | 60 (39)              |
+| 3                                                   | 66 (29)                | 66 (29)          | 37 (23)                | 40 (26)              |
+| 4                                                   | 29 (13)                | 25 (11)          | 22 (14)                | 16 (10)              |
+| 5                                                   | 4 (2)                  | 9 (4)            | 4 (2)                  | 6 (4)                |
+| Extranodal involvement at time of                   |                        |                  |                        |                      |
+| diagnosis, n (%)                                    |                        |                  |                        |                      |
+| ≤ 1 site                                            | 142 (63)               | 146 (65)         | 94 (58)                | 95 (62)              |
+| > 1 site                                            | 84 (37)                | 80 (35)          | 68 (42)                | 59 (38)              |
+| Baseline bone marrow biopsy-                        |                        |                  |                        |                      |
+| lymphoma involvement, n (%)                         |                        |                  |                        |                      |
+| Yes                                                 | 30 (13)                | 34 (15)          | 15 (9)                 | 13 (8)               |
+| No                                                  | 196 (87)               | 192 (85)         | 147 (91)               | 141 (92)             |
 
 The primary endpoint in SGN35-014 was PFS per IRF, defined as the time from the date of randomisation to the date of first documentation of progressive disease, death due to any cause, or
 
@@ -1205,22 +1211,22 @@ The efficacy and safety of ADCETRIS as a single agent was evaluated in an open-l
 
 Table 20: Summary of baseline patient and disease characteristics in the phase 2 relapsed or refractory sALCL study
 
-| Patient characteristics                            | n = 58                               |
-|----------------------------------------------------|--------------------------------------|
-| Median age, years (range) Gender ECOG status a 0 1 | 52 years (14-76) 33M (57%)/25F (43%) |
-|                                                    | 19 (33%)                             |
-|                                                    | 38 (66%)                             |
-| Prior ASCT                                         | 15 (26%)                             |
-| Prior chemotherapy Regimens (range)                | 2 (1-6)                              |
-| Histologically confirmed CD30-expressing disease   | 57 (98%)                             |
-| Anaplastic lymphoma kinase (ALK)-negative disease  | 42 (72%)                             |
-| Disease characteristics                            |                                      |
-| Primary Refractory to frontline therapy b          | 36 (62%)                             |
-| Refractory to most recent therapy                  | 29 (50%)                             |
-| Relapsed to most recent therapy                    | 29 (50%)                             |
-| Baseline B symptoms                                | 17 (29%)                             |
-| Stage III at initial diagnosis                     | 8 (14%)                              |
-| Stage IV at initial diagnosis                      | 21 (36%)                             |
+| Patient characteristics                           | n = 58                               |
+|---------------------------------------------------|--------------------------------------|
+| Median age, years (range) Gender ECOG status a    | 52 years (14-76) 33M (57%)/25F (43%) |
+| 0                                                 | 19 (33%)                             |
+| 1                                                 | 38 (66%)                             |
+| Prior ASCT                                        | 15 (26%)                             |
+| Prior chemotherapy Regimens (range)               | 2 (1-6)                              |
+| Histologically confirmed CD30-expressing disease  | 57 (98%)                             |
+| Anaplastic lymphoma kinase (ALK)-negative disease | 42 (72%)                             |
+| Disease characteristics                           |                                      |
+| Primary Refractory to frontline therapy b         | 36 (62%)                             |
+| Refractory to most recent therapy                 | 29 (50%)                             |
+| Relapsed to most recent therapy                   | 29 (50%)                             |
+| Baseline B symptoms                               | 17 (29%)                             |
+| Stage III at initial diagnosis                    | 8 (14%)                              |
+| Stage IV at initial diagnosis                     | 21 (36%)                             |
 
 a. One patient had a baseline ECOG status of 2, which was prohibited by protocol and is captured as Inclusion Criteria Not Met.
 
@@ -1288,11 +1294,11 @@ Table 22: Summary of baseline patient and disease characteristics in the phase 3
 |-----------------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------|
 | Median age (range) Patients ≥ 65 years old n (%) Gender n (%) ECOG status n (%) 0 | 62 years (22-83) 28 (44%) 33M (52%)/31F (48%) 43 (67) | 58.5 years (22-83) 24 (38%) 37M (58%)/27F (42%)          |
 | Disease                                                                           |                                                       |                                                          |
-| number of prior therapies                                                         | 4 (0-13)                                              | 46 (72)                                                  |
+| Median number of prior therapies                                                  | 4 (0-13)                                              | 46 (72)                                                  |
 | 1                                                                                 | 18 (28)                                               | 16 (25)                                                  |
 | 2                                                                                 | 3 (5)                                                 | 2 (3)                                                    |
 | characteristics                                                                   |                                                       |                                                          |
-| Median (range)                                                                    |                                                       | 3.5 (1-15)                                               |
+| (range)                                                                           |                                                       | 3.5 (1-15)                                               |
 | Median number of skin-directed therapies (range)                                  | 1 (0-6)                                               | 1 (0-9)                                                  |
 | Median number of systemic therapies (range)                                       | 2 (0-11)                                              | 2 (1-8)                                                  |
 | MF, n (%)                                                                         | 48 (75)                                               | 49 (77)                                                  |
@@ -1315,11 +1321,11 @@ Table 23: Efficacy results in CTCL patients treated with 1.8 mg/kg of ADCETRIS e
 | ADCETRIS (n = 64)                                                |                                                                  |                                                                  | Physician's choice (methotrexate or bexarotene) n = 64           |
 |------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|
 | Objective Response Rate lasting at least 4 months (ORR4) per IRF | Objective Response Rate lasting at least 4 months (ORR4) per IRF | Objective Response Rate lasting at least 4 months (ORR4) per IRF | Objective Response Rate lasting at least 4 months (ORR4) per IRF |
-| n (%) Percent CI)                                                | 36 (56.3)                                                        |                                                                  | 8 (12.5)                                                         |
-| Difference (95% p-value                                          |                                                                  | 43.8 (29.1, 58.4) < 0.001                                        |                                                                  |
+| n (%) Percent Difference p-value                                 | 36 (56.3)                                                        |                                                                  | 8 (12.5)                                                         |
+| (95% CI)                                                         |                                                                  | 43.8 (29.1, 58.4) < 0.001                                        |                                                                  |
 | Complete Response (CR) per IRF                                   | Complete Response (CR) per IRF                                   | Complete Response (CR) per IRF                                   |                                                                  |
 | n (%)                                                            | 10 (15.6)                                                        |                                                                  | 1 (1.6)                                                          |
-| Percent Difference (95% CI)                                      |                                                                  | 14.1 (-4.0, 31.5)                                                |                                                                  |
+| Percent Difference (95% CI) Adjusted p-value a                   |                                                                  | 14.1 (-4.0, 31.5) 0.0046                                         |                                                                  |
 | Progression Free Survival (PFS) per IRF                          | Progression Free Survival (PFS) per IRF                          | Progression Free Survival (PFS) per IRF                          |                                                                  |
 | Median (months)                                                  | 16.7                                                             |                                                                  | 3.5                                                              |
 | Hazard Ratio 95% CI                                              |                                                                  | 0.270 (0.17, 0.43)                                               |                                                                  |
@@ -1337,11 +1343,13 @@ The efficacy and safety of ADCETRIS were evaluated in two additional open-label 
 
 ## Combination therapy C25004
 
-The safety and anti-tumour activity of ADCETRIS were evaluated in an open-label, multicentre trial in 59 paediatric patients (6-17 years of age) with previously untreated advanced-stage classical CD30+ HL in combination with chemotherapy (doxorubicin [A], vinblastine [V] and dacarbazine [D] [AVD]). All patients had a histologically confirmed CD30-expressing disease. Fifty-nine percent of patients (n = 35) had extranodal site involvement. All 59 paediatric patients were treated on days 1 and 15 of each 28-day cycle with 48 mg/m 2 of ADCETRIS administered as an intravenous infusion over 30 minutes + doxorubicin 25 mg/m 2 , vinblastine 6 mg/m 2 , and dacarbazine 375 mg/m 2 . The BSA-based dose of ADCETRIS was chosen to match the observed PK exposures in adults in Study C25003. The paediatric maximum tolerated dose (MTD) was not reached. The majority of patients (88%) achieved an objective response by IRF assessment at the EOT, with 76% achieving a CR. No patient died. A total of 13 patients (22%) in the safety population were reported to have received irradiation after Cycle 6.
+The safety and anti-tumour activity of ADCETRIS were evaluated in an open-label, multicentre trial in 59 paediatric patients (6-17 years of age) with previously untreated advanced-stage classical CD30+ HL in combination with chemotherapy (doxorubicin [A], vinblastine [V] and dacarbazine [D] [AVD]). All patients had a histologically confirmed CD30-expressing disease. Fifty-nine percent of patients (n = 35) had extranodal site involvement. All 59 paediatric patients were treated on days 1 and 15 of each 28-day cycle with 48 mg/m 2  of ADCETRIS administered as an intravenous infusion over 30 minutes + doxorubicin 25 mg/m 2 , vinblastine 6 mg/m 2 , and dacarbazine 375 mg/m 2 . The BSA-based dose of ADCETRIS was chosen to match the observed PK exposures in adults in Study C25003. The paediatric maximum tolerated dose (MTD) was not reached. The majority of patients (88%) achieved an objective response by IRF assessment at the EOT, with 76% achieving a CR. No patient died. A total of 13 patients (22%) in the safety population were reported to have received irradiation after Cycle 6.
 
 <div style=\"page-break-after: always\"></div>
 
-## Monotherapy C25002
+## Monotherapy
+
+C25002
 
 The safety, pharmacokinetics and anti-tumour activity of ADCETRIS in 36 paediatric patients (7-17 years of age) with r/r HL and sALCL (children aged 7-11 years, n = 12 and adolescents aged 12 to 17 years, n = 24) were evaluated in a phase 1/2 open-label, single-agent, multicentre dose-escalation study (C25002). Phase 1 of the study assessed the safety profile (see section 4.8), determined the paediatric maximum tolerated dose (MTD) and/or recommended phase 2 dose (RP2D), and assessed the pharmacokinetics of ADCETRIS (see section 5.2). Phase 1 included 3 r/r HL patients treated at 1.4 mg/kg and 9 patients (7 r/r HL and 2 sALCL) treated at 1.8 mg/kg. The MTD was not reached. The RP2D was determined to be 1.8 mg/kg. Across the study, a total of 16 patients with r/r HL and 17 patients with r/r sALCL, of whom 10 were in first relapse, were treated with 1.8 mg/kg of ADCETRIS. The overall response rate (ORR) per independent review facility (IRF) was analysed across both study phases at the RP2D. Of these 33 patients who received the RP2D, 32 were evaluable for response. The ORR was 47% in response-evaluable patients with r/r HL, 53% in patients with r/r sALCL and 60% in sALCL patients in first relapse. Eight HL patients and 9 sALCL patients went on to receive SCT following treatment with ADCETRIS.
 
@@ -1447,7 +1455,7 @@ In non-clinical studies, lymphoid depletion and reduced thymic weight were obser
 
 ## 6.1 List of excipients
 
-Citric acid monohydrate (for pH-adjustment) (E330) Sodium citrate dihydrate (for pH-adjustment) (E331) α,α -Trehalose dihydrate Polysorbate 80 (E433)
+Citric acid monohydrate (for pH-adjustment) (E330) Sodium citrate dihydrate (for pH-adjustment) (E331) α,α-Trehalose dihydrate Polysorbate 80 (E433)
 
 ## 6.2 Incompatibilities
 
@@ -1551,7 +1559,7 @@ Takeda Pharma A/S Delta Park 45 2665 Vallensbaek Strand
 
 <div style=\"page-break-after: always\"></div>
 
-medinfoEMEA@takeda.com
+Denmark medinfoEMEA@takeda.com
 
 ## 8. MARKETING AUTHORISATION NUMBER
 
@@ -1594,7 +1602,7 @@ BSP Pharmaceuticals S.p.A. Via Appia Km 65,561 Latina Scalo (LT) 04013 Italy
 
 Name and address of the manufacturers responsible for batch release
 
-Takeda Austria GmbH St. PeterStraβe 25 A-4020 Linz Austria
+Takeda Austria GmbH St. Peter-Straβe 25 A-4020 Linz Austria
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1648,7 +1656,7 @@ After reconstitution each vial contains 5 mg/ml of brentuximab vedotin
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: Citric acid monohydrate, sodium citrate dihydrate, α,α -trehalose dihydrate, polysorbate 80 See package leaflet for further information
+Excipients: Citric acid monohydrate, sodium citrate dihydrate, α,α-trehalose dihydrate, polysorbate 80 See package leaflet for further information
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1712,8 +1720,8 @@ Justification for not including Braille accepted
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
@@ -2007,7 +2015,8 @@ The following side effects have been reported with Adcetris in combination with 
 
 ## Common side effects (may affect up to 1 in 10 people)
 
-- -an infection in the blood (sepsis) and/or septic shock (a life-threatening form of sepsis); pneumonia
+- an infection in the blood (sepsis) and/or septic shock (a life-threatening form of sepsis);
+- -pneumonia
 - -sore or inflammation in the mouth
 - -sore, creamy-yellow, raised patches in the mouth (thrush)
 - -decreased level of blood platelets
@@ -2039,7 +2048,7 @@ Do not use this medicine after the expiry date which is stated on the vial label
 
 Unopened vial: Store in a refrigerator (2 °C-8 °C). Do not freeze. Keep the vial in the original carton in order to protect from light.
 
-Reconstituted/diluted solution: Use immediately or store in a refrigerator (2 ° C-8 °C) and use within 24 hours.
+Reconstituted/diluted solution: Use immediately or store in a refrigerator (2  C-8 °C) and use within 24 hours.
 
 Do not use this medicine if you notice any particulate matter or discolouration prior to administration.
 
@@ -2052,7 +2061,7 @@ Do not throw away any medicines via wastewater or household waste. The doctor or
 ## What Adcetris contains
 
 - -The active substance is brentuximab vedotin. Each vial contains 50 mg of brentuximab vedotin. After reconstitution each mL of solution contains 5 mg of Adcetris.
-- -The other ingredients are citric acid monohydrate (E330), sodium citrate dihydrate (E331), α,α -trehalose dihydrate, and polysorbate 80 (E433). See section 2 for further information about sodium and polysorbate 80.
+- -The other ingredients are citric acid monohydrate (E330), sodium citrate dihydrate (E331), α,α-trehalose dihydrate, and polysorbate 80 (E433). See section 2 for further information about sodium and polysorbate 80.
 
 ## What Adcetris looks like and contents of the pack
 
@@ -2066,13 +2075,11 @@ Takeda Pharma A/S Delta Park 45 2665 Vallensbaek Strand Denmark
 
 ## Manufacturer
 
-Takeda Austria GmbH St. PeterStraβe 25 A-4020 Linz Austria
+Takeda Austria GmbH St. Peter-Straβe 25 A-4020 Linz Austria
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
-
-Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
+België/Belgique/Belgien Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
 
 ## Lietuva
 
@@ -2104,11 +2111,7 @@ medinfoEMEA@takeda.com
 
 ## Danmark
 
-Takeda Pharma A/S
-
-Tlf.: +45 46 77 10 10
-
-medinfoEMEA@takeda.com
+Takeda Pharma A/S Tlf.: +45 46 77 10 10 medinfoEMEA@takeda.com
 
 ## Malta
 
@@ -2118,9 +2121,7 @@ Drugsales Ltd Tel: +356 21419070 safety@drugsalesltd.com
 
 ## Deutschland
 
-Takeda GmbH Tel: +49 (0)800 825 3325
-
-medinfoEMEA@takeda.com
+Takeda GmbH Tel: +49 (0)800 825 3325 medinfoEMEA@takeda.com
 
 ## Eesti
 
@@ -2128,13 +2129,11 @@ Takeda Pharma OÜ Tel: +372 6177 669 medinfoEMEA@takeda.com
 
 ## Ελλάδα
 
-Takeda ΕΛΛΑΣ Α . Ε. T ηλ : +30 210 6387800 medinfoEMEA@takeda.com
+Takeda ΕΛΛΑΣ Α.Ε. Tηλ: +30 210 6387800 medinfoEMEA@takeda.com
 
 ## España
 
-Takeda Farmacéutica España, S.A.
-
-Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
+Takeda Farmacéutica España, S.A. Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
 
 ## France
 
@@ -2152,9 +2151,7 @@ medinfoEMEA@takeda.com
 
 ## Ísland
 
-Vistor ehf. Sími: +354 535 7000
-
-medinfoEMEA@takeda.com
+Vistor ehf. Sími: +354 535 7000 medinfoEMEA@takeda.com
 
 ## Italia
 
@@ -2162,15 +2159,11 @@ Takeda Italia S.p.A. Tel: +39 06 502601 medinfoEMEA@takeda.com
 
 ## Κύπρος
 
-A.POTAMITIS MEDICARE LTD T ηλ : +357 22583333
-
-a.potamitismedicare@cytanet.com.cy
+A.POTAMITIS MEDICARE LTD Tηλ: +357 22583333 a.potamitismedicare@cytanet.com.cy
 
 ## Latvija
 
-Takeda Latvia SIA Tel: +371 67840082
-
-medinfoEMEA@takeda.com
+Takeda Latvia SIA Tel: +371 67840082 medinfoEMEA@takeda.com
 
 ## Nederland
 
@@ -2178,15 +2171,11 @@ Takeda Nederland B.V. Tel: +31 20 203 5492 medinfoEMEA@takeda.com
 
 ## Norge
 
-Takeda AS Tlf: +47 800 800 30
-
-medinfoEMEA@takeda.com
+Takeda AS Tlf: +47 800 800 30 medinfoEMEA@takeda.com
 
 ## Österreich
 
-Takeda Pharma Ges.m.b.H. Tel: +43 (0) 800-20 80 50
-
-medinfoEMEA@takeda.com
+Takeda Pharma Ges.m.b.H. Tel: +43 (0) 800-20 80 50 medinfoEMEA@takeda.com
 
 ## Polska
 
@@ -2194,9 +2183,7 @@ Takeda Pharma Sp. z o.o. Tel.: +48223062447 medinfoEMEA@takeda.com
 
 ## Portugal
 
-Takeda Farmacêuticos Portugal, Lda.
-
-Tel: + 351 21 120 1457 medinfoEMEA@takeda.com
+Takeda Farmacêuticos Portugal, Lda. Tel: + 351 21 120 1457 medinfoEMEA@takeda.com
 
 ## România
 

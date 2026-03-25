@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:48:15
+document_datetime: 2026-03-24 17:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kanuma.html
 document_name: kanuma.html
 version: success
-processing_time: 0.1117948
-conversion_datetime: 2025-12-30 21:09:21.719139
+processing_time: 0.1156122
+conversion_datetime: 2026-03-25 12:42:55.983095
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.0
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Kanuma
 
 [RSS](/en/individual-human-medicine.xml/65754)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-sebelipase alfa Medicine Human Authorised
+sebelipase alfa
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -112,275 +112,141 @@ Reference Number: EMA/514301/2015
 
 English (EN) (77.6 KB - PDF)
 
-**First published:** 01/09/2015
-
-**Last updated:** 01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/en/documents/overview/kanuma-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-823)
+[Other languages (22)](#file-language-dropdown-458)
 
 български (BG) (78.26 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/bg/documents/overview/kanuma-epar-summary-public_bg.pdf)
 
 español (ES) (66.94 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/es/documents/overview/kanuma-epar-summary-public_es.pdf)
 
 čeština (CS) (69.63 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/cs/documents/overview/kanuma-epar-summary-public_cs.pdf)
 
 dansk (DA) (67.03 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/da/documents/overview/kanuma-epar-summary-public_da.pdf)
 
 Deutsch (DE) (69.96 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/de/documents/overview/kanuma-epar-summary-public_de.pdf)
 
 eesti keel (ET) (64.58 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/et/documents/overview/kanuma-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (74.64 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/el/documents/overview/kanuma-epar-summary-public_el.pdf)
 
 français (FR) (67.9 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/fr/documents/overview/kanuma-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (67.7 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/hr/documents/overview/kanuma-epar-summary-public_hr.pdf)
 
 italiano (IT) (66.37 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/it/documents/overview/kanuma-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (77.21 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/lv/documents/overview/kanuma-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (67.59 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/lt/documents/overview/kanuma-epar-summary-public_lt.pdf)
 
 magyar (HU) (73.13 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/hu/documents/overview/kanuma-epar-summary-public_hu.pdf)
 
 Malti (MT) (72.18 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/mt/documents/overview/kanuma-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (67.34 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/nl/documents/overview/kanuma-epar-summary-public_nl.pdf)
 
 polski (PL) (69.4 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/pl/documents/overview/kanuma-epar-summary-public_pl.pdf)
 
 português (PT) (67.83 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/pt/documents/overview/kanuma-epar-summary-public_pt.pdf)
 
 română (RO) (67.78 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/ro/documents/overview/kanuma-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (68.94 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/sk/documents/overview/kanuma-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (66.93 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/sl/documents/overview/kanuma-epar-summary-public_sl.pdf)
 
 Suomi (FI) (65.27 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/fi/documents/overview/kanuma-epar-summary-public_fi.pdf)
 
 svenska (SV) (66.13 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/sv/documents/overview/kanuma-epar-summary-public_sv.pdf)
 
@@ -388,9 +254,7 @@ Kanuma : EPAR - Risk-management-plan summary
 
 English (EN) (198.89 KB - PDF)
 
-**First published:** 01/09/2015
-
-**Last updated:** 10/12/2020
+**First published:** 01/09/2015 **Last updated:** 10/12/2020
 
 [View](/en/documents/rmp-summary/kanuma-epar-risk-management-plan-summary_en.pdf)
 
@@ -398,305 +262,161 @@ English (EN) (198.89 KB - PDF)
 
 Kanuma : EPAR - Product Information
 
-English (EN) (626.06 KB - PDF)
+English (EN) (386.29 KB - PDF)
 
-**First published:** 01/09/2015
-
-**Last updated:** 25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/en/documents/product-information/kanuma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-914)
+[Other languages (24)](#file-language-dropdown-334)
 
-български (BG) (686.18 KB - PDF)
+български (BG) (438.5 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/bg/documents/product-information/kanuma-epar-product-information_bg.pdf)
 
-español (ES) (592.82 KB - PDF)
+español (ES) (504.43 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/es/documents/product-information/kanuma-epar-product-information_es.pdf)
 
-čeština (CS) (659.6 KB - PDF)
+čeština (CS) (569.64 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/cs/documents/product-information/kanuma-epar-product-information_cs.pdf)
 
-dansk (DA) (512.5 KB - PDF)
+dansk (DA) (596.94 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/da/documents/product-information/kanuma-epar-product-information_da.pdf)
 
-Deutsch (DE) (651.95 KB - PDF)
+Deutsch (DE) (416.62 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/de/documents/product-information/kanuma-epar-product-information_de.pdf)
 
-eesti keel (ET) (660.51 KB - PDF)
+eesti keel (ET) (432.94 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/et/documents/product-information/kanuma-epar-product-information_et.pdf)
 
-ελληνικά (EL) (714.72 KB - PDF)
+ελληνικά (EL) (447.55 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/el/documents/product-information/kanuma-epar-product-information_el.pdf)
 
-français (FR) (615.8 KB - PDF)
+français (FR) (392.44 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/fr/documents/product-information/kanuma-epar-product-information_fr.pdf)
 
-hrvatski (HR) (617.3 KB - PDF)
+hrvatski (HR) (399.44 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/hr/documents/product-information/kanuma-epar-product-information_hr.pdf)
 
-íslenska (IS) (632.91 KB - PDF)
+íslenska (IS) (539.4 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/is/documents/product-information/kanuma-epar-product-information_is.pdf)
 
-italiano (IT) (638.24 KB - PDF)
+italiano (IT) (425.85 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/it/documents/product-information/kanuma-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (673.25 KB - PDF)
+latviešu valoda (LV) (427.34 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/lv/documents/product-information/kanuma-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (882.15 KB - PDF)
+lietuvių kalba (LT) (518.79 KB - PDF)
 
-**First published:**
-
-19/02/2025
-
-**Last updated:**
-
-26/03/2025
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/lt/documents/product-information/kanuma-epar-product-information_lt.pdf)
 
-magyar (HU) (642.4 KB - PDF)
+magyar (HU) (577.76 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/hu/documents/product-information/kanuma-epar-product-information_hu.pdf)
 
-Malti (MT) (721.13 KB - PDF)
+Malti (MT) (459.17 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/mt/documents/product-information/kanuma-epar-product-information_mt.pdf)
 
-Nederlands (NL) (608.84 KB - PDF)
+Nederlands (NL) (385.76 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/nl/documents/product-information/kanuma-epar-product-information_nl.pdf)
 
-norsk (NO) (655.18 KB - PDF)
+norsk (NO) (574.87 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/no/documents/product-information/kanuma-epar-product-information_no.pdf)
 
-polski (PL) (671.69 KB - PDF)
+polski (PL) (444.58 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/pl/documents/product-information/kanuma-epar-product-information_pl.pdf)
 
-português (PT) (641.18 KB - PDF)
+português (PT) (435.27 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/pt/documents/product-information/kanuma-epar-product-information_pt.pdf)
 
-română (RO) (692.74 KB - PDF)
+română (RO) (431.75 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/ro/documents/product-information/kanuma-epar-product-information_ro.pdf)
 
-slovenčina (SK) (667.26 KB - PDF)
+slovenčina (SK) (438.22 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/sk/documents/product-information/kanuma-epar-product-information_sk.pdf)
 
-slovenščina (SL) (517.37 KB - PDF)
+slovenščina (SL) (456.86 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/sl/documents/product-information/kanuma-epar-product-information_sl.pdf)
 
-Suomi (FI) (649.08 KB - PDF)
+Suomi (FI) (398.21 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/fi/documents/product-information/kanuma-epar-product-information_fi.pdf)
 
-svenska (SV) (651.44 KB - PDF)
+svenska (SV) (556.15 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-25/08/2023
+**First published:** 01/09/2015 **Last updated:** 24/03/2026
 
 [View](/sv/documents/product-information/kanuma-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0044 22/06/2023
+**Latest procedure affecting product information:** VR/0000326194
+
+24/03/2026
 
 icon globe
 
@@ -716,305 +436,177 @@ Kanuma : EPAR - All Authorised presentations
 
 English (EN) (30.03 KB - PDF)
 
-**First published:** 01/09/2015
-
-**Last updated:** 01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/en/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-461)
+[Other languages (24)](#file-language-dropdown-394)
 
 български (BG) (32.95 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/bg/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (30.07 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/es/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (31.26 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/cs/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (31.63 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/da/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (32.06 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/de/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (29.5 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/et/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (32.17 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/el/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (30.21 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/fr/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (31.02 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/hr/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (31.15 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/is/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (29.89 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/it/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (30.92 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/lv/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (30.82 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/lt/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (30.49 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/hu/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (31.35 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/mt/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (30.49 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/nl/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (30.92 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/no/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (32.56 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/pl/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (31.11 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/pt/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (30.51 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/ro/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (31.09 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/sk/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (30.6 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/sl/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (29.05 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/fi/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (30.11 KB - PDF)
 
-**First published:**
-
-01/09/2015
-
-**Last updated:**
-
-01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/sv/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Kanuma Active substance sebelipase alfa International non-proprietary name (INN) or common name sebelipase alfa Therapeutic area (MeSH) Lipid Metabolism, Inborn Errors Anatomical therapeutic chemical (ATC) code A16
+Name of medicine
+
+Kanuma
+
+Active substance
+
+sebelipase alfa
+
+International non-proprietary name (INN) or common name
+
+sebelipase alfa
+
+Therapeutic area (MeSH)
+
+Lipid Metabolism, Inborn Errors
+
+Anatomical therapeutic chemical (ATC) code
+
+A16
 
 ### Pharmacotherapeutic group
 
@@ -1026,7 +618,9 @@ Kanuma is indicated for long-term enzyme replacement therapy (ERT) in patients o
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004004
+EMA product number
+
+EMEA/H/C/004004
 
 Accelerated assessment
 
@@ -1046,7 +640,17 @@ Alexion Europe SAS
 
 103-105 rue Anatole France
 
-Opinion adopted 25/06/2015 Marketing authorisation issued 28/08/2015 Revision 10
+Opinion adopted
+
+25/06/2015
+
+Marketing authorisation issued
+
+28/08/2015
+
+Revision
+
+11
 
 ## Assessment history
 
@@ -1058,19 +662,23 @@ Collapse section
 
 Kanuma : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (155.75 KB - PDF)
+
+**First published:** 24/03/2026
+
+[View](/en/documents/procedural-steps-after/kanuma-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Kanuma : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (201.53 KB - PDF)
 
-**First published:** 12/11/2015
+**First published:** 12/11/2015 **Last updated:** 24/03/2026
 
-**Last updated:** 25/08/2023
-
-[View](/en/documents/procedural-steps-after/kanuma-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/kanuma-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Kanuma-H-C-004004-II-0026-G : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/637875/2020
+Adopted Reference Number: EMA/CHMP/637875/2020
 
 English (EN) (14.61 MB - PDF)
 
@@ -1082,44 +690,40 @@ English (EN) (14.61 MB - PDF)
 
 Kanuma : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/514387/2015
+Adopted Reference Number: EMA/514387/2015
 
 English (EN) (1.09 MB - PDF)
 
-**First published:** 01/09/2015
-
-**Last updated:** 01/09/2015
+**First published:** 01/09/2015 **Last updated:** 01/09/2015
 
 [View](/en/documents/assessment-report/kanuma-epar-public-assessment-report_en.pdf)
 
 CHMP summary of opinion for Kanuma
 
-Adopted
-
-Reference Number: EMA/CHMP/359213/2015
+Adopted Reference Number: EMA/CHMP/359213/2015
 
 English (EN) (101.14 KB - PDF)
 
-**First published:** 26/06/2015
-
-**Last updated:** 26/06/2015
+**First published:** 26/06/2015 **Last updated:** 26/06/2015
 
 [View](/en/documents/smop-initial/chmp-summary-opinion-kanuma_en.pdf)
 
-#### News on Kanuma
+## News on Kanuma
 
-[EMA fast-tracks enzyme replacement therapy for lysosomal acid lipase deficiency](/en/news/ema-fast-tracks-enzyme-replacement-therapy-lysosomal-acid-lipase-deficiency) 26/06/2015
+[EMA fast-tracks enzyme replacement therapy for lysosomal acid lipase deficiency](/en/news/ema-fast-tracks-enzyme-replacement-therapy-lysosomal-acid-lipase-deficiency)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 June 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-june-2015) 26/06/2015
+26/06/2015
 
-#### More information on Kanuma
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 June 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-june-2015)
+
+26/06/2015
+
+## More information on Kanuma
 
 - [EU/3/10/827 - orphan designation for treatment of lysosomal acid lipase deficiency](/en/medicines/human/orphan-designations/eu-3-10-827)
 
-**This page was last updated on** 25/08/2023
+**This page was last updated on**
+
+24/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

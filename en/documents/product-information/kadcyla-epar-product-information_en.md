@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-03-26 12:40:49
+document_datetime: 2026-03-24 14:14:04
 document_pages: 49
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kadcyla-epar-product-information_en.pdf
 document_name: kadcyla-epar-product-information_en.pdf
 version: success
-processing_time: 14.4069164
-conversion_datetime: 2025-12-23 21:58:52.802711
+processing_time: 21.1772282
+conversion_datetime: 2026-03-25 12:25:00.471357
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.0
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -62,8 +62,8 @@ Kadcyla, as a single agent, is indicated for the adjuvant treatment of adult pat
 
 Kadcyla, as a single agent, is indicated for the treatment of adult patients with HER2-positive, unresectable locally advanced or metastatic breast cancer who previously received trastuzumab and a taxane, separately or in combination. Patients should have either:
 
-- Received prior therapy for locally advanced or metastatic disease, or
-- Developed disease recurrence during or within six months of completing adjuvant therapy.
+-  Received prior therapy for locally advanced or metastatic disease, or
+-  Developed disease recurrence during or within six months of completing adjuvant therapy.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -113,25 +113,21 @@ Trastuzumab emtansine dose should not be re-escalated after a dose reduction is 
 
 Table 2 Dose modification guidelines
 
-| Dose modifications for patients with EBC   | Dose modifications for patients with EBC                                | Dose modifications for patients with EBC                                                                                                                                                                                                 |
-|--------------------------------------------|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Adverse reaction                           | Severity                                                                | Treatment modification                                                                                                                                                                                                                   |
-| Thrombocytopenia                           | Grade 2-3 on day of scheduled treatment (25 000 to < 75 000/mm 3 )      | Do not administer trastuzumab emtansine until platelet count recovers to ≤ Grade 1 (≥ 75 000/mm 3 ), and then treat at the same dose level. If a patient requires 2 delays due to thrombocytopenia, consider reducing dose by one level. |
-| Thrombocytopenia                           | Grade 4 at any time < 25 000/mm 3                                       | Do not administer trastuzumab emtansine until platelet count recovers to ≤ Grade 1 (≥ 75 000/mm 3 ), and then reduce one dose level.                                                                                                     |
-| Increased Alanine Transaminase (ALT)       | Grade 2-3 (> 3.0 to ≤ 20 × ULN on day of scheduled treatment)           | Do not administer trastuzumab emtansine until ALT recovers to Grade ≤ 1, and then reduce one dose level                                                                                                                                  |
-| Increased Alanine Transaminase (ALT)       | Grade 4 (> 20 × ULN at any time)                                        | Discontinue trastuzumab emtansine                                                                                                                                                                                                        |
-| Increased Aspartate Transaminase (AST)     | Grade 2 (> 3.0 to ≤ 5 × ULN on day of scheduled treatment)              | Do not administer trastuzumab emtansine until AST recovers to Grade ≤ 1, and then treat at the same dose level                                                                                                                           |
-| Increased Aspartate Transaminase (AST)     | Grade 3 (> 5 to ≤ 20 × ULN on day of scheduled treatment)               | Do not administer trastuzumab emtansine until AST recovers to Grade ≤ 1, and then reduce one dose level                                                                                                                                  |
-| Increased Aspartate Transaminase (AST)     | Grade 4 (> 20 × ULN at any time)                                        | Discontinue trastuzumab emtansine                                                                                                                                                                                                        |
-| Hyperbilirubinaemia                        | TBILI > 1.0 to ≤ 2.0 × the ULN on day of scheduled treatment            | Do not administer trastuzumab emtansine until total bilirubin recovers to ≤ 1.0× ULN, and then reduce one dose level                                                                                                                     |
-| Hyperbilirubinaemia                        | TBILI > 2 × ULN at any time                                             | Discontinue trastuzumab emtansine                                                                                                                                                                                                        |
-| Drug Induced Liver Injury (DILI)           | Serum transaminases > 3 x ULN and concomitant total bilirubin > 2 × ULN | Permanently discontinue trastuzumab emtansine in the absence of another likely cause for the elevation of liver enzymes and bilirubin, e.g. liver metastasis or concomitant medication                                                   |
-| Nodular Regenerative Hyperplasia (NRH)     | All Grades                                                              | Permanently discontinue trastuzumab emtansine                                                                                                                                                                                            |
-| Peripheral Neuropathy                      | Grade 3-4                                                               | Do not administer trastuzumab emtansine until resolution ≤ Grade 2                                                                                                                                                                       |
-
-),
-
-),
+| Dose modifications for patients with EBC   | Dose modifications for patients with EBC                                | Dose modifications for patients with EBC                                                                                                                                                                                                   |
+|--------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Adverse reaction                           | Severity                                                                | Treatment modification                                                                                                                                                                                                                     |
+| Thrombocytopenia                           | Grade 2-3 on day of scheduled treatment (25 000 to < 75 000/mm 3 )      | Do not administer trastuzumab emtansine until platelet count recovers to  Grade 1 ( ≥ 75 000/mm 3 ), and then treat at the same dose level. If a patient requires 2 delays due to thrombocytopenia, consider reducing dose by one level. |
+| Thrombocytopenia                           | Grade 4 at any time < 25 000/mm 3                                       | Do not administer trastuzumab emtansine until platelet count recovers to  Grade 1 ( ≥ 75 000/mm 3 ), and then reduce one dose level.                                                                                                      |
+| Increased Alanine Transaminase (ALT)       | Grade 2-3 (> 3.0 to ≤ 20  ULN on day of scheduled treatment)           | Do not administer trastuzumab emtansine until ALT recovers to Grade ≤ 1, and then reduce one dose level                                                                                                                                    |
+| Increased Alanine Transaminase (ALT)       | Grade 4 (> 20  ULN at any time)                                        | Discontinue trastuzumab emtansine                                                                                                                                                                                                          |
+| Increased Aspartate Transaminase (AST)     | Grade 2 (> 3.0 to ≤ 5  ULN on day of scheduled treatment)              | Do not administer trastuzumab emtansine until AST recovers to Grade  1, and then treat at the same dose level                                                                                                                             |
+| Increased Aspartate Transaminase (AST)     | Grade 3 (> 5 to ≤ 20  ULN on day of scheduled treatment)               | Do not administer trastuzumab emtansine until AST recovers to Grade ≤ 1, and then reduce one dose level                                                                                                                                    |
+| Increased Aspartate Transaminase (AST)     | Grade 4 (> 20  ULN at any time)                                        | Discontinue trastuzumab emtansine                                                                                                                                                                                                          |
+| Hyperbilirubinaemia                        | TBILI > 1.0 to ≤ 2.0  the ULN on day of scheduled treatment           | Do not administer trastuzumab emtansine until total bilirubin recovers to ≤ 1.0× ULN, and then reduce one dose level                                                                                                                       |
+| Hyperbilirubinaemia                        | TBILI > 2  ULN at any time                                             | Discontinue trastuzumab emtansine                                                                                                                                                                                                          |
+| Drug Induced Liver Injury (DILI)           | Serum transaminases > 3 x ULN and concomitant total bilirubin > 2  ULN | Permanently discontinue trastuzumab emtansine in the absence of another likely cause for the elevation of liver enzymes and bilirubin, e.g. liver metastasis or concomitant medication                                                     |
+| Nodular Regenerative Hyperplasia (NRH)     | All Grades                                                              | Permanently discontinue trastuzumab emtansine                                                                                                                                                                                              |
+| Peripheral Neuropathy                      | Grade 3-4                                                               | Do not administer trastuzumab emtansine until resolution  Grade 2                                                                                                                                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -146,29 +142,29 @@ Table 2 Dose modification guidelines
 | Radiotherapy-Related Pneumonitis        | Grade 3-4                                                                                                     | Discontinue trastuzumab emtansine                                                                                                                                                                 |
 | Dose modifications for patients withMBC | Dose modifications for patients withMBC                                                                       | Dose modifications for patients withMBC                                                                                                                                                           |
 | Adverse reaction                        | Severity                                                                                                      | Treatment modification                                                                                                                                                                            |
-| Thrombocytopenia                        | Grade 3 (25 000 to < 50 000/mm 3 )                                                                            | Do not administer trastuzumab emtansine until platelet count recovers to ≤ Grade 1 (≥ 75 000/mm 3 ), and then treat at the same dose level                                                        |
-| Thrombocytopenia                        | Grade 4 (< 25 000/mm 3 )                                                                                      | Do not administer trastuzumab emtansine until platelet count recovers to ≤ Grade 1 (≥ 75 000/mm 3 ), and then reduce one dose level                                                               |
-| Increased Transaminase (AST/ALT)        | Grade 2 ( > 2.5 to ≤ 5 × the ULN)                                                                             | Treat at the same dose level                                                                                                                                                                      |
-| Increased Transaminase (AST/ALT)        | Grade 3 ( > 5 to ≤ 20 × the ULN)                                                                              | Do not administer trastuzumab emtansine until AST/ALT recovers to Grade ≤ 2, and then reduce one dose level                                                                                       |
-| Increased Transaminase (AST/ALT)        | Grade 4 ( > 20 × the ULN)                                                                                     | Discontinue trastuzumab emtansine                                                                                                                                                                 |
+| Thrombocytopenia                        | Grade 3 (25 000 to  50 000/mm 3 )                                                                            | Do not administer trastuzumab emtansine until platelet count recovers to  Grade 1 ( ≥ 75 000/mm 3 ), and then treat at the same dose level                                                       |
+| Thrombocytopenia                        | Grade 4  25 000/mm 3 )                                                                                      | Do not administer trastuzumab emtansine until platelet count recovers to  Grade 1 ( ≥ 75 000/mm 3 ), and then reduce one dose level                                                              |
+| Increased Transaminase (AST/ALT)        | Grade 2 (  2.5 to ≤ 5  the ULN)                                                                             | Treat at the same dose level                                                                                                                                                                      |
+| Increased Transaminase (AST/ALT)        | Grade 3 (  5 to ≤ 20  the ULN)                                                                              | Do not administer trastuzumab emtansine until AST/ALT recovers to Grade ≤ 2, and then reduce one dose level                                                                                       |
+| Increased Transaminase (AST/ALT)        | Grade 4 (  20  the ULN)                                                                                     | Discontinue trastuzumab emtansine                                                                                                                                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
-| Hyperbilirubinaemia                    | Grade 2 ( > 1.5 to ≤ 3 × the ULN)                                       | Do not administer trastuzumab emtansine until total bilirubin recovers to Grade ≤ 1, and then treat at the same dose level.                                                            |
+| Hyperbilirubinaemia                    | Grade 2 (  1.5 to ≤ 3  the ULN)                                       | Do not administer trastuzumab emtansine until total bilirubin recovers to Grade ≤ 1, and then treat at the same dose level.                                                            |
 |----------------------------------------|-------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hyperbilirubinaemia                    | Grade 3 ( > 3 to ≤ 10 × the ULN)                                        | Do not administer trastuzumab emtansine until total bilirubin recovers to Grade ≤ 1 and then reduce one dose level.                                                                    |
-| Hyperbilirubinaemia                    | Grade 4 ( > 10 × the ULN)                                               | Discontinue trastuzumab emtansine                                                                                                                                                      |
-| Drug Induced Liver Injury (DILI)       | Serum transaminases > 3 x ULN and concomitant total bilirubin > 2 × ULN | Permanently discontinue trastuzumab emtansine in the absence of another likely cause for the elevation of liver enzymes and bilirubin, e.g. liver metastasis or concomitant medication |
+| Hyperbilirubinaemia                    | Grade 3 (  3 to ≤ 10  the ULN)                                        | Do not administer trastuzumab emtansine until total bilirubin recovers to Grade ≤ 1 and then reduce one dose level.                                                                    |
+| Hyperbilirubinaemia                    | Grade 4 (  10  the ULN)                                               | Discontinue trastuzumab emtansine                                                                                                                                                      |
+| Drug Induced Liver Injury (DILI)       | Serum transaminases > 3 x ULN and concomitant total bilirubin > 2  ULN | Permanently discontinue trastuzumab emtansine in the absence of another likely cause for the elevation of liver enzymes and bilirubin, e.g. liver metastasis or concomitant medication |
 | Nodular Regenerative Hyperplasia (NRH) | All Grades                                                              | Permanently discontinue trastuzumab emtansine                                                                                                                                          |
 | Left Ventricular Dysfunction           | Symptomatic CHF                                                         | Discontinue trastuzumab emtansine                                                                                                                                                      |
 | Left Ventricular Dysfunction           | LVEF <40%                                                               | Do not administer trastuzumab emtansine. Repeat LVEF assessment within 3 weeks. If LVEF <40% is confirmed, discontinue trastuzumab emtansine                                           |
 | Left Ventricular Dysfunction           | LVEF 40% to ≤ 45% and decrease is ≥ 10% points from baseline            | Do not administer trastuzumab emtansine. Repeat LVEF assessment within 3 weeks. If the LVEF has not recovered to within 10% points from baseline, discontinue trastuzumab emtansine.   |
 | Left Ventricular Dysfunction           | LVEF 40% to ≤ 45% and decrease is < 10% points from baseline            | Continue treatment with trastuzumab emtansine . Repeat LVEF assessment within 3 weeks.                                                                                                 |
 | Left Ventricular Dysfunction           | LVEF > 45%                                                              | Continue treatment with trastuzumab emtansine .                                                                                                                                        |
-| Peripheral Neuropathy                  | Grade 3-4                                                               | Do not administer trastuzumab emtansine until resolution ≤ Grade 2                                                                                                                     |
+| Peripheral Neuropathy                  | Grade 3-4                                                               | Do not administer trastuzumab emtansine until resolution  Grade 2                                                                                                                    |
 | Pulmonary Toxicity                     | Interstitial lung disease (ILD) or pneumonitis                          | Permanently discontinue trastuzumab emtansine                                                                                                                                          |
 
-ALT = alanine transaminase; AST = aspartate transaminase, CHF = congestive heart failure, LVEF = left ventricular ejection fraction, LVSD = left ventricular systolic dysfunction, TBILI = Total Bilirubin, ULN = upper limit of normal
+ALT  alanine transaminase; AST  aspartate transaminase, CHF = congestive heart failure, LVEF  left ventricular ejection fraction, LVSD  left ventricular systolic dysfunction, TBILI = Total Bilirubin, ULN  upper limit of normal
 
 * Prior to starting trastuzumab emtansine treatment.
 
@@ -216,7 +212,9 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## 4.4 Special warnings and precautions for use
 
-In order to improve traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded (or stated) in the patient file.
+## Traceability
+
+In order to improve traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
 In order to prevent medicinal product errors it is important to check the vial labels to ensure that the medicinal product being prepared and administered is Kadcyla (trastuzumab emtansine) and not another trastuzumab-containing product (e.g. trastuzumab or trastuzumab deruxtecan).
 
@@ -224,11 +222,11 @@ In order to prevent medicinal product errors it is important to check the vial l
 
 Thrombocytopenia, or decreased platelet counts, was commonly reported with trastuzumab emtansine and was the most common adverse reaction leading to treatment discontinuation, dose reduction, and dose interruption (see section 4.8). In clinical studies, the incidence and severity of thrombocytopenia were higher in Asian patients (see section 4.8).
 
-It is recommended that platelet counts are monitored prior to each trastuzumab emtansine dose. Patients with thrombocytopenia (≤ 100 000/mm 3 ) and patients on anticoagulant treatment (e.g. warfarin, heparin, low molecular weight heparins) should be monitored closely while on trastuzumab emtansine treatment. Trastuzumab emtansine has not been studied in patients with platelet counts ≤ 100 000/mm 3  prior to initiation of treatment. In the event of decreased platelet count to Grade 3 or
+It is recommended that platelet counts are monitored prior to each trastuzumab emtansine dose. Patients with thrombocytopenia ( ≤ 100 000/mm 3 ) and patients on anticoagulant treatment (e.g. warfarin, heparin, low molecular weight heparins) should be monitored closely while on trastuzumab emtansine treatment. Trastuzumab emtansine has not been studied in patients with platelet counts
 
 <div style=\"page-break-after: always\"></div>
 
-greater (&lt; 50 000/mm 3 ), do not administer trastuzumab emtansine until platelet counts recover to Grade 1 (≥ 75 000/mm 3 ) (see section 4.2).
+≤ 100 000/mm 3  prior to initiation of treatment. In the event of decreased platelet count to Grade 3 or greater (&lt; 50 000/mm 3 ), do not administer trastuzumab emtansine until platelet counts recover to Grade 1 ( ≥ 75 000/mm 3 ) (see section 4.2).
 
 ## Haemorrhage
 
@@ -246,11 +244,11 @@ Liver function should be monitored prior to initiation of treatment and each dos
 
 Cases of nodular regenerative hyperplasia (NRH) of the liver have been identified from liver biopsies in patients treated with trastuzumab emtansine. NRH is a rare liver condition characterised by widespread benign transformation of hepatic parenchyma into small regenerative nodules; NRH may lead to non-cirrhotic portal hypertension. Diagnosis of NRH can be confirmed only by histopathology. NRH should be considered in all patients with clinical symptoms of portal hypertension and/or cirrhosis-like pattern seen on the computed tomography (CT) scan of the liver but with normal transaminases and no other manifestations of cirrhosis. Upon diagnosis of NRH, trastuzumab emtansine treatment must be permanently discontinued.
 
-Trastuzumab emtansine has not been studied in patients with serum transaminases &gt; 2.5 × ULN or total bilirubin &gt; 1.5 × ULN prior to initiation of treatment. Treatment in patients with serum transaminases &gt; 3 × ULN and concomitant total bilirubin &gt; 2 × ULN should be permanently discontinued. Treatment of patients with hepatic impairment should be undertaken with caution (see sections 4.2 and 5.2).
+Trastuzumab emtansine has not been studied in patients with serum transaminases &gt; 2.5  ULN or total bilirubin &gt; 1.5  ULN prior to initiation of treatment. Treatment in patients with serum transaminases &gt; 3  ULN and concomitant total bilirubin &gt; 2  ULN should be permanently discontinued. Treatment of patients with hepatic impairment should be undertaken with caution (see sections 4.2 and 5.2).
 
 ## Neurotoxicity
 
-Peripheral neuropathy, mainly Grade 1 and predominantly sensory, has been reported in clinical studies with trastuzumab emtansine. MBC patients with Grade ≥ 3 and EBC patients with Grade ≥ 2 peripheral neuropathy at baseline were excluded from clinical studies. Treatment with trastuzumab emtansine should be temporarily discontinued in patients experiencing Grade 3 or 4 peripheral neuropathy until symptoms resolve or improve to ≤ Grade 2. Patients should be clinically monitored on an ongoing basis for signs/symptoms of neurotoxicity .
+Peripheral neuropathy, mainly Grade 1 and predominantly sensory, has been reported in clinical studies with trastuzumab emtansine. MBC patients with Grade  3 and EBC patients with Grade  2 peripheral neuropathy at baseline were excluded from clinical studies. Treatment with trastuzumab emtansine should be temporarily discontinued in patients experiencing Grade 3 or 4 peripheral neuropathy until symptoms resolve or improve to ≤ Grade 2. Patients should be clinically monitored on an ongoing basis for signs/symptoms of neurotoxicity .
 
 <div style=\"page-break-after: always\"></div>
 
@@ -258,13 +256,13 @@ Peripheral neuropathy, mainly Grade 1 and predominantly sensory, has been report
 
 Patients treated with trastuzumab emtansine are at increased risk of developing left ventricular dysfunction. Left ventricular ejection fraction (LVEF) &lt; 40% has been observed in patients treated with trastuzumab emtansine, and therefore symptomatic congestive heart failure (CHF) is a potential risk (see section 4.8). General risk factors for a cardiac event and those identified in adjuvant breast cancer studies with trastuzumab therapy include advancing age (&gt; 50 years), low baseline LVEF values (&lt; 55%), low LVEF levels prior to or following the use of paclitaxel in the adjuvant setting, prior or concomitant use of antihypertensive medicinal products, previous therapy with an anthracycline and high BMI (&gt; 25 kg/m 2 ).
 
-Standard cardiac function testing (echocardiogram or multigated acquisition (MUGA) scanning) should be performed prior to initiation of treatment and also at regular intervals (e.g. every three months) during treatment. The dosing should be delayed, or treatment discontinued as necessary in cases of left ventricular dysfunction (see section 4.2). In clinical studies, patients had a LVEF ≥ 50% at baseline. Patients with a history of congestive heart failure (CHF), serious cardiac arrhythmia requiring treatment, history of myocardial infarction or unstable angina within 6 months of randomisation, or current dyspnoea at rest due to advanced malignancy were excluded from clinical studies. Events of LVEF drop of &gt; 10% from baseline and/or CHF were observed in an observational study (BO39807) of MBC patients with baseline LVEF of 40-49% in a real world setting. The decision to administer trastuzumab emtansine in MBC patients with low LVEF must be made only after careful benefit risk assessment and cardiac function should be closely monitored in these patients (see section 4.8).
+Standard cardiac function testing (echocardiogram or multigated acquisition (MUGA) scanning) should be performed prior to initiation of treatment and also at regular intervals (e.g. every three months) during treatment. The dosing should be delayed, or treatment discontinued as necessary in cases of left ventricular dysfunction (see section 4.2). In clinical studies, patients had a LVEF  50% at baseline. Patients with a history of congestive heart failure (CHF), serious cardiac arrhythmia requiring treatment, history of myocardial infarction or unstable angina within 6 months of randomisation, or current dyspnoea at rest due to advanced malignancy were excluded from clinical studies. Events of LVEF drop of &gt; 10% from baseline and/or CHF were observed in an observational study (BO39807) of MBC patients with baseline LVEF of 40-49% in a real world setting. The decision to administer trastuzumab emtansine in MBC patients with low LVEF must be made only after careful benefit risk assessment and cardiac function should be closely monitored in these patients (see section 4.8).
 
 ## Pulmonary toxicity
 
 Cases of interstitial lung disease (ILD), including pneumonitis, some leading to acute respiratory distress syndrome or a fatal outcome, have been reported in clinical studies with trastuzumab emtansine (see section 4.8). Signs and symptoms include dyspnoea, cough, fatigue, and pulmonary infiltrates.
 
-It is recommended that treatment with trastuzumab emtansine be permanently discontinued in patients who are diagnosed with ILD or pneumonitis, except for radiation pneumonitis in the adjuvant setting, where trastuzumab emtansine should be permanently discontinued for ≥ Grade 3 or for Grade 2 not responding to standard treatment (see section 4.2).
+It is recommended that treatment with trastuzumab emtansine be permanently discontinued in patients who are diagnosed with ILD or pneumonitis, except for radiation pneumonitis in the adjuvant setting, where trastuzumab emtansine should be permanently discontinued for  Grade 3 or for Grade 2 not responding to standard treatment (see section 4.2).
 
 Patients with dyspnoea at rest due to complications of advanced malignancy, co-morbidities, and receiving concurrent pulmonary radiation therapy may be at increased risk of pulmonary events.
 
@@ -334,13 +332,13 @@ The significance of reported adverse reactions such as fatigue, headache, dizzin
 
 The safety of trastuzumab emtansine has been evaluated in 2 611 breast cancer patients in clinical studies. In this patient population:
 
-- the most common serious adverse drug reactions (ADRs) (&gt; 0.5% of patients) were haemorrhage, pyrexia, thrombocytopenia, dyspnoea, abdominal pain, musculoskeletal pain, and vomiting.
-- the most common ADRs (≥ 25%) with trastuzumab emtansine were nausea, fatigue, musculoskeletal pain, haemorrhage, headache, transaminases increased, thrombocytopenia, and peripheral neuropathy. The majority of ADRs reported were of Grade 1 or 2 severity.
-- the most common National Cancer Institute - Common Terminology Criteria for Adverse Events (NCI-CTCAE) Grade ≥ 3 ADRs (&gt; 2%) were thrombocytopenia, increased transaminases, anaemia, neutropenia, fatigue and hypokalaemia.
+-  the most common serious adverse drug reactions (ADRs) (&gt; 0.5% of patients) were haemorrhage, pyrexia, thrombocytopenia, dyspnoea, abdominal pain, musculoskeletal pain, and vomiting.
+-  the most common ADRs ( ≥ 25%) with trastuzumab emtansine were nausea, fatigue, musculoskeletal pain, haemorrhage, headache, transaminases increased, thrombocytopenia, and peripheral neuropathy. The majority of ADRs reported were of Grade 1 or 2 severity.
+-  the most common National Cancer Institute - Common Terminology Criteria for Adverse Events (NCI-CTCAE) Grade ≥ 3 ADRs (&gt; 2%) were thrombocytopenia, increased transaminases, anaemia, neutropenia, fatigue and hypokalaemia.
 
 ## Tabulated list of adverse reactions
 
-The ADRs in 2 611 patients treated with trastuzumab emtansine are presented in Table 3. The ADRs are listed below by MedDRA system organ class (SOC) and categories of frequency. Frequency categories are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncomm on (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data). Within each frequency grouping and SOC, adverse reactions are presented in order of decreasing seriousness. ADRs were reported using NCI-CTCAE for assessment of toxicity.
+The ADRs in 2 611 patients treated with trastuzumab emtansine are presented in Table 3. The ADRs are listed below by MedDRA system organ class (SOC) and categories of frequency. Frequency categories are defined as very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1 000 to &lt; 1/100), rare ( ≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data). Within each frequency grouping and SOC, adverse reactions are presented in order of decreasing seriousness. ADRs were reported using NCI-CTCAE for assessment of toxicity.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -384,7 +382,7 @@ Table 3 shows pooled data from the overall treatment period in the MBC studies (
 
 ## Thrombocytopenia
 
-Thrombocytopenia or decreased platelet counts were reported in 24.9% of patients in MBC clinical studies with trastuzumab emtansine and was the most common adverse reaction leading to treatment discontinuation (2.6%). Thrombocytopenia was reported in 28.6% of patients in EBC clinical studies with trastuzumab emtansine and was the most common reported adverse reaction for all grades and grades ≥ 3, as well as the most common adverse reaction leading to treatment discontinuation (4.2%), dose interruptions, and dose reductions. The majority of the patients had Grade 1 or 2 events (≥ 50 000/mm 3 ), with the nadir occurring by day 8 and generally improving to Grade 0 or 1 (≥ 75 000/mm 3 ) by the next scheduled dose. In clinical studies, the incidence and severity of thrombocytopenia were higher in Asian patients. Independent of race, the incidence of Grade 3 or 4 events (&lt; 50 000/mm 3 ) was 8.7% in patients with MBC treated with trastuzumab emtansine and 5.7% in patients with EBC. For dose modifications for thrombocytopenia, see sections 4.2 and 4.4.
+Thrombocytopenia or decreased platelet counts were reported in 24.9% of patients in MBC clinical studies with trastuzumab emtansine and was the most common adverse reaction leading to treatment discontinuation (2.6%). Thrombocytopenia was reported in 28.6% of patients in EBC clinical studies with trastuzumab emtansine and was the most common reported adverse reaction for all grades and grades ≥ 3, as well as the most common adverse reaction leading to treatment discontinuation (4.2%), dose interruptions, and dose reductions. The majority of the patients had Grade 1 or 2 events ( ≥ 50 000/mm 3 ), with the nadir occurring by day 8 and generally improving to Grade 0 or 1 ( ≥ 75 000/mm 3 ) by the next scheduled dose. In clinical studies, the incidence and severity of thrombocytopenia were higher in Asian patients. Independent of race, the incidence of Grade 3 or 4 events (&lt; 50 000/mm 3 ) was 8.7% in patients with MBC treated with trastuzumab emtansine and 5.7% in patients with EBC. For dose modifications for thrombocytopenia, see sections 4.2 and 4.4.
 
 ## Haemorrhage
 
@@ -436,13 +434,13 @@ Table 4 Laboratory abnormalities observed in patients treated with trastuzumab e
 
 <div style=\"page-break-after: always\"></div>
 
-| Haematologic             | Haematologic   | Haematologic   | Haematologic   |
+| Haematologic             |   Haematologic |   Haematologic | Haematologic   |
 |--------------------------|----------------|----------------|----------------|
-| Decreased platelet count | 85             | 14             | 3              |
-| Decreased haemoglobin    | 63             | 5              | 1              |
-| Decreased neutrophils    | 41             | 4              | < 1            |
-| Potassium                | Potassium      | Potassium      | Potassium      |
-| Decreased potassium      | 35             | 3              | < 1            |
+| Decreased platelet count |             85 |             14 | 3              |
+| Decreased haemoglobin    |             63 |              5 | 1              |
+| Decreased neutrophils    |             41 |              4 | < 1            |
+| Potassium                |                |                |                |
+| Decreased potassium      |             35 |              3 | < 1            |
 
 ## Table 5 Laboratory abnormalities observed in patients treated with trastuzumab emtansine in study BO27938/KATHERINE
 
@@ -486,9 +484,9 @@ Conjugation of DM1 to trastuzumab confers selectivity of the cytotoxic agent for
 
 Trastuzumab emtansine has the mechanisms of action of both trastuzumab and DM1:
 
-- Trastuzumab emtansine, like trastuzumab, binds to domain IV of the HER2 extracellular domain (ECD), as well as to Fcγ receptors and complement C1q. In addition, trastuzumab emtansine, like trastuzumab, inhibits shedding of the HER2 ECD, inhibits signalling through the phosphatidylinositol 3-kinase (PI3-K) pathway, and mediates antibody-dependent cell-mediated cytotoxicity (ADCC) in human breast cancer cells that overexpress HER2.
-- DM1, the cytotoxic component of trastuzumab emtansine, binds to tubulin. By inhibiting tubulin polymerisation, both DM1 and trastuzumab emtansine cause cells to arrest in the G2/M phase of the cell cycle, ultimately leading to apoptotic cell death. Results from in vitro cytotoxicity assays show that DM1 is 20-200 times more potent than taxanes and vinca alkaloids.
-- The MCC linker is designed to limit systemic release and increase targeted delivery of DM1, as demonstrated by detection of very low levels of free DM1 in plasma.
+-  Trastuzumab emtansine, like trastuzumab, binds to domain IV of the HER2 extracellular domain (ECD), as well as to Fc γ receptors and complement C1q. In addition, trastuzumab emtansine, like trastuzumab, inhibits shedding of the HER2 ECD, inhibits signalling through the phosphatidylinositol 3-kinase (PI3-K) pathway, and mediates antibody-dependent cell-mediated cytotoxicity (ADCC) in human breast cancer cells that overexpress HER2.
+-  DM1, the cytotoxic component of trastuzumab emtansine, binds to tubulin. By inhibiting tubulin polymerisation, both DM1 and trastuzumab emtansine cause cells to arrest in the G2/M phase of the cell cycle, ultimately leading to apoptotic cell death. Results from in vitro cytotoxicity assays show that DM1 is 20-200 times more potent than taxanes and vinca alkaloids.
+-  The MCC linker is designed to limit systemic release and increase targeted delivery of DM1, as demonstrated by detection of very low levels of free DM1 in plasma.
 
 ## Clinical efficacy
 
@@ -534,7 +532,8 @@ Table 6 Summary of efficacy from study BO27938 (KATHERINE)
 | 7 year survival rate 2 ,% [95% CI]                  | 84.4 [81.58, 87.16]   | 89.1 [86.71, 91.42]             |
 | IDFS including second primary non-breast cancer 1,5 |                       |                                 |
 | Number (%) of patients with event                   | 167 (22.5%)           | 95 (12.8%)                      |
-| HR [95% CI]                                         | 0.51 [0.40,           | 0.66]                           |
+| HR [95% CI]                                         | 0.51 [0.40, 0.66]     | 0.51 [0.40, 0.66]               |
+| p-value (Log-Rank test, unstratified)               | < 0.0001              | < 0.0001                        |
 | 3 year event-free rate 2 ,% [95% CI]                | 76.9 [73.65, 80.14]   | 87.7 [85.18, 90.18]             |
 | Disease-Free Survival (DFS) 1,5                     |                       |                                 |
 | Number (%) of patients with event                   | 167 (22.5%)           | 98 (13.2%)                      |
@@ -544,15 +543,19 @@ Table 6 Summary of efficacy from study BO27938 (KATHERINE)
 | Distant recurrence-free interval (DRFI) 1,5         |                       |                                 |
 | Number (%) of patients with event                   | 121 (16.3%)           | 78 (10.5%)                      |
 | HR [95% CI]                                         | 0.60 [0.45, 0.79]     | 0.60 [0.45, 0.79]               |
-| p-value (Log-Rank test, unstratified)               | 0.0003                | 89.7 [87.37,                    |
-| 3 year event-free rate 2 ,% [95% CI]                | 83.0 [80.10, 85.92]   | 92.01]                          |
+| p-value (Log-Rank test, unstratified)               | 0.0003                | 0.0003                          |
+| 3 year event-free rate 2 ,% [95% CI]                | 83.0 [80.10, 85.92]   | 89.7 [87.37, 92.01]             |
 
 Key to abbreviations (Table6): HR: Hazard Ratio; CI: Confidence Intervals,
 
 1. Data from primary analysis
+
 2. 3 year event-free rate and 7 year survival rate derived from Kaplan-Meier estimates
+
 3. Hierarchical testing applied for IDFS and OS
+
 4. Data from second interim OS analysis
+
 5. These secondary endpoints were not adjusted for multiplicity
 
 <div style=\"page-break-after: always\"></div>
@@ -575,8 +578,8 @@ In KATHERINE, consistent treatment benefit of trastuzumab emtansine for IDFS was
 
 A Phase III, randomised, multicentre, international, open-label clinical study was conducted in patients with HER2-positive unresectable locally advanced breast cancer (LABC) or MBC who had received prior taxane and trastuzumab-based therapy, including patients who received prior therapy with trastuzumab and a taxane in the adjuvant setting and who relapsed during or within six months of completing adjuvant therapy. Only patients with Eastern Cooperative Oncology Group (ECOG) Performance Status 0 or 1 were eligible. Prior to enrolment, breast tumour samples were required to be centrally confirmed for HER2-positive status defined as a score of 3 + by IHC or gene amplification by ISH. Baseline patient and tumour characteristics were well balanced between treatment groups. Patients with treated brain metastases were eligible for enrollment if they did not require therapy to control symptoms. For patients randomised to trastuzumab emtansine, the median age was 53 years, most patients were female (99.8%), the majority were Caucasian (72%), and 57% had oestrogen-receptor and/or progesterone-receptor positive disease. The study compared the safety and efficacy of trastuzumab emtansine with that of lapatinib plus capecitabine. A total of 991 patients were randomised to trastuzumab emtansine or lapatinib plus capecitabine as follows:
 
-- Trastuzumab emtansine arm: trastuzumab emtansine 3.6 mg/kg intravenously over 30-90 minutes on Day 1 of a 21-day cycle
-- Control arm (lapatinib plus capecitabine): lapatinib 1250 mg/day orally once per day of a 21-day cycle plus capecitabine 1000 mg/m 2 orally twice daily on Days 1-14 of a 21-day cycle
+-  Trastuzumab emtansine arm: trastuzumab emtansine 3.6 mg/kg intravenously over 30-90 minutes on Day 1 of a 21-day cycle
+-  Control arm (lapatinib plus capecitabine): lapatinib 1250 mg/day orally once per day of a 21-day cycle plus capecitabine 1000 mg/m 2 orally twice daily on Days 1-14 of a 21-day cycle
 
 The co-primary efficacy endpoints of the study were progression-free survival (PFS) as assessed by an independent review committee (IRC) and overall survival (OS) (see Table 7 and Figures 3 to 4).
 
@@ -632,15 +635,11 @@ Figure 3 Kaplan-Meier curve of IRC-assessed progression-free survival
 
 <!-- image -->
 
-T-DM1:trastuzumab emtansine;Lap:lapatinib; Cap:capecitabine;IRC:independent review committee Hazard ratio is estimated based on a stratified Cox model; p-value is estimated based on a stratified log-rank test.
-
 Figure 4 Kaplan-Meier curve of overall survival
 
 <!-- image -->
 
-T-DM1: trastuzumab emtansine; Lap:lapatinib; Cap: capecitabine
-
-Hazard ratio is estimated based on a stratified Cox model; p-value is estimated based on a stratified log-rank test
+Hazardratio isestimated based ona stratified Coxmodel;p-valueisestimatedbased ona stratifiedlog-rank test.
 
 In study TDM4370g/BO21977, consistent treatment benefit of trastuzumab emtansine was seen in the majority of pre-specified subgroups evaluated, supporting the robustness of the overall result. In the
 
@@ -654,7 +653,7 @@ In the descriptive follow-up overall survival analysis, the hazard ratio was 0.7
 
 ## TDM4450g
 
-A randomised, multicentre, open-label phase II study evaluated the effects of trastuzumab emtansine versus trastuzumab plus docetaxel in patients with HER2-positive MBC who had not received prior chemotherapy for metastatic disease. Patients were randomised to receive trastuzumab emtansine 3.6 mg/kg intravenously every 3 weeks (n = 67) or trastuzumab 8 mg/kg intravenous loading dose followed by 6 mg/kg intravenously every 3 weeks plus docetaxel 75-100 mg/m 2 intravenously every 3 weeks (n = 70).
+A randomised, multicentre, open-label phase II study evaluated the effects of trastuzumab emtansine versus trastuzumab plus docetaxel in patients with HER2-positive MBC who had not received prior chemotherapy for metastatic disease. Patients were randomised to receive trastuzumab emtansine 3.6 mg/kg intravenously every 3 weeks (n = 67) or trastuzumab 8 mg/kg intravenous loading dose followed by 6 mg/kg intravenously every 3 weeks plus docetaxel 75-100 mg/m 2  intravenously every 3 weeks (n = 70).
 
 The primary endpoint was investigator assessed Progression-Free Survival (PFS). The median PFS was 9.2 months in the trastuzumab plus docetaxel arm and 14.2 months in the trastuzumab emtansine arm (hazard ratio, 0.59; p = 0.035), with a median follow-up of approximately 14 months in both arms. The objective response rate (ORR) was 58.0% with trastuzumab plus docetaxel and 64.2% with trastuzumab emtansine. The median duration of response was not reached with trastuzumab emtansine vs. 9.5 months in the control arm.
 
@@ -682,7 +681,7 @@ Trastuzumab emtansine is administered intravenously. There have been no studies 
 
 ## Distribution
 
-Patients in Study TDM4370g/BO21977 and Study BO29738 who received 3.6 mg/kg of trastuzumab emtansine intravenously every 3 weeks had a mean Cycle 1 maximum serum concentration (Cmax) of trastuzumab emtansine of 83.4 (± 16.5) µ g/mL and 72.6 (± 24.3) µ g/mL, respectively. Based on population PK analysis, following intravenous administration, the central volume of distribution of trastuzumab emtansine was (3.13 L) and approximated that of plasma volume.
+Patients in Study TDM4370g/BO21977 and Study BO29738 who received 3.6 mg/kg of trastuzumab emtansine intravenously every 3 weeks had a mean Cycle 1 maximum serum concentration (Cmax) of trastuzumab emtansine of 83.4 (± 16.5)  g/mL and 72.6 (± 24.3)  g/mL, respectively. Based on population PK analysis, following intravenous administration, the central volume of distribution of trastuzumab emtansine was (3.13 L) and approximated that of plasma volume.
 
 ## Biotransformation (trastuzumab emtansine and DM1)
 
@@ -708,7 +707,7 @@ The population PK analysis showed that age did not affect the PK of trastuzumab 
 
 ## Renal impairment
 
-No formal PK study has been conducted in patients with renal impairment. The population PK analysis showed that creatinine clearance does not affect the PK of trastuzumab emtansine. Pharmacokinetics of trastuzumab emtansine in patients with mild (creatinine clearance CLcr 60 to 89 mL/min, n = 254) or moderate (CLcr 30 to 59 mL/min, n = 53) renal impairment were similar to those in patients with normal renal function (CLcr ≥ 90 mL/min, n = 361). Pharmacokinetic data in patients with severe renal impairment (CLcr 15 to 29 mL/min) are limited (n = 1), therefore no posology recommendations can be made.
+No formal PK study has been conducted in patients with renal impairment. The population PK analysis showed that creatinine clearance does not affect the PK of trastuzumab emtansine. Pharmacokinetics of trastuzumab emtansine in patients with mild (creatinine clearance CLcr 60 to 89 mL/min, n = 254) or moderate (CLcr 30 to 59 mL/min, n = 53) renal impairment were similar to those in patients with normal renal function (CLcr  90 mL/min, n = 361). Pharmacokinetic data in patients with severe renal impairment (CLcr 15 to 29 mL/min) are limited (n = 1), therefore no posology recommendations can be made.
 
 ## Hepatic impairment
 
@@ -728,7 +727,7 @@ The population PK analysis showed that race did not appear to influence the PK o
 
 ## Animal toxicology and/or pharmacology
 
-Administration of trastuzumab emtansine was well tolerated in rats and monkeys at doses up to 20 and 10 mg/kg, respectively, corresponding to 2040 µ g DM1/m 2  in both species, which is approximately equivalent to the clinical dose of trastuzumab emtansine in patients. In the GLP toxicity studies, with the exception of irreversible peripheral axonal toxicity (observed only in monkeys at ≥ 10 mg/kg) and reproductive organ toxicity (observed only in rats at 60 mg/kg), partially or completely reversible dose dependent toxicities were identified in both animal models. Principal toxicities included liver (liver enzyme elevations) at ≥ 20 mg/kg and ≥ 10 mg/kg, bone marrow (reduced platelet and white blood cell count)/haematologic at ≥ 20 mg/kg and ≥ 10 mg/kg, and lymphoid organs at ≥ 20 mg/kg and ≥ 3 mg/kg, in rat and monkey, respectively.
+Administration of trastuzumab emtansine was well tolerated in rats and monkeys at doses up to 20 and 10 mg/kg, respectively, corresponding to 2040  g DM1/m 2  in both species, which is approximately equivalent to the clinical dose of trastuzumab emtansine in patients. In the GLP toxicity studies, with the exception of irreversible peripheral axonal toxicity (observed only in monkeys at  10 mg/kg) and reproductive organ toxicity (observed only in rats at 60 mg/kg), partially or completely reversible dose dependent toxicities were identified in both animal models. Principal toxicities included liver (liver enzyme elevations) at  20 mg/kg and  10 mg/kg, bone marrow (reduced platelet and white blood cell count)/haematologic at  20 mg/kg and  10 mg/kg, and lymphoid organs at  20 mg/kg and  3 mg/kg, in rat and monkey, respectively.
 
 ## Mutagenicity
 
@@ -764,7 +763,7 @@ Glucose (5%) solution should not be used for reconstitution or dilution since it
 
 ## Reconstituted solution
 
-Chemical and physical in-use stability of the reconstituted solution has been demonstrated for up to 24 hours at 2 °C to 8 °C. From a microbiological point of view, the product should be used immediately. If not used immediately, the reconstituted vials can be stored for up to 24 hours at 2 °C to 8 °C, provided it was reconstituted under controlled and validated aseptic conditions, and must be discarded thereafter.
+Chemical and physical in-use stability of the reconstituted solution has been demonstrated for up to 120 hours (5 days) at 2 °C to 8 °C when reconstituted with sterile water for injection or sodium chloride 4.5 mg/mL (0.45%). From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 °C to 8 °C, unless reconstitution has taken place in controlled and validated aseptic conditions.
 
 ## Diluted solution
 
@@ -774,7 +773,7 @@ The reconstituted Kadcyla solution diluted in infusion bags containing sodium ch
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ° C - 8 ° C).
+Store in a refrigerator (2  C - 8  C).
 
 For storage conditions after reconstitution and dilution of the medicinal product, see section 6.3.
 
@@ -804,9 +803,9 @@ In order to prevent medicinal product errors it is important to check the vial l
 
 ## Instructions for reconstitution
 
-- 100 mg trastuzumab emtansine vial: Using a sterile syringe, slowly inject 5 mL of sterile water for injection into the vial.
-- 160 mg trastuzumab emtansine vial: Using a sterile syringe, slowly inject 8 mL of sterile water for injection into the vial.
-- Swirl the vial gently until completely dissolved. Do not shake.
+-  100 mg trastuzumab emtansine vial: Using a sterile syringe, slowly inject 5 mL of sterile water for injection or sodium chloride 4.5 mg/mL (0.45%) into the vial.
+-  160 mg trastuzumab emtansine vial: Using a sterile syringe, slowly inject 8 mL of sterile water for injection or sodium chloride 4.5 mg/mL (0.45%) into the vial.
+-  Swirl the vial gently until completely dissolved. Do not shake.
 
 Reconstituted solution should be inspected visually for particulate matter and discolouration prior to administration. The reconstituted solution should be free of visible particulates, clear to slightly opalescent. The colour of the reconstituted solution should be colourless to pale brown. Do not use if the reconstituted solution contains visible particulates, or is cloudy or discoloured.
 
@@ -814,15 +813,13 @@ Reconstituted solution should be inspected visually for particulate matter and d
 
 Determine the volume of the reconstituted solution required based on a dose of 3.6 mg trastuzumab emtansine/kg body weight (see section 4.2):
 
-Volume (mL) = Total dose to be administered ( body weight (kg) x dose
+Volume (mL) = Total dose to be administered ( body weight (kg) x dose (mg/kg))
 
-20
-
-(mg/kg)) (mg/mL, concentration of reconstituted solution)
+20 (mg/mL, concentration of reconstituted solution)
 
 <div style=\"page-break-after: always\"></div>
 
-The appropriate amount of solution should be withdrawn from the vial and added to an infusion bag containing 250 mL of sodium chloride 4.5 mg/mL (0.45%) solution for infusion or sodium chloride 9 mg/mL (0.9%) solution for infusion. Glucose (5%) solution should not be used (see section 6.2). Sodium chloride 4.5 mg/mL (0.45%) solution for infusion may be used without a polyethersulfone (PES) 0.20 or 0.22μm in -line filter. If sodium chloride 9 mg/mL (0.9%) solution for infusion is used for infusion, a 0.20 or 0.22 micron in-line polyethersulfone (PES) filter is required. Once the infusion is prepared it should be administered immediately. Do not freeze or shake the infusion during storage.
+The appropriate amount of solution should be withdrawn from the vial and added to an infusion bag containing 250 mL of sodium chloride 4.5 mg/mL (0.45%) solution for infusion or sodium chloride 9 mg/mL (0.9%) solution for infusion. Glucose (5%) solution should not be used (see section 6.2). Sodium chloride 4.5 mg/mL (0.45%) solution for infusion may be used without a polyethersulfone (PES) 0.20 or 0.22μ m in-line filter. If sodium chloride 9 mg/mL (0.9%) solution for infusion is used for infusion, a 0.20 or 0.22 micron in-line polyethersulfone (PES) filter is required. Once the infusion is prepared it should be administered immediately. Do not freeze or shake the infusion during storage.
 
 ## Disposal
 
@@ -873,39 +870,37 @@ Name and address of the manufacturer responsible for batch release
 
 Roche Pharma AG Emil-Barell-Strasse 1 79639 Grenzach-Whylen Germany
 
-The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
-
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 Medicinal product subject to restricted medical prescription (see Annex I: Summary of Product Characteristics, section 4.2).
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
-## · Additional risk minimisation measures
+##  Additional risk minimisation measures
 
 The MAH shall agree the content and format of the Kadcyla (trastuzumab emtansine) educational material and a communication plan with the National Competent Authority in the Member State before Kadcyla (trastuzumab emtansine) is launched in each Member State.
 
 The MAH shall ensure that in parallel to the launch of Kadcyla (trastuzumab emtansine), all health care professionals who may prescribe, dispense or administer Kadcyla (trastuzumab emtansine) and/or Herceptin (trastuzumab) are provided with a health care professional (HCP) educational pack. This HCP educational pack shall consist of the following:
 
-- Kadcyla (trastuzumab emtansine) SmPC
-- Health care professional information
+-  Kadcyla (trastuzumab emtansine) SmPC
+-  Health care professional information
 
 The HCP information shall contain the following key messages:
 
@@ -985,10 +980,16 @@ EXP
 
 Store in a refrigerator
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10.
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
+
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
+
+APPROPRIATE
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
 Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
@@ -1018,8 +1019,8 @@ Justification for not including Braille accepted
 
 2D barcode carrying the unique identifier included.
 
-| 18. UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|---------------------------------------------|
+| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|----------------------------------------------|
 
 PC SN
 
@@ -1106,8 +1107,6 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-## 9. SPECIAL STORAGE CONDITIONS
-
 Store in a refrigerator
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
@@ -1116,31 +1115,40 @@ Store in a refrigerator
 
 Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/13/885/002
 
-13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Justification for not including Braille accepted
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|----------------------------------------------|
 
 PC SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
@@ -1170,8 +1178,6 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## B. PACKAGE LEAFLET
 
 ## Package leaflet: Information for the user
@@ -1184,9 +1190,9 @@ trastuzumab emtansine
 
 ## Read all of this leaflet carefully before you start being given this medicine because it contains important information for you.
 
-- Keep this leaflet. You may need to read it again.
-- If you have any further questions, ask your doctor, pharmacist or nurse.
-- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+-  Keep this leaflet. You may need to read it again.
+-  If you have any further questions, ask your doctor, pharmacist or nurse.
+-  If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1203,23 +1209,23 @@ trastuzumab emtansine
 
 Kadcyla contains the active substance trastuzumab emtansine, which is made up of two parts that are linked together:
 
-- trastuzumab - a monoclonal antibody that binds selectively to an antigen (a target protein) called human epidermal growth factor receptor 2 (HER2). HER2 is found in large amounts on the surface of some cancer cells where it stimulates their growth. When trastuzumab binds to HER2 it can stop the cancer cells growth and cause them to die.
-- DM1 - an anti-cancer substance that becomes active once Kadcyla enters the cancer cell.
+-  trastuzumab - a monoclonal antibody that binds selectively to an antigen (a target protein) called human epidermal growth factor receptor 2 (HER2). HER2 is found in large amounts on the surface of some cancer cells where it stimulates their growth. When trastuzumab binds to HER2 it can stop the cancer cells growth and cause them to die.
+-  DM1 - an anti-cancer substance that becomes active once Kadcyla enters the cancer cell.
 
 ## What Kadcyla is used for
 
 Kadcyla is used to treat breast cancer in adults when:
 
-- the cancer cells have many HER2 proteins on them - your doctor will test your cancer cells for this.
-- you have already received the medicine trastuzumab and a medicine known as a taxane.
-- the cancer has spread to areas near the breast or to other parts of your body (metastasized)
-- the cancer has not spread to other parts of the body and treatment is going to be given after surgery (treatment after surgery is called adjuvant therapy).
+-  the cancer cells have many HER2 proteins on them - your doctor will test your cancer cells for this.
+-  you have already received the medicine trastuzumab and a medicine known as a taxane.
+-  the cancer has spread to areas near the breast or to other parts of your body (metastasized).
+-  the cancer has not spread to other parts of the body and treatment is going to be given after surgery (treatment after surgery is called adjuvant therapy).
 
 ## 2. What you need to know before you are given Kadcyla
 
 ## You must not be given Kadcyla
 
-- if you are allergic to trastuzumab emtansine or any of the other ingredients of this medicine (listed in section 6).
+-  if you are allergic to trastuzumab emtansine or any of the other ingredients of this medicine (listed in section 6).
 
 You should not be given Kadcyla if the above applies to you. If you are not sure, talk to your doctor or nurse before you are given Kadcyla.
 
@@ -1229,9 +1235,9 @@ You should not be given Kadcyla if the above applies to you. If you are not sure
 
 Talk to your doctor or nurse before you are given Kadcyla if:
 
-- you have ever had a serious infusion-related reaction from using trastuzumab characterised by symptoms such as flushing, chills, fever, shortness of breath, difficulty breathing, rapid heartbeat or a drop in blood pressure.
-- you are receiving treatment with blood thinning medicines (e.g. warfarin, heparin).
-- you have any history of liver problems. Your doctor will check your blood to test your liver function before and regularly during treatment
+-  you have ever had a serious infusion-related reaction from using trastuzumab characterised by symptoms such as flushing, chills, fever, shortness of breath, difficulty breathing, rapid heartbeat or a drop in blood pressure.
+-  you are receiving treatment with blood thinning medicines (e.g. warfarin, heparin).
+-  you have any history of liver problems. Your doctor will check your blood to test your liver function before and regularly during treatment.
 
 If any of the above apply to you (or you are not sure), talk to your doctor or pharmacist before you are given Kadcyla.
 
@@ -1241,17 +1247,17 @@ Kadcyla can make some existing conditions worse, or cause side effects. See sect
 
 ## Tell your doctor or nurse straight away if you notice any of the following serious side effects while you are given Kadcyla:
 
-- Breathing problems: Kadcyla can cause serious breathing problems such as shortness of breath (either at rest or while performing any type of activity) and cough. These may be signs of inflammation of your lung, which may be serious, and even fatal. If you develop lung disease your doctor may stop treatment with this medicine.
-- Liver problems: Kadcyla can cause inflammation or damage to cells in the liver that can stop the liver from functioning normally. Inflamed or injured liver cells may leak higher than normal amounts of certain substances (liver enzymes) into the bloodstream, resulting in elevated liver enzymes in blood tests. In most cases you will not have any symptoms. Some symptoms could be yellowing of your skin and whites of your eyes (jaundice). Your doctor will check your blood to test your liver function before and regularly during treatment.
-- Another rare abnormality that can occur in the liver is a condition known as nodular regenerative hyperplasia (NRH). This abnormality causes the structure of the liver to change and can change how the liver functions. Over time, this may lead to symptoms such as a bloated sensation or swelling of the abdomen due to fluid accumulation or bleeding from abnormal blood vessels in the gullet or rectum.
-- Heart problems: Kadcyla can weaken the heart muscle. When the heart muscle is weak, patients may develop symptoms such as shortness of breath at rest or when sleeping, chest pain, swollen legs or arms, and a sensation of rapid or irregular heartbeats. Your doctor will check your heart function before and regularly during treatment. You should tell your doctor immediately if you notice any of the above symptoms.
-- Infusion-related reactions or allergic reactions : Kadcyla can cause flushing, shivering fits, fever, trouble breathing, low blood pressure, rapid heartbeat, sudden swelling of your face, tongue, or trouble swallowing during the infusion or after the infusion on the first day of treatment. Your doctor or nurse will check to see whether you are having any of these side effects. If you develop a reaction, they will slow down or stop the infusion and may give you treatment to counteract the side effects. The infusion may be continued after the symptoms improve.
-- Bleeding problems: Kadcyla can lower the number of platelets in your blood. Platelets help your blood to clot so you might get unexpected bruising or bleeding (such as nose bleeds, bleeding from gums). Your doctor will check your blood regularly for decreased platelets. You should tell your doctor immediately if you notice any unexpected bruising or bleeding.
+-  Breathing problems: Kadcyla can cause serious breathing problems such as shortness of breath (either at rest or while performing any type of activity) and cough. These may be signs of inflammation of your lung, which may be serious, and even fatal. If you develop lung disease your doctor may stop treatment with this medicine.
+-  Liver problems: Kadcyla can cause inflammation or damage to cells in the liver that can stop the liver from functioning normally. Inflamed or injured liver cells may leak higher than normal amounts of certain substances (liver enzymes) into the bloodstream, resulting in elevated liver enzymes in blood tests. In most cases you will not have any symptoms. Some symptoms could be yellowing of your skin and whites of your eyes (jaundice). Your doctor will check your blood to test your liver function before and regularly during treatment.
+-  Another rare abnormality that can occur in the liver is a condition known as nodular regenerative hyperplasia (NRH). This abnormality causes the structure of the liver to change and can change how the liver functions. Over time, this may lead to symptoms such as a bloated sensation or swelling of the abdomen due to fluid accumulation or bleeding from abnormal blood vessels in the gullet or rectum.
+-  Heart problems: Kadcyla can weaken the heart muscle. When the heart muscle is weak, patients may develop symptoms such as shortness of breath at rest or when sleeping, chest pain, swollen legs or arms, and a sensation of rapid or irregular heartbeats. Your doctor will check your heart function before and regularly during treatment. You should tell your doctor immediately if you notice any of the above symptoms.
+-  Infusion-related reactions or allergic reactions : Kadcyla can cause flushing, shivering fits, fever, trouble breathing, low blood pressure, rapid heartbeat, sudden swelling of your face, tongue, or trouble swallowing during the infusion or after the infusion on the first day of treatment. Your doctor or nurse will check to see whether you are having any of these side effects. If you develop a reaction, they will slow down or stop the infusion and may give you treatment to counteract the side effects. The infusion may be continued after the symptoms improve.
+-  Bleeding problems: Kadcyla can lower the number of platelets in your blood. Platelets help your blood to clot so you might get unexpected bruising or bleeding (such as nose bleeds, bleeding from gums). Your doctor will check your blood regularly for decreased platelets. You should tell your doctor immediately if you notice any unexpected bruising or bleeding.
 
 <div style=\"page-break-after: always\"></div>
 
-- Neurological problems: Kadcyla can damage nerves. You may experience tingling, pain, numbness, itching, crawling sensation, pins and needles in your hands and feet. Your doctor will monitor you for signs and symptoms of neurological problems.
-- Injection site reaction: If you get a burning sensation, feel pain or tenderness at the infusion site during the infusion, this could indicate that Kadcyla has leaked outside the blood vessel. Tell your doctor or nurse immediately. If Kadcyla has leaked outside the blood vessel, increased pain, discolouration, blistering and sloughing of your skin (skin necrosis) can occur within days or weeks after the infusion.
+-  Neurological problems: Kadcyla can damage nerves. You may experience tingling, pain, numbness, itching, crawling sensation, pins and needles in your hands and feet. Your doctor will monitor you for signs and symptoms of neurological problems.
+-  Injection site reaction: If you get a burning sensation, feel pain or tenderness at the infusion site during the infusion, this could indicate that Kadcyla has leaked outside the blood vessel. Tell your doctor or nurse immediately. If Kadcyla has leaked outside the blood vessel, increased pain, discolouration, blistering and sloughing of your skin (skin necrosis) can occur within days or weeks after the infusion.
 
 Tell your doctor or nurse straight away if you notice any of the side effects above.
 
@@ -1265,11 +1271,11 @@ Tell your doctor or nurse if you are taking, have recently taken or might take a
 
 In particular, tell your doctor or pharmacist if you are taking:
 
-- any medicines to thin your blood such as warfarin or decrease the ability to form blood clots such as aspirin
-- medicines for fungal infections called ketoconazole, itraconazole or voriconazole
-- antibiotics for infections called clarithromycin or telithromycin
-- medicines for HIV called atazanavir, indinavir, nelfinavir, ritonavir or saquinavir.
-- medicine for depression called nefazodone
+-  any medicines to thin your blood such as warfarin or decrease the ability to form blood clots such as aspirin
+-  medicines for fungal infections called ketoconazole, itraconazole or voriconazole
+-  antibiotics for infections called clarithromycin or telithromycin
+-  medicines for HIV called atazanavir, indinavir, nelfinavir, ritonavir or saquinavir.
+-  medicine for depression called nefazodone
 
 If any of the above apply to you (or you are not sure), talk to your doctor or pharmacist before you are given Kadcyla.
 
@@ -1277,11 +1283,11 @@ If any of the above apply to you (or you are not sure), talk to your doctor or p
 
 Kadcyla is not recommended if you are pregnant because this medicine may cause harm to the unborn baby.
 
-- Tell your doctor before using Kadcyla if you are pregnant, think you may be pregnant or are planning to have a baby.
-- Use effective contraception to avoid becoming pregnant while you are being treated with Kadcyla. Talk to your doctor about the best contraception for you.
-- You should continue to take your contraception for at least 7 months after your last dose of Kadcyla. Talk to your doctor before stopping your contraception.
-- Male patients or their female partners should also use effective contraception.
-- If you do become pregnant during treatment with Kadcyla, tell your doctor straight away.
+-  Tell your doctor before using Kadcyla if you are pregnant, think you may be pregnant or are planning to have a baby.
+-  Use effective contraception to avoid becoming pregnant while you are being treated with Kadcyla. Talk to your doctor about the best contraception for you.
+-  You should continue to take your contraception for at least 7 months after your last dose of Kadcyla. Talk to your doctor before stopping your contraception.
+-  Male patients or their female partners should also use effective contraception.
+-  If you do become pregnant during treatment with Kadcyla, tell your doctor straight away.
 
 ## Breast-feeding
 
@@ -1309,16 +1315,16 @@ This medicine contains 1.7 mg of polysorbate 20 in each vial which is equivalent
 
 Kadcyla will be given to you by a doctor or nurse in a hospital or clinic:
 
-- It is given by a drip into a vein (intravenous infusion).
-- You will be given one infusion every 3 weeks.
+-  It is given by a drip into a vein (intravenous infusion).
+-  You will be given one infusion every 3 weeks.
 
 ## How much you will be given
 
-- You will be given 3.6 mg of Kadcyla for every kilogram of your body weight. Your doctor will calculate the correct dose for you.
-- The first infusion will be given to you over 90 minutes. You will be observed by a doctor or nurse while it is being given and for at least 90 minutes following the initial dose, in case you have any side effects.
-- If the first infusion is well tolerated, the infusion on your next visit may be given over 30 minutes. You will be observed by a doctor or nurse while it is being given and for at least 30 minutes following the dose, in case you have any side effects.
-- The total number of infusions that you will be given depends on how you respond to the treatment and which indication is treated.
-- If you experience side effects, your doctor may decide to continue your treatment but lower your dose, delay the next dose or stop the treatment.
+-  You will be given 3.6 mg of Kadcyla for every kilogram of your body weight. Your doctor will calculate the correct dose for you.
+-  The first infusion will be given to you over 90 minutes. You will be observed by a doctor or nurse while it is being given and for at least 90 minutes following the initial dose, in case you have any side effects.
+-  If the first infusion is well tolerated, the infusion on your next visit may be given over 30 minutes. You will be observed by a doctor or nurse while it is being given and for at least 30 minutes following the dose, in case you have any side effects.
+-  The total number of infusions that you will be given depends on how you respond to the treatment and which indication is treated.
+-  If you experience side effects, your doctor may decide to continue your treatment but lower your dose, delay the next dose or stop the treatment.
 
 ## If you miss a Kadcyla treatment
 
@@ -1338,29 +1344,29 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Very common (may affect more than 1 in 10 people):
 
-- Kadcyla may cause inflammation or damage to cells in the liver, resulting in elevated liver enzymes in blood tests. However, in most cases during Kadcyla treatment, liver enzyme levels are elevated mildly and temporarily, do not cause any symptoms, and do not affect liver function.
-- Unexpected bruising and bleeding (such as nose bleeds).
-- Tingling, pain, numbness, itching, crawling sensation, pins and needles in your hands and feet. These symptoms may indicate nerve damage.
+-  Kadcyla may cause inflammation or damage to cells in the liver, resulting in elevated liver enzymes in blood tests. However, in most cases during Kadcyla treatment, liver enzyme levels are elevated mildly and temporarily, do not cause any symptoms, and do not affect liver function.
+-  Unexpected bruising and bleeding (such as nose bleeds).
+-  Tingling, pain, numbness, itching, crawling sensation, pins and needles in your hands and feet. These symptoms may indicate nerve damage.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Common (may affect up to 1 in 10 people):
 
-- Flushing, shivering fits, fever, trouble breathing, low blood pressure or a rapid heartbeat during the infusion or up to 24 hours after the infusion - these are so-called infusion-related reactions.
-- Heart problems can occur. Most patients will not have symptoms from the heart problems. If symptoms do occur, cough shortness of breath at rest or when sleeping flat, chest pain and swollen ankles or arms, a sensation of rapid or irregular heartbeats may be observed.
+-  Flushing, shivering fits, fever, trouble breathing, low blood pressure or a rapid heartbeat during the infusion or up to 24 hours after the infusion - these are so-called infusion-related reactions.
+-  Heart problems can occur. Most patients will not have symptoms from the heart problems. If symptoms do occur, cough, shortness of breath at rest or when sleeping flat, chest pain and swollen ankles or arms, a sensation of rapid or irregular heartbeats may be observed.
 
 ## Uncommon (may affect up to 1 in 100 people):
 
-- Inflammation of your lungs can cause breathing problems such as shortness of breath (either at rest or while performing any type of activity), coughing or coughing spells with a dry cough these are signs of inflammation of your lung tissue.
-- Allergic reactions can occur and most patients will have mild symptoms such as itching or tightness in the chest. In more severe cases, swelling of your face or tongue, trouble swallowing or difficulty breathing may occur.
+-  Inflammation of your lungs can cause breathing problems such as shortness of breath (either at rest or while performing any type of activity), coughing or coughing spells with a dry cough these are signs of inflammation of your lung tissue.
+-  Allergic reactions can occur and most patients will have mild symptoms such as itching or tightness in the chest. In more severe cases, swelling of your face or tongue, trouble swallowing or difficulty breathing may occur.
 
 ## Rare (may affect up to 1 in 1000 people):
 
-- Your skin and whites of your eyes get yellow (jaundice) - these could be signs of severe liver damage.
+-  Your skin and whites of your eyes get yellow (jaundice) - these could be signs of severe liver damage.
 
 ## Frequency not known:
 
-- If Kadcyla infusion solution leaks into the area around the infusion site you may develop pain, discolouration, blistering and sloughing of your skin (skin necrosis) at the infusion site. Contact your doctor or nurse immediately.
+-  If Kadcyla infusion solution leaks into the area around the infusion site you may develop pain, discolouration, blistering and sloughing of your skin (skin necrosis) at the infusion site. Contact your doctor or nurse immediately.
 
 Tell your doctor or nurse straight away if you notice any of the serious side effects above.
 
@@ -1368,50 +1374,50 @@ Tell your doctor or nurse straight away if you notice any of the serious side ef
 
 Very common: may affect more than 1 in 10 people
 
-- decreased red blood cells (shown in a blood test)
-- being sick (vomiting)
-- diarrhoea
-- dry mouth
-- urinary tract infection
-- constipation
-- stomach ache
-- cough
-- shortness of breath
-- inflammation of the mouth
-- difficulty sleeping
-- muscle or joint pain
-- fever
-- headache
-- feeling tired
-- weakness
+-  decreased red blood cells (shown in a blood test)
+-  being sick (vomiting)
+-  diarrhoea
+-  dry mouth
+-  urinary tract infection
+-  constipation
+-  stomach ache
+-  cough
+-  shortness of breath
+-  inflammation of the mouth
+-  difficulty sleeping
+-  muscle or joint pain
+-  fever
+-  headache
+-  feeling tired
+-  weakness
 
 ## Common: may affect up to 1 in 10 people
 
-- chills or flu like symptoms
-- decrease in your potassium levels (shown in a blood test)
-- skin rashes
-- decreased white blood cells (shown in a blood test)
-- dry eyes, watery eyes or blurred vision
-- eye redness or infection
-- indigestion
-- swelling of legs and/or arms
-- bleeding from the gums
-- increase in blood pressure
+-  chills or flu like symptoms
+-  decrease in your potassium levels (shown in a blood test)
+-  skin rashes
+-  decreased white blood cells (shown in a blood test)
+-  dry eyes, watery eyes or blurred vision
+-  eye redness or infection
+-  indigestion
+-  swelling of legs and/or arms
+-  bleeding from the gums
+-  increase in blood pressure
 
 <div style=\"page-break-after: always\"></div>
 
-- feeling dizzy
-- taste disturbances
-- itching
-- difficulty in remembering
-- hair loss
-- hand-and-foot skin reaction (Palmar-plantar erythrodysaesthesia syndrome)
-- nail disorder
+-  feeling dizzy
+-  taste disturbances
+-  itching
+-  difficulty in remembering
+-  hair loss
+-  hand-and-foot skin reaction (Palmar-plantar erythrodysaesthesia syndrome)
+-  nail disorder
 
 ## Uncommon: may affect up to 1 in 100 people
 
-- Another abnormality that can be caused by Kadcyla is a condition known as nodular regenerative hyperplasia of the liver. This abnormality causes the structure of the liver to change. Patients develop multiple nodules in the liver that can change how the liver functions. Over time, this may lead to symptoms such as a bloated sensation or swelling of the abdomen due to fluid accumulation or bleeding from abnormal blood vessels in the gullet or rectum.
-- If the Kadcyla infusion solution leaks into the area around the infusion site you may develop tenderness or redness of your skin, or swelling at the infusion site.
+-  Another abnormality that can be caused by Kadcyla is a condition known as nodular regenerative hyperplasia of the liver. This abnormality causes the structure of the liver to change. Patients develop multiple nodules in the liver that can change how the liver functions. Over time, this may lead to symptoms such as a bloated sensation or swelling of the abdomen due to fluid accumulation or bleeding from abnormal blood vessels in the gullet or rectum.
+-  If the Kadcyla infusion solution leaks into the area around the infusion site you may develop tenderness or redness of your skin, or swelling at the infusion site.
 
 If you get any of the side effects after your treatment with Kadcyla has stopped, talk to your doctor or nurse and tell them that you have been treated with Kadcyla.
 
@@ -1425,27 +1431,27 @@ You can also report side effects directly via the national reporting system list
 
 Kadcyla will be stored by the healthcare professionals at the hospital or clinic.
 
-- Keep this medicine out of the sight and reach of children.
-- Do not use this medicine after the expiry date which is stated on the outer carton and vial after EXP. The expiry date refers to the last day of that month.
-- Store in a refrigerator (2 °C - 8 °C). Do not freeze.
-- When prepared as a solution for infusion Kadcyla is stable for up to 24 hours at 2 °C to 8 °C, and must be discarded thereafter.
-- Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to dispose of medicines you no longer use. These measures will help to protect the environment.
+-  Keep this medicine out of the sight and reach of children.
+-  Do not use this medicine after the expiry date which is stated on the outer carton and vial after EXP. The expiry date refers to the last day of that month.
+-  Store in a refrigerator (2 °C - 8 °C). Do not freeze.
+-  When reconstituted in the vial, Kadcyla is stable for up to 120 hours (5 days) at 2 °C to 8 °C. After dilution into an infusion bag, the solution is stable for 24 hours at 2 °C to 8 °C, and must be discarded thereafter.
+-  Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to dispose of medicines you no longer use. These measures will help to protect the environment.
 
 ## 6. Contents of the pack and other information
 
 ## What Kadcyla contains
 
-- The active substance is trastuzumab emtansine.
-- Kadcyla 100 mg: One vial of powder for concentrate for solution for infusion contains 100 mg of trastuzumab emtansine. After reconstitution one vial of 5 mL solution contains 20 mg/mL of trastuzumab emtansine.
-- Kadcyla 160 mg: One vial of powder for concentrate for solution for infusion contains 160 mg of trastuzumab emtansine. After reconstitution one vial of 8 mL solution contains 20 mg/mL of trastuzumab emtansine.
-- The other ingredients are succinic acid, sodium hydroxide (see section 2 under 'Important information about some of the ingredients of Kadcyla'), sucrose, and polysorbate 20.
+-  The active substance is trastuzumab emtansine.
+-  Kadcyla 100 mg: One vial of powder for concentrate for solution for infusion contains 100 mg of trastuzumab emtansine. After reconstitution one vial of 5 mL solution contains 20 mg/mL of trastuzumab emtansine.
+-  Kadcyla 160 mg: One vial of powder for concentrate for solution for infusion contains 160 mg of trastuzumab emtansine. After reconstitution one vial of 8 mL solution contains 20 mg/mL of trastuzumab emtansine.
+-  The other ingredients are succinic acid, sodium hydroxide (see section 2 under 'Important information about some of the ingredients of Kadcyla'), sucrose, and polysorbate 20.
 
 <div style=\"page-break-after: always\"></div>
 
 ## What Kadcyla looks like and contents of the pack
 
-- Kadcyla is a white to off-white lyophilised powder for concentrate for solution for infusion supplied in glass vials.
-- Kadcyla is available in packs containing 1 vial.
+-  Kadcyla is a white to off-white lyophilised powder for concentrate for solution for infusion supplied in glass vials.
+-  Kadcyla is available in packs containing 1 vial.
 
 ## Marketing Authorisation Holder
 
@@ -1469,7 +1475,7 @@ N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
 
 : +359 2 474 5444
 
-## Česká republika
+## Č eská republika
 
 Roche s. r. o.
 
@@ -1497,7 +1503,9 @@ Tel: + 372 - 6 177 380
 
 Roche (Hellas) A.E. Ελλάδα
 
-Τηλ: +30 210 61 66 100
+Τηλ
+
+: +30 210 61 66 100
 
 ## España
 
@@ -1519,7 +1527,7 @@ Roche (Magyarország) Kft. Tel: +36 1 279 4500
 
 ## Nederland
 
-Roche Nederland B.V. Tel: +31 (0) 348 438050
+Roche Nederland B.V. Tel: +31 (0) 348 438000
 
 ## Norge
 
@@ -1541,11 +1549,9 @@ Tel: +48 - 22 345 18 88
 
 ## Portugal
 
-Roche Farmacêutica Química, Lda
+Roche Farmacêutica Química, Lda Tel: +351 - 21 425 70 00
 
-Tel: +351 - 21 425 70 00
-
-France
+## France
 
 Roche
 
@@ -1621,7 +1627,7 @@ In order to prevent medicinal product errors it is important to check the vial l
 
 Kadcyla must be reconstituted and diluted by a healthcare professional and administered as an intravenous infusion. It must not be administered as an intravenous push or bolus.
 
-Always keep this medicine in the closed original pack at a temperature of 2 °C - 8 °C in a refrigerator. A vial of Kadcyla reconstituted with water for injections (not supplied) is stable for 24 hours at 2 °C - 8 °C after reconstitution and must not be frozen.
+Always keep this medicine in the closed original pack at a temperature of 2 °C - 8 °C in a refrigerator. A vial of Kadcyla reconstituted with water for injections or sodium chloride 4.5 mg/mL (0.45%)  (not supplied) is stable for up to 120 hours (5 days) at 2 °C - 8 °C after reconstitution and must not be frozen.
 
 Appropriate aseptic technique should be used. Appropriate procedures for the preparation of chemotherapeutic medicinal products should be used.
 
@@ -1631,9 +1637,9 @@ The use of 0.20 or 0.22 micron in-line polyethersulfone (PES) filter is required
 
 ## Instructions for reconstitution
 
-- Kadcyla 100 mg: using a sterile syringe, slowly inject 5 mL of sterile water for injection into the 100 mg trastuzumab emtansine vial.
-- Kadcyla 160 mg: using a sterile syringe, slowly inject 8 mL of sterile water for injection into the 160 mg trastuzumab emtansine vial.
-- Swirl the vial gently until completely dissolved. Do not shake.
+-  Kadcyla 100 mg: using a sterile syringe, slowly inject 5 mL of sterile water for injection or sodium chloride 4.5 mg/mL (0.45%) into the 100 mg trastuzumab emtansine vial.
+-  Kadcyla 160 mg: using a sterile syringe, slowly inject 8 mL of sterile water for injection or sodium chloride 4.5 mg/mL (0.45%) into the 160 mg trastuzumab emtansine vial.
+-  Swirl the vial gently until completely dissolved. Do not shake.
 
 Reconstituted solution should be inspected visually for particulate matter and discolouration prior to administration. The reconstituted solution should be free of visible particulates, clear to slightly opalescent. The colour of the reconstituted solution should be colourless to pale brown. Do not use if reconstituted solution is cloudy or discoloured.
 
@@ -1647,4 +1653,4 @@ Determine the volume of the reconstituted solution required based on a dose of 3
 
 20 (mg/mL, concentration of reconstituted solution)
 
-The appropriate amount of solution should be withdrawn from the vial and added to an infusion bag containing 250 mL of sodium chloride 4.5 mg/mL (0.45%) solution for infusion or sodium chloride 9 mg/mL (0.9%) solution for infusion. Glucose (5%) solution should not be used. Sodium chloride 4.5 mg/mL (0.45%) solution for infusion may be used without a polyethersulfone (PES) 0.20 or 0.22μm in -line filter. If sodium chloride 9 mg/mL (0.9%) solution for infusion is used for infusion, a 0.20 or 0.22 micron in-line polyethersulfone (PES) filter is required. Once the infusion is prepared it should be administered immediately. Do not freeze or shake the infusion during storage. If diluted aseptically, it may be stored for up to 24 hours at 2 °C to 8 °C.
+The appropriate amount of solution should be withdrawn from the vial and added to an infusion bag containing 250 mL of sodium chloride 4.5 mg/mL (0.45%) solution for infusion or sodium chloride 9 mg/mL (0.9%) solution for infusion. Glucose (5%) solution should not be used. Sodium chloride 4.5 mg/mL (0.45%) solution for infusion may be used without a polyethersulfone (PES) 0.20 or 0.22μ m in-line filter. If sodium chloride 9 mg/mL (0.9%) solution for infusion is used for infusion, a 0.20 or 0.22 micron in-line polyethersulfone (PES) filter is required. Once the infusion is prepared it should be administered immediately. Do not freeze or shake the infusion during storage. If diluted aseptically, it may be stored for up to 24 hours at 2 °C to 8 °C.

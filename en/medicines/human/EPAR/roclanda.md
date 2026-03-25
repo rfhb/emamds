@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-15 15:02:00
+document_datetime: 2026-03-24 14:54:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/roclanda.html
 document_name: roclanda.html
 version: success
-processing_time: 0.1026885
-conversion_datetime: 2026-01-17 13:07:57.748769
+processing_time: 0.0885935
+conversion_datetime: 2026-03-25 12:45:34.207396
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.15.0
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Roclanda
 
 [RSS](/en/individual-human-medicine.xml/67393)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-latanoprost / netarsudil Medicine Human Authorised
+latanoprost / netarsudil
+
+Medicine Human Authorised
 
 Page contents
 
@@ -105,181 +107,137 @@ English (EN) (138.47 KB - PDF)
 
 [View](/en/documents/overview/roclanda-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-150)
+[Other languages (22)](#file-language-dropdown-10)
 
 български (BG) (142.64 KB - PDF)
 
-**First published:**
-
-21/01/2021
+**First published:** 21/01/2021
 
 [View](/bg/documents/overview/roclanda-epar-medicine-overview_bg.pdf)
 
 español (ES) (118.03 KB - PDF)
 
-**First published:**
-
-21/01/2021
+**First published:** 21/01/2021
 
 [View](/es/documents/overview/roclanda-epar-medicine-overview_es.pdf)
 
 čeština (CS) (138.75 KB - PDF)
 
-**First published:**
-
-21/01/2021
+**First published:** 21/01/2021
 
 [View](/cs/documents/overview/roclanda-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (116.11 KB - PDF)
 
-**First published:**
-
-21/01/2021
+**First published:** 21/01/2021
 
 [View](/da/documents/overview/roclanda-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (120.57 KB - PDF)
 
-**First published:**
-
-21/01/2021
+**First published:** 21/01/2021
 
 [View](/de/documents/overview/roclanda-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (104.59 KB - PDF)
 
-**First published:**
-
-21/01/2021
+**First published:** 21/01/2021
 
 [View](/et/documents/overview/roclanda-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (138.91 KB - PDF)
 
-**First published:**
-
-21/01/2021
+**First published:** 21/01/2021
 
 [View](/el/documents/overview/roclanda-epar-medicine-overview_el.pdf)
 
 français (FR) (119.06 KB - PDF)
 
-**First published:**
-
-21/01/2021
+**First published:** 21/01/2021
 
 [View](/fr/documents/overview/roclanda-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (137.52 KB - PDF)
 
-**First published:**
-
-21/01/2021
+**First published:** 21/01/2021
 
 [View](/hr/documents/overview/roclanda-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (115.99 KB - PDF)
 
-**First published:**
-
-21/01/2021
+**First published:** 21/01/2021
 
 [View](/it/documents/overview/roclanda-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (146.81 KB - PDF)
 
-**First published:**
-
-21/01/2021
+**First published:** 21/01/2021
 
 [View](/lv/documents/overview/roclanda-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (137.9 KB - PDF)
 
-**First published:**
-
-21/01/2021
+**First published:** 21/01/2021
 
 [View](/lt/documents/overview/roclanda-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (138.23 KB - PDF)
 
-**First published:**
-
-21/01/2021
+**First published:** 21/01/2021
 
 [View](/hu/documents/overview/roclanda-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (139.91 KB - PDF)
 
-**First published:**
-
-21/01/2021
+**First published:** 21/01/2021
 
 [View](/mt/documents/overview/roclanda-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (117.37 KB - PDF)
 
-**First published:**
-
-21/01/2021
+**First published:** 21/01/2021
 
 [View](/nl/documents/overview/roclanda-epar-medicine-overview_nl.pdf)
 
 polski (PL) (141.4 KB - PDF)
 
-**First published:**
-
-21/01/2021
+**First published:** 21/01/2021
 
 [View](/pl/documents/overview/roclanda-epar-medicine-overview_pl.pdf)
 
 português (PT) (118.38 KB - PDF)
 
-**First published:**
-
-21/01/2021
+**First published:** 21/01/2021
 
 [View](/pt/documents/overview/roclanda-epar-medicine-overview_pt.pdf)
 
 română (RO) (136.79 KB - PDF)
 
-**First published:**
-
-21/01/2021
+**First published:** 21/01/2021
 
 [View](/ro/documents/overview/roclanda-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (137.47 KB - PDF)
 
-**First published:**
-
-21/01/2021
+**First published:** 21/01/2021
 
 [View](/sk/documents/overview/roclanda-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (133.94 KB - PDF)
 
-**First published:**
-
-21/01/2021
+**First published:** 21/01/2021
 
 [View](/sl/documents/overview/roclanda-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (114.42 KB - PDF)
 
-**First published:**
-
-21/01/2021
+**First published:** 21/01/2021
 
 [View](/fi/documents/overview/roclanda-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (115.67 KB - PDF)
 
-**First published:**
-
-21/01/2021
+**First published:** 21/01/2021
 
 [View](/sv/documents/overview/roclanda-epar-medicine-overview_sv.pdf)
 
@@ -287,9 +245,7 @@ Roclanda : EPAR - Risk management plan
 
 English (EN) (629.91 KB - PDF)
 
-**First published:** 21/01/2021
-
-**Last updated:** 15/01/2026
+**First published:** 21/01/2021 **Last updated:** 15/01/2026
 
 [View](/en/documents/rmp/roclanda-epar-risk-management-plan_en.pdf)
 
@@ -297,305 +253,161 @@ English (EN) (629.91 KB - PDF)
 
 Roclanda : EPAR - Product information
 
-English (EN) (266.61 KB - PDF)
+English (EN) (301.69 KB - PDF)
 
-**First published:** 21/01/2021
-
-**Last updated:** 17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/en/documents/product-information/roclanda-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-34)
+[Other languages (24)](#file-language-dropdown-508)
 
-български (BG) (392.62 KB - PDF)
+български (BG) (411.59 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/bg/documents/product-information/roclanda-epar-product-information_bg.pdf)
 
-español (ES) (275.06 KB - PDF)
+español (ES) (366.75 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/es/documents/product-information/roclanda-epar-product-information_es.pdf)
 
-čeština (CS) (363.45 KB - PDF)
+čeština (CS) (387.88 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/cs/documents/product-information/roclanda-epar-product-information_cs.pdf)
 
-dansk (DA) (266.08 KB - PDF)
+dansk (DA) (395.89 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/da/documents/product-information/roclanda-epar-product-information_da.pdf)
 
-Deutsch (DE) (281.03 KB - PDF)
+Deutsch (DE) (379.05 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/de/documents/product-information/roclanda-epar-product-information_de.pdf)
 
-eesti keel (ET) (265.81 KB - PDF)
+eesti keel (ET) (386.11 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/et/documents/product-information/roclanda-epar-product-information_et.pdf)
 
-ελληνικά (EL) (399.88 KB - PDF)
+ελληνικά (EL) (425.06 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/el/documents/product-information/roclanda-epar-product-information_el.pdf)
 
-français (FR) (267.59 KB - PDF)
+français (FR) (304.65 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/fr/documents/product-information/roclanda-epar-product-information_fr.pdf)
 
-hrvatski (HR) (353.18 KB - PDF)
+hrvatski (HR) (389.03 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/hr/documents/product-information/roclanda-epar-product-information_hr.pdf)
 
-íslenska (IS) (275.14 KB - PDF)
+íslenska (IS) (403.71 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/is/documents/product-information/roclanda-epar-product-information_is.pdf)
 
-italiano (IT) (278.73 KB - PDF)
+italiano (IT) (306.71 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/it/documents/product-information/roclanda-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (359.79 KB - PDF)
+latviešu valoda (LV) (388.55 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/lv/documents/product-information/roclanda-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (361.85 KB - PDF)
+lietuvių kalba (LT) (398.13 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/lt/documents/product-information/roclanda-epar-product-information_lt.pdf)
 
-magyar (HU) (345.73 KB - PDF)
+magyar (HU) (406.83 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/hu/documents/product-information/roclanda-epar-product-information_hu.pdf)
 
-Malti (MT) (384.58 KB - PDF)
+Malti (MT) (422.69 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/mt/documents/product-information/roclanda-epar-product-information_mt.pdf)
 
-Nederlands (NL) (269.34 KB - PDF)
+Nederlands (NL) (365.69 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/nl/documents/product-information/roclanda-epar-product-information_nl.pdf)
 
-norsk (NO) (261.69 KB - PDF)
+norsk (NO) (345.4 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/no/documents/product-information/roclanda-epar-product-information_no.pdf)
 
-polski (PL) (374.28 KB - PDF)
+polski (PL) (400.31 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/pl/documents/product-information/roclanda-epar-product-information_pl.pdf)
 
-português (PT) (257.18 KB - PDF)
+português (PT) (362.21 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/pt/documents/product-information/roclanda-epar-product-information_pt.pdf)
 
-română (RO) (358.84 KB - PDF)
+română (RO) (406.56 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/ro/documents/product-information/roclanda-epar-product-information_ro.pdf)
 
-slovenčina (SK) (364.9 KB - PDF)
+slovenčina (SK) (404.09 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/sk/documents/product-information/roclanda-epar-product-information_sk.pdf)
 
-slovenščina (SL) (354.75 KB - PDF)
+slovenščina (SL) (383.06 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/sl/documents/product-information/roclanda-epar-product-information_sl.pdf)
 
-Suomi (FI) (271.12 KB - PDF)
+Suomi (FI) (361.74 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/fi/documents/product-information/roclanda-epar-product-information_fi.pdf)
 
-svenska (SV) (261.5 KB - PDF)
+svenska (SV) (358.83 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-17/09/2025
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/sv/documents/product-information/roclanda-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** R/0000255956 14/08/2025
+**Latest procedure affecting product information:** VR/0000315343
+
+12/02/2026
 
 icon globe
 
@@ -613,317 +425,181 @@ Product information documents contain:
 
 Roclanda : EPAR - All authorised presentations
 
-English (EN) (14.05 KB - PDF)
+English (EN) (16.25 KB - PDF)
 
-**First published:** 21/01/2021
-
-**Last updated:** 31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/en/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-935)
+[Other languages (24)](#file-language-dropdown-762)
 
-български (BG) (36.95 KB - PDF)
+български (BG) (54.81 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/bg/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (13.33 KB - PDF)
+español (ES) (21.98 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/es/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (33.83 KB - PDF)
+čeština (CS) (46.22 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/cs/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (13.22 KB - PDF)
+dansk (DA) (18.65 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/da/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (12.57 KB - PDF)
+Deutsch (DE) (13.35 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/de/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (13.64 KB - PDF)
+eesti keel (ET) (18.22 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/et/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (36.16 KB - PDF)
+ελληνικά (EL) (52.24 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/el/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (13.2 KB - PDF)
+français (FR) (30.89 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/fr/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (30.28 KB - PDF)
+hrvatski (HR) (47.53 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/hr/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (13.19 KB - PDF)
+íslenska (IS) (18.32 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/is/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (13.16 KB - PDF)
+italiano (IT) (18.47 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/it/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (32.97 KB - PDF)
+latviešu valoda (LV) (50.69 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/lv/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (31.46 KB - PDF)
+lietuvių kalba (LT) (49.51 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/lt/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (13.19 KB - PDF)
+magyar (HU) (32.53 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/hu/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (37.04 KB - PDF)
+Malti (MT) (51.99 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/mt/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (13.27 KB - PDF)
+Nederlands (NL) (18.73 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/nl/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (18.72 KB - PDF)
+norsk (NO) (17.36 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/no/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (23.37 KB - PDF)
+polski (PL) (32.64 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/pl/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (13.15 KB - PDF)
+português (PT) (18.51 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/pt/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (32.68 KB - PDF)
+română (RO) (44.1 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/ro/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (32.06 KB - PDF)
+slovenčina (SK) (52.24 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/sk/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (29.77 KB - PDF)
+slovenščina (SL) (29.68 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/sl/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (12.83 KB - PDF)
+Suomi (FI) (18.45 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/fi/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (12.41 KB - PDF)
+svenska (SV) (17.89 KB - PDF)
 
-**First published:**
-
-21/01/2021
-
-**Last updated:**
-
-31/03/2022
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/sv/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Roclanda Active substance
+Name of medicine
+
+Roclanda
+
+Active substance
 
 - Latanoprost
 - netarsudil mesilate
 
-International non-proprietary name (INN) or common name latanoprost / netarsudil Therapeutic area (MeSH)
+International non-proprietary name (INN) or common name
+
+latanoprost / netarsudil
+
+Therapeutic area (MeSH)
 
 - Glaucoma, Open-Angle
 - Ocular Hypertension
 
-Anatomical therapeutic chemical (ATC) code S01EE
+Anatomical therapeutic chemical (ATC) code
+
+S01EE
 
 ### Pharmacotherapeutic group
 
@@ -935,13 +611,27 @@ Roclanda is indicated for the reduction of elevated intraocular pressure (IOP) i
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005107 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/005107
+
+Marketing authorisation holder
 
 Santen Oy
 
 Niittyhaankatu 20
 
-Opinion adopted 12/11/2020 Marketing authorisation issued 07/01/2021 Revision 11
+Opinion adopted
+
+12/11/2020
+
+Marketing authorisation issued
+
+07/01/2021
+
+Revision
+
+12
 
 ## Assessment history
 
@@ -953,11 +643,9 @@ Collapse section
 
 Roclanda : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (139.01 KB - PDF)
+English (EN) (154.53 KB - PDF)
 
-**First published:** 17/09/2025
-
-**Last updated:** 15/01/2026
+**First published:** 17/09/2025 **Last updated:** 24/03/2026
 
 [View](/en/documents/procedural-steps-after/roclanda-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -965,9 +653,7 @@ Roclanda : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (182.29 KB - PDF)
 
-**First published:** 02/03/2022
-
-**Last updated:** 17/09/2025
+**First published:** 02/03/2022 **Last updated:** 17/09/2025
 
 [View](/en/documents/procedural-steps-after/roclanda-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -985,9 +671,7 @@ English (EN) (130.98 KB - PDF)
 
 Roclanda : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/637805/2020
+Adopted Reference Number: EMA/CHMP/637805/2020
 
 English (EN) (2.99 MB - PDF)
 
@@ -997,9 +681,7 @@ English (EN) (2.99 MB - PDF)
 
 CHMP summary of positive opinion for Roclanda
 
-Adopted
-
-Reference Number: EMA/CHMP/593876/2020
+Adopted Reference Number: EMA/CHMP/593876/2020
 
 English (EN) (130.82 KB - PDF)
 
@@ -1007,12 +689,14 @@ English (EN) (130.82 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-roclanda_en.pdf)
 
-#### News on Roclanda
+## News on Roclanda
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 November 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-november-2020) 13/11/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 November 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-november-2020)
 
-**This page was last updated on** 15/01/2026
+13/11/2020
+
+**This page was last updated on**
+
+24/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

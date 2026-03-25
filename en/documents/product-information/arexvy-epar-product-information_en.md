@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-17 11:33:58
-document_pages: 31
+document_datetime: 2026-03-23 16:33:56
+document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/arexvy-epar-product-information_en.pdf
 document_name: arexvy-epar-product-information_en.pdf
 version: success
-processing_time: 11.0725178
-conversion_datetime: 2026-02-21 12:54:29.965743
+processing_time: 11.0783902
+conversion_datetime: 2026-03-25 12:44:13.133489
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.15.0
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -42,7 +42,7 @@ After reconstitution, one dose (0.5 mL) contains: RSVPreF3 1  antigen 2,3
 
 3 adjuvanted with AS01E containing:
 
-plant extract Quillaja saponaria Molina, fraction 21 (QS-21) 25 micrograms 3-O-desacyl4' -monophosphoryl lipid A (MPL) from Salmonella minnesota 25 micrograms
+plant extract Quillaja saponaria Molina, fraction 21 (QS-21) 25 micrograms 3-O-desacyl-4'-monophosphoryl lipid A (MPL) from Salmonella minnesota 25 micrograms
 
 For the full list of excipients, see section 6.1.
 
@@ -110,13 +110,13 @@ As with other intramuscular injections, Arexvy should be given with caution to i
 
 ## Systemic immunosuppressive medicinal products and immunodeficiency
 
-Safety and immunogenicity data on Arexvy are not available for immunocompromised individuals. Patients receiving immunosuppressive treatment or patients with immunodeficiency may have a reduced immune response to Arexvy.
+Patients receiving immunosuppressive treatment or patients with immunodeficiency may have a reduced immune response to Arexvy (see section 5.1).
 
 ## Excipients
 
-This medicinal product contains potassium, less than 1 mmol (39 mg) per dose, i.e. essentially 'potassium -free'.
+This medicinal product contains potassium, less than 1 mmol (39 mg) per dose, i.e. essentially 'potassium-free'.
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -148,7 +148,7 @@ There are no data on the effects of Arexvy on human fertility. Animal studies wi
 
 No studies on the effects of Arexvy on the ability to drive and use machines have been performed.
 
-Arexvy has a minor influence on the ability to drive and use machines. Some of the effects mentioned under section 4.8 'Undesirable effects' (e .g. fatigue) may temporarily affect the ability to drive or use machines.
+Arexvy has a minor influence on the ability to drive and use machines. Some of the effects mentioned under section 4.8 'Undesirable effects' (e.g. fatigue) may temporarily affect the ability to drive or use machines.
 
 ## 4.8 Undesirable effects
 
@@ -216,6 +216,12 @@ Not known
 
 In a US post-marketing observational study in individuals aged 65 years and older, an increased risk of Guillain-Barré syndrome (estimated 7 excess cases per million doses administered) was observed during the 42 days following vaccination with Arexvy.
 
+## Other special populations
+
+## Immunocompromised individuals
+
+Adverse reactions observed in adult solid organ transplant (SOT) recipients (kidney or lung) who received either one or two doses of Arexvy (RSV OA=ADJ-023; see section 5.1) were consistent with those observed in non-immunocompromised adults who received one dose of Arexvy.
+
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
@@ -232,7 +238,7 @@ Pharmacotherapeutic group: Vaccines, other viral vaccines, ATC code: J07BX05.
 
 ## Mechanism of action
 
-By combining the RSV-specific antigen, F-protein in prefusion conformation, with an adjuvant system (AS01E), Arexvy is designed to enhance antigen-specific cellular immune response and neutralizing antibodies response in individuals with pre-existing immunity against RSV. The adjuvant AS01E facilitates the recruitment and activation of antigen presenting cells carrying vaccine-derived antigens in the draining lymph node, which in turn leads to the generation of RSVPreF3-specific CD4+ T cells.
+By combining the RSV-specific antigen, F-protein in prefusion conformation, with an adjuvant system (AS01E), Arexvy is designed to enhance antigen-specific cellular immune response and neutralising antibodies response in individuals with pre-existing immunity against RSV. The adjuvant AS01E facilitates the recruitment and activation of antigen presenting cells carrying vaccine-derived antigens in the draining lymph node, which in turn leads to the generation of RSVPreF3-specific CD4+ T cells.
 
 ## Efficacy
 
@@ -242,23 +248,25 @@ The primary population for efficacy analysis (referred to as the modified Expose
 
 Overall, 24 960 participants were randomised equally to receive 1 dose of Arexvy (N = 12 466) or placebo (N = 12 494) during the first season. Pre-Season 2, participants who received Arexvy during the first season were re-randomised to receive placebo (N = 4 991) or a second dose of Arexvy (N = 4 966). Participants who received placebo before Season 1 received a second dose of placebo before Season 2. The participants were followed up to the end of the third RSV season (median follow-up time 30.6 months).
 
+<div style=\"page-break-after: always\"></div>
+
 The median age of participants was 69 years (range: 59 to 102 years), with approximately 74% over 65 years of age, approximately 44% over 70 years of age and approximately 8% over 80 years of age. Approximately 52% were female.
 
 At baseline, 39.3% of participants had at least one comorbidity of interest; 19.7% of participants had an underlying cardiorespiratory condition (COPD, asthma, any chronic respiratory/pulmonary disease, or chronic heart failure) and 25.8% of participants had endocrinometabolic conditions (diabetes, advanced liver or renal disease).
-
-<div style=\"page-break-after: always\"></div>
 
 Confirmed RSV cases were determined by quantitative Reverse Transcription Polymerase Chain Reaction (qRT-PCR) on nasopharyngeal swab.
 
 LRTD was defined based on the following criteria: the participant must have experienced at least 2 lower respiratory symptoms/signs including at least 1 lower respiratory sign for at least 24 hours, or experienced at least 3 lower respiratory symptoms for at least 24 hours. Lower respiratory symptoms included: new or increased sputum, new or increased cough, new or increased dyspnoea (shortness of breath). Lower respiratory signs included: new or increased wheezing, crackles/rhonchi, respiratory rate ≥ 20 respirations/min, low or decreased oxygen saturation (O2 saturation &lt; 95% or ≤ 90% if baseline is &lt; 95%) or need for oxygen supplementation.
 
-Efficacy against RSV-associated LRTD during the first RSV season (confirmatory analysis)
+## Efficacy against RSV-associated LRTD during the first RSV season (confirmatory analysis)
 
 The primary objective was to demonstrate efficacy in the prevention of a first episode of confirmed RSV-A and/or B associated LRTD during the first RSV season.
 
 Vaccine efficacy overall and by subgroups is presented in Table 2.
 
 Efficacy in preventing first RSV-associated LRTD with an onset from 15 days after vaccination compared to placebo was 82.6% (96.95% confidence interval of 57.9% to 94.1%) in participants 60 years of age and older. Vaccine efficacy against RSV-LRTD was observed through the median follow-up period of 6.7 months. Vaccine efficacy against RSV A-associated LRTD and RSV Bassociated LRTD was 84.6% (95% CI [32.1, 98.3]) and 80.9% (95% CI [49.4, 94.3]), respectively.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 2. Efficacy analysis during the first RSV season (confirmatory analysis): First RSVassociated LRTD overall, by age and co-morbidity subgroups (modified Exposed Set)
 
@@ -270,13 +278,13 @@ Table 2. Efficacy analysis during the first RSV season (confirmatory analysis): 
 | 70-79 years                                          | 4 487    | 1        | 0.4                                    | 4 487     | 16        | 6.5                                    | 93.8 (60.2, 99.9) |
 | Participants with at least 1 comorbidity of interest | 4 937    | 1        | 0.4                                    | 4 861     | 18        | 6.6                                    | 94.6 (65.9, 99.9) |
 
+a CI = Confidence Interval (96.95% for the overall (≥ 60 years) and 95% for all subgroup analyses).
+
+Two-sided exact CI for vaccine efficacy is derived based on Poisson model adjusted by age categories and regions.
+
 b Confirmatory objective with pre-specified success criterion of lower limit of the 2-sided CI for vaccine efficacy above 20%
 
-N = Number of participants included in each group
-
-n = Number of participants having first occurrence of RSV-confirmed LRTD occurring from Day 15 post vaccination
-
-<div style=\"page-break-after: always\"></div>
+N = Number of participants included in each group n = Number of participants having first occurrence of RSV-confirmed LRTD occurring from Day 15 post vaccination
 
 Vaccine efficacy in the subgroup of participants 80 years of age and older (1 016 participants in Arexvy vs 1 028 participants in placebo) cannot be reliably estimated due to the low number of total cases accrued (5 cases).
 
@@ -292,6 +300,8 @@ Vaccine efficacy against RSV-associated LRTD was similar in the subgroup of part
 
 A second dose of vaccine administered 12 months after the first dose did not confer additional efficacy benefit.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Immunogenicity in adults 18 through 59 years of age
 
 The non-inferiority of the immune response to Arexvy in adults 18 through 59 years of age compared to adults 60 years of age and older, where vaccine efficacy against RSV-associated LRTD was demonstrated, was evaluated in two studies. The first was a phase 3, observer-blind, randomised, placebo-controlled study (RSV OA=ADJ-018), and the second was a phase 3, open-label study (RSV OA=ADJ-025).
@@ -302,13 +312,11 @@ The second study (RSV OA=ADJ-025) consisted of participants 18 through 49 years 
 
 The primary immunogenicity objectives were to demonstrate non-inferiority of the humoral immune response (in terms of RSV-A and RSV-B neutralising titres) following the administration of Arexvy at 1-month post-vaccination in participants 50 through 59 years of age with or without pre-defined, stable, chronic medical conditions leading to an increased risk for RSV disease, and participants 18 through 49 years of age with pre-defined, stable, chronic medical conditions leading to an increased risk for RSV disease, compared to participants 60 years of age and older.
 
-<div style=\"page-break-after: always\"></div>
-
 The non-inferiority criteria of the immune responses for the RSV-A and RSV-B neutralising titres were met in both age groups. The efficacy of Arexvy, in adults 18 through 59 years of age, can be inferred from vaccine efficacy demonstrated in adults 60 years of age and older.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 3. Summary  of  adjusted  GMT  and  SRR  values,  and  adjusted  GMT  ratios  and  SRR differences in terms of RSV-A and RSV-B neutralising titres (ED60) in adults 60 years of age and older (OA) relative to adults 50 through 59 years of age with (Adults-AIR) or without (Adultsnon-AIR) pre-defined, stable, chronic medical conditions a  leading to an increased risk for RSV disease -Per Protocol Set
+Table 3. Summary  of  adjusted  GMT  and  SRR  values,  and  adjusted  GMT  ratios  and  SRR differences in terms of RSV-A and RSV-B neutralising titres (ED60) in adults 60 years of age and older (OA) relative to adults 50 through 59 years of age with (Adults-AIR) or without (Adultsnon-AIR) pre-defined, stable, chronic medical conditions a leading to an increased risk for RSV disease - Per Protocol Set
 
 | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   |
 |------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
@@ -332,7 +340,7 @@ b,c The prespecified criteria for non-inferiority of the immune responses were d
 
 ED60: Estimated dilution 60; CI = Confidence interval; GMT = Geometric mean titre; SRR = Seroresponse rate
 
-Table 4. Summary  of  adjusted  GMT  and  SRR  values,  and  adjusted  GMT  ratios  and  SRR differences in terms of RSV-A and RSV-B neutralising titres (ED60) in adults 60 years of age and older (OA) relative to adults 18 through 49 years of age with pre-defined, stable, chronic medical conditions a  leading to an increased risk for RSV disease (Adults-AIR) -Per Protocol Set
+Table 4. Summary  of  adjusted  GMT  and  SRR  values,  and  adjusted  GMT  ratios  and  SRR differences in terms of RSV-A and RSV-B neutralising titres (ED60) in adults 60 years of age and older (OA) relative to adults 18 through 49 years of age with pre-defined, stable, chronic medical conditions a leading to an increased risk for RSV disease (Adults-AIR) - Per Protocol Set
 
 | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   |
 |------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
@@ -352,9 +360,67 @@ ED60: Estimated dilution 60; CI = Confidence interval; GMT = Geometric mean titr
 
 <div style=\"page-break-after: always\"></div>
 
+## Immunogenicity in special populations
+
+## Immunocompromised individuals
+
+In an open-label, phase 2b, randomised, controlled study, the immune response in SOT recipients (kidney or lung) 18 years of age and older (N = 261) who received either one dose (131 participants) or two doses (130 participants) of Arexvy 30 to 60 days apart was compared to nonimmunocompromised participants 50 years of age and older (N = 125) who received one dose of Arexvy (RSV OA=ADJ-023). All SOT recipients were receiving maintenance immunosuppressive therapy for prevention of allograft rejection.
+
+In SOT recipients, one dose of Arexvy increased RSV-A and RSV-B neutralising titres, which remained above baseline levels for up to 12 months post-vaccination. In SOT recipients on immunosuppressive regimens not including mycophenolate (23% of participants), neutralising titres after one dose were similar to those in non-immunocompromised individuals. In SOT recipients on immunosuppressive regimens including mycophenolate (77% of participants), neutralising titres after one dose were lower than those in SOT recipients not receiving mycophenolate. A second dose increased RSV neutralising titres in this group, bringing them closer to the levels of nonimmunocompromised participants (see Table 5).
+
+<div style=\"page-break-after: always\"></div>
+
+Table 5. Geometric Mean Titres of RSV-A and RSV-B neutralising titres (ED60) (with or without Mycophenolate (MC)) in SOT recipients 18 years of age and older - Per Protocol Set
+
+RSV-A neutralising titres (ED60)
+
+|                          | SOT 1 dose group a    | SOT 1 dose group a     | SOT 2 dose group b    | SOT 2 dose group b     | Non-IC c              |
+|--------------------------|-----------------------|------------------------|-----------------------|------------------------|-----------------------|
+| Timepoint                | MCYes                 | MCNo                   | MCYes                 | MCNo                   |                       |
+| Baseline                 | N=95                  | N=28                   | N=94                  | N=29                   | N=125                 |
+| Baseline                 | 785 [663 - 929]       | 888 [692 - 1 139]      | 813 [694 - 952]       | 818 [553 - 1 210]      | 889 [782 - 1 011]     |
+| 1 month post dose 1      | N=95                  | N=28                   | N=90                  | N=24                   | N=117                 |
+| 1 month post dose 1      | 3 101 [2 459 - 3 912] | 9 388 [6 329 - 13 926] | 3 602 [2 672 - 4 855] | 7 255 [4 668 - 11 277] | 6 881 [5 976 - 7 924] |
+| 1 month post dose 2      | NA                    | NA                     | N=88                  | N=23                   | NA                    |
+| 1 month post dose 2      | NA                    | NA                     | 4 960 [3 779 - 6 511] | 7 327 [4 811 - 11 159] | NA                    |
+| 12 months post last dose | N=89                  | N=27                   | N=83                  | N=24                   | N=114                 |
+| 12 months post last dose | 1 528 [1 254 - 1 862] | 2 899 [2 044 - 4 110]  | 2 564 [2 000 - 3 287] | 2 363 [1 567 - 3 563]  | 2 244 [1 925 - 2 615] |
+
+RSV-B neutralising titres (ED60)
+
+|                          | SOT 1 dose group a    | SOT 1 dose group a      | SOT 2 dose group b    | SOT 2 dose group b     | Non-IC c               |
+|--------------------------|-----------------------|-------------------------|-----------------------|------------------------|------------------------|
+| Timepoint                | MCYes                 | MCNo                    | MCYes                 | MCNo                   |                        |
+| Baseline                 | N=95                  | N=28                    | N=94                  | N=29                   | N=125                  |
+| Baseline                 | 859 [703 - 1 049]     | 882 [621 - 1 253]       | 877 [729 - 1 055]     | 946 [625 - 1 433]      | 1 027 [890 - 1 186]    |
+| 1 month post dose 1      | N=95                  | N=28                    | N=90                  | N=24                   | N=117                  |
+| 1 month post dose 1      | 3 931 [2 985 - 5 177] | 11 336 [7 042 - 18 249] | 4 041 [3 012 - 5 422] | 9 468 [5 900 - 15 195] | 9 125 [7 782 - 10 700] |
+| 1 month post             | NA                    | NA                      | N=88                  | N=23                   | NA                     |
+| dose 2                   | NA                    | NA                      | 5 274 [4 062 - 6 848] | 8 487 [5 736 - 12 559] | NA                     |
+| 12 months post last dose | N=89                  | N=27                    | N=83                  | N=24                   | N=114                  |
+|                          | 2 048 [1 620 - 2 589] | 2 822 [1 968 - 4 047]   | 2 898 [2 308 - 3 638] | 2 846 [1 848 - 4 385]  | 2 665 [2 311 - 3 074]  |
+
+b SOT 2 dose group = SOT recipients who received two doses of Arexvy
+
+c Non-IC = non-immunocompromised participants who received one dose of Arexvy
+
+N = Number of participants included in each group for each visit
+
+ED60: Estimated dilution 60
+
+MC Yes = SOT recipients with immunosuppressive regimens including mycophenolate
+
+MC No = SOT recipients with immunosuppressive regimens not including mycophenolate
+
+NA = Not Applicable
+
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Arexvy in one or more subsets of the paediatric population in prevention of lower respiratory tract disease caused by respiratory syncytial virus (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with
+
+<div style=\"page-break-after: always\"></div>
+
+Arexvy in one or more subsets of the paediatric population in prevention of lower respiratory tract disease caused by respiratory syncytial virus (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -374,7 +440,7 @@ Reproductive and developmental studies in rabbits with Arexvy or with an unadjuv
 
 Trehalose dihydrate Polysorbate 80 (E 433) Potassium dihydrogen phosphate (E 340) Dipotassium phosphate (E 340)
 
-Suspension (AS01E Adjuvant System)
+## Suspension (AS01E Adjuvant System)
 
 Dioleoyl phosphatidylcholine (E 322) Cholesterol Sodium chloride Disodium phosphate, anhydrous (E 339) Potassium dihydrogen phosphate (E 340) Water for injections
 
@@ -390,15 +456,15 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## After reconstitution
 
-Chemical and physical in-use stability has been demonstrated for 4 hours at 2 °C -8 °C or at room temperature up to 25 °C.
+Chemical and physical in-use stability has been demonstrated for 4 hours at 2 °C - 8 °C or at room temperature up to 25 °C.
 
 From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 4 hours.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C -8 °C).
+<div style=\"page-break-after: always\"></div>
+
+Store in a refrigerator (2 °C - 8 °C).
 
 Do not freeze.
 
@@ -443,15 +509,16 @@ The reconstituted vaccine is an opalescent, colourless to pale brownish liquid.
 
 The reconstituted vaccine should be inspected visually for any foreign particulate matter and/or variation of appearance. If either is observed, do not administer the vaccine.
 
-Chemical and physical in-use stability has been demonstrated for 4 hours at 2 °C -8 °C or at room temperature up to 25 °C.
-
-<div style=\"page-break-after: always\"></div>
+Chemical and physical in-use stability has been demonstrated for 4 hours at 2 °C - 8 °C or at room temperature up to 25 °C.
 
 From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 4 hours.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Before administration
 
 1. Withdraw 0.5 mL of the reconstituted vaccine into the syringe.
+
 2. Change the needle so that you are using a new needle.
 
 Administer the vaccine intramuscularly.
@@ -464,7 +531,9 @@ GlaxoSmithKline Biologicals SA Rue de l'Institut 89 1330 Rixensart Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/23/1740/001 EU/1/23/1740/002
+EU/1/23/1740/001
+
+EU/1/23/1740/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -564,9 +633,9 @@ Powder and suspension for suspension for injection
 
 1 vial: suspension (adjuvant)
 
-10 vials: powder (antigen)
+- 10 vials: powder (antigen)
 
-10 vials: suspension (adjuvant)
+- 10 vials: suspension (adjuvant)
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -600,7 +669,7 @@ Do not freeze.
 
 Store in the original package in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -634,8 +703,8 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -672,6 +741,8 @@ Lot
 
 | 6.   | OTHER   |
 |------|---------|
+
+24
 
 <div style=\"page-break-after: always\"></div>
 
@@ -777,7 +848,8 @@ Talk to your doctor, pharmacist or nurse before you receive Arexvy if:
 - you have ever had a severe allergic reaction after the injection of any other vaccine.
 - you have a severe infection with a high temperature (fever). If this happens, the vaccination may be delayed until you feel better. A minor infection such as a cold should not be a problem but talk to your doctor first.
 - you have a bleeding problem or bruise easily.
-- you have fainted with a previous injection - fainting can happen before or after any needle injection.
+- you have fainted with a previous injection - fainting can happen before or after any needle injection
+- you have a weakened immune system, which may prevent you from getting the full benefit from Arexvy.
 
 If any of the above apply to you, or you are not sure, talk to your doctor or pharmacist before you have Arexvy.
 
@@ -804,17 +876,17 @@ Some of the effects mentioned below in section 4 'Possible side effects' (e.g. f
 
 ## Arexvy contains sodium and potassium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
 
-This medicine contains less than 1 mmol (39 mg) potassium per dose, i.e. essentially 'potassium -free'.
+This medicine contains less than 1 mmol (39 mg) potassium per dose, i.e. essentially 'potassium-free'.
 
 ## 3. How Arexvy is given
 
 Arexvy is given as a single dose injection of 0.5 mL into a muscle. It is usually given into the upper arm.
 
-If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
-
 <div style=\"page-break-after: always\"></div>
+
+If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
 ## 4. Possible side effects
 
@@ -866,15 +938,17 @@ If any of the side effects gets serious, or if you notice any side effects not l
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system
 
 <div style=\"page-break-after: always\"></div>
+
+listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Arexvy
 
 - Keep this medicine out of the sight and reach of children.
 - Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
-- Store in a refrigerator (2 °C -8 °C).
+- Store in a refrigerator (2 °C - 8 °C).
 - Do not freeze.
 - Store in the original package in order to protect from light.
 - Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
@@ -895,7 +969,7 @@ RSVPreF3 1  antigen 2,3 120 micrograms
 
 3 adjuvanted with AS01E containing:
 
-plant extract Quillaja saponaria Molina, fraction 21 (QS-21) 25 micrograms 3-O-desacyl4' -monophosphoryl lipid A (MPL) from Salmonella minnesota 25 micrograms
+plant extract Quillaja saponaria Molina, fraction 21 (QS-21) 25 micrograms 3-O-desacyl-4'-monophosphoryl lipid A (MPL) from Salmonella minnesota 25 micrograms
 
 The RSVPreF3 is a protein present in the Respiratory Syncytial Virus. This protein is not infectious.
 
@@ -913,12 +987,12 @@ See Section 2 'Arexvy contains sodium and potassium'.
 - The powder is white.
 - The suspension is an opalescent, colourless to pale brownish liquid.
 
-## One pack of Arexvy consists of:
+One pack of Arexvy consists of:
+
+<div style=\"page-break-after: always\"></div>
 
 - Powder (antigen) for 1 dose in a vial
 - Suspension (adjuvant) for 1 dose in a vial
-
-<div style=\"page-break-after: always\"></div>
 
 Arexvy is available in a pack size of 1 vial of powder plus 1 vial of suspension or in a pack size of 10 vials of powder plus 10 vials of suspension.
 
@@ -934,61 +1008,87 @@ For any information about this medicine, please contact the local representative
 
 GlaxoSmithKline Pharmaceuticals s.a./n.v Tél/Tel : + 32 (0) 10 85 52 00
 
+## Lietuva
+
+GlaxoSmithKline Biologicals SA
+
+Tel: +370 80000334
+
 ## България
 
 GlaxoSmithKline Biologicals SA Тел. +359 80018205
-
-## Česká republika
-
-GlaxoSmithKline s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
-
-## Danmark
-
-GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
-
-## Deutschland
-
-GlaxoSmithKline GmbH &amp; Co. KG Tel: + 49 (0)89 360448701 produkt.info@gsk.com
-
-## Eesti
-
-GlaxoSmithKline Biologicals SA Tel: +372 8002640
-
-## Ελλάδα
-
-GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Tηλ: + 30 210 68 82 100
-
-## España
-
-GlaxoSmithKline, S.A. Tel: + 34 900 202 700 es-ci@gsk.com
-
-## Lietuva
-
-GlaxoSmithKline Biologicals SA Tel: +370 80000334
 
 ## Luxembourg/Luxemburg
 
 GlaxoSmithKline Pharmaceuticals s.a./n.v Belgique/Belgien Tél/Tel: + 32 (0) 10 85 52 00
 
+## Česká republika
+
+GlaxoSmithKline s.r.o.
+
+Tel: + 420 222 001 111
+
+cz.info@gsk.com
+
 ## Magyarország
 
-GlaxoSmithKline Biologicals SA Tel.: +36 80088309
+GlaxoSmithKline Biologicals SA
+
+Tel.: +36 80088309
+
+## Danmark
+
+GlaxoSmithKline Pharma A/S
+
+Tlf.: + 45 36 35 91 00
+
+dk-info@gsk.com
 
 ## Malta
 
-GlaxoSmithKline Biologicals SA Tel: +356 80065004
+GlaxoSmithKline Biologicals SA
+
+Tel: +356 80065004
+
+## Deutschland
+
+GlaxoSmithKline GmbH &amp; Co. KG
+
+Tel: + 49 (0)89 360448701
+
+produkt.info@gsk.com
 
 ## Nederland
 
-GlaxoSmithKline BV Tel: + 31 (0)33 2081100
+GlaxoSmithKline BV
+
+Tel: + 31 (0)33 2081100
+
+## Eesti
+
+GlaxoSmithKline Biologicals SA
+
+Tel: +372 8002640
 
 ## Norge
 
-GlaxoSmithKline AS Tlf: + 47 22 70 20 00
+GlaxoSmithKline AS
+
+Tlf: + 47 22 70 20 00
+
+## Ελλάδα
+
+GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Tηλ: + 30 210 68 82 100
 
 ## Österreich
 
 GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com
+
+## España
+
+GlaxoSmithKline, S.A.
+
+Tel: + 34 900 202 700
 
 ## Polska
 
@@ -998,9 +1098,9 @@ Tel.: + 48 (22) 576 9000
 
 <div style=\"page-break-after: always\"></div>
 
-## France
+GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel : + 351 21 412 95 00 FI.PT@gsk.com
 
-## Portugal
+## France
 
 Laboratoire GlaxoSmithKline
 
@@ -1014,11 +1114,7 @@ GlaxoSmithKline Biologicals SA
 
 Tel.: +385 800787089
 
-GlaxoSmithKline - Produtos Farmacêuticos, Lda.
-
-Tel : + 351 21 412 95 00
-
-FI.PT@gsk.com
+## Portugal
 
 ## România
 
@@ -1114,7 +1210,7 @@ The reconstituted vaccine is an opalescent, colourless to pale brownish liquid.
 
 The reconstituted vaccine should be inspected visually for any foreign particulate matter and/or variation of appearance. If either is observed, do not administer the vaccine.
 
-Chemical and physical in-use stability has been demonstrated for 4 hours at 2 °C -8 °C or at room temperature up to 25 °C.
+Chemical and physical in-use stability has been demonstrated for 4 hours at 2 °C - 8 °C or at room temperature up to 25 °C.
 
 From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 4 hours.
 

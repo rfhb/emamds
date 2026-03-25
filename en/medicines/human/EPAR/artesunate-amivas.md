@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 10:24:48
+document_datetime: 2026-03-24 15:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/artesunate-amivas.html
 document_name: artesunate-amivas.html
 version: success
-processing_time: 0.1098338
-conversion_datetime: 2025-12-31 01:24:26.054435
+processing_time: 0.1021239
+conversion_datetime: 2026-03-25 12:23:32.873831
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.0
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Artesunate Amivas
 
 [RSS](/en/individual-human-medicine.xml/67480)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-artesunate Medicine Human Authorised
+artesunate
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -106,181 +106,137 @@ English (EN) (128.53 KB - PDF)
 
 [View](/en/documents/overview/artesunate-amivas-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-95)
+[Other languages (22)](#file-language-dropdown-230)
 
 български (BG) (141.71 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/bg/documents/overview/artesunate-amivas-epar-medicine-overview_bg.pdf)
 
 español (ES) (117.89 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/es/documents/overview/artesunate-amivas-epar-medicine-overview_es.pdf)
 
 čeština (CS) (139.94 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/cs/documents/overview/artesunate-amivas-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (116.57 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/da/documents/overview/artesunate-amivas-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (120.5 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/de/documents/overview/artesunate-amivas-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (104.87 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/et/documents/overview/artesunate-amivas-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (142.58 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/el/documents/overview/artesunate-amivas-epar-medicine-overview_el.pdf)
 
 français (FR) (118.85 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/fr/documents/overview/artesunate-amivas-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (137.99 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/hr/documents/overview/artesunate-amivas-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (115.71 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/it/documents/overview/artesunate-amivas-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (147.26 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/lv/documents/overview/artesunate-amivas-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (137.24 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/lt/documents/overview/artesunate-amivas-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (139.53 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/hu/documents/overview/artesunate-amivas-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (139.48 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/mt/documents/overview/artesunate-amivas-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (118.39 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/nl/documents/overview/artesunate-amivas-epar-medicine-overview_nl.pdf)
 
 polski (PL) (142.67 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/pl/documents/overview/artesunate-amivas-epar-medicine-overview_pl.pdf)
 
 português (PT) (118.29 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/pt/documents/overview/artesunate-amivas-epar-medicine-overview_pt.pdf)
 
 română (RO) (136.78 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/ro/documents/overview/artesunate-amivas-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (139.44 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/sk/documents/overview/artesunate-amivas-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (135.88 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/sl/documents/overview/artesunate-amivas-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (114.51 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/fi/documents/overview/artesunate-amivas-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (103.9 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/sv/documents/overview/artesunate-amivas-epar-medicine-overview_sv.pdf)
 
@@ -296,305 +252,161 @@ English (EN) (130.34 KB - PDF)
 
 Artesunate Amivas : EPAR - Product information
 
-English (EN) (331.35 KB - PDF)
+English (EN) (339.81 KB - PDF)
 
-**First published:** 04/01/2022
-
-**Last updated:** 20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/en/documents/product-information/artesunate-amivas-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-766)
+[Other languages (24)](#file-language-dropdown-426)
 
-български (BG) (439.5 KB - PDF)
+български (BG) (429 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/bg/documents/product-information/artesunate-amivas-epar-product-information_bg.pdf)
 
-español (ES) (371.79 KB - PDF)
+español (ES) (389.82 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/es/documents/product-information/artesunate-amivas-epar-product-information_es.pdf)
 
-čeština (CS) (417.7 KB - PDF)
+čeština (CS) (407.76 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/cs/documents/product-information/artesunate-amivas-epar-product-information_cs.pdf)
 
-dansk (DA) (368.05 KB - PDF)
+dansk (DA) (563.73 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/da/documents/product-information/artesunate-amivas-epar-product-information_da.pdf)
 
-Deutsch (DE) (381.83 KB - PDF)
+Deutsch (DE) (503.54 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/de/documents/product-information/artesunate-amivas-epar-product-information_de.pdf)
 
-eesti keel (ET) (364.29 KB - PDF)
+eesti keel (ET) (383.15 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/et/documents/product-information/artesunate-amivas-epar-product-information_et.pdf)
 
-ελληνικά (EL) (655.82 KB - PDF)
+ελληνικά (EL) (833.83 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/el/documents/product-information/artesunate-amivas-epar-product-information_el.pdf)
 
-français (FR) (381.11 KB - PDF)
+français (FR) (405.08 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/fr/documents/product-information/artesunate-amivas-epar-product-information_fr.pdf)
 
-hrvatski (HR) (423.2 KB - PDF)
+hrvatski (HR) (548.65 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/hr/documents/product-information/artesunate-amivas-epar-product-information_hr.pdf)
 
-íslenska (IS) (337.99 KB - PDF)
+íslenska (IS) (517.53 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/is/documents/product-information/artesunate-amivas-epar-product-information_is.pdf)
 
-italiano (IT) (371.26 KB - PDF)
+italiano (IT) (442.76 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/it/documents/product-information/artesunate-amivas-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (440.85 KB - PDF)
+latviešu valoda (LV) (772.48 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/lv/documents/product-information/artesunate-amivas-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (429.4 KB - PDF)
+lietuvių kalba (LT) (558.21 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/lt/documents/product-information/artesunate-amivas-epar-product-information_lt.pdf)
 
-magyar (HU) (442.18 KB - PDF)
+magyar (HU) (442.56 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/hu/documents/product-information/artesunate-amivas-epar-product-information_hu.pdf)
 
-Malti (MT) (472.77 KB - PDF)
+Malti (MT) (599.41 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/mt/documents/product-information/artesunate-amivas-epar-product-information_mt.pdf)
 
-Nederlands (NL) (377.97 KB - PDF)
+Nederlands (NL) (473.28 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/nl/documents/product-information/artesunate-amivas-epar-product-information_nl.pdf)
 
-norsk (NO) (331.16 KB - PDF)
+norsk (NO) (349.89 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/no/documents/product-information/artesunate-amivas-epar-product-information_no.pdf)
 
-polski (PL) (415.69 KB - PDF)
+polski (PL) (414.98 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/pl/documents/product-information/artesunate-amivas-epar-product-information_pl.pdf)
 
-português (PT) (365.33 KB - PDF)
+português (PT) (437.87 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/pt/documents/product-information/artesunate-amivas-epar-product-information_pt.pdf)
 
-română (RO) (441.53 KB - PDF)
+română (RO) (560.92 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/ro/documents/product-information/artesunate-amivas-epar-product-information_ro.pdf)
 
-slovenčina (SK) (433.04 KB - PDF)
+slovenčina (SK) (556.18 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/sk/documents/product-information/artesunate-amivas-epar-product-information_sk.pdf)
 
-slovenščina (SL) (441.27 KB - PDF)
+slovenščina (SL) (507.87 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/sl/documents/product-information/artesunate-amivas-epar-product-information_sl.pdf)
 
-Suomi (FI) (371.02 KB - PDF)
+Suomi (FI) (479.57 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/fi/documents/product-information/artesunate-amivas-epar-product-information_fi.pdf)
 
-svenska (SV) (366.81 KB - PDF)
+svenska (SV) (385.99 KB - PDF)
 
-**First published:**
-
-04/01/2022
-
-**Last updated:**
-
-20/05/2025
+**First published:** 04/01/2022 **Last updated:** 24/03/2026
 
 [View](/sv/documents/product-information/artesunate-amivas-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000268080 20/05/2025
+**Latest procedure affecting product information:** VR/0000325106
+
+24/03/2026
 
 icon globe
 
@@ -618,203 +430,173 @@ English (EN) (79.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-222)
+[Other languages (24)](#file-language-dropdown-999)
 
 български (BG) (61.62 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/bg/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (50.65 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/es/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (61.88 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/cs/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (52.05 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/da/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (53.58 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/de/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (50.2 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/et/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (68.08 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/el/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (50.98 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/fr/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (67.51 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/hr/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (83.73 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/is/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (50.17 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/it/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (86.5 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/lv/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (67.28 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/lt/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (59.78 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/hu/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (79.29 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/mt/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (58.71 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/nl/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (83.7 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/no/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (73.1 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/pl/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (51.42 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/pt/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (68.14 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/ro/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (69.62 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/sk/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (57.78 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/sl/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (49.85 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/fi/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (50.68 KB - PDF)
 
-**First published:**
-
-04/01/2022
+**First published:** 04/01/2022
 
 [View](/sv/documents/all-authorised-presentations/artesunate-amivas-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Artesunate Amivas Active substance artesunate International non-proprietary name (INN) or common name artesunate Therapeutic area (MeSH) Malaria Anatomical therapeutic chemical (ATC) code P01BE03
+Name of medicine
+
+Artesunate Amivas
+
+Active substance
+
+artesunate
+
+International non-proprietary name (INN) or common name
+
+artesunate
+
+Therapeutic area (MeSH)
+
+Malaria
+
+Anatomical therapeutic chemical (ATC) code
+
+P01BE03
 
 ### Pharmacotherapeutic group
 
@@ -828,7 +610,9 @@ Consideration should be given to official guidance on the appropriate use of ant
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005550
+EMA product number
+
+EMEA/H/C/005550
 
 Additional monitoring
 
@@ -846,7 +630,17 @@ Suite 5, Second Floor
 
 Waterford X91 P381 IRELAND
 
-Opinion adopted 16/08/2023 Marketing authorisation issued 22/11/2021 Revision 6
+Opinion adopted
+
+16/08/2023
+
+Marketing authorisation issued
+
+22/11/2021
+
+Revision
+
+7
 
 ## Assessment history
 
@@ -858,9 +652,9 @@ Collapse section
 
 Artesunate Amivas : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (144.52 KB - PDF)
+English (EN) (152.41 KB - PDF)
 
-**First published:** 20/05/2025
+**First published:** 20/05/2025 **Last updated:** 24/03/2026
 
 [View](/en/documents/procedural-steps-after/artesunate-amivas-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -868,17 +662,13 @@ Artesunate Amivas : EPAR - Procedural steps taken and scientific information aft
 
 English (EN) (113.37 KB - PDF)
 
-**First published:** 24/04/2023
-
-**Last updated:** 20/05/2025
+**First published:** 24/04/2023 **Last updated:** 20/05/2025
 
 [View](/en/documents/procedural-steps-after/artesunate-amivas-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Artesunate Amivas-H-C-PSUSA-00010958-202212 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Adopted
-
-Reference Number: EMA/371965/2023
+Adopted Reference Number: EMA/371965/2023
 
 English (EN) (103.11 KB - PDF)
 
@@ -900,9 +690,7 @@ English (EN) (119.12 KB - PDF)
 
 Artesunate Amivas : Orphan maintenance assessment report
 
-Adopted
-
-Reference Number: EMA/OD/0000060998
+Adopted Reference Number: EMA/OD/0000060998
 
 English (EN) (408.47 KB - PDF)
 
@@ -912,23 +700,17 @@ English (EN) (408.47 KB - PDF)
 
 Artesunate Amivas : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/584728/2021
+Adopted Reference Number: EMA/584728/2021
 
 English (EN) (2.61 MB - PDF)
 
-**First published:** 04/01/2022
-
-**Last updated:** 13/01/2022
+**First published:** 04/01/2022 **Last updated:** 13/01/2022
 
 [View](/en/documents/assessment-report/artesunate-amivas-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Artesunate Amivas
 
-Adopted
-
-Reference Number: EMA/CHMP/438991/2021
+Adopted Reference Number: EMA/CHMP/438991/2021
 
 English (EN) (114.52 KB - PDF)
 
@@ -936,16 +718,18 @@ English (EN) (114.52 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-artesunate-amivas_en.pdf)
 
-#### News on Artesunate Amivas
+## News on Artesunate Amivas
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 September 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-september-2021) 17/09/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 September 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-september-2021)
 
-#### More information on Artesunate Amivas
+17/09/2021
+
+## More information on Artesunate Amivas
 
 - [EU/3/20/2251 - orphan designation for treatment of malaria](/en/medicines/human/orphan-designations/eu-3-20-2251)
 
-**This page was last updated on** 20/05/2025
+**This page was last updated on**
+
+24/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

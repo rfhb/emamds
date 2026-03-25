@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-19 12:39:01
+document_datetime: 2026-03-23 16:23:24
 document_pages: 66
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/shingrix-epar-product-information_en.pdf
 document_name: shingrix-epar-product-information_en.pdf
 version: success
-processing_time: 26.9558096
-conversion_datetime: 2026-01-03 12:30:56.408187
+processing_time: 29.2950003
+conversion_datetime: 2026-03-25 12:22:57.425724
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.0
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -226,6 +226,7 @@ Table 1: Adverse reactions
 | Musculoskeletal and connective tissue disorders      | Uncommon    | arthralgia                                                                              |
 | General disorders and administration site conditions | Very common | injection site reactions (such as pain, redness, swelling), fatigue, chills, fever      |
 | General disorders and administration site conditions | Common      | injection site pruritus, malaise                                                        |
+| General disorders and administration site conditions | Uncommon    | injection site induration                                                               |
 
 ## Description of selected adverse reactions
 
@@ -241,13 +242,13 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 No case of overdose has been reported.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Vaccines, varicella zoster vaccines, ATC code: J07BK03
-
-<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -278,45 +279,50 @@ Incidence of HZ and PHN cases as well as vaccine efficacy were evaluated in the 
 Shingrix significantly decreased the incidence of HZ compared with placebo in:
 
 - -adults ≥ 50 years (ZOE-50): 6 vs. 210 cases;
+
+<div style=\"page-break-after: always\"></div>
+
 - -adults ≥ 70 years (pooled analysis of ZOE-50 and ZOE-70): 25 vs. 284 cases;
 - -adults ≥ 18 years with aHSCT (Zoster-002): 49 vs. 135 cases;
 - -adults ≥ 18 years with hematologic malignancies (Zoster-039): 2 vs. 14 cases. Vaccine efficacy was calculated post-hoc.
 
 Vaccine efficacy results against HZ are presented in Table 2.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 2 : Shingrix efficacy against HZ (mTVC)
 
-|                                                 | Shingrix                                        | Shingrix                                        | Shingrix                                        | Placebo                                         | Placebo                                         | Placebo                                         | Vaccine                                         |
+|                                                 | Shingrix                                        | Shingrix                                        | Shingrix                                        | Placebo                                         | Placebo                                         | Placebo                                         |                                                 |
 |-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-| Age (years)                                     | Number of evaluable subjects                    | Number of HZ cases                              | Incidence rate per 1 000 person years           | Number of evaluable subjects                    | Number of HZ cases                              | Incidence rate per 1 000 person years           | efficacy (%) [95% CI]                           |
+| Age (years)                                     | Number of evaluable subjects                    | Number of HZ cases                              | Incidence rate per 1 000 person years           | Number of evaluable subjects                    | Number of HZ cases                              | Incidence rate per 1 000 person years           | Vaccine efficacy (%) [95% CI]                   |
 | ZOE-50*                                         | ZOE-50*                                         | ZOE-50*                                         | ZOE-50*                                         | ZOE-50*                                         | ZOE-50*                                         | ZOE-50*                                         | ZOE-50*                                         |
 | ≥ 50                                            | 7 344                                           | 6                                               | 0.3                                             | 7 415                                           | 210                                             | 9.1                                             | 97.2 [93.7; 99.0]                               |
 | 50-59 3 492                                     |                                                 | 3                                               | 0.3                                             | 3 525                                           | 87                                              | 7.8                                             | 96.6 [89.6; 99.4]                               |
-| ≥ 60 3 852                                      | 3                                               |                                                 | 0.2                                             | 3 890                                           | 123                                             | 10.2                                            | 97.6 [92.7; 99.6]                               |
+| ≥ 60 3                                          | 852 3                                           |                                                 | 0.2                                             | 3 890                                           | 123                                             | 10.2                                            | 97.6 [92.7; 99.6]                               |
 | 60-69 2 141                                     | 2                                               |                                                 | 0.3                                             | 2 166                                           | 75                                              | 10.8                                            | 97.4 [90.1; 99.7]                               |
 | Pooled ZOE-50 and ZOE-70**                      | Pooled ZOE-50 and ZOE-70**                      | Pooled ZOE-50 and ZOE-70**                      | Pooled ZOE-50 and ZOE-70**                      | Pooled ZOE-50 and ZOE-70**                      | Pooled ZOE-50 and ZOE-70**                      | Pooled ZOE-50 and ZOE-70**                      | Pooled ZOE-50 and ZOE-70**                      |
-| ≥ 70 8 250                                      |                                                 | 25                                              | 0.8                                             | 8 346                                           | 284                                             | 9.3                                             | 91.3 [86.8; 94.5]                               |
+| ≥ 70 8                                          | 250                                             | 25                                              | 0.8                                             | 8 346                                           | 284                                             | 9.3                                             | 91.3 [86.8; 94.5]                               |
 | 70-79 6 468                                     | 19                                              |                                                 | 0.8                                             | 6 554                                           | 216                                             | 8.9                                             | 91.3 [86.0; 94.9]                               |
-| ≥ 80 1 782                                      | 6                                               |                                                 | 1.0                                             | 1 792                                           | 68                                              | 11.1                                            | 91.4 [80.2; 97.0]                               |
+| ≥ 80                                            | 1 782                                           | 6                                               | 1.0                                             | 1 792                                           | 68                                              | 11.1                                            | 91.4 [80.2; 97.0]                               |
 | Zoster-002*** (aHSCT recipients # )             | Zoster-002*** (aHSCT recipients # )             | Zoster-002*** (aHSCT recipients # )             | Zoster-002*** (aHSCT recipients # )             | Zoster-002*** (aHSCT recipients # )             | Zoster-002*** (aHSCT recipients # )             | Zoster-002*** (aHSCT recipients # )             | Zoster-002*** (aHSCT recipients # )             |
 | ≥ 18 870                                        | 49                                              |                                                 | 30.0                                            | 851                                             | 135                                             | 94.3                                            | 68.2 [55.5; 77.6]                               |
 | 18-49 213                                       |                                                 | 9                                               | 21.5                                            | 212                                             | 29                                              | 76.0                                            | 71.8 [38.7; 88.3]                               |
-| ≥ 50 657                                        |                                                 | 40                                              | 33.0                                            | 639                                             | 106                                             | 100.9                                           | 67.3 [52.6; 77.9]                               |
+| ≥ 50                                            | 657                                             | 40                                              | 33.0                                            | 639                                             | 106                                             | 100.9                                           | 67.3 [52.6; 77.9]                               |
 | Zoster-039 (hematologic malignancy patients # ) | Zoster-039 (hematologic malignancy patients # ) | Zoster-039 (hematologic malignancy patients # ) | Zoster-039 (hematologic malignancy patients # ) | Zoster-039 (hematologic malignancy patients # ) | Zoster-039 (hematologic malignancy patients # ) | Zoster-039 (hematologic malignancy patients # ) | Zoster-039 (hematologic malignancy patients # ) |
 | ≥ 18                                            | 259                                             | 2                                               | 8.5                                             | 256                                             | 14                                              | 66.2                                            | 87.2**** [44.2; 98.6]                           |
 
 * Over a median follow-up period of 3.1 years
-- ** Over a median follow-up period of 4.0 years
+- ** Over a median follow-up period of 4.0 years 70 years of age are sourced from the pre-specified pooled analyses of ZOE-50 and ZOE-70 (mTVC) as these analyses provide the most robust estimates for vaccine efficacy in
 
-Data in subjects ≥ 70 years of age are sourced from the pre-specified pooled analyses of ZOE-50 and ZOE-70 (mTVC) as these analyses provide the most robust estimates for vaccine efficacy in this age group.
+Data in subjects ≥ this age group.
 
 - ***  Over a median follow-up period of 21 months
 - ****  VE calculation was performed post-hoc; median follow-up period of 11.1 months
 - # antiviral prophylaxis in line with the local standard of care was permitted
 
-Approximately 13 000 subjects with underlying medical conditions, including conditions associated with a higher risk of HZ, were enrolled in ZOE-50 and ZOE-70. Post-hoc analysis of efficacy against confirmed HZ undertaken in patients with common conditions (chronic kidney disease, chronic obstructive pulmonary disease, coronary artery disease, depression or diabetes mellitus), indicates that the vaccine efficacy is aligned with the overall HZ efficacy.
+Approximately 13 000 subjects with underlying medical conditions, including conditions associated with a higher risk of HZ, were enrolled in ZOE-50 and ZOE-70. Post-hoc analysis of efficacy against confirmed HZ undertaken in patients with common conditions (chronic kidney disease, chronic
+
+<div style=\"page-break-after: always\"></div>
+
+obstructive pulmonary disease, coronary artery disease, depression or diabetes mellitus), indicates that the vaccine efficacy is aligned with the overall HZ efficacy.
 
 Shingrix significantly decreased the incidence of PHN compared with placebo in:
 
@@ -324,29 +330,28 @@ Shingrix significantly decreased the incidence of PHN compared with placebo in:
 - -adults ≥ 70 years (pooled analysis of ZOE-50 and ZOE-70): 4 vs. 36 cases;
 - -adults ≥ 18 years with aHSCT (Zoster-002): 1 vs. 9 cases.
 
-<div style=\"page-break-after: always\"></div>
-
 Vaccine efficacy results against PHN are presented in Table 3.
 
 Table 3: Shingrix efficacy against PHN (mTVC)
 
-|                                      | Shingrix                             | Shingrix                             | Shingrix                              | Placebo                              | Placebo                              | Placebo                               | Vaccine efficacy (%) [95% CI]        |
+|                                      | Shingrix                             | Shingrix                             | Shingrix                              | Placebo                              | Placebo                              | Placebo                               | Vaccine efficacy (%)                 |
 |--------------------------------------|--------------------------------------|--------------------------------------|---------------------------------------|--------------------------------------|--------------------------------------|---------------------------------------|--------------------------------------|
-| Age (years)                          | Number of evaluable subjects         | Number of PHN* cases                 | Incidence rate per 1 000 person years | Number of evaluable subjects         | Number of PHN* cases                 | Incidence rate per 1 000 person years | Vaccine efficacy (%) [95% CI]        |
+| Age (years)                          | Number of evaluable subjects         | Number of PHN* cases                 | Incidence rate per 1 000 person years | Number of evaluable subjects         | Number of PHN* cases                 | Incidence rate per 1 000 person years | [95% CI]                             |
 | ZOE-50**                             | ZOE-50**                             | ZOE-50**                             | ZOE-50**                              | ZOE-50**                             | ZOE-50**                             | ZOE-50**                              | ZOE-50**                             |
 | ≥ 50                                 | 7 340                                | 0                                    | 0.0                                   | 7 413                                | 18                                   | 0.6                                   | 100 [77.1; 100]                      |
-| 50-59 3 491                          | 0                                    |                                      | 0.0                                   | 3 523                                | 8                                    | 0.6                                   | 100 [40.8; 100]                      |
-| ≥ 60 3 849                           | 0                                    |                                      | 0.0                                   | 3 890                                | 10                                   | 0.7                                   | 100 [55.2; 100]                      |
-| 2 140                                | 0                                    |                                      | 0.0                                   | 2 166                                | 2                                    | 0.2                                   | 60-69 100 [< 0; 100]                 |
+| 50-59 3                              | 491                                  | 0                                    | 0.0                                   | 3 523                                | 8                                    | 0.6                                   | 100 [40.8; 100]                      |
+| ≥ 60                                 | 3 849                                | 0                                    | 0.0                                   | 3 890                                | 10                                   | 0.7                                   | 100 [55.2; 100]                      |
+| 60-69 2 140                          | 0                                    |                                      | 0.0                                   | 2 166                                | 2                                    | 0.2                                   | 100 § [< 0; 100]                     |
 | Pooled ZOE-50 and ZOE-70***          | Pooled ZOE-50 and ZOE-70***          | Pooled ZOE-50 and ZOE-70***          | Pooled ZOE-50 and ZOE-70***           | Pooled ZOE-50 and ZOE-70***          | Pooled ZOE-50 and ZOE-70***          | Pooled ZOE-50 and ZOE-70***           | Pooled ZOE-50 and ZOE-70***          |
-| ≥ 70 8                               | 250 4                                |                                      | 0.1                                   | 8 346                                | 36                                   | 1.2                                   | 88.8 [68.7; 97.1]                    |
-| 6 468                                | 2                                    |                                      | 0.1                                   | 6 554                                | 29                                   | 1.2                                   | 70-79 93.0 [72.4; 99.2]              |
-| ≥ 80 1 782                           | 2                                    |                                      | 0.3                                   | 1 792                                | 7                                    | 1.1                                   | 71.2 § [< 0; 97.1]                   |
+| ≥ 70                                 | 8 250                                | 4                                    | 0.1                                   | 8 346                                | 36                                   | 1.2                                   | 88.8 [68.7; 97.1]                    |
+| 70-79 6 468                          | 2                                    |                                      | 0.1                                   | 6 554                                | 29                                   | 1.2                                   | 93.0 [72.4; 99.2]                    |
+| ≥ 80 1                               | 782                                  | 2                                    | 0.3                                   | 1 792                                | 7                                    | 1.1                                   | 71.2 § [< 0; 97.1]                   |
 | Zoster-002**** (aHSCT recipients # ) | Zoster-002**** (aHSCT recipients # ) | Zoster-002**** (aHSCT recipients # ) | Zoster-002**** (aHSCT recipients # )  | Zoster-002**** (aHSCT recipients # ) | Zoster-002**** (aHSCT recipients # ) | Zoster-002**** (aHSCT recipients # )  | Zoster-002**** (aHSCT recipients # ) |
 | ≥ 18 870                             | 1                                    |                                      | 0.5                                   | 851                                  | 9                                    | 4.9                                   | 89.3 [22.5; 99.8]                    |
 | 18-49 213                            | 0                                    |                                      | 0.0                                   | 212                                  | 1                                    | 2.2                                   | 100.0 § [< 0; 100.0]                 |
 | ≥ 50                                 | 657                                  | 1                                    | 0.7                                   | 639                                  | 8                                    | 5.8                                   | 88.0 [10.4; 99.8]                    |
 
+* PHN was defined as zosterassociated pain rated as ≥ 3 (on a 0-10 scale), persisting or appearing more than 90 days after onset of zoster rash using Zoster Brief Pain Inventory (ZBPI)
 - CI Confidence interval
 - ** Over a median follow-up period of 4.1 years
 - ***
@@ -355,11 +360,11 @@ Table 3: Shingrix efficacy against PHN (mTVC)
 - § Not statistically significant
 - # antiviral prophylaxis in line with the local standard of care was permitted
 
+<div style=\"page-break-after: always\"></div>
+
 The benefit of Shingrix in the prevention of PHN can be attributed to the effect of the vaccine on the prevention of HZ. A further reduction of PHN incidence in subjects with confirmed HZ could not be demonstrated due to the limited number of HZ cases in the vaccine group.
 
 In the fourth year after vaccination, the efficacy against HZ was 93.1% (95% CI: 81.2; 98.2) and 87.9% (95% CI: 73.3; 95.4) in adults ≥ 50 years (ZOE-50) and adults ≥ 70 years (pooled ZOE-50 and ZOE-70), respectively.
-
-<div style=\"page-break-after: always\"></div>
 
 In Zoster-002, during a follow-up period starting 1 month post-dose 2 (i.e. corresponding to approximately 6 months after aHSCT) until 1 year after aHSCT, when the risk for HZ is the highest, the efficacy against HZ was 76.2% (95% CI: 61.1; 86.0).
 
@@ -385,11 +390,11 @@ The efficacy in reducing BOI was 98.4% (95% CI: 92.2; 100) in subjects ≥ 50 ye
 
 In Zoster002, Shingrix significantly reduced the duration of severe 'worst' HZ -associated pain by 38.5% (95% CI: 11.0; 57.6) in aHSCT recipients ≥ 18 years with at least one confirmed HZ episode. Shingrix significantly reduced the maximum average pain score versus placebo over the entire HZ episode (mean = 4.7 vs. 5.7, P-value = 0.018) and the maximum worst pain score versus placebo over the entire HZ episode (mean = 5.8 vs. 7.1, P-value = 0.011).
 
+<div style=\"page-break-after: always\"></div>
+
 The percentage of subjects with at least one confirmed HZ episode in Zoster-002 using at least one pain medication was 65.3% and 69.6% in the Shingrix and placebo group, respectively. The median duration of pain medication use was 21.5 and 47.5 days in the Shingrix and placebo group, respectively.
 
 Additionally, in Zoster-002, the efficacy in reducing BOI score was 82.5% (95% CI: 73.6%, 91.4%).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Long-term efficacy against HZ, PHN and HZ-related complications other than PHN
 
@@ -412,11 +417,13 @@ Table 4: Long-term Shingrix efficacy against HZ (mTVC) from approximately 5 year
 
 Zoster-049 mTVC started at a median of 5.6 years post-vaccination in ZOE-50 / ZOE-70 and ended at a median of 11.4 years post-vaccination.
 
-In the eleventh year after vaccination, the efficacy against HZ was 82.0% (95% CI: 63.0; 92.2) in subjects ≥ 50 years (Shingrix group: N=5 849), 86.7% (95% CI: 42.7; 98.5) in subjects 50-59 years (Shingrix group: N=1 883), 100.0% (95% CI: 65.1; 100.0) in subjects 60-69 years (Shingrix group: N=1 075) and 72.0% (95% CI: 33.4; 89.8) in subjects ≥ 70 years (Shingrix group: N=2 891).
-
-Shingrix long-term efficacy results against PHN, from approximately 5 years up to approximately 11 years post-vaccination, are presented in Table 5.
+In the eleventh year after vaccination, the efficacy against HZ was 82.0% (95% CI: 63.0; 92.2) in subjects ≥ 50 years (Shingrix group: N=5 849), 86.7% (95% CI: 42.7; 98.5) in subjects 50-59 years
 
 <div style=\"page-break-after: always\"></div>
+
+(Shingrix group: N=1 883), 100.0% (95% CI: 65.1; 100.0) in subjects 60-69 years (Shingrix group: N=1 075) and 72.0% (95% CI: 33.4; 89.8) in subjects ≥ 70 years (Shingrix group: N=2 891).
+
+Shingrix long-term efficacy results against PHN, from approximately 5 years up to approximately 11 years post-vaccination, are presented in Table 5.
 
 Table 5: Long-term Shingrix efficacy against PHN (mTVC) from approximately 5 years up to approximately 11 years post-vaccination
 
@@ -426,14 +433,16 @@ Table 5: Long-term Shingrix efficacy against PHN (mTVC) from approximately 5 yea
 | Over the duration of Zoster-049          | Over the duration of Zoster-049 | Over the duration of Zoster-049 | Over the duration of Zoster-049       | Over the duration of Zoster-049 | Over the duration of Zoster-049 | Over the duration of Zoster-049       | Over the duration of Zoster-049  |
 | ≥ 50                                     | 7 271                           | 4                               | 0.1                                   | 7 271                           | 32                              | 0.8                                   | 87.5 [64.8; 96.8]                |
 | 50-59                                    | 2 046                           | 0                               | 0.0                                   | 2 046                           | 7                               | 0.6                                   | 100 [46.6; 100]                  |
-| 60-69 1 243                              |                                 | 1                               | 0.1                                   | 1 243                           | 2                               | 0.3                                   | 50.0 [< 0; 99.2]                 |
+| 60-69 1                                  | 243                             | 1                               | 0.1                                   | 1 243                           | 2                               | 0.3                                   | 50.0 [< 0; 99.2]                 |
 | ≥ 70                                     | 3 982                           | 3                               | 0.1                                   | 3 982                           | 23                              | 1.1                                   | 87.0 [56.8; 97.5]                |
 
 CI Confidence interval
 
 * Placebo group in ZOE-50 / ZOE-70 was used for Year 1 through Year 4 analysis and to form the historical control data for Year 6 and onwards analysis in Zoster-049
 - ** PHN was defined as zosterassociated pain rated as ≥ 3 (on a 0-10 scale), persisting or appearing more than 90 days after onset of zoster rash using Zoster Brief Pain Inventory (ZBPI)
-- *** Descriptive efficacy analysis
+- ***
+
+Descriptive efficacy analysis
 
 Zoster-049 mTVC started at a median of 5.6 years post-vaccination in ZOE-50 / ZOE-70 and ended at a median of 11.4 years post-vaccination.
 
@@ -445,13 +454,13 @@ In a phase III, randomised, placebo-controlled, observer-blind, multicentre clin
 
 The incidence of HZ recurrence (Shingrix vs. placebo) was evaluated in the modified Exposed Set (mES; N = 1 350), including those who received two doses of Shingrix (N = 668) or placebo (N = 682) and did not have confirmed HZ within 30 days after the second dose. Data from this study do not suggest an increased risk of HZ recurrence following Shingrix vaccination in individuals with a prior history of the disease (0 HZ cases in the Shingrix group vs. 8 HZ cases in the placebo group; incidence rate ratio of HZ recurrence [Shingrix vs. placebo] 0.00 [95% CI: 0.00; 0.46]).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Immunogenicity of Shingrix
 
 An immunological correlate of protection has not been established; therefore the level of immune response that provides protection against HZ is unknown.
 
 In adults ≥ 50 years, the immune responses to Shingrix, given as 2 doses 2 months apart, were evaluated in a subset of subjects from the phase III efficacy studies ZOE-50 [humoral immunity and cell-mediated immunity (CMI)] and ZOE-70 (humoral immunity). The gE-specific immune responses (humoral and CMI) elicited by Shingrix are presented in Tables 6 and 7, respectively.
-
-<div style=\"page-break-after: always\"></div>
 
 Table 6: Humoral immunogenicity of Shingrix in adults ≥ 50 years (ATP cohort for immunogenicity)
 
@@ -464,7 +473,6 @@ Table 6: Humoral immunogenicity of Shingrix in adults ≥ 50 years (ATP cohort f
 | Pooled ZOE-50 and ZOE-70   | Pooled ZOE-50 and ZOE-70   | Pooled ZOE-50 and ZOE-70      | Pooled ZOE-50 and ZOE-70                                            | Pooled ZOE-50 and ZOE-70   | Pooled ZOE-50 and ZOE-70      | Pooled ZOE-50 and ZOE-70                                            |
 | ≥ 70                       | 742                        | 49 691.5 (47 250.8; 52 258.2) | 34.3 (16.7; 68.5)                                                   | 648                        | 10 507.7 (9 899.2; 11 153.6)  | 7.2 (3.5; 14.5)                                                     |
 
-- ^ Anti-gE immune response = anti-gE antibody levels, measured by anti-gE enzyme-linked immunosorbent assay (gE ELISA)
 * Month 3 = 1 month post-dose 2
 - ** Month 38 = 3 years post-dose 2
 - N Number of evaluable subjects at the specified time point (for the GMC)
@@ -686,13 +694,11 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-GlaxoSmithKline Biologicals S.A.
-
-Rue de l'Institut 89
+GlaxoSmithKline Biologicals SA Rue de l'Institut 89
 
 <div style=\"page-break-after: always\"></div>
 
-B-1330 Rixensart
+1330 Rixensart
 
 Belgium
 
@@ -916,6 +922,7 @@ Table 1: Adverse reactions
 | Musculoskeletal and connective tissue disorders      | Uncommon    | arthralgia                                                                              |
 | General disorders and administration site conditions | Very common | injection site reactions (such as pain, redness, swelling), fatigue, chills, fever      |
 | General disorders and administration site conditions | Common      | injection site pruritus, malaise                                                        |
+| General disorders and administration site conditions | Uncommon    | injection site induration                                                               |
 
 ## Description of selected adverse reactions
 
@@ -931,11 +938,11 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 No case of overdose has been reported.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
-
-<div style=\"page-break-after: always\"></div>
 
 Pharmacotherapeutic group: Vaccines, varicella zoster vaccines, ATC code: J07BK03 .
 
@@ -968,19 +975,20 @@ Incidence of HZ and PHN cases as well as vaccine efficacy were evaluated in the 
 Shingrix significantly decreased the incidence of HZ compared with placebo in:
 
 - -adults ≥ 50 years (ZOE-50): 6 vs. 210 cases;
+
+<div style=\"page-break-after: always\"></div>
+
 - -adults ≥ 70 years (pooled analysis of ZOE-50 and ZOE-70): 25 vs. 284 cases;
 - -adults ≥ 18 years with aHSCT (Zoster-002): 49 vs. 135 cases;
 - -adults ≥ 18 years with hematologic malignancies (Zoster-039): 2 vs. 14 cases. Vaccine efficacy was calculated post-hoc.
-
-<div style=\"page-break-after: always\"></div>
 
 Vaccine efficacy results against HZ are presented in Table 2.
 
 Table 2 : Shingrix efficacy against HZ (mTVC)
 
-|                                                 | Shingrix                                        | Shingrix                                        | Shingrix                                        | Placebo                                         | Placebo                                         | Placebo                                         | Vaccine                                         |
+|                                                 | Shingrix                                        | Shingrix                                        | Shingrix                                        | Placebo                                         | Placebo                                         | Placebo                                         |                                                 |
 |-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-| Age (years)                                     | Number of evaluable subjects                    | Number of HZ cases                              | Incidence rate per 1 000 person years           | Number of evaluable subjects                    | Number of HZ cases                              | Incidence rate per 1 000 person years           | efficacy (%) [95% CI]                           |
+| Age (years)                                     | Number of evaluable subjects                    | Number of HZ cases                              | Incidence rate per 1 000 person years           | Number of evaluable subjects                    | Number of HZ cases                              | Incidence rate per 1 000 person years           | Vaccine efficacy (%) [95% CI]                   |
 | ZOE-50*                                         | ZOE-50*                                         | ZOE-50*                                         | ZOE-50*                                         | ZOE-50*                                         | ZOE-50*                                         | ZOE-50*                                         | ZOE-50*                                         |
 | ≥ 50                                            | 7 344                                           | 6                                               | 0.3                                             | 7 415                                           | 210                                             | 9.1                                             | 97.2 [93.7; 99.0]                               |
 | 50-59 3 492                                     |                                                 | 3                                               | 0.3                                             | 3 525                                           | 87                                              | 7.8                                             | 96.6 [89.6; 99.4]                               |
@@ -997,9 +1005,7 @@ Table 2 : Shingrix efficacy against HZ (mTVC)
 | Zoster-039 (hematologic malignancy patients # ) | Zoster-039 (hematologic malignancy patients # ) | Zoster-039 (hematologic malignancy patients # ) | Zoster-039 (hematologic malignancy patients # ) | Zoster-039 (hematologic malignancy patients # ) | Zoster-039 (hematologic malignancy patients # ) | Zoster-039 (hematologic malignancy patients # ) | Zoster-039 (hematologic malignancy patients # ) |
 | ≥ 18                                            | 259                                             | 2                                               | 8.5                                             | 256                                             | 14                                              | 66.2                                            | 87.2**** [44.2; 98.6]                           |
 
-* Over a median follow-up period of 3.1 years
-- **
-- Over a median follow-up period of 4.0 years 70 years of age are sourced from the pre-specified pooled analyses of ZOE-50 and ZOE-70 (mTVC) as these analyses provide the most robust estimates for vaccine efficacy in
+- ** Over a median follow-up period of 4.0 years 70 years of age are sourced from the pre-specified pooled analyses of ZOE-50 and ZOE-70 (mTVC) as these analyses provide the most robust estimates for vaccine efficacy in
 
 Data in subjects ≥ this age group.
 
@@ -1007,14 +1013,15 @@ Data in subjects ≥ this age group.
 - ****  VE calculation was performed post-hoc; median follow-up period of 11.1 months
 - # antiviral prophylaxis in line with the local standard of care was permitted
 
-Approximately 13 000 subjects with underlying medical conditions, including conditions associated with a higher risk of HZ, were enrolled in ZOE-50 and ZOE-70. Post-hoc analysis of efficacy against confirmed HZ undertaken in patients with common conditions (chronic kidney disease, chronic obstructive pulmonary disease, coronary artery disease, depression or diabetes mellitus), indicates that the vaccine efficacy is aligned with the overall HZ efficacy.
+Approximately 13 000 subjects with underlying medical conditions, including conditions associated with a higher risk of HZ, were enrolled in ZOE-50 and ZOE-70. Post-hoc analysis of efficacy against confirmed HZ undertaken in patients with common conditions (chronic kidney disease, chronic
+
+<div style=\"page-break-after: always\"></div>
+
+obstructive pulmonary disease, coronary artery disease, depression or diabetes mellitus), indicates that the vaccine efficacy is aligned with the overall HZ efficacy.
 
 Shingrix significantly decreased the incidence of PHN compared with placebo in:
 
 - -adults ≥ 50 years (ZOE-50): 0 vs. 18 cases;
-
-<div style=\"page-break-after: always\"></div>
-
 - -adults ≥ 70 years (pooled analysis of ZOE-50 and ZOE-70): 4 vs. 36 cases;
 - -adults ≥ 18 years with aHSCT (Zoster-002): 1 vs. 9 cases.
 
@@ -1027,13 +1034,13 @@ Table 3: Shingrix efficacy against PHN (mTVC)
 | Age (years)                          | Number of evaluable subjects         | Number of PHN* cases                 | Incidence rate per 1 000 person years | Number of evaluable subjects         | Number of PHN* cases                 | Incidence rate per 1 000 person years | [95% CI]                             |
 | ZOE-50**                             | ZOE-50**                             | ZOE-50**                             | ZOE-50**                              | ZOE-50**                             | ZOE-50**                             | ZOE-50**                              | ZOE-50**                             |
 | ≥ 50                                 | 7 340                                | 0                                    | 0.0                                   | 7 413                                | 18                                   | 0.6                                   | 100 [77.1; 100]                      |
-| 50-59 3 491                          |                                      | 0                                    | 0.0                                   | 3 523                                | 8                                    | 0.6                                   | 100 [40.8; 100]                      |
-| ≥ 60 3                               | 849                                  | 0                                    | 0.0                                   | 3 890                                | 10                                   | 0.7                                   | 100 [55.2; 100]                      |
-| 60-69 2 140                          | 0                                    |                                      | 0.0                                   | 2 166                                | 2                                    | 0.2                                   | 100 [< 0; 100]                       |
+| 50-59 3                              | 491                                  | 0                                    | 0.0                                   | 3 523                                | 8                                    | 0.6                                   | 100 [40.8; 100]                      |
+| ≥ 60                                 | 3 849                                | 0                                    | 0.0                                   | 3 890                                | 10                                   | 0.7                                   | 100 [55.2; 100]                      |
+| 60-69 2 140                          | 0                                    |                                      | 0.0                                   | 2 166                                | 2                                    | 0.2                                   | 100 § [< 0; 100]                     |
 | Pooled ZOE-50 and ZOE-70***          | Pooled ZOE-50 and ZOE-70***          | Pooled ZOE-50 and ZOE-70***          | Pooled ZOE-50 and ZOE-70***           | Pooled ZOE-50 and ZOE-70***          | Pooled ZOE-50 and ZOE-70***          | Pooled ZOE-50 and ZOE-70***           | Pooled ZOE-50 and ZOE-70***          |
-| ≥ 70 8                               | 250 4                                |                                      | 0.1                                   | 8 346                                | 36                                   | 1.2                                   | 88.8 [68.7; 97.1]                    |
-| 6 468                                | 2                                    |                                      | 0.1                                   | 6 554                                | 29                                   | 1.2                                   | 70-79 93.0 [72.4; 99.2]              |
-| ≥ 80 1 782                           | 2                                    |                                      | 0.3                                   | 1 792                                | 7                                    | 1.1                                   | 71.2 § [< 0; 97.1]                   |
+| ≥ 70                                 | 8 250                                | 4                                    | 0.1                                   | 8 346                                | 36                                   | 1.2                                   | 88.8 [68.7; 97.1]                    |
+| 70-79 6 468                          | 2                                    |                                      | 0.1                                   | 6 554                                | 29                                   | 1.2                                   | 93.0 [72.4; 99.2]                    |
+| ≥ 80 1                               | 782                                  | 2                                    | 0.3                                   | 1 792                                | 7                                    | 1.1                                   | 71.2 § [< 0; 97.1]                   |
 | Zoster-002**** (aHSCT recipients # ) | Zoster-002**** (aHSCT recipients # ) | Zoster-002**** (aHSCT recipients # ) | Zoster-002**** (aHSCT recipients # )  | Zoster-002**** (aHSCT recipients # ) | Zoster-002**** (aHSCT recipients # ) | Zoster-002**** (aHSCT recipients # )  | Zoster-002**** (aHSCT recipients # ) |
 | ≥ 18 870                             | 1                                    |                                      | 0.5                                   | 851                                  | 9                                    | 4.9                                   | 89.3 [22.5; 99.8]                    |
 | 18-49 213                            | 0                                    |                                      | 0.0                                   | 212                                  | 1                                    | 2.2                                   | 100.0 § [< 0; 100.0]                 |
@@ -1043,19 +1050,16 @@ Table 3: Shingrix efficacy against PHN (mTVC)
 - CI Confidence interval
 - ** Over a median follow-up period of 4.1 years
 - ***
-
-Data in subjects ≥ 70 years of age are sourced from the pre-specified pooled analyses of efficacy in this age group .
-
-- Over a median follow-up period of 4.0 years ZOE-50 and ZOE-70 (mTVC) as these analyses provide the most robust estimates for vaccine
+- Over a median follow-up period of 4.0 years Data in subjects ≥ 70 years of age are sourced from the pre-specified pooled analyses of ZOE-50 and ZOE-70 (mTVC) as these analyses provide the most robust estimates for vaccine efficacy in this age group .
 - ****  Over a median follow-up period of 21 months
 - § Not statistically significant
 - # antiviral prophylaxis in line with the local standard of care was permitted
 
+<div style=\"page-break-after: always\"></div>
+
 The benefit of Shingrix in the prevention of PHN can be attributed to the effect of the vaccine on the prevention of HZ. A further reduction of PHN incidence in subjects with confirmed HZ could not be demonstrated due to the limited number of HZ cases in the vaccine group.
 
 In the fourth year after vaccination, the efficacy against HZ was 93.1% (95% CI: 81.2; 98.2) and 87.9% (95% CI: 73.3; 95.4) in adults ≥ 50 years (ZOE-50) and adults ≥ 70 years (pooled ZOE-50 and ZOE-70), respectively.
-
-<div style=\"page-break-after: always\"></div>
 
 In Zoster-002, during a follow-up period starting 1 month post-dose 2 (i.e. corresponding to approximately 6 months after aHSCT) until 1 year after aHSCT, when the risk for HZ is the highest, the efficacy against HZ was 76.2% (95% CI: 61.1; 86.0).
 
@@ -1075,15 +1079,17 @@ In subjects ≥ 70 years with at least one confirmed HZ episode (ZOE-50 and ZOE-
 
 In subjects with at least one confirmed HZ episode, Shingrix significantly reduced the maximum average pain score versus placebo over the entire HZ episode (mean = 3.9 vs. 5.5, P-value = 0.049 and mean = 4.5 vs. 5.6, P-value = 0.043, in subjects  50 years (ZOE-50) and  70 years (ZOE-50 and ZOE70 pooled), respectively). In addition, in subjects ≥ 70 years (ZOE-50 and ZOE-70 pooled), Shingrix significantly reduced the maximum worst pain score versus placebo over the entire HZ episode (mean = 5.7 vs. 7.0, P-value = 0.032).
 
-The burden-of-illness (BOI) score incorporates the incidence of HZ with the severity and duration of acute and chronic HZ-related pain over a 6-month period following rash onset. The efficacy in reducing BOI was 98.4% (95% CI: 92.2; 100) in subjects ≥ 50 years (ZOE-50) and 92.1% (95% CI: 90.4; 93.8) in subjects ≥ 70 years (ZOE-50 and ZOE-70 pooled).
+The burden-of-illness (BOI) score incorporates the incidence of HZ with the severity and duration of acute and chronic HZ-related pain over a 6-month period following rash onset.
+
+The efficacy in reducing BOI was 98.4% (95% CI: 92.2; 100) in subjects ≥ 50 years (ZOE-50) and 92.1% (95% CI: 90.4; 93.8) in subjects ≥ 70 years (ZOE-50 and ZOE-70 pooled).
 
 In Zoster002, Shingrix significantly reduced the duration of severe 'worst' HZ -associated pain by 38.5% (95% CI: 11.0; 57.6) in aHSCT recipients ≥ 18 years with at least one confirmed HZ episode. Shingrix significantly reduced the maximum average pain score versus placebo over the entire HZ episode (mean = 4.7 vs. 5.7, P-value = 0.018) and the maximum worst pain score versus placebo over the entire HZ episode (mean = 5.8 vs. 7.1, P-value = 0.011).
+
+<div style=\"page-break-after: always\"></div>
 
 The percentage of subjects with at least one confirmed HZ episode in Zoster-002 using at least one pain medication was 65.3% and 69.6% in the Shingrix and placebo group, respectively. The median duration of pain medication use was 21.5 and 47.5 days in the Shingrix and placebo group, respectively.
 
 Additionally, in Zoster-002, the efficacy in reducing BOI score was 82.5% (95% CI: 73.6%, 91.4%).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Long-term efficacy against HZ, PHN and HZ-related complications other than PHN
 
@@ -1101,39 +1107,38 @@ Table 4: Long-term Shingrix efficacy against HZ (mTVC) from approximately 5 year
 | Over the duration of Zoster-049          | Over the duration of Zoster-049 | Over the duration of Zoster-049 | Over the duration of Zoster-049       | Over the duration of Zoster-049 | Over the duration of Zoster-049 | Over the duration of Zoster-049       | Over the duration of Zoster-049 |
 | ≥ 50                                     | 7 258                           | 69                              | 1.8                                   | 7 258                           | 341                             | 8.7                                   | 79.8 [73.7; 84.6]               |
 | 50-59                                    | 2 043                           | 12                              | 1.0                                   | 2 043                           | 90                              | 7.7                                   | 86.7 [75.6; 93.4]               |
-| 60-69 1 242                              |                                 | 9                               | 1.3                                   | 1 242                           | 70                              | 10.1                                  | 87.1 [74.2; 94.4]               |
+| 60-69 1 242                              | 9                               |                                 | 1.3                                   | 1 242                           | 70                              | 10.1                                  | 87.1 [74.2; 94.4]               |
 | ≥ 70                                     | 3 973                           | 48                              | 2.4                                   | 3 973                           | 179                             | 8.8                                   | 73.2 [62.9; 80.9]               |
-
-CI Confidence interval
-
-* Placebo group in ZOE-50 / ZOE-70 was used for Year 1 through Year 4 analysis and to form the historical control data for Year 6 and onwards analysis in Zoster-049
-
-** Descriptive efficacy analysis
 
 Zoster-049 mTVC started at a median of 5.6 years post-vaccination in ZOE-50 / ZOE-70 and ended at a median of 11.4 years post-vaccination.
 
-In the eleventh year after vaccination, the efficacy against HZ was 82.0% (95% CI: 63.0; 92.2) in subjects ≥ 50 years (Shingrix group: N=5 849), 86.7% (95% CI: 42.7; 98.5) in subjects 50-59 years (Shingrix group: N=1 883), 100.0% (95% CI: 65.1; 100.0) in subjects 60-69 years (Shingrix group: N=1 075) and 72.0% (95% CI: 33.4; 89.8) in subjects ≥ 70 years (Shingrix group: N=2 891).
-
-Shingrix long-term efficacy results against PHN, from approximately 5 years up to approximately 11 years post-vaccination, are presented in Table 5.
+In the eleventh year after vaccination, the efficacy against HZ was 82.0% (95% CI: 63.0; 92.2) in subjects ≥ 50 years (Shingrix group: N=5 849), 86.7% (95% CI: 42.7; 98.5) in subjects 50-59 years
 
 <div style=\"page-break-after: always\"></div>
 
+(Shingrix group: N=1 883), 100.0% (95% CI: 65.1; 100.0) in subjects 60-69 years (Shingrix group: N=1 075) and 72.0% (95% CI: 33.4; 89.8) in subjects ≥ 70 years (Shingrix group: N=2 891).
+
+Shingrix long-term efficacy results against PHN, from approximately 5 years up to approximately 11 years post-vaccination, are presented in Table 5.
+
 Table 5: Long-term Shingrix efficacy against PHN (mTVC) from approximately 5 years up to approximately 11 years post-vaccination
 
-| Age at the time of vaccination (years)   | Shingrix                        | Shingrix                        | Shingrix                              | Placebo / Historical control*   | Placebo / Historical control*   | Placebo / Historical control*         | Vaccine efficacy*** (%)         |
-|------------------------------------------|---------------------------------|---------------------------------|---------------------------------------|---------------------------------|---------------------------------|---------------------------------------|---------------------------------|
-| Age at the time of vaccination (years)   | Number of evaluable subjects    | Number of PHN** cases           | Incidence rate per 1 000 person years | Number of evaluable subjects    | Number of PHN** cases           | Incidence rate per 1 000 person years | [95% CI]                        |
-| Over the duration of Zoster-049          | Over the duration of Zoster-049 | Over the duration of Zoster-049 | Over the duration of Zoster-049       | Over the duration of Zoster-049 | Over the duration of Zoster-049 | Over the duration of Zoster-049       | Over the duration of Zoster-049 |
-| ≥ 50                                     | 7 271                           | 4                               | 0.1                                   | 7 271                           | 32                              | 0.8                                   | 87.5 [64.8; 96.8]               |
-| 50-59                                    | 2 046                           | 0                               | 0.0                                   | 2 046                           | 7                               | 0.6                                   | 100 [46.6; 100]                 |
-| 60-69 1 243                              |                                 | 1                               | 0.1                                   | 1 243                           | 2                               | 0.3                                   | 50.0 [< 0; 99.2]                |
-| ≥ 70                                     | 3 982                           | 3                               | 0.1                                   | 3 982                           | 23                              | 1.1                                   | 87.0 [56.8; 97.5]               |
+| Age at the time of vaccination (years)   | Shingrix                        | Shingrix                        | Shingrix                              | Placebo / Historical control*   | Placebo / Historical control*   | Placebo / Historical control*         |                                  |
+|------------------------------------------|---------------------------------|---------------------------------|---------------------------------------|---------------------------------|---------------------------------|---------------------------------------|----------------------------------|
+| Age at the time of vaccination (years)   | Number of evaluable subjects    | Number of PHN** cases           | Incidence rate per 1 000 person years | Number of evaluable subjects    | Number of PHN** cases           | Incidence rate per 1 000 person years | Vaccine efficacy*** (%) [95% CI] |
+| Over the duration of Zoster-049          | Over the duration of Zoster-049 | Over the duration of Zoster-049 | Over the duration of Zoster-049       | Over the duration of Zoster-049 | Over the duration of Zoster-049 | Over the duration of Zoster-049       | Over the duration of Zoster-049  |
+| ≥ 50                                     | 7 271                           | 4                               | 0.1                                   | 7 271                           | 32                              | 0.8                                   | 87.5 [64.8; 96.8]                |
+| 50-59                                    | 2 046                           | 0                               | 0.0                                   | 2 046                           | 7                               | 0.6                                   | 100 [46.6; 100]                  |
+| 60-69 1                                  | 243                             | 1                               | 0.1                                   | 1 243                           | 2                               | 0.3                                   | 50.0 [< 0; 99.2]                 |
+| ≥ 70                                     | 3 982                           | 3                               | 0.1                                   | 3 982                           | 23                              | 1.1                                   | 87.0 [56.8; 97.5]                |
 
 CI Confidence interval
 
 * Placebo group in ZOE-50 / ZOE-70 was used for Year 1 through Year 4 analysis and to form the historical control data for Year 6 and onwards analysis in Zoster-049
-- ** PHN was defined as zosterassociated pain rated as ≥ 3 (on a 0-10 scale), persisting or
-- appearing more than 90 days after onset of zoster rash using Zoster Brief Pain Inventory (ZBPI) *** Descriptive efficacy analysis
+- ** PHN was defined as zosterassociated pain rated as ≥ 3 (on a 0-10 scale), persisting or appearing more than 90 days after onset of zoster rash using Zoster Brief Pain Inventory (ZBPI)
+
+***
+
+Descriptive efficacy analysis
 
 Zoster-049 mTVC started at a median of 5.6 years post-vaccination in ZOE-50 / ZOE-70 and ended at a median of 11.4 years post-vaccination.
 
@@ -1145,13 +1150,13 @@ In a phase III, randomised, placebo-controlled, observer-blind, multicentre clin
 
 The incidence of HZ recurrence (Shingrix vs. placebo) was evaluated in the modified Exposed Set (mES; N = 1 350), including those who received two doses of Shingrix (N = 668) or placebo (N = 682) and did not have confirmed HZ within 30 days after the second dose. Data from this study do not suggest an increased risk of HZ recurrence following Shingrix vaccination in individuals with a prior history of the disease (0 HZ cases in the Shingrix group vs. 8 HZ cases in the placebo group; incidence rate ratio of HZ recurrence [Shingrix vs. placebo] 0.00 [95% CI: 0.00; 0.46]).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Immunogenicity of Shingrix
 
 An immunological correlate of protection has not been established; therefore the level of immune response that provides protection against HZ is unknown.
 
 In adults ≥ 50 years, the immune responses to Shingrix, given as 2 doses 2 months apart, were evaluated in a subset of subjects from the phase III efficacy studies ZOE-50 [humoral immunity and cell-mediated immunity (CMI)] and ZOE-70 (humoral immunity). The gE-specific immune responses (humoral and CMI) elicited by Shingrix are presented in Tables 6 and 7, respectively.
-
-<div style=\"page-break-after: always\"></div>
 
 Table 6: Humoral immunogenicity of Shingrix in adults ≥ 50 years (ATP cohort for immunogenicity)
 
@@ -1164,9 +1169,6 @@ Table 6: Humoral immunogenicity of Shingrix in adults ≥ 50 years (ATP cohort f
 | Pooled ZOE-50 and ZOE-70   | Pooled ZOE-50 and ZOE-70   | Pooled ZOE-50 and ZOE-70      | Pooled ZOE-50 and ZOE-70                                            | Pooled ZOE-50 and ZOE-70   | Pooled ZOE-50 and ZOE-70      | Pooled ZOE-50 and ZOE-70                                            |
 | ≥ 70                       | 742                        | 49 691.5 (47 250.8; 52 258.2) | 34.3 (16.7; 68.5)                                                   | 648                        | 10 507.7 (9 899.2; 11 153.6)  | 7.2 (3.5; 14.5)                                                     |
 
-## ATP   According-To-Protocol
-
-- ^ Anti-gE immune response = anti-gE antibody levels, measured by anti-gE enzyme-linked immunosorbent assay (gE ELISA)
 * Month 3   = 1 month post-dose 2
 - ** Month 38 = 3 years post-dose 2
 - N Number of evaluable subjects at the specified time point (for the GMC)
@@ -1174,7 +1176,7 @@ Table 6: Humoral immunogenicity of Shingrix in adults ≥ 50 years (ATP cohort f
 
 GMC Geometric Mean Concentration
 
-Q1; Q3 First and third quartiles
+- Q1; Q3 First and third quartiles
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1353,9 +1355,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-GlaxoSmithKline Biologicals S.A.
-
-Rue de l'Institut 89 B-1330 Rixensart Belgium
+GlaxoSmithKline Biologicals SA Rue de l'Institut 89 1330 Rixensart Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
@@ -1371,9 +1371,7 @@ Date of latest renewal: 05 December 2022
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
-To attach the needle, connect the hub to the Luer
-
-Lock Adaptor and rotate a quarter turn clockwise until you feel it lock. Do not pull the syringe plunger out of the barrel. If it happens, do not administer the vaccine.
+To attach the needle, connect the hub to the Luer Lock Adaptor and rotate a quarter turn clockwise until you feel it lock. Do not pull the syringe plunger out of the barrel. If it happens, do not administer the vaccine.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1390,11 +1388,11 @@ Lock Adaptor and rotate a quarter turn clockwise until you feel it lock. Do not 
 
 Name and address of the manufacturer of the biological active substances
 
-GlaxoSmithKline Biologicals SA Parc de la Noire Epine 20, Avenue Fleming 1300 Wavre BELGIUM
+GlaxoSmithKline Biologicals SA Parc de la Noire Epine Avenue Fleming 20 1300 Wavre Belgium
 
 Name and address of the manufacturer responsible for batch release
 
-GlaxoSmithKline Biologicals SA Rue de l'Institut, 89 1330 Rixensart BELGIUM
+GlaxoSmithKline Biologicals SA Rue de l'Institut 89 1330 Rixensart Belgium
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1511,13 +1509,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-GlaxoSmithKline Biologicals s.a.
-
-Rue de l'Institut 89
-
-B-1330 Rixensart
-
-Belgium
+GlaxoSmithKline Biologicals SA Rue de l'Institut 89 1330 Rixensart Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1689,15 +1681,15 @@ Do not freeze.
 
 Store in the original package in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-GlaxoSmithKline Biologicals s.a.
+GlaxoSmithKline Biologicals SA
 
 Rue de l'Institut 89
 
-B-1330 Rixensart
+1330 Rixensart
 
 Belgium
 
@@ -1912,6 +1904,7 @@ Uncommon (may occur with up to 1 in 100 doses of vaccine)
 
 - swollen glands in the neck, armpit or groin
 - joint pain
+- hardness of the skin where the injection is given
 
 Rare (may occur with up to 1 in 1 000 doses of the vaccine)
 
@@ -1949,9 +1942,32 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - The active substances are:
 
-After reconstitution, one dose (0.5 mL) contains: Varicella Zoster Virus 1 glycoprotein E antigen 2 50 micrograms
+After reconstitution, one dose (0.5 mL) contains: 2
 
-1 Varicella Zoster Virus = VZV 2  adjuvanted with AS01B containing: plant extract Quillaja saponaria Molina, fraction 21 (QS-21) 50 micrograms 3-O-desacyl4' -monophosphoryl lipid A (MPL) from Salmonella minnesota 50 micrograms
+Varicella Zoster Virus 1 glycoprotein E antigen
+
+- 1 Varicella Zoster Virus = VZV
+- 2  adjuvanted with AS01B containing:
+
+plant extract
+
+Quillaja saponaria
+
+3-O-desacyl-
+
+4'
+
+Molina, fraction 21 (QS-21)
+
+-monophosphoryl lipid A (MPL) from
+
+50 micrograms
+
+50 micrograms
+
+Salmonella minnesota
+
+50 micrograms
 
 The glycoprotein E is a protein present in the Varicella Zoster Virus. This protein is not infectious.
 
@@ -1966,11 +1982,9 @@ See s ection 2 'Shingrix contains polysorbate 80, sodium and potassium' .
 
 ## What Shingrix looks like and contents of the pack
 
-Powder and suspension for suspension for injection. The powder is white.
-
 <div style=\"page-break-after: always\"></div>
 
-The suspension is an opalescent, colourless to pale brownish liquid.
+Powder and suspension for suspension for injection. The powder is white. The suspension is an opalescent, colourless to pale brownish liquid.
 
 ## One pack of Shingrix consists of:
 
@@ -1983,9 +1997,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-GlaxoSmithKline Biologicals s.a.
-
-Rue de l'Institut 89 B-1330 Rixensart Belgium
+GlaxoSmithKline Biologicals SA Rue de l'Institut 89 1330 Rixensart Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1993,65 +2005,27 @@ For any information about this medicine, please contact the local representative
 
 GlaxoSmithKline Pharmaceuticals s.a./n.v. Tél/Tel: + 32 (0) 10 85 52 00
 
-## Lietuva
-
-GlaxoSmithKline Biologicals SA
-
-Tel: +370 80000334
-
 ## България
 
-GlaxoSmithKline Biologicals SA
-
-Тел
-
-.: +359 80018205
-
-## Luxembourg/Luxemburg
-
-GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien Tél/Tel: + 32 (0) 10 85 52 00
+GlaxoSmithKline Biologicals SA Тел .: +359 80018205
 
 ## Česká republika
 
 GlaxoSmithKline s.r.o. Tel: + 420 2 22 00 11 11 cz.info@gsk.com
 
-## Magyarország
-
-GlaxoSmithKline Biologicals SA
-
-Tel.: +36 80088309
-
 ## Danmark
 
 GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
 
-## Malta
-
-GlaxoSmithKline Biologicals SA
-
-Tel: +356 80065004
-
 ## Deutschland
 
 GlaxoSmithKline GmbH &amp; Co. KG Tel: + 49 (0)89 360448701 produkt.info@gsk.com
-
-## Nederland
-
-GlaxoSmithKline BV
-
-Tel: + 31 (0)33 2081100
 
 ## Eesti
 
 GlaxoSmithKline Biologicals SA
 
 Tel: +372 8002640
-
-## Norge
-
-GlaxoSmithKline AS
-
-Tlf: + 47 22 70 20 00
 
 ## Ελλάδα
 
@@ -2061,13 +2035,47 @@ T ηλ
 
 : + 30 210 68 82 100
 
+## Lietuva
+
+GlaxoSmithKline Biologicals SA Tel: +370 80000334
+
+## Luxembourg/Luxemburg
+
+GlaxoSmithKline Pharmaceuticals s.a./n.v.
+
+Belgique/Belgien
+
+Tél/Tel: + 32 (0) 10 85 52 00
+
+## Magyarország
+
+GlaxoSmithKline Biologicals SA
+
+Tel.: +36 80088309
+
+## Malta
+
+GlaxoSmithKline Biologicals SA
+
+Tel: +356 80065004
+
+## Nederland
+
+GlaxoSmithKline BV
+
+Tel: + 31 (0)33 2081100
+
+## Norge
+
+GlaxoSmithKline AS
+
+Tlf: + 47 22 70 20 00
+
 ## Österreich
 
-GlaxoSmithKline Pharma GmbH
+GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com
 
-Tel: + 43 (0)1 97075 0
-
-at.info@gsk.com
+<div style=\"page-break-after: always\"></div>
 
 ## España
 
@@ -2174,8 +2182,6 @@ Tel: +371 80205045
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-<div style=\"page-break-after: always\"></div>
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -2368,6 +2374,7 @@ Uncommon (may occur with up to 1 in 100 doses of vaccine)
 
 - swollen glands in the neck, armpit or groin
 - joint pain
+- hardness of the skin where the injection is given
 
 Rare (may occur with up to 1 in 1 000 doses of the vaccine)
 
@@ -2411,7 +2418,11 @@ Varicella Zoster Virus 1 glycoprotein E antigen 2
 
 50 micrograms
 
-1 Varicella Zoster Virus = VZV 2  adjuvanted with AS01B containing: plant extract Quillaja saponaria Molina, fraction 21 (QS-21) 50 micrograms 3-O-desacyl4' -monophosphoryl lipid A (MPL) from Salmonella minnesota 50 micrograms
+- 1 Varicella Zoster Virus = VZV
+
+- 2  adjuvanted with AS01B containing:
+
+plant extract Quillaja saponaria Molina, fraction 21 (QS-21) 50 micrograms 3-O-desacyl- 4' -monophosphoryl lipid A (MPL) from Salmonella minnesota 50 micrograms
 
 The glycoprotein E is a protein present in the Varicella Zoster Virus. This protein is not infectious.
 
@@ -2433,9 +2444,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-GlaxoSmithKline Biologicals s.a.
-
-Rue de l'Institut 89 B-1330 Rixensart Belgium
+GlaxoSmithKline Biologicals SA Rue de l'Institut 89 1330 Rixensart Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -2479,8 +2488,6 @@ GlaxoSmithKline, S.A. Tel: + 34 900 202 700 es-ci@gsk.com
 
 Laboratoire GlaxoSmithKline
 
-Tél: + 33 (0) 1 39 17 84 44
-
 ## Lietuva
 
 GlaxoSmithKline Biologicals SA
@@ -2493,21 +2500,15 @@ GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien Tél/Tel: + 32 (0) 10
 
 ## Magyarország
 
-GlaxoSmithKline Biologicals SA
-
-Tel.: +36 80088309
+GlaxoSmithKline Biologicals SA Tel.: +36 80088309
 
 ## Malta
 
-GlaxoSmithKline Biologicals SA
-
-Tel: +356 80065004
+GlaxoSmithKline Biologicals SA Tel: +356 80065004
 
 ## Nederland
 
-GlaxoSmithKline BV
-
-Tel: + 31 (0)33 2081100
+GlaxoSmithKline BV Tel: + 31 (0)33 2081100
 
 ## Norge
 
@@ -2529,19 +2530,19 @@ Tel.: + 48 (22) 576 9000
 
 GlaxoSmithKline - Produtos Farmacêuticos, Lda.
 
-Tel: + 351 21 412 95 00
-
-<div style=\"page-break-after: always\"></div>
+Tél: + 33 (0) 1 39 17 84 44
 
 diam@gsk.com
-
-FI.PT@gsk.com
 
 ## Hrvatska
 
 GlaxoSmithKline Biologicals SA
 
 Tel: +385 800787089
+
+Tel: + 351 21 412 95 00
+
+FI.PT@gsk.com
 
 ## România
 
@@ -2606,6 +2607,8 @@ info.produkt@gsk.com
 GlaxoSmithKline Biologicals SA
 
 Tel: +371 80205045
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 

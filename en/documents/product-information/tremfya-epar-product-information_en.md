@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-19 15:03:25
+document_datetime: 2026-03-23 15:33:43
 document_pages: 322
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tremfya-epar-product-information_en.pdf
 document_name: tremfya-epar-product-information_en.pdf
 version: success
-processing_time: 150.6477213
-conversion_datetime: 2026-01-03 12:45:18.095188
+processing_time: 173.4943247
+conversion_datetime: 2026-03-25 12:31:26.229517
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.0
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -506,9 +506,9 @@ Figure 3: Percent of patients who achieved an IGA Score of cleared (0) or minima
 
 <!-- image -->
 
--- Guselkumab (n=135)
+←— Guselkumab (n=135)
 
-- · Ustekinumab (n=133)
+· · Ustekinumab (n=133)
 
 ## ECLIPSE
 
@@ -1239,7 +1239,7 @@ Figure 3: Percent of patients who achieved an IGA Score of cleared (0) or minima
 
 Guselkumab (n=135)
 
-· · Ustekinumab (n=133)
+- · Ustekinumab (n=133)
 
 ## ECLIPSE
 
@@ -1306,8 +1306,8 @@ Table 8: Clinical responses in DISCOVER 1 and DISCOVER 2
 | ACR 50 response                            | ACR 50 response                            | ACR 50 response                            | ACR 50 response                            | ACR 50 response                            | ACR 50 response                            | ACR 50 response                            |
 | Week 16                                    | 12.7%                                      | 22.8% d                                    | 26.6% c                                    | 9.3%                                       | 28.6% g                                    | 20.8% c                                    |
 | Difference                                 |                                            | 10.2 (1.0, 19.3)                           | 13.9                                       | -                                          | 19.3                                       | 11.5                                       |
-| from placebo (95% CI) Week 24              | - 8.7%                                     | 29.9% b                                    | (4.4, 23.4)                                | 14.2%                                      | (12.6, 25.9) 31.5% g                       | (5.2, 17.7) 33.1% c                        |
-| Difference from placebo                    | -                                          | 21.4 (12.1, 30.7)                          | 35.9% b 27.2 (17.6, 36.8)                  | -                                          | 17.2 (10.0, 24.4)                          | 18.8 (11.5, 26.1)                          |
+| from placebo (95% CI) Week 24              | - 8.7%                                     | 29.9% b                                    | (4.4, 23.4) b                              | 14.2%                                      | (12.6, 25.9) 31.5% g                       | (5.2, 17.7) 33.1% c                        |
+| Difference from placebo                    | -                                          | 21.4 (12.1, 30.7)                          | 35.9% 27.2 (17.6, 36.8)                    | -                                          | 17.2 (10.0, 24.4)                          | 18.8 (11.5, 26.1)                          |
 | ACR 70 response                            | ACR 70 response                            | ACR 70 response                            | ACR 70 response                            | ACR 70 response                            | ACR 70 response                            | ACR 70 response                            |
 | Week 24                                    | 5.6%                                       | 11.8% d                                    | 20.3% b                                    | 4.1%                                       | 18.5% g                                    | 13.1% c                                    |
 | Difference from placebo (95% CI)           | -                                          | 6.4 (-0.3, 13.1)                           | 14.8 (6.9, 22.7)                           | -                                          | 14.5 (9.1, 19.9)                           | 9.0 (4.1, 13.8)                            |
@@ -1443,14 +1443,14 @@ At Week 52 and Week 100, the mean change from baseline in total modified vdH-S w
 
 Table 12: Change from baseline in total modified vdH-S score at week 52 and week 100 in DISCOVER 2
 
-|                       | N a   | Mean change (SD b ) from baseline in total modified vdH-S score   |
+|                       |   N a | Mean change (SD b ) from baseline in total modified vdH-S score   |
 |-----------------------|-------|-------------------------------------------------------------------|
 | Week 52               |       |                                                                   |
-| guselkumab 100 mg q8w | 235   | 0.97 (3.623)                                                      |
-| guselkumab 100 mg q4w | 229   | 1.07 (3.843)                                                      |
+| guselkumab 100 mg q8w |   235 | 0.97 (3.623)                                                      |
+| guselkumab 100 mg q4w |   229 | 1.07 (3.843)                                                      |
 | Week 100              |       |                                                                   |
-| guselkumab 100 mg q8w | 216   | 1.50 (4.393)                                                      |
-| guselkumab 100 mg q4w | 211   | 1.68 (7.018)                                                      |
+| guselkumab 100 mg q8w |   216 | 1.50 (4.393)                                                      |
+| guselkumab 100 mg q4w |   211 | 1.68 (7.018)                                                      |
 
 Note: no placebo group beyond Week 24
 
@@ -2686,9 +2686,9 @@ Figure 3: Percent of patients who achieved an IGA Score of cleared (0) or minima
 
 <!-- image -->
 
-←- Guselkumab (n=135)
+←Guselkumab(n=135)
 
-- · Ustekinumab (n=133)
+-- Ustekinumab (n=133)
 
 ## ECLIPSE
 
@@ -2888,14 +2888,14 @@ At Week 52 and Week 100, the mean change from baseline in total modified vdH-S w
 
 Table 12: Change from baseline in total modified vdH-S score at week 52 and week 100 in DISCOVER 2
 
-|                       | N a   | Mean change (SD b ) from baseline in total modified vdH-S score   |
+|                       |   N a | Mean change (SD b ) from baseline in total modified vdH-S score   |
 |-----------------------|-------|-------------------------------------------------------------------|
 | Week 52               |       |                                                                   |
-| guselkumab 100 mg q8w | 235   | 0.97 (3.623)                                                      |
-| guselkumab 100 mg q4w | 229   | 1.07 (3.843)                                                      |
+| guselkumab 100 mg q8w |   235 | 0.97 (3.623)                                                      |
+| guselkumab 100 mg q4w |   229 | 1.07 (3.843)                                                      |
 | Week 100              |       |                                                                   |
-| guselkumab 100 mg q8w | 216   | 1.50 (4.393)                                                      |
-| guselkumab 100 mg q4w | 211   | 1.68 (7.018)                                                      |
+| guselkumab 100 mg q8w |   216 | 1.50 (4.393)                                                      |
+| guselkumab 100 mg q4w |   211 | 1.68 (7.018)                                                      |
 
 Note: no placebo group beyond Week 24
 
@@ -3603,7 +3603,9 @@ EU/1/17/1234/010 1 pre-filled pen EU/1/17/1234/011 2 pre-filled pens
 
 <div style=\"page-break-after: always\"></div>
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 10 November 2017
 
@@ -4281,7 +4283,9 @@ The results of the co-primary and major secondary endpoints compared to placebo 
 
 <div style=\"page-break-after: always\"></div>
 
-Table 7: Proportion of patients meeting co-primary and major secondary efficacy endpoints with guselkumab versus placebo at Week 12 in GALAXI 2 and GALAXI 3
+Table 7: Proportion of patients meeting co-primary and major secondary efficacy endpoints with guselkumab versus placebo at Week 12 in GALAXI 2 and
+
+GALAXI 3
 
 |                                    | GALAXI 2                           | GALAXI 2                             | GALAXI 3                           | GALAXI 3                             |
 |------------------------------------|------------------------------------|--------------------------------------|------------------------------------|--------------------------------------|
@@ -4308,6 +4312,12 @@ Table 7: Proportion of patients meeting co-primary and major secondary efficacy 
 | Total population                   | 1% (N=76)                          | 15%(N=289)                           | 8% (N=72)                          | 16% (N=293)                          |
 | Biologic naïve c                   | 3% (N=34)                          | 22% (N=121)                          | 19% (N=27)                         | 25% (N=123)                          |
 | Prior biologic failure d           | 0% (N=39)                          | 9% (N=150)                           | 0% (N=39)                          | 9% (N=150)                           |
+
+- a Guselkumab 200 mg intravenous induction at Week 0, Week 4 and Week 8 - Two guselkumab treatment groups were combined for this column as patients received the same intravenous induction dose regimen prior to Week 12.
+
+b Clinical remission is defined as CDAI score &lt; 150.
+
+c An additional 9 patients in the placebo group and 38 patients in the guselkumab 200 mg intravenous group were previously exposed to but did not fail a biological therapy.
 
 - d Includes inadequate response, loss of response, or intolerance to biologic therapy (TNF blockers or vedolizumab) for Crohn's disease.
 - e Endoscopic response is defined as ≥ 50% improvement from baseline in SES-CD score or SES-CD Score ≤ 2.
@@ -6973,9 +6983,7 @@ tremfya 200 mg
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-## PRE-FILLED SYRINGE LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
@@ -9663,11 +9671,15 @@ Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 Janssen Biologics B.V. Einsteinweg 101 2333CB Leiden The Netherlands
 
+Janssen Pharmaceutica NV
+
+Turnhoutseweg 30 B-2340 Beerse Belgium
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Tel/Tél: +32 14 64 94 11
+## België/Belgique/Belgien
 
-Janssen-Cilag NV janssen@jacbe.jnj.com
+Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
 
 ## Lietuva
 
@@ -9691,21 +9703,13 @@ Tel: +420 227 012 227
 
 ## Magyarország
 
-Janssen-Cilag Kft. Tel.: +36 1 884 2858
+Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
 
-janssenhu@its.jnj.com
+<div style=\"page-break-after: always\"></div>
 
 ## Danmark
 
 Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
-
-## Malta
-
-AM MANGION LTD
-
-Tel: +356 2397 6000
-
-<div style=\"page-break-after: always\"></div>
 
 ## Deutschland
 
@@ -9721,9 +9725,7 @@ Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ
 
 ## España
 
-Janssen-Cilag, S.A.
-
-Tel: +34 91 722 81 00
+Janssen-Cilag, S.A. Tel: +34 91 722 81 00
 
 contacto@its.jnj.com
 
@@ -9751,9 +9753,11 @@ Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1 janssenita@its.jnj.com
 
 Βαρνάβας Χατζηπαναγής Λτδ Τηλ: +357 22 207 700
 
-## Latvija
+## Malta
 
-UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā Tel: +371 678 93561 lv@its.jnj.com
+AM MANGION LTD
+
+Tel: +356 2397 6000
 
 ## Nederland
 
@@ -9765,9 +9769,7 @@ Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
 
 ## Österreich
 
-Janssen-Cilag Pharma GmbH
-
-Tel: +43 1 610 300
+Janssen-Cilag Pharma GmbH Tel: +43 1 610 300
 
 ## Polska
 
@@ -9798,6 +9800,14 @@ Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
 Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
+
+## Latvija
+
+UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
+
+Tel: +371 678 93561
+
+lv@its.jnj.com
 
 ## This leaflet was last revised in
 
@@ -10616,9 +10626,9 @@ Do not throw away (dispose of) your pre-filled syringe in your household waste.
 
 Do not recycle your used sharps disposal container.
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 ## Tremfya 200 mg solution for injection in pre-filled pen
 
@@ -10872,11 +10882,15 @@ Janssen Biologics B.V. Einsteinweg 101 2333CB Leiden
 
 ## The Netherlands
 
+Janssen Pharmaceutica NV Turnhoutseweg 30 B-2340 Beerse Belgium
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tel/Tél: +32 14 64 94 11
+
+janssen@jacbe.jnj.com
 
 ## България
 
@@ -10916,10 +10930,6 @@ contacto@its.jnj.com
 
 Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
 
-## Hrvatska
-
-Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
-
 ## Lietuva
 
 UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
@@ -10948,11 +10958,15 @@ Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
 
 ## Österreich
 
-Janssen-Cilag Pharma GmbH Tel: +43 1 610 300
+Janssen-Cilag Pharma GmbH
+
+Tel: +43 1 610 300
 
 ## Polska
 
-Janssen-Cilag Polska Sp. z o.o. Tel.: +48 22 237 60 00
+Janssen-Cilag Polska Sp. z o.o.
+
+Tel.: +48 22 237 60 00
 
 ## Portugal
 
@@ -10960,13 +10974,15 @@ Janssen-Cilag Farmacêutica, Lda.
 
 Tel: +351 214 368 600
 
-## România
-
-Johnson &amp; Johnson România SRL
-
-Tel: +40 21 207 1800
-
 <div style=\"page-break-after: always\"></div>
+
+## Hrvatska
+
+Johnson &amp; Johnson S.E. d.o.o.
+
+Tel: +385 1 6610 700
+
+jjsafety@JNJCR.JNJ.com
 
 ## Ireland
 
@@ -11009,6 +11025,12 @@ lv@its.jnj.com
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## România
+
+Johnson &amp; Johnson România SRL
+
+Tel: +40 21 207 1800
 
 ## Slovenija
 

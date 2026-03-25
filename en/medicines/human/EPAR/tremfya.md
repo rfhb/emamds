@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-12 12:00:00
+document_datetime: 2026-03-23 16:12:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tremfya.html
 document_name: tremfya.html
 version: success
-processing_time: 0.133113
-conversion_datetime: 2026-01-14 08:27:31.01771
+processing_time: 0.1279891
+conversion_datetime: 2026-03-25 12:27:53.434162
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.0
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Tremfya
 
 [RSS](/en/individual-human-medicine.xml/65484)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-guselkumab Medicine Human Authorised
+guselkumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -143,275 +145,141 @@ Tremfya : EPAR - Medicine overview
 
 English (EN) (153.21 KB - PDF)
 
-**First published:** 30/11/2017
-
-**Last updated:** 12/01/2026
+**First published:** 30/11/2017 **Last updated:** 12/01/2026
 
 [View](/en/documents/overview/tremfya-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-517)
+[Other languages (22)](#file-language-dropdown-850)
 
 български (BG) (179.17 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-12/01/2026
+**First published:** 30/11/2017 **Last updated:** 12/01/2026
 
 [View](/bg/documents/overview/tremfya-epar-medicine-overview_bg.pdf)
 
 español (ES) (158.53 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-12/01/2026
+**First published:** 30/11/2017 **Last updated:** 12/01/2026
 
 [View](/es/documents/overview/tremfya-epar-medicine-overview_es.pdf)
 
 čeština (CS) (187.29 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-12/01/2026
+**First published:** 30/11/2017 **Last updated:** 12/01/2026
 
 [View](/cs/documents/overview/tremfya-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (159.59 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-12/01/2026
+**First published:** 30/11/2017 **Last updated:** 12/01/2026
 
 [View](/da/documents/overview/tremfya-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (166.92 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-12/01/2026
+**First published:** 30/11/2017 **Last updated:** 12/01/2026
 
 [View](/de/documents/overview/tremfya-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (153.73 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-12/01/2026
+**First published:** 30/11/2017 **Last updated:** 12/01/2026
 
 [View](/et/documents/overview/tremfya-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (189.75 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-12/01/2026
+**First published:** 30/11/2017 **Last updated:** 12/01/2026
 
 [View](/el/documents/overview/tremfya-epar-medicine-overview_el.pdf)
 
 français (FR) (161.09 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-12/01/2026
+**First published:** 30/11/2017 **Last updated:** 12/01/2026
 
 [View](/fr/documents/overview/tremfya-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (184.83 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-12/01/2026
+**First published:** 30/11/2017 **Last updated:** 12/01/2026
 
 [View](/hr/documents/overview/tremfya-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (157.86 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-12/01/2026
+**First published:** 30/11/2017 **Last updated:** 12/01/2026
 
 [View](/it/documents/overview/tremfya-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (190.75 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-12/01/2026
+**First published:** 30/11/2017 **Last updated:** 12/01/2026
 
 [View](/lv/documents/overview/tremfya-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (186.47 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-12/01/2026
+**First published:** 30/11/2017 **Last updated:** 12/01/2026
 
 [View](/lt/documents/overview/tremfya-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (186.53 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-12/01/2026
+**First published:** 30/11/2017 **Last updated:** 12/01/2026
 
 [View](/hu/documents/overview/tremfya-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (191.22 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-12/01/2026
+**First published:** 30/11/2017 **Last updated:** 12/01/2026
 
 [View](/mt/documents/overview/tremfya-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (163.15 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-12/01/2026
+**First published:** 30/11/2017 **Last updated:** 12/01/2026
 
 [View](/nl/documents/overview/tremfya-epar-medicine-overview_nl.pdf)
 
 polski (PL) (188.06 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-12/01/2026
+**First published:** 30/11/2017 **Last updated:** 12/01/2026
 
 [View](/pl/documents/overview/tremfya-epar-medicine-overview_pl.pdf)
 
 português (PT) (159.73 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-12/01/2026
+**First published:** 30/11/2017 **Last updated:** 12/01/2026
 
 [View](/pt/documents/overview/tremfya-epar-medicine-overview_pt.pdf)
 
 română (RO) (181.2 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-12/01/2026
+**First published:** 30/11/2017 **Last updated:** 12/01/2026
 
 [View](/ro/documents/overview/tremfya-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (185.7 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-12/01/2026
+**First published:** 30/11/2017 **Last updated:** 12/01/2026
 
 [View](/sk/documents/overview/tremfya-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (185.14 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-12/01/2026
+**First published:** 30/11/2017 **Last updated:** 12/01/2026
 
 [View](/sl/documents/overview/tremfya-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (155.05 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-12/01/2026
+**First published:** 30/11/2017 **Last updated:** 12/01/2026
 
 [View](/fi/documents/overview/tremfya-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (156.75 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-12/01/2026
+**First published:** 30/11/2017 **Last updated:** 12/01/2026
 
 [View](/sv/documents/overview/tremfya-epar-medicine-overview_sv.pdf)
 
@@ -419,9 +287,7 @@ Tremfya : EPAR - Risk management plan
 
 English (EN) (1.23 MB - PDF)
 
-**First published:** 22/01/2021
-
-**Last updated:** 19/12/2025
+**First published:** 22/01/2021 **Last updated:** 19/12/2025
 
 [View](/en/documents/rmp/tremfya-epar-risk-management-plan_en.pdf)
 
@@ -429,305 +295,161 @@ English (EN) (1.23 MB - PDF)
 
 Tremfya : EPAR - Product Information
 
-English (EN) (11.57 MB - PDF)
+English (EN) (11.66 MB - PDF)
 
-**First published:** 30/11/2017
-
-**Last updated:** 19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/en/documents/product-information/tremfya-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-383)
+[Other languages (24)](#file-language-dropdown-702)
 
 български (BG) (10.91 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/bg/documents/product-information/tremfya-epar-product-information_bg.pdf)
 
 español (ES) (11.34 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/es/documents/product-information/tremfya-epar-product-information_es.pdf)
 
 čeština (CS) (12.42 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/cs/documents/product-information/tremfya-epar-product-information_cs.pdf)
 
 dansk (DA) (10.75 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/da/documents/product-information/tremfya-epar-product-information_da.pdf)
 
 Deutsch (DE) (10.68 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/de/documents/product-information/tremfya-epar-product-information_de.pdf)
 
 eesti keel (ET) (11.02 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/et/documents/product-information/tremfya-epar-product-information_et.pdf)
 
 ελληνικά (EL) (10.96 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/el/documents/product-information/tremfya-epar-product-information_el.pdf)
 
-français (FR) (12.23 MB - PDF)
+français (FR) (12.27 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/fr/documents/product-information/tremfya-epar-product-information_fr.pdf)
 
 hrvatski (HR) (10.99 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/hr/documents/product-information/tremfya-epar-product-information_hr.pdf)
 
-íslenska (IS) (11.26 MB - PDF)
+íslenska (IS) (11.34 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/is/documents/product-information/tremfya-epar-product-information_is.pdf)
 
-italiano (IT) (11.49 MB - PDF)
+italiano (IT) (11.59 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/it/documents/product-information/tremfya-epar-product-information_it.pdf)
 
 latviešu valoda (LV) (13.6 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/lv/documents/product-information/tremfya-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (11.56 MB - PDF)
+lietuvių kalba (LT) (11.59 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/lt/documents/product-information/tremfya-epar-product-information_lt.pdf)
 
 magyar (HU) (10.25 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/hu/documents/product-information/tremfya-epar-product-information_hu.pdf)
 
 Malti (MT) (12.56 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/mt/documents/product-information/tremfya-epar-product-information_mt.pdf)
 
 Nederlands (NL) (10.91 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/nl/documents/product-information/tremfya-epar-product-information_nl.pdf)
 
-norsk (NO) (11.95 MB - PDF)
+norsk (NO) (12.05 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/no/documents/product-information/tremfya-epar-product-information_no.pdf)
 
 polski (PL) (10.68 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/pl/documents/product-information/tremfya-epar-product-information_pl.pdf)
 
-português (PT) (11.43 MB - PDF)
+português (PT) (11.52 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/pt/documents/product-information/tremfya-epar-product-information_pt.pdf)
 
 română (RO) (11.59 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/ro/documents/product-information/tremfya-epar-product-information_ro.pdf)
 
 slovenčina (SK) (10.51 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/sk/documents/product-information/tremfya-epar-product-information_sk.pdf)
 
-slovenščina (SL) (12.68 MB - PDF)
+slovenščina (SL) (12.7 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/sl/documents/product-information/tremfya-epar-product-information_sl.pdf)
 
 Suomi (FI) (11.39 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/fi/documents/product-information/tremfya-epar-product-information_fi.pdf)
 
 svenska (SV) (10.53 MB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 23/03/2026
 
 [View](/sv/documents/product-information/tremfya-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** X/0000248626 18/12/2025
+**Latest procedure affecting product information:** VR/0000321306
+
+23/03/2026
 
 icon globe
 
@@ -747,311 +469,175 @@ Tremfya : EPAR - All Authorised presentations
 
 English (EN) (37.38 KB - PDF)
 
-**First published:** 30/11/2017
-
-**Last updated:** 19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/en/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-54)
+[Other languages (24)](#file-language-dropdown-626)
 
 български (BG) (31.8 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/bg/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (44.37 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/es/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (30.91 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/cs/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (56.38 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/da/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (32.24 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/de/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (27.35 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/et/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (40.55 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/el/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (37.32 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/fr/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (35.3 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/hr/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (29.52 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/is/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (27.69 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/it/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (29.99 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/lv/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (30.42 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/lt/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (29.81 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/hu/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (40.55 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/mt/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (28.79 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/nl/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (39.59 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/no/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (30.78 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/pl/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (29.23 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/pt/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (37.26 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/ro/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (30.38 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/sk/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (27.95 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/sl/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (28.64 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/fi/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (49.72 KB - PDF)
 
-**First published:**
-
-30/11/2017
-
-**Last updated:**
-
-19/12/2025
+**First published:** 30/11/2017 **Last updated:** 19/12/2025
 
 [View](/sv/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Tremfya Active substance Guselkumab International non-proprietary name (INN) or common name guselkumab Therapeutic area (MeSH)
+Name of medicine
+
+Tremfya
+
+International non-proprietary name (INN) or common name
+
+guselkumab
+
+Therapeutic area (MeSH)
 
 - Psoriasis
 - Crohn Disease
 - Colitis, Ulcerative
 
-Anatomical therapeutic chemical (ATC) code L04AC
+Anatomical therapeutic chemical (ATC) code
+
+L04AC
 
 ### Pharmacotherapeutic group
 
@@ -1067,13 +653,27 @@ Psoriatic arthritis Tremfya, alone or in combination with methotrexate (MTX), is
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004271 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/004271
+
+Marketing authorisation holder
 
 Janssen-Cilag International NV
 
 Turnhoutseweg 30
 
-Opinion adopted 14/09/2017 Marketing authorisation issued 10/11/2017 Revision 15
+Opinion adopted
+
+14/09/2017
+
+Marketing authorisation issued
+
+10/11/2017
+
+Revision
+
+16
 
 ## Assessment history
 
@@ -1085,11 +685,9 @@ Collapse section
 
 Tremfya : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (149.78 KB - PDF)
+English (EN) (183.63 KB - PDF)
 
-**First published:** 08/09/2025
-
-**Last updated:** 19/12/2025
+**First published:** 08/09/2025 **Last updated:** 23/03/2026
 
 [View](/en/documents/procedural-steps-after/tremfya-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1097,9 +695,7 @@ Tremfya : EPAR - Procedural steps taken and scientific information after the aut
 
 English (EN) (218.49 KB - PDF)
 
-**First published:** 23/10/2018
-
-**Last updated:** 08/09/2025
+**First published:** 23/10/2018 **Last updated:** 08/09/2025
 
 [View](/en/documents/procedural-steps-after/tremfya-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1115,9 +711,7 @@ English (EN) (147.12 KB - PDF)
 
 Tremfya-X-0000248626 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2583818
+Adopted Reference Number: EMADOC-1700519818-2583818
 
 English (EN) (3.7 MB - PDF)
 
@@ -1127,9 +721,7 @@ English (EN) (3.7 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Tremfya (EMAX0000248626)
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2494685
+Adopted Reference Number: EMADOC-1700519818-2494685
 
 English (EN) (137.45 KB - PDF)
 
@@ -1149,23 +741,17 @@ English (EN) (11.15 MB - PDF)
 
 Tremfya-H-C-004271-X-0043-G : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/95032/2025
+Adopted Reference Number: EMA/95032/2025
 
 English (EN) (7.43 MB - PDF)
 
-**First published:** 08/05/2025
-
-**Last updated:** 14/07/2025
+**First published:** 08/05/2025 **Last updated:** 14/07/2025
 
 [View](/en/documents/variation-report/tremfya-h-c-004271-x-0043-g-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Tremfya (X-43-G)
 
-Adopted
-
-Reference Number: EMA/CHMP/54843/2025
+Adopted Reference Number: EMA/CHMP/54843/2025
 
 English (EN) (132.85 KB - PDF)
 
@@ -1175,9 +761,7 @@ English (EN) (132.85 KB - PDF)
 
 Tremfya-H-C-4271-II-17 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/600660/2020
+Adopted Reference Number: EMA/600660/2020
 
 English (EN) (7.15 MB - PDF)
 
@@ -1187,9 +771,7 @@ English (EN) (7.15 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Tremfya (II-17)
 
-Adopted
-
-Reference Number: EMA/CHMP/535466/2020
+Adopted Reference Number: EMA/CHMP/535466/2020
 
 English (EN) (122.88 KB - PDF)
 
@@ -1201,45 +783,47 @@ English (EN) (122.88 KB - PDF)
 
 Tremfya : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/622081/2017
+Adopted Reference Number: EMA/622081/2017
 
 English (EN) (3.01 MB - PDF)
 
-**First published:** 30/11/2017
-
-**Last updated:** 30/11/2017
+**First published:** 30/11/2017 **Last updated:** 30/11/2017
 
 [View](/en/documents/assessment-report/tremfya-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Tremfya
 
-Adopted
-
-Reference Number: EMA/CHMP/556833/2017
+Adopted Reference Number: EMA/CHMP/556833/2017
 
 English (EN) (78.82 KB - PDF)
 
-**First published:** 15/09/2017
-
-**Last updated:** 15/09/2017
+**First published:** 15/09/2017 **Last updated:** 15/09/2017
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-tremfya_en.pdf)
 
-#### News on Tremfya
+## News on Tremfya
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 October 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-october-2025) 17/10/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 October 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-october-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 March 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-march-2025) 28/03/2025
+17/10/2025
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 February 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-february-2025) 28/02/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 March 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-march-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 October 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2020) 16/10/2020
+28/03/2025
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11 to 14 September 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-september-2017) 15/09/2017
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 February 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-february-2025)
 
-#### More information on Tremfya
+28/02/2025
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 October 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2020)
+
+16/10/2020
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11 to 14 September 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-september-2017)
+
+15/09/2017
+
+## More information on Tremfya
 
 - [EMEA-001523-PIP02-14-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001523-pip02-14-m03)
 - [EMEA-001523-PIP03-18-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001523-pip03-18-m03)
@@ -1248,12 +832,12 @@ English (EN) (78.82 KB - PDF)
 - [A Retrospective Cohort Study Using Health Administrative Claims Databases to Assess Adverse Pregnancy and Infant Outcomes in Women with Psoriasis Who Were Exposed to Guselkumab Versus Other Biologic Therapies During Pregnancy. PASS-EMA - post-authorisation study](https://catalogues.ema.europa.eu/study/103402)
 - [Shortening the time to confirm or to rebut Adverse events of interest related to innovative Therapies for immune-mediated inflammATory dIseases: cross-talking between different data sOURces. SATURATIOn study. - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000207)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 12/01/2026
+**This page was last updated on**
+
+23/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

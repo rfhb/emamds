@@ -1,26 +1,28 @@
 ---
-document_datetime: 2025-05-20 14:20:18
-document_pages: 27
+document_datetime: 2026-03-24 11:31:33
+document_pages: 28
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/artesunate-amivas-epar-product-information_en.pdf
 document_name: artesunate-amivas-epar-product-information_en.pdf
 version: success
-processing_time: 5.1116966
-conversion_datetime: 2025-12-28 11:42:36.722719
+processing_time: 5.4824287
+conversion_datetime: 2026-03-25 12:37:26.31611
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.0
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
@@ -322,9 +324,9 @@ Studies in the literature indicate that artesunate oral administration in the ma
 
 ## 6.1 List of excipients
 
-Solvent:
+Solvent: Monosodium phosphate monohydrate Disodium phosphate dihydrate
 
-Monosodium phosphate monohydrate Disodium phosphate dihydrate Phosphoric acid, concentrated (for pH adjustment)
+Phosphoric acid, concentrated (for pH adjustment)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -350,7 +352,7 @@ For storage conditions after reconstitution of the medicinal product, see sectio
 
 The powder is supplied in a Type I glass vial capped with a latex-free bromobutyl rubber stopper and aluminium seal, containing 110 mg of artesunate.
 
-The solvent is supplied in a Type I glass vial capped with a latex-free bromobutyl rubber stopper and aluminium seal, containing 12 mL of sterile 0.3 M sodium phosphate buffer for reconstitution.
+The solvent is supplied in a Type I glass vial capped with a latex-free bromobutyl or chlorobutyl rubber stopper and aluminium seal, containing 12 mL of sterile 0.3 M sodium phosphate buffer for reconstitution.
 
 Each pack contains 2 or 4 vials of artesunate powder and 2 or 4 vials of sodium phosphate buffer solvent.
 
@@ -374,7 +376,9 @@ Discard the vial and any unused portion of the medicinal product after use.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
+
+MARKETING AUTHORISATION HOLDER
 
 Amivas Ireland Ltd Suite 5, Second Floor Station House Railway Square Waterford Ireland
 
@@ -388,7 +392,7 @@ Date of first authorisation: 22/11/2021
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -778,9 +782,9 @@ If you experience any of the following side effects seek medical help immediatel
 
 - -difficulty breathing or swallowing, swelling of your face, mouth or throat. These are signs you may be having a severe allergic reaction. The frequency of very severe allergic reactions leading to loss of consciousness is unknown.
 
-## Very common side effects (may affect more than 1 in 10 people)
+## Very common side effects (may affect more than 1 in 10 people) a lack of healthy red blood cells, which can make you feel tired and weak (anaemia); this can develop
 
-a lack of healthy red blood cells, which can make you feel tired and weak (anaemia); this can develop at least 7 days or sometimes several weeks after treatment has finished.
+at least 7 days or sometimes several weeks after treatment has finished.
 
 ## Common side effects (may affect up to 1 in 10 people)
 
@@ -869,7 +873,7 @@ MIAS Pharma Limited, Suite 1, Stafford House, Strand Road, Portmarnock, Co. Dubl
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 &lt;------------------------------------------------------------------------------------------------------------------------&gt;
 
@@ -895,4 +899,10 @@ Artesunate Amivas also contains 193 mg sodium per the recommended single dose in
 
 ## Storage of reconstituted Artesunate Amivas solution
 
-Once reconstituted, the Artesunate Amivas solution should be administered within 1.5 hours of preparation. Discard any unusued solution in accordance with local guidelines.
+Once reconstituted, the Artesunate Amivas solution should be administered within 1.5 hours of preparation. Discard any unused solution in accordance with local guidelines.
+
+Please scan to see all other EU translations of this leaflet
+
+<div style=\"page-break-after: always\"></div>
+
+{QR code} to be included + https://www.ema.europa.eu/en/medicines/human/EPAR/artesunateamivas#product-info

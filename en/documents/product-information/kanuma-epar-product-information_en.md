@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 22:26:39
+document_datetime: 2026-03-24 15:05:34
 document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kanuma-epar-product-information_en.pdf
 document_name: kanuma-epar-product-information_en.pdf
 version: success
-processing_time: 8.9934083
-conversion_datetime: 2025-12-15 19:54:07.685598
+processing_time: 9.9871785
+conversion_datetime: 2026-03-25 12:28:18.075831
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.0
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -103,7 +103,7 @@ Administration of sebelipase alfa to infants with confirmed multiple-organ failu
 
 ## Method of administration
 
-## KANUMA is for intravenous (IV) use only.
+KANUMA is for intravenous (IV) use only.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -201,10 +201,6 @@ Table 1: Adverse reactions reported in infants receiving sebelipase alfa (N = 19
 | Skin and subcutaneous tissue disorders               | Rash Rash maculo-papular                                                                                                                                       | Very common |
 | General disorders and administration site conditions | Pyrexia Hyperthermia                                                                                                                                           | Very common |
 | Investigations                                       | Drug specific antibody present Body temperature increased Oxygen saturation decreased Blood pressure increased Heart rate increased Respiratory rate increased | Very common |
-
-a May include: irritability, agitation, vomiting, urticaria, eczema, pruritus, pallor, and drug hypersensitivity
-
-b Occurred in 3 infant patients treated in clinical studies. Based on Preferred Term 'anaphylactic reaction' and application of Sampson criteria to identify signs/symptoms consistent with anaphylaxis.
 
 Table 2: Adverse reactions reported in children and adults receiving sebelipase alfa (N = 106 patients)
 
@@ -511,10 +507,6 @@ Table 5: Recommended infusion volumes*
 | 50-99.9   |  100 |  250 |   500 |
 | 100-120.9 |  250 |  500 |   600 |
 
-* The infusion volume should be based on the prescribed dose and should be prepared to a final sebelipase alfa concentration of 0.1-1.5 mg/ml.
-
-** For patients with LAL Deficiency presenting within the first 6 months of life who do not achieve an optimal clinical response with a dose of 3 mg/kg.
-
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
@@ -535,7 +527,7 @@ Date of latest renewal: 23 April 2020
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu/.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu/.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -552,13 +544,9 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer of the biological active substance
+## Name and address of the manufacturer of the biological active substance
 
-Fujifilm Diosynth Biotechnologies USA Inc 6051 George Watts Hill Drive Research Triangle Park North Carolina NC 27709 UNITED STATES
-
-Alexion Pharma International Operations Limited (APIOL)
-
-Alexion Athlone Manufacturing Facility (AAMF) Monksland Industrial Estate Monksland Athlone Roscommon N37 DH79 IRELAND
+Alexion Pharma International Operations Limited (APIOL) Alexion Athlone Manufacturing Facility (AAMF) Monksland Industrial Estate Monksland Athlone Roscommon N37 DH79 IRELAND
 
 ## Name and address of the manufacturer responsible for batch release
 
@@ -576,15 +564,13 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## · Periodic safety update reports (PSURs)
 
-The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any
-
-<div style=\"page-break-after: always\"></div>
-
-subsequent updates published on the European medicines web-portal.
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+- Risk management plan (RMP)
+
+<div style=\"page-break-after: always\"></div>
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
@@ -610,18 +596,19 @@ The guide for healthcare professionals shall contain the following key elements:
 - -Information on how to manage patients experiencing severe hypersensitivity reactions including anaphylaxis.
 - -Details on how to monitor for potential ADA formation following initiation of treatment with Kanuma, particularly in patients on Kanuma who experience clinically important hypersensitivity reactions or potential loss of clinical response.
 - -Information to healthcare professionals that it is the responsibility of the MAH to provide the test for the monitoring of ADA positive patients including the modalities for requesting the test.
-
-<div style=\"page-break-after: always\"></div>
-
 - -Information on the ongoing LAL Deficiency Registry, including the importance of enrolling patients, also those not treated with Kanuma, and the modalities for participation.
 
 ## · Obligation to conduct post-authorisation measures
 
 The MAH shall complete, within the stated timeframe, the below measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Due date                                                                       |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| Non-interventional post-authorisation safety study (PASS): LAL Deficiency Registry: Non-interventional, multicentre, prospective disease and clinical outcome registry of patients with Lysosomal Acid Lipase Deficiency to further understand the disease, its progression and any associated complication, and to evaluate the long-term efficacy (normalisation of hepatic function) and safety of Kanuma (in particular hypersensitivity reactions, including anaphylaxis, and anti-drug antibodies development potentially impacting response to drug) according to agreed protocol. | Interim reports expected every 2 years Final study report expected in Jan 2027 |
+| Description   | Due date   |
+|---------------|------------|
+
+<div style=\"page-break-after: always\"></div>
+
+| Non-interventional post-authorisation safety study (PASS): LAL Deficiency Registry: Non-interventional, multicentre, prospective disease and clinical outcome registry of patients with Lysosomal Acid Lipase Deficiency to further understand the disease, its progression and any associated complication, and to evaluate the long-term efficacy (normalisation of hepatic function) and safety of Kanuma (in particular hypersensitivity reactions, including anaphylaxis, and anti-drug antibodies development potentially impacting response to drug) according to agreed protocol.   | Interim reports expected every 2 years Final study report expected in Jan 2027   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -727,24 +714,24 @@ Justification for not including Braille accepted
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC {number} SN {number} NN {number}
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| 10 ml VIAL                                                         |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| 10 ml VIAL                                                       |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 KANUMA 2 mg/ml sterile concentrate sebelipase alfa IV use after dilution
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 Read the package leaflet before use.
 
@@ -758,8 +745,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 20 mg/10 ml
 
@@ -813,14 +800,12 @@ This medicine is an enzyme replacement therapy. This means that it replaces the 
 
 ## Warnings and precautions
 
-- -If treated with KANUMA, you or your child may experience a side effect while you or your child is being given the medicine or during the hours following the infusion (see section 4). This is known as an infusion reaction which can sometimes be severe, and may include an
+Talk to your doctor or pharmacist or nurse before taking KANUMA.
 
 <div style=\"page-break-after: always\"></div>
 
-allergic reaction that could be life-threatening and require medical treatment. The first time that you or your child are given KANUMA you should be observed by a healthcare professional for 1 hour to watch for any signs of an infusion reaction. If you or your child experiences a severe infusion reaction like this, seek immediate medical attention . If you or your child has an infusion reaction you or your child may be given additional medicines to treat or help prevent future reactions. These medicines may include antihistamines, fever-reducing medicines and/or corticosteroids (a type of anti-inflammatory medicines).
-
-If the infusion reaction is severe, your doctor may stop KANUMA infusion and start giving you or your child appropriate medical treatment.
-
+- -If treated with KANUMA, you or your child may experience a side effect while you or your child is being given the medicine or during the hours following the infusion (see section 4). This is known as an infusion reaction which can sometimes be severe, and may include an allergic reaction that could be life-threatening and require medical treatment. The first time that you or your child are given KANUMA you should be observed by a healthcare professional for 1 hour to watch for any signs of an infusion reaction. If you or your child experiences a severe infusion reaction like this, seek immediate medical attention . If you or your child has an infusion reaction you or your child may be given additional medicines to treat or help prevent future reactions. These medicines may include antihistamines, fever-reducing medicines and/or corticosteroids (a type of anti-inflammatory medicines).
+- If the infusion reaction is severe, your doctor may stop KANUMA infusion and start giving you or your child appropriate medical treatment.
 - -The development of blood proteins against KANUMA, also called anti-drug antibodies, may occur during the treatment. Talk to your doctor if you experience decreased efficacy with KANUMA
 - -This medicine may contain egg proteins. If you or your child has an egg allergy or a history of allergies to eggs, tell your doctor or nurse (see You must not be given KANUMA ).
 
@@ -848,17 +833,19 @@ This medicine, when diluted with sodium chloride 9 mg/mL (0.9%) solution for inf
 
 ## 3. How KANUMA is given
 
+Always use KANUMA exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
+
 The dose you or your child receives is based on your or your child's body weight.
 
 ## Infants (&lt; 6 months of age)
+
+<div style=\"page-break-after: always\"></div>
 
 For patients who have signs and symptoms of the disease when they are infants, the recommended starting dose is 1 mg/kg or 3 mg/kg once weekly. Dose adjustments may be considered based on how well your child responds to treatment.
 
 ## Children and adults
 
 The recommended dose is 1 mg per kg body weight once every other week through a drip into a vein. Dose adjustments may be considered based on how well you or your child responds to treatment.
-
-<div style=\"page-break-after: always\"></div>
 
 Each infusion will take approximately 1 to 2 hours. You or your child may be monitored by your doctor or nurse for an additional hour after the infusion. KANUMA should be started at as young an age as possible and is intended for long-term use.
 
@@ -890,15 +877,19 @@ Decreased oxygen in the blood, blood pressure increased, rapid breathing, develo
 
 ## Very Common (may affect 1 in 10 people or more) side effects reported in children and adolescents (4 to 18 years old) and adults are:
 
-Hypersensitivity (chills, eczema, laryngeal oedema, nausea, pruritus and urticaria) Dizziness Stomach ache, diarrhoea Tiredness, fever
+Hypersensitivity (chills, eczema, laryngeal oedema, nausea, pruritus and urticaria)
+
+Dizziness Stomach ache, diarrhoea Tiredness, fever
 
 ## Common (may affect up to 1 in 10 people) side effects reported in children and adolescents (4 to 18 years old) and adults are:
 
-Severe allergic reaction (anaphylactic reaction), Fast heartbeat Skin redness, low blood pressure Shortness in breath Stomach bloating Rash, red swollen skin Chest discomfort, reaction at the infusion site
-
-Frequency, type and severity of adverse reactions in children are similar to those in adults.
+Severe allergic reaction (anaphylactic reaction), Fast heartbeat
 
 <div style=\"page-break-after: always\"></div>
+
+Skin redness, low blood pressure Shortness in breath Stomach bloating Rash, red swollen skin Chest discomfort, reaction at the infusion site
+
+Frequency, type and severity of adverse reactions in children are similar to those in adults.
 
 ## Reporting of side effects
 
@@ -931,15 +922,15 @@ Pack size: 1 vial containing 10 ml of concentrate.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Marketing Authorisation Holder Alexion Europe SAS 103-105 rue Anatole France 92300 Levallois-Perret France
+Marketing Authorisation Holder Alexion Europe SAS 103-105 rue Anatole France 92300 Levallois-Perret
 
-Manufacturer: Almac Pharma Services Seagoe Industrial Estate Craigavon BT63 5UA United Kingdom
-
-Alexion Pharma International Operations Limited College Business and Technology Park Blanchardstown Road North
+France Manufacturer:
 
 <div style=\"page-break-after: always\"></div>
 
-Dublin 15 D15 R925 Ireland
+Almac Pharma Services Seagoe Industrial Estate Craigavon BT63 5UA United Kingdom
+
+Alexion Pharma International Operations Limited College Business and Technology Park Blanchardstown Road North Dublin 15 D15 R925 Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -965,7 +956,9 @@ Alexion Pharma Germany GmbH Tel: +49 (0) 89 45 70 91 300
 
 ## Eesti
 
-AstraZeneca Tel: +372 6549 600
+AstraZeneca
+
+Tel: +372 6549 600
 
 ## Ελλάδα
 
@@ -973,7 +966,7 @@ AstraZeneca A.E. Τηλ: +30 210 6871500
 
 ## España
 
-Alexion Pharma Spain, S.L. Tel: +34 93 272 30 05
+Alexion Pharma Spain, S.L.U. Tel: +34 93 272 30 05
 
 ## France
 
@@ -981,15 +974,9 @@ Alexion Pharma France SAS Tél: +33 1 47 32 36 21
 
 ## Hrvatska
 
-AstraZeneca d.o.o. Tel: +385 1 4628 000
+AstraZeneca d.o.o.
 
-## Ireland
-
-Alexion Europe SAS Tel: +353 1 800 882 840
-
-## Ísland
-
-Alexion Pharma Nordics AB Sími: +46 0 8 557 727 50
+Tel: +385 1 4628 000
 
 ## Lietuva
 
@@ -1005,7 +992,7 @@ AstraZeneca Kft. Tel.: +36 1 883 6500
 
 ## Malta
 
-Alexion Europe SAS Tel: +353 1 800 882 840
+Associated Drug Co. Ltd Tel: +356 2277 8000
 
 ## Nederland
 
@@ -1025,21 +1012,39 @@ AstraZeneca Pharma Poland Sp. z o.o. Tel.: +48 22 245 73 00
 
 ## Portugal
 
-Alexion Pharma Spain, S.L. - Sucursal em Portugal Tel: +34 93 272 30 05
+Alexion Pharma Spain, S.L. - Sucursal em Portugal
+
+Tel: +34 93 272 30 05
 
 ## România
 
-AstraZeneca Pharma SRL Tel: +40 21 317 60 41
+AstraZeneca Pharma SRL
+
+Tel: +40 21 317 60 41
+
+## Ireland
+
+Alexion Europe SAS
+
+Tel: 1 800 882 840
 
 ## Slovenija
 
-AstraZeneca UK Limited Tel: +386 1 51 35 600
+AstraZeneca UK Limited
+
+Tel: +386 1 51 35 600
+
+## Ísland
+
+Alexion Pharma Nordics AB
+
+Sími: +46 0 8 557 727 50
 
 ## Slovenská republika
 
-AstraZeneca AB, o.z. Tel: +421 2 5737 7777
+AstraZeneca AB, o.z.
 
-<div style=\"page-break-after: always\"></div>
+Tel: +421 2 5737 7777
 
 ## Italia
 
@@ -1047,11 +1052,23 @@ Alexion Pharma Italy srl
 
 Tel: +39 02 7767 9211
 
+## Suomi/Finland
+
+Alexion Pharma Nordics AB
+
+Puh/Tel: +46 0 8 557 727 50
+
 ## Κύπρος
 
 Alexion Europe SAS
 
 Τηλ: +357 22490305
+
+## Sverige
+
+Alexion Pharma Nordics AB
+
+Tel: +46 0 8 557 727 50
 
 ## Latvija
 
@@ -1059,13 +1076,13 @@ SIA AstraZeneca Latvija
 
 Tel: +371 67377100
 
+<div style=\"page-break-after: always\"></div>
+
 ## This leaflet was last revised in .
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site:
-
-http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -1083,45 +1100,25 @@ KANUMA should be prepared and used according to the following steps. Aseptic tec
 
 - a. The number of vials to be diluted for infusion should be determined based on the patient's weight and prescribed dose.
 - b. It is recommended to allow KANUMA vials to reach a temperature between 15 °C and 25 °C prior to dilution to minimise the potential for the formation of sebelipase alfa protein particles in solution. The vials should not be left outside the refrigerator longer than 24 hours prior to dilution for infusion. The vials should not be frozen, heated or microwaved and should be protected from light.
-- c. The vials should not be shaken. Prior to dilution, the concentrate in the vials should be inspected visually; the concentrate should be clear to slightly opalescent, colourless to slightly coloured (yellow). Due to the proteinaceous nature of the medicinal product, slight flocculation (e.g., thin translucent fibres) may be present in the vial concentrate and is acceptable for use.
-- d. Do not use if the concentrate is cloudy, or if foreign particulate matter is present.
-- e. Up to 10 ml of concentrate should be slowly withdrawn from each vial and diluted with sodium chloride 9 mg/ml (0.9%) solution for infusion. See Table 1 for recommended total infusion volumes by weight range.  The solution should be mixed gently, and not be shaken.
-
-## Table 1: Recommended infusion volumes*
-
-## Suomi/Finland
-
-Alexion Pharma Nordics AB
-
-Puh/Tel: +46 0 8 557 727 50
-
-## Sverige
-
-Alexion Pharma Nordics AB
-
-Tel: +46 0 8 557 727 50
-
-United Kingdom (Northern Ireland)
-
-Alexion Europe SAS
-
-Tel: +44 (0) 800 028 4394
+- c. The vials should not be shaken. Prior to dilution, the concentrate in the vials should be inspected visually; the concentrate should be clear to slightly opalescent, colourless to slightly
 
 <div style=\"page-break-after: always\"></div>
 
-|                   | 1 mg/kg dose Total infusion   | 3 mg/kg dose Infusion Volume   | 5 mg/kg dose** Infusion   |
-|-------------------|-------------------------------|--------------------------------|---------------------------|
-| Weight range (kg) | volume (ml)                   | Total (mL)                     | Total Volume (mL)         |
-| 1-2.9             | 4                             | 8                              | 12                        |
-| 3-5.9             | 6                             | 12                             | 20                        |
-| 6-10.9            | 10                            | 25                             | 50                        |
-| 11-24.9           | 25                            | 50                             | 150                       |
-| 25-49.9           | 50                            | 100                            | 250                       |
-| 50-99.9           | 100                           | 250                            | 500                       |
-| 100-120.9         | 250                           | 500                            | 600                       |
+- coloured (yellow). Due to the proteinaceous nature of the medicinal product, slight flocculation (e.g., thin translucent fibres) may be present in the vial concentrate and is acceptable for use.
+- d. Do not use if the concentrate is cloudy, or if foreign particulate matter is present.
+- e. Up to 10 ml of concentrate should be slowly withdrawn from each vial and diluted with sodium chloride 9 mg/ml (0.9%) solution for infusion. See Table 1 for recommended total infusion volumes by weight range.  The solution should be mixed gently, and not be shaken.
 
-* The infusion volume should be based on the prescribed dose and should be prepared to a final sebelipase alfa concentration of 0.1-1.5 mg/ml.
+Table 1: Recommended infusion volumes*
 
-** For patients with LAL Deficiency presenting within the first 6 months of life who do not achieve an optimal clinical response with a dose of 3 mg/kg.
+|                   | 1 mg/kg dose Total infusion   | 3 mg/kg dose Infusion Volume   | 5 mg/kg dose** Total Infusion   |
+|-------------------|-------------------------------|--------------------------------|---------------------------------|
+| Weight range (kg) | volume (ml)                   | Total (mL)                     | Volume (mL)                     |
+| 1-2.9             | 4                             | 8                              | 12                              |
+| 3-5.9             | 6                             | 12                             | 20                              |
+| 6-10.9            | 10                            | 25                             | 50                              |
+| 11-24.9           | 25                            | 50                             | 150                             |
+| 25-49.9           | 50                            | 100                            | 250                             |
+| 50-99.9           | 100                           | 250                            | 500                             |
+| 100-120.9         | 250                           | 500                            | 600                             |
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

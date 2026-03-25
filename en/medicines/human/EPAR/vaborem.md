@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-03-18 12:22:00
+document_datetime: 2026-03-23 16:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vaborem.html
 document_name: vaborem.html
 version: success
-processing_time: 0.0801846
-conversion_datetime: 2026-03-21 11:41:09.641429
+processing_time: 0.0827522
+conversion_datetime: 2026-03-25 12:22:14.034362
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.81.0
+  docling-serve: 1.15.0
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
   docling-core: 2.70.2
   docling-ibm-models: 3.12.0
-  docling-parse: 5.6.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-meropenem / vaborbactam Medicine Human Authorised
+meropenem / vaborbactam
+
+Medicine Human Authorised
 
 Page contents
 
@@ -109,173 +111,131 @@ English (EN) (75.82 KB - PDF)
 
 [View](/en/documents/overview/vabomere-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-454)
+[Other languages (21)](#file-language-dropdown-552)
 
 български (BG) (101.73 KB - PDF)
 
-**First published:**
-
-18/12/2018
+**First published:** 18/12/2018
 
 [View](/bg/documents/overview/vabomere-epar-medicine-overview_bg.pdf)
 
 español (ES) (74.47 KB - PDF)
 
-**First published:**
-
-18/12/2018
+**First published:** 18/12/2018
 
 [View](/es/documents/overview/vabomere-epar-medicine-overview_es.pdf)
 
 čeština (CS) (98.19 KB - PDF)
 
-**First published:**
-
-18/12/2018
+**First published:** 18/12/2018
 
 [View](/cs/documents/overview/vabomere-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (73.37 KB - PDF)
 
-**First published:**
-
-18/12/2018
+**First published:** 18/12/2018
 
 [View](/da/documents/overview/vabomere-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (75.2 KB - PDF)
 
-**First published:**
-
-18/12/2018
+**First published:** 18/12/2018
 
 [View](/de/documents/overview/vabomere-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (73.11 KB - PDF)
 
-**First published:**
-
-18/12/2018
+**First published:** 18/12/2018
 
 [View](/et/documents/overview/vabomere-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (109.73 KB - PDF)
 
-**First published:**
-
-18/12/2018
+**First published:** 18/12/2018
 
 [View](/el/documents/overview/vabomere-epar-medicine-overview_el.pdf)
 
 français (FR) (30.75 KB - PDF)
 
-**First published:**
-
-18/12/2018
+**First published:** 18/12/2018
 
 [View](/fr/documents/overview/vabomere-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (95.46 KB - PDF)
 
-**First published:**
-
-18/12/2018
+**First published:** 18/12/2018
 
 [View](/hr/documents/overview/vabomere-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (74 KB - PDF)
 
-**First published:**
-
-18/12/2018
+**First published:** 18/12/2018
 
 [View](/it/documents/overview/vabomere-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (104.97 KB - PDF)
 
-**First published:**
-
-18/12/2018
+**First published:** 18/12/2018
 
 [View](/lv/documents/overview/vabomere-epar-medicine-overview_lv.pdf)
 
 magyar (HU) (94.06 KB - PDF)
 
-**First published:**
-
-18/12/2018
+**First published:** 18/12/2018
 
 [View](/hu/documents/overview/vabomere-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (98.97 KB - PDF)
 
-**First published:**
-
-18/12/2018
+**First published:** 18/12/2018
 
 [View](/mt/documents/overview/vabomere-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (73.85 KB - PDF)
 
-**First published:**
-
-18/12/2018
+**First published:** 18/12/2018
 
 [View](/nl/documents/overview/vabomere-epar-medicine-overview_nl.pdf)
 
 polski (PL) (98.73 KB - PDF)
 
-**First published:**
-
-18/12/2018
+**First published:** 18/12/2018
 
 [View](/pl/documents/overview/vabomere-epar-medicine-overview_pl.pdf)
 
 português (PT) (74.47 KB - PDF)
 
-**First published:**
-
-18/12/2018
+**First published:** 18/12/2018
 
 [View](/pt/documents/overview/vabomere-epar-medicine-overview_pt.pdf)
 
 română (RO) (96.61 KB - PDF)
 
-**First published:**
-
-18/12/2018
+**First published:** 18/12/2018
 
 [View](/ro/documents/overview/vabomere-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (97.93 KB - PDF)
 
-**First published:**
-
-18/12/2018
+**First published:** 18/12/2018
 
 [View](/sk/documents/overview/vabomere-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (91.07 KB - PDF)
 
-**First published:**
-
-18/12/2018
+**First published:** 18/12/2018
 
 [View](/sl/documents/overview/vabomere-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (73.55 KB - PDF)
 
-**First published:**
-
-18/12/2018
+**First published:** 18/12/2018
 
 [View](/fi/documents/overview/vabomere-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (73.98 KB - PDF)
 
-**First published:**
-
-18/12/2018
+**First published:** 18/12/2018
 
 [View](/sv/documents/overview/vabomere-epar-medicine-overview_sv.pdf)
 
@@ -291,305 +251,161 @@ English (EN) (70.58 KB - PDF)
 
 Vaborem : EPAR - Product information
 
-English (EN) (340.27 KB - PDF)
+English (EN) (397.44 KB - PDF)
 
-**First published:** 18/12/2018
-
-**Last updated:** 16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/en/documents/product-information/vaborem-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-376)
+[Other languages (24)](#file-language-dropdown-614)
 
-български (BG) (393.36 KB - PDF)
+български (BG) (403.83 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/bg/documents/product-information/vaborem-epar-product-information_bg.pdf)
 
-español (ES) (399.08 KB - PDF)
+español (ES) (393.72 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/es/documents/product-information/vaborem-epar-product-information_es.pdf)
 
-čeština (CS) (475.38 KB - PDF)
+čeština (CS) (474.08 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/cs/documents/product-information/vaborem-epar-product-information_cs.pdf)
 
-dansk (DA) (387.75 KB - PDF)
+dansk (DA) (346.28 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/da/documents/product-information/vaborem-epar-product-information_da.pdf)
 
-Deutsch (DE) (229.39 KB - PDF)
+Deutsch (DE) (318.72 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/de/documents/product-information/vaborem-epar-product-information_de.pdf)
 
-eesti keel (ET) (516.44 KB - PDF)
+eesti keel (ET) (565.57 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/et/documents/product-information/vaborem-epar-product-information_et.pdf)
 
-ελληνικά (EL) (449.83 KB - PDF)
+ελληνικά (EL) (451.36 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/el/documents/product-information/vaborem-epar-product-information_el.pdf)
 
-français (FR) (395.18 KB - PDF)
+français (FR) (331.12 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/fr/documents/product-information/vaborem-epar-product-information_fr.pdf)
 
-hrvatski (HR) (483.64 KB - PDF)
+hrvatski (HR) (461.83 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/hr/documents/product-information/vaborem-epar-product-information_hr.pdf)
 
-íslenska (IS) (407.57 KB - PDF)
+íslenska (IS) (338.49 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/is/documents/product-information/vaborem-epar-product-information_is.pdf)
 
-italiano (IT) (288.22 KB - PDF)
+italiano (IT) (376.39 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/it/documents/product-information/vaborem-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (424.71 KB - PDF)
+latviešu valoda (LV) (408.94 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/lv/documents/product-information/vaborem-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (234.43 KB - PDF)
+lietuvių kalba (LT) (238.68 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/lt/documents/product-information/vaborem-epar-product-information_lt.pdf)
 
-magyar (HU) (295.35 KB - PDF)
+magyar (HU) (331.32 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/hu/documents/product-information/vaborem-epar-product-information_hu.pdf)
 
-Malti (MT) (493.62 KB - PDF)
+Malti (MT) (501.9 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/mt/documents/product-information/vaborem-epar-product-information_mt.pdf)
 
-Nederlands (NL) (274.33 KB - PDF)
+Nederlands (NL) (272.88 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/nl/documents/product-information/vaborem-epar-product-information_nl.pdf)
 
-norsk (NO) (652.58 KB - PDF)
+norsk (NO) (706.37 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/no/documents/product-information/vaborem-epar-product-information_no.pdf)
 
-polski (PL) (380.38 KB - PDF)
+polski (PL) (410.56 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/pl/documents/product-information/vaborem-epar-product-information_pl.pdf)
 
-português (PT) (279.59 KB - PDF)
+português (PT) (331.33 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/pt/documents/product-information/vaborem-epar-product-information_pt.pdf)
 
-română (RO) (471.2 KB - PDF)
+română (RO) (472.13 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/ro/documents/product-information/vaborem-epar-product-information_ro.pdf)
 
-slovenčina (SK) (401.4 KB - PDF)
+slovenčina (SK) (352.91 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/sk/documents/product-information/vaborem-epar-product-information_sk.pdf)
 
-slovenščina (SL) (381.56 KB - PDF)
+slovenščina (SL) (582.5 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/sl/documents/product-information/vaborem-epar-product-information_sl.pdf)
 
-Suomi (FI) (206.01 KB - PDF)
+Suomi (FI) (213.53 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/fi/documents/product-information/vaborem-epar-product-information_fi.pdf)
 
-svenska (SV) (189.67 KB - PDF)
+svenska (SV) (199.48 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-16/10/2025
+**First published:** 18/12/2018 **Last updated:** 23/03/2026
 
 [View](/sv/documents/product-information/vaborem-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000288346 16/10/2025
+**Latest procedure affecting product information:** VR/0000315162
+
+12/02/2026
 
 icon globe
 
@@ -609,305 +425,163 @@ Vaborem : EPAR - All authorised presentations
 
 English (EN) (42.41 KB - PDF)
 
-**First published:** 18/12/2018
-
-**Last updated:** 19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/en/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-964)
+[Other languages (24)](#file-language-dropdown-955)
 
 български (BG) (49.54 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/bg/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (43.12 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/es/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (91.02 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/cs/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (44.18 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/da/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (45.44 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/de/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (39.75 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/et/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (49.47 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/el/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (41.7 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/fr/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (84.46 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/hr/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (44.82 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/is/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (40.05 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/it/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (84.96 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/lv/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (43.85 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/lt/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (85 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/hu/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (84.62 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/mt/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (40.04 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/nl/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (42.04 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/no/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (45.37 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/pl/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (43.21 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/pt/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (83.94 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/ro/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (86.86 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/sk/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (43.48 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/sl/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (40.68 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/fi/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (40.64 KB - PDF)
 
-**First published:**
-
-18/12/2018
-
-**Last updated:**
-
-19/07/2019
+**First published:** 18/12/2018 **Last updated:** 19/07/2019
 
 [View](/sv/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Vaborem Active substance
+Name of medicine
+
+Vaborem
+
+Active substance
 
 - meropenem trihydrate
 - vaborbactam
@@ -926,7 +600,9 @@ Therapeutic area (MeSH)
 - Pneumonia
 - Pneumonia, Ventilator-Associated
 
-Anatomical therapeutic chemical (ATC) code J01DH
+Anatomical therapeutic chemical (ATC) code
+
+J01DH
 
 ### Pharmacotherapeutic group
 
@@ -948,13 +624,27 @@ Consideration should be given to official guidance on the appropriate use of ant
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004669 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/004669
+
+Marketing authorisation holder
 
 Menarini International Operations Luxembourg S.A.
 
 1, Avenue de la Gare
 
-Opinion adopted 20/09/2018 Marketing authorisation issued 20/11/2018 Revision 10
+Opinion adopted
+
+20/09/2018
+
+Marketing authorisation issued
+
+20/11/2018
+
+Revision
+
+11
 
 ## Assessment history
 
@@ -966,9 +656,9 @@ Collapse section
 
 Vaborem : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (152.71 KB - PDF)
+English (EN) (172.77 KB - PDF)
 
-**First published:** 16/10/2025
+**First published:** 16/10/2025 **Last updated:** 23/03/2026
 
 [View](/en/documents/procedural-steps-after/vaborem-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -976,17 +666,13 @@ Vaborem : EPAR - Procedural steps taken and scientific information after the aut
 
 English (EN) (139.27 KB - PDF)
 
-**First published:** 14/03/2019
-
-**Last updated:** 16/10/2025
+**First published:** 14/03/2019 **Last updated:** 16/10/2025
 
 [View](/en/documents/procedural-steps-after/vaborem-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Vaborem-H-C-004669-II-0020 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2531410
+Adopted Reference Number: EMADOC-1700519818-2531410
 
 English (EN) (1.95 MB - PDF)
 
@@ -998,9 +684,7 @@ English (EN) (1.95 MB - PDF)
 
 Vabomere : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/700663/2018
+Adopted Reference Number: EMA/CHMP/700663/2018
 
 English (EN) (4.11 MB - PDF)
 
@@ -1010,23 +694,23 @@ English (EN) (4.11 MB - PDF)
 
 Summary of opinion for Vabomere
 
-Adopted
-
-Reference Number: EMA/CHMP/635393/2018
+Adopted Reference Number: EMA/CHMP/635393/2018
 
 English (EN) (77.44 KB - PDF)
 
-**First published:** 21/09/2018
-
-**Last updated:** 21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/en/documents/smop-initial/summary-opinion-vabomere_en.pdf)
 
 ## News on Vaborem
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 September 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-september-2018) 21/09/2018
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 September 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-september-2018)
 
-[New medicine to treat infections in adults](/en/news/new-medicine-treat-infections-adults) 21/09/2018
+21/09/2018
+
+[New medicine to treat infections in adults](/en/news/new-medicine-treat-infections-adults)
+
+21/09/2018
 
 ## More information on Vaborem
 
@@ -1036,8 +720,8 @@ English (EN) (77.44 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 18/03/2026
+**This page was last updated on**
+
+23/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

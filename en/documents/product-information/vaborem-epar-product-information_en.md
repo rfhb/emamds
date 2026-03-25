@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-16 13:01:37
+document_datetime: 2026-03-23 15:44:37
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vaborem-epar-product-information_en.pdf
 document_name: vaborem-epar-product-information_en.pdf
 version: success
-processing_time: 6.3336708
-conversion_datetime: 2025-12-30 20:46:49.406033
+processing_time: 7.2988976
+conversion_datetime: 2026-03-25 12:45:55.083052
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.0
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -32,7 +32,7 @@ Each vial contains meropenem trihydrate equivalent to 1 g meropenem, and 1 g vab
 
 After reconstitution, 1 ml of the solution contains 50 mg meropenem and 50 mg vaborbactam (see section 6.6).
 
-Excipient with known effect:
+## Excipient with known effect:
 
 Each vial contains 10.9 mmol of sodium (approximately 250 mg).
 
@@ -141,6 +141,10 @@ If a severe allergic reaction occurs, treatment with Vaborem must be discontinue
 
 <div style=\"page-break-after: always\"></div>
 
+## Rhabdomyolysis
+
+Rhabdomyolysis has been reported with the use of meropenem, a component of meropenem/vaborbactam. If signs or symptoms of rhabdomyolysis are observed, meropenem/vaborbactam should be discontinued and appropriate therapy initiated.
+
 ## Seizures
 
 Seizures have been reported during treatment with meropenem (see section 4.8).
@@ -171,11 +175,11 @@ Case reports in the literature have shown that co-administration of carbapenems,
 
 The use of Vaborem to treat patients with complicated intra-abdominal infections is based on experience with meropenem alone and pharmacokinetic-pharmacodynamic analyses of meropenem/vaborbactam.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hospital-acquired pneumonia, including ventilator-associated pneumonia
 
 The use of Vaborem to treat patients with hospital-acquired pneumonia, including ventilator-associated pneumonia, is based on experience with meropenem alone and pharmacokinetic-pharmacodynamic analyses for meropenem/vaborbactam.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Patients with limited treatment options
 
@@ -201,11 +205,13 @@ In vitro data suggests a potential for induction of CYP1A2 (meropenem), CYP3A4 (
 
 Both meropenem and vaborbactam are substrates of OAT3 and as such, probenecid competes with meropenem for active tubular secretion and thus inhibits the renal excretion of meropenem and the same mechanism could apply for vaborbactam. Co-administration of probenecid with Vaborem is not recommended, as it may result in increased plasma concentrations of meropenem and vaborbactam.
 
-Concomitant administration of meropenem and valproic acid has been associated with reductions in valproic acid concentrations with subsequent loss in seizure control. Data from in vitro and animal studies suggest that carbapenems may inhibit the hydrolysis of valproic acid's glucuronide metabolite (VPA g) back to valproic acid, thus decreasing the serum concentrations of valproic acid. Therefore, supplemental anticonvulsant therapy should be administered when concomitant administration of valproic acid and meropenem/vaborbactam cannot be avoided (see section 4.4).
-
-## Oral anticoagulants
+Concomitant administration of meropenem and valproic acid has been associated with reductions in valproic acid concentrations with subsequent loss in seizure control. Data from in vitro and animal studies suggest that carbapenems may inhibit the hydrolysis of valproic acid's glucuronide metabolite (VPA g)
 
 <div style=\"page-break-after: always\"></div>
+
+back to valproic acid, thus decreasing the serum concentrations of valproic acid. Therefore, supplemental anticonvulsant therapy should be administered when concomitant administration of valproic acid and meropenem/vaborbactam cannot be avoided (see section 4.4).
+
+## Oral anticoagulants
 
 Simultaneous administration of antibacterial agents with warfarin may augment its anticoagulant effects. There have been many reports of increases in the anticoagulant effects of orally administered anticoagulants, including warfarin in patients, who are concomitantly receiving antibacterial agents. The risk may vary with the underlying infection, age and general status of the patient so that the contribution of the antibacterial agent to the increase in international normalised ratio (INR) is difficult to assess. It is recommended that the INR should be monitored frequently during and shortly after co-administration of Vaborem with an oral anticoagulant.
 
@@ -237,9 +243,9 @@ Vaborem has moderate influence on the ability to drive and use machines. Seizure
 
 ## Summary of the safety profile
 
-The most common adverse reactions that occurred among 322 patients from the pooled Phase 3 studies were headache (8.1%), diarrhoea (4.7%), infusion site phlebitis (2.2%) and nausea (2.2%).
-
 <div style=\"page-break-after: always\"></div>
+
+The most common adverse reactions that occurred among 322 patients from the pooled Phase 3 studies were headache (8.1%), diarrhoea (4.7%), infusion site phlebitis (2.2%) and nausea (2.2%).
 
 Severe adverse reactions were observed in two patients (0.6 %), one infusion related reaction and one blood alkaline phosphatase increased respectively.  In one additional patient, a serious adverse reaction of infusion related reaction was reported (0.3%).
 
@@ -258,23 +264,25 @@ Table 3: Frequency of adverse reactions by system organ class
 | Immune system disorders              |                            | Anaphylactic reaction Hypersensitivity                                     |                                | Angioedema                                              |
 | Metabolism and nutrition disorders   | Hypokalaemia Hypoglycaemia | Decreased appetite Hyperkalaemia Hyperglycaemia                            |                                |                                                         |
 | Psychiatric disorders                |                            | Insomnia Hallucination                                                     |                                | Delirium                                                |
-| Nervous system disorders             | Headache                   | Tremor Lethargy Dizziness                                                  | Convulsions                    |                                                         |
+| Nervous system disorders             | Headache                   | Tremor                                                                     | Convulsions                    |                                                         |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                              | Common (≥1/100 to <1/10)                                                                                                                 | Uncommon (≥1/1,000 to <1/100)                         | Rare (≥1/10,000 to <1/1,000)   | Unknown (cannot be estimated from the available data)                                                                                                                                                                                                                                  |
-|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                 |                                                                                                                                          | Paraesthesia                                          |                                |                                                                                                                                                                                                                                                                                        |
-| Vascular disorders                              | Hypotension                                                                                                                              | Phlebitis                                             |                                |                                                                                                                                                                                                                                                                                        |
-| Respiratory, thoracic and mediastinal disorders |                                                                                                                                          | Vascular pain Bronchospasm                            |                                |                                                                                                                                                                                                                                                                                        |
-| Gastrointestinal disorders                      | Diarrhoea Nausea Vomiting                                                                                                                | Abdominal distension Abdominal pain                   |                                |                                                                                                                                                                                                                                                                                        |
-| Hepatobiliary disorders                         | Alanine aminotransferase increased Aspartate aminotransferase increased Blood alkaline phosphatase increased Blood lactate dehydrogenase | Blood bilirubin increased Drug-induced liver injury 1 |                                |                                                                                                                                                                                                                                                                                        |
-| Skin and subcutaneous disorders                 |                                                                                                                                          | Pruritus Rash Urticaria                               |                                | Severe cutaneous adverse reactions (SCAR), such as Toxic epidermal necrolysis (TEN) Stevens Johnson syndrome (SJS) Erythema multiforme (EM) Drug reaction with eosinophilia and systemic symptoms (DRESS syndrome) Acute generalised exanthematous pustulosis (AGEP) (see section 4.4) |
+| System organ class                              | Common (≥1/100 to <1/10)                                                                                                                 | Uncommon (≥1/1,000 to <1/100)                         | Rare (≥1/10,000 to <1/1,000)   | Unknown (cannot be estimated from the available data)                                                                                                                                                                                              |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                 |                                                                                                                                          | Lethargy Dizziness Paraesthesia                       |                                |                                                                                                                                                                                                                                                    |
+| Vascular disorders                              | Hypotension                                                                                                                              | Phlebitis Vascular pain                               |                                |                                                                                                                                                                                                                                                    |
+| Respiratory, thoracic and mediastinal disorders |                                                                                                                                          | Bronchospasm                                          |                                |                                                                                                                                                                                                                                                    |
+| Gastrointestinal disorders                      | Diarrhoea Nausea Vomiting                                                                                                                | Abdominal distension Abdominal pain                   |                                |                                                                                                                                                                                                                                                    |
+| Hepatobiliary disorders                         | Alanine aminotransferase increased Aspartate aminotransferase increased Blood alkaline phosphatase increased Blood lactate dehydrogenase | Blood bilirubin increased Drug-induced liver injury 1 |                                |                                                                                                                                                                                                                                                    |
+| Skin and subcutaneous disorders                 |                                                                                                                                          | Pruritus Rash Urticaria                               |                                | Severe cutaneous adverse reactions (SCAR), such as Toxic epidermal necrolysis (TEN) Stevens Johnson syndrome (SJS) Erythema multiforme (EM) Drug reaction with eosinophilia and systemic symptoms (DRESS syndrome) Acute generalised exanthematous |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class                                   | Common (≥1/100 to <1/10)        | Uncommon (≥1/1,000 to <1/100)                                                                                         | Rare (≥1/10,000 to <1/1,000)   | Unknown (cannot be estimated from the available data)   |
 |------------------------------------------------------|---------------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------------|---------------------------------------------------------|
+|                                                      |                                 |                                                                                                                       |                                | pustulosis (AGEP) (see section 4.4)                     |
+| Musculoskeletal and connective tissue disorders      |                                 |                                                                                                                       |                                | Rhabdomyolysis 2                                        |
 | Renal and urinary disorders                          |                                 | Renal impairment Incontinence Blood creatinine increased Blood urea increased                                         |                                |                                                         |
 | General disorders and administration site conditions | Infusion site phlebitis Pyrexia | Chest discomfort Infusion site reaction Infusion site erythema Injection site phlebitis Infusion site thrombosis Pain |                                |                                                         |
 | Investigations                                       |                                 | Blood creatine phosphokinase increased                                                                                |                                | Direct and indirect Coombs test positive                |
@@ -290,11 +298,11 @@ There is no experience with overdose of Vaborem.
 
 Limited post-marketing experience with meropenem alone indicates that if adverse reactions occur following overdose, they are consistent with the adverse reaction profile described in section 4.8, are generally mild in severity and resolve on withdrawal or dose reduction.
 
+<div style=\"page-break-after: always\"></div>
+
 In the event of overdose, discontinue Vaborem and institute general supportive treatment. In individuals with normal renal function, rapid renal elimination will occur.
 
 Meropenem and vaborbactam can be removed by haemodialysis. In subjects with end stage renal disease (ESRD) administered 1 g meropenem and 1 g vaborbactam, the mean total recovery in dialysate following a haemodialysis session was 38% and 53% for meropenem and vaborbactam, respectively.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -324,17 +332,19 @@ MIC (minimum inhibitory concentration) interpretive criteria for susceptibility 
 
 ## Pharmacokinetic/pharmacodynamic relationship
 
-The antimicrobial activity of meropenem has been shown to best correlate with the percent of the dosing interval during which the free meropenem concentrations in plasma exceed the meropenem minimum inhibitory concentration. For vaborbactam, the PK-PD index associated with antimicrobial activity is the ratio of free vaborbactam plasma AUC: meropenem/vaborbactam MIC.
+The antimicrobial activity of meropenem has been shown to best correlate with the percent of the dosing interval during which the free meropenem concentrations in plasma exceed the meropenem minimum
+
+<div style=\"page-break-after: always\"></div>
+
+inhibitory concentration. For vaborbactam, the PK-PD index associated with antimicrobial activity is the ratio of free vaborbactam plasma AUC: meropenem/vaborbactam MIC.
 
 ## Clinical efficacy against specific pathogens
 
 Efficacy has been demonstrated in clinical studies against the following pathogens that were susceptible to meropenem/vaborbactam in vitro .
 
-<div style=\"page-break-after: always\"></div>
-
 ## Complicated urinary-tract infections, including pyelonephritis
 
-## Gram-negative micro-organisms:
+Gram-negative micro-organisms:
 
 - Escherichia coli
 - Klebsiella pneumoniae
@@ -376,13 +386,13 @@ Clinical efficacy has not been established against the following pathogens that 
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Vaborem in one or more subsets of the paediatric population in the treatment of infections due to Gramnegative bacteria (see section 4.2 for information on paediatric use).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.2 Pharmacokinetic properties
 
 ## Distribution
 
 The plasma protein binding of meropenem is approximately 2%. The plasma protein binding of vaborbactam is approximately 33%.
-
-<div style=\"page-break-after: always\"></div>
 
 The steady-state volumes of distribution of meropenem and vaborbactam in patients were 20.2 L and 18.6 L, respectively, following doses of 2 g meropenem/2 g vaborbactam infused over 3 hours every 8 hours, indicating that both compounds distribute into a volume of distribution consistent with the extracellular fluid compartment.
 
@@ -412,6 +422,8 @@ Neither meropenem nor vaborbactam inhibit CYP450 enzymes in vitro at pharmacolog
 
 Both meropenem and vaborbactam do not inhibit renal or hepatic transporters at pharmacologically relevant concentrations.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Special populations
 
 ## Renal impairment
@@ -419,8 +431,6 @@ Both meropenem and vaborbactam do not inhibit renal or hepatic transporters at p
 Pharmacokinetic studies with meropenem and vaborbactam in patients with renal impairment have shown that the plasma clearance of both meropenem and vaborbactam correlates with creatinine clearance.
 
 ## Hepatic impairment
-
-<div style=\"page-break-after: always\"></div>
 
 As meropenem/vaborbactam does not undergo hepatic metabolism, the systemic clearance of meropenem/vaborbactam is not expected to be affected by hepatic impairment.
 
@@ -448,7 +458,7 @@ In repeat dose toxicity studies in dogs, minimal hepatic inflammation was observ
 
 ## 6.1 List of excipients
 
-Sodium carbonate
+## Sodium carbonate
 
 ## 6.2 Incompatibilities
 
@@ -460,13 +470,13 @@ Vaborem is not chemically compatible with glucose-containing solutions. This med
 
 ## After reconstitution
 
+<div style=\"page-break-after: always\"></div>
+
 The reconstituted vial should be further diluted immediately.
 
 ## After dilution
 
 The chemical and physical in-use stability has been demonstrated for up to 4 hours at 25 °C or within 22 hours at 2 - 8 °C.
-
-<div style=\"page-break-after: always\"></div>
 
 From a microbiological point of view, the medicinal product should be used immediately upon reconstitution and dilution.
 
@@ -501,51 +511,33 @@ After mixing gently to dissolve, the reconstituted meropenem/vaborbactam solutio
 
 To prepare the Vaborem 2 g/2 g dose for intravenous infusion: Immediately after reconstitution of two vials, the entire reconstituted vial contents should be withdrawn from each of the two vials and added back into the 250 ml infusion bag of sodium chloride 9 mg/ml (0.9%) solution for injection (normal saline). The final infusion concentration of meropenem and vaborbactam will be about 8 mg/ml each.
 
+<div style=\"page-break-after: always\"></div>
+
 To prepare the Vaborem 1 g/1 g dose for intravenous infusion: Immediately after reconstitution of one vial, the entire reconstituted vial contents should be withdrawn from the vial and added back into the 250 ml infusion bag of sodium chloride 9 mg/ml (0.9%) solution for injection (normal saline). The final infusion concentration of meropenem and vaborbactam will be about 4 mg/ml each.
 
 To prepare the Vaborem 0.5 g/0.5 g dose for intravenous infusion: Immediately after reconstitution of one vial,10.5 ml of the reconstituted vial contents should be withdrawn from the vial and added back into the 250 ml infusion bag of sodium chloride 9 mg/ml (0.9%) solution for injection (normal saline). The final infusion concentration of meropenem and vaborbactam will be 2 mg/ml each.
-
-<div style=\"page-break-after: always\"></div>
 
 The diluted solution should be inspected visually for particulate matter. The colour of the diluted solution is clear to light yellow.
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
-7.
+## 7. MARKETING AUTHORISATION HOLDER
 
-MARKETING AUTHORISATION HOLDER
+Menarini International Operations Luxembourg S.A. 1, Avenue de la Gare L-1611, Luxembourg Luxembourg
 
-Menarini International Operations Luxembourg S.A.
-
-1, Avenue de la Gare
-
-L-1611, Luxembourg
-
-Luxembourg
-
-8.
-
-MARKETING AUTHORISATION NUMBER(S)
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/18/1334/001
 
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 20 November 2018
 
 Date of latest renewal: 24 July 2023
 
-10.
+## 10. DATE OF REVISION OF THE TEXT
 
-DATE OF REVISION OF THE TEXT
-
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency http://www.ema.europa.eu.
-
-16
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -582,7 +574,7 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
+- At the reques t of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
@@ -637,6 +629,8 @@ EXP
 
 Do not store above 25 °C.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -672,8 +666,6 @@ PC:
 SN:
 
 NN:
-
-<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -719,7 +711,7 @@ EXP
 
 Do not store above 25° C.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -832,6 +824,10 @@ Although Vaborem can fight certain bacteria, there is a possibility that you may
 
 Tell your doctor that you are taking Vaborem if you are going to have any blood tests. This is because you may get an abnormal result with something called a 'Coombs test'. This test looks for the presence of antibodies that can destroy red blood cells or may be affected by the response of your immune system to Vaborem.
 
+## Muscle problems
+
+If you notice unexplained muscle pain, tenderness, or weakness and dark-coloured urine, tell your doctor immediately. This may be a sign of muscle breakdown (called rhabdomyolysis), which can lead to kidney problems.
+
 ## Children or adolescents
 
 Vaborem should not be used in children or adolescents under 18 years of age. This is because it is not known if the medicine is safe to use in these age groups.
@@ -846,11 +842,13 @@ It is particularly important to tell your doctor if you are taking any of the fo
 - a medicine for gout called probenecid
 - oral anticoagulant medicines, such as warfarin (used to treat or prevent blood clots)
 - hormonal oral contraceptives containing oestrogen and/or progesterone because Vaborem may decrease their effect. Women of childbearing potential should be advised to use alternative effective contraceptive methods during treatment with Vaborem and for a period of 28 days after discontinuation of treatment.
-- medicines predominantly metabolised by CYP1A2 (e.g theophylline), CYP3A4 (e.g alprazolam, midazolam, tacrolimus, sirolimus, cyclosporine, simvastatin, omeprazole, nifedipine, quinidine and ethinylestradiol) and/or CYP2C (e.g. warfarin, phenytoin) and/or transported by P-gp (e.g. dabigatran, digoxin) because Vaborem may decrease their effect.
-
-Tell your doctor before using Vaborem if any of the above apply to you.
+- medicines predominantly metabolised by CYP1A2 (e.g theophylline), CYP3A4 (e.g alprazolam, midazolam, tacrolimus, sirolimus, cyclosporine, simvastatin, omeprazole, nifedipine, quinidine and
 
 <div style=\"page-break-after: always\"></div>
+
+ethinylestradiol) and/or CYP2C (e.g. warfarin, phenytoin) and/or transported by P-gp (e.g. dabigatran, digoxin) because Vaborem may decrease their effect.
+
+Tell your doctor before using Vaborem if any of the above apply to you.
 
 ## Pregnancy and breast-feeding
 
@@ -896,10 +894,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Tell your doctor straight away if you notice any of the following serious side effects -you may need urgent medical treatment:
 
-- Severe allergic reactions that could include sudden swelling of your lips, face, throat or tongue, difficulty swallowing or breathing or a severe rash or other severe skin reactions, or a decrease in blood pressure (which could make you feel faint or dizzy). Such reactions may be life-threatening.
-
 <div style=\"page-break-after: always\"></div>
 
+- Severe allergic reactions that could include sudden swelling of your lips, face, throat or tongue, difficulty swallowing or breathing or a severe rash or other severe skin reactions, or a decrease in blood pressure (which could make you feel faint or dizzy). Such reactions may be life-threatening.
 - Diarrhoea that keeps getting worse or does not go away, or stools that contains blood or mucus this may happen during or after treatment with Vaborem is stopped. It may be due to bacteria called Clostridioides difficile . If this happens, do not take medicines that stop or slow bowel movement.
 - Liver problems. Yellowing of the skin and eyes, itchy skin, dark-coloured urine or light-coloured stool.
 
@@ -940,12 +937,12 @@ Common: (may affect up to 1 in 10 people)
 - Swollen and red and irritated veins
 - Painful veins
 - Difficulty breathing
-- Bloating or a feeling of fullness in your abdomen
-- Stomach pain
-- Itchy skin
 
 <div style=\"page-break-after: always\"></div>
 
+- Bloating or a feeling of fullness in your abdomen
+- Stomach pain
+- Itchy skin
 - Rash
 - Raised itchy skin rash ('hives')
 - Difficulty to control the bladder
@@ -958,13 +955,11 @@ Common: (may affect up to 1 in 10 people)
 - Increase in the level of some types of substances in the blood called urea and creatinine that are signs that your kidneys are working less well - shown in blood tests
 - Reaction that occurs during or shortly after Vaborem is given that presents as a malaise (generally feeling unwell) possibly with any of the following: reduced blood pressure, nausea, vomiting, abdominal cramps, fever, flushing, rapid heart beats or difficulty to breathe, headache
 
-## Rare ( may affect up to 1 in 1000 people)
+Rare ( may affect up to 1 in 1000 people)
 
 - Seizures (fits)
 
-Unknown:
-
-(frequency cannot be estimated from the available data)
+Unknown: (frequency cannot be estimated from the available data)
 
 - A severe and very low white blood cell count - shown in blood tests
 - Haemolytic anaemia (a condition where red blood cells are damaged and reduced in number), which may make you feel tired and turn your skin and eyes yellow
@@ -972,6 +967,7 @@ Unknown:
 - Sudden onset of a severe rash with bullseye-like spots or blistering or peeling skin, possibly with a high fever, joint pain, abnormal function of your liver, kidney or lung (these may be signs of more serious medical conditions called toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme, acute generalised exanthematous pustulosis, or a condition known as drug reaction with eosinophilia and systemic symptoms (DRESS))
 - A positive result from a test called ' Coombs ' used to identify haemolytic anemia (see above) or reaction of your immune system to Vaborem
 - Acute disorientation and confusion (delirium)
+- Unexplained muscle pain, tenderness or weakness, and/or dark coloured urine (rhabdomyolysis)
 
 ## Reporting of side effects
 
@@ -983,11 +979,9 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the container. The expiry date refers to the last day of that month.
 
-Do not store above 25 °C.
+<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
-
-<div style=\"page-break-after: always\"></div>
 
 ## What Vaborem contains
 
@@ -1002,9 +996,9 @@ Vaborem is available in packs containing 6 vials.
 
 ## Marketing Authorisation Holder
 
-Menarini International Operations Luxembourg S.A.
+Menarini International Operations Luxembourg S.A. 1, Avenue de la Gare L-1611, Luxembourg
 
-1, Avenue de la Gare L-1611, Luxembourg Luxembourg
+Luxembourg
 
 ## Manufacturer
 
@@ -1018,39 +1012,27 @@ Menarini Benelux NV/SA
 
 Tél/Tel: + 32 (0)2 721 4545
 
-## България
-
-Берлин -Хеми / А . Менарини България E ООД тел.: +359 24540950
-
-## Česká republika
-
-Berlin-Chemie/A.Menarini Ceska republika s.r.o. Tel: +420 267 199 333
-
-## Danmark
-
-Menarini International Operations Luxembourg S.A.
-
-Tlf: +352 264976
-
-## Deutschland
-
-Berlin-Chemie AG
-
-Tel: +49 (0) 30 67070
-
-## Eesti
-
-OÜ Berlin-Chemie Menarini Eesti
-
 ## Lietuva
 
 UAB 'BERLIN CHEMIE MENARINI BALTIC'
 
 Tel: +370 52 691 947
 
+## България
+
+Берлин - Хеми / А . Менарини България E ООД
+
+тел.: +359 24540950
+
 ## Luxembourg/Luxemburg
 
 Menarini Benelux NV/SA Tél/Tel: + 32 (0)2 721 4545
+
+## Česká republika
+
+Berlin-Chemie/A.Menarini Ceska republika s.r.o.
+
+Tel: +420 267 199 333
 
 ## Magyarország
 
@@ -1058,11 +1040,27 @@ Berlin-Chemie/A. Menarini Kft.
 
 Tel.: +36 1799 7320
 
+## Danmark
+
+Menarini International Operations Luxembourg
+
+S.A.
+
+Tlf: +352 264976
+
 ## Malta
 
-Menarini International Operations Luxembourg S.A.
+Menarini International Operations Luxembourg
+
+S.A.
 
 Tel: +352 264976
+
+## Deutschland
+
+Berlin-Chemie AG
+
+Tel: +49 (0) 30 67070
 
 ## Nederland
 
@@ -1070,11 +1068,13 @@ Menarini Benelux NV/SA
 
 Tel: +32 (0)2 721 4545
 
-## Norge
+<div style=\"page-break-after: always\"></div>
+
+## Eesti
+
+OÜ Berlin-Chemie Menarini Eesti
 
 Tel: +372 667 5001
-
-<div style=\"page-break-after: always\"></div>
 
 ## Ελλάδα
 
@@ -1138,9 +1138,11 @@ Tel: +371 67103210
 
 Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu.
 
-------------------------------------------------------------------------------------------------------------------------
+## Norge
 
-Menarini International Operations Luxembourg S.A.
+Menarini International Operations Luxembourg
+
+S.A.
 
 Tlf: +352 264976
 
@@ -1190,11 +1192,11 @@ Puh/Tel: +358 403 000 760
 
 Berlin-Chemie/A.Menarini Suomi OY
 
-Berlin-Chemie/A.Menarini Suomi OY
-
 Tel: +358 403 000 760
 
 <div style=\"page-break-after: always\"></div>
+
+------------------------------------------------------------------------------------------------------------------------
 
 ## The following information is intended for healthcare professionals only:
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-02 12:26:08
-document_pages: 46
+document_datetime: 2026-03-24 15:14:04
+document_pages: 45
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/stivarga-epar-product-information_en.pdf
 document_name: stivarga-epar-product-information_en.pdf
 version: success
-processing_time: 15.5644878
-conversion_datetime: 2025-12-28 18:30:48.011845
+processing_time: 14.2401653
+conversion_datetime: 2026-03-25 12:57:40.6066
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.0
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -64,9 +64,9 @@ If a dose is missed, then it should be taken on the same day as soon as the pati
 
 Treatment should continue as long as benefit is observed or until unacceptable toxicity occurs (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 Patients with performance status (PS) 2 or higher were excluded from clinical studies. There is limited data in patients with PS ≥2.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Posology adjustments
 
@@ -96,8 +96,8 @@ Table 2: Recommended measures and dose modifications in case of drug-related liv
 | Observed elevations of ALT and/or AST                                   | Occurrence     | Recommended measures and dose modification                                                                                                                                                                                                                                                                                 |
 |-------------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ≤5 times upper limit of normal (ULN) (maximum Grade 2)                  | Any occurrence | Continue Stivarga treatment. Monitor liver function weekly until transaminases return to <3 times ULN (Grade 1) or baseline.                                                                                                                                                                                               |
-| >5 times ULN ≤20 times ULN (Grade 3)                                    | 1st occurrence | Interrupt Stivarga treatment. Monitor transaminases weekly until return to <3 times ULN or baseline. Restart: If the potential benefit outweighs the risk of hepatotoxicity, re-start Stivarga treatment, reduce dose by 40 mg (one tablet), and monitor liver function weekly for at least 4 weeks.                       |
-| >5 times ULN ≤20 times ULN (Grade 3)                                    | Re-occurrence  | Discontinue treatment with Stivarga permanently.                                                                                                                                                                                                                                                                           |
+| >5 times ULN ≤ 20 times ULN (Grade 3)                                   | 1st occurrence | Interrupt Stivarga treatment. Monitor transaminases weekly until return to <3 times ULN or baseline. Restart: If the potential benefit outweighs the risk of hepatotoxicity, re-start Stivarga treatment, reduce dose by 40 mg (one tablet), and monitor liver function weekly for at least 4 weeks.                       |
+| >5 times ULN ≤ 20 times ULN (Grade 3)                                   | Re-occurrence  | Discontinue treatment with Stivarga permanently.                                                                                                                                                                                                                                                                           |
 | >20 times ULN (Grade 4)                                                 | Any occurrence | Discontinue treatment with Stivarga permanently.                                                                                                                                                                                                                                                                           |
 | >3 times ULN (Grade 2 or higher) with concurrent bilirubin >2 times ULN | Any occurrence | Discontinue treatment with Stivarga permanently. Monitor liver function weekly until resolution or return to baseline. Exception: patients with Gilbert's syndrome who develop elevated transaminases should be managed as per the above outlined recommendations for the respective observed elevation of ALT and/or AST. |
 
@@ -123,15 +123,15 @@ In clinical studies, no relevant differences in exposure, safety or efficacy wer
 
 ## Ethnic differences
 
+In clinical studies, no relevant differences in exposure or efficacy were observed between patients of different ethnic groups. A higher incidence of hand foot skin reaction (HFSR)/palmar-plantar erythrodysesthesia syndrome, severe liver function test abnormalities and hepatic dysfunction was
+
 <div style=\"page-break-after: always\"></div>
 
-In clinical studies, no relevant differences in exposure or efficacy were observed between patients of different ethnic groups. A higher incidence of hand foot skin reaction (HFSR)/palmar-plantar erythrodysesthesia syndrome, severe liver function test abnormalities and hepatic dysfunction was observed in Asian (in particular Japanese) patients treated with Stivarga compared with Caucasians. The Asian patients treated with Stivarga in clinical studies were primarily from East Asia ( ~ 90%). There is limited data on regorafenib in the black patient population. No dose adjustment is necessary based on ethnicity (see section 5.2).
+observed in Asian (in particular Japanese) patients treated with Stivarga compared with Caucasians. The Asian patients treated with Stivarga in clinical studies were primarily from East Asia ( ~ 90%). There is limited data on regorafenib in the black patient population. No dose adjustment is necessary based on ethnicity (see section 5.2).
 
 ## Paediatric population
 
-There is no relevant use of Stivarga in the paediatric population in the indication of metastatic colorectal cancer.
-
-The safety and efficacy of regorafenib in patients below 18 years of age in the indication gastrointestinal stromal tumours (GIST) have not been established. No data are available. There is no relevant use of Stivarga in the paediatric population in the indication of hepatocellular carcinoma.
+There is no relevant use of Stivarga in the paediatric population in the indications of metastatic colorectal cancer, gastrointestinal stromal tumours and hepatocellular carcinoma. The safety and efficacy of Stivarga in children and adolescents (below 18 years of age) have not been established (see section 5.1).
 
 ## Method of administration
 
@@ -157,15 +157,15 @@ Regorafenib is a uridine diphosphate glucuronosyl transferase (UGT) 1A1 inhibito
 
 For patients with observed worsening of liver function tests considered related to treatment with Stivarga (i.e. where no alternative cause is evident, such as post-hepatic cholestasis or disease progression), the dose modification and monitoring advice in Table 2 should be followed (see section 4.2).
 
-Regorafenib is eliminated mainly via the hepatic route.
-
-<div style=\"page-break-after: always\"></div>
+## Regorafenib is eliminated mainly via the hepatic route.
 
 Close monitoring of the overall safety is recommended in patients with mild or moderate hepatic impairment (see also sections 4.2 and 5.2). Stivarga is not recommended for use in patients with severe hepatic impairment (Child-Pugh C) as Stivarga has not been studied in this population and exposure might be increased in these patients.
 
 ## Infections
 
 Stivarga has been associated with an increased incidence of infection events, some of which were fatal (see section 4.8).
+
+<div style=\"page-break-after: always\"></div>
 
 In cases of worsening infection events, interruption of Stivarga treatment should be considered.
 
@@ -193,13 +193,13 @@ PRES has been reported in association with Stivarga treatment (see section 4.8).
 
 ## Arterial hypertension
 
-<div style=\"page-break-after: always\"></div>
-
 Stivarga has been associated with an increased incidence of arterial hypertension (see section 4.8). Blood pressure should be controlled prior to initiation of treatment with Stivarga. It is recommended to monitor blood pressure and to treat hypertension in accordance with standard medical practice. In cases of severe or persistent hypertension despite adequate medical management, treatment should be temporarily interrupted and/or the dose reduced at the discretion of the physician (see section 4.2). In case of hypertensive crisis, Stivarga should be discontinued.
 
 ## Aneurysms and artery dissections
 
 The use of VEGF pathway inhibitors in patients with or without hypertension may promote the formation of aneurysms and/or artery dissections. Before initiating Stivarga, this risk should be carefully considered in patients with risk factors such as hypertension or history of aneurysm.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Thrombotic microangiopathy (TMA)
 
@@ -221,8 +221,6 @@ Stivarga has been associated with an increased incidence of electrolyte abnormal
 
 This medicinal product contains 56.06 mg sodium per daily dose of 160 mg, equivalent to 3% of the WHO recommended maximum daily intake of 2 g sodium for an adult. Each daily dose of 160 mg contains 1.68 mg of lecithin (derived from soya).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 ## Inhibitors of CYP3A4 and UGT1A9/inducers of CYP3A4
@@ -230,6 +228,8 @@ This medicinal product contains 56.06 mg sodium per daily dose of 160 mg, equiva
 In vitro data indicate that regorafenib is metabolized by cytochrome CYP3A4 and uridine diphosphate glucuronosyl transferase UGT1A9.
 
 Administration of ketoconazole (400 mg for 18 days), a strong CYP3A4 inhibitor, with a single dose of regorafenib (160 mg on day 5) resulted in an increase in mean exposure (AUC) of regorafenib of approximately 33%, and a decrease in mean exposure of the active metabolites, M-2 (N-oxide) and M-5 (N-oxide and N-desmethyl), of approximately 90%. It is recommended to avoid concomitant use of strong inhibitors of CYP3A4 activity (e.g. clarithromycin, grapefruit juice, itraconazole, ketoconazole, posaconazole, telithromycin and voriconazole) as their influence on the steady-state exposure of regorafenib and its metabolites has not been studied.
+
+<div style=\"page-break-after: always\"></div>
 
 Co-administration of a strong UGT1A9 inhibitor (e.g. mefenamic acid, diflunisal, and niflumic acid) during regorafenib treatment should be avoided, as their influence on the steady-state exposure of regorafenib and its metabolites has not been studied.
 
@@ -251,8 +251,6 @@ Clinical data indicate that regorafenib has no effect on digoxin pharmacokinetic
 
 In vitro studies indicate that the active metabolites M-2 and M-5 are substrates for P-glycoprotein and BCRP. Inhibitors and inducers of BCRP and P-glycoprotein may interfere with the exposure of M-2 and M-5. The clinical significance of these findings is unknown (see also section 5.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## CYP isoform-selective substrates
 
 In vitro data indicate that regorafenib is a competitive inhibitor of the cytochromes CYP2C8 (Ki value of 0.6 micromolar), CYP2C9 (Ki value of 4.7 micromolar), CYP2B6 (Ki value of 5.2 micromolar) at concentrations which are achieved in vivo at steady state (peak plasma concentration of 8.1 micromolar). The in vitro inhibitory potency towards CYP3A4 (Ki value of 11.1 micromolar) and CYP2C19 (Ki value of 16.4 micromolar) was less pronounced.
@@ -262,6 +260,8 @@ A clinical probe substrate study was performed to evaluate the effect of 14 days
 Pharmacokinetic data indicate that regorafenib may be given concomitantly with substrates of CYP2C8, CYP2C9, CYP3A4, and CYP2C19 without a clinically meaningful drug interaction (see also section 4.4).
 
 ## Antibiotics
+
+<div style=\"page-break-after: always\"></div>
 
 The concentration-time profile indicates that regorafenib and its metabolites may undergo enterohepatic circulation (see section 5.2). Co-administration with neomycin, a poorly absorbed antimicrobial agent used for eradicating the gastrointestinal microflora (which may interfere with the enterohepatic circulation of regorafenib) had no effect on the regorafenib exposure, but there was an approximately 80% decrease in the exposure of the active metabolites M-2 and M-5 which showed in vitro and in vivo comparable pharmacological activity as regorafenib. The clinical significance of this neomycin interaction is unknown, but may result in a decreased efficacy of regorafenib. Pharmacokinetic interactions of other antibiotics have not been studied.
 
@@ -277,17 +277,13 @@ Women of childbearing potential must be informed that regorafenib may cause foet
 
 ## Pregnancy
 
-There are no data on the use of regorafenib in pregnant women. Stivarga should not be used during pregnancy unless clearly necessary and after careful consideration
-
-Based on its mechanism of action regorafenib is suspected to cause foetal harm when administered during pregnancy. Animal studies have shown reproductive toxicity (see section 5.3). of the benefits for the mother and the risk to the foetus.
+There are no data on the use of regorafenib in pregnant women. Based on its mechanism of action regorafenib is suspected to cause foetal harm when administered during pregnancy. Animal studies have shown reproductive toxicity (see section 5.3). Stivarga should not be used during pregnancy unless clearly necessary and after careful consideration of the benefits for the mother and the risk to the foetus.
 
 ## Breast-feeding
 
 It is unknown whether regorafenib or its metabolites are excreted in human milk. In rats, regorafenib or its metabolites are excreted in milk. A risk to the breast-fed child cannot be excluded. Regorafenib could harm infant growth and development (see section 5.3). Breast-feeding must be discontinued during treatment with Stivarga .
 
 ## Fertility
-
-<div style=\"page-break-after: always\"></div>
 
 There are no data on the effect of Stivarga on human fertility. Results from animal studies indicate that regorafenib can impair male and female fertility (see section 5.3).
 
@@ -303,49 +299,49 @@ The overall safety profile of Stivarga is based on data from more than 4,800 tre
 
 The safety profile of regorafenib in these studies was consistent with the safety results of a phase III B study conducted in 2872 patients with metastatic colorectal cancer whose disease had progressed after treatment with standard therapies.
 
+<div style=\"page-break-after: always\"></div>
+
 The most serious adverse drug reactions in patients receiving Stivarga are severe liver injury, haemorrhage, gastrointestinal perforation and infection.
 
-The most frequently observed adverse drug reactions (≥30%) in patients receiving Stivarga are pain, hand foot skin reaction, asthenia/fatigue, diarrhoea, decreased appetite and food intake, hypertension and infection.
+The most frequently observed adverse drug reactions ( ≥ 30%) in patients receiving Stivarga are pain, hand foot skin reaction, asthenia/fatigue, diarrhoea, decreased appetite and food intake, hypertension and infection.
 
 ## Tabulated list of adverse reactions
 
-The adverse drug reactions reported in clinical trials in patients treated with Stivarga are shown in Table 3. They are classified according to System Organ Class and the most appropriate MedDRA term is used to describe a certain reaction and its synonyms and related conditions.
-
-Adverse drug reactions are grouped according to their frequencies. Frequency groups are defined by the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (  1/10,000 to &lt;1/1,000) and not known (cannot be estimated from the available data).
+The adverse drug reactions reported in clinical trials in patients treated with Stivarga are shown in Table 3. They are classified according to System Organ Class and the most appropriate MedDRA term is used to describe a certain reaction and its synonyms and related conditions. Adverse drug reactions are grouped according to their frequencies. Frequency groups are defined by the following convention: very common ( ≥ 1/10); common ( ≥1/100 to &lt;1/10); uncommon ( ≥1/1,000 to &lt;1/100); rare ( ≥ 1/10,000 to &lt;1/1,000) and not known (cannot be estimated from the available data).
 
 Within each frequency group, undesirable effects are presented in order of decreasing seriousness.
 
 Table 3: Adverse drug reactions (ADRs) reported in clinical trials and postmarketing in patients treated with Stivarga
 
-| System Organ Class (MedDRA)                                              | Very common   | Common   | Uncommo n   | Rare                                                   | Not known   |
-|--------------------------------------------------------------------------|---------------|----------|-------------|--------------------------------------------------------|-------------|
-| Infections and infestations                                              | Infection *   |          |             |                                                        |             |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |               |          |             | Keratoacan- thoma/ Squamous cell carcinoma of the skin |             |
+| System Organ Class (MedDRA)                                              | Very common                | Common           | Uncommon                    | Rare                                                   | Not known   |
+|--------------------------------------------------------------------------|----------------------------|------------------|-----------------------------|--------------------------------------------------------|-------------|
+| Infections and infestations                                              | Infection *                |                  |                             |                                                        |             |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |                            |                  |                             | Keratoacan- thoma/ Squamous cell carcinoma of the skin |             |
+| Blood and lymphatic system disorders                                     | Thrombo- cytopenia Anaemia | Leucopenia       |                             | Thrombotic microangiop athy                            |             |
+| Immune system disorders                                                  |                            |                  | Hypersensiti- vity reaction |                                                        |             |
+| Endocrine disorders                                                      |                            | Hypo- thyroidism |                             |                                                        |             |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class (MedDRA)                     | Very common                                       | Common                                                                                                                             | Uncommo n                                                               | Rare                                                  | Not known                        |
-|-------------------------------------------------|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------|
-| Blood and lymphatic system disorders            | Thrombo- cytopenia Anaemia                        | Leucopenia                                                                                                                         |                                                                         | Thrombotic microangiop athy                           |                                  |
-| Immune system disorders                         |                                                   |                                                                                                                                    | Hypersensiti- vity reaction                                             |                                                       |                                  |
-| Endocrine disorders                             |                                                   | Hypo- thyroidism                                                                                                                   |                                                                         |                                                       |                                  |
-| Metabolism and nutrition disorders              | Decreased appetite and food intake                | Hypo- kalaemia Hypophos- phatemia Hypo- calcaemia Hypo- natraemia Hypomag- nesaemia Hyperuri- caemia Dehy- dration Headache Tremor |                                                                         |                                                       |                                  |
-| Nervous system disorders                        |                                                   | Peripheral neuropathy                                                                                                              |                                                                         | Posterior reversible encephalo- pathy syndrome (PRES) | Hyperammon aemic encephalopat hy |
-| Cardiac disorders                               |                                                   |                                                                                                                                    | Myocardial infarction Myocardial ischaemia                              |                                                       |                                  |
-| Vascular disorders                              | Haemorrhage* Hypertension                         |                                                                                                                                    | Hypertensive crisis                                                     |                                                       | Aneurysms and artery dissections |
-| Respiratory, thoracic and mediastinal disorders | Dysphonia                                         |                                                                                                                                    |                                                                         |                                                       |                                  |
-| Gastro- intestinal disorders                    | Diarrhoea Stomatitis Vomiting Nausea Constipation | Taste disorders Dry mouth Gastro- oesopha- geal reflux Gastro- enteritis                                                           | Gastro- intestinal perforation* Gastro- intestinal fistula Pancreatitis |                                                       |                                  |
+| System Organ Class (MedDRA)                     | Very common                                       | Common                                                                                                             | Uncommon                                                                | Rare                                                  | Not known                        |
+|-------------------------------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------|
+| Metabolism and nutrition disorders              | Decreased appetite and food intake                | Hypo- kalaemia Hypophos- phatemia Hypo- calcaemia Hypo- natraemia Hypomag- nesaemia Hyperuri- caemia Dehy- dration |                                                                         |                                                       |                                  |
+| Nervous system disorders                        |                                                   | Headache Tremor Peripheral neuropathy                                                                              |                                                                         | Posterior reversible encephalo- pathy syndrome (PRES) | Hyperammon aemic encephalopat hy |
+| Cardiac disorders                               |                                                   |                                                                                                                    | Myocardial infarction Myocardial ischaemia                              |                                                       |                                  |
+| Vascular disorders                              | Haemorrhage* Hypertension                         |                                                                                                                    | Hypertensive crisis                                                     |                                                       | Aneurysms and artery dissections |
+| Respiratory, thoracic and mediastinal disorders | Dysphonia                                         |                                                                                                                    |                                                                         |                                                       |                                  |
+| Gastro- intestinal disorders                    | Diarrhoea Stomatitis Vomiting Nausea Constipation | Taste disorders Dry mouth Gastro- oesopha- geal reflux Gastro- enteritis                                           | Gastro- intestinal perforation* Gastro- intestinal fistula Pancreatitis |                                                       |                                  |
+| Hepatobiliary disorders                         | Hyper- bilirubinaemia Increase in transaminases   |                                                                                                                    | Severe liver injury (including hepatic failure)* #                      |                                                       |                                  |
+| Skin and subcutaneous tissue disorders          | Hand-foot skin reaction** Rash                    | Alopecia Dry skin Exfoliative rash                                                                                 | Nail disorder Erythema multiforme                                       | Stevens- Johnson syndrome Toxic epidermal necrolysis  |                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class (MedDRA)                          | Very common                                          | Common                                                                           | Uncommo n                                          | Rare                                                 | Not known   |
-|------------------------------------------------------|------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------|------------------------------------------------------|-------------|
-| Hepatobiliary disorders                              | Hyper- bilirubinaemia Increase in transaminases      |                                                                                  | Severe liver injury (including hepatic failure)* # |                                                      |             |
-| Skin and subcutaneous tissue disorders               | Hand-foot skin reaction** Rash                       | Alopecia Dry skin Exfoliative rash                                               | Nail disorder Erythema multiforme                  | Stevens- Johnson syndrome Toxic epidermal necrolysis |             |
-| Musculo- skeletal and connective tissue disorders    |                                                      | Muscle spasms                                                                    |                                                    |                                                      |             |
-| Renal and urinary disorders                          |                                                      | Proteinuria                                                                      |                                                    |                                                      |             |
-| General disorders and administration site conditions | Asthenia/ fatigue Pain*** Fever Mucosal inflammation |                                                                                  |                                                    |                                                      |             |
-| Investigations                                       | Weight loss                                          | Increase in amylase Increase in lipase Abnormal Inter- national normalised ratio |                                                    |                                                      |             |
+| System Organ Class (MedDRA)                          | Very common                                          | Common                                                                           | Uncommon   | Rare   | Not known   |
+|------------------------------------------------------|------------------------------------------------------|----------------------------------------------------------------------------------|------------|--------|-------------|
+| Musculo- skeletal and connective tissue disorders    |                                                      | Muscle spasms                                                                    |            |        |             |
+| Renal and urinary disorders                          |                                                      | Proteinuria                                                                      |            |        |             |
+| General disorders and administration site conditions | Asthenia/ fatigue Pain*** Fever Mucosal inflammation |                                                                                  |            |        |             |
+| Investigations                                       | Weight loss                                          | Increase in amylase Increase in lipase Abnormal Inter- national normalised ratio |            |        |             |
 
 *   fatal cases have been reported
 
@@ -359,15 +355,15 @@ Table 3: Adverse drug reactions (ADRs) reported in clinical trials and postmarke
 
 In most cases of severe liver injury, liver dysfunction had an onset within the first 2 months of therapy, and was characterized by a hepatocellular pattern of injury with transaminase elevations &gt;20xULN, followed by bilirubin increase. In clinical trials, a higher incidence of severe liver injury with fatal outcome was observed in Japanese patients (~1.5%) treated with Stivarga, compared with nonJapanese patients (&lt;0.1%).
 
-In the placebo-controlled phase III trials, the overall incidence of haemorrhage was 18.2% in patients treated with Stivarga and 9.5% in patients receiving placebo. Most cases of bleeding events in patients treated with Stivarga were mild to moderate in severity (Grades 1 and 2: 15.2%), most notably
-
-<div style=\"page-break-after: always\"></div>
-
-epistaxis (6.1%). Fatal outcome in patients treated with Stivarga was uncommon (0.7%), and included cerebral, respiratory, gastrointestinal and genitourinary events.
+In the placebo-controlled phase III trials, the overall incidence of haemorrhage was 18.2% in patients treated with Stivarga and 9.5% in patients receiving placebo. Most cases of bleeding events in patients treated with Stivarga were mild to moderate in severity (Grades 1 and 2: 15.2%), most notably epistaxis (6.1%). Fatal outcome in patients treated with Stivarga was uncommon (0.7%), and included cerebral, respiratory, gastrointestinal and genitourinary events.
 
 In the placebo-controlled phase III trials, infections were more often observed in patients treated with Stivarga, compared to patients receiving placebo (all grades: 31.6% vs. 17.2%). Most infections in patients treated with Stivarga were mild to moderate in severity (Grades 1 and 2: 23.0%), and included urinary tract infections (5.7%), nasopharyngitis (4.0%), mucocutaneous and systemic fungal infections (3.3%) as well as pneumonia (2.6%).  Fatal outcomes associated with infection were observed more often in patients treated with Stivarga (1.0%), compared to patients receiving placebo (0.3%), and were mainly respiratory events.
 
-In the placebo-controlled phase III trials, the overall incidence of hand-foot skin reaction was higher in patients treated with Stivarga, compared to patients receiving placebo (all grades: 51.4% vs. 6.5% CRC, 66.7% vs. 15.2% GIST and 51.6% vs.7.3% HCC). Most cases of hand-foot skin reaction in patients treated with Stivarga appeared during the first cycle of treatment and were mild to moderate in severity (Grades 1 and 2: 34.3%%, CRC, 44.7%, GIST and 39.3%, HCC). The incidence of Grade 3 hand-foot skin reaction was 17.1% (CRC), 22.0% (GIST) and 12.3% (HCC). The overall incidence of hand-foot skin reaction (74.8%, CRC, 88.2%, GIST and 67.1%, HCC) was higher in Stivarga-treated Asian patients, compared to other ethnicities. The incidence of Grade 3 hand-foot skin reaction in Asians was 20.5% (CRC), 23.5% (GIST) and 13.5% (HCC) (see sections 4.2 and 4.4).
+In the placebo-controlled phase III trials, the overall incidence of hand-foot skin reaction was higher in patients treated with Stivarga, compared to patients receiving placebo (all grades: 51.4% vs. 6.5% CRC, 66.7% vs. 15.2% GIST and 51.6% vs.7.3% HCC). Most cases of hand-foot skin reaction in patients treated with Stivarga appeared during the first cycle of treatment and were mild to moderate in severity (Grades 1 and 2: 34.3%%, CRC, 44.7%, GIST and 39.3%, HCC). The incidence of Grade 3
+
+<div style=\"page-break-after: always\"></div>
+
+hand-foot skin reaction was 17.1% (CRC), 22.0% (GIST) and 12.3% (HCC). The overall incidence of hand-foot skin reaction (74.8%, CRC, 88.2%, GIST and 67.1%, HCC) was higher in Stivarga-treated Asian patients, compared to other ethnicities. The incidence of Grade 3 hand-foot skin reaction in Asians was 20.5% (CRC), 23.5% (GIST) and 13.5% (HCC) (see sections 4.2 and 4.4).
 
 In the placebo-controlled phase III trials, the overall incidence of hypertension was higher in patients treated with Stivarga, compared to patients receiving placebo (29.6% vs. 7.5% CRC, 60.6% vs. 25.8% GIST and 31.0% vs. 6.2% HCC). Most cases of hypertension in patients treated with Stivarga appeared during the first cycle of treatment and were mild to moderate in severity (Grades 1 and 2: 20.9%, CRC,  31.8%, GIST and 15.8% HCC). The incidence of Grade 3 hypertension was 8.7% (CRC), 28.0% (GIST) and 15.2% (HCC). One case of Grade 4 hypertension was reported in the GIST trial.
 
@@ -390,7 +386,7 @@ Table 4: Treatment-emergent laboratory test abnormalities reported in placebo-co
 |                                      | All Grades%                | All Grades%              | Grade 3/4%                 | Grade 3/4%               | All Grades%                | All Grades%              | Grade 3/4%                | Grade 3/4%               | All Grades%                | All Grades%              | Grade 3/4%                 | Grade 3/4%               |
 | Blood and lymphatic system disorders |                            |                          |                            |                          |                            |                          |                           |                          |                            |                          |                            |                          |
 | Haemoglobin                          | 78.5                       | 66.3                     | 5.3                        | 2.8                      | 75.0                       | 72.7                     | 3.0                       | 1.5                      | 72.5                       | 71.3                     | 6.0                        | 4.8                      |
-| Thrombocytopenia                     | 40.5                       | 16.8                     | 2.8                        | 0.4                      | 12.9                       | 1.5                      | 0.8                       | 1.5                      | 63.1                       | 50.0                     | 5.4                        | 0                        |
+| decreased Thrombocytopenia           | 40.5                       | 16.8                     | 2.8                        | 0.4                      | 12.9                       | 1.5                      | 0.8                       | 1.5                      | 63.1                       | 50.0                     | 5.4                        | 0                        |
 | Neutropenia                          | 2.8                        | 0                        | 0.6                        | 0                        | 15.9                       | 12.1                     | 3.1                       | 3.0                      | 13.6                       | 14.9                     | 3.0                        | 1.0                      |
 | Lymphopenia                          | 54.1                       | 34.8                     | 9.3                        | 4.0                      | 29.9                       | 24.2                     | 7.6                       | 3.0                      | 67.8                       | 58.5                     | 17.4                       | 11.7                     |
 | Metabolism and nutrition disorders   |                            |                          |                            |                          |                            |                          |                           |                          |                            |                          |                            |                          |
@@ -407,8 +403,6 @@ Table 4: Treatment-emergent laboratory test abnormalities reported in placebo-co
 | Increased INR*                       | 23.7                       | 16.6                     | 4.2                        | 1.6                      | 9.3                        | 12.5                     | 1.6                       | 4.7                      | 44.4                       | 35.4                     | 0.7                        | 2.1                      |
 | Increased Lipase                     | 46.0                       | 18.7                     | 11.4                       | 4.4                      | 14.4                       | 4.6                      | 0.8                       | 0                        | 40.5                       | 27.0                     | 14.2                       | 8.7                      |
 | Increased Amylase                    | 25.5                       | 16.7                     | 2.6                        | 2.4                      | -                          | -                        | -                         | -                        | 23.0                       | 19.0                     | 2.8                        | 2.7                      |
-
-BSC = Best Supportive Care
 
 <div style=\"page-break-after: always\"></div>
 
@@ -441,11 +435,13 @@ There is no specific antidote for Stivarga overdose. In the event of suspected o
 
 Pharmacotherapeutic group: Antineoplastic agents, protein kinase inhibitor; ATC Code: L01EX05
 
-<div style=\"page-break-after: always\"></div>
-
 ## Mechanism of action and pharmacodynamic effects
 
-Regorafenib is an oral tumour deactivation agent that potently blocks multiple protein kinases, including kinases involved in tumour angiogenesis (VEGFR1, -2, -3, TIE2), oncogenesis (KIT, RET, RAF-1, BRAF, BRAF V600E ), metastasis (VEGFR3, PDGFR, FGFR) and tumour immunity (CSF1R). In particular, regorafenib inhibits mutated KIT, a major oncogenic driver in gastrointestinal stromal tumours, and thereby blocks tumour cell proliferation. In preclinical studies regorafenib has demonstrated potent antitumour activity in a broad spectrum of tumour models including colorectal, gastrointestinal stromal and hepatocellular tumour models which is likely mediated by its anti-angiogenic and anti-proliferative effects. In addition, regorafenib reduced the levels of tumour associated macrophages and has shown anti-metastatic effects in vivo . Major human metabolites (M-2 and M-5) exhibited similar efficacies, compared to regorafenib in in vitro and in vivo models.
+Regorafenib is an oral tumour deactivation agent that potently blocks multiple protein kinases, including kinases involved in tumour angiogenesis (VEGFR1, -2, -3, TIE2), oncogenesis (KIT, RET,
+
+<div style=\"page-break-after: always\"></div>
+
+RAF-1, BRAF, BRAF V600E ), metastasis (VEGFR3, PDGFR, FGFR) and tumour immunity (CSF1R). In particular, regorafenib inhibits mutated KIT, a major oncogenic driver in gastrointestinal stromal tumours, and thereby blocks tumour cell proliferation. In preclinical studies regorafenib has demonstrated potent antitumour activity in a broad spectrum of tumour models including colorectal, gastrointestinal stromal and hepatocellular tumour models which is likely mediated by its anti-angiogenic and anti-proliferative effects. In addition, regorafenib reduced the levels of tumour associated macrophages and has shown anti-metastatic effects in vivo . Major human metabolites (M-2 and M-5) exhibited similar efficacies, compared to regorafenib in in vitro and in vivo models.
 
 ## Clinical efficacy and safety
 
@@ -465,9 +461,9 @@ Most patients (52%) received 3 or fewer previous lines of treatment for metastat
 
 The addition of Stivarga to BSC resulted in significantly longer survival, compared to placebo plus BSC with a p value of 0.005178 from stratified log rank test, a hazard ratio of 0.774 [95% CI 0.636, 0.942] ) and a median OS of 6.4 months vs. 5.0 months (see Table 5 and Figure 1). PFS was significantly longer in patients receiving Stivarga plus BSC (hazard ratio: 0.494, p&lt;0.000001, see Table 5). The response rate (complete response or partial response) was 1% and 0.4% for Stivarga and placebo treated patients, respectively (p=0.188432, 1-sided). The DCR (complete response or partial response or stable disease) was significantly higher in patients treated with Stivarga (41.0% vs. 14.9%, p&lt;0.000001, 1 sided).
 
-<div style=\"page-break-after: always\"></div>
+## Table 5: Efficacy results from the CORRECT study
 
-Table 5: Efficacy results from the CORRECT study
+<div style=\"page-break-after: always\"></div>
 
 | Efficacy   | Hazard ratio*        | P-value     | Median (95% CI)             | Median (95% CI)            |
 |------------|----------------------|-------------|-----------------------------|----------------------------|
@@ -479,15 +475,15 @@ Figure 1: Kaplan-Meier curve of OS
 
 <!-- image -->
 
-Subgroup analyses for OS and PFS according to age (&lt;65; ≥65), gender, ECOG PS, primary site of disease, time from first diagnosis of metastatic disease, prior anticancer treatment, prior treatment lines for metastatic disease, and KRAS mutation status showed a treatment effect favouring the regorafenib regimen over the placebo regimen.
+Subgroup analyses for OS and PFS a ccording to age (&lt;65; ≥65), gender, ECOG PS, primary site of disease, time from first diagnosis of metastatic disease, prior anticancer treatment, prior treatment lines for metastatic disease, and KRAS mutation status showed a treatment effect favouring the regorafenib regimen over the placebo regimen.
 
 Subgroup analysis results by historical KRAS mutational status showed a treatment effect for OS in favour of regorafenib over placebo for patients with KRAS wild-type tumours whereas a numerically lower effect was reported in patients with KRAS mutant tumours; the treatment effect for PFS favouring regorafenib was observed regardless of KRAS mutational status. The hazard ratio (95% CI) of OS was 0.653 (0.476 to 0.895) for patients with KRAS wild-type tumours and 0.867 (0.670 to 1.123) for patients with KRAS mutant tumours, with no evidence of heterogeneity in treatment effect (non-significant interaction test). The hazard ratio (95% CI) of PFS was 0.475 (0.362 to 0.623) for patients with KRAS wild-type tumours and 0.525 (0.425 to 0.649) for patients with KRAS mutant tumours.
 
-A second phase III, international, multi-centre, randomised, double blind, placebo-controlled study (CONCUR) evaluated the efficacy and safety of Stivarga in 204 pre-treated Asian patients (&gt; 90% East Asian) with metastatic colorectal cancer who have progressed after failure of fluoropyrimidinebased chemotherapy. Only 59.5 % of patients enrolled in the CONCUR study were also previously
+A second phase III, international, multi-centre, randomised, double blind, placebo-controlled study (CONCUR) evaluated the efficacy and safety of Stivarga in 204 pre-treated Asian patients (&gt; 90% East Asian) with metastatic colorectal cancer who have progressed after failure of fluoropyrimidinebased chemotherapy. Only 59.5 % of patients enrolled in the CONCUR study were also previously treated with VEGF- or EGFR-targeted agents. The primary efficacy endpoint was OS. The addition of Stivarga to BSC resulted in a significantly longer survival, compared to placebo plus BSC with a hazard ratio of 0.550 (p = 0.000159 stratified log rank test) and a median OS of 8.8 months vs. 6.3 months [95% CI 0.395, 0.765]. PFS was also significantly longer in patients receiving Stivarga plus
 
 <div style=\"page-break-after: always\"></div>
 
-treated with VEGF- or EGFR-targeted agents. The primary efficacy endpoint was OS. The addition of Stivarga to BSC resulted in a significantly longer survival, compared to placebo plus BSC with a hazard ratio of 0.550 (p = 0.000159 stratified log rank test) and a median OS of 8.8 months vs. 6.3 months [95% CI 0.395, 0.765]. PFS was also significantly longer in patients receiving Stivarga plus BSC (hazard ratio: 0.311, p&lt;0.000001), median PFS 3.2 months with Stivarga vs. 1.7 months with placebo. The safety profile of Stivarga plus BSC in the CONCUR study was consistent with the safety profile observed in the CORRECT study.
+BSC (hazard ratio: 0.311, p&lt;0.000001), median PFS 3.2 months with Stivarga vs. 1.7 months with placebo. The safety profile of Stivarga plus BSC in the CONCUR study was consistent with the safety profile observed in the CORRECT study.
 
 ## Gastrointestinal stromal tumours (GIST)
 
@@ -540,12 +536,13 @@ In total, 573 patients with HCC were randomised 2:1 to receive either 160 mg reg
 
 Demographics and baseline disease characteristics were comparable between the Stivarga- and placebo-treated groups and are shown below for all 573 randomised patients:
 
-<div style=\"page-break-after: always\"></div>
-
 - Median age: 63 years
 - Male: 88%
 - Caucasian: 36%, Asian: 41%
 - ECOG Performance Status (PS) of 0: 66% or ECOG PS of 1: 34%
+
+<div style=\"page-break-after: always\"></div>
+
 - Child-Pugh A: 98%, Child-Pugh B: 2%
 - Aetiology included Hepatitis B (38%), Hepatitis C (21%), Non-Alcoholic Steato Hepatitis (NASH, 7%)
 - Absence of both macroscopic vascular invasion and extra-hepatic tumour spread: 19%
@@ -578,15 +575,15 @@ Figure 5: Kaplan-Meier curve of PFS (mRECIST)
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
 ## Paediatric population
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Stivarga in all subsets of the paediatric population in the treatment of adenocarcinoma of the colon and rectum (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with Stivarga in all subsets of the paediatric population in the treatment of adenocarcinoma of the colon and rectum, gastrointestinal stromal tumours and hepatocellular carcinoma (see section 4.2 for information on paediatric use).
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Stivarga in one or more subsets of the paediatric population in the treatment of solid malignant tumours (see section 4.2 for information on paediatric use).
+<div style=\"page-break-after: always\"></div>
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Stivarga in all subsets of the paediatric population in the treatment of hepatocellular carcinoma (see section 4.2 for information on paediatric use).
+A multicentre, randomised, controlled, open-label study (CT3 portion of the FaR-RMS study) evaluated the safety and efficacy of regorafenib in combination with vincristine and irinotecan (VIRR) compared to standard therapy vincristine, irinotecan, and temozolomide (VIRT) in patients with a first or subsequent relapses of rhabdomyosarcoma.
+
+Upon data review of 103 patients, including 84 paediatric patients from 6 months to less than 18 years old, at the first interim futility analysis, the recruitment of the study was terminated without formal evaluation of the primary endpoint of 1-year event-free survival (EFS). The futility boundary was met (EFS HR &gt;1), indicating a low probability that VIRR would achieve the protocol-defined 15% superiority over VIRT.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -610,13 +607,11 @@ Metabolites may be reduced or hydrolysed in the gastrointestinal tract by microb
 
 Following oral administration, mean elimination half-life for regorafenib and its metabolite M-2 in plasma ranges from 20 to 30 hours in different studies. The mean elimination half-life for the metabolite M-5 is approximately 60 hours (range from 40 to 100 hours).
 
-Approximately 90% of the radioactive dose was recovered within 12 days after administration, with about 71% of the dose excreted in faeces (47% as parent compound, 24% as metabolites), and about 19% of the dose excreted in urine as glucuronides. Urinary excretion of glucuronides decreased below 10% under steady-state conditions. Parent compound found in faeces could be derived from intestinal
-
-<div style=\"page-break-after: always\"></div>
-
-degradation of glucuronides or reduction of metabolite M-2 (N-oxide), as well as unabsorbed regorafenib.
+Approximately 90% of the radioactive dose was recovered within 12 days after administration, with about 71% of the dose excreted in faeces (47% as parent compound, 24% as metabolites), and about 19% of the dose excreted in urine as glucuronides. Urinary excretion of glucuronides decreased below 10% under steady-state conditions. Parent compound found in faeces could be derived from intestinal degradation of glucuronides or reduction of metabolite M-2 (N-oxide), as well as unabsorbed regorafenib.
 
 M-5 may be reduced to M-4 in the gastrointestinal tract by microbial flora, allowing reabsorption of M-4 (enterohepatic circulation). M-5 is finally excreted via M-4 as M-6 (carboxylic acid) in faeces.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Linearity/non-linearity
 
@@ -634,7 +629,9 @@ Limited data in patients with moderate hepatic impairment (Child-Pugh B) indicat
 
 Available clinical data and physiology-based pharmacokinetic modelling indicate similar steady-state exposure of regorafenib and its metabolites M-2 and M-5 in patients with mild or moderate renal impairment, compared to patients with normal renal function. In patients with severe renal impairment compared to patients with normal renal function, regorafenib exposure was similar while exposure to M-2 and M-5 was decreased by about 30% under steady-state conditions, which is not considered clinically relevant.
 
-The pharmacokinetics of regorafenib has not been studied in patients with end-stage renal disease. However, physiology-based pharmacokinetic modelling does not predict any relevant change in exposure in these patients.
+The pharmacokinetics of regorafenib has not been studied in patients with end-stage renal disease.
+
+However, physiology-based pharmacokinetic modelling does not predict any relevant change in exposure in these patients.
 
 ## Elderly
 
@@ -656,9 +653,9 @@ No QTc prolonging effects were observed after administration of 160 mg regorafen
 
 ## Systemic toxicity
 
-<div style=\"page-break-after: always\"></div>
-
 After repeated dosing to mice, rats and dogs, adverse effects were observed in a number of organs, primarily in the kidneys, liver, digestive tract, thyroid gland, lympho-/haematopoietic system, endocrine system, reproductive system and skin. A slightly increased incidence of thickening of the atrioventricular valves of the heart was seen in the 26 week repeat-dose toxicity study in rats. This may be due to acceleration of an age-related physiological process. These effects occurred at systemic exposures in the range of or below the anticipated human exposure (based on AUC comparison). Alterations of teeth and bones and adverse effects in the reproductive system were more pronounced in young and growing animals as well as in juvenile rats and indicate a potential risk for children and adolescents.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reproductive and developmental toxicity
 
@@ -686,49 +683,82 @@ Film coat Iron oxide red (E172) Iron oxide yellow (E172) Lecithin (derived from 
 
 ## 6.2 Incompatibilities
 
+Not applicable.
+
+## 6.3 Shelf life
+
+3 years.
+
+Once the bottle is opened the medicinal product has shown to be stable for 7 weeks. Thereafter, the medicinal product is to be discarded.
+
+## 6.4 Special precautions for storage
+
 <div style=\"page-break-after: always\"></div>
 
-| Not applicable.                                                                                                                           | Not applicable.                                                                                                                           |
-|-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| 6.3                                                                                                                                       | Shelf life                                                                                                                                |
-| 3 years.                                                                                                                                  | 3 years.                                                                                                                                  |
-| Once the bottle is opened the medicinal product has shown to be stable for 7 weeks. Thereafter, the medicinal product is to be discarded. | Once the bottle is opened the medicinal product has shown to be stable for 7 weeks. Thereafter, the medicinal product is to be discarded. |
-| 6.4                                                                                                                                       | Special precautions for storage                                                                                                           |
-| Store in the original package in order to protect from moisture. Keep the bottle tightly closed.                                          | Store in the original package in order to protect from moisture. Keep the bottle tightly closed.                                          |
-| 6.5                                                                                                                                       | Nature and contents of container                                                                                                          |
-| White opaque HDPE bottle closed with a PP/PP (polypropylene) screw cap with sealing insert and molecular sieve desiccant.                 | White opaque HDPE bottle closed with a PP/PP (polypropylene) screw cap with sealing insert and molecular sieve desiccant.                 |
-| Each bottle contains 28 film-coated tablets.                                                                                              | Each bottle contains 28 film-coated tablets.                                                                                              |
-| Pack sizes Pack of 28 film-coated tablets. Pack of 84 (3 bottles of 28) film-coated                                                       | Pack sizes Pack of 28 film-coated tablets. Pack of 84 (3 bottles of 28) film-coated                                                       |
-| Not all 6.6                                                                                                                               | pack sizes may be marketed. Special precautions for disposal and other handling                                                           |
-| Keep the desiccant in the bottle.                                                                                                         | Keep the desiccant in the bottle.                                                                                                         |
-| This medicinal product may pose a risk to the environment (see section 5.3).                                                              | This medicinal product may pose a risk to the environment (see section 5.3).                                                              |
-| Any unused medicinal product or waste material should be disposed of in accordance with local requirements.                               | Any unused medicinal product or waste material should be disposed of in accordance with local requirements.                               |
-| 7. Bayer                                                                                                                                  | MARKETING AUTHORISATIONHOLDER                                                                                                             |
-| AG 51368 Leverkusen Germany                                                                                                               | AG 51368 Leverkusen Germany                                                                                                               |
-| 8.                                                                                                                                        | MARKETING AUTHORISATION NUMBER(S)                                                                                                         |
-| EU/1/13/858/001 EU/1/13/858/002                                                                                                           | EU/1/13/858/001 EU/1/13/858/002                                                                                                           |
+Store in the original package in order to protect from moisture.
+
+Keep the bottle tightly closed.
+
+## 6.5 Nature and contents of container
+
+White opaque HDPE bottle closed with a PP/PP (polypropylene) screw cap with sealing insert and a molecular sieve desiccant.
+
+Each bottle contains 28 film-coated tablets.
+
+Pack sizes
+
+Pack of 28 film-coated tablets.
+
+Pack of 84 (3 bottles of 28) film-coated tablets.
+
+Not all pack sizes may be marketed.
+
+6.6
+
+Special precautions for disposal and other handling
+
+Keep the desiccant in the bottle.
+
+This medicinal product may pose a risk to the environment (see section 5.3).
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+Bayer AG
+
+51368 Leverkusen
+
+Germany
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/13/858/001
+
+EU/1/13/858/002
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 26 August 2013
 
 Date of latest renewal: 22 May 2018
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines
+
+Agency https://www.ema.europa.eu
+
+26
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -811,8 +841,6 @@ Keep the desiccant in the bottle.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in the original package in order to protect from moisture. Keep the bottle tightly closed.
@@ -847,9 +875,9 @@ stivarga 40 mg
 
 PC SN
 
-NN
-
 <div style=\"page-break-after: always\"></div>
+
+NN
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -897,38 +925,29 @@ Store in the original package in order to protect from moisture. Keep the bottle
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 | 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Bayer AG 51368 Leverkusen Germany
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/13/858/001 EU/1/13/858/002
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
-
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
-
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -993,10 +1012,10 @@ If you have any questions about how Stivarga works or why this medicine has been
 - -if you have high blood pressure Stivarga can raise your blood pressure. Your doctor will monitor your blood pressure prior to and during treatment and may give you a medicine to treat high blood pressure.
 - -if you have or have had an aneurysm (enlargement and weakening of a blood vessel wall) or a tear in a blood vessel wall .
 - -if you have or have had damage to the smallest blood vessels (thrombotic microangiopathy (TMA)). Tell your doctor if you develop fever, fatigue, tiredness, bruising, bleeding, swelling, confusion, vision loss, and seizures.
+- -if you recently had, or are going to have, a surgical procedure Stivarga might affect the way your wounds heal and treatment may need to be stopped until your wound have healed.
 
 <div style=\"page-break-after: always\"></div>
 
-- -if you recently had, or are going to have, a surgical procedure Stivarga might affect the way your wounds heal and treatment may need to be stopped until your wound have healed.
 - -if you experience skin problems Stivarga can cause redness, pain, swelling, or blisters on the palms of your hands or soles of your feet. If you notice any changes contact your doctor. To manage your symptoms, your doctor may recommend the use of creams and/or the use of shoe cushions and gloves. If you get this side effect, your doctor may change your dose or stop your treatment until your condition improves.
 
 Before you take Stivarga tell your doctor if any of these conditions apply to you. You may need treatment for them and extra tests may be done (see also section 4 'Possible side effects').
@@ -1036,11 +1055,11 @@ Avoid becoming pregnant while being treated with Stivarga , as this medicine may
 
 Both women of childbearing potential and men should use effective contraception during treatment and for at least eight weeks after completion of treatment.
 
-<div style=\"page-break-after: always\"></div>
-
 You must not breast-feed your baby during Stivarga treatment , as this medicine may interfere with the growth and development of your baby. Tell your doctor if you are breast-feeding or planning to breast-feed.
 
 Stivarga may reduce fertility in both men and women. Ask your doctor for advice before taking Stivarga.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Driving and using machines
 
@@ -1068,8 +1087,6 @@ No dosage adjustment is necessary if you have a mildly impaired liver function. 
 
 No dosage adjustment is necessary if you have a mildly, moderately or severely impaired kidney function.
 
-<div style=\"page-break-after: always\"></div>
-
 ## If you take more Stivarga than you should
 
 Tell your doctor immediately if you have taken more than your prescribed dose. You may require medical attention and your doctor may tell you to stop taking Stivarga.
@@ -1083,6 +1100,9 @@ Taking too much Stivarga may make some side effects more likely or more severe, 
 - -dry mouth
 - -decreased appetite
 - -high blood pressure ( hypertension )
+
+<div style=\"page-break-after: always\"></div>
+
 - -excessive tiredness ( fatigue ).
 
 ## If you forget to take Stivarga
@@ -1128,8 +1148,6 @@ Get medical help immediately, if you get the following symptoms:
 - -vomiting blood
 - -red or black stools.
 
-<div style=\"page-break-after: always\"></div>
-
 These may be signs of severe stomach or bowel problems.
 
 ## Infection
@@ -1146,9 +1164,11 @@ Treatment with Stivarga may lead to a higher risk of infections, especially of t
 
 These may be signs of an infection.
 
-Other side effects with Stivarga listed by frequency:
+<div style=\"page-break-after: always\"></div>
 
-Very common side effects (may affect more than 1 in 10 users)
+## Other side effects with Stivarga listed by frequency:
+
+## Very common side effects (may affect more than 1 in 10 users)
 
 - -reduction in the number of blood platelets, characterised by easy bruising or bleeding ( thrombocytopenia )
 - -reduction in the number of red blood cells ( anaemia )
@@ -1169,7 +1189,7 @@ Very common side effects (may affect more than 1 in 10 users)
 - -fever
 - -weight loss.
 
-Common side effects (may affect up to 1 in 10 users)
+## Common side effects (may affect up to 1 in 10 users)
 
 - -reduction in the number of white blood cells ( leucopenia )
 - -decreased activity of the thyroid gland ( hypothyroidism )
@@ -1179,9 +1199,6 @@ Common side effects (may affect up to 1 in 10 users)
 - -headache
 - -shaking ( tremor )
 - -disorder of the nerves which can cause a change in sensation, such as numbness, tingling, weakness or pain ( peripheral neuropathy )
-
-<div style=\"page-break-after: always\"></div>
-
 - -taste disorders
 - -dry mouth
 - -heartburn ( gastro-oesophageal reflux )
@@ -1198,19 +1215,22 @@ Common side effects (may affect up to 1 in 10 users)
 
 - -signs/symptoms of an allergic reaction which may include widespread severe rash, feeling sick, fever, breathlessness, jaundice, changes in chemicals produced by the liver ( hypersensitivity reaction )
 - -heart attack, chest pain ( myocardial infarction and ischaemia )
+
+<div style=\"page-break-after: always\"></div>
+
 - -severely elevated blood pressure causing headache, confusion, blurry vision, nausea, vomiting, and fits ( hypertensive crisis )
 - -inflammation of the pancreas characterized by pain in the area of the stomach, nausea, vomiting, and fever (pancreatitis)
 - -nail disorder (changes to the nail such as ridges and/or splitting)
 - -multiple skin eruptions ( erythema multiforme ).
 
-## Rare side effects (may affect up to 1 in 1,000 users)
+Rare side effects (may affect up to 1 in 1,000 users)
 
 - -blood clots in small blood vessels (thrombotic microangiopathy)
 - -certain skin cancers ( keratoacanthoma/squamous cell carcinoma of the skin )
 - -headache, confusion, seizures and visual loss associated with or without high blood pressure ( posterior reversible encephalopathy syndrome/PRES)
 - -serious reactions of the skin and/or mucous membranes which may include painful blisters and fever, including extensive detachment of the skin ( Stevens-Johnson syndrome and toxic epidermal necrolysis ).
 
-## Not known (frequency cannot be estimated from the available data)
+Not known (frequency cannot be estimated from the available data)
 
 - -an enlargement and weakening of a blood vessel wall or a tear in a blood vessel wall ( aneurysms and artery dissections ).
 - -lack of energy, confusion, sleepiness, trembling, impaired consciousness - these symptoms may be signs of brain toxicity caused by high blood levels of ammonia ( hyperammonaemic encephalopathy ).
@@ -1223,8 +1243,6 @@ If you get any side effects , talk to your doctor or pharmacist. This includes a
 
 Keep this medicine out of the sight and reach of children.
 
-<div style=\"page-break-after: always\"></div>
-
 Do not use this medicine after the expiry date which is stated on the carton and the bottle label after EXP. The expiry date refers to the last day of that month.
 
 Store in the original package in order to protect from moisture.
@@ -1234,6 +1252,8 @@ Keep the bottle tightly closed.
 Once the bottle is opened the medicine is to be discarded after 7 weeks.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
@@ -1276,7 +1296,7 @@ Tél/Tel: +32-(0)2-535 63 11
 
 Байер България ЕООД
 
-Тел. +359-(0)2-424 72 80
+Тел. +359 -(0)2-424 72 80
 
 ## Česká republika
 
@@ -1292,9 +1312,7 @@ Tlf: +45-45 23 50 00
 
 ## Deutschland
 
-Bayer Vital GmbH
-
-Tel: +49-(0)214-30 513 48
+Bayer Vital GmbH Tel: +49-(0)214-30 513 48
 
 ## Eesti
 
@@ -1358,6 +1376,10 @@ Tel: +371 67 84 55 63
 
 ## This leaflet was last revised in
 
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency (EMA) website: https://www.ema.europa.eu
+
 ## Lietuva
 
 UAB Bayer
@@ -1366,7 +1388,9 @@ Tel. +370 5 23 36 868
 
 ## Luxembourg / Luxemburg
 
-Bayer SA-NV Tél/Tel: +32-(0)2-535 63 11
+Bayer SA-NV
+
+Tél/Tel: +32-(0)2-535 63 11
 
 ## Magyarország
 
@@ -1388,7 +1412,9 @@ Tel: +31-(0)23 799 1000
 
 ## Norge
 
-Bayer AS Tlf. +47 23 13 05 00
+Bayer AS
+
+Tlf. +47 23 13 05 00
 
 ## Österreich
 
@@ -1437,9 +1463,3 @@ Puh/Tel: +358-20 785 21
 Bayer AB
 
 Tel: +46-(0)8-580 223 00
-
-<div style=\"page-break-after: always\"></div>
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency (EMA) website: https://www.ema.europa.eu

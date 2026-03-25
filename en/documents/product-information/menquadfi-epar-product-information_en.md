@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-04 18:16:33
+document_datetime: 2026-03-24 14:37:48
 document_pages: 47
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/menquadfi-epar-product-information_en.pdf
 document_name: menquadfi-epar-product-information_en.pdf
 version: success
-processing_time: 26.2460136
-conversion_datetime: 2025-12-17 09:35:12.793244
+processing_time: 26.7782235
+conversion_datetime: 2026-03-25 12:26:37.604557
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.0
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -347,10 +347,6 @@ Table 3: Comparison of bactericidal antibody responses to MenQuadfi and MenACWY-
 | %Seroresponse              | 81.9 (77.0; 86.1)          | 79.1 (74.0; 83.5)           | 84.8 (81.3; 87.9)                                   | 78.9 (74.6; 82.9)                                    |
 | hSBA GMT                   | 38.0 (33.0; 43.9)          | 32.2 (28.0; 37.0)           | 41.7 (37.5; 46.5)                                   | 31.9 (28.4; 36.0)                                    |
 
-* Clinical trial identifier NCT02955797
-
-N: number of subjects in the per-protocol analysis set with valid serology results. The number of subjects varies depending on the timepoints and serogroup.
-
 95% CI of the single proportion calculated from the exact binomial method.
 
 ** Non-inferiority criterion met
@@ -382,12 +378,6 @@ Table 4: Comparison of hSBA and rSBA bactericidal antibody responses for serogro
 | % ≥ 1:8 (Seroprotection) | 99.5 # § (97.4; 100) | 89.1 (84.1; 93.0)      | 99.5 (97.4; 100)    | 100 ¶ (98.3; 100)      | 94.8 (90.8; 97.4)      | 100 (98.3; 100)      |
 | %Seroresponse            | 99.5 (97.4; 100)     | 83.4 (77.7; 88.2)      | 99.1 (96.7; 99.9)   | 99.5 (97.4; 100)       | 92.9 (88.5; 95.9)      | 99.5 (97.4; 100)     |
 | GMTs                     | 515 $ (450; 591)     | 31.6 ( 26.5; 37.6)     | 227 (198; 260)      | 2 143 ¥ (1 870; 2 456) | 315 (252; 395)         | 1 624 (1 425; 1 850) |
-
-* Clinical trial identifier NCT03890367
-
-# superiority of MenQuadfi demonstrated versus MenACWY-TT (hSBA seroprotection rates)
-
-§ non inferiority of MenQuadfi demonstrated versus MenC-TT (hSBA seroprotection rates)
 
 $ superiority of MenQuadfi demonstrated versus MenACWY-TT and MenC-TT (hSBA GMTs)
 
@@ -429,10 +419,6 @@ Table 5: Comparison of bactericidal antibody responses to MenQuadfi and MenACWY-
 | %Seroresponse            | 88.2 (83.3; 92.1)  | 77.0 (70.9; 82.4)    | 94.8 (91.0; 97.3)  | 81.4 (75.9; 86.2)    |
 | hSBA GMT                 | 49.8 (43.0; 57.6)  | 36.1 (29.2; 44.7)    | 95.1 (80.2; 113)   | 51.8 (42.5; 63.2)    |
 
-* Clinical trial identifier NCT03077438
-
-N: number of subjects in the per-protocol analysis set with valid serology results. The number of subjects varies depending on the timepoints and serogroup.
-
 95% CI of the single proportion calculated from the exact binomial method.
 
 Immunogenicity in children and adolescents 10 through 17 years of age
@@ -465,16 +451,6 @@ Table 6: Comparison of bactericidal antibody responses to MenQuadfi and MenACWY-
 | % ≥ 1:8 (Seroprotection) | 97.2                 | (95.2; 98.5)         | 83.2                   | (79.5; 86.5)           |
 | %Seroresponse**#         | 97.0                 | (95.0; 98.3)         | 80.8                   | (76.9; 84.3)           |
 | hSBA GMT                 | 75.7                 | (66.2; 86.5)         | 27.6                   | (23.8; 32.1)           |
-
-* Clinical trial identifier NCT02199691
-
-N: number of subjects in the per-protocol analysis set with valid serology results.
-
-95% CI of the single proportion calculated from the exact binomial method.
-
-** Post-vaccination hSBA titres ≥ 1:8 for subjects with pre-vaccination hSBA titres &lt; 1:8 or at least a 4fold increase in hSBA titres from pre- to post-vaccination for subjects with pre-vaccination hSBA titres ≥ 1:8
-
-# Non-inferiority criterion met.
 
 Study MET43 was performed to evaluate the immunogenicity of MenQuadfi compared to MenACWY-DT in children, adolescents and adults (10 through 55 years of age).
 
@@ -575,8 +551,6 @@ Table 9: Comparison of bactericidal antibody responses to MenQuadfi and MenACWY-
 | %Seroresponse**          | 88.1                 | (86.3; 89.8)         | 60.8                  | (54.9; 66.4)          |
 | hSBA GMT                 | 219                  | (200; 239)           | 54.6                  | (42.3; 70.5)          |
 
-* Clinical trial identifier NCT02842853
-
 N: number of subjects in the per-protocol analysis set with valid serology results. The number of subjects varies depending on the timepoints and serogroup.
 
 95% CI of the single proportion calculated from the exact binomial method.
@@ -609,8 +583,6 @@ Table 10: Comparison of bactericidal antibody responses to MenQuadfi and MenACWY
 | % ≥ 1:8 (Seroprotection) | 91.7                 | (88.7; 94.1)         | 67.7                              | (63.1; 72.1)                      |
 | %Seroresponse**          | 74.4                 | (70.0; 78.4)         | 43.4                              | (38.7; 48.2)                      |
 | hSBA GMT                 | 69.1                 | (58.7; 81.4)         | 21.0                              | (17.4; 25.3)                      |
-
-* Clinical trial identifier NCT02842866
 
 N: number of subjects in the per-protocol analysis set with valid serology results.
 
@@ -702,14 +674,6 @@ Table 12: Comparison of bactericidal antibody response 30 days after booster vac
 | % ≥ 1:8 (Seroprotection) | 92.3 (87.8; 95.5)                                | 68.8 (62.0; 75.0)                                    | 100 (95.9; 100)                                  |
 | %Seroresponse            | -                                                | -                                                    | 98.9 (93.8; 100)                                 |
 | hSBA GMT                 | 41.6 (35.0; 49.6)                                | 12.7 (10.5; 15.4)                                    | 3 727 (2 908; 4 776)                             |
-
-*Clinical trial identifier MET51 - NCT02955797. The trial was conducted in toddlers 12-23 months old.
-
-**Clinical trial identifier MEQ00073 - NCT04936685
-
-# N calculated using full analysis set for persistence (FASP) with valid serology results; D30 post-primary dose = D30 MET51, 5Y Post-primary dose (D0 pre-booster dose)=D0 MEQ00073.
-
-$  N  calculated  using  per  protocol  analysis  set  (PPAS1)  with  valid  serology  results;  Booster  =  D30 MEQ00073 5 years after primary vaccination in MET51.
 
 Vaccine seroresponse: titre is &lt; 1:8 at baseline with post-vaccination titre ≥ 1:16 or titre is ≥ 1:8 at baseline with a ≥ 4-fold increase at post-vaccination.
 
@@ -861,10 +825,6 @@ Table 15: Comparison of bactericidal antibody persistence in adults ( ≥ 59 yea
 | % ≥ 1:8 (Seroprotection) | 81.0 (68.6; 90.1)                | 59.3 (45.7; 71.9)               | 73.1 (52.2; 88.4)                | 46.2 (26.6; 66.6)               |
 | GMT                      | 45.8 (26.9; 78.0)                | 11.2 (7.24; 17.5)               | 25.9 (12.4; 53.8)                | 7.19 (4.09; 12.6)               |
 
-^Clinical trial identifier: NCT01732627
-
-# Clinical trial identifier: NCT04142242
-
 N: number of subjects in full analysis set for persistence (FASP) with valid serology results.
 
 $ Post primary dose=D30 of MET44
@@ -903,8 +863,6 @@ Table 16: Comparison of bactericidal antibody responses to MenQuadfi and MenACWY
 | % ≥ 1:8 (Seroprotection) | 99.7                 | (98.6; 100.0)        | 99.5                  | (98.2; 99.9)          |
 | %Seroresponse**          | 97.4                 | (95.3; 98.7)         | 95.6                  | (93.1; 97.4)          |
 | hSBA GMT                 | 2 070                | (1 807; 2 371)       | 811                   | (699; 941)            |
-
-* Clinical trial identifier NCT02752906
 
 N: number of subjects in the per-protocol analysis set with valid serology results. 95% CI of the single proportion calculated from the exact binomial method.
 
@@ -984,7 +942,9 @@ EU/1/20/1483/001 EU/1/20/1483/002 EU/1/20/1483/003 EU/1/20/1483/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 18 November 2020 Date of latest renewal:
+Date of first authorisation: 18 November 2020
+
+Date of latest renewal: 02 July 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1005,7 +965,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer of the biological active substance(s)
 
-Sanofi Pasteur Inc. One Discovery Drive Swiftwater PA 18370 United States
+Sanofi Vaccines US Inc. One Discovery Drive Swiftwater PA 18370 United States
 
 ## Name and address of the manufacturers responsible for batch release
 
@@ -1019,13 +979,13 @@ The printed package leaflet of the medicinal product must state the name and add
 
 Medicinal product subject to medical prescription.
 
-##  Official batch release
+## · Official batch release
 
 In accordance with Article 114 of Directive 2001/83/EC, the official batch release will be undertaken by a state laboratory or a laboratory designated for that purpose.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -1033,14 +993,14 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1175,8 +1135,7 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 1 dose (0.5 mL)
 
@@ -1197,10 +1156,10 @@ Meningococcal group A, C, W and Y conjugate vaccine
 
 Read all of this leaflet carefully before you or your child are given this vaccine because it contains important information for you or your child.
 
--  Keep this leaflet. You may need to read it again.
--  If you have any further questions, ask your doctor, pharmacist or nurse.
--  This vaccine has been prescribed for you or your child only. Do not pass it on to others
--  If you or your child get any side effects, talk to your doctor, pharmacist, or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- Keep this leaflet. You may need to read it again.
+- This vaccine has been prescribed for you or your child only. Do not pass it on to others
+- If you or your child get any side effects, talk to your doctor, pharmacist, or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1219,8 +1178,8 @@ MenQuadfi helps to protect against infections caused by a type of bacteria (germ
 
 Neisseria meningitidis bacteria (also called meningococci) can be passed from person to person and can cause serious and sometimes life-threatening infections, such as:
 
--  Meningitis - an inflammation of the tissues that surround the brain and spinal cord;
--  Septicaemia - an infection of the blood.
+- Septicaemia - an infection of the blood.
+- Meningitis - an inflammation of the tissues that surround the brain and spinal cord;
 
 Both infections can result in serious disease with long lasting effects or possibly death.
 
@@ -1232,8 +1191,8 @@ MenQuadfi works by stimulating the vaccinated person natural defence (immune sys
 
 MenQuadfi only helps to protect against illnesses caused by Neisseria meningitidis types A, C, W and Y.
 
--  It does not protect against meningitis or septicaemia caused by other bacteria or viruses.
--  It does not protect against infections caused by other types of Neisseria meningitidis.
+- It does not protect against meningitis or septicaemia caused by other bacteria or viruses.
+- It does not protect against infections caused by other types of Neisseria meningitidis.
 
 ## 2. What you need to know before you are given MenQuadfi
 
@@ -1241,7 +1200,7 @@ MenQuadfi only helps to protect against illnesses caused by Neisseria meningitid
 
 ## Do not have MenQuadfi if you or your child
 
--  are allergic to any of the active substances or any of the other ingredients of this vaccine (listed in section 6) or have experienced a previous allergic reaction to this vaccine.
+- are allergic to any of the active substances or any of the other ingredients of this vaccine (listed in section 6) or have experienced a previous allergic reaction to this vaccine.
 
 If you are not sure, talk to your doctor, pharmacist or nurse before you or your child are given MenQuadfi.
 
@@ -1249,10 +1208,10 @@ If you are not sure, talk to your doctor, pharmacist or nurse before you or your
 
 Talk to your doctor, pharmacist or nurse before vaccination with MenQuadfi if you or your child have:
 
--  an infection with high temperature (over 38 °C). If this applies, the vaccination will be given after the infection is under control. There is no need to delay vaccination for a minor infection such as a cold. However, talk to your doctor, pharmacist or nurse first.
--  a bleeding problem or bruise easily.
--  ever fainted from an injection. Fainting, sometimes accompanied by falling, can occur (mostly in adolescents) after, or even before, any injection.
--  a weak immune system (such as due to HIV infection, other disease, or use of a medicine that affect the immune system), as you or your child may not fully benefit from having MenQuadfi .
+- a bleeding problem or bruise easily.
+- an infection with high temperature (over 38 °C). If this applies, the vaccination will be given after the infection is under control. There is no need to delay vaccination for a minor infection such as a cold. However, talk to your doctor, pharmacist or nurse first.
+- ever fainted from an injection. Fainting, sometimes accompanied by falling, can occur (mostly in adolescents) after, or even before, any injection.
+- a weak immune system (such as due to HIV infection, other disease, or use of a medicine that affect the immune system), as you or your child may not fully benefit from having MenQuadfi .
 
 If any of the above apply to you or your child (or you are not sure whether they apply), talk to your doctor, pharmacist or nurse before you or your child are given MenQuadfi.
 
@@ -1264,8 +1223,8 @@ Tell your doctor, pharmacist, or nurse if you or your child are taking, have rec
 
 In particular, tell your doctor, pharmacist, or nurse if you or your child are taking any medicines that affect your immune system, such as:
 
--  high-dose corticosteroids
--  chemotherapy
+- high-dose corticosteroids
+- chemotherapy
 
 MenQuadfi may be given at the same time as other vaccines at a separate injection site during the same visit. These include measles, mumps, rubella, varicella, diphtheria, tetanus, pertussis, polio, Haemophilus influenzae type b, hepatitis B, pneumococcal, human papillomavirus and Neisseria meningitidis type B vaccines.
 
@@ -1293,9 +1252,9 @@ Like all vaccines, MenQuadfi can cause side effects, although not everybody gets
 
 If you or your child get any of these symptoms after the vaccination:
 
--  itchy skin rash
--  difficulty breathing, shortness of breath
--  swelling of the face, lips, throat, or tongue
+- difficulty breathing, shortness of breath
+- itchy skin rash
+- swelling of the face, lips, throat, or tongue
 
 Contact your doctor or healthcare professional immediately or go to the nearest hospital emergency room right away. This could be signs of an allergic reaction.
 
@@ -1303,78 +1262,78 @@ Contact your doctor or healthcare professional immediately or go to the nearest 
 
 ## Very common (may affect more than 1 in 10 people)
 
--  pain where the injection was given
--  muscle pain
--  headache
--  generally feeling unwell
+- muscle pain
+- pain where the injection was given
+- headache
+- generally feeling unwell
 
 ## Common (may affect up to 1 in 10 people)
 
--  redness or swelling where the injection was given
--  fever
+- fever
+- redness or swelling where the injection was given
 
 ## Uncommon (may affect up to 1 in 100 people)
 
--  itching, warmth, bruising or rash where the injection was given
--  vomiting
--  feeling dizzy
--  nausea
--  fatigue (feeling tired)
+- vomiting
+- itching, warmth, bruising or rash where the injection was given
+- feeling dizzy
+- fatigue (feeling tired)
+- nausea
 
 ## Rare (may affect up to 1 in 1 000 people)
 
--  enlarged lymph nodes
--  diarrhoea
--  stomach pain
--  hives
--  itching
--  rash
--  pain in the arms or legs
--  chills
--  pain in the armpit
--  injection site firmness
+- diarrhoea
+- enlarged lymph nodes
+- stomach pain
+- itching
+- hives
+- rash
+- chills
+- pain in the arms or legs
+- pain in the armpit
+- injection site firmness
 
 Very rare (may affect less than 1 in 10 000 people)
 
 <div style=\"page-break-after: always\"></div>
 
--  sudden, severe allergic reactions with difficulty breathing, hives, swelling of the face and throat, a fast heartbeat, dizziness, weakness, sweating and loss of consciousness
+- sudden, severe allergic reactions with difficulty breathing, hives, swelling of the face and throat, a fast heartbeat, dizziness, weakness, sweating and loss of consciousness
 
 Not known (frequency cannot be estimated from the available data)
 
--  allergic reaction
--  fits (convulsions) with or without fever
+- fits (convulsions) with or without fever
+- allergic reaction
 
 ## Side effects in children aged 12 to 23 months
 
 Very common (may affect more than 1 in 10 people)
 
--  tenderness/pain, redness, or swelling where the injection was given
--  feeling irritable
--  crying
--  loss of appetite
--  feeling drowsy
+- tenderness/pain, redness, or swelling where the injection was given
+- crying
+- feeling irritable
+- loss of appetite
+- feeling drowsy
 
 ## Common (may affect up to 1 in 10 people)
 
--  fever
--  vomiting
--  diarrhoea
+- fever
+- diarrhoea
+- vomiting
 
 Uncommon (may affect up to 1 in 100 people)
 
--  difficulty sleeping
--  hives
--  itching, bruising, firmness, or rash where the injection was given
+- hives
+- difficulty sleeping
+- itching, bruising, firmness, or rash where the injection was given
 
 Very rare (may affect less than 1 in 10 000 people)
 
--  sudden, severe allergic reactions with difficulty breathing, hives, swelling of the face and throat, a fast heartbeat, dizziness, weakness, sweating and loss of consciousness
+- sudden, severe allergic reactions with difficulty breathing, hives, swelling of the face and throat, a fast heartbeat, dizziness, weakness, sweating and loss of consciousness
 
 Not known (frequency cannot be estimated from the available data)
 
--  allergic reaction
--  fits (convulsions) with or without fever
+- fits (convulsions) with or without fever
+- allergic reaction
 
 ## Reporting of side effects
 
@@ -1386,7 +1345,7 @@ Keep this vaccine out of the sight and reach of children.
 
 Do not use this vaccine after the expiry date which is stated on the carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2  C to 8  C). Do not freeze.
+Store in a refrigerator (2 ° C to 8 ° C). Do not freeze.
 
 <div style=\"page-break-after: always\"></div>
 

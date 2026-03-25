@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 21:29:43
+document_datetime: 2026-03-24 10:54:23
 document_pages: 51
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/velphoro-epar-product-information_en.pdf
 document_name: velphoro-epar-product-information_en.pdf
 version: success
-processing_time: 9.9499757
-conversion_datetime: 2025-12-20 12:16:37.416114
+processing_time: 10.9391304
+conversion_datetime: 2026-03-25 12:40:48.821929
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.0
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -36,7 +36,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-## Chewable tablet.
+Chewable tablet.
 
 Brown, circular tablets embossed with PA500 on one side. Tablets have a 20 mm diameter and a thickness of 6.5 mm.
 
@@ -104,7 +104,7 @@ Patients with severe hepatic impairment were excluded from participating in clin
 
 ## Elderly population ( ≥ 65 years of age)
 
-Velphoro has been administered to over 248 seniors (≥65 years of age) according to the approved dosing regimen. Of the total number of subjects in clinical studies of sucroferric oxyhydroxide, 29.7% were aged 65 years and over, while 8.7% were aged 75 years and over. No special dose and administration guidelines were applied to seniors in these studies and the dosing schedules were not associated with any significant concerns.
+Velphoro has been administered to over 248 seniors (≥65 years of age) according to the approved dosing regimen. Of the total number of subjects in clinical studies of sucroferric oxyhydroxide , 29.7% were aged 65 years and over, while 8.7% were aged 75 years and over. No special dose and administration guidelines were applied to seniors in these studies and the dosing schedules were not associated with any significant concerns.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -139,11 +139,13 @@ Velphoro contains potato starch and pregelatinised maize starch. Patients with d
 
 Velphoro is almost not absorbed from the gastrointestinal tract. Although the potential for interactions with medicinal products seems low, for concomitant treatment with medicinal products with a narrow therapeutic window, the clinical effect and adverse events should be monitored, on initiation or doseadjustment of either Velphoro or the concomitant medicinal product, or the physician should consider measuring blood levels. When administering any medicinal product that is already known to interact with iron (like alendronate and doxycycline) or has the potential to interact with sucroferric oxyhydroxide based only on in vitro studies like levothyroxine, the medicinal product should be administered at least one hour before or two hours after Velphoro.
 
+In vitro and in vivo studies suggest that bioavailability of vadadustat and roxadustat may be reduced when taken concomitantly with phosphate binders including Velphoro. In order to minimize potential interactions with Velphoro, vadadustat and roxadustat should be administered at least one hour before or two hours after Velphoro.
+
 In vitro studies with the following active substances did not show any relevant interaction: acetylsalicylic acid, cephalexin, cinacalcet, ciprofloxacin, clopidogrel, enalapril, hydrochlorothiazide, metformin, metoprolol, nifedipine, pioglitazone and quinidine.
 
-Interaction studies have only been performed in healthy volunteers. They have been conducted in healthy human male and female subjects with losartan, furosemide, digoxin, warfarin, and omeprazole. Concomitant administration of Velphoro did not affect the bioavailability of these medicinal products as measured by the area under the curve (AUC).
-
 <div style=\"page-break-after: always\"></div>
+
+Interaction studies have only been performed in healthy volunteers. They have been conducted in healthy human male and female subjects with losartan, furosemide, digoxin, warfarin, and omeprazole. Concomitant administration of Velphoro did not affect the bioavailability of these medicinal products as measured by the area under the curve (AUC).
 
 Data from clinical studies have shown that sucroferric oxyhydroxide does not affect the lipid lowering effects of HMG-CoA reductase inhibitors (e.g., atorvastatin and simvastatin). In addition, post-hoc analyses from clinical studies demonstrated no impact of Velphoro on iPTH lowering effect of oral Vitamin D analogues. Vitamin D and 1,25-dihydroxy Vitamin D levels remained unchanged.
 
@@ -177,11 +179,11 @@ The current safety profile of Velphoro is based on a total of 778 patients on ha
 
 In these clinical trials, approximately 43% of the patients experienced at least one adverse reaction during Velphoro treatment, and 0.36% of the adverse reactions were reported as serious. The majority of the adverse reactions reported from trials were gastrointestinal disorders, with the most frequently reported adverse reactions being diarrhoea and discoloured faeces (very common). The vast majority of these gastrointestinal disorders occurred early during treatment and abated with time with continued dosing. No dose-dependent trends were observed in the adverse reaction profile of Velphoro.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Tabulated list of adverse reactions
 
 Adverse reactions reported from the use of Velphoro at doses from 250 mg iron/day to 3,000 mg iron/day in these patients (n=835) are listed in Table 2.
-
-<div style=\"page-break-after: always\"></div>
 
 The reporting rate is classified as very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100).
 
@@ -191,7 +193,8 @@ Table 2 Adverse reactions detected in clinical trials
 |----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Metabolism and nutrition disorders Nervous system disorders Respiratory, thoracic and mediastinal disorders Gastrointestinal disorders | Diarrhoea* Faeces discoloured | Nausea Constipation Vomiting Dyspepsia Abdominal pain Flatulence Tooth discolouration | Hypercalcaemia Hypocalcaemia Headache Dyspnoea Abdominal distension Gastritis Abdominal discomfort Dysphagia Gastro-oesophageal reflux disease (GORD) Tongue discolouration |
 | Skin and subcutaneous tissue disorders                                                                                                 |                               |                                                                                       | Pruritus Rash                                                                                                                                                               |
-| General disorders and administration site conditions                                                                                   |                               | Product taste abnormal                                                                | Fatigue                                                                                                                                                                     |
+| General disorders and administration site                                                                                              |                               | Product taste abnormal                                                                |                                                                                                                                                                             |
+| conditions                                                                                                                             |                               |                                                                                       | Fatigue                                                                                                                                                                     |
 
 ## Description of selected adverse reactions
 
@@ -201,17 +204,17 @@ Diarrhoea occurred in 11.6% of patients in clinical trials. In the 55 weeks long
 
 ## Paediatric population
 
-In general, the safety profile of Velphoro in paediatric (2 to &lt;18 years of age) and adult patients was comparable. The adverse reactions most frequently reported were gastrointestinal disorders including diarrhoea (very common, 16.7%), vomiting (common, 6.1%), gastritis (common, 3.0%) and discoloured faeces (common, 3.0%).
+In general, the safety profile of Velphoro in paediatric (2 to &lt;18 years of age) and adult patients was comparable. The adverse reactions most frequently reported were gastrointestinal disorders including diarrhoea (very common, 16.7%), vomiting (common, 6.1%), gastritis (common, 3.0%) and discoloured faeces (common, 3.0% ).
 
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.9 Overdose
 
 Any instances of overdose of Velphoro (e.g. hypophosphataemia) should be treated by standard clinical practice.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -231,41 +234,41 @@ One phase 3 clinical study has been performed in patients with CKD on dialysis t
 
 In Study-05A, 1,055 patients on haemodialysis (N=968) or peritoneal dialysis (N=87) with serum phosphorus ≥1.94 mmol/L following a 2 - 4-week phosphate binder washout period, were randomised and treated with either sucroferric oxyhydroxide, at a starting dose of 1,000 mg iron/day (N=707), or active-control (sevelamer carbonate, N=348) for 24 weeks. At the end of week 24, 93 patients on haemodialysis whose serum phosphorus levels were controlled (&lt;1.78 mmol/L) with sucroferric oxyhydroxide in the first part of the study, were re-randomised to continue treatment with either their week 24 maintenance dose (N=44 or a non-effective low dose control 250 mg iron/day, N=49) of sucroferric oxyhydroxide for a further 3 weeks.
 
-Following completion of Study-05A, 658 patients (597 on haemodialysis and 61 on peritoneal dialysis) were treated in the 28-week extension study (Study-05B) with either sucroferric oxyhydroxide (N=391) or sevelamer carbonate (N=267) according to their original randomization.
+Following completion of Study05A, 658 patients (597 on haemodialysis and 61 on peritoneal dialysis) were treated in the 28-week extension study (Study-05B) with either sucroferric oxyhydroxide (N=391) or sevelamer carbonate (N=267) according to their original randomization.
 
 Mean serum phosphorus levels were 2.5 mmol/L at baseline and 1.8 mmol/L at week 12 for sucroferric oxyhydroxide (reduction by 0.7 mmol/L). Corresponding levels for sevelamer carbonate at baseline were 2.4 mmol/L and 1.7 mmol/L at week 12 (reduction by 0.7 mmol/L), respectively.
 
 The serum phosphorus reduction was maintained over 55 weeks. Serum phosphorus levels and calcium-phosphorus product levels were reduced as a consequence of the reduced dietary phosphate absorption.
 
-The response rates, defined as the proportion of subjects achieving serum phosphorus levels within the Kidney Disease Outcomes Quality Initiative (KDOQI) recommended range were 45.3% and 59.1% at week 12 and 51.9% and 55.2% at week 52, for sucroferric oxyhydroxide and sevelamer carbonate, respectively.
+<div style=\"page-break-after: always\"></div>
+
+The response rates, defined as the proportion of subjects achieving serum phosphorus levels within the Kidney Disease Outcomes Quality Initiative (KDOQI ) recommended range were 45.3% and 59.1% at week 12 and 51.9% and 55.2% at week 52, for sucroferric oxyhydroxide and sevelamer carbonate, respectively.
 
 The mean daily dose of Velphoro over 55 weeks of treatment was 1,650 mg iron and the mean daily dose of sevelamer carbonate was 6,960 mg.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Post-authorisation data
 
-A prospective, non-interventional, post-authorisation safety study (VERIFIE) has been conducted, evaluating the short- and long-term (up to 36 months) safety and effectiveness of Velphoro in adult patients on haemodialysis (N=1,198) or peritoneal dialysis (N=160), who were followed in routine clinical practice for 12 to 36 months (safety analysis set, N=1,365). During the study, 45% (N=618) of these patients were concomitantly treated with phosphate binder(s) other than Velphoro.
+A prospective, non-interventional, post-authorisation safety study (VERIFIE) has been conducted, evaluating the short- and long-term (up to 36 months) safety and effectiveness of Velphoro in adult patients on haemodialysis (N =1,198) or peritoneal dialysis ( N=160), who were followed in routine clinical practice for 12 to 36 months (safety analysis set, N=1,365). During the study, 45% ( N=618) of these patients were concomitantly treated with phosphate binder(s) other than Velphoro.
 
-In the safety analysis set, the most common ADRs were diarrhoea and discoloured faeces, reported by 14% (N=194) and 9% (N=128) of patients, respectively. The incidence of diarrhoea was highest in the first week and decreased with duration of use. Diarrhoea was of mild to moderate intensity in most patients and resolved in the majority of patients within 2 weeks. Discoloured (black) faeces is expected for an oral iron-based compound, and may visually mask gastrointestinal bleeding. For 4 of the 40 documented concomitant gastrointestinal bleeding events, Velphoro-related stool discolouration was reported as causing an insignificant delay in diagnosis of gastrointestinal bleeding, without affecting patient health. In the remaining cases, no delay in diagnosis of gastrointestinal bleeding has been reported.
+In the safety analysis set, the most common ADRs were diarrhoea and discoloured faeces, reported by 14% ( N =194) and 9% ( N=128) of patients, respectively. The incidence of diarrhoea was highest in the first week and decreased with duration of use. Diarrhoea was of mild to moderate intensity in most patients and resolved in the majority of patients within 2 weeks. Discoloured (black) faeces is expected for an oral iron-based compound, and may visually mask gastrointestinal bleeding. For 4 of the 40 documented concomitant gastrointestinal bleeding events, Velphoro-related stool discolouration was reported as causing an insignificant delay in diagnosis of gastrointestinal bleeding, without affecting patient health. In the remaining cases, no delay in diagnosis of gastrointestinal bleeding has been reported.
 
 The results from this study showed that the effectiveness of Velphoro in a real-life setting (including concomitant use of other phosphate binders in 45% of patients), was in line with that observed in the phase 3 clinical study.
 
 ## Paediatric population
 
-An open label clinical study investigated the efficacy and safety of Velphoro in paediatric patients 2 years of age and older with CKD, and hyperphosphatemia (CKD stages 4-5 (defined by a glomerular filtration rate &lt;30 mL/min/l .73 m²) or with CKD on dialysis). Eighty-five subjects were  randomised to Velphoro  (N=66) or active control calcium acetate arm (N=19) for a 10-week dose titration (Stage 1), followed by a 24-week safety extension (Stage 2). Most patients were ≥12 years of age (66%). Eighty percent of patients were CKD patients on dialysis (67% on haemodialysis and 13% on peritoneal dialysis) and 20% were CKD patients not on dialysis.
+An open label clinical study investigated the efficacy and safety of Velphoro in paediatric patients 2 years of age and older with CKD, and hyperphosphatemia (CKD stages 4-5 (defined by a glomerular filtration rate &lt;30 mL/min/l .73 m²) or with CKD on dialysis). Eighty-five subjects were  randomised to Velphoro  (N=66) or active control calcium acetate arm (N= 19) for a 10 -week dose titration (Stage 1), followed by a 24-week safety extension (Stage 2). Most patients were ≥ 12 years of age (66%). Eighty percent of patients were CKD patients on dialysis (67% on haemodialysis and 13% on peritoneal dialysis) and 20% were CKD patients not on dialysis.
 
-The limited difference in reduction in mean serum phosphorus level from baseline to the end of Stage 1 in the Velphoro group (N=65) was not statistically significant with -0.120 (0.081) mmol/L (95% CI: -0.282, 0.043) based on the mixed model calculations with actual data showing a mean of 2.08 mmol/L at baseline and 1.91 mmol/L at the end of Stage 1 (reduction by 0.17 mmol/L). The effect was maintained during Stage 2, although some fluctuations in mean effect over time were noticed (0.099 (0.198) mmol/L (95% CI: -0.306, 0.504)).
+The limited difference in reduction in mean serum phosphorus level from baseline to the end of Stage 1 in the Velphoro group (N=65) was not statistically significant with -0.120 (0.081) mmol/L (95% CI: -0.282, 0.043) based on the mixed model calculations with actual data showing a mean of 2.08 mmol/L at baseline and 1.91 mmol/L at the end of Stage 1 (reduction by 0.17 mmol/L). The effect was maintained during Stage 2, although some fluctuations in mean effect over time were noticed (0.099 (0.198) mmol/L (95% CI : -0.306, 0.504)).
 
-The percentage of subjects with serum phosphorus levels within normal ranges increased from 37% at baseline to 61% at the end of Stage 1, and was 58% at the end of Stage 2, showing the sustainable phosphorus lowering effect of sucroferric oxyhydroxide. Among subjects whose serum phosphorus was above age-related normal ranges at baseline (N=40), serum phosphorus levels showed statistically significant decrease from baseline to the end of Stage 1, with the LS mean (SE) change -0.87 (0.30) mg/dL (95% CI: -1.47, -0.27; p=0.006).
+The percentage of subjects with serum phosphorus levels within normal ranges increased from 37 % at baseline to 61 % at the end of Stage 1, and was 58 % at the end of Stage 2, showing the sustainable phosphorus lowering effect of sucroferric oxyhydroxide. Among subjects whose serum phosphorus was above age-related normal ranges at baseline (N=40), serum phosphorus levels showed statistically significant decrease from baseline to the end of Stage 1, with the LS mean (SE) change -0.87 (0.30) mg/dL (95% CI: -1.47, -0.27; p=0.006).
 
 The safety profile of Velphoro in paediatric patients was generally comparable to that previously observed in adult patients.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
 Velphoro works by binding phosphate in the gastrointestinal tract and thus the serum concentration is not relevant for its efficacy. Due to the insolubility and degradation characteristics of Velphoro, no classical pharmacokinetic studies can be carried out, e.g., determination of the distribution volume, area under the curve, mean residence time, etc.
-
-<div style=\"page-break-after: always\"></div>
 
 In 2 Phase 1 studies, it was concluded that the potential for iron overload is minimal and no dose dependent effects were observed in healthy volunteers.
 
@@ -275,7 +278,7 @@ The active moiety of Velphoro, pn-FeOOH, is practically insoluble and therefore 
 
 The absolute absorption studies in humans were not performed. Non-clinical studies in several species (rats and dogs) showed that systemic absorption was very low (≤1% of the administered dose).
 
-The iron uptake from radiolabelled Velphoro active substance, 2,000 mg iron in 1 day was investigated in 16 CKD patients (8 pre-dialysis and 8 haemodialysis patients) and 8 healthy volunteers with low iron stores (serum ferritin &lt;100 mcg/L). In healthy subjects, the median uptake of radiolabelled iron in the blood was estimated to be 0.43% (range 0.16 - 1.25%) on day 21, in pre-dialysis patients 0.06% (range 0.008 - 0.44%) and in haemodialysis patients 0.02% (range 0 - 0.04%). Blood levels of radiolabelled iron were very low and confined to the erythrocytes.
+The iron uptake from radiolabelled Velphoro active substance, 2,000 mg iron in 1 day was investigated in 16 CKD patients (8 pre-dialysis and 8 haemodialysis patients) and 8 healthy volunteers with low iron stores (serum ferritin &lt;100 mcg/L). In healthy subjects, the median uptake of radiolabelled iron in the blood was estimated to be 0.43% (range 0.16 -1.25%) on day 21, in predialysis patients 0.06% (range 0.008 0.44%) and in haemodialysis patients 0.02% (range 0 -0.04%). Blood levels of radiolabelled iron were very low and confined to the erythrocytes.
 
 ## Distribution
 
@@ -297,13 +300,11 @@ In animal studies with rats and dogs administered 59 Fe-Velphoro active substanc
 
 Nonclinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity and genotoxicity.
 
-Effects seen in the rabbit embryo-foetal development toxicity study (skeletal variations and incomplete ossificaton) are related to exaggerated pharmacology, and likely not relevant for patients. Other reproduction toxicity studies showed no adverse effects.
-
-Carcinogenicity studies were performed in mice and rats. There was no clear evidence of a carcinogenic effect in mice. Mucosal hyperplasia, with diverticulum/cyst formation was observed in the colon and caecum of mice after 2-years treatment, but this was considered a species-specific effect
-
 <div style=\"page-break-after: always\"></div>
 
-with no diverticula/cysts seen in long term studies in rats or dogs. In rats, there was a slightly increased incidence of benign C-cell adenoma in the thyroid of male rats given the highest dose of sucroferric oxyhydroxide. This is thought to be most likely an adaptive response to the pharmacological effect of the medicinal product, and not clinically relevant.
+Effects seen in the rabbit embryo-foetal development toxicity study (skeletal variations and incomplete ossificaton) are related to exaggerated pharmacology, and likely not relevant for patients. Other reproduction toxicity studies showed no adverse effects.
+
+Carcinogenicity studies were performed in mice and rats. There was no clear evidence of a carcinogenic effect in mice. Mucosal hyperplasia, with diverticulum/cyst formation was observed in the colon and caecum of mice after 2-years treatment, but this was considered a species-specific effect with no diverticula/cysts seen in long term studies in rats or dogs. In rats, there was a slightly increased incidence of benign C-cell adenoma in the thyroid of male rats given the highest dose of sucroferric oxyhydroxide. This is thought to be most likely an adaptive response to the pharmacological effect of the medicinal product, and not clinically relevant.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -335,37 +336,29 @@ Not all pack sizes may be marketed.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
-
-Vifor Fresenius Medical Care Renal Pharma France 100-101 Terrasse Boieldieu Tour Franklin La Défense 8 92042 Paris la Défense Cedex France
-
 <div style=\"page-break-after: always\"></div>
 
-8.
+## 7. MARKETING AUTHORISATION HOLDER
 
-MARKETING AUTHORISATION NUMBER(S)
+Vifor Fresenius Medical Care Renal Pharma France 100-101 Terrasse Boieldieu Tour Franklin La Défense 8 92042 Paris la Défense Cedex
 
-EU/1/14/943/001
+France
 
-EU/1/14/943/002
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/14/943/003
-
-EU/1/14/943/004
+EU/1/14/943/001 EU/1/14/943/002 EU/1/14/943/003 EU/1/14/943/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 26 August 2014
 
-Date of latest renewal: 25 March 2019
+Date of latest renewal: 25
 
-10.
+March 2019
 
-DATE OF REVISION OF THE TEXT
+## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
-
-11
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -474,13 +467,15 @@ Velphoro contains potato starch and pregelatinised maize starch. Patients with d
 
 Velphoro is almost not absorbed from the gastrointestinal tract. Although the potential for interactions with medicinal products seems low, for concomitant treatment with medicinal products with a narrow therapeutic window, the clinical effect and adverse events should be monitored, on initiation or doseadjustment of either Velphoro or the concomitant medicinal product, or the physician should consider measuring blood levels. When administering any medicinal product that is already known to interact with iron (like alendronate and doxycycline) or has the potential to interact with sucroferric oxyhydroxide based only on in vitro studies like levothyroxine, the medicinal product should be administered at least one hour before or two hours after Velphoro.
 
+In vitro and in vivo studies suggest that bioavailability of vadadustat and roxadustat may be reduced when taken concomitantly with phosphate binders including Velphoro. In order to minimize potential interactions with Velphoro, vadadustat and roxadustat should be administered at least one hour before or two hours after Velphoro.
+
 In vitro studies with the following active substances did not show any relevant interaction: acetylsalicylic acid, cephalexin, cinacalcet, ciprofloxacin, clopidogrel, enalapril, hydrochlorothiazide, metformin, metoprolol, nifedipine, pioglitazone and quinidine.
 
 Interaction studies have only been performed in healthy volunteers. They have been conducted in healthy human male and female subjects with losartan, furosemide, digoxin, warfarin, and omeprazole. Concomitant administration of Velphoro did not affect the bioavailability of these medicinal products as measured by the area under the curve (AUC).
 
-Data from clinical studies have shown that sucroferric oxyhydroxide does not affect the lipid lowering effects of HMG-CoA reductase inhibitors (e.g., atorvastatin and simvastatin). In addition, post-hoc analyses from clinical studies demonstrated no impact of Velphoro on iPTH lowering effect of oral Vitamin D analogues. Vitamin D and 1,25-dihydroxy Vitamin D levels remained unchanged.
-
 <div style=\"page-break-after: always\"></div>
+
+Data from clinical studies have shown that sucroferric oxyhydroxide does not affect the lipid lowering effects of HMG-CoA reductase inhibitors (e.g., atorvastatin and simvastatin). In addition, post-hoc analyses from clinical studies demonstrated no impact of Velphoro on iPTH lowering effect of oral Vitamin D analogues. Vitamin D and 1,25-dihydroxy Vitamin D levels remained unchanged.
 
 Velphoro does not affect guaiac based (Haemoccult) or immunological based (iColo Rectal and Hexagon Obti) faecal occult blood tests.
 
@@ -516,9 +511,9 @@ In these clinical trials, approximately 43% of the patients experienced at least
 
 Adverse reactions reported from the use of Velphoro at doses from 250 mg iron/day to 3,000 mg iron/day in these patients (n=835) are listed in Table 2.
 
-The reporting rate is classified as very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100).
-
 <div style=\"page-break-after: always\"></div>
+
+The reporting rate is classified as very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100).
 
 Table 2 Adverse reactions detected in clinical trials
 
@@ -536,7 +531,7 @@ Diarrhoea occurred in 11.6% of patients in clinical trials. In the 55 weeks long
 
 ## Paediatric population
 
-In general, the safety profile of Velphoro in paediatric (2 to &lt;18 years of age) and adult patients was comparable. The adverse reactions most frequently reported were gastrointestinal disorders including diarrhoea (very common, 16.7%), vomiting (common, 6.1%), gastritis (common, 3.0%) and discoloured faeces (common, 3.0%).
+In general, the safety profile of Velphoro in paediatric (2 to &lt;18 years of age) and adult patients was comparable. The adverse reactions most frequently reported were gastrointestinal disorders including diarrhoea (very common, 16.7 %), vomiting ( common, 6.1%), gastritis (common, 3.0%) and discoloured faeces (common, 3.0%) .
 
 ## Reporting of suspected adverse reactions
 
@@ -564,15 +559,15 @@ Serum phosphorus levels are reduced as a consequence of the reduced dietary phos
 
 One phase 3 clinical study has been performed in patients with CKD on dialysis to investigate the efficacy and safety of Velphoro in this population. This study was an open-label, randomised, activecontrolled (sevelamer carbonate), parallel group study for up to 55 weeks. Adult patients with hyperphosphataemia (serum phosphorus levels ≥1.94 mmol/L) were treated with sucroferric oxyhydroxide at a starting dose of 1,000 mg iron/day followed by an 8-week dose titration period. Non-inferiority to sevelamer carbonate was determined at week 12. Subjects were continued on their study medication from week 12 to week 55. From week 12 to 24, dose titrations were allowed for both tolerability and efficacy reasons. Treatment of patient sub-populations from week 24 to week 27 with maintenance dose of sucroferric oxyhydroxide (1,000 to 3,000 mg iron/day) or low dose (250 mg iron/day) of sucroferric oxyhydroxide demonstrated superiority of the maintenance dose.
 
-In Study-05A, 1,055 patients on haemodialysis (N=968) or peritoneal dialysis (N=87) with serum phosphorus ≥1.94 mmol/L following a 2 - 4-week phosphate binder washout period, were randomised and treated with either sucroferric oxyhydroxide, at a starting dose of 1,000 mg iron/day (N=707), or active-control (sevelamer carbonate, N=348) for 24 weeks. At the end of week 24, 93 patients on haemodialysis whose serum phosphorus levels were controlled (&lt;1.78 mmol/L) with sucroferric oxyhydroxide in the first part of the study, were re-randomised to continue treatment with either their week 24 maintenance dose (N=44 or a non-effective low dose control 250 mg iron/day, N=49) of sucroferric oxyhydroxide for a further 3 weeks.
+In Study-05A, 1,055 patients on ha emodialysis (N=968) or peritoneal dialysis (N=87) with serum phosphorus ≥1.94 mmol/L following a 2 - 4-week phosphate binder washout period, were randomised and treated with either sucroferric oxyhydroxide, at a starting dose of 1,000 mg iron/day (N=707), or active-control (sevelamer carbonate, N=348) for 24 weeks. At the end of week 24, 93 patients on haemodialysis whose serum phosphorus levels were controlled (&lt;1.78 mmol/L) with sucroferric oxyhydroxide in the first part of the study, were re-randomised to continue treatment with either their week 24 maintenance dose (N=44 or a non-effective low dose control 250 mg iron/day, N=49) of sucroferric oxyhydroxide for a further 3 weeks.
 
-Following completion of Study-05A, 658 patients (597 on haemodialysis and 61 on peritoneal dialysis) were treated in the 28-week extension study (Study-05B) with either sucroferric oxyhydroxide (N=391) or sevelamer carbonate (N=267) according to their original randomization.
+Following completion of Study-05A, 658 patients (597 on h aemodialysis and 61 on peritoneal dialysis) were treated in the 28-week extension study (Study-05B) with either sucroferric oxyhydroxide (N=391) or sevelamer carbonate (N=267) according to their original randomization.
 
 Mean serum phosphorus levels were 2.5 mmol/L at baseline and 1.8 mmol/L at week 12 for sucroferric oxyhydroxide (reduction by 0.7 mmol/L). Corresponding levels for sevelamer carbonate at baseline were 2.4 mmol/L and 1.7 mmol/L at week 12 (reduction by 0.7 mmol/L), respectively.
 
 The serum phosphorus reduction was maintained over 55 weeks. Serum phosphorus levels and calcium-phosphorus product levels were reduced as a consequence of the reduced dietary phosphate absorption.
 
-The response rates, defined as the proportion of subjects achieving serum phosphorus levels within the Kidney Disease Outcomes Quality Initiative (KDOQI) recommended range were 45.3% and 59.1% at week 12 and 51.9% and 55.2% at week 52, for sucroferric oxyhydroxide and sevelamer carbonate, respectively.
+The response rates, defined as the proportion of subjects achieving serum phosphorus levels within the Kidney Disease Outcomes Quality Initiative ( KDOQI) recommended range were 45.3% and 59.1% at week 12 and 51.9% and 55.2% at week 52, for sucroferric oxyhydroxide and sevelamer carbonate, respectively.
 
 The mean daily dose of Velphoro over 55 weeks of treatment was 1,650 mg iron and the mean daily dose of sevelamer carbonate was 6,960 mg.
 
@@ -580,19 +575,19 @@ The mean daily dose of Velphoro over 55 weeks of treatment was 1,650 mg iron and
 
 ## Post-authorisation data
 
-A prospective, non-interventional, post-authorisation safety study (VERIFIE) has been conducted, evaluating the short- and long-term (up to 36 months) safety and effectiveness of Velphoro in adult patients on haemodialysis (N=1,198) or peritoneal dialysis (N=160), who were followed in routine clinical practice for 12 to 36 months (safety analysis set, N=1,365). During the study, 45% (N=618) of these patients were concomitantly treated with phosphate binder(s) other than Velphoro.
+A prospective, non-interventional, post-authorisation safety study (VERIFIE) has been conducted, evaluating the short- and long-term (up to 36 months) safety and effectiveness of Velphoro in adult patients on haemodialysis (N =1,198) or peritoneal dialysis ( N=160), who were followed in routine clinical practice for 12 to 36 months (safety analysis set, N=1,365). During the study, 45% ( N=618) of these patients were concomitantly treated with phosphate binder(s) other than Velphoro.
 
-In the safety analysis set, the most common ADRs were diarrhoea and discoloured faeces, reported by 14% (N=194) and 9% (N=128) of patients, respectively. The incidence of diarrhoea was highest in the first week and decreased with duration of use. Diarrhoea was of mild to moderate intensity in most patients and resolved in the majority of patients within 2 weeks. Discoloured (black) faeces is expected for an oral iron-based compound, and may visually mask gastrointestinal bleeding. For 4 of the 40 documented concomitant gastrointestinal bleeding events, Velphoro-related stool discolouration was reported as causing an insignificant delay in diagnosis of gastrointestinal bleeding, without affecting patient health. In the remaining cases, no delay in diagnosis of gastrointestinal bleeding has been reported.
+In the safety analysis set, the most common ADRs were diarrhoea and discoloured faeces, reported by 14% ( N =194) and 9% ( N=128) of patients, respectively. The incidence of diarrhoea was highest in the first week and decreased with duration of use. Diarrhoea was of mild to moderate intensity in most patients and resolved in the majority of patients within 2 weeks. Discoloured (black) faeces is expected for an oral iron-based compound, and may visually mask gastrointestinal bleeding. For 4 of the 40 documented concomitant gastrointestinal bleeding events, Velphoro-related stool discolouration was reported as causing an insignificant delay in diagnosis of gastrointestinal bleeding, without affecting patient health. In the remaining cases, no delay in diagnosis of gastrointestinal bleeding has been reported.
 
 The results from this study showed that the effectiveness of Velphoro in a real-life setting (including concomitant use of other phosphate binders in 45% of patients), was in line with that observed in the phase 3 clinical study.
 
 ## Paediatric population
 
-An open label clinical study investigated the efficacy and safety of Velphoro in paediatric patients 2 years of age and older with CKD and hyperphosphatemia (CKD stages 4-5 (defined by a glomerular filtration rate &lt;30 mL/min/l .73 m²) or with CKD on dialysis). Eighty-five subjects were randomised to Velphoro  (N=66) or active control calcium acetate arm (N=19) for a 10-week dose titration (Stage 1), followed by a 24-week safety extension (Stage 2). Most patients were ≥ 12 years of age (66%). Eighty percent of patients were CKD patients on dialysis (67% on haemodialysis and 13% on peritoneal dialysis) and 20% were CKD patients not on dialysis.
+An open label clinical study investigated the efficacy and safety of Velphoro in paediatric patients 2 years of age and older with CKD and hyperphosphatemia (CKD stages 4-5 (defined by a glomerular filtration rate &lt;30 mL/min/l .73 m²) or with CKD on dialysis). Eighty-five subjects were randomised to Velphoro  (N=66) or active control calcium acetate arm (N= 19) for a 10 -week dose titration (Stage 1), followed by a 24-week safety extension (Stage 2). Most patients were ≥ 12 years of age (66%). Eighty percent of patients were CKD patients on dialysis (67% on haemodialysis and 13% on peritoneal dialysis) and 20% were CKD patients not on dialysis.
 
-The limited difference in reduction in mean serum phosphorus level from baseline to the end of Stage 1 in the Velphoro group (N=65) was not statistically significant with -0.120 (0.081) mmol/L (95% CI: -0.282, 0.043) based on the mixed model calculations with actual data showing a mean of 2.08 mmol/L at baseline and 1.91 mmol/L at the end of Stage 1 (reduction by 0.17 mmol/L). The effect was maintained during Stage 2, although some fluctuations in mean effect over time were noticed (0.099 (0.198) mmol/L (95% CI: -0.306, 0.504)).
+The limited difference in reduction in mean serum phosphorus level from baseline to the end of Stage 1 in the Velphoro group (N=65) was not statistically significant with -0.120 (0.081) mmol/L (95% CI: -0.282, 0.043) based on the mixed model calculations with actual data showing a mean of 2.08 mmol/L at baseline and 1.91 mmol/L at the end of Stage 1 (reduction by 0.17 mmol/L). The effect was maintained during Stage 2, although some fluctuations in mean effect over time were noticed (0.099 (0.198) mmol/L (95% CI : -0.306, 0.504)).
 
-The percentage of subjects with serum phosphorus levels within normal ranges increased from 37% at baseline to 61% at the end of Stage 1, and was 58% at the end of Stage 2, showing the sustainable phosphorus lowering effect of sucroferric oxyhydroxide. Among subjects whose serum phosphorus was above age-related normal ranges at baseline (N=40), serum phosphorus levels showed statistically significant decrease from baseline to the end of Stage 1, with the LS mean (SE) change -0.87 (0.30) mg/dL (95% CI: -1.47, -0.27; p=0.006).
+The percentage of subjects with serum phosphorus levels within normal ranges increased from 37 % at baseline to 61 % at the end of Stage 1, and was 58 % at the end of Stage 2, showing the sustainable phosphorus lowering effect of sucroferric oxyhydroxide. Among subjects whose serum phosphorus was above age-related normal ranges at baseline (N=40), serum phosphorus levels showed statistically significant decrease from baseline to the end of Stage 1, with the LS mean (SE) change -0.87 (0.30) mg/dL (95% CI: -1.47, -0.27; p=0.006).
 
 The safety profile of Velphoro in paediatric patients was generally comparable to that previously observed in adult patients.
 
@@ -610,7 +605,7 @@ The active moiety of Velphoro, pn-FeOOH, is practically insoluble and therefore 
 
 The absolute absorption studies in humans were not performed. Non-clinical studies in several species (rats and dogs) showed that systemic absorption was very low (≤1% of the administered dose).
 
-The iron uptake from radiolabelled Velphoro active substance, 2,000 mg iron in 1 day was investigated in 16 CKD patients (8 pre-dialysis and 8 haemodialysis patients) and 8 healthy volunteers with low iron stores (serum ferritin &lt;100 mcg/L). In healthy subjects, the median uptake of radiolabelled iron in the blood was estimated to be 0.43% (range 0.16 - 1.25%) on day 21, in pre-dialysis patients 0.06% (range 0.008 - 0.44%) and in haemodialysis patients 0.02% (range 0 - 0.04%). Blood levels of radiolabelled iron were very low and confined to the erythrocytes.
+The iron uptake from radiolabelled Velphoro active substance, 2,000 mg iron in 1 day was investigated in 16 CKD patients (8 pre-dialysis and 8 haemodialysis patients) and 8 healthy volunteers with low iron stores (serum ferritin &lt;100 mcg/L). In healthy subjects, the median uptake of radiolabelled iron in the blood was estimated to be 0.43% (range 0.16 -1.25%) on day 21, in predialysis patients 0.06% (range 0.008 0.44%) and in haemodialysis patients 0.02% (range 0 -0.04%). Blood levels of radiolabelled iron were very low and confined to the erythrocytes.
 
 ## Distribution
 
@@ -694,11 +689,13 @@ EU/1/14/943/005
 
 Date of first authorisation: 26 August 2014
 
-Date of latest renewal: 25 March 2019
+Date of latest renewal: 25
+
+March 2019
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -752,7 +749,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON - BOTTLE OF 30 AND 90 CHEWABLE TABLETS
+OUTER CARTON - BOTTLE OF 30 AND 90 CHEWABLE TABLETS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -770,9 +767,7 @@ Contains sucrose, potato starch and pregelatinised maize starch. See leaflet for
 
 ## Chewable tablet
 
-30 chewable tablets
-
-90 chewable tablets
+30 chewable tablets 90 chewable tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -788,7 +783,11 @@ Keep out of the sight and reach of children.
 
 EXP
 
-Shelf-life after first opening the bottle: 90 days Opening date:
+Shelf- life after first opening the bottle: 90
+
+Opening date:
+
+days
 
 <div style=\"page-break-after: always\"></div>
 
@@ -800,13 +799,7 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Vifor Fresenius Medical Care Renal Pharma France
-
-100-101 Terrasse Boieldieu
-
-Tour Franklin La Défense 8
-
-92042 Paris la Défense Cedex
+Vifor Fresenius Medical Care Renal Pharma France 100-101 Terrasse Boieldieu Tour Franklin La Défense 8 92042 Paris la Défense Cedex
 
 France
 
@@ -834,8 +827,8 @@ velphoro 500 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -879,7 +872,11 @@ Keep out of the sight and reach of children.
 
 EXP
 
-Shelf-life after first opening the bottle: 90 days Opening date:
+Shelf- life after first opening the bottle: 90
+
+Opening date:
+
+days
 
 <div style=\"page-break-after: always\"></div>
 
@@ -943,7 +940,11 @@ Contains sucrose, potato starch and pregelatinised maize starch. See leaflet for
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Chew or crush tablets and take with meals. Read the package leaflet before use. Oral use.
+Chew or crush tablets and take with meals.
+
+Read the package leaflet before use.
+
+Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -961,7 +962,7 @@ Store in the original package in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -989,9 +990,7 @@ velphoro 500 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -1103,7 +1102,9 @@ Contains sucrose, potato starch and pregelatinised maize starch. See leaflet for
 
 Chewable tablet
 
-Multipack: 90 (3 packs of 30) chewable tablets.
+Multipack: 90 (3
+
+packs of 30) chewable tablets.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1212,7 +1213,9 @@ Oral powder
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Mix with a small amount of soft food or with small amount of water or non-carbonated beverage. Stir vigorously as the powder will not dissolve completely.
+Mix with a small amount of soft food or with small amount of water or non-carbonated beverage.
+
+Stir vigorously as the powder will not dissolve completely.
 
 Read the package leaflet before use.
 
@@ -1231,6 +1234,8 @@ Keep out of the sight and reach of children.
 ## 8. EXPIRY DATE
 
 EXP
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1252,7 +1257,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 velphoro 125 mg
 
@@ -1262,11 +1267,7 @@ velphoro 125 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
-
-<div style=\"page-break-after: always\"></div>
+PC SN
 
 NN
 
@@ -1312,9 +1313,7 @@ Keep out of the sight and reach of children.
 
 ## Package leaflet: Information for the patient
 
-## Velphoro 500 mg chewable tablets
-
-iron as sucroferric oxyhydroxide
+## Velphoro 500 mg chewable tablets iron as sucroferric oxyhydroxide
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1377,7 +1376,7 @@ The safety and efficacy in children below the age of 2 years has not yet been es
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
 
-If you are taking any other medicine that is known to be affected by iron (for example medicines containing the active substance alendronate (used to treat certain bone disorders) or doxycycline (an antibiotic)) or has the potential to be affected by iron (for example medicines containing the active substance levothyroxine (used to treat thyroid function disorder)), make sure that you take this medicine at least one hour before taking Velphoro or at least two hours after taking Velphoro. Ask your doctor if you are not sure.
+If you are taking any other medicine that is known to be affected by iron (for example medicines containing the active substance alendronate (used to treat certain bone disorders) or doxycycline (an antibiotic)) or has the potential to be affected by iron (for example medicines containing the active substance levothyroxine (used to treat thyroid function disorder), vadadustat and roxadustat (used to treat anaemia associated with chronic kidney disease)), make sure that you take this medicine at least one hour before taking Velphoro or at least two hours after taking Velphoro. Ask your doctor if you are not sure.
 
 ## Pregnancy and breast-feeding
 
@@ -1512,7 +1511,7 @@ For any information about this medicine, please contact the Marketing Authorisat
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1583,7 +1582,7 @@ The safety and efficacy in children below the age of 2 years has not yet been es
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
 
-If you are taking any other medicine that is known to be affected by iron (for example medicines containing the active substance alendronate (used to treat certain bone disorders) or doxycycline (an antibiotic)) or has the potential to be affected by iron (for example medicines containing the active substance levothyroxine (used to treat thyroid function disorder)), make sure that you take this medicine at least one hour before taking Velphoro or at least two hours after taking Velphoro. Ask your doctor if you are not sure.
+If you are taking any other medicine that is known to be affected by iron (for example medicines containing the active substance alendronate (used to treat certain bone disorders) or doxycycline (an antibiotic)) or has the potential to be affected by iron (for example medicines containing the active substance levothyroxine (used to treat thyroid function disorder), vadadustat and roxadustat (used to treat anaemia associated with chronic kidney disease)), make sure that you take this medicine at least one hour before taking Velphoro or at least two hours after taking Velphoro. Ask your doctor if you are not sure.
 
 ## Pregnancy and breast-feeding
 
@@ -1718,4 +1717,4 @@ For any information about this medicine, please contact the Marketing Authorisat
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.

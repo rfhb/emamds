@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:53:05
+document_datetime: 2026-03-24 17:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/stivarga.html
 document_name: stivarga.html
 version: success
-processing_time: 0.1239836
-conversion_datetime: 2025-12-30 10:29:25.558997
+processing_time: 0.1234198
+conversion_datetime: 2026-03-25 12:42:41.35868
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.0
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Stivarga
 
 [RSS](/en/individual-human-medicine.xml/65919)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-regorafenib Medicine Human Authorised
+regorafenib
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -119,581 +119,311 @@ Reference Number: EMA/525123/2013
 
 English (EN) (78.37 KB - PDF)
 
-**First published:** 12/09/2013
-
-**Last updated:** 01/09/2017
+**First published:** 12/09/2013 **Last updated:** 01/09/2017
 
 [View](/en/documents/overview/stivarga-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-418)
+[Other languages (22)](#file-language-dropdown-365)
 
 български (BG) (107.45 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-01/09/2017
+**First published:** 12/09/2013 **Last updated:** 01/09/2017
 
 [View](/bg/documents/overview/stivarga-epar-summary-public_bg.pdf)
 
 español (ES) (77.24 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-01/09/2017
+**First published:** 12/09/2013 **Last updated:** 01/09/2017
 
 [View](/es/documents/overview/stivarga-epar-summary-public_es.pdf)
 
 čeština (CS) (104.3 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-01/09/2017
+**First published:** 12/09/2013 **Last updated:** 01/09/2017
 
 [View](/cs/documents/overview/stivarga-epar-summary-public_cs.pdf)
 
 dansk (DA) (76.71 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-01/09/2017
+**First published:** 12/09/2013 **Last updated:** 01/09/2017
 
 [View](/da/documents/overview/stivarga-epar-summary-public_da.pdf)
 
 Deutsch (DE) (78.46 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-01/09/2017
+**First published:** 12/09/2013 **Last updated:** 01/09/2017
 
 [View](/de/documents/overview/stivarga-epar-summary-public_de.pdf)
 
 eesti keel (ET) (76.08 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-01/09/2017
+**First published:** 12/09/2013 **Last updated:** 01/09/2017
 
 [View](/et/documents/overview/stivarga-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (109.13 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-01/09/2017
+**First published:** 12/09/2013 **Last updated:** 01/09/2017
 
 [View](/el/documents/overview/stivarga-epar-summary-public_el.pdf)
 
 français (FR) (78.1 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-01/09/2017
+**First published:** 12/09/2013 **Last updated:** 01/09/2017
 
 [View](/fr/documents/overview/stivarga-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (98.31 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-01/09/2017
+**First published:** 12/09/2013 **Last updated:** 01/09/2017
 
 [View](/hr/documents/overview/stivarga-epar-summary-public_hr.pdf)
 
 italiano (IT) (76.67 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-01/09/2017
+**First published:** 12/09/2013 **Last updated:** 01/09/2017
 
 [View](/it/documents/overview/stivarga-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (102.04 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-01/09/2017
+**First published:** 12/09/2013 **Last updated:** 01/09/2017
 
 [View](/lv/documents/overview/stivarga-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (103.22 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-01/09/2017
+**First published:** 12/09/2013 **Last updated:** 01/09/2017
 
 [View](/lt/documents/overview/stivarga-epar-summary-public_lt.pdf)
 
 magyar (HU) (99.99 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-01/09/2017
+**First published:** 12/09/2013 **Last updated:** 01/09/2017
 
 [View](/hu/documents/overview/stivarga-epar-summary-public_hu.pdf)
 
 Malti (MT) (198.12 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-01/09/2017
+**First published:** 12/09/2013 **Last updated:** 01/09/2017
 
 [View](/mt/documents/overview/stivarga-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (76.25 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-01/09/2017
+**First published:** 12/09/2013 **Last updated:** 01/09/2017
 
 [View](/nl/documents/overview/stivarga-epar-summary-public_nl.pdf)
 
 polski (PL) (104.91 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-01/09/2017
+**First published:** 12/09/2013 **Last updated:** 01/09/2017
 
 [View](/pl/documents/overview/stivarga-epar-summary-public_pl.pdf)
 
 português (PT) (77.2 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-01/09/2017
+**First published:** 12/09/2013 **Last updated:** 01/09/2017
 
 [View](/pt/documents/overview/stivarga-epar-summary-public_pt.pdf)
 
 română (RO) (101.75 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-01/09/2017
+**First published:** 12/09/2013 **Last updated:** 01/09/2017
 
 [View](/ro/documents/overview/stivarga-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (104.66 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-01/09/2017
+**First published:** 12/09/2013 **Last updated:** 01/09/2017
 
 [View](/sk/documents/overview/stivarga-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (98.55 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-01/09/2017
+**First published:** 12/09/2013 **Last updated:** 01/09/2017
 
 [View](/sl/documents/overview/stivarga-epar-summary-public_sl.pdf)
 
 Suomi (FI) (75.87 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-01/09/2017
+**First published:** 12/09/2013 **Last updated:** 01/09/2017
 
 [View](/fi/documents/overview/stivarga-epar-summary-public_fi.pdf)
 
 svenska (SV) (76.56 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-01/09/2017
+**First published:** 12/09/2013 **Last updated:** 01/09/2017
 
 [View](/sv/documents/overview/stivarga-epar-summary-public_sv.pdf)
+
+Stivarga : EPAR - Risk management plan
+
+English (EN) (872.19 KB - PDF)
+
+**First published:** 24/03/2026
+
+[View](/en/documents/rmp/stivarga-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
 Stivarga : EPAR - Product Information
 
-English (EN) (725.84 KB - PDF)
+English (EN) (892.78 KB - PDF)
 
-**First published:** 12/09/2013
-
-**Last updated:** 02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/en/documents/product-information/stivarga-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-814)
+[Other languages (24)](#file-language-dropdown-588)
 
-български (BG) (792.34 KB - PDF)
+български (BG) (2.02 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/bg/documents/product-information/stivarga-epar-product-information_bg.pdf)
 
-español (ES) (707.13 KB - PDF)
+español (ES) (1.84 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/es/documents/product-information/stivarga-epar-product-information_es.pdf)
 
-čeština (CS) (874.81 KB - PDF)
+čeština (CS) (2.04 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/cs/documents/product-information/stivarga-epar-product-information_cs.pdf)
 
-dansk (DA) (664.42 KB - PDF)
+dansk (DA) (2.05 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/da/documents/product-information/stivarga-epar-product-information_da.pdf)
 
-Deutsch (DE) (709.36 KB - PDF)
+Deutsch (DE) (2.06 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/de/documents/product-information/stivarga-epar-product-information_de.pdf)
 
-eesti keel (ET) (600.79 KB - PDF)
+eesti keel (ET) (1.51 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/et/documents/product-information/stivarga-epar-product-information_et.pdf)
 
-ελληνικά (EL) (794.26 KB - PDF)
+ελληνικά (EL) (1.84 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/el/documents/product-information/stivarga-epar-product-information_el.pdf)
 
-français (FR) (749.17 KB - PDF)
+français (FR) (1.93 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/fr/documents/product-information/stivarga-epar-product-information_fr.pdf)
 
-hrvatski (HR) (760.01 KB - PDF)
+hrvatski (HR) (2.06 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/hr/documents/product-information/stivarga-epar-product-information_hr.pdf)
 
-íslenska (IS) (609.64 KB - PDF)
+íslenska (IS) (1.62 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/is/documents/product-information/stivarga-epar-product-information_is.pdf)
 
-italiano (IT) (642.2 KB - PDF)
+italiano (IT) (1.78 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/it/documents/product-information/stivarga-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (704.58 KB - PDF)
+latviešu valoda (LV) (1.75 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/lv/documents/product-information/stivarga-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (751.3 KB - PDF)
+lietuvių kalba (LT) (1.57 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/lt/documents/product-information/stivarga-epar-product-information_lt.pdf)
 
-magyar (HU) (731.44 KB - PDF)
+magyar (HU) (2.05 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/hu/documents/product-information/stivarga-epar-product-information_hu.pdf)
 
-Malti (MT) (775.37 KB - PDF)
+Malti (MT) (2.41 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/mt/documents/product-information/stivarga-epar-product-information_mt.pdf)
 
-Nederlands (NL) (749.63 KB - PDF)
+Nederlands (NL) (1.82 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/nl/documents/product-information/stivarga-epar-product-information_nl.pdf)
 
-norsk (NO) (693.94 KB - PDF)
+norsk (NO) (2.3 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/no/documents/product-information/stivarga-epar-product-information_no.pdf)
 
-polski (PL) (819.24 KB - PDF)
+polski (PL) (1.86 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/pl/documents/product-information/stivarga-epar-product-information_pl.pdf)
 
-português (PT) (642.59 KB - PDF)
+português (PT) (1.6 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/pt/documents/product-information/stivarga-epar-product-information_pt.pdf)
 
-română (RO) (749.93 KB - PDF)
+română (RO) (1.98 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/ro/documents/product-information/stivarga-epar-product-information_ro.pdf)
 
-slovenčina (SK) (799.09 KB - PDF)
+slovenčina (SK) (2.23 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/sk/documents/product-information/stivarga-epar-product-information_sk.pdf)
 
-slovenščina (SL) (837.04 KB - PDF)
+slovenščina (SL) (2.1 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/sl/documents/product-information/stivarga-epar-product-information_sl.pdf)
 
-Suomi (FI) (767.5 KB - PDF)
+Suomi (FI) (1.87 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/fi/documents/product-information/stivarga-epar-product-information_fi.pdf)
 
-svenska (SV) (732.95 KB - PDF)
+svenska (SV) (1.84 MB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-02/07/2025
+**First published:** 12/09/2013 **Last updated:** 24/03/2026
 
 [View](/sv/documents/product-information/stivarga-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000282349 01/07/2025
+**Latest procedure affecting product information:** VR/0000312922
+
+26/02/2026
 
 icon globe
 
@@ -713,293 +443,171 @@ Stivarga : EPAR - All Authorised presentations
 
 English (EN) (14.94 KB - PDF)
 
-**First published:** 12/09/2013
-
-**Last updated:** 12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/en/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-345)
+[Other languages (23)](#file-language-dropdown-770)
 
 български (BG) (33.47 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/bg/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (15.12 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/es/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (38.33 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/cs/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (15.07 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/da/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (15.88 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/de/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (14.79 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/et/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (33.05 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/el/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (13.18 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/fr/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (21.91 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/hr/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (14.67 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/is/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (15.26 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/it/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (60.67 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/lv/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (42.69 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/lt/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (36.73 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/hu/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (49.51 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/mt/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (15 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/nl/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (15.59 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/no/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (20.78 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/pl/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (15.23 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/pt/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (27.78 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/ro/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (25.24 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/sk/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (21.1 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/sl/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (14.58 KB - PDF)
 
-**First published:**
-
-12/09/2013
-
-**Last updated:**
-
-12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/fi/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_fi.pdf)
 
 ## Product details
 
-Name of medicine Stivarga Active substance regorafenib International non-proprietary name (INN) or common name regorafenib Therapeutic area (MeSH) Colorectal Neoplasms Anatomical therapeutic chemical (ATC) code L01EX05
+Name of medicine
+
+Stivarga
+
+Active substance
+
+regorafenib
+
+International non-proprietary name (INN) or common name
+
+regorafenib
+
+Therapeutic area (MeSH)
+
+Colorectal Neoplasms
+
+Anatomical therapeutic chemical (ATC) code
+
+L01EX05
 
 ### Pharmacotherapeutic group
 
@@ -1016,13 +624,23 @@ Stivarga is indicated as monotherapy for the treatment of adult patients with:
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/002573 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/002573
+
+Marketing authorisation holder
 
 Bayer Pharma AG
 
 13342 Berlin
 
-Marketing authorisation issued 26/08/2013 Revision 23
+Marketing authorisation issued
+
+26/08/2013
+
+Revision
+
+24
 
 ## Assessment history
 
@@ -1034,9 +652,9 @@ Collapse section
 
 Stivarga : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (146.83 KB - PDF)
+English (EN) (157.96 KB - PDF)
 
-**First published:** 02/07/2025
+**First published:** 02/07/2025 **Last updated:** 24/03/2026
 
 [View](/en/documents/procedural-steps-after/stivarga-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1044,17 +662,23 @@ Stivarga : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (165.06 KB - PDF)
 
-**First published:** 18/09/2014
-
-**Last updated:** 02/07/2025
+**First published:** 18/09/2014 **Last updated:** 02/07/2025
 
 [View](/en/documents/procedural-steps-after/stivarga-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
+Stivarga : EPAR - Statement indicating compliance with the agreed completed paediatric investigation plan
+
+Reference Number: EMADOC-1700519818-2940864
+
+English (EN) (146.01 KB - PDF)
+
+**First published:** 24/03/2026
+
+[View](/en/documents/pip-compliance/stivarga-epar-statement-indicating-compliance-agreed-completed-paediatric-investigation-plan_en.pdf)
+
 Stivarga-H-C-2573-P46-014 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/542864/2024
+Adopted Reference Number: EMA/CHMP/542864/2024
 
 English (EN) (1.11 MB - PDF)
 
@@ -1078,23 +702,17 @@ Reference Number: EMA/495676/2018
 
 English (EN) (66.2 KB - PDF)
 
-**First published:** 19/07/2018
-
-**Last updated:** 19/07/2018
+**First published:** 19/07/2018 **Last updated:** 19/07/2018
 
 [View](/en/documents/scientific-conclusion/stivarga-h-c-psusa-00010133-201709-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Stivarga-H-C-2573-II-0020 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/467788/2017
+Adopted Reference Number: EMA/467788/2017
 
 English (EN) (3.67 MB - PDF)
 
-**First published:** 01/09/2017
-
-**Last updated:** 01/09/2017
+**First published:** 01/09/2017 **Last updated:** 01/09/2017
 
 [View](/en/documents/variation-report/stivarga-h-c-2573-ii-0020-epar-assessment-report-variation_en.pdf)
 
@@ -1104,9 +722,7 @@ Reference Number: EMA/CHMP/386334/2017
 
 English (EN) (72.63 KB - PDF)
 
-**First published:** 23/06/2017
-
-**Last updated:** 23/06/2017
+**First published:** 23/06/2017 **Last updated:** 23/06/2017
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-stivarga-ii-20_en.pdf)
 
@@ -1116,9 +732,7 @@ Reference Number: EMA/384182/2017
 
 English (EN) (63.99 KB - PDF)
 
-**First published:** 16/06/2017
-
-**Last updated:** 16/06/2017
+**First published:** 16/06/2017 **Last updated:** 16/06/2017
 
 [View](/en/documents/scientific-conclusion/stivarga-h-c-psusa-00010133-201609-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
@@ -1128,37 +742,27 @@ Reference Number: EMA/CHMP/648427/2014
 
 English (EN) (62.06 KB - PDF)
 
-**First published:** 22/01/2015
-
-**Last updated:** 22/01/2015
+**First published:** 22/01/2015 **Last updated:** 22/01/2015
 
 [View](/en/documents/scientific-conclusion/stivarga-h-c-psuv-0004-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Stivarga-H-C-2573-II-0001 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/348464/2014
+Adopted Reference Number: EMA/CHMP/348464/2014
 
 English (EN) (2.71 MB - PDF)
 
-**First published:** 18/09/2014
-
-**Last updated:** 18/09/2014
+**First published:** 18/09/2014 **Last updated:** 18/09/2014
 
 [View](/en/documents/variation-report/stivarga-h-c-2573-ii-0001-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Stivarga
 
-Adopted
-
-Reference Number: EMA/CHMP/365741/2014
+Adopted Reference Number: EMA/CHMP/365741/2014
 
 English (EN) (67.81 KB - PDF)
 
-**First published:** 27/06/2014
-
-**Last updated:** 27/06/2014
+**First published:** 27/06/2014 **Last updated:** 27/06/2014
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-stivarga_en.pdf)
 
@@ -1166,48 +770,44 @@ English (EN) (67.81 KB - PDF)
 
 Stivarga : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/403683/2013
+Adopted Reference Number: EMA/CHMP/403683/2013
 
 English (EN) (1.63 MB - PDF)
 
-**First published:** 12/09/2013
-
-**Last updated:** 12/09/2013
+**First published:** 12/09/2013 **Last updated:** 12/09/2013
 
 [View](/en/documents/assessment-report/stivarga-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Stivarga
 
-Adopted
-
-Reference Number: EMA/358125/2013
+Adopted Reference Number: EMA/358125/2013
 
 English (EN) (63.01 KB - PDF)
 
-**First published:** 28/06/2013
-
-**Last updated:** 28/06/2013
+**First published:** 28/06/2013 **Last updated:** 28/06/2013
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-stivarga_en.pdf)
 
-#### News on Stivarga
+## News on Stivarga
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 June 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-june-2017) 23/06/2017
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 June 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-june-2017)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 June 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-june-2014) 27/06/2014
+23/06/2017
 
-#### More information on Stivarga
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 June 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-june-2014)
+
+27/06/2014
+
+## More information on Stivarga
 
 - [EMA/PE/0000182170 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000182170)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 02/07/2025
+**This page was last updated on**
+
+24/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

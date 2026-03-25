@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-08-20 13:48:29
+document_datetime: 2026-03-23 15:16:39
 document_pages: 29
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/opzelura-epar-product-information_en.pdf
 document_name: opzelura-epar-product-information_en.pdf
 version: success
-processing_time: 7.935727
-conversion_datetime: 2025-12-25 00:51:11.383472
+processing_time: 8.1482079
+conversion_datetime: 2026-03-25 12:41:26.148893
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.0
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -245,7 +245,7 @@ Figure 1: Proportion of patients achieving F-VASI75 during the 52 week treatment
 
 <!-- image -->
 
-Vehicle BID-1.5% BID: Patients on vehicle twice daily for the first 24 weeks who crossed over to Opzelura twice daily for 28 weeks
+Vehicle BID-1.5% BID: Patients on vehicle twice daily for the first 24 weeks who crossed over to Opzehura twice daily for 28 weeks
 
 At week 52, the observed response rate for F-VASI90, T-VASI50 and VNS was 30.3%, 51.1%, and 36.3% respectively for the ITT pooled population.
 
@@ -253,9 +253,7 @@ At week 52, the observed response rate for F-VASI90, T-VASI50 and VNS was 30.3%,
 
 A Phase 3, double-blind, vehicle-controlled, randomised, withdrawal and treatment-extension study of ruxolitinib cream twice daily enrolled 458 eligible patients with vitiligo who had completed either of the parent studies using ruxolitinib  (TRuE-V1 and TRuE-V2; week 52); patients were assigned to either cohort A or B with a follow-up up to 104 weeks.
 
-Cohort A comprised 116 patients who reached ≥ F-VASI90 at week 52 of the parent study. These patients were re-randomised to either ruxolitinib or vehicle (i.e. withdrawal) to study relapse (&lt; F-VASI75). A relapse occurred in 15% of patients in the ruxolitinib group, and in 29% of patients in the vehicle group. In the latter group, the majority of relapses (9/16) occurred during the first 4 were retreated, re-treatment resulted in a regained F-VASI75 in 12 (75%) patients in a median of 12 weeks and F-VASI90 was regained by 11 (69%) patients in a median of 15 weeks.
-
-months after stopping ruxolitinib cream. Among the 16 patients in the vehicle group who relapsed and Cohort B comprised 342 patients who reached &lt; F-VASI90 at week 52 of the parent study. These patients continued with open-label ruxolitinib treatment; at week 104, among patients originally randomised to ruxolitinib cream twice daily, 66% reached F-VASI75, and 34% reached F-VASI90.
+Cohort A comprised 116 patients who reached ≥ F -VASI90 at week 52 of the parent study. These patients were re-randomised to either ruxolitinib or vehicle (i.e. withdrawal) to study relapse (&lt; F-VASI75). A relapse occurred in 15% of patients in the ruxolitinib group, and in 29% of patients in the vehicle group. In the latter group, the majority of relapses (9/16) occurred during the first 4 months after stopping ruxolitinib cream. Among the 16 patients in the vehicle group who relapsed and were retreated, re-treatment resulted in a regained F-VASI75 in 12 (75%) patients in a median of 12 weeks and F-VASI90 was regained by 11 (69%) patients in a median of 15 weeks. Cohort B comprised 342 patients who reached &lt; F-VASI90 at week 52 of the parent study. These patients continued with open-label ruxolitinib treatment; at week 104, among patients originally randomised to ruxolitinib cream twice daily, 66% reached F-VASI75, and 34% reached F-VASI90.
 
 ## Safety
 
@@ -319,11 +317,7 @@ In embryofetal development studies, oral administration of ruxolitinib to rats a
 
 Butylated hydroxytoluene (as an antioxidant in paraffin, white soft) (E321)
 
-Cetyl alcohol
-
-Dimeticone (E900) Disodium edetate (E385) Self -emulsifying Glyceryl stearate Macrogol Medium chain triglycerides Methyl parahydroxybenzoate (E218) Paraffin (E905), Liquid light Paraffin (E905), White soft Phenoxyethanol Polysorbate 20 (E432) Propylene glycol (E1520) Propyl parahydroxybenzoate Purified water Stearyl alcohol
-
-Xanthan gum (E415)
+Cetyl alcohol Dimeticone (E900) Disodium edetate (E385) Self -emulsifying Glyceryl stearate Macrogol Medium chain triglycerides Methyl parahydroxybenzoate (E218) Paraffin (E905), Liquid light Paraffin (E905), White soft Phenoxyethanol Phosphoric acid (E338) Polysorbate 20 (E432) Propylene glycol (E1520) Propyl parahydroxybenzoate Purified water Stearyl alcohol Xanthan gum (E415)
 
 ## 6.2 Incompatibilities
 
@@ -351,9 +345,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Incyte Biosciences Distribution B.V.
-
-Paasheuvelweg 25 1105 BP Amsterdam Netherlands
+Incyte Biosciences Distribution B.V. Paasheuvelweg 25 1105 BP Amsterdam Netherlands
 
 <div style=\"page-break-after: always\"></div>
 
@@ -365,13 +357,9 @@ EU/1/23/1726/001 EU/1/23/1726/002
 
 Date of first authorisation: 19 April 2023
 
-10.
+## 10. DATE OF REVISION OF THE TEXT
 
-DATE OF REVISION OF THE TEXT
-
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
-
-12
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -439,7 +427,7 @@ Opzelura 15 mg/g cream ruxolitinib
 
 ## 3. LIST OF EXCIPIENTS
 
-Butylated hydroxytoluene (E321), cetyl alcohol, dimeticone (E900), disodium edetate (E385), glyceryl stearate, paraffin (E905), macrogol, medium chain triglycerides, methyl parahydroxybenzoate (E218), phenoxyethanol, polysorbate 20 (E432), propylene glycol (E1520), propyl parahydroxybenzoate, purified water, stearyl alcohol and xanthan gum (E415).
+Butylated hydroxytoluene (E321), cetyl alcohol, dimeticone (E900), disodium edetate (E385), glyceryl stearate, paraffin (E905), macrogol, medium chain triglycerides, methyl parahydroxybenzoate (E218), phenoxyethanol, phosphoric acid (E338), polysorbate 20 (E432), propylene glycol (E1520), propyl parahydroxybenzoate, purified water, stearyl alcohol and xanthan gum (E415).
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -489,7 +477,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Opzelura
 
@@ -523,7 +511,7 @@ Opzelura 15 mg/g cream ruxolitinib
 
 ## 3. LIST OF EXCIPIENTS
 
-Butylated hydroxytoluene (E321), cetyl alcohol, dimeticone (E900), disodium edetate (E385), glyceryl stearate, paraffin (E905), macrogol, medium chain triglycerides, methyl parahydroxybenzoate (E218), phenoxyethanol, polysorbate 20 (E432), propylene glycol (E1520), propyl parahydroxybenzoate, purified water, stearyl alcohol and xanthan gum (E415).
+Butylated hydroxytoluene (E321), cetyl alcohol, dimeticone (E900), disodium edetate (E385), glyceryl stearate, paraffin (E905), macrogol, medium chain triglycerides, methyl parahydroxybenzoate (E218), phenoxyethanol, phosphoric acid (E338), polysorbate 20 (E432), propylene glycol (E1520), propyl parahydroxybenzoate, purified water, stearyl alcohol and xanthan gum (E415).
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -573,7 +561,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Opzelura
 
@@ -607,7 +595,7 @@ Opzelura 15 mg/g cream ruxolitinib
 
 ## 3. LIST OF EXCIPIENTS
 
-E321, cetyl alcohol, E900, E385, glyceryl stearate, E905, macrogol, medium chain triglycerides, E218, phenoxyethanol, E432, E1520, propyl parahydroxybenzoate, purified water, stearyl alcohol and E415.
+E321, cetyl alcohol, E900, E385, glyceryl stearate, E905, macrogol, medium chain triglycerides, E218, phenoxyethanol, E338, E432, E1520, propyl parahydroxybenzoate, purified water, stearyl alcohol and E415.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -637,8 +625,8 @@ Do not store above 30 ºC.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -658,8 +646,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -669,8 +657,6 @@ Lot
 
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
-
-22
 
 <div style=\"page-break-after: always\"></div>
 
@@ -688,7 +674,7 @@ Opzelura 15 mg/g cream ruxolitinib
 
 ## 3. LIST OF EXCIPIENTS
 
-E321, cetyl alcohol, E900, E385, glyceryl stearate, E905, macrogol, medium chain triglycerides, E218, phenoxyethanol, E432, E1520, propyl parahydroxybenzoate, purified water, stearyl alcohol and E415.
+E321, cetyl alcohol, E900, E385, glyceryl stearate, E905, macrogol, medium chain triglycerides, E218, phenoxyethanol, E338, E432, E1520, propyl parahydroxybenzoate, purified water, stearyl alcohol and E415.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -718,8 +704,8 @@ Do not store above 30 ºC.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -739,8 +725,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -895,13 +881,13 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Opzelura contains
 
 - -The active substance is ruxolitinib. One gram of cream contains 15 mg of ruxolitinib.
-- -The other ingredients are butylated hydroxytoluene (E321), cetyl alcohol, dimeticone (E900), disodium edetate (E385), glyceryl stearate, paraffin (E905), macrogol, medium chain triglycerides, methyl parahydroxybenzoate (E218), phenoxyethanol, polysorbate 20 (E432),
+- -The other ingredients are butylated hydroxytoluene (E321), cetyl alcohol, dimeticone (E900), disodium edetate (E385), glyceryl stearate, paraffin (E905), macrogol, medium chain triglycerides, methyl parahydroxybenzoate (E218), phenoxyethanol, phosphoric acid (E338),
 
 <div style=\"page-break-after: always\"></div>
 
-propylene glycol (E1520), propyl parahydroxybenzoate, purified water, stearyl alcohol, xanthan gum (E415).
+polysorbate 20 (E432), propylene glycol (E1520), propyl parahydroxybenzoate, purified water, stearyl alcohol, xanthan gum (E415).
 
-See section 2 'Opzelura contains propylene glycol, cetyl alcohol, stearyl alcohol, methyl parahydroxybenzoate, propyl parahydroxybenzoate,  butylated hydroxytoluene and polysorbate 20'.
+See section 2 'Opzelura contains propylene glycol, cetyl alcohol, stearyl alcohol, methyl parahydroxybenzoate, propyl parahydroxybenzoate, butylated hydroxytoluene and polysorbate 20'.
 
 ## What Opzelura looks like and contents of the pack
 
@@ -913,4 +899,4 @@ Incyte Biosciences Distribution B.V. Paasheuvelweg 25 1105 BP Amsterdam Netherla
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu

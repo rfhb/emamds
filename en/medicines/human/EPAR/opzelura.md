@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:14:48
+document_datetime: 2026-03-23 15:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/opzelura.html
 document_name: opzelura.html
 version: success
-processing_time: 0.105044
-conversion_datetime: 2025-12-30 01:22:00.301893
+processing_time: 0.1106252
+conversion_datetime: 2026-03-25 12:27:22.059564
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.0
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Opzelura
 
 [RSS](/en/individual-human-medicine.xml/67670)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-ruxolitinib Medicine Human Authorised
+ruxolitinib
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -110,181 +110,137 @@ English (EN) (119.97 KB - PDF)
 
 [View](/en/documents/overview/opzelura-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-526)
+[Other languages (22)](#file-language-dropdown-396)
 
 български (BG) (143.77 KB - PDF)
 
-**First published:**
-
-20/04/2023
+**First published:** 20/04/2023
 
 [View](/bg/documents/overview/opzelura-epar-medicine-overview_bg.pdf)
 
 español (ES) (119.61 KB - PDF)
 
-**First published:**
-
-20/04/2023
+**First published:** 20/04/2023
 
 [View](/es/documents/overview/opzelura-epar-medicine-overview_es.pdf)
 
 čeština (CS) (140.92 KB - PDF)
 
-**First published:**
-
-20/04/2023
+**First published:** 20/04/2023
 
 [View](/cs/documents/overview/opzelura-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (118.79 KB - PDF)
 
-**First published:**
-
-20/04/2023
+**First published:** 20/04/2023
 
 [View](/da/documents/overview/opzelura-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (121.61 KB - PDF)
 
-**First published:**
-
-20/04/2023
+**First published:** 20/04/2023
 
 [View](/de/documents/overview/opzelura-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (108.21 KB - PDF)
 
-**First published:**
-
-20/04/2023
+**First published:** 20/04/2023
 
 [View](/et/documents/overview/opzelura-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (142.91 KB - PDF)
 
-**First published:**
-
-20/04/2023
+**First published:** 20/04/2023
 
 [View](/el/documents/overview/opzelura-epar-medicine-overview_el.pdf)
 
 français (FR) (127.22 KB - PDF)
 
-**First published:**
-
-20/04/2023
+**First published:** 20/04/2023
 
 [View](/fr/documents/overview/opzelura-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (138.23 KB - PDF)
 
-**First published:**
-
-20/04/2023
+**First published:** 20/04/2023
 
 [View](/hr/documents/overview/opzelura-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (118.73 KB - PDF)
 
-**First published:**
-
-20/04/2023
+**First published:** 20/04/2023
 
 [View](/it/documents/overview/opzelura-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (151.03 KB - PDF)
 
-**First published:**
-
-20/04/2023
+**First published:** 20/04/2023
 
 [View](/lv/documents/overview/opzelura-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (157.66 KB - PDF)
 
-**First published:**
-
-20/04/2023
+**First published:** 20/04/2023
 
 [View](/lt/documents/overview/opzelura-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (141.55 KB - PDF)
 
-**First published:**
-
-20/04/2023
+**First published:** 20/04/2023
 
 [View](/hu/documents/overview/opzelura-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (143.31 KB - PDF)
 
-**First published:**
-
-20/04/2023
+**First published:** 20/04/2023
 
 [View](/mt/documents/overview/opzelura-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (119.77 KB - PDF)
 
-**First published:**
-
-20/04/2023
+**First published:** 20/04/2023
 
 [View](/nl/documents/overview/opzelura-epar-medicine-overview_nl.pdf)
 
 polski (PL) (143.4 KB - PDF)
 
-**First published:**
-
-20/04/2023
+**First published:** 20/04/2023
 
 [View](/pl/documents/overview/opzelura-epar-medicine-overview_pl.pdf)
 
 português (PT) (119.94 KB - PDF)
 
-**First published:**
-
-20/04/2023
+**First published:** 20/04/2023
 
 [View](/pt/documents/overview/opzelura-epar-medicine-overview_pt.pdf)
 
 română (RO) (140.2 KB - PDF)
 
-**First published:**
-
-20/04/2023
+**First published:** 20/04/2023
 
 [View](/ro/documents/overview/opzelura-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (140.91 KB - PDF)
 
-**First published:**
-
-20/04/2023
+**First published:** 20/04/2023
 
 [View](/sk/documents/overview/opzelura-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (139.17 KB - PDF)
 
-**First published:**
-
-20/04/2023
+**First published:** 20/04/2023
 
 [View](/sl/documents/overview/opzelura-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (117.94 KB - PDF)
 
-**First published:**
-
-20/04/2023
+**First published:** 20/04/2023
 
 [View](/fi/documents/overview/opzelura-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (118.53 KB - PDF)
 
-**First published:**
-
-20/04/2023
+**First published:** 20/04/2023
 
 [View](/sv/documents/overview/opzelura-epar-medicine-overview_sv.pdf)
 
@@ -292,315 +248,169 @@ Opzelura : EPAR - Risk management plan
 
 English (EN) (425.76 KB - PDF)
 
-**First published:** 20/04/2023
-
-**Last updated:** 28/07/2025
+**First published:** 20/04/2023 **Last updated:** 28/07/2025
 
 [View](/en/documents/rmp/opzelura-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
-Opzelura : EPAR -  Product Information
+Opzelura : EPAR - Product Information
 
-English (EN) (485.89 KB - PDF)
+English (EN) (491.3 KB - PDF)
 
-**First published:** 20/04/2023
-
-**Last updated:** 20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/en/documents/product-information/opzelura-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-679)
+[Other languages (24)](#file-language-dropdown-457)
 
-български (BG) (408.8 KB - PDF)
+български (BG) (420.61 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/bg/documents/product-information/opzelura-epar-product-information_bg.pdf)
 
-español (ES) (368 KB - PDF)
+español (ES) (372.45 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/es/documents/product-information/opzelura-epar-product-information_es.pdf)
 
-čeština (CS) (417.38 KB - PDF)
+čeština (CS) (430.5 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/cs/documents/product-information/opzelura-epar-product-information_cs.pdf)
 
-dansk (DA) (351.51 KB - PDF)
+dansk (DA) (364.48 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/da/documents/product-information/opzelura-epar-product-information_da.pdf)
 
-Deutsch (DE) (369.58 KB - PDF)
+Deutsch (DE) (380.46 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/de/documents/product-information/opzelura-epar-product-information_de.pdf)
 
-eesti keel (ET) (347.51 KB - PDF)
+eesti keel (ET) (343.04 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/et/documents/product-information/opzelura-epar-product-information_et.pdf)
 
-ελληνικά (EL) (430.12 KB - PDF)
+ελληνικά (EL) (433.11 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/el/documents/product-information/opzelura-epar-product-information_el.pdf)
 
-français (FR) (441.72 KB - PDF)
+français (FR) (449.09 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/fr/documents/product-information/opzelura-epar-product-information_fr.pdf)
 
-hrvatski (HR) (393.73 KB - PDF)
+hrvatski (HR) (405.48 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/hr/documents/product-information/opzelura-epar-product-information_hr.pdf)
 
-íslenska (IS) (445.32 KB - PDF)
+íslenska (IS) (453.15 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/is/documents/product-information/opzelura-epar-product-information_is.pdf)
 
-italiano (IT) (376.34 KB - PDF)
+italiano (IT) (376.46 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/it/documents/product-information/opzelura-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (398.2 KB - PDF)
+latviešu valoda (LV) (405.56 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/lv/documents/product-information/opzelura-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (429.76 KB - PDF)
+lietuvių kalba (LT) (440.1 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/lt/documents/product-information/opzelura-epar-product-information_lt.pdf)
 
-magyar (HU) (431.71 KB - PDF)
+magyar (HU) (440.1 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/hu/documents/product-information/opzelura-epar-product-information_hu.pdf)
 
-Malti (MT) (512.92 KB - PDF)
+Malti (MT) (512.07 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/mt/documents/product-information/opzelura-epar-product-information_mt.pdf)
 
-Nederlands (NL) (458.17 KB - PDF)
+Nederlands (NL) (466.77 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/nl/documents/product-information/opzelura-epar-product-information_nl.pdf)
 
-norsk (NO) (357.52 KB - PDF)
+norsk (NO) (359.9 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/no/documents/product-information/opzelura-epar-product-information_no.pdf)
 
-polski (PL) (527.94 KB - PDF)
+polski (PL) (450.52 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/pl/documents/product-information/opzelura-epar-product-information_pl.pdf)
 
-português (PT) (348.96 KB - PDF)
+português (PT) (351.13 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/pt/documents/product-information/opzelura-epar-product-information_pt.pdf)
 
-română (RO) (401.24 KB - PDF)
+română (RO) (402.84 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/ro/documents/product-information/opzelura-epar-product-information_ro.pdf)
 
-slovenčina (SK) (452.29 KB - PDF)
+slovenčina (SK) (462.86 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/sk/documents/product-information/opzelura-epar-product-information_sk.pdf)
 
-slovenščina (SL) (403.63 KB - PDF)
+slovenščina (SL) (411.93 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/sl/documents/product-information/opzelura-epar-product-information_sl.pdf)
 
-Suomi (FI) (441.22 KB - PDF)
+Suomi (FI) (446.18 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/fi/documents/product-information/opzelura-epar-product-information_fi.pdf)
 
-svenska (SV) (327.23 KB - PDF)
+svenska (SV) (322.47 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-20/08/2025
+**First published:** 20/04/2023 **Last updated:** 23/03/2026
 
 [View](/sv/documents/product-information/opzelura-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000256180 03/07/2025
+**Latest procedure affecting product information:** VR/0000296040
+
+26/02/2026
 
 icon globe
 
@@ -620,305 +430,177 @@ Opzelura : EPAR -  All Authorised Presentations
 
 English (EN) (37.08 KB - PDF)
 
-**First published:** 20/04/2023
-
-**Last updated:** 22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/en/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-617)
+[Other languages (24)](#file-language-dropdown-279)
 
 български (BG) (34.5 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/bg/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (36.43 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/es/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (31.48 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/cs/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (57.03 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/da/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (10.03 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/de/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (9.74 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/et/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (32.82 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/el/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (10.14 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/fr/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (27.82 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/hr/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (10 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/is/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (9.52 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/it/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (63.61 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/lv/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (55.33 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/lt/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (29.59 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/hu/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (30.98 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/mt/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (35.01 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/nl/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (35.22 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/no/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (56.79 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/pl/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (35.14 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/pt/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (54.74 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/ro/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (57.71 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/sk/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (43.11 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/sl/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (36.02 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/fi/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (35.15 KB - PDF)
 
-**First published:**
-
-20/04/2023
-
-**Last updated:**
-
-22/06/2023
+**First published:** 20/04/2023 **Last updated:** 22/06/2023
 
 [View](/sv/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Opzelura Active substance ruxolitinib phosphate International non-proprietary name (INN) or common name ruxolitinib Therapeutic area (MeSH) Vitiligo Anatomical therapeutic chemical (ATC) code D11AH
+Name of medicine
+
+Opzelura
+
+Active substance
+
+ruxolitinib phosphate
+
+International non-proprietary name (INN) or common name
+
+ruxolitinib
+
+Therapeutic area (MeSH)
+
+Vitiligo
+
+Anatomical therapeutic chemical (ATC) code
+
+D11AH
 
 ### Pharmacotherapeutic group
 
@@ -930,13 +612,27 @@ Opzelura is indicated for the treatment of non-segmental vitiligo with facial in
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005843 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/005843
+
+Marketing authorisation holder
 
 Incyte Biosciences Distribution B.V.
 
 Paasheuvelweg 25
 
-Opinion adopted 23/02/2023 Marketing authorisation issued 19/04/2023 Revision 4
+Opinion adopted
+
+23/02/2023
+
+Marketing authorisation issued
+
+19/04/2023
+
+Revision
+
+5
 
 ## Assessment history
 
@@ -948,11 +644,9 @@ Collapse section
 
 Opzelura : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (156.76 KB - PDF)
+English (EN) (174.03 KB - PDF)
 
-**First published:** 28/07/2025
-
-**Last updated:** 20/08/2025
+**First published:** 28/07/2025 **Last updated:** 23/03/2026
 
 [View](/en/documents/procedural-steps-after/opzelura-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -960,9 +654,7 @@ Opzelura : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (162.05 KB - PDF)
 
-**First published:** 22/06/2023
-
-**Last updated:** 28/07/2025
+**First published:** 22/06/2023 **Last updated:** 28/07/2025
 
 [View](/en/documents/procedural-steps-after/opzelura-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -970,9 +662,7 @@ English (EN) (162.05 KB - PDF)
 
 Opzelura : EPAR - Public Assessment Report
 
-Adopted
-
-Reference Number: EMA/135534/2023
+Adopted Reference Number: EMA/135534/2023
 
 English (EN) (5.1 MB - PDF)
 
@@ -982,9 +672,7 @@ English (EN) (5.1 MB - PDF)
 
 CHMP summary of positive opinion for Opzelura
 
-Adopted
-
-Reference Number: EMA/CHMP/27927/2023
+Adopted Reference Number: EMA/CHMP/27927/2023
 
 English (EN) (117.47 KB - PDF)
 
@@ -992,19 +680,21 @@ English (EN) (117.47 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-opzelura_en.pdf)
 
-#### News on Opzelura
+## News on Opzelura
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20 - 23 February 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-february-2023) 24/02/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20 - 23 February 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-february-2023)
 
-#### More information on Opzelura
+24/02/2023
+
+## More information on Opzelura
 
 - [EMEA-002618-PIP02-20-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002618-pip02-20-m01)
 - [EMEA-002618-PIP04-23 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002618-pip04-23)
 - [Opzelura - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/opzelura)
 - [An Observational Study Assessing the Long-term Risk of Non-Melanoma Skin Cancer (NMSC) Among New Users of OpzeluraTM (Ruxolitinib) Cream in a Vitiligo Patient Population: Post-Authorization Safety Study (PASS) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000413)
 
-**This page was last updated on** 20/08/2025
+**This page was last updated on**
+
+23/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

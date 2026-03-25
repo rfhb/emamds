@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-12-04 16:20:53
-document_pages: 28
+document_datetime: 2026-03-23 16:19:52
+document_pages: 30
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/qutenza-epar-product-information_en.pdf
 document_name: qutenza-epar-product-information_en.pdf
 version: success
-processing_time: 5.6632518
-conversion_datetime: 2025-12-29 19:18:36.830179
+processing_time: 6.1932238
+conversion_datetime: 2026-03-25 12:25:21.431633
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.0
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -54,15 +54,17 @@ The Qutenza cutaneous patch should be applied by a physician or by a health care
 
 ## Posology
 
-The cutaneous patch should be applied to the most painful skin areas (using up to a maximum of 4 patches). The painful area should be determined by the physician or by a health care professional and marked on the skin. Qutenza must be applied to intact, non-irritated, dry skin, and allowed to remain in place for 30 minutes for the feet (e.g. HIV-associated neuropathy, painful diabetic peripheral neuropathy) and 60 minutes for other locations (e.g. postherpetic neuralgia). Qutenza treatments may be repeated every 90 days, as warranted by the persistence or return of pain. Re-treatment after less than 90 days can be considered for individual patients only after a careful assessment by the physician (see also section 5.1). A minimum interval of 60 days between treatments is to be observed.
+The cutaneous patch should be applied to the most affected skin areas (using up to a maximum of 4 patches). This area should be determined by the physician or by a health care professional and marked on the skin. Qutenza must be applied to intact, non-irritated, dry skin, and allowed to remain in place for 30 minutes for the feet (e.g. HIV-associated neuropathy, painful diabetic peripheral neuropathy) and 60 minutes for other locations (e.g. postherpetic neuralgia).
+
+Qutenza treatments may be repeated every 90 days, as warranted by the persistence or return of peripheral neuropathic pain.
+
+Re-treatment after less than 90 days can be considered for individual patients only after a careful assessment by the physician (see also section 5.1). A minimum interval of 60 days between treatments is to be observed.
 
 It is recommended to treat sufficiently long and to reassess effectiveness on a case-by-case basis after 3 treatments.
 
-The treatment area may be pre-treated with a topical anaesthetic or the patient may be administered an oral analgesic prior to application of Qutenza to reduce potential application related discomfort. The
-
 <div style=\"page-break-after: always\"></div>
 
-topical anaesthetic should be applied to cover the entire Qutenza treatment area and surrounding 1 to 2 cm. Topical anaesthetics should be removed prior to applying Qutenza and the skin washed and dried thoroughly.
+The treatment area may be pre-treated with a topical anaesthetic or the patient may be administered an oral analgesic prior to application of Qutenza to reduce potential application related discomfort. The topical anaesthetic should be applied to cover the entire Qutenza treatment area and surrounding 1 to 2 cm. Topical anaesthetics should be removed prior to applying Qutenza and the skin washed and dried thoroughly.
 
 ## Renal and/or hepatic impairment
 
@@ -74,7 +76,7 @@ The safety and efficacy of Qutenza in children from birth to 18 years has not be
 
 ## Method of administration
 
-## Cutaneous use only.
+Cutaneous use only.
 
 Precautions to be taken before handling or administering the medicinal product It is advisable to administer Qutenza in a well ventilated treatment area.
 
@@ -94,9 +96,11 @@ When treating feet, Qutenza patches can be wrapped around the dorsal, lateral an
 
 To ensure Qutenza maintains contact to the treatment area, stretchable socks or rolled gauze may be used.
 
-The Qutenza patches should be removed gently and slowly by rolling them inward to minimize the risk of aerosolisation of capsaicin. After removal of Qutenza, cleansing gel should be applied liberally to the treatment area and left on for at least one minute. Cleansing gel should be wiped off with dry gauze to remove any remaining capsaicin from the skin. After the cleansing gel has been wiped off, the area should be gently washed with soap and water.
+The Qutenza patches should be removed gently and slowly by rolling them inward to minimize the risk of aerosolisation of capsaicin. After removal of Qutenza, cleansing gel should be applied liberally to the treatment area and left on for at least one minute. Cleansing gel should be wiped off with dry
 
 <div style=\"page-break-after: always\"></div>
+
+gauze to remove any remaining capsaicin from the skin. After the cleansing gel has been wiped off, the area should be gently washed with soap and water.
 
 Patients experiencing pain during and after patch application should be provided with supportive treatment (see section 4.4)
 
@@ -122,15 +126,13 @@ Application site reactions, such as transient local applications site burning, p
 
 ## Unintended exposure
 
-Unintended exposure to capsaicin may cause irritation of eyes, mucous membranes, respiratory tract, and skin in patients and healthcare professionals. Healthcare professionals should ensure that the recommended protective measures as outlined in Section 4.2 are applied appropriately. If Qutenza comes in contact with skin not intended to be treated, cleansing gel should be applied for one minute and wiped off with dry gauze to remove any remaining capsaicin from the skin surface. After the cleansing gel has been wiped off, the area should be gently washed with soap and water. If capsaicin comes in contact with eyes or mucous membranes, these should be flushed or rinsed with cold water. If irritation of airways, eyes, or mucous membranes occurs, the affected individual should leave theQutenza treatment area. Appropriate medical care should be provided if shortness of breath develops. If respiratory irritation (see also Section 4.8) worsens or does not resolve, the affected individual should carefully consider being re-exposed to Qutenza.
+Unintended exposure to capsaicin may cause irritation of eyes, mucous membranes, respiratory tract, and skin in patients and healthcare professionals. Healthcare professionals should ensure that the recommended protective measures as outlined in Section 4.2 are applied appropriately. If Qutenza comes in contact with skin not intended to be treated, cleansing gel should be applied for one minute and wiped off with dry gauze to remove any remaining capsaicin from the skin surface. After the cleansing gel has been wiped off, the area should be gently washed with soap and water. If capsaicin comes in contact with eyes or mucous membranes, these should be flushed or rinsed with cold water. If irritation of airways, eyes, or mucous membranes occurs, the affected individual should leave the Qutenza treatment area. Appropriate medical care should be provided if shortness of breath develops. If respiratory irritation (see also Section 4.8) worsens or does not resolve, the affected individual should carefully consider being re-exposed to Qutenza.
 
 ## Increase in blood pressure
 
-As a result of treatment-related increases in pain, transient increases in blood pressure (on average &lt; 8.0 mm Hg) may occur during and shortly after the Qutenza treatment. Blood pressure should be monitored during the treatment procedure. For patients with unstable or poorly controlled hypertension
-
 <div style=\"page-break-after: always\"></div>
 
-or a history of cardiovascular disease, the risk of adverse cardiovascular events due to the potential stress of the procedure should be considered prior to initiating Qutenza treatment. Particular attention should be given to diabetic patients with comorbidities of coronary artery disease, hypertension and cardiovascular autonomic neuropathy.
+As a result of treatment-related increases in pain, transient increases in blood pressure (on average &lt; 8.0 mm Hg) may occur during and shortly after the Qutenza treatment. Blood pressure should be monitored during the treatment procedure. For patients with unstable or poorly controlled hypertension or a history of cardiovascular disease, the risk of adverse cardiovascular events due to the potential stress of the procedure should be considered prior to initiating Qutenza treatment. Particular attention should be given to diabetic patients with comorbidities of coronary artery disease, hypertension and cardiovascular autonomic neuropathy.
 
 ## Treatment-related discomfort
 
@@ -172,48 +174,50 @@ Qutenza has no or negligible influence on the ability to drive and use machines.
 
 The most commonly reported adverse reactions were transient local application site burning, pain, erythema and pruritus.
 
-## Tabulated list of adverse reactions
-
 <div style=\"page-break-after: always\"></div>
 
-In Table 1 below all adverse reactions, which occurred at an incidence greater than control and in more than one patient in controlled clinical trials in patients with postherpetic neuralgia (PHN), painful Human Imunodeficiency Virus - Associated Neuropathy (HIV-AN) and painful diabetic peripheral neuropathy, are listed by system organ class and frequency: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100) and not known (cannot be estimated from the available data).
+## Tabulated list of adverse reactions
+
+In Table 1 below all adverse reactions, which occurred at an incidence greater than control and in more than one patient in controlled clinical trials in patients with postherpetic neuralgia (PHN), painful Human Imunodeficiency Virus - Associated Neuropathy (HIV-AN) and painful diabetic peripheral neuropathy, are listed by system organ class and frequency: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1,000 to &lt; 1/100) and not known (cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1: Tabulated list of adverse reactions
 
-| System organ class and frequency                     | Adverse reaction                                                                                                                                                                |
-|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                          |                                                                                                                                                                                 |
-| Uncommon                                             | Herpes zoster                                                                                                                                                                   |
-| Nervous system disorders                             |                                                                                                                                                                                 |
-| Common                                               | Burning sensation                                                                                                                                                               |
-| Uncommon                                             | Dysgeusia, hypoaesthesia                                                                                                                                                        |
-| Eye disorders                                        |                                                                                                                                                                                 |
-| Uncommon                                             | Eye irritation                                                                                                                                                                  |
-| Cardiac disorders                                    |                                                                                                                                                                                 |
-| Uncommon                                             | First degree atrio-ventricular (AV) block, tachycardia, palpitations                                                                                                            |
-| Vascular disorders                                   |                                                                                                                                                                                 |
-| Common                                               | Hypertension                                                                                                                                                                    |
-| Respiratory, thoracic and mediastinal disorders      |                                                                                                                                                                                 |
-| Common                                               | Cough                                                                                                                                                                           |
-| Uncommon                                             | Throat irritation                                                                                                                                                               |
-| Gastrointestinal disorders                           |                                                                                                                                                                                 |
-| Common                                               | Nausea                                                                                                                                                                          |
-| Skin and subcutaneous tissue disorders               |                                                                                                                                                                                 |
-| Common                                               | Pruritus                                                                                                                                                                        |
-| Musculoskeletal and connective tissue disorders      |                                                                                                                                                                                 |
-| Common                                               | Pain in extremity, muscle spasms                                                                                                                                                |
-| General disorders and administration site conditions |                                                                                                                                                                                 |
-| Very common                                          | Application site pain, application site erythema                                                                                                                                |
-| Common                                               | Application site pruritus, application site papules, application site vesicles, application site oedema, application site swelling, application site dryness, peripheral oedema |
-| Investigations                                       |                                                                                                                                                                                 |
-| Common                                               | Increased blood pressure                                                                                                                                                        |
-| Not known                                            | Application site burns (including second- and third-degree burns), accidental exposure (including eye pain, eye and throat irritation and cough)                                |
-
-Description of selected adverse reactions
+| System organ class and frequency                     | Adverse reaction                                                                                                                                                                                                                                        |
+|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                          |                                                                                                                                                                                                                                                         |
+| Uncommon                                             | Herpes zoster                                                                                                                                                                                                                                           |
+| Nervous system disorders                             |                                                                                                                                                                                                                                                         |
+| Common                                               | Burning sensation                                                                                                                                                                                                                                       |
+| Uncommon                                             | Dysgeusia, hypoaesthesia                                                                                                                                                                                                                                |
+| Eye disorders                                        |                                                                                                                                                                                                                                                         |
+| Uncommon                                             | Eye irritation                                                                                                                                                                                                                                          |
+| Cardiac disorders                                    |                                                                                                                                                                                                                                                         |
+| Uncommon                                             | First degree atrio-ventricular (AV) block, tachycardia, palpitations                                                                                                                                                                                    |
+| Vascular disorders                                   |                                                                                                                                                                                                                                                         |
+| Common                                               | Hypertension                                                                                                                                                                                                                                            |
+| Respiratory, thoracic and mediastinal disorders      |                                                                                                                                                                                                                                                         |
+| Common                                               | Cough                                                                                                                                                                                                                                                   |
+| Uncommon                                             | Throat irritation                                                                                                                                                                                                                                       |
+| Gastrointestinal disorders                           |                                                                                                                                                                                                                                                         |
+| Common                                               | Nausea                                                                                                                                                                                                                                                  |
+| Skin and subcutaneous tissue disorders               |                                                                                                                                                                                                                                                         |
+| Common                                               | Pruritus                                                                                                                                                                                                                                                |
+| Musculoskeletal and connective tissue disorders      |                                                                                                                                                                                                                                                         |
+| Common                                               | Pain in extremity, muscle spasms                                                                                                                                                                                                                        |
+| General disorders and administration site conditions |                                                                                                                                                                                                                                                         |
+| Very common                                          | Application site pain, application site erythema                                                                                                                                                                                                        |
+|                                                      | application site oedema, application site swelling, application site dryness, peripheral oedema Application site urticaria, application site paraesthesia, application site dermatitis, application site hyperaesthesia, application site inflammation, |
+| Common Uncommon                                      | application site reaction, application site irritation, application site bruising                                                                                                                                                                       |
+| Investigations                                       |                                                                                                                                                                                                                                                         |
+| Common                                               | Increased blood pressure                                                                                                                                                                                                                                |
+| Injury, poisoning and procedural complications       |                                                                                                                                                                                                                                                         |
+| Not known                                            | Application site burns (including second- and third-degree burns), accidental exposure (including eye pain, eye and throat irritation and cough)                                                                                                        |
 
 <div style=\"page-break-after: always\"></div>
+
+## Description of selected adverse reactions
 
 Adverse reactions were transient, self limiting and usually mild to moderate in intensity. In controlled trials, the discontinuation rate due to adverse reactions was 2.0% for patients receiving Qutenza and 0.9% for patients receiving control.
 
@@ -239,17 +243,17 @@ Capsaicin, or 6-nonenamide, N-[(4-hydroxy-3-methoxyphenyl) methyl]-8-methyl, (6E
 
 ## Pharmacodynamic effects
 
-Following capsaicin exposure, cutaneous nociceptors become less sensitive to a variety of stimuli. These later-stage effects of capsaicin are frequently referred to as 'desensitization' and are thought to underlie the pain relief. Sensations from non TRPV1-expressing cutaneous nerves are expected to remain unaltered, including the ability to detect mechanical and vibratory stimuli. Capsaicin-induced alterations in cutaneous nociceptors are reversible and it has been reported and observed that normal function (the detection of noxious sensations) returns within weeks in healthy volunteers.
+Following capsaicin exposure, cutaneous nociceptors become less sensitive to a variety of stimuli. These later-stage effects of capsaicin are frequently referred to as 'desensitization' and are thought to underlie the pain relief. Sensations from non TRPV1-expressing cutaneous nerves are expected to remain unaltered, including the ability to detect mechanical and vibratory stimuli. Capsaicin-induced alterations in cutaneous nociceptors are reversible and it has been reported and observed that normal function (the detection of noxious sensations) returns within weeks in healthy volunteers. The neurolytic effect of capsaicin leading to a decrease in epidermal nerve density following topical administration, has also been shown to be reversible in patients with peripheral neuropathic pain.
 
 ## Clinical efficacy and safety
 
-Efficacy of a single 30-minute application of Qutenza to the feet has been shown in controlled clinical trials of 12 weeks duration conducted in patients with painful Human Imunodeficiency Virus Associated Neuropathy (HIV-AN) and painful diabetic peripheral neuropathy (pDPN). Efficacy of a single 60-minute application of Qutenza to locations other than the feet has been shown in controlled clinical trials of 12 weeks duration conducted in patients with postherpetic neuralgia (PHN). The average pain reduction after single application of Qutenza compared to baseline at week 2 to12 across the pivotal trials ranged between -22.8 % and -32.3%, compared to a range of -10.7% to -25.0% for the control patches Responder rates (response defined as a 30% decrease in average pain score from
+Efficacy of a single 30-minute application of Qutenza to the feet has been shown in controlled clinical trials of 12 weeks duration conducted in patients with painful Human Imunodeficiency Virus Associated Neuropathy (HIV-AN) and painful diabetic peripheral neuropathy (pDPN). Efficacy of a single 60-minute application of Qutenza to locations other than the feet has been shown in controlled
 
 <div style=\"page-break-after: always\"></div>
 
-baseline) ranged between 34% and 47%, compared to a range of 18% to 36% for the control patches. These results were statistically significant versus low dose capsaicin (PHN and HIV-AN) or placebo (pDPN). Pain reduction was observed at week 1 in PHN, week 2 in HIV-AN and week 3 in pDPN. For all three aetiologies efficacy was maintained throughout the 12-week study period.
+clinical trials of 12 weeks duration conducted in patients with postherpetic neuralgia (PHN). The average pain reduction after single application of Qutenza compared to baseline at week 2 to12 across the pivotal trials ranged between -22.8 % and -32.3%, compared to a range of -10.7% to -25.0% for the control patches Responder rates (response defined as a 30% decrease in average pain score from baseline) ranged between 34% and 47%, compared to a range of 18% to 36% for the control patches. These results were statistically significant versus low dose capsaicin (PHN and HIV-AN) or placebo (pDPN). Pain reduction was observed at week 1 in PHN, week 2 in HIV-AN and week 3 in pDPN. For all three aetiologies efficacy was maintained throughout the 12-week study period.
 
-Consistent and reproducible efficacy and tolerability was demonstrated with repeated treatments during a 52-week period in two clinical trials (STRIDE and PACE). In these two trials, one in pDPN patients (PACE) and one in patients with HIV-AN, Post Traumatic Nerve Injury (PNI) and PHN (STRIDE), the mean time (Standard Deviation) to retreatment was 68.4 (23.31) and 107 (43.58) days respectively. In these trials 25% of patients had a retreatment time shorter than 61.5 and 78.8 days respectively and 25% of patients had a retreatment time longer than 64.6 and 118.7 days respectively. A frequency increase of up to approximately 5% of known application site reactions, such as pain and burning sensation, was reported in patients retreated with Qutenza earlier than 90 days.
+Consistent and reproducible efficacy and tolerability was demonstrated with repeated treatments during a 52-week period in two clinical trials (STRIDE and PACE). In these two trials, one in pDPN patients (PACE) and one in patients with HIV-AN, Post Traumatic Nerve Injury (PNI) and PHN (STRIDE), the mean time (Standard Deviation) to retreatment was 68.4 (23.31) and 107 (43.58) days respectively. Repeated treatment with Qutenza in PACE and STRIDE was associated with progressively decreasing 24-hour average pain intensity and increasing responder rates, improvement in sleep and improvement in QoL. Likewise, in real world data, repeated treatments with Qutenza could be correlated with a decrease in neuropathic pain symptoms, improvement in quality of life and sleep. In these trials 25% of patients had a retreatment time shorter than 61.5 and 78.8 days respectively and 25% of patients had a retreatment time longer than 64.6 and 118.7 days respectively. A frequency increase of up to approximately 5% of known application site reactions, such as pain and burning sensation, was reported in patients retreated with Qutenza earlier than 90 days.
 
 The safety profile of Qutenza in diabetic patients was consistent with that seen in the non-diabetic population.
 
@@ -263,17 +267,17 @@ According to the EC Scientific Committee on Food, the average European oral inta
 
 Pharmacokinetic data in humans showed transient, low (&lt; 5 ng/ml) systemic exposure to capsaicin in about one third of PHN patients, in 3% of patients with painful diabetic peripheral neuropathy and in no HIV-AN patients following 60-minute applications of Qutenza. No data are available following 30-minute treatments. In general, the proportions of PHN patients with systemic exposure to capsaicin increased with larger treatment areas and with longer treatment durations. The highest concentration of capsaicin detected in patients treated for 60 minutes was 4.6 ng/mL, which occurred immediately after Qutenza removal. Most quantifiable levels were observed at the time of Qutenza removal, with a clear trend towards disappearance by 3 to 6 hours after Qutenza removal. No detectable levels of metabolites were observed in any subject.
 
+<div style=\"page-break-after: always\"></div>
+
 A population pharmacokinetic analysis of patients treated for 60 and 90 minutes indicated that capsaicin levels in plasma peaked around 20 minutes after Qutenza removal and declined very rapidly, with a mean elimination half-life of about 130 minutes.
 
 ## 5.3 Preclinical safety data
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, single-dose toxicity, and repeated-dose toxicity.
 
-<div style=\"page-break-after: always\"></div>
-
 Genotoxicity studies performed with capsaicin show a weak mutagenic response in the mouse lymphoma assay and negative responses in the Ames, mouse micronucleus and chromosomal aberrationin human peripheral blood lymphocytes assays.
 
-Acarcinogenicity study performed in mice indicates that capsaicin is not carcinogenic.
+A carcinogenicity study performed in mice indicates that capsaicin is not carcinogenic.
 
 A reproductive toxicology study conducted in rats showed a statistically significant reduction in the number and percent of motile sperms in rats treated 3 hours/day beginning 28 days before cohabitation, through cohabitation and continuing through the day before sacrifice. Although neither statistically significant nor dose dependent, the Fertility Index and the number of pregnancies per number of rats in cohabitation were reduced in all capsaicin-treated groups.
 
@@ -285,7 +289,7 @@ A mild sensitization was seen in a cutaneous sensitization study with guinea pig
 
 ## 6.1 List of excipients
 
-Patch
+## Patch
 
 Matrix silicone adhesives diethylene glycol monoethyl ether silicone oil ethylcellulose N50 (E462)
 
@@ -293,7 +297,13 @@ Backing layer Polyethylene Terephthalate (PET) Film, inner side siliconized prin
 
 Removable protective layer (release liner) polyester film, fluoropolymer-coated
 
-Cleansing gel macrogol 300 carbomer purified water sodium hydroxide (E524) disodium edetate butylhydroxyanisole (E320)
+## Cleansing gel
+
+macrogol 300 carbomer purified water sodium hydroxide (E524) disodium edetate
+
+<div style=\"page-break-after: always\"></div>
+
+butylhydroxyanisole (E320)
 
 ## 6.2 Incompatibilities
 
@@ -303,13 +313,9 @@ Not applicable.
 
 4 years.
 
-<div style=\"page-break-after: always\"></div>
-
 After opening sachet: apply Qutenza within 2 hours.
 
-6.4
-
-Special precautions for storage
+## 6.4 Special precautions for storage
 
 Qutenza cutaneous patch: Store flat in the original sachet and carton. Store below 25°C.
 
@@ -341,17 +347,9 @@ in an appropriate medical waste container.
 
 MARKETING AUTHORISATION HOLDER
 
-Grünenthal GmbH
+Grünenthal GmbH Zieglerstraße 6 52078 Aachen Germany
 
-Zieglerstraße 6
-
-52078 Aachen
-
-Germany
-
-8.
-
-MARKETING AUTHORISATION NUMBERS
+## 8. MARKETING AUTHORISATION NUMBERS
 
 EU/1/09/524/001-002
 
@@ -363,15 +361,13 @@ Date of first authorisation: 15 May 2009
 
 Date of latest renewal: 28 March 2019
 
-10.
-
-DATE OF REVISION OF THE TEXT
-
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency (EMA) http://www.ema.europa.eu
-
 10
+
+<div style=\"page-break-after: always\"></div>
+
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency (EMA) http://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -398,7 +394,7 @@ Medicinal product subject to medical prescription.
 
 -  Periodic safety update reports (PSURs)
 
-The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference  dates  (EURD  list)  provided for  under  Article  107c(7)  of  Directive  2001/83/EC  and  any subsequent updates published on the European medicines web-portal.
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference  dates  (EURD  list)  provided  for  under  Article  107c(7)  of  Directive  2001/83/EC  and  any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -479,7 +475,7 @@ See package leaflet for further information.
 
 1 sachet containing 1 cutaneous patch and 1 tube of cleansing gel (50 g).
 
-- 2 sachets, each containing 1 cutaneous patch and 1 tube of cleansing gel (50 g).
+2 sachets, each containing 1 cutaneous patch and 1 tube of cleansing gel (50 g).
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -542,7 +538,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted
 
@@ -582,9 +578,7 @@ Backing layer
 
 Polyethylene Terephthalate (PET) Film, inner side siliconizedprinting ink containing Pigment White 6
 
-Removable protective layer (release liner)
-
-polyester film, fluoropolymer coated
+Removable protective layer (release liner) polyester film, fluoropolymer coated
 
 See the package leaflet for further information
 
@@ -616,7 +610,7 @@ Use the patch within 2 hours of opening the sachet.
 
 Store flat in the original sachet and carton. Store below 25°C.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Dispose of used and unused patches, gauze wipes and all other materials placed in contact with the treated area by sealing in a polyethylene bag and placing in an appropriate medical waste container.
 
@@ -626,9 +620,7 @@ Grünenthal GmbH Zieglerstraße 6 52078 Aachen Germany
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
-EU/1/09/524/001 1 patch
-
-EU/1/09/524/002 2 patches
+EU/1/09/524/001 1 patch EU/1/09/524/002 2 patches
 
 ## 13. BATCH NUMBER
 
@@ -725,7 +717,7 @@ Justification for not including Braille accepted
 
 ## Qutenza 179 mg cutaneous patch
 
-capsaicin
+## capsaicin
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -745,9 +737,13 @@ capsaicin
 
 ## 1. What Qutenza is and what it is used for
 
-Qutenza contains capsaicin and belongs to a group of medicines called anaesthetics. Qutenza is indicated for the treatment of peripheral neuropathic pain in adults either alone or in combination with other medicines for the treatment of pain.
+Qutenza is a patch that contains capsaicin and belongs to a group of medicines called anaesthetics. Qutenza is indicated for the treatment of peripheral neuropathic pain in adults either alone or in combination with other medicines for the treatment of pain.
 
-Qutenza is used to relieve pain in people who have nerve pain due to damaged nerves in the skin. Damaged nerves in your skin may occur as a result of a variety of diseases such as shingles, HIV infection, diabetes, certain medicines and other conditions. You may experience pain relief between 1 and 3 weeks after treatment.
+Qutenza is used to relieve pain in people who have nerve pain due to damaged nerves in the skin. Damaged nerves in your skin may occur as a result of a variety of diseases such as shingles, HIV infection, diabetes, certain medicines and other conditions. When the patch is put on the affected area, capsaicin goes into your skin. It helps calm down the damaged nerves by making them shrink back. Over time, those nerves slowly heal and grow back. You may experience pain relief between 1 and 3 weeks after treatment.
+
+You may feel better after the first treatment, or it may take more treatments with Qutenza before you notice a change.
+
+Pain sensations may be described as hot, burning, throbbing, shooting, stabbing, sharp, cramping, aching, tingling, numbness, pins and needles. Peripheral neuropathic pain may also be associated with mood changes, sleep disturbance, fatigue (tiredness), and can have an impact on physical and social functioning and overall quality of life.
 
 ## 2. What you need to know before Qutenza is used
 
@@ -763,13 +759,11 @@ Do not use Qutenza on any part of your head or face.
 
 Do not use Qutenza on broken skin or open wounds.
 
-Do not touch Qutenza or other materials that have come in contact with the treated areas as it may cause burning and stinging. Do not touch your eyes, mouth or other sensitive areas as it may cause irritation and pain. If this happens, flush or rinse with cold water. Sniffing or inhaling close to the Qutenza patches may cause coughing, throat irritation or sneezing.
-
-It is usual for the skin to sting or become red and burn during and after Qutenza treatment for a short while. Because of the pain, your blood pressure may go up and therefore, your doctor will measure
-
 <div style=\"page-break-after: always\"></div>
 
-your blood pressure several times during your treatment. If you experience a lot of pain, your doctor will apply local cooling or give you medicine for pain. If you experience very severe pain, ask your doctor to remove the patch.
+Do not touch Qutenza or other materials that have come in contact with the treated areas as it may cause burning and stinging. Do not touch your eyes, mouth or other sensitive areas as it may cause irritation and pain. If this happens, flush or rinse with cold water. Sniffing or inhaling close to the Qutenza patches may cause coughing, throat irritation or sneezing.
+
+It is usual for the skin to sting or become red and burn during and after Qutenza treatment for a short while. Because of the pain, your blood pressure may go up and therefore, your doctor will measure your blood pressure several times during your treatment. If you experience a lot of pain, your doctor will apply local cooling or give you medicine for pain. If you experience very severe pain, ask your doctor to remove the patch.
 
 Generally small, short-term changes in the ability to feel when something is hot or sharp have been seen after use of capsaicin.
 
@@ -797,27 +791,27 @@ The cleansing gel for Qutenza contains butylhydroxyanisole which may cause local
 
 ## 3. How to use Qutenza
 
-Qutenza should only be applied by your doctor or by a nurse under the supervision of your doctor.
+Qutenza should only be applied by your doctor or by a healthcare professional under the supervision of your doctor.
 
 No more than 4 patches should be used at the same time.
 
 Qutenza is for use on your skin.
 
-Your doctor or nurse will mark the most painful areas on your skin with a pen or marker.
+<div style=\"page-break-after: always\"></div>
+
+Your doctor or healthcare professional will mark the most affected areas on your skin with a pen or marker.
 
 Before placing the Qutenza patches on the skin, the treatment area(s) will be washed with soap and water and dried. Hair in treatment areas will be clipped.
 
-Before placing the Qutenza patches on the skin, your doctor or nurse may apply a numbing gel or cream or give you an oral pain medicine to reduce potential stinging. The gel or cream should be removed prior to applying Qutenza and the skin washed and dried thoroughly.
+Before placing the Qutenza patches on the skin, your doctor or healthcare professional may apply a numbing gel or cream or give you an oral pain medicine to reduce potential stinging. The gel or cream should be removed prior to applying Qutenza and the skin washed and dried thoroughly.
 
-<div style=\"page-break-after: always\"></div>
+Your doctor or healthcare professional may wear gloves, and sometimes a mask and protective glasses, while handling the Qutenza patches. Do not sniff or inhale close to the Qutenza patches as this may cause coughing or sneezing.
 
-Your doctor or nurse may wear gloves, and sometimes a mask and protective glasses, while handling the Qutenza patches. Do not sniff or inhale close to the Qutenza patches as this may cause coughing or sneezing.
+Qutenza may be cut into smaller pieces to fit the treatment area. Your doctor or healthcare professional will remove the patches after 30 minutes if you're being treated for nerve pain on your feet or 60 minutes if you're being treated for nerve pain on other parts of your body.
 
-Qutenza may be cut into smaller pieces to fit the treatment area. Your doctor or nurse will remove the patches after 30 minutes if you're being treated for nerve pain on your feet or 60 minutes if you're being treated for nerve pain on other parts of your body.
+It may take between 1 to 3 weeks before you experience pain relief with Qutenza.You may feel better after the first treatment, or it may take more treatments with Qutenza before you notice a change.
 
-It may take between 1 to 3 weeks before you experience pain relief with Qutenza. If after that time you still have a lot of pain, please talk to your doctor.
-
-Qutenza therapy may be repeated at 90-day intervals, if necessary. If you experience insufficient pain relief or pain returns earlier, please consult your doctor.
+Qutenza therapy may be repeated at 90-day intervals, if necessary. If you experience insufficient pain relief or pain returns earlier, please consult your doctor. Your doctor may recommend to treat you earlier (but with a minimum interval of 60 days).
 
 You may be given pain medicines to take for the pain you experience with Qutenza therapy.
 
@@ -825,9 +819,11 @@ It is common for the skin to sting or become red and burn during Qutenza treatme
 
 Disposable socks may be worn on top of the Qutenza patches if your feet are being treated.
 
-Sometimes your doctor or nurse may put a bandage on top of the Qutenza patch to keep the patch firmly on your skin.
+Sometimes your doctor or healthcare professional may put a bandage on top of the Qutenza patch to keep the patch firmly on your skin.
 
-Do not attempt to remove the patch yourself. Your doctor or nurse will remove it for you. At the end of the Qutenza treatment your doctor or nurse will clean the treated skin with cleansing gel from a tube supplied with the kit. Cleansing gel will be left on your skin for one minute and then wiped off to remove any remaining medicine that may be left on your skin after treatment. After the cleansing gel has been wiped off, the area will be gently washed with soap and water.
+Do not attempt to remove the patch yourself. Your doctor or healthcare professional will remove it for you.
+
+At the end of the Qutenza treatment your doctor or healthcare professional will clean the treated skin with cleansing gel from a tube supplied with the kit. Cleansing gel will be left on your skin for one minute and then wiped off to remove any remaining medicine that may be left on your skin after treatment. After the cleansing gel has been wiped off, the area will be gently washed with soap and water.
 
 ## Do not touch the patch with your hands.
 
@@ -843,6 +839,8 @@ Overdosing is unlikely to occur. However, if Qutenza is applied longer than it s
 
 If you have any further questions on the use of this product, ask your doctor or pharmacist
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
@@ -854,16 +852,11 @@ Contact your doctor straightaway if the following effects happen:
 -  Deep redness on the area where the patch is applied, blistering/oozing of the skin, skin which becomes very painful to touch, swollen, wet or shiny. In a small number of cases, these may be signs of a burn that needs urgent medical attention.
 - o Frequency not known: frequency cannot be estimated from the available data
 
-<div style=\"page-break-after: always\"></div>
-
 Tell your doctor if the following side effects occur or get worse:
 
 Very common: may affect more than 1 in 10 people
 
--  Redness or pain on the area where the patch is applied which lasts for more than a day.
-
-Common: may affect up to 1 in 10 people
-
+-  Redness or pain on the area where the patch is applied which lasts for more than a day. Common: may affect up to 1 in 10 people
 -  Itching, bumps, blisters, swelling, dryness on the area where the patch is applied
 -  Burning sensation, high blood pressure, cough, nausea, itching, pain in limbs, muscle spasms, swelling of limbs.
 
@@ -890,13 +883,15 @@ Cleansing gel: Store below 25°C.
 
 After opening the sachet, Qutenza should be applied within 2 hours.
 
-## Disposal of used and unused Qutenza patches.
+Disposal of used and unused Qutenza patches.
 
-These items may sting your fingers if you touch them. Your doctor or nurse will put them in a polyethylene bag before safely discarding them. Qutenza patches and treatment-related materials should be disposed of properly.
+These items may sting your fingers if you touch them. Your doctor or healthcare professional will put them in a polyethylene bag before safely discarding them. Qutenza patches and treatment-related materials should be disposed of properly.
 
 ## 6. Contents of the pack and other information
 
 ## What Qutenza contains
+
+<div style=\"page-break-after: always\"></div>
 
 The active substance is capsaicin. Each 280 cm 2 patch contains a total of 179 mg of capsaicin or 640 micrograms of capsaicin per cm 2 of patch (8% w/w).
 
@@ -904,17 +899,13 @@ The other ingredients of the Qutenza cutaneous patch are:
 
 Matrix silicone adhesives diethylene glycol monoethyl ether silicone oil ethylcellulose N50 (E462)
 
-<div style=\"page-break-after: always\"></div>
-
-Backing layer
-
-Polyethylene Terephthalate (PET) Film, inner side siliconizedprinting ink containing Pigment White 6
+Backing layer Polyethylene Terephthalate (PET) Film, inner side siliconizedprinting ink containing Pigment White 6
 
 Removable protective layer (release liner) polyester film, fluoropolymer-coated
 
 The Qutenza patch is supplied with a tube of cleansing gel, which contains no active substance.
 
-## Cleansing gel contains:
+Cleansing gel contains:
 
 macrogol 300 carbomer purified water sodium hydroxide (E524) disodium edetate butylhydroxyanisole (E320)
 
@@ -936,6 +927,6 @@ Grünenthal GmbH Zieglerstraße 6 52078 Aachen Germany
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
 
-The following information is intended for medical or healthcare professionals only:
+<div style=\"page-break-after: always\"></div>
 
-A complete Summary of Product Characteristics (SPC) is provided with this leaflet.
+The following information is intended for medical or healthcare professionals only: A complete Summary of Product Characteristics (SPC) is provided with this leaflet.

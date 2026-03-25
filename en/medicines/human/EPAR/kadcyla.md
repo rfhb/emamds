@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 08:32:48
+document_datetime: 2026-03-24 17:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kadcyla.html
 document_name: kadcyla.html
 version: success
-processing_time: 0.1177039
-conversion_datetime: 2025-12-30 22:13:25.692952
+processing_time: 0.1319625
+conversion_datetime: 2026-03-25 12:39:54.61464
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.0
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 # Kadcyla
 
 [RSS](/en/individual-human-medicine.xml/66810)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-trastuzumab emtansine Medicine Human Authorised
+trastuzumab emtansine
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -109,275 +109,141 @@ Reference Number: EMA/748315/2013
 
 English (EN) (83.11 KB - PDF)
 
-**First published:** 19/12/2013
-
-**Last updated:** 26/04/2016
+**First published:** 19/12/2013 **Last updated:** 26/04/2016
 
 [View](/en/documents/overview/kadcyla-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-348)
+[Other languages (22)](#file-language-dropdown-345)
 
 български (BG) (109.11 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/04/2016
+**First published:** 19/12/2013 **Last updated:** 26/04/2016
 
 [View](/bg/documents/overview/kadcyla-epar-summary-public_bg.pdf)
 
 español (ES) (82.23 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/04/2016
+**First published:** 19/12/2013 **Last updated:** 26/04/2016
 
 [View](/es/documents/overview/kadcyla-epar-summary-public_es.pdf)
 
 čeština (CS) (108.54 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/04/2016
+**First published:** 19/12/2013 **Last updated:** 26/04/2016
 
 [View](/cs/documents/overview/kadcyla-epar-summary-public_cs.pdf)
 
 dansk (DA) (80.87 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/04/2016
+**First published:** 19/12/2013 **Last updated:** 26/04/2016
 
 [View](/da/documents/overview/kadcyla-epar-summary-public_da.pdf)
 
 Deutsch (DE) (83.24 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/04/2016
+**First published:** 19/12/2013 **Last updated:** 26/04/2016
 
 [View](/de/documents/overview/kadcyla-epar-summary-public_de.pdf)
 
 eesti keel (ET) (80.6 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/04/2016
+**First published:** 19/12/2013 **Last updated:** 26/04/2016
 
 [View](/et/documents/overview/kadcyla-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (111.8 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/04/2016
+**First published:** 19/12/2013 **Last updated:** 26/04/2016
 
 [View](/el/documents/overview/kadcyla-epar-summary-public_el.pdf)
 
 français (FR) (82.84 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/04/2016
+**First published:** 19/12/2013 **Last updated:** 26/04/2016
 
 [View](/fr/documents/overview/kadcyla-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (104.4 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/04/2016
+**First published:** 19/12/2013 **Last updated:** 26/04/2016
 
 [View](/hr/documents/overview/kadcyla-epar-summary-public_hr.pdf)
 
 italiano (IT) (81.42 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/04/2016
+**First published:** 19/12/2013 **Last updated:** 26/04/2016
 
 [View](/it/documents/overview/kadcyla-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (104.68 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/04/2016
+**First published:** 19/12/2013 **Last updated:** 26/04/2016
 
 [View](/lv/documents/overview/kadcyla-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (106.65 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/04/2016
+**First published:** 19/12/2013 **Last updated:** 26/04/2016
 
 [View](/lt/documents/overview/kadcyla-epar-summary-public_lt.pdf)
 
 magyar (HU) (103.76 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/04/2016
+**First published:** 19/12/2013 **Last updated:** 26/04/2016
 
 [View](/hu/documents/overview/kadcyla-epar-summary-public_hu.pdf)
 
 Malti (MT) (109.96 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/04/2016
+**First published:** 19/12/2013 **Last updated:** 26/04/2016
 
 [View](/mt/documents/overview/kadcyla-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (81.71 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/04/2016
+**First published:** 19/12/2013 **Last updated:** 26/04/2016
 
 [View](/nl/documents/overview/kadcyla-epar-summary-public_nl.pdf)
 
 polski (PL) (108.33 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/04/2016
+**First published:** 19/12/2013 **Last updated:** 26/04/2016
 
 [View](/pl/documents/overview/kadcyla-epar-summary-public_pl.pdf)
 
 português (PT) (82.29 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/04/2016
+**First published:** 19/12/2013 **Last updated:** 26/04/2016
 
 [View](/pt/documents/overview/kadcyla-epar-summary-public_pt.pdf)
 
 română (RO) (104.88 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/04/2016
+**First published:** 19/12/2013 **Last updated:** 26/04/2016
 
 [View](/ro/documents/overview/kadcyla-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (107.19 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/04/2016
+**First published:** 19/12/2013 **Last updated:** 26/04/2016
 
 [View](/sk/documents/overview/kadcyla-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (102.48 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/04/2016
+**First published:** 19/12/2013 **Last updated:** 26/04/2016
 
 [View](/sl/documents/overview/kadcyla-epar-summary-public_sl.pdf)
 
 Suomi (FI) (81.2 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/04/2016
+**First published:** 19/12/2013 **Last updated:** 26/04/2016
 
 [View](/fi/documents/overview/kadcyla-epar-summary-public_fi.pdf)
 
 svenska (SV) (81.54 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/04/2016
+**First published:** 19/12/2013 **Last updated:** 26/04/2016
 
 [View](/sv/documents/overview/kadcyla-epar-summary-public_sv.pdf)
 
@@ -393,305 +259,161 @@ English (EN) (1.31 MB - PDF)
 
 Kadcyla : EPAR - Product Information
 
-English (EN) (739.24 KB - PDF)
+English (EN) (463.67 KB - PDF)
 
-**First published:** 19/12/2013
-
-**Last updated:** 26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/en/documents/product-information/kadcyla-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-655)
+[Other languages (24)](#file-language-dropdown-16)
 
-български (BG) (1.02 MB - PDF)
+български (BG) (849.97 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/bg/documents/product-information/kadcyla-epar-product-information_bg.pdf)
 
-español (ES) (536.71 KB - PDF)
+español (ES) (528.89 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/es/documents/product-information/kadcyla-epar-product-information_es.pdf)
 
-čeština (CS) (835.42 KB - PDF)
+čeština (CS) (765.46 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/cs/documents/product-information/kadcyla-epar-product-information_cs.pdf)
 
-dansk (DA) (699.45 KB - PDF)
+dansk (DA) (653.22 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/da/documents/product-information/kadcyla-epar-product-information_da.pdf)
 
-Deutsch (DE) (843.73 KB - PDF)
+Deutsch (DE) (1.12 MB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/de/documents/product-information/kadcyla-epar-product-information_de.pdf)
 
-eesti keel (ET) (1001.98 KB - PDF)
+eesti keel (ET) (754.41 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-16/06/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/et/documents/product-information/kadcyla-epar-product-information_et.pdf)
 
-ελληνικά (EL) (908.71 KB - PDF)
+ελληνικά (EL) (839.14 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/el/documents/product-information/kadcyla-epar-product-information_el.pdf)
 
-français (FR) (688.22 KB - PDF)
+français (FR) (693.9 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/fr/documents/product-information/kadcyla-epar-product-information_fr.pdf)
 
-hrvatski (HR) (622.45 KB - PDF)
+hrvatski (HR) (617.98 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/hr/documents/product-information/kadcyla-epar-product-information_hr.pdf)
 
-íslenska (IS) (575.9 KB - PDF)
+íslenska (IS) (577.78 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/is/documents/product-information/kadcyla-epar-product-information_is.pdf)
 
-italiano (IT) (663.02 KB - PDF)
+italiano (IT) (705.11 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/it/documents/product-information/kadcyla-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (717.23 KB - PDF)
+latviešu valoda (LV) (720.96 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/lv/documents/product-information/kadcyla-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (897.5 KB - PDF)
+lietuvių kalba (LT) (897.02 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/lt/documents/product-information/kadcyla-epar-product-information_lt.pdf)
 
-magyar (HU) (939.63 KB - PDF)
+magyar (HU) (934.57 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/hu/documents/product-information/kadcyla-epar-product-information_hu.pdf)
 
-Malti (MT) (848.54 KB - PDF)
+Malti (MT) (850.33 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/mt/documents/product-information/kadcyla-epar-product-information_mt.pdf)
 
-Nederlands (NL) (799.92 KB - PDF)
+Nederlands (NL) (762.06 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/nl/documents/product-information/kadcyla-epar-product-information_nl.pdf)
 
-norsk (NO) (611.04 KB - PDF)
+norsk (NO) (841.52 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/no/documents/product-information/kadcyla-epar-product-information_no.pdf)
 
-polski (PL) (1.06 MB - PDF)
+polski (PL) (1.05 MB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/pl/documents/product-information/kadcyla-epar-product-information_pl.pdf)
 
-português (PT) (668.6 KB - PDF)
+português (PT) (662.51 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/pt/documents/product-information/kadcyla-epar-product-information_pt.pdf)
 
-română (RO) (822.69 KB - PDF)
+română (RO) (822.94 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/ro/documents/product-information/kadcyla-epar-product-information_ro.pdf)
 
-slovenčina (SK) (765.27 KB - PDF)
+slovenčina (SK) (774.7 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/sk/documents/product-information/kadcyla-epar-product-information_sk.pdf)
 
-slovenščina (SL) (625.18 KB - PDF)
+slovenščina (SL) (636.4 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/sl/documents/product-information/kadcyla-epar-product-information_sl.pdf)
 
-Suomi (FI) (588.36 KB - PDF)
+Suomi (FI) (590.7 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/fi/documents/product-information/kadcyla-epar-product-information_fi.pdf)
 
-svenska (SV) (581.37 KB - PDF)
+svenska (SV) (577.1 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-26/03/2025
+**First published:** 19/12/2013 **Last updated:** 24/03/2026
 
 [View](/sv/documents/product-information/kadcyla-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0071/G 20/02/2025
+**Latest procedure affecting product information:** VR/0000302277
+
+19/02/2026
 
 icon globe
 
@@ -711,293 +433,171 @@ Kadcyla : EPAR - All Authorised presentations
 
 English (EN) (20.4 KB - PDF)
 
-**First published:** 19/12/2013
-
-**Last updated:** 19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/en/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-961)
+[Other languages (23)](#file-language-dropdown-421)
 
 български (BG) (39.76 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/bg/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (63.27 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/es/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (36.16 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/cs/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (22.08 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/da/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (21.46 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/de/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (24.03 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/et/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (40.33 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/el/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (21.68 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/fr/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (33.59 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/hr/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (24.17 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/is/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (23.46 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/it/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (37.54 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/lv/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (37.4 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/lt/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (29.37 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/hu/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (40.19 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/mt/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (19.08 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/nl/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (22.66 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/no/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (38.19 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/pl/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_pl.pdf)
 
 română (RO) (59.57 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/ro/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (33.58 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/sk/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (28.15 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/sl/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (20.86 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/fi/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (21.74 KB - PDF)
 
-**First published:**
-
-19/12/2013
-
-**Last updated:**
-
-19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/sv/documents/all-authorised-presentations/kadcyla-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Kadcyla Active substance trastuzumab emtansine International non-proprietary name (INN) or common name trastuzumab emtansine Therapeutic area (MeSH) Breast Neoplasms Anatomical therapeutic chemical (ATC) code L01FD03
+Name of medicine
+
+Kadcyla
+
+Active substance
+
+trastuzumab emtansine
+
+International non-proprietary name (INN) or common name
+
+trastuzumab emtansine
+
+Therapeutic area (MeSH)
+
+Breast Neoplasms
+
+Anatomical therapeutic chemical (ATC) code
+
+L01FD03
 
 ### Pharmacotherapeutic group
 
@@ -1018,13 +618,27 @@ Kadcyla, as a single agent, is indicated for the treatment of adult patients wit
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/002389 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/002389
+
+Marketing authorisation holder
 
 Roche Registration GmbH
 
 Emil-Barell-Strasse 1
 
-Opinion adopted 19/09/2013 Marketing authorisation issued 15/11/2013 Revision 16
+Opinion adopted
+
+19/09/2013
+
+Marketing authorisation issued
+
+15/11/2013
+
+Revision
+
+17
 
 ## Assessment history
 
@@ -1036,19 +650,23 @@ Collapse section
 
 Kadcyla : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (291.21 KB - PDF)
+English (EN) (153.9 KB - PDF)
 
-**First published:** 03/12/2014
-
-**Last updated:** 26/03/2025
+**First published:** 24/03/2026
 
 [View](/en/documents/procedural-steps-after/kadcyla-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
+Kadcyla : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (287.1 KB - PDF)
+
+**First published:** 03/12/2014 **Last updated:** 24/03/2026
+
+[View](/en/documents/procedural-steps-after/kadcyla-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
 Kadcyla : EPAR -H-C-2389-II-0045 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/652550/2019
+Adopted Reference Number: EMA/652550/2019
 
 English (EN) (5.77 MB - PDF)
 
@@ -1058,9 +676,7 @@ English (EN) (5.77 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Kadcyla (II/45)
 
-Adopted
-
-Reference Number: EMA/CHMP/615141/2019
+Adopted Reference Number: EMA/CHMP/615141/2019
 
 English (EN) (120.38 KB - PDF)
 
@@ -1072,39 +688,35 @@ English (EN) (120.38 KB - PDF)
 
 Kadcyla : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/641539/2013
+Adopted Reference Number: EMA/CHMP/641539/2013
 
 English (EN) (2.61 MB - PDF)
 
-**First published:** 19/12/2013
-
-**Last updated:** 19/12/2013
+**First published:** 19/12/2013 **Last updated:** 19/12/2013
 
 [View](/en/documents/assessment-report/kadcyla-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Kadcyla
 
-Adopted
-
-Reference Number: EMA/CHMP/572965/2013
+Adopted Reference Number: EMA/CHMP/572965/2013
 
 English (EN) (80.48 KB - PDF)
 
-**First published:** 20/09/2013
-
-**Last updated:** 20/09/2013
+**First published:** 20/09/2013 **Last updated:** 20/09/2013
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-kadcyla_en.pdf)
 
-#### News on Kadcyla
+## News on Kadcyla
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 November 2019 (updated)](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-november-2019-updated) 15/11/2019
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 November 2019 (updated)](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-november-2019-updated)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2013) 20/09/2013
+15/11/2019
 
-#### Product information - with tracked changes
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2013)
+
+20/09/2013
+
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1116,211 +728,163 @@ English (EN) (4.46 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-109)
+[Other languages (24)](#file-language-dropdown-668)
 
 български (BG) (7.89 MB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/bg/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_bg.docx)
 
 español (ES) (755.65 KB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/es/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_es.docx)
 
 čeština (CS) (651.92 KB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/cs/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_cs.docx)
 
 dansk (DA) (737.68 KB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/da/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_da.docx)
 
 Deutsch (DE) (9.87 MB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/de/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_de.docx)
 
 eesti keel (ET) (604.85 KB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/et/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_et.docx)
 
 ελληνικά (EL) (644.22 KB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/el/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_el.docx)
 
 français (FR) (556.03 KB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/fr/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_fr.docx)
 
 hrvatski (HR) (537.42 KB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/hr/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_hr.docx)
 
 íslenska (IS) (476.14 KB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/is/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_is.docx)
 
 italiano (IT) (826.2 KB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/it/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_it.docx)
 
 latviešu valoda (LV) (718.69 KB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/lv/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_lv.docx)
 
 lietuvių kalba (LT) (651.19 KB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/lt/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_lt.docx)
 
 magyar (HU) (6.17 MB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/hu/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_hu.docx)
 
 Malti (MT) (670.02 KB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/mt/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_mt.docx)
 
 Nederlands (NL) (951.85 KB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/nl/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_nl.docx)
 
 norsk (NO) (1011.73 KB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/no/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (1.04 MB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/pl/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_pl.docx)
 
 português (PT) (871.51 KB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/pt/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_pt.docx)
 
 română (RO) (3.02 MB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/ro/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_ro.docx)
 
 slovenčina (SK) (680.8 KB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/sk/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_sk.docx)
 
 slovenščina (SL) (465.34 KB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/sl/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_sl.docx)
 
 Suomi (FI) (524.17 KB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/fi/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (2.72 MB - DOCX)
 
-**First published:**
-
-26/03/2025
+**First published:** 26/03/2025
 
 [View](/sv/documents/product-information-tracked-changes/kadcyla-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Kadcyla
+## More information on Kadcyla
 
 - [RoActemra / Hemlibra / Herceptin / Kadcyla / MabThera / Phesgo / Tecentriq - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/roactemra-hemlibra-herceptin-kadcyla-mabthera-phesgo-tecentriq)
 - [UK - A DISEASE REGISTRY STUDY TO PROSPECTIVELY OBSERVE TREATMENT PATTERNS AND OUTCOMES IN PATIENTS WITH HER2-POSITIVE UNRESECTABLE LOCALLY ADVANCED OR METASTATIC BREAST CANCER (ESTHER) - post-authorisation study](https://catalogues.ema.europa.eu/study/26411)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 26/03/2025
+**This page was last updated on**
+
+24/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

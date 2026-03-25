@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-12 12:38:43
+document_datetime: 2026-03-19 15:52:36
 document_pages: 208
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/libmyris-epar-product-information_en.pdf
 document_name: libmyris-epar-product-information_en.pdf
 version: success
-processing_time: 75.2542875
-conversion_datetime: 2026-01-14 07:28:25.555247
+processing_time: 86.2215369
+conversion_datetime: 2026-03-25 12:39:06.984273
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.0
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -284,7 +284,7 @@ The safety of adalimumab in paediatric patients with plaque psoriasis has been a
 
 There is no relevant use of adalimumab in children aged less than 4 years for this indication.
 
-## Adolescent hidradenitis suppurativa (from 12 years of age, weighing at least 30 kg)
+Adolescent hidradenitis suppurativa (from 12 years of age, weighing at least 30 kg)
 
 There are no clinical trials with adalimumab in adolescent patients with HS. The posology of adalimumab in these patients has been determined from pharmacokinetic modelling and simulation (see section 5.2).
 
@@ -837,17 +837,17 @@ In RA study V with early rheumatoid arthritis patients who were methotrexate na�
 
 Table 9: ACR responses in RA study V (percent of patients)
 
-| Response   | MTX n=257   | Adalimumab n=274   | Adalimumab/MTX n=268   | p-value a   | p-value b   | p-value c   |
+| Response   | MTX n=257   | Adalimumab n=274   | Adalimumab/MTX n=268   | p-value a   | p-value b   |   p-value c |
 |------------|-------------|--------------------|------------------------|-------------|-------------|-------------|
 | ACR 20     |             |                    |                        |             |             |             |
-| Week 52    | 62.6%       | 54.4%              | 72.8%                  | 0.013       | < 0.001     | 0.043       |
-| Week 104   | 56.0%       | 49.3%              | 69.4%                  | 0.002       | < 0.001     | 0.140       |
+| Week 52    | 62.6%       | 54.4%              | 72.8%                  | 0.013       | < 0.001     |       0.043 |
+| Week 104   | 56.0%       | 49.3%              | 69.4%                  | 0.002       | < 0.001     |       0.14  |
 | ACR 50     |             |                    |                        |             |             |             |
-| Week 52    | 45.9%       | 41.2%              | 61.6%                  | < 0.001     | < 0.001     | 0.317       |
-| Week 104   | 42.8%       | 36.9%              | 59.0%                  | < 0.001     | < 0.001     | 0.162       |
+| Week 52    | 45.9%       | 41.2%              | 61.6%                  | < 0.001     | < 0.001     |       0.317 |
+| Week 104   | 42.8%       | 36.9%              | 59.0%                  | < 0.001     | < 0.001     |       0.162 |
 | ACR 70     |             |                    |                        |             |             |             |
-| Week 52    | 27.2%       | 25.9%              | 45.5%                  | < 0.001     | < 0.001     | 0.656       |
-| Week 104   | 28.4%       | 28.1%              | 46.6%                  | < 0.001     | < 0.001     | 0.864       |
+| Week 52    | 27.2%       | 25.9%              | 45.5%                  | < 0.001     | < 0.001     |       0.656 |
+| Week 104   | 28.4%       | 28.1%              | 46.6%                  | < 0.001     | < 0.001     |       0.864 |
 
 a p-value is from the pairwise comparison of methotrexate monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test.
 
@@ -1441,24 +1441,24 @@ Clinical remission and clinical response (defined as reduction in PCDAI score of
 
 Table 29: Paediatric CD study, PCDAI clinical remission and response
 
-|                    | Standard dose 40/20 mg eow N = 93   | Low dose 20/10 mg eow N = 95   | p value *   |
+|                    | Standard dose 40/20 mg eow N = 93   | Low dose 20/10 mg eow N = 95   |   p value * |
 |--------------------|-------------------------------------|--------------------------------|-------------|
 | Week 26            |                                     |                                |             |
-| Clinical remission | 38.7%                               | 28.4%                          | 0.075       |
-| Clinical response  | 59.1%                               | 48.4%                          | 0.073       |
+| Clinical remission | 38.7%                               | 28.4%                          |       0.075 |
+| Clinical response  | 59.1%                               | 48.4%                          |       0.073 |
 | Week 52            |                                     |                                |             |
-| Clinical remission | 33.3%                               | 23.2%                          | 0.100       |
-| Clinical response  | 41.9%                               | 28.4%                          | 0.038       |
+| Clinical remission | 33.3%                               | 23.2%                          |       0.1   |
+| Clinical response  | 41.9%                               | 28.4%                          |       0.038 |
 
 Table 30:  Paediatric CD study, discontinuation of corticosteroids or immunomodulators and fistula remission
 
-|                                       | Standard dose 40/20 mg eow   | Low dose 20/10 mg eow   | p value 1   |
+|                                       | Standard dose 40/20 mg eow   | Low dose 20/10 mg eow   |   p value 1 |
 |---------------------------------------|------------------------------|-------------------------|-------------|
 | Discontinued corticosteroids          | N= 33                        | N=38                    |             |
-| Week 26                               | 84.8%                        | 65.8%                   | 0.066       |
-| Week 52                               | 69.7%                        | 60.5%                   | 0.420       |
+| Week 26                               | 84.8%                        | 65.8%                   |       0.066 |
+| Week 52                               | 69.7%                        | 60.5%                   |       0.42  |
 | Discontinuation of immunomodulators 2 | N=60                         | N=57                    |             |
-| Week 52                               | 30.0%                        | 29.8%                   | 0.983       |
+| Week 52                               | 30.0%                        | 29.8%                   |       0.983 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1700,7 +1700,7 @@ EU/1/21/1590/002
 
 EU/1/21/1590/003
 
-## Libmyris 40 mg solution for injection in pre-filled pen
+Libmyris 40 mg solution for injection in pre-filled pen
 
 EU/1/21/1590/004 EU/1/21/1590/005
 
@@ -2430,17 +2430,17 @@ methotrexate monotherapy and adalimumab monotherapy at Week 52 and responses wer
 
 Table 6: ACR responses in RA study V (percent of patients)
 
-| Response   | MTX n=257   | Adalimumab n=274   | Adalimumab/MTX n=268   | p-value a   | p-value b   | p-value c   |
+| Response   | MTX n=257   | Adalimumab n=274   | Adalimumab/MTX n=268   | p-value a   | p-value b   |   p-value c |
 |------------|-------------|--------------------|------------------------|-------------|-------------|-------------|
 | ACR 20     |             |                    |                        |             |             |             |
-| Week 52    | 62.6%       | 54.4%              | 72.8%                  | 0.013       | < 0.001     | 0.043       |
-| Week 104   | 56.0%       | 49.3%              | 69.4%                  | 0.002       | < 0.001     | 0.140       |
+| Week 52    | 62.6%       | 54.4%              | 72.8%                  | 0.013       | < 0.001     |       0.043 |
+| Week 104   | 56.0%       | 49.3%              | 69.4%                  | 0.002       | < 0.001     |       0.14  |
 | ACR 50     |             |                    |                        |             |             |             |
-| Week 52    | 45.9%       | 41.2%              | 61.6%                  | < 0.001     | < 0.001     | 0.317       |
-| Week 104   | 42.8%       | 36.9%              | 59.0%                  | < 0.001     | < 0.001     | 0.162       |
+| Week 52    | 45.9%       | 41.2%              | 61.6%                  | < 0.001     | < 0.001     |       0.317 |
+| Week 104   | 42.8%       | 36.9%              | 59.0%                  | < 0.001     | < 0.001     |       0.162 |
 | ACR 70     |             |                    |                        |             |             |             |
-| Week 52    | 27.2%       | 25.9%              | 45.5%                  | < 0.001     | < 0.001     | 0.656       |
-| Week 104   | 28.4%       | 28.1%              | 46.6%                  | < 0.001     | < 0.001     | 0.864       |
+| Week 52    | 27.2%       | 25.9%              | 45.5%                  | < 0.001     | < 0.001     |       0.656 |
+| Week 104   | 28.4%       | 28.1%              | 46.6%                  | < 0.001     | < 0.001     |       0.864 |
 
 a p-value is from the pairwise comparison of methotrexate monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test.
 
@@ -2468,9 +2468,11 @@ Table 7: Radiographic mean changes over 12 months in RA study III
 
 - a methotrexate
 
-b 95% confidence intervals for the differences in change scores between methotrexate and adalimumab
+b
 
-c Based on rank analysis d Joint Space Narrowing
+95% confidence intervals for the differences in change scores between methotrexate and adalimumab c Based on rank analysis
+
+d Joint Space Narrowing
 
 In RA study V, structural joint damage was assessed radiographically and expressed as change in modified Total Sharp Score (see Table 8).
 
@@ -2833,16 +2835,16 @@ Table 19: Paediatric CD study, PCDAI clinical remission and response
 
 Table 20:  Paediatric CD study, discontinuation of corticosteroids or immunomodulators and fistula remission
 
-|                                       | Standard dose 40/20 mg eow   | Low dose 20/10 mg eow   | p value 1   |
+|                                       | Standard dose 40/20 mg eow   | Low dose 20/10 mg eow   |   p value 1 |
 |---------------------------------------|------------------------------|-------------------------|-------------|
 | Discontinued corticosteroids          | N=33                         | N=38                    |             |
-| Week 26                               | 84.8%                        | 65.8%                   | 0.066       |
-| Week 52                               | 69.7%                        | 60.5%                   | 0.420       |
+| Week 26                               | 84.8%                        | 65.8%                   |       0.066 |
+| Week 52                               | 69.7%                        | 60.5%                   |       0.42  |
 | Discontinuation of immunomodulators 2 | N=60                         | N=57                    |             |
-| Week 52                               | 30.0%                        | 29.8%                   | 0.983       |
+| Week 52                               | 30.0%                        | 29.8%                   |       0.983 |
 | Fistula remission 3                   | N=15                         | N=21                    |             |
-| Week 26                               | 46.7%                        | 38.1%                   | 0.608       |
-| Week 52                               | 40.0%                        | 23.8%                   | 0.303       |
+| Week 26                               | 46.7%                        | 38.1%                   |       0.608 |
+| Week 52                               | 40.0%                        | 23.8%                   |       0.303 |
 
 1 p value for Standard Dose versus Low Dose comparison
 
@@ -4464,9 +4466,9 @@ STADA Nordic ApS Tlf: +45 44859999
 
 ## Ελλάδα
 
-STADA Arzneimittel AG
+BioARS Therapeutics A.E.
 
-Τηλ: +30 2106664667
+Τηλ: +30 210 7717598
 
 ## Österreich
 
@@ -5017,10 +5019,7 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 You should not take Libmyris with medicines containing the following active substances due to increased risk of serious infection:
 
-•
-
-anakinra
-
+- anakinra
 - abatacept.
 
 Libmyris can be taken together with:
@@ -5452,9 +5451,9 @@ Tlf: +45 44859999
 
 ## Ελλάδα
 
-STADA Arzneimittel AG
+BioARS Therapeutics A.E.
 
-Τηλ: +30 2106664667
+Τηλ: +30 210 7717598
 
 ## Österreich
 
@@ -6350,7 +6349,7 @@ UAB 'STADA Baltics' Tel: +372 53072153
 
 ## Ελλάδα
 
-STADA Arzneimittel AG Τηλ: +30 2106664667
+BioARS Therapeutics A.E. Τηλ: +30 210 7717598
 
 ## España
 
@@ -6394,7 +6393,9 @@ Pharma.MT Ltd Tel: +356 21337008
 
 ## Nederland
 
-Centrafarm B.V. Tel.: +31 765081000
+Centrafarm B.V.
+
+Tel.: +31 765081000
 
 ## Norge
 
@@ -6410,9 +6411,7 @@ STADA Pharm Sp. z o.o. Tel: +48 227377920
 
 ## Portugal
 
-Stada, Lda.
-
-Tel: +351 211209870
+Stada, Lda. Tel: +351 211209870
 
 ## România
 
@@ -6672,7 +6671,9 @@ If you have any questions contact your healthcare provider for help.
 
 ## Package leaflet: Information for the patient
 
-## Libmyris 80 mg solution for injection in pre-filled pen adalimumab
+## Libmyris 80 mg solution for injection in pre-filled pen
+
+## adalimumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -7231,11 +7232,7 @@ EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
 STADA Bulgaria EOOD Teл.: +359 29624626
 
-## Česká republika
-
-STADA PHARMA CZ s.r.o.
-
-Tel: +420 257888111
+Česká republika STADA PHARMA CZ s.r.o. Tel: +420 257888111
 
 ## Danmark
 
@@ -7251,7 +7248,7 @@ UAB 'STADA Baltics' Tel: +372 53072153
 
 ## Ελλάδα
 
-STADA Arzneimittel AG Τηλ: +30 2106664667
+BioARS Therapeutics A.E. Τηλ: +30 210 7717598
 
 ## España
 
@@ -7299,9 +7296,7 @@ STADA Nordic ApS Tlf: +45 44859999
 
 ## Österreich
 
-STADA Arzneimittel GmbH
-
-Tel: +43 136785850
+STADA Arzneimittel GmbH Tel: +43 136785850
 
 ## Polska
 

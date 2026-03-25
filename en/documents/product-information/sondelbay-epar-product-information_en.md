@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-22 17:44:32
-document_pages: 32
+document_datetime: 2026-03-23 15:50:33
+document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/sondelbay-epar-product-information_en.pdf
 document_name: sondelbay-epar-product-information_en.pdf
 version: success
-processing_time: 11.6858568
-conversion_datetime: 2025-12-18 11:01:26.77395
+processing_time: 12.0337481
+conversion_datetime: 2026-03-25 12:37:07.438265
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.0
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.12.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -30,7 +30,7 @@ Sondelbay 20 micrograms/80 microliters solution for injection in pre-filled pen
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each dose contains 20 micrograms of teriparatide* in 80 microliters.
+Each dose contains 20 micrograms of teriparatide* in 80 microliters .
 
 One pre-filled pen of 2.4 mL contains 600 micrograms of teriparatide. Each millilitre of the solution for injection contains 250 micrograms of teriparatide.
 
@@ -94,14 +94,14 @@ Patients must be trained to use the proper injection techniques For instructions
 
 ## 4.3 Contraindications
 
-- Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-- Pregnancy and breast-feeding (see sections 4.4 and 4.6)
-- Pre-existing hypercalcaemia
-- Severe renal impairment
-- Metabolic bone diseases (including hyperparathyroidism and Paget's disease of the bone) other than primary osteoporosis or glucorticoid-induced osteoporosis.
-- Unexplained elevations of alkaline phosphatase
-- Prior external beam or implant radiation therapy to the skeleton
-- Patients with skeletal malignancies or bone metastases should be excluded from treatment with teriparatide.
+-  Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+-  Pregnancy and breast-feeding (see sections 4.4 and 4.6)
+-  Pre-existing hypercalcaemia
+-  Severe renal impairment
+-  Metabolic bone diseases (including hyperparathyroidism and Paget's disease of the bone) other than primary osteoporosis or glucorticoid-induced osteoporosis.
+-  Unexplained elevations of alkaline phosphatase
+-  Prior external beam or implant radiation therapy to the skeleton
+-  Patients with skeletal malignancies or bone metastases should be excluded from treatment with teriparatide.
 
 ## 4.4 Special warnings and precautions for use
 
@@ -268,7 +268,7 @@ Teriparatide is a bone formation agent to treat osteoporosis. The skeletal effec
 
 Independent risk factors, for example, low BMD, age, the existence of previous fracture, family history of hip fractures, high bone turnover and low body mass index should be considered in order to identify women and men at increased risk of osteoporotic fractures who could benefit from treatment.
 
-Premenopausal women with glucocorticoid-induced osteoporosis should be considered at high risk for fracture if they have a prevalent fracture or a combination of risk factors that place them at high risk for fracture (e.g., low bone density [e.g., T score ≤-2] , sustained high dose glucocorticoid therapy [e.g., ≥7.5 mg/day for at least 6 months] , high underlying disease activity, low sex steroid levels).
+Premenopausal women with glucocorticoid-induced osteoporosis should be considered at high risk for fracture if they have a prevalent fracture or a combination of risk factors that place them at high risk for fracture (e.g., low bone density [e.g., T score ≤-2], sustained high dose glucocorticoid therapy [e.g., ≥7.5 mg/day for at least 6 months], high underlying disease activity, low sex steroid levels).
 
 ## Postmenopausal osteoporosis
 
@@ -278,8 +278,8 @@ Table 2. Fracture incidence in postmenopausal women
 
 |                                                                                   |   Placebo (N = 544) (%) | Teriparatide (N= 541) (%)   | Relative risk (95% CI) vs. placebo   |
 |-----------------------------------------------------------------------------------|-------------------------|-----------------------------|--------------------------------------|
-| New vertebral fracture ( ≥ 1) a                                                   |                    14.3 | 5.0 b                       | 0.35 (0.22, 0.55)                    |
-| Multiple vertebral fractures ( ≥ 2) a                                             |                     4.9 | 1.1 b                       | 0.23 (0.09, 0.60)                    |
+| New vertebral fracture (≥1) a                                                     |                    14.3 | 5.0 b                       | 0.35 (0.22, 0.55)                    |
+| Multiple vertebral fractures (≥2) a                                               |                     4.9 | 1.1 b                       | 0.23 (0.09, 0.60)                    |
 | Non-vertebral fragility fractures c                                               |                     5.5 | 2.6 d                       | 0.47 (0.25, 0.87)                    |
 | Major non-vertebral fragility fractures c (hip, radius, humerus, ribs and pelvis) |                     3.9 | 1.5 d                       | 0.38 (0.17, 0.86)                    |
 
@@ -287,11 +287,11 @@ Abbreviations: N = number of patients randomly assigned to each treatment group;
 
 a  The incidence of vertebral fractures was assessed in 448 placebo and 444 Teriparatide patients who had baseline and follow-up spine radiographs.
 
-b p ≤ 0.001 compared with placebo
+b  p≤0.001 compared with placebo
 
-c A significant reduction in the incidence of hip fractures has not been demonstrated
+c  A significant reduction in the incidence of hip fractures has not been demonstrated
 
-d p ≤ 0.025 compared with placebo.
+d  p≤0.025 compared with placebo.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -319,9 +319,9 @@ This trial included postmenopausal women (N=277), premenopausal women (N=67), an
 
 <div style=\"page-break-after: always\"></div>
 
-spine BMD T score of -2.5, media n prednisone equivalent dose of 10 mg/day, and 9 % had one or more radiographic vertebral fractures; and men had a mean age of 57 years, mean lumbar spine BMD T score of -2.2, median prednisone equivalent dose of 10 mg/day, and 24 % had one or more radiographic vertebral fractures.
+spine BMD T score of -2.5, median prednisone equivalent dose of 10 mg/day, and 9 % had one or more radiographic vertebral fractures; and men had a mean age of 57 years, mean lumbar spine BMD T score of -2.2, median prednisone equivalent dose of 10 mg/day, and 24 % had one or more radiographic vertebral fractures.
 
-Sixty-nine percent of patients completed the 18-month primary phase.  At the 18 month endpoint, teriparatide significantly increased lumbar spine BMD (7.2 %) compared with alendronate (3.4 %) (p&lt;0.001). Teriparatide increased BMD at the total hip (3.6 %) compared with alendronate (2.2 %) (p&lt;0.01), as well as at the femoral neck (3.7 %) compared with alendronate (2.1 %) (p&lt;0.05). I n patients treated with teriparatide, lumbar spine, total hip and femoral neck BMD increased between 18 and 24 months by an additional 1.7 %, 0.9 %, and 0.4 %, respectively.
+Sixty-nine percent of patients completed the 18-month primary phase.  At the 18 month endpoint, teriparatide significantly increased lumbar spine BMD (7.2 %) compared with alendronate (3.4 %) (p&lt;0.001). Teriparatide increased BMD at the total hip (3.6 %) compared with alendronate (2.2 %) (p&lt;0.01), as well as at the femoral neck (3.7 %) compared with alendronate (2.1 %) (p&lt;0.05). In patients treated with teriparatide, lumbar spine, total hip and femoral neck BMD increased between 18 and 24 months by an additional 1.7 %, 0.9 %, and 0.4 %, respectively.
 
 At 36 months, analysis of spinal X-rays from 169 alendronate patients and 173 teriparatide patients showed that 13 patients in the alendronate group (7.7 %) had experienced a new vertebral fracture compared with 3 patients in the teriparatide group (1.7 %) (p=0.01). In addition, 15 of 214 patients in the alendronate group (7.0 %) had experienced a non-vertebral fracture compared with 16 of 214 patients in the teriparatide group (7.5 %) (p=0.84).
 
@@ -381,7 +381,7 @@ The medicinal product can be stored at temperature conditions up to 25 ⁰ C for
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ° C - 8 ° C). Do not freeze. Store in the original package in order to protect from light
+Store in a refrigerator (2  C - 8  C) . Do not freeze. Store in the original package in order to protect from light
 
 For storage conditions after first opening of the medicinal product, see section 6.3
 
@@ -389,21 +389,23 @@ For storage conditions after first opening of the medicinal product, see section
 
 2.4 mL solution in cartridge (siliconised Type I glass) with a plunger (bromobutyl rubber), disc seal (bromobutyl lined aluminium seals), assembled into a disposable pen.
 
+Each pre-filled pen contains 28 doses of 20 micrograms (per 80 microliters).
+
 <div style=\"page-break-after: always\"></div>
 
-Sondelbay is available in pack sizes of 1 pre-filled pen or 3 pre-filled pens. Each pre-filled pen contains 28 doses of 20 micrograms (per 80 microliters).
-
-Not all pack sizes may be marketed
+Sondelbay is available in pack sizes of 1 or 3 pre-filled pens (without needles),  and 1 pre-filled pen (with 28 disposable sterile needles, 32G; 4mm). Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
 ## Handling
 
-Sondelbay is supplied in a pre-filled pen. Each pen should be used by only one patient. A new, sterile needle must be used for every injection.. No needles are supplied with the product. The pen can be used with pen needles (31G or 32G; 4mm, 5mm or 8mm).
+Sondelbay is supplied in a pre-filled pen. Each pen should be used by only one patient. A new sterile needle must be used for every injection.
+
+The pen can be used with needles of 31G or 32G and 4mm, 5mm or 8mm length.
 
 Sondelbay should not be used if the solution is cloudy, coloured or contains particles.
 
-Sondelbay pen should be returned to the refrigerator (2 ⁰ C 8 ⁰ C) immediately after use. Recap the pen when not in use to protect the cartridge from physical damage and light. Do not use Sondelbay if it is, or has been, frozen.
+Sondelbay pen should be returned to the refrigerator (2 ⁰ C-8 ⁰ C) immediately after use. Recap the pen when not in use to protect the cartridge from physical damage and light. Do not use Sondelbay if it is, or has been, frozen.
 
 Do not transfer the medicine into a syringe.
 
@@ -423,11 +425,13 @@ Accord Healthcare S.L.U. World Trade Centre, Moll de Barcelona s/n, Edifici Est,
 
 ## 8. MARKETING AUTHORISATION NUMBER
 
-EU/1/22/1628/001 EU/1/22/1628/002
+EU/1/22/1628/001 EU/1/22/1628/002 EU/1/22/1628/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 24 March 2022
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -450,7 +454,7 @@ Name and address of the manufacturer(s) of the biological active substance(s)
 
 Intas Pharmaceuticals Ltd. Plot no: 423/P/A Sarkhej Bavla Highway Village Moraiya; Taluka Sanand, Ahmedabad - 382213 Gujarat India
 
-## Name and address of the manufacturer(s) responsible for batch release
+Name and address of the manufacturer(s) responsible for batch release
 
 Accord Healthcare Polska Sp.z o.o., ul. Lutomierska 50, 95-200 Pabianice, Poland
 
@@ -462,20 +466,20 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2. of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -517,6 +521,8 @@ Solution for injection.
 
 3 pre-filled pens
 
+1 pre-filled pen + 28 needles
+
 Each pre-filled pen contains 28 doses of 20 micrograms of teriparatide (per 80 microliters).
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -537,9 +543,9 @@ EXP
 
 The pen should be discarded 28 days after the first use.
 
-<div style=\"page-break-after: always\"></div>
+Date of first use: 1. ......................./2. ......................../3. ........................{the grey-shaded text refers to
 
-Date of first use: 1. ......................./2. ......................../3. ........................{the grey-shaded text refers to the 3x pack size}
+the 3x pack size}
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -567,19 +573,23 @@ EU/1/22/1628/001
 
 EU/1/22/1628/002
 
+EU/1/22/1628/003
+
 ## 13. BATCH NUMBER
 
 Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Sondelbay
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+<div style=\"page-break-after: always\"></div>
 
 2D barcode carrying the unique identifier included.
 
@@ -592,16 +602,14 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-## LABEL TEXT
+| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| LABEL TEXT                                                       |
 
 | 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|---------------------------------------------------------------|
 
-Sondelbay 20 micrograms/80 microliters, injection teriparatide
-
-SC use
+Sondelbay 20 micrograms/80 microliters, injection teriparatide SC use
 
 | 2.   | METHODOF ADMINISTRATION   |
 |------|---------------------------|
@@ -668,14 +676,14 @@ Sondelbay is used to treat osteoporosis in adults. Osteoporosis is a disease tha
 
 ## Do not use Sondelbay
 
-- if you are allergic to teriparatide or any of the other ingredients of this medicine (listed in section 6).
-- if you suffer from high calcium levels (pre-existing hypercalcaemia).
-- if you suffer from serious kidney problems.
-- if you have ever been diagnosed with bone cancer or other cancers that have spread (metastasised) to your bones.
-- if you have certain bone diseases. If you have a bone disease, tell your doctor.
-- if you have unexplained high levels of alkaline phosphatase in your blood, which means you might have Paget's disease of bone (disease with abnormal bone changes). If you are not sure, ask your doctor.
-- if you have had radiation therapy involving your bones.
-- if you are pregnant or breast-feeding.
+-  if you are allergic to teriparatide or any of the other ingredients of this medicine (listed in section 6).
+-  if you suffer from high calcium levels (pre-existing hypercalcaemia).
+-  if you suffer from serious kidney problems.
+-  if you have ever been diagnosed with bone cancer or other cancers that have spread (metastasised) to your bones.
+-  if you have certain bone diseases. If you have a bone disease, tell your doctor.
+-  if you have unexplained high levels of alkaline phosphatase in your blood, which means you might have Paget's disease of bone (disease with abnormal bone changes). If you are not sure, ask your doctor.
+-  if you have had radiation therapy involving your bones.
+-  if you are pregnant or breast-feeding.
 
 ## Warnings and precautions
 
@@ -685,9 +693,9 @@ Sondelbay may cause an increase in the amount of calcium in your blood or urine.
 
 Talk to your doctor or pharmacist before or while using Sondelbay:
 
-- if you have continuing nausea, vomiting, constipation, low energy, or muscle weakness. These may be signs there is too much calcium in your blood.
-- if you suffer from kidney stones or have a history of kidney stones.
-- if you suffer from kidney problems (moderate renal impairment).
+-  if you have continuing nausea, vomiting, constipation, low energy, or muscle weakness. These may be signs there is too much calcium in your blood.
+-  if you suffer from kidney stones or have a history of kidney stones.
+-  if you suffer from kidney problems (moderate renal impairment).
 
 Some patients get dizzy or get a fast heartbeat after the first few doses. For the first doses, inject Sondelbay where you can sit or lie down right away if you get dizzy.
 
@@ -725,7 +733,9 @@ Inject Sondelbay each day for as long as your doctor prescribes it for you. The 
 
 Read the instructions for use, on how to use the Sondelbay pen.
 
-Injection needles are not included with the pen. Use with pen needles (31G or 32G; 4 mm, 5 mm or 8 mm).
+Sondelbay is available in packs of 1 or 3 pens without needles. Sondelbay can be used with pen needles (31G or 32G; 4 mm, 5 mm or 8 mm).
+
+Sondelbay is also available in packs of 1 pen with 28 disposable sterile needles (32G; 4 mm).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -763,45 +773,45 @@ Some patients may have experienced allergic reactions soon after injection, cons
 
 Common: may affect up to 1 in 10 people
 
-- increase in blood cholesterol levels
-- depression
-- neuralgic pain in the leg
-- feeling faint
-- irregular heartbeats
-- breathlessness
-- increased sweating
-- muscle cramps
-- loss of energy
-- tiredness
+-  increase in blood cholesterol levels
+-  depression
+-  neuralgic pain in the leg
+-  feeling faint
+-  irregular heartbeats
+-  breathlessness
+-  increased sweating
+-  muscle cramps
 
 <div style=\"page-break-after: always\"></div>
 
-- chest pain
-- low blood pressure
-- heartburn (painful or burning sensation just below the breast bone)
-- being sick(vomiting)
-- a hernia of the tube that carries food to your stomach
-- low haemoglobin or red blood cell count (anaemia)
+-  loss of energy
+-  tiredness
+-  chest pain
+-  low blood pressure
+-  heartburn (painful or burning sensation just below the breast bone)
+-  being sick(vomiting)
+-  a hernia of the tube that carries food to your stomach
+-  low haemoglobin or red blood cell count (anaemia)
 
 Uncommon: may affect up to 1 in 100 people
 
-- increased heart rate
-- abnormal heart sound
-- shortness of breath
-- piles haemorrhoids
-- accidental loss or leakage of urine
-- increased need to pass water
-- weight increase
-- kidney stones
-- pain in the muscles and pain in the joints. Some patients have experienced severe back cramps or pain which lead to hospitalisation.
-- increase in blood calcium level
-- increase in blood uric acid level
-- increase in an enzyme called alkaline phosphatase.
+-  increased heart rate
+-  abnormal heart sound
+-  shortness of breath
+-  piles haemorrhoids
+-  accidental loss or leakage of urine
+-  increased need to pass water
+-  weight increase
+-  kidney stones
+-  pain in the muscles and pain in the joints. Some patients have experienced severe back cramps or pain which lead to hospitalisation.
+-  increase in blood calcium level
+-  increase in blood uric acid level
+-  increase in an enzyme called alkaline phosphatase.
 
 Rare: may affect up to 1 in 1,000 people
 
-- reduced kidney function, including renal failure
-- swelling, mainly in the hands, feet and legs.
+-  reduced kidney function, including renal failure
+-  swelling, mainly in the hands, feet and legs.
 
 ## Reporting of side effects
 
@@ -821,11 +831,9 @@ Store in original package (i.e. outer carton) in order to protect from light.
 
 Each pen should be disposed of after 28 days of first use, even if it is not completely empty.
 
-Sondelbay contains a clear and colourless solution. Do not use Sondelbay if solid particles appear or if the solution is cloudy or coloured.
-
 <div style=\"page-break-after: always\"></div>
 
--
+Sondelbay contains a clear and colourless solution. Do not use Sondelbay if solid particles appear or if the solution is cloudy or coloured.
 
 Do not transfer the medicine into a syringe.
 
@@ -835,13 +843,12 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Sondelbay contains
 
-The active substance is teriparatide. Each millilitre of the solution for injection contains 250 micrograms of teriparatide. Each dose of 80 microliters contains 20 micrograms of teriparatide. One pre-filled pen of 2.4 mL contains 600 micrograms of teriparatide.
-
-- -The other ingredients are glacial acetic acid, sodium acetate (anhydrous), mannitol, metacresol, and water for injections. In addition, hydrochloric acid and/or sodium hydroxide solution may have been added for pH adjustment(see section 2 'Sondelbay contains sodium')..
+- -The active substance is teriparatide. Each millilitre of the solution for injection contains 250 micrograms of teriparatide. Each dose of 80 microliters contains 20 micrograms of teriparatide. One pre-filled pen of 2.4 mL contains 600 micrograms of teriparatide.
+- -The other ingredients are glacial acetic acid, sodium acetate (anhydrous), mannitol, metacresol, and water for injections. In addition, hydrochloric acid and/or sodium hydroxide solution may have been added for pH adjustment (see section 2 'Sondelbay contains sodium')..
 
 ## What Sondelbay looks like and contents of the pack
 
-Sondelbay is a colourless and clear solution. It is supplied in a cartridge contained in a pre-filled disposable pen. Each pre-filled pen contains 2.4 mL of solution for 28 doses. Sondelbay is available in packs containing one pre-filled pen or three pre-filled pens. Not all pack sizes may be available.
+Sondelbay is a colourless and clear solution. It is supplied in a cartridge contained in a pre-filled disposable pen. Each pre-filled pen contains 2.4 mL of solution for 28 doses. Sondelbay is available in packs containing one or three pre-filled pen without needles, and one pre-filled pen with 28 needles. Not all pack sizes may be available.
 
 ## Marketing Authorisation Holder
 
@@ -855,7 +862,9 @@ For any information about this medicine, please contact the local representative
 
 AT / BE / BG / CY / CZ / DE / DK / EE / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PT / PL / RO / SE / SI / SK / ES
 
-Accord Healthcare S.L.U. Tel: +34 93 301 00 64
+Accord Healthcare S.L.U.
+
+Tel: +34 93 301 00 64
 
 EL
 
@@ -865,7 +874,7 @@ Tel: +30 210 7488 821
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http:// www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -903,16 +912,16 @@ Prepare the injection site (thigh or abdomen) as directed by your doctor or phar
 
 Obtain a new pen needle (see above). Pull off the paper tab.
 
-<!-- image -->
-
 Check that an empty circle sign is in the dose setting window.
+
+<!-- image -->
 
 -  Always wash your hands before every injection.
 -  Check the pen label to make sure it is the correct medicine.
 -  Check the expiration date to make sure it has not passed.
--  Check the dose counter window to make sure your pen has doses remaining. A new pen sould
+-  Check the dose counter window to make sure your pen has doses remaining.
 
-have 28 doses in it.
+A new pen should have 28 doses in it.
 
 <!-- image -->
 
@@ -936,7 +945,7 @@ Keep turning all the way and do not release the dose setting dial until you hear
 
 <!-- image -->
 
-Let go of the dose setting circle with a dial. The filled bar above it will be seen in the dose setting window. This confirms you have set your dose.
+Let go of the dose setting dial. The filled circle with a bar above it will be seen in the dose setting window. This confirms you have set your dose.
 
 Pull off the small needle protector and dispose of it .
 
@@ -951,11 +960,9 @@ Pull off the pen cap.
 
 <div style=\"page-break-after: always\"></div>
 
-## 4 Inject dose
+## Inject
 
-## 5 Confir m dose
-
-## 6 Remov e needle
+## 4 dose
 
 <!-- image -->
 
@@ -967,8 +974,6 @@ Keep the needle in the skin, slide the injection button until it stops. This wil
 
 <!-- image -->
 
-After you have completed the injection and removed the needle from the skin, check to make sure that the empty circle sign appears in the dose setting window.
-
 <!-- image -->
 
 Keep the needle in the skin, wait until an empty circle sign appears in the dose setting window. Now count to 5 slowly then pull the needle from the skin.
@@ -976,18 +981,13 @@ Keep the needle in the skin, wait until an empty circle sign appears in the dose
 If the empty circle sign does not appear in the dose setting window
 
 - Do not inject a second time on the same day.
-- Instead, you must reset the pen. See Troubleshooting
+- Instead, you must reset the pen.
+
+See Troubleshooting
+
 - Problem D.
 
 <!-- image -->
-
-Put the large needle cover on the needle as shown above, then push it to secure it in place. To prevent needlestick injuries, do not try to reattach the small needle protector or touch the needle.
-
-Unscrew the needle from the pen by rotating the large needle cover counter clockwise at least 5 times.
-
-Pull off the needle and dispose of it as directed by your doctor or pharmacist.
-
-Push the pen cap back on the pen firmly. Store the pen in the refrigerator immediately after use.
 
 <div style=\"page-break-after: always\"></div>
 

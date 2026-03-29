@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-30 17:06:00
+document_datetime: 2026-03-25 10:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/evrysdi.html
 document_name: evrysdi.html
 version: success
-processing_time: 0.1411807
-conversion_datetime: 2026-02-01 20:33:02.129015
+processing_time: 0.1237905
+conversion_datetime: 2026-03-29 12:29:03.73566
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Evrysdi
 
 [RSS](/en/individual-human-medicine.xml/67433)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-risdiplam Medicine Human Authorised
+risdiplam
+
+Medicine Human Authorised
 
 Page contents
 
@@ -110,275 +112,141 @@ Evrysdi : EPAR - Medicine overview
 
 English (EN) (111.9 KB - PDF)
 
-**First published:** 04/05/2021
-
-**Last updated:** 22/09/2023
+**First published:** 04/05/2021 **Last updated:** 22/09/2023
 
 [View](/en/documents/overview/evrysdi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-566)
+[Other languages (22)](#file-language-dropdown-119)
 
 български (BG) (138.66 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2021 **Last updated:** 22/09/2023
 
 [View](/bg/documents/overview/evrysdi-epar-medicine-overview_bg.pdf)
 
 español (ES) (112.37 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2021 **Last updated:** 22/09/2023
 
 [View](/es/documents/overview/evrysdi-epar-medicine-overview_es.pdf)
 
 čeština (CS) (136.36 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2021 **Last updated:** 22/09/2023
 
 [View](/cs/documents/overview/evrysdi-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (113.07 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2021 **Last updated:** 22/09/2023
 
 [View](/da/documents/overview/evrysdi-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (116.85 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2021 **Last updated:** 22/09/2023
 
 [View](/de/documents/overview/evrysdi-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (112.13 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2021 **Last updated:** 22/09/2023
 
 [View](/et/documents/overview/evrysdi-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (139.9 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2021 **Last updated:** 22/09/2023
 
 [View](/el/documents/overview/evrysdi-epar-medicine-overview_el.pdf)
 
 français (FR) (114.07 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2021 **Last updated:** 22/09/2023
 
 [View](/fr/documents/overview/evrysdi-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (135.62 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2021 **Last updated:** 22/09/2023
 
 [View](/hr/documents/overview/evrysdi-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (113.3 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2021 **Last updated:** 22/09/2023
 
 [View](/it/documents/overview/evrysdi-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (150.05 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2021 **Last updated:** 22/09/2023
 
 [View](/lv/documents/overview/evrysdi-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (134.4 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2021 **Last updated:** 22/09/2023
 
 [View](/lt/documents/overview/evrysdi-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (136.86 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2021 **Last updated:** 22/09/2023
 
 [View](/hu/documents/overview/evrysdi-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (137.9 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2021 **Last updated:** 22/09/2023
 
 [View](/mt/documents/overview/evrysdi-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (115.16 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2021 **Last updated:** 22/09/2023
 
 [View](/nl/documents/overview/evrysdi-epar-medicine-overview_nl.pdf)
 
 polski (PL) (137.26 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2021 **Last updated:** 22/09/2023
 
 [View](/pl/documents/overview/evrysdi-epar-medicine-overview_pl.pdf)
 
 português (PT) (114.71 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2021 **Last updated:** 22/09/2023
 
 [View](/pt/documents/overview/evrysdi-epar-medicine-overview_pt.pdf)
 
 română (RO) (133.76 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2021 **Last updated:** 22/09/2023
 
 [View](/ro/documents/overview/evrysdi-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (136.08 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2021 **Last updated:** 22/09/2023
 
 [View](/sk/documents/overview/evrysdi-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (134.04 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2021 **Last updated:** 22/09/2023
 
 [View](/sl/documents/overview/evrysdi-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (110.18 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2021 **Last updated:** 22/09/2023
 
 [View](/fi/documents/overview/evrysdi-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (111.6 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2021 **Last updated:** 22/09/2023
 
 [View](/sv/documents/overview/evrysdi-epar-medicine-overview_sv.pdf)
 
@@ -386,9 +254,7 @@ Evrysdi : EPAR - Risk management plan
 
 English (EN) (1.33 MB - PDF)
 
-**First published:** 04/05/2021
-
-**Last updated:** 29/01/2024
+**First published:** 04/05/2021 **Last updated:** 29/01/2024
 
 [View](/en/documents/rmp/evrysdi-epar-risk-management-plan_en.pdf)
 
@@ -396,305 +262,161 @@ English (EN) (1.33 MB - PDF)
 
 Evrysdi : EPAR - Product information
 
-English (EN) (775.78 KB - PDF)
+English (EN) (850.4 KB - PDF)
 
-**First published:** 04/05/2021
-
-**Last updated:** 20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/en/documents/product-information/evrysdi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-592)
+[Other languages (24)](#file-language-dropdown-470)
 
-български (BG) (1.72 MB - PDF)
+български (BG) (1.81 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/bg/documents/product-information/evrysdi-epar-product-information_bg.pdf)
 
-español (ES) (1.62 MB - PDF)
+español (ES) (1.72 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/es/documents/product-information/evrysdi-epar-product-information_es.pdf)
 
-čeština (CS) (1.64 MB - PDF)
+čeština (CS) (1.82 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/cs/documents/product-information/evrysdi-epar-product-information_cs.pdf)
 
-dansk (DA) (1.52 MB - PDF)
+dansk (DA) (1.65 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/da/documents/product-information/evrysdi-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.93 MB - PDF)
+Deutsch (DE) (2.03 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/de/documents/product-information/evrysdi-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.55 MB - PDF)
+eesti keel (ET) (1.77 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/et/documents/product-information/evrysdi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.11 MB - PDF)
+ελληνικά (EL) (2.09 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/el/documents/product-information/evrysdi-epar-product-information_el.pdf)
 
-français (FR) (1.58 MB - PDF)
+français (FR) (1.67 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/fr/documents/product-information/evrysdi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.92 MB - PDF)
+hrvatski (HR) (2.02 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/hr/documents/product-information/evrysdi-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.56 MB - PDF)
+íslenska (IS) (1.67 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/is/documents/product-information/evrysdi-epar-product-information_is.pdf)
 
-italiano (IT) (1.47 MB - PDF)
+italiano (IT) (1.77 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/it/documents/product-information/evrysdi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.44 MB - PDF)
+latviešu valoda (LV) (1.55 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/lv/documents/product-information/evrysdi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.81 MB - PDF)
+lietuvių kalba (LT) (1.9 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/lt/documents/product-information/evrysdi-epar-product-information_lt.pdf)
 
-magyar (HU) (1.58 MB - PDF)
+magyar (HU) (1.8 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/hu/documents/product-information/evrysdi-epar-product-information_hu.pdf)
 
-Malti (MT) (1.8 MB - PDF)
+Malti (MT) (1.84 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/mt/documents/product-information/evrysdi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.6 MB - PDF)
+Nederlands (NL) (1.73 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/nl/documents/product-information/evrysdi-epar-product-information_nl.pdf)
 
-norsk (NO) (1.59 MB - PDF)
+norsk (NO) (1.79 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/no/documents/product-information/evrysdi-epar-product-information_no.pdf)
 
-polski (PL) (1.55 MB - PDF)
+polski (PL) (1.67 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/pl/documents/product-information/evrysdi-epar-product-information_pl.pdf)
 
-português (PT) (1.62 MB - PDF)
+português (PT) (1.76 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/pt/documents/product-information/evrysdi-epar-product-information_pt.pdf)
 
-română (RO) (1.72 MB - PDF)
+română (RO) (1.88 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/ro/documents/product-information/evrysdi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.58 MB - PDF)
+slovenčina (SK) (1.65 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/sk/documents/product-information/evrysdi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.55 MB - PDF)
+slovenščina (SL) (1.65 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/sl/documents/product-information/evrysdi-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.43 MB - PDF)
+Suomi (FI) (1.71 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/fi/documents/product-information/evrysdi-epar-product-information_fi.pdf)
 
-svenska (SV) (1.64 MB - PDF)
+svenska (SV) (1.7 MB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-20/01/2026
+**First published:** 04/05/2021 **Last updated:** 25/03/2026
 
 [View](/sv/documents/product-information/evrysdi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** R/0000275338 08/01/2026
+**Latest procedure affecting product information:** VR/0000310762
+
+26/02/2026
 
 icon globe
 
@@ -714,305 +436,177 @@ Evrysdi : EPAR - All authorised presentations
 
 English (EN) (14.15 KB - PDF)
 
-**First published:** 04/05/2021
-
-**Last updated:** 14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/en/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-328)
+[Other languages (24)](#file-language-dropdown-325)
 
 български (BG) (45.51 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/bg/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (15 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/es/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (35.88 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/cs/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (16.99 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/da/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (13.55 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/de/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (13.37 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/et/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (41.32 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/el/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (13.21 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/fr/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (34.06 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/hr/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (13.32 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/is/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (18.16 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/it/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (36.92 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/lv/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (36.03 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/lt/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (36.87 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/hu/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (41.45 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/mt/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (13.26 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/nl/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (16.99 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/no/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (39.68 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/pl/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (14.22 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/pt/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (37.02 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/ro/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (34.35 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/sk/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (30.03 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/sl/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (13.4 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/fi/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (19.96 KB - PDF)
 
-**First published:**
-
-04/05/2021
-
-**Last updated:**
-
-14/07/2025
+**First published:** 04/05/2021 **Last updated:** 14/07/2025
 
 [View](/sv/documents/all-authorised-presentations/evrysdi-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Evrysdi Active substance risdiplam International non-proprietary name (INN) or common name risdiplam Therapeutic area (MeSH) Muscular Atrophy, Spinal Anatomical therapeutic chemical (ATC) code M09AX10
+Name of medicine
+
+Evrysdi
+
+Active substance
+
+risdiplam
+
+International non-proprietary name (INN) or common name
+
+risdiplam
+
+Therapeutic area (MeSH)
+
+Muscular Atrophy, Spinal
+
+Anatomical therapeutic chemical (ATC) code
+
+M09AX10
 
 ### Pharmacotherapeutic group
 
@@ -1024,7 +618,9 @@ Evrysdi is indicated for the treatment of 5q spinal muscular atrophy (SMA) in pa
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005145
+EMA product number
+
+EMEA/H/C/005145
 
 Accelerated assessment
 
@@ -1040,7 +636,17 @@ Roche Registration GmbH
 
 Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
-Opinion adopted 25/02/2021 Marketing authorisation issued 26/03/2021 Revision 13
+Opinion adopted
+
+25/02/2021
+
+Marketing authorisation issued
+
+26/03/2021
+
+Revision
+
+14
 
 ## Assessment history
 
@@ -1052,11 +658,9 @@ Collapse section
 
 Evrysdi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (133.34 KB - PDF)
+English (EN) (165.97 KB - PDF)
 
-**First published:** 14/07/2025
-
-**Last updated:** 20/01/2026
+**First published:** 14/07/2025 **Last updated:** 25/03/2026
 
 [View](/en/documents/procedural-steps-after/evrysdi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1064,17 +668,13 @@ Evrysdi : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (188.48 KB - PDF)
 
-**First published:** 19/01/2022
-
-**Last updated:** 14/07/2025
+**First published:** 19/01/2022 **Last updated:** 14/07/2025
 
 [View](/en/documents/procedural-steps-after/evrysdi-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Evrysdi-H-C-005145-X-0024-G : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/130688/2025
+Adopted Reference Number: EMA/130688/2025
 
 English (EN) (494.01 KB - PDF)
 
@@ -1094,9 +694,7 @@ English (EN) (2.5 MB - PDF)
 
 Evrysdi-H-C-005145-II-0022 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/412864/2024
+Adopted Reference Number: EMA/412864/2024
 
 English (EN) (1.62 MB - PDF)
 
@@ -1106,9 +704,7 @@ English (EN) (1.62 MB - PDF)
 
 Evrysdi-H-C-005145-II-0005-G : EPAR - Assessment report - variation
 
-Adopted
-
-Reference Number: EMA/CHMP/391797/2023
+Adopted Reference Number: EMA/CHMP/391797/2023
 
 English (EN) (3.8 MB - PDF)
 
@@ -1118,9 +714,7 @@ English (EN) (3.8 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Evrysdi
 
-Adopted
-
-Reference Number: EMA/CHMP/807714/2022
+Adopted Reference Number: EMA/CHMP/807714/2022
 
 English (EN) (143.08 KB - PDF)
 
@@ -1132,23 +726,17 @@ English (EN) (143.08 KB - PDF)
 
 Evrysdi : Orphan maintenance assessment report (initial authorisation)
 
-Adopted
-
-Reference Number: EMA/OD/0000039037
+Adopted Reference Number: EMA/OD/0000039037
 
 English (EN) (513.15 KB - PDF)
 
-**First published:** 04/05/2021
-
-**Last updated:** 12/09/2023
+**First published:** 04/05/2021 **Last updated:** 12/09/2023
 
 [View](/en/documents/orphan-maintenance-report/evrysdi-orphan-maintenance-assessment-report-initial-authorisation_en.pdf)
 
 Evrysdi : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/216061/2021
+Adopted Reference Number: EMA/216061/2021
 
 English (EN) (8.87 MB - PDF)
 
@@ -1158,9 +746,7 @@ English (EN) (8.87 MB - PDF)
 
 CHMP summary of positive opinion for Evrysdi
 
-Adopted
-
-Reference Number: EMA/CHMP/19316/2021
+Adopted Reference Number: EMA/CHMP/19316/2021
 
 English (EN) (129.37 KB - PDF)
 
@@ -1168,232 +754,44 @@ English (EN) (129.37 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-evrysdi_en.pdf)
 
-#### News on Evrysdi
+## News on Evrysdi
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2023) 21/07/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2023)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 February 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-february-2021) 26/02/2021
+21/07/2023
 
-[First oral treatment for spinal muscular atrophy (SMA) recommended for approval](/en/news/first-oral-treatment-spinal-muscular-atrophy-sma-recommended-approval) 26/02/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 February 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-february-2021)
 
-#### Product information - with tracked changes
+26/02/2021
+
+[First oral treatment for spinal muscular atrophy (SMA) recommended for approval](/en/news/first-oral-treatment-spinal-muscular-atrophy-sma-recommended-approval)
+
+26/02/2021
+
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
 Evrysdi : EPAR - Product information - tracked changes
 
-English (EN) (1.38 MB - DOCX)
+English (EN) (1.55 MB - DOCX)
 
-**First published:** 20/01/2026
+**First published:** 20/01/2026 **Last updated:** 25/03/2026
 
 [View](/en/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-981)
-
-български (BG) (1.41 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/bg/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_bg.docx)
-
-español (ES) (1.5 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/es/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_es.docx)
-
-čeština (CS) (1.3 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/cs/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_cs.docx)
-
-dansk (DA) (1.38 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/da/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_da.docx)
-
-Deutsch (DE) (3.25 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/de/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_de.docx)
-
-eesti keel (ET) (1.32 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/et/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_et.docx)
-
-ελληνικά (EL) (1.43 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/el/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_el.docx)
-
-français (FR) (1.8 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/fr/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_fr.docx)
-
-hrvatski (HR) (1.67 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/hr/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_hr.docx)
-
-íslenska (IS) (1.42 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/is/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_is.docx)
-
-italiano (IT) (1.32 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/it/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_it.docx)
-
-latviešu valoda (LV) (1.46 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/lv/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_lv.docx)
-
-lietuvių kalba (LT) (1.4 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/lt/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_lt.docx)
-
-magyar (HU) (1.41 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/hu/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_hu.docx)
-
-Malti (MT) (1.3 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/mt/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_mt.docx)
-
-Nederlands (NL) (1.5 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/nl/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (1.43 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/no/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_no.docx)
-
-polski (PL) (1.5 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/pl/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_pl.docx)
-
-português (PT) (1.56 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/pt/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_pt.docx)
-
-română (RO) (1.51 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/ro/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_ro.docx)
-
-slovenčina (SK) (1.4 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/sk/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_sk.docx)
-
-slovenščina (SL) (1.45 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/sl/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_sl.docx)
-
-Suomi (FI) (1.29 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/fi/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_fi.docx)
-
-svenska (SV) (1.3 MB - DOCX)
-
-**First published:**
-
-20/01/2026
-
-[View](/sv/documents/product-information-tracked-changes/evrysdi-epar-product-information-tracked-changes_sv.docx)
-
-#### More information on Evrysdi
+## More information on Evrysdi
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](/en/medicines/human/orphan-designations/eu-3-19-2145) on 26 February 2019. Evrysdi was withdrawn from the Community register of orphan medicinal products in September 2023 upon request of the marketing authorisation holder.
 
-#### More information on Evrysdi
+## More information on Evrysdi
 
 - [EMEA-002070-PIP01-16-M07 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002070-pip01-16-m07)
 - [Evrysdi - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/evrysdi)
 - [Risdiplam Single-Arm Pregnancy Safety Study - post-authorisation study](https://catalogues.ema.europa.eu/study/49676)
 
-**This page was last updated on** 30/01/2026
+**This page was last updated on**
+
+25/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

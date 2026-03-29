@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-28 13:59:38
-document_pages: 76
+document_datetime: 2026-03-25 14:45:33
+document_pages: 74
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zirabev-epar-product-information_en.pdf
 document_name: zirabev-epar-product-information_en.pdf
 version: success
-processing_time: 28.7567309
-conversion_datetime: 2026-02-01 20:20:03.912718
+processing_time: 29.0597552
+conversion_datetime: 2026-03-29 12:51:55.12077
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -1369,6 +1369,10 @@ Table 22 Efficacy results 1,2  from study GOG-0213
 | Hazard ratio (95% CI)                       | 0.613 [CI:               | 0.521, 0.721]            | 0.521, 0.721]            |
 | p-value                                     | < 0.0001                 | < 0.0001                 | < 0.0001                 |
 
+1 Final Analysis
+
+2 Tumour assessments and response evaluations were determined by the investigators using the GOG RECIST criteria (Revised RECIST guideline (version 1.1). Eur J Cancer. 2009;45:228Y247).
+
 - a Hazard ratio was estimated from Cox proportional hazards models stratified by the duration of platinum free-interval prior to enrolling onto this study per eCRF (electronic case report form) and secondary surgical debulking status Yes/No (Yes = randomised to undergo cytoreduction or randomised to not undergo cytoreduction; No = not a candidate or did not consent to cytoreduction).
 - b Stratified by the duration of treatment free-interval prior to enrolling onto this study per the registration form, and secondary surgical debulking status Yes/No.
 
@@ -1904,9 +1908,7 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-PC SN
-
-NN
+PC SN NN
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1924,7 +1926,7 @@ NN
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2297,9 +2299,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Zirabev contains
 
 - The active substance is bevacizumab. Each ml of concentrate contains 25 mg of bevacizumab. Each 4 ml vial contains 100 mg of bevacizumab.
-
-Each 16 ml vial contains 400 mg of bevacizumab.
-
+- Each 16 ml vial contains 400 mg of bevacizumab.
 - The other ingredients are sucrose, succinic acid, disodium edetate, polysorbate 80 (E 433), sodium hydroxide (for pH adjustment), and water for injections (see section 2 'Zirabev contains sodium and polysorbate 80').
 
 <div style=\"page-break-after: always\"></div>
@@ -2378,9 +2378,9 @@ Tél: +33 (0)1 58 07 34 40
 
 Pfizer Eλλάς A.E. (Cyprus Branch)
 
-T 
-
 : +357 22817690
+
+T 
 
 ## Magyarország
 
@@ -2390,9 +2390,9 @@ Tel.: + 36 1 488 37 00
 
 ## Malta
 
-Drugsales Ltd
+Vivian Corporation Ltd.
 
-Tel: +356 21419070/1/2
+Tel: + 356 2134 4610
 
 ## Nederland
 
@@ -2497,25 +2497,3 @@ Puh/Tel: +358 (0)9 430 040
 Pfizer AB
 
 Tel: +46 (0)8 550 520 00
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for bevacizumab, the scientific conclusions of PRAC are as follows:
-
-In view of available data on hyaline occlusive glomerular microangiopathy reported in the literature, including in some cases a positive de-challenge and in view of a plausible mechanism of action, the PRAC considers a causal relationship between bevacizumab and hyaline occlusive glomerular microangiopathy is at least a reasonable possibility. The PRAC concluded that the product information of products containing bevacizumab should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the Marketing Authorisation(s)
-
-On the basis of the scientific conclusions for bevacizumab the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing bevacizumab is unchanged subject to the proposed changes to the product information
-
-The CHMP recommends that the terms of the Marketing Authorisation(s) should be varied.

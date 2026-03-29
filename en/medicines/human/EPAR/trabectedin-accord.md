@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:18:50
+document_datetime: 2026-03-25 09:56:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trabectedin-accord.html
 document_name: trabectedin-accord.html
 version: success
-processing_time: 0.1029767
-conversion_datetime: 2025-12-31 01:30:40.653926
+processing_time: 0.0821133
+conversion_datetime: 2026-03-29 12:44:15.300777
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Trabectedin Accord
 
 [RSS](/en/individual-human-medicine.xml/256037)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-trabectedin Medicine Human Authorised
+trabectedin
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -104,181 +104,137 @@ English (EN) (140.19 KB - PDF)
 
 [View](/en/documents/overview/trabectedin-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-521)
+[Other languages (22)](#file-language-dropdown-759)
 
 български (BG) (191.99 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/bg/documents/overview/trabectedin-accord-epar-medicine-overview_bg.pdf)
 
 español (ES) (168.2 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/es/documents/overview/trabectedin-accord-epar-medicine-overview_es.pdf)
 
 čeština (CS) (189.06 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/cs/documents/overview/trabectedin-accord-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (165.5 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/da/documents/overview/trabectedin-accord-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (171.24 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/de/documents/overview/trabectedin-accord-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (164.81 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/et/documents/overview/trabectedin-accord-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (192.38 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/el/documents/overview/trabectedin-accord-epar-medicine-overview_el.pdf)
 
 français (FR) (169.53 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/fr/documents/overview/trabectedin-accord-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (185.37 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/hr/documents/overview/trabectedin-accord-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (166.7 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/it/documents/overview/trabectedin-accord-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (196.97 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/lv/documents/overview/trabectedin-accord-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (189.29 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/lt/documents/overview/trabectedin-accord-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (189.94 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/hu/documents/overview/trabectedin-accord-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (190.61 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/mt/documents/overview/trabectedin-accord-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (168.23 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/nl/documents/overview/trabectedin-accord-epar-medicine-overview_nl.pdf)
 
 polski (PL) (192.88 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/pl/documents/overview/trabectedin-accord-epar-medicine-overview_pl.pdf)
 
 português (PT) (168.31 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/pt/documents/overview/trabectedin-accord-epar-medicine-overview_pt.pdf)
 
 română (RO) (187.63 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/ro/documents/overview/trabectedin-accord-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (188.96 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/sk/documents/overview/trabectedin-accord-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (185.33 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/sl/documents/overview/trabectedin-accord-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (164.96 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/fi/documents/overview/trabectedin-accord-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (165.49 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/sv/documents/overview/trabectedin-accord-epar-medicine-overview_sv.pdf)
 
@@ -294,207 +250,161 @@ English (EN) (198.13 KB - PDF)
 
 Trabectedin Accord : EPAR - Product information
 
-English (EN) (485.97 KB - PDF)
+English (EN) (424.26 KB - PDF)
 
-**First published:** 15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/en/documents/product-information/trabectedin-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-367)
+[Other languages (24)](#file-language-dropdown-103)
 
-български (BG) (734.2 KB - PDF)
+български (BG) (645.07 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/bg/documents/product-information/trabectedin-accord-epar-product-information_bg.pdf)
 
-español (ES) (517.3 KB - PDF)
+español (ES) (467.34 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/es/documents/product-information/trabectedin-accord-epar-product-information_es.pdf)
 
-čeština (CS) (701.04 KB - PDF)
+čeština (CS) (496.6 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/cs/documents/product-information/trabectedin-accord-epar-product-information_cs.pdf)
 
-dansk (DA) (652.79 KB - PDF)
+dansk (DA) (514.58 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/da/documents/product-information/trabectedin-accord-epar-product-information_da.pdf)
 
-Deutsch (DE) (522.11 KB - PDF)
+Deutsch (DE) (519.23 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/de/documents/product-information/trabectedin-accord-epar-product-information_de.pdf)
 
-eesti keel (ET) (489.61 KB - PDF)
+eesti keel (ET) (496.24 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/et/documents/product-information/trabectedin-accord-epar-product-information_et.pdf)
 
-ελληνικά (EL) (728.79 KB - PDF)
+ελληνικά (EL) (585.54 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/el/documents/product-information/trabectedin-accord-epar-product-information_el.pdf)
 
-français (FR) (631.54 KB - PDF)
+français (FR) (478.55 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/fr/documents/product-information/trabectedin-accord-epar-product-information_fr.pdf)
 
-hrvatski (HR) (696.37 KB - PDF)
+hrvatski (HR) (568.54 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/hr/documents/product-information/trabectedin-accord-epar-product-information_hr.pdf)
 
-íslenska (IS) (512.38 KB - PDF)
+íslenska (IS) (502.06 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/is/documents/product-information/trabectedin-accord-epar-product-information_is.pdf)
 
-italiano (IT) (511.7 KB - PDF)
+italiano (IT) (524.97 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/it/documents/product-information/trabectedin-accord-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (701.49 KB - PDF)
+latviešu valoda (LV) (589.06 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/lv/documents/product-information/trabectedin-accord-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1014.3 KB - PDF)
+lietuvių kalba (LT) (579.98 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/lt/documents/product-information/trabectedin-accord-epar-product-information_lt.pdf)
 
-magyar (HU) (733.47 KB - PDF)
+magyar (HU) (611.24 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/hu/documents/product-information/trabectedin-accord-epar-product-information_hu.pdf)
 
-Malti (MT) (933.8 KB - PDF)
+Malti (MT) (676.1 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/mt/documents/product-information/trabectedin-accord-epar-product-information_mt.pdf)
 
-Nederlands (NL) (500.44 KB - PDF)
+Nederlands (NL) (338.29 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/nl/documents/product-information/trabectedin-accord-epar-product-information_nl.pdf)
 
-norsk (NO) (513.44 KB - PDF)
+norsk (NO) (520.02 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/no/documents/product-information/trabectedin-accord-epar-product-information_no.pdf)
 
-polski (PL) (683.8 KB - PDF)
+polski (PL) (626.38 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/pl/documents/product-information/trabectedin-accord-epar-product-information_pl.pdf)
 
-português (PT) (510.42 KB - PDF)
+português (PT) (510.56 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/pt/documents/product-information/trabectedin-accord-epar-product-information_pt.pdf)
 
-română (RO) (756.95 KB - PDF)
+română (RO) (574.65 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/ro/documents/product-information/trabectedin-accord-epar-product-information_ro.pdf)
 
-slovenčina (SK) (711.57 KB - PDF)
+slovenčina (SK) (576.67 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/sk/documents/product-information/trabectedin-accord-epar-product-information_sk.pdf)
 
-slovenščina (SL) (622.63 KB - PDF)
+slovenščina (SL) (554.17 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/sl/documents/product-information/trabectedin-accord-epar-product-information_sl.pdf)
 
-Suomi (FI) (537.2 KB - PDF)
+Suomi (FI) (515.98 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/fi/documents/product-information/trabectedin-accord-epar-product-information_fi.pdf)
 
-svenska (SV) (493.73 KB - PDF)
+svenska (SV) (504.92 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025 **Last updated:** 25/03/2026
 
 [View](/sv/documents/product-information/trabectedin-accord-epar-product-information_sv.pdf)
 
-25/04/2025
+**Latest procedure affecting product information:** VR/0000333307
+
+24/03/2026
 
 icon globe
 
@@ -518,208 +428,174 @@ English (EN) (157.95 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-801)
+[Other languages (24)](#file-language-dropdown-853)
 
 български (BG) (164.5 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/bg/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (159.09 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/es/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (161.08 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/cs/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (161.26 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/da/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (162.07 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/de/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (157.32 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/et/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (162.31 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/el/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (158.52 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/fr/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (158.29 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/hr/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (161.55 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/is/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (158.73 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/it/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (162.25 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/lv/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (160.57 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/lt/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (332.53 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/hu/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (161.01 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/mt/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (157.42 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/nl/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (161.2 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/no/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (162.1 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/pl/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (159.75 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/pt/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (158.86 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/ro/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (161.35 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/sk/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (158.81 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/sl/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (84.33 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/fi/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (158.71 KB - PDF)
 
-**First published:**
-
-15/07/2025
+**First published:** 15/07/2025
 
 [View](/sv/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Trabectedin Accord Active substance trabectedin International non-proprietary name (INN) or common name trabectedin Therapeutic area (MeSH)
+Name of medicine
+
+Trabectedin Accord
+
+Active substance
+
+trabectedin
+
+International non-proprietary name (INN) or common name
+
+trabectedin
+
+Therapeutic area (MeSH)
 
 - Sarcoma
 - Ovarian Neoplasms
 
-Anatomical therapeutic chemical (ATC) code L01CX01
+Anatomical therapeutic chemical (ATC) code
+
+L01CX01
 
 ### Therapeutic indication
 
@@ -727,7 +603,9 @@ Trabectedin Accord is indicated for the treatment of adult patients with advance
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006433
+EMA product number
+
+EMEA/H/C/006433
 
 Additional monitoring
 
@@ -743,17 +621,39 @@ Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a
 
-Opinion adopted 27/02/2025 Marketing authorisation issued 25/04/2025
+Opinion adopted
+
+27/02/2025
+
+Marketing authorisation issued
+
+25/04/2025
+
+Revision
+
+1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Trabectedin Accord : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (133.08 KB - PDF)
+
+**First published:** 25/03/2026
+
+[View](/en/documents/procedural-steps-after/trabectedin-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
 Trabectedin Accord : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/97108/2025
+Adopted Reference Number: EMA/97108/2025
 
 English (EN) (355.09 KB - PDF)
 
@@ -763,9 +663,7 @@ English (EN) (355.09 KB - PDF)
 
 CHMP summary of positive opinion for Trabectedin Accord
 
-Adopted
-
-Reference Number: EMA/CHMP/559896/2024
+Adopted Reference Number: EMA/CHMP/559896/2024
 
 English (EN) (114.34 KB - PDF)
 
@@ -773,12 +671,14 @@ English (EN) (114.34 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-trabectedin-accord_en.pdf)
 
-#### News on Trabectedin Accord
+## News on Trabectedin Accord
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 February 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-february-2025) 28/02/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 February 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-february-2025)
 
-**This page was last updated on** 15/07/2025
+28/02/2025
+
+**This page was last updated on**
+
+25/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)

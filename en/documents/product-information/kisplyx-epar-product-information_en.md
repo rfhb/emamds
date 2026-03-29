@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-04-22 12:57:11
+document_datetime: 2026-03-26 17:23:32
 document_pages: 57
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kisplyx-epar-product-information_en.pdf
 document_name: kisplyx-epar-product-information_en.pdf
 version: success
-processing_time: 16.7218104
-conversion_datetime: 2025-12-22 10:31:23.634967
+processing_time: 17.6343538
+conversion_datetime: 2026-03-29 12:48:24.326974
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -139,8 +139,6 @@ Table 2 Adverse reactions requiring dose modification of lenvatinib
 | QT interval prolongation    | >500 ms                                            | Interrupt   | Resolves to <480 ms or baseline                                               |
 | Diarrhoea                   | Grade 3                                            | Interrupt   | Resolves to Grade 0-1 or baseline.                                            |
 | Diarrhoea                   | Grade 4 (despite medical management)               | Discontinue | Do not resume                                                                 |
-
-*Grade 4 laboratory abnormalities judged to be non-life-threatening, may be managed as severe reactions (e.g., Grade 3)
 
 ## Special populations
 
@@ -597,11 +595,11 @@ In the pooled RCC population treated with lenvatinib and everolimus, diarrhoea w
 
 In the paediatric Studies 216 and 231 (see section 5.1), the overall safety profile of lenvatinib as a single agent or in combination with everolimus was consistent with that observed in adults treated with lenvatinib.
 
-In Study 216, pneumothorax was reported in 3 patients (4.7%) with Ewing sarcoma, rhabdomyosarcoma (RMS) and Wilms tumour; all 3 patients had lung metastases at baseline. In Study 231, pneumothorax was reported in 7 patients (5.5%) with spindle cell sarcoma, undifferentiated
+In Study 216, pneumothorax was reported in 3 patients (4.7%) with Ewing sarcoma, rhabdomyosarcoma (RMS) and Wilms tumour; all 3 patients had lung metastases at baseline. In Study 231, pneumothorax was reported in 8 patients (6.3%) with spindle cell sarcoma, undifferentiated
 
 <div style=\"page-break-after: always\"></div>
 
-sarcoma, RMS, malignant peripheral nerve sheath tumour, synovial sarcoma, spindle cell carcinoma, and malignant fibromyxoid ossifying tumour; all 7 patients had lung metastases or primary disease in the chest wall or pleural cavity at baseline. For Studies 216 and 231, no patient discontinued study treatment due to pneumothorax (for additional paediatric information see also Lenvima SmPC section 4.8).
+sarcoma, RMS, malignant peripheral nerve sheath tumour, synovial sarcoma, spindle cell carcinoma, and malignant fibromyxoid ossifying tumour; all 8 patients had lung metastases or primary disease in the chest wall or pleural cavity at baseline. For Study 216, no patient discontinued study treatment due to pneumothorax; in Study 231, one patient discontinued study treatment due to pneumothorax (for additional paediatric information see also Lenvima SmPC section 4.8).
 
 In Phase 1 (combination dose-finding cohort) of Study 216, the most frequently (≥40%) reported adverse drug reactions were hypertension, hypothyroidism, hypertriglyceridemia, abdominal pain, and diarrhoea; and in Phase 2 (combination expansion cohort), the most frequently reported (≥35%) adverse drug reactions were hypertriglyceridemia, proteinuria, diarrhoea, lymphocyte count decreased, white blood cell count decreased, blood cholesterol increased, fatigue, and platelet count decreased.
 
@@ -822,8 +820,6 @@ Table 7     Efficacy results following one prior VEGF targeted therapy in RCC St
 | Objective Response Rate                                  | 22 (43)                                                  | 14 (27)                                                  | 3 (6)                                                    |
 | Stable disease                                           | 21 (41)                                                  | 27 (52)                                                  | 31 (62)                                                  |
 | Duration of response, months, median (95% CI)            | 13.0 (3.7, NE)                                           | 7.5 (3.8, NE)                                            | 8.5 (7.5, 9.4)                                           |
-
-Tumour assessment was based on RECIST 1.1 criteria. Data cut-off date = 13 Jun 2014
 
 Percentages are based on the total number of patients in the Full Analysis Set within relevant treatment group.
 
@@ -1187,8 +1183,8 @@ NN
 
 Kisplyx 4 mg hard capsules lenvatinib
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Eisai
 
@@ -1626,7 +1622,7 @@ Not Known (the following side effects have been reported since the marketing of 
 
 ## The following side effects may happen with this medicine when given in combination with pembrolizumab:
 
-## Very common (may affect more than 1 in 10 people)
+Very common (may affect more than 1 in 10 people)
 
 -  low levels of platelets in the blood which may lead to bruising and difficulty in wound healing
 -  decrease in the number of white blood cells
@@ -1722,7 +1718,11 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 ## Marketing Authorisation Holder
 
-Eisai GmbH Edmund-Rumpler-Straße 3 60549 Frankfurt am Main Germany E-mail: medinfo\\_de@eisai.net
+Eisai GmbH Edmund-Rumpler-Straße 3 60549 Frankfurt am Main
+
+Germany
+
+E-mail: medinfo\\_de@eisai.net
 
 ## Manufacturer
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-27 14:50:13
-document_pages: 36
+document_datetime: 2026-03-27 15:28:00
+document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/duvyzat-epar-product-information_en.pdf
 document_name: duvyzat-epar-product-information_en.pdf
 version: success
-processing_time: 9.5715971
-conversion_datetime: 2025-12-19 04:07:32.544187
+processing_time: 9.5216105
+conversion_datetime: 2026-03-29 12:26:57.988646
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -73,8 +73,6 @@ Table 1 - Recommended Dosage
 | 40 kg to less than 60 kg | 44.3 mg twice daily | 5 ml twice daily         |
 | 60 kg or more            | 53.2 mg twice daily | 6 ml twice daily         |
 
-(a) Based on actual body weight
-
 The decision to continue treatment in patients who become non-ambulatory should be taken at the discretion of the physician based on the overall benefit and risk assessment.
 
 Dose adjustment for thrombocytopenia, diarrhoea or hypertriglyceridaemia
@@ -100,12 +98,6 @@ Table 2 - Dosage modifications for adverse reactions
 | 20 kg to less than 40 kg | 22.2 mg twice daily             | 2.5 ml twice daily              | 17.7 mg twice daily              | 2 ml twice daily                 |
 | 40 kg to less than 60 kg | 31 mg twice daily               | 3.5 ml twice daily              | 26.6 mg twice daily              | 3 ml twice daily                 |
 | 60 kg or more            | 39.9 mg twice daily             | 4.5 ml twice daily              | 35.4 mg twice daily              | 4 ml twice daily                 |
-
-(a) Based on actual body weight
-
-(b) If  the  adverse reaction(s) persist after the first dosage modification, proceed to the second dosage modification.
-
-(c) If  the  adverse  reaction(s)  persist  after  the  second  dosage  modification,  Duvyzat  should  be discontinued.
 
 Patients should not take a double or extra dose if a dose is missed.
 
@@ -265,16 +257,6 @@ Table 3 - Adverse Drug Reactions reported in givinostat-treated patients at a fr
 | General disorders and administration site conditions | Pyrexia                                      | Fatigue                                         |
 | Investigations                                       |                                              | Blood thyroid stimulating hormone increased (e) |
 
-(a) Thrombocytopenia includes platelet count decreased and thrombocytopenia;
-
-(b) Hypertriglyceridaemia includes hypertriglyceridaemia and blood triglycerides increased;
-
-(c) Diarrhoea includes diarrhoea and faeces soft;
-
-(d) Abdominal pain includes abdominal pain and abdominal pain upper;
-
-(e) Blood thyroid stimulating hormone increased includes thyroid function test abnormal and blood thyroid stimulating hormone increased.
-
 ## Description of selected adverse reactions
 
 ## Haematological changes
@@ -366,10 +348,6 @@ Table 4 - EPIDYS Study: Time (Seconds) to 4SC, Change from Baseline to 18 Months
 | No Log Scale Analysis                                               |                                    |                             |
 | LS mean (95% CI)                                                    | 1.25 (0.311, 2.181)                | 3.03 (1.666, 4.394)         |
 | Difference in LS means (givinostat-placebo) (95% CI) p-value        | -1.78 (-3.462, -0.106) 0.0374      |                             |
-
-*Log Scale analysis was performed since data were not normally distributed.
-
-§ Givinostat or placebo were administered in addition to a stable dose of corticosteroids throughout the study.
 
 Note: LS Means, CIs, and p-values are obtained from an analysis of covariance (ANCOVA) model on change from baseline in 4SC at Month 18.
 
@@ -1125,21 +1103,3 @@ Or visit the URL https://www.duvyzat.eu
 This medicine has been given 'conditional approval'. This means that there is more evidence to come about this medicine. The European Medicines Agency will review new information on this medicine at least every year and this leaflet will be updated as necessary.
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
-
-<div style=\"page-break-after: always\"></div>
-
-## Annex IV
-
-Conclusions on the granting of the conditional marketing authorisation and presented by the European Medicines Agency
-
-<div style=\"page-break-after: always\"></div>
-
-## Conclusions presented by the European Medicines Agency on:
-
-## · Conditional marketing authorisation
-
-The CHMP having considered the application is of the opinion that the risk-benefit balance is favourable to recommend the granting of the conditional marketing authorisation as further explained in the European Public Assessment Report.
-
-## · Similarity
-
-The CHMP is of the opinion that Duvyzat is not similar to authorised orphan medicinal product(s) within the meaning of Article 3 of Commission Regulation (EC) No. 847/2000 as further explained in the European Public Assessment Report.

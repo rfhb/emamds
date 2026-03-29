@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-12 15:42:03
-document_pages: 47
+document_datetime: 2026-03-25 08:46:49
+document_pages: 56
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/iclusig-epar-product-information_en.pdf
 document_name: iclusig-epar-product-information_en.pdf
 version: success
-processing_time: 14.9175672
-conversion_datetime: 2025-12-18 10:31:48.858143
+processing_time: 20.1454154
+conversion_datetime: 2026-03-29 12:46:58.378997
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -82,6 +82,8 @@ Iclusig is indicated in adult patients with
 
 - Philadelphia chromosome positive acute lymphoblastic leukaemia (Ph+ ALL) who are resistant to dasatinib; who are intolerant to dasatinib and for whom subsequent treatment with imatinib is not clinically appropriate; or who have the T315I mutation.
 
+Iclusig is indicated in combination with reduced-intensity chemotherapy in adult patients with newly diagnosed Ph+ ALL (see section 5.1).
+
 See sections 4.2 for the assessment of cardiovascular status prior to start of therapy and 4.4 for situations where an alternative treatment may be considered.
 
 ## 4.2 Posology and method of administration
@@ -92,17 +94,29 @@ Before starting treatment with ponatinib, the cardiovascular status of the patie
 
 ## Posology
 
-The recommended starting dose is 45 mg of ponatinib once daily. For the standard dose of 45 mg once daily, a 45 mg film-coated tablet is available. Treatment should be continued as long as the patient does not show evidence of disease progression or unacceptable toxicity.
+Patients with CML and Philadelphia chromosome positive acute lymphoblastic leukaemia (Ph+ ALL) previously treated with other tyrosine kinase inhibitors (TKIs) or who have the T315I mutation: The recommended starting dose is 45 mg of ponatinib once daily. For the standard dose of 45 mg once daily, a 45 mg film-coated tablet is available. Treatment should be continued as long as the patient does not show evidence of disease progression or unacceptable toxicity.
 
 Patients should be monitored for response according to standard clinical guidelines.
 
 Discontinuing ponatinib should be considered if a complete haematologic response has not occurred by 3 months (90 days).
 
-The risk of arterial occlusive events is likely to be dose-related. Reducing the dose of Iclusig to 15 mg should be considered for CP-CML patients who have achieved molecular response (MR2 i.e. ≤1% BCR-ABL1 IS ) taking the following factors into account in the individual patient assessment: cardiovascular risk, side effects of ponatinib therapy, time to response, and BCR-ABL transcript levels (see sections 4.4 and 5.1).  If dose reduction is undertaken, close monitoring of response is recommended. In patients with loss of response, the dose of Iclusig can be re-escalated to a previously tolerated dosage of 30 mg or 45 mg orally once daily. Iclusig should be continued until loss of response at the re-escalated dose or unacceptable toxicity.
+The risk of arterial occlusive events is likely to be dose-related. Reducing the dose of Iclusig to 15 mg should be considered for CP-CML patients who have achieved molecular response (MR2 i.e. ≤1% BCR-ABL1 IS ) taking the following factors into account in the individual patient assessment: cardiovascular risk, side effects of ponatinib therapy, time to response, and BCR-ABL transcript levels (see sections 4.4 and 5.1). If dose reduction is undertaken, close monitoring of response is recommended. In patients with loss of response the dose of Iclusig can be re-escalated to a previously tolerated dosage of 30 mg or 45 mg orally once daily. Iclusig should be continued until loss of response at the re escalated dose or unacceptable toxicity.
+
+## Patients with Newly-diagnosed  Ph+ ALL in combination with chemotherapy:
+
+The recommended starting dose is 30 mg of ponatinib once daily in combination with chemotherapy with a dose reduction to 15 mg once daily upon achievement of MRD-negative complete response (≤0.01% BCR -ABL1) at the end of induction.
+
+Patients with loss of MRD negativity can re-escalate the dose of ponatinib to a previously tolerated dosage of up to 30 mg once daily. After completion of ponatinib in combination with chemotherapy, continue treatment with ponatinib as monotherapy until loss of response at the re-escalated dose or unacceptable toxicity (see section 5.1 Pharmacodynamic properties).
+
+CNS prophylaxis or treatment, steroid induction, anti-CD20 therapy in CD20+ patients or chemotherapy as applicable should follow the respective Summaries of Product Characteristics and standard clinical guidelines.
+
+<div style=\"page-break-after: always\"></div>
+
+Discontinuing ponatinib should be considered if a complete molecular response has not occurred after the induction phase.
 
 ## Management of toxicities
 
-Dose modifications or interruption of dosing should be considered for the management of haematological and non-haematological toxicities. In the case of severe adverse reactions, treatment should be withheld.
+Iclusig dose modifications or interruption of dosing should be considered for the management of haematological and non-haematological toxicities. In the case of severe adverse reactions, treatment should be withheld. When Iclusig is given in combination with chemotherapy, standard dose reductions for the chemotherapeutic medicinal products should be applied, see their respective Summary of Product Characteristics and standard clinical guidelines.
 
 For patients whose adverse reactions are resolved or attenuated in severity, Iclusig may be restarted and escalation of the dose back to the daily dose used prior to the adverse reaction may be considered, if clinically appropriate.
 
@@ -112,15 +126,13 @@ For a dose of 30 mg or 15 mg once daily, 15 mg and 30 mg film-coated tablets are
 
 Dose modifications for neutropenia (ANC* &lt; 1.0 x 10 9 /L) and thrombocytopenia (platelet &lt; 50 x 10 9 /L) that are unrelated to leukaemia are summarized in Table 1.
 
-<div style=\"page-break-after: always\"></div>
+## Table 1 Dose modifications for myelosuppression
 
-Table 1 Dose modifications for myelosuppression
-
-| ANC* < 1.0 x 10 9 /L or platelet < 50 x 10 9 /L   | First occurrence: • Iclusig should be withheld and resumed at the same dose after recovery to ANC ≥ 1.5 x 10 9 /L and platelet ≥ 75 x 10 9 /L   |
-|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| ANC* < 1.0 x 10 9 /L or platelet < 50 x 10 9 /L   | Recurrence at 45 mg: • Iclusig should be withheld and resumed at 30 mg after recovery to ANC ≥ 1.5 x 10 9 /L and platelet ≥ 75 x 10 9 /L        |
-| ANC* < 1.0 x 10 9 /L or platelet < 50 x 10 9 /L   | Recurrence at 30 mg: • Iclusig should be withheld and resumed at 15 mg after recovery to ANC ≥ 1.5 x 10 9 /L and platelet ≥ 75 x 10 9 /L        |
-| *ANC = absolute neutrophil count                  | *ANC = absolute neutrophil count                                                                                                                |
+| ANC* < 1.0 x or platelet < 50 x   | First occurrence: • Iclusig should be withheld and resumed at the same dose after recovery to ANC ≥ 1.5 x 10 9 /L and platelet ≥ 75 x 10 9 /L   |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| 10 9 /L 10 9 /L                   | Recurrence at 45 mg: • Iclusig should be withheld and resumed at 30 mg after recovery to ANC ≥ 1.5 x 10 9 /L and platelet ≥ 75 x 10 9 /L        |
+| 10 9 /L 10 9 /L                   | Recurrence at 30 mg: • Iclusig should be withheld and resumed at 15 mg after recovery to ANC ≥ 1.5 x 10 9 /L and platelet ≥ 75 x 10 9 /L        |
+| *ANC = absolute neutrophil count  | *ANC = absolute neutrophil count                                                                                                                |
 
 ## Arterial occlusion and venous thromboembolism
 
@@ -132,32 +144,35 @@ Hypertension may contribute to risk of arterial occlusive events. Iclusig treatm
 
 Recommended modifications for pancreatic adverse reactions are summarized in Table 2.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 2 Dose modifications for pancreatitis and elevation of lipase
 
 | Grade 2 pancreatitis and/or Grade 2 elevation of lipase (>1.5 - 2.0 x IULN or >2.0 - 5.0 x IULN and asymptomatic)   | Iclusig should be continued at the same dose                                                                                                                                                                                                                                                                                                                                                          |
 |---------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Grade 3 asymptomatic elevation of lipase(> 5.0 x IULN*)                                                             | Occurrence at 45 mg: • Iclusig should be withheld and resumed at 30 mg after recovery to ≤ Grade 1 (< 1.5 x IULN) Occurrence at 30 mg: • Iclusig should be withheld and resumed at 15 mg after recovery to ≤ Grade 1 (< 1.5 x IULN) Occurrence at 15 mg: • Iclusig discontinuation should be considered                                                                                               |
+| Grade 3 asymptomatic elevation of lipase (> 5.0 x IULN*)                                                            | Occurrence at 45 mg: • Iclusig should be withheld and resumed at 30 mg after recovery to ≤ Grade 1 (< 1.5 x IULN) Occurrence at 30 mg: • Iclusig should be withheld and resumed at 15 mg after recovery to ≤ Grade 1 (< 1.5 x IULN) Occurrence at 15 mg: • Iclusig discontinuation should be considered                                                                                               |
 | Grade 3 pancreatitis or Grade 3 symptomatic elevation of lipase (> 2.0 - 5.0 x IULN)                                | Occurrence at 45 mg: • Iclusig should be withheld until complete resolution of symptoms and after recovery of lipase elevation to < Grade 2 and resumed at 30 mg Occurrence at 30 mg: • Iclusig should be withheld until complete resolution of symptoms and after recovery of lipase elevation to < Grade 2 and resumed at 15 mg Occurrence at 15 mg: • Iclusig discontinuation should be considered |
 | Grade 4 pancreatitis or Grade 4 elevation of lipase (>5.0 x IULN and symptomatic)                                   | Iclusig should be discontinued                                                                                                                                                                                                                                                                                                                                                                        |
 | *IULN = institution upper limit of normal                                                                           | *IULN = institution upper limit of normal                                                                                                                                                                                                                                                                                                                                                             |
 
-## Hepatic toxicity
+Hepatic toxicity
 
 Dose interruption or discontinuation may be required as described in Table 3.
-
-<div style=\"page-break-after: always\"></div>
 
 Table 3 Recommended dose modifications for hepatic toxicity
 
 | Elevation of liver transaminase > 3 × ULN* Persistent grade 2 (longer than 7 days) Grade 3 or higher   | Occurrence at 45 mg: • Iclusig should be interrupted and hepatic function should be monitored • Iclusig should be resumed at 30 mg after recovery to ≤ Grade 1 (< 3 × ULN), or recovery to pre-treatment grade Occurrence at 30 mg: • Iclusig should be interrupted and resumed at 15 mg after recovery to ≤ Grade 1, or recovery to pre-treatment grade Occurrence at 15 mg: • Iclusig should be discontinued   |
 |--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Elevation of AST or ALT ≥ 3 × ULN concurrent with an elevation of bilirubin > 2 × ULN and alkaline     | Iclusig should be discontinued                                                                                                                                                                                                                                                                                                                                                                                   |
+| Elevation of AST or ALT ≥ 3 × ULN concurrent with an elevation of                                      | Iclusig should be discontinued                                                                                                                                                                                                                                                                                                                                                                                   |
+| bilirubin > 2 × ULN and alkaline phosphatase < 2 × ULN                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 *ULN = Upper Limit of Normal for the lab
 
 ## Elderly patients
 
 Of the 732 patients in the PACE and OPTIC clinical studies of Iclusig, 191 (26 %) were ≥ 65 years of age. Compared to patients &lt; 65 years, older patients are more likely to experience adverse reactions.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hepatic impairment
 
@@ -187,29 +202,29 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## Myelosuppression
 
-Iclusig is associated with severe (National Cancer Institute Common Terminology Criteria for Adverse Events grade 3 or 4) thrombocytopenia, neutropenia, and anaemia. Most of the patients with grade 3 or 4 platelet count decreased, anaemia or neutropenia, developed it within the first 3 months of treatment.
-
-<div style=\"page-break-after: always\"></div>
-
-The frequency of these events is greater in patients with accelerated phase CML (AP-CML), blast phase CML (BP-CML), or Ph+ ALL than in chronic phase CML (CP-CML). A complete blood count should be performed every 2 weeks for the first 3 months and then monthly or as clinically indicated. Myelosuppression was generally reversible and usually managed by withholding Iclusig temporarily or reducing the dose (see section 4.2).
+Iclusig is associated with severe (National Cancer Institute Common Terminology Criteria for Adverse Events grade 3 or 4) thrombocytopenia, neutropenia, and anaemia. Most of the patients with grade 3 or 4 platelet count decreased, anaemia or neutropenia, developed it within the first 3 months of treatment. The frequency of these events is greater in patients with accelerated phase CML (AP-CML), blast phase CML (BP-CML), or Ph+ ALL than in chronic phase CML (CP-CML). A complete blood count should be performed every 2 weeks for the first 3 months and then monthly or as clinically indicated. Myelosuppression was generally reversible and usually managed by withholding Iclusig temporarily or reducing the dose (see section 4.2).
 
 ## Arterial occlusion
 
 Arterial occlusions, including fatal myocardial infarction, stroke, retinal arterial occlusions associated in some cases with permanent visual impairment or vision loss, stenosis of large arterial vessels of the brain, severe peripheral vascular disease, renal artery stenosis (associated with worsening, labile or treatment-resistant hypertension), and the need for urgent revascularization procedures have occurred in Iclusig-treated patients. Patients with and without cardiovascular risk factors, including patients age 50 years or younger, experienced these events. Arterial occlusion adverse events were more frequent with increasing age and in patients with history of ischaemia, hypertension, diabetes, or hyperlipidaemia.
 
-The risk of arterial occlusive events is likely to be dose-related. (see sections 4.8 and 5.1).
+The risk of arterial occlusive events is likely to be dose-related (see sections 4.8 and 5.1).
 
 Arterial occlusive adverse reactions including serious reactions, have occurred in the clinical development (see section 4.8). Some patients experienced more than 1 type of event.
 
-Iclusig should not be used in patients with a history of myocardial infarction, prior revascularization or stroke, unless the potential benefit of treatment outweighs the potential risk (see sections 4.2 and 4.8). In these patients, alternative treatment options should also be considered before starting treatment with ponatinib.
+Iclusig should not be used in patients with a history of myocardial infarction, prior revascularization or stroke, unless the potential benefit of treatment outweighs the potential risk (see sections 4.2 and 4.8).
 
-Before starting treatment with ponatinib, the cardiovascular status of the patient should be assessed, including history and physical examination, and cardiovascular risk factors should be actively managed. Cardiovascular status should continue to be monitored and medical and supportive therapy for conditions that contribute to cardiovascular risk should be optimised during treatment with ponatinib.
+<div style=\"page-break-after: always\"></div>
+
+In these patients, alternative treatment options should also be considered before starting treatment with ponatinib.
+
+Before starting treatment with ponatinib, the cardiovascular status of the patient should be assessed, including history and physical examination, and cardiovascular risk factors should be actively managed. Cardiovascular status should continue to be monitored and medical and supportive therapy for conditions that contribute to cardiovascular risk should be optimised during treatment with ponatinib. The safety of ponatinib treatment has not been studied in patients with atrial fibrillation.
 
 Monitoring for evidence of arterial occlusion should be performed and if decreased vision or blurred vision occurs, an ophthalmic examination (including fundoscopy) should be performed. Iclusig should be interrupted immediately in case of arterial occlusion. A benefit -risk consideration should guide a decision to restart Iclusig therapy (see sections 4.2 and 4.8).
 
 ## Venous thromboembolism
 
-Venous thromboembolic adverse reactions including serious reactions have occurred in the clinical development (see section 4.8).
+Venous thromboembolic adverse reactions including serious reactions have occurred in the clinical development. (see section 4.8).
 
 Monitoring for evidence of thromboembolism should be performed. Iclusig should be interrupted immediately in case of thromboembolism. A benefit -risk consideration should guide a decision to restart Iclusig therapy (see sections 4.2 and 4.8).
 
@@ -220,8 +235,6 @@ Retinal venous occlusions associated in some cases with permanent visual impairm
 Hypertension may contribute to risk of arterial thrombotic events, including renal artery stenosis. During Iclusig treatment, blood pressure should be monitored and managed at each clinic visit and hypertension should be treated to normal. Iclusig treatment should be temporarily interrupted if hypertension is not medically controlled (see section 4.2).
 
 In the event of significant worsening, labile or treatment-resistant hypertension, treatment should be interrupted and evaluation for renal artery stenosis should be considered.
-
-<div style=\"page-break-after: always\"></div>
 
 Treatment-emergent hypertension (including hypertensive crisis) occurred in Iclusig-treated patients. Patients may require urgent clinical intervention for hypertension associated with confusion, headache, chest pain, or shortness of breath.
 
@@ -235,11 +248,15 @@ Fatal and serious heart failure or left ventricular dysfunction occurred in Iclu
 
 ## Pancreatitis and serum lipase
 
-Iclusig is associated with pancreatitis. The frequency of pancreatitis is greater in the first 2 months of use. Check serum lipase every 2 weeks for the first 2 months and then periodically thereafter. Dose interruption or reduction may be required. If lipase elevations are accompanied by abdominal symptoms, Iclusig should be withheld and patients evaluated for evidence of pancreatitis (see section 4.2). Caution is recommended in patients with a history of pancreatitis or alcohol abuse. Patients with severe or very severe hypertriglyceridemia should be appropriately managed to reduce the risk of pancreatitis.
+Iclusig is associated with pancreatitis. The frequency of pancreatitis is greater in the first 2 months of use. Check serum lipase every 2 weeks for the first 2 months and then periodically thereafter. Dose interruption or reduction may be required. If lipase elevations are accompanied by abdominal symptoms, Iclusig should be withheld and patients evaluated for evidence of pancreatitis (see section 4.2). Caution is recommended in patients with a history of pancreatitis or alcohol abuse. Patients with
+
+<div style=\"page-break-after: always\"></div>
+
+severe or very severe hypertriglyceridemia should be appropriately managed to reduce the risk of pancreatitis.
 
 ## Hepatotoxicity
 
-Iclusig may result in elevation in ALT, AST, bilirubin, and alkaline phosphatase. Most patients who had an event of hepatotoxicity had their first event during the first year of treatment. Hepatic failure (including fatal outcome) has been observed. Liver function tests should be performed prior to treatment initiation and monitored periodically, as clinically indicated.
+Iclusig may result in elevation in ALT, AST, bilirubin, and alkaline phosphatase. Most patients who had an event of hepatotoxicity had their first event during the first year of treatment. Hepatic failure (including fatal outcome) has been observed. Liver function tests should be performed prior to treatment initiation and monitored periodically, as clinically indicated. Hepatic function should be carefully monitored when ponatinib is used in combination with chemotherapy agents also known to be associated with hepatic dysfunction (see section 4.8).
 
 ## Haemorrhage
 
@@ -257,8 +274,6 @@ Post-marketing cases of Posterior Reversible Encephalopathy Syndrome (PRES) have
 
 PRES is a neurological disorder that can present with signs and symptoms such as seizure, headache, decreased alertness, altered mental functioning, vision loss, and other visual and neurological disturbances.
 
-<div style=\"page-break-after: always\"></div>
-
 If diagnosed, interrupt Iclusig treatment and resume treatment only once the event is resolved and if the benefit of continued treatment outweighs the risk of PRES.
 
 ## Medicinal product interactions
@@ -267,9 +282,13 @@ Caution should be exercised with concurrent use of Iclusig and moderate and stro
 
 Concomitant use of ponatinib with anti-clotting agents should be approached with caution in patients who may be at risk of bleeding events (see 'Myelosuppression' and 'Haemorrhage'). Formal studies of ponatinib with anti-clotting medicinal products have not been conducted.
 
+In Ph+ ALL patients, when co-administering ponatinib with chemotherapy (see section 5.1) occurrence of adverse events i.e. hepatotoxicity, myelosuppression or others, may increase (see section 4.8).The use of ponatinib in combination with chemotherapy requires special precaution.
+
 ## QT prolongation
 
 The QT interval prolongation potential of Iclusig was assessed in 39 leukaemia patients and no clinically significant QT prolongation was observed (see section 5.1). However, a thorough QT study has not been performed; therefore a clinically significant effect on QT cannot be excluded.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Special populations
 
@@ -287,7 +306,7 @@ This medicinal product contains lactose monohydrate. Patients with rare heredita
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-Substances that may increase ponatinib serum concentrations
+## Substances that may increase ponatinib serum concentrations
 
 ## CYP3A inhibitors
 
@@ -303,11 +322,7 @@ Caution should be exercised and a reduction of the starting dose of Iclusig to 3
 
 Co-administration of a single 45 mg dose of Iclusig in the presence of rifampin (600 mg daily), a strong CYP3A inducer, to 19 healthy volunteers, decreased the AUC0-∞ and Cmax of ponatinib by 62% and 42%, respectively, when compared to administration of ponatinib alone.
 
-Co-administration of strong CYP3A4 inducers such as carbamazepine, phenobarbital, phenytoin, rifabutin, rifampicin, and St. John's Wort with ponatinib should be avoided, and alternatives to the
-
-<div style=\"page-break-after: always\"></div>
-
-CYP3A4 inducer should be sought, unless the benefit outweighs the possible risk of ponatinib underexposure.
+Co-administration of strong CYP3A4 inducers such as carbamazepine, phenobarbital, phenytoin, rifabutin, rifampicin, and St. John's Wort with ponatinib should be avoided, and alternatives to the CYP3A4 inducer should be sought, unless the benefit outweighs the possible risk of ponatinib underexposure.
 
 ## Substances that may have their serum concentrations altered by ponatinib
 
@@ -318,6 +333,8 @@ In vitro , ponatinib is an inhibitor of P-gp and BCRP. Therefore, ponatinib may 
 ## Paediatric population
 
 Interaction studies have only been performed in adults.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -345,11 +362,7 @@ Iclusig has minor influence on the ability to drive and use machines. Adverse re
 
 ## Summary of the safety profile
 
-## Previously Treated CML or Ph+ALL (PACE Study)
-
-In the PACE phase 2 trial (see section 5.1) the most common serious adverse reactions &gt; 2% (treatmentemergent frequencies) were pneumonia (7.3%), pancreatitis (5.8%), abdominal pain (4.7 %), atrial fibrillation (4.5%) , pyrexia (4.5%), myocardial infarction (4.0%), peripheral arterial occlusive disease (3.8%), anaemia (3.8%), angina pectoris (3.3%), platelet count decreased (3.1%), febrile neutropenia (2.9%), hypertension (2.9%), coronary artery disease (2.7%), cardiac failure congestive (2.4%), cerebrovascular accident (2.4%), sepsis (2.4%), cellulitis (2.2%), acute kidney injury (2.0%), urinary tract infection (2.0%) and lipase increased (2.0%) .
-
-<div style=\"page-break-after: always\"></div>
+Patients with Previously Treated CML or Ph+ ALL or who have the T315I mutation (PACE Study) In the PACE phase 2 trial (see section 5.1) the most common serious adverse reactions &gt; 2% (treatmentemergent frequencies) were pneumonia (7.3%), pancreatitis (5.8%), abdominal pain (4.7 %), atrial fibrillation (4.5%) , pyrexia (4.5%), myocardial infarction (4.0%), peripheral arterial occlusive disease (3.8%), anaemia (3.8%), angina pectoris (3.3%), platelet count decreased (3.1%), febrile neutropenia (2.9%), hypertension (2.9%), coronary artery disease (2.7%), cardiac failure congestive (2.4%), cerebrovascular accident (2.4%), sepsis (2.4%), cellulitis (2.2%), acute kidney injury (2.0%), urinary tract infection (2.0%) and lipase increased (2.0%) .
 
 Serious arterial cardiovascular, cerebrovascular, and peripheral vascular occlusive adverse reactions (treatmentemergent frequencies) occurred in 10%, 7%, and 9% of Iclusig -treated patients, respectively. Serious venous occlusive reactions (treatment-emer gent frequencies) occurred in 5% of patients.
 
@@ -357,126 +370,183 @@ Arterial cardiovascular, cerebrovascular, and peripheral vascular occlusive adve
 
 Venous thromboembolic reactions (treatmentemergent frequencies) occurred in 6% of patients. The incidence of thromboembolic events is higher in patients with Ph+ ALL or BP-CML than those with AP-CML or CP-CML. No venous occlusive events were fatal.
 
+<div style=\"page-break-after: always\"></div>
+
 After a minimum follow-up of 64 months, the rates of adverse reactions resulting in discontinuation were 20% in CP -CML, 11% in AP -CML, 15% in BP -CML and 9% in Ph+ ALL.
 
 ## Previously Treated CP-CML (OPTIC Study)
 
 In the OPTIC phase 2 trial (see section 5.1) with a median duration of follow-up of 77.93 months, overall arterial occlusive adverse reactions have occurred in 13.8 % of Iclusig -treated patients (45 mg cohort) including 2 of which were fatal, and serious adverse reactions occurred in 8.5 % of patients (45 mg cohort). Arterial cardiovascular, cerebrovascular, and peripheral vascular occlusive adverse reactions (treatment-emergent frequencies) occurred in 5 .3%, 4.3 %, and 4.3 % of Iclusig -treated patients (45 mg cohort), respectively. Of the 94 patients in the 45 mg cohort, 1 patient experienced a venous thromboembolic reaction (Grade 1 retinal vein occlusion).
 
-## Tabulated list of adverse reactions
+## Patients with Newly Diagnosed Ph+ ALL (PhALLCON Study)
 
-The frequencies of adverse reactions are based on 449 CML and Ph+ALL patients exposed to ponatinib in the PACE phase 2 trial and the 94 CML patients exposed to ponatinib (45 mg starting dose) in the OPTIC phase 2 trial. See section 5.1 for information on the main characteristics of participants in the trials. Adverse reactions reported in all CML and Ph+ ALL patients are listed by system organ class and by frequency in Table 4. Frequency categories are very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10) and uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), and not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+In Ph+ ALL patients treated with ponatinib in combination with reduced-intensity chemotherapy, the safety profile was consistent with the safety profile of ponatinib alone in terms of type of events. Myelosuppression events were reported in 83 % of ponatinib -treated patients in PhALLCON. The most frequently reported adverse drug reactions were thrombocytopenia (47%) , neutropenia (44%) and anemia (44%). Events of hepatotoxicity occurred in 64 % of patients. Overall a higher incidence of myelosuppression associated with chemotherapy (febrile neutropenia, pyrexia, pneumonia and sepsis) as well as peripheral sensory neuropathy and stomatitis was observed as compared to the use of ponatinib alone.
 
-Table 4 Adverse reactions observed in previously treated CML and Ph+ ALL patients frequency reported by incidence of treatment emergent events
+## Tabulated lists of adverse reactions
 
-| System organ class                   | Frequency   | Adverse reactions                                                                                                 |
-|--------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------|
-|                                      | Very common | upper respiratory tract infection                                                                                 |
-| Infections and infestations          | Common      | pneumonia, sepsis, folliculitis, cellulitis, herpes zoster                                                        |
-|                                      | Very common | anaemia, platelet count decreased, neutrophil count decreased                                                     |
-| Blood and lymphatic system disorders | Common      | pancytopenia, febrile neutropenia, white blood cell count decreased, lymphocyte count decreased, myelosuppression |
-| Endocrine disorders                  | Common      | hypothyroidism a                                                                                                  |
+The frequencies of adverse reactions of Iclusig monotherapy are based on 449 CML and Ph+ ALL patients exposed to ponatinib in the PACE phase 2 trial and the 94 CML patients exposed to ponatinib (45 mg starting dose) in the OPTIC phase 2 trial. See section 5.1 for information on the main characteristics of participants in the trials. Adverse reactions reported in all CML and Ph+ ALL patients are listed by system organ class and by frequency in Table 4.
 
-<div style=\"page-break-after: always\"></div>
+The frequencies of adverse reactions of Iclusig in combination with chemotherapy are based on 163 newly diagnosed Ph+ ALL patients exposed to ponatinib in combination with reduced-intensity chemotherapy followed by continued treatment with Iclusig as monotherapy in the PhALLCON phase 3 trial. See section 5.1 for information on the main characteristics of participants in the trial. Adverse reactions reported in all newly diagnosed Ph+ ALL patients are listed by system organ class and by frequency in Table 5.
 
-| System organ class                 | Frequency          | Adverse reactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|------------------------------------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Metabolism and nutrition disorders | Very common        | decreased appetite, hypertriglyceridaemia, hypercholesterolaemia                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Psychiatric disorders              | Very common        | insomnia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| Metabolism and nutrition disorders | Common             | anxiety                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|                                    | Very               | headache,                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Nervous system disorders           | common             | dizziness cerebrovascular accident,                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Nervous system disorders           | Common             | cerebral infarction, neuropathy peripheral, lethargy, migraine, hyperaesthesia, hypoaesthesia, paraesthesia, transient ischaemic attack, facial nerve                                                                                                                                                                                                                                                                                                                                   |
-| Nervous system disorders           | Uncommon           | cerebral artery stenosis, cerebral haemorrhage, haemorrhage intracranial, posterior reversible encephalopathy syndrome *                                                                                                                                                                                                                                                                                                                                                                |
-| disorders                          | Common             | vision blurred, dry eye, periorbital oedema, eyelid oedema, conjunctivitis, visual impairment, eye pain, retinal vein occlusion retinal vein thrombosis, retinal artery                                                                                                                                                                                                                                                                                                                 |
-| disorders                          | Uncommon           | occlusion cardiac failure, myocardial infarction, cardiac failure congestive, coronary artery disease,                                                                                                                                                                                                                                                                                                                                                                                  |
-| Cardiac disorders                  | Common             | angina pectoris, pericardial effusion, atrial fibrillation, ejection fraction decreased, acute coronary syndrome, atrial flutter, left ventricular dysfunction, left ventricular hypertrophy, sinus bradycardia, tachycardia, n-terminal prohormone brain natriuretic peptide increased, angina unstable, myocardial ischaemia, supraventricular extrasystoles, ventricular extrasystoles, electrocardiogram qt prolonged, cardiac failure chronic, brain natriuretic peptide increased |
-| Cardiac disorders                  | Uncommon           | cardiac discomfort, ischemic cardiomyopathy, arteriospasm coronary                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Vascular disorders                 | Very common        | hypertension                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Vascular disorders                 | Common             | peripheral arterial occlusive disease, peripheral ischaemia, peripheral artery stenosis, intermittent claudication, deep vein thrombosis, hot flush, flushing, hypertensive crisis                                                                                                                                                                                                                                                                                                      |
-| Vascular disorders                 | Uncommon Not known | poor peripheral circulation, splenic infarction, embolism venous, venous thrombosis, renal artery stenosis aneurysms and artery dissections                                                                                                                                                                                                                                                                                                                                             |
+Frequency categories are very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10) and uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), and not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+
+Table 4 Adverse reactions observed in previously treated CML and Ph+ ALL patients or who have the T315I mutation  - frequency reported by incidence of treatment emergent events
+
+| System organ class                   | Frequency   | Adverse reactions                                             |
+|--------------------------------------|-------------|---------------------------------------------------------------|
+| Infections and infestations          | Very common | upper respiratory tract infection pneumonia, sepsis,          |
+| Blood and lymphatic system disorders | Very common | anaemia, platelet count decreased, neutrophil count decreased |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                              | Frequency   | Adverse reactions                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|-------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                 | Very common | dyspnoea, cough                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Respiratory, thoracic and mediastinal disorders | Common      | pulmonary embolism, pleural effusion, epistaxis, dysphonia, pulmonary hypertension, oropharyngeal pain, productive cough                                                                                                                                                                                                                                                                                                                           |
-| Gastrointestinal disorders                      | Very common | abdominal pain, diarrhoea, vomiting, constipation, nausea, lipase increased                                                                                                                                                                                                                                                                                                                                                                        |
-| Gastrointestinal disorders                      | Common      | pancreatitis, blood amylase increased, gastrooesophageal reflux disease, stomatitis, dyspepsia, abdominal distension, abdominal discomfort, dry mouth, gastric haemorrhage, gastritis, gastric ulcer, gingival bleeding                                                                                                                                                                                                                            |
-| Hepatobiliary disorders                         | Very common | alanine aminotransferase increased, aspartate aminotransferase increased                                                                                                                                                                                                                                                                                                                                                                           |
-| Hepatobiliary disorders                         | Common      | blood bilirubin increased, blood alkaline phosphatase increased, gamma-glutamyl transferase increased, transaminases increased, hepatotoxicity                                                                                                                                                                                                                                                                                                     |
-|                                                 | Uncommon    | hepatic failure, jaundice                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|                                                 | Very common | rash, dry skin, pruritus                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Skin and subcutaneous tissue disorders          | Common      | rash pruritic, exfoliative rash, erythema, alopecia, skin exfoliation, night sweats, hyperhidrosis, petechia, ecchymosis, pain of skin, dermatitis exfoliative, hyperkeratosis, skin hyperpigmentation, panniculitis (including erythema nodosum), dermatitis, rash maculo-papular, dermatitis acneiform, rash erythematous, eczema, rash macular, rash papular, erythema multiforme, dermatitis allergic, skin papilloma, dermatitis psoriasiform |
-|                                                 | Very common | bone pain, arthralgia, myalgia, pain in extremity, back pain, muscle spasms                                                                                                                                                                                                                                                                                                                                                                        |
-| Musculoskeletal and connective tissue disorders | Common      | musculoskeletal pain, neck pain, musculoskeletal chest pain, muscular weakness, musculoskeletal stiffness, spinal pain, tendonitis                                                                                                                                                                                                                                                                                                                 |
-| Reproductive system and breast disorders        | Common      | erectile dysfunction                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| General disorders and                           | Very common | fatigue, asthenia, oedema peripheral, pyrexia, pain                                                                                                                                                                                                                                                                                                                                                                                                |
-| administrative site conditions                  | Common      | chills, influenza like illness, non-cardiac chest pain, mass, face oedema, c-reactive protein increased, chest pain                                                                                                                                                                                                                                                                                                                                |
-| administrative site conditions                  |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| System organ class                 | Frequency   | Adverse reactions                                                                                                                                                                                                                                                                         |
+|------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                    | Common      | pancytopenia, febrile neutropenia, white blood cell count decreased, lymphocyte count decreased, myelosuppression                                                                                                                                                                         |
+| Endocrine disorders                | Common      | hypothyroidism a                                                                                                                                                                                                                                                                          |
+| Metabolism and nutrition disorders | Very common | decreased appetite, hypertriglyceridaemia,                                                                                                                                                                                                                                                |
+| Metabolism and nutrition disorders | Common      | hypercholesterolaemia dehydration, fluid retention, hypocalcaemia, hyperglycaemia, hyperuricaemia, hypophosphataemia, hypokalaemia, weight decreased, hyponatraemia, dyslipidaemia, glucose tolerance impaired, low density lipoprotein increased, weight increase, tumour lysis syndrome |
+| Psychiatric disorders              | Very common | insomnia                                                                                                                                                                                                                                                                                  |
+| Psychiatric disorders              | Common      | anxiety                                                                                                                                                                                                                                                                                   |
+| Nervous system disorders           | Very common | headache, dizziness                                                                                                                                                                                                                                                                       |
+| Nervous system disorders           | Common      | cerebrovascular accident, cerebral infarction, neuropathy peripheral, lethargy, migraine, hyperaesthesia, hypoaesthesia, paraesthesia, transient ischaemic attack, facial nerve disorder, carotid artery stenosis                                                                         |
+| Nervous system disorders           | Uncommon    | cerebral artery stenosis, cerebral haemorrhage, haemorrhage intracranial, posterior reversible encephalopathy syndrome *                                                                                                                                                                  |
+| Eye disorders                      | Common      | vision blurred, dry eye, periorbital oedema, eyelid oedema, conjunctivitis, visual impairment, eye pain, retinal vein occlusion                                                                                                                                                           |
+| Eye disorders                      | Uncommon    | retinal vein thrombosis, retinal artery occlusion                                                                                                                                                                                                                                         |
 
-* Spontaneous reports from post-marketing experience
+<div style=\"page-break-after: always\"></div>
 
-a  hypothyroidism includes hypothyroidism, and primary hypothyroidism
+| System organ class                              | Frequency   | Adverse reactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|-------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Cardiac disorders                               | Common      | cardiac failure, myocardial infarction, cardiac failure congestive, coronary artery disease, angina pectoris, pericardial effusion, atrial fibrillation, ejection fraction decreased, acute coronary syndrome, atrial flutter, left ventricular dysfunction, left ventricular hypertrophy, sinus bradycardia, tachycardia, n-terminal prohormone brain natriuretic peptide increased, angina unstable, myocardial ischaemia, supraventricular extrasystoles, ventricular extrasystoles, electrocardiogram qt prolonged, cardiac failure chronic, brain natriuretic peptide increased |
+| Cardiac disorders                               | Uncommon    | cardiac discomfort, ischemic cardiomyopathy, arteriospasm coronary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Vascular disorders                              | Very common | hypertension                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Vascular disorders                              | Common      | peripheral arterial occlusive disease, peripheral ischaemia, peripheral artery stenosis, intermittent claudication, deep vein thrombosis, hot flush, flushing, hypertensive crisis                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Vascular disorders                              | Uncommon    | poor peripheral circulation, splenic infarction, embolism venous, venous thrombosis, renal artery stenosis                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Vascular disorders                              | Not known   | aneurysms and artery dissections                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Respiratory, thoracic and mediastinal disorders | Very common | dyspnoea, cough                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Respiratory, thoracic and mediastinal disorders | Common      | pulmonary embolism, pleural effusion, epistaxis, dysphonia, pulmonary hypertension, oropharyngeal pain, productive cough                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Gastrointestinal disorders                      | Very common | abdominal pain, diarrhoea, vomiting, constipation, nausea, lipase increased                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+<div style=\"page-break-after: always\"></div>
+
+| System organ class                                                    | Frequency   | Adverse reactions                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|-----------------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                       | Common      | pancreatitis, blood amylase increased, gastrooesophageal reflux disease, stomatitis, dyspepsia, abdominal distension, abdominal discomfort, dry mouth, gastric haemorrhage, gastritis, gastric ulcer, gingival bleeding                                                                                                                                                                                                                             |
+| Hepatobiliary disorders                                               | Very common | alanine aminotransferase increased, aspartate aminotransferase increased                                                                                                                                                                                                                                                                                                                                                                            |
+| Hepatobiliary disorders                                               | Common      | blood bilirubin increased, blood alkaline phosphatase increased, gamma-glutamyl transferase increased, transaminases increased, hepatotoxicity                                                                                                                                                                                                                                                                                                      |
+| Hepatobiliary disorders                                               | Uncommon    | hepatic failure, jaundice                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Skin and subcutaneous tissue disorders                                | Very common | rash, dry skin, pruritus                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Skin and subcutaneous tissue disorders                                | Common      | rash pruritic, exfoliative rash, erythema, alopecia, skin exfoliation, night sweats, hyperhidrosis, petechia, ecchymosis, pain of skin, dermatitis exfoliative, hyperkeratosis, skin hyperpigmentation, panniculitis (including erythema nodosum), dermatitis, rash maculo- papular, dermatitis acneiform, rash erythematous, eczema, rash macular, rash papular, erythema multiforme, dermatitis allergic, skin papilloma, dermatitis psoriasiform |
+| Musculoskeletal and connective tissue disorders                       | Very common | bone pain, arthralgia, myalgia, pain in extremity, back pain, muscle spasms                                                                                                                                                                                                                                                                                                                                                                         |
+| Musculoskeletal and connective tissue disorders                       | Common      | musculoskeletal pain, neck pain, musculoskeletal chest pain, muscular weakness, musculoskeletal stiffness, spinal pain, tendonitis                                                                                                                                                                                                                                                                                                                  |
+| Reproductive system and                                               | Common      | erectile dysfunction                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| breast disorders General disorders and administrative site conditions | Very common | fatigue, asthenia, oedema peripheral, pyrexia, pain                                                                                                                                                                                                                                                                                                                                                                                                 |
+
+<div style=\"page-break-after: always\"></div>
+
+| System organ class   | Frequency   | Adverse reactions                                                                                                    |
+|----------------------|-------------|----------------------------------------------------------------------------------------------------------------------|
+|                      | Common      | chills, influenza like illness, non-cardiac chest pain, mass, face oedema, c- reactive protein increased, chest pain |
+
+Table 5 Adverse Reactions observed in newly diagnosed Ph+ ALL patients in PhALLCON Study - frequency reported by incidence of treatment emergent events
+
+| System Organ Class                   | Frequency   | Ponatinib in combination with reduced- intensity chemotherapy Adverse reactions                                                   |
+|--------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations          | Common      | pneumonia, conjunctivitis, sepsis, septic shock, neutropenic infection                                                            |
+| Blood and lymphatic system disorders | Very common | thrombocytopenia, anemia, neutropenia, febrile neutropenia, leukopenia, leukocytosis                                              |
+| Blood and lymphatic system disorders | Common      | myelosuppression, lymphopenia, cytopenia, agranulocytosis                                                                         |
+| Metabolism and nutrition disorders   | Very common | hypokalaemia, hyperglycaemia, hypocalcaemia, hypophosphataemia, hyperuricaemia                                                    |
+| Metabolism and nutrition disorders   | Common      | decreased appetite, hypertriglyceridaemia, hyponatraemia, hypoalbuminaemia, hypercholesterolaemia, dyslipidaemia, fluid retention |
+| Psychiatric disorders                | Very common | insomnia                                                                                                                          |
+| Nervous system disorders             | Very common | headache, neuropathy peripheral, paraesthesia, peripheral sensory neuropathy, dizziness                                           |
+| Nervous system disorders             | Common      | hypoaesthesia                                                                                                                     |
+| Eye disorders                        | Common      | conjunctival hemorrhage                                                                                                           |
+| Eye disorders                        | Uncommon    | retinal vein occlusion                                                                                                            |
+| Cardiac disorders                    | Common      | tachycardia, palpitations, pericardial effusion, atrial fibrillation, sinus bradycardia, angina pectoris                          |
+| Cardiac disorders                    | Uncommon    | cardiac failure, acute myocardial infarction, cardiac failure congestive                                                          |
+| Vascular disorders                   | Very common | hypertension                                                                                                                      |
+| Vascular disorders                   | Common      | deep vein thrombosis, superficial vein thrombosis, embolism                                                                       |
+| Vascular disorders                   | Uncommon    | peripheral arterial occlusive disease, peripheral coldness, thrombosis                                                            |
+
+<div style=\"page-break-after: always\"></div>
+
+| System Organ Class                                   | Frequency   | Ponatinib in combination with reduced- intensity chemotherapy Adverse reactions                                                                                                                                                                                      |
+|------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Respiratory, thoracic and mediastinal disorders      | Very common | cough                                                                                                                                                                                                                                                                |
+| Respiratory, thoracic and mediastinal disorders      | Common      | dyspnoea, oropharyngeal pain, pleural effusion, dysphonia, pulmonary embolism                                                                                                                                                                                        |
+| Gastrointestinal disorders                           | Very common | constipation, nausea, vomiting, stomatitis, diarrhoea, abdominal pain, abdominal pain upper                                                                                                                                                                          |
+| Gastrointestinal disorders                           | Common      | dyspepsia, abdominal distension, abdominal discomfort, pancreatitis, gastritis, pancreatitis acute                                                                                                                                                                   |
+|                                                      | Uncommon    | mouth haemorrhage                                                                                                                                                                                                                                                    |
+| Hepatobiliary disorders                              | Common      | hepatotoxicity, hyperbilirubinaemia, hypertransaminasaemia, hepatitis toxic                                                                                                                                                                                          |
+| Hepatobiliary disorders                              | Uncommon    | drug-induced liver injury, hepatobilliary disease, liver injury                                                                                                                                                                                                      |
+| Skin and subcutaneous tissue disorders               | Very common | rash, dry skin                                                                                                                                                                                                                                                       |
+| Skin and subcutaneous tissue disorders               | Common      | pruritus, alopecia, rash maculo-papular                                                                                                                                                                                                                              |
+| Musculoskeletal and connective tissue disorders      | Very common | back pain, pain in extremity, arthralgia, myalgia                                                                                                                                                                                                                    |
+| Musculoskeletal and connective tissue disorders      | Common      | bone pain, neck pain, muscle spasms                                                                                                                                                                                                                                  |
+| General disorders and administration site conditions | Very common | pyrexia, fatigue, asthenia, oedema peripheral                                                                                                                                                                                                                        |
+| General disorders and administration site conditions | Common      | chest pain, pain                                                                                                                                                                                                                                                     |
+| Investigations                                       | Very common | alanine aminotransferase increased, lipase increased, aspartate aminotransferase increased, gamma-glutamyltransferase increased, blood lactate dehydrogenase increased, amylase increased                                                                            |
+| Investigations                                       | Common      | blood alkaline phosphatase increased, blood creatinine increased, blood fibrinogen decreased, C-reactive protein increased, neutrophil count increased, protein total decreased, platelet count increased, brain natriuretic peptide increased, troponin I increased |
+|                                                      | Uncommon    | ejection fraction decreased                                                                                                                                                                                                                                          |
+| Injury, poisoning and procedural complications       | Uncommon    | subdural hematoma                                                                                                                                                                                                                                                    |
+
+<div style=\"page-break-after: always\"></div>
 
 ## Description of selected adverse reactions
 
 ## Vascular occlusion (see section 4.2 and 4.4).
 
-Serious vascular occlusion has occurred in patients treated with Iclusig, including cardiovascular, cerebrovascular and peripheral vascular events, and venous thrombotic events. Patients with and
-
-<div style=\"page-break-after: always\"></div>
-
-without cardiovascular risk factors, including patients age 50 years or younger, experienced these events. Arterial occlusive adverse events were more frequent with increasing age and in patients with history of ischaemia, hypertension, diabetes, or hyperlipidaemia.
+Serious vascular occlusion has occurred in patients treated with Iclusig, including cardiovascular, cerebrovascular and peripheral vascular events, and venous thrombotic events. Patients with and without cardiovascular risk factors, including patients age 50 years or younger, experienced these events. Arterial occlusive adverse events were more frequent with increasing age and in patients with history of ischaemia, hypertension, diabetes, or hyperlipidaemia.
 
 In the PACE phase 2 trial (see section 5.1) with a minimum 64-month follow-up, arterial cardiovascular, cerebrovascular, and peripheral vascular occlusive adverse reactions (treatmentemergent frequencies) occurred in 13%, 9%, and 11% of Iclusig -treated patients, respectively. Overall, arterial occlusive adverse reactions have occurred in 25% of Iclusig -treated patients from the PACE phase 2 trial, with serious adverse reactions occurring in 20% of patients. Some patients experienced more than one type of event. The median time to onset of the first cardiovascular, cerebrovascular, and peripheral vascular arterial occlusive events was 351, 611, and 605 days, respectively in the PACE trial. Venous thromboembolic reactions (treatment-emergent frequencies) occu rred in 6% of patients.
 
-In the OPTIC phase 2 trial (see section 5.1) with a median 77.9 months follow-up, arterial cardiovascular, cerebrovascular, and peripheral vascular occlusive adverse reactions (treatment-emergent frequencies) occurred in 5.3 %, 4.3 %, and 4.3 % of Iclusig -treated patients (45 mg cohort), respectively. Overall, arterial occlusive adverse reactions have occurred in 13.8 % of Iclusig-treated patients (45 mg cohort) with serious adverse reactions occurring in 8.5 % of patients (45 mg cohort). The median time to onset of the first cardiovascular, cerebrovascular, and peripheral vascular arterial occlusive events was 473, 356, and 108 days, respectively, in the OPTIC trial. Of the 94 patients in OPTIC (45 mg cohort), 1 patient experienced a venous thromboembolic reaction.
+In the OPTIC phase 2 trial (see section 5.1) with a median 77.9 months follow-up, arterial cardiovascular, cerebrovascular, and peripheral vascular occlusive adverse reactions (treatment-emergent frequencies) occurred in 5.3 %, 4.3 %, and 4.3 % of Iclusig -treated patients (45 mg cohort), respectively. Overall, arterial occlusive adverse reactions have occurred in 13.8 % of Iclusig-treated patients (45 mg cohort) with serious adverse reactions occurring in 8.5 % of patients (45 mg cohort). The median time to onset of the first cardiovascular, cerebrovascular, and peripheral vascular arterial occlusive events was 473, 356, and 108 days, respectively in the OPTIC trial. Of the 94 patients in OPTIC (45 mg cohort), 1 patient experienced a venous thromboembolic reaction.
+
+In the PhALLCON phase 3 trial (see section 5.1) with a median 20.43 months follow up, arterial cardiovascular, cerebrovascular, and peripheral vascular occlusive adverse reactions (treatment emergent frequencies) occurred in 1.2 %, 0.6 %, and 0.6 % of patients treated with ponatinib in combination with chemotherapy, respectively. Venous thromboembolic events occurred in 12% of patients who have received ponatinib in combination with chemotherapy in PhALLCON.
 
 ## Myelosuppression
 
-Myelosuppression was commonly reported in all patient populations. The frequency of Grade 3 or 4 thrombocytopenia, neutropenia, and anaemia was higher in patients with AP-CML and BP-CML/Ph+ ALL than in patients with CP-CML (see Table 5). Myelosuppression was reported in patients with normal baseline laboratory values as well as in patients with pre-existing laboratory abnormalities.
+In the PACE Study, myelosuppression was commonly reported in all patient populations. The frequency of Grade 3 or 4 thrombocytopenia, neutropenia, and anaemia was higher in patients with AP-CML and BP-CML/Ph+ ALL than in patients with CP-CML (see Table 6). Myelosuppression was reported in patients with normal baseline laboratory values as well as in patients with pre-existing laboratory abnormalities.
 
 Discontinuation due to myelosuppression was infrequent (thrombocytopenia 4%, neutropenia and anaemia &lt; 1% each).
+
+Myelosuppression events were reported in 83 % of ponatinib -treated patients in PhALLCON, 63 % of ponatinib-treated patients in OPTIC (45 mg cohort) and in 60% of ponatinib -treated patients in PACE. Hepatotoxicity
+
+Events of hepatotoxicity occurred in 64 % of patients who have received ponatinib in combination with chemotherapy in PhALLCON, 28 % of ponatinib -treated patients in OPTIC (45 mg cohort) and in 30% of ponatinib -treated patients in PACE (see section 4.4).
 
 ## Hepatitis B reactivation
 
 Hepatitis B reactivation has been reported in association with BCR-ABL TKIs. Some cases resulted in acute hepatic failure or fulminant hepatitis leading to liver transplantation or a fatal outcome (see section 4.4).
 
-## Severe Cutaneous Adverse Reactions (SCARs)
-
-Severe skin reactions (such as Stevens-Johnson Syndrome) have been reported with some BCR-ABL Tyrosine Kinase Inhibitors . Patients should be warned to immediately report suspected skin reactions, especially if associated with blistering, peeling, mucosal involvement or systemic symptoms.
-
 <div style=\"page-break-after: always\"></div>
 
-Table 5 Incidence of clinically relevant grade 3/4* laboratory abnormalities in ≥ 2% of patients in any disease group from the PACE Phase 2 Trial (N = 449): minimum follow-up of 64 month for all ongoing patients
+Severe Cutaneous Adverse Reactions (SCARs)
 
-| Laboratory test                             | All patients (N = 449) (%)   | CP-CML (N = 270) (%)   | AP-CML (N = 85) (%)   | BP-CML/Ph+ ALL (N = 94) (%)   |
+Severe skin reactions (such as Stevens-Johnson Syndrome) have been reported with some BCR-ABL Tyrosine Kinase Inhibitors. Patients should be warned to immediately report suspected skin reactions, especially if associated with blistering, peeling, mucosal involvement or systemic symptoms.
+
+Table 6 Incidence of clinically relevant grade 3/4* laboratory abnormalities in ≥ 2% of patients in any disease group from the PACE Phase 2 Trial (N = 449): minimum follow-up of 64 month for all ongoing patients
+
+| Laboratory test                             |   All patients (N = 449) (%) | CP-CML (N = 270) (%)   |   AP-CML (N = 85) (%) |   BP-CML/Ph+ ALL (N = 94) (%) |
 |---------------------------------------------|------------------------------|------------------------|-----------------------|-------------------------------|
 | Haematology                                 |                              |                        |                       |                               |
-| Thrombocytopenia (platelet count decreased) | 40                           | 35                     | 49                    | 46                            |
-| Neutropenia (ANC decreased)                 | 34                           | 23                     | 52                    | 52                            |
-| Leukopenia (WBC decreased)                  | 25                           | 12                     | 37                    | 53                            |
-| Anaemia (Hgb decreased)                     | 20                           | 8                      | 31                    | 46                            |
-| Lymphopenia                                 | 17                           | 10                     | 25                    | 28                            |
+| Thrombocytopenia (platelet count decreased) |                           40 | 35                     |                    49 |                            46 |
+| Neutropenia (ANC decreased)                 |                           34 | 23                     |                    52 |                            52 |
+| Leukopenia (WBC decreased)                  |                           25 | 12                     |                    37 |                            53 |
+| Anaemia (Hgb decreased)                     |                           20 | 8                      |                    31 |                            46 |
+| Lymphopenia                                 |                           17 | 10                     |                    25 |                            28 |
 | Biochemistry                                |                              |                        |                       |                               |
-| Lipase increased                            | 14                           | 14                     | 13                    | 14                            |
-| Phosphorus decreased                        | 10                           | 10                     | 13                    | 9                             |
-| Glucose increased                           | 7                            | 8                      | 13                    | 1                             |
-| ALT increased                               | 6                            | 4                      | 8                     | 7                             |
-| Sodium decreased                            | 5                            | 6                      | 6                     | 2                             |
-| AST increased                               | 4                            | 3                      | 5                     | 3                             |
-| Amylase increased                           | 4                            | 4                      | 4                     | 3                             |
-| Potassium decreased                         | 2                            | < 1                    | 6                     | 2                             |
-| Potassium increased                         | 2                            | 2                      | 1                     | 3                             |
-| Alkaline phosphatase increased              | 2                            | 2                      | 4                     | 2                             |
-| Bilirubin                                   | 1                            | < 1                    | 2                     | 1                             |
-| Calcium decreased                           | 1                            | < 1                    | 2                     | 1                             |
-
-ALT = alanine aminotransferase, ANC = absolute neutrophil count, AST = aspartate aminotransferase, Hgb = haemoglobin, WBC = white blood cell count.
-
-*Reported using National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0.
+| Lipase increased                            |                           14 | 14                     |                    13 |                            14 |
+| Phosphorus decreased                        |                           10 | 10                     |                    13 |                             9 |
+| Glucose increased                           |                            7 | 8                      |                    13 |                             1 |
+| ALT increased                               |                            6 | 4                      |                     8 |                             7 |
+| Sodium decreased                            |                            5 | 6                      |                     6 |                             2 |
+| AST increased                               |                            4 | 3                      |                     5 |                             3 |
+| Amylase increased                           |                            4 | 4                      |                     4 |                             3 |
+| Potassium decreased                         |                            2 | < 1                    |                     6 |                             2 |
+| Potassium increased                         |                            2 | 2                      |                     1 |                             3 |
+| Alkaline phosphatase increased              |                            2 | 2                      |                     4 |                             2 |
+| Bilirubin                                   |                            1 | < 1                    |                     2 |                             1 |
+| Calcium decreased                           |                            1 | < 1                    |                     2 |                             1 |
 
 ## Reporting of suspected adverse reactions
 
@@ -492,11 +562,9 @@ Isolated reports of unintentional overdose with Iclusig were reported in clinica
 
 Pharmacotherapeutic group: antineoplastic agents, protein kinase inhibitors, ATC code: L01EA05
 
-Ponatinib is a potent pan BCR-ABL inhibitor with structural elements, including a carbon-carbon triple-bond, that enable high affinity binding to native BCR-ABL and mutant forms of the ABL kinase. Ponatinib inhibits the tyrosine kinase activity of ABL and T315I mutant ABL with IC50 values of 0.4 and 2.0 nM, respectively. In cellular assays, ponatinib was able to overcome imatinib, dasatinib,
-
 <div style=\"page-break-after: always\"></div>
 
-and nilotinib resistance mediated by BCR-ABL kinase domain mutations. In preclinical mutagenesis studies, 40 nM was determined as the concentration of ponatinib sufficient to inhibit viability of cells expressing all tested BCR-ABL mutants by &gt; 50% (includ ing T315I) and suppress the emergence of mutant clones. In a cell-based accelerated mutagenesis assay, no mutation in BCR-ABL was detected that could confer resistance to 40 nM ponatinib.
+Ponatinib is a potent pan BCR-ABL inhibitor with structural elements, including a carbon-carbon triple-bond, that enable high affinity binding to native BCR-ABL and mutant forms of the ABL kinase. Ponatinib inhibits the tyrosine kinase activity of ABL and T315I mutant ABL with IC50 values of 0.4 and 2.0 nM, respectively. In cellular assays, ponatinib was able to overcome imatinib, dasatinib, and nilotinib resistance mediated by BCR-ABL kinase domain mutations. In preclinical mutagenesis studies, 40 nM was determined as the concentration of ponatinib sufficient to inhibit viability of cells expressing all tested BCR-ABL mutants by &gt; 50% (including T315I) and suppress the emergence of mutant clones. In a cell-based accelerated mutagenesis assay, no mutation in BCR-ABL was detected that could confer resistance to 40 nM ponatinib.
 
 Ponatinib elicited tumour shrinkage and prolonged survival in mice bearing tumours expressing native or T315I mutant BCR-ABL.
 
@@ -506,7 +574,7 @@ Ponatinib inhibits the activity of other clinically relevant kinases with IC50 v
 
 ## Clinical efficacy and safety
 
-## PACE Trial
+## Patients with CML and Ph+ ALL previously treated with other tyrosine kinase inhibitors (TKIs) or who have the T315I mutation. PACE Trial
 
 The safety and efficacy of Iclusig in CML and Ph+ ALL patients who were resistant or intolerant to prior tyrosine kinase inhibitor (TKI) therapy were evaluated in a single-arm, open-label, international, multicenter trial. All patients were administered 45 mg of Iclusig once-daily with the possibility of dose de-escalations and dose interruptions followed by dose resumption and re-escalation. Patients were assigned to one of six cohorts based on disease phase (CP-CML; AP-CML; or BP-CML/Ph+ ALL), resistance or intolerance (R/I) to dasatinib or nilotinib, and the presence of the T315I mutation.
 
@@ -516,69 +584,66 @@ Intolerance was defined as the discontinuation of dasatinib or nilotinib due to 
 
 The primary efficacy endpoint in CP-CML was major cytogenetic response (MCyR), which included complete and partial cytogenetic responses (CCyR and PCyR) by 12 months. The secondary efficacy endpoints in CP-CML were complete haematological response (CHR) and major molecular response (MMR).
 
-The primary efficacy endpoint in AP-CML and BP-CML/Ph+ ALL was major haematological response (MaHR), defined as either a complete haematological response (CHR) or no evidence of leukaemia (NEL). The secondary efficacy endpoints in AP-CML and BP-CML/Ph+ ALL were MCyR and MMR.
-
-For all patients, additional secondary efficacy endpoints included: confirmed MCyR, time to response, duration of response, progression free survival, and overall survival. Also, post-hoc analyses to assess the relationship of shorter-term cytogenetic (MCyR) and molecular (MMR) response outcomes with
+The primary efficacy endpoint in AP-CML and BP-CML/Ph+ ALL was major haematological response (MaHR), defined as either a complete haematological response (CHR) or no evidence of
 
 <div style=\"page-break-after: always\"></div>
 
-longer-term outcomes of PFS and OS, maintenance of response (MCyR and MMR) after dose reductions, and PFS and OS by Arterial Occlusive Event status were conducted.
+leukaemia (NEL). The secondary efficacy endpoints in AP-CML and BP-CML/Ph+ ALL were MCyR and MMR.
 
-The trial enrolled 449 patients of which 444 were eligible for analysis: 267 CP-CML patients (R/I Cohort: n = 203, T315I Cohort: n = 64), 83 AP-CML patients (R/I Cohort: n = 65, T315I Cohort: n = 18), 62 BP-CML (R/I Cohort: n = 38, T315I Cohort: n = 24), and 32 Ph+ ALL patients (R/I Cohort: n = 10, T315I Cohort: n = 22). A prior MCyR or better (MCyR, MMR, or CMR) to dasatinib or nilotinib was only achieved in 26 % patients with CP -CML and a prior MaHR or better (MaHR, MCyR, MMR, or CMR) was only achieved in 21 %, and 24 % of AP -CML, and BP-CML/Ph+ALL patients, respectively. Baseline demographic characteristics are described in Table 6 below.
+For all patients, additional secondary efficacy endpoints included: confirmed MCyR, time to response, duration of response, progression free survival, and overall survival. Also, post-hoc analyses to assess the relationship of shorter-term cytogenetic (MCyR) and molecular (MMR) response outcomes with longer-term outcomes of PFS and OS, maintenance of response (MCyR and MMR) after dose reductions, and PFS and OS by Arterial Occlusive Event status were conducted.
 
-Table 6 Demographics and disease characteristics for the PACE trial
+The trial enrolled 449 patients of which 444 were eligible for analysis: 267 CP-CML patients (R/I Cohort: n = 203, T315I Cohort: n = 64), 83 AP-CML patients (R/I Cohort: n = 65, T315I Cohort: n = 18), 62 BP-CML (R/I Cohort: n = 38, T315I Cohort: n = 24), and 32 Ph+ ALL patients (R/I Cohort: n = 10, T315I Cohort: n = 22). A prior MCyR or better (MCyR, MMR, or CMR) to dasatinib or nilotinib was only achieved in 26 % patients with CP -CML and a prior MaHR or better (MaHR, MCyR, MMR, or CMR) was only achieved in 21 %, and 24 % of AP -CML, and BP-CML/Ph+ALL patients, respectively. Baseline demographic characteristics are described in Table 7 below.
 
-a * of 427 patients reporting prior TKI therapy with dasatinib or nilotinib
+Table 7 Demographics and disease characteristics for the PACE trial
 
-| Patient characteristics at entry                        | Total safety population N = 449   |
-|---------------------------------------------------------|-----------------------------------|
-| Age                                                     |                                   |
-| Median, years (range)                                   | 59 (18 - 94)                      |
-| Gender, n (%)                                           |                                   |
-| Male                                                    | 238 (53%)                         |
-| Race, n (%)                                             |                                   |
-| Asian                                                   | 59 (13%)                          |
-| Black/African American                                  | 25 (6%)                           |
-| White                                                   | 352 (78%)                         |
-| Other                                                   | 13 (3%)                           |
-| ECOG Performance Status, n (%)                          |                                   |
-| ECOG = 0 or 1                                           | 414 (92%)                         |
-| Disease history                                         |                                   |
-| Median time from diagnosis to first dose, years (range) | 6.09 (0.33 - 28.47)               |
-| Resistant to Prior TKI Therapy a *, n (%)               | 374 (88%)                         |
-| Prior TKI therapy- number of regimens, n (%)            |                                   |
-| 1                                                       | 32 (7%)                           |
-| 2                                                       | 155 (35%)                         |
-| ≥ 3                                                     | 262 (58%)                         |
-| BCR- ABL mutation detected at entry, n (%) b            |                                   |
-| None                                                    | 198 (44%)                         |
-| 1                                                       | 192 (43%)                         |
-| ≥ 2                                                     | 54 (12%)                          |
-| Comorbidities                                           |                                   |
-| Hypertension                                            | 159 (35%)                         |
-| Diabetes                                                | 57 (13%)                          |
-| Hypercholesterolemia                                    | 100 (22%)                         |
-| History of ischemic heart disease                       | 67 (15%)                          |
-
-b  Of the patients with one or more BCR-ABL kinase domain mutations detected at entry, 37 unique mutations were detected.
+| Patient characteristics at entry                                                                                                                                                                     | Total safety population N = 449                                                                                                                                                                      |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Age                                                                                                                                                                                                  |                                                                                                                                                                                                      |
+| Median, years (range)                                                                                                                                                                                | 59 (18 - 94)                                                                                                                                                                                         |
+| Gender, n (%)                                                                                                                                                                                        |                                                                                                                                                                                                      |
+| Male                                                                                                                                                                                                 | 238 (53%)                                                                                                                                                                                            |
+| Race, n (%)                                                                                                                                                                                          |                                                                                                                                                                                                      |
+| Asian                                                                                                                                                                                                | 59 (13%)                                                                                                                                                                                             |
+| Black/African American                                                                                                                                                                               | 25 (6%)                                                                                                                                                                                              |
+| White                                                                                                                                                                                                | 352 (78%)                                                                                                                                                                                            |
+| Other                                                                                                                                                                                                | 13 (3%)                                                                                                                                                                                              |
+| ECOG Performance Status, n (%)                                                                                                                                                                       |                                                                                                                                                                                                      |
+| ECOG = 0 or 1                                                                                                                                                                                        | 414 (92%)                                                                                                                                                                                            |
+| Disease history                                                                                                                                                                                      |                                                                                                                                                                                                      |
+| Median time from diagnosis to first dose, years (range)                                                                                                                                              | 6.09 (0.33 - 28.47)                                                                                                                                                                                  |
+| Resistant to Prior TKI Therapy a *, n (%)                                                                                                                                                            | 374 (88%)                                                                                                                                                                                            |
+| Prior TKI therapy- number of regimens, n (%)                                                                                                                                                         |                                                                                                                                                                                                      |
+| 1                                                                                                                                                                                                    | 32 (7%)                                                                                                                                                                                              |
+| 2                                                                                                                                                                                                    | 155 (35%)                                                                                                                                                                                            |
+| ≥ 3                                                                                                                                                                                                  | 262 (58%)                                                                                                                                                                                            |
+| BCR- ABL mutation detected at entry, n (%) b                                                                                                                                                         |                                                                                                                                                                                                      |
+| None                                                                                                                                                                                                 | 198 (44%)                                                                                                                                                                                            |
+| 1                                                                                                                                                                                                    | 192 (43%)                                                                                                                                                                                            |
+| ≥ 2                                                                                                                                                                                                  | 54 (12%)                                                                                                                                                                                             |
+| Comorbidities                                                                                                                                                                                        |                                                                                                                                                                                                      |
+| Hypertension                                                                                                                                                                                         | 159 (35%)                                                                                                                                                                                            |
+| Diabetes                                                                                                                                                                                             | 57 (13%)                                                                                                                                                                                             |
+| Hypercholesterolemia                                                                                                                                                                                 | 100 (22%)                                                                                                                                                                                            |
+| History of ischemic heart disease                                                                                                                                                                    | 67 (15%)                                                                                                                                                                                             |
+| a * of 427 patients reporting prior TKI therapy with dasatinib or nilotinib b Of the patients with one or more BCR-ABL kinase domain mutations detected at entry, 37 unique mutations were detected. | a * of 427 patients reporting prior TKI therapy with dasatinib or nilotinib b Of the patients with one or more BCR-ABL kinase domain mutations detected at entry, 37 unique mutations were detected. |
 
 Overall, 55% of patients had one or more BCR -ABL kinase domain mutation at entry with the most frequent being: T315I (29%), F317L (8%), E255K (4%) and F359V (4%). In 67% of CP -CML patients in the R/I cohort, no mutations were detected at study entry.
 
-Efficacy results are summarized in Table 7, Table 8, and Table 9.
+Efficacy results are summarized in Table 8, Table 9, and Table 10.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 7 Efficacy of Iclusig in resistant or intolerant chronic phase CML patients
+Table 8 Efficacy of Iclusig in resistant or intolerant chronic phase CML patients
 
-|                                       | Overall     | Resistant or Intolerant   | Resistant or Intolerant   |
-|---------------------------------------|-------------|---------------------------|---------------------------|
-|                                       | (N = 267)   | R/I Cohort (N = 203)      | T315I Cohort (N = 64)     |
-| Cytogenetic Response                  |             |                           |                           |
-| Major(MCyR) a %                       | 55%         | 51%                       | 70%                       |
-| (95% CI)                              | (49-62)     | (44-58)                   | (58-81)                   |
-| Complete (CCyR) %                     | 46%         | 40%                       | 66%                       |
-| (95% CI)                              | (40-52)     | (33-47)                   | (53-77)                   |
-| Major Molecular Response b % (95% CI) | 40% (35-47) | 35% (28-42)               | 58% (45-70)               |
+|                               | Overall     | Resistant or Intolerant   | Resistant or Intolerant   |
+|-------------------------------|-------------|---------------------------|---------------------------|
+|                               | (N = 267)   | R/I Cohort (N = 203)      | T315I Cohort (N = 64)     |
+| Cytogenetic Response          |             |                           |                           |
+| Major(MCyR) a %               | 55%         | 51% (44-58)               | 70%                       |
+| (95% CI)                      | (49-62)     |                           | (58-81)                   |
+| Complete (CCyR) % (95% CI)    | 46% (40-52) | 40%                       | 66%                       |
+| Major %                       |             | (33-47)                   | (53-77)                   |
+| Molecular Response b (95% CI) | 40% (35-47) | 35% (28-42)               | 58% (45-70)               |
 
 a  Primary endpoint for CP-CML Cohorts was MCyR, which combines both complete (No detectable Ph+ cells) and partial (1% to 35% Ph+ cells) cytogenetic responses.
 
@@ -606,7 +671,7 @@ CP-CML patients who achieved MCyR or MMR response within the first year of treat
 
 <div style=\"page-break-after: always\"></div>
 
-Table 8 Efficacy of Iclusig in resistant or intolerant advanced phase CML patients
+Table 9 Efficacy of Iclusig in resistant or intolerant advanced phase CML patients
 
 |                                         | Accelerated PhaseCML   | Accelerated PhaseCML    | Accelerated PhaseCML    | Blast PhaseCML   | Blast PhaseCML          | Blast PhaseCML          |
 |-----------------------------------------|------------------------|-------------------------|-------------------------|------------------|-------------------------|-------------------------|
@@ -620,17 +685,11 @@ Table 8 Efficacy of Iclusig in resistant or intolerant advanced phase CML patien
 | (95% CI)                                | (39-62)                | (37-62)                 | (31-79)                 | (12-33)          | (11-40)                 | (5-37)                  |
 | Major Cytogenetic Response c % (95% CI) | 39% (28-50)            | 34% (23-47)             | 56% (31-79)             | 23% (13-35)      | 18% (8-34)              | 29% (13-51)             |
 
-a  Primary endpoint for AP-CML and BP-CML/Ph+ ALL Cohorts was MaHR, which combines complete haematological responses and no evidence of leukaemia.
-
-b  CHR: WBC ≤ institutional ULN, ANC ≥ 1,000/mm 3 , platelets ≥ 100,000/mm 3 , no blasts or promyelocytes in peripheral blood, bone marrow blasts ≤ 5%, &lt; 5% myelocytes plus metamyelocytes in peripheral blood, basophils &lt; 5% in peripheral blood, No extramedullary involvement (including no hepatomegaly or splenomegaly).
-
-c MCyR combines both complete (No detectable Ph+ cells) and partial (1% to 35% Ph+ cells) cytogenetic responses.
-
 Database cutoff date 06 February 2017
 
 The median dose intensity was 32 mg/day in the AP-CML patients.
 
-Table 9 Efficacy of Iclusig in resistant or intolerant Ph+ ALL patients
+Table 10 Efficacy of Iclusig in resistant or intolerant Ph+ ALL patients
 
 |                              | Overall   | Resistant or Intolerant   | Resistant or Intolerant   |
 |------------------------------|-----------|---------------------------|---------------------------|
@@ -643,14 +702,6 @@ Table 9 Efficacy of Iclusig in resistant or intolerant Ph+ ALL patients
 | Major Cytogenetic Response c |           |                           |                           |
 | %                            | 47%       | 60%                       | 41%                       |
 | (95% CI)                     | (29-65)   | (26-88)                   | (21-64)                   |
-
-a  Primary endpoint for AP-CML and BP-CML/Ph+ ALL Cohorts was MaHR, which combines complete haematological responses and no evidence of leukaemia.
-
-b  CHR: WBC ≤ institutional ULN, ANC ≥ 1,000/mm 3 , platelets ≥ 100,000/mm 3 , no blasts or promyelocytes in peripheral blood, bone marrow blasts ≤ 5%, &lt; 5% myelocytes plus metamyelocytes in peripheral blood, basophils &lt; 5% in peripheral blood, No extramedullary involvement (including no hepatomegaly or splenomegaly).
-
-c MCyR combines both complete (No detectable Ph+ cells) and partial (1% to 35% Ph+ cells) cytogenetic responses.
-
-Database cutoff date 06 February 2017
 
 <div style=\"page-break-after: always\"></div>
 
@@ -670,7 +721,7 @@ In the PACE phase 2 trial, dose reductions were recommended following adverse ev
 
 In the PACE phase 2 trial, 86 CP-CML patients achieved MCyR at a dose of 45 mg, 45 CP-CML patients achieved MCyR after a dose reduction to 30 mg, mostly for adverse events. Vascular occlusive events occurred in 44 of these 131 patients. Most of these events occurred at the dose at which the patient achieved MCyR; fewer events occurred after dose reduction.
 
-Table 10 Vascular occlusive first adverse events in CP-CML patients who achieved MCyR at 45 mg or 30 mg (data extraction 7 April 2014)
+Table 11 Vascular occlusive first adverse events in CP-CML patients who achieved MCyR at 45 mg or 30 mg (data extraction 7 April 2014)
 
 |                                 | Most recent dose at onset of first vascular occlusive Event   | Most recent dose at onset of first vascular occlusive Event   | Most recent dose at onset of first vascular occlusive Event   |
 |---------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|
@@ -686,11 +737,11 @@ decreasing daily dose intensity (following recommendation for prospective dose r
 
 ## Efficacy
 
-Data from the PACE phase 2 trial are available for the maintenance of response (MCyR and MMR) in all CP-CML patients who underwent dose reduction for any reason. Table 11 shows these data for patients who achieved MCyR and MMR at 45 mg; similar data are available for patients who achieved MCyR and MMR at 30 mg.
+Data from the PACE phase 2 trial are available for the maintenance of response (MCyR and MMR) in all CP-CML patients who underwent dose reduction for any reason. Table 12 shows these data for patients who achieved MCyR and MMR at 45 mg; similar data are available for patients who achieved MCyR and MMR at 30 mg.
 
 The majority of patients who underwent dose reduction maintained response (MCyR and MMR) for the duration of currently available follow-up. A proportion of patients did not undergo any dose reduction, based on an individual benefit-risk assessment.
 
-Table 11 Maintenance of response in CP-CML patients who achieved MCyR or MMR at 45 mg dose (data extraction 6 February 2017)
+Table 12 Maintenance of response in CP-CML patients who achieved MCyR or MMR at 45 mg dose (data extraction 6 February 2017)
 
 |                                   | Achieved MCyR at 45 mg (N = 86)   | Achieved MCyR at 45 mg (N = 86)   | AchievedMMR at 45 mg (N = 63)   | AchievedMMR at 45 mg (N = 63)   |
 |-----------------------------------|-----------------------------------|-----------------------------------|---------------------------------|---------------------------------|
@@ -719,9 +770,9 @@ The safety and efficacy of Iclusig was evaluated in the OPTIC phase 2 trial, a d
 
 <div style=\"page-break-after: always\"></div>
 
-Patients who received a starting dose of 45 mg or 30 mg had a mandatory dose reduction to 15 mg once daily upon achieving ≤ 1% BCR -ABL1 IS . The primary efficacy endpoint was a molecular response based on the achievement of ≤ 1% BCR -ABL1 IS at 12 months. All patients reached the 12-month time point (primary endpoint) by the primary analysis data cut-off. The median duration of follow-up for the 45 mg cohort (N = 94) was 77.9 months (95% CI: 72.4, 84.0). Only the efficacy results for the recommended starting dose of 45 mg are described below. A total of 282 patients received Iclusig: 94 received a starting dose of 45 mg, 94 received a starting dose of 30 mg, and 94 received a starting dose of 15 mg. Baseline demographic characteristics are described in Table 12 for patients who received a starting dose of 45 mg.
+Patients who received a starting dose of 45 mg or 30 mg had a mandatory dose reduction to 15 mg once daily upon achieving ≤ 1% BCR -ABL1 IS . The primary efficacy endpoint was a molecular response based on the achievement of ≤ 1% BCR -ABL1 IS at 12 months. All patients reached the 12-month time point (primary endpoint) by the primary analysis data cut-off. The median duration of follow-up for the 45 mg cohort (N = 94) was 77.9 months (95% CI: 72.4, 84.0). Only the efficacy results for the recommended starting dose of 45 mg are described below. A total of 282 patients received Iclusig: 94 received a starting dose of 45 mg, 94 received a starting dose of 30 mg, and 94 received a starting dose of 15 mg. Baseline demographic characteristics are described in Table 13 for patients who received a starting dose of 45 mg.
 
-Table 12 Demographic and Disease Characteristics for the OPTIC trial
+Table 13 Demographic and Disease Characteristics for the OPTIC trial
 
 | Patient Characteristics at Entry                                | Iclusig 45 mg → 15 mg (N = 94)   |
 |-----------------------------------------------------------------|----------------------------------|
@@ -751,17 +802,17 @@ Table 12 Demographic and Disease Characteristics for the OPTIC trial
 | Hypercholesterolemia                                            | 3 (3%)                           |
 | History of ischemic heart disease                               | 3 (3%)                           |
 
-Efficacy results are summarised in Table 13.
+Efficacy results are summarised in Table 14.
 
 The primary endpoint was met in patients who received a starting dose of 45 mg.
 
-Overall, 44% of patients had one or more BCR -ABL kinase domain mutations at study entry with the most frequent being T315I (27%). The subgroup analysis based on baseline T315I mutation status showed similar ≤ 1% BCR -ABL1 IS rates at 2 months in patients with and without T315I (see Table 13 below). No mutations were detected at study entry for 54% of the patients who received the starting dose of 45 mg.
+Overall, 44% of patients had one or more BCR -ABL kinase domain mutations at study entry with the most frequent being T315I (27%). The subgroup analysis based on baseline T315I mutation status showed similar ≤ 1% BCR -ABL1 IS rates at 2 months in patients with and without T315I (see Table 14 below). No mutations were detected at study entry for 54% of the patients who received the starting dose of 45 mg.
 
 With a median follow up of 6.5 years among patients with CP-CML, the proportion of patients experiencing transformation of their disease to either AP-CML or BP-CML was 11.7 % and 3.2% respectively.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 13 Efficacy Results in Patients with CP-CML Who Received Iclusig at Starting Dose of 45 mg in the OPTIC Phase 2 Trial
+Table 14 Efficacy Results in Patients with CP-CML Who Received Iclusig at Starting Dose of 45 mg in the OPTIC Phase 2 Trial
 
 |                                     | Iclusig 45 mg → 15 mg (N = 93) (a)   |
 |-------------------------------------|--------------------------------------|
@@ -805,10 +856,104 @@ The secondary efficacy endpoints included complete cytogenetic response (CCyR) a
 - At 12 months, 34% (31/91) and 17% (16/93) of patients achieved CCyR, and MMR, respectively. At 24 months, 34 % ( 32/93) of patients achieved MMR. The median duration of MMR had not yet been reached.
 - The median duration of ponatinib treatment was 31 months.
 - Of the 45 patients who had a dose reduction from 45 mg to 15 mg after achieving ≤ 1% BCR-ABL1 IS , 25 patients (55.6 %) maintained their response at the reduced dose for at least one year. Of these 25 patients, 16 patients (64%) maintained the response at 15 mg for greater than 60 months. Median duration of response (MR2) was not reached. The probabilities of maintaining MR2 at 60 months was 68.8 % (95% CI, 53.9, 79.8) .
-- The molecular response rates (≤1% BCR -ABL IS ) by 60 months was 64.0% (95% CI 42.5, 82.0) in patients with T315I mutation and 59.1% (95% CI, 46.3, 71.0) in patients without T315 I mutation.
+- The molecular response rates (≤1% BCR -ABL IS ) by 60 months was 64.0% (95% CI 42.5, 82.0) in patients with T315I mutation and 59.1% (95% CI, 46.3, 71.0) in patients without T315I mutation.
 - The molecular response rates (≤ 1% BCR -ABL1 IS ) at 12 months were lower among patients who had received treatment with ≤ 2 prior TKIs compared with patients who had received ≥ 3 prior TKIs (40% vs 48%), respectively).
 
 <div style=\"page-break-after: always\"></div>
+
+## Patients with newly diagnosed Ph+ ALL PhALLCON Trial
+
+The efficacy of Iclusig in combination with reduced-intensity chemotherapy followed by continued treatment with Iclusig as a single agent was evaluated in PhALLCON, a randomized, active controlled, multicenter, open label trial.
+
+Eligible patients had newly diagnosed Ph+ALL. Randomization was stratified by age at the time of induction therapy (18 to &lt;45 years; ≥45 to &lt;60 years; and ≥60 years). Patients were randomized (2:1) to receive either Iclusig 30 mg orally once daily or imatinib 600 mg orally once daily in combination with 20 cycles of the chemotherapy regimen, followed by Iclusig or imatinib as monotherapy. The Iclusig dose was reduced to 15 mg once daily after completion of the induction phase and achievement of MRD negative CR. If a patient lost MRD negativity at any time after a response-based dose reduction to 15 mg, re-escalation to 30 mg once daily was allowed. Only patients who achieved CR or incomplete complete remission (CRi) with MRD-negativity at the end of induction could continue study treatment at the investigator's discretion.
+
+## Study Phases and Regimens
+
+- Induction Phase: Patients received three 28-day cycles of Iclusig starting dose of 30 mg orally once daily or imatinib starting dose of 600 mg orally once daily; administered from Day 1 to Day 28 of Cycles 1 to 3 of the treatment regimen in combination with:
+- o Vincristine: 1.4 mg/m 2 , IV, Days 1 and 14; capped at 2 mg and
+- o Dexamethasone: Patients &lt;60 years old received 40 mg, orally, Days 1 to 4 and Days 11 to 14. Patients ≥60 years old: 20 mg, orally, Days 1 to 4 and Days 11 to 14.
+- Consolidation Phase (alternating methotrexate and cytarabine): Patients received six 28day cycles of Iclusig starting with the last induction phase dose; modified dose based on MRD negative CR results or imatinib starting with the last induction phase dose; administered from Day 1 to Day 28 of Cycles 4 to 9 of treatment regimen in combination with:
+- o Methotrexate: Patients &lt;60 years old received 1000 mg/m 2 , IV, Day 1, 24-hour infusion. Patients ≥60 years old received 250 mg/m 2 , IV, Day 1, 24-hour infusion. Rescue: folinic acid. Study Cycles 4, 6, and 8.
+- o Cytarabine: Patients &lt;60 years old received 1000 mg/m 2 every 12 hours IV, Days 1, 3, and 5, 2hour infusion. Patients ≥60 years old received 250 mg/m 2 every 12 hours IV, Days 1, 3, and 5, 2-hour infusion. Study Cycles 5, 7, and 9.
+- Maintenance Phase: Patients received eleven 28-day cycles of Iclusig starting with the last consolidation phase dose; modified dose based on MRD negative CR results or imatinib starting with the last consolidation phase dose; administered from Day 1 to Day 28 of Cycles 10 to 20 of treatment regimen in combination with:
+- o Vincristine: 1.4 mg/m 2 , IV, injected over 1 minute on Day 1 of each maintenance phase cycle, 1 injection/month; capped at 2 mg and
+- o Prednisone: Patients &lt;60 years old: 200 mg/d, orally, on Days 1 to 5. Patients ≥60 to 69 years old: 100 mg/d, orally, on Days 1 to 5. Patients ≥70 years old: 50 mg/d, orally, on Days 1 to 5.
+
+Following 20 cycles of Iclusig or imatinib in combination with the chemotherapy, patients continued to receive Iclusig (21%) or imatinib (9%) as single -agent therapy until relapse from complete remission (CR), progressive disease (PD), proceeded to HSCT, proceeded to alternative therapy, or unacceptable toxicity. Baseline demographic characteristics of the randomized population are described in Table 15.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 15 Demographic and Disease Characteristics for PhALLCON
+
+| Patient Characteristics at Entry                              | Iclusig 30 mg → 15 mg with Chemotherapy (N = 164)   | Imatinib 600 mg with Chemotherapy (N = 81)   |
+|---------------------------------------------------------------|-----------------------------------------------------|----------------------------------------------|
+| Age (years)                                                   |                                                     |                                              |
+| Median, years (range)                                         | 54 (19 to 82)                                       | 52 (19 to 75)                                |
+| Age Category (a) , n (%)                                      |                                                     |                                              |
+| 18 to <45 years                                               | 58 (35%)                                            | 29 (36%)                                     |
+| 45 to <60 years                                               | 45 (27%)                                            | 22 (27%)                                     |
+| ≥60 years                                                     | 61 (37%)                                            | 30 (37%)                                     |
+| Sex, n (%)                                                    |                                                     |                                              |
+| Female                                                        | 90 (55%)                                            | 43 (53%)                                     |
+| Race, n (%)                                                   |                                                     |                                              |
+| White                                                         | 104 (63%)                                           | 62 (77%)                                     |
+| Not reported                                                  | 28 (17%)                                            | 2 (3%)                                       |
+| Asian                                                         | 20 (12%)                                            | 11 (14%)                                     |
+| Black or African American                                     | 9 (5%)                                              | 4 (5%)                                       |
+| ECOG Performance Status, n (%)                                |                                                     |                                              |
+| 0                                                             | 72 (44%)                                            | 33 (41%)                                     |
+| 1                                                             | 85 (52%)                                            | 43 (53%)                                     |
+| 2                                                             | 7 (4%)                                              | 5 (6%)                                       |
+| Disease History                                               |                                                     |                                              |
+| Presence of BCR-ABL1 dominant variants of p190 or p210, n (%) | 154 (94%)                                           | 78 (96%)                                     |
+| Without extramedullary disease, n (%)                         | 154 (94%)                                           | 78 (96%)                                     |
+| Median, white blood cell count (b) (range)                    | 4.37 (0.4 to 197)                                   | 3.21 (0.2 to 81)                             |
+| Median, bone marrow leukemic blasts (%)                       | 80%                                                 | 75%                                          |
+| Comorbidities, n (%)                                          |                                                     |                                              |
+| Hypertension                                                  | 58 (35%)                                            | 30 (37%)                                     |
+| Diabetes                                                      | 39 (24%)                                            | 24 (30%)                                     |
+| Dyslipidemia                                                  | 29 (18%)                                            | 23 (28%)                                     |
+
+(a) Randomization was stratified by age (18 through &lt;45 years; ≥45 through &lt;60 years; and ≥60 years)
+
+(b) White blood cell count based on 10^9/L
+
+The major efficacy outcome measure was MRD negative CR at the end of induction. MRD negativity was defined as ≤0.01% BCR -ABL1 as determined by central laboratory tests. CR status was defined as having &lt;5% blasts in the bone marrow and no extramedullary disease with hematologic recovery for at least 4 weeks as assessed by the investigator.
+
+The patient population for analysis of MRD negative CR and molecular response included 232 randomized patients who had a baseline BCR-ABL1 dominant variant of p190 or p210 as determined by central laboratory tests (154 patients in the Iclusig arm and 78 in the imatinib arm).
+
+The key secondary efficacy outcome measure of event-free survival (EFS) was defined as the time from randomization to the first occurrence of any of the following events: failure to achieve CR by the end of induction, relapse from CR, or death due to any cause.  The patient population for EFS was based on 245 randomized patients in the ITT population with 164 randomized patients in the Iclusig arm (including 1 patient who died due to COVID before receiving the first dose) and 81 randomized patients in the imatinib arm, unless otherwise specified.
+
+The overall rate of HSCT was 34% (56/164) in the I clusig arm versus 48% (39/81) in the imatinib arm.
+
+The median duration of followup for overall survival was 20.43 months (95% CI: 18.39, 23.93) in the Iclusig arm and 18.14 months (95% CI: 13.86, 24.25) in the imatinib arm.
+
+<div style=\"page-break-after: always\"></div>
+
+The study demonstrated a statistically significant higher MRD-negative CR rate at the end of induction for patients randomized to the Iclusig arm compared to the imatinib arm.
+
+At the data cutoff point, the results for the key secondary efficacy outcome measure of EFS were not mature, with 33.5% of the required events for final analysis (34/164 events in the I clusig arm and 24/81 events in the imatinib arm).
+
+Efficacy results are summarized in Table 16.
+
+Table 16 Efficacy Results in Patients with Ph+ ALL in PhALLCON(a)
+
+|                                         | Iclusig 30 mg → 15 mg with Chemotherapy (N = 154)   | Imatinib 600 mg with Chemotherapy (N = 78)   |
+|-----------------------------------------|-----------------------------------------------------|----------------------------------------------|
+| MRD-negative CR (b) at End of Induction | MRD-negative CR (b) at End of Induction             | MRD-negative CR (b) at End of Induction      |
+| Achieved at the end of induction %(n/N) | 34.4% (53/154)                                      | 16.7% (13/78)                                |
+| Risk difference (95% CI) (c)            | 0.18 (0.06, 0.29)                                   |                                              |
+| p-value (d)                             | 0.0021                                              |                                              |
+| Relative risk (95% CI) (e)              | 2.06 (1.19, 3.56)                                   |                                              |
+
+MRD: minimal residual disease; CR: complete response; MR: molecular response; BCR-ABL1: breakpoint cluster region-Abelson.
+
+- (a) Based on 232 randomized patients who had a BCR-ABL1 dominant variant of p190 or p210 as determined by central laboratory tests at baseline.
+- (b) MRD-negative CR rate is defined as the proportion of patients who achieved MRDnegative CR (≤0.01%
+- BCR-ABL1/ABL1 or undetectable BCRABL1 transcripts in cDNA with ≥10,000 ABL1 transcripts, and meeting criteria for CR).
+- (c) Difference and 95% CI: adjusted risk ICLUSIG -adjusted risk imatinib, and its 95% CI.
+- (d) p-value is based on Cochran-Mantel-Haenszel (CMH) chi-square test, with stratification according to randomization strata (age): 18 through &lt;45 years, ≥45 through &lt;60 years, and ≥60 years
+- (e) Adjusted Relative Risk and its 95% CI based on CMH method as defined in Footnote [d].
 
 ## Cardiac electrophysiology
 
@@ -817,6 +962,8 @@ The QT interval prolongation potential of Iclusig was assessed in 39 leukaemia p
 ## Paediatric population
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Iclusig in children from birth to less than 1 year in CML and Ph+ ALL. The European Medicines Agency has deferred the obligation to submit the results of studies with Iclusig in paediatric patients from 1 year to less than 18 years in CML and Ph+ ALL (see section 4.2 for information on paediatric use).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
@@ -836,8 +983,6 @@ At therapeutic serum concentrations, ponatinib did not inhibit OATP1B1 or OATP1B
 
 An in vitro study in human hepatocytes indicated that clinical medicinal product interactions are also unlikely to occur as a result of ponatinib-mediated induction of the metabolism of substrates for CYP1A2, CYP2B6, or CYP3A.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Elimination
 
 Following single and multiple 45 mg doses of Iclusig, the terminal elimination half-life of ponatinib was 22 hours, and steady state conditions are typically achieved within 1 week of continuous dosing. With once-daily dosing, plasma exposures of ponatinib are increased by approximately 1.5-fold between first dose and steady state conditions. Although plasma ponatinib exposures increased to steady-state levels with continuous dosing, a population pharmacokinetic analysis predicts a limited increase in apparent oral clearance within the first two weeks of continuous dosing, which is not considered clinically relevant. Ponatinib is mainly eliminated via faeces. Following a single oral dose of [ 14 C] -labeled ponatinib, approximately 87% of the radioactive dose is recovered in the faeces and approximately 5% in the urine. Unchanged ponatinib accounted for 24% and &lt; 1% of the administered dose in faeces and urine, respectively, with the remainder of the dose comprising metabolites.
@@ -845,6 +990,8 @@ Following single and multiple 45 mg doses of Iclusig, the terminal elimination h
 ## Renal impairment
 
 Iclusig has not been studied in patients with renal impairment. Although renal excretion is not a major route of ponatinib elimination, the potential for moderate or severe renal impairment to affect hepatic elimination has not been determined (see section 4.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hepatic impairment
 
@@ -858,7 +1005,7 @@ Iclusig has not been studied at doses above 30 mg in patients with hepatic impai
 
 ## Intrinsic factors affecting ponatinib pharmacokinetics
 
-No specific studies have been performed to evaluate the effects of gender, age, race, and body weight on ponatinib pharmacokinetics. An integrated population pharmacokinetic analysis completed for ponatinib suggests that age may be predictive of variability for ponatinib apparent oral clearance (CL/F). Gender, race and body weight were not predictive in explaining ponatinib pharmacokinetic intersubject variability.
+No specific studies have been performed to evaluate the effects of gender, age, race, and body weight on ponatinib pharmacokinetics. Gender, race and body weight were not predictive in explaining ponatinib pharmacokinetic intersubject variability.
 
 ## 5.3 Preclinical safety data
 
@@ -870,8 +1017,6 @@ Adverse reactions not observed in clinical studies, but seen in animals at expos
 
 Depletion of lymphoid organs was observed in repeat-dose toxicity studies in rats and cynomolgus monkeys. The effects were shown to be reversible after withdrawal of the treatment.
 
-<div style=\"page-break-after: always\"></div>
-
 Hyper-/hypoplastic changes of the chondrocytes in the physis were noted in repeat-dose toxicity studies in rats.
 
 In rats, inflammatory changes accompanied by increases in neutrophils, monocytes, eosinophils, and fibrinogen levels were found in the preputial and clitoral glands following chronic dosing.
@@ -881,6 +1026,8 @@ Skin changes in the form of crusts, hyperkeratosis, or erythema were observed in
 In a study in rats, diffuse corneal edema with neutrophilic cell infiltration, and hyperplastic changes in the lenticular epithelium suggestive of a mild phototoxic reaction were observed in animals treated with 5 and 10 mg/kg ponatinib.
 
 In cynomolgus monkeys, systolic heart murmurs with no macroscopic or microscopic correlates were noted in individual animals treated with 5 and 45 mg/kg in the single dose toxicity study and at 1, 2.5 and 5 mg/kg in the 4-week repeat-dose toxicity study. The clinical relevance of this finding is unknown.
+
+<div style=\"page-break-after: always\"></div>
 
 In cynomolgus monkeys, thyroid gland follicular atrophy mostly accompanied by a reduction in T3 levels and a tendency toward increased TSH levels were observed in the 4-week repeat-dose toxicity study in cynomolgus monkeys.
 
@@ -896,8 +1043,6 @@ In juvenile rats, mortality related to inflammatory effects was observed in anim
 
 In a two-year carcinogenicity study in male and female rats, oral administration of ponatinib at 0.05, 0.1 and 0.2 mg/kg/day in males and at 0.2 and 0.4 mg/kg/day in females did not result in any tumorigenic effects. The 0.8 mg/kg/day dose in females resulted in a plasma exposure level generally lower or equivalent to the human exposure at the range of dose from 15 mg to 45 mg daily. A statistically significant increased incidence of squamous cell carcinoma of the clitoral gland was observed at that dose. The clinical relevance of this finding for humans is not known.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
@@ -909,6 +1054,8 @@ Tablet coating Talc Macrogol 4000 Poly(vinyl alcohol) Titanium dioxide (E171)
 ## 6.2 Incompatibilities
 
 Not applicable.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.3 Shelf life
 
@@ -938,15 +1085,15 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-## Disposal
+Disposal
 
 No special requirements for disposal.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Incyte Biosciences Distribution B.V. Paasheuvelweg 25 1105 BP Amsterdam
+Incyte Biosciences Distribution B.V.
+
+Paasheuvelweg 25 1105 BP Amsterdam
 
 Netherlands
 
@@ -960,13 +1107,13 @@ EU/1/13/839/002
 
 EU/1/13/839/005
 
-Iclusig 30 mg film-coated tablets EU/1/13/839/006
+Iclusig 30 mg film-coated tablets
 
-Iclusig 45 mg film-coated tablets
+EU/1/13/839/006
 
-EU/1/13/839/003
+Iclusig 45 mg film-coated tablets EU/1/13/839/003 EU/1/13/839/004
 
-EU/1/13/839/004
+<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1019,6 +1166,16 @@ An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+
+<div style=\"page-break-after: always\"></div>
+
+## · Obligation to conduct post-authorisation measures
+
+The MAH shall complete, within the stated timeframe, the below measures:
+
+| Description                                                                                                                                                                                                                                                                                  | Due date      |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+| In order to confirm the efficacy and safety of Iclusig in combination with reduced-intensity chemotherapy in adult patients with newly diagnosed Ph+ ALL the MAHshould submit the final results of Ponatinib-3001 (PhALLCON) a randomized, active controlled, multicenter, open label trial. | December 2028 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1351,6 +1508,8 @@ Iclusig is used to treat adults with the following leukaemia types who are no lo
 - chronic myeloid leukaemia (CML): a blood cancer involving too many abnormal white blood cells in the blood and the bone marrow (where blood cells are formed).
 - Philadelphia-chromosome positive acute lymphoblastic leukaemia (Ph+ ALL): a type of leukaemia involving too many immature white blood cells in the blood and blood forming bone marrow. In this kind of leukaemia, some of the DNA (genetic material) has become rearranged to form an abnormal chromosome, the Philadelphia chromosome.
 
+Iclusig is also used to treat adults with newly diagnosed Philadelphia-chromosome positive acute lymphoblastic leukaemia (Ph+ ALL) in combination with other anticancer medicines (chemotherapy).
+
 Iclusig belongs to a group of medicines called tyrosine kinase inhibitors. In patients with CML and Ph+ ALL, changes in the DNA trigger a signal that tells the body to produce abnormal white blood cells. Iclusig blocks this signal, thereby stopping the production of these cells.
 
 ## 2. What you need to know before you take Iclusig
@@ -1364,12 +1523,12 @@ Iclusig belongs to a group of medicines called tyrosine kinase inhibitors. In pa
 Talk to your doctor or pharmacist before taking Iclusig if you have:
 
 - a liver or pancreas disorder or reduced kidney function. Your doctor may want to take additional precautions.
-- a history of alcohol abuse
-- had a prior heart attack or stroke
-- a history of blood clots in your blood vessels
 
 <div style=\"page-break-after: always\"></div>
 
+- a history of alcohol abuse
+- had a prior heart attack or stroke
+- a history of blood clots in your blood vessels
 - a history of renal artery stenosis (narrowing of the blood vessels to one or both kidneys)
 - heart problems, including heart failure, irregular heartbeats, and QT prolongation
 - high blood pressure
@@ -1384,11 +1543,10 @@ Talk to your doctor or pharmacist before taking Iclusig if you have:
 
 This will be repeated every 2 weeks for the first 3 months after starting the therapy. Afterwards it is performed monthly or as indicated by the doctor.
 
-- •
-- •
-- checks of the serum protein known as lipase increased.
+- ·
+- checks of the serum protein known as lipase A serum protein called lipase will be checked every 2 weeks for the first 2 months, then
 
-A serum protein called lipase will be checked every 2 weeks for the first 2 months, then periodically. A break in treatment or a decrease in dose may be required when lipase is
+periodically. A break in treatment or a decrease in dose may be required when lipase is increased.
 
 - liver tests
 
@@ -1455,10 +1613,12 @@ Iclusig therapy should be prescribed by a doctor experienced in leukaemia treatm
 
 Iclusig is available as:
 
-- a 45 mg film-coated tablet for the recommended dose.
-- a 15 mg film-coated tablet and a 30 mg film-coated tablet to allow for dose adjustments.
+- a 45 mg film-coated tablet and a 30 mg film-coated tablet for the recommended starting doses.
+- a 15 mg film-coated tablet to allow for dose adjustments.
 
 The recommended starting dose is one 45 mg film-coated tablet once daily.
+
+The recommended starting dose in combination with chemotherapy is one 30 mg film-coated tablet once daily.
 
 Your doctor may reduce your dose or tell you to temporarily stop taking Iclusig if:
 
@@ -1473,11 +1633,11 @@ Your doctor may reduce your dose or tell you to temporarily stop taking Iclusig 
 
 Iclusig use may be resumed at the same, or a reduced dose, after the event is resolved or controlled. Your doctor may evaluate your response to the treatment at regular intervals.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Method of use
 
 Swallow the tablets whole, with a glass of water. The tablets can be taken with or without food. Do not crush or dissolve the tablets.
-
-<div style=\"page-break-after: always\"></div>
 
 Do not swallow the desiccant canister contained in the bottle.
 
@@ -1509,7 +1669,7 @@ Seek medical attention immediately if you experience any of the following seriou
 
 If abnormal results from blood tests are received, a doctor should be contacted immediately.
 
-## Serious side effects (may affect up to 1 in 10 people):
+Serious side effects (may affect up to 1 in 10 people):
 
 - lung infection (may cause breathing difficulty)
 - pancreas inflammation. Inform your doctor immediately if pancreas inflammation occurs. Symptoms are severe pain in the stomach and back.
@@ -1526,13 +1686,13 @@ If abnormal results from blood tests are received, a doctor should be contacted 
 - high blood pressure
 - narrowing of the arteries in the brain, stroke caused by low blood flow to part of the brain
 - problems of the blood vessels in the heart muscle
+
+<div style=\"page-break-after: always\"></div>
+
 - blood infection
 - swollen, or red area of skin that feels hot and tender (cellulitis)
 - dehydration
 - breathing difficulties
-
-<div style=\"page-break-after: always\"></div>
-
 - fluid in the thorax (may cause breathing difficulty)
 - diarrhoea
 - blood clot in a deep vein, sudden vein obstruction, blood clot in a blood vessel of the lung (symptoms include: hot flush, flushing, redness of the face, breathing difficulty)
@@ -1543,7 +1703,7 @@ If abnormal results from blood tests are received, a doctor should be contacted 
 - sodium decrease in the blood
 - increased tendency to bleed or bruise
 
-## Other possible side effects that may occur with the following frequencies are:
+Other possible side effects that may occur with the following frequencies are:
 
 ## Very common side effects (may affect more than 1 in 10 people):
 
@@ -1552,32 +1712,37 @@ If abnormal results from blood tests are received, a doctor should be contacted 
 - insomnia
 - headache, dizziness
 - cough
+- inflammation in the mouth
 - diarrhoea, vomiting, nausea, constipation, abdominal pain
 - increased blood levels of several liver enzymes called:
 - -alanine aminotransferase
 - -aspartate aminotransferase
+- low calcium, phosphate or potassium levels in the blood
 - skin rash, dry skin, itching
 - pain in bones, joints, pain in muscles, back, arms or legs, muscle spasms
+- nerve disorder in the arms and/or legs (often causes numbness and pain in the hands and feet)
+- increased or reduced sense of touch or sensation, abnormal sensation such as prickling, tingling and itchiness
 - fatigue, accumulation of fluid in arms and/or legs, fever, pain
+- increased blood sugar or uric acid levels in the blood
 - high blood fat values of triglycerides
 - increase in cholesterol that would be detected during blood tests
 
 ## Common side effects (may affect up to 1 in 10 people):
 
+- liver damage (symptoms may be tiredness, itchy yellow skin or yellowing of the whites of your eyes, nausea or vomiting, loss of appetite, pain in the upper right side of the belly, dark or brown urine, bleeding or bruising more easily than normal)
 - inflammation of hair follicles, swollen, red area of skin or underneath skin that feels hot and tender
 - decreased activity of thyroid gland
 - fluid retention
-- low calcium, phosphate or potassium levels in the blood
-- increased blood sugar or uric acid levels in the blood
 - weight loss
 - mini stroke
-- nerve disorder in the arms and/or legs (often causes numbness and pain in the hands and feet)
 - nerve disorder in the face (often causes numbness or weakness on one or both sides of your face)
 - lethargy, migraine
 - muscle weakness, musculoskeletal stiffness
-- increased or reduced sense of touch or sensation, abnormal sensation such as prickling, tingling and itchiness
 - blurred vision, dry eye, infection in the eye, visual disturbance, eye pain
 - tissue swelling in eyelid or around the eyes, caused by excess fluid
+
+<div style=\"page-break-after: always\"></div>
+
 - palpitation
 - pain in one or both legs when walking or exercising, which disappears after some minutes of rest
 - hot flush, flushing
@@ -1585,20 +1750,18 @@ If abnormal results from blood tests are received, a doctor should be contacted 
 - increased blood levels of liver and pancreatic enzymes:
 - -amylase
 - -alkaline phosphatase
-
-<div style=\"page-break-after: always\"></div>
-
 - -gamma-glutamyltransferase
 - increased level of the serum protein known as C-reactive protein that increases when there is inflammation in your body
 - heartburn caused by reflux of stomach juices, peptic ulcer
-- inflammation in the mouth, pain in the throat or mouth, dry mouth, bleeding gums
+- pain in the throat or mouth, dry mouth, bleeding gums
 - abdominal swelling or discomfort or indigestion
 - stomach bleeding (symptoms include: stomach pain, vomiting blood)
 - increased blood level of bilirubin - the yellow breakdown substance of the blood pigment (symptoms include: dark amber urine)
 - pain in skeletal system or neck
 - pain caused by inflammation in the membrane surrounding the tendons usually in the feet or hands
-- peeling of the skin, abnormal thickening of the skin, redness, bruising, skin pain, changes in skin colour, flat discolored areas and small raised bumps on your skin, warts, skin disease resembling acne, symmetrical, red, raised skin areas that can appear all over the body, hair loss
-- tissue swelling in face caused by excess fluid
+- peeling of the skin, abnormal thickening of the skin, redness, bruising, skin pain, changes in skin colour, flat discolored areas and small raised bumps on your skin, warts, skin disease
+- ·
+- resembling acne, symmetrical, red, raised skin areas that can appear all over the body, hair loss tissue swelling in face caused by excess fluid
 - night sweats, increased sweating
 - inability to develop or maintain an erection
 - chills, flu-like illness
@@ -1616,7 +1779,7 @@ If abnormal results from blood tests are received, a doctor should be contacted 
 
 - renal artery stenosis (narrowing of the blood vessels to one or both kidneys)
 - circulatory problems in the spleen
-- liver damage, jaundice (symptoms include: yellowing of the skin and eyes)
+- jaundice (symptoms include: yellowing of the skin and eyes)
 - headache, confusion, seizures, and loss of vision, which may be symptoms of a brain condition known as posterior reversible encephalopathy syndrome (PRES).
 
 ## Not known (frequency cannot be estimated from the available data):
@@ -1624,6 +1787,42 @@ If abnormal results from blood tests are received, a doctor should be contacted 
 - recurrence (reactivation) of Hepatitis B infection when you have had hepatitis B in the past (a liver infection).
 - troubling skin rashes involving blisters or peeling and spread across the body, and involving tiredness. Inform your doctor immediately if you experience these symptoms.
 - an enlargement and weakening of a blood vessel wall or a tear in a blood vessel wall (aneurysms and artery dissections).
+
+<div style=\"page-break-after: always\"></div>
+
+## Additional side effects reported when ponatinib was used in combination with chemotherapy in Philadelphia positive ALL:
+
+## Very common side effects (may affect more than 1 in 10 people):
+
+- changes in blood levels:
+- -increased number of white blood cells
+- -increased level of the serum enzymes known as lactate dehydrogenase and that may be an indicator of tissue damage.
+
+## Common side effects (may affect up to 1 in 10 people):
+
+- infection due to a low number of white blood cells called neutrophils in the blood
+- changes in blood levels:
+- -decreased number of red and white blood cells as well as blood platelets (myelosuppression, cytopenia)
+- -increased number of white blood cells called neutrophils
+- -increased number of blood platelets
+- -low number of white blood cells that put you at high risk of serious infections due to the suppressed immune system
+- -decreased level of the serum protein known as albumine in the blood
+- -increased level of the serum protein known as blood creatinine and linked with the activity of your kidneys
+- -increased level of the serum protein known as troponin I that can mean there has been some damage to your heart.
+- -decreased level of fibrinogen, a clottable protein, in your blood
+- -decreased level of the total count of proteins in your blood
+- a broken blood vessel that bleeds on the surface of your eye
+- palpitations
+- slow heartbeat with a resting heart rate of 60 beats per minute or less
+- hoarse voice
+- inflamed lining of the stomach
+
+## Uncommon side effects (may affect up to 1 in 100 people):
+
+- coldness in the arms and/or legs
+- blood clots
+- mouth bleeding
+- problems with your liver and bile ducts that may cause elevations in amylase or lipase enzymes in your blood
 
 ## Reporting of side effects
 
@@ -1633,13 +1832,13 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep this medicine out of the sight and reach of children.
 
-<div style=\"page-break-after: always\"></div>
-
 Do not use this medicine after the expiry date which is stated on the bottle label and carton after EXP. The expiry date refers to the last day of that month.
 
 Store in the original container in order to protect from light.
 
 The bottle contains one sealed plastic canister containing a molecular sieve desiccant. Keep the canister in the bottle. Do not swallow the desiccant canister.
+
+<div style=\"page-break-after: always\"></div>
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1647,8 +1846,14 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Iclusig contains
 
-- •
-- The active substance is ponatinib. Each 15 mg film-coated tablet contains 15 mg ponatinib (as ponatinib hydrochloride). Each 30 mg film-coated tablet contains 30 mg ponatinib (as ponatinib hydrochloride). Each 45 mg film-coated tablet contains 45 mg ponatinib (as ponatinib hydrochloride).
+- The active substance is ponatinib.
+
+Each 15 mg film-coated tablet contains 15 mg ponatinib (as ponatinib hydrochloride).
+
+Each 30 mg film-coated tablet contains 30 mg ponatinib (as ponatinib hydrochloride).
+
+Each 45 mg film-coated tablet contains 45 mg ponatinib (as ponatinib hydrochloride).
+
 - The other ingredients are lactose monohydrate, microcrystalline cellulose, sodium starch glycolate, silica (colloidal anhydrous), magnesium stearate, talc, macrogol 4000, polyvinyl alcohol, titanium dioxide (E171). See section 2 'Iclusig contains lactose'.
 
 ## What Iclusig looks like and contents of the pack
@@ -1663,8 +1868,6 @@ Not all pack sizes may be marketed.
 
 Incyte Biosciences Distribution B.V. Paasheuvelweg 25 1105 BP Amsterdam Netherlands
 
-<div style=\"page-break-after: always\"></div>
-
 ## Manufacturer
 
 Incyte Biosciences Distribution B.V. Paasheuvelweg 25 1105 BP Amsterdam Netherlands
@@ -1676,5 +1879,7 @@ Tjoapack Netherlands B.V. Nieuwe Donk 9 4879 AC Etten-Leur Netherlands
 Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu.
 
 There are also links to other websites about rare diseases and treatments.
+
+<div style=\"page-break-after: always\"></div>
 
 This leaflet is available in all EU/EEA languages on the European Medicines Agency website.

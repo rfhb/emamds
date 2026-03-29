@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-30 15:32:00
+document_datetime: 2026-03-26 17:26:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kisplyx.html
 document_name: kisplyx.html
 version: success
-processing_time: 0.1305422
-conversion_datetime: 2026-02-01 20:45:13.611745
+processing_time: 0.1233771
+conversion_datetime: 2026-03-29 12:40:57.878941
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.15.1
+  docling-jobkit: 1.14.0
+  docling: 2.82.0
+  docling-core: 2.70.2
+  docling-ibm-models: 3.13.0
+  docling-parse: 5.6.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
 ---
 # Kisplyx
 
 [RSS](/en/individual-human-medicine.xml/66501)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-lenvatinib Medicine Human Authorised
+lenvatinib
+
+Medicine Human Authorised
 
 Page contents
 
@@ -109,275 +111,141 @@ Kisplyx : EPAR - Summary for the public
 
 English (EN) (122.03 KB - PDF)
 
-**First published:** 16/11/2016
-
-**Last updated:** 30/11/2021
+**First published:** 16/11/2016 **Last updated:** 30/11/2021
 
 [View](/en/documents/overview/kisplyx-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-483)
+[Other languages (22)](#file-language-dropdown-855)
 
 български (BG) (144.92 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-30/11/2021
+**First published:** 16/11/2016 **Last updated:** 30/11/2021
 
 [View](/bg/documents/overview/kisplyx-epar-summary-public_bg.pdf)
 
 español (ES) (118.97 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-30/11/2021
+**First published:** 16/11/2016 **Last updated:** 30/11/2021
 
 [View](/es/documents/overview/kisplyx-epar-summary-public_es.pdf)
 
 čeština (CS) (143.78 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-30/11/2021
+**First published:** 16/11/2016 **Last updated:** 30/11/2021
 
 [View](/cs/documents/overview/kisplyx-epar-summary-public_cs.pdf)
 
 dansk (DA) (117.69 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-30/11/2021
+**First published:** 16/11/2016 **Last updated:** 30/11/2021
 
 [View](/da/documents/overview/kisplyx-epar-summary-public_da.pdf)
 
 Deutsch (DE) (121.36 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-30/11/2021
+**First published:** 16/11/2016 **Last updated:** 30/11/2021
 
 [View](/de/documents/overview/kisplyx-epar-summary-public_de.pdf)
 
 eesti keel (ET) (106.57 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-30/11/2021
+**First published:** 16/11/2016 **Last updated:** 30/11/2021
 
 [View](/et/documents/overview/kisplyx-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (144.64 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-30/11/2021
+**First published:** 16/11/2016 **Last updated:** 30/11/2021
 
 [View](/el/documents/overview/kisplyx-epar-summary-public_el.pdf)
 
 français (FR) (122.91 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-30/11/2021
+**First published:** 16/11/2016 **Last updated:** 30/11/2021
 
 [View](/fr/documents/overview/kisplyx-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (142.15 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-30/11/2021
+**First published:** 16/11/2016 **Last updated:** 30/11/2021
 
 [View](/hr/documents/overview/kisplyx-epar-summary-public_hr.pdf)
 
 italiano (IT) (118.31 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-30/11/2021
+**First published:** 16/11/2016 **Last updated:** 30/11/2021
 
 [View](/it/documents/overview/kisplyx-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (151.84 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-30/11/2021
+**First published:** 16/11/2016 **Last updated:** 30/11/2021
 
 [View](/lv/documents/overview/kisplyx-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (142.01 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-30/11/2021
+**First published:** 16/11/2016 **Last updated:** 30/11/2021
 
 [View](/lt/documents/overview/kisplyx-epar-summary-public_lt.pdf)
 
 magyar (HU) (143.69 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-30/11/2021
+**First published:** 16/11/2016 **Last updated:** 30/11/2021
 
 [View](/hu/documents/overview/kisplyx-epar-summary-public_hu.pdf)
 
 Malti (MT) (144.09 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-30/11/2021
+**First published:** 16/11/2016 **Last updated:** 30/11/2021
 
 [View](/mt/documents/overview/kisplyx-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (119.05 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-30/11/2021
+**First published:** 16/11/2016 **Last updated:** 30/11/2021
 
 [View](/nl/documents/overview/kisplyx-epar-summary-public_nl.pdf)
 
 polski (PL) (144.54 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-30/11/2021
+**First published:** 16/11/2016 **Last updated:** 30/11/2021
 
 [View](/pl/documents/overview/kisplyx-epar-summary-public_pl.pdf)
 
 português (PT) (119.94 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-30/11/2021
+**First published:** 16/11/2016 **Last updated:** 30/11/2021
 
 [View](/pt/documents/overview/kisplyx-epar-summary-public_pt.pdf)
 
 română (RO) (142.28 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-30/11/2021
+**First published:** 16/11/2016 **Last updated:** 30/11/2021
 
 [View](/ro/documents/overview/kisplyx-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (143.11 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-30/11/2021
+**First published:** 16/11/2016 **Last updated:** 30/11/2021
 
 [View](/sk/documents/overview/kisplyx-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (139.23 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-30/11/2021
+**First published:** 16/11/2016 **Last updated:** 30/11/2021
 
 [View](/sl/documents/overview/kisplyx-epar-summary-public_sl.pdf)
 
 Suomi (FI) (116.27 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-30/11/2021
+**First published:** 16/11/2016 **Last updated:** 30/11/2021
 
 [View](/fi/documents/overview/kisplyx-epar-summary-public_fi.pdf)
 
 svenska (SV) (117.67 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-30/11/2021
+**First published:** 16/11/2016 **Last updated:** 30/11/2021
 
 [View](/sv/documents/overview/kisplyx-epar-summary-public_sv.pdf)
 
@@ -385,9 +253,7 @@ Kisplyx : EPAR - Risk management plan
 
 English (EN) (931.83 KB - PDF)
 
-**First published:** 30/04/2024
-
-**Last updated:** 23/05/2025
+**First published:** 30/04/2024 **Last updated:** 23/05/2025
 
 [View](/en/documents/rmp/kisplyx-epar-risk-management-plan_en.pdf)
 
@@ -395,305 +261,161 @@ English (EN) (931.83 KB - PDF)
 
 Kisplyx : EPAR - Product Information
 
-English (EN) (410.42 KB - PDF)
+English (EN) (418.64 KB - PDF)
 
-**First published:** 16/11/2016
-
-**Last updated:** 22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/en/documents/product-information/kisplyx-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-722)
+[Other languages (24)](#file-language-dropdown-927)
 
-български (BG) (499.7 KB - PDF)
+български (BG) (513.42 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/bg/documents/product-information/kisplyx-epar-product-information_bg.pdf)
 
-español (ES) (494.89 KB - PDF)
+español (ES) (510.53 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/es/documents/product-information/kisplyx-epar-product-information_es.pdf)
 
-čeština (CS) (451.88 KB - PDF)
+čeština (CS) (465.21 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/cs/documents/product-information/kisplyx-epar-product-information_cs.pdf)
 
-dansk (DA) (463.97 KB - PDF)
+dansk (DA) (470.27 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/da/documents/product-information/kisplyx-epar-product-information_da.pdf)
 
-Deutsch (DE) (451.09 KB - PDF)
+Deutsch (DE) (459.94 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/de/documents/product-information/kisplyx-epar-product-information_de.pdf)
 
-eesti keel (ET) (473.23 KB - PDF)
+eesti keel (ET) (484.08 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/et/documents/product-information/kisplyx-epar-product-information_et.pdf)
 
-ελληνικά (EL) (515.34 KB - PDF)
+ελληνικά (EL) (528.15 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/el/documents/product-information/kisplyx-epar-product-information_el.pdf)
 
-français (FR) (510.99 KB - PDF)
+français (FR) (517.07 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/fr/documents/product-information/kisplyx-epar-product-information_fr.pdf)
 
-hrvatski (HR) (456.69 KB - PDF)
+hrvatski (HR) (461.45 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/hr/documents/product-information/kisplyx-epar-product-information_hr.pdf)
 
-íslenska (IS) (472.06 KB - PDF)
+íslenska (IS) (476.53 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/is/documents/product-information/kisplyx-epar-product-information_is.pdf)
 
-italiano (IT) (458.95 KB - PDF)
+italiano (IT) (473.88 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/it/documents/product-information/kisplyx-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (453.04 KB - PDF)
+latviešu valoda (LV) (468.15 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/lv/documents/product-information/kisplyx-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (455.67 KB - PDF)
+lietuvių kalba (LT) (456.64 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/lt/documents/product-information/kisplyx-epar-product-information_lt.pdf)
 
-magyar (HU) (501.67 KB - PDF)
+magyar (HU) (507.45 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/hu/documents/product-information/kisplyx-epar-product-information_hu.pdf)
 
-Malti (MT) (481.75 KB - PDF)
+Malti (MT) (487.24 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/mt/documents/product-information/kisplyx-epar-product-information_mt.pdf)
 
-Nederlands (NL) (429.85 KB - PDF)
+Nederlands (NL) (437.63 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/nl/documents/product-information/kisplyx-epar-product-information_nl.pdf)
 
-norsk (NO) (468.91 KB - PDF)
+norsk (NO) (474.09 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/no/documents/product-information/kisplyx-epar-product-information_no.pdf)
 
-polski (PL) (485.41 KB - PDF)
+polski (PL) (491.23 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/pl/documents/product-information/kisplyx-epar-product-information_pl.pdf)
 
-português (PT) (509.15 KB - PDF)
+português (PT) (517.18 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/pt/documents/product-information/kisplyx-epar-product-information_pt.pdf)
 
-română (RO) (436.24 KB - PDF)
+română (RO) (445.48 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/ro/documents/product-information/kisplyx-epar-product-information_ro.pdf)
 
-slovenčina (SK) (487.33 KB - PDF)
+slovenčina (SK) (500.19 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/sk/documents/product-information/kisplyx-epar-product-information_sk.pdf)
 
-slovenščina (SL) (494.38 KB - PDF)
+slovenščina (SL) (503.9 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/sl/documents/product-information/kisplyx-epar-product-information_sl.pdf)
 
-Suomi (FI) (477.46 KB - PDF)
+Suomi (FI) (487.65 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/fi/documents/product-information/kisplyx-epar-product-information_fi.pdf)
 
-svenska (SV) (464.65 KB - PDF)
+svenska (SV) (474.94 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-22/04/2025
+**First published:** 16/11/2016 **Last updated:** 26/03/2026
 
 [View](/sv/documents/product-information/kisplyx-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/61 13/03/2025
+**Latest procedure affecting product information:** VR/0000328217
+
+26/03/2026
 
 icon globe
 
@@ -713,305 +435,177 @@ Kisplyx : EPAR - All Authorised presentations
 
 English (EN) (35.87 KB - PDF)
 
-**First published:** 16/11/2016
-
-**Last updated:** 12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/en/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-515)
+[Other languages (24)](#file-language-dropdown-546)
 
 български (BG) (32.15 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/bg/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (28.99 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/es/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (28.16 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/cs/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (27.97 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/da/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (28.26 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/de/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (27.26 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/et/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (31.51 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/el/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (26.74 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/fr/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (41.2 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/hr/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (27.27 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/is/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (26.66 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/it/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (27.78 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/lv/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (38.63 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/lt/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (28.18 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/hu/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (27.81 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/mt/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (27.35 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/nl/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (37.72 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/no/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (27.91 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/pl/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (26.73 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/pt/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (27.1 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/ro/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (32.38 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/sk/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (29.42 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/sl/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (26.4 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/fi/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (26.87 KB - PDF)
 
-**First published:**
-
-16/11/2016
-
-**Last updated:**
-
-12/11/2019
+**First published:** 16/11/2016 **Last updated:** 12/11/2019
 
 [View](/sv/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Kisplyx Active substance lenvatinib mesilate International non-proprietary name (INN) or common name lenvatinib Therapeutic area (MeSH) Carcinoma, Renal Cell Anatomical therapeutic chemical (ATC) code L01XE29
+Name of medicine
+
+Kisplyx
+
+Active substance
+
+lenvatinib mesilate
+
+International non-proprietary name (INN) or common name
+
+lenvatinib
+
+Therapeutic area (MeSH)
+
+Carcinoma, Renal Cell
+
+Anatomical therapeutic chemical (ATC) code
+
+L01XE29
 
 ### Pharmacotherapeutic group
 
@@ -1026,7 +620,9 @@ Kisplyx is indicated for the treatment of adults with advanced renal cell carcin
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004224
+EMA product number
+
+EMEA/H/C/004224
 
 Accelerated assessment
 
@@ -1038,7 +634,17 @@ Eisai GmbH
 
 Edmund-Rumpler-Straße 3
 
-Opinion adopted 21/07/2016 Marketing authorisation issued 25/08/2016 Revision 27
+Opinion adopted
+
+21/07/2016
+
+Marketing authorisation issued
+
+25/08/2016
+
+Revision
+
+28
 
 ## Assessment history
 
@@ -1050,9 +656,9 @@ Collapse section
 
 Kisplyx : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (141.99 KB - PDF)
+English (EN) (150.44 KB - PDF)
 
-**First published:** 22/04/2025
+**First published:** 22/04/2025 **Last updated:** 26/03/2026
 
 [View](/en/documents/procedural-steps-after/kisplyx-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1060,17 +666,13 @@ Kisplyx : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (297.05 KB - PDF)
 
-**First published:** 25/10/2018
-
-**Last updated:** 22/04/2025
+**First published:** 25/10/2018 **Last updated:** 22/04/2025
 
 [View](/en/documents/procedural-steps-after/kisplyx-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Kisplyx-PAM-0000279841 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2219662
+Adopted Reference Number: EMADOC-1700519818-2219662
 
 English (EN) (1.08 MB - PDF)
 
@@ -1080,9 +682,7 @@ English (EN) (1.08 MB - PDF)
 
 Kisplyx-H-C-004224-P46-020 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/330823/2024
+Adopted Reference Number: EMA/330823/2024
 
 English (EN) (2.64 MB - PDF)
 
@@ -1092,9 +692,7 @@ English (EN) (2.64 MB - PDF)
 
 Kisplyx-H-C-004224-P46-019 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/367098/2023
+Adopted Reference Number: EMA/367098/2023
 
 English (EN) (2.86 MB - PDF)
 
@@ -1104,9 +702,7 @@ English (EN) (2.86 MB - PDF)
 
 Kisplyx-H-C-004224-P46-017 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/380284/2024
+Adopted Reference Number: EMA/380284/2024
 
 English (EN) (5.18 MB - PDF)
 
@@ -1116,9 +712,7 @@ English (EN) (5.18 MB - PDF)
 
 Kisplyx-H-C-004224-II-0045 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/621560/2021
+Adopted Reference Number: EMA/621560/2021
 
 English (EN) (6.06 MB - PDF)
 
@@ -1128,9 +722,7 @@ English (EN) (6.06 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Kisplyx (II-45)
 
-Adopted
-
-Reference Number: EMA/CHMP/551957/2021
+Adopted Reference Number: EMA/CHMP/551957/2021
 
 English (EN) (132.73 KB - PDF)
 
@@ -1154,47 +746,47 @@ Kisplyx : EPAR - Public assessment report
 
 English (EN) (2.62 MB - PDF)
 
-**First published:** 16/11/2016
-
-**Last updated:** 16/11/2016
+**First published:** 16/11/2016 **Last updated:** 16/11/2016
 
 [View](/en/documents/assessment-report/kisplyx-epar-public-assessment-report_en.pdf)
 
 CHMP summary of opinion for Kisplyx
 
-Adopted
-
-Reference Number: EMA/CHMP/480541/2016
+Adopted Reference Number: EMA/CHMP/480541/2016
 
 English (EN) (63.23 KB - PDF)
 
-**First published:** 22/07/2016
-
-**Last updated:** 22/07/2016
+**First published:** 22/07/2016 **Last updated:** 22/07/2016
 
 [View](/en/documents/smop-initial/chmp-summary-opinion-kisplyx_en.pdf)
 
-#### News on Kisplyx
+## News on Kisplyx
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 October 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-october-2021) 15/10/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 October 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-october-2021)
 
-[Two new medicines for advanced kidney cancer](/en/news/two-new-medicines-advanced-kidney-cancer) 22/07/2016
+15/10/2021
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 July 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-july-2016) 22/07/2016
+[Two new medicines for advanced kidney cancer](/en/news/two-new-medicines-advanced-kidney-cancer)
+
+22/07/2016
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 July 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-july-2016)
+
+22/07/2016
 
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/home?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-3=2=EMEAHC0042240000) (initial marketing authorisation)
 
-#### More information on Kisplyx
+## More information on Kisplyx
 
 - [EMEA-001119-PIP02-12-M08 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001119-pip02-12-m08)
 - [EMEA-001119-PIP03-19-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001119-pip03-19-m03)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 30/01/2026
+**This page was last updated on**
+
+26/03/2026
 
 ## Share this page
-
-[Back to top](#main-content)
